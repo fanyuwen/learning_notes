@@ -11,7 +11,7 @@
 2. 可以直接调用静态方法或者静态属性:
     ```html
     <choose>
-        <when test="@com.learn.mybtais.util.StringUtil@isEmpty(usr.username)">
+        <when test="@com.learn.mybtais.util.StringUtil@isEmpty(user.username)">
             limit 5
         </when>    
     </choose>
@@ -23,7 +23,7 @@
     + 判断是否在一个集合(数组)内,如果是字符串值需要加上对应的(单\双)引号
       ```html
          <choose>
-            <when test="usr.role in {1,10,11,12}">
+            <when test="user.role in {1,10,11,12}">
                 limit 5
             </when>
          </choose>

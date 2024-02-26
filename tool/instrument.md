@@ -26,4 +26,4 @@
 + javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/)
 + c/c++构建工具 [cmake](https://cmake.org/)
 
-[^*]: 标*的代表又收费项目
+[^*]: 标数字的代表有收费项目

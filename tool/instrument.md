@@ -25,5 +25,6 @@
 + javascript运行时 [bun](https://bun.sh/) [deno](https://deno.com/)
 + javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/)
 + c/c++构建工具 [cmake](https://cmake.org/)
++ 编程语言[mojo](https://docs.modular.com/mojo)
 
 [^*]: 标数字1的代表有收费项目

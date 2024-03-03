@@ -96,3 +96,9 @@ Spring实战是看的比较详细,补充了很多我对Spring使用上的知识,
 今天还是像之前几天一样,思绪很乱,看到一个鸡汤文:
 > 当你自己选择了与众不同的生活方式之后,又何必去在乎别人以与众不同的眼光来看你
 >                                                   --多丽丝.莱辛
+> 
+# 2024 34岁 03-03 13:29
+昨天跑了步,理了发,剪了个寸头,昨晚也是跟波哥聊了很久,然后很晚睡觉,也是做了一个很长的梦,今天一觉醒来已经是13点多了,在阳台上看今天天气真的非常好,回来继续看昨天一个没看完的关于编程界的大师*Anders Hejlsberg*的简单介绍,太牛逼了,关键是像他这样的人还挺多的,然后在视频的下面有一处说的一段话:
+> Just because people tell you it can't be done,that doesn't necessarily mean that it can't be done.it just means that they can't do it.
+>                                                                                                            --Anders Hejlsberg
+> 仅仅因为别人告诉你这是不可能的，那并不一定意味着这是不可能的。这只意味着他们自己做不到。

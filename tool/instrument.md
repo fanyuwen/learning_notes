@@ -11,6 +11,7 @@
 + 分布式内存数据网格 [^*][hazelcast](https://hazelcast.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)
++ 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/)
 + java字节码操作库 [asm](https://asm.ow2.io/) [javassist](https://www.javassist.org/) [bytebuddy](https://bytebuddy.net/)
 + java响应式编程库 [projectreactor](https://projectreactor.io/)
 + java高性能并发库 [disruptor](https://lmax-exchange.github.io/disruptor/)
@@ -24,7 +25,8 @@
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)
 + javascript运行时 [bun](https://bun.sh/) [deno](https://deno.com/)
-+ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/)
++ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/)
++ 前端打包工具 [webpack](https://webpack.js.org/)
 + c/c++构建工具 [cmake](https://cmake.org/)
 + 编程语言[mojo](https://docs.modular.com/mojo)
 

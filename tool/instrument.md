@@ -14,6 +14,7 @@
 + java字节码操作库 [asm](https://asm.ow2.io/) [javassist](https://www.javassist.org/) [bytebuddy](https://bytebuddy.net/)
 + java响应式编程库 [projectreactor](https://projectreactor.io/)
 + java高性能并发库 [disruptor](https://lmax-exchange.github.io/disruptor/)
++ 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/)
 + orm(数据库对象关系映射框架) [^*][jooq](https://www.jooq.org/)
 + java容错库 [resilience4j](https://resilience4j.readme.io/)
 + java http库 [Apache HttpComponents](https://hc.apache.org/index.html)

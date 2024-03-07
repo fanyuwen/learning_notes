@@ -7,6 +7,7 @@
 + 分布式消息系统 [Pulsar](https://pulsar.apache.org/)
 + 对象存储 [^*][minio](https://min.io/)
 + 分布式事务管理 [^*][atomikos](https://www.atomikos.com/)
++ 键值对快速存储引擎 [rocksdb](https://rocksdb.org/)
 + 内存数据库 [^*][Dragonfly](https://www.dragonflydb.io/)
 + 分布式内存数据网格 [^*][hazelcast](https://hazelcast.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)

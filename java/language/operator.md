@@ -83,4 +83,72 @@ if语句和?:语句的主要区别在于后者有一个值(?:整体是一个表�
 或者:  
 `a ? b ? c ? d ? e ? f ? g ? h ? i : x8 : x7 : x6 : x5 : x4 : x3 : x2 : x1` = `a ? (b ? (c ? (d ? (e ? (f ? (g ? (h ? i : x8) : x7) : x6) : x5) : x4) : x3) : x2) : x1`  
 ***关于条件运算符的一个踩坑点***  
-三目运算符的空指针问题
+三目(条件)运算符的空指针问题(与java基本类型和包装类型拆装箱问题)
+
+```java
+    import java.util.HashMap;
+
+public class ConditionExpressionProblem {
+    //第一种情况
+    void conditionExpressionNull_1() {
+        //这个是阿里开发手册的一个规约的例子
+        Integer a = 1;
+        Integer b = 2;
+        Integer c = null;
+        Boolean flag = false;
+        // a * b 的结果是int类型,那么c会强制拆箱成int类型,抛出NPE异常
+        Integer result = (flag ? a * b : c);
+    }
+
+    //第二种情况
+    void conditionExpressionNull_2() {
+        Map<String, Boolean> map = new HashMap<>();
+        //这里也会报NPE异常
+        Boolean b = (map != null ? map.get("test") : false);
+        //将上面那行代码进行反编译
+        // Boolean b = Boolean.valueOf(map == null ? false : ((Boolean)map.get("test")).booleanValue());
+        //能看出上面空指针报错的点
+    }
+}
+```
+以下摘自java语法规范关于条件运算符的部分解释  
+完整解释见  
+[javase 7语言规范](https://docs.oracle.com/javase/specs/jls/se7/html/jls-15.html#jls-15.25)  
+[javase 8语言规范](https://docs.oracle.com/javase/specs/jls/se8/html/jls-15.html#jls-15.25)  
+[javase 21语言规范](https://docs.oracle.com/javase/specs/jls/se21/html/jls-15.html#jls-15.25)
+以下摘自javase 8语言规范关于条件运算符的说明(部分):
+> At run time, the first operand expression of the conditional expression is evaluated first. If necessary, unboxing conversion is performed on the result. 
+> The resulting boolean value is then used to choose either the second or the third operand expression:  
+> 在运行时,首先计算条件表达式的第一个操作数表达式. 如有必要,将对结果执行拆箱转换. 然后使用结果布尔值选择第二个或第三个操作数表达式:  
+>> If the value of the first operand is true, then the second operand expression is chosen.  
+>> 如果第一个操作数的值为真,则选择第二个操作数表达式.
+>> If the value of the first operand is false, then the third operand expression is chosen.
+>> 如果第一个操作数的值为false,则选择第三个操作数表达式.
+
+> The chosen operand expression is then evaluated and the resulting value is converted to the type of the conditional expression as determined by the rules stated below.  
+> 然后对选定的操作数表达式求值,并将结果值转换为条件表达式的类型,该类型由下面说明的规则确定.  
+> This conversion may include boxing or unboxing conversion (§5.1.7, §5.1.8).  
+> 这种转换可能包括装箱或拆箱转换(§5.1.7，§5.1.8).  
+> The operand expression not chosen is not evaluated for that particular evaluation of the conditional expression.  
+> **未选择的操作数表达式不会对条件表达式的特定求值进行求值.**
+
+以下摘自javase 7语言规范关于条件运算符的说明(部分):
+> If the second and third operands have the same type (which may be the null type), then that is the type of the conditional expression.
+>> 如果第二个和第三个操作数具有相同的类型(可能是空类型),那么该类型就是条件表达式的类型.
+
+> If one of the second and third operands is of primitive type T, and the type of the other is the result of applying boxing conversion (§5.1.7) to T, then the type of the conditional expression is T.  
+>> 如果第二个和第三个操作数中的一个为基本类型T,另一个操作数的类型是对T应用装箱转换(第5.1.7节)的结果,则条件表达式的类型为T.  
+>> eg. `a ? int : Integer`的结果就是int类型,基本类型
+
+> If one of the second and third operands is of the null type and the type of the other is a reference type, then the type of the conditional expression is that reference type.  
+>> 如果第二个和第三个操作数中的一个为null类型,而另一个操作数的类型为引用类型，则条件表达式的类型为该引用类型.
+
+根据上面的描述总结:(由于条件运算符属于短路运算符,所以只有当走到那个分支的情况下才会算对应的值)
++ 当第二、第三位操作数分别为基本类型和包装类型时(无论是否是直接包装类型),其中包装对象会拆箱为基本类型(*如果不是直接包装类型然后升级到更大范围的基本类型*)做为整个表达式的类型**char(Character)遇到byte/short会提升为int(Integer)**  
+  `a ? int : Integer` => int `a ? int : Double` => double `a ? double : Integer` => double
++ 当第二、第三位操作数都为包装类型,但是类型不一致,2个都会拆箱成基本类型再升级到更大范围的那个基本类型做为整个表达式的类型**char(Character)遇到byte/short会提升为int(Integer)**
+  `a ? Double : Integer` => double `a ? Integer : Float` => float `a ? Integer : Long` => long
++ 其它情况(第二、第三位分别为基本类型和非包装类型对象、包装类型和非包装类型对象、为相同的包装类型、其它非包装对象类型)不受上面的`null`引用影响,但是还有其它情况
+  + 第二、第三位分别为*基本类型*并且不相同,则整个表达式的类型为范围最大的基本类型**char(Character)遇到byte/short会提升为int(Integer)**
+  + 第二、第三位分别为*基本类型*和*数字字面量*时,如果数字字面量的值在基本类型的表示范围之内,整个表达式的类型为该基本类型(如果用包装类型接收,则也会转换为包装类型)
+    `a ? byte : 12` => byte `a ? short : 4443` => short `a ? char : 65539` => int

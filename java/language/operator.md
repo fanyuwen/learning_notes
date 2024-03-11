@@ -100,14 +100,24 @@ public class ConditionExpressionProblem {
         Integer result = (flag ? a * b : c);
     }
 
-    //第二种情况
+    //第二种情况(java 8以下会报错,java 8及以后的版本不会报错,详情见javase 8的语言规范(将条件表达式分成了3中表达式))
     void conditionExpressionNull_2() {
         Map<String, Boolean> map = new HashMap<>();
         //这里也会报NPE异常
         Boolean b = (map != null ? map.get("test") : false);
-        //将上面那行代码进行反编译
+        //将上面那行代码用java7进行反编译
         // Boolean b = Boolean.valueOf(map == null ? false : ((Boolean)map.get("test")).booleanValue());
         //能看出上面空指针报错的点
+        //===============================================
+        //java 8的版本:
+        Boolean b = (map != null ? map.get("test") : false);
+        //首先第二个操作是'map.get("test")',虽然定义的泛型类型是Boolean,但是实际上在编译的时候泛型会被擦除,所以结果是Objec
+        //那么根据规则,整个表达式会被判定为引用表达式,又根据定义:如果引用条件表达式出现在赋值上下文或调用上下文中,那么条件表达式就是
+        //合成表达式,因为上面的语句就是一个赋值上下文,所以整个条件表达式就是合成表达式,又根据定义:合成的引用条件表达式的类型与其目标
+        //类型相同,所以编译器可以推断出该表达式的第二个操作数和第三个操作数的结果应该都是Boolean类型.所以在编译的过程中,就都可以把他们
+        //都转成Boolean类型即可,那么上面的代码在java8中反编译后的内容是: Boolean b = map == null ? Boolean.valueOf(false) : (Boolean)map.get("test");
+        //但是在java7中没有这些规定,编译器只知道表达式的第二和第三位分别是基本类型和包装类型,而无法推断最终表达式类型,就会先把返回结果转换为基本类型,在变量赋值的时候再转换成包装类型
+        //详细讲解参见java8的语言规范
     }
 }
 ```

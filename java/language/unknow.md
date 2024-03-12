@@ -85,3 +85,45 @@
     }
 ```
 + `double`和`float`类型
+   `NaN`值,double和float类型的一个特殊值(Not a Number,不是一个数)
+   产生方式 `0.0 / 0.0`(double)或者`0.0f / 0.0f`(float),`NaN`与其它值运算产生的结果也是`NaN`,
+   `NaN == NaN`的结果是`false`(有一个题目: 请通过声明初始化变量i让下面的代码变成死循环`while(i != i){}`)
++ Array(数组)
+  有一个通过*可变参数*获取泛型实际类型的方式:
+  ```java
+    public final class Capture<E>{
+        private Class<E> type;
+        @SafeVarargs
+        @SuppressWarnings("unchecked")
+        public Capture(E... args){
+            if(args == null){//保护性判断,可能为null
+                this.type = (Class<E>)Object.class;
+                return;
+            }
+            this.type = (Class<E>)args.getClass().getComponentType();
+        }
+        public Class<E> getType(){
+            return type;
+        }
+    }
+  ```
++ xor(异或运算符)(可以把该运算符运用到逻辑判断中)
+  ``if(a == null ^ b == null){throw new NullPointException();}``只有a或者b有一个为null才会报空指针,都为null或者都不为null不会报空指针
++ 整数溢出
+  整数类型(byte、short、int、long)都有各自的数值范围,如果运算超出范围会溢出
+  `(byte|short|int|long).min_value == (byte|short|int|long).max_value + 1`
+  `Math.abs()`绝对值问题,`Math.abs(min_value)`结果还是`min_value`,`Math.abs`并不是一定会给你返回正数,原因还是数值的范围,最小值 = -(最大值+1),所以对最小值取-的结果就是最大值+1,还是最小值
++ try-with-resources(java自动资源管理机制),被try管理的资源不管代码块如何退出,都能被关闭
+  任何实现了`java.lang.AutoCloseable`实现close方法(`java.io.Closeable`也继承了这个接口),这个也是可以适用适配器模式场地的地方,因为很多老的应用资源并没有实现这个接口
+  在try后面声明的多个资源,close方法的调用顺序与它们声明的顺序相反
+  ```java
+     void tryWithResources(
+         Resource r1 = Resource();
+         Resource r2 = Resource();
+         Resource r3 = Resource();
+     ){
+         r3.close();
+         r2.close();
+         r1.close();
+     }
+  ```

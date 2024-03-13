@@ -49,3 +49,55 @@ class Test implements D,E{ //报错,因为不能同时继承(实现)同一个范
 }
 ```
 > 表面上是跟上面一样的问题,但其实因为范型的本身约定,导致上面编译报错,并且无法通过重写去解决
+
+## 桥接属性(合成属性)
+java编译器会在编译阶段出于一些辅助功能的实现而会在类的实现上添加一些辅助的属性(方法或者字段)
++ 成员内部类
+```java
+    class Outer{
+        class DynamicInner{
+            //private final Outer outer; 这个属性是java编译器自动生成的,为的就是在创建内部对象的时候必须要获得对外部对象的引用
+        }
+    }
+```
++ 方法重写
+```java
+    class Father {}
+    class Son extends Father{}
+    class MethodOverride {
+        Father getInfo(){
+            
+        }
+    }
+    class MethodOverride {
+        //jdk1.5开始支持方法重写返回值的协变(支持返回类型是父类返回类型的子类型)
+        @Override
+        Son getInfo(){
+            
+        }
+        //java编译器也会生成一个方法来转发(桥接)到子类实际实现的方法
+        Father getInfo(){//java编译器生成的方法
+            return getInfo();//调用实际的方法
+        }
+    }
+```
++ 泛型实现(泛型实际参数)
+```java
+    //无论是类还是抽象类亦或是接口
+    class Generic<T>{
+        T produceGeneric(){}
+        void consumerGeneric(T param){}
+    }
+    class Actual{}
+    class ActualImpl extends Generic<Actual>{
+        Actual produceGeneric(){}
+        Object produceGeneric(){//java编译器辅助生成,为了兼容父类的类型(泛型擦除)
+            return produceGeneric();
+        }
+        void consumerGeneric(Actual param){}
+        void consumerGeneric(Object param){//java编译器辅助生成,为了兼容父类的类型(泛型擦除)
+            consumerGeneric((Actual)param);
+        }
+    }
+```
++ lambda表达式

@@ -101,3 +101,39 @@ java编译器会在编译阶段出于一些辅助功能的实现而会在类的�
     }
 ```
 + lambda表达式
+
+## 方法重载 (摘自《java编程语言(第三版)》6.9.1)
+方法重载是指针对方法名相同,但是参数列表的数量、类型或者顺序不同的方法之间称为方法重载,方法的重载调用哪个方法是在编译期确定的
+一般来说参数类型不同、参数数量不同编译器是可以很容易区分具体的调用,但是针对相同数量的参数,情况就比较复杂了,java采用"most specific"(最具体)
+算法进行匹配:
+1. 找出可能适用这种调用的所有方法,也就是具有正确名字的所有重载方法,它们的参数属于可以有实际参数赋值的类型,如果有一种方法的参数和实际参数完全匹配,
+   就调用这种方法
+2. 如果一个候选方法的参数可以赋值给另一个候选方法的参数,另一个候选方法就从待候选方法中删去,因为它比较不具体,然后重复此过程直到再删不掉别的方法
+3. 如果最终只留下一个方法,它就是最具体的,也就是要调用的方法,如果留下一个以上的方法,表示调用模糊不清,没有具体的方法可以调用,调用代码无效,编译报错
+```java
+    class Dessert{}
+    class Cake extends Dessert{}
+    class Scone extends Dessert{}
+    class ChocolateCake extends Cake{}
+    class ButteredScone extends Scone{}
+    
+    final class MethodOverload {
+        //下面是几个重载方法 
+        void moorge(Dessert d, Scone s);
+        void moorge(Cake c, Dessert d);
+        void moorge(ChocolateCake cc, Scone s);
+    }
+    final class MethodOverloadInvoke {
+        private MethodOverload methodOverload = new MethodOverload();
+        void invoke(){
+           Dessert dessertRef = new Dessert();Cake cakeRef = new Cake();
+           Scone sconeRef = new Scone();ChocolateCake chocolateCakeRef = new ChocolateCake();
+           ButteredScone butteredSconeRef = new ButteredScone();
+           //下面是实际方法调用
+           methodOverload.moorge(dessertRef, sconeRef);
+           methodOverload.moorge(chocolateCakeRef, dessertRef);
+           methodOverload.moorge(chocolateCakeRef, butteredSconeRef);
+           methodOverload.moorge(cakeRef, sconeRef);
+        }
+    }
+```

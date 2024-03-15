@@ -130,10 +130,13 @@ java编译器会在编译阶段出于一些辅助功能的实现而会在类的�
            Scone sconeRef = new Scone();ChocolateCake chocolateCakeRef = new ChocolateCake();
            ButteredScone butteredSconeRef = new ButteredScone();
            //下面是实际方法调用
-           methodOverload.moorge(dessertRef, sconeRef);
-           methodOverload.moorge(chocolateCakeRef, dessertRef);
-           methodOverload.moorge(chocolateCakeRef, butteredSconeRef);
-           methodOverload.moorge(cakeRef, sconeRef);
+           methodOverload.moorge(dessertRef, sconeRef);// 1
+           methodOverload.moorge(chocolateCakeRef, dessertRef);// 2
+           methodOverload.moorge(chocolateCakeRef, butteredSconeRef);// 3
+           methodOverload.moorge(cakeRef, sconeRef);// 4 INVALID
         }
     }
 ```
++ 第一个调用使用第一种形式的moorge,因为参数和自变量类型刚好匹配  
++ 第二个调用使用第二种形式,因为没有一种刚好匹配,只有在第二种形式中,所提供的自变量可以赋值给参数类型
+  **以上两种情况,在上述方法匹配算法第一步结束之后,要调用的方法就很清楚了**

@@ -27,6 +27,7 @@
 + java redis操作库 [lettuce](https://lettuce.io/)
 + kotlin平台依赖注入框架 [koin](https://insert-koin.io/)
 + jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/)
++ java应用编译运行平台 [graalvm](https://www.graalvm.org)
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/)
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)

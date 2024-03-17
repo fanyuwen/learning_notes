@@ -16,6 +16,7 @@
 
 ### JVM_LIBRARY
 + java http库 [Apache HttpComponents](https://hc.apache.org/index.html)
++ java bean映射辅助工具 [mapstruct](https://mapstruct.org/)
 + java响应式编程库 [projectreactor](https://projectreactor.io/)
 + java redis操作库 [lettuce](https://lettuce.io/)
 + java高性能并发库 [disruptor](https://lmax-exchange.github.io/disruptor/)
@@ -27,6 +28,7 @@
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)
 + jvm网络应用框架 [netty](https://netty.io/)
 + java字节码操作库 [asm](https://asm.ow2.io/) [javassist](https://www.javassist.org/) [bytebuddy](https://bytebuddy.net/)
++ java编译器检查 [checkerframework](https://checkerframework.org/)
 
 ### JVM_FRAMEWORK
 + 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/)

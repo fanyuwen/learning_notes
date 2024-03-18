@@ -53,6 +53,7 @@
 
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
++ Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [bun](https://bun.sh/) [deno](https://deno.com/)

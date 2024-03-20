@@ -9,7 +9,7 @@
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)
-+ 分布式消息系统 [Pulsar](https://pulsar.apache.org/)
++ 分布式消息系统 [Pulsar](https://pulsar.apache.org/) [kafka](https://kafka.apache.org/)
 + 对象存储 [^*][minio](https://min.io/)
 + 分布式事务管理 [^*][atomikos](https://www.atomikos.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
@@ -34,6 +34,9 @@
 
 ### JVM_FRAMEWORK
 + 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/) [helidon](https://helidon.io/)
+
+### COMMUNICATION PROTOCOL
++ 支持Reactive Streams语义的二进制通讯协议 [rsocket](https://rsocket.io/)
 
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
@@ -63,6 +66,7 @@
 
 ### JAVASCRIPT_FRAMEWORK
 + javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/)
++ 用于基于堆栈的虚拟机的二进制指令格式(web平台) [webassembly](https://webassembly.org/)
 
 ### C/C++_TOOL
 + c/c++构建工具 [cmake](https://cmake.org/)

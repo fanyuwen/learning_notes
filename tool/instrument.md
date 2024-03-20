@@ -29,6 +29,7 @@
 + jvm网络应用框架 [netty](https://netty.io/)
 + java字节码操作库 [asm](https://asm.ow2.io/) [javassist](https://www.javassist.org/) [bytebuddy](https://bytebuddy.net/)
 + java编译器检查 [checkerframework](https://checkerframework.org/)
++ 响应式数据库连接驱动库 [r2dbc](https://r2dbc.io/)
 
 ### JVM_FRAMEWORK
 + 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/)

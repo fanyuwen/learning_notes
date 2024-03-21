@@ -6,6 +6,7 @@
 + 键值对快速存储引擎 [rocksdb](https://rocksdb.org/)
 + 内存数据库 [^*][Dragonfly](https://www.dragonflydb.io/)
 + 分布式内存数据网格 [^*][hazelcast](https://hazelcast.com/)
++ 文档数据库 [^*][mongodb](https://www.mongodb.com/)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)
@@ -48,6 +49,7 @@
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)
 + 云原生容器技术 [^*][docker](https://www.docker.com/) [podman](https://podman.io/)
++ 云原生包管理工具 [helm](https://helm.sh/)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/)
@@ -55,6 +57,7 @@
 
 ### OTHER_LANGUAGE_FRAMEWORK
 + kotlin平台依赖注入框架 [koin](https://insert-koin.io/)
++ java/scala web框架 [play](https://www.playframework.com/)
 
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)

@@ -109,6 +109,6 @@ flyway的gradle的插件,进行手动迁移,结果就是不行,实在没办法�
 也是用的jdk自己的`java.net.HttpURLConnection`,然后看到`cn.hutool.http.HttpResponse`的`private void readBody(InputStream in) throws IORuntimeException`方法里用到了`cn.hutool.core.io.FastByteArrayOutputStream`,这个类里面使用了`cn.hutool.core.io.FastByteBuffer`,大致看了下使用的是二维字节数组,让我想到了jdk的Stream的内部使用的一个类`java.util.stream.SpinedBuffer`我猜测实现的
 逻辑应该是一样的,我之后得改掉还在看源码的习惯了,还是得先完成工作,完成业务逻辑为先,下班没有遇到什么特别的事情和特别的人,说回停电瓶车难,我今天应该是把车听到培训机构门口了,被他给推到别的地方了,害我找一圈,唉...生活难,但是得保持一个积极的心,今天就记到这吧,要学习的东西还有很多很多,加油吧
 # 2024 34岁 03-21 21:28 周四
-今天看了太久的业务代码了,也是给自己警醒,注释还是要有的,主要是针对json字段的处理有不少绕的东西在里面,然后跟前端面对面的交流,确实也解决了我的很多疑惑,后面韬哥给了一些指导和建议,然后还是自己去看代码逻辑吧,把那个query方法反复看了不下4遍,总是被json的交互给搞的很懵,发现代码的逻辑也不是很严谨,后面在看hutool的工具类的时候,也是发现它也有问题,百度了一下,有一个关于json解析的问题
-`cn.hutool.json.JSONUtil`的`public static boolean isJson(String str)`方法,给它传`"{{}}"`字符串,也是返回的`true`,但是调用`public static boolean isJson(String str)`或者`public static JSONArray parseArray(String jsonStr)`还是会报错,当然这都是小细节,后面继续看业务代码,直到下班,回来终于把体检的发票给申请下来了(尽然说是系统升级,what fuck),
+今天看了太久的业务代码了,也是给自己警醒,注释还是要有的,主要是针对json字段的处理有不少绕的东西在里面,然后跟前端面对面的交流,确实也解决了我的很多疑惑,后面韬哥给了一些指导和建议,然后还是自己去看代码逻辑吧,把那个query方法反复看了不下4遍,总是被json的交互给搞的很懵,发现代码的逻辑也不是很严谨,后面在看hutool的工具类的时候,也是发现它也有问题,百度了一下,有一个关于json解析的问题`cn.hutool.json.JSONUtil`的`public static boolean isJson(String str)`方法,
+给它传`"{{}}"`字符串,也是返回的`true`,但是调用`public static boolean isJson(String str)`或者`public static JSONArray parseArray(String jsonStr)`还是会报错,当然这都是小细节,上厕所的时候看到boss上有一个兼职的个公司**傲特高信息技术有限公司**,问我是不是在无锡,后面回到家后才说要交换微信,约着明天下午19点之后在海岸城见面,后面继续看业务代码,直到下班,回来终于把体检的发票给申请下来了(尽然说是系统升级,what fuck),
 回来买了个鸡蛋灌饼,回来微信上跟妈聊了几句,慢慢打开新房吧,主动学习,主动改变心态,加油吧

@@ -1,4 +1,4 @@
-# java protected作用域的一个问题
+### java protected作用域的一个问题
 protected作用域对于不属于同一个包的父子类之间的可访问性有限制
 摘自《java程序语言(第三版)》3.5节`protected`的确切含义:
 > 1. 跨包的protected实例属性依然可以被子类访问
@@ -75,4 +75,22 @@ protected作用域对于不属于同一个包的父子类之间的可访问性�
             System.out.println(son2.age);//这边可以访问自己类型的protected age实例属性
         }
     }
+```
+
+### java private作用域的问题
+父类定义的私有(private)属性,子类并不继承如下:
+
+```java
+class Father {
+    private Property property;
+    void fun(Father father){
+        System.out.println(father.property);//可以访问到自己类型的私有属性
+    }
+    void fun(Son son){
+        // System.out.println(son.property);这边编译报错,因为子类并没有继承父类的私有属性
+    }
+}
+class Son extends Father {
+    
+}
 ```

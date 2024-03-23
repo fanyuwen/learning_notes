@@ -7,7 +7,7 @@
 + 内存数据库 [^*][Dragonfly](https://www.dragonflydb.io/)
 + 分布式内存数据网格 [^*][hazelcast](https://hazelcast.com/)
 + 文档数据库 [^*][mongodb](https://www.mongodb.com/)
-+ 键值对分布式存储 [etcd](https://etcd.io/)
++ 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)
@@ -49,7 +49,7 @@
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)
-+ 云原生容器技术 [^*][docker](https://www.docker.com/) [podman](https://podman.io/)
++ 云原生容器技术 [^*][docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/)
 + 云原生包管理工具 [helm](https://helm.sh/)
 + 服务发现 [consul](https://developer.hashicorp.com/consul/)
 + 敏感数据加密密钥 [vault](https://developer.hashicorp.com/vault/)

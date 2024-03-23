@@ -22,7 +22,7 @@
 + java响应式编程库 [projectreactor](https://projectreactor.io/)
 + java redis操作库 [lettuce](https://lettuce.io/)
 + java高性能并发库 [disruptor](https://lmax-exchange.github.io/disruptor/)
-+ jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/)
++ jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/) [testng](https://testng.org/)
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/)
 + 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/)
 + orm(数据库对象关系映射框架) [^*][jooq](https://www.jooq.org/)

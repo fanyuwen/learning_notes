@@ -33,6 +33,7 @@
 + java编译器检查 [checkerframework](https://checkerframework.org/)
 + 响应式数据库连接驱动库 [r2dbc](https://r2dbc.io/)
 + graphql的java实现 [graphql-java](https://www.graphql-java.com/)
++ java纯函数式编写库 [vavr](https://docs.vavr.io/)
 
 ### JVM_FRAMEWORK
 + 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/) [helidon](https://helidon.io/)
@@ -43,6 +44,7 @@
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
 + 静态java查询bug工具 [findbugs](https://findbugs.sourceforge.net/)
++ 代码覆盖工具 [emma](https://emma.sourceforge.net/index.html) [jacoco](https://www.jacoco.org/jacoco/)
 + CI/CD工具 [drone CI](https://www.drone.io/) [zadig](https://koderover.com/) [circleci](https://circleci.com/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)

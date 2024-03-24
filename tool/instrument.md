@@ -42,6 +42,7 @@
 
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
++ 静态java查询bug工具 [findbugs](https://findbugs.sourceforge.net/)
 + CI/CD工具 [drone CI](https://www.drone.io/) [zadig](https://koderover.com/) [circleci](https://circleci.com/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)

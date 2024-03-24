@@ -162,3 +162,43 @@ public class ConditionExpressionProblem {
   + 第二、第三位分别为*基本类型*并且不相同,则整个表达式的类型为范围最大的基本类型**char(Character)遇到byte/short会提升为int(Integer)**
   + 第二、第三位分别为*基本类型*和*数字字面量*时,如果数字字面量的值在基本类型的表示范围之内,整个表达式的类型为该基本类型(如果用包装类型接收,则也会转换为包装类型)
     `a ? byte : 12` => byte `a ? short : 4443` => short `a ? char : 65539` => int
+
+### 等号运算符
++ *判断相等或者不等的操作数都是引用类型的话,左右两边的操作数的类型必须是兼容类型(要么相同,要么有继承关系),即使都为null也不行*
+```java
+    void equalOperate(){
+        Integer i = null;
+        String s = null;
+        System.out.println(i == s);//编译报错,两个类型不兼容
+        Object o = null;
+        System.out.println(s == o);//能够运行结果为`true`,因为String是Object的子类(兼容)
+    }
+```
++ 包装类型与基本类型进行比较,包装类型会拆包为基本类型(**要注意包装类型是否为null**),然后比较的左右两边的操作数会根据情况进行类型提升(双方数据类型不同,小范围的提升到大范围),再进行比较
+```java
+    void equalOperate(){
+        Integer i = null;
+        byte b = 1;
+        System.out.println(i == b);//此处能够进行比较,但是因为i为null,所以会报NullPointException,
+                                   // 实际上比较的时候b会被类型提升到int再比较
+    }
+```
++ 基本类型不能与非包装类型的引用类型进行比较
+```java
+    void equalOperate(){
+        byte b = 1;
+        String s = null;
+        Object o = null;
+        System.out.println(s == b);//编译报错,不能比较String和byte
+        System.out.println(o == b);//编译报错,不能比较Object和byte
+    }
+```
++ 基本类型与基本类型,左右两边操作数会根据情况进行范围提升(双方数据类型不同,小范围的提升到大范围),再进行比较
+```java
+    void equalOperate(){
+        int a = 1;
+        short s = 2;
+        System.out.println(a == s);//运行结果`false`,变量s会提升到int类型再比较
+    }
+```
+

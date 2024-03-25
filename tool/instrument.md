@@ -60,6 +60,7 @@
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/)
 + 编程语言[mojo](https://docs.modular.com/mojo)
++ javascript语言超集 [typescript](https://www.typescriptlang.org/)
 
 ### OTHER_LANGUAGE_FRAMEWORK
 + kotlin平台依赖注入框架 [koin](https://insert-koin.io/)
@@ -68,13 +69,16 @@
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
++ javascript学习资源网站 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 
 ### JAVASCRIPT_TOOL
-+ javascript运行时 [bun](https://bun.sh/) [deno](https://deno.com/)
++ javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)
 + 前端打包工具 [webpack](https://webpack.js.org/)
++ javascript任务运行时 [grunt](https://gruntjs.com/)
 
 ### JAVASCRIPT_FRAMEWORK
 + javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/)
++ javascript web框架(for node) [express](https://expressjs.com/)
 + 用于基于堆栈的虚拟机的二进制指令格式(web平台) [webassembly](https://webassembly.org/)
 
 ### C/C++_TOOL

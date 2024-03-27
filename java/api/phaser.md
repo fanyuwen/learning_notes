@@ -39,8 +39,8 @@
     private static final long TERMINATION_BIT = 1L << 63; //最高位为状态位
 
     // some special values
-    private static final int  ONE_ARRIVAL     = 1; //每次部分到达时
-    private static final int  ONE_PARTY       = 1 << PARTIES_SHIFT;
-    private static final int  ONE_DEREGISTER  = ONE_ARRIVAL|ONE_PARTY;
-    private static final int  EMPTY           = 1;
+    private static final int  ONE_ARRIVAL     = 1; //每次部分到达时,parties递增的数量
+    private static final int  ONE_PARTY       = 1 << PARTIES_SHIFT; //新增一个parties参与者时需要更新的值
+    private static final int  ONE_DEREGISTER  = ONE_ARRIVAL|ONE_PARTY; //注册一个新的parties,state需要加的值
+    private static final int  EMPTY           = 1;//初始的空的parties
 ```

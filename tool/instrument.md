@@ -43,7 +43,7 @@
 
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
-+ 静态java查询bug工具 [findbugs](https://findbugs.sourceforge.net/)
++ 静态java质量管理工具 [findbugs](https://findbugs.sourceforge.net/) [archunit](https://www.archunit.org/) [checkstyle](https://checkstyle.org/) [OWASP DependencyCheck](https://owasp.org/www-project-dependency-check/)
 + 代码覆盖工具 [emma](https://emma.sourceforge.net/index.html) [jacoco](https://www.jacoco.org/jacoco/)
 + CI/CD工具 [drone CI](https://www.drone.io/) [zadig](https://koderover.com/) [circleci](https://circleci.com/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)

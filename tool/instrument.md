@@ -72,6 +72,7 @@
 + javascript学习资源网站 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 + python学习资源 [python](https://docs.python-guide.org/)
 + 软件产品、工具交互web平台 [jupyter](https://jupyter.org/)
++ markdown 图像处理库 [mermaid](https://mermaid.js.org/)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

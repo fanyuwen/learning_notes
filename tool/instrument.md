@@ -69,6 +69,7 @@
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
++ java版本年鉴 [javaalmanac](https://javaalmanac.io/)
 + javascript学习资源网站 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 + python学习资源 [python](https://docs.python-guide.org/)
 + 软件产品、工具交互web平台 [jupyter](https://jupyter.org/)

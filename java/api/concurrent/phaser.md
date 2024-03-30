@@ -162,3 +162,48 @@ void build(Task[] tasks, int lo, int hi, Phaser ph) {
   实现说明:此实现将最大参与方数限制为65535。尝试注册其他方会导致IllegalStateException.但是,您可以并且应该创建分层相位器来容纳任意大的参与者集.
 
 我自己的使用用例:
+```java
+    void testPhaser(){
+        final int parties = 3;//固定三个参与者
+        Phaser phaser = new Phaser(parties);
+        new Thread(() -> {
+            for (int i = 0; i < parties; i++) {
+                try {
+                    TimeUnit.MILLISECONDS.sleep(500);//模拟调用耗时
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+                phaser.arriveAndAwaitAdvance();//到达并等待其它的参与者
+                System.out.println(Thread.currentThread() + " has arrive.");
+            }
+        }).start();
+        new Thread(() -> {
+            for (int i = 0; i < parties; i++) {
+                try {
+                    TimeUnit.MILLISECONDS.sleep(800);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+                phaser.arriveAndAwaitAdvance();//到达并等待其它的参与者
+                System.out.println(Thread.currentThread() + " has arrive.");
+            }
+        }).start();
+        new Thread(() -> {
+            for (int i = 0; i < parties; i++) {
+                try {
+                    TimeUnit.MILLISECONDS.sleep(400);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+                phaser.arriveAndAwaitAdvance();//到达并等待其它的参与者
+                System.out.println(Thread.currentThread() + " has arrive.");
+            }
+        }).start();
+        phaser.awaitAdvance(0);//等待固定数值0的阶段(0是刚开始)
+        System.out.println("等待第一阶段结束");
+        phaser.awaitAdvance(1);//等待固定数值1的阶段
+        System.out.println("等待第二阶段结束");
+        phaser.awaitAdvance(2);//等待固定数值2的阶段
+        System.out.println("等待第三阶段结束");
+    }
+```

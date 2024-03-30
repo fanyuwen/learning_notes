@@ -162,6 +162,7 @@ void build(Task[] tasks, int lo, int hi, Phaser ph) {
   实现说明:此实现将最大参与方数限制为65535。尝试注册其他方会导致IllegalStateException.但是,您可以并且应该创建分层相位器来容纳任意大的参与者集.
 
 我自己的使用用例:
++ 简单模拟`java.util.concurrent.CyclicBarrier`和`java.util.concurrent.CountDownLatch`
 ```java
     void testPhaser(){
         final int parties = 3;//固定三个参与者
@@ -205,5 +206,29 @@ void build(Task[] tasks, int lo, int hi, Phaser ph) {
         System.out.println("等待第二阶段结束");
         phaser.awaitAdvance(2);//等待固定数值2的阶段
         System.out.println("等待第三阶段结束");
+    }
+```
++ 父子结构(一般是创建的parties部分的数量太大,需要支持该数量所要构建的格式)
+```java
+    void testPhaser(){
+        Phaser root = new Phaser(1);//创建一个1个parties的root phaser
+        Phaser son = new Phaser(root, 2);//创建一个2个parties的子phaser,会往root phaser里注册一个parties,所以父现在有2个parties
+        Phaser son1 = new Phaser(root, 3);//再创建一个3个parties的子phaser,会往root phaser里再注册一个parties,所以父现在有3个parties
+        new Thread(() -> {
+            son.arrive();//启动一个线程,第一个子phaser的阶段已到达
+            System.out.println("arrive");
+        }).start();
+        new Thread(() -> {
+            son.arrive();//启动一个线程,第一个子phaser的阶段已到达
+            System.out.println("arrive");
+        }).start();
+        new Thread(()->{
+            son1.arrive();//启动一个线程,第二个子phaser的阶段连续到达
+            son1.arrive();
+        }).start();
+        root.arrive();//在主线程里根phaser到达(因为自己也有一个parties)
+        son1.arriveAndAwaitAdvance();//第二个子线程到达并等待所有的parties到达(也是等待root phaser的到达)
+        root.awaitAdvance(0);//root phaser在0 phase 等待
+        System.out.println("等到了第一阶段");
     }
 ```

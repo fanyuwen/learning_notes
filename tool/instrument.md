@@ -54,6 +54,7 @@
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)
 + 云原生容器技术 [^*][docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/)
 + 云原生包管理工具 [helm](https://helm.sh/)
++ 云原生服务网格 [istio](https://istio.io/)
 + 服务发现 [consul](https://developer.hashicorp.com/consul/)
 + 敏感数据加密密钥 [vault](https://developer.hashicorp.com/vault/)
 

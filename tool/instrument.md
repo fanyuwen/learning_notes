@@ -8,6 +8,7 @@
 + 分布式内存数据网格 [^*][hazelcast](https://hazelcast.com/)
 + 文档数据库 [^*][mongodb](https://www.mongodb.com/)
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
++ 小型快速数据库 [^*][sqlite](https://www.sqlite.org)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)

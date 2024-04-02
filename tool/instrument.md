@@ -19,6 +19,9 @@
 + 分布式事务管理 [^*][atomikos](https://www.atomikos.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
 
+### PROJECT_MANAGER
++ JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/)
+
 ### JVM_LIBRARY
 + java http库 [Apache HttpComponents](https://hc.apache.org/index.html)
 + java bean映射辅助工具 [mapstruct](https://mapstruct.org/)

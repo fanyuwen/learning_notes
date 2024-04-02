@@ -10,6 +10,7 @@
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
 + 小型快速数据库 [^*][sqlite](https://www.sqlite.org)
 + 小型内存数据库 [h2](http://www.h2database.com)
++ 关系型数据库 [postgresql](https://www.postgresql.org)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)

@@ -34,7 +34,7 @@
 + orm(数据库对象关系映射框架) [^*][jooq](https://www.jooq.org/)
 + java容错库 [resilience4j](https://resilience4j.readme.io/)
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)
-+ jvm网络应用框架 [netty](https://netty.io/)
++ jvm网络应用框架 [netty](https://netty.io/) [mina](https://mina.apache.org) [grizzly](https://javaee.github.io/grizzly/) [coralreactor](https://www.coralblocks.com/index.php/category/coralreactor/)
 + java字节码操作库 [asm](https://asm.ow2.io/) [javassist](https://www.javassist.org/) [bytebuddy](https://bytebuddy.net/)
 + java编译器检查 [checkerframework](https://checkerframework.org/)
 + 响应式数据库连接驱动库 [r2dbc](https://r2dbc.io/)

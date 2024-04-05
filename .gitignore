@@ -8,3 +8,5 @@
 /dataSources.local.xml
 # ignore all idea config file
 .idea/*
+# maven pom file
+/pom.xml

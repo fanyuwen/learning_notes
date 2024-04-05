@@ -1,22 +1,22 @@
 ### DATABASE
-+ NoSQL数据库 [cassandra](https://cassandra.apache.org/) *[couchbase](https://www.couchbase.com/)
-+ 时序数据库 *[InfluxDB](https://www.influxdata.com/)
-+ 图数据库 *[neo4j](https://neo4j.com/)
++ NoSQL数据库 [cassandra](https://cassandra.apache.org/) <font style='color:red'>*</font>[couchbase](https://www.couchbase.com/)
++ 时序数据库 <font style='color:red'>*</font>[InfluxDB](https://www.influxdata.com/)
++ 图数据库 <font style='color:red'>*</font>[neo4j](https://neo4j.com/)
 + 数据库开发运维工具(开源数据库管理工具) [bytebase](https://www.bytebase.com/)
 + 键值对快速存储引擎 [rocksdb](https://rocksdb.org/)
-+ 内存数据库 *[Dragonfly](https://www.dragonflydb.io/)
-+ 分布式内存数据网格 *[hazelcast](https://hazelcast.com/)
-+ 文档数据库 *[mongodb](https://www.mongodb.com/)
++ 内存数据库 <font style='color:red'>*</font>[Dragonfly](https://www.dragonflydb.io/)
++ 分布式内存数据网格 <font style='color:red'>*</font>[hazelcast](https://hazelcast.com/)
++ 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/)
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
-+ 小型快速数据库 *[sqlite](https://www.sqlite.org)
++ 小型快速数据库 <font style='color:red'>*</font>[sqlite](https://www.sqlite.org)
 + 小型内存数据库 [h2](http://www.h2database.com)
 + 关系型数据库 [postgresql](https://www.postgresql.org)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)
 + 分布式消息系统 [Pulsar](https://pulsar.apache.org/) [kafka](https://kafka.apache.org/)
-+ 对象存储 *[minio](https://min.io/)
-+ 分布式事务管理 *[atomikos](https://www.atomikos.com/)
++ 对象存储 <font style='color:red'>*</font>[minio](https://min.io/)
++ 分布式事务管理 <font style='color:red'>*</font>[atomikos](https://www.atomikos.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
 
 ### PROJECT_MANAGER
@@ -31,7 +31,7 @@
 + jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/) [testng](https://testng.org/) [hamcrest](https://hamcrest.org/)
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/) [jmock](http://jmock.org/) [jmockit](https://jmockit.github.io/)
 + 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/)
-+ orm(数据库对象关系映射框架) *[jooq](https://www.jooq.org/)
++ orm(数据库对象关系映射框架) <font style='color:red'>*</font>[jooq](https://www.jooq.org/)
 + java容错库 [resilience4j](https://resilience4j.readme.io/)
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)
 + jvm网络应用框架 [netty](https://netty.io/) [mina](https://mina.apache.org) [grizzly](https://javaee.github.io/grizzly/) [coralreactor](https://www.coralblocks.com/index.php/category/coralreactor/)
@@ -51,14 +51,14 @@
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
 + 静态java质量管理工具 [findbugs](https://findbugs.sourceforge.net/) [archunit](https://www.archunit.org/) [checkstyle](https://checkstyle.org/) [OWASP DependencyCheck](https://owasp.org/www-project-dependency-check/)
 + 代码覆盖工具 [emma](https://emma.sourceforge.net/index.html) [jacoco](https://www.jacoco.org/jacoco/)
-+ CI/CD工具 *[zadig](https://koderover.com/) *[circleci](https://circleci.com/) *[drone CI](https://www.drone.io/)
++ CI/CD工具 <font style='color:red'>\*</font>[zadig](https://koderover.com/) <font style='color:red'>\*</font>[circleci](https://circleci.com/) <font style='color:red'>*</font>[drone CI](https://www.drone.io/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)
 + java大数据流处理工具 [flink](https://flink.apache.org/) [spark](https://spark.apache.org/)
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)
-+ 云原生容器技术 *[docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/)
++ 云原生容器技术 <font style='color:red'>*</font>[docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/)
 + 云原生包管理工具 [helm](https://helm.sh/)
 + 云原生服务网格 [istio](https://istio.io/)
 + 服务发现 [consul](https://www.consul.io)
@@ -101,5 +101,6 @@
 ### C/C++_TOOL
 + c/c++构建工具 [cmake](https://cmake.org/)
 
+---
 
-[^*]: 标*的代表有收费项目
+标<font style='color:red'>*</font>的代表有收费项目

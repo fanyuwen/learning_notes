@@ -210,4 +210,18 @@
         $$
         \int_0^1 {x^2} \,{\rm d}x
         $$
-    
+
+10. # markdown图表示
+    1. 流程图
+    流程图总体分为横向和纵向两种,T(top,上) B\D(bottom,down,下) L(left,左) R(right,右),使用方式就是横向的两两结合,纵向的两两结合,
+    比如从左到右为`LR`,从上到下为`TB`或者`TD`
+    从上到下:
+    ```mermaid
+    graph TD
+    A --> B
+    ```
+    从左到右:
+    ```mermaid
+    graph LR
+    A --> B
+    ```

@@ -64,6 +64,7 @@
 + 服务发现 [consul](https://www.consul.io)
 + 敏感数据加密密钥 [vault](https://www.vaultproject.io)
 + 虚拟化工具 [virtualbox](https://www.virtualbox.org) [vagrant](https://www.vagrantup.com)
++ webGPU引擎 [orillusion](https://www.orillusion.com)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)

@@ -18,6 +18,7 @@
 + 对象存储 <font style='color:red'>*</font>[minio](https://min.io/)
 + 分布式事务管理 <font style='color:red'>*</font>[atomikos](https://www.atomikos.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
++ 实时工作负载存储服务 [bookkeeper](https://bookkeeper.apache.org)
 
 ### PROJECT_MANAGER
 + JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/)
@@ -68,7 +69,7 @@
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)
-+ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/)
++ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org)
 + javascript语言超集 [typescript](https://www.typescriptlang.org/)
 
 ### OTHER_LANGUAGE_FRAMEWORK

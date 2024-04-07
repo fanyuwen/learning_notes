@@ -14,7 +14,7 @@
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)
-+ 分布式消息系统 [Pulsar](https://pulsar.apache.org/) [kafka](https://kafka.apache.org/)
++ 分布式消息系统 [pulsar](https://pulsar.apache.org/) [kafka](https://kafka.apache.org/)
 + 对象存储 <font style='color:red'>*</font>[minio](https://min.io/)
 + 分布式事务管理 <font style='color:red'>*</font>[atomikos](https://www.atomikos.com/)
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
@@ -77,6 +77,7 @@
 
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
++ *apache软件基金会* [apache foundation](https://www.apache.org)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
 + jvm剖析工具 [visualvm](https://visualvm.github.io/)
 + java版本年鉴 [javaalmanac](https://javaalmanac.io/)

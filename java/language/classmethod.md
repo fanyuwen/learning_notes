@@ -102,6 +102,20 @@ java编译器会在编译阶段出于一些辅助功能的实现而会在类的�
 ```
 **以上两种也是出现了同一个类中,会出现方法名和方法参数一样,但是返回值不一样的方法,只是这种方法是编译器生成的,开发是无法编写**
 + lambda表达式
+```java
+    //以下是按照jdk1.8的实际测试
+    class Lamdba{
+        void fun(String args){
+            Predicate<String> predicate = s -> s.endsWith(args);
+        }
+        //会生成下面的一个合成方法,感觉如果一个类里面使用的lambda表达式很多的话,这个类还是挺容易膨胀的
+        // private static boolean com.xxx.xxx.Lamdba.lambda$fun$1(java.lang.String,java.lang.String){...}
+  
+        //如果lambda表达式赋值为方法引用则不会出现合成的方法
+        //其它情况下都会出现合成方法,静态属性、成员属性、成员方法里、静态方法里定义的
+        //生成的合成方法名为private static lambda的返回值 所在类的全限定名.lambda$ + 所在方法名(成员属性和构造函数为new,静态属性为static) + $递增的序号值
+    }
+```
 
 ## 方法重载 (摘自《java编程语言(第三版)》6.9.1)
 方法重载是指针对方法名相同,但是参数列表的数量、类型或者顺序不同的方法之间称为方法重载,方法的重载调用哪个方法是在编译期确定的

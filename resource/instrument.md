@@ -51,6 +51,8 @@
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
 + 静态java质量管理工具 [findbugs](https://findbugs.sourceforge.net/) [archunit](https://www.archunit.org/) [checkstyle](https://checkstyle.org/) [OWASP DependencyCheck](https://owasp.org/www-project-dependency-check/)
++ java源代码分析工具 [javaparser](https://javaparser.org)
++ 移动端应用debugger工具 [fbflipper](https://fbflipper.com)
 + 代码覆盖工具 [emma](https://emma.sourceforge.net/index.html) [jacoco](https://www.jacoco.org/jacoco/)
 + CI/CD工具 [jenkins](https://www.jenkins.io) [tekton](https://tekton.dev) <font style='color:red'>\*</font>[zadig](https://koderover.com/) <font style='color:red'>\*</font>[circleci](https://circleci.com/) <font style='color:red'>*</font>[drone CI](https://www.drone.io/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
@@ -69,6 +71,7 @@
 + webGPU引擎 [orillusion](https://www.orillusion.com)
 + 开源markdown编辑器 [joplin](https://joplinapp.org)
 + 开源代码编辑器 [zed](https://zed.dev)
++ github热点速递 [helloGitHub](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1332112026222641153&scene=173&subscene=&sessionid=undefined&enterid=0&from_msgid=2247517230&from_itemidx=1&count=3&nolastread=1&scene=21#wechat_redirect)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)

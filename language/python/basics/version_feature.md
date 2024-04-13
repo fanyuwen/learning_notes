@@ -33,3 +33,24 @@
   + PEP 632: 移除 distutils 包。 请参阅 迁移指南 了解有关替换其所提供的 API 的建议。 第三方 Setuptools 包将继续提供 distutils，如果你在 Python 3.12 及更高版本中仍然需要它的话
   + gh-95299: 不在使用 venv 创建的虚拟环境中预装 setuptools。 这意味着 distutils、setuptools、pkg_resources 和 easy_install 默认将不再可用；要访问这些工具请在 激活的 虚拟环境中运行 pip install setuptools
   + 移除了 asynchat、asyncore 和 imp 模块，以及一些 unittest.TestCase 方法别名
+
+### PYTHON 3.11
++ 语法特性
+  + PEP 654 异常组与except*
++ 内置特性
+  + PEP 678 可用注释丰富异常
++ 标准库模块
+  + PEP 680 tomllib-标准库中对解析TOML的支持
++ 解释器改进
+  + PEP 657 回溯信息中标注更详细的错误位置
+  + 新增 -P 命令行选项以及`PYTHONSAFEPATH`环境变量来 禁止自动将潜在的不安全路径前置 到 sys.path
++ 新的类型标注特性
+  + PEP 646 可变参数泛型
+  + PEP 655 将单个`TypedDict`项标记为必填或非必填项
+  + PEP 673 Self类型
+  + PEP 675 任意字面值字符串类型
+  + PEP 681 数据类变换
++ 重要的弃用、移除或限制
+  + PEP 594 许多旧标准库模块已被弃用，并将在 Python 3.13 中移除
+  + PEP 624 Py_UNICODE 编码器 API 已被移除
+  + PEP 670 转换为静态内联函数的宏

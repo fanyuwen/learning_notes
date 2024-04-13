@@ -84,7 +84,7 @@
         System.out.println(012);//输出结果为10,因为任何以0开头的数字字面量都被解释为8进制数据
     }
 ```
-+ `double`和`float`类型
++ **`double`和`float`类型**
    `NaN`值,double和float类型的一个特殊值(Not a Number,不是一个数)
    产生方式 `0.0 / 0.0`(double)或者`0.0f / 0.0f`(float),`NaN`与其它值运算产生的结果也是`NaN`,
    `NaN == NaN`的结果是`false`(有一个题目: 请通过声明初始化变量i让下面的代码变成死循环`while(i != i){}`)
@@ -109,7 +109,7 @@
   ```
 + xor(异或运算符)(可以把该运算符运用到逻辑判断中)
   ``if(a == null ^ b == null){throw new NullPointException();}``只有a或者b有一个为null才会报空指针,都为null或者都不为null不会报空指针
-+ 整数溢出
++ **整数溢出**
   整数类型(byte、short、int、long)都有各自的数值范围,如果运算超出范围会溢出
   `(byte|short|int|long).min_value == (byte|short|int|long).max_value + 1`
   `Math.abs()`绝对值问题,`Math.abs(min_value)`结果还是`min_value`,`Math.abs`并不是一定会给你返回正数,原因还是数值的范围,最小值 = -(最大值+1),所以对最小值取-的结果就是最大值+1,还是最小值

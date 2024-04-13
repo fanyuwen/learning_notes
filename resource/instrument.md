@@ -4,7 +4,7 @@
 + 图数据库 <font style='color:red'>*</font>[neo4j](https://neo4j.com/)
 + 数据库开发运维工具(开源数据库管理工具) [bytebase](https://www.bytebase.com/)
 + 键值对快速存储引擎 [rocksdb](https://rocksdb.org/)
-+ 内存数据库 <font style='color:red'>*</font>[Dragonfly](https://www.dragonflydb.io/)
++ 内存数据库 <font style='color:red'>*</font>[dragonfly](https://www.dragonflydb.io/) [redict(redis的分支)](https://redict.io) [garnet](https://microsoft.github.io/garnet/) [keydb](https://docs.keydb.dev) [memcached](http://memcached.org)
 + 分布式内存数据网格 <font style='color:red'>*</font>[hazelcast](https://hazelcast.com/)
 + 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/)
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
@@ -62,10 +62,13 @@
 + 云原生容器技术 <font style='color:red'>*</font>[docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/)
 + 云原生包管理工具 [helm](https://helm.sh/)
 + 云原生服务网格 [istio](https://istio.io/)
++ K8s网络可观测平台 [retina](https://retina.sh)
 + 服务发现 [consul](https://www.consul.io)
 + 敏感数据加密密钥 [vault](https://www.vaultproject.io)
 + 虚拟化工具 [virtualbox](https://www.virtualbox.org) [vagrant](https://www.vagrantup.com)
 + webGPU引擎 [orillusion](https://www.orillusion.com)
++ 开源markdown编辑器 [joplin](https://joplinapp.org)
++ 开源代码编辑器 [zed](https://zed.dev)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)

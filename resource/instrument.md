@@ -8,6 +8,7 @@
 + 分布式内存数据网格 <font style='color:red'>*</font>[hazelcast](https://hazelcast.com/)
 + 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/)
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
++ 流处理型数据库 [ksqlDB](https://ksqldb.io)
 + 小型快速数据库 <font style='color:red'>*</font>[sqlite](https://www.sqlite.org)
 + 小型内存数据库 [h2](http://www.h2database.com)
 + 关系型数据库 [postgresql](https://www.postgresql.org)
@@ -65,6 +66,8 @@
 + 云原生包管理工具 [helm](https://helm.sh/)
 + 云原生服务网格 [istio](https://istio.io/)
 + 云可观测平台 [retina](https://retina.sh) [middleware](https://middleware.io) [hyperdx](https://www.hyperdx.io) [streamdal](https://streamdal.com)
++ 网络安全 <font style='color:red'>*</font>[defguard](https://defguard.net) <font style='color:red'>\*</font>[zitadel](https://zitadel.com)
++ 事件通信监控平台 <font style='color:red'>*</font>[statuspal](https://www.statuspal.io)
 + 服务发现 [consul](https://www.consul.io)
 + 敏感数据加密密钥 [vault](https://www.vaultproject.io)
 + 虚拟化工具 [virtualbox](https://www.virtualbox.org) [vagrant](https://www.vagrantup.com)
@@ -72,6 +75,7 @@
 + 开源markdown编辑器 [joplin](https://joplinapp.org)
 + 开源代码编辑器 [zed](https://zed.dev)
 + github热点速递 [helloGitHub](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1332112026222641153&scene=173&subscene=&sessionid=undefined&enterid=0&from_msgid=2247517230&from_itemidx=1&count=3&nolastread=1&scene=21#wechat_redirect)
++ 基础设施应用平台 [nix](https://nixos.org) [walrus](https://www.seal.io) [opentofu](https://opentofu.org) [terraform](https://www.terraform.io)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)

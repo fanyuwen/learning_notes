@@ -5,6 +5,9 @@
     + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
   + 领域相关
     + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
+  + 职场感悟
+    + [IT 行业从业 23 年和创业 14 年感悟](https://my.oschina.net/easysoft/blog/10315932)
+    + [程序员 25 岁做什么能够改变 35 岁被淘汰的命运？](https://my.oschina.net/u/5587102/blog/11051968)
 # DEVELOP
   + 开发相关
     + [当 “代码农” 遇上 “码农”：揭秘主干开发的那些事儿 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869429)
@@ -22,6 +25,7 @@
     + [手写 Java PriorityQueue 核心源码 (下)](https://my.oschina.net/helloworldnet/blog/5124167)
     + [二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5125642)
 # DEVOPS
+  + [14 款 DevOps/SRE 工具，助力提升运维效率](https://my.oschina.net/u/5841507/blog/11051625)
   + [DevOps - 实践心得](https://my.oschina.net/libin/blog/5591953)
   + [你准备好开始 DevOps 了吗？](https://my.oschina.net/libin/blog/5591955)
   + [DevOps 流水线设计的最佳实践](https://my.oschina.net/libin/blog/9922988)
@@ -97,6 +101,9 @@
       + [K8s 技术全景：架构、应用与优化](https://my.oschina.net/u/6723965/blog/11051131)
       + [基于 K8s 容器集群的容灾架构与方案](https://my.oschina.net/u/3874284/blog/11047123)
       + [2024 年的云原生架构需要哪些技术栈](https://my.oschina.net/crossoverjie/blog/11051812)
+  + 工具
+    + 容器技术
+      + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)
 # 计算机基础知识
   + 网络基础
     + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)

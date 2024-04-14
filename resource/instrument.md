@@ -36,7 +36,8 @@
   + 同步异步控制库 [awaitility](https://github.com/awaitility/awaitility/wiki/Getting_started)
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/) [jmock](http://jmock.org/) [jmockit](https://jmockit.github.io/)
 + 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/)
-+ orm(数据库对象关系映射框架) <font style='color:red'>*</font>[jooq](https://www.jooq.org/)
++ orm(数据库对象关系映射框架) <font style='color:red'>*</font>[jooq](https://www.jooq.org/) [mybatis](https://mybatis.org/mybatis-3/index.html)
+  + [mybatis-generate](https://mybatis.org/generator/index.html) [mybatis-dynamicSQL](https://mybatis.org/mybatis-dynamic-sql/docs/introduction.html)
 + java容错库 [resilience4j](https://resilience4j.readme.io/)
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)
 + jvm网络应用框架 [netty](https://netty.io/) [mina](https://mina.apache.org) [grizzly](https://javaee.github.io/grizzly/) [coralreactor](https://www.coralblocks.com/index.php/category/coralreactor/)
@@ -54,6 +55,7 @@
 
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
++ java热加载 [jrebel](https://www.jrebel.com)
 + 静态java质量管理工具 [findbugs](https://findbugs.sourceforge.net/) [archunit](https://www.archunit.org/) [checkstyle](https://checkstyle.org/) [OWASP DependencyCheck](https://owasp.org/www-project-dependency-check/)
 + java源代码分析工具 [javaparser](https://javaparser.org)
 + 移动端应用debugger工具 [fbflipper](https://fbflipper.com)

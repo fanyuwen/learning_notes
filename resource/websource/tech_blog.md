@@ -24,6 +24,8 @@
     + [手写 Java PriorityQueue 核心源码（上）](https://my.oschina.net/helloworldnet/blog/5124166)
     + [手写 Java PriorityQueue 核心源码 (下)](https://my.oschina.net/helloworldnet/blog/5124167)
     + [二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5125642)
+    + [7 手写源码系列 - 二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5063520)
+    + [手写 Java HashMap 核心源码](https://my.oschina.net/helloworldnet/blog/5121810)
 # DEVOPS
   + [14 款 DevOps/SRE 工具，助力提升运维效率](https://my.oschina.net/u/5841507/blog/11051625)
   + [DevOps - 实践心得](https://my.oschina.net/libin/blog/5591953)
@@ -34,6 +36,9 @@
   + [【Jenkins 系列】-Pipeline 语法全集](https://my.oschina.net/libin/blog/9923032)
   + [你以为搞个流水线每天跑，团队就在使用 CI/CD 实践了？](https://my.oschina.net/libin/blog/9923050)
   + [Jenkins 凭证管理 - 看这一篇就够了～](https://my.oschina.net/libin/blog/4772606)
+  + [可观测性建设实践之 - 日志分析的权衡取舍](https://my.oschina.net/morflameblog/blog/10169223)
+  + [面向故障处理的可观测性体系建设](https://my.oschina.net/morflameblog/blog/10083512)
+  + [可观测性是什么？ 入门指南](https://my.oschina.net/morflameblog/blog/10085380)
 # JAVA
   + 语言相关
     + 新特性
@@ -61,10 +66,15 @@
   + 第三方库
     + Spring
       + [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
+      + [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
     + mybatis
       + [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
     + 消息队列
       + [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
+# PYTHON
+  + 语言相关
+    + 实践
+      + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 # 前端技术
   + JAVASCRIPT & TYPESCRIPT
     + 语言相关
@@ -72,8 +82,23 @@
         + [无人不识又无人不迷糊的 this](https://my.oschina.net/u/4526289/blog/11049046)
         + [ES6 生成器，看似同步的异步流程控制表达风格](https://my.oschina.net/u/4526289/blog/11051652)
         + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
+    + 实践
+      + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
   + 架构相关
     + [实践总结｜前端架构设计的一点考究](https://my.oschina.net/u/4662964/blog/11051025)
+# RUST
+  + 技术相关
+    + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
+# GO
+  + 语言相关
+    + 源码
+      + [sync.Map 源码分析](https://my.oschina.net/qiangmzsx/blog/1827059)
+  + 实践
+    + [golang 结构体 json 的时间格式化解决方案](https://my.oschina.net/qiangmzsx/blog/1408330)
+  + 面试题
+    + [Golang 面试题解析](https://my.oschina.net/qiangmzsx/blog/1478739)
+    + [Golang 面试题解析（二）](https://my.oschina.net/qiangmzsx/blog/1515173)
+    + [Golang 面试题解析（三）](https://my.oschina.net/qiangmzsx/blog/1533839)
 # C & C++
   + 语言相关
     + 文章
@@ -86,8 +111,13 @@
         + [从 MongoDB 到 PostgreSQL 的大迁移](https://my.oschina.net/u/6148470/blog/11050282)
         + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://my.oschina.net/u/4455409/blog/11049166)
         + [OLAP 进阶之 “性能提升”](https://my.oschina.net/u/5588928/blog/11051631)
-        + mysql
+        + [大量数据如何做分页处理](https://my.oschina.net/u/4526289/blog/11051586)
+        + MYSQL
           + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
+        + REDIS
+          + [Redis Pipelining 底层原理分析及实践](https://my.oschina.net/vivotech/blog/11052076)
+        + CLICKHOUSE
+          + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
     + 分布式数据库
       + [分布式数据库技术的演进和发展方向](https://my.oschina.net/u/4526289/blog/11049010)
   + 消息队列
@@ -101,12 +131,17 @@
       + [K8s 技术全景：架构、应用与优化](https://my.oschina.net/u/6723965/blog/11051131)
       + [基于 K8s 容器集群的容灾架构与方案](https://my.oschina.net/u/3874284/blog/11047123)
       + [2024 年的云原生架构需要哪些技术栈](https://my.oschina.net/crossoverjie/blog/11051812)
+      + [云计算之分布式计算系统](https://my.oschina.net/morflameblog/blog/52594)
   + 工具
     + 容器技术
       + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)
+    + 容器工具
+      + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
 # 计算机基础知识
   + 网络基础
     + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
     + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 # 工作竞争力
   + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
+  + 团队管理
+    + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)

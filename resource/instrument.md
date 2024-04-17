@@ -12,6 +12,7 @@
 + 小型快速数据库 <font style='color:red'>*</font>[sqlite](https://www.sqlite.org)
 + 小型内存数据库 [h2](http://www.h2database.com)
 + 关系型数据库 [postgresql](https://www.postgresql.org)
++ 高性能实时分析数据库 [doris](https://doris.apache.org/)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)

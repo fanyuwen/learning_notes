@@ -89,7 +89,9 @@
 
 ### OTHER_LANGUAGE_FRAMEWORK
 + kotlin平台依赖注入框架 [koin](https://insert-koin.io/)
++ kotlin应用开发框架 [ktor](https://ktor.io/)
 + java/scala web框架 [play](https://www.playframework.com/)
++ go云原生微服务框架 [kratos](https://go-kratos.dev/) [go-zero](https://go-zero.dev/)
 
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
@@ -117,9 +119,6 @@
 + node服务端开发框架 [nestjs](https://nestjs.com/)
 + 跨平台桌面应用程序开发框架 [electron](https://www.electronjs.org/)
 + 用于基于堆栈的虚拟机的二进制指令格式(web平台) [webassembly](https://webassembly.org/)
-
-### GO_FRAMEWORK
-+ 云原生微服务框架 [kratos](https://go-kratos.dev/) [go-zero](https://go-zero.dev/)
 
 ### C/C++_TOOL
 + c/c++构建工具 [cmake](https://cmake.org/)

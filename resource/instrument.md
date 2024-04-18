@@ -85,7 +85,7 @@
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)
-+ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org) [Nim](https://nim-lang.org/)
++ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org) [nim](https://nim-lang.org/)
 + javascript语言超集 [typescript](https://www.typescriptlang.org/)
 
 ### OTHER_LANGUAGE_FRAMEWORK

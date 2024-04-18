@@ -39,6 +39,8 @@
   + [可观测性建设实践之 - 日志分析的权衡取舍](https://my.oschina.net/morflameblog/blog/10169223)
   + [面向故障处理的可观测性体系建设](https://my.oschina.net/morflameblog/blog/10083512)
   + [可观测性是什么？ 入门指南](https://my.oschina.net/morflameblog/blog/10085380)
+  + [基于 istio 实现单集群地域故障转移](https://my.oschina.net/u/4526289/blog/11051682)
+  + [基于 istio 实现多集群流量治理](https://my.oschina.net/u/4526289/blog/11051799)
 # JAVA
   + 语言相关
     + 新特性
@@ -49,6 +51,7 @@
       + [常见 Java 代码缺陷及规避方式](https://my.oschina.net/u/4662964/blog/11048605)
       + [烂怂 if-else 代码优化方案 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607356)
       + [代码手术刀 - 自定义你的代码重构工具](https://my.oschina.net/u/4090830/blog/11032974)
+      + [关于 Java 异常处理的 9 条原则](https://my.oschina.net/u/6903207/blog/11053313)
   + 底层
     + 源码
       + [深入分析 Java 中的 PriorityQueue 底层实现与源码](https://my.oschina.net/u/4526289/blog/11048033)
@@ -75,6 +78,9 @@
   + 语言相关
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
+      + [Python 中两种网络编程方式：Socket 和 HTTP 协议](https://my.oschina.net/u/4526289/blog/11052841)
+      + [Python 中 2 种常用数据可视化库：Bokeh 和 Altair](https://my.oschina.net/u/4526289/blog/11053061)
+      + [如何使用 Plotly 和 Dash 进行数据可视化](https://my.oschina.net/u/4526289/blog/11052597)
 # 前端技术
   + JAVASCRIPT & TYPESCRIPT
     + 语言相关
@@ -127,11 +133,15 @@
       + [Kafka 线程模型痛点攻克： 提升分区写入 2 倍性能](https://my.oschina.net/u/6990971/blog/11051328)
 # CLOUD_NATIVE
   + 概念总结
+    + 概念
+      + [通俗易懂关于 Paxos 的直观解释](https://my.oschina.net/u/4090830/blog/11051634)
     + 架构方面
       + [K8s 技术全景：架构、应用与优化](https://my.oschina.net/u/6723965/blog/11051131)
       + [基于 K8s 容器集群的容灾架构与方案](https://my.oschina.net/u/3874284/blog/11047123)
       + [2024 年的云原生架构需要哪些技术栈](https://my.oschina.net/crossoverjie/blog/11051812)
       + [云计算之分布式计算系统](https://my.oschina.net/morflameblog/blog/52594)
+    + 问题讨论
+      + [为什么公共云的弹性能力很难被发挥出来？](https://my.oschina.net/u/6852546/blog/11053253)
   + 工具
     + 容器技术
       + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)

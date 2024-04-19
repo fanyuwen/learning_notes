@@ -106,7 +106,7 @@
 + 软件产品、工具交互web平台 [jupyter](https://jupyter.org/)
 + markdown 图像处理库 [mermaid](https://mermaid.js.org/)
 + android开发者网站 [android](https://developer.android.google.cn/)
-+ openjdk提供商 [adoptium](https://adoptium.net/) [azul](https://www.azul.com/)
++ 其它jdk资源和信息 [adoptium](https://adoptium.net/) [azul](https://www.azul.com/) [Which-Version-of-JDK-Should-I-Use](https://whichjdk.com/)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

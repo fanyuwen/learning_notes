@@ -58,6 +58,7 @@
     + jvm
       + [Java 8 内存管理原理解析及内存故障排查实践](https://my.oschina.net/vivotech/blog/11048619)
       + [浅谈 JVM 整体架构与调优参数](https://my.oschina.net/u/4526289/blog/11050235)
+      + [深入剖析 JVM 的 OOM | 内存溢出如何影响 JVM 运行及应对策略](https://my.oschina.net/u/5587102/blog/11054685)
   + 核心库
     + util库
       + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
@@ -81,6 +82,9 @@
       + [Python 中两种网络编程方式：Socket 和 HTTP 协议](https://my.oschina.net/u/4526289/blog/11052841)
       + [Python 中 2 种常用数据可视化库：Bokeh 和 Altair](https://my.oschina.net/u/4526289/blog/11053061)
       + [如何使用 Plotly 和 Dash 进行数据可视化](https://my.oschina.net/u/4526289/blog/11052597)
+      + [实践探讨 Python 如何进行异常处理与日志记录](https://my.oschina.net/u/4526289/blog/11054810)
+    + Django
+      + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 # 前端技术
   + JAVASCRIPT & TYPESCRIPT
     + 语言相关
@@ -88,6 +92,8 @@
         + [无人不识又无人不迷糊的 this](https://my.oschina.net/u/4526289/blog/11049046)
         + [ES6 生成器，看似同步的异步流程控制表达风格](https://my.oschina.net/u/4526289/blog/11051652)
         + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
+      + 语言特性
+        + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
     + 实践
       + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
   + 架构相关
@@ -155,3 +161,5 @@
   + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
   + 团队管理
     + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
+  + 创业
+    + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)

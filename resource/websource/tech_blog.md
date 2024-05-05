@@ -43,6 +43,8 @@
   + [基于 istio 实现多集群流量治理](https://my.oschina.net/u/4526289/blog/11051799)
 # JAVA
   + 语言相关
+    + 基础
+      + [for-each 循环优先于传统的 for 循环](https://my.oschina.net/OutOfMemory/blog/95483)
     + 新特性
       + [300 秒快速了解 Java 9 - 16 新特性，助你脱离内卷](https://my.oschina.net/didispace/blog/5171573)
       + [Java 22 正式发布，一文了解全部新特性](https://my.oschina.net/didispace/blog/11048218)

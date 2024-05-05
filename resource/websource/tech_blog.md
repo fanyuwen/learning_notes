@@ -62,7 +62,9 @@
   + 核心库
     + util库
       + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
+      + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
     + 并发库
+      + [线程隔离浅析](https://my.oschina.net/OutOfMemory/blog/4282809)
       + [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
       + [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
     + 机制
@@ -75,6 +77,10 @@
       + [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
     + 消息队列
       + [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
+    + 字节码相关
+      + [ASM 入门篇](https://my.oschina.net/OutOfMemory/blog/5076032)
+  + 相关文章
+    + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
 # PYTHON
   + 语言相关
     + 实践
@@ -83,6 +89,9 @@
       + [Python 中 2 种常用数据可视化库：Bokeh 和 Altair](https://my.oschina.net/u/4526289/blog/11053061)
       + [如何使用 Plotly 和 Dash 进行数据可视化](https://my.oschina.net/u/4526289/blog/11052597)
       + [实践探讨 Python 如何进行异常处理与日志记录](https://my.oschina.net/u/4526289/blog/11054810)
+      + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
+      + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
+      + [Python 数据库编程全指南 SQLite 和 MySQL 实践](https://my.oschina.net/u/4526289/blog/11049428)
     + Django
       + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 # 前端技术

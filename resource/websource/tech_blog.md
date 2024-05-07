@@ -94,6 +94,7 @@
       + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
       + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
       + [Python 数据库编程全指南 SQLite 和 MySQL 实践](https://my.oschina.net/u/4526289/blog/11049428)
+      + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
     + Django
       + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 # 前端技术

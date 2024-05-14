@@ -109,11 +109,12 @@
 + markdown 图像处理库 [mermaid](https://mermaid.js.org/)
 + android开发者网站 [android](https://developer.android.google.cn/)
 + 其它jdk资源和信息 [adoptium](https://adoptium.net/) [azul](https://www.azul.com/) [Which-Version-of-JDK-Should-I-Use](https://whichjdk.com/)
++ 错误追踪和执行监控平台 [sentry](https://docs.sentry.io)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)
 + javascript包依赖管理 [npm](https://docs.npmjs.com/)
-+ 前端打包工具 [webpack](https://webpack.js.org/)
++ 前端打包工具 [webpack](https://webpack.js.org/) [rolldown](https://rolldown.rs) [vite](https://vitejs.dev) [rollupjs](https://rollupjs.org)
 + javascript任务运行时 [grunt](https://gruntjs.com/) [gulp](https://gulpjs.com/)
 
 ### JAVASCRIPT_FRAMEWORK

@@ -95,6 +95,8 @@
       + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
       + [Python 数据库编程全指南 SQLite 和 MySQL 实践](https://my.oschina.net/u/4526289/blog/11049428)
       + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
+      + [详解 Python 中可视化数据分析工作流程](https://my.oschina.net/u/4526289/blog/11105722)
+      + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
     + Django
       + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 # 前端技术
@@ -110,6 +112,8 @@
       + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
   + 架构相关
     + [实践总结｜前端架构设计的一点考究](https://my.oschina.net/u/4662964/blog/11051025)
+  + 杂谈
+    + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 # RUST
   + 技术相关
     + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
@@ -171,6 +175,7 @@
     + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 # 工作竞争力
   + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
+  + [程序员的归宿](https://www.oschina.net/news/291330)
   + 团队管理
     + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
   + 创业

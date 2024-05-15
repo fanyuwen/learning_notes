@@ -114,7 +114,7 @@
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)
 + javascript包依赖管理 [npm](https://docs.npmjs.com/)
-+ 前端打包工具 [webpack](https://webpack.js.org/) [rolldown](https://rolldown.rs) [vite](https://vitejs.dev) [rollupjs](https://rollupjs.org)
++ 前端打包工具 [webpack](https://webpack.js.org/) [rolldown](https://rolldown.rs) [vite](https://vitejs.dev) [rollupjs](https://rollupjs.org) [esbuild](https://esbuild.github.io/)
 + javascript任务运行时 [grunt](https://gruntjs.com/) [gulp](https://gulpjs.com/)
 
 ### JAVASCRIPT_FRAMEWORK

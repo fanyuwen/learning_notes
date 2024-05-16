@@ -112,6 +112,16 @@
 + 其它jdk资源和信息 [adoptium](https://adoptium.net/) [azul](https://www.azul.com/) [Which-Version-of-JDK-Should-I-Use](https://whichjdk.com/)
 + 错误追踪和执行监控平台 [sentry](https://docs.sentry.io)
 + 开源技术趋势和统计 [ossinsight](https://ossinsight.io/)
++ 计算机视觉库 [opencv](https://opencv.org/)
+
+### PYTHON_LIBRARY
++ web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
++ http处理库 [requests](https://requests.readthedocs.io/)
++ 绘图库(绘制二维图表和图形) [matplotlib](https://matplotlib.org/)
++ html/xml处理库(爬虫) [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) [scrapy](https://scrapy.org/)
++ 数学运算操作库 [numpy](https://numpy.org/) [scipy](https://scipy.org/)
++ 开源机器学习库 [scikit-learn](https://scikit-learn.org/) [tensorflow](https://tensorflow.google.cn/) [pytorch](https://pytorch.org/)
++ 数据分析和处理库 [pandas](https://pandas.pydata.org/)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)
@@ -128,6 +138,7 @@
 
 ### C/C++_TOOL
 + c/c++构建工具 [cmake](https://cmake.org/)
++ 包管理工具 [conan](https://conan.io/)
 
 ---
 

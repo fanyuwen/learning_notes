@@ -118,7 +118,7 @@
 + javascript任务运行时 [grunt](https://gruntjs.com/) [gulp](https://gulpjs.com/)
 
 ### JAVASCRIPT_FRAMEWORK
-+ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/) [react](https://react.dev/) [reactnative](https://reactnative.dev/) [nextjs](https://nextjs.org/) [htmx](https://htmx.org/)
++ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/) [react](https://react.dev/) [reactnative](https://reactnative.dev/) [nextjs](https://nextjs.org/) [htmx](https://htmx.org/) [alpine](https://alpinejs.dev/) [preact](https://preactjs.com/) [qwik](https://qwik.dev/)
 + javascript web框架(for node) [express](https://expressjs.com/) [koa](https://koa.bootcss.com/)
 + node服务端开发框架 [nestjs](https://nestjs.com/)
 + 跨平台桌面应用程序开发框架 [electron](https://www.electronjs.org/)

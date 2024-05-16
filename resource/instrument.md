@@ -111,6 +111,7 @@
 + android开发者网站 [android](https://developer.android.google.cn/)
 + 其它jdk资源和信息 [adoptium](https://adoptium.net/) [azul](https://www.azul.com/) [Which-Version-of-JDK-Should-I-Use](https://whichjdk.com/)
 + 错误追踪和执行监控平台 [sentry](https://docs.sentry.io)
++ 开源技术趋势和统计 [ossinsight](https://ossinsight.io/)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

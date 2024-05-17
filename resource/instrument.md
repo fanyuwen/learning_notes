@@ -125,12 +125,13 @@
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)
-+ javascript包依赖管理 [npm](https://docs.npmjs.com/)
-+ 前端打包工具 [webpack](https://webpack.js.org/) [rolldown](https://rolldown.rs) [vite](https://vitejs.dev) [rollupjs](https://rollupjs.org) [esbuild](https://esbuild.github.io/)
++ javascript包依赖管理 [npm](https://docs.npmjs.com/) [yarn](https://yarnpkg.com) [bower](https://bower.io) [dojo](https://dojotoolkit.org) [pnpm](https://pnpm.io)
++ 前端打包工具 [webpack](https://webpack.js.org/) [rolldown](https://rolldown.rs) [vite](https://vitejs.dev) [rollupjs](https://rollupjs.org) [esbuild](https://esbuild.github.io/) [parcel](https://parceljs.org)
 + javascript任务运行时 [grunt](https://gruntjs.com/) [gulp](https://gulpjs.com/)
++ javascript代码质量 [jslint](https://www.jslint.com) [jshint](https://jshint.com) [eslint](https://eslint.org)
 
 ### JAVASCRIPT_FRAMEWORK
-+ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/) [react](https://react.dev/) [reactnative](https://reactnative.dev/) [nextjs](https://nextjs.org/) [htmx](https://htmx.org/) [alpine](https://alpinejs.dev/) [preact](https://preactjs.com/) [qwik](https://qwik.dev/)
++ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/) [react](https://react.dev/) [reactnative](https://reactnative.dev/) [nextjs](https://nextjs.org/) [htmx](https://htmx.org/) [alpine](https://alpinejs.dev/) [preact](https://preactjs.com/) [qwik](https://qwik.dev/) [extjs](https://www.sencha.com/products/extjs/)
 + javascript web框架(for node) [express](https://expressjs.com/) [koa](https://koa.bootcss.com/)
 + node服务端开发框架 [nestjs](https://nestjs.com/)
 + 跨平台桌面应用程序开发框架 [electron](https://www.electronjs.org/)

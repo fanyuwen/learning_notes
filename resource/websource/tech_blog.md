@@ -14,6 +14,7 @@
   + 功能相关
     + [定时任务原理方案综述 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9907877)
     + [图解 Redis 和 Zookeeper 分布式锁 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607785)
+    + [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
   + 架构相关
     + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
     + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)

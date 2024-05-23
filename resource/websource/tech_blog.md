@@ -28,6 +28,7 @@
     + [7 手写源码系列 - 二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5063520)
     + [手写 Java HashMap 核心源码](https://my.oschina.net/helloworldnet/blog/5121810)
     + [手写 ArrayList 核心源码](https://my.oschina.net/helloworldnet/blog/5119205)
+    + [手写 Java LinkedList 核心源码](https://my.oschina.net/helloworldnet/blog/5120099)
 # DEVOPS
   + [14 款 DevOps/SRE 工具，助力提升运维效率](https://my.oschina.net/u/5841507/blog/11051625)
   + [DevOps - 实践心得](https://my.oschina.net/libin/blog/5591953)

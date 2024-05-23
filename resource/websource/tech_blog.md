@@ -64,6 +64,7 @@
       + [Java 8 内存管理原理解析及内存故障排查实践](https://my.oschina.net/vivotech/blog/11048619)
       + [浅谈 JVM 整体架构与调优参数](https://my.oschina.net/u/4526289/blog/11050235)
       + [深入剖析 JVM 的 OOM | 内存溢出如何影响 JVM 运行及应对策略](https://my.oschina.net/u/5587102/blog/11054685)
+      + [一篇文章彻底搞懂 Java 的大 Class 到底是什么](https://my.oschina.net/helloworldnet/blog/5063336)
   + 核心库
     + util库
       + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)

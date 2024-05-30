@@ -37,7 +37,7 @@
     + [手写 Java HashMap 核心源码](https://my.oschina.net/helloworldnet/blog/5121810)
     + [手写 ArrayList 核心源码](https://my.oschina.net/helloworldnet/blog/5119205)
     + [手写 Java LinkedList 核心源码](https://my.oschina.net/helloworldnet/blog/5120099)
-    + [【算法总结\]】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
+    + [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
 # DEVOPS
   + [14 款 DevOps/SRE 工具，助力提升运维效率](https://my.oschina.net/u/5841507/blog/11051625)
   + [DevOps - 实践心得](https://my.oschina.net/libin/blog/5591953)

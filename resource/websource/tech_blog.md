@@ -18,6 +18,7 @@
   + 架构相关
     + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
     + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
+    + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
   + 流程管理
     + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
     + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
@@ -82,6 +83,10 @@
       + [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
     + mybatis
       + [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
+    + disruptor
+      + [如此狂妄，自称高性能队列的 Disruptor 有啥来头？](https://my.oschina.net/jiagoushi/blog/5578896)
+      + [Disruptor 测试结果运算 1 亿次，耗时 5503ms，吞吐量 18171000/s](https://my.oschina.net/jiagoushi/blog/5579251)
+      + [Disruptor 生产和消费模式详解及高级应用（并行模式）](https://my.oschina.net/jiagoushi/blog/5579551)
     + 消息队列
       + [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
     + 字节码相关
@@ -113,6 +118,8 @@
         + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
       + 语言特性
         + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
+      + 底层
+        + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609013&idx=1&sn=93a9a5633f21204dd6a768b3f32affb8&chksm=80228074b7550962ea499b425a1551593481ff291a131b8ead1e24341c0a87172d409ea850dd&mpshare=1&scene=1&srcid=0530SKsNg6WDR7k0bZxvNx3n&sharer_shareinfo=9f246e107beea64d65e7f9a28c2e1ee6&sharer_shareinfo_first=9f246e107beea64d65e7f9a28c2e1ee6#rd)
     + 实践
       + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
   + 架构相关

@@ -3,6 +3,7 @@
     + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
     + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
     + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
+    + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s?__biz=MzkxMDE5NzE4Mg==&mid=2247484150&idx=1&sn=2f33e6c4acf7010f2fc5606c09ed513c&chksm=c12e6a27f659e331fcb4b46fa9c3eeccca025410bc8dc8cd59fe0246991707b32bd62b536fd3&mpshare=1&scene=1&srcid=0121LEGjO5KamJdK9w1Q8tvg&sharer_shareinfo=71e90eaabf97f6679afe0dbc5de37146&sharer_shareinfo_first=9647b1feb14ffe8b2bc7071c3be0b343#rd)
   + 领域相关
     + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
   + 职场感悟
@@ -89,11 +90,18 @@
       + [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
     + 机制
       + [再聊 SPI 机制](https://my.oschina.net/u/4494662/blog/11049008)
+      + [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
   + 第三方库
     + Spring
       + [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
       + [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
       + [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247608842&idx=1&sn=ed5990306d61411033072b6e7977bb36&chksm=fba4c209ccd34b1f4f26b225c7321ad5244789b69a8b8d683d2858ece3cf2799022f944b515c&mpshare=1&scene=1&srcid=0112Rxiy3tEFZlPHfWgznMkq&sharer_shareinfo=e9d8a72bdf3fbe5780781709192b37fd&sharer_shareinfo_first=9dc61fda16c1c7aea76f15e59cf84ff7#rd)
+      + [SpringBoot 实现热插拔AOP，非常实用！](https://mp.weixin.qq.com/s?__biz=MzU2OTMyMTAxNA==&mid=2247526697&idx=1&sn=95c63f0031fd61e9f09526b871725157&chksm=fc825a70cbf5d366d6e66dbc21b7bf493e002e12c2fea7348fddae5c1ff9cf76f55b3d0f78bd&mpshare=1&scene=1&srcid=01152AvkF6jnb2ruz9c8UwVX&sharer_shareinfo=18d0b820f49f6716aa6e3d5591f1b8a5&sharer_shareinfo_first=38bcc072f93109824185cb61db983ec3#rd)
+      + [如何阅读 Spring 源码？](https://www.diguage.com/post/how-to-read-spring-sources/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
+      + [深入剖析 Spring 核心数据结构：BeanDefinition](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-definition/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
+      + [Spring 扩展点概览及实践](https://www.diguage.com/post/spring-extensions-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
+      + [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
+      + [Spring AOP 处理流程概述](https://www.diguage.com/post/spring-aop-process-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
     + mybatis
       + [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
     + disruptor
@@ -232,6 +240,8 @@
     + [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666568520&idx=1&sn=99a35d61bf2e523eef120c31163bd16f&chksm=80dc5fe3b7abd6f505f8a5760131d3260f701b36a0f0384f03a0995d1cc04fa87e7728e1498c&mpshare=1&scene=1&srcid=0530nL98MuOJirgRJSaWoITp&sharer_shareinfo=f8e503d2238e6ce815d7b3f444510dca&sharer_shareinfo_first=f8e503d2238e6ce815d7b3f444510dca#rd)
     + [你真的懂串口通信吗？](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666568461&idx=2&sn=471a908a1fda2d23759101c9ddc3160e&chksm=80dc5fa6b7abd6b0c644cd9da60c3f605187172a281863675c098fcae2386729a9f60df74a0d&mpshare=1&scene=1&srcid=0530cal3ikJWR7G5piniLG6u&sharer_shareinfo=8398cffadf180dd244ecc51ced6bd2b5&sharer_shareinfo_first=8398cffadf180dd244ecc51ced6bd2b5#rd)
 # 工作竞争力
+  + 成长
+    + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
   + 工具
     + idea
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s?__biz=MzI3MDM0MzAyMg==&mid=2247502546&idx=1&sn=17cae2bfdbc80f63994ac5bc35382c99&chksm=ead004d3dda78dc55e9998d75b1137ca2ad0df7675786a12d225d3546c8a52611304899a6b76&mpshare=1&scene=1&srcid=110939UqkGXz3pyUiYVjvIB9&sharer_shareinfo=1657018d3710b6c5a95fd360840536d7&sharer_shareinfo_first=782eb36b64ae9be411e027a94a16f339#rd)

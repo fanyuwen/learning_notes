@@ -131,7 +131,7 @@
 + javascript代码质量 [jslint](https://www.jslint.com) [jshint](https://jshint.com) [eslint](https://eslint.org)
 
 ### JAVASCRIPT_FRAMEWORK
-+ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/) [react](https://react.dev/) [reactnative](https://reactnative.dev/) [nextjs](https://nextjs.org/) [htmx](https://htmx.org/) [alpine](https://alpinejs.dev/) [preact](https://preactjs.com/) [qwik](https://qwik.dev/) [extjs](https://www.sencha.com/products/extjs/)
++ javascript前端开发框架 [solidjs](https://www.solidjs.com/) [svelte](https://svelte.dev/) [nuejs](https://nuejs.org/) [react](https://react.dev/) [reactnative](https://reactnative.dev/) [nextjs](https://nextjs.org/) [htmx](https://htmx.org/) [alpine](https://alpinejs.dev/) [preact](https://preactjs.com/) [qwik](https://qwik.dev/) [extjs](https://www.sencha.com/products/extjs/) [lit](https://lit.dev) [mithril](https://mithril.js.org) [aurelia](https://aurelia.io) [marko](https://markojs.com) [ember](https://emberjs.com)
 + javascript web框架(for node) [express](https://expressjs.com/) [koa](https://koa.bootcss.com/)
 + node服务端开发框架 [nestjs](https://nestjs.com/)
 + 跨平台桌面应用程序开发框架 [electron](https://www.electronjs.org/)

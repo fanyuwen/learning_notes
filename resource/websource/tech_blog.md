@@ -302,6 +302,8 @@
         + 设计模式
           + [Spring Boot 与 责任链模式：构建灵活可扩展的高级应用](https://mp.weixin.qq.com/s/uKbD1fV6dnt3naVkPXevDA)
           + [使用设计模式来增强你的 SpringBoot 开发](https://mp.weixin.qq.com/s/TXEHGefQYNG1ep6hzElmuw)
+        + message
+          + [教你如何搞定 springboot 集成 kafka](https://my.oschina.net/u/4526289/blog/11140692)
         + 配置打包部署
           + [我司用了6年的 SpringBoot 项目部署方案，稳得一批！](https://mp.weixin.qq.com/s/LCOgdHNM2nMPK-jLfLJMNg)
           + [SpringBoot应用启动：深度探索Jar包启动参数与配置](https://mp.weixin.qq.com/s/w6klcbLARYjbR_ltA0QDxQ)
@@ -311,6 +313,7 @@
           + [从SpringBoot2.7开始自动配置发生哪些变化？你都知道吗？](https://mp.weixin.qq.com/s/ofBasHTpzuqeEDqdxDrqAw)
         + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
         + [SpringBoot启动后CommandLineRunner、ApplicationRunner的子类是如何自动执行的？](https://mp.weixin.qq.com/s/Cv1QwbvQ25J56H0Yexg5nw)
+        + [技术分享 | SpringBoot 流式输出时，正常输出后为何突然报错？](https://my.oschina.net/u/5057806/blog/11198669)
         + [全新升级：SpringBoot Admin可视化监控工具全面解析](https://mp.weixin.qq.com/s/OwGqmvkLSXnMQNi-AF2PFQ)
         + [Spring Boot 3：使用自定义注解、拦截器和Redis实现高并发接口限流](https://mp.weixin.qq.com/s/KTfrBoSOVFddSJYztUqJ0g)
         + [SpringBoot 应用优雅上线](https://mp.weixin.qq.com/s/EZPHFbwJaIBlF0aMdp5jSA)
@@ -363,6 +366,7 @@
         + [Spring框架中的线程池](https://mp.weixin.qq.com/s/FCeSlVNImbxKU6Be_YJA1A)
       + security
         + [一文让你彻底搞定Spring Security的基本使用](https://mp.weixin.qq.com/s/CGGmSWu--yNXXB-wQyUu_Q)
+        + [HttpSecurity 是如何组装过滤器链的](https://my.oschina.net/lenve/blog/11198493)
       + data
         + [Spring Batch 批处理框架，真心强呀！！](https://mp.weixin.qq.com/s/oKyaDHgi6A62Jv4FGZQpDg)
         + [SpringBatch高阶应用：大数据批处理框架实战指南s](https://mp.weixin.qq.com/s/U7DVthqRtaFv8x_AR-CyHA)
@@ -575,6 +579,7 @@
         + [面试必问：MySQL死锁 是什么，如何解决？（史上最全）](https://mp.weixin.qq.com/s/jYRMnMNxiFVBu183jiVqfg)
         + [5000w+ 的大表如何拆？亿级别大表拆分实战复盘](https://mp.weixin.qq.com/s/XrD6vGe4iYux7zWHLB3W_Q)
         + [Mysql深度分页问题的处理方案](https://mp.weixin.qq.com/s/QGoswpMRwc6ffLLaHmBeDA)
+        + [分布式任务调度内的 MySQL 分页查询优化](https://my.oschina.net/vivotech/blog/11188141)
         + [慢 SQL 监控都不会？Out！](https://mp.weixin.qq.com/s/I2RMiilpZKz-eioJc15L8w)
       + REDIS
         + [Redis Pipelining 底层原理分析及实践](https://my.oschina.net/vivotech/blog/11052076)
@@ -686,6 +691,7 @@
     + [讲真，我发现这本书有个地方写错了!](https://mp.weixin.qq.com/s/wDkmzUjvpJuBTEISAJJjOA)
     + [改几行代码，for循环耗时从3.2秒降到0.3秒！真正看懂的都是牛人！](https://mp.weixin.qq.com/s/LCvWnAdM4wUiGTqSoiBxrA)
     + [这几行代码，真的骚！](https://mp.weixin.qq.com/s/VL8ZKwoH3Witru0Ff0eq6g)
+    + [掌握这些代码安全检视方法，提升你的代码质量](https://my.oschina.net/u/4526289/blog/11194193)
   + 工具
     + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
     + [为什么很多人电脑桌面上软件图标寥寥无几甚至空空荡荡?请问怎么做到的?](https://mp.weixin.qq.com/s/Ncy87p3XYF5MrHYHmf0OhA)

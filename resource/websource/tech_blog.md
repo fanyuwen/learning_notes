@@ -671,6 +671,7 @@
     + [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666566846&idx=1&sn=2c33f82a889ebfc3c780b825a1b27571&chksm=80dc5015b7abd903247a009276fb490bb86f44552a2191e2c0f2ee43ba43ee86787d171b3f1b&mpshare=1&scene=1&srcid=0530PfYKfjail2jOmAuNjA2e&sharer_shareinfo=ac61e0035385cd191aad484badcbe70e&sharer_shareinfo_first=ac61e0035385cd191aad484badcbe70e&poc_token=HH4wWGajsDUaB7aIBzOCvWP_blpm3nribC6c7VuN)
     + [面试官：解释一下对称加密和非对称加密及其在HTTPS中的应用](https://mp.weixin.qq.com/s/5qrcoXNxZzwEk9iCVpttHQ)
     + [网络流量限速技术：优化网络性能与资源管理的利器](https://mp.weixin.qq.com/s/VphSXlscrI_77H2CR850mA)
+    + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
   + IO原理
     + [阿里面试：NIO为什么会导致CPU100%？](https://mp.weixin.qq.com/s/1yZft2djYFZJAi6-pbxN1A)
     + [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)

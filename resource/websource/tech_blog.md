@@ -129,6 +129,7 @@
   + [Jenkins + Docker 一键自动化部署 Java Spring Boot 应用最简流程](https://mp.weixin.qq.com/s/n3TbaT5pqIZahyLWq5ks3Q)
   + [Jenkins + Docker 一键自动化部署 Spring Boot 项目，步骤齐全，少走坑路！](https://mp.weixin.qq.com/s/wVz2N0Vr-2Ed8KSo2jdJ1Q)
   + [告别 Jenkins ？这套轻量级自动化部署方案，让你轻松上车！](https://mp.weixin.qq.com/s/gwKUCB7xf9-cDJ5IOapieg)
+  + [vivo 制品管理在 CICD 落地实践](https://my.oschina.net/vivotech/blog/11198978)
 # JAVA
   + 语言相关
     + 基础
@@ -425,6 +426,7 @@
       + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/DNpqLjSsXcedXLFxiJCqCQ)
       + [为什么 MyBatis 源码中，没有我那种 if···else](https://mp.weixin.qq.com/s/jUln-ymUfGRQuuWtZhdH6g)
       + [慎用，Mybatis-Plus这个方法可能导致死锁](https://mp.weixin.qq.com/s/wgxZK09PKTyOHNnkaxyNqg)
+      + [一文带你理解透 MyBatis 源码](https://my.oschina.net/u/4526289/blog/11203801)
     + disruptor
       + [如此狂妄，自称高性能队列的 Disruptor 有啥来头？](https://my.oschina.net/jiagoushi/blog/5578896)
       + [Disruptor 测试结果运算 1 亿次，耗时 5503ms，吞吐量 18171000/s](https://my.oschina.net/jiagoushi/blog/5579251)

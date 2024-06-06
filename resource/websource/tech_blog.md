@@ -6,6 +6,7 @@
     + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
   + 领域相关
     + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
+    + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
   + 职场感悟
     + [IT 行业从业 23 年和创业 14 年感悟](https://my.oschina.net/easysoft/blog/10315932)
     + [程序员 25 岁做什么能够改变 35 岁被淘汰的命运？](https://my.oschina.net/u/5587102/blog/11051968)
@@ -23,6 +24,10 @@
     + [我在项目里用雪花算法搞了唯一ID生成，结果上线就引发了故障...](https://mp.weixin.qq.com/s/pPlD1Po6AEURluGuZrApcw)
     + [接口设计的18条军规](https://mp.weixin.qq.com/s/viJaTMM58e8s7QtNFMWdkA)
     + [谷歌开源内部代码评审规范](https://my.oschina.net/u/3727380/blog/4440075)
+    + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
+    + [整理常见的网站在线人数统计方案](https://mp.weixin.qq.com/s/V461SLnil7ih3eXQTZ1Rcg)
+    + [美团一面，你碰到过CPU 100%的情况吗？你是怎么处理的？](https://mp.weixin.qq.com/s/TcprDRjzQCXQ7OQmJ0E5XQ)
+    + [精简代码实战：核心系统缩减80%代码](https://mp.weixin.qq.com/s/30PHdlnGZ4lGm3H5VeLRWQ)
   + 资源
     + [阿里巴巴26个屌炸天的开源项目，你知道几个？](https://mp.weixin.qq.com/s/6tvz_DbGRWhVHPFfZmYG6A)
   + 分布式技术
@@ -35,18 +40,23 @@
       + [分布式锁互斥控制实践：红锁RedLock解析](https://mp.weixin.qq.com/s/rm3QKYSYIgpkh8jTB2qYmQ)
       + [分布式锁最全详解(图文全面总结)](https://mp.weixin.qq.com/s/GjxCsNj5QXhLYyNl45njZA)
       + [分布式锁](https://mp.weixin.qq.com/s/ILuRan7ycYbf7iJRKNcGiA)
+      + [分布式锁选型指南：Redis与ZooKeeper的较量与融合](https://mp.weixin.qq.com/s/TnA9ddKJ8R7MpB1qEU13vQ)
     + 分布式缓存
       + [性能优化：跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s/fqzj0wQp0MkEH4zuGf7NaQ)
     + 分布式事务
       + [5大分布式事务框架详解(图文全面总结)](https://mp.weixin.qq.com/s/2cLIvgPshzWM46kxA2pvLg)
     + 算法
       + [分布式算法最全详解(4大主流算法图解)](https://mp.weixin.qq.com/s/986dumOR90RRJ4kkCLx0kg)
+      + [4大主流分布式算法介绍（图文并茂、算法拆解）](https://mp.weixin.qq.com/s/y9-nFSgx0YiaY3S7PqUMSA)
       + [分布式系统绕不开的话题：分布式一致性算法](https://mp.weixin.qq.com/s/k48-d51nAD68KA9L_5EhnA)
+      + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
   + 功能相关
     + 缓存
       + [如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)
       + [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
       + [性能优化：使用本地缓存遇到实际问题的思考](https://mp.weixin.qq.com/s/mQgFiw-l3vvYHrtO-sTDQw)
+      + [缓存三大问题总结：雪崩、击穿、穿透](https://mp.weixin.qq.com/s/XPIep1wiju-GPbbuTciizg)
+      + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
     + 权限
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
@@ -58,6 +68,7 @@
     + 性能
       + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
     + [电商设计订单超时未支付关闭的方案整理](https://mp.weixin.qq.com/s/PhiGAQXJe-c60GHKypgIyw)
+    + [单点登录系统详解(8大原理机制图解)](https://mp.weixin.qq.com/s/udIVFgdMK249cn48g85bww)
     + [整理常见的商品超卖的解决方案](https://mp.weixin.qq.com/s/EhSzxqA0eUJfutDOW-xnrA)
     + [四种 API 架构风格](https://mp.weixin.qq.com/s/8aOtP_Z7vBF9TtBHbUW5ww)
     + [系统设计中的幂等性原则：深度解析、简便实现与防重复提交策略](https://mp.weixin.qq.com/s/7KGLJh1ARFKUcGxW3vgzdQ)
@@ -90,7 +101,10 @@
     + 微服务
       + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
       + [微服务架构设计模式详解(4种常见模式)](https://mp.weixin.qq.com/s/yrk_ogdNTJLkWXCBDyN1jQ)
+      + [架构之问31：微服务架构8大设计模式与实践](https://mp.weixin.qq.com/s/dhkD0nS3w6YaMIlVodcOcg)
+      + [微服务架构落地及其演进](https://mp.weixin.qq.com/s/6LwUOQPdFXJjltU1ftGrpA)
     + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
+    + [高可用存储架构：集群和分区](https://mp.weixin.qq.com/s/FzKbs770_LGM83u2V6nRfA)
     + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
     + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
     + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s/uy5GIiUeMUzoFhPyS7EBLA)
@@ -111,6 +125,7 @@
     + [23种经典设计模式-工厂模式（详解）](https://mp.weixin.qq.com/s/rodeOrf1IyXIkVhw5OKOgQ)
     + [【实战】使用责任链模式进行报销审批](https://mp.weixin.qq.com/s/dwrjus6nHOTBOivVl7XsPg)
     + [项目中常用到的设计模式之单例模式详解](https://mp.weixin.qq.com/s/yfYZwIJc7RqLExO01ZOu0Q)
+    + [看完这个，以后面试再也不怕什么设计模式了！](https://mp.weixin.qq.com/s/Aty4HDIHsGHDm9PW7WVKmw)
   + 算法 & 数据结构
     + 密码学
       + [写给开发人员的实用密码学（二）—— 哈希函数](https://thiscute.world/posts/practical-cryptography-basics-2-hash/?comefrom=https://blogread.cn/news/&continueFlag=2082d698470a8cd85657d83b45b7be6e&s_trans=2197476363_&s_channel=4)
@@ -153,13 +168,16 @@
       + [double check lock](https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html)
       + [如何找到真正的 public 方法](https://mp.weixin.qq.com/s/AaJMxfg9cXY4Iz08o2jocg)
       + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
+      + [面试官：Java中枚举和常量（如public static final变量）相比有哪些优势？](https://mp.weixin.qq.com/s/Tc7NN-LBXgvkkHL6PMKHNw)
     + 新特性
       + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
       + [300 秒快速了解 Java 9 - 16 新特性，助你脱离内卷](https://my.oschina.net/didispace/blog/5171573)
       + [Java 22 正式发布，一文了解全部新特性](https://my.oschina.net/didispace/blog/11048218)
       + [Java 21 虚拟线程如何限流控制吞吐量](https://my.oschina.net/didispace/blog/11044187)
+      + [提升系统吞吐量，详解JDK21虚拟线程，炸裂](https://mp.weixin.qq.com/s/OI3Ku1bbeIkY2yUo_dHUQA)
       + [一次惨痛的面试：“网易提前批，我被虚拟线程问倒了”](https://mp.weixin.qq.com/s/TSGvzHMn7Eq4oRaLwBPw1w)
       + [升级 JDK17 一个不可拒绝的理由！](https://mp.weixin.qq.com/s/20xiFf3D0RtFiOnesY7DOA)
+      + [升级 JDK17 一个不可拒绝的理由！](https://mp.weixin.qq.com/s/5THCuR65XPr4133zoJ_0Gw)
       + [JDK1.8中的双冒号 :: 这是个啥？](https://mp.weixin.qq.com/s/l_3vzYrZgVVUyydxkX6j7w)
       + [【拿走不谢】18 个 Java8 日期处理的实践，太有用了！](https://mp.weixin.qq.com/s/wWZiJm9xDV90RE2YJpPVFg)
       + [Java 8 的Stream流那么强大，你知道它的原理吗？](https://mp.weixin.qq.com/s/1a19s9ep56-6Q0BBfwQqgg)
@@ -190,6 +208,8 @@
   + 底层
     + 原理解析
       + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
+      + [Doug Lea大师的佳作CopyOnWriteArrayList，用不好能坑死你！](https://mp.weixin.qq.com/s/hKNVHOtBhvLAt7oBwcp2fg)
+      + [系统实现中的“池化”艺术：线程池、连接池及其背后的价值](https://mp.weixin.qq.com/s/8e3pI_f6PwaJLiiAzrr5Lg)
       + [面试官：解释一下方法区中的符号引用和直接引用](https://mp.weixin.qq.com/s/b4argbammF3Kff85NpopgQ)
       + [面试官：对于64位的long和double类型变量，volatile关键字有什么特别的效果？](https://mp.weixin.qq.com/s/lAzY7NLuT_7L6O7_O2h0vQ)
       + [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
@@ -215,6 +235,7 @@
       + [AQS实现原理](https://mp.weixin.qq.com/s/10oyvVeVGytT76GPjzuT-g)
       + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
       + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
+      + [面试官：什么是生产者-消费者模式？如何实现？](https://mp.weixin.qq.com/s/Y05KEjcX1XwSYYUo3eBRdQ)
     + 源码
       + [深入分析 Java 中的 PriorityQueue 底层实现与源码](https://my.oschina.net/u/4526289/blog/11048033)
     + jvm
@@ -266,6 +287,7 @@
         + [为什么加上RefeshScope注解，配置就能动态刷新了？](https://mp.weixin.qq.com/s/Ld21FnVEOYiC2bAQnMNHjw)
         + [Spring Cloud OpenFeign中的请求超时与重试机制详解](https://mp.weixin.qq.com/s/aawT8ZzkZcNvPXfaS9VD4w)
         + [Spring Cloud Gateway 路由配置详解](https://mp.weixin.qq.com/s/NSdW_p17juzsKQems-evCQ)
+        + [Spring Cloud Feign：简化微服务的 HTTP 客户端](https://mp.weixin.qq.com/s/WojobdPyeyB87Nq6jGps5A)
         + [6大SpringCloud组件详解(图文全面总结)](https://mp.weixin.qq.com/s/wLPpDGK0RK_elZZJiAX79g)
         + AI
           + [阿里也出手了！Spring Cloud Alibaba AI初体验](https://mp.weixin.qq.com/s/eclFpjs1SZTJUPWrgRqRDg)
@@ -277,6 +299,7 @@
           + websocket
             + [必不可少的技能之SpringBoot+WebSocket配置详解](https://mp.weixin.qq.com/s/paAH9GGdW81V2o64SfrANg)
           + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
+          + [Spring Boot API 编写的十个最佳实践，你知道几个？](https://mp.weixin.qq.com/s/ORc9K3ZdE6WqKNenWWV8dQ)
           + [Spring Boot 3太强：全新Controller接口定义方式](https://mp.weixin.qq.com/s/Pn_NaZ3wOSLMMp53h_Uemg)
           + [Spring Boot跨域问题解决](https://mp.weixin.qq.com/s/sUdk5E6cptl0QaWK2qiXUw)
           + [SpringBoot 过滤器、拦截器、监听器对比及使用场景](https://mp.weixin.qq.com/s/TLur9KJjYkX8LG0ANcgc7A)
@@ -296,11 +319,13 @@
           + [Spring Boot 接口数据加解密，so easy!](https://mp.weixin.qq.com/s/R4dROz4yl7Vfkw4nCvvnfA)
           + [springboot 高级教程 如何让查询接口达到几万并发](https://mp.weixin.qq.com/s/Ea6KNySuqaNF0TevN_uWYQ)
           + [接口响应慢？掌握这优化技巧速度飙升](https://mp.weixin.qq.com/s/APMYclYupMokZvf5ZWdYAQ)
+          + [Spring Boot集成validation实现参数校验功能](https://mp.weixin.qq.com/s/ZeG0NUJcHn_o73ZGW7JTxg)
           + [使用Spring Boot开发API时的请求参数读取机制](https://mp.weixin.qq.com/s/wrisbOB5acH5-ttEHyHBGA)
           + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
         + data
           + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
           + [Spring Boot实现多数据源快速入门](https://mp.weixin.qq.com/s/f7zgs2DjM6wKMLXNpSAstg)
+          + [Spring Boot 整合 MongoDB：入门篇](https://mp.weixin.qq.com/s/FQBmKUISjVt3vpiXQLDcGg)
         + 多线程
           + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
           + [springboot整合线程池最佳实践，赶紧学起来！](https://mp.weixin.qq.com/s/vDqqE2PiNIsojgrQRb0QWA)
@@ -313,6 +338,7 @@
           + [如何在Spring Boot中创建自定义的SpringEvent增强组件](https://mp.weixin.qq.com/s/Tdn4WgnclcK32APLgKFFeA)
           + [在SpringBoot的SpringApplication中ApplicationListener监听器是如何监听应用事件的](https://mp.weixin.qq.com/s/MLrdMEGrIvSVHtLsPX0bhg)
           + [Spring Boot Event 观察者模式，轻松实现业务解耦！](https://mp.weixin.qq.com/s/QfVvBQ4NwoSuTD6iGlzSPA)
+          + [Reactor模型在Spring Boot中的应用](https://mp.weixin.qq.com/s/atFVq47LOfV74xh9gNhJbw)
         + 缓存
           + [SpringBoot项目中使用缓存Cache的正确姿势！！!](https://mp.weixin.qq.com/s/XjKCJeqYx5dDNlfvXWaqyw)
           + [Spring Boot 中缓存的用法](https://mp.weixin.qq.com/s/U7Bt1pTRKSd3_9grt0yiJQ)
@@ -340,6 +366,10 @@
           + [学会这招，来给你的 SpringBoot 工程部署的 jar 包瘦瘦身吧！](https://mp.weixin.qq.com/s/lEuLUM1cqaSsOMt-v3zo9w)
           + [从SpringBoot2.7开始自动配置发生哪些变化？你都知道吗？](https://mp.weixin.qq.com/s/ofBasHTpzuqeEDqdxDrqAw)
         + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
+        + [Spring Boot ：将文件推送到阿里云 OSS](https://mp.weixin.qq.com/s/b4jte00TtWD4DYW31SIgFQ)
+        + [Spring Boot集成rss快速入门demo](https://mp.weixin.qq.com/s/A9DyshjNDC2qGV5x4gFeuQ)
+        + [理解 Spring Boot 中的 @Conditional 和 @Configuration 注解](https://mp.weixin.qq.com/s/I_IwZoLmH-wRpucvJA-G_g)
+        + [双重保护！来试试 SpringBoot 项目中接入 2FA 双因素认证](https://mp.weixin.qq.com/s/nOS6gWj8MirHIaJ6zycPDA)
         + [继承JsonSerializer+注解实现自定义数据脱敏方案](https://mp.weixin.qq.com/s/4Qpx1v1wx_F3dtFirzOiPw)
         + [Spring Boot：将文件推送到 FTP 服务器](https://mp.weixin.qq.com/s/oQKvj-zxfOpEaobxXUvqWw)
         + [SpringBoot启动后CommandLineRunner、ApplicationRunner的子类是如何自动执行的？](https://mp.weixin.qq.com/s/Cv1QwbvQ25J56H0Yexg5nw)
@@ -409,6 +439,7 @@
         + [如何使用 Spring Data JPA 进行数据库访问？](https://mp.weixin.qq.com/s/mYc_QfdIbMGW2yxbQNbCoA)
         + transaction
           + [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/uaDvd_AEEgZlE6u2UomO3A)
+          + [在 Spring 中使用 @Transactional 要避的坑](https://mp.weixin.qq.com/s/46l9yQbqavAxwA8MjskrmQ)
           + [一口气怼完12种@Transactional的失效场景](https://mp.weixin.qq.com/s/hF4jVtLnQ7x92Jb1LB0lvA)
           + [@Transactional(readOnly=true) 真的是提高性能的灵丹妙药吗？](https://mp.weixin.qq.com/s/cS3281XdjMV0TQ-1BUxBCA)
           + [公司新来一个同事，把 @Transactional 事务注解运用得炉火纯青。。](https://mp.weixin.qq.com/s/L2Bt7WYzge5aU3Qfi-EoeQ)
@@ -424,6 +455,8 @@
       + aop
         + [面向切面编程：干净、可维护代码的秘密武器](https://mp.weixin.qq.com/s/6dPVQXMvPxmZ45lTuQG8KQ)
         + [Spring AOP 处理流程概述](https://www.diguage.com/post/spring-aop-process-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
+        + [SpringAOP我的爱，懒人必备神器](https://mp.weixin.qq.com/s/jG8xvmmQ9pIGc8f7W6Yjlg)
+        + [Spring AOP提升审批流程效率：自动化、透明化，让业务飞速运转！](https://mp.weixin.qq.com/s/kaWLWZRNR9oFCep0_ASF9w)
       + [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
       + [Spring非常强大的2个类知道的人不多](https://mp.weixin.qq.com/s/FJGuP4_u4Xkxfz0Xxf2igw)
       + [Spring中Bean的生命周期，让你瞬间通透~](https://mp.weixin.qq.com/s/Hc0TnehzJyW-ur-HWa6oSA)
@@ -489,12 +522,16 @@
       + [9款日志采集和管理工具对比，选型必备！](https://mp.weixin.qq.com/s/b7gFhLYVaVmgF2zGKvB6Yw)
       + [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
       + [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
+    + nacos
+      + [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
+      + [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)
     + 字节码相关
       + [ASM 入门篇](https://my.oschina.net/OutOfMemory/blog/5076032)
     + 其它工具
       + [百万级任务重试框架 Fast-Retry](https://mp.weixin.qq.com/s/aU2j3jAA2Eo8x3LGTN0PhA)
       + [分布式链路追踪：TraceIdFilter + MDC + Skywalking](https://mp.weixin.qq.com/s/WAztnbiZLwcez7trPWyyWA)
       + [只会用 xxl-job？更强大的新一代分布式任务调度框架来了！](https://mp.weixin.qq.com/s/8xuhRm3bD9Zs9dfjNZ3hZg)
+      + [ShardingSphere5.2.0按月分表，自动建表](https://mp.weixin.qq.com/s/lB-c7CDLyde5amQ5K6ILew)
   + 相关文章
     + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
     + [让你的application.yml更安全：给敏感数据上锁！](https://mp.weixin.qq.com/s/DzzQeLfDMqOSR1Ig1PhsKw)
@@ -506,6 +543,7 @@
     + [通过实战走近 Java Agent 探针技术](https://mp.weixin.qq.com/s/QTGQCwaCqNM1JEHUprB5SA)
     + [一种新的流：为Java加入生成器(Generator)特性](https://mp.weixin.qq.com/s/v-HMKBWxtz1iakxFL09PDw)
     + [阿里开源的 JetCache-Alibaba 缓存框架，来了解一下？](https://mp.weixin.qq.com/s/orP-qRG8SdtyNj4M1xaapw)
+    + [微服务面试还是问Spring Cloud Alibaba的比较多](https://mp.weixin.qq.com/s/3M2HUPjWVS0BitZ9-zGnGQ)
 # PYTHON
   + 语言相关
     + 库
@@ -610,6 +648,7 @@
       + [什么是数据库隔离级别？它们有什么作用？](https://mp.weixin.qq.com/s/_DP6iNvbeOmPsgNLHc5U3Q)
       + [一次SQL查询优化原理分析：900W+数据，从17s到300ms](https://mp.weixin.qq.com/s/UkqHEGJpIe3TeDELN6rlYA)
       + [如何确定应用的最佳数据库连接数？](https://mp.weixin.qq.com/s/IwTMqot7BU_f4ijvLnWYTw)
+      + [技术人员必不可少的技能之sql优化](https://mp.weixin.qq.com/s/a5pTOA1r2poKSV7W_8drhQ)
     + 本地数据库
       + 技术方案
         + [NoSQL爆炸时代，数据库的分类及使用场景怎样总结？](https://mp.weixin.qq.com/s/lyWndojigWkCL6nc2rKenQ)
@@ -617,35 +656,56 @@
         + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://my.oschina.net/u/4455409/blog/11049166)
         + [OLAP 进阶之 “性能提升”](https://my.oschina.net/u/5588928/blog/11051631)
         + [大量数据如何做分页处理](https://my.oschina.net/u/4526289/blog/11051586)
+        + [Kafka Stream+WebSocket+Redis实现实时数据大屏](https://mp.weixin.qq.com/s/yKLJN4YBB2EOnfV3AluluA)
       + 原理解析
         + [数据库并发控制：脏读、幻读与不可重复读的全面剖析](https://mp.weixin.qq.com/s/JoDxomYqumUbMJrv8oPhWg)
         + [使用查询分离后，从20s优化到500ms，牛哇~](https://mp.weixin.qq.com/s/Mywxj2WShZ8Vtbf38OYmBw)
+        + [什么是悲观锁和乐观锁，如何实战应用](https://mp.weixin.qq.com/s/gdjKwS0AYE5jrA9elaXSKw)
       + MYSQL
+        + 锁
+          + [聊聊乐观锁与悲观锁](https://mp.weixin.qq.com/s/3CWIR2HaRj_PfY6iOSIjKg)
+          + [面试必问：MySQL死锁 是什么，如何解决？（史上最全）](https://mp.weixin.qq.com/s/jYRMnMNxiFVBu183jiVqfg)
+          + [腾讯1面：MySQL的共享锁和独占锁](https://mp.weixin.qq.com/s/GgkHJ8VdChKvVZcVb0uvvA)
+        + 事务
+          + [MYSQL 事务的底层原理 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10142911?s_trans=2197476363_&s_channel=4)
+          + [揭秘MySQL InnoDB事务管理机制与MVCC：深度解析与实战指南](https://mp.weixin.qq.com/s/E3MU7u8om4dxeXaxMpgtOA)
+        + 索引
+          + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
+          + [什么是最左前缀匹配？为什么要遵守？](https://mp.weixin.qq.com/s/2YSnEFyWlNqUs2oMAnpwnQ)
+          + [Mysql索引-B+树是如何生长的](https://mp.weixin.qq.com/s/3kJt34IXkvowL6E5xp-zoA)
+          + [MySQL：索引优化实战](https://mp.weixin.qq.com/s/NGg5mDE-67YnIR2V-ryZxw)
+          + [面试官：索引都有哪些类型？什么是聚簇索引、二级索引？覆盖索引又是怎么回事呢？](https://mp.weixin.qq.com/s/fs3Ee-tMEZY4mzKMhMOjfA)
+          + [用了索引一定就有用吗？如何排查？](https://mp.weixin.qq.com/s/4qzEov81JRyTEYhq8PwTEg)
+          + [InnoDB为什么使用B+树实现索引？](https://mp.weixin.qq.com/s/sNM6FQwLcN8ApdiebN-Wow)
+          + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
         + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
+        + [整理Mysql优化方案](https://mp.weixin.qq.com/s/zJJPsfqyIaI3gwdsRgJ8RQ)
+        + [MySQL集群最全详解(图文全面总结)](https://mp.weixin.qq.com/s/HXJVzyZADGsHwfDSde1KsQ)
+        + [一文详解MySQL调优流程，吐血整理](https://mp.weixin.qq.com/s/8Qb2zz2YsKALyjxHQ3D9zQ)
+        + [老板问：MySQL的自增 ID 用完了，怎么办？我感觉能用几千年！！！](https://mp.weixin.qq.com/s/QxP-wh_KKtPuerbn9t0NCQ)
+        + [MySQL的InnoDB存储引擎支持哪几种行格式？](https://mp.weixin.qq.com/s/4hXi3WHj02d8Y8FVGalIrg)
         + [MySQL循环插入千万级数据](https://mp.weixin.qq.com/s/x9mlskNvBL8ABKbvCb6y4A)
         + [阿里二面，面试官问MySQL MVCC原理](https://mp.weixin.qq.com/s/7Jzz1rHWc5daArra3m-qpw)
-        + [MYSQL 事务的底层原理 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10142911?s_trans=2197476363_&s_channel=4)
         + [MySQL 备份恢复最佳实践：终极指南](https://my.oschina.net/actiontechoss/blog/10142684)
-        + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
         + [MySQL InnoDB锁探秘：行锁、间隙锁、临键锁与表锁的全方位解读](https://mp.weixin.qq.com/s/zxRBrNnGSlxAxAcOyITbcQ)
         + [性能测试MySQL分析与调优，告别慢查询](https://mp.weixin.qq.com/s/LEWUOPi_J83dSewBPehfDQ)
         + [读“mysql不要用limit分页”给我整不会了](https://mp.weixin.qq.com/s/MmThQJK-ArHa0fcLbrBteA)
         + [腾讯智慧零售1面：MySQL的 where 1=1会影响性能吗？](https://mp.weixin.qq.com/s/u-jE2ynwKwFOGloVLFQXgQ)
-        + [Mysql索引-B+树是如何生长的](https://mp.weixin.qq.com/s/3kJt34IXkvowL6E5xp-zoA)
         + [你了解MVCC多版本控制机制吗](https://mp.weixin.qq.com/s/rKYZtyXqNHlPzzqe3oRVcA)
-        + [MySQL：索引优化实战](https://mp.weixin.qq.com/s/NGg5mDE-67YnIR2V-ryZxw)
         + [凭什么不让使用外键！](https://mp.weixin.qq.com/s/6oDZTGYiqmJ7uEBIW3L-fw)
         + [三种方案优化 2000w 数据大表！忒强~](https://mp.weixin.qq.com/s/KXE0rEjJyebnnd4cEri6Iw)
-        + [面试必问：MySQL死锁 是什么，如何解决？（史上最全）](https://mp.weixin.qq.com/s/jYRMnMNxiFVBu183jiVqfg)
         + [5000w+ 的大表如何拆？亿级别大表拆分实战复盘](https://mp.weixin.qq.com/s/XrD6vGe4iYux7zWHLB3W_Q)
         + [Mysql深度分页问题的处理方案](https://mp.weixin.qq.com/s/QGoswpMRwc6ffLLaHmBeDA)
         + [分布式任务调度内的 MySQL 分页查询优化](https://my.oschina.net/vivotech/blog/11188141)
         + [慢 SQL 监控都不会？Out！](https://mp.weixin.qq.com/s/I2RMiilpZKz-eioJc15L8w)
-        + [面试官：索引都有哪些类型？什么是聚簇索引、二级索引？覆盖索引又是怎么回事呢？](https://mp.weixin.qq.com/s/fs3Ee-tMEZY4mzKMhMOjfA)
-        + [用了索引一定就有用吗？如何排查？](https://mp.weixin.qq.com/s/4qzEov81JRyTEYhq8PwTEg)
+        + [数据库优化大作战：15招高效MySQL性能调优策略大揭秘](https://mp.weixin.qq.com/s/ZfRwLETgA-2RyQR_tPvJlQ)
+        + [9大MySQL性能优化详解(图文全面总结)](https://mp.weixin.qq.com/s/zb3Av8AILPjV6h35V-8B1A)
       + REDIS
         + [MySQL与Redis缓存一致性的实现与挑战](https://mp.weixin.qq.com/s/676TF2WMAukCYL89yXB-vw)
+        + [Redis如何寻址：一文读懂Redis如何在海量数据中快速定位键](https://mp.weixin.qq.com/s/jmI3uixVJKrf1dSLyC__GQ)
         + [Redis Pipelining 底层原理分析及实践](https://my.oschina.net/vivotech/blog/11052076)
+        + [面试官：让我看看你的Redis功力如何](https://mp.weixin.qq.com/s/32tC76LgMfHij2gYsWr3EQ)
+        + [面试官问：Redis缓存淘汰策略有哪些？](https://mp.weixin.qq.com/s/UC5e_OSUFYohAUM4-Qsvaw)
         + [面试官：Redis是什么，有哪些应用场景？大神的回答是这样的](https://mp.weixin.qq.com/s/21wu5iEi3uSfH58cp2kvFw)
         + [面试官：Redis如何实现分布式锁？直击灵魂的连环七问你接得住么？(二)](https://mp.weixin.qq.com/s/IAdWU0Lv1OHxD47omvJY9g)
         + [Redis 三大高可用模式：主从、哨兵、集群](https://mp.weixin.qq.com/s/HDLc1ZLXe6QhR_z_YSpCjg)
@@ -661,8 +721,11 @@
         + [Redis分布式锁最全详解(图文全面总结)](https://mp.weixin.qq.com/s/SY4qZtz8kqe18cRftmx_zA)
         + [太优雅了！用Redis高效实现限流功能!](https://mp.weixin.qq.com/s/i0aDxP94oEMuw_IKyRD2mg)
         + [如何用 Redis 统计海量 UV？](https://mp.weixin.qq.com/s/XSeu-3PV329O-hsTW8Xvrw)
+        + [阿里二面，Redis宕机了，咋办？](https://mp.weixin.qq.com/s/keQhWrIgmLftkZOuQjDZ3Q)
+        + [](https://mp.weixin.qq.com/s/CmrfSSQWS0RdQquC6-njXg)
         + [面试官：Redis有哪几种数据类型？使用场景是什么？分别是怎么实现的？Zset为什么不用树实现呢？数据类型题目4连问你接得住么](https://mp.weixin.qq.com/s/cI8h44bjvHzb0SuEp72BXw)
         + [面试官：Redis有哪些持久化机制（如何保障数据不丢失）？这个Redis必答题你一定不要错过！](https://mp.weixin.qq.com/s/tNdXNfifFDvvm6cdK09wKA)
+        + [面试官：Redis如何保障高可用的？Redis主从、哨兵、Redis Cluster你分清楚了吗？](https://mp.weixin.qq.com/s/1o_oHwl3XOXJhqjvcFYvQA)
       + keyDB
         + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
         + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/6y8Cv5L1kZf0Lv8dCgpvyA)
@@ -681,6 +744,7 @@
   + [消息队列的七种经典应用场景](https://my.oschina.net/makemyownlife/blog/11049488)
   + [面试官：消息队列的应用场景有哪些？](https://mp.weixin.qq.com/s/w3fiSym3gBQdg2cudX3wgA)
   + [90%的Java程序员，都扛不住这波消息中间件的面试四连炮！](https://mp.weixin.qq.com/s/6LdjhwRGvwYozTt2sr72PQ)
+  + [消息队列简介](https://mp.weixin.qq.com/s/og53vJtj400GM8rATPrMaw)
   + [17 个方面，综合对比 Kafka、RabbitMQ、RocketMQ、ActiveMQ 四个分布式消息队列](https://mp.weixin.qq.com/s/VQ5x_pXqf5RGSw-1UPRTrA)
   + [17 个方面，综合对比 Kafka、RabbitMQ、RocketMQ、ActiveMQ 四个分布式消息队列](https://mp.weixin.qq.com/s/BM2a6pX8Pd0ZIb24jgl_mA)
   + kafka
@@ -690,6 +754,7 @@
     + [Kafka 和 ClickHouse集成实现快速实时数据处理，效率惊人！](https://mp.weixin.qq.com/s/-TX3HCjPnroSqshtPtKEZg)
     + [面试官：Kafka 如何优化内存缓冲机制造成的频繁 GC 问题？](https://mp.weixin.qq.com/s/Fcw7jMAcXETOsw1oYNjyLQ)
     + [从0开始搭建 Kafka集群](https://mp.weixin.qq.com/s/5A2rgSSz9S23UcLVofcpVw)
+    + [Kafka高可用揭秘：深入剖析其架构原理与关键技术](https://mp.weixin.qq.com/s/z-FdRfZsqFr-UKr5E-41HA)
   + rocketmq
     + [RocketMQ中分布式事务源码剖析，面试阿里，带上这个大杀器！](https://mp.weixin.qq.com/s/melxb0gxs2joaxFPvO6aqg)
   + pulsar
@@ -707,9 +772,12 @@
       + [为什么公共云的弹性能力很难被发挥出来？](https://my.oschina.net/u/6852546/blog/11053253)
     + 实践
       + [丝滑的打包部署，一套带走！](https://mp.weixin.qq.com/s/yfDN9Vb3peR11XnxRxns-Q)
+      + [云原生技术最全详解(图文全面总结)](https://mp.weixin.qq.com/s/yEmrmHC4SCZCLcTzQmhK2Q)
   + 工具
     + 容器技术
       + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)
+      + [Kubernetes原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/c2UUslAa0xVG1IBUhVRoBA)
+      + [Kubernetes架构最全详解(8大架构组件)](https://mp.weixin.qq.com/s/suTqkvgmsMCqdvuvoZHtyw)
     + 容器工具
       + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
       + [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
@@ -739,6 +807,9 @@
     + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
     + [面试官：TCP 如何保证传输的可靠性？](https://mp.weixin.qq.com/s/cbSUaYDzPk3SkhQ5xNUuOQ)
     + [从RPC到HTTP：网络通信协议的演变](https://mp.weixin.qq.com/s/GIVQ8nyHXTeMqghYrc18Pg)
+    + [什么是四层负载均衡跟七层负载均衡？](https://mp.weixin.qq.com/s/YX9v_v6Gfm-Di3Jz77SCnQ)
+  + web
+    + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
   + IO原理
     + [阿里面试：NIO为什么会导致CPU100%？](https://mp.weixin.qq.com/s/1yZft2djYFZJAi6-pbxN1A)
     + [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)
@@ -771,6 +842,7 @@
     + [Maven官宣：干掉Maven和Gradle！推出更强更快更牛逼的新一代构建工具，炸裂！](https://mp.weixin.qq.com/s/6L09kf4d0ROQxnCS_Zkt6w)
     + [再见Jenkins！一款更适合国人的自动化部署工具，贼带劲！！](https://mp.weixin.qq.com/s/mFwnGQaZAXLbweWie8FM_A)
     + [Arthas线上问题排查利器](https://mp.weixin.qq.com/s/9VzziIrDTmpJNjKfSaspaw)
+    + [小工具大用处！Sqids短ID生成神器！](https://mp.weixin.qq.com/s/0F_bAf6ZG8k2bbbUdjos1A)
     + idea
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
       + [IDEA高效技巧之Debug调试，你都已用过吗？别再不停加日志重启啦](https://mp.weixin.qq.com/s/OmRa52_j_I_CQwvqKGuWRg)

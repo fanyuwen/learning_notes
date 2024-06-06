@@ -3,7 +3,7 @@
     + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
     + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
     + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
-    + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s?__biz=MzkxMDE5NzE4Mg==&mid=2247484150&idx=1&sn=2f33e6c4acf7010f2fc5606c09ed513c&chksm=c12e6a27f659e331fcb4b46fa9c3eeccca025410bc8dc8cd59fe0246991707b32bd62b536fd3&mpshare=1&scene=1&srcid=0121LEGjO5KamJdK9w1Q8tvg&sharer_shareinfo=71e90eaabf97f6679afe0dbc5de37146&sharer_shareinfo_first=9647b1feb14ffe8b2bc7071c3be0b343#rd)
+    + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
   + 领域相关
     + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
   + 职场感悟
@@ -36,7 +36,7 @@
       + [分布式锁最全详解(图文全面总结)](https://mp.weixin.qq.com/s/GjxCsNj5QXhLYyNl45njZA)
       + [分布式锁](https://mp.weixin.qq.com/s/ILuRan7ycYbf7iJRKNcGiA)
     + 分布式缓存
-      + [性能优化：跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247488353&idx=1&sn=d849d77666538bce7209dcea1ee76d2a&chksm=fb997ca4b1a6d4c729658fc24875c342c255d986f7a2da33bb4ff780ab2e45de92140964bff5&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=1&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [性能优化：跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s/fqzj0wQp0MkEH4zuGf7NaQ)
     + 分布式事务
       + [5大分布式事务框架详解(图文全面总结)](https://mp.weixin.qq.com/s/2cLIvgPshzWM46kxA2pvLg)
     + 算法
@@ -46,7 +46,7 @@
     + 缓存
       + [如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)
       + [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
-      + [性能优化：使用本地缓存遇到实际问题的思考](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247488346&idx=1&sn=945be19412306d293bf2b94e3df80b84&chksm=fafdf9f4cd8a70e2455adf88744b4eb22b9a6226710bb4e9927dd66ee63af9c26a216b9ebd0a&cur_album_id=2232956418574336010&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [性能优化：使用本地缓存遇到实际问题的思考](https://mp.weixin.qq.com/s/mQgFiw-l3vvYHrtO-sTDQw)
     + 权限
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
@@ -56,7 +56,7 @@
       + [JWT 签名用对称加密还是非对称加密？](https://my.oschina.net/lenve/blog/11203585)
       + [数据保护技巧揭秘：为导出文件添加防护密码的实用指南](https://my.oschina.net/powertoolsteam/blog/11205422)
     + 性能
-      + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247488254&idx=1&sn=a1418d54fcd6e1b5df2200290c1eea69&chksm=fb5c62481a15e3619a9ad7cf6084ebbb02e2974dd80b975d26a48ef50ff307f9bf7a21188875&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=1&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
     + [电商设计订单超时未支付关闭的方案整理](https://mp.weixin.qq.com/s/PhiGAQXJe-c60GHKypgIyw)
     + [整理常见的商品超卖的解决方案](https://mp.weixin.qq.com/s/EhSzxqA0eUJfutDOW-xnrA)
     + [四种 API 架构风格](https://mp.weixin.qq.com/s/8aOtP_Z7vBF9TtBHbUW5ww)
@@ -93,17 +93,17 @@
     + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
     + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
     + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
-    + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s?__biz=MzkxNzIyMTM1NQ==&mid=2247500949&idx=1&sn=7e54bb8171b421ddd980247e7b398efc&chksm=c1417e11f636f707e11e8b2c781db5b8c4a98c59f5ecab246d6ff410edaa6648d177744f48e8&mpshare=1&scene=1&srcid=0112rF31zBa8EuEG2yPnjvjn&sharer_shareinfo=7a85c84f1f405d737df1e3c55107fae6&sharer_shareinfo_first=e18a14864371089d75159ac3a6af299b#rd)
+    + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s/uy5GIiUeMUzoFhPyS7EBLA)
     + [大厂聚合支付系统架构演进（下）](https://mp.weixin.qq.com/s/6EiRP-7bGfCaK8xhpLzeUA)
     + [一文看懂什么是架构](https://mp.weixin.qq.com/s/IhZ3L5K7bWtHYpkqXN95fQ)
     + [采用微服务架构前，先问自己几个问题](https://mp.weixin.qq.com/s/Sr4R5KC3liTc24WSPLQPFA)
     + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
-    + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s?__biz=MzIwNzYwNTM5OQ==&mid=2247492426&idx=1&sn=64d79196bc75103cb48846dda17bfefe&chksm=970d78b2a07af1a4619702fe8e74b31dec3b313954e5fd6ccda62cd85118d93e19201ed45ca5&mpshare=1&scene=1&srcid=06067VTz65Wr2LU8yEK4oG9p&sharer_shareinfo=88c8e0455d96c7f1d12aec37998932b7&sharer_shareinfo_first=88c8e0455d96c7f1d12aec37998932b7&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+    + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
   + 流程管理
     + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
     + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
     + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)
-    + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651612566&idx=2&sn=f1e2c87e13737ae629d7098e3cd9160f&chksm=8022b257b7553b413dafb713cae1165a21c5a66b502a5ca96d59cd88b3a1aaf7d258a4b8c1e6&mpshare=1&scene=1&srcid=0530bXLdpNvBg8UnxNS4MrZT&sharer_shareinfo=4fadcf0a31114a806e1a74c40eb03c9d&sharer_shareinfo_first=4fadcf0a31114a806e1a74c40eb03c9d#rd)
+    + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
   + 设计模式
     + [面试官：装饰器模式和代理模式之间的区别是什么？并说明各自适合的场景](https://mp.weixin.qq.com/s/eLEurHAs9db4S4Agq2yQBA)
     + [25000 字详解 23 种设计模式（多图 + 代码）](https://mp.weixin.qq.com/s/m3u6NGQq_bwdtOZfZvnOiQ)
@@ -151,10 +151,10 @@
     + 基础
       + [for-each 循环优先于传统的 for 循环](https://my.oschina.net/OutOfMemory/blog/95483)
       + [double check lock](https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html)
-      + [如何找到真正的 public 方法](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651485373&idx=1&sn=ef8b99f13faf7a0c5973b836e7ff6caa&chksm=bd2518c28a5291d409f026dc7164251673db9694a2b2e76d6561ea728c0e27fe62f980ca7401&mpshare=1&scene=1&srcid=0530vik1kiyeTCzPJXrIOEKc&sharer_shareinfo=04aa2d213d2cc0b07e06aad872ea8d23&sharer_shareinfo_first=04aa2d213d2cc0b07e06aad872ea8d23#rd)
+      + [如何找到真正的 public 方法](https://mp.weixin.qq.com/s/AaJMxfg9cXY4Iz08o2jocg)
       + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
     + 新特性
-      + [感受 lambda 之美！](https://mp.weixin.qq.com/s?__biz=MzI3MDM0MzAyMg==&mid=2247503656&idx=1&sn=cdbb7faadc4051ef3479cfdc39565903&chksm=ead00129dda7883f7ebeb828f726939b3533d0fff7598b9d2b05250a087238ce6fc35ea1a30b&mpshare=1&scene=1&srcid=0111vdVZtTbrw8QFcnB76K4U&sharer_shareinfo=2dcb28837fe0a221b0da23ad7b1ebfcd&sharer_shareinfo_first=2a46f6d16056a468f0bdd27491fbfdad#rd)
+      + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
       + [300 秒快速了解 Java 9 - 16 新特性，助你脱离内卷](https://my.oschina.net/didispace/blog/5171573)
       + [Java 22 正式发布，一文了解全部新特性](https://my.oschina.net/didispace/blog/11048218)
       + [Java 21 虚拟线程如何限流控制吞吐量](https://my.oschina.net/didispace/blog/11044187)
@@ -180,7 +180,7 @@
       + [答应我， 不要再用 if (obj != null) 判空了](https://mp.weixin.qq.com/s/Y0c7r8Vhqc-x5SEwNGvTNQ)
       + [代码手术刀 - 自定义你的代码重构工具](https://my.oschina.net/u/4090830/blog/11032974)
       + [关于 Java 异常处理的 9 条原则](https://my.oschina.net/u/6903207/blog/11053313)
-      + [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s?__biz=MzkxNjQxODg1Mw==&mid=2247487660&idx=2&sn=0ddc3f5b3d81e80c80ceaa9aca9ac409&chksm=c15168e6f626e1f0c3d7198589b7db2d61ca92d02b3be3acf36bfe196c59d51498b7ac9992bf&mpshare=1&scene=1&srcid=01127ptPvyq9RhSXGDfY4tkI&sharer_shareinfo=d874cbc78d68936822e9319bcb805f96&sharer_shareinfo_first=37096bd7dc83e3d3a3f4c3a5824ceb61#rd)
+      + [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s/h46rRPLAr5PW18rOxnCbzA)
       + [CTO：再写if-else，逮着罚款1000！](https://mp.weixin.qq.com/s/1gogrw-_4IIiruY56rgSZQ)
       + [代码质量一塌糊涂，特么离职了，新来的人都不知道从哪里，今天分享高质量命名方法论给你](https://mp.weixin.qq.com/s/q0qSgJjVbmezh0O_WBiEzA)
       + [ConcurrentHashMap中有十个提升性能的细节，你都知道吗？](https://mp.weixin.qq.com/s/vZZQeWaKQ2pbUDyyqpzunQ)
@@ -382,7 +382,7 @@
         + [Spring Boot + URule 实现可视化规则引擎，太优雅了！](https://mp.weixin.qq.com/s/47MBFXqstYj7TCFaFuTG-g)
         + [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
         + [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s/9A_Z2Tgr2DUANTvFchGsuw)
-        + [SpringBoot 实现热插拔AOP，非常实用！](https://mp.weixin.qq.com/s?__biz=MzU2OTMyMTAxNA==&mid=2247526697&idx=1&sn=95c63f0031fd61e9f09526b871725157&chksm=fc825a70cbf5d366d6e66dbc21b7bf493e002e12c2fea7348fddae5c1ff9cf76f55b3d0f78bd&mpshare=1&scene=1&srcid=01152AvkF6jnb2ruz9c8UwVX&sharer_shareinfo=18d0b820f49f6716aa6e3d5591f1b8a5&sharer_shareinfo_first=38bcc072f93109824185cb61db983ec3#rd)
+        + [SpringBoot 实现热插拔AOP，非常实用！](https://mp.weixin.qq.com/s/VNsw9SgYPJFm9fdVLd9Yvw)
         + [公司入职一个阿里大佬，把 Spring Boot 系统启动时间从 7 分钟降到了 40 秒！](https://mp.weixin.qq.com/s/fBALOthJQjE9ZNl-uszWvg)
         + [将Docker部署的SpringBoot应用内存降低 40% 以上](https://mp.weixin.qq.com/s/XzJrI6o1cKJJ7pzd45aikA)
         + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
@@ -445,7 +445,8 @@
       + [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
       + [Spring框架FactoryBean接口的作用和应用](https://mp.weixin.qq.com/s/whAOWGlthyfbNWfUuCYrUg)
       + [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
-      + [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s?__biz=MzU0OTk3ODQ3Ng==&mid=2247608842&idx=1&sn=ed5990306d61411033072b6e7977bb36&chksm=fba4c209ccd34b1f4f26b225c7321ad5244789b69a8b8d683d2858ece3cf2799022f944b515c&mpshare=1&scene=1&srcid=0112Rxiy3tEFZlPHfWgznMkq&sharer_shareinfo=e9d8a72bdf3fbe5780781709192b37fd&sharer_shareinfo_first=9dc61fda16c1c7aea76f15e59cf84ff7#rd)
+      + [高手必学的Spring两个重要接口！](https://mp.weixin.qq.com/s/mmmL7Z49g9XNBjMBBjV3Jg)
+      + [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ) 
       + [如何阅读 Spring 源码？](https://www.diguage.com/post/how-to-read-spring-sources/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
       + [Spring @DependsOn注解解析](https://mp.weixin.qq.com/s/dAb2zeUR9u9WrCllUeXznw)
       + [深入剖析 Spring 核心数据结构：BeanDefinition](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-definition/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
@@ -496,7 +497,7 @@
       + [只会用 xxl-job？更强大的新一代分布式任务调度框架来了！](https://mp.weixin.qq.com/s/8xuhRm3bD9Zs9dfjNZ3hZg)
   + 相关文章
     + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
-    + [让你的application.yml更安全：给敏感数据上锁！](https://mp.weixin.qq.com/s?__biz=MzkwNDY2Mjg3NA==&mid=2247484224&idx=2&sn=3ed296ce701012939b08b3f0f3a6309c&chksm=c082d975f7f5506348ce6349bef49d7f78fe9da67ecc66870b4f8ee78f63ac136429aa052a73&mpshare=1&scene=1&srcid=0606gypKzwoZbdN7lG9JqsqT&sharer_shareinfo=333251067cbef3d70d28ce8cd4fd95f9&sharer_shareinfo_first=333251067cbef3d70d28ce8cd4fd95f9&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+    + [让你的application.yml更安全：给敏感数据上锁！](https://mp.weixin.qq.com/s/DzzQeLfDMqOSR1Ig1PhsKw)
     + [顶级Javaer都在使用的类库，真香！](https://mp.weixin.qq.com/s/Xk52w0jwTaFiVVUEhzNLnQ)
     + [Java 生成各种 PDF 实战方案（图片、模板、表格）](https://mp.weixin.qq.com/s/QnxDCatx967UtUpIulwbyw)
     + [麻了，不要再动不动就BeanUtil.copyProperties！！！](https://mp.weixin.qq.com/s/tEOvRehWOlC1McbW27akWQ)
@@ -508,9 +509,9 @@
 # PYTHON
   + 语言相关
     + 库
-      + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s?__biz=MzkxNzU2Nzg2NQ==&mid=2247486545&idx=1&sn=0036388e8fcec70785f4071d455b75a5&chksm=c064d2bfa601db19fed7bf5951564e72c629fc70932cac39372ce99154d8e7f9677d5dd852c8&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s?__biz=MzkxNzU2Nzg2NQ==&mid=2247486589&idx=1&sn=87c54dfb49f1824108480fd63a1764e1&chksm=c1bfec6bf6c8657d5795afb36723939dbaa2504fcd368efe680c1f667294d1f893278878e7d5&cur_album_id=3101281634991243270&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s?__biz=MzkxNzU2Nzg2NQ==&mid=2247486549&idx=1&sn=41399002a91f3acd9e43e09d259b9d03&chksm=c1bfec43f6c86555c4098fe0ba99918929581a11322e19b40b775f0b4ace78ae51bca400a9a5&cur_album_id=3101281634991243270&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
+      + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
+      + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
       + [Python 中两种网络编程方式：Socket 和 HTTP 协议](https://my.oschina.net/u/4526289/blog/11052841)
@@ -523,15 +524,15 @@
       + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
       + [详解 Python 中可视化数据分析工作流程](https://my.oschina.net/u/4526289/blog/11105722)
       + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
-      + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454482896&idx=1&sn=2c293051f2f06a27a792d5e47ee73ce8&chksm=fd9406d7cae38fc123c643d2cc859119615f07d552e7264559a94a0201a8a604660b07c46c85&cur_album_id=3264682888663629832&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454482899&idx=1&sn=2a17f913f10fde49af11a14c77bcecd6&chksm=fc39074294ce19d10a4034e8715cb989d7802f0f2f231f90b21c74255546ce8904c6c8e973c2&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [Python中10个节省时间的代码片段](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454482760&idx=1&sn=2921f2ed2a47c22de722b16a5c9a5ced&chksm=fcd335a93badd1ef38c88565718ad507e7ad9aaaa1869cd82c33c7ea2855982ce2848a0b9388&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
+      + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s/6_d1koWllGT8ovRnPq5SxQ)
+      + [Python中10个节省时间的代码片段](https://mp.weixin.qq.com/s/uBydqwJbCZ5bGaoZoyMrFQ)
       + [Python代码文件不只是“.py”](https://mp.weixin.qq.com/s/zISAv_jVF5r0zWzZ-d65vw)
-      + [10个python经典程序](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486060&idx=1&sn=d3bbb834a4f8bbff7a7b54385d3c730d&chksm=ffa7589b9bb150405a091e9d709c797719792442f15a6c020d2050671a926741f102cbb84fa9&scene=132&exptype=timeline_recommend_article_extendread_extendread_for_notrec&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454483120&idx=1&sn=b6c6503c604dda810367a56dce22ce2f&chksm=fcf5decff18eca270323e7008cb1deb71b1374d07ef96a8091f0609d63277c4ae71f4f497566&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [10个常用的python lambda函数](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486173&idx=1&sn=9a376d08998c96ca685413cc8d380fb2&chksm=ff7bf3ba13f381f74769c5cbf8fc290b4375446a882a5ae163ef3a470c6d01e78aabe2d6cde4&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s?__biz=MzU3MzY4MTM4OA==&mid=2247485301&idx=1&sn=286fc78840731293eaa684d99677036d&chksm=fcdfec0240cac80687c28f087c0f13669d9b2d9e07a8edd2c0bbeca88ec3d8b8517de29b5cb9&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [10个python经典的装饰器](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486153&idx=1&sn=1a221e1c2697981c3b51af897e7cdc94&chksm=ffd30e96830227875b6fd643f8e8bd8df066ff04760f73aa8d6ab2bcd29497fe849964f66174&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [10个python经典程序](https://mp.weixin.qq.com/s/RsTfjsQ3dyniwkRwRSeTCw)
+      + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s/5SFBqLB7z85awLwaIxgwUg)
+      + [10个常用的python lambda函数](https://mp.weixin.qq.com/s/TDeByt-MRHJE2QjtTod8og)
+      + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s/Fod5IYBo7SuTjVUin_Qg6A)
+      + [10个python经典的装饰器](https://mp.weixin.qq.com/s/Lb5AKGcOQMa7KmOpmN7MAg)
     + Django
       + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 # 前端技术
@@ -544,10 +545,10 @@
       + 语言特性
         + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
       + 底层
-        + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609013&idx=1&sn=93a9a5633f21204dd6a768b3f32affb8&chksm=80228074b7550962ea499b425a1551593481ff291a131b8ead1e24341c0a87172d409ea850dd&mpshare=1&scene=1&srcid=0530SKsNg6WDR7k0bZxvNx3n&sharer_shareinfo=9f246e107beea64d65e7f9a28c2e1ee6&sharer_shareinfo_first=9f246e107beea64d65e7f9a28c2e1ee6#rd)
+        + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
     + 实践
       + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
-      + [13个Javascript 技巧和最佳实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651612426&idx=2&sn=2f36355f9d2be6f7b139759171c8cc85&chksm=8022b2cbb7553bdd78a3f295294f2b53013590e1584d7fce78502ef2246c96838061da74a8db&mpshare=1&scene=1&srcid=0530YVSsr8tHJ4YrPbN6lGzw&sharer_shareinfo=ec9b86ffaf2cab589cc99f449efbdaac&sharer_shareinfo_first=ec9b86ffaf2cab589cc99f449efbdaac#rd)
+      + [13个Javascript 技巧和最佳实践](https://mp.weixin.qq.com/s/FSwW68Ctt2LPUx8D__IjXg)
   + 框架
     + vue
       + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
@@ -571,8 +572,8 @@
   + 实践
     + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
     + [golang 结构体 json 的时间格式化解决方案](https://my.oschina.net/qiangmzsx/blog/1408330)
-    + [解析 Golang 定时任务库 gron 设计和原理](https://mp.weixin.qq.com/s?__biz=MzAwNjMxMTgwNw==&mid=2247492311&idx=1&sn=c5b9e2d95b14e6d8323c113932a19103&chksm=9b0df8c7ac7a71d159dbdff89ac7261e7d7426641291d8d5eee73a2c362aaae22a957b206c01&mpshare=1&scene=1&srcid=0530y12T1tEHuw8mS37dneJO&sharer_shareinfo=d58a7a5ec8a78d0446f6a25e96f9902f&sharer_shareinfo_first=d58a7a5ec8a78d0446f6a25e96f9902f#rd)
-    + [[Golang] 泛型的使用](https://mp.weixin.qq.com/s?__biz=MzAwNjMxMTgwNw==&mid=2247492895&idx=1&sn=5773bc616f2a74dc406de57936a66bbf&chksm=9b0dff0fac7a7619a62558ec6ae47d1da861a68705c71180e1dccbedfd0c38ef3f2824a1a784&mpshare=1&scene=1&srcid=05302IKWdQnxf45nINiniM5M&sharer_shareinfo=852f5ae68e9a92edfdbd6d76ccf466cc&sharer_shareinfo_first=852f5ae68e9a92edfdbd6d76ccf466cc#rd)
+    + [解析 Golang 定时任务库 gron 设计和原理]https://mp.weixin.qq.com/s/bkvbST8x4cXLHDM545OabQ)
+    + [[Golang] 泛型的使用](https://mp.weixin.qq.com/s/lwsOnblS0uUHI59L2PpufQ)
     + [Go 如何优雅实现业务并发？](https://mp.weixin.qq.com/s/0JS7XWcpRauj14xWGWopFw)
   + 面试题
     + [Golang 面试题解析](https://my.oschina.net/qiangmzsx/blog/1478739)
@@ -582,7 +583,7 @@
   + 语言相关
     + 文章
       + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
-      + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s?__biz=MzAxNDI5NzEzNg==&mid=2651173264&idx=1&sn=f6f3925dad8e5e4a71c184a5b96e0b1d&chksm=806460cfb713e9d94b64c49622018ae43fecb458f01030b9e7120ba01a4422e6c4f596531304&mpshare=1&scene=1&srcid=0530RkCCCd7eCiWV7hqcWo4x&sharer_shareinfo=babde2b1a39630f849e497fe30e1a4aa&sharer_shareinfo_first=babde2b1a39630f849e497fe30e1a4aa#rd)
+      + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
       + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
 # SWIFT
   + 实践
@@ -593,7 +594,7 @@
       + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
       + [数据库连接：隐藏的性能杀手？](https://mp.weixin.qq.com/s/DtJ5m7mW-GTmmFL7qMJb2g)
       + [80 个常见的 SQL 面试问题与答案](https://mp.weixin.qq.com/s/5ZrVbRtYxKSWOnlJ3F6cdA)
-      + [分享 10 个高级 sql 写法](https://mp.weixin.qq.com/s?__biz=MzA5ODM5MDU3MA==&mid=2650889417&idx=1&sn=6d235f62b9aa67802e7ec8c3d37ae674&chksm=8b67bb8cbc10329ac42565d690f8ed27c82d2b41d03ff9e49a34bcb7a19d581c357c9a46d4d1&mpshare=1&scene=1&srcid=0530VCeTzJThhl1yEtamQSvO&sharer_shareinfo=84b51c6b59cf378bb378ccb5b6bccf6f&sharer_shareinfo_first=84b51c6b59cf378bb378ccb5b6bccf6f#rd)
+      + [分享 10 个高级 sql 写法](https://mp.weixin.qq.com/s/g9FV2dFt9jo1Dn29WmBfIw)
       + [用一句话讲清楚“脏读、幻读、不可重复读”的概念和区别](https://mp.weixin.qq.com/s/9fO5hLFYke1GT_DymTb8_A)
       + [美团阿里面试连问：Redis与MySQL双写一致性如何实现？](https://mp.weixin.qq.com/s/hUZ1aFB7SGUmGJULSrcmLg)
       + [面试官：如何保证Redis缓存和数据库数据的一致性？直击灵魂的连环七问你扛得住么？（二）](https://mp.weixin.qq.com/s/Y-KF6Q3Hsklbb05fjs-bOg)
@@ -608,10 +609,10 @@
       + [Sharding-JDBC如何实现读写分离](https://mp.weixin.qq.com/s/MWmn_v_TaQHnCZAFaCYGBQ)
       + [什么是数据库隔离级别？它们有什么作用？](https://mp.weixin.qq.com/s/_DP6iNvbeOmPsgNLHc5U3Q)
       + [一次SQL查询优化原理分析：900W+数据，从17s到300ms](https://mp.weixin.qq.com/s/UkqHEGJpIe3TeDELN6rlYA)
-      + [如何确定应用的最佳数据库连接数？](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247488282&idx=1&sn=40a49ab2a347edadbaa8d17a0ec79bdb&chksm=fafdf9b4cd8a70a2d2a1be071c896c151820583d195592dc6924fd2f70893639a1e2f2d4e509&mpshare=1&scene=1&srcid=0606R9xCklBi5VlwlWe7fs2v&sharer_shareinfo=21a00361c62c1a1f73856b9f85a69f78&sharer_shareinfo_first=21a00361c62c1a1f73856b9f85a69f78&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [如何确定应用的最佳数据库连接数？](https://mp.weixin.qq.com/s/IwTMqot7BU_f4ijvLnWYTw)
     + 本地数据库
       + 技术方案
-        + [NoSQL爆炸时代，数据库的分类及使用场景怎样总结？](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247487954&idx=1&sn=934b8be91afadd6486344a2b0c33ccf3&chksm=fafdfb7ccd8a726a918bdcc11e3d36d2764161aea19ef848444a2ace1a7341d86002c1d34e84&cur_album_id=2146035450241695745&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+        + [NoSQL爆炸时代，数据库的分类及使用场景怎样总结？](https://mp.weixin.qq.com/s/lyWndojigWkCL6nc2rKenQ)
         + [从 MongoDB 到 PostgreSQL 的大迁移](https://my.oschina.net/u/6148470/blog/11050282)
         + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://my.oschina.net/u/4455409/blog/11049166)
         + [OLAP 进阶之 “性能提升”](https://my.oschina.net/u/5588928/blog/11051631)
@@ -621,7 +622,7 @@
         + [使用查询分离后，从20s优化到500ms，牛哇~](https://mp.weixin.qq.com/s/Mywxj2WShZ8Vtbf38OYmBw)
       + MYSQL
         + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
-        + [MySQL循环插入千万级数据](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486148&idx=1&sn=ffe8e233ecb1041314b46babb7c78ca0&chksm=ffb385cd107e75f50bbf01faf1cb1fd66e472ccd11111300457dd6c8ebe02e15723c41a6ea8e&scene=132&exptype=timeline_recommend_article_extendread_extendread_for_notrec&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+        + [MySQL循环插入千万级数据](https://mp.weixin.qq.com/s/x9mlskNvBL8ABKbvCb6y4A)
         + [阿里二面，面试官问MySQL MVCC原理](https://mp.weixin.qq.com/s/7Jzz1rHWc5daArra3m-qpw)
         + [MYSQL 事务的底层原理 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10142911?s_trans=2197476363_&s_channel=4)
         + [MySQL 备份恢复最佳实践：终极指南](https://my.oschina.net/actiontechoss/blog/10142684)
@@ -717,22 +718,22 @@
 # 操作系统相关
   + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
   + 文件系统
-    + [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s?__biz=MjM5MDkzMzAxMA==&mid=2471816687&idx=1&sn=16894d8f3b3c1cb02780f128745a8a89&chksm=b01d0492876a8d844ab496bbdf721fb1652eb6faeed05062dbbcbf7fb7091d95a8078aa46ccb&mpshare=1&scene=1&srcid=0606CeuU4OmUomXcnMvOwA2U&sharer_shareinfo=ac65801378db3425035a2f73ea95c7dc&sharer_shareinfo_first=ac65801378db3425035a2f73ea95c7dc&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+    + [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s/f81V8_XL4eC14sl_kXFQwQ)
   + linux
     + 实践
       + [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)
-      + [Linux Shell 脚本入门到实战详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666567584&idx=1&sn=4897e07f363cad341e996948eabcfd39&chksm=80dc530bb7abda1dae1972f3644d91a15a0ee896e80e2c241c4e957fa50a45dd8abfdf5ed8c3&mpshare=1&scene=1&srcid=0530wx0C6axrDVt6CJ08RgyF&sharer_shareinfo=f8bc635b1065e05c875ebe875342ade7&sharer_shareinfo_first=f8bc635b1065e05c875ebe875342ade7#rd)
+      + [Linux Shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/OPK8BYNJSOAYPPxGMOn2wQ)
       + [Linux 中文件的隐藏属性与特殊权限](https://sxyz.blog/linux-chattr/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
-      + [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666567958&idx=1&sn=a45c2e79f78586a8a11345b3b0f0876b&chksm=80dc5dbdb7abd4ab9ac4cd44c41ceff3dca235aba2a9668872f4d3a272b16e68f7e2b063f354&mpshare=1&scene=1&srcid=0530hcRxNuJgpRYecXVuyf1s&sharer_shareinfo=c90cade6759293c3a824d1a46b331d74&sharer_shareinfo_first=c90cade6759293c3a824d1a46b331d74#rd)
+      + [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s/bLnaDOA0yindJQWUiRzSgw)
       + [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
-      + [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666569431&idx=2&sn=2e20a40aeb15864f866db43512df09cf&chksm=80dc5a7cb7abd36a326d5b14ffff4b1ab833d399b87fa54aebcebe4068341f7b28346cf2e406&mpshare=1&scene=1&srcid=0530h9VHSsEKfEHoOOTbeBPh&sharer_shareinfo=fae8f261545de3b8f41cabbb58070616&sharer_shareinfo_first=fae8f261545de3b8f41cabbb58070616#rd)
+      + [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
       + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 # 计算机基础知识
   + 网络基础
     + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
     + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
     + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
-    + [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666566846&idx=1&sn=2c33f82a889ebfc3c780b825a1b27571&chksm=80dc5015b7abd903247a009276fb490bb86f44552a2191e2c0f2ee43ba43ee86787d171b3f1b&mpshare=1&scene=1&srcid=0530PfYKfjail2jOmAuNjA2e&sharer_shareinfo=ac61e0035385cd191aad484badcbe70e&sharer_shareinfo_first=ac61e0035385cd191aad484badcbe70e&poc_token=HH4wWGajsDUaB7aIBzOCvWP_blpm3nribC6c7VuN)
+    + [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s/nPIUzppy33MZVwmCq8-e4w)
     + [面试官：解释一下对称加密和非对称加密及其在HTTPS中的应用](https://mp.weixin.qq.com/s/5qrcoXNxZzwEk9iCVpttHQ)
     + [网络流量限速技术：优化网络性能与资源管理的利器](https://mp.weixin.qq.com/s/VphSXlscrI_77H2CR850mA)
     + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
@@ -744,8 +745,8 @@
     + [物联网中设备怎么和云端通信](https://mp.weixin.qq.com/s/VQhM8lo8GsKuP0QKprWD1A)
   + 实践
     + [蚂蚁一面：浮点数在计算机中是如何存储的？](https://mp.weixin.qq.com/s/5S_D3bt-CqXcNUurZVQ9Sw)
-    + [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666568520&idx=1&sn=99a35d61bf2e523eef120c31163bd16f&chksm=80dc5fe3b7abd6f505f8a5760131d3260f701b36a0f0384f03a0995d1cc04fa87e7728e1498c&mpshare=1&scene=1&srcid=0530nL98MuOJirgRJSaWoITp&sharer_shareinfo=f8e503d2238e6ce815d7b3f444510dca&sharer_shareinfo_first=f8e503d2238e6ce815d7b3f444510dca#rd)
-    + [你真的懂串口通信吗？](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666568461&idx=2&sn=471a908a1fda2d23759101c9ddc3160e&chksm=80dc5fa6b7abd6b0c644cd9da60c3f605187172a281863675c098fcae2386729a9f60df74a0d&mpshare=1&scene=1&srcid=0530cal3ikJWR7G5piniLG6u&sharer_shareinfo=8398cffadf180dd244ecc51ced6bd2b5&sharer_shareinfo_first=8398cffadf180dd244ecc51ced6bd2b5#rd)
+    + [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s/jjhO3YQcAAIc7Su49Todjg)
+    + [你真的懂串口通信吗？](https://mp.weixin.qq.com/s/Q8Y_1EDJ1j_EsfmgHUeIiA)
 # 工作竞争力
   + 成长
     + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
@@ -771,7 +772,6 @@
     + [再见Jenkins！一款更适合国人的自动化部署工具，贼带劲！！](https://mp.weixin.qq.com/s/mFwnGQaZAXLbweWie8FM_A)
     + [Arthas线上问题排查利器](https://mp.weixin.qq.com/s/9VzziIrDTmpJNjKfSaspaw)
     + idea
-      + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s?__biz=MzI3MDM0MzAyMg==&mid=2247502546&idx=1&sn=17cae2bfdbc80f63994ac5bc35382c99&chksm=ead004d3dda78dc55e9998d75b1137ca2ad0df7675786a12d225d3546c8a52611304899a6b76&mpshare=1&scene=1&srcid=110939UqkGXz3pyUiYVjvIB9&sharer_shareinfo=1657018d3710b6c5a95fd360840536d7&sharer_shareinfo_first=782eb36b64ae9be411e027a94a16f339#rd)
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
       + [IDEA高效技巧之Debug调试，你都已用过吗？别再不停加日志重启啦](https://mp.weixin.qq.com/s/OmRa52_j_I_CQwvqKGuWRg)
       + [写代码速度提升200%！吊爆的 IDEA 使用技巧](https://mp.weixin.qq.com/s/5GRZmrqKzOY5SvM9u9KSYA)
@@ -780,8 +780,8 @@
       + [效率拉满，开发了一款可直接编辑 jar 包的 IDEA 插件](https://mp.weixin.qq.com/s/TjnBoXlZzrPkRW0aUoz_Gg)
       + [一款 IDEA Mybatis插件：极大提升 CRUD 效率，堪称神器！](https://mp.weixin.qq.com/s/SYZOa1Ay-dyiuy-jmrbJiA)
     + 网络
-      + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s?__biz=Mzg2NTg1NTQ2NQ==&mid=2247503921&idx=1&sn=f6a967e651f9533b50224d3bd8cd2b2f&chksm=cf8db65edb764d101e4bf649b0acb40aa2db748917a3ceee36dc2f6c16c567739d2aa9447da0&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
-      + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s?__biz=MzAxMDM0MzQ4Mg==&mid=2451069730&idx=1&sn=592e99e47a6f35076368fa2be67f8bf9&chksm=8cbd3e77bbcab76145e305185ff670a82911e84c4a6f9e38e89f31d3b7409871dad466343eac&mpshare=1&scene=1&srcid=0530vDMpKorPghUPCI8mDEOh&sharer_shareinfo=37b994a41753f493468b088fd03e6023&sharer_shareinfo_first=37b994a41753f493468b088fd03e6023#rd)
+      + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
+      + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
     + git
       + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)
   + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)

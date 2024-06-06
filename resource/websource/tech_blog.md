@@ -98,6 +98,7 @@
     + [一文看懂什么是架构](https://mp.weixin.qq.com/s/IhZ3L5K7bWtHYpkqXN95fQ)
     + [采用微服务架构前，先问自己几个问题](https://mp.weixin.qq.com/s/Sr4R5KC3liTc24WSPLQPFA)
     + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
+    + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s?__biz=MzIwNzYwNTM5OQ==&mid=2247492426&idx=1&sn=64d79196bc75103cb48846dda17bfefe&chksm=970d78b2a07af1a4619702fe8e74b31dec3b313954e5fd6ccda62cd85118d93e19201ed45ca5&mpshare=1&scene=1&srcid=06067VTz65Wr2LU8yEK4oG9p&sharer_shareinfo=88c8e0455d96c7f1d12aec37998932b7&sharer_shareinfo_first=88c8e0455d96c7f1d12aec37998932b7&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
   + 流程管理
     + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
     + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
@@ -506,6 +507,10 @@
     + [阿里开源的 JetCache-Alibaba 缓存框架，来了解一下？](https://mp.weixin.qq.com/s/orP-qRG8SdtyNj4M1xaapw)
 # PYTHON
   + 语言相关
+    + 库
+      + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s?__biz=MzkxNzU2Nzg2NQ==&mid=2247486545&idx=1&sn=0036388e8fcec70785f4071d455b75a5&chksm=c064d2bfa601db19fed7bf5951564e72c629fc70932cac39372ce99154d8e7f9677d5dd852c8&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s?__biz=MzkxNzU2Nzg2NQ==&mid=2247486589&idx=1&sn=87c54dfb49f1824108480fd63a1764e1&chksm=c1bfec6bf6c8657d5795afb36723939dbaa2504fcd368efe680c1f667294d1f893278878e7d5&cur_album_id=3101281634991243270&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s?__biz=MzkxNzU2Nzg2NQ==&mid=2247486549&idx=1&sn=41399002a91f3acd9e43e09d259b9d03&chksm=c1bfec43f6c86555c4098fe0ba99918929581a11322e19b40b775f0b4ace78ae51bca400a9a5&cur_album_id=3101281634991243270&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
       + [Python 中两种网络编程方式：Socket 和 HTTP 协议](https://my.oschina.net/u/4526289/blog/11052841)
@@ -518,10 +523,14 @@
       + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
       + [详解 Python 中可视化数据分析工作流程](https://my.oschina.net/u/4526289/blog/11105722)
       + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
+      + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454482896&idx=1&sn=2c293051f2f06a27a792d5e47ee73ce8&chksm=fd9406d7cae38fc123c643d2cc859119615f07d552e7264559a94a0201a8a604660b07c46c85&cur_album_id=3264682888663629832&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
       + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454482899&idx=1&sn=2a17f913f10fde49af11a14c77bcecd6&chksm=fc39074294ce19d10a4034e8715cb989d7802f0f2f231f90b21c74255546ce8904c6c8e973c2&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [Python中10个节省时间的代码片段](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454482760&idx=1&sn=2921f2ed2a47c22de722b16a5c9a5ced&chksm=fcd335a93badd1ef38c88565718ad507e7ad9aaaa1869cd82c33c7ea2855982ce2848a0b9388&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
       + [Python代码文件不只是“.py”](https://mp.weixin.qq.com/s/zISAv_jVF5r0zWzZ-d65vw)
+      + [10个python经典程序](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486060&idx=1&sn=d3bbb834a4f8bbff7a7b54385d3c730d&chksm=ffa7589b9bb150405a091e9d709c797719792442f15a6c020d2050671a926741f102cbb84fa9&scene=132&exptype=timeline_recommend_article_extendread_extendread_for_notrec&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
       + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s?__biz=MzI1NjA0MTA2NA==&mid=2454483120&idx=1&sn=b6c6503c604dda810367a56dce22ce2f&chksm=fcf5decff18eca270323e7008cb1deb71b1374d07ef96a8091f0609d63277c4ae71f4f497566&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
       + [10个常用的python lambda函数](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486173&idx=1&sn=9a376d08998c96ca685413cc8d380fb2&chksm=ff7bf3ba13f381f74769c5cbf8fc290b4375446a882a5ae163ef3a470c6d01e78aabe2d6cde4&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
+      + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s?__biz=MzU3MzY4MTM4OA==&mid=2247485301&idx=1&sn=286fc78840731293eaa684d99677036d&chksm=fcdfec0240cac80687c28f087c0f13669d9b2d9e07a8edd2c0bbeca88ec3d8b8517de29b5cb9&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
       + [10个python经典的装饰器](https://mp.weixin.qq.com/s?__biz=MzU5MDY3ODg1NQ==&mid=2247486153&idx=1&sn=1a221e1c2697981c3b51af897e7cdc94&chksm=ffd30e96830227875b6fd643f8e8bd8df066ff04760f73aa8d6ab2bcd29497fe849964f66174&scene=132&exptype=timeline_recommend_article_extendread_samebiz&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
     + Django
       + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
@@ -602,6 +611,7 @@
       + [如何确定应用的最佳数据库连接数？](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247488282&idx=1&sn=40a49ab2a347edadbaa8d17a0ec79bdb&chksm=fafdf9b4cd8a70a2d2a1be071c896c151820583d195592dc6924fd2f70893639a1e2f2d4e509&mpshare=1&scene=1&srcid=0606R9xCklBi5VlwlWe7fs2v&sharer_shareinfo=21a00361c62c1a1f73856b9f85a69f78&sharer_shareinfo_first=21a00361c62c1a1f73856b9f85a69f78&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
     + 本地数据库
       + 技术方案
+        + [NoSQL爆炸时代，数据库的分类及使用场景怎样总结？](https://mp.weixin.qq.com/s?__biz=MzUzNjAxODg4MQ==&mid=2247487954&idx=1&sn=934b8be91afadd6486344a2b0c33ccf3&chksm=fafdfb7ccd8a726a918bdcc11e3d36d2764161aea19ef848444a2ace1a7341d86002c1d34e84&cur_album_id=2146035450241695745&scene=189&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
         + [从 MongoDB 到 PostgreSQL 的大迁移](https://my.oschina.net/u/6148470/blog/11050282)
         + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://my.oschina.net/u/4455409/blog/11049166)
         + [OLAP 进阶之 “性能提升”](https://my.oschina.net/u/5588928/blog/11051631)
@@ -770,6 +780,7 @@
       + [效率拉满，开发了一款可直接编辑 jar 包的 IDEA 插件](https://mp.weixin.qq.com/s/TjnBoXlZzrPkRW0aUoz_Gg)
       + [一款 IDEA Mybatis插件：极大提升 CRUD 效率，堪称神器！](https://mp.weixin.qq.com/s/SYZOa1Ay-dyiuy-jmrbJiA)
     + 网络
+      + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s?__biz=Mzg2NTg1NTQ2NQ==&mid=2247503921&idx=1&sn=f6a967e651f9533b50224d3bd8cd2b2f&chksm=cf8db65edb764d101e4bf649b0acb40aa2db748917a3ceee36dc2f6c16c567739d2aa9447da0&scene=132&exptype=timeline_recommend_article_extendread_extendread_interest&show_related_article=1&subscene=189&scene=132&from=industrynews&version=4.1.26.6018&platform=win&nwr_flag=1#wechat_redirect)
       + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s?__biz=MzAxMDM0MzQ4Mg==&mid=2451069730&idx=1&sn=592e99e47a6f35076368fa2be67f8bf9&chksm=8cbd3e77bbcab76145e305185ff670a82911e84c4a6f9e38e89f31d3b7409871dad466343eac&mpshare=1&scene=1&srcid=0530vDMpKorPghUPCI8mDEOh&sharer_shareinfo=37b994a41753f493468b088fd03e6023&sharer_shareinfo_first=37b994a41753f493468b088fd03e6023#rd)
     + git
       + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)

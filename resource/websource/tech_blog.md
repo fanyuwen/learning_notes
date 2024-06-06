@@ -360,6 +360,7 @@
           + [史上最全，全方位阐述 SpringBoot 中的日志是怎么工作（珍藏版）](https://mp.weixin.qq.com/s/kTCWxJ9ONNdE3_F21_O-sg)
           + [SpringBoot怎么设计业务操作日志功能？](https://mp.weixin.qq.com/s/wXMF5oCmXa2MnIXZQMvoPg)
           + [Spring Boot 实现日志链路追踪，无需引入组件，让日志定位更方便！](https://mp.weixin.qq.com/s/OvRMYoQf_lJu4-UIaJ3rHw)
+          + [Spring Boot 源码分析 - 日志系统](https://blog.51cto.com/u_15668812/11064336)
         + 安全
           + [SpringBoot整合SpringSecurity权限控制（动态拦截url+单点登录）](https://mp.weixin.qq.com/s/B5RDHnpJ2MSEbyFM0u2Mnw)
           + [Spring Security实现后端接口权限验证](https://mp.weixin.qq.com/s/NvQmM-NjvrGVTNOHrb_oKA)

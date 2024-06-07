@@ -136,6 +136,7 @@
       + [写给开发人员的实用密码学（二）—— 哈希函数](https://thiscute.world/posts/practical-cryptography-basics-2-hash/?comefrom=https://blogread.cn/news/&continueFlag=2082d698470a8cd85657d83b45b7be6e&s_trans=2197476363_&s_channel=4)
       + [从零实现 AES 加密算法](https://sxyz.blog/aes-from-scratch/?comefrom=https://blogread.cn/news/&continueFlag=3cf82e8f2e450c433d50c8e046d93c32&s_trans=2197476363_&s_channel=4)
     + [整理Bitmap在项目中的实战](https://mp.weixin.qq.com/s/lZlpG-LSmajowRWM88gE7g)
+    + [从Bit位操作学封装](https://mp.weixin.qq.com/s/6aKNJVkNj-scoQuWfSrInA)
     + [手写 Java PriorityQueue 核心源码（上）](https://my.oschina.net/helloworldnet/blog/5124166)
     + [手写 Java PriorityQueue 核心源码 (下)](https://my.oschina.net/helloworldnet/blog/5124167)
     + [二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5125642)

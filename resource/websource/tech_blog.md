@@ -156,6 +156,7 @@
     + [手写 Java LinkedList 核心源码](https://my.oschina.net/helloworldnet/blog/5120099)
     + [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
     + [阿里面试：全国14亿个姓名，统计出重名最多的前100个](https://mp.weixin.qq.com/s/mzEuy3XqIja2aqgeT7mKGA)
+    + [腾讯面试：如何实现10亿数据判重？](https://mp.weixin.qq.com/s/wNSYs3z1WPSM49Yhix7Y7Q)
     + [40亿个QQ号，限制1G内存，如何去重？](https://mp.weixin.qq.com/s/8rCMWmlLOyzCCrfVoINrGg)
     + [这几道【哈希表】相关的算法题，面试写不出来就惨了！](https://mp.weixin.qq.com/s/ZAQw72Q3rfb3sF6UtrCFzA)
 # DEVOPS
@@ -571,6 +572,7 @@
       + [面试高频：了解零拷贝吗？Netty哪里用到了零拷贝？](https://mp.weixin.qq.com/s/LQakVp-9wCYsHDrTPKYFzA)
       + [京东二面：为什么Netty要创造FastThreadLocal？](https://mp.weixin.qq.com/s/-OSM8usP44i7Z_Tnu64lZQ)
       + [面试官：Netty 通信中的粘包、拆包，你能聊聊吗？](https://mp.weixin.qq.com/s/uNrq1EOl6frrX8fAg2-bHw)
+      + [滴滴面试：谈谈对Netty线程模型的理解？](https://mp.weixin.qq.com/s/9Zdv9aCpyPAoj24QgSzgRA)
       + [拜托！面试请不要再问我 Netty 底层架构原理！](https://mp.weixin.qq.com/s/Sldln-i580LJusQd_YW06w)
     + redisson
       + [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)

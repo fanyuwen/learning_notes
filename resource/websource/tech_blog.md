@@ -210,6 +210,7 @@
       + [面试官：Java中枚举和常量（如public static final变量）相比有哪些优势？](https://mp.weixin.qq.com/s/Tc7NN-LBXgvkkHL6PMKHNw)
     + 新特性
       + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
+      + [Lambda表达式：会这10招就够了，开发效率狂飙！](https://mp.weixin.qq.com/s/6pfxLJAr8C3JAixObwqrzA)
       + [300 秒快速了解 Java 9 - 16 新特性，助你脱离内卷](https://my.oschina.net/didispace/blog/5171573)
       + [Java 22 正式发布，一文了解全部新特性](https://my.oschina.net/didispace/blog/11048218)
       + [Java 21 虚拟线程如何限流控制吞吐量](https://my.oschina.net/didispace/blog/11044187)
@@ -452,6 +453,7 @@
         + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
         + [SpringBoot3第三方接口调用10种方式，最后一种你肯定没用过](https://mp.weixin.qq.com/s/jbq6rwG_LkQcMg7XD7BAgQ)
         + [Java 运行时：Spring Boot 角度的见解 | 技术解析](https://mp.weixin.qq.com/s/8xc7rhBXy5jva1rO4oMQHQ)
+        + [公司禁止在 SpringBoot 中使用 @Autowired 注解，为什么？](https://mp.weixin.qq.com/s/vyBTN67D-tX6NW_3nZfx1w)
         + [Spring Boot + GraphQL实现实时数据推送](https://mp.weixin.qq.com/s/2G4_75zu4u1OdwESHZJFsA)
         + [Spring Boot与Netty的完美结合：打造高性能网络通信](https://mp.weixin.qq.com/s/dsgj-s4SnsuxaM-byoNPSQ)
         + [请一定掌握SpringBoot这4个高级开发技巧](https://mp.weixin.qq.com/s/5XucOxyBuT-IvO8ioYnlxw)
@@ -830,6 +832,7 @@
         + [对线面试官-CHAR和VARCHAR了解嘛，区别是什么](https://mp.weixin.qq.com/s/Ria2o1FBVJwBbCh6ydUiZw)
         + [(二)全解MySQL：一条SQL语句从诞生至结束的多姿多彩历程！](https://mp.weixin.qq.com/s/Eph6ySVrAf02MgCiF8KAFw)
         + [MySQL调优实战：揭秘参数设置，解锁系统并发潜力](https://mp.weixin.qq.com/s/5sKFrtO1z6d6JaSR3xt-0Q)
+        + [去哪儿技术面：10亿数据如何最快速插入MySQL？](https://mp.weixin.qq.com/s/Zbtt1OmMx6Y4N8hgsozGfQ)
         + [日常Bug排查-MVCC和for update混用导致读数据不一致](https://mp.weixin.qq.com/s/gzRZqbX-6e7YG6dFnbT79g)
         + [InnoDB如何解决脏读、不可重复读和幻读的？](https://mp.weixin.qq.com/s/hL3CdhmaGT8bFe7Usk_1WA)
         + [整理Mysql优化方案](https://mp.weixin.qq.com/s/zJJPsfqyIaI3gwdsRgJ8RQ)
@@ -973,6 +976,8 @@
   + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
   + 文件系统
     + [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s/f81V8_XL4eC14sl_kXFQwQ)
+  + windows
+    + [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
   + linux
     + 实践
       + [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)
@@ -1005,6 +1010,7 @@
     + [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)
     + [socket缓冲区大小从哪里来](https://mp.weixin.qq.com/s/6GckWxohV8V5stNEqBh1tw)
     + [物联网中设备怎么和云端通信](https://mp.weixin.qq.com/s/VQhM8lo8GsKuP0QKprWD1A)
+    + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
   + 实践
     + [蚂蚁一面：浮点数在计算机中是如何存储的？](https://mp.weixin.qq.com/s/5S_D3bt-CqXcNUurZVQ9Sw)
     + [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s/jjhO3YQcAAIc7Su49Todjg)
@@ -1029,6 +1035,8 @@
     + [2个阅读源码的小技巧](https://mp.weixin.qq.com/s/kJCCEZJgHXKP5JMbMZxqsQ)
   + 工具
     + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
+    + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
+    + [Cloudflare 正式开源Nginx替代品：Pingora](https://mp.weixin.qq.com/s/nHYjbsQa3GQt1EFN0SCajw)
     + [为什么很多人电脑桌面上软件图标寥寥无几甚至空空荡荡?请问怎么做到的?](https://mp.weixin.qq.com/s/Ncy87p3XYF5MrHYHmf0OhA)
     + [6 款 工具，轻松分析定位 JVM 问题！](https://mp.weixin.qq.com/s/eARjT7kouf6N0rfJUOF8pA)
     + [Maven官宣：干掉Maven和Gradle！推出更强更快更牛逼的新一代构建工具，炸裂！](https://mp.weixin.qq.com/s/6L09kf4d0ROQxnCS_Zkt6w)

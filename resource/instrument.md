@@ -85,10 +85,11 @@
 + 开源代码编辑器 [zed](https://zed.dev)
 + github热点速递 [helloGitHub](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA5MzYyNzQ0MQ==&action=getalbum&album_id=1332112026222641153&scene=173&subscene=&sessionid=undefined&enterid=0&from_msgid=2247517230&from_itemidx=1&count=3&nolastread=1&scene=21#wechat_redirect)
 + 基础设施应用平台 [nix](https://nixos.org) [walrus](https://www.seal.io) [opentofu](https://opentofu.org) [terraform](https://www.terraform.io)
++ 配置文件格式 [toml](https://toml.io/)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)
-+ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org) [nim](https://nim-lang.org/) [elixir](https://elixir-lang.org/) [elm](https://elm-lang.org/) [julia](https://julialang.org/)
++ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org) [nim](https://nim-lang.org/) [elixir](https://elixir-lang.org/) [elm](https://elm-lang.org/) [julia](https://julialang.org/) [zig](https://ziglang.org/)
 + javascript语言超集 [typescript](https://www.typescriptlang.org/)
 
 ### OTHER_LANGUAGE_FRAMEWORK

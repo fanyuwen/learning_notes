@@ -718,3 +718,7 @@
     + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
   + 创业
     + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)
+  + 值得关注的github仓库
+    + [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+    + [agrona](https://github.com/real-logic/agrona)
+    + [97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)

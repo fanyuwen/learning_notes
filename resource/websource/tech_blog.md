@@ -497,6 +497,7 @@
         + [SpringBoot启动过程中碰到的堆、栈溢出](https://mp.weixin.qq.com/s/6mhCnavB1QWrYZgSQU_Ewg)
         + [Spring Boot结合Netty，WebSocket消息推送轻松搞定](https://mp.weixin.qq.com/s/IyPakVYCeiFo8G4Kg5t2Jg)
         + [SpringBoot + Apache tika 轻松实现各种文档内容解析](https://mp.weixin.qq.com/s/3WFNLysftgYoyYcE42CzrQ)
+        + [SpringBoot+Screw轻松生成数据库设计文档](https://mp.weixin.qq.com/s/Kk9uwqFAuWQELEeglwdxGA)
         + [Spring Boot 应用的新命令行界面：Just](https://mp.weixin.qq.com/s/jjSAEQZwv5GxXI41YKPgaA)
         + [Spring Boot 最核心的 25 个注解，都是干货！](https://mp.weixin.qq.com/s/lOA9djEptJyZ2sm93nxr-Q)
         + [SpringBoot项目多层级多环境yml设计](https://mp.weixin.qq.com/s/xGLh_iaLMgLa-YOROwUg2w)
@@ -515,6 +516,7 @@
         + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
       + web
         + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
+        + [掌握Spring MVC中自定义注解的妙用，为你的代码增添整洁与优雅。](https://mp.weixin.qq.com/s/SKFlRssK8YkXLegJlkkgNQ)
         + [Controller层代码就该这么写，简洁又优雅！](https://mp.weixin.qq.com/s/SPiEWGFH4BgFl1kffWBS4A)
         + [Controller层代码编写指南](https://mp.weixin.qq.com/s/SNdrUId55rYUYPKdcpV44g)
         + [SpringMVC接口定义RequestMapping这些细节你用过吗？](https://mp.weixin.qq.com/s/NCrICtZWhV_7fVHmpSff5A)
@@ -1033,6 +1035,7 @@
     + [这几行代码，真的骚！](https://mp.weixin.qq.com/s/VL8ZKwoH3Witru0Ff0eq6g)
     + [掌握这些代码安全检视方法，提升你的代码质量](https://my.oschina.net/u/4526289/blog/11194193)
     + [2个阅读源码的小技巧](https://mp.weixin.qq.com/s/kJCCEZJgHXKP5JMbMZxqsQ)
+    + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
   + 工具
     + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
     + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)

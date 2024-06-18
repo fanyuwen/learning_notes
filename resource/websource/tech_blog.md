@@ -6,6 +6,7 @@
     + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
   + 领域相关
     + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
+    + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
     + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
   + 职场感悟
     + [IT 行业从业 23 年和创业 14 年感悟](https://my.oschina.net/easysoft/blog/10315932)
@@ -13,6 +14,8 @@
     + [工程师如何从技术转型做管理？](https://mp.weixin.qq.com/s/G1k0f5W4Q8SDIqRKp6OYvQ)
     + [走进青年程序员：“码农”过了35岁还有价值吗？](https://mp.weixin.qq.com/s/32uqte2Buudpn-f9HkdSkg)
     + [一个小公司的技术开发心酸事（已倒闭）](https://mp.weixin.qq.com/s/meg_yVNGSyPI6hlFj8eKgw)
+    + [写更少的代码](https://my.oschina.net/justjavac/blog/68092)
+    + [好代码是廉价的代码](https://my.oschina.net/justjavac/blog/67777)
     + [裁员潮之下，你必须知道的8件事](https://mp.weixin.qq.com/s/2N5ClLppec-HSxkU7zm31A)
 # DEVELOP
   + 开发相关
@@ -40,7 +43,9 @@
       + [分布式链路追踪最全详解(图文全面总结)](https://mp.weixin.qq.com/s/YsYIZ3bEEd4h67NgBr0VFQ)
       + [几种分布式ID解决方案，总有一款适合你！](https://mp.weixin.qq.com/s/uV5agt4ybthD1dkTfPyV6w)
       + [整理10种分布式id生成方案](https://mp.weixin.qq.com/s/WZug18OOFMx_dfgT_4JxLQ)
+      + [浅谈分布式 ID 的实践与应用](https://my.oschina.net/u/2550800/blog/4892264)
       + [分布式系统最全详解(万字图文总结)](https://mp.weixin.qq.com/s/uovxX-p0jVeTqy2HGwtNRw)
+      + [从 ACID 到 CAP/BASE](https://my.oschina.net/OutOfMemory/blog/796248)
     + 分布式锁
       + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)
       + [面试官：如何实现一个合格的分布式锁？](https://mp.weixin.qq.com/s/eCx--VIq__JmZe1JsBNOag)
@@ -61,6 +66,7 @@
       + [分布式算法最全详解(4大主流算法图解)](https://mp.weixin.qq.com/s/986dumOR90RRJ4kkCLx0kg)
       + [4大主流分布式算法介绍（图文并茂、算法拆解）](https://mp.weixin.qq.com/s/y9-nFSgx0YiaY3S7PqUMSA)
       + [分布式系统绕不开的话题：分布式一致性算法](https://mp.weixin.qq.com/s/k48-d51nAD68KA9L_5EhnA)
+      + [Raft 算法浅析](https://my.oschina.net/OutOfMemory/blog/820189)
       + [深入理解一致性Hash和虚拟节点](https://mp.weixin.qq.com/s/FkO6oNInmHA_IzysZcMVkg)
       + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
   + 功能相关
@@ -88,6 +94,7 @@
     + [B 站千万级长连接实时消息系统的架构设计与实践](https://my.oschina.net/jb2011/blog/11139830)
     + [揭秘支付对账：确保每一分钱的安全之旅](https://mp.weixin.qq.com/s/m3Ev0zm56_qz_K1HUikagQ)
     + [几种优雅实现在线人数统计的方案](https://mp.weixin.qq.com/s/Hn-wdycTvW6TTpy25qrLjg)
+    + [高并发 IM 系统架构优化实践](https://my.oschina.net/u/2550800/blog/1837393)
     + [聊聊 SaaS 多租户系统数据隔离实现方案](https://mp.weixin.qq.com/s/vTLn4A71HE4NZNtuEN0GVQ)
     + [高性能负载均衡：分类及架构](https://mp.weixin.qq.com/s/nFKh2TRsvRf5avBchTONTg)
     + [负载均衡技术：支撑高并发应用的基石](https://mp.weixin.qq.com/s/flEm--2jqsGvcfMlJxnObw)
@@ -216,6 +223,11 @@
       + [如何找到真正的 public 方法](https://mp.weixin.qq.com/s/AaJMxfg9cXY4Iz08o2jocg)
       + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
       + [面试官：Java中枚举和常量（如public static final变量）相比有哪些优势？](https://mp.weixin.qq.com/s/Tc7NN-LBXgvkkHL6PMKHNw)
+      + [Java 字符集和编码](https://my.oschina.net/OutOfMemory/blog/95451)
+      + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
+      + [调用构造器的处理步骤](https://my.oschina.net/OutOfMemory/blog/298956)
+      + [Java 原码，反码和补码](https://my.oschina.net/OutOfMemory/blog/109180)
+      + [java 中 equals 和 == 的区别](https://my.oschina.net/justjavac/blog/72973)
     + 新特性
       + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
       + [Lambda表达式：会这10招就够了，开发效率狂飙！](https://mp.weixin.qq.com/s/6pfxLJAr8C3JAixObwqrzA)
@@ -236,6 +248,8 @@
       + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
     + 高级用法
       + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
+      + [Java 中的 script 引擎在游戏中的使用](https://my.oschina.net/OutOfMemory/blog/527483)
+      + [for 循环为何可恨？](https://my.oschina.net/justjavac/blog/66625)
     + 代码质量
       + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
       + [为什么更推荐使用组合而非继承关系？](https://mp.weixin.qq.com/s/nUR8wsKHUy22_fSrZpgJyg)
@@ -262,6 +276,7 @@
       + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
       + [面试官：你说说Thread.sleep(0)的含义](https://mp.weixin.qq.com/s/9s7MwSG-kdTrFwwfPZlzlg)
       + [美团面试：如何实现线程任务编排？](https://mp.weixin.qq.com/s/-VSQkRqNKmHHMkXdLWR1dQ)
+      + [CountDownLatch 和 CyclicBarrier 的区别](https://my.oschina.net/OutOfMemory/blog/157130)
       + [如何直接修改线上jar包里面的文件](https://mp.weixin.qq.com/s/_PmdP-oG2-ffCZnCEQrxbw)
       + [内存泄漏不可怕，怕的是你不知道](https://mp.weixin.qq.com/s/Ptd38g3Zk-IpzNfJFxvITg)
       + [公司新来一个同事，把 BigDecimal 运用的炉火纯青！](https://mp.weixin.qq.com/s/xV8aHMJ9CKgXbxZGdWfAgg)
@@ -646,6 +661,7 @@
       + [如此狂妄，自称高性能队列的 Disruptor 有啥来头？](https://my.oschina.net/jiagoushi/blog/5578896)
       + [Disruptor 测试结果运算 1 亿次，耗时 5503ms，吞吐量 18171000/s](https://my.oschina.net/jiagoushi/blog/5579251)
       + [Disruptor 生产和消费模式详解及高级应用（并行模式）](https://my.oschina.net/jiagoushi/blog/5579551)
+      + [Disruptor 和 LinkedBlockingQueue 性能对比以及分析](https://my.oschina.net/OutOfMemory/blog/793275)
     + shiro
       + [再见了 shiro](https://mp.weixin.qq.com/s/fguzrNRL70kxAw6WXnVQrw)
     + netty
@@ -661,6 +677,8 @@
       + [(十)Netty进阶篇：漫谈网络粘包、半包问题、解码器与长连接、心跳机制实战](https://mp.weixin.qq.com/s/BK14ryGrHiNMiMDVC-7s-Q)
       + [Netty 基于 protobuf 协议的编解码](https://my.oschina.net/OutOfMemory/blog/294505)
       + [Netty 的 ip 过滤](https://my.oschina.net/OutOfMemory/blog/364446)
+      + [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
+      + [Netty 通过 MBean 监控流量](https://my.oschina.net/OutOfMemory/blog/790781)
     + redisson
       + [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)
       + [分布式锁工具Redisson，太香了！！](https://mp.weixin.qq.com/s/o0NpBgVAPEiwQefwisqFAw)
@@ -715,6 +733,7 @@
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
       + [一文带你搞清楚 Python 的多线程和多进程](https://my.oschina.net/u/4526289/blog/11208897)
+      + [Python 编码时应该注意的几件事情](https://my.oschina.net/justjavac/blog/69309)
       + [Python 中两种网络编程方式：Socket 和 HTTP 协议](https://my.oschina.net/u/4526289/blog/11052841)
       + [Python 中 2 种常用数据可视化库：Bokeh 和 Altair](https://my.oschina.net/u/4526289/blog/11053061)
       + [如何使用 Plotly 和 Dash 进行数据可视化](https://my.oschina.net/u/4526289/blog/11052597)
@@ -750,6 +769,13 @@
     + 实践
       + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
       + [13个Javascript 技巧和最佳实践](https://mp.weixin.qq.com/s/FSwW68Ctt2LPUx8D__IjXg)
+      + [写了 10 年 Javascript 未必全了解的连续赋值运算](https://my.oschina.net/justjavac/blog/66631)
+      + [细数 javascript 容易被忽略的语法陷阱](https://my.oschina.net/justjavac/blog/68489)
+      + [javascript 进阶](https://my.oschina.net/justjavac/blog/68490)
+      + [javascript 不可用的问题探究](https://my.oschina.net/justjavac/blog/69810)
+      + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
+      + [开发者最容易犯的 13 个 JavaScript 错误](https://my.oschina.net/justjavac/blog/66632)
+      + [JavaScript，只有你想不到](https://my.oschina.net/justjavac/blog/66618)
   + 框架
     + vue
       + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
@@ -762,6 +788,8 @@
     + [实践总结｜前端架构设计的一点考究](https://my.oschina.net/u/4662964/blog/11051025)
   + 杂谈
     + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
+    + [常用的 HTML5 移动应用开发框架比较](https://my.oschina.net/justjavac/blog/68936)
+    + [28 个你必须知道的 HTML5 的新特性，技巧以及技术](https://my.oschina.net/justjavac/blog/68140)
 # RUST
   + 技术相关
     + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
@@ -868,6 +896,7 @@
         + [详解 MySQL 的 binlog 时间戳与 exec_time 的关系](https://my.oschina.net/actiontechoss/blog/11112538)
         + [MySQL 隐式转换必知必会](https://my.oschina.net/actiontechoss/blog/11183928)
         + [MySQL 给用户添加 ALTER VIEW 的权限](https://my.oschina.net/u/4526289/blog/11123189)
+        + [Mysql 的过程和函数 (记录)](https://my.oschina.net/OutOfMemory/blog/155466)
         + [MySQL 模糊查询再也不用like+%了](https://mp.weixin.qq.com/s/RbdKpm0pFG5D290_4XS0HA)
         + [聊聊 MySQL 是如何处理排序的](https://my.oschina.net/u/4526289/blog/11138574)
         + [告别内存 OOM，解决 MySQL 内存增长问题](https://my.oschina.net/u/4526289/blog/11205449)
@@ -956,7 +985,9 @@
         + [Redis Streams的消费者组模式讲解](https://mp.weixin.qq.com/s/Vah-uSfNU7DxDMNajKHzJw)
         + [Redis多级缓存指南：从前端到后端全方位优化！](https://mp.weixin.qq.com/s/9Hbe9vLnMTXc7hxVpFMqLA)
         + [如何用 Redis 统计海量 UV？](https://mp.weixin.qq.com/s/XSeu-3PV329O-hsTW8Xvrw)
+        + [Redis 存储对象](https://my.oschina.net/OutOfMemory/blog/727422)
         + [阿里二面，Redis宕机了，咋办？](https://mp.weixin.qq.com/s/keQhWrIgmLftkZOuQjDZ3Q)
+        + [五个 Redis 使用者需要注意的地方](https://my.oschina.net/justjavac/blog/66820)
         + [惊了！这些Redis使用技巧可以极大节省内存空间](https://mp.weixin.qq.com/s/K44Tkn2-yi9QaTRbOzx1IQ)
         + [Redis经典问题：数据不一致](https://mp.weixin.qq.com/s/xw-Fl0SIBgSuV0hgw6uAQQ)
         + [Redis 高可用 Sentinel 详解](https://mp.weixin.qq.com/s/JLg28XVxmT10I0djfyyGUg)
@@ -1036,6 +1067,7 @@
       + [Prometheus 架构指南](https://mp.weixin.qq.com/s/-C4zIm1baXsUVWtgI-oz2Q)
       + [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
       + [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
+      + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
       + [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
 # 操作系统相关
   + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
@@ -1048,6 +1080,7 @@
       + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
       + [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)
       + [Linux Shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/OPK8BYNJSOAYPPxGMOn2wQ)
+      + [Bash 入门教程](https://my.oschina.net/OutOfMemory/blog/296588)
       + [Linux 中文件的隐藏属性与特殊权限](https://sxyz.blog/linux-chattr/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
       + [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s/bLnaDOA0yindJQWUiRzSgw)
       + [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
@@ -1070,6 +1103,7 @@
     + [从RPC到HTTP：网络通信协议的演变](https://mp.weixin.qq.com/s/GIVQ8nyHXTeMqghYrc18Pg)
     + [什么是四层负载均衡跟七层负载均衡？](https://mp.weixin.qq.com/s/YX9v_v6Gfm-Di3Jz77SCnQ)
     + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
+    + [TCP/IP，http，socket，长连接，短连接](https://my.oschina.net/OutOfMemory/blog/95803)
   + web
     + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
     + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)
@@ -1102,6 +1136,8 @@
     + [掌握这些代码安全检视方法，提升你的代码质量](https://my.oschina.net/u/4526289/blog/11194193)
     + [2个阅读源码的小技巧](https://mp.weixin.qq.com/s/kJCCEZJgHXKP5JMbMZxqsQ)
     + [一名合格的程序员需要掌握哪些技能](https://my.oschina.net/justjavac/blog/67337)
+    + [程序员究竟该如何提高效率](https://my.oschina.net/justjavac/blog/67784)
+    + [十步让你成为一名优秀的 Web 开发人员](https://my.oschina.net/justjavac/blog/66772)
     + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
   + 工具
     + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)

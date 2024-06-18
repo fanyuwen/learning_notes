@@ -547,6 +547,7 @@
         + [这是我见过写得最烂的Controller层代码，没有之一！](https://mp.weixin.qq.com/s/OgWIwtEq1rfDudivopEfQw)
       + concurrent
         + [Spring框架中的线程池](https://mp.weixin.qq.com/s/FCeSlVNImbxKU6Be_YJA1A)
+        + [浅析 Spring 中 Async 注解底层异步线程池原理](https://my.oschina.net/u/5783135/blog/11209054)
       + security
         + [一文让你彻底搞定Spring Security的基本使用](https://mp.weixin.qq.com/s/CGGmSWu--yNXXB-wQyUu_Q)
         + [HttpSecurity 是如何组装过滤器链的](https://my.oschina.net/lenve/blog/11198493)

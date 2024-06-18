@@ -234,6 +234,8 @@
       + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
       + [用了Stream，代码丑爆了！姿势不对，别喷！](https://mp.weixin.qq.com/s/0XDSSa95VXp7Fy4lrQSJqA)
       + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
+    + 高级用法
+      + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
     + 代码质量
       + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
       + [为什么更推荐使用组合而非继承关系？](https://mp.weixin.qq.com/s/nUR8wsKHUy22_fSrZpgJyg)
@@ -304,6 +306,7 @@
       + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
       + [主线程捕获子线程异常](https://mp.weixin.qq.com/s/iHWoNPd7cph4VnM__umUCA)
       + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
+      + [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
       + [面试官：什么是生产者-消费者模式？如何实现？](https://mp.weixin.qq.com/s/Y05KEjcX1XwSYYUo3eBRdQ)
     + 源码
       + [面试题：ArrayList底层扩容七连问，不知道我顶不顶得住！](https://mp.weixin.qq.com/s/GsBlOoVsNkcbYp2wEH0Tbw)
@@ -656,11 +659,15 @@
       + [面试官：说说Netty对象池的实现原理？](https://mp.weixin.qq.com/s/V_zhK5iFlkuoeHp3F1iDTQ)
       + [拜托！面试请不要再问我 Netty 底层架构原理！](https://mp.weixin.qq.com/s/Sldln-i580LJusQd_YW06w)
       + [(十)Netty进阶篇：漫谈网络粘包、半包问题、解码器与长连接、心跳机制实战](https://mp.weixin.qq.com/s/BK14ryGrHiNMiMDVC-7s-Q)
+      + [Netty 基于 protobuf 协议的编解码](https://my.oschina.net/OutOfMemory/blog/294505)
+      + [Netty 的 ip 过滤](https://my.oschina.net/OutOfMemory/blog/364446)
     + redisson
       + [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)
       + [分布式锁工具Redisson，太香了！！](https://mp.weixin.qq.com/s/o0NpBgVAPEiwQefwisqFAw)
       + [分布式锁工具 Redisson，贼香！！](https://mp.weixin.qq.com/s/RaxP9HDssFItvtlArRSdQg)
       + [玩转Redis！非常强大的Redisson分布式集合，少写60%代码](https://mp.weixin.qq.com/s/rwMlS-ktAHrP3ShlOZPgkA)
+    + rxjava
+      + [异步编程 RxJava - 介绍](https://my.oschina.net/OutOfMemory/blog/810511)
     + caffeine
       + [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
     + 消息队列
@@ -861,6 +868,7 @@
         + [详解 MySQL 的 binlog 时间戳与 exec_time 的关系](https://my.oschina.net/actiontechoss/blog/11112538)
         + [MySQL 隐式转换必知必会](https://my.oschina.net/actiontechoss/blog/11183928)
         + [MySQL 给用户添加 ALTER VIEW 的权限](https://my.oschina.net/u/4526289/blog/11123189)
+        + [MySQL 模糊查询再也不用like+%了](https://mp.weixin.qq.com/s/RbdKpm0pFG5D290_4XS0HA)
         + [聊聊 MySQL 是如何处理排序的](https://my.oschina.net/u/4526289/blog/11138574)
         + [告别内存 OOM，解决 MySQL 内存增长问题](https://my.oschina.net/u/4526289/blog/11205449)
         + [MySQL 核心模块揭秘 | 18 期 | 锁在内存里长什么样 *](https://my.oschina.net/actiontechoss/blog/11198556)
@@ -1093,6 +1101,7 @@
     + [这几行代码，真的骚！](https://mp.weixin.qq.com/s/VL8ZKwoH3Witru0Ff0eq6g)
     + [掌握这些代码安全检视方法，提升你的代码质量](https://my.oschina.net/u/4526289/blog/11194193)
     + [2个阅读源码的小技巧](https://mp.weixin.qq.com/s/kJCCEZJgHXKP5JMbMZxqsQ)
+    + [一名合格的程序员需要掌握哪些技能](https://my.oschina.net/justjavac/blog/67337)
     + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
   + 工具
     + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)

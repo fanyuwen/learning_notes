@@ -85,6 +85,7 @@
       + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
     + [电商设计订单超时未支付关闭的方案整理](https://mp.weixin.qq.com/s/PhiGAQXJe-c60GHKypgIyw)
     + [面试官：订单30分钟未支付自动取消用什么实现方案？如何使用Redis实现延迟队列？](https://mp.weixin.qq.com/s/bey1XVEqf8cy1Uqxqt4gCw)
+    + [B 站千万级长连接实时消息系统的架构设计与实践](https://my.oschina.net/jb2011/blog/11139830)
     + [揭秘支付对账：确保每一分钱的安全之旅](https://mp.weixin.qq.com/s/m3Ev0zm56_qz_K1HUikagQ)
     + [几种优雅实现在线人数统计的方案](https://mp.weixin.qq.com/s/Hn-wdycTvW6TTpy25qrLjg)
     + [聊聊 SaaS 多租户系统数据隔离实现方案](https://mp.weixin.qq.com/s/vTLn4A71HE4NZNtuEN0GVQ)
@@ -410,6 +411,7 @@
           + [SpringBoot通过编程式事务提高系统性能](https://mp.weixin.qq.com/s/nEQ5wqrEwcsswxf3VTHWAA)
           + [Spring Boot 配置多数据源通用技术方案](https://mp.weixin.qq.com/s/skkFvAyuHdQI9E15wuLyRQ)
           + [Spring Boot + Redis实现实时数据更新的发布订阅功能](https://mp.weixin.qq.com/s/Ffm1yKcpARUeiOUh-ZmGOQ)
+          + [详解 Spring Boot 的 RedisAutoConfiguration 配置](https://my.oschina.net/u/4526289/blog/11209334)
           + [Spring Boot 整合 Redis：入门篇](https://mp.weixin.qq.com/s/QLR91bJstp-mNWsXhmCT7g)
         + 多线程
           + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
@@ -745,6 +747,8 @@
     + vue
       + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
   + 工具
+    + node
+      + [一文了解 npm install -g 和 npm install --save-dev 的关系](https://my.oschina.net/u/4526289/blog/11183599)
     + vite
       + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
   + 架构相关

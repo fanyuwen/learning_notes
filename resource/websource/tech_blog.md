@@ -278,6 +278,7 @@
   + 底层
     + 原理解析
       + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
+      + [面试官：fail-fast 机制了解吗？你这样使用集合不会有问题吗？。。](https://mp.weixin.qq.com/s/gL0Q6HznvCmGk1IrM7c7pA)
       + [你简历写到了线程池，那么线程池监控你是怎么做的？](https://mp.weixin.qq.com/s/Xs5yrEz2qB84N6Tetn2EAw)
       + [面试官：你说说Thread.sleep(0)的含义](https://mp.weixin.qq.com/s/9s7MwSG-kdTrFwwfPZlzlg)
       + [美团面试：如何实现线程任务编排？](https://mp.weixin.qq.com/s/-VSQkRqNKmHHMkXdLWR1dQ)
@@ -945,6 +946,7 @@
         + [当前读和快照读有什么区别？](https://mp.weixin.qq.com/s/N6s2LCpwKxfPN4P5-TbZhA)
         + [MySQL集群最全详解(图文全面总结)](https://mp.weixin.qq.com/s/HXJVzyZADGsHwfDSde1KsQ)
         + [MySQL分区技术深入解析(万字长文)](https://mp.weixin.qq.com/s/JHhIy4mxY-7ndTTWTmNsAQ)
+        + [面试官：MySQL 单表为什么不要超过 2000W 行？。。](https://mp.weixin.qq.com/s/QMH21oyOaFg4BAMn9w_4og)
         + [一文详解MySQL调优流程，吐血整理](https://mp.weixin.qq.com/s/8Qb2zz2YsKALyjxHQ3D9zQ)
         + [老板问：MySQL的自增 ID 用完了，怎么办？我感觉能用几千年！！！](https://mp.weixin.qq.com/s/QxP-wh_KKtPuerbn9t0NCQ)
         + [MySQL的InnoDB存储引擎支持哪几种行格式？](https://mp.weixin.qq.com/s/4hXi3WHj02d8Y8FVGalIrg)

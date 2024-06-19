@@ -118,6 +118,7 @@
 
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
++ orm框架 [sqlalchemy](https://www.sqlalchemy.org/)
 + http处理库 [requests](https://requests.readthedocs.io/)
 + 绘图库(绘制二维图表和图形) [matplotlib](https://matplotlib.org/)
 + html/xml处理库(爬虫) [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) [scrapy](https://scrapy.org/)

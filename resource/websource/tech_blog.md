@@ -758,6 +758,8 @@
     + [一种新的流：为Java加入生成器(Generator)特性](https://mp.weixin.qq.com/s/v-HMKBWxtz1iakxFL09PDw)
     + [阿里开源的 JetCache-Alibaba 缓存框架，来了解一下？](https://mp.weixin.qq.com/s/orP-qRG8SdtyNj4M1xaapw)
     + [微服务面试还是问Spring Cloud Alibaba的比较多](https://mp.weixin.qq.com/s/3M2HUPjWVS0BitZ9-zGnGQ)
+# KOTLIN
+  + [AI 友好型编程语言：Kotlin 的故事 | 官方博客](https://mp.weixin.qq.com/s/-kUicmwmgE9XZWF45MG0dQ)
 # PYTHON
   + 语言相关
     + 库
@@ -1137,6 +1139,8 @@
       + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 # AI
   + [AI Agent ： 7大认知框架全解析与代码实现](https://mp.weixin.qq.com/s/37fXT3wPNRQMNtoXPx0ilg)
+  + [什么是提示词注入攻击？大语言模型为Web安全带来的新风险！](https://mp.weixin.qq.com/s/DoVGOJfiLUuWMdXnBPN3ng)
+  + [联创用ChatGPT写的一行代码让公司损失上万美元！网友：老板自己写的，找不到人背锅了](https://mp.weixin.qq.com/s/e2wuBjiz7Z5Rft6jl05shQ)
 # 计算机基础知识
   + 网络基础
     + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
@@ -1222,6 +1226,7 @@
     + git
       + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)
   + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
+  + [程序员界有哪些经典的笑话?](https://mp.weixin.qq.com/s/ageQFNcjKrtKlse0QFyL0w)
   + [程序员的归宿](https://www.oschina.net/news/291330)
   + [面试过程中哪些回答让人感觉是个水货？｜很多问题也很奇葩！！！](https://mp.weixin.qq.com/s/yHOnNotZ16Npz6qeYUvhpQ)
   + [打开电脑端微信文件夹，众人都沉默了...](https://mp.weixin.qq.com/s/hJc8-ht0_nLt1VO0hjMNpw)

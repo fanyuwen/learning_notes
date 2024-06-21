@@ -845,6 +845,7 @@
     + [解析 Golang 定时任务库 gron 设计和原理]https://mp.weixin.qq.com/s/bkvbST8x4cXLHDM545OabQ)
     + [[Golang] 泛型的使用](https://mp.weixin.qq.com/s/lwsOnblS0uUHI59L2PpufQ)
     + [Go 如何优雅实现业务并发？](https://mp.weixin.qq.com/s/0JS7XWcpRauj14xWGWopFw)
+    + [Go-Job 让你的任务调度不再繁琐](https://my.oschina.net/u/5783135/blog/11212449)
   + 面试题
     + [Golang 面试题解析](https://my.oschina.net/qiangmzsx/blog/1478739)
     + [Golang 面试题解析（二）](https://my.oschina.net/qiangmzsx/blog/1515173)

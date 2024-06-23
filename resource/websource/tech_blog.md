@@ -196,6 +196,8 @@
     + [使用责任链模式重写条件判断](https://mp.weixin.qq.com/s/LLYT4eskXh_r73mG8cVXAw)
     + [让代码更简洁、更优雅：经典设计模式责任链模式在实际工作中的应用与实现。](https://mp.weixin.qq.com/s/pqqiePMpeNb2vwcgR8sdJQ)
     + [优化代码结构-简单工厂模式](https://mp.weixin.qq.com/s/-fNf2kfFaiZ1924ppzyu3w)
+    + [优化代码结构-工厂方法](https://mp.weixin.qq.com/s/_UzTStAyxZzSg7bBxyBU7Q)
+    + [进阶玩法：策略+责任链+组合实现合同签章](https://mp.weixin.qq.com/s/0xyvnsxKYW6sV_5w0rMXNg)
   + 算法 & 数据结构
     + 密码学
       + [写给开发人员的实用密码学（二）—— 哈希函数](https://thiscute.world/posts/practical-cryptography-basics-2-hash/?comefrom=https://blogread.cn/news/&continueFlag=2082d698470a8cd85657d83b45b7be6e&s_trans=2197476363_&s_channel=4)
@@ -268,6 +270,7 @@
       + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
       + [用了Stream，代码丑爆了！姿势不对，别喷！](https://mp.weixin.qq.com/s/0XDSSa95VXp7Fy4lrQSJqA)
       + [用Stream代码丑爆了？那是姿势不对，别瞎喷](https://mp.weixin.qq.com/s/y6mp-IwWBZp2PwYZw-LJXQ)
+      + [null 不好，我推荐你使用 Optional](https://mp.weixin.qq.com/s/PkEpBt-CHgmCAQ-onUY1aw)
       + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
     + 高级用法
       + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
@@ -278,6 +281,7 @@
       + [深入理解JDK动态代理](https://mp.weixin.qq.com/s/gmV9JAj4lxrEJGfk6tWnWQ)
     + 代码质量
       + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
+      + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
       + [为什么更推荐使用组合而非继承关系？](https://mp.weixin.qq.com/s/nUR8wsKHUy22_fSrZpgJyg)
       + [争议不断的问题：金额到底是用Long还是BigDecimal？](https://mp.weixin.qq.com/s/Uy2dmOSOJjXnAMcFD6oeYg)
       + [BigDecimal的雷区，千万不要踩！](https://mp.weixin.qq.com/s/861Sk5i6DxOAqPi-UN9Dvg)
@@ -607,6 +611,7 @@
         + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
       + web
         + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
+        + [byte[]、MultipartFile、File转换一次看个够](https://mp.weixin.qq.com/s/1ljMONRsmKixi14O6lUPlA)
         + [掌握Spring MVC中自定义注解的妙用，为你的代码增添整洁与优雅。](https://mp.weixin.qq.com/s/SKFlRssK8YkXLegJlkkgNQ)
         + [Controller层代码就该这么写，简洁又优雅！](https://mp.weixin.qq.com/s/SPiEWGFH4BgFl1kffWBS4A)
         + [Controller层代码编写指南](https://mp.weixin.qq.com/s/SNdrUId55rYUYPKdcpV44g)
@@ -671,6 +676,7 @@
       + [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/SSsQs5Q9XESkbpBK7MD-AQ)
       + [面试官：为什么 Spring 和 IDEA 都不推荐使用 @Autowired 注解？？](https://mp.weixin.qq.com/s/3O4OVUfd5UgGjHLiovtGxA)
       + [Spring如何解决循环依赖](https://mp.weixin.qq.com/s/4_adcai_Yas3jW7Q9TUrYQ)
+      + [Spring 定时任务与 XXL-JOB 灵活切换方案](https://mp.weixin.qq.com/s/FckmkpilPagrRBzEl6fkMQ)
       + [谈谈 Spring 中 Bean 的生命周期？（让你瞬间通透~）](https://mp.weixin.qq.com/s/4AxBJFGM4Aj5FT3ZsDVA3w)
       + [一问三不知：你知道如何控制 Spring Bean 的加载顺序吗？](https://mp.weixin.qq.com/s/Zx6ppzzxLx0QCZYmanieNw)
       + [spring框架IOC和AOP源码解析](https://mp.weixin.qq.com/s/jbswKLT7RR8E1I-41NqXGQ)
@@ -712,6 +718,7 @@
       + [一文带你理解透 MyBatis 源码](https://my.oschina.net/u/4526289/blog/11203801)
       + [Mybatis 框架下 SQL 注入攻击的 3 种方式，真是防不胜防！](https://mp.weixin.qq.com/s/ApZ6yIZ5-FaVDN5LS_ti4A)
       + [用过超过3个算我输！Mybatis动态SQL全解析](https://mp.weixin.qq.com/s/CkHqYip6ABXNaU6eL2Emlg)
+      + [弃用 Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/LKvfTtG-RrqPm7P0qRta0w)
       + [MyBatis如何调用存储过程？](https://mp.weixin.qq.com/s/YPZV6DauPeYSj7eWSK5PLQ)
       + [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
     + disruptor
@@ -966,6 +973,7 @@
           + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
         + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
         + [MySQL 模糊查询再也不用like+%了](https://mp.weixin.qq.com/s/RbdKpm0pFG5D290_4XS0HA)
+        + [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/jhgm-qPMdAq5cv6vFI-dLw)
         + [(十一)MySQL日志篇之undo-log、redo-log、bin-log.....傻傻分不清！](https://mp.weixin.qq.com/s/ukjq5IYFdAQyP1dXvwDhLg)
         + [详解 MySQL 的 binlog 时间戳与 exec_time 的关系](https://my.oschina.net/actiontechoss/blog/11112538)
         + [(三)MySQL之库表设计篇：一、二、三、四、五范式、BC范式与反范式详解！](https://mp.weixin.qq.com/s/k-RGQiIsqPFB0t6KSn4R0Q)
@@ -1057,6 +1065,7 @@
         + [高并发和海量数据下的 9 个 Redis 经典案例剖析！](https://mp.weixin.qq.com/s/oMdmM8Lfc5EsswQ5GifEOg)
         + [卡片分享：Redis主从同步有哪三种？](https://mp.weixin.qq.com/s/EtaGmTIOUdL5PFUzMtEGNg)
         + [Redis之布隆过滤器与布谷鸟过滤器](https://mp.weixin.qq.com/s/H40e5fRmmsBH8ie5RZNeag)
+        + [详解Redis分布式锁，彻底解决接口幂等性问题。](https://mp.weixin.qq.com/s/14WKxHY0Z7ILfROJoahnSg)
         + [Redis分布式锁存在哪些问题，该如何解决？](https://mp.weixin.qq.com/s/Nmj0_6nOWwvScVZf82uMkg)
         + [一个Redis分布式锁的实现引发的思考](https://mp.weixin.qq.com/s/xZ4Q28xtRg4ikVgDFK0tHA)
         + [Redis分布式锁问题，这些你知道吗？](https://mp.weixin.qq.com/s/X9Pvn42v2YivHSe5Y3pJSg)
@@ -1129,6 +1138,7 @@
      + [Bookie 存储架构源码剖析｜得物技术](https://my.oschina.net/u/5783135/blog/11194314)
 + zookeeper
   + [基于Zookeeper实现分布式锁实践](https://mp.weixin.qq.com/s/GRZ115bme-XR9bWlCtJCfg)
+  + [全方位对比Zookeeper、Eureka、Nacos、Consul和Etcd](https://mp.weixin.qq.com/s/K7vNMlq65nr8BdIPNMKCrA)
 # CLOUD_NATIVE
   + 概念总结
     + 概念
@@ -1175,6 +1185,7 @@
       + [为什么Linux的top命令看到CPU有时候超过100%？](https://mp.weixin.qq.com/s/bDw_4w3ReU7bUXi8dgKAhg)
       + [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
       + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
+      + [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
       + [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
       + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 # AI
@@ -1253,9 +1264,12 @@
     + [Maven官宣：干掉Maven和Gradle！推出更强更快更牛逼的新一代构建工具，炸裂！](https://mp.weixin.qq.com/s/6L09kf4d0ROQxnCS_Zkt6w)
     + [再见Jenkins！一款更适合国人的自动化部署工具，贼带劲！！](https://mp.weixin.qq.com/s/mFwnGQaZAXLbweWie8FM_A)
     + [Arthas线上问题排查利器](https://mp.weixin.qq.com/s/9VzziIrDTmpJNjKfSaspaw)
+    + [实战！Arthas 定位接口的超时问题，直接起飞！](https://mp.weixin.qq.com/s/ZObxvlHAkzDmCzoGjAzHqA)
+    + [实战！Arthas 定位接口的超时问题，直接起飞！](https://mp.weixin.qq.com/s/TU_Tqu-gzoOhlF0e6vGH4A)
     + [小工具大用处！Sqids短ID生成神器！](https://mp.weixin.qq.com/s/0F_bAf6ZG8k2bbbUdjos1A)
     + [VS Code劲敌、Atom原作者主导、Rust编写的“最好”编辑器——Zed开始支持Linux](https://mp.weixin.qq.com/s/iqaSvQpq8SvQn5TkkKIYhQ)
     + [JetBrains IDE Services：简化 IDE 和 AI 工具的企业管理，提高开发者工作效率](https://mp.weixin.qq.com/s/_Fq7gSYnzeIgzVTFO7Xt3w)
+    + [瞬间让 VSCode 变清静「差生文具多系列」](https://mp.weixin.qq.com/s/AezZJwaIF1OlIOiyLZSOxA)
     + idea
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
       + [9个IntelliJ IDEA插件，彻底解放双手！](https://mp.weixin.qq.com/s/18VRuVT_yLmcK-jzioVZgA)

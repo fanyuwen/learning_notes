@@ -28,6 +28,7 @@
     + [字节面试：领域、子域、核心域、通用域和支撑域怎么划分？](https://mp.weixin.qq.com/s/hR6JM3d1TRkQ_CVF24Wo-g)
     + [写个简单的项目自动部署脚本](https://mp.weixin.qq.com/s/jjW2aIi_KUusQdc9uLnUGg)
     + [我在项目里用雪花算法搞了唯一ID生成，结果上线就引发了故障...](https://mp.weixin.qq.com/s/pPlD1Po6AEURluGuZrApcw)
+    + [RateLimiter 的底层实现是啥？](https://mp.weixin.qq.com/s/AD54eRFOyAndQKctRAnm8w)
     + [接口设计的18条军规](https://mp.weixin.qq.com/s/viJaTMM58e8s7QtNFMWdkA)
     + [谷歌开源内部代码评审规范](https://my.oschina.net/u/3727380/blog/4440075)
     + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
@@ -465,6 +466,7 @@
           + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
         + data
           + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
+          + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)
           + [Spring Boot实现多数据源快速入门](https://mp.weixin.qq.com/s/f7zgs2DjM6wKMLXNpSAstg)
           + [SpringBoot中使用Redis和Lua脚本实现延时队列](https://mp.weixin.qq.com/s/-oK42uZDVD4OIpg4cZlQZA)
           + [Spring Boot 整合 MongoDB：入门篇](https://mp.weixin.qq.com/s/FQBmKUISjVt3vpiXQLDcGg)
@@ -477,6 +479,7 @@
           + [SpringBoot 如何统计、监控 SQL运行情况？](https://mp.weixin.qq.com/s/BeiNklugfozG0Rn0JcR-aw)
         + 多线程
           + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
+          + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)
           + [SpringBoot中使用单例模式+ScheduledExecutorService实现异步多线程任务(若依源码学习)](https://mp.weixin.qq.com/s/9FSjctCr7cb37eFZy3pUGA)
           + [springboot整合线程池最佳实践，赶紧学起来！](https://mp.weixin.qq.com/s/vDqqE2PiNIsojgrQRb0QWA)
           + [Spring Boot的@Async注解有哪些坑需要避免](https://mp.weixin.qq.com/s/BQZBwCpuR5DLnJcgTJiP0g)
@@ -537,6 +540,7 @@
           + [Spring Boot 源码分析五：Spring Boot AutoConfiguration 自动配置机制](https://mp.weixin.qq.com/s/ElmExG_xmS3xEFRIJmz-7Q)
         + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
         + [Spring Cloud + Nacos + 负载均衡器实现全链路灰度发布实战](https://mp.weixin.qq.com/s/3kt6AuX1ARg99FRpjINTOw)
+        + [Spring Boot 性能太差？试试这几招！](https://mp.weixin.qq.com/s/Smd-aJ9cFsSiG-MEv7vkdw)
         + [SpringBoot3第三方接口调用10种方式，最后一种你肯定没用过](https://mp.weixin.qq.com/s/jbq6rwG_LkQcMg7XD7BAgQ)
         + [Spring Boot集成Timefold Solver实现课程表编排](https://mp.weixin.qq.com/s/m72CNVLZoxCYQD5f_6Kz8A)
         + [请牢记SpringBoot这7个强大的隐藏Bean](https://mp.weixin.qq.com/s/aK7lQXXKMZycnYwRieiZig)
@@ -773,6 +777,7 @@
       + [读懂HikariCP一百行代码，多线程就是个孙子！](https://mp.weixin.qq.com/s/4SAqAhPSLI6qkg-SkEuphg)
       + [百万级任务重试框架 Fast-Retry](https://mp.weixin.qq.com/s/aU2j3jAA2Eo8x3LGTN0PhA)
       + [分布式链路追踪：TraceIdFilter + MDC + Skywalking](https://mp.weixin.qq.com/s/WAztnbiZLwcez7trPWyyWA)
+      + [定时任务的五种创建方式！你知道几种？](https://mp.weixin.qq.com/s/h8U13CjycvI_1ZYrSVHKOQ)
       + [只会用 xxl-job？更强大的新一代分布式任务调度框架来了！](https://mp.weixin.qq.com/s/8xuhRm3bD9Zs9dfjNZ3hZg)
       + [ShardingSphere5.2.0按月分表，自动建表](https://mp.weixin.qq.com/s/lB-c7CDLyde5amQ5K6ILew)
       + [你还在用Sharding-JDBC 实现分片码](https://mp.weixin.qq.com/s/iTXFVAbv26uTqxW-vyOfHQ)
@@ -804,6 +809,7 @@
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
       + [Python OOP 中最常见的 20 种魔术方法](https://mp.weixin.qq.com/s/cFqkbqsGDc8M6rk7UWgebg)
+      + [Python处理文本的25个经典操作](https://mp.weixin.qq.com/s/YsPbZHd-g5oAkwVaFj57DA)
       + [一文带你搞清楚 Python 的多线程和多进程](https://my.oschina.net/u/4526289/blog/11208897)
       + [Python 编码时应该注意的几件事情](https://my.oschina.net/justjavac/blog/69309)
       + [Python 中两种网络编程方式：Socket 和 HTTP 协议](https://my.oschina.net/u/4526289/blog/11052841)
@@ -823,6 +829,7 @@
       + [10个python经典程序](https://mp.weixin.qq.com/s/RsTfjsQ3dyniwkRwRSeTCw)
       + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s/5SFBqLB7z85awLwaIxgwUg)
       + [10个常用的python lambda函数](https://mp.weixin.qq.com/s/TDeByt-MRHJE2QjtTod8og)
+      + [Python编程常用的36个经典案例](https://mp.weixin.qq.com/s/nSWMfNUNRsd8rDM-W-fCTA)
       + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s/Fod5IYBo7SuTjVUin_Qg6A)
       + [10个python经典的装饰器](https://mp.weixin.qq.com/s/Lb5AKGcOQMa7KmOpmN7MAg)
     + Django
@@ -1165,6 +1172,7 @@
       + [Prometheus 架构指南](https://mp.weixin.qq.com/s/-C4zIm1baXsUVWtgI-oz2Q)
       + [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
       + [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
+      + [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
       + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
       + [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
 # 操作系统相关
@@ -1176,6 +1184,7 @@
   + linux
     + 实践
       + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
+      + [提高工作效率的 7 个 Linux 命令和技巧,看完绝对有用](https://mp.weixin.qq.com/s/HRSkfDkmyZdFjqyNohkUMw)
       + [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)
       + [Linux Shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/OPK8BYNJSOAYPPxGMOn2wQ)
       + [Bash 入门教程](https://my.oschina.net/OutOfMemory/blog/296588)
@@ -1270,6 +1279,7 @@
     + [VS Code劲敌、Atom原作者主导、Rust编写的“最好”编辑器——Zed开始支持Linux](https://mp.weixin.qq.com/s/iqaSvQpq8SvQn5TkkKIYhQ)
     + [JetBrains IDE Services：简化 IDE 和 AI 工具的企业管理，提高开发者工作效率](https://mp.weixin.qq.com/s/_Fq7gSYnzeIgzVTFO7Xt3w)
     + [瞬间让 VSCode 变清静「差生文具多系列」](https://mp.weixin.qq.com/s/AezZJwaIF1OlIOiyLZSOxA)
+    + [一款高颜值的 MySQL 管理工具](https://mp.weixin.qq.com/s/eQQzZN2ssacfCAff7aI1DQ)
     + idea
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
       + [9个IntelliJ IDEA插件，彻底解放双手！](https://mp.weixin.qq.com/s/18VRuVT_yLmcK-jzioVZgA)

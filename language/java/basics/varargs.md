@@ -7,6 +7,19 @@
     
     void fun(Object... args){}
 ```
+**可变参数如果不传递参数的话,会以一个空数组接口,但是也可以直接传递一个null,这样可变参数接收的就是null**
+```java
+   //定义个可变参数函数
+   void fun(Object... args){
+        if(args == null){
+            System.out.println("varargs param is null");
+        }
+        System.out.println("varargs param.length is " + args.length);
+   }
+   //方法调用
+   fun();//不传递参数,则默认是一个空数组接收
+   fun(null);//传递一个null,实际可变参数就会是null
+```
 
 ### java方法重写和可变参数
 ```java

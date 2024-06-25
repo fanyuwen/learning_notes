@@ -199,6 +199,7 @@
     + [优化代码结构-简单工厂模式](https://mp.weixin.qq.com/s/-fNf2kfFaiZ1924ppzyu3w)
     + [优化代码结构-工厂方法](https://mp.weixin.qq.com/s/_UzTStAyxZzSg7bBxyBU7Q)
     + [进阶玩法：策略+责任链+组合实现合同签章](https://mp.weixin.qq.com/s/0xyvnsxKYW6sV_5w0rMXNg)
+    + [优化代码结构-策略模式(Strategy Pattern)](https://mp.weixin.qq.com/s/Uw2lMWMq_WcTagV_EpFQUg)
   + 算法 & 数据结构
     + 密码学
       + [写给开发人员的实用密码学（二）—— 哈希函数](https://thiscute.world/posts/practical-cryptography-basics-2-hash/?comefrom=https://blogread.cn/news/&continueFlag=2082d698470a8cd85657d83b45b7be6e&s_trans=2197476363_&s_channel=4)
@@ -283,6 +284,7 @@
     + 代码质量
       + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
       + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
+      + [你见过哪些目瞪口呆的 Java 代码技巧？](https://mp.weixin.qq.com/s/b7IhiafHpoH99uSe4uApcQ)
       + [为什么更推荐使用组合而非继承关系？](https://mp.weixin.qq.com/s/nUR8wsKHUy22_fSrZpgJyg)
       + [争议不断的问题：金额到底是用Long还是BigDecimal？](https://mp.weixin.qq.com/s/Uy2dmOSOJjXnAMcFD6oeYg)
       + [BigDecimal的雷区，千万不要踩！](https://mp.weixin.qq.com/s/861Sk5i6DxOAqPi-UN9Dvg)
@@ -539,6 +541,8 @@
         + 原理&源码
           + [Spring Boot 源码分析五：Spring Boot AutoConfiguration 自动配置机制](https://mp.weixin.qq.com/s/ElmExG_xmS3xEFRIJmz-7Q)
         + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
+        + [有一个 SpringBoot 的技能，我劝你们早点掌握](https://mp.weixin.qq.com/s/i2s0iGbp7sMZd0qaKv9ONA)
+        + [SpringBoot+Docker：高效容器化的最佳实践](https://mp.weixin.qq.com/s/bL76vRnlf0LqdhnITfefsw)
         + [Spring Cloud + Nacos + 负载均衡器实现全链路灰度发布实战](https://mp.weixin.qq.com/s/3kt6AuX1ARg99FRpjINTOw)
         + [Spring Boot 性能太差？试试这几招！](https://mp.weixin.qq.com/s/Smd-aJ9cFsSiG-MEv7vkdw)
         + [SpringBoot3第三方接口调用10种方式，最后一种你肯定没用过](https://mp.weixin.qq.com/s/jbq6rwG_LkQcMg7XD7BAgQ)
@@ -806,9 +810,13 @@
       + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
       + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
       + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
+      + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
+      + [一篇文章掌握Python语言的90% : 基础，面向对象，标准库](https://mp.weixin.qq.com/s/yd9hIWsm9MWabArSwOIp5Q)
+      + [Python编写函数的基本原则和技巧](https://mp.weixin.qq.com/s/0K0inpyT7wgacUo59ZzzwQ)
       + [Python OOP 中最常见的 20 种魔术方法](https://mp.weixin.qq.com/s/cFqkbqsGDc8M6rk7UWgebg)
+      + [Python正则表达式常用的20种操作](https://mp.weixin.qq.com/s/l4-C-0PhCNxaI2jQqbYUzw)
       + [Python处理文本的25个经典操作](https://mp.weixin.qq.com/s/YsPbZHd-g5oAkwVaFj57DA)
       + [一文带你搞清楚 Python 的多线程和多进程](https://my.oschina.net/u/4526289/blog/11208897)
       + [Python 编码时应该注意的几件事情](https://my.oschina.net/justjavac/blog/69309)
@@ -822,6 +830,7 @@
       + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
       + [详解 Python 中可视化数据分析工作流程](https://my.oschina.net/u/4526289/blog/11105722)
       + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
+      + [Python字符串处理常用的30种操作](https://mp.weixin.qq.com/s/uCk2XJKZ0zsaxVpRi0lNzQ)
       + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
       + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s/6_d1koWllGT8ovRnPq5SxQ)
       + [Python中10个节省时间的代码片段](https://mp.weixin.qq.com/s/uBydqwJbCZ5bGaoZoyMrFQ)
@@ -1162,6 +1171,7 @@
       + [云原生技术最全详解(图文全面总结)](https://mp.weixin.qq.com/s/yEmrmHC4SCZCLcTzQmhK2Q)
       + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
       + [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
+      + [在 Docker 中跑 MySQL？恭喜你，要下岗了](https://mp.weixin.qq.com/s/3TralIZh4V700mBjjx2FOg)
   + 工具
     + 容器技术
       + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)
@@ -1279,6 +1289,7 @@
     + [VS Code劲敌、Atom原作者主导、Rust编写的“最好”编辑器——Zed开始支持Linux](https://mp.weixin.qq.com/s/iqaSvQpq8SvQn5TkkKIYhQ)
     + [JetBrains IDE Services：简化 IDE 和 AI 工具的企业管理，提高开发者工作效率](https://mp.weixin.qq.com/s/_Fq7gSYnzeIgzVTFO7Xt3w)
     + [瞬间让 VSCode 变清静「差生文具多系列」](https://mp.weixin.qq.com/s/AezZJwaIF1OlIOiyLZSOxA)
+    + [推荐三款好用的开源堡垒机](https://mp.weixin.qq.com/s/_Z1JJoo-ZJWDUQDKWqRi8A)
     + [一款高颜值的 MySQL 管理工具](https://mp.weixin.qq.com/s/eQQzZN2ssacfCAff7aI1DQ)
     + idea
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)

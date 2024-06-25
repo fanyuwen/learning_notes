@@ -1,5 +1,5 @@
 ### jdk1.6新增的双端数组队列,可以再数组头和数组尾进行元素的新增和删除
-
+可以作为经典的数据结构*队列*和*栈*的实现,对标`java.util.LinkedList`,底层实现存在区别,一般使用都是用`java.util.ArrayDeque`
 默认构造函数初始化数组长度为16
 ``public ArrayDeque() { elements = new Object[16]; }``
 

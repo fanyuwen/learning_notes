@@ -10,7 +10,7 @@
 
 ### java方法重写和可变参数
 ```java
-    //可变参数在方法重写的时候是可以数组和变换使用
+    //可变参数在方法重写的时候是可以和数组变换使用
     class Father {
         void fun(Object[] args){}
         void fun1(Object... args){}

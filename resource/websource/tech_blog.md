@@ -1304,3 +1304,4 @@
     + [agrona](https://github.com/real-logic/agrona)
     + [97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)
     + [pingora](https://github.com/cloudflare/pingora)
+    + [spring-retry](https://github.com/spring-projects/spring-retry)

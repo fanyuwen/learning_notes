@@ -118,6 +118,7 @@
 
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
++ python包管理器 [anaconda](https://www.anaconda.com) [pip](https://pypi.org)
 + C扩展 [cython](https://cython.org/)
 + orm框架 [sqlalchemy](https://www.sqlalchemy.org/)
 + http处理库 [requests](https://requests.readthedocs.io/)

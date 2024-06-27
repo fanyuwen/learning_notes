@@ -267,6 +267,8 @@
       + [我有点想用 JDK 21 了~](https://mp.weixin.qq.com/s/EZOZnsY4EfCB7cjJzVCkqw)
       + [Lambda表达式：会这10招就够了，开发效率狂飙！](https://mp.weixin.qq.com/s/6pfxLJAr8C3JAixObwqrzA)
       + [300 秒快速了解 Java 9 - 16 新特性，助你脱离内卷](https://my.oschina.net/didispace/blog/5171573)
+      + [JDK8 升级 JDK11 最全实践干货来了](https://my.oschina.net/u/4090830/blog/11214877)
+      + [JDK11 升级 JDK17 最全实践干货来了](https://my.oschina.net/u/4090830/blog/11214874)
       + [Java 22 正式发布，一文了解全部新特性](https://my.oschina.net/didispace/blog/11048218)
       + [Java 21 虚拟线程如何限流控制吞吐量](https://my.oschina.net/didispace/blog/11044187)
       + [提升系统吞吐量，详解JDK21虚拟线程，炸裂](https://mp.weixin.qq.com/s/OI3Ku1bbeIkY2yUo_dHUQA)

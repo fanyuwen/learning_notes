@@ -320,6 +320,8 @@
   + 底层
     + 原理解析
       + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
+      + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
+      + [为什么 main 方法是 public static void ？](https://mp.weixin.qq.com/s/kJM1gAstBIHFHvSQ9DKMlQ)
       + [得物面试：什么是零复制？说说 零复制 底层原理？（吊打面试官）](https://mp.weixin.qq.com/s/u6JmewwXAtq_tl82kjOlJg)
       + [聊一次线程池使用不当导致的生产故障](https://mp.weixin.qq.com/s/3p01lP4f5XYK6Mf_TIkZsw)
       + [面试官：fail-fast 机制了解吗？你这样使用集合不会有问题吗？。。](https://mp.weixin.qq.com/s/gL0Q6HznvCmGk1IrM7c7pA)
@@ -1364,6 +1366,7 @@
   + [你见过最烂的代码长什么样子？挺好，防止忘记密码，大隐隐于市](https://mp.weixin.qq.com/s/z6WPoZiN88tkHYgkMmmqGQ)
   + [打开电脑端微信文件夹，众人都沉默了...](https://mp.weixin.qq.com/s/hJc8-ht0_nLt1VO0hjMNpw)
   + [30年第一次！中国人自己的“纯血”操作系统](https://mp.weixin.qq.com/s/Bl31kRTLpo7xC3YkACOJMw)
+  + [《上海市卫生健康“信息技术应用创新”白皮书》将C#/.NET认定为“A组件”——需要替换](https://mp.weixin.qq.com/s/j1UTr5LGeucwI7KdserGaQ)
   + [30岁，才是人生的开始](https://mp.weixin.qq.com/s/eiCOYmS8ll49v9teLHyPMw)
   + 知识
     + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)

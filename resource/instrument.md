@@ -65,7 +65,7 @@
 + CI/CD工具 [jenkins](https://www.jenkins.io) [argo-cd](https://argo-cd.readthedocs.io/en/stable/) [tekton](https://tekton.dev) <font style='color:red'>\*</font>[zadig](https://koderover.com/) <font style='color:red'>\*</font>[circleci](https://circleci.com/) <font style='color:red'>*</font>[drone CI](https://www.drone.io/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)
-+ java大数据流处理工具 [flink](https://flink.apache.org/) [spark](https://spark.apache.org/)
++ java大数据流处理工具 [flink](https://flink.apache.org/) [spark](https://spark.apache.org/) [storm](https://storm.apache.org) [hive](https://hive.apache.org)
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)

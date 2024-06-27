@@ -90,6 +90,7 @@
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
     + 安全
       + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
+      + [常见加密算法解析 - 2](https://my.oschina.net/u/2512041/blog/4377017)
       + [深入理解OAuth 2.0：原理、流程与实践](https://mp.weixin.qq.com/s/lAWgJ3oegR_edo-OqVjP0w)
       + [敏感数据不加密就提交到GitHub，你怕不是没经历过社会的毒打哦](https://mp.weixin.qq.com/s/fsMBgOP9blx2Mf5RZano2Q)
       + [JWT 签名用对称加密还是非对称加密？](https://my.oschina.net/lenve/blog/11203585)
@@ -104,6 +105,7 @@
     + [新来个技术总监：谁再用Redis实现订单超时自动关闭，以后就不用来了！](https://mp.weixin.qq.com/s/PsjVpv1leNF7DnpdJufUnw)
     + [揭秘支付对账：确保每一分钱的安全之旅](https://mp.weixin.qq.com/s/m3Ev0zm56_qz_K1HUikagQ)
     + [评论系统的几种展示结构和存储设计](https://mp.weixin.qq.com/s/kq9IAXQPxh_4Uwl7Wmpwcw)
+    + [几十万人同时在线的直播间聊天，如何设计服务端架构？](https://my.oschina.net/u/2550800/blog/1838019)
     + [几种优雅实现在线人数统计的方案](https://mp.weixin.qq.com/s/Hn-wdycTvW6TTpy25qrLjg)
     + [如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/PiVPZERlD6U_kZ6fmxWoeQ)
     + [简易评论系统设计](https://mp.weixin.qq.com/s/5-MrTxFwCJXvn9rdeLDm2Q)
@@ -442,6 +444,7 @@
           + websocket
             + [必不可少的技能之SpringBoot+WebSocket配置详解](https://mp.weixin.qq.com/s/paAH9GGdW81V2o64SfrANg)
           + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
+          + [实战指南：利用 React 与 Spring Boot 开发协同编辑的表格文档](https://my.oschina.net/powertoolsteam/blog/11213792)
           + [快来看看你会的超过4个没？SpringBoot获取前端参数的7种方式](https://mp.weixin.qq.com/s/Ojg2dX4HpbDz9tMWbIkR9g)
           + [Spring Boot中的 6 种API请求参数读取方式](https://mp.weixin.qq.com/s/mausyt2JOA39sI1KsFmzow)
           + [这才是SpringBoot统一响应和异常处理的最佳实践](https://mp.weixin.qq.com/s/IRl7DC4ZYTipHA2hCMdCyA)
@@ -834,6 +837,7 @@
       + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
       + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
       + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
+      + [Python 日志处理 logging 模块](https://my.oschina.net/u/2512041/blog/4377098)
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
       + [一篇文章掌握Python语言的90% : 基础，面向对象，标准库](https://mp.weixin.qq.com/s/yd9hIWsm9MWabArSwOIp5Q)
@@ -893,6 +897,7 @@
       + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
   + websocket
     + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)
+    + [细说 websocket 快速重连机制](https://my.oschina.net/u/2550800/blog/4420403)
   + 工具
     + node
       + [一文了解 npm install -g 和 npm install --save-dev 的关系](https://my.oschina.net/u/4526289/blog/11183599)
@@ -1271,6 +1276,7 @@
     + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
     + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
     + [TCP/IP，http，socket，长连接，短连接](https://my.oschina.net/OutOfMemory/blog/95803)
+    + [什么是跨域以及如何解决？通俗易懂带你彻底搞定](https://my.oschina.net/helloworldnet/blog/5585361)
   + web
     + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
     + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)
@@ -1347,6 +1353,7 @@
     + 网络
       + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
       + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
+      + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
       + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
     + git
       + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)

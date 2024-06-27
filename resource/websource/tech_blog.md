@@ -873,6 +873,7 @@
         + [无人不识又无人不迷糊的 this](https://my.oschina.net/u/4526289/blog/11049046)
         + [ES6 生成器，看似同步的异步流程控制表达风格](https://my.oschina.net/u/4526289/blog/11051652)
         + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
+        + [JavaScript Set 全新方法](https://www.oschina.net/news/298868/javascript-set-methods)
       + 语言特性
         + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
       + 底层

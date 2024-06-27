@@ -382,6 +382,7 @@
     + jvm
       + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
       + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/ilSpirk92Oq89KOlwQk3tQ)
+      + [Java 字节码入门](https://my.oschina.net/xiandafu/blog/677685)
       + [一文搞懂 5 种内存溢出案例，内含完整源码](https://my.oschina.net/u/4526289/blog/11206103)
       + [面试官对于JVM类加载机制的猛烈炮火，你能顶住吗？](https://mp.weixin.qq.com/s/tsHR_ZkbrBpKYIQy9mde1A)
       + [Java 8 内存管理原理解析及内存故障排查实践](https://my.oschina.net/vivotech/blog/11048619)
@@ -562,6 +563,7 @@
           + [Spring Boot 源码分析五：Spring Boot AutoConfiguration 自动配置机制](https://mp.weixin.qq.com/s/ElmExG_xmS3xEFRIJmz-7Q)
         + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
         + [强大！SpringBoot这种数据绑定技巧你知道吗？](https://mp.weixin.qq.com/s/K3evP-SDlOVXwaHsnA0zHA)
+        + [SpringBoot，用 200 行代码完成一个一二级分布式缓存](https://my.oschina.net/xiandafu/blog/847147)
         + [有一个 SpringBoot 的技能，我劝你们早点掌握](https://mp.weixin.qq.com/s/i2s0iGbp7sMZd0qaKv9ONA)
         + [Spring Boot：短信验证登录/注册逻辑实现](https://mp.weixin.qq.com/s/wO7gljJe5IXmRwUqq7VQNA)
         + [SpringBoot+Docker：高效容器化的最佳实践](https://mp.weixin.qq.com/s/bL76vRnlf0LqdhnITfefsw)

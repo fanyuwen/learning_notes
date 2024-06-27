@@ -84,6 +84,7 @@
       + [缓存三大问题总结：雪崩、击穿、穿透](https://mp.weixin.qq.com/s/XPIep1wiju-GPbbuTciizg)
       + [面试官问如何实现二级缓存怎么进行回答以及延伸出更多知识点呢？](https://mp.weixin.qq.com/s/CLFut5eGxnXJ43J9_4JDTA)
       + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
+      + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)
     + 权限
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
       + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)

@@ -506,6 +506,7 @@
           + [SpringBoot中使用Redis和Lua脚本实现延时队列](https://mp.weixin.qq.com/s/-oK42uZDVD4OIpg4cZlQZA)
           + [Spring Boot 整合 MongoDB：入门篇](https://mp.weixin.qq.com/s/FQBmKUISjVt3vpiXQLDcGg)
           + [解锁 Spring Boot 开发新技能：使用 MinIO 构建私有云存储](https://mp.weixin.qq.com/s/xNo6WyKz3b_GKOj1yj11xQ)
+          + [SpringBoot + Minio 实现文件切片极速上传技术](https://mp.weixin.qq.com/s/6Nxd0klK2iv0ttOJd3Cq1g)
           + [SpringBoot通过编程式事务提高系统性能](https://mp.weixin.qq.com/s/nEQ5wqrEwcsswxf3VTHWAA)
           + [Spring Boot 配置多数据源通用技术方案](https://mp.weixin.qq.com/s/skkFvAyuHdQI9E15wuLyRQ)
           + [Spring Boot + Redis实现实时数据更新的发布订阅功能](https://mp.weixin.qq.com/s/Ffm1yKcpARUeiOUh-ZmGOQ)
@@ -1395,6 +1396,7 @@
   + [你见过最烂的代码长什么样子？挺好，防止忘记密码，大隐隐于市](https://mp.weixin.qq.com/s/z6WPoZiN88tkHYgkMmmqGQ)
   + [打开电脑端微信文件夹，众人都沉默了...](https://mp.weixin.qq.com/s/hJc8-ht0_nLt1VO0hjMNpw)
   + [30年第一次！中国人自己的“纯血”操作系统](https://mp.weixin.qq.com/s/Bl31kRTLpo7xC3YkACOJMw)
+  + [Oracle 再夺 Java 命？大公司用 Java 要小心了！](https://mp.weixin.qq.com/s/4zoDqi34dvnSAuVV6qY8Pg)
   + [《上海市卫生健康“信息技术应用创新”白皮书》将C#/.NET认定为“A组件”——需要替换](https://mp.weixin.qq.com/s/j1UTr5LGeucwI7KdserGaQ)
   + [30岁，才是人生的开始](https://mp.weixin.qq.com/s/eiCOYmS8ll49v9teLHyPMw)
   + 知识

@@ -701,6 +701,7 @@
         + [轻松搞定 Spring 集成缓存，让你的应用程序飞起来！](https://mp.weixin.qq.com/s/rJCtykEdvjPNxET-zi88Iw)
       + aop
         + [面向切面编程：干净、可维护代码的秘密武器](https://mp.weixin.qq.com/s/6dPVQXMvPxmZ45lTuQG8KQ)
+        + [深入理解 Spring AOP 中的 @EnableAspectJAutoProxy](https://my.oschina.net/u/4526289/blog/11223022)
         + [Spring学习笔记 | AOP 面向切面编程](https://mp.weixin.qq.com/s/GTbNcCURuLKvNXdysPR5WA)
         + [严重！Spring AOP Bug导致切面重复执行](https://mp.weixin.qq.com/s/sXez3tQ9shXVJTbtTehlOw)
         + [Spring AOP 处理流程概述](https://www.diguage.com/post/spring-aop-process-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)

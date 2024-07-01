@@ -923,6 +923,7 @@
       + 底层
         + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
     + 实践
+      + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
       + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
       + [13个Javascript 技巧和最佳实践](https://mp.weixin.qq.com/s/FSwW68Ctt2LPUx8D__IjXg)
       + [写了 10 年 Javascript 未必全了解的连续赋值运算](https://my.oschina.net/justjavac/blog/66631)

@@ -1291,6 +1291,7 @@
       + [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
       + [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
       + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
+      + [从 Docker Hub 拉取镜像受阻？这些解决方案帮你轻松应对](https://my.oschina.net/rainbond/blog/11212890)
       + [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
 # 操作系统相关
   + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)

@@ -1404,6 +1404,8 @@
     + [瞬间让 VSCode 变清静「差生文具多系列」](https://mp.weixin.qq.com/s/AezZJwaIF1OlIOiyLZSOxA)
     + [推荐三款好用的开源堡垒机](https://mp.weixin.qq.com/s/_Z1JJoo-ZJWDUQDKWqRi8A)
     + [一款高颜值的 MySQL 管理工具](https://mp.weixin.qq.com/s/eQQzZN2ssacfCAff7aI1DQ)
+    + hello系列
+      + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
     + idea
       + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
       + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/x4KEODNB4xFFSDcicBRIww)

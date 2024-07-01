@@ -932,6 +932,7 @@
       + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
       + [开发者最容易犯的 13 个 JavaScript 错误](https://my.oschina.net/justjavac/blog/66632)
       + [JavaScript，只有你想不到](https://my.oschina.net/justjavac/blog/66618)
+      + [JIT 真的比解释执行快么 —— 关于 JS 引擎的一些热门话题](https://my.oschina.net/u/4662964/blog/11199136)
   + 框架
     + vue
       + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
@@ -1068,6 +1069,7 @@
           + [(六)MySQL索引原理篇：深入数据库底层揭开索引机制的神秘面纱！](https://mp.weixin.qq.com/s/4ztErqEWKtr19PJG5T8bUw)
           + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
         + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
+        + [MySQL 5.7 升级 8.0 后，排序规则问题解决方案汇总](https://my.oschina.net/actiontechoss/blog/11224386)
         + [(十三)MySQL引擎篇：半道出家的InnoDB为何能替换官方的MyISAM？](https://mp.weixin.qq.com/s/but9J1UD3rS5ZwqQEAtf3A)
         + [Linux 下如何实现 MySQL 数据库每天自动备份定时备份？](https://mp.weixin.qq.com/s/W_cvVkzZlFJQm6J8XKDa7g)
         + [(十二)MySQL之内存篇：深入探寻数据库内存与Buffer Pool的奥妙！](https://mp.weixin.qq.com/s/NB3muX2V8-Y350NEmEFoUQ)

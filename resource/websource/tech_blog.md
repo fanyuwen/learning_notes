@@ -984,6 +984,9 @@
     + [“踩坑” 经验分享：Swift 语言落地实践](https://my.oschina.net/u/4939618/blog/10443406?s_trans=2197476363_&s_channel=4)
 # 中间件
   + 数据库
+    + 大数据相关
+      + flink
+        + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
     + sql相关
       + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
       + [SQL的执行顺序以及它的重要性与元数据](https://mp.weixin.qq.com/s/jq3KwBJJMxl61GR-fUsv-g)

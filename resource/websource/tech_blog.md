@@ -126,6 +126,7 @@
     + [揭秘支付对账：确保每一分钱的安全之旅](https://mp.weixin.qq.com/s/m3Ev0zm56_qz_K1HUikagQ)
     + [评论系统的几种展示结构和存储设计](https://mp.weixin.qq.com/s/kq9IAXQPxh_4Uwl7Wmpwcw)
     + [几十万人同时在线的直播间聊天，如何设计服务端架构？](https://my.oschina.net/u/2550800/blog/1838019)
+    + [面试必备：4种经典限流算法讲解](https://mp.weixin.qq.com/s/nZKLSacEVb5w1rAta6ju-A)
     + [几种优雅实现在线人数统计的方案](https://mp.weixin.qq.com/s/Hn-wdycTvW6TTpy25qrLjg)
     + [一张图掌握4种RPC框架异步化调用](https://mp.weixin.qq.com/s/HvITsrk4FfhRguBspCtGVA)
     + [如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/PiVPZERlD6U_kZ6fmxWoeQ)

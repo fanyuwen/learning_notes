@@ -1226,6 +1226,7 @@
         + [Redis分布式锁存在哪些问题，该如何解决？](https://mp.weixin.qq.com/s/Nmj0_6nOWwvScVZf82uMkg)
         + [一个Redis分布式锁的实现引发的思考](https://mp.weixin.qq.com/s/xZ4Q28xtRg4ikVgDFK0tHA)
         + [Redis分布式锁问题，这些你知道吗？](https://mp.weixin.qq.com/s/X9Pvn42v2YivHSe5Y3pJSg)
+        + [Redis分布式锁的10个坑](https://mp.weixin.qq.com/s/DDQCwYPh62a7pOirECzRsA)
         + [Redis分布式锁最全详解(图文全面总结)](https://mp.weixin.qq.com/s/SY4qZtz8kqe18cRftmx_zA)
         + [Redis 分布式锁过期了，还没处理完怎么办？](https://mp.weixin.qq.com/s/wBGi0AcjltPfKcuv3DaIhQ)
         + [太优雅了！用Redis高效实现限流功能!](https://mp.weixin.qq.com/s/i0aDxP94oEMuw_IKyRD2mg)

@@ -117,6 +117,7 @@
 + 错误追踪和执行监控平台 [sentry](https://docs.sentry.io)
 + 开源技术趋势和统计 [ossinsight](https://ossinsight.io/)
 + 计算机视觉库 [opencv](https://opencv.org/)
++ 程序员技能检测和提高 [hackerrank](https://www.hackerrank.com/)
 
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)

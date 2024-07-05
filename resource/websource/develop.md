@@ -71,6 +71,7 @@
 + [分布式事务设计与实践](https://mp.weixin.qq.com/s/6ISxP0cwHRWwIiRchfGYbQ)
 ## 分布式算法
 + [分布式算法最全详解(4大主流算法图解)](https://mp.weixin.qq.com/s/986dumOR90RRJ4kkCLx0kg)
++ [通俗易懂关于 Paxos 的直观解释](https://my.oschina.net/u/4090830/blog/11051634)
 + [4大主流分布式算法介绍（图文并茂、算法拆解）](https://mp.weixin.qq.com/s/y9-nFSgx0YiaY3S7PqUMSA)
 + [分布式系统绕不开的话题：分布式一致性算法](https://mp.weixin.qq.com/s/k48-d51nAD68KA9L_5EhnA)
 + [Raft 算法浅析](https://my.oschina.net/OutOfMemory/blog/820189)

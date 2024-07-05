@@ -74,6 +74,8 @@
 + [一款高颜值的 MySQL 管理工具](https://mp.weixin.qq.com/s/eQQzZN2ssacfCAff7aI1DQ)
 + [完全开源的现代化IDE正式发布：支持云端和桌面、兼容VS Code扩展、全球最大开源基金会打造](https://mp.weixin.qq.com/s/nL9XqFLDNr5vBlsoShkCDQ)
 + [一个合格的程序员应该读过哪些书](https://my.oschina.net/justjavac/blog/66624)
+## 开源资源
++ [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 ## 行业资源
 + [阿里巴巴26个屌炸天的开源项目，你知道几个？](https://mp.weixin.qq.com/s/6tvz_DbGRWhVHPFfZmYG6A)
 ## idea相关

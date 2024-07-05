@@ -1,0 +1,68 @@
+# 操作系统相关
+## 主题知识
++ [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
++ [内存是怎样一步步被分配出来的？](https://mp.weixin.qq.com/s/QmFbNAwO6dKo32o9hj6J5A)
+## 文件系统
++ [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s/f81V8_XL4eC14sl_kXFQwQ)
+## windows
++ [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
+## linux
+### 实践
++ [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
++ [全网最全 Linux 命令总结，建议收藏！](https://mp.weixin.qq.com/s/jjPPObgclLtRQvJynV2ifQ)
++ [提高工作效率的 7 个 Linux 命令和技巧,看完绝对有用](https://mp.weixin.qq.com/s/HRSkfDkmyZdFjqyNohkUMw)
++ [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)
++ [linux一条命令配置应用自启动或延迟启动](https://mp.weixin.qq.com/s/dyzIFI6jkRQiJwP87Kl-lQ)
++ [Linux下的软件部署方式看看你用过几种？](https://mp.weixin.qq.com/s/lcdYkm9m5xA8y7mjNh5Bjw)
++ [Linux Shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/OPK8BYNJSOAYPPxGMOn2wQ)
++ [Bash 入门教程](https://my.oschina.net/OutOfMemory/blog/296588)
++ [Linux 中文件的隐藏属性与特殊权限](https://sxyz.blog/linux-chattr/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
++ [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s/bLnaDOA0yindJQWUiRzSgw)
++ [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
++ [为什么Linux的top命令看到CPU有时候超过100%？](https://mp.weixin.qq.com/s/bDw_4w3ReU7bUXi8dgKAhg)
++ [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
++ [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
++ [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
++ [「性能指标」CPU飙高排查实战](https://mp.weixin.qq.com/s/PePQyH3XkVQQZSaoFRpnFw)
++ [linuxC-基础编程-【随机数计算函数接口】](https://mp.weixin.qq.com/s/zRsk_QlYuIUz_PPy-t7aQQ)
++ [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
++ [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
+### 发行版信息
++ [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
+# 计算机基础知识
+## 网络基础
++ [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
++ [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
++ [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
++ [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s/nPIUzppy33MZVwmCq8-e4w)
++ [面试官：解释一下对称加密和非对称加密及其在HTTPS中的应用](https://mp.weixin.qq.com/s/5qrcoXNxZzwEk9iCVpttHQ)
++ [网络流量限速技术：优化网络性能与资源管理的利器](https://mp.weixin.qq.com/s/VphSXlscrI_77H2CR850mA)
++ [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
++ [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
++ [面试官：TCP 如何保证传输的可靠性？](https://mp.weixin.qq.com/s/cbSUaYDzPk3SkhQ5xNUuOQ)
++ [从RPC到HTTP：网络通信协议的演变](https://mp.weixin.qq.com/s/GIVQ8nyHXTeMqghYrc18Pg)
++ [什么是四层负载均衡跟七层负载均衡？](https://mp.weixin.qq.com/s/YX9v_v6Gfm-Di3Jz77SCnQ)
++ [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
++ [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
++ [TCP/IP，http，socket，长连接，短连接](https://my.oschina.net/OutOfMemory/blog/95803)
++ [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
++ [什么是跨域以及如何解决？通俗易懂带你彻底搞定](https://my.oschina.net/helloworldnet/blog/5585361)
++ [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/iKlBnuREzC92TjWpqsdibw)
++ [RPC相关问题（2）](https://mp.weixin.qq.com/s/QuasAvK-bkZK4cWq2Ny-VA)
+## web
++ [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
++ [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)
+## IO原理
++ [阿里面试：NIO为什么会导致CPU100%？](https://mp.weixin.qq.com/s/1yZft2djYFZJAi6-pbxN1A)
++ [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)
++ [socket缓冲区大小从哪里来](https://mp.weixin.qq.com/s/6GckWxohV8V5stNEqBh1tw)
++ [物联网中设备怎么和云端通信](https://mp.weixin.qq.com/s/VQhM8lo8GsKuP0QKprWD1A)
++ [图解IO多路复用的原理](https://mp.weixin.qq.com/s/LyhMybGUyFEbIMwz6Qe3fw)
++ [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
++ [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
+## 实践
++ [蚂蚁一面：浮点数在计算机中是如何存储的？](https://mp.weixin.qq.com/s/5S_D3bt-CqXcNUurZVQ9Sw)
++ [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s/jjhO3YQcAAIc7Su49Todjg)
++ [一文搞透TPS、QPS、吞吐量等高性能指标](https://mp.weixin.qq.com/s/7MMVyiljkDhoe4EuOwu5IA)
++ [面试官：线上服务 cpu飙升，有遇到过吗，如何定位问题的](https://mp.weixin.qq.com/s/njtqs5M28xs6rE1XreIN8w)
++ [你真的懂串口通信吗？](https://mp.weixin.qq.com/s/Q8Y_1EDJ1j_EsfmgHUeIiA)

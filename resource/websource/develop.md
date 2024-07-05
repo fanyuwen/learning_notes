@@ -217,3 +217,5 @@
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
 + [代码合并冲突不断通宵解决，你的团队应该引入这种代码分支策略！](https://mp.weixin.qq.com/s/IhT9HVmoegQe3BC4_mZoWw)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
+### 团队管理
++ [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)

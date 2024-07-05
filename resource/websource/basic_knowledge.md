@@ -49,6 +49,11 @@
 + [什么是跨域以及如何解决？通俗易懂带你彻底搞定](https://my.oschina.net/helloworldnet/blog/5585361)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/iKlBnuREzC92TjWpqsdibw)
 + [RPC相关问题（2）](https://mp.weixin.qq.com/s/QuasAvK-bkZK4cWq2Ny-VA)
+### nginx相关
++ [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
++ [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
++ [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
++ [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
 ## web
 + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
 + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)

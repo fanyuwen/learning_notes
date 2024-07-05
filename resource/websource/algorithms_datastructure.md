@@ -1,0 +1,21 @@
+# 通用算法
++ [整理Bitmap在项目中的实战](https://mp.weixin.qq.com/s/lZlpG-LSmajowRWM88gE7g)
++ [从Bit位操作学封装](https://mp.weixin.qq.com/s/6aKNJVkNj-scoQuWfSrInA)
++ [手写 Java PriorityQueue 核心源码（上）](https://my.oschina.net/helloworldnet/blog/5124166)
++ [手写 Java PriorityQueue 核心源码 (下)](https://my.oschina.net/helloworldnet/blog/5124167)
++ [二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5125642)
++ [7 手写源码系列 - 二分搜索树的原理与 Java 源码实现](https://my.oschina.net/helloworldnet/blog/5063520)
++ [手写 Java HashMap 核心源码](https://my.oschina.net/helloworldnet/blog/5121810)
++ [手写 ArrayList 核心源码](https://my.oschina.net/helloworldnet/blog/5119205)
++ [手写 Java LinkedList 核心源码](https://my.oschina.net/helloworldnet/blog/5120099)
++ [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
++ [面试官：说说延迟任务的时间轮调度算法？](https://mp.weixin.qq.com/s/BhT9XF31KcmfhQ60ASlGEg)
++ [阿里面试：全国14亿个姓名，统计出重名最多的前100个](https://mp.weixin.qq.com/s/mzEuy3XqIja2aqgeT7mKGA)
++ [腾讯面试：如何实现10亿数据判重？](https://mp.weixin.qq.com/s/wNSYs3z1WPSM49Yhix7Y7Q)
++ [40亿个QQ号，限制1G内存，如何去重？](https://mp.weixin.qq.com/s/8rCMWmlLOyzCCrfVoINrGg)
++ [这几道【哈希表】相关的算法题，面试写不出来就惨了！](https://mp.weixin.qq.com/s/ZAQw72Q3rfb3sF6UtrCFzA)
+# 密码学
++ [写给开发人员的实用密码学（二）—— 哈希函数](https://thiscute.world/posts/practical-cryptography-basics-2-hash/?comefrom=https://blogread.cn/news/&continueFlag=2082d698470a8cd85657d83b45b7be6e&s_trans=2197476363_&s_channel=4)
++ [从零实现 AES 加密算法](https://sxyz.blog/aes-from-scratch/?comefrom=https://blogread.cn/news/&continueFlag=3cf82e8f2e450c433d50c8e046d93c32&s_trans=2197476363_&s_channel=4)
+# 领域算法
++ [迄今最快的网络流算法，网友：几乎与数学理论一样快](https://mp.weixin.qq.com/s/ggniihELqSbFm18RgX7ZdQ)

@@ -351,6 +351,7 @@
       + [这道面试题连续拦下5个人，公司只好删掉了。](https://mp.weixin.qq.com/s/jFFaSWVyQeMV2yxu6GT_iA)
     + 代码质量
       + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
+      + [26 个提升 java 性能需要注意的地方](https://my.oschina.net/justjavac/blog/66628)
       + [依赖注入：打造高内聚，低耦合的代码艺术](https://mp.weixin.qq.com/s/nO6CwX7J515L5K-ZXSs_pg)
       + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
       + [你见过哪些目瞪口呆的 Java 代码技巧？](https://mp.weixin.qq.com/s/b7IhiafHpoH99uSe4uApcQ)
@@ -859,6 +860,7 @@
       + [Disruptor 生产和消费模式详解及高级应用（并行模式）](https://my.oschina.net/jiagoushi/blog/5579551)
       + [Disruptor 和 LinkedBlockingQueue 性能对比以及分析](https://my.oschina.net/OutOfMemory/blog/793275)
       + [Disruptor在撮合引擎的实践｜得物技术](https://mp.weixin.qq.com/s/kmuG5azJnqjKRYlkiVHWqQ)
+      + [Disruptor 在撮合引擎的实践｜得物技术](https://my.oschina.net/u/5783135/blog/11334180)
     + shiro
       + [再见了 shiro](https://mp.weixin.qq.com/s/fguzrNRL70kxAw6WXnVQrw)
     + netty
@@ -901,6 +903,7 @@
       + [ASM 入门篇](https://my.oschina.net/OutOfMemory/blog/5076032)
     + 其它工具
       + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
+      + [离开 Java，寻找更佳语言的 10 大理由](https://my.oschina.net/justjavac/blog/66629)
       + [Spock 测试框架实践](https://my.oschina.net/u/2512041/blog/4376976)
       + [赋能转转回收：LiteFlow可视化编排方案设计](https://mp.weixin.qq.com/s/Go6cDZvuvN-NH_gxcg77uw)
       + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
@@ -959,6 +962,7 @@
     + 实践
       + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
       + [Python绘制ROC曲线](https://mp.weixin.qq.com/s/X09G7VlWr2irDK9GAHPpag)
+      + [Python 编码时应该注意的几件事情](https://my.oschina.net/justjavac/blog/69309)
       + [Python 以下划线开头的函数](https://mp.weixin.qq.com/s/9O2Ryrn4pP_lR_fwTcE5iw)
       + [一行代码搞定一切：Python列表推导式的艺术](https://mp.weixin.qq.com/s/UFI0zFb-4iRxKr9HBCL0Bg)
       + [一网打尽：12个find()函数在Python中的创意实践](https://mp.weixin.qq.com/s/4ORDLwWhmOLk_MjL_DKK6Q)
@@ -1009,6 +1013,8 @@
       + 底层
         + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
     + 实践
+      + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
+      + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
       + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
       + [前端可以玩“锁”了](https://mp.weixin.qq.com/s/O0YwzJ5AYTn7gvizN4cjag)
       + [JavaScript 开发的挑战与未来：简化与创新的平衡](https://mp.weixin.qq.com/s/FL6dm6mlvZs3zse4b4hHjg)
@@ -1092,6 +1098,8 @@
     + [吵了 6 年的数据库话题，会在冯若航这里终结吗？](https://my.oschina.net/u/3859945/blog/11322180)
     + [数据库三大范式是什么？你是按什么原则去建数据库表的？](https://mp.weixin.qq.com/s/3s1xAS0S5EF7DAfF2csYjA)
     + [运维干货｜Oracle、MySQL、PostgreSQL、OB、万里开源数据库比较系列: IN ( MAX Subquery )](https://mp.weixin.qq.com/s/g8Pzn_i4HqtKqlhVQAUD4Q)
+    + [三种东西永远不要放到数据库里](https://my.oschina.net/justjavac/blog/66623)
+    + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://my.oschina.net/selectdb/blog/11323990)
     + 大数据相关
       + flink
         + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
@@ -1542,6 +1550,7 @@
     + [你见过哪些看似简单但却非常精妙的代码？](https://mp.weixin.qq.com/s/0rTO3_Yo0sB45tMJKTMB0g)
     + [为什么数组下标是从 0 开始，而不从 1 开始？](https://mp.weixin.qq.com/s/DXq6_DdjTJFx1W-IUrrxGw)
     + [编写干净代码的 9 条必须知道的规则](https://mp.weixin.qq.com/s/6yeKosiwDApQJ2ThFP_WUw)
+    + [程序员究竟该如何提高效率](https://my.oschina.net/justjavac/blog/67784)
     + [解决冗余代码的3种方法，让你的代码更上一层楼](https://mp.weixin.qq.com/s/0w7j0UtATqVIlT2E0KlDGw)
     + [8年开发，连登陆接口都写这么烂...](https://mp.weixin.qq.com/s/ahTW25EsqOEGxPCfiFyrFA)
     + [卧槽！新来的妹纸rm -rf把公司整个数据库删没了，整个项目组慌了~](https://mp.weixin.qq.com/s/MX2axNvj3o_D5dFu1ZtNLg)
@@ -1559,6 +1568,7 @@
     + [如何在开发过程中减少 Bug？](https://mp.weixin.qq.com/s/8A97pGRbFL3cVbVbRVY9lQ)
     + [你的编程能力什么时候开始有了质的飞跃？](https://mp.weixin.qq.com/s/k00Pinm1O7ALMayQiJBu3Q)
     + [不想成为架构师的程序员不是好厨子，读读这几本书，帮你少走好几年弯路](https://mp.weixin.qq.com/s/ZS1QVKYATYk7NYXNKenReg)
+    + [合格程序员每天每周每月每年应该做的事](https://my.oschina.net/justjavac/blog/71883)
     + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
   + 工具
     + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
@@ -1581,6 +1591,7 @@
     + [百度又开源一款压测工具，可模拟几十亿的并发场景，太强悍了！](https://mp.weixin.qq.com/s/orJ2tiLjRzdnpuUGfUnF1A)
     + [一款高颜值的 MySQL 管理工具](https://mp.weixin.qq.com/s/eQQzZN2ssacfCAff7aI1DQ)
     + [完全开源的现代化IDE正式发布：支持云端和桌面、兼容VS Code扩展、全球最大开源基金会打造](https://mp.weixin.qq.com/s/nL9XqFLDNr5vBlsoShkCDQ)
+    + [一个合格的程序员应该读过哪些书](https://my.oschina.net/justjavac/blog/66624)
     + hello系列
       + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
     + idea
@@ -1612,6 +1623,7 @@
     + [被裁 4 个月程序员的“复仇”：怒删前东家 180 台虚拟服务器，造成 491 万损失，被判两年八个月监禁！](https://mp.weixin.qq.com/s/WzBRUeykv91kbVI3blZULg)
     + [漏洞通告 | GeoServer JXPath远程代码执行漏洞](https://mp.weixin.qq.com/s/A46tM8rEpHr4HcR5bke6GA)
   + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
+  + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
   + [社会内卷的真正原因：华为内部论坛的这篇雄文火了](https://mp.weixin.qq.com/s/uGXQTgSbV-4a6PchaeC14A)
   + [美团后端面经，难度不算大，但是人都被问麻了](https://mp.weixin.qq.com/s/er8Yg26RUFUKeR1fIVmH7Q)
   + [程序员界有哪些经典的笑话?](https://mp.weixin.qq.com/s/ageQFNcjKrtKlse0QFyL0w)

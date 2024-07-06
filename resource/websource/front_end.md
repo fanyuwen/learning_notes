@@ -30,6 +30,7 @@
 ## vue
 + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
 + [新一代 Vue 开发者工具 ——Vue DevTools Next 发布浏览器扩展](https://www.oschina.net/news/299829/vue-devtools-next-chrome-extension)
++ [三分钟，带你学会 Vue3 加载远程组件](https://mp.weixin.qq.com/s/dUlLfTe6Y8-sdPxWCq6Jow)
 ## react
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)
 # websocket
@@ -38,6 +39,7 @@
 + [赶快收藏！全网最佳websocket封装：完美支持断网重连、自动心跳！](https://mp.weixin.qq.com/s/DmmUa-0OPFcTpf5jW232rw)
 + [WebSocket协议-实战](https://mp.weixin.qq.com/s/Y6WmPw8pjzcRFmcyNYzh7w)
 + [WebSocket协议-概念原理](https://mp.weixin.qq.com/s/osM4z6HC3X3aWIEO-jiTeA)
++ [WebSocket协议-源码分析](https://mp.weixin.qq.com/s/HD4FMKLvHkqBlWDFqWRcqg)
 # 工具
 ## node
 + [一文了解 npm install -g 和 npm install --save-dev 的关系](https://my.oschina.net/u/4526289/blog/11183599)

@@ -11,6 +11,7 @@
 ### 实践
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
 + [Linux高性能编程_无锁队列](https://mp.weixin.qq.com/s/4tnAYIry-kwS0PvDTxN-qQ)
++ [手动释放Linux操作系统的buff/cache内存缓存](https://mp.weixin.qq.com/s/6RQzFV8otUA4HUMDgNzu3w)
 + [全网最全 Linux 命令总结，建议收藏！](https://mp.weixin.qq.com/s/jjPPObgclLtRQvJynV2ifQ)
 + [提高工作效率的 7 个 Linux 命令和技巧,看完绝对有用](https://mp.weixin.qq.com/s/HRSkfDkmyZdFjqyNohkUMw)
 + [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)

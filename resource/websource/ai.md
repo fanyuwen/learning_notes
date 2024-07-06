@@ -10,5 +10,6 @@
 + [精通RAG架构：从0到1，基于LLM+RAG构建生产级企业知识库](https://mp.weixin.qq.com/s/PJgAIpxzRcuDlH-uDzbc1A)
 + [快速学会一个算法，Transformer](https://mp.weixin.qq.com/s/iJuVZVvOueWKThtQW7ALKg)
 + [基于大模型的语音合成和Audio Codec介绍](https://mp.weixin.qq.com/s/cm4kkKIcHknGJ9ECJdcVZQ)
++ [开源推荐 | 免费的自然语言处理、情感分析、实体识别、图像识别与分类、OCR识别、语音识别接口](https://mp.weixin.qq.com/s/ZY1iRRCmAts8k6EKNSrVFQ)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)

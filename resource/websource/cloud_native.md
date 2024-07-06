@@ -26,6 +26,7 @@
 + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
 + [从 Docker Hub 拉取镜像受阻？这些解决方案帮你轻松应对](https://my.oschina.net/rainbond/blog/11212890)
 + [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
++ [运维Docker：高效管理容器化应用的秘诀](https://mp.weixin.qq.com/s/cbGj29R0shN6294pwpIJCA)
 + [【好玩儿的Docker项目】保存网页、稍后阅读，自建 Wallabag 服务，搭配RSS使用更佳！](https://mp.weixin.qq.com/s/aBgXsyJhj39QsrAae87FsQ)
 ## k8s
 + [一篇文章精通K8S的统一访问入口-Service](https://mp.weixin.qq.com/s/wdsaWdAed0U9YbRqdWVP8g)

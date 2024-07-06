@@ -99,6 +99,7 @@
 + [被裁 4 个月程序员的“复仇”：怒删前东家 180 台虚拟服务器，造成 491 万损失，被判两年八个月监禁！](https://mp.weixin.qq.com/s/WzBRUeykv91kbVI3blZULg)
 + [漏洞通告 | GeoServer JXPath远程代码执行漏洞](https://mp.weixin.qq.com/s/A46tM8rEpHr4HcR5bke6GA)
 + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)
++ [华为仓颉编程语言正式发布，号称新一代编程语言，Java、Python 瑟瑟发抖。。。](https://mp.weixin.qq.com/s/O-PSyKRPE-31Y8Zmc7Dh-A)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)

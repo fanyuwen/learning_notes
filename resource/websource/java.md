@@ -12,9 +12,11 @@
 + [面试官：告诉我为什么static和transient关键字修饰的变量不能被序列化？](https://mp.weixin.qq.com/s/LpZIQkcfsjzawGbkCjXcVQ)
 + [java 中 equals 和 == 的区别](https://my.oschina.net/justjavac/blog/72973)
 + [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
++ [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 ## 新语言特性
 + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
 + [我有点想用 JDK 21 了~](https://mp.weixin.qq.com/s/EZOZnsY4EfCB7cjJzVCkqw)
++ [JDK17：解锁代码新大陆，这个升级理由让你无法Say No！](https://mp.weixin.qq.com/s/d-QNBuEStxT5F4xG88OOSg)
 + [Lambda表达式：会这10招就够了，开发效率狂飙！](https://mp.weixin.qq.com/s/6pfxLJAr8C3JAixObwqrzA)
 + [300 秒快速了解 Java 9 - 16 新特性，助你脱离内卷](https://my.oschina.net/didispace/blog/5171573)
 + [JDK8 升级 JDK11 最全实践干货来了](https://my.oschina.net/u/4090830/blog/11214877)

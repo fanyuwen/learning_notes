@@ -44,6 +44,9 @@
 + [架构之问九：数据库设计策略之缓存策略](https://mp.weixin.qq.com/s/k9nUjRPg-WU-xZ5U0mzm4Q)
 + [应用数据库迁移总结](https://mp.weixin.qq.com/s/YvAy8175d5TIR79N-Xg6rQ)
 + [什么是流式SQL，它有什么用？](https://mp.weixin.qq.com/s/VlHosrDvev7zwnCD6UBe4Q)
++ [MySQL 如何实现将数据实时同步到 ES ？](https://mp.weixin.qq.com/s/RFPYqVIoIIwPVA95FTCrgA)
++ [被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/OlB4lcAsFCnZ6vtyxAEj4A)
++ [高并发下千万数据量的Mysql中热点数据如何持续保留在Redis中](https://mp.weixin.qq.com/s/fJ7UJJ-6D5ylDjw7preCwA)
 ## 原理解析
 + [超级底层：10WQPS/PB级海量存储HBase/RocksDB，底层LSM结构是什么？](https://mp.weixin.qq.com/s/YFrc8J0qmc_ppl9T9-921w)
 + [数据库并发控制：脏读、幻读与不可重复读的全面剖析](https://mp.weixin.qq.com/s/JoDxomYqumUbMJrv8oPhWg)
@@ -261,6 +264,7 @@
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
 ### CLICKHOUSE
 + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
++ [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://mp.weixin.qq.com/s/bctAe-eK5EhwTnJlr0xrQQ)
 ### InfluxQL
 [分析时序数据：如何从 InfluxQL 迁移到 SQL](https://mp.weixin.qq.com/s/KEscIB7MfRoowMwaHI_oeg)
 ## 分布式数据库

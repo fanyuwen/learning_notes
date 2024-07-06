@@ -9,5 +9,6 @@
 + [联创用ChatGPT写的一行代码让公司损失上万美元！网友：老板自己写的，找不到人背锅了](https://mp.weixin.qq.com/s/e2wuBjiz7Z5Rft6jl05shQ)
 + [精通RAG架构：从0到1，基于LLM+RAG构建生产级企业知识库](https://mp.weixin.qq.com/s/PJgAIpxzRcuDlH-uDzbc1A)
 + [快速学会一个算法，Transformer](https://mp.weixin.qq.com/s/iJuVZVvOueWKThtQW7ALKg)
++ [基于大模型的语音合成和Audio Codec介绍](https://mp.weixin.qq.com/s/cm4kkKIcHknGJ9ECJdcVZQ)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)

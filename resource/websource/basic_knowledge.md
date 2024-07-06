@@ -6,9 +6,11 @@
 + [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s/f81V8_XL4eC14sl_kXFQwQ)
 ## windows
 + [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
++ [后渗透系列-Windows日志致盲与绕过](https://mp.weixin.qq.com/s/Oz5Z3Yw9lhh83N2lBuaUDQ)
 ## linux
 ### 实践
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
++ [Linux高性能编程_无锁队列](https://mp.weixin.qq.com/s/4tnAYIry-kwS0PvDTxN-qQ)
 + [全网最全 Linux 命令总结，建议收藏！](https://mp.weixin.qq.com/s/jjPPObgclLtRQvJynV2ifQ)
 + [提高工作效率的 7 个 Linux 命令和技巧,看完绝对有用](https://mp.weixin.qq.com/s/HRSkfDkmyZdFjqyNohkUMw)
 + [Centos安全防护](https://mp.weixin.qq.com/s/eBcWTmP4d_8hdf6l1h5Cuw)
@@ -20,9 +22,6 @@
 + [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s/bLnaDOA0yindJQWUiRzSgw)
 + [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
 + [为什么Linux的top命令看到CPU有时候超过100%？](https://mp.weixin.qq.com/s/bDw_4w3ReU7bUXi8dgKAhg)
-+ [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
-+ [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
-+ [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
 + [「性能指标」CPU飙高排查实战](https://mp.weixin.qq.com/s/PePQyH3XkVQQZSaoFRpnFw)
 + [linuxC-基础编程-【随机数计算函数接口】](https://mp.weixin.qq.com/s/zRsk_QlYuIUz_PPy-t7aQQ)
 + [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
@@ -32,8 +31,13 @@
 # 计算机基础知识
 ## CPU
 + [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)
++ [美团一面，你碰到过CPU 100%的情况吗？你是怎么处理的？](https://mp.weixin.qq.com/s/TcprDRjzQCXQ7OQmJ0E5XQ)
++ [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
++ [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
++ [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
 ## 网络基础
 + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
++ [超实用的80个网络基础知识！](https://mp.weixin.qq.com/s/3f6vhB6xp7mkDTbS8vWU8w)
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
 + [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s/nPIUzppy33MZVwmCq8-e4w)

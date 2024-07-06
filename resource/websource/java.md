@@ -71,6 +71,7 @@
 # 底层
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
 + [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
 + [谈谈你对公平锁和非公平锁的理解](https://mp.weixin.qq.com/s/hT9FgjmR_U7p5Wm33vuRwQ)
@@ -313,6 +314,7 @@
 + [如何优雅地将 Tio Boot 集成到 Spring Boot 项目中](https://mp.weixin.qq.com/s/AuqykMEVyhH60EkgodljCA)
 + [强大！SpringBoot这种数据绑定技巧你知道吗？](https://mp.weixin.qq.com/s/K3evP-SDlOVXwaHsnA0zHA)
 + [基于SpringBoot的微服务架构与K8S容器部署实践](https://mp.weixin.qq.com/s/Sik4QbKwQv4I6zBU3HBP5A)
++ [惊呆了，Spring Boot + liteflow 居然这么好用！](https://mp.weixin.qq.com/s/jXTv56LOlNU_HNHPZV_StA)
 + [SpringBoot日志按照日期和日志级别输出文件](https://mp.weixin.qq.com/s/7cY8Kd9QpKBnmWbajcov4A)
 + [SpringBoot，用 200 行代码完成一个一二级分布式缓存](https://my.oschina.net/xiandafu/blog/847147)
 + [Spring Boot 开发神器：让你告别重复代码，解放双手，高效开发！](https://mp.weixin.qq.com/s/NVi92UGTcTOyLPP1380-gA)

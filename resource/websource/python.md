@@ -13,6 +13,7 @@
 + [Trio，一个牛逼的python库](https://mp.weixin.qq.com/s/miGucUPviRC4yRUMDjm8zQ)
 + [探索 Python 事件驱动编程：pymitter 入门指南](https://mp.weixin.qq.com/s/MvE56_xJSMhG9ZVHHL-Epw)
 + [datasets,一个强大的python库](https://mp.weixin.qq.com/s/WjgMxsmF3DHUHjiRnc5sBQ)
++ [Python中turtle库的基础应用](https://mp.weixin.qq.com/s/6VMee8_IoxfryvcJ6ICAaA)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 ## 工具

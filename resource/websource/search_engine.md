@@ -6,3 +6,4 @@
 + [elasticSearch 是什么？工作原理是怎么样的？](https://mp.weixin.qq.com/s/RUQXIyN95hvi2wM3CyPI9w)
 + [百亿级存储架构： ElasticSearch+HBase 海量存储架构与实现](https://mp.weixin.qq.com/s/ZOAyUVKgAx7NM8YU3FhmEg)
 + [ElasticSearch8.x集群搭建记录分享](https://mp.weixin.qq.com/s/VPwQBIrwrvhVOCVaIKxGiw)
++ [Elasticsearch max_result_window 含义及参数调整](https://mp.weixin.qq.com/s/xvm6M4WCQqvX5mo77r6cDA)

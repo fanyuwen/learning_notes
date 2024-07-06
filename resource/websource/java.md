@@ -138,6 +138,7 @@
 + [深入分析 Java 中的 PriorityQueue 底层实现与源码](https://my.oschina.net/u/4526289/blog/11048033)
 ## jvm
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
++ [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
 + [架构师必知的绝活-JVM调优](https://mp.weixin.qq.com/s/M-GGTDiuC-IhOTeGCKN7Fw)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/ilSpirk92Oq89KOlwQk3tQ)
 + [JVM内存溢出详解(4大常见原因及解决方案)](https://mp.weixin.qq.com/s/GH0-Z96bWpp9ZhxQ9cc1fw)
@@ -185,6 +186,11 @@
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/k4CP-jA3m6-gXNWD2uLKDg)
 + [原来，这才是 JDK 推荐的线程关闭方式](https://mp.weixin.qq.com/s/VuJeIqI2iG5gl-Q3mbRCIg)
 + [盘点那些强大又低调的 Java 缓存](https://mp.weixin.qq.com/s/yujiHARZo_48wAf9UzeKAQ)
+### 字节码工具
++ [Java 代理 - Javassist](https://my.oschina.net/OutOfMemory/blog/309283)
+# 包管理工具
+## maven
++ [Maven Assembly 构建发布包](https://my.oschina.net/OutOfMemory/blog/685456)
 # 第三方库
 ## spring
 + [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
@@ -576,11 +582,13 @@
 + [面试官：说说Netty对象池的实现原理？](https://mp.weixin.qq.com/s/V_zhK5iFlkuoeHp3F1iDTQ)
 + [拜托！面试请不要再问我 Netty 底层架构原理！](https://mp.weixin.qq.com/s/Sldln-i580LJusQd_YW06w)
 + [一张图学会Netty线程模型](https://mp.weixin.qq.com/s/-wbw78AGJTFYMeas3IY6dg)
++ [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
 + [(十)Netty进阶篇：漫谈网络粘包、半包问题、解码器与长连接、心跳机制实战](https://mp.weixin.qq.com/s/BK14ryGrHiNMiMDVC-7s-Q)
 + [Netty 基于 protobuf 协议的编解码](https://my.oschina.net/OutOfMemory/blog/294505)
 + [Netty 的 ip 过滤](https://my.oschina.net/OutOfMemory/blog/364446)
 + [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
 + [Netty 通过 MBean 监控流量](https://my.oschina.net/OutOfMemory/blog/790781)
++ [Netty 自定义协议](https://my.oschina.net/OutOfMemory/blog/290180)
 ## redisson
 + [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)
 + [分布式锁工具Redisson，太香了！！](https://mp.weixin.qq.com/s/o0NpBgVAPEiwQefwisqFAw)
@@ -624,6 +632,7 @@
 + [6大分库分表中间件详解(图文全面总结)](https://mp.weixin.qq.com/s/sD_0CcM9ZseXRgM00CEYSg)
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [Java 分布式应用简介](https://my.oschina.net/OutOfMemory/blog/109216)
 + [后台开发必备：每个程序员都应掌握的缓存技术](https://mp.weixin.qq.com/s/pu0w46EGBD6CJmozkMXkrQ)
 + [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
 + [CTO：谁再在项目中用Hutool，就给我卷铺盖滚蛋！！！](https://mp.weixin.qq.com/s/UZWTlZPCYm2tNjwXsRuVhg)

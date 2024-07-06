@@ -18,6 +18,7 @@
 + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
 ## docker
 + [如何缩小docker容器镜像](https://mp.weixin.qq.com/s/1Rswv3svndVZ-XvFR-hgFg)
++ [Dockerfile：提升构建效率的最佳实践](https://mp.weixin.qq.com/s/KD_UdfS4gsFu0I62KPLEAg)
 + [docker镜像缩小神器](https://mp.weixin.qq.com/s/44UTKu7NXa8zTPnr6xXXXg)
 + [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
 + [在 Docker 中跑 MySQL？恭喜你，要下岗了](https://mp.weixin.qq.com/s/3TralIZh4V700mBjjx2FOg)

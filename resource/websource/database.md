@@ -4,8 +4,12 @@
 + [运维干货｜Oracle、MySQL、PostgreSQL、OB、万里开源数据库比较系列: IN ( MAX Subquery )](https://mp.weixin.qq.com/s/g8Pzn_i4HqtKqlhVQAUD4Q)
 + [三种东西永远不要放到数据库里](https://my.oschina.net/justjavac/blog/66623)
 + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://my.oschina.net/selectdb/blog/11323990)
++ [数据库内核工程师必读论文清单](https://mp.weixin.qq.com/s/GGR4QtWYtLFCpoz3Z2vmQQ)
++ [生产环境-死锁分析](https://mp.weixin.qq.com/s/WX7JJRgCflYslsVosimBBg)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
++ [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
++ [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
 + [SQL的执行顺序以及它的重要性与元数据](https://mp.weixin.qq.com/s/jq3KwBJJMxl61GR-fUsv-g)
 + [数据库连接：隐藏的性能杀手？](https://mp.weixin.qq.com/s/DtJ5m7mW-GTmmFL7qMJb2g)
 + [80 个常见的 SQL 面试问题与答案](https://mp.weixin.qq.com/s/5ZrVbRtYxKSWOnlJ3F6cdA)
@@ -33,6 +37,7 @@
 # 本地数据库
 ## 技术方案
 + [NoSQL爆炸时代，数据库的分类及使用场景怎样总结？](https://mp.weixin.qq.com/s/lyWndojigWkCL6nc2rKenQ)
++ [数据库开发设计规范（通用）](https://mp.weixin.qq.com/s/I1cZjnxnPJnyaJp3LCoqaQ)
 + [从 MongoDB 到 PostgreSQL 的大迁移](https://my.oschina.net/u/6148470/blog/11050282)
 + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://my.oschina.net/u/4455409/blog/11049166)
 + [分库分表介绍](https://mp.weixin.qq.com/s/HXRDxSDKnFtPyTfCdSEg5A)
@@ -47,6 +52,8 @@
 + [MySQL 如何实现将数据实时同步到 ES ？](https://mp.weixin.qq.com/s/RFPYqVIoIIwPVA95FTCrgA)
 + [被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/OlB4lcAsFCnZ6vtyxAEj4A)
 + [高并发下千万数据量的Mysql中热点数据如何持续保留在Redis中](https://mp.weixin.qq.com/s/fJ7UJJ-6D5ylDjw7preCwA)
+### 读写分离&分库分表
++ [读写分离最全详解(图文全面总结)](https://mp.weixin.qq.com/s/FVOi-eR2T3UHV89l7t7G5w)
 ## 原理解析
 + [超级底层：10WQPS/PB级海量存储HBase/RocksDB，底层LSM结构是什么？](https://mp.weixin.qq.com/s/YFrc8J0qmc_ppl9T9-921w)
 + [数据库并发控制：脏读、幻读与不可重复读的全面剖析](https://mp.weixin.qq.com/s/JoDxomYqumUbMJrv8oPhWg)
@@ -57,11 +64,16 @@
 ## 关系型数据库
 ### MYSQL
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
++ [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
++ [MySQL 外连接、内连接与自连接的区别？](https://mp.weixin.qq.com/s/PVORJcT20nQa_dNt9Rrpyw)
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
++ [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
 + [面试官：MySQL MVCC是如何实现的？MySQL又是如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/VKt_klGpGdamjhFuyBR_Ag)
 + [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/tkB6L2_MKSwMOo0TsjIeRA)
++ [(十四)全解MySQL之各方位事无巨细的剖析存储过程与触发器！](https://mp.weixin.qq.com/s/KR7zHI3AeTS6adWfTBV4nQ)
 + [MySQL数据如何同步到Elasticsearch](https://mp.weixin.qq.com/s/MT2hGK_8ef8a66hxHhmfOQ)
++ [(十六)MySQL调优篇：单机数据库如何在高并发场景下健步如飞？](https://mp.weixin.qq.com/s/TAoZSGbcmZULARWqphHIwQ)
 + [mysql常用命令总结](https://mp.weixin.qq.com/s/6WwOOU2nMZ8zpGHatNQ44Q)
 + [干货！解析binlog的三种实现手段](https://mp.weixin.qq.com/s/2C_AfPWMcWwkJKf6P07C8g)
 + [(十五)MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://mp.weixin.qq.com/s/jxbpxOAJdKKHKO7tt-A8FQ)
@@ -132,6 +144,7 @@
 + [MySQL又一大坑！测试没测出来，被客户叼了](https://mp.weixin.qq.com/s/iJpheTNA9K0hlYKGaSobZA)
 #### 锁
 + [聊聊乐观锁与悲观锁](https://mp.weixin.qq.com/s/3CWIR2HaRj_PfY6iOSIjKg)
++ [面试官：MySQL中有哪几种锁？它们的用途是什么？有什么区别和联系？](https://mp.weixin.qq.com/s/wLUUI_pzw_SVDxMUMOUEBQ)
 + [什么是存储引擎，为什么需要了解它？](https://mp.weixin.qq.com/s/zSFL9ZIxnlqoTgbTEHfDvA)
 + [面试必问：MySQL死锁 是什么，如何解决？（史上最全）](https://mp.weixin.qq.com/s/jYRMnMNxiFVBu183jiVqfg)
 + [真实线上问题之数据库死锁如何解决？](https://mp.weixin.qq.com/s/2ScZ7bDQdOGghMhjszJ83w)
@@ -179,8 +192,11 @@
 ## NOSQL
 ### REDIS
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
++ [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
 + [Redis亮剑！官方搜索引擎横空出世，性能飙升秒杀ES，重构搜索新时代！](https://mp.weixin.qq.com/s/nz5YpLKXdsJgH-uFA1iDwg)
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
++ [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
++ [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
 + [面试官：为什么 Redis 不立刻删除已经过期的数据？](https://mp.weixin.qq.com/s/xkHyitlakAAhVEm86u_I_Q)
 + [面试官问我 AOF 重写机制的流程，我回答不上来被 Pass 了！](https://mp.weixin.qq.com/s/ZxiFsYZL43KusKSNp0pLJw)
 + [什么是Big key和Big key的定位以及解决方案](https://mp.weixin.qq.com/s/N3SDFNIy5Hr1PqMo-g8YQw)

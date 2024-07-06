@@ -1,4 +1,12 @@
 # 语言相关
+## 基础
++ [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
++ [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
++ [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
++ [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
++ [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
++ [闭包与装饰器：Python函数的两大法宝，编程不再困难！](https://mp.weixin.qq.com/s/0QUIU7NWwD-qeI2vVSkxeg)
++ [Python的属性管理：深入理解@property装饰器及其getter和setter方法](https://mp.weixin.qq.com/s/TVo_cPE_vGJQZHXZSsShGQ)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -19,9 +27,9 @@
 ## 工具
 + [297K Star超强!!!3万多个公开可用API接口](https://mp.weixin.qq.com/s/IpmxAsq6ODZGTZn67xSy6g)
 ## 实践
-+ [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
-+ [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
++ [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [Python数据库编程的10个核心技巧](https://mp.weixin.qq.com/s/0zXpc3JAnV7iG6jkWtQyzA)
 + [100个python代码大全(三十二)](https://mp.weixin.qq.com/s/4qaUI0nNaD_mzERD9bJz5g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python绘制ROC曲线](https://mp.weixin.qq.com/s/X09G7VlWr2irDK9GAHPpag)
@@ -44,12 +52,10 @@
 + [Python 中 2 种常用数据可视化库：Bokeh 和 Altair](https://my.oschina.net/u/4526289/blog/11053061)
 + [如何使用 Plotly 和 Dash 进行数据可视化](https://my.oschina.net/u/4526289/blog/11052597)
 + [实践探讨 Python 如何进行异常处理与日志记录](https://my.oschina.net/u/4526289/blog/11054810)
-+ [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
 + [Python 数据库编程全指南 SQLite 和 MySQL 实践](https://my.oschina.net/u/4526289/blog/11049428)
 + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
 + [详解 Python 中可视化数据分析工作流程](https://my.oschina.net/u/4526289/blog/11105722)
-+ [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
 + [Python字符串处理常用的30种操作](https://mp.weixin.qq.com/s/uCk2XJKZ0zsaxVpRi0lNzQ)
 + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
 + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s/6_d1koWllGT8ovRnPq5SxQ)
@@ -64,3 +70,5 @@
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
+## 爬虫
++ [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)

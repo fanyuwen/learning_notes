@@ -3,6 +3,10 @@
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
++ [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
++ [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
+### 学习资源
++ [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
 ### CUDA
 + [C++ CUDA .cu 文件](https://mp.weixin.qq.com/s/D4iB3DSXerL3B4nER3N4wg)
 + [C++ CUDA 线程 线程块 网格](https://mp.weixin.qq.com/s/euMUES_8F08evKHhn2Q49w)

@@ -10,6 +10,7 @@
 ## linux
 ### 实践
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
++ [Linux会话保持命令Screen教程](https://mp.weixin.qq.com/s/sZoQbrI7iiGWA0IoLkiOWg)
 + [Linux高性能编程_无锁队列](https://mp.weixin.qq.com/s/4tnAYIry-kwS0PvDTxN-qQ)
 + [手动释放Linux操作系统的buff/cache内存缓存](https://mp.weixin.qq.com/s/6RQzFV8otUA4HUMDgNzu3w)
 + [全网最全 Linux 命令总结，建议收藏！](https://mp.weixin.qq.com/s/jjPPObgclLtRQvJynV2ifQ)
@@ -29,6 +30,8 @@
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
+### 相关信息
++ [【系统安全】Linux系列系统OpenSSH出现漏洞（CVE-2024-6387）](https://mp.weixin.qq.com/s/b_kr5OHaFmDod51c8nJ2VQ)
 # 计算机基础知识
 ## CPU
 + [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)
@@ -38,6 +41,8 @@
 + [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
 ## 网络基础
 + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
++ [探索NAT：网络地址转换技术的深度解析](https://mp.weixin.qq.com/s/r_NWzPoOYvEo72HVTideEw)
++ [揭秘数通知识：什么是NAT？NAT是怎么工作的？](https://mp.weixin.qq.com/s/5WCJz4kt4LGTQAAPOIDcUQ)
 + [超实用的80个网络基础知识！](https://mp.weixin.qq.com/s/3f6vhB6xp7mkDTbS8vWU8w)
 + [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s/nPIUzppy33MZVwmCq8-e4w)
 + [面试官：解释一下对称加密和非对称加密及其在HTTPS中的应用](https://mp.weixin.qq.com/s/5qrcoXNxZzwEk9iCVpttHQ)
@@ -48,6 +53,7 @@
 + [什么是跨域以及如何解决？通俗易懂带你彻底搞定](https://my.oschina.net/helloworldnet/blog/5585361)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/iKlBnuREzC92TjWpqsdibw)
 + [RPC相关问题（2）](https://mp.weixin.qq.com/s/QuasAvK-bkZK4cWq2Ny-VA)
++ [localhost和127.0.0.1的区别](https://mp.weixin.qq.com/s/zhErSZZFB1Eb2u3Lqf5d9w)
 ### HTTP/HTTPS
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
@@ -59,9 +65,11 @@
 + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
 + [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
 + [Socket 的半包，粘包与分包的问题](https://my.oschina.net/OutOfMemory/blog/95857)
++ [【网络协议】精讲TCP通信原理！图解超赞超详细！！！](https://mp.weixin.qq.com/s/80ox9f6RxeebS48ruvs5mw)
 ### nginx
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
++ [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/iah2Mz20XpJWuCpSFpXPlg)
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
 + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
 ## web

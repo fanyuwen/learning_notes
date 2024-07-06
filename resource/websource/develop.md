@@ -8,6 +8,7 @@
 + [架构之问32：如何设计高性能、高可用、高并发的技术架构？](https://mp.weixin.qq.com/s/z1Y_ox_YDmYkQrQkjJ_KLQ)
 + [服务治理怎么做：降级、熔断、全链路压测](https://mp.weixin.qq.com/s/2oyZwui8XnCSLK13MSH2zg)
 + [弹性伸缩：高可用架构利器（架构+算法+思维）](https://mp.weixin.qq.com/s/YvrJJcFI1ROorXv0MhSEbw)
++ [软件架构技术10：高性能架构设计模式-高并发读](https://mp.weixin.qq.com/s/lRqHSux9TYlkf730IB7WUg)
 + [架构实战：架构设计文档模板](https://mp.weixin.qq.com/s/09sk4jVYRZKCoRYhZ6kMUg)
 + [应用分层架构最佳实践：Alibaba COLA 4.0](https://mp.weixin.qq.com/s/9YhdYl31CPgvOLo9RzGGQQ)
 + [架构师必知的11种API性能优化方法](https://mp.weixin.qq.com/s/w_63PFzWNcQO0GKrx_T62Q)
@@ -27,6 +28,7 @@
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
 ## 微服务
++ [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
 + [微服务架构设计模式详解(4种常见模式)](https://mp.weixin.qq.com/s/yrk_ogdNTJLkWXCBDyN1jQ)
@@ -113,6 +115,7 @@
 + [面试官：假如有几十个请求，如何去控制并发？](https://mp.weixin.qq.com/s/KOCksUvyd-q7xTdkOwwtRQ)
 + [百亿数据存储-高并发搜索如何设计？](https://mp.weixin.qq.com/s/92II6h4PotKdpyY2vY4Z9A)
 + [系统设计 | 秒杀系统设计](https://mp.weixin.qq.com/s/u7yp_SpJS18kkzoXdUNXCw)
++ [秒杀圣经：10Wqps高并发秒杀，16大架构杀招，帮你秒变架构师](https://mp.weixin.qq.com/s/_xFqDks7tVoGCjh42XE7vA)
 + [设计百万QPS的短链服务](https://mp.weixin.qq.com/s/_6neJlc0Jc0w8JMfqnTr-g)
 + [四连问：API 接口应该如何设计？如何保证安全？如何签名？如何防重？](https://mp.weixin.qq.com/s/oJ_0kIKytFOMe7b5-UTgaw)
 + [所有 CRUD 程序员，都应该知道的 CQRS 架构！](https://mp.weixin.qq.com/s/17wlFJ9Thgeva6qrbTO2Tw)
@@ -121,6 +124,7 @@
 ## 功能
 ### 幂等
 + [什么是接口幂等性？不具备幂等性的接口会产生什么危害？](https://mp.weixin.qq.com/s/LoUPUSUHN5-YzjqraMvZcA)
++ [幂等性是什么？幂等性方案详解(5大步骤原理)](https://mp.weixin.qq.com/s/9kBEccKg3BhnmLp1q7ySQg)
 + [幂等性：构建稳健分布式系统的关键](https://mp.weixin.qq.com/s/NwqnwdfbojrKqGfUFBizPg)
 + [系统设计中的幂等性原则：深度解析、简便实现与防重复提交策略](https://mp.weixin.qq.com/s/7KGLJh1ARFKUcGxW3vgzdQ)
 + [美团面试：10wqps高并发，如何防止重复下单？](https://mp.weixin.qq.com/s/7-F_t4TDbGlFbL7AmQuP6g)
@@ -163,9 +167,13 @@
 + [请求合并的3种技巧，性能起飞！](https://mp.weixin.qq.com/s/hYqZIi436nIinRwj_rxjog)
 + [该从哪些方面提升系统的吞吐量？](https://mp.weixin.qq.com/s/NMEUOhajKtqrASkn8Iwung)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
+## 跨域
++ [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
++ [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
 ## 安全
 + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/KQiskiLGFMYT8bo9YtAB_g)
++ [业务开发时，API 不能对外暴露怎么办？](https://mp.weixin.qq.com/s/JbCukZq1pUBAq_ug4Z_wkA)
 + [常见加密算法解析 - 2](https://my.oschina.net/u/2512041/blog/4377017)
 + [深入理解OAuth 2.0：原理、流程与实践](https://mp.weixin.qq.com/s/lAWgJ3oegR_edo-OqVjP0w)
 + [敏感数据不加密就提交到GitHub，你怕不是没经历过社会的毒打哦](https://mp.weixin.qq.com/s/fsMBgOP9blx2Mf5RZano2Q)
@@ -194,13 +202,14 @@
 + [接口设计的18条军规](https://mp.weixin.qq.com/s/viJaTMM58e8s7QtNFMWdkA)
 + [谷歌开源内部代码评审规范](https://my.oschina.net/u/3727380/blog/4440075)
 + [从一个 bug 看项目间的信息同步问题](https://my.oschina.net/u/2512041/blog/4377101)
-+ [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
 + [整理常见的网站在线人数统计方案](https://mp.weixin.qq.com/s/V461SLnil7ih3eXQTZ1Rcg)
 + [精简代码实战：核心系统缩减80%代码](https://mp.weixin.qq.com/s/30PHdlnGZ4lGm3H5VeLRWQ)
 + [记一次服务问题的追踪过程](https://my.oschina.net/u/2512041/blog/4377128)
 + [面试官：你们项目是如何实现流程编排能力的，流程的并行冲突如何解决的](https://mp.weixin.qq.com/s/QVsJG1VY5ulQN2MT1dWBYA)
 + [算法交易实战日记（十八） —— 网格交易中的细节：网格数与长期收益率的关系](https://mp.weixin.qq.com/s/gDxfmX2m8dURnhg9acDpkg)
 + [【SoC】看门狗(Watch Dog)定时器的原理与使用](https://mp.weixin.qq.com/s/drLrmfUCXNIutYBhpGU_5w)
+# 测试相关
++ [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
 # 领域相关
 + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
@@ -216,6 +225,9 @@
 + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
 + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
 + [万字长文浅谈系统稳定性建设](https://mp.weixin.qq.com/s/ySdAsk15H1aWPhOR4qW8Ag)
+## 领域知识
+### JSON
++ [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 ## 开发流程
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)

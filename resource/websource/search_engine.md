@@ -7,3 +7,4 @@
 + [百亿级存储架构： ElasticSearch+HBase 海量存储架构与实现](https://mp.weixin.qq.com/s/ZOAyUVKgAx7NM8YU3FhmEg)
 + [ElasticSearch8.x集群搭建记录分享](https://mp.weixin.qq.com/s/VPwQBIrwrvhVOCVaIKxGiw)
 + [Elasticsearch max_result_window 含义及参数调整](https://mp.weixin.qq.com/s/xvm6M4WCQqvX5mo77r6cDA)
++ [Windows环境下elasticsearch8.x部署（图片比较多）](https://mp.weixin.qq.com/s/989jNEv5uGTB7FaTZeg-4w)

@@ -5,6 +5,9 @@
 + [看完这个，以后面试再也不怕什么设计模式了！](https://mp.weixin.qq.com/s/Aty4HDIHsGHDm9PW7WVKmw)
 + [从此告别 if-else：在多支付渠道中这个设计模式无敌好用！](https://mp.weixin.qq.com/s/XBSySU8nemrVBEubTgsG-w)
 + [进阶玩法：策略+责任链+组合实现合同签章](https://mp.weixin.qq.com/s/0xyvnsxKYW6sV_5w0rMXNg)
+# 原则
++ [接口隔离原则，到底什么需要隔离？](https://mp.weixin.qq.com/s/JpezPV3BQKI5-VnNvRZZgw)
++ [依赖倒置，究竟什么被倒置了？](https://mp.weixin.qq.com/s/lvMiQUG_Pd6wufQlYNXicA)
 # 单例模式
 + [项目中常用到的设计模式之单例模式详解](https://mp.weixin.qq.com/s/yfYZwIJc7RqLExO01ZOu0Q)
 # 工厂模式
@@ -25,3 +28,5 @@
 + [责任链模式的高级用法：多级校验、工作流，这样写代码才足够优雅！](https://mp.weixin.qq.com/s/3dCTWg1tj5ONXWoraQg4Eg)
 + [让代码更简洁、更优雅：经典设计模式责任链模式在实际工作中的应用与实现。](https://mp.weixin.qq.com/s/pqqiePMpeNb2vwcgR8sdJQ)
 + [使用责任链模式重写条件判断](https://mp.weixin.qq.com/s/LLYT4eskXh_r73mG8cVXAw)
+# 观察者模式
++ [优化代码结构-观察者模式](https://mp.weixin.qq.com/s/z4B5n8bU1Lot3J_XNTYkzw)

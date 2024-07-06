@@ -119,6 +119,7 @@
 + [《上海市卫生健康“信息技术应用创新”白皮书》将C#/.NET认定为“A组件”——需要替换](https://mp.weixin.qq.com/s/j1UTr5LGeucwI7KdserGaQ)
 + [30岁，才是人生的开始](https://mp.weixin.qq.com/s/eiCOYmS8ll49v9teLHyPMw)
 + [3 个令人惊艳的 GitHub 项目，诞生了！](https://mp.weixin.qq.com/s/UxSSsSdd6FUBbWAR_k6HSw)
++ [我和 Kindle 中国的最后 24 小时](https://mp.weixin.qq.com/s/yO8XP6sxCp-h_SlTMPR1xQ)
 ## 个人综合
 ### 面试
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)

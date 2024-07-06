@@ -46,7 +46,10 @@
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
 # 架构相关
 + [实践总结｜前端架构设计的一点考究](https://my.oschina.net/u/4662964/blog/11051025)
+# 实践
++ [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
 # 杂谈
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [常用的 HTML5 移动应用开发框架比较](https://my.oschina.net/justjavac/blog/68936)
 + [28 个你必须知道的 HTML5 的新特性，技巧以及技术](https://my.oschina.net/justjavac/blog/68140)
++ [推荐几个还在疯狂输出的前端大佬](https://mp.weixin.qq.com/s/ulkFMO0Vyl6OiHPZDckY4g)

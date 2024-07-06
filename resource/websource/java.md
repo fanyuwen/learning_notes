@@ -11,6 +11,7 @@
 + [Java 原码，反码和补码](https://my.oschina.net/OutOfMemory/blog/109180)
 + [面试官：告诉我为什么static和transient关键字修饰的变量不能被序列化？](https://mp.weixin.qq.com/s/LpZIQkcfsjzawGbkCjXcVQ)
 + [java 中 equals 和 == 的区别](https://my.oschina.net/justjavac/blog/72973)
++ [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
 ## 新语言特性
 + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
 + [我有点想用 JDK 21 了~](https://mp.weixin.qq.com/s/EZOZnsY4EfCB7cjJzVCkqw)
@@ -231,6 +232,7 @@
 + [Spring6.2震撼来袭，多线程实例化Bean应用启动速度飙升！](https://mp.weixin.qq.com/s/PKmt3RDtlPvm6hY9YYufow)
 ### web
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
++ [深度长文解析SpringWebFlux响应式框架15个核心组件源码](https://mp.weixin.qq.com/s/t1S-rsvJFQ0HkwSD5gMyUw)
 + [byte[]、MultipartFile、File转换一次看个够](https://mp.weixin.qq.com/s/1ljMONRsmKixi14O6lUPlA)
 + [掌握Spring MVC中自定义注解的妙用，为你的代码增添整洁与优雅。](https://mp.weixin.qq.com/s/SKFlRssK8YkXLegJlkkgNQ)
 + [Controller层代码就该这么写，简洁又优雅！](https://mp.weixin.qq.com/s/SPiEWGFH4BgFl1kffWBS4A)
@@ -303,6 +305,7 @@
 + [阿里也出手了！Spring Cloud Alibaba AI初体验](https://mp.weixin.qq.com/s/eclFpjs1SZTJUPWrgRqRDg)
 ### boot
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
++ [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
 + [4 万字 40 道SpringBoot 经典面试题总结（2024修订版）](https://mp.weixin.qq.com/s/nmAebmXwnYlau2dXCJsYgQ)
 + [使用Spring Boot和mkcert解决本地及局域网HTTPS访问](https://mp.weixin.qq.com/s/jo2X_jw34atGdon2NgA4wQ)
@@ -588,6 +591,7 @@
 ## logger
 + [9款日志采集和管理工具对比，选型必备！](https://mp.weixin.qq.com/s/b7gFhLYVaVmgF2zGKvB6Yw)
 + [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
++ [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
 + [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
 ## nacos
 + [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
@@ -596,6 +600,7 @@
 + [ASM 入门篇](https://my.oschina.net/OutOfMemory/blog/5076032)
 ## 其它工具
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
++ [全能文件解析神器：探索Apache Tika的无限可能](https://mp.weixin.qq.com/s/CkmOzUtm-srgZhNcJJZUmA)
 + [离开 Java，寻找更佳语言的 10 大理由](https://my.oschina.net/justjavac/blog/66629)
 + [Spock 测试框架实践](https://my.oschina.net/u/2512041/blog/4376976)
 + [赋能转转回收：LiteFlow可视化编排方案设计](https://mp.weixin.qq.com/s/Go6cDZvuvN-NH_gxcg77uw)

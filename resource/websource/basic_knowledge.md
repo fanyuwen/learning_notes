@@ -30,6 +30,8 @@
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
 # 计算机基础知识
+## CPU
++ [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)
 ## 网络基础
 + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)

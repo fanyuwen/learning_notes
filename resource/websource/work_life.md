@@ -74,6 +74,7 @@
 + [一款高颜值的 MySQL 管理工具](https://mp.weixin.qq.com/s/eQQzZN2ssacfCAff7aI1DQ)
 + [完全开源的现代化IDE正式发布：支持云端和桌面、兼容VS Code扩展、全球最大开源基金会打造](https://mp.weixin.qq.com/s/nL9XqFLDNr5vBlsoShkCDQ)
 + [一个合格的程序员应该读过哪些书](https://my.oschina.net/justjavac/blog/66624)
++ [EAP开发：如何进行有效的需求沟通？](https://mp.weixin.qq.com/s/vFnV8ywos-cAf6ILtDL8aw)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 ## 行业资源
@@ -117,5 +118,9 @@
 + [《上海市卫生健康“信息技术应用创新”白皮书》将C#/.NET认定为“A组件”——需要替换](https://mp.weixin.qq.com/s/j1UTr5LGeucwI7KdserGaQ)
 + [30岁，才是人生的开始](https://mp.weixin.qq.com/s/eiCOYmS8ll49v9teLHyPMw)
 + [3 个令人惊艳的 GitHub 项目，诞生了！](https://mp.weixin.qq.com/s/UxSSsSdd6FUBbWAR_k6HSw)
-## 面试
+## 个人综合
+### 面试
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)
++ [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)
+### 博客
++ [从0开始搭建个人博客《第七期：后端服务部署教程》](https://mp.weixin.qq.com/s/u_1dNSKoyVBBYRE_yF-mRA)

@@ -3,17 +3,9 @@
 + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)
 + [Kubernetes原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/c2UUslAa0xVG1IBUhVRoBA)
 + [Kubernetes架构最全详解(8大架构组件)](https://mp.weixin.qq.com/s/suTqkvgmsMCqdvuvoZHtyw)
-## 工具
-+ [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
+# 架构方面
 + [Docker架构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/XoePlVMTfusJM8SzQ-subA)
 + [Prometheus 架构指南](https://mp.weixin.qq.com/s/-C4zIm1baXsUVWtgI-oz2Q)
-+ [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
-+ [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
-+ [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
-+ [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
-+ [从 Docker Hub 拉取镜像受阻？这些解决方案帮你轻松应对](https://my.oschina.net/rainbond/blog/11212890)
-+ [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
-# 架构方面
 + [K8s 技术全景：架构、应用与优化](https://my.oschina.net/u/6723965/blog/11051131)
 + [基于 K8s 容器集群的容灾架构与方案](https://my.oschina.net/u/3874284/blog/11047123)
 + [2024 年的云原生架构需要哪些技术栈](https://my.oschina.net/crossoverjie/blog/11051812)
@@ -24,7 +16,21 @@
 + [丝滑的打包部署，一套带走！](https://mp.weixin.qq.com/s/yfDN9Vb3peR11XnxRxns-Q)
 + [云原生技术最全详解(图文全面总结)](https://mp.weixin.qq.com/s/yEmrmHC4SCZCLcTzQmhK2Q)
 + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
-+ [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
+## docker
++ [如何缩小docker容器镜像](https://mp.weixin.qq.com/s/1Rswv3svndVZ-XvFR-hgFg)
++ [docker镜像缩小神器](https://mp.weixin.qq.com/s/44UTKu7NXa8zTPnr6xXXXg)
++ [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
 + [在 Docker 中跑 MySQL？恭喜你，要下岗了](https://mp.weixin.qq.com/s/3TralIZh4V700mBjjx2FOg)
-+ [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
++ [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
++ [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
++ [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
++ [从 Docker Hub 拉取镜像受阻？这些解决方案帮你轻松应对](https://my.oschina.net/rainbond/blog/11212890)
++ [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
 + [【好玩儿的Docker项目】保存网页、稍后阅读，自建 Wallabag 服务，搭配RSS使用更佳！](https://mp.weixin.qq.com/s/aBgXsyJhj39QsrAae87FsQ)
+## k8s
++ [一篇文章精通K8S的统一访问入口-Service](https://mp.weixin.qq.com/s/wdsaWdAed0U9YbRqdWVP8g)
++ [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
++ [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
++ [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)
+## Prometheus
++ [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)

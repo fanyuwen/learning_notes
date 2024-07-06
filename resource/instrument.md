@@ -49,6 +49,7 @@
 + graphql的java实现 [graphql-java](https://www.graphql-java.com/)
 + java纯函数式编写库 [vavr](https://docs.vavr.io/)
 + 全文搜索引擎工具 [lucene](https://lucene.apache.org/)
++ 上下文资源分析工具 [tika](https://tika.apache.org/)
 
 ### JVM_FRAMEWORK
 + 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/) [helidon](https://helidon.io/)

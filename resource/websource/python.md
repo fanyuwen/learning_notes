@@ -13,7 +13,15 @@
 + [Trio，一个牛逼的python库](https://mp.weixin.qq.com/s/miGucUPviRC4yRUMDjm8zQ)
 + [探索 Python 事件驱动编程：pymitter 入门指南](https://mp.weixin.qq.com/s/MvE56_xJSMhG9ZVHHL-Epw)
 + [datasets,一个强大的python库](https://mp.weixin.qq.com/s/WjgMxsmF3DHUHjiRnc5sBQ)
+### Numpy
++ [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
+## 工具
++ [297K Star超强!!!3万多个公开可用API接口](https://mp.weixin.qq.com/s/IpmxAsq6ODZGTZn67xSy6g)
 ## 实践
++ [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
++ [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
++ [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
++ [100个python代码大全(三十二)](https://mp.weixin.qq.com/s/4qaUI0nNaD_mzERD9bJz5g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python绘制ROC曲线](https://mp.weixin.qq.com/s/X09G7VlWr2irDK9GAHPpag)
 + [Python 编码时应该注意的几件事情](https://my.oschina.net/justjavac/blog/69309)

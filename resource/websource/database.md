@@ -36,6 +36,7 @@
 + [从 MongoDB 到 PostgreSQL 的大迁移](https://my.oschina.net/u/6148470/blog/11050282)
 + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://my.oschina.net/u/4455409/blog/11049166)
 + [分库分表介绍](https://mp.weixin.qq.com/s/HXRDxSDKnFtPyTfCdSEg5A)
++ [秒杀面试官之分库分表，简直不要太直白](https://mp.weixin.qq.com/s/-i7CwgY-xJmO1JGsP4IKjQ)
 + [分库分表最全详解(图文全面总结)](https://mp.weixin.qq.com/s/YtOVz_xDiqpfeSBK6OjyiA)
 + [OLAP 进阶之 “性能提升”](https://my.oschina.net/u/5588928/blog/11051631)
 + [大量数据如何做分页处理](https://my.oschina.net/u/4526289/blog/11051586)
@@ -53,6 +54,7 @@
 ## 关系型数据库
 ### MYSQL
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
++ [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
 + [面试官：MySQL MVCC是如何实现的？MySQL又是如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/VKt_klGpGdamjhFuyBR_Ag)
 + [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/tkB6L2_MKSwMOo0TsjIeRA)
@@ -167,6 +169,8 @@
 + [(六)MySQL索引原理篇：深入数据库底层揭开索引机制的神秘面纱！](https://mp.weixin.qq.com/s/4ztErqEWKtr19PJG5T8bUw)
 + [2024年你不懂使用了索引反而变慢如何排查你就 OUT 了](https://mp.weixin.qq.com/s/jmWH-WQSA3auiH69tr0dsg)
 + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
+### PostgreSQL
++ [很详细的PostgreSQL安装部署教程](https://mp.weixin.qq.com/s/BvObZ6Kk_FYK6vUc0UW_Rg)
 ### SQLSERVER
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
 ## NOSQL
@@ -257,6 +261,8 @@
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
 ### CLICKHOUSE
 + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
+### InfluxQL
+[分析时序数据：如何从 InfluxQL 迁移到 SQL](https://mp.weixin.qq.com/s/KEscIB7MfRoowMwaHI_oeg)
 ## 分布式数据库
 + [分布式数据库技术的演进和发展方向](https://my.oschina.net/u/4526289/blog/11049010)
 ## 分布式对象存储

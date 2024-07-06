@@ -159,6 +159,7 @@
 + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)
 ## 性能
 + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
++ [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
 ## 安全
 + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
 + [常见加密算法解析 - 2](https://my.oschina.net/u/2512041/blog/4377017)
@@ -212,6 +213,7 @@
 ## 开发流程
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
++ [【规范】Git分支管理，看看我司是咋整的](https://mp.weixin.qq.com/s/8LRB9k-4EsgSN1lCy5az8A)
 + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)
 + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
@@ -219,3 +221,5 @@
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
 ### 团队管理
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
+## 数据治理
++ [美团的数据治理实践](https://mp.weixin.qq.com/s/zRgPeq2Aq-epPCcqZa-5oQ)

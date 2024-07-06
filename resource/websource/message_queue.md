@@ -17,7 +17,9 @@
 + [RocketMQ 和 Kafka 关于消息队列的推拉模式是怎么做的？](https://mp.weixin.qq.com/s/dbdNweIyDtJBlexa5c0oGA)
 # KAFKA
 + [一文搞懂 Kafka consumer 与 broker 交互机制与原理](https://my.oschina.net/u/6990971/blog/11049751)
++ [Kafka消费端怎样保证消息不丢失？真正的处理方式其他文章中竟然没有见过](https://mp.weixin.qq.com/s/FmbJsGoXW24o1xXsqQ--Fw)
 + [Kafka如何保证消息不被重复消费？](https://mp.weixin.qq.com/s/IrR-rFXlqU3-COmVkP-n3w)
++ [彻底搞懂Kafka生产消费流程，这篇文章就够了！](https://mp.weixin.qq.com/s/do-a0XMo-8pHDZ-IarKSbA)
 + [kafka不同场景下的参数调优](https://mp.weixin.qq.com/s/Y0xaDnxNto6SK8f5tMwGVw)
 + [Kafka最全详解(图文全面总结)](https://mp.weixin.qq.com/s/DQRX_49mGY3E-aDE0vHGcg)
 + [Kafka工作原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/gHjQOR9-Yps7NP1qSHDPbg)
@@ -37,6 +39,7 @@
 + [分布式事务实现方案：一文详解RocketMQ事务消息](https://mp.weixin.qq.com/s/L3_2423A7EIwShAWeyxdqg)
 # RABBITMQ
 + [RabbitMQ如何保证消息可靠性？](https://mp.weixin.qq.com/s/PkKcFdAyTlrWZ14pzuUe2A)
++ [这才是RabbitMQ打开的正确姿势 , 七种消息模型理论 + 图文 + 代码解析, 懂了](https://mp.weixin.qq.com/s/7ivKSwzpiijE60UfJtXQ0w)
 + [面试官：引入 RabbitMQ 后，如何保证全链路数据 100% 不丢失？](https://mp.weixin.qq.com/s/ZPz3GdWp8PLdn1OU36w81Q)
 # PULSAR
 + [Bookie 存储架构源码剖析｜得物技术](https://my.oschina.net/u/5783135/blog/11194314)

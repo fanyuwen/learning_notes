@@ -4,9 +4,11 @@
 + [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
++ [Python字符串](https://mp.weixin.qq.com/s/uqUOTPac4oqBuV5EHHy1jQ)
 + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
 + [闭包与装饰器：Python函数的两大法宝，编程不再困难！](https://mp.weixin.qq.com/s/0QUIU7NWwD-qeI2vVSkxeg)
 + [Python的属性管理：深入理解@property装饰器及其getter和setter方法](https://mp.weixin.qq.com/s/TVo_cPE_vGJQZHXZSsShGQ)
++ [python---核心函数 1](https://mp.weixin.qq.com/s/V5zX3tuCX9ccH5pVQqPloQ)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)

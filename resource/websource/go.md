@@ -1,6 +1,8 @@
 # 语言相关
 ## 源码
 + [sync.Map 源码分析](https://my.oschina.net/qiangmzsx/blog/1827059)
+## 新特性
++ [Go 1.23新特性前瞻](https://mp.weixin.qq.com/s/rODxrjFS4lRbnIMcV2j2sg)
 # 话题
 + [业内大佬怒喷：Go 正朝着错误的方向发展](https://mp.weixin.qq.com/s/WM7E-1aHu12l75FGq3RDtA)
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)

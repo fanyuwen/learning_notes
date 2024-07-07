@@ -47,6 +47,7 @@
 + [这道面试题连续拦下5个人，公司只好删掉了。](https://mp.weixin.qq.com/s/jFFaSWVyQeMV2yxu6GT_iA)
 ## 代码质量
 + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
++ [一句注释引发的思考 - 论代码质量](https://my.oschina.net/jijunjian/blog/11335481)
 + [26 个提升 java 性能需要注意的地方](https://my.oschina.net/justjavac/blog/66628)
 + [依赖注入：打造高内聚，低耦合的代码艺术](https://mp.weixin.qq.com/s/nO6CwX7J515L5K-ZXSs_pg)
 + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
@@ -73,9 +74,12 @@
 # 底层
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [深入理解 System.gc()](https://mp.weixin.qq.com/s/W2nPL638fAKc5aGcWxDr6w)
++ [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
 + [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
 + [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
++ [InheritableThreadLocal 是如何实现的父子线程局部变量的传递](https://mp.weixin.qq.com/s/UPG0UqsrxYjPRLT0oQVBIw)
 + [谈谈你对公平锁和非公平锁的理解](https://mp.weixin.qq.com/s/hT9FgjmR_U7p5Wm33vuRwQ)
 + [为什么 main 方法是 public static void ？](https://mp.weixin.qq.com/s/kJM1gAstBIHFHvSQ9DKMlQ)
 + [日志堆栈不打印问题以及解决方法](https://mp.weixin.qq.com/s/hHmjS4Jhc4M1PoKFRzaF9A)
@@ -241,6 +245,7 @@
 + [Spring6.2震撼来袭，多线程实例化Bean应用启动速度飙升！](https://mp.weixin.qq.com/s/PKmt3RDtlPvm6hY9YYufow)
 ### web
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
++ [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [如何在Spring中通过自定义注解EnumValue校验枚举值](https://mp.weixin.qq.com/s/W8EfPv16W-eMPctw6QjY6Q)
 + [深度长文解析SpringWebFlux响应式框架15个核心组件源码](https://mp.weixin.qq.com/s/t1S-rsvJFQ0HkwSD5gMyUw)
 + [byte[]、MultipartFile、File转换一次看个够](https://mp.weixin.qq.com/s/1ljMONRsmKixi14O6lUPlA)
@@ -277,10 +282,10 @@
 + [@Transactional(readOnly=true) 真的是提高性能的灵丹妙药吗？](https://mp.weixin.qq.com/s/cS3281XdjMV0TQ-1BUxBCA)
 + [公司新来一个同事，把 @Transactional 事务注解运用得炉火纯青。。](https://mp.weixin.qq.com/s/L2Bt7WYzge5aU3Qfi-EoeQ)
 + [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/hIOWSEAvMmhiUoEJwBnM1g)
-+ [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/ueK9-8o-G38M9IoIBIHDWA)
 + [@Transactional 中使用线程锁导致了锁失效，震惊了...](https://mp.weixin.qq.com/s/nZuWekQY6j1OMNU5ZdLeeQ)
 + [为什么你害怕用@Transactional？](https://mp.weixin.qq.com/s/JGh7PX5UaKbDCPfo7PaZuA)
 + [Spring 事务失效的常见场景](https://mp.weixin.qq.com/s/1fmshGNLfGBKZkz1XJ7dBg)
++ [Spring事务8种可能会失效的场景，你碰到过几种？](https://mp.weixin.qq.com/s/90ORyulS1NIcvfzttE1lLA)
 ### 设计模式
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
 ### STATEMACHINE
@@ -319,8 +324,11 @@
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
++ [SpringBoot + Camunda：手把手教你搭建高效业务流程引擎，让工作流自动化不再是梦！](https://mp.weixin.qq.com/s/mwWL7YjoBho9Mm86IqXVlw)
 + [4 万字 40 道SpringBoot 经典面试题总结（2024修订版）](https://mp.weixin.qq.com/s/nmAebmXwnYlau2dXCJsYgQ)
 + [使用Spring Boot和mkcert解决本地及局域网HTTPS访问](https://mp.weixin.qq.com/s/jo2X_jw34atGdon2NgA4wQ)
++ [SpringBoot3.x系统架构的服务熔断和服务降级处理](https://mp.weixin.qq.com/s/r08DkaIQLsxa07QU9pLZCw)
++ [SpringBoot竟然还能这样设置启动模式](https://mp.weixin.qq.com/s/wbh2IwBx3I1j_4IPr3vivw)
 + [一文了解 Spring Boot 启动类 SpringApplication](https://my.oschina.net/u/4526289/blog/11321111)
 + [如何优雅地将 Tio Boot 集成到 Spring Boot 项目中](https://mp.weixin.qq.com/s/AuqykMEVyhH60EkgodljCA)
 + [强大！SpringBoot这种数据绑定技巧你知道吗？](https://mp.weixin.qq.com/s/K3evP-SDlOVXwaHsnA0zHA)
@@ -371,6 +379,7 @@
 + [全新升级：SpringBoot Admin可视化监控工具全面解析](https://mp.weixin.qq.com/s/OwGqmvkLSXnMQNi-AF2PFQ)
 + [Spring Boot 3：使用自定义注解、拦截器和Redis实现高并发接口限流](https://mp.weixin.qq.com/s/KTfrBoSOVFddSJYztUqJ0g)
 + [SpringBoot 应用优雅上线](https://mp.weixin.qq.com/s/EZPHFbwJaIBlF0aMdp5jSA)
++ [让你的 Spring Boot 启动更酷炫：打造吸睛的 Banner](https://mp.weixin.qq.com/s/908Y2VHtkZ42pEJXtw_MPg)
 + [了解 SpringBoot 的内部工作原理](https://mp.weixin.qq.com/s/HQlsjp92yVxNX-wF5GHK4Q)
 + [一文搞懂 Spring Boot 启动流程](https://mp.weixin.qq.com/s/CebWD86MLM6s14hG5E1HVw)
 + [为什么Spring Boot开发者应该避免使用@Value？](https://mp.weixin.qq.com/s/1fefcbDwsQZ8F9E4PuR3Ng)

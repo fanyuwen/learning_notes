@@ -1,5 +1,7 @@
 # 架构相关
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
++ [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
++ [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/HmO8vMW44fVfnyFOK_6PvA)
 + [架构之道：人人都是架构师](https://mp.weixin.qq.com/s/_sPs0NB4zWef-pW17DKimg)
 + [软件架构技术6：常见架构风格与应用场景](https://mp.weixin.qq.com/s/sBn07nenrTMbOjrpk_J9fQ)
 + [转转回收持久层的架构演进](https://mp.weixin.qq.com/s/JMisK9_byUyIIkJAshJIUA)
@@ -16,17 +18,17 @@
 + [架构师的思考-如何设计高并发系统](https://mp.weixin.qq.com/s/4wLIiSIn1A_F8L5P-rgD6A)
 + [高可用存储架构：集群和分区](https://mp.weixin.qq.com/s/FzKbs770_LGM83u2V6nRfA)
 + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
-+ [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
-+ [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
 + [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
-+ [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s/uy5GIiUeMUzoFhPyS7EBLA)
 + [大厂聚合支付系统架构演进（下）](https://mp.weixin.qq.com/s/6EiRP-7bGfCaK8xhpLzeUA)
 + [一文看懂什么是架构](https://mp.weixin.qq.com/s/IhZ3L5K7bWtHYpkqXN95fQ)
-+ [采用微服务架构前，先问自己几个问题](https://mp.weixin.qq.com/s/Sr4R5KC3liTc24WSPLQPFA)
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
+### DDD
++ [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
++ [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)
++ [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 ## 微服务
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -40,6 +42,8 @@
 + [微服务监控（下）](https://mp.weixin.qq.com/s/_YGmZmImcmV-CuZvArT3XA)
 + [微服务故障隔离技术](https://mp.weixin.qq.com/s/6D41KCrsfe6nbBOY-8BzQg)
 + [微服务通信大揭秘：HTTP vs RPC，谁是不二之选](https://mp.weixin.qq.com/s/LlvlnvZ-eG9pZ32k3dUoOA)
++ [详解微服务应用灰度发布最佳实践](https://my.oschina.net/u/3874284/blog/11322133)
++ [采用微服务架构前，先问自己几个问题](https://mp.weixin.qq.com/s/Sr4R5KC3liTc24WSPLQPFA)
 # 分布式
 ## 实践
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
@@ -53,6 +57,7 @@
 + [分布式系统最全详解(万字图文总结)](https://mp.weixin.qq.com/s/uovxX-p0jVeTqy2HGwtNRw)
 + [从 ACID 到 CAP/BASE](https://my.oschina.net/OutOfMemory/blog/796248)
 + [面试官：谈谈分布式一致性机制 ？](https://mp.weixin.qq.com/s/oiAv9qeetMT7ioWqVaZf_w)
++ [为什么说心跳机制是分布式系统的守护神？](https://mp.weixin.qq.com/s/x5gK7n7AV_MBQwcqhfD9nA)
 + [面试必备：10种分布式ID的生成方案](https://mp.weixin.qq.com/s/-H7REzOQ-iECWv6kQHYEmw)
 ## 分布式锁
 + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)

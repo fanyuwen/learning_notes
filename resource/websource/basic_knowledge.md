@@ -28,6 +28,7 @@
 + [linuxC-基础编程-【随机数计算函数接口】](https://mp.weixin.qq.com/s/zRsk_QlYuIUz_PPy-t7aQQ)
 + [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
++ [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
 ### 相关信息
@@ -65,7 +66,9 @@
 + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
 + [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
 + [Socket 的半包，粘包与分包的问题](https://my.oschina.net/OutOfMemory/blog/95857)
++ [三次握手时，客户端发送的 SYN 报文为什么会被丢弃？——拆解大厂面试题](https://mp.weixin.qq.com/s/t2abN3sxZnLy_JVoCeBYng)
 + [【网络协议】精讲TCP通信原理！图解超赞超详细！！！](https://mp.weixin.qq.com/s/80ox9f6RxeebS48ruvs5mw)
++ [如何应对TCP半连接队列和TCP全连接队列满的情况？——拆解大厂面试题](https://mp.weixin.qq.com/s/jbCGBWogzGqUlCXdsYrakw)
 ### nginx
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
@@ -81,6 +84,7 @@
 + [socket缓冲区大小从哪里来](https://mp.weixin.qq.com/s/6GckWxohV8V5stNEqBh1tw)
 + [物联网中设备怎么和云端通信](https://mp.weixin.qq.com/s/VQhM8lo8GsKuP0QKprWD1A)
 + [图解IO多路复用的原理](https://mp.weixin.qq.com/s/LyhMybGUyFEbIMwz6Qe3fw)
++ [图解IO多路复用之Poll的实现原理](https://mp.weixin.qq.com/s/Vv4mP4h4nRbR8gKB2m64LA)
 + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
 + [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
 ## 实践

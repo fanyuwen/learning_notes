@@ -64,6 +64,7 @@
 ## 关系型数据库
 ### MYSQL
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
++ [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [MySQL 外连接、内连接与自连接的区别？](https://mp.weixin.qq.com/s/PVORJcT20nQa_dNt9Rrpyw)
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
@@ -76,6 +77,7 @@
 + [(十六)MySQL调优篇：单机数据库如何在高并发场景下健步如飞？](https://mp.weixin.qq.com/s/TAoZSGbcmZULARWqphHIwQ)
 + [mysql常用命令总结](https://mp.weixin.qq.com/s/6WwOOU2nMZ8zpGHatNQ44Q)
 + [干货！解析binlog的三种实现手段](https://mp.weixin.qq.com/s/2C_AfPWMcWwkJKf6P07C8g)
++ [【收藏】MySQL 超全优化清单（可执行系列）](https://mp.weixin.qq.com/s/iFYBp6XVjjU0D4Z2TV-xSQ)
 + [(十五)MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://mp.weixin.qq.com/s/jxbpxOAJdKKHKO7tt-A8FQ)
 + [MySQL 5.7 升级 8.0 后，排序规则问题解决方案汇总](https://my.oschina.net/actiontechoss/blog/11224386)
 + [(十三)MySQL引擎篇：半道出家的InnoDB为何能替换官方的MyISAM？](https://mp.weixin.qq.com/s/but9J1UD3rS5ZwqQEAtf3A)
@@ -249,6 +251,7 @@
 + [Redis简单高效的消息通信](https://mp.weixin.qq.com/s/e9pZ50Sfncc3OYtkFL0l7A)
 #### 原理
 + [面试都喜欢问 Redis，为什么？因为他快吗？](https://mp.weixin.qq.com/s/WVEbK-i31Y1cplHZ9_eExw)
++ [数据的极速旅行：Redis高性能原理的深度剖析](https://mp.weixin.qq.com/s/dTh7MbzOZ8SJSYpNi7oA0Q)
 + [Redis为什么那么快：揭秘背后的高效秘密](https://mp.weixin.qq.com/s/FlQ3TIXrBgBeG_Npc-oNeA)
 + [吃透Redis系列：Redis为什么这么快](https://mp.weixin.qq.com/s/x-hg2Pk6uVyNJmyXNjYJ5A)
 + [Redis深度解析：跳跃表的原理与应用](https://mp.weixin.qq.com/s/adJJy-WM2jP9ArmXI3Y4bA)

@@ -19,3 +19,6 @@
 + [从零实现 AES 加密算法](https://sxyz.blog/aes-from-scratch/?comefrom=https://blogread.cn/news/&continueFlag=3cf82e8f2e450c433d50c8e046d93c32&s_trans=2197476363_&s_channel=4)
 # 领域算法
 + [迄今最快的网络流算法，网友：几乎与数学理论一样快](https://mp.weixin.qq.com/s/ggniihELqSbFm18RgX7ZdQ)
++ [阿里228x82y还原之递归数组解密](https://mp.weixin.qq.com/s/t9JJh5xnZspo0AXm0X-yzg)
+# leetcode
++ [来字节3个月，干不动了，想跑路。。](https://mp.weixin.qq.com/s/GsAhOtGrogG8D8ZmlMO5Hw)

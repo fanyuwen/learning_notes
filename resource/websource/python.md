@@ -69,6 +69,7 @@
 + [Python编程常用的36个经典案例](https://mp.weixin.qq.com/s/nSWMfNUNRsd8rDM-W-fCTA)
 + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s/Fod5IYBo7SuTjVUin_Qg6A)
 + [10个python经典的装饰器](https://mp.weixin.qq.com/s/Lb5AKGcOQMa7KmOpmN7MAg)
++ [如何用 Python 做炫酷数据动图，简单几步教你实现](https://mp.weixin.qq.com/s/2sRkwiDbi9Pji5lG-Pn-hw)
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)

@@ -16,10 +16,10 @@
 + [架构师必知的11种API性能优化方法](https://mp.weixin.qq.com/s/w_63PFzWNcQO0GKrx_T62Q)
 + [星球第二个项目：仿小红书（微服务架构）](https://mp.weixin.qq.com/s/cFiGgqY6Md7B3xxJprgK6g)
 + [架构师的思考-如何设计高并发系统](https://mp.weixin.qq.com/s/4wLIiSIn1A_F8L5P-rgD6A)
++ [高可用解决方案详解(8大主流架构方案)](https://mp.weixin.qq.com/s/BmYsTFOT6YC3ySFo2zMX2w)
 + [高可用存储架构：集群和分区](https://mp.weixin.qq.com/s/FzKbs770_LGM83u2V6nRfA)
 + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
-+ [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
-+ [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
++ [软件架构技术2：架构思维，实现从程序员到CTO](https://mp.weixin.qq.com/s/bF6eTEOhTjOx3GdRYD3v1w)
 + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s/uy5GIiUeMUzoFhPyS7EBLA)
 + [秒杀圣经(2): 16大绝招，完成10Wqps秒杀架构（3万字架构长文）](https://mp.weixin.qq.com/s/CVwppNImK6roZ2UmmJh6bg)
 + [大厂聚合支付系统架构演进（下）](https://mp.weixin.qq.com/s/6EiRP-7bGfCaK8xhpLzeUA)
@@ -28,8 +28,11 @@
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
 ### DDD
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
++ [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
++ [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
 + [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
++ [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
 ## 微服务
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -52,6 +55,7 @@
 + [40张图带你看懂分布式追踪系统原理及实践](https://mp.weixin.qq.com/s/GpiiLaaygPU1oPIk2YGQRg)
 + [分布式链路追踪系统设计](https://mp.weixin.qq.com/s/VYDnOirzrw_kMIVz0AFy7w)
 + [分布式链路追踪最全详解(图文全面总结)](https://mp.weixin.qq.com/s/YsYIZ3bEEd4h67NgBr0VFQ)
++ [分布式链路追踪，一文帮你掌握它！](https://mp.weixin.qq.com/s/90TPpwXEKmMHIosh4Z-Qkw)
 + [几种分布式ID解决方案，总有一款适合你！](https://mp.weixin.qq.com/s/uV5agt4ybthD1dkTfPyV6w)
 + [整理10种分布式id生成方案](https://mp.weixin.qq.com/s/WZug18OOFMx_dfgT_4JxLQ)
 + [浅谈分布式 ID 的实践与应用](https://my.oschina.net/u/2550800/blog/4892264)
@@ -137,6 +141,7 @@
 + [防止接口被刷的8种方式](https://mp.weixin.qq.com/s/P4_1EmEhNKReqpGW4gU6qg)
 + [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/MEj9XwhjKUazFBsaQZhIlQ)
 + [高并发下如何轻松的保证接口幂等性](https://mp.weixin.qq.com/s/Yege3CDhDrYN5x9ydcnGcw)
++ [腾讯电商部门二面：如何保证幂等性？](https://mp.weixin.qq.com/s/H7BVtBJiy9GvQyDPpGqyUQ)
 ### 负载&限流
 + [RateLimiter 的底层实现是啥？](https://mp.weixin.qq.com/s/AD54eRFOyAndQKctRAnm8w)
 + [如何实现高并发下系统的限流](https://mp.weixin.qq.com/s/0WDXwQA-aFgAJI6dMYW5xA)
@@ -144,6 +149,7 @@
 + [为什么要限流？常见的限流算法有哪些？](https://mp.weixin.qq.com/s/wd8uGrxgceZd0kOx4cD-rQ)
 + [面试官：你的项目中稳定性方案有哪些、降级，限流，熔断如何做的](https://mp.weixin.qq.com/s/3_u6noQq6IyPOQs1B_0IcQ)
 + [高性能负载均衡：分类及架构](https://mp.weixin.qq.com/s/nFKh2TRsvRf5avBchTONTg)
++ [Sentinel 采用的是什么限流算法？](https://mp.weixin.qq.com/s/RyB7aZ8b8FQlxwBgxgPBpA)
 + [负载均衡技术：支撑高并发应用的基石](https://mp.weixin.qq.com/s/flEm--2jqsGvcfMlJxnObw)
 + [负载均衡原理最全详解(万字图文总结)](https://mp.weixin.qq.com/s/8xSgH-yT8UWOYriAZr3plA)
 + [高并发中的限流策略](https://mp.weixin.qq.com/s/B_1EjQQoi-VVWhMc35hMXg)
@@ -170,6 +176,7 @@
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
 + [我把接口从3s优化到了0.3s!](https://mp.weixin.qq.com/s/oeOpJLw9E8QRURbSOEV4Rg)
 + [提高系统的并发能力方案](https://mp.weixin.qq.com/s/6F_OGrX-4qThxtZ3rcORkw)
++ [性能优化：揭秘神秘面纱！](https://mp.weixin.qq.com/s/7vB6PQbIJNVWVVVBWVC7-Q)
 + [请求合并的3种技巧，性能起飞！](https://mp.weixin.qq.com/s/hYqZIi436nIinRwj_rxjog)
 + [该从哪些方面提升系统的吞吐量？](https://mp.weixin.qq.com/s/NMEUOhajKtqrASkn8Iwung)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
@@ -216,6 +223,8 @@
 + [【SoC】看门狗(Watch Dog)定时器的原理与使用](https://mp.weixin.qq.com/s/drLrmfUCXNIutYBhpGU_5w)
 # 测试相关
 + [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
++ [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)
++ [性能测试的艺术：Apache JMeter帮你赢在起跑线](https://mp.weixin.qq.com/s/vN3-P80Gs_ksJVrge2-x-A)
 # 领域相关
 + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
@@ -233,6 +242,7 @@
 + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
 + [万字长文浅谈系统稳定性建设](https://mp.weixin.qq.com/s/ySdAsk15H1aWPhOR4qW8Ag)
 + [聊聊性能指标CPU利用率如何计算的？](https://mp.weixin.qq.com/s/JtieBgaHUb7UHRIvExms7A)
++ [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
 ## 领域知识
 ### JSON
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)

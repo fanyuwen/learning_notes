@@ -5,7 +5,10 @@
 + [三种东西永远不要放到数据库里](https://my.oschina.net/justjavac/blog/66623)
 + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://my.oschina.net/selectdb/blog/11323990)
 + [数据库内核工程师必读论文清单](https://mp.weixin.qq.com/s/GGR4QtWYtLFCpoz3Z2vmQQ)
++ [DM日常运维高频命令总结](https://mp.weixin.qq.com/s/mAoUuj9VSrWPmbZWpJnIaA)
 + [生产环境-死锁分析](https://mp.weixin.qq.com/s/WX7JJRgCflYslsVosimBBg)
++ [使用缓存时，先操作数据库OR先操作缓存?](https://mp.weixin.qq.com/s/uiR_Lin4_16stb8N827hYA)
++ [这十几款数据库连接池，你用过多少？](https://mp.weixin.qq.com/s/ACWQgwp4nqAVQvVZ2T1bCA)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
@@ -77,6 +80,7 @@
 + [MySQL数据如何同步到Elasticsearch](https://mp.weixin.qq.com/s/MT2hGK_8ef8a66hxHhmfOQ)
 + [(十六)MySQL调优篇：单机数据库如何在高并发场景下健步如飞？](https://mp.weixin.qq.com/s/TAoZSGbcmZULARWqphHIwQ)
 + [mysql常用命令总结](https://mp.weixin.qq.com/s/6WwOOU2nMZ8zpGHatNQ44Q)
++ [MySQL Undo Log日志最全详解(图文并茂)](https://mp.weixin.qq.com/s/rGajiRqPcGN-sgmOMvAKIA)
 + [干货！解析binlog的三种实现手段](https://mp.weixin.qq.com/s/2C_AfPWMcWwkJKf6P07C8g)
 + [【收藏】MySQL 超全优化清单（可执行系列）](https://mp.weixin.qq.com/s/iFYBp6XVjjU0D4Z2TV-xSQ)
 + [(十五)MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://mp.weixin.qq.com/s/jxbpxOAJdKKHKO7tt-A8FQ)
@@ -179,6 +183,8 @@
 + [贝壳面试：MySQL联合索引，最左匹配原则是什么？](https://mp.weixin.qq.com/s/aq2-gR0Wj5L9wPTClH3-xw)
 + [面试官：你知道MySQL索引的最左前缀原则吗？索引下推又是怎么回事儿呢？](https://mp.weixin.qq.com/s/MKFSOCUExehERbiMfmtdjw)
 + [Mysql索引-B+树是如何生长的](https://mp.weixin.qq.com/s/3kJt34IXkvowL6E5xp-zoA)
++ [MySQL用了函数到底会不会导致索引失效](https://mp.weixin.qq.com/s/X5H9jBz_nMNi1eoJy_-fbw)
++ [MySQL索引失效的几种常见场景：别让索引成为摆设！](https://mp.weixin.qq.com/s/X5TW_EbjliLo36EgvT77Cw)
 + [MySQL：索引优化实战](https://mp.weixin.qq.com/s/NGg5mDE-67YnIR2V-ryZxw)
 + [(五)MySQL索引应用篇：建立索引的正确姿势与使用索引的最佳指南！](https://mp.weixin.qq.com/s/vzIgtJSsTET2-TAZ50wnMw)
 + [Innodb加索引，这个时候会锁表吗？](https://mp.weixin.qq.com/s/bPjqPJ0u00644_eQMzig_A)
@@ -192,6 +198,8 @@
 + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
 ### PostgreSQL
 + [很详细的PostgreSQL安装部署教程](https://mp.weixin.qq.com/s/BvObZ6Kk_FYK6vUc0UW_Rg)
++ [PostgreSQL核心之SQL基础学习](https://mp.weixin.qq.com/s/dMxxicM6OmgqBGJ2DqxBYg)
++ [手把手教你管理PostgreSQL数据库及其对象](https://mp.weixin.qq.com/s/E2m2QlHmnQKf8KB_1QH-aQ)
 ### SQLSERVER
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
 ## NOSQL
@@ -202,6 +210,7 @@
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
 + [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
++ [Redis源码整体结构](https://mp.weixin.qq.com/s/5t0zMv8oFX_m0FwOEpbW_Q)
 + [Redis数据类型详解与Redis vs 传统数据库：核心异同点比较](https://mp.weixin.qq.com/s/CsTeZolmN7UTAu_5q5M9pA)
 + [面试官：为什么 Redis 不立刻删除已经过期的数据？](https://mp.weixin.qq.com/s/xkHyitlakAAhVEm86u_I_Q)
 + [面试官问我 AOF 重写机制的流程，我回答不上来被 Pass 了！](https://mp.weixin.qq.com/s/ZxiFsYZL43KusKSNp0pLJw)
@@ -210,11 +219,13 @@
 + [Redis基础类型常用操作命令：运维人员的得力助手](https://mp.weixin.qq.com/s/AVQzbGQBiZhXw3dH9iPQxQ)
 + [吃透Redis系列：高可用的哨兵模式](https://mp.weixin.qq.com/s/Z_cvaYocciWSl7GX2XwOpw)
 + [吃透Redis系列：数据一致性问题](https://mp.weixin.qq.com/s/LmDTPNlhxT3d8RhsIV16AQ)
++ [Redis高性能架构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/Y9Z20EV3yvXfZYAmPz7cLA)
 + [Redis 数据类型总结](https://mp.weixin.qq.com/s/1NeI4YiYtZwCDPvQWPWAGQ)
 + [Redis如何寻址：一文读懂Redis如何在海量数据中快速定位键](https://mp.weixin.qq.com/s/jmI3uixVJKrf1dSLyC__GQ)
 + [Redis 大Key问题探索](https://mp.weixin.qq.com/s/6Rvtk0vk7OXFr_jiac3j5g)
 + [Redis经典问题：BigKey问题](https://mp.weixin.qq.com/s/rOo2ume0qhJ807VS5EZ2Ng)
-+ [百度面试：如何用Redis实现限流？](https://mp.weixin.qq.com/s/RYbA9J-4DtuDKYv4Zl-kSw)
++ [Redis 数据恢复及持久化策略分析](https://mp.weixin.qq.com/s/ZvDhtHkkwqfXE_pK0BXEMw)
++ [Redis是单线程还是多线程？一文搞透！](https://mp.weixin.qq.com/s/Nee4Krm-Zc_mf3mJET3Y1Q)
 + [Redis集群和数据同步你了解多少](https://mp.weixin.qq.com/s/PcHuuB6bgtjL0YriWrh8mQ)
 + [Redis 经典面试题解析](https://mp.weixin.qq.com/s/6H1TxSB1VORhHzx9qcVxyg)
 + [Redis面试题](https://mp.weixin.qq.com/s/gW-2NnYxlhlRFep5_DsEBw)
@@ -233,7 +244,6 @@
 + [Redis之布隆过滤器与布谷鸟过滤器](https://mp.weixin.qq.com/s/H40e5fRmmsBH8ie5RZNeag)
 + [自定义注解Idempotent实现幂等](https://mp.weixin.qq.com/s/wq7mmV4s3525FWLQQvvPAA)
 + [Redis pub/sub实现消息队列](https://mp.weixin.qq.com/s/Lvat32HPqnP_vcNMu0rNXQ)
-+ [太优雅了！用Redis高效实现限流功能!](https://mp.weixin.qq.com/s/i0aDxP94oEMuw_IKyRD2mg)
 + [Redis Streams的消费者组模式讲解](https://mp.weixin.qq.com/s/Vah-uSfNU7DxDMNajKHzJw)
 + [如何用 Redis 统计海量 UV？](https://mp.weixin.qq.com/s/XSeu-3PV329O-hsTW8Xvrw)
 + [Redis 存储对象](https://my.oschina.net/OutOfMemory/blog/727422)
@@ -288,6 +298,10 @@
 + [Redis 只会用缓存？20种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/hU47_8puy_3OkUwqCQCEDw)
 + [面试官问：Redis缓存淘汰策略有哪些？](https://mp.weixin.qq.com/s/UC5e_OSUFYohAUM4-Qsvaw)
 + [Redis多级缓存指南：从前端到后端全方位优化！](https://mp.weixin.qq.com/s/9Hbe9vLnMTXc7hxVpFMqLA)
+#### 限流
++ [太优雅了！用Redis高效实现限流功能!](https://mp.weixin.qq.com/s/i0aDxP94oEMuw_IKyRD2mg)
++ [如何用Redis实现限流？](https://mp.weixin.qq.com/s/-Fv_32pV4QPaKqjVPpItNA)
++ [百度面试：如何用Redis实现限流？](https://mp.weixin.qq.com/s/RYbA9J-4DtuDKYv4Zl-kSw)
 ### MongoDB
 + [MongoDB在AI和大数据中的应用](https://mp.weixin.qq.com/s/znaTV_gGVE0aoEOGSQbe-w)
 ### keyDB
@@ -306,3 +320,5 @@
 + [你公司到底需不需要引入实时计算引擎？](https://mp.weixin.qq.com/s/T_cM0F5_Luz20HmTjFyVpQ)
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
+## Iceberg
++ [Iceberg关键技术之表格式元数据管理](https://mp.weixin.qq.com/s/5NBXxoqAZUN6LIe1_RO0CQ)

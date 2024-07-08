@@ -25,6 +25,8 @@
 # 策略模式
 + [编程功底：设计模式之策略模式](https://mp.weixin.qq.com/s/xKUhsh3cyTa7gC021KmDkQ)
 + [优化代码结构-策略模式(Strategy Pattern)](https://mp.weixin.qq.com/s/Uw2lMWMq_WcTagV_EpFQUg)
+# 装饰器模式
++ [优化代码结构-装饰器设计模式(Decorator Pattern)](https://mp.weixin.qq.com/s/dCiQQ60PgqeLLVJrYXV64g)
 # 责任链模式
 + [【实战】使用责任链模式进行报销审批](https://mp.weixin.qq.com/s/dwrjus6nHOTBOivVl7XsPg)
 + [责任链模式的高级用法：多级校验、工作流，这样写代码才足够优雅！](https://mp.weixin.qq.com/s/3dCTWg1tj5ONXWoraQg4Eg)

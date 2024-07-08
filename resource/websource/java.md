@@ -200,6 +200,7 @@
 + [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
 + [Spring的SmartLifecycle可以没用过，但没听过就不好了！ - 第517篇](https://mp.weixin.qq.com/s/bhaoZQ65H7ULnYZ3DkfeNw)
 + [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
++ [5种从jar中读取文件的方式，你会几种？](https://mp.weixin.qq.com/s/S2jGNJglGjsG_IR27ZCfAA)
 + [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
 + [Spring非常强大的2个类知道的人不多](https://mp.weixin.qq.com/s/FJGuP4_u4Xkxfz0Xxf2igw)
@@ -251,6 +252,7 @@
 + [掌握Spring MVC中自定义注解的妙用，为你的代码增添整洁与优雅。](https://mp.weixin.qq.com/s/SKFlRssK8YkXLegJlkkgNQ)
 + [Controller层代码就该这么写，简洁又优雅！](https://mp.weixin.qq.com/s/SPiEWGFH4BgFl1kffWBS4A)
 + [Controller层代码编写指南](https://mp.weixin.qq.com/s/SNdrUId55rYUYPKdcpV44g)
++ [深入SpringMVC聊跨域问题的最佳实践](https://mp.weixin.qq.com/s/ssuYSidETCDVbAoX56S04Q)
 + [SpringMVC接口定义RequestMapping这些细节你用过吗？](https://mp.weixin.qq.com/s/NCrICtZWhV_7fVHmpSff5A)
 + [SpringMVC非常实用的过滤器](https://mp.weixin.qq.com/s/LWo-dmYtEPeUSm46nx2slA)
 + [Web安全实践：使用@CrossOrigin和@ContentSecurityPolicy注解](https://mp.weixin.qq.com/s/qBV3ig_swaFQC2Agg66-bQ)
@@ -263,6 +265,7 @@
 + [浅析 Spring 中 Async 注解底层异步线程池原理](https://my.oschina.net/u/5783135/blog/11209054)
 ### security
 + [一文让你彻底搞定Spring Security的基本使用](https://mp.weixin.qq.com/s/CGGmSWu--yNXXB-wQyUu_Q)
++ [强大！必须掌握！Spring Security这些技巧你知道吗？](https://mp.weixin.qq.com/s/suRpoAItbaAAuBj0A8_4bg)
 + [HttpSecurity 是如何组装过滤器链的](https://my.oschina.net/lenve/blog/11198493)
 + [用Spring Security快速实现 RABC模型案例](https://mp.weixin.qq.com/s/oOX_PEX5rtanUJd43JaJ2Q)
 + [Spring Security 常见过滤器梳理](https://mp.weixin.qq.com/s/N-IkummVW468RaCFe9QPuQ)
@@ -338,9 +341,12 @@
 + [基于SpringBoot的微服务架构与K8S容器部署实践](https://mp.weixin.qq.com/s/Sik4QbKwQv4I6zBU3HBP5A)
 + [惊呆了，Spring Boot + liteflow 居然这么好用！](https://mp.weixin.qq.com/s/jXTv56LOlNU_HNHPZV_StA)
 + [SpringBoot日志按照日期和日志级别输出文件](https://mp.weixin.qq.com/s/7cY8Kd9QpKBnmWbajcov4A)
++ [当心！请不要在SpringBoot中再犯这样严重的错误](https://mp.weixin.qq.com/s/DSn_VMZ4KEON0FSZzqrOqA)
 + [SpringBoot，用 200 行代码完成一个一二级分布式缓存](https://my.oschina.net/xiandafu/blog/847147)
 + [Spring Boot 开发神器：让你告别重复代码，解放双手，高效开发！](https://mp.weixin.qq.com/s/NVi92UGTcTOyLPP1380-gA)
++ [Spring Boot 与 Apache CXF：构建现代企业级 Web 服务](https://mp.weixin.qq.com/s/w2PLo32rdQb8mxfUZfnIfw)
 + [有一个 SpringBoot 的技能，我劝你们早点掌握](https://mp.weixin.qq.com/s/i2s0iGbp7sMZd0qaKv9ONA)
++ [使用Spring Boot 结合安全框架增强支付系统的安全加固](https://mp.weixin.qq.com/s/H-EhFfyJVaLxxCMDIYq9Ow)
 + [Spring Boot：短信验证登录/注册逻辑实现](https://mp.weixin.qq.com/s/wO7gljJe5IXmRwUqq7VQNA)
 + [使用Spring Boot结合FFmpeg实现视频会议系统视频流处理与优化](https://mp.weixin.qq.com/s/XLpsvVcF77BHcsLhYqkvvQ)
 + [SpringBoot+Docker：高效容器化的最佳实践](https://mp.weixin.qq.com/s/bL76vRnlf0LqdhnITfefsw)
@@ -349,6 +355,7 @@
 + [SpringBoot3第三方接口调用10种方式，最后一种你肯定没用过](https://mp.weixin.qq.com/s/jbq6rwG_LkQcMg7XD7BAgQ)
 + [Spring Boot集成Timefold Solver实现课程表编排](https://mp.weixin.qq.com/s/m72CNVLZoxCYQD5f_6Kz8A)
 + [请牢记SpringBoot这7个强大的隐藏Bean](https://mp.weixin.qq.com/s/aK7lQXXKMZycnYwRieiZig)
++ [Spring Boot源码分析一：启动流程](https://mp.weixin.qq.com/s/sj-0V-CDYvTZUH4h7ffeoQ)
 + [Spring Boot 定时任务与 xxl-job 灵活切换方案](https://mp.weixin.qq.com/s/b29uC_PFcFXsFGbMIW2-QQ)
 + [Java 运行时：Spring Boot 角度的见解 | 技术解析](https://mp.weixin.qq.com/s/8xc7rhBXy5jva1rO4oMQHQ)
 + [瞧瞧老外总结的SpringBoot最佳实践](https://mp.weixin.qq.com/s/XgIj5pqtb-fH03Mf5VmP8w)
@@ -474,6 +481,8 @@
 + [Spring Boot集成validation实现参数校验功能](https://mp.weixin.qq.com/s/ZeG0NUJcHn_o73ZGW7JTxg)
 + [使用Spring Boot开发API时的请求参数读取机制](https://mp.weixin.qq.com/s/wrisbOB5acH5-ttEHyHBGA)
 + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
+##### vue
++ [Vue打包文件dist放在SpringBoot项目下运行（正确实现全过程）](https://mp.weixin.qq.com/s/RvdB__JCHjfb-o03l2ES4w)
 ##### websocket
 + [必不可少的技能之SpringBoot+WebSocket配置详解](https://mp.weixin.qq.com/s/paAH9GGdW81V2o64SfrANg)
 + [SpringBoot3 集成 WebSocket 是真的简单](https://mp.weixin.qq.com/s/AoaUkggTuPjlhAlzbWKlUQ)
@@ -491,7 +500,10 @@
 + [详解 Spring Boot 的 RedisAutoConfiguration 配置](https://my.oschina.net/u/4526289/blog/11209334)
 + [Spring Boot 整合 Redis：入门篇](https://mp.weixin.qq.com/s/QLR91bJstp-mNWsXhmCT7g)
 + [SpringBoot 如何统计、监控 SQL运行情况？](https://mp.weixin.qq.com/s/BeiNklugfozG0Rn0JcR-aw)
++ [让你的SpringBoot应用飞起来：HikariCP连接池整合详解](https://mp.weixin.qq.com/s/YwsHDuYzbIbMinJy4AfABg)
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
+##### big data
++ [Spring Boot 3.x + Flink 实现实时数据聚合与窗口操作](https://mp.weixin.qq.com/s/vY5MtaW2Uye28JvzC0P_fg)
 #### 多线程
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)
@@ -520,6 +532,7 @@
 + [掌握AOP在SpringBoot项目中的高效集成与优雅编程，实现模块化行为封装与日志管理。](https://mp.weixin.qq.com/s/raX7W_DToMwK5fyGs3eaYA)
 + [解决日志开关需求：SpringBoot 实现热插拔 AOP](https://mp.weixin.qq.com/s/RBeAGsn3AtRjK7Rru7d1ww)
 + [强大！基于SpringBoot实现AOP的动态热插拔功能](https://mp.weixin.qq.com/s/hBVfCkbL0NQCaYb-qVQf0Q)
++ [强大！SpringBoot通过3种方式实现AOP切面，第三种方式性能极佳](https://mp.weixin.qq.com/s/Y5VhAD_tm6HXWLl13v_NCA)
 #### LOG
 + [史上最全，全方位阐述 SpringBoot 中的日志是怎么工作（珍藏版）](https://mp.weixin.qq.com/s/kTCWxJ9ONNdE3_F21_O-sg)
 + [SpringBoot怎么设计业务操作日志功能？](https://mp.weixin.qq.com/s/wXMF5oCmXa2MnIXZQMvoPg)
@@ -530,6 +543,7 @@
 + [Spring Security实现后端接口权限验证](https://mp.weixin.qq.com/s/NvQmM-NjvrGVTNOHrb_oKA)
 + [SpringBoot应用数据加密实战：守护信息安全的多维度策略](https://mp.weixin.qq.com/s/ZAqOUtZXwL8y34Y-nabzFw)
 + [应用安全防护：Spring Boot中的ACL和RBAC权限管理实践](https://mp.weixin.qq.com/s/4rQNVTb4l-TybhRj39c6vw)
++ [如何在 Spring Boot 中安全地管理配置文件中的敏感信息？](https://mp.weixin.qq.com/s/W2MrpKvREkhZqTazlHJ5bg)
 + [SpringBoot+Apache Shiro实现应用安全](https://mp.weixin.qq.com/s/kThebbRA9BQ2mBaetkS9ow)
 #### 设计模式
 + [Spring Boot 与 责任链模式：构建灵活可扩展的高级应用](https://mp.weixin.qq.com/s/uKbD1fV6dnt3naVkPXevDA)
@@ -578,6 +592,7 @@
 + [弃用 Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/LKvfTtG-RrqPm7P0qRta0w)
 + [MyBatis如何调用存储过程？](https://mp.weixin.qq.com/s/YPZV6DauPeYSj7eWSK5PLQ)
 + [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
++ [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
 ### plus
 + [巧用 MyBatis Plus 实现数据权限控制...](https://mp.weixin.qq.com/s/mk9ZxMzxbdwnouCLpn914Q)
 + [Mybatis-Plus 开发提速器：mybatis-plus-generator-ui](https://mp.weixin.qq.com/s/hJIIe3r4qan57L6UDQlfQg)

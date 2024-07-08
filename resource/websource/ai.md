@@ -14,5 +14,6 @@
 + [问世7年，Transformer有了哪些小变革？](https://mp.weixin.qq.com/s/59NSoWe80kMbZptJWsMVyw)
 + [为什么都放弃了LangChain？](https://mp.weixin.qq.com/s/mtaXOGFw3852F1RsZNqF4Q)
 + [AI使用体验之ChatGPT帮我写代码](https://mp.weixin.qq.com/s/ZxcbGv_cBiaFqww0zQgYcg)
++ [LLM学习笔记 - Prompt技巧](https://mp.weixin.qq.com/s/ssswf30VqG_bvxh53IRiyA)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)

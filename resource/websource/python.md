@@ -10,6 +10,7 @@
 + [Python的属性管理：深入理解@property装饰器及其getter和setter方法](https://mp.weixin.qq.com/s/TVo_cPE_vGJQZHXZSsShGQ)
 + [python---核心函数 1](https://mp.weixin.qq.com/s/V5zX3tuCX9ccH5pVQqPloQ)
 + [Python101 —— Python解析式、迭代器和生成器](https://mp.weixin.qq.com/s/BVyjssuwYiulyJ8fkYCn1g)
++ [`__new__` 和 `__init__` 在 Python 中有何不同？答案可能出乎你的意料](https://mp.weixin.qq.com/s/pzK1kqq2LupfAxZ6H8YVSA)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -80,3 +81,4 @@
 + [OpenCV教程03：绘制图形（线段、矩形、圆形、椭圆、多边形、箭头线）+水印文本](https://mp.weixin.qq.com/s/wyPPviaEHIWifz2-cKdNCw)
 ## 爬虫
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
++ [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g)

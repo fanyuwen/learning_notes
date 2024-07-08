@@ -76,8 +76,10 @@
 + [一个合格的程序员应该读过哪些书](https://my.oschina.net/justjavac/blog/66624)
 + [EAP开发：如何进行有效的需求沟通？](https://mp.weixin.qq.com/s/vFnV8ywos-cAf6ILtDL8aw)
 + [VSCode 的真正竞争对手即将到来：LiteXL](https://mp.weixin.qq.com/s/1QFDxMOWuaQsc4DrI7Mbyw)
++ [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
 + [中间件MyCat管理与监控工具MyCat-eye](https://mp.weixin.qq.com/s/bpgu3rNTe1AMc6SU4eX4QA)
 + [IDEA 还香吗 Eclipse Theia IDE 正式发布](https://mp.weixin.qq.com/s/mv4Vu0pe_JDDzCN6YTgOUA)
++ [一个跨平台文件同步神器，去中心化，操作简单，Star 62K!](https://mp.weixin.qq.com/s/w6utXg6-IqI6oyiqU7eBxQ)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)
@@ -106,6 +108,7 @@
 + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)
 + [寻找适合编写静态分析规则的语言](https://my.oschina.net/u/4526289/blog/11348327)
 + [华为仓颉编程语言正式发布，号称新一代编程语言，Java、Python 瑟瑟发抖。。。](https://mp.weixin.qq.com/s/O-PSyKRPE-31Y8Zmc7Dh-A)
++ [我让代码，学会了自动评审！提高80%的交付质量！](https://mp.weixin.qq.com/s/XeBycsfgSuAMJDw0JC1c7Q)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
@@ -131,6 +134,8 @@
 + [RAG-索引之PDF文档解析](https://mp.weixin.qq.com/s/innbTL6aeOsl9vyJSN6yBw)
 + [查找 - 通用化的查找的解释](https://mp.weixin.qq.com/s/CdeN__MSrc8YtiMHxvVOww)
 ## 个人综合
+### 开发技能
++ [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 ### 面试
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)
 + [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)
@@ -139,5 +144,7 @@
 + [【技术新纪元 | 探索Astro+Vue3+TypeScript+UnoCSS的完美融合：极致性能个人博客】](https://mp.weixin.qq.com/s/KMqYS5QsLDfiDN05YBOljQ)
 ### 数学知识
 + [每天学点程序员数学—从向量变换到矩阵](https://mp.weixin.qq.com/s/bESnVOOBT9Si37bx5Re-kA)
+### markdown
++ [Marker：您的PDF到Markdown转换专家 —— 快速、准确、全语言支持](https://mp.weixin.qq.com/s/CITInW4H_8rPkmRt_mmNTg)
 ### 学习资源
 + [实用开源电子书合集](https://mp.weixin.qq.com/s/YmHowFdo8w9hvSHIByOe5A)

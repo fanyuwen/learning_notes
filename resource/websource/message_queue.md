@@ -25,9 +25,11 @@
 + [深入Kafka：如何保证数据一致性与可靠性？](https://mp.weixin.qq.com/s/b75ycYb1fFvtq776VQtQlA)
 + [Apache Kafka绝技揭秘：亿级用户大型应用如何轻松驾驭？](https://mp.weixin.qq.com/s/mYI0NNUUafAUSpAf70Tdmg)
 + [Kafka最全详解(图文全面总结)](https://mp.weixin.qq.com/s/DQRX_49mGY3E-aDE0vHGcg)
++ [Kafka高性能架构详解(图文全面总结)](https://mp.weixin.qq.com/s/rIB09w8N3XOTwy39aX6l9A)
 + [Kafka内幕：详解Leader选举与副本同步的那些事儿](https://mp.weixin.qq.com/s/S_jnCYBqtwewATmVNviz6w)
 + [Kafka集群搭建详细教程](https://mp.weixin.qq.com/s/RMEobiyqD62goo9tYxafhA)
 + [Kafka工作原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/gHjQOR9-Yps7NP1qSHDPbg)
++ [kafka的rebalance](https://mp.weixin.qq.com/s/ZJYgFOE_5-ek1bno1ozWJQ)
 + [好文！12个策略解决 Kafka 数据丢失问题](https://mp.weixin.qq.com/s/5fJxgBpJfmO6l_BUyBzabQ)
 + [Kafka 线程模型痛点攻克： 提升分区写入 2 倍性能](https://my.oschina.net/u/6990971/blog/11051328)
 + [Kafka 为什么要抛弃 ZooKeeper？](https://mp.weixin.qq.com/s/pApkIfRJS3R8qhLFQ-6cyg)
@@ -37,6 +39,7 @@
 + [Kafka高可用揭秘：深入剖析其架构原理与关键技术](https://mp.weixin.qq.com/s/z-FdRfZsqFr-UKr5E-41HA)
 + [Kafka 业务日志采集最佳实践](https://mp.weixin.qq.com/s/ezuMkt9-WEcU7eUZELuqTA)
 + [强烈推荐这位大佬的Kafka系列，看完觉得自愧不如！](https://mp.weixin.qq.com/s/y813yAPs-7vuDfsOp_qpgw)
++ [推动机器学习：遇见Kafka，实时获取训练数据](https://mp.weixin.qq.com/s/2QHin0eXs3OHe-FmQIw8BA)
 # ROCKETMQ
 + [RocketMQ中分布式事务源码剖析，面试阿里，带上这个大杀器！](https://mp.weixin.qq.com/s/melxb0gxs2joaxFPvO6aqg)
 + [RocketMQ 是什么？它的架构是怎么样的？和 Kafka 又有什么区别？](https://mp.weixin.qq.com/s/oje7PLWHz_7bKWn8M72LUw)
@@ -48,5 +51,6 @@
 + [这才是RabbitMQ打开的正确姿势 , 七种消息模型理论 + 图文 + 代码解析, 懂了](https://mp.weixin.qq.com/s/7ivKSwzpiijE60UfJtXQ0w)
 + [面试官：引入 RabbitMQ 后，如何保证全链路数据 100% 不丢失？](https://mp.weixin.qq.com/s/ZPz3GdWp8PLdn1OU36w81Q)
 + [Nest 接入消息队列 RabbitMQ](https://mp.weixin.qq.com/s/rAuYgW3RoOfiqg70PLhyFw)
++ [「RabbitMQ链路追踪实践：SkyWalking微服务链路监控实践07」](https://mp.weixin.qq.com/s/maKLkM-hNbdLpoSlKLi5Bw)
 # PULSAR
 + [Bookie 存储架构源码剖析｜得物技术](https://my.oschina.net/u/5783135/blog/11194314)

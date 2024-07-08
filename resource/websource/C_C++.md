@@ -10,6 +10,7 @@
 ### CUDA
 + [C++ CUDA .cu 文件](https://mp.weixin.qq.com/s/D4iB3DSXerL3B4nER3N4wg)
 + [C++ CUDA 线程 线程块 网格](https://mp.weixin.qq.com/s/euMUES_8F08evKHhn2Q49w)
++ [C++ CUDA 核函数中的数据类型](https://mp.weixin.qq.com/s/n4sgrxqM3j98ObA80RZvJg)
 ## C
 + [视说"C"语：第1集 C语言课程概述](https://mp.weixin.qq.com/s/JXPTBZ_EMVaBPi7iDtolfw)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)

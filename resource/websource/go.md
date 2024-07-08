@@ -6,6 +6,7 @@
 # 话题
 + [业内大佬怒喷：Go 正朝着错误的方向发展](https://mp.weixin.qq.com/s/WM7E-1aHu12l75FGq3RDtA)
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)
++ [10 年程序员的编程语言感受与 Go 的结缘](https://my.oschina.net/helloworldnet/blog/5120094)
 # 库
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 # 实践

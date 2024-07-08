@@ -93,7 +93,6 @@
 + [如何直接修改线上jar包里面的文件](https://mp.weixin.qq.com/s/_PmdP-oG2-ffCZnCEQrxbw)
 + [内存泄漏不可怕，怕的是你不知道](https://mp.weixin.qq.com/s/Ptd38g3Zk-IpzNfJFxvITg)
 + [公司新来一个同事，把 BigDecimal 运用的炉火纯青！](https://mp.weixin.qq.com/s/xV8aHMJ9CKgXbxZGdWfAgg)
-+ [公司新来一个同事，把 BigDecimal 运用的炉火纯青！](https://mp.weixin.qq.com/s/X7d0EKRxSrARG6NVlZj5yg)
 + [一万八千条线程，线程为啥释放不了？](https://mp.weixin.qq.com/s/k8uvgeOPrNLbqivFm5tXOg)
 + [CAS和AQS实现原理详解(图文全面总结)](https://mp.weixin.qq.com/s/mHePKzmZRlmFbffgOR6B7A)
 + [面试官：synchronized的优化过程知道吗？我：阿巴阿巴](https://mp.weixin.qq.com/s/5HOHoD2LTcrvIFM2JvfRuA)
@@ -330,7 +329,10 @@
 + [SpringBoot3.x系统架构的服务熔断和服务降级处理](https://mp.weixin.qq.com/s/r08DkaIQLsxa07QU9pLZCw)
 + [SpringBoot竟然还能这样设置启动模式](https://mp.weixin.qq.com/s/wbh2IwBx3I1j_4IPr3vivw)
 + [一文了解 Spring Boot 启动类 SpringApplication](https://my.oschina.net/u/4526289/blog/11321111)
++ [基于SpringBoot框架的在线试题库系统源码+学习文档+讲解视频](https://mp.weixin.qq.com/s/9pDZJD_C3W1tsWDg9_PJ_A)
 + [如何优雅地将 Tio Boot 集成到 Spring Boot 项目中](https://mp.weixin.qq.com/s/AuqykMEVyhH60EkgodljCA)
++ [Springboot又循环依赖了？!介绍6种解决方案](https://mp.weixin.qq.com/s/DV8TiTgNxkU04D78mJ_AgA)
++ [SpringBoot自动装配原理+手写一个starter组件](https://mp.weixin.qq.com/s/Q7gUL7d4j25Qavx_RxJyVA)
 + [强大！SpringBoot这种数据绑定技巧你知道吗？](https://mp.weixin.qq.com/s/K3evP-SDlOVXwaHsnA0zHA)
 + [通过 Spring Boot 实现考试系统多设备同步与验证](https://mp.weixin.qq.com/s/TvsuQVA52Kt-HoKKjp__LA)
 + [基于SpringBoot的微服务架构与K8S容器部署实践](https://mp.weixin.qq.com/s/Sik4QbKwQv4I6zBU3HBP5A)
@@ -426,6 +428,7 @@
 + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
++ [SpringBoot 参数校验，高级特性，非常实用！](https://mp.weixin.qq.com/s/5kQRGO6ZtlJIm3BcxUEDzg)
 + [实战指南：利用 React 与 Spring Boot 开发协同编辑的表格文档](https://my.oschina.net/powertoolsteam/blog/11213792)
 + [快来看看你会的超过4个没？SpringBoot获取前端参数的7种方式](https://mp.weixin.qq.com/s/Ojg2dX4HpbDz9tMWbIkR9g)
 + [Spring Boot中的 6 种API请求参数读取方式](https://mp.weixin.qq.com/s/mausyt2JOA39sI1KsFmzow)
@@ -473,6 +476,7 @@
 + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
 ##### websocket
 + [必不可少的技能之SpringBoot+WebSocket配置详解](https://mp.weixin.qq.com/s/paAH9GGdW81V2o64SfrANg)
++ [SpringBoot3 集成 WebSocket 是真的简单](https://mp.weixin.qq.com/s/AoaUkggTuPjlhAlzbWKlUQ)
 #### data
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
 + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)
@@ -655,6 +659,9 @@
 + [ShardingSphere5.2.0按月分表，自动建表](https://mp.weixin.qq.com/s/lB-c7CDLyde5amQ5K6ILew)
 + [你还在用Sharding-JDBC 实现分片码](https://mp.weixin.qq.com/s/iTXFVAbv26uTqxW-vyOfHQ)
 + [6大分库分表中间件详解(图文全面总结)](https://mp.weixin.qq.com/s/sD_0CcM9ZseXRgM00CEYSg)
+# 其它环境
+## GraalVM
++ [完全解析GraalVM-多语言混合开发](https://mp.weixin.qq.com/s/4W9q7bV6eHm98leYet_abg)
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
 + [引入 DynamicThreadPoolExecutor 体系，完善线程池扩展功能(一)](https://mp.weixin.qq.com/s/-eHQlmMbyhrK7zd8JHTB7g)

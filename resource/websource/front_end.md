@@ -36,6 +36,7 @@
 + [为什么有些 Vue3 项目已经开始弃用 Pinia 了？](https://mp.weixin.qq.com/s/zfaOou0C5RuA3b79JcE57Q)
 ## react
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)
++ [了解 React 和 Vite 中的服务器端渲染 (SSR)](https://mp.weixin.qq.com/s/hQauL5syYoDZpd8NTeWKdw)
 + [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
 # websocket
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)

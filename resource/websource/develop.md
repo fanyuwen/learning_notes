@@ -21,6 +21,7 @@
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
 + [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
 + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s/uy5GIiUeMUzoFhPyS7EBLA)
++ [秒杀圣经(2): 16大绝招，完成10Wqps秒杀架构（3万字架构长文）](https://mp.weixin.qq.com/s/CVwppNImK6roZ2UmmJh6bg)
 + [大厂聚合支付系统架构演进（下）](https://mp.weixin.qq.com/s/6EiRP-7bGfCaK8xhpLzeUA)
 + [一文看懂什么是架构](https://mp.weixin.qq.com/s/IhZ3L5K7bWtHYpkqXN95fQ)
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
@@ -224,12 +225,14 @@
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
 ## 代码相关
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
++ [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
 + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
 + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
 + [万字长文浅谈系统稳定性建设](https://mp.weixin.qq.com/s/ySdAsk15H1aWPhOR4qW8Ag)
++ [聊聊性能指标CPU利用率如何计算的？](https://mp.weixin.qq.com/s/JtieBgaHUb7UHRIvExms7A)
 ## 领域知识
 ### JSON
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)

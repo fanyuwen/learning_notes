@@ -31,6 +31,8 @@
 + [【好玩儿的Docker项目】保存网页、稍后阅读，自建 Wallabag 服务，搭配RSS使用更佳！](https://mp.weixin.qq.com/s/aBgXsyJhj39QsrAae87FsQ)
 ## k8s
 + [一篇文章精通K8S的统一访问入口-Service](https://mp.weixin.qq.com/s/wdsaWdAed0U9YbRqdWVP8g)
++ [从Helm到 Operator：Kubernetes应用管理的进化](https://mp.weixin.qq.com/s/uPLCS1-juyr5Vk-TESYDsQ)
++ [一文进阶Kubernetes企业实战经验](https://mp.weixin.qq.com/s/A7edhHgyF2S7o3xYpPby5A)
 + [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
 + [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)

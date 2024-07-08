@@ -8,3 +8,4 @@
 + [ElasticSearch8.x集群搭建记录分享](https://mp.weixin.qq.com/s/VPwQBIrwrvhVOCVaIKxGiw)
 + [Elasticsearch max_result_window 含义及参数调整](https://mp.weixin.qq.com/s/xvm6M4WCQqvX5mo77r6cDA)
 + [Windows环境下elasticsearch8.x部署（图片比较多）](https://mp.weixin.qq.com/s/989jNEv5uGTB7FaTZeg-4w)
++ [智能搜索引擎系统设计和实践](https://mp.weixin.qq.com/s/mQeZtRisTWbJSRUCre1CsA)

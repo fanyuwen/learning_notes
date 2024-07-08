@@ -76,10 +76,12 @@
 + [一个合格的程序员应该读过哪些书](https://my.oschina.net/justjavac/blog/66624)
 + [EAP开发：如何进行有效的需求沟通？](https://mp.weixin.qq.com/s/vFnV8ywos-cAf6ILtDL8aw)
 + [VSCode 的真正竞争对手即将到来：LiteXL](https://mp.weixin.qq.com/s/1QFDxMOWuaQsc4DrI7Mbyw)
++ [中间件MyCat管理与监控工具MyCat-eye](https://mp.weixin.qq.com/s/bpgu3rNTe1AMc6SU4eX4QA)
 + [IDEA 还香吗 Eclipse Theia IDE 正式发布](https://mp.weixin.qq.com/s/mv4Vu0pe_JDDzCN6YTgOUA)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)
++ [一套开源、功能齐全、二次开发友好的即时通讯软件](https://mp.weixin.qq.com/s/J_eb2VyWm99bwq9eLIZz9w)
 ## 行业资源
 + [阿里巴巴26个屌炸天的开源项目，你知道几个？](https://mp.weixin.qq.com/s/6tvz_DbGRWhVHPFfZmYG6A)
 ## idea相关
@@ -109,6 +111,7 @@
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
 + [很难吗？我只用了10分钟就解决了](https://mp.weixin.qq.com/s/EWaWeQbl1RBrq_pfXlDzZQ)
++ [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
 ## 创业
 + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)
 # 其它相关
@@ -133,6 +136,7 @@
 + [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)
 ### 博客
 + [从0开始搭建个人博客《第七期：后端服务部署教程》](https://mp.weixin.qq.com/s/u_1dNSKoyVBBYRE_yF-mRA)
++ [【技术新纪元 | 探索Astro+Vue3+TypeScript+UnoCSS的完美融合：极致性能个人博客】](https://mp.weixin.qq.com/s/KMqYS5QsLDfiDN05YBOljQ)
 ### 数学知识
 + [每天学点程序员数学—从向量变换到矩阵](https://mp.weixin.qq.com/s/bESnVOOBT9Si37bx5Re-kA)
 ### 学习资源

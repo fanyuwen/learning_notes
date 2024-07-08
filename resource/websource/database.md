@@ -67,6 +67,7 @@
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [MySQL 外连接、内连接与自连接的区别？](https://mp.weixin.qq.com/s/PVORJcT20nQa_dNt9Rrpyw)
++ [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/rcMX8zlnYh5yP2F452-cqQ)
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
@@ -170,11 +171,12 @@
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
++ [面试官：这个SQL会用到索引吗？Explain返回列的含义能解释下吗？还有哪些索引失效的场景？](https://mp.weixin.qq.com/s/KNtM8gbTLbpwxpysDa_wVg)
++ [一篇文章聊透索引失效有哪些情况及如何解决](https://mp.weixin.qq.com/s/wz5BJEKrnhH2W0PBGl0Utw)
 + [什么是最左前缀匹配？为什么要遵守？](https://mp.weixin.qq.com/s/2YSnEFyWlNqUs2oMAnpwnQ)
 + [面试官：索引一般是如何实现的？MySQL InnoDB引擎的索引采用的是哪种数据结构？原因是什么呢？](https://mp.weixin.qq.com/s/qVNKcPiTlFULDbEPIQ8OtQ)
 + [如何巧用索引优化SQL语句性能？](https://mp.weixin.qq.com/s/IxR5sWnnFAUO0dPkv_4JhQ)
 + [贝壳面试：MySQL联合索引，最左匹配原则是什么？](https://mp.weixin.qq.com/s/aq2-gR0Wj5L9wPTClH3-xw)
-+ [面试官：这个SQL会用到索引吗？Explain返回列的含义能解释下吗？还有哪些索引失效的场景？](https://mp.weixin.qq.com/s/KNtM8gbTLbpwxpysDa_wVg)
 + [面试官：你知道MySQL索引的最左前缀原则吗？索引下推又是怎么回事儿呢？](https://mp.weixin.qq.com/s/MKFSOCUExehERbiMfmtdjw)
 + [Mysql索引-B+树是如何生长的](https://mp.weixin.qq.com/s/3kJt34IXkvowL6E5xp-zoA)
 + [MySQL：索引优化实战](https://mp.weixin.qq.com/s/NGg5mDE-67YnIR2V-ryZxw)
@@ -200,6 +202,7 @@
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
 + [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
++ [Redis数据类型详解与Redis vs 传统数据库：核心异同点比较](https://mp.weixin.qq.com/s/CsTeZolmN7UTAu_5q5M9pA)
 + [面试官：为什么 Redis 不立刻删除已经过期的数据？](https://mp.weixin.qq.com/s/xkHyitlakAAhVEm86u_I_Q)
 + [面试官问我 AOF 重写机制的流程，我回答不上来被 Pass 了！](https://mp.weixin.qq.com/s/ZxiFsYZL43KusKSNp0pLJw)
 + [什么是Big key和Big key的定位以及解决方案](https://mp.weixin.qq.com/s/N3SDFNIy5Hr1PqMo-g8YQw)
@@ -285,6 +288,8 @@
 + [Redis 只会用缓存？20种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/hU47_8puy_3OkUwqCQCEDw)
 + [面试官问：Redis缓存淘汰策略有哪些？](https://mp.weixin.qq.com/s/UC5e_OSUFYohAUM4-Qsvaw)
 + [Redis多级缓存指南：从前端到后端全方位优化！](https://mp.weixin.qq.com/s/9Hbe9vLnMTXc7hxVpFMqLA)
+### MongoDB
++ [MongoDB在AI和大数据中的应用](https://mp.weixin.qq.com/s/znaTV_gGVE0aoEOGSQbe-w)
 ### keyDB
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
 ### CLICKHOUSE
@@ -298,5 +303,6 @@
 ### minio
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)
 # 大数据相关
++ [你公司到底需不需要引入实时计算引擎？](https://mp.weixin.qq.com/s/T_cM0F5_Luz20HmTjFyVpQ)
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)

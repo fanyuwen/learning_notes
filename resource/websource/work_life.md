@@ -97,6 +97,7 @@
 + [用了这个IDEA插件以后，我写代码快了10倍！](https://mp.weixin.qq.com/s/k68q-oCE9fNTHv4MU0HnCA)
 + [效率拉满，开发了一款可直接编辑 jar 包的 IDEA 插件](https://mp.weixin.qq.com/s/TjnBoXlZzrPkRW0aUoz_Gg)
 + [一款 IDEA Mybatis插件：极大提升 CRUD 效率，堪称神器！](https://mp.weixin.qq.com/s/SYZOa1Ay-dyiuy-jmrbJiA)
++ [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 # 行业趣闻
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
 + [阿里云又挂了，这次是光缆被挖断了？](https://mp.weixin.qq.com/s/cb2Lh56uINxacM2uUaB6Vw)
@@ -134,8 +135,6 @@
 + [RAG-索引之PDF文档解析](https://mp.weixin.qq.com/s/innbTL6aeOsl9vyJSN6yBw)
 + [查找 - 通用化的查找的解释](https://mp.weixin.qq.com/s/CdeN__MSrc8YtiMHxvVOww)
 ## 个人综合
-### 开发技能
-+ [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 ### 面试
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)
 + [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)

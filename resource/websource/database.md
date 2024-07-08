@@ -92,6 +92,7 @@
 + [MySQL 隐式转换必知必会](https://my.oschina.net/actiontechoss/blog/11183928)
 + [MySQL 给用户添加 ALTER VIEW 的权限](https://my.oschina.net/u/4526289/blog/11123189)
 + [Mysql 的过程和函数 (记录)](https://my.oschina.net/OutOfMemory/blog/155466)
++ [MySQL 密码忘记了怎么办？](https://mp.weixin.qq.com/s/gHcFogYRa7_b9p5XwXd9Cw)
 + [MySQL 模糊查询再也不用like+%了](https://mp.weixin.qq.com/s/RbdKpm0pFG5D290_4XS0HA)
 + [聊聊 MySQL 是如何处理排序的](https://my.oschina.net/u/4526289/blog/11138574)
 + [告别内存 OOM，解决 MySQL 内存增长问题](https://my.oschina.net/u/4526289/blog/11205449)

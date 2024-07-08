@@ -11,5 +11,7 @@
 + [快速学会一个算法，Transformer](https://mp.weixin.qq.com/s/iJuVZVvOueWKThtQW7ALKg)
 + [基于大模型的语音合成和Audio Codec介绍](https://mp.weixin.qq.com/s/cm4kkKIcHknGJ9ECJdcVZQ)
 + [开源推荐 | 免费的自然语言处理、情感分析、实体识别、图像识别与分类、OCR识别、语音识别接口](https://mp.weixin.qq.com/s/ZY1iRRCmAts8k6EKNSrVFQ)
++ [问世7年，Transformer有了哪些小变革？](https://mp.weixin.qq.com/s/59NSoWe80kMbZptJWsMVyw)
++ [为什么都放弃了LangChain？](https://mp.weixin.qq.com/s/mtaXOGFw3852F1RsZNqF4Q)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)

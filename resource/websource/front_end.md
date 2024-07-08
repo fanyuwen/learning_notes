@@ -33,8 +33,10 @@
 + [三分钟，带你学会 Vue3 加载远程组件](https://mp.weixin.qq.com/s/dUlLfTe6Y8-sdPxWCq6Jow)
 + [Vue3中如何自定义消息总线](https://mp.weixin.qq.com/s/4aBWo1uqVcGikXpDHoe1tw)
 + [吐槽一下 Vue3 的语法设计](https://mp.weixin.qq.com/s/c1fywG0NJi7Idh9IjryXcg)
++ [为什么有些 Vue3 项目已经开始弃用 Pinia 了？](https://mp.weixin.qq.com/s/zfaOou0C5RuA3b79JcE57Q)
 ## react
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)
++ [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
 # websocket
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)
 + [细说 websocket 快速重连机制](https://my.oschina.net/u/2550800/blog/4420403)

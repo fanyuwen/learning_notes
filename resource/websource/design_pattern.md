@@ -7,6 +7,7 @@
 + [进阶玩法：策略+责任链+组合实现合同签章](https://mp.weixin.qq.com/s/0xyvnsxKYW6sV_5w0rMXNg)
 # 原则
 + [单一职责到底是什么？十分钟带你掌握!](https://mp.weixin.qq.com/s/BX3OHuvWwIWx6Gl455aYJg)
++ [彻底弄懂类设计原则之 - 单一职责原则](https://my.oschina.net/helloworldnet/blog/5392170)
 + [接口隔离原则，到底什么需要隔离？](https://mp.weixin.qq.com/s/JpezPV3BQKI5-VnNvRZZgw)
 + [依赖倒置，究竟什么被倒置了？](https://mp.weixin.qq.com/s/lvMiQUG_Pd6wufQlYNXicA)
 # 单例模式

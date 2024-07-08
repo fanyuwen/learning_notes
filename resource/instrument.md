@@ -49,6 +49,7 @@
 + graphql的java实现 [graphql-java](https://www.graphql-java.com/)
 + java纯函数式编写库 [vavr](https://docs.vavr.io/)
 + 全文搜索引擎工具 [lucene](https://lucene.apache.org/)
++ javaPDF操作库 [pdfbox](https://pdfbox.apache.org/)
 + 上下文资源分析工具 [tika](https://tika.apache.org/)
 + AI
   + 应用开发和编排 [agentsflex](https://agentsflex.com/)

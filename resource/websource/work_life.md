@@ -75,6 +75,8 @@
 + [完全开源的现代化IDE正式发布：支持云端和桌面、兼容VS Code扩展、全球最大开源基金会打造](https://mp.weixin.qq.com/s/nL9XqFLDNr5vBlsoShkCDQ)
 + [一个合格的程序员应该读过哪些书](https://my.oschina.net/justjavac/blog/66624)
 + [EAP开发：如何进行有效的需求沟通？](https://mp.weixin.qq.com/s/vFnV8ywos-cAf6ILtDL8aw)
++ [VSCode 的真正竞争对手即将到来：LiteXL](https://mp.weixin.qq.com/s/1QFDxMOWuaQsc4DrI7Mbyw)
++ [IDEA 还香吗 Eclipse Theia IDE 正式发布](https://mp.weixin.qq.com/s/mv4Vu0pe_JDDzCN6YTgOUA)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)
@@ -133,3 +135,5 @@
 + [从0开始搭建个人博客《第七期：后端服务部署教程》](https://mp.weixin.qq.com/s/u_1dNSKoyVBBYRE_yF-mRA)
 ### 数学知识
 + [每天学点程序员数学—从向量变换到矩阵](https://mp.weixin.qq.com/s/bESnVOOBT9Si37bx5Re-kA)
+### 学习资源
++ [实用开源电子书合集](https://mp.weixin.qq.com/s/YmHowFdo8w9hvSHIByOe5A)

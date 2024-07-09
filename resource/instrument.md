@@ -1,12 +1,12 @@
 ### DATABASE
-+ NoSQL数据库 [cassandra](https://cassandra.apache.org/) <font style='color:red'>*</font>[couchbase](https://www.couchbase.com/) <font style='color:red'>\*</font> [clickhouse](https://clickhouse.com)
++ NoSQL数据库 [cassandra](https://cassandra.apache.org/) <font style='color:red'>*</font>[couchbase](https://www.couchbase.com/) <font style='color:red'>\*</font>[clickhouse](https://clickhouse.com)
 + 时序数据库 <font style='color:red'>*</font>[InfluxDB](https://www.influxdata.com/)
 + 图数据库 <font style='color:red'>*</font>[neo4j](https://neo4j.com/)
 + 数据库开发运维工具(开源数据库管理工具) [bytebase](https://www.bytebase.com/)
 + 键值对快速存储引擎 [rocksdb](https://rocksdb.org/)
 + 内存数据库 <font style='color:red'>*</font>[dragonfly](https://www.dragonflydb.io/) [redict(redis的分支)](https://redict.io) [garnet](https://microsoft.github.io/garnet/) [keydb](https://docs.keydb.dev) [memcached](http://memcached.org)
 + 分布式内存数据网格 <font style='color:red'>*</font>[hazelcast](https://hazelcast.com/)
-+ 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/)
++ 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/) [couchdb](https://couchdb.apache.org/) [ferretdb](https://www.ferretdb.com/) <font style='color:red'>\*</font>[rethinkdb](https://rethinkdb.com/) <font style='color:red'>\*</font>[ravendb](https://ravendb.net/) <font style='color:red'>\*</font>[arangodb](https://arangodb.com/)
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
 + 流处理型数据库 [ksqlDB](https://ksqldb.io)
 + 小型快速数据库 <font style='color:red'>*</font>[sqlite](https://www.sqlite.org)
@@ -22,6 +22,7 @@
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
 + 实时工作负载存储服务 [bookkeeper](https://bookkeeper.apache.org)
 + 高性能云原生分布式文件系统 [juicefs](https://juicefs.com/)
++ 分布式大数据计算 [arrow](https://arrow.apache.org/) [flink](https://flink.apache.org/) [spark](https://spark.apache.org/) [storm](https://storm.apache.org) [hive](https://hive.apache.org)
 
 ### PROJECT_MANAGER
 + JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/)
@@ -70,7 +71,6 @@
 + CI/CD工具 [jenkins](https://www.jenkins.io) [argo-cd](https://argo-cd.readthedocs.io/en/stable/) [tekton](https://tekton.dev) <font style='color:red'>\*</font>[zadig](https://koderover.com/) <font style='color:red'>\*</font>[circleci](https://circleci.com/) <font style='color:red'>*</font>[drone CI](https://www.drone.io/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)
-+ java大数据流处理工具 [flink](https://flink.apache.org/) [spark](https://spark.apache.org/) [storm](https://storm.apache.org) [hive](https://hive.apache.org)
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)

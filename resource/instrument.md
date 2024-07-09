@@ -22,6 +22,7 @@
 + 基于zookeeper的分布式协调服务 [curator](https://curator.apache.org/)
 + 实时工作负载存储服务 [bookkeeper](https://bookkeeper.apache.org)
 + 高性能云原生分布式文件系统 [juicefs](https://juicefs.com/)
++ 分布式大数据计算 [arrow](https://arrow.apache.org/) [flink](https://flink.apache.org/) [spark](https://spark.apache.org/) [storm](https://storm.apache.org) [hive](https://hive.apache.org)
 
 ### PROJECT_MANAGER
 + JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/)
@@ -70,7 +71,6 @@
 + CI/CD工具 [jenkins](https://www.jenkins.io) [argo-cd](https://argo-cd.readthedocs.io/en/stable/) [tekton](https://tekton.dev) <font style='color:red'>\*</font>[zadig](https://koderover.com/) <font style='color:red'>\*</font>[circleci](https://circleci.com/) <font style='color:red'>*</font>[drone CI](https://www.drone.io/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)
-+ java大数据流处理工具 [flink](https://flink.apache.org/) [spark](https://spark.apache.org/) [storm](https://storm.apache.org) [hive](https://hive.apache.org)
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)

@@ -29,6 +29,9 @@
 + [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
++ [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
+### 网络
++ [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
 ### 命令
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
 ### 发行版信息
@@ -42,10 +45,15 @@
 + [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
 + [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
+## 内存
++ [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
+## GPU
++ [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
 ## 网络基础
 + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
 + [探索NAT：网络地址转换技术的深度解析](https://mp.weixin.qq.com/s/r_NWzPoOYvEo72HVTideEw)
 + [揭秘数通知识：什么是NAT？NAT是怎么工作的？](https://mp.weixin.qq.com/s/5WCJz4kt4LGTQAAPOIDcUQ)
++ [NAT 实现原理](https://mp.weixin.qq.com/s/hFe0n_Gz1E7fe9R6C8xbUg)
 + [超实用的80个网络基础知识！](https://mp.weixin.qq.com/s/3f6vhB6xp7mkDTbS8vWU8w)
 + [36张图，一次性补全网络基础知识](https://mp.weixin.qq.com/s/nPIUzppy33MZVwmCq8-e4w)
 + [面试官：解释一下对称加密和非对称加密及其在HTTPS中的应用](https://mp.weixin.qq.com/s/5qrcoXNxZzwEk9iCVpttHQ)
@@ -67,6 +75,7 @@
 ### TCP/IP
 + [面试官：TCP 如何保证传输的可靠性？](https://mp.weixin.qq.com/s/cbSUaYDzPk3SkhQ5xNUuOQ)
 + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
++ [深入理解TCP连接的三次握手过程](https://mp.weixin.qq.com/s/xHMclOH26xznecbPcn-IPg)
 + [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
 + [拆解大厂面试题：TCP 的keep-alive的原理](https://mp.weixin.qq.com/s/euHnLpFWt5bqHdvyMBs0zA)
 + [Socket 的半包，粘包与分包的问题](https://my.oschina.net/OutOfMemory/blog/95857)
@@ -74,6 +83,7 @@
 + [三次握手时，客户端发送的 SYN 报文为什么会被丢弃？——拆解大厂面试题](https://mp.weixin.qq.com/s/t2abN3sxZnLy_JVoCeBYng)
 + [【网络协议】精讲TCP通信原理！图解超赞超详细！！！](https://mp.weixin.qq.com/s/80ox9f6RxeebS48ruvs5mw)
 + [如何应对TCP半连接队列和TCP全连接队列满的情况？——拆解大厂面试题](https://mp.weixin.qq.com/s/jbCGBWogzGqUlCXdsYrakw)
++ [TCP/IP协议](https://mp.weixin.qq.com/s/L6CuozAC4jClHEra6PZuuw)
 ### nginx
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)

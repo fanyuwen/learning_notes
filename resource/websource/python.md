@@ -11,6 +11,7 @@
 + [python---核心函数 1](https://mp.weixin.qq.com/s/V5zX3tuCX9ccH5pVQqPloQ)
 + [Python101 —— Python解析式、迭代器和生成器](https://mp.weixin.qq.com/s/BVyjssuwYiulyJ8fkYCn1g)
 + [`__new__` 和 `__init__` 在 Python 中有何不同？答案可能出乎你的意料](https://mp.weixin.qq.com/s/pzK1kqq2LupfAxZ6H8YVSA)
++ [自学Python之注释](https://mp.weixin.qq.com/s/WiY7lfGMJn2cGUr-gEKJaw)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -28,6 +29,8 @@
 + [Python中turtle库的基础应用](https://mp.weixin.qq.com/s/6VMee8_IoxfryvcJ6ICAaA)
 + [Dnspython ，世界最牛逼的Python库](https://mp.weixin.qq.com/s/JSpIdQsjRrBMLZ7PQGWtSQ)
 + [anyio,一个强大的python库](https://mp.weixin.qq.com/s/VEZncEI6XwV_2b2NwGJgCQ)
++ [pycairo,一个强大的python库](https://mp.weixin.qq.com/s/lfU_9q5jF5_oOV5Xm1t4LQ)
++ [requests-oauthlib,一个强大的python库](https://mp.weixin.qq.com/s/fbMNsPI1Oyz5tAVK1v8P1w)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 ## 工具

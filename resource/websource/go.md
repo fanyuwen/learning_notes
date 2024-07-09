@@ -7,6 +7,7 @@
 + [业内大佬怒喷：Go 正朝着错误的方向发展](https://mp.weixin.qq.com/s/WM7E-1aHu12l75FGq3RDtA)
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)
 + [10 年程序员的编程语言感受与 Go 的结缘](https://my.oschina.net/helloworldnet/blog/5120094)
++ [Go 朝着错误的方向发展，选 Rust 会更好吗？](https://mp.weixin.qq.com/s/z5aGDkAy9xK_VjRST_iujg)
 # 库
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 + [MongoDB Golang驱动记录分享](https://mp.weixin.qq.com/s/Y2F6s67v-Ek43uWoau_69w)
@@ -23,7 +24,7 @@
 + [Go-Job 让你的任务调度不再繁琐](https://my.oschina.net/u/5783135/blog/11212449)
 + [Golang实现轻量级IM](https://mp.weixin.qq.com/s/1JvzeLODNHLRum5QRW2w-g)
 + [推荐几个非常不错的 go 开源项目（建议收藏）](https://mp.weixin.qq.com/s/gHaq1qhFtPHM3kn1E5alVA)
-+ [Go 朝着错误的方向发展，选 Rust 会更好吗？](https://mp.weixin.qq.com/s/z5aGDkAy9xK_VjRST_iujg)
++ [聚合接口层（BFF）之Go语言版（三）统一响应、中间件](https://mp.weixin.qq.com/s/UphhHnM_viMD3KX863teUg)
 # 面试题
 + [Golang 面试题解析](https://my.oschina.net/qiangmzsx/blog/1478739)
 + [Golang 面试题解析（二）](https://my.oschina.net/qiangmzsx/blog/1515173)

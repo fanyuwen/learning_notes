@@ -8,3 +8,5 @@
 + [Zookeeper集群搭建详细教程](https://mp.weixin.qq.com/s/vg8R1YKwAh8k6ZSu3YVqEA)
 # Thrift
 + [Thrift最全详解(图文全面总结)](https://mp.weixin.qq.com/s/HkUCg_PB13VLmV7gyBg9bg)
+# BookKeeper
++ [Apache BookKeeper 一致性协议解析](https://mp.weixin.qq.com/s/zw7KxjZluMZm_bfnWPTSAA)

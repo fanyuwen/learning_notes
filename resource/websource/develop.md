@@ -75,6 +75,7 @@
 + [深入理解分布式锁——以Redis为例](https://mp.weixin.qq.com/s/tmX0foZ0t7y4NpN6du_Dmw)
 + [Redis分布式锁详解及电商秒杀功能示例](https://mp.weixin.qq.com/s/6lTgq7EhPqa66MonaN_ILA)
 + [图解 Redis 和 Zookeeper 分布式锁 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607785)
++ [企业级高可用分布式锁剖析](https://mp.weixin.qq.com/s/DnW-1ZTaWi8_Q5-maVyASA)
 ## 分布式缓存
 + [性能优化：跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s/fqzj0wQp0MkEH4zuGf7NaQ)
 ## 分布式事务
@@ -180,6 +181,7 @@
 + [请求合并的3种技巧，性能起飞！](https://mp.weixin.qq.com/s/hYqZIi436nIinRwj_rxjog)
 + [该从哪些方面提升系统的吞吐量？](https://mp.weixin.qq.com/s/NMEUOhajKtqrASkn8Iwung)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
++ [30s到0.8s，记录一次接口优化成功案例！](https://mp.weixin.qq.com/s/-no6b1kFc6PK0XJIKLeMUA)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
@@ -221,6 +223,7 @@
 + [面试官：你们项目是如何实现流程编排能力的，流程的并行冲突如何解决的](https://mp.weixin.qq.com/s/QVsJG1VY5ulQN2MT1dWBYA)
 + [算法交易实战日记（十八） —— 网格交易中的细节：网格数与长期收益率的关系](https://mp.weixin.qq.com/s/gDxfmX2m8dURnhg9acDpkg)
 + [【SoC】看门狗(Watch Dog)定时器的原理与使用](https://mp.weixin.qq.com/s/drLrmfUCXNIutYBhpGU_5w)
++ [如何设计建立和保持100w的长连接？如果有人恶意创建非法连接，怎么解决？](https://mp.weixin.qq.com/s/b7XvHHaJZ5SduPnbdq49SQ)
 # 测试相关
 + [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
 + [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)
@@ -243,6 +246,7 @@
 + [万字长文浅谈系统稳定性建设](https://mp.weixin.qq.com/s/ySdAsk15H1aWPhOR4qW8Ag)
 + [聊聊性能指标CPU利用率如何计算的？](https://mp.weixin.qq.com/s/JtieBgaHUb7UHRIvExms7A)
 + [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
++ [业务系统存储设计](https://mp.weixin.qq.com/s/zBy2ungNiiFb6hwiNRRltg)
 ## 领域知识
 ### JSON
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)

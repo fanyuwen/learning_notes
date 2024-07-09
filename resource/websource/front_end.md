@@ -12,6 +12,7 @@
 ## 实践
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
++ [49个常用JavaScript方法封装【收藏】](https://mp.weixin.qq.com/s/BkhjxG8azO4Yhn5NwAkSGw)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [前端可以玩“锁”了](https://mp.weixin.qq.com/s/O0YwzJ5AYTn7gvizN4cjag)
 + [JavaScript 开发的挑战与未来：简化与创新的平衡](https://mp.weixin.qq.com/s/FL6dm6mlvZs3zse4b4hHjg)
@@ -26,6 +27,10 @@
 + [JavaScript，只有你想不到](https://my.oschina.net/justjavac/blog/66618)
 + [JIT 真的比解释执行快么 —— 关于 JS 引擎的一些热门话题](https://my.oschina.net/u/4662964/blog/11199136)
 + [前端搭建平台进阶：低代码与零代码的结合](https://mp.weixin.qq.com/s/DD-LYDVL7qixeYIFM8hv1Q)
++ [WPS-JSA 如何把时间戳的数字转换成标准的日期格式](https://mp.weixin.qq.com/s/NFeVEi0b3k_bd7obFbWVGA)
++ [WPS-JSA 案例重做：有关JSA里属性与方法显示问题的坑（个人见解）](https://mp.weixin.qq.com/s/c0pkhh6a9istvWDPy7RQ9g)
++ [WPS-JSA 从累加器看数组的reduce方法](https://mp.weixin.qq.com/s/F5sgh0iOluCRuRBSqKL-1w)
++ [WPS-JSA 了解Date函数与时间戳](https://mp.weixin.qq.com/s/hgTeJcCwcOJ3q6FvhIeong)
 # 框架
 ## vue
 + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)

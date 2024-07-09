@@ -13,7 +13,10 @@
 + [开源推荐 | 免费的自然语言处理、情感分析、实体识别、图像识别与分类、OCR识别、语音识别接口](https://mp.weixin.qq.com/s/ZY1iRRCmAts8k6EKNSrVFQ)
 + [问世7年，Transformer有了哪些小变革？](https://mp.weixin.qq.com/s/59NSoWe80kMbZptJWsMVyw)
 + [为什么都放弃了LangChain？](https://mp.weixin.qq.com/s/mtaXOGFw3852F1RsZNqF4Q)
++ [不要只看表面就说复杂，搞不清楚in-place操作和广播机制的意义，建议看这篇！](https://mp.weixin.qq.com/s/OGUBhQP7ST0LWbxUKT_jhg)
 + [AI使用体验之ChatGPT帮我写代码](https://mp.weixin.qq.com/s/ZxcbGv_cBiaFqww0zQgYcg)
 + [LLM学习笔记 - Prompt技巧](https://mp.weixin.qq.com/s/ssswf30VqG_bvxh53IRiyA)
++ [KV Cache的想法](https://mp.weixin.qq.com/s/DqoNZNvN2WEUeJzA9SF-oA)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)
++ [从零学AI大语言模型Pytorch篇（10）：规约运算](https://mp.weixin.qq.com/s/aooouLYoMYP4r5qoKNwHbA)

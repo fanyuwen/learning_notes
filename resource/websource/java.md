@@ -47,6 +47,7 @@
 + [这道面试题连续拦下5个人，公司只好删掉了。](https://mp.weixin.qq.com/s/jFFaSWVyQeMV2yxu6GT_iA)
 ## 代码质量
 + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
++ [一个项目代码讲清楚DO/PO/BO/AO/E/DTO/DAO/ POJO/VO](https://mp.weixin.qq.com/s/seduq9sglqEnC2ta7LU07g)
 + [一句注释引发的思考 - 论代码质量](https://my.oschina.net/jijunjian/blog/11335481)
 + [26 个提升 java 性能需要注意的地方](https://my.oschina.net/justjavac/blog/66628)
 + [依赖注入：打造高内聚，低耦合的代码艺术](https://mp.weixin.qq.com/s/nO6CwX7J515L5K-ZXSs_pg)
@@ -441,6 +442,7 @@
 + [Spring Boot中的 6 种API请求参数读取方式](https://mp.weixin.qq.com/s/mausyt2JOA39sI1KsFmzow)
 + [SpringBoot自带Controller接口监控，赶紧用起来](https://mp.weixin.qq.com/s/Ggv4e52CB-RS2pFPG43z3w)
 + [这才是SpringBoot统一响应和异常处理的最佳实践](https://mp.weixin.qq.com/s/IRl7DC4ZYTipHA2hCMdCyA)
++ [Spring Boot + FreeMarker 实现按模板导出 Word 文档](https://mp.weixin.qq.com/s/3378NclJmiKaCcgBIWN52g)
 + [使用 Spring Boot 结合断点续传技术和自动重连机制实现考试系统网络不稳定性的应对策略](https://mp.weixin.qq.com/s/PoGAfTEXk2jHzmKZRUa02w)
 + [SpringBoot + Jackson 实现自动化配置](https://mp.weixin.qq.com/s/MifVUmcTkmVKN658tSlGOg)
 + [SpringBoot中Controller接口参数还可以这样玩？](https://mp.weixin.qq.com/s/-xOJpfkVYQG8GAJbMkkcIQ)
@@ -504,6 +506,7 @@
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
 ##### big data
 + [Spring Boot 3.x + Flink 实现实时数据聚合与窗口操作](https://mp.weixin.qq.com/s/vY5MtaW2Uye28JvzC0P_fg)
++ [Spring Boot 3.x + Flink 实现大数据文件处理的优化方案](https://mp.weixin.qq.com/s/-mPkuq50T7OUsJGBLseDdQ)
 #### 多线程
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)
@@ -674,6 +677,8 @@
 + [ShardingSphere5.2.0按月分表，自动建表](https://mp.weixin.qq.com/s/lB-c7CDLyde5amQ5K6ILew)
 + [你还在用Sharding-JDBC 实现分片码](https://mp.weixin.qq.com/s/iTXFVAbv26uTqxW-vyOfHQ)
 + [6大分库分表中间件详解(图文全面总结)](https://mp.weixin.qq.com/s/sD_0CcM9ZseXRgM00CEYSg)
++ [深入理解shedlock:使用与原理剖析](https://mp.weixin.qq.com/s/7mIGGM3fzmdM-FQTH0_6lg)
++ [一站式解决网络通信问题：掌握Apache Commons Net的实战技能](https://mp.weixin.qq.com/s/DSTK68fzFFKQc3Qw2HaGDQ)
 # 其它环境
 ## GraalVM
 + [完全解析GraalVM-多语言混合开发](https://mp.weixin.qq.com/s/4W9q7bV6eHm98leYet_abg)

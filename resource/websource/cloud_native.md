@@ -37,5 +37,8 @@
 + [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
 + [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)
++ [深入理解Kubernetes对象,Pod服务质量Qos](https://mp.weixin.qq.com/s/8QcG0tvb1rMayG_kYfUerA)
++ [深入理解Kubernetes对象,资源配额管理-ResourceQuota](https://mp.weixin.qq.com/s/XPawMDvq8eDH9WIOzdJAog)
++ [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)
 ## Prometheus
 + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)

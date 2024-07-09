@@ -15,7 +15,10 @@
 + [视说"C"语：第1集 C语言课程概述](https://mp.weixin.qq.com/s/JXPTBZ_EMVaBPi7iDtolfw)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
++ [free() 函数只传入一个内存地址，为什么能知道要释放多大的内存？](https://mp.weixin.qq.com/s/KuakcB2DFXTcO9xy_gYAxw)
 ## verilog
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 # ARM
 + [ARM架构与编程 · 基于STM32F103笔记(2)](https://mp.weixin.qq.com/s/ZvrPf8KEc-ZnM8cTzlK1Hg)
+# PLC
++ [Sizzler:梯形图中的顺序引信用于可编程逻辑控制器中的漏洞检测和发现](https://mp.weixin.qq.com/s/QDTDOr_hQT6FP3XUvaDVJQ)

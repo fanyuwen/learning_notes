@@ -6,7 +6,7 @@
 + 键值对快速存储引擎 [rocksdb](https://rocksdb.org/)
 + 内存数据库 <font style='color:red'>*</font>[dragonfly](https://www.dragonflydb.io/) [redict(redis的分支)](https://redict.io) [garnet](https://microsoft.github.io/garnet/) [keydb](https://docs.keydb.dev) [memcached](http://memcached.org)
 + 分布式内存数据网格 <font style='color:red'>*</font>[hazelcast](https://hazelcast.com/)
-+ 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/) [couchdb](https://couchdb.apache.org/) [ferretdb](https://www.ferretdb.com/) <font style='color:red'>\*</font>[rethinkdb](https://rethinkdb.com/) <font style='color:red'>\*</font>[ravendb](https://ravendb.net/) <font style='color:red'>\*</font>[arangodb](https://arangodb.com/)
++ 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/) [couchdb](https://couchdb.apache.org/) [ferretdb](https://www.ferretdb.com/) <font style='color:red'>\*</font>[rethinkdb](https://rethinkdb.com/) <font style='color:red'>\*</font>[ravendb](https://ravendb.net/) <font style='color:red'>\*</font>[arangodb](https://arangodb.com/) [orientdb](https://orientdb.org/)
 + 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
 + 流处理型数据库 [ksqlDB](https://ksqldb.io)
 + 小型快速数据库 <font style='color:red'>*</font>[sqlite](https://www.sqlite.org)

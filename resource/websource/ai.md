@@ -17,6 +17,8 @@
 + [AI使用体验之ChatGPT帮我写代码](https://mp.weixin.qq.com/s/ZxcbGv_cBiaFqww0zQgYcg)
 + [LLM学习笔记 - Prompt技巧](https://mp.weixin.qq.com/s/ssswf30VqG_bvxh53IRiyA)
 + [KV Cache的想法](https://mp.weixin.qq.com/s/DqoNZNvN2WEUeJzA9SF-oA)
++ [实现 LLM 应用的可观测，难在哪里？](https://my.oschina.net/u/3859945/blog/11455383)
++ [搞大模型，没有重排工具怎么行？](https://my.oschina.net/u/3859945/blog/11455333)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)
 + [从零学AI大语言模型Pytorch篇（10）：规约运算](https://mp.weixin.qq.com/s/aooouLYoMYP4r5qoKNwHbA)

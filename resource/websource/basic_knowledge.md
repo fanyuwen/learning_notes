@@ -30,10 +30,13 @@
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
++ [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
 ### 网络
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
 ### 命令
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
++ [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
++ [Linux强大的网络命令：curl，一篇文章讲通透！](https://mp.weixin.qq.com/s/JcKutFM94S3Srshw9SlN6g)
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
 ### 相关信息
@@ -84,6 +87,7 @@
 + [【网络协议】精讲TCP通信原理！图解超赞超详细！！！](https://mp.weixin.qq.com/s/80ox9f6RxeebS48ruvs5mw)
 + [如何应对TCP半连接队列和TCP全连接队列满的情况？——拆解大厂面试题](https://mp.weixin.qq.com/s/jbCGBWogzGqUlCXdsYrakw)
 + [TCP/IP协议](https://mp.weixin.qq.com/s/L6CuozAC4jClHEra6PZuuw)
++ [为什么TCP需要三次握手？一文讲透！](https://mp.weixin.qq.com/s/YIK7N6plIaGdag9LSO3Irg)
 ### nginx
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
@@ -101,6 +105,7 @@
 + [物联网中设备怎么和云端通信](https://mp.weixin.qq.com/s/VQhM8lo8GsKuP0QKprWD1A)
 + [图解IO多路复用的原理](https://mp.weixin.qq.com/s/LyhMybGUyFEbIMwz6Qe3fw)
 + [图解IO多路复用之Poll的实现原理](https://mp.weixin.qq.com/s/Vv4mP4h4nRbR8gKB2m64LA)
++ [图解IO多路复用之epoll实现原理](https://mp.weixin.qq.com/s/XnmJFAUzReBtFGs3g9dPFg)
 + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
 + [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
 ## 实践

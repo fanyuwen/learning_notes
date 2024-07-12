@@ -19,6 +19,8 @@
 + [KV Cache的想法](https://mp.weixin.qq.com/s/DqoNZNvN2WEUeJzA9SF-oA)
 + [实现 LLM 应用的可观测，难在哪里？](https://my.oschina.net/u/3859945/blog/11455383)
 + [搞大模型，没有重排工具怎么行？](https://my.oschina.net/u/3859945/blog/11455333)
++ [构建自己的 RAG 应用程序：使用 Ollama、Python 和 ChromaDB 在本地设置 LLM 之分步指南](https://mp.weixin.qq.com/s/4ai0QjpzbAq4YQ-29VWxrQ)
++ [神经网络可能不再需要激活函数？Layer Normalization也具有非线性表达！](https://mp.weixin.qq.com/s/YRAcAKouScQGt3lOxe8fBQ)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)
 + [从零学AI大语言模型Pytorch篇（10）：规约运算](https://mp.weixin.qq.com/s/aooouLYoMYP4r5qoKNwHbA)

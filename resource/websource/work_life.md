@@ -16,6 +16,7 @@
 + [为什么大部分程序员都做不了软件架构师？](https://mp.weixin.qq.com/s/RW1Mq9g-OljahIGiPh4D8g)
 + [代码是上午写的，人是下午被开除的！](https://mp.weixin.qq.com/s/SBqL31-RAwzEoxJrMHjrLA)
 + [中年危机自救行动指南](https://mp.weixin.qq.com/s/0OXPfYrlooZO13hZMZBU2Q)
++ [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -48,6 +49,7 @@
 + [一名合格的程序员需要掌握哪些技能](https://my.oschina.net/justjavac/blog/67337)
 + [程序员究竟该如何提高效率](https://my.oschina.net/justjavac/blog/67784)
 + [十步让你成为一名优秀的 Web 开发人员](https://my.oschina.net/justjavac/blog/66772)
++ [程序员这样自学，效率翻倍！](https://mp.weixin.qq.com/s/4bggIhdw8GyJiI2TNQG4Hw)
 + [如何在开发过程中减少 Bug？](https://mp.weixin.qq.com/s/8A97pGRbFL3cVbVbRVY9lQ)
 + [你的编程能力什么时候开始有了质的飞跃？](https://mp.weixin.qq.com/s/k00Pinm1O7ALMayQiJBu3Q)
 + [不想成为架构师的程序员不是好厨子，读读这几本书，帮你少走好几年弯路](https://mp.weixin.qq.com/s/ZS1QVKYATYk7NYXNKenReg)
@@ -82,6 +84,8 @@
 + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
 + [中间件MyCat管理与监控工具MyCat-eye](https://mp.weixin.qq.com/s/bpgu3rNTe1AMc6SU4eX4QA)
 + [IDEA 还香吗 Eclipse Theia IDE 正式发布](https://mp.weixin.qq.com/s/mv4Vu0pe_JDDzCN6YTgOUA)
++ [3.6k star！分分钟拥有一个轻量可用的linux，太方便了！](https://mp.weixin.qq.com/s/hKcSOybERY2bVNAAgGEfjA)
++ [推荐 GitHub 上一个能帮你将数据清理及结构化的开源工具 OmniParse](https://mp.weixin.qq.com/s/_ehqBBCrUI-wiGBCAhrmAQ)
 + [一个跨平台文件同步神器，去中心化，操作简单，Star 62K!](https://mp.weixin.qq.com/s/w6utXg6-IqI6oyiqU7eBxQ)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
@@ -100,6 +104,7 @@
 + [用了这个IDEA插件以后，我写代码快了10倍！](https://mp.weixin.qq.com/s/k68q-oCE9fNTHv4MU0HnCA)
 + [效率拉满，开发了一款可直接编辑 jar 包的 IDEA 插件](https://mp.weixin.qq.com/s/TjnBoXlZzrPkRW0aUoz_Gg)
 + [一款 IDEA Mybatis插件：极大提升 CRUD 效率，堪称神器！](https://mp.weixin.qq.com/s/SYZOa1Ay-dyiuy-jmrbJiA)
++ [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/2jAlSCNd3VhZKxcjnciKKg)
 + [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 # 行业趣闻
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
@@ -115,15 +120,18 @@
 + [我让代码，学会了自动评审！提高80%的交付质量！](https://mp.weixin.qq.com/s/XeBycsfgSuAMJDw0JC1c7Q)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
++ [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
 + [很难吗？我只用了10分钟就解决了](https://mp.weixin.qq.com/s/EWaWeQbl1RBrq_pfXlDzZQ)
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
++ [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
 ## 创业
 + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)
 # 其它相关
 + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
 + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
++ [苹果电脑的 macOS 系统有多难用？](https://mp.weixin.qq.com/s/gFN_xoZebL1SSQWO4jOAog)
 + [社会内卷的真正原因：华为内部论坛的这篇雄文火了](https://mp.weixin.qq.com/s/uGXQTgSbV-4a6PchaeC14A)
 + [美团后端面经，难度不算大，但是人都被问麻了](https://mp.weixin.qq.com/s/er8Yg26RUFUKeR1fIVmH7Q)
 + [程序员界有哪些经典的笑话?](https://mp.weixin.qq.com/s/ageQFNcjKrtKlse0QFyL0w)

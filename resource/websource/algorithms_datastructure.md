@@ -21,5 +21,6 @@
 # 领域算法
 + [迄今最快的网络流算法，网友：几乎与数学理论一样快](https://mp.weixin.qq.com/s/ggniihELqSbFm18RgX7ZdQ)
 + [阿里228x82y还原之递归数组解密](https://mp.weixin.qq.com/s/t9JJh5xnZspo0AXm0X-yzg)
++ [美团面试：百亿级分片，如何设计基因算法？](https://mp.weixin.qq.com/s/JS7-Xu180704WY7LDrebYw)
 # leetcode
 + [来字节3个月，干不动了，想跑路。。](https://mp.weixin.qq.com/s/GsAhOtGrogG8D8ZmlMO5Hw)

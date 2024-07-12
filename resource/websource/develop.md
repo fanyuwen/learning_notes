@@ -48,6 +48,8 @@
 + [微服务通信大揭秘：HTTP vs RPC，谁是不二之选](https://mp.weixin.qq.com/s/LlvlnvZ-eG9pZ32k3dUoOA)
 + [详解微服务应用灰度发布最佳实践](https://my.oschina.net/u/3874284/blog/11322133)
 + [采用微服务架构前，先问自己几个问题](https://mp.weixin.qq.com/s/Sr4R5KC3liTc24WSPLQPFA)
++ [微服务的版本号要怎么设计？](https://mp.weixin.qq.com/s/uMVcx74ODCbfKfddr8UBYQ)
++ [微服务治理探索](https://mp.weixin.qq.com/s/cgzBm-a_trEHUGnAbqA_Nw)
 # 分布式
 ## 实践
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
@@ -64,6 +66,7 @@
 + [面试官：谈谈分布式一致性机制 ？](https://mp.weixin.qq.com/s/oiAv9qeetMT7ioWqVaZf_w)
 + [为什么说心跳机制是分布式系统的守护神？](https://mp.weixin.qq.com/s/x5gK7n7AV_MBQwcqhfD9nA)
 + [面试必备：10种分布式ID的生成方案](https://mp.weixin.qq.com/s/-H7REzOQ-iECWv6kQHYEmw)
++ [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
 ## 分布式锁
 + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)
 + [面试官：如何实现一个合格的分布式锁？](https://mp.weixin.qq.com/s/eCx--VIq__JmZe1JsBNOag)
@@ -82,6 +85,7 @@
 + [5大分布式事务框架详解(图文全面总结)](https://mp.weixin.qq.com/s/2cLIvgPshzWM46kxA2pvLg)
 + [还不懂分布式事务：带你深入剖析TCC实现原理](https://mp.weixin.qq.com/s/Dlv9hdxNRJBeNtaA-dkGrg)
 + [13个分布式事务处理机制，你在用哪个？](https://mp.weixin.qq.com/s/J-8cv9cmKMDvAzSHWCTAtA)
++ [Seata分布式事务详解(原理流程及4种模式)](https://mp.weixin.qq.com/s/EUGeDLGKOiYEaGdR_Pryfw)
 + [什么情况下需要使用分布式事务，有哪些方案？](https://mp.weixin.qq.com/s/y11csr1_m_mLUkxamXXvig)
 + [面试官：用过分布式事务吗？](https://mp.weixin.qq.com/s/UY96W2XorrJ32-et07iMig)
 + [腾讯二面，被分布式事务疯狂拷打~](https://mp.weixin.qq.com/s/fHqtMK4BKDH7VOguI2266g)
@@ -96,6 +100,7 @@
 + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
 # 组件设计
 + [拒绝重复代码，封装一个多级菜单、多级评论、多级部门的统一工具类](https://mp.weixin.qq.com/s/0m_Ssyh0rs7nLMfpR8xFVA)
++ [1000T的文件怎么能快速从南京传到北京？最佳方案你肯定想不到](https://mp.weixin.qq.com/s/hEdqq0QvRxv4ll-nnf6uPA)
 + [揭秘完整的手机扫码登录的实现原理](https://mp.weixin.qq.com/s/rqfQINop1jC-v33Wwf67SQ)
 + [Google二面：聊聊系统设计思路！(推荐阅读)](https://mp.weixin.qq.com/s/YTMtiZZP-uyOj2xhz7eIpg)
 + [一款开源、优雅、强大的物联网系统](https://mp.weixin.qq.com/s/ccxFg902AI4OHVYgisPhKA)
@@ -253,14 +258,21 @@
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 ## 开发流程
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
+### 版本管理
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
++ [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)
 + [【规范】Git分支管理，看看我司是咋整的](https://mp.weixin.qq.com/s/8LRB9k-4EsgSN1lCy5az8A)
 + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)
 + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
 + [你合并代码用 merge 还是用 rebase ?](https://mp.weixin.qq.com/s/SRdfXUDRaj9aQKRzbz9BWQ)
 + [代码合并冲突不断通宵解决，你的团队应该引入这种代码分支策略！](https://mp.weixin.qq.com/s/IhT9HVmoegQe3BC4_mZoWw)
++ [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
+### 编程范式
++ [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
+### 问题排查
++ [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 ### 团队管理
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
 ## 数据治理

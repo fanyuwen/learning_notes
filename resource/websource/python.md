@@ -29,8 +29,10 @@
 + [Python中turtle库的基础应用](https://mp.weixin.qq.com/s/6VMee8_IoxfryvcJ6ICAaA)
 + [Dnspython ，世界最牛逼的Python库](https://mp.weixin.qq.com/s/JSpIdQsjRrBMLZ7PQGWtSQ)
 + [anyio,一个强大的python库](https://mp.weixin.qq.com/s/VEZncEI6XwV_2b2NwGJgCQ)
++ [Pydub，一个牛逼的python库](https://mp.weixin.qq.com/s/XJajtr5NWjcNO8Q1vNwY3A)
 + [pycairo,一个强大的python库](https://mp.weixin.qq.com/s/lfU_9q5jF5_oOV5Xm1t4LQ)
 + [requests-oauthlib,一个强大的python库](https://mp.weixin.qq.com/s/fbMNsPI1Oyz5tAVK1v8P1w)
++ [SCons，世界最强的Python库](https://mp.weixin.qq.com/s/GrrGAzS6t7jqQVHBYP-aEA)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 ## 工具
@@ -41,6 +43,8 @@
 + [Python数据库编程的10个核心技巧](https://mp.weixin.qq.com/s/0zXpc3JAnV7iG6jkWtQyzA)
 + [100个python代码大全(三十二)](https://mp.weixin.qq.com/s/4qaUI0nNaD_mzERD9bJz5g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
++ [Python 中创建当前日期和时间的文件名](https://mp.weixin.qq.com/s/QkiC6HT37aB3OS8yqgJFFw)
++ [Python排序，你用对了吗？一文教你sorted和sort的正确姿势！](https://mp.weixin.qq.com/s/gdCP3EWY66FhUrsbvA7C6Q)
 + [Python绘制ROC曲线](https://mp.weixin.qq.com/s/X09G7VlWr2irDK9GAHPpag)
 + [Python 编码时应该注意的几件事情](https://my.oschina.net/justjavac/blog/69309)
 + [Python 以下划线开头的函数](https://mp.weixin.qq.com/s/9O2Ryrn4pP_lR_fwTcE5iw)
@@ -74,14 +78,18 @@
 + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s/5SFBqLB7z85awLwaIxgwUg)
 + [10个常用的python lambda函数](https://mp.weixin.qq.com/s/TDeByt-MRHJE2QjtTod8og)
 + [Python编程常用的36个经典案例](https://mp.weixin.qq.com/s/nSWMfNUNRsd8rDM-W-fCTA)
++ [零基础学Python 30天 - 第28天：深度学习高级内容](https://mp.weixin.qq.com/s/yn9MocKkbtBxv0HHAjBZEQ)
 + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s/Fod5IYBo7SuTjVUin_Qg6A)
 + [10个python经典的装饰器](https://mp.weixin.qq.com/s/Lb5AKGcOQMa7KmOpmN7MAg)
 + [如何用 Python 做炫酷数据动图，简单几步教你实现](https://mp.weixin.qq.com/s/2sRkwiDbi9Pji5lG-Pn-hw)
++ [15个Python进阶操作系统交互高级命令](https://mp.weixin.qq.com/s/rKvmj6e2IIA2GzzwG5dLKA)
++ [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 ### OPENCV
 + [OpenCV教程03：绘制图形（线段、矩形、圆形、椭圆、多边形、箭头线）+水印文本](https://mp.weixin.qq.com/s/wyPPviaEHIWifz2-cKdNCw)
++ [OpenCV图像拼接改进算法之完美拼接](https://mp.weixin.qq.com/s/Om2Ncj3deRief15h02jr4Q)
 ## 爬虫
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
 + [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g)

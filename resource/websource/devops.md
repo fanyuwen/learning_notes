@@ -23,6 +23,7 @@
 + [基于 istio 实现多集群流量治理](https://my.oschina.net/u/4526289/blog/11051799)
 # 可观测性
 + [可观测性是什么？ 入门指南](https://my.oschina.net/morflameblog/blog/10085380)
++ [监控都没做好，你还要可观测性...](https://mp.weixin.qq.com/s/vbiQQpXv9eXPHMuRPTmpfw)
 + [可观测性建设实践之 - 日志分析的权衡取舍](https://my.oschina.net/morflameblog/blog/10169223)
 + [如何实现埋点日志精准监控](https://mp.weixin.qq.com/s/rPXTjd5bSVNusebJq7wBPg)
 + [生产日志敏感信息处理实践](https://mp.weixin.qq.com/s/IBaDebYqIVmXvoQhUUIjfg)

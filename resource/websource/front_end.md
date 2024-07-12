@@ -5,12 +5,14 @@
 + [ES6 生成器，看似同步的异步流程控制表达风格](https://my.oschina.net/u/4526289/blog/11051652)
 + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
 + [JavaScript Set 全新方法](https://www.oschina.net/news/298868/javascript-set-methods)
++ [TypeScript模板字符串类型的灵活性](https://mp.weixin.qq.com/s/UoeAdO5JoeBb59Mym6GbgA)
 ### 语言新特性
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
 ### 底层
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
 ## 实践
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
++ [精进 JavaScript ｜ 这些手写你都会吗 ？](https://mp.weixin.qq.com/s/evXB9E23xilkHGDg4iTTYw)
 + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
 + [49个常用JavaScript方法封装【收藏】](https://mp.weixin.qq.com/s/BkhjxG8azO4Yhn5NwAkSGw)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
@@ -39,10 +41,16 @@
 + [Vue3中如何自定义消息总线](https://mp.weixin.qq.com/s/4aBWo1uqVcGikXpDHoe1tw)
 + [吐槽一下 Vue3 的语法设计](https://mp.weixin.qq.com/s/c1fywG0NJi7Idh9IjryXcg)
 + [为什么有些 Vue3 项目已经开始弃用 Pinia 了？](https://mp.weixin.qq.com/s/zfaOou0C5RuA3b79JcE57Q)
++ [又一次变革，Vue 更彻底的拥抱了函数式](https://mp.weixin.qq.com/s/7iNLwpm_PTSHfMreR2Hq5Q)
++ [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
 ## react
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)
 + [了解 React 和 Vite 中的服务器端渲染 (SSR)](https://mp.weixin.qq.com/s/hQauL5syYoDZpd8NTeWKdw)
 + [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
++ [原来 React Native 已经如此成熟了](https://mp.weixin.qq.com/s/bMD-1mBOQCFHWFy6y6wfXg)
++ [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
+### react native
++ [React Native 终于“妥协”了！](https://mp.weixin.qq.com/s/0ieve3nqLCBRekG-xvL3uQ)
 # websocket
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)
 + [细说 websocket 快速重连机制](https://my.oschina.net/u/2550800/blog/4420403)

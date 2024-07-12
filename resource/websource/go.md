@@ -8,6 +8,7 @@
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)
 + [10 年程序员的编程语言感受与 Go 的结缘](https://my.oschina.net/helloworldnet/blog/5120094)
 + [Go 朝着错误的方向发展，选 Rust 会更好吗？](https://mp.weixin.qq.com/s/z5aGDkAy9xK_VjRST_iujg)
++ [开发人员喜欢或讨厌 Go 语言的 8 个原因](https://www.oschina.net/news/301338/8-reasons-developers-love-go-and-dont)
 # 库
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 + [MongoDB Golang驱动记录分享](https://mp.weixin.qq.com/s/Y2F6s67v-Ek43uWoau_69w)

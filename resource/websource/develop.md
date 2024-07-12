@@ -228,6 +228,7 @@
 + [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
 + [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)
 + [性能测试的艺术：Apache JMeter帮你赢在起跑线](https://mp.weixin.qq.com/s/vN3-P80Gs_ksJVrge2-x-A)
++ [深入了解软件测试：从入门到奥秘，揭开测试的精髓](https://my.oschina.net/powertoolsteam/blog/11454302)
 # 领域相关
 + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)

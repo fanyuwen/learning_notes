@@ -340,6 +340,7 @@
 + [SpringBoot3.x系统架构的服务熔断和服务降级处理](https://mp.weixin.qq.com/s/r08DkaIQLsxa07QU9pLZCw)
 + [SpringBoot竟然还能这样设置启动模式](https://mp.weixin.qq.com/s/wbh2IwBx3I1j_4IPr3vivw)
 + [一文了解 Spring Boot 启动类 SpringApplication](https://my.oschina.net/u/4526289/blog/11321111)
++ [使用Spring Boot和FFmpeg解决视频会议系统录制和回放功能](https://mp.weixin.qq.com/s/yrZApqTNtESz7pNpLOZnPQ)
 + [基于SpringBoot框架的在线试题库系统源码+学习文档+讲解视频](https://mp.weixin.qq.com/s/9pDZJD_C3W1tsWDg9_PJ_A)
 + [如何优雅地将 Tio Boot 集成到 Spring Boot 项目中](https://mp.weixin.qq.com/s/AuqykMEVyhH60EkgodljCA)
 + [Springboot又循环依赖了？!介绍6种解决方案](https://mp.weixin.qq.com/s/DV8TiTgNxkU04D78mJ_AgA)
@@ -438,6 +439,7 @@
 + [将Docker部署的SpringBoot应用内存降低 40% 以上](https://mp.weixin.qq.com/s/XzJrI6o1cKJJ7pzd45aikA)
 + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
 #### 分布式
++ [SpringBoot实现分布式验证码登录方案](https://mp.weixin.qq.com/s/_ckaptgCNOIwK3_HGqf6oA)
 ##### 事务
 + [实战案例SpringBoot整合Seata AT模式实现分布式事务【超详细】](https://mp.weixin.qq.com/s/570OVCaUusSndNLi5UPw5A)
 #### web

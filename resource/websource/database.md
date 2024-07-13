@@ -65,6 +65,8 @@
 + [服了！DELETE 同一行记录也会造成死锁！！](https://mp.weixin.qq.com/s/K51ntOxUbU64kvdjnReXOw)
 + [聊聊order by 是怎么实现的？](https://mp.weixin.qq.com/s/fqoZdVAETo88x2J9hyCQ0A)
 ## 关系型数据库
+### ORACLE
++ [rfs (PID:146054): Database mount ID mismatch案例](https://mp.weixin.qq.com/s/RXLicR-3Yv7YQRNlPRENcA)
 ### MYSQL
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
@@ -219,6 +221,7 @@
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
 + [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
++ [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)
 + [基于redis实现的轻量级延迟队列](https://mp.weixin.qq.com/s/3foJwnH6FPOaGYTS_HwScg)
 + [Redis源码整体结构](https://mp.weixin.qq.com/s/5t0zMv8oFX_m0FwOEpbW_Q)
 + [Redis数据类型详解与Redis vs 传统数据库：核心异同点比较](https://mp.weixin.qq.com/s/CsTeZolmN7UTAu_5q5M9pA)

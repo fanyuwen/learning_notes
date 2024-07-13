@@ -27,3 +27,5 @@
 + [Sizzler:梯形图中的顺序引信用于可编程逻辑控制器中的漏洞检测和发现](https://mp.weixin.qq.com/s/QDTDOr_hQT6FP3XUvaDVJQ)
 # Soc
 + [NoC技术，重焕新生](https://mp.weixin.qq.com/s/Q9zwu1NZU16P2TJE6DjYVg)
+# FPGA
++ [TIMING_10 时序约束案例（系统同步类型的output delay约束）](https://mp.weixin.qq.com/s/c7Th4ZfCl7yFwsUBS5YXKA)

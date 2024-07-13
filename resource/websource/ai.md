@@ -21,6 +21,9 @@
 + [搞大模型，没有重排工具怎么行？](https://my.oschina.net/u/3859945/blog/11455333)
 + [构建自己的 RAG 应用程序：使用 Ollama、Python 和 ChromaDB 在本地设置 LLM 之分步指南](https://mp.weixin.qq.com/s/4ai0QjpzbAq4YQ-29VWxrQ)
 + [神经网络可能不再需要激活函数？Layer Normalization也具有非线性表达！](https://mp.weixin.qq.com/s/YRAcAKouScQGt3lOxe8fBQ)
++ [激活函数的进化之旅：从Sigmoid到SwiGLU，深度学习的神经触发器](https://mp.weixin.qq.com/s/TCoSeYi1gvEatf2B7eiT-g)
+## 资讯
++ [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)
 + [从零学AI大语言模型Pytorch篇（10）：规约运算](https://mp.weixin.qq.com/s/aooouLYoMYP4r5qoKNwHbA)

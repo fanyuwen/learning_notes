@@ -15,6 +15,7 @@
 # 库
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 + [MongoDB Golang驱动记录分享](https://mp.weixin.qq.com/s/Y2F6s67v-Ek43uWoau_69w)
++ [path/filepath,一个强大的go包](https://mp.weixin.qq.com/s/QI2fHZdBliWwewghlbpEHA)
 # 实践
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)

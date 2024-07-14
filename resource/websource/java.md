@@ -331,6 +331,7 @@
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
++ [如何使用 Spring Boot 框架设计建立和保持 100w 的长连接](https://mp.weixin.qq.com/s/9va_IjApI8zgr5T03HJk5Q)
 + [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/NJoG3ahbBVsEMCTUqEIxvw)
 + [40 个 SpringBoot 常用注解：让生产力爆表！](https://mp.weixin.qq.com/s/b4NKDixBWMYqzh6EZAinmA)
 + [Spring Boot集成jacoco实现单元测试覆盖率统计](https://mp.weixin.qq.com/s/iR9LQeX2dlIJGlHG6-WDzg)
@@ -440,6 +441,7 @@
 + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
 #### 分布式
 + [SpringBoot实现分布式验证码登录方案](https://mp.weixin.qq.com/s/_ckaptgCNOIwK3_HGqf6oA)
++ [SpringBoot强大的分布式锁组件Lock4j，支持多种实现](https://mp.weixin.qq.com/s/vuYmLhd2V20GoJ7LLU0fDg)
 ##### 事务
 + [实战案例SpringBoot整合Seata AT模式实现分布式事务【超详细】](https://mp.weixin.qq.com/s/570OVCaUusSndNLi5UPw5A)
 #### web
@@ -515,12 +517,14 @@
 + [详解 Spring Boot 的 RedisAutoConfiguration 配置](https://my.oschina.net/u/4526289/blog/11209334)
 + [Spring Boot 整合 Redis：入门篇](https://mp.weixin.qq.com/s/QLR91bJstp-mNWsXhmCT7g)
 + [SpringBoot 如何统计、监控 SQL运行情况？](https://mp.weixin.qq.com/s/BeiNklugfozG0Rn0JcR-aw)
++ [在Spring Boot应用中集成ClickHouse进行数据分析](https://mp.weixin.qq.com/s/bXIHOlkRuw4XUq2u1aC5qw)
 + [让你的SpringBoot应用飞起来：HikariCP连接池整合详解](https://mp.weixin.qq.com/s/YwsHDuYzbIbMinJy4AfABg)
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
 ##### big data
 + [Spring Boot 3.x + Flink 实现实时数据聚合与窗口操作](https://mp.weixin.qq.com/s/vY5MtaW2Uye28JvzC0P_fg)
 + [Spring Boot 3.x + Flink 实现大数据文件处理的优化方案](https://mp.weixin.qq.com/s/-mPkuq50T7OUsJGBLseDdQ)
 + [Spring Boot 3.x + Flink 实现增量同步与变更数据捕获](https://mp.weixin.qq.com/s/gJo1-LOcZOeS5Bo5OfYzRA)
++ [实时同步神器:Flink 和 Spring Boot 实现 MySQL 数据同步](https://mp.weixin.qq.com/s/2tnhS04ZVb9RWeODE9U1cA)
 #### 多线程
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)

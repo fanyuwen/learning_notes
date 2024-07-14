@@ -122,10 +122,12 @@
 + [寻找适合编写静态分析规则的语言](https://my.oschina.net/u/4526289/blog/11348327)
 + [华为仓颉编程语言正式发布，号称新一代编程语言，Java、Python 瑟瑟发抖。。。](https://mp.weixin.qq.com/s/O-PSyKRPE-31Y8Zmc7Dh-A)
 + [我让代码，学会了自动评审！提高80%的交付质量！](https://mp.weixin.qq.com/s/XeBycsfgSuAMJDw0JC1c7Q)
++ [【鸡零狗碎】CSDN是如何变成行业“毒瘤”的？](https://mp.weixin.qq.com/s/5D5D6G6gzXIVMAhUhkGp_g)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
++ [为什么机器人不能勾选“我不是机器人”复选框？](https://mp.weixin.qq.com/s/X6FJ3RJ6sevkXy1_yxx3zw)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
 + [很难吗？我只用了10分钟就解决了](https://mp.weixin.qq.com/s/EWaWeQbl1RBrq_pfXlDzZQ)
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
@@ -153,6 +155,7 @@
 ### 面试
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)
 + [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)
++ [总结了一些经典面试题，面试不再愁](https://mp.weixin.qq.com/s/7jCmBTUi_3kIHrrv6eRwmg)
 ### 博客
 + [从0开始搭建个人博客《第七期：后端服务部署教程》](https://mp.weixin.qq.com/s/u_1dNSKoyVBBYRE_yF-mRA)
 + [【技术新纪元 | 探索Astro+Vue3+TypeScript+UnoCSS的完美融合：极致性能个人博客】](https://mp.weixin.qq.com/s/KMqYS5QsLDfiDN05YBOljQ)

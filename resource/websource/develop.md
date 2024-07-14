@@ -49,11 +49,15 @@
 + [微服务通信大揭秘：HTTP vs RPC，谁是不二之选](https://mp.weixin.qq.com/s/LlvlnvZ-eG9pZ32k3dUoOA)
 + [详解微服务应用灰度发布最佳实践](https://my.oschina.net/u/3874284/blog/11322133)
 + [采用微服务架构前，先问自己几个问题](https://mp.weixin.qq.com/s/Sr4R5KC3liTc24WSPLQPFA)
++ [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/BQZVoKDGHunb1DyB8CpI-w)
 + [微服务的版本号要怎么设计？](https://mp.weixin.qq.com/s/uMVcx74ODCbfKfddr8UBYQ)
 + [微服务治理探索](https://mp.weixin.qq.com/s/cgzBm-a_trEHUGnAbqA_Nw)
++ [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
++ [微服务架构中的通信风格](https://mp.weixin.qq.com/s/-X75FChGAQ359JarczOYxQ)
 # 分布式
 ## 实践
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
++ [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/zbEJdmkWdQC8WeVw-AAKbA)
 + [分布式方案最全详解(图文全面总结)](https://mp.weixin.qq.com/s/QTDRVFAPxWhHDbXsM1llRw)
 + [40张图带你看懂分布式追踪系统原理及实践](https://mp.weixin.qq.com/s/GpiiLaaygPU1oPIk2YGQRg)
 + [分布式链路追踪系统设计](https://mp.weixin.qq.com/s/VYDnOirzrw_kMIVz0AFy7w)
@@ -195,6 +199,7 @@
 + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/KQiskiLGFMYT8bo9YtAB_g)
 + [业务开发时，API 不能对外暴露怎么办？](https://mp.weixin.qq.com/s/JbCukZq1pUBAq_ug4Z_wkA)
++ [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/RLDUlQDJQzgHft1fRERLyg)
 + [常见加密算法解析 - 2](https://my.oschina.net/u/2512041/blog/4377017)
 + [深入理解OAuth 2.0：原理、流程与实践](https://mp.weixin.qq.com/s/lAWgJ3oegR_edo-OqVjP0w)
 + [敏感数据不加密就提交到GitHub，你怕不是没经历过社会的毒打哦](https://mp.weixin.qq.com/s/fsMBgOP9blx2Mf5RZano2Q)
@@ -255,6 +260,7 @@
 + [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
 + [业务系统存储设计](https://mp.weixin.qq.com/s/zBy2ungNiiFb6hwiNRRltg)
 ## 领域知识
++ [批处理 vs 流处理，如何选择？](https://mp.weixin.qq.com/s/gpjTrbOjZfOht8Kd06ZCew)
 ### JSON
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 ## 开发流程

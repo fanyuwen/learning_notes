@@ -84,6 +84,7 @@
 + [如何用 Python 做炫酷数据动图，简单几步教你实现](https://mp.weixin.qq.com/s/2sRkwiDbi9Pji5lG-Pn-hw)
 + [15个Python进阶操作系统交互高级命令](https://mp.weixin.qq.com/s/rKvmj6e2IIA2GzzwG5dLKA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
++ [Python 科学计算生态系统：标准库与第三方库及其学习路线](https://mp.weixin.qq.com/s/JD5yjsapauI5IFLCly7opA)
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)

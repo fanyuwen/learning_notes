@@ -209,6 +209,7 @@
 + [PostgreSQL核心之SQL基础学习](https://mp.weixin.qq.com/s/dMxxicM6OmgqBGJ2DqxBYg)
 + [手把手教你管理PostgreSQL数据库及其对象](https://mp.weixin.qq.com/s/E2m2QlHmnQKf8KB_1QH-aQ)
 + [PG|update不规范会怎样](https://mp.weixin.qq.com/s/kuYCGqpIOIsrlURkA1z7Tg)
++ [几道小题：几个易出错的PostgreSQL小用法(一)](https://mp.weixin.qq.com/s/sxwD1zU0hQMeU6ogSrmWGA)
 ### SQLSERVER
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
 ## NOSQL

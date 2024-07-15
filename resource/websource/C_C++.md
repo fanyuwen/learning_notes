@@ -4,6 +4,7 @@
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
++ [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
 + [面试题：什么函数不能声明为虚函数？](https://mp.weixin.qq.com/s/JOVsp5sa2Uu2tsH1mYs1zA)
@@ -17,8 +18,11 @@
 ## C
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
++ [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
++ [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [free() 函数只传入一个内存地址，为什么能知道要释放多大的内存？](https://mp.weixin.qq.com/s/KuakcB2DFXTcO9xy_gYAxw)
 + [libcurl，一个经典强大的C库](https://mp.weixin.qq.com/s/fJxVjFS1A7IQOuRvv0FeqA)
++ [libxml2，一个强大的c库](https://mp.weixin.qq.com/s/A818KjGd4WaoUDdPw_dYMg)
 ## verilog
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 # ARM

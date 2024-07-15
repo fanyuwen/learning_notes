@@ -25,6 +25,7 @@
 + [大厂聚合支付系统架构演进（下）](https://mp.weixin.qq.com/s/6EiRP-7bGfCaK8xhpLzeUA)
 + [一文看懂什么是架构](https://mp.weixin.qq.com/s/IhZ3L5K7bWtHYpkqXN95fQ)
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
++ [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 ### DDD
@@ -250,6 +251,7 @@
 ## 代码相关
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
++ [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)

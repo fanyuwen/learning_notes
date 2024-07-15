@@ -259,6 +259,7 @@
 + [深入SpringMVC聊跨域问题的最佳实践](https://mp.weixin.qq.com/s/ssuYSidETCDVbAoX56S04Q)
 + [SpringMVC接口定义RequestMapping这些细节你用过吗？](https://mp.weixin.qq.com/s/NCrICtZWhV_7fVHmpSff5A)
 + [SpringMVC非常实用的过滤器](https://mp.weixin.qq.com/s/LWo-dmYtEPeUSm46nx2slA)
++ [深入解析SpringMVC执行流程：从源码到架构设计](https://mp.weixin.qq.com/s/1ETO_DK3HJfMOw4ozh2znw)
 + [Web安全实践：使用@CrossOrigin和@ContentSecurityPolicy注解](https://mp.weixin.qq.com/s/qBV3ig_swaFQC2Agg66-bQ)
 + [如何处理：参数校验、统一异常、统一响应](https://mp.weixin.qq.com/s/bi71lURwjSsBN68XIGR2QA)
 + [别再使用 RestTemplate了，来了解一下官方推荐的 WebClient ！](https://mp.weixin.qq.com/s/9rB7DU_Za6ItsfIvgs6Nag)

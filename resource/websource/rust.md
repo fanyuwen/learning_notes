@@ -1,5 +1,6 @@
 # 技术相关
 + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
++ [强大的开发组合——Rust加上嵌入式](https://mp.weixin.qq.com/s/HvtTKR3leiVz_Wp3bHXvuA)
 + [CISA要用Rust重写大量C/C++代码？](https://mp.weixin.qq.com/s/0_6zadEfei2qWqrvkbxHig)
 + [耗时18个月，开发者弃TypeScript投Rust，重写系统后痛批：这门语言烂透了！](https://mp.weixin.qq.com/s/cSc0dJ7XZKFnu-8jHZfNGA)
 + [从零开始学Rust🦀之安装Rust开发环境](https://mp.weixin.qq.com/s/oSIKn8J7EF-Rm8_kIq8Z_A)

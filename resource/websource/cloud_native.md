@@ -22,6 +22,7 @@
 + [docker镜像缩小神器](https://mp.weixin.qq.com/s/44UTKu7NXa8zTPnr6xXXXg)
 + [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
 + [在 Docker 中跑 MySQL？恭喜你，要下岗了](https://mp.weixin.qq.com/s/3TralIZh4V700mBjjx2FOg)
++ [docker: No space left on device处理与迁移目录](https://mp.weixin.qq.com/s/nKYUkX2NQDE6Y0EnUq1FDw)
 + [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
 + [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
 + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)

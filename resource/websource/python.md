@@ -33,6 +33,9 @@
 + [pycairo,一个强大的python库](https://mp.weixin.qq.com/s/lfU_9q5jF5_oOV5Xm1t4LQ)
 + [requests-oauthlib,一个强大的python库](https://mp.weixin.qq.com/s/fbMNsPI1Oyz5tAVK1v8P1w)
 + [SCons，世界最强的Python库](https://mp.weixin.qq.com/s/GrrGAzS6t7jqQVHBYP-aEA)
++ [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
++ [feincms，一个实用的 Python 库！](https://mp.weixin.qq.com/s/hjqNaa6NuWk-FnB53NSIyw)
++ [Python 错误调试神器：PrettyErrors美化错误信息](https://mp.weixin.qq.com/s/Onp5IVT4RD7jhx-M0BQ-2A)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 ## 工具
@@ -78,6 +81,7 @@
 + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s/5SFBqLB7z85awLwaIxgwUg)
 + [10个常用的python lambda函数](https://mp.weixin.qq.com/s/TDeByt-MRHJE2QjtTod8og)
 + [Python编程常用的36个经典案例](https://mp.weixin.qq.com/s/nSWMfNUNRsd8rDM-W-fCTA)
++ [Python UDP编程全攻略：实时聊天与网络监控](https://mp.weixin.qq.com/s/5EEFJQkGFwwxPQnlWZaImQ)
 + [零基础学Python 30天 - 第28天：深度学习高级内容](https://mp.weixin.qq.com/s/yn9MocKkbtBxv0HHAjBZEQ)
 + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s/Fod5IYBo7SuTjVUin_Qg6A)
 + [10个python经典的装饰器](https://mp.weixin.qq.com/s/Lb5AKGcOQMa7KmOpmN7MAg)

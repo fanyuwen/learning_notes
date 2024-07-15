@@ -11,3 +11,5 @@
 + [Thrift最全详解(图文全面总结)](https://mp.weixin.qq.com/s/HkUCg_PB13VLmV7gyBg9bg)
 # BookKeeper
 + [Apache BookKeeper 一致性协议解析](https://mp.weixin.qq.com/s/zw7KxjZluMZm_bfnWPTSAA)
+# juicefs
++ [分布式文件系统，开源！](https://mp.weixin.qq.com/s/6lkPwNm92wHdtJYDPwAWoQ)

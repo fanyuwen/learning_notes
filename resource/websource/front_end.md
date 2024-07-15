@@ -39,6 +39,7 @@
 + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
 + [新一代 Vue 开发者工具 ——Vue DevTools Next 发布浏览器扩展](https://www.oschina.net/news/299829/vue-devtools-next-chrome-extension)
 + [三分钟，带你学会 Vue3 加载远程组件](https://mp.weixin.qq.com/s/dUlLfTe6Y8-sdPxWCq6Jow)
++ [用 Vue3 就该有不用 pinia 的自信](https://mp.weixin.qq.com/s/cxvPcSPOj5fPNsC5VyV3Dw)
 + [Vue3中如何自定义消息总线](https://mp.weixin.qq.com/s/4aBWo1uqVcGikXpDHoe1tw)
 + [吐槽一下 Vue3 的语法设计](https://mp.weixin.qq.com/s/c1fywG0NJi7Idh9IjryXcg)
 + [为什么有些 Vue3 项目已经开始弃用 Pinia 了？](https://mp.weixin.qq.com/s/zfaOou0C5RuA3b79JcE57Q)

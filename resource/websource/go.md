@@ -5,6 +5,7 @@
 + [Go 1.23新特性前瞻](https://mp.weixin.qq.com/s/rODxrjFS4lRbnIMcV2j2sg)
 # 话题
 + [业内大佬怒喷：Go 正朝着错误的方向发展](https://mp.weixin.qq.com/s/WM7E-1aHu12l75FGq3RDtA)
++ [Go语言有个“好爹”反而被程序员讨厌？](https://mp.weixin.qq.com/s/SyIZNiPh-71b1X7nMAQsGQ)
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)
 + [10 年程序员的编程语言感受与 Go 的结缘](https://my.oschina.net/helloworldnet/blog/5120094)
 + [Go 朝着错误的方向发展，选 Rust 会更好吗？](https://mp.weixin.qq.com/s/z5aGDkAy9xK_VjRST_iujg)
@@ -16,6 +17,8 @@
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 + [MongoDB Golang驱动记录分享](https://mp.weixin.qq.com/s/Y2F6s67v-Ek43uWoau_69w)
 + [path/filepath,一个强大的go包](https://mp.weixin.qq.com/s/QI2fHZdBliWwewghlbpEHA)
++ [GoFr：一个让你爱不释手的 Go 微服务框架](https://mp.weixin.qq.com/s/ETSB2YkAIDxcyJym3jUuSw)
++ [pycryptodome,一个强大的go包](https://mp.weixin.qq.com/s/dl3uHGdi16x_12MLGIq0TA)
 # 实践
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)

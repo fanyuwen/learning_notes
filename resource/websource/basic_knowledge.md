@@ -49,6 +49,7 @@
 + [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
 + [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
++ [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
 ## 内存
 + [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
 ## GPU

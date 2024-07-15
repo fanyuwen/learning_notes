@@ -7,6 +7,7 @@
 + [你以为搞个流水线每天跑，团队就在使用 CI/CD 实践了？](https://my.oschina.net/libin/blog/9923050)
 + [面向故障处理的可观测性体系建设](https://my.oschina.net/morflameblog/blog/10083512)
 + [vivo 制品管理在 CICD 落地实践](https://my.oschina.net/vivotech/blog/11198978)
++ [代码提交即部署：Argo Workflows 与 EventBridge 构建自动化 CI](https://mp.weixin.qq.com/s/gcy1IWCFuMg8XpgT94oGmg)
 ## JENKINS
 + [Jenkins 使用之邮件模板配置](https://my.oschina.net/u/2512041/blog/4377210)
 + [图解 Jenkins Pipeline 的前端自动化部署，用上后真香！](https://mp.weixin.qq.com/s/fU_aeRV5gmtfgnVUrTwobg)

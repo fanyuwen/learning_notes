@@ -107,6 +107,8 @@
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
 + *apache软件基金会* [apache foundation](https://www.apache.org)
++ 应用开发学习资源 [二哥的Java进阶之路](https://javabetter.cn/)
++ 代码开发学习资源 [refactoring](https://refactoring.guru/)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
 + 软件开发学习资源 [javacodegeeks](https://www.javacodegeeks.com/) [baeldung](https://www.baeldung.com/)
 + jvm剖析工具 [visualvm](https://visualvm.github.io/)

@@ -74,4 +74,5 @@
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [常用的 HTML5 移动应用开发框架比较](https://my.oschina.net/justjavac/blog/68936)
 + [28 个你必须知道的 HTML5 的新特性，技巧以及技术](https://my.oschina.net/justjavac/blog/68140)
++ [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/vGaW1nX1zVh_IoB4Jern7w)
 + [推荐几个还在疯狂输出的前端大佬](https://mp.weixin.qq.com/s/ulkFMO0Vyl6OiHPZDckY4g)

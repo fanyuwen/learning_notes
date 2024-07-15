@@ -7,6 +7,7 @@
 + [进阶玩法：策略+责任链+组合实现合同签章](https://mp.weixin.qq.com/s/0xyvnsxKYW6sV_5w0rMXNg)
 + [如何优雅的将设计模式运用到实际项目中去?](https://mp.weixin.qq.com/s/SQvz3pmVtgRC5uiniVY4DQ)
 + [实战运用模版方法+工厂方法+策略模式打造一套高扩展性的履约系统收单业务](https://mp.weixin.qq.com/s/3XVc1P2_R7f9iSsb_TfwMg)
++ [UML 类图真的很重要，十分钟带你掌握！](https://mp.weixin.qq.com/s/LM4KSlcXCwhKuGzuWdd-8w)
 # 原则
 + [SOLID设计原则，大结局！](https://mp.weixin.qq.com/s/99pqKNq0JnyNnEiy5KeRIg)
 + [单一职责到底是什么？十分钟带你掌握!](https://mp.weixin.qq.com/s/BX3OHuvWwIWx6Gl455aYJg)

@@ -128,6 +128,8 @@
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
++ [Java之父James Gosling宣布退休](https://mp.weixin.qq.com/s/vw-Ps_jv4R6-a9LY9yewQQ)
++ [开源代码编辑器Zed“不讲武德”——偷偷下载软件包，害我损失了十几兆流量](https://mp.weixin.qq.com/s/p0cOu6lFL7QV8x1EJPv2KA)
 + [为什么机器人不能勾选“我不是机器人”复选框？](https://mp.weixin.qq.com/s/X6FJ3RJ6sevkXy1_yxx3zw)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
 + [很难吗？我只用了10分钟就解决了](https://mp.weixin.qq.com/s/EWaWeQbl1RBrq_pfXlDzZQ)

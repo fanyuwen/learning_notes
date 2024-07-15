@@ -69,6 +69,7 @@
 + [什么是跨域以及如何解决？通俗易懂带你彻底搞定](https://my.oschina.net/helloworldnet/blog/5585361)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/iKlBnuREzC92TjWpqsdibw)
 + [RPC相关问题（2）](https://mp.weixin.qq.com/s/QuasAvK-bkZK4cWq2Ny-VA)
++ [玩转数通命令行：中兴路由器反向TELNET配置实例、串口终端接入配置实例](https://mp.weixin.qq.com/s/qJDV8_kBMhoARrhdCpIe_A)
 + [localhost和127.0.0.1的区别](https://mp.weixin.qq.com/s/zhErSZZFB1Eb2u3Lqf5d9w)
 + [你了解 localhost 与 127.0.0.1 的区别吗？](https://mp.weixin.qq.com/s/FPICgJri9AndnpaogskcCg)
 ### HTTP/HTTPS
@@ -84,6 +85,7 @@
 + [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
 + [拆解大厂面试题：TCP 的keep-alive的原理](https://mp.weixin.qq.com/s/euHnLpFWt5bqHdvyMBs0zA)
 + [Socket 的半包，粘包与分包的问题](https://my.oschina.net/OutOfMemory/blog/95857)
++ [不再困惑！一文搞懂TCP与UDP的所有区别](https://mp.weixin.qq.com/s/-uaG0mNXEoIDQ0fcmAjcYw)
 + [TCP/IP（六）- 全网介绍TCP/IP最全的文章](https://mp.weixin.qq.com/s/dysSZLyTRaSbr4650aQ7uA)
 + [三次握手时，客户端发送的 SYN 报文为什么会被丢弃？——拆解大厂面试题](https://mp.weixin.qq.com/s/t2abN3sxZnLy_JVoCeBYng)
 + [【网络协议】精讲TCP通信原理！图解超赞超详细！！！](https://mp.weixin.qq.com/s/80ox9f6RxeebS48ruvs5mw)

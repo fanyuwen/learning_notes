@@ -191,6 +191,7 @@
 + [贝壳面试：MySQL联合索引，最左匹配原则是什么？](https://mp.weixin.qq.com/s/aq2-gR0Wj5L9wPTClH3-xw)
 + [面试官：你知道MySQL索引的最左前缀原则吗？索引下推又是怎么回事儿呢？](https://mp.weixin.qq.com/s/MKFSOCUExehERbiMfmtdjw)
 + [Mysql索引-B+树是如何生长的](https://mp.weixin.qq.com/s/3kJt34IXkvowL6E5xp-zoA)
++ [蚂蚁金服真题： 说说 B+ 树层面查询数据的全过程吗？越详细越好。。](https://mp.weixin.qq.com/s/vC1SPC-333kRRTzpoe3FXw)
 + [MySQL用了函数到底会不会导致索引失效](https://mp.weixin.qq.com/s/X5H9jBz_nMNi1eoJy_-fbw)
 + [MySQL索引失效的几种常见场景：别让索引成为摆设！](https://mp.weixin.qq.com/s/X5TW_EbjliLo36EgvT77Cw)
 + [MySQL：索引优化实战](https://mp.weixin.qq.com/s/NGg5mDE-67YnIR2V-ryZxw)
@@ -208,6 +209,7 @@
 + [很详细的PostgreSQL安装部署教程](https://mp.weixin.qq.com/s/BvObZ6Kk_FYK6vUc0UW_Rg)
 + [PostgreSQL核心之SQL基础学习](https://mp.weixin.qq.com/s/dMxxicM6OmgqBGJ2DqxBYg)
 + [手把手教你管理PostgreSQL数据库及其对象](https://mp.weixin.qq.com/s/E2m2QlHmnQKf8KB_1QH-aQ)
++ [PostgreSQL索引维护看完这篇就够了](https://mp.weixin.qq.com/s/fR1IfqTvP50zO-zkcz7LNA)
 + [PG|update不规范会怎样](https://mp.weixin.qq.com/s/kuYCGqpIOIsrlURkA1z7Tg)
 + [几道小题：几个易出错的PostgreSQL小用法(一)](https://mp.weixin.qq.com/s/sxwD1zU0hQMeU6ogSrmWGA)
 ### SQLSERVER
@@ -334,6 +336,7 @@
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)
 # 大数据相关
 + [你公司到底需不需要引入实时计算引擎？](https://mp.weixin.qq.com/s/T_cM0F5_Luz20HmTjFyVpQ)
++ [分布式计算框架详解(4大主流分布式框架)](https://mp.weixin.qq.com/s/HJm5gXIV2_j5c43y0kmf0w)
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
 ## Iceberg

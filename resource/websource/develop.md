@@ -193,6 +193,7 @@
 + [该从哪些方面提升系统的吞吐量？](https://mp.weixin.qq.com/s/NMEUOhajKtqrASkn8Iwung)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
 + [30s到0.8s，记录一次接口优化成功案例！](https://mp.weixin.qq.com/s/-no6b1kFc6PK0XJIKLeMUA)
++ [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/d2441A6vaDWVUHZim8YQAA)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)

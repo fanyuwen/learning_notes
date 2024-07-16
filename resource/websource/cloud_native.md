@@ -10,6 +10,7 @@
 + [基于 K8s 容器集群的容灾架构与方案](https://my.oschina.net/u/3874284/blog/11047123)
 + [2024 年的云原生架构需要哪些技术栈](https://my.oschina.net/crossoverjie/blog/11051812)
 + [云计算之分布式计算系统](https://my.oschina.net/morflameblog/blog/52594)
++ [containerd 和 docker 使用有区别吗](https://mp.weixin.qq.com/s/1A-2P6u7nE5oBPe7yyS4kQ)
 # 问题讨论
 + [为什么公共云的弹性能力很难被发挥出来？](https://my.oschina.net/u/6852546/blog/11053253)
 # 实践
@@ -26,6 +27,7 @@
 + [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
 + [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
 + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
++ [DockerHub 拉取镜像，终极解决方案！](https://mp.weixin.qq.com/s/gPqACbV1_6YX1-toavorYQ)
 + [从 Docker Hub 拉取镜像受阻？这些解决方案帮你轻松应对](https://my.oschina.net/rainbond/blog/11212890)
 + [Docker配置文件daemon.json介绍及优化建议](https://mp.weixin.qq.com/s/2FKaXZTylzLgMixjchM8uQ)
 + [运维Docker：高效管理容器化应用的秘诀](https://mp.weixin.qq.com/s/cbGj29R0shN6294pwpIJCA)

@@ -103,6 +103,10 @@
 ### OPENCV
 + [OpenCV教程03：绘制图形（线段、矩形、圆形、椭圆、多边形、箭头线）+水印文本](https://mp.weixin.qq.com/s/wyPPviaEHIWifz2-cKdNCw)
 + [OpenCV图像拼接改进算法之完美拼接](https://mp.weixin.qq.com/s/Om2Ncj3deRief15h02jr4Q)
+### VULKAN
++ [开篇，Vulkan 概述](https://mp.weixin.qq.com/s/2vyEuBJBxu-AFsIIUOfs1Q)
 ## 爬虫
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
 + [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g)
+## 数据分析
++ [Plottable结合Pandas绘制图表：数据可视化的利器](https://mp.weixin.qq.com/s/4KwVJeEOOgh-tIDA-L4KaA)

@@ -23,6 +23,7 @@
 + [构建自己的 RAG 应用程序：使用 Ollama、Python 和 ChromaDB 在本地设置 LLM 之分步指南](https://mp.weixin.qq.com/s/4ai0QjpzbAq4YQ-29VWxrQ)
 + [神经网络可能不再需要激活函数？Layer Normalization也具有非线性表达！](https://mp.weixin.qq.com/s/YRAcAKouScQGt3lOxe8fBQ)
 + [激活函数的进化之旅：从Sigmoid到SwiGLU，深度学习的神经触发器](https://mp.weixin.qq.com/s/TCoSeYi1gvEatf2B7eiT-g)
++ [2024年死磕这4款AI编程工具，助你代码起飞](https://mp.weixin.qq.com/s/WyPj9TJLb0hiVjdbjAC6PA)
 ## 资讯
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 # 算法

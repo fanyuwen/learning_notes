@@ -28,6 +28,7 @@
 + [free() 函数只传入一个内存地址，为什么能知道要释放多大的内存？](https://mp.weixin.qq.com/s/KuakcB2DFXTcO9xy_gYAxw)
 + [libcurl，一个经典强大的C库](https://mp.weixin.qq.com/s/fJxVjFS1A7IQOuRvv0FeqA)
 + [libxml2，一个强大的c库](https://mp.weixin.qq.com/s/A818KjGd4WaoUDdPw_dYMg)
++ [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 ## verilog
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 # ARM

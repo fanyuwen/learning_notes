@@ -15,6 +15,7 @@
 + [MQ选型：一文详解Kafka与RocketMQ区别](https://mp.weixin.qq.com/s/iM081Pu69GHi_LLNnPnGPQ)
 + [Filebeat + Kafka+Logstash+ElasticSeaarch+Kibana](https://mp.weixin.qq.com/s/YOAebBhf6dnh4VEzzDYCNw)
 + [RocketMQ 和 Kafka 关于消息队列的推拉模式是怎么做的？](https://mp.weixin.qq.com/s/dbdNweIyDtJBlexa5c0oGA)
++ [阿里面试：canal+MQ，会有乱序的问题吗？](https://mp.weixin.qq.com/s/w0rzwuBgWOei5fhqsf8b4A)
 # KAFKA
 + [一文搞懂 Kafka consumer 与 broker 交互机制与原理](https://my.oschina.net/u/6990971/blog/11049751)
 + [Kafka高可用性指南：提高数据一致性和集群容错能力！](https://mp.weixin.qq.com/s/1BSRATbb_k7sUDE60snpbg)

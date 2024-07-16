@@ -60,8 +60,10 @@
 # 收益工具
 + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
 + [一款超好用的国产Redis可视化工具，高颜值UI ，真心YYDS](https://mp.weixin.qq.com/s/gpomm0xQf-shNFYZi_n_NA)
++ [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
++ [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
 + [Cloudflare 正式开源Nginx替代品：Pingora](https://mp.weixin.qq.com/s/nHYjbsQa3GQt1EFN0SCajw)
 + [为什么很多人电脑桌面上软件图标寥寥无几甚至空空荡荡?请问怎么做到的?](https://mp.weixin.qq.com/s/Ncy87p3XYF5MrHYHmf0OhA)
 + [6 款 工具，轻松分析定位 JVM 问题！](https://mp.weixin.qq.com/s/eARjT7kouf6N0rfJUOF8pA)
@@ -145,6 +147,7 @@
 + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
 + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
 + [苹果电脑的 macOS 系统有多难用？](https://mp.weixin.qq.com/s/gFN_xoZebL1SSQWO4jOAog)
++ [腾讯宣布全员调薪！](https://mp.weixin.qq.com/s/wxFmBAxIvu_qvAMPwhkwsQ)
 + [社会内卷的真正原因：华为内部论坛的这篇雄文火了](https://mp.weixin.qq.com/s/uGXQTgSbV-4a6PchaeC14A)
 + [美团后端面经，难度不算大，但是人都被问麻了](https://mp.weixin.qq.com/s/er8Yg26RUFUKeR1fIVmH7Q)
 + [程序员界有哪些经典的笑话?](https://mp.weixin.qq.com/s/ageQFNcjKrtKlse0QFyL0w)

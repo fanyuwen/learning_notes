@@ -200,6 +200,7 @@
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
++ [整理项目中常见的跨域解决方案](https://mp.weixin.qq.com/s/KCKSg33rtYSwDWXyiag8GQ)
 ## 安全
 + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/KQiskiLGFMYT8bo9YtAB_g)
@@ -260,6 +261,7 @@
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
++ [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
 + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
 + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
 + [万字长文浅谈系统稳定性建设](https://mp.weixin.qq.com/s/ySdAsk15H1aWPhOR4qW8Ag)

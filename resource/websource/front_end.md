@@ -13,6 +13,7 @@
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
 ## 实践
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
++ [18个面向专业开发人员的高级 JavaScript 技术](https://mp.weixin.qq.com/s/AyTxXOaUZvk0MNcyxdOoRQ)
 + [精进 JavaScript ｜ 这些手写你都会吗 ？](https://mp.weixin.qq.com/s/evXB9E23xilkHGDg4iTTYw)
 + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
 + [49个常用JavaScript方法封装【收藏】](https://mp.weixin.qq.com/s/BkhjxG8azO4Yhn5NwAkSGw)
@@ -50,6 +51,7 @@
 + [了解 React 和 Vite 中的服务器端渲染 (SSR)](https://mp.weixin.qq.com/s/hQauL5syYoDZpd8NTeWKdw)
 + [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
 + [原来 React Native 已经如此成熟了](https://mp.weixin.qq.com/s/bMD-1mBOQCFHWFy6y6wfXg)
++ [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
 ### react native
 + [React Native 终于“妥协”了！](https://mp.weixin.qq.com/s/0ieve3nqLCBRekG-xvL3uQ)

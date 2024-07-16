@@ -11,6 +11,8 @@
 + [C++ proto 结构化数据](https://mp.weixin.qq.com/s/gESkxLQ1fmr-sVNFN7sRHg)
 + [面试题：什么函数不能声明为虚函数？](https://mp.weixin.qq.com/s/JOVsp5sa2Uu2tsH1mYs1zA)
 + [面试题：结构体可以直接赋值吗？](https://mp.weixin.qq.com/s/uOErofJXU2a1M9Ovj2W0uQ)
++ [Eigen ,一个强大的c++库](https://mp.weixin.qq.com/s/kYZOsYqcL6i3JVitX_Hw2A)
++ [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 ### 学习资源
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
 ### CUDA
@@ -21,6 +23,7 @@
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
++ [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [free() 函数只传入一个内存地址，为什么能知道要释放多大的内存？](https://mp.weixin.qq.com/s/KuakcB2DFXTcO9xy_gYAxw)
 + [libcurl，一个经典强大的C库](https://mp.weixin.qq.com/s/fJxVjFS1A7IQOuRvv0FeqA)

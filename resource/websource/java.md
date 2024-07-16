@@ -79,6 +79,7 @@
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [深入理解 System.gc()](https://mp.weixin.qq.com/s/W2nPL638fAKc5aGcWxDr6w)
 + [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
++ [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
 + [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
 + [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
@@ -172,6 +173,7 @@
 + [Java Comparator 珍藏版](https://mp.weixin.qq.com/s/KjCOIPqUbaqyHAu2sEKFhw)
 ## concurrent库
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
++ [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
 + [Java线程编程：简单易懂](https://mp.weixin.qq.com/s/E9uoodDxqTbMpICKZ2gqNA)
 + [面试官：实战中用过CountDownLatch吗？详细说一说，我：啊这...](https://mp.weixin.qq.com/s/EXvwcdEFmKLJILkOZ8byuw)
@@ -278,6 +280,7 @@
 + [Spring Security 常见过滤器梳理](https://mp.weixin.qq.com/s/N-IkummVW468RaCFe9QPuQ)
 + [两万字详解，带你彻底搞懂 Spring Security 6.0 的实现原理](https://mp.weixin.qq.com/s/4r157LKpvUlAeIMM5GYFcg)
 + [2w+字，带你彻底搞懂 Spring Security 6.0 的实现原理](https://mp.weixin.qq.com/s/VWY1d5wzMCW5c056Z3abOw)
++ [身份验证&授权，Spring Security是如何实现的？](https://mp.weixin.qq.com/s/wXJRPyqbdLhk4bZJYi_Jtw)
 ### data
 + [Spring Batch 批处理框架，真心强呀！！](https://mp.weixin.qq.com/s/oKyaDHgi6A62Jv4FGZQpDg)
 + [SpringBatch高阶应用：大数据批处理框架实战指南s](https://mp.weixin.qq.com/s/U7DVthqRtaFv8x_AR-CyHA)

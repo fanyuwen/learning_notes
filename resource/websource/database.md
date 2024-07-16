@@ -3,7 +3,6 @@
 + [数据库三大范式是什么？你是按什么原则去建数据库表的？](https://mp.weixin.qq.com/s/3s1xAS0S5EF7DAfF2csYjA)
 + [运维干货｜Oracle、MySQL、PostgreSQL、OB、万里开源数据库比较系列: IN ( MAX Subquery )](https://mp.weixin.qq.com/s/g8Pzn_i4HqtKqlhVQAUD4Q)
 + [三种东西永远不要放到数据库里](https://my.oschina.net/justjavac/blog/66623)
-+ [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://my.oschina.net/selectdb/blog/11323990)
 + [数据库内核工程师必读论文清单](https://mp.weixin.qq.com/s/GGR4QtWYtLFCpoz3Z2vmQQ)
 + [DM日常运维高频命令总结](https://mp.weixin.qq.com/s/mAoUuj9VSrWPmbZWpJnIaA)
 + [生产环境-死锁分析](https://mp.weixin.qq.com/s/WX7JJRgCflYslsVosimBBg)
@@ -327,6 +326,8 @@
 + [MongoDB在AI和大数据中的应用](https://mp.weixin.qq.com/s/znaTV_gGVE0aoEOGSQbe-w)
 ### keyDB
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
+### APACHE DORIS
++ [【Apache Doris】数据副本问题排查指南](https://mp.weixin.qq.com/s/KzK0Gx1m8Z-1qZbyY1ZtlQ)
 ### CLICKHOUSE
 + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
 + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://mp.weixin.qq.com/s/bctAe-eK5EhwTnJlr0xrQQ)
@@ -342,5 +343,6 @@
 + [分布式计算框架详解(4大主流分布式框架)](https://mp.weixin.qq.com/s/HJm5gXIV2_j5c43y0kmf0w)
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
++ [4、Flink源码系列:map、flatMap、KeyBy源码分析](https://mp.weixin.qq.com/s/4baA-9idb7qaBIRPp8Z6Iw)
 ## Iceberg
 + [Iceberg关键技术之表格式元数据管理](https://mp.weixin.qq.com/s/5NBXxoqAZUN6LIe1_RO0CQ)

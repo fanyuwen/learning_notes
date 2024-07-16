@@ -24,3 +24,4 @@
 + [美团面试：百亿级分片，如何设计基因算法？](https://mp.weixin.qq.com/s/JS7-Xu180704WY7LDrebYw)
 # leetcode
 + [来字节3个月，干不动了，想跑路。。](https://mp.weixin.qq.com/s/GsAhOtGrogG8D8ZmlMO5Hw)
++ [【算法题解】71. x 的平方根](https://mp.weixin.qq.com/s/5fmu5hPxiHpbNbZtS_l-cA)

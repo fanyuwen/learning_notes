@@ -22,6 +22,7 @@
 # 实践
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
++ [在 Go 中如何使用 go:embed 指令嵌入静态文件](https://mp.weixin.qq.com/s/aicfI9dMJscDQruO4kyYLg)
 + [换掉UUID，更快更安全](https://mp.weixin.qq.com/s/KCha5jWGgR0SH1ISpfiTwQ)
 + [Go 语言 API 限流实战：保障系统稳定性的护盾](https://mp.weixin.qq.com/s/d6e02RbtWALq-nLX_ptpog)
 + [Golang实现IO操作](https://mp.weixin.qq.com/s/PmyT2mSZn9lVBRlehaulKA)
@@ -32,6 +33,7 @@
 + [解析 Golang 定时任务库 gron 设计和原理](https://mp.weixin.qq.com/s/bkvbST8x4cXLHDM545OabQ)
 + [[Golang] 泛型的使用](https://mp.weixin.qq.com/s/lwsOnblS0uUHI59L2PpufQ)
 + [Go 如何优雅实现业务并发？](https://mp.weixin.qq.com/s/0JS7XWcpRauj14xWGWopFw)
++ [Go语言之高级篇beego框架之Controller](https://mp.weixin.qq.com/s/QAXIo8wLRDVFaEPx3R9KSg)
 + [Go-Job 让你的任务调度不再繁琐](https://my.oschina.net/u/5783135/blog/11212449)
 + [Golang实现轻量级IM](https://mp.weixin.qq.com/s/1JvzeLODNHLRum5QRW2w-g)
 + [推荐几个非常不错的 go 开源项目（建议收藏）](https://mp.weixin.qq.com/s/gHaq1qhFtPHM3kn1E5alVA)

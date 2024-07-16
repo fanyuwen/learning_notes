@@ -48,6 +48,7 @@
 + [2个阅读源码的小技巧](https://mp.weixin.qq.com/s/kJCCEZJgHXKP5JMbMZxqsQ)
 + [一名合格的程序员需要掌握哪些技能](https://my.oschina.net/justjavac/blog/67337)
 + [程序员究竟该如何提高效率](https://my.oschina.net/justjavac/blog/67784)
++ [程序员这样自学，效率翻倍！](https://mp.weixin.qq.com/s/4bggIhdw8GyJiI2TNQG4Hw)
 + [十步让你成为一名优秀的 Web 开发人员](https://my.oschina.net/justjavac/blog/66772)
 + [程序员这样自学，效率翻倍！](https://mp.weixin.qq.com/s/4bggIhdw8GyJiI2TNQG4Hw)
 + [如何在开发过程中减少 Bug？](https://mp.weixin.qq.com/s/8A97pGRbFL3cVbVbRVY9lQ)
@@ -101,6 +102,7 @@
 + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
 + [用 IDEA 这个神器看源码，效率贼高！](https://mp.weixin.qq.com/s/zTmja6FfRmHVnOL1XudNRQ)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/x4KEODNB4xFFSDcicBRIww)
++ [IDEA Debug 高阶技巧，老手都是这么玩的~~](https://mp.weixin.qq.com/s/6fnAsz9oxMnJD61jbDYzsw)
 + [9个IntelliJ IDEA插件，彻底解放双手！](https://mp.weixin.qq.com/s/18VRuVT_yLmcK-jzioVZgA)
 + [IDEA高效技巧之Debug调试，你都已用过吗？别再不停加日志重启啦](https://mp.weixin.qq.com/s/OmRa52_j_I_CQwvqKGuWRg)
 + [写代码速度提升200%！吊爆的 IDEA 使用技巧](https://mp.weixin.qq.com/s/5GRZmrqKzOY5SvM9u9KSYA)
@@ -112,6 +114,7 @@
 + [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 # 行业趣闻
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
++ [作为程序员，你见过哪些有趣的注释？](https://mp.weixin.qq.com/s/z5lS3zUFFXE0uhPzKkH9hA)
 + [键值数据库Redis更改开源协议遭反噬，面临替代风险与商业机遇流失](https://mp.weixin.qq.com/s/rrZoLmfD941AStZRl1eOFQ)
 + [阿里云又挂了，这次是光缆被挖断了？](https://mp.weixin.qq.com/s/cb2Lh56uINxacM2uUaB6Vw)
 + [一个尘封 55 年的 Bug！由 17 岁学生开发、风靡了半个世纪的经典游戏，被退休程序员发现关键 Bug](https://mp.weixin.qq.com/s/MSkwQlrQ8c1ZPZ2kUySp_g)

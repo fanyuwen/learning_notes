@@ -32,12 +32,15 @@
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
++ [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
++ [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
 ### 网络
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
 ### 命令
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
 + [Linux强大的网络命令：curl，一篇文章讲通透！](https://mp.weixin.qq.com/s/JcKutFM94S3Srshw9SlN6g)
++ [Linux基础知识之man手册页](https://mp.weixin.qq.com/s/ysw8OtmOfik0ua5tj6zFmQ)
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
 ### 相关信息
@@ -52,6 +55,7 @@
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
 ## 内存
 + [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
++ [探索x86-64架构：内存分页机制的奥秘](https://mp.weixin.qq.com/s/D7DjObzAZjLJLd9GSvrmEg)
 ## GPU
 + [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
 ## 网络基础

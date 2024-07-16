@@ -126,6 +126,7 @@
 + [【鸡零狗碎】CSDN是如何变成行业“毒瘤”的？](https://mp.weixin.qq.com/s/5D5D6G6gzXIVMAhUhkGp_g)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
++ [17年不更新，世界上最简陋的网站，收割了全世界的程序员](https://mp.weixin.qq.com/s/tMMXSfN0TMWQzNsiQEbzsA)
 + [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
 + [Java之父James Gosling宣布退休](https://mp.weixin.qq.com/s/vw-Ps_jv4R6-a9LY9yewQQ)

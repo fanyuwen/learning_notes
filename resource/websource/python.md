@@ -12,6 +12,7 @@
 + [Python101 —— Python解析式、迭代器和生成器](https://mp.weixin.qq.com/s/BVyjssuwYiulyJ8fkYCn1g)
 + [`__new__` 和 `__init__` 在 Python 中有何不同？答案可能出乎你的意料](https://mp.weixin.qq.com/s/pzK1kqq2LupfAxZ6H8YVSA)
 + [自学Python之注释](https://mp.weixin.qq.com/s/WiY7lfGMJn2cGUr-gEKJaw)
++ [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -36,17 +37,22 @@
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 + [feincms，一个实用的 Python 库！](https://mp.weixin.qq.com/s/hjqNaa6NuWk-FnB53NSIyw)
 + [Python 错误调试神器：PrettyErrors美化错误信息](https://mp.weixin.qq.com/s/Onp5IVT4RD7jhx-M0BQ-2A)
++ [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 ## 工具
 + [297K Star超强!!!3万多个公开可用API接口](https://mp.weixin.qq.com/s/IpmxAsq6ODZGTZn67xSy6g)
++ [7 个让人惊艳不已的 Python 开源项目](https://mp.weixin.qq.com/s/xcg2DPhIw9cZ25NyJEDpgQ)
++ [Nuitka：一个将Python代码编译为原生可执行文件的利器](https://mp.weixin.qq.com/s/MdktrxymOQdk7Y6U0Pbmnw)
 ## 实践
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
 + [Python数据库编程的10个核心技巧](https://mp.weixin.qq.com/s/0zXpc3JAnV7iG6jkWtQyzA)
 + [Python min max 最小值和最大值计算](https://mp.weixin.qq.com/s/Q9HERBkPiAvnEjdsKtp2pg)
 + [100个python代码大全(三十二)](https://mp.weixin.qq.com/s/4qaUI0nNaD_mzERD9bJz5g)
++ [【Pathlib】一文弄懂Python中的路径问题](https://mp.weixin.qq.com/s/xmsoVlt8wOBfYphKxV_04A)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
++ [Python GUI 实现Excel多列数据对比-附excel文件（开箱即用，肯定好用，感谢3连）](https://mp.weixin.qq.com/s/Ayszc-yE8-QdL49K9Qmuag)
 + [掌握Python中的base64库：用法详解与实际编程示例](https://mp.weixin.qq.com/s/7i4CPj6X9L2k4K2rbF2HTg)
 + [Python 中创建当前日期和时间的文件名](https://mp.weixin.qq.com/s/QkiC6HT37aB3OS8yqgJFFw)
 + [Python排序，你用对了吗？一文教你sorted和sort的正确姿势！](https://mp.weixin.qq.com/s/gdCP3EWY66FhUrsbvA7C6Q)

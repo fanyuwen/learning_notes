@@ -27,6 +27,7 @@
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
++ [探讨打造「高可用架构」秘籍](https://my.oschina.net/u/4090830/blog/11471110)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 ### DDD
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
@@ -35,6 +36,7 @@
 + [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 + [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
++ [领域驱动设计之银行转账：Wow 框架实战](https://my.oschina.net/AhooWang/blog/11537379)
 ## 微服务
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -270,6 +272,7 @@
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 ## 开发流程
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
++ [得物卓越研发效能之路：原则、方法与实践全景揭秘](https://my.oschina.net/u/5783135/blog/11304496)
 ### 版本管理
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
 + [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)

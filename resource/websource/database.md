@@ -8,6 +8,7 @@
 + [生产环境-死锁分析](https://mp.weixin.qq.com/s/WX7JJRgCflYslsVosimBBg)
 + [使用缓存时，先操作数据库OR先操作缓存?](https://mp.weixin.qq.com/s/uiR_Lin4_16stb8N827hYA)
 + [这十几款数据库连接池，你用过多少？](https://mp.weixin.qq.com/s/ACWQgwp4nqAVQvVZ2T1bCA)
++ [ODPS 开发大全：进阶篇](https://my.oschina.net/u/4662964/blog/11467213)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)

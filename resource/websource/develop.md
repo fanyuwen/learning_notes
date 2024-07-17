@@ -38,6 +38,7 @@
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 + [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
 + [领域驱动设计之银行转账：Wow 框架实战](https://my.oschina.net/AhooWang/blog/11537379)
++ [领域建模的常见问题及解决方案](https://mp.weixin.qq.com/s/deZc0CXxGUbop2-LgS6BrQ)
 ## 微服务
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -282,6 +283,7 @@
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
 + [得物卓越研发效能之路：原则、方法与实践全景揭秘](https://my.oschina.net/u/5783135/blog/11304496)
 + [IT产品研发全生命周期流程图实例【流程图及详细说明】](https://mp.weixin.qq.com/s/B_Q-W_RH4xtusAXQplMiVQ)
++ [探索BPMN—工作流技术的理论与实践｜得物技术](https://mp.weixin.qq.com/s/HzhoSrJcynd_BgDoWUGHBw)
 ### 版本管理
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)

@@ -27,6 +27,7 @@
 + [深入Kafka：如何保证数据一致性与可靠性？](https://mp.weixin.qq.com/s/b75ycYb1fFvtq776VQtQlA)
 + [Apache Kafka绝技揭秘：亿级用户大型应用如何轻松驾驭？](https://mp.weixin.qq.com/s/mYI0NNUUafAUSpAf70Tdmg)
 + [Kafka最全详解(图文全面总结)](https://mp.weixin.qq.com/s/DQRX_49mGY3E-aDE0vHGcg)
++ [kafka线上问题：rebalance](https://mp.weixin.qq.com/s/l9OixTp3sEaO1dDfuFCdIA)
 + [Kafka高性能架构详解(图文全面总结)](https://mp.weixin.qq.com/s/rIB09w8N3XOTwy39aX6l9A)
 + [Kafka内幕：详解Leader选举与副本同步的那些事儿](https://mp.weixin.qq.com/s/S_jnCYBqtwewATmVNviz6w)
 + [Kafka集群搭建详细教程](https://mp.weixin.qq.com/s/RMEobiyqD62goo9tYxafhA)

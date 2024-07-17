@@ -11,6 +11,7 @@
 + [ODPS 开发大全：进阶篇](https://my.oschina.net/u/4662964/blog/11467213)
 + [磐维数据库gs_probackup备份失败-归档问题](https://mp.weixin.qq.com/s/QLzu8BZIpHmfuk8nvAR_fQ)
 + [图灵奖得主 Stonebraker 带你回顾数据库技术二十年的周期性演进](https://www.oschina.net/news/302322)
++ [SonarQube7.9.2数据库解析和部分sql讲解](https://mp.weixin.qq.com/s/VQy7lel3h8V9ryfuKT_TMg)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
@@ -339,6 +340,7 @@
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
 ### APACHE DORIS
 + [【Apache Doris】数据副本问题排查指南](https://mp.weixin.qq.com/s/KzK0Gx1m8Z-1qZbyY1ZtlQ)
++ [计算效率提升 30 倍、存储资源节省 90%，雨润集团基于 Apache Doris 的统一实时数据仓库建设实践](https://mp.weixin.qq.com/s/UUUaDHjIShO540RNXpzUjw)
 ### CLICKHOUSE
 + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
 + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://mp.weixin.qq.com/s/bctAe-eK5EhwTnJlr0xrQQ)
@@ -353,6 +355,7 @@
 + [你公司到底需不需要引入实时计算引擎？](https://mp.weixin.qq.com/s/T_cM0F5_Luz20HmTjFyVpQ)
 + [分布式计算框架详解(4大主流分布式框架)](https://mp.weixin.qq.com/s/HJm5gXIV2_j5c43y0kmf0w)
 + [Apache NiFi：数据流动的大师，打造灵活数据管道的秘诀](https://mp.weixin.qq.com/s/I9PpToZF7u1mAh4TBOzIGg)
++ [Hadoop生态系统 -- Hive](https://mp.weixin.qq.com/s/UgPh8Qadka00p0ZoBGW69Q)
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
 + [4、Flink源码系列:map、flatMap、KeyBy源码分析](https://mp.weixin.qq.com/s/4baA-9idb7qaBIRPp8Z6Iw)

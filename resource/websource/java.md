@@ -83,6 +83,7 @@
 + [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
 + [Java函数式接口，一文彻底剖析！](https://mp.weixin.qq.com/s/oimL5c9wxpayLPjaGvBS0A)
 + [你真的知道new String(hello)创建了几个对象吗？](https://mp.weixin.qq.com/s/TTuC7045o9_O6m82PTFpCw)
++ [new String("yupi") 一共创建了几个对象？](https://mp.weixin.qq.com/s/kTMPrWlOvecHh0TSyl2FDw)
 + [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [为何1000==1000为false，而100==100却为true？](https://mp.weixin.qq.com/s/7_KrtAyUqpA71AGwi1i5JQ)
 + [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
@@ -477,6 +478,7 @@
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
 + [SpringBoot实战：轻松实现接口数据脱敏](https://mp.weixin.qq.com/s/fydN-Mf6Eec82DEoh8teyA)
++ [优雅！SpringBoot统一返回结果就该这样处理](https://mp.weixin.qq.com/s/tRhdzMKqJ2jvmX-x5ZTsVA)
 + [【SpringBoot Web框架实战教程】10 SpringBoot 拦截器](https://mp.weixin.qq.com/s/CIntbbNm5oqMzoRgt6uPYw)
 + [SpringBoot 参数校验，高级特性，非常实用！](https://mp.weixin.qq.com/s/5kQRGO6ZtlJIm3BcxUEDzg)
 + [实战指南：利用 React 与 Spring Boot 开发协同编辑的表格文档](https://my.oschina.net/powertoolsteam/blog/11213792)
@@ -534,6 +536,7 @@
 + [必不可少的技能之SpringBoot+WebSocket配置详解](https://mp.weixin.qq.com/s/paAH9GGdW81V2o64SfrANg)
 + [SpringBoot3 集成 WebSocket 是真的简单](https://mp.weixin.qq.com/s/AoaUkggTuPjlhAlzbWKlUQ)
 + [WebSocket 服务端数据推送及心跳机制 (Spring Boot + VUE)](https://mp.weixin.qq.com/s/uaziTw3HG6DXUzEsoPJYhw)
++ [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
 #### data
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
 + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)

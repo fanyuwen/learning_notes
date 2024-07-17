@@ -18,6 +18,7 @@
 + [中年危机自救行动指南](https://mp.weixin.qq.com/s/0OXPfYrlooZO13hZMZBU2Q)
 + [35岁危机的本质，是你没有成为时间的朋友](https://mp.weixin.qq.com/s/TXwLZvQHSpfoRvMvVGJEWw)
 + [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
++ [架构师应该在团队中发挥怎样的作用？](https://mp.weixin.qq.com/s/edWEYL8Zma_qTWQ8HDEsbQ)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -97,6 +98,8 @@
 + [3.6k star！分分钟拥有一个轻量可用的linux，太方便了！](https://mp.weixin.qq.com/s/hKcSOybERY2bVNAAgGEfjA)
 + [推荐 GitHub 上一个能帮你将数据清理及结构化的开源工具 OmniParse](https://mp.weixin.qq.com/s/_ehqBBCrUI-wiGBCAhrmAQ)
 + [一个跨平台文件同步神器，去中心化，操作简单，Star 62K!](https://mp.weixin.qq.com/s/w6utXg6-IqI6oyiqU7eBxQ)
++ [专注于敏感数据管理的开源工具](https://mp.weixin.qq.com/s/Lwg52of0xxEObnSI7F81EA)
++ [PolarisMesh源码系列——服务实例健康检查](https://mp.weixin.qq.com/s/pMx1HbbOW33Syh5lzJtwIQ)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)
@@ -134,6 +137,7 @@
 + [【鸡零狗碎】CSDN是如何变成行业“毒瘤”的？](https://mp.weixin.qq.com/s/5D5D6G6gzXIVMAhUhkGp_g)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
++ [域名过期会怎么样?推荐域名过期实用小技巧](https://mp.weixin.qq.com/s/zS8WxNYE6pjYoyanABQAjg)
 + [17年不更新，世界上最简陋的网站，收割了全世界的程序员](https://mp.weixin.qq.com/s/tMMXSfN0TMWQzNsiQEbzsA)
 + [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)

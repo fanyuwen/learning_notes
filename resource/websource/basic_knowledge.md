@@ -33,6 +33,7 @@
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
++ [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
 ### 网络
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
@@ -87,6 +88,8 @@
 + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
+#### CORS
++ [什么是 CORS ？一文搞懂 CORS 跨域原理！](https://mp.weixin.qq.com/s/FpQCqNN41lBGqJXUAYOFCA)
 ### TCP/IP
 + [面试官：TCP 如何保证传输的可靠性？](https://mp.weixin.qq.com/s/cbSUaYDzPk3SkhQ5xNUuOQ)
 + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)

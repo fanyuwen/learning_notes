@@ -59,6 +59,7 @@
 + [微服务治理探索](https://mp.weixin.qq.com/s/cgzBm-a_trEHUGnAbqA_Nw)
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [微服务架构中的通信风格](https://mp.weixin.qq.com/s/-X75FChGAQ359JarczOYxQ)
++ [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/KSR_w6VPP9FAK8-z_nvsfw)
 # 分布式
 ## 实践
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
@@ -282,6 +283,7 @@
 + [IT产品研发全生命周期流程图实例【流程图及详细说明】](https://mp.weixin.qq.com/s/B_Q-W_RH4xtusAXQplMiVQ)
 ### 版本管理
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
++ [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)
 + [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)
 + [【规范】Git分支管理，看看我司是咋整的](https://mp.weixin.qq.com/s/8LRB9k-4EsgSN1lCy5az8A)
 + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)

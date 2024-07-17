@@ -245,6 +245,7 @@
 + [算法交易实战日记（十八） —— 网格交易中的细节：网格数与长期收益率的关系](https://mp.weixin.qq.com/s/gDxfmX2m8dURnhg9acDpkg)
 + [【SoC】看门狗(Watch Dog)定时器的原理与使用](https://mp.weixin.qq.com/s/drLrmfUCXNIutYBhpGU_5w)
 + [如何设计建立和保持100w的长连接？如果有人恶意创建非法连接，怎么解决？](https://mp.weixin.qq.com/s/b7XvHHaJZ5SduPnbdq49SQ)
++ [前后端数据传输约定探讨](https://my.oschina.net/u/4090830/blog/11407609)
 # 测试相关
 + [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
 + [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)

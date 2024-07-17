@@ -9,6 +9,7 @@
 + [使用缓存时，先操作数据库OR先操作缓存?](https://mp.weixin.qq.com/s/uiR_Lin4_16stb8N827hYA)
 + [这十几款数据库连接池，你用过多少？](https://mp.weixin.qq.com/s/ACWQgwp4nqAVQvVZ2T1bCA)
 + [ODPS 开发大全：进阶篇](https://my.oschina.net/u/4662964/blog/11467213)
++ [磐维数据库gs_probackup备份失败-归档问题](https://mp.weixin.qq.com/s/QLzu8BZIpHmfuk8nvAR_fQ)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
@@ -293,6 +294,7 @@
 + [Redis简单高效的消息通信](https://mp.weixin.qq.com/s/e9pZ50Sfncc3OYtkFL0l7A)
 #### 原理
 + [面试都喜欢问 Redis，为什么？因为他快吗？](https://mp.weixin.qq.com/s/WVEbK-i31Y1cplHZ9_eExw)
++ [Redis命令之Set类型](https://mp.weixin.qq.com/s/LYJjFoyIa3h-8OvNv4y6Vw)
 + [数据的极速旅行：Redis高性能原理的深度剖析](https://mp.weixin.qq.com/s/dTh7MbzOZ8SJSYpNi7oA0Q)
 + [Redis为什么那么快：揭秘背后的高效秘密](https://mp.weixin.qq.com/s/FlQ3TIXrBgBeG_Npc-oNeA)
 + [吃透Redis系列：Redis为什么这么快](https://mp.weixin.qq.com/s/x-hg2Pk6uVyNJmyXNjYJ5A)
@@ -349,6 +351,7 @@
 # 大数据相关
 + [你公司到底需不需要引入实时计算引擎？](https://mp.weixin.qq.com/s/T_cM0F5_Luz20HmTjFyVpQ)
 + [分布式计算框架详解(4大主流分布式框架)](https://mp.weixin.qq.com/s/HJm5gXIV2_j5c43y0kmf0w)
++ [Apache NiFi：数据流动的大师，打造灵活数据管道的秘诀](https://mp.weixin.qq.com/s/I9PpToZF7u1mAh4TBOzIGg)
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
 + [4、Flink源码系列:map、flatMap、KeyBy源码分析](https://mp.weixin.qq.com/s/4baA-9idb7qaBIRPp8Z6Iw)

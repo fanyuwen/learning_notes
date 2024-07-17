@@ -16,6 +16,7 @@
 ## 新语言特性
 + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
 + [我有点想用 JDK 21 了~](https://mp.weixin.qq.com/s/EZOZnsY4EfCB7cjJzVCkqw)
++ [Java 开发者必备：Stream API 的核心用法与实战技巧](https://mp.weixin.qq.com/s/rl45ysC0VbhRlJ5csrTtEA)
 + [会 java 8 stream流就会大数据！](https://mp.weixin.qq.com/s/czspxfWUDzplShZE0Tvn8w)
 + [JDK17：解锁代码新大陆，这个升级理由让你无法Say No！](https://mp.weixin.qq.com/s/d-QNBuEStxT5F4xG88OOSg)
 + [Lambda表达式：会这10招就够了，开发效率狂飙！](https://mp.weixin.qq.com/s/6pfxLJAr8C3JAixObwqrzA)
@@ -348,6 +349,7 @@
 ### boot
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
 + [SpringBoot 自定义启动画面](https://mp.weixin.qq.com/s/fTopmeWtmHfaA7aH8YYJBw)

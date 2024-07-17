@@ -91,6 +91,7 @@
 + [面试官：TCP 如何保证传输的可靠性？](https://mp.weixin.qq.com/s/cbSUaYDzPk3SkhQ5xNUuOQ)
 + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
 + [深入理解TCP连接的三次握手过程](https://mp.weixin.qq.com/s/xHMclOH26xznecbPcn-IPg)
++ [拆解腾讯面试(校招)：拔掉网线后,原来的TCP连接还在不在？](https://mp.weixin.qq.com/s/reTBVPADcs8AH5IErhFYBQ)
 + [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
 + [拆解大厂面试题：TCP 的keep-alive的原理](https://mp.weixin.qq.com/s/euHnLpFWt5bqHdvyMBs0zA)
 + [Socket 的半包，粘包与分包的问题](https://my.oschina.net/OutOfMemory/blog/95857)

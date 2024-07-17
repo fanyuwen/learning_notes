@@ -12,7 +12,9 @@
 + [Python101 —— Python解析式、迭代器和生成器](https://mp.weixin.qq.com/s/BVyjssuwYiulyJ8fkYCn1g)
 + [`__new__` 和 `__init__` 在 Python 中有何不同？答案可能出乎你的意料](https://mp.weixin.qq.com/s/pzK1kqq2LupfAxZ6H8YVSA)
 + [自学Python之注释](https://mp.weixin.qq.com/s/WiY7lfGMJn2cGUr-gEKJaw)
++ [Python 排序之争：sort和sorted，你选对了吗？](https://mp.weixin.qq.com/s/ySHoAatyT7WRTz9W1kDbcw)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
++ [5分钟彻底弄懂Python布尔逻辑妙用](https://mp.weixin.qq.com/s/-EEYrDfafK-zX3tvU-zQPA)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -34,12 +36,14 @@
 + [pycairo,一个强大的python库](https://mp.weixin.qq.com/s/lfU_9q5jF5_oOV5Xm1t4LQ)
 + [requests-oauthlib,一个强大的python库](https://mp.weixin.qq.com/s/fbMNsPI1Oyz5tAVK1v8P1w)
 + [SCons，世界最强的Python库](https://mp.weixin.qq.com/s/GrrGAzS6t7jqQVHBYP-aEA)
++ [bashplotlib，一个有趣的Python库！](https://mp.weixin.qq.com/s/9zN0xsOT6r7m2_6RYjsETw)
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 + [feincms，一个实用的 Python 库！](https://mp.weixin.qq.com/s/hjqNaa6NuWk-FnB53NSIyw)
 + [Python 错误调试神器：PrettyErrors美化错误信息](https://mp.weixin.qq.com/s/Onp5IVT4RD7jhx-M0BQ-2A)
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
++ [如何在Numpy中有效地改变数组长度](https://mp.weixin.qq.com/s/43q5mGSy2R8iMKodVUE5qw)
 ## 工具
 + [297K Star超强!!!3万多个公开可用API接口](https://mp.weixin.qq.com/s/IpmxAsq6ODZGTZn67xSy6g)
 + [7 个让人惊艳不已的 Python 开源项目](https://mp.weixin.qq.com/s/xcg2DPhIw9cZ25NyJEDpgQ)

@@ -10,6 +10,7 @@
 + [【Rust日报】sans-IO 高性能网络服务实现](https://mp.weixin.qq.com/s/ymCslg2jgx7j_wd0wKIS2g)
 + [Rust必知必会库001: thiserror 和 anyhow](https://mp.weixin.qq.com/s/_8KZCdbKz2CNtppk-sEktA)
 + [不好意思，没达到公司性能目标，决定从 Go 切换到 Rust。](https://mp.weixin.qq.com/s/daVBNO19S_nz6ISBF2PbDQ)
++ [用 Rust Reqwest 库打造高性能的网络爬虫](https://mp.weixin.qq.com/s/M-VTCDPu08F2DFK55rGNyw)
 # 并发
 + [Rust并发编程番外篇: Mutex内部实现](https://colobu.com/2023/11/05/inside-rust-mutex/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust并发编程4 - 容器类并发原语](https://colobu.com/2023/10/15/concurrency-programming-via-rust-ch04/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)

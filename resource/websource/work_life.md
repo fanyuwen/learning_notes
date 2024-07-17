@@ -148,6 +148,7 @@
 + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)
 # 其它相关
 + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
++ [同事写出烂代码。。。](https://mp.weixin.qq.com/s/KQH6sIiJoJfJafmQFJm95w)
 + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
 + [苹果电脑的 macOS 系统有多难用？](https://mp.weixin.qq.com/s/gFN_xoZebL1SSQWO4jOAog)
 + [腾讯宣布全员调薪！](https://mp.weixin.qq.com/s/wxFmBAxIvu_qvAMPwhkwsQ)

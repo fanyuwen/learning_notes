@@ -19,6 +19,7 @@
 + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
 ## docker
 + [如何缩小docker容器镜像](https://mp.weixin.qq.com/s/1Rswv3svndVZ-XvFR-hgFg)
++ [你不知道的 Dockerfile 增强新语法](https://mp.weixin.qq.com/s/jcyxEc32kGErm2XBekvlSg)
 + [Dockerfile：提升构建效率的最佳实践](https://mp.weixin.qq.com/s/KD_UdfS4gsFu0I62KPLEAg)
 + [docker镜像缩小神器](https://mp.weixin.qq.com/s/44UTKu7NXa8zTPnr6xXXXg)
 + [堪称最优秀的Docker可视化管理工具，流弊！](https://mp.weixin.qq.com/s/2PrMuNw7zv2O6z455ULIOA)
@@ -35,11 +36,13 @@
 + [今天让你对 Docker 的了解多一点点 | 你管这破玩意叫云原生](https://mp.weixin.qq.com/s/RvEeOIYC75GJPHw0QhOfDw)
 ## k8s
 + [一篇文章精通K8S的统一访问入口-Service](https://mp.weixin.qq.com/s/wdsaWdAed0U9YbRqdWVP8g)
++ [Kubernetes（k8s）高可用性入门：初学者指南](https://mp.weixin.qq.com/s/-e8myFCSrossqYpFoAREdA)
 + [从Helm到 Operator：Kubernetes应用管理的进化](https://mp.weixin.qq.com/s/uPLCS1-juyr5Vk-TESYDsQ)
 + [一文进阶Kubernetes企业实战经验](https://mp.weixin.qq.com/s/A7edhHgyF2S7o3xYpPby5A)
 + [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
 + [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)
++ [深入理解Kubernetes对象,深入解析 ReplicaSet 的使用与管理](https://mp.weixin.qq.com/s/ksNd-I5lqJDS1_5cLn7Zyg)
 + [深入理解Kubernetes对象,Pod服务质量Qos](https://mp.weixin.qq.com/s/8QcG0tvb1rMayG_kYfUerA)
 + [深入理解Kubernetes对象,资源配额管理-ResourceQuota](https://mp.weixin.qq.com/s/XPawMDvq8eDH9WIOzdJAog)
 + [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)

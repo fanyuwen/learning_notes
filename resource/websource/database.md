@@ -10,6 +10,7 @@
 + [这十几款数据库连接池，你用过多少？](https://mp.weixin.qq.com/s/ACWQgwp4nqAVQvVZ2T1bCA)
 + [ODPS 开发大全：进阶篇](https://my.oschina.net/u/4662964/blog/11467213)
 + [磐维数据库gs_probackup备份失败-归档问题](https://mp.weixin.qq.com/s/QLzu8BZIpHmfuk8nvAR_fQ)
++ [图灵奖得主 Stonebraker 带你回顾数据库技术二十年的周期性演进](https://www.oschina.net/news/302322)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)

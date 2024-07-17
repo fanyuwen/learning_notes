@@ -12,6 +12,8 @@
 + [面试题：什么函数不能声明为虚函数？](https://mp.weixin.qq.com/s/JOVsp5sa2Uu2tsH1mYs1zA)
 + [面试题：结构体可以直接赋值吗？](https://mp.weixin.qq.com/s/uOErofJXU2a1M9Ovj2W0uQ)
 + [Eigen ,一个强大的c++库](https://mp.weixin.qq.com/s/kYZOsYqcL6i3JVitX_Hw2A)
++ [C++ memory 内存管理](https://mp.weixin.qq.com/s/M2ezCaCuqeW-qKChmN2twA)
++ [C++ proto 数据类型](https://mp.weixin.qq.com/s/7jvgBUYaoAMEDzRR3eDrAA)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 ### 学习资源
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
@@ -29,6 +31,7 @@
 + [libcurl，一个经典强大的C库](https://mp.weixin.qq.com/s/fJxVjFS1A7IQOuRvv0FeqA)
 + [libxml2，一个强大的c库](https://mp.weixin.qq.com/s/A818KjGd4WaoUDdPw_dYMg)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
++ [libpng，一个强大的c语言库](https://mp.weixin.qq.com/s/9Z4VJTxyeAHzW-ZhIwX8uA)
 ## verilog
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 # ARM

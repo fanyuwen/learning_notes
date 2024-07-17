@@ -32,6 +32,7 @@
 + [libxml2，一个强大的c库](https://mp.weixin.qq.com/s/A818KjGd4WaoUDdPw_dYMg)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 + [libpng，一个强大的c语言库](https://mp.weixin.qq.com/s/9Z4VJTxyeAHzW-ZhIwX8uA)
++ [深度系列之C语言：第26章 库文件](https://mp.weixin.qq.com/s/eG1BDdZqMXsrbt5pQlB9Dw)
 ## verilog
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 # ARM

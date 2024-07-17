@@ -38,6 +38,7 @@
 + [用Stream代码丑爆了？那是姿势不对，别瞎喷](https://mp.weixin.qq.com/s/y6mp-IwWBZp2PwYZw-LJXQ)
 + [null 不好，我推荐你使用 Optional](https://mp.weixin.qq.com/s/PkEpBt-CHgmCAQ-onUY1aw)
 + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
++ [Java 9 为什么要在接口中引入 private 方法？](https://mp.weixin.qq.com/s/iZaYHmBtlyoe0eko9PNzQA)
 ## 高级用法
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [如何去掉代码中的if...else](https://mp.weixin.qq.com/s/4kL1JS5e8a5qrRasaTZafg)
@@ -81,6 +82,7 @@
 + [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
 + [Java函数式接口，一文彻底剖析！](https://mp.weixin.qq.com/s/oimL5c9wxpayLPjaGvBS0A)
 + [你真的知道new String(hello)创建了几个对象吗？](https://mp.weixin.qq.com/s/TTuC7045o9_O6m82PTFpCw)
++ [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [为何1000==1000为false，而100==100却为true？](https://mp.weixin.qq.com/s/7_KrtAyUqpA71AGwi1i5JQ)
 + [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
 + [一不小心掉入了 Java Interface 的陷阱](https://mp.weixin.qq.com/s/KB5bo10LPkJJqnOJUc2fpw)
@@ -177,11 +179,13 @@
 + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
 + [Optional 是个好东西，你真的会用嘛？](https://mp.weixin.qq.com/s/xLlq_t_Y1GUrYMWK_tvAxA)
 + [Java Comparator 珍藏版](https://mp.weixin.qq.com/s/KjCOIPqUbaqyHAu2sEKFhw)
++ [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 ## concurrent库
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
 + [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
 + [Java线程编程：简单易懂](https://mp.weixin.qq.com/s/E9uoodDxqTbMpICKZ2gqNA)
++ [线程池中线程异常后：销毁还是复用？](https://mp.weixin.qq.com/s/P_Xg3oj_qHHRCocWqYUo9w)
 + [面试官：实战中用过CountDownLatch吗？详细说一说，我：啊这...](https://mp.weixin.qq.com/s/EXvwcdEFmKLJILkOZ8byuw)
 + [面试官：线程池中线程异常后，销毁还是复用？](https://mp.weixin.qq.com/s/fPH6hY1uPgV2Iqce6sMrDg)
 + [面试官必问：线程池最佳核心线程数该如何确定？](https://mp.weixin.qq.com/s/8-R03gVbMg4acNZQQ0pWqw)
@@ -212,6 +216,7 @@
 + [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
 + [Spring的SmartLifecycle可以没用过，但没听过就不好了！ - 第517篇](https://mp.weixin.qq.com/s/bhaoZQ65H7ULnYZ3DkfeNw)
 + [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
++ [Spring这些内置工具类，你用过几个？](https://mp.weixin.qq.com/s/VQmzMCFrlqWL9eUy-mhuZg)
 + [5种从jar中读取文件的方式，你会几种？](https://mp.weixin.qq.com/s/S2jGNJglGjsG_IR27ZCfAA)
 + [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
@@ -306,9 +311,12 @@
 + [Spring事务8种可能会失效的场景，你碰到过几种？](https://mp.weixin.qq.com/s/90ORyulS1NIcvfzttE1lLA)
 ### 设计模式
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
++ [Spring源码中是如何使用设计模式六大原则的](https://mp.weixin.qq.com/s/VlKGPtG9TXMXM9OncDt83A)
 ### STATEMACHINE
 + [项目终于用上了Spring状态机，非常优雅！](https://mp.weixin.qq.com/s/LvMXi4-dq84iKLkeK0tJyw)
++ [项目终于用上了 Spring 状态机，太优雅了！](https://mp.weixin.qq.com/s/LPC_ResKjWGtEXm7Z8JqUA)
 + [Spring状态机的实现原理和业务场景](https://mp.weixin.qq.com/s/WKYecP4SV_8MQwWoe1sb3A)
++ [玩转Spring状态机：打造灵活高效的业务逻辑流](https://mp.weixin.qq.com/s/6DvVENFqckdFIQojeN-O8g)
 ### CACHE
 + [轻松搞定 Spring 集成缓存，让你的应用程序飞起来！](https://mp.weixin.qq.com/s/rJCtykEdvjPNxET-zi88Iw)
 ### AOP
@@ -601,6 +609,7 @@
 + [SpringBoot如何解决yml明文密码问题](https://mp.weixin.qq.com/s/bewrZtF6iNBCwkgjr6vEeA)
 + [两种方式实现SpringBoot外部配置实时刷新最佳实践](https://mp.weixin.qq.com/s/PCOUq9X8eEYHVETDFj0baA)
 + [为什么Spring Boot 的 Jar 文件可以直接运行？](https://mp.weixin.qq.com/s/3v-i6pe_n1Qkv6fRAUfdYQ)
++ [SpringBoot Maven项目pom中的plugin插件用法整理](https://mp.weixin.qq.com/s/kB9zExga2F1bneoq8uiDYQ)
 + [SpringBoot 3 统一结果封装](https://mp.weixin.qq.com/s/GI3HHoDA8cX1uvZSELy6ag)
 + [Spring Boot 打包之 jar vs war：选择困难症的福音](https://mp.weixin.qq.com/s/ClkM1IZqNxqQgP3Cf-TUlQ)
 + [SpringBoot当遇到多模块项目依赖冲突，我们应该如何解决](https://mp.weixin.qq.com/s/QJZdh93s6CKSa3_P9hCaYg)

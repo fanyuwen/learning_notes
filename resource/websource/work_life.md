@@ -16,6 +16,7 @@
 + [为什么大部分程序员都做不了软件架构师？](https://mp.weixin.qq.com/s/RW1Mq9g-OljahIGiPh4D8g)
 + [代码是上午写的，人是下午被开除的！](https://mp.weixin.qq.com/s/SBqL31-RAwzEoxJrMHjrLA)
 + [中年危机自救行动指南](https://mp.weixin.qq.com/s/0OXPfYrlooZO13hZMZBU2Q)
++ [35岁危机的本质，是你没有成为时间的朋友](https://mp.weixin.qq.com/s/TXwLZvQHSpfoRvMvVGJEWw)
 + [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
@@ -90,6 +91,8 @@
 + [比Wget、Curl更强大的下载工具！](https://mp.weixin.qq.com/s/DlFRu0E67dVwLISyrblJjA)
 + [中间件MyCat管理与监控工具MyCat-eye](https://mp.weixin.qq.com/s/bpgu3rNTe1AMc6SU4eX4QA)
 + [IDEA 还香吗 Eclipse Theia IDE 正式发布](https://mp.weixin.qq.com/s/mv4Vu0pe_JDDzCN6YTgOUA)
++ [五款最好用的Python IDE工具](https://mp.weixin.qq.com/s/_E7kFBbZxBn_LPozquIqwg)
++ [2个月暴增10k star，新一代高颜值、现代化的 Git 可视化工具](https://mp.weixin.qq.com/s/-vFh_XoDPMM1Xj4Bq7uAHA)
 + [“监控大师”横空出世：这款开源神器，灵活配置+超强功能，让IT监控化繁为简！](https://mp.weixin.qq.com/s/W73lGOoXeo9Cqf3D1zkCVA)
 + [3.6k star！分分钟拥有一个轻量可用的linux，太方便了！](https://mp.weixin.qq.com/s/hKcSOybERY2bVNAAgGEfjA)
 + [推荐 GitHub 上一个能帮你将数据清理及结构化的开源工具 OmniParse](https://mp.weixin.qq.com/s/_ehqBBCrUI-wiGBCAhrmAQ)

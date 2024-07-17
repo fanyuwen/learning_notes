@@ -28,6 +28,7 @@
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
 + [探讨打造「高可用架构」秘籍](https://my.oschina.net/u/4090830/blog/11471110)
++ [阅读笔记：高可用HA](https://mp.weixin.qq.com/s/IgWS1xXFp0d81bsUJOH2xw)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 ### DDD
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
@@ -48,6 +49,7 @@
 + [微服务+分库分表的自增主键ID该如何设计？](https://mp.weixin.qq.com/s/MilazC5iqsZgoJCQmgeBfA)
 + [唯品会微服务架构演进之路](https://mp.weixin.qq.com/s/QPgw8RcWrIg2r0Mxxp6FEA)
 + [微服务监控（下）](https://mp.weixin.qq.com/s/_YGmZmImcmV-CuZvArT3XA)
++ [微服务等于Spring Cloud？了解微服务架构和框架](https://mp.weixin.qq.com/s/eWwpGHH3NPPfuOaagZ46VA)
 + [微服务故障隔离技术](https://mp.weixin.qq.com/s/6D41KCrsfe6nbBOY-8BzQg)
 + [微服务通信大揭秘：HTTP vs RPC，谁是不二之选](https://mp.weixin.qq.com/s/LlvlnvZ-eG9pZ32k3dUoOA)
 + [详解微服务应用灰度发布最佳实践](https://my.oschina.net/u/3874284/blog/11322133)
@@ -74,6 +76,7 @@
 + [面试官：谈谈分布式一致性机制 ？](https://mp.weixin.qq.com/s/oiAv9qeetMT7ioWqVaZf_w)
 + [为什么说心跳机制是分布式系统的守护神？](https://mp.weixin.qq.com/s/x5gK7n7AV_MBQwcqhfD9nA)
 + [面试必备：10种分布式ID的生成方案](https://mp.weixin.qq.com/s/-H7REzOQ-iECWv6kQHYEmw)
++ [聊聊分布式系统中的服务发现！](https://mp.weixin.qq.com/s/i9t6oB7OGex398bF31Q0iA)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
 ## 分布式锁
 + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)
@@ -264,6 +267,7 @@
 + [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
 + [系统稳定性与高可用保障](https://my.oschina.net/u/5783135/blog/9869178)
 + [系统的可观察性是指什么？](https://mp.weixin.qq.com/s/ocxZ1BDiLpR5CT_JKABFNA)
++ [如何展示设计系统的成功 | 将设计系统定位为基础设施](https://mp.weixin.qq.com/s/KxBgQeMnzy_Yq3ZQbFyeHA)
 + [万字长文浅谈系统稳定性建设](https://mp.weixin.qq.com/s/ySdAsk15H1aWPhOR4qW8Ag)
 + [聊聊性能指标CPU利用率如何计算的？](https://mp.weixin.qq.com/s/JtieBgaHUb7UHRIvExms7A)
 + [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
@@ -275,6 +279,7 @@
 ## 开发流程
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
 + [得物卓越研发效能之路：原则、方法与实践全景揭秘](https://my.oschina.net/u/5783135/blog/11304496)
++ [IT产品研发全生命周期流程图实例【流程图及详细说明】](https://mp.weixin.qq.com/s/B_Q-W_RH4xtusAXQplMiVQ)
 ### 版本管理
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
 + [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)

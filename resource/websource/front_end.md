@@ -38,6 +38,7 @@
 # 框架
 ## vue
 + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
++ [【Vue3】4个比较重要的设计模式！！](https://mp.weixin.qq.com/s/plq6q7F6JTj1rXnlWMGoSA)
 + [新一代 Vue 开发者工具 ——Vue DevTools Next 发布浏览器扩展](https://www.oschina.net/news/299829/vue-devtools-next-chrome-extension)
 + [三分钟，带你学会 Vue3 加载远程组件](https://mp.weixin.qq.com/s/dUlLfTe6Y8-sdPxWCq6Jow)
 + [用 Vue3 就该有不用 pinia 的自信](https://mp.weixin.qq.com/s/cxvPcSPOj5fPNsC5VyV3Dw)
@@ -45,10 +46,13 @@
 + [吐槽一下 Vue3 的语法设计](https://mp.weixin.qq.com/s/c1fywG0NJi7Idh9IjryXcg)
 + [为什么有些 Vue3 项目已经开始弃用 Pinia 了？](https://mp.weixin.qq.com/s/zfaOou0C5RuA3b79JcE57Q)
 + [又一次变革，Vue 更彻底的拥抱了函数式](https://mp.weixin.qq.com/s/7iNLwpm_PTSHfMreR2Hq5Q)
++ [在Vue3中处理表单数据的方式是什么？与Vue2相比，是否有显著的变化或者新的建议？](https://mp.weixin.qq.com/s/y-8jBHdws6fRxkAJczuexQ)
++ [Vue3中的全局组件注册方法如何？它与Vue2有何不同？](https://mp.weixin.qq.com/s/2-EjDfTZz4LPdPGHO7oHdQ)
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
 ## react
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)
 + [了解 React 和 Vite 中的服务器端渲染 (SSR)](https://mp.weixin.qq.com/s/hQauL5syYoDZpd8NTeWKdw)
++ [React Context：向嵌套很深的子组件传递数据](https://mp.weixin.qq.com/s/BzGuSeBByk1hfL0d2F4Lug)
 + [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
 + [原来 React Native 已经如此成熟了](https://mp.weixin.qq.com/s/bMD-1mBOQCFHWFy6y6wfXg)
 + [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)

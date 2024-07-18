@@ -223,6 +223,7 @@
 + [PostgreSQL索引维护看完这篇就够了](https://mp.weixin.qq.com/s/fR1IfqTvP50zO-zkcz7LNA)
 + [PG|update不规范会怎样](https://mp.weixin.qq.com/s/kuYCGqpIOIsrlURkA1z7Tg)
 + [几道小题：几个易出错的PostgreSQL小用法(一)](https://mp.weixin.qq.com/s/sxwD1zU0hQMeU6ogSrmWGA)
++ [冷门的PostgreSQL性能优化来了：利用事务链减少与SERVER端的往返开销](https://mp.weixin.qq.com/s/MTlnfo7rshXlmtVi_KNZbQ)
 ### SQLSERVER
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
 ## NOSQL
@@ -238,6 +239,7 @@
 + [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)
 + [基于redis实现的轻量级延迟队列](https://mp.weixin.qq.com/s/3foJwnH6FPOaGYTS_HwScg)
 + [Redis源码整体结构](https://mp.weixin.qq.com/s/5t0zMv8oFX_m0FwOEpbW_Q)
++ [Redis 全文检索及使用示例](https://mp.weixin.qq.com/s/xOxQxU1PcqgKRHzb_xj5hQ)
 + [Redis数据类型详解与Redis vs 传统数据库：核心异同点比较](https://mp.weixin.qq.com/s/CsTeZolmN7UTAu_5q5M9pA)
 + [面试官：为什么 Redis 不立刻删除已经过期的数据？](https://mp.weixin.qq.com/s/xkHyitlakAAhVEm86u_I_Q)
 + [面试官问我 AOF 重写机制的流程，我回答不上来被 Pass 了！](https://mp.weixin.qq.com/s/ZxiFsYZL43KusKSNp0pLJw)
@@ -359,5 +361,6 @@
 ## flink
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
 + [4、Flink源码系列:map、flatMap、KeyBy源码分析](https://mp.weixin.qq.com/s/4baA-9idb7qaBIRPp8Z6Iw)
++ [5、Flink源码系列：window、sum源码分析](https://mp.weixin.qq.com/s/-kS4KiaefVLY9zbgqPjNcw)
 ## Iceberg
 + [Iceberg关键技术之表格式元数据管理](https://mp.weixin.qq.com/s/5NBXxoqAZUN6LIe1_RO0CQ)

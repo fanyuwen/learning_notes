@@ -80,6 +80,7 @@
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [深入理解 System.gc()](https://mp.weixin.qq.com/s/W2nPL638fAKc5aGcWxDr6w)
++ [从字节码看 finally 的本质，你能说出这些代码运行结果吗？](https://mp.weixin.qq.com/s/hwVyJ2d6ePIgSp2h-WDT5Q)
 + [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
 + [Java函数式接口，一文彻底剖析！](https://mp.weixin.qq.com/s/oimL5c9wxpayLPjaGvBS0A)
 + [你真的知道new String(hello)创建了几个对象吗？](https://mp.weixin.qq.com/s/TTuC7045o9_O6m82PTFpCw)
@@ -184,6 +185,7 @@
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 ## concurrent库
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
++ [JUC组件实战：实现Java与硬件（通过MQTT）的同步通信](https://mp.weixin.qq.com/s/8oIi_OWZkpDQ2lD98VODQQ)
 + [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
 + [Java线程编程：简单易懂](https://mp.weixin.qq.com/s/E9uoodDxqTbMpICKZ2gqNA)
@@ -332,6 +334,8 @@
 + [SpringAOP我的爱，懒人必备神器](https://mp.weixin.qq.com/s/jG8xvmmQ9pIGc8f7W6Yjlg)
 + [Spring动态代理最全详解(实现方式及使用场景)](https://mp.weixin.qq.com/s/CRfJZf3semf1WGa_1x_8ig)
 + [Spring AOP提升审批流程效率：自动化、透明化，让业务飞速运转！](https://mp.weixin.qq.com/s/kaWLWZRNR9oFCep0_ASF9w)
+### AI
++ [Spring AI，Java开发者上手大模型最佳实践，手把手教你用起来](https://mp.weixin.qq.com/s/DMVeW63NnALEnaxYeZjuoQ)
 ### cloud
 + [基于Spring Cloud Gateway，实现路由和负载均衡](https://mp.weixin.qq.com/s/SZngVSwQbZDojfu1NdhgMw)
 + [Spring Cloud Gateway之路由转发](https://mp.weixin.qq.com/s/C6soFzPg6VII_DODWu2tpA)

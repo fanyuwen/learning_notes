@@ -100,6 +100,7 @@
 + [一个跨平台文件同步神器，去中心化，操作简单，Star 62K!](https://mp.weixin.qq.com/s/w6utXg6-IqI6oyiqU7eBxQ)
 + [专注于敏感数据管理的开源工具](https://mp.weixin.qq.com/s/Lwg52of0xxEObnSI7F81EA)
 + [PolarisMesh源码系列——服务实例健康检查](https://mp.weixin.qq.com/s/pMx1HbbOW33Syh5lzJtwIQ)
++ [大多数人都还不知道：5 个绝不可错过的开源瑰宝！](https://mp.weixin.qq.com/s/3x4FSKmNV7Yg2ecZsY51WQ)
 ## 开源资源
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)

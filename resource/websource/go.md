@@ -13,6 +13,7 @@
 + [开发人员喜欢或讨厌 Go 语言的 8 个原因](https://www.oschina.net/news/301338/8-reasons-developers-love-go-and-dont)
 + [Go的发展，似乎正在走上“邪路”？](https://mp.weixin.qq.com/s/ZmjjYGd1v_4Es1Qx-uHBmQ)
 + [Go：简洁高效的现代编程语言，助力企业和初创公司快速迭代](https://mp.weixin.qq.com/s/9-OcGCYkmVu63IW3QplUiw)
++ [最好的 Go 框架就是不用框架？](https://mp.weixin.qq.com/s/pvp1ZxStty-tFtnIt35Y4g)
 # 库
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 + [MongoDB Golang驱动记录分享](https://mp.weixin.qq.com/s/Y2F6s67v-Ek43uWoau_69w)

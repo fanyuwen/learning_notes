@@ -11,6 +11,8 @@
 + [Rust必知必会库001: thiserror 和 anyhow](https://mp.weixin.qq.com/s/_8KZCdbKz2CNtppk-sEktA)
 + [不好意思，没达到公司性能目标，决定从 Go 切换到 Rust。](https://mp.weixin.qq.com/s/daVBNO19S_nz6ISBF2PbDQ)
 + [用 Rust Reqwest 库打造高性能的网络爬虫](https://mp.weixin.qq.com/s/M-VTCDPu08F2DFK55rGNyw)
+# 框架
++ [开源推荐 | 一个简单且功能强大的 Rust Web 后端框架，仅仅需要基础 Rust 知识即可开发后端服务](https://mp.weixin.qq.com/s/evaU3zHmtZFZX_o2V6s7ZQ)
 # 并发
 + [Rust并发编程番外篇: Mutex内部实现](https://colobu.com/2023/11/05/inside-rust-mutex/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust并发编程4 - 容器类并发原语](https://colobu.com/2023/10/15/concurrency-programming-via-rust-ch04/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)

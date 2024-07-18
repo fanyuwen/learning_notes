@@ -15,6 +15,7 @@
 + [Python 排序之争：sort和sorted，你选对了吗？](https://mp.weixin.qq.com/s/ySHoAatyT7WRTz9W1kDbcw)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 + [5分钟彻底弄懂Python布尔逻辑妙用](https://mp.weixin.qq.com/s/-EEYrDfafK-zX3tvU-zQPA)
++ [每日一模块：dataclass](https://mp.weixin.qq.com/s/6Z-x0Bg3fYM4xlOLmNxdXg)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -41,6 +42,8 @@
 + [feincms，一个实用的 Python 库！](https://mp.weixin.qq.com/s/hjqNaa6NuWk-FnB53NSIyw)
 + [Python 错误调试神器：PrettyErrors美化错误信息](https://mp.weixin.qq.com/s/Onp5IVT4RD7jhx-M0BQ-2A)
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
++ [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
++ [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 + [如何在Numpy中有效地改变数组长度](https://mp.weixin.qq.com/s/43q5mGSy2R8iMKodVUE5qw)
@@ -49,13 +52,17 @@
 + [7 个让人惊艳不已的 Python 开源项目](https://mp.weixin.qq.com/s/xcg2DPhIw9cZ25NyJEDpgQ)
 + [Nuitka：一个将Python代码编译为原生可执行文件的利器](https://mp.weixin.qq.com/s/MdktrxymOQdk7Y6U0Pbmnw)
 ## 实践
++ [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [Python异步编程：asyncio模块的探索](https://mp.weixin.qq.com/s/Nyf9BBqHzku6RThWJZ3cSw)
++ [Python 文件操作全解：读、写、删、改一步到位](https://mp.weixin.qq.com/s/lCu3q1fJbJfqTWzdna2ycQ)
 + [Python数据库编程的10个核心技巧](https://mp.weixin.qq.com/s/0zXpc3JAnV7iG6jkWtQyzA)
 + [Python min max 最小值和最大值计算](https://mp.weixin.qq.com/s/Q9HERBkPiAvnEjdsKtp2pg)
 + [100个python代码大全(三十二)](https://mp.weixin.qq.com/s/4qaUI0nNaD_mzERD9bJz5g)
 + [【Pathlib】一文弄懂Python中的路径问题](https://mp.weixin.qq.com/s/xmsoVlt8wOBfYphKxV_04A)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
++ [Python 中最大公约数的算法](https://mp.weixin.qq.com/s/V7jhkwmWuQrMtYSTAyN1ow)
 + [Python GUI 实现Excel多列数据对比-附excel文件（开箱即用，肯定好用，感谢3连）](https://mp.weixin.qq.com/s/Ayszc-yE8-QdL49K9Qmuag)
 + [掌握Python中的base64库：用法详解与实际编程示例](https://mp.weixin.qq.com/s/7i4CPj6X9L2k4K2rbF2HTg)
 + [Python 中创建当前日期和时间的文件名](https://mp.weixin.qq.com/s/QkiC6HT37aB3OS8yqgJFFw)
@@ -111,6 +118,7 @@
 + [开篇，Vulkan 概述](https://mp.weixin.qq.com/s/2vyEuBJBxu-AFsIIUOfs1Q)
 ## 爬虫
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
++ [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)
 + [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g)
 ## 数据分析
 + [Plottable结合Pandas绘制图表：数据可视化的利器](https://mp.weixin.qq.com/s/4KwVJeEOOgh-tIDA-L4KaA)

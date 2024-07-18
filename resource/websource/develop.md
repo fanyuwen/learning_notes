@@ -29,6 +29,7 @@
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
 + [探讨打造「高可用架构」秘籍](https://my.oschina.net/u/4090830/blog/11471110)
 + [阅读笔记：高可用HA](https://mp.weixin.qq.com/s/IgWS1xXFp0d81bsUJOH2xw)
++ [架构与思维：微服务架构的思想本质](https://mp.weixin.qq.com/s/wf-Uj7EEBr4SYFe1ZDuOnw)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 ### DDD
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
@@ -79,6 +80,7 @@
 + [为什么说心跳机制是分布式系统的守护神？](https://mp.weixin.qq.com/s/x5gK7n7AV_MBQwcqhfD9nA)
 + [面试必备：10种分布式ID的生成方案](https://mp.weixin.qq.com/s/-H7REzOQ-iECWv6kQHYEmw)
 + [聊聊分布式系统中的服务发现！](https://mp.weixin.qq.com/s/i9t6oB7OGex398bF31Q0iA)
++ [一文搞懂注册中心的设计与实现](https://mp.weixin.qq.com/s/OdyUJg7nAN1Zlvo3c1yPYQ)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
 ## 分布式锁
 + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)
@@ -264,6 +266,8 @@
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
+## 接口相关
++ [这才是后端API接口应该有的样子，巴适！！](https://mp.weixin.qq.com/s/18AW7hUK2K_LAKVKx8IqOA)
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
@@ -275,6 +279,7 @@
 + [聊聊性能指标CPU利用率如何计算的？](https://mp.weixin.qq.com/s/JtieBgaHUb7UHRIvExms7A)
 + [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
 + [业务系统存储设计](https://mp.weixin.qq.com/s/zBy2ungNiiFb6hwiNRRltg)
++ [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
 ## 领域知识
 + [批处理 vs 流处理，如何选择？](https://mp.weixin.qq.com/s/gpjTrbOjZfOht8Kd06ZCew)
 ### JSON

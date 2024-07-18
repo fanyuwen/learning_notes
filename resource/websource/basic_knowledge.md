@@ -22,11 +22,10 @@
 + [Bash 入门教程](https://my.oschina.net/OutOfMemory/blog/296588)
 + [Linux 中文件的隐藏属性与特殊权限](https://sxyz.blog/linux-chattr/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s/bLnaDOA0yindJQWUiRzSgw)
-+ [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
++ [linux系统迁移](https://mp.weixin.qq.com/s/HAPn8UzTAXofRRZzEwSC3Q)
 + [为什么Linux的top命令看到CPU有时候超过100%？](https://mp.weixin.qq.com/s/bDw_4w3ReU7bUXi8dgKAhg)
 + [「性能指标」CPU飙高排查实战](https://mp.weixin.qq.com/s/PePQyH3XkVQQZSaoFRpnFw)
 + [linuxC-基础编程-【随机数计算函数接口】](https://mp.weixin.qq.com/s/zRsk_QlYuIUz_PPy-t7aQQ)
-+ [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 + [SSH免密登陆搞不定，来看这边篇](https://mp.weixin.qq.com/s/8YXczGFa_cL-HzXELtO9DQ)
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
@@ -42,6 +41,7 @@
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
 + [Linux强大的网络命令：curl，一篇文章讲通透！](https://mp.weixin.qq.com/s/JcKutFM94S3Srshw9SlN6g)
 + [Linux基础知识之man手册页](https://mp.weixin.qq.com/s/ysw8OtmOfik0ua5tj6zFmQ)
++ [【超详细】后端和运维必会30个Linux命令解说：mkdir](https://mp.weixin.qq.com/s/c2drfkSoleNNxaVNabIptw)
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
 ### 相关信息
@@ -52,7 +52,9 @@
 + [美团一面，你碰到过CPU 100%的情况吗？你是怎么处理的？](https://mp.weixin.qq.com/s/TcprDRjzQCXQ7OQmJ0E5XQ)
 + [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
++ [图文并茂，带你认识CPU缓存那些事儿](https://mp.weixin.qq.com/s/c9bpCFhWgwdf7QhK-x_VFA)
 + [面试官最爱问：CPU100%该如何处理？](https://mp.weixin.qq.com/s/eLabr3GyqXTdGorauV4mOA)
++ [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
 + [NUMA架构：CPU和内存性能瓶颈的终结者！](https://mp.weixin.qq.com/s/awMSx3XMM6HbUlidC-UUCQ)
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
 ## 内存
@@ -76,6 +78,7 @@
 + [一次读懂网络分层：应用层到物理层全解析](https://mp.weixin.qq.com/s/6OUG3b3KX84VdRPQZCpahA)
 + [TCP/IP，http，socket，长连接，短连接](https://my.oschina.net/OutOfMemory/blog/95803)
 + [什么是跨域以及如何解决？通俗易懂带你彻底搞定](https://my.oschina.net/helloworldnet/blog/5585361)
++ [什么是 CORS ？一文搞懂 CORS 跨域原理！](https://mp.weixin.qq.com/s/FpQCqNN41lBGqJXUAYOFCA)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/iKlBnuREzC92TjWpqsdibw)
 + [RPC相关问题（2）](https://mp.weixin.qq.com/s/QuasAvK-bkZK4cWq2Ny-VA)
 + [玩转数通命令行：中兴路由器反向TELNET配置实例、串口终端接入配置实例](https://mp.weixin.qq.com/s/qJDV8_kBMhoARrhdCpIe_A)

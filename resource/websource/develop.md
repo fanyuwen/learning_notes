@@ -27,6 +27,7 @@
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
++ [多处理器片上系统架构----单核扩展](https://mp.weixin.qq.com/s/WEX51i98Hkxg1IE43erYVg)
 + [探讨打造「高可用架构」秘籍](https://my.oschina.net/u/4090830/blog/11471110)
 + [阅读笔记：高可用HA](https://mp.weixin.qq.com/s/IgWS1xXFp0d81bsUJOH2xw)
 + [架构与思维：微服务架构的思想本质](https://mp.weixin.qq.com/s/wf-Uj7EEBr4SYFe1ZDuOnw)
@@ -42,6 +43,7 @@
 + [领域建模的常见问题及解决方案](https://mp.weixin.qq.com/s/deZc0CXxGUbop2-LgS6BrQ)
 ## 微服务
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
++ [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
 + [微服务架构设计模式详解(4种常见模式)](https://mp.weixin.qq.com/s/yrk_ogdNTJLkWXCBDyN1jQ)
@@ -76,6 +78,7 @@
 + [浅谈分布式 ID 的实践与应用](https://my.oschina.net/u/2550800/blog/4892264)
 + [分布式系统最全详解(万字图文总结)](https://mp.weixin.qq.com/s/uovxX-p0jVeTqy2HGwtNRw)
 + [从 ACID 到 CAP/BASE](https://my.oschina.net/OutOfMemory/blog/796248)
++ [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/PF-4mXuA2pa-PjqvTnbONg)
 + [面试官：谈谈分布式一致性机制 ？](https://mp.weixin.qq.com/s/oiAv9qeetMT7ioWqVaZf_w)
 + [为什么说心跳机制是分布式系统的守护神？](https://mp.weixin.qq.com/s/x5gK7n7AV_MBQwcqhfD9nA)
 + [面试必备：10种分布式ID的生成方案](https://mp.weixin.qq.com/s/-H7REzOQ-iECWv6kQHYEmw)
@@ -137,6 +140,7 @@
 + [聊聊 SaaS 多租户系统数据隔离实现方案](https://mp.weixin.qq.com/s/vTLn4A71HE4NZNtuEN0GVQ)
 + [单点登录系统详解(8大原理机制图解)](https://mp.weixin.qq.com/s/udIVFgdMK249cn48g85bww)
 + [短链接服务系统开发](https://mp.weixin.qq.com/s/sr-SNG3ZHeAtOv321uRicg)
++ [短链接系统设计概要](https://mp.weixin.qq.com/s/d0KiKeA7MOiSEmKZsC7RGQ)
 + [图解支付系统全自动化渠道开关设计与实现](https://mp.weixin.qq.com/s/yQTC6WTSKRv83NXmia6hCA)
 + [图解：电商支付架构设计](https://mp.weixin.qq.com/s/CngQ9KF973oYzPLBoIWvQg)
 + [整理常见的商品超卖的解决方案](https://mp.weixin.qq.com/s/EhSzxqA0eUJfutDOW-xnrA)
@@ -262,6 +266,8 @@
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
 + [一致性是指什么？](https://mp.weixin.qq.com/s/xYPaQ3riYMqIGXOywEDGHQ)
+## 业务领域
++ [传统模式OUT！新零售思维好在哪？](https://mp.weixin.qq.com/s/mg1lvDj9Uig8Ue4nUowhDQ)
 ## 代码相关
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
@@ -298,6 +304,7 @@
 + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/bfzGnbOhpLsTLDeQD0fL9w)
++ [git merge 和 git rebase，如何选择？](https://mp.weixin.qq.com/s/CuuO6u16GysWS9dB5NvgXg)
 + [你合并代码用 merge 还是用 rebase ?](https://mp.weixin.qq.com/s/SRdfXUDRaj9aQKRzbz9BWQ)
 + [代码合并冲突不断通宵解决，你的团队应该引入这种代码分支策略！](https://mp.weixin.qq.com/s/IhT9HVmoegQe3BC4_mZoWw)
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)

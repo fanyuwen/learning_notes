@@ -16,6 +16,7 @@
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
 + [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
++ [经典SQL50问（5）聚合处理中有NULL值和IFNULL（）函数的使用](https://mp.weixin.qq.com/s/lTQnP5kinV9WpH64PDYUOw)
 + [SQL的执行顺序以及它的重要性与元数据](https://mp.weixin.qq.com/s/jq3KwBJJMxl61GR-fUsv-g)
 + [数据库连接：隐藏的性能杀手？](https://mp.weixin.qq.com/s/DtJ5m7mW-GTmmFL7qMJb2g)
 + [80 个常见的 SQL 面试问题与答案](https://mp.weixin.qq.com/s/5ZrVbRtYxKSWOnlJ3F6cdA)
@@ -70,6 +71,7 @@
 + [什么是悲观锁和乐观锁，如何实战应用](https://mp.weixin.qq.com/s/gdjKwS0AYE5jrA9elaXSKw)
 + [服了！DELETE 同一行记录也会造成死锁！！](https://mp.weixin.qq.com/s/K51ntOxUbU64kvdjnReXOw)
 + [聊聊order by 是怎么实现的？](https://mp.weixin.qq.com/s/fqoZdVAETo88x2J9hyCQ0A)
++ [面试官：为什么数据库连接很消耗资源？](https://mp.weixin.qq.com/s/qYqheHHZMwxVvtsrwd3Bmw)
 ## 关系型数据库
 ### ORACLE
 + [rfs (PID:146054): Database mount ID mismatch案例](https://mp.weixin.qq.com/s/RXLicR-3Yv7YQRNlPRENcA)
@@ -90,6 +92,7 @@
 + [《揭秘MySQL主从复制：数据同步的幕后故事》](https://mp.weixin.qq.com/s/9QiIWXYhMrOylhD6WNGcGw)
 + [MySQL数据如何同步到Elasticsearch](https://mp.weixin.qq.com/s/MT2hGK_8ef8a66hxHhmfOQ)
 + [MySQL数据库碎片化：隐患与解决策略](https://mp.weixin.qq.com/s/X5NMeVIQNTjmXoSRq5PK-Q)
++ [用过 MySQL 读写分离吗？怎么做的？](https://mp.weixin.qq.com/s/SlTfuZfSlfcBbStpKKfkJQ)
 + [(十六)MySQL调优篇：单机数据库如何在高并发场景下健步如飞？](https://mp.weixin.qq.com/s/TAoZSGbcmZULARWqphHIwQ)
 + [mysql常用命令总结](https://mp.weixin.qq.com/s/6WwOOU2nMZ8zpGHatNQ44Q)
 + [利用MySQL实现公司申请审批流程中的模糊匹配](https://mp.weixin.qq.com/s/pIJs1OuorBhn_ZF9hJAIeg)
@@ -236,6 +239,7 @@
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
 + [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
++ [来聊聊redis的发布订阅设计与实现](https://mp.weixin.qq.com/s/IPSmFlLNoQZxwkGnTuHNng)
 + [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)
 + [基于redis实现的轻量级延迟队列](https://mp.weixin.qq.com/s/3foJwnH6FPOaGYTS_HwScg)
 + [Redis源码整体结构](https://mp.weixin.qq.com/s/5t0zMv8oFX_m0FwOEpbW_Q)
@@ -299,6 +303,7 @@
 #### 原理
 + [面试都喜欢问 Redis，为什么？因为他快吗？](https://mp.weixin.qq.com/s/WVEbK-i31Y1cplHZ9_eExw)
 + [Redis命令之Set类型](https://mp.weixin.qq.com/s/LYJjFoyIa3h-8OvNv4y6Vw)
++ [Redis命令之SortedSet类型](https://mp.weixin.qq.com/s/l3gYqqC2JP2lrsIQ5N9uhA)
 + [数据的极速旅行：Redis高性能原理的深度剖析](https://mp.weixin.qq.com/s/dTh7MbzOZ8SJSYpNi7oA0Q)
 + [Redis为什么那么快：揭秘背后的高效秘密](https://mp.weixin.qq.com/s/FlQ3TIXrBgBeG_Npc-oNeA)
 + [吃透Redis系列：Redis为什么这么快](https://mp.weixin.qq.com/s/x-hg2Pk6uVyNJmyXNjYJ5A)

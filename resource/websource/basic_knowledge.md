@@ -28,6 +28,7 @@
 + [linuxC-基础编程-【随机数计算函数接口】](https://mp.weixin.qq.com/s/zRsk_QlYuIUz_PPy-t7aQQ)
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 + [SSH免密登陆搞不定，来看这边篇](https://mp.weixin.qq.com/s/8YXczGFa_cL-HzXELtO9DQ)
++ [应急靶场(6)：Linux1](https://mp.weixin.qq.com/s/J13-jJrDDAt0M1zFMIY5-Q)
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
@@ -41,6 +42,8 @@
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
 + [Linux强大的网络命令：curl，一篇文章讲通透！](https://mp.weixin.qq.com/s/JcKutFM94S3Srshw9SlN6g)
 + [Linux基础知识之man手册页](https://mp.weixin.qq.com/s/ysw8OtmOfik0ua5tj6zFmQ)
++ [18 个一线工作中常用 Shell 脚本](https://mp.weixin.qq.com/s/VNZjmpbTTsNHu4nQMmLtoQ)
++ [一篇短文快速搞定Vim编辑器命令](https://mp.weixin.qq.com/s/-pkRQ2sC8cdM7DiXbzHCig)
 + [【超详细】后端和运维必会30个Linux命令解说：mkdir](https://mp.weixin.qq.com/s/c2drfkSoleNNxaVNabIptw)
 ### 发行版信息
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
@@ -100,6 +103,7 @@
 + [拆解腾讯面试(校招)：拔掉网线后,原来的TCP连接还在不在？](https://mp.weixin.qq.com/s/reTBVPADcs8AH5IErhFYBQ)
 + [用了 TCP 协议，数据一定不会丢吗？](https://mp.weixin.qq.com/s/UrGPPUCzh-Hwmu2IvbQVIQ)
 + [拆解大厂面试题：TCP 的keep-alive的原理](https://mp.weixin.qq.com/s/euHnLpFWt5bqHdvyMBs0zA)
++ [为什么会TCP粘包？读完这篇你就懂了](https://mp.weixin.qq.com/s/_CCF7P5EfrhWOnPZHaWNSg)
 + [Socket 的半包，粘包与分包的问题](https://my.oschina.net/OutOfMemory/blog/95857)
 + [不再困惑！一文搞懂TCP与UDP的所有区别](https://mp.weixin.qq.com/s/-uaG0mNXEoIDQ0fcmAjcYw)
 + [TCP/IP（六）- 全网介绍TCP/IP最全的文章](https://mp.weixin.qq.com/s/dysSZLyTRaSbr4650aQ7uA)
@@ -116,6 +120,7 @@
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
 + [Nginx负载均衡最全详解(4大算法原理机制)](https://mp.weixin.qq.com/s/Upf_UNY-D_dj2u0kroD8IQ)
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)
++ [3 万字 25 道 Nginx经典面试题总结](https://mp.weixin.qq.com/s/kt4qmmD6biRWnBIdj-JTiA)
 ## web
 + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
 + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)

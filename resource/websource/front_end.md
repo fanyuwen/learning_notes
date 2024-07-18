@@ -13,6 +13,7 @@
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
 ## 实践
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
++ [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
 + [18个面向专业开发人员的高级 JavaScript 技术](https://mp.weixin.qq.com/s/AyTxXOaUZvk0MNcyxdOoRQ)
 + [精进 JavaScript ｜ 这些手写你都会吗 ？](https://mp.weixin.qq.com/s/evXB9E23xilkHGDg4iTTYw)
 + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
@@ -43,6 +44,7 @@
 + [三分钟，带你学会 Vue3 加载远程组件](https://mp.weixin.qq.com/s/dUlLfTe6Y8-sdPxWCq6Jow)
 + [用 Vue3 就该有不用 pinia 的自信](https://mp.weixin.qq.com/s/cxvPcSPOj5fPNsC5VyV3Dw)
 + [Vue3中如何自定义消息总线](https://mp.weixin.qq.com/s/4aBWo1uqVcGikXpDHoe1tw)
++ [Vue.js 生命周期深入解析：从 Vue2 到 Vue3](https://mp.weixin.qq.com/s/QRBKa6BTDsyihRKGU0qrOw)
 + [吐槽一下 Vue3 的语法设计](https://mp.weixin.qq.com/s/c1fywG0NJi7Idh9IjryXcg)
 + [为什么有些 Vue3 项目已经开始弃用 Pinia 了？](https://mp.weixin.qq.com/s/zfaOou0C5RuA3b79JcE57Q)
 + [又一次变革，Vue 更彻底的拥抱了函数式](https://mp.weixin.qq.com/s/7iNLwpm_PTSHfMreR2Hq5Q)

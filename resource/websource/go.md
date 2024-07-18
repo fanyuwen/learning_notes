@@ -33,6 +33,7 @@
 + [Go 语言中的结构体内存对齐你了解吗？](https://mp.weixin.qq.com/s/MSkkXlomDMtlQaMxRRt0BA)
 + [golang 结构体 json 的时间格式化解决方案](https://my.oschina.net/qiangmzsx/blog/1408330)
 + [解析 Golang 定时任务库 gron 设计和原理](https://mp.weixin.qq.com/s/bkvbST8x4cXLHDM545OabQ)
++ [你是如何解决go语言框架 gin跨域问题 的 ？](https://mp.weixin.qq.com/s/oG0YplEOG4k6-nJX17m7zA)
 + [[Golang] 泛型的使用](https://mp.weixin.qq.com/s/lwsOnblS0uUHI59L2PpufQ)
 + [Go 如何优雅实现业务并发？](https://mp.weixin.qq.com/s/0JS7XWcpRauj14xWGWopFw)
 + [Go语言之高级篇beego框架之Controller](https://mp.weixin.qq.com/s/QAXIo8wLRDVFaEPx3R9KSg)

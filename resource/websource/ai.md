@@ -28,6 +28,7 @@
 + [在MoneyPrinterPlus中使用本地chatTTS语音模型](https://mp.weixin.qq.com/s/bToXG_3XSYHKVI6Nf5W3Dw)
 ## 资讯
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
++ [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)
 # 算法
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)
 + [从零学AI大语言模型Pytorch篇（10）：规约运算](https://mp.weixin.qq.com/s/aooouLYoMYP4r5qoKNwHbA)

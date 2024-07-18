@@ -14,6 +14,7 @@
 + [Eigen ,一个强大的c++库](https://mp.weixin.qq.com/s/kYZOsYqcL6i3JVitX_Hw2A)
 + [C++ memory 内存管理](https://mp.weixin.qq.com/s/M2ezCaCuqeW-qKChmN2twA)
 + [C++ proto 数据类型](https://mp.weixin.qq.com/s/7jvgBUYaoAMEDzRR3eDrAA)
++ [技巧 | C++中实现类似instanceof的方法](https://mp.weixin.qq.com/s/lvQEx0GdGFZNV9YF942x3g)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 ### 学习资源
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
@@ -32,8 +33,10 @@
 + [libxml2，一个强大的c库](https://mp.weixin.qq.com/s/A818KjGd4WaoUDdPw_dYMg)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 + [libpng，一个强大的c语言库](https://mp.weixin.qq.com/s/9Z4VJTxyeAHzW-ZhIwX8uA)
++ [深度系列之C语言：第28章 指针](https://mp.weixin.qq.com/s/wSqSdGzZFzYiTEd4uMDkGg)
 + [深度系列之C语言：第26章 库文件](https://mp.weixin.qq.com/s/eG1BDdZqMXsrbt5pQlB9Dw)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)
++ [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 ## verilog
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 # ARM
@@ -44,3 +47,6 @@
 + [NoC技术，重焕新生](https://mp.weixin.qq.com/s/Q9zwu1NZU16P2TJE6DjYVg)
 # FPGA
 + [TIMING_10 时序约束案例（系统同步类型的output delay约束）](https://mp.weixin.qq.com/s/c7Th4ZfCl7yFwsUBS5YXKA)
++ [Artix7系列FPGA实现SDI视频编解码+UDP以太网传输](https://mp.weixin.qq.com/s/4JEharUrlVDLeQ0xh-NkWg)
+# 单片机
++ [一文讲解单片机、ARM、MCU、DSP、FPGA、嵌入式错综复杂的关系！](https://mp.weixin.qq.com/s/l-6aVfZvh5Cre--QEL6fiQ)

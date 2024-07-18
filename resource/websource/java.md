@@ -79,6 +79,7 @@
 # 底层
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [深入探讨Java的分层编译](https://mp.weixin.qq.com/s/ZNNyRrjjLlaeepuUByqaGQ)
 + [深入理解 System.gc()](https://mp.weixin.qq.com/s/W2nPL638fAKc5aGcWxDr6w)
 + [从字节码看 finally 的本质，你能说出这些代码运行结果吗？](https://mp.weixin.qq.com/s/hwVyJ2d6ePIgSp2h-WDT5Q)
 + [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
@@ -218,6 +219,7 @@
 + [这才是Spring为什么不支持static字段注入的原因【源码分析】](https://mp.weixin.qq.com/s/YrFHt3J5ALdeXe9TNMjBXg)
 + [还记得Spring这2个强大的配置类吗？](https://mp.weixin.qq.com/s/4PXOfx-Cm-ci8S0b3bmCXQ)
 + [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
++ [Spring纯注解开发，有点强！！](https://mp.weixin.qq.com/s/YFLUrWpIkhCuHsO7OA2p5g)
 + [Spring的SmartLifecycle可以没用过，但没听过就不好了！ - 第517篇](https://mp.weixin.qq.com/s/bhaoZQ65H7ULnYZ3DkfeNw)
 + [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
 + [Spring这些内置工具类，你用过几个？](https://mp.weixin.qq.com/s/VQmzMCFrlqWL9eUy-mhuZg)
@@ -287,6 +289,7 @@
 ### concurrent
 + [Spring框架中的线程池](https://mp.weixin.qq.com/s/FCeSlVNImbxKU6Be_YJA1A)
 + [浅析 Spring 中 Async 注解底层异步线程池原理](https://my.oschina.net/u/5783135/blog/11209054)
++ [Quartz vs Spring Schedule：对比分析，助你选型](https://mp.weixin.qq.com/s/DFXb0hBPZo5MKPRsw00h7w)
 ### security
 + [一文让你彻底搞定Spring Security的基本使用](https://mp.weixin.qq.com/s/CGGmSWu--yNXXB-wQyUu_Q)
 + [强大！必须掌握！Spring Security这些技巧你知道吗？](https://mp.weixin.qq.com/s/suRpoAItbaAAuBj0A8_4bg)
@@ -613,6 +616,7 @@
 + [教你如何搞定 springboot 集成 kafka](https://my.oschina.net/u/4526289/blog/11140692)
 + [Spring Boot集成RocketMQ实现分布式事务](https://mp.weixin.qq.com/s/z_2Uy-oTHJV9seltgZymlA)
 + [Spring Boot + RabbitMQ 实现邮件异步发送](https://mp.weixin.qq.com/s/Qs--JS7eXEmv3BzaGfshJA)
++ [SpringBoot 集成 RabbitMQ【高级应用篇】](https://mp.weixin.qq.com/s/1FiSTRcD575X7kn5GKs9JQ)
 #### 配置打包部署
 + [我司用了6年的 SpringBoot 项目部署方案，稳得一批！](https://mp.weixin.qq.com/s/LCOgdHNM2nMPK-jLfLJMNg)
 + [SpringBoot如何解决yml明文密码问题](https://mp.weixin.qq.com/s/bewrZtF6iNBCwkgjr6vEeA)

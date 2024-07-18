@@ -44,6 +44,7 @@
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 + [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
++ [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 + [如何在Numpy中有效地改变数组长度](https://mp.weixin.qq.com/s/43q5mGSy2R8iMKodVUE5qw)
@@ -108,14 +109,20 @@
 + [15个Python进阶操作系统交互高级命令](https://mp.weixin.qq.com/s/rKvmj6e2IIA2GzzwG5dLKA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [Python 科学计算生态系统：标准库与第三方库及其学习路线](https://mp.weixin.qq.com/s/JD5yjsapauI5IFLCly7opA)
++ [100天精通Python（进阶篇）——第40天：pymongo操作MongoDB数据库基础+代码实战](https://mp.weixin.qq.com/s/Wl7gv6vd3dffY5_B4WA_bA)
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
++ [django框架入门——第一个简单示例](https://mp.weixin.qq.com/s/_-wdVy_hTwQiV84V9Tpb4g)
 ### OPENCV
 + [OpenCV教程03：绘制图形（线段、矩形、圆形、椭圆、多边形、箭头线）+水印文本](https://mp.weixin.qq.com/s/wyPPviaEHIWifz2-cKdNCw)
 + [OpenCV图像拼接改进算法之完美拼接](https://mp.weixin.qq.com/s/Om2Ncj3deRief15h02jr4Q)
 ### VULKAN
 + [开篇，Vulkan 概述](https://mp.weixin.qq.com/s/2vyEuBJBxu-AFsIIUOfs1Q)
+### PyTorch
++ [PyTorch安装实战：为AI项目准备开发环境](https://mp.weixin.qq.com/s/gl1UxASFUk3tA-tNJ5znqw)
+### Matplotlib
++ [Matplotlib imshow()方法详解：图像显示的基础与进阶](https://mp.weixin.qq.com/s/SYeDs3C8gbQk3FZUJh5zfQ)
 ## 爬虫
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
 + [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)

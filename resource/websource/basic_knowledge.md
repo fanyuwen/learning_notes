@@ -117,6 +117,7 @@
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/iah2Mz20XpJWuCpSFpXPlg)
++ [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
 + [Nginx负载均衡最全详解(4大算法原理机制)](https://mp.weixin.qq.com/s/Upf_UNY-D_dj2u0kroD8IQ)
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)

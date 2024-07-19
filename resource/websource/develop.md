@@ -31,6 +31,7 @@
 + [探讨打造「高可用架构」秘籍](https://my.oschina.net/u/4090830/blog/11471110)
 + [阅读笔记：高可用HA](https://mp.weixin.qq.com/s/IgWS1xXFp0d81bsUJOH2xw)
 + [架构与思维：微服务架构的思想本质](https://mp.weixin.qq.com/s/wf-Uj7EEBr4SYFe1ZDuOnw)
++ [对一个软件项目架构设计研发管理过程的评估和优化](https://mp.weixin.qq.com/s/lLIhiBHRgt06jF_uYtkxZw)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 ### DDD
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
@@ -207,6 +208,7 @@
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
 + [30s到0.8s，记录一次接口优化成功案例！](https://mp.weixin.qq.com/s/-no6b1kFc6PK0XJIKLeMUA)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/d2441A6vaDWVUHZim8YQAA)
++ [为什么你的应用启动速度如此之慢？](https://mp.weixin.qq.com/s/Fuq1LbfK5W3spWOKQCaIpQ)
 + [性能优化｜几个方法让图片加载更快一些](https://mp.weixin.qq.com/s/6YUuE8IJ-B9XF9On6LmLKw)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
@@ -258,6 +260,7 @@
 + [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)
 + [性能测试的艺术：Apache JMeter帮你赢在起跑线](https://mp.weixin.qq.com/s/vN3-P80Gs_ksJVrge2-x-A)
 + [深入了解软件测试：从入门到奥秘，揭开测试的精髓](https://my.oschina.net/powertoolsteam/blog/11454302)
++ [国产数据库能否扛住压力—HaloDB压力测试](https://mp.weixin.qq.com/s/0Y66i1q010CfMySrcM82tA)
 # 领域相关
 + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)

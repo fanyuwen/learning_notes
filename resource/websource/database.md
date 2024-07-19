@@ -295,6 +295,7 @@
 + [一文了解 Redis](https://mp.weixin.qq.com/s/niOvTiaNGG3KdrZQBNqM9g)
 + [基于Redis实现内部消息服务通信](https://mp.weixin.qq.com/s/CmrfSSQWS0RdQquC6-njXg)
 + [面试官：说说 Redis 哨兵机制？](https://mp.weixin.qq.com/s/4l102OwvTC5GPtK2JfuN6w)
++ [Redis 成本优化指南：45% 的成本节约](https://my.oschina.net/klblog/blog/11572308)
 + [【超长文】Redis在项目中的17种使用场景](https://mp.weixin.qq.com/s/dBz7gm46mAOjObErtcUF4Q)
 + [面试官：Redis有哪几种数据类型？使用场景是什么？分别是怎么实现的？Zset为什么不用树实现呢？数据类型题目4连问你接得住么](https://mp.weixin.qq.com/s/cI8h44bjvHzb0SuEp72BXw)
 + [面试官：Redis有哪些持久化机制（如何保障数据不丢失）？这个Redis必答题你一定不要错过！](https://mp.weixin.qq.com/s/tNdXNfifFDvvm6cdK09wKA)

@@ -50,6 +50,7 @@
 + [又一次变革，Vue 更彻底的拥抱了函数式](https://mp.weixin.qq.com/s/7iNLwpm_PTSHfMreR2Hq5Q)
 + [在Vue3中处理表单数据的方式是什么？与Vue2相比，是否有显著的变化或者新的建议？](https://mp.weixin.qq.com/s/y-8jBHdws6fRxkAJczuexQ)
 + [Vue3中的全局组件注册方法如何？它与Vue2有何不同？](https://mp.weixin.qq.com/s/2-EjDfTZz4LPdPGHO7oHdQ)
++ [元素缩放？一个vue指令搞定](https://mp.weixin.qq.com/s/nw9let6yrfypz2fVMA2uYg)
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
 ## react
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)

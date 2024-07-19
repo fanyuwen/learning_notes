@@ -23,6 +23,7 @@
 # 实践
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
++ [深入理解 Go 语言并发编程中的 Mutex](https://mp.weixin.qq.com/s/op2IAy92M_FgDXj4_tcCbA)
 + [goctl 技术系列 - text/template 深入讲解](https://mp.weixin.qq.com/s/NnparE3Er8W0T84FXejAhw)
 + [在 Go 中如何使用 go:embed 指令嵌入静态文件](https://mp.weixin.qq.com/s/aicfI9dMJscDQruO4kyYLg)
 + [换掉UUID，更快更安全](https://mp.weixin.qq.com/s/KCha5jWGgR0SH1ISpfiTwQ)

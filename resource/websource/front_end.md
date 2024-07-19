@@ -59,6 +59,7 @@
 + [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
 + [原来 React Native 已经如此成熟了](https://mp.weixin.qq.com/s/bMD-1mBOQCFHWFy6y6wfXg)
 + [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)
++ [2024 React 生态工具最能打的组合！](https://mp.weixin.qq.com/s/-YBMFwrbnidf79tRwhEYsA)
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
 ### react native
 + [React Native 终于“妥协”了！](https://mp.weixin.qq.com/s/0ieve3nqLCBRekG-xvL3uQ)

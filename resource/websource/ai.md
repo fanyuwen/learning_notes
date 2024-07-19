@@ -26,6 +26,7 @@
 + [2024年死磕这4款AI编程工具，助你代码起飞](https://mp.weixin.qq.com/s/WyPj9TJLb0hiVjdbjAC6PA)
 + [多处理器片上系统架构----基于 ASIP 的多处理器系统，可高效实现 CNN](https://mp.weixin.qq.com/s/aIKW1sE9GhsISEZsYTj_MA)
 + [在MoneyPrinterPlus中使用本地chatTTS语音模型](https://mp.weixin.qq.com/s/bToXG_3XSYHKVI6Nf5W3Dw)
++ [一个AI从业者的十年](https://mp.weixin.qq.com/s/UJVz3TddrN7vJZCXD1tEhw)
 ## 资讯
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 + [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)

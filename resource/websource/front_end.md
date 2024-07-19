@@ -80,6 +80,7 @@
 + [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
 # 杂谈
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
++ [前端打包工具 Mako 架构解析｜得物技术](https://my.oschina.net/u/5783135/blog/11537933)
 + [常用的 HTML5 移动应用开发框架比较](https://my.oschina.net/justjavac/blog/68936)
 + [28 个你必须知道的 HTML5 的新特性，技巧以及技术](https://my.oschina.net/justjavac/blog/68140)
 + [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/vGaW1nX1zVh_IoB4Jern7w)

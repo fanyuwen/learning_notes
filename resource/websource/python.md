@@ -2,6 +2,7 @@
 ## 基础
 + [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
 + [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
++ [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [Python字符串](https://mp.weixin.qq.com/s/uqUOTPac4oqBuV5EHHy1jQ)
@@ -31,6 +32,7 @@
 + [探索 Python 事件驱动编程：pymitter 入门指南](https://mp.weixin.qq.com/s/MvE56_xJSMhG9ZVHHL-Epw)
 + [datasets,一个强大的python库](https://mp.weixin.qq.com/s/WjgMxsmF3DHUHjiRnc5sBQ)
 + [Python中turtle库的基础应用](https://mp.weixin.qq.com/s/6VMee8_IoxfryvcJ6ICAaA)
++ [Pyqtgraph，一个牛逼的python库](https://mp.weixin.qq.com/s/fcjCY4Y89sNgXs7pHYpCpQ)
 + [Dnspython ，世界最牛逼的Python库](https://mp.weixin.qq.com/s/JSpIdQsjRrBMLZ7PQGWtSQ)
 + [anyio,一个强大的python库](https://mp.weixin.qq.com/s/VEZncEI6XwV_2b2NwGJgCQ)
 + [Pydub，一个牛逼的python库](https://mp.weixin.qq.com/s/XJajtr5NWjcNO8Q1vNwY3A)

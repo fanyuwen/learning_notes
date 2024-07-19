@@ -110,6 +110,7 @@
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [Python 科学计算生态系统：标准库与第三方库及其学习路线](https://mp.weixin.qq.com/s/JD5yjsapauI5IFLCly7opA)
 + [100天精通Python（进阶篇）——第40天：pymongo操作MongoDB数据库基础+代码实战](https://mp.weixin.qq.com/s/Wl7gv6vd3dffY5_B4WA_bA)
++ [从基础到高级应用，详解用 Python 实现容器化和微服务架构](https://my.oschina.net/u/4526289/blog/11557468)
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)

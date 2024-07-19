@@ -4,6 +4,7 @@
 + [内存是怎样一步步被分配出来的？](https://mp.weixin.qq.com/s/QmFbNAwO6dKo32o9hj6J5A)
 ## 文件系统
 + [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s/f81V8_XL4eC14sl_kXFQwQ)
++ [FAT32的文件系统知多少(优化篇)](https://mp.weixin.qq.com/s/OBniOkXFt-kN7VMLo6hjaQ)
 ## windows
 + [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
 + [后渗透系列-Windows日志致盲与绕过](https://mp.weixin.qq.com/s/Oz5Z3Yw9lhh83N2lBuaUDQ)
@@ -125,6 +126,7 @@
 ## web
 + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
 + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)
++ [Token 过期后，如何自动续期？](https://mp.weixin.qq.com/s/ZdcHLCPXO1zK-deb2RfMqg)
 ## IO原理
 + [阿里面试：NIO为什么会导致CPU100%？](https://mp.weixin.qq.com/s/1yZft2djYFZJAi6-pbxN1A)
 + [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)

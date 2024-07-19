@@ -65,6 +65,7 @@
 + [一款超好用的国产Redis可视化工具，高颜值UI ，真心YYDS](https://mp.weixin.qq.com/s/gpomm0xQf-shNFYZi_n_NA)
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
++ [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
 + [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
 + [Cloudflare 正式开源Nginx替代品：Pingora](https://mp.weixin.qq.com/s/nHYjbsQa3GQt1EFN0SCajw)

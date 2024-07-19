@@ -50,3 +50,5 @@
 + [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)
 ## Prometheus
 + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
+## Istio
++ [Istio注入中断故障](https://mp.weixin.qq.com/s/h7OgscCEXjLdv7aUXRn6fA)

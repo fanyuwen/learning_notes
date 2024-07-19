@@ -17,6 +17,7 @@
 + [代码是上午写的，人是下午被开除的！](https://mp.weixin.qq.com/s/SBqL31-RAwzEoxJrMHjrLA)
 + [中年危机自救行动指南](https://mp.weixin.qq.com/s/0OXPfYrlooZO13hZMZBU2Q)
 + [35岁危机的本质，是你没有成为时间的朋友](https://mp.weixin.qq.com/s/TXwLZvQHSpfoRvMvVGJEWw)
++ [大龄程序员的出路在哪里](https://mp.weixin.qq.com/s/mlK8PmNHhBLOZBToHIsQbA)
 + [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
 + [架构师应该在团队中发挥怎样的作用？](https://mp.weixin.qq.com/s/edWEYL8Zma_qTWQ8HDEsbQ)
 # 个人成长
@@ -101,6 +102,7 @@
 + [推荐 GitHub 上一个能帮你将数据清理及结构化的开源工具 OmniParse](https://mp.weixin.qq.com/s/_ehqBBCrUI-wiGBCAhrmAQ)
 + [一个跨平台文件同步神器，去中心化，操作简单，Star 62K!](https://mp.weixin.qq.com/s/w6utXg6-IqI6oyiqU7eBxQ)
 + [专注于敏感数据管理的开源工具](https://mp.weixin.qq.com/s/Lwg52of0xxEObnSI7F81EA)
++ [揭秘最为知名的黑客工具之一：Samurai 框架](https://mp.weixin.qq.com/s/7HkOC6ZV-6Skjz3LWRYnLg)
 + [PolarisMesh源码系列——服务实例健康检查](https://mp.weixin.qq.com/s/pMx1HbbOW33Syh5lzJtwIQ)
 + [大多数人都还不知道：5 个绝不可错过的开源瑰宝！](https://mp.weixin.qq.com/s/3x4FSKmNV7Yg2ecZsY51WQ)
 ## 开源资源
@@ -143,6 +145,9 @@
 + [开源日报 | 小语言模型才是AI未来；Mbed即将EOL；揭秘DeepSeek；谷歌默认不索引新内容；“抱抱脸”宣布实现盈利](https://mp.weixin.qq.com/s/5uqU3tFi8EHabVH5HJyjBg)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
++ [两位巨佬吃了一顿晚饭，整个互联网彻底被改变了！](https://mp.weixin.qq.com/s/wsDGJTRLjdG8WfdDDlDV8w)
++ [为什么Python之父至今还是一个程序员，不做Leader不做管理](https://mp.weixin.qq.com/s/Gq7_kNuTO8BQcNOE23dTGA)
++ [一图了解常见开源协议](https://mp.weixin.qq.com/s/vSSuLQIkp11mOGY8iYkwDw)
 + [域名过期会怎么样?推荐域名过期实用小技巧](https://mp.weixin.qq.com/s/zS8WxNYE6pjYoyanABQAjg)
 + [17年不更新，世界上最简陋的网站，收割了全世界的程序员](https://mp.weixin.qq.com/s/tMMXSfN0TMWQzNsiQEbzsA)
 + [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)

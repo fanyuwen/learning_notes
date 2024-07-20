@@ -116,7 +116,7 @@
 + java版本年鉴 [javaalmanac](https://javaalmanac.io/)
 + redhat开发资源站 [redhat-developer](https://developers.redhat.com/)
 + javascript学习资源网站 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-+ python学习资源 [python](https://docs.python-guide.org/) <font style='color:red'>*</font>[realpython](https://realpython.com) [fluentpython](https://www.fluentpython.com/)
++ python学习资源 [guide_to_python](https://docs.python-guide.org/) <font style='color:red'>*</font>[realpython](https://realpython.com) [fluentpython](https://www.fluentpython.com/)
 + 软件产品、工具交互web平台 [jupyter](https://jupyter.org/)
 + markdown 图像处理库 [mermaid](https://mermaid.js.org/)
 + android开发者网站 [android](https://developer.android.google.cn/)
@@ -125,10 +125,12 @@
 + 开源技术趋势和统计 [ossinsight](https://ossinsight.io/)
 + 计算机视觉库 [opencv](https://opencv.org/)
 + 程序员技能检测和提高 [hackerrank](https://www.hackerrank.com/)
++ 软件开发环境管理 [conda](https://docs.conda.io/)
 
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
 + python包管理器 [anaconda](https://www.anaconda.com) [pip](https://pypi.org)
++ python环境管理 [virtualenv](https://virtualenv.pypa.io/)
 + C扩展 [cython](https://cython.org/)
 + orm框架 [sqlalchemy](https://www.sqlalchemy.org/) [peewee](https://docs.peewee-orm.com/) [ponyorm](https://docs.ponyorm.org/)
 + http处理库 [requests](https://requests.readthedocs.io/)

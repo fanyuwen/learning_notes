@@ -27,6 +27,7 @@
 + [docker: No space left on device处理与迁移目录](https://mp.weixin.qq.com/s/nKYUkX2NQDE6Y0EnUq1FDw)
 + [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/6PTALT9seMIvORvbJm84xw)
 + [推荐给你三款主流 Docker 可视化工具](https://mp.weixin.qq.com/s/PyUQR3YgccOc2AfP8bFnfQ)
++ [Kompose：一个转换docker-compose为k8s资源清单yaml的利器](https://mp.weixin.qq.com/s/04nN4yky-S6bGG2OxN-LpQ)
 + [Docker 文件系统实战](https://my.oschina.net/u/2550800/blog/4330326)
 + [DockerHub 拉取镜像，终极解决方案！](https://mp.weixin.qq.com/s/gPqACbV1_6YX1-toavorYQ)
 + [从 Docker Hub 拉取镜像受阻？这些解决方案帮你轻松应对](https://my.oschina.net/rainbond/blog/11212890)

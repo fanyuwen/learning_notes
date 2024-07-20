@@ -1,4 +1,6 @@
 # 语言相关
+## 工具
++ [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
 ## C++
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
@@ -35,6 +37,7 @@
 + [libpng，一个强大的c语言库](https://mp.weixin.qq.com/s/9Z4VJTxyeAHzW-ZhIwX8uA)
 + [深度系列之C语言：第28章 指针](https://mp.weixin.qq.com/s/wSqSdGzZFzYiTEd4uMDkGg)
 + [深度系列之C语言：第26章 库文件](https://mp.weixin.qq.com/s/eG1BDdZqMXsrbt5pQlB9Dw)
++ [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 ## verilog

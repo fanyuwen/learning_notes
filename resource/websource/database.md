@@ -85,6 +85,9 @@
 + [(十八)MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://mp.weixin.qq.com/s/m24AB--7Iaev4Ab089RisA)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [MYSQL数据库备份](https://mp.weixin.qq.com/s/n5ATPq7-jIHnKOX3h6DUYA)
++ [mysql 快速定位cpu 占比过高的sql语句](https://mp.weixin.qq.com/s/7w8T6fzdcsFQwZzI-W-SXQ)
++ [MySQL保姆级教程（基础篇）从小白到高手的进阶指南](https://mp.weixin.qq.com/s/ooVUoHRgMphOcumRWA7FMw)
++ [探索MySQL的高效数据同步：并行复制原理](https://mp.weixin.qq.com/s/VjefHUEwfjGpXzdDG7OubQ)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
 + [面试官：MySQL MVCC是如何实现的？MySQL又是如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/VKt_klGpGdamjhFuyBR_Ag)
 + [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/tkB6L2_MKSwMOo0TsjIeRA)
@@ -197,6 +200,7 @@
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
++ [为什么你的索引会失效？](https://mp.weixin.qq.com/s/b4CDWYkpBWb280MwUAEeKg)
 + [面试官：这个SQL会用到索引吗？Explain返回列的含义能解释下吗？还有哪些索引失效的场景？](https://mp.weixin.qq.com/s/KNtM8gbTLbpwxpysDa_wVg)
 + [一篇文章聊透索引失效有哪些情况及如何解决](https://mp.weixin.qq.com/s/wz5BJEKrnhH2W0PBGl0Utw)
 + [什么是最左前缀匹配？为什么要遵守？](https://mp.weixin.qq.com/s/2YSnEFyWlNqUs2oMAnpwnQ)
@@ -229,6 +233,8 @@
 + [冷门的PostgreSQL性能优化来了：利用事务链减少与SERVER端的往返开销](https://mp.weixin.qq.com/s/MTlnfo7rshXlmtVi_KNZbQ)
 ### SQLSERVER
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
+### DuckDB
++ [DuckDB 如何访问非UTF-8的CSV？](https://mp.weixin.qq.com/s/8HFB_ss4p2DUSJXb4bp9Lw)
 ## NOSQL
 + [NoSQL数据库使用场景以及架构介绍](https://mp.weixin.qq.com/s/QJHUIsRcXYN-mvF6ineDPA)
 ### REDIS

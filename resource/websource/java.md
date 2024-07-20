@@ -189,6 +189,8 @@
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 ## concurrent库
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
++ [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
++ [8 个线程池最佳实践和坑！使用不当直接生产事故！！](https://mp.weixin.qq.com/s/cBPoIe7EHVr1s-4-blMnug)
 + [JUC组件实战：实现Java与硬件（通过MQTT）的同步通信](https://mp.weixin.qq.com/s/8oIi_OWZkpDQ2lD98VODQQ)
 + [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
@@ -360,10 +362,12 @@
 ### boot
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
 + [SpringBoot 自定义启动画面](https://mp.weixin.qq.com/s/fTopmeWtmHfaA7aH8YYJBw)
++ [Spring Boot项目如何优雅丝滑地从Date过渡到LocalDateTime](https://mp.weixin.qq.com/s/Kl6zGyGJNkNa7jXkVxbJOw)
 + [如何使用 Spring Boot 框架设计建立和保持 100w 的长连接](https://mp.weixin.qq.com/s/9va_IjApI8zgr5T03HJk5Q)
 + [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/NJoG3ahbBVsEMCTUqEIxvw)
 + [总结了8个SpringBoot开发技巧，你都知道吗？](https://mp.weixin.qq.com/s/WqOKo-bTLhnnyUBWyjLtYw)
@@ -755,6 +759,7 @@
 + [完全解析GraalVM-多语言混合开发](https://mp.weixin.qq.com/s/4W9q7bV6eHm98leYet_abg)
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [大数据面试经验分享-java基础篇](https://mp.weixin.qq.com/s/ZLa160ya7AveXekEN_bf4g)
 + [引入 DynamicThreadPoolExecutor 体系，完善线程池扩展功能(一)](https://mp.weixin.qq.com/s/-eHQlmMbyhrK7zd8JHTB7g)
 + [教你用三种方式模拟两个线程抢票](https://mp.weixin.qq.com/s/Qip0CLXyp834_l-AKvKVmQ)
 + [Java 分布式应用简介](https://my.oschina.net/OutOfMemory/blog/109216)

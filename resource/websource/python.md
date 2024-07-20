@@ -3,6 +3,7 @@
 + [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
 + [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
 + [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
++ [[Python Basic] No.3 Class类的用法](https://mp.weixin.qq.com/s/Ttrb0sbK9yfxUyRX_Em3OA)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [Python字符串](https://mp.weixin.qq.com/s/uqUOTPac4oqBuV5EHHy1jQ)
@@ -10,13 +11,16 @@
 + [闭包与装饰器：Python函数的两大法宝，编程不再困难！](https://mp.weixin.qq.com/s/0QUIU7NWwD-qeI2vVSkxeg)
 + [Python的属性管理：深入理解@property装饰器及其getter和setter方法](https://mp.weixin.qq.com/s/TVo_cPE_vGJQZHXZSsShGQ)
 + [python---核心函数 1](https://mp.weixin.qq.com/s/V5zX3tuCX9ccH5pVQqPloQ)
++ [3 控制语句结构（顺序、循环、选择）---GESP教程Python一级](https://mp.weixin.qq.com/s/JHNfZfCiZtNa6OwV4Lp7HQ)
 + [Python101 —— Python解析式、迭代器和生成器](https://mp.weixin.qq.com/s/BVyjssuwYiulyJ8fkYCn1g)
 + [`__new__` 和 `__init__` 在 Python 中有何不同？答案可能出乎你的意料](https://mp.weixin.qq.com/s/pzK1kqq2LupfAxZ6H8YVSA)
 + [自学Python之注释](https://mp.weixin.qq.com/s/WiY7lfGMJn2cGUr-gEKJaw)
++ [python全栈开发《16.什么是对象、字符串的capitalize函数》](https://mp.weixin.qq.com/s/ySLzlr5lLQjE5-y6AVGNLA)
 + [Python 排序之争：sort和sorted，你选对了吗？](https://mp.weixin.qq.com/s/ySHoAatyT7WRTz9W1kDbcw)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 + [5分钟彻底弄懂Python布尔逻辑妙用](https://mp.weixin.qq.com/s/-EEYrDfafK-zX3tvU-zQPA)
 + [每日一模块：dataclass](https://mp.weixin.qq.com/s/6Z-x0Bg3fYM4xlOLmNxdXg)
++ [Python标准库-math](https://mp.weixin.qq.com/s/wY_JeGSB8lBDLZESiiEOBw)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -47,6 +51,7 @@
 + [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
++ [每日一模块：mesop](https://mp.weixin.qq.com/s/BRdlaVrdiLqOYvKYJxXxhA)
 ### Numpy
 + [Numpy 提取对角线或构建对角数组。](https://mp.weixin.qq.com/s/zwzNpmGFeSBVuq_ZY3TZ0g)
 + [如何在Numpy中有效地改变数组长度](https://mp.weixin.qq.com/s/43q5mGSy2R8iMKodVUE5qw)
@@ -54,6 +59,8 @@
 + [297K Star超强!!!3万多个公开可用API接口](https://mp.weixin.qq.com/s/IpmxAsq6ODZGTZn67xSy6g)
 + [7 个让人惊艳不已的 Python 开源项目](https://mp.weixin.qq.com/s/xcg2DPhIw9cZ25NyJEDpgQ)
 + [Nuitka：一个将Python代码编译为原生可执行文件的利器](https://mp.weixin.qq.com/s/MdktrxymOQdk7Y6U0Pbmnw)
++ [Python 科学计算神器：SciPy的五大核心功能揭秘](https://mp.weixin.qq.com/s/mcRh7zirBkFMt99tfm1RJg)
++ [Python 代码执行一目了然：探索Python Tutor工具的强大功能](https://mp.weixin.qq.com/s/su3QtYQbmK8JLQHI53IPLw)
 ## 实践
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
@@ -75,6 +82,7 @@
 + [Python 以下划线开头的函数](https://mp.weixin.qq.com/s/9O2Ryrn4pP_lR_fwTcE5iw)
 + [一行代码搞定一切：Python列表推导式的艺术](https://mp.weixin.qq.com/s/UFI0zFb-4iRxKr9HBCL0Bg)
 + [一网打尽：12个find()函数在Python中的创意实践](https://mp.weixin.qq.com/s/4ORDLwWhmOLk_MjL_DKK6Q)
++ [pytest中编写断言](https://mp.weixin.qq.com/s/IakVJTTUTJ9GND7UTnyVAg)
 + [用 python 可视化 protobuf 内容](https://my.oschina.net/u/2512041/blog/4376981)
 + [Python 中的@符号：如何用装饰器改变你的编程方式？](https://mp.weixin.qq.com/s/NeiPdn1b-iTZnTS__QDjDQ)
 + [Python变量赋值的11个常用方法介绍](https://mp.weixin.qq.com/s/DOWwRUg-Arg1zNn6u3xdEA)
@@ -113,6 +121,8 @@
 + [Python 科学计算生态系统：标准库与第三方库及其学习路线](https://mp.weixin.qq.com/s/JD5yjsapauI5IFLCly7opA)
 + [100天精通Python（进阶篇）——第40天：pymongo操作MongoDB数据库基础+代码实战](https://mp.weixin.qq.com/s/Wl7gv6vd3dffY5_B4WA_bA)
 + [从基础到高级应用，详解用 Python 实现容器化和微服务架构](https://my.oschina.net/u/4526289/blog/11557468)
++ [Python统计基础：生成频数分布表](https://mp.weixin.qq.com/s/OCA0d5fXUr92720FJxsTjg)
++ [Python 制作十款经典童年游戏（附源码）](https://mp.weixin.qq.com/s/8bHRp4MbEdrBUXAEBYRTaw)
 ## 框架
 ### Django
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)

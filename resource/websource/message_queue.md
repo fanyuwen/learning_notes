@@ -45,11 +45,13 @@
 + [Kafka 业务日志采集最佳实践](https://mp.weixin.qq.com/s/ezuMkt9-WEcU7eUZELuqTA)
 + [强烈推荐这位大佬的Kafka系列，看完觉得自愧不如！](https://mp.weixin.qq.com/s/y813yAPs-7vuDfsOp_qpgw)
 + [推动机器学习：遇见Kafka，实时获取训练数据](https://mp.weixin.qq.com/s/2QHin0eXs3OHe-FmQIw8BA)
++ [Kafka 3.7.1 发布说明，小版本必升](https://mp.weixin.qq.com/s/-EIepFYU-3Sb0VAbPF8pVw)
 # ROCKETMQ
 + [RocketMQ中分布式事务源码剖析，面试阿里，带上这个大杀器！](https://mp.weixin.qq.com/s/melxb0gxs2joaxFPvO6aqg)
 + [RocketMQ 是什么？它的架构是怎么样的？和 Kafka 又有什么区别？](https://mp.weixin.qq.com/s/oje7PLWHz_7bKWn8M72LUw)
 + [一览纵山小，原来RocketMQ是这样工作的!](https://mp.weixin.qq.com/s/x-uPt412MhN3NRLZWuLsIA)
 + [分布式事务实现方案：一文详解RocketMQ事务消息](https://mp.weixin.qq.com/s/L3_2423A7EIwShAWeyxdqg)
++ [RocketMQ高性能架构详解(图文全面总结)](https://mp.weixin.qq.com/s/uDg2aKpOZmiaLFPezj3T5w)
 + [RocketMQ最全详解(图文全面总结)](https://mp.weixin.qq.com/s/NBrt6Lkp3bBw3_9bfrK8sA)
 # RABBITMQ
 + [RabbitMQ如何保证消息可靠性？](https://mp.weixin.qq.com/s/PkKcFdAyTlrWZ14pzuUe2A)

@@ -46,6 +46,7 @@
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
++ [微服务常用的中间件有哪些？都有什么用途？](https://mp.weixin.qq.com/s/f8zcfKez5UWztY8eY_I3Aw)
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
 + [微服务架构设计模式详解(4种常见模式)](https://mp.weixin.qq.com/s/yrk_ogdNTJLkWXCBDyN1jQ)
 + [架构之问31：微服务架构8大设计模式与实践](https://mp.weixin.qq.com/s/dhkD0nS3w6YaMIlVodcOcg)
@@ -197,7 +198,7 @@
 + [面试官问如何实现二级缓存怎么进行回答以及延伸出更多知识点呢？](https://mp.weixin.qq.com/s/CLFut5eGxnXJ43J9_4JDTA)
 + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
 + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)
-## 性能
+## 优化
 + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
 + [我把接口从3s优化到了0.3s!](https://mp.weixin.qq.com/s/oeOpJLw9E8QRURbSOEV4Rg)
@@ -210,6 +211,7 @@
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/d2441A6vaDWVUHZim8YQAA)
 + [为什么你的应用启动速度如此之慢？](https://mp.weixin.qq.com/s/Fuq1LbfK5W3spWOKQCaIpQ)
 + [性能优化｜几个方法让图片加载更快一些](https://mp.weixin.qq.com/s/6YUuE8IJ-B9XF9On6LmLKw)
++ [一行代码，我优化掉了1G内存占用](https://mp.weixin.qq.com/s/JvhxaioE9UhDbdlu2ECoiA)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
@@ -298,6 +300,7 @@
 + [得物卓越研发效能之路：原则、方法与实践全景揭秘](https://my.oschina.net/u/5783135/blog/11304496)
 + [IT产品研发全生命周期流程图实例【流程图及详细说明】](https://mp.weixin.qq.com/s/B_Q-W_RH4xtusAXQplMiVQ)
 + [探索BPMN—工作流技术的理论与实践｜得物技术](https://mp.weixin.qq.com/s/HzhoSrJcynd_BgDoWUGHBw)
++ [Code Review：提升代码质量与团队能力的利器](https://mp.weixin.qq.com/s/aazHgFhORxTHayEUyCa-_w)
 ### 版本管理
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)
@@ -316,6 +319,8 @@
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
 ### 问题排查
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
+### 项目管理
++ [我们如何管理软件项目的交付？](https://mp.weixin.qq.com/s/wMXl7DquISIYW0_GJly08w)
 ### 团队管理
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
 ## 数据治理

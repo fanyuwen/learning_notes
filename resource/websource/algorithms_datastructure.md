@@ -15,6 +15,7 @@
 + [40亿个QQ号，限制1G内存，如何去重？](https://mp.weixin.qq.com/s/8rCMWmlLOyzCCrfVoINrGg)
 + [这几道【哈希表】相关的算法题，面试写不出来就惨了！](https://mp.weixin.qq.com/s/ZAQw72Q3rfb3sF6UtrCFzA)
 + [数据结构详解精练：树的存储结构](https://mp.weixin.qq.com/s/Sb0ACnHYS2tfrJkCouMntQ)
++ [动态规划：让算法更高效的秘密武器](https://mp.weixin.qq.com/s/D95Nl3FMihTXYv57puVnjg)
 + [数据结构详解精练：二叉树、树、森林之间的转换](https://mp.weixin.qq.com/s/tBbhLBAI804rowSAkLv-Hg)
 # 密码学
 + [写给开发人员的实用密码学（二）—— 哈希函数](https://thiscute.world/posts/practical-cryptography-basics-2-hash/?comefrom=https://blogread.cn/news/&continueFlag=2082d698470a8cd85657d83b45b7be6e&s_trans=2197476363_&s_channel=4)

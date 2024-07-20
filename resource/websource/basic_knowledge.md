@@ -30,6 +30,7 @@
 + [发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/5FXdyf7MhepKW5O4rqStVA)
 + [SSH免密登陆搞不定，来看这边篇](https://mp.weixin.qq.com/s/8YXczGFa_cL-HzXELtO9DQ)
 + [应急靶场(6)：Linux1](https://mp.weixin.qq.com/s/J13-jJrDDAt0M1zFMIY5-Q)
++ [Linux TTY子系统(二)](https://mp.weixin.qq.com/s/IR6NjaJCprytOwQjTeVrbw)
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
@@ -139,6 +140,8 @@
 + [图解IO多路复用之epoll实现原理](https://mp.weixin.qq.com/s/XnmJFAUzReBtFGs3g9dPFg)
 + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
 + [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
+## 字符编码
++ [ASCII、Unicode、UTF-8、utf8mb4，有啥区别？](https://mp.weixin.qq.com/s/7khFCHebVtPSpsfGse7vCA)
 ## 实践
 + [蚂蚁一面：浮点数在计算机中是如何存储的？](https://mp.weixin.qq.com/s/5S_D3bt-CqXcNUurZVQ9Sw)
 + [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s/jjhO3YQcAAIc7Su49Todjg)

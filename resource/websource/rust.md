@@ -10,6 +10,7 @@
 + [【Rust日报】sans-IO 高性能网络服务实现](https://mp.weixin.qq.com/s/ymCslg2jgx7j_wd0wKIS2g)
 + [Rust必知必会库001: thiserror 和 anyhow](https://mp.weixin.qq.com/s/_8KZCdbKz2CNtppk-sEktA)
 + [不好意思，没达到公司性能目标，决定从 Go 切换到 Rust。](https://mp.weixin.qq.com/s/daVBNO19S_nz6ISBF2PbDQ)
++ [66个让你对Rust又爱又恨的场景之二：不可变引用](https://mp.weixin.qq.com/s/1Hf8CQ9AhnJSBWjQfDSJBw)
 + [用 Rust Reqwest 库打造高性能的网络爬虫](https://mp.weixin.qq.com/s/M-VTCDPu08F2DFK55rGNyw)
 # 框架
 + [开源推荐 | 一个简单且功能强大的 Rust Web 后端框架，仅仅需要基础 Rust 知识即可开发后端服务](https://mp.weixin.qq.com/s/evaU3zHmtZFZX_o2V6s7ZQ)

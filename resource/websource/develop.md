@@ -27,6 +27,7 @@
 + [架构设计三原则](https://mp.weixin.qq.com/s/0ZPHi4qv8f8dCOyNERiUbg)
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [业务高可用的保障：异地多活架构](https://mp.weixin.qq.com/s/p8Og0cS-_M2Xlx4g4EoOfA)
++ [高级进阶：复杂业务系统的通用架构设计](https://mp.weixin.qq.com/s/1MltJxMqihjK9y1BsOnU_g)
 + [多处理器片上系统架构----单核扩展](https://mp.weixin.qq.com/s/WEX51i98Hkxg1IE43erYVg)
 + [探讨打造「高可用架构」秘籍](https://my.oschina.net/u/4090830/blog/11471110)
 + [阅读笔记：高可用HA](https://mp.weixin.qq.com/s/IgWS1xXFp0d81bsUJOH2xw)

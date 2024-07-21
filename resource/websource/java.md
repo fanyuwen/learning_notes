@@ -51,6 +51,7 @@
 + [深入理解JDK动态代理](https://mp.weixin.qq.com/s/gmV9JAj4lxrEJGfk6tWnWQ)
 + [这道面试题连续拦下5个人，公司只好删掉了。](https://mp.weixin.qq.com/s/jFFaSWVyQeMV2yxu6GT_iA)
 + [Java集合工具天天用，但有些原理还是懵逼的](https://mp.weixin.qq.com/s/vwSxHNUUJpUBsLlUU6EkGg)
++ [如何编写 Null-Safety 代码？一文帮你讲透！](https://mp.weixin.qq.com/s/TcqYhz4YQSpS6vlOFT0-PQ)
 + [Java实际开发过程中的那些基础代码...](https://mp.weixin.qq.com/s/KWb4L2WVY42TcUkYwSy8gQ)
 ## 代码质量
 + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
@@ -160,6 +161,7 @@
 ## jvm
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
++ [总结7种JVM出现OOM时的原因及解决方案](https://mp.weixin.qq.com/s/n8ld2TQ1ycDyCrN5mSjrmg)
 + [架构师必知的绝活-JVM调优](https://mp.weixin.qq.com/s/M-GGTDiuC-IhOTeGCKN7Fw)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/ilSpirk92Oq89KOlwQk3tQ)
 + [JVM内存溢出详解(4大常见原因及解决方案)](https://mp.weixin.qq.com/s/GH0-Z96bWpp9ZhxQ9cc1fw)
@@ -736,6 +738,7 @@
 + [Java 代理 - Javassist](https://my.oschina.net/OutOfMemory/blog/309283)
 ## 其它工具
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
++ [阿里这款多级缓存框架一定要掌握，非常不错！](https://mp.weixin.qq.com/s/cdb3U9laMQoSjNG0mjB78g)
 + [全能文件解析神器：探索Apache Tika的无限可能](https://mp.weixin.qq.com/s/CkmOzUtm-srgZhNcJJZUmA)
 + [离开 Java，寻找更佳语言的 10 大理由](https://my.oschina.net/justjavac/blog/66629)
 + [Spock 测试框架实践](https://my.oschina.net/u/2512041/blog/4376976)
@@ -759,6 +762,7 @@
 + [完全解析GraalVM-多语言混合开发](https://mp.weixin.qq.com/s/4W9q7bV6eHm98leYet_abg)
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [是时候丢掉 BeanUtils 了！](https://mp.weixin.qq.com/s/CynKvjNqkT-5iMVi-DymPw)
 + [大数据面试经验分享-java基础篇](https://mp.weixin.qq.com/s/ZLa160ya7AveXekEN_bf4g)
 + [引入 DynamicThreadPoolExecutor 体系，完善线程池扩展功能(一)](https://mp.weixin.qq.com/s/-eHQlmMbyhrK7zd8JHTB7g)
 + [教你用三种方式模拟两个线程抢票](https://mp.weixin.qq.com/s/Qip0CLXyp834_l-AKvKVmQ)

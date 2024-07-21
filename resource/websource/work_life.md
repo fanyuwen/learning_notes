@@ -134,6 +134,7 @@
 # 行业趣闻
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
 + [作为程序员，你见过哪些有趣的注释？](https://mp.weixin.qq.com/s/z5lS3zUFFXE0uhPzKkH9hA)
++ [知乎热议：CTO要求把所有逻辑放到数据库合理吗？](https://mp.weixin.qq.com/s/IY4RRbB8jJvmVYXGKYcgYQ)
 + [键值数据库Redis更改开源协议遭反噬，面临替代风险与商业机遇流失](https://mp.weixin.qq.com/s/rrZoLmfD941AStZRl1eOFQ)
 + [阿里云又挂了，这次是光缆被挖断了？](https://mp.weixin.qq.com/s/cb2Lh56uINxacM2uUaB6Vw)
 + [规则，让一切更简单：LiteFlow正式加入GitCode平台](https://mp.weixin.qq.com/s/JIQZTu5xJC5r_7_bAnKJOw)
@@ -147,6 +148,7 @@
 + [华为仓颉编程语言正式发布，号称新一代编程语言，Java、Python 瑟瑟发抖。。。](https://mp.weixin.qq.com/s/O-PSyKRPE-31Y8Zmc7Dh-A)
 + [我让代码，学会了自动评审！提高80%的交付质量！](https://mp.weixin.qq.com/s/XeBycsfgSuAMJDw0JC1c7Q)
 + [【鸡零狗碎】CSDN是如何变成行业“毒瘤”的？](https://mp.weixin.qq.com/s/5D5D6G6gzXIVMAhUhkGp_g)
++ [这个世界著名的盗版网站，创始人刚被下了国际通缉令](https://mp.weixin.qq.com/s/x6WfzXO4oCFrlRs9UUWaLA)
 + [开源日报 | 小语言模型才是AI未来；Mbed即将EOL；揭秘DeepSeek；谷歌默认不索引新内容；“抱抱脸”宣布实现盈利](https://mp.weixin.qq.com/s/5uqU3tFi8EHabVH5HJyjBg)
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)

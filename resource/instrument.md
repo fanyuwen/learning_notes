@@ -130,6 +130,7 @@
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
 + python包管理器 [anaconda](https://www.anaconda.com) [pip](https://pypi.org)
++ python包发布工具 [flit](https://flit.pypa.io/)
 + python环境管理 [virtualenv](https://virtualenv.pypa.io/)
 + C扩展 [cython](https://cython.org/)
 + orm框架 [sqlalchemy](https://www.sqlalchemy.org/) [peewee](https://docs.peewee-orm.com/) [ponyorm](https://docs.ponyorm.org/)

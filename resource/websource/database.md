@@ -12,6 +12,7 @@
 + [磐维数据库gs_probackup备份失败-归档问题](https://mp.weixin.qq.com/s/QLzu8BZIpHmfuk8nvAR_fQ)
 + [图灵奖得主 Stonebraker 带你回顾数据库技术二十年的周期性演进](https://www.oschina.net/news/302322)
 + [SonarQube7.9.2数据库解析和部分sql讲解](https://mp.weixin.qq.com/s/VQy7lel3h8V9ryfuKT_TMg)
++ [十大流行的开源数据库](https://mp.weixin.qq.com/s/7nSZGlMo2NDwwm8WZm38Kw)
 # SQL
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
@@ -200,6 +201,7 @@
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
++ [告别慢如蜗牛的搜索，MySQL全文索引来帮你！](https://mp.weixin.qq.com/s/vcfGx5aKugJ7T8vogtD4lA)
 + [为什么你的索引会失效？](https://mp.weixin.qq.com/s/b4CDWYkpBWb280MwUAEeKg)
 + [面试官：这个SQL会用到索引吗？Explain返回列的含义能解释下吗？还有哪些索引失效的场景？](https://mp.weixin.qq.com/s/KNtM8gbTLbpwxpysDa_wVg)
 + [一篇文章聊透索引失效有哪些情况及如何解决](https://mp.weixin.qq.com/s/wz5BJEKrnhH2W0PBGl0Utw)
@@ -231,12 +233,14 @@
 + [PG|update不规范会怎样](https://mp.weixin.qq.com/s/kuYCGqpIOIsrlURkA1z7Tg)
 + [几道小题：几个易出错的PostgreSQL小用法(一)](https://mp.weixin.qq.com/s/sxwD1zU0hQMeU6ogSrmWGA)
 + [冷门的PostgreSQL性能优化来了：利用事务链减少与SERVER端的往返开销](https://mp.weixin.qq.com/s/MTlnfo7rshXlmtVi_KNZbQ)
++ [再来PostgreSQL几道小题(二), 加深理解](https://mp.weixin.qq.com/s/aD7Fs_ix4Td4QDvnzoinQA)
 ### SQLSERVER
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
 ### DuckDB
 + [DuckDB 如何访问非UTF-8的CSV？](https://mp.weixin.qq.com/s/8HFB_ss4p2DUSJXb4bp9Lw)
 ## NOSQL
 + [NoSQL数据库使用场景以及架构介绍](https://mp.weixin.qq.com/s/QJHUIsRcXYN-mvF6ineDPA)
++ [LSM树揭秘：NoSQL存储系统的核心](https://mp.weixin.qq.com/s/3kI792_a-sDIWJxS9J1Awg)
 ### REDIS
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
@@ -362,6 +366,7 @@
 [分析时序数据：如何从 InfluxQL 迁移到 SQL](https://mp.weixin.qq.com/s/KEscIB7MfRoowMwaHI_oeg)
 ## 分布式数据库
 + [分布式数据库技术的演进和发展方向](https://my.oschina.net/u/4526289/blog/11049010)
++ [为什么选择分布式数据库？有啥好处](https://mp.weixin.qq.com/s/x9wq9DuWyUvLXrfrFytr2Q)
 ## 分布式对象存储
 ### minio
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)

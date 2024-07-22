@@ -153,6 +153,7 @@
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [两位巨佬吃了一顿晚饭，整个互联网彻底被改变了！](https://mp.weixin.qq.com/s/wsDGJTRLjdG8WfdDDlDV8w)
++ [63.5岁程序员退休；用Nim编写的业余OS;,提及热情消退;谷歌Gemini AI扫描用户文件;Rust在Linux文件系统](https://mp.weixin.qq.com/s/b6S8qmdj8oE7ZbA3a_adgQ)
 + [为什么Python之父至今还是一个程序员，不做Leader不做管理](https://mp.weixin.qq.com/s/Gq7_kNuTO8BQcNOE23dTGA)
 + [一图了解常见开源协议](https://mp.weixin.qq.com/s/vSSuLQIkp11mOGY8iYkwDw)
 + [域名过期会怎么样?推荐域名过期实用小技巧](https://mp.weixin.qq.com/s/zS8WxNYE6pjYoyanABQAjg)
@@ -180,6 +181,7 @@
 + [程序员的归宿](https://www.oschina.net/news/291330)
 + [面试过程中哪些回答让人感觉是个水货？｜很多问题也很奇葩！！！](https://mp.weixin.qq.com/s/yHOnNotZ16Npz6qeYUvhpQ)
 + [你见过最烂的代码长什么样子？挺好，防止忘记密码，大隐隐于市](https://mp.weixin.qq.com/s/z6WPoZiN88tkHYgkMmmqGQ)
++ [同事写出烂代码。。。](https://mp.weixin.qq.com/s/KQH6sIiJoJfJafmQFJm95w)
 + [打开电脑端微信文件夹，众人都沉默了...](https://mp.weixin.qq.com/s/hJc8-ht0_nLt1VO0hjMNpw)
 + [《上海市卫生健康“信息技术应用创新”白皮书》将C#/.NET认定为“A组件”——需要替换](https://mp.weixin.qq.com/s/j1UTr5LGeucwI7KdserGaQ)
 + [30岁，才是人生的开始](https://mp.weixin.qq.com/s/eiCOYmS8ll49v9teLHyPMw)

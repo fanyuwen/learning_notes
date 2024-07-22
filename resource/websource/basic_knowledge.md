@@ -11,6 +11,7 @@
 ## linux
 ### 实践
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
++ [Linux 高端宝典：成为系统大师的秘籍](https://mp.weixin.qq.com/s/h9gw-a2wfPDGcvs1RQ-sow)
 + [Linux会话保持命令Screen教程](https://mp.weixin.qq.com/s/sZoQbrI7iiGWA0IoLkiOWg)
 + [Linux高性能编程_无锁队列](https://mp.weixin.qq.com/s/4tnAYIry-kwS0PvDTxN-qQ)
 + [手动释放Linux操作系统的buff/cache内存缓存](https://mp.weixin.qq.com/s/6RQzFV8otUA4HUMDgNzu3w)
@@ -123,7 +124,10 @@
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
 + [Nginx负载均衡最全详解(4大算法原理机制)](https://mp.weixin.qq.com/s/Upf_UNY-D_dj2u0kroD8IQ)
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)
++ [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
 + [3 万字 25 道 Nginx经典面试题总结](https://mp.weixin.qq.com/s/kt4qmmD6biRWnBIdj-JTiA)
+### wireshark
++ [使用wireshark第一次捕获数据包](https://mp.weixin.qq.com/s/6wPSoYFI0vfgwUBL6QwG5w)
 ## web
 + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
 + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)

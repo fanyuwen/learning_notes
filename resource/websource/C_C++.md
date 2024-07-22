@@ -18,6 +18,7 @@
 + [C++ proto 数据类型](https://mp.weixin.qq.com/s/7jvgBUYaoAMEDzRR3eDrAA)
 + [技巧 | C++中实现类似instanceof的方法](https://mp.weixin.qq.com/s/lvQEx0GdGFZNV9YF942x3g)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
++ [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
 ### 学习资源
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
 ### CUDA

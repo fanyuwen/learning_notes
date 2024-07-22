@@ -165,9 +165,11 @@
 ## jvm
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
++ [JVM工具实战：线上问题排查与性能分析](https://mp.weixin.qq.com/s/OUSmWxq_NQsqEWJLCYxvxg)
 + [总结7种JVM出现OOM时的原因及解决方案](https://mp.weixin.qq.com/s/n8ld2TQ1ycDyCrN5mSjrmg)
 + [架构师必知的绝活-JVM调优](https://mp.weixin.qq.com/s/M-GGTDiuC-IhOTeGCKN7Fw)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/ilSpirk92Oq89KOlwQk3tQ)
++ [JVM监控工具最全详解(4款主流监控工具)](https://mp.weixin.qq.com/s/x0Qfz9lXK1PTsQFIiGP_dg)
 + [JVM内存溢出详解(4大常见原因及解决方案)](https://mp.weixin.qq.com/s/GH0-Z96bWpp9ZhxQ9cc1fw)
 + [Java 字节码入门](https://my.oschina.net/xiandafu/blog/677685)
 + [JVM类加载机制详解(5大加载步骤图解)](https://mp.weixin.qq.com/s/qoDICn_nA56UrF2MihlFSg)
@@ -224,6 +226,7 @@
 # 包管理工具
 ## maven
 + [Maven Assembly 构建发布包](https://my.oschina.net/OutOfMemory/blog/685456)
++ [史上最全 Maven 教程，建议收藏！！](https://mp.weixin.qq.com/s/gx6apzIPb8k-B-aAENvlOQ)
 # 第三方库
 ## spring
 + [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
@@ -309,6 +312,7 @@
 + [用Spring Security快速实现 RABC模型案例](https://mp.weixin.qq.com/s/oOX_PEX5rtanUJd43JaJ2Q)
 + [Spring Security 常见过滤器梳理](https://mp.weixin.qq.com/s/N-IkummVW468RaCFe9QPuQ)
 + [两万字详解，带你彻底搞懂 Spring Security 6.0 的实现原理](https://mp.weixin.qq.com/s/4r157LKpvUlAeIMM5GYFcg)
++ [看完这篇文章 ，就可以说精通Spring Security了](https://mp.weixin.qq.com/s/THqDhTTEOoWVyZC5lrAisg)
 + [2w+字，带你彻底搞懂 Spring Security 6.0 的实现原理](https://mp.weixin.qq.com/s/VWY1d5wzMCW5c056Z3abOw)
 + [身份验证&授权，Spring Security是如何实现的？](https://mp.weixin.qq.com/s/wXJRPyqbdLhk4bZJYi_Jtw)
 ### data
@@ -353,6 +357,7 @@
 + [Spring AI，Java开发者上手大模型最佳实践，手把手教你用起来](https://mp.weixin.qq.com/s/DMVeW63NnALEnaxYeZjuoQ)
 ### cloud
 + [基于Spring Cloud Gateway，实现路由和负载均衡](https://mp.weixin.qq.com/s/SZngVSwQbZDojfu1NdhgMw)
++ [Spring Cloud Gateway网关详解(作用功能及原理流程)](https://mp.weixin.qq.com/s/6HcS-x7bvatr4EzCCfgw9w)
 + [Spring Cloud Gateway之路由转发](https://mp.weixin.qq.com/s/C6soFzPg6VII_DODWu2tpA)
 + [关于Spring Cloud Zuul 那些“不能说的秘密”！](https://mp.weixin.qq.com/s/FG4Vik6cHhIFatxkiL8sjQ)
 + [3W字吃透：SpringCloud gateway底层原理和实操](https://mp.weixin.qq.com/s/Mtdv4-jJDhL_zYgrJpABpA)
@@ -371,9 +376,16 @@
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
 + [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
++ [Spring Boot 自定义注解详解](https://mp.weixin.qq.com/s/t3ykX6p4u2RMxYbfFJTahg)
++ [介绍几种Spring Boot打印SQL明细包括语句和参数方式](https://mp.weixin.qq.com/s/BWvw7sE7EOcUZMZTM4mvQQ)
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
 + [SpringBoot 自定义启动画面](https://mp.weixin.qq.com/s/fTopmeWtmHfaA7aH8YYJBw)
++ [手写Spring Boot启动器：实现布隆过滤器](https://mp.weixin.qq.com/s/nbR9D5F0tjZfNxYWjU1mdA)
++ [SpringBoot3 必须掌握的 JVM 优化技巧](https://mp.weixin.qq.com/s/enr8O4nH-1Wf2B9aVifnWA)
++ [Spring Boot集成xjar快速入门Demo](https://mp.weixin.qq.com/s/qW-xMJWwMz7HJkpGyLwdoA)
++ [10个SpringBoot开发技能，每个都很实用（一）](https://mp.weixin.qq.com/s/7l5J6nngBtMizJOnFdiIjw)
++ [使用 Spring Boot 集成 Nacos 的最佳实践](https://mp.weixin.qq.com/s/dJOl3-uVUyWljXYIyexbvg)
 + [Spring Boot项目如何优雅丝滑地从Date过渡到LocalDateTime](https://mp.weixin.qq.com/s/Kl6zGyGJNkNa7jXkVxbJOw)
 + [如何使用 Spring Boot 框架设计建立和保持 100w 的长连接](https://mp.weixin.qq.com/s/9va_IjApI8zgr5T03HJk5Q)
 + [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/NJoG3ahbBVsEMCTUqEIxvw)
@@ -499,6 +511,7 @@
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
 + [SpringBoot实战：轻松实现接口数据脱敏](https://mp.weixin.qq.com/s/fydN-Mf6Eec82DEoh8teyA)
++ [CORS 的实现原理及 SpringBoot 实战](https://mp.weixin.qq.com/s/QmiuvHbGkVZJP6gvA7HKQA)
 + [优雅！SpringBoot统一返回结果就该这样处理](https://mp.weixin.qq.com/s/tRhdzMKqJ2jvmX-x5ZTsVA)
 + [【SpringBoot Web框架实战教程】10 SpringBoot 拦截器](https://mp.weixin.qq.com/s/CIntbbNm5oqMzoRgt6uPYw)
 + [SpringBoot 参数校验，高级特性，非常实用！](https://mp.weixin.qq.com/s/5kQRGO6ZtlJIm3BcxUEDzg)
@@ -729,6 +742,8 @@
 + [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
 + [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
 + [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
+## MapStruct
++ [MapStruct 使用教程, 万字详解](https://mp.weixin.qq.com/s/UXUDIWiBiLyrb887evQcaQ)
 ## nacos
 + [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
 + [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)

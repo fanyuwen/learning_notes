@@ -39,6 +39,7 @@
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
 + [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
 + [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)
++ [DDD架构最全详解(万字图文总结)](https://mp.weixin.qq.com/s/zcJSjBjvIpeYrUkJNRw6fg)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 + [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
 + [领域驱动设计之银行转账：Wow 框架实战](https://my.oschina.net/AhooWang/blog/11537379)
@@ -166,6 +167,7 @@
 + [幂等性：构建稳健分布式系统的关键](https://mp.weixin.qq.com/s/NwqnwdfbojrKqGfUFBizPg)
 + [系统设计中的幂等性原则：深度解析、简便实现与防重复提交策略](https://mp.weixin.qq.com/s/7KGLJh1ARFKUcGxW3vgzdQ)
 + [美团面试：10wqps高并发，如何防止重复下单？](https://mp.weixin.qq.com/s/7-F_t4TDbGlFbL7AmQuP6g)
++ [聊聊大厂都怎么防止重复下单？](https://mp.weixin.qq.com/s/I0aM66kKDOwv0BGiACAgyg)
 + [防止接口被刷的8种方式](https://mp.weixin.qq.com/s/P4_1EmEhNKReqpGW4gU6qg)
 + [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/MEj9XwhjKUazFBsaQZhIlQ)
 + [高并发下如何轻松的保证接口幂等性](https://mp.weixin.qq.com/s/Yege3CDhDrYN5x9ydcnGcw)
@@ -208,6 +210,7 @@
 + [请求合并的3种技巧，性能起飞！](https://mp.weixin.qq.com/s/hYqZIi436nIinRwj_rxjog)
 + [该从哪些方面提升系统的吞吐量？](https://mp.weixin.qq.com/s/NMEUOhajKtqrASkn8Iwung)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
++ [9大高性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/at2cNTxgGpUVXdfPvSMhRA)
 + [30s到0.8s，记录一次接口优化成功案例！](https://mp.weixin.qq.com/s/-no6b1kFc6PK0XJIKLeMUA)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/d2441A6vaDWVUHZim8YQAA)
 + [为什么你的应用启动速度如此之慢？](https://mp.weixin.qq.com/s/Fuq1LbfK5W3spWOKQCaIpQ)
@@ -274,12 +277,14 @@
 + [一致性是指什么？](https://mp.weixin.qq.com/s/xYPaQ3riYMqIGXOywEDGHQ)
 ## 业务领域
 + [传统模式OUT！新零售思维好在哪？](https://mp.weixin.qq.com/s/mg1lvDj9Uig8Ue4nUowhDQ)
++ [订单管理系统需求规范](https://mp.weixin.qq.com/s/zAaEu6sRJMUJViCLTH-YbA)
 ## 代码相关
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
 ## 接口相关
 + [这才是后端API接口应该有的样子，巴适！！](https://mp.weixin.qq.com/s/18AW7hUK2K_LAKVKx8IqOA)
++ [API设计秘籍：从入门到精通](https://mp.weixin.qq.com/s/wSEWRBrtO92WG-37Q-P9gg)
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
@@ -322,6 +327,7 @@
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 ### 项目管理
 + [我们如何管理软件项目的交付？](https://mp.weixin.qq.com/s/wMXl7DquISIYW0_GJly08w)
++ [十年项目管理经验分享：从菜鸟到成熟](https://mp.weixin.qq.com/s/hHKl5E5ycghdFoK5AemSNQ)
 ### 团队管理
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
 ## 数据治理

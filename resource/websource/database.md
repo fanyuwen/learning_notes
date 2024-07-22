@@ -65,6 +65,7 @@
 + [高并发下千万数据量的Mysql中热点数据如何持续保留在Redis中](https://mp.weixin.qq.com/s/fJ7UJJ-6D5ylDjw7preCwA)
 ### 读写分离&分库分表
 + [读写分离最全详解(图文全面总结)](https://mp.weixin.qq.com/s/FVOi-eR2T3UHV89l7t7G5w)
++ [如何设计日增几十万数据量的业务分库分表方案](https://mp.weixin.qq.com/s/KD88wHtmDiOwDpOGWFx3MQ)
 ## 原理解析
 + [超级底层：10WQPS/PB级海量存储HBase/RocksDB，底层LSM结构是什么？](https://mp.weixin.qq.com/s/YFrc8J0qmc_ppl9T9-921w)
 + [数据库并发控制：脏读、幻读与不可重复读的全面剖析](https://mp.weixin.qq.com/s/JoDxomYqumUbMJrv8oPhWg)
@@ -86,6 +87,7 @@
 + [(十八)MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://mp.weixin.qq.com/s/m24AB--7Iaev4Ab089RisA)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [MYSQL数据库备份](https://mp.weixin.qq.com/s/n5ATPq7-jIHnKOX3h6DUYA)
++ [(二十五)MySQL主从实践篇：超详细版读写分离、双主热备架构搭建教学](https://mp.weixin.qq.com/s/Rnyhk6k0bsp3AIfmDsGpJw)
 + [mysql 快速定位cpu 占比过高的sql语句](https://mp.weixin.qq.com/s/7w8T6fzdcsFQwZzI-W-SXQ)
 + [MySQL保姆级教程（基础篇）从小白到高手的进阶指南](https://mp.weixin.qq.com/s/ooVUoHRgMphOcumRWA7FMw)
 + [探索MySQL的高效数据同步：并行复制原理](https://mp.weixin.qq.com/s/VjefHUEwfjGpXzdDG7OubQ)
@@ -105,6 +107,7 @@
 + [【收藏】MySQL 超全优化清单（可执行系列）](https://mp.weixin.qq.com/s/iFYBp6XVjjU0D4Z2TV-xSQ)
 + [(十五)MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://mp.weixin.qq.com/s/jxbpxOAJdKKHKO7tt-A8FQ)
 + [MySQL 5.7 升级 8.0 后，排序规则问题解决方案汇总](https://my.oschina.net/actiontechoss/blog/11224386)
++ [提升性能与一致性：MySQL 5.7中的组提交与两阶段提交机制解析](https://mp.weixin.qq.com/s/f9kyEHy9_RRpijWhVSLTTA)
 + [Linux 下如何实现 MySQL 数据库每天自动备份定时备份？](https://mp.weixin.qq.com/s/W_cvVkzZlFJQm6J8XKDa7g)
 + [(十二)MySQL之内存篇：深入探寻数据库内存与Buffer Pool的奥妙！](https://mp.weixin.qq.com/s/NB3muX2V8-Y350NEmEFoUQ)
 + [MySQL调优实战-SQL优化](https://mp.weixin.qq.com/s/1TAMxoQua1qcCggEa9Ytxg)
@@ -231,6 +234,7 @@
 + [手把手教你管理PostgreSQL数据库及其对象](https://mp.weixin.qq.com/s/E2m2QlHmnQKf8KB_1QH-aQ)
 + [PostgreSQL索引维护看完这篇就够了](https://mp.weixin.qq.com/s/fR1IfqTvP50zO-zkcz7LNA)
 + [PG|update不规范会怎样](https://mp.weixin.qq.com/s/kuYCGqpIOIsrlURkA1z7Tg)
++ [再来PostgreSQL几道小题(二), 加深理解](https://mp.weixin.qq.com/s/aD7Fs_ix4Td4QDvnzoinQA)
 + [几道小题：几个易出错的PostgreSQL小用法(一)](https://mp.weixin.qq.com/s/sxwD1zU0hQMeU6ogSrmWGA)
 + [冷门的PostgreSQL性能优化来了：利用事务链减少与SERVER端的往返开销](https://mp.weixin.qq.com/s/MTlnfo7rshXlmtVi_KNZbQ)
 + [再来PostgreSQL几道小题(二), 加深理解](https://mp.weixin.qq.com/s/aD7Fs_ix4Td4QDvnzoinQA)
@@ -359,6 +363,7 @@
 ### APACHE DORIS
 + [【Apache Doris】数据副本问题排查指南](https://mp.weixin.qq.com/s/KzK0Gx1m8Z-1qZbyY1ZtlQ)
 + [计算效率提升 30 倍、存储资源节省 90%，雨润集团基于 Apache Doris 的统一实时数据仓库建设实践](https://mp.weixin.qq.com/s/UUUaDHjIShO540RNXpzUjw)
++ [基于 Apache Doris 的实时/离线一体化架构，赋能中国联通 5G 全连接工厂解决方案](https://mp.weixin.qq.com/s/mk0mrjfrvtNZv35hpJDdJA)
 ### CLICKHOUSE
 + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
 + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://mp.weixin.qq.com/s/bctAe-eK5EhwTnJlr0xrQQ)

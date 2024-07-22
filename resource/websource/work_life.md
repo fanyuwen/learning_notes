@@ -17,6 +17,7 @@
 + [代码是上午写的，人是下午被开除的！](https://mp.weixin.qq.com/s/SBqL31-RAwzEoxJrMHjrLA)
 + [中年危机自救行动指南](https://mp.weixin.qq.com/s/0OXPfYrlooZO13hZMZBU2Q)
 + [35岁危机的本质，是你没有成为时间的朋友](https://mp.weixin.qq.com/s/TXwLZvQHSpfoRvMvVGJEWw)
++ [这招聘环境，35岁的绷不住了。。。](https://mp.weixin.qq.com/s/RseROa-NSDgNMjqO5vIh0g)
 + [大龄程序员的出路在哪里](https://mp.weixin.qq.com/s/mlK8PmNHhBLOZBToHIsQbA)
 + [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
 + [架构师应该在团队中发挥怎样的作用？](https://mp.weixin.qq.com/s/edWEYL8Zma_qTWQ8HDEsbQ)

@@ -21,6 +21,7 @@
 + [linux一条命令配置应用自启动或延迟启动](https://mp.weixin.qq.com/s/dyzIFI6jkRQiJwP87Kl-lQ)
 + [Linux下的软件部署方式看看你用过几种？](https://mp.weixin.qq.com/s/lcdYkm9m5xA8y7mjNh5Bjw)
 + [Linux Shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/OPK8BYNJSOAYPPxGMOn2wQ)
++ [Linux高性能编程_协程](https://mp.weixin.qq.com/s/KFbd1fw22UFS9LGnUuI4cw)
 + [Bash 入门教程](https://my.oschina.net/OutOfMemory/blog/296588)
 + [Linux 中文件的隐藏属性与特殊权限](https://sxyz.blog/linux-chattr/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [ELF 文件、镜像（Image）文件、可执行文件、对象文件详解](https://mp.weixin.qq.com/s/bLnaDOA0yindJQWUiRzSgw)
@@ -93,6 +94,7 @@
 + [localhost vs 127.0.0.1：揭开本地网络的双面神话，你真的了解它们的区别吗？](https://mp.weixin.qq.com/s/CcPMyfDTBO0mEV0Zqk7qRw)
 ### HTTP/HTTPS
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
++ [从零开始掌握HTTP协议：全面详解1.0、1.1和2.0](https://mp.weixin.qq.com/s/-Dp08X3qe0AaAQQtwBZ_WA)
 + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
 + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
@@ -116,6 +118,8 @@
 + [如何应对TCP半连接队列和TCP全连接队列满的情况？——拆解大厂面试题](https://mp.weixin.qq.com/s/jbCGBWogzGqUlCXdsYrakw)
 + [TCP/IP协议](https://mp.weixin.qq.com/s/L6CuozAC4jClHEra6PZuuw)
 + [为什么TCP需要三次握手？一文讲透！](https://mp.weixin.qq.com/s/YIK7N6plIaGdag9LSO3Irg)
+### UDP
++ [UDP报文结构详解：一篇文章带你搞懂](https://mp.weixin.qq.com/s/YxbnmQcovKCjziPEIlOBaQ)
 ### nginx
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)

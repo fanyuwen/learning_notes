@@ -75,6 +75,7 @@
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [每天都在用的20个Python技巧，让你从此告别平庸！](https://mp.weixin.qq.com/s/OavXESfK9xxY3R0tPM1MGA)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [Python中20个不为人知的高级特性](https://mp.weixin.qq.com/s/4tsZUH0yZrzR8JrgHGSpUQ)
 + [提升代码效率的关键:这5个多线程技巧让你的 Python 代码如虎添翼](https://mp.weixin.qq.com/s/pxXE-ImnRb5qjXAmE-isdQ)
 + [python自动化系列：自动合并目录下的所有PDF文件](https://mp.weixin.qq.com/s/Zfnu1YdQEswo9hYDJA6jxQ)
 + [Python异步编程：asyncio模块的探索](https://mp.weixin.qq.com/s/Nyf9BBqHzku6RThWJZ3cSw)

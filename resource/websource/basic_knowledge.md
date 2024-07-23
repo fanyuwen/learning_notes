@@ -64,6 +64,8 @@
 + [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
 + [NUMA架构：CPU和内存性能瓶颈的终结者！](https://mp.weixin.qq.com/s/awMSx3XMM6HbUlidC-UUCQ)
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
+### 并发
++ [基本功 | 一文讲清多线程和多线程同步](https://my.oschina.net/meituantech/blog/11585606)
 ## 内存
 + [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
 + [探索x86-64架构：内存分页机制的奥秘](https://mp.weixin.qq.com/s/D7DjObzAZjLJLd9GSvrmEg)

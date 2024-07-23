@@ -87,6 +87,7 @@
 # 底层
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [深入探讨Java的分层编译](https://mp.weixin.qq.com/s/ZNNyRrjjLlaeepuUByqaGQ)
 + [深入理解 System.gc()](https://mp.weixin.qq.com/s/W2nPL638fAKc5aGcWxDr6w)
 + [从字节码看 finally 的本质，你能说出这些代码运行结果吗？](https://mp.weixin.qq.com/s/hwVyJ2d6ePIgSp2h-WDT5Q)

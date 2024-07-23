@@ -127,6 +127,9 @@
 + 程序员技能检测和提高 [hackerrank](https://www.hackerrank.com/)
 + 软件开发环境管理 [conda](https://docs.conda.io/)
 
+### Go_LIBRARY
++ 跨平台GUI库 [fyne](https://fyne.io/)
+
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
 + python包管理器 [anaconda](https://www.anaconda.com) [pip](https://pypi.org)

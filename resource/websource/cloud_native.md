@@ -41,6 +41,7 @@
 + [一篇文章精通K8S的统一访问入口-Service](https://mp.weixin.qq.com/s/wdsaWdAed0U9YbRqdWVP8g)
 + [Kubernetes（k8s）高可用性入门：初学者指南](https://mp.weixin.qq.com/s/-e8myFCSrossqYpFoAREdA)
 + [从Helm到 Operator：Kubernetes应用管理的进化](https://mp.weixin.qq.com/s/uPLCS1-juyr5Vk-TESYDsQ)
++ [k8s operator开发305：kubebuilder实现一个deployment之版本控制](https://mp.weixin.qq.com/s/XrheaxagqxCiM9FZOvzDug)
 + [一文进阶Kubernetes企业实战经验](https://mp.weixin.qq.com/s/A7edhHgyF2S7o3xYpPby5A)
 + [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)

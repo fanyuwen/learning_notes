@@ -94,6 +94,7 @@
 + [localhost和127.0.0.1的区别](https://mp.weixin.qq.com/s/zhErSZZFB1Eb2u3Lqf5d9w)
 + [你了解 localhost 与 127.0.0.1 的区别吗？](https://mp.weixin.qq.com/s/FPICgJri9AndnpaogskcCg)
 + [localhost vs 127.0.0.1：揭开本地网络的双面神话，你真的了解它们的区别吗？](https://mp.weixin.qq.com/s/CcPMyfDTBO0mEV0Zqk7qRw)
++ [网络基础知识：深入理解VPN技术](https://mp.weixin.qq.com/s/-KaEL0ADg2hxrZHhOAeDSQ)
 ### HTTP/HTTPS
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 + [从零开始掌握HTTP协议：全面详解1.0、1.1和2.0](https://mp.weixin.qq.com/s/-Dp08X3qe0AaAQQtwBZ_WA)

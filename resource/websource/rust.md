@@ -13,6 +13,7 @@
 + [66个让你对Rust又爱又恨的场景之二：不可变引用](https://mp.weixin.qq.com/s/1Hf8CQ9AhnJSBWjQfDSJBw)
 + [用 Rust Reqwest 库打造高性能的网络爬虫](https://mp.weixin.qq.com/s/M-VTCDPu08F2DFK55rGNyw)
 + [4个强大的rust库](https://mp.weixin.qq.com/s/Cs-6w7O387kJrBSItuWmig)
++ [一个强大的rust库Tokio](https://mp.weixin.qq.com/s/JT-BtkhOLjgEa0w3JKzL-w)
 # 框架
 + [开源推荐 | 一个简单且功能强大的 Rust Web 后端框架，仅仅需要基础 Rust 知识即可开发后端服务](https://mp.weixin.qq.com/s/evaU3zHmtZFZX_o2V6s7ZQ)
 + [Candle：Rust 语言的极简机器学习框架](https://mp.weixin.qq.com/s/XfeiWaKXyJx2kBV5dz8SOg)

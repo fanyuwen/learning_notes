@@ -20,6 +20,7 @@
 + [高可用存储架构：集群和分区](https://mp.weixin.qq.com/s/FzKbs770_LGM83u2V6nRfA)
 + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
 + [软件架构技术2：架构思维，实现从程序员到CTO](https://mp.weixin.qq.com/s/bF6eTEOhTjOx3GdRYD3v1w)
++ [一文搞懂业务架构、应用架构、技术架构、数据架构](https://mp.weixin.qq.com/s/bHgSn9oFuoUKTa8jnTXdAQ)
 + [阿里2面：万亿级消息，如何做存储设计？](https://mp.weixin.qq.com/s/uy5GIiUeMUzoFhPyS7EBLA)
 + [秒杀圣经(2): 16大绝招，完成10Wqps秒杀架构（3万字架构长文）](https://mp.weixin.qq.com/s/CVwppNImK6roZ2UmmJh6bg)
 + [大厂聚合支付系统架构演进（下）](https://mp.weixin.qq.com/s/6EiRP-7bGfCaK8xhpLzeUA)
@@ -48,6 +49,7 @@
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
++ [一张图搞懂微服务架构设计](https://mp.weixin.qq.com/s/4upNjgrzzAOhktjiZejoJg)
 + [微服务常用的中间件有哪些？都有什么用途？](https://mp.weixin.qq.com/s/f8zcfKez5UWztY8eY_I3Aw)
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
 + [微服务架构设计模式详解(4种常见模式)](https://mp.weixin.qq.com/s/yrk_ogdNTJLkWXCBDyN1jQ)
@@ -74,6 +76,7 @@
 + [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/zbEJdmkWdQC8WeVw-AAKbA)
 + [分布式方案最全详解(图文全面总结)](https://mp.weixin.qq.com/s/QTDRVFAPxWhHDbXsM1llRw)
 + [40张图带你看懂分布式追踪系统原理及实践](https://mp.weixin.qq.com/s/GpiiLaaygPU1oPIk2YGQRg)
++ [分布式RPC最全详解(图文全面总结)](https://mp.weixin.qq.com/s/PTdcNXfv9x6QvnSpj-eCoA)
 + [分布式链路追踪系统设计](https://mp.weixin.qq.com/s/VYDnOirzrw_kMIVz0AFy7w)
 + [分布式链路追踪最全详解(图文全面总结)](https://mp.weixin.qq.com/s/YsYIZ3bEEd4h67NgBr0VFQ)
 + [分布式链路追踪，一文帮你掌握它！](https://mp.weixin.qq.com/s/90TPpwXEKmMHIosh4Z-Qkw)
@@ -327,6 +330,8 @@
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 ### 项目管理
 + [我们如何管理软件项目的交付？](https://mp.weixin.qq.com/s/wMXl7DquISIYW0_GJly08w)
++ [设计系统文档化报告 | 设计系统团队](https://mp.weixin.qq.com/s/JLarz50CQzAUkkKQErVXwQ)
++ [如何展示设计系统的成功 | 创建策略](https://mp.weixin.qq.com/s/zM1jwo4WwgNacNQFKU51oQ)
 + [十年项目管理经验分享：从菜鸟到成熟](https://mp.weixin.qq.com/s/hHKl5E5ycghdFoK5AemSNQ)
 ### 团队管理
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)

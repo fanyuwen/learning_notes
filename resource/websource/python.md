@@ -62,6 +62,7 @@
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 + [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
++ [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
 + [每日一模块：mesop](https://mp.weixin.qq.com/s/BRdlaVrdiLqOYvKYJxXxhA)
 ### Numpy
@@ -78,7 +79,9 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [每天都在用的20个Python技巧，让你从此告别平庸！](https://mp.weixin.qq.com/s/OavXESfK9xxY3R0tPM1MGA)
++ [Python标准库-CSV 文件操作](https://mp.weixin.qq.com/s/8mXoZywxcGRv_8RoCdXmhA)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)
 + [利用Python制作一个简易的计算器](https://mp.weixin.qq.com/s/1dmkoLF6gTnqy-tKkipIRg)
 + [Python中20个不为人知的高级特性](https://mp.weixin.qq.com/s/4tsZUH0yZrzR8JrgHGSpUQ)
 + [提升代码效率的关键:这5个多线程技巧让你的 Python 代码如虎添翼](https://mp.weixin.qq.com/s/pxXE-ImnRb5qjXAmE-isdQ)

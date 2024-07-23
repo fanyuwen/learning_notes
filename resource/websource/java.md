@@ -198,6 +198,7 @@
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 ## concurrent库
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
++ [线程池的拒绝策略](https://mp.weixin.qq.com/s/_l9mpFNBjbbY98Tkn19ltg)
 + [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
 + [8 个线程池最佳实践和坑！使用不当直接生产事故！！](https://mp.weixin.qq.com/s/cBPoIe7EHVr1s-4-blMnug)
 + [JUC组件实战：实现Java与硬件（通过MQTT）的同步通信](https://mp.weixin.qq.com/s/8oIi_OWZkpDQ2lD98VODQQ)
@@ -286,6 +287,7 @@
 ### web
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
++ [Spring接口版本控制方案及RequestMappingHandlerMapping接口介绍](https://mp.weixin.qq.com/s/6aGGk6xwD5jDRbVNqryc5g)
 + [如何在Spring中通过自定义注解EnumValue校验枚举值](https://mp.weixin.qq.com/s/W8EfPv16W-eMPctw6QjY6Q)
 + [深度长文解析SpringWebFlux响应式框架15个核心组件源码](https://mp.weixin.qq.com/s/t1S-rsvJFQ0HkwSD5gMyUw)
 + [byte[]、MultipartFile、File转换一次看个够](https://mp.weixin.qq.com/s/1ljMONRsmKixi14O6lUPlA)
@@ -386,7 +388,9 @@
 + [SpringBoot3 必须掌握的 JVM 优化技巧](https://mp.weixin.qq.com/s/enr8O4nH-1Wf2B9aVifnWA)
 + [Spring Boot集成xjar快速入门Demo](https://mp.weixin.qq.com/s/qW-xMJWwMz7HJkpGyLwdoA)
 + [10个SpringBoot开发技能，每个都很实用（一）](https://mp.weixin.qq.com/s/7l5J6nngBtMizJOnFdiIjw)
++ [10个SpringBoot开发技能，每个都很实用（二）](https://mp.weixin.qq.com/s/IVN3njryhMKXUrUgR_JCIg)
 + [使用 Spring Boot 集成 Nacos 的最佳实践](https://mp.weixin.qq.com/s/dJOl3-uVUyWljXYIyexbvg)
++ [Spring Boot微服务的优雅退场：ExitCodeGenerator定制与实践](https://mp.weixin.qq.com/s/DvuBzwqteTj_q9v7NWAC2g)
 + [Spring Boot项目如何优雅丝滑地从Date过渡到LocalDateTime](https://mp.weixin.qq.com/s/Kl6zGyGJNkNa7jXkVxbJOw)
 + [如何使用 Spring Boot 框架设计建立和保持 100w 的长连接](https://mp.weixin.qq.com/s/9va_IjApI8zgr5T03HJk5Q)
 + [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/NJoG3ahbBVsEMCTUqEIxvw)
@@ -594,6 +598,7 @@
 + [Spring Boot 3.x + Flink 实现大数据文件处理的优化方案](https://mp.weixin.qq.com/s/-mPkuq50T7OUsJGBLseDdQ)
 + [Spring Boot 3.x + Flink 实现增量同步与变更数据捕获](https://mp.weixin.qq.com/s/gJo1-LOcZOeS5Bo5OfYzRA)
 + [实时同步神器:Flink 和 Spring Boot 实现 MySQL 数据同步](https://mp.weixin.qq.com/s/2tnhS04ZVb9RWeODE9U1cA)
++ [SpringBoot 整合 Flink CDC 实时捕获 MySQL 变更数据](https://mp.weixin.qq.com/s/-W-hTTmftfEQbh2XrSvNCg)
 #### 多线程
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)

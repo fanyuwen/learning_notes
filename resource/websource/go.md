@@ -23,6 +23,7 @@
 # 实践
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
++ [defer 的正确调用时机：在确保资源被成功分配或建立连接之后才会调用](https://mp.weixin.qq.com/s/zBx3hUbdgT0yN8QR25CLHw)
 + [Go中的内存泄漏与逃逸](https://mp.weixin.qq.com/s/itZ5cZmlwfZKHuv34XkHGg)
 + [Golang 学习笔记-Viper](https://mp.weixin.qq.com/s/FlIZipAnND-KhqyuXv15IA)
 + [深入理解 Go 语言并发编程中的 Mutex](https://mp.weixin.qq.com/s/op2IAy92M_FgDXj4_tcCbA)

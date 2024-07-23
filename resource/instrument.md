@@ -132,7 +132,7 @@
 
 ### PYTHON_LIBRARY
 + web框架 [django](http://www.djangoproject.com/) [flask](https://palletsprojects.com/p/flask/)
-+ python包管理器 [anaconda](https://www.anaconda.com) [pip](https://pypi.org) [pdm](https://pdm-project.org/) [hatch](https://hatch.pypa.io/) [rye](https://rye.astral.sh/)
++ python包管理器 [anaconda](https://www.anaconda.com) [pip](https://pypi.org) [pdm](https://pdm-project.org/) [hatch](https://hatch.pypa.io/) [rye](https://rye.astral.sh/) [pyinstaller](https://pyinstaller.org/)
 + python包发布工具 [flit](https://flit.pypa.io/)
 + python环境管理 [virtualenv](https://virtualenv.pypa.io/)
 + C扩展 [cython](https://cython.org/)

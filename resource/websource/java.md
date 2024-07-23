@@ -13,7 +13,6 @@
 + [java 中 equals 和 == 的区别](https://my.oschina.net/justjavac/blog/72973)
 + [掌控程序流程：if-else、for、while，控制语句让你的代码更加灵动](https://mp.weixin.qq.com/s/kOUdutHuxI--SaJqxKo2Ow)
 + [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
-+ [python基础合集](https://mp.weixin.qq.com/s/T93d5BUMqXS-0WPDTdVufA)
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
 ## 新语言特性

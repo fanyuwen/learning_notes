@@ -22,6 +22,7 @@
 + [pycryptodome,一个强大的go包](https://mp.weixin.qq.com/s/dl3uHGdi16x_12MLGIq0TA)
 # 实践
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
++ [Go 面试题：切片分隔、切片长度、切片扩容](https://mp.weixin.qq.com/s/lnsIjDwBvy8IxHo0ciNzbg)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
 + [defer 的正确调用时机：在确保资源被成功分配或建立连接之后才会调用](https://mp.weixin.qq.com/s/zBx3hUbdgT0yN8QR25CLHw)
 + [Go中的内存泄漏与逃逸](https://mp.weixin.qq.com/s/itZ5cZmlwfZKHuv34XkHGg)

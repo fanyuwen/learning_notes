@@ -68,6 +68,7 @@
 + [读写分离最全详解(图文全面总结)](https://mp.weixin.qq.com/s/FVOi-eR2T3UHV89l7t7G5w)
 + [如何设计日增几十万数据量的业务分库分表方案](https://mp.weixin.qq.com/s/KD88wHtmDiOwDpOGWFx3MQ)
 + [面试题：分库分表之后，id 主键如何处理？](https://mp.weixin.qq.com/s/k17RNz9U7Osr6GsHX_jj7g)
++ [订单服务拆分库表迁移实践](https://mp.weixin.qq.com/s/KZ1B5l1pgmB4V8KCsT76lw)
 ## 原理解析
 + [超级底层：10WQPS/PB级海量存储HBase/RocksDB，底层LSM结构是什么？](https://mp.weixin.qq.com/s/YFrc8J0qmc_ppl9T9-921w)
 + [数据库并发控制：脏读、幻读与不可重复读的全面剖析](https://mp.weixin.qq.com/s/JoDxomYqumUbMJrv8oPhWg)
@@ -260,6 +261,7 @@
 + [来聊聊redis的发布订阅设计与实现](https://mp.weixin.qq.com/s/IPSmFlLNoQZxwkGnTuHNng)
 + [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)
 + [基于redis实现的轻量级延迟队列](https://mp.weixin.qq.com/s/3foJwnH6FPOaGYTS_HwScg)
++ [利用 Redis Bitmap 实现高效的用户签到统计功能](https://mp.weixin.qq.com/s/NkFUOOX330G8w2IDOTOMQA)
 + [Redis源码整体结构](https://mp.weixin.qq.com/s/5t0zMv8oFX_m0FwOEpbW_Q)
 + [Redis 全文检索及使用示例](https://mp.weixin.qq.com/s/xOxQxU1PcqgKRHzb_xj5hQ)
 + [Redis数据类型详解与Redis vs 传统数据库：核心异同点比较](https://mp.weixin.qq.com/s/CsTeZolmN7UTAu_5q5M9pA)

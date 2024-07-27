@@ -21,6 +21,8 @@
 + [大龄程序员的出路在哪里](https://mp.weixin.qq.com/s/mlK8PmNHhBLOZBToHIsQbA)
 + [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
 + [架构师应该在团队中发挥怎样的作用？](https://mp.weixin.qq.com/s/edWEYL8Zma_qTWQ8HDEsbQ)
++ [国内环境，怎么做开源才能兼顾生存和情怀](https://www.oschina.net/news/303847)
++ [经济越差，越要疯狂做这5件事](https://mp.weixin.qq.com/s/pi7qrQpl0l6XLlnRVh3YDg)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -70,6 +72,8 @@
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
 + [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
++ [Redis可视化工具最全详解(4款主流工具)](https://mp.weixin.qq.com/s/b-G7qlWiogT1efF-dYHsGA)
++ [自从用了CheckStyle插件，代码写的越来越规范了....](https://mp.weixin.qq.com/s/UaTxsfWYBborhFgkIB4Ccg)
 + [这可能是开源界最好用的工作流引擎](https://mp.weixin.qq.com/s/n_zqYCd_C1b1Hk-r33B1gg)
 + [Cloudflare 正式开源Nginx替代品：Pingora](https://mp.weixin.qq.com/s/nHYjbsQa3GQt1EFN0SCajw)
 + [为什么很多人电脑桌面上软件图标寥寥无几甚至空空荡荡?请问怎么做到的?](https://mp.weixin.qq.com/s/Ncy87p3XYF5MrHYHmf0OhA)
@@ -144,6 +148,7 @@
 + [Oracle 再夺 Java 命？大公司用 Java 要小心了！](https://mp.weixin.qq.com/s/4zoDqi34dvnSAuVV6qY8Pg)
 + [被裁 4 个月程序员的“复仇”：怒删前东家 180 台虚拟服务器，造成 491 万损失，被判两年八个月监禁！](https://mp.weixin.qq.com/s/WzBRUeykv91kbVI3blZULg)
 + [漏洞通告 | GeoServer JXPath远程代码执行漏洞](https://mp.weixin.qq.com/s/A46tM8rEpHr4HcR5bke6GA)
++ [英特尔CPU疯狂崩溃，测评大佬揭露工艺缺陷，官方回应：修复补丁下月上线](https://mp.weixin.qq.com/s/KUDF67Ts2PR26qfrxXetZw)
 + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)
 + [寻找适合编写静态分析规则的语言](https://my.oschina.net/u/4526289/blog/11348327)
 + [华为仓颉编程语言正式发布，号称新一代编程语言，Java、Python 瑟瑟发抖。。。](https://mp.weixin.qq.com/s/O-PSyKRPE-31Y8Zmc7Dh-A)
@@ -166,6 +171,7 @@
 + [为什么机器人不能勾选“我不是机器人”复选框？](https://mp.weixin.qq.com/s/X6FJ3RJ6sevkXy1_yxx3zw)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
 + [很难吗？我只用了10分钟就解决了](https://mp.weixin.qq.com/s/EWaWeQbl1RBrq_pfXlDzZQ)
++ [程序员应该掌握的三种编程语言——有Zig无Rust？](https://mp.weixin.qq.com/s/E90nJDzBnBmmm-SbwAUmeg)
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
 + [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
 ## 创业
@@ -173,6 +179,7 @@
 # 其它相关
 + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
 + [同事写出烂代码。。。](https://mp.weixin.qq.com/s/KQH6sIiJoJfJafmQFJm95w)
++ [最怕同事写出这样的代码。。。](https://mp.weixin.qq.com/s/7d7uWXr8fmjZkIP11Nhc2Q)
 + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
 + [苹果电脑的 macOS 系统有多难用？](https://mp.weixin.qq.com/s/gFN_xoZebL1SSQWO4jOAog)
 + [腾讯宣布全员调薪！](https://mp.weixin.qq.com/s/wxFmBAxIvu_qvAMPwhkwsQ)

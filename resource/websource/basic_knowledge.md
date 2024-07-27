@@ -47,6 +47,7 @@
 + [Linux强大的网络命令：curl，一篇文章讲通透！](https://mp.weixin.qq.com/s/JcKutFM94S3Srshw9SlN6g)
 + [Linux基础知识之man手册页](https://mp.weixin.qq.com/s/ysw8OtmOfik0ua5tj6zFmQ)
 + [18 个一线工作中常用 Shell 脚本](https://mp.weixin.qq.com/s/VNZjmpbTTsNHu4nQMmLtoQ)
++ [18 个一线工作中常用 Shell 脚本【实用版】](https://mp.weixin.qq.com/s/cBuRUXvoOKbGXNYq8Zf9Hw)
 + [一篇短文快速搞定Vim编辑器命令](https://mp.weixin.qq.com/s/-pkRQ2sC8cdM7DiXbzHCig)
 + [【超详细】后端和运维必会30个Linux命令解说：mkdir](https://mp.weixin.qq.com/s/c2drfkSoleNNxaVNabIptw)
 ### 发行版信息

@@ -84,6 +84,7 @@
 + [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
 # 杂谈
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
++ [V8引擎的运行原理](https://mp.weixin.qq.com/s/Y4YKLciMvsaQvw47LiEwXA)
 + [Web开发新动向：JavaScript、CSS和AI的革新](https://mp.weixin.qq.com/s/JqMST3wHSU0itHbiMBnabA)
 + [前端打包工具 Mako 架构解析｜得物技术](https://my.oschina.net/u/5783135/blog/11537933)
 + [常用的 HTML5 移动应用开发框架比较](https://my.oschina.net/justjavac/blog/68936)

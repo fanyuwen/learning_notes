@@ -20,6 +20,7 @@
 + [Jenkins + Docker 一键自动化部署 Spring Boot 项目，步骤齐全，少走坑路！](https://mp.weixin.qq.com/s/wVz2N0Vr-2Ed8KSo2jdJ1Q)
 + [告别 Jenkins ？这套轻量级自动化部署方案，让你轻松上车！](https://mp.weixin.qq.com/s/gwKUCB7xf9-cDJ5IOapieg)
 + [还在用Jenkins？快来试试这款简而轻的自动化部署工具吧！](https://mp.weixin.qq.com/s/DDfZYScLYfpEDwB2qeXHGw)
++ [还在用Jenkins？这套轻量级自动化部署方案贼带劲！](https://mp.weixin.qq.com/s/3leUgwdHNn_alzBItUiQzg)
 ## istio
 + [基于 istio 实现单集群地域故障转移](https://my.oschina.net/u/4526289/blog/11051682)
 + [基于 istio 实现多集群流量治理](https://my.oschina.net/u/4526289/blog/11051799)

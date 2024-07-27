@@ -385,6 +385,7 @@
 + [SpringBoot 自定义启动画面](https://mp.weixin.qq.com/s/fTopmeWtmHfaA7aH8YYJBw)
 + [手写Spring Boot启动器：实现布隆过滤器](https://mp.weixin.qq.com/s/nbR9D5F0tjZfNxYWjU1mdA)
 + [SpringBoot3 必须掌握的 JVM 优化技巧](https://mp.weixin.qq.com/s/enr8O4nH-1Wf2B9aVifnWA)
++ [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/6hxdIV60bcLqCEs-KUsbcA)
 + [Spring Boot集成xjar快速入门Demo](https://mp.weixin.qq.com/s/qW-xMJWwMz7HJkpGyLwdoA)
 + [10个SpringBoot开发技能，每个都很实用（一）](https://mp.weixin.qq.com/s/7l5J6nngBtMizJOnFdiIjw)
 + [10个SpringBoot开发技能，每个都很实用（二）](https://mp.weixin.qq.com/s/IVN3njryhMKXUrUgR_JCIg)
@@ -443,6 +444,7 @@
 + [基于springboot关于某某购物杂货店铺电商购物网站](https://mp.weixin.qq.com/s/_2mjXxQ4dTlYwUWOz7dRzA)
 + [Spring Boot + GraphQL实现实时数据推送](https://mp.weixin.qq.com/s/2G4_75zu4u1OdwESHZJFsA)
 + [Spring Boot与Netty的完美结合：打造高性能网络通信](https://mp.weixin.qq.com/s/dsgj-s4SnsuxaM-byoNPSQ)
++ [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/g0hJiGRQJACFXRJV2JwgmA)
 + [请一定掌握SpringBoot这4个高级开发技巧](https://mp.weixin.qq.com/s/5XucOxyBuT-IvO8ioYnlxw)
 + [Spring Boot 插件化开发模式](https://mp.weixin.qq.com/s/w_rOLVBfTFyfqQTCGW4ubA)
 + [大公司为什么禁止在SpringBoot项目中使用@Autowired注解？](https://mp.weixin.qq.com/s/JvEDb5W1qPV38eu-lFOOPg)
@@ -454,6 +456,7 @@
 + [Spring Boot支持发送邮件](https://mp.weixin.qq.com/s/qGInYLdwgOblO9ebZdZCFg)
 + [SpringBoot中的Bean注入顺序：确保配置属性正确读取](https://mp.weixin.qq.com/s/dlAVwvHcSofJI8Qmbj3J1w)
 + [Spring Boot集成rss快速入门demo](https://mp.weixin.qq.com/s/A9DyshjNDC2qGV5x4gFeuQ)
++ [深入剖析 SpringBoot 的 SPI 机制](https://mp.weixin.qq.com/s/wcMjBng_n6AvXACo6Mr_Cw)
 + [使用Spring Boot整合Minio实现文件上传下载功能](https://mp.weixin.qq.com/s/bNUc9qIqSTDESN4faw68tg)
 + [理解 Spring Boot 中的 @Conditional 和 @Configuration 注解](https://mp.weixin.qq.com/s/I_IwZoLmH-wRpucvJA-G_g)
 + [双重保护！来试试 SpringBoot 项目中接入 2FA 双因素认证](https://mp.weixin.qq.com/s/nOS6gWj8MirHIaJ6zycPDA)
@@ -513,7 +516,10 @@
 #### web
 + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
++ [整合Spring Boot 3与Knife4j-4.4：构建现代化的API文档](https://mp.weixin.qq.com/s/0GCj5NP7vU56YJDTf_JEcg)
++ [使用 Spring Boot 3 + SpringDoc 实现系统在线接口的功能开发](https://mp.weixin.qq.com/s/eO9FQL9ycqKG2ezvegXBuQ)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
++ [微服务鉴权设计：SpringBoot 3.x + OAuth2](https://mp.weixin.qq.com/s/4d0iMeNI3Vn1hJNlX34KWg)
 + [SpringBoot实战：轻松实现接口数据脱敏](https://mp.weixin.qq.com/s/fydN-Mf6Eec82DEoh8teyA)
 + [CORS 的实现原理及 SpringBoot 实战](https://mp.weixin.qq.com/s/QmiuvHbGkVZJP6gvA7HKQA)
 + [优雅！SpringBoot统一返回结果就该这样处理](https://mp.weixin.qq.com/s/tRhdzMKqJ2jvmX-x5ZTsVA)
@@ -592,6 +598,7 @@
 + [在Spring Boot应用中集成ClickHouse进行数据分析](https://mp.weixin.qq.com/s/bXIHOlkRuw4XUq2u1aC5qw)
 + [让你的SpringBoot应用飞起来：HikariCP连接池整合详解](https://mp.weixin.qq.com/s/YwsHDuYzbIbMinJy4AfABg)
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
++ [Spring Boot 集成 Elasticsearch【入门篇】](https://mp.weixin.qq.com/s/jlWWaxdZH02rLF67JGoLHg)
 ##### big data
 + [Spring Boot 3.x + Flink 实现实时数据聚合与窗口操作](https://mp.weixin.qq.com/s/vY5MtaW2Uye28JvzC0P_fg)
 + [Spring Boot 3.x + Flink 实现大数据文件处理的优化方案](https://mp.weixin.qq.com/s/-mPkuq50T7OUsJGBLseDdQ)
@@ -671,6 +678,7 @@
 + [从SpringBoot2.7开始自动配置发生哪些变化？你都知道吗？](https://mp.weixin.qq.com/s/ofBasHTpzuqeEDqdxDrqAw)
 #### 原理&源码
 + [Spring Boot 源码分析五：Spring Boot AutoConfiguration 自动配置机制](https://mp.weixin.qq.com/s/ElmExG_xmS3xEFRIJmz-7Q)
++ [从源码角度3分钟理解SpringBoot的jar可以直接运行的原因](https://mp.weixin.qq.com/s/TvhDjE91cocVwjYdNoqcfw)
 ## hystrix
 + [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
 ## quarkus
@@ -681,6 +689,7 @@
 + [公司新来小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被开了.....](https://mp.weixin.qq.com/s/yY5idp93tPaU68A600jRwA)
 + [MyBatis拦截器在实际项目中的应用](https://mp.weixin.qq.com/s/dYBHwpWMliZF3taYfVz3cA)
 + [10 种超赞的 MyBatis 写法！](https://mp.weixin.qq.com/s/5isGSZSiDZcjR-SnkiShhg)
++ [关于MyBatis的缓存详解](https://mp.weixin.qq.com/s/b9o0ZSf1C-03iE1oIzpl4A)
 + [从 7 分钟到 10 秒，Mybatis 批处理真的很强！](https://mp.weixin.qq.com/s/0TfFnPQJ3-9lJZqcaWJtQw)
 + [注意了！mybatis中＜if＞条件判断，遇到带数字单字符有坑！](https://mp.weixin.qq.com/s/rJ51Ig1wTHK8fjMKUuMRsw)
 + [别再手动拼接 SQL 了，MyBatis 动态 SQL 写法应有尽有，建议收藏！](https://mp.weixin.qq.com/s/4RaCEJbxoe8yjqWSBPax5A)
@@ -740,6 +749,7 @@
 + [异步编程 RxJava - 介绍](https://my.oschina.net/OutOfMemory/blog/810511)
 ## caffeine
 + [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
++ [缓存框架 Caffeine 的可视化探索与实践](https://my.oschina.net/vivotech/blog/14189225)
 ## 消息队列
 + [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
 ## logger
@@ -790,6 +800,7 @@
 + [Java 原生化的未来 Graal AOT 编译器](https://mp.weixin.qq.com/s/DZuYvYwQXCSNgNbP9Hgtxw)
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [手把手教你实现一个Java Agent](https://mp.weixin.qq.com/s/-7SKqe8NEjBkAV2U6LzEPQ)
 + [是时候丢掉 BeanUtils 了！](https://mp.weixin.qq.com/s/CynKvjNqkT-5iMVi-DymPw)
 + [大数据面试经验分享-java基础篇](https://mp.weixin.qq.com/s/ZLa160ya7AveXekEN_bf4g)
 + [引入 DynamicThreadPoolExecutor 体系，完善线程池扩展功能(一)](https://mp.weixin.qq.com/s/-eHQlmMbyhrK7zd8JHTB7g)

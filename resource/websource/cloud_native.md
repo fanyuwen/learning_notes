@@ -48,6 +48,7 @@
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
 + [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)
 + [10 张图，说透 Kubernetes 架构和数据流](https://mp.weixin.qq.com/s/7Rck-WUV8kJSxTQtDZYNMQ)
++ [10 张图，说透 Kubernetes 架构原理，这回算是真懂了](https://my.oschina.net/morflameblog/blog/11572634)
 + [深入理解Kubernetes对象,深入解析 ReplicaSet 的使用与管理](https://mp.weixin.qq.com/s/ksNd-I5lqJDS1_5cLn7Zyg)
 + [深入理解Kubernetes对象,Pod服务质量Qos](https://mp.weixin.qq.com/s/8QcG0tvb1rMayG_kYfUerA)
 + [深入理解Kubernetes对象,资源配额管理-ResourceQuota](https://mp.weixin.qq.com/s/XPawMDvq8eDH9WIOzdJAog)

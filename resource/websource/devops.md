@@ -31,7 +31,9 @@
 + [可观测性建设实践之 - 日志分析的权衡取舍](https://my.oschina.net/morflameblog/blog/10169223)
 + [如何实现埋点日志精准监控](https://mp.weixin.qq.com/s/rPXTjd5bSVNusebJq7wBPg)
 + [生产日志敏感信息处理实践](https://mp.weixin.qq.com/s/IBaDebYqIVmXvoQhUUIjfg)
-+ [日志打印的这10个坑,你至少踩过一个...](https://mp.weixin.qq.com/s/cPE2Y02BQ8cb625wXlLn_Q)
++ [日志打印的这10个坑,你至少踩过一个...](https://mp.weixin.qq.com/s/cPE2Y02BQ8cb625wXlLn_Q))
 + [日志信息为啥要保存180天](https://mp.weixin.qq.com/s/d88dPRozIhiuV6cUX2xBTA)
+## 问题排查
++ [流量回放新形态：基于网关 Access Log 发起](https://my.oschina.net/u/3874284/blog/13928824)
 ## ELK
 + [ELK 处理 Spring Boot 日志，妙啊！](https://mp.weixin.qq.com/s/ydUhJFMiclQ-ZcZiDZ3kAw)

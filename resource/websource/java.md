@@ -808,6 +808,7 @@
 + [Java 分布式应用简介](https://my.oschina.net/OutOfMemory/blog/109216)
 + [后台开发必备：每个程序员都应掌握的缓存技术](https://mp.weixin.qq.com/s/pu0w46EGBD6CJmozkMXkrQ)
 + [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
++ [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
 + [CTO：谁再在项目中用Hutool，就给我卷铺盖滚蛋！！！](https://mp.weixin.qq.com/s/UZWTlZPCYm2tNjwXsRuVhg)
 + [顶级Javaer都在使用的类库，真香！](https://mp.weixin.qq.com/s/tl9AGQkkX4CqCr5RQvyrPg)
 + [京东商城高性能多线程并发编程与动态编排框架](https://mp.weixin.qq.com/s/ZrRzXrA1afld-TAAluu3hQ)

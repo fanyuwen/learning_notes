@@ -684,9 +684,7 @@
 ## quarkus
 + [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
 ## mybatis
-+ [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
 + [公司新招一个月薪2w+的高级工程师露馅了，起因是因为一个Mybatis问题](https://mp.weixin.qq.com/s/KccpOlI1zYDLFD86eaknXQ)
-+ [公司新来小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被开了.....](https://mp.weixin.qq.com/s/yY5idp93tPaU68A600jRwA)
 + [MyBatis拦截器在实际项目中的应用](https://mp.weixin.qq.com/s/dYBHwpWMliZF3taYfVz3cA)
 + [10 种超赞的 MyBatis 写法！](https://mp.weixin.qq.com/s/5isGSZSiDZcjR-SnkiShhg)
 + [关于MyBatis的缓存详解](https://mp.weixin.qq.com/s/b9o0ZSf1C-03iE1oIzpl4A)
@@ -705,6 +703,8 @@
 + [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
 + [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
 ### plus
++ [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
++ [公司新来小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被开了.....](https://mp.weixin.qq.com/s/yY5idp93tPaU68A600jRwA)
 + [巧用 MyBatis Plus 实现数据权限控制...](https://mp.weixin.qq.com/s/mk9ZxMzxbdwnouCLpn914Q)
 + [Mybatis-Plus 开发提速器：mybatis-plus-generator-ui](https://mp.weixin.qq.com/s/hJIIe3r4qan57L6UDQlfQg)
 + [MyBatis Plus 解决大数据量查询慢问题](https://mp.weixin.qq.com/s/X_LpEYkA87YsVY3xqVAucw)

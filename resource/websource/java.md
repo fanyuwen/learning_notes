@@ -96,7 +96,6 @@
 + [Java函数式接口，一文彻底剖析！](https://mp.weixin.qq.com/s/oimL5c9wxpayLPjaGvBS0A)
 + [你真的知道new String(hello)创建了几个对象吗？](https://mp.weixin.qq.com/s/TTuC7045o9_O6m82PTFpCw)
 + [new String("yupi") 一共创建了几个对象？](https://mp.weixin.qq.com/s/kTMPrWlOvecHh0TSyl2FDw)
-+ [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [为何1000==1000为false，而100==100却为true？](https://mp.weixin.qq.com/s/7_KrtAyUqpA71AGwi1i5JQ)
 + [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
 + [一不小心掉入了 Java Interface 的陷阱](https://mp.weixin.qq.com/s/KB5bo10LPkJJqnOJUc2fpw)

@@ -99,6 +99,7 @@
 + [网络基础知识：深入理解VPN技术](https://mp.weixin.qq.com/s/-KaEL0ADg2hxrZHhOAeDSQ)
 ### HTTP/HTTPS
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
++ [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/g4VVUbF7RzM1wOS_aIvVHw)
 + [从零开始掌握HTTP协议：全面详解1.0、1.1和2.0](https://mp.weixin.qq.com/s/-Dp08X3qe0AaAQQtwBZ_WA)
 + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
 + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)

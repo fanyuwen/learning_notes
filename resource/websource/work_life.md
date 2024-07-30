@@ -24,6 +24,7 @@
 + [软件技术团队也是技术投资者](https://mp.weixin.qq.com/s/y1eE-LoKqteJITlW6UxQXA)
 + [国内环境，怎么做开源才能兼顾生存和情怀](https://www.oschina.net/news/303847)
 + [经济越差，越要疯狂做这5件事](https://mp.weixin.qq.com/s/pi7qrQpl0l6XLlnRVh3YDg)
++ [我，在阿里月薪6万，离职后突然惊醒：人越努力，只会越平庸](https://mp.weixin.qq.com/s/_ysif07f4saAG1DuURVNeQ)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -127,6 +128,7 @@
 + [用 IDEA 这个神器看源码，效率贼高！](https://mp.weixin.qq.com/s/zTmja6FfRmHVnOL1XudNRQ)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/x4KEODNB4xFFSDcicBRIww)
 + [IDEA Debug 高阶技巧，老手都是这么玩的~~](https://mp.weixin.qq.com/s/6fnAsz9oxMnJD61jbDYzsw)
++ [不用一行代码查看方法耗时，这款 IDEA 插件有点酷！](https://mp.weixin.qq.com/s/Y0_Ov5MBa7wGfhmQgXtbXQ)
 + [9个IntelliJ IDEA插件，彻底解放双手！](https://mp.weixin.qq.com/s/18VRuVT_yLmcK-jzioVZgA)
 + [IDEA高效技巧之Debug调试，你都已用过吗？别再不停加日志重启啦](https://mp.weixin.qq.com/s/OmRa52_j_I_CQwvqKGuWRg)
 + [写代码速度提升200%！吊爆的 IDEA 使用技巧](https://mp.weixin.qq.com/s/5GRZmrqKzOY5SvM9u9KSYA)
@@ -141,6 +143,7 @@
 # 行业趣闻
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
 + [作为程序员，你见过哪些有趣的注释？](https://mp.weixin.qq.com/s/z5lS3zUFFXE0uhPzKkH9hA)
++ [某字节女员工自曝：33岁，存够300万就退休，她能“躺平”吗？](https://mp.weixin.qq.com/s/QKvy3sDM-bmLYDzVFSzRYg)
 + [知乎热议：CTO要求把所有逻辑放到数据库合理吗？](https://mp.weixin.qq.com/s/IY4RRbB8jJvmVYXGKYcgYQ)
 + [键值数据库Redis更改开源协议遭反噬，面临替代风险与商业机遇流失](https://mp.weixin.qq.com/s/rrZoLmfD941AStZRl1eOFQ)
 + [阿里云又挂了，这次是光缆被挖断了？](https://mp.weixin.qq.com/s/cb2Lh56uINxacM2uUaB6Vw)
@@ -176,6 +179,7 @@
 + [程序员应该掌握的三种编程语言——有Zig无Rust？](https://mp.weixin.qq.com/s/E90nJDzBnBmmm-SbwAUmeg)
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
 + [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
++ [GitHub 删除代码等于“任何人均可永久访问”！微软回应：这是特性](https://mp.weixin.qq.com/s/oymAZ0VKlOwMPhNqDN8F7w)
 ## 创业
 + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)
 # 其它相关

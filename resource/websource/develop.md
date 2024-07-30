@@ -1,5 +1,6 @@
 # 架构相关
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
++ [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
 + [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
 + [基础架构部，还有必要吗？](https://mp.weixin.qq.com/s/yalmoDbY75_Pz9PCzpjiPQ)
 + [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/HmO8vMW44fVfnyFOK_6PvA)
@@ -195,12 +196,13 @@
 + [大文件切片上传，全网最简单的实现没有之一](https://mp.weixin.qq.com/s/0bFd6xs16Kajg853TOObAA)
 + [大文件秒传、断点续传和分片上传](https://mp.weixin.qq.com/s/4ty-x7MYKU_saPaavikN5w)
 + [实现大文件的断点下载、分片下载](https://mp.weixin.qq.com/s/2qB6vESIUw7YPk4rL16Lzw)
-### 超时&定时&调度
+### 超时&定时&异步调度
 + [电商设计订单超时未支付关闭的方案整理](https://mp.weixin.qq.com/s/PhiGAQXJe-c60GHKypgIyw)
 + [定时任务原理方案综述 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9907877)
 + [百万级订单超时自动取消就该这样设计](https://mp.weixin.qq.com/s/bm8bBDY6TgtH821YE_7Z7A)
 + [新来个技术总监：谁再用Redis实现订单超时自动关闭，以后就不用来了！](https://mp.weixin.qq.com/s/PsjVpv1leNF7DnpdJufUnw)
 + [面试官：订单30分钟未支付自动取消用什么实现方案？如何使用Redis实现延迟队列？](https://mp.weixin.qq.com/s/bey1XVEqf8cy1Uqxqt4gCw)
++ [一套万能的异步处理方案（建议收藏）](https://mp.weixin.qq.com/s/PEt25sZYC5mm1KVu8LLW9w)
 ## 缓存
 + [如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)
 + [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
@@ -332,6 +334,7 @@
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
 ### 编程范式
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
++ [高级开发者的代码规范化利器](https://mp.weixin.qq.com/s/9aTYrbcwhBqz_93kGpbWtg)
 ### 问题排查
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 + [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)

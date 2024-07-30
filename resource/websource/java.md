@@ -193,6 +193,7 @@
 ## util库
 + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
 + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
++ [HashMap数据结构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/hmcm7nYCIwv-iFiePAamDg)
 + [Optional 是个好东西，你真的会用嘛？](https://mp.weixin.qq.com/s/xLlq_t_Y1GUrYMWK_tvAxA)
 + [Java Comparator 珍藏版](https://mp.weixin.qq.com/s/KjCOIPqUbaqyHAu2sEKFhw)
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
@@ -378,9 +379,11 @@
 ### boot
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
 + [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
 + [Spring Boot 自定义注解详解](https://mp.weixin.qq.com/s/t3ykX6p4u2RMxYbfFJTahg)
++ [Resilience4j 深度揭秘：如何在 Spring Boot 中实现容错机制](https://mp.weixin.qq.com/s/odk-xORVx16UnA3AsYfunQ)
 + [介绍几种Spring Boot打印SQL明细包括语句和参数方式](https://mp.weixin.qq.com/s/BWvw7sE7EOcUZMZTM4mvQQ)
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
@@ -537,6 +540,7 @@
 + [Spring Boot + FreeMarker 实现按模板导出 Word 文档](https://mp.weixin.qq.com/s/3378NclJmiKaCcgBIWN52g)
 + [使用 Spring Boot 结合断点续传技术和自动重连机制实现考试系统网络不稳定性的应对策略](https://mp.weixin.qq.com/s/PoGAfTEXk2jHzmKZRUa02w)
 + [SpringBoot + Jackson 实现自动化配置](https://mp.weixin.qq.com/s/MifVUmcTkmVKN658tSlGOg)
++ [使用SpringBoot和Selenium模拟用户操作浏览器](https://mp.weixin.qq.com/s/1jJJwW43KY0X_X6-VXgDqw)
 + [SpringBoot整合Caffeine使用示例](https://mp.weixin.qq.com/s/q9Q2UWgcjiISPKp5wM016g)
 + [SpringBoot中Controller接口参数还可以这样玩？](https://mp.weixin.qq.com/s/-xOJpfkVYQG8GAJbMkkcIQ)
 + [SpringBoot非常实用的一个功能，你肯定不知道](https://mp.weixin.qq.com/s/QBKzLNAeL-xIdBqi7tkcvg)
@@ -585,6 +589,7 @@
 + [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
 #### data
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
++ [SpringBoot+ShardingSphere 轻松实现数据库字段加解密](https://mp.weixin.qq.com/s/wkL_C6pygtI9ZPZpBsw5bw)
 + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)
 + [Spring Boot实现多数据源快速入门](https://mp.weixin.qq.com/s/f7zgs2DjM6wKMLXNpSAstg)
 + [SpringBoot中使用Redis和Lua脚本实现延时队列](https://mp.weixin.qq.com/s/-oK42uZDVD4OIpg4cZlQZA)
@@ -628,6 +633,7 @@
 + [Reactor模型在Spring Boot中的应用](https://mp.weixin.qq.com/s/atFVq47LOfV74xh9gNhJbw)
 #### 缓存
 + [SpringBoot项目中使用缓存Cache的正确姿势！！!](https://mp.weixin.qq.com/s/XjKCJeqYx5dDNlfvXWaqyw)
++ [Spring Boot + Caffeine Cache yyds！](https://mp.weixin.qq.com/s/pIdVYFDZvqh-T5G8R7KBKQ)
 + [Spring Boot 中缓存的用法](https://mp.weixin.qq.com/s/U7Bt1pTRKSd3_9grt0yiJQ)
 + [SpringBoot 实现两级缓存](https://mp.weixin.qq.com/s/ZZEVu_rX6W8OKa6ONRP20Q)
 + [Spring Boot启动项目时如何加载缓存](https://mp.weixin.qq.com/s/b13fJFX840yahbiwe8OhoQ)
@@ -776,6 +782,7 @@
 + [ASM 入门篇](https://my.oschina.net/OutOfMemory/blog/5076032)
 + [通过实战走近 Java Agent 探针技术](https://mp.weixin.qq.com/s/QTGQCwaCqNM1JEHUprB5SA)
 + [Java 代理 - Javassist](https://my.oschina.net/OutOfMemory/blog/309283)
++ [B站 1面：手撕一个 Java Agent！](https://mp.weixin.qq.com/s/JnZYc9WyjdDCQCX9Lndvgg)
 ## 其它工具
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [Java开源工具库使用之性能测试JMH](https://mp.weixin.qq.com/s/Q9e6PZjDvXfNZI-p7WsVkA)
@@ -804,8 +811,11 @@
 + [Java 原生化的未来 Graal AOT 编译器](https://mp.weixin.qq.com/s/DZuYvYwQXCSNgNbP9Hgtxw)
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [我患上了空指针后遗症](https://mp.weixin.qq.com/s/TG9KXlGFEh4T-jTBC_gwgw)
++ [Java8的Stream流太难用了？看看JDFrame](https://mp.weixin.qq.com/s/8fqex44MlbQeAyNLSdWS9Q)
 + [手把手教你实现一个Java Agent](https://mp.weixin.qq.com/s/-7SKqe8NEjBkAV2U6LzEPQ)
 + [是时候丢掉 BeanUtils 了！](https://mp.weixin.qq.com/s/CynKvjNqkT-5iMVi-DymPw)
++ [用魔法打败魔法(浅谈 WebShell 对抗)](https://mp.weixin.qq.com/s/gQ5mT8jw93lhUnhdSzjRzA)
 + [大数据面试经验分享-java基础篇](https://mp.weixin.qq.com/s/ZLa160ya7AveXekEN_bf4g)
 + [引入 DynamicThreadPoolExecutor 体系，完善线程池扩展功能(一)](https://mp.weixin.qq.com/s/-eHQlmMbyhrK7zd8JHTB7g)
 + [教你用三种方式模拟两个线程抢票](https://mp.weixin.qq.com/s/Qip0CLXyp834_l-AKvKVmQ)

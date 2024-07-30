@@ -43,11 +43,13 @@
 + [你是如何解决go语言框架 gin跨域问题 的 ？](https://mp.weixin.qq.com/s/oG0YplEOG4k6-nJX17m7zA)
 + [[Golang] 泛型的使用](https://mp.weixin.qq.com/s/lwsOnblS0uUHI59L2PpufQ)
 + [Go 如何优雅实现业务并发？](https://mp.weixin.qq.com/s/0JS7XWcpRauj14xWGWopFw)
++ [听说它可以让代码更优雅](https://mp.weixin.qq.com/s/OU1Tx7-4TIPT2MEsEND6lQ)
 + [Go语言之高级篇beego框架之Controller](https://mp.weixin.qq.com/s/QAXIo8wLRDVFaEPx3R9KSg)
 + [Go-Job 让你的任务调度不再繁琐](https://my.oschina.net/u/5783135/blog/11212449)
 + [Golang实现轻量级IM](https://mp.weixin.qq.com/s/1JvzeLODNHLRum5QRW2w-g)
 + [推荐几个非常不错的 go 开源项目（建议收藏）](https://mp.weixin.qq.com/s/gHaq1qhFtPHM3kn1E5alVA)
 + [聚合接口层（BFF）之Go语言版（三）统一响应、中间件](https://mp.weixin.qq.com/s/UphhHnM_viMD3KX863teUg)
++ [Go Gin 静态文件服务：构建高效、灵活的资源交付系统](https://mp.weixin.qq.com/s/KHrHlAYb-P4qYOpWQhMBoA)
 # 面试题
 + [Golang 面试题解析](https://my.oschina.net/qiangmzsx/blog/1478739)
 + [Golang 面试题解析（二）](https://my.oschina.net/qiangmzsx/blog/1515173)

@@ -1,6 +1,7 @@
 # 架构相关
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
 + [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
++ [基础架构部，还有必要吗？](https://mp.weixin.qq.com/s/yalmoDbY75_Pz9PCzpjiPQ)
 + [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/HmO8vMW44fVfnyFOK_6PvA)
 + [架构之道：人人都是架构师](https://mp.weixin.qq.com/s/_sPs0NB4zWef-pW17DKimg)
 + [软件架构技术6：常见架构风格与应用场景](https://mp.weixin.qq.com/s/sBn07nenrTMbOjrpk_J9fQ)
@@ -91,6 +92,7 @@
 + [面试官：谈谈分布式一致性机制 ？](https://mp.weixin.qq.com/s/oiAv9qeetMT7ioWqVaZf_w)
 + [为什么说心跳机制是分布式系统的守护神？](https://mp.weixin.qq.com/s/x5gK7n7AV_MBQwcqhfD9nA)
 + [面试必备：10种分布式ID的生成方案](https://mp.weixin.qq.com/s/-H7REzOQ-iECWv6kQHYEmw)
++ [为什么UUID不适合作为分布式全局唯一ID](https://mp.weixin.qq.com/s/-8s5ZQdZH7lZCQU58TRxiQ)
 + [聊聊分布式系统中的服务发现！](https://mp.weixin.qq.com/s/i9t6oB7OGex398bF31Q0iA)
 + [一文搞懂注册中心的设计与实现](https://mp.weixin.qq.com/s/OdyUJg7nAN1Zlvo3c1yPYQ)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
@@ -140,6 +142,7 @@
 + [几十万人同时在线的直播间聊天，如何设计服务端架构？](https://my.oschina.net/u/2550800/blog/1838019)
 + [几种优雅实现在线人数统计的方案](https://mp.weixin.qq.com/s/Hn-wdycTvW6TTpy25qrLjg)
 + [如何优雅的实现在线人数统计功能？](https://mp.weixin.qq.com/s/n8MWJadnhmgrkt_o42UGWQ)
++ [如何优雅的实现在线人数统计功能？ ](https://mp.weixin.qq.com/s/030ARtePKMcn4Vf5th1zsg)
 + [一张图掌握4种RPC框架异步化调用](https://mp.weixin.qq.com/s/HvITsrk4FfhRguBspCtGVA)
 + [百万QPS下热点数据的收集方案](https://mp.weixin.qq.com/s/GBskXO73JCFRymGHqRnCVw)
 + [如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/PiVPZERlD6U_kZ6fmxWoeQ)
@@ -220,6 +223,7 @@
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/d2441A6vaDWVUHZim8YQAA)
 + [为什么你的应用启动速度如此之慢？](https://mp.weixin.qq.com/s/Fuq1LbfK5W3spWOKQCaIpQ)
 + [性能优化｜几个方法让图片加载更快一些](https://mp.weixin.qq.com/s/6YUuE8IJ-B9XF9On6LmLKw)
++ [我用两个方法就将接口响应时间从2s优化到了100ms](https://mp.weixin.qq.com/s/LfgE-GQ7IWRtJQFfO4hULw)
 + [一行代码，我优化掉了1G内存占用](https://mp.weixin.qq.com/s/JvhxaioE9UhDbdlu2ECoiA)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
@@ -330,6 +334,7 @@
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
 ### 问题排查
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
++ [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)
 ### 项目管理
 + [我们如何管理软件项目的交付？](https://mp.weixin.qq.com/s/wMXl7DquISIYW0_GJly08w)
 + [设计系统文档化报告 | 设计系统团队](https://mp.weixin.qq.com/s/JLarz50CQzAUkkKQErVXwQ)

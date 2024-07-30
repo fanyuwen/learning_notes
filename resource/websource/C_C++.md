@@ -16,10 +16,12 @@
 + [Eigen ,一个强大的c++库](https://mp.weixin.qq.com/s/kYZOsYqcL6i3JVitX_Hw2A)
 + [C++ memory 内存管理](https://mp.weixin.qq.com/s/M2ezCaCuqeW-qKChmN2twA)
 + [C++ proto 数据类型](https://mp.weixin.qq.com/s/7jvgBUYaoAMEDzRR3eDrAA)
++ [MiLi，小而美的c++库](https://mp.weixin.qq.com/s/qgiVM1JUCVZIredEzp_arQ)
 + [面试题：sizeof(string)的结果是多少？](https://mp.weixin.qq.com/s/qqd0yknVMLai9EUbC5xh_Q)
 + [C++ proto 用作消息传输](https://mp.weixin.qq.com/s/UF4WgiWQx9kj-r8CGOBtXQ)
 + [技巧 | C++中实现类似instanceof的方法](https://mp.weixin.qq.com/s/lvQEx0GdGFZNV9YF942x3g)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
++ [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
 ### 学习资源
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
@@ -30,6 +32,7 @@
 ## C
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
++ [Linux网络编程(HTTP协议)](https://mp.weixin.qq.com/s/8qfmElaWYusBv0Xwti92jQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)

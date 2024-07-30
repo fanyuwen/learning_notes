@@ -14,6 +14,8 @@
 + [用 Rust Reqwest 库打造高性能的网络爬虫](https://mp.weixin.qq.com/s/M-VTCDPu08F2DFK55rGNyw)
 + [4个强大的rust库](https://mp.weixin.qq.com/s/Cs-6w7O387kJrBSItuWmig)
 + [一个强大的rust库Tokio](https://mp.weixin.qq.com/s/JT-BtkhOLjgEa0w3JKzL-w)
++ [rust中的切片和go中的切片](https://mp.weixin.qq.com/s/cHpbc0MiRGtUwNU-yEHNMw)
++ [Rust 开发者福音：国内镜像 rsproxy，让你的 Cargo 飞起来！](https://mp.weixin.qq.com/s/L5vqzfasZdlKJ1C7k0wzxw)
 # 框架
 + [开源推荐 | 一个简单且功能强大的 Rust Web 后端框架，仅仅需要基础 Rust 知识即可开发后端服务](https://mp.weixin.qq.com/s/evaU3zHmtZFZX_o2V6s7ZQ)
 + [Candle：Rust 语言的极简机器学习框架](https://mp.weixin.qq.com/s/XfeiWaKXyJx2kBV5dz8SOg)

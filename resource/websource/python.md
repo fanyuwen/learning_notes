@@ -25,8 +25,10 @@
 + [python全栈开发《16.什么是对象、字符串的capitalize函数》](https://mp.weixin.qq.com/s/ySLzlr5lLQjE5-y6AVGNLA)
 + [Python 排序之争：sort和sorted，你选对了吗？](https://mp.weixin.qq.com/s/ySHoAatyT7WRTz9W1kDbcw)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
++ [Python 高级编程技巧是：元类（Metaclasses）](https://mp.weixin.qq.com/s/-9nqPkxJDmV12-4p9ZtCQw)
 + [5分钟彻底弄懂Python布尔逻辑妙用](https://mp.weixin.qq.com/s/-EEYrDfafK-zX3tvU-zQPA)
 + [每日一模块：dataclass](https://mp.weixin.qq.com/s/6Z-x0Bg3fYM4xlOLmNxdXg)
++ [python全栈开发《21.字符串的count函数》](https://mp.weixin.qq.com/s/9jW49Dl6aO6SH1AIbCnBIA)
 + [Python标准库-math](https://mp.weixin.qq.com/s/wY_JeGSB8lBDLZESiiEOBw)
 ## 第三方库
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
@@ -34,7 +36,10 @@
 + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
 + [Streamlit：使用 Python 快速开发 Web 应用](https://mp.weixin.qq.com/s/hz-3a3FvmiaLto9vqJUBuA)
 + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
++ [从零开始，快速打造API：揭秘 Python 库toapi的神奇力量](https://mp.weixin.qq.com/s/a2Xu1rnzfjyRm87Pfld8bw)
 + [python-urllib.parse](https://my.oschina.net/u/2512041/blog/4376934)
++ [使用PySide6开发桌面程序快速入门（上）](https://mp.weixin.qq.com/s/xjazNc1GYB4VEs9XNI3RoQ)
++ [Python入门基础——urllib库](https://mp.weixin.qq.com/s/8k5SiTX1FcfkzlQHYRBhbw)
 + [rich，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/y2y-fjlmqsW9D02OGbReUQ)
 + [Faust，一个牛逼的python库](https://mp.weixin.qq.com/s/n_fwrQlDcQV4ODdjOaJtyA)
 + [Python 日志处理 logging 模块](https://my.oschina.net/u/2512041/blog/4377098)
@@ -62,6 +67,7 @@
 + [Python 错误调试神器：PrettyErrors美化错误信息](https://mp.weixin.qq.com/s/Onp5IVT4RD7jhx-M0BQ-2A)
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 + [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
++ [Marmir ，一个牛逼的Python库](https://mp.weixin.qq.com/s/y3oWnbmULGMj-MHg1bCw-A)
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 + [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
@@ -79,6 +85,9 @@
 ## 实践
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
++ [8个Python实用技巧，让你的代码效率飞起来！](https://mp.weixin.qq.com/s/u_9hGbYJ-HINKTyWxebMGQ)
++ [理解 Python 中的星号用法](https://mp.weixin.qq.com/s/bQ_jcOO6cT6IsL3ZZIGpHw)
++ [4个Python实战项目，让你瞬间读懂Python！满满干货技能（附源码）](https://mp.weixin.qq.com/s/EjAFJ3thaUbzn6f25AOHrQ)
 + [每天都在用的20个Python技巧，让你从此告别平庸！](https://mp.weixin.qq.com/s/OavXESfK9xxY3R0tPM1MGA)
 + [Python标准库-CSV 文件操作](https://mp.weixin.qq.com/s/8mXoZywxcGRv_8RoCdXmhA)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
@@ -143,11 +152,13 @@
 + [15个Python进阶操作系统交互高级命令](https://mp.weixin.qq.com/s/rKvmj6e2IIA2GzzwG5dLKA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [Python 科学计算生态系统：标准库与第三方库及其学习路线](https://mp.weixin.qq.com/s/JD5yjsapauI5IFLCly7opA)
++ [如何使用Python自动发送每日电子邮件报告](https://mp.weixin.qq.com/s/ZNvYu6sBeJMgmAyxon1Qzw)
 + [100天精通Python（进阶篇）——第40天：pymongo操作MongoDB数据库基础+代码实战](https://mp.weixin.qq.com/s/Wl7gv6vd3dffY5_B4WA_bA)
 + [从基础到高级应用，详解用 Python 实现容器化和微服务架构](https://my.oschina.net/u/4526289/blog/11557468)
 + [Python四级：第03讲 递归算法](https://mp.weixin.qq.com/s/WeEUWLlUTFPqXI7NfVQhhw)
 + [Python统计基础：生成频数分布表](https://mp.weixin.qq.com/s/OCA0d5fXUr92720FJxsTjg)
 + [Python 制作十款经典童年游戏（附源码）](https://mp.weixin.qq.com/s/8bHRp4MbEdrBUXAEBYRTaw)
++ [一日一技：如何正确保护Python代码](https://mp.weixin.qq.com/s/jsrgEOZlzsnaQOic0zUQRw)
 ## 框架
 + [这款 Python 库让AI开发变得有趣又简单，快来试试EasyAI](https://mp.weixin.qq.com/s/_O8n6LYxfk-zu10HpI6M1w)
 ### Django
@@ -165,6 +176,7 @@
 ## 爬虫
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
 + [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)
-+ [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g)
++ [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g
++ [为了防止这些视频下架，我连夜用Python将她们爬了下来！](https://mp.weixin.qq.com/s/0V9-BkeilIYaOM_o6VaaFQ)
 ## 数据分析
 + [Plottable结合Pandas绘制图表：数据可视化的利器](https://mp.weixin.qq.com/s/4KwVJeEOOgh-tIDA-L4KaA)

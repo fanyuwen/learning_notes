@@ -13,6 +13,7 @@
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
 ## 实践
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
++ [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
 + [18个面向专业开发人员的高级 JavaScript 技术](https://mp.weixin.qq.com/s/AyTxXOaUZvk0MNcyxdOoRQ)
@@ -64,6 +65,8 @@
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
 ### react native
 + [React Native 终于“妥协”了！](https://mp.weixin.qq.com/s/0ieve3nqLCBRekG-xvL3uQ)
+## svelte
++ [Rich Harris 承诺：使用 Svelte 5.0 你将编写更少的代码](https://mp.weixin.qq.com/s/0e85taqdJkJHEK_-gFFQ1Q)
 # websocket
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)
 + [细说 websocket 快速重连机制](https://my.oschina.net/u/2550800/blog/4420403)

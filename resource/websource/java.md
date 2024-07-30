@@ -16,6 +16,7 @@
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
 ## 新语言特性
++ [JEP 481：作用域值API的第3个预览版随JDK 23发布，带来关键增强](https://mp.weixin.qq.com/s/woAR6QjUlyWcISwPYRubqA)
 + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
 + [Project Leyden 早期访问版本开放下载：Java 程序启动速度提升 2 至 3 倍](https://mp.weixin.qq.com/s/inM7uwIC8_AubyXZUhBT1g)
 + [我有点想用 JDK 21 了~](https://mp.weixin.qq.com/s/EZOZnsY4EfCB7cjJzVCkqw)
@@ -39,6 +40,7 @@
 + [stream流的常用操作](https://mp.weixin.qq.com/s/dUVNHL6N-bA1ntG81tXCzg)
 + [编程迷宫揭秘：Java 8 流式操作的奇幻之旅](https://mp.weixin.qq.com/s/fqk9AzOHSRQMxovYPV-zeA)
 + [10 个 Java Stream 顶级技巧，大量简化代码！](https://mp.weixin.qq.com/s/bYSCS5N-ULvDjlLAKlA9Mg)
++ [Stream原理与执行流程探析](https://mp.weixin.qq.com/s/UGWoRO5-pFB0p01mc73wLA)
 + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
 + [用了Stream，代码丑爆了！姿势不对，别喷！](https://mp.weixin.qq.com/s/0XDSSa95VXp7Fy4lrQSJqA)
 + [用Stream代码丑爆了？那是姿势不对，别瞎喷](https://mp.weixin.qq.com/s/y6mp-IwWBZp2PwYZw-LJXQ)
@@ -228,6 +230,7 @@
 ## maven
 + [Maven Assembly 构建发布包](https://my.oschina.net/OutOfMemory/blog/685456)
 + [史上最全 Maven 教程，建议收藏！！](https://mp.weixin.qq.com/s/gx6apzIPb8k-B-aAENvlOQ)
++ [一个优秀 Maven 项目，各 Model 间最佳继承设计方案](https://mp.weixin.qq.com/s/haFPYX2_Ym9h1vdgd5ojAw)
 # 第三方库
 ## spring
 + [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
@@ -722,6 +725,8 @@
 + [再见了 Shiro！](https://mp.weixin.qq.com/s/-NG2wGbzmmebdHHL6q778Q)
 ## netty
 + [为什么不选择使用原生的 NIO 而选择使用 Netty 模式呢？](https://mp.weixin.qq.com/s/qhPEYV6CrQg6DEybirbYZw)
++ [Netty的源码分析和业务场景](https://mp.weixin.qq.com/s/M8EH_sgleaNHNhdIe7Gfpg)
++ [Netty TCP 实战案例（一），文末附源码地址](https://mp.weixin.qq.com/s/Wp4JFSa_ZNPc1Re5-N2nxg)
 + [FastThreadLocal 为什么那么快](https://mp.weixin.qq.com/s/NFdatPy3vuJZsmpXqr5y4w)
 + [一文看懂Netty的心跳检测机制](https://mp.weixin.qq.com/s/5pvcuq-6OHOhN1hKdcrZog)
 + [(十一)Netty实战篇：基于Netty框架打造一款高性能的IM即时通讯程序](https://mp.weixin.qq.com/s/RMUbCeIknr99imAEtgvGmg)

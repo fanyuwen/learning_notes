@@ -21,6 +21,7 @@
 + [大龄程序员的出路在哪里](https://mp.weixin.qq.com/s/mlK8PmNHhBLOZBToHIsQbA)
 + [有赞“取消HRBP”后，所有评论区都炸了](https://mp.weixin.qq.com/s/Pk40rxR0cPALzEphUY9rCQ)
 + [架构师应该在团队中发挥怎样的作用？](https://mp.weixin.qq.com/s/edWEYL8Zma_qTWQ8HDEsbQ)
++ [软件技术团队也是技术投资者](https://mp.weixin.qq.com/s/y1eE-LoKqteJITlW6UxQXA)
 + [国内环境，怎么做开源才能兼顾生存和情怀](https://www.oschina.net/news/303847)
 + [经济越差，越要疯狂做这5件事](https://mp.weixin.qq.com/s/pi7qrQpl0l6XLlnRVh3YDg)
 # 个人成长
@@ -71,6 +72,7 @@
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
++ [2024 年每位开发人员都应使用的 5 种工具](https://mp.weixin.qq.com/s/r5BgqngqKuS8IiFrdI_gug)
 + [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
 + [Redis可视化工具最全详解(4款主流工具)](https://mp.weixin.qq.com/s/b-G7qlWiogT1efF-dYHsGA)
 + [自从用了CheckStyle插件，代码写的越来越规范了....](https://mp.weixin.qq.com/s/UaTxsfWYBborhFgkIB4Ccg)

@@ -209,6 +209,7 @@
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)
 + [告别慢如蜗牛的搜索，MySQL全文索引来帮你！](https://mp.weixin.qq.com/s/vcfGx5aKugJ7T8vogtD4lA)
 + [为什么你的索引会失效？](https://mp.weixin.qq.com/s/b4CDWYkpBWb280MwUAEeKg)
++ [深入探索MySQL索引策略](https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g)
 + [面试官：这个SQL会用到索引吗？Explain返回列的含义能解释下吗？还有哪些索引失效的场景？](https://mp.weixin.qq.com/s/KNtM8gbTLbpwxpysDa_wVg)
 + [一篇文章聊透索引失效有哪些情况及如何解决](https://mp.weixin.qq.com/s/wz5BJEKrnhH2W0PBGl0Utw)
 + [什么是最左前缀匹配？为什么要遵守？](https://mp.weixin.qq.com/s/2YSnEFyWlNqUs2oMAnpwnQ)

@@ -13,7 +13,7 @@
 + 小型内存数据库 [h2](http://www.h2database.com) [derby](https://db.apache.org/derby/)
 + 关系型数据库 [postgresql](https://www.postgresql.org) [monetdb](https://www.monetdb.org/)
 + 高性能实时分析数据库 [doris](https://doris.apache.org/) <font style='color:red'>*</font>[tidb](https://www.pingcap.com/tidb/)
-+ [数据管理平台](https://geode.apache.org/)
++ 数据管理平台 [geode](https://geode.apache.org/)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)

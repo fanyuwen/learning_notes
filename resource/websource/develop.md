@@ -59,6 +59,7 @@
 + [架构之问31：微服务架构8大设计模式与实践](https://mp.weixin.qq.com/s/dhkD0nS3w6YaMIlVodcOcg)
 + [微服务架构落地及其演进](https://mp.weixin.qq.com/s/6LwUOQPdFXJjltU1ftGrpA)
 + [微服务架构设计最全详解(图文全面总结)](https://mp.weixin.qq.com/s/GSOM1j0mQ-atFrLCcyFuJg)
++ [微服务部署架构最全详解(4大主流部署架构)](https://mp.weixin.qq.com/s/-tO1WhkNkale2u6r7cdl1g)
 + [微服务架构中的服务注册与发现](https://mp.weixin.qq.com/s/hVau6N2NIeZ3iFFfuQgR0w)
 + [微服务+分库分表的自增主键ID该如何设计？](https://mp.weixin.qq.com/s/MilazC5iqsZgoJCQmgeBfA)
 + [唯品会微服务架构演进之路](https://mp.weixin.qq.com/s/QPgw8RcWrIg2r0Mxxp6FEA)
@@ -248,6 +249,7 @@
 + [JWT 签名用对称加密还是非对称加密？](https://my.oschina.net/lenve/blog/11203585)
 + [揭秘Cookie、Session、JWT之间的关系](https://mp.weixin.qq.com/s/Y5MWj66Ujc3Jj7UKoa7VNw)
 + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
++ [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/qKLvRnySF9h0jnPbaRoJcQ)
 # 开发相关
 + [当 “代码农” 遇上 “码农”：揭秘主干开发的那些事儿 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869429)
 + [牛皮！手写一个 RPC 框架](https://mp.weixin.qq.com/s/fS6Y1ycME-g6ggY3xBh4Cg)
@@ -338,6 +340,7 @@
 ### 问题排查
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 + [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)
++ [正则表达只学习了个皮毛引起的 BUG](https://mp.weixin.qq.com/s/N918inN3MPMMm3JZDjnzCQ)
 ### 项目管理
 + [我们如何管理软件项目的交付？](https://mp.weixin.qq.com/s/wMXl7DquISIYW0_GJly08w)
 + [设计系统文档化报告 | 设计系统团队](https://mp.weixin.qq.com/s/JLarz50CQzAUkkKQErVXwQ)

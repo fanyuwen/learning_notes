@@ -88,6 +88,8 @@
 # 底层
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java 序列化：让对象“穿越时空”](https://mp.weixin.qq.com/s/KNoQha6JR7kn8smpHlMoLg)
++ [为什么idea建议使用“+”拼接字符串](https://mp.weixin.qq.com/s/5o2rC0h4nvaeJMVSEsrHAg)
 + [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [深入探讨Java的分层编译](https://mp.weixin.qq.com/s/ZNNyRrjjLlaeepuUByqaGQ)
 + [深入理解 System.gc()](https://mp.weixin.qq.com/s/W2nPL638fAKc5aGcWxDr6w)
@@ -288,6 +290,7 @@
 + [Spring6.2震撼来袭，多线程实例化Bean应用启动速度飙升！](https://mp.weixin.qq.com/s/PKmt3RDtlPvm6hY9YYufow)
 ### web
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
++ [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [Spring接口版本控制方案及RequestMappingHandlerMapping接口介绍](https://mp.weixin.qq.com/s/6aGGk6xwD5jDRbVNqryc5g)
 + [如何在Spring中通过自定义注解EnumValue校验枚举值](https://mp.weixin.qq.com/s/W8EfPv16W-eMPctw6QjY6Q)
@@ -379,6 +382,7 @@
 ### boot
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
 + [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
@@ -589,6 +593,7 @@
 + [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
 #### data
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
++ [使用Spring Boot + MyBatis-Plus + ThreadPoolTaskExecutor实现批量插入百万级数据](https://mp.weixin.qq.com/s/uu9HZqiyGKtHreJcQ2_ZeA)
 + [SpringBoot+ShardingSphere 轻松实现数据库字段加解密](https://mp.weixin.qq.com/s/wkL_C6pygtI9ZPZpBsw5bw)
 + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)
 + [Spring Boot实现多数据源快速入门](https://mp.weixin.qq.com/s/f7zgs2DjM6wKMLXNpSAstg)
@@ -812,6 +817,7 @@
 # 相关文章
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
 + [我患上了空指针后遗症](https://mp.weixin.qq.com/s/TG9KXlGFEh4T-jTBC_gwgw)
++ [“甲骨文牌”Java正在死亡](https://mp.weixin.qq.com/s/cKhgaKdxZazVsCC-SBOmfQ)
 + [Java8的Stream流太难用了？看看JDFrame](https://mp.weixin.qq.com/s/8fqex44MlbQeAyNLSdWS9Q)
 + [手把手教你实现一个Java Agent](https://mp.weixin.qq.com/s/-7SKqe8NEjBkAV2U6LzEPQ)
 + [是时候丢掉 BeanUtils 了！](https://mp.weixin.qq.com/s/CynKvjNqkT-5iMVi-DymPw)
@@ -822,6 +828,7 @@
 + [Java 分布式应用简介](https://my.oschina.net/OutOfMemory/blog/109216)
 + [后台开发必备：每个程序员都应掌握的缓存技术](https://mp.weixin.qq.com/s/pu0w46EGBD6CJmozkMXkrQ)
 + [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
++ [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
 + [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
 + [CTO：谁再在项目中用Hutool，就给我卷铺盖滚蛋！！！](https://mp.weixin.qq.com/s/UZWTlZPCYm2tNjwXsRuVhg)
 + [顶级Javaer都在使用的类库，真香！](https://mp.weixin.qq.com/s/tl9AGQkkX4CqCr5RQvyrPg)

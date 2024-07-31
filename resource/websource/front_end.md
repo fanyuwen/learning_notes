@@ -70,6 +70,7 @@
 # websocket
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)
 + [细说 websocket 快速重连机制](https://my.oschina.net/u/2550800/blog/4420403)
++ [单独对 websocket 抽象封装，支撑了公司不同业务的消息即时通讯！](https://mp.weixin.qq.com/s/C_nGDgias9eXqluWiCrhZw)
 + [赶快收藏！全网最佳websocket封装：完美支持断网重连、自动心跳！](https://mp.weixin.qq.com/s/DmmUa-0OPFcTpf5jW232rw)
 + [WebSocket协议-实战](https://mp.weixin.qq.com/s/Y6WmPw8pjzcRFmcyNYzh7w)
 + [WebSocket协议-概念原理](https://mp.weixin.qq.com/s/osM4z6HC3X3aWIEO-jiTeA)

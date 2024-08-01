@@ -250,6 +250,8 @@
 + [揭秘Cookie、Session、JWT之间的关系](https://mp.weixin.qq.com/s/Y5MWj66Ujc3Jj7UKoa7VNw)
 + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
 + [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/qKLvRnySF9h0jnPbaRoJcQ)
+## 存储
++ [美团大规模 KV 存储挑战与架构实践](https://my.oschina.net/meituantech/blog/11047456)
 # 开发相关
 + [当 “代码农” 遇上 “码农”：揭秘主干开发的那些事儿 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869429)
 + [牛皮！手写一个 RPC 框架](https://mp.weixin.qq.com/s/fS6Y1ycME-g6ggY3xBh4Cg)

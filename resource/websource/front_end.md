@@ -6,6 +6,7 @@
 + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
 + [JavaScript Set 全新方法](https://www.oschina.net/news/298868/javascript-set-methods)
 + [TypeScript模板字符串类型的灵活性](https://mp.weixin.qq.com/s/UoeAdO5JoeBb59Mym6GbgA)
++ [业务代码里的 TypeScript 小技巧](https://my.oschina.net/u/4662964/blog/14920615)
 ### 语言新特性
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
 + [Promise：为什么没有取消？](https://mp.weixin.qq.com/s/DlQih-HI5v74jIOk3ny_7w)

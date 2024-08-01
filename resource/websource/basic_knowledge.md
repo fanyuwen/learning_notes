@@ -136,6 +136,8 @@
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)
 + [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
 + [3 万字 25 道 Nginx经典面试题总结](https://mp.weixin.qq.com/s/kt4qmmD6biRWnBIdj-JTiA)
++ [面向物联网的 NGINX Plus：对 MQTT 流量进行加密和身份验证](https://my.oschina.net/u/5246775/blog/15030939)
++ [借助 NGINX Plus 优化企业环境中的 MQTT 部署](https://my.oschina.net/u/5246775/blog/13371894)
 ### wireshark
 + [使用wireshark第一次捕获数据包](https://mp.weixin.qq.com/s/6wPSoYFI0vfgwUBL6QwG5w)
 + [【网络协议】精讲Wireshark抓包和基本使用！图解超赞超详细！！！](https://mp.weixin.qq.com/s/fc0D8_llGLKq3L8OwWibOA)

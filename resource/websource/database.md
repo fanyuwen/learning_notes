@@ -90,6 +90,7 @@
 + [MySQL主从一致性最全详解(图文全面总结)](https://mp.weixin.qq.com/s/UslMBVOuVITONLJRacSv8A)
 + [美团阿里面试连问：Redis与MySQL双写一致性如何实现？](https://mp.weixin.qq.com/s/hUZ1aFB7SGUmGJULSrcmLg)
 + [MySQL三大日志(binlog、redo log和undo log)详解](https://mp.weixin.qq.com/s/beGPbWn-y1k6zt1JIPgknQ)
++ [完整的推算Mysql单表可存2000万数据的过程](https://mp.weixin.qq.com/s/-lRVEb1GhPFJbYDjqRu4ng)
 + [MYSQL数据库备份](https://mp.weixin.qq.com/s/n5ATPq7-jIHnKOX3h6DUYA)
 + [(二十五)MySQL主从实践篇：超详细版读写分离、双主热备架构搭建教学](https://mp.weixin.qq.com/s/Rnyhk6k0bsp3AIfmDsGpJw)
 + [mysql 快速定位cpu 占比过高的sql语句](https://mp.weixin.qq.com/s/7w8T6fzdcsFQwZzI-W-SXQ)

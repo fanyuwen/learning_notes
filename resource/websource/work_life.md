@@ -25,6 +25,7 @@
 + [国内环境，怎么做开源才能兼顾生存和情怀](https://www.oschina.net/news/303847)
 + [经济越差，越要疯狂做这5件事](https://mp.weixin.qq.com/s/pi7qrQpl0l6XLlnRVh3YDg)
 + [我，在阿里月薪6万，离职后突然惊醒：人越努力，只会越平庸](https://mp.weixin.qq.com/s/_ysif07f4saAG1DuURVNeQ)
++ [学什么技能可以管一辈子](https://mp.weixin.qq.com/s/YcHDfKs7v67fes3MfA9oOQ)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -72,6 +73,7 @@
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
++ [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
 + [2024 年每位开发人员都应使用的 5 种工具](https://mp.weixin.qq.com/s/r5BgqngqKuS8IiFrdI_gug)
 + [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
@@ -177,6 +179,7 @@
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
 + [很难吗？我只用了10分钟就解决了](https://mp.weixin.qq.com/s/EWaWeQbl1RBrq_pfXlDzZQ)
 + [程序员应该掌握的三种编程语言——有Zig无Rust？](https://mp.weixin.qq.com/s/E90nJDzBnBmmm-SbwAUmeg)
++ [从Python到Golang还是Rustlang？学习哪种语言更合适？](https://mp.weixin.qq.com/s/RUcjkPc4aoRNmjYll_HcOQ)
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
 + [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
 + [GitHub 删除代码等于“任何人均可永久访问”！微软回应：这是特性](https://mp.weixin.qq.com/s/oymAZ0VKlOwMPhNqDN8F7w)

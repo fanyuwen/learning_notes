@@ -10,6 +10,8 @@
 ### 语言新特性
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
 + [Promise：为什么没有取消？](https://mp.weixin.qq.com/s/DlQih-HI5v74jIOk3ny_7w)
++ [建议使用 for of 循环？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/LXbW8bRcZEuXa0JvxjJzjQ)
++ [JavaScript 的模板字符串](https://mp.weixin.qq.com/s/5AX2nl_YNE-EwXsbC9wGuA)
 ### 底层
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
 ## 实践

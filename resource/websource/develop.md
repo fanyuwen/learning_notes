@@ -52,6 +52,7 @@
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
 + [微服务Token鉴权设计的几种方案](https://mp.weixin.qq.com/s/YINEVqGziyp99_SiWgmKpQ)
++ [聊聊 微服务 架构中的用户认证方案！](https://mp.weixin.qq.com/s/hWD1TlTsMP03i3TjMOrxtw)
 + [一张图搞懂微服务架构设计](https://mp.weixin.qq.com/s/4upNjgrzzAOhktjiZejoJg)
 + [微服务常用的中间件有哪些？都有什么用途？](https://mp.weixin.qq.com/s/f8zcfKez5UWztY8eY_I3Aw)
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
@@ -218,6 +219,7 @@
 + [我把接口从3s优化到了0.3s!](https://mp.weixin.qq.com/s/oeOpJLw9E8QRURbSOEV4Rg)
 + [提高系统的并发能力方案](https://mp.weixin.qq.com/s/6F_OGrX-4qThxtZ3rcORkw)
 + [性能优化：揭秘神秘面纱！](https://mp.weixin.qq.com/s/7vB6PQbIJNVWVVVBWVC7-Q)
++ [一套万能的异步处理方案！（珍藏版）](https://mp.weixin.qq.com/s/yvJXjU0LLdx03r6Tw7T7CA)
 + [请求合并的3种技巧，性能起飞！](https://mp.weixin.qq.com/s/hYqZIi436nIinRwj_rxjog)
 + [该从哪些方面提升系统的吞吐量？](https://mp.weixin.qq.com/s/NMEUOhajKtqrASkn8Iwung)
 + [12条技巧，打造出超高性能的接口API](https://mp.weixin.qq.com/s/eaAE8i9CJWV_fOeWD52TYw)
@@ -316,6 +318,8 @@
 + [批处理 vs 流处理，如何选择？](https://mp.weixin.qq.com/s/gpjTrbOjZfOht8Kd06ZCew)
 ### JSON
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
+### UUID
++ [UUID 和 UUID v7](https://mp.weixin.qq.com/s/xqu-143w1ae1QgZYH7GcUQ)
 ## 开发流程
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
 + [得物卓越研发效能之路：原则、方法与实践全景揭秘](https://my.oschina.net/u/5783135/blog/11304496)

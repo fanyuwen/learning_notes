@@ -36,6 +36,7 @@
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
++ [Linux /dev 目录揭秘](https://mp.weixin.qq.com/s/o6-Gzu5g4l3Rz6Sq6jVhbg)
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
@@ -57,6 +58,7 @@
 # 计算机基础知识
 ## CPU
 + [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)
++ [一切设计的起点：CPU的架构](https://mp.weixin.qq.com/s/PXPURyvmoyikOntNLiq0Cg)
 + [美团一面，你碰到过CPU 100%的情况吗？你是怎么处理的？](https://mp.weixin.qq.com/s/TcprDRjzQCXQ7OQmJ0E5XQ)
 + [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)

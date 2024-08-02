@@ -18,6 +18,7 @@
 ## 新语言特性
 + [JEP 481：作用域值API的第3个预览版随JDK 23发布，带来关键增强](https://mp.weixin.qq.com/s/woAR6QjUlyWcISwPYRubqA)
 + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
++ [关于虚拟线程的学习、思考和验证](https://mp.weixin.qq.com/s/mOGVl9c3ICw0C_hVQMpWDA)
 + [Project Leyden 早期访问版本开放下载：Java 程序启动速度提升 2 至 3 倍](https://mp.weixin.qq.com/s/inM7uwIC8_AubyXZUhBT1g)
 + [我有点想用 JDK 21 了~](https://mp.weixin.qq.com/s/EZOZnsY4EfCB7cjJzVCkqw)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
@@ -90,6 +91,7 @@
 ## 原理解析
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java 序列化：让对象“穿越时空”](https://mp.weixin.qq.com/s/KNoQha6JR7kn8smpHlMoLg)
++ [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
 + [为什么idea建议使用“+”拼接字符串](https://mp.weixin.qq.com/s/5o2rC0h4nvaeJMVSEsrHAg)
 + [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [深入探讨Java的分层编译](https://mp.weixin.qq.com/s/ZNNyRrjjLlaeepuUByqaGQ)
@@ -176,6 +178,7 @@
 + [公司新来一个同事，把 BigDecimal 运用的炉火纯青！](https://mp.weixin.qq.com/s/xV8aHMJ9CKgXbxZGdWfAgg)
 ## util库
 + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
++ [java.util.Collections有哪些精妙的方法？](https://mp.weixin.qq.com/s/_K-Vwbb7OKZ4WUAFNWOThg)
 + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
 + [HashMap数据结构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/hmcm7nYCIwv-iFiePAamDg)
 + [面试官：HashMap循环中能否添加新key或修改旧key的值？](https://mp.weixin.qq.com/s/SzfZsk8lAREeW1M8dJZbQQ)

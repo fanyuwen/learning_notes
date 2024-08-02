@@ -26,6 +26,7 @@
 + [经济越差，越要疯狂做这5件事](https://mp.weixin.qq.com/s/pi7qrQpl0l6XLlnRVh3YDg)
 + [我，在阿里月薪6万，离职后突然惊醒：人越努力，只会越平庸](https://mp.weixin.qq.com/s/_ysif07f4saAG1DuURVNeQ)
 + [学什么技能可以管一辈子](https://mp.weixin.qq.com/s/YcHDfKs7v67fes3MfA9oOQ)
++ [为什么说程序员不断提高技术可能是误区？](https://mp.weixin.qq.com/s/xMQ6XKiGyg7XtUJ5iSL3Yw)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)

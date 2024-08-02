@@ -18,6 +18,7 @@
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
 + [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
++ [ODPS SQL ——列转行、行转列这回让我玩明白了！](https://mp.weixin.qq.com/s/93EiX5nUeTSxyDOt3SE1CA)
 + [经典SQL50问（5）聚合处理中有NULL值和IFNULL（）函数的使用](https://mp.weixin.qq.com/s/lTQnP5kinV9WpH64PDYUOw)
 + [SQL的执行顺序以及它的重要性与元数据](https://mp.weixin.qq.com/s/jq3KwBJJMxl61GR-fUsv-g)
 + [SQL性能优化神器：explain 执行计划](https://mp.weixin.qq.com/s/h9-z3CyHJpaBteks999RQA)

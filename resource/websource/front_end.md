@@ -24,6 +24,7 @@
 + [精进 JavaScript ｜ 这些手写你都会吗 ？](https://mp.weixin.qq.com/s/evXB9E23xilkHGDg4iTTYw)
 + [5 个有用的 JavaScript 代码片段，让你像专业人士一样编写代码](https://mp.weixin.qq.com/s/oTJaMsjqTudKNpxYJpvLaQ)
 + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
++ [每个 JavaScript 开发人员都应该知道的小技巧二](https://mp.weixin.qq.com/s/CDjDCubcU6395Ma3oWpe-g)
 + [16 个日常开发必备的JavaScript 代码片段](https://mp.weixin.qq.com/s/ooxHEiZSZbbxhBDMlZxt4w)
 + [49个常用JavaScript方法封装【收藏】](https://mp.weixin.qq.com/s/BkhjxG8azO4Yhn5NwAkSGw)
 + [LocalStorage的使用教程](https://mp.weixin.qq.com/s/tC_zF-0KdbMHaRf5pxRlYg)

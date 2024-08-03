@@ -75,6 +75,7 @@
 + [Pyqtgraph，一个牛逼的python库](https://mp.weixin.qq.com/s/fcjCY4Y89sNgXs7pHYpCpQ)
 + [Dnspython ，世界最牛逼的Python库](https://mp.weixin.qq.com/s/JSpIdQsjRrBMLZ7PQGWtSQ)
 + [anyio,一个强大的python库](https://mp.weixin.qq.com/s/VEZncEI6XwV_2b2NwGJgCQ)
++ [adb_shell,一个五脏俱全的库](https://mp.weixin.qq.com/s/EwJDNj2BTVGws_WUVKaslw)
 + [Luigi，一个牛逼的python库](https://mp.weixin.qq.com/s/EVIg6J6oGQf44zbghQt-eg)
 + [Pydub，一个牛逼的python库](https://mp.weixin.qq.com/s/XJajtr5NWjcNO8Q1vNwY3A)
 + [blusky，一个Python中非常有用的库](https://mp.weixin.qq.com/s/eszZUMrX1ZBpHudE_lz5xQ)

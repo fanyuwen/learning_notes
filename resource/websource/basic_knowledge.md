@@ -11,6 +11,7 @@
 ## linux
 ### 实践
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
++ [深度探索：Linux内核优化高级指南](https://mp.weixin.qq.com/s/_MWGW9ORXopTmK3WczxszA)
 + [Linux 高端宝典：成为系统大师的秘籍](https://mp.weixin.qq.com/s/h9gw-a2wfPDGcvs1RQ-sow)
 + [Linux会话保持命令Screen教程](https://mp.weixin.qq.com/s/sZoQbrI7iiGWA0IoLkiOWg)
 + [Linux高性能编程_无锁队列](https://mp.weixin.qq.com/s/4tnAYIry-kwS0PvDTxN-qQ)

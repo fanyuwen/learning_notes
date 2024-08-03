@@ -57,6 +57,7 @@
 
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8函数式编程全攻略：43种函数式业务代码实战案例解析(收藏版)](https://mp.weixin.qq.com/s/uv5vDPinVJRBfW6nl4om-A)
++ [Java8中一个极其强悍的新接口，炸裂！很多人没用过](https://mp.weixin.qq.com/s/Qkicx2aTiI95Km481jHfdg)
 + [如何去掉代码中的if...else](https://mp.weixin.qq.com/s/4kL1JS5e8a5qrRasaTZafg)
 + [Java 中的 script 引擎在游戏中的使用](https://my.oschina.net/OutOfMemory/blog/527483)
 + [for 循环为何可恨？](https://my.oschina.net/justjavac/blog/66625)
@@ -464,6 +465,7 @@
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
 + [SpringBoot 自定义启动画面](https://mp.weixin.qq.com/s/fTopmeWtmHfaA7aH8YYJBw)
++ [使用 Spring Boot + Resilience4J 实现断路器功能开发](https://mp.weixin.qq.com/s/V4EEUmJJveGC3d0-KWn_VQ)
 + [手写Spring Boot启动器：实现布隆过滤器](https://mp.weixin.qq.com/s/nbR9D5F0tjZfNxYWjU1mdA)
 + [SpringBoot3 必须掌握的 JVM 优化技巧](https://mp.weixin.qq.com/s/enr8O4nH-1Wf2B9aVifnWA)
 + [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/6hxdIV60bcLqCEs-KUsbcA)

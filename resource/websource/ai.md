@@ -15,6 +15,7 @@
 + [为什么都放弃了LangChain？](https://mp.weixin.qq.com/s/mtaXOGFw3852F1RsZNqF4Q)
 + [不要只看表面就说复杂，搞不清楚in-place操作和广播机制的意义，建议看这篇！](https://mp.weixin.qq.com/s/OGUBhQP7ST0LWbxUKT_jhg)
 + [AI使用体验之ChatGPT帮我写代码](https://mp.weixin.qq.com/s/ZxcbGv_cBiaFqww0zQgYcg)
++ [数据精炼利器：Boruta算法进行特征筛选](https://mp.weixin.qq.com/s/izJKHdgb_iz5YytSHlc08Q)
 + [AI+项目管理，正确打开方式（附提示词）](https://mp.weixin.qq.com/s/BNVzk2n8oG1j_fraVInlOQ)
 + [LLM学习笔记 - Prompt技巧](https://mp.weixin.qq.com/s/ssswf30VqG_bvxh53IRiyA)
 + [KV Cache的想法](https://mp.weixin.qq.com/s/DqoNZNvN2WEUeJzA9SF-oA)

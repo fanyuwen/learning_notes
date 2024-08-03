@@ -58,6 +58,7 @@
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
 + [微服务架构设计模式详解(4种常见模式)](https://mp.weixin.qq.com/s/yrk_ogdNTJLkWXCBDyN1jQ)
 + [架构之问31：微服务架构8大设计模式与实践](https://mp.weixin.qq.com/s/dhkD0nS3w6YaMIlVodcOcg)
++ [告别混乱，一次性掌握微服架构设计！](https://mp.weixin.qq.com/s/gdkUPaNC8IFZKbpskZ_yBw)
 + [微服务架构落地及其演进](https://mp.weixin.qq.com/s/6LwUOQPdFXJjltU1ftGrpA)
 + [微服务架构设计最全详解(图文全面总结)](https://mp.weixin.qq.com/s/GSOM1j0mQ-atFrLCcyFuJg)
 + [微服务部署架构最全详解(4大主流部署架构)](https://mp.weixin.qq.com/s/-tO1WhkNkale2u6r7cdl1g)
@@ -230,6 +231,7 @@
 + [性能优化｜几个方法让图片加载更快一些](https://mp.weixin.qq.com/s/6YUuE8IJ-B9XF9On6LmLKw)
 + [我用两个方法就将接口响应时间从2s优化到了100ms](https://mp.weixin.qq.com/s/LfgE-GQ7IWRtJQFfO4hULw)
 + [一行代码，我优化掉了1G内存占用](https://mp.weixin.qq.com/s/JvhxaioE9UhDbdlu2ECoiA)
++ [多人同时导出 Excel 干崩服务器？大佬给出的解决方案太优雅了！](https://mp.weixin.qq.com/s/pu2WNCVDZYdHplF_q5dthw)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
@@ -295,6 +297,7 @@
 ## 业务领域
 + [传统模式OUT！新零售思维好在哪？](https://mp.weixin.qq.com/s/mg1lvDj9Uig8Ue4nUowhDQ)
 + [订单管理系统需求规范](https://mp.weixin.qq.com/s/zAaEu6sRJMUJViCLTH-YbA)
++ [聊聊支付流程的设计与实现逻辑](https://mp.weixin.qq.com/s/-qXfw9HWP7PLNfQGwQxysQ)
 ## 代码相关
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
@@ -316,6 +319,7 @@
 + [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
 ## 领域知识
 + [批处理 vs 流处理，如何选择？](https://mp.weixin.qq.com/s/gpjTrbOjZfOht8Kd06ZCew)
++ [流程编排与接口集成的区别](https://mp.weixin.qq.com/s/3US0myV2syer4bqmOF7SYw)
 ### JSON
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 ### UUID
@@ -339,6 +343,7 @@
 + [你合并代码用 merge 还是用 rebase ?](https://mp.weixin.qq.com/s/SRdfXUDRaj9aQKRzbz9BWQ)
 + [代码合并冲突不断通宵解决，你的团队应该引入这种代码分支策略！](https://mp.weixin.qq.com/s/IhT9HVmoegQe3BC4_mZoWw)
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)
++ [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/frJzXx3LFycUgXzFP8lL9w)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
 ### 编程范式
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)

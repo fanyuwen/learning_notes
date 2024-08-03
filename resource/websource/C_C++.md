@@ -10,6 +10,7 @@
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
 + [C++文件操作一次搞懂吧](https://mp.weixin.qq.com/s/NKeTTaRCLH388NjV3fQnVg)
++ [面试题：C++为什么推荐使用static_cast而不是C风格的(int)x？](https://mp.weixin.qq.com/s/WeF1lHvnZem1g5Crh6KRmg)
 + [C++ proto 结构化数据](https://mp.weixin.qq.com/s/gESkxLQ1fmr-sVNFN7sRHg)
 + [面试题：什么函数不能声明为虚函数？](https://mp.weixin.qq.com/s/JOVsp5sa2Uu2tsH1mYs1zA)
 + [面试题：结构体可以直接赋值吗？](https://mp.weixin.qq.com/s/uOErofJXU2a1M9Ovj2W0uQ)

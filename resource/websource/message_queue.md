@@ -54,6 +54,7 @@
 + [分布式事务实现方案：一文详解RocketMQ事务消息](https://mp.weixin.qq.com/s/L3_2423A7EIwShAWeyxdqg)
 + [RocketMQ高性能架构详解(图文全面总结)](https://mp.weixin.qq.com/s/uDg2aKpOZmiaLFPezj3T5w)
 + [RocketMQ最全详解(图文全面总结)](https://mp.weixin.qq.com/s/NBrt6Lkp3bBw3_9bfrK8sA)
++ [RocketMQ 如何保证发送消息不丢失？](https://mp.weixin.qq.com/s/Js96u9dnvjbDQcKM-9ANtw)
 # RABBITMQ
 + [RabbitMQ如何保证消息可靠性？](https://mp.weixin.qq.com/s/PkKcFdAyTlrWZ14pzuUe2A)
 + [这才是RabbitMQ打开的正确姿势 , 七种消息模型理论 + 图文 + 代码解析, 懂了](https://mp.weixin.qq.com/s/7ivKSwzpiijE60UfJtXQ0w)

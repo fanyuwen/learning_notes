@@ -167,6 +167,7 @@
 ## 有用趣闻知识
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [两位巨佬吃了一顿晚饭，整个互联网彻底被改变了！](https://mp.weixin.qq.com/s/wsDGJTRLjdG8WfdDDlDV8w)
++ [Go项目我不领导了，我去做AI了](https://mp.weixin.qq.com/s/vsoLl6szzeHhFctOMLkA3A)
 + [63.5岁程序员退休；用Nim编写的业余OS;,提及热情消退;谷歌Gemini AI扫描用户文件;Rust在Linux文件系统](https://mp.weixin.qq.com/s/b6S8qmdj8oE7ZbA3a_adgQ)
 + [为什么Python之父至今还是一个程序员，不做Leader不做管理](https://mp.weixin.qq.com/s/Gq7_kNuTO8BQcNOE23dTGA)
 + [一图了解常见开源协议](https://mp.weixin.qq.com/s/vSSuLQIkp11mOGY8iYkwDw)

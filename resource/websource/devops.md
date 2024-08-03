@@ -11,6 +11,7 @@
 + [“一键打包，秒级部署”：揭秘高手们的丝滑操作，让项目上线如行云流水！](https://mp.weixin.qq.com/s/-8YOGeJDoXfC2QPDiAf8iA)
 + [持续集成与持续交付 (CI/CD)](https://mp.weixin.qq.com/s/RpsUC4_BXx3ZlRyqN4y5QA)
 + [程序员必知必懂运维技术](https://mp.weixin.qq.com/s/x1oTSVzZNUsBHLO9i3wD7Q)
++ [亿级流量下的故障事前预防：B站如何从0-1构建变更防控体系？](https://mp.weixin.qq.com/s/LMNTPhQNYVo6w5ir9ZL0wg)
 ## JENKINS
 + [Jenkins 使用之邮件模板配置](https://my.oschina.net/u/2512041/blog/4377210)
 + [图解 Jenkins Pipeline 的前端自动化部署，用上后真香！](https://mp.weixin.qq.com/s/fU_aeRV5gmtfgnVUrTwobg)

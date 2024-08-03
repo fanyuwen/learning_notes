@@ -213,6 +213,7 @@
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)
++ [MySQL 如何实现索引机制](https://mp.weixin.qq.com/s/KMYIGyf-PJTsNgV1rPUGag)
 + [告别慢如蜗牛的搜索，MySQL全文索引来帮你！](https://mp.weixin.qq.com/s/vcfGx5aKugJ7T8vogtD4lA)
 + [为什么你的索引会失效？](https://mp.weixin.qq.com/s/b4CDWYkpBWb280MwUAEeKg)
 + [深入探索MySQL索引策略](https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g)
@@ -398,5 +399,7 @@
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
 + [4、Flink源码系列:map、flatMap、KeyBy源码分析](https://mp.weixin.qq.com/s/4baA-9idb7qaBIRPp8Z6Iw)
 + [5、Flink源码系列：window、sum源码分析](https://mp.weixin.qq.com/s/-kS4KiaefVLY9zbgqPjNcw)
+## spark
++ [用户画像系列——Spark任务调优实践](https://mp.weixin.qq.com/s/4JJQhu8IBcGIx0_K-oZsGA)
 ## Iceberg
 + [Iceberg关键技术之表格式元数据管理](https://mp.weixin.qq.com/s/5NBXxoqAZUN6LIe1_RO0CQ)

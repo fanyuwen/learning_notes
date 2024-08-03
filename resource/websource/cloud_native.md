@@ -45,6 +45,7 @@
 + [一文进阶Kubernetes企业实战经验](https://mp.weixin.qq.com/s/A7edhHgyF2S7o3xYpPby5A)
 + [50+k8s常用命令，助你成为k8s大牛！](https://mp.weixin.qq.com/s/qsheI2pBfKt10g2_jWDKdw)
 + [K8S原理最全详解(万字图文总结)](https://mp.weixin.qq.com/s/U2Ad2dOokxBfayqiiAjH1w)
++ [Kubernetes(K8S)最全详解(万字图文总结)](https://mp.weixin.qq.com/s/X_bL0iAOrury1IXlKai-bQ)
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
 + [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)
 + [10 张图，说透 Kubernetes 架构和数据流](https://mp.weixin.qq.com/s/7Rck-WUV8kJSxTQtDZYNMQ)

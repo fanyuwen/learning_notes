@@ -72,6 +72,7 @@
 ## 内存
 + [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
 + [探索x86-64架构：内存分页机制的奥秘](https://mp.weixin.qq.com/s/D7DjObzAZjLJLd9GSvrmEg)
++ [四大内存区域揭秘：你真的了解你的程序吗？](https://mp.weixin.qq.com/s/hJ-EbMmSx0RS-L9PNkNAjw)
 ## GPU
 + [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
 ## 网络基础
@@ -152,6 +153,7 @@
 + [阿里面试：NIO为什么会导致CPU100%？](https://mp.weixin.qq.com/s/1yZft2djYFZJAi6-pbxN1A)
 + [后端程序员，你们真不懂操作系统内核IO。。。](https://mp.weixin.qq.com/s/dIqlZ5P8k6GqJkYb8fOHag)
 + [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)
++ [1000W长连接，如何建立和维护？千万用户IM ，如何架构设计?](https://mp.weixin.qq.com/s/juLGcZL2jkThbldPwRLNnw)
 + [失业反击：一文教你用IO知识惊艳面试官，10年经验大公开！](https://mp.weixin.qq.com/s/P8FPkMmlZeyYyumzqAz4RQ)
 + [socket缓冲区大小从哪里来](https://mp.weixin.qq.com/s/6GckWxohV8V5stNEqBh1tw)
 + [图解IO多路复用之Select实现原理](https://mp.weixin.qq.com/s/KN7BiqGrblCmrVnWVs4A-w)

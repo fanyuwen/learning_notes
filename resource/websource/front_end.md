@@ -1,20 +1,29 @@
 # JAVASCRIPT & TYPESCRIPT
+
 ## 语言相关
+
 ### 语法
+
 + [无人不识又无人不迷糊的 this](https://my.oschina.net/u/4526289/blog/11049046)
 + [ES6 生成器，看似同步的异步流程控制表达风格](https://my.oschina.net/u/4526289/blog/11051652)
 + [彻底弄懂 Javascript 模块导入导出](https://my.oschina.net/helloworldnet/blog/5619981)
 + [JavaScript Set 全新方法](https://www.oschina.net/news/298868/javascript-set-methods)
 + [TypeScript模板字符串类型的灵活性](https://mp.weixin.qq.com/s/UoeAdO5JoeBb59Mym6GbgA)
 + [业务代码里的 TypeScript 小技巧](https://my.oschina.net/u/4662964/blog/14920615)
+
 ### 语言新特性
+
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
 + [Promise：为什么没有取消？](https://mp.weixin.qq.com/s/DlQih-HI5v74jIOk3ny_7w)
 + [建议使用 for of 循环？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/LXbW8bRcZEuXa0JvxjJzjQ)
 + [JavaScript 的模板字符串](https://mp.weixin.qq.com/s/5AX2nl_YNE-EwXsbC9wGuA)
+
 ### 底层
+
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
+
 ## 实践
+
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
@@ -46,8 +55,11 @@
 + [WPS-JSA 案例重做：有关JSA里属性与方法显示问题的坑（个人见解）](https://mp.weixin.qq.com/s/c0pkhh6a9istvWDPy7RQ9g)
 + [WPS-JSA 从累加器看数组的reduce方法](https://mp.weixin.qq.com/s/F5sgh0iOluCRuRBSqKL-1w)
 + [WPS-JSA 了解Date函数与时间戳](https://mp.weixin.qq.com/s/hgTeJcCwcOJ3q6FvhIeong)
+
 # 框架
+
 ## vue
+
 + [偷学一波 Vue 3 !](https://mp.weixin.qq.com/s/B7W0svQC6ds12Jhwk9c2XQ)
 + [【Vue3】4个比较重要的设计模式！！](https://mp.weixin.qq.com/s/plq6q7F6JTj1rXnlWMGoSA)
 + [新一代 Vue 开发者工具 ——Vue DevTools Next 发布浏览器扩展](https://www.oschina.net/news/299829/vue-devtools-next-chrome-extension)
@@ -62,7 +74,9 @@
 + [Vue3中的全局组件注册方法如何？它与Vue2有何不同？](https://mp.weixin.qq.com/s/2-EjDfTZz4LPdPGHO7oHdQ)
 + [元素缩放？一个vue指令搞定](https://mp.weixin.qq.com/s/nw9let6yrfypz2fVMA2uYg)
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
+
 ## react
+
 + [为您的 Next.js-React 项目收集的自定义 Hook 集合](https://mp.weixin.qq.com/s/csUjKSE8_jOWlWaKnEInew)
 + [了解 React 和 Vite 中的服务器端渲染 (SSR)](https://mp.weixin.qq.com/s/hQauL5syYoDZpd8NTeWKdw)
 + [React Context：向嵌套很深的子组件传递数据](https://mp.weixin.qq.com/s/BzGuSeBByk1hfL0d2F4Lug)
@@ -71,11 +85,17 @@
 + [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)
 + [2024 React 生态工具最能打的组合！](https://mp.weixin.qq.com/s/-YBMFwrbnidf79tRwhEYsA)
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
+
 ### react native
+
 + [React Native 终于“妥协”了！](https://mp.weixin.qq.com/s/0ieve3nqLCBRekG-xvL3uQ)
+
 ## svelte
+
 + [Rich Harris 承诺：使用 Svelte 5.0 你将编写更少的代码](https://mp.weixin.qq.com/s/0e85taqdJkJHEK_-gFFQ1Q)
+
 # websocket
+
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)
 + [细说 websocket 快速重连机制](https://my.oschina.net/u/2550800/blog/4420403)
 + [单独对 websocket 抽象封装，支撑了公司不同业务的消息即时通讯！](https://mp.weixin.qq.com/s/C_nGDgias9eXqluWiCrhZw)
@@ -83,18 +103,29 @@
 + [WebSocket协议-实战](https://mp.weixin.qq.com/s/Y6WmPw8pjzcRFmcyNYzh7w)
 + [WebSocket协议-概念原理](https://mp.weixin.qq.com/s/osM4z6HC3X3aWIEO-jiTeA)
 + [WebSocket协议-源码分析](https://mp.weixin.qq.com/s/HD4FMKLvHkqBlWDFqWRcqg)
+
 # 工具
+
 ## node
+
 + [一文了解 npm install -g 和 npm install --save-dev 的关系](https://my.oschina.net/u/4526289/blog/11183599)
 + [Node学习-CommonJS 模块规范](https://mp.weixin.qq.com/s/Jhlmsv7T_HSVs7Wna4Zt3w)
 + [Nest实现CRUD](https://mp.weixin.qq.com/s/3jlwTHx26rIw6pnPqZJiFw)
+
 ## vite
+
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
+
 # 架构相关
+
 + [实践总结｜前端架构设计的一点考究](https://my.oschina.net/u/4662964/blog/11051025)
+
 # 实践
+
 + [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
+
 # 杂谈
+
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [当前端谈数据时，我们在谈些什么](https://my.oschina.net/u/4662964/blog/12380685)
 + [V8引擎的运行原理](https://mp.weixin.qq.com/s/Y4YKLciMvsaQvw47LiEwXA)

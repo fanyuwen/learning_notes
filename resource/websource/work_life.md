@@ -222,3 +222,5 @@
 + [Marker：您的PDF到Markdown转换专家 —— 快速、准确、全语言支持](https://mp.weixin.qq.com/s/CITInW4H_8rPkmRt_mmNTg)
 ### 学习资源
 + [实用开源电子书合集](https://mp.weixin.qq.com/s/YmHowFdo8w9hvSHIByOe5A)
++ [斯坦福力荐： 《最优化算法》，500页深度解析！](https://mp.weixin.qq.com/s/w5A4WfQQOelWCa81OXemSQ)
++ [426页机器学习巨著，解锁机器学习95%问题!](https://mp.weixin.qq.com/s/LwtsPFto2m-iNmtlE5YWOQ)

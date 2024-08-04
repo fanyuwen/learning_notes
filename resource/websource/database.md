@@ -423,6 +423,7 @@
 ### keyDB
 
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
++ [Redis Plus 来了，性能炸裂！](https://mp.weixin.qq.com/s/7HppOa1nE_WQ4fNSJRiliQ)
 
 ### APACHE DORIS
 

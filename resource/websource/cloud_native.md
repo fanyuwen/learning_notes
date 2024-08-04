@@ -59,3 +59,7 @@
 + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
 ## Istio
 + [Istio注入中断故障](https://mp.weixin.qq.com/s/h7OgscCEXjLdv7aUXRn6fA)
+## ServiceMesh
++ [ServiceMesh 未来的思考和探索](https://mp.weixin.qq.com/s/lxVV9D7pcaiaNHkp1lhu0Q)
+## ETCD
++ [ETCD集群管理，看这一篇干货就够了](https://mp.weixin.qq.com/s/HU3BuVljfL0rHLWWYmlSqA)

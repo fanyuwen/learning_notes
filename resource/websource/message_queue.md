@@ -22,6 +22,7 @@
 + [Kafka高可用性指南：提高数据一致性和集群容错能力！](https://mp.weixin.qq.com/s/1BSRATbb_k7sUDE60snpbg)
 + [Kafka消费端怎样保证消息不丢失？真正的处理方式其他文章中竟然没有见过](https://mp.weixin.qq.com/s/FmbJsGoXW24o1xXsqQ--Fw)
 + [Kafka如何保证消息不被重复消费？](https://mp.weixin.qq.com/s/IrR-rFXlqU3-COmVkP-n3w)
++ [kafka集群](https://mp.weixin.qq.com/s/CMYowmUog4yK7qiMGDFKng)
 + [kafka可靠性与数据一致性](https://mp.weixin.qq.com/s/IEzwDCgw8_HBmU-Nb4Yd5g)
 + [从零开始掌握Kafka Rebalance和分区分配](https://mp.weixin.qq.com/s/7qfIoQjNXvJKSM71VCJBtw)
 + [彻底搞懂Kafka生产消费流程，这篇文章就够了！](https://mp.weixin.qq.com/s/do-a0XMo-8pHDZ-IarKSbA)
@@ -58,6 +59,7 @@
 + [RocketMQ 如何保证发送消息不丢失？](https://mp.weixin.qq.com/s/Js96u9dnvjbDQcKM-9ANtw)
 # RABBITMQ
 + [RabbitMQ如何保证消息可靠性？](https://mp.weixin.qq.com/s/PkKcFdAyTlrWZ14pzuUe2A)
++ [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/d5rNHiEDWaisFXMxbzgrAg)
 + [这才是RabbitMQ打开的正确姿势 , 七种消息模型理论 + 图文 + 代码解析, 懂了](https://mp.weixin.qq.com/s/7ivKSwzpiijE60UfJtXQ0w)
 + [面试官：引入 RabbitMQ 后，如何保证全链路数据 100% 不丢失？](https://mp.weixin.qq.com/s/ZPz3GdWp8PLdn1OU36w81Q)
 + [Nest 接入消息队列 RabbitMQ](https://mp.weixin.qq.com/s/rAuYgW3RoOfiqg70PLhyFw)

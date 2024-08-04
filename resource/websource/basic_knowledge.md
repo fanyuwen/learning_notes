@@ -45,6 +45,7 @@
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
 ### 命令
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
++ [七个运维必备的Shell自动化脚本](https://mp.weixin.qq.com/s/JXjERsm03PDSUXVuPiJkQA)
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
 + [Linux强大的网络命令：curl，一篇文章讲通透！](https://mp.weixin.qq.com/s/JcKutFM94S3Srshw9SlN6g)
 + [Linux基础知识之man手册页](https://mp.weixin.qq.com/s/ysw8OtmOfik0ua5tj6zFmQ)
@@ -60,6 +61,7 @@
 ## CPU
 + [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)
 + [一切设计的起点：CPU的架构](https://mp.weixin.qq.com/s/PXPURyvmoyikOntNLiq0Cg)
++ [CPU 使用率和使用量](https://mp.weixin.qq.com/s/noPoCJRbc4iEd13va8Lt3w)
 + [美团一面，你碰到过CPU 100%的情况吗？你是怎么处理的？](https://mp.weixin.qq.com/s/TcprDRjzQCXQ7OQmJ0E5XQ)
 + [字节面试：CPU被打满/CPU100%，如何处理？](https://mp.weixin.qq.com/s/UKoNhQKMMyWI1kw9XwiJ2A)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/H6h0F9VP-EyejjmwkVQPpA)
@@ -106,6 +108,7 @@
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/g4VVUbF7RzM1wOS_aIvVHw)
 + [从零开始掌握HTTP协议：全面详解1.0、1.1和2.0](https://mp.weixin.qq.com/s/-Dp08X3qe0AaAQQtwBZ_WA)
 + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
++ [一张图就把HTTPS工作原理讲明白了！](https://mp.weixin.qq.com/s/mVph1mUHyzFOeGHfa70Uxg)
 + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)

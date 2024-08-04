@@ -26,6 +26,7 @@
 + [优化代码结构-建造者模式(Builder Pattern)](https://mp.weixin.qq.com/s/yDZQl6eBRhfAqjzGa6I2QA)
 # 代理模式
 + [静态代理设计模式(Static Proxy)](https://mp.weixin.qq.com/s/2oJ6K8z2SA7KyW7I5_KnUQ)
++ [Java代理模式最全详解(实现原理及应用场景)](https://mp.weixin.qq.com/s/9DRLu5XYNDvDE8xqSAT9ag)
 # 适配器模式
 + [优化代码结构-适配器模式(Adapter Pattern)](https://mp.weixin.qq.com/s/ez-Y4kNi-WSDKhIen4xbUA)
 # 策略模式

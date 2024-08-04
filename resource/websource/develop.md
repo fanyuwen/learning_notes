@@ -52,6 +52,7 @@
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
 + [微服务Token鉴权设计的几种方案](https://mp.weixin.qq.com/s/YINEVqGziyp99_SiWgmKpQ)
++ [微服务中token鉴权设计的4种方式总结](https://mp.weixin.qq.com/s/34SnX4LyNvx3Pu6D7ezUBA)
 + [聊聊 微服务 架构中的用户认证方案！](https://mp.weixin.qq.com/s/hWD1TlTsMP03i3TjMOrxtw)
 + [一张图搞懂微服务架构设计](https://mp.weixin.qq.com/s/4upNjgrzzAOhktjiZejoJg)
 + [微服务常用的中间件有哪些？都有什么用途？](https://mp.weixin.qq.com/s/f8zcfKez5UWztY8eY_I3Aw)
@@ -84,6 +85,7 @@
 + [分布式方案最全详解(图文全面总结)](https://mp.weixin.qq.com/s/QTDRVFAPxWhHDbXsM1llRw)
 + [40张图带你看懂分布式追踪系统原理及实践](https://mp.weixin.qq.com/s/GpiiLaaygPU1oPIk2YGQRg)
 + [分布式RPC最全详解(图文全面总结)](https://mp.weixin.qq.com/s/PTdcNXfv9x6QvnSpj-eCoA)
++ [分布式集群的基本概念](https://mp.weixin.qq.com/s/6kXp0dQi2JAublRkCANfoQ)
 + [分布式链路追踪系统设计](https://mp.weixin.qq.com/s/VYDnOirzrw_kMIVz0AFy7w)
 + [分布式链路追踪最全详解(图文全面总结)](https://mp.weixin.qq.com/s/YsYIZ3bEEd4h67NgBr0VFQ)
 + [分布式链路追踪，一文帮你掌握它！](https://mp.weixin.qq.com/s/90TPpwXEKmMHIosh4Z-Qkw)
@@ -304,6 +306,7 @@
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
 ## 接口相关
 + [这才是后端API接口应该有的样子，巴适！！](https://mp.weixin.qq.com/s/18AW7hUK2K_LAKVKx8IqOA)
++ [不服不行，这才是后端API接口应该有的样子！](https://mp.weixin.qq.com/s/yWFUhp1THDR99DhEjLOGqA)
 + [API设计秘籍：从入门到精通](https://mp.weixin.qq.com/s/wSEWRBrtO92WG-37Q-P9gg)
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)

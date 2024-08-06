@@ -341,6 +341,7 @@
 + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)
 + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
++ [Git 如何撤回已 Push 的代码](https://mp.weixin.qq.com/s/5_vzTmw85hDXILdA1BTLRA)
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/bfzGnbOhpLsTLDeQD0fL9w)
 + [git merge 和 git rebase，如何选择？](https://mp.weixin.qq.com/s/CuuO6u16GysWS9dB5NvgXg)
 + [你合并代码用 merge 还是用 rebase ?](https://mp.weixin.qq.com/s/SRdfXUDRaj9aQKRzbz9BWQ)

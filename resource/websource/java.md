@@ -56,6 +56,7 @@
 ## 高级用法
 
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
++ [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
 + [断言+异常处理类，代码更简洁了](https://mp.weixin.qq.com/s/r4WYftw0Nvyslgl-I-bmqg)
 + [Java 8函数式编程全攻略：43种函数式业务代码实战案例解析(收藏版)](https://mp.weixin.qq.com/s/uv5vDPinVJRBfW6nl4om-A)
 + [Java8中一个极其强悍的新接口，炸裂！很多人没用过](https://mp.weixin.qq.com/s/Qkicx2aTiI95Km481jHfdg)
@@ -217,6 +218,7 @@
 + [Optional 是个好东西，你真的会用嘛？](https://mp.weixin.qq.com/s/xLlq_t_Y1GUrYMWK_tvAxA)
 + [Java Comparator 珍藏版](https://mp.weixin.qq.com/s/KjCOIPqUbaqyHAu2sEKFhw)
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
++ [java io的应用场景举例](https://mp.weixin.qq.com/s/BOm6ZEjiM3URfOZOSRkI0A)
 
 ## concurrent库
 
@@ -988,6 +990,7 @@
 # 相关文章
 
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [如何Docker 化 Java 应用程序（逐步教程）](https://mp.weixin.qq.com/s/xf5boeMzuShLcviikQL5yw)
 + [我患上了空指针后遗症](https://mp.weixin.qq.com/s/TG9KXlGFEh4T-jTBC_gwgw)
 + [“甲骨文牌”Java正在死亡](https://mp.weixin.qq.com/s/cKhgaKdxZazVsCC-SBOmfQ)
 + [Java8的Stream流太难用了？看看JDFrame](https://mp.weixin.qq.com/s/8fqex44MlbQeAyNLSdWS9Q)

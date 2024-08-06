@@ -17,6 +17,7 @@
 + [丝滑的打包部署，一套带走！](https://mp.weixin.qq.com/s/yfDN9Vb3peR11XnxRxns-Q)
 + [云原生技术最全详解(图文全面总结)](https://mp.weixin.qq.com/s/yEmrmHC4SCZCLcTzQmhK2Q)
 + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
++ [开发者必备神器: find-container-process 一键让容器进程无所遁形](https://mp.weixin.qq.com/s/5b_BeDg3LPzPDApvH0HnkQ)
 ## docker
 + [如何缩小docker容器镜像](https://mp.weixin.qq.com/s/1Rswv3svndVZ-XvFR-hgFg)
 + [你不知道的 Dockerfile 增强新语法](https://mp.weixin.qq.com/s/jcyxEc32kGErm2XBekvlSg)

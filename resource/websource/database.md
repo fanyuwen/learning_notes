@@ -463,6 +463,7 @@
 + [FlinkSQL 开发经验分享](https://my.oschina.net/u/4662964/blog/11213861)
 + [4、Flink源码系列:map、flatMap、KeyBy源码分析](https://mp.weixin.qq.com/s/4baA-9idb7qaBIRPp8Z6Iw)
 + [5、Flink源码系列：window、sum源码分析](https://mp.weixin.qq.com/s/-kS4KiaefVLY9zbgqPjNcw)
++ [Flink 1.20 版本发布，一些值得注意的特性！](https://mp.weixin.qq.com/s/GfN6gT7blpzHpojC8hLg9A)
 
 ## spark
 

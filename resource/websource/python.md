@@ -28,6 +28,7 @@
 + [Python的属性管理：深入理解@property装饰器及其getter和setter方法](https://mp.weixin.qq.com/s/TVo_cPE_vGJQZHXZSsShGQ)
 + [探索Python生成器的奥秘：高效迭代与内存优化的艺术](https://mp.weixin.qq.com/s/nKzZStL-8pmdp5KVlhKv_Q)
 + [python---核心函数 1](https://mp.weixin.qq.com/s/V5zX3tuCX9ccH5pVQqPloQ)
++ [Python神奇符号：*args、**kwargs和 / ，你真的会用吗？](https://mp.weixin.qq.com/s/a1UznFN5WQdAvKbaNwkCLg)
 + [一文掌握Python全部条件执行语句（基础篇）](https://mp.weixin.qq.com/s/4XWcEXEKmZFwH8VJwzo_aw)
 + [Python 常用的 9个硬核的函数，你知道几个？](https://mp.weixin.qq.com/s/50_JGK9s8ggVbsdtD0EDAA)
 + [Python101 —— Python解析式、迭代器和生成器](https://mp.weixin.qq.com/s/BVyjssuwYiulyJ8fkYCn1g)
@@ -35,6 +36,7 @@
 + [`__new__` 和 `__init__` 在 Python 中有何不同？答案可能出乎你的意料](https://mp.weixin.qq.com/s/pzK1kqq2LupfAxZ6H8YVSA)
 + [自学Python之注释](https://mp.weixin.qq.com/s/WiY7lfGMJn2cGUr-gEKJaw)
 + [Python 排序之争：sort和sorted，你选对了吗？](https://mp.weixin.qq.com/s/ySHoAatyT7WRTz9W1kDbcw)
++ [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 + [Python 高级编程技巧是：元类（Metaclasses）](https://mp.weixin.qq.com/s/-9nqPkxJDmV12-4p9ZtCQw)
 + [5分钟彻底弄懂Python布尔逻辑妙用](https://mp.weixin.qq.com/s/-EEYrDfafK-zX3tvU-zQPA)
@@ -65,7 +67,10 @@
 + [fastapi,一个强大的python库](https://mp.weixin.qq.com/s/nciH2SYDaCwfAw2l2h8Keg)
 + [Python生态下的微服务框架FastAPI](https://mp.weixin.qq.com/s/0HJIadUydtw5awMPjCiR8w)
 + [Python 日志处理 logging 模块](https://my.oschina.net/u/2512041/blog/4377098)
++ [pefile，一个牛逼的python库](https://mp.weixin.qq.com/s/Qs68Rl09dieDiHUH7gEWWQ)
++ [itertools ，一个最高效的Python库](https://mp.weixin.qq.com/s/FRBIAA6MLmIVRuLg3D-Btg)
 + [scikit-image,一个强大的python库](https://mp.weixin.qq.com/s/sa-eigtvffvRqoyZ9JW7ew)
++ [python-docx，一个超厉害的 Python 库！](https://mp.weixin.qq.com/s/VdPgeCelbbb_VfHpMsAlKA)
 + [kaindall-template，一个Python中非常有用的库](https://mp.weixin.qq.com/s/XjPhf2OjGcvQQ_AI5RCm0A)
 + [掌握pathlib的秘密：如何用 Python 优雅地操作文件和目录](https://mp.weixin.qq.com/s/-1en-C-zBFhtI_y6j38-3w)
 + [YAML 焦虑再见：PythonSDK 助力大规模 Argo Workflows 构建](https://mp.weixin.qq.com/s/_2Glhuy6YJEM4ZRMDwE7JA)
@@ -97,6 +102,7 @@
 + [typeshed，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/4uZHd-9smJG5v_tS21LI5g)
 + [Nuitka ，一个牛逼的Python库](https://mp.weixin.qq.com/s/YpBJ1jcuJ-1RVz_mUJVZuQ)
 + [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
++ [Mido，一个牛逼的python库](https://mp.weixin.qq.com/s/w4Sb4VHqWaBSYvgp1CkF_A)
 + [Marmir ，一个牛逼的Python库](https://mp.weixin.qq.com/s/y3oWnbmULGMj-MHg1bCw-A)
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 + [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
@@ -122,12 +128,15 @@
 + [Python 科学计算神器：SciPy的五大核心功能揭秘](https://mp.weixin.qq.com/s/mcRh7zirBkFMt99tfm1RJg)
 + [Python 代码执行一目了然：探索Python Tutor工具的强大功能](https://mp.weixin.qq.com/s/su3QtYQbmK8JLQHI53IPLw)
 + [Pynsist：为Python应用构建一套自动化的Windows安装器](https://mp.weixin.qq.com/s/2gMBaBARj8dA2vyqZDOGHw)
++ [Python 随身听的工具推荐:Seaborn和 StatsModels](https://mp.weixin.qq.com/s/dGPzQ2gPBQ6JmKH-UomFSQ)
 
 ## 实践
 
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [深入探索Python中的单例模式：实现与应用](https://mp.weixin.qq.com/s/WrePcQmDsSAYrGt-LCnAOA)
++ [这些 Python 魔术方法，竟能让你的代码焕然一新](https://mp.weixin.qq.com/s/ot1Q3WyCIaAWmiLYyC-U8g)
++ [修改与获取Python运行路径](https://mp.weixin.qq.com/s/hCuRtSMD33_kHVsNyHXJ_A)
 + [8个Python实用技巧，让你的代码效率飞起来！](https://mp.weixin.qq.com/s/u_9hGbYJ-HINKTyWxebMGQ)
 + [从菜鸟到高手：掌握这12个 Python 循环优化技巧](https://mp.weixin.qq.com/s/T4NH0v9S5SKq083I-6DO1g)
 + [理解 Python 中的星号用法](https://mp.weixin.qq.com/s/bQ_jcOO6cT6IsL3ZZIGpHw)
@@ -135,6 +144,7 @@
 + [每天都在用的20个Python技巧，让你从此告别平庸！](https://mp.weixin.qq.com/s/OavXESfK9xxY3R0tPM1MGA)
 + [Python标准库-CSV 文件操作](https://mp.weixin.qq.com/s/8mXoZywxcGRv_8RoCdXmhA)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [使用 Python 实现系统操作自动化：防止数据丢失的最佳实践](https://mp.weixin.qq.com/s/yFGjsMIp2ZDXZFA7vpWWQw)
 + [每日一模块：re模块解析页面](https://mp.weixin.qq.com/s/vFRg4tqyPD7MEvWZsHpj8g)
 + [六种方法实现Python文件之间的互动！](https://mp.weixin.qq.com/s/75necROmESCah90mMV2CuQ)
 + [从零到高手：揭秘 Python 文件处理的全部秘密](https://mp.weixin.qq.com/s/OIHlDlPE0rc9CsFY_RsGUw)
@@ -243,7 +253,9 @@
 + [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)
 + [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g
 + [为了防止这些视频下架，我连夜用Python将她们爬了下来！](https://mp.weixin.qq.com/s/0V9-BkeilIYaOM_o6VaaFQ)
++ [每日一模块：pyquery](https://mp.weixin.qq.com/s/iuou9oFneKWnqNCcqpu8CQ)
 
 ## 数据分析
 
 + [Plottable结合Pandas绘制图表：数据可视化的利器](https://mp.weixin.qq.com/s/4KwVJeEOOgh-tIDA-L4KaA)
++ [数据洞察力：Pandas DataFrame高级分析技巧](https://mp.weixin.qq.com/s/-s-Fc3K4aMMf_PsZz6wSdA)

@@ -9,6 +9,7 @@
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
++ [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [C++：二叉树的遍历](https://mp.weixin.qq.com/s/YCkX3fYhfMb-x8kaUP4yYQ)
 + [C++文件操作一次搞懂吧](https://mp.weixin.qq.com/s/NKeTTaRCLH388NjV3fQnVg)
 + [面试题：C++为什么推荐使用static_cast而不是C风格的(int)x？](https://mp.weixin.qq.com/s/WeF1lHvnZem1g5Crh6KRmg)

@@ -113,6 +113,7 @@
 + [MYSQL数据库备份](https://mp.weixin.qq.com/s/n5ATPq7-jIHnKOX3h6DUYA)
 + [(二十五)MySQL主从实践篇：超详细版读写分离、双主热备架构搭建教学](https://mp.weixin.qq.com/s/Rnyhk6k0bsp3AIfmDsGpJw)
 + [mysql 快速定位cpu 占比过高的sql语句](https://mp.weixin.qq.com/s/7w8T6fzdcsFQwZzI-W-SXQ)
++ [一套高效解决方案：MySQL数据实时同步到Elasticsearch](https://mp.weixin.qq.com/s/HOaRZDRaFnvC8J0EL4o4Uw)
 + [MySQL保姆级教程（基础篇）从小白到高手的进阶指南](https://mp.weixin.qq.com/s/ooVUoHRgMphOcumRWA7FMw)
 + [探索MySQL的高效数据同步：并行复制原理](https://mp.weixin.qq.com/s/VjefHUEwfjGpXzdDG7OubQ)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
@@ -203,6 +204,7 @@
 + [MySQL InnoDB锁探秘：行锁、间隙锁、临键锁与表锁的全方位解读](https://mp.weixin.qq.com/s/zxRBrNnGSlxAxAcOyITbcQ)
 + [(十三)MySQL引擎篇：半道出家的InnoDB为何能替换官方的MyISAM？](https://mp.weixin.qq.com/s/but9J1UD3rS5ZwqQEAtf3A)
 + [InnoDB如何解决脏读、不可重复读和幻读的？](https://mp.weixin.qq.com/s/hL3CdhmaGT8bFe7Usk_1WA)
++ [美团二面：MySQL 支持哪些存储引擎？MyISAM 和 InnoDB 有什么区别？](https://mp.weixin.qq.com/s/WFnz-l1JEFDeqONwTL_YMQ)
 
 #### 锁
 

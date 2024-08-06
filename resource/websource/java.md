@@ -106,6 +106,7 @@
 ## 原理解析
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [CTO：谁在项目中使用Arrays.asList、ArrayList.subList，就立马滚蛋！](https://mp.weixin.qq.com/s/gtfKuUJxylj3atOgfK6xKQ)
 + [Java 序列化：让对象“穿越时空”](https://mp.weixin.qq.com/s/KNoQha6JR7kn8smpHlMoLg)
 + [Java反射机制最全详解(图文全面总结)](https://mp.weixin.qq.com/s/-tuiPpAATmgmWaWlV89zWg)
 + [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
@@ -167,6 +168,7 @@
 
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
++ [一文轻松了解Java常用的垃圾收集器](https://mp.weixin.qq.com/s/Z7lwL6cXnRfF6MK5o1QUdQ)
 + [内存溢出原因与解决方案(4大主流方案详解)](https://mp.weixin.qq.com/s/YQHMMbimWcNLZR4vypRilQ)
 + [Java内存泄漏最全详解(6大原因及解决方案)](https://mp.weixin.qq.com/s/1jFTG5y4CLLWcV-M4EkIfQ)
 + [JVM工具实战：线上问题排查与性能分析](https://mp.weixin.qq.com/s/OUSmWxq_NQsqEWJLCYxvxg)
@@ -227,6 +229,7 @@
 + [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
 + [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
 + [Doug Lea大师的佳作CopyOnWriteArrayList，用不好能坑死你！](https://mp.weixin.qq.com/s/hKNVHOtBhvLAt7oBwcp2fg)
++ [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
 + [面试官：线程池提交一个任务占多大内存？](https://mp.weixin.qq.com/s/6jjOb4fPWQTjvi1PLvAJ4w)
 + [面试官：如何自定义一个工厂类给线程池命名，我：现场手撕吗？](https://mp.weixin.qq.com/s/ffqZOZlbMApUmpnPDYPqWA)
@@ -474,9 +477,12 @@
 + [SpringBoot执行完run之后就返回了，那么它会被JVM进行回收吗？](https://mp.weixin.qq.com/s/GnLx9x7ExpIxertre_K2Fw)
 + [管理SpringBoot项目的3个强大的功能是否用过？](https://mp.weixin.qq.com/s/FtEVRwUEFnfiyINoknKkaQ)
 + [SpringBoot 自定义启动画面](https://mp.weixin.qq.com/s/fTopmeWtmHfaA7aH8YYJBw)
++ [Spring Boot + flowable 快速实现工作流](https://mp.weixin.qq.com/s/Z_Ujb_d_sB9DTjFsDxSV7g)
++ [Spring Boot 3.3 正式发布，王炸级更新，应用启动实现质的飞跃](https://mp.weixin.qq.com/s/CI97dAuhc9dKdSYZuTPmfA)
 + [使用 Spring Boot + Resilience4J 实现断路器功能开发](https://mp.weixin.qq.com/s/V4EEUmJJveGC3d0-KWn_VQ)
 + [手写Spring Boot启动器：实现布隆过滤器](https://mp.weixin.qq.com/s/nbR9D5F0tjZfNxYWjU1mdA)
 + [SpringBoot3 必须掌握的 JVM 优化技巧](https://mp.weixin.qq.com/s/enr8O4nH-1Wf2B9aVifnWA)
++ [使用 Spring Boot 3.3 全新特性 CDS，启动速度狂飙 100%！](https://mp.weixin.qq.com/s/9o8PjGpCESobG_haBs8F8A)
 + [14 个 SpringBoot 优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/6hxdIV60bcLqCEs-KUsbcA)
 + [Spring Boot集成xjar快速入门Demo](https://mp.weixin.qq.com/s/qW-xMJWwMz7HJkpGyLwdoA)
 + [10个SpringBoot开发技能，每个都很实用（一）](https://mp.weixin.qq.com/s/7l5J6nngBtMizJOnFdiIjw)
@@ -724,9 +730,11 @@
 #### 多线程
 
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
++ [SpringBoot高并发！业务方法重试就该使用它](https://mp.weixin.qq.com/s/wHSYpgPXMHEaPWZ9B1qjsw)
 + [使用 SpringBoot + 虚拟线程将服务性能提升几百倍！](https://mp.weixin.qq.com/s/hKORyJ9X85HoFFqadC3E1g)
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)
 + [Spring Boot 创建定时任务](https://mp.weixin.qq.com/s/ovepnnMUkpgtZycwpEjU_A)
++ [利用Spring Boot异步机制实现高吞吐量](https://mp.weixin.qq.com/s/-On9cYvzQfov16ETaQ2mdQ)
 + [SpringBoot中使用单例模式+ScheduledExecutorService实现异步多线程任务(若依源码学习)](https://mp.weixin.qq.com/s/9FSjctCr7cb37eFZy3pUGA)
 + [springboot整合线程池最佳实践，赶紧学起来！](https://mp.weixin.qq.com/s/vDqqE2PiNIsojgrQRb0QWA)
 + [Spring Boot的@Async注解有哪些坑需要避免](https://mp.weixin.qq.com/s/BQZBwCpuR5DLnJcgTJiP0g)
@@ -833,6 +841,7 @@
 + [关于MyBatis的缓存详解](https://mp.weixin.qq.com/s/b9o0ZSf1C-03iE1oIzpl4A)
 + [从 7 分钟到 10 秒，Mybatis 批处理真的很强！](https://mp.weixin.qq.com/s/0TfFnPQJ3-9lJZqcaWJtQw)
 + [注意了！mybatis中＜if＞条件判断，遇到带数字单字符有坑！](https://mp.weixin.qq.com/s/rJ51Ig1wTHK8fjMKUuMRsw)
++ [整理常见的Mybaits打印执行sql和耗时时间的方案](https://mp.weixin.qq.com/s/PEvyuhmnEA_CmNARQq4YjQ)
 + [别再手动拼接 SQL 了，MyBatis 动态 SQL 写法应有尽有，建议收藏！](https://mp.weixin.qq.com/s/4RaCEJbxoe8yjqWSBPax5A)
 + [Mybatis 注解开发](https://mp.weixin.qq.com/s/5atrR86i8nmTzAmCT1QEew)
 + [MyBatis原理机制详解(附8大执行流程图解)](https://mp.weixin.qq.com/s/4glpXF31JjMcanwYpeMKug)
@@ -990,6 +999,7 @@
 # 相关文章
 
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
++ [Sentinel真香！！！](https://mp.weixin.qq.com/s/kYdLouf_QzGMYp5SgAsVDA)
 + [如何Docker 化 Java 应用程序（逐步教程）](https://mp.weixin.qq.com/s/xf5boeMzuShLcviikQL5yw)
 + [我患上了空指针后遗症](https://mp.weixin.qq.com/s/TG9KXlGFEh4T-jTBC_gwgw)
 + [“甲骨文牌”Java正在死亡](https://mp.weixin.qq.com/s/cKhgaKdxZazVsCC-SBOmfQ)

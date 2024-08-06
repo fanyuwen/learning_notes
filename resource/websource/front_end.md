@@ -29,6 +29,7 @@
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
 + [18个面向专业开发人员的高级 JavaScript 技术](https://mp.weixin.qq.com/s/AyTxXOaUZvk0MNcyxdOoRQ)
++ [90% 的人都会答错的一道 JavaScript 面试题](https://mp.weixin.qq.com/s/UIjIUh5gRza_rFi-eeHqcg)
 + [记录一个函数执行了多长时间？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/-ujZXjOKeExjwulUUZU72w)
 + [掌握 JavaScript 的柯里化，让代码更优雅](https://mp.weixin.qq.com/s/Ps7vXUNvBA58xNu9KW8PFA)
 + [精进 JavaScript ｜ 这些手写你都会吗 ？](https://mp.weixin.qq.com/s/evXB9E23xilkHGDg4iTTYw)

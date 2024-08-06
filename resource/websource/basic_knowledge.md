@@ -112,6 +112,7 @@
 + [很多人讲不明白 HTTPS，但是我能](https://my.oschina.net/helloworldnet/blog/11202604)
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
++ [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/CAYZPCDMzrH248kUDrHuPw)
 #### CORS
 + [什么是 CORS ？一文搞懂 CORS 跨域原理！](https://mp.weixin.qq.com/s/FpQCqNN41lBGqJXUAYOFCA)
 ### TCP/IP

@@ -300,6 +300,7 @@
 + [传统模式OUT！新零售思维好在哪？](https://mp.weixin.qq.com/s/mg1lvDj9Uig8Ue4nUowhDQ)
 + [订单管理系统需求规范](https://mp.weixin.qq.com/s/zAaEu6sRJMUJViCLTH-YbA)
 + [聊聊支付流程的设计与实现逻辑](https://mp.weixin.qq.com/s/-qXfw9HWP7PLNfQGwQxysQ)
++ [一款免费开源的支付系统](https://mp.weixin.qq.com/s/Bmmtlzw2ziX-XSIFmQtgrg)
 ## 代码相关
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)

@@ -27,6 +27,7 @@
 + [我，在阿里月薪6万，离职后突然惊醒：人越努力，只会越平庸](https://mp.weixin.qq.com/s/_ysif07f4saAG1DuURVNeQ)
 + [学什么技能可以管一辈子](https://mp.weixin.qq.com/s/YcHDfKs7v67fes3MfA9oOQ)
 + [为什么说程序员不断提高技术可能是误区？](https://mp.weixin.qq.com/s/xMQ6XKiGyg7XtUJ5iSL3Yw)
++ [为什么有的程序员一直在做需求，而有的人却主导大型项目？](https://mp.weixin.qq.com/s/vV5WqtfWG1T3lkb6w2vmmQ)
 # 个人成长
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -74,6 +75,7 @@
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
++ [10.XPath插件安装并解析爬取数据](https://mp.weixin.qq.com/s/vbUkCArRSFWg0tAPVsrWMQ)
 + [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
 + [2024 年每位开发人员都应使用的 5 种工具](https://mp.weixin.qq.com/s/r5BgqngqKuS8IiFrdI_gug)

@@ -104,6 +104,7 @@
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
 + [(十八)MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://mp.weixin.qq.com/s/m24AB--7Iaev4Ab089RisA)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
++ [Mysql优化利剑explain详解](https://mp.weixin.qq.com/s/mtjpFiXLqEvUNa1etie5Xg)
 + [看不懂MySQL执行计划，还谈什么SQL优化？](https://mp.weixin.qq.com/s/bsu0kotuYTsesOVTc5CtzA)
 + [MySQL 中那些鲜为人知但功能强大的内置函数](https://mp.weixin.qq.com/s/wsPDWlgy8yFG4BJxXzSZWw)
 + [MySQL主从一致性最全详解(图文全面总结)](https://mp.weixin.qq.com/s/UslMBVOuVITONLJRacSv8A)

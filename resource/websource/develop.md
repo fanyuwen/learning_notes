@@ -103,6 +103,7 @@
 + [为什么UUID不适合作为分布式全局唯一ID](https://mp.weixin.qq.com/s/-8s5ZQdZH7lZCQU58TRxiQ)
 + [聊聊分布式系统中的服务发现！](https://mp.weixin.qq.com/s/i9t6oB7OGex398bF31Q0iA)
 + [一文搞懂注册中心的设计与实现](https://mp.weixin.qq.com/s/OdyUJg7nAN1Zlvo3c1yPYQ)
++ [分布式系统下数据最终一致性的实现策略](https://mp.weixin.qq.com/s/rfWtepDsaGoPCdDEYPtKng)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
 ## 分布式锁
 + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)
@@ -219,6 +220,7 @@
 + [面试官问如何实现二级缓存怎么进行回答以及延伸出更多知识点呢？](https://mp.weixin.qq.com/s/CLFut5eGxnXJ43J9_4JDTA)
 + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
 + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)
++ [读友好的缓存淘汰算法](https://my.oschina.net/u/4939618/blog/15169406)
 ## 优化
 + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)

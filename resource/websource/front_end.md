@@ -116,6 +116,7 @@
 + [一文了解 npm install -g 和 npm install --save-dev 的关系](https://my.oschina.net/u/4526289/blog/11183599)
 + [Node学习-CommonJS 模块规范](https://mp.weixin.qq.com/s/Jhlmsv7T_HSVs7Wna4Zt3w)
 + [Nest实现CRUD](https://mp.weixin.qq.com/s/3jlwTHx26rIw6pnPqZJiFw)
++ [npm install 和 lockfile 的一个误区](https://mp.weixin.qq.com/s/89qdePHAxPGeuYcMP_ySKg)
 
 ## vite
 

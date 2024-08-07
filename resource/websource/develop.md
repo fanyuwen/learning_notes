@@ -19,6 +19,7 @@
 + [星球第二个项目：仿小红书（微服务架构）](https://mp.weixin.qq.com/s/cFiGgqY6Md7B3xxJprgK6g)
 + [架构师的思考-如何设计高并发系统](https://mp.weixin.qq.com/s/4wLIiSIn1A_F8L5P-rgD6A)
 + [高可用解决方案详解(8大主流架构方案)](https://mp.weixin.qq.com/s/BmYsTFOT6YC3ySFo2zMX2w)
++ [架构师必备底层逻辑：设计与建模](https://mp.weixin.qq.com/s/un3JRdel2qYuUuw0x7lpSA)
 + [高可用存储架构：集群和分区](https://mp.weixin.qq.com/s/FzKbs770_LGM83u2V6nRfA)
 + [新项目，不妨采用这种架构分层，很优雅](https://my.oschina.net/u/1388595/blog/9874780)
 + [软件架构技术2：架构思维，实现从程序员到CTO](https://mp.weixin.qq.com/s/bF6eTEOhTjOx3GdRYD3v1w)
@@ -51,6 +52,7 @@
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
++ [微服务 vs. 事件驱动架构：重新开始理解差异](https://mp.weixin.qq.com/s/M9IQX6CnlH50BXuNgHOvIw)
 + [微服务Token鉴权设计的几种方案](https://mp.weixin.qq.com/s/YINEVqGziyp99_SiWgmKpQ)
 + [微服务中token鉴权设计的4种方式总结](https://mp.weixin.qq.com/s/34SnX4LyNvx3Pu6D7ezUBA)
 + [聊聊 微服务 架构中的用户认证方案！](https://mp.weixin.qq.com/s/hWD1TlTsMP03i3TjMOrxtw)
@@ -186,6 +188,7 @@
 + [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/MEj9XwhjKUazFBsaQZhIlQ)
 + [高并发下如何轻松的保证接口幂等性](https://mp.weixin.qq.com/s/Yege3CDhDrYN5x9ydcnGcw)
 + [腾讯电商部门二面：如何保证幂等性？](https://mp.weixin.qq.com/s/H7BVtBJiy9GvQyDPpGqyUQ)
++ [通用框架实践｜Pipeline设计+幂等重试](https://mp.weixin.qq.com/s/bBZFDx6WwRfTnfQS08Mesg)
 ### 负载&限流
 + [RateLimiter 的底层实现是啥？](https://mp.weixin.qq.com/s/AD54eRFOyAndQKctRAnm8w)
 + [如何实现高并发下系统的限流](https://mp.weixin.qq.com/s/0WDXwQA-aFgAJI6dMYW5xA)
@@ -233,6 +236,7 @@
 + [性能优化｜几个方法让图片加载更快一些](https://mp.weixin.qq.com/s/6YUuE8IJ-B9XF9On6LmLKw)
 + [我用两个方法就将接口响应时间从2s优化到了100ms](https://mp.weixin.qq.com/s/LfgE-GQ7IWRtJQFfO4hULw)
 + [一行代码，我优化掉了1G内存占用](https://mp.weixin.qq.com/s/JvhxaioE9UhDbdlu2ECoiA)
++ [服务端开发必备：9大性能优化秘技](https://mp.weixin.qq.com/s/VQzmg31MkZbUJVnNfqXKkQ)
 + [多人同时导出 Excel 干崩服务器？大佬给出的解决方案太优雅了！](https://mp.weixin.qq.com/s/pu2WNCVDZYdHplF_q5dthw)
 ## 跨域
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
@@ -288,6 +292,7 @@
 + [性能测试的艺术：Apache JMeter帮你赢在起跑线](https://mp.weixin.qq.com/s/vN3-P80Gs_ksJVrge2-x-A)
 + [深入了解软件测试：从入门到奥秘，揭开测试的精髓](https://my.oschina.net/powertoolsteam/blog/11454302)
 + [国产数据库能否扛住压力—HaloDB压力测试](https://mp.weixin.qq.com/s/0Y66i1q010CfMySrcM82tA)
++ [程序员别骗自己了，你分明就是不会写单元测试！！！而不是没时间。](https://mp.weixin.qq.com/s/Xt5DsztM0fJcmcxwZE8JRw)
 # 领域相关
 + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
@@ -309,6 +314,7 @@
 + [这才是后端API接口应该有的样子，巴适！！](https://mp.weixin.qq.com/s/18AW7hUK2K_LAKVKx8IqOA)
 + [不服不行，这才是后端API接口应该有的样子！](https://mp.weixin.qq.com/s/yWFUhp1THDR99DhEjLOGqA)
 + [API设计秘籍：从入门到精通](https://mp.weixin.qq.com/s/wSEWRBrtO92WG-37Q-P9gg)
++ [如何做好 API 接口设计？](https://mp.weixin.qq.com/s/c1zLWvObvB9JzOpLbf1b1g)
 ## 系统相关
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
@@ -353,6 +359,7 @@
 ### 编程范式
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
 + [高级开发者的代码规范化利器](https://mp.weixin.qq.com/s/9aTYrbcwhBqz_93kGpbWtg)
++ [怎样写出无BUG的代码？](https://mp.weixin.qq.com/s/0vL4ZuaCRZiOaOPnhLnFRw)
 ### 问题排查
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 + [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)

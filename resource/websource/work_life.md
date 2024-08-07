@@ -79,6 +79,7 @@
 + [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
 + [2024 年每位开发人员都应使用的 5 种工具](https://mp.weixin.qq.com/s/r5BgqngqKuS8IiFrdI_gug)
++ [接口测试工具 - MyPostMan](https://mp.weixin.qq.com/s/NYbnjvc9l7VC-ZQNyUD8ow)
 + [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
 + [Redis可视化工具最全详解(4款主流工具)](https://mp.weixin.qq.com/s/b-G7qlWiogT1efF-dYHsGA)
 + [自从用了CheckStyle插件，代码写的越来越规范了....](https://mp.weixin.qq.com/s/UaTxsfWYBborhFgkIB4Ccg)
@@ -226,3 +227,5 @@
 + [实用开源电子书合集](https://mp.weixin.qq.com/s/YmHowFdo8w9hvSHIByOe5A)
 + [斯坦福力荐： 《最优化算法》，500页深度解析！](https://mp.weixin.qq.com/s/w5A4WfQQOelWCa81OXemSQ)
 + [426页机器学习巨著，解锁机器学习95%问题!](https://mp.weixin.qq.com/s/LwtsPFto2m-iNmtlE5YWOQ)
++ [好家伙，又一本技术书籍开源了！！](https://mp.weixin.qq.com/s/JMzpvpIvfLIBJ5qYAM9d7Q)
++ [计算机历史时间表——软件与语言（五十七 ）](https://mp.weixin.qq.com/s/2AjsXFq66Dk4xA65j8_Tnw)

@@ -18,9 +18,12 @@
 + [Rust 开发者福音：国内镜像 rsproxy，让你的 Cargo 飞起来！](https://mp.weixin.qq.com/s/L5vqzfasZdlKJ1C7k0wzxw)
 + [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
 + [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
++ [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
 # 框架
 + [开源推荐 | 一个简单且功能强大的 Rust Web 后端框架，仅仅需要基础 Rust 知识即可开发后端服务](https://mp.weixin.qq.com/s/evaU3zHmtZFZX_o2V6s7ZQ)
 + [Candle：Rust 语言的极简机器学习框架](https://mp.weixin.qq.com/s/XfeiWaKXyJx2kBV5dz8SOg)
+# 工具
++ [Rust嵌入式数据库：Native DB](https://mp.weixin.qq.com/s/Nzm3MB5R4DSRIRjzlD0kuQ)
 # 并发
 + [Rust并发编程番外篇: Mutex内部实现](https://colobu.com/2023/11/05/inside-rust-mutex/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust并发编程4 - 容器类并发原语](https://colobu.com/2023/10/15/concurrency-programming-via-rust-ch04/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)

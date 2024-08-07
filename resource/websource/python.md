@@ -7,6 +7,7 @@
 + [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
 + [3 控制语句结构（顺序、循环、选择）---GESP教程Python一级](https://mp.weixin.qq.com/s/JHNfZfCiZtNa6OwV4Lp7HQ)
 + [45python re正则表达式](https://mp.weixin.qq.com/s/-HPFnF97V_7nQC8RpGqGPg)
++ [Python面向对象编程：多重继承和MRO深入解析](https://mp.weixin.qq.com/s/h8QjObfvUAQ9jn6BL6VJDw)
 + [48面向对象2定义](https://mp.weixin.qq.com/s/3DBnfbJLga5TBHfVFrN-ng)
 + [50面向对象4self绑定方法](https://mp.weixin.qq.com/s/n3KzCz8xBXpKCrekxyCauw)
 + [51面向对象5隐藏属性](https://mp.weixin.qq.com/s/_Zknthjjxnsx8Wgu_V5rPg)
@@ -46,6 +47,7 @@
 + [每日一模块：dataclass](https://mp.weixin.qq.com/s/6Z-x0Bg3fYM4xlOLmNxdXg)
 + [Python标准库-math](https://mp.weixin.qq.com/s/wY_JeGSB8lBDLZESiiEOBw)
 + [Python time模块5大隐藏特性](https://mp.weixin.qq.com/s/PANCEQmh7JEjaQj64Q3Miw)
++ [一分钟搞定,Python代码注释9种方式](https://mp.weixin.qq.com/s/jPOhthhIgo-7gAmxDlrOJQ)
 
 ## 第三方库
 
@@ -63,6 +65,7 @@
 + [Infinity：高吞吐量、低延迟的向量嵌入 REST API](https://mp.weixin.qq.com/s/2ckCA1A4Gdolkdlk7iDAQg)
 + [leafmap，一个最强大的Python库](https://mp.weixin.qq.com/s/XbvD_y59Qs5lEUO_ltko0g)
 + [使用PySide6开发桌面程序快速入门（上）](https://mp.weixin.qq.com/s/xjazNc1GYB4VEs9XNI3RoQ)
++ [ujson,一个有口皆碑的库](https://mp.weixin.qq.com/s/d1E94F_BgRiZkVCeuB7FEQ)
 + [Python入门基础——urllib库](https://mp.weixin.qq.com/s/8k5SiTX1FcfkzlQHYRBhbw)
 + [rich，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/y2y-fjlmqsW9D02OGbReUQ)
 + [Faust，一个牛逼的python库](https://mp.weixin.qq.com/s/n_fwrQlDcQV4ODdjOaJtyA)
@@ -70,6 +73,7 @@
 + [Python生态下的微服务框架FastAPI](https://mp.weixin.qq.com/s/0HJIadUydtw5awMPjCiR8w)
 + [Python 日志处理 logging 模块](https://my.oschina.net/u/2512041/blog/4377098)
 + [sumy，一个最牛逼的Python库](https://mp.weixin.qq.com/s/Ef-S_-mSDk50MKU0rNe-DA)
++ [Black ，一个最最强大的Python库](https://mp.weixin.qq.com/s/5UeOEgXZECsLRWVQ2YwX6g)
 + [pefile，一个牛逼的python库](https://mp.weixin.qq.com/s/Qs68Rl09dieDiHUH7gEWWQ)
 + [itertools ，一个最高效的Python库](https://mp.weixin.qq.com/s/FRBIAA6MLmIVRuLg3D-Btg)
 + [scikit-image,一个强大的python库](https://mp.weixin.qq.com/s/sa-eigtvffvRqoyZ9JW7ew)
@@ -89,6 +93,7 @@
 + [Dnspython ，世界最牛逼的Python库](https://mp.weixin.qq.com/s/JSpIdQsjRrBMLZ7PQGWtSQ)
 + [anyio,一个强大的python库](https://mp.weixin.qq.com/s/VEZncEI6XwV_2b2NwGJgCQ)
 + [adb_shell,一个五脏俱全的库](https://mp.weixin.qq.com/s/EwJDNj2BTVGws_WUVKaslw)
++ [Hug，一个牛逼的python库](https://mp.weixin.qq.com/s/6e3JKB6Q7Cx990GhtnvwiQ)
 + [Luigi，一个牛逼的python库](https://mp.weixin.qq.com/s/EVIg6J6oGQf44zbghQt-eg)
 + [Pydub，一个牛逼的python库](https://mp.weixin.qq.com/s/XJajtr5NWjcNO8Q1vNwY3A)
 + [blusky，一个Python中非常有用的库](https://mp.weixin.qq.com/s/eszZUMrX1ZBpHudE_lz5xQ)
@@ -132,6 +137,9 @@
 + [Python 代码执行一目了然：探索Python Tutor工具的强大功能](https://mp.weixin.qq.com/s/su3QtYQbmK8JLQHI53IPLw)
 + [Pynsist：为Python应用构建一套自动化的Windows安装器](https://mp.weixin.qq.com/s/2gMBaBARj8dA2vyqZDOGHw)
 + [Python 随身听的工具推荐:Seaborn和 StatsModels](https://mp.weixin.qq.com/s/dGPzQ2gPBQ6JmKH-UomFSQ)
++ [每日一模块：Playwright](https://mp.weixin.qq.com/s/YUECSCLwxbHGSjAHpgzYcQ)
++ [你的 Python 代码是否优雅？用pycodestyle来检测！](https://mp.weixin.qq.com/s/U7pDE6CmTtCFZ7Aj9Yx3wg)
++ [一篇通过Flask-Mail强大功能就能发送邮件,尽快收藏](https://mp.weixin.qq.com/s/UxZ3Oi1uVCjUDhFvQQ1AOQ)
 
 ## 实践
 
@@ -140,6 +148,7 @@
 + [深入探索Python中的单例模式：实现与应用](https://mp.weixin.qq.com/s/WrePcQmDsSAYrGt-LCnAOA)
 + [这些 Python 魔术方法，竟能让你的代码焕然一新](https://mp.weixin.qq.com/s/ot1Q3WyCIaAWmiLYyC-U8g)
 + [修改与获取Python运行路径](https://mp.weixin.qq.com/s/hCuRtSMD33_kHVsNyHXJ_A)
++ [反编译PyInstaller打包方式为python代码](https://mp.weixin.qq.com/s/M04Z7r5Eq_IcdjIjV9Zn7Q)
 + [8个Python实用技巧，让你的代码效率飞起来！](https://mp.weixin.qq.com/s/u_9hGbYJ-HINKTyWxebMGQ)
 + [从菜鸟到高手：掌握这12个 Python 循环优化技巧](https://mp.weixin.qq.com/s/T4NH0v9S5SKq083I-6DO1g)
 + [理解 Python 中的星号用法](https://mp.weixin.qq.com/s/bQ_jcOO6cT6IsL3ZZIGpHw)
@@ -245,6 +254,7 @@
 ### PyTorch
 
 + [PyTorch安装实战：为AI项目准备开发环境](https://mp.weixin.qq.com/s/gl1UxASFUk3tA-tNJ5znqw)
++ [PyTorch快速入门：构建神经网络](https://mp.weixin.qq.com/s/b19XXthh6pEf3sb6jEW3Dw)
 
 ### Matplotlib
 

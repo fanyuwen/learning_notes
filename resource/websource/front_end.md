@@ -15,6 +15,7 @@
 
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
 + [Promise：为什么没有取消？](https://mp.weixin.qq.com/s/DlQih-HI5v74jIOk3ny_7w)
++ [掌握JavaScript的异步编程，让你的代码更高效](https://mp.weixin.qq.com/s/inr5-84fn-0LC4_le5c3QA)
 + [建议使用 for of 循环？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/LXbW8bRcZEuXa0JvxjJzjQ)
 + [JavaScript 的模板字符串](https://mp.weixin.qq.com/s/5AX2nl_YNE-EwXsbC9wGuA)
 
@@ -41,6 +42,7 @@
 + [LocalStorage的使用教程](https://mp.weixin.qq.com/s/tC_zF-0KdbMHaRf5pxRlYg)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [前端可以玩“锁”了](https://mp.weixin.qq.com/s/O0YwzJ5AYTn7gvizN4cjag)
++ [每天一个知识点：寻找JavaScript和Java的区别](https://mp.weixin.qq.com/s/qzCnN8q5kAx9y9oB9Lrrlg)
 + [JavaScript 开发的挑战与未来：简化与创新的平衡](https://mp.weixin.qq.com/s/FL6dm6mlvZs3zse4b4hHjg)
 + [js 跨域访问问题解决方法](https://my.oschina.net/dwz/blog/30525)
 + [13个Javascript 技巧和最佳实践](https://mp.weixin.qq.com/s/FSwW68Ctt2LPUx8D__IjXg)

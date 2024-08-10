@@ -1,4 +1,5 @@
 # 职场感悟
+
 + [IT 行业从业 23 年和创业 14 年感悟](https://my.oschina.net/easysoft/blog/10315932)
 + [程序员 25 岁做什么能够改变 35 岁被淘汰的命运？](https://my.oschina.net/u/5587102/blog/11051968)
 + [技术小组长不是那么好当的](https://mp.weixin.qq.com/s/2vbGNCu_ksAy-7N3_3z8Kw)
@@ -28,7 +29,9 @@
 + [学什么技能可以管一辈子](https://mp.weixin.qq.com/s/YcHDfKs7v67fes3MfA9oOQ)
 + [为什么说程序员不断提高技术可能是误区？](https://mp.weixin.qq.com/s/xMQ6XKiGyg7XtUJ5iSL3Yw)
 + [为什么有的程序员一直在做需求，而有的人却主导大型项目？](https://mp.weixin.qq.com/s/vV5WqtfWG1T3lkb6w2vmmQ)
+
 # 个人成长
+
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
 + [代码千行不如架构图一张！程序员如何培养业务思维，做有价值的需求？](https://mp.weixin.qq.com/s/jepmmvy0-I2ba30g42Qacg)
@@ -68,7 +71,9 @@
 + [合格程序员每天每周每月每年应该做的事](https://my.oschina.net/justjavac/blog/71883)
 + [一直不知道如何参与开源项目？手把手教学~](https://mp.weixin.qq.com/s/YjZDZLmU5Opht9kp-ffYBw)
 + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
+
 # 收益工具
+
 + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
 + [一款超好用的国产Redis可视化工具，高颜值UI ，真心YYDS](https://mp.weixin.qq.com/s/gpomm0xQf-shNFYZi_n_NA)
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
@@ -125,13 +130,19 @@
 + [揭秘最为知名的黑客工具之一：Samurai 框架](https://mp.weixin.qq.com/s/7HkOC6ZV-6Skjz3LWRYnLg)
 + [PolarisMesh源码系列——服务实例健康检查](https://mp.weixin.qq.com/s/pMx1HbbOW33Syh5lzJtwIQ)
 + [大多数人都还不知道：5 个绝不可错过的开源瑰宝！](https://mp.weixin.qq.com/s/3x4FSKmNV7Yg2ecZsY51WQ)
+
 ## 开源资源
+
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)
 + [一套开源、功能齐全、二次开发友好的即时通讯软件](https://mp.weixin.qq.com/s/J_eb2VyWm99bwq9eLIZz9w)
+
 ## 行业资源
+
 + [阿里巴巴26个屌炸天的开源项目，你知道几个？](https://mp.weixin.qq.com/s/6tvz_DbGRWhVHPFfZmYG6A)
+
 ## idea相关
+
 + [记住 IDEA 这些技巧，生产力直接起飞...](https://mp.weixin.qq.com/s/I9tBcMT2NkG_jemnifmV9Q)
 + [用 IDEA 这个神器看源码，效率贼高！](https://mp.weixin.qq.com/s/zTmja6FfRmHVnOL1XudNRQ)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/x4KEODNB4xFFSDcicBRIww)
@@ -148,7 +159,9 @@
 + [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 + [Jetbrains做的工具盒越来越好了](https://mp.weixin.qq.com/s/PZ13bdhg2U0O19VDIUV53g)
 + [JetBrains IDE全系列采用新的默认“皮肤”：即将面向所有用户提供](https://mp.weixin.qq.com/s/yiv9aHTaAUhJI7UOaL4nXQ)
+
 # 行业趣闻
+
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
 + [作为程序员，你见过哪些有趣的注释？](https://mp.weixin.qq.com/s/z5lS3zUFFXE0uhPzKkH9hA)
 + [某字节女员工自曝：33岁，存够300万就退休，她能“躺平”吗？](https://mp.weixin.qq.com/s/QKvy3sDM-bmLYDzVFSzRYg)
@@ -169,7 +182,9 @@
 + [【鸡零狗碎】CSDN是如何变成行业“毒瘤”的？](https://mp.weixin.qq.com/s/5D5D6G6gzXIVMAhUhkGp_g)
 + [这个世界著名的盗版网站，创始人刚被下了国际通缉令](https://mp.weixin.qq.com/s/x6WfzXO4oCFrlRs9UUWaLA)
 + [开源日报 | 小语言模型才是AI未来；Mbed即将EOL；揭秘DeepSeek；谷歌默认不索引新内容；“抱抱脸”宣布实现盈利](https://mp.weixin.qq.com/s/5uqU3tFi8EHabVH5HJyjBg)
+
 ## 有用趣闻知识
+
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
 + [两位巨佬吃了一顿晚饭，整个互联网彻底被改变了！](https://mp.weixin.qq.com/s/wsDGJTRLjdG8WfdDDlDV8w)
 + [Go项目我不领导了，我去做AI了](https://mp.weixin.qq.com/s/vsoLl6szzeHhFctOMLkA3A)
@@ -190,9 +205,13 @@
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
 + [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
 + [GitHub 删除代码等于“任何人均可永久访问”！微软回应：这是特性](https://mp.weixin.qq.com/s/oymAZ0VKlOwMPhNqDN8F7w)
+
 ## 创业
+
 + [自学编程两个月，现在我月入 4 万元](https://my.oschina.net/u/4148359/blog/11054577)
+
 # 其它相关
+
 + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
 + [同事写出烂代码。。。](https://mp.weixin.qq.com/s/KQH6sIiJoJfJafmQFJm95w)
 + [最怕同事写出这样的代码。。。](https://mp.weixin.qq.com/s/7d7uWXr8fmjZkIP11Nhc2Q)
@@ -213,19 +232,30 @@
 + [我和 Kindle 中国的最后 24 小时](https://mp.weixin.qq.com/s/yO8XP6sxCp-h_SlTMPR1xQ)
 + [RAG-索引之PDF文档解析](https://mp.weixin.qq.com/s/innbTL6aeOsl9vyJSN6yBw)
 + [查找 - 通用化的查找的解释](https://mp.weixin.qq.com/s/CdeN__MSrc8YtiMHxvVOww)
+
 ## 个人综合
+
 ### 面试
+
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)
 + [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)
 + [总结了一些经典面试题，面试不再愁](https://mp.weixin.qq.com/s/7jCmBTUi_3kIHrrv6eRwmg)
+
 ### 博客
+
 + [从0开始搭建个人博客《第七期：后端服务部署教程》](https://mp.weixin.qq.com/s/u_1dNSKoyVBBYRE_yF-mRA)
 + [【技术新纪元 | 探索Astro+Vue3+TypeScript+UnoCSS的完美融合：极致性能个人博客】](https://mp.weixin.qq.com/s/KMqYS5QsLDfiDN05YBOljQ)
+
 ### 数学知识
+
 + [每天学点程序员数学—从向量变换到矩阵](https://mp.weixin.qq.com/s/bESnVOOBT9Si37bx5Re-kA)
+
 ### markdown
+
 + [Marker：您的PDF到Markdown转换专家 —— 快速、准确、全语言支持](https://mp.weixin.qq.com/s/CITInW4H_8rPkmRt_mmNTg)
+
 ### 学习资源
+
 + [实用开源电子书合集](https://mp.weixin.qq.com/s/YmHowFdo8w9hvSHIByOe5A)
 + [斯坦福力荐： 《最优化算法》，500页深度解析！](https://mp.weixin.qq.com/s/w5A4WfQQOelWCa81OXemSQ)
 + [426页机器学习巨著，解锁机器学习95%问题!](https://mp.weixin.qq.com/s/LwtsPFto2m-iNmtlE5YWOQ)

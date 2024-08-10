@@ -1,4 +1,5 @@
 # 架构相关
+
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
 + [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
 + [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
@@ -38,7 +39,9 @@
 + [架构与思维：微服务架构的思想本质](https://mp.weixin.qq.com/s/wf-Uj7EEBr4SYFe1ZDuOnw)
 + [对一个软件项目架构设计研发管理过程的评估和优化](https://mp.weixin.qq.com/s/lLIhiBHRgt06jF_uYtkxZw)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
+
 ### DDD
+
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
 + [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
@@ -48,7 +51,9 @@
 + [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
 + [领域驱动设计之银行转账：Wow 框架实战](https://my.oschina.net/AhooWang/blog/11537379)
 + [领域建模的常见问题及解决方案](https://mp.weixin.qq.com/s/deZc0CXxGUbop2-LgS6BrQ)
+
 ## 微服务
+
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -80,8 +85,11 @@
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [微服务架构中的通信风格](https://mp.weixin.qq.com/s/-X75FChGAQ359JarczOYxQ)
 + [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/KSR_w6VPP9FAK8-z_nvsfw)
+
 # 分布式
+
 ## 实践
+
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
 + [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/zbEJdmkWdQC8WeVw-AAKbA)
 + [分布式方案最全详解(图文全面总结)](https://mp.weixin.qq.com/s/QTDRVFAPxWhHDbXsM1llRw)
@@ -105,7 +113,9 @@
 + [一文搞懂注册中心的设计与实现](https://mp.weixin.qq.com/s/OdyUJg7nAN1Zlvo3c1yPYQ)
 + [分布式系统下数据最终一致性的实现策略](https://mp.weixin.qq.com/s/rfWtepDsaGoPCdDEYPtKng)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
+
 ## 分布式锁
+
 + [腾讯后端一面：如果需要实现一个分布式锁，你会如何实现？](https://mp.weixin.qq.com/s/Rf6qC_dJVJHqKsCBCnaSRg)
 + [面试官：如何实现一个合格的分布式锁？](https://mp.weixin.qq.com/s/eCx--VIq__JmZe1JsBNOag)
 + [如何实现一个合格的分布式锁](https://mp.weixin.qq.com/s/Ab2C3FWQ6OihHRP_T5Laow)
@@ -117,9 +127,13 @@
 + [Redis分布式锁详解及电商秒杀功能示例](https://mp.weixin.qq.com/s/6lTgq7EhPqa66MonaN_ILA)
 + [图解 Redis 和 Zookeeper 分布式锁 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607785)
 + [企业级高可用分布式锁剖析](https://mp.weixin.qq.com/s/DnW-1ZTaWi8_Q5-maVyASA)
+
 ## 分布式缓存
+
 + [性能优化：跨服务使用分布式缓存的3个思考](https://mp.weixin.qq.com/s/fqzj0wQp0MkEH4zuGf7NaQ)
+
 ## 分布式事务
+
 + [5大分布式事务框架详解(图文全面总结)](https://mp.weixin.qq.com/s/2cLIvgPshzWM46kxA2pvLg)
 + [还不懂分布式事务：带你深入剖析TCC实现原理](https://mp.weixin.qq.com/s/Dlv9hdxNRJBeNtaA-dkGrg)
 + [13个分布式事务处理机制，你在用哪个？](https://mp.weixin.qq.com/s/J-8cv9cmKMDvAzSHWCTAtA)
@@ -128,15 +142,20 @@
 + [面试官：用过分布式事务吗？](https://mp.weixin.qq.com/s/UY96W2XorrJ32-et07iMig)
 + [腾讯二面，被分布式事务疯狂拷打~](https://mp.weixin.qq.com/s/fHqtMK4BKDH7VOguI2266g)
 + [分布式事务设计与实践](https://mp.weixin.qq.com/s/6ISxP0cwHRWwIiRchfGYbQ)
+
 ## 分布式算法
+
 + [分布式算法最全详解(4大主流算法图解)](https://mp.weixin.qq.com/s/986dumOR90RRJ4kkCLx0kg)
++ [实战从零开始实现Raft｜得物技术](https://mp.weixin.qq.com/s/R2XXYFoR67VsiGwT6XM96A)
 + [通俗易懂关于 Paxos 的直观解释](https://my.oschina.net/u/4090830/blog/11051634)
 + [4大主流分布式算法介绍（图文并茂、算法拆解）](https://mp.weixin.qq.com/s/y9-nFSgx0YiaY3S7PqUMSA)
 + [分布式系统绕不开的话题：分布式一致性算法](https://mp.weixin.qq.com/s/k48-d51nAD68KA9L_5EhnA)
 + [Raft 算法浅析](https://my.oschina.net/OutOfMemory/blog/820189)
 + [深入理解一致性Hash和虚拟节点](https://mp.weixin.qq.com/s/FkO6oNInmHA_IzysZcMVkg)
 + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
+
 # 组件设计
+
 + [拒绝重复代码，封装一个多级菜单、多级评论、多级部门的统一工具类](https://mp.weixin.qq.com/s/0m_Ssyh0rs7nLMfpR8xFVA)
 + [1000T的文件怎么能快速从南京传到北京？最佳方案你肯定想不到](https://mp.weixin.qq.com/s/hEdqq0QvRxv4ll-nnf6uPA)
 + [揭秘完整的手机扫码登录的实现原理](https://mp.weixin.qq.com/s/rqfQINop1jC-v33Wwf67SQ)
@@ -177,8 +196,11 @@
 + [所有 CRUD 程序员，都应该知道的 CQRS 架构！](https://mp.weixin.qq.com/s/17wlFJ9Thgeva6qrbTO2Tw)
 + [实战：单点登录的两种实现方式](https://mp.weixin.qq.com/s/C41It8I6Ao_3vPz6MPBxTA)
 + [详解！三种灾备演练步骤方式](https://mp.weixin.qq.com/s/lL9Ggyr4ESZa9jXvkfnU0A)
+
 ## 功能
+
 ### 幂等
+
 + [什么是接口幂等性？不具备幂等性的接口会产生什么危害？](https://mp.weixin.qq.com/s/LoUPUSUHN5-YzjqraMvZcA)
 + [幂等性是什么？幂等性方案详解(5大步骤原理)](https://mp.weixin.qq.com/s/9kBEccKg3BhnmLp1q7ySQg)
 + [幂等性：构建稳健分布式系统的关键](https://mp.weixin.qq.com/s/NwqnwdfbojrKqGfUFBizPg)
@@ -190,7 +212,9 @@
 + [高并发下如何轻松的保证接口幂等性](https://mp.weixin.qq.com/s/Yege3CDhDrYN5x9ydcnGcw)
 + [腾讯电商部门二面：如何保证幂等性？](https://mp.weixin.qq.com/s/H7BVtBJiy9GvQyDPpGqyUQ)
 + [通用框架实践｜Pipeline设计+幂等重试](https://mp.weixin.qq.com/s/bBZFDx6WwRfTnfQS08Mesg)
+
 ### 负载&限流
+
 + [RateLimiter 的底层实现是啥？](https://mp.weixin.qq.com/s/AD54eRFOyAndQKctRAnm8w)
 + [如何实现高并发下系统的限流](https://mp.weixin.qq.com/s/0WDXwQA-aFgAJI6dMYW5xA)
 + [面试必备：4种经典限流算法讲解](https://mp.weixin.qq.com/s/nZKLSacEVb5w1rAta6ju-A)
@@ -201,18 +225,24 @@
 + [负载均衡技术：支撑高并发应用的基石](https://mp.weixin.qq.com/s/flEm--2jqsGvcfMlJxnObw)
 + [负载均衡原理最全详解(万字图文总结)](https://mp.weixin.qq.com/s/8xSgH-yT8UWOYriAZr3plA)
 + [高并发中的限流策略](https://mp.weixin.qq.com/s/B_1EjQQoi-VVWhMc35hMXg)
+
 ### 大文件IO
+
 + [大文件切片上传，全网最简单的实现没有之一](https://mp.weixin.qq.com/s/0bFd6xs16Kajg853TOObAA)
 + [大文件秒传、断点续传和分片上传](https://mp.weixin.qq.com/s/4ty-x7MYKU_saPaavikN5w)
 + [实现大文件的断点下载、分片下载](https://mp.weixin.qq.com/s/2qB6vESIUw7YPk4rL16Lzw)
+
 ### 超时&定时&异步调度
+
 + [电商设计订单超时未支付关闭的方案整理](https://mp.weixin.qq.com/s/PhiGAQXJe-c60GHKypgIyw)
 + [定时任务原理方案综述 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9907877)
 + [百万级订单超时自动取消就该这样设计](https://mp.weixin.qq.com/s/bm8bBDY6TgtH821YE_7Z7A)
 + [新来个技术总监：谁再用Redis实现订单超时自动关闭，以后就不用来了！](https://mp.weixin.qq.com/s/PsjVpv1leNF7DnpdJufUnw)
 + [面试官：订单30分钟未支付自动取消用什么实现方案？如何使用Redis实现延迟队列？](https://mp.weixin.qq.com/s/bey1XVEqf8cy1Uqxqt4gCw)
 + [一套万能的异步处理方案（建议收藏）](https://mp.weixin.qq.com/s/PEt25sZYC5mm1KVu8LLW9w)
+
 ## 缓存
+
 + [如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)
 + [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
 + [性能优化：使用本地缓存遇到实际问题的思考](https://mp.weixin.qq.com/s/mQgFiw-l3vvYHrtO-sTDQw)
@@ -221,7 +251,9 @@
 + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
 + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)
 + [读友好的缓存淘汰算法](https://my.oschina.net/u/4939618/blog/15169406)
+
 ## 优化
+
 + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
 + [我把接口从3s优化到了0.3s!](https://mp.weixin.qq.com/s/oeOpJLw9E8QRURbSOEV4Rg)
@@ -240,11 +272,15 @@
 + [一行代码，我优化掉了1G内存占用](https://mp.weixin.qq.com/s/JvhxaioE9UhDbdlu2ECoiA)
 + [服务端开发必备：9大性能优化秘技](https://mp.weixin.qq.com/s/VQzmg31MkZbUJVnNfqXKkQ)
 + [多人同时导出 Excel 干崩服务器？大佬给出的解决方案太优雅了！](https://mp.weixin.qq.com/s/pu2WNCVDZYdHplF_q5dthw)
+
 ## 跨域
+
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
 + [整理项目中常见的跨域解决方案](https://mp.weixin.qq.com/s/KCKSg33rtYSwDWXyiag8GQ)
+
 ## 安全
+
 + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/KQiskiLGFMYT8bo9YtAB_g)
 + [业务开发时，API 不能对外暴露怎么办？](https://mp.weixin.qq.com/s/JbCukZq1pUBAq_ug4Z_wkA)
@@ -256,15 +292,21 @@
 + [漫画图解数字签名和数字证书](https://mp.weixin.qq.com/s/-MuFDW97RphAI-3AzvecgQ)
 + [你的登录接口真的安全吗？](https://mp.weixin.qq.com/s/xmV54gessRisVQuD5SMQEQ)
 + [网关系统就该这么设计（万能通用），稳的一批！](https://mp.weixin.qq.com/s/bC5F0eVDc7CHi0s7_Ed1Mg)
+
 ### 鉴权
+
 + [JWT鉴权体系](https://mp.weixin.qq.com/s/nAxoAep50sz3aTWp07Qxfg)
 + [JWT 签名用对称加密还是非对称加密？](https://my.oschina.net/lenve/blog/11203585)
 + [揭秘Cookie、Session、JWT之间的关系](https://mp.weixin.qq.com/s/Y5MWj66Ujc3Jj7UKoa7VNw)
 + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
 + [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/qKLvRnySF9h0jnPbaRoJcQ)
+
 ## 存储
+
 + [美团大规模 KV 存储挑战与架构实践](https://my.oschina.net/meituantech/blog/11047456)
+
 # 开发相关
+
 + [当 “代码农” 遇上 “码农”：揭秘主干开发的那些事儿 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869429)
 + [牛皮！手写一个 RPC 框架](https://mp.weixin.qq.com/s/fS6Y1ycME-g6ggY3xBh4Cg)
 + [怎么在业务团队写好发消息的代码？](https://mp.weixin.qq.com/s/_bYjQd3BCIT3w1N0cMWlCw)
@@ -288,14 +330,19 @@
 + [【SoC】看门狗(Watch Dog)定时器的原理与使用](https://mp.weixin.qq.com/s/drLrmfUCXNIutYBhpGU_5w)
 + [如何设计建立和保持100w的长连接？如果有人恶意创建非法连接，怎么解决？](https://mp.weixin.qq.com/s/b7XvHHaJZ5SduPnbdq49SQ)
 + [前后端数据传输约定探讨](https://my.oschina.net/u/4090830/blog/11407609)
+
 # 测试相关
+
 + [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
 + [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)
 + [性能测试的艺术：Apache JMeter帮你赢在起跑线](https://mp.weixin.qq.com/s/vN3-P80Gs_ksJVrge2-x-A)
 + [深入了解软件测试：从入门到奥秘，揭开测试的精髓](https://my.oschina.net/powertoolsteam/blog/11454302)
 + [国产数据库能否扛住压力—HaloDB压力测试](https://mp.weixin.qq.com/s/0Y66i1q010CfMySrcM82tA)
 + [程序员别骗自己了，你分明就是不会写单元测试！！！而不是没时间。](https://mp.weixin.qq.com/s/Xt5DsztM0fJcmcxwZE8JRw)
++ [如何管理和维护自动化测试](https://mp.weixin.qq.com/s/XjlQ2zzzGeWNwFXz2d3ymQ)
+
 # 领域相关
+
 + [探索 Reactor 网络模型在当今应用领域的革新](https://my.oschina.net/u/4526289/blog/10089919)
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
 + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
@@ -303,21 +350,29 @@
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
 + [一致性是指什么？](https://mp.weixin.qq.com/s/xYPaQ3riYMqIGXOywEDGHQ)
+
 ## 业务领域
+
 + [传统模式OUT！新零售思维好在哪？](https://mp.weixin.qq.com/s/mg1lvDj9Uig8Ue4nUowhDQ)
 + [订单管理系统需求规范](https://mp.weixin.qq.com/s/zAaEu6sRJMUJViCLTH-YbA)
 + [聊聊支付流程的设计与实现逻辑](https://mp.weixin.qq.com/s/-qXfw9HWP7PLNfQGwQxysQ)
 + [一款免费开源的支付系统](https://mp.weixin.qq.com/s/Bmmtlzw2ziX-XSIFmQtgrg)
+
 ## 代码相关
+
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
+
 ## 接口相关
+
 + [这才是后端API接口应该有的样子，巴适！！](https://mp.weixin.qq.com/s/18AW7hUK2K_LAKVKx8IqOA)
 + [不服不行，这才是后端API接口应该有的样子！](https://mp.weixin.qq.com/s/yWFUhp1THDR99DhEjLOGqA)
 + [API设计秘籍：从入门到精通](https://mp.weixin.qq.com/s/wSEWRBrtO92WG-37Q-P9gg)
 + [如何做好 API 接口设计？](https://mp.weixin.qq.com/s/c1zLWvObvB9JzOpLbf1b1g)
+
 ## 系统相关
+
 + [主动发现系统稳定性缺陷：混沌工程 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9874387)
 + [轻量灵动： 革新轻量级服务开发 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9866545)
 + [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
@@ -329,20 +384,30 @@
 + [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
 + [业务系统存储设计](https://mp.weixin.qq.com/s/zBy2ungNiiFb6hwiNRRltg)
 + [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
+
 ## 领域知识
+
 + [批处理 vs 流处理，如何选择？](https://mp.weixin.qq.com/s/gpjTrbOjZfOht8Kd06ZCew)
 + [流程编排与接口集成的区别](https://mp.weixin.qq.com/s/3US0myV2syer4bqmOF7SYw)
+
 ### JSON
+
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
+
 ### UUID
+
 + [UUID 和 UUID v7](https://mp.weixin.qq.com/s/xqu-143w1ae1QgZYH7GcUQ)
+
 ## 开发流程
+
 + [敏捷宣言最误人](https://my.oschina.net/easysoft/blog/8719967)
 + [得物卓越研发效能之路：原则、方法与实践全景揭秘](https://my.oschina.net/u/5783135/blog/11304496)
 + [IT产品研发全生命周期流程图实例【流程图及详细说明】](https://mp.weixin.qq.com/s/B_Q-W_RH4xtusAXQplMiVQ)
 + [探索BPMN—工作流技术的理论与实践｜得物技术](https://mp.weixin.qq.com/s/HzhoSrJcynd_BgDoWUGHBw)
 + [Code Review：提升代码质量与团队能力的利器](https://mp.weixin.qq.com/s/aazHgFhORxTHayEUyCa-_w)
+
 ### 版本管理
+
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)
 + [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)
@@ -358,20 +423,30 @@
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)
 + [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/frJzXx3LFycUgXzFP8lL9w)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
+
 ### 编程范式
+
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
 + [高级开发者的代码规范化利器](https://mp.weixin.qq.com/s/9aTYrbcwhBqz_93kGpbWtg)
 + [怎样写出无BUG的代码？](https://mp.weixin.qq.com/s/0vL4ZuaCRZiOaOPnhLnFRw)
+
 ### 问题排查
+
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 + [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)
 + [正则表达只学习了个皮毛引起的 BUG](https://mp.weixin.qq.com/s/N918inN3MPMMm3JZDjnzCQ)
+
 ### 项目管理
+
 + [我们如何管理软件项目的交付？](https://mp.weixin.qq.com/s/wMXl7DquISIYW0_GJly08w)
 + [设计系统文档化报告 | 设计系统团队](https://mp.weixin.qq.com/s/JLarz50CQzAUkkKQErVXwQ)
 + [如何展示设计系统的成功 | 创建策略](https://mp.weixin.qq.com/s/zM1jwo4WwgNacNQFKU51oQ)
 + [十年项目管理经验分享：从菜鸟到成熟](https://mp.weixin.qq.com/s/hHKl5E5ycghdFoK5AemSNQ)
+
 ### 团队管理
+
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
+
 ## 数据治理
+
 + [美团的数据治理实践](https://mp.weixin.qq.com/s/zRgPeq2Aq-epPCcqZa-5oQ)

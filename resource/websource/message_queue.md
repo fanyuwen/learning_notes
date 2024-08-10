@@ -1,4 +1,5 @@
 # 主题知识
+
 + [消息队列的七种经典应用场景](https://my.oschina.net/makemyownlife/blog/11049488)
 + [OpenResty+Lua+Redis+MQ实现高QPS下热点数据的存取方案](https://mp.weixin.qq.com/s/fbGyH6LoTt46liKMzfMkDw)
 + [面试官：对于MQ中的消息重复消费说说的你的理解](https://mp.weixin.qq.com/s/lg4ZxwxQgxWl8cD4W2U1CQ)
@@ -17,7 +18,9 @@
 + [Filebeat + Kafka+Logstash+ElasticSeaarch+Kibana](https://mp.weixin.qq.com/s/YOAebBhf6dnh4VEzzDYCNw)
 + [RocketMQ 和 Kafka 关于消息队列的推拉模式是怎么做的？](https://mp.weixin.qq.com/s/dbdNweIyDtJBlexa5c0oGA)
 + [阿里面试：canal+MQ，会有乱序的问题吗？](https://mp.weixin.qq.com/s/w0rzwuBgWOei5fhqsf8b4A)
+
 # KAFKA
+
 + [一文搞懂 Kafka consumer 与 broker 交互机制与原理](https://my.oschina.net/u/6990971/blog/11049751)
 + [Kafka高可用性指南：提高数据一致性和集群容错能力！](https://mp.weixin.qq.com/s/1BSRATbb_k7sUDE60snpbg)
 + [Kafka消费端怎样保证消息不丢失？真正的处理方式其他文章中竟然没有见过](https://mp.weixin.qq.com/s/FmbJsGoXW24o1xXsqQ--Fw)
@@ -48,7 +51,9 @@
 + [强烈推荐这位大佬的Kafka系列，看完觉得自愧不如！](https://mp.weixin.qq.com/s/y813yAPs-7vuDfsOp_qpgw)
 + [推动机器学习：遇见Kafka，实时获取训练数据](https://mp.weixin.qq.com/s/2QHin0eXs3OHe-FmQIw8BA)
 + [Kafka 3.7.1 发布说明，小版本必升](https://mp.weixin.qq.com/s/-EIepFYU-3Sb0VAbPF8pVw)
+
 # ROCKETMQ
+
 + [RocketMQ中分布式事务源码剖析，面试阿里，带上这个大杀器！](https://mp.weixin.qq.com/s/melxb0gxs2joaxFPvO6aqg)
 + [什么是 RocketMQ 事务消息？它是如何工作的？](https://mp.weixin.qq.com/s/CpI7OWc0LFEwi-uJUa-Wjw)
 + [RocketMQ分布式事务详解(图文全面总结)](https://mp.weixin.qq.com/s/gl-Br8jsVHT4emODD4JbBA)
@@ -58,12 +63,17 @@
 + [RocketMQ高性能架构详解(图文全面总结)](https://mp.weixin.qq.com/s/uDg2aKpOZmiaLFPezj3T5w)
 + [RocketMQ最全详解(图文全面总结)](https://mp.weixin.qq.com/s/NBrt6Lkp3bBw3_9bfrK8sA)
 + [RocketMQ 如何保证发送消息不丢失？](https://mp.weixin.qq.com/s/Js96u9dnvjbDQcKM-9ANtw)
+
 # RABBITMQ
+
 + [RabbitMQ如何保证消息可靠性？](https://mp.weixin.qq.com/s/PkKcFdAyTlrWZ14pzuUe2A)
 + [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/d5rNHiEDWaisFXMxbzgrAg)
 + [这才是RabbitMQ打开的正确姿势 , 七种消息模型理论 + 图文 + 代码解析, 懂了](https://mp.weixin.qq.com/s/7ivKSwzpiijE60UfJtXQ0w)
 + [面试官：引入 RabbitMQ 后，如何保证全链路数据 100% 不丢失？](https://mp.weixin.qq.com/s/ZPz3GdWp8PLdn1OU36w81Q)
 + [Nest 接入消息队列 RabbitMQ](https://mp.weixin.qq.com/s/rAuYgW3RoOfiqg70PLhyFw)
++ [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/DpXaUnaZwJF23rJfQtznpw)
 + [「RabbitMQ链路追踪实践：SkyWalking微服务链路监控实践07」](https://mp.weixin.qq.com/s/maKLkM-hNbdLpoSlKLi5Bw)
+
 # PULSAR
+
 + [Bookie 存储架构源码剖析｜得物技术](https://my.oschina.net/u/5783135/blog/11194314)

@@ -167,6 +167,7 @@
 ## jvm
 
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
++ [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
 + [一文轻松了解Java常用的垃圾收集器](https://mp.weixin.qq.com/s/Z7lwL6cXnRfF6MK5o1QUdQ)
 + [内存溢出原因与解决方案(4大主流方案详解)](https://mp.weixin.qq.com/s/YQHMMbimWcNLZR4vypRilQ)
@@ -467,10 +468,13 @@
 ### boot
 
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
++ [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
++ [Java进阶篇 -- SpringBoot全局异常处理器](https://mp.weixin.qq.com/s/avmpuA6sv4qdFl8Mx30lMQ)
 + [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
 + [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/Z2kwMiS58F80zSXyTjfAZA)
 + [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
@@ -709,6 +713,7 @@
 + [使用Spring Boot + MyBatis-Plus + ThreadPoolTaskExecutor实现批量插入百万级数据](https://mp.weixin.qq.com/s/uu9HZqiyGKtHreJcQ2_ZeA)
 + [SpringBoot+ShardingSphere 轻松实现数据库字段加解密](https://mp.weixin.qq.com/s/wkL_C6pygtI9ZPZpBsw5bw)
 + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)
++ [使用 Springboot + Neo4j 实现知识图谱功能开发](https://mp.weixin.qq.com/s/SgvhLkWCipDT1jO7AYKl0w)
 + [Spring Boot实现多数据源快速入门](https://mp.weixin.qq.com/s/f7zgs2DjM6wKMLXNpSAstg)
 + [SpringBoot中使用Redis和Lua脚本实现延时队列](https://mp.weixin.qq.com/s/-oK42uZDVD4OIpg4cZlQZA)
 + [Spring Boot 实战： springboot集成redis之字典缓存](https://mp.weixin.qq.com/s/KHClAunIfOcTdMtoVeBxJQ)
@@ -809,6 +814,7 @@
 
 + [我司用了6年的 SpringBoot 项目部署方案，稳得一批！](https://mp.weixin.qq.com/s/LCOgdHNM2nMPK-jLfLJMNg)
 + [SpringBoot如何解决yml明文密码问题](https://mp.weixin.qq.com/s/bewrZtF6iNBCwkgjr6vEeA)
++ [使用 Spring Boot 实现动态加载 jar 包，动态配置功能太赞了！](https://mp.weixin.qq.com/s/6TyBbNjRe6_KDSapBBm-0Q)
 + [两种方式实现SpringBoot外部配置实时刷新最佳实践](https://mp.weixin.qq.com/s/PCOUq9X8eEYHVETDFj0baA)
 + [为什么Spring Boot 的 Jar 文件可以直接运行？](https://mp.weixin.qq.com/s/3v-i6pe_n1Qkv6fRAUfdYQ)
 + [SpringBoot Maven项目pom中的plugin插件用法整理](https://mp.weixin.qq.com/s/kB9zExga2F1bneoq8uiDYQ)
@@ -895,6 +901,7 @@
 + [Netty TCP 实战案例（一），文末附源码地址](https://mp.weixin.qq.com/s/Wp4JFSa_ZNPc1Re5-N2nxg)
 + [FastThreadLocal 为什么那么快](https://mp.weixin.qq.com/s/NFdatPy3vuJZsmpXqr5y4w)
 + [一文看懂Netty的心跳检测机制](https://mp.weixin.qq.com/s/5pvcuq-6OHOhN1hKdcrZog)
++ [Netty 是如何解决半包和粘包问题?](https://mp.weixin.qq.com/s/PCQ0MwXRs1jUTRd8PsUo7w)
 + [(十一)Netty实战篇：基于Netty框架打造一款高性能的IM即时通讯程序](https://mp.weixin.qq.com/s/RMUbCeIknr99imAEtgvGmg)
 + [面试高频：了解零拷贝吗？Netty哪里用到了零拷贝？](https://mp.weixin.qq.com/s/LQakVp-9wCYsHDrTPKYFzA)
 + [京东二面：为什么Netty要创造FastThreadLocal？](https://mp.weixin.qq.com/s/-OSM8usP44i7Z_Tnu64lZQ)

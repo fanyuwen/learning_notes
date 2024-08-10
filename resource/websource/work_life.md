@@ -262,3 +262,5 @@
 + [好家伙，又一本技术书籍开源了！！](https://mp.weixin.qq.com/s/JMzpvpIvfLIBJ5qYAM9d7Q)
 + [计算机历史时间表——软件与语言（五十七 ）](https://mp.weixin.qq.com/s/2AjsXFq66Dk4xA65j8_Tnw)
 + [某瓣9.8！谷歌大脑团队精心制作的深度学习必看圣经！](https://mp.weixin.qq.com/s/BtxKMBFxuGlPt-RsEz_EmQ)
++ [2024年最佳软件架构书籍的终极清单](https://mp.weixin.qq.com/s/GzIVnImbZOE_wnYlgOYGZA)
++ [9本醍醐灌顶的计算机好书](https://mp.weixin.qq.com/s/wHuYcRX3JzQDBfG3QeTHlg)

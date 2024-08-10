@@ -1,9 +1,15 @@
 # 语言相关
+
 ## 源码
+
 + [sync.Map 源码分析](https://my.oschina.net/qiangmzsx/blog/1827059)
+
 ## 新特性
+
 + [Go 1.23新特性前瞻](https://mp.weixin.qq.com/s/rODxrjFS4lRbnIMcV2j2sg)
+
 # 话题
+
 + [业内大佬怒喷：Go 正朝着错误的方向发展](https://mp.weixin.qq.com/s/WM7E-1aHu12l75FGq3RDtA)
 + [Go语言有个“好爹”反而被程序员讨厌？](https://mp.weixin.qq.com/s/SyIZNiPh-71b1X7nMAQsGQ)
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)
@@ -16,7 +22,9 @@
 + [最好的 Go 框架就是不用框架？](https://mp.weixin.qq.com/s/pvp1ZxStty-tFtnIt35Y4g)
 + [Go 还是 TinyGo?](https://mp.weixin.qq.com/s/wBlBbhNjYvim3wVrQfYOtg)
 + [从Go开发者的视角看Rust](https://mp.weixin.qq.com/s/9n0s_KVRSdWA2xy8jh58Cw)
+
 # 库
+
 + [使用 Go 提供的 Cookie 库简化 Cookie 操作](https://mp.weixin.qq.com/s/ipIsXBpEIeQ5MdDLEMfxeA)
 + [MongoDB Golang驱动记录分享](https://mp.weixin.qq.com/s/Y2F6s67v-Ek43uWoau_69w)
 + [path/filepath,一个强大的go包](https://mp.weixin.qq.com/s/QI2fHZdBliWwewghlbpEHA)
@@ -27,12 +35,16 @@
 + [go-sqlbuilder：灵活强大的Go语言SQL语句构建库，兼具零配置ORM功能](https://mp.weixin.qq.com/s/s9us2zu8AN5owZW2fzesIw)
 + [go-chi：用于构建 Go HTTP 服务的轻量级且可组合的路由器](https://mp.weixin.qq.com/s/rL07n0h_IATDo6YBsgdz1Q)
 + [go-av,一个交口称赞的库](https://mp.weixin.qq.com/s/vOK4Rh_zzS7SBPgy6oAIOQ)
+
 # 实践
+
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 语言 Base64 编码解码实战指南](https://mp.weixin.qq.com/s/ozOxt353Wch9MXznrov0Cw)
 + [在golang里使用 ZooKeeper，如何使用](https://mp.weixin.qq.com/s/6UhOq4wGsmiaBhhPAbahaw)
 + [Go 面试题：切片分隔、切片长度、切片扩容](https://mp.weixin.qq.com/s/lnsIjDwBvy8IxHo0ciNzbg)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
++ [fasthttp 比标准库 net/http 快 10 倍](https://mp.weixin.qq.com/s/IjzlueIzR0IiFUS-EsIsdg)
++ [面向OpenTelemetry的Golang应用无侵入插桩技术](https://mp.weixin.qq.com/s/FKCwzRB5Ujhe1stOH2ibXg)
 + [适配器模式在 Go 语言中的应用](https://mp.weixin.qq.com/s/BxxMoPqYkhQMp1YxFHLP-w)
 + [defer 的正确调用时机：在确保资源被成功分配或建立连接之后才会调用](https://mp.weixin.qq.com/s/zBx3hUbdgT0yN8QR25CLHw)
 + [Go中的内存泄漏与逃逸](https://mp.weixin.qq.com/s/itZ5cZmlwfZKHuv34XkHGg)
@@ -60,7 +72,9 @@
 + [推荐几个非常不错的 go 开源项目（建议收藏）](https://mp.weixin.qq.com/s/gHaq1qhFtPHM3kn1E5alVA)
 + [聚合接口层（BFF）之Go语言版（三）统一响应、中间件](https://mp.weixin.qq.com/s/UphhHnM_viMD3KX863teUg)
 + [Go Gin 静态文件服务：构建高效、灵活的资源交付系统](https://mp.weixin.qq.com/s/KHrHlAYb-P4qYOpWQhMBoA)
+
 # 面试题
+
 + [Golang 面试题解析](https://my.oschina.net/qiangmzsx/blog/1478739)
 + [Golang 面试题解析（二）](https://my.oschina.net/qiangmzsx/blog/1515173)
 + [Golang 面试题解析（三）](https://my.oschina.net/qiangmzsx/blog/1533839)

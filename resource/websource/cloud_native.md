@@ -1,9 +1,13 @@
 # 主题
+
 ## 技术
+
 + [Choosing the Right Containerization: 10 Alternatives to Docker](https://technologyadvice.com/blog/information-technology/docker-alternatives-competitors/)
 + [Kubernetes原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/c2UUslAa0xVG1IBUhVRoBA)
 + [Kubernetes架构最全详解(8大架构组件)](https://mp.weixin.qq.com/s/suTqkvgmsMCqdvuvoZHtyw)
+
 # 架构方面
+
 + [Docker架构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/XoePlVMTfusJM8SzQ-subA)
 + [Prometheus 架构指南](https://mp.weixin.qq.com/s/-C4zIm1baXsUVWtgI-oz2Q)
 + [K8s 技术全景：架构、应用与优化](https://my.oschina.net/u/6723965/blog/11051131)
@@ -11,14 +15,20 @@
 + [2024 年的云原生架构需要哪些技术栈](https://my.oschina.net/crossoverjie/blog/11051812)
 + [云计算之分布式计算系统](https://my.oschina.net/morflameblog/blog/52594)
 + [containerd 和 docker 使用有区别吗](https://mp.weixin.qq.com/s/1A-2P6u7nE5oBPe7yyS4kQ)
+
 # 问题讨论
+
 + [为什么公共云的弹性能力很难被发挥出来？](https://my.oschina.net/u/6852546/blog/11053253)
+
 # 实践
+
 + [丝滑的打包部署，一套带走！](https://mp.weixin.qq.com/s/yfDN9Vb3peR11XnxRxns-Q)
 + [云原生技术最全详解(图文全面总结)](https://mp.weixin.qq.com/s/yEmrmHC4SCZCLcTzQmhK2Q)
 + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
 + [开发者必备神器: find-container-process 一键让容器进程无所遁形](https://mp.weixin.qq.com/s/5b_BeDg3LPzPDApvH0HnkQ)
+
 ## docker
+
 + [如何缩小docker容器镜像](https://mp.weixin.qq.com/s/1Rswv3svndVZ-XvFR-hgFg)
 + [你不知道的 Dockerfile 增强新语法](https://mp.weixin.qq.com/s/jcyxEc32kGErm2XBekvlSg)
 + [Dockerfile：提升构建效率的最佳实践](https://mp.weixin.qq.com/s/KD_UdfS4gsFu0I62KPLEAg)
@@ -37,9 +47,13 @@
 + [运维Docker：高效管理容器化应用的秘诀](https://mp.weixin.qq.com/s/cbGj29R0shN6294pwpIJCA)
 + [【好玩儿的Docker项目】保存网页、稍后阅读，自建 Wallabag 服务，搭配RSS使用更佳！](https://mp.weixin.qq.com/s/aBgXsyJhj39QsrAae87FsQ)
 + [今天让你对 Docker 的了解多一点点 | 你管这破玩意叫云原生](https://mp.weixin.qq.com/s/RvEeOIYC75GJPHw0QhOfDw)
+
 ## podman
+
 + [debian11 使用podman 搭建 nacos-server](https://mp.weixin.qq.com/s/51jtO76ySZuAfOYLtOZ0ng)
+
 ## k8s
+
 + [一篇文章精通K8S的统一访问入口-Service](https://mp.weixin.qq.com/s/wdsaWdAed0U9YbRqdWVP8g)
 + [Kubernetes（k8s）高可用性入门：初学者指南](https://mp.weixin.qq.com/s/-e8myFCSrossqYpFoAREdA)
 + [从Helm到 Operator：Kubernetes应用管理的进化](https://mp.weixin.qq.com/s/uPLCS1-juyr5Vk-TESYDsQ)
@@ -56,11 +70,19 @@
 + [深入理解Kubernetes对象,Pod服务质量Qos](https://mp.weixin.qq.com/s/8QcG0tvb1rMayG_kYfUerA)
 + [深入理解Kubernetes对象,资源配额管理-ResourceQuota](https://mp.weixin.qq.com/s/XPawMDvq8eDH9WIOzdJAog)
 + [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)
+
 ## Prometheus
+
 + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
+
 ## Istio
+
 + [Istio注入中断故障](https://mp.weixin.qq.com/s/h7OgscCEXjLdv7aUXRn6fA)
+
 ## ServiceMesh
+
 + [ServiceMesh 未来的思考和探索](https://mp.weixin.qq.com/s/lxVV9D7pcaiaNHkp1lhu0Q)
+
 ## ETCD
+
 + [ETCD集群管理，看这一篇干货就够了](https://mp.weixin.qq.com/s/HU3BuVljfL0rHLWWYmlSqA)

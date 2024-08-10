@@ -467,6 +467,7 @@
 ### boot
 
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
++ [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)

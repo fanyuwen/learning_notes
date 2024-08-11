@@ -86,6 +86,7 @@
 + [服了！DELETE 同一行记录也会造成死锁！！](https://mp.weixin.qq.com/s/K51ntOxUbU64kvdjnReXOw)
 + [聊聊order by 是怎么实现的？](https://mp.weixin.qq.com/s/fqoZdVAETo88x2J9hyCQ0A)
 + [面试官：为什么数据库连接很消耗资源？](https://mp.weixin.qq.com/s/qYqheHHZMwxVvtsrwd3Bmw)
++ [不可重复读和幻读有什么区别](https://my.oschina.net/lenve/blog/15207192)
 
 ## 关系型数据库
 
@@ -303,6 +304,7 @@
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
 + [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
 + [如何保证Redis缓存与数据库的双写一致性？](https://mp.weixin.qq.com/s/zxvFwxXbCaEjUK4V5l8Ksw)
++ [如何有效避免 Redis 缓存击穿](https://my.oschina.net/u/7771480/blog/15205819)
 + [面试官：如何保证Redis缓存和数据库数据的一致性？直击灵魂的连环七问你扛得住么？（二）](https://mp.weixin.qq.com/s/Y-KF6Q3Hsklbb05fjs-bOg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
 + [来聊聊redis的发布订阅设计与实现](https://mp.weixin.qq.com/s/IPSmFlLNoQZxwkGnTuHNng)

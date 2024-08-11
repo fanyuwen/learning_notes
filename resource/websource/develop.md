@@ -363,6 +363,7 @@
 + [【面试技巧】美团一面：项目中有10000个 if else 如何优化？你懵了没？](https://mp.weixin.qq.com/s/7eQefCREpF5d7pIELwEY3A)
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
++ [如何拥有一个优雅的变量名缩写？](https://mp.weixin.qq.com/s/29HwdGnR1yPDwPyVEaJ5Fw)
 
 ## 接口相关
 
@@ -370,6 +371,7 @@
 + [不服不行，这才是后端API接口应该有的样子！](https://mp.weixin.qq.com/s/yWFUhp1THDR99DhEjLOGqA)
 + [API设计秘籍：从入门到精通](https://mp.weixin.qq.com/s/wSEWRBrtO92WG-37Q-P9gg)
 + [如何做好 API 接口设计？](https://mp.weixin.qq.com/s/c1zLWvObvB9JzOpLbf1b1g)
++ [如何为开放平台设计一个安全好用的OpenApi](https://mp.weixin.qq.com/s/SvSbh1xDZCwsA76dvm3qOQ)
 
 ## 系统相关
 

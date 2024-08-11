@@ -70,6 +70,7 @@
 + [如何编写 Null-Safety 代码？一文帮你讲透！](https://mp.weixin.qq.com/s/TcqYhz4YQSpS6vlOFT0-PQ)
 + [Java实际开发过程中的那些基础代码...](https://mp.weixin.qq.com/s/KWb4L2WVY42TcUkYwSy8gQ)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
++ [Java8中一个极其强悍的新接口，炸裂！很多人没用过（非常实用）](https://mp.weixin.qq.com/s/V8vXHzRJ9ikPu4S3im64cg)
 
 ## 代码质量
 
@@ -710,6 +711,7 @@
 
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
 + [Spring Boot 3.2 新特性：JdbcClient](https://mp.weixin.qq.com/s/ZbQhjf1AXJdpRoMgsk04cw)
++ [使用 Spring Boot + Redis 协同打造延时双删实战指南！](https://mp.weixin.qq.com/s/yoxp-DAjaJp-t-UD3qxsuA)
 + [使用Spring Boot + MyBatis-Plus + ThreadPoolTaskExecutor实现批量插入百万级数据](https://mp.weixin.qq.com/s/uu9HZqiyGKtHreJcQ2_ZeA)
 + [SpringBoot+ShardingSphere 轻松实现数据库字段加解密](https://mp.weixin.qq.com/s/wkL_C6pygtI9ZPZpBsw5bw)
 + [SpringBoot 实现动态切换数据源，这样做才更优雅！](https://mp.weixin.qq.com/s/fE7uKHYMHGF5GvEU1g-f3A)
@@ -988,6 +990,7 @@
 + [离开 Java，寻找更佳语言的 10 大理由](https://my.oschina.net/justjavac/blog/66629)
 + [Spock 测试框架实践](https://my.oschina.net/u/2512041/blog/4376976)
 + [赋能转转回收：LiteFlow可视化编排方案设计](https://mp.weixin.qq.com/s/Go6cDZvuvN-NH_gxcg77uw)
++ [告别if else！这款轻量级规则引擎框架，真香！](https://mp.weixin.qq.com/s/nIKUjA_MX_I1J8bYGJlmWQ)
 + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
 + [为了方便开发，我实现了一个Redis 工具集](https://mp.weixin.qq.com/s/0btpv0jv3VgLwPXvGNQylg)
 + [京东商城高性能多线程并发编程与动态编排框架](https://mp.weixin.qq.com/s/260attfZzJxT5Gf32tOgvg)

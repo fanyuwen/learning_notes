@@ -80,6 +80,7 @@
 + [Faust，一个牛逼的python库](https://mp.weixin.qq.com/s/n_fwrQlDcQV4ODdjOaJtyA)
 + [fastapi,一个强大的python库](https://mp.weixin.qq.com/s/nciH2SYDaCwfAw2l2h8Keg)
 + [Python生态下的微服务框架FastAPI](https://mp.weixin.qq.com/s/0HJIadUydtw5awMPjCiR8w)
++ [BitBake ，一个最最强大的Python库](https://mp.weixin.qq.com/s/ae3cIoX1bJr3hxev1O9riA)
 + [Python 日志处理 logging 模块](https://my.oschina.net/u/2512041/blog/4377098)
 + [sumy，一个最牛逼的Python库](https://mp.weixin.qq.com/s/Ef-S_-mSDk50MKU0rNe-DA)
 + [Chardet ，一个牛逼的Python库](https://mp.weixin.qq.com/s/zoR0S7ibZrAQST1joTj7kw)

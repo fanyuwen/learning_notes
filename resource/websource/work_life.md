@@ -1,7 +1,6 @@
 # 职场感悟
 
 + [IT 行业从业 23 年和创业 14 年感悟](https://my.oschina.net/easysoft/blog/10315932)
-+ [IT人50岁，正是拼的年纪~](https://mp.weixin.qq.com/s/Bro4jVLbSynHqJ5Dgztu9Q)
 + [程序员 25 岁做什么能够改变 35 岁被淘汰的命运？](https://my.oschina.net/u/5587102/blog/11051968)
 + [技术小组长不是那么好当的](https://mp.weixin.qq.com/s/2vbGNCu_ksAy-7N3_3z8Kw)
 + [程序员新人禁忌：你是打工的，不是当学生的！](https://mp.weixin.qq.com/s/V1vba9R3_Wlu-FTjUI_OAw)

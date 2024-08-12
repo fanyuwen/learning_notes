@@ -1,6 +1,7 @@
 # 职场感悟
 
 + [IT 行业从业 23 年和创业 14 年感悟](https://my.oschina.net/easysoft/blog/10315932)
++ [IT人50岁，正是拼的年纪~](https://mp.weixin.qq.com/s/Bro4jVLbSynHqJ5Dgztu9Q)
 + [程序员 25 岁做什么能够改变 35 岁被淘汰的命运？](https://my.oschina.net/u/5587102/blog/11051968)
 + [技术小组长不是那么好当的](https://mp.weixin.qq.com/s/2vbGNCu_ksAy-7N3_3z8Kw)
 + [程序员新人禁忌：你是打工的，不是当学生的！](https://mp.weixin.qq.com/s/V1vba9R3_Wlu-FTjUI_OAw)
@@ -82,6 +83,7 @@
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
 + [10.XPath插件安装并解析爬取数据](https://mp.weixin.qq.com/s/vbUkCArRSFWg0tAPVsrWMQ)
 + [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
++ [Airtable的开源替代品、MarkDown记录心得笔记，两个不容错过的实用免费项目](https://mp.weixin.qq.com/s/hxvMa6Ae2GXaIW8hitkiMw)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
 + [2024 年每位开发人员都应使用的 5 种工具](https://mp.weixin.qq.com/s/r5BgqngqKuS8IiFrdI_gug)
 + [接口测试工具 - MyPostMan](https://mp.weixin.qq.com/s/NYbnjvc9l7VC-ZQNyUD8ow)
@@ -240,6 +242,7 @@
 + [华为OD面试：三个线程交替打印ABC如何实现？](https://mp.weixin.qq.com/s/4vHk2AIptXivn_3o6YC8SQ)
 + [面试快结束时，HR问“你还有什么需要了解的吗”，低情商回答“没有了”，高情商这样回答！](https://mp.weixin.qq.com/s/deEQwOnThD33qyxFpHxMsw)
 + [总结了一些经典面试题，面试不再愁](https://mp.weixin.qq.com/s/7jCmBTUi_3kIHrrv6eRwmg)
++ [5道场景面试题](https://mp.weixin.qq.com/s/2S_hLMLC4dBHRRF9mIbBqA)
 
 ### 博客
 
@@ -256,6 +259,7 @@
 
 ### 学习资源
 
++ [【GitHub精选】001 《Effective Java》关于Java的78个条目](https://mp.weixin.qq.com/s/bBuRd8JWYwaZ1kCuNUf0Cw)
 + [实用开源电子书合集](https://mp.weixin.qq.com/s/YmHowFdo8w9hvSHIByOe5A)
 + [斯坦福力荐： 《最优化算法》，500页深度解析！](https://mp.weixin.qq.com/s/w5A4WfQQOelWCa81OXemSQ)
 + [426页机器学习巨著，解锁机器学习95%问题!](https://mp.weixin.qq.com/s/LwtsPFto2m-iNmtlE5YWOQ)
@@ -264,3 +268,5 @@
 + [某瓣9.8！谷歌大脑团队精心制作的深度学习必看圣经！](https://mp.weixin.qq.com/s/BtxKMBFxuGlPt-RsEz_EmQ)
 + [2024年最佳软件架构书籍的终极清单](https://mp.weixin.qq.com/s/GzIVnImbZOE_wnYlgOYGZA)
 + [9本醍醐灌顶的计算机好书](https://mp.weixin.qq.com/s/wHuYcRX3JzQDBfG3QeTHlg)
++ [必学的13本深度学习的书籍](https://mp.weixin.qq.com/s/fnpS8VntWOMNLYbyS6SipA)
++ [看透世界本质的30本书](https://mp.weixin.qq.com/s/oSq-UyQeODyDiooy50hDHA)

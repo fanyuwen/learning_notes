@@ -78,6 +78,7 @@
 + [Vue3中的全局组件注册方法如何？它与Vue2有何不同？](https://mp.weixin.qq.com/s/2-EjDfTZz4LPdPGHO7oHdQ)
 + [元素缩放？一个vue指令搞定](https://mp.weixin.qq.com/s/nw9let6yrfypz2fVMA2uYg)
 + [Vue Vine：带给你全新的 Vue 书写体验！](https://mp.weixin.qq.com/s/Yd__e_bcHwLfJ_6VoVbtMw)
++ [前端开发，vue3实现excel文件预览和打印](https://mp.weixin.qq.com/s/AyWIANImSboWhbGGWyPNlg)
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
 
 ## react

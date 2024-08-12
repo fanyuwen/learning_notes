@@ -53,6 +53,10 @@
 
 ## 第三方库
 
++ [每日一模块：mrjob](https://mp.weixin.qq.com/s/7XCFCYkHtkDRtmhS_kMSQA)
++ [每日一模块：Scrapyd](https://mp.weixin.qq.com/s/Tk-pefKStt2ZI2V2Pxwnuw)
++ [每日一模块：ScrapydWeb](https://mp.weixin.qq.com/s/jLdyYprJld7ZJWjP9tHpfA)
++ [每日一模块：mesop](https://mp.weixin.qq.com/s/BRdlaVrdiLqOYvKYJxXxhA)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
@@ -60,13 +64,13 @@
 + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
 + [pdfminer ，一个最最强大的Python库，解锁pdf无限可能](https://mp.weixin.qq.com/s/A1eHEw3slSyvPELxFs0Olw)
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
++ [ZODB，一个最牛逼的Python库](https://mp.weixin.qq.com/s/M4nxySrW2MrekygbELcbxA)
 + [Vispy，一个牛逼的python库](https://mp.weixin.qq.com/s/2us7inp6IdEsJElZuSOTJg)
++ [Dnspython，一个牛逼的python库](https://mp.weixin.qq.com/s/msCeJMGcMCOmNl6rWa8keQ)
 + [sniffio ，一个最最强大的Python库](https://mp.weixin.qq.com/s/8DaNAUhlWNC6BePZfhlucg)
 + [PyMC,一个世界上最牛逼的Python库](https://mp.weixin.qq.com/s/cUfTjcP6zymHaf1BpN1J7A)
 + [stanza，一个强大的Python库](https://mp.weixin.qq.com/s/PzQO7Kr12j4pFKadI5NWbw)
 + [Arrow，一个牛逼的python库](https://mp.weixin.qq.com/s/bs0RNyRUTta9u_6-JAgsgA)
-+ [每日一模块：mrjob](https://mp.weixin.qq.com/s/7XCFCYkHtkDRtmhS_kMSQA)
-+ [每日一模块：Scrapyd](https://mp.weixin.qq.com/s/Tk-pefKStt2ZI2V2Pxwnuw)
 + [从零开始，快速打造API：揭秘 Python 库toapi的神奇力量](https://mp.weixin.qq.com/s/a2Xu1rnzfjyRm87Pfld8bw)
 + [python-urllib.parse](https://my.oschina.net/u/2512041/blog/4376934)
 + [caffe，一个超强的 Python 库！](https://mp.weixin.qq.com/s/tt3NWKxZMIJ_z8vahOIb3A)
@@ -126,7 +130,6 @@
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 + [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
-+ [每日一模块：mesop](https://mp.weixin.qq.com/s/BRdlaVrdiLqOYvKYJxXxhA)
 
 ### Pandas
 

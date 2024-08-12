@@ -1,15 +1,24 @@
 # 操作系统相关
+
 ## 主题知识
+
 + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
 + [内存是怎样一步步被分配出来的？](https://mp.weixin.qq.com/s/QmFbNAwO6dKo32o9hj6J5A)
+
 ## 文件系统
+
 + [一文读懂：什么是文件系统 ，有哪几类？](https://mp.weixin.qq.com/s/f81V8_XL4eC14sl_kXFQwQ)
 + [FAT32的文件系统知多少(优化篇)](https://mp.weixin.qq.com/s/OBniOkXFt-kN7VMLo6hjaQ)
+
 ## windows
+
 + [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
 + [后渗透系列-Windows日志致盲与绕过](https://mp.weixin.qq.com/s/Oz5Z3Yw9lhh83N2lBuaUDQ)
+
 ## linux
+
 ### 实践
+
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
 + [深度探索：Linux内核优化高级指南](https://mp.weixin.qq.com/s/_MWGW9ORXopTmK3WczxszA)
 + [Linux 高端宝典：成为系统大师的秘籍](https://mp.weixin.qq.com/s/h9gw-a2wfPDGcvs1RQ-sow)
@@ -41,9 +50,13 @@
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
+
 ### 网络
+
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
+
 ### 命令
+
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
 + [七个运维必备的Shell自动化脚本](https://mp.weixin.qq.com/s/JXjERsm03PDSUXVuPiJkQA)
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
@@ -53,12 +66,19 @@
 + [18 个一线工作中常用 Shell 脚本【实用版】](https://mp.weixin.qq.com/s/cBuRUXvoOKbGXNYq8Zf9Hw)
 + [一篇短文快速搞定Vim编辑器命令](https://mp.weixin.qq.com/s/-pkRQ2sC8cdM7DiXbzHCig)
 + [【超详细】后端和运维必会30个Linux命令解说：mkdir](https://mp.weixin.qq.com/s/c2drfkSoleNNxaVNabIptw)
+
 ### 发行版信息
+
 + [CentOS 将于6月30全面停服，最全选型攻略来了！](https://mp.weixin.qq.com/s/O15asMcR7ix3vMyHkaPfZw)
+
 ### 相关信息
+
 + [【系统安全】Linux系列系统OpenSSH出现漏洞（CVE-2024-6387）](https://mp.weixin.qq.com/s/b_kr5OHaFmDod51c8nJ2VQ)
+
 # 计算机基础知识
+
 ## CPU
+
 + [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)
 + [一切设计的起点：CPU的架构](https://mp.weixin.qq.com/s/PXPURyvmoyikOntNLiq0Cg)
 + [CPU 使用率和使用量](https://mp.weixin.qq.com/s/noPoCJRbc4iEd13va8Lt3w)
@@ -70,15 +90,23 @@
 + [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
 + [NUMA架构：CPU和内存性能瓶颈的终结者！](https://mp.weixin.qq.com/s/awMSx3XMM6HbUlidC-UUCQ)
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
+
 ### 并发
+
 + [基本功 | 一文讲清多线程和多线程同步](https://my.oschina.net/meituantech/blog/11585606)
+
 ## 内存
+
 + [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
 + [探索x86-64架构：内存分页机制的奥秘](https://mp.weixin.qq.com/s/D7DjObzAZjLJLd9GSvrmEg)
 + [四大内存区域揭秘：你真的了解你的程序吗？](https://mp.weixin.qq.com/s/hJ-EbMmSx0RS-L9PNkNAjw)
+
 ## GPU
+
 + [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
+
 ## 网络基础
+
 + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
 + [探索NAT：网络地址转换技术的深度解析](https://mp.weixin.qq.com/s/r_NWzPoOYvEo72HVTideEw)
 + [同步通信 VS 异步通信，如何选择？](https://mp.weixin.qq.com/s/XxPTXJ0HcXH7CmfRtbgSlg)
@@ -103,7 +131,9 @@
 + [你了解 localhost 与 127.0.0.1 的区别吗？](https://mp.weixin.qq.com/s/FPICgJri9AndnpaogskcCg)
 + [localhost vs 127.0.0.1：揭开本地网络的双面神话，你真的了解它们的区别吗？](https://mp.weixin.qq.com/s/CcPMyfDTBO0mEV0Zqk7qRw)
 + [网络基础知识：深入理解VPN技术](https://mp.weixin.qq.com/s/-KaEL0ADg2hxrZHhOAeDSQ)
+
 ### HTTP/HTTPS
+
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/g4VVUbF7RzM1wOS_aIvVHw)
 + [从零开始掌握HTTP协议：全面详解1.0、1.1和2.0](https://mp.weixin.qq.com/s/-Dp08X3qe0AaAQQtwBZ_WA)
@@ -113,9 +143,13 @@
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
 + [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/CAYZPCDMzrH248kUDrHuPw)
+
 #### CORS
+
 + [什么是 CORS ？一文搞懂 CORS 跨域原理！](https://mp.weixin.qq.com/s/FpQCqNN41lBGqJXUAYOFCA)
+
 ### TCP/IP
+
 + [面试官：TCP 如何保证传输的可靠性？](https://mp.weixin.qq.com/s/cbSUaYDzPk3SkhQ5xNUuOQ)
 + [面试官：你说一下TCP为什么需要三次握手和四次挥手？](https://mp.weixin.qq.com/s/COBHmJvaMGbd3VhmDAN_ug)
 + [深入理解TCP连接的三次握手过程](https://mp.weixin.qq.com/s/xHMclOH26xznecbPcn-IPg)
@@ -132,9 +166,13 @@
 + [如何应对TCP半连接队列和TCP全连接队列满的情况？——拆解大厂面试题](https://mp.weixin.qq.com/s/jbCGBWogzGqUlCXdsYrakw)
 + [TCP/IP协议](https://mp.weixin.qq.com/s/L6CuozAC4jClHEra6PZuuw)
 + [为什么TCP需要三次握手？一文讲透！](https://mp.weixin.qq.com/s/YIK7N6plIaGdag9LSO3Irg)
+
 ### UDP
+
 + [UDP报文结构详解：一篇文章带你搞懂](https://mp.weixin.qq.com/s/YxbnmQcovKCjziPEIlOBaQ)
+
 ### nginx
+
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
 + [Nginx反向代理配置详解(图文全面总结)](https://mp.weixin.qq.com/s/ZBOPZ34_ZbdKyClagMA1Iw)
@@ -150,14 +188,21 @@
 + [面向物联网的 NGINX Plus：对 MQTT 流量进行加密和身份验证](https://my.oschina.net/u/5246775/blog/15030939)
 + [借助 NGINX Plus 优化企业环境中的 MQTT 部署](https://my.oschina.net/u/5246775/blog/13371894)
 + [NGINX Gateway Fabric 如何实现复杂的路由规则](https://my.oschina.net/u/5246775/blog/15186980)
+
 ### wireshark
+
 + [使用wireshark第一次捕获数据包](https://mp.weixin.qq.com/s/6wPSoYFI0vfgwUBL6QwG5w)
 + [【网络协议】精讲Wireshark抓包和基本使用！图解超赞超详细！！！](https://mp.weixin.qq.com/s/fc0D8_llGLKq3L8OwWibOA)
+
 ## web
+
 + [简单介绍一下HTTP请求头与请求体](https://mp.weixin.qq.com/s/9hjeFXj0KNN4Op_CBVAKTg)
 + [Cookie、Session、Token 之间有什么区别？](https://mp.weixin.qq.com/s/wj5u1AFxPehwaQmNjGlvqg)
 + [Token 过期后，如何自动续期？](https://mp.weixin.qq.com/s/ZdcHLCPXO1zK-deb2RfMqg)
+
 ## IO原理
+
++ [“它”让亿级长连接成为可能：冲破内核瓶颈，实现I/O性能飙升](https://mp.weixin.qq.com/s/08nQYAUGfJGW7rYZ1WfrAQ)
 + [阿里面试：NIO为什么会导致CPU100%？](https://mp.weixin.qq.com/s/1yZft2djYFZJAi6-pbxN1A)
 + [后端程序员，你们真不懂操作系统内核IO。。。](https://mp.weixin.qq.com/s/dIqlZ5P8k6GqJkYb8fOHag)
 + [阿里三面：一个服务器程序，最大支持的TCP连接数是多少？](https://mp.weixin.qq.com/s/g9Xk2FkcRLinYyLvxvB_ig)
@@ -173,9 +218,13 @@
 + [图解IO多路复用之epoll实现原理](https://mp.weixin.qq.com/s/XnmJFAUzReBtFGs3g9dPFg)
 + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
 + [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
+
 ## 字符编码
+
 + [ASCII、Unicode、UTF-8、utf8mb4，有啥区别？](https://mp.weixin.qq.com/s/7khFCHebVtPSpsfGse7vCA)
+
 ## 实践
+
 + [蚂蚁一面：浮点数在计算机中是如何存储的？](https://mp.weixin.qq.com/s/5S_D3bt-CqXcNUurZVQ9Sw)
 + [Wireshark 的抓包和分析，看这篇就够了！](https://mp.weixin.qq.com/s/jjhO3YQcAAIc7Su49Todjg)
 + [一文搞透TPS、QPS、吞吐量等高性能指标](https://mp.weixin.qq.com/s/7MMVyiljkDhoe4EuOwu5IA)

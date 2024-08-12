@@ -2,6 +2,7 @@
 
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
 + [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
++ [架构师总体架构设计与实践](https://mp.weixin.qq.com/s/TxaWpRCH8cTQXhkCSARhBQ)
 + [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
 + [基础架构部，还有必要吗？](https://mp.weixin.qq.com/s/yalmoDbY75_Pz9PCzpjiPQ)
 + [熔断、隔离、重试、降级、超时、限流，一文帮你顺理高可用架构流量治理](https://mp.weixin.qq.com/s/HmO8vMW44fVfnyFOK_6PvA)

@@ -15,12 +15,14 @@
 + [SonarQube7.9.2数据库解析和部分sql讲解](https://mp.weixin.qq.com/s/VQy7lel3h8V9ryfuKT_TMg)
 + [时序数据库 vs 实时数据库，一文搞懂！](https://mp.weixin.qq.com/s/Df_PHkGFtwdqlolT78pmtA)
 + [十大流行的开源数据库](https://mp.weixin.qq.com/s/7nSZGlMo2NDwwm8WZm38Kw)
++ [使用存储过程挺香的！为何阿里要禁止？](https://mp.weixin.qq.com/s/w2E6bf2RdvQ4PeixSTvJeA)
 
 # SQL
 
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
 + [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
++ [SQL 优化法则，学会都是 SQL 优化大神！](https://mp.weixin.qq.com/s/1rqhVP9P5aiaplnaHGJkOQ)
 + [ODPS SQL ——列转行、行转列这回让我玩明白了！](https://mp.weixin.qq.com/s/93EiX5nUeTSxyDOt3SE1CA)
 + [经典SQL50问（5）聚合处理中有NULL值和IFNULL（）函数的使用](https://mp.weixin.qq.com/s/lTQnP5kinV9WpH64PDYUOw)
 + [SQL的执行顺序以及它的重要性与元数据](https://mp.weixin.qq.com/s/jq3KwBJJMxl61GR-fUsv-g)
@@ -48,6 +50,7 @@
 
 + [NoSQL爆炸时代，数据库的分类及使用场景怎样总结？](https://mp.weixin.qq.com/s/lyWndojigWkCL6nc2rKenQ)
 + [数据库开发设计规范（通用）](https://mp.weixin.qq.com/s/I1cZjnxnPJnyaJp3LCoqaQ)
++ [数据架构设计思路与总体规划](https://mp.weixin.qq.com/s/n6CcPS42t_IxEK8Wso3okg)
 + [数据库怎么选择？](https://mp.weixin.qq.com/s/aLz81AlqUPjYz4xvqydHUQ)
 + [从 MongoDB 到 PostgreSQL 的大迁移](https://my.oschina.net/u/6148470/blog/11050282)
 + [OLAP 进阶之 “性能提升”](https://my.oschina.net/u/5588928/blog/11051631)

@@ -26,6 +26,6 @@ l11, _ , _ = list
 #也可以在变量名前面加上一个*,表示剩下的元素赋值给一个列表
 li1, *li_last = list
 #可以放在中间,但只能出现一次,也可以用 _
-li1, *limid, _, li_last_one = list
+li_first_one, *limid, _, li_last_one = list
 #解构的原理是python提供的高阶函数实现的
 ```

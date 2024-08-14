@@ -22,6 +22,7 @@
 + [最好的 Go 框架就是不用框架？](https://mp.weixin.qq.com/s/pvp1ZxStty-tFtnIt35Y4g)
 + [Go 还是 TinyGo?](https://mp.weixin.qq.com/s/wBlBbhNjYvim3wVrQfYOtg)
 + [从Go开发者的视角看Rust](https://mp.weixin.qq.com/s/9n0s_KVRSdWA2xy8jh58Cw)
++ [Node.js 竟然比 Go 快](https://mp.weixin.qq.com/s/X063efPy7uY3KPNWf8UwKA)
 
 # 库
 

@@ -80,6 +80,7 @@
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
++ [36.2K Star颜值不错!!!再见Notion,全能型知识管理工具](https://mp.weixin.qq.com/s/Hm7r7W5QvVr-fQjn_CjZUQ)
 + [10.XPath插件安装并解析爬取数据](https://mp.weixin.qq.com/s/vbUkCArRSFWg0tAPVsrWMQ)
 + [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
 + [Airtable的开源替代品、MarkDown记录心得笔记，两个不容错过的实用免费项目](https://mp.weixin.qq.com/s/hxvMa6Ae2GXaIW8hitkiMw)
@@ -160,8 +161,9 @@
 + [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 + [Jetbrains做的工具盒越来越好了](https://mp.weixin.qq.com/s/PZ13bdhg2U0O19VDIUV53g)
 + [JetBrains IDE全系列采用新的默认“皮肤”：即将面向所有用户提供](https://mp.weixin.qq.com/s/yiv9aHTaAUhJI7UOaL4nXQ)
++ [Intellij IDEA 2024 最新版激活指南，免费无套路！](https://mp.weixin.qq.com/s/16y-Z6d1oXdkTOmQXgJIGA)
 
-# 行业趣闻
+# 行业新闻
 
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)
 + [作为程序员，你见过哪些有趣的注释？](https://mp.weixin.qq.com/s/z5lS3zUFFXE0uhPzKkH9hA)
@@ -183,6 +185,7 @@
 + [【鸡零狗碎】CSDN是如何变成行业“毒瘤”的？](https://mp.weixin.qq.com/s/5D5D6G6gzXIVMAhUhkGp_g)
 + [这个世界著名的盗版网站，创始人刚被下了国际通缉令](https://mp.weixin.qq.com/s/x6WfzXO4oCFrlRs9UUWaLA)
 + [开源日报 | 小语言模型才是AI未来；Mbed即将EOL；揭秘DeepSeek；谷歌默认不索引新内容；“抱抱脸”宣布实现盈利](https://mp.weixin.qq.com/s/5uqU3tFi8EHabVH5HJyjBg)
++ [安卓启动器Nova几乎凉了](https://mp.weixin.qq.com/s/oWL4ngLE4sND0GAnxCXiUw)
 
 ## 有用趣闻知识
 

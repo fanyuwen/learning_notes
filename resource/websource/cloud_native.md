@@ -74,6 +74,7 @@
 ## Prometheus
 
 + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
++ [7 张图，彻底讲透 Prometheus 架构原理，收藏备用](https://mp.weixin.qq.com/s/ZeaDS35ox-NX1uJhkugChg)
 
 ## Istio
 

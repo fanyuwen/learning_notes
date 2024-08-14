@@ -25,6 +25,7 @@
 + [Kafka高可用性指南：提高数据一致性和集群容错能力！](https://mp.weixin.qq.com/s/1BSRATbb_k7sUDE60snpbg)
 + [Kafka消费端怎样保证消息不丢失？真正的处理方式其他文章中竟然没有见过](https://mp.weixin.qq.com/s/FmbJsGoXW24o1xXsqQ--Fw)
 + [Kafka如何保证消息不被重复消费？](https://mp.weixin.qq.com/s/IrR-rFXlqU3-COmVkP-n3w)
++ [Kafka ACK机制详解！](https://mp.weixin.qq.com/s/lgVK-4Mcdemi7w5cxuMWnQ)
 + [kafka集群](https://mp.weixin.qq.com/s/CMYowmUog4yK7qiMGDFKng)
 + [kafka可靠性与数据一致性](https://mp.weixin.qq.com/s/IEzwDCgw8_HBmU-Nb4Yd5g)
 + [从零开始掌握Kafka Rebalance和分区分配](https://mp.weixin.qq.com/s/7qfIoQjNXvJKSM71VCJBtw)

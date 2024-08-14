@@ -50,6 +50,7 @@
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
++ [Linux内核时钟系统和定时器实现](https://mp.weixin.qq.com/s/He9MLpH5BsuObhTQxMdbsQ)
 
 ### 网络
 
@@ -57,6 +58,7 @@
 
 ### 命令
 
++ [一篇文章让你彻底掌握 Shell](https://mp.weixin.qq.com/s/GmSqHJiBToncvcpFAJUZbw)
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
 + [七个运维必备的Shell自动化脚本](https://mp.weixin.qq.com/s/JXjERsm03PDSUXVuPiJkQA)
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)

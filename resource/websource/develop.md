@@ -426,6 +426,7 @@
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)
 + [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/frJzXx3LFycUgXzFP8lL9w)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
++ [Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/Ie0jjW6zmU_3i8geUKAvDQ)
 
 ### 编程范式
 

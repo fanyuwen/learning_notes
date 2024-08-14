@@ -190,6 +190,7 @@
 + [面向物联网的 NGINX Plus：对 MQTT 流量进行加密和身份验证](https://my.oschina.net/u/5246775/blog/15030939)
 + [借助 NGINX Plus 优化企业环境中的 MQTT 部署](https://my.oschina.net/u/5246775/blog/13371894)
 + [NGINX Gateway Fabric 如何实现复杂的路由规则](https://my.oschina.net/u/5246775/blog/15186980)
++ [Nginx 正则匹配](https://mp.weixin.qq.com/s/-iXcNRzMrWc1zCzS1hQ-BQ)
 
 ### wireshark
 

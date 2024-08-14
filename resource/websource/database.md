@@ -102,6 +102,7 @@
 ### MYSQL
 
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
++ [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [MySQL 外连接、内连接与自连接的区别？](https://mp.weixin.qq.com/s/PVORJcT20nQa_dNt9Rrpyw)
@@ -313,6 +314,7 @@
 + [如何有效避免 Redis 缓存击穿](https://my.oschina.net/u/7771480/blog/15205819)
 + [面试官：如何保证Redis缓存和数据库数据的一致性？直击灵魂的连环七问你扛得住么？（二）](https://mp.weixin.qq.com/s/Y-KF6Q3Hsklbb05fjs-bOg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
++ [Redis 击穿、穿透、雪崩产生原因以及解决思路](https://mp.weixin.qq.com/s/50-ubuGYhFV839vIqNvqCA)
 + [来聊聊redis的发布订阅设计与实现](https://mp.weixin.qq.com/s/IPSmFlLNoQZxwkGnTuHNng)
 + [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)
 + [基于redis实现的轻量级延迟队列](https://mp.weixin.qq.com/s/3foJwnH6FPOaGYTS_HwScg)

@@ -71,6 +71,8 @@
 + [Vispy，一个牛逼的python库](https://mp.weixin.qq.com/s/2us7inp6IdEsJElZuSOTJg)
 + [Dnspython，一个牛逼的python库](https://mp.weixin.qq.com/s/msCeJMGcMCOmNl6rWa8keQ)
 + [sniffio ，一个最最强大的Python库](https://mp.weixin.qq.com/s/8DaNAUhlWNC6BePZfhlucg)
++ [QuTiP ，一个最最强大的Python库](https://mp.weixin.qq.com/s/CYdMoqW8xdpLexhnycU3sw)
++ [tinydb，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/G-z_ZuO5JuQV_5B7JepVbQ)
 + [PyMC,一个世界上最牛逼的Python库](https://mp.weixin.qq.com/s/cUfTjcP6zymHaf1BpN1J7A)
 + [stanza，一个强大的Python库](https://mp.weixin.qq.com/s/PzQO7Kr12j4pFKadI5NWbw)
 + [Arrow，一个牛逼的python库](https://mp.weixin.qq.com/s/bs0RNyRUTta9u_6-JAgsgA)

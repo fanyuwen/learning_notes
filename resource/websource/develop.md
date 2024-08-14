@@ -366,6 +366,7 @@
 + [【114】对象深拷贝的原理和代码实现](https://mp.weixin.qq.com/s/EmirlOBEfIcZamsv69ja8g)
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
 + [如何拥有一个优雅的变量名缩写？](https://mp.weixin.qq.com/s/29HwdGnR1yPDwPyVEaJ5Fw)
++ [为什么程序员更喜欢 if-else 而不是 switch？](https://mp.weixin.qq.com/s/GHNm0R63LGgwVpVOQqpOZg)
 
 ## 接口相关
 
@@ -419,6 +420,7 @@
 + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)
 + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
++ [动图展示 10 大 Git 命令，让你轻松掌握Git](https://mp.weixin.qq.com/s/37lX8pkwRfe5iuufnbcFUg)
 + [Git 如何撤回已 Push 的代码](https://mp.weixin.qq.com/s/5_vzTmw85hDXILdA1BTLRA)
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/bfzGnbOhpLsTLDeQD0fL9w)
 + [git merge 和 git rebase，如何选择？](https://mp.weixin.qq.com/s/CuuO6u16GysWS9dB5NvgXg)

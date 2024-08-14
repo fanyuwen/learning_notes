@@ -1,4 +1,5 @@
 # 部署相关
+
 + [14 款 DevOps/SRE 工具，助力提升运维效率](https://my.oschina.net/u/5841507/blog/11051625)
 + [服务端持续集成实战](https://my.oschina.net/u/2512041/blog/4377200)
 + [DevOps - 实践心得](https://my.oschina.net/libin/blog/5591953)
@@ -12,7 +13,10 @@
 + [持续集成与持续交付 (CI/CD)](https://mp.weixin.qq.com/s/RpsUC4_BXx3ZlRyqN4y5QA)
 + [程序员必知必懂运维技术](https://mp.weixin.qq.com/s/x1oTSVzZNUsBHLO9i3wD7Q)
 + [亿级流量下的故障事前预防：B站如何从0-1构建变更防控体系？](https://mp.weixin.qq.com/s/LMNTPhQNYVo6w5ir9ZL0wg)
++ [链路级资损防控之资损字段防控实践｜得物技术](https://my.oschina.net/u/5783135/blog/15077035)
+
 ## JENKINS
+
 + [Jenkins 使用之邮件模板配置](https://my.oschina.net/u/2512041/blog/4377210)
 + [图解 Jenkins Pipeline 的前端自动化部署，用上后真香！](https://mp.weixin.qq.com/s/fU_aeRV5gmtfgnVUrTwobg)
 + [【Jenkins 系列】- 权限管理](https://my.oschina.net/libin/blog/5475748)
@@ -24,10 +28,14 @@
 + [告别 Jenkins ？这套轻量级自动化部署方案，让你轻松上车！](https://mp.weixin.qq.com/s/gwKUCB7xf9-cDJ5IOapieg)
 + [还在用Jenkins？快来试试这款简而轻的自动化部署工具吧！](https://mp.weixin.qq.com/s/DDfZYScLYfpEDwB2qeXHGw)
 + [还在用Jenkins？这套轻量级自动化部署方案贼带劲！](https://mp.weixin.qq.com/s/3leUgwdHNn_alzBItUiQzg)
+
 ## istio
+
 + [基于 istio 实现单集群地域故障转移](https://my.oschina.net/u/4526289/blog/11051682)
 + [基于 istio 实现多集群流量治理](https://my.oschina.net/u/4526289/blog/11051799)
+
 # 可观测性
+
 + [可观测性是什么？ 入门指南](https://my.oschina.net/morflameblog/blog/10085380)
 + [监控系统怎样做？](https://mp.weixin.qq.com/s/Qim0BSKzLUfFXf4Mkm8uVw)
 + [监控都没做好，你还要可观测性...](https://mp.weixin.qq.com/s/vbiQQpXv9eXPHMuRPTmpfw)
@@ -37,7 +45,13 @@
 + [日志打印的这10个坑,你至少踩过一个...](https://mp.weixin.qq.com/s/cPE2Y02BQ8cb625wXlLn_Q))
 + [日志信息为啥要保存180天](https://mp.weixin.qq.com/s/d88dPRozIhiuV6cUX2xBTA)
 + [如何制定有效的告警处置规范与标准 - 参考框架](https://mp.weixin.qq.com/s/4It1izrR47rrU-0EAttV_Q)
++ [轻量级的灰度 & 配置平台｜得物技术](https://my.oschina.net/u/5783135/blog/15295528)
++ [代码变更风险可视化系统建设与实践](https://my.oschina.net/meituantech/blog/10112803)
+
 ## 问题排查
+
 + [流量回放新形态：基于网关 Access Log 发起](https://my.oschina.net/u/3874284/blog/13928824)
+
 ## ELK
+
 + [ELK 处理 Spring Boot 日志，妙啊！](https://mp.weixin.qq.com/s/ydUhJFMiclQ-ZcZiDZ3kAw)

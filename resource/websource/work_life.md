@@ -34,6 +34,7 @@
 
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
++ [一个埋藏9年的底层bug发现历程](https://mp.weixin.qq.com/s/DouRB_FY1TvHKeXRXEMMqw)
 + [代码千行不如架构图一张！程序员如何培养业务思维，做有价值的需求？](https://mp.weixin.qq.com/s/jepmmvy0-I2ba30g42Qacg)
 + [思维模型：人生提质增速的十大成长型思维](https://mp.weixin.qq.com/s/EOU4oJO8i6TRVAy9tdg4Tg)
 + [我搞CRUD的，你跟我说算法有用？](https://mp.weixin.qq.com/s/BYP5h_gZqYH2SrccpFnORQ)

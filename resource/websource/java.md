@@ -922,6 +922,7 @@
 + [Disruptor 和 LinkedBlockingQueue 性能对比以及分析](https://my.oschina.net/OutOfMemory/blog/793275)
 + [Disruptor在撮合引擎的实践｜得物技术](https://mp.weixin.qq.com/s/kmuG5azJnqjKRYlkiVHWqQ)
 + [Disruptor 在撮合引擎的实践｜得物技术](https://my.oschina.net/u/5783135/blog/11334180)
++ [高性能无锁队列 Disruptor 核心原理分析及其在 i 主题业务中的应用](https://my.oschina.net/vivotech/blog/15344271)
 
 ## shiro
 

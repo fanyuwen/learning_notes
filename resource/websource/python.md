@@ -3,6 +3,7 @@
 ## 基础
 
 + [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
++ [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [python基础合集](https://mp.weixin.qq.com/s/T93d5BUMqXS-0WPDTdVufA)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
@@ -10,6 +11,7 @@
 + [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [关键词continue和break在循环中的作用和区别](https://mp.weixin.qq.com/s/zYC9zmxuCRPtKH0xQnj8sg)
++ [如何在Python中优雅地处理复杂条件判断](https://mp.weixin.qq.com/s/UDU6CuuBV5pObqyMzEEpaQ)
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
 + [45python re正则表达式](https://mp.weixin.qq.com/s/-HPFnF97V_7nQC8RpGqGPg)
 + [Python面向对象编程：多重继承和MRO深入解析](https://mp.weixin.qq.com/s/h8QjObfvUAQ9jn6BL6VJDw)
@@ -59,6 +61,7 @@
 + [每日一模块：mesop](https://mp.weixin.qq.com/s/BRdlaVrdiLqOYvKYJxXxhA)
 + [每日一模块：PhantomJS](https://mp.weixin.qq.com/s/FQXBfJwAb6a5Eyp0x0dmiQ)
 + [每日一模块：feapder](https://mp.weixin.qq.com/s/-4HFptWUrZiNsvV7XfWR3w)
++ [每日一模块：Selenium](https://mp.weixin.qq.com/s/FIIHXYtAarZOEYtqHgG-CA)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
@@ -69,6 +72,7 @@
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
 + [AutoMapper，一个最牛逼的Python库](https://mp.weixin.qq.com/s/aShjr1tMFmVvizbphU_eHA)
 + [ZODB，一个最牛逼的Python库](https://mp.weixin.qq.com/s/M4nxySrW2MrekygbELcbxA)
++ [xonsh，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/zXb94RLC5Ejv_l8Yoo0oWQ)
 + [Vispy，一个牛逼的python库](https://mp.weixin.qq.com/s/2us7inp6IdEsJElZuSOTJg)
 + [Dnspython，一个牛逼的python库](https://mp.weixin.qq.com/s/msCeJMGcMCOmNl6rWa8keQ)
 + [rauth，一个超级强大的Python库](https://mp.weixin.qq.com/s/mXS7lebdr_4Oh1aAfpOXXA)
@@ -77,7 +81,9 @@
 + [sniffio ，一个最最强大的Python库](https://mp.weixin.qq.com/s/8DaNAUhlWNC6BePZfhlucg)
 + [QuTiP ，一个最最强大的Python库](https://mp.weixin.qq.com/s/CYdMoqW8xdpLexhnycU3sw)
 + [tinydb，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/G-z_ZuO5JuQV_5B7JepVbQ)
++ [HDBSCAN，一个牛逼的python库](https://mp.weixin.qq.com/s/mx_kvpvxaEFhlpCzUxpw1w)
 + [PyMC,一个世界上最牛逼的Python库](https://mp.weixin.qq.com/s/cUfTjcP6zymHaf1BpN1J7A)
++ [Flake8——一个Python中非常有用的库.](https://mp.weixin.qq.com/s/HznHOrY9WPxKe4xsIdJQZA)
 + [stanza，一个强大的Python库](https://mp.weixin.qq.com/s/PzQO7Kr12j4pFKadI5NWbw)
 + [orange3，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/E9b_kPz9wASJI4b3WDSQdA)
 + [Arrow，一个牛逼的python库](https://mp.weixin.qq.com/s/bs0RNyRUTta9u_6-JAgsgA)
@@ -173,11 +179,14 @@
 + [Python动态代码执行：exec和compile函数](https://mp.weixin.qq.com/s/XM7l3xVE5Af2NAJV7iA9vw)
 + [这些 Python 魔术方法，竟能让你的代码焕然一新](https://mp.weixin.qq.com/s/ot1Q3WyCIaAWmiLYyC-U8g)
 + [修改与获取Python运行路径](https://mp.weixin.qq.com/s/hCuRtSMD33_kHVsNyHXJ_A)
++ [如何理解Python中的全局解释器锁（GIL）](https://mp.weixin.qq.com/s/f3VevgTFKrQDr6r2u_bJIg)
 + [13 个 Python 自动化脚本可简化你的日常任务](https://mp.weixin.qq.com/s/5r3okQRNUnDuHWLGQSI16w)
 + [反编译PyInstaller打包方式为python代码](https://mp.weixin.qq.com/s/M04Z7r5Eq_IcdjIjV9Zn7Q)
++ [自动生成 requirements.txt？Python 项目依赖管理的好帮手](https://mp.weixin.qq.com/s/bkbqoNLtqE-60QIC2zfF9w)
 + [8个Python实用技巧，让你的代码效率飞起来！](https://mp.weixin.qq.com/s/u_9hGbYJ-HINKTyWxebMGQ)
 + [从菜鸟到高手：掌握这12个 Python 循环优化技巧](https://mp.weixin.qq.com/s/T4NH0v9S5SKq083I-6DO1g)
 + [理解 Python 中的星号用法](https://mp.weixin.qq.com/s/bQ_jcOO6cT6IsL3ZZIGpHw)
++ [Python 10个 装饰器参数化：提升你的接口自动化测试效率](https://mp.weixin.qq.com/s/iRX5n1c4LAsljGrcpiNy2Q)
 + [python安装离线包](https://mp.weixin.qq.com/s/ecj_bwoLOr65-zBCimin4g)
 + [一文看懂Python中的互斥锁](https://mp.weixin.qq.com/s/qx499u9bFEqYkbOXHTmR6Q)
 + [4个Python实战项目，让你瞬间读懂Python！满满干货技能（附源码）](https://mp.weixin.qq.com/s/EjAFJ3thaUbzn6f25AOHrQ)
@@ -274,6 +283,7 @@
 
 + [OpenCV教程03：绘制图形（线段、矩形、圆形、椭圆、多边形、箭头线）+水印文本](https://mp.weixin.qq.com/s/wyPPviaEHIWifz2-cKdNCw)
 + [OpenCV图像拼接改进算法之完美拼接](https://mp.weixin.qq.com/s/Om2Ncj3deRief15h02jr4Q)
++ [Python图像处理：OpenCV基础教程](https://mp.weixin.qq.com/s/bLVK43pdnqUK4_1_kDii1Q)
 
 ### VULKAN
 

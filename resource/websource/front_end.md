@@ -10,6 +10,7 @@
 + [JavaScript Set 全新方法](https://www.oschina.net/news/298868/javascript-set-methods)
 + [TypeScript模板字符串类型的灵活性](https://mp.weixin.qq.com/s/UoeAdO5JoeBb59Mym6GbgA)
 + [业务代码里的 TypeScript 小技巧](https://my.oschina.net/u/4662964/blog/14920615)
++ [掌握JavaScript的异步迭代器，让你的前端代码更上一层楼！](https://mp.weixin.qq.com/s/ztQGKVaxlS3Lsz_rMWjfPg)
 
 ### 语言新特性
 
@@ -18,6 +19,7 @@
 + [掌握JavaScript的异步编程，让你的代码更高效](https://mp.weixin.qq.com/s/inr5-84fn-0LC4_le5c3QA)
 + [建议使用 for of 循环？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/LXbW8bRcZEuXa0JvxjJzjQ)
 + [JavaScript 的模板字符串](https://mp.weixin.qq.com/s/5AX2nl_YNE-EwXsbC9wGuA)
++ [所有主流浏览器都支持新的 JavaScript 集合方法](https://mp.weixin.qq.com/s/qQRrP80oLgqDtAyPb0q9iw)
 
 ### 底层
 
@@ -92,6 +94,7 @@
 + [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)
 + [2024 React 生态工具最能打的组合！](https://mp.weixin.qq.com/s/-YBMFwrbnidf79tRwhEYsA)
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
++ [React 的正确使用方法：ref 篇](https://mp.weixin.qq.com/s/KLbn3gFeT3r63_SobLy3eA)
 
 ### react native
 
@@ -119,6 +122,7 @@
 + [Node学习-CommonJS 模块规范](https://mp.weixin.qq.com/s/Jhlmsv7T_HSVs7Wna4Zt3w)
 + [Nest实现CRUD](https://mp.weixin.qq.com/s/3jlwTHx26rIw6pnPqZJiFw)
 + [npm install 和 lockfile 的一个误区](https://mp.weixin.qq.com/s/89qdePHAxPGeuYcMP_ySKg)
++ [在 Node.js 中操作 Redis 数据库](https://mp.weixin.qq.com/s/0qVQE32xWcRqVC2thUC3Pw)
 
 ## vite
 

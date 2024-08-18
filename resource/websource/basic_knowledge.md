@@ -20,6 +20,7 @@
 ### 实践
 
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
++ [虚拟内存、用户空间 、内核空间、用户态、内核态](https://mp.weixin.qq.com/s/lBh6V8I2_JL2usbBuNQUNg)
 + [深度探索：Linux内核优化高级指南](https://mp.weixin.qq.com/s/_MWGW9ORXopTmK3WczxszA)
 + [Linux 高端宝典：成为系统大师的秘籍](https://mp.weixin.qq.com/s/h9gw-a2wfPDGcvs1RQ-sow)
 + [Linux会话保持命令Screen教程](https://mp.weixin.qq.com/s/sZoQbrI7iiGWA0IoLkiOWg)
@@ -51,6 +52,7 @@
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
 + [Linux内核时钟系统和定时器实现](https://mp.weixin.qq.com/s/He9MLpH5BsuObhTQxMdbsQ)
++ [Linux文本编辑器终极指南](https://mp.weixin.qq.com/s/m4XfWTgc7WGEgmV-w38YoA)
 
 ### 网络
 
@@ -133,6 +135,7 @@
 + [你了解 localhost 与 127.0.0.1 的区别吗？](https://mp.weixin.qq.com/s/FPICgJri9AndnpaogskcCg)
 + [localhost vs 127.0.0.1：揭开本地网络的双面神话，你真的了解它们的区别吗？](https://mp.weixin.qq.com/s/CcPMyfDTBO0mEV0Zqk7qRw)
 + [网络基础知识：深入理解VPN技术](https://mp.weixin.qq.com/s/-KaEL0ADg2hxrZHhOAeDSQ)
++ [frp内网穿透环境搭建](https://mp.weixin.qq.com/s/SyZHVeRfNamWBFlRKeU_6Q)
 
 ### HTTP/HTTPS
 
@@ -145,6 +148,7 @@
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
 + [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/CAYZPCDMzrH248kUDrHuPw)
++ [分布式RPC和HTTP区别详解(5大核心区别)](https://mp.weixin.qq.com/s/6gSfqOvoeFbLIfZtzK43BA)
 
 #### CORS
 
@@ -191,6 +195,7 @@
 + [借助 NGINX Plus 优化企业环境中的 MQTT 部署](https://my.oschina.net/u/5246775/blog/13371894)
 + [NGINX Gateway Fabric 如何实现复杂的路由规则](https://my.oschina.net/u/5246775/blog/15186980)
 + [Nginx 正则匹配](https://mp.weixin.qq.com/s/-iXcNRzMrWc1zCzS1hQ-BQ)
++ [Nginx 限速模块大揭秘](https://mp.weixin.qq.com/s/KgEAZsLyNta4y0qthVLVLg)
 
 ### wireshark
 

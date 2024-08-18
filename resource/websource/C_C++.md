@@ -31,6 +31,9 @@
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
++ [CMake,一个沉浸式的小众c++库](https://mp.weixin.qq.com/s/kU3vJhm6K_DPn9YJPpyNsQ)
++ [Quantum++，超酷的量子计算的C++库](https://mp.weixin.qq.com/s/_aSpVPEFgUlJbzyMyjDvnA)
++ [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 + [libde265,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vaJ-gQaIaFUhq8UU8wYXKg)
 ### 学习资源
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
@@ -60,6 +63,8 @@
 + [libcurl，一个经典强大的C库](https://mp.weixin.qq.com/s/fJxVjFS1A7IQOuRvv0FeqA)
 + [libxml2，一个强大的c库](https://mp.weixin.qq.com/s/A818KjGd4WaoUDdPw_dYMg)
 + [libpng，一个强大的c语言库](https://mp.weixin.qq.com/s/9Z4VJTxyeAHzW-ZhIwX8uA)
++ [TurboPFor，一个好用的c库](https://mp.weixin.qq.com/s/YYcJEjqAcmGT4HSpb9x5Iw)
++ [TDengine，一个永远可以相信的C库](https://mp.weixin.qq.com/s/h-XFfLNKaIiICfv9t1u1gQ)
 + [imageproc，令人拍案叫绝的 C 语言图像处理库](https://mp.weixin.qq.com/s/qpgYMjh2pnWukYG-5nXNmw)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 ## verilog

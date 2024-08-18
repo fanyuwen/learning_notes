@@ -1,6 +1,7 @@
 # 主题知识
 
 + [消息队列的七种经典应用场景](https://my.oschina.net/makemyownlife/blog/11049488)
++ [消息队列使用场景](https://mp.weixin.qq.com/s/Sd5XpARhFmR_ecixZfAZDA)
 + [OpenResty+Lua+Redis+MQ实现高QPS下热点数据的存取方案](https://mp.weixin.qq.com/s/fbGyH6LoTt46liKMzfMkDw)
 + [面试官：对于MQ中的消息重复消费说说的你的理解](https://mp.weixin.qq.com/s/lg4ZxwxQgxWl8cD4W2U1CQ)
 + [MQ消息积压，把我整吐血了](https://mp.weixin.qq.com/s/L7BA4mKEGV1_GFYnBYi8MA)

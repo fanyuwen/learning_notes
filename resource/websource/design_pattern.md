@@ -66,3 +66,7 @@
 # 观察者模式
 
 + [优化代码结构-观察者模式](https://mp.weixin.qq.com/s/z4B5n8bU1Lot3J_XNTYkzw)
+
+# 原型模式
+
++ [什么是原型模式？](https://mp.weixin.qq.com/s/LwwARjNsmXZPtL5bxNE_tA)

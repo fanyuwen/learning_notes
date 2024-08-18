@@ -2,6 +2,7 @@
 
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
 + [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
++ [吊打面试官！数据架构的核心概念](https://mp.weixin.qq.com/s/042p5j1F4bCtmuK6miXIog)
 + [架构师总体架构设计与实践](https://mp.weixin.qq.com/s/TxaWpRCH8cTQXhkCSARhBQ)
 + [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
 + [基础架构部，还有必要吗？](https://mp.weixin.qq.com/s/yalmoDbY75_Pz9PCzpjiPQ)
@@ -183,6 +184,8 @@
 + [单点登录系统详解(8大原理机制图解)](https://mp.weixin.qq.com/s/udIVFgdMK249cn48g85bww)
 + [短链接服务系统开发](https://mp.weixin.qq.com/s/sr-SNG3ZHeAtOv321uRicg)
 + [短链接系统设计概要](https://mp.weixin.qq.com/s/d0KiKeA7MOiSEmKZsC7RGQ)
++ [字节三面：如何设计一个高性能短链系统？](https://mp.weixin.qq.com/s/k2pqGH2bsh2oRjBYDwweQQ)
++ [设计百万QPS的短链服务](https://mp.weixin.qq.com/s/_6neJlc0Jc0w8JMfqnTr-g)
 + [图解支付系统全自动化渠道开关设计与实现](https://mp.weixin.qq.com/s/yQTC6WTSKRv83NXmia6hCA)
 + [图解：电商支付架构设计](https://mp.weixin.qq.com/s/CngQ9KF973oYzPLBoIWvQg)
 + [整理常见的商品超卖的解决方案](https://mp.weixin.qq.com/s/EhSzxqA0eUJfutDOW-xnrA)
@@ -193,7 +196,6 @@
 + [百亿数据存储-高并发搜索如何设计？](https://mp.weixin.qq.com/s/92II6h4PotKdpyY2vY4Z9A)
 + [系统设计 | 秒杀系统设计](https://mp.weixin.qq.com/s/u7yp_SpJS18kkzoXdUNXCw)
 + [秒杀圣经：10Wqps高并发秒杀，16大架构杀招，帮你秒变架构师](https://mp.weixin.qq.com/s/_xFqDks7tVoGCjh42XE7vA)
-+ [设计百万QPS的短链服务](https://mp.weixin.qq.com/s/_6neJlc0Jc0w8JMfqnTr-g)
 + [四连问：API 接口应该如何设计？如何保证安全？如何签名？如何防重？](https://mp.weixin.qq.com/s/oJ_0kIKytFOMe7b5-UTgaw)
 + [所有 CRUD 程序员，都应该知道的 CQRS 架构！](https://mp.weixin.qq.com/s/17wlFJ9Thgeva6qrbTO2Tw)
 + [实战：单点登录的两种实现方式](https://mp.weixin.qq.com/s/C41It8I6Ao_3vPz6MPBxTA)
@@ -399,6 +401,10 @@
 
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 
+### 正则表达式
+
++ [正则表达式：破解文本世界的终极密码](https://mp.weixin.qq.com/s/bWY56d3bWP0ij2LcYC31Hg)
+
 ### UUID
 
 + [UUID 和 UUID v7](https://mp.weixin.qq.com/s/xqu-143w1ae1QgZYH7GcUQ)
@@ -424,6 +430,7 @@
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
 + [动图展示 10 大 Git 命令，让你轻松掌握Git](https://mp.weixin.qq.com/s/37lX8pkwRfe5iuufnbcFUg)
 + [Git 如何撤回已 Push 的代码](https://mp.weixin.qq.com/s/5_vzTmw85hDXILdA1BTLRA)
++ [不要慌！了解Git的逆向操作，轻松撤回提交](https://mp.weixin.qq.com/s/GZTMkSGfGW83VxcDlRuYJA)
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/bfzGnbOhpLsTLDeQD0fL9w)
 + [git merge 和 git rebase，如何选择？](https://mp.weixin.qq.com/s/CuuO6u16GysWS9dB5NvgXg)
 + [你合并代码用 merge 还是用 rebase ?](https://mp.weixin.qq.com/s/SRdfXUDRaj9aQKRzbz9BWQ)
@@ -432,12 +439,14 @@
 + [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/frJzXx3LFycUgXzFP8lL9w)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
 + [Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/Ie0jjW6zmU_3i8geUKAvDQ)
++ [Git 核心概念一览：仓库、协议、原理、服务器搭建全解析](https://mp.weixin.qq.com/s/3FK7Htmo09USo9YwE7rbWg)
 
 ### 编程范式
 
 + [编程范式，建议掌握这 5种！](https://mp.weixin.qq.com/s/Sgn6EgziU8txn9hGHp7Fpg)
 + [高级开发者的代码规范化利器](https://mp.weixin.qq.com/s/9aTYrbcwhBqz_93kGpbWtg)
 + [怎样写出无BUG的代码？](https://mp.weixin.qq.com/s/0vL4ZuaCRZiOaOPnhLnFRw)
++ [好的代码应该具备哪些特性](https://mp.weixin.qq.com/s/ObqT3DO1fj8kUKdZsBa21A)
 
 ### 问题排查
 

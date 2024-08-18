@@ -21,6 +21,8 @@
 + [数据结构详解精练：二叉树、树、森林之间的转换](https://mp.weixin.qq.com/s/tBbhLBAI804rowSAkLv-Hg)
 + [数据结构与算法（十五） 从局部解到全局解——动态规划和贪心算法](https://mp.weixin.qq.com/s/S0J55P4J3bySl-gbxIZ1Fg)
 + [每个程序员都应该知道的十大高级数据结构：彻底改变您的代码](https://mp.weixin.qq.com/s/7d0a3rn3Fm03uQyqgwpsKw)
++ [重温数据结构与算法之并查集](https://mp.weixin.qq.com/s/GRQtGuZMYK-e6Cdqmh1fow)
++ [重温数据结构与算法之前缀和](https://mp.weixin.qq.com/s/cVcHr76SkbL-crDdvW2Xew)
 
 # 密码学
 
@@ -36,6 +38,7 @@
 
 # leetcode
 
++ [学会这 8 个模式可以解决 80% 的 Leetcode 问题](https://mp.weixin.qq.com/s/TEsXwbz0XKn4nDX1d1tDZg)
 + [来字节3个月，干不动了，想跑路。。](https://mp.weixin.qq.com/s/GsAhOtGrogG8D8ZmlMO5Hw)
 + [【算法题解】71. x 的平方根](https://mp.weixin.qq.com/s/5fmu5hPxiHpbNbZtS_l-cA)
 + [排序链表 - LeetCode 热题 33](https://mp.weixin.qq.com/s/qbQo-0lFA7Y-TnkQqVqSnQ)

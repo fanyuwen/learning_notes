@@ -33,6 +33,7 @@
 # 个人成长
 
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
 + [一个埋藏9年的底层bug发现历程](https://mp.weixin.qq.com/s/DouRB_FY1TvHKeXRXEMMqw)
 + [代码千行不如架构图一张！程序员如何培养业务思维，做有价值的需求？](https://mp.weixin.qq.com/s/jepmmvy0-I2ba30g42Qacg)
@@ -85,8 +86,10 @@
 + [10.XPath插件安装并解析爬取数据](https://mp.weixin.qq.com/s/vbUkCArRSFWg0tAPVsrWMQ)
 + [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
 + [Cursor 取代 VSCode 指日可待了吧](https://mp.weixin.qq.com/s/YTQnteAUCcCp0tS-_lrsjw)
++ [Cursor 一个真正让程序员产生危机感的 AI 编程工具](https://mp.weixin.qq.com/s/shmpkeH_FmZ53GZDpKimQw)
 + [Airtable的开源替代品、MarkDown记录心得笔记，两个不容错过的实用免费项目](https://mp.weixin.qq.com/s/hxvMa6Ae2GXaIW8hitkiMw)
 + [一款开源、强大的终端共享工具，堪称神器](https://mp.weixin.qq.com/s/Ktjq_8ixeSJPdkstfjGDLA)
++ [GitHub 7 万星！开源远程桌面，TeamViewer 的替代品。](https://mp.weixin.qq.com/s/fS1SBNZddesZbK3P0TX3DA)
 + [2024 年每位开发人员都应使用的 5 种工具](https://mp.weixin.qq.com/s/r5BgqngqKuS8IiFrdI_gug)
 + [程序员值得拥有的作图神器draw.io](https://mp.weixin.qq.com/s/EeTuuBSmavCMP7qbllO7dA)
 + [接口测试工具 - MyPostMan](https://mp.weixin.qq.com/s/NYbnjvc9l7VC-ZQNyUD8ow)

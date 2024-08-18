@@ -413,7 +413,9 @@
 
 ### 版本管理
 
++ [Git 命令小抄](https://mp.weixin.qq.com/s/Pzs1X0bpXUE1AzeMxyGl3g)
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
++ [Git 分支操作全解析：创建、切换、合并、删除及冲突解决](https://mp.weixin.qq.com/s/uIA_APfF8oBjAOPM1lgeLQ)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)
 + [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)
 + [【规范】Git分支管理，看看我司是咋整的](https://mp.weixin.qq.com/s/8LRB9k-4EsgSN1lCy5az8A)

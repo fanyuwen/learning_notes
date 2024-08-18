@@ -21,6 +21,7 @@
 
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
++ [SQL常用优化的技巧](https://mp.weixin.qq.com/s/bOWG0F1P9aSojGsNq0c61Q)
 + [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
 + [SQL 优化法则，学会都是 SQL 优化大神！](https://mp.weixin.qq.com/s/1rqhVP9P5aiaplnaHGJkOQ)
 + [ODPS SQL ——列转行、行转列这回让我玩明白了！](https://mp.weixin.qq.com/s/93EiX5nUeTSxyDOt3SE1CA)

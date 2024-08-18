@@ -194,6 +194,7 @@
 ## 有用趣闻知识
 
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
++ [确认：代码覆盖率是无用的管理指标](https://mp.weixin.qq.com/s/wl3A1XTmP6NyMhgJhObvOQ)
 + [两位巨佬吃了一顿晚饭，整个互联网彻底被改变了！](https://mp.weixin.qq.com/s/wsDGJTRLjdG8WfdDDlDV8w)
 + [Go项目我不领导了，我去做AI了](https://mp.weixin.qq.com/s/vsoLl6szzeHhFctOMLkA3A)
 + [63.5岁程序员退休；用Nim编写的业余OS;,提及热情消退;谷歌Gemini AI扫描用户文件;Rust在Linux文件系统](https://mp.weixin.qq.com/s/b6S8qmdj8oE7ZbA3a_adgQ)

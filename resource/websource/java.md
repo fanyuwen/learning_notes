@@ -57,9 +57,11 @@
 
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
++ [Java8两个List集合取交集、并集、差集、去重并集](https://mp.weixin.qq.com/s/70pB867KMx6nGNT1RoNVHw)
 + [断言+异常处理类，代码更简洁了](https://mp.weixin.qq.com/s/r4WYftw0Nvyslgl-I-bmqg)
 + [Java 8函数式编程全攻略：43种函数式业务代码实战案例解析(收藏版)](https://mp.weixin.qq.com/s/uv5vDPinVJRBfW6nl4om-A)
 + [Java8中一个极其强悍的新接口，炸裂！很多人没用过](https://mp.weixin.qq.com/s/Qkicx2aTiI95Km481jHfdg)
++ [Java8中一个极其强悍的新接口，炸裂！很多人没用过（非常实用）](https://mp.weixin.qq.com/s/V8vXHzRJ9ikPu4S3im64cg)
 + [如何去掉代码中的if...else](https://mp.weixin.qq.com/s/4kL1JS5e8a5qrRasaTZafg)
 + [Java 中的 script 引擎在游戏中的使用](https://my.oschina.net/OutOfMemory/blog/527483)
 + [for 循环为何可恨？](https://my.oschina.net/justjavac/blog/66625)
@@ -70,7 +72,6 @@
 + [如何编写 Null-Safety 代码？一文帮你讲透！](https://mp.weixin.qq.com/s/TcqYhz4YQSpS6vlOFT0-PQ)
 + [Java实际开发过程中的那些基础代码...](https://mp.weixin.qq.com/s/KWb4L2WVY42TcUkYwSy8gQ)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
-+ [Java8中一个极其强悍的新接口，炸裂！很多人没用过（非常实用）](https://mp.weixin.qq.com/s/V8vXHzRJ9ikPu4S3im64cg)
 
 ## 代码质量
 
@@ -171,6 +172,7 @@
 
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
++ [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
 + [3分钟带你秒懂对象的内存分配流程](https://mp.weixin.qq.com/s/FTvTMBwvPXmiiTVmykQiHA)
 + [一文轻松了解Java常用的垃圾收集器](https://mp.weixin.qq.com/s/Z7lwL6cXnRfF6MK5o1QUdQ)
@@ -303,6 +305,7 @@
 + [这才是Spring为什么不支持static字段注入的原因【源码分析】](https://mp.weixin.qq.com/s/YrFHt3J5ALdeXe9TNMjBXg)
 + [Spring IoC和AoP重点总结](https://mp.weixin.qq.com/s/7uiNuOyxinwIT-7Fg0dc9g)
 + [还记得Spring这2个强大的配置类吗？](https://mp.weixin.qq.com/s/4PXOfx-Cm-ci8S0b3bmCXQ)
++ [Spring 纯注解开发，有点强！！](https://mp.weixin.qq.com/s/gUbXshBZQtW6SX-Q84y74g)
 + [Spring强大的@Configurable注解使用过吗？注意不是@Configuration](https://mp.weixin.qq.com/s/k30BQeXqjZXJhx5dlKXiQQ)
 + [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
 + [Spring纯注解开发，有点强！！](https://mp.weixin.qq.com/s/YFLUrWpIkhCuHsO7OA2p5g)
@@ -363,6 +366,7 @@
 
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
 + [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
++ [深入理解SpringMVC工作原理，像大牛一样手写SpringMVC框架](https://mp.weixin.qq.com/s/Ck8ICf1aEzMO8eIqCPYSbw)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [Spring接口版本控制方案及RequestMappingHandlerMapping接口介绍](https://mp.weixin.qq.com/s/6aGGk6xwD5jDRbVNqryc5g)
 + [如何在Spring中通过自定义注解EnumValue校验枚举值](https://mp.weixin.qq.com/s/W8EfPv16W-eMPctw6QjY6Q)
@@ -479,10 +483,11 @@
 
 ### boot
 
-+ [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
++ [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [14个SpringBoot优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/1KhaQYb1BYc6vUnGG2dyzQ)
++ [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
 + [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
@@ -491,6 +496,9 @@
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
 + [Java进阶篇 -- SpringBoot全局异常处理器](https://mp.weixin.qq.com/s/avmpuA6sv4qdFl8Mx30lMQ)
 + [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
++ [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
++ [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
++ [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
 + [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/Z2kwMiS58F80zSXyTjfAZA)
 + [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
@@ -581,7 +589,6 @@
 + [Spring Boot支持发送邮件](https://mp.weixin.qq.com/s/qGInYLdwgOblO9ebZdZCFg)
 + [SpringBoot中的Bean注入顺序：确保配置属性正确读取](https://mp.weixin.qq.com/s/dlAVwvHcSofJI8Qmbj3J1w)
 + [Spring Boot集成rss快速入门demo](https://mp.weixin.qq.com/s/A9DyshjNDC2qGV5x4gFeuQ)
-
 + [使用Spring Boot整合Minio实现文件上传下载功能](https://mp.weixin.qq.com/s/bNUc9qIqSTDESN4faw68tg)
 + [使用 Spring Boot + MinIO 实现文件的分片上传、秒传、续传功能开发](https://mp.weixin.qq.com/s/RfykL6POn13-HhKp_lQ23Q)
 + [理解 Spring Boot 中的 @Conditional 和 @Configuration 注解](https://mp.weixin.qq.com/s/I_IwZoLmH-wRpucvJA-G_g)
@@ -621,14 +628,12 @@
 + [Spring Boot 最核心的 25 个注解，都是干货！](https://mp.weixin.qq.com/s/lOA9djEptJyZ2sm93nxr-Q)
 + [SpringBoot项目多层级多环境yml设计](https://mp.weixin.qq.com/s/xGLh_iaLMgLa-YOROwUg2w)
 + [Springboot 关于日期时间格式化处理方式总结](https://mp.weixin.qq.com/s/kmMc9uIT833Cz69wT1rp8g)
-
 + [还不会SpringBoot项目模块分层？来这手把手教你！](https://mp.weixin.qq.com/s/fpkiNR2tj832a6VxZozwDg)
 + [springboot项目中，读取 resources 目录下的文件的9种方式](https://mp.weixin.qq.com/s/RId4FC7R2PKQBfBcGwr6hA)
 + [Springboot3配置Mapping统一前缀](https://mp.weixin.qq.com/s/KfT4m6gpCUb6FRIfd7HuTg)
 + [Spring Boot+Blockchain：区块链入门Demo](https://mp.weixin.qq.com/s/d9xFdsDwnpvpTrT4eRjuNg)
 + [SpringBoot + 规则引擎 URule，真的很强！](https://mp.weixin.qq.com/s/deLIc4Uh0Liqr3a5ZyBtzQ)
 + [Spring Boot + URule 实现可视化规则引擎，太优雅了！](https://mp.weixin.qq.com/s/47MBFXqstYj7TCFaFuTG-g)
-+ [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
 + [SpringBoot 生产中 16 条最佳实践](https://mp.weixin.qq.com/s/9A_Z2Tgr2DUANTvFchGsuw)
 + [SpringBoot 实现热插拔AOP，非常实用！](https://mp.weixin.qq.com/s/VNsw9SgYPJFm9fdVLd9Yvw)
 + [公司入职一个阿里大佬，把 Spring Boot 系统启动时间从 7 分钟降到了 40 秒！](https://mp.weixin.qq.com/s/fBALOthJQjE9ZNl-uszWvg)
@@ -769,6 +774,7 @@
 + [SpringBoot实战：SpringBoot中如何正确使用线程池](https://mp.weixin.qq.com/s/zISlvp8BGJEDClYoXVyDmw)
 + [SpringBoot高并发！业务方法重试就该使用它](https://mp.weixin.qq.com/s/wHSYpgPXMHEaPWZ9B1qjsw)
 + [使用 SpringBoot + 虚拟线程将服务性能提升几百倍！](https://mp.weixin.qq.com/s/hKORyJ9X85HoFFqadC3E1g)
++ [Spring Boot 实现方法异步调用的正确姿势！](https://mp.weixin.qq.com/s/IbiMcQFbb-qtDXpWlegg9g)
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)
 + [Spring Boot 创建定时任务](https://mp.weixin.qq.com/s/ovepnnMUkpgtZycwpEjU_A)
 + [SpringBoot 实战： Spring Boot 3种定时任务方式](https://mp.weixin.qq.com/s/nZlWjBHnpVsYESbs0vadgg)

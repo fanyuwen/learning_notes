@@ -53,6 +53,7 @@
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
 + [Linux内核时钟系统和定时器实现](https://mp.weixin.qq.com/s/He9MLpH5BsuObhTQxMdbsQ)
 + [Linux文本编辑器终极指南](https://mp.weixin.qq.com/s/m4XfWTgc7WGEgmV-w38YoA)
++ [你可能不知道 xz 也是一种压缩格式](https://mp.weixin.qq.com/s/4rkIPKHPfWN2I1q9Pswj9A)
 
 ### 网络
 
@@ -136,6 +137,7 @@
 + [你了解 localhost 与 127.0.0.1 的区别吗？](https://mp.weixin.qq.com/s/FPICgJri9AndnpaogskcCg)
 + [localhost vs 127.0.0.1：揭开本地网络的双面神话，你真的了解它们的区别吗？](https://mp.weixin.qq.com/s/CcPMyfDTBO0mEV0Zqk7qRw)
 + [网络基础知识：深入理解VPN技术](https://mp.weixin.qq.com/s/-KaEL0ADg2hxrZHhOAeDSQ)
++ [网络抓包08 - 搜索系统调用](https://mp.weixin.qq.com/s/d46juMWFEiif3GXLPyygPA)
 + [frp内网穿透环境搭建](https://mp.weixin.qq.com/s/SyZHVeRfNamWBFlRKeU_6Q)
 
 ### HTTP/HTTPS

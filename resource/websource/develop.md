@@ -393,6 +393,7 @@
 + [推荐一套轻量级、高效、可扩展的日志系统解决方案](https://mp.weixin.qq.com/s/SnrHRFglf5DgLKjIRbP-SQ)
 + [业务系统存储设计](https://mp.weixin.qq.com/s/zBy2ungNiiFb6hwiNRRltg)
 + [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
++ [如何实现同一端口代理不同的后端服务](https://mp.weixin.qq.com/s/AT74UG5RfNLLV88XKmuX2g)
 
 ## 领域知识
 
@@ -430,6 +431,7 @@
 + [【规范】Git分支管理，看看我司是咋整的](https://mp.weixin.qq.com/s/8LRB9k-4EsgSN1lCy5az8A)
 + [告别混乱，拥抱高效：Git 分支管理进阶技巧](https://mp.weixin.qq.com/s/qu1rMSM2TD8BAsseOfwcng)
 + [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/vEC6KgPpQcF54z2wnfCHjA)
++ [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/8R0SDQn09IaVyB3Pw8YIvA)
 + [Git 分支与 Commit 常见提交规范](https://mp.weixin.qq.com/s/MGWEetoARsFkJCIIBtsyag)
 + [动图展示 10 大 Git 命令，让你轻松掌握Git](https://mp.weixin.qq.com/s/37lX8pkwRfe5iuufnbcFUg)
 + [Git 如何撤回已 Push 的代码](https://mp.weixin.qq.com/s/5_vzTmw85hDXILdA1BTLRA)
@@ -441,6 +443,7 @@
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)
 + [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/frJzXx3LFycUgXzFP8lL9w)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
++ [Git命令基操必须要会！](https://mp.weixin.qq.com/s/b341U5_GOdDj3SddnqQA7w)
 + [Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/Ie0jjW6zmU_3i8geUKAvDQ)
 + [Git 核心概念一览：仓库、协议、原理、服务器搭建全解析](https://mp.weixin.qq.com/s/3FK7Htmo09USo9YwE7rbWg)
 
@@ -456,6 +459,7 @@
 + [面试被问：线上故障排查过哪些，如何排查的？](https://mp.weixin.qq.com/s/GPdgIy2qpbV-bTq3RwDsCQ)
 + [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)
 + [正则表达只学习了个皮毛引起的 BUG](https://mp.weixin.qq.com/s/N918inN3MPMMm3JZDjnzCQ)
++ [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/qZMPu29u2BZtYMpzPU33JA)
 
 ### 项目管理
 

@@ -17,6 +17,7 @@
 + [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
++ [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 
 ## 新语言特性
 
@@ -57,6 +58,8 @@
 
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
++ [Java Sream中如何自定义Collector实现复杂数据的收集](https://mp.weixin.qq.com/s/jW0ZoQP3gOUzbXW3qLWO9g)
++ [Java 8 Stream API 深度探索：多层嵌套、分组聚合与复杂过滤](https://mp.weixin.qq.com/s/ZcmdyMhORXKoePiVjJHOJA)
 + [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
 + [总结｜Stream流技术在真实案例中的应用](https://mp.weixin.qq.com/s/mZbejfgxLVwO7pu4nkRjIg)
 + [Java 8 Stream API 实现各种数据类型的转换](https://mp.weixin.qq.com/s/CMOAP0d_fjIoKK6Owe5d7A)
@@ -69,6 +72,7 @@
 + [如何避免 Java 代码中的 “类泛滥” 陷阱？一文说透！](https://mp.weixin.qq.com/s/zgBCWXRMNgyvw_rFNNBDEg)
 + [如何去掉代码中的if...else](https://mp.weixin.qq.com/s/4kL1JS5e8a5qrRasaTZafg)
 + [Java 中的 script 引擎在游戏中的使用](https://my.oschina.net/OutOfMemory/blog/527483)
++ [一文带你从源码中学习那些实用的位运算技巧](https://mp.weixin.qq.com/s/UfjaZO_QCvgtEoCf1O7nDw)
 + [for 循环为何可恨？](https://my.oschina.net/justjavac/blog/66625)
 + [阿里二面：使用 try-catch 捕获异常会影响性能吗？很多人都答错！](https://mp.weixin.qq.com/s/zwEU7Zno8pzpvvtUyhKAaw)
 + [深入理解JDK动态代理](https://mp.weixin.qq.com/s/gmV9JAj4lxrEJGfk6tWnWQ)
@@ -122,6 +126,7 @@
 + [Java反射机制最全详解(图文全面总结)](https://mp.weixin.qq.com/s/-tuiPpAATmgmWaWlV89zWg)
 + [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
 + [为什么idea建议使用“+”拼接字符串](https://mp.weixin.qq.com/s/5o2rC0h4nvaeJMVSEsrHAg)
++ [java本地代码一定性能更高吗？](https://mp.weixin.qq.com/s/CQM6RVdfGIr_h6sc0UONSA)
 + [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [深入探讨Java的分层编译](https://mp.weixin.qq.com/s/ZNNyRrjjLlaeepuUByqaGQ)
 + [深入剖析Java中的引用类型](https://mp.weixin.qq.com/s/e2_qkilByK4AN3YAu6VFsQ)
@@ -238,6 +243,7 @@
 + [Java Comparator 珍藏版](https://mp.weixin.qq.com/s/KjCOIPqUbaqyHAu2sEKFhw)
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 + [java io的应用场景举例](https://mp.weixin.qq.com/s/BOm6ZEjiM3URfOZOSRkI0A)
++ [揭秘Java 8新宠儿：初识Optional，让你的代码告别空指针烦恼](https://mp.weixin.qq.com/s/sm83xsE90MeF2NRIJA5RNw)
 
 ## concurrent库
 
@@ -447,6 +453,7 @@
 
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
 + [Spring源码中是如何使用设计模式六大原则的](https://mp.weixin.qq.com/s/VlKGPtG9TXMXM9OncDt83A)
++ [Spring Boot实战：使用模板方法模式优化数据处理流程](https://mp.weixin.qq.com/s/djh5LNpg2lU1CznJ46R7Uw)
 
 ### STATEMACHINE
 
@@ -543,6 +550,7 @@
 + [Spring Boot + flowable 快速实现工作流](https://mp.weixin.qq.com/s/Z_Ujb_d_sB9DTjFsDxSV7g)
 + [SpringBoot @Value注解这些高级玩法用过吗？](https://mp.weixin.qq.com/s/h6w-vPWkgO7sAA2BsS_d3w)
 + [Spring Boot性能优化：提高响应速度的秘密](https://mp.weixin.qq.com/s/cmAin_cBMO_rHz7aJVRzhQ)
++ [Spring Boot集成Jythonb并且支持三方的python依赖包](https://mp.weixin.qq.com/s/lBay7zHDzn2o8WKON2gDDg)
 + [Spring Boot 3.3 正式发布，王炸级更新，应用启动实现质的飞跃](https://mp.weixin.qq.com/s/CI97dAuhc9dKdSYZuTPmfA)
 + [使用 Spring Boot + Resilience4J 实现断路器功能开发](https://mp.weixin.qq.com/s/V4EEUmJJveGC3d0-KWn_VQ)
 + [手写Spring Boot启动器：实现布隆过滤器](https://mp.weixin.qq.com/s/nbR9D5F0tjZfNxYWjU1mdA)
@@ -1053,6 +1061,7 @@
 ### Mockito
 
 + [单元测试的超级英雄：Mockito如何助你实现完美测试覆盖率](https://mp.weixin.qq.com/s/lBLqC58YQHBWQ907S1vhOw)
++ [JDK11下Mock框架进化：从PowerMockito到Mockito Only](https://mp.weixin.qq.com/s/OsySrzocrMmJdk6C0_h60A)
 
 ## 其它工具
 

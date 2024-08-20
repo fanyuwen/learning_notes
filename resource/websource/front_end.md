@@ -11,6 +11,7 @@
 + [TypeScript模板字符串类型的灵活性](https://mp.weixin.qq.com/s/UoeAdO5JoeBb59Mym6GbgA)
 + [业务代码里的 TypeScript 小技巧](https://my.oschina.net/u/4662964/blog/14920615)
 + [掌握JavaScript的异步迭代器，让你的前端代码更上一层楼！](https://mp.weixin.qq.com/s/ztQGKVaxlS3Lsz_rMWjfPg)
++ [为何let取代了var？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/lc1-ZQxV8cEqNUQg_4yEhw)
 
 ### 语言新特性
 
@@ -31,6 +32,7 @@
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
++ [代码片段分享：7个实用的async/await代码片段，轻松掌握JavaScript异步操作](https://mp.weixin.qq.com/s/yL0neR4PNB3TShkJEfI68w)
 + [18个面向专业开发人员的高级 JavaScript 技术](https://mp.weixin.qq.com/s/AyTxXOaUZvk0MNcyxdOoRQ)
 + [90% 的人都会答错的一道 JavaScript 面试题](https://mp.weixin.qq.com/s/UIjIUh5gRza_rFi-eeHqcg)
 + [记录一个函数执行了多长时间？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/-ujZXjOKeExjwulUUZU72w)

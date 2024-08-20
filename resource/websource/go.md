@@ -45,6 +45,7 @@
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
 + [在golang里使用 ZooKeeper，如何使用](https://mp.weixin.qq.com/s/6UhOq4wGsmiaBhhPAbahaw)
 + [Go 面试题：切片分隔、切片长度、切片扩容](https://mp.weixin.qq.com/s/lnsIjDwBvy8IxHo0ciNzbg)
++ [理解 errgroup](https://mp.weixin.qq.com/s/R1OBMEXpSTDgEVWHQ-rekQ)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
 + [fasthttp 比标准库 net/http 快 10 倍](https://mp.weixin.qq.com/s/IjzlueIzR0IiFUS-EsIsdg)
 + [面向OpenTelemetry的Golang应用无侵入插桩技术](https://mp.weixin.qq.com/s/FKCwzRB5Ujhe1stOH2ibXg)
@@ -75,6 +76,7 @@
 + [推荐几个非常不错的 go 开源项目（建议收藏）](https://mp.weixin.qq.com/s/gHaq1qhFtPHM3kn1E5alVA)
 + [聚合接口层（BFF）之Go语言版（三）统一响应、中间件](https://mp.weixin.qq.com/s/UphhHnM_viMD3KX863teUg)
 + [Go Gin 静态文件服务：构建高效、灵活的资源交付系统](https://mp.weixin.qq.com/s/KHrHlAYb-P4qYOpWQhMBoA)
++ [基于 Gin 框架的 Go 后端架构最佳实践](https://mp.weixin.qq.com/s/DaCkIznCqxHeInNP5fYNgA)
 
 # 面试题
 

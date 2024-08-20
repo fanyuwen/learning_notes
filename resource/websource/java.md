@@ -459,6 +459,10 @@
 
 + [轻松搞定 Spring 集成缓存，让你的应用程序飞起来！](https://mp.weixin.qq.com/s/rJCtykEdvjPNxET-zi88Iw)
 
+### EVENT
+
++ [Spring事件（Application Event）](https://mp.weixin.qq.com/s/fCD-5-j1S3qTAE2XNwpgww)
+
 ### AOP
 
 + [面向切面编程：干净、可维护代码的秘密武器](https://mp.weixin.qq.com/s/6dPVQXMvPxmZ45lTuQG8KQ)
@@ -516,6 +520,7 @@
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
++ [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
 + [Java进阶篇 -- SpringBoot全局异常处理器](https://mp.weixin.qq.com/s/avmpuA6sv4qdFl8Mx30lMQ)
 + [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
@@ -525,6 +530,7 @@
 + [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
 + [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
 + [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/Z2kwMiS58F80zSXyTjfAZA)
++ [请不要再使用@Autowired/@Resource注解进行字段注入](https://mp.weixin.qq.com/s/YCvfXwNXiPyNlUOZulj_gQ)
 + [SpringBoot3必须掌握的5个强大功能，其中JVM优化技巧太厉害了](https://mp.weixin.qq.com/s/5zhu2Yowlc6zAGtUZtpkAA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/VTvkXivAkcM5xKMrh5ve8A)
 + [SpringBoot如何防止反编译？proguard+xjar 完美搞定](https://mp.weixin.qq.com/s/ETgMHtwuBtdZpUf-8M_R0Q)
@@ -674,7 +680,7 @@
 
 + [实战案例SpringBoot整合Seata AT模式实现分布式事务【超详细】](https://mp.weixin.qq.com/s/570OVCaUusSndNLi5UPw5A)
 
-#### web
+#### WEB
 
 + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
@@ -748,18 +754,18 @@
 + [使用Spring Boot开发API时的请求参数读取机制](https://mp.weixin.qq.com/s/wrisbOB5acH5-ttEHyHBGA)
 + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
 
-##### vue
+##### VUE
 
 + [Vue打包文件dist放在SpringBoot项目下运行（正确实现全过程）](https://mp.weixin.qq.com/s/RvdB__JCHjfb-o03l2ES4w)
 
-##### websocket
+##### WEBSOCKET
 
 + [必不可少的技能之SpringBoot+WebSocket配置详解](https://mp.weixin.qq.com/s/paAH9GGdW81V2o64SfrANg)
 + [SpringBoot3 集成 WebSocket 是真的简单](https://mp.weixin.qq.com/s/AoaUkggTuPjlhAlzbWKlUQ)
 + [WebSocket 服务端数据推送及心跳机制 (Spring Boot + VUE)](https://mp.weixin.qq.com/s/uaziTw3HG6DXUzEsoPJYhw)
 + [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
 
-#### data
+#### DATA
 
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
 + [使用 Spring Boot + EasyExcel 实现 百万级数据导入导出功能开发](https://mp.weixin.qq.com/s/oXo4V93FpWlPEPp7H7b9PA)
@@ -787,7 +793,7 @@
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
 + [Spring Boot 集成 Elasticsearch【入门篇】](https://mp.weixin.qq.com/s/jlWWaxdZH02rLF67JGoLHg)
 
-##### big data
+##### BIG DATA
 
 + [Spring Boot 3.x + Flink 实现实时数据聚合与窗口操作](https://mp.weixin.qq.com/s/vY5MtaW2Uye28JvzC0P_fg)
 + [Spring Boot 3.x + Flink 实现大数据文件处理的优化方案](https://mp.weixin.qq.com/s/-mPkuq50T7OUsJGBLseDdQ)
@@ -795,7 +801,7 @@
 + [实时同步神器:Flink 和 Spring Boot 实现 MySQL 数据同步](https://mp.weixin.qq.com/s/2tnhS04ZVb9RWeODE9U1cA)
 + [SpringBoot 整合 Flink CDC 实时捕获 MySQL 变更数据](https://mp.weixin.qq.com/s/-W-hTTmftfEQbh2XrSvNCg)
 
-#### 多线程
+#### CONCURRENCY
 
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
 + [SpringBoot实战：SpringBoot中如何正确使用线程池](https://mp.weixin.qq.com/s/zISlvp8BGJEDClYoXVyDmw)
@@ -817,15 +823,16 @@
 + [性能爆表：SpringBoot利用ThreadPoolTaskExecutor批量插入百万级数据实测！](https://mp.weixin.qq.com/s/69NWsNm_8_35x-bjEWg_Uw)
 + [SpringBoot + 虚拟线程，鸟枪换大炮！](https://mp.weixin.qq.com/s/5NNJ1n7WKQPb4I1lZPMYfQ)
 + [@Schedule定时任务+分布式环境，这些坑你一定得注意！！！](https://mp.weixin.qq.com/s/zzf_750q2GgfK3X-tFfn3w)
++ [SpringBoot+虚拟线程，鸟枪换大炮！](https://mp.weixin.qq.com/s/cQHkzOOSeusnXS_nHDpDRw)
 
-#### 事件
+#### EVENT
 
 + [如何在Spring Boot中创建自定义的SpringEvent增强组件](https://mp.weixin.qq.com/s/Tdn4WgnclcK32APLgKFFeA)
 + [在SpringBoot的SpringApplication中ApplicationListener监听器是如何监听应用事件的](https://mp.weixin.qq.com/s/MLrdMEGrIvSVHtLsPX0bhg)
 + [Spring Boot Event 观察者模式，轻松实现业务解耦！](https://mp.weixin.qq.com/s/QfVvBQ4NwoSuTD6iGlzSPA)
 + [Reactor模型在Spring Boot中的应用](https://mp.weixin.qq.com/s/atFVq47LOfV74xh9gNhJbw)
 
-#### 缓存
+#### CACHE
 
 + [SpringBoot项目中使用缓存Cache的正确姿势！！!](https://mp.weixin.qq.com/s/XjKCJeqYx5dDNlfvXWaqyw)
 + [Spring Boot + Caffeine Cache yyds！](https://mp.weixin.qq.com/s/pIdVYFDZvqh-T5G8R7KBKQ)
@@ -1117,3 +1124,4 @@
 + [一种新的流：为Java加入生成器(Generator)特性](https://mp.weixin.qq.com/s/v-HMKBWxtz1iakxFL09PDw)
 + [阿里开源的 JetCache-Alibaba 缓存框架，来了解一下？](https://mp.weixin.qq.com/s/orP-qRG8SdtyNj4M1xaapw)
 + [微服务面试还是问Spring Cloud Alibaba的比较多](https://mp.weixin.qq.com/s/3M2HUPjWVS0BitZ9-zGnGQ)
++ [生产环境大面积404，这锅我不背！](https://mp.weixin.qq.com/s/SF-LWtvLvpayHR2ColtpKQ)

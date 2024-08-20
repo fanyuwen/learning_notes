@@ -80,8 +80,10 @@
 
 + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
 + [一款超好用的国产Redis可视化工具，高颜值UI ，真心YYDS](https://mp.weixin.qq.com/s/gpomm0xQf-shNFYZi_n_NA)
++ [别再写代码测试并发了，太 Low！模拟并发的 4 种方法，还有谁不会？？](https://mp.weixin.qq.com/s/5w0-sF7SprmEni-18GpH9g)
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
++ [Redis 官方可视化工具，高颜值，功能真心强大！](https://mp.weixin.qq.com/s/n_7C4dxSSv_1x7ZuEs7wQg)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
 + [36.2K Star颜值不错!!!再见Notion,全能型知识管理工具](https://mp.weixin.qq.com/s/Hm7r7W5QvVr-fQjn_CjZUQ)

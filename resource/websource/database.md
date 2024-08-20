@@ -198,6 +198,7 @@
 + [三种方案优化 2000w 数据大表！忒强~](https://mp.weixin.qq.com/s/KXE0rEjJyebnnd4cEri6Iw)
 + [5000w+ 的大表如何拆？亿级别大表拆分实战复盘](https://mp.weixin.qq.com/s/XrD6vGe4iYux7zWHLB3W_Q)
 + [Mysql深度分页问题的处理方案](https://mp.weixin.qq.com/s/QGoswpMRwc6ffLLaHmBeDA)
++ [京东面试：分库分表后，如何设计 深度翻页？](https://mp.weixin.qq.com/s/Mx3G2R88EHO0koC8-HcWDA)
 + [分布式任务调度内的 MySQL 分页查询优化](https://my.oschina.net/vivotech/blog/11188141)
 + [慢 SQL 监控都不会？Out！](https://mp.weixin.qq.com/s/I2RMiilpZKz-eioJc15L8w)
 + [数据库优化大作战：15招高效MySQL性能调优策略大揭秘](https://mp.weixin.qq.com/s/ZfRwLETgA-2RyQR_tPvJlQ)
@@ -251,6 +252,7 @@
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)
 + [MySQL 如何实现索引机制](https://mp.weixin.qq.com/s/KMYIGyf-PJTsNgV1rPUGag)
++ [明明加了唯一索引，为何还有重复数据](https://mp.weixin.qq.com/s/zSvVhZT9M9F66u5EjyrKYg)
 + [告别慢如蜗牛的搜索，MySQL全文索引来帮你！](https://mp.weixin.qq.com/s/vcfGx5aKugJ7T8vogtD4lA)
 + [为什么你的索引会失效？](https://mp.weixin.qq.com/s/b4CDWYkpBWb280MwUAEeKg)
 + [深入探索MySQL索引策略](https://mp.weixin.qq.com/s/XpukKx9Ovl4bqil8cNDP0g)
@@ -276,6 +278,7 @@
 + [(六)MySQL索引原理篇：深入数据库底层揭开索引机制的神秘面纱！](https://mp.weixin.qq.com/s/4ztErqEWKtr19PJG5T8bUw)
 + [2024年你不懂使用了索引反而变慢如何排查你就 OUT 了](https://mp.weixin.qq.com/s/jmWH-WQSA3auiH69tr0dsg)
 + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
++ [Mysql索引原理和查询优化 1](https://mp.weixin.qq.com/s/lpFoAEW5Ob8p3vLJ6xUb9A)
 
 ### PostgreSQL
 

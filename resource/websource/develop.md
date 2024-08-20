@@ -59,6 +59,7 @@
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
++ [微服务架构 VS. 单体架构：对比与抉择](https://mp.weixin.qq.com/s/E5b_r9pGKWEnXgshlMbLaA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
 + [微服务 vs. 事件驱动架构：重新开始理解差异](https://mp.weixin.qq.com/s/M9IQX6CnlH50BXuNgHOvIw)
 + [微服务Token鉴权设计的几种方案](https://mp.weixin.qq.com/s/YINEVqGziyp99_SiWgmKpQ)
@@ -259,6 +260,7 @@
 ## 优化
 
 + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
++ [九大服务架构性能优化方式](https://mp.weixin.qq.com/s/38rsvewtkkqxRLPad-P3_Q)
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
 + [我把接口从3s优化到了0.3s!](https://mp.weixin.qq.com/s/oeOpJLw9E8QRURbSOEV4Rg)
 + [提高系统的并发能力方案](https://mp.weixin.qq.com/s/6F_OGrX-4qThxtZ3rcORkw)
@@ -420,6 +422,7 @@
 ### 版本管理
 
 + [Git 命令小抄](https://mp.weixin.qq.com/s/Pzs1X0bpXUE1AzeMxyGl3g)
++ [Git常用命令行整理](https://mp.weixin.qq.com/s/kim-amBbJ5Wf_LOEovnJhQ)
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
 + [Git 分支操作全解析：创建、切换、合并、删除及冲突解决](https://mp.weixin.qq.com/s/uIA_APfF8oBjAOPM1lgeLQ)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)

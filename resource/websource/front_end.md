@@ -94,6 +94,7 @@
 + [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)
 + [2024 React 生态工具最能打的组合！](https://mp.weixin.qq.com/s/-YBMFwrbnidf79tRwhEYsA)
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
++ [2024 年在 React 中使用 TypeScript 的 10 个令人信服的理由：开发人员指南](https://mp.weixin.qq.com/s/tSdmvm2WozeRtbuOLUyneg)
 + [React 的正确使用方法：ref 篇](https://mp.weixin.qq.com/s/KLbn3gFeT3r63_SobLy3eA)
 
 ### react native

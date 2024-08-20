@@ -33,8 +33,10 @@
 # 个人成长
 
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
++ [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [一个埋藏9年的底层bug发现历程](https://mp.weixin.qq.com/s/DouRB_FY1TvHKeXRXEMMqw)
 + [代码千行不如架构图一张！程序员如何培养业务思维，做有价值的需求？](https://mp.weixin.qq.com/s/jepmmvy0-I2ba30g42Qacg)
 + [思维模型：人生提质增速的十大成长型思维](https://mp.weixin.qq.com/s/EOU4oJO8i6TRVAy9tdg4Tg)
@@ -202,6 +204,7 @@
 + [Go项目我不领导了，我去做AI了](https://mp.weixin.qq.com/s/vsoLl6szzeHhFctOMLkA3A)
 + [63.5岁程序员退休；用Nim编写的业余OS;,提及热情消退;谷歌Gemini AI扫描用户文件;Rust在Linux文件系统](https://mp.weixin.qq.com/s/b6S8qmdj8oE7ZbA3a_adgQ)
 + [为什么Python之父至今还是一个程序员，不做Leader不做管理](https://mp.weixin.qq.com/s/Gq7_kNuTO8BQcNOE23dTGA)
++ [快排查：Spring 和 Nacos 双双爆出安全漏洞](https://mp.weixin.qq.com/s/h3NH1N6eZnHwR0wqVeKg5w)
 + [一图了解常见开源协议](https://mp.weixin.qq.com/s/vSSuLQIkp11mOGY8iYkwDw)
 + [域名过期会怎么样?推荐域名过期实用小技巧](https://mp.weixin.qq.com/s/zS8WxNYE6pjYoyanABQAjg)
 + [17年不更新，世界上最简陋的网站，收割了全世界的程序员](https://mp.weixin.qq.com/s/tMMXSfN0TMWQzNsiQEbzsA)

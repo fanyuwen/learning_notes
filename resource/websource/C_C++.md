@@ -1,6 +1,7 @@
 # 语言相关
 ## 工具
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
++ [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
 ## C++
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
@@ -31,8 +32,12 @@
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
++ [SoLoud，一个好用的c++库](https://mp.weixin.qq.com/s/uwNJRJs_e05Djw5aCxQzag)
++ [Speex，一个峰回路转的c++库](https://mp.weixin.qq.com/s/7uQQKRbeKsfxK04IB1T1uw)
 + [CMake,一个沉浸式的小众c++库](https://mp.weixin.qq.com/s/kU3vJhm6K_DPn9YJPpyNsQ)
++ [cpp-sort，一个先来后到的c++库](https://mp.weixin.qq.com/s/6EXEasNlmQ_IKVJUuumpZg)
 + [Quantum++，超酷的量子计算的C++库](https://mp.weixin.qq.com/s/_aSpVPEFgUlJbzyMyjDvnA)
++ [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 + [libde265,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vaJ-gQaIaFUhq8UU8wYXKg)
 ### 学习资源

@@ -70,6 +70,7 @@
 + [18 个一线工作中常用 Shell 脚本【实用版】](https://mp.weixin.qq.com/s/cBuRUXvoOKbGXNYq8Zf9Hw)
 + [一篇短文快速搞定Vim编辑器命令](https://mp.weixin.qq.com/s/-pkRQ2sC8cdM7DiXbzHCig)
 + [【超详细】后端和运维必会30个Linux命令解说：mkdir](https://mp.weixin.qq.com/s/c2drfkSoleNNxaVNabIptw)
++ [Linux命令(八)：Linux设备管理命令](https://mp.weixin.qq.com/s/Kkt51ZhCkzqMuxID39uAhg)
 
 ### 发行版信息
 

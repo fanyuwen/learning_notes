@@ -30,6 +30,7 @@
 + [在MoneyPrinterPlus中使用本地chatTTS语音模型](https://mp.weixin.qq.com/s/bToXG_3XSYHKVI6Nf5W3Dw)
 + [LangChain 0.1 和 0.2 Model区别](https://mp.weixin.qq.com/s/1aPbpgbdqbKdX8lXfZk4uQ)
 + [一个AI从业者的十年](https://mp.weixin.qq.com/s/UJVz3TddrN7vJZCXD1tEhw)
++ [Ray 分布式计算框架详解](https://my.oschina.net/u/3322952/blog/4719999)
 ## 资讯
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 + [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)

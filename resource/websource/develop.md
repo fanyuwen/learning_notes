@@ -52,6 +52,7 @@
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 + [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
 + [领域驱动设计之银行转账：Wow 框架实战](https://my.oschina.net/AhooWang/blog/11537379)
++ [领域驱动设计(DDD)之实践](https://mp.weixin.qq.com/s/zjjXW7awneDppIaQ2DcC1w)
 + [领域建模的常见问题及解决方案](https://mp.weixin.qq.com/s/deZc0CXxGUbop2-LgS6BrQ)
 + [领域驱动设计 DDD 在 B 端营销系统的实践](https://my.oschina.net/meituantech/blog/11193086)
 

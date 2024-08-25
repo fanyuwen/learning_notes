@@ -60,6 +60,7 @@
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java Sream中如何自定义Collector实现复杂数据的收集](https://mp.weixin.qq.com/s/jW0ZoQP3gOUzbXW3qLWO9g)
 + [Java 8 Stream API 深度探索：多层嵌套、分组聚合与复杂过滤](https://mp.weixin.qq.com/s/ZcmdyMhORXKoePiVjJHOJA)
++ [java中常用的22种数据类型转换，超详细！](https://mp.weixin.qq.com/s/EPj8uSKVTMRM1KHNHIwlug)
 + [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
 + [总结｜Stream流技术在真实案例中的应用](https://mp.weixin.qq.com/s/mZbejfgxLVwO7pu4nkRjIg)
 + [Java 8 Stream API 实现各种数据类型的转换](https://mp.weixin.qq.com/s/CMOAP0d_fjIoKK6Owe5d7A)
@@ -776,6 +777,7 @@
 #### DATA
 
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
++ [Spring Boot实战：通过Spring Batch处理批量订单数据](https://mp.weixin.qq.com/s/jDrDz3oWV-rMugA--QBkeg)
 + [使用 Spring Boot + EasyExcel 实现 百万级数据导入导出功能开发](https://mp.weixin.qq.com/s/oXo4V93FpWlPEPp7H7b9PA)
 + [Spring Boot 3.2 新特性：JdbcClient](https://mp.weixin.qq.com/s/ZbQhjf1AXJdpRoMgsk04cw)
 + [使用 Spring Boot + Redis 协同打造延时双删实战指南！](https://mp.weixin.qq.com/s/yoxp-DAjaJp-t-UD3qxsuA)
@@ -869,6 +871,7 @@
 + [SpringBoot怎么设计业务操作日志功能？](https://mp.weixin.qq.com/s/wXMF5oCmXa2MnIXZQMvoPg)
 + [Spring Boot 实现日志链路追踪，无需引入组件，让日志定位更方便！](https://mp.weixin.qq.com/s/OvRMYoQf_lJu4-UIaJ3rHw)
 + [Spring Boot 源码分析 - 日志系统](https://blog.51cto.com/u_15668812/11064336)
++ [Spring Boot 配置日志输出的正确姿势！](https://mp.weixin.qq.com/s/4fP0B7jp-7xfD1bysfb1nA)
 
 #### 安全
 

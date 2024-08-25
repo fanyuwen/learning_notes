@@ -29,6 +29,7 @@
 ## 实践
 
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
++ [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)

@@ -147,6 +147,7 @@
 + [(十二)MySQL之内存篇：深入探寻数据库内存与Buffer Pool的奥妙！](https://mp.weixin.qq.com/s/NB3muX2V8-Y350NEmEFoUQ)
 + [MySQL调优实战-SQL优化](https://mp.weixin.qq.com/s/1TAMxoQua1qcCggEa9Ytxg)
 + [MySQL 模糊查询再也不用like+%了](https://mp.weixin.qq.com/s/RbdKpm0pFG5D290_4XS0HA)
++ [MySQL 死锁日志详解](https://my.oschina.net/actiontechoss/blog/15427512)
 + [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/jhgm-qPMdAq5cv6vFI-dLw)
 + [(十一)MySQL日志篇之undo-log、redo-log、bin-log.....傻傻分不清！](https://mp.weixin.qq.com/s/ukjq5IYFdAQyP1dXvwDhLg)
 + [详解 MySQL 的 binlog 时间戳与 exec_time 的关系](https://my.oschina.net/actiontechoss/blog/11112538)

@@ -94,6 +94,7 @@
 + 基础设施应用平台 [nix](https://nixos.org) [walrus](https://www.seal.io) [opentofu](https://opentofu.org) [terraform](https://www.terraform.io)
 + 配置文件格式 [toml](https://toml.io/)
 + 软件性能观测工具 [opentelemetry](https://opentelemetry.io/)
++ 开源图形工具 [blender](https://www.blender.org/)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)

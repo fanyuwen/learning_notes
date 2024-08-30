@@ -44,6 +44,7 @@
 + [Go 语言 Base64 编码解码实战指南](https://mp.weixin.qq.com/s/ozOxt353Wch9MXznrov0Cw)
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
 + [在golang里使用 ZooKeeper，如何使用](https://mp.weixin.qq.com/s/6UhOq4wGsmiaBhhPAbahaw)
++ [Golang 中强大的重试机制，解决瞬态错误](https://mp.weixin.qq.com/s/r7O-ydES5PYFfGKz5VMzRg)
 + [Go 面试题：切片分隔、切片长度、切片扩容](https://mp.weixin.qq.com/s/lnsIjDwBvy8IxHo0ciNzbg)
 + [理解 errgroup](https://mp.weixin.qq.com/s/R1OBMEXpSTDgEVWHQ-rekQ)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)

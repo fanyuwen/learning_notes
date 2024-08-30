@@ -19,6 +19,8 @@
 + [Filebeat + Kafka+Logstash+ElasticSeaarch+Kibana](https://mp.weixin.qq.com/s/YOAebBhf6dnh4VEzzDYCNw)
 + [RocketMQ 和 Kafka 关于消息队列的推拉模式是怎么做的？](https://mp.weixin.qq.com/s/dbdNweIyDtJBlexa5c0oGA)
 + [阿里面试：canal+MQ，会有乱序的问题吗？](https://mp.weixin.qq.com/s/w0rzwuBgWOei5fhqsf8b4A)
++ [敢在简历上写消息队列，这几个问题必须拿下！](https://mp.weixin.qq.com/s/7CPQe9Ol9xSIC3r4biuxXg)
++ [MQ组件重磅更新！灵活切换Rocket/Redis/Kafka/Rabbit多种实现](https://mp.weixin.qq.com/s/y6d9B944lYEGvIsH0GJ8Nw)
 
 # KAFKA
 

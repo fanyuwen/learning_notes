@@ -40,6 +40,7 @@
 + [CNTK,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/smle0a6imrGvuIh3zA5InA)
 + [Speex，一个峰回路转的c++库](https://mp.weixin.qq.com/s/7uQQKRbeKsfxK04IB1T1uw)
 + [CMake,一个沉浸式的小众c++库](https://mp.weixin.qq.com/s/kU3vJhm6K_DPn9YJPpyNsQ)
++ [Kratos,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/gxT7cOtcXuAqKFE-TNm6wA)
 + [cpp-sort，一个先来后到的c++库](https://mp.weixin.qq.com/s/6EXEasNlmQ_IKVJUuumpZg)
 + [Quantum++，超酷的量子计算的C++库](https://mp.weixin.qq.com/s/_aSpVPEFgUlJbzyMyjDvnA)
 + [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)

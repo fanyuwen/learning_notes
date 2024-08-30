@@ -65,6 +65,7 @@
 + [被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/OlB4lcAsFCnZ6vtyxAEj4A)
 + [面试官：加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/gUw0b1gEuSs1Sj0Xmw2CCw)
 + [高并发下千万数据量的Mysql中热点数据如何持续保留在Redis中](https://mp.weixin.qq.com/s/fJ7UJJ-6D5ylDjw7preCwA)
++ [不知道哪种分页效果更好？一次性教给你四种分页方案！](https://mp.weixin.qq.com/s/LujpYV-Q8oKx-xhHgykUJw)
 
 ### 读写分离&分库分表
 

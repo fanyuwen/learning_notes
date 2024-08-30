@@ -47,6 +47,7 @@
 + [编程迷宫揭秘：Java 8 流式操作的奇幻之旅](https://mp.weixin.qq.com/s/fqk9AzOHSRQMxovYPV-zeA)
 + [10 个 Java Stream 顶级技巧，大量简化代码！](https://mp.weixin.qq.com/s/bYSCS5N-ULvDjlLAKlA9Mg)
 + [Stream原理与执行流程探析](https://mp.weixin.qq.com/s/UGWoRO5-pFB0p01mc73wLA)
++ [Java Stream详细解析，让你彻底掌握流式编程！](https://mp.weixin.qq.com/s/0aVeTVK6AT5Iyf0VRbGr6w)
 + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
 + [用了Stream，代码丑爆了！姿势不对，别喷！](https://mp.weixin.qq.com/s/0XDSSa95VXp7Fy4lrQSJqA)
 + [用Stream代码丑爆了？那是姿势不对，别瞎喷](https://mp.weixin.qq.com/s/y6mp-IwWBZp2PwYZw-LJXQ)
@@ -535,6 +536,7 @@
 + [Spring Boot 微服务架构的五大挑战与解决方案](https://mp.weixin.qq.com/s/udjrGstCOP2QNLnYSdWFJw)
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
++ [Springboot循环依赖解决办法](https://mp.weixin.qq.com/s/Kn-bYUeCw3n_2GpcwJ9UHw)
 + [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
 + [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
 + [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/Z2kwMiS58F80zSXyTjfAZA)
@@ -704,6 +706,7 @@
 + [SpringBoot实战：SpringBoot 统一接口响应的正确格式](https://mp.weixin.qq.com/s/efex3S0M6wKd8r-HsDxPzQ)
 + [使用 Spring Boot 3 + SpringDoc 实现系统在线接口的功能开发](https://mp.weixin.qq.com/s/eO9FQL9ycqKG2ezvegXBuQ)
 + [如何在Spring Boot中实现请求IP白名单拦截](https://mp.weixin.qq.com/s/vD9fUdLqcp308b_x_ZA46Q)
++ [SpringBoot 整合 MultipartFile 轻松实现文件上传与下载](https://mp.weixin.qq.com/s/95ziMFD4Lz3F7mjZ4TvclA)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
 + [微服务鉴权设计：SpringBoot 3.x + OAuth2](https://mp.weixin.qq.com/s/4d0iMeNI3Vn1hJNlX34KWg)
 + [Controller接口地址还能这样玩？](https://mp.weixin.qq.com/s/h4qNHoCLvRaGZQ4mkB-fRg)
@@ -777,6 +780,7 @@
 #### DATA
 
 + [Mybatis SpringBoot 动态数据源](https://mp.weixin.qq.com/s/mU7PK7A-463QAPnSMXHQ1g)
++ [Spring Boot 集成 Flyway：迁移数据库](https://mp.weixin.qq.com/s/f5-M6k9CkVO9DK7U5Tzosg)
 + [Spring Boot实战：通过Spring Batch处理批量订单数据](https://mp.weixin.qq.com/s/jDrDz3oWV-rMugA--QBkeg)
 + [使用 Spring Boot + EasyExcel 实现 百万级数据导入导出功能开发](https://mp.weixin.qq.com/s/oXo4V93FpWlPEPp7H7b9PA)
 + [Spring Boot 3.2 新特性：JdbcClient](https://mp.weixin.qq.com/s/ZbQhjf1AXJdpRoMgsk04cw)
@@ -841,6 +845,7 @@
 + [在SpringBoot的SpringApplication中ApplicationListener监听器是如何监听应用事件的](https://mp.weixin.qq.com/s/MLrdMEGrIvSVHtLsPX0bhg)
 + [Spring Boot Event 观察者模式，轻松实现业务解耦！](https://mp.weixin.qq.com/s/QfVvBQ4NwoSuTD6iGlzSPA)
 + [Reactor模型在Spring Boot中的应用](https://mp.weixin.qq.com/s/atFVq47LOfV74xh9gNhJbw)
++ [Spring Boot实战：Spring Events与异步事件驱动的最佳实践](https://mp.weixin.qq.com/s/Q3foH2dCFlO52Tkcl8fCHw)
 
 #### CACHE
 

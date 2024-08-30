@@ -140,6 +140,10 @@
 + [网络抓包08 - 搜索系统调用](https://mp.weixin.qq.com/s/d46juMWFEiif3GXLPyygPA)
 + [frp内网穿透环境搭建](https://mp.weixin.qq.com/s/SyZHVeRfNamWBFlRKeU_6Q)
 
+### DNS
+
++ [公共DNS大测评 哪个解析性能最好？](https://mp.weixin.qq.com/s/_yRs19IkM4hVro6_1XKdkw)
+
 ### HTTP/HTTPS
 
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
@@ -199,6 +203,7 @@
 + [借助 NGINX Plus 优化企业环境中的 MQTT 部署](https://my.oschina.net/u/5246775/blog/13371894)
 + [NGINX Gateway Fabric 如何实现复杂的路由规则](https://my.oschina.net/u/5246775/blog/15186980)
 + [Nginx 正则匹配](https://mp.weixin.qq.com/s/-iXcNRzMrWc1zCzS1hQ-BQ)
++ [深入理解Nginx工作原理及优化技巧](https://mp.weixin.qq.com/s/KtC_dm_ifweAcab4cnaDdQ)
 + [Nginx 限速模块大揭秘](https://mp.weixin.qq.com/s/KgEAZsLyNta4y0qthVLVLg)
 
 ### wireshark

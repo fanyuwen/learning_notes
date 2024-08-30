@@ -93,6 +93,7 @@
 + [面试官：为什么数据库连接很消耗资源？](https://mp.weixin.qq.com/s/qYqheHHZMwxVvtsrwd3Bmw)
 + [不可重复读和幻读有什么区别](https://my.oschina.net/lenve/blog/15207192)
 + [为什么阿里巴巴规定禁止超过三张表 join？](https://mp.weixin.qq.com/s/OvGQNeNIdQ1EcN-L39VQjQ)
++ [千万级数据的全表update的正确姿势！](https://mp.weixin.qq.com/s/sZIEc0IAQST6xd6p787qdA)
 
 ## 关系型数据库
 
@@ -322,6 +323,7 @@
 + [如何有效避免 Redis 缓存击穿](https://my.oschina.net/u/7771480/blog/15205819)
 + [面试官：如何保证Redis缓存和数据库数据的一致性？直击灵魂的连环七问你扛得住么？（二）](https://mp.weixin.qq.com/s/Y-KF6Q3Hsklbb05fjs-bOg)
 + [如何基于Redis实现消息队列](https://mp.weixin.qq.com/s/Twvu2FptcF_8judR_W1vqw)
++ [面试回答Redis是单线程的所以很快，让我回去等通知...](https://mp.weixin.qq.com/s/Own-RZ-C0W2pyAS9-_b1ZQ)
 + [Redis 击穿、穿透、雪崩产生原因以及解决思路](https://mp.weixin.qq.com/s/50-ubuGYhFV839vIqNvqCA)
 + [来聊聊redis的发布订阅设计与实现](https://mp.weixin.qq.com/s/IPSmFlLNoQZxwkGnTuHNng)
 + [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)

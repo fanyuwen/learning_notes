@@ -257,6 +257,7 @@
 + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
 + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)
 + [读友好的缓存淘汰算法](https://my.oschina.net/u/4939618/blog/15169406)
++ [我使用缓存，踩过的7个坑](https://mp.weixin.qq.com/s/TyEYbUEHWrqGJ98xa4VIsA)
 
 ## 优化
 

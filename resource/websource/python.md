@@ -99,6 +99,7 @@
 + [Pygments ，一个最牛逼的Python库](https://mp.weixin.qq.com/s/O9tcnavhJa7cZ577VB-eGQ)
 + [bqplot，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/Ex-K3BAlu5tGKA3nxzCPAQ)
 + [sniffio ，一个最最强大的Python库](https://mp.weixin.qq.com/s/8DaNAUhlWNC6BePZfhlucg)
++ [hydra，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/bcXeiE45Y-HOcSwOEOhE5A)
 + [QuTiP ，一个最最强大的Python库](https://mp.weixin.qq.com/s/CYdMoqW8xdpLexhnycU3sw)
 + [探索 Python 的强大工具箱：itertools 库](https://mp.weixin.qq.com/s/eVC5Y3JuerB4UOwUQ_DWyg)
 + [netbox-autonames，一个牛逼的python库](https://mp.weixin.qq.com/s/Dz4cTy-US3VCsv7QmFZdig)

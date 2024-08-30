@@ -93,6 +93,7 @@
 
 + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
 + [Java中vo，dto，bo，do(那么多O)是不是增加了系统复杂度？](https://mp.weixin.qq.com/s/bY80Zh-tVQ7dPntPkQUfqg)
++ [项目分层开发中，真的有必要定义 VO 吗？](https://mp.weixin.qq.com/s/-MJ9RUwDFtx9JQH-LT_vZA)
 + [写代码有这16个好习惯，可以减少80%非业务的bug](https://mp.weixin.qq.com/s/Bdm9mOEWnQxx9Cqul6vThw)
 + [一个项目代码讲清楚DO/PO/BO/AO/E/DTO/DAO/ POJO/VO](https://mp.weixin.qq.com/s/seduq9sglqEnC2ta7LU07g)
 + [一句注释引发的思考 - 论代码质量](https://my.oschina.net/jijunjian/blog/11335481)
@@ -258,6 +259,7 @@
 + [面试官：你说说Thread.sleep(0)的含义](https://mp.weixin.qq.com/s/9s7MwSG-kdTrFwwfPZlzlg)
 + [面试官：线程池核心线程会被销毁吗？](https://mp.weixin.qq.com/s/-klggkF2nE8O_zO_r0J0DQ)
 + [线程池解决什么问题，为什么不推荐使用Executors创建线程池](https://mp.weixin.qq.com/s/qPCk3l9dnIosD_r09OtB1A)
++ [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
 + [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
 + [放弃ThreadLocal！TTL真香](https://mp.weixin.qq.com/s/WO2yqup5U3xTZAu0yvyMEg)
@@ -277,6 +279,7 @@
 + [面试官：如何自定义一个工厂类给线程池命名，我：现场手撕吗？](https://mp.weixin.qq.com/s/ffqZOZlbMApUmpnPDYPqWA)
 + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
 + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
++ [Java线程安全 -- ReentrantLock](https://mp.weixin.qq.com/s/Yme_kCSkQiJIiNpx1GYaQg)
 + [一万八千条线程，线程为啥释放不了？](https://mp.weixin.qq.com/s/k8uvgeOPrNLbqivFm5tXOg)
 + [面试官：说一说如何优雅的关闭线程池，我：shutdownNow，面试官：粗鲁！](https://mp.weixin.qq.com/s/Jlk40SoEUwK1IQ88nvwGzg)
 + [线程池的拒绝策略](https://mp.weixin.qq.com/s/_l9mpFNBjbbY98Tkn19ltg)
@@ -457,6 +460,7 @@
 + [@Transactional中使用线程锁导致了锁失效，震惊我一整年！](https://mp.weixin.qq.com/s/Fp0T5s8s2MFfuqQbDii5bw)
 + [Spring 事务失效的常见场景](https://mp.weixin.qq.com/s/1fmshGNLfGBKZkz1XJ7dBg)
 + [Spring事务8种可能会失效的场景，你碰到过几种？](https://mp.weixin.qq.com/s/90ORyulS1NIcvfzttE1lLA)
++ [工作 6 年，@Transactional 注解用的一塌糊涂](https://mp.weixin.qq.com/s/bqcY90RT1KHQWS0470tWOQ)
 
 ### 设计模式
 
@@ -708,13 +712,16 @@
 + [如何在 Spring Boot 中整合 Reactive Web 进行开发](https://mp.weixin.qq.com/s/6AkWqhWoyMbaXamOloL3Zg)
 + [几行代码，搞定 SpringBoot 接口恶意刷新和暴力请求！](https://mp.weixin.qq.com/s/QWHLK0NGQPNFnPastrgg9g)
 + [太强 ! SpringBoot中出入参增强的5种方法 : 加解密、脱敏、格式转换、时间时区处理](https://mp.weixin.qq.com/s/SqXzjFFeIsW-l18glk0row)
++ [SpringBoot实战：SpringBoot如何对接口防刷限流处理](https://mp.weixin.qq.com/s/S5sR627ay8PMY-VJdtyiMg)
 + [SpringBoot实战：如何优雅的进行参数校验](https://mp.weixin.qq.com/s/oz7ZmWBE6r2D0qX77NjLBg)
 + [SpringBoot实战：解决跨域的5中方案](https://mp.weixin.qq.com/s/c9mYDg0jYXlN_Gxa0RsReQ)
++ [SpringBoot实战：实现接口签名验证](https://mp.weixin.qq.com/s/uX3OPR_EmTo3MmofQn_1cg)
 + [SpringBoot实战：SpringBoot 统一接口响应的正确格式](https://mp.weixin.qq.com/s/efex3S0M6wKd8r-HsDxPzQ)
 + [使用 Spring Boot 3 + SpringDoc 实现系统在线接口的功能开发](https://mp.weixin.qq.com/s/eO9FQL9ycqKG2ezvegXBuQ)
 + [如何在 Spring Boot 3.3 中实现请求 IP 白名单拦截功能](https://mp.weixin.qq.com/s/3YsMNlWwISTEWVMR5AI2wg)
 + [如何在Spring Boot中实现请求IP白名单拦截](https://mp.weixin.qq.com/s/vD9fUdLqcp308b_x_ZA46Q)
 + [SpringBoot 整合 MultipartFile 轻松实现文件上传与下载](https://mp.weixin.qq.com/s/95ziMFD4Lz3F7mjZ4TvclA)
++ [基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/IQ5WQg_UCpGz9jAkkuN8TA)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
 + [微服务鉴权设计：SpringBoot 3.x + OAuth2](https://mp.weixin.qq.com/s/4d0iMeNI3Vn1hJNlX34KWg)
 + [Controller接口地址还能这样玩？](https://mp.weixin.qq.com/s/h4qNHoCLvRaGZQ4mkB-fRg)
@@ -957,6 +964,7 @@
 + [MyBatis拦截器在实际项目中的应用](https://mp.weixin.qq.com/s/dYBHwpWMliZF3taYfVz3cA)
 + [10 种超赞的 MyBatis 写法！](https://mp.weixin.qq.com/s/5isGSZSiDZcjR-SnkiShhg)
 + [10种超赞的MyBatis写法！](https://mp.weixin.qq.com/s/-GlBvl6YlNNLLDTP_1oI8Q)
++ [大厂这么用，10 种超赞的 MyBatis SQL写法！](https://mp.weixin.qq.com/s/ak_Jag7IN_cCK3ciFUKEiw)
 + [关于MyBatis的缓存详解](https://mp.weixin.qq.com/s/b9o0ZSf1C-03iE1oIzpl4A)
 + [从 7 分钟到 10 秒，Mybatis 批处理真的很强！](https://mp.weixin.qq.com/s/0TfFnPQJ3-9lJZqcaWJtQw)
 + [注意了！mybatis中＜if＞条件判断，遇到带数字单字符有坑！](https://mp.weixin.qq.com/s/rJ51Ig1wTHK8fjMKUuMRsw)
@@ -1069,6 +1077,7 @@
 + [XXL-JOB内部机制大揭秘，任务飞起来！](https://mp.weixin.qq.com/s/Z9GdjGW80o3Wex6XLjCivQ)
 + [只会用 xxl-job？更强大的新一代分布式任务调度框架来了！](https://mp.weixin.qq.com/s/8xuhRm3bD9Zs9dfjNZ3hZg)
 + [你只会用 xxl-job？一款更强大、新一代分布式任务调度框架，很不错！](https://mp.weixin.qq.com/s/O3rwDkXyA8tEMUDCAPBiFQ)
++ [XXL-JOB内部机制大揭秘，任务飞起来！](https://mp.weixin.qq.com/s/MLXQXz93UQcZVpuye1H9eA)
 
 ## 字节码相关
 
@@ -1129,6 +1138,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [延迟队列：7种方案，总有一款适合你！](https://mp.weixin.qq.com/s/o_psQXGYFTRtp4VLfYk_Wg)
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
 + [Sentinel真香！！！](https://mp.weixin.qq.com/s/kYdLouf_QzGMYp5SgAsVDA)
 + [Java 开发工具：敏感词过滤工具 sensitive-word 详解](https://mp.weixin.qq.com/s/Ur9LEG2kCaHcA8Fck4IQFw)

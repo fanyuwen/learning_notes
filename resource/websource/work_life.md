@@ -233,6 +233,7 @@
 
 + [B 端产品经理必须掌握的三个能力！](https://my.oschina.net/easysoft/blog/8645400)
 + [同事写出烂代码。。。](https://mp.weixin.qq.com/s/KQH6sIiJoJfJafmQFJm95w)
++ [代码是上午写的，人是下午被开除的！](https://mp.weixin.qq.com/s/EXYCVeAcC1SknkEO_4ql4w)
 + [最怕同事写出这样的代码。。。](https://mp.weixin.qq.com/s/7d7uWXr8fmjZkIP11Nhc2Q)
 + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
 + [苹果电脑的 macOS 系统有多难用？](https://mp.weixin.qq.com/s/gFN_xoZebL1SSQWO4jOAog)

@@ -64,6 +64,7 @@
 + [K8S原理最全详解(万字图文总结)](https://mp.weixin.qq.com/s/U2Ad2dOokxBfayqiiAjH1w)
 + [Kubernetes(K8S)最全详解(万字图文总结)](https://mp.weixin.qq.com/s/X_bL0iAOrury1IXlKai-bQ)
 + [K8S内POD使用内存缓慢增长问题](https://mp.weixin.qq.com/s/1TX4xtrFT0xbsRwld4WJ-A)
++ [试用 Kubernetes Gateway API 的五大理由](https://my.oschina.net/u/5246775/blog/15539813)
 + [k8s备份恢复实践--velero](https://mp.weixin.qq.com/s/yANWqzBTO9v8-3sdyjS5bA)
 + [Kubernetes生产级别安装](https://mp.weixin.qq.com/s/_wm6F4H0xlXWGnzlUNAhcw)
 + [10 张图，说透 Kubernetes 架构和数据流](https://mp.weixin.qq.com/s/7Rck-WUV8kJSxTQtDZYNMQ)

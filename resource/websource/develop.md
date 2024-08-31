@@ -179,6 +179,7 @@
 + [一张图掌握4种RPC框架异步化调用](https://mp.weixin.qq.com/s/HvITsrk4FfhRguBspCtGVA)
 + [百万QPS下热点数据的收集方案](https://mp.weixin.qq.com/s/GBskXO73JCFRymGHqRnCVw)
 + [如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/PiVPZERlD6U_kZ6fmxWoeQ)
++ [如果让你设计一个秒杀系统，你会怎么做？](https://my.oschina.net/lenve/blog/15540113)
 + [秒杀系统的设计](https://mp.weixin.qq.com/s/zCbRiA6c9phXs5BJ-hqTfQ)
 + [简易评论系统设计](https://mp.weixin.qq.com/s/5-MrTxFwCJXvn9rdeLDm2Q)
 + [高并发 IM 系统架构优化实践](https://my.oschina.net/u/2550800/blog/1837393)

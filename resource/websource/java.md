@@ -211,6 +211,7 @@
 + [面试官对于JVM类加载机制的猛烈炮火，你能顶住吗？](https://mp.weixin.qq.com/s/tsHR_ZkbrBpKYIQy9mde1A)
 + [面试官：“线上内存溢出，怎么分析dump日志”？](https://mp.weixin.qq.com/s/3xCxRxfrz_Y41z7PO-d82g)
 + [Java 8 内存管理原理解析及内存故障排查实践](https://my.oschina.net/vivotech/blog/11048619)
++ [浅析 JVM invokedynamic 指令和 Java Lambda 语法｜得物技术](https://my.oschina.net/u/5783135/blog/15527256)
 + [深入理解Java中的垃圾回收算法](https://mp.weixin.qq.com/s/GkPx7vVpxdiKgn6RGGmoXQ)
 + [浅谈 JVM 整体架构与调优参数](https://my.oschina.net/u/4526289/blog/11050235)
 + [深入剖析 JVM 的 OOM | 内存溢出如何影响 JVM 运行及应对策略](https://my.oschina.net/u/5587102/blog/11054685)

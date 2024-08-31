@@ -22,6 +22,7 @@
 + [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
 + [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
 + [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
++ [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
 
 # 框架
 
@@ -38,3 +39,5 @@
 
 + [Rust并发编程番外篇: Mutex内部实现](https://colobu.com/2023/11/05/inside-rust-mutex/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust并发编程4 - 容器类并发原语](https://colobu.com/2023/10/15/concurrency-programming-via-rust-ch04/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
++ [Rust 并发执行异步操作](https://mp.weixin.qq.com/s/jK48_jyuBSGAeHJx6-TNmg)
++ [Rust 中基于 async 和 Future 的异步编程](https://mp.weixin.qq.com/s/lgZFhim3z2P2lDSvWBv7gA)

@@ -174,6 +174,7 @@
 + [看懂这篇，才能说了解并发底层技术！](https://mp.weixin.qq.com/s/SZl2E5NAhpYM4kKv9gyQOQ)
 + [咦，拆分个字符串都这么讲究](https://mp.weixin.qq.com/s/P0HOlgREXqUWIDKgKxr-MA)
 + [关于高并发，我想告诉你这些！](https://mp.weixin.qq.com/s/ttMcWuNij5US8_DEJS5ZMw)
++ [java多线程（八）深入解析Java中的synchronized关键字：用法、原理与最佳实践](https://mp.weixin.qq.com/s/n9f8Yiw6k82Q9F16sW-yOw)
 + [震惊！ConcurrentHashMap里面也有死循环，作者留下的“彩蛋”了解一下？](https://mp.weixin.qq.com/s/5T3kIyvcoosIIvlWtAGHKw)
 + [喜提JDK的BUG一枚！多线程的情况下请谨慎使用这个类的stream遍历。](https://mp.weixin.qq.com/s/RtjzGRqpgV44yHjxtoNWuA)
 + [我试图通过这篇文章告诉你，这行源码有多牛逼。](https://mp.weixin.qq.com/s/jT_0CGok52F9autJ_N-anw)
@@ -242,6 +243,7 @@
 
 + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
 + [java.util.Collections有哪些精妙的方法？](https://mp.weixin.qq.com/s/_K-Vwbb7OKZ4WUAFNWOThg)
++ [深入了解Java中的Map.merge()方法](https://mp.weixin.qq.com/s/Mo35h6Q1cGVHKvxXX7FMvQ)
 + [全是坑！慎用 Arrays.asList...](https://mp.weixin.qq.com/s/vSD_8kjp9xhDhSy4Tqp5AQ)
 + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
 + [HashMap数据结构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/hmcm7nYCIwv-iFiePAamDg)
@@ -312,6 +314,10 @@
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
 + [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
 + [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
+
+## NIO
+
++ [温故知新！Java NIO总结: ByteBuffer缓存](https://mp.weixin.qq.com/s/1fk3hEDSNPCojt5CPSrBqA)
 
 ## 机制
 
@@ -387,6 +393,7 @@
 + [深入剖析 Spring 核心数据结构：BeanDefinition](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-definition/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [Spring 扩展点概览及实践](https://www.diguage.com/post/spring-extensions-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [Spring中Bean的生命周期](https://mp.weixin.qq.com/s/6Eq-mh5cg3s6luLfjYb89w)
++ [浅谈Spring的多例Bean——Prototype原型](https://mp.weixin.qq.com/s/IpiIU39MG8bHDRNQImvnjw)
 + [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
 
@@ -1012,6 +1019,7 @@
 
 ## netty
 
++ [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
 + [为什么不选择使用原生的 NIO 而选择使用 Netty 模式呢？](https://mp.weixin.qq.com/s/qhPEYV6CrQg6DEybirbYZw)
 + [Netty的源码分析和业务场景](https://mp.weixin.qq.com/s/M8EH_sgleaNHNhdIe7Gfpg)
 + [Netty TCP 实战案例（一），文末附源码地址](https://mp.weixin.qq.com/s/Wp4JFSa_ZNPc1Re5-N2nxg)

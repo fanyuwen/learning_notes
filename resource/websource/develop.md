@@ -55,6 +55,7 @@
 + [领域驱动设计(DDD)之实践](https://mp.weixin.qq.com/s/zjjXW7awneDppIaQ2DcC1w)
 + [领域建模的常见问题及解决方案](https://mp.weixin.qq.com/s/deZc0CXxGUbop2-LgS6BrQ)
 + [领域驱动设计 DDD 在 B 端营销系统的实践](https://my.oschina.net/meituantech/blog/11193086)
++ [领域驱动设计(DDD)之实践](https://mp.weixin.qq.com/s/zjjXW7awneDppIaQ2DcC1w)
 
 ## 微服务
 
@@ -446,7 +447,10 @@
 + [合并代码用 merge 还是用 rebase ? 两者的区别是什么？](https://mp.weixin.qq.com/s/NyugCK_40FpysFvDoMdNmA)
 + [git提交错了？别慌，直接删除提交记录](https://mp.weixin.qq.com/s/frJzXx3LFycUgXzFP8lL9w)
 + [实习：git拉取远程某一分支](https://mp.weixin.qq.com/s/RjQ7mRGweCANE36pJcQgKA)
++ [git的必会的基本操作](https://mp.weixin.qq.com/s/VugxEetqBwY9ijP0jJu7tg)
 + [Git命令基操必须要会！](https://mp.weixin.qq.com/s/b341U5_GOdDj3SddnqQA7w)
++ [git命令-git常规操作](https://mp.weixin.qq.com/s/_mdVlByBNeQ52oMj1SSofw)
++ [恢复被删除的Git stash 记录](https://mp.weixin.qq.com/s/K--z7p2pv5OSOYAaUTA0Iw)
 + [Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/Ie0jjW6zmU_3i8geUKAvDQ)
 + [Git 核心概念一览：仓库、协议、原理、服务器搭建全解析](https://mp.weixin.qq.com/s/3FK7Htmo09USo9YwE7rbWg)
 

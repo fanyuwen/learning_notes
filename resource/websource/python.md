@@ -20,8 +20,10 @@
 + [99% 的人都不知道，哪种 Python 循环最快？](https://mp.weixin.qq.com/s/_-aW6WPJxcO_mLLdGg2sYQ)
 + [Python面向对象编程：多重继承和MRO深入解析](https://mp.weixin.qq.com/s/h8QjObfvUAQ9jn6BL6VJDw)
 + [Python中的类多态：方法重写和动态绑定](https://mp.weixin.qq.com/s/Ce4txZm13aFCeYhbnOIBsw)
++ [用列表推导式进行映射和过滤](https://mp.weixin.qq.com/s/gV3_nINMibT0hPVVJyqjWQ)
 + [48面向对象2定义](https://mp.weixin.qq.com/s/3DBnfbJLga5TBHfVFrN-ng)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
++ [早知道就好了！关于Python魔法方法的清单](https://mp.weixin.qq.com/s/_simM8yANXfRedwAi0udEQ)
 + [50面向对象4self绑定方法](https://mp.weixin.qq.com/s/n3KzCz8xBXpKCrekxyCauw)
 + [51面向对象5隐藏属性](https://mp.weixin.qq.com/s/_Zknthjjxnsx8Wgu_V5rPg)
 + [Python秘籍 @ 符号的十大魔法：从装饰器到矩阵运算，一文掌握Python中@的全能力!!!](https://mp.weixin.qq.com/s/aOXSUyU3PIhTgo8rGZ5YMA)
@@ -58,6 +60,7 @@
 + [Python标准库-math](https://mp.weixin.qq.com/s/wY_JeGSB8lBDLZESiiEOBw)
 + [Python time模块5大隐藏特性](https://mp.weixin.qq.com/s/PANCEQmh7JEjaQj64Q3Miw)
 + [一分钟搞定,Python代码注释9种方式](https://mp.weixin.qq.com/s/jPOhthhIgo-7gAmxDlrOJQ)
++ [Python切片的基础与高阶用法，很顶](https://mp.weixin.qq.com/s/9j0f3wKpGylw1pcTeQA5fQ)
 
 ## 第三方库
 
@@ -107,6 +110,7 @@
 + [tinydb，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/G-z_ZuO5JuQV_5B7JepVbQ)
 + [HDBSCAN，一个牛逼的python库](https://mp.weixin.qq.com/s/mx_kvpvxaEFhlpCzUxpw1w)
 + [PyMC,一个世界上最牛逼的Python库](https://mp.weixin.qq.com/s/cUfTjcP6zymHaf1BpN1J7A)
++ [qctrl，一个牛逼的python库](https://mp.weixin.qq.com/s/ms7xdhBFaQj2zQw6Qxp1BQ)
 + [Flake8——一个Python中非常有用的库.](https://mp.weixin.qq.com/s/HznHOrY9WPxKe4xsIdJQZA)
 + [stanza，一个强大的Python库](https://mp.weixin.qq.com/s/PzQO7Kr12j4pFKadI5NWbw)
 + [orange3，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/E9b_kPz9wASJI4b3WDSQdA)
@@ -195,6 +199,7 @@
 + [Python的面板绘图库turtle的介绍和使用](https://mp.weixin.qq.com/s/XxKZKgyj4n1xqGgamd_-7g)
 + [你的 Python 代码是否优雅？用pycodestyle来检测！](https://mp.weixin.qq.com/s/U7pDE6CmTtCFZ7Aj9Yx3wg)
 + [一篇通过Flask-Mail强大功能就能发送邮件,尽快收藏](https://mp.weixin.qq.com/s/UxZ3Oi1uVCjUDhFvQQ1AOQ)
++ [7款常见Python包管理工具，解决Python开发中的版本兼容问题](https://mp.weixin.qq.com/s/iYutYrIfJz5GJwaYNDr04A)
 
 ## 实践
 
@@ -206,7 +211,10 @@
 + [4个 Python 时间模块揭秘：让你的时间处理不再是难题！](https://mp.weixin.qq.com/s/4Ia1W7Hc9n0hAp3uqE2YOw)
 + [Python动态代码执行：exec和compile函数](https://mp.weixin.qq.com/s/XM7l3xVE5Af2NAJV7iA9vw)
 + [这些 Python 魔术方法，竟能让你的代码焕然一新](https://mp.weixin.qq.com/s/ot1Q3WyCIaAWmiLYyC-U8g)
++ [Python开发必知的数据容器用法](https://mp.weixin.qq.com/s/9uxZTf3L1TWu3zj2O9iFCQ)
++ [Python编程常用的17个技巧](https://mp.weixin.qq.com/s/mt_-mW_xUigjxnc3jHWNQQ)
 + [修改与获取Python运行路径](https://mp.weixin.qq.com/s/hCuRtSMD33_kHVsNyHXJ_A)
++ [一文带您了解Python 网络编程：socket 示例](https://mp.weixin.qq.com/s/gNGPOGlb32DSfmUev2XRYg)
 + [如何理解Python中的全局解释器锁（GIL）](https://mp.weixin.qq.com/s/f3VevgTFKrQDr6r2u_bJIg)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
 + [13 个 Python 自动化脚本可简化你的日常任务](https://mp.weixin.qq.com/s/5r3okQRNUnDuHWLGQSI16w)
@@ -281,6 +289,7 @@
 + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
 + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s/6_d1koWllGT8ovRnPq5SxQ)
 + [Python中10个节省时间的代码片段](https://mp.weixin.qq.com/s/uBydqwJbCZ5bGaoZoyMrFQ)
++ [10个Python保护代码和数据的方法](https://mp.weixin.qq.com/s/KI-X8aD99_PejVz5O9DPzQ)
 + [Python代码文件不只是“.py”](https://mp.weixin.qq.com/s/zISAv_jVF5r0zWzZ-d65vw)
 + [10个python经典程序](https://mp.weixin.qq.com/s/RsTfjsQ3dyniwkRwRSeTCw)
 + [10个必备的Python控制操作系统调用技巧](https://mp.weixin.qq.com/s/5SFBqLB7z85awLwaIxgwUg)
@@ -302,6 +311,7 @@
 + [Python 制作十款经典童年游戏（附源码）](https://mp.weixin.qq.com/s/8bHRp4MbEdrBUXAEBYRTaw)
 + [一日一技：如何正确保护Python代码](https://mp.weixin.qq.com/s/jsrgEOZlzsnaQOic0zUQRw)
 + [Python 内存管理探秘](https://mp.weixin.qq.com/s/tHURptJyC_OsVuTygRm7mg)
++ [网络安全：Python编写端口扫描器](https://mp.weixin.qq.com/s/d0dTgBQ3Xv2Q83dwIxeEOA)
 
 ## 框架
 
@@ -333,10 +343,11 @@
 
 ## 爬虫
 
++ [8个Python爬虫高效数据抓取技巧](https://mp.weixin.qq.com/s/6CDK5d_bz34rcZIueQftYA)
 + [爬虫可视化工具(3):EasySpider](https://mp.weixin.qq.com/s/i6BBGlrrZpqmX-EkCl3GKA)
-+ [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)
 + [【Python爬虫必修课（二）】全面解析CSS引入与应用技巧](https://mp.weixin.qq.com/s/nJtQmvWUE2cn68GQzhpW1g
 + [为了防止这些视频下架，我连夜用Python将她们爬了下来！](https://mp.weixin.qq.com/s/0V9-BkeilIYaOM_o6VaaFQ)
++ [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)
 + [每日一模块：pyquery](https://mp.weixin.qq.com/s/iuou9oFneKWnqNCcqpu8CQ)
 + [每日一模块：scrapy](https://mp.weixin.qq.com/s/fT5_xO18X4xAVdl-UO7_Pg)
 

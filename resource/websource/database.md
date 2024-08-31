@@ -254,6 +254,7 @@
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
++ [MySQL中区分度不高的字段索引：一定无用吗？](https://mp.weixin.qq.com/s/UTFgPvHh1KIVfVlmTW4Q0g)
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)
 + [MySQL 如何实现索引机制](https://mp.weixin.qq.com/s/KMYIGyf-PJTsNgV1rPUGag)
 + [明明加了唯一索引，为何还有重复数据](https://mp.weixin.qq.com/s/zSvVhZT9M9F66u5EjyrKYg)

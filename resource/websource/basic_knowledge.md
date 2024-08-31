@@ -48,6 +48,7 @@
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
 + [Linux /dev 目录揭秘](https://mp.weixin.qq.com/s/o6-Gzu5g4l3Rz6Sq6jVhbg)
++ [Linux 系统中/proc 目录](https://mp.weixin.qq.com/s/17PRK9yvQELlUHfqFcbjKg)
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
 + [Linux下的静态库与动态库](https://mp.weixin.qq.com/s/lvphmx54x4JphEePP3EPMg)
@@ -139,6 +140,8 @@
 + [网络基础知识：深入理解VPN技术](https://mp.weixin.qq.com/s/-KaEL0ADg2hxrZHhOAeDSQ)
 + [网络抓包08 - 搜索系统调用](https://mp.weixin.qq.com/s/d46juMWFEiif3GXLPyygPA)
 + [frp内网穿透环境搭建](https://mp.weixin.qq.com/s/SyZHVeRfNamWBFlRKeU_6Q)
++ [如何实现同一端口代理不同的后端服务](https://mp.weixin.qq.com/s/AT74UG5RfNLLV88XKmuX2g)
++ [URL、URL 的结构以及 URI 与 URL 之间的区别](https://mp.weixin.qq.com/s/AV9c1mlDIPSm1vPzH6Dx9w)
 
 ### DNS
 
@@ -180,6 +183,7 @@
 + [TCP/IP协议](https://mp.weixin.qq.com/s/L6CuozAC4jClHEra6PZuuw)
 + [一文讲透 TCP 滑动窗口实现机制，绝了！](https://mp.weixin.qq.com/s/kwRXnGJkWiUUZstvR8TMlQ)
 + [为什么TCP需要三次握手？一文讲透！](https://mp.weixin.qq.com/s/YIK7N6plIaGdag9LSO3Irg)
++ [【网络协议】精讲TCP报文格式！图解超赞超详细！！！](https://mp.weixin.qq.com/s/7A_Nip1MxqzvhbZtUKIexg)
 
 ### UDP
 

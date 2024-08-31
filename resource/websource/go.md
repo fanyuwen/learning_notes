@@ -23,6 +23,7 @@
 + [Go 还是 TinyGo?](https://mp.weixin.qq.com/s/wBlBbhNjYvim3wVrQfYOtg)
 + [从Go开发者的视角看Rust](https://mp.weixin.qq.com/s/9n0s_KVRSdWA2xy8jh58Cw)
 + [Node.js 竟然比 Go 快](https://mp.weixin.qq.com/s/X063efPy7uY3KPNWf8UwKA)
++ [让 Go 语言的 ORM 更加亲近开发者](https://mp.weixin.qq.com/s/ot8N8jBRaxQWasgZLaUxdQ)
 
 # 库
 
@@ -80,6 +81,7 @@
 + [聚合接口层（BFF）之Go语言版（三）统一响应、中间件](https://mp.weixin.qq.com/s/UphhHnM_viMD3KX863teUg)
 + [Go Gin 静态文件服务：构建高效、灵活的资源交付系统](https://mp.weixin.qq.com/s/KHrHlAYb-P4qYOpWQhMBoA)
 + [基于 Gin 框架的 Go 后端架构最佳实践](https://mp.weixin.qq.com/s/DaCkIznCqxHeInNP5fYNgA)
++ [Go必知必会：协程（上）：进程、线程、协程的区别和联系](https://mp.weixin.qq.com/s/-QrMsdOmBqnz50fAS0K9yw)
 
 # 面试题
 

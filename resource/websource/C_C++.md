@@ -1,8 +1,12 @@
 # 语言相关
+
 ## 工具
+
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
 + [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
+
 ## C++
+
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
@@ -32,36 +36,46 @@
 + [Kaitai Struct，一个超强的定义](https://mp.weixin.qq.com/s/SdxhkJUeSw6VfroIxH92VQ)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
-+ [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
-+ [Tink，一个强大的c++库](https://mp.weixin.qq.com/s/_Ev9rZImyK9teR_n7Fna-Q)
-+ [SoLoud，一个好用的c++库](https://mp.weixin.qq.com/s/uwNJRJs_e05Djw5aCxQzag)
-+ [KFR，一个变幻莫测的c++库](https://mp.weixin.qq.com/s/iXj7r0wdqw7zCMfDh2u4IA)
-+ [SOCI,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/Da3LDf0id1Vdl2gEs9W7QA)
-+ [jech/dht,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/UdfdpBWatqwjVJ6orUSCKA)
-+ [SeqAn,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vj2HIWumcywSPvJNFcdcMw)
-+ [CNTK,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/smle0a6imrGvuIh3zA5InA)
-+ [Speex，一个峰回路转的c++库](https://mp.weixin.qq.com/s/7uQQKRbeKsfxK04IB1T1uw)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
-+ [Tundra，一个强大的c++库](https://mp.weixin.qq.com/s/u6Hc8BKdYsvgPthJumC7rw)
 + [CMake,一个沉浸式的小众c++库](https://mp.weixin.qq.com/s/kU3vJhm6K_DPn9YJPpyNsQ)
-+ [Kratos,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/gxT7cOtcXuAqKFE-TNm6wA)
-+ [PhysX，一个强大的c++库](https://mp.weixin.qq.com/s/bhe6laGKXLQXFedAEDy7QA)
++ [CNTK,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/smle0a6imrGvuIh3zA5InA)
 + [cpp-sort，一个先来后到的c++库](https://mp.weixin.qq.com/s/6EXEasNlmQ_IKVJUuumpZg)
++ [dbg-macro，一个强大的c++库](https://mp.weixin.qq.com/s/GwbwXRFNLtTZ4cWI3grWJg)
++ [Kratos,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/gxT7cOtcXuAqKFE-TNm6wA)
++ [libde265,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vaJ-gQaIaFUhq8UU8wYXKg)
++ [MPQC，一个高深莫测的c++库](https://mp.weixin.qq.com/s/zJ6ZoOx4kZ1dzPVDr5PDKg)
++ [NI，一个深入的c++库](https://mp.weixin.qq.com/s/8Bl-8ZXoM28ITbqhL5DG0A)
++ [jech/dht,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/UdfdpBWatqwjVJ6orUSCKA)
++ [KFR，一个变幻莫测的c++库](https://mp.weixin.qq.com/s/iXj7r0wdqw7zCMfDh2u4IA)
++ [PhysX，一个强大的c++库](https://mp.weixin.qq.com/s/bhe6laGKXLQXFedAEDy7QA)
 + [Quantum++，超酷的量子计算的C++库](https://mp.weixin.qq.com/s/_aSpVPEFgUlJbzyMyjDvnA)
++ [SoLoud，一个好用的c++库](https://mp.weixin.qq.com/s/uwNJRJs_e05Djw5aCxQzag)
++ [SeqAn,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vj2HIWumcywSPvJNFcdcMw)
++ [Speex，一个峰回路转的c++库](https://mp.weixin.qq.com/s/7uQQKRbeKsfxK04IB1T1uw)
++ [SOCI,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/Da3LDf0id1Vdl2gEs9W7QA)
++ [Tink，一个强大的c++库](https://mp.weixin.qq.com/s/_Ev9rZImyK9teR_n7Fna-Q)
++ [Tundra，一个强大的c++库](https://mp.weixin.qq.com/s/u6Hc8BKdYsvgPthJumC7rw)
++ [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
 + [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
-+ [libde265,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vaJ-gQaIaFUhq8UU8wYXKg)
+
 ### 学习资源
+
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
+
 ### CUDA
+
 + [C++ CUDA .cu 文件](https://mp.weixin.qq.com/s/D4iB3DSXerL3B4nER3N4wg)
 + [C++ CUDA 线程 线程块 网格](https://mp.weixin.qq.com/s/euMUES_8F08evKHhn2Q49w)
 + [C++ CUDA 核函数中的数据类型](https://mp.weixin.qq.com/s/n4sgrxqM3j98ObA80RZvJg)
+
 ## C
+
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
++ [彻底搞清楚 “变量”](https://mp.weixin.qq.com/s/L5wBITMeIUtFkM8sAlX3tQ)
 + [Linux C语言 NULL作为空字符的使用与误解](https://mp.weixin.qq.com/s/n-1dqs6OLNR8py0TkUNi3w)
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [Linux C语言 灵活数组成员](https://mp.weixin.qq.com/s/PsOe7mT7gk1Tj_vOyVRRjA)
@@ -84,16 +98,28 @@
 + [TDengine，一个永远可以相信的C库](https://mp.weixin.qq.com/s/h-XFfLNKaIiICfv9t1u1gQ)
 + [imageproc，令人拍案叫绝的 C 语言图像处理库](https://mp.weixin.qq.com/s/qpgYMjh2pnWukYG-5nXNmw)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
+
 ## verilog
+
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
+
 # ARM
+
 + [ARM架构与编程 · 基于STM32F103笔记(2)](https://mp.weixin.qq.com/s/ZvrPf8KEc-ZnM8cTzlK1Hg)
+
 # PLC
+
 + [Sizzler:梯形图中的顺序引信用于可编程逻辑控制器中的漏洞检测和发现](https://mp.weixin.qq.com/s/QDTDOr_hQT6FP3XUvaDVJQ)
+
 # Soc
+
 + [NoC技术，重焕新生](https://mp.weixin.qq.com/s/Q9zwu1NZU16P2TJE6DjYVg)
+
 # FPGA
+
 + [TIMING_10 时序约束案例（系统同步类型的output delay约束）](https://mp.weixin.qq.com/s/c7Th4ZfCl7yFwsUBS5YXKA)
 + [Artix7系列FPGA实现SDI视频编解码+UDP以太网传输](https://mp.weixin.qq.com/s/4JEharUrlVDLeQ0xh-NkWg)
+
 # 单片机
+
 + [一文讲解单片机、ARM、MCU、DSP、FPGA、嵌入式错综复杂的关系！](https://mp.weixin.qq.com/s/l-6aVfZvh5Cre--QEL6fiQ)

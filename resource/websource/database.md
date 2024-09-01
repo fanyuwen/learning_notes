@@ -115,6 +115,7 @@
 + [(十八)MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://mp.weixin.qq.com/s/m24AB--7Iaev4Ab089RisA)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [Mysql优化利剑explain详解](https://mp.weixin.qq.com/s/mtjpFiXLqEvUNa1etie5Xg)
++ [MySQL探秘：理解当前读与快照读，以及与MVCC的关系](https://mp.weixin.qq.com/s/k9frtS4FWpyKX7SAKOgI4A)
 + [看不懂MySQL执行计划，还谈什么SQL优化？](https://mp.weixin.qq.com/s/bsu0kotuYTsesOVTc5CtzA)
 + [MySQL 中那些鲜为人知但功能强大的内置函数](https://mp.weixin.qq.com/s/wsPDWlgy8yFG4BJxXzSZWw)
 + [MySQL主从一致性最全详解(图文全面总结)](https://mp.weixin.qq.com/s/UslMBVOuVITONLJRacSv8A)
@@ -254,6 +255,7 @@
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
++ [基于主键的索引扫描，Postgres 和 Oracle 一定比 MySQL 差吗？](https://mp.weixin.qq.com/s/EfN5b_TdV1YVJ95fZ18W4A)
 + [MySQL中区分度不高的字段索引：一定无用吗？](https://mp.weixin.qq.com/s/UTFgPvHh1KIVfVlmTW4Q0g)
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)
 + [MySQL 如何实现索引机制](https://mp.weixin.qq.com/s/KMYIGyf-PJTsNgV1rPUGag)
@@ -391,6 +393,7 @@
 + [面试官：Redis有哪些持久化机制（如何保障数据不丢失）？这个Redis必答题你一定不要错过！](https://mp.weixin.qq.com/s/tNdXNfifFDvvm6cdK09wKA)
 + [面试官：Redis如何保障高可用的？Redis主从、哨兵、Redis Cluster你分清楚了吗？](https://mp.weixin.qq.com/s/1o_oHwl3XOXJhqjvcFYvQA)
 + [Redis简单高效的消息通信](https://mp.weixin.qq.com/s/e9pZ50Sfncc3OYtkFL0l7A)
++ [换掉 ES！Redis 官方搜索引擎来了，效率大幅提升~](https://mp.weixin.qq.com/s/naEuvvxPnZno75uyOahoKw)
 
 #### 原理
 

@@ -228,6 +228,7 @@
 
 + [RateLimiter 的底层实现是啥？](https://mp.weixin.qq.com/s/AD54eRFOyAndQKctRAnm8w)
 + [如何实现高并发下系统的限流](https://mp.weixin.qq.com/s/0WDXwQA-aFgAJI6dMYW5xA)
++ [你管这叫负载均衡？](https://mp.weixin.qq.com/s/4nV-8GV5LcSmdFnx_LDEKQ)
 + [面试必备：4种经典限流算法讲解](https://mp.weixin.qq.com/s/nZKLSacEVb5w1rAta6ju-A)
 + [为什么要限流？常见的限流算法有哪些？](https://mp.weixin.qq.com/s/wd8uGrxgceZd0kOx4cD-rQ)
 + [面试官：你的项目中稳定性方案有哪些、降级，限流，熔断如何做的](https://mp.weixin.qq.com/s/3_u6noQq6IyPOQs1B_0IcQ)
@@ -236,6 +237,7 @@
 + [负载均衡技术：支撑高并发应用的基石](https://mp.weixin.qq.com/s/flEm--2jqsGvcfMlJxnObw)
 + [负载均衡原理最全详解(万字图文总结)](https://mp.weixin.qq.com/s/8xSgH-yT8UWOYriAZr3plA)
 + [高并发中的限流策略](https://mp.weixin.qq.com/s/B_1EjQQoi-VVWhMc35hMXg)
++ [软件系统限流的底层原理解析](https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw)
 
 ### 大文件IO
 

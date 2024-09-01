@@ -31,6 +31,7 @@
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
++ [代码片段分享：我在JavaScript项目中这样用Object.assign](https://mp.weixin.qq.com/s/Zg-yh7qbDbC-9m08nytuBw)
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [25 个JavaScript单行代码让你看起来像个专业人士](https://mp.weixin.qq.com/s/QlvRe6f_Sic3imq3_4YaFw)
@@ -67,6 +68,7 @@
 + [WPS-JSA 从累加器看数组的reduce方法](https://mp.weixin.qq.com/s/F5sgh0iOluCRuRBSqKL-1w)
 + [WPS-JSA 了解Date函数与时间戳](https://mp.weixin.qq.com/s/hgTeJcCwcOJ3q6FvhIeong)
 + [JSON.stringify的高级用法](https://mp.weixin.qq.com/s/gjolD_8jldfy6pSR2XVFAg)
++ [每个开发人员都应该掌握的 10 种高级 CSS 技术](https://mp.weixin.qq.com/s/vUiCX_FWvZrd4Z4Uk9XZJg)
 
 # 框架
 
@@ -97,10 +99,12 @@
 + [微软正在放弃React](https://mp.weixin.qq.com/s/xd5GiJ0zL0I_TiyUtnZtHA)
 + [原来 React Native 已经如此成熟了](https://mp.weixin.qq.com/s/bMD-1mBOQCFHWFy6y6wfXg)
 + [React 状态设计的 5 个原则](https://mp.weixin.qq.com/s/XXw1bneW-TWkwClFMXTjCw)
++ [深入解读 React 19 新特性](https://mp.weixin.qq.com/s/tKWiEb_ZwcymAkCBiKL2SA)
 + [2024 React 生态工具最能打的组合！](https://mp.weixin.qq.com/s/-YBMFwrbnidf79tRwhEYsA)
 + [React 渲染流程可视化，有大佬实现了！](https://mp.weixin.qq.com/s/Ngn1gbQ-QvWyZS0FMemwHg)
 + [2024 年在 React 中使用 TypeScript 的 10 个令人信服的理由：开发人员指南](https://mp.weixin.qq.com/s/tSdmvm2WozeRtbuOLUyneg)
 + [React 的正确使用方法：ref 篇](https://mp.weixin.qq.com/s/KLbn3gFeT3r63_SobLy3eA)
++ [与 Vue 相伴四年，终究还是没抵住 React 的巨大诱惑](https://mp.weixin.qq.com/s/GkYKKlAyb5i2XnGOuNVzzg)
 
 ### react native
 

@@ -47,6 +47,7 @@
 + [Linux信号深度解析：系统编程中的关键通信手段](https://mp.weixin.qq.com/s/QkUoJ_wRBwkWVl_tHeigdw)
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
++ [万字长文讲透linux的中断管理机制](https://mp.weixin.qq.com/s/ZMQpu1hpnOjYrvBbhnmYWg)
 + [Linux /dev 目录揭秘](https://mp.weixin.qq.com/s/o6-Gzu5g4l3Rz6Sq6jVhbg)
 + [Linux中文件系统的简单操作(df/du)](https://mp.weixin.qq.com/s/PKQtYmY9d_J9vnR_lZRGBA)
 + [Linux 系统中/proc 目录](https://mp.weixin.qq.com/s/17PRK9yvQELlUHfqFcbjKg)
@@ -57,6 +58,7 @@
 + [Linux文本编辑器终极指南](https://mp.weixin.qq.com/s/m4XfWTgc7WGEgmV-w38YoA)
 + [你可能不知道 xz 也是一种压缩格式](https://mp.weixin.qq.com/s/4rkIPKHPfWN2I1q9Pswj9A)
 + [你可以需要了解的Linux 性能工具](https://mp.weixin.qq.com/s/XqCpZEY-7phehLXAy5elsg)
++ [Linux开发技巧分享第一篇](https://mp.weixin.qq.com/s/MxVk3VE1Nho-ZlOXhF2cvw)
 
 ### 网络
 
@@ -99,6 +101,7 @@
 + [CPU 程序性能优化](https://my.oschina.net/u/5265910/blog/10143748?s_trans=2197476363_&s_channel=4)
 + [NUMA架构：CPU和内存性能瓶颈的终结者！](https://mp.weixin.qq.com/s/awMSx3XMM6HbUlidC-UUCQ)
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
++ [一个例子搞懂CPU的工作原理](https://mp.weixin.qq.com/s/cIPCVgXMEMKlN3vI6KvrhQ)
 
 ### 并发
 
@@ -161,6 +164,7 @@
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
 + [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/CAYZPCDMzrH248kUDrHuPw)
 + [分布式RPC和HTTP区别详解(5大核心区别)](https://mp.weixin.qq.com/s/6gSfqOvoeFbLIfZtzK43BA)
++ [探索 multipart：文件传输的新境界！](https://mp.weixin.qq.com/s/i6tps8T_eanr86WQD8U4hQ)
 
 #### CORS
 
@@ -183,6 +187,7 @@
 + [【网络协议】精讲TCP通信原理！图解超赞超详细！！！](https://mp.weixin.qq.com/s/80ox9f6RxeebS48ruvs5mw)
 + [如何应对TCP半连接队列和TCP全连接队列满的情况？——拆解大厂面试题](https://mp.weixin.qq.com/s/jbCGBWogzGqUlCXdsYrakw)
 + [TCP/IP协议](https://mp.weixin.qq.com/s/L6CuozAC4jClHEra6PZuuw)
++ [让我们一起来了解TCP传输原理](https://mp.weixin.qq.com/s/AoE2J_nz57CQH7XZqLnf7g)
 + [一文讲透 TCP 滑动窗口实现机制，绝了！](https://mp.weixin.qq.com/s/kwRXnGJkWiUUZstvR8TMlQ)
 + [为什么TCP需要三次握手？一文讲透！](https://mp.weixin.qq.com/s/YIK7N6plIaGdag9LSO3Irg)
 + [【网络协议】精讲TCP报文格式！图解超赞超详细！！！](https://mp.weixin.qq.com/s/7A_Nip1MxqzvhbZtUKIexg)

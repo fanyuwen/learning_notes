@@ -10,6 +10,7 @@
 + [实战运用模版方法+工厂方法+策略模式打造一套高扩展性的履约系统收单业务](https://mp.weixin.qq.com/s/3XVc1P2_R7f9iSsb_TfwMg)
 + [UML 类图真的很重要，十分钟带你掌握！](https://mp.weixin.qq.com/s/LM4KSlcXCwhKuGzuWdd-8w)
 + [如何优雅的将设计模式运用到实际项目中去?](https://mp.weixin.qq.com/s/r3YSJD_myD_t_bvSe4Fhaw)
++ [一文读懂10种最经典的设计模式](https://mp.weixin.qq.com/s/Vo8IKRZ3RTHclI21x28bSw)
 
 # 原则
 
@@ -18,6 +19,7 @@
 + [彻底弄懂类设计原则之 - 单一职责原则](https://my.oschina.net/helloworldnet/blog/5392170)
 + [接口隔离原则，到底什么需要隔离？](https://mp.weixin.qq.com/s/JpezPV3BQKI5-VnNvRZZgw)
 + [依赖倒置，究竟什么被倒置了？](https://mp.weixin.qq.com/s/lvMiQUG_Pd6wufQlYNXicA)
++ [【工作思考】面向对象的编码设计原则](https://mp.weixin.qq.com/s/6Xag5tEeDykN8T4Z6vdLPA)
 
 # 单例模式
 

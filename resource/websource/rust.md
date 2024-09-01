@@ -1,6 +1,7 @@
 # 技术相关
 
 + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
++ [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
 + [Rust 语言到底有哪些应用场景](https://mp.weixin.qq.com/s/UGyKuilAhYAWlujxSzhcCA)
 + [强大的开发组合——Rust加上嵌入式](https://mp.weixin.qq.com/s/HvtTKR3leiVz_Wp3bHXvuA)
 + [初探 Rust 语言与环境搭建](https://mp.weixin.qq.com/s/M0kBLA_J0duIG8a5GhHPsg)
@@ -24,6 +25,7 @@
 + [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
 + [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
 + [基于 Rust 构建高性能的原生 UI 框架](https://mp.weixin.qq.com/s/1RspE0lfj7KtEVtg7Zy-qQ)
++ [Rust 与 JVM 深度融合，构建高性能的应用程序](https://mp.weixin.qq.com/s/wP2tSWZQYHqTQVAwJCzS7Q)
 
 # 框架
 

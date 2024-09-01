@@ -17,6 +17,7 @@
 + [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
++ [Java枚举类的实际业务场景应用](https://mp.weixin.qq.com/s/tqNm6M8Y7q8zaNCmsypz8A)
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 
 ## 新语言特性
@@ -54,6 +55,7 @@
 + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
 + [用了Stream，代码丑爆了！姿势不对，别喷！](https://mp.weixin.qq.com/s/0XDSSa95VXp7Fy4lrQSJqA)
 + [用Stream代码丑爆了？那是姿势不对，别瞎喷](https://mp.weixin.qq.com/s/y6mp-IwWBZp2PwYZw-LJXQ)
++ [使用Java Stream简化集合操作：过滤、映射与归约](https://mp.weixin.qq.com/s/GJsR0v1P64UNRdVLCM2umQ)
 + [null 不好，我推荐你使用 Optional](https://mp.weixin.qq.com/s/PkEpBt-CHgmCAQ-onUY1aw)
 + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
 + [Java 9 为什么要在接口中引入 private 方法？](https://mp.weixin.qq.com/s/iZaYHmBtlyoe0eko9PNzQA)
@@ -77,6 +79,7 @@
 + [Java8 中一个极其强悍的新接口，很多人没用过](https://mp.weixin.qq.com/s/Ll_rhoQDn22hw5DMQLH9sg)
 + [如何避免 Java 代码中的 “类泛滥” 陷阱？一文说透！](https://mp.weixin.qq.com/s/zgBCWXRMNgyvw_rFNNBDEg)
 + [如何去掉代码中的if...else](https://mp.weixin.qq.com/s/4kL1JS5e8a5qrRasaTZafg)
++ [try catch 应该在 for 循环里面还是外面？](https://mp.weixin.qq.com/s/dqE8C0wgchzsIBGlyzirBg)
 + [Java 中的 script 引擎在游戏中的使用](https://my.oschina.net/OutOfMemory/blog/527483)
 + [一文带你从源码中学习那些实用的位运算技巧](https://mp.weixin.qq.com/s/UfjaZO_QCvgtEoCf1O7nDw)
 + [for 循环为何可恨？](https://my.oschina.net/justjavac/blog/66625)
@@ -87,6 +90,8 @@
 + [如何编写 Null-Safety 代码？一文帮你讲透！](https://mp.weixin.qq.com/s/TcqYhz4YQSpS6vlOFT0-PQ)
 + [Java实际开发过程中的那些基础代码...](https://mp.weixin.qq.com/s/KWb4L2WVY42TcUkYwSy8gQ)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
++ [Java8 HashMap 的那些高级操作](https://mp.weixin.qq.com/s/-vrRVec1msPrF9QSiDGJrA)
++ [【技术总结】Java List元素删除全攻略：从基础迭代到高效批量删除，一文掌握多种技巧！](https://mp.weixin.qq.com/s/AgAp5DwEmZgQexdM4yQbuQ)
 + [案例分析：常见的Java代码优化法则](https://mp.weixin.qq.com/s/fEC1NXaMLD7TaMmZhW8RBA)
 + [拼接字符串的最优方式（Java代码片段）](https://mp.weixin.qq.com/s/cyfIAN6gkVpoNl1NrmdNzg)
 
@@ -127,10 +132,13 @@
 ## 原理解析
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
++ [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
 + [Java排序原理](https://mp.weixin.qq.com/s/mzfsdeHvigKGXBlchR5NRg)
 + [秒懂双亲委派机制](https://mp.weixin.qq.com/s/QqAIsLN0X0fzH51XBgvvdA)
 + [从字节码看 finally 的本质，你能说出这些代码运行结果吗？](https://mp.weixin.qq.com/s/hwVyJ2d6ePIgSp2h-WDT5Q)
 + [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
++ [解析Java的多态性与动态绑定机制](https://mp.weixin.qq.com/s/U_7iuJ8PZJf_s9WxVzO0_Q)
 + [CTO：谁在项目中使用Arrays.asList、ArrayList.subList，就立马滚蛋！](https://mp.weixin.qq.com/s/gtfKuUJxylj3atOgfK6xKQ)
 + [Java 序列化：让对象“穿越时空”](https://mp.weixin.qq.com/s/KNoQha6JR7kn8smpHlMoLg)
 + [Java反射机制最全详解(图文全面总结)](https://mp.weixin.qq.com/s/-tuiPpAATmgmWaWlV89zWg)
@@ -279,6 +287,7 @@
 + [Doug Lea大师的佳作CopyOnWriteArrayList，用不好能坑死你！](https://mp.weixin.qq.com/s/hKNVHOtBhvLAt7oBwcp2fg)
 + [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
 + [如何使用CompletableFuture进行多个REST的并行调用](https://mp.weixin.qq.com/s/lZJTBi-yEgtNHXRF8n0SkQ)
++ [Java多线程 -- CompletableFuture（2）](https://mp.weixin.qq.com/s/UpAGuOn80nAcikgkLH5fXw)
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
 + [面试官：线程池提交一个任务占多大内存？](https://mp.weixin.qq.com/s/6jjOb4fPWQTjvi1PLvAJ4w)
 + [面试官：如何自定义一个工厂类给线程池命名，我：现场手撕吗？](https://mp.weixin.qq.com/s/ffqZOZlbMApUmpnPDYPqWA)
@@ -321,6 +330,7 @@
 
 + [温故知新！Java NIO总结: ByteBuffer缓存](https://mp.weixin.qq.com/s/1fk3hEDSNPCojt5CPSrBqA)
 + [Java IO包中的File和Java NIO包中的Files都有什么区别？](https://mp.weixin.qq.com/s/gr6fofPENQ5uT6AaOypbqQ)
++ [Java NIO包中的Path和Paths都有什么区别？](https://mp.weixin.qq.com/s/4Me2xxsATUnO09mcdcVKvA)
 
 ## 机制
 
@@ -548,6 +558,7 @@
 + [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
 + [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [请不要自己写！Spring Boot非常实用的内置功能](https://mp.weixin.qq.com/s/UKe0vMTFo8lKRBUpKINTng)
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
@@ -727,6 +738,7 @@
 + [SpringBoot实战：如何优雅的进行参数校验](https://mp.weixin.qq.com/s/oz7ZmWBE6r2D0qX77NjLBg)
 + [SpringBoot实战：解决跨域的5中方案](https://mp.weixin.qq.com/s/c9mYDg0jYXlN_Gxa0RsReQ)
 + [SpringBoot实战：实现接口签名验证](https://mp.weixin.qq.com/s/uX3OPR_EmTo3MmofQn_1cg)
++ [Spring Boot如何解决跨域问题？](https://mp.weixin.qq.com/s/zaElaIhbC7xmzf8fLi-AAg)
 + [SpringBoot实战：SpringBoot 统一接口响应的正确格式](https://mp.weixin.qq.com/s/efex3S0M6wKd8r-HsDxPzQ)
 + [使用 Spring Boot 3 + SpringDoc 实现系统在线接口的功能开发](https://mp.weixin.qq.com/s/eO9FQL9ycqKG2ezvegXBuQ)
 + [如何在 Spring Boot 3.3 中实现请求 IP 白名单拦截功能](https://mp.weixin.qq.com/s/3YsMNlWwISTEWVMR5AI2wg)
@@ -923,6 +935,8 @@
 + [SpringBoot项目中使用策略模式](https://mp.weixin.qq.com/s/SbAIuzzl3lvd7sMC_v41yQ)
 + [Spring Boot与模板方法模式：实现统一的日志处理流程](https://mp.weixin.qq.com/s/1zjHWMEG32uPnmdfalLh4g)
 + [Spring Boot与桥接模式：构建灵活的产品分类体系](https://mp.weixin.qq.com/s/J3H3CJvQgbrGYiC8vS4drg)
++ [Spring Boot与策略模式：实现动态的物流费用计算](https://mp.weixin.qq.com/s/0xCAqJ89SdlDjC1YE09FWQ)
++ [Spring Boot实战：基于职责链模式处理请求链中的多个处理器](https://mp.weixin.qq.com/s/op2kBd1AHI_aSYTYHkAuww)
 
 #### message
 
@@ -1154,6 +1168,7 @@
 + [Windows部署Java JDK的方法](https://mp.weixin.qq.com/s/NQ4tMbNnqLvFvx1g1pNoAw)
 + [Java分布式事务处理与一致性保障的解决方案](https://mp.weixin.qq.com/s/4MYtxY1MpwPJjPknu6Ef6Q)
 + [延迟队列：7种方案，总有一款适合你！](https://mp.weixin.qq.com/s/o_psQXGYFTRtp4VLfYk_Wg)
++ [利用Java AOP实现面向切面编程的关键技术](https://mp.weixin.qq.com/s/hfY2Kf1LpEHxWZfELU39_w)
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
 + [Sentinel真香！！！](https://mp.weixin.qq.com/s/kYdLouf_QzGMYp5SgAsVDA)
 + [Java 开发工具：敏感词过滤工具 sensitive-word 详解](https://mp.weixin.qq.com/s/Ur9LEG2kCaHcA8Fck4IQFw)

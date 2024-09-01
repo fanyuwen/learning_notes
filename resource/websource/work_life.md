@@ -86,7 +86,9 @@
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [Redis 官方可视化工具，高颜值，功能真心强大！](https://mp.weixin.qq.com/s/n_7C4dxSSv_1x7ZuEs7wQg)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
++ [实时监控 Linux 系统性能的强大开源工具](https://mp.weixin.qq.com/s/ejq-wLVeGfubk4ckn_uDJA)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
++ [dbswitch——异构数据库迁移同步工具](https://mp.weixin.qq.com/s/UDMd4Bur3XyjEJL2_mfx7g)
 + [36.2K Star颜值不错!!!再见Notion,全能型知识管理工具](https://mp.weixin.qq.com/s/Hm7r7W5QvVr-fQjn_CjZUQ)
 + [10.XPath插件安装并解析爬取数据](https://mp.weixin.qq.com/s/vbUkCArRSFWg0tAPVsrWMQ)
 + [一款高颜值、极简风的微信 Markdown 编辑器](https://mp.weixin.qq.com/s/Zv-UE2VCJInHceb3u6RGNA)
@@ -145,12 +147,14 @@
 + [揭秘最为知名的黑客工具之一：Samurai 框架](https://mp.weixin.qq.com/s/7HkOC6ZV-6Skjz3LWRYnLg)
 + [PolarisMesh源码系列——服务实例健康检查](https://mp.weixin.qq.com/s/pMx1HbbOW33Syh5lzJtwIQ)
 + [大多数人都还不知道：5 个绝不可错过的开源瑰宝！](https://mp.weixin.qq.com/s/3x4FSKmNV7Yg2ecZsY51WQ)
++ [18 个 GitHub 存储库助你提升开发者职业生涯](https://mp.weixin.qq.com/s/arFCf4yVJ_6Erhkykz2-vg)
 
 ## 开源资源
 
 + [《HelloGitHub》第 99 期](https://my.oschina.net/HelloGitHub/blog/11234998)
 + [Github开源项目日报 | 2024-07-06 Top15](https://mp.weixin.qq.com/s/ZY6sLbA3sUX2_lUEtRkxgQ)
 + [一套开源、功能齐全、二次开发友好的即时通讯软件](https://mp.weixin.qq.com/s/J_eb2VyWm99bwq9eLIZz9w)
++ [每月 GitHub 探索 ｜ 10 款开源神器](https://mp.weixin.qq.com/s/eo7tvTcIzfjf1BVClQsbJw)
 
 ## 行业资源
 
@@ -199,6 +203,8 @@
 + [这个世界著名的盗版网站，创始人刚被下了国际通缉令](https://mp.weixin.qq.com/s/x6WfzXO4oCFrlRs9UUWaLA)
 + [开源日报 | 小语言模型才是AI未来；Mbed即将EOL；揭秘DeepSeek；谷歌默认不索引新内容；“抱抱脸”宣布实现盈利](https://mp.weixin.qq.com/s/5uqU3tFi8EHabVH5HJyjBg)
 + [安卓启动器Nova几乎凉了](https://mp.weixin.qq.com/s/oWL4ngLE4sND0GAnxCXiUw)
++ [2024年前端状态管理工具大盘点](https://mp.weixin.qq.com/s/tiqoaTeMf48h13xDD-qBUQ)
++ [云端风暴：网易云故障背后的危机管理与技术复盘](https://mp.weixin.qq.com/s/XY_O5rtABwlGHpsPBIYkVQ)
 
 ## 有用趣闻知识
 
@@ -216,6 +222,7 @@
 + [MySQL 9.0 GA 来了！](https://mp.weixin.qq.com/s/e56TqCiPZ6XStHGaH_0o-A)
 + [微信接口接入过程](https://mp.weixin.qq.com/s/jIDyRZvLEEx4d0wEm3pSfw)
 + [Java之父James Gosling宣布退休](https://mp.weixin.qq.com/s/vw-Ps_jv4R6-a9LY9yewQQ)
++ [Sun公司创始人之一：牛逼程序员Bill Joy的传奇人生](https://mp.weixin.qq.com/s/bC8R5YDFQPIvVZN_nvrHjw)
 + [开源代码编辑器Zed“不讲武德”——偷偷下载软件包，害我损失了十几兆流量](https://mp.weixin.qq.com/s/p0cOu6lFL7QV8x1EJPv2KA)
 + [为什么机器人不能勾选“我不是机器人”复选框？](https://mp.weixin.qq.com/s/X6FJ3RJ6sevkXy1_yxx3zw)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/5LwEPNnSIebqL0zmtkyWDA)
@@ -292,3 +299,4 @@
 + [必学的13本深度学习的书籍](https://mp.weixin.qq.com/s/fnpS8VntWOMNLYbyS6SipA)
 + [看透世界本质的30本书](https://mp.weixin.qq.com/s/oSq-UyQeODyDiooy50hDHA)
 + [拿捏了！解决90%深度学习问题的，图解深度学习书籍，熬夜必看书籍！](https://mp.weixin.qq.com/s/FI4agoArHpimwMVjS6rlTA)
++ [程序员必读书单推荐](https://mp.weixin.qq.com/s/ktXV4SFKBPqdAkkRpHHVVA)

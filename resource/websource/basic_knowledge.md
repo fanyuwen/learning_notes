@@ -48,6 +48,7 @@
 + [Linux性能剖析：CPU、内存、网络与I/O压力测试](https://mp.weixin.qq.com/s/R15w4PJjivb1VBKtMSIs2g)
 + [Linux进程资源限制及优化方法](https://mp.weixin.qq.com/s/PrD0Tl0S6llg7yDhhN95ig)
 + [Linux /dev 目录揭秘](https://mp.weixin.qq.com/s/o6-Gzu5g4l3Rz6Sq6jVhbg)
++ [Linux中文件系统的简单操作(df/du)](https://mp.weixin.qq.com/s/PKQtYmY9d_J9vnR_lZRGBA)
 + [Linux 系统中/proc 目录](https://mp.weixin.qq.com/s/17PRK9yvQELlUHfqFcbjKg)
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
@@ -55,6 +56,7 @@
 + [Linux内核时钟系统和定时器实现](https://mp.weixin.qq.com/s/He9MLpH5BsuObhTQxMdbsQ)
 + [Linux文本编辑器终极指南](https://mp.weixin.qq.com/s/m4XfWTgc7WGEgmV-w38YoA)
 + [你可能不知道 xz 也是一种压缩格式](https://mp.weixin.qq.com/s/4rkIPKHPfWN2I1q9Pswj9A)
++ [你可以需要了解的Linux 性能工具](https://mp.weixin.qq.com/s/XqCpZEY-7phehLXAy5elsg)
 
 ### 网络
 

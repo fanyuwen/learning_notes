@@ -24,6 +24,7 @@
 + [从Go开发者的视角看Rust](https://mp.weixin.qq.com/s/9n0s_KVRSdWA2xy8jh58Cw)
 + [Node.js 竟然比 Go 快](https://mp.weixin.qq.com/s/X063efPy7uY3KPNWf8UwKA)
 + [让 Go 语言的 ORM 更加亲近开发者](https://mp.weixin.qq.com/s/ot8N8jBRaxQWasgZLaUxdQ)
++ [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
 
 # 库
 
@@ -37,6 +38,7 @@
 + [go-sqlbuilder：灵活强大的Go语言SQL语句构建库，兼具零配置ORM功能](https://mp.weixin.qq.com/s/s9us2zu8AN5owZW2fzesIw)
 + [go-chi：用于构建 Go HTTP 服务的轻量级且可组合的路由器](https://mp.weixin.qq.com/s/rL07n0h_IATDo6YBsgdz1Q)
 + [go-av,一个交口称赞的库](https://mp.weixin.qq.com/s/vOK4Rh_zzS7SBPgy6oAIOQ)
++ [Gin 框架性能的秘密武器：压缩字典树详解](https://mp.weixin.qq.com/s/FbtOqVRyl4q6C-w6gWV9Zg)
 
 # 实践
 
@@ -46,6 +48,7 @@
 + [Go 微服务开发框架，集成自动代码生成、Gin 和 GRPC](https://mp.weixin.qq.com/s/WdrMkVLqksZPg7sstx7pdQ)
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
++ [Builder 模式在 Go 语言中的应用](https://mp.weixin.qq.com/s/LRyb7tOTZmq33j9AwOd18g)
 + [在golang里使用 ZooKeeper，如何使用](https://mp.weixin.qq.com/s/6UhOq4wGsmiaBhhPAbahaw)
 + [Golang 中强大的重试机制，解决瞬态错误](https://mp.weixin.qq.com/s/r7O-ydES5PYFfGKz5VMzRg)
 + [Go 面试题：切片分隔、切片长度、切片扩容](https://mp.weixin.qq.com/s/lnsIjDwBvy8IxHo0ciNzbg)

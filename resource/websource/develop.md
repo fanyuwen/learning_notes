@@ -41,6 +41,7 @@
 + [架构与思维：微服务架构的思想本质](https://mp.weixin.qq.com/s/wf-Uj7EEBr4SYFe1ZDuOnw)
 + [对一个软件项目架构设计研发管理过程的评估和优化](https://mp.weixin.qq.com/s/lLIhiBHRgt06jF_uYtkxZw)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
++ [不遵循这些设计原则的架构师，迟早栽跟头……](https://mp.weixin.qq.com/s/3y2fZ-3bzttVLPLmXIUFRQ)
 
 ### DDD
 
@@ -74,6 +75,7 @@
 + [架构之问31：微服务架构8大设计模式与实践](https://mp.weixin.qq.com/s/dhkD0nS3w6YaMIlVodcOcg)
 + [告别混乱，一次性掌握微服架构设计！](https://mp.weixin.qq.com/s/gdkUPaNC8IFZKbpskZ_yBw)
 + [微服务架构落地及其演进](https://mp.weixin.qq.com/s/6LwUOQPdFXJjltU1ftGrpA)
++ [微服务部署架构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/DovGinsoNL0fb4j_06MZEQ)
 + [微服务架构设计最全详解(图文全面总结)](https://mp.weixin.qq.com/s/GSOM1j0mQ-atFrLCcyFuJg)
 + [微服务部署架构最全详解(4大主流部署架构)](https://mp.weixin.qq.com/s/-tO1WhkNkale2u6r7cdl1g)
 + [微服务架构中的服务注册与发现](https://mp.weixin.qq.com/s/hVau6N2NIeZ3iFFfuQgR0w)
@@ -91,6 +93,7 @@
 + [构建高效业务单系统的架构策略与心得](https://mp.weixin.qq.com/s/B5joCOyxyXQo1l_unm8gag)
 + [微服务架构中的通信风格](https://mp.weixin.qq.com/s/-X75FChGAQ359JarczOYxQ)
 + [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/KSR_w6VPP9FAK8-z_nvsfw)
++ [为什么微服务一定要有网关？](https://mp.weixin.qq.com/s/t7w7TRsgRR-6HyuZIr-G-w)
 
 # 分布式
 
@@ -350,6 +353,7 @@
 + [国产数据库能否扛住压力—HaloDB压力测试](https://mp.weixin.qq.com/s/0Y66i1q010CfMySrcM82tA)
 + [程序员别骗自己了，你分明就是不会写单元测试！！！而不是没时间。](https://mp.weixin.qq.com/s/Xt5DsztM0fJcmcxwZE8JRw)
 + [如何管理和维护自动化测试](https://mp.weixin.qq.com/s/XjlQ2zzzGeWNwFXz2d3ymQ)
++ [软件测试之道 -- 做一个有匠心的程序员！](https://mp.weixin.qq.com/s/ktEMOcXBopFiX9NIN3chHg)
 
 # 领域相关
 

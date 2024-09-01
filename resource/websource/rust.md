@@ -23,6 +23,7 @@
 + [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
 + [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
 + [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
++ [基于 Rust 构建高性能的原生 UI 框架](https://mp.weixin.qq.com/s/1RspE0lfj7KtEVtg7Zy-qQ)
 
 # 框架
 

@@ -88,6 +88,7 @@
 + [Java实际开发过程中的那些基础代码...](https://mp.weixin.qq.com/s/KWb4L2WVY42TcUkYwSy8gQ)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
 + [案例分析：常见的Java代码优化法则](https://mp.weixin.qq.com/s/fEC1NXaMLD7TaMmZhW8RBA)
++ [拼接字符串的最优方式（Java代码片段）](https://mp.weixin.qq.com/s/cyfIAN6gkVpoNl1NrmdNzg)
 
 ## 代码质量
 
@@ -126,6 +127,7 @@
 ## 原理解析
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java排序原理](https://mp.weixin.qq.com/s/mzfsdeHvigKGXBlchR5NRg)
 + [秒懂双亲委派机制](https://mp.weixin.qq.com/s/QqAIsLN0X0fzH51XBgvvdA)
 + [从字节码看 finally 的本质，你能说出这些代码运行结果吗？](https://mp.weixin.qq.com/s/hwVyJ2d6ePIgSp2h-WDT5Q)
 + [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
@@ -315,9 +317,10 @@
 + [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
 + [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
 
-## NIO
+## IO/NIO
 
 + [温故知新！Java NIO总结: ByteBuffer缓存](https://mp.weixin.qq.com/s/1fk3hEDSNPCojt5CPSrBqA)
++ [Java IO包中的File和Java NIO包中的Files都有什么区别？](https://mp.weixin.qq.com/s/gr6fofPENQ5uT6AaOypbqQ)
 
 ## 机制
 
@@ -919,6 +922,7 @@
 + [使用设计模式来增强你的 SpringBoot 开发](https://mp.weixin.qq.com/s/TXEHGefQYNG1ep6hzElmuw)
 + [SpringBoot项目中使用策略模式](https://mp.weixin.qq.com/s/SbAIuzzl3lvd7sMC_v41yQ)
 + [Spring Boot与模板方法模式：实现统一的日志处理流程](https://mp.weixin.qq.com/s/1zjHWMEG32uPnmdfalLh4g)
++ [Spring Boot与桥接模式：构建灵活的产品分类体系](https://mp.weixin.qq.com/s/J3H3CJvQgbrGYiC8vS4drg)
 
 #### message
 
@@ -1147,6 +1151,8 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [Windows部署Java JDK的方法](https://mp.weixin.qq.com/s/NQ4tMbNnqLvFvx1g1pNoAw)
++ [Java分布式事务处理与一致性保障的解决方案](https://mp.weixin.qq.com/s/4MYtxY1MpwPJjPknu6Ef6Q)
 + [延迟队列：7种方案，总有一款适合你！](https://mp.weixin.qq.com/s/o_psQXGYFTRtp4VLfYk_Wg)
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)
 + [Sentinel真香！！！](https://mp.weixin.qq.com/s/kYdLouf_QzGMYp5SgAsVDA)

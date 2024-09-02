@@ -42,14 +42,4 @@ label_3:for(int i = 0; i<10; i++){
 }
 ```
 
-+ 当然根据上面的经验也可以写成如下
-
-```java
-for(int i = 0; i<10; i++) label_3: {
-  for(int j = 0; j<10; j++){
-    if(j == 8){
-      continue label_3;
-    }
-  }
-}
-```
++ 但是`continue`并不支持上面的语句括号前置写法,会报`Not a loop label`,应该是这样写的话是无法识别语句是否是循环

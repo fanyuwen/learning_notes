@@ -179,6 +179,7 @@
 + [Jetbrains做的工具盒越来越好了](https://mp.weixin.qq.com/s/PZ13bdhg2U0O19VDIUV53g)
 + [JetBrains IDE全系列采用新的默认“皮肤”：即将面向所有用户提供](https://mp.weixin.qq.com/s/yiv9aHTaAUhJI7UOaL4nXQ)
 + [Intellij IDEA 2024 最新版激活指南，免费无套路！](https://mp.weixin.qq.com/s/16y-Z6d1oXdkTOmQXgJIGA)
++ [如何玩转IDEA的Git](https://mp.weixin.qq.com/s/7r8k7wHSoQf_LH8hoMZiSA)
 
 # 行业新闻
 

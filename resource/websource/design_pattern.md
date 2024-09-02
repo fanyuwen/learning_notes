@@ -11,6 +11,7 @@
 + [UML 类图真的很重要，十分钟带你掌握！](https://mp.weixin.qq.com/s/LM4KSlcXCwhKuGzuWdd-8w)
 + [如何优雅的将设计模式运用到实际项目中去?](https://mp.weixin.qq.com/s/r3YSJD_myD_t_bvSe4Fhaw)
 + [一文读懂10种最经典的设计模式](https://mp.weixin.qq.com/s/Vo8IKRZ3RTHclI21x28bSw)
++ [github小众神项目，给人学的23个设计模式（不知道就亏大了）](https://mp.weixin.qq.com/s/snNCGvQKEiLEskiIIxqWIw)
 
 # 原则
 

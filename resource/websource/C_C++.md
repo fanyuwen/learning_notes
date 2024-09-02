@@ -123,3 +123,4 @@
 # 单片机
 
 + [一文讲解单片机、ARM、MCU、DSP、FPGA、嵌入式错综复杂的关系！](https://mp.weixin.qq.com/s/l-6aVfZvh5Cre--QEL6fiQ)
++ [从汇编的角度看单片机运行机制](https://mp.weixin.qq.com/s/JbL6orV-VZ7Ad5kcPj1GVg)

@@ -29,6 +29,7 @@
 + [学什么技能可以管一辈子](https://mp.weixin.qq.com/s/YcHDfKs7v67fes3MfA9oOQ)
 + [为什么说程序员不断提高技术可能是误区？](https://mp.weixin.qq.com/s/xMQ6XKiGyg7XtUJ5iSL3Yw)
 + [为什么有的程序员一直在做需求，而有的人却主导大型项目？](https://mp.weixin.qq.com/s/vV5WqtfWG1T3lkb6w2vmmQ)
++ [也谈一下 30+ 程序员的出路](https://mp.weixin.qq.com/s/Ns7V1wYg-xpiZBOjXbwSOg)
 
 # 个人成长
 
@@ -174,6 +175,7 @@
 + [用了这个IDEA插件以后，我写代码快了10倍！](https://mp.weixin.qq.com/s/k68q-oCE9fNTHv4MU0HnCA)
 + [效率拉满，开发了一款可直接编辑 jar 包的 IDEA 插件](https://mp.weixin.qq.com/s/TjnBoXlZzrPkRW0aUoz_Gg)
 + [一款 IDEA Mybatis插件：极大提升 CRUD 效率，堪称神器！](https://mp.weixin.qq.com/s/SYZOa1Ay-dyiuy-jmrbJiA)
++ [开发了一年的IDEA插件，接口调试的强大工具，敢说吊打所有](https://mp.weixin.qq.com/s/XKY3sKSicmHSaACGITAyQA)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/2jAlSCNd3VhZKxcjnciKKg)
 + [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 + [Jetbrains做的工具盒越来越好了](https://mp.weixin.qq.com/s/PZ13bdhg2U0O19VDIUV53g)
@@ -233,6 +235,7 @@
 + [快来快来，删库跑路教程来了！！！](https://mp.weixin.qq.com/s/vC4x7NfLfr4JqQWL5neQcw)
 + [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
 + [GitHub 删除代码等于“任何人均可永久访问”！微软回应：这是特性](https://mp.weixin.qq.com/s/oymAZ0VKlOwMPhNqDN8F7w)
++ [闲鱼上卖源码的都是程序员吗？](https://mp.weixin.qq.com/s/u-_OBfqw5lhzY7g7KlbCOw)
 
 ## 创业
 
@@ -301,3 +304,7 @@
 + [看透世界本质的30本书](https://mp.weixin.qq.com/s/oSq-UyQeODyDiooy50hDHA)
 + [拿捏了！解决90%深度学习问题的，图解深度学习书籍，熬夜必看书籍！](https://mp.weixin.qq.com/s/FI4agoArHpimwMVjS6rlTA)
 + [程序员必读书单推荐](https://mp.weixin.qq.com/s/ktXV4SFKBPqdAkkRpHHVVA)
+
+### 生活
+
++ [我不打算买房，无锡公积金还有什么用？](https://mp.weixin.qq.com/s/g2tXzKEWYJxRZzL_vxV4QA)

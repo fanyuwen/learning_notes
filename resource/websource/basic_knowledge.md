@@ -218,6 +218,8 @@
 + [深入理解Nginx工作原理及优化技巧](https://mp.weixin.qq.com/s/KtC_dm_ifweAcab4cnaDdQ)
 + [Nginx 限速模块大揭秘](https://mp.weixin.qq.com/s/KgEAZsLyNta4y0qthVLVLg)
 + [公司弃用 Nginx，选择这款工具！](https://mp.weixin.qq.com/s/q5Aso5JhbosPO8cGcipkLg)
++ [Ngnix的server_name正则匹配执行顺序](https://mp.weixin.qq.com/s/9tqmuy08xEQLRTzrO_s-Vg)
++ [从零手写实现 nginx-01-为什么不能有 java 版本的 nginx?](https://mp.weixin.qq.com/s/994dQU_MP5auHfZBAWDpZg)
 
 ### wireshark
 

@@ -120,6 +120,7 @@
 + [还在用Jenkins？快来试试这款简而轻的自动化部署工具吧！](https://mp.weixin.qq.com/s/MB4Smk3aGx-SF7XofI_afA)
 + [Arthas线上问题排查利器](https://mp.weixin.qq.com/s/9VzziIrDTmpJNjKfSaspaw)
 + [知识管理工具，程序员提升效率的隐藏神器！](https://mp.weixin.qq.com/s/7OubCSjgqyxxaizw5DiGXA)
++ [互联网人一定要学会使用工具啊！](https://mp.weixin.qq.com/s/sKRMwwCTDV4G-aKdfBVJYA)
 + [一款免费开源的在线图片压缩工具](https://mp.weixin.qq.com/s/cnLsiokiNGZSZyTtXm7zew)
 + [实战！Arthas 定位接口的超时问题，直接起飞！](https://mp.weixin.qq.com/s/ZObxvlHAkzDmCzoGjAzHqA)
 + [小工具大用处！Sqids短ID生成神器！](https://mp.weixin.qq.com/s/0F_bAf6ZG8k2bbbUdjos1A)
@@ -183,6 +184,7 @@
 + [JetBrains IDE全系列采用新的默认“皮肤”：即将面向所有用户提供](https://mp.weixin.qq.com/s/yiv9aHTaAUhJI7UOaL4nXQ)
 + [Intellij IDEA 2024 最新版激活指南，免费无套路！](https://mp.weixin.qq.com/s/16y-Z6d1oXdkTOmQXgJIGA)
 + [如何玩转IDEA的Git](https://mp.weixin.qq.com/s/7r8k7wHSoQf_LH8hoMZiSA)
++ [安利一下IDEA中的Arthas插件](https://mp.weixin.qq.com/s/sqHTHgOzU1IUV8X62kFGog)
 
 # 行业新闻
 

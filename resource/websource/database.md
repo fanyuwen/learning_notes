@@ -23,6 +23,7 @@
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
 + [SQL常用优化的技巧](https://mp.weixin.qq.com/s/bOWG0F1P9aSojGsNq0c61Q)
 + [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
++ [8 种最坑的SQL错误用法，你有没有踩过？](https://mp.weixin.qq.com/s/ZSC6vQQTtqRdOhcIpMxa_g)
 + [SQL 优化法则，学会都是 SQL 优化大神！](https://mp.weixin.qq.com/s/1rqhVP9P5aiaplnaHGJkOQ)
 + [ODPS SQL ——列转行、行转列这回让我玩明白了！](https://mp.weixin.qq.com/s/93EiX5nUeTSxyDOt3SE1CA)
 + [经典SQL50问（5）聚合处理中有NULL值和IFNULL（）函数的使用](https://mp.weixin.qq.com/s/lTQnP5kinV9WpH64PDYUOw)
@@ -211,6 +212,8 @@
 + [大数据量下Mysql的多表联合查询优化方案](https://mp.weixin.qq.com/s/Uq9J9uNhg2cz-zSjjs156A)
 + [4 种策略让 MySQL 和 Redis 数据保持一致](https://mp.weixin.qq.com/s/wdOeaBe5fM6Q5t_7ti206g)
 + [MySQL又一大坑！测试没测出来，被客户叼了](https://mp.weixin.qq.com/s/iJpheTNA9K0hlYKGaSobZA)
++ [MySQL数据库Day16：实战演练](https://mp.weixin.qq.com/s/dxNZVk61plk61Fksf-OQ8A)
++ [MySQL数据库day14：内连接查询](https://mp.weixin.qq.com/s/zjWfsfKglIEtj5oOGCUHVQ)
 
 #### 存储引擎
 
@@ -384,6 +387,7 @@
 + [如何实现Redis和Mysql中数据双写一致性](https://mp.weixin.qq.com/s/1xxXepmhTVoN4_EPb7QdUg)
 + [如何使用Redis Streams 实现消息队列](https://mp.weixin.qq.com/s/QApIVf56cqB0PDhQrCNR6g)
 + [Redis教程——事务](https://mp.weixin.qq.com/s/7Pc-SQ2Z69rE-jOcjav4wA)
++ [面试官：说一下你对Redis事务的理解？](https://mp.weixin.qq.com/s/lRZST0KbFTn3DIGJ7lLaFg)
 + [一文了解 Redis](https://mp.weixin.qq.com/s/niOvTiaNGG3KdrZQBNqM9g)
 + [基于Redis实现内部消息服务通信](https://mp.weixin.qq.com/s/CmrfSSQWS0RdQquC6-njXg)
 + [面试官：说说 Redis 哨兵机制？](https://mp.weixin.qq.com/s/4l102OwvTC5GPtK2JfuN6w)
@@ -394,6 +398,8 @@
 + [面试官：Redis如何保障高可用的？Redis主从、哨兵、Redis Cluster你分清楚了吗？](https://mp.weixin.qq.com/s/1o_oHwl3XOXJhqjvcFYvQA)
 + [Redis简单高效的消息通信](https://mp.weixin.qq.com/s/e9pZ50Sfncc3OYtkFL0l7A)
 + [换掉 ES！Redis 官方搜索引擎来了，效率大幅提升~](https://mp.weixin.qq.com/s/naEuvvxPnZno75uyOahoKw)
++ [从本地到云端：看Redis如何降本增效](https://mp.weixin.qq.com/s/jdRVywEZjk1xIrNSf_OgKg)
++ [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/PXan1kxHBWIfgUwU7TZILw)
 
 #### 原理
 

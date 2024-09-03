@@ -31,6 +31,7 @@
 + [c++重载运算符和重载函数（图、文、代码）](https://mp.weixin.qq.com/s/BbNJIr6kDYvpkHqxUoMAqw)
 + [MiLi，小而美的c++库](https://mp.weixin.qq.com/s/qgiVM1JUCVZIredEzp_arQ)
 + [面试题：sizeof(string)的结果是多少？](https://mp.weixin.qq.com/s/qqd0yknVMLai9EUbC5xh_Q)
++ [C++er 的视角看 Rust：从基于锁的并发编程谈起](https://mp.weixin.qq.com/s/n41ZeIlWuH-HIKhtLjTnCA)
 + [C++ proto 用作消息传输](https://mp.weixin.qq.com/s/UF4WgiWQx9kj-r8CGOBtXQ)
 + [技巧 | C++中实现类似instanceof的方法](https://mp.weixin.qq.com/s/lvQEx0GdGFZNV9YF942x3g)
 + [Kaitai Struct，一个超强的定义](https://mp.weixin.qq.com/s/SdxhkJUeSw6VfroIxH92VQ)

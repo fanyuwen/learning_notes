@@ -6,6 +6,7 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [python基础合集](https://mp.weixin.qq.com/s/T93d5BUMqXS-0WPDTdVufA)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
++ [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
 + [用Python逻辑运算符精简你的代码库](https://mp.weixin.qq.com/s/1mBnnnMha8K8KQiRacImCw)
 + [深入了解Python包（Package）的使用](https://mp.weixin.qq.com/s/KQ_kSBpGXBL-k-fKNPVT0w)
 + [3 控制语句结构（顺序、循环、选择）---GESP教程Python一级](https://mp.weixin.qq.com/s/JHNfZfCiZtNa6OwV4Lp7HQ)
@@ -102,6 +103,7 @@
 + [SWD，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/75W_rfu70ccJfy-q5GWS1g)
 + [stutterbuddy，一个牛逼的python库](https://mp.weixin.qq.com/s/amrkhdbGxTaRB3yCQhma9Q)
 + [Pika，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/Yz_Rle2RnKaRvoL95uZQWg)
++ [cbvfastapi，一个牛逼的python库](https://mp.weixin.qq.com/s/MO-zUymmlfiLeVd8oY6ihA)
 + [Huey，一个牛逼的python库](https://mp.weixin.qq.com/s/-9Qh56_Dzd-EqnxTYUM8ZQ)
 + [seodo-cli，一个牛逼的python库](https://mp.weixin.qq.com/s/Od8rAuCJYxEVSqCrvxFL9g)
 + [Pygments ，一个最牛逼的Python库](https://mp.weixin.qq.com/s/O9tcnavhJa7cZ577VB-eGQ)
@@ -339,6 +341,7 @@
 + [一日一技：如何正确保护Python代码](https://mp.weixin.qq.com/s/jsrgEOZlzsnaQOic0zUQRw)
 + [Python 内存管理探秘](https://mp.weixin.qq.com/s/tHURptJyC_OsVuTygRm7mg)
 + [网络安全：Python编写端口扫描器](https://mp.weixin.qq.com/s/d0dTgBQ3Xv2Q83dwIxeEOA)
++ [ovito库的多线程使用](https://mp.weixin.qq.com/s/BgYFz373pRATsXkLbfIoEg)
 
 ## 框架
 

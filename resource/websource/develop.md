@@ -57,6 +57,7 @@
 + [领域建模的常见问题及解决方案](https://mp.weixin.qq.com/s/deZc0CXxGUbop2-LgS6BrQ)
 + [领域驱动设计 DDD 在 B 端营销系统的实践](https://my.oschina.net/meituantech/blog/11193086)
 + [领域驱动设计(DDD)之实践](https://mp.weixin.qq.com/s/zjjXW7awneDppIaQ2DcC1w)
++ [领域驱动设计（DDD）：让你的代码有“逻辑”的飞翔](https://mp.weixin.qq.com/s/sS59IFaMOa23J565rDN-1w)
 
 ## 微服务
 
@@ -64,6 +65,7 @@
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务架构 VS. 单体架构：对比与抉择](https://mp.weixin.qq.com/s/E5b_r9pGKWEnXgshlMbLaA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
++ [【入门笔记】微服务设计模式](https://mp.weixin.qq.com/s/CvdqIA7QcfS3z4fGuA4hXA)
 + [微服务 vs. 事件驱动架构：重新开始理解差异](https://mp.weixin.qq.com/s/M9IQX6CnlH50BXuNgHOvIw)
 + [微服务Token鉴权设计的几种方案](https://mp.weixin.qq.com/s/YINEVqGziyp99_SiWgmKpQ)
 + [微服务中token鉴权设计的4种方式总结](https://mp.weixin.qq.com/s/34SnX4LyNvx3Pu6D7ezUBA)
@@ -409,6 +411,7 @@
 
 + [批处理 vs 流处理，如何选择？](https://mp.weixin.qq.com/s/gpjTrbOjZfOht8Kd06ZCew)
 + [流程编排与接口集成的区别](https://mp.weixin.qq.com/s/3US0myV2syer4bqmOF7SYw)
++ [业务逻辑动态编排(MicroFlow微流框架)技术分享](https://mp.weixin.qq.com/s/_UQBQ1YAy02CGJQClkZGyw)
 
 ### JSON
 

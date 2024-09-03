@@ -26,6 +26,7 @@
 + [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
 + [基于 Rust 构建高性能的原生 UI 框架](https://mp.weixin.qq.com/s/1RspE0lfj7KtEVtg7Zy-qQ)
 + [Rust 与 JVM 深度融合，构建高性能的应用程序](https://mp.weixin.qq.com/s/wP2tSWZQYHqTQVAwJCzS7Q)
++ [专为 Rust 设计的搜索引擎](https://mp.weixin.qq.com/s/GOaxjlCJ-u1_ac6vosodjQ)
 
 # 框架
 

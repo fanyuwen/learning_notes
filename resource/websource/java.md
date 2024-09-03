@@ -63,6 +63,7 @@
 
 ## 高级用法
 
++ [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java Sream中如何自定义Collector实现复杂数据的收集](https://mp.weixin.qq.com/s/jW0ZoQP3gOUzbXW3qLWO9g)
@@ -104,6 +105,7 @@
 + [写代码有这16个好习惯，可以减少80%非业务的bug](https://mp.weixin.qq.com/s/Bdm9mOEWnQxx9Cqul6vThw)
 + [一个项目代码讲清楚DO/PO/BO/AO/E/DTO/DAO/ POJO/VO](https://mp.weixin.qq.com/s/seduq9sglqEnC2ta7LU07g)
 + [一句注释引发的思考 - 论代码质量](https://my.oschina.net/jijunjian/blog/11335481)
++ [工作 3 年的同事不懂 isEmpty 和 isBlank 的区别，我真是醉了。](https://mp.weixin.qq.com/s/o1QlRLdEB9hKlQDz8AqQww)
 + [26 个提升 java 性能需要注意的地方](https://my.oschina.net/justjavac/blog/66628)
 + [依赖注入：打造高内聚，低耦合的代码艺术](https://mp.weixin.qq.com/s/nO6CwX7J515L5K-ZXSs_pg)
 + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
@@ -134,6 +136,7 @@
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
++ [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
 + [Java排序原理](https://mp.weixin.qq.com/s/mzfsdeHvigKGXBlchR5NRg)
 + [秒懂双亲委派机制](https://mp.weixin.qq.com/s/QqAIsLN0X0fzH51XBgvvdA)
@@ -277,6 +280,7 @@
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
 + [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
 + [放弃ThreadLocal！TTL真香](https://mp.weixin.qq.com/s/WO2yqup5U3xTZAu0yvyMEg)
++ [什么？！90%的ThreadLocal都在滥用或错用！](https://mp.weixin.qq.com/s/ZpXd20jbvuXYZ0FLrF35-Q)
 + [ThreadLocal最全详解(万字图文总结)](https://mp.weixin.qq.com/s/WtMLAU59LQh8hTE-RKf1mA)
 + [ThreadLocal详解，再也不怕面试官了](https://mp.weixin.qq.com/s/DZ978WVSd02TowYqHo1Snw)
 + [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
@@ -460,6 +464,7 @@
 + [看完这篇文章 ，就可以说精通Spring Security了](https://mp.weixin.qq.com/s/THqDhTTEOoWVyZC5lrAisg)
 + [2w+字，带你彻底搞懂 Spring Security 6.0 的实现原理](https://mp.weixin.qq.com/s/VWY1d5wzMCW5c056Z3abOw)
 + [身份验证&授权，Spring Security是如何实现的？](https://mp.weixin.qq.com/s/wXJRPyqbdLhk4bZJYi_Jtw)
++ [Spring Security + Oauth2 认证授权](https://mp.weixin.qq.com/s/5arckiFJiNRIxr4p9t8olg)
 
 ### data
 
@@ -573,6 +578,7 @@
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Springboot循环依赖解决办法](https://mp.weixin.qq.com/s/Kn-bYUeCw3n_2GpcwJ9UHw)
 + [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
++ [SpringBoot -- 常用注解及讲解](https://mp.weixin.qq.com/s/i_wfdV8TUHv-4YbcDHmFng)
 + [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
 + [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/Z2kwMiS58F80zSXyTjfAZA)
 + [请不要再使用@Autowired/@Resource注解进行字段注入](https://mp.weixin.qq.com/s/YCvfXwNXiPyNlUOZulj_gQ)
@@ -753,6 +759,7 @@
 + [SpringBoot实战：springboot+screw 轻松生成数据库设计文档](https://mp.weixin.qq.com/s/Iv8Eu7wAvunvbuNpsa2hYg)
 + [SpringBoot实战：轻松实现接口数据脱敏](https://mp.weixin.qq.com/s/fydN-Mf6Eec82DEoh8teyA)
 + [CORS 的实现原理及 SpringBoot 实战](https://mp.weixin.qq.com/s/QmiuvHbGkVZJP6gvA7HKQA)
++ [在 SpringBoot3.3 中拦截修改请求 Body 的多种正确方式](https://mp.weixin.qq.com/s/RTmntG9tYPBUc1HAWAq9Ug)
 + [优雅！SpringBoot统一返回结果就该这样处理](https://mp.weixin.qq.com/s/tRhdzMKqJ2jvmX-x5ZTsVA)
 + [【SpringBoot Web框架实战教程】10 SpringBoot 拦截器](https://mp.weixin.qq.com/s/CIntbbNm5oqMzoRgt6uPYw)
 + [SpringBoot 参数校验，高级特性，非常实用！](https://mp.weixin.qq.com/s/5kQRGO6ZtlJIm3BcxUEDzg)
@@ -856,6 +863,7 @@
 + [Spring Boot 3.x + Flink 实现增量同步与变更数据捕获](https://mp.weixin.qq.com/s/gJo1-LOcZOeS5Bo5OfYzRA)
 + [实时同步神器:Flink 和 Spring Boot 实现 MySQL 数据同步](https://mp.weixin.qq.com/s/2tnhS04ZVb9RWeODE9U1cA)
 + [SpringBoot 整合 Flink CDC 实时捕获 MySQL 变更数据](https://mp.weixin.qq.com/s/-W-hTTmftfEQbh2XrSvNCg)
++ [SpringBoot 实战：SpringBoot整合Flink CDC，实时追踪mysql数据变动](https://mp.weixin.qq.com/s/bmti9ZOVRhsu40tZWC_HHA)
 
 #### CONCURRENCY
 
@@ -919,6 +927,7 @@
 + [Spring Boot 实现日志链路追踪，无需引入组件，让日志定位更方便！](https://mp.weixin.qq.com/s/OvRMYoQf_lJu4-UIaJ3rHw)
 + [Spring Boot 源码分析 - 日志系统](https://blog.51cto.com/u_15668812/11064336)
 + [Spring Boot 配置日志输出的正确姿势！](https://mp.weixin.qq.com/s/4fP0B7jp-7xfD1bysfb1nA)
++ [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/qB0Dz3QzfS3RBHxaPpIMZg)
 
 #### 安全
 
@@ -999,6 +1008,7 @@
 + [整理常见的Mybaits打印执行sql和耗时时间的方案](https://mp.weixin.qq.com/s/PEvyuhmnEA_CmNARQq4YjQ)
 + [别再手动拼接 SQL 了，MyBatis 动态 SQL 写法应有尽有，建议收藏！](https://mp.weixin.qq.com/s/4RaCEJbxoe8yjqWSBPax5A)
 + [Mybatis 注解开发](https://mp.weixin.qq.com/s/5atrR86i8nmTzAmCT1QEew)
++ [23个Mybatis注解：Mybatis架构分析与注解案例(必须收藏)](https://mp.weixin.qq.com/s/4PZgnu_tai4Vh4HfzVmfzw)
 + [MyBatis原理机制详解(附8大执行流程图解)](https://mp.weixin.qq.com/s/4glpXF31JjMcanwYpeMKug)
 + [mybatis专题-打印完整带sql语句](https://mp.weixin.qq.com/s/vT4E0Rcyn7Bj2bFIU6CYXg)
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/DNpqLjSsXcedXLFxiJCqCQ)
@@ -1009,6 +1019,7 @@
 + [用过超过3个算我输！Mybatis动态SQL全解析](https://mp.weixin.qq.com/s/CkHqYip6ABXNaU6eL2Emlg)
 + [弃用 Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/LKvfTtG-RrqPm7P0qRta0w)
 + [MyBatis如何调用存储过程？](https://mp.weixin.qq.com/s/YPZV6DauPeYSj7eWSK5PLQ)
++ [Mybatis拦截器实现字段加解密](https://mp.weixin.qq.com/s/u2-5vEG0z8M0ZDhQTqebhQ)
 + [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
 + [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
 
@@ -1134,6 +1145,7 @@
 + [高并发场景下的httpClient使用优化技巧](https://mp.weixin.qq.com/s/O2lkb42pWpYFuo3nst8rgQ)
 + [一款功能强大、高性能、无侵入的 Java 性能监控神器 MyPerf4J](https://mp.weixin.qq.com/s/sKyeYL_ODa2uMlMLJh26kw)
 + [提升编程效率的利器: 解析Google Guava库之Immutable不可变集合](https://mp.weixin.qq.com/s/8Y1Q9RAT7U6f4W7v4FbHCQ)
++ [提升编程效率的利器: Google Guava库之RateLimiter优雅限流](https://mp.weixin.qq.com/s/0dWk22CKLYTXi5WI9vOb-A)
 + [8 个线程池最佳实践和坑！使用不当直接生产事故！！](https://mp.weixin.qq.com/s/RXUBBbbyGdH28Lby6vi7fA)
 + [28个验证注解，通过业务案例让你精通Java数据校验(收藏篇)](https://mp.weixin.qq.com/s/Fjec7raBNx_fsNMbWsKLYQ)
 + [Java开源工具库使用之性能测试JMH](https://mp.weixin.qq.com/s/Q9e6PZjDvXfNZI-p7WsVkA)
@@ -1171,6 +1183,7 @@
 + [Java分布式事务处理与一致性保障的解决方案](https://mp.weixin.qq.com/s/4MYtxY1MpwPJjPknu6Ef6Q)
 + [延迟队列：7种方案，总有一款适合你！](https://mp.weixin.qq.com/s/o_psQXGYFTRtp4VLfYk_Wg)
 + [利用Java AOP实现面向切面编程的关键技术](https://mp.weixin.qq.com/s/hfY2Kf1LpEHxWZfELU39_w)
++ [面试官：谈谈你对 IoC 和 AOP 的理解！](https://mp.weixin.qq.com/s/ab-MLI2VyK9fdTtio5Y9Wg)
 + [Java进阶篇 -- 用户登录](https://mp.weixin.qq.com/s/ddWcaPcWanpJ3oM-3kevDw)
 + [Linux 与 Java 开发：实战命令指南](https://mp.weixin.qq.com/s/Q-hYEl6SpjMEKWdXG3-rAw)
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)

@@ -73,6 +73,7 @@
 + [深入理解Kubernetes对象,Pod服务质量Qos](https://mp.weixin.qq.com/s/8QcG0tvb1rMayG_kYfUerA)
 + [深入理解Kubernetes对象,资源配额管理-ResourceQuota](https://mp.weixin.qq.com/s/XPawMDvq8eDH9WIOzdJAog)
 + [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)
++ [打造自己的Kubernetes王国：从小白到K8S专家的华丽转身](https://mp.weixin.qq.com/s/Zg2mSIm89fX1Pqp5s22hDA)
 
 ## Prometheus
 

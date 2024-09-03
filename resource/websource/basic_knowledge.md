@@ -102,6 +102,7 @@
 + [NUMA架构：CPU和内存性能瓶颈的终结者！](https://mp.weixin.qq.com/s/awMSx3XMM6HbUlidC-UUCQ)
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
 + [一个例子搞懂CPU的工作原理](https://mp.weixin.qq.com/s/cIPCVgXMEMKlN3vI6KvrhQ)
++ [如何动手做出一个 CPU ？](https://my.oschina.net/u/4899581/blog/5242015)
 
 ### 并发
 

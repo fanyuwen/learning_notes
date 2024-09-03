@@ -81,6 +81,7 @@
 + 云原生服务网格 [istio](https://istio.io/)
 + 云可观测平台 [retina](https://retina.sh) [middleware](https://middleware.io) [hyperdx](https://www.hyperdx.io) [streamdal](https://streamdal.com)
 + 开放容器行业标准 [OCI](https://opencontainers.org)
++ 网络分析 [wireshark](https://www.wireshark.org/)
 + 网络安全 <font style='color:red'>*</font>[defguard](https://defguard.net) <font style='color:red'>\*</font>[zitadel](https://zitadel.com)
 + 事件通信监控平台 <font style='color:red'>*</font>[statuspal](https://www.statuspal.io)
 + 服务发现 [consul](https://www.consul.io)

@@ -30,6 +30,7 @@
 + [为什么说程序员不断提高技术可能是误区？](https://mp.weixin.qq.com/s/xMQ6XKiGyg7XtUJ5iSL3Yw)
 + [为什么有的程序员一直在做需求，而有的人却主导大型项目？](https://mp.weixin.qq.com/s/vV5WqtfWG1T3lkb6w2vmmQ)
 + [也谈一下 30+ 程序员的出路](https://mp.weixin.qq.com/s/Ns7V1wYg-xpiZBOjXbwSOg)
++ [十年 IT 老兵：聊聊我这六点认知！](https://my.oschina.net/u/4899581/blog/5262764)
 
 # 个人成长
 

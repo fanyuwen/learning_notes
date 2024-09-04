@@ -494,7 +494,6 @@
 
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
 + [Spring源码中是如何使用设计模式六大原则的](https://mp.weixin.qq.com/s/VlKGPtG9TXMXM9OncDt83A)
-+ [Spring Boot实战：使用模板方法模式优化数据处理流程](https://mp.weixin.qq.com/s/djh5LNpg2lU1CznJ46R7Uw)
 
 ### STATEMACHINE
 
@@ -948,6 +947,7 @@
 + [Spring Boot与桥接模式：构建灵活的产品分类体系](https://mp.weixin.qq.com/s/J3H3CJvQgbrGYiC8vS4drg)
 + [Spring Boot与策略模式：实现动态的物流费用计算](https://mp.weixin.qq.com/s/0xCAqJ89SdlDjC1YE09FWQ)
 + [Spring Boot实战：基于职责链模式处理请求链中的多个处理器](https://mp.weixin.qq.com/s/op2kBd1AHI_aSYTYHkAuww)
++ [Spring Boot实战：使用模板方法模式优化数据处理流程](https://mp.weixin.qq.com/s/djh5LNpg2lU1CznJ46R7Uw)
 
 #### message
 

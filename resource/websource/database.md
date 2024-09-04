@@ -96,6 +96,7 @@
 + [不可重复读和幻读有什么区别](https://my.oschina.net/lenve/blog/15207192)
 + [为什么阿里巴巴规定禁止超过三张表 join？](https://mp.weixin.qq.com/s/OvGQNeNIdQ1EcN-L39VQjQ)
 + [千万级数据的全表update的正确姿势！](https://mp.weixin.qq.com/s/sZIEc0IAQST6xd6p787qdA)
++ [腾讯二面：为什么数据库连接很消耗资源？我竟然答不上来。。一下懵了！](https://mp.weixin.qq.com/s/3wO9K7i74vd4CdfVtVjWFA)
 
 ## 关系型数据库
 
@@ -110,6 +111,7 @@
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [MySQL 外连接、内连接与自连接的区别？](https://mp.weixin.qq.com/s/PVORJcT20nQa_dNt9Rrpyw)
++ [MySQL留疑问：left join时选on还是where？](https://mp.weixin.qq.com/s/xrj0icDRCXWWUyCq1YYF1A)
 + [京东：MySQL 中的 distinct 和 group by 哪个效率更高？太刁钻！](https://mp.weixin.qq.com/s/Ryv11iPea3SJhdmcrA30Lg)
 + [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/rcMX8zlnYh5yP2F452-cqQ)
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
@@ -301,6 +303,7 @@
 + [几道小题：几个易出错的PostgreSQL小用法(一)](https://mp.weixin.qq.com/s/sxwD1zU0hQMeU6ogSrmWGA)
 + [冷门的PostgreSQL性能优化来了：利用事务链减少与SERVER端的往返开销](https://mp.weixin.qq.com/s/MTlnfo7rshXlmtVi_KNZbQ)
 + [再来PostgreSQL几道小题(二), 加深理解](https://mp.weixin.qq.com/s/aD7Fs_ix4Td4QDvnzoinQA)
++ [PostgreSQL“平替”Oracle：应用和基础架构改造技巧经验分享](https://mp.weixin.qq.com/s/uhTpUMFAowmXB6rbjqgZ7A)
 
 ### SQLSERVER
 

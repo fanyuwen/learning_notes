@@ -59,6 +59,7 @@
 + [你可能不知道 xz 也是一种压缩格式](https://mp.weixin.qq.com/s/4rkIPKHPfWN2I1q9Pswj9A)
 + [你可以需要了解的Linux 性能工具](https://mp.weixin.qq.com/s/XqCpZEY-7phehLXAy5elsg)
 + [Linux开发技巧分享第一篇](https://mp.weixin.qq.com/s/MxVk3VE1Nho-ZlOXhF2cvw)
++ [Linux高性能编程_malloc原理](https://mp.weixin.qq.com/s/v-lXOFawW5iwZ24O_8f28w)
 
 ### 网络
 
@@ -77,6 +78,7 @@
 + [一篇短文快速搞定Vim编辑器命令](https://mp.weixin.qq.com/s/-pkRQ2sC8cdM7DiXbzHCig)
 + [【超详细】后端和运维必会30个Linux命令解说：mkdir](https://mp.weixin.qq.com/s/c2drfkSoleNNxaVNabIptw)
 + [Linux命令(八)：Linux设备管理命令](https://mp.weixin.qq.com/s/Kkt51ZhCkzqMuxID39uAhg)
++ [Linux 常用命令](https://mp.weixin.qq.com/s/PskjUENl121iXryWvoi9bQ)
 
 ### 发行版信息
 

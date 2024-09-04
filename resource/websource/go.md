@@ -7,6 +7,7 @@
 ## 新特性
 
 + [Go 1.23新特性前瞻](https://mp.weixin.qq.com/s/rODxrjFS4lRbnIMcV2j2sg)
++ [Go 1.23 新特性解读：unique 包及其应用](https://mp.weixin.qq.com/s/oh6ZWbUEXrEsZgtv1xKw6Q)
 
 # 话题
 

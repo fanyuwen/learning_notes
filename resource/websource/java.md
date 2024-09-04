@@ -96,6 +96,7 @@
 + [【技术总结】Java List元素删除全攻略：从基础迭代到高效批量删除，一文掌握多种技巧！](https://mp.weixin.qq.com/s/AgAp5DwEmZgQexdM4yQbuQ)
 + [案例分析：常见的Java代码优化法则](https://mp.weixin.qq.com/s/fEC1NXaMLD7TaMmZhW8RBA)
 + [拼接字符串的最优方式（Java代码片段）](https://mp.weixin.qq.com/s/cyfIAN6gkVpoNl1NrmdNzg)
++ [如何在Java中实现对象和Map之间的转换](https://mp.weixin.qq.com/s/3Rrsttc8fcsjfuPQQKensw)
 
 ## 代码质量
 
@@ -549,6 +550,7 @@
 + [Spring Cloud Feign：简化微服务的 HTTP 客户端](https://mp.weixin.qq.com/s/WojobdPyeyB87Nq6jGps5A)
 + [6大SpringCloud组件详解(图文全面总结)](https://mp.weixin.qq.com/s/wLPpDGK0RK_elZZJiAX79g)
 + [SpringCloud微服务架构详解(万字图文总结)](https://mp.weixin.qq.com/s/5-9aBeKz7unoyzr0QTkRyQ)
++ [Spring Boot与Spring Cloud Gateway实现基于WebFlux的非阻塞路由](https://mp.weixin.qq.com/s/0u6ZAjTLyffPkslpjMPVOQ)
 
 #### AI
 
@@ -559,6 +561,7 @@
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
++ [SpringBoot3.3 优雅停止/重启定时任务功能太赞了！](https://mp.weixin.qq.com/s/7sgHQFTmvZ_03bNJUcEi0w)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [14个SpringBoot优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/1KhaQYb1BYc6vUnGG2dyzQ)
 + [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
@@ -855,6 +858,10 @@
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
 + [Spring Boot 集成 Elasticsearch【入门篇】](https://mp.weixin.qq.com/s/jlWWaxdZH02rLF67JGoLHg)
 
+##### TRANSACTION
+
++ [利用Spring Boot的@Transactional注解保障业务数据的一致性](https://mp.weixin.qq.com/s/NI82lzGm7nLdX9IyeruOrw)
+
 ##### BIG DATA
 
 + [Spring Boot 3.x + Flink 实现实时数据聚合与窗口操作](https://mp.weixin.qq.com/s/vY5MtaW2Uye28JvzC0P_fg)
@@ -948,6 +955,7 @@
 + [Spring Boot与策略模式：实现动态的物流费用计算](https://mp.weixin.qq.com/s/0xCAqJ89SdlDjC1YE09FWQ)
 + [Spring Boot实战：基于职责链模式处理请求链中的多个处理器](https://mp.weixin.qq.com/s/op2kBd1AHI_aSYTYHkAuww)
 + [Spring Boot实战：使用模板方法模式优化数据处理流程](https://mp.weixin.qq.com/s/djh5LNpg2lU1CznJ46R7Uw)
++ [Spring Boot实战：基于模板方法模式重构订单处理流程](https://mp.weixin.qq.com/s/Db5X-oGCU3--u2BMwDXMJg)
 
 #### message
 
@@ -1093,6 +1101,7 @@
 ## 消息队列
 
 + [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
++ [实用工具推荐：ActiveMQ，适合各类项目的Java库](https://mp.weixin.qq.com/s/QkUN_AZ6OQLtYkd4WoGpkQ)
 
 ## logger
 
@@ -1100,6 +1109,7 @@
 + [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
 + [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
 + [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
++ [我司使用了两年的高效日志打印工具，非常牛逼！](https://mp.weixin.qq.com/s/I1ePJVGIykqU1IB9HC3x0A)
 
 ## MapStruct
 

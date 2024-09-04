@@ -42,6 +42,7 @@
 + [CNTK,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/smle0a6imrGvuIh3zA5InA)
 + [cpp-sort，一个先来后到的c++库](https://mp.weixin.qq.com/s/6EXEasNlmQ_IKVJUuumpZg)
 + [dbg-macro，一个强大的c++库](https://mp.weixin.qq.com/s/GwbwXRFNLtTZ4cWI3grWJg)
++ [MXNet,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/mMAnxbvRmMNeEUQkqlH4OQ)
 + [Kratos,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/gxT7cOtcXuAqKFE-TNm6wA)
 + [libde265,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/vaJ-gQaIaFUhq8UU8wYXKg)
 + [MPQC，一个高深莫测的c++库](https://mp.weixin.qq.com/s/zJ6ZoOx4kZ1dzPVDr5PDKg)

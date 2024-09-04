@@ -202,6 +202,7 @@
 + [漏洞通告 | GeoServer JXPath远程代码执行漏洞](https://mp.weixin.qq.com/s/A46tM8rEpHr4HcR5bke6GA)
 + [英特尔CPU疯狂崩溃，测评大佬揭露工艺缺陷，官方回应：修复补丁下月上线](https://mp.weixin.qq.com/s/KUDF67Ts2PR26qfrxXetZw)
 + [Git严重漏洞，远程执行代码，Mac和Windows通杀！](https://mp.weixin.qq.com/s/AHuNjzikCQ3VbyQrPtEz5Q)
++ [Spring 和 Nacos 双双爆出安全漏洞！！](https://mp.weixin.qq.com/s/Fze2-p0xragV_6jbC7A7AQ)
 + [寻找适合编写静态分析规则的语言](https://my.oschina.net/u/4526289/blog/11348327)
 + [华为仓颉编程语言正式发布，号称新一代编程语言，Java、Python 瑟瑟发抖。。。](https://mp.weixin.qq.com/s/O-PSyKRPE-31Y8Zmc7Dh-A)
 + [我让代码，学会了自动评审！提高80%的交付质量！](https://mp.weixin.qq.com/s/XeBycsfgSuAMJDw0JC1c7Q)
@@ -311,3 +312,4 @@
 ### 生活
 
 + [我不打算买房，无锡公积金还有什么用？](https://mp.weixin.qq.com/s/g2tXzKEWYJxRZzL_vxV4QA)
++ [无锡公积金目前最高能贷多少钱？](https://mp.weixin.qq.com/s/Z73ybGfuj0Q7NF2_dLrJZQ)

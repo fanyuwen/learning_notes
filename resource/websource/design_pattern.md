@@ -73,3 +73,7 @@
 # 原型模式
 
 + [什么是原型模式？](https://mp.weixin.qq.com/s/LwwARjNsmXZPtL5bxNE_tA)
+
+# 解释器模式
+
++ [15. 解释器模式：Java中的语法分析利器](https://mp.weixin.qq.com/s/wqQf_-tXUMHkSsi2Fx5fEg)

@@ -26,6 +26,7 @@
 + [Node.js 竟然比 Go 快](https://mp.weixin.qq.com/s/X063efPy7uY3KPNWf8UwKA)
 + [让 Go 语言的 ORM 更加亲近开发者](https://mp.weixin.qq.com/s/ot8N8jBRaxQWasgZLaUxdQ)
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
++ [一个能让你少写循环和判断的Go开源包，支持泛型](https://mp.weixin.qq.com/s/zX4GOZb-FO8Pq9qxthMiLQ)
 
 # 库
 
@@ -40,6 +41,7 @@
 + [go-chi：用于构建 Go HTTP 服务的轻量级且可组合的路由器](https://mp.weixin.qq.com/s/rL07n0h_IATDo6YBsgdz1Q)
 + [go-av,一个交口称赞的库](https://mp.weixin.qq.com/s/vOK4Rh_zzS7SBPgy6oAIOQ)
 + [Gin 框架性能的秘密武器：压缩字典树详解](https://mp.weixin.qq.com/s/FbtOqVRyl4q6C-w6gWV9Zg)
++ [基于反射的轻量级 Go 依赖注入框架](https://mp.weixin.qq.com/s/jTPy1mFPPQfkGY6VA2WNNA)
 
 # 实践
 
@@ -86,6 +88,7 @@
 + [Go Gin 静态文件服务：构建高效、灵活的资源交付系统](https://mp.weixin.qq.com/s/KHrHlAYb-P4qYOpWQhMBoA)
 + [基于 Gin 框架的 Go 后端架构最佳实践](https://mp.weixin.qq.com/s/DaCkIznCqxHeInNP5fYNgA)
 + [Go必知必会：协程（上）：进程、线程、协程的区别和联系](https://mp.weixin.qq.com/s/-QrMsdOmBqnz50fAS0K9yw)
++ [Go 语言实现 Windows 守护进程](https://mp.weixin.qq.com/s/mK4Aug8rvqQSld3P6cYAeQ)
 
 # 面试题
 

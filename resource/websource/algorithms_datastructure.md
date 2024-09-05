@@ -23,6 +23,7 @@
 + [每个程序员都应该知道的十大高级数据结构：彻底改变您的代码](https://mp.weixin.qq.com/s/7d0a3rn3Fm03uQyqgwpsKw)
 + [重温数据结构与算法之并查集](https://mp.weixin.qq.com/s/GRQtGuZMYK-e6Cdqmh1fow)
 + [重温数据结构与算法之前缀和](https://mp.weixin.qq.com/s/cVcHr76SkbL-crDdvW2Xew)
++ [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 + [8 个程序员都必须知道的常见数据结构](https://mp.weixin.qq.com/s/aCogl93rpI2mU2wyDTlnLQ)
 
 # 密码学

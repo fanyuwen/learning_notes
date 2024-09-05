@@ -37,6 +37,7 @@
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
++ [腾讯写码6年，我总结的技术人核心竞争力](https://mp.weixin.qq.com/s/EFi1GzHy5qAx9Ixnppoybw)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [一个埋藏9年的底层bug发现历程](https://mp.weixin.qq.com/s/DouRB_FY1TvHKeXRXEMMqw)
@@ -240,6 +241,8 @@
 + [简单操作，让你优雅访问Github（适用于Linux 和Windows）](https://mp.weixin.qq.com/s/NHd1ggqFWXE_rAuo8NpofQ)
 + [GitHub 删除代码等于“任何人均可永久访问”！微软回应：这是特性](https://mp.weixin.qq.com/s/oymAZ0VKlOwMPhNqDN8F7w)
 + [闲鱼上卖源码的都是程序员吗？](https://mp.weixin.qq.com/s/u-_OBfqw5lhzY7g7KlbCOw)
++ [为什么很多程序员讨厌低代码？](https://mp.weixin.qq.com/s/46oJWAO1OrWDzUqjD-g7Kg)
++ [要低代码，不要低能力，低代码工具能否成为企业增效神器？](https://mp.weixin.qq.com/s/ImwTa5DIy5bUWwaCrGn1JQ)
 
 ## 创业
 
@@ -308,6 +311,7 @@
 + [看透世界本质的30本书](https://mp.weixin.qq.com/s/oSq-UyQeODyDiooy50hDHA)
 + [拿捏了！解决90%深度学习问题的，图解深度学习书籍，熬夜必看书籍！](https://mp.weixin.qq.com/s/FI4agoArHpimwMVjS6rlTA)
 + [程序员必读书单推荐](https://mp.weixin.qq.com/s/ktXV4SFKBPqdAkkRpHHVVA)
++ [9本相见恨晚的“计算机”好书](https://mp.weixin.qq.com/s/DfAJbbrLRio7FAETQNDSag)
 
 ### 生活
 

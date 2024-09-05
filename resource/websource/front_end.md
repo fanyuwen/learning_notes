@@ -42,10 +42,12 @@
 + [记录一个函数执行了多长时间？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/-ujZXjOKeExjwulUUZU72w)
 + [掌握 JavaScript 的柯里化，让代码更优雅](https://mp.weixin.qq.com/s/Ps7vXUNvBA58xNu9KW8PFA)
 + [精进 JavaScript ｜ 这些手写你都会吗 ？](https://mp.weixin.qq.com/s/evXB9E23xilkHGDg4iTTYw)
++ [JS高级-this指向及绑定规则、优先级](https://mp.weixin.qq.com/s/15b8I7FNhhFqR0jX_mWLRg)
 + [5 个有用的 JavaScript 代码片段，让你像专业人士一样编写代码](https://mp.weixin.qq.com/s/oTJaMsjqTudKNpxYJpvLaQ)
 + [JavaScript 中实现函数重载和参数默认值](https://my.oschina.net/justjavac/blog/71808)
 + [每个 JavaScript 开发人员都应该知道的小技巧二](https://mp.weixin.qq.com/s/CDjDCubcU6395Ma3oWpe-g)
 + [16 个日常开发必备的JavaScript 代码片段](https://mp.weixin.qq.com/s/ooxHEiZSZbbxhBDMlZxt4w)
++ [16个 JavaScript 单行代码帮助你提升开发水平](https://mp.weixin.qq.com/s/Y-O5Dbj5E5wOjinJUgx1Kg)
 + [49个常用JavaScript方法封装【收藏】](https://mp.weixin.qq.com/s/BkhjxG8azO4Yhn5NwAkSGw)
 + [LocalStorage的使用教程](https://mp.weixin.qq.com/s/tC_zF-0KdbMHaRf5pxRlYg)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
@@ -90,6 +92,7 @@
 + [Vue Vine：带给你全新的 Vue 书写体验！](https://mp.weixin.qq.com/s/Yd__e_bcHwLfJ_6VoVbtMw)
 + [前端开发，vue3实现excel文件预览和打印](https://mp.weixin.qq.com/s/AyWIANImSboWhbGGWyPNlg)
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
++ [全网首发：Vue3.5 源码解析， useTemplateRef 实现原理](https://mp.weixin.qq.com/s/GnPPWXr3EP0vE7sxinNPTA)
 
 ## react
 

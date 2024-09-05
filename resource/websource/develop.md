@@ -348,6 +348,8 @@
 + [【SoC】看门狗(Watch Dog)定时器的原理与使用](https://mp.weixin.qq.com/s/drLrmfUCXNIutYBhpGU_5w)
 + [如何设计建立和保持100w的长连接？如果有人恶意创建非法连接，怎么解决？](https://mp.weixin.qq.com/s/b7XvHHaJZ5SduPnbdq49SQ)
 + [前后端数据传输约定探讨](https://my.oschina.net/u/4090830/blog/11407609)
++ [高效组件的设计与封装之道](https://mp.weixin.qq.com/s/Tm4O-YuVesjbzNMDu9CQDQ)
++ [模块化代码 - 实例简介](https://mp.weixin.qq.com/s/sHV9ebMZ4Ns1CH78nntIFA)
 
 # 测试相关
 
@@ -366,6 +368,7 @@
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
 + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
 + [状态机浅析](https://mp.weixin.qq.com/s/xPYD9Z0HblMG4B4flhX8Mg)
++ [有限状态机FSM](https://mp.weixin.qq.com/s/3boQq1pWXo9L1FIxcN29qg)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
 + [一致性是指什么？](https://mp.weixin.qq.com/s/xYPaQ3riYMqIGXOywEDGHQ)

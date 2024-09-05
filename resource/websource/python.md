@@ -110,6 +110,7 @@
 + [cbvfastapi，一个牛逼的python库](https://mp.weixin.qq.com/s/MO-zUymmlfiLeVd8oY6ihA)
 + [Huey，一个牛逼的python库](https://mp.weixin.qq.com/s/-9Qh56_Dzd-EqnxTYUM8ZQ)
 + [seodo-cli，一个牛逼的python库](https://mp.weixin.qq.com/s/Od8rAuCJYxEVSqCrvxFL9g)
++ [jupyterHub —— 一个乐于分享的 Python 库](https://mp.weixin.qq.com/s/m6-w9r0M-NllhMSHCKGbtA)
 + [Pygments ，一个最牛逼的Python库](https://mp.weixin.qq.com/s/O9tcnavhJa7cZ577VB-eGQ)
 + [bqplot，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/Ex-K3BAlu5tGKA3nxzCPAQ)
 + [sniffio ，一个最最强大的Python库](https://mp.weixin.qq.com/s/8DaNAUhlWNC6BePZfhlucg)
@@ -137,6 +138,7 @@
 + [Infinity：高吞吐量、低延迟的向量嵌入 REST API](https://mp.weixin.qq.com/s/2ckCA1A4Gdolkdlk7iDAQg)
 + [leafmap，一个最强大的Python库](https://mp.weixin.qq.com/s/XbvD_y59Qs5lEUO_ltko0g)
 + [hydra，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/bcXeiE45Y-HOcSwOEOhE5A)
++ [k3etcd，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/bNpB-me71UgK0dewr6k2mg)
 + [tensorwatchext，一个牛逼的python库](https://mp.weixin.qq.com/s/A3WCo3d4-DY-utM197ilDw)
 + [使用PySide6开发桌面程序快速入门（上）](https://mp.weixin.qq.com/s/xjazNc1GYB4VEs9XNI3RoQ)
 + [ujson,一个有口皆碑的库](https://mp.weixin.qq.com/s/d1E94F_BgRiZkVCeuB7FEQ)
@@ -193,6 +195,7 @@
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 + [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
++ [这个Python库把Selenium按在地上摩擦！](https://mp.weixin.qq.com/s/8nygWKJ4qioYSOUWBPD1KQ)
 
 ### Pandas
 
@@ -221,11 +224,13 @@
 + [探索hhk-utils库：Python初学者的实用工具集](https://mp.weixin.qq.com/s/PcNWEfPNBQRwPD32SMtBbg)
 + [一个速度极快的Python包管理工具](https://mp.weixin.qq.com/s/a3K-XZCqvJWlsmRb78bQQw)
 + [Python初探：轻松上手SQLAlchemy-ORM库](https://mp.weixin.qq.com/s/T55y89Vg40dmUSs-nUxr6A)
++ [PyOxidizer：Rust打造的Python 应用打包与分发的利器，可将 Python 解释器添加到Rust 项目中](https://mp.weixin.qq.com/s/T4okrAfhUuyE3ogdApoTqQ)
 
 ## 实践
 
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
++ [你知道 Python 其实自带了小型数据库吗？](https://mp.weixin.qq.com/s/xsfwDxgF9EVTQftqkCX-QA)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
 + [Python条件表达式优化的15个实例](https://mp.weixin.qq.com/s/MLUUqKED7pE-HrPqeghtRA)
 + [Python 新手必看：如何用 unittest 写出高质量代码？](https://mp.weixin.qq.com/s/2Sryhcgig1PbOazFLkVq1Q)
@@ -238,6 +243,8 @@
 + [彻底解决Python3: No module named 问题](https://mp.weixin.qq.com/s/nfx4HmEvyDMLZiq7ZKVchA)
 + [一文带您了解Python的函数式编程：理解lambda、map()、filter()和reduce()](https://mp.weixin.qq.com/s/YDG-glSKPm8QnrtrGVyMLQ)
 + [4个 Python 时间模块揭秘：让你的时间处理不再是难题！](https://mp.weixin.qq.com/s/4Ia1W7Hc9n0hAp3uqE2YOw)
++ [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
++ [24个令人眼前一亮的Python技巧—提升你的代码水平和质量（二）](https://mp.weixin.qq.com/s/dJcxySBoIJ-Z9dKEaHpv8A)
 + [Python路径操作的8个实用函数详解](https://mp.weixin.qq.com/s/A-pPb8w24-p57EHnkzwT5g)
 + [Python懒人必备：推荐7个高效实用的装饰器！](https://mp.weixin.qq.com/s/LdVi89KpCdYWIeCJuRSQ8Q)
 + [Python动态代码执行：exec和compile函数](https://mp.weixin.qq.com/s/XM7l3xVE5Af2NAJV7iA9vw)
@@ -252,6 +259,7 @@
 + [Python的math库常用函数介绍](https://mp.weixin.qq.com/s/WGHlknMHnyEBn0VlUHL2qQ)
 + [一文带您了解Python 网络编程：socket 示例](https://mp.weixin.qq.com/s/gNGPOGlb32DSfmUev2XRYg)
 + [如何理解Python中的全局解释器锁（GIL）](https://mp.weixin.qq.com/s/f3VevgTFKrQDr6r2u_bJIg)
++ [Python性能优化：10个提升代码性能的策略](https://mp.weixin.qq.com/s/JjH8iDFFSIiZ5v1agC0k0g)
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
 + [13 个 Python 自动化脚本可简化你的日常任务](https://mp.weixin.qq.com/s/5r3okQRNUnDuHWLGQSI16w)
@@ -350,7 +358,10 @@
 + [一日一技：如何正确保护Python代码](https://mp.weixin.qq.com/s/jsrgEOZlzsnaQOic0zUQRw)
 + [Python 内存管理探秘](https://mp.weixin.qq.com/s/tHURptJyC_OsVuTygRm7mg)
 + [网络安全：Python编写端口扫描器](https://mp.weixin.qq.com/s/d0dTgBQ3Xv2Q83dwIxeEOA)
++ [Python编写简单登录系统的完整指南](https://mp.weixin.qq.com/s/w2vPuqtekaon3Cqgy-QwDA)
 + [ovito库的多线程使用](https://mp.weixin.qq.com/s/BgYFz373pRATsXkLbfIoEg)
++ [Python Web开发（详细教程）](https://mp.weixin.qq.com/s/-54nofOKRHSk7sn_Yt_aaQ)
++ [Python：如何搭建 Flask 应用的技术指南](https://mp.weixin.qq.com/s/H8CWBMgjAP90rEqWk_xy-g)
 
 ## 框架
 

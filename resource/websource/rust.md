@@ -1,6 +1,7 @@
 # 技术相关
 
 + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
++ [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
 + [Rust 语言到底有哪些应用场景](https://mp.weixin.qq.com/s/UGyKuilAhYAWlujxSzhcCA)
 + [强大的开发组合——Rust加上嵌入式](https://mp.weixin.qq.com/s/HvtTKR3leiVz_Wp3bHXvuA)
@@ -25,8 +26,13 @@
 + [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
 + [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
 + [基于 Rust 构建高性能的原生 UI 框架](https://mp.weixin.qq.com/s/1RspE0lfj7KtEVtg7Zy-qQ)
++ [Rust 中常见的设计模式](https://mp.weixin.qq.com/s/sl0bWI0198CcQynLL2M9fw)
++ [跟着 Google 团队快速入门 Rust 编程](https://mp.weixin.qq.com/s/3z9lbJXKsKmYOUNZLFnCtw)
 + [Rust 与 JVM 深度融合，构建高性能的应用程序](https://mp.weixin.qq.com/s/wP2tSWZQYHqTQVAwJCzS7Q)
 + [专为 Rust 设计的搜索引擎](https://mp.weixin.qq.com/s/GOaxjlCJ-u1_ac6vosodjQ)
++ [Rust和C语言中的神奇内存优化](https://mp.weixin.qq.com/s/3DNNAYe9CTB_ACukaS9_LQ)
++ [Rust 引领前端基建新潮流：字节跳动的深度应用实践 | QCon](https://mp.weixin.qq.com/s/LXkJDSG7yZtQOJuV77VV1w)
++ [Rust 性能测试利器：Criterion.rs 让你的代码更快更强](https://mp.weixin.qq.com/s/MOId-suC-cZ-BWueIW9ikA)
 
 # 框架
 

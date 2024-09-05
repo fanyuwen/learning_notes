@@ -56,6 +56,7 @@
 + [用了Stream，代码丑爆了！姿势不对，别喷！](https://mp.weixin.qq.com/s/0XDSSa95VXp7Fy4lrQSJqA)
 + [用Stream代码丑爆了？那是姿势不对，别瞎喷](https://mp.weixin.qq.com/s/y6mp-IwWBZp2PwYZw-LJXQ)
 + [使用Java Stream简化集合操作：过滤、映射与归约](https://mp.weixin.qq.com/s/GJsR0v1P64UNRdVLCM2umQ)
++ [Java 8 Stream 处理大数据集：实战与优化](https://mp.weixin.qq.com/s/Ydit89l4WiC6VG3t849X_A)
 + [深入理解 Java Stream 流水线](https://mp.weixin.qq.com/s/M0GfCRU8QQ54hP7E6HiiGw)
 + [null 不好，我推荐你使用 Optional](https://mp.weixin.qq.com/s/PkEpBt-CHgmCAQ-onUY1aw)
 + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
@@ -97,6 +98,7 @@
 + [案例分析：常见的Java代码优化法则](https://mp.weixin.qq.com/s/fEC1NXaMLD7TaMmZhW8RBA)
 + [拼接字符串的最优方式（Java代码片段）](https://mp.weixin.qq.com/s/cyfIAN6gkVpoNl1NrmdNzg)
 + [如何在Java中实现对象和Map之间的转换](https://mp.weixin.qq.com/s/3Rrsttc8fcsjfuPQQKensw)
++ [请停止在 Java 中使用 if-else 语句](https://mp.weixin.qq.com/s/8tA1TyO25dN0pV2wno8u-Q)
 
 ## 代码质量
 
@@ -198,6 +200,7 @@
 + [主线程捕获子线程异常](https://mp.weixin.qq.com/s/iHWoNPd7cph4VnM__umUCA)
 + [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
 + [面试官：什么是生产者-消费者模式？如何实现？](https://mp.weixin.qq.com/s/Y05KEjcX1XwSYYUo3eBRdQ)
++ [为什么使用Bundle而不使用 HashMap](https://mp.weixin.qq.com/s/9bP89mOAOdXzqmCkUzK36g)
 
 ## 源码
 
@@ -217,6 +220,7 @@
 + [JVM出现OOM时的原因及解决方案你知道多少](https://mp.weixin.qq.com/s/oImZdKO7vsbLXZQFQr9AWA)
 + [JVM工具实战：线上问题排查与性能分析](https://mp.weixin.qq.com/s/OUSmWxq_NQsqEWJLCYxvxg)
 + [总结7种JVM出现OOM时的原因及解决方案](https://mp.weixin.qq.com/s/n8ld2TQ1ycDyCrN5mSjrmg)
++ [Java JVM对象实例个数和空间占用大小](https://mp.weixin.qq.com/s/P77TtRKpxoda1YTGehj4Dw)
 + [架构师必知的绝活-JVM调优](https://mp.weixin.qq.com/s/M-GGTDiuC-IhOTeGCKN7Fw)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/ilSpirk92Oq89KOlwQk3tQ)
 + [JVM监控工具最全详解(4款主流监控工具)](https://mp.weixin.qq.com/s/x0Qfz9lXK1PTsQFIiGP_dg)
@@ -266,6 +270,7 @@
 + [高德面试：为什么Map不能插入null？](https://mp.weixin.qq.com/s/amScvc8gLYV2nhuZ_XyVfQ)
 + [HashMap实现原理、 扩容机制，常见的面试题总结](https://mp.weixin.qq.com/s/EjqpKED9xHrbyyIkFjP_bw)
 + [Optional 是个好东西，你真的会用嘛？](https://mp.weixin.qq.com/s/xLlq_t_Y1GUrYMWK_tvAxA)
++ [Java判空，Optional和工具类真香？还是if(obj == null)更靠谱？](https://mp.weixin.qq.com/s/V0dCmBUmMcH-LTtaX39_Gw)
 + [Java Comparator 珍藏版](https://mp.weixin.qq.com/s/KjCOIPqUbaqyHAu2sEKFhw)
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 + [java io的应用场景举例](https://mp.weixin.qq.com/s/BOm6ZEjiM3URfOZOSRkI0A)
@@ -579,6 +584,7 @@
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Springboot循环依赖解决办法](https://mp.weixin.qq.com/s/Kn-bYUeCw3n_2GpcwJ9UHw)
++ [Spring Boot项目中的性能优化技巧](https://mp.weixin.qq.com/s/-LmSEqbkDS0l58qM50wBPQ)
 + [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
 + [SpringBoot -- 常用注解及讲解](https://mp.weixin.qq.com/s/i_wfdV8TUHv-4YbcDHmFng)
 + [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
@@ -736,6 +742,7 @@
 
 #### WEB
 
++ [超赞！Spring Boot 3.3 自带 Controller 接口监控，大家赶紧用起来](https://mp.weixin.qq.com/s/B5VzAPXIENDB-UK_OK2BjQ)
 + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
 + [SpringBoot 整合 jackson 轻松搞定接口数据脱敏](https://mp.weixin.qq.com/s/xjnwBzNizMQO6S5WFOaf5A)
@@ -769,6 +776,7 @@
 + [快来看看你会的超过4个没？SpringBoot获取前端参数的7种方式](https://mp.weixin.qq.com/s/Ojg2dX4HpbDz9tMWbIkR9g)
 + [Spring Boot中的 6 种API请求参数读取方式](https://mp.weixin.qq.com/s/mausyt2JOA39sI1KsFmzow)
 + [强大！SpringBoot通过这3个注解监测Controller接口](https://mp.weixin.qq.com/s/nUZdPZ3y70Zr02deIcJ2iA)
++ [Spring Boot实现文件上传和下载](https://mp.weixin.qq.com/s/ugNOkTHzyHpS-9G-EFw1-w)
 + [SpringBoot自带Controller接口监控，赶紧用起来](https://mp.weixin.qq.com/s/Ggv4e52CB-RS2pFPG43z3w)
 + [SpringBoot + minio实现分片上传、秒传、续传](https://mp.weixin.qq.com/s/T2YwrlWGhkwojsJYA6kylg)
 + [这才是SpringBoot统一响应和异常处理的最佳实践](https://mp.weixin.qq.com/s/IRl7DC4ZYTipHA2hCMdCyA)
@@ -1097,6 +1105,7 @@
 
 + [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
 + [缓存框架 Caffeine 的可视化探索与实践](https://my.oschina.net/vivotech/blog/14189225)
++ [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
 
 ## 消息队列
 
@@ -1119,6 +1128,11 @@
 
 + [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
 + [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)
++ [从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s/p8YS2DhQaIe0QUTxeSMsQg)
+
+## sentinel
+
++ [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
 
 ## xxl-job
 
@@ -1178,6 +1192,8 @@
 + [深入理解shedlock:使用与原理剖析](https://mp.weixin.qq.com/s/7mIGGM3fzmdM-FQTH0_6lg)
 + [一站式解决网络通信问题：掌握Apache Commons Net的实战技能](https://mp.weixin.qq.com/s/DSTK68fzFFKQc3Qw2HaGDQ)
 + [效率爆表！EasyExcel合并单元格这样实现才是yyds](https://mp.weixin.qq.com/s/DS6QMu2j_pD1FSI3Gs4jtw)
++ [打造优质代码：Apache Camel，推荐一款Java库](https://mp.weixin.qq.com/s/eqL4Nm1Rket-lNrN1QY1lw)
++ [Java 导出 Excel 利器：JXLS](https://mp.weixin.qq.com/s/7PdNCZ-05pNe0lneq1nioQ)
 
 # 其它环境
 
@@ -1194,6 +1210,7 @@
 + [延迟队列：7种方案，总有一款适合你！](https://mp.weixin.qq.com/s/o_psQXGYFTRtp4VLfYk_Wg)
 + [利用Java AOP实现面向切面编程的关键技术](https://mp.weixin.qq.com/s/hfY2Kf1LpEHxWZfELU39_w)
 + [面试官：谈谈你对 IoC 和 AOP 的理解！](https://mp.weixin.qq.com/s/ab-MLI2VyK9fdTtio5Y9Wg)
++ [在 Java 和Spring Boot框架中单数 vs 复数，一个人人皆知的规律](https://mp.weixin.qq.com/s/OINNKKcZp5QTnqwO5AnCZw)
 + [Java进阶篇 -- 用户登录](https://mp.weixin.qq.com/s/ddWcaPcWanpJ3oM-3kevDw)
 + [Linux 与 Java 开发：实战命令指南](https://mp.weixin.qq.com/s/Q-hYEl6SpjMEKWdXG3-rAw)
 + [Java 压缩算法性能比较](https://my.oschina.net/OutOfMemory/blog/805427)

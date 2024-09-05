@@ -74,6 +74,7 @@
 + [深入理解Kubernetes对象,资源配额管理-ResourceQuota](https://mp.weixin.qq.com/s/XPawMDvq8eDH9WIOzdJAog)
 + [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)
 + [打造自己的Kubernetes王国：从小白到K8S专家的华丽转身](https://mp.weixin.qq.com/s/Zg2mSIm89fX1Pqp5s22hDA)
++ [Kubernetes 中必备的 10 个告警处置方法](https://my.oschina.net/morflameblog/blog/15296575)
 
 ## Prometheus
 

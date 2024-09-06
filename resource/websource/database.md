@@ -244,6 +244,7 @@
 + [一个 MySQL 锁和面试官大战三百回合！](https://mp.weixin.qq.com/s/_FiU1Yya8Vd5z2dEtWqoAg)
 + [(十)全解MySQL之死锁问题分析、事务隔离与锁机制的底层原理剖析](https://mp.weixin.qq.com/s/41xsml22OfapunhRe9--Aw)
 + [(八)MySQL锁机制：高并发场景下该如何保证数据读写的安全性？](https://mp.weixin.qq.com/s/oftvkUBhRKAJg7miM2Y5Pg)
++ [MySQL 插入记录，主键索引冲突加什么锁？](https://my.oschina.net/actiontechoss/blog/15656435)
 
 #### 事务
 

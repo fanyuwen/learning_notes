@@ -42,6 +42,7 @@
 + [对一个软件项目架构设计研发管理过程的评估和优化](https://mp.weixin.qq.com/s/lLIhiBHRgt06jF_uYtkxZw)
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 + [不遵循这些设计原则的架构师，迟早栽跟头……](https://mp.weixin.qq.com/s/3y2fZ-3bzttVLPLmXIUFRQ)
++ [万字长文浅谈三高系统建设方法论和实践](https://my.oschina.net/u/4090830/blog/15656404)
 
 ### DDD
 

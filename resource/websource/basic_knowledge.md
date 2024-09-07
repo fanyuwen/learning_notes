@@ -169,6 +169,7 @@
 + [了解Http 和 Https的区别（图文详解）](https://mp.weixin.qq.com/s/pRI5lPCZcqxq3Kup5oGg_w)
 + [面试官：HTTP 的版本迭代过程了解吗？分别有哪些改进？。。](https://mp.weixin.qq.com/s/OWYpTGQuaPTr-VU7-h4ndA)
 + [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/CAYZPCDMzrH248kUDrHuPw)
++ [token是用来鉴权的，那session是用来干什么的？](https://mp.weixin.qq.com/s/kRcpSEwrKvxvQM-6gjkZmg)
 + [分布式RPC和HTTP区别详解(5大核心区别)](https://mp.weixin.qq.com/s/6gSfqOvoeFbLIfZtzK43BA)
 + [探索 multipart：文件传输的新境界！](https://mp.weixin.qq.com/s/i6tps8T_eanr86WQD8U4hQ)
 

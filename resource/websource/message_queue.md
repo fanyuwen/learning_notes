@@ -68,6 +68,7 @@
 + [RocketMQ高性能架构详解(图文全面总结)](https://mp.weixin.qq.com/s/uDg2aKpOZmiaLFPezj3T5w)
 + [RocketMQ最全详解(图文全面总结)](https://mp.weixin.qq.com/s/NBrt6Lkp3bBw3_9bfrK8sA)
 + [RocketMQ 如何保证发送消息不丢失？](https://mp.weixin.qq.com/s/Js96u9dnvjbDQcKM-9ANtw)
++ [RocketMQ是如何做到每秒上十万QPS的超高吞吐量读取的？](https://mp.weixin.qq.com/s/087xHdloB9dDZC-8jeNX2g)
 
 # RABBITMQ
 

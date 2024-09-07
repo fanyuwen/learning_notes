@@ -217,6 +217,7 @@
 ## 有用趣闻知识
 
 + [谁发明了以太网？](https://mp.weixin.qq.com/s/bBJ_-A5B0isPh6OGVDYQYw)
++ [回顾 Oracle 在 MySQL 8.0 中的管理工作](https://my.oschina.net/actiontechoss/blog/15627294)
 + [确认：代码覆盖率是无用的管理指标](https://mp.weixin.qq.com/s/wl3A1XTmP6NyMhgJhObvOQ)
 + [Python太烂了！比C语言慢71倍！消耗的能量是C语言的75倍！](https://mp.weixin.qq.com/s/ulVGTL6T8icctrcEhEFLeA)
 + [两位巨佬吃了一顿晚饭，整个互联网彻底被改变了！](https://mp.weixin.qq.com/s/wsDGJTRLjdG8WfdDDlDV8w)
@@ -259,6 +260,7 @@
 + [腾讯宣布全员调薪！](https://mp.weixin.qq.com/s/wxFmBAxIvu_qvAMPwhkwsQ)
 + [社会内卷的真正原因：华为内部论坛的这篇雄文火了](https://mp.weixin.qq.com/s/uGXQTgSbV-4a6PchaeC14A)
 + [美团后端面经，难度不算大，但是人都被问麻了](https://mp.weixin.qq.com/s/er8Yg26RUFUKeR1fIVmH7Q)
++ [公司裁员不给赔偿，员工不同意，直接和公司硬刚，死耗9个月，35000月薪照拿，拒绝阿里百度滴滴offer，到底值不值？](https://mp.weixin.qq.com/s/iMFyQQkFBW639AQZjNSBEg)
 + [程序员界有哪些经典的笑话?](https://mp.weixin.qq.com/s/ageQFNcjKrtKlse0QFyL0w)
 + [程序员的归宿](https://www.oschina.net/news/291330)
 + [是不是程序员都有“代码洁癖”？](https://mp.weixin.qq.com/s/xt7VqrMRNFikfoTVb-D3Hw)

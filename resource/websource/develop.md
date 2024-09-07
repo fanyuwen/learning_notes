@@ -43,6 +43,7 @@
 + [什么？如此复杂的电商中台业务一篇文章就能讲明白？](https://mp.weixin.qq.com/s/QuFvdguYRMy9KVgNnHQadA)
 + [不遵循这些设计原则的架构师，迟早栽跟头……](https://mp.weixin.qq.com/s/3y2fZ-3bzttVLPLmXIUFRQ)
 + [万字长文浅谈三高系统建设方法论和实践](https://my.oschina.net/u/4090830/blog/15656404)
++ [企业级消息推送架构设计，太强了！](https://mp.weixin.qq.com/s/anQ3J38thukU0quPUsuFfg)
 
 ### DDD
 
@@ -256,6 +257,7 @@
 + [新来个技术总监：谁再用Redis实现订单超时自动关闭，以后就不用来了！](https://mp.weixin.qq.com/s/PsjVpv1leNF7DnpdJufUnw)
 + [面试官：订单30分钟未支付自动取消用什么实现方案？如何使用Redis实现延迟队列？](https://mp.weixin.qq.com/s/bey1XVEqf8cy1Uqxqt4gCw)
 + [一套万能的异步处理方案（建议收藏）](https://mp.weixin.qq.com/s/PEt25sZYC5mm1KVu8LLW9w)
++ [一套万能的异步处理方案（典藏版）](https://mp.weixin.qq.com/s/bBqWTkxcpOq1wnESEdpp3g)
 
 ## 缓存
 

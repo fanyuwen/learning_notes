@@ -99,6 +99,7 @@
 + [拼接字符串的最优方式（Java代码片段）](https://mp.weixin.qq.com/s/cyfIAN6gkVpoNl1NrmdNzg)
 + [如何在Java中实现对象和Map之间的转换](https://mp.weixin.qq.com/s/3Rrsttc8fcsjfuPQQKensw)
 + [请停止在 Java 中使用 if-else 语句](https://mp.weixin.qq.com/s/8tA1TyO25dN0pV2wno8u-Q)
++ [递归查询文件树不要怕，看我用HashMap怎么玩！](https://mp.weixin.qq.com/s/rLI58P0gfq80aad4IYJm5g)
 
 ## 代码质量
 
@@ -243,6 +244,7 @@
 + [如何快速定位和处理线上OOM](https://mp.weixin.qq.com/s/fFonLTJ92TvdAzN5KOMFqQ)
 + [深入理解JVM的垃圾回收机制](https://mp.weixin.qq.com/s/kNjGNLoLw20e0hpOKsIxCg)
 + [常见的OOM的场景有哪些](https://mp.weixin.qq.com/s/7fftGzr_8u2d6ZCoc1G4aw)
++ [Java常量池解析：机制、作用与示例讲解](https://mp.weixin.qq.com/s/0La38jw7Jj3duDnXt4j8mw)
 
 # 核心库
 
@@ -556,6 +558,7 @@
 + [6大SpringCloud组件详解(图文全面总结)](https://mp.weixin.qq.com/s/wLPpDGK0RK_elZZJiAX79g)
 + [SpringCloud微服务架构详解(万字图文总结)](https://mp.weixin.qq.com/s/5-9aBeKz7unoyzr0QTkRyQ)
 + [Spring Boot与Spring Cloud Gateway实现基于WebFlux的非阻塞路由](https://mp.weixin.qq.com/s/0u6ZAjTLyffPkslpjMPVOQ)
++ [美团一面：Spring Cloud 远程调用为啥要采用 HTTP，而不是 RPC？](https://mp.weixin.qq.com/s/idbVJ8KuQkbNVByzb2Do-Q)
 
 #### AI
 
@@ -976,6 +979,7 @@
 #### 配置打包部署
 
 + [我司用了6年的 SpringBoot 项目部署方案，稳得一批！](https://mp.weixin.qq.com/s/LCOgdHNM2nMPK-jLfLJMNg)
++ [Spring Boot + Enum 配置化实践](https://mp.weixin.qq.com/s/OaWiMCXAJiSZ8GFJ1UbAmw)
 + [Spring Boot3.3 + devtools 轻松搞定热部署！](https://mp.weixin.qq.com/s/6Rwh8QhhSaJ4PltXt4mrfA)
 + [SpringBoot如何解决yml明文密码问题](https://mp.weixin.qq.com/s/bewrZtF6iNBCwkgjr6vEeA)
 + [使用 Spring Boot 实现动态加载 jar 包，动态配置功能太赞了！](https://mp.weixin.qq.com/s/6TyBbNjRe6_KDSapBBm-0Q)

@@ -81,6 +81,7 @@
 + [每日一模块：Selenium](https://mp.weixin.qq.com/s/FIIHXYtAarZOEYtqHgG-CA)
 + [每日一模块：weibo-spider](https://mp.weixin.qq.com/s/qZ57jf2LgTFL3PSXtCmtEg)
 + [每日一模块：XHS-Downloader](https://mp.weixin.qq.com/s/lF_P-yFD_6x-uz083TyxwQ)
++ [每日一模块：re模块解析页面](https://mp.weixin.qq.com/s/vFRg4tqyPD7MEvWZsHpj8g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
@@ -281,7 +282,7 @@
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
 + [使用 Python 实现系统操作自动化：防止数据丢失的最佳实践](https://mp.weixin.qq.com/s/yFGjsMIp2ZDXZFA7vpWWQw)
 + [熟练掌握Python文件的读写操作，这一篇就够](https://mp.weixin.qq.com/s/nVusShEN1iSv-3s1PYCR2g)
-+ [每日一模块：re模块解析页面](https://mp.weixin.qq.com/s/vFRg4tqyPD7MEvWZsHpj8g)
+
 + [六种方法实现Python文件之间的互动！](https://mp.weixin.qq.com/s/75necROmESCah90mMV2CuQ)
 + [从零到高手：揭秘 Python 文件处理的全部秘密](https://mp.weixin.qq.com/s/OIHlDlPE0rc9CsFY_RsGUw)
 + [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)

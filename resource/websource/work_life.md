@@ -31,6 +31,7 @@
 + [为什么有的程序员一直在做需求，而有的人却主导大型项目？](https://mp.weixin.qq.com/s/vV5WqtfWG1T3lkb6w2vmmQ)
 + [也谈一下 30+ 程序员的出路](https://mp.weixin.qq.com/s/Ns7V1wYg-xpiZBOjXbwSOg)
 + [十年 IT 老兵：聊聊我这六点认知！](https://my.oschina.net/u/4899581/blog/5262764)
++ [年薪75万字节员工爆料：985、211大学生，只需把工作往他头上压，教育体系规训出来的绩优主义自然会推着他投入自己的时间把事干好](https://mp.weixin.qq.com/s/uYSlc0Oe4lBwC4v0EbpaSg)
 
 # 个人成长
 
@@ -79,6 +80,8 @@
 + [合格程序员每天每周每月每年应该做的事](https://my.oschina.net/justjavac/blog/71883)
 + [一直不知道如何参与开源项目？手把手教学~](https://mp.weixin.qq.com/s/YjZDZLmU5Opht9kp-ffYBw)
 + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
++ [后端工程师必须掌握的10大技能，看你还有哪项没掌握？（2024最新全球调研）](https://mp.weixin.qq.com/s/XwZjSZ_S2XNvLUn9K21d7A)
++ [程序员必备！最全技术文档写作指南](https://mp.weixin.qq.com/s/TcxK_HE-xPyECzlV429foA)
 
 # 收益工具
 

@@ -45,6 +45,7 @@
 + [SQL 执行顺序详解](https://mp.weixin.qq.com/s/xZ1rpSNKPtqXysxFMkovoA)
 + [线上紧急问题之Using filesort 能优化吗，怎么优化？](https://mp.weixin.qq.com/s/dyjm0O4D4tI-i-rdbgpULA)
 + [数据库性能调优——慢查询](https://mp.weixin.qq.com/s/iYET8mnjbc3pUDFGyU_sbQ)
++ [手把手教你学会sql注入](https://mp.weixin.qq.com/s/-BiQTjUQDUq1yI92TvKRzg)
 
 # 本地数据库
 
@@ -123,6 +124,7 @@
 + [MySQL 中那些鲜为人知但功能强大的内置函数](https://mp.weixin.qq.com/s/wsPDWlgy8yFG4BJxXzSZWw)
 + [MySQL主从一致性最全详解(图文全面总结)](https://mp.weixin.qq.com/s/UslMBVOuVITONLJRacSv8A)
 + [美团阿里面试连问：Redis与MySQL双写一致性如何实现？](https://mp.weixin.qq.com/s/hUZ1aFB7SGUmGJULSrcmLg)
++ [为什么 MySQL 不推荐使用雪花 id 和 uuid 做主键?](https://mp.weixin.qq.com/s/XkcOWwWDH93WcLtyKr2ZAw)
 + [MySQL三大日志(binlog、redo log和undo log)详解](https://mp.weixin.qq.com/s/beGPbWn-y1k6zt1JIPgknQ)
 + [完整的推算Mysql单表可存2000万数据的过程](https://mp.weixin.qq.com/s/-lRVEb1GhPFJbYDjqRu4ng)
 + [MYSQL数据库备份](https://mp.weixin.qq.com/s/n5ATPq7-jIHnKOX3h6DUYA)
@@ -307,6 +309,8 @@
 + [冷门的PostgreSQL性能优化来了：利用事务链减少与SERVER端的往返开销](https://mp.weixin.qq.com/s/MTlnfo7rshXlmtVi_KNZbQ)
 + [再来PostgreSQL几道小题(二), 加深理解](https://mp.weixin.qq.com/s/aD7Fs_ix4Td4QDvnzoinQA)
 + [PostgreSQL“平替”Oracle：应用和基础架构改造技巧经验分享](https://mp.weixin.qq.com/s/uhTpUMFAowmXB6rbjqgZ7A)
++ [基于Patroni+etcd+流复制搭建构建PostgreSQL高可用](https://mp.weixin.qq.com/s/xqIAODnWc7OYMDRSKSmPrQ)
++ [PSQL需要专门去学吗？](https://mp.weixin.qq.com/s/CFJKVLT6NJ_GogrrRfLgfg)
 
 ### SQLSERVER
 
@@ -407,6 +411,7 @@
 + [换掉 ES！Redis 官方搜索引擎来了，效率大幅提升~](https://mp.weixin.qq.com/s/naEuvvxPnZno75uyOahoKw)
 + [从本地到云端：看Redis如何降本增效](https://mp.weixin.qq.com/s/jdRVywEZjk1xIrNSf_OgKg)
 + [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/PXan1kxHBWIfgUwU7TZILw)
++ [Redis 持久化的秘密：面试必知技巧与解析](https://mp.weixin.qq.com/s/-f7XfFgUc_z6_AVJ54XhZQ)
 
 #### 原理
 
@@ -426,6 +431,7 @@
 + [Redis字符串数据结构详解与实战应用：从SDS到常见命令操作](https://mp.weixin.qq.com/s/0e_2biyeU7k-uAWCTJlrww)
 + [Redis为什么不直接使用C语言的string，而是重新造了个SDS ？](https://mp.weixin.qq.com/s/g-ySVxYeZmGF_8P2yuusgg)
 + [面试官：你了解Redis的过期删除策略吗？Redis有哪些内存淘汰策略？](https://mp.weixin.qq.com/s/LbudIAKHuJURJWAxW8Sozg)
++ [【经典面试问题】redis为什么用单线程？](https://mp.weixin.qq.com/s/VLyQjVdJLmPmRkZS0VZ90g)
 
 #### 分布式锁
 

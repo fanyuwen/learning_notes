@@ -75,6 +75,9 @@
 + [K8s GPU 资源管理探索：在 KubeSphere 上部署 AI 大模型 Ollama](https://mp.weixin.qq.com/s/HL5KinbRtlJCiQc4MIYoAQ)
 + [打造自己的Kubernetes王国：从小白到K8S专家的华丽转身](https://mp.weixin.qq.com/s/Zg2mSIm89fX1Pqp5s22hDA)
 + [Kubernetes 中必备的 10 个告警处置方法](https://my.oschina.net/morflameblog/blog/15296575)
++ [学习 Kubernetes 源码的过程中，我沉淀的笔记方法](https://mp.weixin.qq.com/s/2yIIlDiuFO7fApAPtBTkEg)
++ [从 Kubernetes 源码中学会怎么写好变量名和注释](https://mp.weixin.qq.com/s/ukKupwn7SnQkxgkXdkJ2OA)
++ [通过写 Kubernetes 专栏，我不断在进化](https://mp.weixin.qq.com/s/NM_oTPuy_r3ibh7AHdb5Bw)
 
 ## Prometheus
 

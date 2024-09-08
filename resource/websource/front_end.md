@@ -34,6 +34,7 @@
 + [代码片段分享：我在JavaScript项目中这样用Object.assign](https://mp.weixin.qq.com/s/Zg-yh7qbDbC-9m08nytuBw)
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
++ [JS中sleep方法的实现](https://mp.weixin.qq.com/s/-gxQchQOVpaUyj1HYPlZXg)
 + [25 个JavaScript单行代码让你看起来像个专业人士](https://mp.weixin.qq.com/s/QlvRe6f_Sic3imq3_4YaFw)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
 + [代码片段分享：7个实用的async/await代码片段，轻松掌握JavaScript异步操作](https://mp.weixin.qq.com/s/yL0neR4PNB3TShkJEfI68w)
@@ -71,6 +72,7 @@
 + [WPS-JSA 了解Date函数与时间戳](https://mp.weixin.qq.com/s/hgTeJcCwcOJ3q6FvhIeong)
 + [JSON.stringify的高级用法](https://mp.weixin.qq.com/s/gjolD_8jldfy6pSR2XVFAg)
 + [每个开发人员都应该掌握的 10 种高级 CSS 技术](https://mp.weixin.qq.com/s/vUiCX_FWvZrd4Z4Uk9XZJg)
++ [import导入过的模块需要再次执行怎么办？](https://mp.weixin.qq.com/s/1Xst71jLUNtP7lf6tJTtOw)
 
 # 框架
 

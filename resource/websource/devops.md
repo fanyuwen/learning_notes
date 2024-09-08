@@ -29,6 +29,7 @@
 + [告别 Jenkins ？这套轻量级自动化部署方案，让你轻松上车！](https://mp.weixin.qq.com/s/gwKUCB7xf9-cDJ5IOapieg)
 + [还在用Jenkins？快来试试这款简而轻的自动化部署工具吧！](https://mp.weixin.qq.com/s/DDfZYScLYfpEDwB2qeXHGw)
 + [还在用Jenkins？这套轻量级自动化部署方案贼带劲！](https://mp.weixin.qq.com/s/3leUgwdHNn_alzBItUiQzg)
++ [Jenkins+Docker 实现一键自动化部署项目！步骤很全，少走坑路！](https://mp.weixin.qq.com/s/fBOKFxbO8pc56Q-dy2IPsQ)
 
 ## istio
 
@@ -48,6 +49,7 @@
 + [如何制定有效的告警处置规范与标准 - 参考框架](https://mp.weixin.qq.com/s/4It1izrR47rrU-0EAttV_Q)
 + [轻量级的灰度 & 配置平台｜得物技术](https://my.oschina.net/u/5783135/blog/15295528)
 + [代码变更风险可视化系统建设与实践](https://my.oschina.net/meituantech/blog/10112803)
++ [B站直播的极速排障建设-全链路Trace追踪](https://mp.weixin.qq.com/s/gpPauu9gNzsJmrOfZjt5ig)
 
 ## 问题排查
 

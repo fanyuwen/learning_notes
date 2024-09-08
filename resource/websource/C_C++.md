@@ -12,6 +12,7 @@
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
++ [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
@@ -59,6 +60,7 @@
 + [Speex，一个峰回路转的c++库](https://mp.weixin.qq.com/s/7uQQKRbeKsfxK04IB1T1uw)
 + [SOCI,一个惊世骇俗的C++库](https://mp.weixin.qq.com/s/Da3LDf0id1Vdl2gEs9W7QA)
 + [Tink，一个强大的c++库](https://mp.weixin.qq.com/s/_Ev9rZImyK9teR_n7Fna-Q)
++ [Intel TBB,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/MB7hB9Fr5KBe7M9St8z0yw)
 + [Tundra，一个强大的c++库](https://mp.weixin.qq.com/s/u6Hc8BKdYsvgPthJumC7rw)
 + [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
 + [Vcflib,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/OvcMrkgYX3bT81vYq2_C4A)
@@ -105,6 +107,7 @@
 + [TDengine，一个永远可以相信的C库](https://mp.weixin.qq.com/s/h-XFfLNKaIiICfv9t1u1gQ)
 + [imageproc，令人拍案叫绝的 C 语言图像处理库](https://mp.weixin.qq.com/s/qpgYMjh2pnWukYG-5nXNmw)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
++ [open与fopen的区别](https://mp.weixin.qq.com/s/kGc4VIcMu6SKx1hQr303xw)
 
 ## verilog
 

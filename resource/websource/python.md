@@ -11,6 +11,7 @@
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
++ [Python输出变量知识点及用法讲解](https://mp.weixin.qq.com/s/0DS8I8iwu9FCRWCYLTlSbw)
 + [Python之变量作用域、Closure闭包](https://mp.weixin.qq.com/s/AGAaxiv1i7USeCwKrmwKVA)
 + [3 控制语句结构（顺序、循环、选择）---GESP教程Python一级](https://mp.weixin.qq.com/s/JHNfZfCiZtNa6OwV4Lp7HQ)
 + [用Python逻辑运算符精简你的代码库](https://mp.weixin.qq.com/s/1mBnnnMha8K8KQiRacImCw)
@@ -103,6 +104,7 @@
 + [在python的print()前面加个p让你的格式打印更容易](https://mp.weixin.qq.com/s/Fod5IYBo7SuTjVUin_Qg6A)
 + [从菜鸟到高手：你不可不知的 Python 输出10大技巧！](https://mp.weixin.qq.com/s/v3IKlmWaf0tAM8FfzpqPYw)
 + [4个 Python 时间模块揭秘：让你的时间处理不再是难题！](https://mp.weixin.qq.com/s/4Ia1W7Hc9n0hAp3uqE2YOw)
++ [Requests库详细介绍](https://mp.weixin.qq.com/s/w2E0SUd_zpdgnIFDQfqfWA)
 
 ### 异步/多线程
 
@@ -123,11 +125,13 @@
 + [探秘水仙花数：Python编程初学者的趣味之旅](https://mp.weixin.qq.com/s/DS5pZ_Lai1AdfdDC1_LJ2g)
 + [收藏！一篇Python标准库之模块的使用示例](https://mp.weixin.qq.com/s/gHOVEJDS6ZC3sXrsqaJXPw)
 + [彻底解决Python3: No module named 问题](https://mp.weixin.qq.com/s/nfx4HmEvyDMLZiq7ZKVchA)
++ [python与sql: 时间偏移函数](https://mp.weixin.qq.com/s/yS4gqryNukh3-c54sl5ONg)
 + [一文带您了解Python的函数式编程：理解lambda、map()、filter()和reduce()](https://mp.weixin.qq.com/s/YDG-glSKPm8QnrtrGVyMLQ)
 + [24个令人眼前一亮的Python技巧—提升你的代码水平和质量（二）](https://mp.weixin.qq.com/s/dJcxySBoIJ-Z9dKEaHpv8A)
 + [Python懒人必备：推荐7个高效实用的装饰器！](https://mp.weixin.qq.com/s/LdVi89KpCdYWIeCJuRSQ8Q)
 + [如何从Python转向MicroPython？](https://mp.weixin.qq.com/s/_o011yWzT8HK5XWkGSLOfw)
 + [10个让你代码更简洁的Python列表解析技巧](https://mp.weixin.qq.com/s/8no27l_4whumEYoRViQ1jg)
++ [10个Python脚本,轻松实现日常任务自动化](https://mp.weixin.qq.com/s/Hyf69451rJvNBCD8QbhnYA)
 + [这些 Python 魔术方法，竟能让你的代码焕然一新](https://mp.weixin.qq.com/s/ot1Q3WyCIaAWmiLYyC-U8g)
 + [如何在Python中优化激活函数选择](https://mp.weixin.qq.com/s/2gSGaCd2CqP5tPMyRQvpIg)
 + [Python开发必知的数据容器用法](https://mp.weixin.qq.com/s/9uxZTf3L1TWu3zj2O9iFCQ)
@@ -165,6 +169,7 @@
 + [Python数据库编程的10个核心技巧](https://mp.weixin.qq.com/s/0zXpc3JAnV7iG6jkWtQyzA)
 + [简单Python代码：如何计算矩形周长与面积](https://mp.weixin.qq.com/s/M3d8kXoeYLMtjFujdGWPUg)
 + [一招制胜！掌握 Python 中pip的8个必备命令](https://mp.weixin.qq.com/s/w2gKbTHE0ugbtB0hgLPT6w)
++ [Python必知必会：每个程序员都必须知道的22个Python单行代码！](https://mp.weixin.qq.com/s/MbaZ22hkFAzAxBPt_4Sc_w)
 + [100个python代码大全(三十二)](https://mp.weixin.qq.com/s/4qaUI0nNaD_mzERD9bJz5g)
 + [【Pathlib】一文弄懂Python中的路径问题](https://mp.weixin.qq.com/s/xmsoVlt8wOBfYphKxV_04A)
 + [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
@@ -218,6 +223,9 @@
 + [ovito库的多线程使用](https://mp.weixin.qq.com/s/BgYFz373pRATsXkLbfIoEg)
 + [Python Web开发（详细教程）](https://mp.weixin.qq.com/s/-54nofOKRHSk7sn_Yt_aaQ)
 + [Python：如何搭建 Flask 应用的技术指南](https://mp.weixin.qq.com/s/H8CWBMgjAP90rEqWk_xy-g)
++ [如何用一个故事串起python基础知识？](https://mp.weixin.qq.com/s/daVvIvbh2nsX2FBktlDFmg)
++ [数据库操作太复杂？Python Shelve模块让你轻松存储，一键搞定！](https://mp.weixin.qq.com/s/C-nXqxzbkYKjNgE2pVVluQ)
++ [Python运维开发基础--语法基础](https://mp.weixin.qq.com/s/y8vrgG9Y2NZjk1a6gYG6jg)
 
 ## 第三方库
 
@@ -239,6 +247,8 @@
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
++ [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
++ [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
 + [altair，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/WMK2VVeRqzFoSBXUs5AJ_Q)
 + [elasticmapper，一个牛逼的python库](https://mp.weixin.qq.com/s/qMqvwc66VG7qX0JeXNYxNw)
@@ -249,6 +259,7 @@
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)
++ [agi-pack，一个牛逼的python库](https://mp.weixin.qq.com/s/OIx3AnqDqb2CgapDPJEe_Q)
 + [RQ ，一个超级强大的Python库](https://mp.weixin.qq.com/s/bfDfIu5cDX-SBgY57R1Y_Q)
 + [Mingus，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/JRcoQapdWkQ3fHTN-CFVNA)
 + [AutoMapper，一个最牛逼的Python库](https://mp.weixin.qq.com/s/aShjr1tMFmVvizbphU_eHA)
@@ -260,6 +271,7 @@
 + [LC-package，一个Python中有用的库](https://mp.weixin.qq.com/s/QauNDp9LbIF3SIPVJ9nv7Q)
 + [Dnspython，一个牛逼的python库](https://mp.weixin.qq.com/s/msCeJMGcMCOmNl6rWa8keQ)
 + [rauth，一个超级强大的Python库](https://mp.weixin.qq.com/s/mXS7lebdr_4Oh1aAfpOXXA)
++ [huey，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/OcnVGjw9fy8QSWbhQYF9uQ)
 + [SWD，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/75W_rfu70ccJfy-q5GWS1g)
 + [stutterbuddy，一个牛逼的python库](https://mp.weixin.qq.com/s/amrkhdbGxTaRB3yCQhma9Q)
 + [Pika，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/Yz_Rle2RnKaRvoL95uZQWg)
@@ -269,6 +281,8 @@
 + [jupyterHub —— 一个乐于分享的 Python 库](https://mp.weixin.qq.com/s/m6-w9r0M-NllhMSHCKGbtA)
 + [Pygments ，一个最牛逼的Python库](https://mp.weixin.qq.com/s/O9tcnavhJa7cZ577VB-eGQ)
 + [bqplot，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/Ex-K3BAlu5tGKA3nxzCPAQ)
++ [探索Python组合优化利器——pyCombinatorial库的使用之道](https://mp.weixin.qq.com/s/4k17mnlI8IJKLnndVdk_JQ)
++ [lilyweight，一个Python中非常有用的库](https://mp.weixin.qq.com/s/aAYx1yQDOJu8f7WFF3nhSg)
 + [sniffio ，一个最最强大的Python库](https://mp.weixin.qq.com/s/8DaNAUhlWNC6BePZfhlucg)
 + [winreg，一个超棒的工具库](https://mp.weixin.qq.com/s/XSwvdts2fozgBygXKbAP8Q)
 + [hydra，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/bcXeiE45Y-HOcSwOEOhE5A)
@@ -277,6 +291,8 @@
 + [Pyppeteer —— 一个惟妙惟肖的 Python 库](https://mp.weixin.qq.com/s/euD8B2OkHXFpSNornpSUVQ)
 + [netbox-autonames，一个牛逼的python库](https://mp.weixin.qq.com/s/Dz4cTy-US3VCsv7QmFZdig)
 + [rq，一个牛逼的python库](https://mp.weixin.qq.com/s/I5MXz9E3Bi2d8F8ejysxVQ)
++ [example-app-jonico22,一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/r8t6eYngVOdeaa7xkmw4Nw)
++ [pluscodes，一个Python中非常有用的库](https://mp.weixin.qq.com/s/txoE63pT5Q3Glxp_6XoMhA)
 + [tinydb，一个非常厉害的 Python 库！](https://mp.weixin.qq.com/s/G-z_ZuO5JuQV_5B7JepVbQ)
 + [pydoc，一个超级强大的Python库](https://mp.weixin.qq.com/s/s_CBiFc4oz7lp2IoWvVS_A)
 + [HDBSCAN，一个牛逼的python库](https://mp.weixin.qq.com/s/mx_kvpvxaEFhlpCzUxpw1w)
@@ -382,6 +398,9 @@
 + [一个速度极快的Python包管理工具](https://mp.weixin.qq.com/s/a3K-XZCqvJWlsmRb78bQQw)
 + [Python初探：轻松上手SQLAlchemy-ORM库](https://mp.weixin.qq.com/s/T55y89Vg40dmUSs-nUxr6A)
 + [PyOxidizer：Rust打造的Python 应用打包与分发的利器，可将 Python 解释器添加到Rust 项目中](https://mp.weixin.qq.com/s/T4okrAfhUuyE3ogdApoTqQ)
++ [bqplot: 用Python打造交互式数据可视化](https://mp.weixin.qq.com/s/mUzH9sg5UqEaqY1RgkXiMA)
++ [Spiff，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/UsixTyCapmiGqXm-gbLRaA)
++ [最强Python文档生成神器——Sphinx全解析](https://mp.weixin.qq.com/s/ruQnZ9Q6ENx31qaix54-wA)
 
 ## 框架
 

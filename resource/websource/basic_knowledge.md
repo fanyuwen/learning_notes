@@ -14,6 +14,7 @@
 
 + [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
 + [后渗透系列-Windows日志致盲与绕过](https://mp.weixin.qq.com/s/Oz5Z3Yw9lhh83N2lBuaUDQ)
++ [Windows查看占用文件的进程](https://mp.weixin.qq.com/s/yLEQ4OIqVuKt80ZWDuR0zQ)
 
 ## linux
 
@@ -62,6 +63,8 @@
 + [你可以需要了解的Linux 性能工具](https://mp.weixin.qq.com/s/XqCpZEY-7phehLXAy5elsg)
 + [Linux开发技巧分享第一篇](https://mp.weixin.qq.com/s/MxVk3VE1Nho-ZlOXhF2cvw)
 + [Linux高性能编程_malloc原理](https://mp.weixin.qq.com/s/v-lXOFawW5iwZ24O_8f28w)
++ [linux进程间的通信(IPC)](https://mp.weixin.qq.com/s/DvLZQPKcvBPFML4lWLA4GA)
++ [Linnux服务器之间实现文件实时同步](https://mp.weixin.qq.com/s/87-1u2yIxruXos3_53X1tA)
 
 ### 网络
 
@@ -82,6 +85,7 @@
 + [Linux命令(八)：Linux设备管理命令](https://mp.weixin.qq.com/s/Kkt51ZhCkzqMuxID39uAhg)
 + [Linux 常用命令](https://mp.weixin.qq.com/s/PskjUENl121iXryWvoi9bQ)
 + [free命令看内存容量不一致的原因。](https://mp.weixin.qq.com/s/CUedqniPUPWasbIL1oxAsA)
++ [写一段监控CPU、内存、磁盘的bash脚本](https://mp.weixin.qq.com/s/DQJcFuTMnY2pmuOz9zQG_Q)
 
 ### 发行版信息
 
@@ -211,6 +215,7 @@
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/iah2Mz20XpJWuCpSFpXPlg)
 + [Nginx负载均衡配置详解(图文全面总结)](https://mp.weixin.qq.com/s/ruBYu8PttxxZRW7eWbLUEQ)
 + [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
++ [Nginx使用篇](https://mp.weixin.qq.com/s/-8B8FKRc_q0SRvhlnxfmoA)
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
 + [Nginx负载均衡最全详解(4大算法原理机制)](https://mp.weixin.qq.com/s/Upf_UNY-D_dj2u0kroD8IQ)
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)
@@ -224,8 +229,10 @@
 + [深入理解Nginx工作原理及优化技巧](https://mp.weixin.qq.com/s/KtC_dm_ifweAcab4cnaDdQ)
 + [Nginx 限速模块大揭秘](https://mp.weixin.qq.com/s/KgEAZsLyNta4y0qthVLVLg)
 + [公司弃用 Nginx，选择这款工具！](https://mp.weixin.qq.com/s/q5Aso5JhbosPO8cGcipkLg)
++ [Ngnix的server_name精确匹配配置](https://mp.weixin.qq.com/s/_vS4COTJmkX9d1j-u402pQ)
 + [Ngnix的server_name正则匹配执行顺序](https://mp.weixin.qq.com/s/9tqmuy08xEQLRTzrO_s-Vg)
 + [从零手写实现 nginx-01-为什么不能有 java 版本的 nginx?](https://mp.weixin.qq.com/s/994dQU_MP5auHfZBAWDpZg)
++ [Nginx优化篇——提升多核间的负载均衡（中）](https://mp.weixin.qq.com/s/LP2pfXpscByj5E8iiPFddg)
 
 ### wireshark
 

@@ -32,6 +32,7 @@
 + [优化代码结构-工厂方法](https://mp.weixin.qq.com/s/_UzTStAyxZzSg7bBxyBU7Q)
 + [优化代码结构-简单工厂模式](https://mp.weixin.qq.com/s/-fNf2kfFaiZ1924ppzyu3w)
 + [面向对象和设计模式（十一）工厂模式](https://mp.weixin.qq.com/s/Aw4v_slzhpj4rih3HcmZ2A)
++ [简单工厂模式](https://mp.weixin.qq.com/s/_AkPckJKS-KBB0ZFM-pdqQ)
 
 # 构造者模式
 

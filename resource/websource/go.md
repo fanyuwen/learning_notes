@@ -50,6 +50,8 @@
 + [Go 语言 Base64 编码解码实战指南](https://mp.weixin.qq.com/s/ozOxt353Wch9MXznrov0Cw)
 + [Go 微服务开发框架，集成自动代码生成、Gin 和 GRPC](https://mp.weixin.qq.com/s/WdrMkVLqksZPg7sstx7pdQ)
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
++ [Go 如何做好缓存](https://mp.weixin.qq.com/s/FRQtVg0ia09XHm-ES-XEWg)
++ [Go 异步编程小技巧](https://mp.weixin.qq.com/s/AvrfEHOj72cXttQDTv9sgw)
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
 + [Builder 模式在 Go 语言中的应用](https://mp.weixin.qq.com/s/LRyb7tOTZmq33j9AwOd18g)
 + [在golang里使用 ZooKeeper，如何使用](https://mp.weixin.qq.com/s/6UhOq4wGsmiaBhhPAbahaw)
@@ -89,6 +91,8 @@
 + [基于 Gin 框架的 Go 后端架构最佳实践](https://mp.weixin.qq.com/s/DaCkIznCqxHeInNP5fYNgA)
 + [Go必知必会：协程（上）：进程、线程、协程的区别和联系](https://mp.weixin.qq.com/s/-QrMsdOmBqnz50fAS0K9yw)
 + [Go 语言实现 Windows 守护进程](https://mp.weixin.qq.com/s/mK4Aug8rvqQSld3P6cYAeQ)
++ [用Golang语言做数据库监控平台（三）](https://mp.weixin.qq.com/s/NqLXgv4uPQYzvA7MA-b9qw)
++ [Golang 实现带过期时间的单机锁](https://mp.weixin.qq.com/s/Z7NTf9HnwmZ3avoGUlRlYA)
 
 # 面试题
 

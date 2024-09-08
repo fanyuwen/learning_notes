@@ -72,6 +72,7 @@
 + [微服务Token鉴权设计的几种方案](https://mp.weixin.qq.com/s/YINEVqGziyp99_SiWgmKpQ)
 + [微服务中token鉴权设计的4种方式总结](https://mp.weixin.qq.com/s/34SnX4LyNvx3Pu6D7ezUBA)
 + [聊聊 微服务 架构中的用户认证方案！](https://mp.weixin.qq.com/s/hWD1TlTsMP03i3TjMOrxtw)
++ [微服务实战：Gateway 服务网关限流](https://mp.weixin.qq.com/s/5vQdbGkv44y6WENd04A2Kg)
 + [一张图搞懂微服务架构设计](https://mp.weixin.qq.com/s/4upNjgrzzAOhktjiZejoJg)
 + [微服务常用的中间件有哪些？都有什么用途？](https://mp.weixin.qq.com/s/f8zcfKez5UWztY8eY_I3Aw)
 + [架构之问19：微服务设计原则都有哪些？详解](https://mp.weixin.qq.com/s/Rh1ji8_cOrXX5IOP-QQGBw)
@@ -302,6 +303,7 @@
 
 ## 安全
 
++ [一文读懂密码基础](https://mp.weixin.qq.com/s/ms4ehWu75k9UI25RAUlTIw)
 + [你不可不知道的加密知识，国密SM3/SM4](https://mp.weixin.qq.com/s/7D9NVKaKkEqKiJBXvkXEsg)
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/KQiskiLGFMYT8bo9YtAB_g)
 + [业务开发时，API 不能对外暴露怎么办？](https://mp.weixin.qq.com/s/JbCukZq1pUBAq_ug4Z_wkA)
@@ -313,6 +315,7 @@
 + [漫画图解数字签名和数字证书](https://mp.weixin.qq.com/s/-MuFDW97RphAI-3AzvecgQ)
 + [你的登录接口真的安全吗？](https://mp.weixin.qq.com/s/xmV54gessRisVQuD5SMQEQ)
 + [网关系统就该这么设计（万能通用），稳的一批！](https://mp.weixin.qq.com/s/bC5F0eVDc7CHi0s7_Ed1Mg)
++ [信息安全，加密（encrypt）和签名（sign）是两回事](https://mp.weixin.qq.com/s/fWh5xzWAs1MdodpM-HdThg)
 
 ### 鉴权
 
@@ -372,6 +375,7 @@
 + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
 + [状态机浅析](https://mp.weixin.qq.com/s/xPYD9Z0HblMG4B4flhX8Mg)
 + [有限状态机FSM](https://mp.weixin.qq.com/s/3boQq1pWXo9L1FIxcN29qg)
++ [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
 + [一致性是指什么？](https://mp.weixin.qq.com/s/xYPaQ3riYMqIGXOywEDGHQ)
@@ -390,6 +394,8 @@
 + [分层设计：Service 层真的需要实现接口吗？](https://mp.weixin.qq.com/s/2mWBBVFB3GWN4pbIkkLVbA)
 + [如何拥有一个优雅的变量名缩写？](https://mp.weixin.qq.com/s/29HwdGnR1yPDwPyVEaJ5Fw)
 + [为什么程序员更喜欢 if-else 而不是 switch？](https://mp.weixin.qq.com/s/GHNm0R63LGgwVpVOQqpOZg)
++ [为啥要将局部变量的作用域最小化呢？](https://mp.weixin.qq.com/s/uYmIbKeXN4mO9VVOLU2Umg)
++ [世界上没有绝对安全的语言：横向对比C、Go、Rust中的“果”指针！](https://mp.weixin.qq.com/s/dqtOMRvSj2SYGiDfT0gtHQ)
 
 ## 接口相关
 

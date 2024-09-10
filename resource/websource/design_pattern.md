@@ -37,6 +37,7 @@
 # 构造者模式
 
 + [优化代码结构-建造者模式(Builder Pattern)](https://mp.weixin.qq.com/s/yDZQl6eBRhfAqjzGa6I2QA)
++ [重修设计模式-创建型-建造者模式](https://mp.weixin.qq.com/s/TBw1RnyRp3sjy7Tpwj_QFA)
 
 # 代理模式
 

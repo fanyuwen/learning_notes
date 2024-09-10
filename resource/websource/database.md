@@ -311,6 +311,7 @@
 + [PostgreSQL“平替”Oracle：应用和基础架构改造技巧经验分享](https://mp.weixin.qq.com/s/uhTpUMFAowmXB6rbjqgZ7A)
 + [基于Patroni+etcd+流复制搭建构建PostgreSQL高可用](https://mp.weixin.qq.com/s/xqIAODnWc7OYMDRSKSmPrQ)
 + [PSQL需要专门去学吗？](https://mp.weixin.qq.com/s/CFJKVLT6NJ_GogrrRfLgfg)
++ [聊聊PostgreSQL数据库的高可用架构](https://mp.weixin.qq.com/s/mSMlfnu870LBvq2lmlITDw)
 
 ### SQLSERVER
 
@@ -504,6 +505,7 @@
 + [分布式计算框架详解(4大主流分布式框架)](https://mp.weixin.qq.com/s/HJm5gXIV2_j5c43y0kmf0w)
 + [Apache NiFi：数据流动的大师，打造灵活数据管道的秘诀](https://mp.weixin.qq.com/s/I9PpToZF7u1mAh4TBOzIGg)
 + [Hadoop生态系统 -- Hive](https://mp.weixin.qq.com/s/UgPh8Qadka00p0ZoBGW69Q)
++ [大数据存储选型-doris安装和部署](https://mp.weixin.qq.com/s/_ThbW0wxp0V0Q2AGDu9D2g)
 
 ## flink
 

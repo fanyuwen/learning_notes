@@ -15,6 +15,7 @@
 + [亿级流量下的故障事前预防：B站如何从0-1构建变更防控体系？](https://mp.weixin.qq.com/s/LMNTPhQNYVo6w5ir9ZL0wg)
 + [链路级资损防控之资损字段防控实践｜得物技术](https://my.oschina.net/u/5783135/blog/15077035)
 + [轻量级的灰度 & 配置平台｜得物技术](https://my.oschina.net/u/5783135/blog/15295528)
++ [ansible自动化运维工具](https://mp.weixin.qq.com/s/mA5LqcNj7SUoeSnIehGMHQ)
 
 ## JENKINS
 

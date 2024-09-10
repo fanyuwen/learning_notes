@@ -22,6 +22,7 @@
 + [敢在简历上写消息队列，这几个问题必须拿下！](https://mp.weixin.qq.com/s/7CPQe9Ol9xSIC3r4biuxXg)
 + [MQ组件重磅更新！灵活切换Rocket/Redis/Kafka/Rabbit多种实现](https://mp.weixin.qq.com/s/y6d9B944lYEGvIsH0GJ8Nw)
 + [消息队列设计精要 最终一致性、错峰流控、队列广播、RPC通信协议、消费确认和消息延迟](https://mp.weixin.qq.com/s/hkE_1UH_h3MzqZ4rxc6mXg)
++ [项目中引入消息队列出现了什么问题？如何保证消息顺序性的？](https://mp.weixin.qq.com/s/0K4uWhsHhQ2fkWu67VXhlQ)
 
 # KAFKA
 

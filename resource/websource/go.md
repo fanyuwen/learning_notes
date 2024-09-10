@@ -42,6 +42,7 @@
 + [go-av,一个交口称赞的库](https://mp.weixin.qq.com/s/vOK4Rh_zzS7SBPgy6oAIOQ)
 + [Gin 框架性能的秘密武器：压缩字典树详解](https://mp.weixin.qq.com/s/FbtOqVRyl4q6C-w6gWV9Zg)
 + [基于反射的轻量级 Go 依赖注入框架](https://mp.weixin.qq.com/s/jTPy1mFPPQfkGY6VA2WNNA)
++ [亚微秒级的解析速度！Go 语言的高性能 User-Agent 解析库](https://mp.weixin.qq.com/s/Qvj64_WofoCZ8j0eTCq6cQ)
 
 # 实践
 

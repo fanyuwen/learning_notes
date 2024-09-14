@@ -10,6 +10,7 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
++ [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
 + [Python输出变量知识点及用法讲解](https://mp.weixin.qq.com/s/0DS8I8iwu9FCRWCYLTlSbw)
 + [Python之变量作用域、Closure闭包](https://mp.weixin.qq.com/s/AGAaxiv1i7USeCwKrmwKVA)
@@ -119,6 +120,7 @@
 ## 实践
 
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
++ [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [你知道 Python 其实自带了小型数据库吗？](https://mp.weixin.qq.com/s/xsfwDxgF9EVTQftqkCX-QA)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
@@ -272,6 +274,7 @@
 + [AutoMapper，一个最牛逼的Python库](https://mp.weixin.qq.com/s/aShjr1tMFmVvizbphU_eHA)
 + [funcy，一个超强的 Python 库！](https://mp.weixin.qq.com/s/9OWzYS_5P5KnKYmdodvUUg)
 + [Buildout ，一个超级强大的Python库](https://mp.weixin.qq.com/s/QkNT7reB-ludMQqNwe3KvQ)
++ [RQ (Redis Queue)：用Redis实现的简单且强大的队列系统](https://mp.weixin.qq.com/s/IzaCVpG_Ltq8GixZXkEi4Q)
 + [ZODB，一个最牛逼的Python库](https://mp.weixin.qq.com/s/M4nxySrW2MrekygbELcbxA)
 + [xonsh，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/zXb94RLC5Ejv_l8Yoo0oWQ)
 + [dramatiq，一个超强的 Python 库！](https://mp.weixin.qq.com/s/RJLSGMEd4BU9gTNXHyIe2Q)

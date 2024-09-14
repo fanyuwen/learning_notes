@@ -20,9 +20,10 @@
 + [4个强大的rust库](https://mp.weixin.qq.com/s/Cs-6w7O387kJrBSItuWmig)
 + [一个强大的rust库Tokio](https://mp.weixin.qq.com/s/JT-BtkhOLjgEa0w3JKzL-w)
 + [rust中的切片和go中的切片](https://mp.weixin.qq.com/s/cHpbc0MiRGtUwNU-yEHNMw)
++ [go和rust对比：函数和方法的异同](https://mp.weixin.qq.com/s/1FDg0dmiNYc8F82gukY8Tg)
++ [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
 + [Rust 开发者福音：国内镜像 rsproxy，让你的 Cargo 飞起来！](https://mp.weixin.qq.com/s/L5vqzfasZdlKJ1C7k0wzxw)
 + [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
-+ [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
 + [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
 + [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
 + [基于 Rust 构建高性能的原生 UI 框架](https://mp.weixin.qq.com/s/1RspE0lfj7KtEVtg7Zy-qQ)
@@ -33,6 +34,8 @@
 + [Rust和C语言中的神奇内存优化](https://mp.weixin.qq.com/s/3DNNAYe9CTB_ACukaS9_LQ)
 + [Rust 引领前端基建新潮流：字节跳动的深度应用实践 | QCon](https://mp.weixin.qq.com/s/LXkJDSG7yZtQOJuV77VV1w)
 + [Rust 性能测试利器：Criterion.rs 让你的代码更快更强](https://mp.weixin.qq.com/s/MOId-suC-cZ-BWueIW9ikA)
++ [Rust 赋能前端: 视频抽帧](https://mp.weixin.qq.com/s/D4spIWh6yZmhIjW1tQwChw)
++ [rust实现字典树](https://mp.weixin.qq.com/s/HXsGou8EV8oCDHBZFAbJSg)
 
 # 框架
 

@@ -19,6 +19,7 @@
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
 + [Java枚举类的实际业务场景应用](https://mp.weixin.qq.com/s/tqNm6M8Y7q8zaNCmsypz8A)
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
++ [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 
 ## 新语言特性
 
@@ -212,6 +213,9 @@
 + [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
 + [面试官：什么是生产者-消费者模式？如何实现？](https://mp.weixin.qq.com/s/Y05KEjcX1XwSYYUo3eBRdQ)
 + [为什么使用Bundle而不使用 HashMap](https://mp.weixin.qq.com/s/9bP89mOAOdXzqmCkUzK36g)
++ [京东二面：说说Java序列化和反序列化](https://mp.weixin.qq.com/s/KV0OTGghVykRuOCkB95pSQ)
++ [Java性能优化-HashMap遍历的7种方式及性能测试对比](https://mp.weixin.qq.com/s/iJzba8IsBquJZyDgcOsDzw)
++ [Java性能优化-switch-case和if-else速度性能对比，到底谁快？](https://mp.weixin.qq.com/s/scbPIQp94sioy2u2AzUpcw)
 
 ## 源码
 
@@ -356,6 +360,7 @@
 
 ## IO/NIO
 
++ [字节流 InputStream 秘籍大公开，这些技巧你 get 了吗？](https://mp.weixin.qq.com/s/8-MpKBI5qUQA45uhMyCTnA)
 + [温故知新！Java NIO总结: ByteBuffer缓存](https://mp.weixin.qq.com/s/1fk3hEDSNPCojt5CPSrBqA)
 + [Java IO包中的File和Java NIO包中的Files都有什么区别？](https://mp.weixin.qq.com/s/gr6fofPENQ5uT6AaOypbqQ)
 + [Java NIO包中的Path和Paths都有什么区别？](https://mp.weixin.qq.com/s/4Me2xxsATUnO09mcdcVKvA)
@@ -582,36 +587,40 @@
 
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
++ [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
 + [SpringBoot3.3 优雅停止/重启定时任务功能太赞了！](https://mp.weixin.qq.com/s/7sgHQFTmvZ_03bNJUcEi0w)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
++ [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
++ [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
++ [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
++ [SpringBoot实战：SpringBoot中的内置对象](https://mp.weixin.qq.com/s/mgqTjIP0oVG2nIuGSPGG9w)
++ [SpringBoot实战：项目中生成二维码的正确姿势](https://mp.weixin.qq.com/s/SWqgBnbkf2udc_IckcBEUg)
++ [SpringBoot实战：SpringBoot项目运行时修改属性的方法](https://mp.weixin.qq.com/s/i2Op6qA7L7vm0P8hSHRUTg)
++ [SpringBoot实战：深入理解 Spring Boot 的 ApplicationRunner 接口](https://mp.weixin.qq.com/s/15r9vdvL8hsuiosjOibHug)
++ [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
++ [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
 + [14个SpringBoot优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/1KhaQYb1BYc6vUnGG2dyzQ)
 + [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
 + [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
++ [Spring Boot 注解探秘：Bean 管理的艺术](https://mp.weixin.qq.com/s/ihOXdLkUTx4HK--afhFjsg)
 + [分类整理SpringBoot核心注解及应用](https://mp.weixin.qq.com/s/plZu9rwiAM_9Yw1qr2Qy8g)
++ [SpringBoot实战：DeepLearning4j实现图片数字识别](https://mp.weixin.qq.com/s/DYEXU3AS9AH3dWeQcG-aCA)
 + [请不要自己写！Spring Boot非常实用的内置功能](https://mp.weixin.qq.com/s/UKe0vMTFo8lKRBUpKINTng)
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
-+ [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
 + [Java进阶篇 -- SpringBoot全局异常处理器](https://mp.weixin.qq.com/s/avmpuA6sv4qdFl8Mx30lMQ)
-+ [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
-+ [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
-+ [SpringBoot实战：项目中生成二维码的正确姿势](https://mp.weixin.qq.com/s/SWqgBnbkf2udc_IckcBEUg)
 + [Spring Boot 微服务架构的五大挑战与解决方案](https://mp.weixin.qq.com/s/udjrGstCOP2QNLnYSdWFJw)
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
-+ [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [SpringBoot + Flowable并集成ui，写一个请假流程Demo](https://mp.weixin.qq.com/s/_3fMfpXcEnztsOTF5C-PoA)
 + [Springboot循环依赖解决办法](https://mp.weixin.qq.com/s/Kn-bYUeCw3n_2GpcwJ9UHw)
 + [Spring Boot项目中如何解决循环依赖](https://mp.weixin.qq.com/s/KCkHAiW53Pr7ZCFWBNVXow)
-+ [SpringBoot实战：SpringBoot中的内置对象](https://mp.weixin.qq.com/s/mgqTjIP0oVG2nIuGSPGG9w)
 + [了解 Spring Boot 中用于 Java Bean 映射的 MapStruct](https://mp.weixin.qq.com/s/xYLKWEwSkpC0R9TigWUB-Q)
 + [Spring Boot项目中的性能优化技巧](https://mp.weixin.qq.com/s/-LmSEqbkDS0l58qM50wBPQ)
-+ [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
 + [SpringBoot -- 常用注解及讲解](https://mp.weixin.qq.com/s/i_wfdV8TUHv-4YbcDHmFng)
-+ [SpringBoot实战：深入理解 Spring Boot 的 ApplicationRunner 接口](https://mp.weixin.qq.com/s/15r9vdvL8hsuiosjOibHug)
 + [Spring Boot 优雅实现多租户架构，so easy!](https://mp.weixin.qq.com/s/eMNboIjuO-0o44raQB86JA)
 + [代码更新不停机：SpringBoot应用实现零停机更新的新质生产力](https://mp.weixin.qq.com/s/Z2kwMiS58F80zSXyTjfAZA)
 + [请不要再使用@Autowired/@Resource注解进行字段注入](https://mp.weixin.qq.com/s/YCvfXwNXiPyNlUOZulj_gQ)
@@ -1235,6 +1244,7 @@
 + [效率爆表！EasyExcel合并单元格这样实现才是yyds](https://mp.weixin.qq.com/s/DS6QMu2j_pD1FSI3Gs4jtw)
 + [打造优质代码：Apache Camel，推荐一款Java库](https://mp.weixin.qq.com/s/eqL4Nm1Rket-lNrN1QY1lw)
 + [Java 导出 Excel 利器：JXLS](https://mp.weixin.qq.com/s/7PdNCZ-05pNe0lneq1nioQ)
++ [如何查看线程死锁？](https://mp.weixin.qq.com/s/9lVfXpvKpuUCmAlKtpEiHw)
 
 # 其它环境
 

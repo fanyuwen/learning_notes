@@ -447,6 +447,7 @@
 + [Redis分布式锁的10个坑](https://mp.weixin.qq.com/s/DDQCwYPh62a7pOirECzRsA)
 + [Redis分布式锁最全详解(图文全面总结)](https://mp.weixin.qq.com/s/SY4qZtz8kqe18cRftmx_zA)
 + [Redis 分布式锁过期了，还没处理完怎么办？](https://mp.weixin.qq.com/s/wBGi0AcjltPfKcuv3DaIhQ)
++ [吃透Redis系列：分布式锁](https://mp.weixin.qq.com/s/ngWdvT9ti1bRXaoCkv_r8A)
 
 #### 缓存
 

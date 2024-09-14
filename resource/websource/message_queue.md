@@ -57,6 +57,7 @@
 + [强烈推荐这位大佬的Kafka系列，看完觉得自愧不如！](https://mp.weixin.qq.com/s/y813yAPs-7vuDfsOp_qpgw)
 + [推动机器学习：遇见Kafka，实时获取训练数据](https://mp.weixin.qq.com/s/2QHin0eXs3OHe-FmQIw8BA)
 + [Kafka 3.7.1 发布说明，小版本必升](https://mp.weixin.qq.com/s/-EIepFYU-3Sb0VAbPF8pVw)
++ [kafka的一个有趣问题（BUG）](https://mp.weixin.qq.com/s/VVPDz5rt-wsTC5n3jnAeVg)
 
 # ROCKETMQ
 

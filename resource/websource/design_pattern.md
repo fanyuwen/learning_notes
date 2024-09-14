@@ -25,6 +25,7 @@
 # 单例模式
 
 + [项目中常用到的设计模式之单例模式详解](https://mp.weixin.qq.com/s/yfYZwIJc7RqLExO01ZOu0Q)
++ [【设计模式】单例模式](https://mp.weixin.qq.com/s/T2p8qRdAqCNUXLp1qMei3Q)
 
 # 工厂模式
 

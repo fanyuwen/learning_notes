@@ -73,6 +73,7 @@
 + [JSON.stringify的高级用法](https://mp.weixin.qq.com/s/gjolD_8jldfy6pSR2XVFAg)
 + [每个开发人员都应该掌握的 10 种高级 CSS 技术](https://mp.weixin.qq.com/s/vUiCX_FWvZrd4Z4Uk9XZJg)
 + [import导入过的模块需要再次执行怎么办？](https://mp.weixin.qq.com/s/1Xst71jLUNtP7lf6tJTtOw)
++ [JavaScript中读取文件的各种方法](https://mp.weixin.qq.com/s/YIgtvsN1aXGVr7m77lCBfg)
 
 # 框架
 

@@ -60,6 +60,7 @@
 + [领域驱动设计 DDD 在 B 端营销系统的实践](https://my.oschina.net/meituantech/blog/11193086)
 + [领域驱动设计(DDD)之实践](https://mp.weixin.qq.com/s/zjjXW7awneDppIaQ2DcC1w)
 + [领域驱动设计（DDD）：让你的代码有“逻辑”的飞翔](https://mp.weixin.qq.com/s/sS59IFaMOa23J565rDN-1w)
++ [深入理解领域驱动设计：DDD四层架构](https://mp.weixin.qq.com/s/FkbJFSsanG8fWhQqaCuOJw)
 
 ## 微服务
 
@@ -243,6 +244,7 @@
 + [负载均衡原理最全详解(万字图文总结)](https://mp.weixin.qq.com/s/8xSgH-yT8UWOYriAZr3plA)
 + [高并发中的限流策略](https://mp.weixin.qq.com/s/B_1EjQQoi-VVWhMc35hMXg)
 + [软件系统限流的底层原理解析](https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw)
++ [6 种服务限流方案技术选型，哪个最香？](https://mp.weixin.qq.com/s/tnVGZpz-mrT248RpWpfOfQ)
 
 ### 大文件IO
 
@@ -475,6 +477,7 @@
 + [恢复被删除的Git stash 记录](https://mp.weixin.qq.com/s/K--z7p2pv5OSOYAaUTA0Iw)
 + [Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/Ie0jjW6zmU_3i8geUKAvDQ)
 + [Git 核心概念一览：仓库、协议、原理、服务器搭建全解析](https://mp.weixin.qq.com/s/3FK7Htmo09USo9YwE7rbWg)
++ [大厂都在用的Git代码管理规范](https://mp.weixin.qq.com/s/Th6yZEVzVGoGMvg3BJBKjQ)
 
 ### 编程范式
 

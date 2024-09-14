@@ -39,6 +39,7 @@
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [腾讯写码6年，我总结的技术人核心竞争力](https://mp.weixin.qq.com/s/EFi1GzHy5qAx9Ixnppoybw)
++ [如何才能成长为一名合格的架构师 ？](https://mp.weixin.qq.com/s/bxCh_rbRltUPcqNsJdGsZA)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [一个埋藏9年的底层bug发现历程](https://mp.weixin.qq.com/s/DouRB_FY1TvHKeXRXEMMqw)

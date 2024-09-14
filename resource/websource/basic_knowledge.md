@@ -4,6 +4,7 @@
 
 + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
 + [内存是怎样一步步被分配出来的？](https://mp.weixin.qq.com/s/QmFbNAwO6dKo32o9hj6J5A)
++ [操作系统是怎么一步步启动起来的？](https://mp.weixin.qq.com/s/JGMK1WVn364lEXmmRM_I9w)
 
 ## 文件系统
 
@@ -235,6 +236,7 @@
 + [Ngnix的server_name正则匹配执行顺序](https://mp.weixin.qq.com/s/9tqmuy08xEQLRTzrO_s-Vg)
 + [从零手写实现 nginx-01-为什么不能有 java 版本的 nginx?](https://mp.weixin.qq.com/s/994dQU_MP5auHfZBAWDpZg)
 + [Nginx优化篇——提升多核间的负载均衡（中）](https://mp.weixin.qq.com/s/LP2pfXpscByj5E8iiPFddg)
++ [Nginx的server_name匹配执行顺序](https://mp.weixin.qq.com/s/DvX1JjqhisCYqKslAsHb9w)
 
 ### wireshark
 
@@ -265,6 +267,7 @@
 + [图解IO多路复用之epoll实现原理](https://mp.weixin.qq.com/s/XnmJFAUzReBtFGs3g9dPFg)
 + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
 + [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
++ [【通用】简述什么是同步IO、异步IO、阻塞IO、非阻塞IO？](https://mp.weixin.qq.com/s/0b4VI_xMce7eLOTRHvkBFA)
 
 ## 字符编码
 

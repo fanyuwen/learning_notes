@@ -229,6 +229,7 @@
 + [高并发下如何轻松的保证接口幂等性](https://mp.weixin.qq.com/s/Yege3CDhDrYN5x9ydcnGcw)
 + [腾讯电商部门二面：如何保证幂等性？](https://mp.weixin.qq.com/s/H7BVtBJiy9GvQyDPpGqyUQ)
 + [通用框架实践｜Pipeline设计+幂等重试](https://mp.weixin.qq.com/s/bBZFDx6WwRfTnfQS08Mesg)
++ [美团面试官：订单重复支付，如何解决？有点懵](https://mp.weixin.qq.com/s/zU0WFziKSQA28SLOZ_5d-A)
 
 ### 负载&限流
 

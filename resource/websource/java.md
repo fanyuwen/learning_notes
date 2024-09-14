@@ -154,6 +154,7 @@
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
++ [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/ojn7fJorJYZTvGL4WGMmkg)
 + [Java排序原理](https://mp.weixin.qq.com/s/mzfsdeHvigKGXBlchR5NRg)
 + [秒懂双亲委派机制](https://mp.weixin.qq.com/s/QqAIsLN0X0fzH51XBgvvdA)
 + [从字节码看 finally 的本质，你能说出这些代码运行结果吗？](https://mp.weixin.qq.com/s/hwVyJ2d6ePIgSp2h-WDT5Q)
@@ -230,6 +231,7 @@
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
++ [性能调优专题 -- JVM详解（1）](https://mp.weixin.qq.com/s/MmqQLMRCbawbFaYceTGPWg)
 + [3分钟带你秒懂对象的内存分配流程](https://mp.weixin.qq.com/s/FTvTMBwvPXmiiTVmykQiHA)
 + [一文轻松了解Java常用的垃圾收集器](https://mp.weixin.qq.com/s/Z7lwL6cXnRfF6MK5o1QUdQ)
 + [内存溢出原因与解决方案(4大主流方案详解)](https://mp.weixin.qq.com/s/YQHMMbimWcNLZR4vypRilQ)
@@ -775,6 +777,7 @@
 + [公司入职一个阿里大佬，把 Spring Boot 系统启动时间从 7 分钟降到了 40 秒！](https://mp.weixin.qq.com/s/fBALOthJQjE9ZNl-uszWvg)
 + [将Docker部署的SpringBoot应用内存降低 40% 以上](https://mp.weixin.qq.com/s/XzJrI6o1cKJJ7pzd45aikA)
 + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
++ [发现 XSS 漏洞？别急，用这招 SpringBoot 3.3 技巧轻松搞定！](https://mp.weixin.qq.com/s/gydaV2bpUjFa3KsE4vYBYg)
 
 #### 分布式
 

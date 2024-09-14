@@ -127,6 +127,7 @@
 + [Python 新手必看：如何用 unittest 写出高质量代码？](https://mp.weixin.qq.com/s/2Sryhcgig1PbOazFLkVq1Q)
 + [15个Python函数式编程的实用技巧](https://mp.weixin.qq.com/s/6xERuUjANfAGkaUNxupfsQ)
 + [深入探索Python中的单例模式：实现与应用](https://mp.weixin.qq.com/s/WrePcQmDsSAYrGt-LCnAOA)
++ [想让字典操作更优雅？自定义Python字典类型，简化你的代码库！](https://mp.weixin.qq.com/s/ERQ6d0ol34cTQMX1mJL5VQ)
 + [探秘水仙花数：Python编程初学者的趣味之旅](https://mp.weixin.qq.com/s/DS5pZ_Lai1AdfdDC1_LJ2g)
 + [收藏！一篇Python标准库之模块的使用示例](https://mp.weixin.qq.com/s/gHOVEJDS6ZC3sXrsqaJXPw)
 + [彻底解决Python3: No module named 问题](https://mp.weixin.qq.com/s/nfx4HmEvyDMLZiq7ZKVchA)

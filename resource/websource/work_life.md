@@ -38,6 +38,7 @@
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
++ [如何写出正确的代码](https://mp.weixin.qq.com/s/_v9txbImwNg7wZ1arSokFQ)
 + [腾讯写码6年，我总结的技术人核心竞争力](https://mp.weixin.qq.com/s/EFi1GzHy5qAx9Ixnppoybw)
 + [如何才能成长为一名合格的架构师 ？](https://mp.weixin.qq.com/s/bxCh_rbRltUPcqNsJdGsZA)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -318,6 +319,7 @@
 + [拿捏了！解决90%深度学习问题的，图解深度学习书籍，熬夜必看书籍！](https://mp.weixin.qq.com/s/FI4agoArHpimwMVjS6rlTA)
 + [程序员必读书单推荐](https://mp.weixin.qq.com/s/ktXV4SFKBPqdAkkRpHHVVA)
 + [9本相见恨晚的“计算机”好书](https://mp.weixin.qq.com/s/DfAJbbrLRio7FAETQNDSag)
++ [《量化绿皮书》Chapter 7 Algorithms and Numerical Methods 算法与数值方法（一）](https://mp.weixin.qq.com/s/3K7z9Oxq1yeW13_FXXQx0A)
 
 ### 生活
 

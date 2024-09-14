@@ -34,6 +34,7 @@
 + [代码片段分享：我在JavaScript项目中这样用Object.assign](https://mp.weixin.qq.com/s/Zg-yh7qbDbC-9m08nytuBw)
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
++ [停止使用 `let` 或为什么它在 JavaScript/TypeScript 中是不必要的【包邮送书】](https://mp.weixin.qq.com/s/_ubMihG-UX0H7jHaWtA3fQ)
 + [JS中sleep方法的实现](https://mp.weixin.qq.com/s/-gxQchQOVpaUyj1HYPlZXg)
 + [25 个JavaScript单行代码让你看起来像个专业人士](https://mp.weixin.qq.com/s/QlvRe6f_Sic3imq3_4YaFw)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)

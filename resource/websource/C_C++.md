@@ -63,8 +63,10 @@
 + [Tink，一个强大的c++库](https://mp.weixin.qq.com/s/_Ev9rZImyK9teR_n7Fna-Q)
 + [Intel TBB,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/MB7hB9Fr5KBe7M9St8z0yw)
 + [Tundra，一个强大的c++库](https://mp.weixin.qq.com/s/u6Hc8BKdYsvgPthJumC7rw)
++ [Loki,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/60eGnBslM_7PC8ouNh-Mgw)
 + [VTK (The Visualization Toolkit) ,一个强大的c++库](https://mp.weixin.qq.com/s/XKOyCueCYpuzi11Kqijg1g)
 + [Vcflib,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/OvcMrkgYX3bT81vYq2_C4A)
++ [sha1collisiondetection,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/F_z-k02BJt2YOaGd9aeWOQ)
 + [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 

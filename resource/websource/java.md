@@ -20,6 +20,7 @@
 + [Java枚举类的实际业务场景应用](https://mp.weixin.qq.com/s/tqNm6M8Y7q8zaNCmsypz8A)
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
++ [来请讲解下Java泛型吧](https://mp.weixin.qq.com/s/EHGpT-kliGbAx5zE9olSZg)
 
 ## 新语言特性
 
@@ -108,6 +109,7 @@
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java性能优化-书写高质量SQL的建议(如何做Mysql优化)](https://mp.weixin.qq.com/s/fx2CULg77qTrt-YMCbO6LQ)
++ [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/9VMZfwmjGBjpEUKuZY55rA)
 
 ## 代码质量
 
@@ -142,6 +144,7 @@
 + [枚举虽好，但务必记得避坑](https://mp.weixin.qq.com/s/phxnDdSLLyrnedCpQFj2gA)
 + [昨天在 for 循环里拼接字符串的那个同事，今天已经不在了](https://mp.weixin.qq.com/s/fpHfDfxk9NCHt3jQ6XllQw)
 + [为啥要尽量避免使用字符串呢](https://mp.weixin.qq.com/s/TuKtIj2K8JAGJL03O9eiJQ)
++ [项目中有 10000 个 if else 如何优化？](https://mp.weixin.qq.com/s/3y2CSYY8WRAy53Azkk9OnA)
 
 # 底层
 
@@ -149,6 +152,7 @@
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
++ [Java中有几种方法可以实现一个线程](https://mp.weixin.qq.com/s/EnjhtNAJBwx53zBPhr7iBQ)
 + [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
 + [Java线程安全 -- 线程安全类](https://mp.weixin.qq.com/s/S4CqtnVXK6tBAUQ9VwmoYQ)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
@@ -219,6 +223,7 @@
 + [Java性能优化-HashMap遍历的7种方式及性能测试对比](https://mp.weixin.qq.com/s/iJzba8IsBquJZyDgcOsDzw)
 + [Java性能优化-switch-case和if-else速度性能对比，到底谁快？](https://mp.weixin.qq.com/s/scbPIQp94sioy2u2AzUpcw)
 + [集合全解析：轻松驾驭Java数据结构](https://mp.weixin.qq.com/s/8AXEkN2zdpCL7EodDuYZEg)
++ [哎呦喂，原来Lambda 表达式底层原理这么简单啊？](https://mp.weixin.qq.com/s/Vma7XdQ2eIqZDfRv4gpf4w)
 
 ## 源码
 
@@ -309,6 +314,8 @@
 + [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
 + [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
++ [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
++ [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
 + [放弃ThreadLocal！TTL真香](https://mp.weixin.qq.com/s/WO2yqup5U3xTZAu0yvyMEg)
 + [什么？！90%的ThreadLocal都在滥用或错用！](https://mp.weixin.qq.com/s/ZpXd20jbvuXYZ0FLrF35-Q)
 + [ThreadLocal最全详解(万字图文总结)](https://mp.weixin.qq.com/s/WtMLAU59LQh8hTE-RKf1mA)
@@ -329,6 +336,7 @@
 + [面试官：如何自定义一个工厂类给线程池命名，我：现场手撕吗？](https://mp.weixin.qq.com/s/ffqZOZlbMApUmpnPDYPqWA)
 + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
 + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
++ [JUC从实战到源码：中断机制与API实现](https://mp.weixin.qq.com/s/edHn415DvAZ8r5-WqKXC-g)
 + [AQS核心原理](https://mp.weixin.qq.com/s/wcc-Uy0DDvpi8taqFGgZ-w)
 + [Java线程安全 -- ReentrantLock](https://mp.weixin.qq.com/s/Yme_kCSkQiJIiNpx1GYaQg)
 + [一万八千条线程，线程为啥释放不了？](https://mp.weixin.qq.com/s/k8uvgeOPrNLbqivFm5tXOg)
@@ -448,6 +456,7 @@
 + [浅谈Spring的多例Bean——Prototype原型](https://mp.weixin.qq.com/s/IpiIU39MG8bHDRNQImvnjw)
 + [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
++ [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
 
 ### 新版本新特性
 
@@ -596,6 +605,7 @@
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
 + [SpringBoot3.3 优雅停止/重启定时任务功能太赞了！](https://mp.weixin.qq.com/s/7sgHQFTmvZ_03bNJUcEi0w)
++ [Spring Boot 3.3 正式发布，王炸级更新，应用启动实现质的飞跃](https://mp.weixin.qq.com/s/CI97dAuhc9dKdSYZuTPmfA)
 + [Spring Boot 3.3 五种异步处理提升系统吞吐量的策略与实践，彻底爱了！](https://mp.weixin.qq.com/s/mZAnOveHZ14dNasBLzXrdw)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
 + [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
@@ -619,12 +629,16 @@
 + [请不要自己写！Spring Boot非常实用的内置功能](https://mp.weixin.qq.com/s/UKe0vMTFo8lKRBUpKINTng)
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
++ [生产环境Spring Boot切记要关闭这个开关](https://mp.weixin.qq.com/s/keb2jr0RdNszhsFBx7_5CQ)
++ [Spring Boot项目中如何解决循环依赖](https://mp.weixin.qq.com/s/KCkHAiW53Pr7ZCFWBNVXow)
 + [零停机更新代码：SpringBoot新技能](https://mp.weixin.qq.com/s/hrCBIjCTgaSUNPNikGh_yA)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
++ [Spring Boot 注解探秘：Bean 管理的艺术](https://mp.weixin.qq.com/s/ihOXdLkUTx4HK--afhFjsg)
 + [Java进阶篇 -- SpringBoot全局异常处理器](https://mp.weixin.qq.com/s/avmpuA6sv4qdFl8Mx30lMQ)
 + [Spring Boot 微服务架构的五大挑战与解决方案](https://mp.weixin.qq.com/s/udjrGstCOP2QNLnYSdWFJw)
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
++ [Spring Boot 实现自定义注解、反射与 AOP 动态修改请求参数](https://mp.weixin.qq.com/s/hyL-zGhtIxflHQw1pSQCKQ)
 + [SpringBoot + Flowable并集成ui，写一个请假流程Demo](https://mp.weixin.qq.com/s/_3fMfpXcEnztsOTF5C-PoA)
 + [Springboot循环依赖解决办法](https://mp.weixin.qq.com/s/Kn-bYUeCw3n_2GpcwJ9UHw)
 + [Spring Boot项目中如何解决循环依赖](https://mp.weixin.qq.com/s/KCkHAiW53Pr7ZCFWBNVXow)
@@ -647,8 +661,8 @@
 + [Spring Boot + flowable 快速实现工作流](https://mp.weixin.qq.com/s/Z_Ujb_d_sB9DTjFsDxSV7g)
 + [SpringBoot @Value注解这些高级玩法用过吗？](https://mp.weixin.qq.com/s/h6w-vPWkgO7sAA2BsS_d3w)
 + [Spring Boot性能优化：提高响应速度的秘密](https://mp.weixin.qq.com/s/cmAin_cBMO_rHz7aJVRzhQ)
++ [Spring Boot自动装配 - Condition机制详解](https://mp.weixin.qq.com/s/bb_XE2t3m7KD8VHpk-aX0A)
 + [Spring Boot集成Jythonb并且支持三方的python依赖包](https://mp.weixin.qq.com/s/lBay7zHDzn2o8WKON2gDDg)
-+ [Spring Boot 3.3 正式发布，王炸级更新，应用启动实现质的飞跃](https://mp.weixin.qq.com/s/CI97dAuhc9dKdSYZuTPmfA)
 + [使用 Spring Boot + Resilience4J 实现断路器功能开发](https://mp.weixin.qq.com/s/V4EEUmJJveGC3d0-KWn_VQ)
 + [手写Spring Boot启动器：实现布隆过滤器](https://mp.weixin.qq.com/s/nbR9D5F0tjZfNxYWjU1mdA)
 + [SpringBoot3 必须掌握的 JVM 优化技巧](https://mp.weixin.qq.com/s/enr8O4nH-1Wf2B9aVifnWA)
@@ -704,6 +718,7 @@
 + [Spring Boot集成Timefold Solver实现课程表编排](https://mp.weixin.qq.com/s/m72CNVLZoxCYQD5f_6Kz8A)
 + [请牢记SpringBoot这7个强大的隐藏Bean](https://mp.weixin.qq.com/s/aK7lQXXKMZycnYwRieiZig)
 + [Spring Boot源码分析一：启动流程](https://mp.weixin.qq.com/s/sj-0V-CDYvTZUH4h7ffeoQ)
++ [Spring Boot 体验 BIO（阻塞式IO）](https://mp.weixin.qq.com/s/ArsjUl1U6RCdJcAHTYCl_A)
 + [Spring Boot 定时任务与 xxl-job 灵活切换方案](https://mp.weixin.qq.com/s/b29uC_PFcFXsFGbMIW2-QQ)
 + [Java 运行时：Spring Boot 角度的见解 | 技术解析](https://mp.weixin.qq.com/s/8xc7rhBXy5jva1rO4oMQHQ)
 + [瞧瞧老外总结的SpringBoot最佳实践](https://mp.weixin.qq.com/s/XgIj5pqtb-fH03Mf5VmP8w)
@@ -878,6 +893,7 @@
 + [使用Spring Boot开发API时的请求参数读取机制](https://mp.weixin.qq.com/s/wrisbOB5acH5-ttEHyHBGA)
 + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
 + [SpringBoot中优化Undertow性能的方法总结](https://mp.weixin.qq.com/s/mzcTHVaJ4qRrTpkWEpNMIA)
++ [Spring Boot3.3 中最大连接数和最大并发数的优化与设置详解](https://mp.weixin.qq.com/s/4jZ5kyjWe-KAb1r7YuyYcA)
 
 ##### VUE
 
@@ -962,6 +978,8 @@
 + [Java进阶篇 -- SpringBoot引入线程池](https://mp.weixin.qq.com/s/Gb5UKu4qysAFB2CCJBpCog)
 + [SpringBoot异步接口实现：提高系统的吞吐量](https://mp.weixin.qq.com/s/pNjDF4-s2hNq6CpbqL2HOA)
 + [SpringBoot 物理线程、虚拟线程、Webflux 性能全面对比！](https://mp.weixin.qq.com/s/ZmrP2-1tvwkUBXsgXAQ_6Q)
++ [Spring Boot集成akka actor快速入门Demo](https://mp.weixin.qq.com/s/TIkhI0RkmcA6CNWWzBDcnw)
++ [Spring Boot集成Akka Stream快速入门Demo](https://mp.weixin.qq.com/s/xwOPAXTfbuGlhvCgalfbEA)
 
 #### EVENT
 
@@ -987,6 +1005,7 @@
 + [解决日志开关需求：SpringBoot 实现热插拔 AOP](https://mp.weixin.qq.com/s/RBeAGsn3AtRjK7Rru7d1ww)
 + [强大！基于SpringBoot实现AOP的动态热插拔功能](https://mp.weixin.qq.com/s/hBVfCkbL0NQCaYb-qVQf0Q)
 + [强大！SpringBoot通过3种方式实现AOP切面，第三种方式性能极佳](https://mp.weixin.qq.com/s/Y5VhAD_tm6HXWLl13v_NCA)
++ [Spring Boot如何集成AOP？](https://mp.weixin.qq.com/s/PI8V6KgGDve9T7hrNjpjWQ)
 
 #### SPI
 
@@ -1024,6 +1043,7 @@
 + [Spring Boot实战：基于职责链模式处理请求链中的多个处理器](https://mp.weixin.qq.com/s/op2kBd1AHI_aSYTYHkAuww)
 + [Spring Boot实战：使用模板方法模式优化数据处理流程](https://mp.weixin.qq.com/s/djh5LNpg2lU1CznJ46R7Uw)
 + [Spring Boot实战：基于模板方法模式重构订单处理流程](https://mp.weixin.qq.com/s/Db5X-oGCU3--u2BMwDXMJg)
++ [在Spring Boot中运用职责链模式处理请求中间件](https://mp.weixin.qq.com/s/PEOurY6p-Ueh2QkFddBbgw)
 
 #### message
 

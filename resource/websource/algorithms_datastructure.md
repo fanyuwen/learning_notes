@@ -25,6 +25,7 @@
 + [重温数据结构与算法之前缀和](https://mp.weixin.qq.com/s/cVcHr76SkbL-crDdvW2Xew)
 + [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 + [8 个程序员都必须知道的常见数据结构](https://mp.weixin.qq.com/s/aCogl93rpI2mU2wyDTlnLQ)
++ [什么是树？为什么有二叉树还需要红黑树？+手写红黑树代码](https://mp.weixin.qq.com/s/DDhAl3deFBew9XMX1J433Q)
 
 # 密码学
 
@@ -38,6 +39,7 @@
 + [阿里228x82y还原之递归数组解密](https://mp.weixin.qq.com/s/t9JJh5xnZspo0AXm0X-yzg)
 + [美团面试：百亿级分片，如何设计基因算法？](https://mp.weixin.qq.com/s/JS7-Xu180704WY7LDrebYw)
 + [TimeWheel 算法介绍及在应用上的探索](https://my.oschina.net/vivotech/blog/15646591)
++ [最强总结！十大时间序列算法 ！！](https://mp.weixin.qq.com/s/H-eB6HBQEtsY2eSVqYSyIA)
 
 # leetcode
 

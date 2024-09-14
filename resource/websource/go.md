@@ -27,6 +27,7 @@
 + [让 Go 语言的 ORM 更加亲近开发者](https://mp.weixin.qq.com/s/ot8N8jBRaxQWasgZLaUxdQ)
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
 + [一个能让你少写循环和判断的Go开源包，支持泛型](https://mp.weixin.qq.com/s/zX4GOZb-FO8Pq9qxthMiLQ)
++ [为什么这段代码会阻塞？](https://mp.weixin.qq.com/s/gtRzAlSuPsDmTcsAoBIleA)
 
 # 库
 
@@ -47,6 +48,7 @@
 # 实践
 
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
++ [Go 入门指南：7.3. For-range 结构](https://mp.weixin.qq.com/s/wdu7mvnFIz-jXrdjUO9Ueg)
 + [Go 语言中不可不知的语法糖](https://mp.weixin.qq.com/s/dim6CFoJK4POZCky9zDY_g)
 + [Go 语言 Base64 编码解码实战指南](https://mp.weixin.qq.com/s/ozOxt353Wch9MXznrov0Cw)
 + [Go 微服务开发框架，集成自动代码生成、Gin 和 GRPC](https://mp.weixin.qq.com/s/WdrMkVLqksZPg7sstx7pdQ)

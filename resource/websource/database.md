@@ -46,6 +46,7 @@
 + [线上紧急问题之Using filesort 能优化吗，怎么优化？](https://mp.weixin.qq.com/s/dyjm0O4D4tI-i-rdbgpULA)
 + [数据库性能调优——慢查询](https://mp.weixin.qq.com/s/iYET8mnjbc3pUDFGyU_sbQ)
 + [手把手教你学会sql注入](https://mp.weixin.qq.com/s/-BiQTjUQDUq1yI92TvKRzg)
++ [一个用SQL写的俄罗斯方块游戏](https://mp.weixin.qq.com/s/u9bPjT_St_R6pa-_CaV3gg)
 
 # 本地数据库
 
@@ -133,6 +134,7 @@
 + [一套高效解决方案：MySQL数据实时同步到Elasticsearch](https://mp.weixin.qq.com/s/HOaRZDRaFnvC8J0EL4o4Uw)
 + [MySQL保姆级教程（基础篇）从小白到高手的进阶指南](https://mp.weixin.qq.com/s/ooVUoHRgMphOcumRWA7FMw)
 + [探索MySQL的高效数据同步：并行复制原理](https://mp.weixin.qq.com/s/VjefHUEwfjGpXzdDG7OubQ)
++ [MySQL数据库为什么用b+树？](https://mp.weixin.qq.com/s/kJez9DJBNVEZeK4dte_X8g)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
 + [面试官：MySQL MVCC是如何实现的？MySQL又是如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/VKt_klGpGdamjhFuyBR_Ag)
 + [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/tkB6L2_MKSwMOo0TsjIeRA)
@@ -141,6 +143,7 @@
 + [MySQL数据如何同步到Elasticsearch](https://mp.weixin.qq.com/s/MT2hGK_8ef8a66hxHhmfOQ)
 + [MySQL数据库碎片化：隐患与解决策略](https://mp.weixin.qq.com/s/X5NMeVIQNTjmXoSRq5PK-Q)
 + [用过 MySQL 读写分离吗？怎么做的？](https://mp.weixin.qq.com/s/SlTfuZfSlfcBbStpKKfkJQ)
++ [MySQL 主从同步一致性详解](https://mp.weixin.qq.com/s/ppIRVhJsh3oCLzc4xxhkLg)
 + [(十六)MySQL调优篇：单机数据库如何在高并发场景下健步如飞？](https://mp.weixin.qq.com/s/TAoZSGbcmZULARWqphHIwQ)
 + [mysql常用命令总结](https://mp.weixin.qq.com/s/6WwOOU2nMZ8zpGHatNQ44Q)
 + [利用MySQL实现公司申请审批流程中的模糊匹配](https://mp.weixin.qq.com/s/pIJs1OuorBhn_ZF9hJAIeg)
@@ -165,6 +168,7 @@
 + [Mysql 的过程和函数 (记录)](https://my.oschina.net/OutOfMemory/blog/155466)
 + [MySQL 密码忘记了怎么办？](https://mp.weixin.qq.com/s/gHcFogYRa7_b9p5XwXd9Cw)
 + [MySQL 模糊查询再也不用like+%了](https://mp.weixin.qq.com/s/RbdKpm0pFG5D290_4XS0HA)
++ [MySQL中的聚合统计：技巧与最佳实践](https://mp.weixin.qq.com/s/D4MdnTWOvhBMXtukznOoeg)
 + [MySQL 日期时间类型怎么选？千万不要乱用！](https://mp.weixin.qq.com/s/VjkgAwXStrxOqiE5_rJZkQ)
 + [聊聊 MySQL 是如何处理排序的](https://my.oschina.net/u/4526289/blog/11138574)
 + [告别内存 OOM，解决 MySQL 内存增长问题](https://my.oschina.net/u/4526289/blog/11205449)
@@ -229,6 +233,7 @@
 + [(十三)MySQL引擎篇：半道出家的InnoDB为何能替换官方的MyISAM？](https://mp.weixin.qq.com/s/but9J1UD3rS5ZwqQEAtf3A)
 + [InnoDB如何解决脏读、不可重复读和幻读的？](https://mp.weixin.qq.com/s/hL3CdhmaGT8bFe7Usk_1WA)
 + [美团二面：MySQL 支持哪些存储引擎？MyISAM 和 InnoDB 有什么区别？](https://mp.weixin.qq.com/s/WFnz-l1JEFDeqONwTL_YMQ)
++ [Innodb之buffer pool 图文详解](https://mp.weixin.qq.com/s/1HB57sVWXnEp-9xsDSuHoA)
 
 #### 锁
 
@@ -320,6 +325,7 @@
 ### DuckDB
 
 + [DuckDB 如何访问非UTF-8的CSV？](https://mp.weixin.qq.com/s/8HFB_ss4p2DUSJXb4bp9Lw)
++ [DuckDB 技巧 – 第 1 部分](https://mp.weixin.qq.com/s/PH-zm5CAwNGz6gKF--AQRA)
 
 ## NOSQL
 
@@ -398,6 +404,7 @@
 + [如何实现Redis和Mysql中数据双写一致性](https://mp.weixin.qq.com/s/1xxXepmhTVoN4_EPb7QdUg)
 + [如何使用Redis Streams 实现消息队列](https://mp.weixin.qq.com/s/QApIVf56cqB0PDhQrCNR6g)
 + [Redis教程——事务](https://mp.weixin.qq.com/s/7Pc-SQ2Z69rE-jOcjav4wA)
++ [阿里二面：Redis是单线程还是多线程？为什么这么设计？](https://mp.weixin.qq.com/s/nw1gqh-yyccVk999TUeFTw)
 + [面试官：说一下你对Redis事务的理解？](https://mp.weixin.qq.com/s/lRZST0KbFTn3DIGJ7lLaFg)
 + [深入Redis系列（七）Redis事务原理详解](https://mp.weixin.qq.com/s/p0b8YGzGFTLIG70w0JItMQ)
 + [一文了解 Redis](https://mp.weixin.qq.com/s/niOvTiaNGG3KdrZQBNqM9g)

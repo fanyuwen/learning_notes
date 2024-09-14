@@ -33,8 +33,11 @@
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [代码片段分享：我在JavaScript项目中这样用Object.assign](https://mp.weixin.qq.com/s/Zg-yh7qbDbC-9m08nytuBw)
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)
++ [10 个你可能不知道的高级 JavaScript 技术](https://mp.weixin.qq.com/s/OaJjJ0akCo7Vk5LlRQitvA)
++ [前端小知识：使用 Array.of() 轻松创建数组](https://mp.weixin.qq.com/s/5IXEmsfQRpHqRZC7tuVqGw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [停止使用 `let` 或为什么它在 JavaScript/TypeScript 中是不必要的【包邮送书】](https://mp.weixin.qq.com/s/_ubMihG-UX0H7jHaWtA3fQ)
++ [JS高级-with、eval以及严格模式](https://mp.weixin.qq.com/s/BbsHCFMkNK7iNH5V1NDePA)
 + [JS中sleep方法的实现](https://mp.weixin.qq.com/s/-gxQchQOVpaUyj1HYPlZXg)
 + [25 个JavaScript单行代码让你看起来像个专业人士](https://mp.weixin.qq.com/s/QlvRe6f_Sic3imq3_4YaFw)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
@@ -75,6 +78,7 @@
 + [每个开发人员都应该掌握的 10 种高级 CSS 技术](https://mp.weixin.qq.com/s/vUiCX_FWvZrd4Z4Uk9XZJg)
 + [import导入过的模块需要再次执行怎么办？](https://mp.weixin.qq.com/s/1Xst71jLUNtP7lf6tJTtOw)
 + [JavaScript中读取文件的各种方法](https://mp.weixin.qq.com/s/YIgtvsN1aXGVr7m77lCBfg)
++ [这 8 个常见的前端开源库，你一定要知道！](https://mp.weixin.qq.com/s/3mE3iZh51_iU2XQ5loaOkw)
 
 # 框架
 
@@ -97,6 +101,7 @@
 + [前端开发，vue3实现excel文件预览和打印](https://mp.weixin.qq.com/s/AyWIANImSboWhbGGWyPNlg)
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
 + [全网首发：Vue3.5 源码解析， useTemplateRef 实现原理](https://mp.weixin.qq.com/s/GnPPWXr3EP0vE7sxinNPTA)
++ [Vue3 源码解读-Props 实现原理](https://mp.weixin.qq.com/s/-Xzy1Hf2s_N9vYPbdoPTRA)
 
 ## react
 
@@ -112,6 +117,7 @@
 + [2024 年在 React 中使用 TypeScript 的 10 个令人信服的理由：开发人员指南](https://mp.weixin.qq.com/s/tSdmvm2WozeRtbuOLUyneg)
 + [React 的正确使用方法：ref 篇](https://mp.weixin.qq.com/s/KLbn3gFeT3r63_SobLy3eA)
 + [与 Vue 相伴四年，终究还是没抵住 React 的巨大诱惑](https://mp.weixin.qq.com/s/GkYKKlAyb5i2XnGOuNVzzg)
++ [聊一聊前端框架React：梳理其核心概念](https://mp.weixin.qq.com/s/M6v0rP3xcdbu89GRD73slw)
 
 ### react native
 

@@ -44,6 +44,7 @@
 + [不遵循这些设计原则的架构师，迟早栽跟头……](https://mp.weixin.qq.com/s/3y2fZ-3bzttVLPLmXIUFRQ)
 + [万字长文浅谈三高系统建设方法论和实践](https://my.oschina.net/u/4090830/blog/15656404)
 + [企业级消息推送架构设计，太强了！](https://mp.weixin.qq.com/s/anQ3J38thukU0quPUsuFfg)
++ [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
 
 ### DDD
 
@@ -275,6 +276,7 @@
 + [读友好的缓存淘汰算法](https://my.oschina.net/u/4939618/blog/15169406)
 + [我使用缓存，踩过的7个坑](https://mp.weixin.qq.com/s/TyEYbUEHWrqGJ98xa4VIsA)
 + [缓存预热有哪些方案？](https://my.oschina.net/lenve/blog/15640082)
++ [二级缓存架构极致提升系统性能](https://mp.weixin.qq.com/s/R_Qg0N46OkFm_eLAq_UZLw)
 
 ## 优化
 
@@ -380,6 +382,7 @@
 + [有限状态机FSM](https://mp.weixin.qq.com/s/3boQq1pWXo9L1FIxcN29qg)
 + [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
++ [RESTful API中的6个核心概念，但最重要的特性是灵活](https://mp.weixin.qq.com/s/BtECZFsJr02A6Dd6qWDQHw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
 + [一致性是指什么？](https://mp.weixin.qq.com/s/xYPaQ3riYMqIGXOywEDGHQ)
 

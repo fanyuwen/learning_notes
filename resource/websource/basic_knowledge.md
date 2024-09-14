@@ -74,6 +74,7 @@
 ### 命令
 
 + [一篇文章让你彻底掌握 Shell](https://mp.weixin.qq.com/s/GmSqHJiBToncvcpFAJUZbw)
++ [Linux常用命令](https://mp.weixin.qq.com/s/JETNEinB2FsbfAYU8p502w)
 + [Linux文件分割命令：split](https://mp.weixin.qq.com/s/aPfw2lzfg9ZQewsPh8SKxg)
 + [七个运维必备的Shell自动化脚本](https://mp.weixin.qq.com/s/JXjERsm03PDSUXVuPiJkQA)
 + [Linux Shell编程入门（五）--Shell编程技巧](https://mp.weixin.qq.com/s/uhnFTezkWwPHyoUXdM0Q-g)
@@ -87,6 +88,7 @@
 + [Linux 常用命令](https://mp.weixin.qq.com/s/PskjUENl121iXryWvoi9bQ)
 + [free命令看内存容量不一致的原因。](https://mp.weixin.qq.com/s/CUedqniPUPWasbIL1oxAsA)
 + [写一段监控CPU、内存、磁盘的bash脚本](https://mp.weixin.qq.com/s/DQJcFuTMnY2pmuOz9zQG_Q)
++ [linux命令之wget](https://mp.weixin.qq.com/s/fgw2XCYghaydRXaILhTaaw)
 
 ### 发行版信息
 
@@ -238,6 +240,7 @@
 + [从零手写实现 nginx-01-为什么不能有 java 版本的 nginx?](https://mp.weixin.qq.com/s/994dQU_MP5auHfZBAWDpZg)
 + [Nginx优化篇——提升多核间的负载均衡（中）](https://mp.weixin.qq.com/s/LP2pfXpscByj5E8iiPFddg)
 + [Nginx的server_name匹配执行顺序](https://mp.weixin.qq.com/s/DvX1JjqhisCYqKslAsHb9w)
++ [Nginx高手秘籍：如何安全重启Nginx？](https://mp.weixin.qq.com/s/hpSX66EpsPp2OlRqia3CWA)
 
 ### wireshark
 

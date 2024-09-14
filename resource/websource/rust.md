@@ -21,6 +21,8 @@
 + [一个强大的rust库Tokio](https://mp.weixin.qq.com/s/JT-BtkhOLjgEa0w3JKzL-w)
 + [rust中的切片和go中的切片](https://mp.weixin.qq.com/s/cHpbc0MiRGtUwNU-yEHNMw)
 + [go和rust对比：函数和方法的异同](https://mp.weixin.qq.com/s/1FDg0dmiNYc8F82gukY8Tg)
++ [Rust vs Python：哪个更适合你？](https://mp.weixin.qq.com/s/dg6ZKac7S2Aga1BxMxa6Cw)
++ [从 Rust 开发者视角看 C++：优缺点大揭秘](https://mp.weixin.qq.com/s/Yo8wCALPm0HAEtti9MVyJQ)
 + [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
 + [Rust 开发者福音：国内镜像 rsproxy，让你的 Cargo 飞起来！](https://mp.weixin.qq.com/s/L5vqzfasZdlKJ1C7k0wzxw)
 + [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
@@ -36,6 +38,9 @@
 + [Rust 性能测试利器：Criterion.rs 让你的代码更快更强](https://mp.weixin.qq.com/s/MOId-suC-cZ-BWueIW9ikA)
 + [Rust 赋能前端: 视频抽帧](https://mp.weixin.qq.com/s/D4spIWh6yZmhIjW1tQwChw)
 + [rust实现字典树](https://mp.weixin.qq.com/s/HXsGou8EV8oCDHBZFAbJSg)
++ [rust线程间数据同步的几种姿势，让你的程序更高效](https://mp.weixin.qq.com/s/2kHK6SaLyXZUfYrdMUdgKQ)
++ [如何在Rust中使用UUID？](https://mp.weixin.qq.com/s/EPbHjRoQ6yxwr0JcRYUsYg)
++ [Rust 异步编程利器：tokio 运行时库](https://mp.weixin.qq.com/s/hqZus38grVHn3wknp3gdlw)
 
 # 框架
 

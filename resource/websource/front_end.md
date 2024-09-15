@@ -118,6 +118,7 @@
 + [React 的正确使用方法：ref 篇](https://mp.weixin.qq.com/s/KLbn3gFeT3r63_SobLy3eA)
 + [与 Vue 相伴四年，终究还是没抵住 React 的巨大诱惑](https://mp.weixin.qq.com/s/GkYKKlAyb5i2XnGOuNVzzg)
 + [聊一聊前端框架React：梳理其核心概念](https://mp.weixin.qq.com/s/M6v0rP3xcdbu89GRD73slw)
++ [React与Vue性能对比：两大前端框架的性能](https://mp.weixin.qq.com/s/HiDc_0OXhd0rwZno1pNbug)
 
 ### react native
 

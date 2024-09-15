@@ -115,10 +115,12 @@
 + [多线程时如何使用CPU缓存？](https://mp.weixin.qq.com/s/IN-8B_Hd8q2wT-9vOhaHJQ)
 + [一个例子搞懂CPU的工作原理](https://mp.weixin.qq.com/s/cIPCVgXMEMKlN3vI6KvrhQ)
 + [如何动手做出一个 CPU ？](https://my.oschina.net/u/4899581/blog/5242015)
++ [程序是怎么一步步变成机器指令的？](https://mp.weixin.qq.com/s/lDbLLp3Frhk9qYHG83bcuw)
 
 ### 并发
 
 + [基本功 | 一文讲清多线程和多线程同步](https://my.oschina.net/meituantech/blog/11585606)
++ [性能优化之对CPU密集型任务使用并行性，对I/O密集型任务使用 async/await](https://mp.weixin.qq.com/s/gsJhDhuLtxwWCuh88fidbg)
 
 ## 内存
 
@@ -179,6 +181,7 @@
 + [token是用来鉴权的，那session是用来干什么的？](https://mp.weixin.qq.com/s/kRcpSEwrKvxvQM-6gjkZmg)
 + [分布式RPC和HTTP区别详解(5大核心区别)](https://mp.weixin.qq.com/s/6gSfqOvoeFbLIfZtzK43BA)
 + [探索 multipart：文件传输的新境界！](https://mp.weixin.qq.com/s/i6tps8T_eanr86WQD8U4hQ)
++ [一文掌握http和https关键的知识点](https://mp.weixin.qq.com/s/-9QN_2vPQFJt6cGxC3MMOg)
 
 #### CORS
 
@@ -212,6 +215,7 @@
 
 + [UDP报文结构详解：一篇文章带你搞懂](https://mp.weixin.qq.com/s/YxbnmQcovKCjziPEIlOBaQ)
 + [【网络】TCP、UDP数据包大小的限制](https://mp.weixin.qq.com/s/ir14xyUFe2uy_KL2B7BlOw)
++ [字节一面：TCP 和 UDP 可以使用同一个端口吗？](https://mp.weixin.qq.com/s/xSqHlYSbdMBTzIcHX4QleA)
 
 ### nginx
 

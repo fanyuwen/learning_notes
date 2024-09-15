@@ -3,6 +3,7 @@
 ## gRPC
 
 + [一张图看懂gRPC服务端消息接入流程](https://mp.weixin.qq.com/s/u6OvQCd8r9hopqnQxkvWAA)
++ [浅谈gRPC网关的泛化调用](https://mp.weixin.qq.com/s/EtzjR9VM4yEJaIiioRkepw)
 
 ## Dubbo
 

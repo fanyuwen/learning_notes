@@ -112,6 +112,7 @@
 + [4个 Python 时间模块揭秘：让你的时间处理不再是难题！](https://mp.weixin.qq.com/s/4Ia1W7Hc9n0hAp3uqE2YOw)
 + [Requests库详细介绍](https://mp.weixin.qq.com/s/w2E0SUd_zpdgnIFDQfqfWA)
 + [python输入输出知识点及用法讲解](https://mp.weixin.qq.com/s/cgsIqvc-4l2Koaz4HhN90w)
++ [掌握Python configparser模块的核心功能](https://mp.weixin.qq.com/s/_43LDI_7bF9W3TDyjhABOA)
 
 ### 异步/多线程
 
@@ -276,6 +277,7 @@
 + [Streamlit：使用 Python 快速开发 Web 应用](https://mp.weixin.qq.com/s/hz-3a3FvmiaLto9vqJUBuA)
 + [pkgLavanya，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/nNh6z0dLKqOIA0jRqQkzVw)
 + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
++ [Python初探：modelbox库的入门到实践](https://mp.weixin.qq.com/s/TRknx6spsz877aXcLQI6Qg)
 + [pdfminer ，一个最最强大的Python库，解锁pdf无限可能](https://mp.weixin.qq.com/s/A1eHEw3slSyvPELxFs0Olw)
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
@@ -285,6 +287,7 @@
 + [Hydra，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/CB9wTVgnz3ksrlyuS_MjCw)
 + [agi-pack，一个牛逼的python库](https://mp.weixin.qq.com/s/OIx3AnqDqb2CgapDPJEe_Q)
 + [RQ ，一个超级强大的Python库](https://mp.weixin.qq.com/s/bfDfIu5cDX-SBgY57R1Y_Q)
++ [Chardet，一个牛逼的python库](https://mp.weixin.qq.com/s/1XgusiaoIdjJydsW1-Wd1g)
 + [Mingus，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/JRcoQapdWkQ3fHTN-CFVNA)
 + [AutoMapper，一个最牛逼的Python库](https://mp.weixin.qq.com/s/aShjr1tMFmVvizbphU_eHA)
 + [Msgspec —— 一个永不熄灭的 Python 库](https://mp.weixin.qq.com/s/8b-315GtQBxqYqmBbVhAiw)
@@ -293,11 +296,14 @@
 + [RQ (Redis Queue)：用Redis实现的简单且强大的队列系统](https://mp.weixin.qq.com/s/IzaCVpG_Ltq8GixZXkEi4Q)
 + [ZODB，一个最牛逼的Python库](https://mp.weixin.qq.com/s/M4nxySrW2MrekygbELcbxA)
 + [xonsh，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/zXb94RLC5Ejv_l8Yoo0oWQ)
++ [Pydantic，世界最牛逼的Python库](https://mp.weixin.qq.com/s/2hkIl7pEw-BcanI3BoX_kg)
++ [dbd，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/qYKk_-aH0wyan0MjUf_KgA)
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
 + [Faust，一个超级强大的Python库](https://mp.weixin.qq.com/s/vhS59u-U7EVKpnoePoMN1g)
 + [dramatiq，一个超强的 Python 库！](https://mp.weixin.qq.com/s/RJLSGMEd4BU9gTNXHyIe2Q)
 + [Vispy，一个牛逼的python库](https://mp.weixin.qq.com/s/2us7inp6IdEsJElZuSOTJg)
 + [LC-package，一个Python中有用的库](https://mp.weixin.qq.com/s/QauNDp9LbIF3SIPVJ9nv7Q)
++ [doctest,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/jG8t8-lfumJqT6OEnmlW2w)
 + [dateutil，一个有趣的 Python 库！](https://mp.weixin.qq.com/s/ObuL3Behe-ajFVqa7fntMQ)
 + [Dnspython，一个牛逼的python库](https://mp.weixin.qq.com/s/msCeJMGcMCOmNl6rWa8keQ)
 + [rauth，一个超级强大的Python库](https://mp.weixin.qq.com/s/mXS7lebdr_4Oh1aAfpOXXA)

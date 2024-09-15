@@ -48,6 +48,7 @@
 + [运维Docker：高效管理容器化应用的秘诀](https://mp.weixin.qq.com/s/cbGj29R0shN6294pwpIJCA)
 + [【好玩儿的Docker项目】保存网页、稍后阅读，自建 Wallabag 服务，搭配RSS使用更佳！](https://mp.weixin.qq.com/s/aBgXsyJhj39QsrAae87FsQ)
 + [今天让你对 Docker 的了解多一点点 | 你管这破玩意叫云原生](https://mp.weixin.qq.com/s/RvEeOIYC75GJPHw0QhOfDw)
++ [Docker镜像文件太大？不妨试试多阶段构建](https://mp.weixin.qq.com/s/CZprDzBJHImr9yn276SMkw)
 
 ## podman
 
@@ -78,6 +79,7 @@
 + [学习 Kubernetes 源码的过程中，我沉淀的笔记方法](https://mp.weixin.qq.com/s/2yIIlDiuFO7fApAPtBTkEg)
 + [从 Kubernetes 源码中学会怎么写好变量名和注释](https://mp.weixin.qq.com/s/ukKupwn7SnQkxgkXdkJ2OA)
 + [通过写 Kubernetes 专栏，我不断在进化](https://mp.weixin.qq.com/s/NM_oTPuy_r3ibh7AHdb5Bw)
++ [Kubernetes 网络介绍（九）](https://mp.weixin.qq.com/s/gcmagEiANIc6jfM8ty_BiA)
 
 ## Prometheus
 

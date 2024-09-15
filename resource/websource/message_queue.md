@@ -73,6 +73,7 @@
 + [RocketMQ是如何做到每秒上十万QPS的超高吞吐量读取的？](https://mp.weixin.qq.com/s/087xHdloB9dDZC-8jeNX2g)
 + [电商项目消息队列技术选型：RocketMQ的选择与考量](https://mp.weixin.qq.com/s/Xk1BhjlUivt4uY8rNX2U5Q)
 + [RocketMQ 死信队列：原理、应用场景及常见面试题](https://mp.weixin.qq.com/s/SS055zqcpQF20ebZLUdKRw)
++ [RocketMQ 实现消息幂等性攻略及常见面试题解析](https://mp.weixin.qq.com/s/mnHxT2kdVsG6kp3jhmxcAQ)
 
 # RABBITMQ
 

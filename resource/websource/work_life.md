@@ -320,6 +320,7 @@
 + [程序员必读书单推荐](https://mp.weixin.qq.com/s/ktXV4SFKBPqdAkkRpHHVVA)
 + [9本相见恨晚的“计算机”好书](https://mp.weixin.qq.com/s/DfAJbbrLRio7FAETQNDSag)
 + [《量化绿皮书》Chapter 7 Algorithms and Numerical Methods 算法与数值方法（一）](https://mp.weixin.qq.com/s/3K7z9Oxq1yeW13_FXXQx0A)
++ [书籍推荐：数据结构与算法图解](https://mp.weixin.qq.com/s/64P8802GqXwW5hS860yZiA)
 
 ### 生活
 

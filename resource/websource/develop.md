@@ -101,6 +101,7 @@
 + [微服务架构中的通信风格](https://mp.weixin.qq.com/s/-X75FChGAQ359JarczOYxQ)
 + [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/KSR_w6VPP9FAK8-z_nvsfw)
 + [为什么微服务一定要有网关？](https://mp.weixin.qq.com/s/t7w7TRsgRR-6HyuZIr-G-w)
++ [微服务重构：Mysql+DTS+Kafka+ElasticSearch解决跨表检索难题](https://mp.weixin.qq.com/s/izd_EOP9Wf-TUnG21NXUdA)
 
 # 分布式
 
@@ -158,6 +159,7 @@
 + [面试官：用过分布式事务吗？](https://mp.weixin.qq.com/s/UY96W2XorrJ32-et07iMig)
 + [腾讯二面，被分布式事务疯狂拷打~](https://mp.weixin.qq.com/s/fHqtMK4BKDH7VOguI2266g)
 + [分布式事务设计与实践](https://mp.weixin.qq.com/s/6ISxP0cwHRWwIiRchfGYbQ)
++ [分布式系统中的三阶段提交协议（3PC）实现（Java中使用Spring Boot实现)](https://mp.weixin.qq.com/s/ppclZQAeER2TlPRhhLXo4Q)
 
 ## 分布式算法
 
@@ -231,6 +233,7 @@
 + [腾讯电商部门二面：如何保证幂等性？](https://mp.weixin.qq.com/s/H7BVtBJiy9GvQyDPpGqyUQ)
 + [通用框架实践｜Pipeline设计+幂等重试](https://mp.weixin.qq.com/s/bBZFDx6WwRfTnfQS08Mesg)
 + [美团面试官：订单重复支付，如何解决？有点懵](https://mp.weixin.qq.com/s/zU0WFziKSQA28SLOZ_5d-A)
++ [如何保证接口幂等性 ？高并发下的接口幂等性如何实现 ？](https://mp.weixin.qq.com/s/irLRi-yZyZ1e9kHUPV7CVg)
 
 ### 负载&限流
 
@@ -321,6 +324,7 @@
 + [你的登录接口真的安全吗？](https://mp.weixin.qq.com/s/xmV54gessRisVQuD5SMQEQ)
 + [网关系统就该这么设计（万能通用），稳的一批！](https://mp.weixin.qq.com/s/bC5F0eVDc7CHi0s7_Ed1Mg)
 + [信息安全，加密（encrypt）和签名（sign）是两回事](https://mp.weixin.qq.com/s/fWh5xzWAs1MdodpM-HdThg)
++ [AES加解密算法的原理和应用与安全性解析](https://mp.weixin.qq.com/s/B3Up_ZzXmzGcJe5wVdbWvQ)
 
 ### 鉴权
 
@@ -361,6 +365,7 @@
 + [前后端数据传输约定探讨](https://my.oschina.net/u/4090830/blog/11407609)
 + [高效组件的设计与封装之道](https://mp.weixin.qq.com/s/Tm4O-YuVesjbzNMDu9CQDQ)
 + [模块化代码 - 实例简介](https://mp.weixin.qq.com/s/sHV9ebMZ4Ns1CH78nntIFA)
++ [一款完全开源的基于SpringBoot、Spring Security、Jwt、Vue的前后端分离的后台管理系统](https://mp.weixin.qq.com/s/9RAJ9VLCTbI8Pr6H1LA5og)
 
 # 测试相关
 
@@ -440,6 +445,10 @@
 
 + [正则表达式：破解文本世界的终极密码](https://mp.weixin.qq.com/s/bWY56d3bWP0ij2LcYC31Hg)
 
+### 序列化
+
++ [5大序列化方式详解(非常全面总结)](https://mp.weixin.qq.com/s/L3JltITGAJXnloloW9iS1A)
+
 ### UUID
 
 + [UUID 和 UUID v7](https://mp.weixin.qq.com/s/xqu-143w1ae1QgZYH7GcUQ)
@@ -482,6 +491,7 @@
 + [Git 不能只会 pull 和 push，试试这5条提高效率的命令吧！](https://mp.weixin.qq.com/s/Ie0jjW6zmU_3i8geUKAvDQ)
 + [Git 核心概念一览：仓库、协议、原理、服务器搭建全解析](https://mp.weixin.qq.com/s/3FK7Htmo09USo9YwE7rbWg)
 + [大厂都在用的Git代码管理规范](https://mp.weixin.qq.com/s/Th6yZEVzVGoGMvg3BJBKjQ)
++ [掌握 Git 分支策略：提升你的版本控制技能](https://mp.weixin.qq.com/s/rO7v8TJIY1rmRqGgZA_pbQ)
 
 ### 编程范式
 

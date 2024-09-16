@@ -70,6 +70,7 @@
 ### 网络
 
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
++ [Linux内核常见的网络丢包场景分析](https://mp.weixin.qq.com/s/vdW0L7nEdfrxSJ_9VGviaA)
 
 ### 命令
 
@@ -89,6 +90,7 @@
 + [free命令看内存容量不一致的原因。](https://mp.weixin.qq.com/s/CUedqniPUPWasbIL1oxAsA)
 + [写一段监控CPU、内存、磁盘的bash脚本](https://mp.weixin.qq.com/s/DQJcFuTMnY2pmuOz9zQG_Q)
 + [linux命令之wget](https://mp.weixin.qq.com/s/fgw2XCYghaydRXaILhTaaw)
++ [【超详细】后端和运维必会30个Linux命令解说：scp](https://mp.weixin.qq.com/s/CQLTbf-SOLC79m6zpc271A)
 
 ### 发行版信息
 
@@ -245,6 +247,7 @@
 + [Nginx优化篇——提升多核间的负载均衡（中）](https://mp.weixin.qq.com/s/LP2pfXpscByj5E8iiPFddg)
 + [Nginx的server_name匹配执行顺序](https://mp.weixin.qq.com/s/DvX1JjqhisCYqKslAsHb9w)
 + [Nginx高手秘籍：如何安全重启Nginx？](https://mp.weixin.qq.com/s/hpSX66EpsPp2OlRqia3CWA)
++ [Nginx 负载均衡](https://mp.weixin.qq.com/s/9P5yq0obCvtfLNIUacIXjw)
 
 ### wireshark
 

@@ -90,6 +90,7 @@
 + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
 + [一款超好用的国产Redis可视化工具，高颜值UI ，真心YYDS](https://mp.weixin.qq.com/s/gpomm0xQf-shNFYZi_n_NA)
 + [别再写代码测试并发了，太 Low！模拟并发的 4 种方法，还有谁不会？？](https://mp.weixin.qq.com/s/5w0-sF7SprmEni-18GpH9g)
++ [程序员进阶架构知识体系、开发运维工具使用、Java体系知识扩展、前后端分离流程详解、设计模式开发实例汇总专栏分享](https://mp.weixin.qq.com/s/d-n58SnRED3-il8aDNJNjw)
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [Redis 官方可视化工具，高颜值，功能真心强大！](https://mp.weixin.qq.com/s/n_7C4dxSSv_1x7ZuEs7wQg)
@@ -218,6 +219,7 @@
 + [安卓启动器Nova几乎凉了](https://mp.weixin.qq.com/s/oWL4ngLE4sND0GAnxCXiUw)
 + [2024年前端状态管理工具大盘点](https://mp.weixin.qq.com/s/tiqoaTeMf48h13xDD-qBUQ)
 + [云端风暴：网易云故障背后的危机管理与技术复盘](https://mp.weixin.qq.com/s/XY_O5rtABwlGHpsPBIYkVQ)
++ [Android 全力押注 Rust，Linux 却在原地踏步？谷歌：用 Rust 重写固件太简单了！](https://mp.weixin.qq.com/s/HCPNsVKGbmuSfD00S0cXxQ)
 
 ## 有用趣闻知识
 
@@ -249,6 +251,8 @@
 + [闲鱼上卖源码的都是程序员吗？](https://mp.weixin.qq.com/s/u-_OBfqw5lhzY7g7KlbCOw)
 + [为什么很多程序员讨厌低代码？](https://mp.weixin.qq.com/s/46oJWAO1OrWDzUqjD-g7Kg)
 + [要低代码，不要低能力，低代码工具能否成为企业增效神器？](https://mp.weixin.qq.com/s/ImwTa5DIy5bUWwaCrGn1JQ)
++ [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/O2FoDZ47KoHzP34-i8dEjA)
+
 
 ## 创业
 

@@ -280,6 +280,7 @@
 + [我使用缓存，踩过的7个坑](https://mp.weixin.qq.com/s/TyEYbUEHWrqGJ98xa4VIsA)
 + [缓存预热有哪些方案？](https://my.oschina.net/lenve/blog/15640082)
 + [二级缓存架构极致提升系统性能](https://mp.weixin.qq.com/s/R_Qg0N46OkFm_eLAq_UZLw)
++ [缓存雪崩/穿透/击穿/失效原理图/14种缓存数据特征+10种数据一致性方案](https://mp.weixin.qq.com/s/gAH9bS0FLm9y5o5iB8BUHA)
 
 ## 优化
 
@@ -430,6 +431,8 @@
 + [业务系统存储设计](https://mp.weixin.qq.com/s/zBy2ungNiiFb6hwiNRRltg)
 + [系统设计，建议做好这 10个权衡！](https://mp.weixin.qq.com/s/O8R-yNjdC0QgdOTpGCX8zA)
 + [如何实现同一端口代理不同的后端服务](https://mp.weixin.qq.com/s/AT74UG5RfNLLV88XKmuX2g)
++ [3分钟理清QPS、TPS、RT、吞吐量以及它们直接的关系](https://mp.weixin.qq.com/s/t3v4HfL26Hvh-fnYI83b_w)
++ [QPS多少才算高并发(看这篇就够了)](https://mp.weixin.qq.com/s/2L1L_XobHz-z6TRuPtQirw)
 
 ## 领域知识
 

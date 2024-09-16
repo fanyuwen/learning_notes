@@ -17,10 +17,12 @@
 
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)
 + [Promise：为什么没有取消？](https://mp.weixin.qq.com/s/DlQih-HI5v74jIOk3ny_7w)
++ [前端并行任务的艺术：掌握Promise的并行处理](https://mp.weixin.qq.com/s/mvICiwOAX5xWSu4-U9-bLQ)
 + [掌握JavaScript的异步编程，让你的代码更高效](https://mp.weixin.qq.com/s/inr5-84fn-0LC4_le5c3QA)
 + [建议使用 for of 循环？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/LXbW8bRcZEuXa0JvxjJzjQ)
 + [JavaScript 的模板字符串](https://mp.weixin.qq.com/s/5AX2nl_YNE-EwXsbC9wGuA)
 + [所有主流浏览器都支持新的 JavaScript 集合方法](https://mp.weixin.qq.com/s/qQRrP80oLgqDtAyPb0q9iw)
++ [掌握async 和 await：现代 JavaScript 异步编程的艺术](https://mp.weixin.qq.com/s/gLFYvBYRhtOpBT8P3Hct9Q)
 
 ### 底层
 
@@ -163,6 +165,7 @@
 
 # 杂谈
 
++ [随笔｜妄谈前端架构-----技术，要选最合适的！](https://mp.weixin.qq.com/s/iMOi8ZhRSGq13tK-53cBog)
 + [深入理解 Babel - 微内核架构与 ECMAScript 标准化｜得物技术](https://my.oschina.net/u/5783135/blog/15671421)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [当前端谈数据时，我们在谈些什么](https://my.oschina.net/u/4662964/blog/12380685)

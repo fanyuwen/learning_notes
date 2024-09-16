@@ -21,12 +21,14 @@
 + [数据结构详解精练：二叉树、树、森林之间的转换](https://mp.weixin.qq.com/s/tBbhLBAI804rowSAkLv-Hg)
 + [数据结构与算法（十五） 从局部解到全局解——动态规划和贪心算法](https://mp.weixin.qq.com/s/S0J55P4J3bySl-gbxIZ1Fg)
 + [每个程序员都应该知道的十大高级数据结构：彻底改变您的代码](https://mp.weixin.qq.com/s/7d0a3rn3Fm03uQyqgwpsKw)
++ [数据结构与算法——从入门到精通全攻略](https://mp.weixin.qq.com/s/OQEQvtoLAh8ushjyDCxjEg)
 + [重温数据结构与算法之并查集](https://mp.weixin.qq.com/s/GRQtGuZMYK-e6Cdqmh1fow)
 + [重温数据结构与算法之前缀和](https://mp.weixin.qq.com/s/cVcHr76SkbL-crDdvW2Xew)
 + [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 + [8 个程序员都必须知道的常见数据结构](https://mp.weixin.qq.com/s/aCogl93rpI2mU2wyDTlnLQ)
 + [什么是树？为什么有二叉树还需要红黑树？+手写红黑树代码](https://mp.weixin.qq.com/s/DDhAl3deFBew9XMX1J433Q)
 + [数据结构算法练习(二)](https://mp.weixin.qq.com/s/3rNUx-I_QnBIuMQ3AJQ8qg)
++ [把哈希表换成 tire 树，居然为公司省下了几千万](https://mp.weixin.qq.com/s/fcvk1GOdqytYLyGABuCmkw)
 
 # 密码学
 

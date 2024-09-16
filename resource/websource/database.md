@@ -152,6 +152,7 @@
 + [MySQL 中 truncate、delete、drop 的区别，你真的搞清楚了吗？](https://mp.weixin.qq.com/s/S--1PANvlpnSet4cMy-3sA)
 + [干货！解析binlog的三种实现手段](https://mp.weixin.qq.com/s/2C_AfPWMcWwkJKf6P07C8g)
 + [【收藏】MySQL 超全优化清单（可执行系列）](https://mp.weixin.qq.com/s/iFYBp6XVjjU0D4Z2TV-xSQ)
++ [MySQL 性能优化详解](https://mp.weixin.qq.com/s/ivRkrfO7jqE7NqsdfI9VUg)
 + [(十五)MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://mp.weixin.qq.com/s/jxbpxOAJdKKHKO7tt-A8FQ)
 + [MySQL 5.7 升级 8.0 后，排序规则问题解决方案汇总](https://my.oschina.net/actiontechoss/blog/11224386)
 + [提升性能与一致性：MySQL 5.7中的组提交与两阶段提交机制解析](https://mp.weixin.qq.com/s/f9kyEHy9_RRpijWhVSLTTA)
@@ -325,6 +326,10 @@
 ### SQLSERVER
 
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
+
+### SQLLite
+
++ [SQLite这么小众的数据库，到底是什么人在用？](https://mp.weixin.qq.com/s/QpXp6EL6PNcrXVedbBDbMw)
 
 ### DuckDB
 
@@ -521,6 +526,7 @@
 + [分布式计算框架详解(4大主流分布式框架)](https://mp.weixin.qq.com/s/HJm5gXIV2_j5c43y0kmf0w)
 + [Apache NiFi：数据流动的大师，打造灵活数据管道的秘诀](https://mp.weixin.qq.com/s/I9PpToZF7u1mAh4TBOzIGg)
 + [Hadoop生态系统 -- Hive](https://mp.weixin.qq.com/s/UgPh8Qadka00p0ZoBGW69Q)
++ [如何优雅的规划数仓架构](https://mp.weixin.qq.com/s/mBklcW_GkV9atrlEPDM8JQ)
 + [大数据存储选型-doris安装和部署](https://mp.weixin.qq.com/s/_ThbW0wxp0V0Q2AGDu9D2g)
 
 ## flink

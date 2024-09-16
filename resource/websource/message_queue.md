@@ -27,6 +27,7 @@
 # KAFKA
 
 + [一文搞懂 Kafka consumer 与 broker 交互机制与原理](https://my.oschina.net/u/6990971/blog/11049751)
++ [7k Star，一款开源的 Kafka 管理平台，功能齐全、页面美观！](https://mp.weixin.qq.com/s/q3a-pC1zXs02msoYl2y-HQ)
 + [Kafka高可用性指南：提高数据一致性和集群容错能力！](https://mp.weixin.qq.com/s/1BSRATbb_k7sUDE60snpbg)
 + [Kafka消费端怎样保证消息不丢失？真正的处理方式其他文章中竟然没有见过](https://mp.weixin.qq.com/s/FmbJsGoXW24o1xXsqQ--Fw)
 + [Kafka如何保证消息不被重复消费？](https://mp.weixin.qq.com/s/IrR-rFXlqU3-COmVkP-n3w)

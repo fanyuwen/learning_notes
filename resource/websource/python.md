@@ -239,6 +239,7 @@
 + [一日一技：如何正确保护Python代码](https://mp.weixin.qq.com/s/jsrgEOZlzsnaQOic0zUQRw)
 + [Python 内存管理探秘](https://mp.weixin.qq.com/s/tHURptJyC_OsVuTygRm7mg)
 + [网络安全：Python编写端口扫描器](https://mp.weixin.qq.com/s/d0dTgBQ3Xv2Q83dwIxeEOA)
++ [Python解决高中数学题，让学生娃更明白组合过程](https://mp.weixin.qq.com/s/koH7gMLCd-R4EGnZSTEggA)
 + [Python编写简单登录系统的完整指南](https://mp.weixin.qq.com/s/w2vPuqtekaon3Cqgy-QwDA)
 + [ovito库的多线程使用](https://mp.weixin.qq.com/s/BgYFz373pRATsXkLbfIoEg)
 + [Python Web开发（详细教程）](https://mp.weixin.qq.com/s/-54nofOKRHSk7sn_Yt_aaQ)
@@ -247,6 +248,8 @@
 + [数据库操作太复杂？Python Shelve模块让你轻松存储，一键搞定！](https://mp.weixin.qq.com/s/C-nXqxzbkYKjNgE2pVVluQ)
 + [Python运维开发基础--语法基础](https://mp.weixin.qq.com/s/y8vrgG9Y2NZjk1a6gYG6jg)
 + [Python四大客户端开发技术库，PyQt6、PySide、Tkinter、Kivy的对比](https://mp.weixin.qq.com/s/C2TZBtjGv6tnbwRqWAsOTw)
++ [Python Scripts: 超过60个Python脚本，助您自动化地完成各种任务，提升工作效率](https://mp.weixin.qq.com/s/jZzqMsSJ4gHWIV18Abt_GQ)
++ [数据科学家必须掌握的12个Python功能](https://mp.weixin.qq.com/s/Dt81uU4KCUAawJjLQmVtww)
 
 ## 第三方库
 
@@ -284,6 +287,7 @@
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)
++ [Hypothesis，世界上最牛逼的Python库](https://mp.weixin.qq.com/s/ODkiqH0lJywRzESJHZr3OQ)
 + [Hydra，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/CB9wTVgnz3ksrlyuS_MjCw)
 + [agi-pack，一个牛逼的python库](https://mp.weixin.qq.com/s/OIx3AnqDqb2CgapDPJEe_Q)
 + [RQ ，一个超级强大的Python库](https://mp.weixin.qq.com/s/bfDfIu5cDX-SBgY57R1Y_Q)

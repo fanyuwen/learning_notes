@@ -228,6 +228,7 @@
 + [Nginx负载均衡配置详解(图文全面总结)](https://mp.weixin.qq.com/s/ruBYu8PttxxZRW7eWbLUEQ)
 + [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
 + [Nginx使用篇](https://mp.weixin.qq.com/s/-8B8FKRc_q0SRvhlnxfmoA)
++ [Nginx 进程详解](https://mp.weixin.qq.com/s/nJ5KDZaCXSYBXdqG2VdPLw)
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
 + [Nginx负载均衡最全详解(4大算法原理机制)](https://mp.weixin.qq.com/s/Upf_UNY-D_dj2u0kroD8IQ)
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)
@@ -249,6 +250,7 @@
 + [Nginx高手秘籍：如何安全重启Nginx？](https://mp.weixin.qq.com/s/hpSX66EpsPp2OlRqia3CWA)
 + [Nginx 负载均衡](https://mp.weixin.qq.com/s/9P5yq0obCvtfLNIUacIXjw)
 + [新手教学系列——用Nginx将页面请求分发到不同后端模块](https://mp.weixin.qq.com/s/1LER66xGRNfwD1w1JMumqw)
++ [腾讯面试：说一下Nginx的6大负载均衡策略 ？手写一下 权重轮询 ？](https://mp.weixin.qq.com/s/a7ZXpqNlwVqW0KDkBgq9XA)
 
 ### wireshark
 

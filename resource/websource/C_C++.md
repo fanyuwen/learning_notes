@@ -130,6 +130,7 @@
 + [imageproc，令人拍案叫绝的 C 语言图像处理库](https://mp.weixin.qq.com/s/qpgYMjh2pnWukYG-5nXNmw)
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 + [open与fopen的区别](https://mp.weixin.qq.com/s/kGc4VIcMu6SKx1hQr303xw)
++ [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
 
 ## verilog
 

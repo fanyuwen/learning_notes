@@ -120,6 +120,8 @@
 + [你不得不知道的这18个Java语法糖！](https://mp.weixin.qq.com/s/Ow-8P4f9kbnlIue8q0CmSw)
 + [java判断一天是工作日还是节假日？](https://mp.weixin.qq.com/s/npH2YO0k2sQkduUV24TvFA)
 + [Java中获取Class对象的三种方式](https://mp.weixin.qq.com/s/rHxRWJkefeqaA4HMVql9Tw)
++ [Java中如何高效地合并多个对象的List数据：方法与案例解析](https://mp.weixin.qq.com/s/Zszq8anSZ0fRpVTOJnBAGQ)
++ [java中反射（Reflection）的4个作用](https://mp.weixin.qq.com/s/CVq3eL4hPIhR0dgtaoZWgQ)
 
 ## 代码质量
 
@@ -160,6 +162,7 @@
 + [代码如诗，如此优雅的代码你能够写得出来吗？](https://mp.weixin.qq.com/s/dNRghKOHeiGgMFHM8naqcA)
 + [通过Java设计模式提高业务流程灵活性的策略](https://mp.weixin.qq.com/s/9ctBAsCYKSrsOUJ2wWKinQ)
 + [避免使用不必要的受检异常](https://mp.weixin.qq.com/s/jj-na9LIjnAgifzd2171JQ)
++ [只针对异常的情况才使用异常](https://mp.weixin.qq.com/s/JH7KTCr1eUZQUwATkHP9yg)
 
 # 底层
 
@@ -245,6 +248,7 @@
 + [使用new String("xianyu")语句在Java中会创建多少个对象？](https://mp.weixin.qq.com/s/UE0rpgO7eFeym2J1HpEh4Q)
 + [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
 + [区分使用运行时异常和受检异常](https://mp.weixin.qq.com/s/WYiJTtSXlARJg-epMQv0uw)
++ [【11期】谈谈对象的引用](https://mp.weixin.qq.com/s/cBImQcB009rlxu2bWTtJtQ)
 
 ## 源码
 
@@ -487,6 +491,7 @@
 + [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
 + [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
++ [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
 
 ### 新版本新特性
 
@@ -863,6 +868,7 @@
 + [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
 + [一文彻底玩转@RequestMapping，高级用法你未必知道](https://mp.weixin.qq.com/s/_upqOl_h406Z-ZOcJ24wgA)
 + [高效脱敏！SpringBoot 3.3使用JsonSerializer 和自定义SerializerModifier实现数据保护](https://mp.weixin.qq.com/s/ISGNj5T4Qx_czC7OExoe3w)
++ [发现 XSS 漏洞？别急，用这招 SpringBoot 技巧轻松搞定！](https://mp.weixin.qq.com/s/dLPziR52vfWVrd0noRMp1w)
 + [SpringBoot实战：SpringBoot 统一接口响应的正确格式](https://mp.weixin.qq.com/s/efex3S0M6wKd8r-HsDxPzQ)
 + [Spring Boot 实现自定义注解、反射与 AOP 动态修改请求参数](https://mp.weixin.qq.com/s/hyL-zGhtIxflHQw1pSQCKQ)
 + [使用 Spring Boot 3 + SpringDoc 实现系统在线接口的功能开发](https://mp.weixin.qq.com/s/eO9FQL9ycqKG2ezvegXBuQ)
@@ -938,6 +944,8 @@
 + [基于SpringBoot通过3种方式轻松搞定敏感字段加密处理](https://mp.weixin.qq.com/s/U23XfAdwyMfDRqE2KpxjoQ)
 + [SpringBoot中优化Undertow性能的方法总结](https://mp.weixin.qq.com/s/mzcTHVaJ4qRrTpkWEpNMIA)
 + [Spring Boot3.3 中最大连接数和最大并发数的优化与设置详解](https://mp.weixin.qq.com/s/4jZ5kyjWe-KAb1r7YuyYcA)
++ [借一古老技术考察你对SpringBoot掌握程度](https://mp.weixin.qq.com/s/KUnQTSBdXM9jkExsuRFv_A)
++ [Springboot内嵌的Tomcat，你了解多少呢？](https://mp.weixin.qq.com/s/NHKygs5crhRDu2hJ53_QSg)
 
 ##### VUE
 
@@ -954,7 +962,9 @@
 
 + [Spring Boot 3.2 新特性：JdbcClient](https://mp.weixin.qq.com/s/ZbQhjf1AXJdpRoMgsk04cw)
 + [SpringBoot3.32+Sharding Sphere5.5+Mybatis-plus：轻松搞定数据加解密，支持字段级！](https://mp.weixin.qq.com/s/1lpwQHwtyq2Ul3gJI9V_Bw)
++ [springboot3集成MyBatis-Plus(四)](https://mp.weixin.qq.com/s/kCIrehCbTG32CKxqv_SXXg)
 + [Spring Boot 整合 Redis：入门篇](https://mp.weixin.qq.com/s/QLR91bJstp-mNWsXhmCT7g)
++ [史上最强！Spring Boot 3.3 高效批量插入万级数据的多种方案](https://mp.weixin.qq.com/s/IlqbnVG_F5hnHMelA2V7Mg)
 + [详解 Spring Boot 的 RedisAutoConfiguration 配置](https://my.oschina.net/u/4526289/blog/11209334)
 + [Redis 和 SpringBoot 的绝佳组合：Lua 脚本的黑科技！](https://mp.weixin.qq.com/s/N8ILF4b1xh9DarjmFS4GFg)
 + [SpringBoot中使用Redis和Lua脚本实现延时队列](https://mp.weixin.qq.com/s/-oK42uZDVD4OIpg4cZlQZA)

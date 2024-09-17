@@ -3,6 +3,7 @@
 + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
 + [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
++ [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)
 + [Rust 新手必读：《Rust Fuzz Book》让你的代码更安全、更稳定](https://mp.weixin.qq.com/s/brVtrWee3YKZ3AJwwsmp4g)
 + [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
 + [Rust新手福音：常用Web框架大揭秘](https://mp.weixin.qq.com/s/BKa6zSDXmShsqePADu-0Lw)

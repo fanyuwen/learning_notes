@@ -24,7 +24,9 @@
 + [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
 + [如何在Python中优雅地处理复杂条件判断](https://mp.weixin.qq.com/s/UDU6CuuBV5pObqyMzEEpaQ)
 + [一文掌握Python全部条件执行语句（基础篇）](https://mp.weixin.qq.com/s/4XWcEXEKmZFwH8VJwzo_aw)
++ [Python条件控制技巧](https://mp.weixin.qq.com/s/E1OdHyCfJ2ccw6UbaTMoww)
 + [我后悔没有早点知道 Python中迭代的八个技巧](https://mp.weixin.qq.com/s/00wUlMWRerQVDw6uF4AtQA)
++ [foreach循环的解构赋值与序列迭代](https://mp.weixin.qq.com/s/2pN99zzGRO9YLAFSubX-aQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
 + [99% 的人都不知道，哪种 Python 循环最快？](https://mp.weixin.qq.com/s/_-aW6WPJxcO_mLLdGg2sYQ)
@@ -101,6 +103,7 @@
 + [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)
 + [Python切片的基础与高阶用法，很顶](https://mp.weixin.qq.com/s/9j0f3wKpGylw1pcTeQA5fQ)
 + [Python集合应用：10+个集合操作的实用案例](https://mp.weixin.qq.com/s/IIHYqF_7efNyr-vO9oyG5g)
++ [Python列表解析：10个让你代码更简洁的技巧](https://mp.weixin.qq.com/s/r8ZspJs5aZNlQDo-cQzRyw)
 + [45python re正则表达式](https://mp.weixin.qq.com/s/-HPFnF97V_7nQC8RpGqGPg)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 + [探索 Python 的强大工具箱：itertools 库](https://mp.weixin.qq.com/s/eVC5Y3JuerB4UOwUQ_DWyg)
@@ -288,6 +291,8 @@
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)
++ [Zipline，一个牛逼的python库](https://mp.weixin.qq.com/s/pgV1flDx4gFY3r8lfj1Cnw)
++ [TextBlob - 个Python中非常有用的库](https://mp.weixin.qq.com/s/DEHLB38-T0QU5uBILhjH8A)
 + [statsmodels，一个牛逼的python库](https://mp.weixin.qq.com/s/dzsT3MN4uTjjPEtxbszXyg)
 + [Vincent，一个超级强大的Python工具](https://mp.weixin.qq.com/s/iHF-d933Rhf9Gv6Cwr83bg)
 + [Hypothesis，世界上最牛逼的Python库](https://mp.weixin.qq.com/s/ODkiqH0lJywRzESJHZr3OQ)
@@ -454,6 +459,7 @@
 + [最强Python文档生成神器——Sphinx全解析](https://mp.weixin.qq.com/s/ruQnZ9Q6ENx31qaix54-wA)
 + [Python 命令行工具（argparse）——最强大且最好用的命令行参数解析器](https://mp.weixin.qq.com/s/H1ZzIp9zidSGdY5TFabf2A)
 + [Taipy：一个用Python 快速构建Web应用程序的利器，提供零代码工具](https://mp.weixin.qq.com/s/vcUKcL19ZSxrBi7eyu_ZyQ)
++ [Rope，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/rtRuHLEyYZIsooNf_nWtQw)
 
 ## 框架
 

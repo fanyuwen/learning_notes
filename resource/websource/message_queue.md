@@ -76,6 +76,8 @@
 + [电商项目消息队列技术选型：RocketMQ的选择与考量](https://mp.weixin.qq.com/s/Xk1BhjlUivt4uY8rNX2U5Q)
 + [RocketMQ 死信队列：原理、应用场景及常见面试题](https://mp.weixin.qq.com/s/SS055zqcpQF20ebZLUdKRw)
 + [RocketMQ 实现消息幂等性攻略及常见面试题解析](https://mp.weixin.qq.com/s/mnHxT2kdVsG6kp3jhmxcAQ)
++ [5分钟了解RocketMQ消息积压解决方案：增加消费者数量有用吗？常见面试题解析](https://mp.weixin.qq.com/s/djGeJVa3Zqt6RwfE8dT4SQ)
++ [从 RocketMQ 理解 Netty 网络编程技巧](https://mp.weixin.qq.com/s/pugj1uxHkyJw478KXI1YrQ)
 
 # RABBITMQ
 

@@ -144,6 +144,7 @@
 + [Redis分布式锁详解及电商秒杀功能示例](https://mp.weixin.qq.com/s/6lTgq7EhPqa66MonaN_ILA)
 + [图解 Redis 和 Zookeeper 分布式锁 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607785)
 + [企业级高可用分布式锁剖析](https://mp.weixin.qq.com/s/DnW-1ZTaWi8_Q5-maVyASA)
++ [说说你了解的分布式锁实现](https://mp.weixin.qq.com/s/ByniE88w2FWCeu_ngDnp2g)
 
 ## 分布式缓存
 
@@ -498,6 +499,7 @@
 + [Git 核心概念一览：仓库、协议、原理、服务器搭建全解析](https://mp.weixin.qq.com/s/3FK7Htmo09USo9YwE7rbWg)
 + [大厂都在用的Git代码管理规范](https://mp.weixin.qq.com/s/Th6yZEVzVGoGMvg3BJBKjQ)
 + [掌握 Git 分支策略：提升你的版本控制技能](https://mp.weixin.qq.com/s/rO7v8TJIY1rmRqGgZA_pbQ)
++ [Git换行符控制参数的使用](https://mp.weixin.qq.com/s/2s6X_JAdTvEOdWt3DrNwQA)
 
 ### 编程范式
 

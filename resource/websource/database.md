@@ -455,6 +455,7 @@
 + [面试官：你了解Redis的过期删除策略吗？Redis有哪些内存淘汰策略？](https://mp.weixin.qq.com/s/LbudIAKHuJURJWAxW8Sozg)
 + [【经典面试问题】redis为什么用单线程？](https://mp.weixin.qq.com/s/VLyQjVdJLmPmRkZS0VZ90g)
 + [Redis为什么这么快？](https://mp.weixin.qq.com/s/QMN5oCVO_7SHD7CnXWbpwA)
++ [Redis为何如此之快？揭秘高性能背后的秘密！](https://mp.weixin.qq.com/s/-B2mzKsy6EgriQhB4uwOSg)
 
 #### 分布式锁
 
@@ -531,6 +532,7 @@
 + [Hadoop生态系统 -- Hive](https://mp.weixin.qq.com/s/UgPh8Qadka00p0ZoBGW69Q)
 + [如何优雅的规划数仓架构](https://mp.weixin.qq.com/s/mBklcW_GkV9atrlEPDM8JQ)
 + [大数据存储选型-doris安装和部署](https://mp.weixin.qq.com/s/_ThbW0wxp0V0Q2AGDu9D2g)
++ [SQL成神之路｜Hive字符串函数不过如此](https://mp.weixin.qq.com/s/b_F35w78rhvsg-ti5lrRmw)
 
 ## flink
 

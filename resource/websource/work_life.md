@@ -327,6 +327,8 @@
 + [9本相见恨晚的“计算机”好书](https://mp.weixin.qq.com/s/DfAJbbrLRio7FAETQNDSag)
 + [《量化绿皮书》Chapter 7 Algorithms and Numerical Methods 算法与数值方法（一）](https://mp.weixin.qq.com/s/3K7z9Oxq1yeW13_FXXQx0A)
 + [书籍推荐：数据结构与算法图解](https://mp.weixin.qq.com/s/64P8802GqXwW5hS860yZiA)
++ [设计原本，架构师必读（新书上架，送福利）](https://mp.weixin.qq.com/s/PQa7YaPQgTXHSInuH2uTfQ)
++ [强推‼️人人都能看懂的算法入门书，建议翻烂它！](https://mp.weixin.qq.com/s/maBoR77sS-b2tLnslcd4Vg)
 
 ### 生活
 

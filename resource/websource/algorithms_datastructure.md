@@ -52,3 +52,4 @@
 + [排序链表 - LeetCode 热题 33](https://mp.weixin.qq.com/s/qbQo-0lFA7Y-TnkQqVqSnQ)
 + [合并 K 个升序链表 - LeetCode 热题 34](https://mp.weixin.qq.com/s/afuJiDHlnowOADeGJr43Kw)
 + [米哈游（原神）一面算法原题](https://mp.weixin.qq.com/s/TzrA4qRse5VSAU-GMdkpyA)
++ [华为笔试常考的算法题之LeetCode第二题](https://mp.weixin.qq.com/s/Y6tVzWRWvdkmsCs3yJuECQ)

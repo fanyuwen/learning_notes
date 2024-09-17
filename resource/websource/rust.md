@@ -4,6 +4,7 @@
 + [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
++ [Rust新手福音：常用Web框架大揭秘](https://mp.weixin.qq.com/s/BKa6zSDXmShsqePADu-0Lw)
 + [Rust 语言到底有哪些应用场景](https://mp.weixin.qq.com/s/UGyKuilAhYAWlujxSzhcCA)
 + [强大的开发组合——Rust加上嵌入式](https://mp.weixin.qq.com/s/HvtTKR3leiVz_Wp3bHXvuA)
 + [初探 Rust 语言与环境搭建](https://mp.weixin.qq.com/s/M0kBLA_J0duIG8a5GhHPsg)

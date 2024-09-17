@@ -256,6 +256,7 @@
 + [(十)全解MySQL之死锁问题分析、事务隔离与锁机制的底层原理剖析](https://mp.weixin.qq.com/s/41xsml22OfapunhRe9--Aw)
 + [(八)MySQL锁机制：高并发场景下该如何保证数据读写的安全性？](https://mp.weixin.qq.com/s/oftvkUBhRKAJg7miM2Y5Pg)
 + [MySQL 插入记录，主键索引冲突加什么锁？](https://my.oschina.net/actiontechoss/blog/15656435)
++ [MySQL 锁详解](https://mp.weixin.qq.com/s/0rKAxyH-hUskr4pKhmC9mw)
 
 #### 事务
 
@@ -452,6 +453,7 @@
 + [Redis为什么不直接使用C语言的string，而是重新造了个SDS ？](https://mp.weixin.qq.com/s/g-ySVxYeZmGF_8P2yuusgg)
 + [面试官：你了解Redis的过期删除策略吗？Redis有哪些内存淘汰策略？](https://mp.weixin.qq.com/s/LbudIAKHuJURJWAxW8Sozg)
 + [【经典面试问题】redis为什么用单线程？](https://mp.weixin.qq.com/s/VLyQjVdJLmPmRkZS0VZ90g)
++ [Redis为什么这么快？](https://mp.weixin.qq.com/s/QMN5oCVO_7SHD7CnXWbpwA)
 
 #### 分布式锁
 

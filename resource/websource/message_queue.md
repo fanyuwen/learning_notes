@@ -59,6 +59,7 @@
 + [推动机器学习：遇见Kafka，实时获取训练数据](https://mp.weixin.qq.com/s/2QHin0eXs3OHe-FmQIw8BA)
 + [Kafka 3.7.1 发布说明，小版本必升](https://mp.weixin.qq.com/s/-EIepFYU-3Sb0VAbPF8pVw)
 + [kafka的一个有趣问题（BUG）](https://mp.weixin.qq.com/s/VVPDz5rt-wsTC5n3jnAeVg)
++ [kafka 分布式的情况下，如何保证消息的顺序消费？](https://mp.weixin.qq.com/s/Cqc9UMW14BylIgVwoxljjg)
 
 # ROCKETMQ
 

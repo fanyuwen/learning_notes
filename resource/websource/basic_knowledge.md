@@ -248,6 +248,7 @@
 + [Nginx的server_name匹配执行顺序](https://mp.weixin.qq.com/s/DvX1JjqhisCYqKslAsHb9w)
 + [Nginx高手秘籍：如何安全重启Nginx？](https://mp.weixin.qq.com/s/hpSX66EpsPp2OlRqia3CWA)
 + [Nginx 负载均衡](https://mp.weixin.qq.com/s/9P5yq0obCvtfLNIUacIXjw)
++ [新手教学系列——用Nginx将页面请求分发到不同后端模块](https://mp.weixin.qq.com/s/1LER66xGRNfwD1w1JMumqw)
 
 ### wireshark
 

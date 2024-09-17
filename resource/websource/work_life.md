@@ -252,6 +252,7 @@
 + [为什么很多程序员讨厌低代码？](https://mp.weixin.qq.com/s/46oJWAO1OrWDzUqjD-g7Kg)
 + [要低代码，不要低能力，低代码工具能否成为企业增效神器？](https://mp.weixin.qq.com/s/ImwTa5DIy5bUWwaCrGn1JQ)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/O2FoDZ47KoHzP34-i8dEjA)
++ [公司招了个牛逼的架构师，把代码重构了一遍，代码问题少了一半，老板决定裁掉一半人。老油条慌了就联合起来把他搞走，并回滚到以前版本](https://mp.weixin.qq.com/s/m58sZg4N-CjnxyEjnGGByw)
 
 
 ## 创业

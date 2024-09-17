@@ -117,6 +117,7 @@
 + [通过Callable和Future缩短请求耗时](https://mp.weixin.qq.com/s/n0uWPwobQ-y1IWj7u7Mqpw)
 + [用标记接口定义类型](https://mp.weixin.qq.com/s/muVmDK3OHgnt96QSW1mRfQ)
 + [Java中将String转换为int的多种方法](https://mp.weixin.qq.com/s/9_z69b1T7XWMDZxpVdb4Eg)
++ [你不得不知道的这18个Java语法糖！](https://mp.weixin.qq.com/s/Ow-8P4f9kbnlIue8q0CmSw)
 
 ## 代码质量
 
@@ -240,6 +241,7 @@
 + [哎呦喂，原来Lambda 表达式底层原理这么简单啊？](https://mp.weixin.qq.com/s/Vma7XdQ2eIqZDfRv4gpf4w)
 + [使用new String("xianyu")语句在Java中会创建多少个对象？](https://mp.weixin.qq.com/s/UE0rpgO7eFeym2J1HpEh4Q)
 + [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
++ [区分使用运行时异常和受检异常](https://mp.weixin.qq.com/s/WYiJTtSXlARJg-epMQv0uw)
 
 ## 源码
 
@@ -392,6 +394,7 @@
 + [面试官：线程池核心线程设置为0时任务执行流程怎么样的](https://mp.weixin.qq.com/s/qFBuDB26h2zAFwEGhDQ6Dw)
 + [线程隔离浅析](https://my.oschina.net/OutOfMemory/blog/4282809)
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
++ [BlockingQueue 示例及使用场景](https://mp.weixin.qq.com/s/-OLHoAUTkK3jrOxwM0w6gg)
 + [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
 + [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
 
@@ -536,6 +539,7 @@
 
 + [Spring Batch 批处理框架，真心强呀！！](https://mp.weixin.qq.com/s/oKyaDHgi6A62Jv4FGZQpDg)
 + [SpringBatch高阶应用：大数据批处理框架实战指南s](https://mp.weixin.qq.com/s/U7DVthqRtaFv8x_AR-CyHA)
++ [批处理框架 Spring Batch 这么强，你真的会用吗？](https://mp.weixin.qq.com/s/1o9YFnV0LZj6Cx6wmkzp5Q)
 + [如何使用 Spring Data JPA 进行数据库访问？](https://mp.weixin.qq.com/s/mYc_QfdIbMGW2yxbQNbCoA)
 
 #### transaction
@@ -647,6 +651,7 @@
 + [SpringBoot实战：SpringBoot多租户配置与实现](https://mp.weixin.qq.com/s/GjiHzsdp5frm_SnNb1FwKw)
 + [SpringBoot实战：如何实现多端口监听](https://mp.weixin.qq.com/s/Tz9hdLsRKsBdJKnAGzc-3A)
 + [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
++ [掌握Spring Boot最佳途径！就该如此做](https://mp.weixin.qq.com/s/JjqZXqa35nANgcnGFQ25TA)
 + [14个SpringBoot优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/1KhaQYb1BYc6vUnGG2dyzQ)
 + [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
 + [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
@@ -850,6 +855,7 @@
 + [SpringBoot实战：解决跨域的5中方案](https://mp.weixin.qq.com/s/c9mYDg0jYXlN_Gxa0RsReQ)
 + [SpringBoot实战：实现接口签名验证](https://mp.weixin.qq.com/s/uX3OPR_EmTo3MmofQn_1cg)
 + [Spring Boot如何解决跨域问题？](https://mp.weixin.qq.com/s/zaElaIhbC7xmzf8fLi-AAg)
++ [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
 + [一文彻底玩转@RequestMapping，高级用法你未必知道](https://mp.weixin.qq.com/s/_upqOl_h406Z-ZOcJ24wgA)
 + [高效脱敏！SpringBoot 3.3使用JsonSerializer 和自定义SerializerModifier实现数据保护](https://mp.weixin.qq.com/s/ISGNj5T4Qx_czC7OExoe3w)
 + [SpringBoot实战：SpringBoot 统一接口响应的正确格式](https://mp.weixin.qq.com/s/efex3S0M6wKd8r-HsDxPzQ)
@@ -1152,6 +1158,7 @@
 + [注意了！mybatis中＜if＞条件判断，遇到带数字单字符有坑！](https://mp.weixin.qq.com/s/rJ51Ig1wTHK8fjMKUuMRsw)
 + [整理常见的Mybaits打印执行sql和耗时时间的方案](https://mp.weixin.qq.com/s/PEvyuhmnEA_CmNARQq4YjQ)
 + [别再手动拼接 SQL 了，MyBatis 动态 SQL 写法应有尽有，建议收藏！](https://mp.weixin.qq.com/s/4RaCEJbxoe8yjqWSBPax5A)
++ [MyBatis 延迟加载全攻略及常见面试题解析](https://mp.weixin.qq.com/s/Eu8KZgR1Z6er9EDY_NsFLg)
 + [Mybatis 注解开发](https://mp.weixin.qq.com/s/5atrR86i8nmTzAmCT1QEew)
 + [23个Mybatis注解：Mybatis架构分析与注解案例(必须收藏)](https://mp.weixin.qq.com/s/4PZgnu_tai4Vh4HfzVmfzw)
 + [MyBatis原理机制详解(附8大执行流程图解)](https://mp.weixin.qq.com/s/4glpXF31JjMcanwYpeMKug)
@@ -1163,6 +1170,7 @@
 + [Mybatis 框架下 SQL 注入攻击的 3 种方式，真是防不胜防！](https://mp.weixin.qq.com/s/ApZ6yIZ5-FaVDN5LS_ti4A)
 + [用过超过3个算我输！Mybatis动态SQL全解析](https://mp.weixin.qq.com/s/CkHqYip6ABXNaU6eL2Emlg)
 + [弃用 Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/LKvfTtG-RrqPm7P0qRta0w)
++ [MyBatis 一级与二级缓存介绍](https://mp.weixin.qq.com/s/YM1GXj_HauJENRtvb-C50Q)
 + [MyBatis如何调用存储过程？](https://mp.weixin.qq.com/s/YPZV6DauPeYSj7eWSK5PLQ)
 + [Mybatis拦截器实现字段加解密](https://mp.weixin.qq.com/s/u2-5vEG0z8M0ZDhQTqebhQ)
 + [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)

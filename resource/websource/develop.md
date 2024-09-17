@@ -441,6 +441,7 @@
 + [业务逻辑动态编排(MicroFlow微流框架)技术分享](https://mp.weixin.qq.com/s/_UQBQ1YAy02CGJQClkZGyw)
 + [行为树：心跳驱动VS事件驱动](https://mp.weixin.qq.com/s/p0F4fpYSUxpcMZ5Gc1qnaw)
 + [行为树：极限性能优化，心跳驱动反超事件驱动](https://mp.weixin.qq.com/s/qLTZXFvP8OOKP4VuxK6Xjw)
++ [行为树：事件驱动版实现](https://mp.weixin.qq.com/s/NWjuAsoNuUsy6837VvfDCw)
 
 ### JSON
 

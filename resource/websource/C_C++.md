@@ -30,6 +30,7 @@
 + [面试题：结构体可以直接赋值吗？](https://mp.weixin.qq.com/s/uOErofJXU2a1M9Ovj2W0uQ)
 + [Eigen ,一个强大的c++库](https://mp.weixin.qq.com/s/kYZOsYqcL6i3JVitX_Hw2A)
 + [C++ memory 内存管理](https://mp.weixin.qq.com/s/M2ezCaCuqeW-qKChmN2twA)
++ [【C-C++】memset方法的误区](https://mp.weixin.qq.com/s/udJTaO1HUV0CqR4A5akwgw)
 + [C++高端拓展库推荐](https://mp.weixin.qq.com/s/u5_eA3uYtkoeXX4bGXseAg)
 + [深入理解gRPC：C++高性能开源框架](https://mp.weixin.qq.com/s/qoIRjTh-e1NmSeX_62wDTA)
 + [Bullet Physics,一个交口称赞的库](https://mp.weixin.qq.com/s/udQQEvi-iIqbRwsuixtp0w)

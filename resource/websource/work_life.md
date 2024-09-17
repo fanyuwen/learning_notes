@@ -94,6 +94,7 @@
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
 + [Redis 官方可视化工具，高颜值，功能真心强大！](https://mp.weixin.qq.com/s/n_7C4dxSSv_1x7ZuEs7wQg)
++ [it-tools，让你的工作效率飞跃提升！](https://mp.weixin.qq.com/s/H2zdyUqQANEP2rwij2b4nw)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [实时监控 Linux 系统性能的强大开源工具](https://mp.weixin.qq.com/s/ejq-wLVeGfubk4ckn_uDJA)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)

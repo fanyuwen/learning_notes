@@ -227,6 +227,7 @@
 + [MySQL数据库Day16：实战演练](https://mp.weixin.qq.com/s/dxNZVk61plk61Fksf-OQ8A)
 + [MySQL数据库day14：内连接查询](https://mp.weixin.qq.com/s/zjWfsfKglIEtj5oOGCUHVQ)
 + [MySQL MVCC 原理](https://mp.weixin.qq.com/s/PJTJKHkI4ABdNU5bEHdsZQ)
++ [贝壳面试：什么是回表？什么是 索引下推 ？](https://mp.weixin.qq.com/s/YRWw15k5zvSlaESzXh1MtQ)
 
 #### 存储引擎
 

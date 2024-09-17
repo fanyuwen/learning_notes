@@ -118,6 +118,8 @@
 + [用标记接口定义类型](https://mp.weixin.qq.com/s/muVmDK3OHgnt96QSW1mRfQ)
 + [Java中将String转换为int的多种方法](https://mp.weixin.qq.com/s/9_z69b1T7XWMDZxpVdb4Eg)
 + [你不得不知道的这18个Java语法糖！](https://mp.weixin.qq.com/s/Ow-8P4f9kbnlIue8q0CmSw)
++ [java判断一天是工作日还是节假日？](https://mp.weixin.qq.com/s/npH2YO0k2sQkduUV24TvFA)
++ [Java中获取Class对象的三种方式](https://mp.weixin.qq.com/s/rHxRWJkefeqaA4HMVql9Tw)
 
 ## 代码质量
 
@@ -157,6 +159,7 @@
 + [java中普遍接受的命名惯例](https://mp.weixin.qq.com/s/-yn3xoe_1ZqLNe643c7jUg)
 + [代码如诗，如此优雅的代码你能够写得出来吗？](https://mp.weixin.qq.com/s/dNRghKOHeiGgMFHM8naqcA)
 + [通过Java设计模式提高业务流程灵活性的策略](https://mp.weixin.qq.com/s/9ctBAsCYKSrsOUJ2wWKinQ)
++ [避免使用不必要的受检异常](https://mp.weixin.qq.com/s/jj-na9LIjnAgifzd2171JQ)
 
 # 底层
 
@@ -514,6 +517,7 @@
 + [深入SpringMVC聊跨域问题的最佳实践](https://mp.weixin.qq.com/s/ssuYSidETCDVbAoX56S04Q)
 + [厕所二面：过滤器和拦截器有什么区别？](https://mp.weixin.qq.com/s/DmnNxmNUnUag_SzepPOjEQ)
 + [这是我见过写得最烂的Controller层代码，没有之一！](https://mp.weixin.qq.com/s/OgWIwtEq1rfDudivopEfQw)
++ [Java Spring Validation：自动与手动校验](https://mp.weixin.qq.com/s/SvXh4KyEQrax00za5Le6mg)
 
 ### concurrent
 
@@ -545,6 +549,7 @@
 #### transaction
 
 + [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/uaDvd_AEEgZlE6u2UomO3A)
++ [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
 + [探索Spring事务的迷宫](https://mp.weixin.qq.com/s/yDqUa35CMQayDOhjxpQWiQ)
 + [深入理解Spring框架中的声明式事务管理](https://mp.weixin.qq.com/s/yMN-QSkvEKRljmo8S7EYgw)
 + [事务中存在多线程，怎么处理？](https://mp.weixin.qq.com/s/UVH4WxWsoaDNfqdPOpV4fw)
@@ -869,6 +874,7 @@
 + [基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/IQ5WQg_UCpGz9jAkkuN8TA)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
 + [微服务鉴权设计：SpringBoot 3.x + OAuth2](https://mp.weixin.qq.com/s/4d0iMeNI3Vn1hJNlX34KWg)
++ [优雅处理 JSON 数据！Spring Boot 3.3 与 @JsonView 的完美结合](https://mp.weixin.qq.com/s/FelcdWUeZkPaRQ3AxADYHQ)
 + [Controller接口地址还能这样玩？](https://mp.weixin.qq.com/s/h4qNHoCLvRaGZQ4mkB-fRg)
 + [SpringBoot实战：springboot+screw 轻松生成数据库设计文档](https://mp.weixin.qq.com/s/Iv8Eu7wAvunvbuNpsa2hYg)
 + [SpringBoot实战：轻松实现接口数据脱敏](https://mp.weixin.qq.com/s/fydN-Mf6Eec82DEoh8teyA)
@@ -1055,6 +1061,7 @@
 + [强大！基于SpringBoot实现AOP的动态热插拔功能](https://mp.weixin.qq.com/s/hBVfCkbL0NQCaYb-qVQf0Q)
 + [强大！SpringBoot通过3种方式实现AOP切面，第三种方式性能极佳](https://mp.weixin.qq.com/s/Y5VhAD_tm6HXWLl13v_NCA)
 + [Spring Boot如何集成AOP？](https://mp.weixin.qq.com/s/PI8V6KgGDve9T7hrNjpjWQ)
++ [Spring Boot和AOP将API输入输出数据存入数据库](https://mp.weixin.qq.com/s/CIA8lGkhk_6D5XgJHkKRzQ)
 
 #### SPI
 
@@ -1175,6 +1182,8 @@
 + [Mybatis拦截器实现字段加解密](https://mp.weixin.qq.com/s/u2-5vEG0z8M0ZDhQTqebhQ)
 + [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
 + [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
++ [Mybatis源码之各组件原理](https://mp.weixin.qq.com/s/YUxmIBSy7cNvyGzK8CNubw)
++ [MyBatis的安全小坑：#{}与${}：深度解析及实战建议](https://mp.weixin.qq.com/s/eoVJm9LKsfBvXXiSpuHfAw)
 
 ### plus
 

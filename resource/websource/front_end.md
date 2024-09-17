@@ -166,6 +166,7 @@
 # 杂谈
 
 + [随笔｜妄谈前端架构-----技术，要选最合适的！](https://mp.weixin.qq.com/s/iMOi8ZhRSGq13tK-53cBog)
++ [网页通知设计灵感：CSS 和 JS 的 8 大创意实现](https://mp.weixin.qq.com/s/YKZsncPpRbm6sQeeqfdhZg)
 + [深入理解 Babel - 微内核架构与 ECMAScript 标准化｜得物技术](https://my.oschina.net/u/5783135/blog/15671421)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [当前端谈数据时，我们在谈些什么](https://my.oschina.net/u/4662964/blog/12380685)

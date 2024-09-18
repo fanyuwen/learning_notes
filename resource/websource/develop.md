@@ -217,6 +217,7 @@
 + [所有 CRUD 程序员，都应该知道的 CQRS 架构！](https://mp.weixin.qq.com/s/17wlFJ9Thgeva6qrbTO2Tw)
 + [实战：单点登录的两种实现方式](https://mp.weixin.qq.com/s/C41It8I6Ao_3vPz6MPBxTA)
 + [详解！三种灾备演练步骤方式](https://mp.weixin.qq.com/s/lL9Ggyr4ESZa9jXvkfnU0A)
++ [点赞收藏功能该如何设计？](https://my.oschina.net/lenve/blog/15708385)
 
 ## 功能
 

@@ -434,6 +434,7 @@
 + [从本地到云端：看Redis如何降本增效](https://mp.weixin.qq.com/s/jdRVywEZjk1xIrNSf_OgKg)
 + [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/PXan1kxHBWIfgUwU7TZILw)
 + [Redis 持久化的秘密：面试必知技巧与解析](https://mp.weixin.qq.com/s/-f7XfFgUc_z6_AVJ54XhZQ)
++ [使用 Redis 时不可原谅的几个低级错误](https://my.oschina.net/lenve/blog/15670941)
 
 #### 原理
 

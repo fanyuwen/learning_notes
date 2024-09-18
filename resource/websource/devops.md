@@ -52,6 +52,7 @@
 + [代码变更风险可视化系统建设与实践](https://my.oschina.net/meituantech/blog/10112803)
 + [B站直播的极速排障建设-全链路Trace追踪](https://mp.weixin.qq.com/s/gpPauu9gNzsJmrOfZjt5ig)
 + [一种简化操作日志记录的方案，舒服了~](https://mp.weixin.qq.com/s/0iI_fRV5RnIOLIFpb6YBOQ)
++ [可观测性与传统监控的区别和联系](https://my.oschina.net/morflameblog/blog/15316524)
 
 ## 问题排查
 

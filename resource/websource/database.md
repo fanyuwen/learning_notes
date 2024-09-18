@@ -185,6 +185,7 @@
 + [MySQL的并发控制 一文读懂！](https://mp.weixin.qq.com/s/i0sHHXAVj7wEAaezvd_-bQ)
 + [浅聊 Bin Log、Redo Log、Undo log](https://mp.weixin.qq.com/s/0NIGaN1lcI1_ZBOAnHmk_g)
 + [浅聊count(1)、count(*) 与 count(列名) 的区别](https://mp.weixin.qq.com/s/VhmYnN69v3JCeipSQ6Q9xQ)
++ [从源码角度，深度解读 MySQL 优化器的 GROUP BY 优化策略](https://my.oschina.net/u/4526289/blog/15876090)
 + [简聊limit 0,100和limit 10000000,100一样吗](https://mp.weixin.qq.com/s/DYR0JwZzi1AUHBBGAQp5dA)
 + [MySQL中insertOrUpdate的功能如何实现的](https://mp.weixin.qq.com/s/NZYlqenUzdvm32HTEzeShg)
 + [对线面试官-CHAR和VARCHAR了解嘛，区别是什么](https://mp.weixin.qq.com/s/Ria2o1FBVJwBbCh6ydUiZw)
@@ -504,6 +505,7 @@
 + [【Apache Doris】数据副本问题排查指南](https://mp.weixin.qq.com/s/KzK0Gx1m8Z-1qZbyY1ZtlQ)
 + [计算效率提升 30 倍、存储资源节省 90%，雨润集团基于 Apache Doris 的统一实时数据仓库建设实践](https://mp.weixin.qq.com/s/UUUaDHjIShO540RNXpzUjw)
 + [基于 Apache Doris 的实时/离线一体化架构，赋能中国联通 5G 全连接工厂解决方案](https://mp.weixin.qq.com/s/mk0mrjfrvtNZv35hpJDdJA)
++ [查询性能提升 10 倍、存储空间节省 65%，Apache Doris 半结构化数据分析方案及典型场景](https://my.oschina.net/selectdb/blog/15776710)
 
 ### CLICKHOUSE
 

@@ -340,6 +340,7 @@
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/5QDUD80A8OX_soM_2hqFGw)
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/qY8zuTJee3fy65-Che0CxQ)
 + [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
++ [Java 虚拟线程探究与性能解析](https://my.oschina.net/u/4662964/blog/15646720)
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
 + [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
 + [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
@@ -1364,6 +1365,7 @@
 + [打造优质代码：Apache Camel，推荐一款Java库](https://mp.weixin.qq.com/s/eqL4Nm1Rket-lNrN1QY1lw)
 + [Java 导出 Excel 利器：JXLS](https://mp.weixin.qq.com/s/7PdNCZ-05pNe0lneq1nioQ)
 + [如何查看线程死锁？](https://mp.weixin.qq.com/s/9lVfXpvKpuUCmAlKtpEiHw)
++ [Java 音视频文件解析工具](https://my.oschina.net/lenve/blog/15871614)
 
 # 其它环境
 

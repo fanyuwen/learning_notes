@@ -239,6 +239,7 @@
 + [InnoDB如何解决脏读、不可重复读和幻读的？](https://mp.weixin.qq.com/s/hL3CdhmaGT8bFe7Usk_1WA)
 + [美团二面：MySQL 支持哪些存储引擎？MyISAM 和 InnoDB 有什么区别？](https://mp.weixin.qq.com/s/WFnz-l1JEFDeqONwTL_YMQ)
 + [Innodb之buffer pool 图文详解](https://mp.weixin.qq.com/s/1HB57sVWXnEp-9xsDSuHoA)
++ [技术解读 MySQL InnoDB 大对象存储格式](https://my.oschina.net/u/4526289/blog/15790530)
 
 #### 锁
 

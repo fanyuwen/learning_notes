@@ -29,6 +29,7 @@
 + [什么是树？为什么有二叉树还需要红黑树？+手写红黑树代码](https://mp.weixin.qq.com/s/DDhAl3deFBew9XMX1J433Q)
 + [数据结构算法练习(二)](https://mp.weixin.qq.com/s/3rNUx-I_QnBIuMQ3AJQ8qg)
 + [把哈希表换成 tire 树，居然为公司省下了几千万](https://mp.weixin.qq.com/s/fcvk1GOdqytYLyGABuCmkw)
++ [除了递归算法，要如何优化实现文件搜索功能](https://my.oschina.net/u/8152955/blog/15893693)
 
 # 密码学
 

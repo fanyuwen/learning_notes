@@ -28,6 +28,7 @@
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
 + [一个能让你少写循环和判断的Go开源包，支持泛型](https://mp.weixin.qq.com/s/zX4GOZb-FO8Pq9qxthMiLQ)
 + [为什么这段代码会阻塞？](https://mp.weixin.qq.com/s/gtRzAlSuPsDmTcsAoBIleA)
++ [聚合接口层（BFF）之Go语言版（五）完结](https://mp.weixin.qq.com/s/73bTitH5VkS2EFj8dogL6w)
 
 # 库
 

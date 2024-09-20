@@ -84,6 +84,9 @@
 + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
 + [后端工程师必须掌握的10大技能，看你还有哪项没掌握？（2024最新全球调研）](https://mp.weixin.qq.com/s/XwZjSZ_S2XNvLUn9K21d7A)
 + [程序员必备！最全技术文档写作指南](https://mp.weixin.qq.com/s/TcxK_HE-xPyECzlV429foA)
+## 视频
+
++ [如何识别一个人是否值得交朋友？ 心理学家讲交友之道，值得看一看！](https://m.weibo.cn/status/5079644627272427?wm=3333_2001&from=10E9293010&sourcetype=weixin&s_trans=2197476363_5079644627272427&s_channel=4)
 
 # 收益工具
 
@@ -97,6 +100,7 @@
 + [it-tools，让你的工作效率飞跃提升！](https://mp.weixin.qq.com/s/H2zdyUqQANEP2rwij2b4nw)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
 + [实时监控 Linux 系统性能的强大开源工具](https://mp.weixin.qq.com/s/ejq-wLVeGfubk4ckn_uDJA)
++ [工作这么多年，都不知道这个好东西？！](https://mp.weixin.qq.com/s/CL61waRIoDS58DbfZANzFQ)
 + [Tau：开源分布式平台即服务 (PaaS)](https://mp.weixin.qq.com/s/_tCmNCKA7IuwoDCxWpvrgg)
 + [dbswitch——异构数据库迁移同步工具](https://mp.weixin.qq.com/s/UDMd4Bur3XyjEJL2_mfx7g)
 + [36.2K Star颜值不错!!!再见Notion,全能型知识管理工具](https://mp.weixin.qq.com/s/Hm7r7W5QvVr-fQjn_CjZUQ)
@@ -193,6 +197,7 @@
 + [Intellij IDEA 2024 最新版激活指南，免费无套路！](https://mp.weixin.qq.com/s/16y-Z6d1oXdkTOmQXgJIGA)
 + [如何玩转IDEA的Git](https://mp.weixin.qq.com/s/7r8k7wHSoQf_LH8hoMZiSA)
 + [安利一下IDEA中的Arthas插件](https://mp.weixin.qq.com/s/sqHTHgOzU1IUV8X62kFGog)
++ [30 款 IDEA 宝贝插件，yyds！](https://mp.weixin.qq.com/s/XUNpkNfhn69b3WOUNBR_iA)
 
 # 行业新闻
 

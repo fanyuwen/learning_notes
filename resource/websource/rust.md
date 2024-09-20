@@ -4,6 +4,7 @@
 + [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)
++ [Rust 2024版本即将到来…...](https://mp.weixin.qq.com/s/37lM6PX6C_hWCr4bdSWw8g)
 + [Rust 新手必读：《Rust Fuzz Book》让你的代码更安全、更稳定](https://mp.weixin.qq.com/s/brVtrWee3YKZ3AJwwsmp4g)
 + [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
 + [Rust新手福音：常用Web框架大揭秘](https://mp.weixin.qq.com/s/BKa6zSDXmShsqePADu-0Lw)
@@ -48,6 +49,8 @@
 + [Rust 开发者必备神器：bon 让你的代码更优雅、更高效](https://mp.weixin.qq.com/s/6AINnZ38MMHLx1c7TTMtNg)
 + [Hyper：Rust网络开发的速度与激情 - 构建高性能Web服务的终极利器](https://mp.weixin.qq.com/s/wuWdhSqZO1ikRgmbMrsy4g)
 + [Actix-web：Rust Web开发的超级英雄 - 性能与易用性的完美平衡](https://mp.weixin.qq.com/s/9Rol_G2wh0KKhV_tZzmhhA)
++ [Rust 接口设计指南：如何构建不让人感到意外的代码](https://mp.weixin.qq.com/s/dzaHnHZHpooWz2qssQz76g)
++ [SQLx：Rust异步数据库利器 - 让你的SQL飞起来！](https://mp.weixin.qq.com/s/OTe2EG6lDoabMKie8I0x4g)
 
 # 框架
 

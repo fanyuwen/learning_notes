@@ -85,6 +85,7 @@
 + [分库分表后，数据库数据一致性问题如何解决？](https://mp.weixin.qq.com/s/lAXr3lY-tX48aVYt1BYQgA)
 + [分库分表，可能真的要退出历史舞台了！](https://mp.weixin.qq.com/s/WUWCwyiALFvQazMt4JpydQ)
 + [谈一谈 分库分表 vs NewSQL数据库](https://mp.weixin.qq.com/s/ytKBtqMowe5KkPYpvcNg6g)
++ [数据库分库分表详解](https://mp.weixin.qq.com/s/pSusiU-d4fHNqp-j0kXJmg)
 
 ## 原理解析
 
@@ -121,6 +122,7 @@
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [MySQL性能调优时，如何平衡成本和性能改进？](https://mp.weixin.qq.com/s/MoHzU01pEJ4pRyzaM10AfA)
 + [Mysql优化利剑explain详解](https://mp.weixin.qq.com/s/mtjpFiXLqEvUNa1etie5Xg)
++ [MySQL 集群](https://mp.weixin.qq.com/s/2RWnEsTJJhqA4cBevAwzGA)
 + [MySQL探秘：理解当前读与快照读，以及与MVCC的关系](https://mp.weixin.qq.com/s/k9frtS4FWpyKX7SAKOgI4A)
 + [看不懂MySQL执行计划，还谈什么SQL优化？](https://mp.weixin.qq.com/s/bsu0kotuYTsesOVTc5CtzA)
 + [MySQL 中那些鲜为人知但功能强大的内置函数](https://mp.weixin.qq.com/s/wsPDWlgy8yFG4BJxXzSZWw)
@@ -144,6 +146,7 @@
 + [MySQL数据如何同步到Elasticsearch](https://mp.weixin.qq.com/s/MT2hGK_8ef8a66hxHhmfOQ)
 + [MySQL数据库碎片化：隐患与解决策略](https://mp.weixin.qq.com/s/X5NMeVIQNTjmXoSRq5PK-Q)
 + [用过 MySQL 读写分离吗？怎么做的？](https://mp.weixin.qq.com/s/SlTfuZfSlfcBbStpKKfkJQ)
++ [Mysql基础操作-DDL](https://mp.weixin.qq.com/s/x_xcAPOXYz7gNeazAJYQXg)
 + [MySQL 主从同步一致性详解](https://mp.weixin.qq.com/s/ppIRVhJsh3oCLzc4xxhkLg)
 + [(十六)MySQL调优篇：单机数据库如何在高并发场景下健步如飞？](https://mp.weixin.qq.com/s/TAoZSGbcmZULARWqphHIwQ)
 + [mysql常用命令总结](https://mp.weixin.qq.com/s/6WwOOU2nMZ8zpGHatNQ44Q)
@@ -173,6 +176,7 @@
 + [MySQL中的聚合统计：技巧与最佳实践](https://mp.weixin.qq.com/s/D4MdnTWOvhBMXtukznOoeg)
 + [MySQL 日期时间类型怎么选？千万不要乱用！](https://mp.weixin.qq.com/s/VjkgAwXStrxOqiE5_rJZkQ)
 + [聊聊 MySQL 是如何处理排序的](https://my.oschina.net/u/4526289/blog/11138574)
++ [MySQL数据库-7.视图、索引和完整性](https://mp.weixin.qq.com/s/X6uWIzPjzJaBqG03AnEHwQ)
 + [告别内存 OOM，解决 MySQL 内存增长问题](https://my.oschina.net/u/4526289/blog/11205449)
 + [MySQL 核心模块揭秘 | 18 期 | 锁在内存里长什么样 *](https://my.oschina.net/actiontechoss/blog/11198556)
 + [MySQL 核心模块揭秘 * 19 期 * 锁模块里有什么？什么样？](https://my.oschina.net/actiontechoss/blog/11206563)
@@ -366,6 +370,7 @@
 + [Redis 主从同步原理是什么？](https://mp.weixin.qq.com/s/uyNfNxFEq2PxO9ee7eG4GQ)
 + [基于redis实现的轻量级延迟队列](https://mp.weixin.qq.com/s/3foJwnH6FPOaGYTS_HwScg)
 + [利用 Redis Bitmap 实现高效的用户签到统计功能](https://mp.weixin.qq.com/s/NkFUOOX330G8w2IDOTOMQA)
++ [Redis锁这么牛，为啥还会死锁？](https://mp.weixin.qq.com/s/oaf0Y9Ooh4pYS7_T3cEV8g)
 + [Redis源码整体结构](https://mp.weixin.qq.com/s/5t0zMv8oFX_m0FwOEpbW_Q)
 + [Redis 全文检索及使用示例](https://mp.weixin.qq.com/s/xOxQxU1PcqgKRHzb_xj5hQ)
 + [Redis数据类型详解与Redis vs 传统数据库：核心异同点比较](https://mp.weixin.qq.com/s/CsTeZolmN7UTAu_5q5M9pA)
@@ -436,6 +441,7 @@
 + [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/PXan1kxHBWIfgUwU7TZILw)
 + [Redis 持久化的秘密：面试必知技巧与解析](https://mp.weixin.qq.com/s/-f7XfFgUc_z6_AVJ54XhZQ)
 + [使用 Redis 时不可原谅的几个低级错误](https://my.oschina.net/lenve/blog/15670941)
++ [利用 Redis 实现每周热评，简直无敌](https://mp.weixin.qq.com/s/IXCC6QFr3ZehY8OY4pP6HA)
 
 #### 原理
 

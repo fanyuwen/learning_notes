@@ -79,6 +79,7 @@
 + [sha1collisiondetection,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/F_z-k02BJt2YOaGd9aeWOQ)
 + [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
++ [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
 
 ### 学习资源
 

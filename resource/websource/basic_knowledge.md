@@ -66,6 +66,7 @@
 + [Linux高性能编程_malloc原理](https://mp.weixin.qq.com/s/v-lXOFawW5iwZ24O_8f28w)
 + [linux进程间的通信(IPC)](https://mp.weixin.qq.com/s/DvLZQPKcvBPFML4lWLA4GA)
 + [Linnux服务器之间实现文件实时同步](https://mp.weixin.qq.com/s/87-1u2yIxruXos3_53X1tA)
++ [深入探索linux的零拷贝（zero-copy）：底层技术原理与代码实现](https://mp.weixin.qq.com/s/hv5RH85bkQzcGAQzVsNY2A)
 
 ### 网络
 
@@ -184,6 +185,7 @@
 + [分布式RPC和HTTP区别详解(5大核心区别)](https://mp.weixin.qq.com/s/6gSfqOvoeFbLIfZtzK43BA)
 + [探索 multipart：文件传输的新境界！](https://mp.weixin.qq.com/s/i6tps8T_eanr86WQD8U4hQ)
 + [一文掌握http和https关键的知识点](https://mp.weixin.qq.com/s/-9QN_2vPQFJt6cGxC3MMOg)
++ [HTTP3势头这么猛，它的优势在哪里？](https://mp.weixin.qq.com/s/wEbRl8e63FbG6iIlLvLg5w)
 
 #### CORS
 

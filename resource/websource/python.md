@@ -96,6 +96,7 @@
 
 + [Python字符串](https://mp.weixin.qq.com/s/uqUOTPac4oqBuV5EHHy1jQ)
 + [Python字符串处理常用的30种操作](https://mp.weixin.qq.com/s/uCk2XJKZ0zsaxVpRi0lNzQ)
++ [Python 字符串格式化输出](https://mp.weixin.qq.com/s/-piYtizGRJAXNNEjlfxrVQ)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
@@ -298,6 +299,7 @@
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
++ [theano，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/poeuvMH-X6QUcX4ERoJKUQ)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
 + [PyDy，一个牛逼的python库](https://mp.weixin.qq.com/s/V7E8gX4XL_SsfZe59EWqNw)
@@ -306,6 +308,7 @@
 + [pyg3，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/VrfcAVmgoMx29mStLnIIBQ)
 + [Zipline，一个牛逼的python库](https://mp.weixin.qq.com/s/pgV1flDx4gFY3r8lfj1Cnw)
 + [TextBlob - 个Python中非常有用的库](https://mp.weixin.qq.com/s/DEHLB38-T0QU5uBILhjH8A)
++ [Fire，一个超级强大的Python工具](https://mp.weixin.qq.com/s/-9BrvQ8jb8Lx4XDBHzGZgg)
 + [statsmodels，一个牛逼的python库](https://mp.weixin.qq.com/s/dzsT3MN4uTjjPEtxbszXyg)
 + [Vincent，一个超级强大的Python工具](https://mp.weixin.qq.com/s/iHF-d933Rhf9Gv6Cwr83bg)
 + [hellomood，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/F0eqJEVsfcqeVgM1agwM5A)

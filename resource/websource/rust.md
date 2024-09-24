@@ -1,6 +1,7 @@
 # 技术相关
 
 + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
++ [分享一些不错的 Rust 学习资料、博客、书籍等](https://mp.weixin.qq.com/s/u58NEIGDUQD5Oyz0NWeUjA)
 + [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)

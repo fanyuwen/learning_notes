@@ -192,6 +192,7 @@
 
 + [什么是 CORS ？一文搞懂 CORS 跨域原理！](https://mp.weixin.qq.com/s/FpQCqNN41lBGqJXUAYOFCA)
 + [一次性搞懂跨域CORS](https://mp.weixin.qq.com/s/efLmtDRLGsHFkx7ZLGqeJw)
++ [跨域问题详解与解决方案](https://mp.weixin.qq.com/s/fcxGtT0XTFoSsQX42aZnew)
 
 ### TCP/IP
 
@@ -222,7 +223,7 @@
 + [【网络】TCP、UDP数据包大小的限制](https://mp.weixin.qq.com/s/ir14xyUFe2uy_KL2B7BlOw)
 + [字节一面：TCP 和 UDP 可以使用同一个端口吗？](https://mp.weixin.qq.com/s/xSqHlYSbdMBTzIcHX4QleA)
 
-### nginx
+### NGINX
 
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/ayCcuAsPXySx55uSxHFmrA)
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
@@ -257,6 +258,8 @@
 + [腾讯面试：说一下Nginx的6大负载均衡策略 ？手写一下 权重轮询 ？](https://mp.weixin.qq.com/s/a7ZXpqNlwVqW0KDkBgq9XA)
 + [如何在 Nginx 中阻止特定国家的 IP 地址访问](https://mp.weixin.qq.com/s/XIybzA6PriI6KKaLa2kvmA)
 + [Nginx 配置高性能静态网站 - 缓存、Gzip、跨域和防盗链](https://mp.weixin.qq.com/s/tQkcDn5lLvWQak6ZyUsSmQ)
++ [面试高频题：Nginx 并发高的秘密](https://mp.weixin.qq.com/s/3SJM9RnO2GDNhcY1bKkhCQ)
++ [从零手写实现 nginx-07-如何实现大文件分块传输?](https://mp.weixin.qq.com/s/vHkEpNYAzd3fnKZi0pI2UA)
 
 ### wireshark
 

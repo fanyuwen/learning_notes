@@ -591,6 +591,7 @@
 
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
 + [Spring源码中是如何使用设计模式六大原则的](https://mp.weixin.qq.com/s/VlKGPtG9TXMXM9OncDt83A)
++ [Spring用到了哪些设计模式？](https://mp.weixin.qq.com/s/QrRvkS9m0KUmrIFr5AGkhg)
 
 ### STATEMACHINE
 
@@ -1151,6 +1152,7 @@
 + [SpringBoot 集成 RabbitMQ【高级应用篇】](https://mp.weixin.qq.com/s/1FiSTRcD575X7kn5GKs9JQ)
 + [springboot + rabbitmq实现邮件发送，保证消息100%投递成功](https://mp.weixin.qq.com/s/v68fM9rebIt4Tguj8U8GkQ)
 + [SpringBoot 整合 RabbitMQ 轻松实现流量消峰](https://mp.weixin.qq.com/s/6Qvp10_dz5MF2iFg4MSAMw)
++ [Spring Boot整合Kafka+SSE实现数据实时展示](https://mp.weixin.qq.com/s/WUH1iPP1OsJfZeU-ZjPq7A)
 
 #### 配置打包部署
 
@@ -1340,6 +1342,7 @@
 ## Apollo
 
 + [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
++ [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
 
 ## sentinel
 
@@ -1463,4 +1466,5 @@
 + [阿里开源的 JetCache-Alibaba 缓存框架，来了解一下？](https://mp.weixin.qq.com/s/orP-qRG8SdtyNj4M1xaapw)
 + [微服务面试还是问Spring Cloud Alibaba的比较多](https://mp.weixin.qq.com/s/3M2HUPjWVS0BitZ9-zGnGQ)
 + [生产环境大面积404，这锅我不背！](https://mp.weixin.qq.com/s/SF-LWtvLvpayHR2ColtpKQ)
++ [RPC 线程池被打满，1024个线程居然不够用？](https://mp.weixin.qq.com/s/VzReTA0YUDHVPCKRK-h5Ag)
 + [我悟了！原来在Java项目中是这样配置SSL证书的，想不会都难，建议收藏！](https://mp.weixin.qq.com/s/31K7jl3XD5fMWnfjm0HS0Q)

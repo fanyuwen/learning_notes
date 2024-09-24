@@ -310,6 +310,7 @@
 + [TextBlob - 个Python中非常有用的库](https://mp.weixin.qq.com/s/DEHLB38-T0QU5uBILhjH8A)
 + [Fire，一个超级强大的Python工具](https://mp.weixin.qq.com/s/-9BrvQ8jb8Lx4XDBHzGZgg)
 + [statsmodels，一个牛逼的python库](https://mp.weixin.qq.com/s/dzsT3MN4uTjjPEtxbszXyg)
++ [Dapy，一个超级强大的Python工具](https://mp.weixin.qq.com/s/h2uQBe9Dr9Qz8QSqMqdBfQ)
 + [Vincent，一个超级强大的Python工具](https://mp.weixin.qq.com/s/iHF-d933Rhf9Gv6Cwr83bg)
 + [hellomood，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/F0eqJEVsfcqeVgM1agwM5A)
 + [Hypothesis，世界上最牛逼的Python库](https://mp.weixin.qq.com/s/ODkiqH0lJywRzESJHZr3OQ)

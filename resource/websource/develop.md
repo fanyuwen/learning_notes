@@ -401,6 +401,7 @@
 + [订单管理系统需求规范](https://mp.weixin.qq.com/s/zAaEu6sRJMUJViCLTH-YbA)
 + [聊聊支付流程的设计与实现逻辑](https://mp.weixin.qq.com/s/-qXfw9HWP7PLNfQGwQxysQ)
 + [一款免费开源的支付系统](https://mp.weixin.qq.com/s/Bmmtlzw2ziX-XSIFmQtgrg)
++ [顶级的 权限系统，改如何设计？ Sa-Token学习圣经：史上最全的权限设计方案，一文帮你成专家](https://mp.weixin.qq.com/s/l_k-tX-3JEQfvsy0xMukUw)
 
 ## 代码相关
 

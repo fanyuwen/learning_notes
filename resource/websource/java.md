@@ -791,6 +791,7 @@
 + [Spring Boot 体验 BIO（阻塞式IO）](https://mp.weixin.qq.com/s/ArsjUl1U6RCdJcAHTYCl_A)
 + [Spring Boot 定时任务与 xxl-job 灵活切换方案](https://mp.weixin.qq.com/s/b29uC_PFcFXsFGbMIW2-QQ)
 + [SpringBoot整合XXL-JOB- 执行器的具体使用](https://mp.weixin.qq.com/s/CBRRhyW9-R8MTzM45CzKTg)
++ [SpringBoot整合XXL-JOB- 任务分片](https://mp.weixin.qq.com/s/TE7x8HWFHYhRfFybNLgRpw)
 + [Java 运行时：Spring Boot 角度的见解 | 技术解析](https://mp.weixin.qq.com/s/8xc7rhBXy5jva1rO4oMQHQ)
 + [瞧瞧老外总结的SpringBoot最佳实践](https://mp.weixin.qq.com/s/XgIj5pqtb-fH03Mf5VmP8w)
 + [SpringBoot 源码分析四：启动流程中的扩展机制](https://mp.weixin.qq.com/s/6XCf9bkzY50W-htRKAuBlA)

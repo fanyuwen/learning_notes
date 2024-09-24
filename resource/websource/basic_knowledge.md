@@ -231,6 +231,7 @@
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/iah2Mz20XpJWuCpSFpXPlg)
 + [Nginx 配置最全详解 (万字图文总结)](https://my.oschina.net/lenve/blog/15956726)
 + [Nginx负载均衡配置详解(图文全面总结)](https://mp.weixin.qq.com/s/ruBYu8PttxxZRW7eWbLUEQ)
++ [Nginx负载均衡详解](https://mp.weixin.qq.com/s/MFcjtdz6cCEqEI2k2JGCnA)
 + [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
 + [Nginx使用篇](https://mp.weixin.qq.com/s/-8B8FKRc_q0SRvhlnxfmoA)
 + [Nginx 进程详解](https://mp.weixin.qq.com/s/nJ5KDZaCXSYBXdqG2VdPLw)

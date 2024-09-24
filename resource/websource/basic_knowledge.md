@@ -134,6 +134,7 @@
 ## GPU
 
 + [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
++ [NPU 与 GPU 相比，有什么差别？| 技术速览](https://my.oschina.net/IDP/blog/15787377)
 
 ## 网络基础
 
@@ -227,6 +228,7 @@
 + [Nginx配置最全详解(万字图文总结)](https://mp.weixin.qq.com/s/-kkJcJ4WFLzhfVFL-BKmvQ)
 + [Nginx反向代理配置详解(图文全面总结)](https://mp.weixin.qq.com/s/ZBOPZ34_ZbdKyClagMA1Iw)
 + [Nginx最全详解(万字图文总结)](https://mp.weixin.qq.com/s/iah2Mz20XpJWuCpSFpXPlg)
++ [Nginx 配置最全详解 (万字图文总结)](https://my.oschina.net/lenve/blog/15956726)
 + [Nginx负载均衡配置详解(图文全面总结)](https://mp.weixin.qq.com/s/ruBYu8PttxxZRW7eWbLUEQ)
 + [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
 + [Nginx使用篇](https://mp.weixin.qq.com/s/-8B8FKRc_q0SRvhlnxfmoA)

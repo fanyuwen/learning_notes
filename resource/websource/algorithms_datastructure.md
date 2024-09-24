@@ -30,6 +30,7 @@
 + [数据结构算法练习(二)](https://mp.weixin.qq.com/s/3rNUx-I_QnBIuMQ3AJQ8qg)
 + [把哈希表换成 tire 树，居然为公司省下了几千万](https://mp.weixin.qq.com/s/fcvk1GOdqytYLyGABuCmkw)
 + [除了递归算法，要如何优化实现文件搜索功能](https://my.oschina.net/u/8152955/blog/15893693)
++ [树状数组——高效动态处理数据](https://mp.weixin.qq.com/s/ovu3foHm07ojmJ38Co5X-A)
 
 # 密码学
 

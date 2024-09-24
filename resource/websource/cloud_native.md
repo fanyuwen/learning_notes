@@ -80,6 +80,7 @@
 + [从 Kubernetes 源码中学会怎么写好变量名和注释](https://mp.weixin.qq.com/s/ukKupwn7SnQkxgkXdkJ2OA)
 + [通过写 Kubernetes 专栏，我不断在进化](https://mp.weixin.qq.com/s/NM_oTPuy_r3ibh7AHdb5Bw)
 + [Kubernetes 网络介绍（九）](https://mp.weixin.qq.com/s/gcmagEiANIc6jfM8ty_BiA)
++ [K8s部署](https://mp.weixin.qq.com/s/tuZkpEZ4n2DzrmJY-TM7mA)
 
 ## Prometheus
 

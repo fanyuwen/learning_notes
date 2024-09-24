@@ -265,6 +265,7 @@
 + [(八)MySQL锁机制：高并发场景下该如何保证数据读写的安全性？](https://mp.weixin.qq.com/s/oftvkUBhRKAJg7miM2Y5Pg)
 + [MySQL 插入记录，主键索引冲突加什么锁？](https://my.oschina.net/actiontechoss/blog/15656435)
 + [MySQL 锁详解](https://mp.weixin.qq.com/s/0rKAxyH-hUskr4pKhmC9mw)
++ [Mysql的锁你了解哪些？](https://mp.weixin.qq.com/s/fOd-VvudonyiCtSEN2JLDg)
 
 #### 事务
 

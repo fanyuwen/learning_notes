@@ -4,6 +4,7 @@
 
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
 + [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
++ [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
 
 ## C++
 

@@ -369,6 +369,7 @@
 + [高效组件的设计与封装之道](https://mp.weixin.qq.com/s/Tm4O-YuVesjbzNMDu9CQDQ)
 + [模块化代码 - 实例简介](https://mp.weixin.qq.com/s/sHV9ebMZ4Ns1CH78nntIFA)
 + [一款完全开源的基于SpringBoot、Spring Security、Jwt、Vue的前后端分离的后台管理系统](https://mp.weixin.qq.com/s/9RAJ9VLCTbI8Pr6H1LA5og)
++ [PaaS和SaaS：如何选择最适合你的软件交付方式](https://mp.weixin.qq.com/s/gsh-scit9vfRfHibg-7UQg)
 
 # 测试相关
 

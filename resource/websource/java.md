@@ -665,6 +665,7 @@
 + [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
++ [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
 + [SpringBoot实战：SpringBoot中的内置对象](https://mp.weixin.qq.com/s/mgqTjIP0oVG2nIuGSPGG9w)
@@ -780,6 +781,7 @@
 + [Spring Boot源码分析一：启动流程](https://mp.weixin.qq.com/s/sj-0V-CDYvTZUH4h7ffeoQ)
 + [Spring Boot 体验 BIO（阻塞式IO）](https://mp.weixin.qq.com/s/ArsjUl1U6RCdJcAHTYCl_A)
 + [Spring Boot 定时任务与 xxl-job 灵活切换方案](https://mp.weixin.qq.com/s/b29uC_PFcFXsFGbMIW2-QQ)
++ [SpringBoot整合XXL-JOB- 执行器的具体使用](https://mp.weixin.qq.com/s/CBRRhyW9-R8MTzM45CzKTg)
 + [Java 运行时：Spring Boot 角度的见解 | 技术解析](https://mp.weixin.qq.com/s/8xc7rhBXy5jva1rO4oMQHQ)
 + [瞧瞧老外总结的SpringBoot最佳实践](https://mp.weixin.qq.com/s/XgIj5pqtb-fH03Mf5VmP8w)
 + [SpringBoot 源码分析四：启动流程中的扩展机制](https://mp.weixin.qq.com/s/6XCf9bkzY50W-htRKAuBlA)
@@ -820,6 +822,7 @@
 + [为什么Spring Boot开发者应该避免使用@Value？](https://mp.weixin.qq.com/s/1fefcbDwsQZ8F9E4PuR3Ng)
 + [在 Spring Boot 应用程序中如何设置动态 Schema](https://mp.weixin.qq.com/s/i1Nf-H53YDs39HJrcJQnKQ)
 + [SpringBoot 中实现定时任务的几种方式](https://mp.weixin.qq.com/s/868gocj-70dXtRXp8XkoIg)
++ [简单两步，SpringBoot 写死的定时任务也能动态设置，爽~](https://mp.weixin.qq.com/s/RbsHKZuA_V0k8XeCF_uVYQ)
 + [求求你们别再用 kill -9 了，这才是 Spring Boot 停机的正确方式！！！](https://mp.weixin.qq.com/s/Z8-1SRe0nFyAy4lt_He-eg)
 + [面试官：大公司为什么禁止在SpringBoot项目中使用@Autowired注解？](https://mp.weixin.qq.com/s/PIp6ukEH_5xjJh-EUPpz2A)
 + [SpringBoot | 如何判断值是否包含在枚举类的某个属性值中](https://mp.weixin.qq.com/s/nKpD0HkPfSbGAQEiX0uGnw)
@@ -1321,6 +1324,7 @@
 + [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
 + [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)
 + [从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s/p8YS2DhQaIe0QUTxeSMsQg)
++ [Nacos任意文件读写](https://mp.weixin.qq.com/s/EzMaG3u-lcBnVbPYebP_Ag)
 
 ## Apollo
 

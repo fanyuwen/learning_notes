@@ -177,6 +177,7 @@
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
 + [Java中有几种方法可以实现一个线程](https://mp.weixin.qq.com/s/EnjhtNAJBwx53zBPhr7iBQ)
 + [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
++ [sychronized的自旋锁、偏向锁、轻量级锁、重量级锁，分别介绍和联系](https://mp.weixin.qq.com/s/SRAPGkiu44v62YSd1EAoJQ)
 + [Java线程安全 -- 线程安全类](https://mp.weixin.qq.com/s/S4CqtnVXK6tBAUQ9VwmoYQ)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
@@ -465,6 +466,7 @@
 + [Spring应用启动后，我们想在某个实例的初始化方法前后执行一些操作怎么办？浅谈BeanPostProcessor接口的应用](https://mp.weixin.qq.com/s/mF9-i5xoMbvqLOvoxxf5tg)
 + [在Spring Bean生命周期的不同阶段如何插入自定义的处理逻辑？Spring框架提供了两种类型的接口](https://mp.weixin.qq.com/s/9fC8YwLpfxESOtfOpDb5lQ)
 + [Spring框架Bean生命周期的5个阶段及举例说明](https://mp.weixin.qq.com/s/i3jqP5-XES-5xpw4-BTQ_w)
++ [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/TGsjeOEwmjVSuOX3LWR90Q)
 + [你了解的 Spring 都用到哪些设计模式？](https://mp.weixin.qq.com/s/QUAL9tBV6nXvLrzGC37fGQ)
 + [Spring 中如何控制 Bean 的加载顺序？](https://mp.weixin.qq.com/s/a37zVQ7h-Iz4LEP1fiks2Q)
 + [Spring 的自动装配方式你都答的出来吗？](https://mp.weixin.qq.com/s/Mv8VPxyx6_bV5QlpQ32wIQ)
@@ -541,6 +543,7 @@
 + [Spring框架中的线程池](https://mp.weixin.qq.com/s/FCeSlVNImbxKU6Be_YJA1A)
 + [浅析 Spring 中 Async 注解底层异步线程池原理](https://my.oschina.net/u/5783135/blog/11209054)
 + [Quartz vs Spring Schedule：对比分析，助你选型](https://mp.weixin.qq.com/s/DFXb0hBPZo5MKPRsw00h7w)
++ [Java多线程 -- 定时任务](https://mp.weixin.qq.com/s/qBk3yD6A8EtzHyDMVsXMHw)
 
 ### security
 
@@ -667,6 +670,7 @@
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
 + [告别 UUID！Spring Boot 3.3 中替换数据库主键的新选择](https://mp.weixin.qq.com/s/63kycj5m8PPZqs_0PMvbfQ)
 + [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
++ [最佳实践！使用 Enum 实现 Spring Boot 3.3 高效配置管理](https://mp.weixin.qq.com/s/GY8L5boPVHiZkkW5pLTU8A)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
 + [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
@@ -1156,6 +1160,7 @@
 + [从SpringBoot2.7开始自动配置发生哪些变化？你都知道吗？](https://mp.weixin.qq.com/s/ofBasHTpzuqeEDqdxDrqAw)
 + [把 Spring Boot 3.3项目从 31.5M 瘦身到 0.82M，部署超级快](https://mp.weixin.qq.com/s/iDuOcvhjOw1P7g70X9woGA)
 + [SpringBoot 实战：Spring Boot的配置绑定类Bindable居然如此强大](https://mp.weixin.qq.com/s/8NYNXbDKOzwz8Nyd-I-Yjg)
++ [SpringBoot 为何可以使用 Jar 包启动？](https://mp.weixin.qq.com/s/bBsff6aGhM_P_e9PeMrJiQ)
 + [我司用了6年的 SpringBoot 项目部署方案，稳得一批！](https://mp.weixin.qq.com/s/LCOgdHNM2nMPK-jLfLJMNg)
 + [Spring Boot + Enum 配置化实践](https://mp.weixin.qq.com/s/OaWiMCXAJiSZ8GFJ1UbAmw)
 + [SpringBoot如何解决yml明文密码问题](https://mp.weixin.qq.com/s/bewrZtF6iNBCwkgjr6vEeA)

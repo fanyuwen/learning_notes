@@ -188,6 +188,7 @@
 + [MySQL 你没见过的字符串函数](https://mp.weixin.qq.com/s/R4xVgabIGUVM4v4hMT6PNg)
 + [(一)全解MySQL之架构篇：自顶向下深入剖析MySQL整体架构！](https://mp.weixin.qq.com/s/wSh483f8PNJaTalBY6VJkg)
 + [MySQL的并发控制 一文读懂！](https://mp.weixin.qq.com/s/i0sHHXAVj7wEAaezvd_-bQ)
++ [索引失效？查询结果不正确？原来都是隐式转换惹的祸](https://mp.weixin.qq.com/s/u8A-UkoTZBcO_Vy1ROoecw)
 + [浅聊 Bin Log、Redo Log、Undo log](https://mp.weixin.qq.com/s/0NIGaN1lcI1_ZBOAnHmk_g)
 + [浅聊count(1)、count(*) 与 count(列名) 的区别](https://mp.weixin.qq.com/s/VhmYnN69v3JCeipSQ6Q9xQ)
 + [从源码角度，深度解读 MySQL 优化器的 GROUP BY 优化策略](https://my.oschina.net/u/4526289/blog/15876090)

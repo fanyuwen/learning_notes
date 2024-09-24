@@ -256,6 +256,7 @@
 + [新手教学系列——用Nginx将页面请求分发到不同后端模块](https://mp.weixin.qq.com/s/1LER66xGRNfwD1w1JMumqw)
 + [腾讯面试：说一下Nginx的6大负载均衡策略 ？手写一下 权重轮询 ？](https://mp.weixin.qq.com/s/a7ZXpqNlwVqW0KDkBgq9XA)
 + [如何在 Nginx 中阻止特定国家的 IP 地址访问](https://mp.weixin.qq.com/s/XIybzA6PriI6KKaLa2kvmA)
++ [Nginx 配置高性能静态网站 - 缓存、Gzip、跨域和防盗链](https://mp.weixin.qq.com/s/tQkcDn5lLvWQak6ZyUsSmQ)
 
 ### wireshark
 

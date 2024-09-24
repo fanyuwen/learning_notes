@@ -296,6 +296,7 @@
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
++ [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)

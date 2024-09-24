@@ -245,6 +245,7 @@
 + [美团二面：MySQL 支持哪些存储引擎？MyISAM 和 InnoDB 有什么区别？](https://mp.weixin.qq.com/s/WFnz-l1JEFDeqONwTL_YMQ)
 + [Innodb之buffer pool 图文详解](https://mp.weixin.qq.com/s/1HB57sVWXnEp-9xsDSuHoA)
 + [技术解读 MySQL InnoDB 大对象存储格式](https://my.oschina.net/u/4526289/blog/15790530)
++ [Innodb 是如何实现事务的？](https://mp.weixin.qq.com/s/kDuQbqL_Oi5494OwyqM9ng)
 
 #### 锁
 

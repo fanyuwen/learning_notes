@@ -29,6 +29,7 @@
 
 ## docker
 
++ [Docker基本命令](https://mp.weixin.qq.com/s/C72BEoO-Ankc1WUr6uLpZA)
 + [如何缩小docker容器镜像](https://mp.weixin.qq.com/s/1Rswv3svndVZ-XvFR-hgFg)
 + [你不知道的 Dockerfile 增强新语法](https://mp.weixin.qq.com/s/jcyxEc32kGErm2XBekvlSg)
 + [Dockerfile：提升构建效率的最佳实践](https://mp.weixin.qq.com/s/KD_UdfS4gsFu0I62KPLEAg)
@@ -80,6 +81,7 @@
 + [从 Kubernetes 源码中学会怎么写好变量名和注释](https://mp.weixin.qq.com/s/ukKupwn7SnQkxgkXdkJ2OA)
 + [通过写 Kubernetes 专栏，我不断在进化](https://mp.weixin.qq.com/s/NM_oTPuy_r3ibh7AHdb5Bw)
 + [Kubernetes 网络介绍（九）](https://mp.weixin.qq.com/s/gcmagEiANIc6jfM8ty_BiA)
++ [掌握Kubernetes伸缩策略：优化资源管理的秘密武器](https://mp.weixin.qq.com/s/kEtBJl7CFOgoQvmoCT9G5g)
 + [K8s部署](https://mp.weixin.qq.com/s/tuZkpEZ4n2DzrmJY-TM7mA)
 
 ## Prometheus

@@ -21,6 +21,7 @@
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 + [来请讲解下Java泛型吧](https://mp.weixin.qq.com/s/EHGpT-kliGbAx5zE9olSZg)
++ [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
 
 ## 新语言特性
 
@@ -63,6 +64,7 @@
 + [null 不好，我推荐你使用 Optional](https://mp.weixin.qq.com/s/PkEpBt-CHgmCAQ-onUY1aw)
 + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
 + [Java 9 为什么要在接口中引入 private 方法？](https://mp.weixin.qq.com/s/iZaYHmBtlyoe0eko9PNzQA)
++ [Java 23重磅发布！引入Markdown文档支持、ZGC分代模式，告别sun.misc.Unsafe！](https://mp.weixin.qq.com/s/0pouQL6Ad88y4CU0FBILOQ)
 
 ## 高级用法
 
@@ -164,6 +166,7 @@
 + [避免使用不必要的受检异常](https://mp.weixin.qq.com/s/jj-na9LIjnAgifzd2171JQ)
 + [只针对异常的情况才使用异常](https://mp.weixin.qq.com/s/JH7KTCr1eUZQUwATkHP9yg)
 + [抛出与抽象对应的异常](https://mp.weixin.qq.com/s/lwDYVq2AbktnufcUyYF_Xw)
++ [try catch 应该在 for 循环里面还是外面？](https://mp.weixin.qq.com/s/ae0DVUHrvFtcG-zDbZGG4w)
 
 # 底层
 
@@ -457,6 +460,7 @@
 + [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
 + [Spring非常强大的2个类知道的人不多](https://mp.weixin.qq.com/s/FJGuP4_u4Xkxfz0Xxf2igw)
++ [还在用 System.currentTimeMillis() 统计代码耗时？太 Low 啦](https://mp.weixin.qq.com/s/k_7QVLDuCPmHV3wRoMgOsw)
 + [Spring中Bean的生命周期，让你瞬间通透~](https://mp.weixin.qq.com/s/Hc0TnehzJyW-ur-HWa6oSA)
 + [Spring应用启动后，我们想在某个实例的初始化方法前后执行一些操作怎么办？浅谈BeanPostProcessor接口的应用](https://mp.weixin.qq.com/s/mF9-i5xoMbvqLOvoxxf5tg)
 + [在Spring Bean生命周期的不同阶段如何插入自定义的处理逻辑？Spring框架提供了两种类型的接口](https://mp.weixin.qq.com/s/9fC8YwLpfxESOtfOpDb5lQ)
@@ -978,6 +982,7 @@
 + [SpringBoot3 集成 WebSocket 是真的简单](https://mp.weixin.qq.com/s/AoaUkggTuPjlhAlzbWKlUQ)
 + [WebSocket 服务端数据推送及心跳机制 (Spring Boot + VUE)](https://mp.weixin.qq.com/s/uaziTw3HG6DXUzEsoPJYhw)
 + [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
++ [SpringBoot 集成WebSocket 的 3 种集成方式](https://mp.weixin.qq.com/s/GiFU3_hPqcD_NF6Tej2tjw)
 
 #### DATA
 
@@ -1174,6 +1179,7 @@
 + [学习如何把SpringBoot Jar包注册成Windows服务，从此告别手动启动项目，提高效率。](https://mp.weixin.qq.com/s/0KYlNQDi8BbIpQJx26NtLQ)
 + [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/xamvQQXBS0JapfLXXNUA0w)
 + [SpringBoot 为何可以使用 Jar 包启动？](https://mp.weixin.qq.com/s/Qcd8KCJRngL4DGU7vobBJw)
++ [springBoot应用使用exe4j与innosetup打包为exe可执行程序手把手教学](https://mp.weixin.qq.com/s/xPzipoTNNsnlF-j7f-a06Q)
 
 #### 原理&源码
 

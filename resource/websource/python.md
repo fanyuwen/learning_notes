@@ -137,6 +137,7 @@
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [手把手教你做自己的Python装饰器，提升代码复用能力](https://mp.weixin.qq.com/s/bMZ_ka5e4DOVt7xvRybIZQ)
 + [你知道 Python 其实自带了小型数据库吗？](https://mp.weixin.qq.com/s/xsfwDxgF9EVTQftqkCX-QA)
++ [使用Python进行文件管理的4个聪明方法](https://mp.weixin.qq.com/s/VVeFgYwHpoqfAUfNq-OPJw)
 + [正则表达式中的贪婪匹配与非贪婪匹配](https://mp.weixin.qq.com/s/CQEIVptI72QPmfVvo5WiYA)
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
@@ -304,6 +305,7 @@
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
++ [rddpip，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/HPFfGfCLdRzYMl9RCoBjWQ)
 + [Nipy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/_NlF1OfdgeMYDtEc44L1Aw)
 + [PyDy，一个牛逼的python库](https://mp.weixin.qq.com/s/V7E8gX4XL_SsfZe59EWqNw)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
@@ -489,6 +491,7 @@
 + [Taipy：一个用Python 快速构建Web应用程序的利器，提供零代码工具](https://mp.weixin.qq.com/s/vcUKcL19ZSxrBi7eyu_ZyQ)
 + [Rope，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/rtRuHLEyYZIsooNf_nWtQw)
 + [Thinc，一个超级强大的Python工具](https://mp.weixin.qq.com/s/RTsv79UShTH9Goxtj9ckzQ)
++ [Ray,可扩展的 Python 分布式执行引擎!](https://mp.weixin.qq.com/s/frFBW7NtHI_6nXE71AiXeA)
 
 ## 框架
 

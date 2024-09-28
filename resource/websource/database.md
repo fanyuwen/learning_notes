@@ -281,6 +281,7 @@
 + [Innodb的RR到底有没有解决幻读？](https://mp.weixin.qq.com/s/K5l6hixzn5K9jWd7shu2GQ)
 + [用一句话讲清楚“脏读、幻读、不可重复读”的概念和区别](https://mp.weixin.qq.com/s/9fO5hLFYke1GT_DymTb8_A)
 + [什么是数据库隔离级别？它们有什么作用？](https://mp.weixin.qq.com/s/_DP6iNvbeOmPsgNLHc5U3Q)
++ [美团面试：binlog、redolog、undo log底层原理是啥？分别实现ACID哪个特性？（尼恩图解，史上最全）](https://mp.weixin.qq.com/s/p1eHHIVPetADdrWe__Hdbw)
 
 #### 索引
 

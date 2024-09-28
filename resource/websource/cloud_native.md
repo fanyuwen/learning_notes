@@ -26,6 +26,7 @@
 + [云原生技术最全详解(图文全面总结)](https://mp.weixin.qq.com/s/yEmrmHC4SCZCLcTzQmhK2Q)
 + [瞎逼逼：谈谈容器日志采集](https://mp.weixin.qq.com/s/N37Va1hhlW3ODBbEamCj6w)
 + [开发者必备神器: find-container-process 一键让容器进程无所遁形](https://mp.weixin.qq.com/s/5b_BeDg3LPzPDApvH0HnkQ)
++ [超越 Gateway API：深入探索 Envoy Gateway 的扩展功能](https://mp.weixin.qq.com/s/qAYxG7de4VoVkiFPgPblBw)
 
 ## docker
 

@@ -45,6 +45,7 @@
 + [万字长文浅谈三高系统建设方法论和实践](https://my.oschina.net/u/4090830/blog/15656404)
 + [企业级消息推送架构设计，太强了！](https://mp.weixin.qq.com/s/anQ3J38thukU0quPUsuFfg)
 + [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
++ [系统设计的终极目标，高可用、高吞吐、高扩展](https://mp.weixin.qq.com/s/ld_ULZmkKjK_PqOS3hFaDQ)
 
 ### DDD
 
@@ -102,6 +103,7 @@
 + [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/KSR_w6VPP9FAK8-z_nvsfw)
 + [为什么微服务一定要有网关？](https://mp.weixin.qq.com/s/t7w7TRsgRR-6HyuZIr-G-w)
 + [微服务重构：Mysql+DTS+Kafka+ElasticSearch解决跨表检索难题](https://mp.weixin.qq.com/s/izd_EOP9Wf-TUnG21NXUdA)
++ [【入门笔记】微服务设计模式 - Saga](https://mp.weixin.qq.com/s/bUwVvpPhdCKpNgRMW5wFTg)
 
 # 分布式
 
@@ -328,6 +330,7 @@
 + [网关系统就该这么设计（万能通用），稳的一批！](https://mp.weixin.qq.com/s/bC5F0eVDc7CHi0s7_Ed1Mg)
 + [信息安全，加密（encrypt）和签名（sign）是两回事](https://mp.weixin.qq.com/s/fWh5xzWAs1MdodpM-HdThg)
 + [AES加解密算法的原理和应用与安全性解析](https://mp.weixin.qq.com/s/B3Up_ZzXmzGcJe5wVdbWvQ)
++ [密码学承诺原理与应用 - 概览](https://mp.weixin.qq.com/s/_JArh9nTuBl8-9sT981VzA)
 
 ### 鉴权
 
@@ -370,6 +373,8 @@
 + [模块化代码 - 实例简介](https://mp.weixin.qq.com/s/sHV9ebMZ4Ns1CH78nntIFA)
 + [一款完全开源的基于SpringBoot、Spring Security、Jwt、Vue的前后端分离的后台管理系统](https://mp.weixin.qq.com/s/9RAJ9VLCTbI8Pr6H1LA5og)
 + [PaaS和SaaS：如何选择最适合你的软件交付方式](https://mp.weixin.qq.com/s/gsh-scit9vfRfHibg-7UQg)
++ [第十四课-系统学习代码审计：整数溢出和不安全的随机数](https://mp.weixin.qq.com/s/IPW3QQGN1_GyIVToKtP5Fw)
++ [你知道什么是 SaaS 吗？](https://mp.weixin.qq.com/s/xV2qBBVqr5CS9_YGsUyooA)
 
 # 测试相关
 
@@ -381,6 +386,7 @@
 + [程序员别骗自己了，你分明就是不会写单元测试！！！而不是没时间。](https://mp.weixin.qq.com/s/Xt5DsztM0fJcmcxwZE8JRw)
 + [如何管理和维护自动化测试](https://mp.weixin.qq.com/s/XjlQ2zzzGeWNwFXz2d3ymQ)
 + [软件测试之道 -- 做一个有匠心的程序员！](https://mp.weixin.qq.com/s/ktEMOcXBopFiX9NIN3chHg)
++ [API接口文件包含+命令执行](https://mp.weixin.qq.com/s/LnMUi8-BjaUvq9hdQAOKmA)
 
 # 领域相关
 

@@ -97,6 +97,7 @@
 + [程序员进阶架构知识体系、开发运维工具使用、Java体系知识扩展、前后端分离流程详解、设计模式开发实例汇总专栏分享](https://mp.weixin.qq.com/s/d-n58SnRED3-il8aDNJNjw)
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
++ [再见 Typora！推荐一个 4.6 万 Star 的开源 Markdown 编辑器](https://mp.weixin.qq.com/s/26BTkr2pK3CSOMXxvhg0ng)
 + [Redis 官方可视化工具，高颜值，功能真心强大！](https://mp.weixin.qq.com/s/n_7C4dxSSv_1x7ZuEs7wQg)
 + [it-tools，让你的工作效率飞跃提升！](https://mp.weixin.qq.com/s/H2zdyUqQANEP2rwij2b4nw)
 + [【开源】数据库 DevOps 工具，专为应用开发者和数据库管理员（DBA）设计](https://mp.weixin.qq.com/s/QRhEPRHIy315D-SdZkgH5w)
@@ -261,6 +262,8 @@
 + [要低代码，不要低能力，低代码工具能否成为企业增效神器？](https://mp.weixin.qq.com/s/ImwTa5DIy5bUWwaCrGn1JQ)
 + [三次输错密码后，系统是怎么做到不让我继续尝试的？](https://mp.weixin.qq.com/s/O2FoDZ47KoHzP34-i8dEjA)
 + [公司招了个牛逼的架构师，把代码重构了一遍，代码问题少了一半，老板决定裁掉一半人。老油条慌了就联合起来把他搞走，并回滚到以前版本](https://mp.weixin.qq.com/s/m58sZg4N-CjnxyEjnGGByw)
++ [我也怀疑这是IDEA的BUG](https://mp.weixin.qq.com/s/thGsNebG3Wnn02IG-b2LHA)
++ [这么奇葩的面试题都是谁出的，有什么意义吗？](https://mp.weixin.qq.com/s/goETp6Ansf5PHHKUU6Ja2g)
 
 
 ## 创业

@@ -264,6 +264,7 @@
 + [公司招了个牛逼的架构师，把代码重构了一遍，代码问题少了一半，老板决定裁掉一半人。老油条慌了就联合起来把他搞走，并回滚到以前版本](https://mp.weixin.qq.com/s/m58sZg4N-CjnxyEjnGGByw)
 + [我也怀疑这是IDEA的BUG](https://mp.weixin.qq.com/s/thGsNebG3Wnn02IG-b2LHA)
 + [这么奇葩的面试题都是谁出的，有什么意义吗？](https://mp.weixin.qq.com/s/goETp6Ansf5PHHKUU6Ja2g)
++ [最罕见的性格，在程序员里却最常见？它就是。。](https://mp.weixin.qq.com/s/oQ9shwS6geumO4pEsnzwKA)
 
 
 ## 创业

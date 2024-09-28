@@ -238,6 +238,7 @@
 + [通用框架实践｜Pipeline设计+幂等重试](https://mp.weixin.qq.com/s/bBZFDx6WwRfTnfQS08Mesg)
 + [美团面试官：订单重复支付，如何解决？有点懵](https://mp.weixin.qq.com/s/zU0WFziKSQA28SLOZ_5d-A)
 + [如何保证接口幂等性 ？高并发下的接口幂等性如何实现 ？](https://mp.weixin.qq.com/s/irLRi-yZyZ1e9kHUPV7CVg)
++ [大厂必问 · 如何防止订单重复？](https://mp.weixin.qq.com/s/y2ndN0bJFiwYiJCPD4vKGA)
 
 ### 负载&限流
 
@@ -270,6 +271,7 @@
 + [面试官：订单30分钟未支付自动取消用什么实现方案？如何使用Redis实现延迟队列？](https://mp.weixin.qq.com/s/bey1XVEqf8cy1Uqxqt4gCw)
 + [一套万能的异步处理方案（建议收藏）](https://mp.weixin.qq.com/s/PEt25sZYC5mm1KVu8LLW9w)
 + [一套万能的异步处理方案（典藏版）](https://mp.weixin.qq.com/s/bBqWTkxcpOq1wnESEdpp3g)
++ [处理订单未支付并自动关闭](https://mp.weixin.qq.com/s/sH-LTdAJSUzKgGOz1jh-ZA)
 
 ## 缓存
 
@@ -375,6 +377,7 @@
 + [PaaS和SaaS：如何选择最适合你的软件交付方式](https://mp.weixin.qq.com/s/gsh-scit9vfRfHibg-7UQg)
 + [第十四课-系统学习代码审计：整数溢出和不安全的随机数](https://mp.weixin.qq.com/s/IPW3QQGN1_GyIVToKtP5Fw)
 + [你知道什么是 SaaS 吗？](https://mp.weixin.qq.com/s/xV2qBBVqr5CS9_YGsUyooA)
++ [Polling和Webhooks，细说两者的区别](https://mp.weixin.qq.com/s/-zYppv4rcNijHueSN1YeAQ)
 
 # 测试相关
 

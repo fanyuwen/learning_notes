@@ -126,6 +126,7 @@
 + [Java中如何高效地合并多个对象的List数据：方法与案例解析](https://mp.weixin.qq.com/s/Zszq8anSZ0fRpVTOJnBAGQ)
 + [java中反射（Reflection）的4个作用](https://mp.weixin.qq.com/s/CVq3eL4hPIhR0dgtaoZWgQ)
 + [并发处理的利器：深入探讨锁分离设计案例（高并发篇）](https://mp.weixin.qq.com/s/WZkcT4sroe9f3ebGzABSHg)
++ [java如何不让方法调用者处理受检异常？](https://mp.weixin.qq.com/s/k-D7OLDxPB-9HwNNidfcKg)
 
 ## 代码质量
 
@@ -232,6 +233,7 @@
 + [面试官：为什么 wait, notify和 notifyAll是 Object 类的一部分，而不是 Thread 类的？](https://mp.weixin.qq.com/s/F8r32oB8j2qrd_QX0_EjeA)
 + [面试官：volatile数组是否有效？数组元素的更新是否能够被立即看到](https://mp.weixin.qq.com/s/2FWJuprPReJdpPobrPp1vg)
 + [面试官：String s = new String("xyz") 创建了几个对象？](https://mp.weixin.qq.com/s/CKDN03jJTCmFVJB_teI9OA)
++ [BigDecimal 为什么可以保证精度不丢失？](https://mp.weixin.qq.com/s/8-wtW0yV4__fCbVr0JUTYQ)
 + [美团一面，发生OOM了，程序还能继续运行吗？](https://mp.weixin.qq.com/s/w-CMMz9Y9JkXdciN6xBsWg)
 + [面试官：简要说一下线程和协程的区别？](https://mp.weixin.qq.com/s/6xtqKn5Sma3kQO8GXRlHqA)
 + [腾讯一面：为什么volatile不能保证复合操作（如自增操作 i++）的线程安全？](https://mp.weixin.qq.com/s/FvkgoP_1TxP0Tyj1RJVevQ)
@@ -514,6 +516,7 @@
 + [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
 + [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
 + [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
++ [spring下自动装配的各种模式？](https://mp.weixin.qq.com/s/fHU_Lna03MJ12NjnGcIk-w)
 
 ### 新版本新特性
 
@@ -595,6 +598,7 @@
 + [工作 6 年，@Transactional 注解用的一塌糊涂](https://mp.weixin.qq.com/s/bqcY90RT1KHQWS0470tWOQ)
 + [什么时候@Transactional失效？给出示例讲解](https://mp.weixin.qq.com/s/jrUPjUTs1f82JA6gJe12cg)
 + [【JavaEE进阶】Spring中事务的实现](https://mp.weixin.qq.com/s/WbszuyzCMBNW2leM8p2P-A)
++ [深入解析 @Transactional 作用于私有方法时事务失效的原因](https://mp.weixin.qq.com/s/7wIsaeP1Ga1KIwSuPtEIFw)
 
 ### 设计模式
 
@@ -708,6 +712,7 @@
 + [请不要自己写！Spring Boot非常实用的内置功能](https://mp.weixin.qq.com/s/UKe0vMTFo8lKRBUpKINTng)
 + [请不要自己写，Spring Boot 非常实用的内置功能](https://my.oschina.net/lenve/blog/15971372)
 + [Spring Boot与Spring Integration：集成模式的现代化实现](https://mp.weixin.qq.com/s/0dlxNS0ojVrXCFzeDxDoDQ)
++ [Spring Boot中通过3种方式初始化数据，你们如何选择？](https://mp.weixin.qq.com/s/Jm5r63aTeHnNGJs4AwekJA)
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
 + [生产环境Spring Boot切记要关闭这个开关](https://mp.weixin.qq.com/s/keb2jr0RdNszhsFBx7_5CQ)
@@ -880,6 +885,7 @@
 + [新项目为什么决定用 Spring Boot 3.1 + JDK 17了](https://mp.weixin.qq.com/s/hxY0Rk1144h-3JPRcl_5aQ)
 + [发现 XSS 漏洞？别急，用这招 SpringBoot 3.3 技巧轻松搞定！](https://mp.weixin.qq.com/s/gydaV2bpUjFa3KsE4vYBYg)
 + [炫技Groovy！SpringBoot中的动态编程实战](https://mp.weixin.qq.com/s/Kkz_fM_ASa_ZYvehvKf4Qg)
++ [记一次Spring boot框架代审与思考](https://mp.weixin.qq.com/s/kHcPLaSPTtOHWd6N1abiHg)
 
 #### 分布式
 
@@ -1039,6 +1045,7 @@
 + [让你的SpringBoot应用飞起来：HikariCP连接池整合详解](https://mp.weixin.qq.com/s/YwsHDuYzbIbMinJy4AfABg)
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
 + [Spring Boot 集成 Elasticsearch【入门篇】](https://mp.weixin.qq.com/s/jlWWaxdZH02rLF67JGoLHg)
++ [Java Web||第25节：SpringBoot3集成Redis](https://mp.weixin.qq.com/s/Dp3bBm6wyZ1-9-_dRqeUOw)
 
 ##### TRANSACTION
 
@@ -1136,6 +1143,7 @@
 + [Spring Boot 配置日志输出的正确姿势！](https://mp.weixin.qq.com/s/4fP0B7jp-7xfD1bysfb1nA)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/qB0Dz3QzfS3RBHxaPpIMZg)
 + [优雅！Spring Boot处理日志中的敏感数据](https://mp.weixin.qq.com/s/JnBH79PUYFtaVL1D7ipodw)
++ [重磅！Spring Boot3.4 结构化日志，强大的日志记录技术](https://mp.weixin.qq.com/s/WcjkUpH0B__Gd9mdPogKwA)
 
 #### 安全
 

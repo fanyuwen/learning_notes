@@ -68,6 +68,7 @@
 + [Linnux服务器之间实现文件实时同步](https://mp.weixin.qq.com/s/87-1u2yIxruXos3_53X1tA)
 + [深入探索linux的零拷贝（zero-copy）：底层技术原理与代码实现](https://mp.weixin.qq.com/s/hv5RH85bkQzcGAQzVsNY2A)
 + [【内核】Linux内核驱动加载顺序源码剖析](https://mp.weixin.qq.com/s/rKCrgbUMkSwDQtrWPH0jAg)
++ [探索linux高效异步io：io_uring的实现原理与案例分析](https://mp.weixin.qq.com/s/ou8PHhDc3LZ9VII211yRUQ)
 
 ### 网络
 
@@ -189,6 +190,7 @@
 + [一文掌握http和https关键的知识点](https://mp.weixin.qq.com/s/-9QN_2vPQFJt6cGxC3MMOg)
 + [HTTP3势头这么猛，它的优势在哪里？](https://mp.weixin.qq.com/s/wEbRl8e63FbG6iIlLvLg5w)
 + [揭秘HTTPS：抓包与反抓包](https://mp.weixin.qq.com/s/Uj3JLmHO2F-dENvmk2jUbA)
++ [XSS 基本概念和原理介绍](https://mp.weixin.qq.com/s/xLu3C1cnfXY743oeY1UeJw)
 
 #### CORS
 

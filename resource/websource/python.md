@@ -323,6 +323,7 @@
 + [Hypothesis，世界上最牛逼的Python库](https://mp.weixin.qq.com/s/ODkiqH0lJywRzESJHZr3OQ)
 + [Hydra，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/CB9wTVgnz3ksrlyuS_MjCw)
 + [hello-name，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/9W_LBiaKMLVU0wRqNnwd5A)
++ [imghdr，一个强大的Python库](https://mp.weixin.qq.com/s/hsiXY9x8UYFOsQzvXY-vIA)
 + [agi-pack，一个牛逼的python库](https://mp.weixin.qq.com/s/OIx3AnqDqb2CgapDPJEe_Q)
 + [hello-name，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/9W_LBiaKMLVU0wRqNnwd5A)
 + [get-ipinfo，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/kDi61DTle9gXWvXemSJuHg)

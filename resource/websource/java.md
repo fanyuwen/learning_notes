@@ -175,6 +175,7 @@
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
++ [多线程性能优化最大的坑，99%的人都不自知！](https://mp.weixin.qq.com/s/-c9aChd6gBpw9HbJmO5TxA)
 + [Java中有几种方法可以实现一个线程](https://mp.weixin.qq.com/s/EnjhtNAJBwx53zBPhr7iBQ)
 + [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
 + [sychronized的自旋锁、偏向锁、轻量级锁、重量级锁，分别介绍和联系](https://mp.weixin.qq.com/s/SRAPGkiu44v62YSd1EAoJQ)
@@ -302,6 +303,9 @@
 + [常见的OOM的场景有哪些](https://mp.weixin.qq.com/s/7fftGzr_8u2d6ZCoc1G4aw)
 + [Java常量池解析：机制、作用与示例讲解](https://mp.weixin.qq.com/s/0La38jw7Jj3duDnXt4j8mw)
 + [性能调优专题 -- JVM OOM](https://mp.weixin.qq.com/s/bAc_hXo2Mlfo4S0_Ltu0xw)
++ [JVM如何基于虚拟机栈创建对象?](https://mp.weixin.qq.com/s/YtmU5FVyEkRFvSxGA43kdw)
++ [面试官：你工作中做过 JVM 调优吗？怎么做的？](https://mp.weixin.qq.com/s/K4W6-BGTH2VG5cnaMMQ-8Q)
++ [类加载机制与类加载器](https://mp.weixin.qq.com/s/v-CnKRO0ezSxdocS0Ff2vQ)
 
 # 核心库
 
@@ -695,6 +699,7 @@
 + [SpringBoot实战：DeepLearning4j实现图片数字识别](https://mp.weixin.qq.com/s/DYEXU3AS9AH3dWeQcG-aCA)
 + [请不要自己写！Spring Boot非常实用的内置功能](https://mp.weixin.qq.com/s/UKe0vMTFo8lKRBUpKINTng)
 + [请不要自己写，Spring Boot 非常实用的内置功能](https://my.oschina.net/lenve/blog/15971372)
++ [Spring Boot与Spring Integration：集成模式的现代化实现](https://mp.weixin.qq.com/s/0dlxNS0ojVrXCFzeDxDoDQ)
 + [SpringBoot 注解最全详解，建议收藏！](https://mp.weixin.qq.com/s/2wC5JCiaBc_R-456P3zt5Q)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/H4-ReLtg9ey7D9kzcdiQsQ)
 + [生产环境Spring Boot切记要关闭这个开关](https://mp.weixin.qq.com/s/keb2jr0RdNszhsFBx7_5CQ)
@@ -1120,6 +1125,7 @@
 + [Spring Boot 源码分析 - 日志系统](https://blog.51cto.com/u_15668812/11064336)
 + [Spring Boot 配置日志输出的正确姿势！](https://mp.weixin.qq.com/s/4fP0B7jp-7xfD1bysfb1nA)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/qB0Dz3QzfS3RBHxaPpIMZg)
++ [优雅！Spring Boot处理日志中的敏感数据](https://mp.weixin.qq.com/s/JnBH79PUYFtaVL1D7ipodw)
 
 #### 安全
 
@@ -1144,6 +1150,7 @@
 + [Spring Boot实战：基于模板方法模式重构订单处理流程](https://mp.weixin.qq.com/s/Db5X-oGCU3--u2BMwDXMJg)
 + [在Spring Boot中运用职责链模式处理请求中间件](https://mp.weixin.qq.com/s/PEOurY6p-Ueh2QkFddBbgw)
 + [Spring Boot实战：使用策略模式优化商品推荐系统](https://mp.weixin.qq.com/s/yit_4n0xgITph3GlgnHYDg)
++ [Spring Boot 实战适配器模式——连接不同时代的技术桥梁](https://mp.weixin.qq.com/s/dpKRFSfiugaem3ghoHHw8Q)
 
 #### message
 
@@ -1237,6 +1244,7 @@
 + [MyBatis的安全小坑：#{}与${}：深度解析及实战建议](https://mp.weixin.qq.com/s/eoVJm9LKsfBvXXiSpuHfAw)
 + [MyBatis分页详解及常见面试题](https://mp.weixin.qq.com/s/1GjEW-nNDSkWl4Yl-4kANg)
 + [MyBatis中的设计模式实践与面试解析](https://mp.weixin.qq.com/s/HbNYF36ErESbql4Q2lPCaQ)
++ [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/m5M3T0YJBMjxFZJUHAOlLA)
 
 ### plus
 
@@ -1339,6 +1347,7 @@
 + [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)
 + [从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s/p8YS2DhQaIe0QUTxeSMsQg)
 + [Nacos任意文件读写](https://mp.weixin.qq.com/s/EzMaG3u-lcBnVbPYebP_Ag)
++ [nacos2.3.2鉴权的一些坑](https://mp.weixin.qq.com/s/CABCpyZIZlXqi8OGwhGcvQ)
 
 ## Apollo
 

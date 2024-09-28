@@ -187,6 +187,7 @@
 + [探索 multipart：文件传输的新境界！](https://mp.weixin.qq.com/s/i6tps8T_eanr86WQD8U4hQ)
 + [一文掌握http和https关键的知识点](https://mp.weixin.qq.com/s/-9QN_2vPQFJt6cGxC3MMOg)
 + [HTTP3势头这么猛，它的优势在哪里？](https://mp.weixin.qq.com/s/wEbRl8e63FbG6iIlLvLg5w)
++ [揭秘HTTPS：抓包与反抓包](https://mp.weixin.qq.com/s/Uj3JLmHO2F-dENvmk2jUbA)
 
 #### CORS
 
@@ -261,6 +262,7 @@
 + [Nginx 配置高性能静态网站 - 缓存、Gzip、跨域和防盗链](https://mp.weixin.qq.com/s/tQkcDn5lLvWQak6ZyUsSmQ)
 + [面试高频题：Nginx 并发高的秘密](https://mp.weixin.qq.com/s/3SJM9RnO2GDNhcY1bKkhCQ)
 + [从零手写实现 nginx-07-如何实现大文件分块传输?](https://mp.weixin.qq.com/s/vHkEpNYAzd3fnKZi0pI2UA)
++ [nginx的docker部署](https://mp.weixin.qq.com/s/6hPFrFGUuZhmBnHBDGplag)
 
 ### wireshark
 

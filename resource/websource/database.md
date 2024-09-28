@@ -137,6 +137,7 @@
 + [(二十五)MySQL主从实践篇：超详细版读写分离、双主热备架构搭建教学](https://mp.weixin.qq.com/s/Rnyhk6k0bsp3AIfmDsGpJw)
 + [mysql 快速定位cpu 占比过高的sql语句](https://mp.weixin.qq.com/s/7w8T6fzdcsFQwZzI-W-SXQ)
 + [一套高效解决方案：MySQL数据实时同步到Elasticsearch](https://mp.weixin.qq.com/s/HOaRZDRaFnvC8J0EL4o4Uw)
++ [MySQL 中 IN 过多时的性能问题](https://mp.weixin.qq.com/s/tCjgzpVBazUWCTlb2n1XCw)
 + [MySQL保姆级教程（基础篇）从小白到高手的进阶指南](https://mp.weixin.qq.com/s/ooVUoHRgMphOcumRWA7FMw)
 + [探索MySQL的高效数据同步：并行复制原理](https://mp.weixin.qq.com/s/VjefHUEwfjGpXzdDG7OubQ)
 + [MySQL数据库为什么用b+树？](https://mp.weixin.qq.com/s/kJez9DJBNVEZeK4dte_X8g)
@@ -448,6 +449,7 @@
 + [Redis 持久化的秘密：面试必知技巧与解析](https://mp.weixin.qq.com/s/-f7XfFgUc_z6_AVJ54XhZQ)
 + [使用 Redis 时不可原谅的几个低级错误](https://my.oschina.net/lenve/blog/15670941)
 + [利用 Redis 实现每周热评，简直无敌](https://mp.weixin.qq.com/s/IXCC6QFr3ZehY8OY4pP6HA)
++ [Redis 延迟毛刺问题定位-软中断篇](https://mp.weixin.qq.com/s/iC2zZDbyva8C3VnTRK-W_g)
 
 #### 原理
 

@@ -149,6 +149,7 @@
 + [Python 新手必看：如何用 unittest 写出高质量代码？](https://mp.weixin.qq.com/s/2Sryhcgig1PbOazFLkVq1Q)
 + [10个Python编程中的聪明小把戏](https://mp.weixin.qq.com/s/HoMgEosDO5TdwAg_LJxSLw)
 + [15个Python函数式编程的实用技巧](https://mp.weixin.qq.com/s/6xERuUjANfAGkaUNxupfsQ)
++ [优化工作流程的Python自动化脚本5例](https://mp.weixin.qq.com/s/9jMVJksMEQDnWSHYFStLkw)
 + [深入探索Python中的单例模式：实现与应用](https://mp.weixin.qq.com/s/WrePcQmDsSAYrGt-LCnAOA)
 + [想让字典操作更优雅？自定义Python字典类型，简化你的代码库！](https://mp.weixin.qq.com/s/ERQ6d0ol34cTQMX1mJL5VQ)
 + [探秘水仙花数：Python编程初学者的趣味之旅](https://mp.weixin.qq.com/s/DS5pZ_Lai1AdfdDC1_LJ2g)
@@ -300,13 +301,17 @@
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [theano，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/poeuvMH-X6QUcX4ERoJKUQ)
++ [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
++ [Nipy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/_NlF1OfdgeMYDtEc44L1Aw)
 + [PyDy，一个牛逼的python库](https://mp.weixin.qq.com/s/V7E8gX4XL_SsfZe59EWqNw)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
++ [mypy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/bWQs3EnfcCLMS5584xJ2Ow)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)
 + [pyg3，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/VrfcAVmgoMx29mStLnIIBQ)
 + [Zipline，一个牛逼的python库](https://mp.weixin.qq.com/s/pgV1flDx4gFY3r8lfj1Cnw)
++ [ObsPy，一个牛逼的python库](https://mp.weixin.qq.com/s/pJXYCft_YBJrK-luHSHkbw)
 + [TextBlob - 个Python中非常有用的库](https://mp.weixin.qq.com/s/DEHLB38-T0QU5uBILhjH8A)
 + [Fire，一个超级强大的Python工具](https://mp.weixin.qq.com/s/-9BrvQ8jb8Lx4XDBHzGZgg)
 + [statsmodels，一个牛逼的python库](https://mp.weixin.qq.com/s/dzsT3MN4uTjjPEtxbszXyg)
@@ -493,6 +498,7 @@
 
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 + [django框架入门——第一个简单示例](https://mp.weixin.qq.com/s/_-wdVy_hTwQiV84V9Tpb4g)
++ [Django，一个王者级Web开发Python库！](https://mp.weixin.qq.com/s/0jhvxl8V03eqTYEh8gFW-A)
 
 ### OPENCV
 

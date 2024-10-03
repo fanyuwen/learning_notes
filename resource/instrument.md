@@ -120,6 +120,7 @@
 + redhat开发资源站 [redhat-developer](https://developers.redhat.com/)
 + javascript学习资源网站 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 + python学习资源 [guide_to_python](https://docs.python-guide.org/) <font style='color:red'>*</font>[realpython](https://realpython.com) [fluentpython](https://www.fluentpython.com/)
++ C/C++学习资源 [The C++ Alliance](https://cppalliance.org/)
 + 软件产品、工具交互web平台 [jupyter](https://jupyter.org/)
 + markdown 图像处理库 [mermaid](https://mermaid.js.org/)
 + android开发者网站 [android](https://developer.android.google.cn/)

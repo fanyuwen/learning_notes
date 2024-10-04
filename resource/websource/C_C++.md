@@ -20,6 +20,7 @@
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
 + [C++回调函数](https://mp.weixin.qq.com/s/KfI36Rf_hB5IxI1tvqllMw)
++ [C++那些事之const全家桶](https://mp.weixin.qq.com/s/hM5eIpaaMDiw8rpZAcpOsQ)
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
@@ -87,6 +88,10 @@
 + [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 + [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
+
+### 资讯
+
++ [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://mp.weixin.qq.com/s/tJJWgDVK8kbaRzP9NMQeVA)
 
 ### 学习资源
 

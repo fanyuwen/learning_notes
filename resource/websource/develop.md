@@ -341,6 +341,7 @@
 + [揭秘Cookie、Session、JWT之间的关系](https://mp.weixin.qq.com/s/Y5MWj66Ujc3Jj7UKoa7VNw)
 + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
 + [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/qKLvRnySF9h0jnPbaRoJcQ)
++ [JWT 实现登录认证 + Token 自动续期方案，这才是正确的使用姿势！](https://mp.weixin.qq.com/s/0xHyRCassgGXp_jq-wcDbg)
 
 ## 存储
 

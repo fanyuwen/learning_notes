@@ -33,6 +33,7 @@
 + [十年 IT 老兵：聊聊我这六点认知！](https://my.oschina.net/u/4899581/blog/5262764)
 + [年薪75万字节员工爆料：985、211大学生，只需把工作往他头上压，教育体系规训出来的绩优主义自然会推着他投入自己的时间把事干好](https://mp.weixin.qq.com/s/uYSlc0Oe4lBwC4v0EbpaSg)
 + [唐豆的 10 年工作心得](https://my.oschina.net/tangdu/blog/15743251)
++ [个人独立开发者如何找到可盈利创业想法？](https://mp.weixin.qq.com/s/lqp6d6M8bmy-221Cd2qGow)
 
 # 个人成长
 
@@ -229,6 +230,7 @@
 + [2024年前端状态管理工具大盘点](https://mp.weixin.qq.com/s/tiqoaTeMf48h13xDD-qBUQ)
 + [云端风暴：网易云故障背后的危机管理与技术复盘](https://mp.weixin.qq.com/s/XY_O5rtABwlGHpsPBIYkVQ)
 + [Android 全力押注 Rust，Linux 却在原地踏步？谷歌：用 Rust 重写固件太简单了！](https://mp.weixin.qq.com/s/HCPNsVKGbmuSfD00S0cXxQ)
++ [2024 年 09 月编程语言排行榜｜C语言跌出前三，历史最低位，Python 创新高](https://mp.weixin.qq.com/s/DGDBOiRQdVksiqjmBPzEQg)
 
 ## 有用趣闻知识
 
@@ -266,6 +268,7 @@
 + [这么奇葩的面试题都是谁出的，有什么意义吗？](https://mp.weixin.qq.com/s/goETp6Ansf5PHHKUU6Ja2g)
 + [最罕见的性格，在程序员里却最常见？它就是。。](https://mp.weixin.qq.com/s/oQ9shwS6geumO4pEsnzwKA)
 + [为什么魂斗罗只有128KB却可以实现那么长的剧情？](https://mp.weixin.qq.com/s/VfTddPWOigLyOSSQr2U2YA)
++ [1997年发v8.0，今天发v9.0版本，什么神仙语言还活着呢？](https://mp.weixin.qq.com/s/SFJOeQQgt_IZ65uQ_SDPUQ)
 
 
 ## 创业
@@ -278,6 +281,7 @@
 + [同事写出烂代码。。。](https://mp.weixin.qq.com/s/KQH6sIiJoJfJafmQFJm95w)
 + [代码是上午写的，人是下午被开除的！](https://mp.weixin.qq.com/s/EXYCVeAcC1SknkEO_4ql4w)
 + [最怕同事写出这样的代码。。。](https://mp.weixin.qq.com/s/7d7uWXr8fmjZkIP11Nhc2Q)
++ [比裁员更侮辱人的事情发生了。。](https://mp.weixin.qq.com/s/2-UAcGkF4EAHoeSc4n-r5g)
 + [只要一个返回语句](https://my.oschina.net/justjavac/blog/63271)
 + [苹果电脑的 macOS 系统有多难用？](https://mp.weixin.qq.com/s/gFN_xoZebL1SSQWO4jOAog)
 + [腾讯宣布全员调薪！](https://mp.weixin.qq.com/s/wxFmBAxIvu_qvAMPwhkwsQ)
@@ -341,6 +345,7 @@
 + [书籍推荐：数据结构与算法图解](https://mp.weixin.qq.com/s/64P8802GqXwW5hS860yZiA)
 + [设计原本，架构师必读（新书上架，送福利）](https://mp.weixin.qq.com/s/PQa7YaPQgTXHSInuH2uTfQ)
 + [强推‼️人人都能看懂的算法入门书，建议翻烂它！](https://mp.weixin.qq.com/s/maBoR77sS-b2tLnslcd4Vg)
++ [10月新书推荐](https://mp.weixin.qq.com/s/SGTuvHzUz8JSx0wTY5WH5A)
 
 ### 生活
 

@@ -5,6 +5,7 @@
 + [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)
++ [Rust 入门 - 通用编程概念 - 数据类型](https://mp.weixin.qq.com/s/_f97EOtBLkY1YlLeS6LpRQ)
 + [Rust 2024版本即将到来…...](https://mp.weixin.qq.com/s/37lM6PX6C_hWCr4bdSWw8g)
 + [Rust 新手必读：《Rust Fuzz Book》让你的代码更安全、更稳定](https://mp.weixin.qq.com/s/brVtrWee3YKZ3AJwwsmp4g)
 + [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
@@ -71,3 +72,7 @@
 + [Rust并发编程4 - 容器类并发原语](https://colobu.com/2023/10/15/concurrency-programming-via-rust-ch04/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust 并发执行异步操作](https://mp.weixin.qq.com/s/jK48_jyuBSGAeHJx6-TNmg)
 + [Rust 中基于 async 和 Future 的异步编程](https://mp.weixin.qq.com/s/lgZFhim3z2P2lDSvWBv7gA)
+
+# 资源
+
++ [你必须读的5本顶级Rust书籍！](https://mp.weixin.qq.com/s/pJLo41bP7X93hqAjv5bwIQ)

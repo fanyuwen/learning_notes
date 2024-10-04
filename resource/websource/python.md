@@ -145,6 +145,8 @@
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
 + [python注释知识点及用法讲解](https://mp.weixin.qq.com/s/tQXD1fajWD_T-rsBOMdEAg)
 + [Python高手不可不知的12个文件处理窍门](https://mp.weixin.qq.com/s/QapseKG9Mt_kiFJmRborpQ)
++ [文件系统管理中Python os模块的12个应用窍门](https://mp.weixin.qq.com/s/Uu6BMFgkUxwoF0ADgBcRzA)
++ [Python与操作系统的10个高级交互指令](https://mp.weixin.qq.com/s/QniEKU7WUdDN12hgO6kw6g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python正则表达式常用的20种操作](https://mp.weixin.qq.com/s/l4-C-0PhCNxaI2jQqbYUzw)
 + [三分钟掌握“Python正则表达式”常见匹配方式](https://mp.weixin.qq.com/s/XL_LDfNhqpSo3TDaxTRnBA)
@@ -267,6 +269,9 @@
 + [Python游戏开发中的16个关键概念](https://mp.weixin.qq.com/s/-HtGwHEJatDRpLFxrmxUUg)
 + [Python运维篇：Mysql的工具类](https://mp.weixin.qq.com/s/UbjBka9JIDFjJjq64Dascw)
 + [用Python进行奥运会奖牌榜可视化分析](https://mp.weixin.qq.com/s/hdHgz6HJLwWyrR5YtyzXEQ)
++ [利用PYTHON批量生成所需文档](https://mp.weixin.qq.com/s/_xBdI4WnZdSNa_HoXZ2GGw)
++ [Python帮你管理Windows进程快速终止无响应程序](https://mp.weixin.qq.com/s/zvBPIG56o2HwuVrQ2xv7Hw)
++ [使用Python破解验证码：从基础到实践](https://mp.weixin.qq.com/s/P3O5jraRlPksE7A2GMy4mw)
 
 ## 第三方库
 
@@ -308,10 +313,12 @@
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
++ [interpret，一个高级的 Python 库！](https://mp.weixin.qq.com/s/K3Ji8No6pbKzS4E5lV9SKw)
 + [rddpip，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/HPFfGfCLdRzYMl9RCoBjWQ)
 + [Nipy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/_NlF1OfdgeMYDtEc44L1Aw)
 + [PyDy，一个牛逼的python库](https://mp.weixin.qq.com/s/V7E8gX4XL_SsfZe59EWqNw)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
++ [Monolog，一个最强大的Python库](https://mp.weixin.qq.com/s/vUxnJQUtbTIdPXtciWGJTg)
 + [mypy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/bWQs3EnfcCLMS5584xJ2Ow)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)
 + [pyg3，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/VrfcAVmgoMx29mStLnIIBQ)
@@ -498,6 +505,7 @@
 + [Thinc，一个超级强大的Python工具](https://mp.weixin.qq.com/s/RTsv79UShTH9Goxtj9ckzQ)
 + [Ray,可扩展的 Python 分布式执行引擎!](https://mp.weixin.qq.com/s/frFBW7NtHI_6nXE71AiXeA)
 + [1、性能测试工具Locust——环境搭建](https://mp.weixin.qq.com/s/wOn4MwmUDi7nNzTloAFR_g)
++ [Baostock，一个超级强大的Python工具](https://mp.weixin.qq.com/s/rd9vdeDJVmJ1K8FoXTuHTA)
 
 ## 框架
 
@@ -543,3 +551,7 @@
 + [Plottable结合Pandas绘制图表：数据可视化的利器](https://mp.weixin.qq.com/s/4KwVJeEOOgh-tIDA-L4KaA)
 + [数据洞察力：Pandas DataFrame高级分析技巧](https://mp.weixin.qq.com/s/-s-Fc3K4aMMf_PsZz6wSdA)
 + [Python数据分析利器：解锁groupby和pivot_table](https://mp.weixin.qq.com/s/arelTBpM0quzB9Z8PkVi3A)
+
+## 其它
+
++ [用python学数学第9课-数学基础4](https://mp.weixin.qq.com/s/VtFkw3yZ7i0TMzZ9bdlD2A)

@@ -191,6 +191,8 @@
 + [HTTP3势头这么猛，它的优势在哪里？](https://mp.weixin.qq.com/s/wEbRl8e63FbG6iIlLvLg5w)
 + [揭秘HTTPS：抓包与反抓包](https://mp.weixin.qq.com/s/Uj3JLmHO2F-dENvmk2jUbA)
 + [XSS 基本概念和原理介绍](https://mp.weixin.qq.com/s/xLu3C1cnfXY743oeY1UeJw)
++ [全面透视HTTPS：深入剖析其安全机制与回顾](https://mp.weixin.qq.com/s/f0QtNaPz-ndGQ40q0FUFEQ)
++ [从HTTP到HTTPS：构建更安全的网络连接](https://mp.weixin.qq.com/s/NI5jXIJUp7h6HaQpBR5wkQ)
 
 #### CORS
 

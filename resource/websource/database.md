@@ -72,6 +72,7 @@
 + [不知道哪种分页效果更好？一次性教给你四种分页方案！](https://mp.weixin.qq.com/s/LujpYV-Q8oKx-xhHgykUJw)
 + [MySQL 处理大数据表的 3 种方案，写的太好了，建议收藏！！](https://mp.weixin.qq.com/s/YDIM98BjdwclVIj-2R1NGA)
 + [慢 SQL 打爆监控！亿级数据表的删除问题](https://mp.weixin.qq.com/s/IlFEasVJFJX4tI-N7-tBJg)
++ [MySQL+Redis，百万数据轻松优化](https://mp.weixin.qq.com/s/-gYAmpV9zVRiYSZbcSubag)
 
 ### 读写分离&分库分表
 
@@ -284,6 +285,7 @@
 + [用一句话讲清楚“脏读、幻读、不可重复读”的概念和区别](https://mp.weixin.qq.com/s/9fO5hLFYke1GT_DymTb8_A)
 + [什么是数据库隔离级别？它们有什么作用？](https://mp.weixin.qq.com/s/_DP6iNvbeOmPsgNLHc5U3Q)
 + [美团面试：binlog、redolog、undo log底层原理是啥？分别实现ACID哪个特性？（尼恩图解，史上最全）](https://mp.weixin.qq.com/s/p1eHHIVPetADdrWe__Hdbw)
++ [MySQL 分布式事务详解](https://mp.weixin.qq.com/s/lzpm_29ZtJq8pRTXfAQTig)
 
 #### 索引
 

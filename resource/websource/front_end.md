@@ -171,6 +171,7 @@
 
 + [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
 + [前端性能优化：提升用户体验的实战指南](https://mp.weixin.qq.com/s/tlZdJYZzRESQSvXOP1F42A)
++ [一次基于 AST 的大规模代码迁移实践](https://my.oschina.net/vivotech/blog/16008871)
 
 # 杂谈
 

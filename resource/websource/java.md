@@ -206,6 +206,7 @@
 + [Java反射机制最全详解(图文全面总结)](https://mp.weixin.qq.com/s/-tuiPpAATmgmWaWlV89zWg)
 + [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
 + [为什么idea建议使用“+”拼接字符串](https://mp.weixin.qq.com/s/5o2rC0h4nvaeJMVSEsrHAg)
++ [万字长文理解无界队列和有界队列和适用场景](https://my.oschina.net/weige87/blog/16053881)
 + [java本地代码一定性能更高吗？](https://mp.weixin.qq.com/s/CQM6RVdfGIr_h6sc0UONSA)
 + [封装类的奥秘，Integer与int你了解多少？](https://mp.weixin.qq.com/s/v8zXkbLvCkKpkW5gBckVBQ)
 + [深入探讨Java的分层编译](https://mp.weixin.qq.com/s/ZNNyRrjjLlaeepuUByqaGQ)
@@ -1492,6 +1493,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [Java Web 应用升级故障案例解析](https://my.oschina.net/u/4662964/blog/15972783)
 + [Windows部署Java JDK的方法](https://mp.weixin.qq.com/s/NQ4tMbNnqLvFvx1g1pNoAw)
 + [现在刚入行的 Java 开发者已经不知道 Tomcat 了](https://mp.weixin.qq.com/s/I39uXPFronIX6JOaKFpR3g)
 + [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/RT3bMwQ9TaLY3rTVT9rRPw)
@@ -1538,3 +1540,4 @@
 + [生产环境大面积404，这锅我不背！](https://mp.weixin.qq.com/s/SF-LWtvLvpayHR2ColtpKQ)
 + [RPC 线程池被打满，1024个线程居然不够用？](https://mp.weixin.qq.com/s/VzReTA0YUDHVPCKRK-h5Ag)
 + [我悟了！原来在Java项目中是这样配置SSL证书的，想不会都难，建议收藏！](https://mp.weixin.qq.com/s/31K7jl3XD5fMWnfjm0HS0Q)
++ [开发经验总结：读写分离简单实现](https://my.oschina.net/carterspring/blog/15998430)

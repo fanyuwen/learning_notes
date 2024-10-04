@@ -63,6 +63,7 @@
 
 + [Rust嵌入式数据库：Native DB](https://mp.weixin.qq.com/s/Nzm3MB5R4DSRIRjzlD0kuQ)
 + [Rust 原生跨平台GUI Slint](https://mp.weixin.qq.com/s/Ldqmv_lTjm-k1vZKodu6qQ)
++ [httpmock Rust 的 HTTP 模拟库。](https://mp.weixin.qq.com/s/w2t7-g8j2QXBYIVjW9SDLA)
 
 # 并发
 

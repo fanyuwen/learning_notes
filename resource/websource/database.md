@@ -347,6 +347,7 @@
 ### SQLLite
 
 + [SQLite这么小众的数据库，到底是什么人在用？](https://mp.weixin.qq.com/s/QpXp6EL6PNcrXVedbBDbMw)
++ [sqlite3使用pysqlcipher3平替实现加密！](https://mp.weixin.qq.com/s/iDYAWOBJLuiwHuTwlivW7g)
 
 ### DuckDB
 
@@ -365,6 +366,7 @@
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
 + [RESP 3协议](https://mp.weixin.qq.com/s/dfLp6m9wWxSX5dN2yHZPOA)
 + [Redis亮剑！官方搜索引擎横空出世，性能飙升秒杀ES，重构搜索新时代！](https://mp.weixin.qq.com/s/nz5YpLKXdsJgH-uFA1iDwg)
++ [如何用 Redis 统计用户访问量](https://mp.weixin.qq.com/s/r2ZAuWx0hXkQcVsC8jLZuQ)
 + [基于Redis List实现消息队列](https://mp.weixin.qq.com/s/M9NBA0cicNsJGPOJXPSM9g)
 + [Redis Cluster集群模式部署](https://mp.weixin.qq.com/s/XHVW-1joAWYkBsYm22u5Eg)
 + [领导：谁再用Redis实现过期订单关闭，立马滚蛋！](https://mp.weixin.qq.com/s/P-FjPUgPFZ36uljAqQpfYw)

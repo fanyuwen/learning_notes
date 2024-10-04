@@ -299,6 +299,8 @@
 + [面试官：字节流可以处理一切文件为什么还需要字符流呢？](https://mp.weixin.qq.com/s/CSgywxpm7gfV3W6jjvWqBg)
 + [同步、异步、阻塞、非阻塞的IO的区别？](https://mp.weixin.qq.com/s/u2JsX65EmgGOppoKvGpCFw)
 + [【通用】简述什么是同步IO、异步IO、阻塞IO、非阻塞IO？](https://mp.weixin.qq.com/s/0b4VI_xMce7eLOTRHvkBFA)
++ [块设备IO流程](https://mp.weixin.qq.com/s/iP0uccG2Sy6d3M3TzRDMbg)
++ [彻底解密：select,poll底层系统调用的核心思想原理](https://mp.weixin.qq.com/s/XoUXKDJjoVh-D_IqFY2Oig)
 
 ## 字符编码
 

@@ -159,6 +159,10 @@
 
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
 
+## 其它
+
++ [Nuxt3和Next.js对比](https://mp.weixin.qq.com/s/OuKO8fcT5LsIBWtkSH7Png)
+
 # 架构相关
 
 + [实践总结｜前端架构设计的一点考究](https://my.oschina.net/u/4662964/blog/11051025)

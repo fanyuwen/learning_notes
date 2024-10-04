@@ -451,6 +451,7 @@
 + [使用 Redis 时不可原谅的几个低级错误](https://my.oschina.net/lenve/blog/15670941)
 + [利用 Redis 实现每周热评，简直无敌](https://mp.weixin.qq.com/s/IXCC6QFr3ZehY8OY4pP6HA)
 + [Redis 延迟毛刺问题定位-软中断篇](https://mp.weixin.qq.com/s/iC2zZDbyva8C3VnTRK-W_g)
++ [遇到过Redis故障吗？有哪些？](https://mp.weixin.qq.com/s/ckx8QMJqZE8rYafQ8IDRrw)
 
 #### 原理
 

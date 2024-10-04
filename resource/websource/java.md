@@ -22,10 +22,13 @@
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 + [来请讲解下Java泛型吧](https://mp.weixin.qq.com/s/EHGpT-kliGbAx5zE9olSZg)
 + [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
++ [Java 枚举实战案例，让你告别繁琐的常量管理！](https://mp.weixin.qq.com/s/KI63wEPcqWTRuNwM897e3A)
++ [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 
 ## 新语言特性
 
 + [JEP 481：作用域值API的第3个预览版随JDK 23发布，带来关键增强](https://mp.weixin.qq.com/s/woAR6QjUlyWcISwPYRubqA)
++ [Java 8的关键新特性：Lambda表达式、Base64编码、日期时间API及Optional类](https://mp.weixin.qq.com/s/pHYDeoGRa4BWcayWv1HmIw)
 + [感受 lambda 之美！](https://mp.weixin.qq.com/s/zlQpy5OjcaDoBIfIzMt1Jg)
 + [关于虚拟线程的学习、思考和验证](https://mp.weixin.qq.com/s/mOGVl9c3ICw0C_hVQMpWDA)
 + [Project Leyden 早期访问版本开放下载：Java 程序启动速度提升 2 至 3 倍](https://mp.weixin.qq.com/s/inM7uwIC8_AubyXZUhBT1g)
@@ -74,6 +77,7 @@
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java Sream中如何自定义Collector实现复杂数据的收集](https://mp.weixin.qq.com/s/jW0ZoQP3gOUzbXW3qLWO9g)
 + [Java 8 Stream API 深度探索：多层嵌套、分组聚合与复杂过滤](https://mp.weixin.qq.com/s/ZcmdyMhORXKoePiVjJHOJA)
++ [Java 8 Stream API：强大而灵活的数据处理流水线](https://mp.weixin.qq.com/s/NU07KVGs3waZoVZtos63Sg)
 + [java中常用的22种数据类型转换，超详细！](https://mp.weixin.qq.com/s/EPj8uSKVTMRM1KHNHIwlug)
 + [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
 + [总结｜Stream流技术在真实案例中的应用](https://mp.weixin.qq.com/s/mZbejfgxLVwO7pu4nkRjIg)
@@ -577,6 +581,7 @@
 + [SpringBatch高阶应用：大数据批处理框架实战指南s](https://mp.weixin.qq.com/s/U7DVthqRtaFv8x_AR-CyHA)
 + [批处理框架 Spring Batch 这么强，你真的会用吗？](https://mp.weixin.qq.com/s/1o9YFnV0LZj6Cx6wmkzp5Q)
 + [如何使用 Spring Data JPA 进行数据库访问？](https://mp.weixin.qq.com/s/mYc_QfdIbMGW2yxbQNbCoA)
++ [掌握Spring Batch 5.1.2：提升企业批处理效率的秘密武器！](https://mp.weixin.qq.com/s/DJyrD7ojqUbAwi1HIMfq9A)
 
 #### transaction
 
@@ -636,6 +641,7 @@
 + [Spring AOP提升审批流程效率：自动化、透明化，让业务飞速运转！](https://mp.weixin.qq.com/s/kaWLWZRNR9oFCep0_ASF9w)
 + [8 个Spring AOP 全部注解：真实业务使用案例说明(必须收藏)](https://mp.weixin.qq.com/s/XeTH11cGK0KGEfIiPM3Eiw)
 + [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
++ [Spring AOP异步操作实现](https://mp.weixin.qq.com/s/QkZB0vHEG9eedI7QbOv32A)
 
 ### 配置打包部署
 
@@ -886,6 +892,7 @@
 + [发现 XSS 漏洞？别急，用这招 SpringBoot 3.3 技巧轻松搞定！](https://mp.weixin.qq.com/s/gydaV2bpUjFa3KsE4vYBYg)
 + [炫技Groovy！SpringBoot中的动态编程实战](https://mp.weixin.qq.com/s/Kkz_fM_ASa_ZYvehvKf4Qg)
 + [记一次Spring boot框架代审与思考](https://mp.weixin.qq.com/s/kHcPLaSPTtOHWd6N1abiHg)
++ [SpringBoot Guava 实现 API 限流](https://mp.weixin.qq.com/s/h-q_AkSCTEwQInJJ9JPlUg)
 
 #### 分布式
 
@@ -1108,6 +1115,7 @@
 + [Reactor模型在Spring Boot中的应用](https://mp.weixin.qq.com/s/atFVq47LOfV74xh9gNhJbw)
 + [Spring Boot实战：Spring Events与异步事件驱动的最佳实践](https://mp.weixin.qq.com/s/Q3foH2dCFlO52Tkcl8fCHw)
 + [Springboot中自定义监听器](https://mp.weixin.qq.com/s/GdriC2lLM-2oJEiICs0__Q)
++ [强大！Spring Boot 结合事件驱动架构，打造高效可扩展的订单处理系统](https://mp.weixin.qq.com/s/2HXRNl_jtxUVJJpRtNJkTw)
 
 #### CACHE
 
@@ -1169,6 +1177,7 @@
 + [在Spring Boot中运用职责链模式处理请求中间件](https://mp.weixin.qq.com/s/PEOurY6p-Ueh2QkFddBbgw)
 + [Spring Boot实战：使用策略模式优化商品推荐系统](https://mp.weixin.qq.com/s/yit_4n0xgITph3GlgnHYDg)
 + [Spring Boot 实战适配器模式——连接不同时代的技术桥梁](https://mp.weixin.qq.com/s/dpKRFSfiugaem3ghoHHw8Q)
++ [Spring Boot与观察者模式：实现数据同步更新机制](https://mp.weixin.qq.com/s/gWUHlzE-bjEGgBIdmhHTrw)
 
 #### message
 
@@ -1260,6 +1269,7 @@
 + [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
 + [Mybatis源码之各组件原理](https://mp.weixin.qq.com/s/YUxmIBSy7cNvyGzK8CNubw)
 + [MyBatis的安全小坑：#{}与${}：深度解析及实战建议](https://mp.weixin.qq.com/s/eoVJm9LKsfBvXXiSpuHfAw)
++ [mybatis 中 #{}和 ${}的区别是什么？](https://mp.weixin.qq.com/s/Hl_mRAFuI9SaRkkIYhZDaQ)
 + [MyBatis分页详解及常见面试题](https://mp.weixin.qq.com/s/1GjEW-nNDSkWl4Yl-4kANg)
 + [MyBatis中的设计模式实践与面试解析](https://mp.weixin.qq.com/s/HbNYF36ErESbql4Q2lPCaQ)
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/m5M3T0YJBMjxFZJUHAOlLA)
@@ -1367,7 +1377,7 @@
 + [Nacos任意文件读写](https://mp.weixin.qq.com/s/EzMaG3u-lcBnVbPYebP_Ag)
 + [nacos2.3.2鉴权的一些坑](https://mp.weixin.qq.com/s/CABCpyZIZlXqi8OGwhGcvQ)
 
-## Apollo
+## apollo
 
 + [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
@@ -1438,9 +1448,13 @@
 + [效率爆表！EasyExcel合并单元格这样实现才是yyds](https://mp.weixin.qq.com/s/DS6QMu2j_pD1FSI3Gs4jtw)
 + [打造优质代码：Apache Camel，推荐一款Java库](https://mp.weixin.qq.com/s/eqL4Nm1Rket-lNrN1QY1lw)
 + [Java 导出 Excel 利器：JXLS](https://mp.weixin.qq.com/s/7PdNCZ-05pNe0lneq1nioQ)
++ [POI大量数据读取内存溢出？一招帮你定！](https://mp.weixin.qq.com/s/Z_0jtdJ1Y6ECDI8aE7R9Zw)
 + [如何查看线程死锁？](https://mp.weixin.qq.com/s/9lVfXpvKpuUCmAlKtpEiHw)
 + [Java 音视频文件解析工具](https://my.oschina.net/lenve/blog/15871614)
 + [Java 数据库连接池王者之争：HikariCP 与 Druid](https://mp.weixin.qq.com/s/uBNFaou2JGQJ3_XP2gMkzg)
++ [动态线程池 v1.1.9 版本发布，新增全局配置、AgentAware、Liteflow 适配等若干实用特性！](https://mp.weixin.qq.com/s/Jv4NNKBv8wpQgBr9bcMNXw)
++ [午夜闲谈-Fastjson漏洞版本判断与漏洞利用](https://mp.weixin.qq.com/s/ukYgUYceZD3ASQ2JKa08Hw)
++ [午夜闲谈-Fastjson漏洞各版本POC比较](https://mp.weixin.qq.com/s/EPdNElXPcZd5wEmQqAhFiQ)
 
 # 其它环境
 

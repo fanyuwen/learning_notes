@@ -5,6 +5,7 @@
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
 + [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
 + [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
++ [简单学习大佬常用命令之gdb命令](https://mp.weixin.qq.com/s/MWQQSZM8JTITqgMsrBPDcQ)
 
 ## C++
 
@@ -105,6 +106,7 @@
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [彻底搞清楚 “变量”](https://mp.weixin.qq.com/s/L5wBITMeIUtFkM8sAlX3tQ)
++ [C 的标示符之作用域](https://mp.weixin.qq.com/s/8V0TU5rOF2-i-usYUGcRug)
 + [Linux C语言 NULL作为空字符的使用与误解](https://mp.weixin.qq.com/s/n-1dqs6OLNR8py0TkUNi3w)
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [Linux C语言 灵活数组成员](https://mp.weixin.qq.com/s/PsOe7mT7gk1Tj_vOyVRRjA)
@@ -147,6 +149,7 @@
 # ARM
 
 + [ARM架构与编程 · 基于STM32F103笔记(2)](https://mp.weixin.qq.com/s/ZvrPf8KEc-ZnM8cTzlK1Hg)
++ [浅谈RISC-V与ARM(1)之寄存器与汇编](https://mp.weixin.qq.com/s/K9Qn_fzs3w_JioHIVq_B1g)
 
 # PLC
 

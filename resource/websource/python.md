@@ -300,6 +300,7 @@
 + [pdfminer ，一个最最强大的Python库，解锁pdf无限可能](https://mp.weixin.qq.com/s/A1eHEw3slSyvPELxFs0Olw)
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
++ [pyOCR，一个最牛逼的Python库](https://mp.weixin.qq.com/s/iCUUC4O_M7WPzTFpr-Zjow)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [theano，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/poeuvMH-X6QUcX4ERoJKUQ)
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
@@ -455,6 +456,7 @@
 + [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
 + [这个Python库把Selenium按在地上摩擦！](https://mp.weixin.qq.com/s/8nygWKJ4qioYSOUWBPD1KQ)
++ [原来还可以这样设计界面？](https://mp.weixin.qq.com/s/ulTg58HSD9e3vhT0tQoM8Q)
 
 ### Pandas
 
@@ -493,6 +495,7 @@
 + [Rope，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/rtRuHLEyYZIsooNf_nWtQw)
 + [Thinc，一个超级强大的Python工具](https://mp.weixin.qq.com/s/RTsv79UShTH9Goxtj9ckzQ)
 + [Ray,可扩展的 Python 分布式执行引擎!](https://mp.weixin.qq.com/s/frFBW7NtHI_6nXE71AiXeA)
++ [1、性能测试工具Locust——环境搭建](https://mp.weixin.qq.com/s/wOn4MwmUDi7nNzTloAFR_g)
 
 ## 框架
 

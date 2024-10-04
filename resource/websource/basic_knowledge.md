@@ -266,6 +266,8 @@
 + [面试高频题：Nginx 并发高的秘密](https://mp.weixin.qq.com/s/3SJM9RnO2GDNhcY1bKkhCQ)
 + [从零手写实现 nginx-07-如何实现大文件分块传输?](https://mp.weixin.qq.com/s/vHkEpNYAzd3fnKZi0pI2UA)
 + [nginx的docker部署](https://mp.weixin.qq.com/s/6hPFrFGUuZhmBnHBDGplag)
++ [Nginx 日志](https://mp.weixin.qq.com/s/h8faoQd05kCNB-KKSNpjRA)
++ [nginx（三）：强制安全——轻松实现从HTTP 到 HTTPS 的重定向](https://mp.weixin.qq.com/s/wuYCh08aKRf3H2NoBv7qqQ)
 
 ### wireshark
 

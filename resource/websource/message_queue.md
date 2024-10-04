@@ -61,6 +61,7 @@
 + [kafka的一个有趣问题（BUG）](https://mp.weixin.qq.com/s/VVPDz5rt-wsTC5n3jnAeVg)
 + [kafka 分布式的情况下，如何保证消息的顺序消费？](https://mp.weixin.qq.com/s/Cqc9UMW14BylIgVwoxljjg)
 + [线上环境-应当如何管控客户端对kafka数据的消费！！！](https://mp.weixin.qq.com/s/oy0DzgaOrSlKg499x7k9Tw)
++ [Kafka消息堆积问题排查](https://mp.weixin.qq.com/s/0opJnZMnd7MwIdX1J74HDA)
 
 # ROCKETMQ
 

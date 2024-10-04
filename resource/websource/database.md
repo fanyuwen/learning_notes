@@ -71,6 +71,7 @@
 + [高并发下千万数据量的Mysql中热点数据如何持续保留在Redis中](https://mp.weixin.qq.com/s/fJ7UJJ-6D5ylDjw7preCwA)
 + [不知道哪种分页效果更好？一次性教给你四种分页方案！](https://mp.weixin.qq.com/s/LujpYV-Q8oKx-xhHgykUJw)
 + [MySQL 处理大数据表的 3 种方案，写的太好了，建议收藏！！](https://mp.weixin.qq.com/s/YDIM98BjdwclVIj-2R1NGA)
++ [慢 SQL 打爆监控！亿级数据表的删除问题](https://mp.weixin.qq.com/s/IlFEasVJFJX4tI-N7-tBJg)
 
 ### 读写分离&分库分表
 
@@ -114,6 +115,7 @@
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
++ [美团二面拷打：MySQL中 SELECT 语句执行流程？](https://mp.weixin.qq.com/s/NGIhHHZ5deWk-7yU3V2U7w)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [MySQL 外连接、内连接与自连接的区别？](https://mp.weixin.qq.com/s/PVORJcT20nQa_dNt9Rrpyw)
 + [MySQL留疑问：left join时选on还是where？](https://mp.weixin.qq.com/s/xrj0icDRCXWWUyCq1YYF1A)
@@ -452,6 +454,7 @@
 + [利用 Redis 实现每周热评，简直无敌](https://mp.weixin.qq.com/s/IXCC6QFr3ZehY8OY4pP6HA)
 + [Redis 延迟毛刺问题定位-软中断篇](https://mp.weixin.qq.com/s/iC2zZDbyva8C3VnTRK-W_g)
 + [遇到过Redis故障吗？有哪些？](https://mp.weixin.qq.com/s/ckx8QMJqZE8rYafQ8IDRrw)
++ [Redis布隆过滤器基本原理与应用场景分析](https://mp.weixin.qq.com/s/DXJ4D8zdV3sBJhRl22shcg)
 
 #### 原理
 
@@ -542,6 +545,7 @@
 ### minio
 
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)
++ [Minio + Docker 搭建属于自己的OSS存储服务](https://mp.weixin.qq.com/s/xJycS370psuQo-04E5wimQ)
 
 # 大数据相关
 

@@ -902,6 +902,7 @@
 ##### 事务
 
 + [实战案例SpringBoot整合Seata AT模式实现分布式事务【超详细】](https://mp.weixin.qq.com/s/570OVCaUusSndNLi5UPw5A)
++ [分布式事务解决方案：Seata在Spring Boot中的应用](https://mp.weixin.qq.com/s/Tasm_FoWN7vFVv4JJS3arQ)
 
 #### WEB
 
@@ -1053,6 +1054,7 @@
 + [Hadoop Hive入门及与spring boot整合实现增删改查](https://mp.weixin.qq.com/s/4MfhNO564Li8JhT8tW4CVw)
 + [Spring Boot 集成 Elasticsearch【入门篇】](https://mp.weixin.qq.com/s/jlWWaxdZH02rLF67JGoLHg)
 + [Java Web||第25节：SpringBoot3集成Redis](https://mp.weixin.qq.com/s/Dp3bBm6wyZ1-9-_dRqeUOw)
++ [Springboot如何实现redis的消息订阅发布](https://mp.weixin.qq.com/s/-q-wkLg7natf4zHRBIHe3g)
 
 ##### TRANSACTION
 
@@ -1240,6 +1242,7 @@
 
 + [公司新招一个月薪2w+的高级工程师露馅了，起因是因为一个Mybatis问题](https://mp.weixin.qq.com/s/KccpOlI1zYDLFD86eaknXQ)
 + [MyBatis拦截器在实际项目中的应用](https://mp.weixin.qq.com/s/dYBHwpWMliZF3taYfVz3cA)
++ [Mybatis链路分析：JDK动态代理和责任链模式的应用](https://mp.weixin.qq.com/s/nrhiraGiJ4Xi8QqS-MVhEw)
 + [MyBatis 如何获取自增长主键及注意事项与常见面试题](https://mp.weixin.qq.com/s/0G7_da-h0sqJSCBDxh58qw)
 + [MyBatis 如何实现多个传参及常见面试题解析](https://mp.weixin.qq.com/s/EQmOPSVpqemVgTRn4sia6Q)
 + [10 种超赞的 MyBatis 写法！](https://mp.weixin.qq.com/s/5isGSZSiDZcjR-SnkiShhg)
@@ -1469,6 +1472,7 @@
 + [Windows部署Java JDK的方法](https://mp.weixin.qq.com/s/NQ4tMbNnqLvFvx1g1pNoAw)
 + [现在刚入行的 Java 开发者已经不知道 Tomcat 了](https://mp.weixin.qq.com/s/I39uXPFronIX6JOaKFpR3g)
 + [Cookie + Session 的时代已经过去了？](https://mp.weixin.qq.com/s/RT3bMwQ9TaLY3rTVT9rRPw)
++ [浏览器是如何记住用户的登录信息的？（Java如何获取Cookie里的指定值？）](https://mp.weixin.qq.com/s/apV3XBGcxUCLzaYZlj2LPA)
 + [Java分布式事务处理与一致性保障的解决方案](https://mp.weixin.qq.com/s/4MYtxY1MpwPJjPknu6Ef6Q)
 + [延迟队列：7种方案，总有一款适合你！](https://mp.weixin.qq.com/s/o_psQXGYFTRtp4VLfYk_Wg)
 + [利用Java AOP实现面向切面编程的关键技术](https://mp.weixin.qq.com/s/hfY2Kf1LpEHxWZfELU39_w)

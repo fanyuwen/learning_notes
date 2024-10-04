@@ -85,6 +85,7 @@
 + [掌握Kubernetes伸缩策略：优化资源管理的秘密武器](https://mp.weixin.qq.com/s/kEtBJl7CFOgoQvmoCT9G5g)
 + [K8s部署](https://mp.weixin.qq.com/s/tuZkpEZ4n2DzrmJY-TM7mA)
 + [K8s容器运行时，变为Containerd后存在哪些疑惑？](https://mp.weixin.qq.com/s/QTo_XrwAfjKl4A9UDSrTAw)
++ [Kubernetes集群的网络实现——跨主机容器的网络通信](https://mp.weixin.qq.com/s/b0wrZNCf7LmJOK3OwLFNTA)
 
 ## Prometheus
 

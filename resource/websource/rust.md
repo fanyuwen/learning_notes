@@ -76,3 +76,4 @@
 # 资源
 
 + [你必须读的5本顶级Rust书籍！](https://mp.weixin.qq.com/s/pJLo41bP7X93hqAjv5bwIQ)
++ [你最应该读的Rust最佳书籍](https://mp.weixin.qq.com/s/3rv1n7PWm6qh6e60fOxPFA)

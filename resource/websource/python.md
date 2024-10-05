@@ -48,6 +48,7 @@
 + [一分钟搞定,Python代码注释9种方式](https://mp.weixin.qq.com/s/jPOhthhIgo-7gAmxDlrOJQ)
 + [别再让程序崩溃：Python 异常处理的秘密](https://mp.weixin.qq.com/s/qUow4wQvNtMTC-kbPh1gcw)
 + [Python match case这样用，从此告别if-elif-else！](https://mp.weixin.qq.com/s/4ljt5IqyOZtIbs59lv2-ug)
++ [Python异常处理中的9个常见错误及其解决办法](https://mp.weixin.qq.com/s/kwGdo5sZuo2mL3o1zY6tJA)
 
 ### 函数/方法
 
@@ -149,6 +150,7 @@
 + [Python与操作系统的10个高级交互指令](https://mp.weixin.qq.com/s/QniEKU7WUdDN12hgO6kw6g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python正则表达式常用的20种操作](https://mp.weixin.qq.com/s/l4-C-0PhCNxaI2jQqbYUzw)
++ [python-dotenv 进阶：解锁更多环境变量管理技巧！](https://mp.weixin.qq.com/s/5e5zE07EQRxSlJmi9lfz_A)
 + [三分钟掌握“Python正则表达式”常见匹配方式](https://mp.weixin.qq.com/s/XL_LDfNhqpSo3TDaxTRnBA)
 + [Python 新手必看：如何用 unittest 写出高质量代码？](https://mp.weixin.qq.com/s/2Sryhcgig1PbOazFLkVq1Q)
 + [10个Python编程中的聪明小把戏](https://mp.weixin.qq.com/s/HoMgEosDO5TdwAg_LJxSLw)
@@ -272,6 +274,7 @@
 + [利用PYTHON批量生成所需文档](https://mp.weixin.qq.com/s/_xBdI4WnZdSNa_HoXZ2GGw)
 + [Python帮你管理Windows进程快速终止无响应程序](https://mp.weixin.qq.com/s/zvBPIG56o2HwuVrQ2xv7Hw)
 + [使用Python破解验证码：从基础到实践](https://mp.weixin.qq.com/s/P3O5jraRlPksE7A2GMy4mw)
++ [Python GUI开发必看：Frame组件详解](https://mp.weixin.qq.com/s/zdJnF-jWRC4sSkC5ApRBHA)
 
 ## 第三方库
 

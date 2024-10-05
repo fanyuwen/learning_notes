@@ -92,6 +92,7 @@
 + [Nest 接入消息队列 RabbitMQ](https://mp.weixin.qq.com/s/rAuYgW3RoOfiqg70PLhyFw)
 + [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/DpXaUnaZwJF23rJfQtznpw)
 + [「RabbitMQ链路追踪实践：SkyWalking微服务链路监控实践07」](https://mp.weixin.qq.com/s/maKLkM-hNbdLpoSlKLi5Bw)
++ [RabbitMQ基础篇](https://mp.weixin.qq.com/s/losK7DRwgvOnnGpU_RUm3g)
 
 # PULSAR
 

@@ -23,6 +23,7 @@
 + [从 “执行 SQL” 到 “返回结果”，数据库到底发生了什么？](https://my.oschina.net/u/5944765/blog/11051593)
 + [(十七)SQL优化篇：如何成为一位写优质SQL语句的绝顶高手！](https://mp.weixin.qq.com/s/fEKlyC2Sx8uKUpRAD0QHYw)
 + [SQL常用优化的技巧](https://mp.weixin.qq.com/s/bOWG0F1P9aSojGsNq0c61Q)
++ [count(*)、count(1)和count(字段)的区别](https://mp.weixin.qq.com/s/BfTvnxXonEA8iANAjPOo0A)
 + [为什么阿里不推荐多表 join？](https://mp.weixin.qq.com/s/z4aIz-unNj3bv8-4z4dJvQ)
 + [8 种最坑的SQL错误用法，你有没有踩过？](https://mp.weixin.qq.com/s/ZSC6vQQTtqRdOhcIpMxa_g)
 + [SQL 优化法则，学会都是 SQL 优化大神！](https://mp.weixin.qq.com/s/1rqhVP9P5aiaplnaHGJkOQ)
@@ -365,6 +366,7 @@
 
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
++ [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
 + [RESP 3协议](https://mp.weixin.qq.com/s/dfLp6m9wWxSX5dN2yHZPOA)
 + [Redis亮剑！官方搜索引擎横空出世，性能飙升秒杀ES，重构搜索新时代！](https://mp.weixin.qq.com/s/nz5YpLKXdsJgH-uFA1iDwg)

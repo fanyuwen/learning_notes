@@ -324,6 +324,7 @@
 ### markdown
 
 + [Marker：您的PDF到Markdown转换专家 —— 快速、准确、全语言支持](https://mp.weixin.qq.com/s/CITInW4H_8rPkmRt_mmNTg)
++ [MarkdownMonster：让Markdown在Windows平台上编辑更轻松！](https://mp.weixin.qq.com/s/74Ek86NejjE7YllO0X76-Q)
 
 ### 学习资源
 

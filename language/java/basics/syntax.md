@@ -169,7 +169,7 @@ public class TryWithResourcesTest {
   }
 }
 ```
-如果有多个资源在`try-with-resources`中,则会按照声明的顺序进行代码的生成如下
+如果有多个资源在`try-with-resources`中,则会按照声明的顺序进行代码的生成如下,
 ```java
 public class TryWithResourcesTest {
   void show() {
@@ -181,6 +181,20 @@ public class TryWithResourcesTest {
       log.error("捕获异常", e);
     } finally {
         //do finally
+    }
+  }
+
+  //这种方式生成的代码与上面的一样,但是可以单独增加try/catch/finally,所以在生成的内部的try/catch/finally外围有我们定义的try/catch/finally
+  void show() {
+    try (TestAutoCloseable t = new TestAutoCloseable()) {
+        try(TestAutoCloseable t1 = new TestAutoCloseable()) {
+            t.show();
+            t1.show();
+        }
+    } catch (Exception e) {
+      log.error("捕获异常", e);
+    } finally {
+      //do finally
     }
   }
 

@@ -29,6 +29,7 @@
 
 + [JEP 481：作用域值API的第3个预览版随JDK 23发布，带来关键增强](https://mp.weixin.qq.com/s/woAR6QjUlyWcISwPYRubqA)
 + [Project Leyden 早期访问版本开放下载：Java 程序启动速度提升 2 至 3 倍](https://mp.weixin.qq.com/s/inM7uwIC8_AubyXZUhBT1g)
++ [JDK23如约而至，数十种新玩法，你期待哪一种？](https://mp.weixin.qq.com/s/VLIxww0k8TIYEf0y-AAbNQ)
 + [Java 8的关键新特性：Lambda表达式、Base64编码、日期时间API及Optional类](https://mp.weixin.qq.com/s/pHYDeoGRa4BWcayWv1HmIw)
 + [关于虚拟线程的学习、思考和验证](https://mp.weixin.qq.com/s/mOGVl9c3ICw0C_hVQMpWDA)
 + [一次惨痛的面试：“网易提前批，我被虚拟线程问倒了”](https://mp.weixin.qq.com/s/TSGvzHMn7Eq4oRaLwBPw1w)
@@ -1031,6 +1032,7 @@
 + [Spring Boot3.3 中最大连接数和最大并发数的优化与设置详解](https://mp.weixin.qq.com/s/4jZ5kyjWe-KAb1r7YuyYcA)
 + [借一古老技术考察你对SpringBoot掌握程度](https://mp.weixin.qq.com/s/KUnQTSBdXM9jkExsuRFv_A)
 + [Springboot内嵌的Tomcat，你了解多少呢？](https://mp.weixin.qq.com/s/NHKygs5crhRDu2hJ53_QSg)
++ [释放RESTful API的潜力：掌握Spring Boot 3.3的Spring HATEOAS](https://mp.weixin.qq.com/s/E1wa1GOJVhDHQJ7NfLHROg)
 
 ##### VUE
 

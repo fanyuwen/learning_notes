@@ -45,6 +45,8 @@
 + [Rust 接口设计指南：如何构建不让人感到意外的代码](https://mp.weixin.qq.com/s/dzaHnHZHpooWz2qssQz76g)
 + [SQLx：Rust异步数据库利器 - 让你的SQL飞起来！](https://mp.weixin.qq.com/s/OTe2EG6lDoabMKie8I0x4g)
 + [Rust 瘦身秘笈：让你的二进制文件小得惊人！](https://mp.weixin.qq.com/s/sokDqN3vcMo_8-CPSFyxsg)
++ [探索Rust第二个最复杂的特性](https://mp.weixin.qq.com/s/sTe3dG1ppmuNtVKvSc7AAQ)
++ [Rust网络编程的瑞士军刀：深入探索socket2库](https://mp.weixin.qq.com/s/G8HWVunQV2dpV0dfE1YH5g)
 
 # 框架
 

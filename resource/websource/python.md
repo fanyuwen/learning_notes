@@ -122,6 +122,7 @@
 + [python输入输出知识点及用法讲解](https://mp.weixin.qq.com/s/cgsIqvc-4l2Koaz4HhN90w)
 + [掌握Python configparser模块的核心功能](https://mp.weixin.qq.com/s/_43LDI_7bF9W3TDyjhABOA)
 + [深入理解双端队列-实现、优化与应用解析](https://mp.weixin.qq.com/s/m-UU5M4-no8v2kWHSvuj6Q)
++ [Python编程中的数学运算利器math库](https://mp.weixin.qq.com/s/QMj6IpdCfD3XwZr6Z9QKHQ)
 
 ### 异步/多线程
 
@@ -169,7 +170,9 @@
 + [Python程序中字符串与JSON转换的最佳实践](https://mp.weixin.qq.com/s/q0TLWDWjJMK1aNOfZqptlA)
 + [收藏！一篇Python标准库之模块的使用示例](https://mp.weixin.qq.com/s/gHOVEJDS6ZC3sXrsqaJXPw)
 + [python输入输出知识点及用法讲解](https://mp.weixin.qq.com/s/cgsIqvc-4l2Koaz4HhN90w)
++ [一网打尽！Python 常见后缀文件，你都知道它们的作用吗？](https://mp.weixin.qq.com/s/LKVWguRXdzs8TlFh4Cbh1g)
 + [彻底解决Python3: No module named 问题](https://mp.weixin.qq.com/s/nfx4HmEvyDMLZiq7ZKVchA)
++ [Python环境搭建与管理的9个常见问题解答](https://mp.weixin.qq.com/s/rZMQj0eJz8djCAl7gOzl1g)
 + [python与sql: 时间偏移函数](https://mp.weixin.qq.com/s/yS4gqryNukh3-c54sl5ONg)
 + [一文带您了解Python的函数式编程：理解lambda、map()、filter()和reduce()](https://mp.weixin.qq.com/s/YDG-glSKPm8QnrtrGVyMLQ)
 + [24个令人眼前一亮的Python技巧—提升你的代码水平和质量（二）](https://mp.weixin.qq.com/s/dJcxySBoIJ-Z9dKEaHpv8A)
@@ -333,6 +336,7 @@
 + [Monolog，一个最强大的Python库](https://mp.weixin.qq.com/s/vUxnJQUtbTIdPXtciWGJTg)
 + [mypy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/bWQs3EnfcCLMS5584xJ2Ow)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)
++ [asyncservo：一个Python中非常有用的库](https://mp.weixin.qq.com/s/2cjjEgv2E6KbwHa1T7byyw)
 + [pyg3，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/VrfcAVmgoMx29mStLnIIBQ)
 + [Zipline，一个牛逼的python库](https://mp.weixin.qq.com/s/pgV1flDx4gFY3r8lfj1Cnw)
 + [ObsPy，一个牛逼的python库](https://mp.weixin.qq.com/s/pJXYCft_YBJrK-luHSHkbw)
@@ -570,3 +574,4 @@
 ## 其它
 
 + [用python学数学第9课-数学基础4](https://mp.weixin.qq.com/s/VtFkw3yZ7i0TMzZ9bdlD2A)
++ [25 天征服 Rust：一个 Python 程序员的学习之旅](https://mp.weixin.qq.com/s/RdNq1-FRUIMf0IdlYWdTdg)

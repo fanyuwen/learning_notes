@@ -161,6 +161,7 @@
 + [MySQL Undo Log日志最全详解(图文并茂)](https://mp.weixin.qq.com/s/rGajiRqPcGN-sgmOMvAKIA)
 + [MySQL 中 truncate、delete、drop 的区别，你真的搞清楚了吗？](https://mp.weixin.qq.com/s/S--1PANvlpnSet4cMy-3sA)
 + [干货！解析binlog的三种实现手段](https://mp.weixin.qq.com/s/2C_AfPWMcWwkJKf6P07C8g)
++ [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/qCj1b8OzhGKhNn0pdd3vIg)
 + [【收藏】MySQL 超全优化清单（可执行系列）](https://mp.weixin.qq.com/s/iFYBp6XVjjU0D4Z2TV-xSQ)
 + [MySQL 性能优化详解](https://mp.weixin.qq.com/s/ivRkrfO7jqE7NqsdfI9VUg)
 + [(十五)MySQL命令大全：以后再也不用担心忘记SQL该怎么写啦~](https://mp.weixin.qq.com/s/jxbpxOAJdKKHKO7tt-A8FQ)

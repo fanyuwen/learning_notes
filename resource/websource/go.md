@@ -104,6 +104,7 @@
 + [Golang 实现带过期时间的单机锁](https://mp.weixin.qq.com/s/Z7NTf9HnwmZ3avoGUlRlYA)
 + [A01.并发编程-互斥锁Mutex-引入问题](https://mp.weixin.qq.com/s/MsyXGj-l0kymLZnxr99YDA)
 + [A02.并发编程-互斥锁Mutex-竞争介绍](https://mp.weixin.qq.com/s/P9uMjkNA-ZHG-yGsLbulFg)
++ [Go语言与SQL数据库的交互方式](https://mp.weixin.qq.com/s/3o3RQCrfU691FkK8VVxIaA)
 
 # 面试题
 

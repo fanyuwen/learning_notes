@@ -29,6 +29,8 @@
 + [JavaScript 的模板字符串](https://mp.weixin.qq.com/s/5AX2nl_YNE-EwXsbC9wGuA)
 + [所有主流浏览器都支持新的 JavaScript 集合方法](https://mp.weixin.qq.com/s/qQRrP80oLgqDtAyPb0q9iw)
 + [掌握async 和 await：现代 JavaScript 异步编程的艺术](https://mp.weixin.qq.com/s/gLFYvBYRhtOpBT8P3Hct9Q)
++ [这一新的 JavaScript 操作符绝对能改变游戏规则](https://mp.weixin.qq.com/s/AWqfaUAmdFCxpCV9591uTQ)
++ [Slice 还是 Splice? 熟悉JavaScript 2024 中的可变与不可变方法及其他](https://mp.weixin.qq.com/s/9ls-x-tKsJTwyaHJcgeBbA)
 
 ### 底层
 
@@ -113,6 +115,7 @@
 + [vue-socket.io Cannot set property ‘$socket‘ of undefined 解决方案](https://mp.weixin.qq.com/s/g3Gh_S5SDCnkAXIUHXi97g)
 + [全网首发：Vue3.5 源码解析， useTemplateRef 实现原理](https://mp.weixin.qq.com/s/GnPPWXr3EP0vE7sxinNPTA)
 + [Vue3 源码解读-Props 实现原理](https://mp.weixin.qq.com/s/-Xzy1Hf2s_N9vYPbdoPTRA)
++ [如何优化 Vue.js 应用的性能？](https://mp.weixin.qq.com/s/ioTX4FfrFlKieMJulvIMHQ)
 
 ## react
 
@@ -169,6 +172,7 @@
 ## 其它
 
 + [Nuxt3和Next.js对比](https://mp.weixin.qq.com/s/OuKO8fcT5LsIBWtkSH7Png)
++ [您需要了解的 10 个顶级 JavaScript 库](https://mp.weixin.qq.com/s/PK9eBvHGkz2ihHtL5CD7lg)
 
 # 架构相关
 

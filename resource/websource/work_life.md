@@ -269,6 +269,7 @@
 + [最罕见的性格，在程序员里却最常见？它就是。。](https://mp.weixin.qq.com/s/oQ9shwS6geumO4pEsnzwKA)
 + [为什么魂斗罗只有128KB却可以实现那么长的剧情？](https://mp.weixin.qq.com/s/VfTddPWOigLyOSSQr2U2YA)
 + [1997年发v8.0，今天发v9.0版本，什么神仙语言还活着呢？](https://mp.weixin.qq.com/s/SFJOeQQgt_IZ65uQ_SDPUQ)
++ [指针是怎样一步步发明出来的？](https://mp.weixin.qq.com/s/0zahhPN8DaBLrHO-nSKZVg)
 
 
 ## 创业

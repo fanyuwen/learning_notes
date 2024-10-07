@@ -24,6 +24,7 @@
 + [详解 Linux 的常用命令](https://mp.weixin.qq.com/s/z0yox9nbKJ8-XJlm_5i-nQ)
 + [虚拟内存、用户空间 、内核空间、用户态、内核态](https://mp.weixin.qq.com/s/lBh6V8I2_JL2usbBuNQUNg)
 + [深度探索：Linux内核优化高级指南](https://mp.weixin.qq.com/s/_MWGW9ORXopTmK3WczxszA)
++ [Linux新手最容易走的七条弯路](https://mp.weixin.qq.com/s/sHtAo3taYLRTUQf6pCxoTg)
 + [Linux 高端宝典：成为系统大师的秘籍](https://mp.weixin.qq.com/s/h9gw-a2wfPDGcvs1RQ-sow)
 + [Linux会话保持命令Screen教程](https://mp.weixin.qq.com/s/sZoQbrI7iiGWA0IoLkiOWg)
 + [Linux高性能编程_无锁队列](https://mp.weixin.qq.com/s/4tnAYIry-kwS0PvDTxN-qQ)
@@ -65,6 +66,7 @@
 + [Linux开发技巧分享第一篇](https://mp.weixin.qq.com/s/MxVk3VE1Nho-ZlOXhF2cvw)
 + [Linux高性能编程_malloc原理](https://mp.weixin.qq.com/s/v-lXOFawW5iwZ24O_8f28w)
 + [linux进程间的通信(IPC)](https://mp.weixin.qq.com/s/DvLZQPKcvBPFML4lWLA4GA)
++ [Linux存储最难理解的五个概念](https://mp.weixin.qq.com/s/nSQO2Niin0D4t-fgpUTk7g)
 + [Linnux服务器之间实现文件实时同步](https://mp.weixin.qq.com/s/87-1u2yIxruXos3_53X1tA)
 + [深入探索linux的零拷贝（zero-copy）：底层技术原理与代码实现](https://mp.weixin.qq.com/s/hv5RH85bkQzcGAQzVsNY2A)
 + [【内核】Linux内核驱动加载顺序源码剖析](https://mp.weixin.qq.com/s/rKCrgbUMkSwDQtrWPH0jAg)
@@ -96,6 +98,7 @@
 + [写一段监控CPU、内存、磁盘的bash脚本](https://mp.weixin.qq.com/s/DQJcFuTMnY2pmuOz9zQG_Q)
 + [linux命令之wget](https://mp.weixin.qq.com/s/fgw2XCYghaydRXaILhTaaw)
 + [【超详细】后端和运维必会30个Linux命令解说：scp](https://mp.weixin.qq.com/s/CQLTbf-SOLC79m6zpc271A)
++ [linux命令之man](https://mp.weixin.qq.com/s/kAnoOvG3_JhIsfreQZEyzg)
 
 ### 发行版信息
 

@@ -12,6 +12,7 @@
 + [业务代码里的 TypeScript 小技巧](https://my.oschina.net/u/4662964/blog/14920615)
 + [掌握JavaScript的异步迭代器，让你的前端代码更上一层楼！](https://mp.weixin.qq.com/s/ztQGKVaxlS3Lsz_rMWjfPg)
 + [为何let取代了var？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/lc1-ZQxV8cEqNUQg_4yEhw)
++ [再见 try-catch，这个API更好用（JS代码片段）](https://mp.weixin.qq.com/s/Coni-FACISM8ZvCifE6ORQ)
 
 ### 原理
 
@@ -184,6 +185,9 @@
 + [前端性能优化：提升用户体验的实战指南](https://mp.weixin.qq.com/s/tlZdJYZzRESQSvXOP1F42A)
 + [一次基于 AST 的大规模代码迁移实践](https://my.oschina.net/vivotech/blog/16008871)
 + [浏览器的内部结构解析：前端开发者的必知知识](https://mp.weixin.qq.com/s/ShEozTDfPX0H03vypfJ5Mw)
++ [有人测试了 JS 中所有循环的速度，来看看JS 中最快的循环是什么！](https://mp.weixin.qq.com/s/it1txxUTXeJpKM2RzL8Nyw)
++ [优化JavaScript性能：2024年的技巧和工具](https://mp.weixin.qq.com/s/WuiPbj15kG3QpKM4k-vPYg)
++ [一行代码理清 js 预编译（JS代码片段）](https://mp.weixin.qq.com/s/dbuEZDm7ntVh0jhqg7HcTA)
 
 # 杂谈
 

@@ -77,6 +77,7 @@
 + [Python新手突破瓶颈指南：学习 itertools.dropwhile 迭代左过滤](https://mp.weixin.qq.com/s/2qrAvnCKavsdRLjOmEhJ6w)
 + [Python路径操作的8个实用函数详解](https://mp.weixin.qq.com/s/A-pPb8w24-p57EHnkzwT5g)
 + [Python动态代码执行：exec和compile函数](https://mp.weixin.qq.com/s/XM7l3xVE5Af2NAJV7iA9vw)
++ [Python如何写好一个函数，掌握这10个小技巧就够了！](https://mp.weixin.qq.com/s/HOgosV53haf6Rh8yHP-RrA)
 
 ### 面向对象
 
@@ -132,6 +133,7 @@
 + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
 + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
 + [提升并行效率的Python多处理模块指南](https://mp.weixin.qq.com/s/175zJefJzZpO6ZeW9AkhmQ)
++ [多线程还是多进程？解锁 Python 并发编程的终极秘诀！](https://mp.weixin.qq.com/s/GgHKk1Q_w17q-_DZDuD5Wg)
 
 ## 实践
 
@@ -147,15 +149,23 @@
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
 + [使用Python进行图像处理的11个基本操作](https://mp.weixin.qq.com/s/GBrnb2I89RykYJ24GJwcbg)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
++ [Python让数据处理更简单的9个代码片段](https://mp.weixin.qq.com/s/Nf_Yl1oJxwyyCF9MTW7ohA)
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
 + [python注释知识点及用法讲解](https://mp.weixin.qq.com/s/tQXD1fajWD_T-rsBOMdEAg)
++ [​Python 日期和时间处理：你绝对不能错过的最强技巧！](https://mp.weixin.qq.com/s/c8bAjmBIAiz3p77OesNwKg)
++ [不走弯路！编写Python代码的8个绝佳习惯](https://mp.weixin.qq.com/s/xkofutC2hNAhpzYfBSTAxA)
 + [Python高手不可不知的12个文件处理窍门](https://mp.weixin.qq.com/s/QapseKG9Mt_kiFJmRborpQ)
++ [如何使用Python高效创建文件备份工具？](https://mp.weixin.qq.com/s/Hnqo60p_BfYlnrrGMlexhg)
++ [Python测试驱动开发的14个实战案例](https://mp.weixin.qq.com/s/SgtvfOj_SnBj03ha7wT8sA)
++ [升级一下 Python 性能提升 20%](https://mp.weixin.qq.com/s/0m-nwlqz-3TdNgtqhPiTvg)
++ [Python数据处理实战序列化与反序列化的最佳实践](https://mp.weixin.qq.com/s/z6Sh0FOFcpL4UDJNA3fGjg)
 + [掌握Python自动化办公的3个核心技能](https://mp.weixin.qq.com/s/OVJPbFuajqBaaQp2XdxoHg)
 + [10个Python编程中的聪明小把戏](https://mp.weixin.qq.com/s/HoMgEosDO5TdwAg_LJxSLw)
 + [文件系统管理中Python os模块的12个应用窍门](https://mp.weixin.qq.com/s/Uu6BMFgkUxwoF0ADgBcRzA)
 + [Python与操作系统的10个高级交互指令](https://mp.weixin.qq.com/s/QniEKU7WUdDN12hgO6kw6g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python正则表达式常用的20种操作](https://mp.weixin.qq.com/s/l4-C-0PhCNxaI2jQqbYUzw)
++ [Python数据库交互的10个常见模式](https://mp.weixin.qq.com/s/OH7cD8M5YrP1NNOjxgerag)
 + [Python获取网络时间和本地时间](https://mp.weixin.qq.com/s/vYK3n5c4a2dtxb-r-BixWg)
 + [python-dotenv 进阶：解锁更多环境变量管理技巧！](https://mp.weixin.qq.com/s/5e5zE07EQRxSlJmi9lfz_A)
 + [三分钟掌握“Python正则表达式”常见匹配方式](https://mp.weixin.qq.com/s/XL_LDfNhqpSo3TDaxTRnBA)
@@ -339,6 +349,7 @@
 + [asyncservo：一个Python中非常有用的库](https://mp.weixin.qq.com/s/2cjjEgv2E6KbwHa1T7byyw)
 + [pyg3，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/VrfcAVmgoMx29mStLnIIBQ)
 + [Zipline，一个牛逼的python库](https://mp.weixin.qq.com/s/pgV1flDx4gFY3r8lfj1Cnw)
++ [octoDNS —— 一个填平天堑的 Python 库](https://mp.weixin.qq.com/s/C59YnHInJuPA4qtbTyx6uA)
 + [ObsPy，一个牛逼的python库](https://mp.weixin.qq.com/s/pJXYCft_YBJrK-luHSHkbw)
 + [TextBlob - 个Python中非常有用的库](https://mp.weixin.qq.com/s/DEHLB38-T0QU5uBILhjH8A)
 + [Fire，一个超级强大的Python工具](https://mp.weixin.qq.com/s/-9BrvQ8jb8Lx4XDBHzGZgg)
@@ -524,6 +535,7 @@
 + [Ray,可扩展的 Python 分布式执行引擎!](https://mp.weixin.qq.com/s/frFBW7NtHI_6nXE71AiXeA)
 + [1、性能测试工具Locust——环境搭建](https://mp.weixin.qq.com/s/wOn4MwmUDi7nNzTloAFR_g)
 + [Baostock，一个超级强大的Python工具](https://mp.weixin.qq.com/s/rd9vdeDJVmJ1K8FoXTuHTA)
++ [cytoolz，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/moigl-0P-wvm1uYtFscb2g)
 
 ## 框架
 

@@ -88,6 +88,7 @@
 + [K8s容器运行时，变为Containerd后存在哪些疑惑？](https://mp.weixin.qq.com/s/QTo_XrwAfjKl4A9UDSrTAw)
 + [Kubernetes集群的网络实现——跨主机容器的网络通信](https://mp.weixin.qq.com/s/b0wrZNCf7LmJOK3OwLFNTA)
 + [Kubernetes日志收集——轻量级日志收集系统EFK](https://mp.weixin.qq.com/s/Tl_2n4w2ZMAHmOC30mlXBA)
++ [Kubernetes 配置Pod使用代理上网](https://mp.weixin.qq.com/s/OAn7e51xJBjBN9j7Jf781A)
 
 ## Prometheus
 

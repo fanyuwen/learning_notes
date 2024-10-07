@@ -138,10 +138,13 @@
 + [libxmi，一个强大的C库](https://mp.weixin.qq.com/s/e0ouqGteG9FMcU3Ekq2Jwg)
 + [libpng，一个强大的c语言库](https://mp.weixin.qq.com/s/9Z4VJTxyeAHzW-ZhIwX8uA)
 + [TurboPFor，一个好用的c库](https://mp.weixin.qq.com/s/YYcJEjqAcmGT4HSpb9x5Iw)
++ [conan.io：一个强大的c库](https://mp.weixin.qq.com/s/hWTTuVV4ib8jcJbjw9hUnw)
 + [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
++ [Hammer，一个强大的c库](https://mp.weixin.qq.com/s/W-JuGayBFxiKxiZYR8tqRw)
 + [Doxygen：一个强大的c库](https://mp.weixin.qq.com/s/2HvQB5h1djDJtbxpoAzD_g)
 + [Hiredis，一个深入浅出的c库](https://mp.weixin.qq.com/s/yVPbo6OQmrLiTDZr9RVdbw)
 + [TDengine，一个永远可以相信的C库](https://mp.weixin.qq.com/s/h-XFfLNKaIiICfv9t1u1gQ)
++ [GNU MPC，一个强大的c库](https://mp.weixin.qq.com/s/mE-kWI4qB8kj6zIxZoaSKA)
 + [Sparkey，一个泰然自若的C库](https://mp.weixin.qq.com/s/uMYU_9xk89LqMvTcIoaCiQ)
 + [EJDB2：强大的嵌入式C库](https://mp.weixin.qq.com/s/YN3KYc_AlT_yJgvkvd502Q)
 + [imageproc，令人拍案叫绝的 C 语言图像处理库](https://mp.weixin.qq.com/s/qpgYMjh2pnWukYG-5nXNmw)
@@ -174,6 +177,7 @@
 # 单片机
 
 + [一文讲解单片机、ARM、MCU、DSP、FPGA、嵌入式错综复杂的关系！](https://mp.weixin.qq.com/s/l-6aVfZvh5Cre--QEL6fiQ)
++ [一文掌握51单片机的基本指令和寻址方式](https://mp.weixin.qq.com/s/8C2say6fuWkXphcLY1LGRw)
 + [从汇编的角度看单片机运行机制](https://mp.weixin.qq.com/s/JbL6orV-VZ7Ad5kcPj1GVg)
 
 # NVIDIA

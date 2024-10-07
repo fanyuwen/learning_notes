@@ -128,6 +128,7 @@
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
 + [MySQL性能调优时，如何平衡成本和性能改进？](https://mp.weixin.qq.com/s/MoHzU01pEJ4pRyzaM10AfA)
 + [Mysql优化利剑explain详解](https://mp.weixin.qq.com/s/mtjpFiXLqEvUNa1etie5Xg)
++ [Mysql 优化利剑explain](https://mp.weixin.qq.com/s/68s6DzCk9vCfWNaQOMqM1Q)
 + [MySQL 集群](https://mp.weixin.qq.com/s/2RWnEsTJJhqA4cBevAwzGA)
 + [MySQL探秘：理解当前读与快照读，以及与MVCC的关系](https://mp.weixin.qq.com/s/k9frtS4FWpyKX7SAKOgI4A)
 + [看不懂MySQL执行计划，还谈什么SQL优化？](https://mp.weixin.qq.com/s/bsu0kotuYTsesOVTc5CtzA)
@@ -242,6 +243,7 @@
 + [MySQL数据库day14：内连接查询](https://mp.weixin.qq.com/s/zjWfsfKglIEtj5oOGCUHVQ)
 + [MySQL MVCC 原理](https://mp.weixin.qq.com/s/PJTJKHkI4ABdNU5bEHdsZQ)
 + [贝壳面试：什么是回表？什么是 索引下推 ？](https://mp.weixin.qq.com/s/YRWw15k5zvSlaESzXh1MtQ)
++ [如何使用SSH修复MySQL表？](https://mp.weixin.qq.com/s/uyC2d2nHbTnkPgmFLrDulg)
 
 #### 存储引擎
 

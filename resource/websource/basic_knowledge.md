@@ -55,6 +55,7 @@
 + [Linux /dev 目录揭秘](https://mp.weixin.qq.com/s/o6-Gzu5g4l3Rz6Sq6jVhbg)
 + [Linux中文件系统的简单操作(df/du)](https://mp.weixin.qq.com/s/PKQtYmY9d_J9vnR_lZRGBA)
 + [Linux 系统中/proc 目录](https://mp.weixin.qq.com/s/17PRK9yvQELlUHfqFcbjKg)
++ [Linux高手最常使用的五个快捷键](https://mp.weixin.qq.com/s/-5KwWHFDFUe7AvJf8sUAQQ)
 + [Linux 深度解析：掌握缓冲区和文件系统的高效操作](https://mp.weixin.qq.com/s/l9xXew9H-Zf91lImupx6hg)
 + [Linux 运维必备的 13 款实用工具，赶紧收藏~](https://mp.weixin.qq.com/s/meeoVEAolmlfb6K-NMXx3g)
 + [【运维实用脚本】GNU/Linux一键更换系统软件源](https://mp.weixin.qq.com/s/G_TJ4w5Qhrzf2dNna-dH9Q)
@@ -97,8 +98,11 @@
 + [free命令看内存容量不一致的原因。](https://mp.weixin.qq.com/s/CUedqniPUPWasbIL1oxAsA)
 + [写一段监控CPU、内存、磁盘的bash脚本](https://mp.weixin.qq.com/s/DQJcFuTMnY2pmuOz9zQG_Q)
 + [linux命令之wget](https://mp.weixin.qq.com/s/fgw2XCYghaydRXaILhTaaw)
++ [Linux新手最难掌握的7个命令](https://mp.weixin.qq.com/s/J5QJuE1noV61jl8gTQW4yQ)
 + [【超详细】后端和运维必会30个Linux命令解说：scp](https://mp.weixin.qq.com/s/CQLTbf-SOLC79m6zpc271A)
 + [linux命令之man](https://mp.weixin.qq.com/s/kAnoOvG3_JhIsfreQZEyzg)
++ [Linux Shell编程十大核心](https://mp.weixin.qq.com/s/ihua3b2SvXJn9v5m7wPWiA)
++ [每天一个吹B小知识，让Vim再次伟大！Vim粘贴Python代码并保持格式缩进的技巧](https://mp.weixin.qq.com/s/Q0MHPoqEaRVAimsxtsIi_w)
 
 ### 发行版信息
 
@@ -174,6 +178,7 @@
 + [如何实现同一端口代理不同的后端服务](https://mp.weixin.qq.com/s/AT74UG5RfNLLV88XKmuX2g)
 + [URL、URL 的结构以及 URI 与 URL 之间的区别](https://mp.weixin.qq.com/s/AV9c1mlDIPSm1vPzH6Dx9w)
 + [你真的应该弄清楚 URI 和 URL 的区别](https://mp.weixin.qq.com/s/y_WJh1H9IJ7Aj-3hbOMEvQ)
++ [扪心自问，你真的能讲清楚URL和URI吗？](https://mp.weixin.qq.com/s/sadJLILv7PXetNNfyybBHg)
 
 ### DNS
 
@@ -277,6 +282,7 @@
 + [nginx的docker部署](https://mp.weixin.qq.com/s/6hPFrFGUuZhmBnHBDGplag)
 + [Nginx 日志](https://mp.weixin.qq.com/s/h8faoQd05kCNB-KKSNpjRA)
 + [nginx（三）：强制安全——轻松实现从HTTP 到 HTTPS 的重定向](https://mp.weixin.qq.com/s/wuYCh08aKRf3H2NoBv7qqQ)
++ [Nginx 生产环境下的安全配置](https://mp.weixin.qq.com/s/K1Ya97W_xoymhKidSqaXWw)
 
 ### wireshark
 

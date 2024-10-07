@@ -202,6 +202,12 @@
 + [如何玩转IDEA的Git](https://mp.weixin.qq.com/s/7r8k7wHSoQf_LH8hoMZiSA)
 + [安利一下IDEA中的Arthas插件](https://mp.weixin.qq.com/s/sqHTHgOzU1IUV8X62kFGog)
 + [30 款 IDEA 宝贝插件，yyds！](https://mp.weixin.qq.com/s/XUNpkNfhn69b3WOUNBR_iA)
++ [解决 IDEA 构建速度慢的问题](https://mp.weixin.qq.com/s/aGz9lT62PSeUBxSlY6KwCA)
+
+## MAC_PRO相关
+
++ [12.1K star！这款轻量级 Mac 工具非常推荐使用！](https://mp.weixin.qq.com/s/GX1wCGTPDTRENLDSRCSTfg)
++ [从零搭建专业程序员的Mac系统](https://mp.weixin.qq.com/s/S8-D6gNOwJHd_0uPp7-7vA)
 
 # 行业新闻
 
@@ -348,6 +354,7 @@
 + [设计原本，架构师必读（新书上架，送福利）](https://mp.weixin.qq.com/s/PQa7YaPQgTXHSInuH2uTfQ)
 + [强推‼️人人都能看懂的算法入门书，建议翻烂它！](https://mp.weixin.qq.com/s/maBoR77sS-b2tLnslcd4Vg)
 + [10月新书推荐](https://mp.weixin.qq.com/s/SGTuvHzUz8JSx0wTY5WH5A)
++ [10本拍手叫绝的编程好书丨文末送书](https://mp.weixin.qq.com/s/f_9kaSij4C6S5r-Te_rPeQ)
 
 ### 生活
 

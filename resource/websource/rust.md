@@ -72,6 +72,8 @@
 
 + [你必须读的5本顶级Rust书籍！](https://mp.weixin.qq.com/s/pJLo41bP7X93hqAjv5bwIQ)
 + [你最应该读的Rust最佳书籍](https://mp.weixin.qq.com/s/3rv1n7PWm6qh6e60fOxPFA)
++ [Rust 进阶必读：《Effective Rust 中文版》助你成为 Rust 高手](https://mp.weixin.qq.com/s/67HcHn7fZ6b9zrMHYLWK3A)
++ [2024 年 Rust 学习指南：从零开始的 30 小时之旅](https://mp.weixin.qq.com/s/y-d7Nyr2WDr0puIMJ8du2Q)
 
 # 话题
 

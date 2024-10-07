@@ -62,6 +62,7 @@
 + [16 个日常开发必备的JavaScript 代码片段](https://mp.weixin.qq.com/s/ooxHEiZSZbbxhBDMlZxt4w)
 + [16个 JavaScript 单行代码帮助你提升开发水平](https://mp.weixin.qq.com/s/Y-O5Dbj5E5wOjinJUgx1Kg)
 + [49个常用JavaScript方法封装【收藏】](https://mp.weixin.qq.com/s/BkhjxG8azO4Yhn5NwAkSGw)
++ [7 种开发人员都应该知道的高级 JavaScript 技术](https://mp.weixin.qq.com/s/QkwFZ9xzGAJk-mKyzNL_xw)
 + [LocalStorage的使用教程](https://mp.weixin.qq.com/s/tC_zF-0KdbMHaRf5pxRlYg)
 + [逃离 HTML + CSS](https://my.oschina.net/VGG/blog/11105679)
 + [前端可以玩“锁”了](https://mp.weixin.qq.com/s/O0YwzJ5AYTn7gvizN4cjag)
@@ -178,6 +179,7 @@
 + [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
 + [前端性能优化：提升用户体验的实战指南](https://mp.weixin.qq.com/s/tlZdJYZzRESQSvXOP1F42A)
 + [一次基于 AST 的大规模代码迁移实践](https://my.oschina.net/vivotech/blog/16008871)
++ [浏览器的内部结构解析：前端开发者的必知知识](https://mp.weixin.qq.com/s/ShEozTDfPX0H03vypfJ5Mw)
 
 # 杂谈
 

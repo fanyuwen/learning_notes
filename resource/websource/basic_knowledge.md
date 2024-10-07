@@ -75,6 +75,7 @@
 
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
 + [Linux内核常见的网络丢包场景分析](https://mp.weixin.qq.com/s/vdW0L7nEdfrxSJ_9VGviaA)
++ [Linux 网络故障排查笔记](https://mp.weixin.qq.com/s/qUrmeqXvhZpw9nP2ATo3jQ)
 
 ### 命令
 
@@ -169,6 +170,7 @@
 + [frp内网穿透环境搭建](https://mp.weixin.qq.com/s/SyZHVeRfNamWBFlRKeU_6Q)
 + [如何实现同一端口代理不同的后端服务](https://mp.weixin.qq.com/s/AT74UG5RfNLLV88XKmuX2g)
 + [URL、URL 的结构以及 URI 与 URL 之间的区别](https://mp.weixin.qq.com/s/AV9c1mlDIPSm1vPzH6Dx9w)
++ [你真的应该弄清楚 URI 和 URL 的区别](https://mp.weixin.qq.com/s/y_WJh1H9IJ7Aj-3hbOMEvQ)
 
 ### DNS
 
@@ -305,6 +307,7 @@
 + [【通用】简述什么是同步IO、异步IO、阻塞IO、非阻塞IO？](https://mp.weixin.qq.com/s/0b4VI_xMce7eLOTRHvkBFA)
 + [块设备IO流程](https://mp.weixin.qq.com/s/iP0uccG2Sy6d3M3TzRDMbg)
 + [彻底解密：select,poll底层系统调用的核心思想原理](https://mp.weixin.qq.com/s/XoUXKDJjoVh-D_IqFY2Oig)
++ [事件驱动：Reactor网络模型的原理与代码实现](https://mp.weixin.qq.com/s/xJcCgXHB6r8kwM1Y9wxWfA)
 
 ## 字符编码
 

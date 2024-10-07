@@ -130,6 +130,7 @@
 + [一文带你搞清楚 Python 的多线程和多进程](https://my.oschina.net/u/4526289/blog/11208897)
 + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
 + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
++ [提升并行效率的Python多处理模块指南](https://mp.weixin.qq.com/s/175zJefJzZpO6ZeW9AkhmQ)
 
 ## 实践
 
@@ -143,16 +144,21 @@
 + [使用Python进行文件管理的4个聪明方法](https://mp.weixin.qq.com/s/VVeFgYwHpoqfAUfNq-OPJw)
 + [正则表达式中的贪婪匹配与非贪婪匹配](https://mp.weixin.qq.com/s/CQEIVptI72QPmfVvo5WiYA)
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
++ [使用Python进行图像处理的11个基本操作](https://mp.weixin.qq.com/s/GBrnb2I89RykYJ24GJwcbg)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
 + [python注释知识点及用法讲解](https://mp.weixin.qq.com/s/tQXD1fajWD_T-rsBOMdEAg)
 + [Python高手不可不知的12个文件处理窍门](https://mp.weixin.qq.com/s/QapseKG9Mt_kiFJmRborpQ)
++ [掌握Python自动化办公的3个核心技能](https://mp.weixin.qq.com/s/OVJPbFuajqBaaQp2XdxoHg)
++ [10个Python编程中的聪明小把戏](https://mp.weixin.qq.com/s/HoMgEosDO5TdwAg_LJxSLw)
 + [文件系统管理中Python os模块的12个应用窍门](https://mp.weixin.qq.com/s/Uu6BMFgkUxwoF0ADgBcRzA)
 + [Python与操作系统的10个高级交互指令](https://mp.weixin.qq.com/s/QniEKU7WUdDN12hgO6kw6g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python正则表达式常用的20种操作](https://mp.weixin.qq.com/s/l4-C-0PhCNxaI2jQqbYUzw)
++ [Python获取网络时间和本地时间](https://mp.weixin.qq.com/s/vYK3n5c4a2dtxb-r-BixWg)
 + [python-dotenv 进阶：解锁更多环境变量管理技巧！](https://mp.weixin.qq.com/s/5e5zE07EQRxSlJmi9lfz_A)
 + [三分钟掌握“Python正则表达式”常见匹配方式](https://mp.weixin.qq.com/s/XL_LDfNhqpSo3TDaxTRnBA)
++ [不容错过的 30 个 Python 单行代码，高效简洁的代码技巧](https://mp.weixin.qq.com/s/POlCKs_I7uGq_6_5JeFBKA)
 + [Python 新手必看：如何用 unittest 写出高质量代码？](https://mp.weixin.qq.com/s/2Sryhcgig1PbOazFLkVq1Q)
 + [10个Python编程中的聪明小把戏](https://mp.weixin.qq.com/s/HoMgEosDO5TdwAg_LJxSLw)
 + [15个Python函数式编程的实用技巧](https://mp.weixin.qq.com/s/6xERuUjANfAGkaUNxupfsQ)
@@ -318,6 +324,7 @@
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
++ [Channels，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/1hObEK2QIczzk168eOW_Qw)
 + [interpret，一个高级的 Python 库！](https://mp.weixin.qq.com/s/K3Ji8No6pbKzS4E5lV9SKw)
 + [rddpip，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/HPFfGfCLdRzYMl9RCoBjWQ)
 + [Nipy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/_NlF1OfdgeMYDtEc44L1Aw)
@@ -342,6 +349,7 @@
 + [agi-pack，一个牛逼的python库](https://mp.weixin.qq.com/s/OIx3AnqDqb2CgapDPJEe_Q)
 + [hello-name，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/9W_LBiaKMLVU0wRqNnwd5A)
 + [get-ipinfo，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/kDi61DTle9gXWvXemSJuHg)
++ [folium，一个超强的 Python 库！](https://mp.weixin.qq.com/s/CO8A9Wieh_Y9MT13Kxncjg)
 + [RQ ，一个超级强大的Python库](https://mp.weixin.qq.com/s/bfDfIu5cDX-SBgY57R1Y_Q)
 + [Chardet，一个牛逼的python库](https://mp.weixin.qq.com/s/1XgusiaoIdjJydsW1-Wd1g)
 + [Mingus，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/JRcoQapdWkQ3fHTN-CFVNA)
@@ -551,6 +559,7 @@
 + [python爬虫基础——httpx比Requests更快](https://mp.weixin.qq.com/s/Ly0abRPQjdsqGi-7JN2Wwg)
 + [每日一模块：pyquery](https://mp.weixin.qq.com/s/iuou9oFneKWnqNCcqpu8CQ)
 + [每日一模块：scrapy](https://mp.weixin.qq.com/s/fT5_xO18X4xAVdl-UO7_Pg)
++ [Python网络爬虫：15个高效爬虫开发技巧](https://mp.weixin.qq.com/s/U1X4Hx-rWBK6Prl98L3NNw)
 
 ## 数据分析
 

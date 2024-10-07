@@ -624,6 +624,7 @@
 + [项目终于用上了 Spring 状态机，太优雅了！](https://mp.weixin.qq.com/s/LPC_ResKjWGtEXm7Z8JqUA)
 + [Spring状态机的实现原理和业务场景](https://mp.weixin.qq.com/s/WKYecP4SV_8MQwWoe1sb3A)
 + [玩转Spring状态机：打造灵活高效的业务逻辑流](https://mp.weixin.qq.com/s/6DvVENFqckdFIQojeN-O8g)
++ [Java中的状态机实现：使用Spring State Machine管理复杂状态流转](https://mp.weixin.qq.com/s/Dz8V8Xx696Hh0q98xQE5zQ)
 
 ### CACHE
 
@@ -682,6 +683,7 @@
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/YB5xEQbHT8HwqcmjZ-6-wA)
 + [认识 SpringCloud 核心组件](https://mp.weixin.qq.com/s/QXVmtayL9b6lSqAsiML8_w)
 + [Springcloud微服务合并，网关如何处理](https://mp.weixin.qq.com/s/uTbUqTtqJr-x-3TTGsozDQ)
++ [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
 
 #### AI
 
@@ -980,6 +982,7 @@
 + [Spring Boot实现文件上传和下载](https://mp.weixin.qq.com/s/ugNOkTHzyHpS-9G-EFw1-w)
 + [SpringBoot自带Controller接口监控，赶紧用起来](https://mp.weixin.qq.com/s/Ggv4e52CB-RS2pFPG43z3w)
 + [SpringBoot + minio实现分片上传、秒传、续传](https://mp.weixin.qq.com/s/T2YwrlWGhkwojsJYA6kylg)
++ [基于Spring Boot六种策略识别上传文件类型](https://mp.weixin.qq.com/s/Cqb08nyjab3o5O2kk_iwVA)
 + [这才是SpringBoot统一响应和异常处理的最佳实践](https://mp.weixin.qq.com/s/IRl7DC4ZYTipHA2hCMdCyA)
 + [Spring Boot + FreeMarker 实现按模板导出 Word 文档](https://mp.weixin.qq.com/s/3378NclJmiKaCcgBIWN52g)
 + [使用 Spring Boot 结合断点续传技术和自动重连机制实现考试系统网络不稳定性的应对策略](https://mp.weixin.qq.com/s/PoGAfTEXk2jHzmKZRUa02w)
@@ -1077,6 +1080,8 @@
 + [Spring Boot 集成 Elasticsearch【入门篇】](https://mp.weixin.qq.com/s/jlWWaxdZH02rLF67JGoLHg)
 + [Java Web||第25节：SpringBoot3集成Redis](https://mp.weixin.qq.com/s/Dp3bBm6wyZ1-9-_dRqeUOw)
 + [Springboot如何实现redis的消息订阅发布](https://mp.weixin.qq.com/s/-q-wkLg7natf4zHRBIHe3g)
++ [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
++ [揭秘！为什么 Spring Boot 选择 HikariCP 作为 2.0+ 和 3.0+ 的默认数据库连接池](https://mp.weixin.qq.com/s/-pd5f4du00wZROLSK8OVtw)
 
 ##### TRANSACTION
 
@@ -1096,6 +1101,7 @@
 #### CONCURRENCY
 
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
++ [强大！Spring Boot 3.3 实现弹性模式，轻松应对高并发挑战](https://mp.weixin.qq.com/s/pquyLntjer4QJLZgcxwSjA)
 + [Spring Boot 实现异步处理多个并行任务](https://mp.weixin.qq.com/s/Th9KspKz8jzYkUfGRiCuHw)
 + [SpringBoot实战：SpringBoot中如何正确使用线程池](https://mp.weixin.qq.com/s/zISlvp8BGJEDClYoXVyDmw)
 + [SpringBoot高并发！业务方法重试就该使用它](https://mp.weixin.qq.com/s/wHSYpgPXMHEaPWZ9B1qjsw)
@@ -1120,6 +1126,7 @@
 + [SpringBoot异步接口实现：提高系统的吞吐量](https://mp.weixin.qq.com/s/pNjDF4-s2hNq6CpbqL2HOA)
 + [SpringBoot 物理线程、虚拟线程、Webflux 性能全面对比！](https://mp.weixin.qq.com/s/ZmrP2-1tvwkUBXsgXAQ_6Q)
 + [在SpringBoot项目中使用CompletableFuture优化并发REST调用的正确姿势](https://mp.weixin.qq.com/s/Vgtl0eCq2_iZplrtEqXDvg)
++ [虚拟线程在Spring Boot中的应用及性能对比](https://mp.weixin.qq.com/s/o88MCVp7D1fk2VtzEnRqqQ)
 
 ##### Disruptor
 
@@ -1161,6 +1168,7 @@
 + [强大！SpringBoot通过3种方式实现AOP切面，第三种方式性能极佳](https://mp.weixin.qq.com/s/Y5VhAD_tm6HXWLl13v_NCA)
 + [Spring Boot如何集成AOP？](https://mp.weixin.qq.com/s/PI8V6KgGDve9T7hrNjpjWQ)
 + [Spring Boot和AOP将API输入输出数据存入数据库](https://mp.weixin.qq.com/s/CIA8lGkhk_6D5XgJHkKRzQ)
++ [Spring AOP高级知识你知道多少？](https://mp.weixin.qq.com/s/Of4N8AZ1GeWjVGV6Ng5fQQ)
 
 #### SPI
 
@@ -1253,6 +1261,7 @@
 + [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/xamvQQXBS0JapfLXXNUA0w)
 + [SpringBoot 为何可以使用 Jar 包启动？](https://mp.weixin.qq.com/s/Qcd8KCJRngL4DGU7vobBJw)
 + [springBoot应用使用exe4j与innosetup打包为exe可执行程序手把手教学](https://mp.weixin.qq.com/s/xPzipoTNNsnlF-j7f-a06Q)
++ [Spring Boot 动态加载jar包，动态配置太强了！](https://mp.weixin.qq.com/s/YZsLmK8JE8IVRTbDhfMNSQ)
 
 #### 原理&源码
 
@@ -1451,6 +1460,7 @@
 ## 其它工具
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
++ [Jmeter最全详解(手把手教你4步使用)](https://mp.weixin.qq.com/s/Y9tJidOwrp4ZJ_C3fZVAxw)
 + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
 + [我的字段被FastJson给干掉了?!](https://mp.weixin.qq.com/s/t3nq03MxL0HWzQFx62P9Cg)
 + [比 MyBatis 快了 100 倍的 ORM 框架](https://mp.weixin.qq.com/s/PNeI5hN25vf2GVWG7Fya4g)
@@ -1501,6 +1511,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [使用回调机制Callback和函数式编程码出优雅结构化代码！拒绝一直写CRUD！！！](https://mp.weixin.qq.com/s/lKGrqDSVotgVOQUki11MqA)
 + [Java Web 应用升级故障案例解析](https://my.oschina.net/u/4662964/blog/15972783)
 + [Windows部署Java JDK的方法](https://mp.weixin.qq.com/s/NQ4tMbNnqLvFvx1g1pNoAw)
 + [现在刚入行的 Java 开发者已经不知道 Tomcat 了](https://mp.weixin.qq.com/s/I39uXPFronIX6JOaKFpR3g)

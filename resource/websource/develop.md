@@ -104,6 +104,7 @@
 + [为什么微服务一定要有网关？](https://mp.weixin.qq.com/s/t7w7TRsgRR-6HyuZIr-G-w)
 + [微服务重构：Mysql+DTS+Kafka+ElasticSearch解决跨表检索难题](https://mp.weixin.qq.com/s/izd_EOP9Wf-TUnG21NXUdA)
 + [【入门笔记】微服务设计模式 - Saga](https://mp.weixin.qq.com/s/bUwVvpPhdCKpNgRMW5wFTg)
++ [您需要模块，而不是微服务](https://mp.weixin.qq.com/s/D1acPeRv8QBmC-i-ww6G1g)
 
 # 分布式
 
@@ -472,6 +473,10 @@
 ### UUID
 
 + [UUID 和 UUID v7](https://mp.weixin.qq.com/s/xqu-143w1ae1QgZYH7GcUQ)
+
+### 并发/并行
+
++ [并发和并行区别详解(图文全面总结)](https://mp.weixin.qq.com/s/8rCa2AElqJNX-XlLRvyOeQ)
 
 ## 开发流程
 

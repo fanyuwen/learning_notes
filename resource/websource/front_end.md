@@ -13,6 +13,12 @@
 + [掌握JavaScript的异步迭代器，让你的前端代码更上一层楼！](https://mp.weixin.qq.com/s/ztQGKVaxlS3Lsz_rMWjfPg)
 + [为何let取代了var？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/lc1-ZQxV8cEqNUQg_4yEhw)
 
+### 原理
+
++ [JS高级-认识对象的原型](https://mp.weixin.qq.com/s/Xr81iekL589d1NlqJDJ5iA)
++ [JS高级-彻底攻克原型链(详解)](https://mp.weixin.qq.com/s/Srth2Nbd0tXXaKAY1Zbq6g)
++ [JS高级-对象方法的补充以及创建对象方案](https://mp.weixin.qq.com/s/ghWOeMQnyETOyUCXmhT3jA)
+
 ### 语言新特性
 
 + [认识一下 JavaScrip 中的元编程](https://my.oschina.net/u/4526289/blog/11054218)

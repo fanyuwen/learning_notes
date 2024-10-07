@@ -442,6 +442,7 @@
 + [Java IO包中的File和Java NIO包中的Files都有什么区别？](https://mp.weixin.qq.com/s/gr6fofPENQ5uT6AaOypbqQ)
 + [Java NIO包中的Path和Paths都有什么区别？](https://mp.weixin.qq.com/s/4Me2xxsATUnO09mcdcVKvA)
 + [Java NIO 总结: Channel 通道](https://mp.weixin.qq.com/s/M0fvICy2V9JYxz34y_HxmQ)
++ [java使用ByteBuffer进行多文件合并和拆分](https://mp.weixin.qq.com/s/Ex4W_6G_ks6lZdUrOAQsiw)
 
 ## 机制
 
@@ -525,6 +526,7 @@
 + [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
 + [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
 + [spring下自动装配的各种模式？](https://mp.weixin.qq.com/s/fHU_Lna03MJ12NjnGcIk-w)
++ [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
 
 ### 新版本新特性
 
@@ -647,6 +649,7 @@
 + [8 个Spring AOP 全部注解：真实业务使用案例说明(必须收藏)](https://mp.weixin.qq.com/s/XeTH11cGK0KGEfIiPM3Eiw)
 + [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
 + [Spring AOP异步操作实现](https://mp.weixin.qq.com/s/QkZB0vHEG9eedI7QbOv32A)
++ [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
 
 ### 配置打包部署
 
@@ -906,6 +909,8 @@
 + [SpringBoot Guava 实现 API 限流](https://mp.weixin.qq.com/s/h-q_AkSCTEwQInJJ9JPlUg)
 + [SpringBoot + ITextPdf：高效生成 PDF 预览文件](https://mp.weixin.qq.com/s/U9NmV-TjcCei4RWT-zHXPQ)
 + [RSocket vs WebSocket：Spring Boot 3.3 中的两大实时通信利器](https://mp.weixin.qq.com/s/6JH6xAChOT2PtoGoDf5_JQ)
++ [Spring Boot利用dag加速Spring beans初始化](https://mp.weixin.qq.com/s/Db_ukq2jNezW3lfuJZa7DA)
++ [Spring Boot实用小技巧5 - 第527篇](https://mp.weixin.qq.com/s/FFVarKkPui5e8d6OdwX2cQ)
 
 #### 分布式
 
@@ -925,6 +930,7 @@
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
 + [SpringBoot 整合 jackson 轻松搞定接口数据脱敏](https://mp.weixin.qq.com/s/xjnwBzNizMQO6S5WFOaf5A)
 + [Spring Boot 统一接口响应格式的正确姿势！](https://mp.weixin.qq.com/s/N9U9cJQZKTM-ZMY-ABfxHA)
++ [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
 + [整合Spring Boot 3与Knife4j-4.4：构建现代化的API文档](https://mp.weixin.qq.com/s/0GCj5NP7vU56YJDTf_JEcg)
 + [如何在 Spring Boot 中整合 Reactive Web 进行开发](https://mp.weixin.qq.com/s/6AkWqhWoyMbaXamOloL3Zg)
 + [SpringBoot实战：SpringBoot 数据脱敏](https://mp.weixin.qq.com/s/pa1wUie6PzYXtH-wo_Plmg)
@@ -1202,6 +1208,7 @@
 + [Spring Boot实战：使用策略模式优化商品推荐系统](https://mp.weixin.qq.com/s/yit_4n0xgITph3GlgnHYDg)
 + [Spring Boot 实战适配器模式——连接不同时代的技术桥梁](https://mp.weixin.qq.com/s/dpKRFSfiugaem3ghoHHw8Q)
 + [Spring Boot与观察者模式：实现数据同步更新机制](https://mp.weixin.qq.com/s/gWUHlzE-bjEGgBIdmhHTrw)
++ [超简单！Spring Boot 3.3 实现观察者模式的实用指南](https://mp.weixin.qq.com/s/d7hxlCCXUandGH8_Xz8BFQ)
 
 #### message
 

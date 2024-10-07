@@ -69,6 +69,7 @@
 + [深入探索linux的零拷贝（zero-copy）：底层技术原理与代码实现](https://mp.weixin.qq.com/s/hv5RH85bkQzcGAQzVsNY2A)
 + [【内核】Linux内核驱动加载顺序源码剖析](https://mp.weixin.qq.com/s/rKCrgbUMkSwDQtrWPH0jAg)
 + [探索linux高效异步io：io_uring的实现原理与案例分析](https://mp.weixin.qq.com/s/ou8PHhDc3LZ9VII211yRUQ)
++ [Linux高性能编程_nginx内存池](https://mp.weixin.qq.com/s/EfaX38B8Q6gveBc74KIXPg)
 
 ### 网络
 

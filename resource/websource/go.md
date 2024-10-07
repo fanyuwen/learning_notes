@@ -45,6 +45,11 @@
 + [Gin 框架性能的秘密武器：压缩字典树详解](https://mp.weixin.qq.com/s/FbtOqVRyl4q6C-w6gWV9Zg)
 + [基于反射的轻量级 Go 依赖注入框架](https://mp.weixin.qq.com/s/jTPy1mFPPQfkGY6VA2WNNA)
 + [亚微秒级的解析速度！Go 语言的高性能 User-Agent 解析库](https://mp.weixin.qq.com/s/Qvj64_WofoCZ8j0eTCq6cQ)
++ [Go 语言中的 JSON 库 V2 版本](https://mp.weixin.qq.com/s/NFF5Px7TaOhM3DNkPLD3fg)
+
+# 工具
+
++ [Go语言轻量级内存数据库，基于Redis哈希表！](https://mp.weixin.qq.com/s/QOr1O7aRiZM011aJ7W_6aQ)
 
 # 实践
 

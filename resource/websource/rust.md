@@ -2,7 +2,6 @@
 
 + [来用 Rust 开发跨平台游戏吧～](https://my.oschina.net/u/4925410/blog/11052782)
 + [分享一些不错的 Rust 学习资料、博客、书籍等](https://mp.weixin.qq.com/s/u58NEIGDUQD5Oyz0NWeUjA)
-+ [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)
 + [Rust 入门 - 通用编程概念 - 数据类型](https://mp.weixin.qq.com/s/_f97EOtBLkY1YlLeS6LpRQ)
@@ -13,26 +12,19 @@
 + [Rust 语言到底有哪些应用场景](https://mp.weixin.qq.com/s/UGyKuilAhYAWlujxSzhcCA)
 + [强大的开发组合——Rust加上嵌入式](https://mp.weixin.qq.com/s/HvtTKR3leiVz_Wp3bHXvuA)
 + [初探 Rust 语言与环境搭建](https://mp.weixin.qq.com/s/M0kBLA_J0duIG8a5GhHPsg)
-+ [CISA要用Rust重写大量C/C++代码？](https://mp.weixin.qq.com/s/0_6zadEfei2qWqrvkbxHig)
 + [耗时18个月，开发者弃TypeScript投Rust，重写系统后痛批：这门语言烂透了！](https://mp.weixin.qq.com/s/cSc0dJ7XZKFnu-8jHZfNGA)
 + [从零开始学Rust🦀之安装Rust开发环境](https://mp.weixin.qq.com/s/oSIKn8J7EF-Rm8_kIq8Z_A)
 + [探索 LibAFL，高效可定制的跨平台模糊测试框架](https://mp.weixin.qq.com/s/L9whZHHWyoxBRAIcadioIw)
-+ [AI大模型下，Rust 一定要学？](https://mp.weixin.qq.com/s/kFq1n3rtzAofM8CHkzC_Jg)
 + [用 Rust 宏创建灵活、复杂且可复用的结构](https://mp.weixin.qq.com/s/F443auJix5hUouXNYzVEwQ)
 + [【Rust日报】sans-IO 高性能网络服务实现](https://mp.weixin.qq.com/s/ymCslg2jgx7j_wd0wKIS2g)
 + [Rust必知必会库001: thiserror 和 anyhow](https://mp.weixin.qq.com/s/_8KZCdbKz2CNtppk-sEktA)
-+ [不好意思，没达到公司性能目标，决定从 Go 切换到 Rust。](https://mp.weixin.qq.com/s/daVBNO19S_nz6ISBF2PbDQ)
 + [66个让你对Rust又爱又恨的场景之二：不可变引用](https://mp.weixin.qq.com/s/1Hf8CQ9AhnJSBWjQfDSJBw)
 + [用 Rust Reqwest 库打造高性能的网络爬虫](https://mp.weixin.qq.com/s/M-VTCDPu08F2DFK55rGNyw)
 + [4个强大的rust库](https://mp.weixin.qq.com/s/Cs-6w7O387kJrBSItuWmig)
 + [一个强大的rust库Tokio](https://mp.weixin.qq.com/s/JT-BtkhOLjgEa0w3JKzL-w)
 + [rust中的切片和go中的切片](https://mp.weixin.qq.com/s/cHpbc0MiRGtUwNU-yEHNMw)
-+ [go和rust对比：函数和方法的异同](https://mp.weixin.qq.com/s/1FDg0dmiNYc8F82gukY8Tg)
-+ [Rust vs Python：哪个更适合你？](https://mp.weixin.qq.com/s/dg6ZKac7S2Aga1BxMxa6Cw)
-+ [从 Rust 开发者视角看 C++：优缺点大揭秘](https://mp.weixin.qq.com/s/Yo8wCALPm0HAEtti9MVyJQ)
 + [桥接 Rust 和原生 Go](https://mp.weixin.qq.com/s/kFDzKo_i7B3HFZkTlDP4Zw)
 + [Rust 开发者福音：国内镜像 rsproxy，让你的 Cargo 飞起来！](https://mp.weixin.qq.com/s/L5vqzfasZdlKJ1C7k0wzxw)
-+ [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
 + [为什么Rust 是 web 开发的理想选择](https://mp.weixin.qq.com/s/WJJngeVmJSYce1IK3jmG_A)
 + [基于 Rust 开发的 Python 邮件验证库，性能提升 1000 倍！](https://mp.weixin.qq.com/s/QUnPvrpKMeNHKpskt_eVtw)
 + [基于 Rust 构建高性能的原生 UI 框架](https://mp.weixin.qq.com/s/1RspE0lfj7KtEVtg7Zy-qQ)
@@ -41,7 +33,6 @@
 + [Rust 与 JVM 深度融合，构建高性能的应用程序](https://mp.weixin.qq.com/s/wP2tSWZQYHqTQVAwJCzS7Q)
 + [专为 Rust 设计的搜索引擎](https://mp.weixin.qq.com/s/GOaxjlCJ-u1_ac6vosodjQ)
 + [Rust和C语言中的神奇内存优化](https://mp.weixin.qq.com/s/3DNNAYe9CTB_ACukaS9_LQ)
-+ [Rust 引领前端基建新潮流：字节跳动的深度应用实践 | QCon](https://mp.weixin.qq.com/s/LXkJDSG7yZtQOJuV77VV1w)
 + [Rust 性能测试利器：Criterion.rs 让你的代码更快更强](https://mp.weixin.qq.com/s/MOId-suC-cZ-BWueIW9ikA)
 + [Rust 赋能前端: 视频抽帧](https://mp.weixin.qq.com/s/D4spIWh6yZmhIjW1tQwChw)
 + [rust实现字典树](https://mp.weixin.qq.com/s/HXsGou8EV8oCDHBZFAbJSg)
@@ -53,6 +44,7 @@
 + [Actix-web：Rust Web开发的超级英雄 - 性能与易用性的完美平衡](https://mp.weixin.qq.com/s/9Rol_G2wh0KKhV_tZzmhhA)
 + [Rust 接口设计指南：如何构建不让人感到意外的代码](https://mp.weixin.qq.com/s/dzaHnHZHpooWz2qssQz76g)
 + [SQLx：Rust异步数据库利器 - 让你的SQL飞起来！](https://mp.weixin.qq.com/s/OTe2EG6lDoabMKie8I0x4g)
++ [Rust 瘦身秘笈：让你的二进制文件小得惊人！](https://mp.weixin.qq.com/s/sokDqN3vcMo_8-CPSFyxsg)
 
 # 框架
 
@@ -65,6 +57,7 @@
 + [Rust嵌入式数据库：Native DB](https://mp.weixin.qq.com/s/Nzm3MB5R4DSRIRjzlD0kuQ)
 + [Rust 原生跨平台GUI Slint](https://mp.weixin.qq.com/s/Ldqmv_lTjm-k1vZKodu6qQ)
 + [httpmock Rust 的 HTTP 模拟库。](https://mp.weixin.qq.com/s/w2t7-g8j2QXBYIVjW9SDLA)
++ [PyO3：一个Rust与Python无缝交互的工具，用Rust打造高性能Python应用](https://mp.weixin.qq.com/s/pT0uvoYLKCHaqGWXHiMBkQ)
 
 # 并发
 
@@ -77,3 +70,20 @@
 
 + [你必须读的5本顶级Rust书籍！](https://mp.weixin.qq.com/s/pJLo41bP7X93hqAjv5bwIQ)
 + [你最应该读的Rust最佳书籍](https://mp.weixin.qq.com/s/3rv1n7PWm6qh6e60fOxPFA)
+
+# 话题
+
++ [Rust都在哪些行业中被使用？](https://mp.weixin.qq.com/s/CodVhLFmicKzM74XfN5pyw)
++ [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
++ [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
++ [CISA要用Rust重写大量C/C++代码？](https://mp.weixin.qq.com/s/0_6zadEfei2qWqrvkbxHig)
++ [AI大模型下，Rust 一定要学？](https://mp.weixin.qq.com/s/kFq1n3rtzAofM8CHkzC_Jg)
++ [不好意思，没达到公司性能目标，决定从 Go 切换到 Rust。](https://mp.weixin.qq.com/s/daVBNO19S_nz6ISBF2PbDQ)
++ [go和rust对比：函数和方法的异同](https://mp.weixin.qq.com/s/1FDg0dmiNYc8F82gukY8Tg)
++ [Rust vs Python：哪个更适合你？](https://mp.weixin.qq.com/s/dg6ZKac7S2Aga1BxMxa6Cw)
++ [从 Rust 开发者视角看 C++：优缺点大揭秘](https://mp.weixin.qq.com/s/Yo8wCALPm0HAEtti9MVyJQ)
++ [Rust 引领前端基建新潮流：字节跳动的深度应用实践 | QCon](https://mp.weixin.qq.com/s/LXkJDSG7yZtQOJuV77VV1w)
++ [Discord 如何用 Rust 重塑性能，大幅降低延迟](https://mp.weixin.qq.com/s/aT_QYsauAgKnROnm2g5m9g)
++ [Rust窃取了C++语言最好的特性](https://mp.weixin.qq.com/s/x0XwqZBOdC6Bau-ArG-JRg)
++ [C++ 碾压 Rust？低级性能和实时线程的较量](https://mp.weixin.qq.com/s/GpGYsMF1e9p2DBBq-Sz9IA)
++ [Rust：横扫 C/C++/Go 的性能之王？](https://mp.weixin.qq.com/s/kJ5638HJgE9-tfJyFFYMXg)

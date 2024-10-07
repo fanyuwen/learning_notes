@@ -92,6 +92,7 @@
 + [Python OOP 中最常见的 20 种魔术方法](https://mp.weixin.qq.com/s/cFqkbqsGDc8M6rk7UWgebg)
 + [收藏！python初学者必会,Python面向对象编程的核心](https://mp.weixin.qq.com/s/gj6NhOF_tjfiLuIuOwKDJQ)
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
++ [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
 
 ### 核心库/模块
 
@@ -234,6 +235,7 @@
 + [Python 数据库编程全指南 SQLite 和 MySQL 实践](https://my.oschina.net/u/4526289/blog/11049428)
 + [Python 文本统计与分析从基础到进阶](https://my.oschina.net/u/4526289/blog/11090410)
 + [详解 Python 中可视化数据分析工作流程](https://my.oschina.net/u/4526289/blog/11105722)
++ [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
 + [玩转文件权限：Python的7个权限操作实战](https://mp.weixin.qq.com/s/7wdYHGTVp3SukV8VHfIqqg)
 + [Python异常处理的10个实用策略](https://mp.weixin.qq.com/s/6_d1koWllGT8ovRnPq5SxQ)
 + [Python中10个节省时间的代码片段](https://mp.weixin.qq.com/s/uBydqwJbCZ5bGaoZoyMrFQ)
@@ -474,6 +476,7 @@
 
 + [Pandas的30个高频函数使用介绍](https://mp.weixin.qq.com/s/PXRg1w_ttyOpncSZdWVKJQ)
 + [Python学习系列 | Pandas 介绍](https://mp.weixin.qq.com/s/-v2PjS5yawAPE9wYFkqujQ)
++ [最强总结！十大Pandas缺失值处理技巧 ！！](https://mp.weixin.qq.com/s/gVVIZ0CadGM9_Lv1dnVY8w)
 
 ### Numpy
 

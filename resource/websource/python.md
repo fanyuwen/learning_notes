@@ -78,6 +78,7 @@
 + [Python路径操作的8个实用函数详解](https://mp.weixin.qq.com/s/A-pPb8w24-p57EHnkzwT5g)
 + [Python动态代码执行：exec和compile函数](https://mp.weixin.qq.com/s/XM7l3xVE5Af2NAJV7iA9vw)
 + [Python如何写好一个函数，掌握这10个小技巧就够了！](https://mp.weixin.qq.com/s/HOgosV53haf6Rh8yHP-RrA)
++ [python-sort()函数及lambda表达式用法](https://mp.weixin.qq.com/s/4xduEohcDWqwIUvzT4FghQ)
 
 ### 面向对象
 
@@ -126,6 +127,7 @@
 + [深入理解双端队列-实现、优化与应用解析](https://mp.weixin.qq.com/s/m-UU5M4-no8v2kWHSvuj6Q)
 + [Python编程中的数学运算利器math库](https://mp.weixin.qq.com/s/QMj6IpdCfD3XwZr6Z9QKHQ)
 + [Python OS模块](https://mp.weixin.qq.com/s/OxVlR9rSLeyBYri1GEujhA)
++ [Python sys模块](https://mp.weixin.qq.com/s/opUWBsHEoGQLsZxtWTmAZg)
 
 ### 异步/多线程
 
@@ -152,6 +154,7 @@
 + [Python中创建和使用模块的10个窍门](https://mp.weixin.qq.com/s/VoC6n7tUELTu6P1XohkTRQ)
 + [使用Python进行图像处理的11个基本操作](https://mp.weixin.qq.com/s/GBrnb2I89RykYJ24GJwcbg)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
++ [Python中10个让你代码更安全的网络请求处理技巧](https://mp.weixin.qq.com/s/8XtENfXCbkqLRs43ngLJEQ)
 + [Python让数据处理更简单的9个代码片段](https://mp.weixin.qq.com/s/Nf_Yl1oJxwyyCF9MTW7ohA)
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
 + [python注释知识点及用法讲解](https://mp.weixin.qq.com/s/tQXD1fajWD_T-rsBOMdEAg)
@@ -159,6 +162,7 @@
 + [Python日期时间处理的10个常见任务](https://mp.weixin.qq.com/s/a3XIyxEGT7cFmAnfQQ7Glw)
 + [不走弯路！编写Python代码的8个绝佳习惯](https://mp.weixin.qq.com/s/xkofutC2hNAhpzYfBSTAxA)
 + [Python高手不可不知的12个文件处理窍门](https://mp.weixin.qq.com/s/QapseKG9Mt_kiFJmRborpQ)
++ [如何用Python构建双进程自我保护机制？](https://mp.weixin.qq.com/s/dvwU3Ws-iBhBthv4R0oPtw)
 + [如何使用Python高效创建文件备份工具？](https://mp.weixin.qq.com/s/Hnqo60p_BfYlnrrGMlexhg)
 + [Python测试驱动开发的14个实战案例](https://mp.weixin.qq.com/s/SgtvfOj_SnBj03ha7wT8sA)
 + [升级一下 Python 性能提升 20%](https://mp.weixin.qq.com/s/0m-nwlqz-3TdNgtqhPiTvg)

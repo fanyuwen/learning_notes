@@ -290,6 +290,7 @@
 + [缓存预热有哪些方案？](https://my.oschina.net/lenve/blog/15640082)
 + [二级缓存架构极致提升系统性能](https://mp.weixin.qq.com/s/R_Qg0N46OkFm_eLAq_UZLw)
 + [缓存雪崩/穿透/击穿/失效原理图/14种缓存数据特征+10种数据一致性方案](https://mp.weixin.qq.com/s/gAH9bS0FLm9y5o5iB8BUHA)
++ [深入理解缓存穿透、缓存击穿和缓存雪崩](https://mp.weixin.qq.com/s/qFqIkdaXJVrPh3e3BZabFQ)
 
 ## 优化
 
@@ -382,6 +383,7 @@
 + [第十四课-系统学习代码审计：整数溢出和不安全的随机数](https://mp.weixin.qq.com/s/IPW3QQGN1_GyIVToKtP5Fw)
 + [你知道什么是 SaaS 吗？](https://mp.weixin.qq.com/s/xV2qBBVqr5CS9_YGsUyooA)
 + [Polling和Webhooks，细说两者的区别](https://mp.weixin.qq.com/s/-zYppv4rcNijHueSN1YeAQ)
++ [面试官：如何在高并发下避免交易所宕机？](https://mp.weixin.qq.com/s/UUr4kHRnviUDlMHgHS-UhA)
 
 # 测试相关
 
@@ -468,6 +470,7 @@
 ### JSON
 
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
++ [JsonPath 练习](https://mp.weixin.qq.com/s/2oM2kUN7PETdIT3QhzT_Og)
 
 ### 正则表达式
 

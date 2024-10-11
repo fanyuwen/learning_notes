@@ -182,6 +182,7 @@
 + [try catch 应该在 for 循环里面还是外面？](https://mp.weixin.qq.com/s/ae0DVUHrvFtcG-zDbZGG4w)
 + [必备！提升 java 代码整洁度的10大实用技巧，快速优化代码质量](https://mp.weixin.qq.com/s/wcPNPy1lO1IEYG1e9EFowg)
 + [Java开发，必知的七个性能优化方向！](https://mp.weixin.qq.com/s/Yun7qIiTo0_zqYspwzyfvQ)
++ [Java性能调优：实战技巧与最佳实践](https://mp.weixin.qq.com/s/oV1qL2zUGk4oKh3y8XCdWg)
 
 # 底层
 
@@ -201,6 +202,8 @@
 + [深入理解Java并发编程：线程池与锁机制](https://mp.weixin.qq.com/s/hdr29sf9-zEWlA17YTudHA)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
 + [【多线程与高并发】锁的底层实现](https://mp.weixin.qq.com/s/asYL-B2gdIGzV7EfKyeRYw)
++ [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
++ [【多线程与高并发】异常跟锁](https://mp.weixin.qq.com/s/NUyMPA5qCKG4DV3GRW8qgQ)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/ojn7fJorJYZTvGL4WGMmkg)
@@ -227,7 +230,6 @@
 + [为何1000==1000为false，而100==100却为true？](https://mp.weixin.qq.com/s/7_KrtAyUqpA71AGwi1i5JQ)
 + [一不小心掉入了 Java Interface 的陷阱](https://mp.weixin.qq.com/s/KB5bo10LPkJJqnOJUc2fpw)
 + [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
-+ [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
 + [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
 + [多线程如何共享数据？](https://mp.weixin.qq.com/s/fw2aOExln8H0mUZfXRCwSw)
@@ -376,6 +378,7 @@
 + [Java线程池中的submit与execute：区别、应用场景及面试必问知识点](https://mp.weixin.qq.com/s/a-cIx3uZ4sKcX91EJymVyA)
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/5QDUD80A8OX_soM_2hqFGw)
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/qY8zuTJee3fy65-Che0CxQ)
++ [线程池不再乱配线程数了](https://mp.weixin.qq.com/s/i2wHBF_u_zrUDSCpaYX0Zw)
 + [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
 + [Java 虚拟线程探究与性能解析](https://my.oschina.net/u/4662964/blog/15646720)
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
@@ -713,6 +716,7 @@
 + [SpringBoot 3.3 接口防抖的一些实现方案，超赞！](https://mp.weixin.qq.com/s/2eM0H7wvm6Mw852W7CpHcw)
 + [Spring Boot 3.3 五种异步处理提升系统吞吐量的策略与实践，彻底爱了！](https://mp.weixin.qq.com/s/mZAnOveHZ14dNasBLzXrdw)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
++ [惊喜发现！Spring Boot 3.3 的隐藏宝藏功能，不容错过！](https://mp.weixin.qq.com/s/K9JHq_bqDJIb8ebMhxtxkg)
 + [真香！Spring Boot 3.3 搭配 STOMP，轻松实现数据实时通信](https://mp.weixin.qq.com/s/0nijw-FuSswejElqGZsmsA)
 + [优雅至极！Spring Boot 3.3 中 ObjectMapper 的最佳实践！](https://mp.weixin.qq.com/s/yMZm6xPN_ie9cV6BBpaJ4w)
 + [告别 UUID！Spring Boot 3.3 中替换数据库主键的新选择](https://mp.weixin.qq.com/s/63kycj5m8PPZqs_0PMvbfQ)
@@ -936,6 +940,7 @@
 + [SpringBoot线上动态调整、实时监控、告警线程池状态](https://mp.weixin.qq.com/s/yLKiX_n9AzLbEWyPkclYmQ)
 + [Spring Boot2.x教程:（六）一次线上停nacos的经历兼谈bootstrap.yml与application.yml](https://mp.weixin.qq.com/s/RmGXbfl7AsOXCvIyYY6Tvg)
 + [稳健！基于 Spring Boot 的事务外包模式构建可靠微服务](https://mp.weixin.qq.com/s/I9MoRJYyjbZR1K2FsGppKQ)
++ [高效！Spring Boot 3.3 BOM 助你轻松简化微服务开发](https://mp.weixin.qq.com/s/nu8M60_T8pDZCojdL_ekKA)
 
 #### 分布式
 
@@ -1062,6 +1067,8 @@
 + [Spring Boot用Spring Security + JWT + MySQL实现基于Token的身份认证](https://mp.weixin.qq.com/s/195fJ-iA7fxjWPnJHiG8XA)
 + [Spring Boot调用外部接口，这3种方式助你一臂之力！](https://mp.weixin.qq.com/s/B8bFmDkFRbwQuCC_0dSYmw)
 + [Spring Boot 调用外部接口的多种实现方式](https://mp.weixin.qq.com/s/RhNTV3MT_kMkKIe1se5BRQ)
++ [Spring Boot 2来袭：探索HTTP接口的革命性升级](https://mp.weixin.qq.com/s/mqN8tTGfaEtqlSYDnxu1Vw)
++ [SpringBoot 控制层中，@Service 可以完全替代 @Controller 吗？](https://mp.weixin.qq.com/s/WMSfIGuMp0Iwge_fBOFROg)
 
 ##### VUE
 
@@ -1113,6 +1120,7 @@
 + [Springboot如何实现redis的消息订阅发布](https://mp.weixin.qq.com/s/-q-wkLg7natf4zHRBIHe3g)
 + [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
 + [揭秘！为什么 Spring Boot 选择 HikariCP 作为 2.0+ 和 3.0+ 的默认数据库连接池](https://mp.weixin.qq.com/s/-pd5f4du00wZROLSK8OVtw)
++ [SpringBoot3革新：JdbcClient让JdbcTemplate成为历史，JdbcClient 更强大](https://mp.weixin.qq.com/s/OQRpSwQoKJf3THslMfJp7A)
 
 ##### TRANSACTION
 
@@ -1159,6 +1167,7 @@
 + [在SpringBoot项目中使用CompletableFuture优化并发REST调用的正确姿势](https://mp.weixin.qq.com/s/Vgtl0eCq2_iZplrtEqXDvg)
 + [虚拟线程在Spring Boot中的应用及性能对比](https://mp.weixin.qq.com/s/o88MCVp7D1fk2VtzEnRqqQ)
 + [确保Spring Boot定时任务只执行一次方案](https://mp.weixin.qq.com/s/fj7k_16lFb1RmOL7JXrrOA)
++ [不会用 SpringBoot 做分布式任务调度？这篇攻略让你轻松上手！](https://mp.weixin.qq.com/s/Vr0O7ALjKj3lq2hRZhN2mw)
 
 ##### Disruptor
 
@@ -1225,6 +1234,7 @@
 
 #### 安全
 
++ [不想被恶意访问？SpringBoot 的 IP 白名单限制了解一下！](https://mp.weixin.qq.com/s/Uei7uUXIUvGZPsw_rqAZ6w)
 + [SpringBoot整合SpringSecurity权限控制（动态拦截url+单点登录）](https://mp.weixin.qq.com/s/B5RDHnpJ2MSEbyFM0u2Mnw)
 + [Spring Security实现后端接口权限验证](https://mp.weixin.qq.com/s/NvQmM-NjvrGVTNOHrb_oKA)
 + [SpringBoot应用数据加密实战：守护信息安全的多维度策略](https://mp.weixin.qq.com/s/ZAqOUtZXwL8y34Y-nabzFw)
@@ -1267,6 +1277,8 @@
 #### 配置打包部署
 
 + [告别 @Value！Spring Boot 3.3 更优雅的配置注入方式](https://mp.weixin.qq.com/s/T-KqgDVBauOW5OehKgy2Bw)
++ [强大！Spring Boot敏感数据动态配置，这样做更安全](https://mp.weixin.qq.com/s/fKT2Y3f6dYUaxKQ_65yWtg)
++ [在 Spring Boot 中加载属性文件的7种方法](https://mp.weixin.qq.com/s/lONiORW-_t-3AMNHz19sfg)
 + [Spring Boot 3.3 Profiles深度解析：轻松管理多环境配置的终极指南](https://mp.weixin.qq.com/s/4kNADHzpW82Nxz9PvtCXJw)
 + [Spring Boot3.3 + devtools 轻松搞定热部署！](https://mp.weixin.qq.com/s/6Rwh8QhhSaJ4PltXt4mrfA)
 + [从SpringBoot2.7开始自动配置发生哪些变化？你都知道吗？](https://mp.weixin.qq.com/s/ofBasHTpzuqeEDqdxDrqAw)
@@ -1352,6 +1364,7 @@
 + [MyBatis中的设计模式实践与面试解析](https://mp.weixin.qq.com/s/HbNYF36ErESbql4Q2lPCaQ)
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/m5M3T0YJBMjxFZJUHAOlLA)
 + [Mybatis插件-租户ID的注入&拦截应用](https://mp.weixin.qq.com/s/HtKaQOs7_yoynNAa4UzhyA)
++ [MyBatis深度解析：高级查询与性能优化](https://mp.weixin.qq.com/s/qjQFxFY2E2FQSPV15XjT6w)
 
 ### plus
 

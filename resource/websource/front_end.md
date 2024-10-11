@@ -21,6 +21,7 @@
 
 + [JS高级-认识对象的原型](https://mp.weixin.qq.com/s/Xr81iekL589d1NlqJDJ5iA)
 + [JS高级-彻底攻克原型链(详解)](https://mp.weixin.qq.com/s/Srth2Nbd0tXXaKAY1Zbq6g)
++ [深入理解 JavaScript 的原型链 (Prototype Chain)](https://mp.weixin.qq.com/s/J4L49j_060AmNK-Wr-JmZQ)
 + [JS高级-对象方法的补充以及创建对象方案](https://mp.weixin.qq.com/s/ghWOeMQnyETOyUCXmhT3jA)
 
 ### 语言新特性
@@ -174,6 +175,7 @@
 ## vite
 
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
++ [Vite 使用指南](https://mp.weixin.qq.com/s/55Hukaap4l3I2tvYE_wxDA)
 
 ## 其它
 

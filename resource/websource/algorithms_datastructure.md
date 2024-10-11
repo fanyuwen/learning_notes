@@ -45,6 +45,7 @@
 + [美团面试：百亿级分片，如何设计基因算法？](https://mp.weixin.qq.com/s/JS7-Xu180704WY7LDrebYw)
 + [TimeWheel 算法介绍及在应用上的探索](https://my.oschina.net/vivotech/blog/15646591)
 + [最强总结！十大时间序列算法 ！！](https://mp.weixin.qq.com/s/H-eB6HBQEtsY2eSVqYSyIA)
++ [【框架】缓存分片中的哈希算法与一致性哈希算法](https://mp.weixin.qq.com/s/Oqe6L_HDixXePU84OmsO7w)
 
 # leetcode
 

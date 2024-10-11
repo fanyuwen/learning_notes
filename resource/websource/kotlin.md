@@ -6,6 +6,7 @@
 + [使用 Kotlin DataFrame 执行数据分析的分步指南 | 官方博客](https://mp.weixin.qq.com/s/X8V3V3--Ed0SdyHMMfcmBg)
 + [Kotlin Flow：掌握基本，征服应用，避开开发陷阱！](https://mp.weixin.qq.com/s/Crmm_AjCS3TBxmkPefg0oA)
 + [Kotlin协程+Retrofit网络请求如此简单](https://mp.weixin.qq.com/s/Jv5Wi7bXBuMZcxlsa0pQug)
++ [快速上手 Ktor：高效的 JVM HTTP 工具包 | 官方博客](https://mp.weixin.qq.com/s/W1WaWFrGOBBXUfwWoumhVA)
 
 ## 技术月报
 

@@ -131,6 +131,7 @@
 + [一个例子搞懂CPU的工作原理](https://mp.weixin.qq.com/s/cIPCVgXMEMKlN3vI6KvrhQ)
 + [如何动手做出一个 CPU ？](https://my.oschina.net/u/4899581/blog/5242015)
 + [程序是怎么一步步变成机器指令的？](https://mp.weixin.qq.com/s/lDbLLp3Frhk9qYHG83bcuw)
++ [cpu cache是什么？](https://mp.weixin.qq.com/s/LDpIul7vrt8StBuv7jwYjg)
 
 ### 并发
 

@@ -465,6 +465,7 @@
 + [遇到过Redis故障吗？有哪些？](https://mp.weixin.qq.com/s/ckx8QMJqZE8rYafQ8IDRrw)
 + [Redis布隆过滤器基本原理与应用场景分析](https://mp.weixin.qq.com/s/DXJ4D8zdV3sBJhRl22shcg)
 + [Redis系列：聊聊布隆过滤器（Go语言实践篇）](https://mp.weixin.qq.com/s/eyHn8FMAYmZcWZgpGq9liQ)
++ [Redis的过期策略和内存淘汰机制是什么？](https://mp.weixin.qq.com/s/q4ftk9hO8mjgvmQpoVYjNQ)
 
 #### 原理
 

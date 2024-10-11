@@ -125,6 +125,7 @@
 + [掌握Python configparser模块的核心功能](https://mp.weixin.qq.com/s/_43LDI_7bF9W3TDyjhABOA)
 + [深入理解双端队列-实现、优化与应用解析](https://mp.weixin.qq.com/s/m-UU5M4-no8v2kWHSvuj6Q)
 + [Python编程中的数学运算利器math库](https://mp.weixin.qq.com/s/QMj6IpdCfD3XwZr6Z9QKHQ)
++ [Python OS模块](https://mp.weixin.qq.com/s/OxVlR9rSLeyBYri1GEujhA)
 
 ### 异步/多线程
 
@@ -148,6 +149,7 @@
 + [使用Python进行文件管理的4个聪明方法](https://mp.weixin.qq.com/s/VVeFgYwHpoqfAUfNq-OPJw)
 + [正则表达式中的贪婪匹配与非贪婪匹配](https://mp.weixin.qq.com/s/CQEIVptI72QPmfVvo5WiYA)
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
++ [Python中创建和使用模块的10个窍门](https://mp.weixin.qq.com/s/VoC6n7tUELTu6P1XohkTRQ)
 + [使用Python进行图像处理的11个基本操作](https://mp.weixin.qq.com/s/GBrnb2I89RykYJ24GJwcbg)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
 + [Python让数据处理更简单的9个代码片段](https://mp.weixin.qq.com/s/Nf_Yl1oJxwyyCF9MTW7ohA)
@@ -346,6 +348,7 @@
 + [rddpip，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/HPFfGfCLdRzYMl9RCoBjWQ)
 + [Nipy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/_NlF1OfdgeMYDtEc44L1Aw)
 + [PyDy，一个牛逼的python库](https://mp.weixin.qq.com/s/V7E8gX4XL_SsfZe59EWqNw)
++ [Coconut，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/ZlryoCNipC4tO5ZVQ3aOTQ)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
 + [Monolog，一个最强大的Python库](https://mp.weixin.qq.com/s/vUxnJQUtbTIdPXtciWGJTg)
 + [mypy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/bWQs3EnfcCLMS5584xJ2Ow)
@@ -591,3 +594,4 @@
 
 + [用python学数学第9课-数学基础4](https://mp.weixin.qq.com/s/VtFkw3yZ7i0TMzZ9bdlD2A)
 + [25 天征服 Rust：一个 Python 程序员的学习之旅](https://mp.weixin.qq.com/s/RdNq1-FRUIMf0IdlYWdTdg)
++ [Python Web框架比较：10个流行的Web框架概览](https://mp.weixin.qq.com/s/m-yh86GcrJvNGvVLky7abw)

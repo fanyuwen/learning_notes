@@ -73,6 +73,7 @@
 + [【内核】Linux内核驱动加载顺序源码剖析](https://mp.weixin.qq.com/s/rKCrgbUMkSwDQtrWPH0jAg)
 + [探索linux高效异步io：io_uring的实现原理与案例分析](https://mp.weixin.qq.com/s/ou8PHhDc3LZ9VII211yRUQ)
 + [Linux高性能编程_nginx内存池](https://mp.weixin.qq.com/s/EfaX38B8Q6gveBc74KIXPg)
++ [从linux内核源码解析数据传输的整个过程（上）](https://mp.weixin.qq.com/s/FVNL3OP3cAvzVR4FBd-0zw)
 
 ### 网络
 
@@ -284,6 +285,8 @@
 + [Nginx 日志](https://mp.weixin.qq.com/s/h8faoQd05kCNB-KKSNpjRA)
 + [nginx（三）：强制安全——轻松实现从HTTP 到 HTTPS 的重定向](https://mp.weixin.qq.com/s/wuYCh08aKRf3H2NoBv7qqQ)
 + [Nginx 生产环境下的安全配置](https://mp.weixin.qq.com/s/K1Ya97W_xoymhKidSqaXWw)
++ [Nginx入门教程：简介、安装配置、静态资源部署、使用Nginx静态代理发布3D Tiles数据并在Cesium中进行加载](https://mp.weixin.qq.com/s/ilPV3--vZloeZcGtwFuLQA)
++ [轻松玩转Nginx：简析配置文件与四大负载均衡技术](https://mp.weixin.qq.com/s/Jr_CTPa8glCj1c4oEdg5tw)
 
 ### wireshark
 

@@ -198,7 +198,9 @@
 + [万字长文详解Java线程知识](https://mp.weixin.qq.com/s/wS0_eEuOLhDX7wyru57ikQ)
 + [sychronized的自旋锁、偏向锁、轻量级锁、重量级锁，分别介绍和联系](https://mp.weixin.qq.com/s/SRAPGkiu44v62YSd1EAoJQ)
 + [Java线程安全 -- 线程安全类](https://mp.weixin.qq.com/s/S4CqtnVXK6tBAUQ9VwmoYQ)
++ [深入理解Java并发编程：线程池与锁机制](https://mp.weixin.qq.com/s/hdr29sf9-zEWlA17YTudHA)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
++ [【多线程与高并发】锁的底层实现](https://mp.weixin.qq.com/s/asYL-B2gdIGzV7EfKyeRYw)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/ojn7fJorJYZTvGL4WGMmkg)
@@ -447,6 +449,7 @@
 
 ## IO/NIO
 
++ [Java学习笔记——File类与IO流](https://mp.weixin.qq.com/s/SRbNKntcR7wLWvvrnMLnVw)
 + [字节流 InputStream 秘籍大公开，这些技巧你 get 了吗？](https://mp.weixin.qq.com/s/8-MpKBI5qUQA45uhMyCTnA)
 + [温故知新！Java NIO总结: ByteBuffer缓存](https://mp.weixin.qq.com/s/1fk3hEDSNPCojt5CPSrBqA)
 + [Java IO包中的File和Java NIO包中的Files都有什么区别？](https://mp.weixin.qq.com/s/gr6fofPENQ5uT6AaOypbqQ)
@@ -931,6 +934,8 @@
 + [Spring Boot —— 响应式编程与分层解耦架构示例](https://mp.weixin.qq.com/s/mBDVt5zkyRMrMliQItdbZg)
 + [SpringBoot + Prometheus：打造高效监控系统](https://mp.weixin.qq.com/s/Pl7AeuHYEQ13OCivQiahUg)
 + [SpringBoot线上动态调整、实时监控、告警线程池状态](https://mp.weixin.qq.com/s/yLKiX_n9AzLbEWyPkclYmQ)
++ [Spring Boot2.x教程:（六）一次线上停nacos的经历兼谈bootstrap.yml与application.yml](https://mp.weixin.qq.com/s/RmGXbfl7AsOXCvIyYY6Tvg)
++ [稳健！基于 Spring Boot 的事务外包模式构建可靠微服务](https://mp.weixin.qq.com/s/I9MoRJYyjbZR1K2FsGppKQ)
 
 #### 分布式
 
@@ -1056,6 +1061,7 @@
 + [基于Spring Boot给所有Controller接口添加统一前缀的5种方式](https://mp.weixin.qq.com/s/8YbwaP2D5-2Mv_svhKObGQ)
 + [Spring Boot用Spring Security + JWT + MySQL实现基于Token的身份认证](https://mp.weixin.qq.com/s/195fJ-iA7fxjWPnJHiG8XA)
 + [Spring Boot调用外部接口，这3种方式助你一臂之力！](https://mp.weixin.qq.com/s/B8bFmDkFRbwQuCC_0dSYmw)
++ [Spring Boot 调用外部接口的多种实现方式](https://mp.weixin.qq.com/s/RhNTV3MT_kMkKIe1se5BRQ)
 
 ##### VUE
 
@@ -1152,6 +1158,7 @@
 + [SpringBoot 物理线程、虚拟线程、Webflux 性能全面对比！](https://mp.weixin.qq.com/s/ZmrP2-1tvwkUBXsgXAQ_6Q)
 + [在SpringBoot项目中使用CompletableFuture优化并发REST调用的正确姿势](https://mp.weixin.qq.com/s/Vgtl0eCq2_iZplrtEqXDvg)
 + [虚拟线程在Spring Boot中的应用及性能对比](https://mp.weixin.qq.com/s/o88MCVp7D1fk2VtzEnRqqQ)
++ [确保Spring Boot定时任务只执行一次方案](https://mp.weixin.qq.com/s/fj7k_16lFb1RmOL7JXrrOA)
 
 ##### Disruptor
 
@@ -1592,3 +1599,4 @@
 + [RPC 线程池被打满，1024个线程居然不够用？](https://mp.weixin.qq.com/s/VzReTA0YUDHVPCKRK-h5Ag)
 + [我悟了！原来在Java项目中是这样配置SSL证书的，想不会都难，建议收藏！](https://mp.weixin.qq.com/s/31K7jl3XD5fMWnfjm0HS0Q)
 + [开发经验总结：读写分离简单实现](https://my.oschina.net/carterspring/blog/15998430)
++ [当我去挖掘发序列化时的一个乌龙事件](https://mp.weixin.qq.com/s/G6x4rvkwjcXX_ttqX2LxEw)

@@ -503,6 +503,7 @@
 + [Redis 分布式锁过期了，还没处理完怎么办？](https://mp.weixin.qq.com/s/wBGi0AcjltPfKcuv3DaIhQ)
 + [吃透Redis系列：分布式锁](https://mp.weixin.qq.com/s/ngWdvT9ti1bRXaoCkv_r8A)
 + [美团面试：Redis锁如何续期？Redis锁超时，任务没完怎么办？](https://mp.weixin.qq.com/s/h3QY545R5US_WkjQXl8mbw)
++ [如何基于 Redis 实现分布式锁](https://mp.weixin.qq.com/s/T4fjnZAWl4ZaRR6YpEm9iw)
 
 #### 缓存
 

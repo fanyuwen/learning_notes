@@ -48,6 +48,7 @@
 + [Rust 瘦身秘笈：让你的二进制文件小得惊人！](https://mp.weixin.qq.com/s/sokDqN3vcMo_8-CPSFyxsg)
 + [探索Rust第二个最复杂的特性](https://mp.weixin.qq.com/s/sTe3dG1ppmuNtVKvSc7AAQ)
 + [Rust网络编程的瑞士军刀：深入探索socket2库](https://mp.weixin.qq.com/s/G8HWVunQV2dpV0dfE1YH5g)
++ [Rust秘籍：libc库让你秒变系统编程大师，6个实例带你飞！](https://mp.weixin.qq.com/s/Ba6CGufFLzCd75vFRKZKWA)
 
 # 框架
 
@@ -76,6 +77,7 @@
 + [Rust 进阶必读：《Effective Rust 中文版》助你成为 Rust 高手](https://mp.weixin.qq.com/s/67HcHn7fZ6b9zrMHYLWK3A)
 + [2024 年 Rust 学习指南：从零开始的 30 小时之旅](https://mp.weixin.qq.com/s/y-d7Nyr2WDr0puIMJ8du2Q)
 + [跟随 Rust 大师 Jon Gjengset 的 "Decrusted" 系列，成为 Rust 编程高手](https://mp.weixin.qq.com/s/YbImoaxVVxdF6TaVbTFfsg)
++ [介绍几个Github上的Rust开源项目-第九期](https://mp.weixin.qq.com/s/npQjeBPN7iExjLeTPdqOnQ)
 
 # 话题
 

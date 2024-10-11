@@ -388,12 +388,14 @@
 + [测试基础：测试用例设计方法-总结](https://mp.weixin.qq.com/s/EOQ8rPgh0guPhYRvout_vw)
 + [谈谈游戏服务器的自动化测试](https://mp.weixin.qq.com/s/eLOnjrNaFpNG_J-zLXlqsw)
 + [性能测试的艺术：Apache JMeter帮你赢在起跑线](https://mp.weixin.qq.com/s/vN3-P80Gs_ksJVrge2-x-A)
++ [性能测试系列（一）-性能测试的类型](https://mp.weixin.qq.com/s/GyKNyi3pUN7s4ATtTIlBIQ)
 + [深入了解软件测试：从入门到奥秘，揭开测试的精髓](https://my.oschina.net/powertoolsteam/blog/11454302)
 + [国产数据库能否扛住压力—HaloDB压力测试](https://mp.weixin.qq.com/s/0Y66i1q010CfMySrcM82tA)
 + [程序员别骗自己了，你分明就是不会写单元测试！！！而不是没时间。](https://mp.weixin.qq.com/s/Xt5DsztM0fJcmcxwZE8JRw)
 + [如何管理和维护自动化测试](https://mp.weixin.qq.com/s/XjlQ2zzzGeWNwFXz2d3ymQ)
 + [软件测试之道 -- 做一个有匠心的程序员！](https://mp.weixin.qq.com/s/ktEMOcXBopFiX9NIN3chHg)
 + [API接口文件包含+命令执行](https://mp.weixin.qq.com/s/LnMUi8-BjaUvq9hdQAOKmA)
++ [最牛逼的自动化测试工具：用Appium实现移动应用的自动化](https://mp.weixin.qq.com/s/MFZL8Y0TfjjUlXlKkrdbKQ)
 
 # 领域相关
 
@@ -425,6 +427,7 @@
 + [为什么程序员更喜欢 if-else 而不是 switch？](https://mp.weixin.qq.com/s/GHNm0R63LGgwVpVOQqpOZg)
 + [为啥要将局部变量的作用域最小化呢？](https://mp.weixin.qq.com/s/uYmIbKeXN4mO9VVOLU2Umg)
 + [世界上没有绝对安全的语言：横向对比C、Go、Rust中的“果”指针！](https://mp.weixin.qq.com/s/dqtOMRvSj2SYGiDfT0gtHQ)
++ [理解几种不同语言的“协程”](https://mp.weixin.qq.com/s/2YXRYtx9l6z4PqEEZet9Xg)
 
 ## 接口相关
 

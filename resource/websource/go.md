@@ -11,6 +11,7 @@
 
 # 话题
 
++ [Go语言的由来](https://mp.weixin.qq.com/s/sR4m0tqVM7szdzo7ilZ_KA)
 + [业内大佬怒喷：Go 正朝着错误的方向发展](https://mp.weixin.qq.com/s/WM7E-1aHu12l75FGq3RDtA)
 + [Go语言有个“好爹”反而被程序员讨厌？](https://mp.weixin.qq.com/s/SyIZNiPh-71b1X7nMAQsGQ)
 + [国内多个库被 rsc 钉上 Go 耻辱柱。。。](https://mp.weixin.qq.com/s/lh9Mz9dD2oa6C3XinAvr7A)
@@ -56,6 +57,7 @@
 
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 入门指南：7.3. For-range 结构](https://mp.weixin.qq.com/s/wdu7mvnFIz-jXrdjUO9Ueg)
++ [Go语言中函数作为一等公民，探索灵活性和应用之道](https://mp.weixin.qq.com/s/pyuPdp7ye_2BJwP9AT-KtA)
 + [Go 语言中不可不知的语法糖](https://mp.weixin.qq.com/s/dim6CFoJK4POZCky9zDY_g)
 + [Go 语言 Base64 编码解码实战指南](https://mp.weixin.qq.com/s/ozOxt353Wch9MXznrov0Cw)
 + [Go 微服务开发框架，集成自动代码生成、Gin 和 GRPC](https://mp.weixin.qq.com/s/WdrMkVLqksZPg7sstx7pdQ)

@@ -40,7 +40,7 @@
   + 同步异步控制库 [awaitility](https://github.com/awaitility/awaitility/wiki/Getting_started)
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/) [jmock](http://jmock.org/) [jmockit](https://jmockit.github.io/)
 + 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/)
-+ orm(数据库对象关系映射框架) <font style='color:red'>*</font>[jooq](https://www.jooq.org/) [mybatis](https://mybatis.org/mybatis-3/index.html)
++ orm(数据库对象关系映射框架) <font style='color:red'>*</font>[jooq](https://www.jooq.org/) [mybatis](https://mybatis.org/mybatis-3/index.html) [torque](https://db.apache.org/torque/torque-6.0/index.html)
   + [mybatis-generate](https://mybatis.org/generator/index.html) [mybatis-dynamicSQL](https://mybatis.org/mybatis-dynamic-sql/docs/introduction.html)
 + java容错库 [resilience4j](https://resilience4j.readme.io/)
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)

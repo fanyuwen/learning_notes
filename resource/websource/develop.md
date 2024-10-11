@@ -133,6 +133,7 @@
 + [一文搞懂注册中心的设计与实现](https://mp.weixin.qq.com/s/OdyUJg7nAN1Zlvo3c1yPYQ)
 + [分布式系统下数据最终一致性的实现策略](https://mp.weixin.qq.com/s/rfWtepDsaGoPCdDEYPtKng)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
++ [分布式ID介绍](https://mp.weixin.qq.com/s/8QNqS83AyKSmJW_JTXRoyQ)
 
 ## 分布式锁
 
@@ -256,6 +257,7 @@
 + [高并发中的限流策略](https://mp.weixin.qq.com/s/B_1EjQQoi-VVWhMc35hMXg)
 + [软件系统限流的底层原理解析](https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw)
 + [6 种服务限流方案技术选型，哪个最香？](https://mp.weixin.qq.com/s/tnVGZpz-mrT248RpWpfOfQ)
++ [限流算法比较](https://mp.weixin.qq.com/s/gFJ1yAhp8YqJOIV84KmgNQ)
 
 ### 大文件IO
 

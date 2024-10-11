@@ -4,6 +4,7 @@
 + [分享一些不错的 Rust 学习资料、博客、书籍等](https://mp.weixin.qq.com/s/u58NEIGDUQD5Oyz0NWeUjA)
 + [锈迹斑斑：Rust 程序员的秘密武器《Rusty Book》](https://mp.weixin.qq.com/s/790OgSb4EdXYUE-SGBaJjw)
 + [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)
++ [Rust 入门 - 通用编程概念 - 函数](https://mp.weixin.qq.com/s/FgyHNsllcOUMmnCKdH-xWg)
 + [Rust 入门 - 通用编程概念 - 数据类型](https://mp.weixin.qq.com/s/_f97EOtBLkY1YlLeS6LpRQ)
 + [Rust 2024版本即将到来…...](https://mp.weixin.qq.com/s/37lM6PX6C_hWCr4bdSWw8g)
 + [Rust 新手必读：《Rust Fuzz Book》让你的代码更安全、更稳定](https://mp.weixin.qq.com/s/brVtrWee3YKZ3AJwwsmp4g)
@@ -74,6 +75,7 @@
 + [你最应该读的Rust最佳书籍](https://mp.weixin.qq.com/s/3rv1n7PWm6qh6e60fOxPFA)
 + [Rust 进阶必读：《Effective Rust 中文版》助你成为 Rust 高手](https://mp.weixin.qq.com/s/67HcHn7fZ6b9zrMHYLWK3A)
 + [2024 年 Rust 学习指南：从零开始的 30 小时之旅](https://mp.weixin.qq.com/s/y-d7Nyr2WDr0puIMJ8du2Q)
++ [跟随 Rust 大师 Jon Gjengset 的 "Decrusted" 系列，成为 Rust 编程高手](https://mp.weixin.qq.com/s/YbImoaxVVxdF6TaVbTFfsg)
 
 # 话题
 

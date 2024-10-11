@@ -13,6 +13,9 @@
 + [掌握JavaScript的异步迭代器，让你的前端代码更上一层楼！](https://mp.weixin.qq.com/s/ztQGKVaxlS3Lsz_rMWjfPg)
 + [为何let取代了var？分享 1 段优质 JS 代码片段！](https://mp.weixin.qq.com/s/lc1-ZQxV8cEqNUQg_4yEhw)
 + [再见 try-catch，这个API更好用（JS代码片段）](https://mp.weixin.qq.com/s/Coni-FACISM8ZvCifE6ORQ)
++ [Js 中迭代器、生成器详解!](https://mp.weixin.qq.com/s/wRn6XGN5eOr0fbz7fGfQ8Q)
++ [JavaScript 中箭头函数详解](https://mp.weixin.qq.com/s/RJf6fgvj7gKOU7XKRQ2_TA)
++ [js 面向对象](https://mp.weixin.qq.com/s/IPO9sv4xgdXfBP95J-vLBA)
 
 ### 原理
 
@@ -117,6 +120,8 @@
 + [全网首发：Vue3.5 源码解析， useTemplateRef 实现原理](https://mp.weixin.qq.com/s/GnPPWXr3EP0vE7sxinNPTA)
 + [Vue3 源码解读-Props 实现原理](https://mp.weixin.qq.com/s/-Xzy1Hf2s_N9vYPbdoPTRA)
 + [如何优化 Vue.js 应用的性能？](https://mp.weixin.qq.com/s/ioTX4FfrFlKieMJulvIMHQ)
++ [在vue3 中使用typescripts配置axios，axios调用后端流程分析](https://mp.weixin.qq.com/s/s65zws6mdvWbAADvKlKSzw)
++ [VUE-Router ~ 路由的基本使用](https://mp.weixin.qq.com/s/JAwjEEAQdAqU7EAo_e4jOg)
 
 ## react
 
@@ -202,3 +207,4 @@
 + [常用的 HTML5 移动应用开发框架比较](https://my.oschina.net/justjavac/blog/68936)
 + [28 个你必须知道的 HTML5 的新特性，技巧以及技术](https://my.oschina.net/justjavac/blog/68140)
 + [推荐几个还在疯狂输出的前端大佬](https://mp.weixin.qq.com/s/ulkFMO0Vyl6OiHPZDckY4g)
++ [Deno 2.0 正式发布](https://mp.weixin.qq.com/s/B3wyeaYk7MDlps5M-BNvNw)

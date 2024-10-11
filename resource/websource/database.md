@@ -535,6 +535,7 @@
 + [计算效率提升 30 倍、存储资源节省 90%，雨润集团基于 Apache Doris 的统一实时数据仓库建设实践](https://mp.weixin.qq.com/s/UUUaDHjIShO540RNXpzUjw)
 + [基于 Apache Doris 的实时/离线一体化架构，赋能中国联通 5G 全连接工厂解决方案](https://mp.weixin.qq.com/s/mk0mrjfrvtNZv35hpJDdJA)
 + [查询性能提升 10 倍、存储空间节省 65%，Apache Doris 半结构化数据分析方案及典型场景](https://my.oschina.net/selectdb/blog/15776710)
++ [腾讯音乐：从 Elasticsearch 到 Apache Doris 内容库升级，统一搜索分析引擎，成本直降 80%](https://mp.weixin.qq.com/s/t3uOilISBXowGrZ-qxRWsA)
 
 ### CLICKHOUSE
 

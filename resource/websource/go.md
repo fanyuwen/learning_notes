@@ -50,6 +50,7 @@
 # 工具
 
 + [Go语言轻量级内存数据库，基于Redis哈希表！](https://mp.weixin.qq.com/s/QOr1O7aRiZM011aJ7W_6aQ)
++ [给大家推荐一个配置加载框架](https://mp.weixin.qq.com/s/x1uawznmaUYFfd5lsRE5Sw)
 
 # 实践
 

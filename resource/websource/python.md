@@ -82,6 +82,7 @@
 ### 面向对象
 
 + [Python面向对象编程：多重继承和MRO深入解析](https://mp.weixin.qq.com/s/h8QjObfvUAQ9jn6BL6VJDw)
++ [最全Python入门教程：面向对象编程](https://mp.weixin.qq.com/s/K1UQJs2bpXZtjl_b9iNJyw)
 + [Python中的类多态：方法重写和动态绑定](https://mp.weixin.qq.com/s/Ce4txZm13aFCeYhbnOIBsw)
 + [48面向对象2定义](https://mp.weixin.qq.com/s/3DBnfbJLga5TBHfVFrN-ng)
 + [50面向对象4self绑定方法](https://mp.weixin.qq.com/s/n3KzCz8xBXpKCrekxyCauw)
@@ -153,6 +154,7 @@
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
 + [python注释知识点及用法讲解](https://mp.weixin.qq.com/s/tQXD1fajWD_T-rsBOMdEAg)
 + [​Python 日期和时间处理：你绝对不能错过的最强技巧！](https://mp.weixin.qq.com/s/c8bAjmBIAiz3p77OesNwKg)
++ [Python日期时间处理的10个常见任务](https://mp.weixin.qq.com/s/a3XIyxEGT7cFmAnfQQ7Glw)
 + [不走弯路！编写Python代码的8个绝佳习惯](https://mp.weixin.qq.com/s/xkofutC2hNAhpzYfBSTAxA)
 + [Python高手不可不知的12个文件处理窍门](https://mp.weixin.qq.com/s/QapseKG9Mt_kiFJmRborpQ)
 + [如何使用Python高效创建文件备份工具？](https://mp.weixin.qq.com/s/Hnqo60p_BfYlnrrGMlexhg)
@@ -296,6 +298,7 @@
 + [Python帮你管理Windows进程快速终止无响应程序](https://mp.weixin.qq.com/s/zvBPIG56o2HwuVrQ2xv7Hw)
 + [使用Python破解验证码：从基础到实践](https://mp.weixin.qq.com/s/P3O5jraRlPksE7A2GMy4mw)
 + [Python GUI开发必看：Frame组件详解](https://mp.weixin.qq.com/s/zdJnF-jWRC4sSkC5ApRBHA)
++ [Python轻松调用JS接口的实用技巧](https://mp.weixin.qq.com/s/paGxVFP8cdOV-TIk5kKWsg)
 
 ## 第三方库
 
@@ -331,6 +334,7 @@
 + [pdfminer ，一个最最强大的Python库，解锁pdf无限可能](https://mp.weixin.qq.com/s/A1eHEw3slSyvPELxFs0Olw)
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)
 + [bqplot，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/7N7GlicJMcS1xmAbTjhpsg)
++ [PyBluez，一个蓝牙操作的Python库！](https://mp.weixin.qq.com/s/dui8bLk3XruMx2olxECd5g)
 + [pyOCR，一个最牛逼的Python库](https://mp.weixin.qq.com/s/iCUUC4O_M7WPzTFpr-Zjow)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [theano，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/poeuvMH-X6QUcX4ERoJKUQ)

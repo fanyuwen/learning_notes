@@ -76,6 +76,7 @@
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
++ [常用的 Lambda 表达式案例解析](https://mp.weixin.qq.com/s/GbebKL50GagpLqD4vD9CgQ)
 + [Java Sream中如何自定义Collector实现复杂数据的收集](https://mp.weixin.qq.com/s/jW0ZoQP3gOUzbXW3qLWO9g)
 + [Java 8 Stream API 深度探索：多层嵌套、分组聚合与复杂过滤](https://mp.weixin.qq.com/s/ZcmdyMhORXKoePiVjJHOJA)
 + [Java 8 Stream API：强大而灵活的数据处理流水线](https://mp.weixin.qq.com/s/NU07KVGs3waZoVZtos63Sg)
@@ -114,6 +115,7 @@
 + [递归查询文件树不要怕，看我用HashMap怎么玩！](https://mp.weixin.qq.com/s/rLI58P0gfq80aad4IYJm5g)
 + [接口优于反射机制](https://mp.weixin.qq.com/s/6nTk57AHhyU7z7RWeY4k5g)
 + [那些依赖于`!=null`的日子已经结束了](https://mp.weixin.qq.com/s/18VtG22mx91S8J9A5-JuIw)
++ [还在用 if (obj != null) 吗？这几招轻松解决空指针！](https://mp.weixin.qq.com/s/5oby_TaV-vqwZ78ZJ0grYQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java性能优化-书写高质量SQL的建议(如何做Mysql优化)](https://mp.weixin.qq.com/s/fx2CULg77qTrt-YMCbO6LQ)
@@ -130,6 +132,7 @@
 + [Java中获取Class对象的三种方式](https://mp.weixin.qq.com/s/rHxRWJkefeqaA4HMVql9Tw)
 + [Java中如何高效地合并多个对象的List数据：方法与案例解析](https://mp.weixin.qq.com/s/Zszq8anSZ0fRpVTOJnBAGQ)
 + [java中反射（Reflection）的4个作用](https://mp.weixin.qq.com/s/CVq3eL4hPIhR0dgtaoZWgQ)
++ [Java学习笔记——反射机制](https://mp.weixin.qq.com/s/fYO8snJqIZkDOuxfQON0CA)
 + [并发处理的利器：深入探讨锁分离设计案例（高并发篇）](https://mp.weixin.qq.com/s/WZkcT4sroe9f3ebGzABSHg)
 + [java如何不让方法调用者处理受检异常？](https://mp.weixin.qq.com/s/k-D7OLDxPB-9HwNNidfcKg)
 + [利用反射实现动态代理](https://mp.weixin.qq.com/s/cQe-43xlV5GCiru-aru1eg)
@@ -178,6 +181,7 @@
 + [抛出与抽象对应的异常](https://mp.weixin.qq.com/s/lwDYVq2AbktnufcUyYF_Xw)
 + [try catch 应该在 for 循环里面还是外面？](https://mp.weixin.qq.com/s/ae0DVUHrvFtcG-zDbZGG4w)
 + [必备！提升 java 代码整洁度的10大实用技巧，快速优化代码质量](https://mp.weixin.qq.com/s/wcPNPy1lO1IEYG1e9EFowg)
++ [Java开发，必知的七个性能优化方向！](https://mp.weixin.qq.com/s/Yun7qIiTo0_zqYspwzyfvQ)
 
 # 底层
 
@@ -221,6 +225,7 @@
 + [为何1000==1000为false，而100==100却为true？](https://mp.weixin.qq.com/s/7_KrtAyUqpA71AGwi1i5JQ)
 + [一不小心掉入了 Java Interface 的陷阱](https://mp.weixin.qq.com/s/KB5bo10LPkJJqnOJUc2fpw)
 + [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
++ [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
 + [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
 + [多线程如何共享数据？](https://mp.weixin.qq.com/s/fw2aOExln8H0mUZfXRCwSw)
@@ -706,12 +711,14 @@
 + [Spring Boot 3.3 五种异步处理提升系统吞吐量的策略与实践，彻底爱了！](https://mp.weixin.qq.com/s/mZAnOveHZ14dNasBLzXrdw)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
 + [真香！Spring Boot 3.3 搭配 STOMP，轻松实现数据实时通信](https://mp.weixin.qq.com/s/0nijw-FuSswejElqGZsmsA)
++ [优雅至极！Spring Boot 3.3 中 ObjectMapper 的最佳实践！](https://mp.weixin.qq.com/s/yMZm6xPN_ie9cV6BBpaJ4w)
 + [告别 UUID！Spring Boot 3.3 中替换数据库主键的新选择](https://mp.weixin.qq.com/s/63kycj5m8PPZqs_0PMvbfQ)
 + [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
 + [最佳实践！使用 Enum 实现 Spring Boot 3.3 高效配置管理](https://mp.weixin.qq.com/s/GY8L5boPVHiZkkW5pLTU8A)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
++ [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
 + [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
@@ -922,6 +929,8 @@
 + [Spring Boot实用小技巧5 - 第527篇](https://mp.weixin.qq.com/s/FFVarKkPui5e8d6OdwX2cQ)
 + [自定义Spring Boot Starter：简化短信服务集成](https://mp.weixin.qq.com/s/9wnr3aBS0KxE98lqszdjIw)
 + [Spring Boot —— 响应式编程与分层解耦架构示例](https://mp.weixin.qq.com/s/mBDVt5zkyRMrMliQItdbZg)
++ [SpringBoot + Prometheus：打造高效监控系统](https://mp.weixin.qq.com/s/Pl7AeuHYEQ13OCivQiahUg)
++ [SpringBoot线上动态调整、实时监控、告警线程池状态](https://mp.weixin.qq.com/s/yLKiX_n9AzLbEWyPkclYmQ)
 
 #### 分布式
 
@@ -1046,6 +1055,7 @@
 + [释放RESTful API的潜力：掌握Spring Boot 3.3的Spring HATEOAS](https://mp.weixin.qq.com/s/E1wa1GOJVhDHQJ7NfLHROg)
 + [基于Spring Boot给所有Controller接口添加统一前缀的5种方式](https://mp.weixin.qq.com/s/8YbwaP2D5-2Mv_svhKObGQ)
 + [Spring Boot用Spring Security + JWT + MySQL实现基于Token的身份认证](https://mp.weixin.qq.com/s/195fJ-iA7fxjWPnJHiG8XA)
++ [Spring Boot调用外部接口，这3种方式助你一臂之力！](https://mp.weixin.qq.com/s/B8bFmDkFRbwQuCC_0dSYmw)
 
 ##### VUE
 
@@ -1245,6 +1255,7 @@
 + [springboot + rabbitmq实现邮件发送，保证消息100%投递成功](https://mp.weixin.qq.com/s/v68fM9rebIt4Tguj8U8GkQ)
 + [SpringBoot 整合 RabbitMQ 轻松实现流量消峰](https://mp.weixin.qq.com/s/6Qvp10_dz5MF2iFg4MSAMw)
 + [Spring Boot整合Kafka+SSE实现数据实时展示](https://mp.weixin.qq.com/s/WUH1iPP1OsJfZeU-ZjPq7A)
++ [Spring Boot3新特性@RSocketExchange轻松实现消息实时推送](https://mp.weixin.qq.com/s/3CDtgpYXHApf6DcVoGVNmA)
 
 #### 配置打包部署
 
@@ -1280,6 +1291,7 @@
 + [SpringBoot 为何可以使用 Jar 包启动？](https://mp.weixin.qq.com/s/Qcd8KCJRngL4DGU7vobBJw)
 + [springBoot应用使用exe4j与innosetup打包为exe可执行程序手把手教学](https://mp.weixin.qq.com/s/xPzipoTNNsnlF-j7f-a06Q)
 + [Spring Boot 动态加载jar包，动态配置太强了！](https://mp.weixin.qq.com/s/YZsLmK8JE8IVRTbDhfMNSQ)
++ [源码分享 | spring-boot打包和部署](https://mp.weixin.qq.com/s/Kl4NDUXngeijUCwsu4FVaA)
 
 #### 原理&源码
 
@@ -1518,6 +1530,7 @@
 + [动态线程池 v1.1.9 版本发布，新增全局配置、AgentAware、Liteflow 适配等若干实用特性！](https://mp.weixin.qq.com/s/Jv4NNKBv8wpQgBr9bcMNXw)
 + [午夜闲谈-Fastjson漏洞版本判断与漏洞利用](https://mp.weixin.qq.com/s/ukYgUYceZD3ASQ2JKa08Hw)
 + [午夜闲谈-Fastjson漏洞各版本POC比较](https://mp.weixin.qq.com/s/EPdNElXPcZd5wEmQqAhFiQ)
++ [为开发提速：Jersey，这个Java库值得一试](https://mp.weixin.qq.com/s/dUdD4htiwHMaIz4ZBBQN2g)
 
 # 其它环境
 

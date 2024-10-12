@@ -31,6 +31,7 @@
 + [为什么这段代码会阻塞？](https://mp.weixin.qq.com/s/gtRzAlSuPsDmTcsAoBIleA)
 + [聚合接口层（BFF）之Go语言版（五）完结](https://mp.weixin.qq.com/s/73bTitH5VkS2EFj8dogL6w)
 + [通过 Kubernetes 看 Go 接口设计之道](https://mp.weixin.qq.com/s/1ewex6YMTA083shioZtwRA)
++ [通过 Kubernetes 看如何用Go构建大型项目](https://mp.weixin.qq.com/s/uot21dJgwxF2RA8pZmYAkA)
 
 # 库
 

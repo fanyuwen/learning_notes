@@ -99,6 +99,7 @@
 
 + [Prometheus 14 点实践经验分享](https://my.oschina.net/morflameblog/blog/10467503)
 + [7 张图，彻底讲透 Prometheus 架构原理，收藏备用](https://mp.weixin.qq.com/s/ZeaDS35ox-NX1uJhkugChg)
++ [Prometheus Operator 自定义监控报警：守护应用的健康卫士](https://mp.weixin.qq.com/s/XNL0J8ULZTdxtCOB935kMQ)
 
 ## Istio
 

@@ -25,6 +25,7 @@
 + [Java 枚举实战案例，让你告别繁琐的常量管理！](https://mp.weixin.qq.com/s/KI63wEPcqWTRuNwM897e3A)
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
++ [为什么要使用泛型？使用泛型带给你的好处有哪些 ？](https://mp.weixin.qq.com/s/oCIuao07Brok-T0FPzu17w)
 
 ## 新语言特性
 
@@ -74,6 +75,7 @@
 
 ## 高级用法
 
++ [Java循环还能这么玩？](https://mp.weixin.qq.com/s/8jxL6XXfWpXbCFYVsdtRFg)
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
@@ -186,6 +188,7 @@
 + [Java开发，必知的七个性能优化方向！](https://mp.weixin.qq.com/s/Yun7qIiTo0_zqYspwzyfvQ)
 + [Java性能调优：实战技巧与最佳实践](https://mp.weixin.qq.com/s/oV1qL2zUGk4oKh3y8XCdWg)
 + [不到30行代码，有5层嵌套的if语句？避免陷入“if-else地狱”！](https://mp.weixin.qq.com/s/btWxJlUBHGSLTfugQVTkzw)
++ [Java循环：for、foreach与stream性能对比](https://mp.weixin.qq.com/s/ltRk2TMLhCon9qJ-eMfgEQ)
 
 # 底层
 
@@ -338,6 +341,7 @@
 + [面试官：你工作中做过 JVM 调优吗？怎么做的？](https://mp.weixin.qq.com/s/K4W6-BGTH2VG5cnaMMQ-8Q)
 + [类加载机制与类加载器](https://mp.weixin.qq.com/s/v-CnKRO0ezSxdocS0Ff2vQ)
 + [你知道Java中的JVM内存模型是怎样的？](https://mp.weixin.qq.com/s/K1UNtKSyi3jRIymaDMFN2g)
++ [Java直接内存和堆内存的关系](https://mp.weixin.qq.com/s/GG7V_KdM31hchlKaetpdFg)
 
 # 核心库
 
@@ -673,6 +677,7 @@
 + [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
 + [Spring AOP异步操作实现](https://mp.weixin.qq.com/s/QkZB0vHEG9eedI7QbOv32A)
 + [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
++ [如何获取Spring代理对象？](https://mp.weixin.qq.com/s/VhzAxZEhu2wlHyUdMx6Ugg)
 
 ### 配置打包部署
 
@@ -706,6 +711,7 @@
 + [认识 SpringCloud 核心组件](https://mp.weixin.qq.com/s/QXVmtayL9b6lSqAsiML8_w)
 + [Springcloud微服务合并，网关如何处理](https://mp.weixin.qq.com/s/uTbUqTtqJr-x-3TTGsozDQ)
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
++ [Spring Cloud 3.x 集成eureka快速入门Demo](https://mp.weixin.qq.com/s/s3GpVUo7uSZ-rZIqPhQdHw)
 
 #### AI
 
@@ -986,6 +992,7 @@
 + [SpringBoot实战：解决跨域的5中方案](https://mp.weixin.qq.com/s/c9mYDg0jYXlN_Gxa0RsReQ)
 + [SpringBoot实战：实现接口签名验证](https://mp.weixin.qq.com/s/uX3OPR_EmTo3MmofQn_1cg)
 + [Spring Boot如何解决跨域问题？](https://mp.weixin.qq.com/s/zaElaIhbC7xmzf8fLi-AAg)
++ [确保数据安全！使用 Spring Boot 3.3 实现强大的API输入验证](https://mp.weixin.qq.com/s/bnCtPq5gfh0PL_ASsHjNDw)
 + [基于Spring Boot给所有Controller接口添加统一前缀的5种方式](https://mp.weixin.qq.com/s/8YbwaP2D5-2Mv_svhKObGQ)
 + [弃用RestTemplate！RestClient真香](https://mp.weixin.qq.com/s/Fq3Tx6wR3TF6yjiy61An5Q)
 + [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
@@ -1079,6 +1086,9 @@
 + [Spring Boot 2来袭：探索HTTP接口的革命性升级](https://mp.weixin.qq.com/s/mqN8tTGfaEtqlSYDnxu1Vw)
 + [SpringBoot 控制层中，@Service 可以完全替代 @Controller 吗？](https://mp.weixin.qq.com/s/WMSfIGuMp0Iwge_fBOFROg)
 + [你了解 SpringBoot 在一次 http 请求中耗费了多少内存吗？](https://mp.weixin.qq.com/s/bOQN32AUvueNbedtVU2Cig)
++ [在SpringBoot中拦截修改请求Body的2种正确方式](https://mp.weixin.qq.com/s/eg6ByOiZtAzyGSdubX7RrQ)
++ [Jackson才是王！SpringBoot优雅的控制JSON数据](https://mp.weixin.qq.com/s/w-5Y_ZKjqV-D54olCGmq-g)
++ [SpringBoot使用@Validated优雅的处理校验](https://mp.weixin.qq.com/s/AOdQPV1y1JvQmw3zx4MCAg)
 
 ##### VUE
 
@@ -1376,6 +1386,7 @@
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/m5M3T0YJBMjxFZJUHAOlLA)
 + [Mybatis插件-租户ID的注入&拦截应用](https://mp.weixin.qq.com/s/HtKaQOs7_yoynNAa4UzhyA)
 + [MyBatis深度解析：高级查询与性能优化](https://mp.weixin.qq.com/s/qjQFxFY2E2FQSPV15XjT6w)
++ [Mybatis中if-test的一个问题及解决办法](https://mp.weixin.qq.com/s/PKp_rOnbr-RbEm-GOOWqlA)
 
 ### plus
 
@@ -1440,6 +1451,7 @@
 + [分布式锁工具Redisson，太香了！！](https://mp.weixin.qq.com/s/o0NpBgVAPEiwQefwisqFAw)
 + [分布式锁工具 Redisson，贼香！！](https://mp.weixin.qq.com/s/RaxP9HDssFItvtlArRSdQg)
 + [玩转Redis！非常强大的Redisson分布式集合，少写60%代码](https://mp.weixin.qq.com/s/rwMlS-ktAHrP3ShlOZPgkA)
++ [使用Redisson时，为何synchronized锁会失灵？](https://mp.weixin.qq.com/s/pcG-izAXi4sVWlDksoJK5w)
 
 ## rxjava
 
@@ -1498,6 +1510,10 @@
 + [你只会用 xxl-job？一款更强大、新一代分布式任务调度框架，很不错！](https://mp.weixin.qq.com/s/O3rwDkXyA8tEMUDCAPBiFQ)
 + [XXL-JOB内部机制大揭秘，任务飞起来！](https://mp.weixin.qq.com/s/MLXQXz93UQcZVpuye1H9eA)
 + [死磕xxl-job（二）](https://mp.weixin.qq.com/s/Dx6-8h4Md0DO4W4Gw9UVVg)
+
+## openFeign
+
++ [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
 
 ## 字节码相关
 
@@ -1563,6 +1579,7 @@
 + [午夜闲谈-Fastjson漏洞各版本POC比较](https://mp.weixin.qq.com/s/EPdNElXPcZd5wEmQqAhFiQ)
 + [为开发提速：Jersey，这个Java库值得一试](https://mp.weixin.qq.com/s/dUdD4htiwHMaIz4ZBBQN2g)
 + [真香！Forest让HTTP请求如此简单](https://mp.weixin.qq.com/s/JPZtNLr-PgdVbpQPhwol-g)
++ [编程高手的选择：SNMP4J (Simple Network Management Protocol)，一个高效的Java库](https://mp.weixin.qq.com/s/Ql7K2JEwfndHLNlmBhnsWA)
 
 # 其它环境
 

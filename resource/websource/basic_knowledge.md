@@ -76,6 +76,7 @@
 + [Linux高性能编程_nginx内存池](https://mp.weixin.qq.com/s/EfaX38B8Q6gveBc74KIXPg)
 + [从linux内核源码解析数据传输的整个过程（上）](https://mp.weixin.qq.com/s/FVNL3OP3cAvzVR4FBd-0zw)
 + [超详细的linux内核常用数据结构汇总](https://mp.weixin.qq.com/s/SIHNcXIPhBUydVUtKo86SA)
++ [Linux 内核中的调试技巧](https://mp.weixin.qq.com/s/gr01C5d9lArhNDjadPPaFw)
 
 ### 网络
 
@@ -106,6 +107,7 @@
 + [linux命令之man](https://mp.weixin.qq.com/s/kAnoOvG3_JhIsfreQZEyzg)
 + [Linux Shell编程十大核心](https://mp.weixin.qq.com/s/ihua3b2SvXJn9v5m7wPWiA)
 + [每天一个吹B小知识，让Vim再次伟大！Vim粘贴Python代码并保持格式缩进的技巧](https://mp.weixin.qq.com/s/Q0MHPoqEaRVAimsxtsIi_w)
++ [Linux_删除文件](https://mp.weixin.qq.com/s/gsMMPAgfVBx8UY718QD-Cw)
 
 ### 发行版信息
 
@@ -241,6 +243,7 @@
 + [为什么TCP需要三次握手？一文讲透！](https://mp.weixin.qq.com/s/YIK7N6plIaGdag9LSO3Irg)
 + [【网络协议】精讲TCP报文格式！图解超赞超详细！！！](https://mp.weixin.qq.com/s/7A_Nip1MxqzvhbZtUKIexg)
 + [必会知识：TCP 握手的夺命连环问！](https://mp.weixin.qq.com/s/akkSR2-SlIGLw0DjMgcSgA)
++ [面试题：什么时候会出现TCP粘包，如何解决TCP粘包](https://mp.weixin.qq.com/s/MkcRSffxkXHefBk2yXtN-A)
 
 ### UDP
 
@@ -293,6 +296,7 @@
 + [Nginx 生产环境下的安全配置](https://mp.weixin.qq.com/s/K1Ya97W_xoymhKidSqaXWw)
 + [Nginx入门教程：简介、安装配置、静态资源部署、使用Nginx静态代理发布3D Tiles数据并在Cesium中进行加载](https://mp.weixin.qq.com/s/ilPV3--vZloeZcGtwFuLQA)
 + [轻松玩转Nginx：简析配置文件与四大负载均衡技术](https://mp.weixin.qq.com/s/Jr_CTPa8glCj1c4oEdg5tw)
++ [基于Nginx反向代理和workflow异步回调框架实现简单登入转跳功能](https://mp.weixin.qq.com/s/t_fh8bqwWfejh7APPNy5IQ)
 
 ### wireshark
 

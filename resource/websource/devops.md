@@ -33,6 +33,7 @@
 + [还在用Jenkins？这套轻量级自动化部署方案贼带劲！](https://mp.weixin.qq.com/s/3leUgwdHNn_alzBItUiQzg)
 + [Jenkins+Docker 实现一键自动化部署项目！步骤很全，少走坑路！](https://mp.weixin.qq.com/s/fBOKFxbO8pc56Q-dy2IPsQ)
 + [锅总详解Jenkins应用](https://mp.weixin.qq.com/s/F_K0hp7ZFkfLIgCKcCFjkg)
++ [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/Gm8oKPDA5EkmL5wyVHKchQ)
 
 ## istio
 

@@ -36,6 +36,7 @@
 + [掌握async 和 await：现代 JavaScript 异步编程的艺术](https://mp.weixin.qq.com/s/gLFYvBYRhtOpBT8P3Hct9Q)
 + [这一新的 JavaScript 操作符绝对能改变游戏规则](https://mp.weixin.qq.com/s/AWqfaUAmdFCxpCV9591uTQ)
 + [Slice 还是 Splice? 熟悉JavaScript 2024 中的可变与不可变方法及其他](https://mp.weixin.qq.com/s/9ls-x-tKsJTwyaHJcgeBbA)
++ [一觉醒来，发现 try catch 要被淘汰了？](https://mp.weixin.qq.com/s/lDBWiadXChpmX4MV96ER8w)
 
 ### 底层
 
@@ -195,6 +196,7 @@
 + [有人测试了 JS 中所有循环的速度，来看看JS 中最快的循环是什么！](https://mp.weixin.qq.com/s/it1txxUTXeJpKM2RzL8Nyw)
 + [优化JavaScript性能：2024年的技巧和工具](https://mp.weixin.qq.com/s/WuiPbj15kG3QpKM4k-vPYg)
 + [一行代码理清 js 预编译（JS代码片段）](https://mp.weixin.qq.com/s/dbuEZDm7ntVh0jhqg7HcTA)
++ [JS高级-V8引擎的内存管理](https://mp.weixin.qq.com/s/P1UCLOEq_dg1YNdS3Acbow)
 
 # 杂谈
 

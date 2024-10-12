@@ -90,6 +90,10 @@
 + [Kubernetes集群的网络实现——跨主机容器的网络通信](https://mp.weixin.qq.com/s/b0wrZNCf7LmJOK3OwLFNTA)
 + [Kubernetes日志收集——轻量级日志收集系统EFK](https://mp.weixin.qq.com/s/Tl_2n4w2ZMAHmOC30mlXBA)
 + [Kubernetes 配置Pod使用代理上网](https://mp.weixin.qq.com/s/OAn7e51xJBjBN9j7Jf781A)
++ [高可用性大考验：你的 Kubernetes 应用真的高可用吗？](https://mp.weixin.qq.com/s/SQeOFbtW5ldT8rvnqzr4EA)
++ [在 k8s 中搭建 EFK 日志系统：实现高效日志管理与分析](https://mp.weixin.qq.com/s/byB9F9T7lCAEe9sqKEp_8w)
++ [Kubernetes日志管理——通过 log-flags 精准控制日志输出与调试信息](https://mp.weixin.qq.com/s/viqF8T45MA9-pnEcet_8sA)
++ [Kubernetes 妙法奇技：优雅驾驭容器编排之旅](https://mp.weixin.qq.com/s/tf3VhkLjJWP_OeyNnoEy-w)
 
 ## Prometheus
 

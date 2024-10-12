@@ -56,6 +56,7 @@
 + [早知道就好了！关于Python魔法方法的清单](https://mp.weixin.qq.com/s/_simM8yANXfRedwAi0udEQ)
 + [Python编写函数的基本原则和技巧](https://mp.weixin.qq.com/s/0K0inpyT7wgacUo59ZzzwQ)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
++ [40个Python函数，让你快速成为编程大师！](https://mp.weixin.qq.com/s/Kf_ZKbNqjU53xhdqfhk8Pw)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
 + [Python中集合函数Set的使用详解](https://mp.weixin.qq.com/s/UNu-6lRjfQNm7JFCOgZnPA)
 + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
@@ -143,6 +144,7 @@
 
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [实现Python批量文件操作的5种方式](https://mp.weixin.qq.com/s/lR0MOXr0bNJtxHbEnZT6uQ)
@@ -174,6 +176,7 @@
 + [Python与操作系统的10个高级交互指令](https://mp.weixin.qq.com/s/QniEKU7WUdDN12hgO6kw6g)
 + [20 个 Python 正则表达式应用与技巧](https://my.oschina.net/u/4526289/blog/11051981)
 + [Python正则表达式常用的20种操作](https://mp.weixin.qq.com/s/l4-C-0PhCNxaI2jQqbYUzw)
++ [Python数据库操作的11个关键技能](https://mp.weixin.qq.com/s/9g4P9b7wGmMG9Lh8U-ghbw)
 + [Python数据库交互的10个常见模式](https://mp.weixin.qq.com/s/OH7cD8M5YrP1NNOjxgerag)
 + [Python获取网络时间和本地时间](https://mp.weixin.qq.com/s/vYK3n5c4a2dtxb-r-BixWg)
 + [python-dotenv 进阶：解锁更多环境变量管理技巧！](https://mp.weixin.qq.com/s/5e5zE07EQRxSlJmi9lfz_A)
@@ -552,6 +555,7 @@
 + [1、性能测试工具Locust——环境搭建](https://mp.weixin.qq.com/s/wOn4MwmUDi7nNzTloAFR_g)
 + [Baostock，一个超级强大的Python工具](https://mp.weixin.qq.com/s/rd9vdeDJVmJ1K8FoXTuHTA)
 + [cytoolz，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/moigl-0P-wvm1uYtFscb2g)
++ [最强Python安全守护者：`bandit`带你玩转代码静态分析](https://mp.weixin.qq.com/s/b-VLFHr97q0E7xD9yCLtlQ)
 
 ## 框架
 

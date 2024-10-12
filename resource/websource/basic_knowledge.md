@@ -108,6 +108,7 @@
 + [Linux Shell编程十大核心](https://mp.weixin.qq.com/s/ihua3b2SvXJn9v5m7wPWiA)
 + [每天一个吹B小知识，让Vim再次伟大！Vim粘贴Python代码并保持格式缩进的技巧](https://mp.weixin.qq.com/s/Q0MHPoqEaRVAimsxtsIi_w)
 + [Linux_删除文件](https://mp.weixin.qq.com/s/gsMMPAgfVBx8UY718QD-Cw)
++ [Linux_查找文件](https://mp.weixin.qq.com/s/e5Cn72F7cAuCa1vhSvCM9w)
 
 ### 发行版信息
 

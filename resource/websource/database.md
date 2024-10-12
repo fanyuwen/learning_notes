@@ -244,6 +244,7 @@
 + [MySQL MVCC 原理](https://mp.weixin.qq.com/s/PJTJKHkI4ABdNU5bEHdsZQ)
 + [贝壳面试：什么是回表？什么是 索引下推 ？](https://mp.weixin.qq.com/s/YRWw15k5zvSlaESzXh1MtQ)
 + [如何使用SSH修复MySQL表？](https://mp.weixin.qq.com/s/uyC2d2nHbTnkPgmFLrDulg)
++ [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
 
 #### 存储引擎
 

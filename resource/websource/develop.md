@@ -420,6 +420,7 @@
 + [聊聊支付流程的设计与实现逻辑](https://mp.weixin.qq.com/s/-qXfw9HWP7PLNfQGwQxysQ)
 + [一款免费开源的支付系统](https://mp.weixin.qq.com/s/Bmmtlzw2ziX-XSIFmQtgrg)
 + [顶级的 权限系统，改如何设计？ Sa-Token学习圣经：史上最全的权限设计方案，一文帮你成专家](https://mp.weixin.qq.com/s/l_k-tX-3JEQfvsy0xMukUw)
++ [浅谈高并发评论系统设计-应付下面试](https://mp.weixin.qq.com/s/2ZxgdLs2C0E-duyYXnl0Lw)
 
 ## 代码相关
 
@@ -529,6 +530,7 @@
 + [大厂都在用的Git代码管理规范](https://mp.weixin.qq.com/s/Th6yZEVzVGoGMvg3BJBKjQ)
 + [掌握 Git 分支策略：提升你的版本控制技能](https://mp.weixin.qq.com/s/rO7v8TJIY1rmRqGgZA_pbQ)
 + [Git换行符控制参数的使用](https://mp.weixin.qq.com/s/2s6X_JAdTvEOdWt3DrNwQA)
++ [让 Git Commit Message 更有料的技巧](https://mp.weixin.qq.com/s/MrKnX6xj-JpgjQauDBXtEw)
 
 ### 编程范式
 

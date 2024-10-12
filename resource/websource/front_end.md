@@ -98,6 +98,7 @@
 + [这 8 个常见的前端开源库，你一定要知道！](https://mp.weixin.qq.com/s/3mE3iZh51_iU2XQ5loaOkw)
 + [全网最详Babylon.js入门教材-第一个3D场景](https://mp.weixin.qq.com/s/ELZxc3Utgfte8CdeelyL8Q)
 + [您可能一直在寻找的 10 个非常有用的前端库](https://mp.weixin.qq.com/s/9GEVbRdd7ntZkqbyzHSHBg)
++ [前端性能优化之web worker](https://mp.weixin.qq.com/s/93qOQy01PPwJ4alNLQg_lg)
 
 # 框架
 

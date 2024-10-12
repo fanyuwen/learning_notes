@@ -1,6 +1,7 @@
 # elasticsearch
 
 + [Elasticsearch 入门实践 - 使用场景](https://mp.weixin.qq.com/s/IaLThVfwgVVqRKQi4C-8HA)
++ [Elasticsearch 入门实践 - 概念梳理](https://mp.weixin.qq.com/s/FjUG7hQg-x9mX2UwcSX-dQ)
 + [浅谈Elasticsearch的入门与实践](https://mp.weixin.qq.com/s/wlh2AHpNLrz9dHxPw9UrkQ)
 + [6 幅图，通透理解 Elasticsearch 的六大顶级核心应用场景](https://mp.weixin.qq.com/s/cZw1ltk2Ar5UPeX1pJfhgA)
 + [ES学习圣经：从0到1, 精通 ElasticSearch 工业级使用](https://mp.weixin.qq.com/s/--PYF5HI1DcntXjMDukg_g)

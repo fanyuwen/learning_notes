@@ -17,6 +17,7 @@
 + [全方位对比Zookeeper、Eureka、Nacos、Consul和Etcd](https://mp.weixin.qq.com/s/K7vNMlq65nr8BdIPNMKCrA)
 + [Zookeeper集群搭建详细教程](https://mp.weixin.qq.com/s/vg8R1YKwAh8k6ZSu3YVqEA)
 + [说说你对Zookeeper的理解？Zookeeper和Redis哪种实现分布式锁更好？](https://mp.weixin.qq.com/s/WWenfNxuqRu1xYYkHrhAoA)
++ [基于 ZooKeeper 实现分布式锁](https://mp.weixin.qq.com/s/uBM6QYayaWz2GwjFsnxPkA)
 
 # Thrift
 

@@ -9,6 +9,7 @@
 
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
++ [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [Python数据类型转换实战：从基础到高级](https://mp.weixin.qq.com/s/56xV3-yq1b5XbvNIMTz3-w)
@@ -311,6 +312,10 @@
 + [Python轻松调用JS接口的实用技巧](https://mp.weixin.qq.com/s/paGxVFP8cdOV-TIk5kKWsg)
 + [【学习研究】Conda虚拟环境与Jupyter配置](https://mp.weixin.qq.com/s/zjNQJ7U-WgwMIVZ8-7Nduw)
 + [Python金融数据分析：10个金融数据挖掘的技巧](https://mp.weixin.qq.com/s/KxARCdltbmXcs-H1uolooQ)
+
+## 新特性
+
++ [Python3.13rc2 自由线程性能实验](https://mp.weixin.qq.com/s/R-jU96Fa5fha8B10cvoUZg)
 
 ## 第三方库
 

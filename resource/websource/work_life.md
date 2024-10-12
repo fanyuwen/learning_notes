@@ -34,6 +34,7 @@
 + [年薪75万字节员工爆料：985、211大学生，只需把工作往他头上压，教育体系规训出来的绩优主义自然会推着他投入自己的时间把事干好](https://mp.weixin.qq.com/s/uYSlc0Oe4lBwC4v0EbpaSg)
 + [唐豆的 10 年工作心得](https://my.oschina.net/tangdu/blog/15743251)
 + [个人独立开发者如何找到可盈利创业想法？](https://mp.weixin.qq.com/s/lqp6d6M8bmy-221Cd2qGow)
++ [5个信号说明你该辞职了](https://mp.weixin.qq.com/s/yvYceVVZV4HeDdRI3KsXhA)
 
 # 个人成长
 

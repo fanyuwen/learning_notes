@@ -580,6 +580,7 @@
 + [厕所二面：过滤器和拦截器有什么区别？](https://mp.weixin.qq.com/s/DmnNxmNUnUag_SzepPOjEQ)
 + [这是我见过写得最烂的Controller层代码，没有之一！](https://mp.weixin.qq.com/s/OgWIwtEq1rfDudivopEfQw)
 + [Java Spring Validation：自动与手动校验](https://mp.weixin.qq.com/s/SvXh4KyEQrax00za5Le6mg)
++ [Controller层代码这么写，同事们都模仿起来了](https://mp.weixin.qq.com/s/DhL-DYj6UgEEy-qUHAUE2w)
 
 ### concurrent
 
@@ -732,6 +733,7 @@
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
++ [在Spring Boot中具有多个实现的接口正确注入的6种方式](https://mp.weixin.qq.com/s/Ym1AtOqPYFvRAFj2UesFzw)
 + [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
@@ -1175,6 +1177,7 @@
 + [在SpringBoot项目中使用CompletableFuture优化并发REST调用的正确姿势](https://mp.weixin.qq.com/s/Vgtl0eCq2_iZplrtEqXDvg)
 + [虚拟线程在Spring Boot中的应用及性能对比](https://mp.weixin.qq.com/s/o88MCVp7D1fk2VtzEnRqqQ)
 + [确保Spring Boot定时任务只执行一次方案](https://mp.weixin.qq.com/s/fj7k_16lFb1RmOL7JXrrOA)
++ [基于Spring Boot的定时任务调度与管理](https://mp.weixin.qq.com/s/z8sBFoWa07Mb6Zuv7Byd1g)
 + [不会用 SpringBoot 做分布式任务调度？这篇攻略让你轻松上手！](https://mp.weixin.qq.com/s/Vr0O7ALjKj3lq2hRZhN2mw)
 
 ##### Disruptor
@@ -1559,6 +1562,7 @@
 + [午夜闲谈-Fastjson漏洞版本判断与漏洞利用](https://mp.weixin.qq.com/s/ukYgUYceZD3ASQ2JKa08Hw)
 + [午夜闲谈-Fastjson漏洞各版本POC比较](https://mp.weixin.qq.com/s/EPdNElXPcZd5wEmQqAhFiQ)
 + [为开发提速：Jersey，这个Java库值得一试](https://mp.weixin.qq.com/s/dUdD4htiwHMaIz4ZBBQN2g)
++ [真香！Forest让HTTP请求如此简单](https://mp.weixin.qq.com/s/JPZtNLr-PgdVbpQPhwol-g)
 
 # 其它环境
 

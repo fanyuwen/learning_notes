@@ -358,6 +358,7 @@
 + [PyDy，一个牛逼的python库](https://mp.weixin.qq.com/s/V7E8gX4XL_SsfZe59EWqNw)
 + [Coconut，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/ZlryoCNipC4tO5ZVQ3aOTQ)
 + [pipx，一个牛逼的python库](https://mp.weixin.qq.com/s/jANFUNrFMkMb4DcVRQEEwA)
++ [schematics ，一个牛逼的python库](https://mp.weixin.qq.com/s/u0aDZOhpjOMKIr8dzWZUxQ)
 + [Monolog，一个最强大的Python库](https://mp.weixin.qq.com/s/vUxnJQUtbTIdPXtciWGJTg)
 + [mypy，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/bWQs3EnfcCLMS5584xJ2Ow)
 + [itchat，一个牛逼的python库](https://mp.weixin.qq.com/s/q2ebcmm8Kt0XjIB04rqcqQ)

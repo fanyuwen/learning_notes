@@ -12,6 +12,7 @@
 + [如何优雅的将设计模式运用到实际项目中去?](https://mp.weixin.qq.com/s/r3YSJD_myD_t_bvSe4Fhaw)
 + [一文读懂10种最经典的设计模式](https://mp.weixin.qq.com/s/Vo8IKRZ3RTHclI21x28bSw)
 + [github小众神项目，给人学的23个设计模式（不知道就亏大了）](https://mp.weixin.qq.com/s/snNCGvQKEiLEskiIIxqWIw)
++ [搞懂策略模式和模板方法模式](https://mp.weixin.qq.com/s/8P_-KFSJvNtnkNSTx3DgAQ)
 
 # 原则
 
@@ -26,6 +27,7 @@
 
 + [项目中常用到的设计模式之单例模式详解](https://mp.weixin.qq.com/s/yfYZwIJc7RqLExO01ZOu0Q)
 + [【设计模式】单例模式](https://mp.weixin.qq.com/s/T2p8qRdAqCNUXLp1qMei3Q)
++ [如果让你写单例，你通常会采用哪种实现？](https://mp.weixin.qq.com/s/p0BzayosHo9-khp9a7eKPQ)
 
 # 工厂模式
 

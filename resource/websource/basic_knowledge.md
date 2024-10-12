@@ -5,6 +5,7 @@
 + [进程之间的通信方式有哪些？我被问倒了！](https://mp.weixin.qq.com/s/jG7B8FVUI_H912z0VE8Nbg)
 + [内存是怎样一步步被分配出来的？](https://mp.weixin.qq.com/s/QmFbNAwO6dKo32o9hj6J5A)
 + [操作系统是怎么一步步启动起来的？](https://mp.weixin.qq.com/s/JGMK1WVn364lEXmmRM_I9w)
++ [再说分布式操作系统](https://mp.weixin.qq.com/s/kF5trV7dr2cYfsh7Z8I7Dg)
 
 ## 文件系统
 
@@ -74,6 +75,7 @@
 + [探索linux高效异步io：io_uring的实现原理与案例分析](https://mp.weixin.qq.com/s/ou8PHhDc3LZ9VII211yRUQ)
 + [Linux高性能编程_nginx内存池](https://mp.weixin.qq.com/s/EfaX38B8Q6gveBc74KIXPg)
 + [从linux内核源码解析数据传输的整个过程（上）](https://mp.weixin.qq.com/s/FVNL3OP3cAvzVR4FBd-0zw)
++ [超详细的linux内核常用数据结构汇总](https://mp.weixin.qq.com/s/SIHNcXIPhBUydVUtKo86SA)
 
 ### 网络
 
@@ -132,6 +134,7 @@
 + [如何动手做出一个 CPU ？](https://my.oschina.net/u/4899581/blog/5242015)
 + [程序是怎么一步步变成机器指令的？](https://mp.weixin.qq.com/s/lDbLLp3Frhk9qYHG83bcuw)
 + [cpu cache是什么？](https://mp.weixin.qq.com/s/LDpIul7vrt8StBuv7jwYjg)
++ [CPU超频：你会为它买单吗？](https://mp.weixin.qq.com/s/zVSZfYgL8eTwfh5Z0e6Ovg)
 
 ### 并发
 
@@ -207,6 +210,8 @@
 + [XSS 基本概念和原理介绍](https://mp.weixin.qq.com/s/xLu3C1cnfXY743oeY1UeJw)
 + [全面透视HTTPS：深入剖析其安全机制与回顾](https://mp.weixin.qq.com/s/f0QtNaPz-ndGQ40q0FUFEQ)
 + [从HTTP到HTTPS：构建更安全的网络连接](https://mp.weixin.qq.com/s/NI5jXIJUp7h6HaQpBR5wkQ)
++ [大话HTTPS协议，理解SSL、TLS和HTTP的关系](https://mp.weixin.qq.com/s/8Z7zD9i_sgIsYDkkq05MJA)
++ [理解HTTP/2，了解这几个关键特性就能明白了](https://mp.weixin.qq.com/s/5_m_FcrjUJLxpMovEQxStg)
 
 #### CORS
 

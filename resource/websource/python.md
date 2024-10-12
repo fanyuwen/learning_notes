@@ -162,6 +162,7 @@
 + [Python日期时间处理的10个常见任务](https://mp.weixin.qq.com/s/a3XIyxEGT7cFmAnfQQ7Glw)
 + [不走弯路！编写Python代码的8个绝佳习惯](https://mp.weixin.qq.com/s/xkofutC2hNAhpzYfBSTAxA)
 + [Python高手不可不知的12个文件处理窍门](https://mp.weixin.qq.com/s/QapseKG9Mt_kiFJmRborpQ)
++ [深入理解Python操作系统的14个API](https://mp.weixin.qq.com/s/4NjxdxT2qoinETT_X-TP-w)
 + [如何用Python构建双进程自我保护机制？](https://mp.weixin.qq.com/s/dvwU3Ws-iBhBthv4R0oPtw)
 + [如何使用Python高效创建文件备份工具？](https://mp.weixin.qq.com/s/Hnqo60p_BfYlnrrGMlexhg)
 + [Python测试驱动开发的14个实战案例](https://mp.weixin.qq.com/s/SgtvfOj_SnBj03ha7wT8sA)
@@ -305,6 +306,8 @@
 + [使用Python破解验证码：从基础到实践](https://mp.weixin.qq.com/s/P3O5jraRlPksE7A2GMy4mw)
 + [Python GUI开发必看：Frame组件详解](https://mp.weixin.qq.com/s/zdJnF-jWRC4sSkC5ApRBHA)
 + [Python轻松调用JS接口的实用技巧](https://mp.weixin.qq.com/s/paGxVFP8cdOV-TIk5kKWsg)
++ [【学习研究】Conda虚拟环境与Jupyter配置](https://mp.weixin.qq.com/s/zjNQJ7U-WgwMIVZ8-7Nduw)
++ [Python金融数据分析：10个金融数据挖掘的技巧](https://mp.weixin.qq.com/s/KxARCdltbmXcs-H1uolooQ)
 
 ## 第三方库
 
@@ -336,6 +339,7 @@
 + [pkgLavanya，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/nNh6z0dLKqOIA0jRqQkzVw)
 + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
 + [Python初探：modelbox库的入门到实践](https://mp.weixin.qq.com/s/TRknx6spsz877aXcLQI6Qg)
++ [Bokeh，一个交互式可视化的 Python 库！](https://mp.weixin.qq.com/s/REaXh6aGzjYIvxY40CDAgA)
 + [progshot：一个Python中非常有用的库](https://mp.weixin.qq.com/s/jqOYuByuBexJDut-F4rayg)
 + [pdfminer ，一个最最强大的Python库，解锁pdf无限可能](https://mp.weixin.qq.com/s/A1eHEw3slSyvPELxFs0Olw)
 + [PyQt ，一个最最强大的Python库](https://mp.weixin.qq.com/s/n3TtOZHASZyp51bztg31_A)

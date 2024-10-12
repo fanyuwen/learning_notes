@@ -24,6 +24,7 @@
 + [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
 + [Java 枚举实战案例，让你告别繁琐的常量管理！](https://mp.weixin.qq.com/s/KI63wEPcqWTRuNwM897e3A)
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
++ [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
 
 ## 新语言特性
 
@@ -136,6 +137,7 @@
 + [并发处理的利器：深入探讨锁分离设计案例（高并发篇）](https://mp.weixin.qq.com/s/WZkcT4sroe9f3ebGzABSHg)
 + [java如何不让方法调用者处理受检异常？](https://mp.weixin.qq.com/s/k-D7OLDxPB-9HwNNidfcKg)
 + [利用反射实现动态代理](https://mp.weixin.qq.com/s/cQe-43xlV5GCiru-aru1eg)
++ [Java日期时间字段JSON序列化为时间戳，原来这么简单？](https://mp.weixin.qq.com/s/90kHfIba01uWdaLnaOH1Fg)
 
 ## 代码质量
 
@@ -183,6 +185,7 @@
 + [必备！提升 java 代码整洁度的10大实用技巧，快速优化代码质量](https://mp.weixin.qq.com/s/wcPNPy1lO1IEYG1e9EFowg)
 + [Java开发，必知的七个性能优化方向！](https://mp.weixin.qq.com/s/Yun7qIiTo0_zqYspwzyfvQ)
 + [Java性能调优：实战技巧与最佳实践](https://mp.weixin.qq.com/s/oV1qL2zUGk4oKh3y8XCdWg)
++ [不到30行代码，有5层嵌套的if语句？避免陷入“if-else地狱”！](https://mp.weixin.qq.com/s/btWxJlUBHGSLTfugQVTkzw)
 
 # 底层
 
@@ -334,6 +337,7 @@
 + [JVM如何基于虚拟机栈创建对象?](https://mp.weixin.qq.com/s/YtmU5FVyEkRFvSxGA43kdw)
 + [面试官：你工作中做过 JVM 调优吗？怎么做的？](https://mp.weixin.qq.com/s/K4W6-BGTH2VG5cnaMMQ-8Q)
 + [类加载机制与类加载器](https://mp.weixin.qq.com/s/v-CnKRO0ezSxdocS0Ff2vQ)
++ [你知道Java中的JVM内存模型是怎样的？](https://mp.weixin.qq.com/s/K1UNtKSyi3jRIymaDMFN2g)
 
 # 核心库
 
@@ -393,6 +397,7 @@
 + [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
 + [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
 + [ReentrantLock最全详解(实现原理及使用场景)](https://mp.weixin.qq.com/s/8YaNN2nCdFCjUTJBKOByNw)
++ [ReentrantLock在线程池中应用背后的那些事（四）](https://mp.weixin.qq.com/s/1F_8fqcAmKCmPbsCuR43Cg)
 + [java多线程（七）AQS（AbstractQueuedSynchronizer）技术解析：以赛跑起跑场景为例](https://mp.weixin.qq.com/s/LX3Dt4BQ_djEir64uQyh-A)
 + [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
 + [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
@@ -716,6 +721,7 @@
 + [SpringBoot 3.3 接口防抖的一些实现方案，超赞！](https://mp.weixin.qq.com/s/2eM0H7wvm6Mw852W7CpHcw)
 + [Spring Boot 3.3 五种异步处理提升系统吞吐量的策略与实践，彻底爱了！](https://mp.weixin.qq.com/s/mZAnOveHZ14dNasBLzXrdw)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
++ [强大！Spring Boot 3.3 构建通用库，彻底告别重复代码！](https://mp.weixin.qq.com/s/ulJGbyKhwfOqJ-UPWV2caw)
 + [惊喜发现！Spring Boot 3.3 的隐藏宝藏功能，不容错过！](https://mp.weixin.qq.com/s/K9JHq_bqDJIb8ebMhxtxkg)
 + [真香！Spring Boot 3.3 搭配 STOMP，轻松实现数据实时通信](https://mp.weixin.qq.com/s/0nijw-FuSswejElqGZsmsA)
 + [优雅至极！Spring Boot 3.3 中 ObjectMapper 的最佳实践！](https://mp.weixin.qq.com/s/yMZm6xPN_ie9cV6BBpaJ4w)
@@ -955,6 +961,7 @@
 #### WEB
 
 + [超赞！Spring Boot 3.3 自带 Controller 接口监控，大家赶紧用起来](https://mp.weixin.qq.com/s/B5VzAPXIENDB-UK_OK2BjQ)
++ [SpringBoot 3 新HTTP客户端工具让代码简洁又优雅，不用再用 HttpUtil](https://mp.weixin.qq.com/s/hPsnUoWSxaK88y8dvIbDkA)
 + [Spring Boot REST API版本控制的方案及选择](https://mp.weixin.qq.com/s/hC9rWG0o10ZtsyawfvWvAw)
 + [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
 + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
@@ -1069,6 +1076,7 @@
 + [Spring Boot 调用外部接口的多种实现方式](https://mp.weixin.qq.com/s/RhNTV3MT_kMkKIe1se5BRQ)
 + [Spring Boot 2来袭：探索HTTP接口的革命性升级](https://mp.weixin.qq.com/s/mqN8tTGfaEtqlSYDnxu1Vw)
 + [SpringBoot 控制层中，@Service 可以完全替代 @Controller 吗？](https://mp.weixin.qq.com/s/WMSfIGuMp0Iwge_fBOFROg)
++ [你了解 SpringBoot 在一次 http 请求中耗费了多少内存吗？](https://mp.weixin.qq.com/s/bOQN32AUvueNbedtVU2Cig)
 
 ##### VUE
 

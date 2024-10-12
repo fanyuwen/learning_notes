@@ -52,6 +52,7 @@
 + [今天让你对 Docker 的了解多一点点 | 你管这破玩意叫云原生](https://mp.weixin.qq.com/s/RvEeOIYC75GJPHw0QhOfDw)
 + [Docker镜像文件太大？不妨试试多阶段构建](https://mp.weixin.qq.com/s/CZprDzBJHImr9yn276SMkw)
 + [如何减少docker镜像的体积](https://mp.weixin.qq.com/s/4NQHwaf8LWYC6J01PvQerg)
++ [Docker中的两个容器在服务器内网中互通](https://mp.weixin.qq.com/s/k1ULXDeJV38jJ72faSqTqQ)
 
 ## podman
 

@@ -105,6 +105,7 @@
 + [微服务重构：Mysql+DTS+Kafka+ElasticSearch解决跨表检索难题](https://mp.weixin.qq.com/s/izd_EOP9Wf-TUnG21NXUdA)
 + [【入门笔记】微服务设计模式 - Saga](https://mp.weixin.qq.com/s/bUwVvpPhdCKpNgRMW5wFTg)
 + [您需要模块，而不是微服务](https://mp.weixin.qq.com/s/D1acPeRv8QBmC-i-ww6G1g)
++ [微服务注册中心选择AP还是CP？](https://mp.weixin.qq.com/s/08Te83s_-BaN0q_rhrl8tw)
 
 # 分布式
 

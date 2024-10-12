@@ -345,6 +345,7 @@
 + [基于Patroni+etcd+流复制搭建构建PostgreSQL高可用](https://mp.weixin.qq.com/s/xqIAODnWc7OYMDRSKSmPrQ)
 + [PSQL需要专门去学吗？](https://mp.weixin.qq.com/s/CFJKVLT6NJ_GogrrRfLgfg)
 + [聊聊PostgreSQL数据库的高可用架构](https://mp.weixin.qq.com/s/mSMlfnu870LBvq2lmlITDw)
++ [关于 PostgreSQL 中 Linux 内存超分配知识要点](https://mp.weixin.qq.com/s/c4f6Nd0iCKMSMvBjTqDotA)
 
 ### SQLSERVER
 

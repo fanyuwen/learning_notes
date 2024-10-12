@@ -124,6 +124,7 @@
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 + [动手从零写C库-内存管理之mmap](https://mp.weixin.qq.com/s/Ynw-LvgNwZsOnnXuJo4CZw)
++ [gcc __attribute__((const))解析](https://mp.weixin.qq.com/s/OfE3KlgKRpihB-w6Rbq1AQ)
 + [malloc 背后的虚拟内存 和 malloc实现原理](https://mp.weixin.qq.com/s/kJq03LoTLb7Uit1c6Z_VzQ)
 + [Linux C语言 指向函数的指针](https://mp.weixin.qq.com/s/CL8-OiOTebsyaAYmGPB6FA)
 + [Github上热门 C 语言项目汇总！](https://mp.weixin.qq.com/s/a9PvRgriDJ_E17hvX82EVQ)

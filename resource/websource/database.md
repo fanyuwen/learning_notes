@@ -49,6 +49,7 @@
 + [数据库性能调优——慢查询](https://mp.weixin.qq.com/s/iYET8mnjbc3pUDFGyU_sbQ)
 + [手把手教你学会sql注入](https://mp.weixin.qq.com/s/-BiQTjUQDUq1yI92TvKRzg)
 + [一个用SQL写的俄罗斯方块游戏](https://mp.weixin.qq.com/s/u9bPjT_St_R6pa-_CaV3gg)
++ [千万级数据的全表update的正确姿势](https://mp.weixin.qq.com/s/4Qn-eFL3vopFtQ1GA-FipQ)
 
 # 本地数据库
 
@@ -490,6 +491,7 @@
 + [【经典面试问题】redis为什么用单线程？](https://mp.weixin.qq.com/s/VLyQjVdJLmPmRkZS0VZ90g)
 + [Redis为什么这么快？](https://mp.weixin.qq.com/s/QMN5oCVO_7SHD7CnXWbpwA)
 + [Redis为何如此之快？揭秘高性能背后的秘密！](https://mp.weixin.qq.com/s/-B2mzKsy6EgriQhB4uwOSg)
++ [字节一面拷打：Redis 为什么用跳表实现有序集合？](https://mp.weixin.qq.com/s/Q2paB_XcMlmG8TSdSgql8w)
 
 #### 分布式锁
 

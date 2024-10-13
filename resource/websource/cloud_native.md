@@ -94,6 +94,7 @@
 + [在 k8s 中搭建 EFK 日志系统：实现高效日志管理与分析](https://mp.weixin.qq.com/s/byB9F9T7lCAEe9sqKEp_8w)
 + [Kubernetes日志管理——通过 log-flags 精准控制日志输出与调试信息](https://mp.weixin.qq.com/s/viqF8T45MA9-pnEcet_8sA)
 + [Kubernetes 妙法奇技：优雅驾驭容器编排之旅](https://mp.weixin.qq.com/s/tf3VhkLjJWP_OeyNnoEy-w)
++ [K8S Helm 详解：高效的应用管理神器](https://mp.weixin.qq.com/s/7kf-H9CpkYBEg3c3mtA8wA)
 
 ## Prometheus
 

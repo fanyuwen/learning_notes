@@ -7,6 +7,7 @@
 + [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
 + [简单学习大佬常用命令之gdb命令](https://mp.weixin.qq.com/s/MWQQSZM8JTITqgMsrBPDcQ)
 + [内存泄漏无处藏身 | GCC -fsanitize=leak 实战攻略](https://mp.weixin.qq.com/s/4HvmIgqFHzb_QRf7_eV87Q)
++ [让内存错误无所遁形 | GCC -fsanitize=address 实战解析](https://mp.weixin.qq.com/s/8fg_xA5ZzixyjFbZvdjvBw)
 
 ## C++
 
@@ -108,6 +109,7 @@
 ## C
 
 + [（2.1.0）C语言编程入门 -- 开发环境搭建 -- VSCode + MinGW（2）](https://mp.weixin.qq.com/s/YptY0YY-_17elC8MavykBQ)
++ [（2.4）C语言编程入门 -- C 基础语法](https://mp.weixin.qq.com/s/EZDssKfpIYeONqVbNhDgSw)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
@@ -124,7 +126,9 @@
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 + [动手从零写C库-内存管理之mmap](https://mp.weixin.qq.com/s/Ynw-LvgNwZsOnnXuJo4CZw)
++ [C语言编程，我想用指针实现整数互换为啥歇菜了？](https://mp.weixin.qq.com/s/WHawUfhByH7RQ67iY9rX6w)
 + [gcc __attribute__((const))解析](https://mp.weixin.qq.com/s/OfE3KlgKRpihB-w6Rbq1AQ)
++ [基于Linker Script与__attribute__((section))实现 C 语言函数调用实战](https://mp.weixin.qq.com/s/v6MB93469fHaWaQs1ctsVQ)
 + [malloc 背后的虚拟内存 和 malloc实现原理](https://mp.weixin.qq.com/s/kJq03LoTLb7Uit1c6Z_VzQ)
 + [Linux C语言 指向函数的指针](https://mp.weixin.qq.com/s/CL8-OiOTebsyaAYmGPB6FA)
 + [Github上热门 C 语言项目汇总！](https://mp.weixin.qq.com/s/a9PvRgriDJ_E17hvX82EVQ)

@@ -13,6 +13,7 @@
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [Python数据类型转换实战：从基础到高级](https://mp.weixin.qq.com/s/56xV3-yq1b5XbvNIMTz3-w)
++ [Python一文识——数据类型与运算](https://mp.weixin.qq.com/s/fRCRd_xWDtRQQOgaIseL1g)
 + [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
 + [19个python关键语法,值得收藏](https://mp.weixin.qq.com/s/vuq3iczQdNjdgItFcOK3ug)
 + [Python输出变量知识点及用法讲解](https://mp.weixin.qq.com/s/0DS8I8iwu9FCRWCYLTlSbw)
@@ -151,15 +152,21 @@
 + [实现Python批量文件操作的5种方式](https://mp.weixin.qq.com/s/lR0MOXr0bNJtxHbEnZT6uQ)
 + [手把手教你做自己的Python装饰器，提升代码复用能力](https://mp.weixin.qq.com/s/bMZ_ka5e4DOVt7xvRybIZQ)
 + [你知道 Python 其实自带了小型数据库吗？](https://mp.weixin.qq.com/s/xsfwDxgF9EVTQftqkCX-QA)
++ [提升工作效率的20个Python自动化脚本](https://mp.weixin.qq.com/s/J6YwL7aEE6Jmpjlx2YwnTA)
 + [使用Python进行文件管理的4个聪明方法](https://mp.weixin.qq.com/s/VVeFgYwHpoqfAUfNq-OPJw)
 + [正则表达式中的贪婪匹配与非贪婪匹配](https://mp.weixin.qq.com/s/CQEIVptI72QPmfVvo5WiYA)
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
++ [成为大神的这10个Python性能调优的小技巧,你会几个?](https://mp.weixin.qq.com/s/qsbJwpSrfd8H4sRxPKwHTg)
++ [Python文件操作及与数据库的交互](https://mp.weixin.qq.com/s/Qpxvuw2kjjaYuGWpqs3TWQ)
++ [Python：使用slugify生成URL友好的字符串](https://mp.weixin.qq.com/s/xjSli9humjm-HnUfVKPd9Q)
++ [一文带您了解Python中最难理解的7个概念](https://mp.weixin.qq.com/s/8iajkbBkBu7_LKnNO2SAyQ)
 + [Python中创建和使用模块的10个窍门](https://mp.weixin.qq.com/s/VoC6n7tUELTu6P1XohkTRQ)
 + [使用Python进行图像处理的11个基本操作](https://mp.weixin.qq.com/s/GBrnb2I89RykYJ24GJwcbg)
 + [用Python正则表达式处理复杂文本](https://mp.weixin.qq.com/s/ZrxHJovzp0-rtdNYkSAShw)
 + [Python中10个让你代码更安全的网络请求处理技巧](https://mp.weixin.qq.com/s/8XtENfXCbkqLRs43ngLJEQ)
 + [Python让数据处理更简单的9个代码片段](https://mp.weixin.qq.com/s/Nf_Yl1oJxwyyCF9MTW7ohA)
 + [可以切分任何文档的50行正则（Python实现）](https://mp.weixin.qq.com/s/W627qunO0nHHjUe0BGpk_Q)
++ [Python数据持久化（JSON）：最好用的数据存储方式！](https://mp.weixin.qq.com/s/zaInj9ln3FJipLr6Rsdudg)
 + [python注释知识点及用法讲解](https://mp.weixin.qq.com/s/tQXD1fajWD_T-rsBOMdEAg)
 + [​Python 日期和时间处理：你绝对不能错过的最强技巧！](https://mp.weixin.qq.com/s/c8bAjmBIAiz3p77OesNwKg)
 + [Python日期时间处理的10个常见任务](https://mp.weixin.qq.com/s/a3XIyxEGT7cFmAnfQQ7Glw)
@@ -312,10 +319,12 @@
 + [Python轻松调用JS接口的实用技巧](https://mp.weixin.qq.com/s/paGxVFP8cdOV-TIk5kKWsg)
 + [【学习研究】Conda虚拟环境与Jupyter配置](https://mp.weixin.qq.com/s/zjNQJ7U-WgwMIVZ8-7Nduw)
 + [Python金融数据分析：10个金融数据挖掘的技巧](https://mp.weixin.qq.com/s/KxARCdltbmXcs-H1uolooQ)
++ [Python Turtle魔法：绘制一个会走的时钟](https://mp.weixin.qq.com/s/J0CNQX0Nu55CgSQ34wnE3A)
 
 ## 新特性
 
 + [Python3.13rc2 自由线程性能实验](https://mp.weixin.qq.com/s/R-jU96Fa5fha8B10cvoUZg)
++ [Python-3.13.0 去掉 GIL 性能原地起飞](https://mp.weixin.qq.com/s/WOhFut0sJDuiY_AdTZON-Q)
 
 ## 第三方库
 
@@ -356,9 +365,11 @@
 + [pyOCR，一个最牛逼的Python库](https://mp.weixin.qq.com/s/iCUUC4O_M7WPzTFpr-Zjow)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [theano，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/poeuvMH-X6QUcX4ERoJKUQ)
++ [PyYAML，一个YAML解析专家的Python库！](https://mp.weixin.qq.com/s/4yHWTlA_MHlrG7SGBbXsUg)
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
++ [jsonschema ，一个牛逼的python库](https://mp.weixin.qq.com/s/rp5mRUz4JgLqjnrd1sNqcQ)
 + [Channels，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/1hObEK2QIczzk168eOW_Qw)
 + [interpret，一个高级的 Python 库！](https://mp.weixin.qq.com/s/K3Ji8No6pbKzS4E5lV9SKw)
 + [rddpip，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/HPFfGfCLdRzYMl9RCoBjWQ)
@@ -561,6 +572,7 @@
 + [Baostock，一个超级强大的Python工具](https://mp.weixin.qq.com/s/rd9vdeDJVmJ1K8FoXTuHTA)
 + [cytoolz，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/moigl-0P-wvm1uYtFscb2g)
 + [最强Python安全守护者：`bandit`带你玩转代码静态分析](https://mp.weixin.qq.com/s/b-VLFHr97q0E7xD9yCLtlQ)
++ [最强Python数据导出神器：xlsxwriter让Excel操作变得超简单](https://mp.weixin.qq.com/s/xk_8DnqLOEggUPAG7oeqxg)
 
 ## 框架
 

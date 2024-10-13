@@ -24,6 +24,7 @@
 + [消息队列设计精要 最终一致性、错峰流控、队列广播、RPC通信协议、消费确认和消息延迟](https://mp.weixin.qq.com/s/hkE_1UH_h3MzqZ4rxc6mXg)
 + [项目中引入消息队列出现了什么问题？如何保证消息顺序性的？](https://mp.weixin.qq.com/s/0K4uWhsHhQ2fkWu67VXhlQ)
 + [系统设计中的消息队列](https://mp.weixin.qq.com/s/mIeLhtaSmarVbrsuX-9uqw)
++ [消息队列黄金三剑客：RabbitMQ、RocketMQ和Kafka全面对决，谁是最佳选择？](https://mp.weixin.qq.com/s/QnrIjubSigjeNtRPOmMsBA)
 
 # KAFKA
 

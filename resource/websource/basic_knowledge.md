@@ -77,6 +77,7 @@
 + [从linux内核源码解析数据传输的整个过程（上）](https://mp.weixin.qq.com/s/FVNL3OP3cAvzVR4FBd-0zw)
 + [超详细的linux内核常用数据结构汇总](https://mp.weixin.qq.com/s/SIHNcXIPhBUydVUtKo86SA)
 + [Linux 内核中的调试技巧](https://mp.weixin.qq.com/s/gr01C5d9lArhNDjadPPaFw)
++ [linux驱动开发-深入探索内核设备树的原理与实践](https://mp.weixin.qq.com/s/860Wn2oNUtlunToSGrXNwg)
 
 ### 网络
 
@@ -109,6 +110,7 @@
 + [每天一个吹B小知识，让Vim再次伟大！Vim粘贴Python代码并保持格式缩进的技巧](https://mp.weixin.qq.com/s/Q0MHPoqEaRVAimsxtsIi_w)
 + [Linux_删除文件](https://mp.weixin.qq.com/s/gsMMPAgfVBx8UY718QD-Cw)
 + [Linux_查找文件](https://mp.weixin.qq.com/s/e5Cn72F7cAuCa1vhSvCM9w)
++ [Linux-shell编程基本脚本](https://mp.weixin.qq.com/s/fscNX4wW0_Bs_pzeKMIeyg)
 
 ### 发行版信息
 
@@ -245,6 +247,7 @@
 + [【网络协议】精讲TCP报文格式！图解超赞超详细！！！](https://mp.weixin.qq.com/s/7A_Nip1MxqzvhbZtUKIexg)
 + [必会知识：TCP 握手的夺命连环问！](https://mp.weixin.qq.com/s/akkSR2-SlIGLw0DjMgcSgA)
 + [面试题：什么时候会出现TCP粘包，如何解决TCP粘包](https://mp.weixin.qq.com/s/MkcRSffxkXHefBk2yXtN-A)
++ [TCP 收发包调优：那些“看不见的坑”和“摸不着的雷”](https://mp.weixin.qq.com/s/nQj0Xrunm_0F6eFkpzXB3A)
 
 ### UDP
 
@@ -298,6 +301,7 @@
 + [Nginx入门教程：简介、安装配置、静态资源部署、使用Nginx静态代理发布3D Tiles数据并在Cesium中进行加载](https://mp.weixin.qq.com/s/ilPV3--vZloeZcGtwFuLQA)
 + [轻松玩转Nginx：简析配置文件与四大负载均衡技术](https://mp.weixin.qq.com/s/Jr_CTPa8glCj1c4oEdg5tw)
 + [基于Nginx反向代理和workflow异步回调框架实现简单登入转跳功能](https://mp.weixin.qq.com/s/t_fh8bqwWfejh7APPNy5IQ)
++ [Nginx 是如何解决惊群效应的？](https://mp.weixin.qq.com/s/SSa5Jmh2gStUoxF72c3KdQ)
 
 ### wireshark
 

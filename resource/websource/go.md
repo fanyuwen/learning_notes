@@ -32,6 +32,7 @@
 + [聚合接口层（BFF）之Go语言版（五）完结](https://mp.weixin.qq.com/s/73bTitH5VkS2EFj8dogL6w)
 + [通过 Kubernetes 看 Go 接口设计之道](https://mp.weixin.qq.com/s/1ewex6YMTA083shioZtwRA)
 + [通过 Kubernetes 看如何用Go构建大型项目](https://mp.weixin.qq.com/s/uot21dJgwxF2RA8pZmYAkA)
++ [使用Golang的协程竟然变慢了｜100万个协程的归并排序耗时分析](https://mp.weixin.qq.com/s/obBdPjqz_u5SabIPQHPCkA)
 
 # 库
 
@@ -110,6 +111,7 @@
 + [A01.并发编程-互斥锁Mutex-引入问题](https://mp.weixin.qq.com/s/MsyXGj-l0kymLZnxr99YDA)
 + [A02.并发编程-互斥锁Mutex-竞争介绍](https://mp.weixin.qq.com/s/P9uMjkNA-ZHG-yGsLbulFg)
 + [Go语言与SQL数据库的交互方式](https://mp.weixin.qq.com/s/3o3RQCrfU691FkK8VVxIaA)
++ [Go短视频上传怎么做｜使用MinIO写个支持分片上传/断点续传/秒传功能的文件服务吧](https://mp.weixin.qq.com/s/2yvpcXIgx3R6cWTZBIOoMA)
 
 # 面试题
 

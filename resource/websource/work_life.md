@@ -35,6 +35,7 @@
 + [唐豆的 10 年工作心得](https://my.oschina.net/tangdu/blog/15743251)
 + [个人独立开发者如何找到可盈利创业想法？](https://mp.weixin.qq.com/s/lqp6d6M8bmy-221Cd2qGow)
 + [5个信号说明你该辞职了](https://mp.weixin.qq.com/s/yvYceVVZV4HeDdRI3KsXhA)
++ [为什么说程序员是一个极度劳累的工作？](https://mp.weixin.qq.com/s/2iTu38GHzASzWhPEb7hV4g)
 
 # 个人成长
 

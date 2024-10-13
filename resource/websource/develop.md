@@ -63,6 +63,7 @@
 + [领域驱动设计(DDD)之实践](https://mp.weixin.qq.com/s/zjjXW7awneDppIaQ2DcC1w)
 + [领域驱动设计（DDD）：让你的代码有“逻辑”的飞翔](https://mp.weixin.qq.com/s/sS59IFaMOa23J565rDN-1w)
 + [深入理解领域驱动设计：DDD四层架构](https://mp.weixin.qq.com/s/FkbJFSsanG8fWhQqaCuOJw)
++ [一种很变态但有效的DDD建模沟通方式](https://mp.weixin.qq.com/s/1aDQvA0myyZdLjICZw1USA)
 
 ## 微服务
 
@@ -150,6 +151,7 @@
 + [图解 Redis 和 Zookeeper 分布式锁 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607785)
 + [企业级高可用分布式锁剖析](https://mp.weixin.qq.com/s/DnW-1ZTaWi8_Q5-maVyASA)
 + [说说你了解的分布式锁实现](https://mp.weixin.qq.com/s/ByniE88w2FWCeu_ngDnp2g)
++ [分布式锁的六大应用场景](https://mp.weixin.qq.com/s/_xKMDNz3-p_yPDjm5TJKHw)
 
 ## 分布式缓存
 
@@ -166,6 +168,7 @@
 + [腾讯二面，被分布式事务疯狂拷打~](https://mp.weixin.qq.com/s/fHqtMK4BKDH7VOguI2266g)
 + [分布式事务设计与实践](https://mp.weixin.qq.com/s/6ISxP0cwHRWwIiRchfGYbQ)
 + [分布式系统中的三阶段提交协议（3PC）实现（Java中使用Spring Boot实现)](https://mp.weixin.qq.com/s/ppclZQAeER2TlPRhhLXo4Q)
++ [分布式事务常见解决方案](https://mp.weixin.qq.com/s/SbA9pVAId61dY1APIOLsXg)
 
 ## 分布式算法
 
@@ -531,6 +534,8 @@
 + [掌握 Git 分支策略：提升你的版本控制技能](https://mp.weixin.qq.com/s/rO7v8TJIY1rmRqGgZA_pbQ)
 + [Git换行符控制参数的使用](https://mp.weixin.qq.com/s/2s6X_JAdTvEOdWt3DrNwQA)
 + [让 Git Commit Message 更有料的技巧](https://mp.weixin.qq.com/s/MrKnX6xj-JpgjQauDBXtEw)
++ [Git冲突解决技巧](https://mp.weixin.qq.com/s/KO41H2wNDGZ-OcgT04KZmQ)
++ [Git多人协作简明教程](https://mp.weixin.qq.com/s/HiMk9rSntZzZRtcpj2Hqsw)
 
 ### 编程范式
 

@@ -46,6 +46,7 @@
 + [企业级消息推送架构设计，太强了！](https://mp.weixin.qq.com/s/anQ3J38thukU0quPUsuFfg)
 + [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
 + [系统设计的终极目标，高可用、高吞吐、高扩展](https://mp.weixin.qq.com/s/ld_ULZmkKjK_PqOS3hFaDQ)
++ [架构设计原则：选择 SPI 还是 API ？](https://mp.weixin.qq.com/s/PnnX6v9S7waCfwCczZ-3Qg)
 
 ### DDD
 
@@ -136,6 +137,7 @@
 + [分布式系统下数据最终一致性的实现策略](https://mp.weixin.qq.com/s/rfWtepDsaGoPCdDEYPtKng)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
 + [分布式ID介绍](https://mp.weixin.qq.com/s/8QNqS83AyKSmJW_JTXRoyQ)
++ [美团一面：你能阐述一下CAP理论的基本概念和核心思想？说说它有哪些分布模型以及如何抉择？](https://mp.weixin.qq.com/s/U05xcnTpAl0OPcgMkdAP-g)
 
 ## 分布式锁
 
@@ -245,6 +247,7 @@
 + [美团面试官：订单重复支付，如何解决？有点懵](https://mp.weixin.qq.com/s/zU0WFziKSQA28SLOZ_5d-A)
 + [如何保证接口幂等性 ？高并发下的接口幂等性如何实现 ？](https://mp.weixin.qq.com/s/irLRi-yZyZ1e9kHUPV7CVg)
 + [大厂必问 · 如何防止订单重复？](https://mp.weixin.qq.com/s/y2ndN0bJFiwYiJCPD4vKGA)
++ [聊聊大厂都怎么防止重复下单？](https://mp.weixin.qq.com/s/z1ASRafNcgwYaTUu_O2gTQ)
 
 ### 负载&限流
 

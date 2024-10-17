@@ -55,6 +55,7 @@
 + [停止使用 `let` 或为什么它在 JavaScript/TypeScript 中是不必要的【包邮送书】](https://mp.weixin.qq.com/s/_ubMihG-UX0H7jHaWtA3fQ)
 + [JS高级-with、eval以及严格模式](https://mp.weixin.qq.com/s/BbsHCFMkNK7iNH5V1NDePA)
 + [JS中sleep方法的实现](https://mp.weixin.qq.com/s/-gxQchQOVpaUyj1HYPlZXg)
++ [28 个 JavaScript 单行代码让你成为 JavaScript 大神](https://mp.weixin.qq.com/s/ll_RBBspORJzWZr_IT8hNw)
 + [25 个JavaScript单行代码让你看起来像个专业人士](https://mp.weixin.qq.com/s/QlvRe6f_Sic3imq3_4YaFw)
 + [【第3318期】加快 JavaScript 生态系统的速度 - 隔离声明](https://mp.weixin.qq.com/s/d-oMEhbjoNKZFl2qxMQrIA)
 + [代码片段分享：7个实用的async/await代码片段，轻松掌握JavaScript异步操作](https://mp.weixin.qq.com/s/yL0neR4PNB3TShkJEfI68w)
@@ -144,6 +145,7 @@
 + [React与Vue性能对比：两大前端框架的性能](https://mp.weixin.qq.com/s/HiDc_0OXhd0rwZno1pNbug)
 + [热门前端 SSR 框架性能 PK！React 倒数第一？](https://mp.weixin.qq.com/s/ElsgtYF8NUucQQF8n5koBQ)
 + [嘀嘀，你的React 组件库](https://mp.weixin.qq.com/s/JPcdBv6IrbBIGA7ACVs49g)
++ [React 组件的类型](https://mp.weixin.qq.com/s/hM3eEgrlWMP1evgD9YuT1Q)
 
 ### react native
 

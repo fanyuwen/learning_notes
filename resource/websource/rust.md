@@ -80,6 +80,7 @@
 + [2024 年 Rust 学习指南：从零开始的 30 小时之旅](https://mp.weixin.qq.com/s/y-d7Nyr2WDr0puIMJ8du2Q)
 + [跟随 Rust 大师 Jon Gjengset 的 "Decrusted" 系列，成为 Rust 编程高手](https://mp.weixin.qq.com/s/YbImoaxVVxdF6TaVbTFfsg)
 + [介绍几个Github上的Rust开源项目-第九期](https://mp.weixin.qq.com/s/npQjeBPN7iExjLeTPdqOnQ)
++ [【文末赠书】好书推荐《从零构建 Rust 生产级服务》](https://mp.weixin.qq.com/s/VYB35NT-Z8tFCXardr1R3A)
 
 # 话题
 

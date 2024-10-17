@@ -10,6 +10,7 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
++ [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [Python数据类型转换实战：从基础到高级](https://mp.weixin.qq.com/s/56xV3-yq1b5XbvNIMTz3-w)
@@ -51,6 +52,7 @@
 + [别再让程序崩溃：Python 异常处理的秘密](https://mp.weixin.qq.com/s/qUow4wQvNtMTC-kbPh1gcw)
 + [Python match case这样用，从此告别if-elif-else！](https://mp.weixin.qq.com/s/4ljt5IqyOZtIbs59lv2-ug)
 + [Python异常处理中的9个常见错误及其解决办法](https://mp.weixin.qq.com/s/kwGdo5sZuo2mL3o1zY6tJA)
+
 
 ### 函数/方法
 
@@ -105,11 +107,15 @@
 + [Python字符串](https://mp.weixin.qq.com/s/uqUOTPac4oqBuV5EHHy1jQ)
 + [Python字符串处理常用的30种操作](https://mp.weixin.qq.com/s/uCk2XJKZ0zsaxVpRi0lNzQ)
 + [Python 字符串格式化输出](https://mp.weixin.qq.com/s/-piYtizGRJAXNNEjlfxrVQ)
++ [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [Python 列表推导式：让代码更简洁高效](https://mp.weixin.qq.com/s/ofOw2NYWyAEnOp26M741fg)
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
++ [Python 中快速创建零列表的多种方法](https://mp.weixin.qq.com/s/V8JZbwvklBQZQejWWfCtyw)
++ [Python如何高效的遍历dict？](https://mp.weixin.qq.com/s/7Ad7PAXECJNcOPCKsMBQmw)
 + [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)
 + [Python切片的基础与高阶用法，很顶](https://mp.weixin.qq.com/s/9j0f3wKpGylw1pcTeQA5fQ)
 + [Python集合应用：10+个集合操作的实用案例](https://mp.weixin.qq.com/s/IIHYqF_7efNyr-vO9oyG5g)
@@ -145,10 +151,14 @@
 ## 实践
 
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
++ [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
++ [Python __init__.py 文件的作用](https://mp.weixin.qq.com/s/0fvbBIBmtjapLOpMfxNyiQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
++ [python应用-计算两个日期的时间差](https://mp.weixin.qq.com/s/49cAQSYDcDk4DTV_PMrKjA)
 + [实现Python批量文件操作的5种方式](https://mp.weixin.qq.com/s/lR0MOXr0bNJtxHbEnZT6uQ)
 + [手把手教你做自己的Python装饰器，提升代码复用能力](https://mp.weixin.qq.com/s/bMZ_ka5e4DOVt7xvRybIZQ)
 + [你知道 Python 其实自带了小型数据库吗？](https://mp.weixin.qq.com/s/xsfwDxgF9EVTQftqkCX-QA)
@@ -368,6 +378,7 @@
 + [PyYAML，一个YAML解析专家的Python库！](https://mp.weixin.qq.com/s/4yHWTlA_MHlrG7SGBbXsUg)
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
++ [kafka-python，一个非常实用的Python库](https://mp.weixin.qq.com/s/i7eevMovJf29i3a2D-___Q)
 + [SimPy，一个牛逼的python库](https://mp.weixin.qq.com/s/3DQhMxRsh7bNDiySWp64eQ)
 + [jsonschema ，一个牛逼的python库](https://mp.weixin.qq.com/s/rp5mRUz4JgLqjnrd1sNqcQ)
 + [Channels，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/1hObEK2QIczzk168eOW_Qw)
@@ -573,6 +584,7 @@
 + [cytoolz，一个超级牛逼的Python工具](https://mp.weixin.qq.com/s/moigl-0P-wvm1uYtFscb2g)
 + [最强Python安全守护者：`bandit`带你玩转代码静态分析](https://mp.weixin.qq.com/s/b-VLFHr97q0E7xD9yCLtlQ)
 + [最强Python数据导出神器：xlsxwriter让Excel操作变得超简单](https://mp.weixin.qq.com/s/xk_8DnqLOEggUPAG7oeqxg)
++ [Python文件同步（rsync）：最强大的文件同步工具！](https://mp.weixin.qq.com/s/4tfwDXCiX9SWqB76QWBKgw)
 
 ## 框架
 
@@ -618,6 +630,7 @@
 
 + [Plottable结合Pandas绘制图表：数据可视化的利器](https://mp.weixin.qq.com/s/4KwVJeEOOgh-tIDA-L4KaA)
 + [数据洞察力：Pandas DataFrame高级分析技巧](https://mp.weixin.qq.com/s/-s-Fc3K4aMMf_PsZz6wSdA)
++ [提升效率的 10 种 Pandas 数据操作方法](https://mp.weixin.qq.com/s/pjFpcXq8rebBkCbq2aqGMg)
 + [Python数据分析利器：解锁groupby和pivot_table](https://mp.weixin.qq.com/s/arelTBpM0quzB9Z8PkVi3A)
 
 ## 其它

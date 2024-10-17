@@ -78,6 +78,8 @@
 + [超详细的linux内核常用数据结构汇总](https://mp.weixin.qq.com/s/SIHNcXIPhBUydVUtKo86SA)
 + [Linux 内核中的调试技巧](https://mp.weixin.qq.com/s/gr01C5d9lArhNDjadPPaFw)
 + [linux驱动开发-深入探索内核设备树的原理与实践](https://mp.weixin.qq.com/s/860Wn2oNUtlunToSGrXNwg)
++ [探索linux内核的关键：进程调度详解](https://mp.weixin.qq.com/s/pvgGueLKjIXssDvz4cfx1Q)
++ [LVS怎么实现负载均衡](https://mp.weixin.qq.com/s/dx47jVjjX5wbsW6QpPZS4A)
 
 ### 网络
 
@@ -111,6 +113,8 @@
 + [Linux_删除文件](https://mp.weixin.qq.com/s/gsMMPAgfVBx8UY718QD-Cw)
 + [Linux_查找文件](https://mp.weixin.qq.com/s/e5Cn72F7cAuCa1vhSvCM9w)
 + [Linux-shell编程基本脚本](https://mp.weixin.qq.com/s/fscNX4wW0_Bs_pzeKMIeyg)
++ [Linux_文件操作命令](https://mp.weixin.qq.com/s/bMNkJ6oREiakVwmhmpgUug)
++ [Linux突发网络故障常用排查的命令](https://mp.weixin.qq.com/s/OrlN3RuXlQh2DTQwDyim0w)
 
 ### 发行版信息
 
@@ -190,6 +194,7 @@
 + [URL、URL 的结构以及 URI 与 URL 之间的区别](https://mp.weixin.qq.com/s/AV9c1mlDIPSm1vPzH6Dx9w)
 + [你真的应该弄清楚 URI 和 URL 的区别](https://mp.weixin.qq.com/s/y_WJh1H9IJ7Aj-3hbOMEvQ)
 + [扪心自问，你真的能讲清楚URL和URI吗？](https://mp.weixin.qq.com/s/sadJLILv7PXetNNfyybBHg)
++ [API网关基础知识详解](https://mp.weixin.qq.com/s/HAbYrDJeuswrMGuF3nhZNQ)
 
 ### DNS
 

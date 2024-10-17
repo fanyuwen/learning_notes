@@ -26,6 +26,7 @@
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
 + [为什么要使用泛型？使用泛型带给你的好处有哪些 ？](https://mp.weixin.qq.com/s/oCIuao07Brok-T0FPzu17w)
++ [来聊聊Java中的可变参数](https://mp.weixin.qq.com/s/6iVBZLHejYbL3pCzVZei8Q)
 
 ## 新语言特性
 
@@ -144,6 +145,8 @@
 + [java获取对象的内存地址（打印出内存地址）](https://mp.weixin.qq.com/s/VIsDFeqpqIK_Ob4Hi8YOzw)
 + [Java数组判断是否越界](https://mp.weixin.qq.com/s/c1NVWjbILeXevS4caRCsnA)
 + [java -jar`命令详解：运行JAR文件、传递参数与性能调优](https://mp.weixin.qq.com/s/UmyZbAyg5_EJc_Hnv_ZbOA)
++ [如何保证线程A，B，C 顺序执行？](https://mp.weixin.qq.com/s/BjKzyChvWhSehBy_z36qKQ)
++ [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
 
 ## 代码质量
 
@@ -214,6 +217,7 @@
 + [深入理解Java并发编程：线程池与锁机制](https://mp.weixin.qq.com/s/hdr29sf9-zEWlA17YTudHA)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
 + [【多线程与高并发】锁的底层实现](https://mp.weixin.qq.com/s/asYL-B2gdIGzV7EfKyeRYw)
++ [【多线程与高并发】锁的特性](https://mp.weixin.qq.com/s/kMXwY_mvvmWpq1VlVnRdug)
 + [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
 + [【多线程与高并发】异常跟锁](https://mp.weixin.qq.com/s/NUyMPA5qCKG4DV3GRW8qgQ)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
@@ -295,6 +299,7 @@
 + [区分使用运行时异常和受检异常](https://mp.weixin.qq.com/s/WYiJTtSXlARJg-epMQv0uw)
 + [【11期】谈谈对象的引用](https://mp.weixin.qq.com/s/cBImQcB009rlxu2bWTtJtQ)
 + [聊聊Java反射](https://mp.weixin.qq.com/s/yQryCpeoWTJ3ZWr_jumXuw)
++ [Java反射原理](https://mp.weixin.qq.com/s/TKacXc0zO-PAHQMnzmv10g)
 + [Java 性能分析](https://mp.weixin.qq.com/s/yo1gkwcugBJ1J-Rnnf2CWQ)
 + [聊聊java零拷贝的几种实现](https://mp.weixin.qq.com/s/FSq5_beguRsNBKeUMAutPg)
 + [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
@@ -567,6 +572,7 @@
 + [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
 + [spring下自动装配的各种模式？](https://mp.weixin.qq.com/s/fHU_Lna03MJ12NjnGcIk-w)
 + [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
++ [我100%确定，你对@ComponentScan注解的了解仅限于皮毛](https://mp.weixin.qq.com/s/C3Y2tyGaYodW3uqaocyF7w)
 
 ### 新版本新特性
 
@@ -992,12 +998,17 @@
 
 + [超赞！Spring Boot 3.3 自带 Controller 接口监控，大家赶紧用起来](https://mp.weixin.qq.com/s/B5VzAPXIENDB-UK_OK2BjQ)
 + [神器！SpringBoot 3.3 中实现 API 接口限流就是这么简单](https://mp.weixin.qq.com/s/w5ykZUftwLnPk1LpcEJ-xg)
-+ [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
-+ [SpringBoot 3 新HTTP客户端工具让代码简洁又优雅，不用再用 HttpUtil](https://mp.weixin.qq.com/s/hPsnUoWSxaK88y8dvIbDkA)
 + [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
 + [高效应对内存溢出！Spring Boot 3.3 大文件处理全攻略](https://mp.weixin.qq.com/s/GBGGZAKW2QkgBObIY97B1w)
-+ [Spring Boot REST API版本控制的方案及选择](https://mp.weixin.qq.com/s/hC9rWG0o10ZtsyawfvWvAw)
 + [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
++ [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
++ [速览！Spring Boot 3.3 快速实现 API 加密的最佳实践](https://mp.weixin.qq.com/s/eRIfoPzNGS8vuP5kYN5SCA)
++ [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
++ [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
++ [Spring Boot 接口数据加解密，太方便了！](https://mp.weixin.qq.com/s/Kt-Brzcsay9sn7Rq6fWvhw)
++ [SpringBoot 3 新HTTP客户端工具让代码简洁又优雅，不用再用 HttpUtil](https://mp.weixin.qq.com/s/hPsnUoWSxaK88y8dvIbDkA)
++ [Spring Boot 不同HTTP客户端 同步&异步请求对比](https://mp.weixin.qq.com/s/3Pp2QRgzXqaY1XcTBACalg)
++ [Spring Boot REST API版本控制的方案及选择](https://mp.weixin.qq.com/s/hC9rWG0o10ZtsyawfvWvAw)
 + [基于SpringBoot自定义接口响应消息格式及原理解析](https://mp.weixin.qq.com/s/Rzv7rZyKbwnjdgPlGuAbDA)
 + [SpringBoot控制层中，@Service可以完全替代@Controller吗？](https://mp.weixin.qq.com/s/4mYDAAOwFnsTBXMnPeZ_Zg)
 + [SpringBoot 如何做到无感刷新 token？](https://mp.weixin.qq.com/s/e_uc3hKxKjICe3pu-1F9eQ)
@@ -1084,6 +1095,7 @@
 + [SpringBoot中Controller接口参数这样处理太优雅了](https://mp.weixin.qq.com/s/mjMbzM8WuUQIN9lcqGOajA)
 + [SpringBoot参数验证你需要知道的10个技巧](https://mp.weixin.qq.com/s/4ZnJGX5BgeKueEq98oxQAQ)
 + [京东面试：SpringBoot同时可以处理多少请求？](https://mp.weixin.qq.com/s/u8Xv4QtPUamdIKFGfzRVTA)
++ [SpringBoot同时可以处理多少请求？](https://mp.weixin.qq.com/s/WNqm89F0p1dsAnUmuPEOAw)
 + [SpringBoot可以同时处理多少请求？](https://mp.weixin.qq.com/s/3J-qTyUXzm2rdYWbfqW5nQ)
 + [解决SpringBoot OAuth2多端登录的Token刷新难题](https://mp.weixin.qq.com/s/5y95RQ6s0LDrpiqdiFqM1A)
 + [SpringBoot实现Session认证和Token认证（JWT）](https://mp.weixin.qq.com/s/Y2srE2IauY51ey8HQfhM6g)
@@ -1290,6 +1302,7 @@
 + [应用安全防护：Spring Boot中的ACL和RBAC权限管理实践](https://mp.weixin.qq.com/s/4rQNVTb4l-TybhRj39c6vw)
 + [如何在 Spring Boot 中安全地管理配置文件中的敏感信息？](https://mp.weixin.qq.com/s/W2MrpKvREkhZqTazlHJ5bg)
 + [SpringBoot+Apache Shiro实现应用安全](https://mp.weixin.qq.com/s/kThebbRA9BQ2mBaetkS9ow)
++ [Spring Boot与Spring Security：构建安全认证与授权体系](https://mp.weixin.qq.com/s/UcucC0B0ploJIPH32lJOfA)
 
 #### 设计模式
 
@@ -1365,6 +1378,7 @@
 
 + [Spring Boot 源码分析五：Spring Boot AutoConfiguration 自动配置机制](https://mp.weixin.qq.com/s/ElmExG_xmS3xEFRIJmz-7Q)
 + [从源码角度3分钟理解SpringBoot的jar可以直接运行的原因](https://mp.weixin.qq.com/s/TvhDjE91cocVwjYdNoqcfw)
++ [自己动手实现精简版SpringBoot原来如此简单](https://mp.weixin.qq.com/s/67CBt1f-Vcmzos7J4Guf0g)
 
 ## hystrix
 
@@ -1416,6 +1430,8 @@
 + [MyBatis深度解析：高级查询与性能优化](https://mp.weixin.qq.com/s/qjQFxFY2E2FQSPV15XjT6w)
 + [Mybatis中if-test的一个问题及解决办法](https://mp.weixin.qq.com/s/PKp_rOnbr-RbEm-GOOWqlA)
 + [农行2面：JDBC存在什么问题？MyBatis是如何解决的？](https://mp.weixin.qq.com/s/jqD9PA003jUjBx-lEL1eoA)
++ [MyBatis 列名转换拦截器：解决列名映射风格问题](https://mp.weixin.qq.com/s/Eej4jdfH38Vh2wkwJcOIlw)
++ [使用MyBatis推荐几种SQL写法](https://mp.weixin.qq.com/s/FkcaqnMcrgZN_4MmfNrbYw)
 
 ### plus
 
@@ -1428,6 +1444,7 @@
 + [慎用，Mybatis-Plus这个方法可能导致死锁](https://mp.weixin.qq.com/s/wgxZK09PKTyOHNnkaxyNqg)
 + [Mybatis-Plus官方分库分表神器，一个依赖轻松搞定！](https://mp.weixin.qq.com/s/YRRnCplPJ8MK2O2nYcIL2g)
 + [再见 MybatisPlus，阿里推出新 ORM 框架更牛X](https://mp.weixin.qq.com/s/QzuoUxCOX78JEnhQe9gIcA)
++ [Mybatis Plus 空字符串插入问题引起的思考](https://mp.weixin.qq.com/s/OybNWl8bmynv4MJvp_sX4Q)
 
 ## disruptor
 
@@ -1523,6 +1540,7 @@
 + [从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s/p8YS2DhQaIe0QUTxeSMsQg)
 + [Nacos任意文件读写](https://mp.weixin.qq.com/s/EzMaG3u-lcBnVbPYebP_Ag)
 + [nacos2.3.2鉴权的一些坑](https://mp.weixin.qq.com/s/CABCpyZIZlXqi8OGwhGcvQ)
++ [Nacos升级导致Feign调用异常](https://mp.weixin.qq.com/s/KtEIWt7Ig0WH6KZv5VlDEA)
 
 ## apollo
 
@@ -1573,6 +1591,7 @@
 + [Jmeter最全详解(手把手教你4步使用)](https://mp.weixin.qq.com/s/Y9tJidOwrp4ZJ_C3fZVAxw)
 + [致远-常用的工具类（一）](https://mp.weixin.qq.com/s/lBxYmh1iQmwa_okNY9mHKw)
 + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
++ [当前推荐的Java库： Apache Commons Lang 一个非常实用但容易被忽视的宝藏库](https://mp.weixin.qq.com/s/i1jDD20P4skO20wQxGAIQg)
 + [我的字段被FastJson给干掉了?!](https://mp.weixin.qq.com/s/t3nq03MxL0HWzQFx62P9Cg)
 + [比 MyBatis 快了 100 倍的 ORM 框架](https://mp.weixin.qq.com/s/PNeI5hN25vf2GVWG7Fya4g)
 + [强类型查询：Java 的全能 ORM 神器](https://mp.weixin.qq.com/s/h7tHv-98lfOlFMUs_OafVw)
@@ -1615,6 +1634,7 @@
 + [真香！Forest让HTTP请求如此简单](https://mp.weixin.qq.com/s/JPZtNLr-PgdVbpQPhwol-g)
 + [编程高手的选择：SNMP4J (Simple Network Management Protocol)，一个高效的Java库](https://mp.weixin.qq.com/s/Ql7K2JEwfndHLNlmBhnsWA)
 + [编程高手的选择：SMTP with Java，一个高效的Java库](https://mp.weixin.qq.com/s/06IrK1JdKseNKjC6BvpVTA)
++ [Java Http 接口对接太繁琐？试试 UniHttp 框架吧](https://mp.weixin.qq.com/s/2D3H9pjlDA9yQz3GTqBUdg)
 
 # 其它环境
 
@@ -1627,6 +1647,9 @@
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [使用回调机制Callback和函数式编程码出优雅结构化代码！拒绝一直写CRUD！！！](https://mp.weixin.qq.com/s/lKGrqDSVotgVOQUki11MqA)
++ [架构师必修之java框架篇：框架序篇](https://mp.weixin.qq.com/s/09yUDA_NOADuvtRqXpBA8g)
++ [Java 离AI还是太远了，这两个Spring AI 框架能稍微接近一下](https://mp.weixin.qq.com/s/57B-td0YsTqC0suWEDhIYQ)
++ [看 Java如何解决项目中资源文件的编码问题](https://mp.weixin.qq.com/s/cEPhswh6-Khj4J9SQqaXyw)
 + [Java Web 应用升级故障案例解析](https://my.oschina.net/u/4662964/blog/15972783)
 + [动态切换实现类框架，快看看 Spring-Smart-DI 是不是你的菜？](https://mp.weixin.qq.com/s/7SFUNuvNhFDjOfEIUs6i1A)
 + [Windows部署Java JDK的方法](https://mp.weixin.qq.com/s/NQ4tMbNnqLvFvx1g1pNoAw)
@@ -1677,3 +1700,4 @@
 + [我悟了！原来在Java项目中是这样配置SSL证书的，想不会都难，建议收藏！](https://mp.weixin.qq.com/s/31K7jl3XD5fMWnfjm0HS0Q)
 + [开发经验总结：读写分离简单实现](https://my.oschina.net/carterspring/blog/15998430)
 + [当我去挖掘发序列化时的一个乌龙事件](https://mp.weixin.qq.com/s/G6x4rvkwjcXX_ttqX2LxEw)
++ [十年码农内功：缓存篇（第2版）](https://mp.weixin.qq.com/s/8lS2i76DwVLpgbCNPyTDyQ)

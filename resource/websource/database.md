@@ -429,6 +429,7 @@
 + [高并发和海量数据下的 9 个 Redis 经典案例剖析！](https://mp.weixin.qq.com/s/oMdmM8Lfc5EsswQ5GifEOg)
 + [卡片分享：Redis主从同步有哪三种？](https://mp.weixin.qq.com/s/EtaGmTIOUdL5PFUzMtEGNg)
 + [Redis之布隆过滤器与布谷鸟过滤器](https://mp.weixin.qq.com/s/H40e5fRmmsBH8ie5RZNeag)
++ [Redis数据集群迁移](https://mp.weixin.qq.com/s/ULWWZoOamjzOGDi_KroC6Q)
 + [自定义注解Idempotent实现幂等](https://mp.weixin.qq.com/s/wq7mmV4s3525FWLQQvvPAA)
 + [Redis pub/sub实现消息队列](https://mp.weixin.qq.com/s/Lvat32HPqnP_vcNMu0rNXQ)
 + [Redis Streams的消费者组模式讲解](https://mp.weixin.qq.com/s/Vah-uSfNU7DxDMNajKHzJw)
@@ -450,6 +451,7 @@
 + [面试官：说一下你对Redis事务的理解？](https://mp.weixin.qq.com/s/lRZST0KbFTn3DIGJ7lLaFg)
 + [深入Redis系列（七）Redis事务原理详解](https://mp.weixin.qq.com/s/p0b8YGzGFTLIG70w0JItMQ)
 + [一文了解 Redis](https://mp.weixin.qq.com/s/niOvTiaNGG3KdrZQBNqM9g)
++ [警告！请勿过度依赖 Redis 的过期监听](https://mp.weixin.qq.com/s/gETDrxDbutrxMh6ryC1wnQ)
 + [基于Redis实现内部消息服务通信](https://mp.weixin.qq.com/s/CmrfSSQWS0RdQquC6-njXg)
 + [面试官：说说 Redis 哨兵机制？](https://mp.weixin.qq.com/s/4l102OwvTC5GPtK2JfuN6w)
 + [Redis 成本优化指南：45% 的成本节约](https://my.oschina.net/klblog/blog/11572308)
@@ -469,6 +471,8 @@
 + [Redis布隆过滤器基本原理与应用场景分析](https://mp.weixin.qq.com/s/DXJ4D8zdV3sBJhRl22shcg)
 + [Redis系列：聊聊布隆过滤器（Go语言实践篇）](https://mp.weixin.qq.com/s/eyHn8FMAYmZcWZgpGq9liQ)
 + [Redis的过期策略和内存淘汰机制是什么？](https://mp.weixin.qq.com/s/q4ftk9hO8mjgvmQpoVYjNQ)
++ [Redis集群缓存参数优化场景及作用介绍](https://mp.weixin.qq.com/s/IXIBvS8BkDAVmaR9k161Mw)
++ [Redis的常见问题](https://mp.weixin.qq.com/s/AlByIjZJz0-x96mTXg4PBA)
 
 #### 原理
 
@@ -492,6 +496,7 @@
 + [Redis为什么这么快？](https://mp.weixin.qq.com/s/QMN5oCVO_7SHD7CnXWbpwA)
 + [Redis为何如此之快？揭秘高性能背后的秘密！](https://mp.weixin.qq.com/s/-B2mzKsy6EgriQhB4uwOSg)
 + [字节一面拷打：Redis 为什么用跳表实现有序集合？](https://mp.weixin.qq.com/s/Q2paB_XcMlmG8TSdSgql8w)
++ [Redis的ZSet为何使用跳表而非红黑树](https://mp.weixin.qq.com/s/F51bI45b_pJLKb5adNoIVw)
 
 #### 分布式锁
 
@@ -525,6 +530,10 @@
 + [太优雅了！用Redis高效实现限流功能!](https://mp.weixin.qq.com/s/i0aDxP94oEMuw_IKyRD2mg)
 + [如何用Redis实现限流？](https://mp.weixin.qq.com/s/-Fv_32pV4QPaKqjVPpItNA)
 + [百度面试：如何用Redis实现限流？](https://mp.weixin.qq.com/s/RYbA9J-4DtuDKYv4Zl-kSw)
+
+### Hbase
+
++ [死磕HBase(二)](https://mp.weixin.qq.com/s/AM4WSv2derkt_V0UV-EGFQ)
 
 ### MongoDB
 
@@ -581,6 +590,7 @@
 + [5、Flink源码系列：window、sum源码分析](https://mp.weixin.qq.com/s/-kS4KiaefVLY9zbgqPjNcw)
 + [Flink 1.20 版本发布，一些值得注意的特性！](https://mp.weixin.qq.com/s/GfN6gT7blpzHpojC8hLg9A)
 + [得物 Flink 内核探索实践](https://my.oschina.net/u/5783135/blog/15327322)
++ [第四代大数据流处理框架-Apache Flink架构分析](https://mp.weixin.qq.com/s/o0EQzWdN-UzxeGaER_4PNw)
 
 ## spark
 

@@ -585,6 +585,7 @@
 + [最强Python安全守护者：`bandit`带你玩转代码静态分析](https://mp.weixin.qq.com/s/b-VLFHr97q0E7xD9yCLtlQ)
 + [最强Python数据导出神器：xlsxwriter让Excel操作变得超简单](https://mp.weixin.qq.com/s/xk_8DnqLOEggUPAG7oeqxg)
 + [Python文件同步（rsync）：最强大的文件同步工具！](https://mp.weixin.qq.com/s/4tfwDXCiX9SWqB76QWBKgw)
++ [最牛逼的Python命令行工具：轻松使用argparse处理参数！](https://mp.weixin.qq.com/s/i9gEOi5DpBjVH80CSwxSyQ)
 
 ## 框架
 

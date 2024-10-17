@@ -50,6 +50,7 @@
 + [手把手教你学会sql注入](https://mp.weixin.qq.com/s/-BiQTjUQDUq1yI92TvKRzg)
 + [一个用SQL写的俄罗斯方块游戏](https://mp.weixin.qq.com/s/u9bPjT_St_R6pa-_CaV3gg)
 + [千万级数据的全表update的正确姿势](https://mp.weixin.qq.com/s/4Qn-eFL3vopFtQ1GA-FipQ)
++ [【性能调优】全方位教你定位慢SQL](https://mp.weixin.qq.com/s/8De9W8NLvCNnCtR89c45iw)
 
 # 本地数据库
 
@@ -331,6 +332,7 @@
 + [MySQL是如何保证唯一性索引的唯一性的？](https://mp.weixin.qq.com/s/Ywwo-7y4LOPT8dhav9cL3Q)
 + [Mysql索引原理和查询优化 1](https://mp.weixin.qq.com/s/lpFoAEW5Ob8p3vLJ6xUb9A)
 + [MySQL 索引优化：深入自适应哈希索引的奥秘](https://mp.weixin.qq.com/s/D-sd4VXOFVLMmzbZZdUseA)
++ [还在滥用模糊查找？这类场景下 MySQL 多值索引性能更加强悍！](https://mp.weixin.qq.com/s/W1Dd6zBQ1i5YKlwTiL9PWQ)
 
 ### PostgreSQL
 

@@ -375,6 +375,7 @@
 
 ## util库
 
++ [Java学习笔记——集合框架](https://mp.weixin.qq.com/s/EQwBpbQ6flWbUg6CYjxo6Q)
 + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
 + [java.util.Collections有哪些精妙的方法？](https://mp.weixin.qq.com/s/_K-Vwbb7OKZ4WUAFNWOThg)
 + [深入了解Java中的Map.merge()方法](https://mp.weixin.qq.com/s/Mo35h6Q1cGVHKvxXX7FMvQ)
@@ -1229,6 +1230,7 @@
 + [基于Spring Boot的定时任务调度与管理](https://mp.weixin.qq.com/s/z8sBFoWa07Mb6Zuv7Byd1g)
 + [不会用 SpringBoot 做分布式任务调度？这篇攻略让你轻松上手！](https://mp.weixin.qq.com/s/Vr0O7ALjKj3lq2hRZhN2mw)
 + [你用错了！详解SpringBoot异步任务&任务调度&异步请求线程池的使用及原理](https://mp.weixin.qq.com/s/MWxeR6r_Y16VTPKgEJkHcg)
++ [Spring6.1 异步和定时任务新特性，太实用了](https://mp.weixin.qq.com/s/nvwKvbPnBiB9DNaW3_sayw)
 
 ##### Disruptor
 

@@ -216,6 +216,7 @@
 + [Java线程安全 -- 线程安全类](https://mp.weixin.qq.com/s/S4CqtnVXK6tBAUQ9VwmoYQ)
 + [深入理解Java并发编程：线程池与锁机制](https://mp.weixin.qq.com/s/hdr29sf9-zEWlA17YTudHA)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
++ [005架构师必修之java基础篇：搞懂多线程](https://mp.weixin.qq.com/s/K4XrCGZlXh7OW1bDGZYUDQ)
 + [【多线程与高并发】锁的底层实现](https://mp.weixin.qq.com/s/asYL-B2gdIGzV7EfKyeRYw)
 + [【多线程与高并发】锁的特性](https://mp.weixin.qq.com/s/kMXwY_mvvmWpq1VlVnRdug)
 + [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
@@ -510,6 +511,7 @@
 
 ## spring
 
++ [001架构师必修之java框架篇：春天（spring）来了](https://mp.weixin.qq.com/s/rUi2xxs_crWVaDUaZwNzAA)
 + [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
 + [这才是Spring为什么不支持static字段注入的原因【源码分析】](https://mp.weixin.qq.com/s/YrFHt3J5ALdeXe9TNMjBXg)
 + [Spring IoC和AoP重点总结](https://mp.weixin.qq.com/s/7uiNuOyxinwIT-7Fg0dc9g)
@@ -574,6 +576,7 @@
 + [spring下自动装配的各种模式？](https://mp.weixin.qq.com/s/fHU_Lna03MJ12NjnGcIk-w)
 + [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
 + [我100%确定，你对@ComponentScan注解的了解仅限于皮毛](https://mp.weixin.qq.com/s/C3Y2tyGaYodW3uqaocyF7w)
++ [BeanFactory和ApplicationContext有什么区别？](https://mp.weixin.qq.com/s/th1u5F8rHPmenB2I8hYXhA)
 
 ### 新版本新特性
 
@@ -753,6 +756,7 @@
 + [SpringBoot 3.3 接口防抖的一些实现方案，超赞！](https://mp.weixin.qq.com/s/2eM0H7wvm6Mw852W7CpHcw)
 + [Spring Boot 3.3 五种异步处理提升系统吞吐量的策略与实践，彻底爱了！](https://mp.weixin.qq.com/s/mZAnOveHZ14dNasBLzXrdw)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
++ [高效维护API！Spring Boot 3.3实现灵活的API版本管理攻略](https://mp.weixin.qq.com/s/FJ50XknV2ezrD-AX6ve_gQ)
 + [强大！Spring Boot 3.3 构建通用库，彻底告别重复代码！](https://mp.weixin.qq.com/s/ulJGbyKhwfOqJ-UPWV2caw)
 + [惊喜发现！Spring Boot 3.3 的隐藏宝藏功能，不容错过！](https://mp.weixin.qq.com/s/K9JHq_bqDJIb8ebMhxtxkg)
 + [真香！Spring Boot 3.3 搭配 STOMP，轻松实现数据实时通信](https://mp.weixin.qq.com/s/0nijw-FuSswejElqGZsmsA)
@@ -1231,6 +1235,7 @@
 + [不会用 SpringBoot 做分布式任务调度？这篇攻略让你轻松上手！](https://mp.weixin.qq.com/s/Vr0O7ALjKj3lq2hRZhN2mw)
 + [你用错了！详解SpringBoot异步任务&任务调度&异步请求线程池的使用及原理](https://mp.weixin.qq.com/s/MWxeR6r_Y16VTPKgEJkHcg)
 + [Spring6.1 异步和定时任务新特性，太实用了](https://mp.weixin.qq.com/s/nvwKvbPnBiB9DNaW3_sayw)
++ [Spring Boot中实现订单30分钟自动取消的策略](https://mp.weixin.qq.com/s/2sfFvts6xkjCTxy_DiTz3w)
 
 ##### Disruptor
 
@@ -1549,6 +1554,10 @@
 + [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
 
+## dubbo
+
++ [Dubbo 超时设置与动态调整解决方案](https://mp.weixin.qq.com/s/f0RlEFmyG7V0-F8j9vIyjQ)
+
 ## sentinel
 
 + [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
@@ -1637,6 +1646,7 @@
 + [编程高手的选择：SNMP4J (Simple Network Management Protocol)，一个高效的Java库](https://mp.weixin.qq.com/s/Ql7K2JEwfndHLNlmBhnsWA)
 + [编程高手的选择：SMTP with Java，一个高效的Java库](https://mp.weixin.qq.com/s/06IrK1JdKseNKjC6BvpVTA)
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架吧](https://mp.weixin.qq.com/s/2D3H9pjlDA9yQz3GTqBUdg)
++ [Java Http 接口对接太繁琐？试试 UniHttp 框架~](https://mp.weixin.qq.com/s/xFw9qjpX3qo9bmivvcgUGQ)
 
 # 其它环境
 

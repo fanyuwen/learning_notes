@@ -247,6 +247,7 @@
 + [贝壳面试：什么是回表？什么是 索引下推 ？](https://mp.weixin.qq.com/s/YRWw15k5zvSlaESzXh1MtQ)
 + [如何使用SSH修复MySQL表？](https://mp.weixin.qq.com/s/uyC2d2nHbTnkPgmFLrDulg)
 + [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
++ [MySQL学习笔记——聚合函数](https://mp.weixin.qq.com/s/pbkFWe3D-fYTlpkOTH8XlA)
 
 #### 存储引擎
 
@@ -475,6 +476,7 @@
 + [Redis的过期策略和内存淘汰机制是什么？](https://mp.weixin.qq.com/s/q4ftk9hO8mjgvmQpoVYjNQ)
 + [Redis集群缓存参数优化场景及作用介绍](https://mp.weixin.qq.com/s/IXIBvS8BkDAVmaR9k161Mw)
 + [Redis的常见问题](https://mp.weixin.qq.com/s/AlByIjZJz0-x96mTXg4PBA)
++ [聊聊redis字典指令操作](https://mp.weixin.qq.com/s/cLVW4GGDjmQxbL6R7Qs1Xg)
 
 #### 原理
 
@@ -516,6 +518,7 @@
 + [吃透Redis系列：分布式锁](https://mp.weixin.qq.com/s/ngWdvT9ti1bRXaoCkv_r8A)
 + [美团面试：Redis锁如何续期？Redis锁超时，任务没完怎么办？](https://mp.weixin.qq.com/s/h3QY545R5US_WkjQXl8mbw)
 + [如何基于 Redis 实现分布式锁](https://mp.weixin.qq.com/s/T4fjnZAWl4ZaRR6YpEm9iw)
++ [redis 分布式锁的 5个坑](https://mp.weixin.qq.com/s/dHdvNp8y50pP0qPDpv67uA)
 
 #### 缓存
 

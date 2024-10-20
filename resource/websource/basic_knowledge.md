@@ -307,6 +307,7 @@
 + [轻松玩转Nginx：简析配置文件与四大负载均衡技术](https://mp.weixin.qq.com/s/Jr_CTPa8glCj1c4oEdg5tw)
 + [基于Nginx反向代理和workflow异步回调框架实现简单登入转跳功能](https://mp.weixin.qq.com/s/t_fh8bqwWfejh7APPNy5IQ)
 + [Nginx 是如何解决惊群效应的？](https://mp.weixin.qq.com/s/SSa5Jmh2gStUoxF72c3KdQ)
++ [nginx（二）：使用自签名证书在Nginx上启用HTTPS](https://mp.weixin.qq.com/s/wj5400jMWZfS81AAmnyo3g)
 
 ### wireshark
 

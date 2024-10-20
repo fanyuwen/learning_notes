@@ -137,6 +137,7 @@
 + [Python编程中的数学运算利器math库](https://mp.weixin.qq.com/s/QMj6IpdCfD3XwZr6Z9QKHQ)
 + [Python OS模块](https://mp.weixin.qq.com/s/OxVlR9rSLeyBYri1GEujhA)
 + [Python sys模块](https://mp.weixin.qq.com/s/opUWBsHEoGQLsZxtWTmAZg)
++ [Python常见使用pip管理依赖,你会几种？](https://mp.weixin.qq.com/s/i9scyKlbCJaqOPIVnOV94A)
 
 ### 异步/多线程
 
@@ -353,12 +354,14 @@
 + [每日一模块：weibo-spider](https://mp.weixin.qq.com/s/qZ57jf2LgTFL3PSXtCmtEg)
 + [每日一模块：XHS-Downloader](https://mp.weixin.qq.com/s/lF_P-yFD_6x-uz083TyxwQ)
 + [每日一模块：re模块解析页面](https://mp.weixin.qq.com/s/vFRg4tqyPD7MEvWZsHpj8g)
++ [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
++ [dreamsound，一个Python中非常有用的库](https://mp.weixin.qq.com/s/n4ekpxuYaZ2uXAYuHcIGJA)
 + [altair，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/WMK2VVeRqzFoSBXUs5AJ_Q)
 + [elasticmapper，一个牛逼的python库](https://mp.weixin.qq.com/s/qMqvwc66VG7qX0JeXNYxNw)
 + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)

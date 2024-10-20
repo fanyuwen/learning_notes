@@ -110,6 +110,7 @@
 
 + [（2.1.0）C语言编程入门 -- 开发环境搭建 -- VSCode + MinGW（2）](https://mp.weixin.qq.com/s/YptY0YY-_17elC8MavykBQ)
 + [（2.4）C语言编程入门 -- C 基础语法](https://mp.weixin.qq.com/s/EZDssKfpIYeONqVbNhDgSw)
++ [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)

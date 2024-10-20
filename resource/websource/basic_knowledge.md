@@ -115,6 +115,7 @@
 + [Linux-shell编程基本脚本](https://mp.weixin.qq.com/s/fscNX4wW0_Bs_pzeKMIeyg)
 + [Linux_文件操作命令](https://mp.weixin.qq.com/s/bMNkJ6oREiakVwmhmpgUug)
 + [Linux突发网络故障常用排查的命令](https://mp.weixin.qq.com/s/OrlN3RuXlQh2DTQwDyim0w)
++ [Linux（三）：文件比较利器——vimdiff与vim -d](https://mp.weixin.qq.com/s/veF_HhyHYDHQRYN8e5Uzbw)
 
 ### 发行版信息
 
@@ -222,6 +223,7 @@
 + [从HTTP到HTTPS：构建更安全的网络连接](https://mp.weixin.qq.com/s/NI5jXIJUp7h6HaQpBR5wkQ)
 + [大话HTTPS协议，理解SSL、TLS和HTTP的关系](https://mp.weixin.qq.com/s/8Z7zD9i_sgIsYDkkq05MJA)
 + [理解HTTP/2，了解这几个关键特性就能明白了](https://mp.weixin.qq.com/s/5_m_FcrjUJLxpMovEQxStg)
++ [兄弟们，IPV6以后必须要撑握的技术，ipv6报头讲解！](https://mp.weixin.qq.com/s/g6tm0uJx-dK9eQ15FPMM9Q)
 
 #### CORS
 

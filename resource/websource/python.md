@@ -138,6 +138,7 @@
 + [Python OS模块](https://mp.weixin.qq.com/s/OxVlR9rSLeyBYri1GEujhA)
 + [Python sys模块](https://mp.weixin.qq.com/s/opUWBsHEoGQLsZxtWTmAZg)
 + [Python常见使用pip管理依赖,你会几种？](https://mp.weixin.qq.com/s/i9scyKlbCJaqOPIVnOV94A)
++ [Python标准库中最强大的秘密武器：collections模块](https://mp.weixin.qq.com/s/oD2AyhRlBWVez0C8rJ885w)
 
 ### 异步/多线程
 
@@ -148,6 +149,7 @@
 + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)
 + [提升并行效率的Python多处理模块指南](https://mp.weixin.qq.com/s/175zJefJzZpO6ZeW9AkhmQ)
 + [多线程还是多进程？解锁 Python 并发编程的终极秘诀！](https://mp.weixin.qq.com/s/GgHKk1Q_w17q-_DZDuD5Wg)
++ [Python多进程编程：最强的解决方案，让你的程序飞起来！](https://mp.weixin.qq.com/s/GT61egkBdZyd7uJlGs6N1g)
 
 ## 实践
 
@@ -167,6 +169,7 @@
 + [提升工作效率的20个Python自动化脚本](https://mp.weixin.qq.com/s/J6YwL7aEE6Jmpjlx2YwnTA)
 + [使用Python进行文件管理的4个聪明方法](https://mp.weixin.qq.com/s/VVeFgYwHpoqfAUfNq-OPJw)
 + [正则表达式中的贪婪匹配与非贪婪匹配](https://mp.weixin.qq.com/s/CQEIVptI72QPmfVvo5WiYA)
++ [简单实用，Python代码调试利器~](https://mp.weixin.qq.com/s/QzysrJZfciadnaMltpyupw)
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
 + [成为大神的这10个Python性能调优的小技巧,你会几个?](https://mp.weixin.qq.com/s/qsbJwpSrfd8H4sRxPKwHTg)
 + [Python文件操作及与数据库的交互](https://mp.weixin.qq.com/s/Qpxvuw2kjjaYuGWpqs3TWQ)
@@ -356,6 +359,7 @@
 + [每日一模块：weibo-spider](https://mp.weixin.qq.com/s/qZ57jf2LgTFL3PSXtCmtEg)
 + [每日一模块：XHS-Downloader](https://mp.weixin.qq.com/s/lF_P-yFD_6x-uz083TyxwQ)
 + [每日一模块：re模块解析页面](https://mp.weixin.qq.com/s/vFRg4tqyPD7MEvWZsHpj8g)
++ [每日一模块：Parsel](https://mp.weixin.qq.com/s/kOYNdba7hpe6tjkS8_OUkg)
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -593,6 +597,7 @@
 + [最强Python数据导出神器：xlsxwriter让Excel操作变得超简单](https://mp.weixin.qq.com/s/xk_8DnqLOEggUPAG7oeqxg)
 + [Python文件同步（rsync）：最强大的文件同步工具！](https://mp.weixin.qq.com/s/4tfwDXCiX9SWqB76QWBKgw)
 + [最牛逼的Python命令行工具：轻松使用argparse处理参数！](https://mp.weixin.qq.com/s/i9gEOi5DpBjVH80CSwxSyQ)
++ [Python图形界面的最牛逼选择：FLTK，让你的应用程序生动起来！](https://mp.weixin.qq.com/s/dWPYEqsbWO_McRtzcLXpNQ)
 
 ## 框架
 

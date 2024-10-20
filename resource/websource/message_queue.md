@@ -84,6 +84,7 @@
 + [5分钟了解RocketMQ消息积压解决方案：增加消费者数量有用吗？常见面试题解析](https://mp.weixin.qq.com/s/djGeJVa3Zqt6RwfE8dT4SQ)
 + [从 RocketMQ 理解 Netty 网络编程技巧](https://mp.weixin.qq.com/s/pugj1uxHkyJw478KXI1YrQ)
 + [RocketMQ   ACK流程分析：编程范式、核心对象、内存匹配、磁盘匹配、死信 ...](https://mp.weixin.qq.com/s/chWNhM0tVOygjU6p-pP4Yw)
++ [记一次线程池使用不当导致触发死锁导致RocketMQ消费停滞](https://mp.weixin.qq.com/s/3IGokiu3YYWUitLygdpflQ)
 
 # RABBITMQ
 

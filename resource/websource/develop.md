@@ -108,6 +108,7 @@
 + [【入门笔记】微服务设计模式 - Saga](https://mp.weixin.qq.com/s/bUwVvpPhdCKpNgRMW5wFTg)
 + [您需要模块，而不是微服务](https://mp.weixin.qq.com/s/D1acPeRv8QBmC-i-ww6G1g)
 + [微服务注册中心选择AP还是CP？](https://mp.weixin.qq.com/s/08Te83s_-BaN0q_rhrl8tw)
++ [crossbar 框架简介](https://mp.weixin.qq.com/s/DenAC9xSHeSwFQKOVch_RA)
 
 # 分布式
 

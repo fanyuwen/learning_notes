@@ -248,6 +248,7 @@
 + [如何使用SSH修复MySQL表？](https://mp.weixin.qq.com/s/uyC2d2nHbTnkPgmFLrDulg)
 + [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
 + [MySQL学习笔记——聚合函数](https://mp.weixin.qq.com/s/pbkFWe3D-fYTlpkOTH8XlA)
++ [MySQL学习笔记——数据类型](https://mp.weixin.qq.com/s/GYtaAThSJX4DxjQcIfQ17w)
 
 #### 存储引擎
 
@@ -351,6 +352,7 @@
 + [PSQL需要专门去学吗？](https://mp.weixin.qq.com/s/CFJKVLT6NJ_GogrrRfLgfg)
 + [聊聊PostgreSQL数据库的高可用架构](https://mp.weixin.qq.com/s/mSMlfnu870LBvq2lmlITDw)
 + [关于 PostgreSQL 中 Linux 内存超分配知识要点](https://mp.weixin.qq.com/s/c4f6Nd0iCKMSMvBjTqDotA)
++ [深入解析PostgreSQL 15.8的窗口函数：高效数据处理的利器](https://mp.weixin.qq.com/s/R7dq-rAzN_cemm7rbYRX-A)
 
 ### SQLSERVER
 
@@ -365,6 +367,7 @@
 
 + [DuckDB 如何访问非UTF-8的CSV？](https://mp.weixin.qq.com/s/8HFB_ss4p2DUSJXb4bp9Lw)
 + [DuckDB 技巧 – 第 1 部分](https://mp.weixin.qq.com/s/PH-zm5CAwNGz6gKF--AQRA)
++ [友好列表与 Lambda 让 DuckDB 处理数据更轻松高效](https://mp.weixin.qq.com/s/8EgohinD0zecNRBu86u9Tw)
 
 ## NOSQL
 

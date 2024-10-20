@@ -56,6 +56,7 @@
 + [开源推荐 | 一个简单且功能强大的 Rust Web 后端框架，仅仅需要基础 Rust 知识即可开发后端服务](https://mp.weixin.qq.com/s/evaU3zHmtZFZX_o2V6s7ZQ)
 + [Candle：Rust 语言的极简机器学习框架](https://mp.weixin.qq.com/s/XfeiWaKXyJx2kBV5dz8SOg)
 + [基于 Rust 实现的下一代微服务框架](https://mp.weixin.qq.com/s/-btLUWNVpHQPGSHkIxHQBg)
++ [探索顶级Rust web框架](https://mp.weixin.qq.com/s/T_PO3oyKl0hSdFddpKPDbw)
 
 # 工具
 

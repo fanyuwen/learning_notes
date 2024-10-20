@@ -147,6 +147,8 @@
 + [java -jar`命令详解：运行JAR文件、传递参数与性能调优](https://mp.weixin.qq.com/s/UmyZbAyg5_EJc_Hnv_ZbOA)
 + [如何保证线程A，B，C 顺序执行？](https://mp.weixin.qq.com/s/BjKzyChvWhSehBy_z36qKQ)
 + [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
++ [Java8中极其强悍的Function接口](https://mp.weixin.qq.com/s/GwCosMIfgpU2-v4OdW6lwQ)
++ [如何将两个同样大小的List组装成一个Map？](https://mp.weixin.qq.com/s/OF2ZT9Xf0A8b2EXMXxB60w)
 
 ## 代码质量
 
@@ -393,6 +395,7 @@
 + [java io的应用场景举例](https://mp.weixin.qq.com/s/BOm6ZEjiM3URfOZOSRkI0A)
 + [揭秘Java 8新宠儿：初识Optional，让你的代码告别空指针烦恼](https://mp.weixin.qq.com/s/sm83xsE90MeF2NRIJA5RNw)
 + [Java 中 HashMap 为什么用红黑树而不用平衡二叉树？](https://mp.weixin.qq.com/s/RFj3cVgtmrrj6dUxNl7NFg)
++ [EnumMap：让Java Map更高效的技巧](https://mp.weixin.qq.com/s/yxDVX_IWqDxcqAaxoLtjzw)
 
 ## concurrent库
 
@@ -610,6 +613,7 @@
 + [这是我见过写得最烂的Controller层代码，没有之一！](https://mp.weixin.qq.com/s/OgWIwtEq1rfDudivopEfQw)
 + [Java Spring Validation：自动与手动校验](https://mp.weixin.qq.com/s/SvXh4KyEQrax00za5Le6mg)
 + [Controller层代码这么写，同事们都模仿起来了](https://mp.weixin.qq.com/s/DhL-DYj6UgEEy-qUHAUE2w)
++ [Spring 实现 3 种异步流式接口，干掉接口超时烦恼](https://mp.weixin.qq.com/s/VDWrDocGajxwMym9JlDghA)
 
 ### concurrent
 
@@ -767,6 +771,7 @@
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
++ [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
 + [在Spring Boot中具有多个实现的接口正确注入的6种方式](https://mp.weixin.qq.com/s/Ym1AtOqPYFvRAFj2UesFzw)
 + [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
@@ -1008,8 +1013,10 @@
 + [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
 + [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
 + [速览！Spring Boot 3.3 快速实现 API 加密的最佳实践](https://mp.weixin.qq.com/s/eRIfoPzNGS8vuP5kYN5SCA)
++ [优雅！使用 Spring Boot 3.3 + @ControllerAdvice 实现全局数据绑定与预处理](https://mp.weixin.qq.com/s/gOqROy_W2tQ3dvTTjGEM3Q)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
 + [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
++ [用Spring Boot 3打造安全API：加密功能的最佳实践](https://mp.weixin.qq.com/s/68-hGigWMSJtJ9u6AOTgPg)
 + [Spring Boot 接口数据加解密，太方便了！](https://mp.weixin.qq.com/s/Kt-Brzcsay9sn7Rq6fWvhw)
 + [SpringBoot 3 新HTTP客户端工具让代码简洁又优雅，不用再用 HttpUtil](https://mp.weixin.qq.com/s/hPsnUoWSxaK88y8dvIbDkA)
 + [Spring Boot 不同HTTP客户端 同步&异步请求对比](https://mp.weixin.qq.com/s/3Pp2QRgzXqaY1XcTBACalg)
@@ -1185,6 +1192,7 @@
 + [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
 + [揭秘！为什么 Spring Boot 选择 HikariCP 作为 2.0+ 和 3.0+ 的默认数据库连接池](https://mp.weixin.qq.com/s/-pd5f4du00wZROLSK8OVtw)
 + [SpringBoot3革新：JdbcClient让JdbcTemplate成为历史，JdbcClient 更强大](https://mp.weixin.qq.com/s/OQRpSwQoKJf3THslMfJp7A)
++ [Redis与Spring Boot 3.3：快速构建高效的缓存与消息系统](https://mp.weixin.qq.com/s/EUpRqdjGo5FhZ2Ei7FaGfw)
 
 ##### TRANSACTION
 
@@ -1346,6 +1354,7 @@
 #### 配置打包部署
 
 + [告别 @Value！Spring Boot 3.3 更优雅的配置注入方式](https://mp.weixin.qq.com/s/T-KqgDVBauOW5OehKgy2Bw)
++ [使用Spring Boot集成Nacos进行配置管理](https://mp.weixin.qq.com/s/6I_pM3iFuBqPj0dr-DJNFQ)
 + [强大！Spring Boot敏感数据动态配置，这样做更安全](https://mp.weixin.qq.com/s/fKT2Y3f6dYUaxKQ_65yWtg)
 + [在 Spring Boot 中加载属性文件的7种方法](https://mp.weixin.qq.com/s/lONiORW-_t-3AMNHz19sfg)
 + [Spring Boot 3.3 Profiles深度解析：轻松管理多环境配置的终极指南](https://mp.weixin.qq.com/s/4kNADHzpW82Nxz9PvtCXJw)
@@ -1380,6 +1389,7 @@
 + [springBoot应用使用exe4j与innosetup打包为exe可执行程序手把手教学](https://mp.weixin.qq.com/s/xPzipoTNNsnlF-j7f-a06Q)
 + [Spring Boot 动态加载jar包，动态配置太强了！](https://mp.weixin.qq.com/s/YZsLmK8JE8IVRTbDhfMNSQ)
 + [源码分享 | spring-boot打包和部署](https://mp.weixin.qq.com/s/Kl4NDUXngeijUCwsu4FVaA)
++ [SpringBoot 将 jar 包和 lib 依赖分离，Dockerfile 构建镜像](https://mp.weixin.qq.com/s/87Rd_hZlH4a-korl92FbXA)
 
 #### 原理&源码
 
@@ -1586,6 +1596,10 @@
 + [“JVM” 上的AOP：Java Agent 实战](https://mp.weixin.qq.com/s/hQ-IdJXXa7rtisPn52G4CA)
 
 ## 测试相关
+
+### jmeter
+
++ [使用jmeter压测数据库](https://mp.weixin.qq.com/s/FNPzhHIYAjlVPeRhvPWgww)
 
 ### PowerMock
 

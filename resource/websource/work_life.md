@@ -36,6 +36,7 @@
 + [个人独立开发者如何找到可盈利创业想法？](https://mp.weixin.qq.com/s/lqp6d6M8bmy-221Cd2qGow)
 + [5个信号说明你该辞职了](https://mp.weixin.qq.com/s/yvYceVVZV4HeDdRI3KsXhA)
 + [为什么说程序员是一个极度劳累的工作？](https://mp.weixin.qq.com/s/2iTu38GHzASzWhPEb7hV4g)
++ [阿里员工：内推了个38岁的研发，简历到HR连评估都没过，这个年龄找工作太难了，仿佛看见未来的自己](https://mp.weixin.qq.com/s/vz6L6G9wEHfK1xEb-XjlXQ)
 
 # 个人成长
 

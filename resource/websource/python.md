@@ -159,6 +159,7 @@
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [Python __init__.py 文件的作用](https://mp.weixin.qq.com/s/0fvbBIBmtjapLOpMfxNyiQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
++ [Python进阶宝典：十个实用技巧提升代码效率](https://mp.weixin.qq.com/s/MO495CRUM9tx8CnTwwQlnA)
 + [python应用-计算两个日期的时间差](https://mp.weixin.qq.com/s/49cAQSYDcDk4DTV_PMrKjA)
 + [实现Python批量文件操作的5种方式](https://mp.weixin.qq.com/s/lR0MOXr0bNJtxHbEnZT6uQ)
 + [手把手教你做自己的Python装饰器，提升代码复用能力](https://mp.weixin.qq.com/s/bMZ_ka5e4DOVt7xvRybIZQ)
@@ -331,6 +332,7 @@
 + [【学习研究】Conda虚拟环境与Jupyter配置](https://mp.weixin.qq.com/s/zjNQJ7U-WgwMIVZ8-7Nduw)
 + [Python金融数据分析：10个金融数据挖掘的技巧](https://mp.weixin.qq.com/s/KxARCdltbmXcs-H1uolooQ)
 + [Python Turtle魔法：绘制一个会走的时钟](https://mp.weixin.qq.com/s/J0CNQX0Nu55CgSQ34wnE3A)
++ [Python 对象引用计数：最厉害的内存管理方式](https://mp.weixin.qq.com/s/VqgpzjtBiZMF55TE8W_EsQ)
 
 ## 新特性
 
@@ -357,6 +359,7 @@
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
++ [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
@@ -378,6 +381,7 @@
 + [pyOCR，一个最牛逼的Python库](https://mp.weixin.qq.com/s/iCUUC4O_M7WPzTFpr-Zjow)
 + [33pdf，一个牛逼的python库](https://mp.weixin.qq.com/s/CSOiLimra18gwf58Z1aWTA)
 + [theano，一个神奇的 Python 库！](https://mp.weixin.qq.com/s/poeuvMH-X6QUcX4ERoJKUQ)
++ [markdown2，一个超级牛逼的Python库](https://mp.weixin.qq.com/s/TPZLmLHlftl2uLhVlxrTcw)
 + [PyYAML，一个YAML解析专家的Python库！](https://mp.weixin.qq.com/s/4yHWTlA_MHlrG7SGBbXsUg)
 + [NetworkX，一个牛逼的python库](https://mp.weixin.qq.com/s/1YRNVJOXovoOTTxG5UZ1TA)
 + [watchdog，一个超强的 Python 库！](https://mp.weixin.qq.com/s/ee0hGRvDwWQV_ZCH90PTVA)
@@ -629,6 +633,7 @@
 + [每日一模块：pyquery](https://mp.weixin.qq.com/s/iuou9oFneKWnqNCcqpu8CQ)
 + [每日一模块：scrapy](https://mp.weixin.qq.com/s/fT5_xO18X4xAVdl-UO7_Pg)
 + [Python网络爬虫：15个高效爬虫开发技巧](https://mp.weixin.qq.com/s/U1X4Hx-rWBK6Prl98L3NNw)
++ [Python爬虫有哪些常见的反爬手段？](https://mp.weixin.qq.com/s/YWAEcihbrfPQ2JKn5AZb7g)
 
 ## 数据分析
 

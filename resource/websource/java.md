@@ -406,10 +406,32 @@
 
 ## concurrent库
 
+### Thread
+
 + [主线程结束了，子线程是否可以正常运行](https://mp.weixin.qq.com/s/BQSXgY7zXvHY1M5YvRwnXQ)
 + [原来，这才是 JDK 推荐的线程关闭方式](https://mp.weixin.qq.com/s/b_0ytnjkQy8yoe21EKQstw)
-+ [面试官：你说说Thread.sleep(0)的含义](https://mp.weixin.qq.com/s/9s7MwSG-kdTrFwwfPZlzlg)
++ [Java 虚拟线程探究与性能解析](https://my.oschina.net/u/4662964/blog/15646720)
++ [一万八千条线程，线程为啥释放不了？](https://mp.weixin.qq.com/s/k8uvgeOPrNLbqivFm5tXOg)
++ [美团面试：如何实现线程任务编排？](https://mp.weixin.qq.com/s/-VSQkRqNKmHHMkXdLWR1dQ)
++ [Java线程编程：简单易懂](https://mp.weixin.qq.com/s/E9uoodDxqTbMpICKZ2gqNA)
+
+### Future
+
++ [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
++ [如何使用CompletableFuture进行多个REST的并行调用](https://mp.weixin.qq.com/s/lZJTBi-yEgtNHXRF8n0SkQ)
++ [Java多线程 -- CompletableFuture（1）](https://mp.weixin.qq.com/s/3VednZRRd7xiuwZ2Igq4cw)
++ [Java多线程 -- CompletableFuture（2）](https://mp.weixin.qq.com/s/UpAGuOn80nAcikgkLH5fXw)
++ [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
++ [JUC从实战到源码：Future实战与优缺点](https://mp.weixin.qq.com/s/2FSQHphiNnyRD0a-NJN80A)
+
+### ThreadPool
+
++ [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
++ [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
 + [面试官：线程池核心线程会被销毁吗？](https://mp.weixin.qq.com/s/-klggkF2nE8O_zO_r0J0DQ)
++ [线程池中线程异常后：销毁还是复用？](https://mp.weixin.qq.com/s/P_Xg3oj_qHHRCocWqYUo9w)
++ [面试官：线程池中线程异常后，销毁还是复用？](https://mp.weixin.qq.com/s/fPH6hY1uPgV2Iqce6sMrDg)
++ [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
 + [线程池解决什么问题，为什么不推荐使用Executors创建线程池](https://mp.weixin.qq.com/s/qPCk3l9dnIosD_r09OtB1A)
 + [线程池不再乱配线程数了](https://mp.weixin.qq.com/s/D1f2Ex6Xg5wp1iOgaWWl5g)
 + [Java线程池中的submit与execute：区别、应用场景及面试必问知识点](https://mp.weixin.qq.com/s/a-cIx3uZ4sKcX91EJymVyA)
@@ -418,8 +440,26 @@
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/qY8zuTJee3fy65-Che0CxQ)
 + [线程池不再乱配线程数了](https://mp.weixin.qq.com/s/i2wHBF_u_zrUDSCpaYX0Zw)
 + [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
-+ [Java 虚拟线程探究与性能解析](https://my.oschina.net/u/4662964/blog/15646720)
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
++ [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
++ [面试官：线程池提交一个任务占多大内存？](https://mp.weixin.qq.com/s/6jjOb4fPWQTjvi1PLvAJ4w)
++ [面试官：如何自定义一个工厂类给线程池命名，我：现场手撕吗？](https://mp.weixin.qq.com/s/ffqZOZlbMApUmpnPDYPqWA)
++ [面试官：说一说如何优雅的关闭线程池，我：shutdownNow，面试官：粗鲁！](https://mp.weixin.qq.com/s/Jlk40SoEUwK1IQ88nvwGzg)
++ [线程池的拒绝策略](https://mp.weixin.qq.com/s/_l9mpFNBjbbY98Tkn19ltg)
++ [线程池中线程抛了异常，该如何处理？](https://mp.weixin.qq.com/s/Z9GJV4Pm6gGgQ9qPebA7YA)
++ [想打面试官：线程池「核心线程」用尽后为何「优先排队」而不是继续创建线程直至「最大线程数」？](https://mp.weixin.qq.com/s/R-1Wd91xNNMReSFjrtDkGw)
++ [【小白请绕道】线程池有哪些拒绝策略？](https://mp.weixin.qq.com/s/QyTG1nF4Hbin1o2Wb6kdqQ)
++ [聊一次线程池使用不当导致的生产故障](https://mp.weixin.qq.com/s/3p01lP4f5XYK6Mf_TIkZsw)
++ [8 个线程池最佳实践和坑！使用不当直接生产事故！！](https://mp.weixin.qq.com/s/cBPoIe7EHVr1s-4-blMnug)
++ [你简历写到了线程池，那么线程池监控你是怎么做的？](https://mp.weixin.qq.com/s/Xs5yrEz2qB84N6Tetn2EAw)
++ [美团二面：如果不允许线程池丢弃任务，应该选择哪个拒绝策略？](https://mp.weixin.qq.com/s/hG5BNe23yu9bK7aBaMQF_g)
++ [面试官：线程池大小设置多少，比较合适？](https://mp.weixin.qq.com/s/iAXZDcDod-vuoF3kV5Cobw)
++ [面试官：线程池核心线程设置为0时任务执行流程怎么样的](https://mp.weixin.qq.com/s/qFBuDB26h2zAFwEGhDQ6Dw)
++ [线程隔离浅析](https://my.oschina.net/OutOfMemory/blog/4282809)
++ [如何创建一个线程池，为什么不推荐使用Executors去创建呢？](https://mp.weixin.qq.com/s/psrbKohqsL4NZvADC9xNzw)
+
+### ThreadLocal
+
 + [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
 + [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
 + [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
@@ -430,45 +470,35 @@
 + [ThreadLocal详解，再也不怕面试官了](https://mp.weixin.qq.com/s/DZ978WVSd02TowYqHo1Snw)
 + [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
 + [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
+
+### Lock
+
 + [ReentrantLock最全详解(实现原理及使用场景)](https://mp.weixin.qq.com/s/8YaNN2nCdFCjUTJBKOByNw)
 + [ReentrantLock在线程池中应用背后的那些事（四）](https://mp.weixin.qq.com/s/1F_8fqcAmKCmPbsCuR43Cg)
 + [java多线程（七）AQS（AbstractQueuedSynchronizer）技术解析：以赛跑起跑场景为例](https://mp.weixin.qq.com/s/LX3Dt4BQ_djEir64uQyh-A)
-+ [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
-+ [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
-+ [ConcurrentHashMap 如何保证线程安全，jdk1.8 有什么变化？](https://mp.weixin.qq.com/s/fQS8YJwxV32xOHs0e8hlUA)
-+ [Doug Lea大师的佳作CopyOnWriteArrayList，用不好能坑死你！](https://mp.weixin.qq.com/s/hKNVHOtBhvLAt7oBwcp2fg)
-+ [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
-+ [如何使用CompletableFuture进行多个REST的并行调用](https://mp.weixin.qq.com/s/lZJTBi-yEgtNHXRF8n0SkQ)
-+ [Java多线程 -- CompletableFuture（1）](https://mp.weixin.qq.com/s/3VednZRRd7xiuwZ2Igq4cw)
-+ [Java多线程 -- CompletableFuture（2）](https://mp.weixin.qq.com/s/UpAGuOn80nAcikgkLH5fXw)
-+ [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
-+ [面试官：线程池提交一个任务占多大内存？](https://mp.weixin.qq.com/s/6jjOb4fPWQTjvi1PLvAJ4w)
-+ [面试官：如何自定义一个工厂类给线程池命名，我：现场手撕吗？](https://mp.weixin.qq.com/s/ffqZOZlbMApUmpnPDYPqWA)
 + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
 + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
-+ [JUC从实战到源码：中断机制与API实现](https://mp.weixin.qq.com/s/edHn415DvAZ8r5-WqKXC-g)
 + [AQS核心原理](https://mp.weixin.qq.com/s/wcc-Uy0DDvpi8taqFGgZ-w)
 + [Java并发编程的艺术：深入理解AQS](https://mp.weixin.qq.com/s/e9brbG3eFOnXUJZ1C9n45w)
 + [Java线程安全 -- ReentrantLock](https://mp.weixin.qq.com/s/Yme_kCSkQiJIiNpx1GYaQg)
-+ [一万八千条线程，线程为啥释放不了？](https://mp.weixin.qq.com/s/k8uvgeOPrNLbqivFm5tXOg)
-+ [面试官：说一说如何优雅的关闭线程池，我：shutdownNow，面试官：粗鲁！](https://mp.weixin.qq.com/s/Jlk40SoEUwK1IQ88nvwGzg)
-+ [线程池的拒绝策略](https://mp.weixin.qq.com/s/_l9mpFNBjbbY98Tkn19ltg)
-+ [线程池中线程抛了异常，该如何处理？](https://mp.weixin.qq.com/s/Z9GJV4Pm6gGgQ9qPebA7YA)
-+ [想打面试官：线程池「核心线程」用尽后为何「优先排队」而不是继续创建线程直至「最大线程数」？](https://mp.weixin.qq.com/s/R-1Wd91xNNMReSFjrtDkGw)
-+ [【小白请绕道】线程池有哪些拒绝策略？](https://mp.weixin.qq.com/s/QyTG1nF4Hbin1o2Wb6kdqQ)
-+ [聊一次线程池使用不当导致的生产故障](https://mp.weixin.qq.com/s/3p01lP4f5XYK6Mf_TIkZsw)
-+ [美团面试：如何实现线程任务编排？](https://mp.weixin.qq.com/s/-VSQkRqNKmHHMkXdLWR1dQ)
-+ [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
-+ [8 个线程池最佳实践和坑！使用不当直接生产事故！！](https://mp.weixin.qq.com/s/cBPoIe7EHVr1s-4-blMnug)
-+ [你简历写到了线程池，那么线程池监控你是怎么做的？](https://mp.weixin.qq.com/s/Xs5yrEz2qB84N6Tetn2EAw)
++ [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
++ [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
++ [Java并发基础：LockSupport](https://mp.weixin.qq.com/s/iEZbIJ-X8QkakaA7-oOr7A)
+
+### ConcurrentHashMap
+
++ [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
++ [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
++ [ConcurrentHashMap 如何保证线程安全，jdk1.8 有什么变化？](https://mp.weixin.qq.com/s/fQS8YJwxV32xOHs0e8hlUA)
+
+### 其它
+
++ [面试官：你说说Thread.sleep(0)的含义](https://mp.weixin.qq.com/s/9s7MwSG-kdTrFwwfPZlzlg)
++ [高并发下的计数器，为什么阿里不推荐使用 AtomicLong？](https://mp.weixin.qq.com/s/YW_gSiYkVPvqQhDNPA1pmw)
++ [Doug Lea大师的佳作CopyOnWriteArrayList，用不好能坑死你！](https://mp.weixin.qq.com/s/hKNVHOtBhvLAt7oBwcp2fg)
++ [JUC从实战到源码：中断机制与API实现](https://mp.weixin.qq.com/s/edHn415DvAZ8r5-WqKXC-g)
 + [JUC组件实战：实现Java与硬件（通过MQTT）的同步通信](https://mp.weixin.qq.com/s/8oIi_OWZkpDQ2lD98VODQQ)
-+ [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
-+ [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
-+ [Java线程编程：简单易懂](https://mp.weixin.qq.com/s/E9uoodDxqTbMpICKZ2gqNA)
-+ [线程池中线程异常后：销毁还是复用？](https://mp.weixin.qq.com/s/P_Xg3oj_qHHRCocWqYUo9w)
-+ [线程池中线程异常后的处理策略：销毁还是复用？](https://mp.weixin.qq.com/s/5JlduZfppa6ndVynO2J6IQ)
 + [面试官：实战中用过CountDownLatch吗？详细说一说，我：啊这...](https://mp.weixin.qq.com/s/EXvwcdEFmKLJILkOZ8byuw)
-+ [面试官：线程池中线程异常后，销毁还是复用？](https://mp.weixin.qq.com/s/fPH6hY1uPgV2Iqce6sMrDg)
 + [面试官必问：线程池最佳核心线程数该如何确定？](https://mp.weixin.qq.com/s/8-R03gVbMg4acNZQQ0pWqw)
 + [【多线程与高并发】Exchanger原理、示例、讲解](https://mp.weixin.qq.com/s/Tdz-bN7M4ORPHZx-qsLpfw)
 + [Java进阶篇 -- 线程同步（cyclicbarrier）](https://mp.weixin.qq.com/s/QtZoRXQjh2IfQ1MnLgi3TQ)
@@ -478,18 +508,8 @@
 + [Java中的Semaphore：灵活控制并发访问的秘诀](https://mp.weixin.qq.com/s/h0h9dPj7n6oEVwDmPM4XeA)
 + [JAVA并发编程系列之Semaphore信号量剖析](https://mp.weixin.qq.com/s/C-DBUmGVdNstdOa0LezaWA)
 + [Java进阶篇 -- 线程同步（CountDownLatch）](https://mp.weixin.qq.com/s/BNs_m3Np-dVvOL2EqPLLCw)
-+ [如何创建一个线程池，为什么不推荐使用Executors去创建呢？](https://mp.weixin.qq.com/s/psrbKohqsL4NZvADC9xNzw)
-+ [JUC从实战到源码：Future实战与优缺点](https://mp.weixin.qq.com/s/2FSQHphiNnyRD0a-NJN80A)
-+ [美团二面：如果不允许线程池丢弃任务，应该选择哪个拒绝策略？](https://mp.weixin.qq.com/s/hG5BNe23yu9bK7aBaMQF_g)
-+ [面试官：线程池大小设置多少，比较合适？](https://mp.weixin.qq.com/s/iAXZDcDod-vuoF3kV5Cobw)
-+ [面试官：线程池核心线程设置为0时任务执行流程怎么样的](https://mp.weixin.qq.com/s/qFBuDB26h2zAFwEGhDQ6Dw)
-+ [线程隔离浅析](https://my.oschina.net/OutOfMemory/blog/4282809)
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
 + [BlockingQueue 示例及使用场景](https://mp.weixin.qq.com/s/-OLHoAUTkK3jrOxwM0w6gg)
-+ [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
-+ [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
-+ [Java并发基础：LockSupport](https://mp.weixin.qq.com/s/iEZbIJ-X8QkakaA7-oOr7A)
-+ [高并发下的计数器，为什么阿里不推荐使用 AtomicLong？](https://mp.weixin.qq.com/s/YW_gSiYkVPvqQhDNPA1pmw)
 
 ## IO/NIO
 
@@ -1560,7 +1580,6 @@
 + [别再乱打日志了，这份 Java 日志规范，应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/xxJRkJorWpmRfCG5b8mllw)
 + [logback VS log4j2：一倍左右的性能差异，是时候注意了！](https://mp.weixin.qq.com/s/qDvBY7ufgMVEeDajV7REBQ)
 + [EasyLogger，一款轻量级且高性能的日志库，不一样的打印输出](https://mp.weixin.qq.com/s/DXpSswLvvNdscIXbD0xHkg)
-
 
 ## MapStruct
 

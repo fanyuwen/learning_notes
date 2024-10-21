@@ -545,74 +545,82 @@
 
 ## spring
 
-+ [001架构师必修之java框架篇：春天（spring）来了](https://mp.weixin.qq.com/s/rUi2xxs_crWVaDUaZwNzAA)
-+ [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
-+ [这才是Spring为什么不支持static字段注入的原因【源码分析】](https://mp.weixin.qq.com/s/YrFHt3J5ALdeXe9TNMjBXg)
-+ [Spring IoC和AoP重点总结](https://mp.weixin.qq.com/s/7uiNuOyxinwIT-7Fg0dc9g)
-+ [还记得Spring这2个强大的配置类吗？](https://mp.weixin.qq.com/s/4PXOfx-Cm-ci8S0b3bmCXQ)
-+ [Spring 纯注解开发，有点强！！](https://mp.weixin.qq.com/s/gUbXshBZQtW6SX-Q84y74g)
-+ [Spring强大的@Configurable注解使用过吗？注意不是@Configuration](https://mp.weixin.qq.com/s/k30BQeXqjZXJhx5dlKXiQQ)
-+ [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
-+ [你知道Spring一共有几种注入方式么？](https://mp.weixin.qq.com/s/8jMhUHPCeBX5VGBlB67qAg)
-+ [Spring纯注解开发，有点强！！](https://mp.weixin.qq.com/s/YFLUrWpIkhCuHsO7OA2p5g)
-+ [Java 反射机制与Spring框架的那点事](https://mp.weixin.qq.com/s/6LzVNUn4yG8yVnT_nD_SEw)
-+ [为什么Spring不推荐使用@Autowired进行字段注入？](https://mp.weixin.qq.com/s/DVbtuwY6uWA5eiV7sR_ljw)
-+ [Spring的SmartLifecycle可以没用过，但没听过就不好了！ - 第517篇](https://mp.weixin.qq.com/s/bhaoZQ65H7ULnYZ3DkfeNw)
-+ [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
-+ [Spring这些内置工具类，你用过几个？](https://mp.weixin.qq.com/s/VQmzMCFrlqWL9eUy-mhuZg)
-+ [5种从jar中读取文件的方式，你会几种？](https://mp.weixin.qq.com/s/S2jGNJglGjsG_IR27ZCfAA)
-+ [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
+### 核心基础概念
+
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
-+ [Spring非常强大的2个类知道的人不多](https://mp.weixin.qq.com/s/FJGuP4_u4Xkxfz0Xxf2igw)
-+ [还在用 System.currentTimeMillis() 统计代码耗时？太 Low 啦](https://mp.weixin.qq.com/s/k_7QVLDuCPmHV3wRoMgOsw)
++ [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/daKijLOpH8L_zTXUf1mC_g)
++ [Spring学习笔记 | 控制反转IoC与依赖注入DI](https://mp.weixin.qq.com/s/fwiO1DNrcmCQlSXszqBU8Q)
++ [spring框架IOC和AOP源码解析](https://mp.weixin.qq.com/s/jbswKLT7RR8E1I-41NqXGQ)
++ [Spring框架FactoryBean接口的作用和应用](https://mp.weixin.qq.com/s/whAOWGlthyfbNWfUuCYrUg)
++ [面试官：Spring Bean 的生命周期都不会，你走吧下一位](https://mp.weixin.qq.com/s/DzyhSuuwsgrv4azL-Z1ccQ)
++ [11张图：帮你搞定 Spring Bean 生命周期](https://mp.weixin.qq.com/s/_4IoJO5Ybmw4RpudwrNRDA)
++ [还在用 @Autowired 和 @Resource 方式实现依赖注入吗？](https://mp.weixin.qq.com/s/f7rxzCM1U14fpp7TWWWM5A)
++ [这才是Spring为什么不支持static字段注入的原因【源码分析】](https://mp.weixin.qq.com/s/YrFHt3J5ALdeXe9TNMjBXg)
++ [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
++ [Spring IoC和AoP重点总结](https://mp.weixin.qq.com/s/7uiNuOyxinwIT-7Fg0dc9g)
++ [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
++ [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/TGsjeOEwmjVSuOX3LWR90Q)
++ [你知道Spring一共有几种注入方式么？](https://mp.weixin.qq.com/s/8jMhUHPCeBX5VGBlB67qAg)
++ [Java 反射机制与Spring框架的那点事](https://mp.weixin.qq.com/s/6LzVNUn4yG8yVnT_nD_SEw)
++ [Spring的SmartLifecycle可以没用过，但没听过就不好了！ - 第517篇](https://mp.weixin.qq.com/s/bhaoZQ65H7ULnYZ3DkfeNw)
 + [Spring中Bean的生命周期，让你瞬间通透~](https://mp.weixin.qq.com/s/Hc0TnehzJyW-ur-HWa6oSA)
++ [Spring如何解决循环依赖](https://mp.weixin.qq.com/s/4_adcai_Yas3jW7Q9TUrYQ)
++ [图解 Spring 循环依赖，写得太好了！](https://mp.weixin.qq.com/s/FtbzTMxHgzL0G1R2pSlh-A)
++ [一文搞懂 Spring 循环依赖](https://mp.weixin.qq.com/s/Sq0kt-fCsitxZvYFVNKidw)
++ [为什么Spring不推荐使用@Autowired进行字段注入？](https://mp.weixin.qq.com/s/DVbtuwY6uWA5eiV7sR_ljw)
++ [面试官：为什么 Spring 和 IDEA 都不推荐使用 @Autowired 注解？？](https://mp.weixin.qq.com/s/3O4OVUfd5UgGjHLiovtGxA)
 + [Spring应用启动后，我们想在某个实例的初始化方法前后执行一些操作怎么办？浅谈BeanPostProcessor接口的应用](https://mp.weixin.qq.com/s/mF9-i5xoMbvqLOvoxxf5tg)
 + [在Spring Bean生命周期的不同阶段如何插入自定义的处理逻辑？Spring框架提供了两种类型的接口](https://mp.weixin.qq.com/s/9fC8YwLpfxESOtfOpDb5lQ)
 + [Spring框架Bean生命周期的5个阶段及举例说明](https://mp.weixin.qq.com/s/i3jqP5-XES-5xpw4-BTQ_w)
-+ [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/TGsjeOEwmjVSuOX3LWR90Q)
-+ [你了解的 Spring 都用到哪些设计模式？](https://mp.weixin.qq.com/s/QUAL9tBV6nXvLrzGC37fGQ)
-+ [Spring 中如何控制 Bean 的加载顺序？](https://mp.weixin.qq.com/s/a37zVQ7h-Iz4LEP1fiks2Q)
-+ [Spring 的自动装配方式你都答的出来吗？](https://mp.weixin.qq.com/s/Mv8VPxyx6_bV5QlpQ32wIQ)
-+ [Spring学习笔记 | 控制反转IoC与依赖注入DI](https://mp.weixin.qq.com/s/fwiO1DNrcmCQlSXszqBU8Q)
-+ [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/daKijLOpH8L_zTXUf1mC_g)
-+ [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/SSsQs5Q9XESkbpBK7MD-AQ)
-+ [面试官：为什么 Spring 和 IDEA 都不推荐使用 @Autowired 注解？？](https://mp.weixin.qq.com/s/3O4OVUfd5UgGjHLiovtGxA)
-+ [Spring如何解决循环依赖](https://mp.weixin.qq.com/s/4_adcai_Yas3jW7Q9TUrYQ)
-+ [Spring 定时任务与 XXL-JOB 灵活切换方案](https://mp.weixin.qq.com/s/FckmkpilPagrRBzEl6fkMQ)
-+ [SpringBoot+XXL-JOB：高效定时任务管理](https://mp.weixin.qq.com/s/VTUiGmS-aOXQvJvkxj6-mA)
-+ [谈谈 Spring 中 Bean 的生命周期？（让你瞬间通透~）](https://mp.weixin.qq.com/s/4AxBJFGM4Aj5FT3ZsDVA3w)
-+ [一问三不知：你知道如何控制 Spring Bean 的加载顺序吗？](https://mp.weixin.qq.com/s/Zx6ppzzxLx0QCZYmanieNw)
-+ [spring框架IOC和AOP源码解析](https://mp.weixin.qq.com/s/jbswKLT7RR8E1I-41NqXGQ)
-+ [Spring中11个最常用的扩展点，你知道几个？](https://mp.weixin.qq.com/s/vRWMtR4pyCtUz1qkHm7N5g)
-+ [还在用 @Autowired 和 @Resource 方式实现依赖注入吗？](https://mp.weixin.qq.com/s/f7rxzCM1U14fpp7TWWWM5A)
-+ [一文搞懂 Spring 循环依赖](https://mp.weixin.qq.com/s/Sq0kt-fCsitxZvYFVNKidw)
-+ [Spring入门到精通-日志体系](https://mp.weixin.qq.com/s/WPFoOFPII8yHR2W2_Z1EEg)
-+ [Spring IOC源码阅读(三)-Spring IOC容器的初始化过程](https://mp.weixin.qq.com/s/xTbohHZQhEr0PBASxS6xHQ)
-+ [11张图：帮你搞定 Spring Bean 生命周期](https://mp.weixin.qq.com/s/_4IoJO5Ybmw4RpudwrNRDA)
-+ [图解 Spring 循环依赖，写得太好了！](https://mp.weixin.qq.com/s/FtbzTMxHgzL0G1R2pSlh-A)
-+ [掌握Spring这些注入技巧让你事半功倍](https://mp.weixin.qq.com/s/hKd1gvAXfC8vNQj4lyuN4w)
-+ [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
-+ [Spring框架FactoryBean接口的作用和应用](https://mp.weixin.qq.com/s/whAOWGlthyfbNWfUuCYrUg)
-+ [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
-+ [Spring EL 表达式的简单介绍和使用](https://mp.weixin.qq.com/s/tlIilEXRwlVwbQHu9b4LJQ)
-+ [高手必学的Spring两个重要接口！](https://mp.weixin.qq.com/s/mmmL7Z49g9XNBjMBBjV3Jg)
-+ [Spring Event 别瞎用！从我司的悲剧中，我总结了6 条最佳实践！](https://mp.weixin.qq.com/s/wzwjeX6Qevd1wOvymEiGaA)
-+ [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ)
-+ [如何阅读 Spring 源码？](https://www.diguage.com/post/how-to-read-spring-sources/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
-+ [Spring @DependsOn注解解析](https://mp.weixin.qq.com/s/dAb2zeUR9u9WrCllUeXznw)
-+ [深入剖析 Spring 核心数据结构：BeanDefinition](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-definition/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
-+ [Spring 扩展点概览及实践](https://www.diguage.com/post/spring-extensions-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [Spring中Bean的生命周期](https://mp.weixin.qq.com/s/6Eq-mh5cg3s6luLfjYb89w)
-+ [浅谈Spring的多例Bean——Prototype原型](https://mp.weixin.qq.com/s/IpiIU39MG8bHDRNQImvnjw)
-+ [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
-+ [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
-+ [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
-+ [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
-+ [spring下自动装配的各种模式？](https://mp.weixin.qq.com/s/fHU_Lna03MJ12NjnGcIk-w)
-+ [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
++ [谈谈 Spring 中 Bean 的生命周期？（让你瞬间通透~）](https://mp.weixin.qq.com/s/4AxBJFGM4Aj5FT3ZsDVA3w)
++ [Spring 中如何控制 Bean 的加载顺序？](https://mp.weixin.qq.com/s/a37zVQ7h-Iz4LEP1fiks2Q)
++ [一问三不知：你知道如何控制 Spring Bean 的加载顺序吗？](https://mp.weixin.qq.com/s/Zx6ppzzxLx0QCZYmanieNw)
++ [Spring 的自动装配方式你都答的出来吗？](https://mp.weixin.qq.com/s/Mv8VPxyx6_bV5QlpQ32wIQ)
 + [我100%确定，你对@ComponentScan注解的了解仅限于皮毛](https://mp.weixin.qq.com/s/C3Y2tyGaYodW3uqaocyF7w)
 + [BeanFactory和ApplicationContext有什么区别？](https://mp.weixin.qq.com/s/th1u5F8rHPmenB2I8hYXhA)
 + [《Spring6》第15节：Bean的生命周期接口之BeanNameAware和BeanFactoryAware介绍](https://mp.weixin.qq.com/s/wSnvun1ep5bqJtPzB_MLzA)
++ [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
++ [Spring EL 表达式的简单介绍和使用](https://mp.weixin.qq.com/s/tlIilEXRwlVwbQHu9b4LJQ)
+
+#### 配置
+
++ [还记得Spring这2个强大的配置类吗？](https://mp.weixin.qq.com/s/4PXOfx-Cm-ci8S0b3bmCXQ)
++ [Spring强大的@Configurable注解使用过吗？注意不是@Configuration](https://mp.weixin.qq.com/s/k30BQeXqjZXJhx5dlKXiQQ)
++ [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
+
+#### 工具
+
++ [Spring这些内置工具类，你用过几个？](https://mp.weixin.qq.com/s/VQmzMCFrlqWL9eUy-mhuZg)
++ [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
++ [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
++ [还在用 System.currentTimeMillis() 统计代码耗时？太 Low 啦](https://mp.weixin.qq.com/s/k_7QVLDuCPmHV3wRoMgOsw)
++ [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ)
+
+#### 高阶使用
+
++ [Spring 纯注解开发，有点强！！](https://mp.weixin.qq.com/s/gUbXshBZQtW6SX-Q84y74g)
++ [掌握Spring这些注入技巧让你事半功倍](https://mp.weixin.qq.com/s/hKd1gvAXfC8vNQj4lyuN4w)
++ [Spring纯注解开发，有点强！！](https://mp.weixin.qq.com/s/YFLUrWpIkhCuHsO7OA2p5g)
++ [5种从jar中读取文件的方式，你会几种？](https://mp.weixin.qq.com/s/S2jGNJglGjsG_IR27ZCfAA)
++ [Spring非常强大的2个类知道的人不多](https://mp.weixin.qq.com/s/FJGuP4_u4Xkxfz0Xxf2igw)
++ [你了解的 Spring 都用到哪些设计模式？](https://mp.weixin.qq.com/s/QUAL9tBV6nXvLrzGC37fGQ)
++ [Spring中11个最常用的扩展点，你知道几个？](https://mp.weixin.qq.com/s/vRWMtR4pyCtUz1qkHm7N5g)
++ [spring下自动装配的各种模式？](https://mp.weixin.qq.com/s/fHU_Lna03MJ12NjnGcIk-w)
++ [Spring框架——@Retryable注解与@Recover注解](https://mp.weixin.qq.com/s/k08oGg7_uYXQR4L95XnGiw)
++ [Spring 扩展点概览及实践](https://www.diguage.com/post/spring-extensions-overview/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [高手必学的Spring两个重要接口！](https://mp.weixin.qq.com/s/mmmL7Z49g9XNBjMBBjV3Jg)
++ [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
+
+#### 原理&源码
+
++ [001架构师必修之java框架篇：春天（spring）来了](https://mp.weixin.qq.com/s/rUi2xxs_crWVaDUaZwNzAA)
++ [Spring IOC源码阅读(三)-Spring IOC容器的初始化过程](https://mp.weixin.qq.com/s/xTbohHZQhEr0PBASxS6xHQ)
++ [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [浅谈Spring的多例Bean——Prototype原型](https://mp.weixin.qq.com/s/IpiIU39MG8bHDRNQImvnjw)
++ [深入剖析 Spring 核心数据结构：BeanDefinition](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-definition/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [Spring @DependsOn注解解析](https://mp.weixin.qq.com/s/dAb2zeUR9u9WrCllUeXznw)
++ [如何阅读 Spring 源码？](https://www.diguage.com/post/how-to-read-spring-sources/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 
 ### 新版本新特性
 
@@ -654,6 +662,8 @@
 + [浅析 Spring 中 Async 注解底层异步线程池原理](https://my.oschina.net/u/5783135/blog/11209054)
 + [Quartz vs Spring Schedule：对比分析，助你选型](https://mp.weixin.qq.com/s/DFXb0hBPZo5MKPRsw00h7w)
 + [Java多线程 -- 定时任务](https://mp.weixin.qq.com/s/qBk3yD6A8EtzHyDMVsXMHw)
++ [Spring 定时任务与 XXL-JOB 灵活切换方案](https://mp.weixin.qq.com/s/FckmkpilPagrRBzEl6fkMQ)
++ [SpringBoot+XXL-JOB：高效定时任务管理](https://mp.weixin.qq.com/s/VTUiGmS-aOXQvJvkxj6-mA)
 
 ### security
 
@@ -700,6 +710,10 @@
 + [【JavaEE进阶】Spring中事务的实现](https://mp.weixin.qq.com/s/WbszuyzCMBNW2leM8p2P-A)
 + [深入解析 @Transactional 作用于私有方法时事务失效的原因](https://mp.weixin.qq.com/s/7wIsaeP1Ga1KIwSuPtEIFw)
 
+### Log
+
++ [Spring入门到精通-日志体系](https://mp.weixin.qq.com/s/WPFoOFPII8yHR2W2_Z1EEg)
+
 ### 设计模式
 
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
@@ -722,6 +736,7 @@
 ### EVENT
 
 + [Spring事件（Application Event）](https://mp.weixin.qq.com/s/fCD-5-j1S3qTAE2XNwpgww)
++ [Spring Event 别瞎用！从我司的悲剧中，我总结了6 条最佳实践！](https://mp.weixin.qq.com/s/wzwjeX6Qevd1wOvymEiGaA)
 
 ### AOP
 

@@ -112,6 +112,7 @@
 + [（2.1.0）C语言编程入门 -- 开发环境搭建 -- VSCode + MinGW（2）](https://mp.weixin.qq.com/s/YptY0YY-_17elC8MavykBQ)
 + [（2.4）C语言编程入门 -- C 基础语法](https://mp.weixin.qq.com/s/EZDssKfpIYeONqVbNhDgSw)
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
++ [（2.12）C语言编程入门 -- 函数进阶 - 声明与调用](https://mp.weixin.qq.com/s/MJ7ufgYWpIM11vPqDz5aKQ)
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)

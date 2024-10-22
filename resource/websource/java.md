@@ -34,6 +34,7 @@
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
 + [测开必备-java基础-while与do while的教程](https://mp.weixin.qq.com/s/YfdIKscYPofKKQK8awRmYA)
++ [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
 
 ## 新语言特性
 
@@ -130,6 +131,7 @@
 + [如何将两个同样大小的List组装成一个Map？](https://mp.weixin.qq.com/s/OF2ZT9Xf0A8b2EXMXxB60w)
 + [减少代码的神器：函数式接口和Lambda表达式](https://mp.weixin.qq.com/s/dq_QZS_XueUEd2ZX7QjZOg)
 + [Java如何优雅地判断对象是否为空](https://mp.weixin.qq.com/s/0XTu09hFts_uZkKKmCcVDA)
++ [多线程交替顺序打印ABC的多种方式](https://mp.weixin.qq.com/s/_v0yTJZEziZQ9LQ1Y2-9Pg)
 
 ## 代码质量
 
@@ -205,6 +207,7 @@
 + [【多线程与高并发】锁的特性](https://mp.weixin.qq.com/s/kMXwY_mvvmWpq1VlVnRdug)
 + [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
 + [【多线程与高并发】异常跟锁](https://mp.weixin.qq.com/s/NUyMPA5qCKG4DV3GRW8qgQ)
++ [【多线程与高并发】为什么用 final 修饰的变量就是线程安全的了呢？](https://mp.weixin.qq.com/s/XPCYfC-6BJlcGfW8cpJg-w)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/ojn7fJorJYZTvGL4WGMmkg)
@@ -842,6 +845,7 @@
 + [最佳实践！使用 Enum 实现 Spring Boot 3.3 高效配置管理](https://mp.weixin.qq.com/s/GY8L5boPVHiZkkW5pLTU8A)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
++ [踩了一堆坑，终于把微服务系统全面升级 JDK17 和 SpringBoot3 了](https://my.oschina.net/sticki/blog/15909409)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
@@ -1083,6 +1087,7 @@
 + [超赞！Spring Boot 3.3 自带 Controller 接口监控，大家赶紧用起来](https://mp.weixin.qq.com/s/B5VzAPXIENDB-UK_OK2BjQ)
 + [神器！SpringBoot 3.3 中实现 API 接口限流就是这么简单](https://mp.weixin.qq.com/s/w5ykZUftwLnPk1LpcEJ-xg)
 + [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
++ [优雅！Spring Boot 3.3 搭配 JSON Schema 实现灵活的 JSON 数据定义与验证](https://mp.weixin.qq.com/s/Xaypx5KNIBbUjgbH6fsluA)
 + [高效应对内存溢出！Spring Boot 3.3 大文件处理全攻略](https://mp.weixin.qq.com/s/GBGGZAKW2QkgBObIY97B1w)
 + [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
 + [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
@@ -1230,6 +1235,7 @@
 #### DATA
 
 + [Spring Boot 3.2 新特性：JdbcClient](https://mp.weixin.qq.com/s/ZbQhjf1AXJdpRoMgsk04cw)
++ [Spring Boot 3.3与MongoDB：高效的NoSQL数据访问指南](https://mp.weixin.qq.com/s/UUzTstE38PFfKHjIZlrnFg)
 + [SpringBoot3.32+Sharding Sphere5.5+Mybatis-plus：轻松搞定数据加解密，支持字段级！](https://mp.weixin.qq.com/s/1lpwQHwtyq2Ul3gJI9V_Bw)
 + [springboot3集成MyBatis-Plus(四)](https://mp.weixin.qq.com/s/kCIrehCbTG32CKxqv_SXXg)
 + [Spring Boot 整合 Redis：入门篇](https://mp.weixin.qq.com/s/QLR91bJstp-mNWsXhmCT7g)
@@ -1642,6 +1648,7 @@
 
 + [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
++ [决定弃用 Nacos 了！](https://mp.weixin.qq.com/s/X_9xRXBV2Y7gqBTem4lq3Q)
 
 ## dubbo
 
@@ -1665,6 +1672,7 @@
 ## openFeign
 
 + [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
++ [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
 
 ## 字节码相关
 
@@ -1692,6 +1700,7 @@
 ## 其它工具
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
++ [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [Jmeter最全详解(手把手教你4步使用)](https://mp.weixin.qq.com/s/Y9tJidOwrp4ZJ_C3fZVAxw)
 + [致远-常用的工具类（一）](https://mp.weixin.qq.com/s/lBxYmh1iQmwa_okNY9mHKw)
 + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
@@ -1740,6 +1749,7 @@
 + [编程高手的选择：SMTP with Java，一个高效的Java库](https://mp.weixin.qq.com/s/06IrK1JdKseNKjC6BvpVTA)
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架吧](https://mp.weixin.qq.com/s/2D3H9pjlDA9yQz3GTqBUdg)
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架~](https://mp.weixin.qq.com/s/xFw9qjpX3qo9bmivvcgUGQ)
++ [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/FvLZP8Y6NxbdsHiv9KjRuA)
 
 # 其它环境
 

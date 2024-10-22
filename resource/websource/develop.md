@@ -47,6 +47,7 @@
 + [架构师必备底层逻辑：分层架构设计](https://mp.weixin.qq.com/s/t3tQbaAEAj-Uqclz0SSaMw)
 + [系统设计的终极目标，高可用、高吞吐、高扩展](https://mp.weixin.qq.com/s/ld_ULZmkKjK_PqOS3hFaDQ)
 + [架构设计原则：选择 SPI 还是 API ？](https://mp.weixin.qq.com/s/PnnX6v9S7waCfwCczZ-3Qg)
++ [复用的双刃剑：软件工程里的悖论与挑战](https://my.oschina.net/u/4662964/blog/16269631)
 
 ### DDD
 

@@ -148,9 +148,6 @@
 + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
 + [你见过哪些目瞪口呆的 Java 代码技巧？](https://mp.weixin.qq.com/s/b7IhiafHpoH99uSe4uApcQ)
 + [为什么更推荐使用组合而非继承关系？](https://mp.weixin.qq.com/s/nUR8wsKHUy22_fSrZpgJyg)
-+ [争议不断的问题：金额到底是用Long还是BigDecimal？](https://mp.weixin.qq.com/s/Uy2dmOSOJjXnAMcFD6oeYg)
-+ [BigDecimal的雷区，千万不要踩！](https://mp.weixin.qq.com/s/861Sk5i6DxOAqPi-UN9Dvg)
-+ [不掌握BigDecimal的四大坑你敢用吗？](https://mp.weixin.qq.com/s/FHOts-kR6JTz2b9q8hupNw)
 + [常见 Java 代码缺陷及规避方式](https://my.oschina.net/u/4662964/blog/11048605)
 + [还在用 list.contain 做去重？该换换了！](https://mp.weixin.qq.com/s/khw8reFOHj1u06KpfbhSVw)
 + [减少 try catch ，可以这样干！](https://mp.weixin.qq.com/s/dr788-sSHlAwTrAb0qzEBw)
@@ -162,8 +159,6 @@
 + [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s/h46rRPLAr5PW18rOxnCbzA)
 + [CTO：再写if-else，逮着罚款1000！](https://mp.weixin.qq.com/s/1gogrw-_4IIiruY56rgSZQ)
 + [代码质量一塌糊涂，特么离职了，新来的人都不知道从哪里，今天分享高质量命名方法论给你](https://mp.weixin.qq.com/s/q0qSgJjVbmezh0O_WBiEzA)
-+ [ConcurrentHashMap中有十个提升性能的细节，你都知道吗？](https://mp.weixin.qq.com/s/vZZQeWaKQ2pbUDyyqpzunQ)
-+ [告警：线上慎用 BigDecimal ！](https://mp.weixin.qq.com/s/Sj4BWdfC0ay0C79IrbBgMQ)
 + [枚举虽好，但务必记得避坑](https://mp.weixin.qq.com/s/phxnDdSLLyrnedCpQFj2gA)
 + [昨天在 for 循环里拼接字符串的那个同事，今天已经不在了](https://mp.weixin.qq.com/s/fpHfDfxk9NCHt3jQ6XllQw)
 + [为啥要尽量避免使用字符串呢](https://mp.weixin.qq.com/s/TuKtIj2K8JAGJL03O9eiJQ)
@@ -363,6 +358,10 @@
 ## math库
 
 + [公司新来一个同事，把 BigDecimal 运用的炉火纯青！](https://mp.weixin.qq.com/s/xV8aHMJ9CKgXbxZGdWfAgg)
++ [BigDecimal的雷区，千万不要踩！](https://mp.weixin.qq.com/s/861Sk5i6DxOAqPi-UN9Dvg)
++ [不掌握BigDecimal的四大坑你敢用吗？](https://mp.weixin.qq.com/s/FHOts-kR6JTz2b9q8hupNw)
++ [争议不断的问题：金额到底是用Long还是BigDecimal？](https://mp.weixin.qq.com/s/Uy2dmOSOJjXnAMcFD6oeYg)
++ [告警：线上慎用 BigDecimal ！](https://mp.weixin.qq.com/s/Sj4BWdfC0ay0C79IrbBgMQ)
 
 ## util库
 
@@ -515,6 +514,7 @@
 + [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
 + [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
 + [ConcurrentHashMap 如何保证线程安全，jdk1.8 有什么变化？](https://mp.weixin.qq.com/s/fQS8YJwxV32xOHs0e8hlUA)
++ [ConcurrentHashMap中有十个提升性能的细节，你都知道吗？](https://mp.weixin.qq.com/s/vZZQeWaKQ2pbUDyyqpzunQ)
 
 ### 其它
 

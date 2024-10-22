@@ -156,7 +156,7 @@
 + [答应我， 不要再用 if (obj != null) 判空了](https://mp.weixin.qq.com/s/Y0c7r8Vhqc-x5SEwNGvTNQ)
 + [代码手术刀 - 自定义你的代码重构工具](https://my.oschina.net/u/4090830/blog/11032974)
 + [关于 Java 异常处理的 9 条原则](https://my.oschina.net/u/6903207/blog/11053313)
-+ [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s/h46rRPLAr5PW18rOxnCbzA)
+
 + [CTO：再写if-else，逮着罚款1000！](https://mp.weixin.qq.com/s/1gogrw-_4IIiruY56rgSZQ)
 + [代码质量一塌糊涂，特么离职了，新来的人都不知道从哪里，今天分享高质量命名方法论给你](https://mp.weixin.qq.com/s/q0qSgJjVbmezh0O_WBiEzA)
 + [枚举虽好，但务必记得避坑](https://mp.weixin.qq.com/s/phxnDdSLLyrnedCpQFj2gA)
@@ -411,6 +411,7 @@
 + [Java集合工具天天用，但有些原理还是懵逼的](https://mp.weixin.qq.com/s/vwSxHNUUJpUBsLlUU6EkGg)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
 + [Java8 HashMap 的那些高级操作](https://mp.weixin.qq.com/s/-vrRVec1msPrF9QSiDGJrA)
++ [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s/h46rRPLAr5PW18rOxnCbzA)
 
 ### Optional
 

@@ -139,6 +139,7 @@
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
 + [分布式ID介绍](https://mp.weixin.qq.com/s/8QNqS83AyKSmJW_JTXRoyQ)
 + [美团一面：你能阐述一下CAP理论的基本概念和核心思想？说说它有哪些分布模型以及如何抉择？](https://mp.weixin.qq.com/s/U05xcnTpAl0OPcgMkdAP-g)
++ [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 
 ## 分布式锁
 
@@ -484,6 +485,7 @@
 ### 正则表达式
 
 + [正则表达式：破解文本世界的终极密码](https://mp.weixin.qq.com/s/bWY56d3bWP0ij2LcYC31Hg)
++ [正则表达式优化建议](https://mp.weixin.qq.com/s/wU6gGbx7ec_FTWs9BQ3Ugw)
 
 ### 序列化
 
@@ -565,6 +567,7 @@
 ### 团队管理
 
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
++ [随笔｜闲扯前端工程化⑦---团队是否要用云开发？](https://mp.weixin.qq.com/s/oZF_JCfkTup1fyX6b2xO_g)
 
 ## 数据治理
 

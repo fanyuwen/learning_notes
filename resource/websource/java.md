@@ -27,6 +27,13 @@
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
 + [为什么要使用泛型？使用泛型带给你的好处有哪些 ？](https://mp.weixin.qq.com/s/oCIuao07Brok-T0FPzu17w)
 + [来聊聊Java中的可变参数](https://mp.weixin.qq.com/s/6iVBZLHejYbL3pCzVZei8Q)
++ [Java学习笔记——数据结构](https://mp.weixin.qq.com/s/pPSAOHtdCtr6P7-L01Ms1Q)
++ [Java接口详解](https://mp.weixin.qq.com/s/2Sfct1_jTAqbN4X_SQuPsw)
++ [Java学习笔记——面向对象编程（高级上）](https://mp.weixin.qq.com/s/cQ1YrWg0bpf_XuuKx5V98A)
++ [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
++ [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
++ [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
++ [测开必备-java基础-while与do while的教程](https://mp.weixin.qq.com/s/YfdIKscYPofKKQK8awRmYA)
 
 ## 新语言特性
 
@@ -95,8 +102,6 @@
 + [接口优于反射机制](https://mp.weixin.qq.com/s/6nTk57AHhyU7z7RWeY4k5g)
 + [那些依赖于`!=null`的日子已经结束了](https://mp.weixin.qq.com/s/18VtG22mx91S8J9A5-JuIw)
 + [还在用 if (obj != null) 吗？这几招轻松解决空指针！](https://mp.weixin.qq.com/s/5oby_TaV-vqwZ78ZJ0grYQ)
-+ [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
-+ [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java性能优化-书写高质量SQL的建议(如何做Mysql优化)](https://mp.weixin.qq.com/s/fx2CULg77qTrt-YMCbO6LQ)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/9VMZfwmjGBjpEUKuZY55rA)
 + [你还在用+符号拼接字符串么？](https://mp.weixin.qq.com/s/tPfjXCvnW2mQ9wC5cwN2lA)
@@ -275,7 +280,7 @@
 + [集合全解析：轻松驾驭Java数据结构](https://mp.weixin.qq.com/s/8AXEkN2zdpCL7EodDuYZEg)
 + [哎呦喂，原来Lambda 表达式底层原理这么简单啊？](https://mp.weixin.qq.com/s/Vma7XdQ2eIqZDfRv4gpf4w)
 + [使用new String("xianyu")语句在Java中会创建多少个对象？](https://mp.weixin.qq.com/s/UE0rpgO7eFeym2J1HpEh4Q)
-+ [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
+
 + [区分使用运行时异常和受检异常](https://mp.weixin.qq.com/s/WYiJTtSXlARJg-epMQv0uw)
 + [【11期】谈谈对象的引用](https://mp.weixin.qq.com/s/cBImQcB009rlxu2bWTtJtQ)
 + [聊聊Java反射](https://mp.weixin.qq.com/s/yQryCpeoWTJ3ZWr_jumXuw)
@@ -340,6 +345,7 @@
 + [Java直接内存和堆内存的关系](https://mp.weixin.qq.com/s/GG7V_KdM31hchlKaetpdFg)
 + [JVM内存模型与Java内存模型（JMM）](https://mp.weixin.qq.com/s/ceU71FRxkPTDC-vVbEW0sQ)
 + [字节二面：请讲一下程序的内存分区/内存模型？](https://mp.weixin.qq.com/s/bp5-RBnvmAws7Rc0R2N72Q)
++ [003架构师必修之java基础篇：JVM调优与案例分析](https://mp.weixin.qq.com/s/-TuSmlgul5n0Cgxo0UVHYA)
 
 # 核心库
 
@@ -385,6 +391,7 @@
 + [Simple Date Format 类到底为啥不是线程安全的？](https://my.oschina.net/u/4526289/blog/9866749)
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 + [【拿走不谢】18 个 Java8 日期处理的实践，太有用了！](https://mp.weixin.qq.com/s/wWZiJm9xDV90RE2YJpPVFg)
++ [Java中的时间戳【详解】](https://mp.weixin.qq.com/s/iDriMryXysIw4MKKFSNDqA)
 
 ### Collection/Map
 
@@ -435,6 +442,7 @@
 + [异步编程神器：CompletableFuture，一文帮你讲透！](https://mp.weixin.qq.com/s/EKfPWdqLdX0dUnO-dLqgWA)
 + [JUC从实战到源码：Future实战与优缺点](https://mp.weixin.qq.com/s/2FSQHphiNnyRD0a-NJN80A)
 + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
++ [CompletableFuture--结果死锁了](https://mp.weixin.qq.com/s/nChl7DjQg9GOCSl1uplUEQ)
 
 ### ThreadPool
 
@@ -496,6 +504,8 @@
 + [StampedLock：一个并发编程中非常重要的票据锁](https://my.oschina.net/u/4526289/blog/5583966)
 + [StampedLock：JDK1.8 中新增，比 ReadWriteLock 还快的锁](https://my.oschina.net/u/4526289/blog/8632024)
 + [Java并发基础：LockSupport](https://mp.weixin.qq.com/s/iEZbIJ-X8QkakaA7-oOr7A)
++ [【多线程与高并发】ReentrantLock示例讲解](https://mp.weixin.qq.com/s/lgasePffcfedM3qB4vzh5Q)
++ [【多线程与高并发】ReadWriteLock原理、示例、讲解](https://mp.weixin.qq.com/s/ACmJBk78VdzYxL2MVmWi7A)
 
 ### ConcurrentHashMap
 
@@ -1056,6 +1066,7 @@
 + [高效！Spring Boot 3.3 BOM 助你轻松简化微服务开发](https://mp.weixin.qq.com/s/nu8M60_T8pDZCojdL_ekKA)
 + [真香！SpringBoot内置性能监控工具](https://mp.weixin.qq.com/s/zRVfqKT0jHWoks80lZG8nw)
 + [解锁Spring Boot、Prometheus与Grafana三合一：打造你的专属自定义指标炫酷大屏！](https://mp.weixin.qq.com/s/HRk2dW3pIi1MI_zuchP4kw)
++ [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
 
 #### 分布式
 
@@ -1258,6 +1269,7 @@
 + [SpringBoot3革新：JdbcClient让JdbcTemplate成为历史，JdbcClient 更强大](https://mp.weixin.qq.com/s/OQRpSwQoKJf3THslMfJp7A)
 + [Redis与Spring Boot 3.3：快速构建高效的缓存与消息系统](https://mp.weixin.qq.com/s/EUpRqdjGo5FhZ2Ei7FaGfw)
 + [Spring Boot实战：使用Spring Cloud Stream处理实时交易数据](https://mp.weixin.qq.com/s/wjaACUVmBQFi_2P5QPYoAA)
++ [Spring Boot 3.3与R2DBC：构建响应式关系型数据库连接的最佳实践](https://mp.weixin.qq.com/s/Da-IGtfTe0XVipBWlTLJKw)
 
 ##### TRANSACTION
 
@@ -1456,6 +1468,8 @@
 + [Spring Boot 动态加载jar包，动态配置太强了！](https://mp.weixin.qq.com/s/YZsLmK8JE8IVRTbDhfMNSQ)
 + [源码分享 | spring-boot打包和部署](https://mp.weixin.qq.com/s/Kl4NDUXngeijUCwsu4FVaA)
 + [SpringBoot 将 jar 包和 lib 依赖分离，Dockerfile 构建镜像](https://mp.weixin.qq.com/s/87Rd_hZlH4a-korl92FbXA)
++ [SpringBoot集成Apollo配置中心（快速版）](https://mp.weixin.qq.com/s/CjGyJGfSsT8vmIaLVhCncA)
++ [详细讲解 Spring Boot 项目中的 POM 配置](https://mp.weixin.qq.com/s/G8NsapQn1t_F1ubVm96Kcg)
 
 #### 原理&源码
 

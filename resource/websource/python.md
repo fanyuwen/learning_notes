@@ -114,6 +114,8 @@
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
 + [Python 列表推导式：让代码更简洁高效](https://mp.weixin.qq.com/s/ofOw2NYWyAEnOp26M741fg)
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
++ [python全栈开发《50.字典的keys函数》](https://mp.weixin.qq.com/s/Ax0li3ygJxI18NOhlKNw9A)
++ [python全栈开发《53.字典的删除》](https://mp.weixin.qq.com/s/AKlUQc14qv3VjnhMHYueWw)
 + [Python 中快速创建零列表的多种方法](https://mp.weixin.qq.com/s/V8JZbwvklBQZQejWWfCtyw)
 + [Python如何高效的遍历dict？](https://mp.weixin.qq.com/s/7Ad7PAXECJNcOPCKsMBQmw)
 + [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)
@@ -139,6 +141,7 @@
 + [Python sys模块](https://mp.weixin.qq.com/s/opUWBsHEoGQLsZxtWTmAZg)
 + [Python常见使用pip管理依赖,你会几种？](https://mp.weixin.qq.com/s/i9scyKlbCJaqOPIVnOV94A)
 + [Python标准库中最强大的秘密武器：collections模块](https://mp.weixin.qq.com/s/oD2AyhRlBWVez0C8rJ885w)
++ [Python 标准库：最厉害的 platform 模块助你识别系统信息！](https://mp.weixin.qq.com/s/h7Ldxxly2DHMQYYEzmbZKA)
 
 ### 异步/多线程
 
@@ -156,9 +159,12 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
++ [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
++ [Python 虚拟环境（一）](https://mp.weixin.qq.com/s/aVa4pFUfE8ZBkaPN08egQQ)
 + [Python __init__.py 文件的作用](https://mp.weixin.qq.com/s/0fvbBIBmtjapLOpMfxNyiQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [Python进阶宝典：十个实用技巧提升代码效率](https://mp.weixin.qq.com/s/MO495CRUM9tx8CnTwwQlnA)
@@ -363,6 +369,7 @@
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
++ [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
@@ -371,6 +378,7 @@
 + [dreamsound，一个Python中非常有用的库](https://mp.weixin.qq.com/s/n4ekpxuYaZ2uXAYuHcIGJA)
 + [altair，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/WMK2VVeRqzFoSBXUs5AJ_Q)
 + [elasticmapper，一个牛逼的python库](https://mp.weixin.qq.com/s/qMqvwc66VG7qX0JeXNYxNw)
++ [reflex，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/onA-m4pjuUnewmnEFPeVug)
 + [FuzzyWuzzy——让你处理文本更方便！](https://mp.weixin.qq.com/s/nkeGp7zl0ul20pIM8JybhA)
 + [Streamlit：使用 Python 快速开发 Web 应用](https://mp.weixin.qq.com/s/hz-3a3FvmiaLto9vqJUBuA)
 + [pkgLavanya，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/nNh6z0dLKqOIA0jRqQkzVw)
@@ -564,6 +572,7 @@
 + [如何在Numpy中有效地改变数组长度](https://mp.weixin.qq.com/s/43q5mGSy2R8iMKodVUE5qw)
 + [NumPy基础入门教程总结](https://mp.weixin.qq.com/s/SA-ZCpJfbbRysesgikLX6w)
 + [最强总结！ 十大 NumPy 矩阵运算 ！！](https://mp.weixin.qq.com/s/UqLMa4fAov9yb0rC6tBkng)
++ [图文解说numpy,了解使用场景和作用](https://mp.weixin.qq.com/s/lbl1b6g6eJSbakhtCC0PmQ)
 
 ## 工具
 
@@ -598,6 +607,7 @@
 + [Python文件同步（rsync）：最强大的文件同步工具！](https://mp.weixin.qq.com/s/4tfwDXCiX9SWqB76QWBKgw)
 + [最牛逼的Python命令行工具：轻松使用argparse处理参数！](https://mp.weixin.qq.com/s/i9gEOi5DpBjVH80CSwxSyQ)
 + [Python图形界面的最牛逼选择：FLTK，让你的应用程序生动起来！](https://mp.weixin.qq.com/s/dWPYEqsbWO_McRtzcLXpNQ)
++ [最强Python包管理工具：Poetry的使用与实践](https://mp.weixin.qq.com/s/lFK4OU4Np7_ue8POmc7aBQ)
 
 ## 框架
 

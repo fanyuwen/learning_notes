@@ -47,6 +47,7 @@
 + [最强总结！十大时间序列算法 ！！](https://mp.weixin.qq.com/s/H-eB6HBQEtsY2eSVqYSyIA)
 + [【框架】缓存分片中的哈希算法与一致性哈希算法](https://mp.weixin.qq.com/s/Oqe6L_HDixXePU84OmsO7w)
 + [小学生也能轻松掌握的Paxos/Raft算法奥秘](https://mp.weixin.qq.com/s/LD8fDbyPohJkA9sbWGjXkQ)
++ [使用Kadane算法求最大序列和](https://mp.weixin.qq.com/s/2L9v6xMNC_C_7IAd6on3Bw)
 
 # leetcode
 

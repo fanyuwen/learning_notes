@@ -86,6 +86,7 @@
 + [Linux网卡带宽与网络带宽](https://mp.weixin.qq.com/s/uwLzjVCo7RF5zI6Qis1cxA)
 + [Linux内核常见的网络丢包场景分析](https://mp.weixin.qq.com/s/vdW0L7nEdfrxSJ_9VGviaA)
 + [Linux 网络故障排查笔记](https://mp.weixin.qq.com/s/qUrmeqXvhZpw9nP2ATo3jQ)
++ [Linux网络编程(HTTP协议)](https://mp.weixin.qq.com/s/8qfmElaWYusBv0Xwti92jQ)
 
 ### 命令
 
@@ -196,6 +197,7 @@
 + [你真的应该弄清楚 URI 和 URL 的区别](https://mp.weixin.qq.com/s/y_WJh1H9IJ7Aj-3hbOMEvQ)
 + [扪心自问，你真的能讲清楚URL和URI吗？](https://mp.weixin.qq.com/s/sadJLILv7PXetNNfyybBHg)
 + [API网关基础知识详解](https://mp.weixin.qq.com/s/HAbYrDJeuswrMGuF3nhZNQ)
++ [跨站脚本攻击（XSS）-安全基础系列](https://mp.weixin.qq.com/s/Y7rgJ__ziFdA3KqlWwPTIw)
 
 ### DNS
 

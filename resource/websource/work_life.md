@@ -207,6 +207,7 @@
 + [30 款 IDEA 宝贝插件，yyds！](https://mp.weixin.qq.com/s/XUNpkNfhn69b3WOUNBR_iA)
 + [解决 IDEA 构建速度慢的问题](https://mp.weixin.qq.com/s/aGz9lT62PSeUBxSlY6KwCA)
 + [6款IntelliJ IDEA插件，Spring和Java开发如虎添翼](https://mp.weixin.qq.com/s/7FkL9spsjXNZAMG3VVUhDQ)
++ [IDEA 2021 底部 Local Changes 不显示解决办法](https://mp.weixin.qq.com/s/pHY-qY4deK87tgH1FpqRdA)
 
 ## MAC_PRO相关
 

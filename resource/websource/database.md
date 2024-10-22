@@ -252,6 +252,7 @@
 
 #### 存储引擎
 
++ [MySQL进阶--存储引擎](https://mp.weixin.qq.com/s/Zam1WC2fN70cT3uqhH4lQg)
 + [深入理解InnoDB中的页分裂与页合并](https://mp.weixin.qq.com/s/RR1GBoPgteeMRl8vwigLrw)
 + [MySQL的InnoDB存储引擎支持哪几种行格式？](https://mp.weixin.qq.com/s/4hXi3WHj02d8Y8FVGalIrg)
 + [MySQL InnoDB锁探秘：行锁、间隙锁、临键锁与表锁的全方位解读](https://mp.weixin.qq.com/s/zxRBrNnGSlxAxAcOyITbcQ)
@@ -380,6 +381,7 @@
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
 + [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
++ [如何解决Redis热点Key问题](https://mp.weixin.qq.com/s/WFqcvnq4OdLO7L0SpNbwrg)
 + [RESP 3协议](https://mp.weixin.qq.com/s/dfLp6m9wWxSX5dN2yHZPOA)
 + [Redis亮剑！官方搜索引擎横空出世，性能飙升秒杀ES，重构搜索新时代！](https://mp.weixin.qq.com/s/nz5YpLKXdsJgH-uFA1iDwg)
 + [如何用 Redis 统计用户访问量](https://mp.weixin.qq.com/s/r2ZAuWx0hXkQcVsC8jLZuQ)
@@ -480,6 +482,7 @@
 + [Redis集群缓存参数优化场景及作用介绍](https://mp.weixin.qq.com/s/IXIBvS8BkDAVmaR9k161Mw)
 + [Redis的常见问题](https://mp.weixin.qq.com/s/AlByIjZJz0-x96mTXg4PBA)
 + [聊聊redis字典指令操作](https://mp.weixin.qq.com/s/cLVW4GGDjmQxbL6R7Qs1Xg)
++ [Redis 内存淘汰策略](https://mp.weixin.qq.com/s/W4v9XrK8vBe7QEM1e8G21Q)
 
 #### 原理
 

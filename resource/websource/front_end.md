@@ -100,6 +100,7 @@
 + [全网最详Babylon.js入门教材-第一个3D场景](https://mp.weixin.qq.com/s/ELZxc3Utgfte8CdeelyL8Q)
 + [您可能一直在寻找的 10 个非常有用的前端库](https://mp.weixin.qq.com/s/9GEVbRdd7ntZkqbyzHSHBg)
 + [前端性能优化之web worker](https://mp.weixin.qq.com/s/93qOQy01PPwJ4alNLQg_lg)
++ [没人告诉你的一件关于 TypeScript 的事](https://mp.weixin.qq.com/s/t0ZaUkFWG7il4NQMX0RicA)
 
 # 框架
 
@@ -201,6 +202,8 @@
 + [优化JavaScript性能：2024年的技巧和工具](https://mp.weixin.qq.com/s/WuiPbj15kG3QpKM4k-vPYg)
 + [一行代码理清 js 预编译（JS代码片段）](https://mp.weixin.qq.com/s/dbuEZDm7ntVh0jhqg7HcTA)
 + [JS高级-V8引擎的内存管理](https://mp.weixin.qq.com/s/P1UCLOEq_dg1YNdS3Acbow)
++ [Electron本地数据存储方案](https://mp.weixin.qq.com/s/LXIZhDF3ylzsCqMKMd0Sag)
++ [前端项目规范配置](https://mp.weixin.qq.com/s/LTDkjOna7nztRcrZzG-gig)
 
 # 杂谈
 

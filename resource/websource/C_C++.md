@@ -112,6 +112,7 @@
 + [（2.1.0）C语言编程入门 -- 开发环境搭建 -- VSCode + MinGW（2）](https://mp.weixin.qq.com/s/YptY0YY-_17elC8MavykBQ)
 + [（2.4）C语言编程入门 -- C 基础语法](https://mp.weixin.qq.com/s/EZDssKfpIYeONqVbNhDgSw)
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
++ [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
@@ -134,7 +135,7 @@
 + [malloc 背后的虚拟内存 和 malloc实现原理](https://mp.weixin.qq.com/s/kJq03LoTLb7Uit1c6Z_VzQ)
 + [Linux C语言 指向函数的指针](https://mp.weixin.qq.com/s/CL8-OiOTebsyaAYmGPB6FA)
 + [Github上热门 C 语言项目汇总！](https://mp.weixin.qq.com/s/a9PvRgriDJ_E17hvX82EVQ)
-+ [Linux网络编程(HTTP协议)](https://mp.weixin.qq.com/s/8qfmElaWYusBv0Xwti92jQ)
++ [​C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)
 + [cproc，一个强大的C11编译器](https://mp.weixin.qq.com/s/VFrAWRFs21Z6_ksBFpRTCw)
 + [cmark，一个拍案叫绝的c处理库](https://mp.weixin.qq.com/s/ag6dtb3hiXCqOHBFo4wZBA)
@@ -187,6 +188,7 @@
 + [一文讲解单片机、ARM、MCU、DSP、FPGA、嵌入式错综复杂的关系！](https://mp.weixin.qq.com/s/l-6aVfZvh5Cre--QEL6fiQ)
 + [一文掌握51单片机的基本指令和寻址方式](https://mp.weixin.qq.com/s/8C2say6fuWkXphcLY1LGRw)
 + [从汇编的角度看单片机运行机制](https://mp.weixin.qq.com/s/JbL6orV-VZ7Ad5kcPj1GVg)
++ [非要引入某个函数才能正常使用，奇了怪了](https://mp.weixin.qq.com/s/_s2eTRY-qL31p8v-zsG_mw)
 
 # NVIDIA
 

@@ -3,6 +3,7 @@
 + [coding-interview-university](https://github.com/jwasham/coding-interview-university)
 + [97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know)
 + [pingora](https://github.com/cloudflare/pingora)
++ [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 
 # data
 

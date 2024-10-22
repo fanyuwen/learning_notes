@@ -80,6 +80,7 @@
 + 云原生包管理工具 [helm](https://helm.sh/)
 + 云原生服务网格 [istio](https://istio.io/)
 + 云可观测平台 [retina](https://retina.sh) [middleware](https://middleware.io) [hyperdx](https://www.hyperdx.io) [streamdal](https://streamdal.com)
++ 云原生无服务平台 [knative](https://knative.dev/)
 + 开放容器行业标准 [OCI](https://opencontainers.org)
 + 网络分析 [wireshark](https://www.wireshark.org/)
 + 网络安全 <font style='color:red'>*</font>[defguard](https://defguard.net) <font style='color:red'>\*</font>[zitadel](https://zitadel.com)

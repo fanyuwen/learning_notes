@@ -162,7 +162,7 @@
 + javascript web框架(for node) [express](https://expressjs.com/) [koa](https://koa.bootcss.com/)
 + vue开发辅助工具 [vue devtools](https://devtools-next.vuejs.org)
 + node服务端开发框架 [nestjs](https://nestjs.com/)
-+ 跨平台桌面应用程序开发框架 [electron](https://www.electronjs.org/)
++ 跨平台桌面应用程序开发框架 [electron](https://www.electronjs.org/) [tauri](https://tauri.app/)
 + 用于基于堆栈的虚拟机的二进制指令格式(web平台) [webassembly](https://webassembly.org/)
 
 ### C/C++_TOOL

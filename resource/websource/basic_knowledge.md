@@ -66,6 +66,7 @@
 + [Linux文本编辑器终极指南](https://mp.weixin.qq.com/s/m4XfWTgc7WGEgmV-w38YoA)
 + [你可能不知道 xz 也是一种压缩格式](https://mp.weixin.qq.com/s/4rkIPKHPfWN2I1q9Pswj9A)
 + [你可以需要了解的Linux 性能工具](https://mp.weixin.qq.com/s/XqCpZEY-7phehLXAy5elsg)
++ [linux性能分析工具--ftrace的原理与使用](https://mp.weixin.qq.com/s/7KHFttn1hMe9Bdde8n5fdw)
 + [Linux开发技巧分享第一篇](https://mp.weixin.qq.com/s/MxVk3VE1Nho-ZlOXhF2cvw)
 + [Linux高性能编程_malloc原理](https://mp.weixin.qq.com/s/v-lXOFawW5iwZ24O_8f28w)
 + [linux进程间的通信(IPC)](https://mp.weixin.qq.com/s/DvLZQPKcvBPFML4lWLA4GA)

@@ -143,6 +143,7 @@
 + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
 + [项目分层开发中，真的有必要定义 VO 吗？](https://mp.weixin.qq.com/s/-MJ9RUwDFtx9JQH-LT_vZA)
 + [如何优化 if/else，让你的代码更优雅](https://mp.weixin.qq.com/s/GZxx31YklTedhEMUD4sqgg)
++ [记录一次 if-else 代码优化的完整过程](https://mp.weixin.qq.com/s/sg3t-bLsq4QVYVKI-fqmdQ)
 + [请停止在 Java 中使用 if-else 语句](https://mp.weixin.qq.com/s/8tA1TyO25dN0pV2wno8u-Q)
 + [写代码有这16个好习惯，可以减少80%非业务的bug](https://mp.weixin.qq.com/s/Bdm9mOEWnQxx9Cqul6vThw)
 + [一句注释引发的思考 - 论代码质量](https://my.oschina.net/jijunjian/blog/11335481)
@@ -183,6 +184,7 @@
 
 ## 原理解析
 
++ [【java面试100问】07 为什么不能用浮点型表示金额？](https://mp.weixin.qq.com/s/hmm3ISAs5d9ZQLJ3-rZyTg)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java学习笔记——多线程](https://mp.weixin.qq.com/s/WtidtBonwNrzEv2TSXhzxQ)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
@@ -867,6 +869,8 @@
 + [踩了一堆坑，终于把微服务系统全面升级 JDK17 和 SpringBoot3 了](https://my.oschina.net/sticki/blog/15909409)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
++ [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
++ [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [提升效率！Spring Boot 开发中的常见失误轻松规避](https://mp.weixin.qq.com/s/1oiw3ht_cyFvIwRqIOmo7A)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
@@ -1120,6 +1124,7 @@
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
 + [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
++ [Spring Boot参数验证这样做！10个技巧你知道几个？](https://mp.weixin.qq.com/s/lCxmzYLkYwHAcqmGrgOptw)
 + [用Spring Boot 3打造安全API：加密功能的最佳实践](https://mp.weixin.qq.com/s/68-hGigWMSJtJ9u6AOTgPg)
 + [Spring Boot 接口数据加解密，太方便了！](https://mp.weixin.qq.com/s/Kt-Brzcsay9sn7Rq6fWvhw)
 + [SpringBoot 3 新HTTP客户端工具让代码简洁又优雅，不用再用 HttpUtil](https://mp.weixin.qq.com/s/hPsnUoWSxaK88y8dvIbDkA)
@@ -1795,6 +1800,7 @@
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架吧](https://mp.weixin.qq.com/s/2D3H9pjlDA9yQz3GTqBUdg)
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架~](https://mp.weixin.qq.com/s/xFw9qjpX3qo9bmivvcgUGQ)
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/FvLZP8Y6NxbdsHiv9KjRuA)
++ [Java 性能分析 5 大工具](https://mp.weixin.qq.com/s/nRPW2b3xAekp-RwPWXkhjw)
 
 # 其它环境
 
@@ -1806,6 +1812,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [提升性能：Java工程师必备的20条SQL最佳实践](https://mp.weixin.qq.com/s/z5PNUvBBySxTTQFJNPdwjw)
 + [优化批处理流程：自定义BatchProcessorUtils的设计与应用](https://mp.weixin.qq.com/s/K2NN7pnps8kSHUFc_ijNBw)
 + [提升性能：Java工程师必备的20条SQL最佳实践](https://mp.weixin.qq.com/s/z5PNUvBBySxTTQFJNPdwjw)
 + [使用回调机制Callback和函数式编程码出优雅结构化代码！拒绝一直写CRUD！！！](https://mp.weixin.qq.com/s/lKGrqDSVotgVOQUki11MqA)

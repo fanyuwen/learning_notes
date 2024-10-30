@@ -37,6 +37,7 @@
 + [5个信号说明你该辞职了](https://mp.weixin.qq.com/s/yvYceVVZV4HeDdRI3KsXhA)
 + [为什么说程序员是一个极度劳累的工作？](https://mp.weixin.qq.com/s/2iTu38GHzASzWhPEb7hV4g)
 + [阿里员工：内推了个38岁的研发，简历到HR连评估都没过，这个年龄找工作太难了，仿佛看见未来的自己](https://mp.weixin.qq.com/s/vz6L6G9wEHfK1xEb-XjlXQ)
++ [每个程序员都要有 3 份收入！](https://mp.weixin.qq.com/s/YuhpAozP8DdYoNS_w-NLvQ)
 
 # 个人成长
 
@@ -208,6 +209,7 @@
 + [解决 IDEA 构建速度慢的问题](https://mp.weixin.qq.com/s/aGz9lT62PSeUBxSlY6KwCA)
 + [6款IntelliJ IDEA插件，Spring和Java开发如虎添翼](https://mp.weixin.qq.com/s/7FkL9spsjXNZAMG3VVUhDQ)
 + [IDEA 2021 底部 Local Changes 不显示解决办法](https://mp.weixin.qq.com/s/pHY-qY4deK87tgH1FpqRdA)
++ [IntelliJ IDEA插件开发-Hello World插件](https://mp.weixin.qq.com/s/_lZQTE1Gg5kxGMt9JPXHpA)
 
 ## MAC_PRO相关
 
@@ -360,6 +362,9 @@
 + [强推‼️人人都能看懂的算法入门书，建议翻烂它！](https://mp.weixin.qq.com/s/maBoR77sS-b2tLnslcd4Vg)
 + [10月新书推荐](https://mp.weixin.qq.com/s/SGTuvHzUz8JSx0wTY5WH5A)
 + [10本拍手叫绝的编程好书丨文末送书](https://mp.weixin.qq.com/s/f_9kaSij4C6S5r-Te_rPeQ)
++ [把力扣算法题刷熟了就能稳进大厂吗？还得学会这一招才能高枕无忧](https://mp.weixin.qq.com/s/dixgMB7lYmEeHu9r5CG1xA)
++ [《软件开发中的决策》作者将在SECon上海站演讲](https://mp.weixin.qq.com/s/E9Kj8TNhxCXP8GtaCi51iQ)
++ [云原生浪潮下的Spring应用开发](https://mp.weixin.qq.com/s/C_ocbD1Ent3lqvOmygJbrw)
 
 ### 生活
 

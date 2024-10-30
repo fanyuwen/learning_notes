@@ -138,6 +138,7 @@
 + [一文搞懂注册中心的设计与实现](https://mp.weixin.qq.com/s/OdyUJg7nAN1Zlvo3c1yPYQ)
 + [分布式系统下数据最终一致性的实现策略](https://mp.weixin.qq.com/s/rfWtepDsaGoPCdDEYPtKng)
 + [分布式架构方案最全详解(9大主流架构方案)](https://mp.weixin.qq.com/s/Hb6V1yia8rmcTZ8UkBgq4w)
++ [分布式场景下的重试机制（二）](https://mp.weixin.qq.com/s/eVVQ16VoSaWrVJtSMmUJgA)
 + [分布式ID介绍](https://mp.weixin.qq.com/s/8QNqS83AyKSmJW_JTXRoyQ)
 + [美团一面：你能阐述一下CAP理论的基本概念和核心思想？说说它有哪些分布模型以及如何抉择？](https://mp.weixin.qq.com/s/U05xcnTpAl0OPcgMkdAP-g)
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
@@ -302,6 +303,7 @@
 + [二级缓存架构极致提升系统性能](https://mp.weixin.qq.com/s/R_Qg0N46OkFm_eLAq_UZLw)
 + [缓存雪崩/穿透/击穿/失效原理图/14种缓存数据特征+10种数据一致性方案](https://mp.weixin.qq.com/s/gAH9bS0FLm9y5o5iB8BUHA)
 + [深入理解缓存穿透、缓存击穿和缓存雪崩](https://mp.weixin.qq.com/s/qFqIkdaXJVrPh3e3BZabFQ)
++ [缓存穿透、缓存击穿、缓存雪崩发生的原因及解决方案](https://mp.weixin.qq.com/s/51girjmYl_899gtiSPNFvw)
 
 ## 优化
 

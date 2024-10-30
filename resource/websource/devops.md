@@ -17,6 +17,7 @@
 + [轻量级的灰度 & 配置平台｜得物技术](https://my.oschina.net/u/5783135/blog/15295528)
 + [ansible自动化运维工具](https://mp.weixin.qq.com/s/mA5LqcNj7SUoeSnIehGMHQ)
 + [运维最该记住的50个原则，关键时刻能救命！](https://mp.weixin.qq.com/s/HhiPhvyLVWM8vX0YpoQ4wg)
++ [掌握容器化持续集成/持续部署（CI/CD）的最佳实践](https://mp.weixin.qq.com/s/Q6P1QGUb3RpvVDJsN9fwoA)
 
 ## JENKINS
 

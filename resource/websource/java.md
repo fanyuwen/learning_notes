@@ -26,6 +26,7 @@
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
 + [为什么要使用泛型？使用泛型带给你的好处有哪些 ？](https://mp.weixin.qq.com/s/oCIuao07Brok-T0FPzu17w)
++ [Java 泛型详解：从基础到实战](https://mp.weixin.qq.com/s/-n_DgYuBfabXXCQVqGOA6g)
 + [来聊聊Java中的可变参数](https://mp.weixin.qq.com/s/6iVBZLHejYbL3pCzVZei8Q)
 + [Java学习笔记——数据结构](https://mp.weixin.qq.com/s/pPSAOHtdCtr6P7-L01Ms1Q)
 + [Java接口详解](https://mp.weixin.qq.com/s/2Sfct1_jTAqbN4X_SQuPsw)
@@ -33,9 +34,11 @@
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
-+ [测开必备-java基础-while与do while的教程](https://mp.weixin.qq.com/s/YfdIKscYPofKKQK8awRmYA)
-+ [测开必备-java基础-if条件语句的四种用法](https://mp.weixin.qq.com/s/HNmrRjZjWwjWspth_FS_-Q)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
++ [测开必备-java基础-if条件语句的四种用法](https://mp.weixin.qq.com/s/HNmrRjZjWwjWspth_FS_-Q)
++ [测开必备-java基础-while与do while的教程](https://mp.weixin.qq.com/s/YfdIKscYPofKKQK8awRmYA)
++ [测开必备-java基础-break和continue的用法](https://mp.weixin.qq.com/s/2frGLD_Qm3vXYs2GyqLvDg)
++ [测开必备-java基础-for、while和do-while循环使用场景](https://mp.weixin.qq.com/s/vkVN24DAjL_SmHIC1p-0Mg)
 
 ## 新语言特性
 
@@ -456,6 +459,7 @@
 
 + [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
++ [如何正确判断Java线程池的大小](https://mp.weixin.qq.com/s/pUressIBVdQqyD2LKRcaRA)
 + [面试官：线程池核心线程会被销毁吗？](https://mp.weixin.qq.com/s/-klggkF2nE8O_zO_r0J0DQ)
 + [线程池中线程异常后：销毁还是复用？](https://mp.weixin.qq.com/s/P_Xg3oj_qHHRCocWqYUo9w)
 + [面试官：线程池中线程异常后，销毁还是复用？](https://mp.weixin.qq.com/s/fPH6hY1uPgV2Iqce6sMrDg)
@@ -503,6 +507,7 @@
 
 + [ReentrantLock最全详解(实现原理及使用场景)](https://mp.weixin.qq.com/s/8YaNN2nCdFCjUTJBKOByNw)
 + [ReentrantLock在线程池中应用背后的那些事（四）](https://mp.weixin.qq.com/s/1F_8fqcAmKCmPbsCuR43Cg)
++ [ReentrantLock 示例及原理(Synchronized区别)](https://mp.weixin.qq.com/s/plBkXS0cw-q45OK1vwQqkA)
 + [java多线程（七）AQS（AbstractQueuedSynchronizer）技术解析：以赛跑起跑场景为例](https://mp.weixin.qq.com/s/LX3Dt4BQ_djEir64uQyh-A)
 + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
 + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
@@ -721,6 +726,7 @@
 + [批处理框架 Spring Batch 这么强，你真的会用吗？](https://mp.weixin.qq.com/s/1o9YFnV0LZj6Cx6wmkzp5Q)
 + [如何使用 Spring Data JPA 进行数据库访问？](https://mp.weixin.qq.com/s/mYc_QfdIbMGW2yxbQNbCoA)
 + [掌握Spring Batch 5.1.2：提升企业批处理效率的秘密武器！](https://mp.weixin.qq.com/s/DJyrD7ojqUbAwi1HIMfq9A)
++ [003架构师必修之java框架篇：springDataJPA彻底NOSQL](https://mp.weixin.qq.com/s/QdKU7o98YdwNArPojdQv0w)
 
 #### Batch
 
@@ -828,6 +834,8 @@
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
 + [Spring Cloud 3.x 集成eureka快速入门Demo](https://mp.weixin.qq.com/s/s3GpVUo7uSZ-rZIqPhQdHw)
 + [SpringCloud 远程调用为啥要采用HTTP，而不是RPC？](https://mp.weixin.qq.com/s/eKucI44dlK9s93QP2vTkPg)
++ [006架构师必修之java框架篇：springCloud微服务轻松构建](https://mp.weixin.qq.com/s/pQka_6JneNVURcHPGzUfvw)
++ [【Java面试100题突击】01 SpringCloud核心组件有哪些？分别有什么作用？](https://mp.weixin.qq.com/s/N5tzzLoKPwGe2GnFq3Tmtg)
 
 #### AI
 
@@ -1108,6 +1116,7 @@
 + [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
 + [速览！Spring Boot 3.3 快速实现 API 加密的最佳实践](https://mp.weixin.qq.com/s/eRIfoPzNGS8vuP5kYN5SCA)
 + [优雅！使用 Spring Boot 3.3 + @ControllerAdvice 实现全局数据绑定与预处理](https://mp.weixin.qq.com/s/gOqROy_W2tQ3dvTTjGEM3Q)
++ [轻松掌握！如何在 Spring Boot 3.3 中实现基于角色的访问控制](https://mp.weixin.qq.com/s/fXu04gN_XuB3WFXzQB1A2w)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
 + [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
@@ -1421,6 +1430,8 @@
 + [如何在 Spring Boot 中安全地管理配置文件中的敏感信息？](https://mp.weixin.qq.com/s/W2MrpKvREkhZqTazlHJ5bg)
 + [SpringBoot+Apache Shiro实现应用安全](https://mp.weixin.qq.com/s/kThebbRA9BQ2mBaetkS9ow)
 + [Spring Boot与Spring Security：构建安全认证与授权体系](https://mp.weixin.qq.com/s/UcucC0B0ploJIPH32lJOfA)
++ [自定义注解+SpEL实现强大的权限管理](https://mp.weixin.qq.com/s/qxtfZWujk9XesDRfM3bdeg)
++ [实战JWT：Spring Boot中的单Token授权之旅](https://mp.weixin.qq.com/s/0guy6ktUvmcMwRaKrfElCQ)
 
 #### 设计模式
 
@@ -1499,6 +1510,7 @@
 #### 集成三方
 
 + [Spring Boot整合阿里云OSS文件上传](https://mp.weixin.qq.com/s/4os6eNIcHBaILhgmtroXQA)
++ [SpringBoot整合SSMP报错分析](https://mp.weixin.qq.com/s/CuMqdhYRau64t_n-pCPKdw)
 
 #### 原理&源码
 
@@ -1735,6 +1747,7 @@
 + [Jmeter最全详解(手把手教你4步使用)](https://mp.weixin.qq.com/s/Y9tJidOwrp4ZJ_C3fZVAxw)
 + [致远-常用的工具类（一）](https://mp.weixin.qq.com/s/lBxYmh1iQmwa_okNY9mHKw)
 + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
++ [​为开发提速：Java Persistence API (JPA)，这个Java库值得一试](https://mp.weixin.qq.com/s/ayJUbP9IAP-yh3WzNJytQg)
 + [当前推荐的Java库： Apache Commons Lang 一个非常实用但容易被忽视的宝藏库](https://mp.weixin.qq.com/s/i1jDD20P4skO20wQxGAIQg)
 + [我的字段被FastJson给干掉了?!](https://mp.weixin.qq.com/s/t3nq03MxL0HWzQFx62P9Cg)
 + [比Spring-Retry还快的百万级任务重试框架——Fast-Retry](https://mp.weixin.qq.com/s/2sUt-FSt7hnpmsq7NkLsPQ)
@@ -1793,6 +1806,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [优化批处理流程：自定义BatchProcessorUtils的设计与应用](https://mp.weixin.qq.com/s/K2NN7pnps8kSHUFc_ijNBw)
 + [提升性能：Java工程师必备的20条SQL最佳实践](https://mp.weixin.qq.com/s/z5PNUvBBySxTTQFJNPdwjw)
 + [使用回调机制Callback和函数式编程码出优雅结构化代码！拒绝一直写CRUD！！！](https://mp.weixin.qq.com/s/lKGrqDSVotgVOQUki11MqA)
 + [架构师必修之java框架篇：框架序篇](https://mp.weixin.qq.com/s/09yUDA_NOADuvtRqXpBA8g)

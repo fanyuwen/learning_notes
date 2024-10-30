@@ -88,6 +88,7 @@
 
 # RABBITMQ
 
++ [RabbitMQ基础篇](https://mp.weixin.qq.com/s/losK7DRwgvOnnGpU_RUm3g)
 + [RabbitMQ如何保证消息可靠性？](https://mp.weixin.qq.com/s/PkKcFdAyTlrWZ14pzuUe2A)
 + [RocketMQ 为什么性能不如 Kafka？](https://mp.weixin.qq.com/s/4ZTqvsLzg6-kJFJez4Zkqw)
 + [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/d5rNHiEDWaisFXMxbzgrAg)
@@ -96,7 +97,7 @@
 + [Nest 接入消息队列 RabbitMQ](https://mp.weixin.qq.com/s/rAuYgW3RoOfiqg70PLhyFw)
 + [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/DpXaUnaZwJF23rJfQtznpw)
 + [「RabbitMQ链路追踪实践：SkyWalking微服务链路监控实践07」](https://mp.weixin.qq.com/s/maKLkM-hNbdLpoSlKLi5Bw)
-+ [RabbitMQ基础篇](https://mp.weixin.qq.com/s/losK7DRwgvOnnGpU_RUm3g)
++ [RabbitMQ消息中间件多种模型下基于golang语言实现](https://mp.weixin.qq.com/s/2rB5NGG0KqoFq2u3fS8g8Q)
 
 # PULSAR
 

@@ -14,6 +14,7 @@
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [Python数据类型转换实战：从基础到高级](https://mp.weixin.qq.com/s/56xV3-yq1b5XbvNIMTz3-w)
++ [python的类型标注、类型注解、类型提示](https://mp.weixin.qq.com/s/3QXbBF1lWu8HrePQNHYUAQ)
 + [Python一文识——数据类型与运算](https://mp.weixin.qq.com/s/fRCRd_xWDtRQQOgaIseL1g)
 + [20个Python语法要点](https://mp.weixin.qq.com/s/Zw5QjIedc1uH70IDfwQkww)
 + [19个python关键语法,值得收藏](https://mp.weixin.qq.com/s/vuq3iczQdNjdgItFcOK3ug)
@@ -118,6 +119,7 @@
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
 + [python全栈开发《50.字典的keys函数》](https://mp.weixin.qq.com/s/Ax0li3ygJxI18NOhlKNw9A)
 + [python全栈开发《53.字典的删除》](https://mp.weixin.qq.com/s/AKlUQc14qv3VjnhMHYueWw)
++ [python全栈开发《55.字典中的成员判断》](https://mp.weixin.qq.com/s/Ivb7NNknpoB6ofcjrhF0iA)
 + [Python 中快速创建零列表的多种方法](https://mp.weixin.qq.com/s/V8JZbwvklBQZQejWWfCtyw)
 + [Python如何高效的遍历dict？](https://mp.weixin.qq.com/s/7Ad7PAXECJNcOPCKsMBQmw)
 + [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)
@@ -182,6 +184,7 @@
 + [正则表达式中的贪婪匹配与非贪婪匹配](https://mp.weixin.qq.com/s/CQEIVptI72QPmfVvo5WiYA)
 + [简单实用，Python代码调试利器~](https://mp.weixin.qq.com/s/QzysrJZfciadnaMltpyupw)
 + [Python提升工作效率的7个实用秘籍](https://mp.weixin.qq.com/s/sk_Uw-amLS0KRcRgVTQ6_A)
++ [Python反射——最厉害的动态编程利器，让你的代码更灵活！](https://mp.weixin.qq.com/s/lOFWS2vaCibZ5GfncGHLwg)
 + [成为大神的这10个Python性能调优的小技巧,你会几个?](https://mp.weixin.qq.com/s/qsbJwpSrfd8H4sRxPKwHTg)
 + [Python文件操作及与数据库的交互](https://mp.weixin.qq.com/s/Qpxvuw2kjjaYuGWpqs3TWQ)
 + [Python：使用slugify生成URL友好的字符串](https://mp.weixin.qq.com/s/xjSli9humjm-HnUfVKPd9Q)
@@ -627,6 +630,10 @@
 + [如何基于 Django 中的 WebSockets 和异步视图来实现实时通信功能](https://my.oschina.net/u/4526289/blog/11053968)
 + [django框架入门——第一个简单示例](https://mp.weixin.qq.com/s/_-wdVy_hTwQiV84V9Tpb4g)
 + [Django，一个王者级Web开发Python库！](https://mp.weixin.qq.com/s/0jhvxl8V03eqTYEh8gFW-A)
+
+### SQLAlchemy
+
++ [SQLAlchemy中常用的查询方法和调试打印](https://mp.weixin.qq.com/s/Nqs_HKfyqTN0wYk5ueQM3g)
 
 ### OPENCV
 

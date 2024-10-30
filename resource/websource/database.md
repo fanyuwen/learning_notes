@@ -52,6 +52,7 @@
 + [千万级数据的全表update的正确姿势](https://mp.weixin.qq.com/s/4Qn-eFL3vopFtQ1GA-FipQ)
 + [【性能调优】全方位教你定位慢SQL](https://mp.weixin.qq.com/s/8De9W8NLvCNnCtR89c45iw)
 + [SQL语句执行顺序](https://mp.weixin.qq.com/s/KUotzXSb3kl8QljUdpApSg)
++ [8种专坑同事的 SQL 写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/cEUWxkYCviACfGYrZy7KMg)
 
 # 本地数据库
 
@@ -121,6 +122,7 @@
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
++ [MySQL探秘之旅：总体架构介绍](https://mp.weixin.qq.com/s/0W1XWb4-D2AuimDsQijX9g)
 + [美团二面拷打：MySQL中 SELECT 语句执行流程？](https://mp.weixin.qq.com/s/NGIhHHZ5deWk-7yU3V2U7w)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [面试官：MySQL一次到底插入多少条数据合适啊？](https://mp.weixin.qq.com/s/50kK9fx43sAY-4PiiSc7KA)
@@ -131,6 +133,8 @@
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
 + [(十八)MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://mp.weixin.qq.com/s/m24AB--7Iaev4Ab089RisA)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
++ [MySQL的 where 1=1会不会影响性能？](https://mp.weixin.qq.com/s/DsF-sUGnXHGTb6iY1quRPw)
++ [MySQL 临时表详解](https://mp.weixin.qq.com/s/k69BT_QHsU-FBY3B1Ib-DA)
 + [MySQL性能调优时，如何平衡成本和性能改进？](https://mp.weixin.qq.com/s/MoHzU01pEJ4pRyzaM10AfA)
 + [Mysql优化利剑explain详解](https://mp.weixin.qq.com/s/mtjpFiXLqEvUNa1etie5Xg)
 + [Mysql 优化利剑explain](https://mp.weixin.qq.com/s/68s6DzCk9vCfWNaQOMqM1Q)
@@ -288,6 +292,7 @@
 + [MySQL 插入记录，主键索引冲突加什么锁？](https://my.oschina.net/actiontechoss/blog/15656435)
 + [MySQL 锁详解](https://mp.weixin.qq.com/s/0rKAxyH-hUskr4pKhmC9mw)
 + [Mysql的锁你了解哪些？](https://mp.weixin.qq.com/s/fOd-VvudonyiCtSEN2JLDg)
++ [这绝绝是bug吧？不是，这真的是feature。「该锁的不锁，不该锁的乱锁」](https://mp.weixin.qq.com/s/EasJ0NCi-ZYzEogDyOrU9A)
 
 #### 事务
 

@@ -204,6 +204,7 @@
 + [JS高级-V8引擎的内存管理](https://mp.weixin.qq.com/s/P1UCLOEq_dg1YNdS3Acbow)
 + [Electron本地数据存储方案](https://mp.weixin.qq.com/s/LXIZhDF3ylzsCqMKMd0Sag)
 + [前端项目规范配置](https://mp.weixin.qq.com/s/LTDkjOna7nztRcrZzG-gig)
++ [如何将 CommonJS 转换为 ESM](https://mp.weixin.qq.com/s/V4lnf7bgbBeIKfHv-dSP0w)
 
 # 杂谈
 

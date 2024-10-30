@@ -112,6 +112,7 @@
 + [A02.并发编程-互斥锁Mutex-竞争介绍](https://mp.weixin.qq.com/s/P9uMjkNA-ZHG-yGsLbulFg)
 + [Go语言与SQL数据库的交互方式](https://mp.weixin.qq.com/s/3o3RQCrfU691FkK8VVxIaA)
 + [Go短视频上传怎么做｜使用MinIO写个支持分片上传/断点续传/秒传功能的文件服务吧](https://mp.weixin.qq.com/s/2yvpcXIgx3R6cWTZBIOoMA)
++ [带你手写一个连接池，拿捏面试官！](https://mp.weixin.qq.com/s/1EL7fAnBw9v2mkqgy35tvA)
 
 # 面试题
 

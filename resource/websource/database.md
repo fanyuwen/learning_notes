@@ -51,6 +51,7 @@
 + [一个用SQL写的俄罗斯方块游戏](https://mp.weixin.qq.com/s/u9bPjT_St_R6pa-_CaV3gg)
 + [千万级数据的全表update的正确姿势](https://mp.weixin.qq.com/s/4Qn-eFL3vopFtQ1GA-FipQ)
 + [【性能调优】全方位教你定位慢SQL](https://mp.weixin.qq.com/s/8De9W8NLvCNnCtR89c45iw)
++ [SQL语句执行顺序](https://mp.weixin.qq.com/s/KUotzXSb3kl8QljUdpApSg)
 
 # 本地数据库
 
@@ -118,6 +119,7 @@
 
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
++ [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [美团二面拷打：MySQL中 SELECT 语句执行流程？](https://mp.weixin.qq.com/s/NGIhHHZ5deWk-7yU3V2U7w)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
@@ -251,6 +253,7 @@
 + [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
 + [MySQL学习笔记——聚合函数](https://mp.weixin.qq.com/s/pbkFWe3D-fYTlpkOTH8XlA)
 + [MySQL学习笔记——数据类型](https://mp.weixin.qq.com/s/GYtaAThSJX4DxjQcIfQ17w)
++ [一文彻底搞定MySQL中的JSON类型，效率飞起。](https://mp.weixin.qq.com/s/GeSHCifqQIm3-afmYrgw_Q)
 
 #### 存储引擎
 

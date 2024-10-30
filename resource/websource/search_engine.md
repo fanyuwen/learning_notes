@@ -18,3 +18,7 @@
 + [智能搜索引擎系统设计和实践](https://mp.weixin.qq.com/s/mQeZtRisTWbJSRUCre1CsA)
 + [什么是 Elasticsearch 数据预热？](https://mp.weixin.qq.com/s/-Y6EVcV-uMm8eEY0IwgACA)
 + [ElasticSearch集群搭建详细教程](https://mp.weixin.qq.com/s/SOB1Y7N_A9iNOCpnDkmITw)
+
+# solr
+
++ [解锁Apache Solr 9.7的无模式模式：快速构建高效索引架构](https://mp.weixin.qq.com/s/GI3IUBSxDi5-6i-javSTBQ)

@@ -6,6 +6,7 @@
 + [内存是怎样一步步被分配出来的？](https://mp.weixin.qq.com/s/QmFbNAwO6dKo32o9hj6J5A)
 + [操作系统是怎么一步步启动起来的？](https://mp.weixin.qq.com/s/JGMK1WVn364lEXmmRM_I9w)
 + [再说分布式操作系统](https://mp.weixin.qq.com/s/kF5trV7dr2cYfsh7Z8I7Dg)
++ [操作系统之内存映像详解](https://mp.weixin.qq.com/s/dO14IhpU0ysprL_Oig3yZw)
 
 ## 文件系统
 
@@ -313,6 +314,7 @@
 + [Nginx 是如何解决惊群效应的？](https://mp.weixin.qq.com/s/SSa5Jmh2gStUoxF72c3KdQ)
 + [nginx（二）：使用自签名证书在Nginx上启用HTTPS](https://mp.weixin.qq.com/s/wj5400jMWZfS81AAmnyo3g)
 + [使用 Rust（替代 C 语言）扩展 NGINX](https://my.oschina.net/u/5246775/blog/16342753)
++ [Nginx 实现动态封禁IP，详细教程来了](https://mp.weixin.qq.com/s/vwyP6LlxzCg6YKoLR8oi2g)
 
 ### wireshark
 

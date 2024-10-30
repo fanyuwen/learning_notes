@@ -251,6 +251,7 @@
 + [如何保证接口幂等性 ？高并发下的接口幂等性如何实现 ？](https://mp.weixin.qq.com/s/irLRi-yZyZ1e9kHUPV7CVg)
 + [大厂必问 · 如何防止订单重复？](https://mp.weixin.qq.com/s/y2ndN0bJFiwYiJCPD4vKGA)
 + [聊聊大厂都怎么防止重复下单？](https://mp.weixin.qq.com/s/z1ASRafNcgwYaTUu_O2gTQ)
++ [简单聊聊怎么防止重复下单](https://mp.weixin.qq.com/s/pC8SM6J3YgniLuvAB32HmQ)
 
 ### 负载&限流
 

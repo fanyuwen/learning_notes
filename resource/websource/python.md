@@ -105,6 +105,7 @@
 + [收藏！python初学者必会,Python面向对象编程的核心](https://mp.weixin.qq.com/s/gj6NhOF_tjfiLuIuOwKDJQ)
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
++ [最牛逼的Python继承：让你的代码更强大、更简洁](https://mp.weixin.qq.com/s/vs_Q4_pU7SxxPaIaYnUClQ)
 
 ### 核心库/模块
 
@@ -119,6 +120,7 @@
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
 + [Python 列表推导式：让代码更简洁高效](https://mp.weixin.qq.com/s/ofOw2NYWyAEnOp26M741fg)
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
++ [Python 字典的实用技巧 (示例代码 + 生活应用)](https://mp.weixin.qq.com/s/Mt1ILen9wFrXg6hhvN2gjg)
 + [python全栈开发《50.字典的keys函数》](https://mp.weixin.qq.com/s/Ax0li3ygJxI18NOhlKNw9A)
 + [python全栈开发《53.字典的删除》](https://mp.weixin.qq.com/s/AKlUQc14qv3VjnhMHYueWw)
 + [python全栈开发《55.字典中的成员判断》](https://mp.weixin.qq.com/s/Ivb7NNknpoB6ofcjrhF0iA)

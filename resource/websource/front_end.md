@@ -101,6 +101,7 @@
 + [您可能一直在寻找的 10 个非常有用的前端库](https://mp.weixin.qq.com/s/9GEVbRdd7ntZkqbyzHSHBg)
 + [前端性能优化之web worker](https://mp.weixin.qq.com/s/93qOQy01PPwJ4alNLQg_lg)
 + [没人告诉你的一件关于 TypeScript 的事](https://mp.weixin.qq.com/s/t0ZaUkFWG7il4NQMX0RicA)
++ [前端基于DOM或者Canvas实现页面水印](https://mp.weixin.qq.com/s/vjC4LsbQDomZW8cBA8NV_g)
 
 # 框架
 
@@ -127,6 +128,7 @@
 + [如何优化 Vue.js 应用的性能？](https://mp.weixin.qq.com/s/ioTX4FfrFlKieMJulvIMHQ)
 + [在vue3 中使用typescripts配置axios，axios调用后端流程分析](https://mp.weixin.qq.com/s/s65zws6mdvWbAADvKlKSzw)
 + [VUE-Router ~ 路由的基本使用](https://mp.weixin.qq.com/s/JAwjEEAQdAqU7EAo_e4jOg)
++ [vue实现登录获取token并自动刷新token进行JWT认证](https://mp.weixin.qq.com/s/sWDnhq6MCUusQ0-aUpfNPw)
 
 ## react
 

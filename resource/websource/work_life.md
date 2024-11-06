@@ -38,6 +38,7 @@
 + [为什么说程序员是一个极度劳累的工作？](https://mp.weixin.qq.com/s/2iTu38GHzASzWhPEb7hV4g)
 + [阿里员工：内推了个38岁的研发，简历到HR连评估都没过，这个年龄找工作太难了，仿佛看见未来的自己](https://mp.weixin.qq.com/s/vz6L6G9wEHfK1xEb-XjlXQ)
 + [每个程序员都要有 3 份收入！](https://mp.weixin.qq.com/s/YuhpAozP8DdYoNS_w-NLvQ)
++ [程序员的副业发展](https://mp.weixin.qq.com/s/Y5HhsZrjW8F5MmlPIVQUlg)
 
 # 个人成长
 

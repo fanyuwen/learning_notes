@@ -260,6 +260,7 @@
 + [MySQL学习笔记——数据类型](https://mp.weixin.qq.com/s/GYtaAThSJX4DxjQcIfQ17w)
 + [一文彻底搞定MySQL中的JSON类型，效率飞起。](https://mp.weixin.qq.com/s/GeSHCifqQIm3-afmYrgw_Q)
 + [MySQL为什么会有redo log和binlog两份日志](https://mp.weixin.qq.com/s/BmDCanv8c6TjIn_Idd9Faw)
++ [MySql的binlog与数据的恢复](https://mp.weixin.qq.com/s/bbTCjRVMCZDPfh38bXtY-A)
 
 #### 存储引擎
 
@@ -295,6 +296,8 @@
 + [MySQL 锁详解](https://mp.weixin.qq.com/s/0rKAxyH-hUskr4pKhmC9mw)
 + [Mysql的锁你了解哪些？](https://mp.weixin.qq.com/s/fOd-VvudonyiCtSEN2JLDg)
 + [这绝绝是bug吧？不是，这真的是feature。「该锁的不锁，不该锁的乱锁」](https://mp.weixin.qq.com/s/EasJ0NCi-ZYzEogDyOrU9A)
++ [【java面试100问】10 MySQL Update是行锁还是表锁？](https://mp.weixin.qq.com/s/_Z4e0YQBBB59aXNUQ-doUw)
++ [MySQL死锁日志详解：从原理到实践](https://mp.weixin.qq.com/s/sow_yTEjnE7zKSmIrQ3vGQ)
 
 #### 事务
 

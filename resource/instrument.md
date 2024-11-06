@@ -114,7 +114,7 @@
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)
 + *apache软件基金会* [apache foundation](https://www.apache.org)
 + 应用开发学习资源 [二哥的Java进阶之路](https://javabetter.cn/)
-+ 代码开发学习资源 [refactoring](https://refactoring.guru/)
++ 代码开发学习资源 [refactoring](https://refactoring.guru/) [exercism](https://exercism.org/)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
 + 软件开发学习资源 [javacodegeeks](https://www.javacodegeeks.com/) [baeldung](https://www.baeldung.com/) [happycoders](https://www.happycoders.eu/)
 + jvm剖析工具 [visualvm](https://visualvm.github.io/) [MAT](https://eclipse.dev/mat/) <font style='color:red'>\*</font>[jprofiler](https://www.ej-technologies.com/jprofiler)
@@ -132,7 +132,7 @@
 + 计算机视觉库 [opencv](https://opencv.org/)
 + 程序员技能检测和提高 [hackerrank](https://www.hackerrank.com/)
 + 软件开发环境管理 [conda](https://docs.conda.io/)
-+ 购书网站 [PACKT](https://subscription.packtpub.com/) [MANNING](https://www.manning.com/)
++ 购书网站 [PACKT](https://subscription.packtpub.com/) [MANNING](https://www.manning.com/) [oreilly](https://www.oreilly.com/)
 
 ### Go_LIBRARY
 + 跨平台GUI库 [fyne](https://fyne.io/)

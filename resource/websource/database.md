@@ -53,6 +53,7 @@
 + [【性能调优】全方位教你定位慢SQL](https://mp.weixin.qq.com/s/8De9W8NLvCNnCtR89c45iw)
 + [SQL语句执行顺序](https://mp.weixin.qq.com/s/KUotzXSb3kl8QljUdpApSg)
 + [8种专坑同事的 SQL 写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/cEUWxkYCviACfGYrZy7KMg)
++ [SQL进阶技巧：巧用异或运算解决经典换座位问题](https://mp.weixin.qq.com/s/9L398hDf60l8rVR-BvyNpg)
 
 # 本地数据库
 
@@ -258,6 +259,7 @@
 + [MySQL学习笔记——聚合函数](https://mp.weixin.qq.com/s/pbkFWe3D-fYTlpkOTH8XlA)
 + [MySQL学习笔记——数据类型](https://mp.weixin.qq.com/s/GYtaAThSJX4DxjQcIfQ17w)
 + [一文彻底搞定MySQL中的JSON类型，效率飞起。](https://mp.weixin.qq.com/s/GeSHCifqQIm3-afmYrgw_Q)
++ [MySQL为什么会有redo log和binlog两份日志](https://mp.weixin.qq.com/s/BmDCanv8c6TjIn_Idd9Faw)
 
 #### 存储引擎
 

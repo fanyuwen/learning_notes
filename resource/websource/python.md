@@ -30,6 +30,7 @@
 + [一文掌握Python全部条件执行语句（基础篇）](https://mp.weixin.qq.com/s/4XWcEXEKmZFwH8VJwzo_aw)
 + [Python条件控制技巧](https://mp.weixin.qq.com/s/E1OdHyCfJ2ccw6UbaTMoww)
 + [我后悔没有早点知道 Python中迭代的八个技巧](https://mp.weixin.qq.com/s/00wUlMWRerQVDw6uF4AtQA)
++ [掌握Python循环控制的艺术：12个进阶示例](https://mp.weixin.qq.com/s/NsEdXf39AaQs9jpMzxoaKw)
 + [foreach循环的解构赋值与序列迭代](https://mp.weixin.qq.com/s/2pN99zzGRO9YLAFSubX-aQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
@@ -149,6 +150,7 @@
 + [Python常见使用pip管理依赖,你会几种？](https://mp.weixin.qq.com/s/i9scyKlbCJaqOPIVnOV94A)
 + [Python标准库中最强大的秘密武器：collections模块](https://mp.weixin.qq.com/s/oD2AyhRlBWVez0C8rJ885w)
 + [Python 标准库：最厉害的 platform 模块助你识别系统信息！](https://mp.weixin.qq.com/s/h7Ldxxly2DHMQYYEzmbZKA)
++ [Python路径操作：最牛逼的 pathlib 让文件管理无烦恼](https://mp.weixin.qq.com/s/ynKs1rSSz1lAEudTr0BJAw)
 
 ### 异步/多线程
 
@@ -172,6 +174,7 @@
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python 与数据库交互的 15 个 SQL 查询技巧](https://mp.weixin.qq.com/s/L8Mq05iT0Jeq-NDUlBev1g)
++ [Python系列教程233——包导入时使用import还是from](https://mp.weixin.qq.com/s/gwW2fR2Wo5rD0RaZSb0x5Q)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [高效使用Python工具自动生成模块文档的秘诀](https://mp.weixin.qq.com/s/40C9ckllnG9ss-2I4rDlLA)
 + [Python 虚拟环境（一）](https://mp.weixin.qq.com/s/aVa4pFUfE8ZBkaPN08egQQ)

@@ -39,6 +39,7 @@
 + [测开必备-java基础-while与do while的教程](https://mp.weixin.qq.com/s/YfdIKscYPofKKQK8awRmYA)
 + [测开必备-java基础-break和continue的用法](https://mp.weixin.qq.com/s/2frGLD_Qm3vXYs2GyqLvDg)
 + [测开必备-java基础-for、while和do-while循环使用场景](https://mp.weixin.qq.com/s/vkVN24DAjL_SmHIC1p-0Mg)
++ [公司新来一个同事，把枚举运用得炉火纯青...](https://mp.weixin.qq.com/s/B_ldoijeU49EiYGCrVcssg)
 
 ## 新语言特性
 
@@ -324,6 +325,7 @@
 + [深入了解双亲委派机制（常说的类加载机制）](https://mp.weixin.qq.com/s/XaPwZLrsUD0mGSRdBw2b0w)
 + [一文搞懂 5 种内存溢出案例，内含完整源码](https://my.oschina.net/u/4526289/blog/11206103)
 + [面试官对于JVM类加载机制的猛烈炮火，你能顶住吗？](https://mp.weixin.qq.com/s/tsHR_ZkbrBpKYIQy9mde1A)
++ [一文读懂Java类加载全过程，面试必备！](https://mp.weixin.qq.com/s/uKcHJNUwBLiScwRKUnhCJA)
 + [面试官：“线上内存溢出，怎么分析dump日志”？](https://mp.weixin.qq.com/s/3xCxRxfrz_Y41z7PO-d82g)
 + [Java 8 内存管理原理解析及内存故障排查实践](https://my.oschina.net/vivotech/blog/11048619)
 + [浅析 JVM invokedynamic 指令和 Java Lambda 语法｜得物技术](https://my.oschina.net/u/5783135/blog/15527256)
@@ -350,6 +352,7 @@
 + [003架构师必修之java基础篇：JVM调优与案例分析](https://mp.weixin.qq.com/s/-TuSmlgul5n0Cgxo0UVHYA)
 + [Minor GC、Young GC、Major GC、Old GC、Full GC、Mixed GC傻傻分不清楚？](https://mp.weixin.qq.com/s/PPNzrgykvSUKr-xfYVf7kw)
 + [JVM堆内存分配策略：指针碰撞和空闲列表](https://mp.weixin.qq.com/s/cTD_SAwN2gPmNsodCbBERg)
++ [线上问题排查(4)--Java频繁Full GC](https://mp.weixin.qq.com/s/a9LUZz8KWxlblrkD9lgkiw)
 
 # 核心库
 
@@ -394,6 +397,7 @@
 + [总结｜Stream流技术在真实案例中的应用](https://mp.weixin.qq.com/s/mZbejfgxLVwO7pu4nkRjIg)
 + [Java 8 Stream API 实现各种数据类型的转换](https://mp.weixin.qq.com/s/CMOAP0d_fjIoKK6Owe5d7A)
 + [深入理解Java中的并行流（Parallel Stream）](https://mp.weixin.qq.com/s/IwEVCRzTnumXm8j-oKMiEQ)
++ [Java Stream API](https://mp.weixin.qq.com/s/-Vd0qolH96t113sJ3iEcKQ)
 
 ### Date/time
 
@@ -421,6 +425,7 @@
 + [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s/h46rRPLAr5PW18rOxnCbzA)
 + [递归查询文件树不要怕，看我用HashMap怎么玩！](https://mp.weixin.qq.com/s/rLI58P0gfq80aad4IYJm5g)
 + [Map 只会 put、get？快来学这几个“新”方法](https://mp.weixin.qq.com/s/R0BDjZSMF2T4gume8debWQ)
++ [EnumMap：让Java Map更高效的技巧](https://mp.weixin.qq.com/s/-STChMSoBo67956UNlnb4g)
 
 ### Optional
 
@@ -696,6 +701,7 @@
 + [Java Spring Validation：自动与手动校验](https://mp.weixin.qq.com/s/SvXh4KyEQrax00za5Le6mg)
 + [Controller层代码这么写，同事们都模仿起来了](https://mp.weixin.qq.com/s/DhL-DYj6UgEEy-qUHAUE2w)
 + [Spring 实现 3 种异步流式接口，干掉接口超时烦恼](https://mp.weixin.qq.com/s/VDWrDocGajxwMym9JlDghA)
++ [【java面试100问】14 Spring MVC核心是什么，以及它的执行流程？](https://mp.weixin.qq.com/s/4KBEQ9ru0OLkmc269alMAg)
 
 ### concurrent
 
@@ -1084,7 +1090,6 @@
 + [记一次Spring boot框架代审与思考](https://mp.weixin.qq.com/s/kHcPLaSPTtOHWd6N1abiHg)
 + [SpringBoot Guava 实现 API 限流](https://mp.weixin.qq.com/s/h-q_AkSCTEwQInJJ9JPlUg)
 + [SpringBoot + ITextPdf：高效生成 PDF 预览文件](https://mp.weixin.qq.com/s/U9NmV-TjcCei4RWT-zHXPQ)
-+ [RSocket vs WebSocket：Spring Boot 3.3 中的两大实时通信利器](https://mp.weixin.qq.com/s/6JH6xAChOT2PtoGoDf5_JQ)
 + [Spring Boot利用dag加速Spring beans初始化](https://mp.weixin.qq.com/s/Db_ukq2jNezW3lfuJZa7DA)
 + [高效初始化！Spring Boot 3.3借助DAG加速Spring Beans加载！](https://mp.weixin.qq.com/s/rWAQER2-9QE-2OaL6J19Tw)
 + [Spring Boot实用小技巧5 - 第527篇](https://mp.weixin.qq.com/s/FFVarKkPui5e8d6OdwX2cQ)
@@ -1250,6 +1255,7 @@
 + [Jackson才是王！SpringBoot优雅的控制JSON数据](https://mp.weixin.qq.com/s/w-5Y_ZKjqV-D54olCGmq-g)
 + [SpringBoot使用@Validated优雅的处理校验](https://mp.weixin.qq.com/s/AOdQPV1y1JvQmw3zx4MCAg)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/OD82tmAhlBJ-2ww1IB3HKQ)
++ [Jackson在Spring Boot高级应用技巧【Long精度丢失, @JsonValue, 数据脱敏】](https://mp.weixin.qq.com/s/i0Pv-HPxHeqcGC7TaLBWtQ)
 
 ##### VUE
 
@@ -1392,6 +1398,7 @@
 + [Spring Boot启动项目时如何加载缓存](https://mp.weixin.qq.com/s/b13fJFX840yahbiwe8OhoQ)
 + [Spring Boot + Redis 缓存实战：注解、配置与策略，让你的应用飞起来！](https://mp.weixin.qq.com/s/8k7jQtpXBeHZrza5Eqgwbg)
 + [造轮子能力！基于SpringBoot实现高性能缓存组件](https://mp.weixin.qq.com/s/cmpzvoYn0lxyffKaYznpJA)
++ [Spring Boot结合Google Guava缓存机制实现防重复提交策略](https://mp.weixin.qq.com/s/___iYutShJ7YtTnBMC_Fig)
 
 #### AOP
 
@@ -1437,6 +1444,7 @@
 + [Spring Boot与Spring Security：构建安全认证与授权体系](https://mp.weixin.qq.com/s/UcucC0B0ploJIPH32lJOfA)
 + [自定义注解+SpEL实现强大的权限管理](https://mp.weixin.qq.com/s/qxtfZWujk9XesDRfM3bdeg)
 + [实战JWT：Spring Boot中的单Token授权之旅](https://mp.weixin.qq.com/s/0guy6ktUvmcMwRaKrfElCQ)
++ [SpringBoot 自定义注解实现的权限管理](https://mp.weixin.qq.com/s/d7YMdrGLZ5yT0pjko6aJ1A)
 
 #### 设计模式
 
@@ -1458,6 +1466,7 @@
 + [超简单！Spring Boot 3.3 实现观察者模式的实用指南](https://mp.weixin.qq.com/s/d7hxlCCXUandGH8_Xz8BFQ)
 + [Spring Boot 实战：使用观察者模式实现实时库存管理](https://mp.weixin.qq.com/s/NFo71IzR0lgxaU0smonlLA)
 + [优雅实现！Spring Boot 3.3 中策略设计模式在支付场景的最佳实践](https://mp.weixin.qq.com/s/2IeBACnbyWc9gal27drnsA)
++ [Spring Boot观察者模式实战](https://mp.weixin.qq.com/s/xvYwY1NkkWBdHPQwosSycg)
 
 #### message
 
@@ -1469,6 +1478,8 @@
 + [SpringBoot 整合 RabbitMQ 轻松实现流量消峰](https://mp.weixin.qq.com/s/6Qvp10_dz5MF2iFg4MSAMw)
 + [Spring Boot整合Kafka+SSE实现数据实时展示](https://mp.weixin.qq.com/s/WUH1iPP1OsJfZeU-ZjPq7A)
 + [Spring Boot3新特性@RSocketExchange轻松实现消息实时推送](https://mp.weixin.qq.com/s/3CDtgpYXHApf6DcVoGVNmA)
++ [RSocket vs WebSocket：Spring Boot 3.3 中的两大实时通信利器](https://mp.weixin.qq.com/s/6JH6xAChOT2PtoGoDf5_JQ)
++ [Spring Boot 3.3与RSocket完美集成：构建高性能异步消息传递系统](https://mp.weixin.qq.com/s/Fbe6TJ9ddJymqN4FneRYYQ)
 
 #### 配置打包部署
 
@@ -1516,6 +1527,11 @@
 
 + [Spring Boot整合阿里云OSS文件上传](https://mp.weixin.qq.com/s/4os6eNIcHBaILhgmtroXQA)
 + [SpringBoot整合SSMP报错分析](https://mp.weixin.qq.com/s/CuMqdhYRau64t_n-pCPKdw)
++ [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
+
+#### 自定义实现
+
++ [手写@RefreshScope，很简单嘛！](https://mp.weixin.qq.com/s/eLFTzuHkyaVZoESpu6j0uQ)
 
 #### 原理&源码
 
@@ -1632,6 +1648,7 @@
 + [Netty 通过 MBean 监控流量](https://my.oschina.net/OutOfMemory/blog/790781)
 + [Netty 自定义协议](https://my.oschina.net/OutOfMemory/blog/290180)
 + [一次Netty使用不当引起的堆外内存泄漏问题（详细分析及解决）](https://mp.weixin.qq.com/s/w8NcfvqDQXmP3sLw9N106A)
++ [Netty 01 从EchoServer 开始抛砖引玉](https://mp.weixin.qq.com/s/GkkuBf9pjABFUscSUl_TVw)
 
 ## AKKA
 

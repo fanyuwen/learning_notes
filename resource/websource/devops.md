@@ -18,6 +18,7 @@
 + [ansible自动化运维工具](https://mp.weixin.qq.com/s/mA5LqcNj7SUoeSnIehGMHQ)
 + [运维最该记住的50个原则，关键时刻能救命！](https://mp.weixin.qq.com/s/HhiPhvyLVWM8vX0YpoQ4wg)
 + [掌握容器化持续集成/持续部署（CI/CD）的最佳实践](https://mp.weixin.qq.com/s/Q6P1QGUb3RpvVDJsN9fwoA)
++ [SRE常用工具和命令分享](https://mp.weixin.qq.com/s/WqvIgzLH0UwEL_4y1jguhA)
 
 ## JENKINS
 

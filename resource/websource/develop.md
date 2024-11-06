@@ -288,6 +288,7 @@
 + [一套万能的异步处理方案（建议收藏）](https://mp.weixin.qq.com/s/PEt25sZYC5mm1KVu8LLW9w)
 + [一套万能的异步处理方案（典藏版）](https://mp.weixin.qq.com/s/bBqWTkxcpOq1wnESEdpp3g)
 + [处理订单未支付并自动关闭](https://mp.weixin.qq.com/s/sH-LTdAJSUzKgGOz1jh-ZA)
++ [如何使用关闭延迟定时器来设计开启延迟定时器操作？](https://mp.weixin.qq.com/s/TStxEJ6D-A2B4BwUBgsPGg)
 
 ## 缓存
 
@@ -305,6 +306,7 @@
 + [缓存雪崩/穿透/击穿/失效原理图/14种缓存数据特征+10种数据一致性方案](https://mp.weixin.qq.com/s/gAH9bS0FLm9y5o5iB8BUHA)
 + [深入理解缓存穿透、缓存击穿和缓存雪崩](https://mp.weixin.qq.com/s/qFqIkdaXJVrPh3e3BZabFQ)
 + [缓存穿透、缓存击穿、缓存雪崩发生的原因及解决方案](https://mp.weixin.qq.com/s/51girjmYl_899gtiSPNFvw)
++ [【架构设计】多级缓存：应用案例与问题解决策略](https://mp.weixin.qq.com/s/ykm3xDuw6F3NAB6HwiqsnA)
 
 ## 优化
 

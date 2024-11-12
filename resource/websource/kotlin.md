@@ -7,7 +7,6 @@
 + [Kotlin Flow：掌握基本，征服应用，避开开发陷阱！](https://mp.weixin.qq.com/s/Crmm_AjCS3TBxmkPefg0oA)
 + [Kotlin协程+Retrofit网络请求如此简单](https://mp.weixin.qq.com/s/Jv5Wi7bXBuMZcxlsa0pQug)
 + [快速上手 Ktor：高效的 JVM HTTP 工具包 | 官方博客](https://mp.weixin.qq.com/s/W1WaWFrGOBBXUfwWoumhVA)
-+ [快速上手 Ktor：高效的 JVM HTTP 工具包 | 官方博客](https://mp.weixin.qq.com/s/W1WaWFrGOBBXUfwWoumhVA)
 + [Ktor 迈入 3.0，带来哪些变化和改进？｜官方博客](https://mp.weixin.qq.com/s/kaLFh78kp2U9q-Yd3AgdnQ)
 
 ## 技术月报

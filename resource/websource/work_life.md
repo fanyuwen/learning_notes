@@ -39,6 +39,7 @@
 + [阿里员工：内推了个38岁的研发，简历到HR连评估都没过，这个年龄找工作太难了，仿佛看见未来的自己](https://mp.weixin.qq.com/s/vz6L6G9wEHfK1xEb-XjlXQ)
 + [每个程序员都要有 3 份收入！](https://mp.weixin.qq.com/s/YuhpAozP8DdYoNS_w-NLvQ)
 + [程序员的副业发展](https://mp.weixin.qq.com/s/Y5HhsZrjW8F5MmlPIVQUlg)
++ [面试了一个38岁的候选人，月薪他要了1.2万，我说你可以再多要一点，因为他之前月薪是2.5万。结果他说：谢谢你，但薪资觉得够了！](https://mp.weixin.qq.com/s/gC8aQ1XdnlEk_oLeIzMzxQ)
 
 # 个人成长
 

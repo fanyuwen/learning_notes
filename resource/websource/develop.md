@@ -70,6 +70,7 @@
 ## 微服务
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
++ [2025年微服务架构的发展趋势预测](https://mp.weixin.qq.com/s/oM4CFGA7qfDecV978eEpeQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务架构 VS. 单体架构：对比与抉择](https://mp.weixin.qq.com/s/E5b_r9pGKWEnXgshlMbLaA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -110,6 +111,8 @@
 + [您需要模块，而不是微服务](https://mp.weixin.qq.com/s/D1acPeRv8QBmC-i-ww6G1g)
 + [微服务注册中心选择AP还是CP？](https://mp.weixin.qq.com/s/08Te83s_-BaN0q_rhrl8tw)
 + [crossbar 框架简介](https://mp.weixin.qq.com/s/DenAC9xSHeSwFQKOVch_RA)
++ [【Java面试100题突击】12 微服务里常问的ZAB协议是什么？](https://mp.weixin.qq.com/s/nGJczUNG1jn6OPluCzU0Kg)
++ [【Java面试100题突击】13 注册中心挂了，或者服务挂了，应该如何处理？](https://mp.weixin.qq.com/s/igEPddv0fOIwfXTb1YaaAg)
 
 # 分布式
 
@@ -159,6 +162,7 @@
 + [企业级高可用分布式锁剖析](https://mp.weixin.qq.com/s/DnW-1ZTaWi8_Q5-maVyASA)
 + [说说你了解的分布式锁实现](https://mp.weixin.qq.com/s/ByniE88w2FWCeu_ngDnp2g)
 + [分布式锁的六大应用场景](https://mp.weixin.qq.com/s/_xKMDNz3-p_yPDjm5TJKHw)
++ [【Java面试100题突击】16 分布式锁在项目中有哪些应用场景？](https://mp.weixin.qq.com/s/nxlq1EkqJ9IHv_jn6qrbkA)
 
 ## 分布式缓存
 
@@ -402,6 +406,7 @@
 + [面试官：如何在高并发下避免交易所宕机？](https://mp.weixin.qq.com/s/UUr4kHRnviUDlMHgHS-UhA)
 + [京东面试：亿级黑名单 如何设计？亿级查重 呢？（答案含：布隆过滤器、布谷鸟过滤器）](https://mp.weixin.qq.com/s/G4Y1u85eJL2gDEedi8_RZg)
 + [反问面试官：如何实现集群内选主](https://mp.weixin.qq.com/s/Lxt1ujFicJm-8KYBlVptZQ)
++ [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/tuPZZHuyalBIsBrY4B_7AA)
 
 # 测试相关
 

@@ -361,6 +361,8 @@
 + [Python金融数据分析：10个金融数据挖掘的技巧](https://mp.weixin.qq.com/s/KxARCdltbmXcs-H1uolooQ)
 + [Python Turtle魔法：绘制一个会走的时钟](https://mp.weixin.qq.com/s/J0CNQX0Nu55CgSQ34wnE3A)
 + [Python 对象引用计数：最厉害的内存管理方式](https://mp.weixin.qq.com/s/VqgpzjtBiZMF55TE8W_EsQ)
++ [Python 在自然语言处理中的 15 个实用算法](https://mp.weixin.qq.com/s/DCs1sP_2XlVbhQR0UVxeVg)
++ [Python移动应用开发的8个入门指南](https://mp.weixin.qq.com/s/FECeStmozdacwJAfXFgEMQ)
 
 ## 新特性
 
@@ -397,6 +399,7 @@
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
++ [Coconut，一个函数式Python库！](https://mp.weixin.qq.com/s/6CZFL825flvUNvocTYbOqA)
 + [pdf-info，一个Python中非常有用的库](https://mp.weixin.qq.com/s/I5__jvYXypwRpESkR2RvDA)
 + [dreamsound，一个Python中非常有用的库](https://mp.weixin.qq.com/s/n4ekpxuYaZ2uXAYuHcIGJA)
 + [altair，一个无敌的 Python 库！](https://mp.weixin.qq.com/s/WMK2VVeRqzFoSBXUs5AJ_Q)
@@ -406,6 +409,7 @@
 + [Streamlit：使用 Python 快速开发 Web 应用](https://mp.weixin.qq.com/s/hz-3a3FvmiaLto9vqJUBuA)
 + [pkgLavanya，一个Python中非常牛逼有用的库](https://mp.weixin.qq.com/s/nNh6z0dLKqOIA0jRqQkzVw)
 + [世上最强Python库——TheKey](https://mp.weixin.qq.com/s/dyI1u3AzhZ8bjbQfJAB2xg)
++ [Joblib - 一个非常实用但容易被忽视的宝藏Python库](https://mp.weixin.qq.com/s/fwKh6fqA-ivaP_Q_4nOyAA)
 + [Python初探：modelbox库的入门到实践](https://mp.weixin.qq.com/s/TRknx6spsz877aXcLQI6Qg)
 + [Bokeh，一个交互式可视化的 Python 库！](https://mp.weixin.qq.com/s/REaXh6aGzjYIvxY40CDAgA)
 + [progshot：一个Python中非常有用的库](https://mp.weixin.qq.com/s/jqOYuByuBexJDut-F4rayg)
@@ -596,6 +600,7 @@
 + [NumPy基础入门教程总结](https://mp.weixin.qq.com/s/SA-ZCpJfbbRysesgikLX6w)
 + [最强总结！ 十大 NumPy 矩阵运算 ！！](https://mp.weixin.qq.com/s/UqLMa4fAov9yb0rC6tBkng)
 + [图文解说numpy,了解使用场景和作用](https://mp.weixin.qq.com/s/lbl1b6g6eJSbakhtCC0PmQ)
++ [Numpy系列（二）- Numpy数组（一）](https://mp.weixin.qq.com/s/0ZdghNO3u-bkrq-lT9SPqA)
 
 ## 工具
 
@@ -665,6 +670,10 @@
 ### Matplotlib
 
 + [Matplotlib imshow()方法详解：图像显示的基础与进阶](https://mp.weixin.qq.com/s/SYeDs3C8gbQk3FZUJh5zfQ)
+
+### Ray
+
++ [Ray：分布式计算的超级英雄！](https://mp.weixin.qq.com/s/gudIIljPWsl02ZO5hU6iGg)
 
 ## 爬虫
 

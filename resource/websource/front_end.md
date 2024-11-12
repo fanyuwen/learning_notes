@@ -52,6 +52,7 @@
 + [10 个你可能不知道的高级 JavaScript 技术](https://mp.weixin.qq.com/s/OaJjJ0akCo7Vk5LlRQitvA)
 + [前端小知识：使用 Array.of() 轻松创建数组](https://mp.weixin.qq.com/s/5IXEmsfQRpHqRZC7tuVqGw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
++ [告别代码崩溃！JavaScript 异常处理必备技巧](https://mp.weixin.qq.com/s/1R-ywgpWgisPHAAYQsIStQ)
 + [停止使用 `let` 或为什么它在 JavaScript/TypeScript 中是不必要的【包邮送书】](https://mp.weixin.qq.com/s/_ubMihG-UX0H7jHaWtA3fQ)
 + [JS高级-with、eval以及严格模式](https://mp.weixin.qq.com/s/BbsHCFMkNK7iNH5V1NDePA)
 + [JS中sleep方法的实现](https://mp.weixin.qq.com/s/-gxQchQOVpaUyj1HYPlZXg)
@@ -129,6 +130,7 @@
 + [在vue3 中使用typescripts配置axios，axios调用后端流程分析](https://mp.weixin.qq.com/s/s65zws6mdvWbAADvKlKSzw)
 + [VUE-Router ~ 路由的基本使用](https://mp.weixin.qq.com/s/JAwjEEAQdAqU7EAo_e4jOg)
 + [vue实现登录获取token并自动刷新token进行JWT认证](https://mp.weixin.qq.com/s/sWDnhq6MCUusQ0-aUpfNPw)
++ [Vue项目打包部署与路由配置解析](https://mp.weixin.qq.com/s/zHZypwsCcZxDRXjEthNoPg)
 
 ## react
 

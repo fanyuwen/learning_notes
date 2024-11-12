@@ -54,6 +54,9 @@
 + [SQL语句执行顺序](https://mp.weixin.qq.com/s/KUotzXSb3kl8QljUdpApSg)
 + [8种专坑同事的 SQL 写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/cEUWxkYCviACfGYrZy7KMg)
 + [SQL进阶技巧：巧用异或运算解决经典换座位问题](https://mp.weixin.qq.com/s/9L398hDf60l8rVR-BvyNpg)
++ [SQL优化的35个小技巧](https://mp.weixin.qq.com/s/pRPHyWMiaU9CRzkiCM2dPg)
++ [线上问题排查(3)--慢SQL排查](https://mp.weixin.qq.com/s/g4bYrlMe-tKHThqNKf2BMA)
++ [专坑同事的 SQL 写法，性能降低100倍，别踩坑。。。](https://mp.weixin.qq.com/s/e3E6Ekxvx5idXx91J0LgmQ)
 
 # 本地数据库
 
@@ -302,6 +305,7 @@
 #### 事务
 
 + [MYSQL 事务的底层原理 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10142911?s_trans=2197476363_&s_channel=4)
++ [数据库事务控制](https://mp.weixin.qq.com/s/be1lzxXcl9l8t1NIJ1nbLw)
 + [面试官：数据库事务的隔离级别有哪些？什么是脏读、不可重复读、幻读？MySQL InnoDB引擎中分别是如何实现的？](https://mp.weixin.qq.com/s/92QokZakxpNuD49d0f2_Ow)
 + [(七)MySQL事务篇：ACID原则、事务隔离级别及事务机制原理剖析](https://mp.weixin.qq.com/s/S-9B_5JoSG6YlBLulL5VGg)
 + [揭秘MySQL InnoDB事务管理机制与MVCC：深度解析与实战指南](https://mp.weixin.qq.com/s/E3MU7u8om4dxeXaxMpgtOA)
@@ -351,6 +355,7 @@
 + [Mysql索引原理和查询优化 1](https://mp.weixin.qq.com/s/lpFoAEW5Ob8p3vLJ6xUb9A)
 + [MySQL 索引优化：深入自适应哈希索引的奥秘](https://mp.weixin.qq.com/s/D-sd4VXOFVLMmzbZZdUseA)
 + [还在滥用模糊查找？这类场景下 MySQL 多值索引性能更加强悍！](https://mp.weixin.qq.com/s/W1Dd6zBQ1i5YKlwTiL9PWQ)
++ [索引的工作原理](https://mp.weixin.qq.com/s/QsnJ2bUfHSmHV6P5p3qaSA)
 
 ### PostgreSQL
 

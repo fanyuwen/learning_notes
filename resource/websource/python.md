@@ -114,6 +114,7 @@
 + [Python 字符串格式化输出](https://mp.weixin.qq.com/s/-piYtizGRJAXNNEjlfxrVQ)
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
++ [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
@@ -184,6 +185,7 @@
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [Python进阶宝典：十个实用技巧提升代码效率](https://mp.weixin.qq.com/s/MO495CRUM9tx8CnTwwQlnA)
 + [python应用-计算两个日期的时间差](https://mp.weixin.qq.com/s/49cAQSYDcDk4DTV_PMrKjA)
++ [8个常用的 Python 脚本](https://mp.weixin.qq.com/s/hD1RfXNx3aa14mSAg-n0hg)
 + [实现Python批量文件操作的5种方式](https://mp.weixin.qq.com/s/lR0MOXr0bNJtxHbEnZT6uQ)
 + [手把手教你做自己的Python装饰器，提升代码复用能力](https://mp.weixin.qq.com/s/bMZ_ka5e4DOVt7xvRybIZQ)
 + [你知道 Python 其实自带了小型数据库吗？](https://mp.weixin.qq.com/s/xsfwDxgF9EVTQftqkCX-QA)
@@ -629,6 +631,7 @@
 + [最牛逼的Python命令行工具：轻松使用argparse处理参数！](https://mp.weixin.qq.com/s/i9gEOi5DpBjVH80CSwxSyQ)
 + [Python图形界面的最牛逼选择：FLTK，让你的应用程序生动起来！](https://mp.weixin.qq.com/s/dWPYEqsbWO_McRtzcLXpNQ)
 + [最强Python包管理工具：Poetry的使用与实践](https://mp.weixin.qq.com/s/lFK4OU4Np7_ue8POmc7aBQ)
++ [Optimus：Python中的高性能数据处理加速器](https://mp.weixin.qq.com/s/rnveVySRv7oQmxZsoLCoMg)
 
 ## 框架
 

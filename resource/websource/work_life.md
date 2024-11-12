@@ -199,6 +199,7 @@
 + [效率拉满，开发了一款可直接编辑 jar 包的 IDEA 插件](https://mp.weixin.qq.com/s/TjnBoXlZzrPkRW0aUoz_Gg)
 + [一款 IDEA Mybatis插件：极大提升 CRUD 效率，堪称神器！](https://mp.weixin.qq.com/s/SYZOa1Ay-dyiuy-jmrbJiA)
 + [开发了一年的IDEA插件，接口调试的强大工具，敢说吊打所有](https://mp.weixin.qq.com/s/XKY3sKSicmHSaACGITAyQA)
++ [这些好用的IDEA插件你应该知道！](https://mp.weixin.qq.com/s/1TCwbT8elo5TTUoaVCwdxg)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/2jAlSCNd3VhZKxcjnciKKg)
 + [我常用的那些快捷键](https://mp.weixin.qq.com/s/HqK2lxyVOgqX0X0Q2P81RQ)
 + [Jetbrains做的工具盒越来越好了](https://mp.weixin.qq.com/s/PZ13bdhg2U0O19VDIUV53g)
@@ -211,6 +212,7 @@
 + [6款IntelliJ IDEA插件，Spring和Java开发如虎添翼](https://mp.weixin.qq.com/s/7FkL9spsjXNZAMG3VVUhDQ)
 + [IDEA 2021 底部 Local Changes 不显示解决办法](https://mp.weixin.qq.com/s/pHY-qY4deK87tgH1FpqRdA)
 + [IntelliJ IDEA插件开发-Hello World插件](https://mp.weixin.qq.com/s/_lZQTE1Gg5kxGMt9JPXHpA)
++ [高手必会的 IDEA Debug 使用技巧，你都用过吗？](https://mp.weixin.qq.com/s/FQy05f91sGlbN2IOx5am_w)
 
 ## MAC_PRO相关
 

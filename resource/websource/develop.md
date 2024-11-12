@@ -400,6 +400,8 @@
 + [你知道什么是 SaaS 吗？](https://mp.weixin.qq.com/s/xV2qBBVqr5CS9_YGsUyooA)
 + [Polling和Webhooks，细说两者的区别](https://mp.weixin.qq.com/s/-zYppv4rcNijHueSN1YeAQ)
 + [面试官：如何在高并发下避免交易所宕机？](https://mp.weixin.qq.com/s/UUr4kHRnviUDlMHgHS-UhA)
++ [京东面试：亿级黑名单 如何设计？亿级查重 呢？（答案含：布隆过滤器、布谷鸟过滤器）](https://mp.weixin.qq.com/s/G4Y1u85eJL2gDEedi8_RZg)
++ [反问面试官：如何实现集群内选主](https://mp.weixin.qq.com/s/Lxt1ujFicJm-8KYBlVptZQ)
 
 # 测试相关
 

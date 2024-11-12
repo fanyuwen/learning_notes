@@ -498,6 +498,7 @@
 + [Redis的常见问题](https://mp.weixin.qq.com/s/AlByIjZJz0-x96mTXg4PBA)
 + [聊聊redis字典指令操作](https://mp.weixin.qq.com/s/cLVW4GGDjmQxbL6R7Qs1Xg)
 + [Redis 内存淘汰策略](https://mp.weixin.qq.com/s/W4v9XrK8vBe7QEM1e8G21Q)
++ [Redis的主从同步机制](https://mp.weixin.qq.com/s/vlH7q5lGJqEwMaSkOAxcUA)
 
 #### 原理
 

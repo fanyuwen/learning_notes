@@ -309,6 +309,7 @@
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
 + [Java 虚拟机运行时数据区](https://my.oschina.net/OutOfMemory/blog/299525)
++ [Java 面试题 --JVM 大厂篇之 JVM 调优实战：让你的应用一飞冲天](https://mp.weixin.qq.com/s/RQVCBjKRKn7O5Bt3gM_rFQ)
 + [性能调优专题 -- JVM详解（1）](https://mp.weixin.qq.com/s/MmqQLMRCbawbFaYceTGPWg)
 + [3分钟带你秒懂对象的内存分配流程](https://mp.weixin.qq.com/s/FTvTMBwvPXmiiTVmykQiHA)
 + [一文轻松了解Java常用的垃圾收集器](https://mp.weixin.qq.com/s/Z7lwL6cXnRfF6MK5o1QUdQ)
@@ -356,6 +357,7 @@
 + [Minor GC、Young GC、Major GC、Old GC、Full GC、Mixed GC傻傻分不清楚？](https://mp.weixin.qq.com/s/PPNzrgykvSUKr-xfYVf7kw)
 + [JVM堆内存分配策略：指针碰撞和空闲列表](https://mp.weixin.qq.com/s/cTD_SAwN2gPmNsodCbBERg)
 + [线上问题排查(4)--Java频繁Full GC](https://mp.weixin.qq.com/s/a9LUZz8KWxlblrkD9lgkiw)
++ [JVM如何判断对象是否存活？](https://mp.weixin.qq.com/s/3ZEWjaZLX_GWX5G5pJNCnQ)
 
 # 核心库
 
@@ -580,6 +582,7 @@
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/k4CP-jA3m6-gXNWD2uLKDg)
 + [原来，这才是 JDK 推荐的线程关闭方式](https://mp.weixin.qq.com/s/VuJeIqI2iG5gl-Q3mbRCIg)
 + [盘点那些强大又低调的 Java 缓存](https://mp.weixin.qq.com/s/yujiHARZo_48wAf9UzeKAQ)
++ [“3种方式重写第三方jar包”是每个程序员迈向成熟必备的技能](https://mp.weixin.qq.com/s/stfxBQFcDqdfCClOAJhdqg)
 
 # 包管理工具
 
@@ -732,6 +735,7 @@
 + [身份验证&授权，Spring Security是如何实现的？](https://mp.weixin.qq.com/s/wXJRPyqbdLhk4bZJYi_Jtw)
 + [Spring Security + Oauth2 认证授权](https://mp.weixin.qq.com/s/5arckiFJiNRIxr4p9t8olg)
 + [Spring Security核心原理解析](https://mp.weixin.qq.com/s/6OOe5QVj08tO6xSke8wT7Q)
++ [Spring Security + OAuth0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/ktdOTCCxmdLDVGA5pT-c7Q)
 
 ### data
 
@@ -900,6 +904,7 @@
 + [SpringBoot实战：如何实现多端口监听](https://mp.weixin.qq.com/s/Tz9hdLsRKsBdJKnAGzc-3A)
 + [SpringBoot 实战：强大的 Java Excel处理类](https://mp.weixin.qq.com/s/HfBmV5fJw-ZXj94VL57Wtw)
 + [掌握Spring Boot最佳途径！就该如此做](https://mp.weixin.qq.com/s/JjqZXqa35nANgcnGFQ25TA)
++ [用了这么久SpringBoot，这些隐藏技巧你真的掌握了吗？](https://mp.weixin.qq.com/s/_Zetg7oNOmUQdf6wDFDIug)
 + [一文详解：用Spring Boot实现自动化审核功能的关键步骤](https://mp.weixin.qq.com/s/ltrR839WqxxQbgQZW89LnQ)
 + [14个SpringBoot优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/1KhaQYb1BYc6vUnGG2dyzQ)
 + [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
@@ -1175,6 +1180,7 @@
 + [Spring Boot 封装统一返回结果及全局异常处理](https://mp.weixin.qq.com/s/u1ckDYPt-E-SXy2BflMajA)
 + [使用 Spring Boot 3 + SpringDoc 实现系统在线接口的功能开发](https://mp.weixin.qq.com/s/eO9FQL9ycqKG2ezvegXBuQ)
 + [SpringBoot实战：SpringBoot 优雅定制json响应数据](https://mp.weixin.qq.com/s/RrBzZlGt57cQUShkjS9mwQ)
++ [不写一行代码通过UI界面配置HTTP接口](https://mp.weixin.qq.com/s/mzXZpuQguUvlUHG1m5QXpw)
 + [如何在 Spring Boot 3.3 中实现请求 IP 白名单拦截功能](https://mp.weixin.qq.com/s/3YsMNlWwISTEWVMR5AI2wg)
 + [SpringBoot实战：Spring Boot 统一数据返回格式](https://mp.weixin.qq.com/s/FzryIrR-pO4apUgPUlS71w)
 + [如何在Spring Boot中实现请求IP白名单拦截](https://mp.weixin.qq.com/s/vD9fUdLqcp308b_x_ZA46Q)
@@ -1263,6 +1269,7 @@
 + [Jackson才是王！SpringBoot优雅的控制JSON数据](https://mp.weixin.qq.com/s/w-5Y_ZKjqV-D54olCGmq-g)
 + [SpringBoot使用@Validated优雅的处理校验](https://mp.weixin.qq.com/s/AOdQPV1y1JvQmw3zx4MCAg)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/OD82tmAhlBJ-2ww1IB3HKQ)
++ [SpringBoot在一次HTTP请求中耗费了多少内存](https://mp.weixin.qq.com/s/q7sGGRVwRXVML27oLYnl2A)
 + [Jackson在Spring Boot高级应用技巧【Long精度丢失, @JsonValue, 数据脱敏】](https://mp.weixin.qq.com/s/i0Pv-HPxHeqcGC7TaLBWtQ)
 
 ##### VUE
@@ -1374,6 +1381,8 @@
 + [Spring Boot中实现订单30分钟自动取消的策略](https://mp.weixin.qq.com/s/2sfFvts6xkjCTxy_DiTz3w)
 + [性能提升！@Async与CompletableFuture优雅应用](https://mp.weixin.qq.com/s/hZTB9CjP6zFHuq9mFQsn3Q)
 + [强大！Spring Boot3.3 后台任务处理最佳实践](https://mp.weixin.qq.com/s/iyCpxYDRLMdayhpeuod33A)
++ [SpringBoot 7种定时任务解决方案](https://mp.weixin.qq.com/s/SL2rausqq07qOtFNKpC4gA)
++ [速看！Spring Boot任务调度你不知道的使用技巧](https://mp.weixin.qq.com/s/lr86H6r4PJ46CRJ7Vu0ruQ)
 
 ##### Disruptor
 
@@ -1489,6 +1498,7 @@
 + [Spring Boot3新特性@RSocketExchange轻松实现消息实时推送](https://mp.weixin.qq.com/s/3CDtgpYXHApf6DcVoGVNmA)
 + [RSocket vs WebSocket：Spring Boot 3.3 中的两大实时通信利器](https://mp.weixin.qq.com/s/6JH6xAChOT2PtoGoDf5_JQ)
 + [Spring Boot 3.3与RSocket完美集成：构建高性能异步消息传递系统](https://mp.weixin.qq.com/s/Fbe6TJ9ddJymqN4FneRYYQ)
++ [Spring Boot 3.3与Spring Integration：构建可扩展的消息驱动架构](https://mp.weixin.qq.com/s/rUTegDv7AGpqjwaTSc9AGA)
 
 #### 配置打包部署
 
@@ -1752,6 +1762,7 @@
 + [B站 1面：手撕一个 Java Agent！](https://mp.weixin.qq.com/s/JnZYc9WyjdDCQCX9Lndvgg)
 + [“JVM” 上的AOP：Java Agent 实战](https://mp.weixin.qq.com/s/hQ-IdJXXa7rtisPn52G4CA)
 + [玩玩大厂都在用的 JavaAgent](https://mp.weixin.qq.com/s/7-6L8pvKelM8GAK5C_pl_Q)
++ [自己动手实现Agent统计API接口调用耗时](https://mp.weixin.qq.com/s/Wq61TXQ_mMgG1pqBRALGJQ)
 
 ## 测试相关
 

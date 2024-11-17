@@ -220,6 +220,10 @@
 + [12.1K star！这款轻量级 Mac 工具非常推荐使用！](https://mp.weixin.qq.com/s/GX1wCGTPDTRENLDSRCSTfg)
 + [从零搭建专业程序员的Mac系统](https://mp.weixin.qq.com/s/S8-D6gNOwJHd_0uPp7-7vA)
 
+## NAS
+
++ [Nas的硬件参数怎么看，家用Nas配置怎么选看这一篇就够了！](https://mp.weixin.qq.com/s/1cLlhh3afdOIczCe7hn7MA)
+
 # 行业新闻
 
 + [半年不到，已经三个线上事故了。](https://mp.weixin.qq.com/s/FDQ5C3WMxBvW1l-XMFtsEw)

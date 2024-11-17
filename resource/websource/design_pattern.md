@@ -13,6 +13,7 @@
 + [一文读懂10种最经典的设计模式](https://mp.weixin.qq.com/s/Vo8IKRZ3RTHclI21x28bSw)
 + [github小众神项目，给人学的23个设计模式（不知道就亏大了）](https://mp.weixin.qq.com/s/snNCGvQKEiLEskiIIxqWIw)
 + [搞懂策略模式和模板方法模式](https://mp.weixin.qq.com/s/8P_-KFSJvNtnkNSTx3DgAQ)
++ [工厂+策略模式项目中结合使用](https://mp.weixin.qq.com/s/_u3rMOjqDoL5KuBJTSZ0tQ)
 
 # 原则
 

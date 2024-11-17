@@ -103,6 +103,7 @@
 + [前端性能优化之web worker](https://mp.weixin.qq.com/s/93qOQy01PPwJ4alNLQg_lg)
 + [没人告诉你的一件关于 TypeScript 的事](https://mp.weixin.qq.com/s/t0ZaUkFWG7il4NQMX0RicA)
 + [前端基于DOM或者Canvas实现页面水印](https://mp.weixin.qq.com/s/vjC4LsbQDomZW8cBA8NV_g)
++ [前端你不能不了解的核心秘密，耗时任务的处理](https://mp.weixin.qq.com/s/gWnvdVCA6bJHqb9TqqZWEg)
 
 # 框架
 

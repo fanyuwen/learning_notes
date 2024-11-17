@@ -106,6 +106,7 @@
 + [微服务架构中的通信风格](https://mp.weixin.qq.com/s/-X75FChGAQ359JarczOYxQ)
 + [微服务循环依赖引发惨案，有坑！](https://mp.weixin.qq.com/s/KSR_w6VPP9FAK8-z_nvsfw)
 + [为什么微服务一定要有网关？](https://mp.weixin.qq.com/s/t7w7TRsgRR-6HyuZIr-G-w)
++ [微服务中常见的 9种设计模式！如何选择？](https://mp.weixin.qq.com/s/3Pe1WCLP8nrWmy_OTi5D-Q)
 + [微服务重构：Mysql+DTS+Kafka+ElasticSearch解决跨表检索难题](https://mp.weixin.qq.com/s/izd_EOP9Wf-TUnG21NXUdA)
 + [【入门笔记】微服务设计模式 - Saga](https://mp.weixin.qq.com/s/bUwVvpPhdCKpNgRMW5wFTg)
 + [您需要模块，而不是微服务](https://mp.weixin.qq.com/s/D1acPeRv8QBmC-i-ww6G1g)
@@ -366,6 +367,7 @@
 + [大型SaaS系统的数据范围权限设计与实现](https://mp.weixin.qq.com/s/eB9NKnNl1Oq8CccwWMNK4g)
 + [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/qKLvRnySF9h0jnPbaRoJcQ)
 + [JWT 实现登录认证 + Token 自动续期方案，这才是正确的使用姿势！](https://mp.weixin.qq.com/s/0xHyRCassgGXp_jq-wcDbg)
++ [详解三大权限模型](https://mp.weixin.qq.com/s/X-Jr8DYsAMgXM0gbwhhtfA)
 
 ## 存储
 
@@ -462,6 +464,7 @@
 + [API设计秘籍：从入门到精通](https://mp.weixin.qq.com/s/wSEWRBrtO92WG-37Q-P9gg)
 + [如何做好 API 接口设计？](https://mp.weixin.qq.com/s/c1zLWvObvB9JzOpLbf1b1g)
 + [如何为开放平台设计一个安全好用的OpenApi](https://mp.weixin.qq.com/s/SvSbh1xDZCwsA76dvm3qOQ)
++ [面试官：业务开发时，接口不能对外暴露怎么办？](https://mp.weixin.qq.com/s/uHfn9jWWQLpAZbfM3lsgkg)
 
 ## 系统相关
 

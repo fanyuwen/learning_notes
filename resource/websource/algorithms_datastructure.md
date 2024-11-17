@@ -32,6 +32,7 @@
 + [除了递归算法，要如何优化实现文件搜索功能](https://my.oschina.net/u/8152955/blog/15893693)
 + [树状数组——高效动态处理数据](https://mp.weixin.qq.com/s/ovu3foHm07ojmJ38Co5X-A)
 + [Bitmap 和 布隆过滤器傻傻分不清？你这不应该啊](https://my.oschina.net/u/4455409/blog/16435972)
++ [图解布隆过滤器和布谷鸟过滤器实现原理](https://mp.weixin.qq.com/s/y-KbXXmoUTSM2Fg2fOibdw)
 
 # 密码学
 

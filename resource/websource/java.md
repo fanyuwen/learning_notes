@@ -30,6 +30,7 @@
 + [来聊聊Java中的可变参数](https://mp.weixin.qq.com/s/6iVBZLHejYbL3pCzVZei8Q)
 + [Java学习笔记——数据结构](https://mp.weixin.qq.com/s/pPSAOHtdCtr6P7-L01Ms1Q)
 + [Java接口详解](https://mp.weixin.qq.com/s/2Sfct1_jTAqbN4X_SQuPsw)
++ [面向对象程序设计要点](https://mp.weixin.qq.com/s/6TanmhrQuOi84-PGf0637g)
 + [Java学习笔记——面向对象编程（高级上）](https://mp.weixin.qq.com/s/cQ1YrWg0bpf_XuuKx5V98A)
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
@@ -137,6 +138,7 @@
 + [减少代码的神器：函数式接口和Lambda表达式](https://mp.weixin.qq.com/s/dq_QZS_XueUEd2ZX7QjZOg)
 + [Java如何优雅地判断对象是否为空](https://mp.weixin.qq.com/s/0XTu09hFts_uZkKKmCcVDA)
 + [多线程交替顺序打印ABC的多种方式](https://mp.weixin.qq.com/s/_v0yTJZEziZQ9LQ1Y2-9Pg)
++ [Java中使用for而不是forEach遍历List的10大理由](https://mp.weixin.qq.com/s/tvJUs8DgyZPFxRtI1PMnvg)
 
 ## 代码质量
 
@@ -261,6 +263,7 @@
 + [Java多线程 -- ForkJoin线程池](https://mp.weixin.qq.com/s/oL5O-3TkpxjFhuxCmAUK-w)
 + [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
 + [【多线程】对象的内存布局](https://mp.weixin.qq.com/s/3JI0LunytTfCi2vOZ4ggFA)
++ [【多线程】synchonized实现过程](https://mp.weixin.qq.com/s/Mq_LGyXp0ulFh3LbNMIGGA)
 + [万字长文详解Java线程知识](https://mp.weixin.qq.com/s/wS0_eEuOLhDX7wyru57ikQ)
 + [sychronized的自旋锁、偏向锁、轻量级锁、重量级锁，分别介绍和联系](https://mp.weixin.qq.com/s/SRAPGkiu44v62YSd1EAoJQ)
 + [【多线程与并发】偏向锁启动与偏向锁未启动](https://mp.weixin.qq.com/s/gHlYuzS85Vv4l2qR5y-k1Q)
@@ -360,6 +363,7 @@
 + [JVM堆内存分配策略：指针碰撞和空闲列表](https://mp.weixin.qq.com/s/cTD_SAwN2gPmNsodCbBERg)
 + [线上问题排查(4)--Java频繁Full GC](https://mp.weixin.qq.com/s/a9LUZz8KWxlblrkD9lgkiw)
 + [JVM如何判断对象是否存活？](https://mp.weixin.qq.com/s/3ZEWjaZLX_GWX5G5pJNCnQ)
++ [【JVM】类加载器 原理、示例和讲解](https://mp.weixin.qq.com/s/8mNwZIL7mG_XY3IGoKaIJw)
 
 # 核心库
 
@@ -461,6 +465,7 @@
 ### Future
 
 + [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
++ [Java异步编程CompletableFuture(串行,并行,批量执行)](https://mp.weixin.qq.com/s/H8mfKv6ad04OtQzvppOnaA)
 + [如何使用CompletableFuture进行多个REST的并行调用](https://mp.weixin.qq.com/s/lZJTBi-yEgtNHXRF8n0SkQ)
 + [Java多线程 -- CompletableFuture（1）](https://mp.weixin.qq.com/s/3VednZRRd7xiuwZ2Igq4cw)
 + [Java多线程 -- CompletableFuture（2）](https://mp.weixin.qq.com/s/UpAGuOn80nAcikgkLH5fXw)
@@ -503,6 +508,7 @@
 + [面试官：线程池核心线程设置为0时任务执行流程怎么样的](https://mp.weixin.qq.com/s/qFBuDB26h2zAFwEGhDQ6Dw)
 + [线程隔离浅析](https://my.oschina.net/OutOfMemory/blog/4282809)
 + [如何创建一个线程池，为什么不推荐使用Executors去创建呢？](https://mp.weixin.qq.com/s/psrbKohqsL4NZvADC9xNzw)
++ [如何优雅地关闭线程池？](https://mp.weixin.qq.com/s/L1tSqTGEiDGCUxWEZJMzxw)
 
 ### ThreadLocal
 
@@ -554,6 +560,7 @@
 + [【多线程与高并发】Exchanger原理、示例、讲解](https://mp.weixin.qq.com/s/Tdz-bN7M4ORPHZx-qsLpfw)
 + [Java进阶篇 -- 线程同步（cyclicbarrier）](https://mp.weixin.qq.com/s/QtZoRXQjh2IfQ1MnLgi3TQ)
 + [CountDownLunch(闭锁)、CyclicBarrier(栅栏锁)、Semaphore(信号量)的区别](https://mp.weixin.qq.com/s/_PpWiH8XDPPH7tiZ-5SiuA)
++ [【多线程与高并发】CountDownLatch示例和讲解](https://mp.weixin.qq.com/s/SeqxqzqCSxQdhlJD0X8GwA)
 + [CountDownLatch 和 CyclicBarrier 的区别](https://my.oschina.net/OutOfMemory/blog/157130)
 + [CountDownLatch / Semaphore 该如何使用？](https://mp.weixin.qq.com/s/bSBUo-qGSwtVn2Ncl5-YMw)
 + [Java中的Semaphore：灵活控制并发访问的秘诀](https://mp.weixin.qq.com/s/h0h9dPj7n6oEVwDmPM4XeA)
@@ -580,12 +587,14 @@
 
 + [再聊 SPI 机制](https://my.oschina.net/u/4494662/blog/11049008)
 + [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [Java SPI机制及其与Spring SPI、Spring Boot SPI的异同](https://mp.weixin.qq.com/s/N16tju6dVeue9liMD9HqMQ)
 + [手撸RPC框架 -SPI机制基础功能实现](https://mp.weixin.qq.com/s/Druh2yOtAedsKDdEKSS0-A)
 + [详解Java中的SPI技术以及在架构设计的运用](https://mp.weixin.qq.com/s/kFtMUTsBWF0EHKpJGS8r_g)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/k4CP-jA3m6-gXNWD2uLKDg)
 + [原来，这才是 JDK 推荐的线程关闭方式](https://mp.weixin.qq.com/s/VuJeIqI2iG5gl-Q3mbRCIg)
 + [盘点那些强大又低调的 Java 缓存](https://mp.weixin.qq.com/s/yujiHARZo_48wAf9UzeKAQ)
 + [“3种方式重写第三方jar包”是每个程序员迈向成熟必备的技能](https://mp.weixin.qq.com/s/stfxBQFcDqdfCClOAJhdqg)
++ [Java Jar](https://mp.weixin.qq.com/s/e0nfxWbL4XyTiQ_ufSXfDA)
 
 # 包管理工具
 
@@ -725,6 +734,7 @@
 + [Java多线程 -- 定时任务](https://mp.weixin.qq.com/s/qBk3yD6A8EtzHyDMVsXMHw)
 + [Spring 定时任务与 XXL-JOB 灵活切换方案](https://mp.weixin.qq.com/s/FckmkpilPagrRBzEl6fkMQ)
 + [SpringBoot+XXL-JOB：高效定时任务管理](https://mp.weixin.qq.com/s/VTUiGmS-aOXQvJvkxj6-mA)
++ [@Async的使用](https://mp.weixin.qq.com/s/d7nF20ASBxOfCbf9ThSXMQ)
 
 ### security
 
@@ -893,6 +903,7 @@
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
 + [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
++ [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [提升效率！Spring Boot 开发中的常见失误轻松规避](https://mp.weixin.qq.com/s/1oiw3ht_cyFvIwRqIOmo7A)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
@@ -935,6 +946,7 @@
 + [Spring Boot项目中如何解决循环依赖](https://mp.weixin.qq.com/s/KCkHAiW53Pr7ZCFWBNVXow)
 + [在 SpringBoot 中设计一个订单号生成系统](https://mp.weixin.qq.com/s/hsAVKOYKbna5Ukf_E6Ts8Q)
 + [零停机更新代码：SpringBoot新技能](https://mp.weixin.qq.com/s/hrCBIjCTgaSUNPNikGh_yA)
++ [SpringBoot可以这样提高系统吞吐量](https://mp.weixin.qq.com/s/_9yw5ZrcFUh7Yt5amB2pjw)
 + [Spring Boot与BPMN的完美结合：提升业务效率的秘诀](https://mp.weixin.qq.com/s/km55RLNPu87R4dpHTm9SgQ)
 + [轻松过渡！在 Spring Boot 3.3 项目中从 Date 到 LocalDateTime 的优雅转换](https://mp.weixin.qq.com/s/PaEtdATlCuRUEcWh9APaxg)
 + [使用 Spring Boot + OpenPdf 实现 PDF 导出功能](https://mp.weixin.qq.com/s/BALOiCrhWZ_GX3IGXTDk1A)
@@ -1150,8 +1162,10 @@
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
 + [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
 + [Spring Boot参数验证这样做！10个技巧你知道几个？](https://mp.weixin.qq.com/s/lCxmzYLkYwHAcqmGrgOptw)
++ [【java面试100问】20 SpringBoot如何解决跨域问题？](https://mp.weixin.qq.com/s/_RTTH0NnRyIabtbX1bkz7g)
 + [用Spring Boot 3打造安全API：加密功能的最佳实践](https://mp.weixin.qq.com/s/68-hGigWMSJtJ9u6AOTgPg)
 + [Spring Boot 接口数据加解密，太方便了！](https://mp.weixin.qq.com/s/Kt-Brzcsay9sn7Rq6fWvhw)
++ [Spring Boot实战：通过Agent统计接口调用耗时](https://mp.weixin.qq.com/s/YqvYu1GjK3JmOYxyi6w62g)
 + [SpringBoot 3 新HTTP客户端工具让代码简洁又优雅，不用再用 HttpUtil](https://mp.weixin.qq.com/s/hPsnUoWSxaK88y8dvIbDkA)
 + [Spring Boot 不同HTTP客户端 同步&异步请求对比](https://mp.weixin.qq.com/s/3Pp2QRgzXqaY1XcTBACalg)
 + [Spring Boot REST API版本控制的方案及选择](https://mp.weixin.qq.com/s/hC9rWG0o10ZtsyawfvWvAw)
@@ -1230,6 +1244,7 @@
 + [Spring Boot API 编写的十个最佳实践，你知道几个？](https://mp.weixin.qq.com/s/ORc9K3ZdE6WqKNenWWV8dQ)
 + [快试试用 API Key 来保护你的 SpringBoot 接口安全吧](https://mp.weixin.qq.com/s/NEBCKQhtxMJ2H69tsvJpOw)
 + [Spring Boot 3太强：全新Controller接口定义方式](https://mp.weixin.qq.com/s/Pn_NaZ3wOSLMMp53h_Uemg)
++ [SpringBoot实战：设计接口防篡改和防重防攻击](https://mp.weixin.qq.com/s/EsuKIGpl8nw3tnFNsh_r8A)
 + [Spring Boot跨域问题解决](https://mp.weixin.qq.com/s/sUdk5E6cptl0QaWK2qiXUw)
 + [SpringBoot 同时可以处理多少请求？这可难倒了不少人](https://mp.weixin.qq.com/s/VbHw3MK3zjfBf0YDtbh3vg)
 + [SpringBoot实现接口防抖的几种方案，杜绝重复提交](https://mp.weixin.qq.com/s/K63Q6Ef0Z2GoZK1XUppRJg)
@@ -1278,6 +1293,7 @@
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/OD82tmAhlBJ-2ww1IB3HKQ)
 + [SpringBoot在一次HTTP请求中耗费了多少内存](https://mp.weixin.qq.com/s/q7sGGRVwRXVML27oLYnl2A)
 + [Jackson在Spring Boot高级应用技巧【Long精度丢失, @JsonValue, 数据脱敏】](https://mp.weixin.qq.com/s/i0Pv-HPxHeqcGC7TaLBWtQ)
++ [SpringBoot中@Service能否取代@Controller？](https://mp.weixin.qq.com/s/lUNLPmHbisFpCgy76fzTGA)
 
 ##### VUE
 
@@ -1336,6 +1352,7 @@
 + [Spring Boot实战：使用Spring Cloud Stream处理实时交易数据](https://mp.weixin.qq.com/s/wjaACUVmBQFi_2P5QPYoAA)
 + [Spring Boot 3.3与R2DBC：构建响应式关系型数据库连接的最佳实践](https://mp.weixin.qq.com/s/Da-IGtfTe0XVipBWlTLJKw)
 + [安装 ClickHouse（windows）及 SpringBoot 整合示例](https://mp.weixin.qq.com/s/hL_5r1Tivsg-Nfga4L1b3Q)
++ [使用Spring Boot实现动态数据源切换](https://mp.weixin.qq.com/s/FSiWItsAQ8r9osNuLwAE-Q)
 
 ##### TRANSACTION
 
@@ -1557,6 +1574,7 @@
 + [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/8XogcjeTvUhS9fyAIIBSqQ)
++ [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/Q46Bgq2Dw5CMG-VT_nLXtw)
 
 #### 自定义实现
 
@@ -1670,6 +1688,7 @@
 + [拜托！面试请不要再问我 Netty 底层架构原理！](https://mp.weixin.qq.com/s/Sldln-i580LJusQd_YW06w)
 + [一张图学会Netty线程模型](https://mp.weixin.qq.com/s/-wbw78AGJTFYMeas3IY6dg)
 + [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
++ [使用Netty 如何解决半包粘包？](https://mp.weixin.qq.com/s/sGRHWh06u88fdhO_modheg)
 + [(十)Netty进阶篇：漫谈网络粘包、半包问题、解码器与长连接、心跳机制实战](https://mp.weixin.qq.com/s/BK14ryGrHiNMiMDVC-7s-Q)
 + [(十一)Netty实战篇：基于Netty框架打造一款高性能的IM即时通讯程序](https://mp.weixin.qq.com/s/RMUbCeIknr99imAEtgvGmg)
 + [Netty 基于 protobuf 协议的编解码](https://my.oschina.net/OutOfMemory/blog/294505)
@@ -1679,6 +1698,7 @@
 + [Netty 自定义协议](https://my.oschina.net/OutOfMemory/blog/290180)
 + [一次Netty使用不当引起的堆外内存泄漏问题（详细分析及解决）](https://mp.weixin.qq.com/s/w8NcfvqDQXmP3sLw9N106A)
 + [Netty 01 从EchoServer 开始抛砖引玉](https://mp.weixin.qq.com/s/GkkuBf9pjABFUscSUl_TVw)
++ [Netty 编码器 & 解码器 正确使用姿势](https://mp.weixin.qq.com/s/RIxkLx3n2V6yyHDdpl9COw)
 
 ## AKKA
 

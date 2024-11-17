@@ -99,6 +99,7 @@
 + [分库分表，可能真的要退出历史舞台了！](https://mp.weixin.qq.com/s/WUWCwyiALFvQazMt4JpydQ)
 + [谈一谈 分库分表 vs NewSQL数据库](https://mp.weixin.qq.com/s/ytKBtqMowe5KkPYpvcNg6g)
 + [数据库分库分表详解](https://mp.weixin.qq.com/s/pSusiU-d4fHNqp-j0kXJmg)
++ [一文弄懂分库分表｜为什么需要分库分表？｜怎么分？](https://mp.weixin.qq.com/s/mNbwX4zZxxObloc8ry3aww)
 
 ## 原理解析
 
@@ -264,6 +265,7 @@
 + [一文彻底搞定MySQL中的JSON类型，效率飞起。](https://mp.weixin.qq.com/s/GeSHCifqQIm3-afmYrgw_Q)
 + [MySQL为什么会有redo log和binlog两份日志](https://mp.weixin.qq.com/s/BmDCanv8c6TjIn_Idd9Faw)
 + [MySql的binlog与数据的恢复](https://mp.weixin.qq.com/s/bbTCjRVMCZDPfh38bXtY-A)
++ [高性能地从MySQL数据库随机取一条数据](https://mp.weixin.qq.com/s/2ipO-eE6aFd8wpatnI24Qg)
 
 #### 存储引擎
 
@@ -356,6 +358,7 @@
 + [MySQL 索引优化：深入自适应哈希索引的奥秘](https://mp.weixin.qq.com/s/D-sd4VXOFVLMmzbZZdUseA)
 + [还在滥用模糊查找？这类场景下 MySQL 多值索引性能更加强悍！](https://mp.weixin.qq.com/s/W1Dd6zBQ1i5YKlwTiL9PWQ)
 + [索引的工作原理](https://mp.weixin.qq.com/s/QsnJ2bUfHSmHV6P5p3qaSA)
++ [创建索引时一定会锁表？](https://mp.weixin.qq.com/s/VIStZiWZ-Pu3MQ_kzL04hA)
 
 ### PostgreSQL
 
@@ -504,6 +507,8 @@
 + [聊聊redis字典指令操作](https://mp.weixin.qq.com/s/cLVW4GGDjmQxbL6R7Qs1Xg)
 + [Redis 内存淘汰策略](https://mp.weixin.qq.com/s/W4v9XrK8vBe7QEM1e8G21Q)
 + [Redis的主从同步机制](https://mp.weixin.qq.com/s/vlH7q5lGJqEwMaSkOAxcUA)
++ [如何在高并发下使用Redis实现排行榜的功能](https://mp.weixin.qq.com/s/EejNv7ba2nZk6OmmvWuxLA)
++ [Redis 高级数据结构 Bitmap HyperLogLog Geo](https://mp.weixin.qq.com/s/VNFvlXgLXwa9HniDtHdVEA)
 
 #### 原理
 
@@ -546,6 +551,7 @@
 + [美团面试：Redis锁如何续期？Redis锁超时，任务没完怎么办？](https://mp.weixin.qq.com/s/h3QY545R5US_WkjQXl8mbw)
 + [如何基于 Redis 实现分布式锁](https://mp.weixin.qq.com/s/T4fjnZAWl4ZaRR6YpEm9iw)
 + [redis 分布式锁的 5个坑](https://mp.weixin.qq.com/s/dHdvNp8y50pP0qPDpv67uA)
++ [redis 锁的5个大坑，如何规避？](https://mp.weixin.qq.com/s/HSQVnPW4aRdLP2jnTOFr4A)
 
 #### 缓存
 
@@ -556,6 +562,7 @@
 + [Redis 只会用缓存？20种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/hU47_8puy_3OkUwqCQCEDw)
 + [面试官问：Redis缓存淘汰策略有哪些？](https://mp.weixin.qq.com/s/UC5e_OSUFYohAUM4-Qsvaw)
 + [Redis多级缓存指南：从前端到后端全方位优化！](https://mp.weixin.qq.com/s/9Hbe9vLnMTXc7hxVpFMqLA)
++ [Redis 实现分布式缓存](https://mp.weixin.qq.com/s/N_Qm2QoxFWZpQthuO4QzCw)
 
 #### 限流
 
@@ -623,6 +630,7 @@
 + [Flink 1.20 版本发布，一些值得注意的特性！](https://mp.weixin.qq.com/s/GfN6gT7blpzHpojC8hLg9A)
 + [得物 Flink 内核探索实践](https://my.oschina.net/u/5783135/blog/15327322)
 + [第四代大数据流处理框架-Apache Flink架构分析](https://mp.weixin.qq.com/s/o0EQzWdN-UzxeGaER_4PNw)
++ [flink cdc 3.0 "尝鲜"](https://mp.weixin.qq.com/s/DGINTV_AaK8N5GvYIii6Lw)
 
 ## spark
 

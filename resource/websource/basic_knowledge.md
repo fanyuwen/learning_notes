@@ -259,6 +259,7 @@
 + [必会知识：TCP 握手的夺命连环问！](https://mp.weixin.qq.com/s/akkSR2-SlIGLw0DjMgcSgA)
 + [面试题：什么时候会出现TCP粘包，如何解决TCP粘包](https://mp.weixin.qq.com/s/MkcRSffxkXHefBk2yXtN-A)
 + [TCP 收发包调优：那些“看不见的坑”和“摸不着的雷”](https://mp.weixin.qq.com/s/nQj0Xrunm_0F6eFkpzXB3A)
++ [Socket连接和TCP连接有什么区别，都是传输数据，谁能讲一下这其中的关联吗？](https://mp.weixin.qq.com/s/NiDaXbigFpFFrpuPrVqyKA)
 
 ### UDP
 
@@ -350,6 +351,7 @@
 + [块设备IO流程](https://mp.weixin.qq.com/s/iP0uccG2Sy6d3M3TzRDMbg)
 + [彻底解密：select,poll底层系统调用的核心思想原理](https://mp.weixin.qq.com/s/XoUXKDJjoVh-D_IqFY2Oig)
 + [事件驱动：Reactor网络模型的原理与代码实现](https://mp.weixin.qq.com/s/xJcCgXHB6r8kwM1Y9wxWfA)
++ [面试题：BIO,NIO,AIO 的区别是什么？说说select 和 epoll 工作机制与差异？为何epoll 如此高效](https://mp.weixin.qq.com/s/lPaLEAaj0DLebrUo36c4JA)
 
 ## 字符编码
 

@@ -61,3 +61,4 @@
 + [合并 K 个升序链表 - LeetCode 热题 34](https://mp.weixin.qq.com/s/afuJiDHlnowOADeGJr43Kw)
 + [米哈游（原神）一面算法原题](https://mp.weixin.qq.com/s/TzrA4qRse5VSAU-GMdkpyA)
 + [华为笔试常考的算法题之LeetCode第二题](https://mp.weixin.qq.com/s/Y6tVzWRWvdkmsCs3yJuECQ)
++ [大厂算法：欢乐的周末](https://mp.weixin.qq.com/s/X73HrVzYnh6OK6oFqdKjAQ)

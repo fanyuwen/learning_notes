@@ -114,6 +114,7 @@
 + [crossbar 框架简介](https://mp.weixin.qq.com/s/DenAC9xSHeSwFQKOVch_RA)
 + [【Java面试100题突击】12 微服务里常问的ZAB协议是什么？](https://mp.weixin.qq.com/s/nGJczUNG1jn6OPluCzU0Kg)
 + [【Java面试100题突击】13 注册中心挂了，或者服务挂了，应该如何处理？](https://mp.weixin.qq.com/s/igEPddv0fOIwfXTb1YaaAg)
++ [微服务与分布式系统设计看这篇就够了！](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw)
 
 # 分布式
 
@@ -312,6 +313,7 @@
 + [深入理解缓存穿透、缓存击穿和缓存雪崩](https://mp.weixin.qq.com/s/qFqIkdaXJVrPh3e3BZabFQ)
 + [缓存穿透、缓存击穿、缓存雪崩发生的原因及解决方案](https://mp.weixin.qq.com/s/51girjmYl_899gtiSPNFvw)
 + [【架构设计】多级缓存：应用案例与问题解决策略](https://mp.weixin.qq.com/s/ykm3xDuw6F3NAB6HwiqsnA)
++ [6种常见的缓存策略，请享用！](https://mp.weixin.qq.com/s/ilRpviACZlxdfTLTx-pZBA)
 
 ## 优化
 
@@ -334,6 +336,7 @@
 + [一行代码，我优化掉了1G内存占用](https://mp.weixin.qq.com/s/JvhxaioE9UhDbdlu2ECoiA)
 + [服务端开发必备：9大性能优化秘技](https://mp.weixin.qq.com/s/VQzmg31MkZbUJVnNfqXKkQ)
 + [多人同时导出 Excel 干崩服务器？大佬给出的解决方案太优雅了！](https://mp.weixin.qq.com/s/pu2WNCVDZYdHplF_q5dthw)
++ [分页查询接口，从2s优化到了0.01s](https://mp.weixin.qq.com/s/jYaDvuN6o-EAUgrlNRHDFw)
 
 ## 跨域
 
@@ -368,6 +371,7 @@
 + [为什么很多人不推荐你用JWT？](https://mp.weixin.qq.com/s/qKLvRnySF9h0jnPbaRoJcQ)
 + [JWT 实现登录认证 + Token 自动续期方案，这才是正确的使用姿势！](https://mp.weixin.qq.com/s/0xHyRCassgGXp_jq-wcDbg)
 + [详解三大权限模型](https://mp.weixin.qq.com/s/X-Jr8DYsAMgXM0gbwhhtfA)
++ [JWT 在浏览器中的存储策略](https://mp.weixin.qq.com/s/T5tBKz8GnOzxnYXCnr-1vg)
 
 ## 存储
 
@@ -409,6 +413,7 @@
 + [京东面试：亿级黑名单 如何设计？亿级查重 呢？（答案含：布隆过滤器、布谷鸟过滤器）](https://mp.weixin.qq.com/s/G4Y1u85eJL2gDEedi8_RZg)
 + [反问面试官：如何实现集群内选主](https://mp.weixin.qq.com/s/Lxt1ujFicJm-8KYBlVptZQ)
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/tuPZZHuyalBIsBrY4B_7AA)
++ [如何设计三方接口调用方案](https://mp.weixin.qq.com/s/oVclNYbMTcNsVAGZ3dngWg)
 
 # 测试相关
 

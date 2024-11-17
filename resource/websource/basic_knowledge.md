@@ -82,6 +82,7 @@
 + [linux驱动开发-深入探索内核设备树的原理与实践](https://mp.weixin.qq.com/s/860Wn2oNUtlunToSGrXNwg)
 + [探索linux内核的关键：进程调度详解](https://mp.weixin.qq.com/s/pvgGueLKjIXssDvz4cfx1Q)
 + [LVS怎么实现负载均衡](https://mp.weixin.qq.com/s/dx47jVjjX5wbsW6QpPZS4A)
++ [Linux之性能分析工具（磁盘I/O）](https://mp.weixin.qq.com/s/n5gFX3cMPwX00Uu2R2RoUw)
 
 ### 网络
 
@@ -187,6 +188,7 @@
 + [什么是 CORS ？一文搞懂 CORS 跨域原理！](https://mp.weixin.qq.com/s/FpQCqNN41lBGqJXUAYOFCA)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/iKlBnuREzC92TjWpqsdibw)
 + [RPC相关问题（2）](https://mp.weixin.qq.com/s/QuasAvK-bkZK4cWq2Ny-VA)
++ [1、RPC框架的通信流程](https://mp.weixin.qq.com/s/VmKXYxONr99i_yrtjTXMLw)
 + [玩转数通命令行：中兴路由器反向TELNET配置实例、串口终端接入配置实例](https://mp.weixin.qq.com/s/qJDV8_kBMhoARrhdCpIe_A)
 + [localhost和127.0.0.1的区别](https://mp.weixin.qq.com/s/zhErSZZFB1Eb2u3Lqf5d9w)
 + [你了解 localhost 与 127.0.0.1 的区别吗？](https://mp.weixin.qq.com/s/FPICgJri9AndnpaogskcCg)

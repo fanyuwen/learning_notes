@@ -3,6 +3,7 @@
 ## 基础
 
 + [for-each 循环优先于传统的 for 循环](https://my.oschina.net/OutOfMemory/blog/95483)
++ [Java字符串](https://mp.weixin.qq.com/s/pHidkq4KGexrmsUmcW8c6g)
 + [double check lock](https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html)
 + [如何找到真正的 public 方法](https://mp.weixin.qq.com/s/AaJMxfg9cXY4Iz08o2jocg)
 + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
@@ -139,6 +140,7 @@
 + [Java如何优雅地判断对象是否为空](https://mp.weixin.qq.com/s/0XTu09hFts_uZkKKmCcVDA)
 + [多线程交替顺序打印ABC的多种方式](https://mp.weixin.qq.com/s/_v0yTJZEziZQ9LQ1Y2-9Pg)
 + [Java中使用for而不是forEach遍历List的10大理由](https://mp.weixin.qq.com/s/tvJUs8DgyZPFxRtI1PMnvg)
++ [农行1面：如何保证线程T1，T2，T3 顺序执行？](https://mp.weixin.qq.com/s/l_HKAvs_1QivuX9JnKAd9A)
 
 ## 代码质量
 
@@ -364,6 +366,8 @@
 + [线上问题排查(4)--Java频繁Full GC](https://mp.weixin.qq.com/s/a9LUZz8KWxlblrkD9lgkiw)
 + [JVM如何判断对象是否存活？](https://mp.weixin.qq.com/s/3ZEWjaZLX_GWX5G5pJNCnQ)
 + [【JVM】类加载器 原理、示例和讲解](https://mp.weixin.qq.com/s/8mNwZIL7mG_XY3IGoKaIJw)
++ [Java 面试题 --JVM 大厂篇之深入探讨 Serial GC 的应用场景](https://mp.weixin.qq.com/s/TfKESnO7pLLcVJYE8nJrDg)
++ [Java 面试题 --JVM 大厂篇之 Java 新神器 ZGC：颠覆你的垃圾回收认知！](https://mp.weixin.qq.com/s/dPINwSxp_mz5vCjjDPhNrQ)
 
 # 核心库
 
@@ -466,6 +470,7 @@
 
 + [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
 + [Java异步编程CompletableFuture(串行,并行,批量执行)](https://mp.weixin.qq.com/s/H8mfKv6ad04OtQzvppOnaA)
++ [JAVA：CompletableFuture 高级应用的技术指南](https://mp.weixin.qq.com/s/9fYiBXqhrQHX5Bog1dn72Q)
 + [如何使用CompletableFuture进行多个REST的并行调用](https://mp.weixin.qq.com/s/lZJTBi-yEgtNHXRF8n0SkQ)
 + [Java多线程 -- CompletableFuture（1）](https://mp.weixin.qq.com/s/3VednZRRd7xiuwZ2Igq4cw)
 + [Java多线程 -- CompletableFuture（2）](https://mp.weixin.qq.com/s/UpAGuOn80nAcikgkLH5fXw)
@@ -491,6 +496,7 @@
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/qY8zuTJee3fy65-Che0CxQ)
 + [线程池不再乱配线程数了](https://mp.weixin.qq.com/s/i2wHBF_u_zrUDSCpaYX0Zw)
 + [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
++ [ThreadPoolExecutor的设计原理以及生命周期（二）](https://mp.weixin.qq.com/s/HiturXPChue7NLi6nHb0DA)
 + [Java进阶篇 -- 线程池（1）](https://mp.weixin.qq.com/s/lXSm8rcmlPovaW-334sclg)
 + [速度优化：线程池优化](https://mp.weixin.qq.com/s/XrKVHwTJ7kHK7zTDayc1oQ)
 + [面试官：线程池提交一个任务占多大内存？](https://mp.weixin.qq.com/s/6jjOb4fPWQTjvi1PLvAJ4w)
@@ -523,6 +529,7 @@
 + [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
 + [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
 + [ThreadLocal为什么会导致内存泄漏？如何解决的？](https://mp.weixin.qq.com/s/aqkc3J-nao_7stuimte7GQ)
++ [ThreadLocal 实践与源码解析](https://mp.weixin.qq.com/s/WpkpPXodaBk7IfaRjsS8AA)
 
 ### Lock
 
@@ -568,6 +575,7 @@
 + [Java进阶篇 -- 线程同步（CountDownLatch）](https://mp.weixin.qq.com/s/BNs_m3Np-dVvOL2EqPLLCw)
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
 + [BlockingQueue 示例及使用场景](https://mp.weixin.qq.com/s/-OLHoAUTkK3jrOxwM0w6gg)
++ [AtomicReference](https://mp.weixin.qq.com/s/SWua1GXlAvt0lG_DRS5usw)
 
 ## IO/NIO
 
@@ -582,6 +590,7 @@
 + [006架构师必修之java基础篇：一文证道IO流](https://mp.weixin.qq.com/s/7KIlHcrDFY3DwwtGOce2xA)
 + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
 + [java io的应用场景举例](https://mp.weixin.qq.com/s/BOm6ZEjiM3URfOZOSRkI0A)
++ [Java NIO2 异步IO支持](https://mp.weixin.qq.com/s/GHP1GLGFS0BwvSVX8kNTtQ)
 
 ## 机制
 
@@ -833,6 +842,7 @@
 + [Spring AOP异步操作实现](https://mp.weixin.qq.com/s/QkZB0vHEG9eedI7QbOv32A)
 + [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
 + [如何获取Spring代理对象？](https://mp.weixin.qq.com/s/VhzAxZEhu2wlHyUdMx6Ugg)
++ [Spring Boot 3.x AOP使用详解](https://mp.weixin.qq.com/s/4DdhhZYmhrBvlFlkR1hw5g)
 
 ### 配置打包部署
 
@@ -1158,6 +1168,7 @@
 + [速览！Spring Boot 3.3 快速实现 API 加密的最佳实践](https://mp.weixin.qq.com/s/eRIfoPzNGS8vuP5kYN5SCA)
 + [优雅！使用 Spring Boot 3.3 + @ControllerAdvice 实现全局数据绑定与预处理](https://mp.weixin.qq.com/s/gOqROy_W2tQ3dvTTjGEM3Q)
 + [轻松掌握！如何在 Spring Boot 3.3 中实现基于角色的访问控制](https://mp.weixin.qq.com/s/fXu04gN_XuB3WFXzQB1A2w)
++ [Spring Boot 3.3 HTTP客户端配置秘籍：RestTemplate代理与WebClient超时详解](https://mp.weixin.qq.com/s/f5GlsKWA3w--VBz6oBwiJw)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
 + [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
@@ -1189,6 +1200,7 @@
 + [SpringBoot实战：解决跨域的5中方案](https://mp.weixin.qq.com/s/c9mYDg0jYXlN_Gxa0RsReQ)
 + [SpringBoot实战：实现接口签名验证](https://mp.weixin.qq.com/s/uX3OPR_EmTo3MmofQn_1cg)
 + [Spring Boot如何解决跨域问题？](https://mp.weixin.qq.com/s/zaElaIhbC7xmzf8fLi-AAg)
++ [Spring Boot 短链接系统实现](https://mp.weixin.qq.com/s/l1_PCNqeqRVIaoWeH30clA)
 + [确保数据安全！使用 Spring Boot 3.3 实现强大的API输入验证](https://mp.weixin.qq.com/s/bnCtPq5gfh0PL_ASsHjNDw)
 + [基于Spring Boot给所有Controller接口添加统一前缀的5种方式](https://mp.weixin.qq.com/s/8YbwaP2D5-2Mv_svhKObGQ)
 + [弃用RestTemplate！RestClient真香](https://mp.weixin.qq.com/s/Fq3Tx6wR3TF6yjiy61An5Q)
@@ -1408,6 +1420,7 @@
 + [强大！Spring Boot3.3 后台任务处理最佳实践](https://mp.weixin.qq.com/s/iyCpxYDRLMdayhpeuod33A)
 + [SpringBoot 7种定时任务解决方案](https://mp.weixin.qq.com/s/SL2rausqq07qOtFNKpC4gA)
 + [速看！Spring Boot任务调度你不知道的使用技巧](https://mp.weixin.qq.com/s/lr86H6r4PJ46CRJ7Vu0ruQ)
++ [控制Spring Boot定时任务只执行一次的方案](https://mp.weixin.qq.com/s/Ya-it5bLUjf7JBCMiF1zOg)
 
 ##### Disruptor
 
@@ -1590,6 +1603,10 @@
 
 + [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
 
+## tomcat
+
++ [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
+
 ## quarkus
 
 + [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
@@ -1730,6 +1747,7 @@
 ## logger
 
 + [9款日志采集和管理工具对比，选型必备！](https://mp.weixin.qq.com/s/b7gFhLYVaVmgF2zGKvB6Yw)
++ [Java日志](https://mp.weixin.qq.com/s/Npj6IGgsYvKdCzQ9Y21M-A)
 + [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
 + [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
 + [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
@@ -1884,6 +1902,8 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [Spring和MyBatis中的设计模式](https://mp.weixin.qq.com/s/zhKYFG0HWNL14CyaRfNB_w)
++ [常用加解密算法详解及Java实现](https://mp.weixin.qq.com/s/7QAI87UZd1i3xZhkI8Y5vw)
 + [什么？java -D参数设置系统属性竟然不起作用？](https://mp.weixin.qq.com/s/qhI9VOQS7Fr4ZwiRj2GEPw)
 + [提升性能：Java工程师必备的20条SQL最佳实践](https://mp.weixin.qq.com/s/z5PNUvBBySxTTQFJNPdwjw)
 + [优化批处理流程：自定义BatchProcessorUtils的设计与应用](https://mp.weixin.qq.com/s/K2NN7pnps8kSHUFc_ijNBw)

@@ -117,6 +117,8 @@
 
 ## 关系型数据库
 
++ [MySQL 8.0与PostgreSQL 15.8的性能对比](https://mp.weixin.qq.com/s/SQ1XYLqFtClzI_9Ezs3aZA)
+
 ### ORACLE
 
 + [rfs (PID:146054): Database mount ID mismatch案例](https://mp.weixin.qq.com/s/RXLicR-3Yv7YQRNlPRENcA)
@@ -238,6 +240,7 @@
 + [MySQL 组提交原理简析](https://mp.weixin.qq.com/s/QpLj97XdFWzzMBRyVipGYQ)
 + [性能测试MySQL分析与调优，告别慢查询](https://mp.weixin.qq.com/s/LEWUOPi_J83dSewBPehfDQ)
 + [MySQL性能优化总结：从配置到维护的最佳实践](https://mp.weixin.qq.com/s/o9H0ClYIgJphInlwXMUv_Q)
++ [Mysql篇-三大日志](https://mp.weixin.qq.com/s/zx-DcV5oedyg5RiM2OyXnw)
 + [读“mysql不要用limit分页”给我整不会了](https://mp.weixin.qq.com/s/MmThQJK-ArHa0fcLbrBteA)
 + [腾讯智慧零售1面：MySQL的 where 1=1会影响性能吗？](https://mp.weixin.qq.com/s/u-jE2ynwKwFOGloVLFQXgQ)
 + [你了解MVCC多版本控制机制吗](https://mp.weixin.qq.com/s/rKYZtyXqNHlPzzqe3oRVcA)
@@ -359,6 +362,8 @@
 + [还在滥用模糊查找？这类场景下 MySQL 多值索引性能更加强悍！](https://mp.weixin.qq.com/s/W1Dd6zBQ1i5YKlwTiL9PWQ)
 + [索引的工作原理](https://mp.weixin.qq.com/s/QsnJ2bUfHSmHV6P5p3qaSA)
 + [创建索引时一定会锁表？](https://mp.weixin.qq.com/s/VIStZiWZ-Pu3MQ_kzL04hA)
++ [数据库基础 -- 索引及SQL优化](https://mp.weixin.qq.com/s/gMs1ylrAiKxW4rnDLvNFzQ)
++ [Mysql的死锁与索引的关系](https://mp.weixin.qq.com/s/CdLseWutFUWB5rGA2rXBhg)
 
 ### PostgreSQL
 

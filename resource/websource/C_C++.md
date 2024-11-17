@@ -20,6 +20,7 @@
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
 + [C++_Mutable](https://mp.weixin.qq.com/s/CXprG7tcX1M3MR9X_tpLYQ)
 + [C++_成员初始化列表](https://mp.weixin.qq.com/s/uabbFCMApMtrc7fWOCpbAg)
++ [C++ 五 虚函数（一）多态的实现](https://mp.weixin.qq.com/s/J3CyQp1q4htteTRG-E1GNw)
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
@@ -31,6 +32,7 @@
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
++ [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
 + [【C++】new和malloc到底哪里不一样](https://mp.weixin.qq.com/s/c8mTFiT3SKmkT-5wxXvy7A)
 + [C++函数调用栈从何而来](https://mp.weixin.qq.com/s/LkHmgym0x6chYTBRt-p1nA)
 + [C++思考30:浅析虚析构函数](https://mp.weixin.qq.com/s/CRbIssdLDaXqHugXLzWSRg)
@@ -99,6 +101,7 @@
 ### 资讯
 
 + [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://mp.weixin.qq.com/s/tJJWgDVK8kbaRzP9NMQeVA)
++ [微软Visual C++编译器团队架构师力挺C++26，称其是C++11以来最具影响力的版本](https://mp.weixin.qq.com/s/qH0pDKhe6e5SuSAS_JaM9A)
 
 ### 学习资源
 

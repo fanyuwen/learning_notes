@@ -54,7 +54,9 @@
 + [别再让程序崩溃：Python 异常处理的秘密](https://mp.weixin.qq.com/s/qUow4wQvNtMTC-kbPh1gcw)
 + [Python match case这样用，从此告别if-elif-else！](https://mp.weixin.qq.com/s/4ljt5IqyOZtIbs59lv2-ug)
 + [Python异常处理中的9个常见错误及其解决办法](https://mp.weixin.qq.com/s/kwGdo5sZuo2mL3o1zY6tJA)
-
++ [Python pass 语句详解](https://mp.weixin.qq.com/s/Lg68URwE9-AOEjF-dHUMyg)
++ [Python变量注解语法详解，类型提示的现代用法](https://mp.weixin.qq.com/s/ae0aJaA_OP27fImNoKR3Gg)
++ [Python异常处理模式，上下文管理器的最佳实践](https://mp.weixin.qq.com/s/qahS9wxjOl8A-4-yton-GQ)
 
 ### 函数/方法
 
@@ -88,6 +90,7 @@
 + [Python动态代码执行：exec和compile函数](https://mp.weixin.qq.com/s/XM7l3xVE5Af2NAJV7iA9vw)
 + [Python如何写好一个函数，掌握这10个小技巧就够了！](https://mp.weixin.qq.com/s/HOgosV53haf6Rh8yHP-RrA)
 + [python-sort()函数及lambda表达式用法](https://mp.weixin.qq.com/s/4xduEohcDWqwIUvzT4FghQ)
++ [python中函数传递列表元素的8种方法](https://mp.weixin.qq.com/s/6NA9HZJZwwHsAT8pOjfrDA)
 
 ### 面向对象
 
@@ -165,6 +168,7 @@
 + [提升并行效率的Python多处理模块指南](https://mp.weixin.qq.com/s/175zJefJzZpO6ZeW9AkhmQ)
 + [多线程还是多进程？解锁 Python 并发编程的终极秘诀！](https://mp.weixin.qq.com/s/GgHKk1Q_w17q-_DZDuD5Wg)
 + [Python多进程编程：最强的解决方案，让你的程序飞起来！](https://mp.weixin.qq.com/s/GT61egkBdZyd7uJlGs6N1g)
++ [Python高并发应用开发](https://mp.weixin.qq.com/s/NxEG1P-hqpIhjnn__1YkPA)
 
 ## 实践
 
@@ -175,8 +179,10 @@
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
++ [Python模块依赖注入实现依赖反转](https://mp.weixin.qq.com/s/sS7S7M6r_aYSsRb9AtrPxA)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python 与数据库交互的 15 个 SQL 查询技巧](https://mp.weixin.qq.com/s/L8Mq05iT0Jeq-NDUlBev1g)
++ [文件和数据存储](https://mp.weixin.qq.com/s/4vcskZguJvpxPmnlZXu_sQ)
 + [Python系列教程233——包导入时使用import还是from](https://mp.weixin.qq.com/s/gwW2fR2Wo5rD0RaZSb0x5Q)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [高效使用Python工具自动生成模块文档的秘诀](https://mp.weixin.qq.com/s/40C9ckllnG9ss-2I4rDlLA)
@@ -592,6 +598,7 @@
 + [Pandas的30个高频函数使用介绍](https://mp.weixin.qq.com/s/PXRg1w_ttyOpncSZdWVKJQ)
 + [Python学习系列 | Pandas 介绍](https://mp.weixin.qq.com/s/-v2PjS5yawAPE9wYFkqujQ)
 + [最强总结！十大Pandas缺失值处理技巧 ！！](https://mp.weixin.qq.com/s/gVVIZ0CadGM9_Lv1dnVY8w)
++ [Pandas，一个好用的Python库：数据处理神器](https://mp.weixin.qq.com/s/54Ibi4Vp7L-faB5eibSkTg)
 
 ### Numpy
 
@@ -686,6 +693,7 @@
 + [每日一模块：scrapy](https://mp.weixin.qq.com/s/fT5_xO18X4xAVdl-UO7_Pg)
 + [Python网络爬虫：15个高效爬虫开发技巧](https://mp.weixin.qq.com/s/U1X4Hx-rWBK6Prl98L3NNw)
 + [Python爬虫有哪些常见的反爬手段？](https://mp.weixin.qq.com/s/YWAEcihbrfPQ2JKn5AZb7g)
++ [BeautifulSoup：一个优雅的Python爬虫神器！](https://mp.weixin.qq.com/s/Txyd6Z883Jua2qN1Q17fXQ)
 
 ## 数据分析
 

@@ -51,6 +51,7 @@
 + [Rust网络编程的瑞士军刀：深入探索socket2库](https://mp.weixin.qq.com/s/G8HWVunQV2dpV0dfE1YH5g)
 + [Rust秘籍：libc库让你秒变系统编程大师，6个实例带你飞！](https://mp.weixin.qq.com/s/Ba6CGufFLzCd75vFRKZKWA)
 + [Rust中的动态规划：背包问题和斐波那契数列](https://mp.weixin.qq.com/s/PazzZGFPlnBkPDukYwG-6Q)
++ [30天拿下Rust之深入Cargo](https://mp.weixin.qq.com/s/lEsOTp5y_fzUukB2U5vlHg)
 
 # 框架
 

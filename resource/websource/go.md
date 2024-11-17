@@ -50,6 +50,7 @@
 + [基于反射的轻量级 Go 依赖注入框架](https://mp.weixin.qq.com/s/jTPy1mFPPQfkGY6VA2WNNA)
 + [亚微秒级的解析速度！Go 语言的高性能 User-Agent 解析库](https://mp.weixin.qq.com/s/Qvj64_WofoCZ8j0eTCq6cQ)
 + [Go 语言中的 JSON 库 V2 版本](https://mp.weixin.qq.com/s/NFF5Px7TaOhM3DNkPLD3fg)
++ [推荐一个Go语言的线程池开源框架 - ants「DaemonCoder」](https://mp.weixin.qq.com/s/b-7tFCGAt0CJK86wAeKtZg)
 
 # 工具
 
@@ -114,6 +115,8 @@
 + [Go语言与SQL数据库的交互方式](https://mp.weixin.qq.com/s/3o3RQCrfU691FkK8VVxIaA)
 + [Go短视频上传怎么做｜使用MinIO写个支持分片上传/断点续传/秒传功能的文件服务吧](https://mp.weixin.qq.com/s/2yvpcXIgx3R6cWTZBIOoMA)
 + [带你手写一个连接池，拿捏面试官！](https://mp.weixin.qq.com/s/1EL7fAnBw9v2mkqgy35tvA)
++ [设计模式 in Go：Factory](https://mp.weixin.qq.com/s/XP-TywpHN6hrgE7-aLu8DQ)
++ [第九章 Golang 开发服务端应用](https://mp.weixin.qq.com/s/KhyS-VTiOG4td1dY_7NEKQ)
 
 # 面试题
 

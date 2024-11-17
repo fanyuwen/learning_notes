@@ -101,6 +101,7 @@
 + [这30款在线工具，让我的开发效率提升500%!](https://mp.weixin.qq.com/s/_k9X6Yzsol9mJxJZWCAepQ)
 + [一款超好用的国产Redis可视化工具，高颜值UI ，真心YYDS](https://mp.weixin.qq.com/s/gpomm0xQf-shNFYZi_n_NA)
 + [别再写代码测试并发了，太 Low！模拟并发的 4 种方法，还有谁不会？？](https://mp.weixin.qq.com/s/5w0-sF7SprmEni-18GpH9g)
++ [再见 Typora！高颜值 Markdown 神器，爱了！](https://mp.weixin.qq.com/s/d3xaqeK1docxDEdMrh7kJQ)
 + [程序员进阶架构知识体系、开发运维工具使用、Java体系知识扩展、前后端分离流程详解、设计模式开发实例汇总专栏分享](https://mp.weixin.qq.com/s/d-n58SnRED3-il8aDNJNjw)
 + [SDKMAN!：Java开发者的版本管理利器，一键切换JDK！](https://mp.weixin.qq.com/s/P5w_lrAdkrDC0eJINP9Kdw)
 + [干了这么多么多年运维，我称之为最美和实用Terminal工具](https://mp.weixin.qq.com/s/95IJqbg6k5zvW0-1ie3fyw)
@@ -223,6 +224,7 @@
 ## NAS
 
 + [Nas的硬件参数怎么看，家用Nas配置怎么选看这一篇就够了！](https://mp.weixin.qq.com/s/1cLlhh3afdOIczCe7hn7MA)
++ [Nas必装的Docker应用，新手Docker推荐（一），NAS用户请收藏！](https://mp.weixin.qq.com/s/kFfqcJUra7K-HqHK35D5Ig)
 
 # 行业新闻
 

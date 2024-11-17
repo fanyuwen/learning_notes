@@ -31,7 +31,7 @@
 ### JVM_LIBRARY
 + java http库 [Apache HttpComponents](https://hc.apache.org/index.html)
 + java bean映射辅助工具 [mapstruct](https://mapstruct.org/)
-+ java响应式编程库 [projectreactor](https://projectreactor.io/) [vertx](https://vertx.io/)
++ java响应式编程库 [projectreactor](https://projectreactor.io/) [vertx](https://vertx.io/) [reactive-rx](https://reactivex.io/)
 + java redis操作库 [lettuce](https://lettuce.io/)
 + java高性能并发库 [disruptor](https://lmax-exchange.github.io/disruptor/)
 + jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/) [testng](https://testng.org/) 

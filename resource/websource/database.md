@@ -17,6 +17,7 @@
 + [十大流行的开源数据库](https://mp.weixin.qq.com/s/7nSZGlMo2NDwwm8WZm38Kw)
 + [使用存储过程挺香的！为何阿里要禁止？](https://mp.weixin.qq.com/s/w2E6bf2RdvQ4PeixSTvJeA)
 + [10 种数据库技术的发展历程与现状](https://my.oschina.net/u/4662964/blog/15956455)
++ [数据库优化指南：如何将基本功能运用到极致？](https://mp.weixin.qq.com/s/P7pv6xOeyeSaPmoFfJfmgQ)
 
 # SQL
 

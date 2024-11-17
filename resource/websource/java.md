@@ -702,6 +702,7 @@
 
 + [Spring6.2震撼来袭，多线程实例化Bean应用启动速度飙升！](https://mp.weixin.qq.com/s/PKmt3RDtlPvm6hY9YYufow)
 + [新功能来了！Spring非常实用的5个功能](https://mp.weixin.qq.com/s/FMXUDpULOn3HwweOLnFI5w)
++ [重磅发布！Spring 6.2 正式版震撼登场！新特性速览](https://mp.weixin.qq.com/s/dfyqmhWC6GHrOW-yxEDxRg)
 
 ### web
 
@@ -760,6 +761,7 @@
 + [Spring Security + Oauth2 认证授权](https://mp.weixin.qq.com/s/5arckiFJiNRIxr4p9t8olg)
 + [Spring Security核心原理解析](https://mp.weixin.qq.com/s/6OOe5QVj08tO6xSke8wT7Q)
 + [Spring Security + OAuth0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/ktdOTCCxmdLDVGA5pT-c7Q)
++ [Spring Security + OAuth2.0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/T6RfWYcHrB0FSuoYuy3M4Q)
 
 ### data
 
@@ -915,6 +917,7 @@
 + [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
 + [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
++ [Spring Boot性能优化案例](https://mp.weixin.qq.com/s/eFRC2IgG_Efvo-NX1lYWAw)
 + [提升效率！Spring Boot 开发中的常见失误轻松规避](https://mp.weixin.qq.com/s/1oiw3ht_cyFvIwRqIOmo7A)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
 + [在Spring Boot中具有多个实现的接口正确注入的6种方式](https://mp.weixin.qq.com/s/Ym1AtOqPYFvRAFj2UesFzw)
@@ -1365,6 +1368,8 @@
 + [Spring Boot 3.3与R2DBC：构建响应式关系型数据库连接的最佳实践](https://mp.weixin.qq.com/s/Da-IGtfTe0XVipBWlTLJKw)
 + [安装 ClickHouse（windows）及 SpringBoot 整合示例](https://mp.weixin.qq.com/s/hL_5r1Tivsg-Nfga4L1b3Q)
 + [使用Spring Boot实现动态数据源切换](https://mp.weixin.qq.com/s/FSiWItsAQ8r9osNuLwAE-Q)
++ [SpringBoot 官方推荐，连接池，太快了！](https://mp.weixin.qq.com/s/C8dliu0hFGVLR3cQl2gFjg)
++ [SpringBoot 官方强烈推荐，连接池，太快了！](https://mp.weixin.qq.com/s/WOCx8JV1gpWJa6v0w0OAWg)
 
 ##### TRANSACTION
 
@@ -1588,6 +1593,7 @@
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/8XogcjeTvUhS9fyAIIBSqQ)
 + [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/Q46Bgq2Dw5CMG-VT_nLXtw)
++ [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/MvbauTHQ3yNGopEHTxyB1w)
 
 #### 自定义实现
 

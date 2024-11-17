@@ -314,6 +314,7 @@
 + [缓存穿透、缓存击穿、缓存雪崩发生的原因及解决方案](https://mp.weixin.qq.com/s/51girjmYl_899gtiSPNFvw)
 + [【架构设计】多级缓存：应用案例与问题解决策略](https://mp.weixin.qq.com/s/ykm3xDuw6F3NAB6HwiqsnA)
 + [6种常见的缓存策略，请享用！](https://mp.weixin.qq.com/s/ilRpviACZlxdfTLTx-pZBA)
++ [Redis不是万能的！来看看本地缓存如何发挥作用！](https://mp.weixin.qq.com/s/nY7-0UIlO6nzYHeisfJfFQ)
 
 ## 优化
 
@@ -503,6 +504,7 @@
 
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 + [JsonPath 练习](https://mp.weixin.qq.com/s/2oM2kUN7PETdIT3QhzT_Og)
++ [用了json这么久我猜你一定不知道json schema是啥](https://mp.weixin.qq.com/s/e2x0gamsj93Rnax5XdctxA)
 
 ### 正则表达式
 

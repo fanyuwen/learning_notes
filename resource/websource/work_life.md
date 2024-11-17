@@ -40,6 +40,7 @@
 + [每个程序员都要有 3 份收入！](https://mp.weixin.qq.com/s/YuhpAozP8DdYoNS_w-NLvQ)
 + [程序员的副业发展](https://mp.weixin.qq.com/s/Y5HhsZrjW8F5MmlPIVQUlg)
 + [面试了一个38岁的候选人，月薪他要了1.2万，我说你可以再多要一点，因为他之前月薪是2.5万。结果他说：谢谢你，但薪资觉得够了！](https://mp.weixin.qq.com/s/gC8aQ1XdnlEk_oLeIzMzxQ)
++ [面试了一个45岁的程序员，他要月薪2万，我同意了。结果面试完把他送到电梯口，他说如果是14薪的话，月薪1.8万也行](https://mp.weixin.qq.com/s/HnEoH_f5cMGhfBPv-E-nCQ)
 
 # 个人成长
 

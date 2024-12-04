@@ -120,6 +120,7 @@
 + [Linux_文件操作命令](https://mp.weixin.qq.com/s/bMNkJ6oREiakVwmhmpgUug)
 + [Linux突发网络故障常用排查的命令](https://mp.weixin.qq.com/s/OrlN3RuXlQh2DTQwDyim0w)
 + [Linux（三）：文件比较利器——vimdiff与vim -d](https://mp.weixin.qq.com/s/veF_HhyHYDHQRYN8e5Uzbw)
++ [只需20个Linux命令，让你的工作效率翻倍！](https://mp.weixin.qq.com/s/cohlcdhko5W94FzW4cmX8Q)
 
 ### 发行版信息
 
@@ -319,6 +320,7 @@
 + [nginx（二）：使用自签名证书在Nginx上启用HTTPS](https://mp.weixin.qq.com/s/wj5400jMWZfS81AAmnyo3g)
 + [使用 Rust（替代 C 语言）扩展 NGINX](https://my.oschina.net/u/5246775/blog/16342753)
 + [Nginx 实现动态封禁IP，详细教程来了](https://mp.weixin.qq.com/s/vwyP6LlxzCg6YKoLR8oi2g)
++ [NginX性能优化的几个方法](https://mp.weixin.qq.com/s/9o3NMDQXJ6yAC094ZMn3CQ)
 
 ### wireshark
 

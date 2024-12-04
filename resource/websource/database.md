@@ -270,6 +270,7 @@
 + [MySQL为什么会有redo log和binlog两份日志](https://mp.weixin.qq.com/s/BmDCanv8c6TjIn_Idd9Faw)
 + [MySql的binlog与数据的恢复](https://mp.weixin.qq.com/s/bbTCjRVMCZDPfh38bXtY-A)
 + [高性能地从MySQL数据库随机取一条数据](https://mp.weixin.qq.com/s/2ipO-eE6aFd8wpatnI24Qg)
++ [滴滴面试：单表可以存200亿数据吗？单表真的只能存2000W，为什么？](https://mp.weixin.qq.com/s/71xpkiBXPyiY9MAv-2srhQ)
 
 #### 存储引擎
 
@@ -515,6 +516,7 @@
 + [Redis的主从同步机制](https://mp.weixin.qq.com/s/vlH7q5lGJqEwMaSkOAxcUA)
 + [如何在高并发下使用Redis实现排行榜的功能](https://mp.weixin.qq.com/s/EejNv7ba2nZk6OmmvWuxLA)
 + [Redis 高级数据结构 Bitmap HyperLogLog Geo](https://mp.weixin.qq.com/s/VNFvlXgLXwa9HniDtHdVEA)
++ [阿里面试：亿级 redis 排行榜，如何设计？](https://mp.weixin.qq.com/s/W7fe9lwuhp5ueN0xyVDE2g)
 
 #### 原理
 
@@ -539,6 +541,7 @@
 + [Redis为何如此之快？揭秘高性能背后的秘密！](https://mp.weixin.qq.com/s/-B2mzKsy6EgriQhB4uwOSg)
 + [字节一面拷打：Redis 为什么用跳表实现有序集合？](https://mp.weixin.qq.com/s/Q2paB_XcMlmG8TSdSgql8w)
 + [Redis的ZSet为何使用跳表而非红黑树](https://mp.weixin.qq.com/s/F51bI45b_pJLKb5adNoIVw)
++ [万字长文带你深入Redis底层数据结构](https://mp.weixin.qq.com/s/gg6N6e90ZtbA0MH4KIEHlg)
 
 #### 分布式锁
 

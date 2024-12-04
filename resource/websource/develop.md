@@ -115,6 +115,7 @@
 + [【Java面试100题突击】12 微服务里常问的ZAB协议是什么？](https://mp.weixin.qq.com/s/nGJczUNG1jn6OPluCzU0Kg)
 + [【Java面试100题突击】13 注册中心挂了，或者服务挂了，应该如何处理？](https://mp.weixin.qq.com/s/igEPddv0fOIwfXTb1YaaAg)
 + [微服务与分布式系统设计看这篇就够了！](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw)
++ [微服务架构：10个实用设计模式](https://mp.weixin.qq.com/s/uCPbMvvrkCmHi7zSzFdM5A)
 
 # 分布式
 
@@ -148,6 +149,7 @@
 + [分布式ID介绍](https://mp.weixin.qq.com/s/8QNqS83AyKSmJW_JTXRoyQ)
 + [美团一面：你能阐述一下CAP理论的基本概念和核心思想？说说它有哪些分布模型以及如何抉择？](https://mp.weixin.qq.com/s/U05xcnTpAl0OPcgMkdAP-g)
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
++ [(二)漫谈分布式之理论篇：用刁钻的手法掰正你那学歪的CAP与BASE理论！](https://mp.weixin.qq.com/s/qFMPbWyEENqjv-FTtBQtHw)
 
 ## 分布式锁
 
@@ -378,6 +380,7 @@
 ## 存储
 
 + [美团大规模 KV 存储挑战与架构实践](https://my.oschina.net/meituantech/blog/11047456)
++ [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/SfSOBo4m492mY8HeLbxIjw)
 
 # 开发相关
 
@@ -472,6 +475,7 @@
 + [如何做好 API 接口设计？](https://mp.weixin.qq.com/s/c1zLWvObvB9JzOpLbf1b1g)
 + [如何为开放平台设计一个安全好用的OpenApi](https://mp.weixin.qq.com/s/SvSbh1xDZCwsA76dvm3qOQ)
 + [面试官：业务开发时，接口不能对外暴露怎么办？](https://mp.weixin.qq.com/s/uHfn9jWWQLpAZbfM3lsgkg)
++ [如何设计API接口，实现统一格式返回？](https://mp.weixin.qq.com/s/yalVKNU1Kbqnccvv5OC52g)
 
 ## 系统相关
 
@@ -506,6 +510,7 @@
 + [几张图轻松理解 JSON 有限状态机](https://mp.weixin.qq.com/s/ugichkITAVaacHa6hhxBGA)
 + [JsonPath 练习](https://mp.weixin.qq.com/s/2oM2kUN7PETdIT3QhzT_Og)
 + [用了json这么久我猜你一定不知道json schema是啥](https://mp.weixin.qq.com/s/e2x0gamsj93Rnax5XdctxA)
++ [原来解析 JSON 数据有这么简单的方法](https://mp.weixin.qq.com/s/tNjvJXzwGEBScSg6HKJ4pg)
 
 ### 正则表达式
 

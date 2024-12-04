@@ -33,6 +33,7 @@
 + [树状数组——高效动态处理数据](https://mp.weixin.qq.com/s/ovu3foHm07ojmJ38Co5X-A)
 + [Bitmap 和 布隆过滤器傻傻分不清？你这不应该啊](https://my.oschina.net/u/4455409/blog/16435972)
 + [图解布隆过滤器和布谷鸟过滤器实现原理](https://mp.weixin.qq.com/s/y-KbXXmoUTSM2Fg2fOibdw)
++ [使用深度优先搜索（DFS）和广度优先搜索（BFS）解决八数码问题](https://mp.weixin.qq.com/s/wkgIygReX_TUoJzPE_q9ng)
 
 # 密码学
 

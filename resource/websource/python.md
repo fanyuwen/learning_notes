@@ -183,9 +183,11 @@
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python 与数据库交互的 15 个 SQL 查询技巧](https://mp.weixin.qq.com/s/L8Mq05iT0Jeq-NDUlBev1g)
 + [文件和数据存储](https://mp.weixin.qq.com/s/4vcskZguJvpxPmnlZXu_sQ)
++ [Python 查看模块方法](https://mp.weixin.qq.com/s/SZFZ9sbF40Z-CHWRXaw5aQ)
 + [Python系列教程233——包导入时使用import还是from](https://mp.weixin.qq.com/s/gwW2fR2Wo5rD0RaZSb0x5Q)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [高效使用Python工具自动生成模块文档的秘诀](https://mp.weixin.qq.com/s/40C9ckllnG9ss-2I4rDlLA)
++ [Python基础（九）模块和包](https://mp.weixin.qq.com/s/U47cwFgW0cN2vNi6Cm4cBg)
 + [Python 虚拟环境（一）](https://mp.weixin.qq.com/s/aVa4pFUfE8ZBkaPN08egQQ)
 + [Python __init__.py 文件的作用](https://mp.weixin.qq.com/s/0fvbBIBmtjapLOpMfxNyiQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
@@ -399,6 +401,7 @@
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
++ [Python库locust设计大规模并发压测场景，这些高级特性让性能瓶颈无处遁形！](https://mp.weixin.qq.com/s/M9gAFLi833XnwdkH1z7m1g)
 + [Python与Excel交互：openpyxl库安装及基本用法](https://mp.weixin.qq.com/s/jNJC-e0hkTydHfWpol4vcw)
 + [colorgetter，一个让你的代码焕然一新的Python库！](https://mp.weixin.qq.com/s/bNVbUBYLzmej1Y97r-OhOA)
 + [dj-multidomain，一个Python中非常有用的库](https://mp.weixin.qq.com/s/5XcXlh8VWVJGxuy-Vls3pw)
@@ -644,6 +647,7 @@
 + [Python图形界面的最牛逼选择：FLTK，让你的应用程序生动起来！](https://mp.weixin.qq.com/s/dWPYEqsbWO_McRtzcLXpNQ)
 + [最强Python包管理工具：Poetry的使用与实践](https://mp.weixin.qq.com/s/lFK4OU4Np7_ue8POmc7aBQ)
 + [Optimus：Python中的高性能数据处理加速器](https://mp.weixin.qq.com/s/rnveVySRv7oQmxZsoLCoMg)
++ [用Python生成Excel报表利器：XlsxWriter实用指南](https://mp.weixin.qq.com/s/xdFlMd8dBTGk6qoU_uHOMA)
 
 ## 框架
 

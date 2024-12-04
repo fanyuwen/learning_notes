@@ -25,6 +25,7 @@
 + [项目中引入消息队列出现了什么问题？如何保证消息顺序性的？](https://mp.weixin.qq.com/s/0K4uWhsHhQ2fkWu67VXhlQ)
 + [系统设计中的消息队列](https://mp.weixin.qq.com/s/mIeLhtaSmarVbrsuX-9uqw)
 + [消息队列黄金三剑客：RabbitMQ、RocketMQ和Kafka全面对决，谁是最佳选择？](https://mp.weixin.qq.com/s/QnrIjubSigjeNtRPOmMsBA)
++ [阿里一面：说说如何解决RocketMq消息积压？为什么Kafka性能比RocketMq高？它们区别是什么？](https://mp.weixin.qq.com/s/guGXjpDpdFDxX2RYYRt0NA)
 
 # KAFKA
 

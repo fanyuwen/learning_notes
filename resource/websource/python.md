@@ -119,6 +119,7 @@
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
++ [Python标准库中最强的工具——Collections模块深度剖析](https://mp.weixin.qq.com/s/zlT7_szUwBJswvuKVY6idQ)
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
@@ -169,6 +170,7 @@
 + [多线程还是多进程？解锁 Python 并发编程的终极秘诀！](https://mp.weixin.qq.com/s/GgHKk1Q_w17q-_DZDuD5Wg)
 + [Python多进程编程：最强的解决方案，让你的程序飞起来！](https://mp.weixin.qq.com/s/GT61egkBdZyd7uJlGs6N1g)
 + [Python高并发应用开发](https://mp.weixin.qq.com/s/NxEG1P-hqpIhjnn__1YkPA)
++ [解决Python多线程冲突：内存共享与队列应用详解](https://mp.weixin.qq.com/s/6sYF-OmTYkS8y_rtuwlbYw)
 
 ## 实践
 
@@ -179,6 +181,7 @@
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
++ [Python高级：设计模式与架构原则](https://mp.weixin.qq.com/s/fsDpL8VSCoRMkx98hi7-NA)
 + [Python模块依赖注入实现依赖反转](https://mp.weixin.qq.com/s/sS7S7M6r_aYSsRb9AtrPxA)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python 与数据库交互的 15 个 SQL 查询技巧](https://mp.weixin.qq.com/s/L8Mq05iT0Jeq-NDUlBev1g)
@@ -187,6 +190,7 @@
 + [Python系列教程233——包导入时使用import还是from](https://mp.weixin.qq.com/s/gwW2fR2Wo5rD0RaZSb0x5Q)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [高效使用Python工具自动生成模块文档的秘诀](https://mp.weixin.qq.com/s/40C9ckllnG9ss-2I4rDlLA)
++ [21个有趣的Python脚本，让你从入门到精通](https://mp.weixin.qq.com/s/_E8fzCYWyNwon-nCHrNXww)
 + [Python基础（九）模块和包](https://mp.weixin.qq.com/s/U47cwFgW0cN2vNi6Cm4cBg)
 + [Python 虚拟环境（一）](https://mp.weixin.qq.com/s/aVa4pFUfE8ZBkaPN08egQQ)
 + [Python __init__.py 文件的作用](https://mp.weixin.qq.com/s/0fvbBIBmtjapLOpMfxNyiQ)
@@ -661,6 +665,7 @@
 
 ### SQLAlchemy
 
++ [sqlalchemy，一个灵活的 Python ORM 库！](https://mp.weixin.qq.com/s/2DSFQftSgtyeuXxXw84_7w)
 + [SQLAlchemy中常用的查询方法和调试打印](https://mp.weixin.qq.com/s/Nqs_HKfyqTN0wYk5ueQM3g)
 
 ### OPENCV

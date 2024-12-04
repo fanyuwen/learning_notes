@@ -101,6 +101,7 @@
 + [谈一谈 分库分表 vs NewSQL数据库](https://mp.weixin.qq.com/s/ytKBtqMowe5KkPYpvcNg6g)
 + [数据库分库分表详解](https://mp.weixin.qq.com/s/pSusiU-d4fHNqp-j0kXJmg)
 + [一文弄懂分库分表｜为什么需要分库分表？｜怎么分？](https://mp.weixin.qq.com/s/mNbwX4zZxxObloc8ry3aww)
++ [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://mp.weixin.qq.com/s/fbWD1UTejWvDHK29gQn9HQ)
 
 ## 原理解析
 
@@ -271,6 +272,7 @@
 + [MySql的binlog与数据的恢复](https://mp.weixin.qq.com/s/bbTCjRVMCZDPfh38bXtY-A)
 + [高性能地从MySQL数据库随机取一条数据](https://mp.weixin.qq.com/s/2ipO-eE6aFd8wpatnI24Qg)
 + [滴滴面试：单表可以存200亿数据吗？单表真的只能存2000W，为什么？](https://mp.weixin.qq.com/s/71xpkiBXPyiY9MAv-2srhQ)
++ [直接问懵圈，MySQL一次批量插入多少条数据性能最佳？](https://mp.weixin.qq.com/s/eglKLoCTOBO3S4onLyQC-w)
 
 #### 存储引擎
 
@@ -640,6 +642,7 @@
 + [得物 Flink 内核探索实践](https://my.oschina.net/u/5783135/blog/15327322)
 + [第四代大数据流处理框架-Apache Flink架构分析](https://mp.weixin.qq.com/s/o0EQzWdN-UzxeGaER_4PNw)
 + [flink cdc 3.0 "尝鲜"](https://mp.weixin.qq.com/s/DGINTV_AaK8N5GvYIii6Lw)
++ [Flink SQL之Join底层原理全解析(案例+源码)](https://mp.weixin.qq.com/s/v2wud7lvsnk1wGMnstTv1Q)
 
 ## spark
 

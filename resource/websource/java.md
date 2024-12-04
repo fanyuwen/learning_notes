@@ -931,6 +931,7 @@
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
++ [Spring Boot 启动流程及原理介绍](https://mp.weixin.qq.com/s/AG2YfTVr_Euu6fGEcmeenQ)
 + [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
 + [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
@@ -1165,6 +1166,7 @@
 + [真香！SpringBoot内置性能监控工具](https://mp.weixin.qq.com/s/zRVfqKT0jHWoks80lZG8nw)
 + [解锁Spring Boot、Prometheus与Grafana三合一：打造你的专属自定义指标炫酷大屏！](https://mp.weixin.qq.com/s/HRk2dW3pIi1MI_zuchP4kw)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
++ [生产环境Spring Boot这些骚操作你可知道？](https://mp.weixin.qq.com/s/DZl_TpcE1CXhEzHdzQgJsg)
 
 #### 分布式
 
@@ -1390,6 +1392,7 @@
 + [使用Spring Boot实现动态数据源切换](https://mp.weixin.qq.com/s/FSiWItsAQ8r9osNuLwAE-Q)
 + [SpringBoot 官方推荐，连接池，太快了！](https://mp.weixin.qq.com/s/C8dliu0hFGVLR3cQl2gFjg)
 + [SpringBoot 官方强烈推荐，连接池，太快了！](https://mp.weixin.qq.com/s/WOCx8JV1gpWJa6v0w0OAWg)
++ [Spring Data REST 深入解析：快速构建高效 RESTful API 的终极指南](https://mp.weixin.qq.com/s/Th1XUZtXvz90Flb5hLf-Lg)
 
 ##### TRANSACTION
 
@@ -1607,6 +1610,7 @@
 + [SpringBoot 将 jar 包和 lib 依赖分离，Dockerfile 构建镜像](https://mp.weixin.qq.com/s/87Rd_hZlH4a-korl92FbXA)
 + [SpringBoot集成Apollo配置中心（快速版）](https://mp.weixin.qq.com/s/CjGyJGfSsT8vmIaLVhCncA)
 + [详细讲解 Spring Boot 项目中的 POM 配置](https://mp.weixin.qq.com/s/G8NsapQn1t_F1ubVm96Kcg)
++ [强大！Spring Boot全新模块化管理方式](https://mp.weixin.qq.com/s/PVAoXhCKqt7oh3JqKajH5w)
 
 #### 集成三方
 

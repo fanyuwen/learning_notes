@@ -127,6 +127,7 @@
 + [程序员值得拥有的作图神器draw.io](https://mp.weixin.qq.com/s/EeTuuBSmavCMP7qbllO7dA)
 + [接口测试工具 - MyPostMan](https://mp.weixin.qq.com/s/NYbnjvc9l7VC-ZQNyUD8ow)
 + [再见了putty、Xshell、FinalShell、Mobaxterm、iTerm2，这款开源的终端工具真香](https://mp.weixin.qq.com/s/3RQZhK6QH4OPTHj760W0Ew)
++ [最强平替Postman的工具，拒绝浏览器套壳](https://mp.weixin.qq.com/s/L4ibNM1Q-yZ5Ooo_azW83Q)
 + [Kickstart文件剖析](https://mp.weixin.qq.com/s/Ktf0QyKxpRMoCQLEZQQyKA)
 + [Redis可视化工具最全详解(4款主流工具)](https://mp.weixin.qq.com/s/b-G7qlWiogT1efF-dYHsGA)
 + [比 Xshell 还好用的 SSH 客户端神器，MobaXterm 太爱了！](https://mp.weixin.qq.com/s/zO50xjkhUoDDz9wiQxPJvg)

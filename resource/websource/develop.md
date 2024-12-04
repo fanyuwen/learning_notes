@@ -263,6 +263,7 @@
 + [大厂必问 · 如何防止订单重复？](https://mp.weixin.qq.com/s/y2ndN0bJFiwYiJCPD4vKGA)
 + [聊聊大厂都怎么防止重复下单？](https://mp.weixin.qq.com/s/z1ASRafNcgwYaTUu_O2gTQ)
 + [简单聊聊怎么防止重复下单](https://mp.weixin.qq.com/s/pC8SM6J3YgniLuvAB32HmQ)
++ [一个注解，优雅的实现接口幂等性！](https://mp.weixin.qq.com/s/kqfeIU8BledDVQHmVhFD6Q)
 
 ### 负载&限流
 
@@ -572,6 +573,7 @@
 + [让 Git Commit Message 更有料的技巧](https://mp.weixin.qq.com/s/MrKnX6xj-JpgjQauDBXtEw)
 + [Git冲突解决技巧](https://mp.weixin.qq.com/s/KO41H2wNDGZ-OcgT04KZmQ)
 + [Git多人协作简明教程](https://mp.weixin.qq.com/s/HiMk9rSntZzZRtcpj2Hqsw)
++ [Git 安装，配置与基本命令](https://mp.weixin.qq.com/s/j3p7I4Yh7MwZNt5CY0DDrA)
 
 ### 编程范式
 

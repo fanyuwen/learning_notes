@@ -165,6 +165,7 @@
 + [说说你了解的分布式锁实现](https://mp.weixin.qq.com/s/ByniE88w2FWCeu_ngDnp2g)
 + [分布式锁的六大应用场景](https://mp.weixin.qq.com/s/_xKMDNz3-p_yPDjm5TJKHw)
 + [【Java面试100题突击】16 分布式锁在项目中有哪些应用场景？](https://mp.weixin.qq.com/s/nxlq1EkqJ9IHv_jn6qrbkA)
++ [分布式锁的实现原理](https://my.oschina.net/vivotech/blog/16539069)
 
 ## 分布式缓存
 

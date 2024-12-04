@@ -42,6 +42,7 @@
 + [测开必备-java基础-break和continue的用法](https://mp.weixin.qq.com/s/2frGLD_Qm3vXYs2GyqLvDg)
 + [测开必备-java基础-for、while和do-while循环使用场景](https://mp.weixin.qq.com/s/vkVN24DAjL_SmHIC1p-0Mg)
 + [公司新来一个同事，把枚举运用得炉火纯青...](https://mp.weixin.qq.com/s/B_ldoijeU49EiYGCrVcssg)
++ [深入 Java 泛型及其设计原则](https://my.oschina.net/u/4662964/blog/16510084)
 
 ## 新语言特性
 
@@ -141,6 +142,7 @@
 + [多线程交替顺序打印ABC的多种方式](https://mp.weixin.qq.com/s/_v0yTJZEziZQ9LQ1Y2-9Pg)
 + [Java中使用for而不是forEach遍历List的10大理由](https://mp.weixin.qq.com/s/tvJUs8DgyZPFxRtI1PMnvg)
 + [农行1面：如何保证线程T1，T2，T3 顺序执行？](https://mp.weixin.qq.com/s/l_HKAvs_1QivuX9JnKAd9A)
++ [Java 灵魂拷问 13 个为什么，你都会哪些？](https://my.oschina.net/weige87/blog/16509860)
 
 ## 代码质量
 
@@ -907,6 +909,7 @@
 + [优雅至极！Spring Boot 3.3 中 ObjectMapper 的最佳实践！](https://mp.weixin.qq.com/s/yMZm6xPN_ie9cV6BBpaJ4w)
 + [告别 UUID！Spring Boot 3.3 中替换数据库主键的新选择](https://mp.weixin.qq.com/s/63kycj5m8PPZqs_0PMvbfQ)
 + [使用 SpringBoot3.3 + SpEL 让复杂权限控制变得很简单！](https://mp.weixin.qq.com/s/U1LkYchOjmzcTs7JZFzh6g)
++ [Spring Boot 版本升级问题 (3.0.0)](https://my.oschina.net/ukapollo/blog/16520192)
 + [最佳实践！使用 Enum 实现 Spring Boot 3.3 高效配置管理](https://mp.weixin.qq.com/s/GY8L5boPVHiZkkW5pLTU8A)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)

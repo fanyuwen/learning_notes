@@ -751,6 +751,7 @@
 + [Controller层代码这么写，同事们都模仿起来了](https://mp.weixin.qq.com/s/DhL-DYj6UgEEy-qUHAUE2w)
 + [Spring 实现 3 种异步流式接口，干掉接口超时烦恼](https://mp.weixin.qq.com/s/VDWrDocGajxwMym9JlDghA)
 + [【java面试100问】14 Spring MVC核心是什么，以及它的执行流程？](https://mp.weixin.qq.com/s/4KBEQ9ru0OLkmc269alMAg)
++ [Spring WebFlux，Java反应式Web的框架！](https://mp.weixin.qq.com/s/PBiOXYGPKnXVb4MFdFLyZA)
 
 ### concurrent
 
@@ -846,6 +847,7 @@
 ### AOP
 
 + [面向切面编程：干净、可维护代码的秘密武器](https://mp.weixin.qq.com/s/6dPVQXMvPxmZ45lTuQG8KQ)
++ [Spring AOP基础、快速入门](https://mp.weixin.qq.com/s/pLzHISoMlhYafQVWLHnsWg)
 + [深入理解 Spring AOP 中的 @EnableAspectJAutoProxy](https://my.oschina.net/u/4526289/blog/11223022)
 + [Spring学习笔记 | AOP 面向切面编程](https://mp.weixin.qq.com/s/GTbNcCURuLKvNXdysPR5WA)
 + [严重！Spring AOP Bug导致切面重复执行](https://mp.weixin.qq.com/s/sXez3tQ9shXVJTbtTehlOw)
@@ -898,6 +900,7 @@
 + [SpringCloud 远程调用为啥要采用HTTP，而不是RPC？](https://mp.weixin.qq.com/s/eKucI44dlK9s93QP2vTkPg)
 + [006架构师必修之java框架篇：springCloud微服务轻松构建](https://mp.weixin.qq.com/s/pQka_6JneNVURcHPGzUfvw)
 + [【Java面试100题突击】01 SpringCloud核心组件有哪些？分别有什么作用？](https://mp.weixin.qq.com/s/N5tzzLoKPwGe2GnFq3Tmtg)
++ [重磅！Spring Cloud 2024 正式发布，迎来史诗级更新！](https://mp.weixin.qq.com/s/ifriTGfseySAfl2xMRRTVw)
 
 #### AI
 
@@ -936,12 +939,14 @@
 + [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [Spring Boot性能优化案例](https://mp.weixin.qq.com/s/eFRC2IgG_Efvo-NX1lYWAw)
++ [避坑！为了性能Spring挖了一个大坑](https://mp.weixin.qq.com/s/vzTvZX7jCljnRsS-HvtMuA)
 + [提升效率！Spring Boot 开发中的常见失误轻松规避](https://mp.weixin.qq.com/s/1oiw3ht_cyFvIwRqIOmo7A)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
 + [在Spring Boot中具有多个实现的接口正确注入的6种方式](https://mp.weixin.qq.com/s/Ym1AtOqPYFvRAFj2UesFzw)
 + [几个强大的Spring Boot扩展点](https://mp.weixin.qq.com/s/4Brno5RSUfZHdLyhrT0DBQ)
 + [提升SpringBoot项目稳定性：深入自定义异常处理机制](https://mp.weixin.qq.com/s/fJddi3vfnk9jKYKSmXNElg)
 + [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
++ [Spring Boot性能提升的核武器，速度提升500%！](https://mp.weixin.qq.com/s/6jrdtK0jxl3EXi7k-Gkj3A)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
 + [SpringBoot实战：SpringBoot中的内置对象](https://mp.weixin.qq.com/s/mgqTjIP0oVG2nIuGSPGG9w)
@@ -1515,6 +1520,8 @@
 + [优雅！Spring Boot处理日志中的敏感数据](https://mp.weixin.qq.com/s/JnBH79PUYFtaVL1D7ipodw)
 + [重磅！Spring Boot3.4 结构化日志，强大的日志记录技术](https://mp.weixin.qq.com/s/WcjkUpH0B__Gd9mdPogKwA)
 + [Spring Boot2.x教程：（五）日志分割](https://mp.weixin.qq.com/s/fwcrE3RHYEHixgwjSftO2Q)
++ [高级开发！Spring Boot 自定义SQL日志记录(包括, 参数，耗时)，支持MyBatis，JPA等](https://mp.weixin.qq.com/s/mFXJ8IE6KCGyKgdfIprfEg)
++ [优雅！Spring Boot 这样记录操作日志非常灵活强大](https://mp.weixin.qq.com/s/Vt0b9wDdwL3DjeqU7slZ8g)
 
 #### 安全
 
@@ -1926,6 +1933,7 @@
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架~](https://mp.weixin.qq.com/s/xFw9qjpX3qo9bmivvcgUGQ)
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/FvLZP8Y6NxbdsHiv9KjRuA)
 + [Java 性能分析 5 大工具](https://mp.weixin.qq.com/s/nRPW2b3xAekp-RwPWXkhjw)
++ [深入了解 Apache Celix：专为 Java 动态模块设计的强大框架！](https://mp.weixin.qq.com/s/rqJjCrnPSu6F2eujwqmM5A)
 
 # 其它环境
 
@@ -1937,6 +1945,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/9dTJ_EPecl-DsBSiOXAiEA)
 + [Spring和MyBatis中的设计模式](https://mp.weixin.qq.com/s/zhKYFG0HWNL14CyaRfNB_w)
 + [常用加解密算法详解及Java实现](https://mp.weixin.qq.com/s/7QAI87UZd1i3xZhkI8Y5vw)
 + [什么？java -D参数设置系统属性竟然不起作用？](https://mp.weixin.qq.com/s/qhI9VOQS7Fr4ZwiRj2GEPw)

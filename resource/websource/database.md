@@ -519,6 +519,7 @@
 + [如何在高并发下使用Redis实现排行榜的功能](https://mp.weixin.qq.com/s/EejNv7ba2nZk6OmmvWuxLA)
 + [Redis 高级数据结构 Bitmap HyperLogLog Geo](https://mp.weixin.qq.com/s/VNFvlXgLXwa9HniDtHdVEA)
 + [阿里面试：亿级 redis 排行榜，如何设计？](https://mp.weixin.qq.com/s/W7fe9lwuhp5ueN0xyVDE2g)
++ [面试回答 Redis 是单线程的所以很快，让我回去等通知....](https://mp.weixin.qq.com/s/kn7ZGKW4uwqxO-22t0tCDg)
 
 #### 原理
 

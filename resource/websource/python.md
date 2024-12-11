@@ -652,6 +652,7 @@
 + [最强Python包管理工具：Poetry的使用与实践](https://mp.weixin.qq.com/s/lFK4OU4Np7_ue8POmc7aBQ)
 + [Optimus：Python中的高性能数据处理加速器](https://mp.weixin.qq.com/s/rnveVySRv7oQmxZsoLCoMg)
 + [用Python生成Excel报表利器：XlsxWriter实用指南](https://mp.weixin.qq.com/s/xdFlMd8dBTGk6qoU_uHOMA)
++ [Argparse：Python命令行参数解析的经典之选！](https://mp.weixin.qq.com/s/eXn43lsBm_ICGbL9P0UW_Q)
 
 ## 框架
 

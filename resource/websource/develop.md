@@ -66,6 +66,7 @@
 + [领域驱动设计（DDD）：让你的代码有“逻辑”的飞翔](https://mp.weixin.qq.com/s/sS59IFaMOa23J565rDN-1w)
 + [深入理解领域驱动设计：DDD四层架构](https://mp.weixin.qq.com/s/FkbJFSsanG8fWhQqaCuOJw)
 + [一种很变态但有效的DDD建模沟通方式](https://mp.weixin.qq.com/s/1aDQvA0myyZdLjICZw1USA)
++ [领导：将公司项目重构成 DDD 架构！](https://mp.weixin.qq.com/s/QXSnJnCSH6EKpNWMF6zptQ)
 
 ## 微服务
 
@@ -123,6 +124,7 @@
 
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
 + [分布式系统一致性保障：CAP理论与BASE原则](https://mp.weixin.qq.com/s/Lb8Ujnlo-VHi8SLepy1qdA)
++ [字节面试：聊聊 CAP 定理？哪些中间件是AP？ 哪些是CP？ 说说 为什么？](https://mp.weixin.qq.com/s/es2pFSBMQLYDjzv_u3jT0w)
 + [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/zbEJdmkWdQC8WeVw-AAKbA)
 + [分布式方案最全详解(图文全面总结)](https://mp.weixin.qq.com/s/QTDRVFAPxWhHDbXsM1llRw)
 + [40张图带你看懂分布式追踪系统原理及实践](https://mp.weixin.qq.com/s/GpiiLaaygPU1oPIk2YGQRg)
@@ -319,6 +321,7 @@
 + [【架构设计】多级缓存：应用案例与问题解决策略](https://mp.weixin.qq.com/s/ykm3xDuw6F3NAB6HwiqsnA)
 + [6种常见的缓存策略，请享用！](https://mp.weixin.qq.com/s/ilRpviACZlxdfTLTx-pZBA)
 + [Redis不是万能的！来看看本地缓存如何发挥作用！](https://mp.weixin.qq.com/s/nY7-0UIlO6nzYHeisfJfFQ)
++ [面试题：什么是缓存击穿、缓存穿透和缓存雪崩？它们分别会带来什么危害？该如何解决和预防？](https://mp.weixin.qq.com/s/EqcmLsxRC3Of833dZaBnKw)
 
 ## 优化
 

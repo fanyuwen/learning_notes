@@ -83,6 +83,8 @@
 + [探索linux内核的关键：进程调度详解](https://mp.weixin.qq.com/s/pvgGueLKjIXssDvz4cfx1Q)
 + [LVS怎么实现负载均衡](https://mp.weixin.qq.com/s/dx47jVjjX5wbsW6QpPZS4A)
 + [Linux之性能分析工具（磁盘I/O）](https://mp.weixin.qq.com/s/n5gFX3cMPwX00Uu2R2RoUw)
++ [Linux 内存泄露案例分析和内存管理分享](https://my.oschina.net/u/4090830/blog/16491193)
++ [细谈 Linux 中的多路复用 epoll](https://my.oschina.net/weige87/blog/16494349)
 
 ### 网络
 
@@ -286,6 +288,7 @@
 + [Nginx使用篇](https://mp.weixin.qq.com/s/-8B8FKRc_q0SRvhlnxfmoA)
 + [Nginx 进程详解](https://mp.weixin.qq.com/s/nJ5KDZaCXSYBXdqG2VdPLw)
 + [史上最全 nginx 安装升级安全配置](https://my.oschina.net/helloworldnet/blog/5588202)
++ [如何让 Nginx 更安全？](https://my.oschina.net/lenve/blog/16491847)
 + [Nginx负载均衡最全详解(4大算法原理机制)](https://mp.weixin.qq.com/s/Upf_UNY-D_dj2u0kroD8IQ)
 + [为何我们决定从零开始创建 NGINX Gateway Fabric](https://my.oschina.net/u/5246775/blog/11435296)
 + [Nginx使用指南](https://mp.weixin.qq.com/s/uGX9LgUsXHDaI0fSY_Q06g)
@@ -323,6 +326,8 @@
 + [使用 Rust（替代 C 语言）扩展 NGINX](https://my.oschina.net/u/5246775/blog/16342753)
 + [Nginx 实现动态封禁IP，详细教程来了](https://mp.weixin.qq.com/s/vwyP6LlxzCg6YKoLR8oi2g)
 + [NginX性能优化的几个方法](https://mp.weixin.qq.com/s/9o3NMDQXJ6yAC094ZMn3CQ)
++ [Nginx 性能优化的几个方法](https://my.oschina.net/lenve/blog/16492920)
++ [使用 Rust（替代 C 语言）扩展 NGINX](https://my.oschina.net/u/5246775/blog/16342753)
 
 ### wireshark
 

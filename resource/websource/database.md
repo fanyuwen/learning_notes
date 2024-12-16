@@ -273,6 +273,7 @@
 + [高性能地从MySQL数据库随机取一条数据](https://mp.weixin.qq.com/s/2ipO-eE6aFd8wpatnI24Qg)
 + [滴滴面试：单表可以存200亿数据吗？单表真的只能存2000W，为什么？](https://mp.weixin.qq.com/s/71xpkiBXPyiY9MAv-2srhQ)
 + [直接问懵圈，MySQL一次批量插入多少条数据性能最佳？](https://mp.weixin.qq.com/s/eglKLoCTOBO3S4onLyQC-w)
++ [学习 MySQL 必须了解的几个 Undo 概念](https://my.oschina.net/actiontechoss/blog/16675208)
 
 #### 存储引擎
 

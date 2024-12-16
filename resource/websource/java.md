@@ -43,6 +43,7 @@
 + [测开必备-java基础-for、while和do-while循环使用场景](https://mp.weixin.qq.com/s/vkVN24DAjL_SmHIC1p-0Mg)
 + [公司新来一个同事，把枚举运用得炉火纯青...](https://mp.weixin.qq.com/s/B_ldoijeU49EiYGCrVcssg)
 + [深入 Java 泛型及其设计原则](https://my.oschina.net/u/4662964/blog/16510084)
++ [Java 泛型详细解析](https://my.oschina.net/u/4009705/blog/16563178)
 
 ## 新语言特性
 
@@ -189,6 +190,7 @@
 + [Java性能调优：实战技巧与最佳实践](https://mp.weixin.qq.com/s/oV1qL2zUGk4oKh3y8XCdWg)
 + [不到30行代码，有5层嵌套的if语句？避免陷入“if-else地狱”！](https://mp.weixin.qq.com/s/btWxJlUBHGSLTfugQVTkzw)
 + [Java循环：for、foreach与stream性能对比](https://mp.weixin.qq.com/s/ltRk2TMLhCon9qJ-eMfgEQ)
++ [Java 灵魂拷问 13 个为什么，你都会哪些？](https://my.oschina.net/weige87/blog/16509860)
 
 # 底层
 
@@ -221,7 +223,6 @@
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
 + [为什么 main 方法是 public static void ？](https://mp.weixin.qq.com/s/kJM1gAstBIHFHvSQ9DKMlQ)
 + [日志堆栈不打印问题以及解决方法](https://mp.weixin.qq.com/s/hHmjS4Jhc4M1PoKFRzaF9A)
-+ [从运行的角度理解Java反射的原理](https://mp.weixin.qq.com/s/XSlZoFQ4FaCTeQ6TBoSOxA)
 + [得物面试：什么是零复制？说说 零复制 底层原理？（吊打面试官）](https://mp.weixin.qq.com/s/u6JmewwXAtq_tl82kjOlJg)
 + [面试官：fail-fast 机制了解吗？你这样使用集合不会有问题吗？。。](https://mp.weixin.qq.com/s/gL0Q6HznvCmGk1IrM7c7pA)
 + [如何直接修改线上jar包里面的文件](https://mp.weixin.qq.com/s/_PmdP-oG2-ffCZnCEQrxbw)
@@ -250,16 +251,26 @@
 + [使用new String("xianyu")语句在Java中会创建多少个对象？](https://mp.weixin.qq.com/s/UE0rpgO7eFeym2J1HpEh4Q)
 + [区分使用运行时异常和受检异常](https://mp.weixin.qq.com/s/WYiJTtSXlARJg-epMQv0uw)
 + [【11期】谈谈对象的引用](https://mp.weixin.qq.com/s/cBImQcB009rlxu2bWTtJtQ)
++ [Java 性能分析](https://mp.weixin.qq.com/s/yo1gkwcugBJ1J-Rnnf2CWQ)
++ [Java 类是如何加载的？](https://my.oschina.net/lenve/blog/16664992)
++ [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
+
+### IO
+
++ [java nio，netty，kafka 中经常提到 “零拷贝” 到底是什么？](https://my.oschina.net/makemyownlife/blog/16504259)
++ [聊聊java零拷贝的几种实现](https://mp.weixin.qq.com/s/FSq5_beguRsNBKeUMAutPg)
+
+### 反射
+
 + [聊聊Java反射](https://mp.weixin.qq.com/s/yQryCpeoWTJ3ZWr_jumXuw)
 + [Java反射原理](https://mp.weixin.qq.com/s/TKacXc0zO-PAHQMnzmv10g)
-+ [Java 性能分析](https://mp.weixin.qq.com/s/yo1gkwcugBJ1J-Rnnf2CWQ)
-+ [聊聊java零拷贝的几种实现](https://mp.weixin.qq.com/s/FSq5_beguRsNBKeUMAutPg)
-+ [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
-+ [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [从运行的角度理解Java反射的原理](https://mp.weixin.qq.com/s/XSlZoFQ4FaCTeQ6TBoSOxA)
++ [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
 
 ### 并发/多线程
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
@@ -375,6 +386,7 @@
 + [【JVM】类加载器 原理、示例和讲解](https://mp.weixin.qq.com/s/8mNwZIL7mG_XY3IGoKaIJw)
 + [Java 面试题 --JVM 大厂篇之深入探讨 Serial GC 的应用场景](https://mp.weixin.qq.com/s/TfKESnO7pLLcVJYE8nJrDg)
 + [Java 面试题 --JVM 大厂篇之 Java 新神器 ZGC：颠覆你的垃圾回收认知！](https://mp.weixin.qq.com/s/dPINwSxp_mz5vCjjDPhNrQ)
++ [Java 内存管理 “通关秘籍”：原理吃透，优化无忧，实战称王](https://my.oschina.net/u/150384/blog/16699239)
 
 # 核心库
 
@@ -503,6 +515,7 @@
 + [说一说如何优雅的关闭线程池？](https://mp.weixin.qq.com/s/c6PlbmTNJY3JO0BWvx0mow)
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/5QDUD80A8OX_soM_2hqFGw)
 + [Java 线程池详解，图文并茂，还有谁不会？！](https://mp.weixin.qq.com/s/qY8zuTJee3fy65-Che0CxQ)
++ [如何动态调试线程池？](https://my.oschina.net/lenve/blog/16666291)
 + [线程池不再乱配线程数了](https://mp.weixin.qq.com/s/i2wHBF_u_zrUDSCpaYX0Zw)
 + [ThreadPoolExecutor：原理分析（一）](https://mp.weixin.qq.com/s/n8EHgxHWVOyKv0cWQj2nMg)
 + [ThreadPoolExecutor的设计原理以及生命周期（二）](https://mp.weixin.qq.com/s/HiturXPChue7NLi6nHb0DA)
@@ -607,6 +620,7 @@
 + [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [Java SPI机制及其与Spring SPI、Spring Boot SPI的异同](https://mp.weixin.qq.com/s/N16tju6dVeue9liMD9HqMQ)
 + [手撸RPC框架 -SPI机制基础功能实现](https://mp.weixin.qq.com/s/Druh2yOtAedsKDdEKSS0-A)
++ [温习 SPI 机制 （Java SPI 、Spring SPI、Dubbo SPI）](https://my.oschina.net/makemyownlife/blog/16492033)
 + [详解Java中的SPI技术以及在架构设计的运用](https://mp.weixin.qq.com/s/kFtMUTsBWF0EHKpJGS8r_g)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/k4CP-jA3m6-gXNWD2uLKDg)
 + [原来，这才是 JDK 推荐的线程关闭方式](https://mp.weixin.qq.com/s/VuJeIqI2iG5gl-Q3mbRCIg)
@@ -871,6 +885,7 @@
 ### AI
 
 + [Spring AI，Java开发者上手大模型最佳实践，手把手教你用起来](https://mp.weixin.qq.com/s/DMVeW63NnALEnaxYeZjuoQ)
++ [SpringAI：Java 开发的智能新利器](https://my.oschina.net/zlt2000/blog/16535398)
 
 ### cloud
 
@@ -939,6 +954,7 @@
 + [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [Spring Boot性能优化案例](https://mp.weixin.qq.com/s/eFRC2IgG_Efvo-NX1lYWAw)
++ [SpringBoot 启动原理详解 (图文全面总结)](https://my.oschina.net/lenve/blog/16495901)
 + [避坑！为了性能Spring挖了一个大坑](https://mp.weixin.qq.com/s/vzTvZX7jCljnRsS-HvtMuA)
 + [提升效率！Spring Boot 开发中的常见失误轻松规避](https://mp.weixin.qq.com/s/1oiw3ht_cyFvIwRqIOmo7A)
 + [Springboot初始构建简单项目](https://mp.weixin.qq.com/s/5Nu6Bd67IXDdzxNRDGi7RA)
@@ -1336,6 +1352,8 @@
 + [SpringBoot在一次HTTP请求中耗费了多少内存](https://mp.weixin.qq.com/s/q7sGGRVwRXVML27oLYnl2A)
 + [Jackson在Spring Boot高级应用技巧【Long精度丢失, @JsonValue, 数据脱敏】](https://mp.weixin.qq.com/s/i0Pv-HPxHeqcGC7TaLBWtQ)
 + [SpringBoot中@Service能否取代@Controller？](https://mp.weixin.qq.com/s/lUNLPmHbisFpCgy76fzTGA)
++ [SpringBoot 实战：文件上传之秒传、断点续传、分片上传](https://my.oschina.net/lenve/blog/16507087)
++ [确保数据安全！使用 Spring Boot 实现强大的 API 输入验证](https://my.oschina.net/lenve/blog/16493065)
 
 ##### VUE
 
@@ -1726,6 +1744,9 @@
 
 + [再见了 shiro](https://mp.weixin.qq.com/s/fguzrNRL70kxAw6WXnVQrw)
 + [再见了 Shiro！](https://mp.weixin.qq.com/s/-NG2wGbzmmebdHHL6q778Q)
++ []()
++ [《Apache Shiro 源码解析》- 7. 会话](https://my.oschina.net/mumu/blog/16688991)
++ [《Apache Shiro 源码解析》- 5. 权限](https://my.oschina.net/mumu/blog/16633981)
 
 ## netty
 
@@ -1831,6 +1852,7 @@
 ## sentinel
 
 + [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
++ [游戏推荐业务中基于 sentinel 的动态限流实践](https://my.oschina.net/vivotech/blog/16378460)
 
 ## xxl-job
 
@@ -1876,6 +1898,11 @@
 + [单元测试的超级英雄：Mockito如何助你实现完美测试覆盖率](https://mp.weixin.qq.com/s/lBLqC58YQHBWQ907S1vhOw)
 + [JDK11下Mock框架进化：从PowerMockito到Mockito Only](https://mp.weixin.qq.com/s/OsySrzocrMmJdk6C0_h60A)
 
+### JMH
+
++ [Java 性能测试利器：JMH 入门与实践｜得物技术](https://my.oschina.net/u/5783135/blog/16525733)
++ [Java开源工具库使用之性能测试JMH](https://mp.weixin.qq.com/s/Q9e6PZjDvXfNZI-p7WsVkA)
+
 ## 其它工具
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
@@ -1896,7 +1923,6 @@
 + [提升编程效率的利器: Google Guava库之RateLimiter优雅限流](https://mp.weixin.qq.com/s/0dWk22CKLYTXi5WI9vOb-A)
 + [8 个线程池最佳实践和坑！使用不当直接生产事故！！](https://mp.weixin.qq.com/s/RXUBBbbyGdH28Lby6vi7fA)
 + [28个验证注解，通过业务案例让你精通Java数据校验(收藏篇)](https://mp.weixin.qq.com/s/Fjec7raBNx_fsNMbWsKLYQ)
-+ [Java开源工具库使用之性能测试JMH](https://mp.weixin.qq.com/s/Q9e6PZjDvXfNZI-p7WsVkA)
 + [阿里这款多级缓存框架一定要掌握，非常不错！](https://mp.weixin.qq.com/s/cdb3U9laMQoSjNG0mjB78g)
 + [全能文件解析神器：探索Apache Tika的无限可能](https://mp.weixin.qq.com/s/CkmOzUtm-srgZhNcJJZUmA)
 + [离开 Java，寻找更佳语言的 10 大理由](https://my.oschina.net/justjavac/blog/66629)
@@ -1945,7 +1971,9 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [二十万分之一几率：if 语句变 do-while 卡死问题分析｜得物技术](https://my.oschina.net/u/5783135/blog/16664437)
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/9dTJ_EPecl-DsBSiOXAiEA)
++ [一个 Bug JDK 居然改了十年？](https://my.oschina.net/u/4009705/blog/16590034)
 + [Spring和MyBatis中的设计模式](https://mp.weixin.qq.com/s/zhKYFG0HWNL14CyaRfNB_w)
 + [常用加解密算法详解及Java实现](https://mp.weixin.qq.com/s/7QAI87UZd1i3xZhkI8Y5vw)
 + [什么？java -D参数设置系统属性竟然不起作用？](https://mp.weixin.qq.com/s/qhI9VOQS7Fr4ZwiRj2GEPw)
@@ -2008,3 +2036,4 @@
 + [开发经验总结：读写分离简单实现](https://my.oschina.net/carterspring/blog/15998430)
 + [当我去挖掘发序列化时的一个乌龙事件](https://mp.weixin.qq.com/s/G6x4rvkwjcXX_ttqX2LxEw)
 + [十年码农内功：缓存篇（第2版）](https://mp.weixin.qq.com/s/8lS2i76DwVLpgbCNPyTDyQ)
++ [一文解秘 Rust 如何与 Java 互操作](https://my.oschina.net/u/6304666/blog/16495845)

@@ -67,6 +67,7 @@
 + [深入理解领域驱动设计：DDD四层架构](https://mp.weixin.qq.com/s/FkbJFSsanG8fWhQqaCuOJw)
 + [一种很变态但有效的DDD建模沟通方式](https://mp.weixin.qq.com/s/1aDQvA0myyZdLjICZw1USA)
 + [领导：将公司项目重构成 DDD 架构！](https://mp.weixin.qq.com/s/QXSnJnCSH6EKpNWMF6zptQ)
++ [DDD 学习与感悟 —— 向屎山冲锋](https://my.oschina.net/u/4090830/blog/16528661)
 
 ## 微服务
 
@@ -152,6 +153,7 @@
 + [美团一面：你能阐述一下CAP理论的基本概念和核心思想？说说它有哪些分布模型以及如何抉择？](https://mp.weixin.qq.com/s/U05xcnTpAl0OPcgMkdAP-g)
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 + [(二)漫谈分布式之理论篇：用刁钻的手法掰正你那学歪的CAP与BASE理论！](https://mp.weixin.qq.com/s/qFMPbWyEENqjv-FTtBQtHw)
++ [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
 
 ## 分布式锁
 
@@ -369,6 +371,7 @@
 + [信息安全，加密（encrypt）和签名（sign）是两回事](https://mp.weixin.qq.com/s/fWh5xzWAs1MdodpM-HdThg)
 + [AES加解密算法的原理和应用与安全性解析](https://mp.weixin.qq.com/s/B3Up_ZzXmzGcJe5wVdbWvQ)
 + [密码学承诺原理与应用 - 概览](https://mp.weixin.qq.com/s/_JArh9nTuBl8-9sT981VzA)
++ [您的 API 网关足够安全吗？](https://my.oschina.net/u/5246775/blog/16672740)
 
 ### 鉴权
 
@@ -437,6 +440,7 @@
 + [软件测试之道 -- 做一个有匠心的程序员！](https://mp.weixin.qq.com/s/ktEMOcXBopFiX9NIN3chHg)
 + [API接口文件包含+命令执行](https://mp.weixin.qq.com/s/LnMUi8-BjaUvq9hdQAOKmA)
 + [最牛逼的自动化测试工具：用Appium实现移动应用的自动化](https://mp.weixin.qq.com/s/MFZL8Y0TfjjUlXlKkrdbKQ)
++ [得物精准测试平台设计与实现](https://my.oschina.net/u/5783135/blog/16511939)
 
 # 领域相关
 

@@ -102,6 +102,7 @@
 + [数据库分库分表详解](https://mp.weixin.qq.com/s/pSusiU-d4fHNqp-j0kXJmg)
 + [一文弄懂分库分表｜为什么需要分库分表？｜怎么分？](https://mp.weixin.qq.com/s/mNbwX4zZxxObloc8ry3aww)
 + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://mp.weixin.qq.com/s/fbWD1UTejWvDHK29gQn9HQ)
++ [拒绝盲目跟风，分库分表真的不是万能的！](https://mp.weixin.qq.com/s/hcFgl7w34LqXI2vVzNK4LA)
 
 ## 原理解析
 
@@ -275,6 +276,9 @@
 + [直接问懵圈，MySQL一次批量插入多少条数据性能最佳？](https://mp.weixin.qq.com/s/eglKLoCTOBO3S4onLyQC-w)
 + [学习 MySQL 必须了解的几个 Undo 概念](https://my.oschina.net/actiontechoss/blog/16675208)
 + [为什么数据库连接很消耗资源？被问根本答不出来……](https://mp.weixin.qq.com/s/hcKoIUozB7T5f-tUJc7zAQ)
++ [【java面试100问】50 为什么SQL语句不要过多的 join？](https://mp.weixin.qq.com/s/bTtUZqL31Vc57qIjVE_alg)
++ [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/5PtEfYFiNaKw1_ZSkPJtTw)
++ [如果 MySQL 的自增 ID 用完了，怎么解决？](https://mp.weixin.qq.com/s/5V9IhphM-_2k8QjMm68Zpg)
 
 #### 存储引擎
 

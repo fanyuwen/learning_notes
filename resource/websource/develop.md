@@ -48,6 +48,7 @@
 + [系统设计的终极目标，高可用、高吞吐、高扩展](https://mp.weixin.qq.com/s/ld_ULZmkKjK_PqOS3hFaDQ)
 + [架构设计原则：选择 SPI 还是 API ？](https://mp.weixin.qq.com/s/PnnX6v9S7waCfwCczZ-3Qg)
 + [复用的双刃剑：软件工程里的悖论与挑战](https://my.oschina.net/u/4662964/blog/16269631)
++ [架构师必经之路：从设计模式到架构模式](https://mp.weixin.qq.com/s/NVhS8qr_vbbwzCs8zS_lLA)
 
 ### DDD
 
@@ -426,6 +427,7 @@
 + [反问面试官：如何实现集群内选主](https://mp.weixin.qq.com/s/Lxt1ujFicJm-8KYBlVptZQ)
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/tuPZZHuyalBIsBrY4B_7AA)
 + [如何设计三方接口调用方案](https://mp.weixin.qq.com/s/oVclNYbMTcNsVAGZ3dngWg)
++ [探秘 RPC：揭开远程过程调用的实现原理](https://mp.weixin.qq.com/s/JoS_P8QEWumT5oNCJVq4gA)
 
 # 测试相关
 

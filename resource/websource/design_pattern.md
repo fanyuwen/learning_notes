@@ -14,6 +14,7 @@
 + [github小众神项目，给人学的23个设计模式（不知道就亏大了）](https://mp.weixin.qq.com/s/snNCGvQKEiLEskiIIxqWIw)
 + [搞懂策略模式和模板方法模式](https://mp.weixin.qq.com/s/8P_-KFSJvNtnkNSTx3DgAQ)
 + [工厂+策略模式项目中结合使用](https://mp.weixin.qq.com/s/_u3rMOjqDoL5KuBJTSZ0tQ)
++ [工作中最常用的 8 种设计模式](https://mp.weixin.qq.com/s/H6P7UVwXF_hqEeZUzyo1gg)
 
 # 原则
 

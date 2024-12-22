@@ -25,6 +25,7 @@
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
++ [C++枚举 enum vs enum class，该怎么选？](https://mp.weixin.qq.com/s/8NexC65ul0HacGXyXyyb1A)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
 + [C++回调函数](https://mp.weixin.qq.com/s/KfI36Rf_hB5IxI1tvqllMw)
 + [C++ enum class有什么用](https://mp.weixin.qq.com/s/ryFwF2UxNzzqQxmtbyKYJQ)

@@ -33,6 +33,7 @@
 + [树状数组——高效动态处理数据](https://mp.weixin.qq.com/s/ovu3foHm07ojmJ38Co5X-A)
 + [Bitmap 和 布隆过滤器傻傻分不清？你这不应该啊](https://my.oschina.net/u/4455409/blog/16435972)
 + [图解布隆过滤器和布谷鸟过滤器实现原理](https://mp.weixin.qq.com/s/y-KbXXmoUTSM2Fg2fOibdw)
++ [使用布隆过滤器防止缓存穿透，提高系统性能（附代码Demo）](https://mp.weixin.qq.com/s/aq5Wz7woDv8wetB0XZ1jZw)
 + [使用深度优先搜索（DFS）和广度优先搜索（BFS）解决八数码问题](https://mp.weixin.qq.com/s/wkgIygReX_TUoJzPE_q9ng)
 + [怎么用 Bitmap 来统计20亿用户中有多少用户在线？](https://mp.weixin.qq.com/s/t_V8-rB2yF5beebECX0dnA)
 

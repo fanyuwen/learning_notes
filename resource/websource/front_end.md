@@ -105,6 +105,7 @@
 + [前端基于DOM或者Canvas实现页面水印](https://mp.weixin.qq.com/s/vjC4LsbQDomZW8cBA8NV_g)
 + [前端你不能不了解的核心秘密，耗时任务的处理](https://mp.weixin.qq.com/s/gWnvdVCA6bJHqb9TqqZWEg)
 + [Javascirpt时区——脱坑指南](https://mp.weixin.qq.com/s/OJlrCWP7jXWPC6uYO2ORWw)
++ [Crafty.js：一个超级厉害的轻量级游戏开发的JavaScript的库](https://mp.weixin.qq.com/s/KzXMy57YRrhQkB5aKdOGFA)
 
 # 框架
 

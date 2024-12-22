@@ -266,6 +266,7 @@
 + [Java反射原理](https://mp.weixin.qq.com/s/TKacXc0zO-PAHQMnzmv10g)
 + [从运行的角度理解Java反射的原理](https://mp.weixin.qq.com/s/XSlZoFQ4FaCTeQ6TBoSOxA)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
++ [反射为什么慢？能在项目中大量使用吗？](https://mp.weixin.qq.com/s/TGlEuawmM3uQsp0Uwvy7bw)
 
 ### 并发/多线程
 
@@ -387,6 +388,9 @@
 + [Java 面试题 --JVM 大厂篇之深入探讨 Serial GC 的应用场景](https://mp.weixin.qq.com/s/TfKESnO7pLLcVJYE8nJrDg)
 + [Java 面试题 --JVM 大厂篇之 Java 新神器 ZGC：颠覆你的垃圾回收认知！](https://mp.weixin.qq.com/s/dPINwSxp_mz5vCjjDPhNrQ)
 + [Java 内存管理 “通关秘籍”：原理吃透，优化无忧，实战称王](https://my.oschina.net/u/150384/blog/16699239)
++ [Out of Memory？别怕！这个Java容器技巧让你的应用永不宕机！](https://mp.weixin.qq.com/s/CGfOvAM12I91p5TgagcxJA)
++ [面试官：每天100w次登陆请求, 8G 内存该如何设置JVM参数？](https://mp.weixin.qq.com/s/YRmWwGBYtAphPqFXQN-fTw)
++ [Java 面试题 --JVM 大厂篇之 Java 工程师必备：顶尖工具助你全面监控和分析 CMS GC 性能（1）](https://mp.weixin.qq.com/s/jnbL0NGdvNrKOR3Dgd5Qlg)
 
 # 核心库
 
@@ -432,6 +436,7 @@
 + [Java 8 Stream API 实现各种数据类型的转换](https://mp.weixin.qq.com/s/CMOAP0d_fjIoKK6Owe5d7A)
 + [深入理解Java中的并行流（Parallel Stream）](https://mp.weixin.qq.com/s/IwEVCRzTnumXm8j-oKMiEQ)
 + [Java Stream API](https://mp.weixin.qq.com/s/-Vd0qolH96t113sJ3iEcKQ)
++ [Stream的reduce方法介绍](https://mp.weixin.qq.com/s/7AmJCJBgGSomveWvzP2S7Q)
 
 ### Date/time
 
@@ -439,6 +444,7 @@
 + [使用LocalDateTime替代Date操作处理日期时间之后：任凭风浪起,稳坐钓鱼台](https://mp.weixin.qq.com/s/IYB4fmg71-jQ3fHx_SKkEg)
 + [【拿走不谢】18 个 Java8 日期处理的实践，太有用了！](https://mp.weixin.qq.com/s/wWZiJm9xDV90RE2YJpPVFg)
 + [Java中的时间戳【详解】](https://mp.weixin.qq.com/s/iDriMryXysIw4MKKFSNDqA)
++ [为什么不再推荐使用 Date 类？](https://mp.weixin.qq.com/s/bVwLWD6IUMGYtgG3yenHwQ)
 
 ### Collection/Map
 
@@ -461,6 +467,7 @@
 + [Map 只会 put、get？快来学这几个“新”方法](https://mp.weixin.qq.com/s/R0BDjZSMF2T4gume8debWQ)
 + [EnumMap：让Java Map更高效的技巧](https://mp.weixin.qq.com/s/-STChMSoBo67956UNlnb4g)
 + [Map你只会用put，get？试试这些高级方法](https://mp.weixin.qq.com/s/OeMhbvyqsIwCFeXgTnGmfQ)
++ [HashMap中为什么引入红黑树，又为什么桶中超过8个才转为红黑树？](https://mp.weixin.qq.com/s/JwORsDxJfFxDM_XhRKzG1g)
 
 ### Optional
 
@@ -499,6 +506,7 @@
 + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
 + [CompletableFuture--结果死锁了](https://mp.weixin.qq.com/s/nChl7DjQg9GOCSl1uplUEQ)
 + [Future](https://mp.weixin.qq.com/s/SbWXQZjD7UxzjZcShI9fbQ)
++ [CompletableFuture 和 Future 它两之间存在着什么关系？](https://mp.weixin.qq.com/s/elxKeQNI-JOXmYAsOdEZNg)
 
 ### ThreadPool
 
@@ -627,6 +635,7 @@
 + [盘点那些强大又低调的 Java 缓存](https://mp.weixin.qq.com/s/yujiHARZo_48wAf9UzeKAQ)
 + [“3种方式重写第三方jar包”是每个程序员迈向成熟必备的技能](https://mp.weixin.qq.com/s/stfxBQFcDqdfCClOAJhdqg)
 + [Java Jar](https://mp.weixin.qq.com/s/e0nfxWbL4XyTiQ_ufSXfDA)
++ [后悔！9个我在运行Java JAR应用时没掌握的关键技巧](https://mp.weixin.qq.com/s/fNYDxJfx3WS771vhqzQNEg)
 
 # 包管理工具
 
@@ -687,6 +696,7 @@
 + [spring中后置处理器的作用？](https://mp.weixin.qq.com/s/7ZINpNnwStOV1kQ-HkyCAw)
 + [Spring EL 表达式的简单介绍和使用](https://mp.weixin.qq.com/s/tlIilEXRwlVwbQHu9b4LJQ)
 + [Spring 中获取 Bean 的八种方式](https://mp.weixin.qq.com/s/lveufyY2W2nS6YMxo_LjFg)
++ [这6个Spring高级开发技巧掌握了吗？](https://mp.weixin.qq.com/s/0fwbtiUrG2n03pmc3aHwTg)
 
 #### 配置
 
@@ -696,6 +706,7 @@
 
 #### 工具
 
++ [一款专注 Spring 源码学习的神器，帅呆了！](https://mp.weixin.qq.com/s/2zx2FscgW30FCFqpleavqQ)
 + [Spring这些内置工具类，你用过几个？](https://mp.weixin.qq.com/s/VQmzMCFrlqWL9eUy-mhuZg)
 + [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
 + [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
@@ -705,6 +716,7 @@
 #### 高阶使用
 
 + [Spring 纯注解开发，有点强！！](https://mp.weixin.qq.com/s/gUbXshBZQtW6SX-Q84y74g)
++ [优雅！Spring强大的数据绑定功能，太爽了](https://mp.weixin.qq.com/s/-OQ8CBEfE4dBJGE3zpBcdA)
 + [掌握Spring这些注入技巧让你事半功倍](https://mp.weixin.qq.com/s/hKd1gvAXfC8vNQj4lyuN4w)
 + [Spring纯注解开发，有点强！！](https://mp.weixin.qq.com/s/YFLUrWpIkhCuHsO7OA2p5g)
 + [5种从jar中读取文件的方式，你会几种？](https://mp.weixin.qq.com/s/S2jGNJglGjsG_IR27ZCfAA)
@@ -726,6 +738,7 @@
 + [深入剖析 Spring 核心数据结构：BeanDefinition](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-definition/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [Spring @DependsOn注解解析](https://mp.weixin.qq.com/s/dAb2zeUR9u9WrCllUeXznw)
 + [如何阅读 Spring 源码？](https://www.diguage.com/post/how-to-read-spring-sources/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [从底层源码深入分析Bean的实例化](https://mp.weixin.qq.com/s/EP9_xDIYo9jSKgUoNK5_Rg)
 
 ### 新版本新特性
 
@@ -1113,6 +1126,7 @@
 + [SpringBoot强大的数据格式化功能](https://mp.weixin.qq.com/s/Xoelvwbuo2RuMga_2kDQBQ)
 + [深入解析电商用户购物行为：基于Springboot 3.x 和 RabbitMQ的实时消息处理与分析](https://mp.weixin.qq.com/s/9piumg1NMbNpEefgvzY_6Q)
 + [Spring Boot ：将文件推送到阿里云 OSS](https://mp.weixin.qq.com/s/b4jte00TtWD4DYW31SIgFQ)
++ [企业级的OSS对象存储服务，这样封装万能好用！](https://mp.weixin.qq.com/s/BoZ_01Rmm1wO3SJIo2pixQ)
 + [探秘Spring Boot中的8种初始化操作方式和执行顺序](https://mp.weixin.qq.com/s/jsBRWsHI0FVlMjkIrgSZAw)
 + [Spring Boot实现短信验证注册和登录](https://mp.weixin.qq.com/s/4V4cd9lgiKjIG2rXOzWfIA)
 + [Spring Boot支持发送邮件](https://mp.weixin.qq.com/s/qGInYLdwgOblO9ebZdZCFg)
@@ -1188,6 +1202,8 @@
 + [解锁Spring Boot、Prometheus与Grafana三合一：打造你的专属自定义指标炫酷大屏！](https://mp.weixin.qq.com/s/HRk2dW3pIi1MI_zuchP4kw)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
 + [生产环境Spring Boot这些骚操作你可知道？](https://mp.weixin.qq.com/s/DZl_TpcE1CXhEzHdzQgJsg)
++ [一文速通 Spring Boot 常用注解，建议收藏！](https://mp.weixin.qq.com/s/CefLOMv54-GlEZYmUBgfgw)
++ [SpringBoot 插件化开发模式，强烈推荐！](https://mp.weixin.qq.com/s/n7ZESNBf8DZzVv6FfP41sA)
 
 #### 分布式
 
@@ -1354,6 +1370,7 @@
 + [SpringBoot中@Service能否取代@Controller？](https://mp.weixin.qq.com/s/lUNLPmHbisFpCgy76fzTGA)
 + [SpringBoot 实战：文件上传之秒传、断点续传、分片上传](https://my.oschina.net/lenve/blog/16507087)
 + [确保数据安全！使用 Spring Boot 实现强大的 API 输入验证](https://my.oschina.net/lenve/blog/16493065)
++ [Controller接口还能这样玩](https://mp.weixin.qq.com/s/7Tw_c0kr0raNbKd6C3AbNw)
 
 ##### VUE
 
@@ -1416,6 +1433,7 @@
 + [SpringBoot 官方推荐，连接池，太快了！](https://mp.weixin.qq.com/s/C8dliu0hFGVLR3cQl2gFjg)
 + [SpringBoot 官方强烈推荐，连接池，太快了！](https://mp.weixin.qq.com/s/WOCx8JV1gpWJa6v0w0OAWg)
 + [Spring Data REST 深入解析：快速构建高效 RESTful API 的终极指南](https://mp.weixin.qq.com/s/Th1XUZtXvz90Flb5hLf-Lg)
++ [11条提高Redis性能的技巧](https://mp.weixin.qq.com/s/Njg2JXcg_FzyYKJ0NjrYMg)
 
 ##### TRANSACTION
 
@@ -1516,6 +1534,7 @@
 + [Spring Boot如何集成AOP？](https://mp.weixin.qq.com/s/PI8V6KgGDve9T7hrNjpjWQ)
 + [Spring Boot和AOP将API输入输出数据存入数据库](https://mp.weixin.qq.com/s/CIA8lGkhk_6D5XgJHkKRzQ)
 + [Spring AOP高级知识你知道多少？](https://mp.weixin.qq.com/s/Of4N8AZ1GeWjVGV6Ng5fQQ)
++ [SpringBoot 实现动态插拔的 AOP，太实用了！](https://mp.weixin.qq.com/s/cuC0zY_sN9ySdSY2OKBj7g)
 
 #### SPI
 
@@ -1648,6 +1667,7 @@
 + [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/MvbauTHQ3yNGopEHTxyB1w)
 + [提升数据导出效率：Spring Boot整合EasyExcel并行导出及Zip压缩下载](https://mp.weixin.qq.com/s/-MZ4XEK0cviGxmoCACBixg)
 + [新选择！基于Spring Boot监听MySQL日志Binlog实现数据实时同步](https://mp.weixin.qq.com/s/3rMWPmLHnoY4IDl-owuLIw)
++ [SpringBoot集成shardingsphere：执行存储过程](https://mp.weixin.qq.com/s/2FJDu2TWfAPjrTz-LT7wcw)
 
 #### 自定义实现
 
@@ -1753,6 +1773,7 @@
 + [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
 + [为什么不选择使用原生的 NIO 而选择使用 Netty 模式呢？](https://mp.weixin.qq.com/s/qhPEYV6CrQg6DEybirbYZw)
 + [Netty的源码分析和业务场景](https://mp.weixin.qq.com/s/M8EH_sgleaNHNhdIe7Gfpg)
++ [Netty 强大的 ByteBuf](https://mp.weixin.qq.com/s/D2O1qpB9n2OAboJqsCY5OQ)
 + [Netty 常见组件介绍](https://mp.weixin.qq.com/s/5WxBZTOBUS1PmpV5urrqcw)
 + [Netty TCP 实战案例（一），文末附源码地址](https://mp.weixin.qq.com/s/Wp4JFSa_ZNPc1Re5-N2nxg)
 + [FastThreadLocal 为什么那么快](https://mp.weixin.qq.com/s/NFdatPy3vuJZsmpXqr5y4w)
@@ -1870,6 +1891,7 @@
 + [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
 + [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
 + [为什么 Feign 要用 HTTP 而不是 RPC？](https://mp.weixin.qq.com/s/GCT0sTCPJcbh9ye3NHOTDw)
++ [简化本地Feign调用，老手教你这么玩](https://mp.weixin.qq.com/s/b7jD3o078_sZQ5yJXYbd3g)
 
 ## 字节码相关
 

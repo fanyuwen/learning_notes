@@ -274,6 +274,7 @@
 + [滴滴面试：单表可以存200亿数据吗？单表真的只能存2000W，为什么？](https://mp.weixin.qq.com/s/71xpkiBXPyiY9MAv-2srhQ)
 + [直接问懵圈，MySQL一次批量插入多少条数据性能最佳？](https://mp.weixin.qq.com/s/eglKLoCTOBO3S4onLyQC-w)
 + [学习 MySQL 必须了解的几个 Undo 概念](https://my.oschina.net/actiontechoss/blog/16675208)
++ [为什么数据库连接很消耗资源？被问根本答不出来……](https://mp.weixin.qq.com/s/hcKoIUozB7T5f-tUJc7zAQ)
 
 #### 存储引擎
 

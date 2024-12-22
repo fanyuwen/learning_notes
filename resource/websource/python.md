@@ -411,6 +411,7 @@
 + [dj-multidomain，一个Python中非常有用的库](https://mp.weixin.qq.com/s/5XcXlh8VWVJGxuy-Vls3pw)
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
++ [aiofiles：基于 asyncio，提供文件异步操作(文件管理)](https://mp.weixin.qq.com/s/cdVvBMhN8_qOSHvy4g9nhQ)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
 + [Coconut，一个函数式Python库！](https://mp.weixin.qq.com/s/6CZFL825flvUNvocTYbOqA)
 + [pdf-info，一个Python中非常有用的库](https://mp.weixin.qq.com/s/I5__jvYXypwRpESkR2RvDA)

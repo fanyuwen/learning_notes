@@ -15,6 +15,7 @@
 + [搞懂策略模式和模板方法模式](https://mp.weixin.qq.com/s/8P_-KFSJvNtnkNSTx3DgAQ)
 + [工厂+策略模式项目中结合使用](https://mp.weixin.qq.com/s/_u3rMOjqDoL5KuBJTSZ0tQ)
 + [工作中最常用的 8 种设计模式](https://mp.weixin.qq.com/s/H6P7UVwXF_hqEeZUzyo1gg)
++ [揭秘 Java 与设计模式：编程路上的 “指南针” 与 “秘籍”](https://mp.weixin.qq.com/s/0lLI4HU2Fpmm6ggK4FUOUw)
 
 # 原则
 
@@ -73,6 +74,7 @@
 + [让代码更简洁、更优雅：经典设计模式责任链模式在实际工作中的应用与实现。](https://mp.weixin.qq.com/s/pqqiePMpeNb2vwcgR8sdJQ)
 + [使用责任链模式重写条件判断](https://mp.weixin.qq.com/s/LLYT4eskXh_r73mG8cVXAw)
 + [太优雅了，责任链模式在项目中的实战应用](https://mp.weixin.qq.com/s/AY9VXqmqDEX62BfMiuRuSg)
++ [责任链实战的高级用法：多级校验、工作流，这样写代码才足够优雅！](https://mp.weixin.qq.com/s/xKswt40pQJlZUFqHHMvMTw)
 
 # 观察者模式
 

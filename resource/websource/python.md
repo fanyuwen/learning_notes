@@ -375,6 +375,7 @@
 + [Python 对象引用计数：最厉害的内存管理方式](https://mp.weixin.qq.com/s/VqgpzjtBiZMF55TE8W_EsQ)
 + [Python 在自然语言处理中的 15 个实用算法](https://mp.weixin.qq.com/s/DCs1sP_2XlVbhQR0UVxeVg)
 + [Python移动应用开发的8个入门指南](https://mp.weixin.qq.com/s/FECeStmozdacwJAfXFgEMQ)
++ [Fabric：Python自动化部署的秘密武器](https://mp.weixin.qq.com/s/nd7QSsqg2dr_bQ5FHVLWTw)
 
 ## 新特性
 

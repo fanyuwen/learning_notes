@@ -286,6 +286,7 @@
 + [软件系统限流的底层原理解析](https://mp.weixin.qq.com/s/EJ68f40ebapdqKTgGOG8tw)
 + [6 种服务限流方案技术选型，哪个最香？](https://mp.weixin.qq.com/s/tnVGZpz-mrT248RpWpfOfQ)
 + [限流算法比较](https://mp.weixin.qq.com/s/gFJ1yAhp8YqJOIV84KmgNQ)
++ [面试官：说说看你知道的常见限流算法有哪些？它们的优缺点分别是什么？如何基于用户身份限流？](https://mp.weixin.qq.com/s/9l-hawV7Os4n1eppBqQ1uQ)
 
 ### 大文件IO
 

@@ -58,6 +58,7 @@
 + [SQL优化的35个小技巧](https://mp.weixin.qq.com/s/pRPHyWMiaU9CRzkiCM2dPg)
 + [线上问题排查(3)--慢SQL排查](https://mp.weixin.qq.com/s/g4bYrlMe-tKHThqNKf2BMA)
 + [专坑同事的 SQL 写法，性能降低100倍，别踩坑。。。](https://mp.weixin.qq.com/s/e3E6Ekxvx5idXx91J0LgmQ)
++ [一个复杂的SQL分析](https://mp.weixin.qq.com/s/T9KJjz7CwREE7T9fj2b3ZQ)
 
 # 本地数据库
 
@@ -103,6 +104,7 @@
 + [一文弄懂分库分表｜为什么需要分库分表？｜怎么分？](https://mp.weixin.qq.com/s/mNbwX4zZxxObloc8ry3aww)
 + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://mp.weixin.qq.com/s/fbWD1UTejWvDHK29gQn9HQ)
 + [拒绝盲目跟风，分库分表真的不是万能的！](https://mp.weixin.qq.com/s/hcFgl7w34LqXI2vVzNK4LA)
++ [百亿级分库分布的分片键怎么设计](https://mp.weixin.qq.com/s/Q3wMCEtv08B_4EJfJPQI2Q)
 
 ## 原理解析
 
@@ -143,6 +145,7 @@
 + [MySQL使用临时表时，如何确保其不会与其他会话中临时表有冲突？](https://mp.weixin.qq.com/s/rcWtvMIlg7j5AqxFuAJo1g)
 + [(十八)MySQL排查篇：该如何定位并解决线上突发的Bug与疑难杂症？](https://mp.weixin.qq.com/s/m24AB--7Iaev4Ab089RisA)
 + [MySQL中临时表与普通表的区别](https://mp.weixin.qq.com/s/Svje-oNHu1xVgRc7L8T07w)
++ [MySQL中这14个神仙功能，惊艳到我了！！！](https://mp.weixin.qq.com/s/MbImZgBGhbJ0JDNdNs6XKQ)
 + [MySQL的 where 1=1会不会影响性能？](https://mp.weixin.qq.com/s/DsF-sUGnXHGTb6iY1quRPw)
 + [MySQL 临时表详解](https://mp.weixin.qq.com/s/k69BT_QHsU-FBY3B1Ib-DA)
 + [MySQL性能调优时，如何平衡成本和性能改进？](https://mp.weixin.qq.com/s/MoHzU01pEJ4pRyzaM10AfA)

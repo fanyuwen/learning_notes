@@ -123,6 +123,7 @@
 + [Linux突发网络故障常用排查的命令](https://mp.weixin.qq.com/s/OrlN3RuXlQh2DTQwDyim0w)
 + [Linux（三）：文件比较利器——vimdiff与vim -d](https://mp.weixin.qq.com/s/veF_HhyHYDHQRYN8e5Uzbw)
 + [只需20个Linux命令，让你的工作效率翻倍！](https://mp.weixin.qq.com/s/cohlcdhko5W94FzW4cmX8Q)
++ [能用到 “退休” 的 600条 Linux 命令，直接起飞！](https://mp.weixin.qq.com/s/XCQ2DJJ6x75UQn6XCl8SuQ)
 
 ### 发行版信息
 

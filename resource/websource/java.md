@@ -146,6 +146,7 @@
 + [Java 灵魂拷问 13 个为什么，你都会哪些？](https://my.oschina.net/weige87/blog/16509860)
 + [高效开发！Lambda表达式和函数式接口最佳实践](https://mp.weixin.qq.com/s/O_xBOXuAVmFpBT4g9bNeqA)
 + [Java中的七种函数式编程技巧](https://mp.weixin.qq.com/s/tc5cnh5uhBpSFsfpfWP_DQ)
++ [这9个工具库让我的Java开发效率提升了80%](https://mp.weixin.qq.com/s/JLRWVWLOvxBpJchc7U_LwA)
 
 ## 代码质量
 
@@ -412,6 +413,7 @@
 + [不掌握BigDecimal的四大坑你敢用吗？](https://mp.weixin.qq.com/s/FHOts-kR6JTz2b9q8hupNw)
 + [争议不断的问题：金额到底是用Long还是BigDecimal？](https://mp.weixin.qq.com/s/Uy2dmOSOJjXnAMcFD6oeYg)
 + [告警：线上慎用 BigDecimal ！](https://mp.weixin.qq.com/s/Sj4BWdfC0ay0C79IrbBgMQ)
++ [BigDecimal 为什么可以不丢失精度？](https://mp.weixin.qq.com/s/FzTuOdjSKnQvxM3P4_5x4Q)
 
 ## util库
 
@@ -610,6 +612,7 @@
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
 + [BlockingQueue 示例及使用场景](https://mp.weixin.qq.com/s/-OLHoAUTkK3jrOxwM0w6gg)
 + [AtomicReference](https://mp.weixin.qq.com/s/SWua1GXlAvt0lG_DRS5usw)
++ [三个同步辅助类](https://mp.weixin.qq.com/s/nDb4wH8s0QViHfUcYVzAhA)
 
 ## IO/NIO
 
@@ -947,6 +950,7 @@
 
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
++ [高速导出！Springboot3.4 + StreamingResponseBody 助你轻松应对大批量数据导出](https://mp.weixin.qq.com/s/Vymbk1YjaSfs88i8d7RZ8Q)
 + [王炸级更新！Spring Boot 3.4 正式发布，新特性真香！](https://mp.weixin.qq.com/s/PSWuglR3S0NoNd2EoXp3Tg)
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
@@ -1115,6 +1119,7 @@
 + [SpringBoot3第三方接口调用10种方式，最后一种你肯定没用过](https://mp.weixin.qq.com/s/jbq6rwG_LkQcMg7XD7BAgQ)
 + [Spring Boot集成Timefold Solver实现课程表编排](https://mp.weixin.qq.com/s/m72CNVLZoxCYQD5f_6Kz8A)
 + [请牢记SpringBoot这7个强大的隐藏Bean](https://mp.weixin.qq.com/s/aK7lQXXKMZycnYwRieiZig)
++ [在Spring Boot中优雅的计算方法执行时间](https://mp.weixin.qq.com/s/VpBBMeIhtNsuWAYdCdG8iQ)
 + [Spring Boot源码分析一：启动流程](https://mp.weixin.qq.com/s/sj-0V-CDYvTZUH4h7ffeoQ)
 + [Spring Boot 体验 BIO（阻塞式IO）](https://mp.weixin.qq.com/s/ArsjUl1U6RCdJcAHTYCl_A)
 + [Spring Boot 定时任务与 xxl-job 灵活切换方案](https://mp.weixin.qq.com/s/b29uC_PFcFXsFGbMIW2-QQ)
@@ -1219,6 +1224,7 @@
 + [简单！详解@RefreshScope动态刷新核心原理](https://mp.weixin.qq.com/s/q9JlYkRwJV2S0PQnDvGL0w)
 + [Spring Boot启动流程详解！](https://mp.weixin.qq.com/s/jVnd4urvJpyDWDJM7KAtyA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/nwdFRV4WJxvwD3ehVCs8tA)
++ [实体 到 DTO转换！这7种方式性能差距太大，最后一个才是王者](https://mp.weixin.qq.com/s/DoWntVEwWsPxI3rRDRIRLw)
 
 #### 分布式
 
@@ -1281,6 +1287,7 @@
 + [确保数据安全！使用 Spring Boot 3.3 实现强大的API输入验证](https://mp.weixin.qq.com/s/bnCtPq5gfh0PL_ASsHjNDw)
 + [基于Spring Boot给所有Controller接口添加统一前缀的5种方式](https://mp.weixin.qq.com/s/8YbwaP2D5-2Mv_svhKObGQ)
 + [弃用RestTemplate！RestClient真香](https://mp.weixin.qq.com/s/Fq3Tx6wR3TF6yjiy61An5Q)
++ [Spring Boot 通过@JsonComponent注解完全控制JSON数据](https://mp.weixin.qq.com/s/OTSU6xHjEPS-Dr-z4HfgmQ)
 + [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
 + [一文彻底玩转@RequestMapping，高级用法你未必知道](https://mp.weixin.qq.com/s/_upqOl_h406Z-ZOcJ24wgA)
 + [高效脱敏！SpringBoot 3.3使用JsonSerializer 和自定义SerializerModifier实现数据保护](https://mp.weixin.qq.com/s/ISGNj5T4Qx_czC7OExoe3w)
@@ -1387,6 +1394,7 @@
 + [确保数据安全！使用 Spring Boot 实现强大的 API 输入验证](https://my.oschina.net/lenve/blog/16493065)
 + [Controller接口还能这样玩](https://mp.weixin.qq.com/s/7Tw_c0kr0raNbKd6C3AbNw)
 + [SpringBoot接口参数如何使用多个@RequestBody？](https://mp.weixin.qq.com/s/3E830Goq9VSJGnJQXahjAQ)
++ [SpringBoot 实现 License 认证：快速校验有效期的简洁方案](https://mp.weixin.qq.com/s/0Kceh_VhVOIwexvKYa0V1A)
 
 ##### VUE
 
@@ -1457,6 +1465,7 @@
 + [利用Spring Boot的@Transactional注解保障业务数据的一致性](https://mp.weixin.qq.com/s/NI82lzGm7nLdX9IyeruOrw)
 + [SpringBoot -- 数据库事务（1）](https://mp.weixin.qq.com/s/ek-Benqscu6spF81yLmy1A)
 + [Spring Boot + 事务钩子函数，太强了！](https://mp.weixin.qq.com/s/aUOnGfNdDtrNsLZ6vnULTg)
++ [性能调优！Spring Boot 选择正确的事务方式，提升接口响应速度](https://mp.weixin.qq.com/s/w0eo9SXgmeFunIexG51qpA)
 
 ##### BIG DATA
 
@@ -1553,6 +1562,7 @@
 + [Spring AOP高级知识你知道多少？](https://mp.weixin.qq.com/s/Of4N8AZ1GeWjVGV6Ng5fQQ)
 + [SpringBoot 实现动态插拔的 AOP，太实用了！](https://mp.weixin.qq.com/s/cuC0zY_sN9ySdSY2OKBj7g)
 + [这4个关于Spring AOP开发技巧你知道吗？](https://mp.weixin.qq.com/s/Jugx3KZH2Rxs6OmN1zKHmg)
++ [精通Spring AOP？除非做对这20道选择题](https://mp.weixin.qq.com/s/mosTlKl1F2PGdNzfYc02EA)
 
 #### SPI
 
@@ -1754,6 +1764,7 @@
 + [农行2面：JDBC存在什么问题？MyBatis是如何解决的？](https://mp.weixin.qq.com/s/jqD9PA003jUjBx-lEL1eoA)
 + [MyBatis 列名转换拦截器：解决列名映射风格问题](https://mp.weixin.qq.com/s/Eej4jdfH38Vh2wkwJcOIlw)
 + [使用MyBatis推荐几种SQL写法](https://mp.weixin.qq.com/s/FkcaqnMcrgZN_4MmfNrbYw)
++ [MyBatis中的 10 个宝藏技巧！](https://mp.weixin.qq.com/s/D66uI4w8-lYJd6CuRtSM6g)
 
 ### plus
 
@@ -1860,6 +1871,7 @@
 + [别再乱打日志了，这份 Java 日志规范，应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/xxJRkJorWpmRfCG5b8mllw)
 + [logback VS log4j2：一倍左右的性能差异，是时候注意了！](https://mp.weixin.qq.com/s/qDvBY7ufgMVEeDajV7REBQ)
 + [EasyLogger，一款轻量级且高性能的日志库，不一样的打印输出](https://mp.weixin.qq.com/s/DXpSswLvvNdscIXbD0xHkg)
++ [一文理清 Java 日志框架的来龙去脉](https://mp.weixin.qq.com/s/0TZ2xgtMaiX_jeFHdFBC3g)
 
 ## MapStruct
 
@@ -2004,6 +2016,7 @@
 + [Java 性能分析 5 大工具](https://mp.weixin.qq.com/s/nRPW2b3xAekp-RwPWXkhjw)
 + [深入了解 Apache Celix：专为 Java 动态模块设计的强大框架！](https://mp.weixin.qq.com/s/rqJjCrnPSu6F2eujwqmM5A)
 + [深入解析：为什么Lombok的@SuperBuilder如此好用？](https://mp.weixin.qq.com/s/8ofvbdDaY-4Hn7kiyQozng)
++ [JGit，Java Git库的框架！](https://mp.weixin.qq.com/s/Db5_BuMpEDM6Ga2GZowEmA)
 
 # 其它环境
 
@@ -2015,6 +2028,7 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
 + [二十万分之一几率：if 语句变 do-while 卡死问题分析｜得物技术](https://my.oschina.net/u/5783135/blog/16664437)
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/9dTJ_EPecl-DsBSiOXAiEA)
 + [一个 Bug JDK 居然改了十年？](https://my.oschina.net/u/4009705/blog/16590034)
@@ -2081,3 +2095,4 @@
 + [当我去挖掘发序列化时的一个乌龙事件](https://mp.weixin.qq.com/s/G6x4rvkwjcXX_ttqX2LxEw)
 + [十年码农内功：缓存篇（第2版）](https://mp.weixin.qq.com/s/8lS2i76DwVLpgbCNPyTDyQ)
 + [一文解秘 Rust 如何与 Java 互操作](https://my.oschina.net/u/6304666/blog/16495845)
++ [MJGA：让 Java 再次伟大！SpringBoot 能否硬刚 Gin？](https://mp.weixin.qq.com/s/mrb4KSHya1jXLCuyV5TSCA)

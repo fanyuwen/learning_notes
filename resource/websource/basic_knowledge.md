@@ -330,6 +330,7 @@
 + [Nginx 性能优化的几个方法](https://my.oschina.net/lenve/blog/16492920)
 + [使用 Rust（替代 C 语言）扩展 NGINX](https://my.oschina.net/u/5246775/blog/16342753)
 + [面试官：说说看Nginx是如何处理请求的？为什么Nginx不采用多线程模型？Nginx负载均衡的算法有哪些？什么是正向和反向代理](https://mp.weixin.qq.com/s/d0zKf6ml7rkBtdcPOWTodA)
++ [面试官：Nginx和Apache的区别是什么？如何解决前端跨域问题？Nginx如何限流？Nginx如何应对惊群效应？](https://mp.weixin.qq.com/s/UxccI4FEJpF_-zM-UXteQQ)
 
 ### wireshark
 

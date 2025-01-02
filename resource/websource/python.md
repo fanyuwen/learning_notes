@@ -666,6 +666,10 @@
 + [django框架入门——第一个简单示例](https://mp.weixin.qq.com/s/_-wdVy_hTwQiV84V9Tpb4g)
 + [Django，一个王者级Web开发Python库！](https://mp.weixin.qq.com/s/0jhvxl8V03eqTYEh8gFW-A)
 
+### FASTAPI
+
++ [FastAPI：这个Web框架比Flask快10倍，Django快40倍！](https://mp.weixin.qq.com/s/4LsE4TfeF8IlYOgR09-uAw)
+
 ### SQLAlchemy
 
 + [sqlalchemy，一个灵活的 Python ORM 库！](https://mp.weixin.qq.com/s/2DSFQftSgtyeuXxXw84_7w)

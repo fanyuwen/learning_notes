@@ -173,6 +173,8 @@
 + [分布式锁的六大应用场景](https://mp.weixin.qq.com/s/_xKMDNz3-p_yPDjm5TJKHw)
 + [【Java面试100题突击】16 分布式锁在项目中有哪些应用场景？](https://mp.weixin.qq.com/s/nxlq1EkqJ9IHv_jn6qrbkA)
 + [分布式锁的实现原理](https://my.oschina.net/vivotech/blog/16539069)
++ [企业实战之分布式锁](https://mp.weixin.qq.com/s/y-W2TsL6NZ5cYgkPgQPqZA)
++ [一个注解 —— 完美实现分布式锁](https://mp.weixin.qq.com/s/HH1EOeUFsyHY3Ews9rEvgQ)
 
 ## 分布式缓存
 
@@ -428,6 +430,7 @@
 + [反问面试官：如何实现集群内选主](https://mp.weixin.qq.com/s/Lxt1ujFicJm-8KYBlVptZQ)
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/tuPZZHuyalBIsBrY4B_7AA)
 + [如何设计三方接口调用方案](https://mp.weixin.qq.com/s/oVclNYbMTcNsVAGZ3dngWg)
++ [谈一谈三方接口调用方案设计](https://mp.weixin.qq.com/s/rFYNRuujCkqlLnLLG1h-sg)
 + [探秘 RPC：揭开远程过程调用的实现原理](https://mp.weixin.qq.com/s/JoS_P8QEWumT5oNCJVq4gA)
 
 # 测试相关

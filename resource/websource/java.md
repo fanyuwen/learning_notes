@@ -233,6 +233,7 @@
 + [改造BeanUtils，优雅实现List数据拷贝](https://mp.weixin.qq.com/s/XUSO2Nba5nEm1Wit3mrLfQ)
 + [生产环境频繁堆内存使用率 90% 告警，调大内存竟然没有效果！记一次线上JVM 优化。](https://mp.weixin.qq.com/s/VrUP13NWnr6w-EyeWYWsuw)
 + [当面试官问出“Unsafe”类时，我就知道这场面试废了，祖坟都能给你问出来！](https://mp.weixin.qq.com/s/i_b519FMbf2KSbmTIYDCTA)
++ [JavaUnsafe](https://mp.weixin.qq.com/s/pmTzD3cq6MmgQKj5QqN71g)
 + [系统实现中的“池化”艺术：线程池、连接池及其背后的价值](https://mp.weixin.qq.com/s/8e3pI_f6PwaJLiiAzrr5Lg)
 + [面试官：解释一下方法区中的符号引用和直接引用](https://mp.weixin.qq.com/s/b4argbammF3Kff85NpopgQ)
 + [面试官：对于64位的long和double类型变量，volatile关键字有什么特别的效果？](https://mp.weixin.qq.com/s/lAzY7NLuT_7L6O7_O2h0vQ)
@@ -782,6 +783,7 @@
 + [如何处理：参数校验、统一异常、统一响应](https://mp.weixin.qq.com/s/bi71lURwjSsBN68XIGR2QA)
 + [别再使用 RestTemplate了，来了解一下官方推荐的 WebClient ！](https://mp.weixin.qq.com/s/9rB7DU_Za6ItsfIvgs6Nag)
 + [弃用 RestTemplate，来了解一下官方推荐的 WebClient ！](https://mp.weixin.qq.com/s/9vhX22najmgZI9a4SaGgBg)
++ [弃用 RestTemplate，来了解一下官方推荐的 WebClient 吧！](https://mp.weixin.qq.com/s/TqKuiFLxrAzvKqmR6SJYbA)
 + [深入SpringMVC聊跨域问题的最佳实践](https://mp.weixin.qq.com/s/ssuYSidETCDVbAoX56S04Q)
 + [厕所二面：过滤器和拦截器有什么区别？](https://mp.weixin.qq.com/s/DmnNxmNUnUag_SzepPOjEQ)
 + [这是我见过写得最烂的Controller层代码，没有之一！](https://mp.weixin.qq.com/s/OgWIwtEq1rfDudivopEfQw)
@@ -1004,6 +1006,7 @@
 + [用了这么久SpringBoot，这些隐藏技巧你真的掌握了吗？](https://mp.weixin.qq.com/s/_Zetg7oNOmUQdf6wDFDIug)
 + [一文详解：用Spring Boot实现自动化审核功能的关键步骤](https://mp.weixin.qq.com/s/ltrR839WqxxQbgQZW89LnQ)
 + [14个SpringBoot优化小妙招，写代码像写诗](https://mp.weixin.qq.com/s/1KhaQYb1BYc6vUnGG2dyzQ)
++ [Java开发者不可错过的Spring Boot高级技巧全解析](https://mp.weixin.qq.com/s/y__KHzIOGVw5eWP1L5Eixw)
 + [Spring Boot实用小技巧 - - 第523篇](https://mp.weixin.qq.com/s/BkWB09OlxzNmz67AAXiFAg)
 + [Spring boot框架指南](https://mp.weixin.qq.com/s/Y5yRdcBlo8WiM-s8JTph_w)
 + [后端开挂：3行代码写出8个接口！](https://mp.weixin.qq.com/s/b9dgJSiMdsiv59tHrfbyIA)
@@ -2028,6 +2031,8 @@
 # 相关文章
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
 + [二十万分之一几率：if 语句变 do-while 卡死问题分析｜得物技术](https://my.oschina.net/u/5783135/blog/16664437)
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/9dTJ_EPecl-DsBSiOXAiEA)

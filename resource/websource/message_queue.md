@@ -27,6 +27,7 @@
 + [消息队列黄金三剑客：RabbitMQ、RocketMQ和Kafka全面对决，谁是最佳选择？](https://mp.weixin.qq.com/s/QnrIjubSigjeNtRPOmMsBA)
 + [阿里一面：说说如何解决RocketMq消息积压？为什么Kafka性能比RocketMq高？它们区别是什么？](https://mp.weixin.qq.com/s/guGXjpDpdFDxX2RYYRt0NA)
 + [确保消息队列稳定高效：应对丢失、重复、顺序与积压问题的全面策略](https://mp.weixin.qq.com/s/P2YxzuzSi89NQ1EeVYR3sQ)
++ [关于消息中间件的研究](https://mp.weixin.qq.com/s/b4kziec2S5gSSJTpkxi5_g)
 
 # KAFKA
 

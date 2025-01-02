@@ -59,6 +59,7 @@
 + [线上问题排查(3)--慢SQL排查](https://mp.weixin.qq.com/s/g4bYrlMe-tKHThqNKf2BMA)
 + [专坑同事的 SQL 写法，性能降低100倍，别踩坑。。。](https://mp.weixin.qq.com/s/e3E6Ekxvx5idXx91J0LgmQ)
 + [一个复杂的SQL分析](https://mp.weixin.qq.com/s/T9KJjz7CwREE7T9fj2b3ZQ)
++ [SQL连接最全总结：提升你的数据库查询技能（建议收藏）](https://mp.weixin.qq.com/s/RQMgATBfHBhU_4kcxyjR2Q)
 
 # 本地数据库
 

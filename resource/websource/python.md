@@ -91,6 +91,7 @@
 + [Python如何写好一个函数，掌握这10个小技巧就够了！](https://mp.weixin.qq.com/s/HOgosV53haf6Rh8yHP-RrA)
 + [python-sort()函数及lambda表达式用法](https://mp.weixin.qq.com/s/4xduEohcDWqwIUvzT4FghQ)
 + [python中函数传递列表元素的8种方法](https://mp.weixin.qq.com/s/6NA9HZJZwwHsAT8pOjfrDA)
++ [Python 50个常用内置函数解析](https://mp.weixin.qq.com/s/jmFOG0ZXri2upSzArlG4sg)
 
 ### 面向对象
 
@@ -655,6 +656,8 @@
 + [Optimus：Python中的高性能数据处理加速器](https://mp.weixin.qq.com/s/rnveVySRv7oQmxZsoLCoMg)
 + [用Python生成Excel报表利器：XlsxWriter实用指南](https://mp.weixin.qq.com/s/xdFlMd8dBTGk6qoU_uHOMA)
 + [Argparse：Python命令行参数解析的经典之选！](https://mp.weixin.qq.com/s/eXn43lsBm_ICGbL9P0UW_Q)
++ [Pyngrok：用 Python 快速共享本地服务！](https://mp.weixin.qq.com/s/qvqNDKurADv_y0rIYC_vLA)
++ [Poetry：Python包和依赖管理工具，项目依赖管理的新选择](https://mp.weixin.qq.com/s/VOXU_yHlmjBGDJBhkDsWyQ)
 
 ## 框架
 

@@ -530,10 +530,12 @@
 + [Redis 高级数据结构 Bitmap HyperLogLog Geo](https://mp.weixin.qq.com/s/VNFvlXgLXwa9HniDtHdVEA)
 + [阿里面试：亿级 redis 排行榜，如何设计？](https://mp.weixin.qq.com/s/W7fe9lwuhp5ueN0xyVDE2g)
 + [面试回答 Redis 是单线程的所以很快，让我回去等通知....](https://mp.weixin.qq.com/s/kn7ZGKW4uwqxO-22t0tCDg)
++ [Redis Cluster和Sentinel模式，如何选择？](https://mp.weixin.qq.com/s/BFUvPdFwInn3LEVVGg-uxA)
 
 #### 原理
 
 + [面试都喜欢问 Redis，为什么？因为他快吗？](https://mp.weixin.qq.com/s/WVEbK-i31Y1cplHZ9_eExw)
++ [Redis常见数据类型及其底层实现](https://mp.weixin.qq.com/s/V3eSGO50mEQx5hhlRYE-Vw)
 + [Redis命令之Set类型](https://mp.weixin.qq.com/s/LYJjFoyIa3h-8OvNv4y6Vw)
 + [Redis命令之SortedSet类型](https://mp.weixin.qq.com/s/l3gYqqC2JP2lrsIQ5N9uhA)
 + [数据的极速旅行：Redis高性能原理的深度剖析](https://mp.weixin.qq.com/s/dTh7MbzOZ8SJSYpNi7oA0Q)

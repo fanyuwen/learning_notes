@@ -33,6 +33,7 @@
 + [通过 Kubernetes 看 Go 接口设计之道](https://mp.weixin.qq.com/s/1ewex6YMTA083shioZtwRA)
 + [通过 Kubernetes 看如何用Go构建大型项目](https://mp.weixin.qq.com/s/uot21dJgwxF2RA8pZmYAkA)
 + [使用Golang的协程竟然变慢了｜100万个协程的归并排序耗时分析](https://mp.weixin.qq.com/s/obBdPjqz_u5SabIPQHPCkA)
++ [SwissTable：高性能哈希表实现](https://mp.weixin.qq.com/s/0qjuRnK6ql7uKKmKKT1OrQ)
 
 # 库
 

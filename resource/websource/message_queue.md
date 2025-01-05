@@ -25,9 +25,11 @@
 + [项目中引入消息队列出现了什么问题？如何保证消息顺序性的？](https://mp.weixin.qq.com/s/0K4uWhsHhQ2fkWu67VXhlQ)
 + [系统设计中的消息队列](https://mp.weixin.qq.com/s/mIeLhtaSmarVbrsuX-9uqw)
 + [消息队列黄金三剑客：RabbitMQ、RocketMQ和Kafka全面对决，谁是最佳选择？](https://mp.weixin.qq.com/s/QnrIjubSigjeNtRPOmMsBA)
++ [RocketMQ 与 Kafka 有何不同？（上）](https://mp.weixin.qq.com/s/P40GLfVa7oFq0c0JgolvIQ)
 + [阿里一面：说说如何解决RocketMq消息积压？为什么Kafka性能比RocketMq高？它们区别是什么？](https://mp.weixin.qq.com/s/guGXjpDpdFDxX2RYYRt0NA)
 + [确保消息队列稳定高效：应对丢失、重复、顺序与积压问题的全面策略](https://mp.weixin.qq.com/s/P2YxzuzSi89NQ1EeVYR3sQ)
 + [关于消息中间件的研究](https://mp.weixin.qq.com/s/b4kziec2S5gSSJTpkxi5_g)
++ [MQ消息的重复消费原因和解决策略](https://mp.weixin.qq.com/s/hIdu9lIzXUcEgLB6lWRVIA)
 
 # KAFKA
 

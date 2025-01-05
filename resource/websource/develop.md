@@ -432,6 +432,8 @@
 + [如何设计三方接口调用方案](https://mp.weixin.qq.com/s/oVclNYbMTcNsVAGZ3dngWg)
 + [谈一谈三方接口调用方案设计](https://mp.weixin.qq.com/s/rFYNRuujCkqlLnLLG1h-sg)
 + [探秘 RPC：揭开远程过程调用的实现原理](https://mp.weixin.qq.com/s/JoS_P8QEWumT5oNCJVq4gA)
++ [如何更有效地编写复杂业务的代码](https://mp.weixin.qq.com/s/k6it69PuG9dCie62E8WLFw)
++ [如何设计一个高并发系统？](https://mp.weixin.qq.com/s/WD618MbXUd_CehTAZkBWkA)
 
 # 测试相关
 
@@ -469,6 +471,7 @@
 + [一款免费开源的支付系统](https://mp.weixin.qq.com/s/Bmmtlzw2ziX-XSIFmQtgrg)
 + [顶级的 权限系统，改如何设计？ Sa-Token学习圣经：史上最全的权限设计方案，一文帮你成专家](https://mp.weixin.qq.com/s/l_k-tX-3JEQfvsy0xMukUw)
 + [浅谈高并发评论系统设计-应付下面试](https://mp.weixin.qq.com/s/2ZxgdLs2C0E-duyYXnl0Lw)
++ [图解支付系统订单号设计与最佳实践](https://mp.weixin.qq.com/s/JHEcc9javbzvCaAUsme9Zw)
 
 ## 代码相关
 

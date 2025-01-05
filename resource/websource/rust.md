@@ -52,6 +52,7 @@
 + [Rust秘籍：libc库让你秒变系统编程大师，6个实例带你飞！](https://mp.weixin.qq.com/s/Ba6CGufFLzCd75vFRKZKWA)
 + [Rust中的动态规划：背包问题和斐波那契数列](https://mp.weixin.qq.com/s/PazzZGFPlnBkPDukYwG-6Q)
 + [30天拿下Rust之深入Cargo](https://mp.weixin.qq.com/s/lEsOTp5y_fzUukB2U5vlHg)
++ [震撼！万万没想到Rust原子操作这么强，性能提升300%的秘密都在这！](https://mp.weixin.qq.com/s/3USs2eo-QLj4ACD2uUNtGg)
 
 # 框架
 

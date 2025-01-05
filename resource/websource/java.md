@@ -147,6 +147,7 @@
 + [高效开发！Lambda表达式和函数式接口最佳实践](https://mp.weixin.qq.com/s/O_xBOXuAVmFpBT4g9bNeqA)
 + [Java中的七种函数式编程技巧](https://mp.weixin.qq.com/s/tc5cnh5uhBpSFsfpfWP_DQ)
 + [这9个工具库让我的Java开发效率提升了80%](https://mp.weixin.qq.com/s/JLRWVWLOvxBpJchc7U_LwA)
++ [java实用教程：Java开发必会的24个重要代码实例](https://mp.weixin.qq.com/s/fNRVAX0wMMfC0Vff34Z_1g)
 
 ## 代码质量
 
@@ -323,6 +324,7 @@
 + [如果你提交任务时，线程池队列已满，这时会发生什么？](https://mp.weixin.qq.com/s/BdsyUKvg1S-0Ar8tcYNW9g)
 + [原来，这才是JDK推荐的线程关闭方式](https://mp.weixin.qq.com/s/5T49yTy_BEkhXS26RCjbxg)
 + [面试官：单核 CPU 支持 Java 多线程吗？为什么？被问懵了！](https://mp.weixin.qq.com/s/BwMqY1yDzo8kZW7nBxtH0A)
++ [Java并发编程：本质上只有一种创建线程的方法](https://mp.weixin.qq.com/s/fqgOjrtcXb0PiaEZtVrGZg)
 
 ## 源码
 
@@ -855,6 +857,7 @@
 + [什么时候@Transactional失效？给出示例讲解](https://mp.weixin.qq.com/s/jrUPjUTs1f82JA6gJe12cg)
 + [【JavaEE进阶】Spring中事务的实现](https://mp.weixin.qq.com/s/WbszuyzCMBNW2leM8p2P-A)
 + [深入解析 @Transactional 作用于私有方法时事务失效的原因](https://mp.weixin.qq.com/s/7wIsaeP1Ga1KIwSuPtEIFw)
++ [面试官：sping事务什么时候失效？](https://mp.weixin.qq.com/s/aTSvRdHz0uu07U4tPFXzgg)
 
 ### Log
 
@@ -953,6 +956,7 @@
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [高速导出！Springboot3.4 + StreamingResponseBody 助你轻松应对大批量数据导出](https://mp.weixin.qq.com/s/Vymbk1YjaSfs88i8d7RZ8Q)
++ [SpringBoot 3.4 官方实时消息推送解决方案，简单又高效！](https://mp.weixin.qq.com/s/rbWX8l1ZEFcYKmGJ35DCQQ)
 + [王炸级更新！Spring Boot 3.4 正式发布，新特性真香！](https://mp.weixin.qq.com/s/PSWuglR3S0NoNd2EoXp3Tg)
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
@@ -1462,6 +1466,7 @@
 + [Spring Data REST 深入解析：快速构建高效 RESTful API 的终极指南](https://mp.weixin.qq.com/s/Th1XUZtXvz90Flb5hLf-Lg)
 + [11条提高Redis性能的技巧](https://mp.weixin.qq.com/s/Njg2JXcg_FzyYKJ0NjrYMg)
 + [RedisTemplate 的序列化策略和配置处理](https://mp.weixin.qq.com/s/-EH9S2oV_FJGcNUzmA5q_g)
++ [一文吃透Redis 4 种模式在 Spring Boot 下的配置](https://mp.weixin.qq.com/s/wj1FKwl8H7Wc-B49-fbd9A)
 
 ##### TRANSACTION
 
@@ -1590,6 +1595,7 @@
 + [Spring Boot2.x教程：（五）日志分割](https://mp.weixin.qq.com/s/fwcrE3RHYEHixgwjSftO2Q)
 + [高级开发！Spring Boot 自定义SQL日志记录(包括, 参数，耗时)，支持MyBatis，JPA等](https://mp.weixin.qq.com/s/mFXJ8IE6KCGyKgdfIprfEg)
 + [优雅！Spring Boot 这样记录操作日志非常灵活强大](https://mp.weixin.qq.com/s/Vt0b9wDdwL3DjeqU7slZ8g)
++ [Spring Boot 3 Logback配置文件及其加载原理（含源码分析）](https://mp.weixin.qq.com/s/B8seukRoROylF_dG3VMzyg)
 
 #### 安全
 
@@ -1875,6 +1881,7 @@
 + [logback VS log4j2：一倍左右的性能差异，是时候注意了！](https://mp.weixin.qq.com/s/qDvBY7ufgMVEeDajV7REBQ)
 + [EasyLogger，一款轻量级且高性能的日志库，不一样的打印输出](https://mp.weixin.qq.com/s/DXpSswLvvNdscIXbD0xHkg)
 + [一文理清 Java 日志框架的来龙去脉](https://mp.weixin.qq.com/s/0TZ2xgtMaiX_jeFHdFBC3g)
++ [Java日志记录几种实现方案](https://mp.weixin.qq.com/s/y2rhzOBhlVS7YroqPfiGgg)
 
 ## MapStruct
 
@@ -1927,6 +1934,14 @@
 + [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
 + [为什么 Feign 要用 HTTP 而不是 RPC？](https://mp.weixin.qq.com/s/GCT0sTCPJcbh9ye3NHOTDw)
 + [简化本地Feign调用，老手教你这么玩](https://mp.weixin.qq.com/s/b7jD3o078_sZQ5yJXYbd3g)
+
+## lombok
+
++ [好用的Lombok注解](https://mp.weixin.qq.com/s/-_N1RtqSMrDS5xLGF45DYw)
++ [深入解析：为什么Lombok的@SuperBuilder如此好用？](https://mp.weixin.qq.com/s/8ofvbdDaY-4Hn7kiyQozng)
++ [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
++ [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
++ [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
 
 ## 字节码相关
 
@@ -2018,7 +2033,6 @@
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/FvLZP8Y6NxbdsHiv9KjRuA)
 + [Java 性能分析 5 大工具](https://mp.weixin.qq.com/s/nRPW2b3xAekp-RwPWXkhjw)
 + [深入了解 Apache Celix：专为 Java 动态模块设计的强大框架！](https://mp.weixin.qq.com/s/rqJjCrnPSu6F2eujwqmM5A)
-+ [深入解析：为什么Lombok的@SuperBuilder如此好用？](https://mp.weixin.qq.com/s/8ofvbdDaY-4Hn7kiyQozng)
 + [JGit，Java Git库的框架！](https://mp.weixin.qq.com/s/Db5_BuMpEDM6Ga2GZowEmA)
 
 # 其它环境
@@ -2078,9 +2092,6 @@
 + [教你用三种方式模拟两个线程抢票](https://mp.weixin.qq.com/s/Qip0CLXyp834_l-AKvKVmQ)
 + [Java 分布式应用简介](https://my.oschina.net/OutOfMemory/blog/109216)
 + [后台开发必备：每个程序员都应掌握的缓存技术](https://mp.weixin.qq.com/s/pu0w46EGBD6CJmozkMXkrQ)
-+ [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
-+ [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
-+ [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
 + [CTO：谁再在项目中用Hutool，就给我卷铺盖滚蛋！！！](https://mp.weixin.qq.com/s/UZWTlZPCYm2tNjwXsRuVhg)
 + [顶级Javaer都在使用的类库，真香！](https://mp.weixin.qq.com/s/tl9AGQkkX4CqCr5RQvyrPg)
 + [京东商城高性能多线程并发编程与动态编排框架](https://mp.weixin.qq.com/s/ZrRzXrA1afld-TAAluu3hQ)

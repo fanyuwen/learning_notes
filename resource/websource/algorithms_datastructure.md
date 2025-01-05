@@ -9,7 +9,6 @@
 + [手写 Java HashMap 核心源码](https://my.oschina.net/helloworldnet/blog/5121810)
 + [手写 ArrayList 核心源码](https://my.oschina.net/helloworldnet/blog/5119205)
 + [手写 Java LinkedList 核心源码](https://my.oschina.net/helloworldnet/blog/5120099)
-+ [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
 + [解密阿里大神写的天书般的Tree工具类，轻松搞定树结构！](https://mp.weixin.qq.com/s/LsgDnr43hVH0dAjF1WHPkw)
 + [面试官：说说延迟任务的时间轮调度算法？](https://mp.weixin.qq.com/s/BhT9XF31KcmfhQ60ASlGEg)
 + [阿里面试：全国14亿个姓名，统计出重名最多的前100个](https://mp.weixin.qq.com/s/mzEuy3XqIja2aqgeT7mKGA)
@@ -24,7 +23,6 @@
 + [数据结构与算法——从入门到精通全攻略](https://mp.weixin.qq.com/s/OQEQvtoLAh8ushjyDCxjEg)
 + [重温数据结构与算法之并查集](https://mp.weixin.qq.com/s/GRQtGuZMYK-e6Cdqmh1fow)
 + [重温数据结构与算法之前缀和](https://mp.weixin.qq.com/s/cVcHr76SkbL-crDdvW2Xew)
-+ [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 + [8 个程序员都必须知道的常见数据结构](https://mp.weixin.qq.com/s/aCogl93rpI2mU2wyDTlnLQ)
 + [什么是树？为什么有二叉树还需要红黑树？+手写红黑树代码](https://mp.weixin.qq.com/s/DDhAl3deFBew9XMX1J433Q)
 + [数据结构算法练习(二)](https://mp.weixin.qq.com/s/3rNUx-I_QnBIuMQ3AJQ8qg)
@@ -36,6 +34,12 @@
 + [使用布隆过滤器防止缓存穿透，提高系统性能（附代码Demo）](https://mp.weixin.qq.com/s/aq5Wz7woDv8wetB0XZ1jZw)
 + [使用深度优先搜索（DFS）和广度优先搜索（BFS）解决八数码问题](https://mp.weixin.qq.com/s/wkgIygReX_TUoJzPE_q9ng)
 + [怎么用 Bitmap 来统计20亿用户中有多少用户在线？](https://mp.weixin.qq.com/s/t_V8-rB2yF5beebECX0dnA)
+
+## 排序算法
+
++ [十二种排序算法都有了解吗，猴子排序最快？？？](https://mp.weixin.qq.com/s/XDfCoivHi86a5tHRYwg8WA)
++ [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
++ [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 
 # 密码学
 

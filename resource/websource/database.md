@@ -85,6 +85,7 @@
 + [MySQL 处理大数据表的 3 种方案，写的太好了，建议收藏！！](https://mp.weixin.qq.com/s/YDIM98BjdwclVIj-2R1NGA)
 + [慢 SQL 打爆监控！亿级数据表的删除问题](https://mp.weixin.qq.com/s/IlFEasVJFJX4tI-N7-tBJg)
 + [MySQL+Redis，百万数据轻松优化](https://mp.weixin.qq.com/s/-gYAmpV9zVRiYSZbcSubag)
++ [字节2面：为了性能，你会违反数据库三范式吗？](https://mp.weixin.qq.com/s/9NGiiMJnJm0PYYwWEUiIeA)
 
 ### 读写分离&分库分表
 

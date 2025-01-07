@@ -195,6 +195,7 @@
 + [Java循环：for、foreach与stream性能对比](https://mp.weixin.qq.com/s/ltRk2TMLhCon9qJ-eMfgEQ)
 + [Java 灵魂拷问 13 个为什么，你都会哪些？](https://my.oschina.net/weige87/blog/16509860)
 + [改变习惯性 !=null 的判断，只需一秒！](https://mp.weixin.qq.com/s/adzlOXMg44Z1OBTx_0kFdg)
++ [java实用教程：Java高效代码50例精选](https://mp.weixin.qq.com/s/DlAvejj_UTpKXm0HMNtXcQ)
 
 # 底层
 
@@ -476,6 +477,7 @@
 + [EnumMap：让Java Map更高效的技巧](https://mp.weixin.qq.com/s/-STChMSoBo67956UNlnb4g)
 + [Map你只会用put，get？试试这些高级方法](https://mp.weixin.qq.com/s/OeMhbvyqsIwCFeXgTnGmfQ)
 + [HashMap中为什么引入红黑树，又为什么桶中超过8个才转为红黑树？](https://mp.weixin.qq.com/s/JwORsDxJfFxDM_XhRKzG1g)
++ [HashMap 一边循环一边删除，上线翻车了~~](https://mp.weixin.qq.com/s/s2GdEUmnCPCn15iDMb6IlA)
 
 ### Optional
 
@@ -887,6 +889,7 @@
 + [Spring事件（Application Event）](https://mp.weixin.qq.com/s/fCD-5-j1S3qTAE2XNwpgww)
 + [Spring Event 别瞎用！从我司的悲剧中，我总结了6 条最佳实践！](https://mp.weixin.qq.com/s/wzwjeX6Qevd1wOvymEiGaA)
 + [ApplicationEventPublisher简介](https://mp.weixin.qq.com/s/g9rIi6bkhQSsh02HqIZ1KA)
++ [Spring发布-订阅模式：解耦与异步通信的高效实现](https://mp.weixin.qq.com/s/f7X-marQbmxZZrlM1NRKMg)
 
 ### AOP
 
@@ -911,6 +914,10 @@
 ### 配置打包部署
 
 + [动态上传jar包热部署，看完还不会吗？](https://mp.weixin.qq.com/s/OQXgpgiFjKBJ1RiPje3Dig)
+
+### 集成
+
++ [Spring一个注解轻松搞定循环重试功能！](https://mp.weixin.qq.com/s/BrvbPyRv6B0xEqa7d7Cm9g)
 
 ### AI
 
@@ -978,6 +985,7 @@
 + [最佳实践！使用 Enum 实现 Spring Boot 3.3 高效配置管理](https://mp.weixin.qq.com/s/GY8L5boPVHiZkkW5pLTU8A)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
++ [Spring Boot 开发中有 7 件事你必须知道](https://mp.weixin.qq.com/s/ZWwTZ9LVMJ2bVxw9uY0Klg)
 + [踩了一堆坑，终于把微服务系统全面升级 JDK17 和 SpringBoot3 了](https://my.oschina.net/sticki/blog/15909409)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
@@ -1571,6 +1579,7 @@
 + [SpringBoot 实现动态插拔的 AOP，太实用了！](https://mp.weixin.qq.com/s/cuC0zY_sN9ySdSY2OKBj7g)
 + [这4个关于Spring AOP开发技巧你知道吗？](https://mp.weixin.qq.com/s/Jugx3KZH2Rxs6OmN1zKHmg)
 + [精通Spring AOP？除非做对这20道选择题](https://mp.weixin.qq.com/s/mosTlKl1F2PGdNzfYc02EA)
++ [关于Spring AOP的两个高级功能你用过吗？](https://mp.weixin.qq.com/s/l9SkTpOdK5EBsUeJT4aVdw)
 
 #### SPI
 
@@ -1634,6 +1643,7 @@
 + [优雅实现！Spring Boot 3.3 中策略设计模式在支付场景的最佳实践](https://mp.weixin.qq.com/s/2IeBACnbyWc9gal27drnsA)
 + [Spring Boot观察者模式实战](https://mp.weixin.qq.com/s/xvYwY1NkkWBdHPQwosSycg)
 + [动态切换策略模式在Spring Boot项目中的实践与应用](https://mp.weixin.qq.com/s/r_eTLTsZ77IsTZo6kf3EMw)
++ [优雅！Chain 结合 Spring Boot 轻松实现强大的责任链模式](https://mp.weixin.qq.com/s/S8acUL34CxgUdaNM8D8_Jg)
 
 #### message
 
@@ -1693,6 +1703,8 @@
 + [详细讲解 Spring Boot 项目中的 POM 配置](https://mp.weixin.qq.com/s/G8NsapQn1t_F1ubVm96Kcg)
 + [强大！Spring Boot全新模块化管理方式](https://mp.weixin.qq.com/s/PVAoXhCKqt7oh3JqKajH5w)
 + [SpringBoot配置文件还能这么玩，你知道吗？](https://mp.weixin.qq.com/s/F516tDoJ231iNhUDPt8pwg)
++ [SpringBoot 多种生产打包方式详解](https://mp.weixin.qq.com/s/uXvGcoCEv1kzaFYonsiwLA)
++ [玩转SpringBoot生产打包：你不知道的那些技巧！](https://mp.weixin.qq.com/s/nZbJvfL5dCpgGHb6PSqqPw)
 
 #### 集成三方
 
@@ -2034,6 +2046,7 @@
 + [Java 性能分析 5 大工具](https://mp.weixin.qq.com/s/nRPW2b3xAekp-RwPWXkhjw)
 + [深入了解 Apache Celix：专为 Java 动态模块设计的强大框架！](https://mp.weixin.qq.com/s/rqJjCrnPSu6F2eujwqmM5A)
 + [JGit，Java Git库的框架！](https://mp.weixin.qq.com/s/Db5_BuMpEDM6Ga2GZowEmA)
++ [如何在java程序中调用python脚本](https://mp.weixin.qq.com/s/SjoXNqzGCzdxfxjTUGrrwQ)
 
 # 其它环境
 

@@ -378,6 +378,7 @@
 + [把力扣算法题刷熟了就能稳进大厂吗？还得学会这一招才能高枕无忧](https://mp.weixin.qq.com/s/dixgMB7lYmEeHu9r5CG1xA)
 + [《软件开发中的决策》作者将在SECon上海站演讲](https://mp.weixin.qq.com/s/E9Kj8TNhxCXP8GtaCi51iQ)
 + [云原生浪潮下的Spring应用开发](https://mp.weixin.qq.com/s/C_ocbD1Ent3lqvOmygJbrw)
++ [适合终身学习者的 13 本经典数学书籍](https://mp.weixin.qq.com/s/dXi8WoYRWHakU8pp4lWY-w)
 
 ### 生活
 

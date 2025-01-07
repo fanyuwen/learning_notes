@@ -105,6 +105,7 @@
 
 + [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://mp.weixin.qq.com/s/tJJWgDVK8kbaRzP9NMQeVA)
 + [微软Visual C++编译器团队架构师力挺C++26，称其是C++11以来最具影响力的版本](https://mp.weixin.qq.com/s/qH0pDKhe6e5SuSAS_JaM9A)
++ [告别头文件，编译效率提升 42%！C++ Modules 实战解析 | 干货推荐](https://my.oschina.net/u/5265430/blog/16460343)
 
 ### 学习资源
 

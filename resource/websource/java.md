@@ -202,6 +202,8 @@
 ## 原理解析
 
 + [【java面试100问】07 为什么不能用浮点型表示金额？](https://mp.weixin.qq.com/s/hmm3ISAs5d9ZQLJ3-rZyTg)
++ [Java 中的这个绝对值有点不绝对啊！](https://my.oschina.net/u/4009705/blog/16874985)
++ [Java 程序中的潜在危机：深入探讨 NullPointerException｜得物技术](https://my.oschina.net/u/5783135/blog/16866949)
 + [Java排序原理](https://mp.weixin.qq.com/s/mzfsdeHvigKGXBlchR5NRg)
 + [秒懂双亲委派机制](https://mp.weixin.qq.com/s/QqAIsLN0X0fzH51XBgvvdA)
 + [Java是值传递还是引用传递](https://mp.weixin.qq.com/s/OhUzy4LFN-b1TFjSDqEEUw)
@@ -282,6 +284,7 @@
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
 + [Java学习笔记——多线程](https://mp.weixin.qq.com/s/WtidtBonwNrzEv2TSXhzxQ)
++ [线程池中线程异常后：销毁还是复用？](https://my.oschina.net/u/4090830/blog/16747320)
 + [多线程性能优化最大的坑，99%的人都不自知！](https://mp.weixin.qq.com/s/-c9aChd6gBpw9HbJmO5TxA)
 + [Java中有几种方法可以实现一个线程](https://mp.weixin.qq.com/s/EnjhtNAJBwx53zBPhr7iBQ)
 + [Java多线程 -- ForkJoin线程池](https://mp.weixin.qq.com/s/oL5O-3TkpxjFhuxCmAUK-w)

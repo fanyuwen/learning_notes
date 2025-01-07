@@ -214,6 +214,7 @@
 + [前端项目规范配置](https://mp.weixin.qq.com/s/LTDkjOna7nztRcrZzG-gig)
 + [如何将 CommonJS 转换为 ESM](https://mp.weixin.qq.com/s/V4lnf7bgbBeIKfHv-dSP0w)
 + [详解抽象语法树](https://mp.weixin.qq.com/s/NSKJukC4uL1YO5v9CK-KYQ)
++ [前端组件设计：从封装到复用的最佳实践](https://my.oschina.net/u/8534996/blog/16858012)
 
 # 杂谈
 

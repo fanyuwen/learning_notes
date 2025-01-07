@@ -121,6 +121,7 @@
 + [为什么阿里巴巴规定禁止超过三张表 join？](https://mp.weixin.qq.com/s/OvGQNeNIdQ1EcN-L39VQjQ)
 + [千万级数据的全表update的正确姿势！](https://mp.weixin.qq.com/s/sZIEc0IAQST6xd6p787qdA)
 + [腾讯二面：为什么数据库连接很消耗资源？我竟然答不上来。。一下懵了！](https://mp.weixin.qq.com/s/3wO9K7i74vd4CdfVtVjWFA)
++ [EXPLAIN TYPE 列的 JOIN 常见场景详解（上）](https://my.oschina.net/actiontechoss/blog/17090014)
 
 ## 关系型数据库
 

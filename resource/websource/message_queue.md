@@ -71,6 +71,7 @@
 + [线上环境-应当如何管控客户端对kafka数据的消费！！！](https://mp.weixin.qq.com/s/oy0DzgaOrSlKg499x7k9Tw)
 + [Kafka消息堆积问题排查](https://mp.weixin.qq.com/s/0opJnZMnd7MwIdX1J74HDA)
 + [Kafka性能卓越之谜：深度解析与优化策略](https://mp.weixin.qq.com/s/bXvfs4zU9MPFpzCeHJLRCw)
++ [Kafka Streams 在监控场景的应用与实践](https://my.oschina.net/vivotech/blog/16859766)
 
 # ROCKETMQ
 

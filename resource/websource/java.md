@@ -967,6 +967,7 @@
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [高速导出！Springboot3.4 + StreamingResponseBody 助你轻松应对大批量数据导出](https://mp.weixin.qq.com/s/Vymbk1YjaSfs88i8d7RZ8Q)
 + [SpringBoot 3.4 官方实时消息推送解决方案，简单又高效！](https://mp.weixin.qq.com/s/rbWX8l1ZEFcYKmGJ35DCQQ)
++ [Spring Boot 3.4 开发中的 7 个关键技巧，你都掌握了吗？](https://mp.weixin.qq.com/s/4ruR59FZuXLXaKDykCvQpA)
 + [王炸级更新！Spring Boot 3.4 正式发布，新特性真香！](https://mp.weixin.qq.com/s/PSWuglR3S0NoNd2EoXp3Tg)
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
@@ -1243,6 +1244,7 @@
 + [Spring Boot启动流程详解！](https://mp.weixin.qq.com/s/jVnd4urvJpyDWDJM7KAtyA)
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/nwdFRV4WJxvwD3ehVCs8tA)
 + [实体 到 DTO转换！这7种方式性能差距太大，最后一个才是王者](https://mp.weixin.qq.com/s/DoWntVEwWsPxI3rRDRIRLw)
++ [每个 Java 开发人员都应该掌握的 Spring Boot 高级概念](https://mp.weixin.qq.com/s/UTyu1lSg177fdi1yCLms3w)
 
 #### 分布式
 
@@ -1536,6 +1538,7 @@
 + [SpringBoot 7种定时任务解决方案](https://mp.weixin.qq.com/s/SL2rausqq07qOtFNKpC4gA)
 + [速看！Spring Boot任务调度你不知道的使用技巧](https://mp.weixin.qq.com/s/lr86H6r4PJ46CRJ7Vu0ruQ)
 + [控制Spring Boot定时任务只执行一次的方案](https://mp.weixin.qq.com/s/Ya-it5bLUjf7JBCMiF1zOg)
++ [Spring Boot 打造全能异步处理方案，简单高效！](https://mp.weixin.qq.com/s/sLM-cBWXCu-Rz0SqcRFfkg)
 
 ##### Disruptor
 

@@ -122,6 +122,7 @@
 + [千万级数据的全表update的正确姿势！](https://mp.weixin.qq.com/s/sZIEc0IAQST6xd6p787qdA)
 + [腾讯二面：为什么数据库连接很消耗资源？我竟然答不上来。。一下懵了！](https://mp.weixin.qq.com/s/3wO9K7i74vd4CdfVtVjWFA)
 + [EXPLAIN TYPE 列的 JOIN 常见场景详解（上）](https://my.oschina.net/actiontechoss/blog/17090014)
++ [OLAP数据库性能的三驾马车](https://mp.weixin.qq.com/s/OrrXF0zATxyzIPlGOCcp6g)
 
 ## 关系型数据库
 
@@ -559,6 +560,7 @@
 + [字节一面拷打：Redis 为什么用跳表实现有序集合？](https://mp.weixin.qq.com/s/Q2paB_XcMlmG8TSdSgql8w)
 + [Redis的ZSet为何使用跳表而非红黑树](https://mp.weixin.qq.com/s/F51bI45b_pJLKb5adNoIVw)
 + [万字长文带你深入Redis底层数据结构](https://mp.weixin.qq.com/s/gg6N6e90ZtbA0MH4KIEHlg)
++ [从一个事故中理解Redis（几乎）所有知识点](https://mp.weixin.qq.com/s/39Q5-vvIBmlmRVW8tzdjyA)
 
 #### 分布式锁
 
@@ -631,7 +633,9 @@
 + [分布式数据库技术的演进和发展方向](https://my.oschina.net/u/4526289/blog/11049010)
 + [为什么选择分布式数据库？有啥好处](https://mp.weixin.qq.com/s/x9wq9DuWyUvLXrfrFytr2Q)
 
-## 分布式对象存储
+## 分布式存储
+
++ [分布式存储的技术选型：HDFS、Ceph、MinIO对比](https://mp.weixin.qq.com/s/1K1VIZsWf33XN0F9IRXqAw)
 
 ### minio
 

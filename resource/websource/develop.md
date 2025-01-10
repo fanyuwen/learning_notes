@@ -49,6 +49,10 @@
 + [架构设计原则：选择 SPI 还是 API ？](https://mp.weixin.qq.com/s/PnnX6v9S7waCfwCczZ-3Qg)
 + [复用的双刃剑：软件工程里的悖论与挑战](https://my.oschina.net/u/4662964/blog/16269631)
 + [架构师必经之路：从设计模式到架构模式](https://mp.weixin.qq.com/s/NVhS8qr_vbbwzCs8zS_lLA)
++ [万字详解高可用架构设计](https://mp.weixin.qq.com/s/kRfZQMaUjAyO46sL8_L1Dg)
++ [技术架构设计原则](https://mp.weixin.qq.com/s/wnxiCLRSc9M-22bMOdR0iw)
++ [架构实操：画好一张业务模型图](https://mp.weixin.qq.com/s/46eX_kLhNfNcPZxYG_LQmA)
++ [一文搞懂架构设计的衡量标准：功能性、可用性、性能、可扩展性、安全性、协作效率、复杂度、成本效益](https://mp.weixin.qq.com/s/4tGWFvuGhldRWOhvGKDm8w)
 
 ### DDD
 
@@ -436,6 +440,7 @@
 + [探秘 RPC：揭开远程过程调用的实现原理](https://mp.weixin.qq.com/s/JoS_P8QEWumT5oNCJVq4gA)
 + [如何更有效地编写复杂业务的代码](https://mp.weixin.qq.com/s/k6it69PuG9dCie62E8WLFw)
 + [如何设计一个高并发系统？](https://mp.weixin.qq.com/s/WD618MbXUd_CehTAZkBWkA)
++ [如何快速同步第三方平台数据？](https://mp.weixin.qq.com/s/v9WKa-9C2w0UhmDQcVXmTw)
 
 # 测试相关
 
@@ -474,6 +479,7 @@
 + [顶级的 权限系统，改如何设计？ Sa-Token学习圣经：史上最全的权限设计方案，一文帮你成专家](https://mp.weixin.qq.com/s/l_k-tX-3JEQfvsy0xMukUw)
 + [浅谈高并发评论系统设计-应付下面试](https://mp.weixin.qq.com/s/2ZxgdLs2C0E-duyYXnl0Lw)
 + [图解支付系统订单号设计与最佳实践](https://mp.weixin.qq.com/s/JHEcc9javbzvCaAUsme9Zw)
++ [图解支付收单平台设计：高效为商户收款](https://mp.weixin.qq.com/s/5OmOfuVuDJHJWK8VP1ndPA)
 
 ## 代码相关
 

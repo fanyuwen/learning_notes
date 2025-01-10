@@ -377,6 +377,7 @@
 + [Python 在自然语言处理中的 15 个实用算法](https://mp.weixin.qq.com/s/DCs1sP_2XlVbhQR0UVxeVg)
 + [Python移动应用开发的8个入门指南](https://mp.weixin.qq.com/s/FECeStmozdacwJAfXFgEMQ)
 + [Fabric：Python自动化部署的秘密武器](https://mp.weixin.qq.com/s/nd7QSsqg2dr_bQ5FHVLWTw)
++ [Python定时任务：让你的代码自己跑，躺着也能完成工作！](https://mp.weixin.qq.com/s/0BG0RBZ4ctrQ5-mQMfWq4A)
 
 ## 新特性
 
@@ -623,6 +624,7 @@
 
 + [297K Star超强!!!3万多个公开可用API接口](https://mp.weixin.qq.com/s/IpmxAsq6ODZGTZn67xSy6g)
 + [7 个让人惊艳不已的 Python 开源项目](https://mp.weixin.qq.com/s/xcg2DPhIw9cZ25NyJEDpgQ)
++ [AsyncTools：异步工具库，让异步编程既方便又可靠！](https://mp.weixin.qq.com/s/I7oIYwQJwCM8MvB5lzUkeA)
 + [Nuitka：一个将Python代码编译为原生可执行文件的利器](https://mp.weixin.qq.com/s/MdktrxymOQdk7Y6U0Pbmnw)
 + [Python 科学计算神器：SciPy的五大核心功能揭秘](https://mp.weixin.qq.com/s/mcRh7zirBkFMt99tfm1RJg)
 + [Python 代码执行一目了然：探索Python Tutor工具的强大功能](https://mp.weixin.qq.com/s/su3QtYQbmK8JLQHI53IPLw)
@@ -713,6 +715,7 @@
 + [Python网络爬虫：15个高效爬虫开发技巧](https://mp.weixin.qq.com/s/U1X4Hx-rWBK6Prl98L3NNw)
 + [Python爬虫有哪些常见的反爬手段？](https://mp.weixin.qq.com/s/YWAEcihbrfPQ2JKn5AZb7g)
 + [BeautifulSoup：一个优雅的Python爬虫神器！](https://mp.weixin.qq.com/s/Txyd6Z883Jua2qN1Q17fXQ)
++ [Python爬虫实战：抓取你想要的数据](https://mp.weixin.qq.com/s/2_9-b7KevPZPczbVlYiVpQ)
 
 ## 数据分析
 

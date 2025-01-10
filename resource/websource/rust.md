@@ -53,6 +53,7 @@
 + [Rust中的动态规划：背包问题和斐波那契数列](https://mp.weixin.qq.com/s/PazzZGFPlnBkPDukYwG-6Q)
 + [30天拿下Rust之深入Cargo](https://mp.weixin.qq.com/s/lEsOTp5y_fzUukB2U5vlHg)
 + [震撼！万万没想到Rust原子操作这么强，性能提升300%的秘密都在这！](https://mp.weixin.qq.com/s/3USs2eo-QLj4ACD2uUNtGg)
++ [从零开始，用 Rust 手把手教你打造专属 GitOps 控制器！](https://mp.weixin.qq.com/s/Mxyj8id1liZwLfEPdFzyzQ)
 
 # 框架
 

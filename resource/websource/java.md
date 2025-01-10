@@ -203,6 +203,8 @@
 
 + [【java面试100问】07 为什么不能用浮点型表示金额？](https://mp.weixin.qq.com/s/hmm3ISAs5d9ZQLJ3-rZyTg)
 + [Java 中的这个绝对值有点不绝对啊！](https://my.oschina.net/u/4009705/blog/16874985)
++ [深入解析 Java 包装类：为什么它们如此重要，以及它们如何工作？](https://mp.weixin.qq.com/s/WF0LpxjfAx6eLx9GFHxIeg)
++ [Java中8种字符串拼接方式，性能很意外](https://mp.weixin.qq.com/s/3gvNNKcYHehzfG3sqxM5gw)
 + [Java 程序中的潜在危机：深入探讨 NullPointerException｜得物技术](https://my.oschina.net/u/5783135/blog/16866949)
 + [Java排序原理](https://mp.weixin.qq.com/s/mzfsdeHvigKGXBlchR5NRg)
 + [秒懂双亲委派机制](https://mp.weixin.qq.com/s/QqAIsLN0X0fzH51XBgvvdA)
@@ -337,6 +339,7 @@
 
 ## jvm
 
++ [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
@@ -402,6 +405,8 @@
 + [面试官：每天100w次登陆请求, 8G 内存该如何设置JVM参数？](https://mp.weixin.qq.com/s/YRmWwGBYtAphPqFXQN-fTw)
 + [Java 面试题 --JVM 大厂篇之 Java 工程师必备：顶尖工具助你全面监控和分析 CMS GC 性能（1）](https://mp.weixin.qq.com/s/jnbL0NGdvNrKOR3Dgd5Qlg)
 + [Java开发者必读：理解JVM中的两种引用方式](https://mp.weixin.qq.com/s/3IxYv3avXJ7PFVbs6kKdyQ)
++ [Java GC：垃圾回收的自动化艺术](https://mp.weixin.qq.com/s/fCYXCjHsMkfSbG33P0fuQg)
++ [如何处理CPU被打满/CPU100%的问题](https://mp.weixin.qq.com/s/Ti18dV7iVT4RzctCe6kzuw)
 
 # 核心库
 
@@ -460,19 +465,25 @@
 
 ### Collection/Map
 
+#### collection
+
 + [004架构师必修之java基础篇：全面理解集合](https://mp.weixin.qq.com/s/26Bw_Jxd8Sb_MsHkf0Ih1g)
 + [Java学习笔记——集合框架](https://mp.weixin.qq.com/s/EQwBpbQ6flWbUg6CYjxo6Q)
 + [java.util.Collections有哪些精妙的方法？](https://mp.weixin.qq.com/s/_K-Vwbb7OKZ4WUAFNWOThg)
 + [深入了解Java中的Map.merge()方法](https://mp.weixin.qq.com/s/Mo35h6Q1cGVHKvxXX7FMvQ)
 + [全是坑！慎用 Arrays.asList...](https://mp.weixin.qq.com/s/vSD_8kjp9xhDhSy4Tqp5AQ)
-+ [HashMap数据结构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/hmcm7nYCIwv-iFiePAamDg)
-+ [面试官：HashMap循环中能否添加新key或修改旧key的值？](https://mp.weixin.qq.com/s/SzfZsk8lAREeW1M8dJZbQQ)
-+ [HashMap实现原理、 扩容机制，常见的面试题总结](https://mp.weixin.qq.com/s/EjqpKED9xHrbyyIkFjP_bw)
-+ [高德面试：为什么Map不能插入null？](https://mp.weixin.qq.com/s/amScvc8gLYV2nhuZ_XyVfQ)
-+ [Java 中 HashMap 为什么用红黑树而不用平衡二叉树？](https://mp.weixin.qq.com/s/RFj3cVgtmrrj6dUxNl7NFg)
-+ [EnumMap：让Java Map更高效的技巧](https://mp.weixin.qq.com/s/yxDVX_IWqDxcqAaxoLtjzw)
 + [Java集合工具天天用，但有些原理还是懵逼的](https://mp.weixin.qq.com/s/vwSxHNUUJpUBsLlUU6EkGg)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
++ [Java大厂面试高频：Collection 和 Collections 到底咋回答？](https://mp.weixin.qq.com/s/Ee_XjCLfj1DlQ5Hx-_7guw)
+
+#### map
+
++ [面试官：HashMap循环中能否添加新key或修改旧key的值？](https://mp.weixin.qq.com/s/SzfZsk8lAREeW1M8dJZbQQ)
++ [HashMap数据结构最全详解(图文全面总结)](https://mp.weixin.qq.com/s/hmcm7nYCIwv-iFiePAamDg)
++ [高德面试：为什么Map不能插入null？](https://mp.weixin.qq.com/s/amScvc8gLYV2nhuZ_XyVfQ)
++ [HashMap实现原理、 扩容机制，常见的面试题总结](https://mp.weixin.qq.com/s/EjqpKED9xHrbyyIkFjP_bw)
++ [EnumMap：让Java Map更高效的技巧](https://mp.weixin.qq.com/s/yxDVX_IWqDxcqAaxoLtjzw)
++ [Java 中 HashMap 为什么用红黑树而不用平衡二叉树？](https://mp.weixin.qq.com/s/RFj3cVgtmrrj6dUxNl7NFg)
 + [Java8 HashMap 的那些高级操作](https://mp.weixin.qq.com/s/-vrRVec1msPrF9QSiDGJrA)
 + [面试真题(13) ：为什么推荐使用entrySet 而不是keySet()进行遍历HashMap ？](https://mp.weixin.qq.com/s/h46rRPLAr5PW18rOxnCbzA)
 + [递归查询文件树不要怕，看我用HashMap怎么玩！](https://mp.weixin.qq.com/s/rLI58P0gfq80aad4IYJm5g)
@@ -921,6 +932,10 @@
 ### 集成
 
 + [Spring一个注解轻松搞定循环重试功能！](https://mp.weixin.qq.com/s/BrvbPyRv6B0xEqa7d7Cm9g)
+
+### tool
+
++ [StreamUtils：Java流式处理的瑞士军刀](https://mp.weixin.qq.com/s/8P7BfCal_Qjl4sjJjjM-fQ)
 
 ### AI
 
@@ -1480,6 +1495,7 @@
 + [11条提高Redis性能的技巧](https://mp.weixin.qq.com/s/Njg2JXcg_FzyYKJ0NjrYMg)
 + [RedisTemplate 的序列化策略和配置处理](https://mp.weixin.qq.com/s/-EH9S2oV_FJGcNUzmA5q_g)
 + [一文吃透Redis 4 种模式在 Spring Boot 下的配置](https://mp.weixin.qq.com/s/wj1FKwl8H7Wc-B49-fbd9A)
++ [Spring Boot 3.3 实时数据同步方案：确保多端数据一致性](https://mp.weixin.qq.com/s/DrlHta9deWFEAqPsr4aVJA)
 
 ##### TRANSACTION
 
@@ -1724,6 +1740,7 @@
 + [提升数据导出效率：Spring Boot整合EasyExcel并行导出及Zip压缩下载](https://mp.weixin.qq.com/s/-MZ4XEK0cviGxmoCACBixg)
 + [新选择！基于Spring Boot监听MySQL日志Binlog实现数据实时同步](https://mp.weixin.qq.com/s/3rMWPmLHnoY4IDl-owuLIw)
 + [SpringBoot集成shardingsphere：执行存储过程](https://mp.weixin.qq.com/s/2FJDu2TWfAPjrTz-LT7wcw)
++ [springboot第84集：Java进阶之路, Netty](https://mp.weixin.qq.com/s/aIYPk52adcrFH7h0UsyWkA)
 
 #### 自定义实现
 
@@ -2053,6 +2070,7 @@
 + [深入了解 Apache Celix：专为 Java 动态模块设计的强大框架！](https://mp.weixin.qq.com/s/rqJjCrnPSu6F2eujwqmM5A)
 + [JGit，Java Git库的框架！](https://mp.weixin.qq.com/s/Db5_BuMpEDM6Ga2GZowEmA)
 + [如何在java程序中调用python脚本](https://mp.weixin.qq.com/s/SjoXNqzGCzdxfxjTUGrrwQ)
++ [SMS4J-让短信发送变得更简单](https://mp.weixin.qq.com/s/b6uQ3vgRk3yRjK6wfxxmGQ)
 
 # 其它环境
 

@@ -47,6 +47,7 @@
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
++ [12 个高级 JavaScript 技巧，优化你的代码](https://mp.weixin.qq.com/s/FDYCQTpn2UC4bPQcwvGSqA)
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [代码片段分享：我在JavaScript项目中这样用Object.assign](https://mp.weixin.qq.com/s/Zg-yh7qbDbC-9m08nytuBw)
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)

@@ -85,6 +85,7 @@
 + [Linux之性能分析工具（磁盘I/O）](https://mp.weixin.qq.com/s/n5gFX3cMPwX00Uu2R2RoUw)
 + [Linux 内存泄露案例分析和内存管理分享](https://my.oschina.net/u/4090830/blog/16491193)
 + [细谈 Linux 中的多路复用 epoll](https://my.oschina.net/weige87/blog/16494349)
++ [全面解析linux中mmap的底层原理及其应用](https://mp.weixin.qq.com/s/srN3JuwrJ6GzEGQ11vkI0g)
 
 ### 网络
 
@@ -331,6 +332,7 @@
 + [使用 Rust（替代 C 语言）扩展 NGINX](https://my.oschina.net/u/5246775/blog/16342753)
 + [面试官：说说看Nginx是如何处理请求的？为什么Nginx不采用多线程模型？Nginx负载均衡的算法有哪些？什么是正向和反向代理](https://mp.weixin.qq.com/s/d0zKf6ml7rkBtdcPOWTodA)
 + [面试官：Nginx和Apache的区别是什么？如何解决前端跨域问题？Nginx如何限流？Nginx如何应对惊群效应？](https://mp.weixin.qq.com/s/UxccI4FEJpF_-zM-UXteQQ)
++ [Nginx如何实现高并发？原理深度解析!](https://mp.weixin.qq.com/s/S1-C3-__q9_OWlxeZOQQew)
 
 ### wireshark
 

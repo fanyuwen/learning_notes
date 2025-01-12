@@ -75,6 +75,7 @@
 + [Lambda表达式：会这10招就够了，开发效率狂飙！](https://mp.weixin.qq.com/s/6pfxLJAr8C3JAixObwqrzA)
 + [JDK1.8中的双冒号 :: 这是个啥？](https://mp.weixin.qq.com/s/l_3vzYrZgVVUyydxkX6j7w)
 + [聊聊java的switch和scala的模式匹配有哪些区别以及在RocketMQ和kafka中的应用](https://mp.weixin.qq.com/s/sAN0vTU0gr40WwnzBJi3Vw)
++ [java8 lambda 表达式详解](https://www.jianshu.com/p/613a6118e2e0)
 
 ## 高级用法
 

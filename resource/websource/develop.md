@@ -73,6 +73,7 @@
 + [一种很变态但有效的DDD建模沟通方式](https://mp.weixin.qq.com/s/1aDQvA0myyZdLjICZw1USA)
 + [领导：将公司项目重构成 DDD 架构！](https://mp.weixin.qq.com/s/QXSnJnCSH6EKpNWMF6zptQ)
 + [DDD 学习与感悟 —— 向屎山冲锋](https://my.oschina.net/u/4090830/blog/16528661)
++ [限界上下文：定义领域边界的利器](https://mp.weixin.qq.com/s/AO45OgKM_CdUHjSrXVThsA)
 
 ## 微服务
 
@@ -276,6 +277,7 @@
 + [聊聊大厂都怎么防止重复下单？](https://mp.weixin.qq.com/s/z1ASRafNcgwYaTUu_O2gTQ)
 + [简单聊聊怎么防止重复下单](https://mp.weixin.qq.com/s/pC8SM6J3YgniLuvAB32HmQ)
 + [一个注解，优雅的实现接口幂等性！](https://mp.weixin.qq.com/s/kqfeIU8BledDVQHmVhFD6Q)
++ [高并发下如何防重？](https://mp.weixin.qq.com/s/b3MLjMTobJFcSshL7BnK4g)
 
 ### 负载&限流
 
@@ -341,6 +343,7 @@
 + [九大服务架构性能优化方式](https://mp.weixin.qq.com/s/38rsvewtkkqxRLPad-P3_Q)
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
 + [我把接口从3s优化到了0.3s!](https://mp.weixin.qq.com/s/oeOpJLw9E8QRURbSOEV4Rg)
++ [从3s到25ms！看看人家的接口优化技巧，确实很优雅！！](https://mp.weixin.qq.com/s/rrExXEN1oa7J94287wuZ0w)
 + [提高系统的并发能力方案](https://mp.weixin.qq.com/s/6F_OGrX-4qThxtZ3rcORkw)
 + [性能优化：揭秘神秘面纱！](https://mp.weixin.qq.com/s/7vB6PQbIJNVWVVVBWVC7-Q)
 + [一套万能的异步处理方案！（珍藏版）](https://mp.weixin.qq.com/s/yvJXjU0LLdx03r6Tw7T7CA)
@@ -382,6 +385,7 @@
 + [AES加解密算法的原理和应用与安全性解析](https://mp.weixin.qq.com/s/B3Up_ZzXmzGcJe5wVdbWvQ)
 + [密码学承诺原理与应用 - 概览](https://mp.weixin.qq.com/s/_JArh9nTuBl8-9sT981VzA)
 + [您的 API 网关足够安全吗？](https://my.oschina.net/u/5246775/blog/16672740)
++ [2025开篇|揭密支付安全：为什么你的交易无法被篡改](https://mp.weixin.qq.com/s/xrblXEZcBX3q5PBE8ChV0g)
 
 ### 鉴权
 
@@ -441,6 +445,7 @@
 + [如何更有效地编写复杂业务的代码](https://mp.weixin.qq.com/s/k6it69PuG9dCie62E8WLFw)
 + [如何设计一个高并发系统？](https://mp.weixin.qq.com/s/WD618MbXUd_CehTAZkBWkA)
 + [如何快速同步第三方平台数据？](https://mp.weixin.qq.com/s/v9WKa-9C2w0UhmDQcVXmTw)
++ [延迟双删如此好用，为何大厂从来不用](https://mp.weixin.qq.com/s/CR7e6pjKd5cPdVnkq5mqbw)
 
 # 测试相关
 
@@ -480,6 +485,7 @@
 + [浅谈高并发评论系统设计-应付下面试](https://mp.weixin.qq.com/s/2ZxgdLs2C0E-duyYXnl0Lw)
 + [图解支付系统订单号设计与最佳实践](https://mp.weixin.qq.com/s/JHEcc9javbzvCaAUsme9Zw)
 + [图解支付收单平台设计：高效为商户收款](https://mp.weixin.qq.com/s/5OmOfuVuDJHJWK8VP1ndPA)
++ [支付交易系统日志设计最佳实践](https://mp.weixin.qq.com/s/bRYahp0wgtpsrD1Y4IlvRw)
 
 ## 代码相关
 
@@ -536,6 +542,7 @@
 + [JsonPath 练习](https://mp.weixin.qq.com/s/2oM2kUN7PETdIT3QhzT_Og)
 + [用了json这么久我猜你一定不知道json schema是啥](https://mp.weixin.qq.com/s/e2x0gamsj93Rnax5XdctxA)
 + [原来解析 JSON 数据有这么简单的方法](https://mp.weixin.qq.com/s/tNjvJXzwGEBScSg6HKJ4pg)
++ [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/EFU1lvsjKmfW37Ds7_UV8w)
 
 ### 正则表达式
 
@@ -598,6 +605,7 @@
 + [Git冲突解决技巧](https://mp.weixin.qq.com/s/KO41H2wNDGZ-OcgT04KZmQ)
 + [Git多人协作简明教程](https://mp.weixin.qq.com/s/HiMk9rSntZzZRtcpj2Hqsw)
 + [Git 安装，配置与基本命令](https://mp.weixin.qq.com/s/j3p7I4Yh7MwZNt5CY0DDrA)
++ [Git是什么？其常用实战命令有哪些？已整理](https://mp.weixin.qq.com/s/PPEwpPa6FIKTEFj1f7RIzg)
 
 ### 编程范式
 

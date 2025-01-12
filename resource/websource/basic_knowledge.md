@@ -93,6 +93,7 @@
 + [Linux内核常见的网络丢包场景分析](https://mp.weixin.qq.com/s/vdW0L7nEdfrxSJ_9VGviaA)
 + [Linux 网络故障排查笔记](https://mp.weixin.qq.com/s/qUrmeqXvhZpw9nP2ATo3jQ)
 + [Linux网络编程(HTTP协议)](https://mp.weixin.qq.com/s/8qfmElaWYusBv0Xwti92jQ)
++ [Linux 网络数据包的接收和发送流程](https://mp.weixin.qq.com/s/yhcJ9KiYwRSDRNfVyjMVVA)
 
 ### 命令
 
@@ -125,6 +126,7 @@
 + [Linux（三）：文件比较利器——vimdiff与vim -d](https://mp.weixin.qq.com/s/veF_HhyHYDHQRYN8e5Uzbw)
 + [只需20个Linux命令，让你的工作效率翻倍！](https://mp.weixin.qq.com/s/cohlcdhko5W94FzW4cmX8Q)
 + [能用到 “退休” 的 600条 Linux 命令，直接起飞！](https://mp.weixin.qq.com/s/XCQ2DJJ6x75UQn6XCl8SuQ)
++ [Linux Shell：从入门到退休](https://mp.weixin.qq.com/s/pquJ2WUwwsHRWzL928prLg)
 
 ### 发行版信息
 
@@ -165,6 +167,7 @@
 + [高性能存储的基础，了解一下内存的方方面面](https://mp.weixin.qq.com/s/LAZrTwLiVHr4AtWmQqJJYw)
 + [探索x86-64架构：内存分页机制的奥秘](https://mp.weixin.qq.com/s/D7DjObzAZjLJLd9GSvrmEg)
 + [四大内存区域揭秘：你真的了解你的程序吗？](https://mp.weixin.qq.com/s/hJ-EbMmSx0RS-L9PNkNAjw)
++ [面试题：什么是虚拟内存，它如何与物理内存映射？页面置换算法有哪些，优缺点如何？内存碎片是如何产生的，有哪些解决方法？](https://mp.weixin.qq.com/s/zPjiEof75aUwr7-0KunxqQ)
 
 ## GPU
 

@@ -425,6 +425,7 @@
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
 + [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)
++ [京东内部Redis性能优化最佳实践](https://mp.weixin.qq.com/s/7YTucEFx-5ieCZcy0CJa3g)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
 + [如何解决Redis热点Key问题](https://mp.weixin.qq.com/s/WFqcvnq4OdLO7L0SpNbwrg)
 + [RESP 3协议](https://mp.weixin.qq.com/s/dfLp6m9wWxSX5dN2yHZPOA)
@@ -534,6 +535,7 @@
 + [阿里面试：亿级 redis 排行榜，如何设计？](https://mp.weixin.qq.com/s/W7fe9lwuhp5ueN0xyVDE2g)
 + [面试回答 Redis 是单线程的所以很快，让我回去等通知....](https://mp.weixin.qq.com/s/kn7ZGKW4uwqxO-22t0tCDg)
 + [Redis Cluster和Sentinel模式，如何选择？](https://mp.weixin.qq.com/s/BFUvPdFwInn3LEVVGg-uxA)
++ [Redis 为什么要引入 Pipeline机制？十分钟带你掌握！](https://mp.weixin.qq.com/s/CXjlugb87s8PoTKC5ir1Vw)
 
 #### 原理
 
@@ -635,6 +637,7 @@
 
 ## 分布式存储
 
++ [企业级的OSS对象存储服务，这样封装万能好用！](https://mp.weixin.qq.com/s/RmummczxPooz2Na5qhM8rw)
 + [分布式存储的技术选型：HDFS、Ceph、MinIO对比](https://mp.weixin.qq.com/s/1K1VIZsWf33XN0F9IRXqAw)
 
 ### minio

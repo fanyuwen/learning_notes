@@ -100,6 +100,7 @@
 + [Wham，一个自由飞翔的c++库](https://mp.weixin.qq.com/s/L1Ndjk3OPxoaIAB7f8CIwg)
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 + [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
++ [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
 
 ### 资讯
 

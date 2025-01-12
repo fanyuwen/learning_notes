@@ -296,6 +296,7 @@
 + [6 种服务限流方案技术选型，哪个最香？](https://mp.weixin.qq.com/s/tnVGZpz-mrT248RpWpfOfQ)
 + [限流算法比较](https://mp.weixin.qq.com/s/gFJ1yAhp8YqJOIV84KmgNQ)
 + [面试官：说说看你知道的常见限流算法有哪些？它们的优缺点分别是什么？如何基于用户身份限流？](https://mp.weixin.qq.com/s/9l-hawV7Os4n1eppBqQ1uQ)
++ [分布式系统限流介绍](https://mp.weixin.qq.com/s/8JMVg6RKoY2zK9LdQ8po_w)
 
 ### 大文件IO
 
@@ -486,6 +487,7 @@
 + [图解支付系统订单号设计与最佳实践](https://mp.weixin.qq.com/s/JHEcc9javbzvCaAUsme9Zw)
 + [图解支付收单平台设计：高效为商户收款](https://mp.weixin.qq.com/s/5OmOfuVuDJHJWK8VP1ndPA)
 + [支付交易系统日志设计最佳实践](https://mp.weixin.qq.com/s/bRYahp0wgtpsrD1Y4IlvRw)
++ [支付流程设计常见问题及最佳实践](https://mp.weixin.qq.com/s/7CwuuN7Yvbiz81K8YXe41A)
 
 ## 代码相关
 
@@ -525,6 +527,7 @@
 + [3分钟理清QPS、TPS、RT、吞吐量以及它们直接的关系](https://mp.weixin.qq.com/s/t3v4HfL26Hvh-fnYI83b_w)
 + [QPS多少才算高并发(看这篇就够了)](https://mp.weixin.qq.com/s/2L1L_XobHz-z6TRuPtQirw)
 + [TPS多少才算高并发(看这篇就够了)](https://mp.weixin.qq.com/s/eGyYiZRRr3lKYhSIIYEnQQ)
++ [面试官之问：知道你的接口“QPS”是多少吗？](https://mp.weixin.qq.com/s/a2--oI2OaUVTHt_pB7wYBQ)
 
 ## 领域知识
 
@@ -574,6 +577,7 @@
 + [Git 命令小抄](https://mp.weixin.qq.com/s/Pzs1X0bpXUE1AzeMxyGl3g)
 + [Git常用命令行整理](https://mp.weixin.qq.com/s/kim-amBbJ5Wf_LOEovnJhQ)
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
++ [掌握这 20 个 Git 命令，成为团队协作高手！](https://mp.weixin.qq.com/s/Qq8hKjuelBd8t0byUhIP6g)
 + [Git 分支操作全解析：创建、切换、合并、删除及冲突解决](https://mp.weixin.qq.com/s/uIA_APfF8oBjAOPM1lgeLQ)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)
 + [Git版本管理工具，每个工程师都应该知道的基础操作!](https://mp.weixin.qq.com/s/KwzDJF1Gz5NgB8_QoDEa6g)
@@ -632,6 +636,7 @@
 
 + [规模 300+ 的研发团队，怎样保持工程高质高效？](https://my.oschina.net/u/1038592/blog/1808686)
 + [随笔｜闲扯前端工程化⑦---团队是否要用云开发？](https://mp.weixin.qq.com/s/oZF_JCfkTup1fyX6b2xO_g)
++ [细说敏捷：敏捷四会之standup meeting](https://mp.weixin.qq.com/s/U_RcrXInk0Ee5sqUKTMufg)
 
 ## 数据治理
 

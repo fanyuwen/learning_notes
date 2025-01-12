@@ -286,6 +286,7 @@
 + [【java面试100问】50 为什么SQL语句不要过多的 join？](https://mp.weixin.qq.com/s/bTtUZqL31Vc57qIjVE_alg)
 + [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/5PtEfYFiNaKw1_ZSkPJtTw)
 + [如果 MySQL 的自增 ID 用完了，怎么解决？](https://mp.weixin.qq.com/s/5V9IhphM-_2k8QjMm68Zpg)
++ [别提桶跑路，MySQL 误删数据救命指南来了！](https://mp.weixin.qq.com/s/r4C8RzNzW7TK4ehUL0ON4Q)
 
 #### 存储引擎
 
@@ -536,6 +537,7 @@
 + [面试回答 Redis 是单线程的所以很快，让我回去等通知....](https://mp.weixin.qq.com/s/kn7ZGKW4uwqxO-22t0tCDg)
 + [Redis Cluster和Sentinel模式，如何选择？](https://mp.weixin.qq.com/s/BFUvPdFwInn3LEVVGg-uxA)
 + [Redis 为什么要引入 Pipeline机制？十分钟带你掌握！](https://mp.weixin.qq.com/s/CXjlugb87s8PoTKC5ir1Vw)
++ [Redis持久化锦囊在手，再也不会担心数据丢失了](https://mp.weixin.qq.com/s/VgKa1qgQarShT2VGSb1wng)
 
 #### 原理
 

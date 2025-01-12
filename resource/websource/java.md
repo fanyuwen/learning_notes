@@ -199,6 +199,7 @@
 + [改变习惯性 !=null 的判断，只需一秒！](https://mp.weixin.qq.com/s/adzlOXMg44Z1OBTx_0kFdg)
 + [java实用教程：Java高效代码50例精选](https://mp.weixin.qq.com/s/DlAvejj_UTpKXm0HMNtXcQ)
 + [七大陷阱！99%的Java开发者都会遇到](https://mp.weixin.qq.com/s/4XS2To0ntF5pZoc3GLmphg)
++ [Java 中如何优雅地处理 null 值](https://mp.weixin.qq.com/s/IhXXBAH2KMSjo4iOqcYoQA)
 
 # 底层
 
@@ -318,6 +319,7 @@
 + [CAS和AQS实现原理详解(图文全面总结)](https://mp.weixin.qq.com/s/mHePKzmZRlmFbffgOR6B7A)
 + [面试官：synchronized的优化过程知道吗？我：阿巴阿巴](https://mp.weixin.qq.com/s/5HOHoD2LTcrvIFM2JvfRuA)
 + [面试官：为什么 wait, notify和 notifyAll是 Object 类的一部分，而不是 Thread 类的？](https://mp.weixin.qq.com/s/F8r32oB8j2qrd_QX0_EjeA)
++ [Java并发编程：使用Wait和Notify方法的注意事项](https://mp.weixin.qq.com/s/ENshChqFuiibMht6QNG7ZA)
 + [面试官：volatile数组是否有效？数组元素的更新是否能够被立即看到](https://mp.weixin.qq.com/s/2FWJuprPReJdpPobrPp1vg)
 + [面试官：简要说一下线程和协程的区别？](https://mp.weixin.qq.com/s/6xtqKn5Sma3kQO8GXRlHqA)
 + [腾讯一面：为什么volatile不能保证复合操作（如自增操作 i++）的线程安全？](https://mp.weixin.qq.com/s/FvkgoP_1TxP0Tyj1RJVevQ)
@@ -735,6 +737,7 @@
 + [Spring EL 表达式的简单介绍和使用](https://mp.weixin.qq.com/s/tlIilEXRwlVwbQHu9b4LJQ)
 + [Spring 中获取 Bean 的八种方式](https://mp.weixin.qq.com/s/lveufyY2W2nS6YMxo_LjFg)
 + [这6个Spring高级开发技巧掌握了吗？](https://mp.weixin.qq.com/s/0fwbtiUrG2n03pmc3aHwTg)
++ [使用 Spring Expression 搞一套出题系统](https://mp.weixin.qq.com/s/Ug0KZf_7lVt5z13hCjZndg)
 
 #### 配置
 
@@ -920,7 +923,6 @@
 + [Spring Event 别瞎用！从我司的悲剧中，我总结了6 条最佳实践！](https://mp.weixin.qq.com/s/wzwjeX6Qevd1wOvymEiGaA)
 + [ApplicationEventPublisher简介](https://mp.weixin.qq.com/s/g9rIi6bkhQSsh02HqIZ1KA)
 + [Spring发布-订阅模式：解耦与异步通信的高效实现](https://mp.weixin.qq.com/s/f7X-marQbmxZZrlM1NRKMg)
-+ [Spring Event 别瞎用！从我司的悲剧中，我总结了6条最佳实践](https://mp.weixin.qq.com/s/jni1wgE2ljuM5LsKWU-s9w)
 
 ### AOP
 
@@ -941,6 +943,7 @@
 + [如何实现AOP，项目哪些地方用到了AOP?](https://mp.weixin.qq.com/s/JzcRJS6bosanvjzvV_i5Cw)
 + [如何获取Spring代理对象？](https://mp.weixin.qq.com/s/VhzAxZEhu2wlHyUdMx6Ugg)
 + [Spring Boot 3.x AOP使用详解](https://mp.weixin.qq.com/s/4DdhhZYmhrBvlFlkR1hw5g)
++ [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/MHdHu-59jbWoYQ-1lbuJwg)
 
 ### 配置打包部署
 
@@ -1449,6 +1452,7 @@
 + [SpringBoot接口参数如何使用多个@RequestBody？](https://mp.weixin.qq.com/s/3E830Goq9VSJGnJQXahjAQ)
 + [SpringBoot 实现 License 认证：快速校验有效期的简洁方案](https://mp.weixin.qq.com/s/0Kceh_VhVOIwexvKYa0V1A)
 + [Spring Boot 中如何实现 HTTP 请求的线程隔离](https://mp.weixin.qq.com/s/_LXRfr07WKWhtuhsk5M0cg)
++ [Spring Boot Rest API十大常见错误及避免方法](https://mp.weixin.qq.com/s/bfsuz8sZUNygtz8eRG0kag)
 
 ##### VUE
 
@@ -1647,6 +1651,7 @@
 + [高级开发！Spring Boot 自定义SQL日志记录(包括, 参数，耗时)，支持MyBatis，JPA等](https://mp.weixin.qq.com/s/mFXJ8IE6KCGyKgdfIprfEg)
 + [优雅！Spring Boot 这样记录操作日志非常灵活强大](https://mp.weixin.qq.com/s/Vt0b9wDdwL3DjeqU7slZ8g)
 + [Spring Boot 3 Logback配置文件及其加载原理（含源码分析）](https://mp.weixin.qq.com/s/B8seukRoROylF_dG3VMzyg)
++ [SpringBoot2.7 就是任性，就是不支持Logback1.3，你能奈他何？](https://mp.weixin.qq.com/s/dDU-7aQf8K7CUi75mURhHg)
 
 #### 安全
 
@@ -1762,6 +1767,8 @@
 + [新选择！基于Spring Boot监听MySQL日志Binlog实现数据实时同步](https://mp.weixin.qq.com/s/3rMWPmLHnoY4IDl-owuLIw)
 + [SpringBoot集成shardingsphere：执行存储过程](https://mp.weixin.qq.com/s/2FJDu2TWfAPjrTz-LT7wcw)
 + [springboot第84集：Java进阶之路, Netty](https://mp.weixin.qq.com/s/aIYPk52adcrFH7h0UsyWkA)
++ [一个注解搞定！Spring Boot 分布式锁实现详解](https://mp.weixin.qq.com/s/-H-H6jlyxsaQoVOogKIzBQ)
++ [Spring Boot集成Kafka：最佳实践与详细指南](https://mp.weixin.qq.com/s/v4nx2myaDE59Ovr4FRvQGA)
 
 #### 自定义实现
 
@@ -2041,6 +2048,8 @@
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [@Validated 如何在 List 上使用：批量验证中的小窍门](https://mp.weixin.qq.com/s/nLk_OKzc4EYSQmhkLjqduQ)
++ [告别if else，推荐5款Java表达式引擎](https://mp.weixin.qq.com/s/iYuok9TqDEXmSqqQIDGHTQ)
++ [放弃Websocket，使用 SSE 仅用几行代码就能搞定这些功能！](https://mp.weixin.qq.com/s/_9RJ-b3yvWB5y0qXnujn3Q)
 + [分布式任务调度框架介绍](https://mp.weixin.qq.com/s/AwSPklDnb9IMlsyFAlaUzw)
 + [为开发提速：Java Servlets API，这个Java库值得一试](https://mp.weixin.qq.com/s/EQVKnli-wMzQjne5wAMiaQ)
 + [Jmeter最全详解(手把手教你4步使用)](https://mp.weixin.qq.com/s/Y9tJidOwrp4ZJ_C3fZVAxw)

@@ -660,6 +660,7 @@
 + [Argparse：Python命令行参数解析的经典之选！](https://mp.weixin.qq.com/s/eXn43lsBm_ICGbL9P0UW_Q)
 + [Pyngrok：用 Python 快速共享本地服务！](https://mp.weixin.qq.com/s/qvqNDKurADv_y0rIYC_vLA)
 + [Poetry：Python包和依赖管理工具，项目依赖管理的新选择](https://mp.weixin.qq.com/s/VOXU_yHlmjBGDJBhkDsWyQ)
++ [Polars：开启高性能数据处理的新时代！](https://mp.weixin.qq.com/s/1mMGaUvRohPpHkf0eoYFfQ)
 
 ## 框架
 

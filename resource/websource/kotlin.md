@@ -9,6 +9,7 @@
 + [快速上手 Ktor：高效的 JVM HTTP 工具包 | 官方博客](https://mp.weixin.qq.com/s/W1WaWFrGOBBXUfwWoumhVA)
 + [Ktor 迈入 3.0，带来哪些变化和改进？｜官方博客](https://mp.weixin.qq.com/s/kaLFh78kp2U9q-Yd3AgdnQ)
 + [Kotlin Flow + WebFlux 构建更简洁的 Web 实时数据响应｜社区分享](https://mp.weixin.qq.com/s/sSBEJbOCDmilydfz5enBDg)
++ [Kotlin 首席设计师访谈：Kotlin 与 Java 的差距有多大？](https://mp.weixin.qq.com/s/iUWWKvGjP5mmTpEniZZLmA)
 
 ## 技术月报
 

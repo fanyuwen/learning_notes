@@ -151,6 +151,7 @@
 + 数学运算操作库 [numpy](https://numpy.org/) [scipy](https://scipy.org/)
 + 开源机器学习库 [scikit-learn](https://scikit-learn.org/) [tensorflow](https://tensorflow.google.cn/) [pytorch](https://pytorch.org/)
 + 数据分析和处理库 [pandas](https://pandas.pydata.org/)
++ devops相关 [fabric](https://www.fabfile.org) [paramiko](https://www.paramiko.org)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

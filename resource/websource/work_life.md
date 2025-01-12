@@ -352,6 +352,7 @@
 
 + [Marker：您的PDF到Markdown转换专家 —— 快速、准确、全语言支持](https://mp.weixin.qq.com/s/CITInW4H_8rPkmRt_mmNTg)
 + [MarkdownMonster：让Markdown在Windows平台上编辑更轻松！](https://mp.weixin.qq.com/s/74Ek86NejjE7YllO0X76-Q)
++ [《半小时掌握Markdown》](https://mp.weixin.qq.com/s/gdS0i8wB07SGskkDGKyGWQ)
 
 ### 学习资源
 
@@ -379,6 +380,7 @@
 + [《软件开发中的决策》作者将在SECon上海站演讲](https://mp.weixin.qq.com/s/E9Kj8TNhxCXP8GtaCi51iQ)
 + [云原生浪潮下的Spring应用开发](https://mp.weixin.qq.com/s/C_ocbD1Ent3lqvOmygJbrw)
 + [适合终身学习者的 13 本经典数学书籍](https://mp.weixin.qq.com/s/dXi8WoYRWHakU8pp4lWY-w)
++ [2024 Top 10文章推荐｜得物技术](https://mp.weixin.qq.com/s/lm1WS9_Ccxyjdz7Ou6egEg)
 
 ### 生活
 

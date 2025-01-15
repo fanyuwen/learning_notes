@@ -60,6 +60,7 @@
 + [专坑同事的 SQL 写法，性能降低100倍，别踩坑。。。](https://mp.weixin.qq.com/s/e3E6Ekxvx5idXx91J0LgmQ)
 + [一个复杂的SQL分析](https://mp.weixin.qq.com/s/T9KJjz7CwREE7T9fj2b3ZQ)
 + [SQL连接最全总结：提升你的数据库查询技能（建议收藏）](https://mp.weixin.qq.com/s/RQMgATBfHBhU_4kcxyjR2Q)
++ [SQL 语句是怎么执行的？](https://mp.weixin.qq.com/s/0dqfQDiZhIRwJkk28b4mBQ)
 
 # 本地数据库
 
@@ -344,6 +345,7 @@
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
++ [设计索引的原则与使用技巧](https://mp.weixin.qq.com/s/u8SXgCWayRhrB2w98I4kSQ)
 + [基于主键的索引扫描，Postgres 和 Oracle 一定比 MySQL 差吗？](https://mp.weixin.qq.com/s/EfN5b_TdV1YVJ95fZ18W4A)
 + [MySQL中区分度不高的字段索引：一定无用吗？](https://mp.weixin.qq.com/s/UTFgPvHh1KIVfVlmTW4Q0g)
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)
@@ -565,6 +567,7 @@
 + [Redis的ZSet为何使用跳表而非红黑树](https://mp.weixin.qq.com/s/F51bI45b_pJLKb5adNoIVw)
 + [万字长文带你深入Redis底层数据结构](https://mp.weixin.qq.com/s/gg6N6e90ZtbA0MH4KIEHlg)
 + [从一个事故中理解Redis（几乎）所有知识点](https://mp.weixin.qq.com/s/39Q5-vvIBmlmRVW8tzdjyA)
++ [Redis中的Set，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/ioeXp7_dKfICoIlbpDmN8Q)
 
 #### 分布式锁
 

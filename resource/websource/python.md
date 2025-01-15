@@ -407,6 +407,7 @@
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)
++ [Niquests: 最简单和先进的Python HTTP 客户端，完美替换Requests](https://mp.weixin.qq.com/s/apiijqN56d5-HDNC-v0LCQ)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [Python库locust设计大规模并发压测场景，这些高级特性让性能瓶颈无处遁形！](https://mp.weixin.qq.com/s/M9gAFLi833XnwdkH1z7m1g)
 + [Python与Excel交互：openpyxl库安装及基本用法](https://mp.weixin.qq.com/s/jNJC-e0hkTydHfWpol4vcw)

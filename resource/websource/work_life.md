@@ -218,6 +218,7 @@
 + [IDEA 2021 底部 Local Changes 不显示解决办法](https://mp.weixin.qq.com/s/pHY-qY4deK87tgH1FpqRdA)
 + [IntelliJ IDEA插件开发-Hello World插件](https://mp.weixin.qq.com/s/_lZQTE1Gg5kxGMt9JPXHpA)
 + [高手必会的 IDEA Debug 使用技巧，你都用过吗？](https://mp.weixin.qq.com/s/FQy05f91sGlbN2IOx5am_w)
++ [JetBrains IDE 中开发微信小程序，现在有官方插件支持了！](https://mp.weixin.qq.com/s/vSvcp1bBxdhwwj_BJs_I2Q)
 
 ## MAC_PRO相关
 

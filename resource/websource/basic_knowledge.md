@@ -7,6 +7,7 @@
 + [操作系统是怎么一步步启动起来的？](https://mp.weixin.qq.com/s/JGMK1WVn364lEXmmRM_I9w)
 + [再说分布式操作系统](https://mp.weixin.qq.com/s/kF5trV7dr2cYfsh7Z8I7Dg)
 + [操作系统之内存映像详解](https://mp.weixin.qq.com/s/dO14IhpU0ysprL_Oig3yZw)
++ [程序员必懂！上下文切换到底是怎么回事？](https://mp.weixin.qq.com/s/VTTy8S_KKWztULN_quKd3Q)
 
 ## 文件系统
 

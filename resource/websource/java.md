@@ -150,6 +150,7 @@
 + [这9个工具库让我的Java开发效率提升了80%](https://mp.weixin.qq.com/s/JLRWVWLOvxBpJchc7U_LwA)
 + [java实用教程：Java开发必会的24个重要代码实例](https://mp.weixin.qq.com/s/fNRVAX0wMMfC0Vff34Z_1g)
 + [Java 中反射的一些高级用法：窥探 Java 世界之门](https://mp.weixin.qq.com/s/ETxGQbj9aOEWS_ejbLlCew)
++ [利用 Function 接口告别冗余(屎山)代码](https://mp.weixin.qq.com/s/mZDy7ahoLgGAxaxxBoKWFw)
 
 ## 代码质量
 
@@ -290,6 +291,7 @@
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
++ [面试直击：并发编程三要素+线程安全全攻略！](https://mp.weixin.qq.com/s/IE0QGBc6yl4qvgMaeNGdBg)
 + [Java学习笔记——多线程](https://mp.weixin.qq.com/s/WtidtBonwNrzEv2TSXhzxQ)
 + [线程池中线程异常后：销毁还是复用？](https://my.oschina.net/u/4090830/blog/16747320)
 + [多线程性能优化最大的坑，99%的人都不自知！](https://mp.weixin.qq.com/s/-c9aChd6gBpw9HbJmO5TxA)
@@ -321,6 +323,7 @@
 + [面试官：为什么 wait, notify和 notifyAll是 Object 类的一部分，而不是 Thread 类的？](https://mp.weixin.qq.com/s/F8r32oB8j2qrd_QX0_EjeA)
 + [Java并发编程：使用Wait和Notify方法的注意事项](https://mp.weixin.qq.com/s/ENshChqFuiibMht6QNG7ZA)
 + [面试官：volatile数组是否有效？数组元素的更新是否能够被立即看到](https://mp.weixin.qq.com/s/2FWJuprPReJdpPobrPp1vg)
++ [深入理解Java中的volatile关键字](https://mp.weixin.qq.com/s/xD7-CUGcVmFN-66GuNIoJg)
 + [面试官：简要说一下线程和协程的区别？](https://mp.weixin.qq.com/s/6xtqKn5Sma3kQO8GXRlHqA)
 + [腾讯一面：为什么volatile不能保证复合操作（如自增操作 i++）的线程安全？](https://mp.weixin.qq.com/s/FvkgoP_1TxP0Tyj1RJVevQ)
 + [看懂这篇，才能说了解并发底层技术！](https://mp.weixin.qq.com/s/SZl2E5NAhpYM4kKv9gyQOQ)
@@ -337,6 +340,7 @@
 + [原来，这才是JDK推荐的线程关闭方式](https://mp.weixin.qq.com/s/5T49yTy_BEkhXS26RCjbxg)
 + [面试官：单核 CPU 支持 Java 多线程吗？为什么？被问懵了！](https://mp.weixin.qq.com/s/BwMqY1yDzo8kZW7nBxtH0A)
 + [Java并发编程：本质上只有一种创建线程的方法](https://mp.weixin.qq.com/s/fqgOjrtcXb0PiaEZtVrGZg)
++ [实现线程安全的11种方法](https://mp.weixin.qq.com/s/yErCS16bdw9EZoOto4cArg)
 
 ## 源码
 
@@ -481,6 +485,7 @@
 + [Java集合工具天天用，但有些原理还是懵逼的](https://mp.weixin.qq.com/s/vwSxHNUUJpUBsLlUU6EkGg)
 + [Java中ArrayList的8种浅拷贝方式](https://mp.weixin.qq.com/s/fhFBdUXm6KdIOAxuyu9hkQ)
 + [Java大厂面试高频：Collection 和 Collections 到底咋回答？](https://mp.weixin.qq.com/s/Ee_XjCLfj1DlQ5Hx-_7guw)
++ [ArrayList 十年老油条必须掌握的技巧](https://mp.weixin.qq.com/s/SrVkYLEJUQGZWsf-xB9o4A)
 
 #### map
 
@@ -538,6 +543,7 @@
 + [Future](https://mp.weixin.qq.com/s/SbWXQZjD7UxzjZcShI9fbQ)
 + [CompletableFuture 和 Future 它两之间存在着什么关系？](https://mp.weixin.qq.com/s/elxKeQNI-JOXmYAsOdEZNg)
 + [高并发架构设计：从 Java Callable 到 CompletableFuture 的进阶修炼](https://mp.weixin.qq.com/s/krC7-WhHMinNqYSkq9n6aA)
++ [Java CompletableFuture 的一些高级用法](https://mp.weixin.qq.com/s/nIWgr9Xjp28a8RebEXBYKw)
 
 ### ThreadPool
 
@@ -686,6 +692,7 @@
 + [史上最全 Maven 教程，建议收藏！！](https://mp.weixin.qq.com/s/gx6apzIPb8k-B-aAENvlOQ)
 + [一个优秀 Maven 项目，各 Model 间最佳继承设计方案](https://mp.weixin.qq.com/s/haFPYX2_Ym9h1vdgd5ojAw)
 + [Maven多模块工程最佳实践及详细示例](https://mp.weixin.qq.com/s/TEW-FpseM2EmEOVNoCmkgA)
++ [简化Maven项目依赖：优雅去除未使用Jar包](https://mp.weixin.qq.com/s/DWUkenxsvXw-nKu7z8f2aA)
 
 # 功能
 
@@ -991,6 +998,7 @@
 + [006架构师必修之java框架篇：springCloud微服务轻松构建](https://mp.weixin.qq.com/s/pQka_6JneNVURcHPGzUfvw)
 + [【Java面试100题突击】01 SpringCloud核心组件有哪些？分别有什么作用？](https://mp.weixin.qq.com/s/N5tzzLoKPwGe2GnFq3Tmtg)
 + [重磅！Spring Cloud 2024 正式发布，迎来史诗级更新！](https://mp.weixin.qq.com/s/ifriTGfseySAfl2xMRRTVw)
++ [SpringCloud：Feign的原理是什么？](https://mp.weixin.qq.com/s/cGNr5t9gZl1L41jrkblOlA)
 
 #### AI
 
@@ -1769,6 +1777,7 @@
 + [springboot第84集：Java进阶之路, Netty](https://mp.weixin.qq.com/s/aIYPk52adcrFH7h0UsyWkA)
 + [一个注解搞定！Spring Boot 分布式锁实现详解](https://mp.weixin.qq.com/s/-H-H6jlyxsaQoVOogKIzBQ)
 + [Spring Boot集成Kafka：最佳实践与详细指南](https://mp.weixin.qq.com/s/v4nx2myaDE59Ovr4FRvQGA)
++ [springboot第86集：iot开发流程](https://mp.weixin.qq.com/s/yux89k2CjzCv8MlAFfM9Zg)
 
 #### 自定义实现
 
@@ -1783,6 +1792,7 @@
 ## hystrix
 
 + [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
++ [什么是 Hystrix？它的工作原理是什么？](https://mp.weixin.qq.com/s/0dobf9_vSbv75Y9-tJbHkA)
 
 ## tomcat
 

@@ -80,6 +80,7 @@
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [服务治理，是在谈什么？](https://mp.weixin.qq.com/s/B02g5uRABwemR0DfNeuPLA)
 + [2025年微服务架构的发展趋势预测](https://mp.weixin.qq.com/s/oM4CFGA7qfDecV978eEpeQ)
++ [运维加薪技术——微服务拆分规范](https://mp.weixin.qq.com/s/W3iCdtYIY2oNYL_lgAvuDQ)
 + [单体架构的烦恼，你中招了吗？微服务来救场！](https://mp.weixin.qq.com/s/qnPDKR1FnN3beYTl0N0bgA)
 + [微服务架构 VS. 单体架构：对比与抉择](https://mp.weixin.qq.com/s/E5b_r9pGKWEnXgshlMbLaA)
 + [微服务 2.0 技术栈选型手册](https://mp.weixin.qq.com/s/vW8aKNWKwPA7sqPZZUNQLw)
@@ -387,6 +388,7 @@
 + [密码学承诺原理与应用 - 概览](https://mp.weixin.qq.com/s/_JArh9nTuBl8-9sT981VzA)
 + [您的 API 网关足够安全吗？](https://my.oschina.net/u/5246775/blog/16672740)
 + [2025开篇|揭密支付安全：为什么你的交易无法被篡改](https://mp.weixin.qq.com/s/xrblXEZcBX3q5PBE8ChV0g)
++ [支付系统加解密技术介绍及实践](https://mp.weixin.qq.com/s/Ox8mRkMD5oVp-8m3Zdwoyg)
 
 ### 鉴权
 
@@ -546,6 +548,7 @@
 + [用了json这么久我猜你一定不知道json schema是啥](https://mp.weixin.qq.com/s/e2x0gamsj93Rnax5XdctxA)
 + [原来解析 JSON 数据有这么简单的方法](https://mp.weixin.qq.com/s/tNjvJXzwGEBScSg6HKJ4pg)
 + [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/EFU1lvsjKmfW37Ds7_UV8w)
++ [有了JSON，为什么还要HJSON？](https://mp.weixin.qq.com/s/fjuIX1Z6vKM53rm6Nopwlw)
 
 ### 正则表达式
 

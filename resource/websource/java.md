@@ -151,6 +151,7 @@
 + [java实用教程：Java开发必会的24个重要代码实例](https://mp.weixin.qq.com/s/fNRVAX0wMMfC0Vff34Z_1g)
 + [Java 中反射的一些高级用法：窥探 Java 世界之门](https://mp.weixin.qq.com/s/ETxGQbj9aOEWS_ejbLlCew)
 + [利用 Function 接口告别冗余(屎山)代码](https://mp.weixin.qq.com/s/mZDy7ahoLgGAxaxxBoKWFw)
++ [Java 编程中的 9 个性能提升技巧](https://mp.weixin.qq.com/s/zhRyuU10SLK4QH6ReUK_sw)
 
 ## 代码质量
 
@@ -464,6 +465,7 @@
 + [深入理解Java中的并行流（Parallel Stream）](https://mp.weixin.qq.com/s/IwEVCRzTnumXm8j-oKMiEQ)
 + [Java Stream API](https://mp.weixin.qq.com/s/-Vd0qolH96t113sJ3iEcKQ)
 + [Stream的reduce方法介绍](https://mp.weixin.qq.com/s/7AmJCJBgGSomveWvzP2S7Q)
++ [深度掌握 java stream 流操作，让你的代码高出一个逼格！](https://mp.weixin.qq.com/s/3XebEp8TD7M4jy6ZC2yANQ)
 
 ### Date/time
 
@@ -625,6 +627,7 @@
 + [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
 + [ConcurrentHashMap 如何保证线程安全，jdk1.8 有什么变化？](https://mp.weixin.qq.com/s/fQS8YJwxV32xOHs0e8hlUA)
 + [ConcurrentHashMap中有十个提升性能的细节，你都知道吗？](https://mp.weixin.qq.com/s/vZZQeWaKQ2pbUDyyqpzunQ)
++ [ConcurrentHashMap的演进：从Java 8之前到Java 17的实现原理深度剖析](https://mp.weixin.qq.com/s/KTb4_okkyVDszXwvvo3ybQ)
 
 ### 其它
 
@@ -835,6 +838,7 @@
 + [【java面试100问】14 Spring MVC核心是什么，以及它的执行流程？](https://mp.weixin.qq.com/s/4KBEQ9ru0OLkmc269alMAg)
 + [Spring WebFlux，Java反应式Web的框架！](https://mp.weixin.qq.com/s/PBiOXYGPKnXVb4MFdFLyZA)
 + [四步改造一套完美的 Controller 代码层，帅呆了！](https://mp.weixin.qq.com/s/_E2fOdjlZHotPxQy5Su44w)
++ [深入理解MultipartFile，以更优雅的方式处理文件](https://mp.weixin.qq.com/s/m-4GtWVhF-LAWBaV04_KSA)
 
 ### concurrent
 
@@ -959,6 +963,7 @@
 ### 集成
 
 + [Spring一个注解轻松搞定循环重试功能！](https://mp.weixin.qq.com/s/BrvbPyRv6B0xEqa7d7Cm9g)
++ [优雅！Spring 基于 Plugin 插件开发（官方推荐）](https://mp.weixin.qq.com/s/O5SEC1OWNqS6gWHVENLUdw)
 
 ### tool
 
@@ -1778,6 +1783,7 @@
 + [一个注解搞定！Spring Boot 分布式锁实现详解](https://mp.weixin.qq.com/s/-H-H6jlyxsaQoVOogKIzBQ)
 + [Spring Boot集成Kafka：最佳实践与详细指南](https://mp.weixin.qq.com/s/v4nx2myaDE59Ovr4FRvQGA)
 + [springboot第86集：iot开发流程](https://mp.weixin.qq.com/s/yux89k2CjzCv8MlAFfM9Zg)
++ [SpringBoot3.4.0整合消息中间件Kafka和RabbitMQ](https://mp.weixin.qq.com/s/dpUrzyhTWnKLr1MZpg4Nhw)
 
 #### 自定义实现
 
@@ -1849,6 +1855,7 @@
 + [MyBatis中的 10 个宝藏技巧！](https://mp.weixin.qq.com/s/D66uI4w8-lYJd6CuRtSM6g)
 + [15 种超赞的 MyBatis 写法](https://mp.weixin.qq.com/s/gVYELZdsKgQ32pknK2UVdw)
 + [MyBatis 拦截器，带你轻松搞定数据脱敏！](https://mp.weixin.qq.com/s/a3dSgJPWwprfXHarOeDZEQ)
++ [这样理解 MyBatis缓存机制，真香！](https://mp.weixin.qq.com/s/glLItOA7ECFOpwOZHSdlvQ)
 
 ### plus
 
@@ -1916,6 +1923,7 @@
 + [Netty 01 从EchoServer 开始抛砖引玉](https://mp.weixin.qq.com/s/GkkuBf9pjABFUscSUl_TVw)
 + [Netty 编码器 & 解码器 正确使用姿势](https://mp.weixin.qq.com/s/RIxkLx3n2V6yyHDdpl9COw)
 + [米哈游1面：Netty 采用了哪些经典的设计模式？](https://mp.weixin.qq.com/s/V2bV9rK5c-CEuNihEWXS5g)
++ [时间轮在 Netty , Kafka 中的设计与实现](https://mp.weixin.qq.com/s/8hN6r8xTUVL4oIDubBl9dg)
 
 ## AKKA
 
@@ -1959,6 +1967,7 @@
 + [一文理清 Java 日志框架的来龙去脉](https://mp.weixin.qq.com/s/0TZ2xgtMaiX_jeFHdFBC3g)
 + [Java日志记录几种实现方案](https://mp.weixin.qq.com/s/y2rhzOBhlVS7YroqPfiGgg)
 + [SLF4J 门面日志框架原理分析](https://mp.weixin.qq.com/s/ECDCtSNKLkkJLW6yEDYMuQ)
++ [Log4j 2 与 SLF4J 互转的核心：log4j-slf4j-impl 和 log4j-to-slf4j](https://mp.weixin.qq.com/s/CGrJrZ9dInC-jpPin07M9Q)
 
 ## MapStruct
 
@@ -2020,6 +2029,7 @@
 + [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
 + [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
 + [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
++ [面试官：Lombok的@Data存在性能问题吗？](https://mp.weixin.qq.com/s/9yI1fm9326-VR9tehyNVAw)
 
 ## 字节码相关
 

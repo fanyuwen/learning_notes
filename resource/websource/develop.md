@@ -61,6 +61,7 @@
 + [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
 + [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)
 + [DDD架构最全详解(万字图文总结)](https://mp.weixin.qq.com/s/zcJSjBjvIpeYrUkJNRw6fg)
++ [千万别碰 DDD（领域驱动设计）！](https://mp.weixin.qq.com/s/gvrLFZQrfPA1B--6ecI5rQ)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/FpxNGQesMm4uKlqI8joPHw)
 + [字节面试：DDD中的实体、值对象是啥？](https://mp.weixin.qq.com/s/FwD3y_Etam2bD9FEa1bgCg)
 + [领域驱动设计之银行转账：Wow 框架实战](https://my.oschina.net/AhooWang/blog/11537379)
@@ -298,6 +299,7 @@
 + [限流算法比较](https://mp.weixin.qq.com/s/gFJ1yAhp8YqJOIV84KmgNQ)
 + [面试官：说说看你知道的常见限流算法有哪些？它们的优缺点分别是什么？如何基于用户身份限流？](https://mp.weixin.qq.com/s/9l-hawV7Os4n1eppBqQ1uQ)
 + [分布式系统限流介绍](https://mp.weixin.qq.com/s/8JMVg6RKoY2zK9LdQ8po_w)
++ [常见限流算法介绍 和 Spring Cloud Sentinel使用方式](https://mp.weixin.qq.com/s/hXl6DGQuaPrglxUHbDQnlA)
 
 ### 大文件IO
 

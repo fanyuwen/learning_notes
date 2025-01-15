@@ -412,6 +412,7 @@
 + [Python库locust设计大规模并发压测场景，这些高级特性让性能瓶颈无处遁形！](https://mp.weixin.qq.com/s/M9gAFLi833XnwdkH1z7m1g)
 + [Python与Excel交互：openpyxl库安装及基本用法](https://mp.weixin.qq.com/s/jNJC-e0hkTydHfWpol4vcw)
 + [colorgetter，一个让你的代码焕然一新的Python库！](https://mp.weixin.qq.com/s/bNVbUBYLzmej1Y97r-OhOA)
++ [pycron，世界上最牛逼的定时任务调度Python库！](https://mp.weixin.qq.com/s/Sq-kH72MlJwbSgvYcv1LMg)
 + [dj-multidomain，一个Python中非常有用的库](https://mp.weixin.qq.com/s/5XcXlh8VWVJGxuy-Vls3pw)
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)

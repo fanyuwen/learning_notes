@@ -18,6 +18,7 @@
 + [Zookeeper集群搭建详细教程](https://mp.weixin.qq.com/s/vg8R1YKwAh8k6ZSu3YVqEA)
 + [说说你对Zookeeper的理解？Zookeeper和Redis哪种实现分布式锁更好？](https://mp.weixin.qq.com/s/WWenfNxuqRu1xYYkHrhAoA)
 + [基于 ZooKeeper 实现分布式锁](https://mp.weixin.qq.com/s/uBM6QYayaWz2GwjFsnxPkA)
++ [彻底搞懂如何通过 ZooKeeper 实现注册中心](https://mp.weixin.qq.com/s/ta18BHTXUk19_bFIEYiJ-Q)
 
 # Thrift
 

@@ -180,6 +180,10 @@
 
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)
 
+# 嵌入式
+
++ [嵌入式科普(30)一文看懂嵌入式MCU/MPU多核架构与通信](https://mp.weixin.qq.com/s/fiE6fe25XiGJ6cycp0jCXA)
+
 # ARM
 
 + [ARM架构与编程 · 基于STM32F103笔记(2)](https://mp.weixin.qq.com/s/ZvrPf8KEc-ZnM8cTzlK1Hg)

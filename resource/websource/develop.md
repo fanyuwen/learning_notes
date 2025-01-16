@@ -75,6 +75,7 @@
 + [领导：将公司项目重构成 DDD 架构！](https://mp.weixin.qq.com/s/QXSnJnCSH6EKpNWMF6zptQ)
 + [DDD 学习与感悟 —— 向屎山冲锋](https://my.oschina.net/u/4090830/blog/16528661)
 + [限界上下文：定义领域边界的利器](https://mp.weixin.qq.com/s/AO45OgKM_CdUHjSrXVThsA)
++ [一文搞懂企业架构与DDD的融合](https://mp.weixin.qq.com/s/KdN-3GUZw7zKBDqiFRgbaw)
 
 ## 微服务
 
@@ -492,6 +493,7 @@
 + [图解支付收单平台设计：高效为商户收款](https://mp.weixin.qq.com/s/5OmOfuVuDJHJWK8VP1ndPA)
 + [支付交易系统日志设计最佳实践](https://mp.weixin.qq.com/s/bRYahp0wgtpsrD1Y4IlvRw)
 + [支付流程设计常见问题及最佳实践](https://mp.weixin.qq.com/s/7CwuuN7Yvbiz81K8YXe41A)
++ [一、架构实战——支付系统业务流程简介](https://mp.weixin.qq.com/s/wcYX6Z7vIm3xixpu8UGoxA)
 
 ## 代码相关
 

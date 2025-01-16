@@ -378,6 +378,7 @@
 + [Python移动应用开发的8个入门指南](https://mp.weixin.qq.com/s/FECeStmozdacwJAfXFgEMQ)
 + [Fabric：Python自动化部署的秘密武器](https://mp.weixin.qq.com/s/nd7QSsqg2dr_bQ5FHVLWTw)
 + [Python定时任务：让你的代码自己跑，躺着也能完成工作！](https://mp.weixin.qq.com/s/0BG0RBZ4ctrQ5-mQMfWq4A)
++ [如何将我的 Python 脚本提速 300%](https://mp.weixin.qq.com/s/BgJdZbjcyoJof46FGAwsiA)
 
 ## 新特性
 
@@ -414,6 +415,7 @@
 + [colorgetter，一个让你的代码焕然一新的Python库！](https://mp.weixin.qq.com/s/bNVbUBYLzmej1Y97r-OhOA)
 + [pycron，世界上最牛逼的定时任务调度Python库！](https://mp.weixin.qq.com/s/Sq-kH72MlJwbSgvYcv1LMg)
 + [dj-multidomain，一个Python中非常有用的库](https://mp.weixin.qq.com/s/5XcXlh8VWVJGxuy-Vls3pw)
++ [NetworkX实战：轻松掌握图论和网络分析的Python库](https://mp.weixin.qq.com/s/jZJwClLTRGlAQTvk1Lmy7Q)
 + [掌握Pycompilation库：Python初学者的编译利器](https://mp.weixin.qq.com/s/Upd-oCiUSW6uJjtAAbGhAw)
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
 + [aiofiles：基于 asyncio，提供文件异步操作(文件管理)](https://mp.weixin.qq.com/s/cdVvBMhN8_qOSHvy4g9nhQ)

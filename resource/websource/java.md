@@ -628,6 +628,7 @@
 + [ConcurrentHashMap 如何保证线程安全，jdk1.8 有什么变化？](https://mp.weixin.qq.com/s/fQS8YJwxV32xOHs0e8hlUA)
 + [ConcurrentHashMap中有十个提升性能的细节，你都知道吗？](https://mp.weixin.qq.com/s/vZZQeWaKQ2pbUDyyqpzunQ)
 + [ConcurrentHashMap的演进：从Java 8之前到Java 17的实现原理深度剖析](https://mp.weixin.qq.com/s/KTb4_okkyVDszXwvvo3ybQ)
++ [别再被问懵了！ConcurrentHashMap面试攻略来了](https://mp.weixin.qq.com/s/jnEoKDSd83JqO6vsICYhKA)
 
 ### 其它
 
@@ -780,6 +781,7 @@
 + [高手必学的Spring两个重要接口！](https://mp.weixin.qq.com/s/mmmL7Z49g9XNBjMBBjV3Jg)
 + [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
 + [警惕内存溢出！Spring Boot 中必知的内存管理技巧](https://mp.weixin.qq.com/s/oaR6Pmk34yH7Ak3a4PGkmQ)
++ [开发技巧！@Lazy注解这5种用法非常实用](https://mp.weixin.qq.com/s/JT1bBq-D0pw6HFRvUtbjZg)
 
 #### 原理&源码
 
@@ -877,11 +879,11 @@
 + [掌握Spring Batch 5.1.2：提升企业批处理效率的秘密武器！](https://mp.weixin.qq.com/s/DJyrD7ojqUbAwi1HIMfq9A)
 + [003架构师必修之java框架篇：springDataJPA彻底NOSQL](https://mp.weixin.qq.com/s/QdKU7o98YdwNArPojdQv0w)
 
-#### Batch
+#### BATCH
 
 + [深入解析 Spring Batch：核心概念与架构设计助力高效批处理](https://mp.weixin.qq.com/s/N_5ZGDf1a4G8LxwF4hozXQ)
 
-#### transaction
+#### TRANSACTION
 
 + [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/uaDvd_AEEgZlE6u2UomO3A)
 + [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
@@ -904,6 +906,7 @@
 + [深入解析 @Transactional 作用于私有方法时事务失效的原因](https://mp.weixin.qq.com/s/7wIsaeP1Ga1KIwSuPtEIFw)
 + [面试官：sping事务什么时候失效？](https://mp.weixin.qq.com/s/aTSvRdHz0uu07U4tPFXzgg)
 + [Spring事务管理深度解析-从实践到原理](https://mp.weixin.qq.com/s/6OjiUGAoMBPGWef7DCwS0Q)
++ [面试官：你来讲讲Spring 事务管理机制](https://mp.weixin.qq.com/s/NjcTCkjVSgmEIq6LF0fdyw)
 
 ### Log
 
@@ -977,6 +980,7 @@
 ### cloud
 
 + [Open-Feign 你真的会用了吗？](https://mp.weixin.qq.com/s/jU9kavwQpmunQ1dYUKYsSQ)
++ [Spring Cloud 它是谁？它能做什么？](https://mp.weixin.qq.com/s/Iv-2dkCQfSmkpjUh5oW-Lg)
 + [基于Spring Cloud Gateway，实现路由和负载均衡](https://mp.weixin.qq.com/s/SZngVSwQbZDojfu1NdhgMw)
 + [Spring Cloud Gateway网关详解(作用功能及原理流程)](https://mp.weixin.qq.com/s/6HcS-x7bvatr4EzCCfgw9w)
 + [Dubbo 和 Spring Cloud Gateway 有什么区别？](https://mp.weixin.qq.com/s/lHlXtccZ0DzWolfJh9cTlg)
@@ -1294,6 +1298,7 @@
 + [别再自己瞎写工具类了，Spring Boot 内置工具类应有尽有， 建议收藏！！](https://mp.weixin.qq.com/s/nwdFRV4WJxvwD3ehVCs8tA)
 + [实体 到 DTO转换！这7种方式性能差距太大，最后一个才是王者](https://mp.weixin.qq.com/s/DoWntVEwWsPxI3rRDRIRLw)
 + [每个 Java 开发人员都应该掌握的 Spring Boot 高级概念](https://mp.weixin.qq.com/s/UTyu1lSg177fdi1yCLms3w)
++ [Spring Boot 3 的Aware接口详解（含源码解析）](https://mp.weixin.qq.com/s/rjxnVHtdIVJ66m8hymAVkg)
 
 #### 分布式
 
@@ -1539,6 +1544,7 @@
 + [SpringBoot -- 数据库事务（1）](https://mp.weixin.qq.com/s/ek-Benqscu6spF81yLmy1A)
 + [Spring Boot + 事务钩子函数，太强了！](https://mp.weixin.qq.com/s/aUOnGfNdDtrNsLZ6vnULTg)
 + [性能调优！Spring Boot 选择正确的事务方式，提升接口响应速度](https://mp.weixin.qq.com/s/w0eo9SXgmeFunIexG51qpA)
++ [接口慢？用对事务方式，Spring Boot 性能立见成效！](https://mp.weixin.qq.com/s/e_jNN1OZHKN5DkQyKlKp4g)
 
 ##### BIG DATA
 
@@ -1784,6 +1790,7 @@
 + [Spring Boot集成Kafka：最佳实践与详细指南](https://mp.weixin.qq.com/s/v4nx2myaDE59Ovr4FRvQGA)
 + [springboot第86集：iot开发流程](https://mp.weixin.qq.com/s/yux89k2CjzCv8MlAFfM9Zg)
 + [SpringBoot3.4.0整合消息中间件Kafka和RabbitMQ](https://mp.weixin.qq.com/s/dpUrzyhTWnKLr1MZpg4Nhw)
++ [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/y5d_Z1T1sdTKZEUaz1mNvQ)
 
 #### 自定义实现
 
@@ -1800,8 +1807,9 @@
 + [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
 + [什么是 Hystrix？它的工作原理是什么？](https://mp.weixin.qq.com/s/0dobf9_vSbv75Y9-tJbHkA)
 
-## tomcat
+## web
 
++ [一文带你了解什么是servlet](https://mp.weixin.qq.com/s/mVF4wNPQKeokj6vwG6eWJQ)
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
 
 ## quarkus
@@ -2128,6 +2136,7 @@
 + [如何在java程序中调用python脚本](https://mp.weixin.qq.com/s/SjoXNqzGCzdxfxjTUGrrwQ)
 + [SMS4J-让短信发送变得更简单](https://mp.weixin.qq.com/s/b6uQ3vgRk3yRjK6wfxxmGQ)
 + [别造轮子了，用它监控线程池](https://mp.weixin.qq.com/s/h0yVBZizqxZMM1u0VPmn7g)
++ [Java进阶课程第九节：Java大数据处理技术](https://mp.weixin.qq.com/s/9EqAndHZzHUOtI208iEnyQ)
 
 # 其它环境
 

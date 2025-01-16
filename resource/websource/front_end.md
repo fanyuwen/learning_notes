@@ -55,6 +55,7 @@
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)
 + [10 个你可能不知道的高级 JavaScript 技术](https://mp.weixin.qq.com/s/OaJjJ0akCo7Vk5LlRQitvA)
 + [前端小知识：使用 Array.of() 轻松创建数组](https://mp.weixin.qq.com/s/5IXEmsfQRpHqRZC7tuVqGw)
++ [setTimeout 定时器，根本就不准时呀！](https://mp.weixin.qq.com/s/KGoQj91LjXsTuOqzkVt_Fw)
 + [现代Web开发的JavaScript核心概念](https://mp.weixin.qq.com/s/gfI15BS7d1MNCB6kcYDnow)
 + [告别代码崩溃！JavaScript 异常处理必备技巧](https://mp.weixin.qq.com/s/1R-ywgpWgisPHAAYQsIStQ)
 + [停止使用 `let` 或为什么它在 JavaScript/TypeScript 中是不必要的【包邮送书】](https://mp.weixin.qq.com/s/_ubMihG-UX0H7jHaWtA3fQ)

@@ -384,6 +384,7 @@
 + [创建索引时一定会锁表？](https://mp.weixin.qq.com/s/VIStZiWZ-Pu3MQ_kzL04hA)
 + [数据库基础 -- 索引及SQL优化](https://mp.weixin.qq.com/s/gMs1ylrAiKxW4rnDLvNFzQ)
 + [Mysql的死锁与索引的关系](https://mp.weixin.qq.com/s/CdLseWutFUWB5rGA2rXBhg)
++ [快速理解MySQL索引下推](https://mp.weixin.qq.com/s/4xMG0iMstsyvx7C4tQZ-ig)
 
 ### PostgreSQL
 

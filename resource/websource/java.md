@@ -166,6 +166,7 @@
 + [如何优化 if/else，让你的代码更优雅](https://mp.weixin.qq.com/s/GZxx31YklTedhEMUD4sqgg)
 + [记录一次 if-else 代码优化的完整过程](https://mp.weixin.qq.com/s/sg3t-bLsq4QVYVKI-fqmdQ)
 + [请停止在 Java 中使用 if-else 语句](https://mp.weixin.qq.com/s/8tA1TyO25dN0pV2wno8u-Q)
++ [公司来了个新同事，把代码耗时从 26856ms 优化到了 748ms，一顿操作猛如虎！](https://mp.weixin.qq.com/s/5JW9FwJzQA-e6kJC4_PzzQ)
 + [写代码有这16个好习惯，可以减少80%非业务的bug](https://mp.weixin.qq.com/s/Bdm9mOEWnQxx9Cqul6vThw)
 + [一句注释引发的思考 - 论代码质量](https://my.oschina.net/jijunjian/blog/11335481)
 + [工作 3 年的同事不懂 isEmpty 和 isBlank 的区别，我真是醉了。](https://mp.weixin.qq.com/s/o1QlRLdEB9hKlQDz8AqQww)
@@ -279,6 +280,7 @@
 
 + [java nio，netty，kafka 中经常提到 “零拷贝” 到底是什么？](https://my.oschina.net/makemyownlife/blog/16504259)
 + [聊聊java零拷贝的几种实现](https://mp.weixin.qq.com/s/FSq5_beguRsNBKeUMAutPg)
++ [Java IO流经典使用](https://mp.weixin.qq.com/s/efqw7TbPwv31puGcP6frgA)
 
 ### 反射
 
@@ -1479,6 +1481,7 @@
 + [SpringBoot 实现 License 认证：快速校验有效期的简洁方案](https://mp.weixin.qq.com/s/0Kceh_VhVOIwexvKYa0V1A)
 + [Spring Boot 中如何实现 HTTP 请求的线程隔离](https://mp.weixin.qq.com/s/_LXRfr07WKWhtuhsk5M0cg)
 + [Spring Boot Rest API十大常见错误及避免方法](https://mp.weixin.qq.com/s/bfsuz8sZUNygtz8eRG0kag)
++ [Spring Boot 多版本API控制 5 种实现方案](https://mp.weixin.qq.com/s/wLsU1BySjJ8I17Z6bfOgmQ)
 
 ##### VUE
 
@@ -1628,6 +1631,7 @@
 + [Spring Boot实战：Spring Events与异步事件驱动的最佳实践](https://mp.weixin.qq.com/s/Q3foH2dCFlO52Tkcl8fCHw)
 + [Springboot中自定义监听器](https://mp.weixin.qq.com/s/GdriC2lLM-2oJEiICs0__Q)
 + [强大！Spring Boot 结合事件驱动架构，打造高效可扩展的订单处理系统](https://mp.weixin.qq.com/s/2HXRNl_jtxUVJJpRtNJkTw)
++ [Spring Boot 3 监听器详解（含源码解析）](https://mp.weixin.qq.com/s/pKVF0x4dROxkkHjO7G0GDg)
 
 #### CACHE
 
@@ -2163,6 +2167,7 @@
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [Java HttpClient请求form-data格式，并设置boundary代码实现](https://mp.weixin.qq.com/s/Sz7r7PDuE1sqK-8ZDuhH0g)
 + [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
 + [一行代码引发的性能暴跌 10 倍](https://mp.weixin.qq.com/s/cBqYZ4KVWCHlzdiTPGyMWQ)

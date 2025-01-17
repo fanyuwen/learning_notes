@@ -568,6 +568,7 @@
 + [字节一面拷打：Redis 为什么用跳表实现有序集合？](https://mp.weixin.qq.com/s/Q2paB_XcMlmG8TSdSgql8w)
 + [Redis的ZSet为何使用跳表而非红黑树](https://mp.weixin.qq.com/s/F51bI45b_pJLKb5adNoIVw)
 + [万字长文带你深入Redis底层数据结构](https://mp.weixin.qq.com/s/gg6N6e90ZtbA0MH4KIEHlg)
++ [Redis中的List，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/KO0xxP7FilFMrVWjfKflsg)
 + [从一个事故中理解Redis（几乎）所有知识点](https://mp.weixin.qq.com/s/39Q5-vvIBmlmRVW8tzdjyA)
 + [Redis中的Set，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/ioeXp7_dKfICoIlbpDmN8Q)
 

@@ -541,6 +541,7 @@
 + [Redis Cluster和Sentinel模式，如何选择？](https://mp.weixin.qq.com/s/BFUvPdFwInn3LEVVGg-uxA)
 + [Redis 为什么要引入 Pipeline机制？十分钟带你掌握！](https://mp.weixin.qq.com/s/CXjlugb87s8PoTKC5ir1Vw)
 + [Redis持久化锦囊在手，再也不会担心数据丢失了](https://mp.weixin.qq.com/s/VgKa1qgQarShT2VGSb1wng)
++ [你们的Redis在项目里怎么用的呀？](https://mp.weixin.qq.com/s/w5Wo3uKKZLxmyM0HsikYqw)
 
 #### 原理
 

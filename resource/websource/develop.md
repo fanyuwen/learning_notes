@@ -403,6 +403,7 @@
 + [JWT 实现登录认证 + Token 自动续期方案，这才是正确的使用姿势！](https://mp.weixin.qq.com/s/0xHyRCassgGXp_jq-wcDbg)
 + [详解三大权限模型](https://mp.weixin.qq.com/s/X-Jr8DYsAMgXM0gbwhhtfA)
 + [JWT 在浏览器中的存储策略](https://mp.weixin.qq.com/s/T5tBKz8GnOzxnYXCnr-1vg)
++ [分布式系统的两种认证方式：Session和Token](https://mp.weixin.qq.com/s/-GiFMOXDcwmwQMtFMLFpIQ)
 
 ## 存储
 
@@ -534,6 +535,7 @@
 + [QPS多少才算高并发(看这篇就够了)](https://mp.weixin.qq.com/s/2L1L_XobHz-z6TRuPtQirw)
 + [TPS多少才算高并发(看这篇就够了)](https://mp.weixin.qq.com/s/eGyYiZRRr3lKYhSIIYEnQQ)
 + [面试官之问：知道你的接口“QPS”是多少吗？](https://mp.weixin.qq.com/s/a2--oI2OaUVTHt_pB7wYBQ)
++ [高频面题： 你们线上 QPS 多少？你 怎么知道的？](https://mp.weixin.qq.com/s/Q8niqMkUhixL7NlQIUgvaA)
 
 ## 领域知识
 

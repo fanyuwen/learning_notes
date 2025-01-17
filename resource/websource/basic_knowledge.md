@@ -157,6 +157,7 @@
 + [程序是怎么一步步变成机器指令的？](https://mp.weixin.qq.com/s/lDbLLp3Frhk9qYHG83bcuw)
 + [cpu cache是什么？](https://mp.weixin.qq.com/s/LDpIul7vrt8StBuv7jwYjg)
 + [CPU超频：你会为它买单吗？](https://mp.weixin.qq.com/s/zVSZfYgL8eTwfh5Z0e6Ovg)
++ [搞定面试官：如何在 Windows 和 Linux 上追踪高 CPU 线程？](https://mp.weixin.qq.com/s/upFSiMUfbrMJixdz7kPSEA)
 
 ### 并发
 
@@ -212,6 +213,7 @@
 + [API网关基础知识详解](https://mp.weixin.qq.com/s/HAbYrDJeuswrMGuF3nhZNQ)
 + [跨站脚本攻击（XSS）-安全基础系列](https://mp.weixin.qq.com/s/Y7rgJ__ziFdA3KqlWwPTIw)
 + [1.35 Tbps的 DDoS攻击，Github趴下了！](https://mp.weixin.qq.com/s/zLOGO7-Qi-XfyZLi-NlG9A)
++ [全网最简单、零成本的内网穿透神器！](https://mp.weixin.qq.com/s/1DkKGoX-Q2VvMpHx9SzzlQ)
 
 ### DNS
 

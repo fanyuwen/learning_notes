@@ -94,6 +94,7 @@
 + [RocketMQ   ACK流程分析：编程范式、核心对象、内存匹配、磁盘匹配、死信 ...](https://mp.weixin.qq.com/s/chWNhM0tVOygjU6p-pP4Yw)
 + [记一次线程池使用不当导致触发死锁导致RocketMQ消费停滞](https://mp.weixin.qq.com/s/3IGokiu3YYWUitLygdpflQ)
 + [RocketMQ(11)延时消息之六：延时消息写入流程](https://mp.weixin.qq.com/s/ogqyn4QG7iJ0jWLFi-u7Jg)
++ [招行面试：10Wqps场景，RocketMQ 顺序消费 的性能 如何提升 ？](https://mp.weixin.qq.com/s/zIntV5H-DDcFjvUCzmE1LA)
 
 # RABBITMQ
 

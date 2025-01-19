@@ -571,6 +571,7 @@
 + [Redis中的List，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/KO0xxP7FilFMrVWjfKflsg)
 + [从一个事故中理解Redis（几乎）所有知识点](https://mp.weixin.qq.com/s/39Q5-vvIBmlmRVW8tzdjyA)
 + [Redis中的Set，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/ioeXp7_dKfICoIlbpDmN8Q)
++ [面试题：redis的持久化⽅式有哪些？AOF和RDB如何实现？AOF的重写机制是什么？](https://mp.weixin.qq.com/s/a3CHrcc8CduWUAFpqlKuWg)
 
 #### 分布式锁
 

@@ -176,6 +176,7 @@
 + [PolarisMesh源码系列——服务实例健康检查](https://mp.weixin.qq.com/s/pMx1HbbOW33Syh5lzJtwIQ)
 + [大多数人都还不知道：5 个绝不可错过的开源瑰宝！](https://mp.weixin.qq.com/s/3x4FSKmNV7Yg2ecZsY51WQ)
 + [18 个 GitHub 存储库助你提升开发者职业生涯](https://mp.weixin.qq.com/s/arFCf4yVJ_6Erhkykz2-vg)
++ [大厂程序员都在使用的开发工具](https://mp.weixin.qq.com/s/0ItcYqkKMwg4ryIXXb1-IA)
 
 ## 开源资源
 

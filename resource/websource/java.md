@@ -206,6 +206,7 @@
 + [java实用教程：Java高效代码50例精选](https://mp.weixin.qq.com/s/DlAvejj_UTpKXm0HMNtXcQ)
 + [七大陷阱！99%的Java开发者都会遇到](https://mp.weixin.qq.com/s/4XS2To0ntF5pZoc3GLmphg)
 + [Java 中如何优雅地处理 null 值](https://mp.weixin.qq.com/s/IhXXBAH2KMSjo4iOqcYoQA)
++ [java日常开发中如何写出优雅的好维护的代码](https://mp.weixin.qq.com/s/0k7TKat40f-oXi4TwYzP8A)
 
 # 底层
 
@@ -1807,6 +1808,8 @@
 + [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/y5d_Z1T1sdTKZEUaz1mNvQ)
 + [Spring Boot + SSE 打造实时消息推送](https://mp.weixin.qq.com/s/ng-jkob0lG08r5VDuyWKRw)
 + [Spring Boot 3.3 + Micrometer 2.0：监控性能炸裂，老板直呼内行！](https://mp.weixin.qq.com/s/NgeEtn24I_mNolR-8PCpXg)
++ [Spring Boot + Netty + WebSocket 实现消息推送](https://mp.weixin.qq.com/s/S6KP9powz4IwwmSQu8AJHg)
++ [SpringBoot 整合 Grizzly：突破并发瓶颈，打造高性能网站](https://mp.weixin.qq.com/s/bVJSKHq8pmQrYoMLA2GkNQ)
 
 #### 自定义实现
 
@@ -2171,6 +2174,7 @@
 + [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
 + [一行代码引发的性能暴跌 10 倍](https://mp.weixin.qq.com/s/cBqYZ4KVWCHlzdiTPGyMWQ)
++ [阿里面试：5000qps访问一个500ms的接口，如何设计线程池的核心线程数、最大线程数？ 需要多少台机器？](https://mp.weixin.qq.com/s/JFWjDSQ4HRGbZhj9ei3t6Q)
 + [帅呆！接口开发不用写Controller、Service、Dao、Mapper、XML、VO，全自动生成](https://mp.weixin.qq.com/s/-JJ1SzBBQ4XSRL5ICkGlBA)
 + [二十万分之一几率：if 语句变 do-while 卡死问题分析｜得物技术](https://my.oschina.net/u/5783135/blog/16664437)
 + [软件开发者的秘密武器：@Contract注解详解](https://mp.weixin.qq.com/s/2XxmWv8y0ksmVZhUNYHWHA)

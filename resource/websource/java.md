@@ -155,6 +155,7 @@
 + [利用 Function 接口告别冗余(屎山)代码](https://mp.weixin.qq.com/s/mZDy7ahoLgGAxaxxBoKWFw)
 + [Java 编程中的 9 个性能提升技巧](https://mp.weixin.qq.com/s/zhRyuU10SLK4QH6ReUK_sw)
 + [Java 8+ 的特性(Function)，策略模式变得更加优雅、高效，减少了代码冗余](https://mp.weixin.qq.com/s/d__VhU28KIcRvPFQC539rA)
++ [Java设计原则实战：如何优雅地设计类和接口](https://mp.weixin.qq.com/s/hEhvWzPiqlZYUQiyaYd9jg)
 
 ## 代码质量
 
@@ -513,6 +514,7 @@
 + [HashMap中为什么引入红黑树，又为什么桶中超过8个才转为红黑树？](https://mp.weixin.qq.com/s/JwORsDxJfFxDM_XhRKzG1g)
 + [HashMap 一边循环一边删除，上线翻车了~~](https://mp.weixin.qq.com/s/s2GdEUmnCPCn15iDMb6IlA)
 + [面试官最爱问：TreeMap、TreeSet 如何比较元素？终于懂了！](https://mp.weixin.qq.com/s/RPtw-eHGh7wuUQsoTAFu8g)
++ [Java 集合框架中的老炮与新秀：HashTable 和 HashMap 谁更胜一筹？](https://mp.weixin.qq.com/s/cqCs0zljln5Q8d-jJRbkPA)
 
 ### Optional
 
@@ -790,6 +792,7 @@
 + [Spring 开发：动态代理的艺术与实践](https://my.oschina.net/u/4526289/blog/11052942)
 + [警惕内存溢出！Spring Boot 中必知的内存管理技巧](https://mp.weixin.qq.com/s/oaR6Pmk34yH7Ak3a4PGkmQ)
 + [开发技巧！@Lazy注解这5种用法非常实用](https://mp.weixin.qq.com/s/JT1bBq-D0pw6HFRvUtbjZg)
++ [掌握 Spring 框架这 10 个扩展点，让你的能力更上一层楼](https://mp.weixin.qq.com/s/dPTDOQV3XHbpbVSUvJE2lg)
 
 #### 原理&源码
 
@@ -916,6 +919,7 @@
 + [面试官：sping事务什么时候失效？](https://mp.weixin.qq.com/s/aTSvRdHz0uu07U4tPFXzgg)
 + [Spring事务管理深度解析-从实践到原理](https://mp.weixin.qq.com/s/6OjiUGAoMBPGWef7DCwS0Q)
 + [面试官：你来讲讲Spring 事务管理机制](https://mp.weixin.qq.com/s/NjcTCkjVSgmEIq6LF0fdyw)
++ [一篇文章彻底搞懂 Spring 的事务](https://mp.weixin.qq.com/s/mo50IcW9pUKiV9MlAYtUYw)
 
 ### Log
 
@@ -1063,6 +1067,7 @@
 + [牢记这16个SpringBoot 扩展接口，写出更加漂亮的代码](https://mp.weixin.qq.com/s/AM1X-34U8HCYoSIw6Y745w)
 + [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [Spring Boot性能优化案例](https://mp.weixin.qq.com/s/eFRC2IgG_Efvo-NX1lYWAw)
++ [《SpringBoot》自动装配原理（简单易懂）](https://mp.weixin.qq.com/s/HPpZZ-97wtcOXRuG8otJbA)
 + [SpringBoot 启动原理详解 (图文全面总结)](https://my.oschina.net/lenve/blog/16495901)
 + [避坑！为了性能Spring挖了一个大坑](https://mp.weixin.qq.com/s/vzTvZX7jCljnRsS-HvtMuA)
 + [提升效率！Spring Boot 开发中的常见失误轻松规避](https://mp.weixin.qq.com/s/1oiw3ht_cyFvIwRqIOmo7A)
@@ -1483,6 +1488,7 @@
 + [Spring Boot 中如何实现 HTTP 请求的线程隔离](https://mp.weixin.qq.com/s/_LXRfr07WKWhtuhsk5M0cg)
 + [Spring Boot Rest API十大常见错误及避免方法](https://mp.weixin.qq.com/s/bfsuz8sZUNygtz8eRG0kag)
 + [Spring Boot 多版本API控制 5 种实现方案](https://mp.weixin.qq.com/s/wLsU1BySjJ8I17Z6bfOgmQ)
++ [高效开发！Spring Boot 动态 URI 加载最佳实践](https://mp.weixin.qq.com/s/ZeVgPHICKHftmhHxo0BNYg)
 
 ##### VUE
 
@@ -1814,6 +1820,7 @@
 #### 自定义实现
 
 + [手写@RefreshScope，很简单嘛！](https://mp.weixin.qq.com/s/eLFTzuHkyaVZoESpu6j0uQ)
++ [Spring Boot 自定义注解结合 Spel 表达式实现动态解析](https://mp.weixin.qq.com/s/hcmzoUDQ9ZkfTTl_atVSUg)
 
 #### 原理&源码
 
@@ -2158,6 +2165,8 @@
 + [别造轮子了，用它监控线程池](https://mp.weixin.qq.com/s/h0yVBZizqxZMM1u0VPmn7g)
 + [Java进阶课程第九节：Java大数据处理技术](https://mp.weixin.qq.com/s/9EqAndHZzHUOtI208iEnyQ)
 + [杀疯了，超越 EasyExcel 的新一代 Excel 处理神器](https://mp.weixin.qq.com/s/aE7pz8PqGBfbN304FzJBZg)
++ [使用 Solon Cloud Gateway 替换 Spring Gateway](https://mp.weixin.qq.com/s/H1somhXCLurIwRuJM-TpIw)
++ [强大！SQL解析神器JSQLParser](https://mp.weixin.qq.com/s/mkro_1bTGapsY6l0-4-E-Q)
 
 # 其它环境
 

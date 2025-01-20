@@ -495,6 +495,7 @@
 + [支付交易系统日志设计最佳实践](https://mp.weixin.qq.com/s/bRYahp0wgtpsrD1Y4IlvRw)
 + [支付流程设计常见问题及最佳实践](https://mp.weixin.qq.com/s/7CwuuN7Yvbiz81K8YXe41A)
 + [一、架构实战——支付系统业务流程简介](https://mp.weixin.qq.com/s/wcYX6Z7vIm3xixpu8UGoxA)
++ [16. 如何设计一个支持 5 亿用户规模的网约车系统？](https://mp.weixin.qq.com/s/GBqq9mvAmA2O4wLl-DZ-XQ)
 
 ## 代码相关
 

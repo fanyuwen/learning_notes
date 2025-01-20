@@ -19,6 +19,7 @@
 + [什么是 Elasticsearch 数据预热？](https://mp.weixin.qq.com/s/-Y6EVcV-uMm8eEY0IwgACA)
 + [ElasticSearch集群搭建详细教程](https://mp.weixin.qq.com/s/SOB1Y7N_A9iNOCpnDkmITw)
 + [Elasticsearch：Retrievers 介绍](https://my.oschina.net/u/3343882/blog/16600478)
++ [ES 的 4种分页方式，如何选择？](https://mp.weixin.qq.com/s/cZSPYWwKkpl_cqWIqNpAtw)
 
 # solr
 

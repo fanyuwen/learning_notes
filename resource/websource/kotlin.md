@@ -10,8 +10,11 @@
 + [Ktor 迈入 3.0，带来哪些变化和改进？｜官方博客](https://mp.weixin.qq.com/s/kaLFh78kp2U9q-Yd3AgdnQ)
 + [Kotlin Flow + WebFlux 构建更简洁的 Web 实时数据响应｜社区分享](https://mp.weixin.qq.com/s/sSBEJbOCDmilydfz5enBDg)
 + [Kotlin 首席设计师访谈：Kotlin 与 Java 的差距有多大？](https://mp.weixin.qq.com/s/iUWWKvGjP5mmTpEniZZLmA)
++ [1000万行Java代码变Kotlin！Meta如何用“偷懒”秘籍省下10万次转换按钮点击？](https://mp.weixin.qq.com/s/Rw_UkzOGlgO0cicfnvyP3A)
 
 ## 技术月报
 
 + [Kotlin 技术月报 | 2024 年 6 月](https://mp.weixin.qq.com/s/a6lAdmZX4rU0PA_IY4RX_Q)
 + [Kotlin 技术月报 | 2024 年 9 月](https://mp.weixin.qq.com/s/bxD0VZmThSzyITECFtSqCA)
++ [Kotlin K2 模式进入稳定状态 ｜ 官方博客](https://mp.weixin.qq.com/s/J5fqoQ-m4gG5YX5pmHmiPQ)
++ [推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 | 官方博客](https://mp.weixin.qq.com/s/T3qtxrwuMPpL5cQKmKJXtw)

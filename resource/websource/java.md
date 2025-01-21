@@ -515,6 +515,7 @@
 + [HashMap 一边循环一边删除，上线翻车了~~](https://mp.weixin.qq.com/s/s2GdEUmnCPCn15iDMb6IlA)
 + [面试官最爱问：TreeMap、TreeSet 如何比较元素？终于懂了！](https://mp.weixin.qq.com/s/RPtw-eHGh7wuUQsoTAFu8g)
 + [Java 集合框架中的老炮与新秀：HashTable 和 HashMap 谁更胜一筹？](https://mp.weixin.qq.com/s/cqCs0zljln5Q8d-jJRbkPA)
++ [从电商购物车到游戏排行榜，揭开 HashMap 和 TreeMap 的秘密！](https://mp.weixin.qq.com/s/0ZdYV3mSPnA56j5SbNTlZA)
 
 ### Optional
 
@@ -598,6 +599,7 @@
 + [线程池 坑中之王！](https://mp.weixin.qq.com/s/YvuMNfKkPxIchtJblLd9Iw)
 + [线程池动态调整](https://mp.weixin.qq.com/s/dlUGX8ZOFyNl60Ed_3vwlA)
 + [线程池新标杆！美团动态线程池太香了！](https://mp.weixin.qq.com/s/S_gZtNHOt3kp7NOY_EZSnw)
++ [美团动态线程池，真香啊！](https://mp.weixin.qq.com/s/FrMbXmVBO2prgQ3fWcg1dQ)
 
 ### ThreadLocal
 
@@ -613,6 +615,7 @@
 + [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
 + [ThreadLocal为什么会导致内存泄漏？如何解决的？](https://mp.weixin.qq.com/s/aqkc3J-nao_7stuimte7GQ)
 + [ThreadLocal 实践与源码解析](https://mp.weixin.qq.com/s/WpkpPXodaBk7IfaRjsS8AA)
++ [面试官：为什么threadLocal有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/ZmG9V-J5YCkl7BdRUif4jw)
 
 ### Lock
 
@@ -1021,6 +1024,7 @@
 + [【Java面试100题突击】01 SpringCloud核心组件有哪些？分别有什么作用？](https://mp.weixin.qq.com/s/N5tzzLoKPwGe2GnFq3Tmtg)
 + [重磅！Spring Cloud 2024 正式发布，迎来史诗级更新！](https://mp.weixin.qq.com/s/ifriTGfseySAfl2xMRRTVw)
 + [SpringCloud：Feign的原理是什么？](https://mp.weixin.qq.com/s/cGNr5t9gZl1L41jrkblOlA)
++ [Spring Cloud Nacos 配置管理](https://mp.weixin.qq.com/s/rB_ba7IWgWiBpuTDc7h48w)
 
 #### AI
 
@@ -1056,6 +1060,7 @@
 + [最佳实践！使用 Enum 实现 Spring Boot 3.3 高效配置管理](https://mp.weixin.qq.com/s/GY8L5boPVHiZkkW5pLTU8A)
 + [全面提升：利用 Spring Boot 3.4 实现高效 JSON 结构化日志记录](https://mp.weixin.qq.com/s/01vgnITxQ84SKXxOhsrQow)
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
++ [Spring Boot 性能飙升500%！提升速度的终极武器](https://mp.weixin.qq.com/s/7IuGMOFZbO6rAUUfFsI4uQ)
 + [Spring Boot 开发中有 7 件事你必须知道](https://mp.weixin.qq.com/s/ZWwTZ9LVMJ2bVxw9uY0Klg)
 + [踩了一堆坑，终于把微服务系统全面升级 JDK17 和 SpringBoot3 了](https://my.oschina.net/sticki/blog/15909409)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
@@ -1555,6 +1560,7 @@
 + [RedisTemplate 的序列化策略和配置处理](https://mp.weixin.qq.com/s/-EH9S2oV_FJGcNUzmA5q_g)
 + [一文吃透Redis 4 种模式在 Spring Boot 下的配置](https://mp.weixin.qq.com/s/wj1FKwl8H7Wc-B49-fbd9A)
 + [Spring Boot 3.3 实时数据同步方案：确保多端数据一致性](https://mp.weixin.qq.com/s/DrlHta9deWFEAqPsr4aVJA)
++ [Spring Boot 中 Redis 的用法详解](https://mp.weixin.qq.com/s/SrHoMuLMt5ODwolklgjNow)
 
 ##### TRANSACTION
 
@@ -1816,6 +1822,7 @@
 + [Spring Boot 3.3 + Micrometer 2.0：监控性能炸裂，老板直呼内行！](https://mp.weixin.qq.com/s/NgeEtn24I_mNolR-8PCpXg)
 + [Spring Boot + Netty + WebSocket 实现消息推送](https://mp.weixin.qq.com/s/S6KP9powz4IwwmSQu8AJHg)
 + [SpringBoot 整合 Grizzly：突破并发瓶颈，打造高性能网站](https://mp.weixin.qq.com/s/bVJSKHq8pmQrYoMLA2GkNQ)
++ [SpringBoot整合Flink，实现一个用户个性化推荐系统](https://mp.weixin.qq.com/s/h4gOvfOTHPwJBNQFzkdPGQ)
 
 #### 自定义实现
 

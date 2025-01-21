@@ -184,6 +184,7 @@
 + [分布式锁的实现原理](https://my.oschina.net/vivotech/blog/16539069)
 + [企业实战之分布式锁](https://mp.weixin.qq.com/s/y-W2TsL6NZ5cYgkPgQPqZA)
 + [一个注解 —— 完美实现分布式锁](https://mp.weixin.qq.com/s/HH1EOeUFsyHY3Ews9rEvgQ)
++ [分布式锁介绍](https://mp.weixin.qq.com/s/1Joo0dN47TEmvq6BhS5wow)
 
 ## 分布式缓存
 
@@ -341,6 +342,7 @@
 + [6种常见的缓存策略，请享用！](https://mp.weixin.qq.com/s/ilRpviACZlxdfTLTx-pZBA)
 + [Redis不是万能的！来看看本地缓存如何发挥作用！](https://mp.weixin.qq.com/s/nY7-0UIlO6nzYHeisfJfFQ)
 + [面试题：什么是缓存击穿、缓存穿透和缓存雪崩？它们分别会带来什么危害？该如何解决和预防？](https://mp.weixin.qq.com/s/EqcmLsxRC3Of833dZaBnKw)
++ [强大！基于Map优化缓存设计](https://mp.weixin.qq.com/s/r2hbOfqpNEdsUWucPcseSQ)
 
 ## 优化
 

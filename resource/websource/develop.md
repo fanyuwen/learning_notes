@@ -57,6 +57,7 @@
 ### DDD
 
 + [DDD 在大众点评交易系统演进中的应用](https://my.oschina.net/meituantech/blog/11105728)
++ [初识领域驱动设计(DDD)](https://mp.weixin.qq.com/s/V3piWlANcmcg3RgA9fHNrg)
 + [从Alibaba-Cola到DDD，一线研发对领域驱动的思考](https://mp.weixin.qq.com/s/R5AJ2Cj2FQdRSQmQJcPy4w)
 + [复杂应用的重构与代码编排技巧---DDD领域驱动设计实践](https://mp.weixin.qq.com/s/gutp4uJBrOkaup8C-eAd3A)
 + [DDD领域驱动设计理论｜得物技术](https://mp.weixin.qq.com/s/bNjoMOo6c1fkn-PdmWbhKQ)

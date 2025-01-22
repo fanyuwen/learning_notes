@@ -61,6 +61,7 @@
 + [一个复杂的SQL分析](https://mp.weixin.qq.com/s/T9KJjz7CwREE7T9fj2b3ZQ)
 + [SQL连接最全总结：提升你的数据库查询技能（建议收藏）](https://mp.weixin.qq.com/s/RQMgATBfHBhU_4kcxyjR2Q)
 + [SQL 语句是怎么执行的？](https://mp.weixin.qq.com/s/0dqfQDiZhIRwJkk28b4mBQ)
++ [为什么 LIMIT 0, 10 快，而 LIMIT 1000000, 10 慢？](https://mp.weixin.qq.com/s/4TmfgnmMoqd6uDIcouLt-w)
 
 # 本地数据库
 
@@ -288,6 +289,7 @@
 + [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/5PtEfYFiNaKw1_ZSkPJtTw)
 + [如果 MySQL 的自增 ID 用完了，怎么解决？](https://mp.weixin.qq.com/s/5V9IhphM-_2k8QjMm68Zpg)
 + [别提桶跑路，MySQL 误删数据救命指南来了！](https://mp.weixin.qq.com/s/r4C8RzNzW7TK4ehUL0ON4Q)
++ [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
 
 #### 存储引擎
 
@@ -542,6 +544,7 @@
 + [Redis 为什么要引入 Pipeline机制？十分钟带你掌握！](https://mp.weixin.qq.com/s/CXjlugb87s8PoTKC5ir1Vw)
 + [Redis持久化锦囊在手，再也不会担心数据丢失了](https://mp.weixin.qq.com/s/VgKa1qgQarShT2VGSb1wng)
 + [你们的Redis在项目里怎么用的呀？](https://mp.weixin.qq.com/s/w5Wo3uKKZLxmyM0HsikYqw)
++ [妙！ 不改一行代码，如何做到Redis毫秒级大key发现？](https://mp.weixin.qq.com/s/UVu6IqUziXWni4t5p8nhAg)
 
 #### 原理
 
@@ -572,6 +575,7 @@
 + [从一个事故中理解Redis（几乎）所有知识点](https://mp.weixin.qq.com/s/39Q5-vvIBmlmRVW8tzdjyA)
 + [Redis中的Set，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/ioeXp7_dKfICoIlbpDmN8Q)
 + [面试题：redis的持久化⽅式有哪些？AOF和RDB如何实现？AOF的重写机制是什么？](https://mp.weixin.qq.com/s/a3CHrcc8CduWUAFpqlKuWg)
++ [面试官：说说看Redis底层数据类型有哪些？Redis为什么这么快？Redis为什么引入多线程？Redis多线程实现机制是怎样？](https://mp.weixin.qq.com/s/_K7FlG5TL2-S7HVhJatIqg)
 
 #### 分布式锁
 

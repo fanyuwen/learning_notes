@@ -295,6 +295,7 @@
 ### 并发/多线程
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
@@ -516,6 +517,7 @@
 + [面试官最爱问：TreeMap、TreeSet 如何比较元素？终于懂了！](https://mp.weixin.qq.com/s/RPtw-eHGh7wuUQsoTAFu8g)
 + [Java 集合框架中的老炮与新秀：HashTable 和 HashMap 谁更胜一筹？](https://mp.weixin.qq.com/s/cqCs0zljln5Q8d-jJRbkPA)
 + [从电商购物车到游戏排行榜，揭开 HashMap 和 TreeMap 的秘密！](https://mp.weixin.qq.com/s/0ZdYV3mSPnA56j5SbNTlZA)
++ [一次“面试翻车”后的思考：HashMap 和 ConcurrentHashMap 的区别到底在哪里？](https://mp.weixin.qq.com/s/A1EY5YSgiPn0bDZsUGWKYQ)
 
 ### Optional
 
@@ -856,6 +858,7 @@
 + [Spring WebFlux，Java反应式Web的框架！](https://mp.weixin.qq.com/s/PBiOXYGPKnXVb4MFdFLyZA)
 + [四步改造一套完美的 Controller 代码层，帅呆了！](https://mp.weixin.qq.com/s/_E2fOdjlZHotPxQy5Su44w)
 + [深入理解MultipartFile，以更优雅的方式处理文件](https://mp.weixin.qq.com/s/m-4GtWVhF-LAWBaV04_KSA)
++ [饿了么急招岗位：说说 Spring拦截链的原理！](https://mp.weixin.qq.com/s/rit2zm4vpaXu-o8eG4hvKA)
 
 ### concurrent
 
@@ -893,6 +896,7 @@
 + [如何使用 Spring Data JPA 进行数据库访问？](https://mp.weixin.qq.com/s/mYc_QfdIbMGW2yxbQNbCoA)
 + [掌握Spring Batch 5.1.2：提升企业批处理效率的秘密武器！](https://mp.weixin.qq.com/s/DJyrD7ojqUbAwi1HIMfq9A)
 + [003架构师必修之java框架篇：springDataJPA彻底NOSQL](https://mp.weixin.qq.com/s/QdKU7o98YdwNArPojdQv0w)
++ [Spring Boot 实现数据源动态切换的最佳姿势！](https://mp.weixin.qq.com/s/sV-QSmmNUUBrgE7BohUaLw)
 
 #### BATCH
 
@@ -901,6 +905,7 @@
 #### TRANSACTION
 
 + [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/uaDvd_AEEgZlE6u2UomO3A)
++ [基于 @Transactional 的声明式事务原理剖析](https://mp.weixin.qq.com/s/lGuit30h4eGXSRfpJNNXHw)
 + [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
 + [探索Spring事务的迷宫](https://mp.weixin.qq.com/s/yDqUa35CMQayDOhjxpQWiQ)
 + [深入理解Spring框架中的声明式事务管理](https://mp.weixin.qq.com/s/yMN-QSkvEKRljmo8S7EYgw)
@@ -2110,6 +2115,7 @@
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [@Validated 如何在 List 上使用：批量验证中的小窍门](https://mp.weixin.qq.com/s/nLk_OKzc4EYSQmhkLjqduQ)
++ [不看血亏！9个工具类让JAVA开发效率原地起飞](https://mp.weixin.qq.com/s/R_yjl8SgjPpgbDfKybPJ1w)
 + [告别if else，推荐5款Java表达式引擎](https://mp.weixin.qq.com/s/iYuok9TqDEXmSqqQIDGHTQ)
 + [放弃Websocket，使用 SSE 仅用几行代码就能搞定这些功能！](https://mp.weixin.qq.com/s/_9RJ-b3yvWB5y0qXnujn3Q)
 + [分布式任务调度框架介绍](https://mp.weixin.qq.com/s/AwSPklDnb9IMlsyFAlaUzw)

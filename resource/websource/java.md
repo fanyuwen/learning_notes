@@ -304,6 +304,7 @@
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [为什么循环调用wait()比if块更可靠？小米为你揭晓答案！](https://mp.weixin.qq.com/s/5y-Vuj6HtFobqpXYJ2bJlA)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [Java并发编程：深入理解Java线程状态](https://mp.weixin.qq.com/s/sO_ltlJcNMeIcOAKW0Nzzw)
 + [Java面试必备：4种线程创建方式，哪种最适合你？](https://mp.weixin.qq.com/s/sKJys8msGK3pzPft8Zmpsw)
@@ -972,6 +973,7 @@
 
 + [轻松搞定 Spring 集成缓存，让你的应用程序飞起来！](https://mp.weixin.qq.com/s/rJCtykEdvjPNxET-zi88Iw)
 + [弃用Spring Cache！首选多级缓存框架JetCache](https://mp.weixin.qq.com/s/iWs2OzltFK9xbRM947lcPw)
++ [Spring的缓存帝国，得益于这 5个注解！](https://mp.weixin.qq.com/s/19u0Las7ego4G5c4uMrP2A)
 
 ### EVENT
 
@@ -1097,6 +1099,7 @@
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
 + [Spring Boot 启动流程及原理介绍](https://mp.weixin.qq.com/s/AG2YfTVr_Euu6fGEcmeenQ)
++ [Spring Bean的生命周期95%的人都不知道这几个点](https://mp.weixin.qq.com/s/8LDA3xCH1jW8pkXVXEHTeA)
 + [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
 + [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
 + [牢记这16个SpringBoot 扩展接口，写出更加漂亮的代码](https://mp.weixin.qq.com/s/AM1X-34U8HCYoSIw6Y745w)
@@ -2235,6 +2238,7 @@
 + [Java HttpClient请求form-data格式，并设置boundary代码实现](https://mp.weixin.qq.com/s/Sz7r7PDuE1sqK-8ZDuhH0g)
 + [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
++ [用Java实现一下这个报表功能。。。](https://mp.weixin.qq.com/s/dkNhItnY0fvNlRRC0uQGmw)
 + [一文吃透回调函数：编程世界的幕后使者](https://mp.weixin.qq.com/s/uxdrkGk2iKcFiq_MS7iWKg)
 + [一行代码引发的性能暴跌 10 倍](https://mp.weixin.qq.com/s/cBqYZ4KVWCHlzdiTPGyMWQ)
 + [动态SQL：如何根据条件生成SQL语句数据库用户与权限管理：SQL语句详解](https://mp.weixin.qq.com/s/ndQ2rH-3To7hl147EFYkqA)

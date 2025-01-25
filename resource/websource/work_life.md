@@ -42,6 +42,9 @@
 + [面试了一个38岁的候选人，月薪他要了1.2万，我说你可以再多要一点，因为他之前月薪是2.5万。结果他说：谢谢你，但薪资觉得够了！](https://mp.weixin.qq.com/s/gC8aQ1XdnlEk_oLeIzMzxQ)
 + [面试了一个45岁的程序员，他要月薪2万，我同意了。结果面试完把他送到电梯口，他说如果是14薪的话，月薪1.8万也行](https://mp.weixin.qq.com/s/HnEoH_f5cMGhfBPv-E-nCQ)
 + [什么时候你意识到做技术永无出路？](https://mp.weixin.qq.com/s/RCaKeFZPhHUQNn49FT4dvA)
++ [当大厂变成裁员工厂，认真工作为何不再是护身符？](https://mp.weixin.qq.com/s/Ji2sw3-9NHB43O6OI7Pzyw)
++ [为什么大部分程序员成不了架构师?](https://mp.weixin.qq.com/s/9kl5yOAsDBXo9S544f30AA)
++ [大家有没有发现一个奇怪的现象：那些辞职失业后不上班的人，虽然没有工资，但是时间长了再也不想回去上班了。这是为什么？](https://mp.weixin.qq.com/s/FAV83Rh9HyF_eSVHSmOn1A)
 
 # 个人成长
 
@@ -299,6 +302,7 @@
 + [为什么魂斗罗只有128KB却可以实现那么长的剧情？](https://mp.weixin.qq.com/s/VfTddPWOigLyOSSQr2U2YA)
 + [1997年发v8.0，今天发v9.0版本，什么神仙语言还活着呢？](https://mp.weixin.qq.com/s/SFJOeQQgt_IZ65uQ_SDPUQ)
 + [指针是怎样一步步发明出来的？](https://mp.weixin.qq.com/s/0zahhPN8DaBLrHO-nSKZVg)
++ [一个周末重写所有代码，性能提升 10 倍！没有这个 1000 倍工程师，就没有现在的谷歌地图](https://mp.weixin.qq.com/s/h9WMkawDFxOfA5lAPU2WhA)
 
 
 ## 创业
@@ -389,3 +393,5 @@
 
 + [我不打算买房，无锡公积金还有什么用？](https://mp.weixin.qq.com/s/g2tXzKEWYJxRZzL_vxV4QA)
 + [无锡公积金目前最高能贷多少钱？](https://mp.weixin.qq.com/s/Z73ybGfuj0Q7NF2_dLrJZQ)
++ [公积金月冲后，账户里多余的金额怎么处理？](https://mp.weixin.qq.com/s/hwYKkyEs3_h_0XHI-YLaHw)
++ [社保缴费总月数怎么查？社保卡丢了怎么办？](https://mp.weixin.qq.com/s/IZgBY-us4i_f1OkCm9EZNA)

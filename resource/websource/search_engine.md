@@ -24,6 +24,7 @@
 + [ElasticSearch集群搭建详细教程](https://mp.weixin.qq.com/s/SOB1Y7N_A9iNOCpnDkmITw)
 + [Elasticsearch：Retrievers 介绍](https://my.oschina.net/u/3343882/blog/16600478)
 + [ES 的 4种分页方式，如何选择？](https://mp.weixin.qq.com/s/cZSPYWwKkpl_cqWIqNpAtw)
++ [Elasticsearch 性能测试工具全解析](https://mp.weixin.qq.com/s/8EpeGzmhwvOqwJv8oL1g-w)
 
 ## solr
 

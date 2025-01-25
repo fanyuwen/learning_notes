@@ -304,6 +304,7 @@
 + [分布式系统限流介绍](https://mp.weixin.qq.com/s/8JMVg6RKoY2zK9LdQ8po_w)
 + [常见限流算法介绍 和 Spring Cloud Sentinel使用方式](https://mp.weixin.qq.com/s/hXl6DGQuaPrglxUHbDQnlA)
 + [业务开发中的双重请求，优雅降级，熔断机制](https://mp.weixin.qq.com/s/X79Pu-tsUfiUwg17A4g3yQ)
++ [7种常见的限流方式！](https://mp.weixin.qq.com/s/akyPWaGyG8gnI7_gOZpkgA)
 
 ### 大文件IO
 
@@ -543,6 +544,7 @@
 + [TPS多少才算高并发(看这篇就够了)](https://mp.weixin.qq.com/s/eGyYiZRRr3lKYhSIIYEnQQ)
 + [面试官之问：知道你的接口“QPS”是多少吗？](https://mp.weixin.qq.com/s/a2--oI2OaUVTHt_pB7wYBQ)
 + [高频面题： 你们线上 QPS 多少？你 怎么知道的？](https://mp.weixin.qq.com/s/Q8niqMkUhixL7NlQIUgvaA)
++ [13. 微博系统设计：怎么应对热点事件的突发访问压力？](https://mp.weixin.qq.com/s/hahfHACujS3iT2FDFJZ0rg)
 
 ## 领域知识
 
@@ -626,6 +628,7 @@
 + [Git多人协作简明教程](https://mp.weixin.qq.com/s/HiMk9rSntZzZRtcpj2Hqsw)
 + [Git 安装，配置与基本命令](https://mp.weixin.qq.com/s/j3p7I4Yh7MwZNt5CY0DDrA)
 + [Git是什么？其常用实战命令有哪些？已整理](https://mp.weixin.qq.com/s/PPEwpPa6FIKTEFj1f7RIzg)
++ [成为 Git 高手：30 条必会的Git命令备忘单](https://mp.weixin.qq.com/s/oF3mtHKnnXdx7uVF3WNYRg)
 
 ### 编程范式
 

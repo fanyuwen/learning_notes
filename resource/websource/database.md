@@ -643,6 +643,7 @@
 
 + [使用 ClickHouse 做日志分析](https://my.oschina.net/morflameblog/blog/10149549)
 + [从 ClickHouse 到 Apache Doris：快成物流的数智化货运应用实践](https://mp.weixin.qq.com/s/bctAe-eK5EhwTnJlr0xrQQ)
++ [Clickhouse 应用场景与原理剖析](https://mp.weixin.qq.com/s/ujm1zk8TYWAMD79Xt1f8dw)
 
 ### InfluxQL
 

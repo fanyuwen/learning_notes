@@ -278,6 +278,7 @@
 + [Java 类是如何加载的？](https://my.oschina.net/lenve/blog/16664992)
 + [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
 + [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
++ [JDK内置的HttpRequest有坑，请绕道！](https://mp.weixin.qq.com/s/XyaOcXoUIKVYbyedKsVEcw)
 
 ### IO
 
@@ -300,9 +301,12 @@
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
++ [Java面试必备：4种线程创建方式，哪种最适合你？](https://mp.weixin.qq.com/s/sKJys8msGK3pzPft8Zmpsw)
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
 + [面试直击：并发编程三要素+线程安全全攻略！](https://mp.weixin.qq.com/s/IE0QGBc6yl4qvgMaeNGdBg)
++ [深入浅出：Java线程间通信全解析](https://mp.weixin.qq.com/s/klUB8syCZkTog665F07Vjw)
++ [面试官最爱的面试题：wait() 和 notify() 为什么需要同步？](https://mp.weixin.qq.com/s/8iBMiTtHOJ5oMG2k7DVo9g)
 + [Java学习笔记——多线程](https://mp.weixin.qq.com/s/WtidtBonwNrzEv2TSXhzxQ)
 + [线程池中线程异常后：销毁还是复用？](https://my.oschina.net/u/4090830/blog/16747320)
 + [多线程性能优化最大的坑，99%的人都不自知！](https://mp.weixin.qq.com/s/-c9aChd6gBpw9HbJmO5TxA)
@@ -352,6 +356,7 @@
 + [面试官：单核 CPU 支持 Java 多线程吗？为什么？被问懵了！](https://mp.weixin.qq.com/s/BwMqY1yDzo8kZW7nBxtH0A)
 + [Java并发编程：本质上只有一种创建线程的方法](https://mp.weixin.qq.com/s/fqgOjrtcXb0PiaEZtVrGZg)
 + [实现线程安全的11种方法](https://mp.weixin.qq.com/s/yErCS16bdw9EZoOto4cArg)
++ [面试官：什么是可重入锁](https://mp.weixin.qq.com/s/8Swfp-Y8L9znMyXzhpfVRg)
 
 ## 源码
 
@@ -429,6 +434,7 @@
 + [Java GC：垃圾回收的自动化艺术](https://mp.weixin.qq.com/s/fCYXCjHsMkfSbG33P0fuQg)
 + [如何处理CPU被打满/CPU100%的问题](https://mp.weixin.qq.com/s/Ti18dV7iVT4RzctCe6kzuw)
 + [你在开发中遇到过OOM?怎么解决的](https://mp.weixin.qq.com/s/GL7w1XZWiTd9xa7mPWnW7A)
++ [8G的容器Java堆才4G怎么就OOM了？](https://mp.weixin.qq.com/s/wdgNL0GUsqPpRBoPh7yBSw)
 
 # 核心库
 
@@ -637,6 +643,7 @@
 + [Java并发基础：LockSupport](https://mp.weixin.qq.com/s/iEZbIJ-X8QkakaA7-oOr7A)
 + [【多线程与高并发】ReentrantLock示例讲解](https://mp.weixin.qq.com/s/lgasePffcfedM3qB4vzh5Q)
 + [【多线程与高并发】ReadWriteLock原理、示例、讲解](https://mp.weixin.qq.com/s/ACmJBk78VdzYxL2MVmWi7A)
++ [面试官：说说 synchronized 和 ReentrantLock 的区别](https://mp.weixin.qq.com/s/T2YEQILZTaqaDtmTwMdmZg)
 
 ### ConcurrentHashMap
 
@@ -2022,6 +2029,7 @@
 + [SLF4J 门面日志框架原理分析](https://mp.weixin.qq.com/s/ECDCtSNKLkkJLW6yEDYMuQ)
 + [Log4j 2 与 SLF4J 互转的核心：log4j-slf4j-impl 和 log4j-to-slf4j](https://mp.weixin.qq.com/s/CGrJrZ9dInC-jpPin07M9Q)
 + [开发者必备：Log4j系列与Logback日志框架详解](https://mp.weixin.qq.com/s/bgqZ137DG7sRrJ5vuPXcGA)
++ [如何使用 SLF4J 的 MDC, 实现全链路追踪？](https://mp.weixin.qq.com/s/58AowEyTTTgx5D6pO4FVBA)
 
 ## MapStruct
 
@@ -2203,6 +2211,7 @@
 + [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
 + [一行代码引发的性能暴跌 10 倍](https://mp.weixin.qq.com/s/cBqYZ4KVWCHlzdiTPGyMWQ)
++ [动态SQL：如何根据条件生成SQL语句数据库用户与权限管理：SQL语句详解](https://mp.weixin.qq.com/s/ndQ2rH-3To7hl147EFYkqA)
 + [“日志＝数据库”？聊一聊日志背后的抽象](https://mp.weixin.qq.com/s/qY6yiurfY2JhHQAdM36TOg)
 + [阿里面试：5000qps访问一个500ms的接口，如何设计线程池的核心线程数、最大线程数？ 需要多少台机器？](https://mp.weixin.qq.com/s/JFWjDSQ4HRGbZhj9ei3t6Q)
 + [帅呆！接口开发不用写Controller、Service、Dao、Mapper、XML、VO，全自动生成](https://mp.weixin.qq.com/s/-JJ1SzBBQ4XSRL5ICkGlBA)
@@ -2212,6 +2221,7 @@
 + [一个 Bug JDK 居然改了十年？](https://my.oschina.net/u/4009705/blog/16590034)
 + [Spring和MyBatis中的设计模式](https://mp.weixin.qq.com/s/zhKYFG0HWNL14CyaRfNB_w)
 + [常用加解密算法详解及Java实现](https://mp.weixin.qq.com/s/7QAI87UZd1i3xZhkI8Y5vw)
++ [Cron 与 Corn](https://mp.weixin.qq.com/s/uM_x8GEtTI8UC6HysT0ykg)
 + [什么？java -D参数设置系统属性竟然不起作用？](https://mp.weixin.qq.com/s/qhI9VOQS7Fr4ZwiRj2GEPw)
 + [提升性能：Java工程师必备的20条SQL最佳实践](https://mp.weixin.qq.com/s/z5PNUvBBySxTTQFJNPdwjw)
 + [HTTP 请求大比拼：哪个 Java 库能让你的应用更高效？](https://mp.weixin.qq.com/s/Tj5OSWBI-JAuEtIWBcAf3A)

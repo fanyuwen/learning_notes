@@ -128,6 +128,7 @@
 + [只需20个Linux命令，让你的工作效率翻倍！](https://mp.weixin.qq.com/s/cohlcdhko5W94FzW4cmX8Q)
 + [能用到 “退休” 的 600条 Linux 命令，直接起飞！](https://mp.weixin.qq.com/s/XCQ2DJJ6x75UQn6XCl8SuQ)
 + [Linux Shell：从入门到退休](https://mp.weixin.qq.com/s/pquJ2WUwwsHRWzL928prLg)
++ [用 Bash 脚本提取 sudo 组成员的三种方法及其实现解析](https://mp.weixin.qq.com/s/rG1f--z6Do1AElL6iB5AhA)
 
 ### 发行版信息
 

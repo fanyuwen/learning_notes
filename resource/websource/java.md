@@ -277,12 +277,14 @@
 + [Java 性能分析](https://mp.weixin.qq.com/s/yo1gkwcugBJ1J-Rnnf2CWQ)
 + [Java 类是如何加载的？](https://my.oschina.net/lenve/blog/16664992)
 + [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
++ [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
 
 ### IO
 
 + [java nio，netty，kafka 中经常提到 “零拷贝” 到底是什么？](https://my.oschina.net/makemyownlife/blog/16504259)
 + [聊聊java零拷贝的几种实现](https://mp.weixin.qq.com/s/FSq5_beguRsNBKeUMAutPg)
 + [Java IO流经典使用](https://mp.weixin.qq.com/s/efqw7TbPwv31puGcP6frgA)
++ [面试官：BIO、NIO、AIO有什么区别](https://mp.weixin.qq.com/s/xFXOQyyHEtfPub4gkqCdRQ)
 
 ### 反射
 
@@ -1350,7 +1352,9 @@
 + [优雅！使用 Spring Boot 3.3 + @ControllerAdvice 实现全局数据绑定与预处理](https://mp.weixin.qq.com/s/gOqROy_W2tQ3dvTTjGEM3Q)
 + [轻松掌握！如何在 Spring Boot 3.3 中实现基于角色的访问控制](https://mp.weixin.qq.com/s/fXu04gN_XuB3WFXzQB1A2w)
 + [Spring Boot 3.3 HTTP客户端配置秘籍：RestTemplate代理与WebClient超时详解](https://mp.weixin.qq.com/s/f5GlsKWA3w--VBz6oBwiJw)
++ [SpringBoot3.4.1和Spring Security6.4.2结合OAuth2实现GitHub授权登录](https://mp.weixin.qq.com/s/9_20B2kVehjHiikegw6LRA)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
++ [SpringBoot 优雅参数校验](https://mp.weixin.qq.com/s/dl72n39er1QRCuus2voJdQ)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
 + [神器！API接口限流就是这么简单](https://mp.weixin.qq.com/s/CByZybQUDkO0nJBCFahsiw)
 + [Spring Boot 中 WebClient 的实践详解](https://mp.weixin.qq.com/s/2Th_MWH1-hRe714l0Jfa4g)
@@ -1566,6 +1570,7 @@
 + [一文吃透Redis 4 种模式在 Spring Boot 下的配置](https://mp.weixin.qq.com/s/wj1FKwl8H7Wc-B49-fbd9A)
 + [Spring Boot 3.3 实时数据同步方案：确保多端数据一致性](https://mp.weixin.qq.com/s/DrlHta9deWFEAqPsr4aVJA)
 + [Spring Boot 中 Redis 的用法详解](https://mp.weixin.qq.com/s/SrHoMuLMt5ODwolklgjNow)
++ [优雅！Spring Boot使用Flyway进行数据库脚本迁移管理](https://mp.weixin.qq.com/s/wx68EW7ruaNX925rWn5ILg)
 
 ##### TRANSACTION
 
@@ -1902,6 +1907,7 @@
 + [15 种超赞的 MyBatis 写法](https://mp.weixin.qq.com/s/gVYELZdsKgQ32pknK2UVdw)
 + [MyBatis 拦截器，带你轻松搞定数据脱敏！](https://mp.weixin.qq.com/s/a3dSgJPWwprfXHarOeDZEQ)
 + [这样理解 MyBatis缓存机制，真香！](https://mp.weixin.qq.com/s/glLItOA7ECFOpwOZHSdlvQ)
++ [MyBatis 内置连接池原理详解！](https://mp.weixin.qq.com/s/ujMAvAvExX0bSvUCqw-jPg)
 
 ### plus
 
@@ -2015,6 +2021,7 @@
 + [Java日志记录几种实现方案](https://mp.weixin.qq.com/s/y2rhzOBhlVS7YroqPfiGgg)
 + [SLF4J 门面日志框架原理分析](https://mp.weixin.qq.com/s/ECDCtSNKLkkJLW6yEDYMuQ)
 + [Log4j 2 与 SLF4J 互转的核心：log4j-slf4j-impl 和 log4j-to-slf4j](https://mp.weixin.qq.com/s/CGrJrZ9dInC-jpPin07M9Q)
++ [开发者必备：Log4j系列与Logback日志框架详解](https://mp.weixin.qq.com/s/bgqZ137DG7sRrJ5vuPXcGA)
 
 ## MapStruct
 
@@ -2196,6 +2203,7 @@
 + [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
 + [一行代码引发的性能暴跌 10 倍](https://mp.weixin.qq.com/s/cBqYZ4KVWCHlzdiTPGyMWQ)
++ [“日志＝数据库”？聊一聊日志背后的抽象](https://mp.weixin.qq.com/s/qY6yiurfY2JhHQAdM36TOg)
 + [阿里面试：5000qps访问一个500ms的接口，如何设计线程池的核心线程数、最大线程数？ 需要多少台机器？](https://mp.weixin.qq.com/s/JFWjDSQ4HRGbZhj9ei3t6Q)
 + [帅呆！接口开发不用写Controller、Service、Dao、Mapper、XML、VO，全自动生成](https://mp.weixin.qq.com/s/-JJ1SzBBQ4XSRL5ICkGlBA)
 + [二十万分之一几率：if 语句变 do-while 卡死问题分析｜得物技术](https://my.oschina.net/u/5783135/blog/16664437)

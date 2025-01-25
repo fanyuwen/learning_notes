@@ -303,6 +303,7 @@
 + [面试官：说说看你知道的常见限流算法有哪些？它们的优缺点分别是什么？如何基于用户身份限流？](https://mp.weixin.qq.com/s/9l-hawV7Os4n1eppBqQ1uQ)
 + [分布式系统限流介绍](https://mp.weixin.qq.com/s/8JMVg6RKoY2zK9LdQ8po_w)
 + [常见限流算法介绍 和 Spring Cloud Sentinel使用方式](https://mp.weixin.qq.com/s/hXl6DGQuaPrglxUHbDQnlA)
++ [业务开发中的双重请求，优雅降级，熔断机制](https://mp.weixin.qq.com/s/X79Pu-tsUfiUwg17A4g3yQ)
 
 ### 大文件IO
 
@@ -456,6 +457,7 @@
 + [如何设计一个高并发系统？](https://mp.weixin.qq.com/s/WD618MbXUd_CehTAZkBWkA)
 + [如何快速同步第三方平台数据？](https://mp.weixin.qq.com/s/v9WKa-9C2w0UhmDQcVXmTw)
 + [延迟双删如此好用，为何大厂从来不用](https://mp.weixin.qq.com/s/CR7e6pjKd5cPdVnkq5mqbw)
++ [如何实现自动登录的功能](https://mp.weixin.qq.com/s/EkGClcmMCxb1Qz19is3A9Q)
 
 # 测试相关
 
@@ -471,6 +473,7 @@
 + [API接口文件包含+命令执行](https://mp.weixin.qq.com/s/LnMUi8-BjaUvq9hdQAOKmA)
 + [最牛逼的自动化测试工具：用Appium实现移动应用的自动化](https://mp.weixin.qq.com/s/MFZL8Y0TfjjUlXlKkrdbKQ)
 + [得物精准测试平台设计与实现](https://my.oschina.net/u/5783135/blog/16511939)
++ [关于API性能测试压力模型选择的思考](https://mp.weixin.qq.com/s/ZhGGC70AGIuhp7tu41w-Jw)
 
 # 领域相关
 

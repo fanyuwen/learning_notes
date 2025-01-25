@@ -32,6 +32,7 @@
 + [MQ消息的重复消费原因和解决策略](https://mp.weixin.qq.com/s/hIdu9lIzXUcEgLB6lWRVIA)
 + [招行面试：RocketMQ、Kafka、RabbitMQ，如何选型？](https://mp.weixin.qq.com/s/ddJimlqPaY_98UjLlgwTxA)
 + [MQ服务器崩溃，怎么确保消息不丢失？](https://mp.weixin.qq.com/s/9SEJgPE3O46KWAmHM-QzOQ)
++ [39. 如何确保你的消息只被消费一次？](https://mp.weixin.qq.com/s/P2SuWqBWa57OoBe6RBELNQ)
 
 # KAFKA
 

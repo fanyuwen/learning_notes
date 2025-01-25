@@ -88,6 +88,7 @@
 + [慢 SQL 打爆监控！亿级数据表的删除问题](https://mp.weixin.qq.com/s/IlFEasVJFJX4tI-N7-tBJg)
 + [MySQL+Redis，百万数据轻松优化](https://mp.weixin.qq.com/s/-gYAmpV9zVRiYSZbcSubag)
 + [字节2面：为了性能，你会违反数据库三范式吗？](https://mp.weixin.qq.com/s/9NGiiMJnJm0PYYwWEUiIeA)
++ [【java面试100问】84 为什么不推荐使用数据库自增主键？也不推荐使用UUID作主键，用雪花算法会有什么问题？](https://mp.weixin.qq.com/s/Osxz7DxwX4H1YDR1tYmIyw)
 
 ### 读写分离&分库分表
 
@@ -545,6 +546,9 @@
 + [Redis持久化锦囊在手，再也不会担心数据丢失了](https://mp.weixin.qq.com/s/VgKa1qgQarShT2VGSb1wng)
 + [你们的Redis在项目里怎么用的呀？](https://mp.weixin.qq.com/s/w5Wo3uKKZLxmyM0HsikYqw)
 + [妙！ 不改一行代码，如何做到Redis毫秒级大key发现？](https://mp.weixin.qq.com/s/UVu6IqUziXWni4t5p8nhAg)
++ [字节面试：百万用户同时抢1万张优惠券，Redis热点key性能瓶颈如何破解？](https://mp.weixin.qq.com/s/vK5FgN2xREEbxrGLgJiOPQ)
++ [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/cuOm_cY5I8MfEy-yW4qnFw)
++ [京东二面：Redis 为什么这么快？我说是纯内存操作，他对我笑了笑......](https://mp.weixin.qq.com/s/B89NN0mHWWJDC7pDovigHg)
 
 #### 原理
 
@@ -552,6 +556,7 @@
 + [Redis常见数据类型及其底层实现](https://mp.weixin.qq.com/s/V3eSGO50mEQx5hhlRYE-Vw)
 + [Redis命令之Set类型](https://mp.weixin.qq.com/s/LYJjFoyIa3h-8OvNv4y6Vw)
 + [Redis命令之SortedSet类型](https://mp.weixin.qq.com/s/l3gYqqC2JP2lrsIQ5N9uhA)
++ [阿里面试这样问：redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/tfEdl8rz82kwiSZLcm832A)
 + [数据的极速旅行：Redis高性能原理的深度剖析](https://mp.weixin.qq.com/s/dTh7MbzOZ8SJSYpNi7oA0Q)
 + [Redis为什么那么快：揭秘背后的高效秘密](https://mp.weixin.qq.com/s/FlQ3TIXrBgBeG_Npc-oNeA)
 + [吃透Redis系列：Redis为什么这么快](https://mp.weixin.qq.com/s/x-hg2Pk6uVyNJmyXNjYJ5A)

@@ -126,6 +126,7 @@
 + [腾讯二面：为什么数据库连接很消耗资源？我竟然答不上来。。一下懵了！](https://mp.weixin.qq.com/s/3wO9K7i74vd4CdfVtVjWFA)
 + [EXPLAIN TYPE 列的 JOIN 常见场景详解（上）](https://my.oschina.net/actiontechoss/blog/17090014)
 + [OLAP数据库性能的三驾马车](https://mp.weixin.qq.com/s/OrrXF0zATxyzIPlGOCcp6g)
++ [索引合并](https://mp.weixin.qq.com/s/a9c1qFdaCQUaGGASIEIOJg)
 
 ## 关系型数据库
 
@@ -550,6 +551,7 @@
 + [字节面试：百万用户同时抢1万张优惠券，Redis热点key性能瓶颈如何破解？](https://mp.weixin.qq.com/s/vK5FgN2xREEbxrGLgJiOPQ)
 + [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/cuOm_cY5I8MfEy-yW4qnFw)
 + [京东二面：Redis 为什么这么快？我说是纯内存操作，他对我笑了笑......](https://mp.weixin.qq.com/s/B89NN0mHWWJDC7pDovigHg)
++ [优化 Redis 性能：不容错过的 Pipelining 技术详解](https://mp.weixin.qq.com/s/4REf2FgRG_4zCeLMMqEQWQ)
 
 #### 原理
 

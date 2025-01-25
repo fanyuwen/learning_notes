@@ -78,6 +78,7 @@
 + [DDD 学习与感悟 —— 向屎山冲锋](https://my.oschina.net/u/4090830/blog/16528661)
 + [限界上下文：定义领域边界的利器](https://mp.weixin.qq.com/s/AO45OgKM_CdUHjSrXVThsA)
 + [一文搞懂企业架构与DDD的融合](https://mp.weixin.qq.com/s/KdN-3GUZw7zKBDqiFRgbaw)
++ [DDD实践：如何用DDD重构中台业务模型？](https://mp.weixin.qq.com/s/fuOEg55UnpuVKV7L7t7Bkw)
 
 ## 微服务
 
@@ -149,6 +150,7 @@
 + [几种分布式ID解决方案，总有一款适合你！](https://mp.weixin.qq.com/s/uV5agt4ybthD1dkTfPyV6w)
 + [整理10种分布式id生成方案](https://mp.weixin.qq.com/s/WZug18OOFMx_dfgT_4JxLQ)
 + [浅谈分布式 ID 的实践与应用](https://my.oschina.net/u/2550800/blog/4892264)
++ [分布式ID介绍（传统与开源方案）](https://mp.weixin.qq.com/s/niUO0YuxsrZETNFtETZm7A)
 + [分布式系统最全详解(万字图文总结)](https://mp.weixin.qq.com/s/uovxX-p0jVeTqy2HGwtNRw)
 + [从 ACID 到 CAP/BASE](https://my.oschina.net/OutOfMemory/blog/796248)
 + [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/PF-4mXuA2pa-PjqvTnbONg)

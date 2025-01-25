@@ -92,6 +92,7 @@
 + [python-sort()函数及lambda表达式用法](https://mp.weixin.qq.com/s/4xduEohcDWqwIUvzT4FghQ)
 + [python中函数传递列表元素的8种方法](https://mp.weixin.qq.com/s/6NA9HZJZwwHsAT8pOjfrDA)
 + [Python 50个常用内置函数解析](https://mp.weixin.qq.com/s/jmFOG0ZXri2upSzArlG4sg)
++ [Python函数设计：从反面案例到最佳实践](https://mp.weixin.qq.com/s/hRAPx6AmPoZKM8HimB56sw)
 
 ### 面向对象
 
@@ -188,6 +189,7 @@
 + [Python 与数据库交互的 15 个 SQL 查询技巧](https://mp.weixin.qq.com/s/L8Mq05iT0Jeq-NDUlBev1g)
 + [文件和数据存储](https://mp.weixin.qq.com/s/4vcskZguJvpxPmnlZXu_sQ)
 + [Python 查看模块方法](https://mp.weixin.qq.com/s/SZFZ9sbF40Z-CHWRXaw5aQ)
++ [Python生成器进阶：一文搞懂yield from的妙用](https://mp.weixin.qq.com/s/ROadwm_PNW4wkRd7jnb9ZQ)
 + [Python系列教程233——包导入时使用import还是from](https://mp.weixin.qq.com/s/gwW2fR2Wo5rD0RaZSb0x5Q)
 + [Python高手使用的21个系统交互命令](https://mp.weixin.qq.com/s/0S46AjpfjCKDR4MlZcZVrQ)
 + [高效使用Python工具自动生成模块文档的秘诀](https://mp.weixin.qq.com/s/40C9ckllnG9ss-2I4rDlLA)
@@ -728,6 +730,7 @@
 + [数据洞察力：Pandas DataFrame高级分析技巧](https://mp.weixin.qq.com/s/-s-Fc3K4aMMf_PsZz6wSdA)
 + [提升效率的 10 种 Pandas 数据操作方法](https://mp.weixin.qq.com/s/pjFpcXq8rebBkCbq2aqGMg)
 + [Python数据分析利器：解锁groupby和pivot_table](https://mp.weixin.qq.com/s/arelTBpM0quzB9Z8PkVi3A)
++ [beautifulsoup4：Python中的数据采集师](https://mp.weixin.qq.com/s/kN8Z7okPL4DEfjY-XUoxkA)
 
 ## 其它
 

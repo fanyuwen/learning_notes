@@ -139,6 +139,7 @@
 
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
++ [Mysql Explain 执行计划详解](https://mp.weixin.qq.com/s/eDbVPzlgK97MnRzE6WyNmA)
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [MySQL探秘之旅：总体架构介绍](https://mp.weixin.qq.com/s/0W1XWb4-D2AuimDsQijX9g)

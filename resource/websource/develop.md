@@ -53,6 +53,7 @@
 + [技术架构设计原则](https://mp.weixin.qq.com/s/wnxiCLRSc9M-22bMOdR0iw)
 + [架构实操：画好一张业务模型图](https://mp.weixin.qq.com/s/46eX_kLhNfNcPZxYG_LQmA)
 + [一文搞懂架构设计的衡量标准：功能性、可用性、性能、可扩展性、安全性、协作效率、复杂度、成本效益](https://mp.weixin.qq.com/s/4tGWFvuGhldRWOhvGKDm8w)
++ [深入解析18种软件架构设计模式 （6）- 最终篇](https://mp.weixin.qq.com/s/_UEGTsQ-om4szsWK8NBtVA)
 
 ### DDD
 
@@ -629,6 +630,7 @@
 + [Git 安装，配置与基本命令](https://mp.weixin.qq.com/s/j3p7I4Yh7MwZNt5CY0DDrA)
 + [Git是什么？其常用实战命令有哪些？已整理](https://mp.weixin.qq.com/s/PPEwpPa6FIKTEFj1f7RIzg)
 + [成为 Git 高手：30 条必会的Git命令备忘单](https://mp.weixin.qq.com/s/oF3mtHKnnXdx7uVF3WNYRg)
++ [10 个超实用 Git 命令，效率提升必备](https://mp.weixin.qq.com/s/IWBb6XJW5PK3gGQeRzge0g)
 
 ### 编程范式
 

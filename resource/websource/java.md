@@ -156,6 +156,7 @@
 + [Java 编程中的 9 个性能提升技巧](https://mp.weixin.qq.com/s/zhRyuU10SLK4QH6ReUK_sw)
 + [Java 8+ 的特性(Function)，策略模式变得更加优雅、高效，减少了代码冗余](https://mp.weixin.qq.com/s/d__VhU28KIcRvPFQC539rA)
 + [Java设计原则实战：如何优雅地设计类和接口](https://mp.weixin.qq.com/s/hEhvWzPiqlZYUQiyaYd9jg)
++ [什么样的老程序员，写出这么低级的 bug！](https://mp.weixin.qq.com/s/tVy0eQWxFtOdd2tdnzb5Hw)
 
 ## 代码质量
 
@@ -367,6 +368,7 @@
 
 + [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
++ [JVM内存布局](https://mp.weixin.qq.com/s/llu3Ke_lQNC40qA4N8tX-g)
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
@@ -526,6 +528,7 @@
 + [Java 集合框架中的老炮与新秀：HashTable 和 HashMap 谁更胜一筹？](https://mp.weixin.qq.com/s/cqCs0zljln5Q8d-jJRbkPA)
 + [从电商购物车到游戏排行榜，揭开 HashMap 和 TreeMap 的秘密！](https://mp.weixin.qq.com/s/0ZdYV3mSPnA56j5SbNTlZA)
 + [一次“面试翻车”后的思考：HashMap 和 ConcurrentHashMap 的区别到底在哪里？](https://mp.weixin.qq.com/s/A1EY5YSgiPn0bDZsUGWKYQ)
++ [HashMap 深入揭秘：从入门到大厂必备知识！](https://mp.weixin.qq.com/s/rbcUJl7hB_EqL_tPWoLLBA)
 
 ### Optional
 
@@ -807,6 +810,7 @@
 + [警惕内存溢出！Spring Boot 中必知的内存管理技巧](https://mp.weixin.qq.com/s/oaR6Pmk34yH7Ak3a4PGkmQ)
 + [开发技巧！@Lazy注解这5种用法非常实用](https://mp.weixin.qq.com/s/JT1bBq-D0pw6HFRvUtbjZg)
 + [掌握 Spring 框架这 10 个扩展点，让你的能力更上一层楼](https://mp.weixin.qq.com/s/dPTDOQV3XHbpbVSUvJE2lg)
++ [Spring扩展点整合业务实践](https://mp.weixin.qq.com/s/bkT_9V5l8LSBhlf2IKv6Iw)
 
 #### 原理&源码
 
@@ -947,6 +951,7 @@
 + [Spring 中经典的 9 种设计模式，打死也要记住啊！](https://mp.weixin.qq.com/s/GaT3J-U9XISyKdz3MXnOyw)
 + [Spring源码中是如何使用设计模式六大原则的](https://mp.weixin.qq.com/s/VlKGPtG9TXMXM9OncDt83A)
 + [Spring用到了哪些设计模式？](https://mp.weixin.qq.com/s/QrRvkS9m0KUmrIFr5AGkhg)
++ [Spring 四大设计模式解析：优雅架构的基石](https://mp.weixin.qq.com/s/jlrLkROCNULJTQqGBmCIwA)
 
 ### STATEMACHINE
 
@@ -988,6 +993,7 @@
 + [如何获取Spring代理对象？](https://mp.weixin.qq.com/s/VhzAxZEhu2wlHyUdMx6Ugg)
 + [Spring Boot 3.x AOP使用详解](https://mp.weixin.qq.com/s/4DdhhZYmhrBvlFlkR1hw5g)
 + [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/MHdHu-59jbWoYQ-1lbuJwg)
++ [3分钟彻底吃透 Spring AOP 编程技术！](https://mp.weixin.qq.com/s/YLlPAJEl09Kqci2Wjt005g)
 
 ### 配置打包部署
 
@@ -1039,6 +1045,7 @@
 + [重磅！Spring Cloud 2024 正式发布，迎来史诗级更新！](https://mp.weixin.qq.com/s/ifriTGfseySAfl2xMRRTVw)
 + [SpringCloud：Feign的原理是什么？](https://mp.weixin.qq.com/s/cGNr5t9gZl1L41jrkblOlA)
 + [Spring Cloud Nacos 配置管理](https://mp.weixin.qq.com/s/rB_ba7IWgWiBpuTDc7h48w)
++ [聊聊 Spring Cloud 全链路灰度发布 方案~](https://mp.weixin.qq.com/s/JwnWMBl6DOqc8wKHA3q7Xg)
 
 #### AI
 
@@ -1076,6 +1083,7 @@
 + [JSON结构化：Spring Boot 3.4 打造更强大的日志能力](https://mp.weixin.qq.com/s/I1m5B4ty8Lp3i-5-tPZmtA)
 + [Spring Boot 性能飙升500%！提升速度的终极武器](https://mp.weixin.qq.com/s/7IuGMOFZbO6rAUUfFsI4uQ)
 + [Spring Boot 开发中有 7 件事你必须知道](https://mp.weixin.qq.com/s/ZWwTZ9LVMJ2bVxw9uY0Klg)
++ [Spring Boot 开发者必备：这 7 个技巧你知道吗？](https://mp.weixin.qq.com/s/_qkdbTRKNG8_4aFyIYUwYA)
 + [踩了一堆坑，终于把微服务系统全面升级 JDK17 和 SpringBoot3 了](https://my.oschina.net/sticki/blog/15909409)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
@@ -1143,6 +1151,7 @@
 + [SpringBoot多租户3种架构实现方案详解](https://mp.weixin.qq.com/s/EEWQ94_8duDxZ0lDSdhvdw)
 + [使用 Spring Boot 在电商平台中动态调整促销信息](https://mp.weixin.qq.com/s/r_iY8dDay8vpIR6kukJawQ)
 + [Spring Boot 实现自定义注解、反射与 AOP 动态修改请求参数](https://mp.weixin.qq.com/s/hyL-zGhtIxflHQw1pSQCKQ)
++ [Spring Boot 基于 AOP 自定义注解实现通用功能](https://mp.weixin.qq.com/s/zrKQ7PwBO2xPciBNnLl9RQ)
 + [Spring Boot服务性能优化策略及代码示例](https://mp.weixin.qq.com/s/qfvfg8wKdkbfvMTVK0o27A)
 + [SpringBoot + Flowable并集成ui，写一个请假流程Demo](https://mp.weixin.qq.com/s/_3fMfpXcEnztsOTF5C-PoA)
 + [Springboot循环依赖解决办法](https://mp.weixin.qq.com/s/Kn-bYUeCw3n_2GpcwJ9UHw)
@@ -1816,6 +1825,7 @@
 + [Spring Boot 配置加载顺序](https://mp.weixin.qq.com/s/Y-0gtEw13ShA4YvpUG8BXA)
 + [优雅使用 Enum 提升 SpringBoot 配置管理效率](https://mp.weixin.qq.com/s/Gj9DBuTe1SCoaam26EzDtA)
 + [生产环境修改Spring Boot配置文件不重启也能实时生效](https://mp.weixin.qq.com/s/66adKelmelJ6vldOfA27tQ)
++ [技巧！Spring Boot 动态刷新及实时监控配置文件的变化](https://mp.weixin.qq.com/s/IaKjWOxIKcpvA2TlnfUdKw)
 
 #### 集成三方
 
@@ -2195,6 +2205,7 @@
 + [杀疯了，超越 EasyExcel 的新一代 Excel 处理神器](https://mp.weixin.qq.com/s/aE7pz8PqGBfbN304FzJBZg)
 + [使用 Solon Cloud Gateway 替换 Spring Gateway](https://mp.weixin.qq.com/s/H1somhXCLurIwRuJM-TpIw)
 + [强大！SQL解析神器JSQLParser](https://mp.weixin.qq.com/s/mkro_1bTGapsY6l0-4-E-Q)
++ [SpringBoot-JavaMail 实现邮件发送（一）](https://mp.weixin.qq.com/s/qHcT-TNJzpo21tOV6aBgjQ)
 
 # 其它环境
 

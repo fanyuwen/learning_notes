@@ -54,6 +54,7 @@
 + [Docker镜像文件太大？不妨试试多阶段构建](https://mp.weixin.qq.com/s/CZprDzBJHImr9yn276SMkw)
 + [如何减少docker镜像的体积](https://mp.weixin.qq.com/s/4NQHwaf8LWYC6J01PvQerg)
 + [Docker中的两个容器在服务器内网中互通](https://mp.weixin.qq.com/s/k1ULXDeJV38jJ72faSqTqQ)
++ [如何构建 Docker 镜像：从零开始的完整指南](https://mp.weixin.qq.com/s/b19NGnZN8XDAuKqTHFP0ug)
 
 ## podman
 

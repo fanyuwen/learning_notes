@@ -85,6 +85,7 @@
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
++ [Java Lambda表达式实现原理深入面试问答](https://mp.weixin.qq.com/s/m4aLviutBIiwUqVt2NquuA)
 + [常用的 Lambda 表达式案例解析](https://mp.weixin.qq.com/s/GbebKL50GagpLqD4vD9CgQ)
 + [Java后端：通过Function函数式接口与Lambda表达式简化代码](https://mp.weixin.qq.com/s/WXcunRlVYjnT2RQ3x2nS_A)
 + [java中常用的22种数据类型转换，超详细！](https://mp.weixin.qq.com/s/EPj8uSKVTMRM1KHNHIwlug)
@@ -304,9 +305,11 @@
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [Java面试高频题：守护线程和用户线程的区别详解](https://mp.weixin.qq.com/s/ljMCm7qFwgMHifUQYx2mFw)
 + [为什么循环调用wait()比if块更可靠？小米为你揭晓答案！](https://mp.weixin.qq.com/s/5y-Vuj6HtFobqpXYJ2bJlA)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [Java并发编程：深入理解Java线程状态](https://mp.weixin.qq.com/s/sO_ltlJcNMeIcOAKW0Nzzw)
++ [线程池设计中的高可用思想](https://mp.weixin.qq.com/s/rhqgq9mL5g4AG7HiWQV8ng)
 + [Java面试必备：4种线程创建方式，哪种最适合你？](https://mp.weixin.qq.com/s/sKJys8msGK3pzPft8Zmpsw)
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
 + [服务down机了，线程池中的数据如何保证不丢失？](https://mp.weixin.qq.com/s/m1LS3zF7eyd3L7zMPzJVfQ)
@@ -643,6 +646,7 @@
 + [ReentrantLock最全详解(实现原理及使用场景)](https://mp.weixin.qq.com/s/8YaNN2nCdFCjUTJBKOByNw)
 + [ReentrantLock在线程池中应用背后的那些事（四）](https://mp.weixin.qq.com/s/1F_8fqcAmKCmPbsCuR43Cg)
 + [ReentrantLock 示例及原理(Synchronized区别)](https://mp.weixin.qq.com/s/plBkXS0cw-q45OK1vwQqkA)
++ [ReentrantLock 公平锁 vs 非公平锁：如何取舍？实战限流场景的最佳实践](https://mp.weixin.qq.com/s/-w9-dojJtUI5sSAxPhITJA)
 + [java多线程（七）AQS（AbstractQueuedSynchronizer）技术解析：以赛跑起跑场景为例](https://mp.weixin.qq.com/s/LX3Dt4BQ_djEir64uQyh-A)
 + [面试题系列：Synchronized 和 ReentrantLock 的实现原理是什么？它们有什么区别？](https://mp.weixin.qq.com/s/AN0eKCARZAw11C1c040-qQ)
 + [ReentrantLock可重入、可打断、锁超时实现原理](https://mp.weixin.qq.com/s/OB2SzEdc-5I-sB3xK8nNtQ)
@@ -850,6 +854,8 @@
 + [深入理解SpringMVC工作原理，像大牛一样手写SpringMVC框架](https://mp.weixin.qq.com/s/Ck8ICf1aEzMO8eIqCPYSbw)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [面试官：说说 SpringMVC 工作原理！！](https://mp.weixin.qq.com/s/5lWWZbD87kEKMfMPmj7U5A)
++ [StreamingResponseBody：让大批量数据导出更加快速稳定](https://mp.weixin.qq.com/s/_eww0H_waQpKCeqaj2Wftg)
++ [深入解析：Spring中Filter与Interceptor的区别及正确用法](https://mp.weixin.qq.com/s/Hx7rDBsOHdoLznKel8_edg)
 + [Spring MVC 中，优雅处理异常的 6种方式！](https://mp.weixin.qq.com/s/RKZZ9NOqurZoVCr-nZdmUg)
 + [Spring接口版本控制方案及RequestMappingHandlerMapping接口介绍](https://mp.weixin.qq.com/s/6aGGk6xwD5jDRbVNqryc5g)
 + [如何在Spring中通过自定义注解EnumValue校验枚举值](https://mp.weixin.qq.com/s/W8EfPv16W-eMPctw6QjY6Q)
@@ -949,6 +955,7 @@
 + [Spring事务管理深度解析-从实践到原理](https://mp.weixin.qq.com/s/6OjiUGAoMBPGWef7DCwS0Q)
 + [面试官：你来讲讲Spring 事务管理机制](https://mp.weixin.qq.com/s/NjcTCkjVSgmEIq6LF0fdyw)
 + [一篇文章彻底搞懂 Spring 的事务](https://mp.weixin.qq.com/s/mo50IcW9pUKiV9MlAYtUYw)
++ [面试官：Spring 是如何管理事务的](https://mp.weixin.qq.com/s/haorBpULGh4ojTbbHeAYOg)
 
 ### Log
 
@@ -1004,6 +1011,7 @@
 + [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/MHdHu-59jbWoYQ-1lbuJwg)
 + [3分钟彻底吃透 Spring AOP 编程技术！](https://mp.weixin.qq.com/s/YLlPAJEl09Kqci2Wjt005g)
 + [面试官：Spring AOP 和 AspectJ AOP 有什么区别？](https://mp.weixin.qq.com/s/bfEHNvQxQ1ZVPH4RX1m2bQ)
++ [AOP中动态代理详解](https://mp.weixin.qq.com/s/wQV-Yo1-WPmq0dgBOUHPkg)
 
 ### 配置打包部署
 
@@ -1382,6 +1390,7 @@
 + [轻松掌握！如何在 Spring Boot 3.3 中实现基于角色的访问控制](https://mp.weixin.qq.com/s/fXu04gN_XuB3WFXzQB1A2w)
 + [Spring Boot 3.3 HTTP客户端配置秘籍：RestTemplate代理与WebClient超时详解](https://mp.weixin.qq.com/s/f5GlsKWA3w--VBz6oBwiJw)
 + [SpringBoot3.4.1和Spring Security6.4.2结合OAuth2实现GitHub授权登录](https://mp.weixin.qq.com/s/9_20B2kVehjHiikegw6LRA)
++ [Spring Boot 3.4.1 搭配 Spring Security 6.4.2 实现内存与 MySQL 双模式用户认证](https://mp.weixin.qq.com/s/Hba-qrcmDnIwmwUYQARYAA)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [SpringBoot 优雅参数校验](https://mp.weixin.qq.com/s/dl72n39er1QRCuus2voJdQ)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
@@ -1532,6 +1541,7 @@
 + [Spring Boot Rest API十大常见错误及避免方法](https://mp.weixin.qq.com/s/bfsuz8sZUNygtz8eRG0kag)
 + [Spring Boot 多版本API控制 5 种实现方案](https://mp.weixin.qq.com/s/wLsU1BySjJ8I17Z6bfOgmQ)
 + [高效开发！Spring Boot 动态 URI 加载最佳实践](https://mp.weixin.qq.com/s/ZeVgPHICKHftmhHxo0BNYg)
++ [大公司禁止Spring Boot项目使用Tomcat的背后考量](https://mp.weixin.qq.com/s/dPpXcCT78d-r61Q0B3WTqg)
 
 ##### VUE
 
@@ -1600,6 +1610,7 @@
 + [Spring Boot 3.3 实时数据同步方案：确保多端数据一致性](https://mp.weixin.qq.com/s/DrlHta9deWFEAqPsr4aVJA)
 + [Spring Boot 中 Redis 的用法详解](https://mp.weixin.qq.com/s/SrHoMuLMt5ODwolklgjNow)
 + [优雅！Spring Boot使用Flyway进行数据库脚本迁移管理](https://mp.weixin.qq.com/s/wx68EW7ruaNX925rWn5ILg)
++ [Redis 数据类型全攻略：Spring Boot 中的最佳实践与高级技巧](https://mp.weixin.qq.com/s/EHEZrJ5rluYvAgrzTHYC6w)
 
 ##### TRANSACTION
 
@@ -1684,6 +1695,7 @@
 + [Springboot中自定义监听器](https://mp.weixin.qq.com/s/GdriC2lLM-2oJEiICs0__Q)
 + [强大！Spring Boot 结合事件驱动架构，打造高效可扩展的订单处理系统](https://mp.weixin.qq.com/s/2HXRNl_jtxUVJJpRtNJkTw)
 + [Spring Boot 3 监听器详解（含源码解析）](https://mp.weixin.qq.com/s/pKVF0x4dROxkkHjO7G0GDg)
++ [Spring Boot 基于 ApplicationListener 的扩展应用](https://mp.weixin.qq.com/s/6xDwT4oPL_bBEp3BAigoNQ)
 
 #### CACHE
 
@@ -1867,6 +1879,7 @@
 + [SpringBoot3专栏-SpringBoot3.4.0整合Mybatis-plus和Mybatis](https://mp.weixin.qq.com/s/nyiA5qa2RDZ7i7XFhueZNA)
 + [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
 + [SpringBoot 集成 ShedLock，完美解决定时任务重复执行难题](https://mp.weixin.qq.com/s/0oU-wYOWEbipIXxnxTue_A)
++ [使用SpringBoot+MyBatis+MySQL实现图片上传](https://mp.weixin.qq.com/s/ODnDnOD5vruCwHTtXiD5eA)
 
 #### 自定义实现
 
@@ -2072,6 +2085,7 @@
 + [nacos2.3.2鉴权的一些坑](https://mp.weixin.qq.com/s/CABCpyZIZlXqi8OGwhGcvQ)
 + [Nacos升级导致Feign调用异常](https://mp.weixin.qq.com/s/KtEIWt7Ig0WH6KZv5VlDEA)
 + [Nacos学习圣经：从入门到精通 Nacos，最全详解 (30+图文全面总结)](https://mp.weixin.qq.com/s/q8MkXtQ6YGy32KqrQUNb_g)
++ [深入探讨Nacos服务注册与发现机制](https://mp.weixin.qq.com/s/emeWxHoQbpzxqGB-f7zsXQ)
 
 ## apollo
 
@@ -2157,6 +2171,7 @@
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [@Validated 如何在 List 上使用：批量验证中的小窍门](https://mp.weixin.qq.com/s/nLk_OKzc4EYSQmhkLjqduQ)
++ [数据库连接池大比拼：HikariCP vs Druid，谁更胜一筹？](https://mp.weixin.qq.com/s/XB92vzPDD26_t7JbNKJ8bg)
 + [不看血亏！9个工具类让JAVA开发效率原地起飞](https://mp.weixin.qq.com/s/R_yjl8SgjPpgbDfKybPJ1w)
 + [告别if else，推荐5款Java表达式引擎](https://mp.weixin.qq.com/s/iYuok9TqDEXmSqqQIDGHTQ)
 + [放弃Websocket，使用 SSE 仅用几行代码就能搞定这些功能！](https://mp.weixin.qq.com/s/_9RJ-b3yvWB5y0qXnujn3Q)

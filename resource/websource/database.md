@@ -552,6 +552,7 @@
 + [Redis实现分页+多条件模糊查询组合方案！](https://mp.weixin.qq.com/s/cuOm_cY5I8MfEy-yW4qnFw)
 + [京东二面：Redis 为什么这么快？我说是纯内存操作，他对我笑了笑......](https://mp.weixin.qq.com/s/B89NN0mHWWJDC7pDovigHg)
 + [优化 Redis 性能：不容错过的 Pipelining 技术详解](https://mp.weixin.qq.com/s/4REf2FgRG_4zCeLMMqEQWQ)
++ [Redis 中的内存碎片化是什么？如何进行优化？](https://mp.weixin.qq.com/s/4TnI9CwBXvcswcdWKQk10Q)
 
 #### 原理
 

@@ -60,6 +60,7 @@
 ## 适配器模式
 
 + [优化代码结构-适配器模式(Adapter Pattern)](https://mp.weixin.qq.com/s/ez-Y4kNi-WSDKhIen4xbUA)
++ [什么是适配器模式？它解决了什么问题？](https://mp.weixin.qq.com/s/HNHMCzNIH0goSb4SosreAQ)
 
 ## 策略模式
 

@@ -168,6 +168,7 @@
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 + [(二)漫谈分布式之理论篇：用刁钻的手法掰正你那学歪的CAP与BASE理论！](https://mp.weixin.qq.com/s/qFMPbWyEENqjv-FTtBQtHw)
 + [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
++ [分布式系统下的分库分表](https://mp.weixin.qq.com/s/CMgmpmMzEwGIEScLv2xZVw)
 
 ## 分布式锁
 

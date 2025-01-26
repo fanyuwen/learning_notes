@@ -344,6 +344,7 @@
 + [面试官：Nginx和Apache的区别是什么？如何解决前端跨域问题？Nginx如何限流？Nginx如何应对惊群效应？](https://mp.weixin.qq.com/s/UxccI4FEJpF_-zM-UXteQQ)
 + [Nginx如何实现高并发？原理深度解析!](https://mp.weixin.qq.com/s/S1-C3-__q9_OWlxeZOQQew)
 + [Nginx静态压缩和代码压缩，提高访问速度！](https://mp.weixin.qq.com/s/rW5X257mVyoubzzm-6Z5Zg)
++ [手把手教你，使用Nginx搭配Tomcat实现负载均衡!](https://mp.weixin.qq.com/s/KXQxu246DsjojO-p96udfA)
 
 ### wireshark
 

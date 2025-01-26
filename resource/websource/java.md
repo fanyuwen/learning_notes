@@ -305,10 +305,14 @@
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [Java面试必问！run() 和 start() 方法到底有啥区别？](https://mp.weixin.qq.com/s/V8Mox1IQEVMHOBgAQ9Ny_g)
++ [从JVM视角解密synchronized锁优化](https://mp.weixin.qq.com/s/coKHSmRFzmaa1CHMzVdHKA)
 + [Java面试高频题：守护线程和用户线程的区别详解](https://mp.weixin.qq.com/s/ljMCm7qFwgMHifUQYx2mFw)
 + [为什么循环调用wait()比if块更可靠？小米为你揭晓答案！](https://mp.weixin.qq.com/s/5y-Vuj6HtFobqpXYJ2bJlA)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
 + [Java并发编程：深入理解Java线程状态](https://mp.weixin.qq.com/s/sO_ltlJcNMeIcOAKW0Nzzw)
++ [Java 高级面试技巧：yield() 与 sleep() 方法的使用场景和区别](https://mp.weixin.qq.com/s/pmwlnrAaLps0kXRn4M3mSg)
++ [深入理解Java并发中的锁升级机制及其性能优化](https://mp.weixin.qq.com/s/vCJWuP8gxczhDOZKs1uvFQ)
 + [线程池设计中的高可用思想](https://mp.weixin.qq.com/s/rhqgq9mL5g4AG7HiWQV8ng)
 + [Java面试必备：4种线程创建方式，哪种最适合你？](https://mp.weixin.qq.com/s/sKJys8msGK3pzPft8Zmpsw)
 + [精通Java并发锁机制：24种锁技巧+业务锁匹配方案（第一部分）](https://mp.weixin.qq.com/s/MnjuaIBXTAolofiSw4A5jQ)
@@ -685,6 +689,7 @@
 + [CountDownLatch 和 CyclicBarrier 的区别](https://my.oschina.net/OutOfMemory/blog/157130)
 + [CountDownLatch / Semaphore 该如何使用？](https://mp.weixin.qq.com/s/bSBUo-qGSwtVn2Ncl5-YMw)
 + [Java中的Semaphore：灵活控制并发访问的秘诀](https://mp.weixin.qq.com/s/h0h9dPj7n6oEVwDmPM4XeA)
++ [面试官：讲一讲CountDownLatch 和 CyclicBarrier](https://mp.weixin.qq.com/s/FrgYeiStO7Dh-M6oghjVug)
 + [JAVA并发编程系列之Semaphore信号量剖析](https://mp.weixin.qq.com/s/C-DBUmGVdNstdOa0LezaWA)
 + [Java进阶篇 -- 线程同步（CountDownLatch）](https://mp.weixin.qq.com/s/BNs_m3Np-dVvOL2EqPLLCw)
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
@@ -851,6 +856,7 @@
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
 + [002架构师必修之java框架篇：springMVC有手就会](https://mp.weixin.qq.com/s/t-6qvY-NXevcrUInC4h1xA)
 + [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
++ [一文了解Spring MVC流程](https://mp.weixin.qq.com/s/5Y_FlCdhmpZPpPlGNbdQfw)
 + [深入理解SpringMVC工作原理，像大牛一样手写SpringMVC框架](https://mp.weixin.qq.com/s/Ck8ICf1aEzMO8eIqCPYSbw)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [面试官：说说 SpringMVC 工作原理！！](https://mp.weixin.qq.com/s/5lWWZbD87kEKMfMPmj7U5A)
@@ -1391,6 +1397,8 @@
 + [Spring Boot 3.3 HTTP客户端配置秘籍：RestTemplate代理与WebClient超时详解](https://mp.weixin.qq.com/s/f5GlsKWA3w--VBz6oBwiJw)
 + [SpringBoot3.4.1和Spring Security6.4.2结合OAuth2实现GitHub授权登录](https://mp.weixin.qq.com/s/9_20B2kVehjHiikegw6LRA)
 + [Spring Boot 3.4.1 搭配 Spring Security 6.4.2 实现内存与 MySQL 双模式用户认证](https://mp.weixin.qq.com/s/Hba-qrcmDnIwmwUYQARYAA)
++ [SpringBoot3.4.1和Spring Security6.4.2实现基于内存和MySQL的用户认证](https://mp.weixin.qq.com/s/EQP4JcyYnNDdy_EurdjhfA)
++ [Spring Boot 3.4 实现接口耗时记录：基于 ServletRequestHandledEvent 的优雅方案](https://mp.weixin.qq.com/s/kceAZZ22M_3NbiCQ4IrkOA)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [SpringBoot 优雅参数校验](https://mp.weixin.qq.com/s/dl72n39er1QRCuus2voJdQ)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
@@ -1880,6 +1888,7 @@
 + [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
 + [SpringBoot 集成 ShedLock，完美解决定时任务重复执行难题](https://mp.weixin.qq.com/s/0oU-wYOWEbipIXxnxTue_A)
 + [使用SpringBoot+MyBatis+MySQL实现图片上传](https://mp.weixin.qq.com/s/ODnDnOD5vruCwHTtXiD5eA)
++ [SpringBoot 整合 es 实现订单商品全模糊搜索，实战讲解！](https://mp.weixin.qq.com/s/JMeL1hgBpO5IsCxmPtUoKw)
 
 #### 自定义实现
 
@@ -2133,6 +2142,7 @@
 + [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
 + [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
 + [面试官：Lombok的@Data存在性能问题吗？](https://mp.weixin.qq.com/s/9yI1fm9326-VR9tehyNVAw)
++ [Lombok 中的 @Slf4j 注解--简化日志代码的利器](https://mp.weixin.qq.com/s/GOZD0ASrasNTqdY-MZcKqg)
 
 ## 字节码相关
 
@@ -2238,6 +2248,7 @@
 + [使用 Solon Cloud Gateway 替换 Spring Gateway](https://mp.weixin.qq.com/s/H1somhXCLurIwRuJM-TpIw)
 + [强大！SQL解析神器JSQLParser](https://mp.weixin.qq.com/s/mkro_1bTGapsY6l0-4-E-Q)
 + [SpringBoot-JavaMail 实现邮件发送（一）](https://mp.weixin.qq.com/s/qHcT-TNJzpo21tOV6aBgjQ)
++ [Liquibase，一个Java数据库变更的记录者！](https://mp.weixin.qq.com/s/-XFIAzH3Dyd1bm3plCSdqw)
 
 # 其它环境
 
@@ -2250,9 +2261,12 @@
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [全链路追踪必备技巧：ThreadLocal + 线程池，这些风险你不得不防！](https://mp.weixin.qq.com/s/XmRmpTQyrmYMwHo8gapBcQ)
++ [Java实战：一行代码搞定耗时性能追踪](https://mp.weixin.qq.com/s/S1fCHCovi-qHS5PTtmzPkg)
 + [Java HttpClient请求form-data格式，并设置boundary代码实现](https://mp.weixin.qq.com/s/Sz7r7PDuE1sqK-8ZDuhH0g)
 + [记一次 Jdk17 版本过低导致 Jenkins 无法执行 shell 命令问题](https://mp.weixin.qq.com/s/d4hXbK5Wv7QBtCvS6ALaWw)
 + [农银一面：Filter、Interceptor、Spring AOP 的执行顺序](https://mp.weixin.qq.com/s/pTOhdYt1z9FlzApy1Uwt-Q)
++ [Java 开发面试题精选：Nginx 一篇搞定](https://mp.weixin.qq.com/s/nECLsN6J4e2W61UkMq9eNQ)
 + [用Java实现一下这个报表功能。。。](https://mp.weixin.qq.com/s/dkNhItnY0fvNlRRC0uQGmw)
 + [一文吃透回调函数：编程世界的幕后使者](https://mp.weixin.qq.com/s/uxdrkGk2iKcFiq_MS7iWKg)
 + [一行代码引发的性能暴跌 10 倍](https://mp.weixin.qq.com/s/cBqYZ4KVWCHlzdiTPGyMWQ)

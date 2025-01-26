@@ -107,3 +107,4 @@
 + [Rust：横扫 C/C++/Go 的性能之王？](https://mp.weixin.qq.com/s/kJ5638HJgE9-tfJyFFYMXg)
 + [Go vs Rust: 2024年全面对比，谁才是你的最佳选择？](https://mp.weixin.qq.com/s/-nMQ14wY_rN1R-zT7Se1dQ)
 + [使用Rust打造属于自己的Pocsuite漏洞框架之闲谈篇](https://mp.weixin.qq.com/s/PZGgbPHuspCymQ36PAJdEg)
++ [用Rust重写近6万行C++代码是怎样的体验？](https://mp.weixin.qq.com/s/vBu8CQzA1cd5UVX4brzpLw)

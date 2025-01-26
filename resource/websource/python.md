@@ -667,6 +667,7 @@
 + [Pyngrok：用 Python 快速共享本地服务！](https://mp.weixin.qq.com/s/qvqNDKurADv_y0rIYC_vLA)
 + [Poetry：Python包和依赖管理工具，项目依赖管理的新选择](https://mp.weixin.qq.com/s/VOXU_yHlmjBGDJBhkDsWyQ)
 + [Polars：开启高性能数据处理的新时代！](https://mp.weixin.qq.com/s/1mMGaUvRohPpHkf0eoYFfQ)
++ [[Python生态] 轻松掌握 pre-commit：代码提交前的得力助手](https://mp.weixin.qq.com/s/bm8LwgkgVX1ormW-DWcmrw)
 
 ## 框架
 

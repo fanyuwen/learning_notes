@@ -83,6 +83,7 @@
 ## 微服务
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
++ [领域事件：解耦微服务的关键](https://mp.weixin.qq.com/s/HILiHuL1pDUhC1mwQ7KYVg)
 + [服务治理，是在谈什么？](https://mp.weixin.qq.com/s/B02g5uRABwemR0DfNeuPLA)
 + [2025年微服务架构的发展趋势预测](https://mp.weixin.qq.com/s/oM4CFGA7qfDecV978eEpeQ)
 + [运维加薪技术——微服务拆分规范](https://mp.weixin.qq.com/s/W3iCdtYIY2oNYL_lgAvuDQ)
@@ -549,6 +550,7 @@
 + [面试官之问：知道你的接口“QPS”是多少吗？](https://mp.weixin.qq.com/s/a2--oI2OaUVTHt_pB7wYBQ)
 + [高频面题： 你们线上 QPS 多少？你 怎么知道的？](https://mp.weixin.qq.com/s/Q8niqMkUhixL7NlQIUgvaA)
 + [13. 微博系统设计：怎么应对热点事件的突发访问压力？](https://mp.weixin.qq.com/s/hahfHACujS3iT2FDFJZ0rg)
++ [架构师：如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/nZRnTvqTHT3BdnyYbN9P0g)
 
 ## 领域知识
 
@@ -634,6 +636,9 @@
 + [Git是什么？其常用实战命令有哪些？已整理](https://mp.weixin.qq.com/s/PPEwpPa6FIKTEFj1f7RIzg)
 + [成为 Git 高手：30 条必会的Git命令备忘单](https://mp.weixin.qq.com/s/oF3mtHKnnXdx7uVF3WNYRg)
 + [10 个超实用 Git 命令，效率提升必备](https://mp.weixin.qq.com/s/IWBb6XJW5PK3gGQeRzge0g)
++ [git如何回退单个文件到指定版本](https://mp.weixin.qq.com/s/tCGjwWw1h9z2cLzno52XvQ)
++ [git 使用场景与常用命令解释](https://mp.weixin.qq.com/s/Hni4hKceScIDkLPQfWVq5A)
++ [掌握 Git 工作流：超越基础命令](https://mp.weixin.qq.com/s/xQefjb-8XkHFr4Gl_49wkw)
 
 ### 编程范式
 

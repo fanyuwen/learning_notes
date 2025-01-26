@@ -158,6 +158,7 @@
 + [Java 8+ 的特性(Function)，策略模式变得更加优雅、高效，减少了代码冗余](https://mp.weixin.qq.com/s/d__VhU28KIcRvPFQC539rA)
 + [Java设计原则实战：如何优雅地设计类和接口](https://mp.weixin.qq.com/s/hEhvWzPiqlZYUQiyaYd9jg)
 + [什么样的老程序员，写出这么低级的 bug！](https://mp.weixin.qq.com/s/tVy0eQWxFtOdd2tdnzb5Hw)
++ [告别空指针，Optional的最佳使用姿势！](https://mp.weixin.qq.com/s/4tnyRrdrTMObJv5p7Gcg0Q)
 
 ## 代码质量
 
@@ -303,8 +304,10 @@
 ### 并发/多线程
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [面试官：说一下线程池的核心参数](https://mp.weixin.qq.com/s/SSbeeKME7MDq08h9uQO_5w)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [面试官：谈谈线程池的工作原理](https://mp.weixin.qq.com/s/gQw1_4fYlf8KzDkyPTp5Tw)
 + [Java面试必问！run() 和 start() 方法到底有啥区别？](https://mp.weixin.qq.com/s/V8Mox1IQEVMHOBgAQ9Ny_g)
 + [从JVM视角解密synchronized锁优化](https://mp.weixin.qq.com/s/coKHSmRFzmaa1CHMzVdHKA)
 + [Java面试高频题：守护线程和用户线程的区别详解](https://mp.weixin.qq.com/s/ljMCm7qFwgMHifUQYx2mFw)
@@ -371,11 +374,13 @@
 + [Java并发编程：本质上只有一种创建线程的方法](https://mp.weixin.qq.com/s/fqgOjrtcXb0PiaEZtVrGZg)
 + [实现线程安全的11种方法](https://mp.weixin.qq.com/s/yErCS16bdw9EZoOto4cArg)
 + [面试官：什么是可重入锁](https://mp.weixin.qq.com/s/8Swfp-Y8L9znMyXzhpfVRg)
++ [Java社招面试中的高频考点：Callable、Future与FutureTask详解](https://mp.weixin.qq.com/s/binx0xPtU9HWVBRc9yxD4g)
 
 ## 源码
 
 + [面试题：ArrayList底层扩容七连问，不知道我顶不顶得住！](https://mp.weixin.qq.com/s/GsBlOoVsNkcbYp2wEH0Tbw)
 + [深入分析 Java 中的 PriorityQueue 底层实现与源码](https://my.oschina.net/u/4526289/blog/11048033)
++ [面试官：说下 LinkedList 的实现原理](https://mp.weixin.qq.com/s/JSY-ugnlHJCqkLLwFu1Nkw)
 
 ## jvm
 
@@ -584,6 +589,7 @@
 + [CompletableFuture 和 Future 它两之间存在着什么关系？](https://mp.weixin.qq.com/s/elxKeQNI-JOXmYAsOdEZNg)
 + [高并发架构设计：从 Java Callable 到 CompletableFuture 的进阶修炼](https://mp.weixin.qq.com/s/krC7-WhHMinNqYSkq9n6aA)
 + [Java CompletableFuture 的一些高级用法](https://mp.weixin.qq.com/s/nIWgr9Xjp28a8RebEXBYKw)
++ [异步编程利器：CompletableFuture 用法及实现原理详解](https://mp.weixin.qq.com/s/DAj0YOr0S3f-cjSFs261qA)
 
 ### ThreadPool
 
@@ -906,6 +912,7 @@
 
 ### security
 
++ [Spring Security，一个身份验证的卫士！](https://mp.weixin.qq.com/s/9TWxX7ValYVWGi7Nk4yE8A)
 + [一文让你彻底搞定Spring Security的基本使用](https://mp.weixin.qq.com/s/CGGmSWu--yNXXB-wQyUu_Q)
 + [强大！必须掌握！Spring Security这些技巧你知道吗？](https://mp.weixin.qq.com/s/suRpoAItbaAAuBj0A8_4bg)
 + [HttpSecurity 是如何组装过滤器链的](https://my.oschina.net/lenve/blog/11198493)
@@ -1070,6 +1077,7 @@
 + [SpringCloud：Feign的原理是什么？](https://mp.weixin.qq.com/s/cGNr5t9gZl1L41jrkblOlA)
 + [Spring Cloud Nacos 配置管理](https://mp.weixin.qq.com/s/rB_ba7IWgWiBpuTDc7h48w)
 + [聊聊 Spring Cloud 全链路灰度发布 方案~](https://mp.weixin.qq.com/s/JwnWMBl6DOqc8wKHA3q7Xg)
++ [使用 Spring Cloud Stream 实现事件驱动的微服务通信：应用消息中间件](https://mp.weixin.qq.com/s/_nQ1tnmZPZvRn1rpC5aYsw)
 
 #### AI
 
@@ -2045,6 +2053,7 @@
 + [分布式锁工具 Redisson，贼香！！](https://mp.weixin.qq.com/s/RaxP9HDssFItvtlArRSdQg)
 + [玩转Redis！非常强大的Redisson分布式集合，少写60%代码](https://mp.weixin.qq.com/s/rwMlS-ktAHrP3ShlOZPgkA)
 + [使用Redisson时，为何synchronized锁会失灵？](https://mp.weixin.qq.com/s/pcG-izAXi4sVWlDksoJK5w)
++ [Redis分布式锁及Redisson续期源码解析](https://mp.weixin.qq.com/s/1PVgrO7_M6vg_dmDHiTzaA)
 
 ## rxjava
 
@@ -2079,6 +2088,7 @@
 + [Log4j 2 与 SLF4J 互转的核心：log4j-slf4j-impl 和 log4j-to-slf4j](https://mp.weixin.qq.com/s/CGrJrZ9dInC-jpPin07M9Q)
 + [开发者必备：Log4j系列与Logback日志框架详解](https://mp.weixin.qq.com/s/bgqZ137DG7sRrJ5vuPXcGA)
 + [如何使用 SLF4J 的 MDC, 实现全链路追踪？](https://mp.weixin.qq.com/s/58AowEyTTTgx5D6pO4FVBA)
++ [SLF4J 桥接器及其原理--让你的旧代码也可以起飞](https://mp.weixin.qq.com/s/wfkfydoPChH577HpOg-ZXg)
 
 ## MapStruct
 
@@ -2157,6 +2167,7 @@
 ## 测试相关
 
 + [【技术探索新航向】从Java基础到Python测试开发：携手共赴技术之旅](https://mp.weixin.qq.com/s/IYadL9YPvT9US-SH5UvAhg)
++ [TestableMock：解锁Java单元测试的Mock能力](https://mp.weixin.qq.com/s/OvZOjkxRoYUxmVyUT4MfZA)
 
 ### jmeter
 

@@ -331,6 +331,7 @@
 + [这绝绝是bug吧？不是，这真的是feature。「该锁的不锁，不该锁的乱锁」](https://mp.weixin.qq.com/s/EasJ0NCi-ZYzEogDyOrU9A)
 + [【java面试100问】10 MySQL Update是行锁还是表锁？](https://mp.weixin.qq.com/s/_Z4e0YQBBB59aXNUQ-doUw)
 + [MySQL死锁日志详解：从原理到实践](https://mp.weixin.qq.com/s/sow_yTEjnE7zKSmIrQ3vGQ)
++ [面试官：MySQL中有哪几种锁，各自的特点是什么？MyISAM和InnoDB在锁机制的区别？行级锁实现原理？死锁的产生与排查？](https://mp.weixin.qq.com/s/_Q-zXUXxLWOkK0ceu0Ce0g)
 
 #### 事务
 

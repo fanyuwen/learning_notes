@@ -50,6 +50,7 @@
 
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [编程十年的感悟](https://mp.weixin.qq.com/s/S4ofBQ__F6JLUsQ_18OM-g)
++ [我一直在用 Java，但是我一直都不喜欢 Java！](https://mp.weixin.qq.com/s/XL5LDpd3jeCnu3IGCEh2zA)
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [如何写出正确的代码](https://mp.weixin.qq.com/s/_v9txbImwNg7wZ1arSokFQ)

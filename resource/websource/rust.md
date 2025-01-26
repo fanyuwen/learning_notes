@@ -108,3 +108,4 @@
 + [Go vs Rust: 2024年全面对比，谁才是你的最佳选择？](https://mp.weixin.qq.com/s/-nMQ14wY_rN1R-zT7Se1dQ)
 + [使用Rust打造属于自己的Pocsuite漏洞框架之闲谈篇](https://mp.weixin.qq.com/s/PZGgbPHuspCymQ36PAJdEg)
 + [用Rust重写近6万行C++代码是怎样的体验？](https://mp.weixin.qq.com/s/vBu8CQzA1cd5UVX4brzpLw)
++ [只用一行代码，就可以破坏Rust的内存安全](https://mp.weixin.qq.com/s/H2Z8vTi2cj2bl_ReoCHacg)

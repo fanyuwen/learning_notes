@@ -1,6 +1,7 @@
 # 未分组
 
 + [如何优雅的将设计模式运用到实际项目中去?](https://mp.weixin.qq.com/s/bJ_9HbdndyGQegcOM2oTMA)
++ [新项目，玩的真6！能把设计模式，提炼成通用框架！](https://mp.weixin.qq.com/s/9zPKVv-80xikXplLh_MFMQ)
 + [面试官：装饰器模式和代理模式之间的区别是什么？并说明各自适合的场景](https://mp.weixin.qq.com/s/eLEurHAs9db4S4Agq2yQBA)
 + [25000 字详解 23 种设计模式（多图 + 代码）](https://mp.weixin.qq.com/s/m3u6NGQq_bwdtOZfZvnOiQ)
 + [25000 字详解 23 种设计模式（多图 + 代码）](https://mp.weixin.qq.com/s/VTwFmwXTVljdcDLcp9RrtQ)
@@ -15,6 +16,7 @@
 + [github小众神项目，给人学的23个设计模式（不知道就亏大了）](https://mp.weixin.qq.com/s/snNCGvQKEiLEskiIIxqWIw)
 + [搞懂策略模式和模板方法模式](https://mp.weixin.qq.com/s/8P_-KFSJvNtnkNSTx3DgAQ)
 + [工厂+策略模式项目中结合使用](https://mp.weixin.qq.com/s/_u3rMOjqDoL5KuBJTSZ0tQ)
++ [Java 实现责任链模式 + 策略模式：优雅处理多级请求的方式](https://mp.weixin.qq.com/s/oSlxq_baRRVslcpPjDswcA)
 + [工作中最常用的 8 种设计模式](https://mp.weixin.qq.com/s/H6P7UVwXF_hqEeZUzyo1gg)
 + [揭秘 Java 与设计模式：编程路上的 “指南针” 与 “秘籍”](https://mp.weixin.qq.com/s/0lLI4HU2Fpmm6ggK4FUOUw)
 
@@ -67,6 +69,7 @@
 
 + [编程功底：设计模式之策略模式](https://mp.weixin.qq.com/s/xKUhsh3cyTa7gC021KmDkQ)
 + [优化代码结构-策略模式(Strategy Pattern)](https://mp.weixin.qq.com/s/Uw2lMWMq_WcTagV_EpFQUg)
++ [什么是策略模式？为什么需要策略模式？](https://mp.weixin.qq.com/s/1b-fCR8DhLji7gtKRRK1XA)
 
 ## 装饰器模式
 

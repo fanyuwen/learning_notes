@@ -37,6 +37,7 @@
 + [使用深度优先搜索（DFS）和广度优先搜索（BFS）解决八数码问题](https://mp.weixin.qq.com/s/wkgIygReX_TUoJzPE_q9ng)
 + [怎么用 Bitmap 来统计20亿用户中有多少用户在线？](https://mp.weixin.qq.com/s/t_V8-rB2yF5beebECX0dnA)
 + [同一段代码写N遍？通用树结构一次搞定](https://mp.weixin.qq.com/s/SdyRQUk1aOdf5Yq7ArRM7A)
++ [TOPK 算法](https://mp.weixin.qq.com/s/YWblUFCR5cgxUyofJCUg_Q)
 
 ## 排序算法
 

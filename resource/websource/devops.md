@@ -20,6 +20,7 @@
 + [掌握容器化持续集成/持续部署（CI/CD）的最佳实践](https://mp.weixin.qq.com/s/Q6P1QGUb3RpvVDJsN9fwoA)
 + [SRE常用工具和命令分享](https://mp.weixin.qq.com/s/WqvIgzLH0UwEL_4y1jguhA)
 + [Ansible：一键部署Keepalived高可用集群](https://mp.weixin.qq.com/s/drFUv6BQ9BOMLu_O3E7leQ)
++ [20. 在你上一家公司中是如何如何实现蓝绿发布的？](https://mp.weixin.qq.com/s/E65VazHROtx8AXJej8aL3A)
 
 ## JENKINS
 

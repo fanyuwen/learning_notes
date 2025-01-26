@@ -34,6 +34,7 @@
 + [MQ服务器崩溃，怎么确保消息不丢失？](https://mp.weixin.qq.com/s/9SEJgPE3O46KWAmHM-QzOQ)
 + [阿里二面：MQ 消息积压了，增加消费者有用吗？](https://mp.weixin.qq.com/s/JBEB3VuN5sFeQIt0_artZQ)
 + [39. 如何确保你的消息只被消费一次？](https://mp.weixin.qq.com/s/P2SuWqBWa57OoBe6RBELNQ)
++ [MQ中间件全解析：选择最适合你的消息队列解决方案](https://mp.weixin.qq.com/s/Mc8wIkWxRLIDIv_VAJMi5w)
 
 # KAFKA
 

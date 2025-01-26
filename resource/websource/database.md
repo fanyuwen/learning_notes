@@ -62,6 +62,8 @@
 + [SQL连接最全总结：提升你的数据库查询技能（建议收藏）](https://mp.weixin.qq.com/s/RQMgATBfHBhU_4kcxyjR2Q)
 + [SQL 语句是怎么执行的？](https://mp.weixin.qq.com/s/0dqfQDiZhIRwJkk28b4mBQ)
 + [为什么 LIMIT 0, 10 快，而 LIMIT 1000000, 10 慢？](https://mp.weixin.qq.com/s/4TmfgnmMoqd6uDIcouLt-w)
++ [SQL注入介绍](https://mp.weixin.qq.com/s/dcx8KtCe2bkV1BtpNN0QVA)
++ [SQL 全文本搜索深度解读](https://mp.weixin.qq.com/s/2zmmTIFgSyXA1GqKXVhlzA)
 
 # 本地数据库
 
@@ -392,6 +394,7 @@
 + [数据库基础 -- 索引及SQL优化](https://mp.weixin.qq.com/s/gMs1ylrAiKxW4rnDLvNFzQ)
 + [Mysql的死锁与索引的关系](https://mp.weixin.qq.com/s/CdLseWutFUWB5rGA2rXBhg)
 + [快速理解MySQL索引下推](https://mp.weixin.qq.com/s/4xMG0iMstsyvx7C4tQZ-ig)
++ [Mysql 优化器选错索引](https://mp.weixin.qq.com/s/B1NHNV0CTsmZrZdYqIZKUw)
 
 ### PostgreSQL
 

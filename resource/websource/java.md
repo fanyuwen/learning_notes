@@ -304,10 +304,12 @@
 ### 并发/多线程
 
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
-+ [面试官：说一下线程池的核心参数](https://mp.weixin.qq.com/s/SSbeeKME7MDq08h9uQO_5w)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [面试必看：如何设计一个可以优雅停止的线程？](https://mp.weixin.qq.com/s/A0XClBySYOyG-uejkjkpOA)
 + [面试官：谈谈线程池的工作原理](https://mp.weixin.qq.com/s/gQw1_4fYlf8KzDkyPTp5Tw)
++ [面试官：线程池的拒绝策略有哪些？](https://mp.weixin.qq.com/s/URtfIrpSk7fFgoc0_4DLEg)
++ [面试官：说一下线程池的核心参数](https://mp.weixin.qq.com/s/SSbeeKME7MDq08h9uQO_5w)
 + [Java面试必问！run() 和 start() 方法到底有啥区别？](https://mp.weixin.qq.com/s/V8Mox1IQEVMHOBgAQ9Ny_g)
 + [从JVM视角解密synchronized锁优化](https://mp.weixin.qq.com/s/coKHSmRFzmaa1CHMzVdHKA)
 + [Java面试高频题：守护线程和用户线程的区别详解](https://mp.weixin.qq.com/s/ljMCm7qFwgMHifUQYx2mFw)
@@ -456,6 +458,7 @@
 + [你在开发中遇到过OOM?怎么解决的](https://mp.weixin.qq.com/s/GL7w1XZWiTd9xa7mPWnW7A)
 + [8G的容器Java堆才4G怎么就OOM了？](https://mp.weixin.qq.com/s/wdgNL0GUsqPpRBoPh7yBSw)
 + [JIT 模式初探（上）：什么是 JIT？](https://mp.weixin.qq.com/s/PE2PqGRMf7v-YY9QI43Q_A)
++ [JIT 模式初探（中）：简单实现](https://mp.weixin.qq.com/s/45DQwNGTNdTmdj2jMfMv0w)
 
 # 核心库
 
@@ -548,6 +551,7 @@
 + [从电商购物车到游戏排行榜，揭开 HashMap 和 TreeMap 的秘密！](https://mp.weixin.qq.com/s/0ZdYV3mSPnA56j5SbNTlZA)
 + [一次“面试翻车”后的思考：HashMap 和 ConcurrentHashMap 的区别到底在哪里？](https://mp.weixin.qq.com/s/A1EY5YSgiPn0bDZsUGWKYQ)
 + [HashMap 深入揭秘：从入门到大厂必备知识！](https://mp.weixin.qq.com/s/rbcUJl7hB_EqL_tPWoLLBA)
++ [面试必备！一文搞懂HashMap如何优雅处理哈希冲突](https://mp.weixin.qq.com/s/Dalt0lwaltHUHCXl99XYrg)
 
 ### Optional
 
@@ -650,6 +654,7 @@
 + [ThreadLocal 实践与源码解析](https://mp.weixin.qq.com/s/WpkpPXodaBk7IfaRjsS8AA)
 + [面试官：为什么threadLocal有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/ZmG9V-J5YCkl7BdRUif4jw)
 + [面试官：ThreadLocal有哪些应用场景](https://mp.weixin.qq.com/s/vUxcCZMhXzRgmG4-Jr--_g)
++ [面试官：ThreadLocal的原理是什么？](https://mp.weixin.qq.com/s/KPyoz0uNikgD2vSkn6LO6g)
 
 ### Lock
 
@@ -946,6 +951,7 @@
 
 + [当 Redis 碰上 @Transactional，有大坑，要注意！](https://mp.weixin.qq.com/s/uaDvd_AEEgZlE6u2UomO3A)
 + [基于 @Transactional 的声明式事务原理剖析](https://mp.weixin.qq.com/s/lGuit30h4eGXSRfpJNNXHw)
++ [一篇文章彻底吃透 Spring 的事务实现](https://mp.weixin.qq.com/s/ycHTVlOtFduOyGNr29ttmw)
 + [精准分页攻略！Spring Boot 3.3 + MySQL 分库分表最佳实践](https://mp.weixin.qq.com/s/G8B0qvJ60Ly4HbzO4S_8Fg)
 + [探索Spring事务的迷宫](https://mp.weixin.qq.com/s/yDqUa35CMQayDOhjxpQWiQ)
 + [深入理解Spring框架中的声明式事务管理](https://mp.weixin.qq.com/s/yMN-QSkvEKRljmo8S7EYgw)
@@ -1101,6 +1107,7 @@
 + [SpringBoot 3.3 接口防抖的一些实现方案，超赞！](https://mp.weixin.qq.com/s/2eM0H7wvm6Mw852W7CpHcw)
 + [Spring Boot 3.3 五种异步处理提升系统吞吐量的策略与实践，彻底爱了！](https://mp.weixin.qq.com/s/mZAnOveHZ14dNasBLzXrdw)
 + [SpringBoot3.3 的条件装配，彻底爱了！](https://mp.weixin.qq.com/s/EooY-7hJY6xy2t-hZtG2MA)
++ [Spring Boot 3.3 的依赖升级攻略：告别兼容烦恼](https://mp.weixin.qq.com/s/YYHhfvbK6jtbYffCqr5DAw)
 + [高效维护API！Spring Boot 3.3实现灵活的API版本管理攻略](https://mp.weixin.qq.com/s/FJ50XknV2ezrD-AX6ve_gQ)
 + [强大！Spring Boot 3.3 构建通用库，彻底告别重复代码！](https://mp.weixin.qq.com/s/ulJGbyKhwfOqJ-UPWV2caw)
 + [惊喜发现！Spring Boot 3.3 的隐藏宝藏功能，不容错过！](https://mp.weixin.qq.com/s/K9JHq_bqDJIb8ebMhxtxkg)
@@ -1377,6 +1384,7 @@
 + [每个 Java 开发人员都应该掌握的 Spring Boot 高级概念](https://mp.weixin.qq.com/s/UTyu1lSg177fdi1yCLms3w)
 + [Spring Boot 3 的Aware接口详解（含源码解析）](https://mp.weixin.qq.com/s/rjxnVHtdIVJ66m8hymAVkg)
 + [公司来了位大佬，把SpringBoot项目启动时间从7分钟降到了40秒！](https://mp.weixin.qq.com/s/ZaoX3PTuoIqR7jkKZzHfDw)
++ [Spring Boot 中的加密算法：对称加密与非对称加密](https://mp.weixin.qq.com/s/Fymtyu-ACOUY5ZIt3D1Hjw)
 
 #### 分布式
 
@@ -1897,6 +1905,7 @@
 + [SpringBoot 集成 ShedLock，完美解决定时任务重复执行难题](https://mp.weixin.qq.com/s/0oU-wYOWEbipIXxnxTue_A)
 + [使用SpringBoot+MyBatis+MySQL实现图片上传](https://mp.weixin.qq.com/s/ODnDnOD5vruCwHTtXiD5eA)
 + [SpringBoot 整合 es 实现订单商品全模糊搜索，实战讲解！](https://mp.weixin.qq.com/s/JMeL1hgBpO5IsCxmPtUoKw)
++ [SpringBoot 引入 liteflow 规则引擎，太香了！](https://mp.weixin.qq.com/s/pWv0xyBtOu49VL80QIg95A)
 
 #### 自定义实现
 
@@ -1987,6 +1996,7 @@
 + [再见 MybatisPlus，阿里推出新 ORM 框架更牛X](https://mp.weixin.qq.com/s/QzuoUxCOX78JEnhQe9gIcA)
 + [Mybatis Plus 空字符串插入问题引起的思考](https://mp.weixin.qq.com/s/OybNWl8bmynv4MJvp_sX4Q)
 + [MyBatis-Plus（二）：resultType 的选择——int 与 java.lang.Integer 的区别](https://mp.weixin.qq.com/s/o1_-gXWomyzWtGpRTCWaZQ)
++ [性能提升 2000%！揭秘 MyBatis-Plus 批量插入的终极优化技巧](https://mp.weixin.qq.com/s/bmqRiv_LwZRgZDfiZInJpA)
 
 ## disruptor
 
@@ -2153,6 +2163,7 @@
 + [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
 + [面试官：Lombok的@Data存在性能问题吗？](https://mp.weixin.qq.com/s/9yI1fm9326-VR9tehyNVAw)
 + [Lombok 中的 @Slf4j 注解--简化日志代码的利器](https://mp.weixin.qq.com/s/GOZD0ASrasNTqdY-MZcKqg)
++ [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
 
 ## 字节码相关
 
@@ -2351,3 +2362,4 @@
 + [十年码农内功：缓存篇（第2版）](https://mp.weixin.qq.com/s/8lS2i76DwVLpgbCNPyTDyQ)
 + [一文解秘 Rust 如何与 Java 互操作](https://my.oschina.net/u/6304666/blog/16495845)
 + [MJGA：让 Java 再次伟大！SpringBoot 能否硬刚 Gin？](https://mp.weixin.qq.com/s/mrb4KSHya1jXLCuyV5TSCA)
++ [10 亿次嵌套循环性能对比，Python 表现最差](https://mp.weixin.qq.com/s/esY81rbIil0keaxrifErGg)

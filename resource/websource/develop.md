@@ -79,6 +79,7 @@
 + [限界上下文：定义领域边界的利器](https://mp.weixin.qq.com/s/AO45OgKM_CdUHjSrXVThsA)
 + [一文搞懂企业架构与DDD的融合](https://mp.weixin.qq.com/s/KdN-3GUZw7zKBDqiFRgbaw)
 + [DDD实践：如何用DDD重构中台业务模型？](https://mp.weixin.qq.com/s/fuOEg55UnpuVKV7L7t7Bkw)
++ [专业解读：DDD充血模型最佳实践](https://mp.weixin.qq.com/s/pAQwampvv9c3BaNts8A3Yw)
 
 ## 微服务
 
@@ -132,6 +133,7 @@
 + [【Java面试100题突击】13 注册中心挂了，或者服务挂了，应该如何处理？](https://mp.weixin.qq.com/s/igEPddv0fOIwfXTb1YaaAg)
 + [微服务与分布式系统设计看这篇就够了！](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw)
 + [微服务架构：10个实用设计模式](https://mp.weixin.qq.com/s/uCPbMvvrkCmHi7zSzFdM5A)
++ [读书笔记(22)--微服务应⽤安全解决⽅案](https://mp.weixin.qq.com/s/eUUlTcfOpi6-Sx9Pd_td8A)
 
 # 分布式
 
@@ -170,6 +172,7 @@
 + [(二)漫谈分布式之理论篇：用刁钻的手法掰正你那学歪的CAP与BASE理论！](https://mp.weixin.qq.com/s/qFMPbWyEENqjv-FTtBQtHw)
 + [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
 + [分布式系统下的分库分表](https://mp.weixin.qq.com/s/CMgmpmMzEwGIEScLv2xZVw)
++ [分布式微服务系统架构第88集：kafka集群](https://mp.weixin.qq.com/s/4JhSI7U7GXvQX3wNI35WwA)
 
 ## 分布式锁
 
@@ -329,6 +332,7 @@
 + [处理订单未支付并自动关闭](https://mp.weixin.qq.com/s/sH-LTdAJSUzKgGOz1jh-ZA)
 + [如何使用关闭延迟定时器来设计开启延迟定时器操作？](https://mp.weixin.qq.com/s/TStxEJ6D-A2B4BwUBgsPGg)
 + [订单超时自动取消的实现方案](https://mp.weixin.qq.com/s/ZKAumSPwn8EHtb8h490VOw)
++ [2. 电商平台中订单未支付过期如何实现自动关单？](https://mp.weixin.qq.com/s/e3-Z89A-QPgDJf9g9pSGtw)
 
 ## 缓存
 
@@ -508,6 +512,7 @@
 + [支付流程设计常见问题及最佳实践](https://mp.weixin.qq.com/s/7CwuuN7Yvbiz81K8YXe41A)
 + [一、架构实战——支付系统业务流程简介](https://mp.weixin.qq.com/s/wcYX6Z7vIm3xixpu8UGoxA)
 + [16. 如何设计一个支持 5 亿用户规模的网约车系统？](https://mp.weixin.qq.com/s/GBqq9mvAmA2O4wLl-DZ-XQ)
++ [六、架构实战——订单系统](https://mp.weixin.qq.com/s/bn6yDgnMzBuNThEWl-FlWA)
 
 ## 代码相关
 
@@ -570,6 +575,7 @@
 + [原来解析 JSON 数据有这么简单的方法](https://mp.weixin.qq.com/s/tNjvJXzwGEBScSg6HKJ4pg)
 + [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/EFU1lvsjKmfW37Ds7_UV8w)
 + [有了JSON，为什么还要HJSON？](https://mp.weixin.qq.com/s/fjuIX1Z6vKM53rm6Nopwlw)
++ [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/dEwq74Adlv9OyhWweVeaMA)
 
 ### 正则表达式
 

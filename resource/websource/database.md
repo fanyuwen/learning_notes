@@ -146,6 +146,7 @@
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [MySQL探秘之旅：总体架构介绍](https://mp.weixin.qq.com/s/0W1XWb4-D2AuimDsQijX9g)
++ [提升效率的秘密武器：MySQL 常用命令速查宝典](https://mp.weixin.qq.com/s/vkK0w9_U-P9yXxLzww_YgQ)
 + [美团二面拷打：MySQL中 SELECT 语句执行流程？](https://mp.weixin.qq.com/s/NGIhHHZ5deWk-7yU3V2U7w)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)
 + [面试官：MySQL一次到底插入多少条数据合适啊？](https://mp.weixin.qq.com/s/50kK9fx43sAY-4PiiSc7KA)
@@ -295,6 +296,8 @@
 + [如果 MySQL 的自增 ID 用完了，怎么解决？](https://mp.weixin.qq.com/s/5V9IhphM-_2k8QjMm68Zpg)
 + [别提桶跑路，MySQL 误删数据救命指南来了！](https://mp.weixin.qq.com/s/r4C8RzNzW7TK4ehUL0ON4Q)
 + [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
++ [MySQL生产环境GROUP BY优化实践](https://mp.weixin.qq.com/s/zrMBJbJwu4vlev-gmluLzA)
++ [深入解析 MySQL 通配符：提升模糊查询效率的必备技巧](https://mp.weixin.qq.com/s/wg1X62gjCn0d0I87HoLG6Q)
 
 #### 存储引擎
 
@@ -395,6 +398,7 @@
 + [Mysql的死锁与索引的关系](https://mp.weixin.qq.com/s/CdLseWutFUWB5rGA2rXBhg)
 + [快速理解MySQL索引下推](https://mp.weixin.qq.com/s/4xMG0iMstsyvx7C4tQZ-ig)
 + [Mysql 优化器选错索引](https://mp.weixin.qq.com/s/B1NHNV0CTsmZrZdYqIZKUw)
++ [【java面试100问】62 Hash索引和B+树索引的区别？](https://mp.weixin.qq.com/s/B11dBwdOyEWZ8vptf916Bw)
 
 ### PostgreSQL
 
@@ -558,6 +562,7 @@
 + [京东二面：Redis 为什么这么快？我说是纯内存操作，他对我笑了笑......](https://mp.weixin.qq.com/s/B89NN0mHWWJDC7pDovigHg)
 + [优化 Redis 性能：不容错过的 Pipelining 技术详解](https://mp.weixin.qq.com/s/4REf2FgRG_4zCeLMMqEQWQ)
 + [Redis 中的内存碎片化是什么？如何进行优化？](https://mp.weixin.qq.com/s/4TnI9CwBXvcswcdWKQk10Q)
++ [Redis的 9种数据结构，如何选择？](https://mp.weixin.qq.com/s/XET4UZlWk17yHhLUKZKFag)
 
 #### 原理
 
@@ -630,6 +635,7 @@
 ### Hbase
 
 + [死磕HBase(二)](https://mp.weixin.qq.com/s/AM4WSv2derkt_V0UV-EGFQ)
++ [Apache HBase](https://mp.weixin.qq.com/s/VB4yJNx7LcY8SDlXR0YQlA)
 
 ### MongoDB
 

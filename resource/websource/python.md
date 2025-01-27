@@ -670,6 +670,7 @@
 + [Poetry：Python包和依赖管理工具，项目依赖管理的新选择](https://mp.weixin.qq.com/s/VOXU_yHlmjBGDJBhkDsWyQ)
 + [Polars：开启高性能数据处理的新时代！](https://mp.weixin.qq.com/s/1mMGaUvRohPpHkf0eoYFfQ)
 + [[Python生态] 轻松掌握 pre-commit：代码提交前的得力助手](https://mp.weixin.qq.com/s/bm8LwgkgVX1ormW-DWcmrw)
++ [[每日分享]配置工具：python-decouple](https://mp.weixin.qq.com/s/GpPB8EQgGAIbnNvjlqXx3g)
 
 ## 框架
 
@@ -684,6 +685,7 @@
 ### FASTAPI
 
 + [FastAPI：这个Web框架比Flask快10倍，Django快40倍！](https://mp.weixin.qq.com/s/4LsE4TfeF8IlYOgR09-uAw)
++ [FastAPI，一个高效的 Web 框架](https://mp.weixin.qq.com/s/Kn2IyVzZnew21hJRTAtNBg)
 
 ### SQLAlchemy
 

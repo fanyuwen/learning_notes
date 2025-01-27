@@ -134,6 +134,7 @@
 + [微服务与分布式系统设计看这篇就够了！](https://mp.weixin.qq.com/s/wg_EkeogSkjGaChvsLsaVw)
 + [微服务架构：10个实用设计模式](https://mp.weixin.qq.com/s/uCPbMvvrkCmHi7zSzFdM5A)
 + [读书笔记(22)--微服务应⽤安全解决⽅案](https://mp.weixin.qq.com/s/eUUlTcfOpi6-Sx9Pd_td8A)
++ [读书笔记(21)--微服务注册发现⾼可⽤解决⽅案](https://mp.weixin.qq.com/s/ZQxUD_SkihiaTn-RQt7QZg)
 
 # 分布式
 
@@ -168,11 +169,11 @@
 + [分布式场景下的重试机制（二）](https://mp.weixin.qq.com/s/eVVQ16VoSaWrVJtSMmUJgA)
 + [分布式ID介绍](https://mp.weixin.qq.com/s/8QNqS83AyKSmJW_JTXRoyQ)
 + [美团一面：你能阐述一下CAP理论的基本概念和核心思想？说说它有哪些分布模型以及如何抉择？](https://mp.weixin.qq.com/s/U05xcnTpAl0OPcgMkdAP-g)
-+ [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 + [(二)漫谈分布式之理论篇：用刁钻的手法掰正你那学歪的CAP与BASE理论！](https://mp.weixin.qq.com/s/qFMPbWyEENqjv-FTtBQtHw)
 + [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
 + [分布式系统下的分库分表](https://mp.weixin.qq.com/s/CMgmpmMzEwGIEScLv2xZVw)
 + [分布式微服务系统架构第88集：kafka集群](https://mp.weixin.qq.com/s/4JhSI7U7GXvQX3wNI35WwA)
++ [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 
 ## 分布式锁
 
@@ -211,6 +212,7 @@
 + [分布式事务设计与实践](https://mp.weixin.qq.com/s/6ISxP0cwHRWwIiRchfGYbQ)
 + [分布式系统中的三阶段提交协议（3PC）实现（Java中使用Spring Boot实现)](https://mp.weixin.qq.com/s/ppclZQAeER2TlPRhhLXo4Q)
 + [分布式事务常见解决方案](https://mp.weixin.qq.com/s/SbA9pVAId61dY1APIOLsXg)
++ [分布式事务模型详解](https://mp.weixin.qq.com/s/cmYkYuN-86pDR5IdsGzwsw)
 
 ## 分布式算法
 
@@ -513,6 +515,7 @@
 + [一、架构实战——支付系统业务流程简介](https://mp.weixin.qq.com/s/wcYX6Z7vIm3xixpu8UGoxA)
 + [16. 如何设计一个支持 5 亿用户规模的网约车系统？](https://mp.weixin.qq.com/s/GBqq9mvAmA2O4wLl-DZ-XQ)
 + [六、架构实战——订单系统](https://mp.weixin.qq.com/s/bn6yDgnMzBuNThEWl-FlWA)
++ [37. 微信抢红包的功能是如何实现的，如果让你来做你怎么设计？](https://mp.weixin.qq.com/s/Qk6ShR-pNzhwN0uJmYfjfQ)
 
 ## 代码相关
 

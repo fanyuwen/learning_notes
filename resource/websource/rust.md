@@ -78,6 +78,7 @@
 + [Rust 并发执行异步操作](https://mp.weixin.qq.com/s/jK48_jyuBSGAeHJx6-TNmg)
 + [Rust 中基于 async 和 Future 的异步编程](https://mp.weixin.qq.com/s/lgZFhim3z2P2lDSvWBv7gA)
 + [解密Rust并发编程！Crossbeam让并发bug减少90%，内存性能翻倍](https://mp.weixin.qq.com/s/mmU8ggMHApAxIK-lNUpuOA)
++ [Rust 中的并发与异步：高效执行多个 Future 的技巧与方法](https://mp.weixin.qq.com/s/DFdwNYt5UBcHx1nETLLE1g)
 
 # 资源
 

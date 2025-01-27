@@ -17,6 +17,9 @@
 + [easy-query](https://github.com/dromara/easy-query)
 + [spring-retry](https://github.com/spring-projects/spring-retry)
 + [dozer](https://github.com/DozerMapper/dozer)
++ [eclipse-collections](https://github.com/eclipse-collections/eclipse-collections)
++ [hppc](https://github.com/carrotsearch/hppc)
++ [fastutil](https://github.com/vigna/fastutil)
 
 # PYTHON
 

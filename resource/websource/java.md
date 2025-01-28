@@ -312,12 +312,15 @@
 
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [招行面试：Java的线程如何通信？](https://mp.weixin.qq.com/s/ZwsD2DsujZfwIYfF0W6oeQ)
 + [面试必看：如何设计一个可以优雅停止的线程？](https://mp.weixin.qq.com/s/A0XClBySYOyG-uejkjkpOA)
 + [面试官：谈谈线程池的工作原理](https://mp.weixin.qq.com/s/gQw1_4fYlf8KzDkyPTp5Tw)
 + [面试官：线程池的拒绝策略有哪些？](https://mp.weixin.qq.com/s/URtfIrpSk7fFgoc0_4DLEg)
 + [面试官：说一下线程池的核心参数](https://mp.weixin.qq.com/s/SSbeeKME7MDq08h9uQO_5w)
++ [面试必备：什么是守护线程？为什么需要它？](https://mp.weixin.qq.com/s/-ImN0KJnsw60OygO2ABoQw)
 + [Java面试必问！run() 和 start() 方法到底有啥区别？](https://mp.weixin.qq.com/s/V8Mox1IQEVMHOBgAQ9Ny_g)
 + [从JVM视角解密synchronized锁优化](https://mp.weixin.qq.com/s/coKHSmRFzmaa1CHMzVdHKA)
 + [Java面试高频题：守护线程和用户线程的区别详解](https://mp.weixin.qq.com/s/ljMCm7qFwgMHifUQYx2mFw)
@@ -378,6 +381,7 @@
 + [主线程捕获子线程异常](https://mp.weixin.qq.com/s/iHWoNPd7cph4VnM__umUCA)
 + [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
 + [volatile关键字，他是如何保证可见性，有序性？](https://mp.weixin.qq.com/s/dcQMDw8aWx_KcFRw5ZLPnQ)
++ [美团一面：对 volatile了解吗？它是怎么解决并发问题的？原理是什么？](https://mp.weixin.qq.com/s/ZvfNyUO56ziyhTYyvRuGNw)
 + [如果你提交任务时，线程池队列已满，这时会发生什么？](https://mp.weixin.qq.com/s/BdsyUKvg1S-0Ar8tcYNW9g)
 + [原来，这才是JDK推荐的线程关闭方式](https://mp.weixin.qq.com/s/5T49yTy_BEkhXS26RCjbxg)
 + [面试官：单核 CPU 支持 Java 多线程吗？为什么？被问懵了！](https://mp.weixin.qq.com/s/BwMqY1yDzo8kZW7nBxtH0A)
@@ -694,6 +698,7 @@
 + [ConcurrentHashMap中有十个提升性能的细节，你都知道吗？](https://mp.weixin.qq.com/s/vZZQeWaKQ2pbUDyyqpzunQ)
 + [ConcurrentHashMap的演进：从Java 8之前到Java 17的实现原理深度剖析](https://mp.weixin.qq.com/s/KTb4_okkyVDszXwvvo3ybQ)
 + [别再被问懵了！ConcurrentHashMap面试攻略来了](https://mp.weixin.qq.com/s/jnEoKDSd83JqO6vsICYhKA)
++ [并发容器ConcurrentHashMap&ConcurrentSkipListMap实战及其原理分析](https://mp.weixin.qq.com/s/0cXp16jDOgCp-G3gvF5UzA)
 
 ### 其它
 
@@ -718,6 +723,7 @@
 + [BlockingQueue 示例及使用场景](https://mp.weixin.qq.com/s/-OLHoAUTkK3jrOxwM0w6gg)
 + [AtomicReference](https://mp.weixin.qq.com/s/SWua1GXlAvt0lG_DRS5usw)
 + [三个同步辅助类](https://mp.weixin.qq.com/s/nDb4wH8s0QViHfUcYVzAhA)
++ [并发容器（Map、List、Set）实战及其原理分析——CopyOnWriteArrayList篇](https://mp.weixin.qq.com/s/Gk_hIN7uOlkk09xMHgMVXw)
 
 ## IO/NIO
 
@@ -999,6 +1005,8 @@
 + [Spring源码中是如何使用设计模式六大原则的](https://mp.weixin.qq.com/s/VlKGPtG9TXMXM9OncDt83A)
 + [Spring用到了哪些设计模式？](https://mp.weixin.qq.com/s/QrRvkS9m0KUmrIFr5AGkhg)
 + [Spring 四大设计模式解析：优雅架构的基石](https://mp.weixin.qq.com/s/jlrLkROCNULJTQqGBmCIwA)
++ [【内含例子代码】Spring框架的设计模式应用（第二集）](https://mp.weixin.qq.com/s/sqxJonwXVXLH6xPtq8kZeQ)
++ [使用 Pipeline 模式解耦电商保险等复杂业务](https://mp.weixin.qq.com/s/Lv3Fx3KnVOMgjCjRQvh2lQ)
 
 ### STATEMACHINE
 
@@ -1101,6 +1109,7 @@
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/YB5xEQbHT8HwqcmjZ-6-wA)
 + [微服务架构的守护者：Spring Cloud Gateway 的强大过滤器体系详解](https://mp.weixin.qq.com/s/CrS_j29Pu8l1wIxRzwHUwQ)
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
++ [Spring Cloud Gateway 数字签名与 URL 动态加密的完美实践！](https://mp.weixin.qq.com/s/1ucchEcNatFCLTvzua-FRg)
 
 #### AI
 
@@ -1587,6 +1596,7 @@
 + [Spring Boot 多版本API控制 5 种实现方案](https://mp.weixin.qq.com/s/wLsU1BySjJ8I17Z6bfOgmQ)
 + [高效开发！Spring Boot 动态 URI 加载最佳实践](https://mp.weixin.qq.com/s/ZeVgPHICKHftmhHxo0BNYg)
 + [大公司禁止Spring Boot项目使用Tomcat的背后考量](https://mp.weixin.qq.com/s/dPpXcCT78d-r61Q0B3WTqg)
++ [Spring Boot开发者必看：内嵌Tomcat线程池配置与优化](https://mp.weixin.qq.com/s/N1BxeqAnWI8qunxRe56o2g)
 
 ##### VUE
 
@@ -1741,6 +1751,7 @@
 + [强大！Spring Boot 结合事件驱动架构，打造高效可扩展的订单处理系统](https://mp.weixin.qq.com/s/2HXRNl_jtxUVJJpRtNJkTw)
 + [Spring Boot 3 监听器详解（含源码解析）](https://mp.weixin.qq.com/s/pKVF0x4dROxkkHjO7G0GDg)
 + [Spring Boot 基于 ApplicationListener 的扩展应用](https://mp.weixin.qq.com/s/6xDwT4oPL_bBEp3BAigoNQ)
++ [解锁 Spring Boot 中 @EventListener 注解的正确用法](https://mp.weixin.qq.com/s/pvAPs4ibKpoZMxENBA7g0w)
 
 #### CACHE
 
@@ -1931,6 +1942,8 @@
 + [SpringBoot 整合 es 实现订单商品全模糊搜索，实战讲解！](https://mp.weixin.qq.com/s/JMeL1hgBpO5IsCxmPtUoKw)
 + [SpringBoot 引入 liteflow 规则引擎，太香了！](https://mp.weixin.qq.com/s/pWv0xyBtOu49VL80QIg95A)
 + [SpringBoot整合Resilience4j，解决长时间等待第三方API迟迟不响应的问题](https://mp.weixin.qq.com/s/1rnWoNYpS9fAyA2ACo7jrQ)
++ [Springboot快速集成Google Protobuf](https://mp.weixin.qq.com/s/fVhbLAeqt_6UIOgIO-nDsw)
++ [SpringBoot与Redisson整合，用注解方式解决分布式锁的使用问题](https://mp.weixin.qq.com/s/XgdKE2rBKL0-nFk2NJPuyg)
 
 #### 自定义实现
 
@@ -2201,6 +2214,7 @@
 + [“JVM” 上的AOP：Java Agent 实战](https://mp.weixin.qq.com/s/hQ-IdJXXa7rtisPn52G4CA)
 + [玩玩大厂都在用的 JavaAgent](https://mp.weixin.qq.com/s/7-6L8pvKelM8GAK5C_pl_Q)
 + [自己动手实现Agent统计API接口调用耗时](https://mp.weixin.qq.com/s/Wq61TXQ_mMgG1pqBRALGJQ)
++ [JavaAgent技术应用和原理：JVM持久化监控](https://mp.weixin.qq.com/s/lTxxzHqU0GJrb12FlFplJg)
 
 ## 测试相关
 
@@ -2300,6 +2314,8 @@
 + [SpringBoot-JavaMail 实现邮件发送（一）](https://mp.weixin.qq.com/s/qHcT-TNJzpo21tOV6aBgjQ)
 + [Liquibase，一个Java数据库变更的记录者！](https://mp.weixin.qq.com/s/-XFIAzH3Dyd1bm3plCSdqw)
 + [Quartz 架构和单体应用介绍，硬核干活！](https://mp.weixin.qq.com/s/atKoWsG6llNnJ99boNuajA)
++ [使用规则引擎改造任务系统](https://mp.weixin.qq.com/s/s6DaeK85bxTQe5yZup17Cw)
++ [JOOQ，一个Java查询的巫师！](https://mp.weixin.qq.com/s/9Jor157fRboB4T4-rvGvuA)
 
 # 其它环境
 

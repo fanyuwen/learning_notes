@@ -45,6 +45,7 @@
 + [当大厂变成裁员工厂，认真工作为何不再是护身符？](https://mp.weixin.qq.com/s/Ji2sw3-9NHB43O6OI7Pzyw)
 + [为什么大部分程序员成不了架构师?](https://mp.weixin.qq.com/s/9kl5yOAsDBXo9S544f30AA)
 + [大家有没有发现一个奇怪的现象：那些辞职失业后不上班的人，虽然没有工资，但是时间长了再也不想回去上班了。这是为什么？](https://mp.weixin.qq.com/s/FAV83Rh9HyF_eSVHSmOn1A)
++ [没有实际的高并发经验，面试如何吹一波牛？](https://mp.weixin.qq.com/s/AQXRVNI5aOzLFpCdhRPlHA)
 
 # 个人成长
 
@@ -182,6 +183,7 @@
 + [大多数人都还不知道：5 个绝不可错过的开源瑰宝！](https://mp.weixin.qq.com/s/3x4FSKmNV7Yg2ecZsY51WQ)
 + [18 个 GitHub 存储库助你提升开发者职业生涯](https://mp.weixin.qq.com/s/arFCf4yVJ_6Erhkykz2-vg)
 + [大厂程序员都在使用的开发工具](https://mp.weixin.qq.com/s/0ItcYqkKMwg4ryIXXb1-IA)
++ [效果媲美Cursor的开源替代：Roo-Cline](https://mp.weixin.qq.com/s/qCl64EhomOHDP4Q3DAZjYg)
 
 ## 开源资源
 

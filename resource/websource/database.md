@@ -64,6 +64,7 @@
 + [为什么 LIMIT 0, 10 快，而 LIMIT 1000000, 10 慢？](https://mp.weixin.qq.com/s/4TmfgnmMoqd6uDIcouLt-w)
 + [SQL注入介绍](https://mp.weixin.qq.com/s/dcx8KtCe2bkV1BtpNN0QVA)
 + [SQL 全文本搜索深度解读](https://mp.weixin.qq.com/s/2zmmTIFgSyXA1GqKXVhlzA)
++ [深入解析 SQL 计算字段：让数据查询更高效！](https://mp.weixin.qq.com/s/OEgRwF9irVmPz34osMirng)
 
 # 本地数据库
 
@@ -130,6 +131,7 @@
 + [EXPLAIN TYPE 列的 JOIN 常见场景详解（上）](https://my.oschina.net/actiontechoss/blog/17090014)
 + [OLAP数据库性能的三驾马车](https://mp.weixin.qq.com/s/OrrXF0zATxyzIPlGOCcp6g)
 + [索引合并](https://mp.weixin.qq.com/s/a9c1qFdaCQUaGGASIEIOJg)
++ [Redis和MySQL事务的区别是什么？](https://mp.weixin.qq.com/s/nj1h20phaIgoJXznCauVLA)
 
 ## 关系型数据库
 
@@ -340,6 +342,7 @@
 + [【java面试100问】10 MySQL Update是行锁还是表锁？](https://mp.weixin.qq.com/s/_Z4e0YQBBB59aXNUQ-doUw)
 + [MySQL死锁日志详解：从原理到实践](https://mp.weixin.qq.com/s/sow_yTEjnE7zKSmIrQ3vGQ)
 + [面试官：MySQL中有哪几种锁，各自的特点是什么？MyISAM和InnoDB在锁机制的区别？行级锁实现原理？死锁的产生与排查？](https://mp.weixin.qq.com/s/_Q-zXUXxLWOkK0ceu0Ce0g)
++ [Mysql 加锁机制与死锁分析](https://mp.weixin.qq.com/s/pWHpiw_7XS6sTEueB0ew8w)
 
 #### 事务
 
@@ -444,6 +447,7 @@
 
 ### REDIS
 
++ [为什么会出现 Redis？它有什么用？](https://mp.weixin.qq.com/s/zdAZNpWcWcgL0Zh0DDk-2A)
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
 + [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)

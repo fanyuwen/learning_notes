@@ -37,6 +37,7 @@
 + [这一新的 JavaScript 操作符绝对能改变游戏规则](https://mp.weixin.qq.com/s/AWqfaUAmdFCxpCV9591uTQ)
 + [Slice 还是 Splice? 熟悉JavaScript 2024 中的可变与不可变方法及其他](https://mp.weixin.qq.com/s/9ls-x-tKsJTwyaHJcgeBbA)
 + [一觉醒来，发现 try catch 要被淘汰了？](https://mp.weixin.qq.com/s/lDBWiadXChpmX4MV96ER8w)
++ [ES6新特性，你都会了吗？](https://mp.weixin.qq.com/s/qW6gqNSoByZYPPo1DiDGMA)
 
 ### 底层
 

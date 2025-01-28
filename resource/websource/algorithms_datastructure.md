@@ -38,6 +38,8 @@
 + [怎么用 Bitmap 来统计20亿用户中有多少用户在线？](https://mp.weixin.qq.com/s/t_V8-rB2yF5beebECX0dnA)
 + [同一段代码写N遍？通用树结构一次搞定](https://mp.weixin.qq.com/s/SdyRQUk1aOdf5Yq7ArRM7A)
 + [TOPK 算法](https://mp.weixin.qq.com/s/YWblUFCR5cgxUyofJCUg_Q)
++ [Roaring Bitmap 高效压缩位图原理与应用](https://mp.weixin.qq.com/s/ih9OTagYENF63OKpS1hLPw)
++ [彻底搞懂链表是如何工作的](https://mp.weixin.qq.com/s/0TYmRs4RuePLXXNL9ZWqiA)
 
 ## 排序算法
 

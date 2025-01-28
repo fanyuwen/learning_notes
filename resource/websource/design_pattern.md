@@ -91,6 +91,7 @@
 ## 观察者模式
 
 + [优化代码结构-观察者模式](https://mp.weixin.qq.com/s/z4B5n8bU1Lot3J_XNTYkzw)
++ [什么是观察者模式？它观察的是什么？](https://mp.weixin.qq.com/s/3QD2nJpUYX_oAcyWJ3ansQ)
 
 ## 原型模式
 

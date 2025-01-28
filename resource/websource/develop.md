@@ -136,6 +136,7 @@
 + [微服务架构：10个实用设计模式](https://mp.weixin.qq.com/s/uCPbMvvrkCmHi7zSzFdM5A)
 + [读书笔记(22)--微服务应⽤安全解决⽅案](https://mp.weixin.qq.com/s/eUUlTcfOpi6-Sx9Pd_td8A)
 + [读书笔记(21)--微服务注册发现⾼可⽤解决⽅案](https://mp.weixin.qq.com/s/ZQxUD_SkihiaTn-RQt7QZg)
++ [微服务架构模型：几种常见模型的对比和分析](https://mp.weixin.qq.com/s/aVBYoX0K8F2d4g7VboekVw)
 
 # 分布式
 
@@ -658,6 +659,7 @@
 + [高级开发者的代码规范化利器](https://mp.weixin.qq.com/s/9aTYrbcwhBqz_93kGpbWtg)
 + [怎样写出无BUG的代码？](https://mp.weixin.qq.com/s/0vL4ZuaCRZiOaOPnhLnFRw)
 + [好的代码应该具备哪些特性](https://mp.weixin.qq.com/s/ObqT3DO1fj8kUKdZsBa21A)
++ [拯救代码大作战：开发规范那些事儿](https://mp.weixin.qq.com/s/gvQrdxYtJ-bLlUMDRzplsw)
 
 ### 问题排查
 

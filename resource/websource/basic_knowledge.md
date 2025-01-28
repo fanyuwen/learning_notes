@@ -176,6 +176,7 @@
 
 + [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
 + [NPU 与 GPU 相比，有什么差别？| 技术速览](https://my.oschina.net/IDP/blog/15787377)
++ [GPU远程调用—原理篇](https://mp.weixin.qq.com/s/A2Fy7gPJQQbs1XjlZK6D_g)
 
 ## 网络基础
 

@@ -673,6 +673,7 @@
 + [Polars：开启高性能数据处理的新时代！](https://mp.weixin.qq.com/s/1mMGaUvRohPpHkf0eoYFfQ)
 + [[Python生态] 轻松掌握 pre-commit：代码提交前的得力助手](https://mp.weixin.qq.com/s/bm8LwgkgVX1ormW-DWcmrw)
 + [[每日分享]配置工具：python-decouple](https://mp.weixin.qq.com/s/GpPB8EQgGAIbnNvjlqXx3g)
++ [Python 秒变 “快枪手”：媲美 C 语言速度的秘密武器](https://mp.weixin.qq.com/s/8U08XC9wrnzJdkqnTgwZ1Q)
 
 ## 框架
 
@@ -699,6 +700,7 @@
 + [OpenCV教程03：绘制图形（线段、矩形、圆形、椭圆、多边形、箭头线）+水印文本](https://mp.weixin.qq.com/s/wyPPviaEHIWifz2-cKdNCw)
 + [OpenCV图像拼接改进算法之完美拼接](https://mp.weixin.qq.com/s/Om2Ncj3deRief15h02jr4Q)
 + [Python图像处理：OpenCV基础教程](https://mp.weixin.qq.com/s/bLVK43pdnqUK4_1_kDii1Q)
++ [OpenCV - 计算机视觉的基石，图像处理的Python库](https://mp.weixin.qq.com/s/kuxU60bkUiR3KkOakPvJnQ)
 
 ### VULKAN
 

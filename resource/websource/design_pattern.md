@@ -26,6 +26,8 @@
 
 # 常规设计模式
 
++ [最常用的7种设计模式](https://mp.weixin.qq.com/s/26JAYIuIKHajkgPRpWRZVQ)
+
 ## 原则
 
 + [SOLID设计原则，大结局！](https://mp.weixin.qq.com/s/99pqKNq0JnyNnEiy5KeRIg)
@@ -70,6 +72,7 @@
 + [编程功底：设计模式之策略模式](https://mp.weixin.qq.com/s/xKUhsh3cyTa7gC021KmDkQ)
 + [优化代码结构-策略模式(Strategy Pattern)](https://mp.weixin.qq.com/s/Uw2lMWMq_WcTagV_EpFQUg)
 + [什么是策略模式？为什么需要策略模式？](https://mp.weixin.qq.com/s/1b-fCR8DhLji7gtKRRK1XA)
++ [彻底搞懂策略模式](https://mp.weixin.qq.com/s/xuUrjKGFi_3aapawPywXgQ)
 
 ## 装饰器模式
 

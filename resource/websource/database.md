@@ -114,6 +114,7 @@
 + [拒绝盲目跟风，分库分表真的不是万能的！](https://mp.weixin.qq.com/s/hcFgl7w34LqXI2vVzNK4LA)
 + [百亿级分库分布的分片键怎么设计](https://mp.weixin.qq.com/s/Q3wMCEtv08B_4EJfJPQI2Q)
 + [面试官：水平分表如何选择sharding key？分表和分区有什么区别?从Innodb底层存储说明为什么需要做垂直分表？](https://mp.weixin.qq.com/s/vcK01PavP49_pWPofIdbRQ)
++ [分库分表 带来了哪些问题？](https://mp.weixin.qq.com/s/zwWiq6lnaH7WhikkosUBNg)
 
 ## 原理解析
 
@@ -303,6 +304,7 @@
 + [深入解析 MySQL 通配符：提升模糊查询效率的必备技巧](https://mp.weixin.qq.com/s/wg1X62gjCn0d0I87HoLG6Q)
 + [如何巧妙处理 MySQL NULL 值：提升查询性能与准确性](https://mp.weixin.qq.com/s/KcJ2I4Su7fIT9lCJ7UaN2A)
 + [MySQL中一个表最多能有多少个字段?](https://mp.weixin.qq.com/s/3wEmaohbyP5nImKIWUyfZg)
++ [MySQL中delete，drop，truncate的区别是什么？](https://mp.weixin.qq.com/s/E9xWB5OVZ-gq1gpSJKwVmA)
 
 #### 存储引擎
 
@@ -361,6 +363,7 @@
 #### 索引
 
 + [理解 Mysql 索引原理及特性 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10320986?s_trans=2197476363_&s_channel=4)
++ [MySQL 索引最左前缀匹配原则！](https://mp.weixin.qq.com/s/BW3B-cgkXK4a4uIDdIwkWg)
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
 + [设计索引的原则与使用技巧](https://mp.weixin.qq.com/s/u8SXgCWayRhrB2w98I4kSQ)
@@ -574,6 +577,7 @@
 + [Redis的这10个设计，真秒！](https://mp.weixin.qq.com/s/wjZtUcRfCoiknmsbXTVZKQ)
 + [Redis 主从复制及其实现](https://mp.weixin.qq.com/s/NezjJY2E--53HdKj2tm1OQ)
 + [Redis复制延迟，看看这10个原因！](https://mp.weixin.qq.com/s/-74WwoA4vbMQk5VUhSsxeg)
++ [小红书二面：Redis 集群中节点之间的通信方式？](https://mp.weixin.qq.com/s/ZYkbL4-sVia1kMW_ye0mRA)
 
 #### 原理
 

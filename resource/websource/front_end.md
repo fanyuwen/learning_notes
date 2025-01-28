@@ -56,6 +56,7 @@
 + [掌握JavaScript高阶函数，让你的代码更灵活](https://mp.weixin.qq.com/s/2LbbZCjPFGg7VAqugqTqIw)
 + [代码片段分享：我在JavaScript项目中这样用Object.assign](https://mp.weixin.qq.com/s/Zg-yh7qbDbC-9m08nytuBw)
 + [Js小技巧丨Array 的三个技巧](https://mp.weixin.qq.com/s/y7wSvuf9WZLYmbYlSOcNXQ)
++ [通过六个场景，告诉你 reduce 方法有多么强大！](https://mp.weixin.qq.com/s/1EbPYzqIqurCw3YmnPmPKA)
 + [10 个你可能不知道的高级 JavaScript 技术](https://mp.weixin.qq.com/s/OaJjJ0akCo7Vk5LlRQitvA)
 + [前端小知识：使用 Array.of() 轻松创建数组](https://mp.weixin.qq.com/s/5IXEmsfQRpHqRZC7tuVqGw)
 + [setTimeout 定时器，根本就不准时呀！](https://mp.weixin.qq.com/s/KGoQj91LjXsTuOqzkVt_Fw)

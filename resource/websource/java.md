@@ -48,6 +48,7 @@
 + [深入理解final关键字在并发编程中的应用](https://mp.weixin.qq.com/s/H9yxr75i_Tpfm8HgZFgNxw)
 + [Java中的静态属性 vs 实例属性：穿透迷雾看清本质](https://mp.weixin.qq.com/s/zCLLBzCp6ZI6m5voNpSGLg)
 + [深入理解 Java 中的 this 关键字：代码中的“自我引用”](https://mp.weixin.qq.com/s/7tHGEGBpgsQfPkrvN4P5Ig)
++ [只会“有序无序”？面试官嫌弃的List、Set、Map回答！](https://mp.weixin.qq.com/s/ymHiT3nphtC53rUqWzKz2A)
 
 ## 新语言特性
 
@@ -228,6 +229,7 @@
 + [Java高手必备：Comparable与Comparator接口深度解析](https://mp.weixin.qq.com/s/OTZhBAkYrxFxYtvhUV9WWw)
 + [深入解析 Java 包装类：为什么它们如此重要，以及它们如何工作？](https://mp.weixin.qq.com/s/WF0LpxjfAx6eLx9GFHxIeg)
 + [Java中8种字符串拼接方式，性能很意外](https://mp.weixin.qq.com/s/3gvNNKcYHehzfG3sqxM5gw)
++ [面试官：String 类的 intern 方法有什么作用？](https://mp.weixin.qq.com/s/kF4NTp7NztBbF9Ok_xfpeA)
 + [Java 排序神器：Comparable 和 Comparator 该怎么选？](https://mp.weixin.qq.com/s/KygJVNX0VdhjT4r_Srz5Rg)
 + [从源码到场景，用 5 分钟讲透 Array 和 ArrayList 的差异](https://mp.weixin.qq.com/s/ipW-ObQ6-Bp-vrImk3Wo8A)
 + [Java 程序中的潜在危机：深入探讨 NullPointerException｜得物技术](https://my.oschina.net/u/5783135/blog/16866949)
@@ -315,6 +317,8 @@
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
++ [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
++ [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
 + [招行面试：Java的线程如何通信？](https://mp.weixin.qq.com/s/ZwsD2DsujZfwIYfF0W6oeQ)
 + [面试必看：如何设计一个可以优雅停止的线程？](https://mp.weixin.qq.com/s/A0XClBySYOyG-uejkjkpOA)
 + [面试官：谈谈线程池的工作原理](https://mp.weixin.qq.com/s/gQw1_4fYlf8KzDkyPTp5Tw)
@@ -389,6 +393,7 @@
 + [实现线程安全的11种方法](https://mp.weixin.qq.com/s/yErCS16bdw9EZoOto4cArg)
 + [面试官：什么是可重入锁](https://mp.weixin.qq.com/s/8Swfp-Y8L9znMyXzhpfVRg)
 + [Java社招面试中的高频考点：Callable、Future与FutureTask详解](https://mp.weixin.qq.com/s/binx0xPtU9HWVBRc9yxD4g)
++ [如何利用 CAS 优化高频秒杀场景的库存扣减？](https://mp.weixin.qq.com/s/-zPh1WFdXzaUvAIR7dGgTw)
 
 ## 源码
 
@@ -860,6 +865,7 @@
 #### 原理&源码
 
 + [001架构师必修之java框架篇：春天（spring）来了](https://mp.weixin.qq.com/s/rUi2xxs_crWVaDUaZwNzAA)
++ [深入剖析Spring自动注入的实现原理](https://mp.weixin.qq.com/s/nQp_wA3Y9Kw8DB664tYjfQ)
 + [Spring IOC源码阅读(三)-Spring IOC容器的初始化过程](https://mp.weixin.qq.com/s/xTbohHZQhEr0PBASxS6xHQ)
 + [深入剖析 Spring 核心数据结构：BeanFactory](https://www.diguage.com/post/dive-into-spring-core-data-structure-bean-factory/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [浅谈Spring的多例Bean——Prototype原型](https://mp.weixin.qq.com/s/IpiIU39MG8bHDRNQImvnjw)
@@ -1666,6 +1672,8 @@
 + [Spring Boot 中 Redis 的用法详解](https://mp.weixin.qq.com/s/SrHoMuLMt5ODwolklgjNow)
 + [优雅！Spring Boot使用Flyway进行数据库脚本迁移管理](https://mp.weixin.qq.com/s/wx68EW7ruaNX925rWn5ILg)
 + [Redis 数据类型全攻略：Spring Boot 中的最佳实践与高级技巧](https://mp.weixin.qq.com/s/EHEZrJ5rluYvAgrzTHYC6w)
++ [Spring Boot JPA Oracle 最佳实践 20 条](https://mp.weixin.qq.com/s/svP9ysRlEz0n8N7322qvpA)
++ [深入理解 Spring Boot 与 Redis 集成的发布与订阅功能](https://mp.weixin.qq.com/s/JU0eCutWKyKOubiB9NiX1g)
 
 ##### TRANSACTION
 
@@ -1842,6 +1850,8 @@
 + [Spring Boot观察者模式实战](https://mp.weixin.qq.com/s/xvYwY1NkkWBdHPQwosSycg)
 + [动态切换策略模式在Spring Boot项目中的实践与应用](https://mp.weixin.qq.com/s/r_eTLTsZ77IsTZo6kf3EMw)
 + [优雅！Chain 结合 Spring Boot 轻松实现强大的责任链模式](https://mp.weixin.qq.com/s/S8acUL34CxgUdaNM8D8_Jg)
++ [颠覆认知：Spring Boot 结合外观模式简化复杂业务逻辑实战揭秘](https://mp.weixin.qq.com/s/to4A16fQZiI0UVYz5w9-Sg)
++ [Spring Boot + 装饰器模式：在线支付系统的最佳实践](https://mp.weixin.qq.com/s/HfjLNCn5bBEzaoTrhgrBQA)
 
 #### message
 
@@ -1910,6 +1920,7 @@
 + [优雅使用 Enum 提升 SpringBoot 配置管理效率](https://mp.weixin.qq.com/s/Gj9DBuTe1SCoaam26EzDtA)
 + [生产环境修改Spring Boot配置文件不重启也能实时生效](https://mp.weixin.qq.com/s/66adKelmelJ6vldOfA27tQ)
 + [技巧！Spring Boot 动态刷新及实时监控配置文件的变化](https://mp.weixin.qq.com/s/IaKjWOxIKcpvA2TlnfUdKw)
++ [Spring Boot 配置文件的高级用法与技巧](https://mp.weixin.qq.com/s/PBHqQAEbxXNbA0aXU9f6FQ)
 
 #### 集成三方
 
@@ -1933,6 +1944,7 @@
 + [Spring Boot 3.3 + Micrometer 2.0：监控性能炸裂，老板直呼内行！](https://mp.weixin.qq.com/s/NgeEtn24I_mNolR-8PCpXg)
 + [Spring Boot + Netty + WebSocket 实现消息推送](https://mp.weixin.qq.com/s/S6KP9powz4IwwmSQu8AJHg)
 + [SpringBoot 整合 Grizzly：突破并发瓶颈，打造高性能网站](https://mp.weixin.qq.com/s/bVJSKHq8pmQrYoMLA2GkNQ)
++ [SpringBoot整合Grizzly，提高您网站的并发能力](https://mp.weixin.qq.com/s/4w46v9b8JL5Fy0ZMx7wgqA)
 + [SpringBoot整合Flink，实现一个用户个性化推荐系统](https://mp.weixin.qq.com/s/h4gOvfOTHPwJBNQFzkdPGQ)
 + [SpringBoot3专栏-SpringBoot3.4.0整合Mybatis-plus和Mybatis](https://mp.weixin.qq.com/s/nyiA5qa2RDZ7i7XFhueZNA)
 + [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
@@ -1944,6 +1956,7 @@
 + [SpringBoot整合Resilience4j，解决长时间等待第三方API迟迟不响应的问题](https://mp.weixin.qq.com/s/1rnWoNYpS9fAyA2ACo7jrQ)
 + [Springboot快速集成Google Protobuf](https://mp.weixin.qq.com/s/fVhbLAeqt_6UIOgIO-nDsw)
 + [SpringBoot与Redisson整合，用注解方式解决分布式锁的使用问题](https://mp.weixin.qq.com/s/XgdKE2rBKL0-nFk2NJPuyg)
++ [Springboot集成Easy Rules引擎，实现一个商品优惠券系统](https://mp.weixin.qq.com/s/7FQ1bRBcILuJHIjOjz0eqw)
 
 #### 自定义实现
 
@@ -2316,6 +2329,7 @@
 + [Quartz 架构和单体应用介绍，硬核干活！](https://mp.weixin.qq.com/s/atKoWsG6llNnJ99boNuajA)
 + [使用规则引擎改造任务系统](https://mp.weixin.qq.com/s/s6DaeK85bxTQe5yZup17Cw)
 + [JOOQ，一个Java查询的巫师！](https://mp.weixin.qq.com/s/9Jor157fRboB4T4-rvGvuA)
++ [Java怎么连接远程主机执行linux命令](https://mp.weixin.qq.com/s/v_5Huz33yn48OIi5LXimKA)
 
 # 其它环境
 
@@ -2329,8 +2343,10 @@
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
 + [如何优雅的解决前后端跨域问题](https://mp.weixin.qq.com/s/noaHNvO5ySRegM33YFb1Eg)
++ [缓存的读写策略](https://mp.weixin.qq.com/s/aYkzHUwDXMmioccdLpG4Lg)
 + [全链路追踪必备技巧：ThreadLocal + 线程池，这些风险你不得不防！](https://mp.weixin.qq.com/s/XmRmpTQyrmYMwHo8gapBcQ)
 + [定时任务实现原理详解](https://mp.weixin.qq.com/s/vGyt3BNs5y5uqH6X_5fSsw)
++ [Java高手进阶：秒杀场景下的库存一致性解决方案](https://mp.weixin.qq.com/s/M4If-mEPcRdNG_lGyutCpw)
 + [Java实战：一行代码搞定耗时性能追踪](https://mp.weixin.qq.com/s/S1fCHCovi-qHS5PTtmzPkg)
 + [救命！Java Web项目中的MQ消息堆积让我抓狂](https://mp.weixin.qq.com/s/Np8EatFI2rPuIMFJQaFxSg)
 + [Java HttpClient请求form-data格式，并设置boundary代码实现](https://mp.weixin.qq.com/s/Sz7r7PDuE1sqK-8ZDuhH0g)

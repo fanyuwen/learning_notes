@@ -40,6 +40,8 @@
 + [TOPK 算法](https://mp.weixin.qq.com/s/YWblUFCR5cgxUyofJCUg_Q)
 + [Roaring Bitmap 高效压缩位图原理与应用](https://mp.weixin.qq.com/s/ih9OTagYENF63OKpS1hLPw)
 + [彻底搞懂链表是如何工作的](https://mp.weixin.qq.com/s/0TYmRs4RuePLXXNL9ZWqiA)
++ [高效编程的秘密武器：十种数据结构，你真的了解吗？(上)](https://mp.weixin.qq.com/s/iVf9Ztj_eKEuBQzaG-n3jQ)
++ [高效编程的秘密武器：十种数据结构，你真的了解吗？(下)](https://mp.weixin.qq.com/s/_Z_KaoQeZ9MH8UDMBZs9dg)
 
 ## 排序算法
 

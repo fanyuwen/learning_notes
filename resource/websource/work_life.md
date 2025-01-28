@@ -184,6 +184,7 @@
 + [18 个 GitHub 存储库助你提升开发者职业生涯](https://mp.weixin.qq.com/s/arFCf4yVJ_6Erhkykz2-vg)
 + [大厂程序员都在使用的开发工具](https://mp.weixin.qq.com/s/0ItcYqkKMwg4ryIXXb1-IA)
 + [效果媲美Cursor的开源替代：Roo-Cline](https://mp.weixin.qq.com/s/qCl64EhomOHDP4Q3DAZjYg)
++ [局域网传输神器 — LocalSend](https://mp.weixin.qq.com/s/UC2zVEb3KKWd0N-URsYFMw)
 
 ## 开源资源
 

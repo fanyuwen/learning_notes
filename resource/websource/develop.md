@@ -143,6 +143,7 @@
 ## 实践
 
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
++ [CAP / BASE 理论](https://mp.weixin.qq.com/s/AObZ64Wg15FbbejylNVjgQ)
 + [分布式系统一致性保障：CAP理论与BASE原则](https://mp.weixin.qq.com/s/Lb8Ujnlo-VHi8SLepy1qdA)
 + [字节面试：聊聊 CAP 定理？哪些中间件是AP？ 哪些是CP？ 说说 为什么？](https://mp.weixin.qq.com/s/es2pFSBMQLYDjzv_u3jT0w)
 + [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/zbEJdmkWdQC8WeVw-AAKbA)
@@ -324,6 +325,7 @@
 + [大文件切片上传，全网最简单的实现没有之一](https://mp.weixin.qq.com/s/0bFd6xs16Kajg853TOObAA)
 + [大文件秒传、断点续传和分片上传](https://mp.weixin.qq.com/s/4ty-x7MYKU_saPaavikN5w)
 + [实现大文件的断点下载、分片下载](https://mp.weixin.qq.com/s/2qB6vESIUw7YPk4rL16Lzw)
++ [如何实现大文件传输中的断点续传](https://mp.weixin.qq.com/s/hkZOXKjGEdoofl30vrgBcg)
 
 ### 超时&定时&异步调度
 

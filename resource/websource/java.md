@@ -2,6 +2,7 @@
 
 ## 基础
 
++ [常用的 Java 关键字解读！](https://mp.weixin.qq.com/s/4DzjwJzTSEtqOS3LbBCe_g)
 + [for-each 循环优先于传统的 for 循环](https://my.oschina.net/OutOfMemory/blog/95483)
 + [Java字符串](https://mp.weixin.qq.com/s/pHidkq4KGexrmsUmcW8c6g)
 + [double check lock](https://www.cs.umd.edu/~pugh/java/memoryModel/DoubleCheckedLocking.html)
@@ -46,6 +47,7 @@
 + [Java 泛型详细解析](https://my.oschina.net/u/4009705/blog/16563178)
 + [深入理解final关键字在并发编程中的应用](https://mp.weixin.qq.com/s/H9yxr75i_Tpfm8HgZFgNxw)
 + [Java中的静态属性 vs 实例属性：穿透迷雾看清本质](https://mp.weixin.qq.com/s/zCLLBzCp6ZI6m5voNpSGLg)
++ [深入理解 Java 中的 this 关键字：代码中的“自我引用”](https://mp.weixin.qq.com/s/7tHGEGBpgsQfPkrvN4P5Ig)
 
 ## 新语言特性
 
@@ -214,12 +216,14 @@
 + [七大陷阱！99%的Java开发者都会遇到](https://mp.weixin.qq.com/s/4XS2To0ntF5pZoc3GLmphg)
 + [Java 中如何优雅地处理 null 值](https://mp.weixin.qq.com/s/IhXXBAH2KMSjo4iOqcYoQA)
 + [java日常开发中如何写出优雅的好维护的代码](https://mp.weixin.qq.com/s/0k7TKat40f-oXi4TwYzP8A)
++ [【java面试100问】41 如何提升接口性能？](https://mp.weixin.qq.com/s/E8EgdoVMesClktEYPN2jBQ)
 
 # 底层
 
 ## 原理解析
 
 + [【java面试100问】07 为什么不能用浮点型表示金额？](https://mp.weixin.qq.com/s/hmm3ISAs5d9ZQLJ3-rZyTg)
++ [美团面试：new Integer("127") 和 Integer.valueOf("128") 有什么区别](https://mp.weixin.qq.com/s/tmuPhJ3cJ4FNpBg275iuLA)
 + [Java 中的这个绝对值有点不绝对啊！](https://my.oschina.net/u/4009705/blog/16874985)
 + [Java高手必备：Comparable与Comparator接口深度解析](https://mp.weixin.qq.com/s/OTZhBAkYrxFxYtvhUV9WWw)
 + [深入解析 Java 包装类：为什么它们如此重要，以及它们如何工作？](https://mp.weixin.qq.com/s/WF0LpxjfAx6eLx9GFHxIeg)
@@ -306,6 +310,7 @@
 
 ### 并发/多线程
 
++ [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
@@ -462,6 +467,7 @@
 + [8G的容器Java堆才4G怎么就OOM了？](https://mp.weixin.qq.com/s/wdgNL0GUsqPpRBoPh7yBSw)
 + [JIT 模式初探（上）：什么是 JIT？](https://mp.weixin.qq.com/s/PE2PqGRMf7v-YY9QI43Q_A)
 + [JIT 模式初探（中）：简单实现](https://mp.weixin.qq.com/s/45DQwNGTNdTmdj2jMfMv0w)
++ [【后端性能优化】接口耗时下降60%，CPU负载降低30%](https://mp.weixin.qq.com/s/Su9p7gDcTsWAX-6B-nJe_Q)
 
 # 核心库
 
@@ -510,6 +516,7 @@
 + [Java Stream API](https://mp.weixin.qq.com/s/-Vd0qolH96t113sJ3iEcKQ)
 + [Stream的reduce方法介绍](https://mp.weixin.qq.com/s/7AmJCJBgGSomveWvzP2S7Q)
 + [深度掌握 java stream 流操作，让你的代码高出一个逼格！](https://mp.weixin.qq.com/s/3XebEp8TD7M4jy6ZC2yANQ)
++ [小小 Stream，一篇文章拿捏它](https://mp.weixin.qq.com/s/ckMyputJ4A7XBQ4pzp4DhA)
 
 ### Date/time
 
@@ -555,6 +562,7 @@
 + [一次“面试翻车”后的思考：HashMap 和 ConcurrentHashMap 的区别到底在哪里？](https://mp.weixin.qq.com/s/A1EY5YSgiPn0bDZsUGWKYQ)
 + [HashMap 深入揭秘：从入门到大厂必备知识！](https://mp.weixin.qq.com/s/rbcUJl7hB_EqL_tPWoLLBA)
 + [面试必备！一文搞懂HashMap如何优雅处理哈希冲突](https://mp.weixin.qq.com/s/Dalt0lwaltHUHCXl99XYrg)
++ [探究 map 为什么不能遍历的同时进行增删操作](https://mp.weixin.qq.com/s/OFwro6zu9CK_jHdd-OQ2CA)
 
 ### Optional
 
@@ -1059,27 +1067,17 @@
 
 + [Open-Feign 你真的会用了吗？](https://mp.weixin.qq.com/s/jU9kavwQpmunQ1dYUKYsSQ)
 + [Spring Cloud 它是谁？它能做什么？](https://mp.weixin.qq.com/s/Iv-2dkCQfSmkpjUh5oW-Lg)
-+ [基于Spring Cloud Gateway，实现路由和负载均衡](https://mp.weixin.qq.com/s/SZngVSwQbZDojfu1NdhgMw)
-+ [Spring Cloud Gateway网关详解(作用功能及原理流程)](https://mp.weixin.qq.com/s/6HcS-x7bvatr4EzCCfgw9w)
-+ [Dubbo 和 Spring Cloud Gateway 有什么区别？](https://mp.weixin.qq.com/s/lHlXtccZ0DzWolfJh9cTlg)
-+ [Spring Cloud Gateway之路由转发](https://mp.weixin.qq.com/s/C6soFzPg6VII_DODWu2tpA)
 + [Spring Cloud 微服务实战入门（一）Eureka注册中心](https://mp.weixin.qq.com/s/iIf4GUk_AgwNwBJYyv9q6g)
 + [关于Spring Cloud Zuul 那些“不能说的秘密”！](https://mp.weixin.qq.com/s/FG4Vik6cHhIFatxkiL8sjQ)
-+ [3W字吃透：SpringCloud gateway底层原理和实操](https://mp.weixin.qq.com/s/Mtdv4-jJDhL_zYgrJpABpA)
 + [如何在Spring Cloud OpenFeign中实现请求的签名验证](https://mp.weixin.qq.com/s/LLXzu1dqnP38ZBYlOe0ugA)
 + [为什么加上RefeshScope注解，配置就能动态刷新了？](https://mp.weixin.qq.com/s/Ld21FnVEOYiC2bAQnMNHjw)
 + [Spring Cloud OpenFeign中的请求超时与重试机制详解](https://mp.weixin.qq.com/s/aawT8ZzkZcNvPXfaS9VD4w)
-+ [Spring Cloud Gateway 路由配置详解](https://mp.weixin.qq.com/s/NSdW_p17juzsKQems-evCQ)
-+ [微服务架构的守护者：Spring Cloud Gateway 的强大过滤器体系详解](https://mp.weixin.qq.com/s/CrS_j29Pu8l1wIxRzwHUwQ)
 + [Spring Cloud Feign：简化微服务的 HTTP 客户端](https://mp.weixin.qq.com/s/WojobdPyeyB87Nq6jGps5A)
 + [6大SpringCloud组件详解(图文全面总结)](https://mp.weixin.qq.com/s/wLPpDGK0RK_elZZJiAX79g)
 + [SpringCloud微服务架构详解(万字图文总结)](https://mp.weixin.qq.com/s/5-9aBeKz7unoyzr0QTkRyQ)
-+ [Spring Boot与Spring Cloud Gateway实现基于WebFlux的非阻塞路由](https://mp.weixin.qq.com/s/0u6ZAjTLyffPkslpjMPVOQ)
 + [美团一面：Spring Cloud 远程调用为啥要采用 HTTP，而不是 RPC？](https://mp.weixin.qq.com/s/idbVJ8KuQkbNVByzb2Do-Q)
-+ [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/YB5xEQbHT8HwqcmjZ-6-wA)
 + [认识 SpringCloud 核心组件](https://mp.weixin.qq.com/s/QXVmtayL9b6lSqAsiML8_w)
 + [Springcloud微服务合并，网关如何处理](https://mp.weixin.qq.com/s/uTbUqTtqJr-x-3TTGsozDQ)
-+ [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
 + [Spring Cloud 3.x 集成eureka快速入门Demo](https://mp.weixin.qq.com/s/s3GpVUo7uSZ-rZIqPhQdHw)
 + [SpringCloud 远程调用为啥要采用HTTP，而不是RPC？](https://mp.weixin.qq.com/s/eKucI44dlK9s93QP2vTkPg)
 + [006架构师必修之java框架篇：springCloud微服务轻松构建](https://mp.weixin.qq.com/s/pQka_6JneNVURcHPGzUfvw)
@@ -1089,6 +1087,20 @@
 + [Spring Cloud Nacos 配置管理](https://mp.weixin.qq.com/s/rB_ba7IWgWiBpuTDc7h48w)
 + [聊聊 Spring Cloud 全链路灰度发布 方案~](https://mp.weixin.qq.com/s/JwnWMBl6DOqc8wKHA3q7Xg)
 + [使用 Spring Cloud Stream 实现事件驱动的微服务通信：应用消息中间件](https://mp.weixin.qq.com/s/_nQ1tnmZPZvRn1rpC5aYsw)
+
+#### gateway
+
++ [快速入门-Spring Cloud Gateway](https://mp.weixin.qq.com/s/sHg4r6sSIDj47QvFksqxmw)
++ [基于Spring Cloud Gateway，实现路由和负载均衡](https://mp.weixin.qq.com/s/SZngVSwQbZDojfu1NdhgMw)
++ [Spring Cloud Gateway网关详解(作用功能及原理流程)](https://mp.weixin.qq.com/s/6HcS-x7bvatr4EzCCfgw9w)
++ [Dubbo 和 Spring Cloud Gateway 有什么区别？](https://mp.weixin.qq.com/s/lHlXtccZ0DzWolfJh9cTlg)
++ [Spring Cloud Gateway之路由转发](https://mp.weixin.qq.com/s/C6soFzPg6VII_DODWu2tpA)
++ [3W字吃透：SpringCloud gateway底层原理和实操](https://mp.weixin.qq.com/s/Mtdv4-jJDhL_zYgrJpABpA)
++ [Spring Cloud Gateway 路由配置详解](https://mp.weixin.qq.com/s/NSdW_p17juzsKQems-evCQ)
++ [Spring Boot与Spring Cloud Gateway实现基于WebFlux的非阻塞路由](https://mp.weixin.qq.com/s/0u6ZAjTLyffPkslpjMPVOQ)
++ [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/YB5xEQbHT8HwqcmjZ-6-wA)
++ [微服务架构的守护者：Spring Cloud Gateway 的强大过滤器体系详解](https://mp.weixin.qq.com/s/CrS_j29Pu8l1wIxRzwHUwQ)
++ [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
 
 #### AI
 
@@ -1391,6 +1403,9 @@
 + [Spring Boot 3 的Aware接口详解（含源码解析）](https://mp.weixin.qq.com/s/rjxnVHtdIVJ66m8hymAVkg)
 + [公司来了位大佬，把SpringBoot项目启动时间从7分钟降到了40秒！](https://mp.weixin.qq.com/s/ZaoX3PTuoIqR7jkKZzHfDw)
 + [Spring Boot 中的加密算法：对称加密与非对称加密](https://mp.weixin.qq.com/s/Fymtyu-ACOUY5ZIt3D1Hjw)
++ [Spring Boot 项目中使用静态方法和变量的陷阱](https://mp.weixin.qq.com/s/PmLXbykH92gzyjpGyClyqQ)
++ [Spring Boot 基于 BeanPostProcessor 扩展点应用示例(一)](https://mp.weixin.qq.com/s/DlSFOPUT89PxydSrUwjGOQ)
++ [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/RebT-FMbKbuykxYpWNlWkg)
 
 #### 分布式
 
@@ -1834,6 +1849,8 @@
 #### 配置打包部署
 
 + [告别 @Value！Spring Boot 3.3 更优雅的配置注入方式](https://mp.weixin.qq.com/s/T-KqgDVBauOW5OehKgy2Bw)
++ [SpringBoot自动配置的8个宝藏技巧！](https://mp.weixin.qq.com/s/zP2yw-xnRPQFkKHjFHs27w)
++ [揭秘 Spring Boot 自动装配原理：开启高效开发之门](https://mp.weixin.qq.com/s/1pkxUFimi8IpoY7MfkpymA)
 + [优雅使用 Enum 提升 SpringBoot 配置管理效率](https://mp.weixin.qq.com/s/w4er_AX3y3UnQ_hWrKqplA)
 + [使用Spring Boot集成Nacos进行配置管理](https://mp.weixin.qq.com/s/6I_pM3iFuBqPj0dr-DJNFQ)
 + [强大！Spring Boot敏感数据动态配置，这样做更安全](https://mp.weixin.qq.com/s/fKT2Y3f6dYUaxKQ_65yWtg)
@@ -1913,6 +1930,7 @@
 + [使用SpringBoot+MyBatis+MySQL实现图片上传](https://mp.weixin.qq.com/s/ODnDnOD5vruCwHTtXiD5eA)
 + [SpringBoot 整合 es 实现订单商品全模糊搜索，实战讲解！](https://mp.weixin.qq.com/s/JMeL1hgBpO5IsCxmPtUoKw)
 + [SpringBoot 引入 liteflow 规则引擎，太香了！](https://mp.weixin.qq.com/s/pWv0xyBtOu49VL80QIg95A)
++ [SpringBoot整合Resilience4j，解决长时间等待第三方API迟迟不响应的问题](https://mp.weixin.qq.com/s/1rnWoNYpS9fAyA2ACo7jrQ)
 
 #### 自定义实现
 
@@ -1989,6 +2007,7 @@
 + [这样理解 MyBatis缓存机制，真香！](https://mp.weixin.qq.com/s/glLItOA7ECFOpwOZHSdlvQ)
 + [MyBatis 内置连接池原理详解！](https://mp.weixin.qq.com/s/ujMAvAvExX0bSvUCqw-jPg)
 + [MyBatis缓存：深入理解一级缓存和二级缓存](https://mp.weixin.qq.com/s/9BPtuJTldaLTYAxXRvF4sQ)
++ [【java面试100问】92 Mybatis是如何进行分页的？](https://mp.weixin.qq.com/s/BNGfizkvTcHx2WxkEjSKjw)
 
 ### plus
 
@@ -2210,6 +2229,7 @@
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
++ [Apache Commons Lang，一个Java语言的魔法炼金术士！](https://mp.weixin.qq.com/s/uZJETm-DAw5g6jLyamnzqg)
 + [@Validated 如何在 List 上使用：批量验证中的小窍门](https://mp.weixin.qq.com/s/nLk_OKzc4EYSQmhkLjqduQ)
 + [数据库连接池大比拼：HikariCP vs Druid，谁更胜一筹？](https://mp.weixin.qq.com/s/XB92vzPDD26_t7JbNKJ8bg)
 + [不看血亏！9个工具类让JAVA开发效率原地起飞](https://mp.weixin.qq.com/s/R_yjl8SgjPpgbDfKybPJ1w)
@@ -2279,6 +2299,7 @@
 + [强大！SQL解析神器JSQLParser](https://mp.weixin.qq.com/s/mkro_1bTGapsY6l0-4-E-Q)
 + [SpringBoot-JavaMail 实现邮件发送（一）](https://mp.weixin.qq.com/s/qHcT-TNJzpo21tOV6aBgjQ)
 + [Liquibase，一个Java数据库变更的记录者！](https://mp.weixin.qq.com/s/-XFIAzH3Dyd1bm3plCSdqw)
++ [Quartz 架构和单体应用介绍，硬核干活！](https://mp.weixin.qq.com/s/atKoWsG6llNnJ99boNuajA)
 
 # 其它环境
 
@@ -2291,7 +2312,9 @@
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [如何优雅的解决前后端跨域问题](https://mp.weixin.qq.com/s/noaHNvO5ySRegM33YFb1Eg)
 + [全链路追踪必备技巧：ThreadLocal + 线程池，这些风险你不得不防！](https://mp.weixin.qq.com/s/XmRmpTQyrmYMwHo8gapBcQ)
++ [定时任务实现原理详解](https://mp.weixin.qq.com/s/vGyt3BNs5y5uqH6X_5fSsw)
 + [Java实战：一行代码搞定耗时性能追踪](https://mp.weixin.qq.com/s/S1fCHCovi-qHS5PTtmzPkg)
 + [救命！Java Web项目中的MQ消息堆积让我抓狂](https://mp.weixin.qq.com/s/Np8EatFI2rPuIMFJQaFxSg)
 + [Java HttpClient请求form-data格式，并设置boundary代码实现](https://mp.weixin.qq.com/s/Sz7r7PDuE1sqK-8ZDuhH0g)

@@ -415,6 +415,8 @@
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [Python库locust设计大规模并发压测场景，这些高级特性让性能瓶颈无处遁形！](https://mp.weixin.qq.com/s/M9gAFLi833XnwdkH1z7m1g)
 + [Python与Excel交互：openpyxl库安装及基本用法](https://mp.weixin.qq.com/s/jNJC-e0hkTydHfWpol4vcw)
++ [PyHamcrest，世界上最牛逼的断言匹配Python库！](https://mp.weixin.qq.com/s/SKGc243GN3miMxi9k-93Jw)
++ [Zstandard，世界上最牛逼的数据压缩Python库！](https://mp.weixin.qq.com/s/RpFKBfSaN8py96VdQ1TjIw)
 + [colorgetter，一个让你的代码焕然一新的Python库！](https://mp.weixin.qq.com/s/bNVbUBYLzmej1Y97r-OhOA)
 + [pycron，世界上最牛逼的定时任务调度Python库！](https://mp.weixin.qq.com/s/Sq-kH72MlJwbSgvYcv1LMg)
 + [dj-multidomain，一个Python中非常有用的库](https://mp.weixin.qq.com/s/5XcXlh8VWVJGxuy-Vls3pw)

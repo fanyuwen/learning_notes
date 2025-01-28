@@ -191,6 +191,7 @@
 + [Nest实现CRUD](https://mp.weixin.qq.com/s/3jlwTHx26rIw6pnPqZJiFw)
 + [npm install 和 lockfile 的一个误区](https://mp.weixin.qq.com/s/89qdePHAxPGeuYcMP_ySKg)
 + [在 Node.js 中操作 Redis 数据库](https://mp.weixin.qq.com/s/0qVQE32xWcRqVC2thUC3Pw)
++ [前端学习之NodeJS——browser-management](https://mp.weixin.qq.com/s/3YJXxoRKwoN1ppaUfqfMug)
 
 ## vite
 

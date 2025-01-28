@@ -112,6 +112,7 @@
 + [一口气搞懂分库分表 12 种分片算法，大厂都在用](https://mp.weixin.qq.com/s/fbWD1UTejWvDHK29gQn9HQ)
 + [拒绝盲目跟风，分库分表真的不是万能的！](https://mp.weixin.qq.com/s/hcFgl7w34LqXI2vVzNK4LA)
 + [百亿级分库分布的分片键怎么设计](https://mp.weixin.qq.com/s/Q3wMCEtv08B_4EJfJPQI2Q)
++ [面试官：水平分表如何选择sharding key？分表和分区有什么区别?从Innodb底层存储说明为什么需要做垂直分表？](https://mp.weixin.qq.com/s/vcK01PavP49_pWPofIdbRQ)
 
 ## 原理解析
 
@@ -298,6 +299,8 @@
 + [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
 + [MySQL生产环境GROUP BY优化实践](https://mp.weixin.qq.com/s/zrMBJbJwu4vlev-gmluLzA)
 + [深入解析 MySQL 通配符：提升模糊查询效率的必备技巧](https://mp.weixin.qq.com/s/wg1X62gjCn0d0I87HoLG6Q)
++ [如何巧妙处理 MySQL NULL 值：提升查询性能与准确性](https://mp.weixin.qq.com/s/KcJ2I4Su7fIT9lCJ7UaN2A)
++ [MySQL中一个表最多能有多少个字段?](https://mp.weixin.qq.com/s/3wEmaohbyP5nImKIWUyfZg)
 
 #### 存储引擎
 
@@ -399,6 +402,7 @@
 + [快速理解MySQL索引下推](https://mp.weixin.qq.com/s/4xMG0iMstsyvx7C4tQZ-ig)
 + [Mysql 优化器选错索引](https://mp.weixin.qq.com/s/B1NHNV0CTsmZrZdYqIZKUw)
 + [【java面试100问】62 Hash索引和B+树索引的区别？](https://mp.weixin.qq.com/s/B11dBwdOyEWZ8vptf916Bw)
++ [MySQL 索引的数据结构](https://mp.weixin.qq.com/s/9Q3KAedWv0M-uJBmkooKjA)
 
 ### PostgreSQL
 
@@ -563,6 +567,9 @@
 + [优化 Redis 性能：不容错过的 Pipelining 技术详解](https://mp.weixin.qq.com/s/4REf2FgRG_4zCeLMMqEQWQ)
 + [Redis 中的内存碎片化是什么？如何进行优化？](https://mp.weixin.qq.com/s/4TnI9CwBXvcswcdWKQk10Q)
 + [Redis的 9种数据结构，如何选择？](https://mp.weixin.qq.com/s/XET4UZlWk17yHhLUKZKFag)
++ [Redis的这10个设计，真秒！](https://mp.weixin.qq.com/s/wjZtUcRfCoiknmsbXTVZKQ)
++ [Redis 主从复制及其实现](https://mp.weixin.qq.com/s/NezjJY2E--53HdKj2tm1OQ)
++ [Redis复制延迟，看看这10个原因！](https://mp.weixin.qq.com/s/-74WwoA4vbMQk5VUhSsxeg)
 
 #### 原理
 

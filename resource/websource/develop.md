@@ -80,6 +80,7 @@
 + [一文搞懂企业架构与DDD的融合](https://mp.weixin.qq.com/s/KdN-3GUZw7zKBDqiFRgbaw)
 + [DDD实践：如何用DDD重构中台业务模型？](https://mp.weixin.qq.com/s/fuOEg55UnpuVKV7L7t7Bkw)
 + [专业解读：DDD充血模型最佳实践](https://mp.weixin.qq.com/s/pAQwampvv9c3BaNts8A3Yw)
++ [如何使用DDD设计微服务代码模型？](https://mp.weixin.qq.com/s/IZzK9BXGKAAEfW48aogsvg)
 
 ## 微服务
 
@@ -224,6 +225,7 @@
 + [Raft 算法浅析](https://my.oschina.net/OutOfMemory/blog/820189)
 + [深入理解一致性Hash和虚拟节点](https://mp.weixin.qq.com/s/FkO6oNInmHA_IzysZcMVkg)
 + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
++ [分布式一致性算法——Paxos](https://mp.weixin.qq.com/s/1OgeHkWEOFkfiy8uCta_Fw)
 
 # 组件设计
 
@@ -408,6 +410,7 @@
 + [您的 API 网关足够安全吗？](https://my.oschina.net/u/5246775/blog/16672740)
 + [2025开篇|揭密支付安全：为什么你的交易无法被篡改](https://mp.weixin.qq.com/s/xrblXEZcBX3q5PBE8ChV0g)
 + [支付系统加解密技术介绍及实践](https://mp.weixin.qq.com/s/Ox8mRkMD5oVp-8m3Zdwoyg)
++ [【java面试100问】39 敏感数据怎么加解密和传输？](https://mp.weixin.qq.com/s/_Kl_eBv8TRPRRTxPbZzt5A)
 
 ### 鉴权
 

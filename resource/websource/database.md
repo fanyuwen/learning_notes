@@ -430,6 +430,7 @@
 + [聊聊PostgreSQL数据库的高可用架构](https://mp.weixin.qq.com/s/mSMlfnu870LBvq2lmlITDw)
 + [关于 PostgreSQL 中 Linux 内存超分配知识要点](https://mp.weixin.qq.com/s/c4f6Nd0iCKMSMvBjTqDotA)
 + [深入解析PostgreSQL 15.8的窗口函数：高效数据处理的利器](https://mp.weixin.qq.com/s/R7dq-rAzN_cemm7rbYRX-A)
++ [Postgres内核 checkpoint 设计机制](https://mp.weixin.qq.com/s/3GSuookkNpjrLSk-pKVKWA)
 
 ### SQLSERVER
 
@@ -457,6 +458,7 @@
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
 + [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)
++ [工作中redis常用的5种场景](https://mp.weixin.qq.com/s/zLoOCvDYobi86S10iYOjhw)
 + [京东内部Redis性能优化最佳实践](https://mp.weixin.qq.com/s/7YTucEFx-5ieCZcy0CJa3g)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
 + [如何解决Redis热点Key问题](https://mp.weixin.qq.com/s/WFqcvnq4OdLO7L0SpNbwrg)
@@ -681,6 +683,10 @@
 ### InfluxQL
 
 [分析时序数据：如何从 InfluxQL 迁移到 SQL](https://mp.weixin.qq.com/s/KEscIB7MfRoowMwaHI_oeg)
+
+## 内存数据库
+
++ [交易系统【一】内存数据库](https://mp.weixin.qq.com/s/7l1ef_gGya8YPgmJsgFJdQ)
 
 ## 分布式数据库
 

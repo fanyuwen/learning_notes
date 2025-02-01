@@ -218,6 +218,7 @@
 + [Java 中如何优雅地处理 null 值](https://mp.weixin.qq.com/s/IhXXBAH2KMSjo4iOqcYoQA)
 + [java日常开发中如何写出优雅的好维护的代码](https://mp.weixin.qq.com/s/0k7TKat40f-oXi4TwYzP8A)
 + [【java面试100问】41 如何提升接口性能？](https://mp.weixin.qq.com/s/E8EgdoVMesClktEYPN2jBQ)
++ [工作 3 年的同事不懂 isEmpty 和 isBlank 的区别，我真是醉了。](https://mp.weixin.qq.com/s/5ZnIm8fsgjU0GApa5LqGEg)
 
 # 底层
 
@@ -316,11 +317,13 @@
 
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [深入理解并发原子性、可见性、有序性与JMM内存模型](https://mp.weixin.qq.com/s/TXDzrGp3H155UkirK93o1w)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
 + [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
++ [面试官：说说interrupt()、isInterrupted()、Thread.interrupted()的区别](https://mp.weixin.qq.com/s/kkg14Or_7VHG37gdIzz4oA)
 + [Java社招面试题：如何实现多线程之间的通讯和协作？](https://mp.weixin.qq.com/s/wlSOyIbOz7QJ0F7V_YtdcQ)
 + [招行面试：Java的线程如何通信？](https://mp.weixin.qq.com/s/ZwsD2DsujZfwIYfF0W6oeQ)
 + [面试必看：如何设计一个可以优雅停止的线程？](https://mp.weixin.qq.com/s/A0XClBySYOyG-uejkjkpOA)
@@ -482,6 +485,7 @@
 + [JIT 模式初探（上）：什么是 JIT？](https://mp.weixin.qq.com/s/PE2PqGRMf7v-YY9QI43Q_A)
 + [JIT 模式初探（中）：简单实现](https://mp.weixin.qq.com/s/45DQwNGTNdTmdj2jMfMv0w)
 + [【后端性能优化】接口耗时下降60%，CPU负载降低30%](https://mp.weixin.qq.com/s/Su9p7gDcTsWAX-6B-nJe_Q)
++ [jvm----垃圾回收](https://mp.weixin.qq.com/s/fc4OcfPrlrwv1wTugzsN9A)
 
 # 核心库
 
@@ -1184,6 +1188,7 @@
 + [提升SpringBoot项目稳定性：深入自定义异常处理机制](https://mp.weixin.qq.com/s/fJddi3vfnk9jKYKSmXNElg)
 + [【备忘录】常用Springboot漏洞利用姿势总结](https://mp.weixin.qq.com/s/pRwLkFSlVcev7srsMPRuqQ)
 + [Spring Boot性能提升的核武器，速度提升500%！](https://mp.weixin.qq.com/s/6jrdtK0jxl3EXi7k-Gkj3A)
++ [Spring Boot 性能飙升500%！提升速度的终极武器](https://mp.weixin.qq.com/s/JHo2LYYouT3AgingXxQGLA)
 + [SpringBoot这3个高级技能太强！非常实用](https://mp.weixin.qq.com/s/GTE9U0qnF2Ezuq0HjINwHg)
 + [SpringBoot实战：简单实现支付和转账功能](https://mp.weixin.qq.com/s/jFeY0HBM0KSUHtq5qrWFkA)
 + [SpringBoot实战：SpringBoot中的内置对象](https://mp.weixin.qq.com/s/mgqTjIP0oVG2nIuGSPGG9w)
@@ -1969,6 +1974,9 @@
 + [SpringBoot与Redisson整合，用注解方式解决分布式锁的使用问题](https://mp.weixin.qq.com/s/XgdKE2rBKL0-nFk2NJPuyg)
 + [Springboot集成Easy Rules引擎，实现一个商品优惠券系统](https://mp.weixin.qq.com/s/7FQ1bRBcILuJHIjOjz0eqw)
 + [Spring Boot + RabbitMQ 高级技巧：4 个非常实用功能](https://mp.weixin.qq.com/s/cnZnSAJVEQHjngLr_Tftzg)
++ [Spring Boot 整合 RabbitMQ：手动 ACK 与 QoS 配置详解](https://mp.weixin.qq.com/s/_jibjG9WlW5LBQnP42ks_g)
++ [Springboot集成OVal，解决微服务之间数据的一致性和有效性问题](https://mp.weixin.qq.com/s/TRTQDoqMeGvtI5hFBKVRaw)
++ [SpringBoot集成gRPC，解决微服务之间的快速高效的内部通信问题](https://mp.weixin.qq.com/s/KeGUf2JpN-EfOsAHZnElZg)
 
 #### 自定义实现
 

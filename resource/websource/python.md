@@ -412,9 +412,11 @@
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [PyWavelets，世界上最牛逼的小波变换Python库！](https://mp.weixin.qq.com/s/Z3l9YuPtHY9XUgZKysKHRw)
 + [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)
++ [Astropy，世界上最牛逼的天文数据处理Python库！](https://mp.weixin.qq.com/s/BCrMHWlokWQGNr0MhmS_WA)
 + [Niquests: 最简单和先进的Python HTTP 客户端，完美替换Requests](https://mp.weixin.qq.com/s/apiijqN56d5-HDNC-v0LCQ)
 + [揭秘Kivy：这款 Python 库写一个App竟然这么容易！](https://mp.weixin.qq.com/s/e535GaFeipWpnbyV4BEEWg)
 + [Python库locust设计大规模并发压测场景，这些高级特性让性能瓶颈无处遁形！](https://mp.weixin.qq.com/s/M9gAFLi833XnwdkH1z7m1g)
++ [Pyfiglet，世界上最牛逼的ASCII艺术字生成Python库！](https://mp.weixin.qq.com/s/XV8qhNUAWy7B1gT3wiES0A)
 + [Python与Excel交互：openpyxl库安装及基本用法](https://mp.weixin.qq.com/s/jNJC-e0hkTydHfWpol4vcw)
 + [PyHamcrest，世界上最牛逼的断言匹配Python库！](https://mp.weixin.qq.com/s/SKGc243GN3miMxi9k-93Jw)
 + [Zstandard，世界上最牛逼的数据压缩Python库！](https://mp.weixin.qq.com/s/RpFKBfSaN8py96VdQ1TjIw)
@@ -675,6 +677,7 @@
 + [[Python生态] 轻松掌握 pre-commit：代码提交前的得力助手](https://mp.weixin.qq.com/s/bm8LwgkgVX1ormW-DWcmrw)
 + [[每日分享]配置工具：python-decouple](https://mp.weixin.qq.com/s/GpPB8EQgGAIbnNvjlqXx3g)
 + [Python 秒变 “快枪手”：媲美 C 语言速度的秘密武器](https://mp.weixin.qq.com/s/8U08XC9wrnzJdkqnTgwZ1Q)
++ [pyPortMan：跨平台多账户管理，自动化交易高效工具](https://mp.weixin.qq.com/s/pb1NlbI2x2BGC4CNQz09_w)
 
 ## 框架
 

@@ -176,6 +176,10 @@
 + [open与fopen的区别](https://mp.weixin.qq.com/s/kGc4VIcMu6SKx1hQr303xw)
 + [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
 
+### 资讯
+
++ [为什么用C语言编写操作系统？](https://mp.weixin.qq.com/s/hWzSquCfwRcGRmKpiBtgRg)
+
 ## verilog
 
 + [verilog行为建模(六)：循环语句](https://mp.weixin.qq.com/s/3_4hbDSxEqBYlCCs2Zvy-w)

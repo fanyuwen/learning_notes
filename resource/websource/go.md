@@ -121,6 +121,7 @@
 + [带你手写一个连接池，拿捏面试官！](https://mp.weixin.qq.com/s/1EL7fAnBw9v2mkqgy35tvA)
 + [设计模式 in Go：Factory](https://mp.weixin.qq.com/s/XP-TywpHN6hrgE7-aLu8DQ)
 + [第九章 Golang 开发服务端应用](https://mp.weixin.qq.com/s/KhyS-VTiOG4td1dY_7NEKQ)
++ [Go语言中使用Docker进行开发环境搭建](https://mp.weixin.qq.com/s/tU2ChkJmgzKPMomAGsE0Eg)
 
 # 面试题
 

@@ -82,6 +82,7 @@
 + [DDD实践：如何用DDD重构中台业务模型？](https://mp.weixin.qq.com/s/fuOEg55UnpuVKV7L7t7Bkw)
 + [专业解读：DDD充血模型最佳实践](https://mp.weixin.qq.com/s/pAQwampvv9c3BaNts8A3Yw)
 + [如何使用DDD设计微服务代码模型？](https://mp.weixin.qq.com/s/IZzK9BXGKAAEfW48aogsvg)
++ [聚合和聚合根：怎样设计聚合？](https://mp.weixin.qq.com/s/-cGWiPv9Ad26zyG6UeI_PA)
 
 ## 微服务
 
@@ -298,6 +299,7 @@
 + [简单聊聊怎么防止重复下单](https://mp.weixin.qq.com/s/pC8SM6J3YgniLuvAB32HmQ)
 + [一个注解，优雅的实现接口幂等性！](https://mp.weixin.qq.com/s/kqfeIU8BledDVQHmVhFD6Q)
 + [高并发下如何防重？](https://mp.weixin.qq.com/s/b3MLjMTobJFcSshL7BnK4g)
++ [大厂防止超卖的7种实现，很受用！](https://mp.weixin.qq.com/s/aCJUBpq_TiSaePCKokypFA)
 
 ### 负载&限流
 
@@ -525,6 +527,7 @@
 + [16. 如何设计一个支持 5 亿用户规模的网约车系统？](https://mp.weixin.qq.com/s/GBqq9mvAmA2O4wLl-DZ-XQ)
 + [六、架构实战——订单系统](https://mp.weixin.qq.com/s/bn6yDgnMzBuNThEWl-FlWA)
 + [37. 微信抢红包的功能是如何实现的，如果让你来做你怎么设计？](https://mp.weixin.qq.com/s/Qk6ShR-pNzhwN0uJmYfjfQ)
++ [分布式微服务系统架构第90集：现代化金融核心系统](https://mp.weixin.qq.com/s/5VYM1uH9HJbAe7D8V1xcxw)
 
 ## 代码相关
 

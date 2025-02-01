@@ -1140,6 +1140,19 @@
 
 ### boot
 
+#### 核心基础概念
+
++ [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
++ [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
++ [Spring Boot 启动流程及原理介绍](https://mp.weixin.qq.com/s/AG2YfTVr_Euu6fGEcmeenQ)
++ [Spring Bean的生命周期95%的人都不知道这几个点](https://mp.weixin.qq.com/s/8LDA3xCH1jW8pkXVXEHTeA)
++ [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
++ [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
++ [牢记这16个SpringBoot 扩展接口，写出更加漂亮的代码](https://mp.weixin.qq.com/s/AM1X-34U8HCYoSIw6Y745w)
++ [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
+
+#### 版本特性
+
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [Spring Boot：Java开发的加速器](https://mp.weixin.qq.com/s/zEyFhphJyXShgV2axtecEg)
@@ -1147,7 +1160,6 @@
 + [SpringBoot 3.4 官方实时消息推送解决方案，简单又高效！](https://mp.weixin.qq.com/s/rbWX8l1ZEFcYKmGJ35DCQQ)
 + [Spring Boot 3.4 开发中的 7 个关键技巧，你都掌握了吗？](https://mp.weixin.qq.com/s/4ruR59FZuXLXaKDykCvQpA)
 + [王炸级更新！Spring Boot 3.4 正式发布，新特性真香！](https://mp.weixin.qq.com/s/PSWuglR3S0NoNd2EoXp3Tg)
-+ [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [Spring Boot 3.3新特性：支持更复杂的配置表达式](https://mp.weixin.qq.com/s/Fqw_4wbs83yl8AeDcvIqCQ)
 + [如何解决 SpringBoot3.3 多实例内存不足问题？](https://mp.weixin.qq.com/s/ejllmU-NBZErvyCLIwRJkQ)
 + [SpringBoot3.3 优雅停止/重启定时任务功能太赞了！](https://mp.weixin.qq.com/s/7sgHQFTmvZ_03bNJUcEi0w)
@@ -1174,14 +1186,6 @@
 + [Spring Boot 开发者必备：这 7 个技巧你知道吗？](https://mp.weixin.qq.com/s/_qkdbTRKNG8_4aFyIYUwYA)
 + [踩了一堆坑，终于把微服务系统全面升级 JDK17 和 SpringBoot3 了](https://my.oschina.net/sticki/blog/15909409)
 + [彻底搞懂Spring Boot3才有的ProblemDetail和ErrorResponse](https://mp.weixin.qq.com/s/OmST5SKPw1h-3hu4f6Gung)
-+ [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
-+ [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
-+ [Spring Boot 启动流程及原理介绍](https://mp.weixin.qq.com/s/AG2YfTVr_Euu6fGEcmeenQ)
-+ [Spring Bean的生命周期95%的人都不知道这几个点](https://mp.weixin.qq.com/s/8LDA3xCH1jW8pkXVXEHTeA)
-+ [必备开发技能！基于Spring Boot各种场景下的数据类型转换技巧](https://mp.weixin.qq.com/s/kfZBW0UGAt6b3bgvNWTKbQ)
-+ [强大！牢记这16个Spring Boot扩展接口，代码优雅提升一个层次](https://mp.weixin.qq.com/s/69aoWGLyLDQN1qWi6eL8cw)
-+ [牢记这16个SpringBoot 扩展接口，写出更加漂亮的代码](https://mp.weixin.qq.com/s/AM1X-34U8HCYoSIw6Y745w)
-+ [建议收藏！SpringBoot项目实战开发技巧](https://mp.weixin.qq.com/s/DnwwD3uhvg1qlcLHBJGbJg)
 + [Spring Boot性能优化案例](https://mp.weixin.qq.com/s/eFRC2IgG_Efvo-NX1lYWAw)
 + [《SpringBoot》自动装配原理（简单易懂）](https://mp.weixin.qq.com/s/HPpZZ-97wtcOXRuG8otJbA)
 + [SpringBoot 启动原理详解 (图文全面总结)](https://my.oschina.net/lenve/blog/16495901)
@@ -1949,6 +1953,7 @@
 #### 集成三方
 
 + [Spring Boot整合阿里云OSS文件上传](https://mp.weixin.qq.com/s/4os6eNIcHBaILhgmtroXQA)
++ [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [SpringBoot整合SSMP报错分析](https://mp.weixin.qq.com/s/CuMqdhYRau64t_n-pCPKdw)
 + [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)

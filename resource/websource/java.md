@@ -294,6 +294,7 @@
 + [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
 + [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
 + [JDK内置的HttpRequest有坑，请绕道！](https://mp.weixin.qq.com/s/XyaOcXoUIKVYbyedKsVEcw)
++ [Java 为什么会有clone方法](https://mp.weixin.qq.com/s/QvjuRgRGXtE48P5PYkJodg)
 
 ### IO
 
@@ -323,6 +324,8 @@
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
 + [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
++ [【java面试100问】79 如何用两个线程轮流输出0到200的值？](https://mp.weixin.qq.com/s/aL-9K37oEAqoQwz5iqzgzA)
++ [“锁”都不知道？下一位。](https://mp.weixin.qq.com/s/DZQ-g1pojLXe_GDiEvaZWQ)
 + [面试官：说说interrupt()、isInterrupted()、Thread.interrupted()的区别](https://mp.weixin.qq.com/s/kkg14Or_7VHG37gdIzz4oA)
 + [Java社招面试题：如何实现多线程之间的通讯和协作？](https://mp.weixin.qq.com/s/wlSOyIbOz7QJ0F7V_YtdcQ)
 + [招行面试：Java的线程如何通信？](https://mp.weixin.qq.com/s/ZwsD2DsujZfwIYfF0W6oeQ)
@@ -535,6 +538,7 @@
 + [Stream的reduce方法介绍](https://mp.weixin.qq.com/s/7AmJCJBgGSomveWvzP2S7Q)
 + [深度掌握 java stream 流操作，让你的代码高出一个逼格！](https://mp.weixin.qq.com/s/3XebEp8TD7M4jy6ZC2yANQ)
 + [小小 Stream，一篇文章拿捏它](https://mp.weixin.qq.com/s/ckMyputJ4A7XBQ4pzp4DhA)
++ [为什么总说Stream API是高效的？](https://mp.weixin.qq.com/s/Fk79haqpCTEmGiDH1wsQlQ)
 
 ### Date/time
 
@@ -901,6 +905,7 @@
 + [002架构师必修之java框架篇：springMVC有手就会](https://mp.weixin.qq.com/s/t-6qvY-NXevcrUInC4h1xA)
 + [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
 + [一文了解Spring MVC流程](https://mp.weixin.qq.com/s/5Y_FlCdhmpZPpPlGNbdQfw)
++ [Controller 层优化四步曲](https://mp.weixin.qq.com/s/wWneJ8E3R9NlXPMOFxSupA)
 + [深入理解SpringMVC工作原理，像大牛一样手写SpringMVC框架](https://mp.weixin.qq.com/s/Ck8ICf1aEzMO8eIqCPYSbw)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [面试官：说说 SpringMVC 工作原理！！](https://mp.weixin.qq.com/s/5lWWZbD87kEKMfMPmj7U5A)
@@ -1619,6 +1624,8 @@
 + [大公司禁止Spring Boot项目使用Tomcat的背后考量](https://mp.weixin.qq.com/s/dPpXcCT78d-r61Q0B3WTqg)
 + [Spring Boot开发者必看：内嵌Tomcat线程池配置与优化](https://mp.weixin.qq.com/s/N1BxeqAnWI8qunxRe56o2g)
 + [Spring Boot 通用限流方案，还可以这样玩！](https://mp.weixin.qq.com/s/K9gnyqs5gQaiou7VcvcEnQ)
++ [SpringBoot 双 Token 认证：提升安全性的一站式解决方案](https://mp.weixin.qq.com/s/cW4zJRbtmfn-_D1nej4TSA)
++ [Spring Boot 记录Controller接口请求日志7种方式，第六种性能极高](https://mp.weixin.qq.com/s/hQGwHn3LbXMlwIhWe_BeYA)
 
 ##### VUE
 
@@ -1751,6 +1758,7 @@
 + [控制Spring Boot定时任务只执行一次的方案](https://mp.weixin.qq.com/s/Ya-it5bLUjf7JBCMiF1zOg)
 + [Spring Boot 打造全能异步处理方案，简单高效！](https://mp.weixin.qq.com/s/sLM-cBWXCu-Rz0SqcRFfkg)
 + [简单两步搞定！SpringBoot 写死的定时任务也能动态调整，太爽了！](https://mp.weixin.qq.com/s/KRT7a5AyJO5D9SzHw90j8Q)
++ [如何在 Spring Boot 中正确使用多线程以避免常见 Bug](https://mp.weixin.qq.com/s/801nUnz_EYCj4zxqWZPuWQ)
 
 ##### Disruptor
 
@@ -2070,6 +2078,7 @@
 + [Mybatis Plus 空字符串插入问题引起的思考](https://mp.weixin.qq.com/s/OybNWl8bmynv4MJvp_sX4Q)
 + [MyBatis-Plus（二）：resultType 的选择——int 与 java.lang.Integer 的区别](https://mp.weixin.qq.com/s/o1_-gXWomyzWtGpRTCWaZQ)
 + [性能提升 2000%！揭秘 MyBatis-Plus 批量插入的终极优化技巧](https://mp.weixin.qq.com/s/bmqRiv_LwZRgZDfiZInJpA)
++ [妙用MyBatisPlus，12个实战技巧解锁新知识](https://mp.weixin.qq.com/s/1hpdPBYuz8vmk7A33rBrWg)
 
 ## disruptor
 
@@ -2362,8 +2371,10 @@
 
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [ # 轻松编程：Java常用库全解析](https://mp.weixin.qq.com/s/z6Pw4v7t4RxL_JsEOxp0dA)
 + [如何优雅的解决前后端跨域问题](https://mp.weixin.qq.com/s/noaHNvO5ySRegM33YFb1Eg)
 + [缓存的读写策略](https://mp.weixin.qq.com/s/aYkzHUwDXMmioccdLpG4Lg)
++ [数据库连接池爆满如何排查](https://mp.weixin.qq.com/s/ex5eMkDMD4aJD2AzLLYL1g)
 + [全链路追踪必备技巧：ThreadLocal + 线程池，这些风险你不得不防！](https://mp.weixin.qq.com/s/XmRmpTQyrmYMwHo8gapBcQ)
 + [定时任务实现原理详解](https://mp.weixin.qq.com/s/vGyt3BNs5y5uqH6X_5fSsw)
 + [Java高手进阶：秒杀场景下的库存一致性解决方案](https://mp.weixin.qq.com/s/M4If-mEPcRdNG_lGyutCpw)

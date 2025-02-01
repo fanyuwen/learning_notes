@@ -160,6 +160,7 @@
 + [cpu cache是什么？](https://mp.weixin.qq.com/s/LDpIul7vrt8StBuv7jwYjg)
 + [CPU超频：你会为它买单吗？](https://mp.weixin.qq.com/s/zVSZfYgL8eTwfh5Z0e6Ovg)
 + [搞定面试官：如何在 Windows 和 Linux 上追踪高 CPU 线程？](https://mp.weixin.qq.com/s/upFSiMUfbrMJixdz7kPSEA)
++ [CPU缓存架构&缓存一致性解决方案详解](https://mp.weixin.qq.com/s/_ZSsrUl4eV-GOzIQCMjFbw)
 
 ### 并发
 
@@ -172,6 +173,7 @@
 + [探索x86-64架构：内存分页机制的奥秘](https://mp.weixin.qq.com/s/D7DjObzAZjLJLd9GSvrmEg)
 + [四大内存区域揭秘：你真的了解你的程序吗？](https://mp.weixin.qq.com/s/hJ-EbMmSx0RS-L9PNkNAjw)
 + [面试题：什么是虚拟内存，它如何与物理内存映射？页面置换算法有哪些，优缺点如何？内存碎片是如何产生的，有哪些解决方法？](https://mp.weixin.qq.com/s/zPjiEof75aUwr7-0KunxqQ)
++ [虚拟内存到底是什么？它真的有用吗？](https://mp.weixin.qq.com/s/qQJJT-NCcHSC-S9Sr_DOMg)
 
 ## GPU
 
@@ -249,6 +251,7 @@
 + [兄弟们，IPV6以后必须要撑握的技术，ipv6报头讲解！](https://mp.weixin.qq.com/s/g6tm0uJx-dK9eQ15FPMM9Q)
 + [只因把 https 改成 http，带宽减少了 70%！](https://mp.weixin.qq.com/s/YqnTzD6Ah9OgZn-Tnnluxw)
 + [【java面试100问】27 RPC协议和HTTP协议有什么区别？](https://mp.weixin.qq.com/s/Fr2jP1x7kNvfIbxtInrmIA)
++ [HTTP和HTTPS有什么区别？CA起到什么作用？](https://mp.weixin.qq.com/s/jxCP9hHilT31N5QRmULP8Q)
 
 #### CORS
 

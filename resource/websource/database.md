@@ -18,6 +18,7 @@
 + [使用存储过程挺香的！为何阿里要禁止？](https://mp.weixin.qq.com/s/w2E6bf2RdvQ4PeixSTvJeA)
 + [10 种数据库技术的发展历程与现状](https://my.oschina.net/u/4662964/blog/15956455)
 + [数据库优化指南：如何将基本功能运用到极致？](https://mp.weixin.qq.com/s/P7pv6xOeyeSaPmoFfJfmgQ)
++ [数据库设计：打造高效数据架构的最佳实践](https://mp.weixin.qq.com/s/JbhNUKb8q9Gr8gV04_YbYQ)
 
 # SQL
 
@@ -67,6 +68,7 @@
 + [深入解析 SQL 计算字段：让数据查询更高效！](https://mp.weixin.qq.com/s/OEgRwF9irVmPz34osMirng)
 + [SQL优化——我是如何将SQL执行性能提升10倍的](https://mp.weixin.qq.com/s/FDRczYdgZ5kMKU64yMB_fw)
 + [掌握 SQL 子查询：让你成为查询优化高手](https://mp.weixin.qq.com/s/1oBUSdJMZz0ZYo5tRlF9SQ)
++ [深入理解 SQL 联结表：从基础到优化，一篇文章带你掌握](https://mp.weixin.qq.com/s/mMCa_aM8wh4rL7agIUpKug)
 
 # 本地数据库
 
@@ -135,6 +137,7 @@
 + [OLAP数据库性能的三驾马车](https://mp.weixin.qq.com/s/OrrXF0zATxyzIPlGOCcp6g)
 + [索引合并](https://mp.weixin.qq.com/s/a9c1qFdaCQUaGGASIEIOJg)
 + [Redis和MySQL事务的区别是什么？](https://mp.weixin.qq.com/s/nj1h20phaIgoJXznCauVLA)
++ [一文带你彻底弄懂前缀索引！](https://mp.weixin.qq.com/s/oq8dgHszYxu9X_gQYlYWTA)
 
 ## 关系型数据库
 
@@ -692,6 +695,7 @@
 
 + [分布式数据库技术的演进和发展方向](https://my.oschina.net/u/4526289/blog/11049010)
 + [为什么选择分布式数据库？有啥好处](https://mp.weixin.qq.com/s/x9wq9DuWyUvLXrfrFytr2Q)
++ [分布式数据库](https://mp.weixin.qq.com/s/APLERmMY0LKY13DzBidT_A)
 
 ## 分布式存储
 

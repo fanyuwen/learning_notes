@@ -115,6 +115,7 @@
 + [前端你不能不了解的核心秘密，耗时任务的处理](https://mp.weixin.qq.com/s/gWnvdVCA6bJHqb9TqqZWEg)
 + [Javascirpt时区——脱坑指南](https://mp.weixin.qq.com/s/OJlrCWP7jXWPC6uYO2ORWw)
 + [Crafty.js：一个超级厉害的轻量级游戏开发的JavaScript的库](https://mp.weixin.qq.com/s/KzXMy57YRrhQkB5aKdOGFA)
++ [带你一步一步手写Promise（保姆级讲解，你看你也会写）](https://mp.weixin.qq.com/s/K8H_gHvxIXlVP3zLRUDQsg)
 
 # 框架
 

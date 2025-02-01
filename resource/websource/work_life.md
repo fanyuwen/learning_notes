@@ -230,6 +230,7 @@
 + [高手必会的 IDEA Debug 使用技巧，你都用过吗？](https://mp.weixin.qq.com/s/FQy05f91sGlbN2IOx5am_w)
 + [JetBrains IDE 中开发微信小程序，现在有官方插件支持了！](https://mp.weixin.qq.com/s/vSvcp1bBxdhwwj_BJs_I2Q)
 + [10个IntelliJ IDEA快捷键和示例，代码多行编辑更高效](https://mp.weixin.qq.com/s/Xu7IuCNVoaqGrK1oUqAcXg)
++ [IntelliJ IDEA 2025.1 EAP 发布，初步支持 Java 24！](https://mp.weixin.qq.com/s/My-Aw1XhkE0sAe1nhiibdA)
 
 ## MAC_PRO相关
 

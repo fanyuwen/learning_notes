@@ -26,6 +26,7 @@
 + [ES 的 4种分页方式，如何选择？](https://mp.weixin.qq.com/s/cZSPYWwKkpl_cqWIqNpAtw)
 + [Elasticsearch 性能测试工具全解析](https://mp.weixin.qq.com/s/8EpeGzmhwvOqwJv8oL1g-w)
 + [面试官：ES深度分页该如何优化？说说看ES的rollover api？ES别名机制有什么作用？ES索引数据过多该如何优化？](https://mp.weixin.qq.com/s/k_vVr0A9VjzLLEh_jxcE8Q)
++ [使用RestHighLevelClient的3种分页实现](https://mp.weixin.qq.com/s/MFvoXIfUxzk-j496wZdPvg)
 
 ## solr
 

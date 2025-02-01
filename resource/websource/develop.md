@@ -139,6 +139,7 @@
 + [读书笔记(22)--微服务应⽤安全解决⽅案](https://mp.weixin.qq.com/s/eUUlTcfOpi6-Sx9Pd_td8A)
 + [读书笔记(21)--微服务注册发现⾼可⽤解决⽅案](https://mp.weixin.qq.com/s/ZQxUD_SkihiaTn-RQt7QZg)
 + [微服务架构模型：几种常见模型的对比和分析](https://mp.weixin.qq.com/s/aVBYoX0K8F2d4g7VboekVw)
++ [边界：微服务的各种边界在架构演进中的作用？](https://mp.weixin.qq.com/s/iAzmhWTzHQ_OXjjZ0_vx0w)
 
 # 分布式
 

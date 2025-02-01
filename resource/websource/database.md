@@ -65,6 +65,8 @@
 + [SQL注入介绍](https://mp.weixin.qq.com/s/dcx8KtCe2bkV1BtpNN0QVA)
 + [SQL 全文本搜索深度解读](https://mp.weixin.qq.com/s/2zmmTIFgSyXA1GqKXVhlzA)
 + [深入解析 SQL 计算字段：让数据查询更高效！](https://mp.weixin.qq.com/s/OEgRwF9irVmPz34osMirng)
++ [SQL优化——我是如何将SQL执行性能提升10倍的](https://mp.weixin.qq.com/s/FDRczYdgZ5kMKU64yMB_fw)
++ [掌握 SQL 子查询：让你成为查询优化高手](https://mp.weixin.qq.com/s/1oBUSdJMZz0ZYo5tRlF9SQ)
 
 # 本地数据库
 
@@ -150,6 +152,7 @@
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [MySQL探秘之旅：总体架构介绍](https://mp.weixin.qq.com/s/0W1XWb4-D2AuimDsQijX9g)
++ [MySQL如何避免单点故障？](https://mp.weixin.qq.com/s/AE-9Dp51ekrXQXED-C3pmg)
 + [提升效率的秘密武器：MySQL 常用命令速查宝典](https://mp.weixin.qq.com/s/vkK0w9_U-P9yXxLzww_YgQ)
 + [美团二面拷打：MySQL中 SELECT 语句执行流程？](https://mp.weixin.qq.com/s/NGIhHHZ5deWk-7yU3V2U7w)
 + [什么是扎实的基本功？MySQL 基础知识看看你了解多少](https://mp.weixin.qq.com/s/Cla7DYtDBnR8kUSeiNegsA)

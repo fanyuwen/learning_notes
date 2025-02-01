@@ -54,6 +54,7 @@
 + [架构实操：画好一张业务模型图](https://mp.weixin.qq.com/s/46eX_kLhNfNcPZxYG_LQmA)
 + [一文搞懂架构设计的衡量标准：功能性、可用性、性能、可扩展性、安全性、协作效率、复杂度、成本效益](https://mp.weixin.qq.com/s/4tGWFvuGhldRWOhvGKDm8w)
 + [深入解析18种软件架构设计模式 （6）- 最终篇](https://mp.weixin.qq.com/s/_UEGTsQ-om4szsWK8NBtVA)
++ [架构设计:边车模式解释](https://mp.weixin.qq.com/s/jG6j08Xr-uMBcORZwegc_A)
 
 ### DDD
 
@@ -304,6 +305,7 @@
 + [如何实现高并发下系统的限流](https://mp.weixin.qq.com/s/0WDXwQA-aFgAJI6dMYW5xA)
 + [你管这叫负载均衡？](https://mp.weixin.qq.com/s/4nV-8GV5LcSmdFnx_LDEKQ)
 + [面试必备：4种经典限流算法讲解](https://mp.weixin.qq.com/s/nZKLSacEVb5w1rAta6ju-A)
++ [图解六种常见负载均衡算法，一看就懂！](https://mp.weixin.qq.com/s/wKtdcoxkH52H_I33uWIfMA)
 + [为什么要限流？常见的限流算法有哪些？](https://mp.weixin.qq.com/s/wd8uGrxgceZd0kOx4cD-rQ)
 + [面试官：你的项目中稳定性方案有哪些、降级，限流，熔断如何做的](https://mp.weixin.qq.com/s/3_u6noQq6IyPOQs1B_0IcQ)
 + [高性能负载均衡：分类及架构](https://mp.weixin.qq.com/s/nFKh2TRsvRf5avBchTONTg)
@@ -436,6 +438,7 @@
 
 + [当 “代码农” 遇上 “码农”：揭秘主干开发的那些事儿 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869429)
 + [牛皮！手写一个 RPC 框架](https://mp.weixin.qq.com/s/fS6Y1ycME-g6ggY3xBh4Cg)
++ [19. 如何设计 RPC 框架在 10 万 QPS 下实现毫秒级的服务调用？](https://mp.weixin.qq.com/s/rdWFIgysXmER1X-K0eCq3g)
 + [怎么在业务团队写好发消息的代码？](https://mp.weixin.qq.com/s/_bYjQd3BCIT3w1N0cMWlCw)
 + [阿里的同事，写的代码真 TMD 优雅！](https://mp.weixin.qq.com/s/n-rKPNADybrORhTNSRB8_A)
 + [公司来了一个新同事，代码写得是真优雅呀！代码如诗！](https://mp.weixin.qq.com/s/yybLe51KTuc5VCsR1sxHDg)

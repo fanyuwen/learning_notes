@@ -309,6 +309,8 @@
 + [从运行的角度理解Java反射的原理](https://mp.weixin.qq.com/s/XSlZoFQ4FaCTeQ6TBoSOxA)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
 + [反射为什么慢？能在项目中大量使用吗？](https://mp.weixin.qq.com/s/TGlEuawmM3uQsp0Uwvy7bw)
++ [【java面试100问】96 Java反射的优缺点是什么？](https://mp.weixin.qq.com/s/8IgohZo53serMt0IYT6Brw)
++ [深入剖析 Java 反射：探寻其优缺点](https://mp.weixin.qq.com/s/PztADsIXLma_ENP-QcvK4w)
 
 ### 并发/多线程
 
@@ -319,8 +321,10 @@
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
 + [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
++ [Java社招面试题：如何实现多线程之间的通讯和协作？](https://mp.weixin.qq.com/s/wlSOyIbOz7QJ0F7V_YtdcQ)
 + [招行面试：Java的线程如何通信？](https://mp.weixin.qq.com/s/ZwsD2DsujZfwIYfF0W6oeQ)
 + [面试必看：如何设计一个可以优雅停止的线程？](https://mp.weixin.qq.com/s/A0XClBySYOyG-uejkjkpOA)
++ [面试官：线程池中的核心线程能被回收吗？](https://mp.weixin.qq.com/s/QTJPCL6XxPXMsh9lfD7ZDg)
 + [面试官：谈谈线程池的工作原理](https://mp.weixin.qq.com/s/gQw1_4fYlf8KzDkyPTp5Tw)
 + [面试官：线程池的拒绝策略有哪些？](https://mp.weixin.qq.com/s/URtfIrpSk7fFgoc0_4DLEg)
 + [面试官：说一下线程池的核心参数](https://mp.weixin.qq.com/s/SSbeeKME7MDq08h9uQO_5w)
@@ -394,6 +398,7 @@
 + [面试官：什么是可重入锁](https://mp.weixin.qq.com/s/8Swfp-Y8L9znMyXzhpfVRg)
 + [Java社招面试中的高频考点：Callable、Future与FutureTask详解](https://mp.weixin.qq.com/s/binx0xPtU9HWVBRc9yxD4g)
 + [如何利用 CAS 优化高频秒杀场景的库存扣减？](https://mp.weixin.qq.com/s/-zPh1WFdXzaUvAIR7dGgTw)
++ [大厂 Java 面试：同步方法和同步块，90% 的人都选错了！](https://mp.weixin.qq.com/s/Ok8xO1fQtRwH6L1YoVfghw)
 
 ## 源码
 
@@ -763,6 +768,7 @@
 + [“3种方式重写第三方jar包”是每个程序员迈向成熟必备的技能](https://mp.weixin.qq.com/s/stfxBQFcDqdfCClOAJhdqg)
 + [Java Jar](https://mp.weixin.qq.com/s/e0nfxWbL4XyTiQ_ufSXfDA)
 + [后悔！9个我在运行Java JAR应用时没掌握的关键技巧](https://mp.weixin.qq.com/s/fNYDxJfx3WS771vhqzQNEg)
++ [解决JNI函数动态绑定防追踪](https://mp.weixin.qq.com/s/0V9gsUblJi5vqQmnjMzRrQ)
 
 # 包管理工具
 
@@ -1116,6 +1122,7 @@
 + [微服务架构的守护者：Spring Cloud Gateway 的强大过滤器体系详解](https://mp.weixin.qq.com/s/CrS_j29Pu8l1wIxRzwHUwQ)
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
 + [Spring Cloud Gateway 数字签名与 URL 动态加密的完美实践！](https://mp.weixin.qq.com/s/1ucchEcNatFCLTvzua-FRg)
++ [实战干货！Spring Cloud Gateway 整合 OAuth2.0 实现分布式统一认证授权！](https://mp.weixin.qq.com/s/9MIOi3QC6OXoqGyg-OErkg)
 
 #### AI
 
@@ -1432,6 +1439,7 @@
 
 + [实战案例SpringBoot整合Seata AT模式实现分布式事务【超详细】](https://mp.weixin.qq.com/s/570OVCaUusSndNLi5UPw5A)
 + [分布式事务解决方案：Seata在Spring Boot中的应用](https://mp.weixin.qq.com/s/Tasm_FoWN7vFVv4JJS3arQ)
++ [SpringBoot整合Seata，解决多个订单相关服务之间数据一致性问题](https://mp.weixin.qq.com/s/GSB4ob0T3MG3UehSgvY-Ew)
 
 #### WEB
 
@@ -1440,6 +1448,7 @@
 + [神器！SpringBoot 3.3 中实现 API 接口限流就是这么简单](https://mp.weixin.qq.com/s/w5ykZUftwLnPk1LpcEJ-xg)
 + [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
 + [优雅！Spring Boot 3.3 搭配 JSON Schema 实现灵活的 JSON 数据定义与验证](https://mp.weixin.qq.com/s/Xaypx5KNIBbUjgbH6fsluA)
++ [高效处理 JSON 数据：Spring Boot 中 Jackson 的最佳用法揭秘](https://mp.weixin.qq.com/s/ofYu-PthCfmiPmmhkjkTpg)
 + [高效应对内存溢出！Spring Boot 3.3 大文件处理全攻略](https://mp.weixin.qq.com/s/GBGGZAKW2QkgBObIY97B1w)
 + [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
 + [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
@@ -1491,6 +1500,7 @@
 + [弃用RestTemplate！RestClient真香](https://mp.weixin.qq.com/s/Fq3Tx6wR3TF6yjiy61An5Q)
 + [Spring Boot 通过@JsonComponent注解完全控制JSON数据](https://mp.weixin.qq.com/s/OTSU6xHjEPS-Dr-z4HfgmQ)
 + [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
++ [SpringBoot3.4 断点续传 + 秒传，打造极致上传体验！](https://mp.weixin.qq.com/s/fTf3F1vJi0P9c8qNbyt1qA)
 + [一文彻底玩转@RequestMapping，高级用法你未必知道](https://mp.weixin.qq.com/s/_upqOl_h406Z-ZOcJ24wgA)
 + [高效脱敏！SpringBoot 3.3使用JsonSerializer 和自定义SerializerModifier实现数据保护](https://mp.weixin.qq.com/s/ISGNj5T4Qx_czC7OExoe3w)
 + [发现 XSS 漏洞？别急，用这招 SpringBoot 技巧轻松搞定！](https://mp.weixin.qq.com/s/dLPziR52vfWVrd0noRMp1w)
@@ -1603,6 +1613,7 @@
 + [高效开发！Spring Boot 动态 URI 加载最佳实践](https://mp.weixin.qq.com/s/ZeVgPHICKHftmhHxo0BNYg)
 + [大公司禁止Spring Boot项目使用Tomcat的背后考量](https://mp.weixin.qq.com/s/dPpXcCT78d-r61Q0B3WTqg)
 + [Spring Boot开发者必看：内嵌Tomcat线程池配置与优化](https://mp.weixin.qq.com/s/N1BxeqAnWI8qunxRe56o2g)
++ [Spring Boot 通用限流方案，还可以这样玩！](https://mp.weixin.qq.com/s/K9gnyqs5gQaiou7VcvcEnQ)
 
 ##### VUE
 
@@ -1957,6 +1968,7 @@
 + [Springboot快速集成Google Protobuf](https://mp.weixin.qq.com/s/fVhbLAeqt_6UIOgIO-nDsw)
 + [SpringBoot与Redisson整合，用注解方式解决分布式锁的使用问题](https://mp.weixin.qq.com/s/XgdKE2rBKL0-nFk2NJPuyg)
 + [Springboot集成Easy Rules引擎，实现一个商品优惠券系统](https://mp.weixin.qq.com/s/7FQ1bRBcILuJHIjOjz0eqw)
++ [Spring Boot + RabbitMQ 高级技巧：4 个非常实用功能](https://mp.weixin.qq.com/s/cnZnSAJVEQHjngLr_Tftzg)
 
 #### 自定义实现
 

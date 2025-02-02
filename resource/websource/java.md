@@ -1143,6 +1143,7 @@
 #### 核心基础概念
 
 + [掌握Spring Boot最佳途径！就该如此做](https://mp.weixin.qq.com/s/JjqZXqa35nANgcnGFQ25TA)
++ [Spring Boot：Java开发的加速器](https://mp.weixin.qq.com/s/zEyFhphJyXShgV2axtecEg)
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
 + [Spring Boot 启动流程及原理介绍](https://mp.weixin.qq.com/s/AG2YfTVr_Euu6fGEcmeenQ)
@@ -1254,7 +1255,6 @@
 
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
-+ [Spring Boot：Java开发的加速器](https://mp.weixin.qq.com/s/zEyFhphJyXShgV2axtecEg)
 + [高速导出！Springboot3.4 + StreamingResponseBody 助你轻松应对大批量数据导出](https://mp.weixin.qq.com/s/Vymbk1YjaSfs88i8d7RZ8Q)
 + [SpringBoot 3.4 官方实时消息推送解决方案，简单又高效！](https://mp.weixin.qq.com/s/rbWX8l1ZEFcYKmGJ35DCQQ)
 + [Spring Boot 3.4 开发中的 7 个关键技巧，你都掌握了吗？](https://mp.weixin.qq.com/s/4ruR59FZuXLXaKDykCvQpA)

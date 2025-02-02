@@ -1224,7 +1224,6 @@
 + [SpringBoot读取配置文件信息8种方式，你会哪几种？](https://mp.weixin.qq.com/s/KYr46dcHzBfZ5jaRyt2Jhw)
 + [运行时修改 Spring Boot 属性的N种方式](https://mp.weixin.qq.com/s/sggIZ55W3L9Fo2ffgetRmA)
 + [springboot的统一处理功能](https://mp.weixin.qq.com/s/PuP-TqHMi3ClAZcBJtiOJw)
-+ [SpringBoot实战：DeepLearning4j实现图片数字识别](https://mp.weixin.qq.com/s/DYEXU3AS9AH3dWeQcG-aCA)
 + [请不要自己写！Spring Boot非常实用的内置功能](https://mp.weixin.qq.com/s/UKe0vMTFo8lKRBUpKINTng)
 + [请不要自己写，Spring Boot 非常实用的内置功能](https://my.oschina.net/lenve/blog/15971372)
 + [Spring Boot与Spring Integration：集成模式的现代化实现](https://mp.weixin.qq.com/s/0dlxNS0ojVrXCFzeDxDoDQ)
@@ -1990,6 +1989,7 @@
 + [Spring Boot 整合 RabbitMQ：手动 ACK 与 QoS 配置详解](https://mp.weixin.qq.com/s/_jibjG9WlW5LBQnP42ks_g)
 + [Springboot集成OVal，解决微服务之间数据的一致性和有效性问题](https://mp.weixin.qq.com/s/TRTQDoqMeGvtI5hFBKVRaw)
 + [SpringBoot集成gRPC，解决微服务之间的快速高效的内部通信问题](https://mp.weixin.qq.com/s/KeGUf2JpN-EfOsAHZnElZg)
++ [SpringBoot实战：DeepLearning4j实现图片数字识别](https://mp.weixin.qq.com/s/DYEXU3AS9AH3dWeQcG-aCA)
 
 #### 自定义实现
 

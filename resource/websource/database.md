@@ -311,6 +311,7 @@
 + [如何巧妙处理 MySQL NULL 值：提升查询性能与准确性](https://mp.weixin.qq.com/s/KcJ2I4Su7fIT9lCJ7UaN2A)
 + [MySQL中一个表最多能有多少个字段?](https://mp.weixin.qq.com/s/3wEmaohbyP5nImKIWUyfZg)
 + [MySQL中delete，drop，truncate的区别是什么？](https://mp.weixin.qq.com/s/E9xWB5OVZ-gq1gpSJKwVmA)
++ [硬核干货！一文掌握 MySQL 核心日志：binlog 、redo log、undo log](https://my.oschina.net/jiagoujingjin/blog/17285524)
 
 #### 存储引擎
 

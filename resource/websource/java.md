@@ -627,6 +627,7 @@
 + [高并发架构设计：从 Java Callable 到 CompletableFuture 的进阶修炼](https://mp.weixin.qq.com/s/krC7-WhHMinNqYSkq9n6aA)
 + [Java CompletableFuture 的一些高级用法](https://mp.weixin.qq.com/s/nIWgr9Xjp28a8RebEXBYKw)
 + [异步编程利器：CompletableFuture 用法及实现原理详解](https://mp.weixin.qq.com/s/DAj0YOr0S3f-cjSFs261qA)
++ [重试机制与 CompletableFuture 拓展](https://my.oschina.net/u/8803553/blog/17312483)
 
 ### ThreadPool
 

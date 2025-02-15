@@ -661,6 +661,7 @@
 + [git如何回退单个文件到指定版本](https://mp.weixin.qq.com/s/tCGjwWw1h9z2cLzno52XvQ)
 + [git 使用场景与常用命令解释](https://mp.weixin.qq.com/s/Hni4hKceScIDkLPQfWVq5A)
 + [掌握 Git 工作流：超越基础命令](https://mp.weixin.qq.com/s/xQefjb-8XkHFr4Gl_49wkw)
++ [工作中这么使用git，效率直线提升](https://mp.weixin.qq.com/s/mGytSKanhUXNadDKWQHCig)
 
 ### 编程范式
 

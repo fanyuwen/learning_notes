@@ -303,6 +303,7 @@
 + [Java IO流经典使用](https://mp.weixin.qq.com/s/efqw7TbPwv31puGcP6frgA)
 + [面试官：BIO、NIO、AIO有什么区别](https://mp.weixin.qq.com/s/xFXOQyyHEtfPub4gkqCdRQ)
 + [为什么随机读写比按顺序读写文件就是快？](https://mp.weixin.qq.com/s/mL8ooXg2ia46TdDQ3OtW8Q)
++ [Java IO（一）： Java 中的 IO](https://mp.weixin.qq.com/s/6r1exmyp-fS8f3SOQtHNiw)
 
 ### 反射
 
@@ -317,6 +318,9 @@
 ### 并发/多线程
 
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
++ [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
++ [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
++ [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [深入理解并发原子性、可见性、有序性与JMM内存模型](https://mp.weixin.qq.com/s/TXDzrGp3H155UkirK93o1w)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
@@ -417,6 +421,7 @@
 + [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
 + [JVM内存布局](https://mp.weixin.qq.com/s/llu3Ke_lQNC40qA4N8tX-g)
++ [JVM的内存管理分为哪些区域？](https://mp.weixin.qq.com/s/Na-JugR0i5uudy9F6o4yUw)
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
@@ -539,6 +544,7 @@
 + [深度掌握 java stream 流操作，让你的代码高出一个逼格！](https://mp.weixin.qq.com/s/3XebEp8TD7M4jy6ZC2yANQ)
 + [小小 Stream，一篇文章拿捏它](https://mp.weixin.qq.com/s/ckMyputJ4A7XBQ4pzp4DhA)
 + [为什么总说Stream API是高效的？](https://mp.weixin.qq.com/s/Fk79haqpCTEmGiDH1wsQlQ)
++ [为什么用了Stream，代码反而越写越丑了？](https://mp.weixin.qq.com/s/gwCztkeFPRpf3PgXV94btg)
 
 ### Date/time
 
@@ -783,6 +789,7 @@
 
 ## maven
 
++ [Maven入门，读完这篇就够了](https://mp.weixin.qq.com/s/DYUn_3ID-qGiHf6HJh69OQ)
 + [Maven安装配置](https://mp.weixin.qq.com/s/66t06E6rQXZWqT9jkeghZQ)
 + [Maven Assembly 构建发布包](https://my.oschina.net/OutOfMemory/blog/685456)
 + [史上最全 Maven 教程，建议收藏！！](https://mp.weixin.qq.com/s/gx6apzIPb8k-B-aAENvlOQ)
@@ -957,6 +964,7 @@
 
 ### security
 
++ [Spring Security难用到怀疑人生？你可能不是一个人！](https://mp.weixin.qq.com/s/OVl_qP3d1U4KVEqZF5XjYw)
 + [Spring Security，一个身份验证的卫士！](https://mp.weixin.qq.com/s/9TWxX7ValYVWGi7Nk4yE8A)
 + [一文让你彻底搞定Spring Security的基本使用](https://mp.weixin.qq.com/s/CGGmSWu--yNXXB-wQyUu_Q)
 + [强大！必须掌握！Spring Security这些技巧你知道吗？](https://mp.weixin.qq.com/s/suRpoAItbaAAuBj0A8_4bg)
@@ -1251,11 +1259,13 @@
 + [SpringBoot实战：SpringBoot项目运行时修改属性的方法](https://mp.weixin.qq.com/s/i2Op6qA7L7vm0P8hSHRUTg)
 + [SpringBoot实战：深入理解 Spring Boot 的 ApplicationRunner 接口](https://mp.weixin.qq.com/s/15r9vdvL8hsuiosjOibHug)
 + [用了这么久SpringBoot，这些隐藏技巧你真的掌握了吗？](https://mp.weixin.qq.com/s/_Zetg7oNOmUQdf6wDFDIug)
++ [实战技巧！Spring Boot 非常有用的5个开发技巧，请收藏](https://mp.weixin.qq.com/s/1oU25E2973ani23jVU7FxA)
 
 #### 版本特性
 
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
++ [SpringBoot3.0 新特性尝鲜，秒启动的快感！SpringAOT与RuntimeHints来了解一下？](https://mp.weixin.qq.com/s/XdUcLdJoEEnUwAKwTbIsVg)
 + [高速导出！Springboot3.4 + StreamingResponseBody 助你轻松应对大批量数据导出](https://mp.weixin.qq.com/s/Vymbk1YjaSfs88i8d7RZ8Q)
 + [SpringBoot 3.4 官方实时消息推送解决方案，简单又高效！](https://mp.weixin.qq.com/s/rbWX8l1ZEFcYKmGJ35DCQQ)
 + [Spring Boot 3.4 开发中的 7 个关键技巧，你都掌握了吗？](https://mp.weixin.qq.com/s/4ruR59FZuXLXaKDykCvQpA)
@@ -1722,6 +1732,7 @@
 #### CONCURRENCY
 
 + [在Spring Boot中使用线程池](https://mp.weixin.qq.com/s/AZ7dIQJNHh32XDi8Z4tewA)
++ [SpringBoot 中的异步处理机制详解](https://mp.weixin.qq.com/s/-6Z6gt0APrAjQEpki9_HVQ)
 + [强大！Spring Boot 3.3 实现弹性模式，轻松应对高并发挑战](https://mp.weixin.qq.com/s/pquyLntjer4QJLZgcxwSjA)
 + [Spring Boot 实现异步处理多个并行任务](https://mp.weixin.qq.com/s/Th9KspKz8jzYkUfGRiCuHw)
 + [SpringBoot实战：SpringBoot中如何正确使用线程池](https://mp.weixin.qq.com/s/zISlvp8BGJEDClYoXVyDmw)
@@ -1880,6 +1891,7 @@
 + [优雅！Chain 结合 Spring Boot 轻松实现强大的责任链模式](https://mp.weixin.qq.com/s/S8acUL34CxgUdaNM8D8_Jg)
 + [颠覆认知：Spring Boot 结合外观模式简化复杂业务逻辑实战揭秘](https://mp.weixin.qq.com/s/to4A16fQZiI0UVYz5w9-Sg)
 + [Spring Boot + 装饰器模式：在线支付系统的最佳实践](https://mp.weixin.qq.com/s/HfjLNCn5bBEzaoTrhgrBQA)
++ [SpringBoot + Facade Pattern：通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/k3OujanHS77tPV8s1vQvdA)
 
 #### message
 
@@ -2013,6 +2025,7 @@
 
 + [一文带你了解什么是servlet](https://mp.weixin.qq.com/s/mVF4wNPQKeokj6vwG6eWJQ)
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
++ [Tomcat 系统架构与原理剖析](https://mp.weixin.qq.com/s/Tw9IPBgizkx8zySX8BMtww)
 
 ## quarkus
 
@@ -2108,6 +2121,8 @@
 
 ## netty
 
++ [轻松掌握Netty：实现高效的客户端与服务器通信](https://mp.weixin.qq.com/s/jN4f303IkInD0i9Z-9JYNA)
++ [Netty高级使用与源码详解](https://mp.weixin.qq.com/s/lgwieW4dOrDSXU9YwPS8nQ)
 + [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
 + [为什么不选择使用原生的 NIO 而选择使用 Netty 模式呢？](https://mp.weixin.qq.com/s/qhPEYV6CrQg6DEybirbYZw)
 + [Netty的源码分析和业务场景](https://mp.weixin.qq.com/s/M8EH_sgleaNHNhdIe7Gfpg)
@@ -2376,8 +2391,10 @@
 
 # 相关文章
 
++ [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [一个注解解决接口幂等性问题：优雅实现方案解析](https://mp.weixin.qq.com/s/u7YYnEVQ-JH0VDbTgtaeag)
 + [ # 轻松编程：Java常用库全解析](https://mp.weixin.qq.com/s/z6Pw4v7t4RxL_JsEOxp0dA)
 + [如何优雅的解决前后端跨域问题](https://mp.weixin.qq.com/s/noaHNvO5ySRegM33YFb1Eg)
 + [缓存的读写策略](https://mp.weixin.qq.com/s/aYkzHUwDXMmioccdLpG4Lg)

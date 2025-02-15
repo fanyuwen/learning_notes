@@ -77,6 +77,7 @@
 + [Kafka性能卓越之谜：深度解析与优化策略](https://mp.weixin.qq.com/s/bXvfs4zU9MPFpzCeHJLRCw)
 + [Kafka Streams 在监控场景的应用与实践](https://my.oschina.net/vivotech/blog/16859766)
 + [Kafka 消息积压如何破局？高吞吐 + 零丢失的阻塞队列实战方案！](https://mp.weixin.qq.com/s/BWqOULBijnl6EMKuZOsr0w)
++ [Kafka如何手动Kill未完成的事务?](https://mp.weixin.qq.com/s/ilVVXrYOoQJDCc5vlKKZKg)
 
 # ROCKETMQ
 

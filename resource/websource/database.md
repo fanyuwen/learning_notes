@@ -312,6 +312,7 @@
 + [MySQL中一个表最多能有多少个字段?](https://mp.weixin.qq.com/s/3wEmaohbyP5nImKIWUyfZg)
 + [MySQL中delete，drop，truncate的区别是什么？](https://mp.weixin.qq.com/s/E9xWB5OVZ-gq1gpSJKwVmA)
 + [硬核干货！一文掌握 MySQL 核心日志：binlog 、redo log、undo log](https://my.oschina.net/jiagoujingjin/blog/17285524)
++ [MySQL中，int(10) 的 10代表什么？](https://mp.weixin.qq.com/s/Eq67N4GuQPdzxC0E9jc25g)
 
 #### 存储引擎
 
@@ -416,6 +417,7 @@
 + [Mysql 优化器选错索引](https://mp.weixin.qq.com/s/B1NHNV0CTsmZrZdYqIZKUw)
 + [【java面试100问】62 Hash索引和B+树索引的区别？](https://mp.weixin.qq.com/s/B11dBwdOyEWZ8vptf916Bw)
 + [MySQL 索引的数据结构](https://mp.weixin.qq.com/s/9Q3KAedWv0M-uJBmkooKjA)
++ [MySQL的索引，越多越好吗？需要注意什么？](https://mp.weixin.qq.com/s/6w6HWl2jS3m80GtpSvrVDw)
 
 ### PostgreSQL
 
@@ -587,6 +589,7 @@
 + [Redis 主从复制及其实现](https://mp.weixin.qq.com/s/NezjJY2E--53HdKj2tm1OQ)
 + [Redis复制延迟，看看这10个原因！](https://mp.weixin.qq.com/s/-74WwoA4vbMQk5VUhSsxeg)
 + [小红书二面：Redis 集群中节点之间的通信方式？](https://mp.weixin.qq.com/s/ZYkbL4-sVia1kMW_ye0mRA)
++ [面试官：Redis分布式锁如何实现，存在哪些问题？Redlock算法的核心思想是什么？Redis事务原理怎样，是否支持回滚](https://mp.weixin.qq.com/s/MGm9nFdu9ewydPm4My8ADg)
 
 #### 原理
 

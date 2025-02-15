@@ -324,6 +324,7 @@
 + [常见限流算法介绍 和 Spring Cloud Sentinel使用方式](https://mp.weixin.qq.com/s/hXl6DGQuaPrglxUHbDQnlA)
 + [业务开发中的双重请求，优雅降级，熔断机制](https://mp.weixin.qq.com/s/X79Pu-tsUfiUwg17A4g3yQ)
 + [7种常见的限流方式！](https://mp.weixin.qq.com/s/akyPWaGyG8gnI7_gOZpkgA)
++ [26. 如何解决高并发下的库存抢购超卖少买问题？](https://mp.weixin.qq.com/s/XflMRXvzXekiD91KRowzoQ)
 
 ### 大文件IO
 
@@ -352,6 +353,7 @@
 + [如何优雅地编写缓存代码](https://my.oschina.net/u/4662964/blog/11104135)
 + [性能优化：使用本地缓存遇到实际问题的思考](https://mp.weixin.qq.com/s/mQgFiw-l3vvYHrtO-sTDQw)
 + [缓存三大问题总结：雪崩、击穿、穿透](https://mp.weixin.qq.com/s/XPIep1wiju-GPbbuTciizg)
++ [京东面试：系统突然涌入百万请求，如何防止缓存雪崩导致崩溃？](https://mp.weixin.qq.com/s/GJtd4xUhGz1rzzqmTOet7g)
 + [面试官问如何实现二级缓存怎么进行回答以及延伸出更多知识点呢？](https://mp.weixin.qq.com/s/CLFut5eGxnXJ43J9_4JDTA)
 + [高性能架构设计之缓存策略](https://mp.weixin.qq.com/s/0GZHNTn6o9AM2ouC-l9a8g)
 + [奇怪的缓存一致性问题](https://my.oschina.net/u/4662964/blog/11213863)

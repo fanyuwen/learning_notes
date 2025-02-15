@@ -52,6 +52,7 @@
 
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [编程十年的感悟](https://mp.weixin.qq.com/s/S4ofBQ__F6JLUsQ_18OM-g)
++ [程序员如何快速学习并掌握一门新技术？](https://mp.weixin.qq.com/s/7whEuRfo8FCvsbRVgi7lYg)
 + [我一直在用 Java，但是我一直都不喜欢 Java！](https://mp.weixin.qq.com/s/XL5LDpd3jeCnu3IGCEh2zA)
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
@@ -186,6 +187,7 @@
 + [大厂程序员都在使用的开发工具](https://mp.weixin.qq.com/s/0ItcYqkKMwg4ryIXXb1-IA)
 + [效果媲美Cursor的开源替代：Roo-Cline](https://mp.weixin.qq.com/s/qCl64EhomOHDP4Q3DAZjYg)
 + [局域网传输神器 — LocalSend](https://mp.weixin.qq.com/s/UC2zVEb3KKWd0N-URsYFMw)
++ [18.6k star，取代Navicat，一款集成了 AI 功能的数据库管理工具！](https://mp.weixin.qq.com/s/r-jlnHIPwvZEblNab16hYw)
 
 ## 开源资源
 
@@ -231,6 +233,7 @@
 + [JetBrains IDE 中开发微信小程序，现在有官方插件支持了！](https://mp.weixin.qq.com/s/vSvcp1bBxdhwwj_BJs_I2Q)
 + [10个IntelliJ IDEA快捷键和示例，代码多行编辑更高效](https://mp.weixin.qq.com/s/Xu7IuCNVoaqGrK1oUqAcXg)
 + [IntelliJ IDEA 2025.1 EAP 发布，初步支持 Java 24！](https://mp.weixin.qq.com/s/My-Aw1XhkE0sAe1nhiibdA)
++ [IntelliJ IDEA 神级攻略：IDEA 实战隐藏技巧指南](https://mp.weixin.qq.com/s/bhbojnfB-RlOEVDl3ETNPQ)
 
 ## MAC_PRO相关
 

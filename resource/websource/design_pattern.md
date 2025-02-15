@@ -27,6 +27,7 @@
 # 常规设计模式
 
 + [最常用的7种设计模式](https://mp.weixin.qq.com/s/26JAYIuIKHajkgPRpWRZVQ)
++ [代码更优雅！开发者不能错过的5种设计模式](https://mp.weixin.qq.com/s/V53Cj2B5nIF899eO1YmLKw)
 
 ## 原则
 

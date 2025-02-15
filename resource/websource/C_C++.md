@@ -35,6 +35,7 @@
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
++ [【C++】使用gdb在命令行下调试C++程序（一）](https://mp.weixin.qq.com/s/lhvAjRoI94DV-VbGowavWg)
 + [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
 + [【C++】new和malloc到底哪里不一样](https://mp.weixin.qq.com/s/c8mTFiT3SKmkT-5wxXvy7A)
 + [C++函数调用栈从何而来](https://mp.weixin.qq.com/s/LkHmgym0x6chYTBRt-p1nA)

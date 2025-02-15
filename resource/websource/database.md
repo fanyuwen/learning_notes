@@ -313,6 +313,8 @@
 + [MySQL中delete，drop，truncate的区别是什么？](https://mp.weixin.qq.com/s/E9xWB5OVZ-gq1gpSJKwVmA)
 + [硬核干货！一文掌握 MySQL 核心日志：binlog 、redo log、undo log](https://my.oschina.net/jiagoujingjin/blog/17285524)
 + [MySQL中，int(10) 的 10代表什么？](https://mp.weixin.qq.com/s/Eq67N4GuQPdzxC0E9jc25g)
++ [面试官：MySQL一次到底插入多少条数据合适啊？](https://mp.weixin.qq.com/s/vaAi5pRwngU0OQ9YQyzFxw)
++ [为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/Vjep4O2_LE-Wu1CVNOyNdg)
 
 #### 存储引擎
 
@@ -375,6 +377,7 @@
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
 + [设计索引的原则与使用技巧](https://mp.weixin.qq.com/s/u8SXgCWayRhrB2w98I4kSQ)
++ [索引优化全攻略：提升排序、GROUP BY与分页性能...](https://mp.weixin.qq.com/s/xax_afp6WpljlvblM_lgHA)
 + [基于主键的索引扫描，Postgres 和 Oracle 一定比 MySQL 差吗？](https://mp.weixin.qq.com/s/EfN5b_TdV1YVJ95fZ18W4A)
 + [MySQL中区分度不高的字段索引：一定无用吗？](https://mp.weixin.qq.com/s/UTFgPvHh1KIVfVlmTW4Q0g)
 + [MySQL 索引优化的 10 个策略](https://mp.weixin.qq.com/s/D05gy3KoJi40sYGm-cPhTg)

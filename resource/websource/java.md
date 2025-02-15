@@ -49,6 +49,8 @@
 + [Java中的静态属性 vs 实例属性：穿透迷雾看清本质](https://mp.weixin.qq.com/s/zCLLBzCp6ZI6m5voNpSGLg)
 + [深入理解 Java 中的 this 关键字：代码中的“自我引用”](https://mp.weixin.qq.com/s/7tHGEGBpgsQfPkrvN4P5Ig)
 + [只会“有序无序”？面试官嫌弃的List、Set、Map回答！](https://mp.weixin.qq.com/s/ymHiT3nphtC53rUqWzKz2A)
++ [深入浅出Java中的类与对象：从概念到实践](https://mp.weixin.qq.com/s/JOa4rkdxqFaEjGTYepd4OA)
++ [Java访问修饰符：代码边界的"门禁系统"，你配好了吗？](https://mp.weixin.qq.com/s/vvECj4be9QMYRhW6adcGeQ)
 
 ## 新语言特性
 
@@ -87,6 +89,7 @@
 
 + [Java循环还能这么玩？](https://mp.weixin.qq.com/s/8jxL6XXfWpXbCFYVsdtRFg)
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
++ [关于 Java 异常处理的原则](https://mp.weixin.qq.com/s/L0xsz6YueaiXgX2_d5WfHg)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java Lambda表达式实现原理深入面试问答](https://mp.weixin.qq.com/s/m4aLviutBIiwUqVt2NquuA)
@@ -421,6 +424,7 @@
 + [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
 + [JVM内存布局](https://mp.weixin.qq.com/s/llu3Ke_lQNC40qA4N8tX-g)
++ [面试官：说说 Class.forName和ClassLoader的区别](https://mp.weixin.qq.com/s/GRhg6GPJtF7M-3tOAp05-A)
 + [JVM的内存管理分为哪些区域？](https://mp.weixin.qq.com/s/Na-JugR0i5uudy9F6o4yUw)
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
@@ -520,6 +524,7 @@
 
 + [Java 开发者必备：Stream API 的核心用法与实战技巧](https://mp.weixin.qq.com/s/rl45ysC0VbhRlJ5csrTtEA)
 + [会 java 8 stream流就会大数据！](https://mp.weixin.qq.com/s/czspxfWUDzplShZE0Tvn8w)
++ [Java Streams 中的7个常见错误](https://mp.weixin.qq.com/s/4KeqVOdeosYfRKPgC4HCHg)
 + [【向 JDK 学设计】Stream 核心原理探析](https://mp.weixin.qq.com/s/y6nkLHV6TEbJIbapGi214w)
 + [Java 8 的Stream流那么强大，你知道它的原理吗？](https://mp.weixin.qq.com/s/1a19s9ep56-6Q0BBfwQqgg)
 + [stream流的常用操作](https://mp.weixin.qq.com/s/dUVNHL6N-bA1ntG81tXCzg)
@@ -1260,6 +1265,7 @@
 + [SpringBoot实战：深入理解 Spring Boot 的 ApplicationRunner 接口](https://mp.weixin.qq.com/s/15r9vdvL8hsuiosjOibHug)
 + [用了这么久SpringBoot，这些隐藏技巧你真的掌握了吗？](https://mp.weixin.qq.com/s/_Zetg7oNOmUQdf6wDFDIug)
 + [实战技巧！Spring Boot 非常有用的5个开发技巧，请收藏](https://mp.weixin.qq.com/s/1oU25E2973ani23jVU7FxA)
++ [强大！基于Spring Boot自定义条件动态注册组件](https://mp.weixin.qq.com/s/J8l5BBk7yXv60771Njkcig)
 
 #### 版本特性
 
@@ -1640,6 +1646,7 @@
 + [Spring Boot 通用限流方案，还可以这样玩！](https://mp.weixin.qq.com/s/K9gnyqs5gQaiou7VcvcEnQ)
 + [SpringBoot 双 Token 认证：提升安全性的一站式解决方案](https://mp.weixin.qq.com/s/cW4zJRbtmfn-_D1nej4TSA)
 + [Spring Boot 记录Controller接口请求日志7种方式，第六种性能极高](https://mp.weixin.qq.com/s/hQGwHn3LbXMlwIhWe_BeYA)
++ [5种实现方式配置Spring Boot API接口超时时间](https://mp.weixin.qq.com/s/FOysimMz08omR8WyJYM4ng)
 
 ##### VUE
 
@@ -1711,6 +1718,7 @@
 + [Redis 数据类型全攻略：Spring Boot 中的最佳实践与高级技巧](https://mp.weixin.qq.com/s/EHEZrJ5rluYvAgrzTHYC6w)
 + [Spring Boot JPA Oracle 最佳实践 20 条](https://mp.weixin.qq.com/s/svP9ysRlEz0n8N7322qvpA)
 + [深入理解 Spring Boot 与 Redis 集成的发布与订阅功能](https://mp.weixin.qq.com/s/JU0eCutWKyKOubiB9NiX1g)
++ [订单暴增？揭秘支撑Spring boot 实现百万级并发的分库分表方案](https://mp.weixin.qq.com/s/tED5x3vqpNPgECxYcUCCOg)
 
 ##### TRANSACTION
 
@@ -2003,6 +2011,7 @@
 + [Springboot集成OVal，解决微服务之间数据的一致性和有效性问题](https://mp.weixin.qq.com/s/TRTQDoqMeGvtI5hFBKVRaw)
 + [SpringBoot集成gRPC，解决微服务之间的快速高效的内部通信问题](https://mp.weixin.qq.com/s/KeGUf2JpN-EfOsAHZnElZg)
 + [SpringBoot实战：DeepLearning4j实现图片数字识别](https://mp.weixin.qq.com/s/DYEXU3AS9AH3dWeQcG-aCA)
++ [强大！Spring Boot 图片处理工具，实现缩放，水印，旋转等功能仅需一行代码](https://mp.weixin.qq.com/s/t0NBLVOMh1AeTWbH4Ld0pQ)
 
 #### 自定义实现
 
@@ -2307,6 +2316,7 @@
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
++ [Java异步编程7种实现方法，最后一种非常强大](https://mp.weixin.qq.com/s/EStfXGvoZu_kCQk5TYR46g)
 + [Apache Commons Lang，一个Java语言的魔法炼金术士！](https://mp.weixin.qq.com/s/uZJETm-DAw5g6jLyamnzqg)
 + [@Validated 如何在 List 上使用：批量验证中的小窍门](https://mp.weixin.qq.com/s/nLk_OKzc4EYSQmhkLjqduQ)
 + [数据库连接池大比拼：HikariCP vs Druid，谁更胜一筹？](https://mp.weixin.qq.com/s/XB92vzPDD26_t7JbNKJ8bg)
@@ -2394,6 +2404,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [公司来了个新同事，把代码耗时从 26856ms 优化到了 748ms，一顿操作猛如虎！](https://mp.weixin.qq.com/s/HOX4jnmTugJGwoypQUTeKg)
 + [一个注解解决接口幂等性问题：优雅实现方案解析](https://mp.weixin.qq.com/s/u7YYnEVQ-JH0VDbTgtaeag)
 + [ # 轻松编程：Java常用库全解析](https://mp.weixin.qq.com/s/z6Pw4v7t4RxL_JsEOxp0dA)
 + [如何优雅的解决前后端跨域问题](https://mp.weixin.qq.com/s/noaHNvO5ySRegM33YFb1Eg)

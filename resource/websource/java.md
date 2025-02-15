@@ -49,6 +49,7 @@
 + [Java中的静态属性 vs 实例属性：穿透迷雾看清本质](https://mp.weixin.qq.com/s/zCLLBzCp6ZI6m5voNpSGLg)
 + [深入理解 Java 中的 this 关键字：代码中的“自我引用”](https://mp.weixin.qq.com/s/7tHGEGBpgsQfPkrvN4P5Ig)
 + [只会“有序无序”？面试官嫌弃的List、Set、Map回答！](https://mp.weixin.qq.com/s/ymHiT3nphtC53rUqWzKz2A)
++ [Java 类的组成与应用：从入门到精通](https://mp.weixin.qq.com/s/_1pjieyEcTv1zPSxBz_9jQ)
 + [深入浅出Java中的类与对象：从概念到实践](https://mp.weixin.qq.com/s/JOa4rkdxqFaEjGTYepd4OA)
 + [Java访问修饰符：代码边界的"门禁系统"，你配好了吗？](https://mp.weixin.qq.com/s/vvECj4be9QMYRhW6adcGeQ)
 
@@ -231,6 +232,7 @@
 + [美团面试：new Integer("127") 和 Integer.valueOf("128") 有什么区别](https://mp.weixin.qq.com/s/tmuPhJ3cJ4FNpBg275iuLA)
 + [Java 中的这个绝对值有点不绝对啊！](https://my.oschina.net/u/4009705/blog/16874985)
 + [Java高手必备：Comparable与Comparator接口深度解析](https://mp.weixin.qq.com/s/OTZhBAkYrxFxYtvhUV9WWw)
++ [全面解析 Java Comparator：一步步掌握排序技巧！](https://mp.weixin.qq.com/s/iNzzoI5Mhm7QRLph2YHC6g)
 + [深入解析 Java 包装类：为什么它们如此重要，以及它们如何工作？](https://mp.weixin.qq.com/s/WF0LpxjfAx6eLx9GFHxIeg)
 + [Java中8种字符串拼接方式，性能很意外](https://mp.weixin.qq.com/s/3gvNNKcYHehzfG3sqxM5gw)
 + [面试官：String 类的 intern 方法有什么作用？](https://mp.weixin.qq.com/s/kF4NTp7NztBbF9Ok_xfpeA)
@@ -298,6 +300,7 @@
 + [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
 + [JDK内置的HttpRequest有坑，请绕道！](https://mp.weixin.qq.com/s/XyaOcXoUIKVYbyedKsVEcw)
 + [Java 为什么会有clone方法](https://mp.weixin.qq.com/s/QvjuRgRGXtE48P5PYkJodg)
++ [【java面试100问】95 JDK动态代理为什么只能代理有接口的类？](https://mp.weixin.qq.com/s/ALap4I9rfvQxDkPcS_Db0Q)
 
 ### IO
 
@@ -325,6 +328,9 @@
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java社招面试题：什么叫线程安全？Servlet 是线程安全吗？](https://mp.weixin.qq.com/s/iQZKLDTKuNPgbREyOsxXwQ)
++ [面试中的难题：线程异步执行后如何共享数据？](https://mp.weixin.qq.com/s/PtVX_LsSYs6wAKAbpug_vQ)
++ [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
 + [深入理解并发原子性、可见性、有序性与JMM内存模型](https://mp.weixin.qq.com/s/TXDzrGp3H155UkirK93o1w)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
@@ -362,6 +368,7 @@
 + [多线程性能优化最大的坑，99%的人都不自知！](https://mp.weixin.qq.com/s/-c9aChd6gBpw9HbJmO5TxA)
 + [Java中有几种方法可以实现一个线程](https://mp.weixin.qq.com/s/EnjhtNAJBwx53zBPhr7iBQ)
 + [Java多线程 -- ForkJoin线程池](https://mp.weixin.qq.com/s/oL5O-3TkpxjFhuxCmAUK-w)
++ [线程池ForkJoinPool实战及其工作原理分析](https://mp.weixin.qq.com/s/S8ktG6clQSarwFUXWyX0iw)
 + [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
 + [【多线程】对象的内存布局](https://mp.weixin.qq.com/s/3JI0LunytTfCi2vOZ4ggFA)
 + [【多线程】synchonized实现过程](https://mp.weixin.qq.com/s/Mq_LGyXp0ulFh3LbNMIGGA)
@@ -424,6 +431,7 @@
 + [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
 + [JVM内存布局](https://mp.weixin.qq.com/s/llu3Ke_lQNC40qA4N8tX-g)
++ [面试官：说下 JVM 由哪些部分组成，其运行流程是什么](https://mp.weixin.qq.com/s/dR99aZu41VCUMKhLIZqS1g)
 + [面试官：说说 Class.forName和ClassLoader的区别](https://mp.weixin.qq.com/s/GRhg6GPJtF7M-3tOAp05-A)
 + [JVM的内存管理分为哪些区域？](https://mp.weixin.qq.com/s/Na-JugR0i5uudy9F6o4yUw)
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
@@ -498,6 +506,7 @@
 + [JIT 模式初探（中）：简单实现](https://mp.weixin.qq.com/s/45DQwNGTNdTmdj2jMfMv0w)
 + [【后端性能优化】接口耗时下降60%，CPU负载降低30%](https://mp.weixin.qq.com/s/Su9p7gDcTsWAX-6B-nJe_Q)
 + [jvm----垃圾回收](https://mp.weixin.qq.com/s/fc4OcfPrlrwv1wTugzsN9A)
++ [阿里P6一面：说说类加载器机制的实现原理](https://mp.weixin.qq.com/s/FuAukjq0Fdix4sC4mTDcBQ)
 
 # 核心库
 
@@ -911,6 +920,7 @@
 + [Spring6.2震撼来袭，多线程实例化Bean应用启动速度飙升！](https://mp.weixin.qq.com/s/PKmt3RDtlPvm6hY9YYufow)
 + [新功能来了！Spring非常实用的5个功能](https://mp.weixin.qq.com/s/FMXUDpULOn3HwweOLnFI5w)
 + [重磅发布！Spring 6.2 正式版震撼登场！新特性速览](https://mp.weixin.qq.com/s/dfyqmhWC6GHrOW-yxEDxRg)
++ [注意！@ExceptionHandler异常处理注解有新功能了](https://mp.weixin.qq.com/s/UKfNez4xe1lLeGoCqWbOdA)
 
 ### web
 
@@ -985,6 +995,7 @@
 + [Spring Security核心原理解析](https://mp.weixin.qq.com/s/6OOe5QVj08tO6xSke8wT7Q)
 + [Spring Security + OAuth0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/ktdOTCCxmdLDVGA5pT-c7Q)
 + [Spring Security + OAuth2.0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/T6RfWYcHrB0FSuoYuy3M4Q)
++ [个性化认证！Spring Security 轻松扩展登录字段](https://mp.weixin.qq.com/s/BeKrgF1u6Al9JqgzI-IU7Q)
 
 ### data
 
@@ -1266,6 +1277,7 @@
 + [用了这么久SpringBoot，这些隐藏技巧你真的掌握了吗？](https://mp.weixin.qq.com/s/_Zetg7oNOmUQdf6wDFDIug)
 + [实战技巧！Spring Boot 非常有用的5个开发技巧，请收藏](https://mp.weixin.qq.com/s/1oU25E2973ani23jVU7FxA)
 + [强大！基于Spring Boot自定义条件动态注册组件](https://mp.weixin.qq.com/s/J8l5BBk7yXv60771Njkcig)
++ [Spring Boot 优雅处理 JSON动态属性](https://mp.weixin.qq.com/s/biloTl99mqCUdEnTejfNsA)
 
 #### 版本特性
 
@@ -1719,6 +1731,9 @@
 + [Spring Boot JPA Oracle 最佳实践 20 条](https://mp.weixin.qq.com/s/svP9ysRlEz0n8N7322qvpA)
 + [深入理解 Spring Boot 与 Redis 集成的发布与订阅功能](https://mp.weixin.qq.com/s/JU0eCutWKyKOubiB9NiX1g)
 + [订单暴增？揭秘支撑Spring boot 实现百万级并发的分库分表方案](https://mp.weixin.qq.com/s/tED5x3vqpNPgECxYcUCCOg)
++ [Redis 赋能！Spring Boot 实现高性能分页+多条件模糊查询](https://mp.weixin.qq.com/s/PVZohIwppC2d7KblsHTJ1w)
++ [在 SpringBoot 项目中如何动态切换数据源、数据库？](https://mp.weixin.qq.com/s/OeB4tT2OkwgXKcYB8BJGQw)
++ [在 SpringBoot 项目中如何动态切换数据源、数据库？（可直接CV）](https://mp.weixin.qq.com/s/C1AVKOZwMgjzD3JGRPH4CQ)
 
 ##### TRANSACTION
 

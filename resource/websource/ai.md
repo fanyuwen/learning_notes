@@ -1,4 +1,5 @@
 # 主题
+
 + [AI Agent ： 7大认知框架全解析与代码实现](https://mp.weixin.qq.com/s/37fXT3wPNRQMNtoXPx0ilg)
 + [未来医疗革命：AI如何重塑药物设计](https://mp.weixin.qq.com/s/QCRmkeHfN6wvcj-bwSVblw)
 + [一文详谈RAG优化方案与实践](https://mp.weixin.qq.com/s/HT9bjXpwoSszU_ru-e-9dw)
@@ -32,9 +33,14 @@
 + [一个AI从业者的十年](https://mp.weixin.qq.com/s/UJVz3TddrN7vJZCXD1tEhw)
 + [Ray 分布式计算框架详解](https://my.oschina.net/u/3322952/blog/4719999)
 + [Agent 核心能力：工具使用详解](https://mp.weixin.qq.com/s/tlLa2xfGq0m65EF-94deVA)
++ [PyTorch入门 (1)环境搭建、神经网络普及和Torch基础知识](https://mp.weixin.qq.com/s/lpB1bFRraj85VypQOGlvYg)
+
 ## 资讯
+
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 + [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)
+
 # 算法
+
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)
 + [从零学AI大语言模型Pytorch篇（10）：规约运算](https://mp.weixin.qq.com/s/aooouLYoMYP4r5qoKNwHbA)

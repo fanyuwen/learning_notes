@@ -240,4 +240,5 @@
 + [28 个你必须知道的 HTML5 的新特性，技巧以及技术](https://my.oschina.net/justjavac/blog/68140)
 + [推荐几个还在疯狂输出的前端大佬](https://mp.weixin.qq.com/s/ulkFMO0Vyl6OiHPZDckY4g)
 + [Deno 2.0 正式发布](https://mp.weixin.qq.com/s/B3wyeaYk7MDlps5M-BNvNw)
++ [全面进击的JavaScript运行时：Bun 1.2重磅发布，剑指Node.js生态](https://mp.weixin.qq.com/s/EIHW76nb0JLBg9xCXS40hw)
 + [停止在TS中使用.d.ts文件](https://mp.weixin.qq.com/s/Dt9K5p4WoDSG6HqOFF2bTw)

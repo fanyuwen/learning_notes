@@ -315,6 +315,7 @@
 + [MySQL中，int(10) 的 10代表什么？](https://mp.weixin.qq.com/s/Eq67N4GuQPdzxC0E9jc25g)
 + [面试官：MySQL一次到底插入多少条数据合适啊？](https://mp.weixin.qq.com/s/vaAi5pRwngU0OQ9YQyzFxw)
 + [为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/Vjep4O2_LE-Wu1CVNOyNdg)
++ [MySQL中，EXISTS 和 IN 的区别是什么？](https://mp.weixin.qq.com/s/mvBM1CMqZcsGjHcKCdMhOw)
 
 #### 存储引擎
 
@@ -421,6 +422,7 @@
 + [【java面试100问】62 Hash索引和B+树索引的区别？](https://mp.weixin.qq.com/s/B11dBwdOyEWZ8vptf916Bw)
 + [MySQL 索引的数据结构](https://mp.weixin.qq.com/s/9Q3KAedWv0M-uJBmkooKjA)
 + [MySQL的索引，越多越好吗？需要注意什么？](https://mp.weixin.qq.com/s/6w6HWl2jS3m80GtpSvrVDw)
++ [索引优化全攻略：提升排序、GROUP BY与分页性能](https://mp.weixin.qq.com/s/6M6-ldCSsuucuG5j86kwuw)
 
 ### PostgreSQL
 

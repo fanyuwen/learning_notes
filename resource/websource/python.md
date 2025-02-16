@@ -382,6 +382,7 @@
 + [Fabric：Python自动化部署的秘密武器](https://mp.weixin.qq.com/s/nd7QSsqg2dr_bQ5FHVLWTw)
 + [Python定时任务：让你的代码自己跑，躺着也能完成工作！](https://mp.weixin.qq.com/s/0BG0RBZ4ctrQ5-mQMfWq4A)
 + [如何将我的 Python 脚本提速 300%](https://mp.weixin.qq.com/s/BgJdZbjcyoJof46FGAwsiA)
++ [Python语法简洁易懂：快速实现数据库连接与操作，增删改查很轻松](https://mp.weixin.qq.com/s/yzHw8tuZYGWE_WjolGZESQ)
 
 ## 新特性
 

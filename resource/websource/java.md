@@ -324,6 +324,7 @@
 ### 并发/多线程
 
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
++ [并发编程 - 线程浅试](https://mp.weixin.qq.com/s/mby0p8lVgHCM0VNZWm34bw)
 + [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
@@ -337,6 +338,7 @@
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
 + [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
++ [面试必看！当线程池队列满了，任务会如何处理？](https://mp.weixin.qq.com/s/f8eOmVakkaq5_prOsYGusg)
 + [【java面试100问】79 如何用两个线程轮流输出0到200的值？](https://mp.weixin.qq.com/s/aL-9K37oEAqoQwz5iqzgzA)
 + [“锁”都不知道？下一位。](https://mp.weixin.qq.com/s/DZQ-g1pojLXe_GDiEvaZWQ)
 + [面试官：说说interrupt()、isInterrupted()、Thread.interrupted()的区别](https://mp.weixin.qq.com/s/kkg14Or_7VHG37gdIzz4oA)
@@ -1040,6 +1042,7 @@
 + [一篇文章彻底搞懂 Spring 的事务](https://mp.weixin.qq.com/s/mo50IcW9pUKiV9MlAYtUYw)
 + [面试官：Spring 是如何管理事务的](https://mp.weixin.qq.com/s/haorBpULGh4ojTbbHeAYOg)
 + [Spring 事务有几个隔离级别？如何使用它们？](https://mp.weixin.qq.com/s/d1NxqJ3mK1d-XHA3Et65vg)
++ [问：@Transactional的方法中如何拿到Connection对象？](https://mp.weixin.qq.com/s/fGcS6FZRx27J0aT9eJI_zA)
 
 ### Log
 
@@ -2192,6 +2195,7 @@
 + [玩转Redis！非常强大的Redisson分布式集合，少写60%代码](https://mp.weixin.qq.com/s/rwMlS-ktAHrP3ShlOZPgkA)
 + [使用Redisson时，为何synchronized锁会失灵？](https://mp.weixin.qq.com/s/pcG-izAXi4sVWlDksoJK5w)
 + [Redis分布式锁及Redisson续期源码解析](https://mp.weixin.qq.com/s/1PVgrO7_M6vg_dmDHiTzaA)
++ [为什么推荐用Redisson实现分布式锁，看完直呼好好好](https://mp.weixin.qq.com/s/m_9i4NfpbJeSXACHT9DE9g)
 
 ## rxjava
 
@@ -2249,6 +2253,10 @@
 + [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
 + [决定弃用 Nacos 了！](https://mp.weixin.qq.com/s/X_9xRXBV2Y7gqBTem4lq3Q)
+
+## json
+
++ [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
 
 ## ribbon
 
@@ -2308,6 +2316,7 @@
 
 + [【技术探索新航向】从Java基础到Python测试开发：携手共赴技术之旅](https://mp.weixin.qq.com/s/IYadL9YPvT9US-SH5UvAhg)
 + [TestableMock：解锁Java单元测试的Mock能力](https://mp.weixin.qq.com/s/OvZOjkxRoYUxmVyUT4MfZA)
++ [Selenium - 自动化测试的王者，Web应用测试的Python库！](https://mp.weixin.qq.com/s/GGudgAAYE4I-REos4rTDuQ)
 
 ### jmeter
 
@@ -2418,6 +2427,7 @@
 
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [解锁Hutool BoundedPriorityQueue，搞定热门用户Top 5](https://mp.weixin.qq.com/s/zH5oigwME7ntS4mS9Ofc2w)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
 + [公司来了个新同事，把代码耗时从 26856ms 优化到了 748ms，一顿操作猛如虎！](https://mp.weixin.qq.com/s/HOX4jnmTugJGwoypQUTeKg)
 + [一个注解解决接口幂等性问题：优雅实现方案解析](https://mp.weixin.qq.com/s/u7YYnEVQ-JH0VDbTgtaeag)

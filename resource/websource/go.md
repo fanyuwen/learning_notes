@@ -123,6 +123,7 @@
 + [设计模式 in Go：Factory](https://mp.weixin.qq.com/s/XP-TywpHN6hrgE7-aLu8DQ)
 + [第九章 Golang 开发服务端应用](https://mp.weixin.qq.com/s/KhyS-VTiOG4td1dY_7NEKQ)
 + [Go语言中使用Docker进行开发环境搭建](https://mp.weixin.qq.com/s/tU2ChkJmgzKPMomAGsE0Eg)
++ [Go语言SQLX黑科技：批量插入与查询的终极指南](https://mp.weixin.qq.com/s/-kAZd6vcvuTZ0vr_qj12cA)
 
 # 面试题
 

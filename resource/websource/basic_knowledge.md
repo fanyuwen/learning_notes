@@ -130,6 +130,7 @@
 + [能用到 “退休” 的 600条 Linux 命令，直接起飞！](https://mp.weixin.qq.com/s/XCQ2DJJ6x75UQn6XCl8SuQ)
 + [Linux Shell：从入门到退休](https://mp.weixin.qq.com/s/pquJ2WUwwsHRWzL928prLg)
 + [用 Bash 脚本提取 sudo 组成员的三种方法及其实现解析](https://mp.weixin.qq.com/s/rG1f--z6Do1AElL6iB5AhA)
++ [Linux ifstat 命令使用详解](https://mp.weixin.qq.com/s/-PFB6w74sQ4QDxcBvZ---g)
 
 ### 发行版信息
 
@@ -161,6 +162,7 @@
 + [CPU超频：你会为它买单吗？](https://mp.weixin.qq.com/s/zVSZfYgL8eTwfh5Z0e6Ovg)
 + [搞定面试官：如何在 Windows 和 Linux 上追踪高 CPU 线程？](https://mp.weixin.qq.com/s/upFSiMUfbrMJixdz7kPSEA)
 + [CPU缓存架构&缓存一致性解决方案详解](https://mp.weixin.qq.com/s/_ZSsrUl4eV-GOzIQCMjFbw)
++ [CPU 如何与 I/O 设备和内存进行通信](https://mp.weixin.qq.com/s/8eTLSr6GxuLDcZf6hlvBlQ)
 
 ### 并发
 

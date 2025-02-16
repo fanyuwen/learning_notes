@@ -119,6 +119,7 @@
 + [百亿级分库分布的分片键怎么设计](https://mp.weixin.qq.com/s/Q3wMCEtv08B_4EJfJPQI2Q)
 + [面试官：水平分表如何选择sharding key？分表和分区有什么区别?从Innodb底层存储说明为什么需要做垂直分表？](https://mp.weixin.qq.com/s/vcK01PavP49_pWPofIdbRQ)
 + [分库分表 带来了哪些问题？](https://mp.weixin.qq.com/s/zwWiq6lnaH7WhikkosUBNg)
++ [高并发订单系统设计：每天新增100w订单数据的分库分表方案](https://mp.weixin.qq.com/s/w9U8q-zzHvCLvP8e6dzjRg)
 
 ## 原理解析
 
@@ -378,6 +379,7 @@
 + [(四)MySQL之索引初识篇：索引机制、索引分类、索引使用与管理综述](https://mp.weixin.qq.com/s/Tb9UB3CYjJoRHBXEaFUUww)
 + [让 MySQL 索引失效的哪些场景~](https://mp.weixin.qq.com/s/Cw10DeMxC7vsCH1F8Zakng)
 + [设计索引的原则与使用技巧](https://mp.weixin.qq.com/s/u8SXgCWayRhrB2w98I4kSQ)
++ [MySQL not in 不走索引？胡扯](https://mp.weixin.qq.com/s/x17RH_3rjXbC222siy6ubQ)
 + [索引优化全攻略：提升排序、GROUP BY与分页性能...](https://mp.weixin.qq.com/s/xax_afp6WpljlvblM_lgHA)
 + [基于主键的索引扫描，Postgres 和 Oracle 一定比 MySQL 差吗？](https://mp.weixin.qq.com/s/EfN5b_TdV1YVJ95fZ18W4A)
 + [MySQL中区分度不高的字段索引：一定无用吗？](https://mp.weixin.qq.com/s/UTFgPvHh1KIVfVlmTW4Q0g)
@@ -595,6 +597,7 @@
 + [Redis复制延迟，看看这10个原因！](https://mp.weixin.qq.com/s/-74WwoA4vbMQk5VUhSsxeg)
 + [小红书二面：Redis 集群中节点之间的通信方式？](https://mp.weixin.qq.com/s/ZYkbL4-sVia1kMW_ye0mRA)
 + [面试官：Redis分布式锁如何实现，存在哪些问题？Redlock算法的核心思想是什么？Redis事务原理怎样，是否支持回滚](https://mp.weixin.qq.com/s/MGm9nFdu9ewydPm4My8ADg)
++ [【java面试100问】99 如何使用redis记录上亿用户连续登录天数？](https://mp.weixin.qq.com/s/aS-vybUy39sHhI745tGdJw)
 
 #### 原理
 

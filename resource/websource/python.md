@@ -755,3 +755,4 @@
 + [用python学数学第9课-数学基础4](https://mp.weixin.qq.com/s/VtFkw3yZ7i0TMzZ9bdlD2A)
 + [25 天征服 Rust：一个 Python 程序员的学习之旅](https://mp.weixin.qq.com/s/RdNq1-FRUIMf0IdlYWdTdg)
 + [Python Web框架比较：10个流行的Web框架概览](https://mp.weixin.qq.com/s/m-yh86GcrJvNGvVLky7abw)
++ [为什么Python之父不做Leader不做管理](https://mp.weixin.qq.com/s/7Qk53ubG-ERH6lGNxkaWvg)

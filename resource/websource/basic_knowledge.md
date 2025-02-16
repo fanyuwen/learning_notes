@@ -176,6 +176,8 @@
 + [四大内存区域揭秘：你真的了解你的程序吗？](https://mp.weixin.qq.com/s/hJ-EbMmSx0RS-L9PNkNAjw)
 + [面试题：什么是虚拟内存，它如何与物理内存映射？页面置换算法有哪些，优缺点如何？内存碎片是如何产生的，有哪些解决方法？](https://mp.weixin.qq.com/s/zPjiEof75aUwr7-0KunxqQ)
 + [虚拟内存到底是什么？它真的有用吗？](https://mp.weixin.qq.com/s/qQJJT-NCcHSC-S9Sr_DOMg)
++ [为什么栈内存比堆内存速度快？](https://mp.weixin.qq.com/s/-JKl4nJbVQANIknk3BXRSw)
++ [为什么内存访问会比CPU慢](https://mp.weixin.qq.com/s/5NtkAqMFSKayg-TxnjhSkQ)
 
 ## GPU
 

@@ -52,6 +52,7 @@
 + [Java 类的组成与应用：从入门到精通](https://mp.weixin.qq.com/s/_1pjieyEcTv1zPSxBz_9jQ)
 + [深入浅出Java中的类与对象：从概念到实践](https://mp.weixin.qq.com/s/JOa4rkdxqFaEjGTYepd4OA)
 + [Java访问修饰符：代码边界的"门禁系统"，你配好了吗？](https://mp.weixin.qq.com/s/vvECj4be9QMYRhW6adcGeQ)
++ [Java面向对象编程之封装：代码的“黑匣子”，你了解多少？](https://mp.weixin.qq.com/s/ZWIiybvfRUWKfMdzD72axg)
 
 ## 新语言特性
 
@@ -329,17 +330,21 @@
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
++ [Java虚拟线程：提升高并发性能的秘密武器](https://mp.weixin.qq.com/s/DOYPB9EjMPYgjEf_E1zuwg)
 + [Java社招面试题：什么叫线程安全？Servlet 是线程安全吗？](https://mp.weixin.qq.com/s/iQZKLDTKuNPgbREyOsxXwQ)
 + [面试中的难题：线程异步执行后如何共享数据？](https://mp.weixin.qq.com/s/PtVX_LsSYs6wAKAbpug_vQ)
 + [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
 + [深入理解并发原子性、可见性、有序性与JMM内存模型](https://mp.weixin.qq.com/s/TXDzrGp3H155UkirK93o1w)
++ [Java面试题深度解析：监视器如何实现线程同步？](https://mp.weixin.qq.com/s/_24u4PVW5oQMShnN57WhJw)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
++ [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
 + [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
 + [面试必看！当线程池队列满了，任务会如何处理？](https://mp.weixin.qq.com/s/f8eOmVakkaq5_prOsYGusg)
 + [【java面试100问】79 如何用两个线程轮流输出0到200的值？](https://mp.weixin.qq.com/s/aL-9K37oEAqoQwz5iqzgzA)
++ [并发编程 - 线程同步（一）](https://mp.weixin.qq.com/s/kWjPsDHyaNdfoUND1t3qug)
 + [“锁”都不知道？下一位。](https://mp.weixin.qq.com/s/DZQ-g1pojLXe_GDiEvaZWQ)
 + [面试官：说说interrupt()、isInterrupted()、Thread.interrupted()的区别](https://mp.weixin.qq.com/s/kkg14Or_7VHG37gdIzz4oA)
 + [Java社招面试题：如何实现多线程之间的通讯和协作？](https://mp.weixin.qq.com/s/wlSOyIbOz7QJ0F7V_YtdcQ)
@@ -800,6 +805,7 @@
 + [Java Jar](https://mp.weixin.qq.com/s/e0nfxWbL4XyTiQ_ufSXfDA)
 + [后悔！9个我在运行Java JAR应用时没掌握的关键技巧](https://mp.weixin.qq.com/s/fNYDxJfx3WS771vhqzQNEg)
 + [解决JNI函数动态绑定防追踪](https://mp.weixin.qq.com/s/0V9gsUblJi5vqQmnjMzRrQ)
++ [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
 
 # 包管理工具
 
@@ -812,6 +818,7 @@
 + [一个优秀 Maven 项目，各 Model 间最佳继承设计方案](https://mp.weixin.qq.com/s/haFPYX2_Ym9h1vdgd5ojAw)
 + [Maven多模块工程最佳实践及详细示例](https://mp.weixin.qq.com/s/TEW-FpseM2EmEOVNoCmkgA)
 + [简化Maven项目依赖：优雅去除未使用Jar包](https://mp.weixin.qq.com/s/DWUkenxsvXw-nKu7z8f2aA)
++ [Maven中pom.xml文件配置详解](https://mp.weixin.qq.com/s/cqimIih6y7eE8MYtFcUDBQ)
 
 # 功能
 
@@ -1144,6 +1151,7 @@
 + [Spring Cloud Nacos 配置管理](https://mp.weixin.qq.com/s/rB_ba7IWgWiBpuTDc7h48w)
 + [聊聊 Spring Cloud 全链路灰度发布 方案~](https://mp.weixin.qq.com/s/JwnWMBl6DOqc8wKHA3q7Xg)
 + [使用 Spring Cloud Stream 实现事件驱动的微服务通信：应用消息中间件](https://mp.weixin.qq.com/s/_nQ1tnmZPZvRn1rpC5aYsw)
++ [【2025版SpringCloud面试题】1、Nacos如何实现高可用？](https://mp.weixin.qq.com/s/0uROaKVPgCiWNr63LCDPgg)
 
 #### gateway
 
@@ -1662,6 +1670,7 @@
 + [SpringBoot 双 Token 认证：提升安全性的一站式解决方案](https://mp.weixin.qq.com/s/cW4zJRbtmfn-_D1nej4TSA)
 + [Spring Boot 记录Controller接口请求日志7种方式，第六种性能极高](https://mp.weixin.qq.com/s/hQGwHn3LbXMlwIhWe_BeYA)
 + [5种实现方式配置Spring Boot API接口超时时间](https://mp.weixin.qq.com/s/FOysimMz08omR8WyJYM4ng)
++ [Spring Boot 防盗链功能深度解析，保护你的内容不被盗用！](https://mp.weixin.qq.com/s/KVDbALBjAkXYH56oZ2MmHw)
 
 ##### VUE
 
@@ -2030,6 +2039,8 @@
 + [SpringBoot集成gRPC，解决微服务之间的快速高效的内部通信问题](https://mp.weixin.qq.com/s/KeGUf2JpN-EfOsAHZnElZg)
 + [SpringBoot实战：DeepLearning4j实现图片数字识别](https://mp.weixin.qq.com/s/DYEXU3AS9AH3dWeQcG-aCA)
 + [强大！Spring Boot 图片处理工具，实现缩放，水印，旋转等功能仅需一行代码](https://mp.weixin.qq.com/s/t0NBLVOMh1AeTWbH4Ld0pQ)
++ [SpringBoot3.4.1基于MySQL8和Quartz实现定时任务管理](https://mp.weixin.qq.com/s/u78q0zSx_9d0HBixO9YbbA)
++ [Spring Boot 3.1 实战之基于 Redis 实现分布式锁](https://mp.weixin.qq.com/s/iHZk3WhkQMhZnyQnmDzqLw)
 
 #### 自定义实现
 
@@ -2053,6 +2064,7 @@
 + [一文带你了解什么是servlet](https://mp.weixin.qq.com/s/mVF4wNPQKeokj6vwG6eWJQ)
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
 + [Tomcat 系统架构与原理剖析](https://mp.weixin.qq.com/s/Tw9IPBgizkx8zySX8BMtww)
++ [Tomcat核心配置场景](https://mp.weixin.qq.com/s/YR_KpkT43UO7sWq07j2QPw)
 
 ## quarkus
 
@@ -2281,6 +2293,7 @@
 + [XXL-JOB内部机制大揭秘，任务飞起来！](https://mp.weixin.qq.com/s/MLXQXz93UQcZVpuye1H9eA)
 + [死磕xxl-job（一）](https://mp.weixin.qq.com/s/in1OE5VjVSKm4bD8ulAV1g)
 + [死磕xxl-job（二）](https://mp.weixin.qq.com/s/Dx6-8h4Md0DO4W4Gw9UVVg)
++ [魔改xxl-job，彻底告别手动配置任务！](https://mp.weixin.qq.com/s/t7XWN2f-8mtDxZhbVhXjTw)
 
 ## openFeign
 
@@ -2518,3 +2531,4 @@
 + [一文解秘 Rust 如何与 Java 互操作](https://my.oschina.net/u/6304666/blog/16495845)
 + [MJGA：让 Java 再次伟大！SpringBoot 能否硬刚 Gin？](https://mp.weixin.qq.com/s/mrb4KSHya1jXLCuyV5TSCA)
 + [10 亿次嵌套循环性能对比，Python 表现最差](https://mp.weixin.qq.com/s/esY81rbIil0keaxrifErGg)
++ [拿来即用，一款开源的文件管理系统！](https://mp.weixin.qq.com/s/3vJnSgSA6eAAyvqiHydXEA)

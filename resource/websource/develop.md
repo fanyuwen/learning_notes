@@ -55,6 +55,7 @@
 + [一文搞懂架构设计的衡量标准：功能性、可用性、性能、可扩展性、安全性、协作效率、复杂度、成本效益](https://mp.weixin.qq.com/s/4tGWFvuGhldRWOhvGKDm8w)
 + [深入解析18种软件架构设计模式 （6）- 最终篇](https://mp.weixin.qq.com/s/_UEGTsQ-om4szsWK8NBtVA)
 + [架构设计:边车模式解释](https://mp.weixin.qq.com/s/jG6j08Xr-uMBcORZwegc_A)
++ [系统稳定性建设三件事](https://mp.weixin.qq.com/s/lWh-FLi4dTHC5RHSERtBeg)
 
 ### DDD
 

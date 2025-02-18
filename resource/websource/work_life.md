@@ -47,6 +47,7 @@
 + [大家有没有发现一个奇怪的现象：那些辞职失业后不上班的人，虽然没有工资，但是时间长了再也不想回去上班了。这是为什么？](https://mp.weixin.qq.com/s/FAV83Rh9HyF_eSVHSmOn1A)
 + [没有实际的高并发经验，面试如何吹一波牛？](https://mp.weixin.qq.com/s/AQXRVNI5aOzLFpCdhRPlHA)
 + [一名35岁程序员的失业自救 | 我们这一年](https://mp.weixin.qq.com/s/9QunAN-vd9ERFeLgiyvDqQ)
++ [觉得自己写代码很菜，也没有了当年学习的热情](https://mp.weixin.qq.com/s/QXkZ5tGeXlKeEDe9SdtWpA)
 
 # 个人成长
 

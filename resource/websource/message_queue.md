@@ -101,6 +101,7 @@
 + [RocketMQ(11)延时消息之六：延时消息写入流程](https://mp.weixin.qq.com/s/ogqyn4QG7iJ0jWLFi-u7Jg)
 + [招行面试：10Wqps场景，RocketMQ 顺序消费 的性能 如何提升 ？](https://mp.weixin.qq.com/s/zIntV5H-DDcFjvUCzmE1LA)
 + [面试官：RocketMQ基本架构是怎样的？支持哪几种消息模式? RockerMQ如何保证消息的可靠传输？请解释事务消息的实现原理](https://mp.weixin.qq.com/s/4dNRs-hTM9W1fHOnHnUdQw)
++ [基于RocketMq的分布式事务解决方案](https://mp.weixin.qq.com/s/h8pOALPsi07jZs88obmcGQ)
 
 # RABBITMQ
 

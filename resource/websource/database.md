@@ -69,6 +69,7 @@
 + [SQL优化——我是如何将SQL执行性能提升10倍的](https://mp.weixin.qq.com/s/FDRczYdgZ5kMKU64yMB_fw)
 + [掌握 SQL 子查询：让你成为查询优化高手](https://mp.weixin.qq.com/s/1oBUSdJMZz0ZYo5tRlF9SQ)
 + [深入理解 SQL 联结表：从基础到优化，一篇文章带你掌握](https://mp.weixin.qq.com/s/mMCa_aM8wh4rL7agIUpKug)
++ [原来count(*)是接口性能差的真凶](https://mp.weixin.qq.com/s/Zqm0SDS57I6vkgMikjFSgQ)
 
 # 本地数据库
 
@@ -697,7 +698,11 @@
 
 ### InfluxQL
 
-[分析时序数据：如何从 InfluxQL 迁移到 SQL](https://mp.weixin.qq.com/s/KEscIB7MfRoowMwaHI_oeg)
++ [分析时序数据：如何从 InfluxQL 迁移到 SQL](https://mp.weixin.qq.com/s/KEscIB7MfRoowMwaHI_oeg)
+
+### TiDB
+
++ [别再分库分表了，试试 TiDB！](https://mp.weixin.qq.com/s/mh-3RR8ZriDsEY1qhlR0eA)
 
 ## 内存数据库
 

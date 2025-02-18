@@ -426,6 +426,7 @@
 + [Java社招面试中的高频考点：Callable、Future与FutureTask详解](https://mp.weixin.qq.com/s/binx0xPtU9HWVBRc9yxD4g)
 + [如何利用 CAS 优化高频秒杀场景的库存扣减？](https://mp.weixin.qq.com/s/-zPh1WFdXzaUvAIR7dGgTw)
 + [大厂 Java 面试：同步方法和同步块，90% 的人都选错了！](https://mp.weixin.qq.com/s/Ok8xO1fQtRwH6L1YoVfghw)
++ [并发编程 - 线程同步（六）之锁lock](https://mp.weixin.qq.com/s/dCkCDjrshuGgUpxUfYbQCw)
 
 ## 源码
 
@@ -639,6 +640,7 @@
 
 ### Future
 
++ [并发编程利器：Future 接口使用全攻略！](https://mp.weixin.qq.com/s/3Aj7faxjJhEmGPg2gO48Ag)
 + [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
 + [Java异步编程CompletableFuture(串行,并行,批量执行)](https://mp.weixin.qq.com/s/H8mfKv6ad04OtQzvppOnaA)
 + [JAVA：CompletableFuture 高级应用的技术指南](https://mp.weixin.qq.com/s/9fYiBXqhrQHX5Bog1dn72Q)
@@ -1050,6 +1052,7 @@
 + [面试官：Spring 是如何管理事务的](https://mp.weixin.qq.com/s/haorBpULGh4ojTbbHeAYOg)
 + [Spring 事务有几个隔离级别？如何使用它们？](https://mp.weixin.qq.com/s/d1NxqJ3mK1d-XHA3Et65vg)
 + [问：@Transactional的方法中如何拿到Connection对象？](https://mp.weixin.qq.com/s/fGcS6FZRx27J0aT9eJI_zA)
++ [可能是最漂亮的Spring事务管理详解](https://mp.weixin.qq.com/s/GslUiX3S6agfuy3GERHbZQ)
 
 ### Log
 
@@ -1497,7 +1500,9 @@
 #### WEB
 
 + [Spring Boot 3.4 带来的实用功能：一次性 Token，你用过吗？](https://mp.weixin.qq.com/s/CVHC5t_oxt5OJRebD_LZ6A)
++ [别再写Controller了！Spring Boot 3.4函数式API吊打传统写法](https://mp.weixin.qq.com/s/D80pIAB8ln2ahWnNuouDLA)
 + [超赞！Spring Boot 3.3 自带 Controller 接口监控，大家赶紧用起来](https://mp.weixin.qq.com/s/B5VzAPXIENDB-UK_OK2BjQ)
++ [严重！ Spring Boot3.4 请求参数bug，小心中招](https://mp.weixin.qq.com/s/FH93Jv9xrqv4zjivMv7N2g)
 + [神器！SpringBoot 3.3 中实现 API 接口限流就是这么简单](https://mp.weixin.qq.com/s/w5ykZUftwLnPk1LpcEJ-xg)
 + [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
 + [优雅！Spring Boot 3.3 搭配 JSON Schema 实现灵活的 JSON 数据定义与验证](https://mp.weixin.qq.com/s/Xaypx5KNIBbUjgbH6fsluA)
@@ -1513,6 +1518,7 @@
 + [Spring Boot 3.4.1 搭配 Spring Security 6.4.2 实现内存与 MySQL 双模式用户认证](https://mp.weixin.qq.com/s/Hba-qrcmDnIwmwUYQARYAA)
 + [SpringBoot3.4.1和Spring Security6.4.2实现基于内存和MySQL的用户认证](https://mp.weixin.qq.com/s/EQP4JcyYnNDdy_EurdjhfA)
 + [Spring Boot 3.4 实现接口耗时记录：基于 ServletRequestHandledEvent 的优雅方案](https://mp.weixin.qq.com/s/kceAZZ22M_3NbiCQ4IrkOA)
++ [接口耗时从2秒到50ms！Spring Boot 3.4性能调优全链路实操](https://mp.weixin.qq.com/s/3T35lcu0cycqMbrbDNtLFw)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [SpringBoot 优雅参数校验](https://mp.weixin.qq.com/s/dl72n39er1QRCuus2voJdQ)
 + [基于Spring Boot REST API设计指南](https://mp.weixin.qq.com/s/AG0zlGpEZkpWuu37lERM8g)
@@ -2041,6 +2047,7 @@
 + [强大！Spring Boot 图片处理工具，实现缩放，水印，旋转等功能仅需一行代码](https://mp.weixin.qq.com/s/t0NBLVOMh1AeTWbH4Ld0pQ)
 + [SpringBoot3.4.1基于MySQL8和Quartz实现定时任务管理](https://mp.weixin.qq.com/s/u78q0zSx_9d0HBixO9YbbA)
 + [Spring Boot 3.1 实战之基于 Redis 实现分布式锁](https://mp.weixin.qq.com/s/iHZk3WhkQMhZnyQnmDzqLw)
++ [SpringBoot与Resilience4j整合,解决批处理任务出错时，导致整个批处理无法继续进行的问题](https://mp.weixin.qq.com/s/_ORqjRASZavo9iSVmykEag)
 
 #### 自定义实现
 
@@ -2121,6 +2128,7 @@
 + [MyBatis 内置连接池原理详解！](https://mp.weixin.qq.com/s/ujMAvAvExX0bSvUCqw-jPg)
 + [MyBatis缓存：深入理解一级缓存和二级缓存](https://mp.weixin.qq.com/s/9BPtuJTldaLTYAxXRvF4sQ)
 + [【java面试100问】92 Mybatis是如何进行分页的？](https://mp.weixin.qq.com/s/BNGfizkvTcHx2WxkEjSKjw)
++ [MyBatis 核心精要探秘](https://mp.weixin.qq.com/s/l4xuYof81T0MlNrx3g6JKg)
 
 ### plus
 

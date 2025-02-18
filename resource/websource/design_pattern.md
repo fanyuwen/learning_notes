@@ -43,6 +43,7 @@
 + [项目中常用到的设计模式之单例模式详解](https://mp.weixin.qq.com/s/yfYZwIJc7RqLExO01ZOu0Q)
 + [【设计模式】单例模式](https://mp.weixin.qq.com/s/T2p8qRdAqCNUXLp1qMei3Q)
 + [如果让你写单例，你通常会采用哪种实现？](https://mp.weixin.qq.com/s/p0BzayosHo9-khp9a7eKPQ)
++ [面试官：单例模式都说不清楚，还说自己会设计模式！！!](https://mp.weixin.qq.com/s/_G-9gWexeci5O-Kq7nzakA)
 
 ## 工厂模式
 

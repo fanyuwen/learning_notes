@@ -73,3 +73,30 @@
     + *create*是*Flux*的一种更高级的程序化创建形式,它适用于每轮多次发射,甚至来自多个线程.它公开了*FluxSink*及其*next*、*error*和*complete*方法.与*generate*相反,它没有基于状态的变体.另一方面，它可以在回调中触发多线程事件
       > create不会使代码并行化,也不会使代码异步化,尽管它可以与异步api一起使用.如果在create lambda中阻塞,就会使自己暴露于死锁和类似的副作用.即使使用subscribeOn,也有一个警告,即长阻塞的create lambda(例如调用sink.next(t)的无限循环)可能会锁定管道:由于循环占用了它们应该运行的同一个线程,因此请求(request方法)永远不会被执行,
       > 使用subscribeOn(Scheduler, false)变体:requestOnSeparateThread = false将使用Scheduler线程进行创建,并且仍然通过在原始线程中执行请求来让数据流动.
+        ```java
+            //假设您使用基于侦听器的API。它按块处理数据，并有两个事件：(1)数据块准备就绪；(2)处理完成（终端事件），如MyEventListener接口所示:
+            interface MyEventListener<T> {
+                void onDataChunk(List<T> chunk);
+                void processComplete();
+            }
+      
+            //你可以使用create将它桥接到Flux<T>：
+            Flux<String> bridge = Flux.create(sink -> {
+                 myEventProcessor.register(//所有这些都是在myEventProcessor执行时异步完成的。
+                   //桥接到MyEventListener API
+                   new MyEventListener<String>() {
+
+                      public void onDataChunk(List<String> chunk) {
+                         for(String s : chunk) {
+                            //块中的每个元素都会成为Flux中的一个元素。
+                            sink.next(s); 
+                         }
+                      }
+
+                      public void processComplete() {
+                         //processComplete事件被转换为onComplete。
+                         sink.complete(); 
+                      }
+                   });
+            });
+        ```

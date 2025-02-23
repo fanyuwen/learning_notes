@@ -84,6 +84,7 @@
 + [专业解读：DDD充血模型最佳实践](https://mp.weixin.qq.com/s/pAQwampvv9c3BaNts8A3Yw)
 + [如何使用DDD设计微服务代码模型？](https://mp.weixin.qq.com/s/IZzK9BXGKAAEfW48aogsvg)
 + [聚合和聚合根：怎样设计聚合？](https://mp.weixin.qq.com/s/-cGWiPv9Ad26zyG6UeI_PA)
++ [支付系统DDD重构设想](https://mp.weixin.qq.com/s/pjVv6yIEz03XcYxkdu6R1w)
 
 ## 微服务
 
@@ -485,6 +486,7 @@
 + [如何快速同步第三方平台数据？](https://mp.weixin.qq.com/s/v9WKa-9C2w0UhmDQcVXmTw)
 + [延迟双删如此好用，为何大厂从来不用](https://mp.weixin.qq.com/s/CR7e6pjKd5cPdVnkq5mqbw)
 + [如何实现自动登录的功能](https://mp.weixin.qq.com/s/EkGClcmMCxb1Qz19is3A9Q)
++ [高并发下秒杀系统的设计](https://mp.weixin.qq.com/s/E8mIPrLjYM9Hjo0pEmxk4w)
 
 # 测试相关
 

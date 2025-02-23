@@ -70,6 +70,7 @@
 + [掌握 SQL 子查询：让你成为查询优化高手](https://mp.weixin.qq.com/s/1oBUSdJMZz0ZYo5tRlF9SQ)
 + [深入理解 SQL 联结表：从基础到优化，一篇文章带你掌握](https://mp.weixin.qq.com/s/mMCa_aM8wh4rL7agIUpKug)
 + [原来count(*)是接口性能差的真凶](https://mp.weixin.qq.com/s/Zqm0SDS57I6vkgMikjFSgQ)
++ [GROUP BY和DISTINCT有什么区别?](https://mp.weixin.qq.com/s/sRfQhDeVcn9p_i6R_lixAg)
 
 # 本地数据库
 
@@ -318,6 +319,7 @@
 + [面试官：MySQL一次到底插入多少条数据合适啊？](https://mp.weixin.qq.com/s/vaAi5pRwngU0OQ9YQyzFxw)
 + [为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/Vjep4O2_LE-Wu1CVNOyNdg)
 + [MySQL中，EXISTS 和 IN 的区别是什么？](https://mp.weixin.qq.com/s/mvBM1CMqZcsGjHcKCdMhOw)
++ [一定要会！MySQL窗口函数太实用了，再也不怕复杂SQL查询了](https://mp.weixin.qq.com/s/jInvFF5bHSZCXrWjIzmRuQ)
 
 #### 存储引擎
 
@@ -599,6 +601,8 @@
 + [小红书二面：Redis 集群中节点之间的通信方式？](https://mp.weixin.qq.com/s/ZYkbL4-sVia1kMW_ye0mRA)
 + [面试官：Redis分布式锁如何实现，存在哪些问题？Redlock算法的核心思想是什么？Redis事务原理怎样，是否支持回滚](https://mp.weixin.qq.com/s/MGm9nFdu9ewydPm4My8ADg)
 + [【java面试100问】99 如何使用redis记录上亿用户连续登录天数？](https://mp.weixin.qq.com/s/aS-vybUy39sHhI745tGdJw)
++ [美团面试：MySQL里有2000w数据，redis中只存20w的数据，如何保证redis中的数据都是热点数据](https://mp.weixin.qq.com/s/wTKsR44WkvVL07GgHCC6Qw)
++ [面试题系列： 两个Redis集群 如何平滑数据迁移?](https://mp.weixin.qq.com/s/SgS_KPjKCdglj9VySbywOQ)
 
 #### 原理
 
@@ -703,6 +707,8 @@
 ### TiDB
 
 + [别再分库分表了，试试 TiDB！](https://mp.weixin.qq.com/s/mh-3RR8ZriDsEY1qhlR0eA)
++ [别再分库分表了，试试TiDB！](https://mp.weixin.qq.com/s/1p4QjbW_yiZKvajfW8wRpA)
++ [TiDB实战：优雅替代MySQL分库分表](https://mp.weixin.qq.com/s/I2H24oGWuMgzDp5BgiKF8Q)
 
 ## 内存数据库
 

@@ -21,6 +21,7 @@
 + [SRE常用工具和命令分享](https://mp.weixin.qq.com/s/WqvIgzLH0UwEL_4y1jguhA)
 + [Ansible：一键部署Keepalived高可用集群](https://mp.weixin.qq.com/s/drFUv6BQ9BOMLu_O3E7leQ)
 + [20. 在你上一家公司中是如何如何实现蓝绿发布的？](https://mp.weixin.qq.com/s/E65VazHROtx8AXJej8aL3A)
++ [小团队 CI/CD 实践：无需运维，Java Web应用的自动化部署](https://mp.weixin.qq.com/s/AceyGxWS_j7Wh19zRcsZwg)
 
 ## JENKINS
 

@@ -48,6 +48,8 @@
 + [没有实际的高并发经验，面试如何吹一波牛？](https://mp.weixin.qq.com/s/AQXRVNI5aOzLFpCdhRPlHA)
 + [一名35岁程序员的失业自救 | 我们这一年](https://mp.weixin.qq.com/s/9QunAN-vd9ERFeLgiyvDqQ)
 + [觉得自己写代码很菜，也没有了当年学习的热情](https://mp.weixin.qq.com/s/QXkZ5tGeXlKeEDe9SdtWpA)
++ [AI 正在培养一代不会编程的 “文盲程序员”？](https://mp.weixin.qq.com/s/MdnD_HDH7ToYOpdU3kuhlQ)
++ [AI 正在培养“文盲”程序员？](https://mp.weixin.qq.com/s/rTjtYc4XzmYoUI_JQpyWVQ)
 
 # 个人成长
 

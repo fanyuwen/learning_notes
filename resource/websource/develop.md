@@ -85,6 +85,7 @@
 + [如何使用DDD设计微服务代码模型？](https://mp.weixin.qq.com/s/IZzK9BXGKAAEfW48aogsvg)
 + [聚合和聚合根：怎样设计聚合？](https://mp.weixin.qq.com/s/-cGWiPv9Ad26zyG6UeI_PA)
 + [支付系统DDD重构设想](https://mp.weixin.qq.com/s/pjVv6yIEz03XcYxkdu6R1w)
++ [DDD、中台和微服务：它们是如何协作的？](https://mp.weixin.qq.com/s/a1kJ0flaO5ThYxRP1s79OQ)
 
 ## 微服务
 

@@ -131,6 +131,7 @@
 + [Linux Shell：从入门到退休](https://mp.weixin.qq.com/s/pquJ2WUwwsHRWzL928prLg)
 + [用 Bash 脚本提取 sudo 组成员的三种方法及其实现解析](https://mp.weixin.qq.com/s/rG1f--z6Do1AElL6iB5AhA)
 + [Linux ifstat 命令使用详解](https://mp.weixin.qq.com/s/-PFB6w74sQ4QDxcBvZ---g)
++ [Vim自动命令](https://mp.weixin.qq.com/s/eySncNIHf14JeFO0JXFL6Q)
 
 ### 发行版信息
 

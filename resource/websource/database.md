@@ -470,6 +470,7 @@
 
 ### REDIS
 
++ [如何系统学习Redis](https://mp.weixin.qq.com/s/wlyIkR8s8EqVv9PrgRd1Dg)
 + [为什么会出现 Redis？它有什么用？](https://mp.weixin.qq.com/s/zdAZNpWcWcgL0Zh0DDk-2A)
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
@@ -603,6 +604,7 @@
 + [【java面试100问】99 如何使用redis记录上亿用户连续登录天数？](https://mp.weixin.qq.com/s/aS-vybUy39sHhI745tGdJw)
 + [美团面试：MySQL里有2000w数据，redis中只存20w的数据，如何保证redis中的数据都是热点数据](https://mp.weixin.qq.com/s/wTKsR44WkvVL07GgHCC6Qw)
 + [面试题系列： 两个Redis集群 如何平滑数据迁移?](https://mp.weixin.qq.com/s/SgS_KPjKCdglj9VySbywOQ)
++ [基于Redis的三种限流算法解析与应用](https://mp.weixin.qq.com/s/rRqxqNzN7Z0NeYUGnczEHw)
 
 #### 原理
 

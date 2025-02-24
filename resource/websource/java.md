@@ -30,6 +30,7 @@
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
 + [为什么要使用泛型？使用泛型带给你的好处有哪些 ？](https://mp.weixin.qq.com/s/oCIuao07Brok-T0FPzu17w)
++ [Java泛型：代码世界的“万能钥匙”与“类型契约”](https://mp.weixin.qq.com/s/gKChDbIL6tuhWZJBUCmn3Q)
 + [Java 泛型详解：从基础到实战](https://mp.weixin.qq.com/s/-n_DgYuBfabXXCQVqGOA6g)
 + [来聊聊Java中的可变参数](https://mp.weixin.qq.com/s/6iVBZLHejYbL3pCzVZei8Q)
 + [Java学习笔记——数据结构](https://mp.weixin.qq.com/s/pPSAOHtdCtr6P7-L01Ms1Q)
@@ -55,6 +56,7 @@
 + [深入浅出Java中的类与对象：从概念到实践](https://mp.weixin.qq.com/s/JOa4rkdxqFaEjGTYepd4OA)
 + [Java访问修饰符：代码边界的"门禁系统"，你配好了吗？](https://mp.weixin.qq.com/s/vvECj4be9QMYRhW6adcGeQ)
 + [Java面向对象编程之封装：代码的“黑匣子”，你了解多少？](https://mp.weixin.qq.com/s/ZWIiybvfRUWKfMdzD72axg)
++ [我们来捋一捋JAVA的异常](https://mp.weixin.qq.com/s/n8IQtygGfXEAJovtyCheVQ)
 
 ## 新语言特性
 
@@ -340,6 +342,7 @@
 + [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
 + [深入理解并发原子性、可见性、有序性与JMM内存模型](https://mp.weixin.qq.com/s/TXDzrGp3H155UkirK93o1w)
 + [Java面试题深度解析：监视器如何实现线程同步？](https://mp.weixin.qq.com/s/_24u4PVW5oQMShnN57WhJw)
++ [并发编程 - 线程同步（五）之原子操作Interlocked详解二](https://mp.weixin.qq.com/s/jXoeZdcOPBiSCBbvOkwbkQ)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
@@ -433,6 +436,7 @@
 + [并发编程 - 线程同步（六）之锁lock](https://mp.weixin.qq.com/s/dCkCDjrshuGgUpxUfYbQCw)
 + [异步处理优化：多线程线程池与消息队列的选择与应用](https://mp.weixin.qq.com/s/UHALDebqfvvE2fMS43WzNg)
 + [Java面试必考！揭秘as-if-serial与happens-before的关键区别](https://mp.weixin.qq.com/s/Le5vONa9WyIdmMG6iCNxxA)
++ [Java中的锁机制](https://mp.weixin.qq.com/s/deJWkYz8uw2aHYZwtb6VIg)
 
 ## 源码
 
@@ -445,6 +449,7 @@
 + [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
 + [JVM内存布局](https://mp.weixin.qq.com/s/llu3Ke_lQNC40qA4N8tX-g)
++ [面试官：说下CMS垃圾收集器的过程](https://mp.weixin.qq.com/s/Kt-f2JFgNaCaygMPbWJcGw)
 + [面试官：说下 JVM 由哪些部分组成，其运行流程是什么](https://mp.weixin.qq.com/s/dR99aZu41VCUMKhLIZqS1g)
 + [面试官：说说 Class.forName和ClassLoader的区别](https://mp.weixin.qq.com/s/GRhg6GPJtF7M-3tOAp05-A)
 + [JVM的内存管理分为哪些区域？](https://mp.weixin.qq.com/s/Na-JugR0i5uudy9F6o4yUw)
@@ -470,6 +475,7 @@
 + [JVM内存溢出详解(4大常见原因及解决方案)](https://mp.weixin.qq.com/s/GH0-Z96bWpp9ZhxQ9cc1fw)
 + [Java 字节码入门](https://my.oschina.net/xiandafu/blog/677685)
 + [JVM类加载机制详解(5大加载步骤图解)](https://mp.weixin.qq.com/s/qoDICn_nA56UrF2MihlFSg)
++ [【2025版JVM面试题】18、十分钟彻底掌握Java类加载机制](https://mp.weixin.qq.com/s/Dj8qvi1WwHHb9PfIEw1rMQ)
 + [深入了解双亲委派机制（常说的类加载机制）](https://mp.weixin.qq.com/s/XaPwZLrsUD0mGSRdBw2b0w)
 + [一文搞懂 5 种内存溢出案例，内含完整源码](https://my.oschina.net/u/4526289/blog/11206103)
 + [面试官对于JVM类加载机制的猛烈炮火，你能顶住吗？](https://mp.weixin.qq.com/s/tsHR_ZkbrBpKYIQy9mde1A)
@@ -2017,6 +2023,7 @@
 + [生产环境修改Spring Boot配置文件不重启也能实时生效](https://mp.weixin.qq.com/s/66adKelmelJ6vldOfA27tQ)
 + [技巧！Spring Boot 动态刷新及实时监控配置文件的变化](https://mp.weixin.qq.com/s/IaKjWOxIKcpvA2TlnfUdKw)
 + [Spring Boot 配置文件的高级用法与技巧](https://mp.weixin.qq.com/s/PBHqQAEbxXNbA0aXU9f6FQ)
++ [动态加载 Jar 包，玩转动态配置](https://mp.weixin.qq.com/s/t6Z0cw3CTxSYF9hvBOgDYQ)
 
 #### 集成三方
 
@@ -2066,6 +2073,7 @@
 + [springboot集成zookeeper的增删改查、节点监听、分布式读写锁、分布式计数器](https://mp.weixin.qq.com/s/jKkH2802Vdtl7-D3l_TTiA)
 + [Spring Boot 基于 BeanPostProcessor + Redis 轻量级属性动态配置](https://mp.weixin.qq.com/s/f3bNw9FZk3ipY-6oiGfI1Q)
 + [轻量，强大！JavaMelody实时监控Spring Boot 不依赖第三方的开源插件](https://mp.weixin.qq.com/s/STTYpFHn4Zh5OFjAZIOWGA)
++ [高效数据隔离方案：SpringBoot+JSqlParser 全解析](https://mp.weixin.qq.com/s/QYis-mM8cITrzuNbuV4ALQ)
 
 #### 自定义实现
 
@@ -2242,6 +2250,7 @@
 
 ## caffeine
 
++ [Caffeine缓存：从入门到精通](https://mp.weixin.qq.com/s/j9ScM_QHjlVoadiMXkDADw)
 + [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
 + [缓存框架 Caffeine 的可视化探索与实践](https://my.oschina.net/vivotech/blog/14189225)
 + [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
@@ -2468,6 +2477,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [解锁Hutool BoundedPriorityQueue，搞定热门用户Top 5](https://mp.weixin.qq.com/s/zH5oigwME7ntS4mS9Ofc2w)
++ [阿里二面：在高并发场景下如何保证消息只被消费一次？深度解析分布式系统幂等性设计](https://mp.weixin.qq.com/s/J3Iekecwk3KGj51yqDXsMw)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
 + [深夜奋战：解决 nohup java -jar xxx.jar 启动失败的曲折之路](https://mp.weixin.qq.com/s/Qb7b-OTOun80qmJ4Hs1V6Q)
 + [公司来了个新同事，把代码耗时从 26856ms 优化到了 748ms，一顿操作猛如虎！](https://mp.weixin.qq.com/s/HOX4jnmTugJGwoypQUTeKg)

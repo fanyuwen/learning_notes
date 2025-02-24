@@ -124,6 +124,7 @@
 + [第九章 Golang 开发服务端应用](https://mp.weixin.qq.com/s/KhyS-VTiOG4td1dY_7NEKQ)
 + [Go语言中使用Docker进行开发环境搭建](https://mp.weixin.qq.com/s/tU2ChkJmgzKPMomAGsE0Eg)
 + [Go语言SQLX黑科技：批量插入与查询的终极指南](https://mp.weixin.qq.com/s/-kAZd6vcvuTZ0vr_qj12cA)
++ [深入理解Go语言变量与作用域：让你的代码更简洁高效](https://mp.weixin.qq.com/s/Pc6p32fcCljSZp02R1o-GQ)
 
 # 面试题
 

@@ -196,6 +196,7 @@
 + [在 Node.js 中操作 Redis 数据库](https://mp.weixin.qq.com/s/0qVQE32xWcRqVC2thUC3Pw)
 + [前端学习之NodeJS——browser-management](https://mp.weixin.qq.com/s/3YJXxoRKwoN1ppaUfqfMug)
 + [Node.js中Event模块详解](https://mp.weixin.qq.com/s/uCseFMoOaKLDD145hk548g)
++ [Node.js中HTTP服务创建详解](https://mp.weixin.qq.com/s/kyqO3eI7IpuYYyIvpNeI3Q)
 
 ## vite
 
@@ -243,3 +244,4 @@
 + [Deno 2.0 正式发布](https://mp.weixin.qq.com/s/B3wyeaYk7MDlps5M-BNvNw)
 + [全面进击的JavaScript运行时：Bun 1.2重磅发布，剑指Node.js生态](https://mp.weixin.qq.com/s/EIHW76nb0JLBg9xCXS40hw)
 + [停止在TS中使用.d.ts文件](https://mp.weixin.qq.com/s/Dt9K5p4WoDSG6HqOFF2bTw)
++ [TypeScript 需要一个更好的依赖注入框架](https://mp.weixin.qq.com/s/wWcgxaYxVnqTVywUSOgZXg)

@@ -56,6 +56,7 @@
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [编程十年的感悟](https://mp.weixin.qq.com/s/S4ofBQ__F6JLUsQ_18OM-g)
 + [程序员如何快速学习并掌握一门新技术？](https://mp.weixin.qq.com/s/7whEuRfo8FCvsbRVgi7lYg)
++ [35岁Java程序员出路何在？这5个新兴赛道正在疯狂招人！](https://mp.weixin.qq.com/s/_bqkICFaAP2UUh_d9dDMTA)
 + [成为高级开发者的不成文规则：晋升的 4 个步骤](https://mp.weixin.qq.com/s/h_vvH7pcVLcCKCr0RJza6w)
 + [我一直在用 Java，但是我一直都不喜欢 Java！](https://mp.weixin.qq.com/s/XL5LDpd3jeCnu3IGCEh2zA)
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)

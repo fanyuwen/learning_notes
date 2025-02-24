@@ -155,6 +155,7 @@
 ### MYSQL
 
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
++ [初学者也能掌握的MySQL Explain技巧](https://mp.weixin.qq.com/s/SqfeXQmy9NCUYhX8mAZkxA)
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
 + [Mysql Explain 执行计划详解](https://mp.weixin.qq.com/s/eDbVPzlgK97MnRzE6WyNmA)
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
@@ -326,6 +327,7 @@
 + [【Java面试100题突击】71 介绍一下MySQL的体系架构](https://mp.weixin.qq.com/s/ksyGaNI4-lCXZ9tTDj8vzQ)
 + [深入解析：一条查询语句在 MySQL 中的执行之旅](https://mp.weixin.qq.com/s/_IZ6PTt5FosbvecAhMsHAQ)
 + [MySQL中，Change Buffer是什么？它有什么作用？](https://mp.weixin.qq.com/s/M4fiK2Fy2oq5gbH7XhWOnQ)
++ [MySQL数据实时同步到Elasticsearch的高效解决方案](https://mp.weixin.qq.com/s/-X3MaEX3oiOwrNhPfiwOUA)
 
 #### 存储引擎
 
@@ -366,6 +368,7 @@
 + [MySQL死锁日志详解：从原理到实践](https://mp.weixin.qq.com/s/sow_yTEjnE7zKSmIrQ3vGQ)
 + [面试官：MySQL中有哪几种锁，各自的特点是什么？MyISAM和InnoDB在锁机制的区别？行级锁实现原理？死锁的产生与排查？](https://mp.weixin.qq.com/s/_Q-zXUXxLWOkK0ceu0Ce0g)
 + [Mysql 加锁机制与死锁分析](https://mp.weixin.qq.com/s/pWHpiw_7XS6sTEueB0ew8w)
++ [美团面试：MySQL悲观锁是什么？谈谈底层实现原理？](https://mp.weixin.qq.com/s/oILBAneMNvYG4OU5tuADAg)
 
 #### 事务
 
@@ -380,6 +383,7 @@
 + [什么是数据库隔离级别？它们有什么作用？](https://mp.weixin.qq.com/s/_DP6iNvbeOmPsgNLHc5U3Q)
 + [美团面试：binlog、redolog、undo log底层原理是啥？分别实现ACID哪个特性？（尼恩图解，史上最全）](https://mp.weixin.qq.com/s/p1eHHIVPetADdrWe__Hdbw)
 + [MySQL 分布式事务详解](https://mp.weixin.qq.com/s/lzpm_29ZtJq8pRTXfAQTig)
++ [一文读懂数据库并发三大“坑”：幻读、脏读和不可重复读！](https://mp.weixin.qq.com/s/lGsxRuD2dfl_x5V3rjPZAg)
 
 #### 索引
 

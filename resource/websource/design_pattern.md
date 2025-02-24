@@ -19,6 +19,7 @@
 + [Java 实现责任链模式 + 策略模式：优雅处理多级请求的方式](https://mp.weixin.qq.com/s/oSlxq_baRRVslcpPjDswcA)
 + [工作中最常用的 8 种设计模式](https://mp.weixin.qq.com/s/H6P7UVwXF_hqEeZUzyo1gg)
 + [揭秘 Java 与设计模式：编程路上的 “指南针” 与 “秘籍”](https://mp.weixin.qq.com/s/0lLI4HU2Fpmm6ggK4FUOUw)
++ [面试官为啥总爱问发布订阅模式？看完这篇你就懂了！](https://mp.weixin.qq.com/s/8qAdZcthK_9Oj7CcaGgf2w)
 
 # 并发设计模式
 
@@ -44,6 +45,7 @@
 + [【设计模式】单例模式](https://mp.weixin.qq.com/s/T2p8qRdAqCNUXLp1qMei3Q)
 + [如果让你写单例，你通常会采用哪种实现？](https://mp.weixin.qq.com/s/p0BzayosHo9-khp9a7eKPQ)
 + [面试官：单例模式都说不清楚，还说自己会设计模式！！!](https://mp.weixin.qq.com/s/_G-9gWexeci5O-Kq7nzakA)
++ [设计模式-单例模式](https://mp.weixin.qq.com/s/YuqvRMEOx_eoQzkPQcTNSw)
 
 ## 工厂模式
 

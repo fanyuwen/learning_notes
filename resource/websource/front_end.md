@@ -43,6 +43,7 @@
 ### 底层
 
 + [浅谈 JS 内存机制](https://mp.weixin.qq.com/s/yWoZTlnhWsG3Gj0CsKEb0A)
++ [JavaScript性能突破：V8引擎原理与模块化实战全解析！](https://mp.weixin.qq.com/s/z3xJiOjRbCejp22EOPZIPg)
 
 ## 实践
 

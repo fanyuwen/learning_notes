@@ -20,6 +20,7 @@
 + [基于 ZooKeeper 实现分布式锁](https://mp.weixin.qq.com/s/uBM6QYayaWz2GwjFsnxPkA)
 + [彻底搞懂如何通过 ZooKeeper 实现注册中心](https://mp.weixin.qq.com/s/ta18BHTXUk19_bFIEYiJ-Q)
 + [ZooKeeper可视化界面：提升分布式系统管理的效率](https://mp.weixin.qq.com/s/MGBeu6cOszZMU1Mnco4o4g)
++ [解密ZAB协议：Zookeeper一致性的核心实现](https://mp.weixin.qq.com/s/bZQL3FtFM7M4K7dVNvRoXQ)
 
 # Thrift
 

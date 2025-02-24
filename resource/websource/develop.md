@@ -58,6 +58,7 @@
 + [系统稳定性建设三件事](https://mp.weixin.qq.com/s/lWh-FLi4dTHC5RHSERtBeg)
 + [架构设计三原则](https://mp.weixin.qq.com/s/2omv_t675EgCcgZTcZ4P-w)
 + [架构复杂度设计](https://mp.weixin.qq.com/s/KNoG5S0U7o5xLjzS48DBfw)
++ [深入了解软件架构：组件、容器与模块架构图详解](https://mp.weixin.qq.com/s/dPkh_q-hHeh7c5HrRkSd1Q)
 
 ### DDD
 
@@ -146,6 +147,7 @@
 + [微服务架构模型：几种常见模型的对比和分析](https://mp.weixin.qq.com/s/aVBYoX0K8F2d4g7VboekVw)
 + [边界：微服务的各种边界在架构演进中的作用？](https://mp.weixin.qq.com/s/iAzmhWTzHQ_OXjjZ0_vx0w)
 + [微服务是不是一种错误的方向](https://my.oschina.net/yuyenews/blog/17681156)
++ [微服务架构的实施与挑战：模式、优势与应对](https://mp.weixin.qq.com/s/0vRnek7EXEliBb748HOr7g)
 
 # 分布式
 
@@ -354,6 +356,7 @@
 + [如何使用关闭延迟定时器来设计开启延迟定时器操作？](https://mp.weixin.qq.com/s/TStxEJ6D-A2B4BwUBgsPGg)
 + [订单超时自动取消的实现方案](https://mp.weixin.qq.com/s/ZKAumSPwn8EHtb8h490VOw)
 + [2. 电商平台中订单未支付过期如何实现自动关单？](https://mp.weixin.qq.com/s/e3-Z89A-QPgDJf9g9pSGtw)
++ [订单到期关闭的多种实现方式解析](https://mp.weixin.qq.com/s/vQ8oZwpHxShH3tFckCC6wQ)
 
 ## 缓存
 

@@ -56,6 +56,7 @@
 + [从零开始，用 Rust 手把手教你打造专属 GitOps 控制器！](https://mp.weixin.qq.com/s/Mxyj8id1liZwLfEPdFzyzQ)
 + [Rust 闭包：高效编程的秘密武器](https://mp.weixin.qq.com/s/sk7Vzlc8fGSt1Sw6e5TbwA)
 + [Rust动态大小类型（DST）与Sized 特质](https://mp.weixin.qq.com/s/pIR4epuYbTo96OwAqMwWEg)
++ [掌握 Rust 语言的终极秘籍](https://mp.weixin.qq.com/s/WizCFIvOdP8sLxE6mFuSYA)
 
 # 框架
 

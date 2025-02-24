@@ -179,6 +179,7 @@
 + [虚拟内存到底是什么？它真的有用吗？](https://mp.weixin.qq.com/s/qQJJT-NCcHSC-S9Sr_DOMg)
 + [为什么栈内存比堆内存速度快？](https://mp.weixin.qq.com/s/-JKl4nJbVQANIknk3BXRSw)
 + [为什么内存访问会比CPU慢](https://mp.weixin.qq.com/s/5NtkAqMFSKayg-TxnjhSkQ)
++ [磁盘和内存如何聊天](https://mp.weixin.qq.com/s/7oyyXSd5j09ezllqRg9MhA)
 
 ## GPU
 
@@ -226,6 +227,7 @@
 + [全网最简单、零成本的内网穿透神器！](https://mp.weixin.qq.com/s/1DkKGoX-Q2VvMpHx9SzzlQ)
 + [DDoS攻击介绍](https://mp.weixin.qq.com/s/DhBEx-QKwvdo0zZKVBtr7w)
 + [抓包分析ssl协议](https://mp.weixin.qq.com/s/YBIdB2WjDzeed_IBTZ0zFw)
++ [跨网段穿透访问神器！零成本搭建家庭NAS异地访问方案](https://mp.weixin.qq.com/s/6Pm-BI8ajwUG7yqtDxqPBg)
 
 ### DNS
 

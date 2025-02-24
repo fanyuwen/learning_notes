@@ -71,6 +71,7 @@
 + [深入理解 SQL 联结表：从基础到优化，一篇文章带你掌握](https://mp.weixin.qq.com/s/mMCa_aM8wh4rL7agIUpKug)
 + [原来count(*)是接口性能差的真凶](https://mp.weixin.qq.com/s/Zqm0SDS57I6vkgMikjFSgQ)
 + [GROUP BY和DISTINCT有什么区别?](https://mp.weixin.qq.com/s/sRfQhDeVcn9p_i6R_lixAg)
++ [SQL 数据表设计：字段类型选择与优化策略全解析](https://mp.weixin.qq.com/s/H4nUR0SHxdFCJC4xlVd3ug)
 
 # 本地数据库
 
@@ -320,6 +321,8 @@
 + [为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/Vjep4O2_LE-Wu1CVNOyNdg)
 + [MySQL中，EXISTS 和 IN 的区别是什么？](https://mp.weixin.qq.com/s/mvBM1CMqZcsGjHcKCdMhOw)
 + [一定要会！MySQL窗口函数太实用了，再也不怕复杂SQL查询了](https://mp.weixin.qq.com/s/jInvFF5bHSZCXrWjIzmRuQ)
++ [MySQL 如何实现主从复制？](https://mp.weixin.qq.com/s/WgfejrSjBV0aHQpNTKgjwA)
++ [【Java面试100题突击】71 介绍一下MySQL的体系架构](https://mp.weixin.qq.com/s/ksyGaNI4-lCXZ9tTDj8vzQ)
 
 #### 存储引擎
 

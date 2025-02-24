@@ -29,6 +29,7 @@
 + [使用RestHighLevelClient的3种分页实现](https://mp.weixin.qq.com/s/MFvoXIfUxzk-j496wZdPvg)
 + [第 32 章 - Elasticsearch 的应用场景与技术解决方案](https://mp.weixin.qq.com/s/LI8wjR6X1jQrahVUG1glpQ)
 + [号称取代 Elasticsearch，太猛了！](https://mp.weixin.qq.com/s/C9wW-FkRdkn7Gk6oxOYXOg)
++ [什么是向量化？ElasticSearch如何存储向量？](https://mp.weixin.qq.com/s/H2ZWyYed78CzGWOONPS6BQ)
 
 ## solr
 

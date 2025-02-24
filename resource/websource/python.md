@@ -699,6 +699,7 @@
 
 + [sqlalchemy，一个灵活的 Python ORM 库！](https://mp.weixin.qq.com/s/2DSFQftSgtyeuXxXw84_7w)
 + [SQLAlchemy中常用的查询方法和调试打印](https://mp.weixin.qq.com/s/Nqs_HKfyqTN0wYk5ueQM3g)
++ [玩转SQLAlchemy异步引擎：高效查询，快乐编程](https://mp.weixin.qq.com/s/bVTTpoHt-nwWuGlkMgMHtA)
 
 ### OPENCV
 

@@ -26,6 +26,7 @@
 + [来请讲解下Java泛型吧](https://mp.weixin.qq.com/s/EHGpT-kliGbAx5zE9olSZg)
 + [深入理解Java多态：概念、实现原理与应用](https://mp.weixin.qq.com/s/qVczdbo-xSl5Ll_Sy9o6_Q)
 + [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
++ [深入理解Java中的继承：从基础到高级应用](https://mp.weixin.qq.com/s/Y9YyLQkV-x1t5LicmdKVqw)
 + [Java 枚举实战案例，让你告别繁琐的常量管理！](https://mp.weixin.qq.com/s/KI63wEPcqWTRuNwM897e3A)
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
@@ -332,6 +333,7 @@
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
 + [并发编程 - 线程浅试](https://mp.weixin.qq.com/s/mby0p8lVgHCM0VNZWm34bw)
 + [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
++ [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
 + [一个线程 OOM，线程池里其他线程还能运行吗？](https://mp.weixin.qq.com/s/np1of6mVKrT_zqMohga2TA)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
@@ -437,6 +439,7 @@
 + [异步处理优化：多线程线程池与消息队列的选择与应用](https://mp.weixin.qq.com/s/UHALDebqfvvE2fMS43WzNg)
 + [Java面试必考！揭秘as-if-serial与happens-before的关键区别](https://mp.weixin.qq.com/s/Le5vONa9WyIdmMG6iCNxxA)
 + [Java中的锁机制](https://mp.weixin.qq.com/s/deJWkYz8uw2aHYZwtb6VIg)
++ [面试官问我：线程同步的几种方式？我画一张结构图甩他脸上！](https://mp.weixin.qq.com/s/s9yK9mNqFzynR9Vec5vIeA)
 
 ## 源码
 
@@ -988,6 +991,7 @@
 + [深入理解MultipartFile，以更优雅的方式处理文件](https://mp.weixin.qq.com/s/m-4GtWVhF-LAWBaV04_KSA)
 + [饿了么急招岗位：说说 Spring拦截链的原理！](https://mp.weixin.qq.com/s/rit2zm4vpaXu-o8eG4hvKA)
 + [Spring 框架中的数据转换和格式化：使用 Converter 和 Formatter 进行数据处理](https://mp.weixin.qq.com/s/k4gHOkpYVLYzEVBDvc0OgA)
++ [谈谈Spring RestTemplate 的具体实现](https://mp.weixin.qq.com/s/7R13a55eMyBRSupJq0XIqQ)
 
 ### concurrent
 
@@ -1065,6 +1069,8 @@
 + [Spring 事务有几个隔离级别？如何使用它们？](https://mp.weixin.qq.com/s/d1NxqJ3mK1d-XHA3Et65vg)
 + [问：@Transactional的方法中如何拿到Connection对象？](https://mp.weixin.qq.com/s/fGcS6FZRx27J0aT9eJI_zA)
 + [可能是最漂亮的Spring事务管理详解](https://mp.weixin.qq.com/s/GslUiX3S6agfuy3GERHbZQ)
++ [深入解析Spring事务原理：声明式与编程式事务管理](https://mp.weixin.qq.com/s/7QpbFrvkpMAY6fxyiWOPeA)
++ [数据库事务隔离级别怎么选？看这篇就够了！](https://mp.weixin.qq.com/s/zqAI3-7pgodRgxaoY0mpBA)
 
 ### Log
 
@@ -1168,6 +1174,7 @@
 + [使用 Spring Cloud Stream 实现事件驱动的微服务通信：应用消息中间件](https://mp.weixin.qq.com/s/_nQ1tnmZPZvRn1rpC5aYsw)
 + [【2025版SpringCloud面试题】1、Nacos如何实现高可用？](https://mp.weixin.qq.com/s/0uROaKVPgCiWNr63LCDPgg)
 + [@EnableDiscoveryClient根本不需要了，你还在用吗？](https://mp.weixin.qq.com/s/sr7kitkr1o_8p6wFkamyNg)
++ [【2025版SpringCloud面试题】16、如何处理Nacos的配置更新？](https://mp.weixin.qq.com/s/_Ggir8ORn_thZ4NRBe9cJw)
 
 #### alibaba
 
@@ -2024,6 +2031,7 @@
 + [技巧！Spring Boot 动态刷新及实时监控配置文件的变化](https://mp.weixin.qq.com/s/IaKjWOxIKcpvA2TlnfUdKw)
 + [Spring Boot 配置文件的高级用法与技巧](https://mp.weixin.qq.com/s/PBHqQAEbxXNbA0aXU9f6FQ)
 + [动态加载 Jar 包，玩转动态配置](https://mp.weixin.qq.com/s/t6Z0cw3CTxSYF9hvBOgDYQ)
++ [Jenkins-自动化发布系统，一文带你了解如何使用Jenkins发布SpringBoot项目](https://mp.weixin.qq.com/s/05DBUNY2b3Ef4YCgwQYSXQ)
 
 #### 集成三方
 
@@ -2156,6 +2164,7 @@
 + [MyBatis缓存：深入理解一级缓存和二级缓存](https://mp.weixin.qq.com/s/9BPtuJTldaLTYAxXRvF4sQ)
 + [【java面试100问】92 Mybatis是如何进行分页的？](https://mp.weixin.qq.com/s/BNGfizkvTcHx2WxkEjSKjw)
 + [MyBatis 核心精要探秘](https://mp.weixin.qq.com/s/l4xuYof81T0MlNrx3g6JKg)
++ [《深入理解Mybatis原理》Mybatis中的缓存实现原理](https://mp.weixin.qq.com/s/Mb3AUiVwl2X1dT0PYWT1PA)
 
 ### plus
 
@@ -2477,6 +2486,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [解锁Hutool BoundedPriorityQueue，搞定热门用户Top 5](https://mp.weixin.qq.com/s/zH5oigwME7ntS4mS9Ofc2w)
++ [CPU飙升100%！一场数据库优化背后的血战](https://mp.weixin.qq.com/s/234CV1ZAkweSzLS9Y1ZZYA)
 + [阿里二面：在高并发场景下如何保证消息只被消费一次？深度解析分布式系统幂等性设计](https://mp.weixin.qq.com/s/J3Iekecwk3KGj51yqDXsMw)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
 + [深夜奋战：解决 nohup java -jar xxx.jar 启动失败的曲折之路](https://mp.weixin.qq.com/s/Qb7b-OTOun80qmJ4Hs1V6Q)

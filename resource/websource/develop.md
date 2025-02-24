@@ -56,6 +56,7 @@
 + [深入解析18种软件架构设计模式 （6）- 最终篇](https://mp.weixin.qq.com/s/_UEGTsQ-om4szsWK8NBtVA)
 + [架构设计:边车模式解释](https://mp.weixin.qq.com/s/jG6j08Xr-uMBcORZwegc_A)
 + [系统稳定性建设三件事](https://mp.weixin.qq.com/s/lWh-FLi4dTHC5RHSERtBeg)
++ [架构设计三原则](https://mp.weixin.qq.com/s/2omv_t675EgCcgZTcZ4P-w)
 
 ### DDD
 
@@ -151,6 +152,7 @@
 
 + [如何理解分布式系统下的CAP理论](https://mp.weixin.qq.com/s/GyHh4tOqGl8FCLEj5N_2nA)
 + [CAP / BASE 理论](https://mp.weixin.qq.com/s/AObZ64Wg15FbbejylNVjgQ)
++ [大白话讲解“什么是CAP定理？”](https://mp.weixin.qq.com/s/egkWH-uIbksxmjmKSiwENQ)
 + [分布式系统一致性保障：CAP理论与BASE原则](https://mp.weixin.qq.com/s/Lb8Ujnlo-VHi8SLepy1qdA)
 + [字节面试：聊聊 CAP 定理？哪些中间件是AP？ 哪些是CP？ 说说 为什么？](https://mp.weixin.qq.com/s/es2pFSBMQLYDjzv_u3jT0w)
 + [分布式CAP最全详解(图文全面总结)](https://mp.weixin.qq.com/s/zbEJdmkWdQC8WeVw-AAKbA)
@@ -233,6 +235,7 @@
 + [分布式系统绕不开的话题：分布式一致性算法](https://mp.weixin.qq.com/s/k48-d51nAD68KA9L_5EhnA)
 + [Raft 算法浅析](https://my.oschina.net/OutOfMemory/blog/820189)
 + [深入理解一致性Hash和虚拟节点](https://mp.weixin.qq.com/s/FkO6oNInmHA_IzysZcMVkg)
++ [不会一致性hash算法，劝你简历别写搞过负载均衡](https://mp.weixin.qq.com/s/61462tb2x36XsSAogTk0lw)
 + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
 + [分布式一致性算法——Paxos](https://mp.weixin.qq.com/s/1OgeHkWEOFkfiy8uCta_Fw)
 
@@ -489,6 +492,7 @@
 + [延迟双删如此好用，为何大厂从来不用](https://mp.weixin.qq.com/s/CR7e6pjKd5cPdVnkq5mqbw)
 + [如何实现自动登录的功能](https://mp.weixin.qq.com/s/EkGClcmMCxb1Qz19is3A9Q)
 + [高并发下秒杀系统的设计](https://mp.weixin.qq.com/s/E8mIPrLjYM9Hjo0pEmxk4w)
++ [什么是 CPU密集型任务？ 什么是 I/O密集型任务？](https://mp.weixin.qq.com/s/y89kYj9mclYWewKBpQW2pw)
 
 # 测试相关
 

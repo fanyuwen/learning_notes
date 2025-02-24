@@ -335,6 +335,9 @@
 + [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
 + [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
 + [一个线程 OOM，线程池里其他线程还能运行吗？](https://mp.weixin.qq.com/s/np1of6mVKrT_zqMohga2TA)
++ [并发编程 - 线程同步（二）](https://mp.weixin.qq.com/s/1wMpghqEWIAB2avQU6qSvg)
++ [Java并发编程：守护线程](https://mp.weixin.qq.com/s/7pUCkfPaHDZQw4Ee5gVW9g)
++ [并发编程 - 线程同步（九）之信号量Semaphore](https://mp.weixin.qq.com/s/2XhpPKd2Jgqxwqomw8ntDw)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
@@ -715,6 +718,7 @@
 + [线程池动态调整](https://mp.weixin.qq.com/s/dlUGX8ZOFyNl60Ed_3vwlA)
 + [线程池新标杆！美团动态线程池太香了！](https://mp.weixin.qq.com/s/S_gZtNHOt3kp7NOY_EZSnw)
 + [美团动态线程池，真香啊！](https://mp.weixin.qq.com/s/FrMbXmVBO2prgQ3fWcg1dQ)
++ [Java线程池底层是怎么创建和运行的？（源码阅读）](https://mp.weixin.qq.com/s/kd_Ou3TzD-tUZRYvCxUQHw)
 
 ### ThreadLocal
 
@@ -1843,6 +1847,7 @@
 + [Spring Boot 打造全能异步处理方案，简单高效！](https://mp.weixin.qq.com/s/sLM-cBWXCu-Rz0SqcRFfkg)
 + [简单两步搞定！SpringBoot 写死的定时任务也能动态调整，太爽了！](https://mp.weixin.qq.com/s/KRT7a5AyJO5D9SzHw90j8Q)
 + [如何在 Spring Boot 中正确使用多线程以避免常见 Bug](https://mp.weixin.qq.com/s/801nUnz_EYCj4zxqWZPuWQ)
++ [SpringBoot中使用 ThreadLocal 进行多线程上下文管理及其注意事项](https://mp.weixin.qq.com/s/4BNQ4zwuUx22qfzmWKl_rw)
 
 ##### Disruptor
 
@@ -2032,6 +2037,7 @@
 + [Spring Boot 配置文件的高级用法与技巧](https://mp.weixin.qq.com/s/PBHqQAEbxXNbA0aXU9f6FQ)
 + [动态加载 Jar 包，玩转动态配置](https://mp.weixin.qq.com/s/t6Z0cw3CTxSYF9hvBOgDYQ)
 + [Jenkins-自动化发布系统，一文带你了解如何使用Jenkins发布SpringBoot项目](https://mp.weixin.qq.com/s/05DBUNY2b3Ef4YCgwQYSXQ)
++ [Spring Boot中如何优雅地读取Jar包中的Resources目录下的文件](https://mp.weixin.qq.com/s/APj1Y2GSBkgQaYcaFH_tcw)
 
 #### 集成三方
 
@@ -2082,6 +2088,8 @@
 + [Spring Boot 基于 BeanPostProcessor + Redis 轻量级属性动态配置](https://mp.weixin.qq.com/s/f3bNw9FZk3ipY-6oiGfI1Q)
 + [轻量，强大！JavaMelody实时监控Spring Boot 不依赖第三方的开源插件](https://mp.weixin.qq.com/s/STTYpFHn4Zh5OFjAZIOWGA)
 + [高效数据隔离方案：SpringBoot+JSqlParser 全解析](https://mp.weixin.qq.com/s/QYis-mM8cITrzuNbuV4ALQ)
++ [SpringBoot与MinIO整合，实现大文件分片上传与分片合并功能](https://mp.weixin.qq.com/s/ecVB8By4_aJYMvtJBsrQSw)
++ [SpringBoot与Redis+Lua整合，实现闲鱼的订单转手功能](https://mp.weixin.qq.com/s/uC0fI3DLFb78nUA3jk1D5A)
 
 #### 自定义实现
 
@@ -2473,6 +2481,7 @@
 + [使用规则引擎改造任务系统](https://mp.weixin.qq.com/s/s6DaeK85bxTQe5yZup17Cw)
 + [JOOQ，一个Java查询的巫师！](https://mp.weixin.qq.com/s/9Jor157fRboB4T4-rvGvuA)
 + [Java怎么连接远程主机执行linux命令](https://mp.weixin.qq.com/s/v_5Huz33yn48OIi5LXimKA)
++ [XXL-CACHE v1.1.0 ｜ 多级缓存框架](https://mp.weixin.qq.com/s/OWFlIyCvQdI1ZbWG-6TCLw)
 
 # 其它环境
 
@@ -2489,6 +2498,8 @@
 + [CPU飙升100%！一场数据库优化背后的血战](https://mp.weixin.qq.com/s/234CV1ZAkweSzLS9Y1ZZYA)
 + [阿里二面：在高并发场景下如何保证消息只被消费一次？深度解析分布式系统幂等性设计](https://mp.weixin.qq.com/s/J3Iekecwk3KGj51yqDXsMw)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)
++ [#内存池方案# 内存池场常见设计方案](https://mp.weixin.qq.com/s/zQGWntqw1WVeQgCT2kqoZQ)
++ [池化技术：让真实业务效率飙升的利器](https://mp.weixin.qq.com/s/3YUc-xEgsYiEzLlz4Dxjzg)
 + [深夜奋战：解决 nohup java -jar xxx.jar 启动失败的曲折之路](https://mp.weixin.qq.com/s/Qb7b-OTOun80qmJ4Hs1V6Q)
 + [公司来了个新同事，把代码耗时从 26856ms 优化到了 748ms，一顿操作猛如虎！](https://mp.weixin.qq.com/s/HOX4jnmTugJGwoypQUTeKg)
 + [一个注解解决接口幂等性问题：优雅实现方案解析](https://mp.weixin.qq.com/s/u7YYnEVQ-JH0VDbTgtaeag)

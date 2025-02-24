@@ -39,6 +39,7 @@
 + [Jenkins+Docker 实现一键自动化部署项目！步骤很全，少走坑路！](https://mp.weixin.qq.com/s/fBOKFxbO8pc56Q-dy2IPsQ)
 + [锅总详解Jenkins应用](https://mp.weixin.qq.com/s/F_K0hp7ZFkfLIgCKcCFjkg)
 + [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/Gm8oKPDA5EkmL5wyVHKchQ)
++ [丢弃Jenkins，轻量级CICD方案--Gitea Actions](https://mp.weixin.qq.com/s/YXAOOphgwT359XKTAxq9dA)
 
 ## istio
 

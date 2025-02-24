@@ -53,6 +53,7 @@
 + [面向对象和设计模式（十一）工厂模式](https://mp.weixin.qq.com/s/Aw4v_slzhpj4rih3HcmZ2A)
 + [简单工厂模式](https://mp.weixin.qq.com/s/_AkPckJKS-KBB0ZFM-pdqQ)
 + [什么是工厂模式？工厂模式有哪些类型？如何使用它们？](https://mp.weixin.qq.com/s/JPu0_bGsUERfVYMb8qX3dQ)
++ [工厂模式：打造灵活高效的对象创建工厂](https://mp.weixin.qq.com/s/kfs8wCDe_56GaPwRe_fA8g)
 
 ## 构造者模式
 

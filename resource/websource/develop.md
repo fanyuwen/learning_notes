@@ -57,6 +57,7 @@
 + [架构设计:边车模式解释](https://mp.weixin.qq.com/s/jG6j08Xr-uMBcORZwegc_A)
 + [系统稳定性建设三件事](https://mp.weixin.qq.com/s/lWh-FLi4dTHC5RHSERtBeg)
 + [架构设计三原则](https://mp.weixin.qq.com/s/2omv_t675EgCcgZTcZ4P-w)
++ [架构复杂度设计](https://mp.weixin.qq.com/s/KNoG5S0U7o5xLjzS48DBfw)
 
 ### DDD
 

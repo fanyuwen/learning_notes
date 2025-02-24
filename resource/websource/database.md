@@ -99,6 +99,7 @@
 + [MySQL+Redis，百万数据轻松优化](https://mp.weixin.qq.com/s/-gYAmpV9zVRiYSZbcSubag)
 + [字节2面：为了性能，你会违反数据库三范式吗？](https://mp.weixin.qq.com/s/9NGiiMJnJm0PYYwWEUiIeA)
 + [【java面试100问】84 为什么不推荐使用数据库自增主键？也不推荐使用UUID作主键，用雪花算法会有什么问题？](https://mp.weixin.qq.com/s/Osxz7DxwX4H1YDR1tYmIyw)
++ [腾讯面试题：如何保证Redis与MySQL的数据一致性？](https://mp.weixin.qq.com/s/HUMu42ZYijHvPGfdEuts3A)
 
 ### 读写分离&分库分表
 
@@ -323,6 +324,8 @@
 + [一定要会！MySQL窗口函数太实用了，再也不怕复杂SQL查询了](https://mp.weixin.qq.com/s/jInvFF5bHSZCXrWjIzmRuQ)
 + [MySQL 如何实现主从复制？](https://mp.weixin.qq.com/s/WgfejrSjBV0aHQpNTKgjwA)
 + [【Java面试100题突击】71 介绍一下MySQL的体系架构](https://mp.weixin.qq.com/s/ksyGaNI4-lCXZ9tTDj8vzQ)
++ [深入解析：一条查询语句在 MySQL 中的执行之旅](https://mp.weixin.qq.com/s/_IZ6PTt5FosbvecAhMsHAQ)
++ [MySQL中，Change Buffer是什么？它有什么作用？](https://mp.weixin.qq.com/s/M4fiK2Fy2oq5gbH7XhWOnQ)
 
 #### 存储引擎
 
@@ -608,6 +611,7 @@
 + [美团面试：MySQL里有2000w数据，redis中只存20w的数据，如何保证redis中的数据都是热点数据](https://mp.weixin.qq.com/s/wTKsR44WkvVL07GgHCC6Qw)
 + [面试题系列： 两个Redis集群 如何平滑数据迁移?](https://mp.weixin.qq.com/s/SgS_KPjKCdglj9VySbywOQ)
 + [基于Redis的三种限流算法解析与应用](https://mp.weixin.qq.com/s/rRqxqNzN7Z0NeYUGnczEHw)
++ [面试官：说说Redis为什么这么快？](https://mp.weixin.qq.com/s/rq5A-g56ZQQf2R8CJ6Tcmg)
 
 #### 原理
 

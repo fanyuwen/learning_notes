@@ -142,6 +142,7 @@
 + [读书笔记(21)--微服务注册发现⾼可⽤解决⽅案](https://mp.weixin.qq.com/s/ZQxUD_SkihiaTn-RQt7QZg)
 + [微服务架构模型：几种常见模型的对比和分析](https://mp.weixin.qq.com/s/aVBYoX0K8F2d4g7VboekVw)
 + [边界：微服务的各种边界在架构演进中的作用？](https://mp.weixin.qq.com/s/iAzmhWTzHQ_OXjjZ0_vx0w)
++ [微服务是不是一种错误的方向](https://my.oschina.net/yuyenews/blog/17681156)
 
 # 分布式
 

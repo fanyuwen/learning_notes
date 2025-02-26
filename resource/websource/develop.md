@@ -148,6 +148,7 @@
 + [边界：微服务的各种边界在架构演进中的作用？](https://mp.weixin.qq.com/s/iAzmhWTzHQ_OXjjZ0_vx0w)
 + [微服务是不是一种错误的方向](https://my.oschina.net/yuyenews/blog/17681156)
 + [微服务架构的实施与挑战：模式、优势与应对](https://mp.weixin.qq.com/s/0vRnek7EXEliBb748HOr7g)
++ [微服务架构中数据一致性问题解析](https://mp.weixin.qq.com/s/Ngn9UNICt4mMur9rga269Q)
 
 # 分布式
 
@@ -311,6 +312,7 @@
 + [一个注解，优雅的实现接口幂等性！](https://mp.weixin.qq.com/s/kqfeIU8BledDVQHmVhFD6Q)
 + [高并发下如何防重？](https://mp.weixin.qq.com/s/b3MLjMTobJFcSshL7BnK4g)
 + [大厂防止超卖的7种实现，很受用！](https://mp.weixin.qq.com/s/aCJUBpq_TiSaePCKokypFA)
++ [幂等性：如何通过设计避免重复操作的影响？](https://mp.weixin.qq.com/s/jJaaaPxU1FEQJ8IO_bfgQw)
 
 ### 负载&限流
 

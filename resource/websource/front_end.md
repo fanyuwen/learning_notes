@@ -49,6 +49,7 @@
 
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
++ [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)

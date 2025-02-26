@@ -60,6 +60,7 @@
 + [Java访问修饰符：代码边界的"门禁系统"，你配好了吗？](https://mp.weixin.qq.com/s/vvECj4be9QMYRhW6adcGeQ)
 + [Java面向对象编程之封装：代码的“黑匣子”，你了解多少？](https://mp.weixin.qq.com/s/ZWIiybvfRUWKfMdzD72axg)
 + [我们来捋一捋JAVA的异常](https://mp.weixin.qq.com/s/n8IQtygGfXEAJovtyCheVQ)
++ [Lambda表达式入门（上篇）](https://mp.weixin.qq.com/s/559kw_0FKzhv4dXYBnukGw)
 
 ## 新语言特性
 
@@ -231,6 +232,7 @@
 + [java日常开发中如何写出优雅的好维护的代码](https://mp.weixin.qq.com/s/0k7TKat40f-oXi4TwYzP8A)
 + [【java面试100问】41 如何提升接口性能？](https://mp.weixin.qq.com/s/E8EgdoVMesClktEYPN2jBQ)
 + [工作 3 年的同事不懂 isEmpty 和 isBlank 的区别，我真是醉了。](https://mp.weixin.qq.com/s/5ZnIm8fsgjU0GApa5LqGEg)
++ [利用 Function 打造高效断言神器，真优雅！](https://mp.weixin.qq.com/s/P7MPT2gz0rby2AluvOOr7g)
 
 # 底层
 
@@ -339,8 +341,11 @@
 + [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
 + [一个线程 OOM，线程池里其他线程还能运行吗？](https://mp.weixin.qq.com/s/np1of6mVKrT_zqMohga2TA)
 + [Java社招面试题：说说自己是怎么使用synchronized关键字，在项目中用到了吗？](https://mp.weixin.qq.com/s/ViWplyr6r2IKrIV0Kzdqsw)
-+ [并发编程 - 线程同步（二）](https://mp.weixin.qq.com/s/1wMpghqEWIAB2avQU6qSvg)
++ [Java并发编程：如何正确停止线程](https://mp.weixin.qq.com/s/gCSEtwIOY_OWvV6YAQ7bMw)
 + [Java并发编程：守护线程](https://mp.weixin.qq.com/s/7pUCkfPaHDZQw4Ee5gVW9g)
++ [并发编程 - 线程同步（二）](https://mp.weixin.qq.com/s/1wMpghqEWIAB2avQU6qSvg)
++ [并发编程 - 线程同步（四）之原子操作Interlocked详解一](https://mp.weixin.qq.com/s/IXxInHU1YGZvByg8ablYVg)
++ [并发编程 - 线程同步（八）之自旋锁SpinLock](https://mp.weixin.qq.com/s/XXlArlHT0vywzP7Cb0_18w)
 + [并发编程 - 线程同步（九）之信号量Semaphore](https://mp.weixin.qq.com/s/2XhpPKd2Jgqxwqomw8ntDw)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
@@ -373,6 +378,7 @@
 + [面试必备：什么是守护线程？为什么需要它？](https://mp.weixin.qq.com/s/-ImN0KJnsw60OygO2ABoQw)
 + [Java面试必问！run() 和 start() 方法到底有啥区别？](https://mp.weixin.qq.com/s/V8Mox1IQEVMHOBgAQ9Ny_g)
 + [从JVM视角解密synchronized锁优化](https://mp.weixin.qq.com/s/coKHSmRFzmaa1CHMzVdHKA)
++ [Java社招面试题：synchronized底层是如何实现的？](https://mp.weixin.qq.com/s/j7cYUWLrDVd3GoT1LGo4tQ)
 + [Java面试高频题：守护线程和用户线程的区别详解](https://mp.weixin.qq.com/s/ljMCm7qFwgMHifUQYx2mFw)
 + [为什么循环调用wait()比if块更可靠？小米为你揭晓答案！](https://mp.weixin.qq.com/s/5y-Vuj6HtFobqpXYJ2bJlA)
 + [Java 知识点：Java 中如何实现线程安全？](https://mp.weixin.qq.com/s/bytN9bPrUfcxijp9uN2myw)
@@ -447,6 +453,7 @@
 + [Java面试必考！揭秘as-if-serial与happens-before的关键区别](https://mp.weixin.qq.com/s/Le5vONa9WyIdmMG6iCNxxA)
 + [Java中的锁机制](https://mp.weixin.qq.com/s/deJWkYz8uw2aHYZwtb6VIg)
 + [面试官问我：线程同步的几种方式？我画一张结构图甩他脸上！](https://mp.weixin.qq.com/s/s9yK9mNqFzynR9Vec5vIeA)
++ [美团面试题：线上线程池的参数，到底如何设置？](https://mp.weixin.qq.com/s/fJsYrkBIN6QEK_Xwzsz0eg)
 
 ## 源码
 
@@ -832,6 +839,7 @@
 + [后悔！9个我在运行Java JAR应用时没掌握的关键技巧](https://mp.weixin.qq.com/s/fNYDxJfx3WS771vhqzQNEg)
 + [解决JNI函数动态绑定防追踪](https://mp.weixin.qq.com/s/0V9gsUblJi5vqQmnjMzRrQ)
 + [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
++ [JAVA：SPI 技术详解与实践样例](https://mp.weixin.qq.com/s/cLqsSfFvZEGL3W5F6LzACg)
 
 # 包管理工具
 
@@ -2103,6 +2111,7 @@
 + [SpringBoot与Redis+Lua整合，实现闲鱼的订单转手功能](https://mp.weixin.qq.com/s/uC0fI3DLFb78nUA3jk1D5A)
 + [springboot+elasticsearch入门](https://mp.weixin.qq.com/s/V0EKdRvaIWlpZ7_IgSAbmQ)
 + [SpringBoot3.4.3实现(文本/附件/HTML/图片)类型邮件发送案例](https://mp.weixin.qq.com/s/xGuKWc9lU9K-qPeOCp2nkg)
++ [SpringBoot与MySQL+MyBatis整合，实现商品库存预警系统](https://mp.weixin.qq.com/s/Og3pwxudMJdbHODikG-8hQ)
 
 #### 自定义实现
 
@@ -2309,6 +2318,7 @@
 + [开发者必备：Log4j系列与Logback日志框架详解](https://mp.weixin.qq.com/s/bgqZ137DG7sRrJ5vuPXcGA)
 + [如何使用 SLF4J 的 MDC, 实现全链路追踪？](https://mp.weixin.qq.com/s/58AowEyTTTgx5D6pO4FVBA)
 + [SLF4J 桥接器及其原理--让你的旧代码也可以起飞](https://mp.weixin.qq.com/s/wfkfydoPChH577HpOg-ZXg)
++ [Log4j原理分析](https://mp.weixin.qq.com/s/i5jJmLwuL64mSFkRf3F7uQ)
 
 ## MapStruct
 
@@ -2418,6 +2428,7 @@
 ## 其它工具
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
++ [Java开发者必备！JVM工具全解析，轻松应对性能挑战](https://mp.weixin.qq.com/s/YUSPl6E9Z039zudP0baJRQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [Java异步编程7种实现方法，最后一种非常强大](https://mp.weixin.qq.com/s/EStfXGvoZu_kCQk5TYR46g)
 + [Apache Commons Lang，一个Java语言的魔法炼金术士！](https://mp.weixin.qq.com/s/uZJETm-DAw5g6jLyamnzqg)
@@ -2495,6 +2506,7 @@
 + [JOOQ，一个Java查询的巫师！](https://mp.weixin.qq.com/s/9Jor157fRboB4T4-rvGvuA)
 + [Java怎么连接远程主机执行linux命令](https://mp.weixin.qq.com/s/v_5Huz33yn48OIi5LXimKA)
 + [XXL-CACHE v1.1.0 ｜ 多级缓存框架](https://mp.weixin.qq.com/s/OWFlIyCvQdI1ZbWG-6TCLw)
++ [Jar Analyzer JAR包分析工具](https://mp.weixin.qq.com/s/oPMJ1utE-VXjC7niFqHn-g)
 
 # 其它环境
 
@@ -2609,3 +2621,4 @@
 + [拿来即用，一款开源的文件管理系统！](https://mp.weixin.qq.com/s/3vJnSgSA6eAAyvqiHydXEA)
 + [别踩坑！存储电话号码，到底用 int 还是用 string？](https://mp.weixin.qq.com/s/rQF1LeweyKqYujl4Y9bYMA)
 + [解析App中手机号码一键登录的原理](https://mp.weixin.qq.com/s/QTHdPu3RjV1Yt8p2YSmW-w)
++ [Linux环境下Java项目Jar包的启动指令](https://mp.weixin.qq.com/s/C-hU19350RAuc3p1G-m8dA)

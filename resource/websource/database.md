@@ -328,6 +328,8 @@
 + [深入解析：一条查询语句在 MySQL 中的执行之旅](https://mp.weixin.qq.com/s/_IZ6PTt5FosbvecAhMsHAQ)
 + [MySQL中，Change Buffer是什么？它有什么作用？](https://mp.weixin.qq.com/s/M4fiK2Fy2oq5gbH7XhWOnQ)
 + [MySQL数据实时同步到Elasticsearch的高效解决方案](https://mp.weixin.qq.com/s/-X3MaEX3oiOwrNhPfiwOUA)
++ [MySQL 的时间函数有哪些？如何使用？](https://mp.weixin.qq.com/s/l3ygfdHY-gq1v9t3o0rXBQ)
++ [在 MySQL中，数据是如何排序？](https://mp.weixin.qq.com/s/V53NEmorIEAZ40-6n_2M2w)
 
 #### 存储引擎
 
@@ -616,6 +618,7 @@
 + [面试题系列： 两个Redis集群 如何平滑数据迁移?](https://mp.weixin.qq.com/s/SgS_KPjKCdglj9VySbywOQ)
 + [基于Redis的三种限流算法解析与应用](https://mp.weixin.qq.com/s/rRqxqNzN7Z0NeYUGnczEHw)
 + [面试官：说说Redis为什么这么快？](https://mp.weixin.qq.com/s/rq5A-g56ZQQf2R8CJ6Tcmg)
++ [面试官：Redis的持久化机制有哪些？各有什么区别？](https://mp.weixin.qq.com/s/o00ECiO3jxOu4_KqCBzTzg)
 
 #### 原理
 
@@ -667,6 +670,7 @@
 + [如何基于 Redis 实现分布式锁](https://mp.weixin.qq.com/s/T4fjnZAWl4ZaRR6YpEm9iw)
 + [redis 分布式锁的 5个坑](https://mp.weixin.qq.com/s/dHdvNp8y50pP0qPDpv67uA)
 + [redis 锁的5个大坑，如何规避？](https://mp.weixin.qq.com/s/HSQVnPW4aRdLP2jnTOFr4A)
++ [Redis分布式锁你知道几种方式？一文让你搞懂Redis如何实现分布式锁。](https://mp.weixin.qq.com/s/MovTpBJOcbYHjMTau0jjvg)
 
 #### 缓存
 

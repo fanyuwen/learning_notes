@@ -386,6 +386,7 @@
 + [美团面试：binlog、redolog、undo log底层原理是啥？分别实现ACID哪个特性？（尼恩图解，史上最全）](https://mp.weixin.qq.com/s/p1eHHIVPetADdrWe__Hdbw)
 + [MySQL 分布式事务详解](https://mp.weixin.qq.com/s/lzpm_29ZtJq8pRTXfAQTig)
 + [一文读懂数据库并发三大“坑”：幻读、脏读和不可重复读！](https://mp.weixin.qq.com/s/lGsxRuD2dfl_x5V3rjPZAg)
++ [谈谈你们选什么事务隔离级别](https://mp.weixin.qq.com/s/9f8JesHhyHuwnW0AqEwKhA)
 
 #### 索引
 
@@ -619,6 +620,7 @@
 + [基于Redis的三种限流算法解析与应用](https://mp.weixin.qq.com/s/rRqxqNzN7Z0NeYUGnczEHw)
 + [面试官：说说Redis为什么这么快？](https://mp.weixin.qq.com/s/rq5A-g56ZQQf2R8CJ6Tcmg)
 + [面试官：Redis的持久化机制有哪些？各有什么区别？](https://mp.weixin.qq.com/s/o00ECiO3jxOu4_KqCBzTzg)
++ [谈谈你们是怎么解决Redis 中的热 Key 问题](https://mp.weixin.qq.com/s/OSPTvbheR9HVm1P5acUMOg)
 
 #### 原理
 

@@ -120,6 +120,7 @@
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
++ [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
 + [Python标准库中最强的工具——Collections模块深度剖析](https://mp.weixin.qq.com/s/zlT7_szUwBJswvuKVY6idQ)
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)

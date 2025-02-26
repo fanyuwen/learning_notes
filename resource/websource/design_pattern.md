@@ -84,6 +84,10 @@
 
 + [优化代码结构-装饰器设计模式(Decorator Pattern)](https://mp.weixin.qq.com/s/dCiQQ60PgqeLLVJrYXV64g)
 
+## 桥接模式
+
++ [桥接模式：解耦抽象与实现的优雅设计](https://mp.weixin.qq.com/s/YQQo8Br-3RTZnw9CZHaglQ)
+
 ## 状态模式
 
 + [干掉项目中杂乱的 if-else，试试状态模式，这才是优雅的实现方式！](https://mp.weixin.qq.com/s/UEudZbFumiw-c9d8-IBZEQ)
@@ -105,6 +109,10 @@
 ## 原型模式
 
 + [什么是原型模式？](https://mp.weixin.qq.com/s/LwwARjNsmXZPtL5bxNE_tA)
+
+## 外观模式
+
++ [外观模式：简化复杂系统的优雅设计](https://mp.weixin.qq.com/s/iUfZ19nxHhpFfakhL4-kng)
 
 ## 解释器模式
 

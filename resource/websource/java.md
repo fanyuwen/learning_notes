@@ -348,6 +348,7 @@
 + [并发编程 - 线程同步（八）之自旋锁SpinLock](https://mp.weixin.qq.com/s/XXlArlHT0vywzP7Cb0_18w)
 + [并发编程 - 线程同步（九）之信号量Semaphore](https://mp.weixin.qq.com/s/2XhpPKd2Jgqxwqomw8ntDw)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
++ [Java并发编程：线程安全](https://mp.weixin.qq.com/s/8alKdhLoGbw0_jl78yLXfQ)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
 + [什么是线程安全？ 如何保证线程安全？](https://mp.weixin.qq.com/s/sG_DStdl2ihRWv6VFEkCGg)
 + [Java虚拟线程：提升高并发性能的秘密武器](https://mp.weixin.qq.com/s/DOYPB9EjMPYgjEf_E1zuwg)
@@ -545,6 +546,7 @@
 + [【后端性能优化】接口耗时下降60%，CPU负载降低30%](https://mp.weixin.qq.com/s/Su9p7gDcTsWAX-6B-nJe_Q)
 + [jvm----垃圾回收](https://mp.weixin.qq.com/s/fc4OcfPrlrwv1wTugzsN9A)
 + [阿里P6一面：说说类加载器机制的实现原理](https://mp.weixin.qq.com/s/FuAukjq0Fdix4sC4mTDcBQ)
++ [深入探索 JVM：大厂面试题全解析与实战指南（6）](https://mp.weixin.qq.com/s/iC4UAx292Vl_yD4sOXDLbw)
 
 # 核心库
 
@@ -1040,6 +1042,7 @@
 + [Spring Security + OAuth0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/ktdOTCCxmdLDVGA5pT-c7Q)
 + [Spring Security + OAuth2.0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/T6RfWYcHrB0FSuoYuy3M4Q)
 + [个性化认证！Spring Security 轻松扩展登录字段](https://mp.weixin.qq.com/s/BeKrgF1u6Al9JqgzI-IU7Q)
++ [全方位保护！Spring Security 过滤器为你的应用筑起安全防线--1](https://mp.weixin.qq.com/s/NB4eigfUHAm9HMmtCj8fGw)
 
 ### data
 
@@ -1212,6 +1215,7 @@
 + [Spring Cloud Gateway CORS 方案 一次说清楚~](https://mp.weixin.qq.com/s/k2HCikgzPtawbVlRRWaZSg)
 + [Spring Cloud Gateway 数字签名与 URL 动态加密的完美实践！](https://mp.weixin.qq.com/s/1ucchEcNatFCLTvzua-FRg)
 + [实战干货！Spring Cloud Gateway 整合 OAuth2.0 实现分布式统一认证授权！](https://mp.weixin.qq.com/s/9MIOi3QC6OXoqGyg-OErkg)
++ [Spring Cloud 网关熔断机制：技术原理与实践应用的完美结合](https://mp.weixin.qq.com/s/V9QZ3MeBW-xlS13vMEoJ5g)
 
 #### AI
 
@@ -2057,6 +2061,7 @@
 + [动态加载 Jar 包，玩转动态配置](https://mp.weixin.qq.com/s/t6Z0cw3CTxSYF9hvBOgDYQ)
 + [Jenkins-自动化发布系统，一文带你了解如何使用Jenkins发布SpringBoot项目](https://mp.weixin.qq.com/s/05DBUNY2b3Ef4YCgwQYSXQ)
 + [Spring Boot中如何优雅地读取Jar包中的Resources目录下的文件](https://mp.weixin.qq.com/s/APj1Y2GSBkgQaYcaFH_tcw)
++ [优雅使用 Enum 提升 SpringBoot 配置管理效率](https://mp.weixin.qq.com/s/xBUIzL7s-xVtLxS4g1YyOg)
 
 #### 集成三方
 
@@ -2521,6 +2526,7 @@
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [解锁Hutool BoundedPriorityQueue，搞定热门用户Top 5](https://mp.weixin.qq.com/s/zH5oigwME7ntS4mS9Ofc2w)
 + [「缓存」会用很容易，用好才是技术活](https://mp.weixin.qq.com/s/zIgHhqbB5y2lN5-OOz2dHQ)
++ [没有源码，如何修改代码逻辑？](https://mp.weixin.qq.com/s/mDzB8Bj6mPL4wKvMxD5wRg)
 + [CPU飙升100%！一场数据库优化背后的血战](https://mp.weixin.qq.com/s/234CV1ZAkweSzLS9Y1ZZYA)
 + [阿里二面：在高并发场景下如何保证消息只被消费一次？深度解析分布式系统幂等性设计](https://mp.weixin.qq.com/s/J3Iekecwk3KGj51yqDXsMw)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)

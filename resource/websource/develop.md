@@ -382,6 +382,7 @@
 + [Redis不是万能的！来看看本地缓存如何发挥作用！](https://mp.weixin.qq.com/s/nY7-0UIlO6nzYHeisfJfFQ)
 + [面试题：什么是缓存击穿、缓存穿透和缓存雪崩？它们分别会带来什么危害？该如何解决和预防？](https://mp.weixin.qq.com/s/EqcmLsxRC3Of833dZaBnKw)
 + [强大！基于Map优化缓存设计](https://mp.weixin.qq.com/s/r2hbOfqpNEdsUWucPcseSQ)
++ [缓存数据一致性问题，你知道哪些解决方案？你觉得哪种方案最好？](https://mp.weixin.qq.com/s/GNK9jJta6jwNtV52G5P95w)
 
 ## 优化
 

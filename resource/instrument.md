@@ -99,6 +99,7 @@
 + 配置文件格式 [toml](https://toml.io/)
 + 软件观测工具 [opentelemetry](https://opentelemetry.io/) [micrometer](https://micrometer.io/)
 + 开源图形工具 [blender](https://www.blender.org/)
++ 规则引擎 [drools](https://www.drools.org)
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)

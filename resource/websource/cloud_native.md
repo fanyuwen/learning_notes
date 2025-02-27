@@ -101,6 +101,7 @@
 + [Kubernetes学习周报（第7期 ）:K8S容器运行时CRI接口；Kluctl管理集群API；K8S无服务器应用监控](https://mp.weixin.qq.com/s/IKjCmkZnlGL0TzT2fqngtA)
 + [如何监控K8S Java应用OOM并告警](https://mp.weixin.qq.com/s/QyntfVOOeIO11JCy--strA)
 + [为什么有了 K8s，还需要 K3s？](https://mp.weixin.qq.com/s/61caVM7OERK2XCneNWzRUA)
++ [k8s源码解析之 kubelet pleg 【基于k8s1.33】](https://mp.weixin.qq.com/s/J4BmDKQ-MO6Ou7PRCIR_oQ)
 
 ## Prometheus
 

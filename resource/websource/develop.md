@@ -2,6 +2,7 @@
 
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
 + [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
++ [30. 为什么复杂的架构一定要做分层设计？](https://mp.weixin.qq.com/s/GPYKsuSJXN1Yr_PWZxDb0w)
 + [吊打面试官！数据架构的核心概念](https://mp.weixin.qq.com/s/042p5j1F4bCtmuK6miXIog)
 + [架构师总体架构设计与实践](https://mp.weixin.qq.com/s/TxaWpRCH8cTQXhkCSARhBQ)
 + [架构分层虐我千百遍，我待架构分层如初恋](https://mp.weixin.qq.com/s/dXNvEIcfkzoWvVnUpFiNsg)
@@ -94,6 +95,7 @@
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [领域事件：解耦微服务的关键](https://mp.weixin.qq.com/s/HILiHuL1pDUhC1mwQ7KYVg)
++ [微服务架构中的熔断、限流与降级：设计与实现](https://mp.weixin.qq.com/s/xKadJe_t6ZXKlnIiekmojA)
 + [服务治理，是在谈什么？](https://mp.weixin.qq.com/s/B02g5uRABwemR0DfNeuPLA)
 + [2025年微服务架构的发展趋势预测](https://mp.weixin.qq.com/s/oM4CFGA7qfDecV978eEpeQ)
 + [运维加薪技术——微服务拆分规范](https://mp.weixin.qq.com/s/W3iCdtYIY2oNYL_lgAvuDQ)
@@ -150,6 +152,7 @@
 + [微服务架构的实施与挑战：模式、优势与应对](https://mp.weixin.qq.com/s/0vRnek7EXEliBb748HOr7g)
 + [微服务架构中数据一致性问题解析](https://mp.weixin.qq.com/s/Ngn9UNICt4mMur9rga269Q)
 + [从容错到限流：保障微服务可靠性的关键策略分析](https://mp.weixin.qq.com/s/8gfuq21Kuweb38RrZ9ZhXQ)
++ [视图：如何实现服务和数据在微服务各层的协作？](https://mp.weixin.qq.com/s/0E_DQAx21NKqUk_RocQEHw)
 
 # 分布式
 
@@ -387,6 +390,7 @@
 
 ## 优化
 
++ [一、性能调优入门](https://mp.weixin.qq.com/s/rzys58zPI1ooowe2svKEqw)
 + [性能优化实践：一行代码性能提升几十倍？](https://mp.weixin.qq.com/s/n-grBHV0q4OCUHYMWN-3Fg)
 + [九大服务架构性能优化方式](https://mp.weixin.qq.com/s/38rsvewtkkqxRLPad-P3_Q)
 + [9大性能优化方案详解(图文全面总结)](https://mp.weixin.qq.com/s/VGIO2XR2j2Hkjnjo2AG48g)
@@ -526,6 +530,7 @@
 + [状态机浅析](https://mp.weixin.qq.com/s/xPYD9Z0HblMG4B4flhX8Mg)
 + [有限状态机FSM](https://mp.weixin.qq.com/s/3boQq1pWXo9L1FIxcN29qg)
 + [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
++ [状态机模型，你真的搞懂并用对了吗？](https://mp.weixin.qq.com/s/_vg5lB8CC0OzrcHfQ-iv9w)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [RESTful API中的6个核心概念，但最重要的特性是灵活](https://mp.weixin.qq.com/s/BtECZFsJr02A6Dd6qWDQHw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
@@ -681,6 +686,7 @@
 + [git 使用场景与常用命令解释](https://mp.weixin.qq.com/s/Hni4hKceScIDkLPQfWVq5A)
 + [掌握 Git 工作流：超越基础命令](https://mp.weixin.qq.com/s/xQefjb-8XkHFr4Gl_49wkw)
 + [工作中这么使用git，效率直线提升](https://mp.weixin.qq.com/s/mGytSKanhUXNadDKWQHCig)
++ [前端人必知！Git 与前端项目的完美协作秘籍](https://mp.weixin.qq.com/s/Zeg9XedEYKVHxEc6O7uMRQ)
 
 ### 编程范式
 

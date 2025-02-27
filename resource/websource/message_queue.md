@@ -79,6 +79,8 @@
 + [Kafka Streams 在监控场景的应用与实践](https://my.oschina.net/vivotech/blog/16859766)
 + [Kafka 消息积压如何破局？高吞吐 + 零丢失的阻塞队列实战方案！](https://mp.weixin.qq.com/s/BWqOULBijnl6EMKuZOsr0w)
 + [Kafka如何手动Kill未完成的事务?](https://mp.weixin.qq.com/s/ilVVXrYOoQJDCc5vlKKZKg)
++ [面试官：如何解决Kafka重复消费、漏消费的问题？](https://mp.weixin.qq.com/s/ZYooCesyJbQ6pzy1YNSgcA)
++ [Kafka Broker 集群部署与 I/O 性能优化指南](https://mp.weixin.qq.com/s/9p2v6YLurgmYe2Fa_Z3JWA)
 
 # ROCKETMQ
 

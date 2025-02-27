@@ -72,6 +72,7 @@
 + [原来count(*)是接口性能差的真凶](https://mp.weixin.qq.com/s/Zqm0SDS57I6vkgMikjFSgQ)
 + [GROUP BY和DISTINCT有什么区别?](https://mp.weixin.qq.com/s/sRfQhDeVcn9p_i6R_lixAg)
 + [SQL 数据表设计：字段类型选择与优化策略全解析](https://mp.weixin.qq.com/s/H4nUR0SHxdFCJC4xlVd3ug)
++ [SQL 中视图详解：概念、使用场景及最佳实践](https://mp.weixin.qq.com/s/7s-pxwDtS1bBwlUpr0bgag)
 
 # 本地数据库
 
@@ -330,6 +331,7 @@
 + [MySQL数据实时同步到Elasticsearch的高效解决方案](https://mp.weixin.qq.com/s/-X3MaEX3oiOwrNhPfiwOUA)
 + [MySQL 的时间函数有哪些？如何使用？](https://mp.weixin.qq.com/s/l3ygfdHY-gq1v9t3o0rXBQ)
 + [在 MySQL中，数据是如何排序？](https://mp.weixin.qq.com/s/V53NEmorIEAZ40-6n_2M2w)
++ [在 MySQL中，Log Buffer是什么？它有什么作用？](https://mp.weixin.qq.com/s/yCHp_yQOZ8uKVj-CXS3hNA)
 
 #### 存储引擎
 

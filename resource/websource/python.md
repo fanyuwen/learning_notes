@@ -185,6 +185,7 @@
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
++ [Python中的__slots__魔法：内存优化技巧](https://mp.weixin.qq.com/s/WzV4r3jGdfoNhS73ABN-8w)
 + [Python高级：设计模式与架构原则](https://mp.weixin.qq.com/s/fsDpL8VSCoRMkx98hi7-NA)
 + [Python模块依赖注入实现依赖反转](https://mp.weixin.qq.com/s/sS7S7M6r_aYSsRb9AtrPxA)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)

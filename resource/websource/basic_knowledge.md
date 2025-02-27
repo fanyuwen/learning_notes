@@ -20,6 +20,7 @@
 + [Win11竟然隐藏了它，你知道吗？](https://mp.weixin.qq.com/s/JBqnVJtoXoD07IFp-p4alA)
 + [后渗透系列-Windows日志致盲与绕过](https://mp.weixin.qq.com/s/Oz5Z3Yw9lhh83N2lBuaUDQ)
 + [Windows查看占用文件的进程](https://mp.weixin.qq.com/s/yLEQ4OIqVuKt80ZWDuR0zQ)
++ [掌握这些CMD命令，让你的Windows操作效率翻倍！](https://mp.weixin.qq.com/s/EjiPievM6uyphOVB0HknLg)
 
 ## linux
 
@@ -89,6 +90,7 @@
 + [细谈 Linux 中的多路复用 epoll](https://my.oschina.net/weige87/blog/16494349)
 + [全面解析linux中mmap的底层原理及其应用](https://mp.weixin.qq.com/s/srN3JuwrJ6GzEGQ11vkI0g)
 + [Linux 使用 sosreport 生成系统报告](https://mp.weixin.qq.com/s/6nGngkLsgd__DFQ4OctDXA)
++ [Linux系统应用漏洞修复、框架升级的一点心得整理](https://mp.weixin.qq.com/s/Q3ggG6fBS0otLUpsg4JkmQ)
 
 ### 网络
 
@@ -231,10 +233,12 @@
 + [跨网段穿透访问神器！零成本搭建家庭NAS异地访问方案](https://mp.weixin.qq.com/s/6Pm-BI8ajwUG7yqtDxqPBg)
 + [《计算机网络》第四章——网络层总结(上)](https://mp.weixin.qq.com/s/fXPeLS4RYUbHfxr-6Xo0Ew)
 + [《计算机网络》第五章——运输层考点总结（上）](https://mp.weixin.qq.com/s/weJepRCns0XsDvAxsVhUoA)
++ [RIP 动态路由配置教程：从入门到实践](https://mp.weixin.qq.com/s/FsZoXqs0Ox5f4bwzw6nUmA)
 
 ### DNS
 
 + [公共DNS大测评 哪个解析性能最好？](https://mp.weixin.qq.com/s/_yRs19IkM4hVro6_1XKdkw)
++ [详解 DNS 工作原理｜组成部分｜发展历史](https://mp.weixin.qq.com/s/SKM0Dn54ReDi6IAeCmx-zw)
 
 ### HTTP/HTTPS
 

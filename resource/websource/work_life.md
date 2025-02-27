@@ -50,6 +50,7 @@
 + [觉得自己写代码很菜，也没有了当年学习的热情](https://mp.weixin.qq.com/s/QXkZ5tGeXlKeEDe9SdtWpA)
 + [AI 正在培养一代不会编程的 “文盲程序员”？](https://mp.weixin.qq.com/s/MdnD_HDH7ToYOpdU3kuhlQ)
 + [AI 正在培养“文盲”程序员？](https://mp.weixin.qq.com/s/rTjtYc4XzmYoUI_JQpyWVQ)
++ [工作半年，感觉自己的技术和业务毫无提升](https://mp.weixin.qq.com/s/gc4ftPx3FwsPA8UI4_4roQ)
 
 # 个人成长
 
@@ -239,6 +240,7 @@
 + [10个IntelliJ IDEA快捷键和示例，代码多行编辑更高效](https://mp.weixin.qq.com/s/Xu7IuCNVoaqGrK1oUqAcXg)
 + [IntelliJ IDEA 2025.1 EAP 发布，初步支持 Java 24！](https://mp.weixin.qq.com/s/My-Aw1XhkE0sAe1nhiibdA)
 + [IntelliJ IDEA 神级攻略：IDEA 实战隐藏技巧指南](https://mp.weixin.qq.com/s/bhbojnfB-RlOEVDl3ETNPQ)
++ [一款必备的 IDEA 神级插件，轻松搞定繁杂的 JSON 格式化](https://mp.weixin.qq.com/s/su_LGh7de_hFucGKIXk8_w)
 
 ## MAC_PRO相关
 

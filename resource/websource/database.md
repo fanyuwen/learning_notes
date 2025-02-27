@@ -484,6 +484,7 @@
 ### REDIS
 
 + [如何系统学习Redis](https://mp.weixin.qq.com/s/wlyIkR8s8EqVv9PrgRd1Dg)
++ [工作中，Redis的15种使用场景](https://mp.weixin.qq.com/s/du0-7tT_jN-IYcdOjx4SRg)
 + [为什么会出现 Redis？它有什么用？](https://mp.weixin.qq.com/s/zdAZNpWcWcgL0Zh0DDk-2A)
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
@@ -621,6 +622,8 @@
 + [面试官：说说Redis为什么这么快？](https://mp.weixin.qq.com/s/rq5A-g56ZQQf2R8CJ6Tcmg)
 + [面试官：Redis的持久化机制有哪些？各有什么区别？](https://mp.weixin.qq.com/s/o00ECiO3jxOu4_KqCBzTzg)
 + [谈谈你们是怎么解决Redis 中的热 Key 问题](https://mp.weixin.qq.com/s/OSPTvbheR9HVm1P5acUMOg)
++ [面试官：Redis 6为什么引入了多线程](https://mp.weixin.qq.com/s/GHnG_f1G6BNOol1A__7Cjg)
++ [面试官：说说Redis的过期策略及其优缺点](https://mp.weixin.qq.com/s/_zvgUC0W1NSqtDLR5aR_xQ)
 
 #### 原理
 
@@ -769,6 +772,7 @@
 + [第四代大数据流处理框架-Apache Flink架构分析](https://mp.weixin.qq.com/s/o0EQzWdN-UzxeGaER_4PNw)
 + [flink cdc 3.0 "尝鲜"](https://mp.weixin.qq.com/s/DGINTV_AaK8N5GvYIii6Lw)
 + [Flink SQL之Join底层原理全解析(案例+源码)](https://mp.weixin.qq.com/s/v2wud7lvsnk1wGMnstTv1Q)
++ [Flink自研新特性：yarn-session集群WebUI支持Jar持久化到HDFS实践总结](https://mp.weixin.qq.com/s/WAoiDP9MM70JesL3kNFPZQ)
 
 ## spark
 

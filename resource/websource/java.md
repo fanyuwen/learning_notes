@@ -455,6 +455,7 @@
 + [Java中的锁机制](https://mp.weixin.qq.com/s/deJWkYz8uw2aHYZwtb6VIg)
 + [面试官问我：线程同步的几种方式？我画一张结构图甩他脸上！](https://mp.weixin.qq.com/s/s9yK9mNqFzynR9Vec5vIeA)
 + [美团面试题：线上线程池的参数，到底如何设置？](https://mp.weixin.qq.com/s/fJsYrkBIN6QEK_Xwzsz0eg)
++ [面试官：说说乐观锁和悲观锁](https://mp.weixin.qq.com/s/TTACCnD-9von3nFQxOcKIQ)
 
 ## 源码
 
@@ -472,6 +473,7 @@
 + [面试官：说下 JVM 由哪些部分组成，其运行流程是什么](https://mp.weixin.qq.com/s/dR99aZu41VCUMKhLIZqS1g)
 + [面试官：说说 Class.forName和ClassLoader的区别](https://mp.weixin.qq.com/s/GRhg6GPJtF7M-3tOAp05-A)
 + [JVM的内存管理分为哪些区域？](https://mp.weixin.qq.com/s/Na-JugR0i5uudy9F6o4yUw)
++ [淘宝一面：有哪些场景会触发类的加载？](https://mp.weixin.qq.com/s/AhtldGnaAgZB0UnlFGrq0g)
 + [面试官：使用 synchronized 关键字对性能有什么影响？如何优化？](https://mp.weixin.qq.com/s/RCoP_Zv6bMgxiGYxiuoC7Q)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
@@ -773,6 +775,7 @@
 
 ### ConcurrentHashMap
 
++ [JAVA基础（二十三）线程安全的集合：ConcurrentHashMap 与 CopyOnWriteArrayList](https://mp.weixin.qq.com/s/ugatoBaBkSP2QOMwA2Y6ew)
 + [美团太细了，HashMap可以存null，ConcurrentHashMap不可以，为什么？](https://mp.weixin.qq.com/s/PoeX7xwch89Xu9gDwaXpmA)
 + [Java 8 ConcurrentHashMap源码中竟然隐藏着两个BUG](https://mp.weixin.qq.com/s/lmI3ZOyMxfAluXR6GoqtmA)
 + [ConcurrentHashMap 如何保证线程安全，jdk1.8 有什么变化？](https://mp.weixin.qq.com/s/fQS8YJwxV32xOHs0e8hlUA)
@@ -1341,6 +1344,8 @@
 + [Spring Boot3.3 架构巅峰对决：整洁架构 vs 垂直切片架构（VSA）](https://mp.weixin.qq.com/s/HKtMbIX6bw63hHDbmwqZfQ)
 + [自定义 Starter：ImportSelector 精准导入配置](https://mp.weixin.qq.com/s/CVD25M6e2FxEwryo7O3O8w)
 + [Spring 动态代理实现新老路径的一键切换](https://mp.weixin.qq.com/s/cDZj-tt2NK2m61tPFblJXA)
++ [详解 Spring Boot 自动配置原理和应用](https://mp.weixin.qq.com/s/RiaNtRO0G2pC6HOqS7k2YQ)
++ [SpringBoot 启动加速：优化与定制化干预技术指南](https://mp.weixin.qq.com/s/EBIuQBLCDFH4E_q1eQHYMQ)
 
 #### 版本特性
 
@@ -1806,6 +1811,8 @@
 + [在 SpringBoot 项目中如何动态切换数据源、数据库？](https://mp.weixin.qq.com/s/OeB4tT2OkwgXKcYB8BJGQw)
 + [在 SpringBoot 项目中如何动态切换数据源、数据库？（可直接CV）](https://mp.weixin.qq.com/s/C1AVKOZwMgjzD3JGRPH4CQ)
 + [请不要自己写！Spring Boot 一个注解搞定逻辑删除，支持JPA/MyBatis](https://mp.weixin.qq.com/s/JTAH0YoamumtYMpJso1C3A)
++ [SpringBoot与Redis整合，实现千万级数据量的实时热销商品排行榜功能](https://mp.weixin.qq.com/s/gTFCRKdxZVZmWp7KfDwK9Q)
++ [Spring Boot中记录JDBC、JPA及MyBatis执行SQL及参数的正确姿势](https://mp.weixin.qq.com/s/vVpYj0ZBLC2OVfwGQhzpvQ)
 
 ##### TRANSACTION
 
@@ -2070,6 +2077,7 @@
 + [SpringBoot整合SSMP报错分析](https://mp.weixin.qq.com/s/CuMqdhYRau64t_n-pCPKdw)
 + [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)
++ [Spring Boot + Redission 自定义分布式延时任务组件设计](https://mp.weixin.qq.com/s/tsinZNPJ8H2QM8hzEd9gMA)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/8XogcjeTvUhS9fyAIIBSqQ)
 + [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/Q46Bgq2Dw5CMG-VT_nLXtw)
 + [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/MvbauTHQ3yNGopEHTxyB1w)
@@ -2324,6 +2332,7 @@
 + [如何使用 SLF4J 的 MDC, 实现全链路追踪？](https://mp.weixin.qq.com/s/58AowEyTTTgx5D6pO4FVBA)
 + [SLF4J 桥接器及其原理--让你的旧代码也可以起飞](https://mp.weixin.qq.com/s/wfkfydoPChH577HpOg-ZXg)
 + [Log4j原理分析](https://mp.weixin.qq.com/s/i5jJmLwuL64mSFkRf3F7uQ)
++ [日志中的TraceId魔法，解锁业务全链路追踪！](https://mp.weixin.qq.com/s/lXSBytTYyRxy43lMtlSp-A)
 
 ## MapStruct
 
@@ -2512,6 +2521,7 @@
 + [Java怎么连接远程主机执行linux命令](https://mp.weixin.qq.com/s/v_5Huz33yn48OIi5LXimKA)
 + [XXL-CACHE v1.1.0 ｜ 多级缓存框架](https://mp.weixin.qq.com/s/OWFlIyCvQdI1ZbWG-6TCLw)
 + [Jar Analyzer JAR包分析工具](https://mp.weixin.qq.com/s/oPMJ1utE-VXjC7niFqHn-g)
++ [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/z21t7yZeAAYU03X2pBDS1A)
 
 # 其它环境
 
@@ -2524,9 +2534,11 @@
 
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [filter、interceptor、aspect不知如何选择](https://mp.weixin.qq.com/s/6he3imUhkS34ReVhCg6YHA)
 + [解锁Hutool BoundedPriorityQueue，搞定热门用户Top 5](https://mp.weixin.qq.com/s/zH5oigwME7ntS4mS9Ofc2w)
 + [「缓存」会用很容易，用好才是技术活](https://mp.weixin.qq.com/s/zIgHhqbB5y2lN5-OOz2dHQ)
 + [没有源码，如何修改代码逻辑？](https://mp.weixin.qq.com/s/mDzB8Bj6mPL4wKvMxD5wRg)
++ [SQL效率提升160倍，CPU效率提高4倍-记一次线上SQL优化](https://mp.weixin.qq.com/s/A7cuMTxKMoF1MeLY9NcPKA)
 + [CPU飙升100%！一场数据库优化背后的血战](https://mp.weixin.qq.com/s/234CV1ZAkweSzLS9Y1ZZYA)
 + [阿里二面：在高并发场景下如何保证消息只被消费一次？深度解析分布式系统幂等性设计](https://mp.weixin.qq.com/s/J3Iekecwk3KGj51yqDXsMw)
 + [JAviator，一个Java表达式求值的计算师！](https://mp.weixin.qq.com/s/9hF-C_CRo9QAScxL02spIA)

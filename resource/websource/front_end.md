@@ -52,6 +52,7 @@
 + [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
++ [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)
 + [12 个高级 JavaScript 技巧，优化你的代码](https://mp.weixin.qq.com/s/FDYCQTpn2UC4bPQcwvGSqA)
 + [TypeScript里的type和interface的区别](https://mp.weixin.qq.com/s/0g2c0Mz6XRx1d81IQdA64w)
@@ -187,6 +188,7 @@
 + [WebSocket协议-源码分析](https://mp.weixin.qq.com/s/HD4FMKLvHkqBlWDFqWRcqg)
 + [你还在使用 WebSocket 实现实时消息推送吗？](https://mp.weixin.qq.com/s/A2TmbewzDHzxstxdi_8V7g)
 + [有了HTTP为什么还要Websocket？一文带你解密Websocket协议](https://mp.weixin.qq.com/s/zrO9CqpradVWu0qX4HIxRQ)
++ [WebSocket 的 6 种集成方式](https://mp.weixin.qq.com/s/5v1qIxREcY6a2Gs1w66LNw)
 
 # 工具
 

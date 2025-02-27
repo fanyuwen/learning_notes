@@ -88,6 +88,7 @@
 + [Linux 内存泄露案例分析和内存管理分享](https://my.oschina.net/u/4090830/blog/16491193)
 + [细谈 Linux 中的多路复用 epoll](https://my.oschina.net/weige87/blog/16494349)
 + [全面解析linux中mmap的底层原理及其应用](https://mp.weixin.qq.com/s/srN3JuwrJ6GzEGQ11vkI0g)
++ [Linux 使用 sosreport 生成系统报告](https://mp.weixin.qq.com/s/6nGngkLsgd__DFQ4OctDXA)
 
 ### 网络
 

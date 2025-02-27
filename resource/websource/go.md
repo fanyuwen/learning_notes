@@ -71,6 +71,7 @@
 + [Go 微服务开发框架，集成自动代码生成、Gin 和 GRPC](https://mp.weixin.qq.com/s/WdrMkVLqksZPg7sstx7pdQ)
 + [解析 Go 切片：为何按值传递时会发生改变？｜得物技术](https://my.oschina.net/u/5783135/blog/16497987)
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
++ [协程 goroutine 和 通道 channel](https://mp.weixin.qq.com/s/6Xt91GoVkmi86o8Z3oFlQw)
 + [Go 如何做好缓存](https://mp.weixin.qq.com/s/FRQtVg0ia09XHm-ES-XEWg)
 + [Go 异步编程小技巧](https://mp.weixin.qq.com/s/AvrfEHOj72cXttQDTv9sgw)
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)

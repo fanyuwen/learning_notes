@@ -149,6 +149,7 @@
 + [微服务是不是一种错误的方向](https://my.oschina.net/yuyenews/blog/17681156)
 + [微服务架构的实施与挑战：模式、优势与应对](https://mp.weixin.qq.com/s/0vRnek7EXEliBb748HOr7g)
 + [微服务架构中数据一致性问题解析](https://mp.weixin.qq.com/s/Ngn9UNICt4mMur9rga269Q)
++ [从容错到限流：保障微服务可靠性的关键策略分析](https://mp.weixin.qq.com/s/8gfuq21Kuweb38RrZ9ZhXQ)
 
 # 分布式
 

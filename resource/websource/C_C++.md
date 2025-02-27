@@ -23,6 +23,7 @@
 + [C++_Mutable](https://mp.weixin.qq.com/s/CXprG7tcX1M3MR9X_tpLYQ)
 + [C++_成员初始化列表](https://mp.weixin.qq.com/s/uabbFCMApMtrc7fWOCpbAg)
 + [C++ 五 虚函数（一）多态的实现](https://mp.weixin.qq.com/s/J3CyQp1q4htteTRG-E1GNw)
++ [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)

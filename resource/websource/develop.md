@@ -564,6 +564,7 @@
 + [为啥要将局部变量的作用域最小化呢？](https://mp.weixin.qq.com/s/uYmIbKeXN4mO9VVOLU2Umg)
 + [世界上没有绝对安全的语言：横向对比C、Go、Rust中的“果”指针！](https://mp.weixin.qq.com/s/dqtOMRvSj2SYGiDfT0gtHQ)
 + [理解几种不同语言的“协程”](https://mp.weixin.qq.com/s/2YXRYtx9l6z4PqEEZet9Xg)
++ [高质量编写非功能性代码的一些实践](https://my.oschina.net/u/4662964/blog/17531289)
 
 ## 接口相关
 

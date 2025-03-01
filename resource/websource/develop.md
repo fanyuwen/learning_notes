@@ -90,6 +90,7 @@
 + [聚合和聚合根：怎样设计聚合？](https://mp.weixin.qq.com/s/-cGWiPv9Ad26zyG6UeI_PA)
 + [支付系统DDD重构设想](https://mp.weixin.qq.com/s/pjVv6yIEz03XcYxkdu6R1w)
 + [DDD、中台和微服务：它们是如何协作的？](https://mp.weixin.qq.com/s/a1kJ0flaO5ThYxRP1s79OQ)
++ [技术Leader如何落地DDD（三）](https://mp.weixin.qq.com/s/3c8yAs_tFtYoNk6tAum1DA)
 
 ## 微服务
 
@@ -507,6 +508,7 @@
 + [如何实现自动登录的功能](https://mp.weixin.qq.com/s/EkGClcmMCxb1Qz19is3A9Q)
 + [高并发下秒杀系统的设计](https://mp.weixin.qq.com/s/E8mIPrLjYM9Hjo0pEmxk4w)
 + [什么是 CPU密集型任务？ 什么是 I/O密集型任务？](https://mp.weixin.qq.com/s/y89kYj9mclYWewKBpQW2pw)
++ [高并发系统设计的六字真言：分、缓、异、限、降、演，从面试到实战的生存指南](https://mp.weixin.qq.com/s/VmvhUOGsusaepkowSWbsfg)
 
 # 测试相关
 
@@ -600,6 +602,7 @@
 + [高频面题： 你们线上 QPS 多少？你 怎么知道的？](https://mp.weixin.qq.com/s/Q8niqMkUhixL7NlQIUgvaA)
 + [13. 微博系统设计：怎么应对热点事件的突发访问压力？](https://mp.weixin.qq.com/s/hahfHACujS3iT2FDFJZ0rg)
 + [架构师：如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/nZRnTvqTHT3BdnyYbN9P0g)
++ [【Java面试100题突击】82 高并发秒杀的业务场景如何设计？](https://mp.weixin.qq.com/s/gx2ASW1pBBdxGluHJvzQGQ)
 
 ## 领域知识
 

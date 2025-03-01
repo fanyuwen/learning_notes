@@ -52,6 +52,7 @@
 + [AI 正在培养“文盲”程序员？](https://mp.weixin.qq.com/s/rTjtYc4XzmYoUI_JQpyWVQ)
 + [工作半年，感觉自己的技术和业务毫无提升](https://mp.weixin.qq.com/s/gc4ftPx3FwsPA8UI4_4roQ)
 + [为什么现在大厂出来的人也很难找工作了？](https://mp.weixin.qq.com/s/3Gma47FbkLuXrtOm-N_ZAw)
++ [写代码已经没人要了？一个大厂P8的自白](https://mp.weixin.qq.com/s/jxSVW1cF8-aXW8uvGOaFpQ)
 
 # 个人成长
 

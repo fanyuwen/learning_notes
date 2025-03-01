@@ -334,6 +334,8 @@
 + [MySQL 的时间函数有哪些？如何使用？](https://mp.weixin.qq.com/s/l3ygfdHY-gq1v9t3o0rXBQ)
 + [在 MySQL中，数据是如何排序？](https://mp.weixin.qq.com/s/V53NEmorIEAZ40-6n_2M2w)
 + [在 MySQL中，Log Buffer是什么？它有什么作用？](https://mp.weixin.qq.com/s/yCHp_yQOZ8uKVj-CXS3hNA)
++ [MySQL 中 int(1) 和 int(10)、char(1) 和 varchar(10) 的区别详解](https://mp.weixin.qq.com/s/3hI7pJ2UBnUQax4QR3Xp-A)
++ [深度解析MySQL中的Join算法：原理、实现与优化](https://mp.weixin.qq.com/s/ufpJNxiX6iqp6MxAnvM07w)
 
 #### 存储引擎
 
@@ -631,6 +633,7 @@
 + [面试官：Redis 6为什么引入了多线程](https://mp.weixin.qq.com/s/GHnG_f1G6BNOol1A__7Cjg)
 + [面试官：说说Redis的过期策略及其优缺点](https://mp.weixin.qq.com/s/_zvgUC0W1NSqtDLR5aR_xQ)
 + [面试官：谈谈你对Redis中Pipeline的理解](https://mp.weixin.qq.com/s/z2gZ6Na2UYyNqOjBEyhwew)
++ [Redis实战技巧：防止脑裂引发的数据不一致与丢失](https://mp.weixin.qq.com/s/h1WQe12JG0pH8Tj2bFWFvA)
 
 #### 原理
 

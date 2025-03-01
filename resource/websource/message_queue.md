@@ -110,6 +110,7 @@
 + [一文详解 RocketMQ 如何利用 Raft 进行高可用保障](https://my.oschina.net/u/3874284/blog/17560991)
 + [RocketMQ 事务消息原理详解 & 源码解析](https://mp.weixin.qq.com/s/V02leXaN_H1tNqEfD9UMpg)
 + [RocketMQ二面通关秘籍：面试官问得太细，这些问题你准备好了吗？](https://mp.weixin.qq.com/s/DZf82QjtbaJiYqJYAtmFeQ)
++ [RocketMQ入门篇：核心组件和交互流程，看完秒懂！](https://mp.weixin.qq.com/s/Sh_UvYwt66H7XOY523fuhw)
 
 # RABBITMQ
 
@@ -123,6 +124,7 @@
 + [会用RabbitMQ延迟插件，代码量直接降一半？](https://mp.weixin.qq.com/s/DpXaUnaZwJF23rJfQtznpw)
 + [「RabbitMQ链路追踪实践：SkyWalking微服务链路监控实践07」](https://mp.weixin.qq.com/s/maKLkM-hNbdLpoSlKLi5Bw)
 + [RabbitMQ消息中间件多种模型下基于golang语言实现](https://mp.weixin.qq.com/s/2rB5NGG0KqoFq2u3fS8g8Q)
++ [RabbitMQ 路由（Routing）通讯方式详解](https://mp.weixin.qq.com/s/Sy12-dh8_-gD5qzcf3UcyQ)
 
 # PULSAR
 

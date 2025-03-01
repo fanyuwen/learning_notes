@@ -103,6 +103,7 @@
 + [为什么有了 K8s，还需要 K3s？](https://mp.weixin.qq.com/s/61caVM7OERK2XCneNWzRUA)
 + [k8s源码解析之 kubelet pleg 【基于k8s1.33】](https://mp.weixin.qq.com/s/J4BmDKQ-MO6Ou7PRCIR_oQ)
 + [Kubernetes(k8s)-备份&Etcd介绍](https://mp.weixin.qq.com/s/nT9wgz34DDZ8EPs8_H4XOg)
++ [Kubernetes(k8s)-Pod创建流程](https://mp.weixin.qq.com/s/a_v2Nfm_QyQBksUuTP_KFQ)
 
 ## Prometheus
 

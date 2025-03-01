@@ -46,6 +46,7 @@
 + [如果让你写单例，你通常会采用哪种实现？](https://mp.weixin.qq.com/s/p0BzayosHo9-khp9a7eKPQ)
 + [面试官：单例模式都说不清楚，还说自己会设计模式！！!](https://mp.weixin.qq.com/s/_G-9gWexeci5O-Kq7nzakA)
 + [设计模式-单例模式](https://mp.weixin.qq.com/s/YuqvRMEOx_eoQzkPQcTNSw)
++ [单例模式：程序员界的“单身狗”生存指南，为什么全世界只有一个我？](https://mp.weixin.qq.com/s/tDhKDJq07PbPTEZpvo06CA)
 
 ## 模板方法模式
 

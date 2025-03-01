@@ -149,6 +149,7 @@
 + [VUE-Router ~ 路由的基本使用](https://mp.weixin.qq.com/s/JAwjEEAQdAqU7EAo_e4jOg)
 + [vue实现登录获取token并自动刷新token进行JWT认证](https://mp.weixin.qq.com/s/sWDnhq6MCUusQ0-aUpfNPw)
 + [Vue项目打包部署与路由配置解析](https://mp.weixin.qq.com/s/zHZypwsCcZxDRXjEthNoPg)
++ [Vue3的侦听器](https://mp.weixin.qq.com/s/yJ9j82fnAS4Bl1-43dEgXw)
 
 ## react
 
@@ -220,6 +221,7 @@
 
 # 实践
 
++ [重构MVC](https://mp.weixin.qq.com/s/jCxAfr-v9Z2_SwbqnX6ROg)
 + [前端必知的跨站脚本攻击（XSS）示例与解决方案](https://mp.weixin.qq.com/s/FAUUNG5AJH_2MbTXHJf0tw)
 + [前端性能优化：提升用户体验的实战指南](https://mp.weixin.qq.com/s/tlZdJYZzRESQSvXOP1F42A)
 + [一次基于 AST 的大规模代码迁移实践](https://my.oschina.net/vivotech/blog/16008871)

@@ -194,6 +194,7 @@
 + [分布式系统下的分库分表](https://mp.weixin.qq.com/s/CMgmpmMzEwGIEScLv2xZVw)
 + [分布式微服务系统架构第88集：kafka集群](https://mp.weixin.qq.com/s/4JhSI7U7GXvQX3wNI35WwA)
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
++ [如何解决“写后立即读”难题？四步打造高一致性分布式系统](https://mp.weixin.qq.com/s/yiPlib_LLl2DAaIGcFjnEw)
 
 ## 分布式锁
 

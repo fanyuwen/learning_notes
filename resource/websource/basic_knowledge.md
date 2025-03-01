@@ -135,6 +135,7 @@
 + [用 Bash 脚本提取 sudo 组成员的三种方法及其实现解析](https://mp.weixin.qq.com/s/rG1f--z6Do1AElL6iB5AhA)
 + [Linux ifstat 命令使用详解](https://mp.weixin.qq.com/s/-PFB6w74sQ4QDxcBvZ---g)
 + [Vim自动命令](https://mp.weixin.qq.com/s/eySncNIHf14JeFO0JXFL6Q)
++ [Linux 性能更好的ftp客户端 lftp 使用详解](https://mp.weixin.qq.com/s/PY_yMTd5j6K5s9wFSXvatg)
 
 ### 发行版信息
 

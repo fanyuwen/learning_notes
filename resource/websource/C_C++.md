@@ -29,6 +29,7 @@
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
 + [C++枚举 enum vs enum class，该怎么选？](https://mp.weixin.qq.com/s/8NexC65ul0HacGXyXyyb1A)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
++ [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
 + [C++回调函数](https://mp.weixin.qq.com/s/KfI36Rf_hB5IxI1tvqllMw)
 + [C++ enum class有什么用](https://mp.weixin.qq.com/s/ryFwF2UxNzzqQxmtbyKYJQ)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)

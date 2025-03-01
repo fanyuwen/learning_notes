@@ -73,6 +73,8 @@
 + [GROUP BY和DISTINCT有什么区别?](https://mp.weixin.qq.com/s/sRfQhDeVcn9p_i6R_lixAg)
 + [SQL 数据表设计：字段类型选择与优化策略全解析](https://mp.weixin.qq.com/s/H4nUR0SHxdFCJC4xlVd3ug)
 + [SQL 中视图详解：概念、使用场景及最佳实践](https://mp.weixin.qq.com/s/7s-pxwDtS1bBwlUpr0bgag)
++ [面试问我 SQL 回表？我瞬间懵了！](https://mp.weixin.qq.com/s/w4uw6K8Uy3GuLRJRctcazQ)
++ [如何判断 SQL 查询是否使用索引并优化查询性能](https://mp.weixin.qq.com/s/nGL72cRkddvpmW2OV58Neg)
 
 # 本地数据库
 
@@ -486,6 +488,7 @@
 ### REDIS
 
 + [如何系统学习Redis](https://mp.weixin.qq.com/s/wlyIkR8s8EqVv9PrgRd1Dg)
++ [几乎涵盖你需要的 Redis 所有操作](https://mp.weixin.qq.com/s/QPEEo5hge13ai4QW2g9HXw)
 + [工作中，Redis的15种使用场景](https://mp.weixin.qq.com/s/du0-7tT_jN-IYcdOjx4SRg)
 + [为什么会出现 Redis？它有什么用？](https://mp.weixin.qq.com/s/zdAZNpWcWcgL0Zh0DDk-2A)
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)

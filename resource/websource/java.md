@@ -41,6 +41,7 @@
 + [Java学习笔记——数据结构](https://mp.weixin.qq.com/s/pPSAOHtdCtr6P7-L01Ms1Q)
 + [Java接口详解](https://mp.weixin.qq.com/s/2Sfct1_jTAqbN4X_SQuPsw)
 + [面向对象程序设计要点](https://mp.weixin.qq.com/s/6TanmhrQuOi84-PGf0637g)
++ [Java抽象方法：面向对象编程的“灵魂契约”](https://mp.weixin.qq.com/s/aaaip0Z5p7XFaeehWCfpCQ)
 + [Java学习笔记——面向对象编程（高级上）](https://mp.weixin.qq.com/s/cQ1YrWg0bpf_XuuKx5V98A)
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
@@ -63,6 +64,7 @@
 + [Java面向对象编程之封装：代码的“黑匣子”，你了解多少？](https://mp.weixin.qq.com/s/ZWIiybvfRUWKfMdzD72axg)
 + [我们来捋一捋JAVA的异常](https://mp.weixin.qq.com/s/n8IQtygGfXEAJovtyCheVQ)
 + [Lambda表达式入门（上篇）](https://mp.weixin.qq.com/s/559kw_0FKzhv4dXYBnukGw)
++ [你知道为什么会有Lambda表达式吗？](https://mp.weixin.qq.com/s/9ZnXH1Yb79Jk3tGTSKgzow)
 
 ## 新语言特性
 
@@ -324,6 +326,7 @@
 + [面试官：BIO、NIO、AIO有什么区别](https://mp.weixin.qq.com/s/xFXOQyyHEtfPub4gkqCdRQ)
 + [为什么随机读写比按顺序读写文件就是快？](https://mp.weixin.qq.com/s/mL8ooXg2ia46TdDQ3OtW8Q)
 + [Java IO（一）： Java 中的 IO](https://mp.weixin.qq.com/s/6r1exmyp-fS8f3SOQtHNiw)
++ [你了解零拷贝吗？](https://mp.weixin.qq.com/s/IzqZDjYBPsK-WwiUo3vDzA)
 
 ### 反射
 
@@ -346,10 +349,14 @@
 + [Java并发编程：如何正确停止线程](https://mp.weixin.qq.com/s/gCSEtwIOY_OWvV6YAQ7bMw)
 + [Java并发编程：守护线程](https://mp.weixin.qq.com/s/7pUCkfPaHDZQw4Ee5gVW9g)
 + [金三银四突击：多线程通讯与协作：Java中的实用技巧与深度解析](https://mp.weixin.qq.com/s/hNBjYPXxDqXrOvAZ5kpFdA)
++ [并发编程 - 线程同步（一）](https://mp.weixin.qq.com/s/kWjPsDHyaNdfoUND1t3qug)
 + [并发编程 - 线程同步（二）](https://mp.weixin.qq.com/s/1wMpghqEWIAB2avQU6qSvg)
++ [并发编程 - 线程同步（三）之原子操作Interlocked简介](https://mp.weixin.qq.com/s/fytwCIchWL9pVbtmz2GKlg)
 + [并发编程 - 线程同步（四）之原子操作Interlocked详解一](https://mp.weixin.qq.com/s/IXxInHU1YGZvByg8ablYVg)
++ [并发编程 - 线程同步（五）之原子操作Interlocked详解二](https://mp.weixin.qq.com/s/jXoeZdcOPBiSCBbvOkwbkQ)
 + [并发编程 - 线程同步（八）之自旋锁SpinLock](https://mp.weixin.qq.com/s/XXlArlHT0vywzP7Cb0_18w)
 + [并发编程 - 线程同步（九）之信号量Semaphore](https://mp.weixin.qq.com/s/2XhpPKd2Jgqxwqomw8ntDw)
++ [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java并发编程：线程安全](https://mp.weixin.qq.com/s/8alKdhLoGbw0_jl78yLXfQ)
 + [Java面试必备！如何获取线程Dump文件与线程堆栈？](https://mp.weixin.qq.com/s/pwqgnob3ek3gdIMNyJ0oQw)
@@ -360,16 +367,12 @@
 + [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
 + [深入理解并发原子性、可见性、有序性与JMM内存模型](https://mp.weixin.qq.com/s/TXDzrGp3H155UkirK93o1w)
 + [Java面试题深度解析：监视器如何实现线程同步？](https://mp.weixin.qq.com/s/_24u4PVW5oQMShnN57WhJw)
-+ [并发编程 - 线程同步（五）之原子操作Interlocked详解二](https://mp.weixin.qq.com/s/jXoeZdcOPBiSCBbvOkwbkQ)
-+ [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java线程调度揭秘：从算法到策略，让你面试稳赢！](https://mp.weixin.qq.com/s/dS-v617-5vxhoMwa9Cr96A)
 + [Java社招面试题：什么是线程同步和线程互斥，有哪几种实现方式？](https://mp.weixin.qq.com/s/doMblj5_YMNhEiDn99SUjA)
 + [一次真实生产事故，让我总结了线程池的正确使用方式](https://mp.weixin.qq.com/s/DVMXLVA--qQ-7271Q1kNhw)
 + [面试官最爱问的Java多线程问题：interrupted和isInterrupted的真相](https://mp.weixin.qq.com/s/JyoKAJDI2xd_pKtjFAEmTw)
 + [阿里面试：如何保证多个线程顺序执行](https://mp.weixin.qq.com/s/AoVzmhem-XK23AFxiCpFBA)
 + [面试必看！当线程池队列满了，任务会如何处理？](https://mp.weixin.qq.com/s/f8eOmVakkaq5_prOsYGusg)
-+ [【java面试100问】79 如何用两个线程轮流输出0到200的值？](https://mp.weixin.qq.com/s/aL-9K37oEAqoQwz5iqzgzA)
-+ [并发编程 - 线程同步（一）](https://mp.weixin.qq.com/s/kWjPsDHyaNdfoUND1t3qug)
 + [“锁”都不知道？下一位。](https://mp.weixin.qq.com/s/DZQ-g1pojLXe_GDiEvaZWQ)
 + [面试官：说说interrupt()、isInterrupted()、Thread.interrupted()的区别](https://mp.weixin.qq.com/s/kkg14Or_7VHG37gdIzz4oA)
 + [Java社招面试题：如何实现多线程之间的通讯和协作？](https://mp.weixin.qq.com/s/wlSOyIbOz7QJ0F7V_YtdcQ)
@@ -380,6 +383,7 @@
 + [面试官：线程池的拒绝策略有哪些？](https://mp.weixin.qq.com/s/URtfIrpSk7fFgoc0_4DLEg)
 + [面试官：说一下线程池的核心参数](https://mp.weixin.qq.com/s/SSbeeKME7MDq08h9uQO_5w)
 + [面试必备：什么是守护线程？为什么需要它？](https://mp.weixin.qq.com/s/-ImN0KJnsw60OygO2ABoQw)
++ [【java面试100问】79 如何用两个线程轮流输出0到200的值？](https://mp.weixin.qq.com/s/aL-9K37oEAqoQwz5iqzgzA)
 + [Java面试必问！run() 和 start() 方法到底有啥区别？](https://mp.weixin.qq.com/s/V8Mox1IQEVMHOBgAQ9Ny_g)
 + [从JVM视角解密synchronized锁优化](https://mp.weixin.qq.com/s/coKHSmRFzmaa1CHMzVdHKA)
 + [Java社招面试题：synchronized底层是如何实现的？](https://mp.weixin.qq.com/s/j7cYUWLrDVd3GoT1LGo4tQ)
@@ -402,6 +406,7 @@
 + [Java中有几种方法可以实现一个线程](https://mp.weixin.qq.com/s/EnjhtNAJBwx53zBPhr7iBQ)
 + [Java多线程 -- ForkJoin线程池](https://mp.weixin.qq.com/s/oL5O-3TkpxjFhuxCmAUK-w)
 + [线程池ForkJoinPool实战及其工作原理分析](https://mp.weixin.qq.com/s/S8ktG6clQSarwFUXWyX0iw)
++ [【2025版JVM面试题】14、CPU指令重排是怎么回事？](https://mp.weixin.qq.com/s/IwHqF5kWIffv8z3DM1C8kQ)
 + [Java多线程同步机制：深入解析常见锁及其应用场景](https://mp.weixin.qq.com/s/fM4gec4yaRYY5om9Z3UXTA)
 + [【多线程】对象的内存布局](https://mp.weixin.qq.com/s/3JI0LunytTfCi2vOZ4ggFA)
 + [【多线程】synchonized实现过程](https://mp.weixin.qq.com/s/Mq_LGyXp0ulFh3LbNMIGGA)
@@ -411,11 +416,11 @@
 + [Java线程安全 -- 线程安全类](https://mp.weixin.qq.com/s/S4CqtnVXK6tBAUQ9VwmoYQ)
 + [深入理解Java并发编程：线程池与锁机制](https://mp.weixin.qq.com/s/hdr29sf9-zEWlA17YTudHA)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
++ [Java volatile关键字](https://mp.weixin.qq.com/s/Nf1G7JO8tt-LjY75nj55bQ)
 + [005架构师必修之java基础篇：搞懂多线程](https://mp.weixin.qq.com/s/K4XrCGZlXh7OW1bDGZYUDQ)
 + [【多线程与高并发】锁的底层实现](https://mp.weixin.qq.com/s/asYL-B2gdIGzV7EfKyeRYw)
 + [【多线程与高并发】锁的特性](https://mp.weixin.qq.com/s/kMXwY_mvvmWpq1VlVnRdug)
 + [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
-+ [Java volatile关键字](https://mp.weixin.qq.com/s/Nf1G7JO8tt-LjY75nj55bQ)
 + [【多线程与高并发】异常跟锁](https://mp.weixin.qq.com/s/NUyMPA5qCKG4DV3GRW8qgQ)
 + [【多线程与高并发】为什么用 final 修饰的变量就是线程安全的了呢？](https://mp.weixin.qq.com/s/XPCYfC-6BJlcGfW8cpJg-w)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
@@ -1362,6 +1367,7 @@
 + [Spring Boot 3.4绝了！这5个隐藏API让你的代码直接封神！](https://mp.weixin.qq.com/s/WLKyifjhLAC7SkRH9Hq_Pw)
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
++ [Spring Boot 2.1.x到Spring Boot 3.4.x都有哪些变化？](https://mp.weixin.qq.com/s/ZuyroYurktW-tH0T7Zps5A)
 + [紧急避雷！Spring Boot 3.4兼容性问题TOP5，看到第3条我慌了](https://mp.weixin.qq.com/s/QoWHvwgshsg0NOA3u4g2EQ)
 + [Spring Boot 3+ 生命周期优化：告别 @PostConstruct 和 @PreDestroy，轻松实现现代管理](https://mp.weixin.qq.com/s/WRTRB576OktkjYupWz1Uyw)
 + [SpringBoot3.0 新特性尝鲜，秒启动的快感！SpringAOT与RuntimeHints来了解一下？](https://mp.weixin.qq.com/s/XdUcLdJoEEnUwAKwTbIsVg)
@@ -1745,6 +1751,7 @@
 + [Spring Boot 记录Controller接口请求日志7种方式，第六种性能极高](https://mp.weixin.qq.com/s/hQGwHn3LbXMlwIhWe_BeYA)
 + [5种实现方式配置Spring Boot API接口超时时间](https://mp.weixin.qq.com/s/FOysimMz08omR8WyJYM4ng)
 + [Spring Boot 防盗链功能深度解析，保护你的内容不被盗用！](https://mp.weixin.qq.com/s/KVDbALBjAkXYH56oZ2MmHw)
++ [HandlerInterceptor拦截器在SpringBoot中的实战应用](https://mp.weixin.qq.com/s/uz9yBfVBCRfZNTPyBIvRYg)
 
 ##### VUE
 
@@ -2008,6 +2015,8 @@
 + [颠覆认知：Spring Boot 结合外观模式简化复杂业务逻辑实战揭秘](https://mp.weixin.qq.com/s/to4A16fQZiI0UVYz5w9-Sg)
 + [Spring Boot + 装饰器模式：在线支付系统的最佳实践](https://mp.weixin.qq.com/s/HfjLNCn5bBEzaoTrhgrBQA)
 + [SpringBoot + Facade Pattern：通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/k3OujanHS77tPV8s1vQvdA)
++ [SpringBoot适配器模式](https://mp.weixin.qq.com/s/M7I6GMiIJMxG6BXCbesbDQ)
++ [SpringBoot观察者模式](https://mp.weixin.qq.com/s/CRFeziOTE0XA9iOKT887jQ)
 
 #### message
 
@@ -2141,6 +2150,8 @@
 + [SpringBoot 整合 Elastic-Job 实现任务分布式调度，实战讲解！](https://mp.weixin.qq.com/s/opRdRShLVJ6d_AyzRo1oTA)
 + [SpringBoot整合Mybatis与Thymeleaf构建用户管理系统](https://mp.weixin.qq.com/s/wnFZ6CFXx8ar875Qld7_mQ)
 + [Springboot与arangodb整合，实现类似Uber优化路线规划和司机调度功能](https://mp.weixin.qq.com/s/oX0lwX8MvKWRYApNpOhomg)
++ [SpringBoot与Vault整合，解决敏感配置信息的动态加密与权限管控问题](https://mp.weixin.qq.com/s/_Gej7-i3xT1kUG6Rsa6S8A)
++ [SpringBoot与RocketMQ整合，实现分布式场景下的订单超时自动取消功能](https://mp.weixin.qq.com/s/k8OncUhuOfCompdYNWVFRQ)
 
 #### 自定义实现
 
@@ -2267,6 +2278,7 @@
 
 ## netty
 
++ [Netty实战入门教程](https://mp.weixin.qq.com/s/l1yJ40Ed3P2Ydzty2e6r2g)
 + [轻松掌握Netty：实现高效的客户端与服务器通信](https://mp.weixin.qq.com/s/jN4f303IkInD0i9Z-9JYNA)
 + [Netty高级使用与源码详解](https://mp.weixin.qq.com/s/lgwieW4dOrDSXU9YwPS8nQ)
 + [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
@@ -2353,6 +2365,7 @@
 + [SLF4J 桥接器及其原理--让你的旧代码也可以起飞](https://mp.weixin.qq.com/s/wfkfydoPChH577HpOg-ZXg)
 + [Log4j原理分析](https://mp.weixin.qq.com/s/i5jJmLwuL64mSFkRf3F7uQ)
 + [日志中的TraceId魔法，解锁业务全链路追踪！](https://mp.weixin.qq.com/s/lXSBytTYyRxy43lMtlSp-A)
++ [全网最全Log配置教程及框架性能比较，看这篇就够了！](https://mp.weixin.qq.com/s/B91w9vUGotjHM3ItcLPPmQ)
 
 ## MapStruct
 
@@ -2554,8 +2567,10 @@
 
 # 相关文章
 
++ [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
++ [记一次内存利用率问题排查](https://mp.weixin.qq.com/s/0E6GxkCnuT8lpReeoeCbHg)
 + [filter、interceptor、aspect不知如何选择](https://mp.weixin.qq.com/s/6he3imUhkS34ReVhCg6YHA)
 + [解锁Hutool BoundedPriorityQueue，搞定热门用户Top 5](https://mp.weixin.qq.com/s/zH5oigwME7ntS4mS9Ofc2w)
 + [「缓存」会用很容易，用好才是技术活](https://mp.weixin.qq.com/s/zIgHhqbB5y2lN5-OOz2dHQ)

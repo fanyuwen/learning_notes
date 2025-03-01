@@ -81,6 +81,7 @@
 + [Kafka如何手动Kill未完成的事务?](https://mp.weixin.qq.com/s/ilVVXrYOoQJDCc5vlKKZKg)
 + [面试官：如何解决Kafka重复消费、漏消费的问题？](https://mp.weixin.qq.com/s/ZYooCesyJbQ6pzy1YNSgcA)
 + [Kafka Broker 集群部署与 I/O 性能优化指南](https://mp.weixin.qq.com/s/9p2v6YLurgmYe2Fa_Z3JWA)
++ [Kafka性能优化指南：如何有效避免消息积压](https://mp.weixin.qq.com/s/zvsMbxWGtQFODrt0Oc4OSw)
 
 # ROCKETMQ
 
@@ -107,6 +108,7 @@
 + [基于RocketMq的分布式事务解决方案](https://mp.weixin.qq.com/s/h8pOALPsi07jZs88obmcGQ)
 + [一文详解 RocketMQ 如何利用 Raft 进行高可用保障](https://my.oschina.net/u/3874284/blog/17560991)
 + [RocketMQ 事务消息原理详解 & 源码解析](https://mp.weixin.qq.com/s/V02leXaN_H1tNqEfD9UMpg)
++ [RocketMQ二面通关秘籍：面试官问得太细，这些问题你准备好了吗？](https://mp.weixin.qq.com/s/DZf82QjtbaJiYqJYAtmFeQ)
 
 # RABBITMQ
 

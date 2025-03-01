@@ -52,6 +52,7 @@
 + [不用 if else，如何优雅处理 JavaScript 条件判断？](https://mp.weixin.qq.com/s/MTgsjU904wMyATuZocOdPw)
 + [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
++ [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)

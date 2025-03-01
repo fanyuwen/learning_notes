@@ -445,6 +445,7 @@
 + [MySQL 索引的数据结构](https://mp.weixin.qq.com/s/9Q3KAedWv0M-uJBmkooKjA)
 + [MySQL的索引，越多越好吗？需要注意什么？](https://mp.weixin.qq.com/s/6w6HWl2jS3m80GtpSvrVDw)
 + [索引优化全攻略：提升排序、GROUP BY与分页性能](https://mp.weixin.qq.com/s/6M6-ldCSsuucuG5j86kwuw)
++ [在MySQL中，聚簇索引和非聚簇索引，如何区分？](https://mp.weixin.qq.com/s/3uBlsHJ6br1GkviVbEF3hg)
 
 ### PostgreSQL
 
@@ -629,6 +630,7 @@
 + [谈谈你们是怎么解决Redis 中的热 Key 问题](https://mp.weixin.qq.com/s/OSPTvbheR9HVm1P5acUMOg)
 + [面试官：Redis 6为什么引入了多线程](https://mp.weixin.qq.com/s/GHnG_f1G6BNOol1A__7Cjg)
 + [面试官：说说Redis的过期策略及其优缺点](https://mp.weixin.qq.com/s/_zvgUC0W1NSqtDLR5aR_xQ)
++ [面试官：谈谈你对Redis中Pipeline的理解](https://mp.weixin.qq.com/s/z2gZ6Na2UYyNqOjBEyhwew)
 
 #### 原理
 

@@ -91,6 +91,7 @@
 + [全面解析linux中mmap的底层原理及其应用](https://mp.weixin.qq.com/s/srN3JuwrJ6GzEGQ11vkI0g)
 + [Linux 使用 sosreport 生成系统报告](https://mp.weixin.qq.com/s/6nGngkLsgd__DFQ4OctDXA)
 + [Linux系统应用漏洞修复、框架升级的一点心得整理](https://mp.weixin.qq.com/s/Q3ggG6fBS0otLUpsg4JkmQ)
++ [Linux系统常用目录结构](https://mp.weixin.qq.com/s/9fZOJul7ruvVHir0UQIWAw)
 
 ### 网络
 
@@ -136,6 +137,7 @@
 + [Linux ifstat 命令使用详解](https://mp.weixin.qq.com/s/-PFB6w74sQ4QDxcBvZ---g)
 + [Vim自动命令](https://mp.weixin.qq.com/s/eySncNIHf14JeFO0JXFL6Q)
 + [Linux 性能更好的ftp客户端 lftp 使用详解](https://mp.weixin.qq.com/s/PY_yMTd5j6K5s9wFSXvatg)
++ [Linux：echo命令功能及各种用法详解](https://mp.weixin.qq.com/s/iefbm1FV8PhCUKVWr7VaVQ)
 
 ### 发行版信息
 
@@ -184,6 +186,7 @@
 + [为什么栈内存比堆内存速度快？](https://mp.weixin.qq.com/s/-JKl4nJbVQANIknk3BXRSw)
 + [为什么内存访问会比CPU慢](https://mp.weixin.qq.com/s/5NtkAqMFSKayg-TxnjhSkQ)
 + [磁盘和内存如何聊天](https://mp.weixin.qq.com/s/7oyyXSd5j09ezllqRg9MhA)
++ [增加内存会让计算机变快吗？](https://mp.weixin.qq.com/s/A6gOSFw2GVzgiV-jMdVJWg)
 
 ## GPU
 
@@ -365,6 +368,7 @@
 + [Nginx如何实现高并发？原理深度解析!](https://mp.weixin.qq.com/s/S1-C3-__q9_OWlxeZOQQew)
 + [Nginx静态压缩和代码压缩，提高访问速度！](https://mp.weixin.qq.com/s/rW5X257mVyoubzzm-6Z5Zg)
 + [手把手教你，使用Nginx搭配Tomcat实现负载均衡!](https://mp.weixin.qq.com/s/KXQxu246DsjojO-p96udfA)
++ [如何通过nginx代理实现外网访问内网mysql或oracle数据库](https://mp.weixin.qq.com/s/e6grtMLIizTYR8qKiyV7CQ)
 
 ### wireshark
 

@@ -47,6 +47,10 @@
 + [面试官：单例模式都说不清楚，还说自己会设计模式！！!](https://mp.weixin.qq.com/s/_G-9gWexeci5O-Kq7nzakA)
 + [设计模式-单例模式](https://mp.weixin.qq.com/s/YuqvRMEOx_eoQzkPQcTNSw)
 
+## 模板方法模式
+
++ [模板方法模式，用起来是真的爽！](https://mp.weixin.qq.com/s/OGQbwcxeoWcrbmAtpt8fxQ)
+
 ## 工厂模式
 
 + [23种经典设计模式-工厂模式（详解）](https://mp.weixin.qq.com/s/rodeOrf1IyXIkVhw5OKOgQ)
@@ -83,6 +87,7 @@
 ## 装饰器模式
 
 + [优化代码结构-装饰器设计模式(Decorator Pattern)](https://mp.weixin.qq.com/s/dCiQQ60PgqeLLVJrYXV64g)
++ [面试官：装饰器模式 使用场景有哪些？](https://mp.weixin.qq.com/s/QL_Hf-ouc0rJY1WVUkWmXw)
 
 ## 桥接模式
 

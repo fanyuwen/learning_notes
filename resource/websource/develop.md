@@ -153,6 +153,7 @@
 + [微服务架构中数据一致性问题解析](https://mp.weixin.qq.com/s/Ngn9UNICt4mMur9rga269Q)
 + [从容错到限流：保障微服务可靠性的关键策略分析](https://mp.weixin.qq.com/s/8gfuq21Kuweb38RrZ9ZhXQ)
 + [视图：如何实现服务和数据在微服务各层的协作？](https://mp.weixin.qq.com/s/0E_DQAx21NKqUk_RocQEHw)
++ [系统集成与微服务架构：四种基本集成方式](https://mp.weixin.qq.com/s/8bPzTakdbOyGEoZubMjiiA)
 
 # 分布式
 
@@ -554,6 +555,7 @@
 + [六、架构实战——订单系统](https://mp.weixin.qq.com/s/bn6yDgnMzBuNThEWl-FlWA)
 + [37. 微信抢红包的功能是如何实现的，如果让你来做你怎么设计？](https://mp.weixin.qq.com/s/Qk6ShR-pNzhwN0uJmYfjfQ)
 + [分布式微服务系统架构第90集：现代化金融核心系统](https://mp.weixin.qq.com/s/5VYM1uH9HJbAe7D8V1xcxw)
++ [5. 字节二面：如何设计一个支持 10 万 QPS 的会员系统](https://mp.weixin.qq.com/s/p-XmnXUWVHmnYyUgxKl59A)
 
 ## 代码相关
 
@@ -689,6 +691,7 @@
 + [掌握 Git 工作流：超越基础命令](https://mp.weixin.qq.com/s/xQefjb-8XkHFr4Gl_49wkw)
 + [工作中这么使用git，效率直线提升](https://mp.weixin.qq.com/s/mGytSKanhUXNadDKWQHCig)
 + [前端人必知！Git 与前端项目的完美协作秘籍](https://mp.weixin.qq.com/s/Zeg9XedEYKVHxEc6O7uMRQ)
++ [Git指南-从入门到精通](https://mp.weixin.qq.com/s/q2yoPX7-J-0iI_JPNuVrqg)
 
 ### 编程范式
 

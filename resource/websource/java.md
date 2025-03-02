@@ -100,6 +100,7 @@
 + [JDK1.8中的双冒号 :: 这是个啥？](https://mp.weixin.qq.com/s/l_3vzYrZgVVUyydxkX6j7w)
 + [聊聊java的switch和scala的模式匹配有哪些区别以及在RocketMQ和kafka中的应用](https://mp.weixin.qq.com/s/sAN0vTU0gr40WwnzBJi3Vw)
 + [java8 lambda 表达式详解](https://www.jianshu.com/p/613a6118e2e0)
++ [太强！Stream 6个秘密技巧，你一定会爱上](https://mp.weixin.qq.com/s/nmsQqRstyR5JyFsi0I6UTw)
 
 ## 高级用法
 
@@ -189,6 +190,7 @@
 
 + [PO、VO、DAO、BO、DTO、POJO 基本概念详解](https://mp.weixin.qq.com/s/zvYSjz57evZQ6pcjSWNfPw)
 + [PO、VO、DAO、BO、DTO、POJO 能分清吗？](https://mp.weixin.qq.com/s/v8TuJr0s4obxBslXlbZPdA)
++ [PO、VO、DAO、BO、DTO、POJO 一网打尽：Java 开发者的必修课](https://mp.weixin.qq.com/s/rWmTqMF8w3fvRZRqBjzRDA)
 + [一个项目代码讲清楚DO/PO/BO/AO/E/DTO/DAO/ POJO/VO](https://mp.weixin.qq.com/s/seduq9sglqEnC2ta7LU07g)
 + [Java中vo，dto，bo，do(那么多O)是不是增加了系统复杂度？](https://mp.weixin.qq.com/s/bY80Zh-tVQ7dPntPkQUfqg)
 + [面试篇：项目中 Dao，Service，Controller，Util，Model 是什么意思，为什么划分？](https://mp.weixin.qq.com/s/176OutlOtKZ9EwVDqES5KA)
@@ -773,6 +775,7 @@
 + [面试官：为什么threadLocal有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/ZmG9V-J5YCkl7BdRUif4jw)
 + [面试官：ThreadLocal有哪些应用场景](https://mp.weixin.qq.com/s/vUxcCZMhXzRgmG4-Jr--_g)
 + [面试官：ThreadLocal的原理是什么？](https://mp.weixin.qq.com/s/KPyoz0uNikgD2vSkn6LO6g)
++ [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/r_pPhTtieZcok_vscZpkcQ)
 
 ### Lock
 
@@ -1223,6 +1226,7 @@
 + [@EnableDiscoveryClient根本不需要了，你还在用吗？](https://mp.weixin.qq.com/s/sr7kitkr1o_8p6wFkamyNg)
 + [【2025版SpringCloud面试题】16、如何处理Nacos的配置更新？](https://mp.weixin.qq.com/s/_Ggir8ORn_thZ4NRBe9cJw)
 + [Sidecar模式助力Spring Cloud，实现跨语言微服务高效协同](https://mp.weixin.qq.com/s/lmUzqks3qGJ9SN4wjNEQ-g)
++ [Spring（二十）Spring Cloud Eureka：高可用服务注册与发现解决方案](https://mp.weixin.qq.com/s/gd3hAyDWei-euq0dy8vZNg)
 
 #### alibaba
 
@@ -1605,6 +1609,7 @@
 + [SpringBoot3.4.1和Spring Security6.4.2实现基于内存和MySQL的用户认证](https://mp.weixin.qq.com/s/EQP4JcyYnNDdy_EurdjhfA)
 + [Spring Boot 3.4 实现接口耗时记录：基于 ServletRequestHandledEvent 的优雅方案](https://mp.weixin.qq.com/s/kceAZZ22M_3NbiCQ4IrkOA)
 + [接口耗时从2秒到50ms！Spring Boot 3.4性能调优全链路实操](https://mp.weixin.qq.com/s/3T35lcu0cycqMbrbDNtLFw)
++ [Spring Boot 调用外部接口的 3 种方式，还有谁不会？！](https://mp.weixin.qq.com/s/ty8RNpnZpYru1ukvKF9acA)
 + [REST API中的Patch请求大家都用错了，这才是正确姿势](https://mp.weixin.qq.com/s/dTsxtmWyFQKrlGgApj2srw)
 + [SpringBoot 优雅参数校验](https://mp.weixin.qq.com/s/dl72n39er1QRCuus2voJdQ)
 + [SpringBoot参数校验](https://mp.weixin.qq.com/s/QsU-n5Hl_qerBJWTXzsKmQ)
@@ -2174,6 +2179,8 @@
 + [SpringBoot整合SpringSecurity与Thymeleaf实现权限控制](https://mp.weixin.qq.com/s/_HnfCW4xb_AhRdHhoP2quw)
 + [SpringBoot与JGraphT整合，实现物流路径优化系统](https://mp.weixin.qq.com/s/lRxQ9QIXv1WOIcurLBK7jg)
 + [SpringBoot与Kafka整合，实现热门页面分析功能](https://mp.weixin.qq.com/s/tmYcol6kUVq9VfjxW6OaWA)
++ [SpringBoot与Elasticsearch整合，开发电商场景的商品多维度检索功能](https://mp.weixin.qq.com/s/7m9TZT0FgEJVlEJqoWDIsw)
++ [Redis 赋能！Spring Boot 实现高性能分页+多条件模糊查询](https://mp.weixin.qq.com/s/OqM9-F2iBJTyfCp9JYa7rw)
 
 #### 自定义实现
 
@@ -2584,6 +2591,7 @@
 + [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/z21t7yZeAAYU03X2pBDS1A)
 + [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/H9Xk4bdtfTBKYAmyTnOHQQ)
 + [Java 后端新技能！极简代码通过 OpenTelemetry Traces 实现零代码监控](https://mp.weixin.qq.com/s/JfYUKU_bpxQRwGcYGtsehw)
++ [Java+iTextPDF，实时生成与预览PDF文件的最佳实践！](https://mp.weixin.qq.com/s/bfDRbeR-9ZagIvmeHdhmTg)
 
 # 其它环境
 
@@ -2596,6 +2604,7 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [分布式场景下是否适用 synchronized 加锁机制？](https://mp.weixin.qq.com/s/Na7Frws3ASxSin9w7HLliQ)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [Java程序员深夜崩溃实录：这10个坑我赌你至少踩过3个！](https://mp.weixin.qq.com/s/3g2IvceFAlzQvoeItrLl5w)
 + [记一次内存利用率问题排查](https://mp.weixin.qq.com/s/0E6GxkCnuT8lpReeoeCbHg)

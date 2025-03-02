@@ -60,6 +60,7 @@
 + [架构设计三原则](https://mp.weixin.qq.com/s/2omv_t675EgCcgZTcZ4P-w)
 + [架构复杂度设计](https://mp.weixin.qq.com/s/KNoG5S0U7o5xLjzS48DBfw)
 + [深入了解软件架构：组件、容器与模块架构图详解](https://mp.weixin.qq.com/s/dPkh_q-hHeh7c5HrRkSd1Q)
++ [如何设计可扩展架构](https://mp.weixin.qq.com/s/Su5HRWTY_I7cIPL4l4bd7Q)
 
 ### DDD
 
@@ -155,6 +156,7 @@
 + [从容错到限流：保障微服务可靠性的关键策略分析](https://mp.weixin.qq.com/s/8gfuq21Kuweb38RrZ9ZhXQ)
 + [视图：如何实现服务和数据在微服务各层的协作？](https://mp.weixin.qq.com/s/0E_DQAx21NKqUk_RocQEHw)
 + [系统集成与微服务架构：四种基本集成方式](https://mp.weixin.qq.com/s/8bPzTakdbOyGEoZubMjiiA)
++ [微服务架构核心需求解析与技术选型](https://mp.weixin.qq.com/s/yOhOWuIXTq5l2vBnvJdgeg)
 
 # 分布式
 
@@ -218,6 +220,7 @@
 + [企业实战之分布式锁](https://mp.weixin.qq.com/s/y-W2TsL6NZ5cYgkPgQPqZA)
 + [一个注解 —— 完美实现分布式锁](https://mp.weixin.qq.com/s/HH1EOeUFsyHY3Ews9rEvgQ)
 + [分布式锁介绍](https://mp.weixin.qq.com/s/1Joo0dN47TEmvq6BhS5wow)
++ [分布式锁实现解析：几种简单方式的对比与选择](https://mp.weixin.qq.com/s/p41UsC969wUHs1tEmYUdzg)
 
 ## 分布式缓存
 
@@ -236,6 +239,7 @@
 + [分布式系统中的三阶段提交协议（3PC）实现（Java中使用Spring Boot实现)](https://mp.weixin.qq.com/s/ppclZQAeER2TlPRhhLXo4Q)
 + [分布式事务常见解决方案](https://mp.weixin.qq.com/s/SbA9pVAId61dY1APIOLsXg)
 + [分布式事务模型详解](https://mp.weixin.qq.com/s/cmYkYuN-86pDR5IdsGzwsw)
++ [深度解析分布式事务的七大核心方案](https://mp.weixin.qq.com/s/Jx2U452t0od-2hWuv8rRLw)
 
 ## 分布式算法
 
@@ -320,6 +324,7 @@
 + [高并发下如何防重？](https://mp.weixin.qq.com/s/b3MLjMTobJFcSshL7BnK4g)
 + [大厂防止超卖的7种实现，很受用！](https://mp.weixin.qq.com/s/aCJUBpq_TiSaePCKokypFA)
 + [幂等性：如何通过设计避免重复操作的影响？](https://mp.weixin.qq.com/s/jJaaaPxU1FEQJ8IO_bfgQw)
++ [高并发下 如何保证接口的幂等性？](https://mp.weixin.qq.com/s/20tPlrMJFYqlf53_XjlY_A)
 
 ### 负载&限流
 
@@ -390,6 +395,7 @@
 + [面试题：什么是缓存击穿、缓存穿透和缓存雪崩？它们分别会带来什么危害？该如何解决和预防？](https://mp.weixin.qq.com/s/EqcmLsxRC3Of833dZaBnKw)
 + [强大！基于Map优化缓存设计](https://mp.weixin.qq.com/s/r2hbOfqpNEdsUWucPcseSQ)
 + [缓存数据一致性问题，你知道哪些解决方案？你觉得哪种方案最好？](https://mp.weixin.qq.com/s/GNK9jJta6jwNtV52G5P95w)
++ [大厂高频面试题：Redis三大缓存问题（缓存穿透、雪崩、击穿）的原因及解决方案详解，面试必问，建议收藏](https://mp.weixin.qq.com/s/VYTmazKrklNhvD676sbIUw)
 
 ## 优化
 

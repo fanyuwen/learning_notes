@@ -75,6 +75,7 @@
 + [SQL 中视图详解：概念、使用场景及最佳实践](https://mp.weixin.qq.com/s/7s-pxwDtS1bBwlUpr0bgag)
 + [面试问我 SQL 回表？我瞬间懵了！](https://mp.weixin.qq.com/s/w4uw6K8Uy3GuLRJRctcazQ)
 + [如何判断 SQL 查询是否使用索引并优化查询性能](https://mp.weixin.qq.com/s/nGL72cRkddvpmW2OV58Neg)
++ [90%的网站都遇到过这个漏洞：SQL注入攻击，你中招了吗？](https://mp.weixin.qq.com/s/OEs7f4rnXOWXN2shiGSYKA)
 
 # 本地数据库
 
@@ -164,6 +165,7 @@
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [MySQL探秘之旅：总体架构介绍](https://mp.weixin.qq.com/s/0W1XWb4-D2AuimDsQijX9g)
++ [MySQL笔记 | 一条查询语句是怎么执行的？](https://mp.weixin.qq.com/s/M1f23DOXzVwDwfwEFJzwmg)
 + [MySQL如何避免单点故障？](https://mp.weixin.qq.com/s/AE-9Dp51ekrXQXED-C3pmg)
 + [提升效率的秘密武器：MySQL 常用命令速查宝典](https://mp.weixin.qq.com/s/vkK0w9_U-P9yXxLzww_YgQ)
 + [美团二面拷打：MySQL中 SELECT 语句执行流程？](https://mp.weixin.qq.com/s/NGIhHHZ5deWk-7yU3V2U7w)
@@ -336,6 +338,7 @@
 + [在 MySQL中，Log Buffer是什么？它有什么作用？](https://mp.weixin.qq.com/s/yCHp_yQOZ8uKVj-CXS3hNA)
 + [MySQL 中 int(1) 和 int(10)、char(1) 和 varchar(10) 的区别详解](https://mp.weixin.qq.com/s/3hI7pJ2UBnUQax4QR3Xp-A)
 + [深度解析MySQL中的Join算法：原理、实现与优化](https://mp.weixin.qq.com/s/ufpJNxiX6iqp6MxAnvM07w)
++ [MySQL性能优化：从理解explain执行计划开始](https://mp.weixin.qq.com/s/kaVwf7FmVKwwf2GEJA5VgA)
 
 #### 存储引擎
 

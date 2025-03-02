@@ -243,11 +243,13 @@
 + [IntelliJ IDEA 2025.1 EAP 发布，初步支持 Java 24！](https://mp.weixin.qq.com/s/My-Aw1XhkE0sAe1nhiibdA)
 + [IntelliJ IDEA 神级攻略：IDEA 实战隐藏技巧指南](https://mp.weixin.qq.com/s/bhbojnfB-RlOEVDl3ETNPQ)
 + [一款必备的 IDEA 神级插件，轻松搞定繁杂的 JSON 格式化](https://mp.weixin.qq.com/s/su_LGh7de_hFucGKIXk8_w)
++ [IDEA深度用户必备：高效部署技巧，一键搞定项目发布](https://mp.weixin.qq.com/s/tMnfF1Zss3zW4t0ou_dA8Q)
 
 ## MAC_PRO相关
 
 + [12.1K star！这款轻量级 Mac 工具非常推荐使用！](https://mp.weixin.qq.com/s/GX1wCGTPDTRENLDSRCSTfg)
 + [从零搭建专业程序员的Mac系统](https://mp.weixin.qq.com/s/S8-D6gNOwJHd_0uPp7-7vA)
++ [Homebrew MacOS的包管理器](https://mp.weixin.qq.com/s/dgJzTmryZm1srcxE6Q7zPw)
 
 ## NAS
 

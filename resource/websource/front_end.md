@@ -205,11 +205,16 @@
 + [前端学习之NodeJS——browser-management](https://mp.weixin.qq.com/s/3YJXxoRKwoN1ppaUfqfMug)
 + [Node.js中Event模块详解](https://mp.weixin.qq.com/s/uCseFMoOaKLDD145hk548g)
 + [Node.js中HTTP服务创建详解](https://mp.weixin.qq.com/s/kyqO3eI7IpuYYyIvpNeI3Q)
++ [Node.js 实现静态文件服务器，从 ES6 语法到项目构建！](https://mp.weixin.qq.com/s/tzWSCJprUO-Yiyvx9JL3iQ)
 
 ## vite
 
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
 + [Vite 使用指南](https://mp.weixin.qq.com/s/55Hukaap4l3I2tvYE_wxDA)
+
+## bun
+
++ [Bun 1.2.3带来全新Glob实现——引领性能突破](https://mp.weixin.qq.com/s/uX6UVa11u0GZfTWlJ2SFig)
 
 ## 其它
 
@@ -237,6 +242,7 @@
 + [详解抽象语法树](https://mp.weixin.qq.com/s/NSKJukC4uL1YO5v9CK-KYQ)
 + [前端组件设计：从封装到复用的最佳实践](https://my.oschina.net/u/8534996/blog/16858012)
 + [前端性能优化的几个大招（理论+实践，看完就是Leader水平）](https://mp.weixin.qq.com/s/SM1po543uVENh9k7Rh8ZPw)
++ [《每天一题》你了解TypeScript工具类型Exclude与Omit 的使用吗？及它们两个的区别？](https://mp.weixin.qq.com/s/ZGxswkqNM9BsjCm1fEG_rg)
 
 # 杂谈
 

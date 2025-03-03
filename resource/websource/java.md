@@ -571,6 +571,7 @@
 + [深入探索 JVM：大厂面试题全解析与实战指南（6）](https://mp.weixin.qq.com/s/iC4UAx292Vl_yD4sOXDLbw)
 + [JVM线程调度优化之3个技巧让Java应用跑得更快](https://mp.weixin.qq.com/s/95dgXviyro6pmVjqkSmyLQ)
 + [【2025版JVM面试题】17、深入Hotspot源码理解内存屏障如何禁止指令重排](https://mp.weixin.qq.com/s/rnzDpEegsk8Xka5Ll8JKBg)
++ [【2025版JVM面试题】3、京东二面：说下垃圾收集器CMS&G1的设计原理](https://mp.weixin.qq.com/s/-Ln0cr_LxrX8dZzeaU_12g)
 
 # 核心库
 
@@ -869,6 +870,7 @@
 + [解决JNI函数动态绑定防追踪](https://mp.weixin.qq.com/s/0V9gsUblJi5vqQmnjMzRrQ)
 + [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
 + [JAVA：SPI 技术详解与实践样例](https://mp.weixin.qq.com/s/cLqsSfFvZEGL3W5F6LzACg)
++ [黑科技加持！Java 动态编译 + 运行时热加载，让代码即改即生效](https://mp.weixin.qq.com/s/3X7ahbus7hd5FK0H2_mcvw)
 
 # 包管理工具
 
@@ -1118,6 +1120,7 @@
 + [可能是最漂亮的Spring事务管理详解](https://mp.weixin.qq.com/s/GslUiX3S6agfuy3GERHbZQ)
 + [深入解析Spring事务原理：声明式与编程式事务管理](https://mp.weixin.qq.com/s/7QpbFrvkpMAY6fxyiWOPeA)
 + [数据库事务隔离级别怎么选？看这篇就够了！](https://mp.weixin.qq.com/s/zqAI3-7pgodRgxaoY0mpBA)
++ [【Java面试100题突击】94 Spring事务传播行为是怎么实现的？它的实现原理是怎么样的？](https://mp.weixin.qq.com/s/cEqOW8_TC9lYH3EmmHgHyQ)
 
 ### Log
 
@@ -1248,6 +1251,7 @@
 + [Spring Cloud Gateway 数字签名与 URL 动态加密的完美实践！](https://mp.weixin.qq.com/s/1ucchEcNatFCLTvzua-FRg)
 + [实战干货！Spring Cloud Gateway 整合 OAuth2.0 实现分布式统一认证授权！](https://mp.weixin.qq.com/s/9MIOi3QC6OXoqGyg-OErkg)
 + [Spring Cloud 网关熔断机制：技术原理与实践应用的完美结合](https://mp.weixin.qq.com/s/V9QZ3MeBW-xlS13vMEoJ5g)
++ [【2025版SpringCloud面试题】17、如何通过Gateway实现服务的平滑迁移？](https://mp.weixin.qq.com/s/JBNOEv9Xa2Rz3S4vjt9DRg)
 
 #### AI
 
@@ -1385,6 +1389,7 @@
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
 + [Spring Boot 3.0暴力升级指南：旧项目迁移竟比相亲还刺激？](https://mp.weixin.qq.com/s/IprFqxdr5Uc1iwopHyBsxQ)
 + [Spring Boot 2.1.x到Spring Boot 3.4.x都有哪些变化？](https://mp.weixin.qq.com/s/ZuyroYurktW-tH0T7Zps5A)
++ [Spring Boot 3.4五大新特性揭秘：80%开发者不知道的隐藏技能](https://mp.weixin.qq.com/s/wCfpjF9rTVRXzu1yOombkQ)
 + [紧急避雷！Spring Boot 3.4兼容性问题TOP5，看到第3条我慌了](https://mp.weixin.qq.com/s/QoWHvwgshsg0NOA3u4g2EQ)
 + [Spring Boot 3+ 生命周期优化：告别 @PostConstruct 和 @PreDestroy，轻松实现现代管理](https://mp.weixin.qq.com/s/WRTRB576OktkjYupWz1Uyw)
 + [SpringBoot3.0 新特性尝鲜，秒启动的快感！SpringAOT与RuntimeHints来了解一下？](https://mp.weixin.qq.com/s/XdUcLdJoEEnUwAKwTbIsVg)
@@ -1851,6 +1856,7 @@
 + [请不要自己写！Spring Boot 一个注解搞定逻辑删除，支持JPA/MyBatis](https://mp.weixin.qq.com/s/JTAH0YoamumtYMpJso1C3A)
 + [SpringBoot与Redis整合，实现千万级数据量的实时热销商品排行榜功能](https://mp.weixin.qq.com/s/gTFCRKdxZVZmWp7KfDwK9Q)
 + [Spring Boot中记录JDBC、JPA及MyBatis执行SQL及参数的正确姿势](https://mp.weixin.qq.com/s/vVpYj0ZBLC2OVfwGQhzpvQ)
++ [在 SpringBoot 项目中如何动态切换数据源、数据库？](https://mp.weixin.qq.com/s/TPbzdhjTdTyo7UHhhmB0-A)
 
 ##### TRANSACTION
 
@@ -2181,6 +2187,7 @@
 + [SpringBoot与Kafka整合，实现热门页面分析功能](https://mp.weixin.qq.com/s/tmYcol6kUVq9VfjxW6OaWA)
 + [SpringBoot与Elasticsearch整合，开发电商场景的商品多维度检索功能](https://mp.weixin.qq.com/s/7m9TZT0FgEJVlEJqoWDIsw)
 + [Redis 赋能！Spring Boot 实现高性能分页+多条件模糊查询](https://mp.weixin.qq.com/s/OqM9-F2iBJTyfCp9JYa7rw)
++ [SpringBoot与rdf4j整合，实现欺诈检测功能](https://mp.weixin.qq.com/s/wjRqXj_WXCKBsY65aiz6HQ)
 
 #### 自定义实现
 
@@ -2592,6 +2599,7 @@
 + [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/H9Xk4bdtfTBKYAmyTnOHQQ)
 + [Java 后端新技能！极简代码通过 OpenTelemetry Traces 实现零代码监控](https://mp.weixin.qq.com/s/JfYUKU_bpxQRwGcYGtsehw)
 + [Java+iTextPDF，实时生成与预览PDF文件的最佳实践！](https://mp.weixin.qq.com/s/bfDRbeR-9ZagIvmeHdhmTg)
++ [OkHttp，一个Java网络请求的信使！](https://mp.weixin.qq.com/s/HPM4YJrk1JmT4kqN1dbp4g)
 
 # 其它环境
 

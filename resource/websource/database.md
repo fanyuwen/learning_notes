@@ -104,6 +104,7 @@
 + [字节2面：为了性能，你会违反数据库三范式吗？](https://mp.weixin.qq.com/s/9NGiiMJnJm0PYYwWEUiIeA)
 + [【java面试100问】84 为什么不推荐使用数据库自增主键？也不推荐使用UUID作主键，用雪花算法会有什么问题？](https://mp.weixin.qq.com/s/Osxz7DxwX4H1YDR1tYmIyw)
 + [腾讯面试题：如何保证Redis与MySQL的数据一致性？](https://mp.weixin.qq.com/s/HUMu42ZYijHvPGfdEuts3A)
++ [别踩坑！存储电话号码，到底用 int 还是用 string？](https://mp.weixin.qq.com/s/5hq-uMsJ-x2caNtFAmR_bA)
 
 ### 读写分离&分库分表
 
@@ -339,6 +340,9 @@
 + [MySQL 中 int(1) 和 int(10)、char(1) 和 varchar(10) 的区别详解](https://mp.weixin.qq.com/s/3hI7pJ2UBnUQax4QR3Xp-A)
 + [深度解析MySQL中的Join算法：原理、实现与优化](https://mp.weixin.qq.com/s/ufpJNxiX6iqp6MxAnvM07w)
 + [MySQL性能优化：从理解explain执行计划开始](https://mp.weixin.qq.com/s/kaVwf7FmVKwwf2GEJA5VgA)
++ [ES+MySQL 优雅的实现模糊搜索](https://mp.weixin.qq.com/s/Lvx_AwitDFeMVDXXQ2a3LQ)
++ [MySQL高并发秘密武器：彻底搞懂MVCC多版本控制，让你的数据库飞起来！](https://mp.weixin.qq.com/s/U-CRYYNwk4Aem161yM2l8Q)
++ [一文带你掌握MySQL主从复制实现原理及操作教程](https://mp.weixin.qq.com/s/Bl2-GO19QpxmtDTnwHLU9A)
 
 #### 存储引擎
 
@@ -396,6 +400,7 @@
 + [MySQL 分布式事务详解](https://mp.weixin.qq.com/s/lzpm_29ZtJq8pRTXfAQTig)
 + [一文读懂数据库并发三大“坑”：幻读、脏读和不可重复读！](https://mp.weixin.qq.com/s/lGsxRuD2dfl_x5V3rjPZAg)
 + [谈谈你们选什么事务隔离级别](https://mp.weixin.qq.com/s/9f8JesHhyHuwnW0AqEwKhA)
++ [【高手进阶】MySQL事务的那些事](https://mp.weixin.qq.com/s/ZJB3mxrp5u8NurT0CIpZjw)
 
 #### 索引
 
@@ -451,6 +456,7 @@
 + [MySQL的索引，越多越好吗？需要注意什么？](https://mp.weixin.qq.com/s/6w6HWl2jS3m80GtpSvrVDw)
 + [索引优化全攻略：提升排序、GROUP BY与分页性能](https://mp.weixin.qq.com/s/6M6-ldCSsuucuG5j86kwuw)
 + [在MySQL中，聚簇索引和非聚簇索引，如何区分？](https://mp.weixin.qq.com/s/3uBlsHJ6br1GkviVbEF3hg)
++ [深度解析MySQL索引失效的8大场景及终极解决方案](https://mp.weixin.qq.com/s/y1Ym11YlxtJKIzRfdmp4lQ)
 
 ### PostgreSQL
 

@@ -9,6 +9,7 @@
 + [再说分布式操作系统](https://mp.weixin.qq.com/s/kF5trV7dr2cYfsh7Z8I7Dg)
 + [操作系统之内存映像详解](https://mp.weixin.qq.com/s/dO14IhpU0ysprL_Oig3yZw)
 + [程序员必懂！上下文切换到底是怎么回事？](https://mp.weixin.qq.com/s/VTTy8S_KKWztULN_quKd3Q)
++ [常用网络命令速查表（Windows/Linux/macOS）](https://mp.weixin.qq.com/s/5MJX-XslhLo8nT_SeJ7cCw)
 
 ## 文件系统
 
@@ -21,6 +22,7 @@
 + [后渗透系列-Windows日志致盲与绕过](https://mp.weixin.qq.com/s/Oz5Z3Yw9lhh83N2lBuaUDQ)
 + [Windows查看占用文件的进程](https://mp.weixin.qq.com/s/yLEQ4OIqVuKt80ZWDuR0zQ)
 + [掌握这些CMD命令，让你的Windows操作效率翻倍！](https://mp.weixin.qq.com/s/EjiPievM6uyphOVB0HknLg)
++ [Windows命令查看系统信息，建议收藏](https://mp.weixin.qq.com/s/ddrlXvLOLiRWyeHGNKmKhg)
 
 ## linux
 

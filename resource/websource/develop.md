@@ -61,6 +61,7 @@
 + [架构复杂度设计](https://mp.weixin.qq.com/s/KNoG5S0U7o5xLjzS48DBfw)
 + [深入了解软件架构：组件、容器与模块架构图详解](https://mp.weixin.qq.com/s/dPkh_q-hHeh7c5HrRkSd1Q)
 + [如何设计可扩展架构](https://mp.weixin.qq.com/s/Su5HRWTY_I7cIPL4l4bd7Q)
++ [如何全面提升架构设计的质量](https://mp.weixin.qq.com/s/Ptx5w3ZEKfz7Z2UiyIugdw)
 
 ### DDD
 
@@ -157,6 +158,7 @@
 + [视图：如何实现服务和数据在微服务各层的协作？](https://mp.weixin.qq.com/s/0E_DQAx21NKqUk_RocQEHw)
 + [系统集成与微服务架构：四种基本集成方式](https://mp.weixin.qq.com/s/8bPzTakdbOyGEoZubMjiiA)
 + [微服务架构核心需求解析与技术选型](https://mp.weixin.qq.com/s/yOhOWuIXTq5l2vBnvJdgeg)
++ [微服务架构中的事务管理、数据一致性及依赖关系优化](https://mp.weixin.qq.com/s/WQxMAEGn07YBpHnrx2ztpQ)
 
 # 分布式
 
@@ -427,6 +429,7 @@
 + [sa-token前后端分离解决跨域的正确姿势](https://mp.weixin.qq.com/s/96WbWL28T5_-xzyCfJ7Stg)
 + [跨域问题及常用的4种解决方案](https://mp.weixin.qq.com/s/Ru05rz8kN2_uWWUx0XKd_A)
 + [整理项目中常见的跨域解决方案](https://mp.weixin.qq.com/s/KCKSg33rtYSwDWXyiag8GQ)
++ [瞧瞧别人家的跨域方案，那叫一个优雅！](https://mp.weixin.qq.com/s/mymn6LtpEq1YXYpZ1I6N7Q)
 
 ## 安全
 

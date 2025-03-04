@@ -57,6 +57,7 @@
 + [Rust 闭包：高效编程的秘密武器](https://mp.weixin.qq.com/s/sk7Vzlc8fGSt1Sw6e5TbwA)
 + [Rust动态大小类型（DST）与Sized 特质](https://mp.weixin.qq.com/s/pIR4epuYbTo96OwAqMwWEg)
 + [掌握 Rust 语言的终极秘籍](https://mp.weixin.qq.com/s/WizCFIvOdP8sLxE6mFuSYA)
++ [Rust 中的 System 分配器：默认的内存分配器](https://mp.weixin.qq.com/s/Zuh5vuKOon3aeVGKoFY94g)
 
 # 框架
 

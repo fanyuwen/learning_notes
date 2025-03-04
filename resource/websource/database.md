@@ -713,6 +713,10 @@
 + [如何用Redis实现限流？](https://mp.weixin.qq.com/s/-Fv_32pV4QPaKqjVPpItNA)
 + [百度面试：如何用Redis实现限流？](https://mp.weixin.qq.com/s/RYbA9J-4DtuDKYv4Zl-kSw)
 
+### Valkey
+
++ [推陈出新 – 内存 key-value 数据库 Valkey 介绍和剖析](https://aws.amazon.com/cn/blogs/china/introduction-and-analysis-of-the-in-memory-key-value-database-valkey/)
+
 ### Hbase
 
 + [死磕HBase(二)](https://mp.weixin.qq.com/s/AM4WSv2derkt_V0UV-EGFQ)

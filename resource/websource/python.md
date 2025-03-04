@@ -162,6 +162,7 @@
 + [Python标准库中最强大的秘密武器：collections模块](https://mp.weixin.qq.com/s/oD2AyhRlBWVez0C8rJ885w)
 + [Python 标准库：最厉害的 platform 模块助你识别系统信息！](https://mp.weixin.qq.com/s/h7Ldxxly2DHMQYYEzmbZKA)
 + [Python路径操作：最牛逼的 pathlib 让文件管理无烦恼](https://mp.weixin.qq.com/s/ynKs1rSSz1lAEudTr0BJAw)
++ [Python模块缓存：sys.modules机制](https://mp.weixin.qq.com/s/prqBdh9frG01KHnVp6eP5w)
 
 ### 异步/多线程
 
@@ -190,6 +191,7 @@
 + [Python中的__slots__魔法：内存优化技巧](https://mp.weixin.qq.com/s/WzV4r3jGdfoNhS73ABN-8w)
 + [Python高级：设计模式与架构原则](https://mp.weixin.qq.com/s/fsDpL8VSCoRMkx98hi7-NA)
 + [Python模块依赖注入实现依赖反转](https://mp.weixin.qq.com/s/sS7S7M6r_aYSsRb9AtrPxA)
++ [Python文件操作的性能之道，buffered读写机制](https://mp.weixin.qq.com/s/TF5pud5F2utHXX6eHRDGqg)
 + [Anaconda vs. Pip：Python 包管理的终极对决](https://mp.weixin.qq.com/s/-c_gmdSTfFzngPPsuORIfw)
 + [Python 与数据库交互的 15 个 SQL 查询技巧](https://mp.weixin.qq.com/s/L8Mq05iT0Jeq-NDUlBev1g)
 + [Python异步IO操作，看这个就够了！](https://mp.weixin.qq.com/s/JMERvW_UDT6vzVh9oSXL_w)
@@ -415,6 +417,7 @@
 + [每日一模块：Parsel](https://mp.weixin.qq.com/s/kOYNdba7hpe6tjkS8_OUkg)
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
++ [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [PyWavelets，世界上最牛逼的小波变换Python库！](https://mp.weixin.qq.com/s/Z3l9YuPtHY9XUgZKysKHRw)
@@ -435,6 +438,7 @@
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
 + [aiofiles：基于 asyncio，提供文件异步操作(文件管理)](https://mp.weixin.qq.com/s/cdVvBMhN8_qOSHvy4g9nhQ)
 + [Bokeh，世界上最牛逼的交互式数据可视化Python库！](https://mp.weixin.qq.com/s/mMwF0vAvC_5EK_3yb1RZ7A)
++ [gspread，一个有趣的 Python 库！](https://mp.weixin.qq.com/s/d6Et31WanMI27A3KUwpzPw)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
 + [Coconut，一个函数式Python库！](https://mp.weixin.qq.com/s/6CZFL825flvUNvocTYbOqA)
 + [pdf-info，一个Python中非常有用的库](https://mp.weixin.qq.com/s/I5__jvYXypwRpESkR2RvDA)
@@ -685,6 +689,7 @@
 + [[每日分享]配置工具：python-decouple](https://mp.weixin.qq.com/s/GpPB8EQgGAIbnNvjlqXx3g)
 + [Python 秒变 “快枪手”：媲美 C 语言速度的秘密武器](https://mp.weixin.qq.com/s/8U08XC9wrnzJdkqnTgwZ1Q)
 + [pyPortMan：跨平台多账户管理，自动化交易高效工具](https://mp.weixin.qq.com/s/pb1NlbI2x2BGC4CNQz09_w)
++ [PyUIBuilder：用拖拽的方式轻松构建Python GUI](https://mp.weixin.qq.com/s/ejehNaoXgt9lp1JKB9ZoXw)
 
 ## 框架
 

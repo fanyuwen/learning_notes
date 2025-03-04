@@ -54,6 +54,7 @@
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
++ [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)
 + [12 个高级 JavaScript 技巧，优化你的代码](https://mp.weixin.qq.com/s/FDYCQTpn2UC4bPQcwvGSqA)
@@ -122,6 +123,7 @@
 + [Javascirpt时区——脱坑指南](https://mp.weixin.qq.com/s/OJlrCWP7jXWPC6uYO2ORWw)
 + [Crafty.js：一个超级厉害的轻量级游戏开发的JavaScript的库](https://mp.weixin.qq.com/s/KzXMy57YRrhQkB5aKdOGFA)
 + [带你一步一步手写Promise（保姆级讲解，你看你也会写）](https://mp.weixin.qq.com/s/K8H_gHvxIXlVP3zLRUDQsg)
++ [javascript如何实现多线程](https://mp.weixin.qq.com/s/o6lhu-0vrnaYc7APcpupiA)
 
 # 框架
 

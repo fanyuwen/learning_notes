@@ -53,6 +53,8 @@
 + [工作半年，感觉自己的技术和业务毫无提升](https://mp.weixin.qq.com/s/gc4ftPx3FwsPA8UI4_4roQ)
 + [为什么现在大厂出来的人也很难找工作了？](https://mp.weixin.qq.com/s/3Gma47FbkLuXrtOm-N_ZAw)
 + [写代码已经没人要了？一个大厂P8的自白](https://mp.weixin.qq.com/s/jxSVW1cF8-aXW8uvGOaFpQ)
++ [团队准备解散了。](https://mp.weixin.qq.com/s/MgDxSGHHc3thY5G54IJENQ)
++ [中年人失业在深圳有多惨：曾月收入大厂6万，39岁贷款买了1000多万的房子，月供4万，如今41被裁，找不到工作](https://mp.weixin.qq.com/s/smlwPJSsb3rK7P5NI_qhxA)
 
 # 个人成长
 

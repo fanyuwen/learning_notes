@@ -457,6 +457,8 @@
 + [索引优化全攻略：提升排序、GROUP BY与分页性能](https://mp.weixin.qq.com/s/6M6-ldCSsuucuG5j86kwuw)
 + [在MySQL中，聚簇索引和非聚簇索引，如何区分？](https://mp.weixin.qq.com/s/3uBlsHJ6br1GkviVbEF3hg)
 + [深度解析MySQL索引失效的8大场景及终极解决方案](https://mp.weixin.qq.com/s/y1Ym11YlxtJKIzRfdmp4lQ)
++ [深入理解MySQL索引：原理、结构与维护策略](https://mp.weixin.qq.com/s/DNJ7Z2R1MRIogabUNoty6w)
++ [覆盖索引、最左前缀与索引下推](https://mp.weixin.qq.com/s/gu0G8J49rOFJ9KmXUlP4VQ)
 
 ### PostgreSQL
 
@@ -643,6 +645,7 @@
 + [面试官：说说Redis的过期策略及其优缺点](https://mp.weixin.qq.com/s/_zvgUC0W1NSqtDLR5aR_xQ)
 + [面试官：谈谈你对Redis中Pipeline的理解](https://mp.weixin.qq.com/s/z2gZ6Na2UYyNqOjBEyhwew)
 + [Redis实战技巧：防止脑裂引发的数据不一致与丢失](https://mp.weixin.qq.com/s/h1WQe12JG0pH8Tj2bFWFvA)
++ [如何使用 Redis完成 PV，UV 统计？](https://mp.weixin.qq.com/s/I6WxFcFoNlqInYgnkoYbVw)
 
 #### 原理
 
@@ -774,6 +777,10 @@
 
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)
 + [Minio + Docker 搭建属于自己的OSS存储服务](https://mp.weixin.qq.com/s/xJycS370psuQo-04E5wimQ)
+
+### HDFS
+
++ [海量数据怎么存？HDFS 是什么？架构是怎么样的？](https://mp.weixin.qq.com/s/f0w56QKhEUBt-w4OLF4R2Q)
 
 # 大数据相关
 

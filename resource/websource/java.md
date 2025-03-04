@@ -46,6 +46,7 @@
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
++ [Java接口深度解析：灵活设计的关键](https://mp.weixin.qq.com/s/AHcpR0AHyTWo81Sg5loBkQ)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
 + [测开必备-java基础-if条件语句的四种用法](https://mp.weixin.qq.com/s/HNmrRjZjWwjWspth_FS_-Q)
 + [测开必备-java基础-while与do while的教程](https://mp.weixin.qq.com/s/YfdIKscYPofKKQK8awRmYA)
@@ -73,6 +74,7 @@
 + [JDK8中新增的功能（七大类功能更新与改进）](https://mp.weixin.qq.com/s/L3qx9Fz4hKHnWyUSyCJBFQ)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
++ [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
 + [JDK 23 新特性解读~](https://mp.weixin.qq.com/s/aZMSwwejdqEtjDqlLzqQtQ)
@@ -185,6 +187,7 @@
 + [告别空指针，Optional的最佳使用姿势！](https://mp.weixin.qq.com/s/4tnyRrdrTMObJv5p7Gcg0Q)
 + [【java面试100问】57 为何JDK9要将，String的底层实现由char[]改成byte[]？](https://mp.weixin.qq.com/s/sTDQwdrRX7RMx1qQ1-ZWlA)
 + [Java社招面试题：Map的Key你真的了解吗？](https://mp.weixin.qq.com/s/tGLCDuXDsH9xDTPFB2JFtQ)
++ [Java字符串格式化！瞧瞧别人家，那叫一个优雅](https://mp.weixin.qq.com/s/Ak6G_4B7KPqMRQSxLTxhcw)
 
 ## 代码质量
 
@@ -1082,6 +1085,7 @@
 + [掌握Spring Batch 5.1.2：提升企业批处理效率的秘密武器！](https://mp.weixin.qq.com/s/DJyrD7ojqUbAwi1HIMfq9A)
 + [003架构师必修之java框架篇：springDataJPA彻底NOSQL](https://mp.weixin.qq.com/s/QdKU7o98YdwNArPojdQv0w)
 + [Spring Boot 实现数据源动态切换的最佳姿势！](https://mp.weixin.qq.com/s/sV-QSmmNUUBrgE7BohUaLw)
++ [多数据源动态路由：AbstractRoutingDataSource的进阶魔改方案](https://mp.weixin.qq.com/s/yCkxe6xBcULUkk4yPCYZzA)
 
 #### BATCH
 
@@ -1142,6 +1146,7 @@
 + [Spring状态机的实现原理和业务场景](https://mp.weixin.qq.com/s/WKYecP4SV_8MQwWoe1sb3A)
 + [玩转Spring状态机：打造灵活高效的业务逻辑流](https://mp.weixin.qq.com/s/6DvVENFqckdFIQojeN-O8g)
 + [Java中的状态机实现：使用Spring State Machine管理复杂状态流转](https://mp.weixin.qq.com/s/Dz8V8Xx696Hh0q98xQE5zQ)
++ [项目终于用上了 Spring 状态机，太优雅了！](https://mp.weixin.qq.com/s/8q2hRm-YJlwn9Ndq1F_W0w)
 
 ### CACHE
 
@@ -1194,6 +1199,10 @@
 ### tool
 
 + [StreamUtils：Java流式处理的瑞士军刀](https://mp.weixin.qq.com/s/8P7BfCal_Qjl4sjJjjM-fQ)
+
+### Modulith
+
++ [DDD落地：用Spring Modulith解耦巨型单体应用](https://mp.weixin.qq.com/s/NgqXXZ23FTxYOxxN6WowqQ)
 
 ### AI
 
@@ -2600,6 +2609,7 @@
 + [Java 后端新技能！极简代码通过 OpenTelemetry Traces 实现零代码监控](https://mp.weixin.qq.com/s/JfYUKU_bpxQRwGcYGtsehw)
 + [Java+iTextPDF，实时生成与预览PDF文件的最佳实践！](https://mp.weixin.qq.com/s/bfDRbeR-9ZagIvmeHdhmTg)
 + [OkHttp，一个Java网络请求的信使！](https://mp.weixin.qq.com/s/HPM4YJrk1JmT4kqN1dbp4g)
++ [服务发现、配置管理工具：Consul 简介](https://mp.weixin.qq.com/s/RTh1VfiXSUFSMsr2LR4PBw)
 
 # 其它环境
 

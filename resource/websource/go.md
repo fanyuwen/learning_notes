@@ -128,6 +128,7 @@
 + [深入理解Go语言变量与作用域：让你的代码更简洁高效](https://mp.weixin.qq.com/s/Pc6p32fcCljSZp02R1o-GQ)
 + [提高接口并发量](https://mp.weixin.qq.com/s/UOC06i1afGjsIKAcRl2BsQ)
 + [Go红队开发—并发编程](https://mp.weixin.qq.com/s/gLhg6RmXt0h-ubAPdgxvhQ)
++ [Go 并发编程实战：从互斥锁到 Goroutine 的优雅之道](https://mp.weixin.qq.com/s/tjdjN2nZXdfZ0nQR9bbzKA)
 
 # 面试题
 

@@ -47,6 +47,7 @@
 + [面试官：单例模式都说不清楚，还说自己会设计模式！！!](https://mp.weixin.qq.com/s/_G-9gWexeci5O-Kq7nzakA)
 + [设计模式-单例模式](https://mp.weixin.qq.com/s/YuqvRMEOx_eoQzkPQcTNSw)
 + [单例模式：程序员界的“单身狗”生存指南，为什么全世界只有一个我？](https://mp.weixin.qq.com/s/tDhKDJq07PbPTEZpvo06CA)
++ [【设计模式】破解单例模式：反射、序列化与克隆攻击的防御之道](https://mp.weixin.qq.com/s/doYQTGmYrUp2pJfkgM7UtQ)
 
 ## 模板方法模式
 

@@ -10,6 +10,7 @@
 + [操作系统之内存映像详解](https://mp.weixin.qq.com/s/dO14IhpU0ysprL_Oig3yZw)
 + [程序员必懂！上下文切换到底是怎么回事？](https://mp.weixin.qq.com/s/VTTy8S_KKWztULN_quKd3Q)
 + [常用网络命令速查表（Windows/Linux/macOS）](https://mp.weixin.qq.com/s/5MJX-XslhLo8nT_SeJ7cCw)
++ [ipconfig 和 ifconfig，别再傻傻分不清！它们到底用在哪里？](https://mp.weixin.qq.com/s/31if7pi-w6WU-wOFlN2enA)
 
 ## 文件系统
 
@@ -25,6 +26,8 @@
 + [Windows命令查看系统信息，建议收藏](https://mp.weixin.qq.com/s/ddrlXvLOLiRWyeHGNKmKhg)
 
 ## linux
+
++ [Centos7服务器防火墙设置教程](https://mp.weixin.qq.com/s/qHGyBZiSfNOj39QUJWuO9g)
 
 ### 实践
 
@@ -374,6 +377,7 @@
 + [Nginx静态压缩和代码压缩，提高访问速度！](https://mp.weixin.qq.com/s/rW5X257mVyoubzzm-6Z5Zg)
 + [手把手教你，使用Nginx搭配Tomcat实现负载均衡!](https://mp.weixin.qq.com/s/KXQxu246DsjojO-p96udfA)
 + [如何通过nginx代理实现外网访问内网mysql或oracle数据库](https://mp.weixin.qq.com/s/e6grtMLIizTYR8qKiyV7CQ)
++ [从单核到百万并发：Nginx负载均衡进阶之路全解析](https://mp.weixin.qq.com/s/nH4D0RzwkuoLVBgJ6yOlXw)
 
 ### wireshark
 

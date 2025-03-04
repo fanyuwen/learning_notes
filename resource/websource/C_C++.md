@@ -24,6 +24,7 @@
 + [浅谈std::promise的异常情况](https://mp.weixin.qq.com/s/38Jaf6q8LTBCh0TGguIrWw)
 + [C++_成员初始化列表](https://mp.weixin.qq.com/s/uabbFCMApMtrc7fWOCpbAg)
 + [C++ 五 虚函数（一）多态的实现](https://mp.weixin.qq.com/s/J3CyQp1q4htteTRG-E1GNw)
++ [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)

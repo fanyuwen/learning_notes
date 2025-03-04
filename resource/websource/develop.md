@@ -93,6 +93,7 @@
 + [支付系统DDD重构设想](https://mp.weixin.qq.com/s/pjVv6yIEz03XcYxkdu6R1w)
 + [DDD、中台和微服务：它们是如何协作的？](https://mp.weixin.qq.com/s/a1kJ0flaO5ThYxRP1s79OQ)
 + [技术Leader如何落地DDD（三）](https://mp.weixin.qq.com/s/3c8yAs_tFtYoNk6tAum1DA)
++ [DDD分层架构：有效降低层与层之间的依赖](https://mp.weixin.qq.com/s/o33Z_AsNgltXLP84afUunQ)
 
 ## 微服务
 

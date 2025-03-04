@@ -105,6 +105,7 @@
 + [【java面试100问】84 为什么不推荐使用数据库自增主键？也不推荐使用UUID作主键，用雪花算法会有什么问题？](https://mp.weixin.qq.com/s/Osxz7DxwX4H1YDR1tYmIyw)
 + [腾讯面试题：如何保证Redis与MySQL的数据一致性？](https://mp.weixin.qq.com/s/HUMu42ZYijHvPGfdEuts3A)
 + [别踩坑！存储电话号码，到底用 int 还是用 string？](https://mp.weixin.qq.com/s/5hq-uMsJ-x2caNtFAmR_bA)
++ [Mysql/Oracle/Postgresql快速批量生成百万测试数据sql汇总（非存储过程）](https://mp.weixin.qq.com/s/Ha8HIb0TJ6cg-lcu2Rz-tw)
 
 ### 读写分离&分库分表
 
@@ -186,7 +187,6 @@
 + [Mysql优化利剑explain详解](https://mp.weixin.qq.com/s/mtjpFiXLqEvUNa1etie5Xg)
 + [Mysql 优化利剑explain](https://mp.weixin.qq.com/s/68s6DzCk9vCfWNaQOMqM1Q)
 + [MySQL 集群](https://mp.weixin.qq.com/s/2RWnEsTJJhqA4cBevAwzGA)
-+ [MySQL探秘：理解当前读与快照读，以及与MVCC的关系](https://mp.weixin.qq.com/s/k9frtS4FWpyKX7SAKOgI4A)
 + [看不懂MySQL执行计划，还谈什么SQL优化？](https://mp.weixin.qq.com/s/bsu0kotuYTsesOVTc5CtzA)
 + [MySQL 中那些鲜为人知但功能强大的内置函数](https://mp.weixin.qq.com/s/wsPDWlgy8yFG4BJxXzSZWw)
 + [MySQL主从一致性最全详解(图文全面总结)](https://mp.weixin.qq.com/s/UslMBVOuVITONLJRacSv8A)
@@ -203,7 +203,6 @@
 + [探索MySQL的高效数据同步：并行复制原理](https://mp.weixin.qq.com/s/VjefHUEwfjGpXzdDG7OubQ)
 + [MySQL数据库为什么用b+树？](https://mp.weixin.qq.com/s/kJez9DJBNVEZeK4dte_X8g)
 + [MySQL 9.0发布，号称支持向量（Vector），但我却看不懂Oracle到底在玩什么](https://mp.weixin.qq.com/s/wFOANEYKLNiy5lC1nXbTVA)
-+ [面试官：MySQL MVCC是如何实现的？MySQL又是如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/VKt_klGpGdamjhFuyBR_Ag)
 + [不引入ES，如何利用 MySQL 实现模糊匹配](https://mp.weixin.qq.com/s/tkB6L2_MKSwMOo0TsjIeRA)
 + [(十四)全解MySQL之各方位事无巨细的剖析存储过程与触发器！](https://mp.weixin.qq.com/s/KR7zHI3AeTS6adWfTBV4nQ)
 + [《揭秘MySQL主从复制：数据同步的幕后故事》](https://mp.weixin.qq.com/s/9QiIWXYhMrOylhD6WNGcGw)
@@ -246,7 +245,6 @@
 + [MySQL 核心模块揭秘 | 18 期 | 锁在内存里长什么样 *](https://my.oschina.net/actiontechoss/blog/11198556)
 + [MySQL 核心模块揭秘 * 19 期 * 锁模块里有什么？什么样？](https://my.oschina.net/actiontechoss/blog/11206563)
 + [MySQL 全文索引源码剖析之 Insert 语句执行过程](https://my.oschina.net/u/4526289/blog/11179935)
-+ [(九)MySQL之MVCC机制：为什么你改了的数据我还看不见？](https://mp.weixin.qq.com/s/xAPIyelJS4-yLNBUrTF8Iw)
 + [字节面试：MySQL自增ID用完会怎样？](https://mp.weixin.qq.com/s/7Z0GdCxOLeSwkPdBlDLT_g)
 + [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/A3ZyoJTIqF9DMOd4glYXaw)
 + [MySQL 你没见过的字符串函数](https://mp.weixin.qq.com/s/R4xVgabIGUVM4v4hMT6PNg)
@@ -262,11 +260,8 @@
 + [(二)全解MySQL：一条SQL语句从诞生至结束的多姿多彩历程！](https://mp.weixin.qq.com/s/Eph6ySVrAf02MgCiF8KAFw)
 + [MySQL调优实战：揭秘参数设置，解锁系统并发潜力](https://mp.weixin.qq.com/s/5sKFrtO1z6d6JaSR3xt-0Q)
 + [去哪儿技术面：10亿数据如何最快速插入MySQL？](https://mp.weixin.qq.com/s/Zbtt1OmMx6Y4N8hgsozGfQ)
-+ [MySQL探秘：MVCC如何让数据库并发控制更优雅？](https://mp.weixin.qq.com/s/gs_oPkb9rgCwnQ3CaLY4wA)
-+ [日常Bug排查-MVCC和for update混用导致读数据不一致](https://mp.weixin.qq.com/s/gzRZqbX-6e7YG6dFnbT79g)
 + [整理Mysql优化方案](https://mp.weixin.qq.com/s/zJJPsfqyIaI3gwdsRgJ8RQ)
 + [面试官：MySQL执行一条SQL查询语句，期间发生了什么？](https://mp.weixin.qq.com/s/oN9Qbt2gVDaMph604S6Czg)
-+ [MySQL隔离级别与MVCC机制](https://mp.weixin.qq.com/s/LZE_pQX5u2j5MEnyRWW5_g)
 + [当前读和快照读有什么区别？](https://mp.weixin.qq.com/s/N6s2LCpwKxfPN4P5-TbZhA)
 + [MySQL的读写分离](https://mp.weixin.qq.com/s/iQVwaxV42pIHG7cEufmqCQ)
 + [MySQL集群最全详解(图文全面总结)](https://mp.weixin.qq.com/s/HXJVzyZADGsHwfDSde1KsQ)
@@ -275,7 +270,6 @@
 + [一文详解MySQL调优流程，吐血整理](https://mp.weixin.qq.com/s/8Qb2zz2YsKALyjxHQ3D9zQ)
 + [老板问：MySQL的自增 ID 用完了，怎么办？我感觉能用几千年！！！](https://mp.weixin.qq.com/s/QxP-wh_KKtPuerbn9t0NCQ)
 + [MySQL循环插入千万级数据](https://mp.weixin.qq.com/s/x9mlskNvBL8ABKbvCb6y4A)
-+ [阿里二面，面试官问MySQL MVCC原理](https://mp.weixin.qq.com/s/7Jzz1rHWc5daArra3m-qpw)
 + [MySQL 备份恢复最佳实践：终极指南](https://my.oschina.net/actiontechoss/blog/10142684)
 + [MySQL 组提交原理简析](https://mp.weixin.qq.com/s/QpLj97XdFWzzMBRyVipGYQ)
 + [性能测试MySQL分析与调优，告别慢查询](https://mp.weixin.qq.com/s/LEWUOPi_J83dSewBPehfDQ)
@@ -283,7 +277,6 @@
 + [Mysql篇-三大日志](https://mp.weixin.qq.com/s/zx-DcV5oedyg5RiM2OyXnw)
 + [读“mysql不要用limit分页”给我整不会了](https://mp.weixin.qq.com/s/MmThQJK-ArHa0fcLbrBteA)
 + [腾讯智慧零售1面：MySQL的 where 1=1会影响性能吗？](https://mp.weixin.qq.com/s/u-jE2ynwKwFOGloVLFQXgQ)
-+ [你了解MVCC多版本控制机制吗](https://mp.weixin.qq.com/s/rKYZtyXqNHlPzzqe3oRVcA)
 + [凭什么不让使用外键！](https://mp.weixin.qq.com/s/6oDZTGYiqmJ7uEBIW3L-fw)
 + [三种方案优化 2000w 数据大表！忒强~](https://mp.weixin.qq.com/s/KXE0rEjJyebnnd4cEri6Iw)
 + [5000w+ 的大表如何拆？亿级别大表拆分实战复盘](https://mp.weixin.qq.com/s/XrD6vGe4iYux7zWHLB3W_Q)
@@ -298,11 +291,9 @@
 + [MySQL又一大坑！测试没测出来，被客户叼了](https://mp.weixin.qq.com/s/iJpheTNA9K0hlYKGaSobZA)
 + [MySQL数据库Day16：实战演练](https://mp.weixin.qq.com/s/dxNZVk61plk61Fksf-OQ8A)
 + [MySQL数据库day14：内连接查询](https://mp.weixin.qq.com/s/zjWfsfKglIEtj5oOGCUHVQ)
-+ [MySQL MVCC 原理](https://mp.weixin.qq.com/s/PJTJKHkI4ABdNU5bEHdsZQ)
 + [MySQL进阶--性能分析](https://mp.weixin.qq.com/s/RNPPXwGAaaqTC5eu4qBnsw)
 + [贝壳面试：什么是回表？什么是 索引下推 ？](https://mp.weixin.qq.com/s/YRWw15k5zvSlaESzXh1MtQ)
 + [如何使用SSH修复MySQL表？](https://mp.weixin.qq.com/s/uyC2d2nHbTnkPgmFLrDulg)
-+ [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
 + [MySQL学习笔记——聚合函数](https://mp.weixin.qq.com/s/pbkFWe3D-fYTlpkOTH8XlA)
 + [MySQL学习笔记——数据类型](https://mp.weixin.qq.com/s/GYtaAThSJX4DxjQcIfQ17w)
 + [一文彻底搞定MySQL中的JSON类型，效率飞起。](https://mp.weixin.qq.com/s/GeSHCifqQIm3-afmYrgw_Q)
@@ -317,7 +308,6 @@
 + [MySQL 中 Varchar(50) 和 varchar(500) 区别是什么?](https://mp.weixin.qq.com/s/5PtEfYFiNaKw1_ZSkPJtTw)
 + [如果 MySQL 的自增 ID 用完了，怎么解决？](https://mp.weixin.qq.com/s/5V9IhphM-_2k8QjMm68Zpg)
 + [别提桶跑路，MySQL 误删数据救命指南来了！](https://mp.weixin.qq.com/s/r4C8RzNzW7TK4ehUL0ON4Q)
-+ [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
 + [MySQL生产环境GROUP BY优化实践](https://mp.weixin.qq.com/s/zrMBJbJwu4vlev-gmluLzA)
 + [深入解析 MySQL 通配符：提升模糊查询效率的必备技巧](https://mp.weixin.qq.com/s/wg1X62gjCn0d0I87HoLG6Q)
 + [如何巧妙处理 MySQL NULL 值：提升查询性能与准确性](https://mp.weixin.qq.com/s/KcJ2I4Su7fIT9lCJ7UaN2A)
@@ -341,8 +331,8 @@
 + [深度解析MySQL中的Join算法：原理、实现与优化](https://mp.weixin.qq.com/s/ufpJNxiX6iqp6MxAnvM07w)
 + [MySQL性能优化：从理解explain执行计划开始](https://mp.weixin.qq.com/s/kaVwf7FmVKwwf2GEJA5VgA)
 + [ES+MySQL 优雅的实现模糊搜索](https://mp.weixin.qq.com/s/Lvx_AwitDFeMVDXXQ2a3LQ)
-+ [MySQL高并发秘密武器：彻底搞懂MVCC多版本控制，让你的数据库飞起来！](https://mp.weixin.qq.com/s/U-CRYYNwk4Aem161yM2l8Q)
 + [一文带你掌握MySQL主从复制实现原理及操作教程](https://mp.weixin.qq.com/s/Bl2-GO19QpxmtDTnwHLU9A)
++ [MySQL 高可用：MHA 实现 MySQL 高可用](https://mp.weixin.qq.com/s/qITvEYNaedRiyPwMmC-lpw)
 
 #### 存储引擎
 
@@ -357,6 +347,22 @@
 + [技术解读 MySQL InnoDB 大对象存储格式](https://my.oschina.net/u/4526289/blog/15790530)
 + [Innodb 是如何实现事务的？](https://mp.weixin.qq.com/s/kDuQbqL_Oi5494OwyqM9ng)
 + [InnoDB 索引之B+树详解](https://mp.weixin.qq.com/s/BXfogZuQ0NRYm24zh2NI9w)
+
+#### MVCC
+
++ [MySQL高并发秘密武器：彻底搞懂MVCC多版本控制，让你的数据库飞起来！](https://mp.weixin.qq.com/s/U-CRYYNwk4Aem161yM2l8Q)
++ [“MVCC不就是版本链吗？”——我这样回答后，面试官让我回去等通知…高并发必考的陷阱题深度拆解！](https://mp.weixin.qq.com/s/0NSJCgaiCb9DXRRAGyoNJA)
++ [MySQL探秘：理解当前读与快照读，以及与MVCC的关系](https://mp.weixin.qq.com/s/k9frtS4FWpyKX7SAKOgI4A)
++ [面试官：MySQL MVCC是如何实现的？MySQL又是如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/VKt_klGpGdamjhFuyBR_Ag)
++ [(九)MySQL之MVCC机制：为什么你改了的数据我还看不见？](https://mp.weixin.qq.com/s/xAPIyelJS4-yLNBUrTF8Iw)
++ [MySQL探秘：MVCC如何让数据库并发控制更优雅？](https://mp.weixin.qq.com/s/gs_oPkb9rgCwnQ3CaLY4wA)
++ [日常Bug排查-MVCC和for update混用导致读数据不一致](https://mp.weixin.qq.com/s/gzRZqbX-6e7YG6dFnbT79g)
++ [MySQL隔离级别与MVCC机制](https://mp.weixin.qq.com/s/LZE_pQX5u2j5MEnyRWW5_g)
++ [阿里二面，面试官问MySQL MVCC原理](https://mp.weixin.qq.com/s/7Jzz1rHWc5daArra3m-qpw)
++ [你了解MVCC多版本控制机制吗](https://mp.weixin.qq.com/s/rKYZtyXqNHlPzzqe3oRVcA)
++ [MySQL MVCC 原理](https://mp.weixin.qq.com/s/PJTJKHkI4ABdNU5bEHdsZQ)
++ [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
++ [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
 
 #### 锁
 
@@ -478,6 +484,7 @@
 + [关于 PostgreSQL 中 Linux 内存超分配知识要点](https://mp.weixin.qq.com/s/c4f6Nd0iCKMSMvBjTqDotA)
 + [深入解析PostgreSQL 15.8的窗口函数：高效数据处理的利器](https://mp.weixin.qq.com/s/R7dq-rAzN_cemm7rbYRX-A)
 + [Postgres内核 checkpoint 设计机制](https://mp.weixin.qq.com/s/3GSuookkNpjrLSk-pKVKWA)
++ [postgresql（三）：巧用 array_agg 保留明细数据解决分组查询重复计数问题](https://mp.weixin.qq.com/s/_h95SP7QvM_wwYY5LpMkrg)
 
 ### SQLSERVER
 
@@ -646,6 +653,7 @@
 + [面试官：谈谈你对Redis中Pipeline的理解](https://mp.weixin.qq.com/s/z2gZ6Na2UYyNqOjBEyhwew)
 + [Redis实战技巧：防止脑裂引发的数据不一致与丢失](https://mp.weixin.qq.com/s/h1WQe12JG0pH8Tj2bFWFvA)
 + [如何使用 Redis完成 PV，UV 统计？](https://mp.weixin.qq.com/s/I6WxFcFoNlqInYgnkoYbVw)
++ [京东面试题：Redis集群的模式了解吗？说一下它的优缺点](https://mp.weixin.qq.com/s/wgVG_XXwL8GEt6JguKQ0YA)
 
 #### 原理
 

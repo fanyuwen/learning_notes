@@ -3,6 +3,7 @@
 ## 基础
 
 + [常用的 Java 关键字解读！](https://mp.weixin.qq.com/s/4DzjwJzTSEtqOS3LbBCe_g)
++ [Java 数据类型详解：基本数据类型与引用数据类型](https://mp.weixin.qq.com/s/HEZujUZpitou7Jm_wiQG9Q)
 + [== 和 equals 的区别](https://mp.weixin.qq.com/s/CVxza03KE-7_8gTSIhZprA)
 + [简单点，请问a = a + b 和 a += b 的区别](https://mp.weixin.qq.com/s/qUEqYBxWymxB2V2BwVMpdQ)
 + [for-each 循环优先于传统的 for 循环](https://my.oschina.net/OutOfMemory/blog/95483)
@@ -326,6 +327,7 @@
 + [【java面试100问】95 JDK动态代理为什么只能代理有接口的类？](https://mp.weixin.qq.com/s/ALap4I9rfvQxDkPcS_Db0Q)
 + [Java面试必考：finalize()方法到底什么时候被调用？揭秘垃圾回收背后的秘密！](https://mp.weixin.qq.com/s/RZ_kHa8ic3dIRZ-tle1z-w)
 + [【2025版JVM面试题】19、阿里面试题什么是对象半初始化状态](https://mp.weixin.qq.com/s/jkHJ5bZBw0jIiyzAmvaE8w)
++ [JAVA基础（十八）队列与栈详解，线性结构的经典应用](https://mp.weixin.qq.com/s/OJf9qoGxiwQIaQmbGviQ_Q)
 
 ### IO
 
@@ -354,6 +356,7 @@
 + [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
 + [阿里一面：Java 中如何终止一个正在运行的线程](https://mp.weixin.qq.com/s/pWbFDI3h5BJTttu6aTch5g)
 + [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
++ [大厂面试必问题：死锁如何产生？怎么解决？](https://mp.weixin.qq.com/s/8z7dXmTthDjSBMKnKpskuA)
 + [一个线程 OOM，线程池里其他线程还能运行吗？](https://mp.weixin.qq.com/s/np1of6mVKrT_zqMohga2TA)
 + [Java并发编程：线程活跃性问题：死锁、活锁与饥饿](https://mp.weixin.qq.com/s/PzdzJqNbrbgRA8WPwEj6Sw)
 + [Java社招面试题：说说自己是怎么使用synchronized关键字，在项目中用到了吗？](https://mp.weixin.qq.com/s/ViWplyr6r2IKrIV0Kzdqsw)
@@ -673,6 +676,7 @@
 + [HashMap 深入揭秘：从入门到大厂必备知识！](https://mp.weixin.qq.com/s/rbcUJl7hB_EqL_tPWoLLBA)
 + [面试必备！一文搞懂HashMap如何优雅处理哈希冲突](https://mp.weixin.qq.com/s/Dalt0lwaltHUHCXl99XYrg)
 + [探究 map 为什么不能遍历的同时进行增删操作](https://mp.weixin.qq.com/s/OFwro6zu9CK_jHdd-OQ2CA)
++ [面试官：说说HashMap和Hashtable有什么区别](https://mp.weixin.qq.com/s/K5Q9vNATovo4AwBOnyNc7w)
 
 ### Optional
 
@@ -717,6 +721,7 @@
 + [Java CompletableFuture 的一些高级用法](https://mp.weixin.qq.com/s/nIWgr9Xjp28a8RebEXBYKw)
 + [异步编程利器：CompletableFuture 用法及实现原理详解](https://mp.weixin.qq.com/s/DAj0YOr0S3f-cjSFs261qA)
 + [重试机制与 CompletableFuture 拓展](https://my.oschina.net/u/8803553/blog/17312483)
++ [一行CompletableFuture代码引发的P0级事故](https://mp.weixin.qq.com/s/YgkLTrSeaNNSZqpUcEld7w)
 
 ### ThreadPool
 
@@ -939,6 +944,7 @@
 + [Spring 中获取 Bean 的八种方式](https://mp.weixin.qq.com/s/lveufyY2W2nS6YMxo_LjFg)
 + [这6个Spring高级开发技巧掌握了吗？](https://mp.weixin.qq.com/s/0fwbtiUrG2n03pmc3aHwTg)
 + [使用 Spring Expression 搞一套出题系统](https://mp.weixin.qq.com/s/Ug0KZf_7lVt5z13hCjZndg)
++ [阿里二面：谈谈 @Autowired 和 @Resource 两个注解的区别](https://mp.weixin.qq.com/s/muR62B3R3BKl5cZSasgwDA)
 
 #### 配置
 
@@ -991,6 +997,7 @@
 + [【java面试100问】53 Spring Bean如何保证并发安全？](https://mp.weixin.qq.com/s/Ezn2O31jaQ7l75L4QoosOw)
 + [Spring框架IoC核心详解](https://mp.weixin.qq.com/s/-3H6VyhKfl9byf6ifnk1ug)
 + [Spring 三级缓存原理详解](https://mp.weixin.qq.com/s/1Z1a5dAwpaaZ7knX32UudQ)
++ [Spring 循环依赖破解术——面试官听了直呼“秀儿！”](https://mp.weixin.qq.com/s/oxyOM2JeJP87OeOEkvRyXw)
 
 ### 新版本新特性
 
@@ -1125,6 +1132,7 @@
 + [深入解析Spring事务原理：声明式与编程式事务管理](https://mp.weixin.qq.com/s/7QpbFrvkpMAY6fxyiWOPeA)
 + [数据库事务隔离级别怎么选？看这篇就够了！](https://mp.weixin.qq.com/s/zqAI3-7pgodRgxaoY0mpBA)
 + [【Java面试100题突击】94 Spring事务传播行为是怎么实现的？它的实现原理是怎么样的？](https://mp.weixin.qq.com/s/cEqOW8_TC9lYH3EmmHgHyQ)
++ [Spring 事务传播行为与隔离级别深度解析](https://mp.weixin.qq.com/s/htJIXwAAQriwHehq07sECw)
 
 ### Log
 
@@ -2025,6 +2033,7 @@
 + [实战JWT：Spring Boot中的单Token授权之旅](https://mp.weixin.qq.com/s/0guy6ktUvmcMwRaKrfElCQ)
 + [SpringBoot 自定义注解实现的权限管理](https://mp.weixin.qq.com/s/d7YMdrGLZ5yT0pjko6aJ1A)
 + [让数据传输更优雅：SpringBoot前后端加密技巧全攻略](https://mp.weixin.qq.com/s/7K_Q1GihUX04jugjhLq94g)
++ [SpringBoot中的数据脱敏实战：三种高效方案](https://mp.weixin.qq.com/s/ED0h0mE09hDP-fjCRV_CKg)
 
 #### 设计模式
 
@@ -2197,6 +2206,7 @@
 + [SpringBoot与Elasticsearch整合，开发电商场景的商品多维度检索功能](https://mp.weixin.qq.com/s/7m9TZT0FgEJVlEJqoWDIsw)
 + [Redis 赋能！Spring Boot 实现高性能分页+多条件模糊查询](https://mp.weixin.qq.com/s/OqM9-F2iBJTyfCp9JYa7rw)
 + [SpringBoot与rdf4j整合，实现欺诈检测功能](https://mp.weixin.qq.com/s/wjRqXj_WXCKBsY65aiz6HQ)
++ [使用SM4国密加密算法对Spring Boot项目数据库连接信息以及yaml文件配置属性进行加密配置（读取时自动解密）](https://mp.weixin.qq.com/s/EBFYYL3pAGqrgcu7vl4nBg)
 
 #### 自定义实现
 
@@ -2610,6 +2620,7 @@
 + [Java+iTextPDF，实时生成与预览PDF文件的最佳实践！](https://mp.weixin.qq.com/s/bfDRbeR-9ZagIvmeHdhmTg)
 + [OkHttp，一个Java网络请求的信使！](https://mp.weixin.qq.com/s/HPM4YJrk1JmT4kqN1dbp4g)
 + [服务发现、配置管理工具：Consul 简介](https://mp.weixin.qq.com/s/RTh1VfiXSUFSMsr2LR4PBw)
++ [如何利用 Java 在线生成 PDF 文件？看这篇教程就够了！](https://mp.weixin.qq.com/s/KlvkBW_ycC8OHTS4G0N0yQ)
 
 # 其它环境
 

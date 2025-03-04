@@ -56,6 +56,7 @@
 + [Docker中的两个容器在服务器内网中互通](https://mp.weixin.qq.com/s/k1ULXDeJV38jJ72faSqTqQ)
 + [如何构建 Docker 镜像：从零开始的完整指南](https://mp.weixin.qq.com/s/b19NGnZN8XDAuKqTHFP0ug)
 + [揭秘！如何在Docker和K8S中高效调用GPU资源](https://mp.weixin.qq.com/s/EHA-iBoDZJoacYHV-ny0LQ)
++ [彻底解决 Docker 日志膨胀](https://mp.weixin.qq.com/s/KuvuFWmzvi9zx05OYaTAfg)
 
 ## podman
 

@@ -11,6 +11,7 @@
 + [Kotlin Flow + WebFlux 构建更简洁的 Web 实时数据响应｜社区分享](https://mp.weixin.qq.com/s/sSBEJbOCDmilydfz5enBDg)
 + [Kotlin 首席设计师访谈：Kotlin 与 Java 的差距有多大？](https://mp.weixin.qq.com/s/iUWWKvGjP5mmTpEniZZLmA)
 + [1000万行Java代码变Kotlin！Meta如何用“偷懒”秘籍省下10万次转换按钮点击？](https://mp.weixin.qq.com/s/Rw_UkzOGlgO0cicfnvyP3A)
++ [你以为精通Kotlin协程？这5个冷门机制才是面试官的终极杀招](https://mp.weixin.qq.com/s/f3EonG5ojwdzWH5vIfb2zw)
 
 ## 技术月报
 

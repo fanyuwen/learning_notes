@@ -306,6 +306,7 @@
 + [TCP 收发包调优：那些“看不见的坑”和“摸不着的雷”](https://mp.weixin.qq.com/s/nQj0Xrunm_0F6eFkpzXB3A)
 + [Socket连接和TCP连接有什么区别，都是传输数据，谁能讲一下这其中的关联吗？](https://mp.weixin.qq.com/s/NiDaXbigFpFFrpuPrVqyKA)
 + [TCP问题21连问](https://mp.weixin.qq.com/s/duWeqdIXOf6hk_KnfIqKdw)
++ [TCP/IP传输层端口号的资源分配](https://mp.weixin.qq.com/s/ucCqY0mvcZvIwnGJH9fB_w)
 
 ### UDP
 

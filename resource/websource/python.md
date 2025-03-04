@@ -167,6 +167,7 @@
 
 + [提升代码效率的关键:这5个多线程技巧让你的 Python 代码如虎添翼](https://mp.weixin.qq.com/s/pxXE-ImnRb5qjXAmE-isdQ)
 + [Python异步编程：asyncio模块的探索](https://mp.weixin.qq.com/s/Nyf9BBqHzku6RThWJZ3cSw)
++ [Python协程调度：asyncio事件循环](https://mp.weixin.qq.com/s/ON4NZRkh1IV-Fqt_62XmoA)
 + [一文带你搞清楚 Python 的多线程和多进程](https://my.oschina.net/u/4526289/blog/11208897)
 + [深入解析 Python 并发编程的多线程和异步编程](https://my.oschina.net/u/4526289/blog/11044862)
 + [Python并发编程的12个实用技巧](https://mp.weixin.qq.com/s/EzrideQF6ey1TDYddCcGqQ)

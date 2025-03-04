@@ -390,6 +390,7 @@
 + [面试官：MySQL中有哪几种锁，各自的特点是什么？MyISAM和InnoDB在锁机制的区别？行级锁实现原理？死锁的产生与排查？](https://mp.weixin.qq.com/s/_Q-zXUXxLWOkK0ceu0Ce0g)
 + [Mysql 加锁机制与死锁分析](https://mp.weixin.qq.com/s/pWHpiw_7XS6sTEueB0ew8w)
 + [美团面试：MySQL悲观锁是什么？谈谈底层实现原理？](https://mp.weixin.qq.com/s/oILBAneMNvYG4OU5tuADAg)
++ [MySQL锁机制全解析：高并发场景下的核心技术揭秘](https://mp.weixin.qq.com/s/77ih7fxaNajijOMJOwaT6w)
 
 #### 事务
 
@@ -489,6 +490,10 @@
 ### SQLSERVER
 
 + [Sql Server日常运维看我这篇就够了！](https://mp.weixin.qq.com/s/J1wgBm29Sd0bQkFD_E6Miw)
+
+### MariaDB
+
++ [MariaDB - 超越MySQL成为现代数据库新标杆](https://mp.weixin.qq.com/s/DjG_wU5k0hymzN3QnFDXww)
 
 ### SQLLite
 
@@ -654,6 +659,7 @@
 + [Redis实战技巧：防止脑裂引发的数据不一致与丢失](https://mp.weixin.qq.com/s/h1WQe12JG0pH8Tj2bFWFvA)
 + [如何使用 Redis完成 PV，UV 统计？](https://mp.weixin.qq.com/s/I6WxFcFoNlqInYgnkoYbVw)
 + [京东面试题：Redis集群的模式了解吗？说一下它的优缺点](https://mp.weixin.qq.com/s/wgVG_XXwL8GEt6JguKQ0YA)
++ [明星离婚，服务器崩溃？千万级点赞瞬间涌入！微博背后的Redis架构设计揭秘](https://mp.weixin.qq.com/s/EyAu5CRDVofynxauZtxD1w)
 
 #### 原理
 

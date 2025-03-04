@@ -23,6 +23,7 @@
 + [20. 在你上一家公司中是如何如何实现蓝绿发布的？](https://mp.weixin.qq.com/s/E65VazHROtx8AXJej8aL3A)
 + [小团队 CI/CD 实践：无需运维，Java Web应用的自动化部署](https://mp.weixin.qq.com/s/AceyGxWS_j7Wh19zRcsZwg)
 + [一键搞定批量部署！Shell、Python、Java 三种脚本实战，效率提升100%！](https://mp.weixin.qq.com/s/bKQJfayRTHPp_xD64B7XgQ)
++ [5分钟的CICD-服务器监控搭建（一）](https://mp.weixin.qq.com/s/6vQzogshKMtDCSd19-y--g)
 
 ## JENKINS
 

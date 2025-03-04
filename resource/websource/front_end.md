@@ -56,6 +56,7 @@
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
++ [怎样设置定时任务](https://mp.weixin.qq.com/s/FNtBfmvJfsaMS4Tl_EgVUg)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)
 + [12 个高级 JavaScript 技巧，优化你的代码](https://mp.weixin.qq.com/s/FDYCQTpn2UC4bPQcwvGSqA)
 + [TypeScript里的type和interface的区别](https://mp.weixin.qq.com/s/0g2c0Mz6XRx1d81IQdA64w)
@@ -153,6 +154,7 @@
 + [vue实现登录获取token并自动刷新token进行JWT认证](https://mp.weixin.qq.com/s/sWDnhq6MCUusQ0-aUpfNPw)
 + [Vue项目打包部署与路由配置解析](https://mp.weixin.qq.com/s/zHZypwsCcZxDRXjEthNoPg)
 + [Vue3的侦听器](https://mp.weixin.qq.com/s/yJ9j82fnAS4Bl1-43dEgXw)
++ [Vue 项目中的 vue.config.js：从基础到高级的全面解析](https://mp.weixin.qq.com/s/wyCfkuNXuhSzXn6_3eTtkg)
 
 ## react
 

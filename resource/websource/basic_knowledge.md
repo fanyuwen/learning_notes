@@ -144,6 +144,7 @@
 + [Linux 性能更好的ftp客户端 lftp 使用详解](https://mp.weixin.qq.com/s/PY_yMTd5j6K5s9wFSXvatg)
 + [Linux：echo命令功能及各种用法详解](https://mp.weixin.qq.com/s/iefbm1FV8PhCUKVWr7VaVQ)
 + [掌握「CP」命令，高效复制不再是难题！](https://mp.weixin.qq.com/s/C5mwuj_mMeWh2Y7xmURkOw)
++ [Linux下hexdump和od命令的应用](https://mp.weixin.qq.com/s/9isZ1o_tkqggjqyGTncQcA)
 
 ### 发行版信息
 

@@ -62,6 +62,7 @@
 + [深入了解软件架构：组件、容器与模块架构图详解](https://mp.weixin.qq.com/s/dPkh_q-hHeh7c5HrRkSd1Q)
 + [如何设计可扩展架构](https://mp.weixin.qq.com/s/Su5HRWTY_I7cIPL4l4bd7Q)
 + [如何全面提升架构设计的质量](https://mp.weixin.qq.com/s/Ptx5w3ZEKfz7Z2UiyIugdw)
++ [架构设计过程中的10点体会](https://mp.weixin.qq.com/s/ORRryNe2gO79L4sa0uufuQ)
 
 ### DDD
 
@@ -93,12 +94,14 @@
 + [支付系统DDD重构设想](https://mp.weixin.qq.com/s/pjVv6yIEz03XcYxkdu6R1w)
 + [DDD、中台和微服务：它们是如何协作的？](https://mp.weixin.qq.com/s/a1kJ0flaO5ThYxRP1s79OQ)
 + [技术Leader如何落地DDD（三）](https://mp.weixin.qq.com/s/3c8yAs_tFtYoNk6tAum1DA)
++ [技术Leader如何落地DDD（四）](https://mp.weixin.qq.com/s/SP7CoxYxnKnbaSNCQm-IuA)
 + [DDD分层架构：有效降低层与层之间的依赖](https://mp.weixin.qq.com/s/o33Z_AsNgltXLP84afUunQ)
 
 ## 微服务
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [领域事件：解耦微服务的关键](https://mp.weixin.qq.com/s/HILiHuL1pDUhC1mwQ7KYVg)
++ [什么是配置中心？常见的配置中心有哪些？](https://mp.weixin.qq.com/s/HE-PQ4BnhywqIr8jnS_wQQ)
 + [微服务架构中的熔断、限流与降级：设计与实现](https://mp.weixin.qq.com/s/xKadJe_t6ZXKlnIiekmojA)
 + [服务治理，是在谈什么？](https://mp.weixin.qq.com/s/B02g5uRABwemR0DfNeuPLA)
 + [2025年微服务架构的发展趋势预测](https://mp.weixin.qq.com/s/oM4CFGA7qfDecV978eEpeQ)
@@ -202,6 +205,7 @@
 + [分布式微服务系统架构第88集：kafka集群](https://mp.weixin.qq.com/s/4JhSI7U7GXvQX3wNI35WwA)
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 + [如何解决“写后立即读”难题？四步打造高一致性分布式系统](https://mp.weixin.qq.com/s/yiPlib_LLl2DAaIGcFjnEw)
++ [分布式链路追踪实战——OpenTelemetry 与 Jaeger 全解析](https://mp.weixin.qq.com/s/aUX7xssumKuqEI7l624wTQ)
 
 ## 分布式锁
 
@@ -352,6 +356,7 @@
 + [业务开发中的双重请求，优雅降级，熔断机制](https://mp.weixin.qq.com/s/X79Pu-tsUfiUwg17A4g3yQ)
 + [7种常见的限流方式！](https://mp.weixin.qq.com/s/akyPWaGyG8gnI7_gOZpkgA)
 + [26. 如何解决高并发下的库存抢购超卖少买问题？](https://mp.weixin.qq.com/s/XflMRXvzXekiD91KRowzoQ)
++ [高薪Offer必备！四种限流算法一文通关（美团/阿里真题）](https://mp.weixin.qq.com/s/K08OUbPilEYyKi3aQ3Db8Q)
 
 ### 大文件IO
 
@@ -519,6 +524,8 @@
 + [高并发下秒杀系统的设计](https://mp.weixin.qq.com/s/E8mIPrLjYM9Hjo0pEmxk4w)
 + [什么是 CPU密集型任务？ 什么是 I/O密集型任务？](https://mp.weixin.qq.com/s/y89kYj9mclYWewKBpQW2pw)
 + [高并发系统设计的六字真言：分、缓、异、限、降、演，从面试到实战的生存指南](https://mp.weixin.qq.com/s/VmvhUOGsusaepkowSWbsfg)
++ [如何实现自动登录的功能？](https://mp.weixin.qq.com/s/WlRU8qb9qrB9R2HxgcbRdQ)
++ [业务开发时,接口不能对外暴露怎么办?](https://mp.weixin.qq.com/s/IafjYqQl7zlgijBTvaCSBw)
 
 # 测试相关
 

@@ -114,3 +114,4 @@
 + [用Rust重写近6万行C++代码是怎样的体验？](https://mp.weixin.qq.com/s/vBu8CQzA1cd5UVX4brzpLw)
 + [只用一行代码，就可以破坏Rust的内存安全](https://mp.weixin.qq.com/s/H2Z8vTi2cj2bl_ReoCHacg)
 + [取代 C 语言！众多 Python 开发者正加入 Rust 阵营](https://mp.weixin.qq.com/s/U-u7zpn4_8OaY16uF9HAmQ)
++ [Rust为何备受青睐？](https://mp.weixin.qq.com/s/O5ZKYCOoix5dMBrKZxz9mA)

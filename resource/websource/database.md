@@ -337,6 +337,7 @@
 + [【Java面试100题突击】81 MySQL内部支持缓存查询吗？](https://mp.weixin.qq.com/s/MVPNXJebIXvzKgAnrxnRZw)
 + [深入解析MySQL三大日志：Redo/Undo/Binlog全链路揭秘](https://mp.weixin.qq.com/s/hT09ucgtO1Rr17-PfU4Udg)
 + [MySQL数据迁移性能优化：让你的迁移速度提升50%](https://mp.weixin.qq.com/s/BOApCZmCuVinoxBEOAsmPw)
++ [MySQL Explain 全解析：小白也能看懂的数据库性能优化指南](https://mp.weixin.qq.com/s/TclYlXu72OuMgMVUN9BUzg)
 
 #### 存储引擎
 
@@ -396,6 +397,7 @@
 + [Mysql 加锁机制与死锁分析](https://mp.weixin.qq.com/s/pWHpiw_7XS6sTEueB0ew8w)
 + [美团面试：MySQL悲观锁是什么？谈谈底层实现原理？](https://mp.weixin.qq.com/s/oILBAneMNvYG4OU5tuADAg)
 + [MySQL锁机制全解析：高并发场景下的核心技术揭秘](https://mp.weixin.qq.com/s/77ih7fxaNajijOMJOwaT6w)
++ [MySQL - 穿透锁机制，一文完全讲透](https://mp.weixin.qq.com/s/TUOMM0vUNhBCyE6CqqN3YA)
 
 #### 事务
 

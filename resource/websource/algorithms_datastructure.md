@@ -45,6 +45,7 @@
 + [大厂高频TopK面试题：如何快速从1 亿个数据中取出最大的前 100 个？](https://mp.weixin.qq.com/s/fyvx4yh7HP7eIR1Uf23zag)
 + [场景：1亿用户的好友关系如何秒级查询共同好友？](https://mp.weixin.qq.com/s/g3KP6a56Cm8OPdFNvs5cFQ)
 + [二叉树遍历之三合一：可视化（含视频）](https://mp.weixin.qq.com/s/HWvSqugDdtbIikZmsYBJTA)
++ [美团三面：给你1G内存，如何存储100亿条地址数据？](https://mp.weixin.qq.com/s/WM6YeoZpedljd5tM-gqfzA)
 
 ## 排序算法
 

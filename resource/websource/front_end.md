@@ -126,6 +126,8 @@
 + [Crafty.js：一个超级厉害的轻量级游戏开发的JavaScript的库](https://mp.weixin.qq.com/s/KzXMy57YRrhQkB5aKdOGFA)
 + [带你一步一步手写Promise（保姆级讲解，你看你也会写）](https://mp.weixin.qq.com/s/K8H_gHvxIXlVP3zLRUDQsg)
 + [javascript如何实现多线程](https://mp.weixin.qq.com/s/o6lhu-0vrnaYc7APcpupiA)
++ [这样优化数组mise.all，性能提升60%](https://mp.weixin.qq.com/s/Bh-v_Y1n79yx1g_txG5Vjw)
++ [前端项目中使用Mock的方案](https://mp.weixin.qq.com/s/Dx8oJJtUems_OHS9AV4pEA)
 
 # 框架
 
@@ -185,6 +187,7 @@
 ## svelte
 
 + [Rich Harris 承诺：使用 Svelte 5.0 你将编写更少的代码](https://mp.weixin.qq.com/s/0e85taqdJkJHEK_-gFFQ1Q)
++ [升级到Svelte 5后，我不会再用Svelte开发新项目](https://mp.weixin.qq.com/s/jVhRitizga0NSh17wzsKBg)
 
 # websocket
 

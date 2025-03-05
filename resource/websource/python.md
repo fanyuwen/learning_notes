@@ -420,6 +420,7 @@
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
++ [masonite，一个超强的 Python 库！](https://mp.weixin.qq.com/s/5O9S2rtO4xcSLzty7Vjvig)
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [PyWavelets，世界上最牛逼的小波变换Python库！](https://mp.weixin.qq.com/s/Z3l9YuPtHY9XUgZKysKHRw)
 + [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)

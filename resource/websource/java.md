@@ -18,6 +18,7 @@
 + [调用构造器的处理步骤](https://my.oschina.net/OutOfMemory/blog/298956)
 + [Java 原码，反码和补码](https://my.oschina.net/OutOfMemory/blog/109180)
 + [Java 注解使用教程](https://mp.weixin.qq.com/s/4v_FiNDH-uWYluqxLwWBbw)
++ [面试官：谈谈自定义注解的场景及实现](https://mp.weixin.qq.com/s/w8m6e6bnMvaIrMrrcfGfFA)
 + [面试官：告诉我为什么static和transient关键字修饰的变量不能被序列化？](https://mp.weixin.qq.com/s/LpZIQkcfsjzawGbkCjXcVQ)
 + [java 中 equals 和 == 的区别](https://my.oschina.net/justjavac/blog/72973)
 + [掌控程序流程：if-else、for、while，控制语句让你的代码更加灵动](https://mp.weixin.qq.com/s/kOUdutHuxI--SaJqxKo2Ow)
@@ -81,6 +82,7 @@
 + [JDK8中新增的功能（七大类功能更新与改进）](https://mp.weixin.qq.com/s/L3qx9Fz4hKHnWyUSyCJBFQ)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
++ [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
@@ -199,6 +201,7 @@
 + [Java社招面试题：Map的Key你真的了解吗？](https://mp.weixin.qq.com/s/tGLCDuXDsH9xDTPFB2JFtQ)
 + [Java字符串格式化！瞧瞧别人家，那叫一个优雅](https://mp.weixin.qq.com/s/Ak6G_4B7KPqMRQSxLTxhcw)
 + [大数组元素差异比较下的 removeAll 和 Map 效率对比](https://mp.weixin.qq.com/s/dUH8H_evvtXC_wDAW5wajQ)
++ [利用 CAS 优化高频秒杀场景的库存扣减](https://mp.weixin.qq.com/s/Bh0L4f4CwtTz6ny3jHbcGg)
 
 ## 代码质量
 
@@ -366,6 +369,7 @@
 + [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
 + [阿里一面：Java 中如何终止一个正在运行的线程](https://mp.weixin.qq.com/s/pWbFDI3h5BJTttu6aTch5g)
 + [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
++ [面试必考！Java线程数过多会引发哪些严重异常？](https://mp.weixin.qq.com/s/Q1zzM4-CNw0nrKn8dGO_pw)
 + [大厂面试必问题：死锁如何产生？怎么解决？](https://mp.weixin.qq.com/s/8z7dXmTthDjSBMKnKpskuA)
 + [一个线程 OOM，线程池里其他线程还能运行吗？](https://mp.weixin.qq.com/s/np1of6mVKrT_zqMohga2TA)
 + [Java并发编程：线程活跃性问题：死锁、活锁与饥饿](https://mp.weixin.qq.com/s/PzdzJqNbrbgRA8WPwEj6Sw)
@@ -381,6 +385,7 @@
 + [并发编程 - 线程同步（三）之原子操作Interlocked简介](https://mp.weixin.qq.com/s/fytwCIchWL9pVbtmz2GKlg)
 + [并发编程 - 线程同步（四）之原子操作Interlocked详解一](https://mp.weixin.qq.com/s/IXxInHU1YGZvByg8ablYVg)
 + [并发编程 - 线程同步（五）之原子操作Interlocked详解二](https://mp.weixin.qq.com/s/jXoeZdcOPBiSCBbvOkwbkQ)
++ [并发编程 - 线程同步（七）之互斥锁Monitor](https://mp.weixin.qq.com/s/K4tXKh3Scw-wbnZAJHAY-w)
 + [并发编程 - 线程同步（八）之自旋锁SpinLock](https://mp.weixin.qq.com/s/XXlArlHT0vywzP7Cb0_18w)
 + [并发编程 - 线程同步（九）之信号量Semaphore](https://mp.weixin.qq.com/s/2XhpPKd2Jgqxwqomw8ntDw)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
@@ -500,6 +505,7 @@
 + [线程池拒绝策略4大“送命题”：答错一个，offer直接凉凉！](https://mp.weixin.qq.com/s/R_G90pTP5Y94KdBfjPTLMw)
 + [线程池创建陷阱：为什么阿里禁止使用Executors？](https://mp.weixin.qq.com/s/63kiW0oYscP1YDo7z4a_4w)
 + [为什么 volatile 不能保证 i++ 的原子性？但对 long 和 double 却是例外？](https://mp.weixin.qq.com/s/BOXYi3iCKSM41CYRUHrsLA)
++ [社招面试必考！Java 中能创建 volatile 数组吗？答案颠覆认知！](https://mp.weixin.qq.com/s/Lizty0Bm035HOx2YdV_W8g)
 
 ## 源码
 
@@ -940,6 +946,7 @@
 + [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/H9Xk4bdtfTBKYAmyTnOHQQ)
 + [Arthas 工具实战：热更新修复问题，业务零影响](https://mp.weixin.qq.com/s/VNVYqU_OPTguNCuDP-Rh8w)
 + [Linux教程：如何使用Arthas处理诊断线上程序运行问题](https://mp.weixin.qq.com/s/eQVaq5i28ifsG78FGJCoWA)
++ [【2025版JVM面试题】7、阿里巴巴内部JVM调优工具Arthas详解](https://mp.weixin.qq.com/s/zLCaWRkUoJQmIgnjXhxElQ)
 
 ## caffeine
 
@@ -974,6 +981,7 @@
 ## json
 
 + [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
++ [强大！JSON解析神器，再复杂也不怕了](https://mp.weixin.qq.com/s/CwUP-uGVe9FTFTAqDX2gaQ)
 
 ## logger
 
@@ -1160,6 +1168,7 @@
 + [Redis分布式锁及Redisson续期源码解析](https://mp.weixin.qq.com/s/1PVgrO7_M6vg_dmDHiTzaA)
 + [为什么推荐用Redisson实现分布式锁，看完直呼好好好](https://mp.weixin.qq.com/s/m_9i4NfpbJeSXACHT9DE9g)
 + [Redisson 公平锁（Fair Lock）：分布式环境下的锁管理方案](https://mp.weixin.qq.com/s/woV5uf2aRhPZ5az3Jfd4mw)
++ [Redisson 分布式锁：Watchdog与自动续期机制详解](https://mp.weixin.qq.com/s/pOs93CjW1w0111rQxY6Ckg)
 
 ## ribbon
 
@@ -1538,6 +1547,7 @@
 + [SpringCloud 专栏：服务负载均衡器组件 Ribbon 实战讲解！](https://mp.weixin.qq.com/s/IANtFZe7nMpCV_ltqcuTVA)
 + [【2025版SpringCloud面试题】21、谈谈你对Seata数据源代理的理解](https://mp.weixin.qq.com/s/ivIlWDlIOaiNeMgM4MG7Zw)
 + [【2025版SpringCloud面试题】22、谈谈你对Sentinel的理解](https://mp.weixin.qq.com/s/prfWhRqTScIqKXCpvm9HPA)
++ [Spring Cloud Eureka 架构原理及集群搭建，实战讲解！](https://mp.weixin.qq.com/s/QNcqZUrGfTCiuTaqj8WHfA)
 
 #### alibaba
 
@@ -1560,6 +1570,7 @@
 + [实战干货！Spring Cloud Gateway 整合 OAuth2.0 实现分布式统一认证授权！](https://mp.weixin.qq.com/s/9MIOi3QC6OXoqGyg-OErkg)
 + [Spring Cloud 网关熔断机制：技术原理与实践应用的完美结合](https://mp.weixin.qq.com/s/V9QZ3MeBW-xlS13vMEoJ5g)
 + [【2025版SpringCloud面试题】17、如何通过Gateway实现服务的平滑迁移？](https://mp.weixin.qq.com/s/JBNOEv9Xa2Rz3S4vjt9DRg)
++ [Spring Cloud Gateway 详解与配置](https://mp.weixin.qq.com/s/YiYndBeM_ytPYY78REVwvw)
 
 #### AI
 
@@ -2512,6 +2523,7 @@
 + [SpringBoot3.4.3基于Resilience4j实现服务容错构建高可用系统](https://mp.weixin.qq.com/s/nDkG_eG1MiZRjgK2Iz4tBg)
 + [SpringBoot与HBase整合，实现医疗影像数据归档存储系统](https://mp.weixin.qq.com/s/reQskDXiHpOz0WQltt8kTQ)
 + [Spring Boot + Lua 手写分布式锁（支持自动续期 / 可重入）](https://mp.weixin.qq.com/s/-UcNTRSiKTrNIC4BvEFrNA)
++ [SpringBoot与ZooKeeper整合，实现智能停车计费系统](https://mp.weixin.qq.com/s/CbYjczrgnb8tg2c4RNpYaw)
 
 #### 自定义实现
 
@@ -2534,6 +2546,7 @@
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
 + [Tomcat 系统架构与原理剖析](https://mp.weixin.qq.com/s/Tw9IPBgizkx8zySX8BMtww)
 + [Tomcat核心配置场景](https://mp.weixin.qq.com/s/YR_KpkT43UO7sWq07j2QPw)
++ [【2025版JVM面试题】24、深入理解 Tomcat 的类加载机制](https://mp.weixin.qq.com/s/kgCsmyOqkvh2gROUXKKd0w)
 + [Tomcat自动扫描利用工具|无问社区助你攻防利器](https://mp.weixin.qq.com/s/o-Tkf5-nGeZz8FO22XFLgQ)
 
 ## xxl-job

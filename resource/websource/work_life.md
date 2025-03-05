@@ -61,6 +61,7 @@
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [编程十年的感悟](https://mp.weixin.qq.com/s/S4ofBQ__F6JLUsQ_18OM-g)
 + [程序员如何快速学习并掌握一门新技术？](https://mp.weixin.qq.com/s/7whEuRfo8FCvsbRVgi7lYg)
++ [开发人员为何难以提高工作效率？10 种行之有效的解决方法](https://mp.weixin.qq.com/s/Ex8GgCjyy63Wz9d1H8Z8_g)
 + [35岁Java程序员出路何在？这5个新兴赛道正在疯狂招人！](https://mp.weixin.qq.com/s/_bqkICFaAP2UUh_d9dDMTA)
 + [成为高级开发者的不成文规则：晋升的 4 个步骤](https://mp.weixin.qq.com/s/h_vvH7pcVLcCKCr0RJza6w)
 + [我一直在用 Java，但是我一直都不喜欢 Java！](https://mp.weixin.qq.com/s/XL5LDpd3jeCnu3IGCEh2zA)
@@ -328,7 +329,7 @@
 + [1997年发v8.0，今天发v9.0版本，什么神仙语言还活着呢？](https://mp.weixin.qq.com/s/SFJOeQQgt_IZ65uQ_SDPUQ)
 + [指针是怎样一步步发明出来的？](https://mp.weixin.qq.com/s/0zahhPN8DaBLrHO-nSKZVg)
 + [一个周末重写所有代码，性能提升 10 倍！没有这个 1000 倍工程师，就没有现在的谷歌地图](https://mp.weixin.qq.com/s/h9WMkawDFxOfA5lAPU2WhA)
-
++ [膜拜！上古程序员实在太厉害了！](https://mp.weixin.qq.com/s/1F-_fvme4RenXG7xFFyoYw)
 
 ## 创业
 

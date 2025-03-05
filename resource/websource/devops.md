@@ -43,6 +43,7 @@
 + [Jenkins+Docker 一键自动化部署 SpringBoot 项目](https://mp.weixin.qq.com/s/Gm8oKPDA5EkmL5wyVHKchQ)
 + [丢弃Jenkins，轻量级CICD方案--Gitea Actions](https://mp.weixin.qq.com/s/YXAOOphgwT359XKTAxq9dA)
 + [自动化发布系统，结合Jenkins，你不得不学的Shell脚本，其实没有想象得那么难](https://mp.weixin.qq.com/s/KrMkHujTsUhIOQhpWGqzoQ)
++ [Jenkins如何发布前端Vue项目，一文带你搞定前端项目自动化发布以及Nginx配置](https://mp.weixin.qq.com/s/NJSJ_2IwTIkbg-EDLxTk8Q)
 
 ## istio
 

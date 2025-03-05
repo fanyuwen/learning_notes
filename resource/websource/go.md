@@ -53,6 +53,7 @@
 + [亚微秒级的解析速度！Go 语言的高性能 User-Agent 解析库](https://mp.weixin.qq.com/s/Qvj64_WofoCZ8j0eTCq6cQ)
 + [Go 语言中的 JSON 库 V2 版本](https://mp.weixin.qq.com/s/NFF5Px7TaOhM3DNkPLD3fg)
 + [推荐一个Go语言的线程池开源框架 - ants「DaemonCoder」](https://mp.weixin.qq.com/s/b-7tFCGAt0CJK86wAeKtZg)
++ [go-zero 突破三万星，感谢有你相伴！](https://mp.weixin.qq.com/s/wpfgfGzCbmUiAgYVdb3rYg)
 
 # 工具
 
@@ -130,6 +131,8 @@
 + [提高接口并发量](https://mp.weixin.qq.com/s/UOC06i1afGjsIKAcRl2BsQ)
 + [Go红队开发—并发编程](https://mp.weixin.qq.com/s/gLhg6RmXt0h-ubAPdgxvhQ)
 + [Go 并发编程实战：从互斥锁到 Goroutine 的优雅之道](https://mp.weixin.qq.com/s/tjdjN2nZXdfZ0nQR9bbzKA)
++ [用 Go 语言打造高效 TCP 扫描器：从入门到并发优化](https://mp.weixin.qq.com/s/agjh3NlqxikQhXNfA9i2oA)
++ [Go Plugin 浅析](https://mp.weixin.qq.com/s/8pEdfJFFEC-NUjdP5lajkg)
 
 # 面试题
 

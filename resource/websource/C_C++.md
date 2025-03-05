@@ -18,6 +18,7 @@
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
++ [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
 + [C++_Mutable](https://mp.weixin.qq.com/s/CXprG7tcX1M3MR9X_tpLYQ)
@@ -193,6 +194,7 @@
 # 嵌入式
 
 + [嵌入式科普(30)一文看懂嵌入式MCU/MPU多核架构与通信](https://mp.weixin.qq.com/s/fiE6fe25XiGJ6cycp0jCXA)
++ [Linux内核编译：解析menuconfig与ARM架构配置](https://mp.weixin.qq.com/s/nJ16_VyWhImxT_WlbPrmoA)
 
 # ARM
 

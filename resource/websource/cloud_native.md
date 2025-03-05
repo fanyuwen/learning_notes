@@ -99,12 +99,14 @@
 + [Kubernetes日志管理——通过 log-flags 精准控制日志输出与调试信息](https://mp.weixin.qq.com/s/viqF8T45MA9-pnEcet_8sA)
 + [Kubernetes 妙法奇技：优雅驾驭容器编排之旅](https://mp.weixin.qq.com/s/tf3VhkLjJWP_OeyNnoEy-w)
 + [K8S Helm 详解：高效的应用管理神器](https://mp.weixin.qq.com/s/7kf-H9CpkYBEg3c3mtA8wA)
-+ [Kubernetes学习周报（第7期 ）:K8S容器运行时CRI接口；Kluctl管理集群API；K8S无服务器应用监控](https://mp.weixin.qq.com/s/IKjCmkZnlGL0TzT2fqngtA)
++ [Kubernetes学习周报（第7期 ）:K8S容器运行时CRI接口;Kluctl管理集群API;K8S无服务器应用监控](https://mp.weixin.qq.com/s/IKjCmkZnlGL0TzT2fqngtA)
 + [如何监控K8S Java应用OOM并告警](https://mp.weixin.qq.com/s/QyntfVOOeIO11JCy--strA)
 + [为什么有了 K8s，还需要 K3s？](https://mp.weixin.qq.com/s/61caVM7OERK2XCneNWzRUA)
 + [k8s源码解析之 kubelet pleg 【基于k8s1.33】](https://mp.weixin.qq.com/s/J4BmDKQ-MO6Ou7PRCIR_oQ)
 + [Kubernetes(k8s)-备份&Etcd介绍](https://mp.weixin.qq.com/s/nT9wgz34DDZ8EPs8_H4XOg)
 + [Kubernetes(k8s)-Pod创建流程](https://mp.weixin.qq.com/s/a_v2Nfm_QyQBksUuTP_KFQ)
++ [K8s 源码 - workqueue 所有细节](https://mp.weixin.qq.com/s/AfH3SzkzoDuWa-Gc3yCu_A)
++ [Kubernetes(k8s)-常用命令(kubectl命令)](https://mp.weixin.qq.com/s/Ak1lytD5qWWgyyDmRIJk4A)
 
 ## Prometheus
 

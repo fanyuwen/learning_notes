@@ -63,6 +63,7 @@
 + [如何设计可扩展架构](https://mp.weixin.qq.com/s/Su5HRWTY_I7cIPL4l4bd7Q)
 + [如何全面提升架构设计的质量](https://mp.weixin.qq.com/s/Ptx5w3ZEKfz7Z2UiyIugdw)
 + [架构设计过程中的10点体会](https://mp.weixin.qq.com/s/ORRryNe2gO79L4sa0uufuQ)
++ [系统思维与架构设计方法论精要](https://mp.weixin.qq.com/s/1VM5pNKBxcS8OPs92775AA)
 
 ### DDD
 
@@ -163,6 +164,7 @@
 + [系统集成与微服务架构：四种基本集成方式](https://mp.weixin.qq.com/s/8bPzTakdbOyGEoZubMjiiA)
 + [微服务架构核心需求解析与技术选型](https://mp.weixin.qq.com/s/yOhOWuIXTq5l2vBnvJdgeg)
 + [微服务架构中的事务管理、数据一致性及依赖关系优化](https://mp.weixin.qq.com/s/WQxMAEGn07YBpHnrx2ztpQ)
++ [熔断、降级与限流——微服务稳定性的三大护法](https://mp.weixin.qq.com/s/fk6WAUwzn_Mc8PrQWnA8PA)
 
 # 分布式
 
@@ -260,6 +262,7 @@
 + [不会一致性hash算法，劝你简历别写搞过负载均衡](https://mp.weixin.qq.com/s/61462tb2x36XsSAogTk0lw)
 + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
 + [分布式一致性算法——Paxos](https://mp.weixin.qq.com/s/1OgeHkWEOFkfiy8uCta_Fw)
++ [为什么Raft算法是分布式系统的首选？](https://mp.weixin.qq.com/s/DVEwMui71GdIwZpV9ZsJow)
 
 # 组件设计
 
@@ -332,6 +335,7 @@
 + [大厂防止超卖的7种实现，很受用！](https://mp.weixin.qq.com/s/aCJUBpq_TiSaePCKokypFA)
 + [幂等性：如何通过设计避免重复操作的影响？](https://mp.weixin.qq.com/s/jJaaaPxU1FEQJ8IO_bfgQw)
 + [高并发下 如何保证接口的幂等性？](https://mp.weixin.qq.com/s/20tPlrMJFYqlf53_XjlY_A)
++ [系统重试，导致库存扣多啦，怎么办（两行代码破解）？（第41讲）](https://mp.weixin.qq.com/s/qh4JUbE-Tz0Kz5_D1r3_cw)
 
 ### 负载&限流
 
@@ -575,6 +579,7 @@
 + [37. 微信抢红包的功能是如何实现的，如果让你来做你怎么设计？](https://mp.weixin.qq.com/s/Qk6ShR-pNzhwN0uJmYfjfQ)
 + [分布式微服务系统架构第90集：现代化金融核心系统](https://mp.weixin.qq.com/s/5VYM1uH9HJbAe7D8V1xcxw)
 + [5. 字节二面：如何设计一个支持 10 万 QPS 的会员系统](https://mp.weixin.qq.com/s/p-XmnXUWVHmnYyUgxKl59A)
++ [【音视频】直播推流组件架构、重点需求技术方案和常见问题解析](https://mp.weixin.qq.com/s/ThYcQupJGU9lEPhU_4_kYg)
 
 ## 代码相关
 

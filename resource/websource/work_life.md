@@ -198,6 +198,7 @@
 + [效果媲美Cursor的开源替代：Roo-Cline](https://mp.weixin.qq.com/s/qCl64EhomOHDP4Q3DAZjYg)
 + [局域网传输神器 — LocalSend](https://mp.weixin.qq.com/s/UC2zVEb3KKWd0N-URsYFMw)
 + [18.6k star，取代Navicat，一款集成了 AI 功能的数据库管理工具！](https://mp.weixin.qq.com/s/r-jlnHIPwvZEblNab16hYw)
++ [阿里同学都在用的开发环境和工具](https://mp.weixin.qq.com/s/2qgs4JYOJFCmrxHMxtctyA)
 
 ## 开源资源
 
@@ -257,6 +258,7 @@
 
 + [Nas的硬件参数怎么看，家用Nas配置怎么选看这一篇就够了！](https://mp.weixin.qq.com/s/1cLlhh3afdOIczCe7hn7MA)
 + [Nas必装的Docker应用，新手Docker推荐（一），NAS用户请收藏！](https://mp.weixin.qq.com/s/kFfqcJUra7K-HqHK35D5Ig)
++ [大量NAS流进海鲜市场，内附二手NAS设置及入门NAS推荐](https://mp.weixin.qq.com/s/n8oz7jIzVX4FVWpSmOT0Qg)
 
 # 行业新闻
 

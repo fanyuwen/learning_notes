@@ -52,6 +52,7 @@
 + [不用 if else，如何优雅处理 JavaScript 条件判断？](https://mp.weixin.qq.com/s/MTgsjU904wMyATuZocOdPw)
 + [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
++ [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
@@ -155,6 +156,7 @@
 + [Vue项目打包部署与路由配置解析](https://mp.weixin.qq.com/s/zHZypwsCcZxDRXjEthNoPg)
 + [Vue3的侦听器](https://mp.weixin.qq.com/s/yJ9j82fnAS4Bl1-43dEgXw)
 + [Vue 项目中的 vue.config.js：从基础到高级的全面解析](https://mp.weixin.qq.com/s/wyCfkuNXuhSzXn6_3eTtkg)
++ [深入浅出Vuex](https://mp.weixin.qq.com/s/tKBUYF_qnhW31bD16mi42Q)
 
 ## react
 
@@ -247,6 +249,7 @@
 + [前端组件设计：从封装到复用的最佳实践](https://my.oschina.net/u/8534996/blog/16858012)
 + [前端性能优化的几个大招（理论+实践，看完就是Leader水平）](https://mp.weixin.qq.com/s/SM1po543uVENh9k7Rh8ZPw)
 + [《每天一题》你了解TypeScript工具类型Exclude与Omit 的使用吗？及它们两个的区别？](https://mp.weixin.qq.com/s/ZGxswkqNM9BsjCm1fEG_rg)
++ [CSS 高级技巧与最佳实践：让你的样式代码更强大、更优雅](https://mp.weixin.qq.com/s/CX-D-nmg2A8qJqXX88VGeg)
 
 # 杂谈
 

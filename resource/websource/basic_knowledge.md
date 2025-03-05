@@ -97,6 +97,8 @@
 + [Linux 使用 sosreport 生成系统报告](https://mp.weixin.qq.com/s/6nGngkLsgd__DFQ4OctDXA)
 + [Linux系统应用漏洞修复、框架升级的一点心得整理](https://mp.weixin.qq.com/s/Q3ggG6fBS0otLUpsg4JkmQ)
 + [Linux系统常用目录结构](https://mp.weixin.qq.com/s/9fZOJul7ruvVHir0UQIWAw)
++ [Linux磁盘加密](https://mp.weixin.qq.com/s/Zo3Fz61_rhmjHC-xgJ9u-g)
++ [umount之文件系统仍然被某些进程使用时如何强制卸载（高风险操作，需谨慎）](https://mp.weixin.qq.com/s/vw9NvI2L107br933zJ5BYQ)
 
 ### 网络
 
@@ -145,6 +147,7 @@
 + [Linux：echo命令功能及各种用法详解](https://mp.weixin.qq.com/s/iefbm1FV8PhCUKVWr7VaVQ)
 + [掌握「CP」命令，高效复制不再是难题！](https://mp.weixin.qq.com/s/C5mwuj_mMeWh2Y7xmURkOw)
 + [Linux下hexdump和od命令的应用](https://mp.weixin.qq.com/s/9isZ1o_tkqggjqyGTncQcA)
++ [Linux系统常用命令用法详解](https://mp.weixin.qq.com/s/UH9auZZhGX3athE-cNlg9A)
 
 ### 发行版信息
 
@@ -379,6 +382,7 @@
 + [手把手教你，使用Nginx搭配Tomcat实现负载均衡!](https://mp.weixin.qq.com/s/KXQxu246DsjojO-p96udfA)
 + [如何通过nginx代理实现外网访问内网mysql或oracle数据库](https://mp.weixin.qq.com/s/e6grtMLIizTYR8qKiyV7CQ)
 + [从单核到百万并发：Nginx负载均衡进阶之路全解析](https://mp.weixin.qq.com/s/nH4D0RzwkuoLVBgJ6yOlXw)
++ [面试官最想听的 Nginx 优化答案：直接上生产级配置！](https://mp.weixin.qq.com/s/ZAaJFxaEYlcWc4fwDmAdhw)
 
 ### wireshark
 

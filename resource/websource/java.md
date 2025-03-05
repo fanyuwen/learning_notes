@@ -109,6 +109,7 @@
 + [java8 lambda 表达式详解](https://www.jianshu.com/p/613a6118e2e0)
 + [太强！Stream 6个秘密技巧，你一定会爱上](https://mp.weixin.qq.com/s/nmsQqRstyR5JyFsi0I6UTw)
 + [Java 17虚拟线程核爆：单机百万并发的压测与调优指南](https://mp.weixin.qq.com/s/xV4VhKiWlCRyMbBWDX8KIA)
++ [JDK21有没有什么稳定、简单又强势的特性？](https://mp.weixin.qq.com/s/aoFo74SSXoaEIywu-pX-Ow)
 
 ## 高级用法
 
@@ -194,6 +195,7 @@
 + [【java面试100问】57 为何JDK9要将，String的底层实现由char[]改成byte[]？](https://mp.weixin.qq.com/s/sTDQwdrRX7RMx1qQ1-ZWlA)
 + [Java社招面试题：Map的Key你真的了解吗？](https://mp.weixin.qq.com/s/tGLCDuXDsH9xDTPFB2JFtQ)
 + [Java字符串格式化！瞧瞧别人家，那叫一个优雅](https://mp.weixin.qq.com/s/Ak6G_4B7KPqMRQSxLTxhcw)
++ [大数组元素差异比较下的 removeAll 和 Map 效率对比](https://mp.weixin.qq.com/s/dUH8H_evvtXC_wDAW5wajQ)
 
 ## 代码质量
 
@@ -492,6 +494,7 @@
 + [一不小心就翻车！volatile 和 Atomic 的区别你真的清楚吗？](https://mp.weixin.qq.com/s/r6TMN3EoWE0r7HlwBVn8_g)
 + [Java多线程中的Thread.sleep(0)与虚假唤醒问题](https://mp.weixin.qq.com/s/r8ylelUe_CDF-aMHbb_7pA)
 + [可以说是一个奇形怪状的面试题：Bean中的CHM要不要加volatile？](https://mp.weixin.qq.com/s/YKJvVMg3WJxM9UejCaxWjA)
++ [线程池拒绝策略4大“送命题”：答错一个，offer直接凉凉！](https://mp.weixin.qq.com/s/R_G90pTP5Y94KdBfjPTLMw)
 
 ## 源码
 
@@ -590,6 +593,7 @@
 + [JVM线程调度优化之3个技巧让Java应用跑得更快](https://mp.weixin.qq.com/s/95dgXviyro6pmVjqkSmyLQ)
 + [【2025版JVM面试题】17、深入Hotspot源码理解内存屏障如何禁止指令重排](https://mp.weixin.qq.com/s/rnzDpEegsk8Xka5Ll8JKBg)
 + [【2025版JVM面试题】3、京东二面：说下垃圾收集器CMS&G1的设计原理](https://mp.weixin.qq.com/s/-Ln0cr_LxrX8dZzeaU_12g)
++ [【2025版JVM面试题】2、蚂蚁一面：JVM为什么要设计STW机制？](https://mp.weixin.qq.com/s/KZLqwae1wpQdayZp5i4nPg)
 
 # 核心库
 
@@ -797,6 +801,7 @@
 + [面试官：ThreadLocal有哪些应用场景](https://mp.weixin.qq.com/s/vUxcCZMhXzRgmG4-Jr--_g)
 + [面试官：ThreadLocal的原理是什么？](https://mp.weixin.qq.com/s/KPyoz0uNikgD2vSkn6LO6g)
 + [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/r_pPhTtieZcok_vscZpkcQ)
++ [面试必杀技！ThreadLocal的难点、面试高频问题、实际使用场景等多个维度！](https://mp.weixin.qq.com/s/q6vkAhwnoyXVl5D7tAMjDg)
 
 ### Lock
 
@@ -913,6 +918,263 @@
 
 # 第三方库
 
+## AKKA
+
++ [并发框架Akka介绍](https://mp.weixin.qq.com/s/f-U2z-53M1s5znPptCO3jg)
+
+## apollo
+
++ [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
++ [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
++ [决定弃用 Nacos 了！](https://mp.weixin.qq.com/s/X_9xRXBV2Y7gqBTem4lq3Q)
+
+## Arthas
+
++ [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/H9Xk4bdtfTBKYAmyTnOHQQ)
++ [Arthas 工具实战：热更新修复问题，业务零影响](https://mp.weixin.qq.com/s/VNVYqU_OPTguNCuDP-Rh8w)
++ [Linux教程：如何使用Arthas处理诊断线上程序运行问题](https://mp.weixin.qq.com/s/eQVaq5i28ifsG78FGJCoWA)
+
+## caffeine
+
++ [Caffeine缓存：从入门到精通](https://mp.weixin.qq.com/s/j9ScM_QHjlVoadiMXkDADw)
++ [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
++ [缓存框架 Caffeine 的可视化探索与实践](https://my.oschina.net/vivotech/blog/14189225)
++ [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
+
+## database connect pool
+
++ [聊聊Druid连接池的内部原理及推荐配置](https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ)
+
+## disruptor
+
++ [如此狂妄，自称高性能队列的 Disruptor 有啥来头？](https://my.oschina.net/jiagoushi/blog/5578896)
++ [Disruptor 测试结果运算 1 亿次，耗时 5503ms，吞吐量 18171000/s](https://my.oschina.net/jiagoushi/blog/5579251)
++ [Disruptor 生产和消费模式详解及高级应用（并行模式）](https://my.oschina.net/jiagoushi/blog/5579551)
++ [Disruptor 和 LinkedBlockingQueue 性能对比以及分析](https://my.oschina.net/OutOfMemory/blog/793275)
++ [Disruptor在撮合引擎的实践｜得物技术](https://mp.weixin.qq.com/s/kmuG5azJnqjKRYlkiVHWqQ)
++ [Disruptor 在撮合引擎的实践｜得物技术](https://my.oschina.net/u/5783135/blog/11334180)
++ [高性能无锁队列 Disruptor 核心原理分析及其在 i 主题业务中的应用](https://my.oschina.net/vivotech/blog/15344271)
+
+## dubbo
+
++ [Dubbo 超时设置与动态调整解决方案](https://mp.weixin.qq.com/s/f0RlEFmyG7V0-F8j9vIyjQ)
+
+## hystrix
+
++ [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
++ [什么是 Hystrix？它的工作原理是什么？](https://mp.weixin.qq.com/s/0dobf9_vSbv75Y9-tJbHkA)
+
+## json
+
++ [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
+
+## logger
+
++ [9款日志采集和管理工具对比，选型必备！](https://mp.weixin.qq.com/s/b7gFhLYVaVmgF2zGKvB6Yw)
++ [Java日志](https://mp.weixin.qq.com/s/Npj6IGgsYvKdCzQ9Y21M-A)
++ [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
++ [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
++ [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
++ [我司使用了两年的高效日志打印工具，非常牛逼！](https://mp.weixin.qq.com/s/I1ePJVGIykqU1IB9HC3x0A)
++ [Java日志管理：选择合适的日志框架记录应用运行状态](https://mp.weixin.qq.com/s/OsDCRN7H67KMetk3OC71zA)
++ [别再乱打日志了，这份 Java 日志规范，应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/xxJRkJorWpmRfCG5b8mllw)
++ [logback VS log4j2：一倍左右的性能差异，是时候注意了！](https://mp.weixin.qq.com/s/qDvBY7ufgMVEeDajV7REBQ)
++ [EasyLogger，一款轻量级且高性能的日志库，不一样的打印输出](https://mp.weixin.qq.com/s/DXpSswLvvNdscIXbD0xHkg)
++ [一文理清 Java 日志框架的来龙去脉](https://mp.weixin.qq.com/s/0TZ2xgtMaiX_jeFHdFBC3g)
++ [Java日志记录几种实现方案](https://mp.weixin.qq.com/s/y2rhzOBhlVS7YroqPfiGgg)
++ [SLF4J 门面日志框架原理分析](https://mp.weixin.qq.com/s/ECDCtSNKLkkJLW6yEDYMuQ)
++ [Log4j 2 与 SLF4J 互转的核心：log4j-slf4j-impl 和 log4j-to-slf4j](https://mp.weixin.qq.com/s/CGrJrZ9dInC-jpPin07M9Q)
++ [开发者必备：Log4j系列与Logback日志框架详解](https://mp.weixin.qq.com/s/bgqZ137DG7sRrJ5vuPXcGA)
++ [如何使用 SLF4J 的 MDC, 实现全链路追踪？](https://mp.weixin.qq.com/s/58AowEyTTTgx5D6pO4FVBA)
++ [SLF4J 桥接器及其原理--让你的旧代码也可以起飞](https://mp.weixin.qq.com/s/wfkfydoPChH577HpOg-ZXg)
++ [Log4j原理分析](https://mp.weixin.qq.com/s/i5jJmLwuL64mSFkRf3F7uQ)
++ [日志中的TraceId魔法，解锁业务全链路追踪！](https://mp.weixin.qq.com/s/lXSBytTYyRxy43lMtlSp-A)
++ [全网最全Log配置教程及框架性能比较，看这篇就够了！](https://mp.weixin.qq.com/s/B91w9vUGotjHM3ItcLPPmQ)
+
+## lombok
+
++ [好用的Lombok注解](https://mp.weixin.qq.com/s/-_N1RtqSMrDS5xLGF45DYw)
++ [深入解析：为什么Lombok的@SuperBuilder如此好用？](https://mp.weixin.qq.com/s/8ofvbdDaY-4Hn7kiyQozng)
++ [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
++ [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
++ [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
++ [面试官：Lombok的@Data存在性能问题吗？](https://mp.weixin.qq.com/s/9yI1fm9326-VR9tehyNVAw)
++ [Lombok 中的 @Slf4j 注解--简化日志代码的利器](https://mp.weixin.qq.com/s/GOZD0ASrasNTqdY-MZcKqg)
++ [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
+
+## MapStruct
+
++ [MapStruct 使用教程, 万字详解](https://mp.weixin.qq.com/s/UXUDIWiBiLyrb887evQcaQ)
++ [MapStruct 超神进阶用法，让你的代码效率提升十倍！](https://mp.weixin.qq.com/s/_4nSah_SIWYyBgYJ6AI_5A)
+
+## mybatis
+
++ [公司新招一个月薪2w+的高级工程师露馅了，起因是因为一个Mybatis问题](https://mp.weixin.qq.com/s/KccpOlI1zYDLFD86eaknXQ)
++ [MyBatis拦截器在实际项目中的应用](https://mp.weixin.qq.com/s/dYBHwpWMliZF3taYfVz3cA)
++ [Mybatis链路分析：JDK动态代理和责任链模式的应用](https://mp.weixin.qq.com/s/nrhiraGiJ4Xi8QqS-MVhEw)
++ [MyBatis 如何获取自增长主键及注意事项与常见面试题](https://mp.weixin.qq.com/s/0G7_da-h0sqJSCBDxh58qw)
++ [MyBatis 如何实现多个传参及常见面试题解析](https://mp.weixin.qq.com/s/EQmOPSVpqemVgTRn4sia6Q)
++ [10 种超赞的 MyBatis 写法！](https://mp.weixin.qq.com/s/5isGSZSiDZcjR-SnkiShhg)
++ [10种超赞的MyBatis写法！](https://mp.weixin.qq.com/s/-GlBvl6YlNNLLDTP_1oI8Q)
++ [大厂这么用，10 种超赞的 MyBatis SQL写法！](https://mp.weixin.qq.com/s/ak_Jag7IN_cCK3ciFUKEiw)
++ [关于MyBatis的缓存详解](https://mp.weixin.qq.com/s/b9o0ZSf1C-03iE1oIzpl4A)
++ [从 7 分钟到 10 秒，Mybatis 批处理真的很强！](https://mp.weixin.qq.com/s/0TfFnPQJ3-9lJZqcaWJtQw)
++ [注意了！mybatis中＜if＞条件判断，遇到带数字单字符有坑！](https://mp.weixin.qq.com/s/rJ51Ig1wTHK8fjMKUuMRsw)
++ [整理常见的Mybaits打印执行sql和耗时时间的方案](https://mp.weixin.qq.com/s/PEvyuhmnEA_CmNARQq4YjQ)
++ [别再手动拼接 SQL 了，MyBatis 动态 SQL 写法应有尽有，建议收藏！](https://mp.weixin.qq.com/s/4RaCEJbxoe8yjqWSBPax5A)
++ [MyBatis 延迟加载全攻略及常见面试题解析](https://mp.weixin.qq.com/s/Eu8KZgR1Z6er9EDY_NsFLg)
++ [Mybatis 注解开发](https://mp.weixin.qq.com/s/5atrR86i8nmTzAmCT1QEew)
++ [23个Mybatis注解：Mybatis架构分析与注解案例(必须收藏)](https://mp.weixin.qq.com/s/4PZgnu_tai4Vh4HfzVmfzw)
++ [MyBatis原理机制详解(附8大执行流程图解)](https://mp.weixin.qq.com/s/4glpXF31JjMcanwYpeMKug)
++ [mybatis专题-打印完整带sql语句](https://mp.weixin.qq.com/s/vT4E0Rcyn7Bj2bFIU6CYXg)
++ [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/DNpqLjSsXcedXLFxiJCqCQ)
++ [为什么 MyBatis 源码中，没有我那种 if···else](https://mp.weixin.qq.com/s/jUln-ymUfGRQuuWtZhdH6g)
++ [快速测试 Mybatis 复杂SQL，无需启动 Spring](https://mp.weixin.qq.com/s/qGDIJ3YWaG1j6VPWrcyMUA)
++ [一文带你理解透 MyBatis 源码](https://my.oschina.net/u/4526289/blog/11203801)
++ [Mybatis 框架下 SQL 注入攻击的 3 种方式，真是防不胜防！](https://mp.weixin.qq.com/s/ApZ6yIZ5-FaVDN5LS_ti4A)
++ [用过超过3个算我输！Mybatis动态SQL全解析](https://mp.weixin.qq.com/s/CkHqYip6ABXNaU6eL2Emlg)
++ [弃用 Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/LKvfTtG-RrqPm7P0qRta0w)
++ [MyBatis 一级与二级缓存介绍](https://mp.weixin.qq.com/s/YM1GXj_HauJENRtvb-C50Q)
++ [MyBatis如何调用存储过程？](https://mp.weixin.qq.com/s/YPZV6DauPeYSj7eWSK5PLQ)
++ [Mybatis拦截器实现字段加解密](https://mp.weixin.qq.com/s/u2-5vEG0z8M0ZDhQTqebhQ)
++ [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
++ [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
++ [Mybatis源码之各组件原理](https://mp.weixin.qq.com/s/YUxmIBSy7cNvyGzK8CNubw)
++ [MyBatis的安全小坑：#{}与${}：深度解析及实战建议](https://mp.weixin.qq.com/s/eoVJm9LKsfBvXXiSpuHfAw)
++ [mybatis 中 #{}和 ${}的区别是什么？](https://mp.weixin.qq.com/s/Hl_mRAFuI9SaRkkIYhZDaQ)
++ [MyBatis分页详解及常见面试题](https://mp.weixin.qq.com/s/1GjEW-nNDSkWl4Yl-4kANg)
++ [MyBatis中的设计模式实践与面试解析](https://mp.weixin.qq.com/s/HbNYF36ErESbql4Q2lPCaQ)
++ [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/m5M3T0YJBMjxFZJUHAOlLA)
++ [Mybatis插件-租户ID的注入&拦截应用](https://mp.weixin.qq.com/s/HtKaQOs7_yoynNAa4UzhyA)
++ [MyBatis深度解析：高级查询与性能优化](https://mp.weixin.qq.com/s/qjQFxFY2E2FQSPV15XjT6w)
++ [Mybatis中if-test的一个问题及解决办法](https://mp.weixin.qq.com/s/PKp_rOnbr-RbEm-GOOWqlA)
++ [农行2面：JDBC存在什么问题？MyBatis是如何解决的？](https://mp.weixin.qq.com/s/jqD9PA003jUjBx-lEL1eoA)
++ [MyBatis 列名转换拦截器：解决列名映射风格问题](https://mp.weixin.qq.com/s/Eej4jdfH38Vh2wkwJcOIlw)
++ [使用MyBatis推荐几种SQL写法](https://mp.weixin.qq.com/s/FkcaqnMcrgZN_4MmfNrbYw)
++ [MyBatis中的 10 个宝藏技巧！](https://mp.weixin.qq.com/s/D66uI4w8-lYJd6CuRtSM6g)
++ [15 种超赞的 MyBatis 写法](https://mp.weixin.qq.com/s/gVYELZdsKgQ32pknK2UVdw)
++ [MyBatis 拦截器，带你轻松搞定数据脱敏！](https://mp.weixin.qq.com/s/a3dSgJPWwprfXHarOeDZEQ)
++ [这样理解 MyBatis缓存机制，真香！](https://mp.weixin.qq.com/s/glLItOA7ECFOpwOZHSdlvQ)
++ [MyBatis 内置连接池原理详解！](https://mp.weixin.qq.com/s/ujMAvAvExX0bSvUCqw-jPg)
++ [MyBatis缓存：深入理解一级缓存和二级缓存](https://mp.weixin.qq.com/s/9BPtuJTldaLTYAxXRvF4sQ)
++ [【java面试100问】92 Mybatis是如何进行分页的？](https://mp.weixin.qq.com/s/BNGfizkvTcHx2WxkEjSKjw)
++ [MyBatis 核心精要探秘](https://mp.weixin.qq.com/s/l4xuYof81T0MlNrx3g6JKg)
++ [《深入理解Mybatis原理》Mybatis中的缓存实现原理](https://mp.weixin.qq.com/s/Mb3AUiVwl2X1dT0PYWT1PA)
++ [OGNL 表达式：操作 Java 对象的动态魔法](https://mp.weixin.qq.com/s/rdWqEeCUj_h_AqDQFrP9Pg)
+
+### plus
+
++ [MyBatis-Plus和MyBatis深度对比！](https://mp.weixin.qq.com/s/4FP6r0fgEYDkIkpDg5EH-A)
++ [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
++ [公司新来小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被开了.....](https://mp.weixin.qq.com/s/yY5idp93tPaU68A600jRwA)
++ [巧用 MyBatis Plus 实现数据权限控制...](https://mp.weixin.qq.com/s/mk9ZxMzxbdwnouCLpn914Q)
++ [Mybatis-Plus 开发提速器：mybatis-plus-generator-ui](https://mp.weixin.qq.com/s/hJIIe3r4qan57L6UDQlfQg)
++ [MyBatis Plus 解决大数据量查询慢问题](https://mp.weixin.qq.com/s/X_LpEYkA87YsVY3xqVAucw)
++ [Mybatis Plus很好，但也有坑！](https://mp.weixin.qq.com/s/oC3ipO3SKYo4dWzZDnrJig)
++ [慎用，Mybatis-Plus这个方法可能导致死锁](https://mp.weixin.qq.com/s/wgxZK09PKTyOHNnkaxyNqg)
++ [Mybatis-Plus官方分库分表神器，一个依赖轻松搞定！](https://mp.weixin.qq.com/s/YRRnCplPJ8MK2O2nYcIL2g)
++ [再见 MybatisPlus，阿里推出新 ORM 框架更牛X](https://mp.weixin.qq.com/s/QzuoUxCOX78JEnhQe9gIcA)
++ [Mybatis Plus 空字符串插入问题引起的思考](https://mp.weixin.qq.com/s/OybNWl8bmynv4MJvp_sX4Q)
++ [MyBatis-Plus（二）：resultType 的选择——int 与 java.lang.Integer 的区别](https://mp.weixin.qq.com/s/o1_-gXWomyzWtGpRTCWaZQ)
++ [性能提升 2000%！揭秘 MyBatis-Plus 批量插入的终极优化技巧](https://mp.weixin.qq.com/s/bmqRiv_LwZRgZDfiZInJpA)
++ [妙用MyBatisPlus，12个实战技巧解锁新知识](https://mp.weixin.qq.com/s/1hpdPBYuz8vmk7A33rBrWg)
++ [警惕！MyBatis-Plus 主键生成策略的隐藏坑，踩过都哭了！](https://mp.weixin.qq.com/s/VVTcyO4QSVLHeaeoHy7NPg)
+
+## nacos
+
++ [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
++ [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)
++ [从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s/p8YS2DhQaIe0QUTxeSMsQg)
++ [Nacos任意文件读写](https://mp.weixin.qq.com/s/EzMaG3u-lcBnVbPYebP_Ag)
++ [nacos2.3.2鉴权的一些坑](https://mp.weixin.qq.com/s/CABCpyZIZlXqi8OGwhGcvQ)
++ [Nacos升级导致Feign调用异常](https://mp.weixin.qq.com/s/KtEIWt7Ig0WH6KZv5VlDEA)
++ [Nacos学习圣经：从入门到精通 Nacos，最全详解 (30+图文全面总结)](https://mp.weixin.qq.com/s/q8MkXtQ6YGy32KqrQUNb_g)
++ [深入探讨Nacos服务注册与发现机制](https://mp.weixin.qq.com/s/emeWxHoQbpzxqGB-f7zsXQ)
++ [Nacos 可观测性最佳实践](https://mp.weixin.qq.com/s/EN1a8S3c1N5zhiLDhJ6BUA)
+
+## openFeign
+
++ [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
++ [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
++ [为什么 Feign 要用 HTTP 而不是 RPC？](https://mp.weixin.qq.com/s/GCT0sTCPJcbh9ye3NHOTDw)
++ [简化本地Feign调用，老手教你这么玩](https://mp.weixin.qq.com/s/b7jD3o078_sZQ5yJXYbd3g)
++ [【java面试100问】70 OpenFeign第一次调用为什么会很慢？](https://mp.weixin.qq.com/s/VCEngR1TimL01x5LDHEVpw)
+
+## netty
+
++ [Netty实战入门教程](https://mp.weixin.qq.com/s/l1yJ40Ed3P2Ydzty2e6r2g)
++ [轻松掌握Netty：实现高效的客户端与服务器通信](https://mp.weixin.qq.com/s/jN4f303IkInD0i9Z-9JYNA)
++ [Netty高级使用与源码详解](https://mp.weixin.qq.com/s/lgwieW4dOrDSXU9YwPS8nQ)
++ [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
++ [为什么不选择使用原生的 NIO 而选择使用 Netty 模式呢？](https://mp.weixin.qq.com/s/qhPEYV6CrQg6DEybirbYZw)
++ [Netty的源码分析和业务场景](https://mp.weixin.qq.com/s/M8EH_sgleaNHNhdIe7Gfpg)
++ [Netty 强大的 ByteBuf](https://mp.weixin.qq.com/s/D2O1qpB9n2OAboJqsCY5OQ)
++ [Netty 常见组件介绍](https://mp.weixin.qq.com/s/5WxBZTOBUS1PmpV5urrqcw)
++ [Netty TCP 实战案例（一），文末附源码地址](https://mp.weixin.qq.com/s/Wp4JFSa_ZNPc1Re5-N2nxg)
++ [FastThreadLocal 为什么那么快](https://mp.weixin.qq.com/s/NFdatPy3vuJZsmpXqr5y4w)
++ [一文看懂Netty的心跳检测机制](https://mp.weixin.qq.com/s/5pvcuq-6OHOhN1hKdcrZog)
++ [Netty 是如何解决半包和粘包问题?](https://mp.weixin.qq.com/s/PCQ0MwXRs1jUTRd8PsUo7w)
++ [面试高频：了解零拷贝吗？Netty哪里用到了零拷贝？](https://mp.weixin.qq.com/s/LQakVp-9wCYsHDrTPKYFzA)
++ [京东二面：为什么Netty要创造FastThreadLocal？](https://mp.weixin.qq.com/s/-OSM8usP44i7Z_Tnu64lZQ)
++ [高并发下FastThreadLocal为何比ThreadLocal快了3倍](https://mp.weixin.qq.com/s/Xw3C1zdgytg3wQr52MXZKg)
++ [面试官：Netty 通信中的粘包、拆包，你能聊聊吗？](https://mp.weixin.qq.com/s/uNrq1EOl6frrX8fAg2-bHw)
++ [拼多多面试：Netty如何解决粘包问题？](https://mp.weixin.qq.com/s/Z5ewtOCLhwMdiuPg2Ntb8A)
++ [滴滴面试：谈谈对Netty线程模型的理解？](https://mp.weixin.qq.com/s/9Zdv9aCpyPAoj24QgSzgRA)
++ [面试官：说说Netty对象池的实现原理？](https://mp.weixin.qq.com/s/V_zhK5iFlkuoeHp3F1iDTQ)
++ [拜托！面试请不要再问我 Netty 底层架构原理！](https://mp.weixin.qq.com/s/Sldln-i580LJusQd_YW06w)
++ [一张图学会Netty线程模型](https://mp.weixin.qq.com/s/-wbw78AGJTFYMeas3IY6dg)
++ [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
++ [使用Netty 如何解决半包粘包？](https://mp.weixin.qq.com/s/sGRHWh06u88fdhO_modheg)
++ [(十)Netty进阶篇：漫谈网络粘包、半包问题、解码器与长连接、心跳机制实战](https://mp.weixin.qq.com/s/BK14ryGrHiNMiMDVC-7s-Q)
++ [(十一)Netty实战篇：基于Netty框架打造一款高性能的IM即时通讯程序](https://mp.weixin.qq.com/s/RMUbCeIknr99imAEtgvGmg)
++ [Netty 基于 protobuf 协议的编解码](https://my.oschina.net/OutOfMemory/blog/294505)
++ [Netty 的 ip 过滤](https://my.oschina.net/OutOfMemory/blog/364446)
++ [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
++ [Netty 通过 MBean 监控流量](https://my.oschina.net/OutOfMemory/blog/790781)
++ [Netty 自定义协议](https://my.oschina.net/OutOfMemory/blog/290180)
++ [一次Netty使用不当引起的堆外内存泄漏问题（详细分析及解决）](https://mp.weixin.qq.com/s/w8NcfvqDQXmP3sLw9N106A)
++ [Netty 01 从EchoServer 开始抛砖引玉](https://mp.weixin.qq.com/s/GkkuBf9pjABFUscSUl_TVw)
++ [Netty 编码器 & 解码器 正确使用姿势](https://mp.weixin.qq.com/s/RIxkLx3n2V6yyHDdpl9COw)
++ [米哈游1面：Netty 采用了哪些经典的设计模式？](https://mp.weixin.qq.com/s/V2bV9rK5c-CEuNihEWXS5g)
++ [时间轮在 Netty , Kafka 中的设计与实现](https://mp.weixin.qq.com/s/8hN6r8xTUVL4oIDubBl9dg)
+
+## quarkus
+
++ [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
+
+## redisson
+
++ [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)
++ [分布式锁工具Redisson，太香了！！](https://mp.weixin.qq.com/s/o0NpBgVAPEiwQefwisqFAw)
++ [分布式锁工具 Redisson，贼香！！](https://mp.weixin.qq.com/s/RaxP9HDssFItvtlArRSdQg)
++ [玩转Redis！非常强大的Redisson分布式集合，少写60%代码](https://mp.weixin.qq.com/s/rwMlS-ktAHrP3ShlOZPgkA)
++ [使用Redisson时，为何synchronized锁会失灵？](https://mp.weixin.qq.com/s/pcG-izAXi4sVWlDksoJK5w)
++ [Redis分布式锁及Redisson续期源码解析](https://mp.weixin.qq.com/s/1PVgrO7_M6vg_dmDHiTzaA)
++ [为什么推荐用Redisson实现分布式锁，看完直呼好好好](https://mp.weixin.qq.com/s/m_9i4NfpbJeSXACHT9DE9g)
++ [Redisson 公平锁（Fair Lock）：分布式环境下的锁管理方案](https://mp.weixin.qq.com/s/woV5uf2aRhPZ5az3Jfd4mw)
+
+## ribbon
+
++ [【Java面试100题突击】09 Ribbon负载均衡原理是什么？](https://mp.weixin.qq.com/s/wxkb3xPZeIU-3SuzYH7nAQ)
+
+## rxjava
+
++ [异步编程 RxJava - 介绍](https://my.oschina.net/OutOfMemory/blog/810511)
+
+## sentinel
+
++ [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
++ [游戏推荐业务中基于 sentinel 的动态限流实践](https://my.oschina.net/vivotech/blog/16378460)
+
+## shiro
+
++ [再见了 shiro](https://mp.weixin.qq.com/s/fguzrNRL70kxAw6WXnVQrw)
++ [再见了 Shiro！](https://mp.weixin.qq.com/s/-NG2wGbzmmebdHHL6q778Q)
++ []()
++ [《Apache Shiro 源码解析》- 7. 会话](https://my.oschina.net/mumu/blog/16688991)
++ [《Apache Shiro 源码解析》- 5. 权限](https://my.oschina.net/mumu/blog/16633981)
++ [Shiro入门教程：轻量级Java安全框架](https://mp.weixin.qq.com/s/slMIIq6Mu5Aqmhhr9Um8uw)
+
 ## spring
 
 ### 核心基础概念
@@ -973,6 +1235,7 @@
 + [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
 + [还在用 System.currentTimeMillis() 统计代码耗时？太 Low 啦](https://mp.weixin.qq.com/s/k_7QVLDuCPmHV3wRoMgOsw)
 + [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ)
++ [Spring Boot工具类如何获取 Spring 的 Bean](https://mp.weixin.qq.com/s/4C0xKjQSnOSyzTmW8VDdnQ)
 
 #### 高阶使用
 
@@ -1263,6 +1526,7 @@
 + [Sidecar模式助力Spring Cloud，实现跨语言微服务高效协同](https://mp.weixin.qq.com/s/lmUzqks3qGJ9SN4wjNEQ-g)
 + [Spring（二十）Spring Cloud Eureka：高可用服务注册与发现解决方案](https://mp.weixin.qq.com/s/gd3hAyDWei-euq0dy8vZNg)
 + [【2025版SpringCloud面试题】6、Saga模式有哪些协调模式？](https://mp.weixin.qq.com/s/78UH_2QeaJm8wR-YlYUCtg)
++ [SpringCloud 专栏：服务负载均衡器组件 Ribbon 实战讲解！](https://mp.weixin.qq.com/s/IANtFZe7nMpCV_ltqcuTVA)
 
 #### alibaba
 
@@ -1415,6 +1679,7 @@
 + [SpringBoot 启动加速：优化与定制化干预技术指南](https://mp.weixin.qq.com/s/EBIuQBLCDFH4E_q1eQHYMQ)
 + [@ComponentScan到底是怎么扫描的？你真的知道吗？](https://mp.weixin.qq.com/s/KrJm3A7O0tiUtFs0xkX1iw)
 + [这些 StringUtils 方法，你真的会用吗？Spring Boot 开发者必看！](https://mp.weixin.qq.com/s/5_TBUdKlaUzvKD6dQs6yvA)
++ [LocalDateTime + SpringBoot 整合（Post篇）](https://mp.weixin.qq.com/s/FzyIENMEsigCSKxJWKfUEw)
 
 #### 版本特性
 
@@ -2227,6 +2492,7 @@
 + [Redis 赋能！Spring Boot 实现高性能分页+多条件模糊查询](https://mp.weixin.qq.com/s/OqM9-F2iBJTyfCp9JYa7rw)
 + [SpringBoot与rdf4j整合，实现欺诈检测功能](https://mp.weixin.qq.com/s/wjRqXj_WXCKBsY65aiz6HQ)
 + [使用SM4国密加密算法对Spring Boot项目数据库连接信息以及yaml文件配置属性进行加密配置（读取时自动解密）](https://mp.weixin.qq.com/s/EBFYYL3pAGqrgcu7vl4nBg)
++ [SpringBoot3.4.3基于Resilience4j实现服务容错构建高可用系统](https://mp.weixin.qq.com/s/nDkG_eG1MiZRjgK2Iz4tBg)
 
 #### 自定义实现
 
@@ -2243,248 +2509,13 @@
 + [Spring Boot源码分析一：启动流程](https://mp.weixin.qq.com/s/sj-0V-CDYvTZUH4h7ffeoQ)
 + [爆肝3万字，SpringBoot原理深入以及源码分析](https://mp.weixin.qq.com/s/fJOev835KmbiRfurTihm4w)
 
-## hystrix
-
-+ [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
-+ [什么是 Hystrix？它的工作原理是什么？](https://mp.weixin.qq.com/s/0dobf9_vSbv75Y9-tJbHkA)
-
 ## web
 
 + [一文带你了解什么是servlet](https://mp.weixin.qq.com/s/mVF4wNPQKeokj6vwG6eWJQ)
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
 + [Tomcat 系统架构与原理剖析](https://mp.weixin.qq.com/s/Tw9IPBgizkx8zySX8BMtww)
 + [Tomcat核心配置场景](https://mp.weixin.qq.com/s/YR_KpkT43UO7sWq07j2QPw)
-
-## quarkus
-
-+ [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
-
-## database connect pool
-
-+ [聊聊Druid连接池的内部原理及推荐配置](https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ)
-
-## mybatis
-
-+ [公司新招一个月薪2w+的高级工程师露馅了，起因是因为一个Mybatis问题](https://mp.weixin.qq.com/s/KccpOlI1zYDLFD86eaknXQ)
-+ [MyBatis拦截器在实际项目中的应用](https://mp.weixin.qq.com/s/dYBHwpWMliZF3taYfVz3cA)
-+ [Mybatis链路分析：JDK动态代理和责任链模式的应用](https://mp.weixin.qq.com/s/nrhiraGiJ4Xi8QqS-MVhEw)
-+ [MyBatis 如何获取自增长主键及注意事项与常见面试题](https://mp.weixin.qq.com/s/0G7_da-h0sqJSCBDxh58qw)
-+ [MyBatis 如何实现多个传参及常见面试题解析](https://mp.weixin.qq.com/s/EQmOPSVpqemVgTRn4sia6Q)
-+ [10 种超赞的 MyBatis 写法！](https://mp.weixin.qq.com/s/5isGSZSiDZcjR-SnkiShhg)
-+ [10种超赞的MyBatis写法！](https://mp.weixin.qq.com/s/-GlBvl6YlNNLLDTP_1oI8Q)
-+ [大厂这么用，10 种超赞的 MyBatis SQL写法！](https://mp.weixin.qq.com/s/ak_Jag7IN_cCK3ciFUKEiw)
-+ [关于MyBatis的缓存详解](https://mp.weixin.qq.com/s/b9o0ZSf1C-03iE1oIzpl4A)
-+ [从 7 分钟到 10 秒，Mybatis 批处理真的很强！](https://mp.weixin.qq.com/s/0TfFnPQJ3-9lJZqcaWJtQw)
-+ [注意了！mybatis中＜if＞条件判断，遇到带数字单字符有坑！](https://mp.weixin.qq.com/s/rJ51Ig1wTHK8fjMKUuMRsw)
-+ [整理常见的Mybaits打印执行sql和耗时时间的方案](https://mp.weixin.qq.com/s/PEvyuhmnEA_CmNARQq4YjQ)
-+ [别再手动拼接 SQL 了，MyBatis 动态 SQL 写法应有尽有，建议收藏！](https://mp.weixin.qq.com/s/4RaCEJbxoe8yjqWSBPax5A)
-+ [MyBatis 延迟加载全攻略及常见面试题解析](https://mp.weixin.qq.com/s/Eu8KZgR1Z6er9EDY_NsFLg)
-+ [Mybatis 注解开发](https://mp.weixin.qq.com/s/5atrR86i8nmTzAmCT1QEew)
-+ [23个Mybatis注解：Mybatis架构分析与注解案例(必须收藏)](https://mp.weixin.qq.com/s/4PZgnu_tai4Vh4HfzVmfzw)
-+ [MyBatis原理机制详解(附8大执行流程图解)](https://mp.weixin.qq.com/s/4glpXF31JjMcanwYpeMKug)
-+ [mybatis专题-打印完整带sql语句](https://mp.weixin.qq.com/s/vT4E0Rcyn7Bj2bFIU6CYXg)
-+ [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/DNpqLjSsXcedXLFxiJCqCQ)
-+ [为什么 MyBatis 源码中，没有我那种 if···else](https://mp.weixin.qq.com/s/jUln-ymUfGRQuuWtZhdH6g)
-+ [快速测试 Mybatis 复杂SQL，无需启动 Spring](https://mp.weixin.qq.com/s/qGDIJ3YWaG1j6VPWrcyMUA)
-+ [一文带你理解透 MyBatis 源码](https://my.oschina.net/u/4526289/blog/11203801)
-+ [Mybatis 框架下 SQL 注入攻击的 3 种方式，真是防不胜防！](https://mp.weixin.qq.com/s/ApZ6yIZ5-FaVDN5LS_ti4A)
-+ [用过超过3个算我输！Mybatis动态SQL全解析](https://mp.weixin.qq.com/s/CkHqYip6ABXNaU6eL2Emlg)
-+ [弃用 Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/LKvfTtG-RrqPm7P0qRta0w)
-+ [MyBatis 一级与二级缓存介绍](https://mp.weixin.qq.com/s/YM1GXj_HauJENRtvb-C50Q)
-+ [MyBatis如何调用存储过程？](https://mp.weixin.qq.com/s/YPZV6DauPeYSj7eWSK5PLQ)
-+ [Mybatis拦截器实现字段加解密](https://mp.weixin.qq.com/s/u2-5vEG0z8M0ZDhQTqebhQ)
-+ [放弃老旧的Mybatis，自研一款轻量级、高性能、强类型的 ORM 框架](https://mp.weixin.qq.com/s/TfroSDZEIKjb4VajVSX3Fw)
-+ [Vivo 50，这场面试给你通过！MyBatis 动态 SQL 如此使用才是正解！](https://mp.weixin.qq.com/s/dOE3YBpaehZI7BLszZKdeA)
-+ [Mybatis源码之各组件原理](https://mp.weixin.qq.com/s/YUxmIBSy7cNvyGzK8CNubw)
-+ [MyBatis的安全小坑：#{}与${}：深度解析及实战建议](https://mp.weixin.qq.com/s/eoVJm9LKsfBvXXiSpuHfAw)
-+ [mybatis 中 #{}和 ${}的区别是什么？](https://mp.weixin.qq.com/s/Hl_mRAFuI9SaRkkIYhZDaQ)
-+ [MyBatis分页详解及常见面试题](https://mp.weixin.qq.com/s/1GjEW-nNDSkWl4Yl-4kANg)
-+ [MyBatis中的设计模式实践与面试解析](https://mp.weixin.qq.com/s/HbNYF36ErESbql4Q2lPCaQ)
-+ [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/m5M3T0YJBMjxFZJUHAOlLA)
-+ [Mybatis插件-租户ID的注入&拦截应用](https://mp.weixin.qq.com/s/HtKaQOs7_yoynNAa4UzhyA)
-+ [MyBatis深度解析：高级查询与性能优化](https://mp.weixin.qq.com/s/qjQFxFY2E2FQSPV15XjT6w)
-+ [Mybatis中if-test的一个问题及解决办法](https://mp.weixin.qq.com/s/PKp_rOnbr-RbEm-GOOWqlA)
-+ [农行2面：JDBC存在什么问题？MyBatis是如何解决的？](https://mp.weixin.qq.com/s/jqD9PA003jUjBx-lEL1eoA)
-+ [MyBatis 列名转换拦截器：解决列名映射风格问题](https://mp.weixin.qq.com/s/Eej4jdfH38Vh2wkwJcOIlw)
-+ [使用MyBatis推荐几种SQL写法](https://mp.weixin.qq.com/s/FkcaqnMcrgZN_4MmfNrbYw)
-+ [MyBatis中的 10 个宝藏技巧！](https://mp.weixin.qq.com/s/D66uI4w8-lYJd6CuRtSM6g)
-+ [15 种超赞的 MyBatis 写法](https://mp.weixin.qq.com/s/gVYELZdsKgQ32pknK2UVdw)
-+ [MyBatis 拦截器，带你轻松搞定数据脱敏！](https://mp.weixin.qq.com/s/a3dSgJPWwprfXHarOeDZEQ)
-+ [这样理解 MyBatis缓存机制，真香！](https://mp.weixin.qq.com/s/glLItOA7ECFOpwOZHSdlvQ)
-+ [MyBatis 内置连接池原理详解！](https://mp.weixin.qq.com/s/ujMAvAvExX0bSvUCqw-jPg)
-+ [MyBatis缓存：深入理解一级缓存和二级缓存](https://mp.weixin.qq.com/s/9BPtuJTldaLTYAxXRvF4sQ)
-+ [【java面试100问】92 Mybatis是如何进行分页的？](https://mp.weixin.qq.com/s/BNGfizkvTcHx2WxkEjSKjw)
-+ [MyBatis 核心精要探秘](https://mp.weixin.qq.com/s/l4xuYof81T0MlNrx3g6JKg)
-+ [《深入理解Mybatis原理》Mybatis中的缓存实现原理](https://mp.weixin.qq.com/s/Mb3AUiVwl2X1dT0PYWT1PA)
-+ [OGNL 表达式：操作 Java 对象的动态魔法](https://mp.weixin.qq.com/s/rdWqEeCUj_h_AqDQFrP9Pg)
-
-### plus
-
-+ [MyBatis-Plus和MyBatis深度对比！](https://mp.weixin.qq.com/s/4FP6r0fgEYDkIkpDg5EH-A)
-+ [通过方法引用获取属性名的底层逻辑是什么？](https://my.oschina.net/lenve/blog/11051291)
-+ [公司新来小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被开了.....](https://mp.weixin.qq.com/s/yY5idp93tPaU68A600jRwA)
-+ [巧用 MyBatis Plus 实现数据权限控制...](https://mp.weixin.qq.com/s/mk9ZxMzxbdwnouCLpn914Q)
-+ [Mybatis-Plus 开发提速器：mybatis-plus-generator-ui](https://mp.weixin.qq.com/s/hJIIe3r4qan57L6UDQlfQg)
-+ [MyBatis Plus 解决大数据量查询慢问题](https://mp.weixin.qq.com/s/X_LpEYkA87YsVY3xqVAucw)
-+ [Mybatis Plus很好，但也有坑！](https://mp.weixin.qq.com/s/oC3ipO3SKYo4dWzZDnrJig)
-+ [慎用，Mybatis-Plus这个方法可能导致死锁](https://mp.weixin.qq.com/s/wgxZK09PKTyOHNnkaxyNqg)
-+ [Mybatis-Plus官方分库分表神器，一个依赖轻松搞定！](https://mp.weixin.qq.com/s/YRRnCplPJ8MK2O2nYcIL2g)
-+ [再见 MybatisPlus，阿里推出新 ORM 框架更牛X](https://mp.weixin.qq.com/s/QzuoUxCOX78JEnhQe9gIcA)
-+ [Mybatis Plus 空字符串插入问题引起的思考](https://mp.weixin.qq.com/s/OybNWl8bmynv4MJvp_sX4Q)
-+ [MyBatis-Plus（二）：resultType 的选择——int 与 java.lang.Integer 的区别](https://mp.weixin.qq.com/s/o1_-gXWomyzWtGpRTCWaZQ)
-+ [性能提升 2000%！揭秘 MyBatis-Plus 批量插入的终极优化技巧](https://mp.weixin.qq.com/s/bmqRiv_LwZRgZDfiZInJpA)
-+ [妙用MyBatisPlus，12个实战技巧解锁新知识](https://mp.weixin.qq.com/s/1hpdPBYuz8vmk7A33rBrWg)
-+ [警惕！MyBatis-Plus 主键生成策略的隐藏坑，踩过都哭了！](https://mp.weixin.qq.com/s/VVTcyO4QSVLHeaeoHy7NPg)
-
-## disruptor
-
-+ [如此狂妄，自称高性能队列的 Disruptor 有啥来头？](https://my.oschina.net/jiagoushi/blog/5578896)
-+ [Disruptor 测试结果运算 1 亿次，耗时 5503ms，吞吐量 18171000/s](https://my.oschina.net/jiagoushi/blog/5579251)
-+ [Disruptor 生产和消费模式详解及高级应用（并行模式）](https://my.oschina.net/jiagoushi/blog/5579551)
-+ [Disruptor 和 LinkedBlockingQueue 性能对比以及分析](https://my.oschina.net/OutOfMemory/blog/793275)
-+ [Disruptor在撮合引擎的实践｜得物技术](https://mp.weixin.qq.com/s/kmuG5azJnqjKRYlkiVHWqQ)
-+ [Disruptor 在撮合引擎的实践｜得物技术](https://my.oschina.net/u/5783135/blog/11334180)
-+ [高性能无锁队列 Disruptor 核心原理分析及其在 i 主题业务中的应用](https://my.oschina.net/vivotech/blog/15344271)
-
-## shiro
-
-+ [再见了 shiro](https://mp.weixin.qq.com/s/fguzrNRL70kxAw6WXnVQrw)
-+ [再见了 Shiro！](https://mp.weixin.qq.com/s/-NG2wGbzmmebdHHL6q778Q)
-+ []()
-+ [《Apache Shiro 源码解析》- 7. 会话](https://my.oschina.net/mumu/blog/16688991)
-+ [《Apache Shiro 源码解析》- 5. 权限](https://my.oschina.net/mumu/blog/16633981)
-+ [Shiro入门教程：轻量级Java安全框架](https://mp.weixin.qq.com/s/slMIIq6Mu5Aqmhhr9Um8uw)
-
-## netty
-
-+ [Netty实战入门教程](https://mp.weixin.qq.com/s/l1yJ40Ed3P2Ydzty2e6r2g)
-+ [轻松掌握Netty：实现高效的客户端与服务器通信](https://mp.weixin.qq.com/s/jN4f303IkInD0i9Z-9JYNA)
-+ [Netty高级使用与源码详解](https://mp.weixin.qq.com/s/lgwieW4dOrDSXU9YwPS8nQ)
-+ [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
-+ [为什么不选择使用原生的 NIO 而选择使用 Netty 模式呢？](https://mp.weixin.qq.com/s/qhPEYV6CrQg6DEybirbYZw)
-+ [Netty的源码分析和业务场景](https://mp.weixin.qq.com/s/M8EH_sgleaNHNhdIe7Gfpg)
-+ [Netty 强大的 ByteBuf](https://mp.weixin.qq.com/s/D2O1qpB9n2OAboJqsCY5OQ)
-+ [Netty 常见组件介绍](https://mp.weixin.qq.com/s/5WxBZTOBUS1PmpV5urrqcw)
-+ [Netty TCP 实战案例（一），文末附源码地址](https://mp.weixin.qq.com/s/Wp4JFSa_ZNPc1Re5-N2nxg)
-+ [FastThreadLocal 为什么那么快](https://mp.weixin.qq.com/s/NFdatPy3vuJZsmpXqr5y4w)
-+ [一文看懂Netty的心跳检测机制](https://mp.weixin.qq.com/s/5pvcuq-6OHOhN1hKdcrZog)
-+ [Netty 是如何解决半包和粘包问题?](https://mp.weixin.qq.com/s/PCQ0MwXRs1jUTRd8PsUo7w)
-+ [面试高频：了解零拷贝吗？Netty哪里用到了零拷贝？](https://mp.weixin.qq.com/s/LQakVp-9wCYsHDrTPKYFzA)
-+ [京东二面：为什么Netty要创造FastThreadLocal？](https://mp.weixin.qq.com/s/-OSM8usP44i7Z_Tnu64lZQ)
-+ [高并发下FastThreadLocal为何比ThreadLocal快了3倍](https://mp.weixin.qq.com/s/Xw3C1zdgytg3wQr52MXZKg)
-+ [面试官：Netty 通信中的粘包、拆包，你能聊聊吗？](https://mp.weixin.qq.com/s/uNrq1EOl6frrX8fAg2-bHw)
-+ [拼多多面试：Netty如何解决粘包问题？](https://mp.weixin.qq.com/s/Z5ewtOCLhwMdiuPg2Ntb8A)
-+ [滴滴面试：谈谈对Netty线程模型的理解？](https://mp.weixin.qq.com/s/9Zdv9aCpyPAoj24QgSzgRA)
-+ [面试官：说说Netty对象池的实现原理？](https://mp.weixin.qq.com/s/V_zhK5iFlkuoeHp3F1iDTQ)
-+ [拜托！面试请不要再问我 Netty 底层架构原理！](https://mp.weixin.qq.com/s/Sldln-i580LJusQd_YW06w)
-+ [一张图学会Netty线程模型](https://mp.weixin.qq.com/s/-wbw78AGJTFYMeas3IY6dg)
-+ [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
-+ [使用Netty 如何解决半包粘包？](https://mp.weixin.qq.com/s/sGRHWh06u88fdhO_modheg)
-+ [(十)Netty进阶篇：漫谈网络粘包、半包问题、解码器与长连接、心跳机制实战](https://mp.weixin.qq.com/s/BK14ryGrHiNMiMDVC-7s-Q)
-+ [(十一)Netty实战篇：基于Netty框架打造一款高性能的IM即时通讯程序](https://mp.weixin.qq.com/s/RMUbCeIknr99imAEtgvGmg)
-+ [Netty 基于 protobuf 协议的编解码](https://my.oschina.net/OutOfMemory/blog/294505)
-+ [Netty 的 ip 过滤](https://my.oschina.net/OutOfMemory/blog/364446)
-+ [Netty 模拟 redis 服务器](https://my.oschina.net/OutOfMemory/blog/738865)
-+ [Netty 通过 MBean 监控流量](https://my.oschina.net/OutOfMemory/blog/790781)
-+ [Netty 自定义协议](https://my.oschina.net/OutOfMemory/blog/290180)
-+ [一次Netty使用不当引起的堆外内存泄漏问题（详细分析及解决）](https://mp.weixin.qq.com/s/w8NcfvqDQXmP3sLw9N106A)
-+ [Netty 01 从EchoServer 开始抛砖引玉](https://mp.weixin.qq.com/s/GkkuBf9pjABFUscSUl_TVw)
-+ [Netty 编码器 & 解码器 正确使用姿势](https://mp.weixin.qq.com/s/RIxkLx3n2V6yyHDdpl9COw)
-+ [米哈游1面：Netty 采用了哪些经典的设计模式？](https://mp.weixin.qq.com/s/V2bV9rK5c-CEuNihEWXS5g)
-+ [时间轮在 Netty , Kafka 中的设计与实现](https://mp.weixin.qq.com/s/8hN6r8xTUVL4oIDubBl9dg)
-
-## AKKA
-
-+ [并发框架Akka介绍](https://mp.weixin.qq.com/s/f-U2z-53M1s5znPptCO3jg)
-
-## redisson
-
-+ [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)
-+ [分布式锁工具Redisson，太香了！！](https://mp.weixin.qq.com/s/o0NpBgVAPEiwQefwisqFAw)
-+ [分布式锁工具 Redisson，贼香！！](https://mp.weixin.qq.com/s/RaxP9HDssFItvtlArRSdQg)
-+ [玩转Redis！非常强大的Redisson分布式集合，少写60%代码](https://mp.weixin.qq.com/s/rwMlS-ktAHrP3ShlOZPgkA)
-+ [使用Redisson时，为何synchronized锁会失灵？](https://mp.weixin.qq.com/s/pcG-izAXi4sVWlDksoJK5w)
-+ [Redis分布式锁及Redisson续期源码解析](https://mp.weixin.qq.com/s/1PVgrO7_M6vg_dmDHiTzaA)
-+ [为什么推荐用Redisson实现分布式锁，看完直呼好好好](https://mp.weixin.qq.com/s/m_9i4NfpbJeSXACHT9DE9g)
-
-## rxjava
-
-+ [异步编程 RxJava - 介绍](https://my.oschina.net/OutOfMemory/blog/810511)
-
-## caffeine
-
-+ [Caffeine缓存：从入门到精通](https://mp.weixin.qq.com/s/j9ScM_QHjlVoadiMXkDADw)
-+ [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
-+ [缓存框架 Caffeine 的可视化探索与实践](https://my.oschina.net/vivotech/blog/14189225)
-+ [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
-
-## 消息队列
-
-+ [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
-+ [实用工具推荐：ActiveMQ，适合各类项目的Java库](https://mp.weixin.qq.com/s/QkUN_AZ6OQLtYkd4WoGpkQ)
-
-## logger
-
-+ [9款日志采集和管理工具对比，选型必备！](https://mp.weixin.qq.com/s/b7gFhLYVaVmgF2zGKvB6Yw)
-+ [Java日志](https://mp.weixin.qq.com/s/Npj6IGgsYvKdCzQ9Y21M-A)
-+ [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
-+ [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
-+ [Logback日志框架超详细教程](https://mp.weixin.qq.com/s/ISEaodZRLjLzMilWYs3MVg)
-+ [我司使用了两年的高效日志打印工具，非常牛逼！](https://mp.weixin.qq.com/s/I1ePJVGIykqU1IB9HC3x0A)
-+ [Java日志管理：选择合适的日志框架记录应用运行状态](https://mp.weixin.qq.com/s/OsDCRN7H67KMetk3OC71zA)
-+ [别再乱打日志了，这份 Java 日志规范，应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/xxJRkJorWpmRfCG5b8mllw)
-+ [logback VS log4j2：一倍左右的性能差异，是时候注意了！](https://mp.weixin.qq.com/s/qDvBY7ufgMVEeDajV7REBQ)
-+ [EasyLogger，一款轻量级且高性能的日志库，不一样的打印输出](https://mp.weixin.qq.com/s/DXpSswLvvNdscIXbD0xHkg)
-+ [一文理清 Java 日志框架的来龙去脉](https://mp.weixin.qq.com/s/0TZ2xgtMaiX_jeFHdFBC3g)
-+ [Java日志记录几种实现方案](https://mp.weixin.qq.com/s/y2rhzOBhlVS7YroqPfiGgg)
-+ [SLF4J 门面日志框架原理分析](https://mp.weixin.qq.com/s/ECDCtSNKLkkJLW6yEDYMuQ)
-+ [Log4j 2 与 SLF4J 互转的核心：log4j-slf4j-impl 和 log4j-to-slf4j](https://mp.weixin.qq.com/s/CGrJrZ9dInC-jpPin07M9Q)
-+ [开发者必备：Log4j系列与Logback日志框架详解](https://mp.weixin.qq.com/s/bgqZ137DG7sRrJ5vuPXcGA)
-+ [如何使用 SLF4J 的 MDC, 实现全链路追踪？](https://mp.weixin.qq.com/s/58AowEyTTTgx5D6pO4FVBA)
-+ [SLF4J 桥接器及其原理--让你的旧代码也可以起飞](https://mp.weixin.qq.com/s/wfkfydoPChH577HpOg-ZXg)
-+ [Log4j原理分析](https://mp.weixin.qq.com/s/i5jJmLwuL64mSFkRf3F7uQ)
-+ [日志中的TraceId魔法，解锁业务全链路追踪！](https://mp.weixin.qq.com/s/lXSBytTYyRxy43lMtlSp-A)
-+ [全网最全Log配置教程及框架性能比较，看这篇就够了！](https://mp.weixin.qq.com/s/B91w9vUGotjHM3ItcLPPmQ)
-
-## MapStruct
-
-+ [MapStruct 使用教程, 万字详解](https://mp.weixin.qq.com/s/UXUDIWiBiLyrb887evQcaQ)
-+ [MapStruct 超神进阶用法，让你的代码效率提升十倍！](https://mp.weixin.qq.com/s/_4nSah_SIWYyBgYJ6AI_5A)
-
-## nacos
-
-+ [Nacos最全详解(8大架构原理图解)](https://mp.weixin.qq.com/s/-QSi5dYyVJ05wLyD9oOg1w)
-+ [Nacos最全详解(图文全面总结)](https://mp.weixin.qq.com/s/tYIZuq8jZ4B0JzDi3doVCQ)
-+ [从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s/p8YS2DhQaIe0QUTxeSMsQg)
-+ [Nacos任意文件读写](https://mp.weixin.qq.com/s/EzMaG3u-lcBnVbPYebP_Ag)
-+ [nacos2.3.2鉴权的一些坑](https://mp.weixin.qq.com/s/CABCpyZIZlXqi8OGwhGcvQ)
-+ [Nacos升级导致Feign调用异常](https://mp.weixin.qq.com/s/KtEIWt7Ig0WH6KZv5VlDEA)
-+ [Nacos学习圣经：从入门到精通 Nacos，最全详解 (30+图文全面总结)](https://mp.weixin.qq.com/s/q8MkXtQ6YGy32KqrQUNb_g)
-+ [深入探讨Nacos服务注册与发现机制](https://mp.weixin.qq.com/s/emeWxHoQbpzxqGB-f7zsXQ)
-+ [Nacos 可观测性最佳实践](https://mp.weixin.qq.com/s/EN1a8S3c1N5zhiLDhJ6BUA)
-
-## apollo
-
-+ [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
-+ [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
-+ [决定弃用 Nacos 了！](https://mp.weixin.qq.com/s/X_9xRXBV2Y7gqBTem4lq3Q)
-
-## json
-
-+ [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
-
-## ribbon
-
-+ [【Java面试100题突击】09 Ribbon负载均衡原理是什么？](https://mp.weixin.qq.com/s/wxkb3xPZeIU-3SuzYH7nAQ)
-
-## dubbo
-
-+ [Dubbo 超时设置与动态调整解决方案](https://mp.weixin.qq.com/s/f0RlEFmyG7V0-F8j9vIyjQ)
-
-## sentinel
-
-+ [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
-+ [游戏推荐业务中基于 sentinel 的动态限流实践](https://my.oschina.net/vivotech/blog/16378460)
++ [Tomcat自动扫描利用工具|无问社区助你攻防利器](https://mp.weixin.qq.com/s/o-Tkf5-nGeZz8FO22XFLgQ)
 
 ## xxl-job
 
@@ -2498,24 +2529,10 @@
 + [死磕xxl-job（二）](https://mp.weixin.qq.com/s/Dx6-8h4Md0DO4W4Gw9UVVg)
 + [魔改xxl-job，彻底告别手动配置任务！](https://mp.weixin.qq.com/s/t7XWN2f-8mtDxZhbVhXjTw)
 
-## openFeign
+## 消息队列
 
-+ [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
-+ [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
-+ [为什么 Feign 要用 HTTP 而不是 RPC？](https://mp.weixin.qq.com/s/GCT0sTCPJcbh9ye3NHOTDw)
-+ [简化本地Feign调用，老手教你这么玩](https://mp.weixin.qq.com/s/b7jD3o078_sZQ5yJXYbd3g)
-+ [【java面试100问】70 OpenFeign第一次调用为什么会很慢？](https://mp.weixin.qq.com/s/VCEngR1TimL01x5LDHEVpw)
-
-## lombok
-
-+ [好用的Lombok注解](https://mp.weixin.qq.com/s/-_N1RtqSMrDS5xLGF45DYw)
-+ [深入解析：为什么Lombok的@SuperBuilder如此好用？](https://mp.weixin.qq.com/s/8ofvbdDaY-4Hn7kiyQozng)
-+ [腾讯电商2面：Lombok是银弹？还是陷阱？](https://mp.weixin.qq.com/s/LS9a_Wk7MSFfW7U-l8Yd7A)
-+ [盘点 Lombok 中的那些整活儿骚操作](https://mp.weixin.qq.com/s/qq3xTmrdYGP80CbXxVChKA)
-+ [Lombok 同时使用 @Data 和 @Builder 的巨坑，千万别乱用！](https://mp.weixin.qq.com/s/xy7rfTjcVs3oUesj-4VcEQ)
-+ [面试官：Lombok的@Data存在性能问题吗？](https://mp.weixin.qq.com/s/9yI1fm9326-VR9tehyNVAw)
-+ [Lombok 中的 @Slf4j 注解--简化日志代码的利器](https://mp.weixin.qq.com/s/GOZD0ASrasNTqdY-MZcKqg)
-+ [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
++ [结合 RocketMQ 源码，带你了解并发编程的三大神器](https://my.oschina.net/u/4526289/blog/5602851)
++ [实用工具推荐：ActiveMQ，适合各类项目的Java库](https://mp.weixin.qq.com/s/QkUN_AZ6OQLtYkd4WoGpkQ)
 
 ## 字节码相关
 
@@ -2635,8 +2652,7 @@
 + [XXL-CACHE v1.1.0 ｜ 多级缓存框架](https://mp.weixin.qq.com/s/OWFlIyCvQdI1ZbWG-6TCLw)
 + [Jar Analyzer JAR包分析工具](https://mp.weixin.qq.com/s/oPMJ1utE-VXjC7niFqHn-g)
 + [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/z21t7yZeAAYU03X2pBDS1A)
-+ [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/H9Xk4bdtfTBKYAmyTnOHQQ)
-+ [Arthas 工具实战：热更新修复问题，业务零影响](https://mp.weixin.qq.com/s/VNVYqU_OPTguNCuDP-Rh8w)
+
 + [Java 后端新技能！极简代码通过 OpenTelemetry Traces 实现零代码监控](https://mp.weixin.qq.com/s/JfYUKU_bpxQRwGcYGtsehw)
 + [Java+iTextPDF，实时生成与预览PDF文件的最佳实践！](https://mp.weixin.qq.com/s/bfDRbeR-9ZagIvmeHdhmTg)
 + [OkHttp，一个Java网络请求的信使！](https://mp.weixin.qq.com/s/HPM4YJrk1JmT4kqN1dbp4g)

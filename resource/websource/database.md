@@ -19,6 +19,7 @@
 + [10 种数据库技术的发展历程与现状](https://my.oschina.net/u/4662964/blog/15956455)
 + [数据库优化指南：如何将基本功能运用到极致？](https://mp.weixin.qq.com/s/P7pv6xOeyeSaPmoFfJfmgQ)
 + [数据库设计：打造高效数据架构的最佳实践](https://mp.weixin.qq.com/s/JbhNUKb8q9Gr8gV04_YbYQ)
++ [简单实现异构数据源查询](https://mp.weixin.qq.com/s/EXmFxtCjgwV8lTf5gaTOTg)
 
 # SQL
 
@@ -333,6 +334,7 @@
 + [ES+MySQL 优雅的实现模糊搜索](https://mp.weixin.qq.com/s/Lvx_AwitDFeMVDXXQ2a3LQ)
 + [一文带你掌握MySQL主从复制实现原理及操作教程](https://mp.weixin.qq.com/s/Bl2-GO19QpxmtDTnwHLU9A)
 + [MySQL 高可用：MHA 实现 MySQL 高可用](https://mp.weixin.qq.com/s/qITvEYNaedRiyPwMmC-lpw)
++ [【Java面试100题突击】81 MySQL内部支持缓存查询吗？](https://mp.weixin.qq.com/s/MVPNXJebIXvzKgAnrxnRZw)
 
 #### 存储引擎
 
@@ -363,6 +365,7 @@
 + [MySQL MVCC 原理](https://mp.weixin.qq.com/s/PJTJKHkI4ABdNU5bEHdsZQ)
 + [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
 + [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
++ [MySQL MVCC是如何实现的？如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/bbpYOLK3aXEHVvVQYM8XQg)
 
 #### 锁
 
@@ -466,6 +469,7 @@
 + [深度解析MySQL索引失效的8大场景及终极解决方案](https://mp.weixin.qq.com/s/y1Ym11YlxtJKIzRfdmp4lQ)
 + [深入理解MySQL索引：原理、结构与维护策略](https://mp.weixin.qq.com/s/DNJ7Z2R1MRIogabUNoty6w)
 + [覆盖索引、最左前缀与索引下推](https://mp.weixin.qq.com/s/gu0G8J49rOFJ9KmXUlP4VQ)
++ [为什么你的SQL总是慢？揭秘索引的底层真相](https://mp.weixin.qq.com/s/0knIM2vT0Zr1Cc99o8qwuA)
 
 ### PostgreSQL
 

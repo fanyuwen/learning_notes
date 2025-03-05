@@ -130,6 +130,7 @@
 + [深入理解Go语言变量与作用域：让你的代码更简洁高效](https://mp.weixin.qq.com/s/Pc6p32fcCljSZp02R1o-GQ)
 + [提高接口并发量](https://mp.weixin.qq.com/s/UOC06i1afGjsIKAcRl2BsQ)
 + [Go红队开发—并发编程](https://mp.weixin.qq.com/s/gLhg6RmXt0h-ubAPdgxvhQ)
++ [Go红队开发—文件操作](https://mp.weixin.qq.com/s/5AVzmKZIs3RrbzMtkftvPQ)
 + [Go 并发编程实战：从互斥锁到 Goroutine 的优雅之道](https://mp.weixin.qq.com/s/tjdjN2nZXdfZ0nQR9bbzKA)
 + [用 Go 语言打造高效 TCP 扫描器：从入门到并发优化](https://mp.weixin.qq.com/s/agjh3NlqxikQhXNfA9i2oA)
 + [Go Plugin 浅析](https://mp.weixin.qq.com/s/8pEdfJFFEC-NUjdP5lajkg)

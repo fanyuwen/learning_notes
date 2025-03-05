@@ -187,6 +187,7 @@
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
++ [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [Python中的__slots__魔法：内存优化技巧](https://mp.weixin.qq.com/s/WzV4r3jGdfoNhS73ABN-8w)
 + [Python高级：设计模式与架构原则](https://mp.weixin.qq.com/s/fsDpL8VSCoRMkx98hi7-NA)

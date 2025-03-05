@@ -462,6 +462,7 @@
 + [2025开篇|揭密支付安全：为什么你的交易无法被篡改](https://mp.weixin.qq.com/s/xrblXEZcBX3q5PBE8ChV0g)
 + [支付系统加解密技术介绍及实践](https://mp.weixin.qq.com/s/Ox8mRkMD5oVp-8m3Zdwoyg)
 + [【java面试100问】39 敏感数据怎么加解密和传输？](https://mp.weixin.qq.com/s/_Kl_eBv8TRPRRTxPbZzt5A)
++ [AES加密过程白话版解析](https://mp.weixin.qq.com/s/3jwOha0CBiRtq0seCFtgbA)
 
 ### 鉴权
 
@@ -530,6 +531,7 @@
 + [高并发系统设计的六字真言：分、缓、异、限、降、演，从面试到实战的生存指南](https://mp.weixin.qq.com/s/VmvhUOGsusaepkowSWbsfg)
 + [如何实现自动登录的功能？](https://mp.weixin.qq.com/s/WlRU8qb9qrB9R2HxgcbRdQ)
 + [业务开发时,接口不能对外暴露怎么办?](https://mp.weixin.qq.com/s/IafjYqQl7zlgijBTvaCSBw)
++ [Java 中实现用户登录次数限制的多种方案](https://mp.weixin.qq.com/s/60lJFeUpqzeGidW846RkbA)
 
 # 测试相关
 
@@ -554,6 +556,7 @@
 + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
 + [状态机浅析](https://mp.weixin.qq.com/s/xPYD9Z0HblMG4B4flhX8Mg)
 + [有限状态机FSM](https://mp.weixin.qq.com/s/3boQq1pWXo9L1FIxcN29qg)
++ [【HDLbits--FSM状态机】](https://mp.weixin.qq.com/s/M5gPSFbyhbon9n5cjtOJhA)
 + [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
 + [状态机模型，你真的搞懂并用对了吗？](https://mp.weixin.qq.com/s/_vg5lB8CC0OzrcHfQ-iv9w)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)

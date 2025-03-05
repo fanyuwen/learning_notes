@@ -335,6 +335,8 @@
 + [一文带你掌握MySQL主从复制实现原理及操作教程](https://mp.weixin.qq.com/s/Bl2-GO19QpxmtDTnwHLU9A)
 + [MySQL 高可用：MHA 实现 MySQL 高可用](https://mp.weixin.qq.com/s/qITvEYNaedRiyPwMmC-lpw)
 + [【Java面试100题突击】81 MySQL内部支持缓存查询吗？](https://mp.weixin.qq.com/s/MVPNXJebIXvzKgAnrxnRZw)
++ [深入解析MySQL三大日志：Redo/Undo/Binlog全链路揭秘](https://mp.weixin.qq.com/s/hT09ucgtO1Rr17-PfU4Udg)
++ [MySQL数据迁移性能优化：让你的迁移速度提升50%](https://mp.weixin.qq.com/s/BOApCZmCuVinoxBEOAsmPw)
 
 #### 存储引擎
 

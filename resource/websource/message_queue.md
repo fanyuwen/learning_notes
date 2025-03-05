@@ -83,6 +83,7 @@
 + [面试官：如何解决Kafka重复消费、漏消费的问题？](https://mp.weixin.qq.com/s/ZYooCesyJbQ6pzy1YNSgcA)
 + [Kafka Broker 集群部署与 I/O 性能优化指南](https://mp.weixin.qq.com/s/9p2v6YLurgmYe2Fa_Z3JWA)
 + [Kafka性能优化指南：如何有效避免消息积压](https://mp.weixin.qq.com/s/zvsMbxWGtQFODrt0Oc4OSw)
++ [Kafka消费滞后问题全解析：原因、监控与解决方案](https://mp.weixin.qq.com/s/tbgmRwz7iLDLjge4OoozQA)
 
 # ROCKETMQ
 

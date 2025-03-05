@@ -96,7 +96,9 @@
 + [DDD、中台和微服务：它们是如何协作的？](https://mp.weixin.qq.com/s/a1kJ0flaO5ThYxRP1s79OQ)
 + [技术Leader如何落地DDD（三）](https://mp.weixin.qq.com/s/3c8yAs_tFtYoNk6tAum1DA)
 + [技术Leader如何落地DDD（四）](https://mp.weixin.qq.com/s/SP7CoxYxnKnbaSNCQm-IuA)
++ [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
 + [DDD分层架构：有效降低层与层之间的依赖](https://mp.weixin.qq.com/s/o33Z_AsNgltXLP84afUunQ)
++ [货拉拉用户CRM-DDD战术设计改造实践](https://mp.weixin.qq.com/s/dN5m9RQlIKZEu-ZvJhg2PA)
 
 ## 微服务
 
@@ -735,6 +737,7 @@
 + [轻踩一下就崩溃吗——踩内存案例分析](https://mp.weixin.qq.com/s/9OCFb2cH-H5zbaIT5VAS9w)
 + [正则表达只学习了个皮毛引起的 BUG](https://mp.weixin.qq.com/s/N918inN3MPMMm3JZDjnzCQ)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/qZMPu29u2BZtYMpzPU33JA)
++ [流量回放技术工具选型](https://mp.weixin.qq.com/s/SkOHrRi4laZuhmBXgh8RuA)
 
 ### 项目管理
 

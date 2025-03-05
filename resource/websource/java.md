@@ -909,6 +909,7 @@
 + [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
 + [JAVA：SPI 技术详解与实践样例](https://mp.weixin.qq.com/s/cLqsSfFvZEGL3W5F6LzACg)
 + [黑科技加持！Java 动态编译 + 运行时热加载，让代码即改即生效](https://mp.weixin.qq.com/s/3X7ahbus7hd5FK0H2_mcvw)
++ [动态生成Java方法](https://mp.weixin.qq.com/s/lZH-a2FieEgJndkXIMJG_w)
 
 # 包管理工具
 
@@ -1095,6 +1096,7 @@
 + [妙用MyBatisPlus，12个实战技巧解锁新知识](https://mp.weixin.qq.com/s/1hpdPBYuz8vmk7A33rBrWg)
 + [警惕！MyBatis-Plus 主键生成策略的隐藏坑，踩过都哭了！](https://mp.weixin.qq.com/s/VVTcyO4QSVLHeaeoHy7NPg)
 + [提升开发效率：MyBatis-Plus 中鲜为人知的 TypeHandler 妙用及其实现详解](https://mp.weixin.qq.com/s/VT1pwdtHUUHKBZcqW6lQmQ)
++ [MyBatis Plus 注解大全：让你的代码更简洁高效！](https://mp.weixin.qq.com/s/ybc9d270CSi5IiFTR0g91A)
 
 ## nacos
 
@@ -2450,6 +2452,7 @@
 + [SpringBoot项目自动化部署使用Jenkins,你不得不知道的Maven工具，尤其是Profiless机制](https://mp.weixin.qq.com/s/hDdO1uneOgrnyJ6zON5qKw)
 + [结合Jenkins自动化部署，SpringBoot分环境如何部署](https://mp.weixin.qq.com/s/Coqt2azGFB4feVR2oD7hdw)
 + [Jenkins-自动化发布系统，一文带你了解如何使用Jenkins发布SpringBoot项目](https://mp.weixin.qq.com/s/05DBUNY2b3Ef4YCgwQYSXQ)
++ [SpringBoot 项目热部署的3种方式](https://mp.weixin.qq.com/s/3wxlp_nRt1KO7k7n_NQkzQ)
 
 #### 集成三方
 

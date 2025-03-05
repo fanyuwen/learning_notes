@@ -113,6 +113,8 @@
 + [推荐一本书：《容器网络：从 Docker 到 Kubernetes》](https://mp.weixin.qq.com/s/BbyKqc6cwRYcdcQlWnbHFQ)
 + [后端工程师必须掌握的10大技能，看你还有哪项没掌握？（2024最新全球调研）](https://mp.weixin.qq.com/s/XwZjSZ_S2XNvLUn9K21d7A)
 + [程序员必备！最全技术文档写作指南](https://mp.weixin.qq.com/s/TcxK_HE-xPyECzlV429foA)
++ [研发高阶能力之技术规划](https://mp.weixin.qq.com/s/PBdeiNOMhiWVim1AWeIc2g)
+
 ## 视频
 
 + [如何识别一个人是否值得交朋友？ 心理学家讲交友之道，值得看一看！](https://m.weibo.cn/status/5079644627272427?wm=3333_2001&from=10E9293010&sourcetype=weixin&s_trans=2197476363_5079644627272427&s_channel=4)

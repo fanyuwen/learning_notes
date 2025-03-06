@@ -210,6 +210,8 @@
 + [面试题：什么是分布式系统，有哪些主要特性？分布式系统如何保证数据的一致性？分布式事务实现方式有哪些？分布式幂等性如何设计？](https://mp.weixin.qq.com/s/n2FvSJmlmydfKRTHPtjxFQ)
 + [如何解决“写后立即读”难题？四步打造高一致性分布式系统](https://mp.weixin.qq.com/s/yiPlib_LLl2DAaIGcFjnEw)
 + [分布式链路追踪实战——OpenTelemetry 与 Jaeger 全解析](https://mp.weixin.qq.com/s/aUX7xssumKuqEI7l624wTQ)
++ [什么是 Write-Ahead Logging技术？它是如何工作的？](https://mp.weixin.qq.com/s/OWUsxr5wZ1nxYc1B4InKcA)
++ [浅谈分布式系统的核心挑战与解决方案](https://mp.weixin.qq.com/s/aHH5mIqa5vxuBbvcos4Q3A)
 
 ## 分布式锁
 
@@ -534,6 +536,7 @@
 + [如何实现自动登录的功能？](https://mp.weixin.qq.com/s/WlRU8qb9qrB9R2HxgcbRdQ)
 + [业务开发时,接口不能对外暴露怎么办?](https://mp.weixin.qq.com/s/IafjYqQl7zlgijBTvaCSBw)
 + [Java 中实现用户登录次数限制的多种方案](https://mp.weixin.qq.com/s/60lJFeUpqzeGidW846RkbA)
++ [整理常见的多租户系统的实现方案](https://mp.weixin.qq.com/s/bD2B6_pCzAMPiAXz4GPEzw)
 
 # 测试相关
 
@@ -585,6 +588,7 @@
 + [分布式微服务系统架构第90集：现代化金融核心系统](https://mp.weixin.qq.com/s/5VYM1uH9HJbAe7D8V1xcxw)
 + [5. 字节二面：如何设计一个支持 10 万 QPS 的会员系统](https://mp.weixin.qq.com/s/p-XmnXUWVHmnYyUgxKl59A)
 + [【音视频】直播推流组件架构、重点需求技术方案和常见问题解析](https://mp.weixin.qq.com/s/ThYcQupJGU9lEPhU_4_kYg)
++ [京东面试：百万并发下的商品搜索，你能扛住几轮？](https://mp.weixin.qq.com/s/0IfihMnICceTdOCOzRilYA)
 
 ## 代码相关
 

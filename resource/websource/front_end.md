@@ -159,6 +159,7 @@
 + [Vue3的侦听器](https://mp.weixin.qq.com/s/yJ9j82fnAS4Bl1-43dEgXw)
 + [Vue 项目中的 vue.config.js：从基础到高级的全面解析](https://mp.weixin.qq.com/s/wyCfkuNXuhSzXn6_3eTtkg)
 + [深入浅出Vuex](https://mp.weixin.qq.com/s/tKBUYF_qnhW31bD16mi42Q)
++ [Vue3 - 基本语法使用二](https://mp.weixin.qq.com/s/0J_3n_fBb1TzXgDFIkkWHA)
 
 ## react
 

@@ -338,6 +338,9 @@
 + [深入解析MySQL三大日志：Redo/Undo/Binlog全链路揭秘](https://mp.weixin.qq.com/s/hT09ucgtO1Rr17-PfU4Udg)
 + [MySQL数据迁移性能优化：让你的迁移速度提升50%](https://mp.weixin.qq.com/s/BOApCZmCuVinoxBEOAsmPw)
 + [MySQL Explain 全解析：小白也能看懂的数据库性能优化指南](https://mp.weixin.qq.com/s/TclYlXu72OuMgMVUN9BUzg)
++ [MySQL缓冲池，读写数据的加速器](https://mp.weixin.qq.com/s/-fZ-SlWEuHJC_itQtOgphQ)
++ [MySQL笔记 | 一条更新语句是如何执行的？](https://mp.weixin.qq.com/s/e09JmNQcipJzypjoK1HWtw)
++ [MySQL之主从延迟、主从切换、读写分离](https://mp.weixin.qq.com/s/LE8Ddx_5Gc2nKHXR0U7gwg)
 
 #### 存储引擎
 
@@ -474,6 +477,7 @@
 + [深入理解MySQL索引：原理、结构与维护策略](https://mp.weixin.qq.com/s/DNJ7Z2R1MRIogabUNoty6w)
 + [覆盖索引、最左前缀与索引下推](https://mp.weixin.qq.com/s/gu0G8J49rOFJ9KmXUlP4VQ)
 + [为什么你的SQL总是慢？揭秘索引的底层真相](https://mp.weixin.qq.com/s/0knIM2vT0Zr1Cc99o8qwuA)
++ [MySQL索引设计的艺术：你的表该建多少个索引才健康](https://mp.weixin.qq.com/s/0Y5BT_jJcYWx9mK-7t2iFg)
 
 ### PostgreSQL
 
@@ -750,6 +754,7 @@
 ### MongoDB
 
 + [MongoDB在AI和大数据中的应用](https://mp.weixin.qq.com/s/znaTV_gGVE0aoEOGSQbe-w)
++ [深入浅出MongoDB：Spring Boot集成MongoDB实战指南](https://mp.weixin.qq.com/s/SdiAQlN34IwMeNaWbZfDnw)
 
 ### keyDB
 

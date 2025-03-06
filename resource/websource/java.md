@@ -44,6 +44,7 @@
 + [来聊聊Java中的可变参数](https://mp.weixin.qq.com/s/6iVBZLHejYbL3pCzVZei8Q)
 + [Java学习笔记——数据结构](https://mp.weixin.qq.com/s/pPSAOHtdCtr6P7-L01Ms1Q)
 + [Java接口详解](https://mp.weixin.qq.com/s/2Sfct1_jTAqbN4X_SQuPsw)
++ [抽象类：Java中的“半成品”类](https://mp.weixin.qq.com/s/yNSkFsX3S54UyfPtgUvOzA)
 + [面向对象程序设计要点](https://mp.weixin.qq.com/s/6TanmhrQuOi84-PGf0637g)
 + [Java抽象方法：面向对象编程的“灵魂契约”](https://mp.weixin.qq.com/s/aaaip0Z5p7XFaeehWCfpCQ)
 + [Java学习笔记——面向对象编程（高级上）](https://mp.weixin.qq.com/s/cQ1YrWg0bpf_XuuKx5V98A)
@@ -312,7 +313,6 @@
 + [JavaUnsafe](https://mp.weixin.qq.com/s/pmTzD3cq6MmgQKj5QqN71g)
 + [系统实现中的“池化”艺术：线程池、连接池及其背后的价值](https://mp.weixin.qq.com/s/8e3pI_f6PwaJLiiAzrr5Lg)
 + [面试官：解释一下方法区中的符号引用和直接引用](https://mp.weixin.qq.com/s/b4argbammF3Kff85NpopgQ)
-+ [面试官：对于64位的long和double类型变量，volatile关键字有什么特别的效果？](https://mp.weixin.qq.com/s/lAzY7NLuT_7L6O7_O2h0vQ)
 + [面试官：String s = new String("xyz") 创建了几个对象？](https://mp.weixin.qq.com/s/CKDN03jJTCmFVJB_teI9OA)
 + [BigDecimal 为什么可以保证精度不丢失？](https://mp.weixin.qq.com/s/8-wtW0yV4__fCbVr0JUTYQ)
 + [深入了解：Java中BigDecimal比较大小的方法](https://mp.weixin.qq.com/s/pT0UDqHjpANHUAVJpYe8fw)
@@ -448,27 +448,21 @@
 + [Java线程安全 -- 线程安全类](https://mp.weixin.qq.com/s/S4CqtnVXK6tBAUQ9VwmoYQ)
 + [深入理解Java并发编程：线程池与锁机制](https://mp.weixin.qq.com/s/hdr29sf9-zEWlA17YTudHA)
 + [多线程二-同步锁](https://mp.weixin.qq.com/s/F-kfvzN2zzUt9BNDmfU2qg)
-+ [Java volatile关键字](https://mp.weixin.qq.com/s/Nf1G7JO8tt-LjY75nj55bQ)
 + [005架构师必修之java基础篇：搞懂多线程](https://mp.weixin.qq.com/s/K4XrCGZlXh7OW1bDGZYUDQ)
 + [【多线程与高并发】锁的底层实现](https://mp.weixin.qq.com/s/asYL-B2gdIGzV7EfKyeRYw)
 + [【多线程与高并发】锁的特性](https://mp.weixin.qq.com/s/kMXwY_mvvmWpq1VlVnRdug)
-+ [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
 + [【多线程与高并发】异常跟锁](https://mp.weixin.qq.com/s/NUyMPA5qCKG4DV3GRW8qgQ)
 + [【多线程与高并发】为什么用 final 修饰的变量就是线程安全的了呢？](https://mp.weixin.qq.com/s/XPCYfC-6BJlcGfW8cpJg-w)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
 + [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
-+ [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
 + [多线程如何共享数据？](https://mp.weixin.qq.com/s/fw2aOExln8H0mUZfXRCwSw)
 + [谈谈你对公平锁和非公平锁的理解](https://mp.weixin.qq.com/s/hT9FgjmR_U7p5Wm33vuRwQ)
 + [CAS和AQS实现原理详解(图文全面总结)](https://mp.weixin.qq.com/s/mHePKzmZRlmFbffgOR6B7A)
 + [面试官：synchronized的优化过程知道吗？我：阿巴阿巴](https://mp.weixin.qq.com/s/5HOHoD2LTcrvIFM2JvfRuA)
 + [面试官：为什么 wait, notify和 notifyAll是 Object 类的一部分，而不是 Thread 类的？](https://mp.weixin.qq.com/s/F8r32oB8j2qrd_QX0_EjeA)
 + [Java并发编程：使用Wait和Notify方法的注意事项](https://mp.weixin.qq.com/s/ENshChqFuiibMht6QNG7ZA)
-+ [面试官：volatile数组是否有效？数组元素的更新是否能够被立即看到](https://mp.weixin.qq.com/s/2FWJuprPReJdpPobrPp1vg)
-+ [深入理解Java中的volatile关键字](https://mp.weixin.qq.com/s/xD7-CUGcVmFN-66GuNIoJg)
 + [面试官：简要说一下线程和协程的区别？](https://mp.weixin.qq.com/s/6xtqKn5Sma3kQO8GXRlHqA)
-+ [腾讯一面：为什么volatile不能保证复合操作（如自增操作 i++）的线程安全？](https://mp.weixin.qq.com/s/FvkgoP_1TxP0Tyj1RJVevQ)
 + [看懂这篇，才能说了解并发底层技术！](https://mp.weixin.qq.com/s/SZl2E5NAhpYM4kKv9gyQOQ)
 + [关于高并发，我想告诉你这些！](https://mp.weixin.qq.com/s/ttMcWuNij5US8_DEJS5ZMw)
 + [java多线程（八）深入解析Java中的synchronized关键字：用法、原理与最佳实践](https://mp.weixin.qq.com/s/n9f8Yiw6k82Q9F16sW-yOw)
@@ -478,8 +472,6 @@
 + [面试官：简要说明偏向锁、轻量级锁和重量级锁的区别是什么？](https://mp.weixin.qq.com/s/f7cMoG0Q5T5PJhQnOBnirQ)
 + [主线程捕获子线程异常](https://mp.weixin.qq.com/s/iHWoNPd7cph4VnM__umUCA)
 + [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
-+ [volatile关键字，他是如何保证可见性，有序性？](https://mp.weixin.qq.com/s/dcQMDw8aWx_KcFRw5ZLPnQ)
-+ [美团一面：对 volatile了解吗？它是怎么解决并发问题的？原理是什么？](https://mp.weixin.qq.com/s/ZvfNyUO56ziyhTYyvRuGNw)
 + [如果你提交任务时，线程池队列已满，这时会发生什么？](https://mp.weixin.qq.com/s/BdsyUKvg1S-0Ar8tcYNW9g)
 + [原来，这才是JDK推荐的线程关闭方式](https://mp.weixin.qq.com/s/5T49yTy_BEkhXS26RCjbxg)
 + [面试官：单核 CPU 支持 Java 多线程吗？为什么？被问懵了！](https://mp.weixin.qq.com/s/BwMqY1yDzo8kZW7nBxtH0A)
@@ -499,13 +491,26 @@
 + [Java线程问题解析：如何保证线程B及时看到线程A的修改？](https://mp.weixin.qq.com/s/8zlO17_1WItnzu_EBDVgNQ)
 + [【2025版JVM面试题】16、as-if-serial与happens-before原则详解](https://mp.weixin.qq.com/s/YYWmQt1nT0zj-bvtZ0rASA)
 + [Java 线程池详细解析及实战案例（推荐）](https://mp.weixin.qq.com/s/E3nj9J5b7__GOoyF29mKgQ)
-+ [一不小心就翻车！volatile 和 Atomic 的区别你真的清楚吗？](https://mp.weixin.qq.com/s/r6TMN3EoWE0r7HlwBVn8_g)
 + [Java多线程中的Thread.sleep(0)与虚假唤醒问题](https://mp.weixin.qq.com/s/r8ylelUe_CDF-aMHbb_7pA)
-+ [可以说是一个奇形怪状的面试题：Bean中的CHM要不要加volatile？](https://mp.weixin.qq.com/s/YKJvVMg3WJxM9UejCaxWjA)
 + [线程池拒绝策略4大“送命题”：答错一个，offer直接凉凉！](https://mp.weixin.qq.com/s/R_G90pTP5Y94KdBfjPTLMw)
 + [线程池创建陷阱：为什么阿里禁止使用Executors？](https://mp.weixin.qq.com/s/63kiW0oYscP1YDo7z4a_4w)
+
+#### volatile
+
++ [Java volatile关键字](https://mp.weixin.qq.com/s/Nf1G7JO8tt-LjY75nj55bQ)
++ [【多线程与高并发】Volatile保证线程可见性](https://mp.weixin.qq.com/s/Hw-bYOlutJHLRT3NJJI6kA)
++ [Volatile：让多线程同步变得简单又神秘！](https://mp.weixin.qq.com/s/arhK3327ocXTwqIelSPPYg)
++ [面试官：volatile数组是否有效？数组元素的更新是否能够被立即看到](https://mp.weixin.qq.com/s/2FWJuprPReJdpPobrPp1vg)
++ [面试官：对于64位的long和double类型变量，volatile关键字有什么特别的效果？](https://mp.weixin.qq.com/s/lAzY7NLuT_7L6O7_O2h0vQ)
++ [深入理解Java中的volatile关键字](https://mp.weixin.qq.com/s/xD7-CUGcVmFN-66GuNIoJg)
++ [腾讯一面：为什么volatile不能保证复合操作（如自增操作 i++）的线程安全？](https://mp.weixin.qq.com/s/FvkgoP_1TxP0Tyj1RJVevQ)
++ [volatile关键字，他是如何保证可见性，有序性？](https://mp.weixin.qq.com/s/dcQMDw8aWx_KcFRw5ZLPnQ)
++ [美团一面：对 volatile了解吗？它是怎么解决并发问题的？原理是什么？](https://mp.weixin.qq.com/s/ZvfNyUO56ziyhTYyvRuGNw)
++ [一不小心就翻车！volatile 和 Atomic 的区别你真的清楚吗？](https://mp.weixin.qq.com/s/r6TMN3EoWE0r7HlwBVn8_g)
++ [可以说是一个奇形怪状的面试题：Bean中的CHM要不要加volatile？](https://mp.weixin.qq.com/s/YKJvVMg3WJxM9UejCaxWjA)
 + [为什么 volatile 不能保证 i++ 的原子性？但对 long 和 double 却是例外？](https://mp.weixin.qq.com/s/BOXYi3iCKSM41CYRUHrsLA)
 + [社招面试必考！Java 中能创建 volatile 数组吗？答案颠覆认知！](https://mp.weixin.qq.com/s/Lizty0Bm035HOx2YdV_W8g)
++ [面试官：“volatile 你用过吗？” 我一紧张，说错了！](https://mp.weixin.qq.com/s/UtmiyLPnqjIqM6Eu_WbYbg)
 
 ## 源码
 
@@ -607,6 +612,8 @@
 + [【2025版JVM面试题】17、深入Hotspot源码理解内存屏障如何禁止指令重排](https://mp.weixin.qq.com/s/rnzDpEegsk8Xka5Ll8JKBg)
 + [【2025版JVM面试题】3、京东二面：说下垃圾收集器CMS&G1的设计原理](https://mp.weixin.qq.com/s/-Ln0cr_LxrX8dZzeaU_12g)
 + [【2025版JVM面试题】2、蚂蚁一面：JVM为什么要设计STW机制？](https://mp.weixin.qq.com/s/KZLqwae1wpQdayZp5i4nPg)
++ [JVM、JRE和 JDK：理解Java开发的三大核心组件](https://mp.weixin.qq.com/s/qUzjNjVCgj6wNvEHL89cUA)
++ [面试官：Class常量池和运行时常量池的区别](https://mp.weixin.qq.com/s/EJp4lg7MpEV6K0s7DS8_Pg)
 
 # 核心库
 
@@ -815,6 +822,7 @@
 + [面试官：ThreadLocal的原理是什么？](https://mp.weixin.qq.com/s/KPyoz0uNikgD2vSkn6LO6g)
 + [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/r_pPhTtieZcok_vscZpkcQ)
 + [面试必杀技！ThreadLocal的难点、面试高频问题、实际使用场景等多个维度！](https://mp.weixin.qq.com/s/q6vkAhwnoyXVl5D7tAMjDg)
++ [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/nd6mDC2vJx-Aq3Eb18Jsaw)
 
 ### Lock
 
@@ -1171,6 +1179,7 @@
 + [为什么推荐用Redisson实现分布式锁，看完直呼好好好](https://mp.weixin.qq.com/s/m_9i4NfpbJeSXACHT9DE9g)
 + [Redisson 公平锁（Fair Lock）：分布式环境下的锁管理方案](https://mp.weixin.qq.com/s/woV5uf2aRhPZ5az3Jfd4mw)
 + [Redisson 分布式锁：Watchdog与自动续期机制详解](https://mp.weixin.qq.com/s/pOs93CjW1w0111rQxY6Ckg)
++ [MultiLock（RMultiLock）多个锁合并为一个锁](https://mp.weixin.qq.com/s/ApL7ntNHbg1_LSN0FOtymw)
 
 ## ribbon
 
@@ -1550,6 +1559,7 @@
 + [【2025版SpringCloud面试题】21、谈谈你对Seata数据源代理的理解](https://mp.weixin.qq.com/s/ivIlWDlIOaiNeMgM4MG7Zw)
 + [【2025版SpringCloud面试题】22、谈谈你对Sentinel的理解](https://mp.weixin.qq.com/s/prfWhRqTScIqKXCpvm9HPA)
 + [Spring Cloud Eureka 架构原理及集群搭建，实战讲解！](https://mp.weixin.qq.com/s/QNcqZUrGfTCiuTaqj8WHfA)
++ [Spring Cloud + Nacos + 负载均衡器实现全链路灰度发布实战](https://mp.weixin.qq.com/s/STB3Kr9opWOOc-Vq6-ciiA)
 
 #### alibaba
 
@@ -2181,6 +2191,7 @@
 + [SpringBoot与Redis整合，实现千万级数据量的实时热销商品排行榜功能](https://mp.weixin.qq.com/s/gTFCRKdxZVZmWp7KfDwK9Q)
 + [Spring Boot中记录JDBC、JPA及MyBatis执行SQL及参数的正确姿势](https://mp.weixin.qq.com/s/vVpYj0ZBLC2OVfwGQhzpvQ)
 + [在 SpringBoot 项目中如何动态切换数据源、数据库？](https://mp.weixin.qq.com/s/TPbzdhjTdTyo7UHhhmB0-A)
++ [性能调优实战：Spring Boot 通过多线程处理SQL IN语句大量值的优化方案](https://mp.weixin.qq.com/s/uZoCjx9hvVg64wPS83d-Fg)
 
 ##### TRANSACTION
 
@@ -2692,6 +2703,7 @@
 + [OkHttp，一个Java网络请求的信使！](https://mp.weixin.qq.com/s/HPM4YJrk1JmT4kqN1dbp4g)
 + [服务发现、配置管理工具：Consul 简介](https://mp.weixin.qq.com/s/RTh1VfiXSUFSMsr2LR4PBw)
 + [如何利用 Java 在线生成 PDF 文件？看这篇教程就够了！](https://mp.weixin.qq.com/s/KlvkBW_ycC8OHTS4G0N0yQ)
++ [还在为 Excel 导入发愁？Apache POI 一招搞定](https://mp.weixin.qq.com/s/BvhNltuKvUbPAR7Au3F_pg)
 
 # 其它环境
 

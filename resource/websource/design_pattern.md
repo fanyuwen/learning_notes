@@ -117,6 +117,7 @@
 ## 原型模式
 
 + [什么是原型模式？](https://mp.weixin.qq.com/s/LwwARjNsmXZPtL5bxNE_tA)
++ [【设计模式】从零开始，用原型模式简化你的Java对象创建过程！](https://mp.weixin.qq.com/s/zV3YkeiKEfZ5cAwUMyDXeQ)
 
 ## 外观模式
 

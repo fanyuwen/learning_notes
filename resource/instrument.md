@@ -75,6 +75,7 @@
 + 应用服务器 [wildfly](https://www.wildfly.org/)
 + web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)
 + 工作流平台 [airflow](https://airflow.apache.org/)
++ 容器镜像工具 [quay](https://quay.io/)
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)

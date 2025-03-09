@@ -77,6 +77,7 @@
 + [面试问我 SQL 回表？我瞬间懵了！](https://mp.weixin.qq.com/s/w4uw6K8Uy3GuLRJRctcazQ)
 + [如何判断 SQL 查询是否使用索引并优化查询性能](https://mp.weixin.qq.com/s/nGL72cRkddvpmW2OV58Neg)
 + [90%的网站都遇到过这个漏洞：SQL注入攻击，你中招了吗？](https://mp.weixin.qq.com/s/OEs7f4rnXOWXN2shiGSYKA)
++ [一次有意思的 SQL 优化实操，30248.271s 到 0.001s](https://mp.weixin.qq.com/s/d5SKCoZ5BISWztG_N5dA3g)
 
 # 本地数据库
 
@@ -418,6 +419,7 @@
 + [一文读懂数据库并发三大“坑”：幻读、脏读和不可重复读！](https://mp.weixin.qq.com/s/lGsxRuD2dfl_x5V3rjPZAg)
 + [谈谈你们选什么事务隔离级别](https://mp.weixin.qq.com/s/9f8JesHhyHuwnW0AqEwKhA)
 + [【高手进阶】MySQL事务的那些事](https://mp.weixin.qq.com/s/ZJB3mxrp5u8NurT0CIpZjw)
++ [MySQL事务隔离级别：从脏读到幻读的全链路防御指南](https://mp.weixin.qq.com/s/d6pAqT9RuuFDS7mJkzi4Zg)
 
 #### 索引
 

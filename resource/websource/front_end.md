@@ -128,6 +128,7 @@
 + [javascript如何实现多线程](https://mp.weixin.qq.com/s/o6lhu-0vrnaYc7APcpupiA)
 + [这样优化数组mise.all，性能提升60%](https://mp.weixin.qq.com/s/Bh-v_Y1n79yx1g_txG5Vjw)
 + [前端项目中使用Mock的方案](https://mp.weixin.qq.com/s/Dx8oJJtUems_OHS9AV4pEA)
++ [JavaScript双问号操作符(??)的惊人用法，太强大了](https://mp.weixin.qq.com/s/2a0y2PfWjwfSS028pDHB4A)
 
 # 框架
 
@@ -160,6 +161,7 @@
 + [Vue 项目中的 vue.config.js：从基础到高级的全面解析](https://mp.weixin.qq.com/s/wyCfkuNXuhSzXn6_3eTtkg)
 + [深入浅出Vuex](https://mp.weixin.qq.com/s/tKBUYF_qnhW31bD16mi42Q)
 + [Vue3 - 基本语法使用二](https://mp.weixin.qq.com/s/0J_3n_fBb1TzXgDFIkkWHA)
++ [Vue3 - 计算属性](https://mp.weixin.qq.com/s/GFvURoIh03DS_lN5vnHVJg)
 
 ## react
 

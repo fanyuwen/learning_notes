@@ -37,6 +37,7 @@
 + [MQ中间件全解析：选择最适合你的消息队列解决方案](https://mp.weixin.qq.com/s/Mc8wIkWxRLIDIv_VAJMi5w)
 + [MQ 消息堆积了怎么办？批量消费具体怎么做？一步步教你如何解决！](https://mp.weixin.qq.com/s/oGM5nnriFl_jR5-sry6ksQ)
 + [阿里二面：使用消息队列怎样防止消息重复？](https://mp.weixin.qq.com/s/h80PEAANoEh4ApRA02tLNg)
++ [基于FluxMQ构建车联网平台百万级消息吞吐架构方案](https://mp.weixin.qq.com/s/rhjaXQPKNxNOidrvrHIzDQ)
 
 # KAFKA
 
@@ -84,6 +85,7 @@
 + [Kafka Broker 集群部署与 I/O 性能优化指南](https://mp.weixin.qq.com/s/9p2v6YLurgmYe2Fa_Z3JWA)
 + [Kafka性能优化指南：如何有效避免消息积压](https://mp.weixin.qq.com/s/zvsMbxWGtQFODrt0Oc4OSw)
 + [Kafka消费滞后问题全解析：原因、监控与解决方案](https://mp.weixin.qq.com/s/tbgmRwz7iLDLjge4OoozQA)
++ [Kafka最全详解(万字图文总结)](https://mp.weixin.qq.com/s/NzIVPGx3fKd-gHRUuQaL-w)
 
 # ROCKETMQ
 

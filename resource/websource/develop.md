@@ -99,6 +99,7 @@
 + [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
 + [DDD分层架构：有效降低层与层之间的依赖](https://mp.weixin.qq.com/s/o33Z_AsNgltXLP84afUunQ)
 + [货拉拉用户CRM-DDD战术设计改造实践](https://mp.weixin.qq.com/s/dN5m9RQlIKZEu-ZvJhg2PA)
++ [技术Leader如何落地DDD - 爆改团队（一）](https://mp.weixin.qq.com/s/dXqFp9FVYFhWhDlb0X9aFg)
 
 ## 微服务
 
@@ -454,19 +455,22 @@
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/RLDUlQDJQzgHft1fRERLyg)
 + [常见加密算法解析 - 2](https://my.oschina.net/u/2512041/blog/4377017)
 + [深入理解OAuth 2.0：原理、流程与实践](https://mp.weixin.qq.com/s/lAWgJ3oegR_edo-OqVjP0w)
++ [OAuth2.0原理及常见漏洞](https://mp.weixin.qq.com/s/NmUsbHjDgL3YZxskTCa5vA)
 + [敏感数据不加密就提交到GitHub，你怕不是没经历过社会的毒打哦](https://mp.weixin.qq.com/s/fsMBgOP9blx2Mf5RZano2Q)
 + [数据保护技巧揭秘：为导出文件添加防护密码的实用指南](https://my.oschina.net/powertoolsteam/blog/11205422)
 + [漫画图解数字签名和数字证书](https://mp.weixin.qq.com/s/-MuFDW97RphAI-3AzvecgQ)
 + [你的登录接口真的安全吗？](https://mp.weixin.qq.com/s/xmV54gessRisVQuD5SMQEQ)
-+ [网关系统就该这么设计（万能通用），稳的一批！](https://mp.weixin.qq.com/s/bC5F0eVDc7CHi0s7_Ed1Mg)
 + [信息安全，加密（encrypt）和签名（sign）是两回事](https://mp.weixin.qq.com/s/fWh5xzWAs1MdodpM-HdThg)
 + [AES加解密算法的原理和应用与安全性解析](https://mp.weixin.qq.com/s/B3Up_ZzXmzGcJe5wVdbWvQ)
 + [密码学承诺原理与应用 - 概览](https://mp.weixin.qq.com/s/_JArh9nTuBl8-9sT981VzA)
++ [网关系统就该这么设计（万能通用），稳的一批！](https://mp.weixin.qq.com/s/bC5F0eVDc7CHi0s7_Ed1Mg)
 + [您的 API 网关足够安全吗？](https://my.oschina.net/u/5246775/blog/16672740)
++ [API开放平台网关vs内部网关：如何选择最适合你的API网关？](https://mp.weixin.qq.com/s/DnSLss-ZUJZTI-lZtox6hg)
 + [2025开篇|揭密支付安全：为什么你的交易无法被篡改](https://mp.weixin.qq.com/s/xrblXEZcBX3q5PBE8ChV0g)
 + [支付系统加解密技术介绍及实践](https://mp.weixin.qq.com/s/Ox8mRkMD5oVp-8m3Zdwoyg)
 + [【java面试100问】39 敏感数据怎么加解密和传输？](https://mp.weixin.qq.com/s/_Kl_eBv8TRPRRTxPbZzt5A)
 + [AES加密过程白话版解析](https://mp.weixin.qq.com/s/3jwOha0CBiRtq0seCFtgbA)
++ [5种常见的加密算法，建议掌握！](https://mp.weixin.qq.com/s/bivOLtm9M9KpWgaK2wj5AQ)
 
 ### 鉴权
 

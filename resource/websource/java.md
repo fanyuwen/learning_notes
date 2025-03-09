@@ -33,6 +33,7 @@
 + [深入理解Java多态：概念、实现原理与应用](https://mp.weixin.qq.com/s/qVczdbo-xSl5Ll_Sy9o6_Q)
 + [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
 + [Java中的super关键字：深入理解继承中的父类操控术](https://mp.weixin.qq.com/s/ZIu2_dedEqE9PhHRbYkzJQ)
++ [Java中的abstract class与interface：核心区别与使用场景](https://mp.weixin.qq.com/s/dJP49LmpbT1AzScb2mvTrw)
 + [方法重载 vs 方法重写：Java中的两大核心概念](https://mp.weixin.qq.com/s/SMSzwvENAECQOoptw04MHA)
 + [深入理解Java中的继承：从基础到高级应用](https://mp.weixin.qq.com/s/Y9YyLQkV-x1t5LicmdKVqw)
 + [Java 枚举实战案例，让你告别繁琐的常量管理！](https://mp.weixin.qq.com/s/KI63wEPcqWTRuNwM897e3A)
@@ -614,6 +615,9 @@
 + [【2025版JVM面试题】2、蚂蚁一面：JVM为什么要设计STW机制？](https://mp.weixin.qq.com/s/KZLqwae1wpQdayZp5i4nPg)
 + [JVM、JRE和 JDK：理解Java开发的三大核心组件](https://mp.weixin.qq.com/s/qUzjNjVCgj6wNvEHL89cUA)
 + [面试官：Class常量池和运行时常量池的区别](https://mp.weixin.qq.com/s/EJp4lg7MpEV6K0s7DS8_Pg)
++ [JVM 系列：堆内存溢出 | 零基础](https://mp.weixin.qq.com/s/abt4swZNDyTg70TNL71YKA)
++ [视频上传报OutOfMemoryError？一次堆内存优化的全过程！](https://mp.weixin.qq.com/s/zTgL6LToNZsGTTPnell-3Q)
++ [【2025版JVM面试题】27、jvm内存区域](https://mp.weixin.qq.com/s/q1J1yiQfDB6x7iK4tk8mXg)
 
 # 核心库
 
@@ -762,6 +766,7 @@
 ### ThreadPool
 
 + [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
++ [大厂架构师教你：线程池参数优化实战——如何根据QPS设计合理线程数？](https://mp.weixin.qq.com/s/tBEY1udk-XI3XcX2Xd3vtw)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
 + [如何正确判断Java线程池的大小](https://mp.weixin.qq.com/s/pUressIBVdQqyD2LKRcaRA)
 + [面试官：线程池核心线程会被销毁吗？](https://mp.weixin.qq.com/s/-klggkF2nE8O_zO_r0J0DQ)
@@ -1248,6 +1253,7 @@
 + [这6个Spring高级开发技巧掌握了吗？](https://mp.weixin.qq.com/s/0fwbtiUrG2n03pmc3aHwTg)
 + [使用 Spring Expression 搞一套出题系统](https://mp.weixin.qq.com/s/Ug0KZf_7lVt5z13hCjZndg)
 + [阿里二面：谈谈 @Autowired 和 @Resource 两个注解的区别](https://mp.weixin.qq.com/s/muR62B3R3BKl5cZSasgwDA)
++ [Spring（二）彻底搞懂 IoC 与 DI，从原理到实战](https://mp.weixin.qq.com/s/KYeLuWiM-6UU4QqxlTqy_g)
 
 #### 配置
 
@@ -2268,6 +2274,7 @@
 + [支撑每秒数百万订单无压力，SpringBoot + Disruptor 太猛了！](https://mp.weixin.qq.com/s/dNZt0WqRDFT8owX4oOx4xA)
 + [SpringBoot + Disruptor 实现特快高并发处理，支撑每秒 600 万订单无压力！](https://mp.weixin.qq.com/s/ThTqb1z04ixc0NNJ-ot9_w)
 + [SpringBoot与Disruptor整合，实现电商秒杀百万级别交易订单的高性能无锁异步处理](https://mp.weixin.qq.com/s/0QBZCHQ4cgcD9GIRQxNNsg)
++ [百万级订单毫秒响应！SpringBoot 整合 Disruptor，打造高性能秒杀系统](https://mp.weixin.qq.com/s/fhTYO3MlF46oCSEpdoY2XA)
 
 ##### AKKA
 
@@ -2287,6 +2294,7 @@
 + [Spring Boot 3 监听器详解（含源码解析）](https://mp.weixin.qq.com/s/pKVF0x4dROxkkHjO7G0GDg)
 + [Spring Boot 基于 ApplicationListener 的扩展应用](https://mp.weixin.qq.com/s/6xDwT4oPL_bBEp3BAigoNQ)
 + [解锁 Spring Boot 中 @EventListener 注解的正确用法](https://mp.weixin.qq.com/s/pvAPs4ibKpoZMxENBA7g0w)
++ [SpringBoot + ResponseBodyEmitter 实时异步流式推送，优雅！](https://mp.weixin.qq.com/s/-MJjfOfGMxX_0i-1cr7jWg)
 
 #### CACHE
 
@@ -2538,6 +2546,7 @@
 + [SpringBoot与HBase整合，实现医疗影像数据归档存储系统](https://mp.weixin.qq.com/s/reQskDXiHpOz0WQltt8kTQ)
 + [Spring Boot + Lua 手写分布式锁（支持自动续期 / 可重入）](https://mp.weixin.qq.com/s/-UcNTRSiKTrNIC4BvEFrNA)
 + [SpringBoot与ZooKeeper整合，实现智能停车计费系统](https://mp.weixin.qq.com/s/CbYjczrgnb8tg2c4RNpYaw)
++ [SpringBoot与Axon Framework整合，实现事件溯源驱动的分布式业务系统](https://mp.weixin.qq.com/s/wLQm87zaKBPfqMoLxcVsgA)
 
 #### 自定义实现
 
@@ -2704,6 +2713,8 @@
 + [服务发现、配置管理工具：Consul 简介](https://mp.weixin.qq.com/s/RTh1VfiXSUFSMsr2LR4PBw)
 + [如何利用 Java 在线生成 PDF 文件？看这篇教程就够了！](https://mp.weixin.qq.com/s/KlvkBW_ycC8OHTS4G0N0yQ)
 + [还在为 Excel 导入发愁？Apache POI 一招搞定](https://mp.weixin.qq.com/s/BvhNltuKvUbPAR7Au3F_pg)
++ [Java黑科技！一行代码搞定耗时性能追踪](https://mp.weixin.qq.com/s/rblDfe4mdcrb0GMQbK_cBA)
++ [【工具分享】DecryptTools一款综合的加解密工具](https://mp.weixin.qq.com/s/basjxQTiloF5E507uuhIqg)
 
 # 其它环境
 

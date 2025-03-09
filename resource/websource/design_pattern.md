@@ -108,6 +108,7 @@
 + [使用责任链模式重写条件判断](https://mp.weixin.qq.com/s/LLYT4eskXh_r73mG8cVXAw)
 + [太优雅了，责任链模式在项目中的实战应用](https://mp.weixin.qq.com/s/AY9VXqmqDEX62BfMiuRuSg)
 + [责任链实战的高级用法：多级校验、工作流，这样写代码才足够优雅！](https://mp.weixin.qq.com/s/xKswt40pQJlZUFqHHMvMTw)
++ [面试官：在项目中用过责任链模式吗？](https://mp.weixin.qq.com/s/JV1buJqU7dWPLkOhSnzMhA)
 
 ## 观察者模式
 

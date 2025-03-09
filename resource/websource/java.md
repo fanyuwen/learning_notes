@@ -82,6 +82,7 @@
 + [JEP 481：作用域值API的第3个预览版随JDK 23发布，带来关键增强](https://mp.weixin.qq.com/s/woAR6QjUlyWcISwPYRubqA)
 + [Project Leyden 早期访问版本开放下载：Java 程序启动速度提升 2 至 3 倍](https://mp.weixin.qq.com/s/inM7uwIC8_AubyXZUhBT1g)
 + [JDK8中新增的功能（七大类功能更新与改进）](https://mp.weixin.qq.com/s/L3qx9Fz4hKHnWyUSyCJBFQ)
++ [Record类型隐秘陷阱：Java 17开发者集体踩坑实录](https://mp.weixin.qq.com/s/UmQJTnFE8UswWOWAuVYh2A)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
@@ -495,6 +496,7 @@
 + [Java多线程中的Thread.sleep(0)与虚假唤醒问题](https://mp.weixin.qq.com/s/r8ylelUe_CDF-aMHbb_7pA)
 + [线程池拒绝策略4大“送命题”：答错一个，offer直接凉凉！](https://mp.weixin.qq.com/s/R_G90pTP5Y94KdBfjPTLMw)
 + [线程池创建陷阱：为什么阿里禁止使用Executors？](https://mp.weixin.qq.com/s/63kiW0oYscP1YDo7z4a_4w)
++ [深入理解Java锁升级：无锁 → 偏向锁 → 轻量级锁 → 重量级锁](https://mp.weixin.qq.com/s/YJCIdcXmGxc_4dMlwl5nwA)
 
 #### volatile
 
@@ -519,7 +521,7 @@
 + [深入分析 Java 中的 PriorityQueue 底层实现与源码](https://my.oschina.net/u/4526289/blog/11048033)
 + [面试官：说下 LinkedList 的实现原理](https://mp.weixin.qq.com/s/JSY-ugnlHJCqkLLwFu1Nkw)
 
-## jvm
+## JVM
 
 + [JVM核心知识体系](https://mp.weixin.qq.com/s/DSqk4enXer1-RzGvNr6_GQ)
 + [JVM的三种执行模式](https://mp.weixin.qq.com/s/Z25uxQrTZ-36tN8NAYDptQ)
@@ -618,6 +620,8 @@
 + [JVM 系列：堆内存溢出 | 零基础](https://mp.weixin.qq.com/s/abt4swZNDyTg70TNL71YKA)
 + [视频上传报OutOfMemoryError？一次堆内存优化的全过程！](https://mp.weixin.qq.com/s/zTgL6LToNZsGTTPnell-3Q)
 + [【2025版JVM面试题】27、jvm内存区域](https://mp.weixin.qq.com/s/q1J1yiQfDB6x7iK4tk8mXg)
++ [JVM 系列：JVM 内存结构深度解析](https://mp.weixin.qq.com/s/2B9amEScPUsLEXpzBan30w)
++ [分布式系统 JVM 深度探索与实战进阶（10）](https://mp.weixin.qq.com/s/zMTYcBTSCxwoRcr7ILA7Xw)
 
 # 核心库
 
@@ -936,6 +940,7 @@
 + [Maven多模块工程最佳实践及详细示例](https://mp.weixin.qq.com/s/TEW-FpseM2EmEOVNoCmkgA)
 + [简化Maven项目依赖：优雅去除未使用Jar包](https://mp.weixin.qq.com/s/DWUkenxsvXw-nKu7z8f2aA)
 + [Maven中pom.xml文件配置详解](https://mp.weixin.qq.com/s/cqimIih6y7eE8MYtFcUDBQ)
++ [Maven里都有哪些类型的依赖？编译依赖、管理依赖、运行依赖、提供依赖、测试依赖...这些依赖都有什么作用呢？](https://mp.weixin.qq.com/s/PFlZ9iDWBZeTiel04wgX9g)
 
 # 功能
 
@@ -961,6 +966,9 @@
 + [Arthas 工具实战：热更新修复问题，业务零影响](https://mp.weixin.qq.com/s/VNVYqU_OPTguNCuDP-Rh8w)
 + [Linux教程：如何使用Arthas处理诊断线上程序运行问题](https://mp.weixin.qq.com/s/eQVaq5i28ifsG78FGJCoWA)
 + [【2025版JVM面试题】7、阿里巴巴内部JVM调优工具Arthas详解](https://mp.weixin.qq.com/s/zLCaWRkUoJQmIgnjXhxElQ)
++ [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/HicFvJ5dm86n0ty6vpW-OQ)
++ [Arthas 工具实战：系统频繁重启问题排查](https://mp.weixin.qq.com/s/MpfzNl1qNnPhkhwQPmrDkQ)
++ [Arthas 工具实战：从 60秒到 6秒的性能逆袭之路](https://mp.weixin.qq.com/s/PSeYmPBUWHJ42-ITR5cNjg)
 
 ## caffeine
 
@@ -1185,6 +1193,8 @@
 + [Redisson 公平锁（Fair Lock）：分布式环境下的锁管理方案](https://mp.weixin.qq.com/s/woV5uf2aRhPZ5az3Jfd4mw)
 + [Redisson 分布式锁：Watchdog与自动续期机制详解](https://mp.weixin.qq.com/s/pOs93CjW1w0111rQxY6Ckg)
 + [MultiLock（RMultiLock）多个锁合并为一个锁](https://mp.weixin.qq.com/s/ApL7ntNHbg1_LSN0FOtymw)
++ [Redisson ReadWriteLock：高并发场景下的高效锁机制](https://mp.weixin.qq.com/s/8x5wSz3lN4U-KW361AQwdg)
++ [Redisson RedLock 分布式锁深度实战：原理、争议与高可用架构](https://mp.weixin.qq.com/s/Sq2cARqFwX1FJhaIggk5JQ)
 
 ## ribbon
 
@@ -2547,6 +2557,8 @@
 + [Spring Boot + Lua 手写分布式锁（支持自动续期 / 可重入）](https://mp.weixin.qq.com/s/-UcNTRSiKTrNIC4BvEFrNA)
 + [SpringBoot与ZooKeeper整合，实现智能停车计费系统](https://mp.weixin.qq.com/s/CbYjczrgnb8tg2c4RNpYaw)
 + [SpringBoot与Axon Framework整合，实现事件溯源驱动的分布式业务系统](https://mp.weixin.qq.com/s/wLQm87zaKBPfqMoLxcVsgA)
++ [Spring Boot 3.4+TDengine 3.0：时序数据存储成本直降80%的架构方案](https://mp.weixin.qq.com/s/ECcyu-ge7fN3Y6k9RQiC5w)
++ [Spring Boot 3.4+Wasm：让Java后端逻辑在浏览器中“狂奔”](https://mp.weixin.qq.com/s/BDxC7Px-2r4J_bp-jYXoOg)
 
 #### 自定义实现
 
@@ -2715,6 +2727,7 @@
 + [还在为 Excel 导入发愁？Apache POI 一招搞定](https://mp.weixin.qq.com/s/BvhNltuKvUbPAR7Au3F_pg)
 + [Java黑科技！一行代码搞定耗时性能追踪](https://mp.weixin.qq.com/s/rblDfe4mdcrb0GMQbK_cBA)
 + [【工具分享】DecryptTools一款综合的加解密工具](https://mp.weixin.qq.com/s/basjxQTiloF5E507uuhIqg)
++ [这是一款非常牛批的wifi密码强度检测工具](https://mp.weixin.qq.com/s/5iaCMMKn5YK-Xm9OTILG-w)
 
 # 其它环境
 

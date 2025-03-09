@@ -134,6 +134,7 @@
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
 + [漫画 | 为什么C语言永不过时？](https://mp.weixin.qq.com/s/8KoL0Eoi2j4ANlxNEpGfBA)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
++ [指针学不会？看完这 15 张动态图，隔壁文科生都懂了！](https://mp.weixin.qq.com/s/FP5KkSevhgUY4UdCQbrY9g)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)

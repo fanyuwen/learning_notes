@@ -541,6 +541,7 @@
 + [业务开发时,接口不能对外暴露怎么办?](https://mp.weixin.qq.com/s/IafjYqQl7zlgijBTvaCSBw)
 + [Java 中实现用户登录次数限制的多种方案](https://mp.weixin.qq.com/s/60lJFeUpqzeGidW846RkbA)
 + [整理常见的多租户系统的实现方案](https://mp.weixin.qq.com/s/bD2B6_pCzAMPiAXz4GPEzw)
++ [聊聊技术方案设计的普遍问题与参考实践](https://mp.weixin.qq.com/s/mVr0wwHrnn5knxKj7-syRg)
 
 # 测试相关
 
@@ -593,6 +594,8 @@
 + [5. 字节二面：如何设计一个支持 10 万 QPS 的会员系统](https://mp.weixin.qq.com/s/p-XmnXUWVHmnYyUgxKl59A)
 + [【音视频】直播推流组件架构、重点需求技术方案和常见问题解析](https://mp.weixin.qq.com/s/ThYcQupJGU9lEPhU_4_kYg)
 + [京东面试：百万并发下的商品搜索，你能扛住几轮？](https://mp.weixin.qq.com/s/0IfihMnICceTdOCOzRilYA)
++ [聊一下支付系统中防错设计的常见的问题？](https://mp.weixin.qq.com/s/nqTk6R5NQ-rwjHRR2hxzzg)
++ [一文搞懂“退款中心”：架构、流程、系统、退转付](https://mp.weixin.qq.com/s/oi2ttYuTOcHcf_sBG-ypiw)
 
 ## 代码相关
 

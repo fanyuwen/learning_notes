@@ -402,6 +402,7 @@
 + [美团面试：MySQL悲观锁是什么？谈谈底层实现原理？](https://mp.weixin.qq.com/s/oILBAneMNvYG4OU5tuADAg)
 + [MySQL锁机制全解析：高并发场景下的核心技术揭秘](https://mp.weixin.qq.com/s/77ih7fxaNajijOMJOwaT6w)
 + [MySQL - 穿透锁机制，一文完全讲透](https://mp.weixin.qq.com/s/TUOMM0vUNhBCyE6CqqN3YA)
++ [MySQL死锁全解析：从原理到实战的破局指南](https://mp.weixin.qq.com/s/JoXK3e9kxrSNbcENcLp_eg)
 
 #### 事务
 
@@ -480,6 +481,8 @@
 + [覆盖索引、最左前缀与索引下推](https://mp.weixin.qq.com/s/gu0G8J49rOFJ9KmXUlP4VQ)
 + [为什么你的SQL总是慢？揭秘索引的底层真相](https://mp.weixin.qq.com/s/0knIM2vT0Zr1Cc99o8qwuA)
 + [MySQL索引设计的艺术：你的表该建多少个索引才健康](https://mp.weixin.qq.com/s/0Y5BT_jJcYWx9mK-7t2iFg)
++ [阿里P8面试官连环逼问MySQL索引：从原理到死锁，答完我后背全湿了](https://mp.weixin.qq.com/s/90_MfmQCjYnL8VfJpDQ6uA)
++ [MySQL索引创建，用普通索引还是唯一索引？](https://mp.weixin.qq.com/s/dSuxEvv-B8TCqDVfpjfdvw)
 
 ### PostgreSQL
 

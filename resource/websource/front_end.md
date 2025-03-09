@@ -256,6 +256,7 @@
 + [前端性能优化的几个大招（理论+实践，看完就是Leader水平）](https://mp.weixin.qq.com/s/SM1po543uVENh9k7Rh8ZPw)
 + [《每天一题》你了解TypeScript工具类型Exclude与Omit 的使用吗？及它们两个的区别？](https://mp.weixin.qq.com/s/ZGxswkqNM9BsjCm1fEG_rg)
 + [CSS 高级技巧与最佳实践：让你的样式代码更强大、更优雅](https://mp.weixin.qq.com/s/CX-D-nmg2A8qJqXX88VGeg)
++ [2025 前端 5 个顶级通用拖拽库](https://mp.weixin.qq.com/s/VAY6kcEv7EmvY8tUXLSIsg)
 
 # 杂谈
 

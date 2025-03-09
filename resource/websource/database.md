@@ -503,6 +503,7 @@
 + [深入解析PostgreSQL 15.8的窗口函数：高效数据处理的利器](https://mp.weixin.qq.com/s/R7dq-rAzN_cemm7rbYRX-A)
 + [Postgres内核 checkpoint 设计机制](https://mp.weixin.qq.com/s/3GSuookkNpjrLSk-pKVKWA)
 + [postgresql（三）：巧用 array_agg 保留明细数据解决分组查询重复计数问题](https://mp.weixin.qq.com/s/_h95SP7QvM_wwYY5LpMkrg)
++ [PostgreSQL 中的子事务与性能](https://mp.weixin.qq.com/s/zA8eC5F_2QIScm6W4CevCg)
 
 ### SQLSERVER
 

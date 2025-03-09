@@ -71,6 +71,7 @@
 + [Go 语言中不可不知的语法糖](https://mp.weixin.qq.com/s/dim6CFoJK4POZCky9zDY_g)
 + [Go 语言 Base64 编码解码实战指南](https://mp.weixin.qq.com/s/ozOxt353Wch9MXznrov0Cw)
 + [Go 微服务开发框架，集成自动代码生成、Gin 和 GRPC](https://mp.weixin.qq.com/s/WdrMkVLqksZPg7sstx7pdQ)
++ [Go 语言常见错误——控制结构](https://mp.weixin.qq.com/s/JSOJs5mH-mEEj9E1qxxyuw)
 + [解析 Go 切片：为何按值传递时会发生改变？｜得物技术](https://my.oschina.net/u/5783135/blog/16497987)
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
 + [协程 goroutine 和 通道 channel](https://mp.weixin.qq.com/s/6Xt91GoVkmi86o8Z3oFlQw)

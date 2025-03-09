@@ -55,6 +55,7 @@
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
++ [一行代码干掉 Promise.all！JavaScript 异步编程的终极简化！](https://mp.weixin.qq.com/s/VTI92NAmLgmbsG4nOl04dg)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
 + [怎样设置定时任务](https://mp.weixin.qq.com/s/FNtBfmvJfsaMS4Tl_EgVUg)
@@ -162,6 +163,7 @@
 + [深入浅出Vuex](https://mp.weixin.qq.com/s/tKBUYF_qnhW31bD16mi42Q)
 + [Vue3 - 基本语法使用二](https://mp.weixin.qq.com/s/0J_3n_fBb1TzXgDFIkkWHA)
 + [Vue3 - 计算属性](https://mp.weixin.qq.com/s/GFvURoIh03DS_lN5vnHVJg)
++ [Vue3 组件详解-从入门到实战](https://mp.weixin.qq.com/s/O_KubaGTz6QEp78H5qS2HA)
 
 ## react
 

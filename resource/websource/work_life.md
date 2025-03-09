@@ -56,6 +56,7 @@
 + [团队准备解散了。](https://mp.weixin.qq.com/s/MgDxSGHHc3thY5G54IJENQ)
 + [中年人失业在深圳有多惨：曾月收入大厂6万，39岁贷款买了1000多万的房子，月供4万，如今41被裁，找不到工作](https://mp.weixin.qq.com/s/smlwPJSsb3rK7P5NI_qhxA)
 + [32岁，工作8年了，今天突然收到降薪了20%，领导说别着急，相比裁员降薪，算好的了，感觉被套路了](https://mp.weixin.qq.com/s/tTI3lcNanNgqYWtBU3KjJA)
++ [程序员别等危机来了才后悔！提前规划未来刻不容缓！](https://mp.weixin.qq.com/s/MO_VU6fHNEUDPlrxbrOzUg)
 
 # 个人成长
 

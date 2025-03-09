@@ -100,6 +100,7 @@
 + [DDD分层架构：有效降低层与层之间的依赖](https://mp.weixin.qq.com/s/o33Z_AsNgltXLP84afUunQ)
 + [货拉拉用户CRM-DDD战术设计改造实践](https://mp.weixin.qq.com/s/dN5m9RQlIKZEu-ZvJhg2PA)
 + [技术Leader如何落地DDD - 爆改团队（一）](https://mp.weixin.qq.com/s/dXqFp9FVYFhWhDlb0X9aFg)
++ [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
 
 ## 微服务
 

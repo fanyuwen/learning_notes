@@ -693,6 +693,7 @@
 + [pyPortMan：跨平台多账户管理，自动化交易高效工具](https://mp.weixin.qq.com/s/pb1NlbI2x2BGC4CNQz09_w)
 + [PyUIBuilder：用拖拽的方式轻松构建Python GUI](https://mp.weixin.qq.com/s/ejehNaoXgt9lp1JKB9ZoXw)
 + [conda 使用笔记](https://mp.weixin.qq.com/s/AktsGh2uKa7KxDe5V_W4Xw)
++ [FastUI：Python开发者轻松构建响应式Web UI](https://mp.weixin.qq.com/s/7Qc1REuDLMHGKj-o4sAw4A)
 
 ## 框架
 

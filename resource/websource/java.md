@@ -36,6 +36,7 @@
 + [Java中的abstract class与interface：核心区别与使用场景](https://mp.weixin.qq.com/s/dJP49LmpbT1AzScb2mvTrw)
 + [方法重载 vs 方法重写：Java中的两大核心概念](https://mp.weixin.qq.com/s/SMSzwvENAECQOoptw04MHA)
 + [深入理解Java中的继承：从基础到高级应用](https://mp.weixin.qq.com/s/Y9YyLQkV-x1t5LicmdKVqw)
++ [Java接口中的“暗雷”：多接口重名常量如何排雷？](https://mp.weixin.qq.com/s/eWRkgGY_9hQMQqXYjvcAiA)
 + [Java 枚举实战案例，让你告别繁琐的常量管理！](https://mp.weixin.qq.com/s/KI63wEPcqWTRuNwM897e3A)
 + [JAVA开始第一课-计算机编程基础](https://mp.weixin.qq.com/s/Mbf2cxaaOgfM5RvDSwpCWA)
 + [Java学习笔记——泛型(Generics)](https://mp.weixin.qq.com/s/r-idHnUhGB9PXoqZ6laF3Q)
@@ -87,6 +88,7 @@
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
++ [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
@@ -390,6 +392,7 @@
 + [并发编程 - 线程同步（七）之互斥锁Monitor](https://mp.weixin.qq.com/s/K4tXKh3Scw-wbnZAJHAY-w)
 + [并发编程 - 线程同步（八）之自旋锁SpinLock](https://mp.weixin.qq.com/s/XXlArlHT0vywzP7Cb0_18w)
 + [并发编程 - 线程同步（九）之信号量Semaphore](https://mp.weixin.qq.com/s/2XhpPKd2Jgqxwqomw8ntDw)
++ [全网最全 synchronized 锁分析](https://mp.weixin.qq.com/s/Q7RYpO6U3zn4zYHTExrRxg)
 + [Java并发编程（十二）：只谈blocked、waiting和timed_waiting](https://mp.weixin.qq.com/s/qlZ6Y3KD9Bh4HxepnUgEqw)
 + [Java并发编程：优雅的关闭钩子（Shutdown Hook）](https://mp.weixin.qq.com/s/i5RopE_4DYJZbum9_BFw-w)
 + [Java并发编程：线程安全](https://mp.weixin.qq.com/s/8alKdhLoGbw0_jl78yLXfQ)
@@ -2403,6 +2406,7 @@
 + [SpringBoot + Facade Pattern：通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/k3OujanHS77tPV8s1vQvdA)
 + [SpringBoot适配器模式](https://mp.weixin.qq.com/s/M7I6GMiIJMxG6BXCbesbDQ)
 + [SpringBoot观察者模式](https://mp.weixin.qq.com/s/CRFeziOTE0XA9iOKT887jQ)
++ [SpringBoot 项目基于责任链模式实现复杂接口的解耦和动态编排](https://mp.weixin.qq.com/s/Qg3PKzsOeZ4YPFRwuOBDVg)
 
 #### message
 
@@ -2421,6 +2425,7 @@
 #### 配置打包部署
 
 + [告别 @Value！Spring Boot 3.3 更优雅的配置注入方式](https://mp.weixin.qq.com/s/T-KqgDVBauOW5OehKgy2Bw)
++ [Spring Boot中读取配置文件自定义属性的五种高效方法](https://mp.weixin.qq.com/s/jXaHU-QZDUfWjCDvzTxnew)
 + [SpringBoot自动配置的8个宝藏技巧！](https://mp.weixin.qq.com/s/zP2yw-xnRPQFkKHjFHs27w)
 + [揭秘 Spring Boot 自动装配原理：开启高效开发之门](https://mp.weixin.qq.com/s/1pkxUFimi8IpoY7MfkpymA)
 + [优雅使用 Enum 提升 SpringBoot 配置管理效率](https://mp.weixin.qq.com/s/w4er_AX3y3UnQ_hWrKqplA)
@@ -2428,6 +2433,7 @@
 + [强大！Spring Boot敏感数据动态配置，这样做更安全](https://mp.weixin.qq.com/s/fKT2Y3f6dYUaxKQ_65yWtg)
 + [Spring Boot 3 属性配置详解](https://mp.weixin.qq.com/s/Ajjm17ebZ9kVfgQhlIM0Rg)
 + [在 Spring Boot 中加载属性文件的7种方法](https://mp.weixin.qq.com/s/lONiORW-_t-3AMNHz19sfg)
++ [Spring Boot项目怎么对System.setProperty(key, value)设置的属性进行读取加解密](https://mp.weixin.qq.com/s/HmW3MVE-xKMnlV235ecbpw)
 + [Spring Boot 3.3 Profiles深度解析：轻松管理多环境配置的终极指南](https://mp.weixin.qq.com/s/4kNADHzpW82Nxz9PvtCXJw)
 + [Spring Boot3.3 + devtools 轻松搞定热部署！](https://mp.weixin.qq.com/s/6Rwh8QhhSaJ4PltXt4mrfA)
 + [从SpringBoot2.7开始自动配置发生哪些变化？你都知道吗？](https://mp.weixin.qq.com/s/ofBasHTpzuqeEDqdxDrqAw)
@@ -2559,6 +2565,7 @@
 + [SpringBoot与Axon Framework整合，实现事件溯源驱动的分布式业务系统](https://mp.weixin.qq.com/s/wLQm87zaKBPfqMoLxcVsgA)
 + [Spring Boot 3.4+TDengine 3.0：时序数据存储成本直降80%的架构方案](https://mp.weixin.qq.com/s/ECcyu-ge7fN3Y6k9RQiC5w)
 + [Spring Boot 3.4+Wasm：让Java后端逻辑在浏览器中“狂奔”](https://mp.weixin.qq.com/s/BDxC7Px-2r4J_bp-jYXoOg)
++ [Spring Boot 3.4+MQTT：工业网关百万连接架构设计](https://mp.weixin.qq.com/s/s_jktM0WgQbPY4-Pm52JOA)
 
 #### 自定义实现
 

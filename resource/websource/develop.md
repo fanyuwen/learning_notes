@@ -169,6 +169,7 @@
 + [微服务架构核心需求解析与技术选型](https://mp.weixin.qq.com/s/yOhOWuIXTq5l2vBnvJdgeg)
 + [微服务架构中的事务管理、数据一致性及依赖关系优化](https://mp.weixin.qq.com/s/WQxMAEGn07YBpHnrx2ztpQ)
 + [熔断、降级与限流——微服务稳定性的三大护法](https://mp.weixin.qq.com/s/fk6WAUwzn_Mc8PrQWnA8PA)
++ [网关 Gateway 的使用详解](https://mp.weixin.qq.com/s/tFeeBXQajOe1Y97cqGJIuw)
 
 # 分布式
 
@@ -757,6 +758,7 @@
 + [设计系统文档化报告 | 设计系统团队](https://mp.weixin.qq.com/s/JLarz50CQzAUkkKQErVXwQ)
 + [如何展示设计系统的成功 | 创建策略](https://mp.weixin.qq.com/s/zM1jwo4WwgNacNQFKU51oQ)
 + [十年项目管理经验分享：从菜鸟到成熟](https://mp.weixin.qq.com/s/hHKl5E5ycghdFoK5AemSNQ)
++ [如何做好团队的技术方案评审？](https://mp.weixin.qq.com/s/IqIIiBY_-8h8UUWma3j0wQ)
 
 ### 团队管理
 

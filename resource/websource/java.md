@@ -34,6 +34,7 @@
 + [深入理解Java多态：概念、实现原理与应用](https://mp.weixin.qq.com/s/qVczdbo-xSl5Ll_Sy9o6_Q)
 + [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
 + [Java中的super关键字：深入理解继承中的父类操控术](https://mp.weixin.qq.com/s/ZIu2_dedEqE9PhHRbYkzJQ)
++ [Java接口继承：解构灵活扩展的艺术](https://mp.weixin.qq.com/s/S1Cgcm6inZVg4SWEf4LMuA)
 + [Java中的abstract class与interface：核心区别与使用场景](https://mp.weixin.qq.com/s/dJP49LmpbT1AzScb2mvTrw)
 + [方法重载 vs 方法重写：Java中的两大核心概念](https://mp.weixin.qq.com/s/SMSzwvENAECQOoptw04MHA)
 + [深入理解Java中的继承：从基础到高级应用](https://mp.weixin.qq.com/s/Y9YyLQkV-x1t5LicmdKVqw)
@@ -501,6 +502,7 @@
 + [线程池拒绝策略4大“送命题”：答错一个，offer直接凉凉！](https://mp.weixin.qq.com/s/R_G90pTP5Y94KdBfjPTLMw)
 + [线程池创建陷阱：为什么阿里禁止使用Executors？](https://mp.weixin.qq.com/s/63kiW0oYscP1YDo7z4a_4w)
 + [深入理解Java锁升级：无锁 → 偏向锁 → 轻量级锁 → 重量级锁](https://mp.weixin.qq.com/s/YJCIdcXmGxc_4dMlwl5nwA)
++ [面试官让我解释乐观锁和悲观锁，我用这个方法轻松拿下 Offer！](https://mp.weixin.qq.com/s/LdjwgvrH67booiVK-FMeVw)
 
 #### volatile
 
@@ -619,6 +621,7 @@
 + [【2025版JVM面试题】17、深入Hotspot源码理解内存屏障如何禁止指令重排](https://mp.weixin.qq.com/s/rnzDpEegsk8Xka5Ll8JKBg)
 + [【2025版JVM面试题】3、京东二面：说下垃圾收集器CMS&G1的设计原理](https://mp.weixin.qq.com/s/-Ln0cr_LxrX8dZzeaU_12g)
 + [【2025版JVM面试题】2、蚂蚁一面：JVM为什么要设计STW机制？](https://mp.weixin.qq.com/s/KZLqwae1wpQdayZp5i4nPg)
++ [【2025版JVM面试题】29、对象内存分配方式](https://mp.weixin.qq.com/s/YTTsIzcPXmimvPSeW6OSHA)
 + [JVM、JRE和 JDK：理解Java开发的三大核心组件](https://mp.weixin.qq.com/s/qUzjNjVCgj6wNvEHL89cUA)
 + [面试官：Class常量池和运行时常量池的区别](https://mp.weixin.qq.com/s/EJp4lg7MpEV6K0s7DS8_Pg)
 + [JVM 系列：堆内存溢出 | 零基础](https://mp.weixin.qq.com/s/abt4swZNDyTg70TNL71YKA)
@@ -626,6 +629,7 @@
 + [【2025版JVM面试题】27、jvm内存区域](https://mp.weixin.qq.com/s/q1J1yiQfDB6x7iK4tk8mXg)
 + [JVM 系列：JVM 内存结构深度解析](https://mp.weixin.qq.com/s/2B9amEScPUsLEXpzBan30w)
 + [分布式系统 JVM 深度探索与实战进阶（10）](https://mp.weixin.qq.com/s/zMTYcBTSCxwoRcr7ILA7Xw)
++ [面试官：说说常见的垃圾收集算法](https://mp.weixin.qq.com/s/H_FOYWVBhh7pIsxALj5wTA)
 
 # 核心库
 
@@ -1184,6 +1188,7 @@
 ## quarkus
 
 + [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
++ [0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/kWQUQXdLWwcIfxsVnRTxbA)
 
 ## redisson
 
@@ -1199,6 +1204,7 @@
 + [MultiLock（RMultiLock）多个锁合并为一个锁](https://mp.weixin.qq.com/s/ApL7ntNHbg1_LSN0FOtymw)
 + [Redisson ReadWriteLock：高并发场景下的高效锁机制](https://mp.weixin.qq.com/s/8x5wSz3lN4U-KW361AQwdg)
 + [Redisson RedLock 分布式锁深度实战：原理、争议与高可用架构](https://mp.weixin.qq.com/s/Sq2cARqFwX1FJhaIggk5JQ)
++ [Redisson中的Semaphore与CountDownLatch：实现原理与应用解析](https://mp.weixin.qq.com/s/Lrd1NCuxgGtXUvaGnwMiYA)
 
 ## ribbon
 
@@ -1605,6 +1611,7 @@
 + [Spring Cloud 网关熔断机制：技术原理与实践应用的完美结合](https://mp.weixin.qq.com/s/V9QZ3MeBW-xlS13vMEoJ5g)
 + [【2025版SpringCloud面试题】17、如何通过Gateway实现服务的平滑迁移？](https://mp.weixin.qq.com/s/JBNOEv9Xa2Rz3S4vjt9DRg)
 + [Spring Cloud Gateway 详解与配置](https://mp.weixin.qq.com/s/YiYndBeM_ytPYY78REVwvw)
++ [Spring（二十三）Spring Cloud Gateway 生产级实践：高可用 API 网关架构与流量治理全解析](https://mp.weixin.qq.com/s/fymIS6PzbBwqlu27AiWi2w)
 
 #### AI
 
@@ -1737,6 +1744,7 @@
 + [@ComponentScan到底是怎么扫描的？你真的知道吗？](https://mp.weixin.qq.com/s/KrJm3A7O0tiUtFs0xkX1iw)
 + [这些 StringUtils 方法，你真的会用吗？Spring Boot 开发者必看！](https://mp.weixin.qq.com/s/5_TBUdKlaUzvKD6dQs6yvA)
 + [LocalDateTime + SpringBoot 整合（Post篇）](https://mp.weixin.qq.com/s/FzyIENMEsigCSKxJWKfUEw)
++ [Spring Boot 实现优雅停机的正确姿势！](https://mp.weixin.qq.com/s/tahpF4-Yk5XVxHqFLq1jfQ)
 
 #### 版本特性
 
@@ -2573,6 +2581,8 @@
 + [Spring Boot 3.4+TDengine 3.0：时序数据存储成本直降80%的架构方案](https://mp.weixin.qq.com/s/ECcyu-ge7fN3Y6k9RQiC5w)
 + [Spring Boot 3.4+Wasm：让Java后端逻辑在浏览器中“狂奔”](https://mp.weixin.qq.com/s/BDxC7Px-2r4J_bp-jYXoOg)
 + [Spring Boot 3.4+MQTT：工业网关百万连接架构设计](https://mp.weixin.qq.com/s/s_jktM0WgQbPY4-Pm52JOA)
++ [SpringBoot与Apache Ignite整合，实现广告实时竞拍系统](https://mp.weixin.qq.com/s/RbgJ9AK9FflWU5V3RA-u2A)
++ [SpringBoot使用 OkHttp 完成网络请求](https://mp.weixin.qq.com/s/_1TnHoqYyvI37Nmpq0tWcA)
 
 #### 自定义实现
 
@@ -2758,6 +2768,7 @@
 + [分布式场景下是否适用 synchronized 加锁机制？](https://mp.weixin.qq.com/s/Na7Frws3ASxSin9w7HLliQ)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [Java程序员深夜崩溃实录：这10个坑我赌你至少踩过3个！](https://mp.weixin.qq.com/s/3g2IvceFAlzQvoeItrLl5w)
++ [线上 TraceId 集体失踪，大促排查如何破局？](https://mp.weixin.qq.com/s/I2BBiCZAQkSpaCkanHUrUg)
 + [记一次内存利用率问题排查](https://mp.weixin.qq.com/s/0E6GxkCnuT8lpReeoeCbHg)
 + [手把手教你开发一套代码生成器，从0到1，效率提升至少10倍！](https://mp.weixin.qq.com/s/tYYKrS0Ty1JBy0pHywYymA)
 + [新一代搜索引擎，据说是 ES 的15倍？](https://mp.weixin.qq.com/s/Cw2tVkh6EwW2NXvyxiBd0w)

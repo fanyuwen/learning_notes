@@ -342,6 +342,7 @@
 + [MySQL缓冲池，读写数据的加速器](https://mp.weixin.qq.com/s/-fZ-SlWEuHJC_itQtOgphQ)
 + [MySQL笔记 | 一条更新语句是如何执行的？](https://mp.weixin.qq.com/s/e09JmNQcipJzypjoK1HWtw)
 + [MySQL之主从延迟、主从切换、读写分离](https://mp.weixin.qq.com/s/LE8Ddx_5Gc2nKHXR0U7gwg)
++ [MySQL 升级后查询性能跳水，排序竟成“罪魁祸首”？](https://mp.weixin.qq.com/s/GzrhOnIfx-tBdc4QlgZDXg)
 + [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/m__hz1Ov_m16KGxBqnjP4A)
 + [太实用了！MySQL强大的JSON数据类型提升查询效率](https://mp.weixin.qq.com/s/NyUH2BI6LQD-6GG3LJdVug)
 
@@ -405,6 +406,7 @@
 + [MySQL锁机制全解析：高并发场景下的核心技术揭秘](https://mp.weixin.qq.com/s/77ih7fxaNajijOMJOwaT6w)
 + [MySQL - 穿透锁机制，一文完全讲透](https://mp.weixin.qq.com/s/TUOMM0vUNhBCyE6CqqN3YA)
 + [MySQL死锁全解析：从原理到实战的破局指南](https://mp.weixin.qq.com/s/JoXK3e9kxrSNbcENcLp_eg)
++ [MySQL数据库中，如何减少行锁的影响？](https://mp.weixin.qq.com/s/QgnjdklYlWb4_3O2jiepPw)
 
 #### 事务
 

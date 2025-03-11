@@ -73,6 +73,7 @@
 
 + [静态代理设计模式(Static Proxy)](https://mp.weixin.qq.com/s/2oJ6K8z2SA7KyW7I5_KnUQ)
 + [Java代理模式最全详解(实现原理及应用场景)](https://mp.weixin.qq.com/s/9DRLu5XYNDvDE8xqSAT9ag)
++ [【设计模式】从火车站卖票看代理模式的实际应用](https://mp.weixin.qq.com/s/_20PIU4qPgfrxBvZP-o3ng)
 
 ## 适配器模式
 

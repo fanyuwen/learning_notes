@@ -342,6 +342,7 @@
 + [MySQL缓冲池，读写数据的加速器](https://mp.weixin.qq.com/s/-fZ-SlWEuHJC_itQtOgphQ)
 + [MySQL笔记 | 一条更新语句是如何执行的？](https://mp.weixin.qq.com/s/e09JmNQcipJzypjoK1HWtw)
 + [MySQL之主从延迟、主从切换、读写分离](https://mp.weixin.qq.com/s/LE8Ddx_5Gc2nKHXR0U7gwg)
++ [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/m__hz1Ov_m16KGxBqnjP4A)
 
 #### 存储引擎
 

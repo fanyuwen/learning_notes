@@ -392,6 +392,7 @@
 + [如何将我的 Python 脚本提速 300%](https://mp.weixin.qq.com/s/BgJdZbjcyoJof46FGAwsiA)
 + [Python语法简洁易懂：快速实现数据库连接与操作，增删改查很轻松](https://mp.weixin.qq.com/s/yzHw8tuZYGWE_WjolGZESQ)
 + [资深程序员总结：21个Python代码反模式](https://mp.weixin.qq.com/s/2SewCWszUi1JVbllfVsrpA)
++ [Python黑科技：evaluation_order机制如何解决函数注解的痛点问题？](https://mp.weixin.qq.com/s/1R_YpZ3LzLY35AWheFL0Tw)
 
 ## 新特性
 

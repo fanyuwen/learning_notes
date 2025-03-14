@@ -3,6 +3,7 @@
 ## 基础
 
 + [常用的 Java 关键字解读！](https://mp.weixin.qq.com/s/4DzjwJzTSEtqOS3LbBCe_g)
++ [深入理解Java中不常见的关键字：instanceof、strictfp、transient、volatile](https://mp.weixin.qq.com/s/IR43qwfpwhtJSpiKsEmVBQ)
 + [Java 数据类型详解：基本数据类型与引用数据类型](https://mp.weixin.qq.com/s/HEZujUZpitou7Jm_wiQG9Q)
 + [== 和 equals 的区别](https://mp.weixin.qq.com/s/CVxza03KE-7_8gTSIhZprA)
 + [简单点，请问a = a + b 和 a += b 的区别](https://mp.weixin.qq.com/s/qUEqYBxWymxB2V2BwVMpdQ)

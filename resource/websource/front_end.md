@@ -164,6 +164,7 @@
 + [Vue3 - 基本语法使用二](https://mp.weixin.qq.com/s/0J_3n_fBb1TzXgDFIkkWHA)
 + [Vue3 - 计算属性](https://mp.weixin.qq.com/s/GFvURoIh03DS_lN5vnHVJg)
 + [Vue3 组件详解-从入门到实战](https://mp.weixin.qq.com/s/O_KubaGTz6QEp78H5qS2HA)
++ [一文带你吃透 Vue3 核心知识点](https://mp.weixin.qq.com/s/ECG6wDIm6l4JyabgsYTMfA)
 
 ## react
 

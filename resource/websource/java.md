@@ -1322,6 +1322,7 @@
 + [Spring框架IoC核心详解](https://mp.weixin.qq.com/s/-3H6VyhKfl9byf6ifnk1ug)
 + [Spring 三级缓存原理详解](https://mp.weixin.qq.com/s/1Z1a5dAwpaaZ7knX32UudQ)
 + [Spring 循环依赖破解术——面试官听了直呼“秀儿！”](https://mp.weixin.qq.com/s/oxyOM2JeJP87OeOEkvRyXw)
++ [源码分析：Spring IOC容器初始化过程](https://mp.weixin.qq.com/s/HX02vO4ye9ZY2yfuL-gP5A)
 
 ### 新版本新特性
 
@@ -2285,6 +2286,7 @@
 + [SpringBoot 中利用 ThreadPoolTaskScheduler 实现定时任务](https://mp.weixin.qq.com/s/Am-Uo79Ngp5Nk7YgQ3Fxzg)
 + [Spring Boot项目中定时任务的优雅退出策略](https://mp.weixin.qq.com/s/-Af5Bl1FY7e-sv1mEgK3Qw)
 + [SpringBoot中高效运用定时任务的实战](https://mp.weixin.qq.com/s/ft6eQpo6wH1X555aMvGvPg)
++ [Spring Boot 3.4异步接口性能暴走：ResponseBodyEmitter + SseEmitter双剑合璧](https://mp.weixin.qq.com/s/AcHHxuhUTcmlBbjQRvGfWg)
 
 ##### Disruptor
 

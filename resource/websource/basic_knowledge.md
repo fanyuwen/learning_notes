@@ -248,6 +248,7 @@
 + [《计算机网络》第四章——网络层总结(上)](https://mp.weixin.qq.com/s/fXPeLS4RYUbHfxr-6Xo0Ew)
 + [《计算机网络》第五章——运输层考点总结（上）](https://mp.weixin.qq.com/s/weJepRCns0XsDvAxsVhUoA)
 + [RIP 动态路由配置教程：从入门到实践](https://mp.weixin.qq.com/s/FsZoXqs0Ox5f4bwzw6nUmA)
++ [深入解析reactor网络模型的实现原理、代码详解](https://mp.weixin.qq.com/s/WqA3GF1RYTRdgdlCQzzC_g)
 
 ### DNS
 

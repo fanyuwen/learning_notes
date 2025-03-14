@@ -1337,6 +1337,7 @@
 + [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
 + [一文了解Spring MVC流程](https://mp.weixin.qq.com/s/5Y_FlCdhmpZPpPlGNbdQfw)
 + [Controller 层优化四步曲](https://mp.weixin.qq.com/s/wWneJ8E3R9NlXPMOFxSupA)
++ [深入解析 Filter、Interceptor、Spring AOP 三剑客](https://mp.weixin.qq.com/s/7JHzDrfGvwNhYrxy7dw10A)
 + [深入理解SpringMVC工作原理，像大牛一样手写SpringMVC框架](https://mp.weixin.qq.com/s/Ck8ICf1aEzMO8eIqCPYSbw)
 + [如何编写优雅的 Controller代码？](https://mp.weixin.qq.com/s/jA5-npkXokYq3T8zaH1Jhg)
 + [面试官：说说 SpringMVC 工作原理！！](https://mp.weixin.qq.com/s/5lWWZbD87kEKMfMPmj7U5A)
@@ -1741,6 +1742,7 @@
 + [Spring Boot 3.4绝了！这5个隐藏API让你的代码直接封神！](https://mp.weixin.qq.com/s/WLKyifjhLAC7SkRH9Hq_Pw)
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
++ [spring.factories被废！Spring Boot 3.4自动配置黑科技曝光](https://mp.weixin.qq.com/s/khuf0kDNPIKCBnTUSHbf_g)
 + [Spring Boot 3.0暴力升级指南：旧项目迁移竟比相亲还刺激？](https://mp.weixin.qq.com/s/IprFqxdr5Uc1iwopHyBsxQ)
 + [Spring Boot 2.1.x到Spring Boot 3.4.x都有哪些变化？](https://mp.weixin.qq.com/s/ZuyroYurktW-tH0T7Zps5A)
 + [Spring Boot 3.4五大新特性揭秘：80%开发者不知道的隐藏技能](https://mp.weixin.qq.com/s/wCfpjF9rTVRXzu1yOombkQ)
@@ -2750,6 +2752,7 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [Java 中 8 种定时任务](https://mp.weixin.qq.com/s/9jlHSDy-oSwuLon2P5nLBA)
 + [分布式场景下是否适用 synchronized 加锁机制？](https://mp.weixin.qq.com/s/Na7Frws3ASxSin9w7HLliQ)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
 + [Java程序员深夜崩溃实录：这10个坑我赌你至少踩过3个！](https://mp.weixin.qq.com/s/3g2IvceFAlzQvoeItrLl5w)

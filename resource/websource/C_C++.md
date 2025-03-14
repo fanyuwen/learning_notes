@@ -74,6 +74,7 @@
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
++ [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)

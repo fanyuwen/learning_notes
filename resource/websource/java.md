@@ -1616,6 +1616,7 @@
 + [掌握Spring Boot最佳途径！就该如此做](https://mp.weixin.qq.com/s/JjqZXqa35nANgcnGFQ25TA)
 + [Spring Boot：Java开发的加速器](https://mp.weixin.qq.com/s/zEyFhphJyXShgV2axtecEg)
 + [SpringBoot 最常用的50个注解，都是干货...](https://mp.weixin.qq.com/s/2LGnWftw8tzog_1WpjzlOg)
++ [Spring Boot 的 20 个实用技巧](https://my.oschina.net/cccyb/blog/17875469)
 + [Spring Boot2.x教程：（八）优雅地在工具类中使用@Autowired注解](https://mp.weixin.qq.com/s/lGNzc5Iexad1H-8x2yQvtg)
 + [技巧！Spring Boot生产环境重新初始化Bean](https://mp.weixin.qq.com/s/73ixf65zeQ3_sr9K3Dkfpw)
 + [Spring Boot 启动流程及原理介绍](https://mp.weixin.qq.com/s/AG2YfTVr_Euu6fGEcmeenQ)

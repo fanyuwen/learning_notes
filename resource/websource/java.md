@@ -1743,6 +1743,7 @@
 + [Spring Boot 3.0暴力升级指南：旧项目迁移竟比相亲还刺激？](https://mp.weixin.qq.com/s/IprFqxdr5Uc1iwopHyBsxQ)
 + [Spring Boot 2.1.x到Spring Boot 3.4.x都有哪些变化？](https://mp.weixin.qq.com/s/ZuyroYurktW-tH0T7Zps5A)
 + [Spring Boot 3.4五大新特性揭秘：80%开发者不知道的隐藏技能](https://mp.weixin.qq.com/s/wCfpjF9rTVRXzu1yOombkQ)
++ [Spring Boot 3.4新监控指标：JVM非堆内存泄漏定位指南](https://mp.weixin.qq.com/s/hwshcVFx4mzWEIl_GzYWWg)
 + [紧急避雷！Spring Boot 3.4兼容性问题TOP5，看到第3条我慌了](https://mp.weixin.qq.com/s/QoWHvwgshsg0NOA3u4g2EQ)
 + [Spring Boot 3+ 生命周期优化：告别 @PostConstruct 和 @PreDestroy，轻松实现现代管理](https://mp.weixin.qq.com/s/WRTRB576OktkjYupWz1Uyw)
 + [SpringBoot3.0 新特性尝鲜，秒启动的快感！SpringAOT与RuntimeHints来了解一下？](https://mp.weixin.qq.com/s/XdUcLdJoEEnUwAKwTbIsVg)

@@ -606,6 +606,7 @@
 + [一文搞懂“退款中心”：架构、流程、系统、退转付](https://mp.weixin.qq.com/s/oi2ttYuTOcHcf_sBG-ypiw)
 + [支付中心设计全解析：构建安全高效的支付体系](https://mp.weixin.qq.com/s/Edif5bYdz_nxM3l0xVQ8bw)
 + [支付系统架构设计：构建高效金融基础设施的核心逻辑](https://mp.weixin.qq.com/s/CXpQXC2b_j8ovb0-fXn3pg)
++ [字节面试：如何设计一个能够支撑千亿级高并发的短链系统？抖音高并发短链系统设计揭秘](https://mp.weixin.qq.com/s/iCgdeqbC_AutJ8HslWEFwA)
 
 ## 代码相关
 

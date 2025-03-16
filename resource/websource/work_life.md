@@ -59,6 +59,7 @@
 + [程序员别等危机来了才后悔！提前规划未来刻不容缓！](https://mp.weixin.qq.com/s/MO_VU6fHNEUDPlrxbrOzUg)
 + [程序员的35岁焦虑根源于只会写代码，在商业中技术只是很普通的资源！](https://mp.weixin.qq.com/s/CFwt_vcWYLQc-_mcT3awpw)
 + [技术很好，为什么面试大厂不是一面挂就是二面挂？](https://mp.weixin.qq.com/s/dnTuNZCfY2EITM0Tdr-wgA)
++ [89年，36岁，刚被裁员，分享3点求职经验助你找到好工作](https://mp.weixin.qq.com/s/NIFq4V1AB_th2RqFc2aB7w)
 
 # 个人成长
 

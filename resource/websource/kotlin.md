@@ -12,6 +12,7 @@
 + [Kotlin 首席设计师访谈：Kotlin 与 Java 的差距有多大？](https://mp.weixin.qq.com/s/iUWWKvGjP5mmTpEniZZLmA)
 + [1000万行Java代码变Kotlin！Meta如何用“偷懒”秘籍省下10万次转换按钮点击？](https://mp.weixin.qq.com/s/Rw_UkzOGlgO0cicfnvyP3A)
 + [你以为精通Kotlin协程？这5个冷门机制才是面试官的终极杀招](https://mp.weixin.qq.com/s/f3EonG5ojwdzWH5vIfb2zw)
++ [2024 Kotlin 中文开发者大会：完整回放 + PPT](https://mp.weixin.qq.com/s/W2JsPYLkGg6wl6FcI-gbLw)
 
 ## 技术月报
 

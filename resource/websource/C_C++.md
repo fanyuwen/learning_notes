@@ -161,6 +161,7 @@
 + [Github上热门 C 语言项目汇总！](https://mp.weixin.qq.com/s/a9PvRgriDJ_E17hvX82EVQ)
 + [这就是C语言中大名鼎鼎的内存四区](https://mp.weixin.qq.com/s/z40It0YtSA9TQp8b9Ej_og)
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
++ [国外C语言程序员分享：我为何不再使用 printf()，你也该如此](https://mp.weixin.qq.com/s/b20gGC0h-SiCjAr1cTd4tg)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)

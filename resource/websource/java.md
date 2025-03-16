@@ -513,6 +513,8 @@
 + [面试官让我解释乐观锁和悲观锁，我用这个方法轻松拿下 Offer！](https://mp.weixin.qq.com/s/LdjwgvrH67booiVK-FMeVw)
 + [90% 的人答不完整，Java 并发面试题：死锁、活锁、饥饿全解析！](https://mp.weixin.qq.com/s/-Jws1IK8C3ed_5PNX9aG-A)
 + [Java社招高频考点：多线程锁的升级原理，99%的人都答不全！](https://mp.weixin.qq.com/s/t4VyGYkUx8C0qqGTQsJp7w)
++ [Java 高级面试题：Lock 到底比 synchronized 强在哪？](https://mp.weixin.qq.com/s/FYWbTgb7o5Z8n6x0UdFL5w)
++ [一篇文章彻底搞懂 synchronized 和 volatile，看完涨薪50%！](https://mp.weixin.qq.com/s/ATjer3Hpwblq_-1f7-IevQ)
 
 #### volatile
 
@@ -2415,6 +2417,7 @@
 + [Spring Boot 3 Logback配置文件及其加载原理（含源码分析）](https://mp.weixin.qq.com/s/B8seukRoROylF_dG3VMzyg)
 + [SpringBoot2.7 就是任性，就是不支持Logback1.3，你能奈他何？](https://mp.weixin.qq.com/s/dDU-7aQf8K7CUi75mURhHg)
 + [SpringBoot与Logback整合，实现敏感信息日志脱敏并且异步高效写入功能](https://mp.weixin.qq.com/s/LPDFLg0JYQxs117ZcT8hGw)
++ [SpringBoot 使用 TraceId 日志链路追踪！](https://mp.weixin.qq.com/s/DiNJN0gUeh2Wq14Qar2oUw)
 
 #### 安全
 

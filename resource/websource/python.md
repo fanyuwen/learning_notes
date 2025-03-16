@@ -441,6 +441,7 @@
 + [collective.login-monitor，一个Python中非常有用的库](https://mp.weixin.qq.com/s/FW7U2YzXaUEgXcNDVENPlw)
 + [aiofiles：基于 asyncio，提供文件异步操作(文件管理)](https://mp.weixin.qq.com/s/cdVvBMhN8_qOSHvy4g9nhQ)
 + [Bokeh，世界上最牛逼的交互式数据可视化Python库！](https://mp.weixin.qq.com/s/mMwF0vAvC_5EK_3yb1RZ7A)
++ [scxtbyyyq，一个高效文本处理的Python库！](https://mp.weixin.qq.com/s/LLQiEogIwVFanmp3tc09yQ)
 + [gspread，一个有趣的 Python 库！](https://mp.weixin.qq.com/s/d6Et31WanMI27A3KUwpzPw)
 + [asropy，一个超级强大的Python库](https://mp.weixin.qq.com/s/UtWwm_3yZBAStl_W2CrezQ)
 + [Coconut，一个函数式Python库！](https://mp.weixin.qq.com/s/6CZFL825flvUNvocTYbOqA)
@@ -695,6 +696,7 @@
 + [PyUIBuilder：用拖拽的方式轻松构建Python GUI](https://mp.weixin.qq.com/s/ejehNaoXgt9lp1JKB9ZoXw)
 + [conda 使用笔记](https://mp.weixin.qq.com/s/AktsGh2uKa7KxDe5V_W4Xw)
 + [FastUI：Python开发者轻松构建响应式Web UI](https://mp.weixin.qq.com/s/7Qc1REuDLMHGKj-o4sAw4A)
++ [Python 必备！Spleeter 实现音乐源分离超详细教程，让音乐处理更简单](https://mp.weixin.qq.com/s/zC0y18NSd2NI3bAYsc0rfg)
 
 ## 框架
 

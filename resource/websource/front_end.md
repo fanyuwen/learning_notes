@@ -55,6 +55,7 @@
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
++ [七行代码搞定无限滚动，JavaScript性能优化大揭秘](https://mp.weixin.qq.com/s/ygtLNda9XZNLl1nMzt4tjQ)
 + [一行代码干掉 Promise.all！JavaScript 异步编程的终极简化！](https://mp.weixin.qq.com/s/VTI92NAmLgmbsG4nOl04dg)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)

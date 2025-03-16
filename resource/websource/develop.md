@@ -100,6 +100,7 @@
 + [DDD分层架构：有效降低层与层之间的依赖](https://mp.weixin.qq.com/s/o33Z_AsNgltXLP84afUunQ)
 + [货拉拉用户CRM-DDD战术设计改造实践](https://mp.weixin.qq.com/s/dN5m9RQlIKZEu-ZvJhg2PA)
 + [技术Leader如何落地DDD - 爆改团队（一）](https://mp.weixin.qq.com/s/dXqFp9FVYFhWhDlb0X9aFg)
++ [技术Leader如何落地DDD - 爆改团队（二）](https://mp.weixin.qq.com/s/xK-Usnbr3HVwMKajfa76cw)
 + [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
 
 ## 微服务
@@ -170,6 +171,8 @@
 + [微服务架构中的事务管理、数据一致性及依赖关系优化](https://mp.weixin.qq.com/s/WQxMAEGn07YBpHnrx2ztpQ)
 + [熔断、降级与限流——微服务稳定性的三大护法](https://mp.weixin.qq.com/s/fk6WAUwzn_Mc8PrQWnA8PA)
 + [网关 Gateway 的使用详解](https://mp.weixin.qq.com/s/tFeeBXQajOe1Y97cqGJIuw)
++ [微服务安全架构新范式——零信任与 OAuth2.0 的深度整合](https://mp.weixin.qq.com/s/8I6uiGg6mNOXjCroeyk03w)
++ [告别心跳！用“零心跳”架构设计服务注册中心，性能提升10倍！](https://mp.weixin.qq.com/s/K9oPF6QmBQ_gHBDgyQ0ddg)
 
 # 分布式
 
@@ -215,6 +218,7 @@
 + [分布式链路追踪实战——OpenTelemetry 与 Jaeger 全解析](https://mp.weixin.qq.com/s/aUX7xssumKuqEI7l624wTQ)
 + [什么是 Write-Ahead Logging技术？它是如何工作的？](https://mp.weixin.qq.com/s/OWUsxr5wZ1nxYc1B4InKcA)
 + [浅谈分布式系统的核心挑战与解决方案](https://mp.weixin.qq.com/s/aHH5mIqa5vxuBbvcos4Q3A)
++ [分布式ID生成方案](https://mp.weixin.qq.com/s/w0g8r63hiQbiQgOaxSXYYA)
 
 ## 分布式锁
 
@@ -256,6 +260,7 @@
 + [分布式事务常见解决方案](https://mp.weixin.qq.com/s/SbA9pVAId61dY1APIOLsXg)
 + [分布式事务模型详解](https://mp.weixin.qq.com/s/cmYkYuN-86pDR5IdsGzwsw)
 + [深度解析分布式事务的七大核心方案](https://mp.weixin.qq.com/s/Jx2U452t0od-2hWuv8rRLw)
++ [支付宝终面：万亿级资金流转，TCC如何实现资金零差错？](https://mp.weixin.qq.com/s/8oS8AEl0NJBM0kUy_A4Irw)
 
 ## 分布式算法
 
@@ -390,6 +395,7 @@
 + [订单超时自动取消的实现方案](https://mp.weixin.qq.com/s/ZKAumSPwn8EHtb8h490VOw)
 + [2. 电商平台中订单未支付过期如何实现自动关单？](https://mp.weixin.qq.com/s/e3-Z89A-QPgDJf9g9pSGtw)
 + [订单到期关闭的多种实现方式解析](https://mp.weixin.qq.com/s/vQ8oZwpHxShH3tFckCC6wQ)
++ [定时任务（JOB）的几种解决方案，你知道几种？还在使用Timer就过时了。](https://mp.weixin.qq.com/s/jFjQb3XoY58Vuh3NKvuGpA)
 
 ## 缓存
 
@@ -598,6 +604,8 @@
 + [京东面试：百万并发下的商品搜索，你能扛住几轮？](https://mp.weixin.qq.com/s/0IfihMnICceTdOCOzRilYA)
 + [聊一下支付系统中防错设计的常见的问题？](https://mp.weixin.qq.com/s/nqTk6R5NQ-rwjHRR2hxzzg)
 + [一文搞懂“退款中心”：架构、流程、系统、退转付](https://mp.weixin.qq.com/s/oi2ttYuTOcHcf_sBG-ypiw)
++ [支付中心设计全解析：构建安全高效的支付体系](https://mp.weixin.qq.com/s/Edif5bYdz_nxM3l0xVQ8bw)
++ [支付系统架构设计：构建高效金融基础设施的核心逻辑](https://mp.weixin.qq.com/s/CXpQXC2b_j8ovb0-fXn3pg)
 
 ## 代码相关
 

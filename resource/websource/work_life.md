@@ -57,14 +57,18 @@
 + [中年人失业在深圳有多惨：曾月收入大厂6万，39岁贷款买了1000多万的房子，月供4万，如今41被裁，找不到工作](https://mp.weixin.qq.com/s/smlwPJSsb3rK7P5NI_qhxA)
 + [32岁，工作8年了，今天突然收到降薪了20%，领导说别着急，相比裁员降薪，算好的了，感觉被套路了](https://mp.weixin.qq.com/s/tTI3lcNanNgqYWtBU3KjJA)
 + [程序员别等危机来了才后悔！提前规划未来刻不容缓！](https://mp.weixin.qq.com/s/MO_VU6fHNEUDPlrxbrOzUg)
++ [程序员的35岁焦虑根源于只会写代码，在商业中技术只是很普通的资源！](https://mp.weixin.qq.com/s/CFwt_vcWYLQc-_mcT3awpw)
++ [技术很好，为什么面试大厂不是一面挂就是二面挂？](https://mp.weixin.qq.com/s/dnTuNZCfY2EITM0Tdr-wgA)
 
 # 个人成长
 
 + [如何阅读一份源代码？](https://www.codedump.info/post/20190324-how-to-read-code/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [编程十年的感悟](https://mp.weixin.qq.com/s/S4ofBQ__F6JLUsQ_18OM-g)
 + [程序员如何快速学习并掌握一门新技术？](https://mp.weixin.qq.com/s/7whEuRfo8FCvsbRVgi7lYg)
++ [程序员学习新技术是要看书还是看视频？](https://mp.weixin.qq.com/s/_uXKYiOtvUXG1CEVH932nA)
 + [开发人员为何难以提高工作效率？10 种行之有效的解决方法](https://mp.weixin.qq.com/s/Ex8GgCjyy63Wz9d1H8Z8_g)
 + [35岁Java程序员出路何在？这5个新兴赛道正在疯狂招人！](https://mp.weixin.qq.com/s/_bqkICFaAP2UUh_d9dDMTA)
++ [程序员的成长困境：广度和深度，如何抉择？](https://mp.weixin.qq.com/s/lXGj1-Hsaj5X3rGWpTgI_A)
 + [成为高级开发者的不成文规则：晋升的 4 个步骤](https://mp.weixin.qq.com/s/h_vvH7pcVLcCKCr0RJza6w)
 + [我一直在用 Java，但是我一直都不喜欢 Java！](https://mp.weixin.qq.com/s/XL5LDpd3jeCnu3IGCEh2zA)
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
@@ -116,6 +120,7 @@
 + [后端工程师必须掌握的10大技能，看你还有哪项没掌握？（2024最新全球调研）](https://mp.weixin.qq.com/s/XwZjSZ_S2XNvLUn9K21d7A)
 + [程序员必备！最全技术文档写作指南](https://mp.weixin.qq.com/s/TcxK_HE-xPyECzlV429foA)
 + [研发高阶能力之技术规划](https://mp.weixin.qq.com/s/PBdeiNOMhiWVim1AWeIc2g)
++ [别再盲目敲代码！程序员应该多积累业务经验！](https://mp.weixin.qq.com/s/jYKg9_n8NGj5a98RRYfVcw)
 
 ## 视频
 
@@ -334,6 +339,7 @@
 + [指针是怎样一步步发明出来的？](https://mp.weixin.qq.com/s/0zahhPN8DaBLrHO-nSKZVg)
 + [一个周末重写所有代码，性能提升 10 倍！没有这个 1000 倍工程师，就没有现在的谷歌地图](https://mp.weixin.qq.com/s/h9WMkawDFxOfA5lAPU2WhA)
 + [膜拜！上古程序员实在太厉害了！](https://mp.weixin.qq.com/s/1F-_fvme4RenXG7xFFyoYw)
++ [【独家揭秘】这帮大神，竟从零打造了一款全新的浏览器？！](https://mp.weixin.qq.com/s/Ceg3rU1QOmxE4LBGsC7rtQ)
 
 ## 创业
 

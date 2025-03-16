@@ -78,6 +78,7 @@
 + [如何判断 SQL 查询是否使用索引并优化查询性能](https://mp.weixin.qq.com/s/nGL72cRkddvpmW2OV58Neg)
 + [90%的网站都遇到过这个漏洞：SQL注入攻击，你中招了吗？](https://mp.weixin.qq.com/s/OEs7f4rnXOWXN2shiGSYKA)
 + [一次有意思的 SQL 优化实操，30248.271s 到 0.001s](https://mp.weixin.qq.com/s/d5SKCoZ5BISWztG_N5dA3g)
++ [SQL优化实战：从慢如蜗牛到快如闪电的必杀技](https://mp.weixin.qq.com/s/Bgw8MQnwg4-FKCQTFRohyw)
 
 # 本地数据库
 
@@ -132,6 +133,7 @@
 + [面试官：水平分表如何选择sharding key？分表和分区有什么区别?从Innodb底层存储说明为什么需要做垂直分表？](https://mp.weixin.qq.com/s/vcK01PavP49_pWPofIdbRQ)
 + [分库分表 带来了哪些问题？](https://mp.weixin.qq.com/s/zwWiq6lnaH7WhikkosUBNg)
 + [高并发订单系统设计：每天新增100w订单数据的分库分表方案](https://mp.weixin.qq.com/s/w9U8q-zzHvCLvP8e6dzjRg)
++ [美团二面：如何用分库分表扛住10亿订单洪峰？架构师必须掌握的3个核心策略！](https://mp.weixin.qq.com/s/QL1yWN_NdCEaHIMmzWQ2wg)
 
 ## 原理解析
 
@@ -345,6 +347,7 @@
 + [MySQL 升级后查询性能跳水，排序竟成“罪魁祸首”？](https://mp.weixin.qq.com/s/GzrhOnIfx-tBdc4QlgZDXg)
 + [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/m__hz1Ov_m16KGxBqnjP4A)
 + [太实用了！MySQL强大的JSON数据类型提升查询效率](https://mp.weixin.qq.com/s/NyUH2BI6LQD-6GG3LJdVug)
++ [300 秒到 4 秒，如何将 MySQL 批量写入的耗时缩短 99%？](https://mp.weixin.qq.com/s/b-YEe6ex3jpR_ISPcYyzIw)
 
 #### 存储引擎
 
@@ -682,6 +685,7 @@
 + [如何使用 Redis完成 PV，UV 统计？](https://mp.weixin.qq.com/s/I6WxFcFoNlqInYgnkoYbVw)
 + [京东面试题：Redis集群的模式了解吗？说一下它的优缺点](https://mp.weixin.qq.com/s/wgVG_XXwL8GEt6JguKQ0YA)
 + [明星离婚，服务器崩溃？千万级点赞瞬间涌入！微博背后的Redis架构设计揭秘](https://mp.weixin.qq.com/s/EyAu5CRDVofynxauZtxD1w)
++ [高并发库存扣减一致性问题，怎么用redis解决？](https://mp.weixin.qq.com/s/yjnTIM4vs2giTWr4c6TgvA)
 
 #### 原理
 

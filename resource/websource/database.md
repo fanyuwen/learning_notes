@@ -686,6 +686,8 @@
 + [京东面试题：Redis集群的模式了解吗？说一下它的优缺点](https://mp.weixin.qq.com/s/wgVG_XXwL8GEt6JguKQ0YA)
 + [明星离婚，服务器崩溃？千万级点赞瞬间涌入！微博背后的Redis架构设计揭秘](https://mp.weixin.qq.com/s/EyAu5CRDVofynxauZtxD1w)
 + [高并发库存扣减一致性问题，怎么用redis解决？](https://mp.weixin.qq.com/s/yjnTIM4vs2giTWr4c6TgvA)
++ [Redis数据库——内存分配器](https://mp.weixin.qq.com/s/phJwMhf0MfnGkEUe86qkbg)
++ [手把手搞懂Redis数据持久化：如何选择RDB和AOF](https://mp.weixin.qq.com/s/sXJAbkSM2RE5a6EBIqrUCA)
 
 #### 原理
 
@@ -749,6 +751,7 @@
 + [面试官问：Redis缓存淘汰策略有哪些？](https://mp.weixin.qq.com/s/UC5e_OSUFYohAUM4-Qsvaw)
 + [Redis多级缓存指南：从前端到后端全方位优化！](https://mp.weixin.qq.com/s/9Hbe9vLnMTXc7hxVpFMqLA)
 + [Redis 实现分布式缓存](https://mp.weixin.qq.com/s/N_Qm2QoxFWZpQthuO4QzCw)
++ [Redis缓存三剑客：穿透、雪崩、击穿—手把手教你解决](https://mp.weixin.qq.com/s/IqzJyiVnYRVYlatfAnq91A)
 
 #### 限流
 

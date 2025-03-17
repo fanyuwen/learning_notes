@@ -30,6 +30,7 @@
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 + [来请讲解下Java泛型吧](https://mp.weixin.qq.com/s/EHGpT-kliGbAx5zE9olSZg)
++ [Java基础（5-泛型）](https://mp.weixin.qq.com/s/h8b3irN2HUee8im2dDVfHw)
 + [深入理解Java中的Object类：万物皆对象的基石](https://mp.weixin.qq.com/s/gAhZR_MQKLKDH5P2vVExyA)
 + [深入理解Java多态：概念、实现原理与应用](https://mp.weixin.qq.com/s/qVczdbo-xSl5Ll_Sy9o6_Q)
 + [Java中的继承和多态](https://mp.weixin.qq.com/s/MwA2CMd5pijf32v4F0l2qA)
@@ -81,6 +82,7 @@
 + [JAVA基础（二十四）集合性能陷阱与优化实战](https://mp.weixin.qq.com/s/ctVB7CNP3Yp0Qd4q6sa0Bg)
 + [JAVA基础（二十五）集合框架总结与实战指南](https://mp.weixin.qq.com/s/hFLW4H159XR6hcDs2IIkOQ)
 + [解析Java访问修饰符对方法重写的影响](https://mp.weixin.qq.com/s/45pMBj5KAwyVwz8CHP2ACQ)
++ [深入理解Java方法重写：从原理到实践](https://mp.weixin.qq.com/s/nGRDf-aEP-nsQ3XoDKBvtA)
 
 ## 新语言特性
 
@@ -89,7 +91,9 @@
 + [JDK8中新增的功能（七大类功能更新与改进）](https://mp.weixin.qq.com/s/L3qx9Fz4hKHnWyUSyCJBFQ)
 + [Record类型隐秘陷阱：Java 17开发者集体踩坑实录](https://mp.weixin.qq.com/s/UmQJTnFE8UswWOWAuVYh2A)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
++ [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
++ [Java 9+：日期时间的焕新升级，你跟上了吗？](https://mp.weixin.qq.com/s/VvN8dlb7wV-ip5_eQ0ThNQ)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
@@ -129,6 +133,7 @@
 
 + [Java循环还能这么玩？](https://mp.weixin.qq.com/s/8jxL6XXfWpXbCFYVsdtRFg)
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
++ [10个Java代码优化技巧，让你从入门到精通](https://mp.weixin.qq.com/s/5IcKxVC7kojiU-WooE4RlQ)
 + [关于 Java 异常处理的原则](https://mp.weixin.qq.com/s/L0xsz6YueaiXgX2_d5WfHg)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
@@ -449,6 +454,7 @@
 + [线程池拒绝策略4大“送命题”：答错一个，offer直接凉凉！](https://mp.weixin.qq.com/s/R_G90pTP5Y94KdBfjPTLMw)
 + [【2025版JVM面试题】14、CPU指令重排是怎么回事？](https://mp.weixin.qq.com/s/IwHqF5kWIffv8z3DM1C8kQ)
 + [【2025版JVM面试题】16、as-if-serial与happens-before原则详解](https://mp.weixin.qq.com/s/YYWmQt1nT0zj-bvtZ0rASA)
++ [Java 多线程编程：线程创建与线程安全详解](https://mp.weixin.qq.com/s/x6enpOfN2PsaejvI-FC8gA)
 
 #### 线程池
 
@@ -1370,6 +1376,7 @@
 + [Spring 循环依赖破解术——面试官听了直呼“秀儿！”](https://mp.weixin.qq.com/s/oxyOM2JeJP87OeOEkvRyXw)
 + [源码分析：Spring IOC容器初始化过程](https://mp.weixin.qq.com/s/HX02vO4ye9ZY2yfuL-gP5A)
 + [Spring的注入方式有哪些？该如何选择？](https://mp.weixin.qq.com/s/7uncPnAvL97hFVlg5241pA)
++ [JAVA：Spring Bean 三级缓存机制的技术指南](https://mp.weixin.qq.com/s/W2qQdInhakF0iGFnihMXvg)
 
 ### 新版本新特性
 
@@ -1661,6 +1668,7 @@
 + [【2025版SpringCloud面试题】17、如何通过Gateway实现服务的平滑迁移？](https://mp.weixin.qq.com/s/JBNOEv9Xa2Rz3S4vjt9DRg)
 + [Spring Cloud Gateway 详解与配置](https://mp.weixin.qq.com/s/YiYndBeM_ytPYY78REVwvw)
 + [Spring（二十三）Spring Cloud Gateway 生产级实践：高可用 API 网关架构与流量治理全解析](https://mp.weixin.qq.com/s/fymIS6PzbBwqlu27AiWi2w)
++ [【2025版SpringCloud面试题】31、Geteway的工作流程是什么样的？](https://mp.weixin.qq.com/s/oeVu51XSzXauntVnAlj7bA)
 
 #### AI
 
@@ -1795,6 +1803,8 @@
 + [LocalDateTime + SpringBoot 整合（Post篇）](https://mp.weixin.qq.com/s/FzyIENMEsigCSKxJWKfUEw)
 + [Spring Boot 实现优雅停机的正确姿势！](https://mp.weixin.qq.com/s/tahpF4-Yk5XVxHqFLq1jfQ)
 + [Spring（十七）Spring Boot 异常处理：从全局捕获到优化用户体验](https://mp.weixin.qq.com/s/07g5XeD4OWKauwhIlKd3Ig)
++ [保姆级教程 SpringBoot 方法级全链路监控实现](https://mp.weixin.qq.com/s/SBzPuU3_xHx8uR0IRQXb0Q)
++ [Spring Boot的灵魂注解：@SpringBootApplication全面解析](https://mp.weixin.qq.com/s/H7zkIYUMTC0-Q-Tt6C33sg)
 
 #### 版本特性
 
@@ -2405,6 +2415,7 @@
 + [这4个关于Spring AOP开发技巧你知道吗？](https://mp.weixin.qq.com/s/Jugx3KZH2Rxs6OmN1zKHmg)
 + [精通Spring AOP？除非做对这20道选择题](https://mp.weixin.qq.com/s/mosTlKl1F2PGdNzfYc02EA)
 + [关于Spring AOP的两个高级功能你用过吗？](https://mp.weixin.qq.com/s/l9SkTpOdK5EBsUeJT4aVdw)
++ [【血泪教训】SpringBoot AOP失效案发现场：我排查了全网代码，却败给了自己的方法调用！](https://mp.weixin.qq.com/s/chervNtqc5-E7BBDnyX2cA)
 
 #### SPI
 
@@ -2450,6 +2461,7 @@
 + [让数据传输更优雅：SpringBoot前后端加密技巧全攻略](https://mp.weixin.qq.com/s/7K_Q1GihUX04jugjhLq94g)
 + [SpringBoot中的数据脱敏实战：三种高效方案](https://mp.weixin.qq.com/s/ED0h0mE09hDP-fjCRV_CKg)
 + [全面解析：如何启用 @EnableWebSecurity 保护 Spring Boot 3 应用](https://mp.weixin.qq.com/s/nL8rI22gUBEqPrJQFiAC8A)
++ [SpringBoot文件上传安全实战：如何彻底防御伪造文件类型攻击](https://mp.weixin.qq.com/s/B10CWjd6B5Nbu4MVw-IUAA)
 
 #### 设计模式
 
@@ -2821,6 +2833,7 @@
 + [这是一款非常牛批的wifi密码强度检测工具](https://mp.weixin.qq.com/s/5iaCMMKn5YK-Xm9OTILG-w)
 + [五分钟带你搞懂GraphQL](https://mp.weixin.qq.com/s/prvMVg9dvhNYWa63twNl8w)
 + [Hutool神器之Convert类：轻松搞定Java类型转换！](https://mp.weixin.qq.com/s/ZmXepgYin0SI2m--kv4lNg)
++ [链路追踪：SkyWalking深度分析！](https://mp.weixin.qq.com/s/VfHAjscE-QWX5x3JJMnbyA)
 
 # 其它环境
 

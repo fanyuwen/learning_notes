@@ -88,6 +88,7 @@
 + [Kafka消费滞后问题全解析：原因、监控与解决方案](https://mp.weixin.qq.com/s/tbgmRwz7iLDLjge4OoozQA)
 + [Kafka最全详解(万字图文总结)](https://mp.weixin.qq.com/s/NzIVPGx3fKd-gHRUuQaL-w)
 + [建议收藏 | Kafka 实战文章总结](https://mp.weixin.qq.com/s/fGQiG2SD3wM16VDmIITRkQ)
++ [Kafka优化实战 | 如何选择合适的分区？](https://mp.weixin.qq.com/s/s1ijRuZsfpuE4fSWSno2RQ)
 
 # ROCKETMQ
 

@@ -134,6 +134,7 @@
 + [分库分表 带来了哪些问题？](https://mp.weixin.qq.com/s/zwWiq6lnaH7WhikkosUBNg)
 + [高并发订单系统设计：每天新增100w订单数据的分库分表方案](https://mp.weixin.qq.com/s/w9U8q-zzHvCLvP8e6dzjRg)
 + [美团二面：如何用分库分表扛住10亿订单洪峰？架构师必须掌握的3个核心策略！](https://mp.weixin.qq.com/s/QL1yWN_NdCEaHIMmzWQ2wg)
++ [阿里面试：每天新增100w订单，如何的分库分表？这份答案让我当场拿了offer](https://mp.weixin.qq.com/s/XkbtHrZVRtx-f7REzi-eBg)
 
 ## 原理解析
 
@@ -348,6 +349,8 @@
 + [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/m__hz1Ov_m16KGxBqnjP4A)
 + [太实用了！MySQL强大的JSON数据类型提升查询效率](https://mp.weixin.qq.com/s/NyUH2BI6LQD-6GG3LJdVug)
 + [300 秒到 4 秒，如何将 MySQL 批量写入的耗时缩短 99%？](https://mp.weixin.qq.com/s/b-YEe6ex3jpR_ISPcYyzIw)
++ [千万数据量全表扫描下Mysql也不会出现OOM的原因](https://mp.weixin.qq.com/s/kyUbUFPOrcCXkbHJf47wSg)
++ [MySQL-字段设计与NULL值避坑指南](https://mp.weixin.qq.com/s/KMj9ifQuDgUB8tovs4DlRQ)
 
 #### 存储引擎
 
@@ -490,6 +493,7 @@
 + [MySQL索引设计的艺术：你的表该建多少个索引才健康](https://mp.weixin.qq.com/s/0Y5BT_jJcYWx9mK-7t2iFg)
 + [阿里P8面试官连环逼问MySQL索引：从原理到死锁，答完我后背全湿了](https://mp.weixin.qq.com/s/90_MfmQCjYnL8VfJpDQ6uA)
 + [MySQL索引创建，用普通索引还是唯一索引？](https://mp.weixin.qq.com/s/dSuxEvv-B8TCqDVfpjfdvw)
++ [MySQL数据库——索引潜规则（回表查询、索引覆盖、索引下推）](https://mp.weixin.qq.com/s/xpCcTUaDJIlo-8hzgQSIng)
 
 ### PostgreSQL
 
@@ -688,6 +692,7 @@
 + [高并发库存扣减一致性问题，怎么用redis解决？](https://mp.weixin.qq.com/s/yjnTIM4vs2giTWr4c6TgvA)
 + [Redis数据库——内存分配器](https://mp.weixin.qq.com/s/phJwMhf0MfnGkEUe86qkbg)
 + [手把手搞懂Redis数据持久化：如何选择RDB和AOF](https://mp.weixin.qq.com/s/sXJAbkSM2RE5a6EBIqrUCA)
++ [Redis内存不再愁：详解淘汰策略与应用](https://mp.weixin.qq.com/s/eKEhuwPBFWQ0A4_osUeUmg)
 
 #### 原理
 
@@ -847,6 +852,7 @@
 + [flink cdc 3.0 "尝鲜"](https://mp.weixin.qq.com/s/DGINTV_AaK8N5GvYIii6Lw)
 + [Flink SQL之Join底层原理全解析(案例+源码)](https://mp.weixin.qq.com/s/v2wud7lvsnk1wGMnstTv1Q)
 + [Flink自研新特性：yarn-session集群WebUI支持Jar持久化到HDFS实践总结](https://mp.weixin.qq.com/s/WAoiDP9MM70JesL3kNFPZQ)
++ [Flink在长城汽车的应用与实践](https://mp.weixin.qq.com/s/qECs3fRwNUKnk63PGSUSyg)
 
 ## spark
 

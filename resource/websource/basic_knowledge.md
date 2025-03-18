@@ -385,6 +385,8 @@
 + [从单核到百万并发：Nginx负载均衡进阶之路全解析](https://mp.weixin.qq.com/s/nH4D0RzwkuoLVBgJ6yOlXw)
 + [面试官最想听的 Nginx 优化答案：直接上生产级配置！](https://mp.weixin.qq.com/s/ZAaJFxaEYlcWc4fwDmAdhw)
 + [详解Nginx 配置：从入门到精通](https://mp.weixin.qq.com/s/e7D8M9cQFeDh8jK-_T7kvg)
++ [nginx中location的匹配规则和优先级](https://mp.weixin.qq.com/s/lBbS7qBpLJvpKIlhDsaGTg)
++ [nginx中uri重写，break、last、redirect有什么区别](https://mp.weixin.qq.com/s/CuQ8h55GBOoWPFu3C-x14g)
 
 ### wireshark
 

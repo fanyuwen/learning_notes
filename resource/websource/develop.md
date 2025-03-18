@@ -102,12 +102,14 @@
 + [技术Leader如何落地DDD - 爆改团队（一）](https://mp.weixin.qq.com/s/dXqFp9FVYFhWhDlb0X9aFg)
 + [技术Leader如何落地DDD - 爆改团队（二）](https://mp.weixin.qq.com/s/xK-Usnbr3HVwMKajfa76cw)
 + [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
++ [DDD之封装的复杂度](https://mp.weixin.qq.com/s/s53t7KvNmhmjynMjgUTpBw)
 
 ## 微服务
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [领域事件：解耦微服务的关键](https://mp.weixin.qq.com/s/HILiHuL1pDUhC1mwQ7KYVg)
 + [什么是配置中心？常见的配置中心有哪些？](https://mp.weixin.qq.com/s/HE-PQ4BnhywqIr8jnS_wQQ)
++ [微服务 API 网关设计模式详解](https://mp.weixin.qq.com/s/YH9Y_LmtKxQycaHhif35Ew)
 + [微服务架构中的熔断、限流与降级：设计与实现](https://mp.weixin.qq.com/s/xKadJe_t6ZXKlnIiekmojA)
 + [服务治理，是在谈什么？](https://mp.weixin.qq.com/s/B02g5uRABwemR0DfNeuPLA)
 + [2025年微服务架构的发展趋势预测](https://mp.weixin.qq.com/s/oM4CFGA7qfDecV978eEpeQ)
@@ -397,6 +399,10 @@
 + [订单到期关闭的多种实现方式解析](https://mp.weixin.qq.com/s/vQ8oZwpHxShH3tFckCC6wQ)
 + [定时任务（JOB）的几种解决方案，你知道几种？还在使用Timer就过时了。](https://mp.weixin.qq.com/s/jFjQb3XoY58Vuh3NKvuGpA)
 
+### 重试
+
++ [调用第三方接口时，如何进行优雅重试？](https://mp.weixin.qq.com/s/7mc5K8tY5ZJFVunuBOySVw)
+
 ## 缓存
 
 + [如何设计缓存系统：缓存穿透，缓存击穿，缓存雪崩解决方案分析](https://mp.weixin.qq.com/s/IJTGZyHI1JGG8JFxcwNg4g)
@@ -446,6 +452,7 @@
 + [服务端开发必备：9大性能优化秘技](https://mp.weixin.qq.com/s/VQzmg31MkZbUJVnNfqXKkQ)
 + [多人同时导出 Excel 干崩服务器？大佬给出的解决方案太优雅了！](https://mp.weixin.qq.com/s/pu2WNCVDZYdHplF_q5dthw)
 + [分页查询接口，从2s优化到了0.01s](https://mp.weixin.qq.com/s/jYaDvuN6o-EAUgrlNRHDFw)
++ [如何优化高并发下的接口](https://mp.weixin.qq.com/s/L-ZGGqWeBdXVCmyE2BZr1w)
 
 ## 跨域
 

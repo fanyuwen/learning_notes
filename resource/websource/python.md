@@ -188,6 +188,7 @@
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
++ [Python 中有哪些常用的 API？](https://mp.weixin.qq.com/s/h5hZqGIgwt3IDXXY3ei0cw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [深入理解Python并发编程中的GIL限制与解决方案](https://mp.weixin.qq.com/s/bGWC1rBxB4eUdY_3AgZMRA)
 + [Python中的__slots__魔法：内存优化技巧](https://mp.weixin.qq.com/s/WzV4r3jGdfoNhS73ABN-8w)
@@ -395,6 +396,7 @@
 + [Python语法简洁易懂：快速实现数据库连接与操作，增删改查很轻松](https://mp.weixin.qq.com/s/yzHw8tuZYGWE_WjolGZESQ)
 + [资深程序员总结：21个Python代码反模式](https://mp.weixin.qq.com/s/2SewCWszUi1JVbllfVsrpA)
 + [Python黑科技：evaluation_order机制如何解决函数注解的痛点问题？](https://mp.weixin.qq.com/s/1R_YpZ3LzLY35AWheFL0Tw)
++ [Python单元测试的参数化与数据驱动测试](https://mp.weixin.qq.com/s/R94jEub_xIUeNKqKnRjnfA)
 
 ## 新特性
 
@@ -700,6 +702,7 @@
 + [conda 使用笔记](https://mp.weixin.qq.com/s/AktsGh2uKa7KxDe5V_W4Xw)
 + [FastUI：Python开发者轻松构建响应式Web UI](https://mp.weixin.qq.com/s/7Qc1REuDLMHGKj-o4sAw4A)
 + [Python 必备！Spleeter 实现音乐源分离超详细教程，让音乐处理更简单](https://mp.weixin.qq.com/s/zC0y18NSd2NI3bAYsc0rfg)
++ [一文读懂Python项目文档自动化，从docstring到持续集成](https://mp.weixin.qq.com/s/FL6OxsrLhbgjq1kLpJ5qIA)
 
 ## 框架
 

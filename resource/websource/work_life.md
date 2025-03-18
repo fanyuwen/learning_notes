@@ -258,6 +258,7 @@
 + [IntelliJ IDEA 神级攻略：IDEA 实战隐藏技巧指南](https://mp.weixin.qq.com/s/bhbojnfB-RlOEVDl3ETNPQ)
 + [一款必备的 IDEA 神级插件，轻松搞定繁杂的 JSON 格式化](https://mp.weixin.qq.com/s/su_LGh7de_hFucGKIXk8_w)
 + [IDEA深度用户必备：高效部署技巧，一键搞定项目发布](https://mp.weixin.qq.com/s/tMnfF1Zss3zW4t0ou_dA8Q)
++ [Java 23 和 IntelliJ IDEA ｜ 技术解析](https://my.oschina.net/u/5494143/blog/16523115)
 
 ## MAC_PRO相关
 

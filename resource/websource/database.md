@@ -109,6 +109,7 @@
 + [腾讯面试题：如何保证Redis与MySQL的数据一致性？](https://mp.weixin.qq.com/s/HUMu42ZYijHvPGfdEuts3A)
 + [别踩坑！存储电话号码，到底用 int 还是用 string？](https://mp.weixin.qq.com/s/5hq-uMsJ-x2caNtFAmR_bA)
 + [Mysql/Oracle/Postgresql快速批量生成百万测试数据sql汇总（非存储过程）](https://mp.weixin.qq.com/s/Ha8HIb0TJ6cg-lcu2Rz-tw)
++ [为什么高性能场景选用Postgres SQL 而不是 MySQL](https://mp.weixin.qq.com/s/3pIDtA03SQE0waOUG7dUZw)
 
 ### 读写分离&分库分表
 
@@ -351,6 +352,8 @@
 + [300 秒到 4 秒，如何将 MySQL 批量写入的耗时缩短 99%？](https://mp.weixin.qq.com/s/b-YEe6ex3jpR_ISPcYyzIw)
 + [千万数据量全表扫描下Mysql也不会出现OOM的原因](https://mp.weixin.qq.com/s/kyUbUFPOrcCXkbHJf47wSg)
 + [MySQL-字段设计与NULL值避坑指南](https://mp.weixin.qq.com/s/KMj9ifQuDgUB8tovs4DlRQ)
++ [MySQL数据库——版本号机制和CAS（Compare And Swap）](https://mp.weixin.qq.com/s/Wxe961D8v2Xl0xs7tzGILQ)
++ [MySQL性能优化实战指南：从原理到落地的最佳实践](https://mp.weixin.qq.com/s/8F3mFH8MoKJN9f7BzqrMhw)
 
 #### 存储引擎
 
@@ -431,6 +434,7 @@
 + [谈谈你们选什么事务隔离级别](https://mp.weixin.qq.com/s/9f8JesHhyHuwnW0AqEwKhA)
 + [【高手进阶】MySQL事务的那些事](https://mp.weixin.qq.com/s/ZJB3mxrp5u8NurT0CIpZjw)
 + [MySQL事务隔离级别：从脏读到幻读的全链路防御指南](https://mp.weixin.qq.com/s/d6pAqT9RuuFDS7mJkzi4Zg)
++ [一文讲清楚 MySQL 事务隔离级别和实现原理](https://mp.weixin.qq.com/s/2kW14QLbTI7fCbcuOun-dg)
 
 #### 索引
 
@@ -494,6 +498,7 @@
 + [阿里P8面试官连环逼问MySQL索引：从原理到死锁，答完我后背全湿了](https://mp.weixin.qq.com/s/90_MfmQCjYnL8VfJpDQ6uA)
 + [MySQL索引创建，用普通索引还是唯一索引？](https://mp.weixin.qq.com/s/dSuxEvv-B8TCqDVfpjfdvw)
 + [MySQL数据库——索引潜规则（回表查询、索引覆盖、索引下推）](https://mp.weixin.qq.com/s/xpCcTUaDJIlo-8hzgQSIng)
++ [解读MySQL 索引基础](https://mp.weixin.qq.com/s/R0c6EKG662cLMVSB1zab3Q)
 
 ### PostgreSQL
 
@@ -693,6 +698,7 @@
 + [Redis数据库——内存分配器](https://mp.weixin.qq.com/s/phJwMhf0MfnGkEUe86qkbg)
 + [手把手搞懂Redis数据持久化：如何选择RDB和AOF](https://mp.weixin.qq.com/s/sXJAbkSM2RE5a6EBIqrUCA)
 + [Redis内存不再愁：详解淘汰策略与应用](https://mp.weixin.qq.com/s/eKEhuwPBFWQ0A4_osUeUmg)
++ [美团一面：Redis为什么快？纯内存操作真的就是全部吗？面试官笑了笑，我慌了……](https://mp.weixin.qq.com/s/vm_YG39GE2ZcegrzaN9ENA)
 
 #### 原理
 

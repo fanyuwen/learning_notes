@@ -221,6 +221,7 @@
 + [什么是 Write-Ahead Logging技术？它是如何工作的？](https://mp.weixin.qq.com/s/OWUsxr5wZ1nxYc1B4InKcA)
 + [浅谈分布式系统的核心挑战与解决方案](https://mp.weixin.qq.com/s/aHH5mIqa5vxuBbvcos4Q3A)
 + [分布式ID生成方案](https://mp.weixin.qq.com/s/w0g8r63hiQbiQgOaxSXYYA)
++ [分布式系统的基本组件与核心运作机制](https://mp.weixin.qq.com/s/HJ30MijB_1vQC5iRcXXM_w)
 
 ## 分布式锁
 
@@ -398,6 +399,7 @@
 + [2. 电商平台中订单未支付过期如何实现自动关单？](https://mp.weixin.qq.com/s/e3-Z89A-QPgDJf9g9pSGtw)
 + [订单到期关闭的多种实现方式解析](https://mp.weixin.qq.com/s/vQ8oZwpHxShH3tFckCC6wQ)
 + [定时任务（JOB）的几种解决方案，你知道几种？还在使用Timer就过时了。](https://mp.weixin.qq.com/s/jFjQb3XoY58Vuh3NKvuGpA)
++ [关于支付超时取消，你有几种方案？本文详细讲解一下](https://mp.weixin.qq.com/s/8YloUFp_g4yEQJ7j8TF-Wg)
 
 ### 重试
 
@@ -751,6 +753,8 @@
 + [工作中这么使用git，效率直线提升](https://mp.weixin.qq.com/s/mGytSKanhUXNadDKWQHCig)
 + [前端人必知！Git 与前端项目的完美协作秘籍](https://mp.weixin.qq.com/s/Zeg9XedEYKVHxEc6O7uMRQ)
 + [Git指南-从入门到精通](https://mp.weixin.qq.com/s/q2yoPX7-J-0iI_JPNuVrqg)
++ [掌握git高级操作，绝对实用！](https://mp.weixin.qq.com/s/rLB4R60_eNWZWVYHNOAgew)
++ [Git技巧 | 取消Git对文件/文件夹的跟踪](https://mp.weixin.qq.com/s/IFaNhTrKe_kwW5dv610yKQ)
 
 ### 编程范式
 

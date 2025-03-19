@@ -148,6 +148,7 @@
 + [掌握「CP」命令，高效复制不再是难题！](https://mp.weixin.qq.com/s/C5mwuj_mMeWh2Y7xmURkOw)
 + [Linux下hexdump和od命令的应用](https://mp.weixin.qq.com/s/9isZ1o_tkqggjqyGTncQcA)
 + [Linux系统常用命令用法详解](https://mp.weixin.qq.com/s/UH9auZZhGX3athE-cNlg9A)
++ [Linux命令小课堂 sudo tar -czvf 压缩率知多少？](https://mp.weixin.qq.com/s/b4zSvcykptzL25rFTd_8DA)
 
 ### 发行版信息
 
@@ -387,6 +388,7 @@
 + [详解Nginx 配置：从入门到精通](https://mp.weixin.qq.com/s/e7D8M9cQFeDh8jK-_T7kvg)
 + [nginx中location的匹配规则和优先级](https://mp.weixin.qq.com/s/lBbS7qBpLJvpKIlhDsaGTg)
 + [nginx中uri重写，break、last、redirect有什么区别](https://mp.weixin.qq.com/s/CuQ8h55GBOoWPFu3C-x14g)
++ [nginx中应用正则表达式](https://mp.weixin.qq.com/s/z8rBDYDOo-iV0qFq1X4UVg)
 
 ### wireshark
 

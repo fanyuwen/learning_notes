@@ -60,6 +60,8 @@
 + [程序员的35岁焦虑根源于只会写代码，在商业中技术只是很普通的资源！](https://mp.weixin.qq.com/s/CFwt_vcWYLQc-_mcT3awpw)
 + [技术很好，为什么面试大厂不是一面挂就是二面挂？](https://mp.weixin.qq.com/s/dnTuNZCfY2EITM0Tdr-wgA)
 + [89年，36岁，刚被裁员，分享3点求职经验助你找到好工作](https://mp.weixin.qq.com/s/NIFq4V1AB_th2RqFc2aB7w)
++ [程序员那些不知不觉间养成的低效工作习惯！](https://mp.weixin.qq.com/s/qYa41iVjQrc5OJJvzJc2yQ)
++ [大厂员工自曝：34岁，年薪50万，存款270万，每月公积金9885，公积金账户51万，没房没车没负债，干到被辞退就结束](https://mp.weixin.qq.com/s/RajfO4w15aqtD7zB3trBFA)
 
 # 个人成长
 
@@ -342,6 +344,7 @@
 + [一个周末重写所有代码，性能提升 10 倍！没有这个 1000 倍工程师，就没有现在的谷歌地图](https://mp.weixin.qq.com/s/h9WMkawDFxOfA5lAPU2WhA)
 + [膜拜！上古程序员实在太厉害了！](https://mp.weixin.qq.com/s/1F-_fvme4RenXG7xFFyoYw)
 + [【独家揭秘】这帮大神，竟从零打造了一款全新的浏览器？！](https://mp.weixin.qq.com/s/Ceg3rU1QOmxE4LBGsC7rtQ)
++ [2025哪些技能仍然有很大的需求缺口？](https://mp.weixin.qq.com/s/rz0ov--v3xUSUT9H1gxYhA)
 
 ## 创业
 

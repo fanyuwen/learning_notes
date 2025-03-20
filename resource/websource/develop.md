@@ -561,6 +561,7 @@
 + [Java 中实现用户登录次数限制的多种方案](https://mp.weixin.qq.com/s/60lJFeUpqzeGidW846RkbA)
 + [整理常见的多租户系统的实现方案](https://mp.weixin.qq.com/s/bD2B6_pCzAMPiAXz4GPEzw)
 + [聊聊技术方案设计的普遍问题与参考实践](https://mp.weixin.qq.com/s/mVr0wwHrnn5knxKj7-syRg)
++ [如何优雅实现接口统一调用](https://mp.weixin.qq.com/s/t1dSWc_53_t6Y4nbL4qytg)
 
 # 测试相关
 
@@ -757,6 +758,8 @@
 + [Git指南-从入门到精通](https://mp.weixin.qq.com/s/q2yoPX7-J-0iI_JPNuVrqg)
 + [掌握git高级操作，绝对实用！](https://mp.weixin.qq.com/s/rLB4R60_eNWZWVYHNOAgew)
 + [Git技巧 | 取消Git对文件/文件夹的跟踪](https://mp.weixin.qq.com/s/IFaNhTrKe_kwW5dv610yKQ)
++ [git reset的几种用法](https://mp.weixin.qq.com/s/JJ5S3gg82T6dd-1J41TVRQ)
++ [复现git merge冲突和手动解决](https://mp.weixin.qq.com/s/gVIE4qz3hdMukstje7Vwwg)
 
 ### 编程范式
 

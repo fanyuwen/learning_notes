@@ -39,6 +39,9 @@
 + [接口隔离原则，到底什么需要隔离？](https://mp.weixin.qq.com/s/JpezPV3BQKI5-VnNvRZZgw)
 + [依赖倒置，究竟什么被倒置了？](https://mp.weixin.qq.com/s/lvMiQUG_Pd6wufQlYNXicA)
 + [【工作思考】面向对象的编码设计原则](https://mp.weixin.qq.com/s/6Xag5tEeDykN8T4Z6vdLPA)
++ [什么是依赖倒置原则？](https://mp.weixin.qq.com/s/RTiHIunpgsrWhEfMgcLhdw)
++ [SOLID原则之 ISP 接口隔离原则](https://mp.weixin.qq.com/s/NLRYRbDOugg8uxpVdiK8EA)
++ [SOLID原则之 LSP 里氏替换原则](https://mp.weixin.qq.com/s/MO6dPNsV_yh5l8_FVoNNUg)
 
 ## 单例模式
 
@@ -88,6 +91,7 @@
 + [优化代码结构-策略模式(Strategy Pattern)](https://mp.weixin.qq.com/s/Uw2lMWMq_WcTagV_EpFQUg)
 + [什么是策略模式？为什么需要策略模式？](https://mp.weixin.qq.com/s/1b-fCR8DhLji7gtKRRK1XA)
 + [彻底搞懂策略模式](https://mp.weixin.qq.com/s/xuUrjKGFi_3aapawPywXgQ)
++ [设计模式--策略模式](https://mp.weixin.qq.com/s/bpx_zcPcwaXuhCyUtYU9yA)
 
 ## 装饰器模式
 

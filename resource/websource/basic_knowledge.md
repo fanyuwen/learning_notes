@@ -99,6 +99,7 @@
 + [Linux系统常用目录结构](https://mp.weixin.qq.com/s/9fZOJul7ruvVHir0UQIWAw)
 + [Linux磁盘加密](https://mp.weixin.qq.com/s/Zo3Fz61_rhmjHC-xgJ9u-g)
 + [umount之文件系统仍然被某些进程使用时如何强制卸载（高风险操作，需谨慎）](https://mp.weixin.qq.com/s/vw9NvI2L107br933zJ5BYQ)
++ [主机、服务器运维必备技能：3分钟学会查看Linux系统版本和内核，轻松搞定！](https://mp.weixin.qq.com/s/UblWHkd7Ogtobajm0TLqcw)
 
 ### 网络
 
@@ -390,6 +391,8 @@
 + [nginx中uri重写，break、last、redirect有什么区别](https://mp.weixin.qq.com/s/CuQ8h55GBOoWPFu3C-x14g)
 + [nginx中应用正则表达式](https://mp.weixin.qq.com/s/z8rBDYDOo-iV0qFq1X4UVg)
 + [极限网关核心架构解析：从 Nginx 到 INFINI Gateway 的演进](https://mp.weixin.qq.com/s/2ZnHArc8FMCJ2MVqYtrBIg)
++ [nginx负载均衡配置](https://mp.weixin.qq.com/s/MtpvKk98jB977h6lOOUbqg)
++ [nginx中哪些静态文件值得压缩？gzip的用法](https://mp.weixin.qq.com/s/UyiFQ8Eq-S3esLjcD0bReA)
 
 ### wireshark
 

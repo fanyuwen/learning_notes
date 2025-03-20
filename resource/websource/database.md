@@ -354,6 +354,9 @@
 + [MySQL-字段设计与NULL值避坑指南](https://mp.weixin.qq.com/s/KMj9ifQuDgUB8tovs4DlRQ)
 + [MySQL数据库——版本号机制和CAS（Compare And Swap）](https://mp.weixin.qq.com/s/Wxe961D8v2Xl0xs7tzGILQ)
 + [MySQL性能优化实战指南：从原理到落地的最佳实践](https://mp.weixin.qq.com/s/8F3mFH8MoKJN9f7BzqrMhw)
++ [谁说 MySQL 单表行数不要超过 2000W](https://mp.weixin.qq.com/s/aPmfAF8lXdcZG0LuN55Qjw)
++ [MySQL编码大揭秘：utf8mb4与UTF-8有何不同？](https://mp.weixin.qq.com/s/32VNxReavrefvy089_2sWQ)
++ [解读MySQL Explain关键字：优化查询执行计划的实用指南](https://mp.weixin.qq.com/s/AIjIYxv407pRovVE5ppwDg)
 
 #### 存储引擎
 
@@ -368,6 +371,7 @@
 + [技术解读 MySQL InnoDB 大对象存储格式](https://my.oschina.net/u/4526289/blog/15790530)
 + [Innodb 是如何实现事务的？](https://mp.weixin.qq.com/s/kDuQbqL_Oi5494OwyqM9ng)
 + [InnoDB 索引之B+树详解](https://mp.weixin.qq.com/s/BXfogZuQ0NRYm24zh2NI9w)
++ [MySQL数据库——存储引擎（InnoDB、MyISAM、MEMORY、ARCHIVE）](https://mp.weixin.qq.com/s/-AUH-KXHiB_PDtWBQvnUIA)
 
 #### MVCC
 
@@ -499,6 +503,7 @@
 + [MySQL索引创建，用普通索引还是唯一索引？](https://mp.weixin.qq.com/s/dSuxEvv-B8TCqDVfpjfdvw)
 + [MySQL数据库——索引潜规则（回表查询、索引覆盖、索引下推）](https://mp.weixin.qq.com/s/xpCcTUaDJIlo-8hzgQSIng)
 + [解读MySQL 索引基础](https://mp.weixin.qq.com/s/R0c6EKG662cLMVSB1zab3Q)
++ [庖丁解InnoDB之B+Tree](https://mp.weixin.qq.com/s/LMLOfDOFMs6rAJbcu04lOA)
 
 ### PostgreSQL
 

@@ -357,6 +357,8 @@
 + [谁说 MySQL 单表行数不要超过 2000W](https://mp.weixin.qq.com/s/aPmfAF8lXdcZG0LuN55Qjw)
 + [MySQL编码大揭秘：utf8mb4与UTF-8有何不同？](https://mp.weixin.qq.com/s/32VNxReavrefvy089_2sWQ)
 + [解读MySQL Explain关键字：优化查询执行计划的实用指南](https://mp.weixin.qq.com/s/AIjIYxv407pRovVE5ppwDg)
++ [MySQL事务和元数据锁—— 普通select语句也能造成生产事故](https://mp.weixin.qq.com/s/Gf39nAh2jwA4eFt8wcGEzg)
++ [阿里面试：MySQL Binlog有哪些格式？底层原理？优缺点？](https://mp.weixin.qq.com/s/E6xlZYFZ5JXVVX6xr5ZPnA)
 
 #### 存储引擎
 
@@ -710,6 +712,10 @@
 + [Redis数据库——数据结构类型](https://mp.weixin.qq.com/s/6mqA507I3PBXCpovopuOcA)
 + [Redis数据库—— Hash（哈希）的扩容机制(rehash)](https://mp.weixin.qq.com/s/CDrP-mvTqgmfWF1EawSF_A)
 + [一文读懂 Redis 大 Key 和热 Key 的最优解法](https://mp.weixin.qq.com/s/PgYA1bNl6_CBmJCRJXmJ4g)
++ [Redis数据库——布隆过滤器(BloomFilter)](https://mp.weixin.qq.com/s/85AWJ5qsfuYW9xWgwYFuRA)
++ [数据存储效率对决：Redis String vs. Hash性能大比拼，哪个更适合你？](https://mp.weixin.qq.com/s/rl1Ir4kxuEJXKpg_lyHAmg)
++ [Redis中的列表（List）和集合（Set）有什么区别？如何在Spring Boot中使用它们](https://mp.weixin.qq.com/s/CmJ2uH5QsJWweuyG1-1Fmg)
++ [Redis 有序集合（Sorted Set）揭秘：底层数据结构与高效应用](https://mp.weixin.qq.com/s/P0-mbHU9xDxQJrGKmwZMSA)
 
 #### 原理
 

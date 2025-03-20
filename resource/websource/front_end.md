@@ -65,6 +65,7 @@
 + [JavaScript 闭包的魔法：清晰易懂指南](https://mp.weixin.qq.com/s/pGCzpDnCqe3zq9M0AT2v7A)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
 + [怎样设置定时任务](https://mp.weixin.qq.com/s/FNtBfmvJfsaMS4Tl_EgVUg)
++ [抛弃传统 Ajax，Fetch API 的5个强大特性](https://mp.weixin.qq.com/s/Mujf0xP1fbqNXjb46q5AZg)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)
 + [12 个高级 JavaScript 技巧，优化你的代码](https://mp.weixin.qq.com/s/FDYCQTpn2UC4bPQcwvGSqA)
 + [TypeScript里的type和interface的区别](https://mp.weixin.qq.com/s/0g2c0Mz6XRx1d81IQdA64w)
@@ -137,6 +138,7 @@
 + [前端项目中使用Mock的方案](https://mp.weixin.qq.com/s/Dx8oJJtUems_OHS9AV4pEA)
 + [JavaScript双问号操作符(??)的惊人用法，太强大了](https://mp.weixin.qq.com/s/2a0y2PfWjwfSS028pDHB4A)
 + [前端 TypeError 错误永久消失术](https://my.oschina.net/vivotech/blog/17504974)
++ [性能优化利器：前后端防抖方案解析](https://mp.weixin.qq.com/s/yJUbokpa1dJlaW5sP752fA)
 
 # 框架
 

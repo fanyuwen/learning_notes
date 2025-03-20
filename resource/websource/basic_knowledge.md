@@ -389,6 +389,7 @@
 + [nginx中location的匹配规则和优先级](https://mp.weixin.qq.com/s/lBbS7qBpLJvpKIlhDsaGTg)
 + [nginx中uri重写，break、last、redirect有什么区别](https://mp.weixin.qq.com/s/CuQ8h55GBOoWPFu3C-x14g)
 + [nginx中应用正则表达式](https://mp.weixin.qq.com/s/z8rBDYDOo-iV0qFq1X4UVg)
++ [极限网关核心架构解析：从 Nginx 到 INFINI Gateway 的演进](https://mp.weixin.qq.com/s/2ZnHArc8FMCJ2MVqYtrBIg)
 
 ### wireshark
 

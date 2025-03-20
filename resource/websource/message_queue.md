@@ -90,6 +90,8 @@
 + [建议收藏 | Kafka 实战文章总结](https://mp.weixin.qq.com/s/fGQiG2SD3wM16VDmIITRkQ)
 + [Kafka优化实战 | 如何选择合适的分区？](https://mp.weixin.qq.com/s/s1ijRuZsfpuE4fSWSno2RQ)
 + [Kafka工作原理学习](https://mp.weixin.qq.com/s/sVXDBiJSL2Yd-FAvkbgl6A)
++ [Kafka日志管理系统深度解析](https://mp.weixin.qq.com/s/fnM6NBcHECCTNyqcm1Savw)
++ [Flink 消费 Kafka 配置优化实战分享](https://mp.weixin.qq.com/s/YelSnL5--MGhoqP8gt_gmg)
 
 # ROCKETMQ
 

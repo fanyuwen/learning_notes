@@ -704,6 +704,7 @@
 + [FastUI：Python开发者轻松构建响应式Web UI](https://mp.weixin.qq.com/s/7Qc1REuDLMHGKj-o4sAw4A)
 + [Python 必备！Spleeter 实现音乐源分离超详细教程，让音乐处理更简单](https://mp.weixin.qq.com/s/zC0y18NSd2NI3bAYsc0rfg)
 + [一文读懂Python项目文档自动化，从docstring到持续集成](https://mp.weixin.qq.com/s/FL6OxsrLhbgjq1kLpJ5qIA)
++ [Python代码静态分析工具的开发与应用](https://mp.weixin.qq.com/s/lLHm-_wqKa_5vWrbnd2FGA)
 
 ## 框架
 

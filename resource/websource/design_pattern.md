@@ -20,6 +20,7 @@
 + [工作中最常用的 8 种设计模式](https://mp.weixin.qq.com/s/H6P7UVwXF_hqEeZUzyo1gg)
 + [揭秘 Java 与设计模式：编程路上的 “指南针” 与 “秘籍”](https://mp.weixin.qq.com/s/0lLI4HU2Fpmm6ggK4FUOUw)
 + [面试官为啥总爱问发布订阅模式？看完这篇你就懂了！](https://mp.weixin.qq.com/s/8qAdZcthK_9Oj7CcaGgf2w)
++ [通用设计模式之规格设计模式](https://mp.weixin.qq.com/s/-ZAeleZNTOKcI1gJH7PPRA)
 
 # 并发设计模式
 
@@ -42,6 +43,7 @@
 + [什么是依赖倒置原则？](https://mp.weixin.qq.com/s/RTiHIunpgsrWhEfMgcLhdw)
 + [SOLID原则之 ISP 接口隔离原则](https://mp.weixin.qq.com/s/NLRYRbDOugg8uxpVdiK8EA)
 + [SOLID原则之 LSP 里氏替换原则](https://mp.weixin.qq.com/s/MO6dPNsV_yh5l8_FVoNNUg)
++ [SOLID原则之OCP 开闭原则](https://mp.weixin.qq.com/s/D-m2p-dQuHJTSE0VSqXNZw)
 
 ## 单例模式
 
@@ -53,6 +55,7 @@
 + [单例模式：程序员界的“单身狗”生存指南，为什么全世界只有一个我？](https://mp.weixin.qq.com/s/tDhKDJq07PbPTEZpvo06CA)
 + [【设计模式】破解单例模式：反射、序列化与克隆攻击的防御之道](https://mp.weixin.qq.com/s/doYQTGmYrUp2pJfkgM7UtQ)
 + [【设计模式】单例模式深度解析：从饿汉式到枚举实现的全方位解读](https://mp.weixin.qq.com/s/6Lkf6bSlyRBCI7xjXvfLCg)
++ [单例模式：饿汉式与懒汉式](https://mp.weixin.qq.com/s/lC2N9hn6HY7PiFESDNo8HA)
 
 ## 模板方法模式
 
@@ -92,6 +95,7 @@
 + [什么是策略模式？为什么需要策略模式？](https://mp.weixin.qq.com/s/1b-fCR8DhLji7gtKRRK1XA)
 + [彻底搞懂策略模式](https://mp.weixin.qq.com/s/xuUrjKGFi_3aapawPywXgQ)
 + [设计模式--策略模式](https://mp.weixin.qq.com/s/bpx_zcPcwaXuhCyUtYU9yA)
++ [【设计模式】告别冗长if-else语句：使用策略模式优化代码结构](https://mp.weixin.qq.com/s/vVQJUXTV6xxan2dY3D5M0A)
 
 ## 装饰器模式
 

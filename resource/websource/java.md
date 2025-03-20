@@ -1079,6 +1079,10 @@
 + [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
 + [多级缓存架构实战：Caffeine+Redis 实现百万 QPS 的秘诀](https://mp.weixin.qq.com/s/Ckzun7_g7odkOioWFHCQbw)
 
+# consul
+
++ [Consul 详解](https://mp.weixin.qq.com/s/5Bw9hs8sV-y4x75TZ82jlg)
+
 ## database connect pool
 
 + [聊聊Druid连接池的内部原理及推荐配置](https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ)
@@ -1751,6 +1755,7 @@
 + [【2025版SpringCloud面试题】31、Geteway的工作流程是什么样的？](https://mp.weixin.qq.com/s/oeVu51XSzXauntVnAlj7bA)
 + [SpringCloud Gateway高阶之Sentinel限流、熔断](https://mp.weixin.qq.com/s/UphcllNgW43NYTcVexTyQw)
 + [Spring Cloud Gateway新特性及高级开发技巧](https://mp.weixin.qq.com/s/ChnxZiuGRrk6URz4Z78SKA)
++ [Gateway Sentinel 网关流控、熔断降级](https://mp.weixin.qq.com/s/OYSAb0l3T5IUa-QdlRMMkw)
 
 #### AI
 

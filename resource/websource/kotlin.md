@@ -14,6 +14,7 @@
 + [你以为精通Kotlin协程？这5个冷门机制才是面试官的终极杀招](https://mp.weixin.qq.com/s/f3EonG5ojwdzWH5vIfb2zw)
 + [2024 Kotlin 中文开发者大会：完整回放 + PPT](https://mp.weixin.qq.com/s/W2JsPYLkGg6wl6FcI-gbLw)
 + [Koin 框架官方入驻微信公众号，欢迎关注！ ｜社区分享](https://mp.weixin.qq.com/s/aQxBUUX7OW6MB6iRvQaO4g)
++ [如何给 Kotlin 新增一个 target?](https://mp.weixin.qq.com/s/VwiHmIb8yRL_JO4edRDHtQ)
 
 ## 技术月报
 

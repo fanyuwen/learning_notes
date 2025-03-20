@@ -439,6 +439,7 @@
 + [【高手进阶】MySQL事务的那些事](https://mp.weixin.qq.com/s/ZJB3mxrp5u8NurT0CIpZjw)
 + [MySQL事务隔离级别：从脏读到幻读的全链路防御指南](https://mp.weixin.qq.com/s/d6pAqT9RuuFDS7mJkzi4Zg)
 + [一文讲清楚 MySQL 事务隔离级别和实现原理](https://mp.weixin.qq.com/s/2kW14QLbTI7fCbcuOun-dg)
++ [谈谈Mysql中事务ACID的原理吗?](https://mp.weixin.qq.com/s/vcX3EgC5nfftcBqB_AlE6A)
 
 #### 索引
 
@@ -504,6 +505,8 @@
 + [MySQL数据库——索引潜规则（回表查询、索引覆盖、索引下推）](https://mp.weixin.qq.com/s/xpCcTUaDJIlo-8hzgQSIng)
 + [解读MySQL 索引基础](https://mp.weixin.qq.com/s/R0c6EKG662cLMVSB1zab3Q)
 + [庖丁解InnoDB之B+Tree](https://mp.weixin.qq.com/s/LMLOfDOFMs6rAJbcu04lOA)
++ [MySQL中的覆盖索引是如何工作的？](https://mp.weixin.qq.com/s/Cf1LgyFSF3b-duD9TwCi9A)
++ [MySQL数据库——索引结构之B+树](https://mp.weixin.qq.com/s/dC7PAHpuq8lfIH5I4MZEWQ)
 
 ### PostgreSQL
 
@@ -704,6 +707,9 @@
 + [手把手搞懂Redis数据持久化：如何选择RDB和AOF](https://mp.weixin.qq.com/s/sXJAbkSM2RE5a6EBIqrUCA)
 + [Redis内存不再愁：详解淘汰策略与应用](https://mp.weixin.qq.com/s/eKEhuwPBFWQ0A4_osUeUmg)
 + [美团一面：Redis为什么快？纯内存操作真的就是全部吗？面试官笑了笑，我慌了……](https://mp.weixin.qq.com/s/vm_YG39GE2ZcegrzaN9ENA)
++ [Redis数据库——数据结构类型](https://mp.weixin.qq.com/s/6mqA507I3PBXCpovopuOcA)
++ [Redis数据库—— Hash（哈希）的扩容机制(rehash)](https://mp.weixin.qq.com/s/CDrP-mvTqgmfWF1EawSF_A)
++ [一文读懂 Redis 大 Key 和热 Key 的最优解法](https://mp.weixin.qq.com/s/PgYA1bNl6_CBmJCRJXmJ4g)
 
 #### 原理
 

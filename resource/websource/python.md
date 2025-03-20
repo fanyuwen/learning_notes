@@ -190,6 +190,7 @@
 + [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
 + [Python 中有哪些常用的 API？](https://mp.weixin.qq.com/s/h5hZqGIgwt3IDXXY3ei0cw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
++ [Python中的事件驱动编程模型](https://mp.weixin.qq.com/s/MG4vsk14Wejfgn4S6UGhvw)
 + [告别Python中的None噩梦：5种更优雅的缺失值处理方案](https://mp.weixin.qq.com/s/zk8n1RZ_P-wXlPmI7uAgfQ)
 + [深入理解Python并发编程中的GIL限制与解决方案](https://mp.weixin.qq.com/s/bGWC1rBxB4eUdY_3AgZMRA)
 + [Python中的__slots__魔法：内存优化技巧](https://mp.weixin.qq.com/s/WzV4r3jGdfoNhS73ABN-8w)

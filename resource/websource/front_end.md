@@ -54,6 +54,7 @@
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
++ [JavaScript 事件循环：告别异步“玄学”，这一篇就够了！](https://mp.weixin.qq.com/s/eFyOyPG_NdqT7YAwwfxDyg)
 + [JavaScript字符串处理，10个技巧让代码量减少30%](https://mp.weixin.qq.com/s/SkSwoTsvJXqz18JxXTj8Ng)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
 + [七行代码搞定无限滚动，JavaScript性能优化大揭秘](https://mp.weixin.qq.com/s/ygtLNda9XZNLl1nMzt4tjQ)
@@ -172,6 +173,7 @@
 + [Vue3 组件详解-从入门到实战](https://mp.weixin.qq.com/s/O_KubaGTz6QEp78H5qS2HA)
 + [一文带你吃透 Vue3 核心知识点](https://mp.weixin.qq.com/s/ECG6wDIm6l4JyabgsYTMfA)
 + [Vue3 - 事件处理](https://mp.weixin.qq.com/s/8d6UqkiCPRW_j9uhnB7AVw)
++ [Vue-Router深度实践指南](https://mp.weixin.qq.com/s/WKDmjpSd9aRhii7NRwOKcg)
 
 ## react
 

@@ -108,6 +108,7 @@
 
 + [面试官：为什么要有配置中心这个组件？你怎么使用的？](https://mp.weixin.qq.com/s/jQvznjMNS0ODURRzFBD3dQ)
 + [领域事件：解耦微服务的关键](https://mp.weixin.qq.com/s/HILiHuL1pDUhC1mwQ7KYVg)
++ [微服务架构学习](https://mp.weixin.qq.com/s/GQVrHH1yr9qpAQU3rECdTw)
 + [什么是配置中心？常见的配置中心有哪些？](https://mp.weixin.qq.com/s/HE-PQ4BnhywqIr8jnS_wQQ)
 + [微服务 API 网关设计模式详解](https://mp.weixin.qq.com/s/YH9Y_LmtKxQycaHhif35Ew)
 + [微服务架构中的熔断、限流与降级：设计与实现](https://mp.weixin.qq.com/s/xKadJe_t6ZXKlnIiekmojA)
@@ -222,6 +223,7 @@
 + [浅谈分布式系统的核心挑战与解决方案](https://mp.weixin.qq.com/s/aHH5mIqa5vxuBbvcos4Q3A)
 + [分布式ID生成方案](https://mp.weixin.qq.com/s/w0g8r63hiQbiQgOaxSXYYA)
 + [分布式系统的基本组件与核心运作机制](https://mp.weixin.qq.com/s/HJ30MijB_1vQC5iRcXXM_w)
++ [从架构到代码，深入理解分布式重试组件的设计原理](https://mp.weixin.qq.com/s/YpnEqdgicFqsz7v-NARLMg)
 
 ## 分布式锁
 

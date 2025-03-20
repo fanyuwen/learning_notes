@@ -64,6 +64,7 @@
 + [为什么说 JavaScript Map 比对象更香？](https://mp.weixin.qq.com/s/3yUbtw2oI59CBmacZTHKzA)
 + [JavaScript 闭包的魔法：清晰易懂指南](https://mp.weixin.qq.com/s/pGCzpDnCqe3zq9M0AT2v7A)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
++ [一行代码实现这些复杂功能，JavaScript太强大了！](https://mp.weixin.qq.com/s/oxaEoN_nufz6Z8NuUCbFnA)
 + [怎样设置定时任务](https://mp.weixin.qq.com/s/FNtBfmvJfsaMS4Tl_EgVUg)
 + [抛弃传统 Ajax，Fetch API 的5个强大特性](https://mp.weixin.qq.com/s/Mujf0xP1fbqNXjb46q5AZg)
 + [Playwright实战：探索事件监听机制](https://mp.weixin.qq.com/s/hOaygZlk1xpxJfjIEMAbmA)

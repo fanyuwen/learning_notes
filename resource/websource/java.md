@@ -926,6 +926,7 @@
 + [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/r_pPhTtieZcok_vscZpkcQ)
 + [面试必杀技！ThreadLocal的难点、面试高频问题、实际使用场景等多个维度！](https://mp.weixin.qq.com/s/q6vkAhwnoyXVl5D7tAMjDg)
 + [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/nd6mDC2vJx-Aq3Eb18Jsaw)
++ [ThreadLocal：线程的“私人储物柜”如何解决并发难题？](https://mp.weixin.qq.com/s/R5NK--nJF9vpLWOr9aq9-Q)
 
 ### Lock
 

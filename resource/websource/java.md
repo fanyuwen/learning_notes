@@ -122,6 +122,7 @@
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
 + [JDK 23 新特性解读~](https://mp.weixin.qq.com/s/aZMSwwejdqEtjDqlLzqQtQ)
++ [Java 24 正式发布，超神了。。。](https://mp.weixin.qq.com/s/pd1isbjF6nNhNJQhYfRTUw)
 + [Java 8的关键新特性：Lambda表达式、Base64编码、日期时间API及Optional类](https://mp.weixin.qq.com/s/pHYDeoGRa4BWcayWv1HmIw)
 + [JDK8 升级 JDK11 最全实践干货来了](https://my.oschina.net/u/4090830/blog/11214877)
 + [从Java8到Java17，这些新特性让你的代码起飞！](https://mp.weixin.qq.com/s/T2BX5FEzWcXDsltxChxJKQ)
@@ -1402,6 +1403,8 @@
 + [把bean注册到Spring容器的16种方法](https://mp.weixin.qq.com/s/pMbgdMZhRsdh0jzupsGW2Q)
 + [拼多多1面：Spring @Lazy可以解决循环依赖吗？](https://mp.weixin.qq.com/s/d9Qw9V0YZ1avvBFriDOZrg)
 + [Spring（三）Bean 生命周期与作用域：从创建到销毁的完整掌控](https://mp.weixin.qq.com/s/bpXL7IpwGhWAnHix2uGIzA)
++ [Spring框架扩展神技：BeanPostProcessor](https://mp.weixin.qq.com/s/Ek9FzuFWQ75R6YRhXrA31A)
++ [某外企1面：Spring @Profile是如何工作的？](https://mp.weixin.qq.com/s/C2mGprMvgdmwERBGt2BSiA)
 
 #### 配置
 
@@ -1769,6 +1772,7 @@
 + [SpringCloud Gateway高阶之Sentinel限流、熔断](https://mp.weixin.qq.com/s/UphcllNgW43NYTcVexTyQw)
 + [Spring Cloud Gateway新特性及高级开发技巧](https://mp.weixin.qq.com/s/ChnxZiuGRrk6URz4Z78SKA)
 + [Gateway Sentinel 网关流控、熔断降级](https://mp.weixin.qq.com/s/OYSAb0l3T5IUa-QdlRMMkw)
++ [SpringCloud Gateway高阶之全局异常处理](https://mp.weixin.qq.com/s/FFlc0GfLL5UKh1kXwXV-qw)
 
 #### AI
 

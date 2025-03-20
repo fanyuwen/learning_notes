@@ -44,6 +44,7 @@
 + [Java接口详解](https://mp.weixin.qq.com/s/2Sfct1_jTAqbN4X_SQuPsw)
 + [深入浅出Java成员内部类：亲密关系的艺术](https://mp.weixin.qq.com/s/NTiOAUj12z4GAu2qAUPl3g)
 + [Java内部类：隐藏在类中的“秘密花园”](https://mp.weixin.qq.com/s/ct-_hRCCVpHjnsoY9P1Inw)
++ [Java方法内部类：藏在方法里的精巧设计](https://mp.weixin.qq.com/s/HiRZzDN6thZeeY0MIgT35g)
 + [解密Java静态内部类：优雅设计背后的隐藏力量](https://mp.weixin.qq.com/s/beVZlpl7W7IGae1-Eo7iFQ)
 + [Java接口深度解析：灵活设计的关键](https://mp.weixin.qq.com/s/AHcpR0AHyTWo81Sg5loBkQ)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)

@@ -39,6 +39,7 @@
 + [一觉醒来，发现 try catch 要被淘汰了？](https://mp.weixin.qq.com/s/lDBWiadXChpmX4MV96ER8w)
 + [ES6新特性，你都会了吗？](https://mp.weixin.qq.com/s/qW6gqNSoByZYPPo1DiDGMA)
 + [JavaScript解构赋值看这篇就够了](https://mp.weixin.qq.com/s/16hgTUEqFLGWyVTJz5-5dQ)
++ [JavaScript 运算符进阶指南：ES6+ 新特性深度解析与实践](https://mp.weixin.qq.com/s/6M8VG_6zQo4yJSbilz-Etg)
 
 ### 底层
 
@@ -50,10 +51,12 @@
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
 + [不用 if else，如何优雅处理 JavaScript 条件判断？](https://mp.weixin.qq.com/s/MTgsjU904wMyATuZocOdPw)
++ [这 11 个前端技巧，一定有你不知道的！](https://mp.weixin.qq.com/s/Wu-rFFGwPp_6kgE30PQC5w)
 + [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
++ [JavaScript 函数形参全面解析：5种声明方式与高级技巧](https://mp.weixin.qq.com/s/hn2Pt03NSlMIJXfWS7pMZg)
 + [JavaScript 事件循环：告别异步“玄学”，这一篇就够了！](https://mp.weixin.qq.com/s/eFyOyPG_NdqT7YAwwfxDyg)
 + [JavaScript字符串处理，10个技巧让代码量减少30%](https://mp.weixin.qq.com/s/SkSwoTsvJXqz18JxXTj8Ng)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)

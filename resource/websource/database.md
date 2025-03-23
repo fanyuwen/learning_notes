@@ -716,6 +716,8 @@
 + [数据存储效率对决：Redis String vs. Hash性能大比拼，哪个更适合你？](https://mp.weixin.qq.com/s/rl1Ir4kxuEJXKpg_lyHAmg)
 + [Redis中的列表（List）和集合（Set）有什么区别？如何在Spring Boot中使用它们](https://mp.weixin.qq.com/s/CmJ2uH5QsJWweuyG1-1Fmg)
 + [Redis 有序集合（Sorted Set）揭秘：底层数据结构与高效应用](https://mp.weixin.qq.com/s/P0-mbHU9xDxQJrGKmwZMSA)
++ [美团一面：我说用Redis做缓存，他‘哦’了一声…面试官到底在暗示什么？](https://mp.weixin.qq.com/s/Eov8_-LWAF2lnfw-wasBVg)
++ [为什么有了Redis还需要本地缓存？](https://mp.weixin.qq.com/s/wFvPAHoDnLY52J4YaJr--g)
 
 #### 原理
 

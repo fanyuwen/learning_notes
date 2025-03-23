@@ -251,6 +251,7 @@
 + [《计算机网络》第五章——运输层考点总结（上）](https://mp.weixin.qq.com/s/weJepRCns0XsDvAxsVhUoA)
 + [RIP 动态路由配置教程：从入门到实践](https://mp.weixin.qq.com/s/FsZoXqs0Ox5f4bwzw6nUmA)
 + [深入解析reactor网络模型的实现原理、代码详解](https://mp.weixin.qq.com/s/WqA3GF1RYTRdgdlCQzzC_g)
++ [记一次某网站存储桶XSS](https://mp.weixin.qq.com/s/mySPYLkFcfcdgXKJlBvT3Q)
 
 ### DNS
 
@@ -282,6 +283,7 @@
 + [兄弟们，IPV6以后必须要撑握的技术，ipv6报头讲解！](https://mp.weixin.qq.com/s/g6tm0uJx-dK9eQ15FPMM9Q)
 + [只因把 https 改成 http，带宽减少了 70%！](https://mp.weixin.qq.com/s/YqnTzD6Ah9OgZn-Tnnluxw)
 + [【java面试100问】27 RPC协议和HTTP协议有什么区别？](https://mp.weixin.qq.com/s/Fr2jP1x7kNvfIbxtInrmIA)
++ [快手一面：你能说一下为什么用RPC而不用其他技术吗？以及RPC底层原理？我：当时没有答上来 面试官：那就下一题吧](https://mp.weixin.qq.com/s/VQJ8_f5ezUbR6XDARGfFiA)
 + [HTTP和HTTPS有什么区别？CA起到什么作用？](https://mp.weixin.qq.com/s/jxCP9hHilT31N5QRmULP8Q)
 
 #### CORS

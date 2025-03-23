@@ -138,6 +138,7 @@
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [指针学不会？看完这 15 张动态图，隔壁文科生都懂了！](https://mp.weixin.qq.com/s/FP5KkSevhgUY4UdCQbrY9g)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
++ [C语言编写一个简单的内存分配器：大家都以为简单，实则暗藏玄机](https://mp.weixin.qq.com/s/trKDOz04Nzbo1SM7ECI9PQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [彻底搞清楚 “变量”](https://mp.weixin.qq.com/s/L5wBITMeIUtFkM8sAlX3tQ)

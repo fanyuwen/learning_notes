@@ -103,6 +103,7 @@
 + [技术Leader如何落地DDD - 爆改团队（二）](https://mp.weixin.qq.com/s/xK-Usnbr3HVwMKajfa76cw)
 + [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
 + [DDD之封装的复杂度](https://mp.weixin.qq.com/s/s53t7KvNmhmjynMjgUTpBw)
++ [DDD与CRUD的本质区别](https://mp.weixin.qq.com/s/XcutD-s27LbR6rukcR3KkQ)
 
 ## 微服务
 
@@ -353,6 +354,7 @@
 + [幂等性：如何通过设计避免重复操作的影响？](https://mp.weixin.qq.com/s/jJaaaPxU1FEQJ8IO_bfgQw)
 + [高并发下 如何保证接口的幂等性？](https://mp.weixin.qq.com/s/20tPlrMJFYqlf53_XjlY_A)
 + [系统重试，导致库存扣多啦，怎么办（两行代码破解）？（第41讲）](https://mp.weixin.qq.com/s/qh4JUbE-Tz0Kz5_D1r3_cw)
++ [什么是幂等？如何解决幂等性？](https://mp.weixin.qq.com/s/3NU0q-8V3bRwjD_dhslg_w)
 
 ### 负载&限流
 

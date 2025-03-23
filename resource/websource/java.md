@@ -71,6 +71,7 @@
 + [解析Java访问修饰符对方法重写的影响](https://mp.weixin.qq.com/s/45pMBj5KAwyVwz8CHP2ACQ)
 + [深入理解Java方法重写：从原理到实践](https://mp.weixin.qq.com/s/nGRDf-aEP-nsQ3XoDKBvtA)
 + [竟然还有人不知道 Java 的内省机制](https://mp.weixin.qq.com/s/Sm1S2wmWslb5EJXgAIs6Ow)
++ [快手一面：那问一下基础部分吧，我看你写了熟悉集合，能介绍一个你熟悉集合的吗？我：我竟然懵了！](https://mp.weixin.qq.com/s/wj0urLfkISEF9RG_qN1jxA)
 
 ### 泛型
 
@@ -103,6 +104,7 @@
 
 ## 新语言特性
 
++ [JDK版本发布时间线，每个版本都有哪些特性](https://mp.weixin.qq.com/s/m-3GZhlBlrTt-pAUrsS3qQ)
 + [JEP 481：作用域值API的第3个预览版随JDK 23发布，带来关键增强](https://mp.weixin.qq.com/s/woAR6QjUlyWcISwPYRubqA)
 + [Project Leyden 早期访问版本开放下载：Java 程序启动速度提升 2 至 3 倍](https://mp.weixin.qq.com/s/inM7uwIC8_AubyXZUhBT1g)
 + [JDK8中新增的功能（七大类功能更新与改进）](https://mp.weixin.qq.com/s/L3qx9Fz4hKHnWyUSyCJBFQ)
@@ -156,6 +158,7 @@
 ## 高级用法
 
 + [Java循环还能这么玩？](https://mp.weixin.qq.com/s/8jxL6XXfWpXbCFYVsdtRFg)
++ [9种技巧优化if-else](https://mp.weixin.qq.com/s/g17tX_uc4pvIAWKMxtwkCw)
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
 + [深入探索java.util.Objects工具类](https://mp.weixin.qq.com/s/s54NOctwWboFn6PcxbrrEQ)
 + [判断对象的属性是否为null](https://mp.weixin.qq.com/s/5ecLRQqB9LArNbSd8Dt9ig)
@@ -166,6 +169,7 @@
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java Lambda表达式实现原理深入面试问答](https://mp.weixin.qq.com/s/m4aLviutBIiwUqVt2NquuA)
 + [常用的 Lambda 表达式案例解析](https://mp.weixin.qq.com/s/GbebKL50GagpLqD4vD9CgQ)
++ [超赞！Java枚举的高级实战技巧](https://mp.weixin.qq.com/s/4_6pjletQ22SBLXob0VCYg)
 + [Java后端：通过Function函数式接口与Lambda表达式简化代码](https://mp.weixin.qq.com/s/WXcunRlVYjnT2RQ3x2nS_A)
 + [java中常用的22种数据类型转换，超详细！](https://mp.weixin.qq.com/s/EPj8uSKVTMRM1KHNHIwlug)
 + [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
@@ -250,6 +254,7 @@
 + [Arrays工具类教你优雅地管理数组数据](https://mp.weixin.qq.com/s/01x2Fb68bfVgM72Dt09mpg)
 + [MapUtils工具类](https://mp.weixin.qq.com/s/BEeRBbrnqVdmSna0iALvEw)
 + [Java中Map接口的深入解析与最佳实践](https://mp.weixin.qq.com/s/MRWaIxWSVsOTtZo72tQSAQ)
++ [面试官：合并两个有序数组，说说你的思路？ 我：...](https://mp.weixin.qq.com/s/p8kLO4heleNqWBq2jo0gFg)
 
 ## 代码质量
 
@@ -1088,7 +1093,7 @@
 + [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
 + [多级缓存架构实战：Caffeine+Redis 实现百万 QPS 的秘诀](https://mp.weixin.qq.com/s/Ckzun7_g7odkOioWFHCQbw)
 
-# consul
+## consul
 
 + [Consul 详解](https://mp.weixin.qq.com/s/5Bw9hs8sV-y4x75TZ82jlg)
 
@@ -1121,6 +1126,7 @@
 + [Hystrix最全详解(万字图文总结)](https://mp.weixin.qq.com/s/xuvcOIdbycQ_LuIP0kYtpg)
 + [什么是 Hystrix？它的工作原理是什么？](https://mp.weixin.qq.com/s/0dobf9_vSbv75Y9-tJbHkA)
 + [微服务实战：服务熔断降级组件 Hystrix 工作原理及用法，实战讲解！](https://mp.weixin.qq.com/s/l-IR9MVEYlLuaox4da4p2g)
++ [告别JDK8，拥抱JDK17，使用 Eureka 快速搭建服务注册中心和服务客户端](https://mp.weixin.qq.com/s/E8W4_v89pfvDNudmf-l8JQ)
 
 ## json
 
@@ -1261,6 +1267,7 @@
 + [Nacos学习圣经：从入门到精通 Nacos，最全详解 (30+图文全面总结)](https://mp.weixin.qq.com/s/q8MkXtQ6YGy32KqrQUNb_g)
 + [深入探讨Nacos服务注册与发现机制](https://mp.weixin.qq.com/s/emeWxHoQbpzxqGB-f7zsXQ)
 + [Nacos 可观测性最佳实践](https://mp.weixin.qq.com/s/EN1a8S3c1N5zhiLDhJ6BUA)
++ [阿里面试这样问：Nacos配置中心交互模型是 push 还是 pull ？（原理+源码分析）](https://mp.weixin.qq.com/s/LdT3UR6zXCCN1ZW6IKXklw)
 
 ## openFeign
 
@@ -1406,6 +1413,7 @@
 + [Spring（三）Bean 生命周期与作用域：从创建到销毁的完整掌控](https://mp.weixin.qq.com/s/bpXL7IpwGhWAnHix2uGIzA)
 + [Spring框架扩展神技：BeanPostProcessor](https://mp.weixin.qq.com/s/Ek9FzuFWQ75R6YRhXrA31A)
 + [某外企1面：Spring @Profile是如何工作的？](https://mp.weixin.qq.com/s/C2mGprMvgdmwERBGt2BSiA)
++ [Spring @Conditional原理详解！](https://mp.weixin.qq.com/s/uLW2Fgshpryd6qGb8FqvOw)
 
 #### 配置
 
@@ -1444,6 +1452,7 @@
 + [Spring扩展点整合业务实践](https://mp.weixin.qq.com/s/bkT_9V5l8LSBhlf2IKv6Iw)
 + [面试官：@PostConstruct初始化的时机的什么](https://mp.weixin.qq.com/s/8mPlBL3RDQDMwppI9g-nrg)
 + [Spring动态注册黑科技：让热更新代码实时生效的终极方案](https://mp.weixin.qq.com/s/2m-1odtdl5oEyxXx7XosPQ)
++ [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s/ujbCX35zimXuOegXEopyfw)
 
 #### 原理&源码
 
@@ -1917,9 +1926,11 @@
 + [JAVA：Spring Boot @Conditional 注解详解及实践](https://mp.weixin.qq.com/s/5A2NSKFcx-0n5zoJzYzfEA)
 + [SpringBoot启动加速：深度优化与定制化实践](https://mp.weixin.qq.com/s/alM1dJRNkvjG_onO316zNg)
 + [Spring Boot 默认JSON 工具类：让开发更轻松](https://mp.weixin.qq.com/s/vGQpcVrVLW9WVkxpC0GhEQ)
++ [Spring Boot 实战：动态编译 Java 类并实现热加载的终极指南](https://mp.weixin.qq.com/s/7m8jTa3O-tqA4o9rt3gEhQ)
 
 #### 版本特性
 
++ [Spring Boot 3 新特性实战：从理论到实践](https://mp.weixin.qq.com/s/_LbAJeSdxPuev8Teqex3dg)
 + [Spring Boot 3.4绝了！这5个隐藏API让你的代码直接封神！](https://mp.weixin.qq.com/s/WLKyifjhLAC7SkRH9Hq_Pw)
 + [Spring Boot 3.0新特性概述](https://mp.weixin.qq.com/s/_mXPLOPSvz37R7bCpkdQFQ)
 + [Spring Boot 3.3 新特性详解](https://mp.weixin.qq.com/s/eonulfz5-H_frjAc5VZBRQ)
@@ -2132,6 +2143,7 @@
 + [实战案例SpringBoot整合Seata AT模式实现分布式事务【超详细】](https://mp.weixin.qq.com/s/570OVCaUusSndNLi5UPw5A)
 + [分布式事务解决方案：Seata在Spring Boot中的应用](https://mp.weixin.qq.com/s/Tasm_FoWN7vFVv4JJS3arQ)
 + [SpringBoot整合Seata，解决多个订单相关服务之间数据一致性问题](https://mp.weixin.qq.com/s/GSB4ob0T3MG3UehSgvY-Ew)
++ [Spring Boot 3.4分布式事务终极方案：Seata集成竟能这么简单？](https://mp.weixin.qq.com/s/pHtwDCnRhUD46AfcxGot2g)
 
 #### WEB
 
@@ -2700,6 +2712,7 @@
 + [Jenkins-自动化发布系统，一文带你了解如何使用Jenkins发布SpringBoot项目](https://mp.weixin.qq.com/s/05DBUNY2b3Ef4YCgwQYSXQ)
 + [SpringBoot 项目热部署的3种方式](https://mp.weixin.qq.com/s/3wxlp_nRt1KO7k7n_NQkzQ)
 + [在Spring Boot中解决JJWT依赖版本冲突的奇妙方法](https://mp.weixin.qq.com/s/8fMYrAeH-pFxcAjIl4zWQw)
++ [真强！使用JSON文件作为Spring Boot配置属性](https://mp.weixin.qq.com/s/TcWLDOULY3B7ra-CM_Aoow)
 
 #### 集成三方
 
@@ -2789,6 +2802,7 @@
 + [SpringBoot与BookKeeper整合，实现金融级别的日志存储系统](https://mp.weixin.qq.com/s/ifW7U7JqS_zrQCe_h4dssw)
 + [「5倍性能提升！SpringBoot+MinIO分片上传架构设计：亿级文件场景下的企业级解决方案」](https://mp.weixin.qq.com/s/GHqjMmR6NjC46ODljKioog)
 + [干掉if..else！Spring Boot+aviator+aop 太丝滑了！](https://mp.weixin.qq.com/s/2-aku4xSWtlfdFcLiE1mGA)
++ [实战Spring Boot分布式锁：从原理到实现](https://mp.weixin.qq.com/s/1Xu-GNTFmE_nPBhxSl3SSg)
 
 #### test
 
@@ -2878,6 +2892,7 @@
 + [Java开发者必备！JVM工具全解析，轻松应对性能挑战](https://mp.weixin.qq.com/s/YUSPl6E9Z039zudP0baJRQ)
 + [Apache Commons JEXL：Java表达式语言框架的探索与实践](https://mp.weixin.qq.com/s/uoM0ttZCnMPEGez3hDB1jQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
++ [实现异步的9种方式，你知道几个？](https://mp.weixin.qq.com/s/i3QHHfSbpGxOzvQJf_32VQ)
 + [太强了！JavaParser：代码修改、生成与分析的全能利器](https://mp.weixin.qq.com/s/hpimF-GLMZRkbjyLJ-Svbg)
 + [Java异步编程7种实现方法，最后一种非常强大](https://mp.weixin.qq.com/s/EStfXGvoZu_kCQk5TYR46g)
 + [Apache Commons Lang，一个Java语言的魔法炼金术士！](https://mp.weixin.qq.com/s/uZJETm-DAw5g6jLyamnzqg)
@@ -2937,6 +2952,7 @@
 + [编程高手的选择：SMTP with Java，一个高效的Java库](https://mp.weixin.qq.com/s/06IrK1JdKseNKjC6BvpVTA)
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架吧](https://mp.weixin.qq.com/s/2D3H9pjlDA9yQz3GTqBUdg)
 + [Java Http 接口对接太繁琐？试试 UniHttp 框架~](https://mp.weixin.qq.com/s/xFw9qjpX3qo9bmivvcgUGQ)
++ [Http客户端怎么选择？还在用RestTemplate？](https://mp.weixin.qq.com/s/AzvpdsVEKFjNbwnsDViD3w)
 + [做了个Java打包工具，可以双击启动了！](https://mp.weixin.qq.com/s/FvLZP8Y6NxbdsHiv9KjRuA)
 + [Java 性能分析 5 大工具](https://mp.weixin.qq.com/s/nRPW2b3xAekp-RwPWXkhjw)
 + [深入了解 Apache Celix：专为 Java 动态模块设计的强大框架！](https://mp.weixin.qq.com/s/rqJjCrnPSu6F2eujwqmM5A)
@@ -2972,6 +2988,7 @@
 + [魔改 Arthas，一款强悍的线上问题定位神器](https://mp.weixin.qq.com/s/HGDQxnUlYgWPXmmvPw6HKw)
 + [Solon Cloud —— 服务网关](https://mp.weixin.qq.com/s/lJ4ujRz5i3rNsUHqNUqlPg)
 + [Java密码工具类（PasswordUtils）设计与实现](https://mp.weixin.qq.com/s/W4y_XKwuvJSM_ssRZfxpdg)
++ [定时任务分布式锁SchedulerLock](https://mp.weixin.qq.com/s/bhoDLeDp-CWLsn9nC2rCxw)
 
 # 其它环境
 

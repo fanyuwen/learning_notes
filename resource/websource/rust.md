@@ -60,6 +60,7 @@
 + [Rust 中的 System 分配器：默认的内存分配器](https://mp.weixin.qq.com/s/Zuh5vuKOon3aeVGKoFY94g)
 + [Rust 中的 TypeId：类型的唯一标识符](https://mp.weixin.qq.com/s/8DUojLR5sIfTuppFJD4AjA)
 + [一个 Rust 小白发布生产级 Rust 应用的进阶之路 ｜ 得物技术](https://my.oschina.net/u/5783135/blog/17779478)
++ [深入解析Rust闭包：所有权与灵活性的完美平衡](https://mp.weixin.qq.com/s/WlZxJ4bc7Hw4eIibfLNYow)
 
 # 框架
 

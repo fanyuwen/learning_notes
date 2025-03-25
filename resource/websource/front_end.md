@@ -57,6 +57,7 @@
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [JavaScript 函数形参全面解析：5种声明方式与高级技巧](https://mp.weixin.qq.com/s/hn2Pt03NSlMIJXfWS7pMZg)
++ [扔掉if-else！JavaScript 这几个技巧让你代码简洁到飞起！](https://mp.weixin.qq.com/s/A-4BanEyOiV1fmESTAbZSw)
 + [JavaScript 事件循环：告别异步“玄学”，这一篇就够了！](https://mp.weixin.qq.com/s/eFyOyPG_NdqT7YAwwfxDyg)
 + [JavaScript字符串处理，10个技巧让代码量减少30%](https://mp.weixin.qq.com/s/SkSwoTsvJXqz18JxXTj8Ng)
 + [大部分人对于 Promise 的开发程度远远不足 10%！](https://mp.weixin.qq.com/s/J9Qv-8IcT1mOKWMHHrlctQ)
@@ -143,6 +144,8 @@
 + [JavaScript双问号操作符(??)的惊人用法，太强大了](https://mp.weixin.qq.com/s/2a0y2PfWjwfSS028pDHB4A)
 + [前端 TypeError 错误永久消失术](https://my.oschina.net/vivotech/blog/17504974)
 + [性能优化利器：前后端防抖方案解析](https://mp.weixin.qq.com/s/yJUbokpa1dJlaW5sP752fA)
++ [JavaScript 作用域与预编译机制详解](https://mp.weixin.qq.com/s/avjXnynwduELFP7dupYPcA)
++ [前端白屏警告！async/await 错误不处理，老板让我卷铺盖！](https://mp.weixin.qq.com/s/d2Mfl6GEOXgXi19YzIxjiQ)
 
 # 框架
 

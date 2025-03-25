@@ -395,6 +395,7 @@
 + [极限网关核心架构解析：从 Nginx 到 INFINI Gateway 的演进](https://mp.weixin.qq.com/s/2ZnHArc8FMCJ2MVqYtrBIg)
 + [nginx负载均衡配置](https://mp.weixin.qq.com/s/MtpvKk98jB977h6lOOUbqg)
 + [nginx中哪些静态文件值得压缩？gzip的用法](https://mp.weixin.qq.com/s/UyiFQ8Eq-S3esLjcD0bReA)
++ [带你看懂Nginx的URL重写及访问控制](https://mp.weixin.qq.com/s/5utGRAfx-DCE3qdLJpLR3A)
 
 ### wireshark
 

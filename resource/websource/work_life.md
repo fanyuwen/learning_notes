@@ -63,6 +63,7 @@
 + [程序员那些不知不觉间养成的低效工作习惯！](https://mp.weixin.qq.com/s/qYa41iVjQrc5OJJvzJc2yQ)
 + [大厂员工自曝：34岁，年薪50万，存款270万，每月公积金9885，公积金账户51万，没房没车没负债，干到被辞退就结束](https://mp.weixin.qq.com/s/RajfO4w15aqtD7zB3trBFA)
 + [为什么说“程序员不断的提高自己的技术”有可能是一种误区？](https://mp.weixin.qq.com/s/DdYHtZsLxZZu7XiOeHNMZw)
++ [80% 的软件工程师无法成为高级开发人员 — 原因如下](https://mp.weixin.qq.com/s/NXlsXu3rpls4DNySPbdTkA)
 
 # 个人成长
 

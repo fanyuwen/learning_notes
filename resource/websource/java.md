@@ -30,6 +30,7 @@
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
 + [Java枚举类的实际业务场景应用](https://mp.weixin.qq.com/s/tqNm6M8Y7q8zaNCmsypz8A)
++ [超赞！Java枚举的高级实战技巧](https://mp.weixin.qq.com/s/4_6pjletQ22SBLXob0VCYg)
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 + [面试官：说说Java对象的创建过程](https://mp.weixin.qq.com/s/s2vy2a0blH6XOnX-3pgVvw)
@@ -116,6 +117,7 @@
 + [Java 9+：日期时间的焕新升级，你跟上了吗？](https://mp.weixin.qq.com/s/VvN8dlb7wV-ip5_eQ0ThNQ)
 + [Java 10：集合能力大升级，开发效率狂飙！](https://mp.weixin.qq.com/s/JzDIW_6AoO4JUn7S0Q-n0g)
 + [Java 10新特性：局部变量类型推断，让代码飞起来！](https://mp.weixin.qq.com/s/t91wrtPMSIA-aA3maULA6Q)
++ [Java 15新特性：文本块，代码书写的新利器](https://mp.weixin.qq.com/s/D-Atg73J2JSqeEwvhexmHA)
 + [Java 16纪录类：告别繁琐，让代码起飞](https://mp.weixin.qq.com/s/j_MOYaQ8yEbeV26nGe6JAg)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
@@ -255,6 +257,8 @@
 + [MapUtils工具类](https://mp.weixin.qq.com/s/BEeRBbrnqVdmSna0iALvEw)
 + [Java中Map接口的深入解析与最佳实践](https://mp.weixin.qq.com/s/MRWaIxWSVsOTtZo72tQSAQ)
 + [面试官：合并两个有序数组，说说你的思路？ 我：...](https://mp.weixin.qq.com/s/p8kLO4heleNqWBq2jo0gFg)
++ [史上最全EffectiveJava总结（一）](https://mp.weixin.qq.com/s/uEOdWMvQAux_gxSGcnnbFQ)
++ [9种技巧优化if-else](https://mp.weixin.qq.com/s/g17tX_uc4pvIAWKMxtwkCw)
 
 ## 代码质量
 
@@ -501,6 +505,7 @@
 + [面试官：如何解决多线程环境下“指针碰撞”带来的并发问题](https://mp.weixin.qq.com/s/3QXwh6X-yqc6Ly2XpgluVw)
 + [单线程池，采用任务调度执行，居然执行了多个线程，踩了个大坑](https://mp.weixin.qq.com/s/9EeKxz53LUn1ETBQL-OXkA)
 + [线程和同步性能](https://mp.weixin.qq.com/s/debOmNsXmUDUmCf9J-C0qA)
++ [如何确保多线程环境中的线程安全](https://mp.weixin.qq.com/s/ZUqoG96o6HZfhFqnSfSEpA)
 
 #### 线程池
 
@@ -1166,6 +1171,7 @@
 + [面试官：Lombok的@Data存在性能问题吗？](https://mp.weixin.qq.com/s/9yI1fm9326-VR9tehyNVAw)
 + [Lombok 中的 @Slf4j 注解--简化日志代码的利器](https://mp.weixin.qq.com/s/GOZD0ASrasNTqdY-MZcKqg)
 + [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
++ [盘点Lombok的几个骚操作](https://mp.weixin.qq.com/s/K6dx7kPGv4u8BEbD0ykbAA)
 
 ## MapStruct
 
@@ -1338,6 +1344,7 @@
 + [Redisson RedLock 分布式锁深度实战：原理、争议与高可用架构](https://mp.weixin.qq.com/s/Sq2cARqFwX1FJhaIggk5JQ)
 + [Redisson中的Semaphore与CountDownLatch：实现原理与应用解析](https://mp.weixin.qq.com/s/Lrd1NCuxgGtXUvaGnwMiYA)
 + [Redis Sentinel 及 Redisson 连接问题全解析](https://mp.weixin.qq.com/s/e2fo41PWlXlzNWBbWLeFxA)
++ [Redisson实现分布式锁：原理分析、最佳实践与避坑指南](https://mp.weixin.qq.com/s/Bon9ZBppzjhousyxTpyvbQ)
 
 ## ribbon
 
@@ -1414,6 +1421,8 @@
 + [Spring框架扩展神技：BeanPostProcessor](https://mp.weixin.qq.com/s/Ek9FzuFWQ75R6YRhXrA31A)
 + [某外企1面：Spring @Profile是如何工作的？](https://mp.weixin.qq.com/s/C2mGprMvgdmwERBGt2BSiA)
 + [Spring @Conditional原理详解！](https://mp.weixin.qq.com/s/uLW2Fgshpryd6qGb8FqvOw)
++ [Spring的启动流程，90%的Java程序员都说不出来！](https://mp.weixin.qq.com/s/6-dE_uFDLvElOrz61L2HDw)
++ [Spring 容器动态操作技术全解析](https://mp.weixin.qq.com/s/_BJNbDA9g7EWl6Yy2AMgXQ)
 
 #### 配置
 
@@ -1754,6 +1763,7 @@
 + [SpringCloud 专栏：服务配置中心 Config 工作原理及用法，实战讲解！](https://mp.weixin.qq.com/s/ErfkrzjGxTTmkGBmB5Adzw)
 + [SpringCloud Stream实战快速入门（一）](https://mp.weixin.qq.com/s/t8F-omdUtYkgtB9ohKvStA)
 + [Spring Cloud Dubbo vs Spring Cloud OpenFeign：深入对比与选型指南](https://mp.weixin.qq.com/s/OFrtbafmhZbRIB7n4OsU4g)
++ [SpringCloud Stream实战入门（二）](https://mp.weixin.qq.com/s/kEx9WTkQyJPiQce7SEebAg)
 
 #### alibaba
 
@@ -2722,6 +2732,7 @@
 + [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)
 + [Spring Boot + Redission 自定义分布式延时任务组件设计](https://mp.weixin.qq.com/s/tsinZNPJ8H2QM8hzEd9gMA)
++ [Spring Boot + Redisson 高效打造分布式延时任务](https://mp.weixin.qq.com/s/QTeEp9yYpBevxF-TNd-OGQ)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/8XogcjeTvUhS9fyAIIBSqQ)
 + [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/Q46Bgq2Dw5CMG-VT_nLXtw)
 + [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/MvbauTHQ3yNGopEHTxyB1w)
@@ -2803,6 +2814,7 @@
 + [「5倍性能提升！SpringBoot+MinIO分片上传架构设计：亿级文件场景下的企业级解决方案」](https://mp.weixin.qq.com/s/GHqjMmR6NjC46ODljKioog)
 + [干掉if..else！Spring Boot+aviator+aop 太丝滑了！](https://mp.weixin.qq.com/s/2-aku4xSWtlfdFcLiE1mGA)
 + [实战Spring Boot分布式锁：从原理到实现](https://mp.weixin.qq.com/s/1Xu-GNTFmE_nPBhxSl3SSg)
++ [实战指南：使用 OpenRewrite 将 Spring Boot 项目从 JDK 8 升级到 JDK 17](https://mp.weixin.qq.com/s/dL5ZukG_KfDGzLT8FFhUQQ)
 
 #### test
 

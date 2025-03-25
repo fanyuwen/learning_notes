@@ -112,6 +112,7 @@
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
 + [最牛逼的Python继承：让你的代码更强大、更简洁](https://mp.weixin.qq.com/s/vs_Q4_pU7SxxPaIaYnUClQ)
++ [python面向对象之：对象的创建过程](https://mp.weixin.qq.com/s/3Si1QeVx2shlcJSNomij3g)
 
 ### 核心库/模块
 
@@ -127,6 +128,7 @@
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
++ [Python编程十一:dict字典定义](https://mp.weixin.qq.com/s/8y6bY38GBp01KV_W3NQmrQ)
 + [Python 列表推导式：让代码更简洁高效](https://mp.weixin.qq.com/s/ofOw2NYWyAEnOp26M741fg)
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
 + [Python 字典的实用技巧 (示例代码 + 生活应用)](https://mp.weixin.qq.com/s/Mt1ILen9wFrXg6hhvN2gjg)
@@ -163,6 +165,7 @@
 + [Python 标准库：最厉害的 platform 模块助你识别系统信息！](https://mp.weixin.qq.com/s/h7Ldxxly2DHMQYYEzmbZKA)
 + [Python路径操作：最牛逼的 pathlib 让文件管理无烦恼](https://mp.weixin.qq.com/s/ynKs1rSSz1lAEudTr0BJAw)
 + [Python模块缓存：sys.modules机制](https://mp.weixin.qq.com/s/prqBdh9frG01KHnVp6eP5w)
++ [如何在 Python 中使用 `json` 模块？](https://mp.weixin.qq.com/s/b0ho70p6aBybuMxX5lc1VQ)
 
 ### 异步/多线程
 
@@ -177,6 +180,7 @@
 + [Python多进程编程：最强的解决方案，让你的程序飞起来！](https://mp.weixin.qq.com/s/GT61egkBdZyd7uJlGs6N1g)
 + [Python高并发应用开发](https://mp.weixin.qq.com/s/NxEG1P-hqpIhjnn__1YkPA)
 + [解决Python多线程冲突：内存共享与队列应用详解](https://mp.weixin.qq.com/s/6sYF-OmTYkS8y_rtuwlbYw)
++ [Python生成器与协程的进阶使用](https://mp.weixin.qq.com/s/DrxJLRWFrdQT-3kqytwbLw)
 
 ## 实践
 
@@ -191,9 +195,11 @@
 + [Python 中有哪些常用的 API？](https://mp.weixin.qq.com/s/h5hZqGIgwt3IDXXY3ei0cw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [Python中的事件驱动编程模型](https://mp.weixin.qq.com/s/MG4vsk14Wejfgn4S6UGhvw)
++ [自动化文件管理的6个Python脚本模板](https://mp.weixin.qq.com/s/WHjkxhewkWrs1g2tfmChbA)
 + [告别Python中的None噩梦：5种更优雅的缺失值处理方案](https://mp.weixin.qq.com/s/zk8n1RZ_P-wXlPmI7uAgfQ)
 + [深入理解Python并发编程中的GIL限制与解决方案](https://mp.weixin.qq.com/s/bGWC1rBxB4eUdY_3AgZMRA)
 + [Python中的__slots__魔法：内存优化技巧](https://mp.weixin.qq.com/s/WzV4r3jGdfoNhS73ABN-8w)
++ [Python迭代协议的内部机制与自定义实现](https://mp.weixin.qq.com/s/RAffk4rdzedESFLXlXkyrA)
 + [Python异步上下文：实现连接池管理](https://mp.weixin.qq.com/s/8R-B2kELPhMZ3H7j3MkUbA)
 + [Python高级：设计模式与架构原则](https://mp.weixin.qq.com/s/fsDpL8VSCoRMkx98hi7-NA)
 + [Python模块依赖注入实现依赖反转](https://mp.weixin.qq.com/s/sS7S7M6r_aYSsRb9AtrPxA)

@@ -79,6 +79,7 @@
 
 # 并发
 
++ [Rust异步编程：从入门到精通](https://mp.weixin.qq.com/s/mwvBAZhekYhRGLmF416Neg)
 + [Rust并发编程番外篇: Mutex内部实现](https://colobu.com/2023/11/05/inside-rust-mutex/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust并发编程4 - 容器类并发原语](https://colobu.com/2023/10/15/concurrency-programming-via-rust-ch04/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Rust 并发执行异步操作](https://mp.weixin.qq.com/s/jK48_jyuBSGAeHJx6-TNmg)

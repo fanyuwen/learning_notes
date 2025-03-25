@@ -110,6 +110,7 @@
 + [别踩坑！存储电话号码，到底用 int 还是用 string？](https://mp.weixin.qq.com/s/5hq-uMsJ-x2caNtFAmR_bA)
 + [Mysql/Oracle/Postgresql快速批量生成百万测试数据sql汇总（非存储过程）](https://mp.weixin.qq.com/s/Ha8HIb0TJ6cg-lcu2Rz-tw)
 + [为什么高性能场景选用Postgres SQL 而不是 MySQL](https://mp.weixin.qq.com/s/3pIDtA03SQE0waOUG7dUZw)
++ [这才是批量update的正确姿势！](https://mp.weixin.qq.com/s/fMIqu2eTZyblxZI_AP-Scg)
 
 ### 读写分离&分库分表
 

@@ -40,7 +40,7 @@
   + 同步异步控制库 [awaitility](https://github.com/awaitility/awaitility/wiki/Getting_started)
 + jvm日志库 [logback](https://logback.qos.ch) [slf4j](https://www.slf4j.org) [log4j2](https://logging.apache.org/log4j/2.x/index.html)
 + java mock库 [mockito](https://site.mockito.org/) [easymock](https://easymock.org/) [jmock](http://jmock.org/) [jmockit](https://jmockit.github.io/)
-+ 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/)
++ 高并发、分布式、容错的事件驱动库 [akka](https://akka.io/) [pekko](https://pekko.apache.org/)
 + orm(数据库对象关系映射框架) <font style='color:red'>*</font>[jooq](https://www.jooq.org/) [mybatis](https://mybatis.org/mybatis-3/index.html) [torque](https://db.apache.org/torque/torque-6.0/index.html)
   + [mybatis-generate](https://mybatis.org/generator/index.html) [mybatis-dynamicSQL](https://mybatis.org/mybatis-dynamic-sql/docs/introduction.html)
 + java容错库 [resilience4j](https://resilience4j.readme.io/)

@@ -20,6 +20,9 @@
 + [eclipse-collections](https://github.com/eclipse-collections/eclipse-collections)
 + [hppc](https://github.com/carrotsearch/hppc)
 + [fastutil](https://github.com/vigna/fastutil)
++ [Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing)
++ [jSerialComm](https://github.com/Fazecast/jSerialComm)
++ [JCTools](https://github.com/JCTools/JCTools)
 
 # PYTHON
 

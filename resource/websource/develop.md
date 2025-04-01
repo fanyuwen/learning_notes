@@ -504,6 +504,7 @@
 + [详解三大权限模型](https://mp.weixin.qq.com/s/X-Jr8DYsAMgXM0gbwhhtfA)
 + [JWT 在浏览器中的存储策略](https://mp.weixin.qq.com/s/T5tBKz8GnOzxnYXCnr-1vg)
 + [分布式系统的两种认证方式：Session和Token](https://mp.weixin.qq.com/s/-GiFMOXDcwmwQMtFMLFpIQ)
++ [JWT原理与应用](https://mp.weixin.qq.com/s/vocRSUFL80948Iat8T-dxw)
 
 ## 存储
 

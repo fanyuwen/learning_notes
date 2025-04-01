@@ -39,6 +39,7 @@
 + [阿里二面：使用消息队列怎样防止消息重复？](https://mp.weixin.qq.com/s/h80PEAANoEh4ApRA02tLNg)
 + [基于FluxMQ构建车联网平台百万级消息吞吐架构方案](https://mp.weixin.qq.com/s/rhjaXQPKNxNOidrvrHIzDQ)
 + [消息队列架构选型踩坑实录](https://mp.weixin.qq.com/s/DVK3Z8CqSs-N9a2VyGx1zw)
++ [高并发架构实践：RocketMQ、Kafka、RabbitMQ谁才是王者？](https://mp.weixin.qq.com/s/E1AEj79IqiuxHuhgnb2yFA)
 
 # KAFKA
 

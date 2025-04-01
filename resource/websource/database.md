@@ -361,6 +361,7 @@
 + [MySQL事务和元数据锁—— 普通select语句也能造成生产事故](https://mp.weixin.qq.com/s/Gf39nAh2jwA4eFt8wcGEzg)
 + [阿里面试：MySQL Binlog有哪些格式？底层原理？优缺点？](https://mp.weixin.qq.com/s/E6xlZYFZ5JXVVX6xr5ZPnA)
 + [自增主键去哪了？--- 一次开发过程中的思考](https://my.oschina.net/u/4090830/blog/18043736)
++ [3分钟掌握Mysql是如何存储一行记录](https://mp.weixin.qq.com/s/q9IrP_W6Mx80cx1lfcp10g)
 
 #### 存储引擎
 
@@ -720,6 +721,7 @@
 + [Redis 有序集合（Sorted Set）揭秘：底层数据结构与高效应用](https://mp.weixin.qq.com/s/P0-mbHU9xDxQJrGKmwZMSA)
 + [美团一面：我说用Redis做缓存，他‘哦’了一声…面试官到底在暗示什么？](https://mp.weixin.qq.com/s/Eov8_-LWAF2lnfw-wasBVg)
 + [为什么有了Redis还需要本地缓存？](https://mp.weixin.qq.com/s/wFvPAHoDnLY52J4YaJr--g)
++ [一次Redis性能优化之旅：Pipeline与多线程的完美结合](https://mp.weixin.qq.com/s/OGIwEk3q_gs14hhgKecy_Q)
 
 #### 原理
 

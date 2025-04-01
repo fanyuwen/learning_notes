@@ -146,6 +146,7 @@
 + [性能优化利器：前后端防抖方案解析](https://mp.weixin.qq.com/s/yJUbokpa1dJlaW5sP752fA)
 + [JavaScript 作用域与预编译机制详解](https://mp.weixin.qq.com/s/avjXnynwduELFP7dupYPcA)
 + [前端白屏警告！async/await 错误不处理，老板让我卷铺盖！](https://mp.weixin.qq.com/s/d2Mfl6GEOXgXi19YzIxjiQ)
++ [为何说 2025 最值得用数据结构是 WeakMap？](https://mp.weixin.qq.com/s/N6BBW_OUZ7G4yDqhXpAZWg)
 
 # 框架
 
@@ -225,6 +226,7 @@
 + [你还在使用 WebSocket 实现实时消息推送吗？](https://mp.weixin.qq.com/s/A2TmbewzDHzxstxdi_8V7g)
 + [有了HTTP为什么还要Websocket？一文带你解密Websocket协议](https://mp.weixin.qq.com/s/zrO9CqpradVWu0qX4HIxRQ)
 + [WebSocket 的 6 种集成方式](https://mp.weixin.qq.com/s/5v1qIxREcY6a2Gs1w66LNw)
++ [WebSocket实时通信技术详解：从原理到Spring Boot实战](https://mp.weixin.qq.com/s/LnLRi8KmHPQAOx7OI69BVw)
 
 # 工具
 

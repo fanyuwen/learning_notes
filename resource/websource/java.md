@@ -173,6 +173,7 @@
 + [Java Lambda表达式实现原理深入面试问答](https://mp.weixin.qq.com/s/m4aLviutBIiwUqVt2NquuA)
 + [常用的 Lambda 表达式案例解析](https://mp.weixin.qq.com/s/GbebKL50GagpLqD4vD9CgQ)
 + [超赞！Java枚举的高级实战技巧](https://mp.weixin.qq.com/s/4_6pjletQ22SBLXob0VCYg)
++ [枚举类如何使用？看这篇文章就够了，教你如何自定义枚举类！](https://mp.weixin.qq.com/s/Ls_7K5PJmbon7AQDoJQDRg)
 + [Java后端：通过Function函数式接口与Lambda表达式简化代码](https://mp.weixin.qq.com/s/WXcunRlVYjnT2RQ3x2nS_A)
 + [java中常用的22种数据类型转换，超详细！](https://mp.weixin.qq.com/s/EPj8uSKVTMRM1KHNHIwlug)
 + [java8精华-函数式编程-完结（十）](https://mp.weixin.qq.com/s/Mod-8cXLC7KjTpQ_g0yoQA)
@@ -229,6 +230,7 @@
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
++ [状态设计模式（State Pattern）在 Java 中的应用](https://mp.weixin.qq.com/s/-KU5OBc_ayjx2xUvlhjW8A)
 + [Java8中极其强悍的Function接口](https://mp.weixin.qq.com/s/GwCosMIfgpU2-v4OdW6lwQ)
 + [如何将两个同样大小的List组装成一个Map？](https://mp.weixin.qq.com/s/OF2ZT9Xf0A8b2EXMXxB60w)
 + [减少代码的神器：函数式接口和Lambda表达式](https://mp.weixin.qq.com/s/dq_QZS_XueUEd2ZX7QjZOg)
@@ -507,6 +509,7 @@
 + [单线程池，采用任务调度执行，居然执行了多个线程，踩了个大坑](https://mp.weixin.qq.com/s/9EeKxz53LUn1ETBQL-OXkA)
 + [线程和同步性能](https://mp.weixin.qq.com/s/debOmNsXmUDUmCf9J-C0qA)
 + [如何确保多线程环境中的线程安全](https://mp.weixin.qq.com/s/ZUqoG96o6HZfhFqnSfSEpA)
++ [走进Java异步编程的世界：开启高效编程之旅](https://mp.weixin.qq.com/s/ung4ftIAbZp2cMnc_ik9AA)
 
 #### 线程池
 
@@ -597,6 +600,7 @@
 + [社招面试必考！Java 中能创建 volatile 数组吗？答案颠覆认知！](https://mp.weixin.qq.com/s/Lizty0Bm035HOx2YdV_W8g)
 + [面试官：“volatile 你用过吗？” 我一紧张，说错了！](https://mp.weixin.qq.com/s/UtmiyLPnqjIqM6Eu_WbYbg)
 + [高并发崩溃的元凶竟是它？揭秘Java中volatile的致命陷阱！](https://mp.weixin.qq.com/s/iFFf8WxNCa-Jh7wrwEiyvA)
++ [面试练习 | Java中的volatile关键字有什么作用？](https://mp.weixin.qq.com/s/lWKR7j4DZ777odbU8_Ovww)
 
 ## 源码
 
@@ -644,6 +648,7 @@
 + [【2025版JVM面试题】2、蚂蚁一面：JVM为什么要设计STW机制？](https://mp.weixin.qq.com/s/KZLqwae1wpQdayZp5i4nPg)
 + [【2025版JVM面试题】17、深入Hotspot源码理解内存屏障如何禁止指令重排](https://mp.weixin.qq.com/s/rnzDpEegsk8Xka5Ll8JKBg)
 + [【2025版JVM面试题】30、JVM创建对象是如何解多线程内存抢占的](https://mp.weixin.qq.com/s/ug7zICBVWGoIwgRuosnTww)
++ [深入解析线上 JVM 线程分析](https://mp.weixin.qq.com/s/XOz07aB0KRsrp_4q7pkQIA)
 
 ### 内存
 
@@ -679,6 +684,7 @@
 + [【2025版JVM面试题】29、对象内存分配方式](https://mp.weixin.qq.com/s/YTTsIzcPXmimvPSeW6OSHA)
 + [【2025版JVM面试题】27、jvm内存区域](https://mp.weixin.qq.com/s/q1J1yiQfDB6x7iK4tk8mXg)
 + [【2025版JVM面试题】32、JVM内存泄露的原因](https://mp.weixin.qq.com/s/GUJQCPx1cza5uazZywnFug)
++ [OOM（Out of Memory）发生本质原理详解](https://mp.weixin.qq.com/s/24fAYqbnIKuC0oPI6MN6zg)
 
 ### 类加载
 
@@ -696,6 +702,7 @@
 + [【JVM】类加载器 原理、示例和讲解](https://mp.weixin.qq.com/s/8mNwZIL7mG_XY3IGoKaIJw)
 + [阿里P6一面：说说类加载器机制的实现原理](https://mp.weixin.qq.com/s/FuAukjq0Fdix4sC4mTDcBQ)
 + [面试官：Class常量池和运行时常量池的区别](https://mp.weixin.qq.com/s/EJp4lg7MpEV6K0s7DS8_Pg)
++ [一文搞懂 JVM 类加载机制](https://mp.weixin.qq.com/s/Kl19HvEhdiUbGfRXtmhHEw)
 
 ### GC
 
@@ -1322,6 +1329,7 @@
 + [Netty 编码器 & 解码器 正确使用姿势](https://mp.weixin.qq.com/s/RIxkLx3n2V6yyHDdpl9COw)
 + [米哈游1面：Netty 采用了哪些经典的设计模式？](https://mp.weixin.qq.com/s/V2bV9rK5c-CEuNihEWXS5g)
 + [时间轮在 Netty , Kafka 中的设计与实现](https://mp.weixin.qq.com/s/8hN6r8xTUVL4oIDubBl9dg)
++ [美团面试：说说Netty的零拷贝技术？我：蒙了，没用过啊](https://mp.weixin.qq.com/s/73L41TXsurr4XcBBVk_WvA)
 
 ## quarkus
 
@@ -1484,6 +1492,7 @@
 + [源码分析：Spring IOC容器初始化过程](https://mp.weixin.qq.com/s/HX02vO4ye9ZY2yfuL-gP5A)
 + [Spring的注入方式有哪些？该如何选择？](https://mp.weixin.qq.com/s/7uncPnAvL97hFVlg5241pA)
 + [JAVA：Spring Bean 三级缓存机制的技术指南](https://mp.weixin.qq.com/s/W2qQdInhakF0iGFnihMXvg)
++ [深入解析循环依赖：从问题到解决方案](https://mp.weixin.qq.com/s/bwc6Q-v4qMf-r-YbsuMAqA)
 
 ### 新版本新特性
 
@@ -2142,6 +2151,7 @@
 + [Spring Boot 中的加密算法：对称加密与非对称加密](https://mp.weixin.qq.com/s/Fymtyu-ACOUY5ZIt3D1Hjw)
 + [Spring Boot 项目中使用静态方法和变量的陷阱](https://mp.weixin.qq.com/s/PmLXbykH92gzyjpGyClyqQ)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/RebT-FMbKbuykxYpWNlWkg)
++ [Spring Boot暴雷预警！@DefaultValue注解竟会导致参数绑定失效？](https://mp.weixin.qq.com/s/jdrZdKlgXP6cSRTHQsaQGA)
 
 #### 分布式
 
@@ -2353,6 +2363,7 @@
 + [一行代码测试Spring Boot API接口正确性](https://mp.weixin.qq.com/s/KUTSqRUuGm0QlVq-Mef0ww)
 + [SpringBoot 文件上传惊现"10日魔咒"？资深架构师手把手教你破局](https://mp.weixin.qq.com/s/jv6E2SU84Y9Q8stGA06WBQ)
 + [告别手写SpringBoot接口！在线REST API让你效率翻倍](https://mp.weixin.qq.com/s/O63t4Hnlw1EVcouTODeyrA)
++ [高效推送！Spring Boot 3.4 实现网页消息通知的 5 种最佳方案](https://mp.weixin.qq.com/s/281JcK2op_HYS6Xa3QQfVw)
 
 ##### VUE
 
@@ -2607,6 +2618,7 @@
 + [SpringBoot中的数据脱敏实战：三种高效方案](https://mp.weixin.qq.com/s/ED0h0mE09hDP-fjCRV_CKg)
 + [全面解析：如何启用 @EnableWebSecurity 保护 Spring Boot 3 应用](https://mp.weixin.qq.com/s/nL8rI22gUBEqPrJQFiAC8A)
 + [SpringBoot文件上传安全实战：如何彻底防御伪造文件类型攻击](https://mp.weixin.qq.com/s/B10CWjd6B5Nbu4MVw-IUAA)
++ [Spring Boot 实现密码安全存储的5种方式](https://mp.weixin.qq.com/s/RmonYhg3CXuPwv_sIX3kxA)
 
 #### 设计模式
 
@@ -3002,6 +3014,8 @@
 + [Solon Cloud —— 服务网关](https://mp.weixin.qq.com/s/lJ4ujRz5i3rNsUHqNUqlPg)
 + [Java密码工具类（PasswordUtils）设计与实现](https://mp.weixin.qq.com/s/W4y_XKwuvJSM_ssRZfxpdg)
 + [定时任务分布式锁SchedulerLock](https://mp.weixin.qq.com/s/bhoDLeDp-CWLsn9nC2rCxw)
++ [轻量级Java框架的性能之王](https://mp.weixin.qq.com/s/r4IgzoqHCKzYbATTI44anw)
++ [还在使用WebSocket实现实时消息推送吗？](https://mp.weixin.qq.com/s/VeCY8GcYnd7vla8sgRj9eA)
 
 # 其它环境
 
@@ -3024,6 +3038,7 @@
 + [JAVA基础（二十）图算法-深度优先搜索（DFS）和广度优先搜索（BFS）](https://mp.weixin.qq.com/s/v-0XGpjr959iPW3T_B5EEQ)
 + [Java 中 8 种定时任务](https://mp.weixin.qq.com/s/9jlHSDy-oSwuLon2P5nLBA)
 + [银行数字化转型：数据思维与分析之道](https://my.oschina.net/u/4489239/blog/17788077)
++ [万能的异步处理方案](https://mp.weixin.qq.com/s/zTKjHOf0_e_VwIsVZghbvw)
 + [分布式场景下是否适用 synchronized 加锁机制？](https://mp.weixin.qq.com/s/Na7Frws3ASxSin9w7HLliQ)
 + [当年我靠着这个回答，顺利应聘了架构师岗位](https://my.oschina.net/cccyb/blog/17811543)
 + [揭秘Java高并发：亿级Web架构的设计与实操秘籍](https://mp.weixin.qq.com/s/U6ldFMP2I_N-q8Uyp9HPmA)
@@ -3149,3 +3164,4 @@
 + [解析App中手机号码一键登录的原理](https://mp.weixin.qq.com/s/QTHdPu3RjV1Yt8p2YSmW-w)
 + [Linux环境下Java项目Jar包的启动指令](https://mp.weixin.qq.com/s/C-hU19350RAuc3p1G-m8dA)
 + [为什么企业应用开发，c++干不过java？](https://mp.weixin.qq.com/s/XOX13BAarx-yAQKzGDXmNg)
++ [Jmeter使用beanshell与groovy的性能对比/原理！](https://mp.weixin.qq.com/s/d_e65zQpiS5IeQMBWeUTLQ)

@@ -148,6 +148,7 @@
 + [前端白屏警告！async/await 错误不处理，老板让我卷铺盖！](https://mp.weixin.qq.com/s/d2Mfl6GEOXgXi19YzIxjiQ)
 + [为何说 2025 最值得用数据结构是 WeakMap？](https://mp.weixin.qq.com/s/N6BBW_OUZ7G4yDqhXpAZWg)
 + [高频事件处理秘籍：防抖与节流的实战场景全解析](https://mp.weixin.qq.com/s/0OOgWKD9-t_5bKHSGO7Yag)
++ [JavaScript 中被低估的 API，解决 90% 性能问题](https://mp.weixin.qq.com/s/2zJr_Rwv7kVcFBiKP8ZrHQ)
 
 # 框架
 

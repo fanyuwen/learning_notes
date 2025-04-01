@@ -398,6 +398,7 @@
 + [带你看懂Nginx的URL重写及访问控制](https://mp.weixin.qq.com/s/5utGRAfx-DCE3qdLJpLR3A)
 + [Nginx配置文件不清楚如何重启并成功运行服务](https://mp.weixin.qq.com/s/VV3RKsG2ivZADQBLiSrrug)
 + [nginx中记录请求日志的详细用法](https://mp.weixin.qq.com/s/sjyWMeApw3a-mh1iTdq9cA)
++ [Nginx中的HTTPS配置及其它安全防护](https://mp.weixin.qq.com/s/AiMYUl0nHkYNahYVCnJwpw)
 
 ### wireshark
 

@@ -1573,6 +1573,7 @@
 + [@Async的使用](https://mp.weixin.qq.com/s/d7nF20ASBxOfCbf9ThSXMQ)
 + [Spring 实现 3 种异步流式接口，干掉接口超时烦恼](https://mp.weixin.qq.com/s/2pnVY2ftuTJV8PAU0cOZJQ)
 + [@Async的7种失效场景总结，最后一个大部分人都说错了](https://mp.weixin.qq.com/s/hDDIM9aw02KxSO3vmXHT7Q)
++ [面试官：说说@Scheduled的原理](https://mp.weixin.qq.com/s/DVfuqpuLWTGlgy3bMnroJg)
 
 ### security
 
@@ -1959,6 +1960,7 @@
 + [Spring Boot 实战：动态编译 Java 类并实现热加载的终极指南](https://mp.weixin.qq.com/s/7m8jTa3O-tqA4o9rt3gEhQ)
 + [SpringBoot实战：七种统计方法耗时的实现方式](https://mp.weixin.qq.com/s/kCctvyDqLOwUETmT8gBdcg)
 + [Spring Boot 的 20个实用技巧](https://mp.weixin.qq.com/s/0YuGO0KQOZqGnx6UGNdflA)
++ [AutoConfigurationImportSelector过滤算法：Spring Boot启动加速50%的秘密](https://mp.weixin.qq.com/s/uGeI2OxZasNG3Z4rF7FkmA)
 
 #### 版本特性
 

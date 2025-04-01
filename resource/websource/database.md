@@ -80,6 +80,7 @@
 + [一次有意思的 SQL 优化实操，30248.271s 到 0.001s](https://mp.weixin.qq.com/s/d5SKCoZ5BISWztG_N5dA3g)
 + [SQL优化实战：从慢如蜗牛到快如闪电的必杀技](https://mp.weixin.qq.com/s/Bgw8MQnwg4-FKCQTFRohyw)
 + [SQL窗口函数实战：排名及排名变化问题](https://mp.weixin.qq.com/s/VReyoj6aiFeTL3TYhYVTQQ)
++ [数据库核心操作解析：order by、group by、join、union 排序分组连接合并原理详析](https://mp.weixin.qq.com/s/JZSf_T0s-YWA23aKTdQDnQ)
 
 # 本地数据库
 

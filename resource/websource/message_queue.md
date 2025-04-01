@@ -94,6 +94,7 @@
 + [Kafka日志管理系统深度解析](https://mp.weixin.qq.com/s/fnM6NBcHECCTNyqcm1Savw)
 + [Flink 消费 Kafka 配置优化实战分享](https://mp.weixin.qq.com/s/YelSnL5--MGhoqP8gt_gmg)
 + [Kafka基本原理详解：架构、机制与Java实践](https://mp.weixin.qq.com/s/CKBJr_E4UshGSpgX6ArNPg)
++ [吊打面试官|Kafka生产者架构深度剖析](https://mp.weixin.qq.com/s/VI5Pa_ppL9f4RTe4tUFWDw)
 
 # ROCKETMQ
 

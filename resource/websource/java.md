@@ -654,6 +654,8 @@
 + [【2025版JVM面试题】17、深入Hotspot源码理解内存屏障如何禁止指令重排](https://mp.weixin.qq.com/s/rnzDpEegsk8Xka5Ll8JKBg)
 + [【2025版JVM面试题】30、JVM创建对象是如何解多线程内存抢占的](https://mp.weixin.qq.com/s/ug7zICBVWGoIwgRuosnTww)
 + [深入解析线上 JVM 线程分析](https://mp.weixin.qq.com/s/XOz07aB0KRsrp_4q7pkQIA)
++ [线程发生OOM后JVM会自动退出吗？](https://mp.weixin.qq.com/s/NfdfGyjaw7JM3UQCc8tWcg)
++ [一文搞懂 JVM 垃圾回收器](https://mp.weixin.qq.com/s/VSpBqv2VTy1pEN8YG6uzbw)
 
 ### 内存
 
@@ -710,6 +712,7 @@
 + [阿里P6一面：说说类加载器机制的实现原理](https://mp.weixin.qq.com/s/FuAukjq0Fdix4sC4mTDcBQ)
 + [面试官：Class常量池和运行时常量池的区别](https://mp.weixin.qq.com/s/EJp4lg7MpEV6K0s7DS8_Pg)
 + [一文搞懂 JVM 类加载机制](https://mp.weixin.qq.com/s/Kl19HvEhdiUbGfRXtmhHEw)
++ [JVM底层原理之类加载子系统：类加载的流程给你一撸到底！](https://mp.weixin.qq.com/s/iWlK9M9LGEmNka6JlyOVxA)
 
 ### GC
 

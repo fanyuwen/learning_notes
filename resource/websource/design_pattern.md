@@ -97,6 +97,7 @@
 + [彻底搞懂策略模式](https://mp.weixin.qq.com/s/xuUrjKGFi_3aapawPywXgQ)
 + [设计模式--策略模式](https://mp.weixin.qq.com/s/bpx_zcPcwaXuhCyUtYU9yA)
 + [【设计模式】告别冗长if-else语句：使用策略模式优化代码结构](https://mp.weixin.qq.com/s/vVQJUXTV6xxan2dY3D5M0A)
++ [几种常用的设计模式--策略模式](https://mp.weixin.qq.com/s/c9hn8oF4qZrQup_2Ns-n-A)
 
 ## 装饰器模式
 

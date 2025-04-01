@@ -147,6 +147,7 @@
 + [JavaScript 作用域与预编译机制详解](https://mp.weixin.qq.com/s/avjXnynwduELFP7dupYPcA)
 + [前端白屏警告！async/await 错误不处理，老板让我卷铺盖！](https://mp.weixin.qq.com/s/d2Mfl6GEOXgXi19YzIxjiQ)
 + [为何说 2025 最值得用数据结构是 WeakMap？](https://mp.weixin.qq.com/s/N6BBW_OUZ7G4yDqhXpAZWg)
++ [高频事件处理秘籍：防抖与节流的实战场景全解析](https://mp.weixin.qq.com/s/0OOgWKD9-t_5bKHSGO7Yag)
 
 # 框架
 

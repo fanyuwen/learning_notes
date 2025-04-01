@@ -397,6 +397,7 @@
 + [nginx中哪些静态文件值得压缩？gzip的用法](https://mp.weixin.qq.com/s/UyiFQ8Eq-S3esLjcD0bReA)
 + [带你看懂Nginx的URL重写及访问控制](https://mp.weixin.qq.com/s/5utGRAfx-DCE3qdLJpLR3A)
 + [Nginx配置文件不清楚如何重启并成功运行服务](https://mp.weixin.qq.com/s/VV3RKsG2ivZADQBLiSrrug)
++ [nginx中记录请求日志的详细用法](https://mp.weixin.qq.com/s/sjyWMeApw3a-mh1iTdq9cA)
 
 ### wireshark
 

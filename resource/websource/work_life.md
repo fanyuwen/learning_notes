@@ -79,6 +79,7 @@
 + [程序员保持代码整洁的最佳实践](https://mp.weixin.qq.com/s/vM6-m7qtVYKo-ExkBnnPSA)
 + [程序员常用的技术来源！](https://mp.weixin.qq.com/s/4ilYtvzg5x0DhSFnoUfUUQ)
 + [如何写出正确的代码](https://mp.weixin.qq.com/s/_v9txbImwNg7wZ1arSokFQ)
++ [资深程序员给初级开发人员的 10 条建议](https://mp.weixin.qq.com/s/qzsBba8Xyx3dKdFXfuF7uw)
 + [腾讯写码6年，我总结的技术人核心竞争力](https://mp.weixin.qq.com/s/EFi1GzHy5qAx9Ixnppoybw)
 + [如何才能成长为一名合格的架构师 ？](https://mp.weixin.qq.com/s/bxCh_rbRltUPcqNsJdGsZA)
 + [写给程序员的差量概念辨析,以Git和Docker为例](https://mp.weixin.qq.com/s/D5bDNkMJ9gYrFb0uDj2EzQ)
@@ -214,6 +215,7 @@
 + [局域网传输神器 — LocalSend](https://mp.weixin.qq.com/s/UC2zVEb3KKWd0N-URsYFMw)
 + [18.6k star，取代Navicat，一款集成了 AI 功能的数据库管理工具！](https://mp.weixin.qq.com/s/r-jlnHIPwvZEblNab16hYw)
 + [阿里同学都在用的开发环境和工具](https://mp.weixin.qq.com/s/2qgs4JYOJFCmrxHMxtctyA)
++ [几款实用的内网穿透工具，安排！](https://mp.weixin.qq.com/s/bUbtcexFDZLn_h7xCh22JA)
 
 ## 开源资源
 

@@ -405,6 +405,7 @@
 + [资深程序员总结：21个Python代码反模式](https://mp.weixin.qq.com/s/2SewCWszUi1JVbllfVsrpA)
 + [Python黑科技：evaluation_order机制如何解决函数注解的痛点问题？](https://mp.weixin.qq.com/s/1R_YpZ3LzLY35AWheFL0Tw)
 + [Python单元测试的参数化与数据驱动测试](https://mp.weixin.qq.com/s/R94jEub_xIUeNKqKnRjnfA)
++ [Python容器化应用](https://mp.weixin.qq.com/s/Af7GSX4ppvSZZySHtLTS2g)
 
 ## 新特性
 
@@ -740,6 +741,7 @@
 + [OpenCV图像拼接改进算法之完美拼接](https://mp.weixin.qq.com/s/Om2Ncj3deRief15h02jr4Q)
 + [Python图像处理：OpenCV基础教程](https://mp.weixin.qq.com/s/bLVK43pdnqUK4_1_kDii1Q)
 + [OpenCV - 计算机视觉的基石，图像处理的Python库](https://mp.weixin.qq.com/s/kuxU60bkUiR3KkOakPvJnQ)
++ [用OpenCV实现图像识别的10个基础算法](https://mp.weixin.qq.com/s/AcZDpTQJvvnNw7VjAHpkZQ)
 
 ### VULKAN
 

@@ -79,6 +79,7 @@
 + [90%的网站都遇到过这个漏洞：SQL注入攻击，你中招了吗？](https://mp.weixin.qq.com/s/OEs7f4rnXOWXN2shiGSYKA)
 + [一次有意思的 SQL 优化实操，30248.271s 到 0.001s](https://mp.weixin.qq.com/s/d5SKCoZ5BISWztG_N5dA3g)
 + [SQL优化实战：从慢如蜗牛到快如闪电的必杀技](https://mp.weixin.qq.com/s/Bgw8MQnwg4-FKCQTFRohyw)
++ [SQL窗口函数实战：排名及排名变化问题](https://mp.weixin.qq.com/s/VReyoj6aiFeTL3TYhYVTQQ)
 
 # 本地数据库
 
@@ -362,6 +363,8 @@
 + [阿里面试：MySQL Binlog有哪些格式？底层原理？优缺点？](https://mp.weixin.qq.com/s/E6xlZYFZ5JXVVX6xr5ZPnA)
 + [自增主键去哪了？--- 一次开发过程中的思考](https://my.oschina.net/u/4090830/blog/18043736)
 + [3分钟掌握Mysql是如何存储一行记录](https://mp.weixin.qq.com/s/q9IrP_W6Mx80cx1lfcp10g)
++ [通过binlog日志恢复数据库数据](https://mp.weixin.qq.com/s/nmAxkPBdi0t1XtixCcLxTA)
++ [10亿数据高效插入MySQL的完整方案与案例分析](https://mp.weixin.qq.com/s/2E-G7mVKuMkM50Qhgj1J1g)
 
 #### 存储引擎
 
@@ -394,6 +397,7 @@
 + [MySQL事务原理和MVCC多版本并发控制](https://mp.weixin.qq.com/s/BAkUHpqMHCjUBGxPkY4iwg)
 + [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
 + [MySQL MVCC是如何实现的？如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/bbpYOLK3aXEHVvVQYM8XQg)
++ [MySQL数据库——多版本并发控制MVCC](https://mp.weixin.qq.com/s/cy5k2K5Tr6zVk8bGwlPcOQ)
 
 #### 锁
 
@@ -512,6 +516,7 @@
 + [庖丁解InnoDB之B+Tree](https://mp.weixin.qq.com/s/LMLOfDOFMs6rAJbcu04lOA)
 + [MySQL中的覆盖索引是如何工作的？](https://mp.weixin.qq.com/s/Cf1LgyFSF3b-duD9TwCi9A)
 + [MySQL数据库——索引结构之B+树](https://mp.weixin.qq.com/s/dC7PAHpuq8lfIH5I4MZEWQ)
++ [京东一面：索引了解吧，最左前缀匹配，abc, 其中a=1 和 b>1 和 c=1 ，这个走索引吗？为什么b不走？](https://mp.weixin.qq.com/s/aqIyxBhWjEREiTnZJxGdmw)
 
 ### PostgreSQL
 

@@ -64,6 +64,7 @@
 + [如何全面提升架构设计的质量](https://mp.weixin.qq.com/s/Ptx5w3ZEKfz7Z2UiyIugdw)
 + [架构设计过程中的10点体会](https://mp.weixin.qq.com/s/ORRryNe2gO79L4sa0uufuQ)
 + [系统思维与架构设计方法论精要](https://mp.weixin.qq.com/s/1VM5pNKBxcS8OPs92775AA)
++ [如何画出一张优秀的架构图（老鸟必备）](https://mp.weixin.qq.com/s/xltAF0A8i9BXmEK4AKUQ3Q)
 
 ### DDD
 
@@ -588,6 +589,7 @@
 + [Reactor 和 Proactor 模式](https://my.oschina.net/OutOfMemory/blog/95856)
 + [小黑子！面试官问我有用过状态机吗？](https://mp.weixin.qq.com/s/0P5QHzKVPKRIYnOzM4lsnQ)
 + [状态机浅析](https://mp.weixin.qq.com/s/xPYD9Z0HblMG4B4flhX8Mg)
++ [支付状态机设计与落地方案](https://mp.weixin.qq.com/s/-pzuyEEzlD02apWOd83Y1w)
 + [有限状态机FSM](https://mp.weixin.qq.com/s/3boQq1pWXo9L1FIxcN29qg)
 + [【HDLbits--FSM状态机】](https://mp.weixin.qq.com/s/M5gPSFbyhbon9n5cjtOJhA)
 + [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
@@ -763,6 +765,7 @@
 + [Git技巧 | 取消Git对文件/文件夹的跟踪](https://mp.weixin.qq.com/s/IFaNhTrKe_kwW5dv610yKQ)
 + [git reset的几种用法](https://mp.weixin.qq.com/s/JJ5S3gg82T6dd-1J41TVRQ)
 + [复现git merge冲突和手动解决](https://mp.weixin.qq.com/s/gVIE4qz3hdMukstje7Vwwg)
++ [git整合分支的两种方式rebase与merge的区别](https://mp.weixin.qq.com/s/qbVg0pVq6cxtVydU9NSIyA)
 
 ### 编程范式
 

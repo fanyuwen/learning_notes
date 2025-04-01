@@ -127,6 +127,7 @@
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
 + [JDK 23 新特性解读~](https://mp.weixin.qq.com/s/aZMSwwejdqEtjDqlLzqQtQ)
 + [Java 24 正式发布，超神了。。。](https://mp.weixin.qq.com/s/pd1isbjF6nNhNJQhYfRTUw)
++ [重磅！JDK 24正式发布，20项新特性重塑Java开发体验，你还在用JDK8?](https://mp.weixin.qq.com/s/gb4fAY5A_i8txM40RM5SqQ)
 + [Java 24 / JDK 24 正式 GA](https://www.oschina.net/news/339734/jdk-24-java-24-ga)
 + [Java 8的关键新特性：Lambda表达式、Base64编码、日期时间API及Optional类](https://mp.weixin.qq.com/s/pHYDeoGRa4BWcayWv1HmIw)
 + [JDK8 升级 JDK11 最全实践干货来了](https://my.oschina.net/u/4090830/blog/11214877)
@@ -230,6 +231,7 @@
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
++ [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
 + [状态设计模式（State Pattern）在 Java 中的应用](https://mp.weixin.qq.com/s/-KU5OBc_ayjx2xUvlhjW8A)
 + [Java8中极其强悍的Function接口](https://mp.weixin.qq.com/s/GwCosMIfgpU2-v4OdW6lwQ)
 + [如何将两个同样大小的List组装成一个Map？](https://mp.weixin.qq.com/s/OF2ZT9Xf0A8b2EXMXxB60w)
@@ -261,6 +263,7 @@
 + [Java中Map接口的深入解析与最佳实践](https://mp.weixin.qq.com/s/MRWaIxWSVsOTtZo72tQSAQ)
 + [面试官：合并两个有序数组，说说你的思路？ 我：...](https://mp.weixin.qq.com/s/p8kLO4heleNqWBq2jo0gFg)
 + [史上最全EffectiveJava总结（一）](https://mp.weixin.qq.com/s/uEOdWMvQAux_gxSGcnnbFQ)
++ [史上最全EffectiveJava总结（二）](https://mp.weixin.qq.com/s/rL1Qtt940LzYNvFkQWcmog)
 + [9种技巧优化if-else](https://mp.weixin.qq.com/s/g17tX_uc4pvIAWKMxtwkCw)
 
 ## 代码质量
@@ -510,6 +513,8 @@
 + [线程和同步性能](https://mp.weixin.qq.com/s/debOmNsXmUDUmCf9J-C0qA)
 + [如何确保多线程环境中的线程安全](https://mp.weixin.qq.com/s/ZUqoG96o6HZfhFqnSfSEpA)
 + [走进Java异步编程的世界：开启高效编程之旅](https://mp.weixin.qq.com/s/ung4ftIAbZp2cMnc_ik9AA)
++ [Java 线程必须了解的哪些事儿](https://mp.weixin.qq.com/s/Ry-j4tgpk7ISSWQlxjMQmw)
++ [深夜被老板骂哭！因为我不知道sleep和yield的区别！](https://mp.weixin.qq.com/s/2ja72QGZTtj3QCNGnWImwg)
 
 #### 线程池
 
@@ -684,7 +689,9 @@
 + [【2025版JVM面试题】29、对象内存分配方式](https://mp.weixin.qq.com/s/YTTsIzcPXmimvPSeW6OSHA)
 + [【2025版JVM面试题】27、jvm内存区域](https://mp.weixin.qq.com/s/q1J1yiQfDB6x7iK4tk8mXg)
 + [【2025版JVM面试题】32、JVM内存泄露的原因](https://mp.weixin.qq.com/s/GUJQCPx1cza5uazZywnFug)
++ [【2025版JVM面试题】40、对象一定分配在堆中吗](https://mp.weixin.qq.com/s/1B-HJSdvhQ72sPundig17w)
 + [OOM（Out of Memory）发生本质原理详解](https://mp.weixin.qq.com/s/24fAYqbnIKuC0oPI6MN6zg)
++ [每一个JAVA人的必须理解的JVM内存模型，一篇文章带你搞懂](https://mp.weixin.qq.com/s/z9vRn6U1Vgnde2cXf6DKDw)
 
 ### 类加载
 
@@ -870,6 +877,7 @@
 + [JUC从实战到源码：Future实战与优缺点](https://mp.weixin.qq.com/s/2FSQHphiNnyRD0a-NJN80A)
 + [深入解析CompletableFuture的功能和用法](https://mp.weixin.qq.com/s/BaWUGw3Vh3EWQW2G1g3-Vw)
 + [CompletableFuture--结果死锁了](https://mp.weixin.qq.com/s/nChl7DjQg9GOCSl1uplUEQ)
++ [CompletableFuture使用的6个坑](https://mp.weixin.qq.com/s/_Qre84czFDNNQVQArbY2UA)
 + [Future](https://mp.weixin.qq.com/s/SbWXQZjD7UxzjZcShI9fbQ)
 + [CompletableFuture 和 Future 它两之间存在着什么关系？](https://mp.weixin.qq.com/s/elxKeQNI-JOXmYAsOdEZNg)
 + [高并发架构设计：从 Java Callable 到 CompletableFuture 的进阶修炼](https://mp.weixin.qq.com/s/krC7-WhHMinNqYSkq9n6aA)
@@ -945,6 +953,7 @@
 + [面试必杀技！ThreadLocal的难点、面试高频问题、实际使用场景等多个维度！](https://mp.weixin.qq.com/s/q6vkAhwnoyXVl5D7tAMjDg)
 + [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/nd6mDC2vJx-Aq3Eb18Jsaw)
 + [ThreadLocal：线程的“私人储物柜”如何解决并发难题？](https://mp.weixin.qq.com/s/R5NK--nJF9vpLWOr9aq9-Q)
++ [面试 ThreadLocal，被问懵了？看完这篇文章你就稳了！](https://mp.weixin.qq.com/s/M4gwVjjQmEbkLLyglqnwiQ)
 
 ### Lock
 
@@ -988,6 +997,7 @@
 + [面试官：你说说Thread.sleep(0)的含义](https://mp.weixin.qq.com/s/9s7MwSG-kdTrFwwfPZlzlg)
 + [高并发下的计数器，为什么阿里不推荐使用 AtomicLong？](https://mp.weixin.qq.com/s/YW_gSiYkVPvqQhDNPA1pmw)
 + [Doug Lea大师的佳作CopyOnWriteArrayList，用不好能坑死你！](https://mp.weixin.qq.com/s/hKNVHOtBhvLAt7oBwcp2fg)
++ [面试官：CopyOnWriteArrayList 怎么用？答不上来直接回家！](https://mp.weixin.qq.com/s/S86do3nRDWtYFQfxGb8AuQ)
 + [JUC从实战到源码：中断机制与API实现](https://mp.weixin.qq.com/s/edHn415DvAZ8r5-WqKXC-g)
 + [JUC组件实战：实现Java与硬件（通过MQTT）的同步通信](https://mp.weixin.qq.com/s/8oIi_OWZkpDQ2lD98VODQQ)
 + [面试官：实战中用过CountDownLatch吗？详细说一说，我：啊这...](https://mp.weixin.qq.com/s/EXvwcdEFmKLJILkOZ8byuw)
@@ -1947,6 +1957,8 @@
 + [SpringBoot启动加速：深度优化与定制化实践](https://mp.weixin.qq.com/s/alM1dJRNkvjG_onO316zNg)
 + [Spring Boot 默认JSON 工具类：让开发更轻松](https://mp.weixin.qq.com/s/vGQpcVrVLW9WVkxpC0GhEQ)
 + [Spring Boot 实战：动态编译 Java 类并实现热加载的终极指南](https://mp.weixin.qq.com/s/7m8jTa3O-tqA4o9rt3gEhQ)
++ [SpringBoot实战：七种统计方法耗时的实现方式](https://mp.weixin.qq.com/s/kCctvyDqLOwUETmT8gBdcg)
++ [Spring Boot 的 20个实用技巧](https://mp.weixin.qq.com/s/0YuGO0KQOZqGnx6UGNdflA)
 
 #### 版本特性
 
@@ -2152,6 +2164,7 @@
 + [Spring Boot 项目中使用静态方法和变量的陷阱](https://mp.weixin.qq.com/s/PmLXbykH92gzyjpGyClyqQ)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/RebT-FMbKbuykxYpWNlWkg)
 + [Spring Boot暴雷预警！@DefaultValue注解竟会导致参数绑定失效？](https://mp.weixin.qq.com/s/jdrZdKlgXP6cSRTHQsaQGA)
++ [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories？](https://mp.weixin.qq.com/s/fPTdbOWlGMPVMzlBXqMP-Q)
 
 #### 分布式
 
@@ -2364,6 +2377,9 @@
 + [SpringBoot 文件上传惊现"10日魔咒"？资深架构师手把手教你破局](https://mp.weixin.qq.com/s/jv6E2SU84Y9Q8stGA06WBQ)
 + [告别手写SpringBoot接口！在线REST API让你效率翻倍](https://mp.weixin.qq.com/s/O63t4Hnlw1EVcouTODeyrA)
 + [高效推送！Spring Boot 3.4 实现网页消息通知的 5 种最佳方案](https://mp.weixin.qq.com/s/281JcK2op_HYS6Xa3QQfVw)
++ [Spring Boot超大文件上传的正确方式](https://mp.weixin.qq.com/s/MNQZrGKTw2HyN6bVK77-xw)
++ [Spring Boot拦截器详解](https://mp.weixin.qq.com/s/gjTphKjqcwYYZR87rCcUZQ)
++ [强大！Spring Boot自定义数据绑定，搞定任意数据类型](https://mp.weixin.qq.com/s/ab5_rkZHdvnDbU-R0tFBEQ)
 
 ##### VUE
 
@@ -2478,6 +2494,7 @@
 + [SpringBoot @Async：魔法和陷阱](https://mp.weixin.qq.com/s/JAr5PYUe3th3sAgUrGYNbg)
 + [谨防踩坑！Spring boot 中使用 @Async 注解时要避开的 7 大错误](https://mp.weixin.qq.com/s/-ZJHuGY-KobwPb3GBD4e-A)
 + [Spring Boot 创建定时任务](https://mp.weixin.qq.com/s/ovepnnMUkpgtZycwpEjU_A)
++ [Spring Boot 设置动态定时任务，千万别再写死了~](https://mp.weixin.qq.com/s/M1rxFmSDSAVkNkDfMiOs2w)
 + [SpringBoot 实战： Spring Boot 3种定时任务方式](https://mp.weixin.qq.com/s/nZlWjBHnpVsYESbs0vadgg)
 + [高效！Spring Boot任务调度的异步执行实战指南](https://mp.weixin.qq.com/s/O7aNgsufX8M-XFJ4yk5EPw)
 + [利用Spring Boot异步机制实现高吞吐量](https://mp.weixin.qq.com/s/-On9cYvzQfov16ETaQ2mdQ)
@@ -2516,6 +2533,7 @@
 + [SpringBoot中高效运用定时任务的实战](https://mp.weixin.qq.com/s/ft6eQpo6wH1X555aMvGvPg)
 + [Spring Boot 3.4异步接口性能暴走：ResponseBodyEmitter + SseEmitter双剑合璧](https://mp.weixin.qq.com/s/AcHHxuhUTcmlBbjQRvGfWg)
 + [SpringBoot Task定时任务](https://mp.weixin.qq.com/s/0xFrSNjwMi3AJ9QYQqvYRQ)
++ [Spring Boot 异步任务实战：轻松提升系统性能，告别阻塞！](https://mp.weixin.qq.com/s/kLI5Wp2BtgpB7y_VmntG-w)
 
 ##### Disruptor
 
@@ -2600,6 +2618,7 @@
 + [SpringBoot 使用 TraceId 日志链路追踪！](https://mp.weixin.qq.com/s/DiNJN0gUeh2Wq14Qar2oUw)
 + [Spring Boot 日志配置全攻略：Logback 与 Log4j2 的实战指南](https://mp.weixin.qq.com/s/6UIrSjOYwzdlwv2t8Tko9Q)
 + [手动实现 Spring Boot 日志链路追踪，无需引入组件，日志定位更方便！](https://mp.weixin.qq.com/s/fGFIWz9f47sDGxiZNVldRw)
++ [你真的了解Spring Boot的日志框架logback吗？](https://mp.weixin.qq.com/s/Hjho3lU9rLub-reTh40zwg)
 
 #### 安全
 
@@ -2652,6 +2671,8 @@
 + [Spring Boot中策略模式的设计与实现](https://mp.weixin.qq.com/s/TyaA1mXtqIFZykiJTISK9g)
 + [SpringBoot + Facade Pattern : 通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/4ElHmpyih9wLY7OTeTSobQ)
 + [SpringBoot装饰器模式](https://mp.weixin.qq.com/s/KF0Z3xYvkadkwk7cxBT7vg)
++ [Spring Boot分布式项目中策略模式实战：解锁高扩展性架构设计](https://mp.weixin.qq.com/s/ofwZKICWXrPdbAe-1LUd4w)
++ [Spring Boot 中的代理模式](https://mp.weixin.qq.com/s/HyIa1Wck8NI-iVHtLOPIpA)
 
 #### message
 
@@ -2765,6 +2786,7 @@
 + [SpringBoot整合Grizzly，提高您网站的并发能力](https://mp.weixin.qq.com/s/4w46v9b8JL5Fy0ZMx7wgqA)
 + [SpringBoot整合Flink，实现一个用户个性化推荐系统](https://mp.weixin.qq.com/s/h4gOvfOTHPwJBNQFzkdPGQ)
 + [SpringBoot3专栏-SpringBoot3.4.0整合Mybatis-plus和Mybatis](https://mp.weixin.qq.com/s/nyiA5qa2RDZ7i7XFhueZNA)
++ [SpringBoot分布式项目中MyBatis实战技巧：从配置到性能优化](https://mp.weixin.qq.com/s/RyrLuG035Z6GPhUXWoLT_g)
 + [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
 + [SpringBoot 集成 ShedLock，完美解决定时任务重复执行难题](https://mp.weixin.qq.com/s/0oU-wYOWEbipIXxnxTue_A)
 + [SpringBoot整合ShedLock，解决定时任务防止重复执行的问题](https://mp.weixin.qq.com/s/sAYOgDr7ltXN6ir6GKybew)
@@ -2828,6 +2850,9 @@
 + [干掉if..else！Spring Boot+aviator+aop 太丝滑了！](https://mp.weixin.qq.com/s/2-aku4xSWtlfdFcLiE1mGA)
 + [实战Spring Boot分布式锁：从原理到实现](https://mp.weixin.qq.com/s/1Xu-GNTFmE_nPBhxSl3SSg)
 + [实战指南：使用 OpenRewrite 将 Spring Boot 项目从 JDK 8 升级到 JDK 17](https://mp.weixin.qq.com/s/dL5ZukG_KfDGzLT8FFhUQQ)
++ [SpringBoot与ElasticJob整合，实现一百万条数据的状态秒级更新](https://mp.weixin.qq.com/s/tuDvxUimZKcNaEr6H1Z6mg)
++ [SpringBoot与Spring Integration整合，实现订单全流程自动化处理](https://mp.weixin.qq.com/s/BvwkdCnZ2XXgYIvgZCA43w)
++ [简单到离谱！Spring Boot三行代码实现邮件发送](https://mp.weixin.qq.com/s/-0uR97tsAJ5Q-JT_mG7Ncg)
 
 #### test
 
@@ -2915,6 +2940,7 @@
 
 + [代码优雅从拒绝NPE开始，一个工具涵盖各种类型的!=null判断](https://mp.weixin.qq.com/s/opqzgtcwCHKm1mF6HJQMDQ)
 + [Java开发者必备！JVM工具全解析，轻松应对性能挑战](https://mp.weixin.qq.com/s/YUSPl6E9Z039zudP0baJRQ)
++ [Java中的本地缓存：4种实现方式](https://mp.weixin.qq.com/s/x-JorUO9bOlSOjyrwG0UVg)
 + [Apache Commons JEXL：Java表达式语言框架的探索与实践](https://mp.weixin.qq.com/s/uoM0ttZCnMPEGez3hDB1jQ)
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [实现异步的9种方式，你知道几个？](https://mp.weixin.qq.com/s/i3QHHfSbpGxOzvQJf_32VQ)
@@ -3034,7 +3060,9 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [网易二面：阿里为何建议MVC+Manager层混合架构？](https://mp.weixin.qq.com/s/_c6y6FRyJXkT3SWg_aXU6Q)
 + [桶排序算法的原理、Java实现及性能优劣一网打尽](https://mp.weixin.qq.com/s/a9qTBLFU0zi_WJV6f1_tdg)
++ [Java工程分包设计：提升代码可维护性的艺术](https://mp.weixin.qq.com/s/B15uSuh4gt2w3nuabH6V3g)
 + [JAVA基础（二十）图算法-深度优先搜索（DFS）和广度优先搜索（BFS）](https://mp.weixin.qq.com/s/v-0XGpjr959iPW3T_B5EEQ)
 + [Java 中 8 种定时任务](https://mp.weixin.qq.com/s/9jlHSDy-oSwuLon2P5nLBA)
 + [银行数字化转型：数据思维与分析之道](https://my.oschina.net/u/4489239/blog/17788077)

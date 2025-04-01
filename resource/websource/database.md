@@ -360,6 +360,7 @@
 + [解读MySQL Explain关键字：优化查询执行计划的实用指南](https://mp.weixin.qq.com/s/AIjIYxv407pRovVE5ppwDg)
 + [MySQL事务和元数据锁—— 普通select语句也能造成生产事故](https://mp.weixin.qq.com/s/Gf39nAh2jwA4eFt8wcGEzg)
 + [阿里面试：MySQL Binlog有哪些格式？底层原理？优缺点？](https://mp.weixin.qq.com/s/E6xlZYFZ5JXVVX6xr5ZPnA)
++ [自增主键去哪了？--- 一次开发过程中的思考](https://my.oschina.net/u/4090830/blog/18043736)
 
 #### 存储引擎
 

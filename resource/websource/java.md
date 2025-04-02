@@ -2594,6 +2594,7 @@
 + [精通Spring AOP？除非做对这20道选择题](https://mp.weixin.qq.com/s/mosTlKl1F2PGdNzfYc02EA)
 + [关于Spring AOP的两个高级功能你用过吗？](https://mp.weixin.qq.com/s/l9SkTpOdK5EBsUeJT4aVdw)
 + [【血泪教训】SpringBoot AOP失效案发现场：我排查了全网代码，却败给了自己的方法调用！](https://mp.weixin.qq.com/s/chervNtqc5-E7BBDnyX2cA)
++ [打破限制！基于 AspectJ 的 Spring AOP 增强：final/static/private 方法全支持](https://mp.weixin.qq.com/s/45czaLjzrFRxuBhEIosSNQ)
 
 #### SPI
 

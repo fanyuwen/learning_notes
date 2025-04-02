@@ -422,6 +422,7 @@
 ### 反射
 
 + [聊聊Java反射](https://mp.weixin.qq.com/s/yQryCpeoWTJ3ZWr_jumXuw)
++ [Java反射和new效率对比，差距有多大？](https://mp.weixin.qq.com/s/ouTeyt39Er8emaLezXDkKg)
 + [Java反射原理](https://mp.weixin.qq.com/s/TKacXc0zO-PAHQMnzmv10g)
 + [从运行的角度理解Java反射的原理](https://mp.weixin.qq.com/s/XSlZoFQ4FaCTeQ6TBoSOxA)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
@@ -429,6 +430,7 @@
 + [【java面试100问】96 Java反射的优缺点是什么？](https://mp.weixin.qq.com/s/8IgohZo53serMt0IYT6Brw)
 + [深入剖析 Java 反射：探寻其优缺点](https://mp.weixin.qq.com/s/PztADsIXLma_ENP-QcvK4w)
 + [深入剖析 Java 反射 Method.invoke 的底层原理](https://mp.weixin.qq.com/s/eXlpLHHpbcv6YiZQwTXBug)
++ [还不懂反射？从类加载到Class，从使用到源码都给你讲透彻](https://mp.weixin.qq.com/s/wiqVpxTl3cS8QkuhvOqgnQ)
 
 ### 并发/多线程
 
@@ -870,6 +872,7 @@
 ### Future
 
 + [并发编程利器：Future 接口使用全攻略！](https://mp.weixin.qq.com/s/3Aj7faxjJhEmGPg2gO48Ag)
++ [异步多线程CompletableFuture](https://mp.weixin.qq.com/s/dNEAYXFDiHBqsgzdk8Cv6A)
 + [奇淫巧技，CompletableFuture异步多线程是真的优雅](https://mp.weixin.qq.com/s/gS-j2IwsRjuOURwDYw7Jzg)
 + [Java异步编程CompletableFuture(串行,并行,批量执行)](https://mp.weixin.qq.com/s/H8mfKv6ad04OtQzvppOnaA)
 + [JAVA：CompletableFuture 高级应用的技术指南](https://mp.weixin.qq.com/s/9fYiBXqhrQHX5Bog1dn72Q)
@@ -1022,6 +1025,7 @@
 + [三个同步辅助类](https://mp.weixin.qq.com/s/nDb4wH8s0QViHfUcYVzAhA)
 + [并发容器（Map、List、Set）实战及其原理分析——CopyOnWriteArrayList篇](https://mp.weixin.qq.com/s/Gk_hIN7uOlkk09xMHgMVXw)
 + [深入浅出：Java阻塞队列完全解析](https://mp.weixin.qq.com/s/ZJOpbTk-sPkDHleI_EjOog)
++ [面试刷题必备！ConcurrentLinkedQueue源码与优化解析](https://mp.weixin.qq.com/s/Gwy7_5NZkp_QxVx0P8lWFA)
 
 ## IO/NIO
 
@@ -2764,6 +2768,7 @@
 + [SpringBoot 项目热部署的3种方式](https://mp.weixin.qq.com/s/3wxlp_nRt1KO7k7n_NQkzQ)
 + [在Spring Boot中解决JJWT依赖版本冲突的奇妙方法](https://mp.weixin.qq.com/s/8fMYrAeH-pFxcAjIl4zWQw)
 + [真强！使用JSON文件作为Spring Boot配置属性](https://mp.weixin.qq.com/s/TcWLDOULY3B7ra-CM_Aoow)
++ [Spring Boot 项目瘦身秘籍：用 Maven 分离依赖，让 JAR 包体积直降 90%！](https://mp.weixin.qq.com/s/_cCjPRbFG7or7iCEaIiBvA)
 
 #### 集成三方
 
@@ -2952,6 +2957,7 @@
 + [实体与DTO如何转换？这个工具很厉害](https://mp.weixin.qq.com/s/wTMjGFiWKoTzNKDL7xoYsA)
 + [实现异步的9种方式，你知道几个？](https://mp.weixin.qq.com/s/i3QHHfSbpGxOzvQJf_32VQ)
 + [太强了！JavaParser：代码修改、生成与分析的全能利器](https://mp.weixin.qq.com/s/hpimF-GLMZRkbjyLJ-Svbg)
++ [ANTLR：Java工程师必备的语法解析神器](https://mp.weixin.qq.com/s/5MDjRmEuXtuQJAMo41VzhQ)
 + [Java异步编程7种实现方法，最后一种非常强大](https://mp.weixin.qq.com/s/EStfXGvoZu_kCQk5TYR46g)
 + [Apache Commons Lang，一个Java语言的魔法炼金术士！](https://mp.weixin.qq.com/s/uZJETm-DAw5g6jLyamnzqg)
 + [@Validated 如何在 List 上使用：批量验证中的小窍门](https://mp.weixin.qq.com/s/nLk_OKzc4EYSQmhkLjqduQ)

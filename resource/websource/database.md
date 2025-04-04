@@ -366,6 +366,7 @@
 + [3分钟掌握Mysql是如何存储一行记录](https://mp.weixin.qq.com/s/q9IrP_W6Mx80cx1lfcp10g)
 + [通过binlog日志恢复数据库数据](https://mp.weixin.qq.com/s/nmAxkPBdi0t1XtixCcLxTA)
 + [10亿数据高效插入MySQL的完整方案与案例分析](https://mp.weixin.qq.com/s/2E-G7mVKuMkM50Qhgj1J1g)
++ [面试官：MySQL 上亿大表，如何深度优化？](https://mp.weixin.qq.com/s/jUc_Usg_hSSr8IfSV-kmvQ)
 
 #### 存储引擎
 

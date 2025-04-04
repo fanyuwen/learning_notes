@@ -65,6 +65,7 @@
 + [架构设计过程中的10点体会](https://mp.weixin.qq.com/s/ORRryNe2gO79L4sa0uufuQ)
 + [系统思维与架构设计方法论精要](https://mp.weixin.qq.com/s/1VM5pNKBxcS8OPs92775AA)
 + [如何画出一张优秀的架构图（老鸟必备）](https://mp.weixin.qq.com/s/xltAF0A8i9BXmEK4AKUQ3Q)
++ [程序员如何5分钟画好架构图？这个开源神器让文档逼格飙升](https://mp.weixin.qq.com/s/JhmpFBWV5gE2ccZAfFZhMQ)
 
 ### DDD
 
@@ -226,6 +227,7 @@
 + [分布式ID生成方案](https://mp.weixin.qq.com/s/w0g8r63hiQbiQgOaxSXYYA)
 + [分布式系统的基本组件与核心运作机制](https://mp.weixin.qq.com/s/HJ30MijB_1vQC5iRcXXM_w)
 + [从架构到代码，深入理解分布式重试组件的设计原理](https://mp.weixin.qq.com/s/YpnEqdgicFqsz7v-NARLMg)
++ [招行2面：为什么有了服务降级，还需要服务熔断？](https://mp.weixin.qq.com/s/6FAX5lxt65YP0udW02xG3g)
 
 ## 分布式锁
 
@@ -405,6 +407,7 @@
 + [订单到期关闭的多种实现方式解析](https://mp.weixin.qq.com/s/vQ8oZwpHxShH3tFckCC6wQ)
 + [定时任务（JOB）的几种解决方案，你知道几种？还在使用Timer就过时了。](https://mp.weixin.qq.com/s/jFjQb3XoY58Vuh3NKvuGpA)
 + [关于支付超时取消，你有几种方案？本文详细讲解一下](https://mp.weixin.qq.com/s/8YloUFp_g4yEQJ7j8TF-Wg)
++ [定时任务6种方式](https://mp.weixin.qq.com/s/nWJ6KSfHLel1F8lfl14scw)
 
 ### 重试
 

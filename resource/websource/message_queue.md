@@ -125,6 +125,7 @@
 + [RocketMQ入门篇：核心组件和交互流程，看完秒懂！](https://mp.weixin.qq.com/s/Sh_UvYwt66H7XOY523fuhw)
 + [RocketMQ系列笔记（二）：手把手部署与调优，拒绝“内存爆炸”！](https://mp.weixin.qq.com/s/5k6aSTtA9yj7ry1f_8H_4Q)
 + [RocketMQ 核心模式与架构详解](https://mp.weixin.qq.com/s/MKtGfzPDGP4vWyC_ZR4sYw)
++ [订单超时取消生产级方案：RocketMQ延迟消息 + 定时任务兜底](https://mp.weixin.qq.com/s/xPpdEx9MbFxzpDUpikegwg)
 
 # RABBITMQ
 

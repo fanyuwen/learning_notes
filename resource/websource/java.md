@@ -75,6 +75,7 @@
 + [快手一面：那问一下基础部分吧，我看你写了熟悉集合，能介绍一个你熟悉集合的吗？我：我竟然懵了！](https://mp.weixin.qq.com/s/wj0urLfkISEF9RG_qN1jxA)
 + [Java 异常超详细教程：从基础到实战，一文吃透！](https://mp.weixin.qq.com/s/_21fB9dFV9urJWHqjmKZAw)
 + [Java异常处理：try-catch-finally的正确打开方式](https://mp.weixin.qq.com/s/iV8AyLg7oHD92DIXWgvzBQ)
++ [Java集合总体概述](https://mp.weixin.qq.com/s/Hv7DL7XetriqBBhiVW9SLQ)
 
 ### 泛型
 

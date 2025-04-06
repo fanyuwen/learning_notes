@@ -201,6 +201,7 @@
 + [为什么内存访问会比CPU慢](https://mp.weixin.qq.com/s/5NtkAqMFSKayg-TxnjhSkQ)
 + [磁盘和内存如何聊天](https://mp.weixin.qq.com/s/7oyyXSd5j09ezllqRg9MhA)
 + [增加内存会让计算机变快吗？](https://mp.weixin.qq.com/s/A6gOSFw2GVzgiV-jMdVJWg)
++ [一文读懂电脑内存：从基础原理到性能](https://mp.weixin.qq.com/s/KMLToy1Id7VTy9x3-gNsTg)
 
 ## GPU
 

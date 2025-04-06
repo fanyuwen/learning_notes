@@ -693,6 +693,7 @@
 + [一次堆外内存泄露让整个团队通宵处理到爆肝！](https://mp.weixin.qq.com/s/la1iWqrsE_dkFzzMzpnusA)
 + [如何快速定位和处理线上OOM](https://mp.weixin.qq.com/s/fFonLTJ92TvdAzN5KOMFqQ)
 + [常见的OOM的场景有哪些](https://mp.weixin.qq.com/s/7fftGzr_8u2d6ZCoc1G4aw)
++ [高并发导出OOM频发？从代码到架构的深度优化方案揭秘！](https://mp.weixin.qq.com/s/9S8gMqPwZYtuzxZmwdc49A)
 + [性能调优专题 -- JVM OOM](https://mp.weixin.qq.com/s/bAc_hXo2Mlfo4S0_Ltu0xw)
 + [你知道Java中的JVM内存模型是怎样的？](https://mp.weixin.qq.com/s/K1UNtKSyi3jRIymaDMFN2g)
 + [Java直接内存和堆内存的关系](https://mp.weixin.qq.com/s/GG7V_KdM31hchlKaetpdFg)
@@ -760,6 +761,7 @@
 + [揭秘Java垃圾回收：内存管理的幕后英雄](https://mp.weixin.qq.com/s/xMvAZwThB3T8fJi38HZv5g)
 + [ZGC调优全解析：从核心原理到百万级流量生产实践，将GC停顿从5秒优化到200ms](https://mp.weixin.qq.com/s/WYUg1aoFSm4taEFo3UC8CA)
 + [深入解析 JVM 垃圾回收算法](https://mp.weixin.qq.com/s/0-Jcmg2TUL1SF7cx8f71BA)
++ [不懂看GC日志，怎么排查内存问题？](https://mp.weixin.qq.com/s/zDyGq-A4qH0ZAJkyJzRb8A)
 
 # 核心库
 
@@ -1698,6 +1700,7 @@
 + [【Java面试100题突击】99 什么是Spring事务？spring事务传播行为有哪些？](https://mp.weixin.qq.com/s/wkJNRpLqMvA746ajCXVooA)
 + [为什么有些公司禁止使用@Transactional声明式事务？](https://mp.weixin.qq.com/s/jgtc9dolo5ZI61jeE8exaA)
 + [Spring（五）Spring事务管理：从原理到实战避坑指南](https://mp.weixin.qq.com/s/784n4u8lHE-UkTFObdsJ6w)
++ [spring 申明式事务总结](https://mp.weixin.qq.com/s/V7_MEEK-KDnU92f45ez_Iw)
 
 ### Log
 
@@ -1788,6 +1791,7 @@
 
 + [Spring AI，Java开发者上手大模型最佳实践，手把手教你用起来](https://mp.weixin.qq.com/s/DMVeW63NnALEnaxYeZjuoQ)
 + [SpringAI：Java 开发的智能新利器](https://my.oschina.net/zlt2000/blog/16535398)
++ [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/nY4yGbfMRERsFe6wYHDQ5g)
 
 ### cloud
 
@@ -2011,6 +2015,8 @@
 + [SpringBoot实战：七种统计方法耗时的实现方式](https://mp.weixin.qq.com/s/kCctvyDqLOwUETmT8gBdcg)
 + [Spring Boot 的 20个实用技巧](https://mp.weixin.qq.com/s/0YuGO0KQOZqGnx6UGNdflA)
 + [AutoConfigurationImportSelector过滤算法：Spring Boot启动加速50%的秘密](https://mp.weixin.qq.com/s/uGeI2OxZasNG3Z4rF7FkmA)
++ [Spring Boot开发利器：精通六大必备技能，轻松应对开发挑战](https://mp.weixin.qq.com/s/w5kgMXLQKEl-hk9nmgto0g)
++ [SpringBoot中6种自定义starter开发方法](https://mp.weixin.qq.com/s/i3cTTl9lOfFVM86nvh1JwQ)
 
 #### 版本特性
 
@@ -3049,6 +3055,8 @@
 + [深入理解shedlock:使用与原理剖析](https://mp.weixin.qq.com/s/7mIGGM3fzmdM-FQTH0_6lg)
 + [一站式解决网络通信问题：掌握Apache Commons Net的实战技能](https://mp.weixin.qq.com/s/DSTK68fzFFKQc3Qw2HaGDQ)
 + [效率爆表！EasyExcel合并单元格这样实现才是yyds](https://mp.weixin.qq.com/s/DS6QMu2j_pD1FSI3Gs4jtw)
++ [杀疯了，超越 EasyExcel 的新一代 Excel 处理神器](https://mp.weixin.qq.com/s/aE7pz8PqGBfbN304FzJBZg)
++ [EasyExcel 带格式多线程导出百万数据（实测好用）](https://mp.weixin.qq.com/s/qDCSeWVyZCWStBfglGMeNw)
 + [打造优质代码：Apache Camel，推荐一款Java库](https://mp.weixin.qq.com/s/eqL4Nm1Rket-lNrN1QY1lw)
 + [Java 导出 Excel 利器：JXLS](https://mp.weixin.qq.com/s/7PdNCZ-05pNe0lneq1nioQ)
 + [POI大量数据读取内存溢出？一招帮你定！](https://mp.weixin.qq.com/s/Z_0jtdJ1Y6ECDI8aE7R9Zw)
@@ -3073,7 +3081,6 @@
 + [SMS4J-让短信发送变得更简单](https://mp.weixin.qq.com/s/b6uQ3vgRk3yRjK6wfxxmGQ)
 + [别造轮子了，用它监控线程池](https://mp.weixin.qq.com/s/h0yVBZizqxZMM1u0VPmn7g)
 + [Java进阶课程第九节：Java大数据处理技术](https://mp.weixin.qq.com/s/9EqAndHZzHUOtI208iEnyQ)
-+ [杀疯了，超越 EasyExcel 的新一代 Excel 处理神器](https://mp.weixin.qq.com/s/aE7pz8PqGBfbN304FzJBZg)
 + [使用 Solon Cloud Gateway 替换 Spring Gateway](https://mp.weixin.qq.com/s/H1somhXCLurIwRuJM-TpIw)
 + [强大！SQL解析神器JSQLParser](https://mp.weixin.qq.com/s/mkro_1bTGapsY6l0-4-E-Q)
 + [SpringBoot-JavaMail 实现邮件发送（一）](https://mp.weixin.qq.com/s/qHcT-TNJzpo21tOV6aBgjQ)

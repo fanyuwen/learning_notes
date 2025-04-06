@@ -70,6 +70,7 @@
 + [出现这几个迹象，说明公司没救了](https://mp.weixin.qq.com/s/NxZuQHZzOSvrbmo1q2410g)
 + [阿里P7员工：老婆杭州重点小学教师，我挣的钱够还70%房贷。32岁，想考Gwy躺平你们猜怎么着？](https://mp.weixin.qq.com/s/ZQj172CtjTgoP2z0yUNysQ)
 + [大厂HR告诉你：73% 的 35 岁以上大厂人仍留在大厂](https://mp.weixin.qq.com/s/HHJQQlrwh4VkwQvfTg4_vg)
++ [阿里P9感悟：想要在大厂活得不拧巴，早点看透这 3 点](https://mp.weixin.qq.com/s/p9AvbBDinvKDDz1H__RsgA)
 
 # 个人成长
 

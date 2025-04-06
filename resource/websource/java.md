@@ -81,6 +81,7 @@
 + [Java真的不难（二十一）集合](https://mp.weixin.qq.com/s/L2yzG_F33XcroR7gYlfjIQ)
 + [Java集合之List](https://mp.weixin.qq.com/s/xIiatpm06ylCm3CH_Yk5Bw)
 + [Java异常处理之throw关键字：从原理到实战的深度剖析](https://mp.weixin.qq.com/s/Nz1-tRaTgfl2bBwt29fQqA)
++ [Java真的不难（十九）异常处理机制](https://mp.weixin.qq.com/s/7UmsFa7gC8Ro3hrM_CIdcg)
 
 ### 泛型
 
@@ -120,6 +121,7 @@
 + [JDK8中新增的功能（七大类功能更新与改进）](https://mp.weixin.qq.com/s/L3qx9Fz4hKHnWyUSyCJBFQ)
 + [Record类型隐秘陷阱：Java 17开发者集体踩坑实录](https://mp.weixin.qq.com/s/UmQJTnFE8UswWOWAuVYh2A)
 + [Java接口革命：默认方法与静态方法如何颠覆传统设计？](https://mp.weixin.qq.com/s/TZ6sSUfXFIC8Lit1iHlGHg)
++ [Java协程终于在生产环境真正可用](https://mp.weixin.qq.com/s/jNT7V6Z9JjItTIAacG_jDQ)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
@@ -275,6 +277,7 @@
 + [史上最全EffectiveJava总结（一）](https://mp.weixin.qq.com/s/uEOdWMvQAux_gxSGcnnbFQ)
 + [史上最全EffectiveJava总结（二）](https://mp.weixin.qq.com/s/rL1Qtt940LzYNvFkQWcmog)
 + [9种技巧优化if-else](https://mp.weixin.qq.com/s/g17tX_uc4pvIAWKMxtwkCw)
++ [Java 数组排序，如何用多线程进行优化？揭秘高性能排序的并发艺术](https://mp.weixin.qq.com/s/3BtCOBU3k1MkX-y5kaxScA)
 
 ## 代码质量
 
@@ -345,6 +348,7 @@
 + [美团面试：new Integer("127") 和 Integer.valueOf("128") 有什么区别](https://mp.weixin.qq.com/s/tmuPhJ3cJ4FNpBg275iuLA)
 + [面试官：ArrayList序列化中，为什么用transient修饰数组？](https://mp.weixin.qq.com/s/1G4vDaODwsr3u1tnVO1FZw)
 + [Java 8 Lambda 能否访问接口的默认方法？代码实测揭秘！](https://mp.weixin.qq.com/s/DmqVdG1GVjsxVU4dlqP9Iw)
++ [Java 1.8 Lambda 如何访问局部变量，成员变量？](https://mp.weixin.qq.com/s/gFwhR7Ty_CtOJ7TU02WKvQ)
 + [Java 中的这个绝对值有点不绝对啊！](https://my.oschina.net/u/4009705/blog/16874985)
 + [Java高手必备：Comparable与Comparator接口深度解析](https://mp.weixin.qq.com/s/OTZhBAkYrxFxYtvhUV9WWw)
 + [全面解析 Java Comparator：一步步掌握排序技巧！](https://mp.weixin.qq.com/s/iNzzoI5Mhm7QRLph2YHC6g)
@@ -606,6 +610,7 @@
 + [一篇文章彻底搞懂 synchronized 和 volatile，看完涨薪50%！](https://mp.weixin.qq.com/s/ATjer3Hpwblq_-1f7-IevQ)
 + [多线程的地狱级 Bug：死锁如何产生？如何避免？](https://mp.weixin.qq.com/s/7sgl0F6yKegoYOM6eU2w9w)
 + [一文读懂：Java中的ReentrantLock与synchronized有何异同](https://mp.weixin.qq.com/s/wLALQj7SiFVnrtOYJXDkoQ)
++ [Java锁机制解析：偏向锁、轻量级锁与重量级锁的原理与转换](https://mp.weixin.qq.com/s/BXOyV57aeqaQkFOS0Bp_xQ)
 
 #### volatile
 
@@ -631,6 +636,7 @@
 + [面试题：ArrayList底层扩容七连问，不知道我顶不顶得住！](https://mp.weixin.qq.com/s/GsBlOoVsNkcbYp2wEH0Tbw)
 + [深入分析 Java 中的 PriorityQueue 底层实现与源码](https://my.oschina.net/u/4526289/blog/11048033)
 + [面试官：说下 LinkedList 的实现原理](https://mp.weixin.qq.com/s/JSY-ugnlHJCqkLLwFu1Nkw)
++ [Java进阶必备：深入解析LinkedHashMap的原理与实战应用](https://mp.weixin.qq.com/s/HYr5wai8nXxhJ8X4MGc8MA)
 
 ## JVM
 
@@ -817,6 +823,7 @@
 + [Java Stream API 操作详解](https://mp.weixin.qq.com/s/RoLcNS-pBQ_YRiIEtJxihQ)
 + [【Java程序员必看】parallelStream流：让你的代码在多核时代飞起来，但别让这些"坑"绊倒你！](https://mp.weixin.qq.com/s/YkaAUnchAZIKXJoWNsdFkw)
 + [Java 1.8 Stream 流 Sorted 排序](https://mp.weixin.qq.com/s/1t7x0oYepnNZM33E5bmDXQ)
++ [Java 1.8 Stream 流 Match 元素匹配](https://mp.weixin.qq.com/s/T20wey6E1Ax7frX3I9WvKQ)
 
 ### Date/time
 
@@ -865,6 +872,7 @@
 + [面试必备！一文搞懂HashMap如何优雅处理哈希冲突](https://mp.weixin.qq.com/s/Dalt0lwaltHUHCXl99XYrg)
 + [探究 map 为什么不能遍历的同时进行增删操作](https://mp.weixin.qq.com/s/OFwro6zu9CK_jHdd-OQ2CA)
 + [面试官：说说HashMap和Hashtable有什么区别](https://mp.weixin.qq.com/s/K5Q9vNATovo4AwBOnyNc7w)
++ [死磕HashMap！90%程序员不知道的底层骚操作，看完秒杀面试官！](https://mp.weixin.qq.com/s/dZsY6rtJnMO9dh72LW40pw)
 
 ### Optional
 
@@ -1223,6 +1231,7 @@
 + [Log4j原理分析](https://mp.weixin.qq.com/s/i5jJmLwuL64mSFkRf3F7uQ)
 + [日志中的TraceId魔法，解锁业务全链路追踪！](https://mp.weixin.qq.com/s/lXSBytTYyRxy43lMtlSp-A)
 + [全网最全Log配置教程及框架性能比较，看这篇就够了！](https://mp.weixin.qq.com/s/B91w9vUGotjHM3ItcLPPmQ)
++ [Java真的不难（二十）Log4j日志](https://mp.weixin.qq.com/s/3mCk722FIXPs8ZyHTqHPfg)
 
 ## lombok
 
@@ -1388,6 +1397,7 @@
 + [米哈游1面：Netty 采用了哪些经典的设计模式？](https://mp.weixin.qq.com/s/V2bV9rK5c-CEuNihEWXS5g)
 + [时间轮在 Netty , Kafka 中的设计与实现](https://mp.weixin.qq.com/s/8hN6r8xTUVL4oIDubBl9dg)
 + [美团面试：说说Netty的零拷贝技术？我：蒙了，没用过啊](https://mp.weixin.qq.com/s/73L41TXsurr4XcBBVk_WvA)
++ [Netty源码—4.客户端接入流程](https://mp.weixin.qq.com/s/-bGktTfsPcg2SVXJDdfH2A)
 
 ## quarkus
 
@@ -2440,6 +2450,7 @@
 + [Spring Boot拦截器详解](https://mp.weixin.qq.com/s/gjTphKjqcwYYZR87rCcUZQ)
 + [强大！Spring Boot自定义数据绑定，搞定任意数据类型](https://mp.weixin.qq.com/s/ab5_rkZHdvnDbU-R0tFBEQ)
 + [SpringBoot API 接口防刷](https://mp.weixin.qq.com/s/bwvjEc5AXP2ygbfNb4jL-A)
++ [Spring Boot 实现文件秒传功能](https://mp.weixin.qq.com/s/UhhukVMf9HzeARyxWt392g)
 
 ##### VUE
 

@@ -193,6 +193,7 @@
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [python的不可变数据结构](https://mp.weixin.qq.com/s/4C76VlF9M4c44BRdq3bIOg)
++ [Python 用 import 导入指定目录的文件函数](https://mp.weixin.qq.com/s/G0Vc15Q35T6KtZ3-zsxNIA)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
 + [Python 中有哪些常用的 API？](https://mp.weixin.qq.com/s/h5hZqGIgwt3IDXXY3ei0cw)

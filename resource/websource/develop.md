@@ -384,6 +384,7 @@
 + [7种常见的限流方式！](https://mp.weixin.qq.com/s/akyPWaGyG8gnI7_gOZpkgA)
 + [26. 如何解决高并发下的库存抢购超卖少买问题？](https://mp.weixin.qq.com/s/XflMRXvzXekiD91KRowzoQ)
 + [高薪Offer必备！四种限流算法一文通关（美团/阿里真题）](https://mp.weixin.qq.com/s/K08OUbPilEYyKi3aQ3Db8Q)
++ [常见限流方案，轻松应对高并发](https://mp.weixin.qq.com/s/ih8ZKxSLlt4u46VEeVjbkg)
 
 ### 大文件IO
 
@@ -629,6 +630,7 @@
 + [支付中心设计全解析：构建安全高效的支付体系](https://mp.weixin.qq.com/s/Edif5bYdz_nxM3l0xVQ8bw)
 + [支付系统架构设计：构建高效金融基础设施的核心逻辑](https://mp.weixin.qq.com/s/CXpQXC2b_j8ovb0-fXn3pg)
 + [字节面试：如何设计一个能够支撑千亿级高并发的短链系统？抖音高并发短链系统设计揭秘](https://mp.weixin.qq.com/s/iCgdeqbC_AutJ8HslWEFwA)
++ [高并发秒杀系统如何设计](https://mp.weixin.qq.com/s/TlS5YRoCrw7kyEduCC49Aw)
 
 ## 代码相关
 
@@ -771,6 +773,7 @@
 + [git reset的几种用法](https://mp.weixin.qq.com/s/JJ5S3gg82T6dd-1J41TVRQ)
 + [复现git merge冲突和手动解决](https://mp.weixin.qq.com/s/gVIE4qz3hdMukstje7Vwwg)
 + [git整合分支的两种方式rebase与merge的区别](https://mp.weixin.qq.com/s/qbVg0pVq6cxtVydU9NSIyA)
++ [代码冲突、分支混乱怎么办？ 带你了解京东、阿里大厂是如何进行代码分支管理的](https://mp.weixin.qq.com/s/GK8szUCHLF91iYzsgNWclQ)
 
 ### 编程范式
 

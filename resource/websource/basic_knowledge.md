@@ -100,6 +100,7 @@
 + [Linux磁盘加密](https://mp.weixin.qq.com/s/Zo3Fz61_rhmjHC-xgJ9u-g)
 + [umount之文件系统仍然被某些进程使用时如何强制卸载（高风险操作，需谨慎）](https://mp.weixin.qq.com/s/vw9NvI2L107br933zJ5BYQ)
 + [主机、服务器运维必备技能：3分钟学会查看Linux系统版本和内核，轻松搞定！](https://mp.weixin.qq.com/s/UblWHkd7Ogtobajm0TLqcw)
++ [Linux 内存管理的 “左右手”：Buffer 与 Cache 深度解析](https://mp.weixin.qq.com/s/FrdTqTK0I23dwvZ52WOJnA)
 
 ### 网络
 
@@ -151,6 +152,7 @@
 + [Linux系统常用命令用法详解](https://mp.weixin.qq.com/s/UH9auZZhGX3athE-cNlg9A)
 + [Linux命令小课堂 sudo tar -czvf 压缩率知多少？](https://mp.weixin.qq.com/s/b4zSvcykptzL25rFTd_8DA)
 + [shell笔记](https://mp.weixin.qq.com/s/j5SbJvi2UW4HdCBzSOr8vw)
++ [Linux系统玩转vim命令，提高效率](https://mp.weixin.qq.com/s/J8-vkMj9ScTAxaCtCaSfdw)
 
 ### 发行版信息
 
@@ -256,6 +258,7 @@
 + [深入解析reactor网络模型的实现原理、代码详解](https://mp.weixin.qq.com/s/WqA3GF1RYTRdgdlCQzzC_g)
 + [记一次某网站存储桶XSS](https://mp.weixin.qq.com/s/mySPYLkFcfcdgXKJlBvT3Q)
 + [网络编程之端口复用](https://mp.weixin.qq.com/s/QbcceFIm8mTv-b5WHuQVSw)
++ [网络编程基础：近万字总结，这都不了解根本做不好项目](https://mp.weixin.qq.com/s/lozME7r9uhr8l9AxhTUv4w)
 
 ### DNS
 
@@ -403,6 +406,7 @@
 + [Nginx配置文件不清楚如何重启并成功运行服务](https://mp.weixin.qq.com/s/VV3RKsG2ivZADQBLiSrrug)
 + [nginx中记录请求日志的详细用法](https://mp.weixin.qq.com/s/sjyWMeApw3a-mh1iTdq9cA)
 + [Nginx中的HTTPS配置及其它安全防护](https://mp.weixin.qq.com/s/AiMYUl0nHkYNahYVCnJwpw)
++ [Nginx的模块化介绍](https://mp.weixin.qq.com/s/3MeEJFyc9PJ9HFDsHqXuzQ)
 
 ### wireshark
 

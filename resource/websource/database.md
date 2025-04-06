@@ -432,6 +432,7 @@
 + [MySQL - 穿透锁机制，一文完全讲透](https://mp.weixin.qq.com/s/TUOMM0vUNhBCyE6CqqN3YA)
 + [MySQL死锁全解析：从原理到实战的破局指南](https://mp.weixin.qq.com/s/JoXK3e9kxrSNbcENcLp_eg)
 + [MySQL数据库中，如何减少行锁的影响？](https://mp.weixin.qq.com/s/QgnjdklYlWb4_3O2jiepPw)
++ [阿里面试：MySQL乐观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/hl2qIe2OYE4j3_Wv3mPLsg)
 
 #### 事务
 

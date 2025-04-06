@@ -1,6 +1,59 @@
 ## 静态方法
 
-1. 接口里定义的静态方法
+1. 接口定义的静态方法 **jdk1.8**
+   > 从java8开始,可以在接口中定义静态方法,但是无法通过实现的子类(包括子接口)去访问方法,因为java接口是支持多实现(对于子接口来说是多继承)的,一旦多个父接口定义方法签名一样的方法,就不知道该调用谁了
+   ```java
+      public interface StaticMethod{
+         static void fun(){
+            System.out.println("I'm interface's static method.");
+         }
+      }
+      public interface SonStaticMethod extends StaticMethod{
+      }
+      public class TestStaticMethod implements StaticMethod {
+          public static void main(String[] args){
+              //该调用编译会报错
+              TestStaticMethod.fun();
+              //子接口也无法调用,该调用也会编译报错
+              SonStaticMethod.fun();
+              //根据对象去调用也会报错,原因同上,本身java不主张通过对象去调用静态方法
+              StaticMethod staticMethod = new TestStaticMethod();
+              staticMethod.fun();
+          }
+      }
+   ```
+2. 类定义的静态方法
+   > 类定义的静态方法,可通过类直接去调用,调用哪个类就是哪个类的静态方法,也可以通过对象去调用,此时也是根据对象的类型去判断调用哪个静态方法
+   ```java
+      public abstract class ClassStaticMethod{
+          static void fun(){
+              System.out.println("I'm abstract class's static method.");
+          }
+      }
+      class AnotherSonClassStaticMethod extends ClassStaticMethod{
+      }
+      class SonClassStaticMethod extends ClassStaticMethod{
+          //该行为不是重写,而是隐藏,针对类的字段和内部类是相同的道理
+          static void fun(){
+              System.out.println("I'm son class's static method.");
+          }
+          public static void main(String[] args){
+              //调用父类的静态方法
+              ClassStaticMethod.fun();
+              //调用父类的静态方法,子类在没有定义同方法签名的静态方法时是可以从父类中继承该静态方法的,所以这里可以通过子类的类名访问父类的静态方法
+              AnotherSonClassStaticMethod.fun();
+              //对象调用同理,虽然不推荐
+              new AnotherSonClassStaticMethod().fun();
+              //调用子类的静态方法
+              SonClassStaticMethod.fun();
+              //同上,不推荐
+              new SonClassStaticMethod().fun();
+              //调用的是父类的静态方法,静态属性的访问是根据访问实体的类型(声明的类型),而不是实际引用的类型,下面的访问实体的类型是父类,所以是访问父类的静态方法,一样是不推荐
+              ClassStaticMethod classStaticMethod = new SonClassStaticMethod();
+              classStaticMethod.fun();
+          }
+      }
+   ```
 
 ## 方法重写与返回值类型不同的问题
 > 定义两个接口 A B,A B分别定义一个方法(方法名和参数列表相同,返回值不同并且没有继承关系)如下,  

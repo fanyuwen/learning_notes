@@ -93,6 +93,7 @@
 + [python中函数传递列表元素的8种方法](https://mp.weixin.qq.com/s/6NA9HZJZwwHsAT8pOjfrDA)
 + [Python 50个常用内置函数解析](https://mp.weixin.qq.com/s/jmFOG0ZXri2upSzArlG4sg)
 + [Python函数设计：从反面案例到最佳实践](https://mp.weixin.qq.com/s/hRAPx6AmPoZKM8HimB56sw)
++ [Python函数总结](https://mp.weixin.qq.com/s/mUTbde-2mXGpq2cO3bt8ng)
 
 ### 面向对象
 
@@ -113,6 +114,7 @@
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
 + [最牛逼的Python继承：让你的代码更强大、更简洁](https://mp.weixin.qq.com/s/vs_Q4_pU7SxxPaIaYnUClQ)
 + [python面向对象之：对象的创建过程](https://mp.weixin.qq.com/s/3Si1QeVx2shlcJSNomij3g)
++ [Python类的十八般武艺：中级篇](https://mp.weixin.qq.com/s/ohh8Q8V4Ar1jzkcjpZuY7Q)
 
 ### 核心库/模块
 

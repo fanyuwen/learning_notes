@@ -228,6 +228,7 @@
 + [分布式系统的基本组件与核心运作机制](https://mp.weixin.qq.com/s/HJ30MijB_1vQC5iRcXXM_w)
 + [从架构到代码，深入理解分布式重试组件的设计原理](https://mp.weixin.qq.com/s/YpnEqdgicFqsz7v-NARLMg)
 + [招行2面：为什么有了服务降级，还需要服务熔断？](https://mp.weixin.qq.com/s/6FAX5lxt65YP0udW02xG3g)
++ [彻底搞懂服务限流和服务降级](https://mp.weixin.qq.com/s/aUCGLqu9pGg0uXjXmacdrA)
 
 ## 分布式锁
 
@@ -437,6 +438,7 @@
 + [强大！基于Map优化缓存设计](https://mp.weixin.qq.com/s/r2hbOfqpNEdsUWucPcseSQ)
 + [缓存数据一致性问题，你知道哪些解决方案？你觉得哪种方案最好？](https://mp.weixin.qq.com/s/GNK9jJta6jwNtV52G5P95w)
 + [大厂高频面试题：Redis三大缓存问题（缓存穿透、雪崩、击穿）的原因及解决方案详解，面试必问，建议收藏](https://mp.weixin.qq.com/s/VYTmazKrklNhvD676sbIUw)
++ [为什么说缓存是把双刃剑？](https://mp.weixin.qq.com/s/KRBFvaIBD3DdGp7vBfL51g)
 
 ## 优化
 

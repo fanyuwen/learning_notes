@@ -76,6 +76,11 @@
 + [Java 异常超详细教程：从基础到实战，一文吃透！](https://mp.weixin.qq.com/s/_21fB9dFV9urJWHqjmKZAw)
 + [Java异常处理：try-catch-finally的正确打开方式](https://mp.weixin.qq.com/s/iV8AyLg7oHD92DIXWgvzBQ)
 + [Java集合总体概述](https://mp.weixin.qq.com/s/Hv7DL7XetriqBBhiVW9SLQ)
++ [深度剖析Java集合框架：从Map接口到具体实现类](https://mp.weixin.qq.com/s/55vS527VHVQUFRdPvhs0JA)
++ [Java 真的不难（十五）Date类](https://mp.weixin.qq.com/s/ZX9Cw9ujzhRUlqngCObTSw)
++ [Java真的不难（二十一）集合](https://mp.weixin.qq.com/s/L2yzG_F33XcroR7gYlfjIQ)
++ [Java集合之List](https://mp.weixin.qq.com/s/xIiatpm06ylCm3CH_Yk5Bw)
++ [Java异常处理之throw关键字：从原理到实战的深度剖析](https://mp.weixin.qq.com/s/Nz1-tRaTgfl2bBwt29fQqA)
 
 ### 泛型
 
@@ -339,6 +344,7 @@
 + [【java面试100问】07 为什么不能用浮点型表示金额？](https://mp.weixin.qq.com/s/hmm3ISAs5d9ZQLJ3-rZyTg)
 + [美团面试：new Integer("127") 和 Integer.valueOf("128") 有什么区别](https://mp.weixin.qq.com/s/tmuPhJ3cJ4FNpBg275iuLA)
 + [面试官：ArrayList序列化中，为什么用transient修饰数组？](https://mp.weixin.qq.com/s/1G4vDaODwsr3u1tnVO1FZw)
++ [Java 8 Lambda 能否访问接口的默认方法？代码实测揭秘！](https://mp.weixin.qq.com/s/DmqVdG1GVjsxVU4dlqP9Iw)
 + [Java 中的这个绝对值有点不绝对啊！](https://my.oschina.net/u/4009705/blog/16874985)
 + [Java高手必备：Comparable与Comparator接口深度解析](https://mp.weixin.qq.com/s/OTZhBAkYrxFxYtvhUV9WWw)
 + [全面解析 Java Comparator：一步步掌握排序技巧！](https://mp.weixin.qq.com/s/iNzzoI5Mhm7QRLph2YHC6g)
@@ -526,6 +532,8 @@
 + [Java线程两次调用start()必死？高薪面试必考的底层原理与避坑指南](https://mp.weixin.qq.com/s/vY36eDDf0PFjsAC91sgQMw)
 + [天猫2面： Wait 和 Sleep 有什么区别？](https://mp.weixin.qq.com/s/-UIWsiNd6Tsmkc_b3liT8w)
 + [一文带你了解Java并发编程](https://mp.weixin.qq.com/s/DgTq6vN9mmPZXg3DNgyp6g)
++ [Java并发编程中的锁（二）JUC包详解之CAS](https://mp.weixin.qq.com/s/mUfZ7B2DmjAxGskn9gOr2A)
++ [Java并发开发的几个工具类，助你在并发开发控制上面游刃有余](https://mp.weixin.qq.com/s/tyO1zzkx3Yxh4omvc6vQ3w)
 
 #### 线程池
 
@@ -806,6 +814,7 @@
 + [为什么用了Stream，代码反而越写越丑了？](https://mp.weixin.qq.com/s/gwCztkeFPRpf3PgXV94btg)
 + [Java Stream API 操作详解](https://mp.weixin.qq.com/s/RoLcNS-pBQ_YRiIEtJxihQ)
 + [【Java程序员必看】parallelStream流：让你的代码在多核时代飞起来，但别让这些"坑"绊倒你！](https://mp.weixin.qq.com/s/YkaAUnchAZIKXJoWNsdFkw)
++ [Java 1.8 Stream 流 Sorted 排序](https://mp.weixin.qq.com/s/1t7x0oYepnNZM33E5bmDXQ)
 
 ### Date/time
 
@@ -948,6 +957,7 @@
 + [线程池新标杆！美团动态线程池太香了！](https://mp.weixin.qq.com/s/S_gZtNHOt3kp7NOY_EZSnw)
 + [美团动态线程池，真香啊！](https://mp.weixin.qq.com/s/FrMbXmVBO2prgQ3fWcg1dQ)
 + [Java线程池底层是怎么创建和运行的？（源码阅读）](https://mp.weixin.qq.com/s/kd_Ou3TzD-tUZRYvCxUQHw)
++ [面试练习 | 解释ThreadLocal的工作原理及其用途](https://mp.weixin.qq.com/s/rY5JefyyXPYhLHcz1e7MeQ)
 
 ### ThreadLocal
 
@@ -1008,6 +1018,7 @@
 + [别再被问懵了！ConcurrentHashMap面试攻略来了](https://mp.weixin.qq.com/s/jnEoKDSd83JqO6vsICYhKA)
 + [并发容器ConcurrentHashMap&ConcurrentSkipListMap实战及其原理分析](https://mp.weixin.qq.com/s/0cXp16jDOgCp-G3gvF5UzA)
 + [通过ConcurrentHashMap带你了解并发中的原子性与竟态条件](https://mp.weixin.qq.com/s/W6HAEvIofmm8O5HKKLn2Ew)
++ [面试练习 | Java并发包中的ConcurrentHashMap是如何工作的？](https://mp.weixin.qq.com/s/koP_CFQGYm9O2KqfJkUutw)
 
 ### 其它
 
@@ -1126,6 +1137,7 @@
 + [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/HicFvJ5dm86n0ty6vpW-OQ)
 + [Arthas 工具实战：系统频繁重启问题排查](https://mp.weixin.qq.com/s/MpfzNl1qNnPhkhwQPmrDkQ)
 + [Arthas 工具实战：从 60秒到 6秒的性能逆袭之路](https://mp.weixin.qq.com/s/PSeYmPBUWHJ42-ITR5cNjg)
++ [Arthas 实战指南：阿里开源的 Java 诊断神器，10 分钟定位线上 bug！](https://mp.weixin.qq.com/s/yyiH6Q72ve_5EC38RECz9g)
 
 ## caffeine
 
@@ -1167,6 +1179,9 @@
 ## guava
 
 + [【Guava】新集合 - BiMap&Multimap&Multiset](https://mp.weixin.qq.com/s/QfuskORgM2kFCNVfPod2sQ)
++ [【Guava】并发编程ListenableFuture&Service](https://mp.weixin.qq.com/s/UnTn9LGNRwkmjRrYMFAGiA)
++ [【Guava】IO工具](https://mp.weixin.qq.com/s/hJX5L-Vm3olKk_AjfTFrcA)
++ [【Guava】集合工具Collections2](https://mp.weixin.qq.com/s/3nSCSo_gGq9vdvCmJLaGng)
 
 ## hystrix
 
@@ -2344,6 +2359,7 @@
 + [SpringBoot 过滤器、拦截器、监听器对比及使用场景](https://mp.weixin.qq.com/s/TLur9KJjYkX8LG0ANcgc7A)
 + [SpringBoot 过滤器、拦截器、监听器对比及使用场景](https://mp.weixin.qq.com/s/Lg8Gr7l41F8E1_ax9n1iMQ)
 + [Spring Boot中的REST API版本控制：实现API的版本管理](https://mp.weixin.qq.com/s/B-3DAxYE2RO6aguanrk6dg)
++ [SpringBoot中6种API版本控制策略](https://mp.weixin.qq.com/s/F8EGqWcM0MSl6nD6hUDyOg)
 + [如何在Spring Boot中防御XSS攻击？](https://mp.weixin.qq.com/s/3E1CE2TXkU1DAkTE9Cr1gA)
 + [Spring Boot 使用 AES 加密详解](https://mp.weixin.qq.com/s/cX2lmqHNoXYu8hfi89dEzQ)
 + [SpringBoot中Controller接口参数这样处理太优雅了](https://mp.weixin.qq.com/s/mjMbzM8WuUQIN9lcqGOajA)
@@ -3106,6 +3122,8 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
++ [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
 + [一套万能通用的异步处理方案](https://mp.weixin.qq.com/s/-K6-c95DeVjCvlQYl0kJkg)
 + [网易二面：阿里为何建议MVC+Manager层混合架构？](https://mp.weixin.qq.com/s/_c6y6FRyJXkT3SWg_aXU6Q)
 + [桶排序算法的原理、Java实现及性能优劣一网打尽](https://mp.weixin.qq.com/s/a9qTBLFU0zi_WJV6f1_tdg)
@@ -3241,3 +3259,4 @@
 + [Linux环境下Java项目Jar包的启动指令](https://mp.weixin.qq.com/s/C-hU19350RAuc3p1G-m8dA)
 + [为什么企业应用开发，c++干不过java？](https://mp.weixin.qq.com/s/XOX13BAarx-yAQKzGDXmNg)
 + [Jmeter使用beanshell与groovy的性能对比/原理！](https://mp.weixin.qq.com/s/d_e65zQpiS5IeQMBWeUTLQ)
++ [挑战用 Java 处理十亿行数据的开源项目](https://mp.weixin.qq.com/s/Ta0WTidW_n9aJxU6LCfeYw)

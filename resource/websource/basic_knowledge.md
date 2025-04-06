@@ -150,6 +150,7 @@
 + [Linux下hexdump和od命令的应用](https://mp.weixin.qq.com/s/9isZ1o_tkqggjqyGTncQcA)
 + [Linux系统常用命令用法详解](https://mp.weixin.qq.com/s/UH9auZZhGX3athE-cNlg9A)
 + [Linux命令小课堂 sudo tar -czvf 压缩率知多少？](https://mp.weixin.qq.com/s/b4zSvcykptzL25rFTd_8DA)
++ [shell笔记](https://mp.weixin.qq.com/s/j5SbJvi2UW4HdCBzSOr8vw)
 
 ### 发行版信息
 
@@ -182,6 +183,7 @@
 + [搞定面试官：如何在 Windows 和 Linux 上追踪高 CPU 线程？](https://mp.weixin.qq.com/s/upFSiMUfbrMJixdz7kPSEA)
 + [CPU缓存架构&缓存一致性解决方案详解](https://mp.weixin.qq.com/s/_ZSsrUl4eV-GOzIQCMjFbw)
 + [CPU 如何与 I/O 设备和内存进行通信](https://mp.weixin.qq.com/s/8eTLSr6GxuLDcZf6hlvBlQ)
++ [[CPU缓存#3]-MESI和内存屏障](https://mp.weixin.qq.com/s/JHghW-KXiJj6bB_TdfxFxA)
 
 ### 并发
 
@@ -252,6 +254,7 @@
 + [RIP 动态路由配置教程：从入门到实践](https://mp.weixin.qq.com/s/FsZoXqs0Ox5f4bwzw6nUmA)
 + [深入解析reactor网络模型的实现原理、代码详解](https://mp.weixin.qq.com/s/WqA3GF1RYTRdgdlCQzzC_g)
 + [记一次某网站存储桶XSS](https://mp.weixin.qq.com/s/mySPYLkFcfcdgXKJlBvT3Q)
++ [网络编程之端口复用](https://mp.weixin.qq.com/s/QbcceFIm8mTv-b5WHuQVSw)
 
 ### DNS
 
@@ -434,6 +437,7 @@
 + [彻底解密：select,poll底层系统调用的核心思想原理](https://mp.weixin.qq.com/s/XoUXKDJjoVh-D_IqFY2Oig)
 + [事件驱动：Reactor网络模型的原理与代码实现](https://mp.weixin.qq.com/s/xJcCgXHB6r8kwM1Y9wxWfA)
 + [面试题：BIO,NIO,AIO 的区别是什么？说说select 和 epoll 工作机制与差异？为何epoll 如此高效](https://mp.weixin.qq.com/s/lPaLEAaj0DLebrUo36c4JA)
++ [多路复用IO及异步IO](https://mp.weixin.qq.com/s/H8NPPpCZXjA2zzEpqTONmg)
 
 ## 字符编码
 

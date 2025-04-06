@@ -50,6 +50,7 @@
 
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
 + [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
++ [6_JavaScript浅析一](https://mp.weixin.qq.com/s/mW7ERbgKONgz6uznIc9srw)
 + [不用 if else，如何优雅处理 JavaScript 条件判断？](https://mp.weixin.qq.com/s/MTgsjU904wMyATuZocOdPw)
 + [这 11 个前端技巧，一定有你不知道的！](https://mp.weixin.qq.com/s/Wu-rFFGwPp_6kgE30PQC5w)
 + [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
@@ -302,3 +303,4 @@
 + [全面进击的JavaScript运行时：Bun 1.2重磅发布，剑指Node.js生态](https://mp.weixin.qq.com/s/EIHW76nb0JLBg9xCXS40hw)
 + [停止在TS中使用.d.ts文件](https://mp.weixin.qq.com/s/Dt9K5p4WoDSG6HqOFF2bTw)
 + [TypeScript 需要一个更好的依赖注入框架](https://mp.weixin.qq.com/s/wWcgxaYxVnqTVywUSOgZXg)
++ [nrm 管理 npm 镜像源 | npm 私服使用介绍](https://mp.weixin.qq.com/s/UufIohwmm9TT-5YxMEnDUQ)

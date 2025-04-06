@@ -367,6 +367,7 @@
 + [通过binlog日志恢复数据库数据](https://mp.weixin.qq.com/s/nmAxkPBdi0t1XtixCcLxTA)
 + [10亿数据高效插入MySQL的完整方案与案例分析](https://mp.weixin.qq.com/s/2E-G7mVKuMkM50Qhgj1J1g)
 + [面试官：MySQL 上亿大表，如何深度优化？](https://mp.weixin.qq.com/s/jUc_Usg_hSSr8IfSV-kmvQ)
++ [MySQL惊天陷阱：left join时选on还是where？](https://mp.weixin.qq.com/s/g6xKA76N1IR9EcESVoFO6A)
 
 #### 存储引擎
 
@@ -729,6 +730,7 @@
 + [美团一面：我说用Redis做缓存，他‘哦’了一声…面试官到底在暗示什么？](https://mp.weixin.qq.com/s/Eov8_-LWAF2lnfw-wasBVg)
 + [为什么有了Redis还需要本地缓存？](https://mp.weixin.qq.com/s/wFvPAHoDnLY52J4YaJr--g)
 + [一次Redis性能优化之旅：Pipeline与多线程的完美结合](https://mp.weixin.qq.com/s/OGIwEk3q_gs14hhgKecy_Q)
++ [面试中被嘲笑Token放在redis里，该如何应对这种情况呢？](https://mp.weixin.qq.com/s/PYsMZdIoBJjXDPGiacsavQ)
 
 #### 原理
 

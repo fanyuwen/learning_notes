@@ -245,3 +245,44 @@ java编译器会在编译阶段出于一些辅助功能的实现而会在类的�
         static void numBox(int i){}
     }
 ```
+
+## 函数式接口(lambda表达式)(**jdk1.8**)
+
+java函数式接口中可以定义多个默认方法和静态方法,但只能有一个抽象方法,无论是自己定义还是通过继承过来的,但是通过lambda表达式实现这个函数式接口的时候你无法在实现方法里调用该接口的默认方法或者静态方法
+
+```java
+
+@FunctionalInterface
+interface FunctionInterface {
+    void fun();
+
+    default void defaultMethod() {
+        System.out.println("default method.");
+    }
+
+    static void staticMethod() {
+        System.out.println("static method.");
+    }
+}
+
+public class FunctionInterfaceTest {
+    public static void main(String[] args) {
+        FunctionInterface functionInterface = () -> {
+            //编译报错,无法调用
+            defaultMethod();
+            //编译报错,无法调用
+            staticMethod();
+        };
+        //但是可以通过内部类(匿名内部类)的方式来访问
+        FunctionInterface functionInterface1 = new FunctionInterface() {
+            @Override
+            public void fun() {
+                //可以调用
+                defaultMethod();
+                //可以调用
+                staticMethod();
+            }
+        };
+    }
+}
+```

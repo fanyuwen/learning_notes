@@ -273,13 +273,13 @@ public class FunctionInterfaceTest {
             //编译报错,无法调用
             staticMethod();
         };
-        //但是可以通过内部类(匿名内部类)的方式来访问
+        //但是可以通过内部类(匿名内部类)的方式来访问默认方法,静态方法只能通过对应接口类型来调用
         FunctionInterface functionInterface1 = new FunctionInterface() {
             @Override
             public void fun() {
                 //可以调用
                 defaultMethod();
-                //可以调用
+                //编译报错,无法调用
                 staticMethod();
             }
         };

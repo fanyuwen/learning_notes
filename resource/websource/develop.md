@@ -779,6 +779,7 @@
 + [复现git merge冲突和手动解决](https://mp.weixin.qq.com/s/gVIE4qz3hdMukstje7Vwwg)
 + [git整合分支的两种方式rebase与merge的区别](https://mp.weixin.qq.com/s/qbVg0pVq6cxtVydU9NSIyA)
 + [代码冲突、分支混乱怎么办？ 带你了解京东、阿里大厂是如何进行代码分支管理的](https://mp.weixin.qq.com/s/GK8szUCHLF91iYzsgNWclQ)
++ [5年经验的新同事问我，你们开发是用 git rebase 还是 git merge？我当时就蒙了。。。](https://mp.weixin.qq.com/s/eRHUyzcBdU_LVFepnkvvfA)
 
 ### 编程范式
 

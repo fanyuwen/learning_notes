@@ -68,6 +68,7 @@
 + [一种简化操作日志记录的方案，舒服了~](https://mp.weixin.qq.com/s/0iI_fRV5RnIOLIFpb6YBOQ)
 + [可观测性与传统监控的区别和联系](https://my.oschina.net/morflameblog/blog/15316524)
 + [微服务全链路灰度设计思路详解](https://mp.weixin.qq.com/s/aToMYLlz6HUaDgblBVQXOA)
++ [小红书2面：你用过灰度发布吗？](https://mp.weixin.qq.com/s/1B7msrm_lsGRHvm9S4DkWg)
 
 ## 问题排查
 

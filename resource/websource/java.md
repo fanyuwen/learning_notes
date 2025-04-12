@@ -2964,6 +2964,7 @@
 + [SpringBoot与Spring Integration整合，实现订单全流程自动化处理](https://mp.weixin.qq.com/s/BvwkdCnZ2XXgYIvgZCA43w)
 + [简单到离谱！Spring Boot三行代码实现邮件发送](https://mp.weixin.qq.com/s/-0uR97tsAJ5Q-JT_mG7Ncg)
 + [SpringBoot与Calcite整合，实现多数据源统一查询系统](https://mp.weixin.qq.com/s/PkMvUUhggKG578IKUl-Qwg)
++ [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/hz1QKl5RsliRQer9yrojDQ)
 
 #### test
 

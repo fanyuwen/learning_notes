@@ -71,6 +71,7 @@
 + [阿里P7员工：老婆杭州重点小学教师，我挣的钱够还70%房贷。32岁，想考Gwy躺平你们猜怎么着？](https://mp.weixin.qq.com/s/ZQj172CtjTgoP2z0yUNysQ)
 + [大厂HR告诉你：73% 的 35 岁以上大厂人仍留在大厂](https://mp.weixin.qq.com/s/HHJQQlrwh4VkwQvfTg4_vg)
 + [阿里P9感悟：想要在大厂活得不拧巴，早点看透这 3 点](https://mp.weixin.qq.com/s/p9AvbBDinvKDDz1H__RsgA)
++ [阿里P9感悟：35岁被裁，你不是输给年轻人，是输给了性价比](https://mp.weixin.qq.com/s/J3jmwClQ6nlSoLXssocGDQ)
 
 # 个人成长
 
@@ -357,6 +358,7 @@
 + [膜拜！上古程序员实在太厉害了！](https://mp.weixin.qq.com/s/1F-_fvme4RenXG7xFFyoYw)
 + [【独家揭秘】这帮大神，竟从零打造了一款全新的浏览器？！](https://mp.weixin.qq.com/s/Ceg3rU1QOmxE4LBGsC7rtQ)
 + [2025哪些技能仍然有很大的需求缺口？](https://mp.weixin.qq.com/s/rz0ov--v3xUSUT9H1gxYhA)
++ [挑战Rust和Scala，这门新语言震惊德国开发者！](https://mp.weixin.qq.com/s/wLicB_C9JXhvmIO5p0MzPw)
 
 ## 创业
 

@@ -732,6 +732,7 @@
 + [为什么有了Redis还需要本地缓存？](https://mp.weixin.qq.com/s/wFvPAHoDnLY52J4YaJr--g)
 + [一次Redis性能优化之旅：Pipeline与多线程的完美结合](https://mp.weixin.qq.com/s/OGIwEk3q_gs14hhgKecy_Q)
 + [面试中被嘲笑Token放在redis里，该如何应对这种情况呢？](https://mp.weixin.qq.com/s/PYsMZdIoBJjXDPGiacsavQ)
++ [38 张图详解 Redis：核心架构、发布订阅机制、9大数据类型底层原理、RDB和AOF 持久化、高可用架构、性能问题排查和调优](https://mp.weixin.qq.com/s/JNM7YoXVuPJHnp2AKXAPtw)
 
 #### 原理
 

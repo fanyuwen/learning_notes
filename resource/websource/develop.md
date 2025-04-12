@@ -366,6 +366,7 @@
 + [如何实现高并发下系统的限流](https://mp.weixin.qq.com/s/0WDXwQA-aFgAJI6dMYW5xA)
 + [你管这叫负载均衡？](https://mp.weixin.qq.com/s/4nV-8GV5LcSmdFnx_LDEKQ)
 + [面试必备：4种经典限流算法讲解](https://mp.weixin.qq.com/s/nZKLSacEVb5w1rAta6ju-A)
++ [这5种负载均衡算法，建议掌握！](https://mp.weixin.qq.com/s/JUQ3McODNqOQHXlUmni5gQ)
 + [图解六种常见负载均衡算法，一看就懂！](https://mp.weixin.qq.com/s/wKtdcoxkH52H_I33uWIfMA)
 + [为什么要限流？常见的限流算法有哪些？](https://mp.weixin.qq.com/s/wd8uGrxgceZd0kOx4cD-rQ)
 + [面试官：你的项目中稳定性方案有哪些、降级，限流，熔断如何做的](https://mp.weixin.qq.com/s/3_u6noQq6IyPOQs1B_0IcQ)
@@ -385,6 +386,8 @@
 + [26. 如何解决高并发下的库存抢购超卖少买问题？](https://mp.weixin.qq.com/s/XflMRXvzXekiD91KRowzoQ)
 + [高薪Offer必备！四种限流算法一文通关（美团/阿里真题）](https://mp.weixin.qq.com/s/K08OUbPilEYyKi3aQ3Db8Q)
 + [常见限流方案，轻松应对高并发](https://mp.weixin.qq.com/s/ih8ZKxSLlt4u46VEeVjbkg)
++ [什么是服务限流？为什么要限流？](https://mp.weixin.qq.com/s/bCQLTJNCXZwtC8UTVqBM9g)
++ [招行2面：什么是负载均衡？为什么需要负载均衡？](https://mp.weixin.qq.com/s/Dj7H8oMSNujbZNgcYDE5dw)
 
 ### 大文件IO
 

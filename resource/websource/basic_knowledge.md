@@ -445,6 +445,7 @@
 + [事件驱动：Reactor网络模型的原理与代码实现](https://mp.weixin.qq.com/s/xJcCgXHB6r8kwM1Y9wxWfA)
 + [面试题：BIO,NIO,AIO 的区别是什么？说说select 和 epoll 工作机制与差异？为何epoll 如此高效](https://mp.weixin.qq.com/s/lPaLEAaj0DLebrUo36c4JA)
 + [多路复用IO及异步IO](https://mp.weixin.qq.com/s/H8NPPpCZXjA2zzEpqTONmg)
++ [IO多路复用：从轮询到事件驱动，高并发服务器如何做到一心多用？](https://mp.weixin.qq.com/s/KFPvoYEcels4gJ7w4xisUA)
 
 ## 字符编码
 

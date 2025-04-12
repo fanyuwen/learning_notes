@@ -153,6 +153,7 @@
 + [高频事件处理秘籍：防抖与节流的实战场景全解析](https://mp.weixin.qq.com/s/0OOgWKD9-t_5bKHSGO7Yag)
 + [JavaScript 中被低估的 API，解决 90% 性能问题](https://mp.weixin.qq.com/s/2zJr_Rwv7kVcFBiKP8ZrHQ)
 + [Map vs Object 终极对决：90%开发者不知道的六大性能杀招](https://mp.weixin.qq.com/s/ncNoLXYpD5_NTSzDP-tpPQ)
++ [async/await 必须使用 try/catch 吗？](https://mp.weixin.qq.com/s/Fruk0Z3H1MAdQyL5NAJgYg)
 
 # 框架
 

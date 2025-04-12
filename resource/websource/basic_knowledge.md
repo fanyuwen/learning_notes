@@ -204,6 +204,7 @@
 + [磁盘和内存如何聊天](https://mp.weixin.qq.com/s/7oyyXSd5j09ezllqRg9MhA)
 + [增加内存会让计算机变快吗？](https://mp.weixin.qq.com/s/A6gOSFw2GVzgiV-jMdVJWg)
 + [一文读懂电脑内存：从基础原理到性能](https://mp.weixin.qq.com/s/KMLToy1Id7VTy9x3-gNsTg)
++ [浏览器崩溃的第一性原理：内存管理的艺术](https://my.oschina.net/u/4090830/blog/17955030)
 
 ## GPU
 
@@ -215,6 +216,7 @@
 
 + [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/11051491)
 + [100 个网络基础知识](https://mp.weixin.qq.com/s/7CtLdbA3a-kGaijX9LvzOg)
++ [计算机网络协议介绍](https://my.oschina.net/u/4090830/blog/18109143)
 + [探索NAT：网络地址转换技术的深度解析](https://mp.weixin.qq.com/s/r_NWzPoOYvEo72HVTideEw)
 + [同步通信 VS 异步通信，如何选择？](https://mp.weixin.qq.com/s/XxPTXJ0HcXH7CmfRtbgSlg)
 + [揭秘数通知识：什么是NAT？NAT是怎么工作的？](https://mp.weixin.qq.com/s/5WCJz4kt4LGTQAAPOIDcUQ)

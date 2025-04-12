@@ -139,6 +139,7 @@
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
 + [JDK 23 新特性解读~](https://mp.weixin.qq.com/s/aZMSwwejdqEtjDqlLzqQtQ)
 + [Java 24 正式发布，超神了。。。](https://mp.weixin.qq.com/s/pd1isbjF6nNhNJQhYfRTUw)
++ [Java 24 / JDK 24 正式 GA](https://www.oschina.net/news/339734/jdk-24-java-24-ga)
 + [重磅！JDK 24正式发布，20项新特性重塑Java开发体验，你还在用JDK8?](https://mp.weixin.qq.com/s/gb4fAY5A_i8txM40RM5SqQ)
 + [Java 24 / JDK 24 正式 GA](https://www.oschina.net/news/339734/jdk-24-java-24-ga)
 + [Java 8的关键新特性：Lambda表达式、Base64编码、日期时间API及Optional类](https://mp.weixin.qq.com/s/pHYDeoGRa4BWcayWv1HmIw)
@@ -538,6 +539,7 @@
 + [一文带你了解Java并发编程](https://mp.weixin.qq.com/s/DgTq6vN9mmPZXg3DNgyp6g)
 + [Java并发编程中的锁（二）JUC包详解之CAS](https://mp.weixin.qq.com/s/mUfZ7B2DmjAxGskn9gOr2A)
 + [Java并发开发的几个工具类，助你在并发开发控制上面游刃有余](https://mp.weixin.qq.com/s/tyO1zzkx3Yxh4omvc6vQ3w)
++ [虚拟线程 / 有栈协程对于 Java 的意义](https://my.oschina.net/u/4662964/blog/18099438)
 
 #### 线程池
 
@@ -2027,6 +2029,7 @@
 + [AutoConfigurationImportSelector过滤算法：Spring Boot启动加速50%的秘密](https://mp.weixin.qq.com/s/uGeI2OxZasNG3Z4rF7FkmA)
 + [Spring Boot开发利器：精通六大必备技能，轻松应对开发挑战](https://mp.weixin.qq.com/s/w5kgMXLQKEl-hk9nmgto0g)
 + [SpringBoot中6种自定义starter开发方法](https://mp.weixin.qq.com/s/i3cTTl9lOfFVM86nvh1JwQ)
++ [Spring Boot 项目 90% 存在这 15 个致命漏洞！你的代码在裸奔吗？](https://my.oschina.net/cccyb/blog/17987519)
 
 #### 版本特性
 
@@ -2451,6 +2454,7 @@
 + [强大！Spring Boot自定义数据绑定，搞定任意数据类型](https://mp.weixin.qq.com/s/ab5_rkZHdvnDbU-R0tFBEQ)
 + [SpringBoot API 接口防刷](https://mp.weixin.qq.com/s/bwvjEc5AXP2ygbfNb4jL-A)
 + [Spring Boot 实现文件秒传功能](https://mp.weixin.qq.com/s/UhhukVMf9HzeARyxWt392g)
++ [Spring Boot 动态切换 Web 服务器实践：基于配置文件实现 Tomcat/Jetty/Undertow 无缝切换](https://my.oschina.net/cccyb/blog/17936138)
 
 ##### VUE
 
@@ -3143,8 +3147,10 @@
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
 + [一套万能通用的异步处理方案](https://mp.weixin.qq.com/s/-K6-c95DeVjCvlQYl0kJkg)
++ [字符串替换研究](https://my.oschina.net/u/4090830/blog/18059068)
 + [网易二面：阿里为何建议MVC+Manager层混合架构？](https://mp.weixin.qq.com/s/_c6y6FRyJXkT3SWg_aXU6Q)
 + [桶排序算法的原理、Java实现及性能优劣一网打尽](https://mp.weixin.qq.com/s/a9qTBLFU0zi_WJV6f1_tdg)
++ [字节跳动 EB 级日志系统设计与优化实践](https://my.oschina.net/u/6800876/blog/17884414)
 + [Java工程分包设计：提升代码可维护性的艺术](https://mp.weixin.qq.com/s/B15uSuh4gt2w3nuabH6V3g)
 + [JAVA基础（二十）图算法-深度优先搜索（DFS）和广度优先搜索（BFS）](https://mp.weixin.qq.com/s/v-0XGpjr959iPW3T_B5EEQ)
 + [Java 中 8 种定时任务](https://mp.weixin.qq.com/s/9jlHSDy-oSwuLon2P5nLBA)

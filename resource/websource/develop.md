@@ -631,6 +631,8 @@
 + [支付系统架构设计：构建高效金融基础设施的核心逻辑](https://mp.weixin.qq.com/s/CXpQXC2b_j8ovb0-fXn3pg)
 + [字节面试：如何设计一个能够支撑千亿级高并发的短链系统？抖音高并发短链系统设计揭秘](https://mp.weixin.qq.com/s/iCgdeqbC_AutJ8HslWEFwA)
 + [高并发秒杀系统如何设计](https://mp.weixin.qq.com/s/TlS5YRoCrw7kyEduCC49Aw)
++ [业务复杂度治理方法论 -- 十年系统设计经验总结](https://my.oschina.net/u/4090830/blog/18043733)
++ [高并发场景下的库存管理，理论与实战能否兼得？](https://my.oschina.net/u/4090830/blog/17989921)
 
 ## 代码相关
 

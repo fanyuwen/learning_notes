@@ -136,6 +136,7 @@
 + [Go 并发编程实战：从互斥锁到 Goroutine 的优雅之道](https://mp.weixin.qq.com/s/tjdjN2nZXdfZ0nQR9bbzKA)
 + [用 Go 语言打造高效 TCP 扫描器：从入门到并发优化](https://mp.weixin.qq.com/s/agjh3NlqxikQhXNfA9i2oA)
 + [Go Plugin 浅析](https://mp.weixin.qq.com/s/8pEdfJFFEC-NUjdP5lajkg)
++ [高效定位 Go 应用问题：Go 可观测性功能深度解析](https://my.oschina.net/u/3874284/blog/18042981)
 
 # 面试题
 

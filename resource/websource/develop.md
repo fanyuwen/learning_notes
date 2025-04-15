@@ -575,6 +575,7 @@
 + [整理常见的多租户系统的实现方案](https://mp.weixin.qq.com/s/bD2B6_pCzAMPiAXz4GPEzw)
 + [聊聊技术方案设计的普遍问题与参考实践](https://mp.weixin.qq.com/s/mVr0wwHrnn5knxKj7-syRg)
 + [如何优雅实现接口统一调用](https://mp.weixin.qq.com/s/t1dSWc_53_t6Y4nbL4qytg)
++ [软件工程的 13 条法则](https://www.oschina.net/news/342448/the-13-software-engineering-laws)
 
 # 测试相关
 

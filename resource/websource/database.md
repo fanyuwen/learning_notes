@@ -81,6 +81,7 @@
 + [SQL优化实战：从慢如蜗牛到快如闪电的必杀技](https://mp.weixin.qq.com/s/Bgw8MQnwg4-FKCQTFRohyw)
 + [SQL窗口函数实战：排名及排名变化问题](https://mp.weixin.qq.com/s/VReyoj6aiFeTL3TYhYVTQQ)
 + [数据库核心操作解析：order by、group by、join、union 排序分组连接合并原理详析](https://mp.weixin.qq.com/s/JZSf_T0s-YWA23aKTdQDnQ)
++ [SQL 入门 8：SQL 复杂查询：子查询与ALL关键词](https://mp.weixin.qq.com/s/mRIjjI1SWotQM6B0qoMrIg)
 
 # 本地数据库
 
@@ -734,6 +735,7 @@
 + [一次Redis性能优化之旅：Pipeline与多线程的完美结合](https://mp.weixin.qq.com/s/OGIwEk3q_gs14hhgKecy_Q)
 + [面试中被嘲笑Token放在redis里，该如何应对这种情况呢？](https://mp.weixin.qq.com/s/PYsMZdIoBJjXDPGiacsavQ)
 + [38 张图详解 Redis：核心架构、发布订阅机制、9大数据类型底层原理、RDB和AOF 持久化、高可用架构、性能问题排查和调优](https://mp.weixin.qq.com/s/JNM7YoXVuPJHnp2AKXAPtw)
++ [Redis中5种BitMap应用场景及实现](https://mp.weixin.qq.com/s/W6kdDUoOyNdccMSEwa2vYQ)
 
 #### 原理
 

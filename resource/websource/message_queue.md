@@ -40,6 +40,7 @@
 + [基于FluxMQ构建车联网平台百万级消息吞吐架构方案](https://mp.weixin.qq.com/s/rhjaXQPKNxNOidrvrHIzDQ)
 + [消息队列架构选型踩坑实录](https://mp.weixin.qq.com/s/DVK3Z8CqSs-N9a2VyGx1zw)
 + [高并发架构实践：RocketMQ、Kafka、RabbitMQ谁才是王者？](https://mp.weixin.qq.com/s/E1AEj79IqiuxHuhgnb2yFA)
++ [面试官：什么是死信队列？死信队列是如何导致的？](https://mp.weixin.qq.com/s/xTTzhyM2BxFJ_LCo7Z4myg)
 
 # KAFKA
 
@@ -128,6 +129,7 @@
 + [RocketMQ 核心模式与架构详解](https://mp.weixin.qq.com/s/MKtGfzPDGP4vWyC_ZR4sYw)
 + [订单超时取消生产级方案：RocketMQ延迟消息 + 定时任务兜底](https://mp.weixin.qq.com/s/xPpdEx9MbFxzpDUpikegwg)
 + [基于rocketmq抽取一个通用的服务端客户端处理器](https://mp.weixin.qq.com/s/6Z_ouNE_o8awnNmSCWNk9w)
++ [Rocketmq文件存储](https://mp.weixin.qq.com/s/695YWnH_AWP4GkxysBGFHg)
 
 # RABBITMQ
 

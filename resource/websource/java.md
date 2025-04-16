@@ -62,6 +62,7 @@
 + [Java 真的不难（十五）Date类](https://mp.weixin.qq.com/s/ZX9Cw9ujzhRUlqngCObTSw)
 + [Java真的不难（二十一）集合](https://mp.weixin.qq.com/s/L2yzG_F33XcroR7gYlfjIQ)
 + [Java集合之List](https://mp.weixin.qq.com/s/xIiatpm06ylCm3CH_Yk5Bw)
++ [Java包装类与基本数据类型的博弈：深挖开发中的九重门](https://mp.weixin.qq.com/s/_YDTvFHYEHjuYrCT6ek2RA)
 
 ### 方法/函数
 
@@ -702,6 +703,7 @@
 + [深入解析线上 JVM 线程分析](https://mp.weixin.qq.com/s/XOz07aB0KRsrp_4q7pkQIA)
 + [线程发生OOM后JVM会自动退出吗？](https://mp.weixin.qq.com/s/NfdfGyjaw7JM3UQCc8tWcg)
 + [一文搞懂 JVM 垃圾回收器](https://mp.weixin.qq.com/s/VSpBqv2VTy1pEN8YG6uzbw)
++ [面试官：说说方法区和永久代以及元空间有什么关系？](https://mp.weixin.qq.com/s/cNXxpFzGmzA8q14QbuseYQ)
 
 ### 内存
 
@@ -845,6 +847,7 @@
 + [【Java程序员必看】parallelStream流：让你的代码在多核时代飞起来，但别让这些"坑"绊倒你！](https://mp.weixin.qq.com/s/YkaAUnchAZIKXJoWNsdFkw)
 + [Java 1.8 Stream 流 Sorted 排序](https://mp.weixin.qq.com/s/1t7x0oYepnNZM33E5bmDXQ)
 + [Java 1.8 Stream 流 Match 元素匹配](https://mp.weixin.qq.com/s/T20wey6E1Ax7frX3I9WvKQ)
++ [Stream流的魔法合并术：Reduce规约全解析](https://mp.weixin.qq.com/s/w-_qMvVvEwMwpr9GXbt34w)
 
 ### Date/time
 
@@ -1038,6 +1041,9 @@
 + [Java社招面试题：AQS 介绍？——一场关于并发的“武林大会”](https://mp.weixin.qq.com/s/owNQKkK1xsluEXXlwLfndg)
 + [社招面试翻车记：面试官让我聊聊 ReentrantLock](https://mp.weixin.qq.com/s/_sX93QdjUSD02dM69IcixA)
 + [面试官听了都点头！5 分钟彻底掌握 Java Condition 源码原理](https://mp.weixin.qq.com/s/EkhbbxBWhkzIm_qo3Fl01A)
++ [Java并发编程中的锁（五）JUC包详解之ReentrantLock](https://mp.weixin.qq.com/s/0ki1Fp3unQHqQq11xOb0nA)
++ [1.6w字图解Java并发：多线程挑战、线程状态和通信、死锁；AQS、ReentrantLock、Condition 使用和原理](https://mp.weixin.qq.com/s/-AY1G04J0976vDy3wT9LIg)
++ [当面试官问你Synchronized和ReentrantLock有什么区别？建议把这篇摔他脸上](https://mp.weixin.qq.com/s/ikmYwHIURUsyr_crJktDaA)
 
 ### ConcurrentHashMap
 
@@ -1081,6 +1087,7 @@
 + [深入浅出：Java阻塞队列完全解析](https://mp.weixin.qq.com/s/ZJOpbTk-sPkDHleI_EjOog)
 + [面试刷题必备！ConcurrentLinkedQueue源码与优化解析](https://mp.weixin.qq.com/s/Gwy7_5NZkp_QxVx0P8lWFA)
 + [面试高频！ArrayBlockingQueue vs LinkedBlockingQueue，99%的人答不全！](https://mp.weixin.qq.com/s/UKVyH5vtAvj8la1dwF-R5g)
++ [为什么大厂面试官都爱考阻塞队列？深入源码，揭秘它的独特魅力！](https://mp.weixin.qq.com/s/XSXCxQNbi6AB7t3tBiMCxw)
 
 ## IO/NIO
 
@@ -1363,6 +1370,7 @@
 + [MyBatis Plus 乐观锁实现：轻松解决并发更新问题！](https://mp.weixin.qq.com/s/v1x8AGof0VTN-GgXQT4tMQ)
 + [MyBatis-Plus注解双杰：@TableLogic与@Version，数据操作更高效](https://mp.weixin.qq.com/s/yB0GBvvPWTrx6pcQvgbWyA)
 + [MyBatis Plus 多数据源实战：Spring Boot 中轻松玩转多个数据库！](https://mp.weixin.qq.com/s/hkKrBlJgBjETDgXTdPp3Kw)
++ [mybatis-plus缓存bug分析](https://mp.weixin.qq.com/s/s51yTWtZ4pDJ7phPWaKfdA)
 
 ## nacos
 
@@ -1804,6 +1812,7 @@
 + [通过Spring AOP + 多线程 + 批量实现强大的智能审计功能](https://mp.weixin.qq.com/s/xEyaa2SO4T8Tk5OjLu4Odw)
 + [拼多多二面：Spring AOP和AspectJ的区别是什么？](https://mp.weixin.qq.com/s/6dvdQb0yyA-Mkh9IZEGDNQ)
 + [Spring（四）彻底掌握 AOP：解耦核心业务与横切逻辑](https://mp.weixin.qq.com/s/m18kZCuSFpsuNdPIPWLbkA)
++ [学会这3招Spring AOP切面技巧，代码解耦效率直接翻倍](https://mp.weixin.qq.com/s/nMlIk6fnGMW80_-8WPRUnQ)
 
 ### 配置打包部署
 
@@ -1829,6 +1838,7 @@
 + [Spring AI，Java开发者上手大模型最佳实践，手把手教你用起来](https://mp.weixin.qq.com/s/DMVeW63NnALEnaxYeZjuoQ)
 + [SpringAI：Java 开发的智能新利器](https://my.oschina.net/zlt2000/blog/16535398)
 + [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/nY4yGbfMRERsFe6wYHDQ5g)
++ [Spring AI：超神Advisor切面，会话记忆和历史记录秒解决](https://mp.weixin.qq.com/s/ran79ZVNF1wxck0r-BpqKQ)
 
 ### cloud
 
@@ -2062,6 +2072,7 @@
 + [Spring Boot 项目 90% 存在这 15 个致命漏洞！你的代码在裸奔吗？](https://my.oschina.net/cccyb/blog/17987519)
 + [SpringBoot中3种优雅停机的实现方式](https://mp.weixin.qq.com/s/6YwUAfTx-fUPbrBUxyDJuA)
 + [SpringBoot中3种条件装配技术](https://mp.weixin.qq.com/s/PrXZQclridKXOLlnLp1F-w)
++ [Spring Boot异常处理全攻略：五大方案实战对比](https://mp.weixin.qq.com/s/qAckA0XMmpekF5eWAxoYFg)
 
 #### 版本特性
 
@@ -2488,6 +2499,7 @@
 + [Spring Boot 实现文件秒传功能](https://mp.weixin.qq.com/s/UhhukVMf9HzeARyxWt392g)
 + [Spring Boot 动态切换 Web 服务器实践：基于配置文件实现 Tomcat/Jetty/Undertow 无缝切换](https://my.oschina.net/cccyb/blog/17936138)
 + [SpringBoot实现单点登录(SSO)的4种方案](https://mp.weixin.qq.com/s/P3TL46D7k8i1N4d50ClOVA)
++ [哇塞！Spring Boot 一注解逆天，API 超时问题秒解决](https://mp.weixin.qq.com/s/n98_cJGbaNnMer7QtSeCKA)
 
 ##### VUE
 
@@ -2673,6 +2685,7 @@
 + [Spring Boot 基于 ApplicationListener 的扩展应用](https://mp.weixin.qq.com/s/6xDwT4oPL_bBEp3BAigoNQ)
 + [解锁 Spring Boot 中 @EventListener 注解的正确用法](https://mp.weixin.qq.com/s/pvAPs4ibKpoZMxENBA7g0w)
 + [SpringBoot + ResponseBodyEmitter 实时异步流式推送，优雅！](https://mp.weixin.qq.com/s/-MJjfOfGMxX_0i-1cr7jWg)
++ [SpringBoot中3种应用事件处理机制](https://mp.weixin.qq.com/s/HpRNbU2ANxNeUErIlqDRtQ)
 
 #### CACHE
 

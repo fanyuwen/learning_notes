@@ -24,3 +24,4 @@
 + [推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 | 官方博客](https://mp.weixin.qq.com/s/T3qtxrwuMPpL5cQKmKJXtw)
 + [Kotlin 开发者现在可以在 Android Studio 中使用 JetBrains AI Assistant 了｜官方博客](https://mp.weixin.qq.com/s/PyMszlSle_Iyp2TjZdpW9w)
 + [报名 2025 Google Summer of Code，共建 Kotlin 开源生态！｜官方博客](https://mp.weixin.qq.com/s/G7snXDpc-BCTtxheG4g44g)
++ [Podcast |《Kotlin 炉边漫谈》第 18 期：KotlinConf’24 现场聊参会体验](https://mp.weixin.qq.com/s/SE_oy4bDY7sf5AnbqhR-XA)

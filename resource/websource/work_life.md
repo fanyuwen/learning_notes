@@ -72,6 +72,8 @@
 + [大厂HR告诉你：73% 的 35 岁以上大厂人仍留在大厂](https://mp.weixin.qq.com/s/HHJQQlrwh4VkwQvfTg4_vg)
 + [阿里P9感悟：想要在大厂活得不拧巴，早点看透这 3 点](https://mp.weixin.qq.com/s/p9AvbBDinvKDDz1H__RsgA)
 + [阿里P9感悟：35岁被裁，你不是输给年轻人，是输给了性价比](https://mp.weixin.qq.com/s/J3jmwClQ6nlSoLXssocGDQ)
++ [字节挂你的方式真的很独特。。](https://mp.weixin.qq.com/s/3Kd1BwYStlOJoWiC23BROw)
++ [知乎热议：为什么多数程序员都不做个人独立开发？](https://mp.weixin.qq.com/s/lJkuVqv-cfWVe0E4VqFXiA)
 
 # 个人成长
 
@@ -136,6 +138,7 @@
 + [程序员必备！最全技术文档写作指南](https://mp.weixin.qq.com/s/TcxK_HE-xPyECzlV429foA)
 + [研发高阶能力之技术规划](https://mp.weixin.qq.com/s/PBdeiNOMhiWVim1AWeIc2g)
 + [别再盲目敲代码！程序员应该多积累业务经验！](https://mp.weixin.qq.com/s/jYKg9_n8NGj5a98RRYfVcw)
++ [我认识的最优秀的程序员](https://mp.weixin.qq.com/s/siz6m5U72vfXgWWtcHo4gg)
 
 ## 视频
 
@@ -225,6 +228,7 @@
 + [18.6k star，取代Navicat，一款集成了 AI 功能的数据库管理工具！](https://mp.weixin.qq.com/s/r-jlnHIPwvZEblNab16hYw)
 + [阿里同学都在用的开发环境和工具](https://mp.weixin.qq.com/s/2qgs4JYOJFCmrxHMxtctyA)
 + [几款实用的内网穿透工具，安排！](https://mp.weixin.qq.com/s/bUbtcexFDZLn_h7xCh22JA)
++ [比XShell更好用，快到起飞，还支持网页版.....](https://mp.weixin.qq.com/s/UUpanZ-dnhu4M-Ln6AbO-g)
 
 ## 开源资源
 

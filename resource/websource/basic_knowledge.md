@@ -153,6 +153,7 @@
 + [Linux命令小课堂 sudo tar -czvf 压缩率知多少？](https://mp.weixin.qq.com/s/b4zSvcykptzL25rFTd_8DA)
 + [shell笔记](https://mp.weixin.qq.com/s/j5SbJvi2UW4HdCBzSOr8vw)
 + [Linux系统玩转vim命令，提高效率](https://mp.weixin.qq.com/s/J8-vkMj9ScTAxaCtCaSfdw)
++ [Linux系统玩转vim编辑器，学会这些足够了](https://mp.weixin.qq.com/s/iagNcCVYuf7ZYbnqpWuSNw)
 
 ### 发行版信息
 

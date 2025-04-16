@@ -251,6 +251,7 @@
 + [一个注解 —— 完美实现分布式锁](https://mp.weixin.qq.com/s/HH1EOeUFsyHY3Ews9rEvgQ)
 + [分布式锁介绍](https://mp.weixin.qq.com/s/1Joo0dN47TEmvq6BhS5wow)
 + [分布式锁实现解析：几种简单方式的对比与选择](https://mp.weixin.qq.com/s/p41UsC969wUHs1tEmYUdzg)
++ [深入理解分布式锁：原理、应用与挑战](https://my.oschina.net/u/4090830/blog/17877412)
 
 ## 分布式缓存
 

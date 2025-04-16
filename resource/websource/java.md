@@ -1105,6 +1105,7 @@
 
 + [再聊 SPI 机制](https://my.oschina.net/u/4494662/blog/11049008)
 + [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [Java 的 SPI 机制详解](https://my.oschina.net/u/4090830/blog/17869131)
 + [Java SPI机制及其与Spring SPI、Spring Boot SPI的异同](https://mp.weixin.qq.com/s/N16tju6dVeue9liMD9HqMQ)
 + [手撸RPC框架 -SPI机制基础功能实现](https://mp.weixin.qq.com/s/Druh2yOtAedsKDdEKSS0-A)
 + [温习 SPI 机制 （Java SPI 、Spring SPI、Dubbo SPI）](https://my.oschina.net/makemyownlife/blog/16492033)
@@ -1179,6 +1180,9 @@
 + [Caffeine Cache-高性能Java本地缓存组件](https://mp.weixin.qq.com/s/0KQYBuJiFfw8a_1YjZCnRw)
 + [多级缓存架构实战：Caffeine+Redis 实现百万 QPS 的秘诀](https://mp.weixin.qq.com/s/Ckzun7_g7odkOioWFHCQbw)
 + [Redis+Caffeine 太强了！](https://mp.weixin.qq.com/s/jmX1X1XNmcN22pzFTtPlNA)
++ [性能利器Caffeine缓存全面指南](https://segmentfault.com/a/1190000044579389)
++ [缓存之美：万文详解 Caffeine 实现原理（上）](https://my.oschina.net/u/4090830/blog/17578210)
++ [缓存之美：万文详解 Caffeine 实现原理（下）](https://my.oschina.net/u/4090830/blog/18017722)
 
 ## consul
 
@@ -2969,6 +2973,7 @@
 #### test
 
 + [Spring（十八）Spring Boot 测试指南：单元、集成与契约测试全解析](https://mp.weixin.qq.com/s/iFpQU7kXS9SnKMSekVOM0g)
++ [一种极简单的 SpringBoot 单元测试方法](https://my.oschina.net/u/4090830/blog/17877410)
 
 #### 自定义实现
 
@@ -3159,6 +3164,7 @@
 + [轻量级Java框架的性能之王](https://mp.weixin.qq.com/s/r4IgzoqHCKzYbATTI44anw)
 + [还在使用WebSocket实现实时消息推送吗？](https://mp.weixin.qq.com/s/VeCY8GcYnd7vla8sgRj9eA)
 + [拒绝if-else！小而美的规则引擎 Easy Rules 真不错！](https://mp.weixin.qq.com/s/F7aJIC16qIiS4ZZMCtFxLA)
++ [别再把 JSF 当 HTTP：远程调用不背 “包” 袱！](https://my.oschina.net/u/4090830/blog/18125746)
 
 # 其它环境
 

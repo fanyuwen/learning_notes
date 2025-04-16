@@ -521,6 +521,7 @@
 + [MySQL中的覆盖索引是如何工作的？](https://mp.weixin.qq.com/s/Cf1LgyFSF3b-duD9TwCi9A)
 + [MySQL数据库——索引结构之B+树](https://mp.weixin.qq.com/s/dC7PAHpuq8lfIH5I4MZEWQ)
 + [京东一面：索引了解吧，最左前缀匹配，abc, 其中a=1 和 b>1 和 c=1 ，这个走索引吗？为什么b不走？](https://mp.weixin.qq.com/s/aqIyxBhWjEREiTnZJxGdmw)
++ [一文了解 MySQL 索引机制](https://my.oschina.net/u/4090830/blog/17843048)
 
 ### PostgreSQL
 

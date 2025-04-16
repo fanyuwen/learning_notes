@@ -24,6 +24,7 @@
 + [小团队 CI/CD 实践：无需运维，Java Web应用的自动化部署](https://mp.weixin.qq.com/s/AceyGxWS_j7Wh19zRcsZwg)
 + [一键搞定批量部署！Shell、Python、Java 三种脚本实战，效率提升100%！](https://mp.weixin.qq.com/s/bKQJfayRTHPp_xD64B7XgQ)
 + [5分钟的CICD-服务器监控搭建（一）](https://mp.weixin.qq.com/s/6vQzogshKMtDCSd19-y--g)
++ [字节跳动 EB 级日志系统设计与优化实践](https://my.oschina.net/u/6800876/blog/17884414)
 
 ## JENKINS
 

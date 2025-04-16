@@ -158,7 +158,8 @@
 + 开源机器学习库 [scikit-learn](https://scikit-learn.org/) [tensorflow](https://tensorflow.google.cn/) [pytorch](https://pytorch.org/)
 + 数据分析和处理库 [pandas](https://pandas.pydata.org/)
 + devops相关 [fabric](https://www.fabfile.org) [paramiko](https://www.paramiko.org)
-+ 单元测试 [pytest](https://docs.pytest.org)
++ 单元测试 [pytest](https://docs.pytest.org
++ cuda [cuda-python](https://nvidia.github.io/cuda-python)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

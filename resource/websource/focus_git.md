@@ -26,6 +26,14 @@
 + [jol](https://github.com/openjdk/jol)
 + [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map)
 
+# SCALA
+
++ [zio](https://github.com/zio/zio)
++ [cats-effect](https://github.com/typelevel/cats-effect)
++ [monix](https://github.com/monix/monix)
++ [fs2](https://github.com/typelevel/fs2)
++ [kyo](https://github.com/getkyo/kyo)
+
 # PYTHON
 
 + [RxPY](https://github.com/ReactiveX/RxPY)

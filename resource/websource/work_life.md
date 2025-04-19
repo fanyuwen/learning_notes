@@ -364,6 +364,7 @@
 + [【独家揭秘】这帮大神，竟从零打造了一款全新的浏览器？！](https://mp.weixin.qq.com/s/Ceg3rU1QOmxE4LBGsC7rtQ)
 + [2025哪些技能仍然有很大的需求缺口？](https://mp.weixin.qq.com/s/rz0ov--v3xUSUT9H1gxYhA)
 + [挑战Rust和Scala，这门新语言震惊德国开发者！](https://mp.weixin.qq.com/s/wLicB_C9JXhvmIO5p0MzPw)
++ [Scala 语言未来如何进化？](https://www.oschina.net/news/345137/evolving-scala)
 
 ## 创业
 

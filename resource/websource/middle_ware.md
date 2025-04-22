@@ -19,9 +19,11 @@
 + [Zookeeper集群搭建详细教程](https://mp.weixin.qq.com/s/vg8R1YKwAh8k6ZSu3YVqEA)
 + [说说你对Zookeeper的理解？Zookeeper和Redis哪种实现分布式锁更好？](https://mp.weixin.qq.com/s/WWenfNxuqRu1xYYkHrhAoA)
 + [基于 ZooKeeper 实现分布式锁](https://mp.weixin.qq.com/s/uBM6QYayaWz2GwjFsnxPkA)
++ [ZooKeeper实现分布式锁](https://mp.weixin.qq.com/s/aJm9COa4ZRfv9fUpnTvTtg)
 + [彻底搞懂如何通过 ZooKeeper 实现注册中心](https://mp.weixin.qq.com/s/ta18BHTXUk19_bFIEYiJ-Q)
 + [ZooKeeper可视化界面：提升分布式系统管理的效率](https://mp.weixin.qq.com/s/MGBeu6cOszZMU1Mnco4o4g)
 + [解密ZAB协议：Zookeeper一致性的核心实现](https://mp.weixin.qq.com/s/bZQL3FtFM7M4K7dVNvRoXQ)
++ [Zookeeper最全详解(万字图文总结)](https://mp.weixin.qq.com/s/FjNWtMgaRC4qSijgvR8e8w)
 
 # Thrift
 

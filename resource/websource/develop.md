@@ -446,6 +446,7 @@
 + [缓存数据一致性问题，你知道哪些解决方案？你觉得哪种方案最好？](https://mp.weixin.qq.com/s/GNK9jJta6jwNtV52G5P95w)
 + [大厂高频面试题：Redis三大缓存问题（缓存穿透、雪崩、击穿）的原因及解决方案详解，面试必问，建议收藏](https://mp.weixin.qq.com/s/VYTmazKrklNhvD676sbIUw)
 + [为什么说缓存是把双刃剑？](https://mp.weixin.qq.com/s/KRBFvaIBD3DdGp7vBfL51g)
++ [多级缓存架构：深度解析与实践](https://mp.weixin.qq.com/s/u17G44XLFah9ZwJi0qHtAA)
 
 ## 优化
 
@@ -489,6 +490,7 @@
 + [面试官：业务开发时，接口不能对外暴露怎么办？我有 3 种实现方案！](https://mp.weixin.qq.com/s/RLDUlQDJQzgHft1fRERLyg)
 + [常见加密算法解析 - 2](https://my.oschina.net/u/2512041/blog/4377017)
 + [深入理解OAuth 2.0：原理、流程与实践](https://mp.weixin.qq.com/s/lAWgJ3oegR_edo-OqVjP0w)
++ [彻底搞懂 OAuth2.0](https://mp.weixin.qq.com/s/W62gIbMK5liLg0zeSrM2uQ)
 + [OAuth2.0原理及常见漏洞](https://mp.weixin.qq.com/s/NmUsbHjDgL3YZxskTCa5vA)
 + [敏感数据不加密就提交到GitHub，你怕不是没经历过社会的毒打哦](https://mp.weixin.qq.com/s/fsMBgOP9blx2Mf5RZano2Q)
 + [数据保护技巧揭秘：为导出文件添加防护密码的实用指南](https://my.oschina.net/powertoolsteam/blog/11205422)
@@ -579,6 +581,7 @@
 + [聊聊技术方案设计的普遍问题与参考实践](https://mp.weixin.qq.com/s/mVr0wwHrnn5knxKj7-syRg)
 + [如何优雅实现接口统一调用](https://mp.weixin.qq.com/s/t1dSWc_53_t6Y4nbL4qytg)
 + [软件工程的 13 条法则](https://www.oschina.net/news/342448/the-13-software-engineering-laws)
++ [事件驱动架构详解 - 模块间解耦利器](https://mp.weixin.qq.com/s/Xg16k8Uc7hblwlUwUdj5Fg)
 
 # 测试相关
 

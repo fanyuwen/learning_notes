@@ -97,6 +97,7 @@
 + [Flink 消费 Kafka 配置优化实战分享](https://mp.weixin.qq.com/s/YelSnL5--MGhoqP8gt_gmg)
 + [Kafka基本原理详解：架构、机制与Java实践](https://mp.weixin.qq.com/s/CKBJr_E4UshGSpgX6ArNPg)
 + [吊打面试官|Kafka生产者架构深度剖析](https://mp.weixin.qq.com/s/VI5Pa_ppL9f4RTe4tUFWDw)
++ [Kafka高水位（HW）更新机制：从原理到实战](https://mp.weixin.qq.com/s/Ii1sW8r3bnLZ7Bpk6auipQ)
 
 # ROCKETMQ
 

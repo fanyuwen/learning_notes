@@ -82,6 +82,7 @@
 + [SQL窗口函数实战：排名及排名变化问题](https://mp.weixin.qq.com/s/VReyoj6aiFeTL3TYhYVTQQ)
 + [数据库核心操作解析：order by、group by、join、union 排序分组连接合并原理详析](https://mp.weixin.qq.com/s/JZSf_T0s-YWA23aKTdQDnQ)
 + [SQL 入门 8：SQL 复杂查询：子查询与ALL关键词](https://mp.weixin.qq.com/s/mRIjjI1SWotQM6B0qoMrIg)
++ [面试官：你是如何进行SQL调优的？](https://mp.weixin.qq.com/s/IpxlT3MstKoQ7zFfJuXIGA)
 
 # 本地数据库
 
@@ -114,6 +115,7 @@
 + [Mysql/Oracle/Postgresql快速批量生成百万测试数据sql汇总（非存储过程）](https://mp.weixin.qq.com/s/Ha8HIb0TJ6cg-lcu2Rz-tw)
 + [为什么高性能场景选用Postgres SQL 而不是 MySQL](https://mp.weixin.qq.com/s/3pIDtA03SQE0waOUG7dUZw)
 + [这才是批量update的正确姿势！](https://mp.weixin.qq.com/s/fMIqu2eTZyblxZI_AP-Scg)
++ [从自增ID到雪花算法：数据库主键选型深度演进与避坑指南](https://mp.weixin.qq.com/s/s2zCb_hE4Xm2uAnSAwmqjw)
 
 ### 读写分离&分库分表
 
@@ -375,6 +377,11 @@
 + [MySQL三大日志详解：Undo Log、Redo Log和Binlog的作用与工作机制](https://mp.weixin.qq.com/s/7NTGCV4DQdDmrrJROSHR6g)
 + [用通俗易懂的大白话彻底搞明白mysql的数据类型以及mysql中的int(11)，这个11到底是啥？](https://mp.weixin.qq.com/s/u0BrCTyIL1o_zW8hFMHqaA)
 + [MySQL表空间探秘：Java开发者必备的存储引擎知识](https://mp.weixin.qq.com/s/UOo0Ggjuc0_B9JaidqiSlg)
++ [一文读懂：MySQL执行一条SQL的全过程，原来数据库是这样工作的！](https://mp.weixin.qq.com/s/HVH4jJjGcS_CXxtZNxhROQ)
++ [MySQL 性能优化核心指南：表结构设计与查询速度深度解析](https://mp.weixin.qq.com/s/zN8F0igQ6DilCv3ZoDjHiw)
++ [MySQL高频函数，使你的SQL更加高效和简洁（二）](https://mp.weixin.qq.com/s/Smq24Jmqk2FacuotBIGOmw)
++ [MySQL中count(*)/count(1)/count(id)/count(字段)的区别](https://mp.weixin.qq.com/s/s-YqaV7Vnfwr5HAXJ6Mo8g)
++ [MySQL的Order By背后藏着什么秘密？一文讲透排序优化技巧](https://mp.weixin.qq.com/s/PGezgj2R4quQD9blC7FccQ)
 
 #### 存储引擎
 
@@ -441,6 +448,7 @@
 + [MySQL数据库中，如何减少行锁的影响？](https://mp.weixin.qq.com/s/QgnjdklYlWb4_3O2jiepPw)
 + [阿里面试：MySQL乐观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/hl2qIe2OYE4j3_Wv3mPLsg)
 + [阿里面试：MySQL悲观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/Dm7xBmgrj2zvuVHL9nqsSg)
++ [Java开发者必备：深度剖析MySQL锁机制与实战避坑指南](https://mp.weixin.qq.com/s/Rj1-L7bK1yi4-QHDU_GfRw)
 
 #### 事务
 
@@ -749,6 +757,11 @@
 + [Redis布隆过滤器实战指南：从原理到代码实现及优化](https://mp.weixin.qq.com/s/ma21GZ9lWNODR6yT3-x2kw)
 + [Redis缓存降级的4种策略](https://mp.weixin.qq.com/s/z_cO7ANYED9WEYp6ZNZl3Q)
 + [Redis大Key的渐进式删除：从原理到实战的全栈指南](https://mp.weixin.qq.com/s/Sv47iDauDB-hb3V6H5gwLA)
++ [基于Redis Key过期 + 定时任务兜底的订单超时取消方案](https://mp.weixin.qq.com/s/ogSlxtu2zvPBZ63f2VGXlQ)
++ [redis之缓存击穿](https://mp.weixin.qq.com/s/Ka7wTerqom8ZTbozZEnAtw)
++ [Redis惰性删除对过期Key的处理流程：原理、实现与实战优化](https://mp.weixin.qq.com/s/595gvjQOZCW3ulGSI5rYMA)
++ [基于Redis的3种分布式ID生成策略](https://mp.weixin.qq.com/s/oXe5V8m0doBqLkuXdrxZOg)
++ [基于Redis的4种延时队列实现方式](https://mp.weixin.qq.com/s/mYRVyDRALdDsmNM9Vi3V7g)
 
 #### 原理
 

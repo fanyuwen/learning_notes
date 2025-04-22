@@ -57,6 +57,7 @@
 + [十二种排序算法都有了解吗，猴子排序最快？？？](https://mp.weixin.qq.com/s/XDfCoivHi86a5tHRYwg8WA)
 + [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
 + [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
++ [深度解析快速排序算法：原理、优化与实战指南](https://mp.weixin.qq.com/s/2S2UFFsxRZCXdDaF4s1Q5A)
 
 # 密码学
 

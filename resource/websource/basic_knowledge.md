@@ -110,6 +110,7 @@
 + [Linux 网络故障排查笔记](https://mp.weixin.qq.com/s/qUrmeqXvhZpw9nP2ATo3jQ)
 + [Linux网络编程(HTTP协议)](https://mp.weixin.qq.com/s/8qfmElaWYusBv0Xwti92jQ)
 + [Linux 网络数据包的接收和发送流程](https://mp.weixin.qq.com/s/yhcJ9KiYwRSDRNfVyjMVVA)
++ [透视Linux内核：深度剖析Socket机制的本质](https://mp.weixin.qq.com/s/wvTXvPHFqfLZRFuJTbjgmg)
 
 ### 命令
 

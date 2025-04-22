@@ -82,6 +82,7 @@
 + [Java 异常超详细教程：从基础到实战，一文吃透！](https://mp.weixin.qq.com/s/_21fB9dFV9urJWHqjmKZAw)
 + [Java异常处理：try-catch-finally的正确打开方式](https://mp.weixin.qq.com/s/iV8AyLg7oHD92DIXWgvzBQ)
 + [我们来捋一捋JAVA的异常](https://mp.weixin.qq.com/s/n8IQtygGfXEAJovtyCheVQ)
++ [Java异常处理中的throws关键字：何时用？怎么用？用错了会怎样？](https://mp.weixin.qq.com/s/87rAgIQp4gqiYylAI3pBUQ)
 
 ### 枚举
 
@@ -451,6 +452,7 @@
 + [你了解零拷贝吗？](https://mp.weixin.qq.com/s/IzqZDjYBPsK-WwiUo3vDzA)
 + [说说非阻塞I/O的好处](https://mp.weixin.qq.com/s/sXUDmV2geVF6en19KOuKkw)
 + [万字总结JavaIO流：从使用到概念，清晰解构](https://mp.weixin.qq.com/s/bG-D0J86fZkJ6Gl3mf4pMw)
++ [BIO/NIO/AIO傻傻分不清？](https://mp.weixin.qq.com/s/kfr1Ulg5g5dJHu6kIOfv-g)
 
 ### 反射
 
@@ -794,6 +796,7 @@
 + [ZGC调优全解析：从核心原理到百万级流量生产实践，将GC停顿从5秒优化到200ms](https://mp.weixin.qq.com/s/WYUg1aoFSm4taEFo3UC8CA)
 + [深入解析 JVM 垃圾回收算法](https://mp.weixin.qq.com/s/0-Jcmg2TUL1SF7cx8f71BA)
 + [不懂看GC日志，怎么排查内存问题？](https://mp.weixin.qq.com/s/zDyGq-A4qH0ZAJkyJzRb8A)
++ [深入解析 ZGC：基于 G1 的革新性优化](https://mp.weixin.qq.com/s/iVi5ssDQO7osyDEGNZC1rw)
 
 # 核心库
 
@@ -875,6 +878,7 @@
 + [ArrayList 十年老油条必须掌握的技巧](https://mp.weixin.qq.com/s/SrVkYLEJUQGZWsf-xB9o4A)
 + [Java集合框架：HashSet、LinkedHashSet 和 TreeSet 的对比与使用](https://mp.weixin.qq.com/s/kC_1ed4YwRXOBH2LDb4xLQ)
 + [Queue&Deque详解](https://mp.weixin.qq.com/s/mwNo_u0fVhWwEpd2Q2OQQw)
++ [List创建的五种方式](https://mp.weixin.qq.com/s/qLDNnm925nYxS63TjbU15w)
 
 #### map
 
@@ -950,6 +954,7 @@
 + [重试机制与 CompletableFuture 拓展](https://my.oschina.net/u/8803553/blog/17312483)
 + [一行CompletableFuture代码引发的P0级事故](https://mp.weixin.qq.com/s/YgkLTrSeaNNSZqpUcEld7w)
 + [Java程序员的救星：CompletableFuture，从此和"等外卖"式编程说再见！](https://mp.weixin.qq.com/s/5LSR_3pyddkKU25M1raGlw)
++ [社招必问！FutureTask 底层原理+应用场景，带你一次学会](https://mp.weixin.qq.com/s/ZnGc4xMMyxCRhQfE73bCaw)
 
 ### ThreadPool
 
@@ -996,6 +1001,7 @@
 + [美团动态线程池，真香啊！](https://mp.weixin.qq.com/s/FrMbXmVBO2prgQ3fWcg1dQ)
 + [Java线程池底层是怎么创建和运行的？（源码阅读）](https://mp.weixin.qq.com/s/kd_Ou3TzD-tUZRYvCxUQHw)
 + [面试练习 | 解释ThreadLocal的工作原理及其用途](https://mp.weixin.qq.com/s/rY5JefyyXPYhLHcz1e7MeQ)
++ [面试官狂喜！我用这 5 分钟讲清了 ThreadPoolExecutor 饱和策略，逆袭上岸](https://mp.weixin.qq.com/s/7lcS_5N3hsyjvsqSBxa9qA)
 
 ### ThreadLocal
 
@@ -1185,6 +1191,7 @@
 
 ## caffeine
 
++ [Caffeine快速开始](https://mp.weixin.qq.com/s/OqbBX16FNfMTh_7YKz0TBA)
 + [Caffeine缓存：从入门到精通](https://mp.weixin.qq.com/s/j9ScM_QHjlVoadiMXkDADw)
 + [干掉GuavaCache：Caffeine才是本地缓存的王](https://mp.weixin.qq.com/s/VkcwhWwHYrNu-yWKPxteZA)
 + [缓存框架 Caffeine 的可视化探索与实践](https://my.oschina.net/vivotech/blog/14189225)
@@ -1350,6 +1357,7 @@
 + [MetaObject：MyBatis的「属性操控魔法」，源码级解密！](https://mp.weixin.qq.com/s/UXSVGvaA50jbbVrX5dqHuw)
 + [MyBatis 面试必杀技：22 道高频题，助你轻松拿 offer！](https://mp.weixin.qq.com/s/PI_MVfcFkajC8gZ4akTC9w)
 + [面试官：如何通过Mybatis拦截器监控SQL](https://mp.weixin.qq.com/s/BU_Mo2hr2p5MgMqPvM9BEQ)
++ [如何在放弃MyBatis分页插件后优雅实现高性能分页](https://mp.weixin.qq.com/s/mRP96ef41tGs5auBVscrcQ)
 
 ### plus
 
@@ -1388,6 +1396,7 @@
 + [深入探讨Nacos服务注册与发现机制](https://mp.weixin.qq.com/s/emeWxHoQbpzxqGB-f7zsXQ)
 + [Nacos 可观测性最佳实践](https://mp.weixin.qq.com/s/EN1a8S3c1N5zhiLDhJ6BUA)
 + [阿里面试这样问：Nacos配置中心交互模型是 push 还是 pull ？（原理+源码分析）](https://mp.weixin.qq.com/s/LdT3UR6zXCCN1ZW6IKXklw)
++ [学会 Nacos 的 长轮询 定时机制，有妙用！](https://mp.weixin.qq.com/s/xNef8T8KzyYFSkkTWfU-ow)
 
 ## openFeign
 
@@ -1461,6 +1470,7 @@
 + [Redisson中的Semaphore与CountDownLatch：实现原理与应用解析](https://mp.weixin.qq.com/s/Lrd1NCuxgGtXUvaGnwMiYA)
 + [Redis Sentinel 及 Redisson 连接问题全解析](https://mp.weixin.qq.com/s/e2fo41PWlXlzNWBbWLeFxA)
 + [Redisson实现分布式锁：原理分析、最佳实践与避坑指南](https://mp.weixin.qq.com/s/Bon9ZBppzjhousyxTpyvbQ)
++ [redisson 使用与分析](https://mp.weixin.qq.com/s/MtIuMCeYkDzRbHynhHtFCg)
 
 ## ribbon
 
@@ -2079,6 +2089,7 @@
 + [SpringBoot中3种优雅停机的实现方式](https://mp.weixin.qq.com/s/6YwUAfTx-fUPbrBUxyDJuA)
 + [SpringBoot中3种条件装配技术](https://mp.weixin.qq.com/s/PrXZQclridKXOLlnLp1F-w)
 + [Spring Boot异常处理全攻略：五大方案实战对比](https://mp.weixin.qq.com/s/qAckA0XMmpekF5eWAxoYFg)
++ [40 个 SpringBoot 常用注解，让生产力爆表！](https://mp.weixin.qq.com/s/nJ2N7wTvyQc3wlXNmtIF7A)
 
 #### 版本特性
 
@@ -2706,6 +2717,7 @@
 + [造轮子能力！基于SpringBoot实现高性能缓存组件](https://mp.weixin.qq.com/s/cmpzvoYn0lxyffKaYznpJA)
 + [Spring Boot结合Google Guava缓存机制实现防重复提交策略](https://mp.weixin.qq.com/s/___iYutShJ7YtTnBMC_Fig)
 + [性能优化！Spring Boot一个注解搞定多级缓存实现](https://mp.weixin.qq.com/s/Sibwl5m4dcEoUqulK_Nv9Q)
++ [Spring Boot多级缓存实战：扛住百万QPS的缓存架构设计](https://mp.weixin.qq.com/s/-2_XXaLcntoZwQrvjc2jAQ)
 
 #### AOP
 
@@ -3208,6 +3220,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
++ [如何优雅地使用本地缓存？](https://mp.weixin.qq.com/s/PyNNVDpOk3yDA685GPdwAQ)
 + [一套万能通用的异步处理方案](https://mp.weixin.qq.com/s/-K6-c95DeVjCvlQYl0kJkg)
 + [字符串替换研究](https://my.oschina.net/u/4090830/blog/18059068)
 + [网易二面：阿里为何建议MVC+Manager层混合架构？](https://mp.weixin.qq.com/s/_c6y6FRyJXkT3SWg_aXU6Q)

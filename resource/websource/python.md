@@ -410,6 +410,7 @@
 + [Python黑科技：evaluation_order机制如何解决函数注解的痛点问题？](https://mp.weixin.qq.com/s/1R_YpZ3LzLY35AWheFL0Tw)
 + [Python单元测试的参数化与数据驱动测试](https://mp.weixin.qq.com/s/R94jEub_xIUeNKqKnRjnfA)
 + [Python容器化应用](https://mp.weixin.qq.com/s/Af7GSX4ppvSZZySHtLTS2g)
++ [多进程性能优化：共享内存 vs 普通多进程](https://mp.weixin.qq.com/s/cbrOAP5llJeYo84a8cd5CA)
 
 ## 新特性
 
@@ -717,6 +718,7 @@
 + [Python 必备！Spleeter 实现音乐源分离超详细教程，让音乐处理更简单](https://mp.weixin.qq.com/s/zC0y18NSd2NI3bAYsc0rfg)
 + [一文读懂Python项目文档自动化，从docstring到持续集成](https://mp.weixin.qq.com/s/FL6OxsrLhbgjq1kLpJ5qIA)
 + [Python代码静态分析工具的开发与应用](https://mp.weixin.qq.com/s/lLHm-_wqKa_5vWrbnd2FGA)
++ [【炸裂】Python后台任务Celery全面解析](https://mp.weixin.qq.com/s/6DGd1dYC-umIioGcxoFcGw)
 
 ## 框架
 

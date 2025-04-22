@@ -369,6 +369,7 @@
 + [10亿数据高效插入MySQL的完整方案与案例分析](https://mp.weixin.qq.com/s/2E-G7mVKuMkM50Qhgj1J1g)
 + [面试官：MySQL 上亿大表，如何深度优化？](https://mp.weixin.qq.com/s/jUc_Usg_hSSr8IfSV-kmvQ)
 + [MySQL惊天陷阱：left join时选on还是where？](https://mp.weixin.qq.com/s/g6xKA76N1IR9EcESVoFO6A)
++ [MySQL查询优化神器：EXPLAIN命令详解与实战](https://mp.weixin.qq.com/s/wkxmN7YYRG_LyU9pvZlaVw)
 
 #### 存储引擎
 
@@ -523,6 +524,7 @@
 + [MySQL数据库——索引结构之B+树](https://mp.weixin.qq.com/s/dC7PAHpuq8lfIH5I4MZEWQ)
 + [京东一面：索引了解吧，最左前缀匹配，abc, 其中a=1 和 b>1 和 c=1 ，这个走索引吗？为什么b不走？](https://mp.weixin.qq.com/s/aqIyxBhWjEREiTnZJxGdmw)
 + [一文了解 MySQL 索引机制](https://my.oschina.net/u/4090830/blog/17843048)
++ [关于索引，你需要知道的~](https://mp.weixin.qq.com/s/bLkv5Ob9h25ui3214lQfNQ)
 
 ### PostgreSQL
 
@@ -737,6 +739,7 @@
 + [38 张图详解 Redis：核心架构、发布订阅机制、9大数据类型底层原理、RDB和AOF 持久化、高可用架构、性能问题排查和调优](https://mp.weixin.qq.com/s/JNM7YoXVuPJHnp2AKXAPtw)
 + [Redis中5种BitMap应用场景及实现](https://mp.weixin.qq.com/s/W6kdDUoOyNdccMSEwa2vYQ)
 + [redis之缓存雪崩](https://mp.weixin.qq.com/s/J0eboxCTx27Gm2YZ1DqSIQ)
++ [Redis布隆过滤器实战指南：从原理到代码实现及优化](https://mp.weixin.qq.com/s/ma21GZ9lWNODR6yT3-x2kw)
 
 #### 原理
 

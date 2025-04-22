@@ -27,6 +27,7 @@
 + [面试官：说说Java对象的创建过程](https://mp.weixin.qq.com/s/s2vy2a0blH6XOnX-3pgVvw)
 + [Java中的super关键字：深入理解继承中的父类操控术](https://mp.weixin.qq.com/s/ZIu2_dedEqE9PhHRbYkzJQ)
 + [Java接口继承：解构灵活扩展的艺术](https://mp.weixin.qq.com/s/S1Cgcm6inZVg4SWEf4LMuA)
++ [一文搞懂Java字符串类的区别：String、StringBuffer与StringBuilder](https://mp.weixin.qq.com/s/CTTkM0vxe273Ng5IAS_XFw)
 + [Java中的abstract class与interface：核心区别与使用场景](https://mp.weixin.qq.com/s/dJP49LmpbT1AzScb2mvTrw)
 + [方法重载 vs 方法重写：Java中的两大核心概念](https://mp.weixin.qq.com/s/SMSzwvENAECQOoptw04MHA)
 + [Java接口中的“暗雷”：多接口重名常量如何排雷？](https://mp.weixin.qq.com/s/eWRkgGY_9hQMQqXYjvcAiA)
@@ -36,6 +37,7 @@
 + [深入浅出Java成员内部类：亲密关系的艺术](https://mp.weixin.qq.com/s/NTiOAUj12z4GAu2qAUPl3g)
 + [Java内部类：隐藏在类中的“秘密花园”](https://mp.weixin.qq.com/s/ct-_hRCCVpHjnsoY9P1Inw)
 + [Java方法内部类：藏在方法里的精巧设计](https://mp.weixin.qq.com/s/HiRZzDN6thZeeY0MIgT35g)
++ [深入浅出Java匿名内部类：灵活背后的代码哲学](https://mp.weixin.qq.com/s/CD-9UQWtxiI0GOx-fRD69Q)
 + [解密Java静态内部类：优雅设计背后的隐藏力量](https://mp.weixin.qq.com/s/beVZlpl7W7IGae1-Eo7iFQ)
 + [Java接口深度解析：灵活设计的关键](https://mp.weixin.qq.com/s/AHcpR0AHyTWo81Sg5loBkQ)
 + [一篇文章讲清楚 Java 中的反射](https://my.oschina.net/u/8431079/blog/16416841)
@@ -62,9 +64,11 @@
 + [Java 真的不难（十五）Date类](https://mp.weixin.qq.com/s/ZX9Cw9ujzhRUlqngCObTSw)
 + [Java真的不难（二十一）集合](https://mp.weixin.qq.com/s/L2yzG_F33XcroR7gYlfjIQ)
 + [Java集合之List](https://mp.weixin.qq.com/s/xIiatpm06ylCm3CH_Yk5Bw)
++ [面试官：List删除的四种方式](https://mp.weixin.qq.com/s/6EAAbUYpRQzW28JhvKsOGw)
 + [Java包装类与基本数据类型的博弈：深挖开发中的九重门](https://mp.weixin.qq.com/s/_YDTvFHYEHjuYrCT6ek2RA)
 + [Java自动装箱与拆箱：小细节里的大智慧](https://mp.weixin.qq.com/s/do_0UCq6GEO-IKPqDD2DzQ)
 + [JavaSec-Java反序列化基础篇-Common-Collections1](https://mp.weixin.qq.com/s/vu5kvk-JorAlTIkXAgkt4w)
++ [Java序列化与反序列化原理，实现序列化对象到文件！](https://mp.weixin.qq.com/s/HXGkEh6vccFswrfiFKomSQ)
 
 ### 方法/函数
 
@@ -466,6 +470,8 @@
 + [深入剖析 Java 反射：探寻其优缺点](https://mp.weixin.qq.com/s/PztADsIXLma_ENP-QcvK4w)
 + [深入剖析 Java 反射 Method.invoke 的底层原理](https://mp.weixin.qq.com/s/eXlpLHHpbcv6YiZQwTXBug)
 + [还不懂反射？从类加载到Class，从使用到源码都给你讲透彻](https://mp.weixin.qq.com/s/wiqVpxTl3cS8QkuhvOqgnQ)
++ [Java真的不难（二十六）反射机制](https://mp.weixin.qq.com/s/1J2VApisqdplNlc7hHflYw)
++ [Java 反射和 new 效率对比！实测结果让所有程序员惊掉下巴](https://mp.weixin.qq.com/s/svYFtuChRQh8-V6Yr0jJEQ)
 
 ### 并发/多线程
 
@@ -773,6 +779,7 @@
 + [面试官：说下CMS垃圾收集器的过程](https://mp.weixin.qq.com/s/Kt-f2JFgNaCaygMPbWJcGw)
 + [公司来了个大佬，把FullGC 40次/天优化为10天1次，太秀了~！](https://mp.weixin.qq.com/s/tjLGD_-6lbMNLv_nya5bVA)
 + [3分钟秒懂 JVM 中垃圾对象的回收算法！](https://mp.weixin.qq.com/s/GSmIu_CD0H-05RI8cvaF5A)
++ [Java应用堆内存与GC选择终极指南：让性能飞起来的核心配置](https://mp.weixin.qq.com/s/x_xEftBUSZJQQqAg64f4KA)
 + [Java 面试题 --JVM 大厂篇之深入对比 ZGC、CMS 与 G1 垃圾回收器：助力 Java 应用性能优化](https://mp.weixin.qq.com/s/Z1cKatG5fHjsqfAxTAn1RQ)
 + [一文轻松了解Java常用的垃圾收集器](https://mp.weixin.qq.com/s/Z7lwL6cXnRfF6MK5o1QUdQ)
 + [深入理解Java中的垃圾回收算法](https://mp.weixin.qq.com/s/GkPx7vVpxdiKgn6RGGmoXQ)
@@ -795,8 +802,10 @@
 + [揭秘Java垃圾回收：内存管理的幕后英雄](https://mp.weixin.qq.com/s/xMvAZwThB3T8fJi38HZv5g)
 + [ZGC调优全解析：从核心原理到百万级流量生产实践，将GC停顿从5秒优化到200ms](https://mp.weixin.qq.com/s/WYUg1aoFSm4taEFo3UC8CA)
 + [深入解析 JVM 垃圾回收算法](https://mp.weixin.qq.com/s/0-Jcmg2TUL1SF7cx8f71BA)
++ [深入解析CMS垃圾回收器：与并行回收器的本质差异及适用场景](https://mp.weixin.qq.com/s/oifzeSLwxUS9xsadQ1b0jg)
 + [不懂看GC日志，怎么排查内存问题？](https://mp.weixin.qq.com/s/zDyGq-A4qH0ZAJkyJzRb8A)
 + [深入解析 ZGC：基于 G1 的革新性优化](https://mp.weixin.qq.com/s/iVi5ssDQO7osyDEGNZC1rw)
++ [Java垃圾回收机制，学Java不得不知道的内容，面试必备知识](https://mp.weixin.qq.com/s/8TsccCWesTIFs21ojSyjSg)
 
 # 核心库
 
@@ -959,6 +968,7 @@
 ### ThreadPool
 
 + [Executors：并发编程的得力助手](https://mp.weixin.qq.com/s/4oenA8ucNQ1pGoS2LSyilw)
++ [一口气讲清楚 Executor 框架，建议收藏！](https://mp.weixin.qq.com/s/7P4bVZeKD02XkpRH0T8YSA)
 + [大厂架构师教你：线程池参数优化实战——如何根据QPS设计合理线程数？](https://mp.weixin.qq.com/s/tBEY1udk-XI3XcX2Xd3vtw)
 + [Java Executors类的9种创建线程池的方法及应用场景分析](https://mp.weixin.qq.com/s/qGbdYA8RgSskDBiJf2Ve6g)
 + [如何正确判断Java线程池的大小](https://mp.weixin.qq.com/s/pUressIBVdQqyD2LKRcaRA)
@@ -1002,6 +1012,7 @@
 + [Java线程池底层是怎么创建和运行的？（源码阅读）](https://mp.weixin.qq.com/s/kd_Ou3TzD-tUZRYvCxUQHw)
 + [面试练习 | 解释ThreadLocal的工作原理及其用途](https://mp.weixin.qq.com/s/rY5JefyyXPYhLHcz1e7MeQ)
 + [面试官狂喜！我用这 5 分钟讲清了 ThreadPoolExecutor 饱和策略，逆袭上岸](https://mp.weixin.qq.com/s/7lcS_5N3hsyjvsqSBxa9qA)
++ [Java线程池 - 深入解析ThreadPoolExecutor的底层原理（源码全解析一篇就够）](https://mp.weixin.qq.com/s/MXKz7Mulm8pSVMwsD1fabw)
 
 ### ThreadLocal
 
@@ -1054,6 +1065,7 @@
 + [Java并发编程中的锁（五）JUC包详解之ReentrantLock](https://mp.weixin.qq.com/s/0ki1Fp3unQHqQq11xOb0nA)
 + [1.6w字图解Java并发：多线程挑战、线程状态和通信、死锁；AQS、ReentrantLock、Condition 使用和原理](https://mp.weixin.qq.com/s/-AY1G04J0976vDy3wT9LIg)
 + [当面试官问你Synchronized和ReentrantLock有什么区别？建议把这篇摔他脸上](https://mp.weixin.qq.com/s/ikmYwHIURUsyr_crJktDaA)
++ [Java并发编程中的锁（七）JUC包详解之StampedLock](https://mp.weixin.qq.com/s/JR5ox5bge5TBmsvyA68Jhg)
 
 ### ConcurrentHashMap
 
@@ -1087,6 +1099,7 @@
 + [CountDownLatch / Semaphore 该如何使用？](https://mp.weixin.qq.com/s/bSBUo-qGSwtVn2Ncl5-YMw)
 + [Java中的Semaphore：灵活控制并发访问的秘诀](https://mp.weixin.qq.com/s/h0h9dPj7n6oEVwDmPM4XeA)
 + [面试官：讲一讲CountDownLatch 和 CyclicBarrier](https://mp.weixin.qq.com/s/FrgYeiStO7Dh-M6oghjVug)
++ [这俩工具太像了！到底啥时候用 CountDownLatch，啥时候用 CyclicBarrier？](https://mp.weixin.qq.com/s/k9H3PsTcCqUfxXNKr0rwtA)
 + [JAVA并发编程系列之Semaphore信号量剖析](https://mp.weixin.qq.com/s/C-DBUmGVdNstdOa0LezaWA)
 + [Java进阶篇 -- 线程同步（CountDownLatch）](https://mp.weixin.qq.com/s/BNs_m3Np-dVvOL2EqPLLCw)
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
@@ -1159,6 +1172,7 @@
 + [如何创建一个父类 Maven项目，然后在父类下再创建子项目，构建多模块 Maven 项目](https://mp.weixin.qq.com/s/HE2wg9sOvBrg3Az6UfmGhw)
 + [JAVA：使用 Maven Assembly 创建自定义打包的技术指南](https://mp.weixin.qq.com/s/48Uj24-1V1OaP1WSZgvnxQ)
 + [深度清理Maven依赖：实战经验与避坑指南](https://mp.weixin.qq.com/s/5FtQYGKj_d7HpTgofMNopA)
++ [简化Maven项目依赖：优雅去除未使用Jar包](https://mp.weixin.qq.com/s/NZuEIbuekjwj3cbdNLspcA)
 
 # 功能
 
@@ -1226,6 +1240,7 @@
 ## dubbo
 
 + [Dubbo 超时设置与动态调整解决方案](https://mp.weixin.qq.com/s/f0RlEFmyG7V0-F8j9vIyjQ)
++ [dubbo高级特性介绍](https://mp.weixin.qq.com/s/2QnmvqpiJ0Uvwq4pWeNKcA)
 
 ## eureka
 
@@ -1383,6 +1398,7 @@
 + [MyBatis-Plus注解双杰：@TableLogic与@Version，数据操作更高效](https://mp.weixin.qq.com/s/yB0GBvvPWTrx6pcQvgbWyA)
 + [MyBatis Plus 多数据源实战：Spring Boot 中轻松玩转多个数据库！](https://mp.weixin.qq.com/s/hkKrBlJgBjETDgXTdPp3Kw)
 + [mybatis-plus缓存bug分析](https://mp.weixin.qq.com/s/s51yTWtZ4pDJ7phPWaKfdA)
++ [Java教程：如何使用MybatisPlus自定义分页查询实现多表联查](https://mp.weixin.qq.com/s/kgc_FINnW2Zubda8IEBThA)
 
 ## nacos
 
@@ -2600,6 +2616,7 @@
 + [在 SpringBoot 项目中如何动态切换数据源、数据库？](https://mp.weixin.qq.com/s/TPbzdhjTdTyo7UHhhmB0-A)
 + [性能调优实战：Spring Boot 通过多线程处理SQL IN语句大量值的优化方案](https://mp.weixin.qq.com/s/uZoCjx9hvVg64wPS83d-Fg)
 + [强大！Spring Boot + JPA 实体类设计五大实战技巧](https://mp.weixin.qq.com/s/_bz0rxe8pcH5uPuoQhwOFg)
++ [SpringBoot分库分表实战：原理与ShardingSphere实现](https://mp.weixin.qq.com/s/D-t3tbxDaysPiOVEr2teaQ)
 
 ##### TRANSACTION
 
@@ -3003,6 +3020,7 @@
 + [SpringBoot与Calcite整合，实现多数据源统一查询系统](https://mp.weixin.qq.com/s/PkMvUUhggKG578IKUl-Qwg)
 + [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/hz1QKl5RsliRQer9yrojDQ)
 + [面试官：SpringBoot 工程启动以后，希望将数据库中已有的固定内容提前加载到 Redis 缓存中，应该如何处理](https://mp.weixin.qq.com/s/bKpEour9ApvvdvzNbFEPcQ)
++ [Spring Boot + Lucene：构建轻量级毫秒级响应的全文检索引擎](https://mp.weixin.qq.com/s/xUDLvUtDeYBz1a1yaNNKuw)
 
 #### test
 
@@ -3220,10 +3238,12 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
++ [Java性能调优以及相关工具的使用](https://mp.weixin.qq.com/s/_1-gXGI_6BUyqQopUSUoOQ)
 + [如何优雅地使用本地缓存？](https://mp.weixin.qq.com/s/PyNNVDpOk3yDA685GPdwAQ)
 + [一套万能通用的异步处理方案](https://mp.weixin.qq.com/s/-K6-c95DeVjCvlQYl0kJkg)
 + [字符串替换研究](https://my.oschina.net/u/4090830/blog/18059068)
 + [网易二面：阿里为何建议MVC+Manager层混合架构？](https://mp.weixin.qq.com/s/_c6y6FRyJXkT3SWg_aXU6Q)
++ [一文吃透文件上传漏洞！路径遍历、后缀绕过、ZIP炸弹全解析](https://mp.weixin.qq.com/s/7c6h0d-j5s47KW0kqtVm8A)
 + [桶排序算法的原理、Java实现及性能优劣一网打尽](https://mp.weixin.qq.com/s/a9qTBLFU0zi_WJV6f1_tdg)
 + [从Java到Rust设计思维转换：Newtype模式+类型擦除 = 更强大的接口抽象？](https://mp.weixin.qq.com/s/ZMn51FpZavoV498q7V9kig)
 + [字节跳动 EB 级日志系统设计与优化实践](https://my.oschina.net/u/6800876/blog/17884414)

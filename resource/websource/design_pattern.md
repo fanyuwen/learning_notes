@@ -21,6 +21,7 @@
 + [揭秘 Java 与设计模式：编程路上的 “指南针” 与 “秘籍”](https://mp.weixin.qq.com/s/0lLI4HU2Fpmm6ggK4FUOUw)
 + [面试官为啥总爱问发布订阅模式？看完这篇你就懂了！](https://mp.weixin.qq.com/s/8qAdZcthK_9Oj7CcaGgf2w)
 + [通用设计模式之规格设计模式](https://mp.weixin.qq.com/s/-ZAeleZNTOKcI1gJH7PPRA)
++ [彻底搞懂管道-过滤器模式](https://mp.weixin.qq.com/s/wNyl50CXp2pGW2wm1VJWlA)
 
 # 并发设计模式
 
@@ -56,6 +57,7 @@
 + [【设计模式】破解单例模式：反射、序列化与克隆攻击的防御之道](https://mp.weixin.qq.com/s/doYQTGmYrUp2pJfkgM7UtQ)
 + [【设计模式】单例模式深度解析：从饿汉式到枚举实现的全方位解读](https://mp.weixin.qq.com/s/6Lkf6bSlyRBCI7xjXvfLCg)
 + [单例模式：饿汉式与懒汉式](https://mp.weixin.qq.com/s/lC2N9hn6HY7PiFESDNo8HA)
++ [单例模式中的隐藏陷阱：你真的了解单例吗？](https://mp.weixin.qq.com/s/1Efq_eS-KNxXJqAneYkImQ)
 
 ## 模板方法模式
 

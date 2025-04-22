@@ -74,6 +74,7 @@
 + [阿里P9感悟：35岁被裁，你不是输给年轻人，是输给了性价比](https://mp.weixin.qq.com/s/J3jmwClQ6nlSoLXssocGDQ)
 + [字节挂你的方式真的很独特。。](https://mp.weixin.qq.com/s/3Kd1BwYStlOJoWiC23BROw)
 + [知乎热议：为什么多数程序员都不做个人独立开发？](https://mp.weixin.qq.com/s/lJkuVqv-cfWVe0E4VqFXiA)
++ [为什么很多IT失业者，找工作都挑三拣四的，宁愿天天在家玩，也不去月薪2万以下的小公司？](https://mp.weixin.qq.com/s/5Isl3SyJRS091eACSdiIRg)
 
 # 个人成长
 

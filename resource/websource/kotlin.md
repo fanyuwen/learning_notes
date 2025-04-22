@@ -15,6 +15,7 @@
 + [2024 Kotlin 中文开发者大会：完整回放 + PPT](https://mp.weixin.qq.com/s/W2JsPYLkGg6wl6FcI-gbLw)
 + [Koin 框架官方入驻微信公众号，欢迎关注！ ｜社区分享](https://mp.weixin.qq.com/s/aQxBUUX7OW6MB6iRvQaO4g)
 + [如何给 Kotlin 新增一个 target?](https://mp.weixin.qq.com/s/VwiHmIb8yRL_JO4edRDHtQ)
++ [来自社区：AI 驱动的 Kotlin 最新中文文档](https://mp.weixin.qq.com/s/Eel8ryi1Ifbsc4Iyp9uZ4Q)
 
 ## 技术月报
 

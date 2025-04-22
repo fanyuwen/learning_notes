@@ -159,6 +159,7 @@
 + [索引合并](https://mp.weixin.qq.com/s/a9c1qFdaCQUaGGASIEIOJg)
 + [Redis和MySQL事务的区别是什么？](https://mp.weixin.qq.com/s/nj1h20phaIgoJXznCauVLA)
 + [一文带你彻底弄懂前缀索引！](https://mp.weixin.qq.com/s/oq8dgHszYxu9X_gQYlYWTA)
++ [MySQL 与 Redis 缓存一致性保障：从理论到深度实践【颠覆传统更新库再更新缓存的错误认知】](https://mp.weixin.qq.com/s/TsX_OucP294cAs5QfVGOmg)
 
 ## 关系型数据库
 
@@ -370,6 +371,9 @@
 + [面试官：MySQL 上亿大表，如何深度优化？](https://mp.weixin.qq.com/s/jUc_Usg_hSSr8IfSV-kmvQ)
 + [MySQL惊天陷阱：left join时选on还是where？](https://mp.weixin.qq.com/s/g6xKA76N1IR9EcESVoFO6A)
 + [MySQL查询优化神器：EXPLAIN命令详解与实战](https://mp.weixin.qq.com/s/wkxmN7YYRG_LyU9pvZlaVw)
++ [MySQL三大日志详解：Undo Log、Redo Log和Binlog的作用与工作机制](https://mp.weixin.qq.com/s/7NTGCV4DQdDmrrJROSHR6g)
++ [用通俗易懂的大白话彻底搞明白mysql的数据类型以及mysql中的int(11)，这个11到底是啥？](https://mp.weixin.qq.com/s/u0BrCTyIL1o_zW8hFMHqaA)
++ [MySQL表空间探秘：Java开发者必备的存储引擎知识](https://mp.weixin.qq.com/s/UOo0Ggjuc0_B9JaidqiSlg)
 
 #### 存储引擎
 
@@ -525,6 +529,7 @@
 + [京东一面：索引了解吧，最左前缀匹配，abc, 其中a=1 和 b>1 和 c=1 ，这个走索引吗？为什么b不走？](https://mp.weixin.qq.com/s/aqIyxBhWjEREiTnZJxGdmw)
 + [一文了解 MySQL 索引机制](https://my.oschina.net/u/4090830/blog/17843048)
 + [关于索引，你需要知道的~](https://mp.weixin.qq.com/s/bLkv5Ob9h25ui3214lQfNQ)
++ [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(下)](https://mp.weixin.qq.com/s/KS23BK1lJfheZ0z6ygT3vw)
 
 ### PostgreSQL
 
@@ -740,6 +745,8 @@
 + [Redis中5种BitMap应用场景及实现](https://mp.weixin.qq.com/s/W6kdDUoOyNdccMSEwa2vYQ)
 + [redis之缓存雪崩](https://mp.weixin.qq.com/s/J0eboxCTx27Gm2YZ1DqSIQ)
 + [Redis布隆过滤器实战指南：从原理到代码实现及优化](https://mp.weixin.qq.com/s/ma21GZ9lWNODR6yT3-x2kw)
++ [Redis缓存降级的4种策略](https://mp.weixin.qq.com/s/z_cO7ANYED9WEYp6ZNZl3Q)
++ [Redis大Key的渐进式删除：从原理到实战的全栈指南](https://mp.weixin.qq.com/s/Sv47iDauDB-hb3V6H5gwLA)
 
 #### 原理
 

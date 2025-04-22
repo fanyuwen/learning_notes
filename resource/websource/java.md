@@ -63,6 +63,8 @@
 + [Java真的不难（二十一）集合](https://mp.weixin.qq.com/s/L2yzG_F33XcroR7gYlfjIQ)
 + [Java集合之List](https://mp.weixin.qq.com/s/xIiatpm06ylCm3CH_Yk5Bw)
 + [Java包装类与基本数据类型的博弈：深挖开发中的九重门](https://mp.weixin.qq.com/s/_YDTvFHYEHjuYrCT6ek2RA)
++ [Java自动装箱与拆箱：小细节里的大智慧](https://mp.weixin.qq.com/s/do_0UCq6GEO-IKPqDD2DzQ)
++ [JavaSec-Java反序列化基础篇-Common-Collections1](https://mp.weixin.qq.com/s/vu5kvk-JorAlTIkXAgkt4w)
 
 ### 方法/函数
 
@@ -556,6 +558,7 @@
 + [Java并发开发的几个工具类，助你在并发开发控制上面游刃有余](https://mp.weixin.qq.com/s/tyO1zzkx3Yxh4omvc6vQ3w)
 + [虚拟线程 / 有栈协程对于 Java 的意义](https://my.oschina.net/u/4662964/blog/18099438)
 + [Java 面试高频冷门题：ThreadGroup 是什么？还能用吗？](https://mp.weixin.qq.com/s/wjpiFdVAq2JgJ05wKibt7g)
++ [面试官问我 Java 原子操作，我一句话差点让他闭麦！](https://mp.weixin.qq.com/s/1eq47iQhQFWbiQ2krx-LPw)
 
 #### 线程池
 
@@ -871,6 +874,7 @@
 + [Java大厂面试高频：Collection 和 Collections 到底咋回答？](https://mp.weixin.qq.com/s/Ee_XjCLfj1DlQ5Hx-_7guw)
 + [ArrayList 十年老油条必须掌握的技巧](https://mp.weixin.qq.com/s/SrVkYLEJUQGZWsf-xB9o4A)
 + [Java集合框架：HashSet、LinkedHashSet 和 TreeSet 的对比与使用](https://mp.weixin.qq.com/s/kC_1ed4YwRXOBH2LDb4xLQ)
++ [Queue&Deque详解](https://mp.weixin.qq.com/s/mwNo_u0fVhWwEpd2Q2OQQw)
 
 #### map
 
@@ -1813,6 +1817,8 @@
 + [拼多多二面：Spring AOP和AspectJ的区别是什么？](https://mp.weixin.qq.com/s/6dvdQb0yyA-Mkh9IZEGDNQ)
 + [Spring（四）彻底掌握 AOP：解耦核心业务与横切逻辑](https://mp.weixin.qq.com/s/m18kZCuSFpsuNdPIPWLbkA)
 + [学会这3招Spring AOP切面技巧，代码解耦效率直接翻倍](https://mp.weixin.qq.com/s/nMlIk6fnGMW80_-8WPRUnQ)
++ [面试被问AOP动态代理？别死记硬背了！一篇搞懂ASM、字节码和动态代理，这3个到底咋回事？](https://mp.weixin.qq.com/s/AGgBE0d-XudULQDnY_fQrw)
++ [揭秘AOP的致命盲区：为何private方法逃过代理？深入解析动态代理核心机制](https://mp.weixin.qq.com/s/m2SUo-y9RtwSisnOIDfjwA)
 
 ### 配置打包部署
 
@@ -2500,6 +2506,8 @@
 + [Spring Boot 动态切换 Web 服务器实践：基于配置文件实现 Tomcat/Jetty/Undertow 无缝切换](https://my.oschina.net/cccyb/blog/17936138)
 + [SpringBoot实现单点登录(SSO)的4种方案](https://mp.weixin.qq.com/s/P3TL46D7k8i1N4d50ClOVA)
 + [哇塞！Spring Boot 一注解逆天，API 超时问题秒解决](https://mp.weixin.qq.com/s/n98_cJGbaNnMer7QtSeCKA)
++ [王炸来袭！Controller 接口动态注册](https://mp.weixin.qq.com/s/dSZdsZsy6-BXImrphwvSQg)
++ [SpringBoot实战：深度剖析 Filter、Interceptor、AOP请求三剑客 | 高并发系统设计必修课](https://mp.weixin.qq.com/s/RigPFjGaAOA8uXKheqCt-g)
 
 ##### VUE
 
@@ -2982,6 +2990,7 @@
 + [简单到离谱！Spring Boot三行代码实现邮件发送](https://mp.weixin.qq.com/s/-0uR97tsAJ5Q-JT_mG7Ncg)
 + [SpringBoot与Calcite整合，实现多数据源统一查询系统](https://mp.weixin.qq.com/s/PkMvUUhggKG578IKUl-Qwg)
 + [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/hz1QKl5RsliRQer9yrojDQ)
++ [面试官：SpringBoot 工程启动以后，希望将数据库中已有的固定内容提前加载到 Redis 缓存中，应该如何处理](https://mp.weixin.qq.com/s/bKpEour9ApvvdvzNbFEPcQ)
 
 #### test
 
@@ -3178,6 +3187,7 @@
 + [还在使用WebSocket实现实时消息推送吗？](https://mp.weixin.qq.com/s/VeCY8GcYnd7vla8sgRj9eA)
 + [拒绝if-else！小而美的规则引擎 Easy Rules 真不错！](https://mp.weixin.qq.com/s/F7aJIC16qIiS4ZZMCtFxLA)
 + [别再把 JSF 当 HTTP：远程调用不背 “包” 袱！](https://my.oschina.net/u/4090830/blog/18125746)
++ [OpenCSV太炸裂了，一行代码搞定 CSV 读写](https://mp.weixin.qq.com/s/SkMA5qXl0_hO27HegngPfA)
 
 # 其它环境
 

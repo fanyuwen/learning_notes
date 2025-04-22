@@ -736,6 +736,7 @@
 + [面试中被嘲笑Token放在redis里，该如何应对这种情况呢？](https://mp.weixin.qq.com/s/PYsMZdIoBJjXDPGiacsavQ)
 + [38 张图详解 Redis：核心架构、发布订阅机制、9大数据类型底层原理、RDB和AOF 持久化、高可用架构、性能问题排查和调优](https://mp.weixin.qq.com/s/JNM7YoXVuPJHnp2AKXAPtw)
 + [Redis中5种BitMap应用场景及实现](https://mp.weixin.qq.com/s/W6kdDUoOyNdccMSEwa2vYQ)
++ [redis之缓存雪崩](https://mp.weixin.qq.com/s/J0eboxCTx27Gm2YZ1DqSIQ)
 
 #### 原理
 

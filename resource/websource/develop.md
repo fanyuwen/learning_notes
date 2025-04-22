@@ -229,6 +229,7 @@
 + [从架构到代码，深入理解分布式重试组件的设计原理](https://mp.weixin.qq.com/s/YpnEqdgicFqsz7v-NARLMg)
 + [招行2面：为什么有了服务降级，还需要服务熔断？](https://mp.weixin.qq.com/s/6FAX5lxt65YP0udW02xG3g)
 + [彻底搞懂服务限流和服务降级](https://mp.weixin.qq.com/s/aUCGLqu9pGg0uXjXmacdrA)
++ [这项目太上头！典型分布式事务场景，做完我悟了](https://mp.weixin.qq.com/s/xDGK3f0-O_mMdu7PVgRQ8w)
 
 ## 分布式锁
 

@@ -307,3 +307,4 @@
 + [停止在TS中使用.d.ts文件](https://mp.weixin.qq.com/s/Dt9K5p4WoDSG6HqOFF2bTw)
 + [TypeScript 需要一个更好的依赖注入框架](https://mp.weixin.qq.com/s/wWcgxaYxVnqTVywUSOgZXg)
 + [nrm 管理 npm 镜像源 | npm 私服使用介绍](https://mp.weixin.qq.com/s/UufIohwmm9TT-5YxMEnDUQ)
++ [为什么会 js 但是依然不会写 node？原因竟是这三点...](https://mp.weixin.qq.com/s/lhMHJwxIhPNfm9BhTsOIyQ)

@@ -29,7 +29,7 @@
 + JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/)
 
 ### JVM_LIBRARY
-+ java http库 [Apache HttpComponents](https://hc.apache.org/index.html)
++ java http库 [Apache HttpComponents](https://hc.apache.org/index.html) [okhttp](https://square.github.io/okhttp/)
 + jvm web框架 [javalin](https://javalin.io/)
 + java AST库 [javaparser](https://javaparser.org/) [spoon](https://spoon.gforge.inria.fr/)
 + java bean映射辅助工具 [mapstruct](https://mapstruct.org/)

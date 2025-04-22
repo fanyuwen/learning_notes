@@ -189,6 +189,8 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
++ [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
 + [Python编码规范入门：让代码像诗一样优雅](https://mp.weixin.qq.com/s/LkcSdwrVur1CC5mLmCIA1w)
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)

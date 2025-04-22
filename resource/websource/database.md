@@ -160,6 +160,7 @@
 + [Redis和MySQL事务的区别是什么？](https://mp.weixin.qq.com/s/nj1h20phaIgoJXznCauVLA)
 + [一文带你彻底弄懂前缀索引！](https://mp.weixin.qq.com/s/oq8dgHszYxu9X_gQYlYWTA)
 + [MySQL 与 Redis 缓存一致性保障：从理论到深度实践【颠覆传统更新库再更新缓存的错误认知】](https://mp.weixin.qq.com/s/TsX_OucP294cAs5QfVGOmg)
++ [死锁是否可以彻底避免?](https://mp.weixin.qq.com/s/hXEKuKgcHGZVMurOZe7Znw)
 
 ## 关系型数据库
 
@@ -439,6 +440,7 @@
 + [MySQL死锁全解析：从原理到实战的破局指南](https://mp.weixin.qq.com/s/JoXK3e9kxrSNbcENcLp_eg)
 + [MySQL数据库中，如何减少行锁的影响？](https://mp.weixin.qq.com/s/QgnjdklYlWb4_3O2jiepPw)
 + [阿里面试：MySQL乐观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/hl2qIe2OYE4j3_Wv3mPLsg)
++ [阿里面试：MySQL悲观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/Dm7xBmgrj2zvuVHL9nqsSg)
 
 #### 事务
 

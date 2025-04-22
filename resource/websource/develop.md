@@ -361,6 +361,7 @@
 + [高并发下 如何保证接口的幂等性？](https://mp.weixin.qq.com/s/20tPlrMJFYqlf53_XjlY_A)
 + [系统重试，导致库存扣多啦，怎么办（两行代码破解）？（第41讲）](https://mp.weixin.qq.com/s/qh4JUbE-Tz0Kz5_D1r3_cw)
 + [什么是幂等？如何解决幂等性？](https://mp.weixin.qq.com/s/3NU0q-8V3bRwjD_dhslg_w)
++ [高并发下幂等性的七大解决方案（图文总结）](https://mp.weixin.qq.com/s/DRIowcqgJmLSIYP1fBJmqg)
 
 ### 负载&限流
 

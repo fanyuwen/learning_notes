@@ -156,6 +156,7 @@
 + [shell笔记](https://mp.weixin.qq.com/s/j5SbJvi2UW4HdCBzSOr8vw)
 + [Linux系统玩转vim命令，提高效率](https://mp.weixin.qq.com/s/J8-vkMj9ScTAxaCtCaSfdw)
 + [Linux系统玩转vim编辑器，学会这些足够了](https://mp.weixin.qq.com/s/iagNcCVYuf7ZYbnqpWuSNw)
++ [【Linux学习】grep、sed、awk 三剑客实战](https://mp.weixin.qq.com/s/WImueSpyMkN5lGfVEMulpA)
 
 ### 发行版信息
 
@@ -297,6 +298,7 @@
 + [【java面试100问】27 RPC协议和HTTP协议有什么区别？](https://mp.weixin.qq.com/s/Fr2jP1x7kNvfIbxtInrmIA)
 + [快手一面：你能说一下为什么用RPC而不用其他技术吗？以及RPC底层原理？我：当时没有答上来 面试官：那就下一题吧](https://mp.weixin.qq.com/s/VQJ8_f5ezUbR6XDARGfFiA)
 + [HTTP和HTTPS有什么区别？CA起到什么作用？](https://mp.weixin.qq.com/s/jxCP9hHilT31N5QRmULP8Q)
++ [字节一面：POST 为什么会发送两次请求？](https://mp.weixin.qq.com/s/c9OI4HH-EdXycam5Yj7U_Q)
 
 #### CORS
 
@@ -331,6 +333,7 @@
 + [Socket连接和TCP连接有什么区别，都是传输数据，谁能讲一下这其中的关联吗？](https://mp.weixin.qq.com/s/NiDaXbigFpFFrpuPrVqyKA)
 + [TCP问题21连问](https://mp.weixin.qq.com/s/duWeqdIXOf6hk_KnfIqKdw)
 + [TCP/IP传输层端口号的资源分配](https://mp.weixin.qq.com/s/ucCqY0mvcZvIwnGJH9fB_w)
++ [TCP连接三次握手、关闭四次挥手[常见问题汇总]](https://mp.weixin.qq.com/s/T74NRWBS1REauys1hKuRqQ)
 
 ### UDP
 
@@ -412,6 +415,7 @@
 + [nginx中记录请求日志的详细用法](https://mp.weixin.qq.com/s/sjyWMeApw3a-mh1iTdq9cA)
 + [Nginx中的HTTPS配置及其它安全防护](https://mp.weixin.qq.com/s/AiMYUl0nHkYNahYVCnJwpw)
 + [Nginx的模块化介绍](https://mp.weixin.qq.com/s/3MeEJFyc9PJ9HFDsHqXuzQ)
++ [高并发场景下，Nginx如何限流应对并发？](https://mp.weixin.qq.com/s/8ubKqfNwdudoEgYpAYmo8A)
 
 ### wireshark
 
@@ -449,6 +453,7 @@
 + [面试题：BIO,NIO,AIO 的区别是什么？说说select 和 epoll 工作机制与差异？为何epoll 如此高效](https://mp.weixin.qq.com/s/lPaLEAaj0DLebrUo36c4JA)
 + [多路复用IO及异步IO](https://mp.weixin.qq.com/s/H8NPPpCZXjA2zzEpqTONmg)
 + [IO多路复用：从轮询到事件驱动，高并发服务器如何做到一心多用？](https://mp.weixin.qq.com/s/KFPvoYEcels4gJ7w4xisUA)
++ [嵌入式Linux：I/O多路复用](https://mp.weixin.qq.com/s/2Vg5HqNjWL-u_Da16dMLQw)
 
 ## 字符编码
 

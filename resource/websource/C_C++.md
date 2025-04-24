@@ -157,6 +157,7 @@
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 + [如何在C语言中实现面向对象的编程效果？](https://mp.weixin.qq.com/s/lEtZ_nJTqNcueU4RT0jAbQ)
++ [C语言：内存编址与寻址](https://mp.weixin.qq.com/s/2VmFHrH53VRCvdtK5n3Isw)
 + [动手从零写C库-内存管理之mmap](https://mp.weixin.qq.com/s/Ynw-LvgNwZsOnnXuJo4CZw)
 + [C语言编程，我想用指针实现整数互换为啥歇菜了？](https://mp.weixin.qq.com/s/WHawUfhByH7RQ67iY9rX6w)
 + [gcc __attribute__((const))解析](https://mp.weixin.qq.com/s/OfE3KlgKRpihB-w6Rbq1AQ)

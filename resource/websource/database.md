@@ -540,6 +540,7 @@
 + [一文了解 MySQL 索引机制](https://my.oschina.net/u/4090830/blog/17843048)
 + [关于索引，你需要知道的~](https://mp.weixin.qq.com/s/bLkv5Ob9h25ui3214lQfNQ)
 + [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(下)](https://mp.weixin.qq.com/s/KS23BK1lJfheZ0z6ygT3vw)
++ [MySQL是如何选择索引的？为什么有时候索引会失效？](https://mp.weixin.qq.com/s/XScFxuD3dE6-47mEoAIyKQ)
 
 ### PostgreSQL
 

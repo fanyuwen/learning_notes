@@ -51,6 +51,7 @@
 + [10倍通过率！跳表、红黑树、B+树、HashMap 高频面试题总结（附参考答案+避坑指南）](https://mp.weixin.qq.com/s/_oPJ44OFub5oXGmVsl8gbw)
 + [【数据结构】树的基本：结点、度、高度与计算](https://mp.weixin.qq.com/s/eJ3oIbPgD3dJgE2mqLWmYA)
 + [大厂常考的8道链表算法题！](https://mp.weixin.qq.com/s/T-M6VrcSZvQ2LZKRZOvYcg)
++ [优先队列及其应用](https://mp.weixin.qq.com/s/erMgYPnZRWkWNgN_J7HIQA)
 
 ## 排序算法
 
@@ -79,6 +80,7 @@
 + [【java面试100问】01 请说说雪花算法的实现原理？](https://mp.weixin.qq.com/s/hS0yMP1SusWJQNTeOcb8qg)
 + [滴滴打车如何找出方圆一千米内的乘客？揭开 GeoHash 的神秘面纱](https://mp.weixin.qq.com/s/1bJZv5Y_jw2zLwdy0LgH4w)
 + [一致性哈希算法：大厂高并发场景下的分布式系统设计利器](https://mp.weixin.qq.com/s/xsaxe3ZPh9qNd7OQLiRWyw)
++ [如何统计不同电话号码的个数？—位图法](https://mp.weixin.qq.com/s/VejpMRrPgNOPtyHTPfvo_w)
 
 # leetcode
 

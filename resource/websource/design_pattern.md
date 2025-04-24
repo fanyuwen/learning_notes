@@ -22,6 +22,7 @@
 + [面试官为啥总爱问发布订阅模式？看完这篇你就懂了！](https://mp.weixin.qq.com/s/8qAdZcthK_9Oj7CcaGgf2w)
 + [通用设计模式之规格设计模式](https://mp.weixin.qq.com/s/-ZAeleZNTOKcI1gJH7PPRA)
 + [彻底搞懂管道-过滤器模式](https://mp.weixin.qq.com/s/wNyl50CXp2pGW2wm1VJWlA)
++ [注册模式（Registry Pattern）：实现灵活解耦的插件化系统](https://mp.weixin.qq.com/s/QiKJLMxLDbidJgh15KvgAQ)
 
 # 并发设计模式
 
@@ -139,6 +140,10 @@
 ## 外观模式
 
 + [外观模式：简化复杂系统的优雅设计](https://mp.weixin.qq.com/s/iUfZ19nxHhpFfakhL4-kng)
+
+## 访问者模式
+
++ [设计模式系列-行为型模式-访问者模式（Visitor Pattern）](https://mp.weixin.qq.com/s/887flDP8-UrCI7DdHmythA)
 
 ## 解释器模式
 

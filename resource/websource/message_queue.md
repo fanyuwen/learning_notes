@@ -131,6 +131,8 @@
 + [订单超时取消生产级方案：RocketMQ延迟消息 + 定时任务兜底](https://mp.weixin.qq.com/s/xPpdEx9MbFxzpDUpikegwg)
 + [基于rocketmq抽取一个通用的服务端客户端处理器](https://mp.weixin.qq.com/s/6Z_ouNE_o8awnNmSCWNk9w)
 + [Rocketmq文件存储](https://mp.weixin.qq.com/s/695YWnH_AWP4GkxysBGFHg)
++ [RocketMQ 消息积压千万级如何快速恢复 生产环境踩坑实录](https://mp.weixin.qq.com/s/gHNKN3-kLLnwvCyotT5_gA)
++ [Rocketmq的事务消息](https://mp.weixin.qq.com/s/Svz_g8CQxej_N4f8nASHiQ)
 
 # RABBITMQ
 

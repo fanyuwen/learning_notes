@@ -4,6 +4,7 @@
 
 + [常用的 Java 关键字解读！](https://mp.weixin.qq.com/s/4DzjwJzTSEtqOS3LbBCe_g)
 + [Java关键字详解：构建Java语言的基础元素](https://mp.weixin.qq.com/s/aKWbZuMdLm_iZff4laPXWg)
++ [Java基本数据类型](https://mp.weixin.qq.com/s/6r30NfPtMxxtx1ilbxFPkw)
 + [深入理解Java中不常见的关键字：instanceof、strictfp、transient、volatile](https://mp.weixin.qq.com/s/IR43qwfpwhtJSpiKsEmVBQ)
 + [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
 + [Java 数据类型详解：基本数据类型与引用数据类型](https://mp.weixin.qq.com/s/HEZujUZpitou7Jm_wiQG9Q)
@@ -304,6 +305,7 @@
 + [你见过哪些醍醐灌顶的Java代码？](https://mp.weixin.qq.com/s/K_49h-oJHB_TjpI1-MJgEA)
 + [10个Java代码优化小技巧，让你成为Java高手](https://mp.weixin.qq.com/s/fmZlnohjfCE0Wfd1HdbeBA)
 + [常用JAVA编码小技巧您用了多少？](https://mp.weixin.qq.com/s/fs6nVFJlhZ-TialrmbRj3g)
++ [面试官：如何在map循环中添加新元素](https://mp.weixin.qq.com/s/q8MV_CuUxGoa_-ZmT97P0w)
 
 ## 代码质量
 
@@ -482,6 +484,7 @@
 + [还不懂反射？从类加载到Class，从使用到源码都给你讲透彻](https://mp.weixin.qq.com/s/wiqVpxTl3cS8QkuhvOqgnQ)
 + [Java真的不难（二十六）反射机制](https://mp.weixin.qq.com/s/1J2VApisqdplNlc7hHflYw)
 + [Java 反射和 new 效率对比！实测结果让所有程序员惊掉下巴](https://mp.weixin.qq.com/s/svYFtuChRQh8-V6Yr0jJEQ)
++ [反射和方法句柄，哪个更高效？](https://mp.weixin.qq.com/s/4WF8i71MyKMJ61Ml0Tv19A)
 
 ### 并发/多线程
 
@@ -775,6 +778,7 @@
 + [JVM 系列：栈溢出 | 零基础](https://mp.weixin.qq.com/s/yg9E6TzE2zYNU5WKvsoTPw)
 + [面试被问：OOM类型有哪些？怎么答？](https://mp.weixin.qq.com/s/Ida_n1tTrORSZ4GUHadLDQ)
 + [JMM：为什么你的并发代码永远跑不对](https://mp.weixin.qq.com/s/Nsp-MKuNK9MFEzgXcYhjvg)
++ [对象居然可以在栈上分配？答案是可以的](https://mp.weixin.qq.com/s/6rEAczTTf3-hoOjXY6E76A)
 
 ### 类加载
 

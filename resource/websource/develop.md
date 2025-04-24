@@ -66,6 +66,7 @@
 + [系统思维与架构设计方法论精要](https://mp.weixin.qq.com/s/1VM5pNKBxcS8OPs92775AA)
 + [如何画出一张优秀的架构图（老鸟必备）](https://mp.weixin.qq.com/s/xltAF0A8i9BXmEK4AKUQ3Q)
 + [程序员如何5分钟画好架构图？这个开源神器让文档逼格飙升](https://mp.weixin.qq.com/s/JhmpFBWV5gE2ccZAfFZhMQ)
++ [聊一聊管道-过滤器架构](https://mp.weixin.qq.com/s/-Za9g5pNdKsAfqiEsAC0CA)
 
 ### DDD
 
@@ -230,6 +231,7 @@
 + [招行2面：为什么有了服务降级，还需要服务熔断？](https://mp.weixin.qq.com/s/6FAX5lxt65YP0udW02xG3g)
 + [彻底搞懂服务限流和服务降级](https://mp.weixin.qq.com/s/aUCGLqu9pGg0uXjXmacdrA)
 + [这项目太上头！典型分布式事务场景，做完我悟了](https://mp.weixin.qq.com/s/xDGK3f0-O_mMdu7PVgRQ8w)
++ [Redis Cluster的Gossip协议通信机制：分布式系统的八卦哲学](https://mp.weixin.qq.com/s/oOkN9DcYImOgsR4PvVROBQ)
 
 ## 分布式锁
 
@@ -507,6 +509,7 @@
 + [【java面试100问】39 敏感数据怎么加解密和传输？](https://mp.weixin.qq.com/s/_Kl_eBv8TRPRRTxPbZzt5A)
 + [AES加密过程白话版解析](https://mp.weixin.qq.com/s/3jwOha0CBiRtq0seCFtgbA)
 + [5种常见的加密算法，建议掌握！](https://mp.weixin.qq.com/s/bivOLtm9M9KpWgaK2wj5AQ)
++ [程序员必备基础：10种常见安全漏洞](https://mp.weixin.qq.com/s/P-1jEcbriD4SqPQNesT1pg)
 
 ### 鉴权
 

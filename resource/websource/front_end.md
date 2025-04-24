@@ -154,6 +154,8 @@
 + [JavaScript 中被低估的 API，解决 90% 性能问题](https://mp.weixin.qq.com/s/2zJr_Rwv7kVcFBiKP8ZrHQ)
 + [Map vs Object 终极对决：90%开发者不知道的六大性能杀招](https://mp.weixin.qq.com/s/ncNoLXYpD5_NTSzDP-tpPQ)
 + [async/await 必须使用 try/catch 吗？](https://mp.weixin.qq.com/s/Fruk0Z3H1MAdQyL5NAJgYg)
++ [JavaScript 中的函数：探索组合的强大力量](https://mp.weixin.qq.com/s/hb5ZqLQY2yySURsHgC0enw)
++ [JS里数组转对象的方法](https://mp.weixin.qq.com/s/vE_H_8spO0tsrrNTTQ0dpw)
 
 # 框架
 
@@ -288,6 +290,7 @@
 + [CSS 高级技巧与最佳实践：让你的样式代码更强大、更优雅](https://mp.weixin.qq.com/s/CX-D-nmg2A8qJqXX88VGeg)
 + [2025 前端 5 个顶级通用拖拽库](https://mp.weixin.qq.com/s/VAY6kcEv7EmvY8tUXLSIsg)
 + [二进制图片之间的互相转换 - Blob与base64以及File的转换](https://mp.weixin.qq.com/s/31VZFsV6U73XoQMRRl8yfA)
++ [一文彻底搞透文件上传](https://mp.weixin.qq.com/s/zCD2_hVEmBnCdBGmeiF34w)
 
 # 杂谈
 

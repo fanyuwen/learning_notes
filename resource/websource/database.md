@@ -83,6 +83,8 @@
 + [数据库核心操作解析：order by、group by、join、union 排序分组连接合并原理详析](https://mp.weixin.qq.com/s/JZSf_T0s-YWA23aKTdQDnQ)
 + [SQL 入门 8：SQL 复杂查询：子查询与ALL关键词](https://mp.weixin.qq.com/s/mRIjjI1SWotQM6B0qoMrIg)
 + [面试官：你是如何进行SQL调优的？](https://mp.weixin.qq.com/s/IpxlT3MstKoQ7zFfJuXIGA)
++ [SQL 入门 11：日期时间格式化、IF、CASE的使用](https://mp.weixin.qq.com/s/z6OIp7l9LRYhqDZIlZ5g9A)
++ [MySql8.0实战之JSON](https://mp.weixin.qq.com/s/TDftYHJRBLFIvBLnH0JkMA)
 
 # 本地数据库
 
@@ -397,6 +399,7 @@
 + [Innodb 是如何实现事务的？](https://mp.weixin.qq.com/s/kDuQbqL_Oi5494OwyqM9ng)
 + [InnoDB 索引之B+树详解](https://mp.weixin.qq.com/s/BXfogZuQ0NRYm24zh2NI9w)
 + [MySQL数据库——存储引擎（InnoDB、MyISAM、MEMORY、ARCHIVE）](https://mp.weixin.qq.com/s/-AUH-KXHiB_PDtWBQvnUIA)
++ [MySQL存储引擎InnoDB相关知识](https://mp.weixin.qq.com/s/xlgoW2g9KFojAimz1nEmNg)
 
 #### MVCC
 
@@ -763,6 +766,8 @@
 + [Redis惰性删除对过期Key的处理流程：原理、实现与实战优化](https://mp.weixin.qq.com/s/595gvjQOZCW3ulGSI5rYMA)
 + [基于Redis的3种分布式ID生成策略](https://mp.weixin.qq.com/s/oXe5V8m0doBqLkuXdrxZOg)
 + [基于Redis的4种延时队列实现方式](https://mp.weixin.qq.com/s/mYRVyDRALdDsmNM9Vi3V7g)
++ [redis最近最少淘汰策略(LRU)模拟实现](https://mp.weixin.qq.com/s/AeRsqPtFOAlO4YfcfCxKBA)
++ [Redis缓存雪崩的5种应对措施](https://mp.weixin.qq.com/s/ZTgxEdxCZSoVoRvexxnqiQ)
 
 #### 原理
 

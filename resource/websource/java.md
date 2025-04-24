@@ -70,6 +70,8 @@
 + [Java自动装箱与拆箱：小细节里的大智慧](https://mp.weixin.qq.com/s/do_0UCq6GEO-IKPqDD2DzQ)
 + [JavaSec-Java反序列化基础篇-Common-Collections1](https://mp.weixin.qq.com/s/vu5kvk-JorAlTIkXAgkt4w)
 + [Java序列化与反序列化原理，实现序列化对象到文件！](https://mp.weixin.qq.com/s/HXGkEh6vccFswrfiFKomSQ)
++ [for-each vs 常规for 哪个更高效？好多人答错了](https://mp.weixin.qq.com/s/_mnmnG3iZKJBzipaNlpZhw)
++ [工作多年，竟不知Java序列化？](https://mp.weixin.qq.com/s/B_dqFtilxUnQbQoGm9d71w)
 
 ### 方法/函数
 
@@ -1074,6 +1076,7 @@
 + [面试 ThreadLocal，被问懵了？看完这篇文章你就稳了！](https://mp.weixin.qq.com/s/M4gwVjjQmEbkLLyglqnwiQ)
 + [阿里 P7 级面试题：ThreadLocal 为什么会内存泄漏？如何解决？](https://mp.weixin.qq.com/s/kE1LU7lscXdUQsCV7G0_PQ)
 + [如何实现链路追踪，从ThreadLocal讲起](https://mp.weixin.qq.com/s/aat2kG8bQyEY_KIT6M2xlg)
++ [Java线程池 - ThreadLocal底层原理与内存泄漏OOM（建议收藏=官方文档+源码+复现+可视化分析+解决方案+实验）](https://mp.weixin.qq.com/s/pYEYZU-WeA_HXscQ3ywZzw)
 
 ### Lock
 
@@ -1464,6 +1467,10 @@
 + [阿里面试这样问：Nacos配置中心交互模型是 push 还是 pull ？（原理+源码分析）](https://mp.weixin.qq.com/s/LdT3UR6zXCCN1ZW6IKXklw)
 + [学会 Nacos 的 长轮询 定时机制，有妙用！](https://mp.weixin.qq.com/s/xNef8T8KzyYFSkkTWfU-ow)
 
+## okhttp
+
++ [OkHttp工具类分享](https://mp.weixin.qq.com/s/16cScrYUtzWuj-b9Ff5-MA)
+
 ## openFeign
 
 + [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
@@ -1537,6 +1544,7 @@
 + [Redis Sentinel 及 Redisson 连接问题全解析](https://mp.weixin.qq.com/s/e2fo41PWlXlzNWBbWLeFxA)
 + [Redisson实现分布式锁：原理分析、最佳实践与避坑指南](https://mp.weixin.qq.com/s/Bon9ZBppzjhousyxTpyvbQ)
 + [redisson 使用与分析](https://mp.weixin.qq.com/s/MtIuMCeYkDzRbHynhHtFCg)
++ [深夜警报：祖传代码用Redisson实现限流，结果锁竟然失效了！](https://mp.weixin.qq.com/s/NAxpNSIF8-C8sSENtAorfg)
 
 ## ribbon
 
@@ -2993,6 +3001,7 @@
 + [SpringBoot整合SSMP报错分析](https://mp.weixin.qq.com/s/CuMqdhYRau64t_n-pCPKdw)
 + [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)
++ [SpringBoot整合MinIO实现文件分片上传/断点续传](https://mp.weixin.qq.com/s/-FUbryJzI6yxKnh6Ud-Rvw)
 + [Spring Boot + Redission 自定义分布式延时任务组件设计](https://mp.weixin.qq.com/s/tsinZNPJ8H2QM8hzEd9gMA)
 + [Spring Boot + Redisson 高效打造分布式延时任务](https://mp.weixin.qq.com/s/QTeEp9yYpBevxF-TNd-OGQ)
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/8XogcjeTvUhS9fyAIIBSqQ)

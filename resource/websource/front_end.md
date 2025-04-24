@@ -40,6 +40,7 @@
 + [ES6新特性，你都会了吗？](https://mp.weixin.qq.com/s/qW6gqNSoByZYPPo1DiDGMA)
 + [JavaScript解构赋值看这篇就够了](https://mp.weixin.qq.com/s/16hgTUEqFLGWyVTJz5-5dQ)
 + [JavaScript 运算符进阶指南：ES6+ 新特性深度解析与实践](https://mp.weixin.qq.com/s/6M8VG_6zQo4yJSbilz-Etg)
++ [深入理解 Promise，看看你会几道题](https://mp.weixin.qq.com/s/Rz5cpziu47_aBRvrsCFPBQ)
 
 ### 底层
 
@@ -68,6 +69,7 @@
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [JavaScript 最实用的8种设计模式](https://mp.weixin.qq.com/s/nQLdT-uFMfAoaEf2W7IRaw)
 + [为什么 JavaScript中 map 比Object更好用？](https://mp.weixin.qq.com/s/87uJgyspS_Ufrsv20wKM7g)
++ [7个代替setTimeout的方案，让定时任务更可靠](https://mp.weixin.qq.com/s/2J9RwPgZrtF4euozGUwU5A)
 + [为什么说 JavaScript Map 比对象更香？](https://mp.weixin.qq.com/s/3yUbtw2oI59CBmacZTHKzA)
 + [JavaScript 闭包的魔法：清晰易懂指南](https://mp.weixin.qq.com/s/pGCzpDnCqe3zq9M0AT2v7A)
 + [掌握这8个Promise并发控制技巧，性能大幅提升](https://mp.weixin.qq.com/s/qVtuhrZD15E_SmFHo8vj2g)
@@ -156,6 +158,11 @@
 + [async/await 必须使用 try/catch 吗？](https://mp.weixin.qq.com/s/Fruk0Z3H1MAdQyL5NAJgYg)
 + [JavaScript 中的函数：探索组合的强大力量](https://mp.weixin.qq.com/s/hb5ZqLQY2yySURsHgC0enw)
 + [JS里数组转对象的方法](https://mp.weixin.qq.com/s/vE_H_8spO0tsrrNTTQ0dpw)
++ [一文搞懂JavaScript 设计模式](https://mp.weixin.qq.com/s/NDBWlRWgugiOf7-1-0RQDA)
++ [JavaScript原生实现简单虚拟列表](https://mp.weixin.qq.com/s/d_4RVJF5RbdW13GkdJpq6g)
++ [来了！JavaScript 最强大的 8 个 DOM API](https://mp.weixin.qq.com/s/g6QDL9bU2UkYlhK3vqJwdw)
++ [前端开发必备：7个高效JavaScript工具函数及实现原理](https://mp.weixin.qq.com/s/IwNcxY4wf8JzVdyMu-D62w)
++ [一行代码解决深拷贝问题，JavaScript新特性解析](https://mp.weixin.qq.com/s/NsB01k7Yrz1vnNlto0qkyA)
 
 # 框架
 

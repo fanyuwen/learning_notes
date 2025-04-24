@@ -275,6 +275,7 @@
 + [分布式事务模型详解](https://mp.weixin.qq.com/s/cmYkYuN-86pDR5IdsGzwsw)
 + [深度解析分布式事务的七大核心方案](https://mp.weixin.qq.com/s/Jx2U452t0od-2hWuv8rRLw)
 + [支付宝终面：万亿级资金流转，TCC如何实现资金零差错？](https://mp.weixin.qq.com/s/8oS8AEl0NJBM0kUy_A4Irw)
++ [分布式事务最终一致性：基于消息队列的设计与实现](https://mp.weixin.qq.com/s/74Yj8T9baK7O_ySI_I7HVQ)
 
 ## 分布式算法
 
@@ -364,6 +365,7 @@
 + [系统重试，导致库存扣多啦，怎么办（两行代码破解）？（第41讲）](https://mp.weixin.qq.com/s/qh4JUbE-Tz0Kz5_D1r3_cw)
 + [什么是幂等？如何解决幂等性？](https://mp.weixin.qq.com/s/3NU0q-8V3bRwjD_dhslg_w)
 + [高并发下幂等性的七大解决方案（图文总结）](https://mp.weixin.qq.com/s/DRIowcqgJmLSIYP1fBJmqg)
++ [接口的幂等性设计](https://mp.weixin.qq.com/s/ShSIL-vy-BT9_nTSIwZQ-g)
 
 ### 负载&限流
 
@@ -585,6 +587,7 @@
 + [如何优雅实现接口统一调用](https://mp.weixin.qq.com/s/t1dSWc_53_t6Y4nbL4qytg)
 + [软件工程的 13 条法则](https://www.oschina.net/news/342448/the-13-software-engineering-laws)
 + [事件驱动架构详解 - 模块间解耦利器](https://mp.weixin.qq.com/s/Xg16k8Uc7hblwlUwUdj5Fg)
++ [10个牛逼的编程范式，你已经用过了几个？](https://mp.weixin.qq.com/s/gsep2Qy4AbNxE0Ru7KvAHw)
 
 # 测试相关
 

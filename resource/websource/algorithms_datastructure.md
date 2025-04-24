@@ -59,6 +59,7 @@
 + [【算法总结】十大排序算法](https://my.oschina.net/u/5587102/blog/10321939?s_trans=2197476363_&s_channel=4)
 + [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 + [深度解析快速排序算法：原理、优化与实战指南](https://mp.weixin.qq.com/s/2S2UFFsxRZCXdDaF4s1Q5A)
++ [从代码看排序：冒泡排序与插入排序](https://mp.weixin.qq.com/s/kKX0AnrBBDi0Z5ZHogAjug)
 
 # 密码学
 

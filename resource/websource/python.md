@@ -11,6 +11,7 @@
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
++ [Python 流程控制](https://mp.weixin.qq.com/s/PsNDKQdalrAKHSYFYZgg3A)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [Python数据类型转换实战：从基础到高级](https://mp.weixin.qq.com/s/56xV3-yq1b5XbvNIMTz3-w)
@@ -94,6 +95,7 @@
 + [Python 50个常用内置函数解析](https://mp.weixin.qq.com/s/jmFOG0ZXri2upSzArlG4sg)
 + [Python函数设计：从反面案例到最佳实践](https://mp.weixin.qq.com/s/hRAPx6AmPoZKM8HimB56sw)
 + [Python函数总结](https://mp.weixin.qq.com/s/mUTbde-2mXGpq2cO3bt8ng)
++ [Python 函数：探索 20 个常用函数](https://mp.weixin.qq.com/s/qXXYGMAmFedSsgGBmeqSHg)
 
 ### 面向对象
 
@@ -123,7 +125,9 @@
 + [Python 字符串格式化输出](https://mp.weixin.qq.com/s/-piYtizGRJAXNNEjlfxrVQ)
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
++ [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
++ [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
 + [Python标准库中最强的工具——Collections模块深度剖析](https://mp.weixin.qq.com/s/zlT7_szUwBJswvuKVY6idQ)
@@ -131,6 +135,7 @@
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
 + [掌握 Python 字典：初学者必知的 15 种高效技巧](https://mp.weixin.qq.com/s/gmLQJysxNWXKzVDwwC0bqw)
++ [100个字典编程小技巧，让你成为Python高手](https://mp.weixin.qq.com/s/1fQU3rVh_vFTRngHGlcL3w)
 + [Python编程十一:dict字典定义](https://mp.weixin.qq.com/s/8y6bY38GBp01KV_W3NQmrQ)
 + [Python 列表推导式：让代码更简洁高效](https://mp.weixin.qq.com/s/ofOw2NYWyAEnOp26M741fg)
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
@@ -169,6 +174,7 @@
 + [Python路径操作：最牛逼的 pathlib 让文件管理无烦恼](https://mp.weixin.qq.com/s/ynKs1rSSz1lAEudTr0BJAw)
 + [Python模块缓存：sys.modules机制](https://mp.weixin.qq.com/s/prqBdh9frG01KHnVp6eP5w)
 + [如何在 Python 中使用 `json` 模块？](https://mp.weixin.qq.com/s/b0ho70p6aBybuMxX5lc1VQ)
++ [学习python的基础，python最常用的18个内置模块](https://mp.weixin.qq.com/s/KA2p_89RVmiJaKfVhsui2A)
 
 ### 异步/多线程
 
@@ -190,12 +196,15 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
 + [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
 + [Python编码规范入门：让代码像诗一样优雅](https://mp.weixin.qq.com/s/LkcSdwrVur1CC5mLmCIA1w)
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [python的不可变数据结构](https://mp.weixin.qq.com/s/4C76VlF9M4c44BRdq3bIOg)
++ [Python编程精进：迭代器揭秘](https://mp.weixin.qq.com/s/xn3iohuzHGE_v6W9-itkLA)
++ [Python编程精进：盘点10个高级概念](https://mp.weixin.qq.com/s/aSigb1LW-pPtQqnnF3zPag)
 + [Python基础：正则表达式基础](https://mp.weixin.qq.com/s/_lSUtiaDHnWL9VR-OdXFZw)
 + [Python 用 import 导入指定目录的文件函数](https://mp.weixin.qq.com/s/G0Vc15Q35T6KtZ3-zsxNIA)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)

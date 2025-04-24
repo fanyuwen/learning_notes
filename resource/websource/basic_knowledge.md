@@ -11,6 +11,7 @@
 + [程序员必懂！上下文切换到底是怎么回事？](https://mp.weixin.qq.com/s/VTTy8S_KKWztULN_quKd3Q)
 + [常用网络命令速查表（Windows/Linux/macOS）](https://mp.weixin.qq.com/s/5MJX-XslhLo8nT_SeJ7cCw)
 + [ipconfig 和 ifconfig，别再傻傻分不清！它们到底用在哪里？](https://mp.weixin.qq.com/s/31if7pi-w6WU-wOFlN2enA)
++ [位、字节、半字、字：内存世界的基石](https://mp.weixin.qq.com/s/iKO9HrMkAjYtjkzyB1bQxQ)
 
 ## 文件系统
 
@@ -460,6 +461,7 @@
 + [Cache 和 Buffer 都是缓存，主要区别是什么？](https://mp.weixin.qq.com/s/WR_dQKPOA-96X5fzg3_HOA)
 + [Linux五种网络IO模型的交互原理都在这了！](https://mp.weixin.qq.com/s/n89hG6-dzGD6ksyZ7qt2rA)
 + [深度总结：select、poll、epoll面试考点](https://mp.weixin.qq.com/s/TrkUQiaVWhBD1mfr_VVUOw)
++ [一文搞懂磁盘 I/O，基础扫盲来了！](https://mp.weixin.qq.com/s/irCeAkc0JPoukr3Y9KzXcQ)
 
 ## 字符编码
 

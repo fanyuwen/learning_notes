@@ -830,6 +830,7 @@
 + [深入解析 ZGC：基于 G1 的革新性优化](https://mp.weixin.qq.com/s/iVi5ssDQO7osyDEGNZC1rw)
 + [Java垃圾回收机制，学Java不得不知道的内容，面试必备知识](https://mp.weixin.qq.com/s/8TsccCWesTIFs21ojSyjSg)
 + [快速入门-JVM垃圾收集](https://mp.weixin.qq.com/s/8znHns4qvWpKo2zeyJpkLg)
++ [Full GC 频率优化实战](https://my.oschina.net/vivotech/blog/18231016)
 
 # 核心库
 
@@ -1854,6 +1855,7 @@
 + [弃用Spring Cache！首选多级缓存框架JetCache](https://mp.weixin.qq.com/s/iWs2OzltFK9xbRM947lcPw)
 + [Spring的缓存帝国，得益于这 5个注解！](https://mp.weixin.qq.com/s/19u0Las7ego4G5c4uMrP2A)
 + [高德地图1面：聊聊 @Cacheable注解的原理！](https://mp.weixin.qq.com/s/ETqrDBrQb0qsySYrbMd1ig)
++ [Spring 缓存注解浅析及实践](https://my.oschina.net/u/4090830/blog/18183157)
 
 ### EVENT
 

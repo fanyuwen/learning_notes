@@ -41,6 +41,7 @@
 + [消息队列架构选型踩坑实录](https://mp.weixin.qq.com/s/DVK3Z8CqSs-N9a2VyGx1zw)
 + [高并发架构实践：RocketMQ、Kafka、RabbitMQ谁才是王者？](https://mp.weixin.qq.com/s/E1AEj79IqiuxHuhgnb2yFA)
 + [面试官：什么是死信队列？死信队列是如何导致的？](https://mp.weixin.qq.com/s/xTTzhyM2BxFJ_LCo7Z4myg)
++ [MQ黄金三剑客：RabbitMQ、RocketMQ和Kafka深入解密常见问题及功能对比指南？](https://mp.weixin.qq.com/s/LkdSDlHbguiDemOsuG6XDQ)
 
 # KAFKA
 
@@ -98,6 +99,8 @@
 + [Kafka基本原理详解：架构、机制与Java实践](https://mp.weixin.qq.com/s/CKBJr_E4UshGSpgX6ArNPg)
 + [吊打面试官|Kafka生产者架构深度剖析](https://mp.weixin.qq.com/s/VI5Pa_ppL9f4RTe4tUFWDw)
 + [Kafka高水位（HW）更新机制：从原理到实战](https://mp.weixin.qq.com/s/Ii1sW8r3bnLZ7Bpk6auipQ)
++ [Kafka Consumer 增量 Rebalance 策略详解](https://mp.weixin.qq.com/s/XIePbMXac4upbVt_3aiT9Q)
++ [Kafka 学习笔记（一）定位一次Kafka集群读写超时的故障](https://mp.weixin.qq.com/s/St1icWYAU-B7A3t-uIP9QQ)
 
 # ROCKETMQ
 

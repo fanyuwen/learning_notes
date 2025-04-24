@@ -72,6 +72,9 @@
 + [Java序列化与反序列化原理，实现序列化对象到文件！](https://mp.weixin.qq.com/s/HXGkEh6vccFswrfiFKomSQ)
 + [for-each vs 常规for 哪个更高效？好多人答错了](https://mp.weixin.qq.com/s/_mnmnG3iZKJBzipaNlpZhw)
 + [工作多年，竟不知Java序列化？](https://mp.weixin.qq.com/s/B_dqFtilxUnQbQoGm9d71w)
++ [Java 真的不难（十四） 包装类](https://mp.weixin.qq.com/s/ChYeYm-mElSnf7jwwxzycQ)
++ [Java真的不难（十八）内部类](https://mp.weixin.qq.com/s/NQ1LQTa5l7mJkhj0oGh6OA)
++ [Java真的不难（二十四）泛型](https://mp.weixin.qq.com/s/cgccGWE0xj5qwOBXBalJXA)
 
 ### 方法/函数
 
@@ -147,6 +150,7 @@
 + [Record类型隐秘陷阱：Java 17开发者集体踩坑实录](https://mp.weixin.qq.com/s/UmQJTnFE8UswWOWAuVYh2A)
 + [Java接口革命：默认方法与静态方法如何颠覆传统设计？](https://mp.weixin.qq.com/s/TZ6sSUfXFIC8Lit1iHlGHg)
 + [Java协程终于在生产环境真正可用](https://mp.weixin.qq.com/s/jNT7V6Z9JjItTIAacG_jDQ)
++ [Map.of()的兄弟方法Map.ofEntries()使用禁忌](https://mp.weixin.qq.com/s/lZYa71VXRanvusuUU5Qf-g)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
@@ -458,6 +462,7 @@
 + [【2025版JVM面试题】19、阿里面试题什么是对象半初始化状态](https://mp.weixin.qq.com/s/jkHJ5bZBw0jIiyzAmvaE8w)
 + [JAVA基础（十八）队列与栈详解，线性结构的经典应用](https://mp.weixin.qq.com/s/OJf9qoGxiwQIaQmbGviQ_Q)
 + [面试官最爱问！同步集合 vs 并发集合，区别到底在哪？](https://mp.weixin.qq.com/s/l9b7nwJgRxEavTmZ7RwD-Q)
++ [Java里的时间精度陷阱：那一次被毫秒“坑惨”的经历](https://mp.weixin.qq.com/s/Pjz8_2FipXZC3H6cWAyTgQ)
 
 ### IO
 
@@ -587,6 +592,8 @@
 + [Java虚拟线程实战：10倍并发性能提升，高吞吐系统新标配！](https://mp.weixin.qq.com/s/0qt4o3zPDFI4G8K5UO5gpg)
 + [别再说“一个有返回值一个没有”了！你真的懂 submit 和 execute 的区别吗？](https://mp.weixin.qq.com/s/wkIihabBrwAFO_XoYFHUfA)
 + [Java当中的无锁编程实战讲解](https://mp.weixin.qq.com/s/l5ftzuXe-mVWTSijiNvCAw)
++ [一文搞懂高效并发编程：无锁编程的秘密与实战](https://mp.weixin.qq.com/s/2pmYT7F708m_MRS6Jm9xhQ)
++ [Java真的不难（二十八）多线程（二）](https://mp.weixin.qq.com/s/jk5sZ1cSyAjlOcEGBXLJIw)
 
 #### 线程池
 
@@ -1793,6 +1800,7 @@
 + [Spring Boot 实现数据源动态切换的最佳姿势！](https://mp.weixin.qq.com/s/sV-QSmmNUUBrgE7BohUaLw)
 + [多数据源动态路由：AbstractRoutingDataSource的进阶魔改方案](https://mp.weixin.qq.com/s/yCkxe6xBcULUkk4yPCYZzA)
 + [Spring（八）Spring Data JPA 与 O/R Mapping 实战](https://mp.weixin.qq.com/s/AeMEQLT17sL8AcqY2CjhWg)
++ [Java教程：RedisTemplate如何存取数据并使用scan非阻塞删除](https://mp.weixin.qq.com/s/FvCannAnk1etTJPO3_TSAA)
 
 #### BATCH
 
@@ -1917,6 +1925,7 @@
 
 + [动态上传jar包热部署，看完还不会吗？](https://mp.weixin.qq.com/s/OQXgpgiFjKBJ1RiPje3Dig)
 + [【技术深度剖析】Java运行时魔法：动态加载JAR包并无缝注册到Spring容器的完整实现](https://mp.weixin.qq.com/s/y__wZNaOjjoQ3XMTfvUyMQ)
++ [Java教程：如何使用Yml文件配置数组列表到Java配置类中](https://mp.weixin.qq.com/s/LBCx2p_CiOeJzrtrO8KheQ)
 
 ### 集成
 
@@ -2018,6 +2027,7 @@
 + [基于Spring Cloud Gateway框架的多种限流方式，建议使用官方推荐的Redis限流](https://mp.weixin.qq.com/s/ivVdAR4wCZo90qCOD1YPnw)
 + [SpringBoot组合注解](https://mp.weixin.qq.com/s/VWGoaCqhhHyigno7IrPCOg)
 + [万字长文！深入源码，彻底掌握Spring Cloud Gateway底层原理](https://mp.weixin.qq.com/s/HBd7fOxqDIr6tqPvM9b3xw)
++ [Spring Cloud Gateway 统一分布式系统认证架构实践](https://mp.weixin.qq.com/s/PVoD9AsKSalxWbGhzRDTyw)
 
 #### AI
 
@@ -2806,6 +2816,7 @@
 + [性能优化！Spring Boot一个注解搞定多级缓存实现](https://mp.weixin.qq.com/s/Sibwl5m4dcEoUqulK_Nv9Q)
 + [Spring Boot多级缓存实战：扛住百万QPS的缓存架构设计](https://mp.weixin.qq.com/s/-2_XXaLcntoZwQrvjc2jAQ)
 + [SpringBoot与Caffeine整合，解决微服务间高频调用的性能瓶颈](https://mp.weixin.qq.com/s/v02DFTKkVQx5vEoSJs_OcQ)
++ [SpringBoot中2种热点KEY缓存优化策略](https://mp.weixin.qq.com/s/GjqEV6UCtB4SpOlAK_6cNw)
 
 #### AOP
 
@@ -3095,6 +3106,7 @@
 + [面试官：SpringBoot 工程启动以后，希望将数据库中已有的固定内容提前加载到 Redis 缓存中，应该如何处理](https://mp.weixin.qq.com/s/bKpEour9ApvvdvzNbFEPcQ)
 + [Spring Boot + Lucene：构建轻量级毫秒级响应的全文检索引擎](https://mp.weixin.qq.com/s/xUDLvUtDeYBz1a1yaNNKuw)
 + [SpringBoot与OpenFeign整合，实现微服务之间的声明式API调用系统](https://mp.weixin.qq.com/s/R_gi2afL-MtrBEw5w0iSGw)
++ [SpringBoot 整合 Dubbo 轻松搞定服务远程互调](https://mp.weixin.qq.com/s/_EHcP0W-0CGzccKOR1J4GA)
 
 #### test
 

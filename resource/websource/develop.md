@@ -276,6 +276,7 @@
 + [深度解析分布式事务的七大核心方案](https://mp.weixin.qq.com/s/Jx2U452t0od-2hWuv8rRLw)
 + [支付宝终面：万亿级资金流转，TCC如何实现资金零差错？](https://mp.weixin.qq.com/s/8oS8AEl0NJBM0kUy_A4Irw)
 + [分布式事务最终一致性：基于消息队列的设计与实现](https://mp.weixin.qq.com/s/74Yj8T9baK7O_ySI_I7HVQ)
++ [分布式事务的解决方案—Seata AT模式](https://mp.weixin.qq.com/s/YyKRQqk50ZP8EqWT9ZTM4A)
 
 ## 分布式算法
 
@@ -451,6 +452,7 @@
 + [大厂高频面试题：Redis三大缓存问题（缓存穿透、雪崩、击穿）的原因及解决方案详解，面试必问，建议收藏](https://mp.weixin.qq.com/s/VYTmazKrklNhvD676sbIUw)
 + [为什么说缓存是把双刃剑？](https://mp.weixin.qq.com/s/KRBFvaIBD3DdGp7vBfL51g)
 + [多级缓存架构：深度解析与实践](https://mp.weixin.qq.com/s/u17G44XLFah9ZwJi0qHtAA)
++ [缓存引擎设计精要](https://mp.weixin.qq.com/s/LRybPXjB444o0XDxg7qoEA)
 
 ## 优化
 
@@ -714,6 +716,7 @@
 + [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/EFU1lvsjKmfW37Ds7_UV8w)
 + [有了JSON，为什么还要HJSON？](https://mp.weixin.qq.com/s/fjuIX1Z6vKM53rm6Nopwlw)
 + [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/dEwq74Adlv9OyhWweVeaMA)
++ [四大JSON框架对比：选对工具，开发更轻松](https://mp.weixin.qq.com/s/QG6elQKgBp_mY2jTapzaoQ)
 
 ### 正则表达式
 
@@ -793,6 +796,7 @@
 + [git整合分支的两种方式rebase与merge的区别](https://mp.weixin.qq.com/s/qbVg0pVq6cxtVydU9NSIyA)
 + [代码冲突、分支混乱怎么办？ 带你了解京东、阿里大厂是如何进行代码分支管理的](https://mp.weixin.qq.com/s/GK8szUCHLF91iYzsgNWclQ)
 + [5年经验的新同事问我，你们开发是用 git rebase 还是 git merge？我当时就蒙了。。。](https://mp.weixin.qq.com/s/eRHUyzcBdU_LVFepnkvvfA)
++ [Learn git the easy way! 一文入门 git 常用操作](https://mp.weixin.qq.com/s/lwvPTHxWSfs9XsTSaFT64Q)
 
 ### 编程范式
 

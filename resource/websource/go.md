@@ -137,6 +137,7 @@
 + [用 Go 语言打造高效 TCP 扫描器：从入门到并发优化](https://mp.weixin.qq.com/s/agjh3NlqxikQhXNfA9i2oA)
 + [Go Plugin 浅析](https://mp.weixin.qq.com/s/8pEdfJFFEC-NUjdP5lajkg)
 + [高效定位 Go 应用问题：Go 可观测性功能深度解析](https://my.oschina.net/u/3874284/blog/18042981)
++ [一文搞懂Go语言垃圾回收机制](https://mp.weixin.qq.com/s/ic0i7RhLxYJ53M0e1XJBOw)
 
 # 面试题
 

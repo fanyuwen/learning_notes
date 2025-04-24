@@ -85,6 +85,11 @@
 + [面试官：你是如何进行SQL调优的？](https://mp.weixin.qq.com/s/IpxlT3MstKoQ7zFfJuXIGA)
 + [SQL 入门 11：日期时间格式化、IF、CASE的使用](https://mp.weixin.qq.com/s/z6OIp7l9LRYhqDZIlZ5g9A)
 + [MySql8.0实战之JSON](https://mp.weixin.qq.com/s/TDftYHJRBLFIvBLnH0JkMA)
++ [看完这篇SQL解析过程，随便面试官拷打都不怕](https://mp.weixin.qq.com/s/CPzq-4BL_ry3z8eLVXnYrg)
++ [【SQL】05.多表关联查询](https://mp.weixin.qq.com/s/Aw5ZwcBn0Ox4_2lWtJ3bSQ)
++ [SQL 入门 7：SQL 聚合与分组：函数、GROUP BY 与 ROLLUP](https://mp.weixin.qq.com/s/5saMb7y2Z3WPYL61q56irQ)
++ [用通俗易懂的大白话彻底搞明白SQL中的group by](https://mp.weixin.qq.com/s/US4dKnDC83a_MUWERsohqQ)
++ [SQL 入门 2：LIKE、正则、 ORDER BY 与LIMIT](https://mp.weixin.qq.com/s/anRW6pDwTZWxmKtUPajidA)
 
 # 本地数据库
 
@@ -768,6 +773,8 @@
 + [基于Redis的4种延时队列实现方式](https://mp.weixin.qq.com/s/mYRVyDRALdDsmNM9Vi3V7g)
 + [redis最近最少淘汰策略(LRU)模拟实现](https://mp.weixin.qq.com/s/AeRsqPtFOAlO4YfcfCxKBA)
 + [Redis缓存雪崩的5种应对措施](https://mp.weixin.qq.com/s/ZTgxEdxCZSoVoRvexxnqiQ)
++ [高并发架构实践：Redis高可用计数器设计方案](https://mp.weixin.qq.com/s/HOlgh8cR8UqCTVqJvNvWGQ)
++ [挑战全网最详细Redis过期策略解析，小白也能看懂！](https://mp.weixin.qq.com/s/ZONOD1Lkc1zZVVl6xfLHhQ)
 
 #### 原理
 
@@ -800,6 +807,7 @@
 + [Redis中的Set，底层采用了什么数据结构？](https://mp.weixin.qq.com/s/ioeXp7_dKfICoIlbpDmN8Q)
 + [面试题：redis的持久化⽅式有哪些？AOF和RDB如何实现？AOF的重写机制是什么？](https://mp.weixin.qq.com/s/a3CHrcc8CduWUAFpqlKuWg)
 + [面试官：说说看Redis底层数据类型有哪些？Redis为什么这么快？Redis为什么引入多线程？Redis多线程实现机制是怎样？](https://mp.weixin.qq.com/s/_K7FlG5TL2-S7HVhJatIqg)
++ [Redis是单线程还是多线程？](https://mp.weixin.qq.com/s/EjvYTenmP9pQ-qdET0rl8A)
 
 #### 分布式锁
 
@@ -820,6 +828,7 @@
 + [redis 分布式锁的 5个坑](https://mp.weixin.qq.com/s/dHdvNp8y50pP0qPDpv67uA)
 + [redis 锁的5个大坑，如何规避？](https://mp.weixin.qq.com/s/HSQVnPW4aRdLP2jnTOFr4A)
 + [Redis分布式锁你知道几种方式？一文让你搞懂Redis如何实现分布式锁。](https://mp.weixin.qq.com/s/MovTpBJOcbYHjMTau0jjvg)
++ [Redis分布式锁](https://mp.weixin.qq.com/s/b5C2wsWF88f8RIKU30Cfew)
 
 #### 缓存
 

@@ -96,6 +96,7 @@
 + [Python函数设计：从反面案例到最佳实践](https://mp.weixin.qq.com/s/hRAPx6AmPoZKM8HimB56sw)
 + [Python函数总结](https://mp.weixin.qq.com/s/mUTbde-2mXGpq2cO3bt8ng)
 + [Python 函数：探索 20 个常用函数](https://mp.weixin.qq.com/s/qXXYGMAmFedSsgGBmeqSHg)
++ [50 个 Python 函数：构建高效编程的基石](https://mp.weixin.qq.com/s/cteGjEyqozKU5S_EIn71Yg)
 
 ### 面向对象
 
@@ -117,6 +118,7 @@
 + [最牛逼的Python继承：让你的代码更强大、更简洁](https://mp.weixin.qq.com/s/vs_Q4_pU7SxxPaIaYnUClQ)
 + [python面向对象之：对象的创建过程](https://mp.weixin.qq.com/s/3Si1QeVx2shlcJSNomij3g)
 + [Python类的十八般武艺：中级篇](https://mp.weixin.qq.com/s/ohh8Q8V4Ar1jzkcjpZuY7Q)
++ [Python编程精进：Class的全面指南](https://mp.weixin.qq.com/s/AFOAtxKlp1YA36hfoP8-fg)
 
 ### 核心库/模块
 
@@ -203,6 +205,7 @@
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [python的不可变数据结构](https://mp.weixin.qq.com/s/4C76VlF9M4c44BRdq3bIOg)
++ [Python编程精进：盘点10个令人困惑的特性](https://mp.weixin.qq.com/s/KSww9m98r3-sVpjjpkNGsQ)
 + [Python编程精进：迭代器揭秘](https://mp.weixin.qq.com/s/xn3iohuzHGE_v6W9-itkLA)
 + [Python编程精进：盘点10个高级概念](https://mp.weixin.qq.com/s/aSigb1LW-pPtQqnnF3zPag)
 + [Python基础：正则表达式基础](https://mp.weixin.qq.com/s/_lSUtiaDHnWL9VR-OdXFZw)
@@ -424,6 +427,8 @@
 + [Python单元测试的参数化与数据驱动测试](https://mp.weixin.qq.com/s/R94jEub_xIUeNKqKnRjnfA)
 + [Python容器化应用](https://mp.weixin.qq.com/s/Af7GSX4ppvSZZySHtLTS2g)
 + [多进程性能优化：共享内存 vs 普通多进程](https://mp.weixin.qq.com/s/cbrOAP5llJeYo84a8cd5CA)
++ [Python编程精进：聊聊代码质量](https://mp.weixin.qq.com/s/yTMDyH4N8-R12re8iqvS_w)
++ [Python 函数、模块和包](https://mp.weixin.qq.com/s/ojKKafXAAMKzRDD1AGr3OQ)
 
 ## 新特性
 

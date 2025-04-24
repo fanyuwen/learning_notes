@@ -156,6 +156,7 @@
 + [深度系列之C语言：第26章 库文件](https://mp.weixin.qq.com/s/eG1BDdZqMXsrbt5pQlB9Dw)
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
++ [内存对齐：C语言中的隐藏规则](https://mp.weixin.qq.com/s/iDFuA-JpM7icTq4kNr9cpw)
 + [如何在C语言中实现面向对象的编程效果？](https://mp.weixin.qq.com/s/lEtZ_nJTqNcueU4RT0jAbQ)
 + [C语言指针：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/lom53AZI-neuldeDpWRdsg)
 + [详解C语言指针变量](https://mp.weixin.qq.com/s/GgJJRO4XFFx4MTALUyCcHg)

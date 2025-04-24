@@ -59,6 +59,7 @@
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
++ [现代JavaScript异步写法：不依赖await，构建高性能异步系统](https://mp.weixin.qq.com/s/9qPZUUPPU_-oT_DI5hrBhA)
 + [JavaScript 函数形参全面解析：5种声明方式与高级技巧](https://mp.weixin.qq.com/s/hn2Pt03NSlMIJXfWS7pMZg)
 + [扔掉if-else！JavaScript 这几个技巧让你代码简洁到飞起！](https://mp.weixin.qq.com/s/A-4BanEyOiV1fmESTAbZSw)
 + [JavaScript 事件循环：告别异步“玄学”，这一篇就够了！](https://mp.weixin.qq.com/s/eFyOyPG_NdqT7YAwwfxDyg)
@@ -163,6 +164,8 @@
 + [来了！JavaScript 最强大的 8 个 DOM API](https://mp.weixin.qq.com/s/g6QDL9bU2UkYlhK3vqJwdw)
 + [前端开发必备：7个高效JavaScript工具函数及实现原理](https://mp.weixin.qq.com/s/IwNcxY4wf8JzVdyMu-D62w)
 + [一行代码解决深拷贝问题，JavaScript新特性解析](https://mp.weixin.qq.com/s/NsB01k7Yrz1vnNlto0qkyA)
++ [JavaScript数组头部增加元素的方法](https://mp.weixin.qq.com/s/OUiPC28RKRd4nd3TqnbxPQ)
++ [Promise状态介绍](https://mp.weixin.qq.com/s/LifY-AhWHoZfx5Q6_n5-FQ)
 
 # 框架
 

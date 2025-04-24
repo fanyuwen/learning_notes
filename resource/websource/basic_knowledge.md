@@ -103,6 +103,7 @@
 + [主机、服务器运维必备技能：3分钟学会查看Linux系统版本和内核，轻松搞定！](https://mp.weixin.qq.com/s/UblWHkd7Ogtobajm0TLqcw)
 + [Linux 内存管理的 “左右手”：Buffer 与 Cache 深度解析](https://mp.weixin.qq.com/s/FrdTqTK0I23dwvZ52WOJnA)
 + [一文搞懂POSIX多线程：解锁高性能编程的密码](https://mp.weixin.qq.com/s/J0eWeLusKPxuC9OXFPESbg)
++ [linux操作系统：进程调度机制详解](https://mp.weixin.qq.com/s/WxDiiBW_Y1cHdupQs0QdLw)
 
 ### 网络
 
@@ -112,6 +113,7 @@
 + [Linux网络编程(HTTP协议)](https://mp.weixin.qq.com/s/8qfmElaWYusBv0Xwti92jQ)
 + [Linux 网络数据包的接收和发送流程](https://mp.weixin.qq.com/s/yhcJ9KiYwRSDRNfVyjMVVA)
 + [透视Linux内核：深度剖析Socket机制的本质](https://mp.weixin.qq.com/s/wvTXvPHFqfLZRFuJTbjgmg)
++ [深入Linux内核理解socket的本质](https://mp.weixin.qq.com/s/9oUhw-iXr6vwMo6vtBAguQ)
 
 ### 命令
 
@@ -211,6 +213,7 @@
 + [增加内存会让计算机变快吗？](https://mp.weixin.qq.com/s/A6gOSFw2GVzgiV-jMdVJWg)
 + [一文读懂电脑内存：从基础原理到性能](https://mp.weixin.qq.com/s/KMLToy1Id7VTy9x3-gNsTg)
 + [浏览器崩溃的第一性原理：内存管理的艺术](https://my.oschina.net/u/4090830/blog/17955030)
++ [函数调用与栈的联系](https://mp.weixin.qq.com/s/4T9L__d1KsOhLLifN_Aobw)
 
 ## GPU
 
@@ -300,6 +303,7 @@
 + [快手一面：你能说一下为什么用RPC而不用其他技术吗？以及RPC底层原理？我：当时没有答上来 面试官：那就下一题吧](https://mp.weixin.qq.com/s/VQJ8_f5ezUbR6XDARGfFiA)
 + [HTTP和HTTPS有什么区别？CA起到什么作用？](https://mp.weixin.qq.com/s/jxCP9hHilT31N5QRmULP8Q)
 + [字节一面：POST 为什么会发送两次请求？](https://mp.weixin.qq.com/s/c9OI4HH-EdXycam5Yj7U_Q)
++ [面试官：如何理解OSI七层模型和TCP/IP四层模型？HTTP作为如何保存用户状态？多服务器节点下 Session方案怎么做](https://mp.weixin.qq.com/s/mIGJdNKmHiZt9AHQ3q7X8Q)
 
 #### CORS
 
@@ -462,6 +466,7 @@
 + [Linux五种网络IO模型的交互原理都在这了！](https://mp.weixin.qq.com/s/n89hG6-dzGD6ksyZ7qt2rA)
 + [深度总结：select、poll、epoll面试考点](https://mp.weixin.qq.com/s/TrkUQiaVWhBD1mfr_VVUOw)
 + [一文搞懂磁盘 I/O，基础扫盲来了！](https://mp.weixin.qq.com/s/irCeAkc0JPoukr3Y9KzXcQ)
++ [缓冲区详解：数据如何从磁盘读到用户进程你真的了解吗？快来看看吧！](https://mp.weixin.qq.com/s/asMM2hO5ibzoJ4EuN3xIWw)
 
 ## 字符编码
 

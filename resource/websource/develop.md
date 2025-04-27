@@ -67,6 +67,7 @@
 + [如何画出一张优秀的架构图（老鸟必备）](https://mp.weixin.qq.com/s/xltAF0A8i9BXmEK4AKUQ3Q)
 + [程序员如何5分钟画好架构图？这个开源神器让文档逼格飙升](https://mp.weixin.qq.com/s/JhmpFBWV5gE2ccZAfFZhMQ)
 + [聊一聊管道-过滤器架构](https://mp.weixin.qq.com/s/-Za9g5pNdKsAfqiEsAC0CA)
++ [循序渐进搭建复杂 B 端系统整洁架构](https://my.oschina.net/u/4090830/blog/18211828)
 
 ### DDD
 

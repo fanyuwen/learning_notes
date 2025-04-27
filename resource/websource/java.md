@@ -3468,3 +3468,5 @@
 + [为什么企业应用开发，c++干不过java？](https://mp.weixin.qq.com/s/XOX13BAarx-yAQKzGDXmNg)
 + [Jmeter使用beanshell与groovy的性能对比/原理！](https://mp.weixin.qq.com/s/d_e65zQpiS5IeQMBWeUTLQ)
 + [挑战用 Java 处理十亿行数据的开源项目](https://mp.weixin.qq.com/s/Ta0WTidW_n9aJxU6LCfeYw)
++ [纯干货 | Dolphinscheduler Master 模块源码剖析](https://my.oschina.net/dailidong/blog/18043611)
++ [Worker模块源码实战：万字长文解析DolphinScheduler如何实现亿级任务调度](https://mp.weixin.qq.com/s/W_25tDZ6SdOQmWXde14D_w)

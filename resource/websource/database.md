@@ -937,6 +937,7 @@
 + [Flink SQL之Join底层原理全解析(案例+源码)](https://mp.weixin.qq.com/s/v2wud7lvsnk1wGMnstTv1Q)
 + [Flink自研新特性：yarn-session集群WebUI支持Jar持久化到HDFS实践总结](https://mp.weixin.qq.com/s/WAoiDP9MM70JesL3kNFPZQ)
 + [Flink在长城汽车的应用与实践](https://mp.weixin.qq.com/s/qECs3fRwNUKnk63PGSUSyg)
++ [Apache Flink 2.0.0: 实时数据处理的新纪元](https://my.oschina.net/u/2828172/blog/17996920)
 
 ## spark
 

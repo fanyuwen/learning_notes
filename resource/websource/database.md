@@ -123,6 +123,7 @@
 + [为什么高性能场景选用Postgres SQL 而不是 MySQL](https://mp.weixin.qq.com/s/3pIDtA03SQE0waOUG7dUZw)
 + [这才是批量update的正确姿势！](https://mp.weixin.qq.com/s/fMIqu2eTZyblxZI_AP-Scg)
 + [从自增ID到雪花算法：数据库主键选型深度演进与避坑指南](https://mp.weixin.qq.com/s/s2zCb_hE4Xm2uAnSAwmqjw)
++ [延迟双删、异步重试、Binlog监听：高并发可靠的Redis数据一致性机制](https://mp.weixin.qq.com/s/DzY1aWuI7BrxdrNaVfETXA)
 
 ### 读写分离&分库分表
 
@@ -186,6 +187,7 @@
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
 + [Mysql Explain 执行计划详解](https://mp.weixin.qq.com/s/eDbVPzlgK97MnRzE6WyNmA)
 + [mysql 的内连接、左连接、右连接有什么区别？](https://mp.weixin.qq.com/s/o-6lGt9rXWO8gJPoOgOEUw)
++ [MySQL高频函数，使你的SQL更加高效和简洁（一）](https://mp.weixin.qq.com/s/11r7x6aP8oI6_b94UbtQHA)
 + [对线面试官：MySQL 给数据表增加一列，一定会锁表吗？](https://mp.weixin.qq.com/s/BCT-Pj5iefe9-cYzYUnO1g)
 + [MySQL探秘之旅：总体架构介绍](https://mp.weixin.qq.com/s/0W1XWb4-D2AuimDsQijX9g)
 + [MySQL笔记 | 一条查询语句是怎么执行的？](https://mp.weixin.qq.com/s/M1f23DOXzVwDwfwEFJzwmg)
@@ -549,6 +551,7 @@
 + [关于索引，你需要知道的~](https://mp.weixin.qq.com/s/bLkv5Ob9h25ui3214lQfNQ)
 + [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(下)](https://mp.weixin.qq.com/s/KS23BK1lJfheZ0z6ygT3vw)
 + [MySQL是如何选择索引的？为什么有时候索引会失效？](https://mp.weixin.qq.com/s/XScFxuD3dE6-47mEoAIyKQ)
++ [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(中)](https://mp.weixin.qq.com/s/2iHIR7NWbMy7klZlBvGYCw)
 
 ### PostgreSQL
 

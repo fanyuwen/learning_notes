@@ -114,7 +114,7 @@
 + kotlin平台依赖注入框架 [koin](https://insert-koin.io/)
 + kotlin应用开发框架 [ktor](https://ktor.io/)
 + java/scala web框架 [play](https://www.playframework.com/)
-+ go云原生微服务框架 [kratos](https://go-kratos.dev/) [go-zero](https://go-zero.dev/)
++ go云原生微服务框架 [kratos](https://go-kratos.dev/) [go-zero](https://go-zero.dev/) [gofr](https://gofr.dev/)
 
 ### RESOURCE
 + *云原生计算基金会(CNCF Cloud Native Computing Foundation)* [CNCF](https://www.cncf.io/)

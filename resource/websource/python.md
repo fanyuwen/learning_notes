@@ -10,7 +10,10 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
++ [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
++ [Python基础：Python的运算符与表达式](https://mp.weixin.qq.com/s/4bIebG-KDVV37BGn0iD94g)
 + [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
++ [Python 语法糖合集：让你的代码更短更优雅](https://mp.weixin.qq.com/s/SA-6k8n6cIBJGA5o_RXMlA)
 + [Python 流程控制](https://mp.weixin.qq.com/s/PsNDKQdalrAKHSYFYZgg3A)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
@@ -22,6 +25,7 @@
 + [Python输出变量知识点及用法讲解](https://mp.weixin.qq.com/s/0DS8I8iwu9FCRWCYLTlSbw)
 + [Python之变量作用域、Closure闭包](https://mp.weixin.qq.com/s/AGAaxiv1i7USeCwKrmwKVA)
 + [3 控制语句结构（顺序、循环、选择）---GESP教程Python一级](https://mp.weixin.qq.com/s/JHNfZfCiZtNa6OwV4Lp7HQ)
++ [Python编程精进：避免使用循环](https://mp.weixin.qq.com/s/weoWp9TC_JFlm0hPy2CU8A)
 + [用Python逻辑运算符精简你的代码库](https://mp.weixin.qq.com/s/1mBnnnMha8K8KQiRacImCw)
 + [Python条件表达式优化的15个实例](https://mp.weixin.qq.com/s/MLUUqKED7pE-HrPqeghtRA)
 + [5分钟彻底弄懂Python布尔逻辑妙用](https://mp.weixin.qq.com/s/-EEYrDfafK-zX3tvU-zQPA)
@@ -58,6 +62,7 @@
 + [Python pass 语句详解](https://mp.weixin.qq.com/s/Lg68URwE9-AOEjF-dHUMyg)
 + [Python变量注解语法详解，类型提示的现代用法](https://mp.weixin.qq.com/s/ae0aJaA_OP27fImNoKR3Gg)
 + [Python异常处理模式，上下文管理器的最佳实践](https://mp.weixin.qq.com/s/qahS9wxjOl8A-4-yton-GQ)
++ [Python基础：数据序列化](https://mp.weixin.qq.com/s/q-9XA9-rFW0oGVodsICK0A)
 
 ### 函数/方法
 
@@ -66,6 +71,7 @@
 + [Python编写函数的基本原则和技巧](https://mp.weixin.qq.com/s/0K0inpyT7wgacUo59ZzzwQ)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
 + [40个Python函数，让你快速成为编程大师！](https://mp.weixin.qq.com/s/Kf_ZKbNqjU53xhdqfhk8Pw)
++ [Python新手必看！盘点常用的Python内置函数](https://mp.weixin.qq.com/s/z1uQxiHvpc3D1IXxlvj3_w)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
 + [Python中集合函数Set的使用详解](https://mp.weixin.qq.com/s/UNu-6lRjfQNm7JFCOgZnPA)
 + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
@@ -97,6 +103,8 @@
 + [Python函数总结](https://mp.weixin.qq.com/s/mUTbde-2mXGpq2cO3bt8ng)
 + [Python 函数：探索 20 个常用函数](https://mp.weixin.qq.com/s/qXXYGMAmFedSsgGBmeqSHg)
 + [50 个 Python 函数：构建高效编程的基石](https://mp.weixin.qq.com/s/cteGjEyqozKU5S_EIn71Yg)
++ [通俗解释python的实例方法、静态方法、类方法，终于搞懂了](https://mp.weixin.qq.com/s/tKlnrkJPm5BrlTs2k8jBYg)
++ [几分钟了解Python的类方法](https://mp.weixin.qq.com/s/8zx1-6c-cjTAfWe2GQO3IQ)
 
 ### 面向对象
 
@@ -119,6 +127,9 @@
 + [python面向对象之：对象的创建过程](https://mp.weixin.qq.com/s/3Si1QeVx2shlcJSNomij3g)
 + [Python类的十八般武艺：中级篇](https://mp.weixin.qq.com/s/ohh8Q8V4Ar1jzkcjpZuY7Q)
 + [Python编程精进：Class的全面指南](https://mp.weixin.qq.com/s/AFOAtxKlp1YA36hfoP8-fg)
++ [Python编程精进：关于对象](https://mp.weixin.qq.com/s/ipkClL74gqWqVlvtz3AuqQ)
++ [Python面向对象设计原则：封装、继承与多态](https://mp.weixin.qq.com/s/lWNXPwo_4PF61Q1Ls0Zqyw)
++ [Python 面向对象编程（OOP）](https://mp.weixin.qq.com/s/jaS5Tp43Y9-MYdtf7EOviQ)
 
 ### 核心库/模块
 
@@ -128,6 +139,7 @@
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
++ [Python基础：Python的字符串操作与格式化](https://mp.weixin.qq.com/s/4enr5tjPxwCpUgw4yAWq_g)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
@@ -177,6 +189,7 @@
 + [Python模块缓存：sys.modules机制](https://mp.weixin.qq.com/s/prqBdh9frG01KHnVp6eP5w)
 + [如何在 Python 中使用 `json` 模块？](https://mp.weixin.qq.com/s/b0ho70p6aBybuMxX5lc1VQ)
 + [学习python的基础，python最常用的18个内置模块](https://mp.weixin.qq.com/s/KA2p_89RVmiJaKfVhsui2A)
++ [Python编程入门：模块与包的使用指南](https://mp.weixin.qq.com/s/e765xjq4cmBLrMe83Eb4OA)
 
 ### 异步/多线程
 
@@ -198,6 +211,8 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
 + [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
@@ -205,10 +220,13 @@
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [python的不可变数据结构](https://mp.weixin.qq.com/s/4C76VlF9M4c44BRdq3bIOg)
++ [Python编程精进：别再这样使用 isinstance()](https://mp.weixin.qq.com/s/y7SqyrsWnmUTaN8ENDKg6Q)
 + [Python编程精进：盘点10个令人困惑的特性](https://mp.weixin.qq.com/s/KSww9m98r3-sVpjjpkNGsQ)
 + [Python编程精进：迭代器揭秘](https://mp.weixin.qq.com/s/xn3iohuzHGE_v6W9-itkLA)
 + [Python编程精进：盘点10个高级概念](https://mp.weixin.qq.com/s/aSigb1LW-pPtQqnnF3zPag)
 + [Python基础：正则表达式基础](https://mp.weixin.qq.com/s/_lSUtiaDHnWL9VR-OdXFZw)
++ [5个案例快速熟悉Python正则表达式应用](https://mp.weixin.qq.com/s/Al_lAXqihTNtnJWN_hwW1w)
++ [python进阶，一文搞定深拷贝和浅拷贝](https://mp.weixin.qq.com/s/OtUiWy0JEpzeREOQSm2-CA)
 + [Python 用 import 导入指定目录的文件函数](https://mp.weixin.qq.com/s/G0Vc15Q35T6KtZ3-zsxNIA)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
@@ -429,6 +447,7 @@
 + [多进程性能优化：共享内存 vs 普通多进程](https://mp.weixin.qq.com/s/cbrOAP5llJeYo84a8cd5CA)
 + [Python编程精进：聊聊代码质量](https://mp.weixin.qq.com/s/yTMDyH4N8-R12re8iqvS_w)
 + [Python 函数、模块和包](https://mp.weixin.qq.com/s/ojKKafXAAMKzRDD1AGr3OQ)
++ [Python 算法：骑士巡游问题](https://mp.weixin.qq.com/s/s71nbtDPdearV2rSeO1oNw)
 
 ## 新特性
 
@@ -752,6 +771,7 @@
 
 + [FastAPI：这个Web框架比Flask快10倍，Django快40倍！](https://mp.weixin.qq.com/s/4LsE4TfeF8IlYOgR09-uAw)
 + [FastAPI，一个高效的 Web 框架](https://mp.weixin.qq.com/s/Kn2IyVzZnew21hJRTAtNBg)
++ [Python编程精进：FastAPI中的依赖注入](https://mp.weixin.qq.com/s/_bq53WWrYzewnH29vYj-QA)
 
 ### SQLAlchemy
 

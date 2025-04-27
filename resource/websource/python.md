@@ -105,6 +105,7 @@
 + [50 个 Python 函数：构建高效编程的基石](https://mp.weixin.qq.com/s/cteGjEyqozKU5S_EIn71Yg)
 + [通俗解释python的实例方法、静态方法、类方法，终于搞懂了](https://mp.weixin.qq.com/s/tKlnrkJPm5BrlTs2k8jBYg)
 + [几分钟了解Python的类方法](https://mp.weixin.qq.com/s/8zx1-6c-cjTAfWe2GQO3IQ)
++ [告别冗余代码！这 20 个 Python 内置函数让你的编程更优雅高效](https://mp.weixin.qq.com/s/Cu0Z9NTo3Nz2DD3IQ-808g)
 
 ### 面向对象
 
@@ -190,6 +191,7 @@
 + [如何在 Python 中使用 `json` 模块？](https://mp.weixin.qq.com/s/b0ho70p6aBybuMxX5lc1VQ)
 + [学习python的基础，python最常用的18个内置模块](https://mp.weixin.qq.com/s/KA2p_89RVmiJaKfVhsui2A)
 + [Python编程入门：模块与包的使用指南](https://mp.weixin.qq.com/s/e765xjq4cmBLrMe83Eb4OA)
++ [python入门系列十一（容器数据类型）](https://mp.weixin.qq.com/s/zDPm24nS5vFTYdJqxTzt2w)
 
 ### 异步/多线程
 
@@ -212,6 +214,7 @@
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
@@ -232,6 +235,7 @@
 + [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
 + [Python 中有哪些常用的 API？](https://mp.weixin.qq.com/s/h5hZqGIgwt3IDXXY3ei0cw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
++ [Python 的 import 使用方法](https://mp.weixin.qq.com/s/I4LtguaQw1ILp3xJZr8jNw)
 + [Python中的事件驱动编程模型](https://mp.weixin.qq.com/s/MG4vsk14Wejfgn4S6UGhvw)
 + [自动化文件管理的6个Python脚本模板](https://mp.weixin.qq.com/s/WHjkxhewkWrs1g2tfmChbA)
 + [告别Python中的None噩梦：5种更优雅的缺失值处理方案](https://mp.weixin.qq.com/s/zk8n1RZ_P-wXlPmI7uAgfQ)

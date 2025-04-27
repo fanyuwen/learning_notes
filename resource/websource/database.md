@@ -90,6 +90,7 @@
 + [SQL 入门 7：SQL 聚合与分组：函数、GROUP BY 与 ROLLUP](https://mp.weixin.qq.com/s/5saMb7y2Z3WPYL61q56irQ)
 + [用通俗易懂的大白话彻底搞明白SQL中的group by](https://mp.weixin.qq.com/s/US4dKnDC83a_MUWERsohqQ)
 + [SQL 入门 2：LIKE、正则、 ORDER BY 与LIMIT](https://mp.weixin.qq.com/s/anRW6pDwTZWxmKtUPajidA)
++ [SQL 入门 16：SQL 事务隔离级别与死锁解析（易懂）](https://mp.weixin.qq.com/s/-o-A6o9j1nQ0zElFIRO50A)
 
 # 本地数据库
 

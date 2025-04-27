@@ -102,6 +102,7 @@
 + [Kafka Consumer 增量 Rebalance 策略详解](https://mp.weixin.qq.com/s/XIePbMXac4upbVt_3aiT9Q)
 + [Kafka 学习笔记（一）定位一次Kafka集群读写超时的故障](https://mp.weixin.qq.com/s/St1icWYAU-B7A3t-uIP9QQ)
 + [Kafka Controller 的脑裂防护：Epoch 机制详解](https://mp.weixin.qq.com/s/sqSENtO08HipPU3qB2QaZQ)
++ [kafka知识点总结](https://mp.weixin.qq.com/s/hK_gd_KrV4hPTOs1vs4pog)
 
 # ROCKETMQ
 

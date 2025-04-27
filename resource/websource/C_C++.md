@@ -148,6 +148,7 @@
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [彻底搞清楚 “变量”](https://mp.weixin.qq.com/s/L5wBITMeIUtFkM8sAlX3tQ)
 + [C 的标示符之作用域](https://mp.weixin.qq.com/s/8V0TU5rOF2-i-usYUGcRug)
++ [C语言enum枚举类型详解](https://mp.weixin.qq.com/s/oZUPo0OM81SNmmQn43AykA)
 + [Linux C语言 NULL作为空字符的使用与误解](https://mp.weixin.qq.com/s/n-1dqs6OLNR8py0TkUNi3w)
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [Linux C语言 灵活数组成员](https://mp.weixin.qq.com/s/PsOe7mT7gk1Tj_vOyVRRjA)

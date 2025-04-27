@@ -124,6 +124,7 @@
 + [JAVA基础（二十六）Java中的泛型：增强代码的灵活性与类型安全](https://mp.weixin.qq.com/s/Ff0lMGXxbkg0cIRhuLUTpw)
 + [一文读懂 Java 泛型：从基础概念到高级用法全解析](https://mp.weixin.qq.com/s/1zPw9GKJlMLIyJMc1ahwfw)
 + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
++ [如何在Java程序中使用泛型](https://mp.weixin.qq.com/s/5-ujM0KFcDzNLGSgvR_QqA)
 
 ### 面向对象
 
@@ -152,6 +153,7 @@
 + [Java接口革命：默认方法与静态方法如何颠覆传统设计？](https://mp.weixin.qq.com/s/TZ6sSUfXFIC8Lit1iHlGHg)
 + [Java协程终于在生产环境真正可用](https://mp.weixin.qq.com/s/jNT7V6Z9JjItTIAacG_jDQ)
 + [Map.of()的兄弟方法Map.ofEntries()使用禁忌](https://mp.weixin.qq.com/s/lZYa71VXRanvusuUU5Qf-g)
++ [创建Map集合的快捷方法Map.of()，第一次用就踩坑了？谨记这3点防止再次入坑！](https://mp.weixin.qq.com/s/uwy0OuboXxpXTHGeDOVXuA)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
@@ -379,6 +381,7 @@
 + [工作 3 年的同事不懂 isEmpty 和 isBlank 的区别，我真是醉了。](https://mp.weixin.qq.com/s/5ZnIm8fsgjU0GApa5LqGEg)
 + [利用 Function 打造高效断言神器，真优雅！](https://mp.weixin.qq.com/s/P7MPT2gz0rby2AluvOOr7g)
 + [Java开发过程中的痛点问题](https://mp.weixin.qq.com/s/u5rjVZWRYmF-jl3eUlu4Fg)
++ [瞧瞧别人家的日期处理，那叫一个优雅！](https://mp.weixin.qq.com/s/Xh8PFyh-VtL3DyKJSBAPtg)
 
 # 底层
 
@@ -621,6 +624,7 @@
 + [面试官：你们的线程池是怎么用的？](https://mp.weixin.qq.com/s/VWwEwJA3W6kWKirGVk6amg)
 + [谈一谈Java线程池的设计与实现](https://mp.weixin.qq.com/s/YbTTc8SQj_dhVGBK7TQPVg)
 + [还在纠结线程池怎么用？这篇文章教你一招制胜！](https://mp.weixin.qq.com/s/EhiVhRBdgj50XKLPK9Q4aA)
++ [万字图解线程池ThreadPoolExecutor、ForkJoinPool、定时调度 STPE 使用场景和原理](https://mp.weixin.qq.com/s/nszV4x-gqy7NNl8AIQnTZw)
 
 #### 锁
 
@@ -675,6 +679,8 @@
 + [Java并发编程中的锁（三）JUC包详解之抽象类 AOS/AQS/AQLS](https://mp.weixin.qq.com/s/izyaw5ugidxLQxQ0vbmH_w)
 + [Java并发编程中的锁（四）JUC包详解之接口类（condition/Lock/ReadWriteLock）](https://mp.weixin.qq.com/s/gHl4wzkVSu2SvLEqEfWc7A)
 + [Java并发编程：Synchronized 的实现原理](https://mp.weixin.qq.com/s/o2PbX8XfsfRm93sve5I6_g)
++ [并发编程高频八股——synchronized关键字](https://mp.weixin.qq.com/s/IbjOsb0INC31dIny4IRuFQ)
++ [面试练习 | 请简述synchronized和ReentrantLock的区别](https://mp.weixin.qq.com/s/ZjDYnSkOO1wplpAO4QFkuQ)
 
 #### volatile
 
@@ -1927,6 +1933,7 @@
 + [SpringBoot中5种动态代理实现](https://mp.weixin.qq.com/s/Vvb0yw1mEuRRCZvQnMt7sA)
 + [全面解析 Spring AOP 切入点表达式](https://mp.weixin.qq.com/s/PPl-L5CQECUQQyiURbNKzw)
 + [Spring AOP从入门到实战：原理、用法与应用场景全解析](https://mp.weixin.qq.com/s/09UBLGr65-EkpDa9vjVJsw)
++ [为什么Spring不用静态代理？先搞懂静态代理的三大硬伤！](https://mp.weixin.qq.com/s/dkxqfZJPZxbktNBu2Cf0Tg)
 
 ### 配置打包部署
 
@@ -2397,6 +2404,7 @@
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/RebT-FMbKbuykxYpWNlWkg)
 + [Spring Boot暴雷预警！@DefaultValue注解竟会导致参数绑定失效？](https://mp.weixin.qq.com/s/jdrZdKlgXP6cSRTHQsaQGA)
 + [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories？](https://mp.weixin.qq.com/s/fPTdbOWlGMPVMzlBXqMP-Q)
++ [Spring Boot 又一强大的内置功能，自动记录API请求/响应数据](https://mp.weixin.qq.com/s/Nj6-u2XKQXmKrVnmbZS5Rg)
 
 #### 分布式
 
@@ -3141,6 +3149,7 @@
 ## web
 
 + [一文带你了解什么是servlet](https://mp.weixin.qq.com/s/mVF4wNPQKeokj6vwG6eWJQ)
++ [Java内存马入门之servlet](https://mp.weixin.qq.com/s/KkCCA8174zIHIgNF539PgA)
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
 + [Tomcat 系统架构与原理剖析](https://mp.weixin.qq.com/s/Tw9IPBgizkx8zySX8BMtww)
 + [Tomcat核心配置场景](https://mp.weixin.qq.com/s/YR_KpkT43UO7sWq07j2QPw)

@@ -104,6 +104,7 @@
 + [Linux 内存管理的 “左右手”：Buffer 与 Cache 深度解析](https://mp.weixin.qq.com/s/FrdTqTK0I23dwvZ52WOJnA)
 + [一文搞懂POSIX多线程：解锁高性能编程的密码](https://mp.weixin.qq.com/s/J0eWeLusKPxuC9OXFPESbg)
 + [linux操作系统：进程调度机制详解](https://mp.weixin.qq.com/s/WxDiiBW_Y1cHdupQs0QdLw)
++ [轻松管理Linux定时任务：Cron实用教程](https://mp.weixin.qq.com/s/o83L0aC1lkXcFGQe6-3mqQ)
 
 ### 网络
 
@@ -424,6 +425,7 @@
 + [Nginx中的HTTPS配置及其它安全防护](https://mp.weixin.qq.com/s/AiMYUl0nHkYNahYVCnJwpw)
 + [Nginx的模块化介绍](https://mp.weixin.qq.com/s/3MeEJFyc9PJ9HFDsHqXuzQ)
 + [高并发场景下，Nginx如何限流应对并发？](https://mp.weixin.qq.com/s/8ubKqfNwdudoEgYpAYmo8A)
++ [Nginx工作原理和优化总结](https://mp.weixin.qq.com/s/GVZslM7v1xV-UGWEfyF-hw)
 
 ### wireshark
 

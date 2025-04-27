@@ -166,6 +166,8 @@
 + [一行代码解决深拷贝问题，JavaScript新特性解析](https://mp.weixin.qq.com/s/NsB01k7Yrz1vnNlto0qkyA)
 + [JavaScript数组头部增加元素的方法](https://mp.weixin.qq.com/s/OUiPC28RKRd4nd3TqnbxPQ)
 + [Promise状态介绍](https://mp.weixin.qq.com/s/LifY-AhWHoZfx5Q6_n5-FQ)
++ [一行代码实现深拷贝？别再用 JSON.stringify 了！](https://mp.weixin.qq.com/s/WOHgsAlVgJqa_CX5pt_Kvg)
++ [2分钟理解JavaScript严格模式，避开这些常见陷阱](https://mp.weixin.qq.com/s/NGCDcWGqrtXbMeQzCOjUxQ)
 
 # 框架
 

@@ -10,6 +10,7 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
++ [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
 + [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
 + [Python 流程控制](https://mp.weixin.qq.com/s/PsNDKQdalrAKHSYFYZgg3A)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
@@ -66,6 +67,7 @@
 + [Python编写函数的基本原则和技巧](https://mp.weixin.qq.com/s/0K0inpyT7wgacUo59ZzzwQ)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
 + [40个Python函数，让你快速成为编程大师！](https://mp.weixin.qq.com/s/Kf_ZKbNqjU53xhdqfhk8Pw)
++ [Python新手必看！盘点常用的Python内置函数](https://mp.weixin.qq.com/s/z1uQxiHvpc3D1IXxlvj3_w)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
 + [Python中集合函数Set的使用详解](https://mp.weixin.qq.com/s/UNu-6lRjfQNm7JFCOgZnPA)
 + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
@@ -97,6 +99,7 @@
 + [Python函数总结](https://mp.weixin.qq.com/s/mUTbde-2mXGpq2cO3bt8ng)
 + [Python 函数：探索 20 个常用函数](https://mp.weixin.qq.com/s/qXXYGMAmFedSsgGBmeqSHg)
 + [50 个 Python 函数：构建高效编程的基石](https://mp.weixin.qq.com/s/cteGjEyqozKU5S_EIn71Yg)
++ [通俗解释python的实例方法、静态方法、类方法，终于搞懂了](https://mp.weixin.qq.com/s/tKlnrkJPm5BrlTs2k8jBYg)
 
 ### 面向对象
 
@@ -128,6 +131,7 @@
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
++ [Python基础：Python的字符串操作与格式化](https://mp.weixin.qq.com/s/4enr5tjPxwCpUgw4yAWq_g)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
@@ -198,6 +202,7 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
 + [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
@@ -205,6 +210,7 @@
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
 + [Python计算浮点数时如何避免浮点数带来的精度问题](https://mp.weixin.qq.com/s/fR8gJqJDQorldTBGFIdDYw)
 + [python的不可变数据结构](https://mp.weixin.qq.com/s/4C76VlF9M4c44BRdq3bIOg)
++ [Python编程精进：别再这样使用 isinstance()](https://mp.weixin.qq.com/s/y7SqyrsWnmUTaN8ENDKg6Q)
 + [Python编程精进：盘点10个令人困惑的特性](https://mp.weixin.qq.com/s/KSww9m98r3-sVpjjpkNGsQ)
 + [Python编程精进：迭代器揭秘](https://mp.weixin.qq.com/s/xn3iohuzHGE_v6W9-itkLA)
 + [Python编程精进：盘点10个高级概念](https://mp.weixin.qq.com/s/aSigb1LW-pPtQqnnF3zPag)

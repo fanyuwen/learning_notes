@@ -9,6 +9,7 @@
 + [深入理解基本数据类型](https://mp.weixin.qq.com/s/T6uahqr8aH8qqOjT9W8A8Q)
 + [Java 数据类型详解：基本数据类型与引用数据类型](https://mp.weixin.qq.com/s/HEZujUZpitou7Jm_wiQG9Q)
 + [== 和 equals 的区别](https://mp.weixin.qq.com/s/CVxza03KE-7_8gTSIhZprA)
++ [你真的懂Java中的equals和==吗？看完这篇文章你就知道了](https://mp.weixin.qq.com/s/w0bNdDjHYGs0hcWgKW1bLA)
 + [java 中 equals 和 == 的区别](https://my.oschina.net/justjavac/blog/72973)
 + [简单点，请问a = a + b 和 a += b 的区别](https://mp.weixin.qq.com/s/qUEqYBxWymxB2V2BwVMpdQ)
 + [90%开发者踩过的坑：Java三元运算符的隐藏风险](https://mp.weixin.qq.com/s/c-jDSkkcBN9OlNixFRvO-g)
@@ -271,6 +272,8 @@
 + [如何保证线程A，B，C 顺序执行？](https://mp.weixin.qq.com/s/BjKzyChvWhSehBy_z36qKQ)
 + [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
++ [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
++ [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -671,6 +674,7 @@
 + [Java锁机制解析：偏向锁、轻量级锁与重量级锁的原理与转换](https://mp.weixin.qq.com/s/BXOyV57aeqaQkFOS0Bp_xQ)
 + [Java并发编程中的锁（三）JUC包详解之抽象类 AOS/AQS/AQLS](https://mp.weixin.qq.com/s/izyaw5ugidxLQxQ0vbmH_w)
 + [Java并发编程中的锁（四）JUC包详解之接口类（condition/Lock/ReadWriteLock）](https://mp.weixin.qq.com/s/gHl4wzkVSu2SvLEqEfWc7A)
++ [Java并发编程：Synchronized 的实现原理](https://mp.weixin.qq.com/s/o2PbX8XfsfRm93sve5I6_g)
 
 #### volatile
 
@@ -904,6 +908,7 @@
 + [Java 1.8 Stream流Count计数小课堂](https://mp.weixin.qq.com/s/upL-9_PF5FJk3juXvmiUpA)
 + [Stream流的魔法合并术：Reduce规约全解析](https://mp.weixin.qq.com/s/w-_qMvVvEwMwpr9GXbt34w)
 + [Java真的不难（三十一）Stream流](https://mp.weixin.qq.com/s/vMV_VLjzyBY7uRB85MxjtA)
++ [Java真的不难（三十七）Stream流的进阶用法](https://mp.weixin.qq.com/s/RoYEPtDdlPlJHyvp40grkQ)
 
 ### Date/time
 
@@ -955,6 +960,7 @@
 + [探究 map 为什么不能遍历的同时进行增删操作](https://mp.weixin.qq.com/s/OFwro6zu9CK_jHdd-OQ2CA)
 + [面试官：说说HashMap和Hashtable有什么区别](https://mp.weixin.qq.com/s/K5Q9vNATovo4AwBOnyNc7w)
 + [死磕HashMap！90%程序员不知道的底层骚操作，看完秒杀面试官！](https://mp.weixin.qq.com/s/dZsY6rtJnMO9dh72LW40pw)
++ [HashMap的删除和扩容](https://mp.weixin.qq.com/s/jw26QWJ6zpiSfCp_-trwDQ)
 
 ### Optional
 
@@ -1920,6 +1926,7 @@
 + [揭秘AOP的致命盲区：为何private方法逃过代理？深入解析动态代理核心机制](https://mp.weixin.qq.com/s/m2SUo-y9RtwSisnOIDfjwA)
 + [SpringBoot中5种动态代理实现](https://mp.weixin.qq.com/s/Vvb0yw1mEuRRCZvQnMt7sA)
 + [全面解析 Spring AOP 切入点表达式](https://mp.weixin.qq.com/s/PPl-L5CQECUQQyiURbNKzw)
++ [Spring AOP从入门到实战：原理、用法与应用场景全解析](https://mp.weixin.qq.com/s/09UBLGr65-EkpDa9vjVJsw)
 
 ### 配置打包部署
 
@@ -2773,6 +2780,7 @@
 + [SpringBoot Task定时任务](https://mp.weixin.qq.com/s/0xFrSNjwMi3AJ9QYQqvYRQ)
 + [Spring Boot 异步任务实战：轻松提升系统性能，告别阻塞！](https://mp.weixin.qq.com/s/kLI5Wp2BtgpB7y_VmntG-w)
 + [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/Sg3wEwNa2-_gllKehcUnew)
++ [一个 SpringBoot 应用里有多少个线程？踩一坑长一智](https://mp.weixin.qq.com/s/QnFipvYerxMdBiRx7cnSeg)
 
 ##### Disruptor
 
@@ -3324,6 +3332,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
++ [详细讲解一下高性能设计里面的异步处理机制](https://mp.weixin.qq.com/s/t-dLXwavKK7KNurhzU_puA)
 + [Java性能调优以及相关工具的使用](https://mp.weixin.qq.com/s/_1-gXGI_6BUyqQopUSUoOQ)
 + [如何优雅地使用本地缓存？](https://mp.weixin.qq.com/s/PyNNVDpOk3yDA685GPdwAQ)
 + [一套万能通用的异步处理方案](https://mp.weixin.qq.com/s/-K6-c95DeVjCvlQYl0kJkg)

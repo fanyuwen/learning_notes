@@ -15,6 +15,7 @@
 + [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
 + [Python 语法糖合集：让你的代码更短更优雅](https://mp.weixin.qq.com/s/SA-6k8n6cIBJGA5o_RXMlA)
 + [Python 流程控制](https://mp.weixin.qq.com/s/PsNDKQdalrAKHSYFYZgg3A)
++ [python入门系列五（流程控制）](https://mp.weixin.qq.com/s/PUJNFtWreWZ2s_zXcbVhSA)
 + [python基础知识之数据类型简介](https://mp.weixin.qq.com/s/LAHW6VCPizDZPM-vYDlpUw)
 + [Python数据类型详解：10个你必须掌握的类型](https://mp.weixin.qq.com/s/-nGKxH18Lf7oF9u8GR5T5w)
 + [Python数据类型转换实战：从基础到高级](https://mp.weixin.qq.com/s/56xV3-yq1b5XbvNIMTz3-w)
@@ -192,6 +193,7 @@
 + [学习python的基础，python最常用的18个内置模块](https://mp.weixin.qq.com/s/KA2p_89RVmiJaKfVhsui2A)
 + [Python编程入门：模块与包的使用指南](https://mp.weixin.qq.com/s/e765xjq4cmBLrMe83Eb4OA)
 + [python入门系列十一（容器数据类型）](https://mp.weixin.qq.com/s/zDPm24nS5vFTYdJqxTzt2w)
++ [盘点实用又强大的Python标准库模块](https://mp.weixin.qq.com/s/-bv58n7oMhis5ExcXp9-kQ)
 
 ### 异步/多线程
 
@@ -207,6 +209,7 @@
 + [Python高并发应用开发](https://mp.weixin.qq.com/s/NxEG1P-hqpIhjnn__1YkPA)
 + [解决Python多线程冲突：内存共享与队列应用详解](https://mp.weixin.qq.com/s/6sYF-OmTYkS8y_rtuwlbYw)
 + [Python生成器与协程的进阶使用](https://mp.weixin.qq.com/s/DrxJLRWFrdQT-3kqytwbLw)
++ [python入门系列十三（多线程）](https://mp.weixin.qq.com/s/1ZZ3GqLXwWouAEaI6eUuJQ)
 
 ## 实践
 
@@ -452,6 +455,9 @@
 + [Python编程精进：聊聊代码质量](https://mp.weixin.qq.com/s/yTMDyH4N8-R12re8iqvS_w)
 + [Python 函数、模块和包](https://mp.weixin.qq.com/s/ojKKafXAAMKzRDD1AGr3OQ)
 + [Python 算法：骑士巡游问题](https://mp.weixin.qq.com/s/s71nbtDPdearV2rSeO1oNw)
++ [python进阶: 深入了解调试利器 Pdb](https://mp.weixin.qq.com/s/gvJKDNRgGag29nmoKg226g)
++ [告别命令行！Python打包EXE从未如此简单](https://mp.weixin.qq.com/s/QtZUD53lhOQTa1EclM3Q7A)
++ [python入门系列十二（操作数据库）](https://mp.weixin.qq.com/s/JCGYYx2SvjNLqDzcGK5o8Q)
 
 ## 新特性
 
@@ -691,6 +697,7 @@
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)
 + [这个Python库把Selenium按在地上摩擦！](https://mp.weixin.qq.com/s/8nygWKJ4qioYSOUWBPD1KQ)
 + [原来还可以这样设计界面？](https://mp.weixin.qq.com/s/ulTg58HSD9e3vhT0tQoM8Q)
++ [从小白到大神，有这些python库就够了，盘点python18个顶级第三方库。](https://mp.weixin.qq.com/s/YyHSzHACEBNv9i9p7-0OWA)
 
 ### Pandas
 
@@ -833,6 +840,7 @@
 + [提升效率的 10 种 Pandas 数据操作方法](https://mp.weixin.qq.com/s/pjFpcXq8rebBkCbq2aqGMg)
 + [Python数据分析利器：解锁groupby和pivot_table](https://mp.weixin.qq.com/s/arelTBpM0quzB9Z8PkVi3A)
 + [beautifulsoup4：Python中的数据采集师](https://mp.weixin.qq.com/s/kN8Z7okPL4DEfjY-XUoxkA)
++ [Python数据分析必学的8个核心库](https://mp.weixin.qq.com/s/b31wtBuRHeMa6X_oE0_GrA)
 
 ## 其它
 
@@ -840,3 +848,4 @@
 + [25 天征服 Rust：一个 Python 程序员的学习之旅](https://mp.weixin.qq.com/s/RdNq1-FRUIMf0IdlYWdTdg)
 + [Python Web框架比较：10个流行的Web框架概览](https://mp.weixin.qq.com/s/m-yh86GcrJvNGvVLky7abw)
 + [为什么Python之父不做Leader不做管理](https://mp.weixin.qq.com/s/7Qk53ubG-ERH6lGNxkaWvg)
++ [Python面试高频算法题，这5个你必须掌握！](https://mp.weixin.qq.com/s/sRhp7jnUqt-rcWP4iB4pSQ)

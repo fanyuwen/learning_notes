@@ -138,6 +138,7 @@
 + [Go Plugin 浅析](https://mp.weixin.qq.com/s/8pEdfJFFEC-NUjdP5lajkg)
 + [高效定位 Go 应用问题：Go 可观测性功能深度解析](https://my.oschina.net/u/3874284/blog/18042981)
 + [一文搞懂Go语言垃圾回收机制](https://mp.weixin.qq.com/s/ic0i7RhLxYJ53M0e1XJBOw)
++ [同步 / 异步、阻塞 / 非阻塞](https://mp.weixin.qq.com/s/C6AJSl8NjYlPBzawpNlaoA)
 
 # 面试题
 

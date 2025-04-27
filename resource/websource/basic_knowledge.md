@@ -161,6 +161,8 @@
 + [Linux系统玩转vim命令，提高效率](https://mp.weixin.qq.com/s/J8-vkMj9ScTAxaCtCaSfdw)
 + [Linux系统玩转vim编辑器，学会这些足够了](https://mp.weixin.qq.com/s/iagNcCVYuf7ZYbnqpWuSNw)
 + [【Linux学习】grep、sed、awk 三剑客实战](https://mp.weixin.qq.com/s/WImueSpyMkN5lGfVEMulpA)
++ [快速入门-Linux常用命令汇总](https://mp.weixin.qq.com/s/3CJDzP9Igv6RlKmRMPSwtg)
++ [Linux基础命令总结](https://mp.weixin.qq.com/s/w_kdx1LJuCCfakuOWse70g)
 
 ### 发行版信息
 
@@ -270,6 +272,7 @@
 + [记一次某网站存储桶XSS](https://mp.weixin.qq.com/s/mySPYLkFcfcdgXKJlBvT3Q)
 + [网络编程之端口复用](https://mp.weixin.qq.com/s/QbcceFIm8mTv-b5WHuQVSw)
 + [网络编程基础：近万字总结，这都不了解根本做不好项目](https://mp.weixin.qq.com/s/lozME7r9uhr8l9AxhTUv4w)
++ [面试官：TCP 和 UDP 有什么区别？如何选择？](https://mp.weixin.qq.com/s/VU9MCUUG6dYKdxradEzctg)
 
 ### DNS
 

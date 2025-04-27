@@ -798,6 +798,7 @@
 + [代码冲突、分支混乱怎么办？ 带你了解京东、阿里大厂是如何进行代码分支管理的](https://mp.weixin.qq.com/s/GK8szUCHLF91iYzsgNWclQ)
 + [5年经验的新同事问我，你们开发是用 git rebase 还是 git merge？我当时就蒙了。。。](https://mp.weixin.qq.com/s/eRHUyzcBdU_LVFepnkvvfA)
 + [Learn git the easy way! 一文入门 git 常用操作](https://mp.weixin.qq.com/s/lwvPTHxWSfs9XsTSaFT64Q)
++ [Git 标签管理深度指南](https://mp.weixin.qq.com/s/oShhbxo7rmhCfDf3BeJZ3w)
 
 ### 编程范式
 

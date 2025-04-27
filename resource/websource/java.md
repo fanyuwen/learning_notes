@@ -76,6 +76,9 @@
 + [Java 真的不难（十四） 包装类](https://mp.weixin.qq.com/s/ChYeYm-mElSnf7jwwxzycQ)
 + [Java真的不难（十八）内部类](https://mp.weixin.qq.com/s/NQ1LQTa5l7mJkhj0oGh6OA)
 + [Java真的不难（二十四）泛型](https://mp.weixin.qq.com/s/cgccGWE0xj5qwOBXBalJXA)
++ [逆向Java反序列化：从漏洞挖掘者的视角拆解CC1链的发现与构造](https://mp.weixin.qq.com/s/J8Xv74gc6RJ9VCJQGhz7aw)
++ [JavaSec-Java反序列化基础篇-反序列化概念与利用](https://mp.weixin.qq.com/s/yfi-FZ2iJYRi394I64RF9Q)
++ [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
 
 ### 方法/函数
 
@@ -625,6 +628,7 @@
 + [谈一谈Java线程池的设计与实现](https://mp.weixin.qq.com/s/YbTTc8SQj_dhVGBK7TQPVg)
 + [还在纠结线程池怎么用？这篇文章教你一招制胜！](https://mp.weixin.qq.com/s/EhiVhRBdgj50XKLPK9Q4aA)
 + [万字图解线程池ThreadPoolExecutor、ForkJoinPool、定时调度 STPE 使用场景和原理](https://mp.weixin.qq.com/s/nszV4x-gqy7NNl8AIQnTZw)
++ [「Java 并发编程」详解线程池实现原理及常见问题(核心线程=正式工，非核心线程=合同工)](https://mp.weixin.qq.com/s/bICo0i4GhoHspq9wkCnqfg)
 
 #### 锁
 
@@ -854,6 +858,7 @@
 + [Java垃圾回收机制，学Java不得不知道的内容，面试必备知识](https://mp.weixin.qq.com/s/8TsccCWesTIFs21ojSyjSg)
 + [快速入门-JVM垃圾收集](https://mp.weixin.qq.com/s/8znHns4qvWpKo2zeyJpkLg)
 + [Full GC 频率优化实战](https://my.oschina.net/vivotech/blog/18231016)
++ [JVM垃圾收集器详解与演进分析：为什么有这么多垃圾收集器？](https://mp.weixin.qq.com/s/VPcpa1lgx2TDTRxJET9b2g)
 
 # 核心库
 
@@ -1160,6 +1165,7 @@
 + [【多线程与高并发】CountDownLatch示例和讲解](https://mp.weixin.qq.com/s/SeqxqzqCSxQdhlJD0X8GwA)
 + [CountDownLatch 和 CyclicBarrier 的区别](https://my.oschina.net/OutOfMemory/blog/157130)
 + [CountDownLatch / Semaphore 该如何使用？](https://mp.weixin.qq.com/s/bSBUo-qGSwtVn2Ncl5-YMw)
++ [java并发工具——Semaphore信号量](https://mp.weixin.qq.com/s/pfVluYXxbQjeInlseRvyKA)
 + [Java中的Semaphore：灵活控制并发访问的秘诀](https://mp.weixin.qq.com/s/h0h9dPj7n6oEVwDmPM4XeA)
 + [面试官：讲一讲CountDownLatch 和 CyclicBarrier](https://mp.weixin.qq.com/s/FrgYeiStO7Dh-M6oghjVug)
 + [这俩工具太像了！到底啥时候用 CountDownLatch，啥时候用 CyclicBarrier？](https://mp.weixin.qq.com/s/k9H3PsTcCqUfxXNKr0rwtA)
@@ -1685,6 +1691,7 @@
 + [面试官：@PostConstruct初始化的时机的什么](https://mp.weixin.qq.com/s/8mPlBL3RDQDMwppI9g-nrg)
 + [Spring动态注册黑科技：让热更新代码实时生效的终极方案](https://mp.weixin.qq.com/s/2m-1odtdl5oEyxXx7XosPQ)
 + [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s/ujbCX35zimXuOegXEopyfw)
++ [Spring @Value 注入的魔法](https://mp.weixin.qq.com/s/3R2q1nXOgyDSyOdLHF9d-Q)
 
 #### 原理&源码
 
@@ -2198,6 +2205,7 @@
 + [SpringBoot中3种条件装配技术](https://mp.weixin.qq.com/s/PrXZQclridKXOLlnLp1F-w)
 + [Spring Boot异常处理全攻略：五大方案实战对比](https://mp.weixin.qq.com/s/qAckA0XMmpekF5eWAxoYFg)
 + [40 个 SpringBoot 常用注解，让生产力爆表！](https://mp.weixin.qq.com/s/nJ2N7wTvyQc3wlXNmtIF7A)
++ [SpringBoot中的4种重试机制实现方案](https://mp.weixin.qq.com/s/IS9PeInuM0Ah5-EpCZ4BWg)
 
 #### 版本特性
 

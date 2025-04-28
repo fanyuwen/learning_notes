@@ -393,6 +393,7 @@
 + [MySQL高频函数，使你的SQL更加高效和简洁（二）](https://mp.weixin.qq.com/s/Smq24Jmqk2FacuotBIGOmw)
 + [MySQL中count(*)/count(1)/count(id)/count(字段)的区别](https://mp.weixin.qq.com/s/s-YqaV7Vnfwr5HAXJ6Mo8g)
 + [MySQL的Order By背后藏着什么秘密？一文讲透排序优化技巧](https://mp.weixin.qq.com/s/PGezgj2R4quQD9blC7FccQ)
++ [MySQL优化-EXPLAIN笔记](https://mp.weixin.qq.com/s/mcOyvaWs_PAlPH7A89PcyA)
 
 #### 存储引擎
 
@@ -554,6 +555,7 @@
 + [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(下)](https://mp.weixin.qq.com/s/KS23BK1lJfheZ0z6ygT3vw)
 + [MySQL是如何选择索引的？为什么有时候索引会失效？](https://mp.weixin.qq.com/s/XScFxuD3dE6-47mEoAIyKQ)
 + [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(中)](https://mp.weixin.qq.com/s/2iHIR7NWbMy7klZlBvGYCw)
++ [MySQL加了唯一索引，数据还是重复？](https://mp.weixin.qq.com/s/8jbxZE2VXqjr4nHS5jSV4A)
 
 ### PostgreSQL
 
@@ -781,10 +783,13 @@
 + [高并发架构实践：Redis高可用计数器设计方案](https://mp.weixin.qq.com/s/HOlgh8cR8UqCTVqJvNvWGQ)
 + [挑战全网最详细Redis过期策略解析，小白也能看懂！](https://mp.weixin.qq.com/s/ZONOD1Lkc1zZVVl6xfLHhQ)
 + [Redis集群碎碎念：必知必会的知识点](https://mp.weixin.qq.com/s/vOKnTaRleRck_njzWdA7Dw)
++ [redis 缓存穿透](https://mp.weixin.qq.com/s/nKe4OewGdPVOz9FTt8pf8w)
++ [你必须懂的Redis十大应用场景](https://mp.weixin.qq.com/s/1BvqheayATCdeWd_9vkB1w)
 
 #### 原理
 
 + [面试都喜欢问 Redis，为什么？因为他快吗？](https://mp.weixin.qq.com/s/WVEbK-i31Y1cplHZ9_eExw)
++ [多方面分析Redis为什么快的原因](https://mp.weixin.qq.com/s/Q8FNBIvv1MVe5hHFioacWQ)
 + [Redis常见数据类型及其底层实现](https://mp.weixin.qq.com/s/V3eSGO50mEQx5hhlRYE-Vw)
 + [Redis命令之Set类型](https://mp.weixin.qq.com/s/LYJjFoyIa3h-8OvNv4y6Vw)
 + [Redis命令之SortedSet类型](https://mp.weixin.qq.com/s/l3gYqqC2JP2lrsIQ5N9uhA)
@@ -857,6 +862,7 @@
 ### Valkey
 
 + [推陈出新 – 内存 key-value 数据库 Valkey 介绍和剖析](https://aws.amazon.com/cn/blogs/china/introduction-and-analysis-of-the-in-memory-key-value-database-valkey/)
++ [关于Valkey你需要知道的事情](https://mp.weixin.qq.com/s/PoEEkHoLEbA6Wdlqolz5OA)
 
 ### Hbase
 

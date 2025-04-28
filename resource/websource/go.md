@@ -36,6 +36,7 @@
 + [使用Golang的协程竟然变慢了｜100万个协程的归并排序耗时分析](https://mp.weixin.qq.com/s/obBdPjqz_u5SabIPQHPCkA)
 + [SwissTable：高性能哈希表实现](https://mp.weixin.qq.com/s/0qjuRnK6ql7uKKmKKT1OrQ)
 + [Go 语言常见错误——代码及工程组织](https://mp.weixin.qq.com/s/nKfpr-bu9Mlp3AW7xvMzag)
++ [性能比拼: Go vs Bun](https://mp.weixin.qq.com/s/hRQVITl9uV9q6xokEYZw1g)
 
 # 库
 
@@ -141,6 +142,7 @@
 + [一文搞懂Go语言垃圾回收机制](https://mp.weixin.qq.com/s/ic0i7RhLxYJ53M0e1XJBOw)
 + [同步 / 异步、阻塞 / 非阻塞](https://mp.weixin.qq.com/s/C6AJSl8NjYlPBzawpNlaoA)
 + [099 | 『八股文™』Go中如何选择方法接受者类型](https://mp.weixin.qq.com/s/aFLFA8jcwlMi5s6gRnFUtw)
++ [105 | 『八股文™』一道 JSON 解析性能优化问题](https://mp.weixin.qq.com/s/5TPZVK07t9gYG3RiIRqIgQ)
 + [109 | 『八股文™』详解 sync.Map 底层实现中的双表机制](https://mp.weixin.qq.com/s/4mw1Q_oT8dze84ZIwFC4fA)
 + [111 | 『八股文™』Go 内存模型解析：从原理到实践](https://mp.weixin.qq.com/s/r70z18-W9KtuHzfTrhk5Bg)
 

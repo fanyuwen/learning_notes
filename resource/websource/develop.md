@@ -397,6 +397,7 @@
 + [常见限流方案，轻松应对高并发](https://mp.weixin.qq.com/s/ih8ZKxSLlt4u46VEeVjbkg)
 + [什么是服务限流？为什么要限流？](https://mp.weixin.qq.com/s/bCQLTJNCXZwtC8UTVqBM9g)
 + [招行2面：什么是负载均衡？为什么需要负载均衡？](https://mp.weixin.qq.com/s/Dj7H8oMSNujbZNgcYDE5dw)
++ [高并发场景下，再谈熔断、限流、降级（图文总结）](https://mp.weixin.qq.com/s/uBROOdW3SWhZGbrU0s7oUQ)
 
 ### 大文件IO
 

@@ -65,7 +65,9 @@
 + [深度剖析Java集合框架：从Map接口到具体实现类](https://mp.weixin.qq.com/s/55vS527VHVQUFRdPvhs0JA)
 + [Java 真的不难（十五）Date类](https://mp.weixin.qq.com/s/ZX9Cw9ujzhRUlqngCObTSw)
 + [Java真的不难（二十一）集合](https://mp.weixin.qq.com/s/L2yzG_F33XcroR7gYlfjIQ)
++ [Java真的不难（二十二）List、Set集合](https://mp.weixin.qq.com/s/sCDjOHVfITAMNY78KM7t1Q)
 + [Java集合之List](https://mp.weixin.qq.com/s/xIiatpm06ylCm3CH_Yk5Bw)
++ [那些年踩过的坑之Arrays.asList](https://mp.weixin.qq.com/s/_Cg1-2iVTsCFXJGjG67mNA)
 + [面试官：List删除的四种方式](https://mp.weixin.qq.com/s/6EAAbUYpRQzW28JhvKsOGw)
 + [Java包装类与基本数据类型的博弈：深挖开发中的九重门](https://mp.weixin.qq.com/s/_YDTvFHYEHjuYrCT6ek2RA)
 + [Java自动装箱与拆箱：小细节里的大智慧](https://mp.weixin.qq.com/s/do_0UCq6GEO-IKPqDD2DzQ)
@@ -488,6 +490,7 @@
 + [说说非阻塞I/O的好处](https://mp.weixin.qq.com/s/sXUDmV2geVF6en19KOuKkw)
 + [万字总结JavaIO流：从使用到概念，清晰解构](https://mp.weixin.qq.com/s/bG-D0J86fZkJ6Gl3mf4pMw)
 + [BIO/NIO/AIO傻傻分不清？](https://mp.weixin.qq.com/s/kfr1Ulg5g5dJHu6kIOfv-g)
++ [面试篇-Java输入输出三兄弟大比拼：IO、NIO、AIO对比分析](https://mp.weixin.qq.com/s/0pbSJpTqVfHZ0VqCEf0sHw)
 
 ### 反射
 
@@ -633,6 +636,7 @@
 + [还在纠结线程池怎么用？这篇文章教你一招制胜！](https://mp.weixin.qq.com/s/EhiVhRBdgj50XKLPK9Q4aA)
 + [万字图解线程池ThreadPoolExecutor、ForkJoinPool、定时调度 STPE 使用场景和原理](https://mp.weixin.qq.com/s/nszV4x-gqy7NNl8AIQnTZw)
 + [「Java 并发编程」详解线程池实现原理及常见问题(核心线程=正式工，非核心线程=合同工)](https://mp.weixin.qq.com/s/bICo0i4GhoHspq9wkCnqfg)
++ [Fork/Join框架，分而治之的并行计算功能，大多数人都没有用过，本文带你了解一下](https://mp.weixin.qq.com/s/suNcZ8ODxtRO--qsFrjadA)
 
 #### 锁
 
@@ -689,6 +693,7 @@
 + [Java并发编程：Synchronized 的实现原理](https://mp.weixin.qq.com/s/o2PbX8XfsfRm93sve5I6_g)
 + [并发编程高频八股——synchronized关键字](https://mp.weixin.qq.com/s/IbjOsb0INC31dIny4IRuFQ)
 + [面试练习 | 请简述synchronized和ReentrantLock的区别](https://mp.weixin.qq.com/s/ZjDYnSkOO1wplpAO4QFkuQ)
++ [面试练习 | Java中synchronized关键字的工作原理是什么？](https://mp.weixin.qq.com/s/HNLv9LwW2uD0XY5S4dFUCQ)
 
 #### volatile
 
@@ -763,6 +768,11 @@
 + [一文搞懂 JVM 垃圾回收器](https://mp.weixin.qq.com/s/VSpBqv2VTy1pEN8YG6uzbw)
 + [面试官：说说方法区和永久代以及元空间有什么关系？](https://mp.weixin.qq.com/s/cNXxpFzGmzA8q14QbuseYQ)
 
+### 命令
+
++ [JDK性能分析工具使用命令记录](https://mp.weixin.qq.com/s/1aSELwAI-eYriWalmwlmZw)
++ [JVM性能监控及调优命令](https://mp.weixin.qq.com/s/4JojkqO_zNweKBLuQfkm1g)
+
 ### 内存
 
 + [JVM内存布局](https://mp.weixin.qq.com/s/llu3Ke_lQNC40qA4N8tX-g)
@@ -806,6 +816,8 @@
 + [面试被问：OOM类型有哪些？怎么答？](https://mp.weixin.qq.com/s/Ida_n1tTrORSZ4GUHadLDQ)
 + [JMM：为什么你的并发代码永远跑不对](https://mp.weixin.qq.com/s/Nsp-MKuNK9MFEzgXcYhjvg)
 + [对象居然可以在栈上分配？答案是可以的](https://mp.weixin.qq.com/s/6rEAczTTf3-hoOjXY6E76A)
++ [为什么Java要把内存分成几个区？看完这篇你就懂了！](https://mp.weixin.qq.com/s/m3HDOrTVKu7ODdtjK-KnpA)
++ [面试被问：OOM类型有哪些？怎么答？](https://mp.weixin.qq.com/s/JwQVTwRJx6Y_HDRKDvFL3Q)
 
 ### 类加载
 
@@ -2215,6 +2227,7 @@
 + [SpringBoot中的4种重试机制实现方案](https://mp.weixin.qq.com/s/IS9PeInuM0Ah5-EpCZ4BWg)
 + [SpringBoot3.4.3为何频繁检测出循环依赖？一招快速解决它！](https://mp.weixin.qq.com/s/gDTenprVMHq7-tA_0gFWIw)
 + [请一定记住！Spring Boot 执行初始化操作的 7 种王炸手段](https://mp.weixin.qq.com/s/RfMdTKXREeHwjfvkEPRt3Q)
++ [SpringBoot中3种内容协商策略实现](https://mp.weixin.qq.com/s/6oULC2J6vdqhdL4kSeqbqw)
 
 #### 版本特性
 
@@ -2731,6 +2744,7 @@
 + [强大！Spring Boot + JPA 实体类设计五大实战技巧](https://mp.weixin.qq.com/s/_bz0rxe8pcH5uPuoQhwOFg)
 + [SpringBoot分库分表实战：原理与ShardingSphere实现](https://mp.weixin.qq.com/s/D-t3tbxDaysPiOVEr2teaQ)
 + [SpringBoot与HikariCP整合，实现数据库连接池动态优化系统](https://mp.weixin.qq.com/s/biPqz9FnpVAVksp2yIxN7g)
++ [SpringBoot中Redis的7种序列化策略](https://mp.weixin.qq.com/s/FlqEsVesLv6LdoHgaoCURQ)
 
 ##### TRANSACTION
 
@@ -2816,6 +2830,7 @@
 + [SpringBoot + Disruptor 实现特快高并发处理，支撑每秒 600 万订单无压力！](https://mp.weixin.qq.com/s/ThTqb1z04ixc0NNJ-ot9_w)
 + [SpringBoot与Disruptor整合，实现电商秒杀百万级别交易订单的高性能无锁异步处理](https://mp.weixin.qq.com/s/0QBZCHQ4cgcD9GIRQxNNsg)
 + [百万级订单毫秒响应！SpringBoot 整合 Disruptor，打造高性能秒杀系统](https://mp.weixin.qq.com/s/fhTYO3MlF46oCSEpdoY2XA)
++ [Spring Boot + Disruptor 实战：深度讲解构建百万级并发无锁队列](https://mp.weixin.qq.com/s/nCPHyHWHzf1bPDH0UazXkg)
 
 ##### AKKA
 
@@ -3362,6 +3377,8 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
++ [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)
++ [聊聊四种实时通信技术：短轮询、长轮询、WebSocket 和 SSE](https://mp.weixin.qq.com/s/NIACuNgHtSFgKHc7T1G3Wg)
 + [详细讲解一下高性能设计里面的异步处理机制](https://mp.weixin.qq.com/s/t-dLXwavKK7KNurhzU_puA)
 + [Java性能调优以及相关工具的使用](https://mp.weixin.qq.com/s/_1-gXGI_6BUyqQopUSUoOQ)
 + [如何优雅地使用本地缓存？](https://mp.weixin.qq.com/s/PyNNVDpOk3yDA685GPdwAQ)

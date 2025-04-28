@@ -23,6 +23,7 @@
 + [通用设计模式之规格设计模式](https://mp.weixin.qq.com/s/-ZAeleZNTOKcI1gJH7PPRA)
 + [彻底搞懂管道-过滤器模式](https://mp.weixin.qq.com/s/wNyl50CXp2pGW2wm1VJWlA)
 + [注册模式（Registry Pattern）：实现灵活解耦的插件化系统](https://mp.weixin.qq.com/s/QiKJLMxLDbidJgh15KvgAQ)
++ [我常用的六种设计模式](https://mp.weixin.qq.com/s/yWCVZX_82V3GfaZkFHTTdA)
 
 # 并发设计模式
 
@@ -63,6 +64,7 @@
 ## 模板方法模式
 
 + [模板方法模式，用起来是真的爽！](https://mp.weixin.qq.com/s/OGQbwcxeoWcrbmAtpt8fxQ)
++ [深入设计模式之「模板方法模式」：定义流程框架，稳定主干逻辑](https://mp.weixin.qq.com/s/4PwOUfZQTEma6vUhmfhQLg)
 
 ## 工厂模式
 
@@ -102,6 +104,7 @@
 + [【设计模式】告别冗长if-else语句：使用策略模式优化代码结构](https://mp.weixin.qq.com/s/vVQJUXTV6xxan2dY3D5M0A)
 + [几种常用的设计模式--策略模式](https://mp.weixin.qq.com/s/c9hn8oF4qZrQup_2Ns-n-A)
 + [实战设计模式之策略模式](https://mp.weixin.qq.com/s/TIu6iIp0KI16og_zWZLsZw)
++ [深入设计模式之「策略模式」：行为封装与选择的利器](https://mp.weixin.qq.com/s/XBe5xim0lNQdDv0Lk5mClQ)
 
 ## 装饰器模式
 
@@ -115,6 +118,7 @@
 ## 状态模式
 
 + [干掉项目中杂乱的 if-else，试试状态模式，这才是优雅的实现方式！](https://mp.weixin.qq.com/s/UEudZbFumiw-c9d8-IBZEQ)
++ [深入设计模式之「状态模式」：行为随状态切换而改变的优雅设计](https://mp.weixin.qq.com/s/A0O2vTnDB32_lVOWa-XtRA)
 
 ## 责任链模式
 
@@ -144,6 +148,7 @@
 ## 访问者模式
 
 + [设计模式系列-行为型模式-访问者模式（Visitor Pattern）](https://mp.weixin.qq.com/s/887flDP8-UrCI7DdHmythA)
++ [深入设计模式之「访问者模式」：让算法与对象解耦](https://mp.weixin.qq.com/s/oc5DnItTkRRL2BOZiOQp8g)
 
 ## 解释器模式
 

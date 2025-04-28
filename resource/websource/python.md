@@ -196,6 +196,7 @@
 + [Python编程入门：模块与包的使用指南](https://mp.weixin.qq.com/s/e765xjq4cmBLrMe83Eb4OA)
 + [python入门系列十一（容器数据类型）](https://mp.weixin.qq.com/s/zDPm24nS5vFTYdJqxTzt2w)
 + [盘点实用又强大的Python标准库模块](https://mp.weixin.qq.com/s/-bv58n7oMhis5ExcXp9-kQ)
++ [python入门系列九（模块与标准库）](https://mp.weixin.qq.com/s/lywjUp3ftAHsokwWkfQl7Q)
 
 ### 异步/多线程
 
@@ -468,6 +469,7 @@
 + [《Python奇遇记：玩转 MySQL——数据库操作与增删改查》](https://mp.weixin.qq.com/s/riJ810cn-ZLjVOpRzcBKxg)
 + [还在手动复制粘贴到崩溃？这20个Python代码让你提前下班](https://mp.weixin.qq.com/s/86hZ_SVeWLO1RkaEcM-89A)
 + [python入门系列十六（网络编程）](https://mp.weixin.qq.com/s/MGGeUuRESyOUt3xyIeflww)
++ [全局唯一实例：详解 Python 单例模式及其实现方式](https://mp.weixin.qq.com/s/e84nD3XfnuqqKdBAfHBHzQ)
 
 ## 新特性
 

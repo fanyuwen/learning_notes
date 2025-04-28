@@ -105,6 +105,7 @@
 + [一文搞懂POSIX多线程：解锁高性能编程的密码](https://mp.weixin.qq.com/s/J0eWeLusKPxuC9OXFPESbg)
 + [linux操作系统：进程调度机制详解](https://mp.weixin.qq.com/s/WxDiiBW_Y1cHdupQs0QdLw)
 + [轻松管理Linux定时任务：Cron实用教程](https://mp.weixin.qq.com/s/o83L0aC1lkXcFGQe6-3mqQ)
++ [深入探索linux系统调用的来龙去脉](https://mp.weixin.qq.com/s/S3bER9uAED3a-ycMoQS-VQ)
 
 ### 网络
 
@@ -473,6 +474,7 @@
 + [深度总结：select、poll、epoll面试考点](https://mp.weixin.qq.com/s/TrkUQiaVWhBD1mfr_VVUOw)
 + [一文搞懂磁盘 I/O，基础扫盲来了！](https://mp.weixin.qq.com/s/irCeAkc0JPoukr3Y9KzXcQ)
 + [缓冲区详解：数据如何从磁盘读到用户进程你真的了解吗？快来看看吧！](https://mp.weixin.qq.com/s/asMM2hO5ibzoJ4EuN3xIWw)
++ [从青铜到王者：带你吃透epoll核心机制](https://mp.weixin.qq.com/s/PwPzH2MEuH4jmTqH6yjU-g)
 
 ## 字符编码
 

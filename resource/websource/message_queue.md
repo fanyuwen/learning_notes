@@ -105,6 +105,7 @@
 + [kafka知识点总结](https://mp.weixin.qq.com/s/hK_gd_KrV4hPTOs1vs4pog)
 + [揭秘Kafka高性能背后的黑科技：Varints变长编码如何让消息瘦身50%？](https://mp.weixin.qq.com/s/20Vxk-jtyBzLDdHnpFYHzA)
 + [Kafka 是如何保证消息顺序与高可用的？](https://mp.weixin.qq.com/s/bmZXiM7A5Q07rpMcOfJ1Ww)
++ [Kafka的日志段（Log Segment）滚动策略详解](https://mp.weixin.qq.com/s/kaQntK1e8QJKdTQGthUa5Q)
 
 # ROCKETMQ
 

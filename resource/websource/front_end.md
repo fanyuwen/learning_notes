@@ -174,6 +174,13 @@
 + [告别 for 循环嵌套：JavaScript 数组迭代的函数式妙用](https://mp.weixin.qq.com/s/dSUuyOguYJgR6YREyiGW-A)
 + [JavaScript时间处理（Temporal 对象）](https://mp.weixin.qq.com/s/kRc9_-JsWNDcJ1K2b_eLpw)
 + [什么是空值合并运算符[Nullish coalescing operator]（??）？](https://mp.weixin.qq.com/s/SPpRFYhooXOOUA_XZOlk7A)
++ [面试官最爱问的 10 个 JavaScript 闭包问题](https://mp.weixin.qq.com/s/AYGKgLdJIUkAGTVNPxzbtg)
++ [JavaScript中的一些实用小方法](https://mp.weixin.qq.com/s/zbZD6oJ9H2K_8Q8wTlX6FQ)
++ [setTimeout 不够用？为什么需要 setBigTimeout？](https://mp.weixin.qq.com/s/qPWF1L6x06K1kKvs9eSWsg)
++ [抛弃 JavaScript 立即执行函数，这个方案更简洁更优雅](https://mp.weixin.qq.com/s/SJ9kS9Ru9meAuMX6ijHAEA)
++ [Symbol 的用处，远远超乎你们的想象！！！](https://mp.weixin.qq.com/s/cUotv0pXfF5ogO1uXpOQpQ)
++ [2025 年 Object 和 Map 如何选择？](https://mp.weixin.qq.com/s/Ia7byLHAVsHtPbzuGz9JDg)
++ [for...in 循环的坑，别再用它遍历 JavaScript 数组了！](https://mp.weixin.qq.com/s/k9FK-sj7XmXfir0JwcLLuQ)
 
 # 框架
 
@@ -311,6 +318,7 @@
 + [二进制图片之间的互相转换 - Blob与base64以及File的转换](https://mp.weixin.qq.com/s/31VZFsV6U73XoQMRRl8yfA)
 + [一文彻底搞透文件上传](https://mp.weixin.qq.com/s/zCD2_hVEmBnCdBGmeiF34w)
 + [一文看懂 JSON.parse 背后的安全隐患与黑盒利用方法](https://mp.weixin.qq.com/s/YyTQjYK9xdp9h23yjTrAgQ)
++ [讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL](https://mp.weixin.qq.com/s/u44_9jZez7TI8gJqv_n79Q)
 
 # 杂谈
 

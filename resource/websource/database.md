@@ -779,6 +779,7 @@
 + [Redis缓存雪崩的5种应对措施](https://mp.weixin.qq.com/s/ZTgxEdxCZSoVoRvexxnqiQ)
 + [高并发架构实践：Redis高可用计数器设计方案](https://mp.weixin.qq.com/s/HOlgh8cR8UqCTVqJvNvWGQ)
 + [挑战全网最详细Redis过期策略解析，小白也能看懂！](https://mp.weixin.qq.com/s/ZONOD1Lkc1zZVVl6xfLHhQ)
++ [Redis集群碎碎念：必知必会的知识点](https://mp.weixin.qq.com/s/vOKnTaRleRck_njzWdA7Dw)
 
 #### 原理
 

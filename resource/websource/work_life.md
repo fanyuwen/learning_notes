@@ -281,6 +281,7 @@
 + [Java 23 和 IntelliJ IDEA ｜ 技术解析](https://my.oschina.net/u/5494143/blog/16523115)
 + [IDEA 注释模板这样搞！爽！](https://mp.weixin.qq.com/s/2syi6EEZryuTUa0orgVBLA)
 + [pycharm常用小技巧，提高编程效率！](https://mp.weixin.qq.com/s/hYfMVSKydxdxV5ATyXZyrg)
++ [IDEA 2025.1王炸更新，新特性真香！](https://mp.weixin.qq.com/s/X40mKVdxCc0WVWeOtB8kIA)
 
 ## MAC_PRO相关
 

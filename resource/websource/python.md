@@ -460,6 +460,8 @@
 + [python进阶: 深入了解调试利器 Pdb](https://mp.weixin.qq.com/s/gvJKDNRgGag29nmoKg226g)
 + [告别命令行！Python打包EXE从未如此简单](https://mp.weixin.qq.com/s/QtZUD53lhOQTa1EclM3Q7A)
 + [python入门系列十二（操作数据库）](https://mp.weixin.qq.com/s/JCGYYx2SvjNLqDzcGK5o8Q)
++ [《Python奇遇记：玩转 MySQL——数据库操作与增删改查》](https://mp.weixin.qq.com/s/riJ810cn-ZLjVOpRzcBKxg)
++ [还在手动复制粘贴到崩溃？这20个Python代码让你提前下班](https://mp.weixin.qq.com/s/86hZ_SVeWLO1RkaEcM-89A)
 
 ## 新特性
 
@@ -716,6 +718,7 @@
 + [最强总结！ 十大 NumPy 矩阵运算 ！！](https://mp.weixin.qq.com/s/UqLMa4fAov9yb0rC6tBkng)
 + [图文解说numpy,了解使用场景和作用](https://mp.weixin.qq.com/s/lbl1b6g6eJSbakhtCC0PmQ)
 + [Numpy系列（二）- Numpy数组（一）](https://mp.weixin.qq.com/s/0ZdghNO3u-bkrq-lT9SPqA)
++ [100个NumPy小技巧，让你精通Python科学计算](https://mp.weixin.qq.com/s/hhdf-WtgCH4pjWtOM0CPCQ)
 
 ## 工具
 

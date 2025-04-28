@@ -169,6 +169,10 @@
 + [一行代码实现深拷贝？别再用 JSON.stringify 了！](https://mp.weixin.qq.com/s/WOHgsAlVgJqa_CX5pt_Kvg)
 + [2分钟理解JavaScript严格模式，避开这些常见陷阱](https://mp.weixin.qq.com/s/NGCDcWGqrtXbMeQzCOjUxQ)
 + [JavaScript原生实现简单虚拟列表(列表不定高)](https://mp.weixin.qq.com/s/HVYIG4H-JBve-iInSZIdPw)
++ [为何大厂内部都在避免使用 JavaScript 箭头函数？](https://mp.weixin.qq.com/s/Xqh7PXX47gm5ShglFaXn3Q)
++ [抛弃 try-catch，错误处理的新方案](https://mp.weixin.qq.com/s/pbf4OUHJtXOfU001xgB4aA)
++ [告别 for 循环嵌套：JavaScript 数组迭代的函数式妙用](https://mp.weixin.qq.com/s/dSUuyOguYJgR6YREyiGW-A)
++ [JavaScript时间处理（Temporal 对象）](https://mp.weixin.qq.com/s/kRc9_-JsWNDcJ1K2b_eLpw)
 
 # 框架
 
@@ -206,6 +210,7 @@
 + [一文带你吃透 Vue3 核心知识点](https://mp.weixin.qq.com/s/ECG6wDIm6l4JyabgsYTMfA)
 + [Vue3 - 事件处理](https://mp.weixin.qq.com/s/8d6UqkiCPRW_j9uhnB7AVw)
 + [Vue-Router深度实践指南](https://mp.weixin.qq.com/s/WKDmjpSd9aRhii7NRwOKcg)
++ [掌握这些 Vue 和 JS 知识，前端开发不再迷茫！](https://mp.weixin.qq.com/s/72_Iv3oUCuQ_6pTGjQNwjg)
 
 ## react
 

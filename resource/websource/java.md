@@ -320,6 +320,7 @@
 + [10个Java代码优化小技巧，让你成为Java高手](https://mp.weixin.qq.com/s/fmZlnohjfCE0Wfd1HdbeBA)
 + [常用JAVA编码小技巧您用了多少？](https://mp.weixin.qq.com/s/fs6nVFJlhZ-TialrmbRj3g)
 + [面试官：如何在map循环中添加新元素](https://mp.weixin.qq.com/s/q8MV_CuUxGoa_-ZmT97P0w)
++ [对象拷贝容易被忽略的地方](https://mp.weixin.qq.com/s/rsN4UDo9KEkwMGoMJZYjeQ)
 
 ## 代码质量
 
@@ -1714,6 +1715,7 @@
 + [Spring的注入方式有哪些？该如何选择？](https://mp.weixin.qq.com/s/7uncPnAvL97hFVlg5241pA)
 + [JAVA：Spring Bean 三级缓存机制的技术指南](https://mp.weixin.qq.com/s/W2qQdInhakF0iGFnihMXvg)
 + [深入解析循环依赖：从问题到解决方案](https://mp.weixin.qq.com/s/bwc6Q-v4qMf-r-YbsuMAqA)
++ [Spring源码 - 深度解析@Resource依赖注入的执行逻辑](https://mp.weixin.qq.com/s/0GEiwHAAbFx1Rl1-7AYzfw)
 
 ### 新版本新特性
 
@@ -1773,6 +1775,7 @@
 + [【Java面试100题突击】100 Spring和SpringMVC为什么需要父子容器？](https://mp.weixin.qq.com/s/0A3Mg1HG0bLc5FRnjDVRKQ)
 + [【Java面试100题突击】98 Spring MVC的控制器是不是单例模式？存在什么问题？如何解决？](https://mp.weixin.qq.com/s/Zqr8vCMAAF2zmXQTwtYtzQ)
 + [Java 面试经典之 Http 请求在 SpringMVC 中的处理](https://mp.weixin.qq.com/s/e3-wPDkWC10-DZ0VZTgXAA)
++ [社招面试杀手锏！Spring MVC到底是什么？小米亲测上岸经验分享！](https://mp.weixin.qq.com/s/2KlEPAtriQaOp7H5SYojUQ)
 
 ### concurrent
 
@@ -2206,6 +2209,7 @@
 + [Spring Boot异常处理全攻略：五大方案实战对比](https://mp.weixin.qq.com/s/qAckA0XMmpekF5eWAxoYFg)
 + [40 个 SpringBoot 常用注解，让生产力爆表！](https://mp.weixin.qq.com/s/nJ2N7wTvyQc3wlXNmtIF7A)
 + [SpringBoot中的4种重试机制实现方案](https://mp.weixin.qq.com/s/IS9PeInuM0Ah5-EpCZ4BWg)
++ [SpringBoot3.4.3为何频繁检测出循环依赖？一招快速解决它！](https://mp.weixin.qq.com/s/gDTenprVMHq7-tA_0gFWIw)
 
 #### 版本特性
 
@@ -3153,6 +3157,7 @@
 + [爆肝3万字，SpringBoot原理深入以及源码分析](https://mp.weixin.qq.com/s/fJOev835KmbiRfurTihm4w)
 + [Spring Boot 3.4竟能让启动速度比Go还快？真相让人意外!](https://mp.weixin.qq.com/s/HFNGaUGtOTv1l2sCp5pbxQ)
 + [SpringBoot如何用ServiceLocatorFactoryBean优雅切换支付渠道？](https://mp.weixin.qq.com/s/_4aeZ4LhsU2FqzSIU7rKqQ)
++ [Spring Boot 启动原理源码级深度解析 | 面试必考题](https://mp.weixin.qq.com/s/bgXkbNc4sBK9dYT70uiaUg)
 
 ## web
 
@@ -3496,3 +3501,4 @@
 + [挑战用 Java 处理十亿行数据的开源项目](https://mp.weixin.qq.com/s/Ta0WTidW_n9aJxU6LCfeYw)
 + [纯干货 | Dolphinscheduler Master 模块源码剖析](https://my.oschina.net/dailidong/blog/18043611)
 + [Worker模块源码实战：万字长文解析DolphinScheduler如何实现亿级任务调度](https://mp.weixin.qq.com/s/W_25tDZ6SdOQmWXde14D_w)
++ [每天骑的共享单车是什么通信原理，有人了解过吗？](https://mp.weixin.qq.com/s/Io_nq6u4xSE_oUdLC7jTfQ)

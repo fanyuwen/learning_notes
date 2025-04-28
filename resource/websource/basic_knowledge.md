@@ -283,6 +283,7 @@
 
 + [通俗大白话，彻底弄懂 https 原理本质](https://my.oschina.net/helloworldnet/blog/5587819)
 + [面试官：post为什么会发送两次请求？](https://mp.weixin.qq.com/s/g4VVUbF7RzM1wOS_aIvVHw)
++ [说说localhost，127.0.0.1和0.0.0.0的区别](https://mp.weixin.qq.com/s/oM-U8m66WK9OSruCUSzkUQ)
 + [从零开始掌握HTTP协议：全面详解1.0、1.1和2.0](https://mp.weixin.qq.com/s/-Dp08X3qe0AaAQQtwBZ_WA)
 + [面试官：Http 请求方法有几种？只有四种？我只知道四种...](https://mp.weixin.qq.com/s/4BI4P8MuVnAe7ME6hES8tA)
 + [一张图就把HTTPS工作原理讲明白了！](https://mp.weixin.qq.com/s/mVph1mUHyzFOeGHfa70Uxg)

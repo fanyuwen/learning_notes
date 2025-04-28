@@ -8,6 +8,7 @@
 
 + [Go 1.23新特性前瞻](https://mp.weixin.qq.com/s/rODxrjFS4lRbnIMcV2j2sg)
 + [Go 1.23 新特性解读：unique 包及其应用](https://mp.weixin.qq.com/s/oh6ZWbUEXrEsZgtv1xKw6Q)
++ [Go 1.9 相比 Go 1.8 有哪些值得注意的改动？](https://mp.weixin.qq.com/s/RkUNsmUJQ4hBpqdsWtbNow)
 
 # 话题
 
@@ -139,6 +140,9 @@
 + [高效定位 Go 应用问题：Go 可观测性功能深度解析](https://my.oschina.net/u/3874284/blog/18042981)
 + [一文搞懂Go语言垃圾回收机制](https://mp.weixin.qq.com/s/ic0i7RhLxYJ53M0e1XJBOw)
 + [同步 / 异步、阻塞 / 非阻塞](https://mp.weixin.qq.com/s/C6AJSl8NjYlPBzawpNlaoA)
++ [099 | 『八股文™』Go中如何选择方法接受者类型](https://mp.weixin.qq.com/s/aFLFA8jcwlMi5s6gRnFUtw)
++ [109 | 『八股文™』详解 sync.Map 底层实现中的双表机制](https://mp.weixin.qq.com/s/4mw1Q_oT8dze84ZIwFC4fA)
++ [111 | 『八股文™』Go 内存模型解析：从原理到实践](https://mp.weixin.qq.com/s/r70z18-W9KtuHzfTrhk5Bg)
 
 # 面试题
 

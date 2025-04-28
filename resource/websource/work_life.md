@@ -140,6 +140,7 @@
 + [研发高阶能力之技术规划](https://mp.weixin.qq.com/s/PBdeiNOMhiWVim1AWeIc2g)
 + [别再盲目敲代码！程序员应该多积累业务经验！](https://mp.weixin.qq.com/s/jYKg9_n8NGj5a98RRYfVcw)
 + [我认识的最优秀的程序员](https://mp.weixin.qq.com/s/siz6m5U72vfXgWWtcHo4gg)
++ [为什么不能一次性写好代码，而需要改bug？](https://mp.weixin.qq.com/s/YlcoDQkAOIEPHuS6ZcIabg)
 
 ## 视频
 

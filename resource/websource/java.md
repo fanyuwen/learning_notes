@@ -473,6 +473,8 @@
 + [JAVA基础（十八）队列与栈详解，线性结构的经典应用](https://mp.weixin.qq.com/s/OJf9qoGxiwQIaQmbGviQ_Q)
 + [面试官最爱问！同步集合 vs 并发集合，区别到底在哪？](https://mp.weixin.qq.com/s/l9b7nwJgRxEavTmZ7RwD-Q)
 + [Java里的时间精度陷阱：那一次被毫秒“坑惨”的经历](https://mp.weixin.qq.com/s/Pjz8_2FipXZC3H6cWAyTgQ)
++ [面试官：jar包冲突如何解决？](https://mp.weixin.qq.com/s/jUyrGFZuF9aZ_w8mFm28fQ)
++ [一文搞懂Comparable、Comparator与集合排序之间的“恩恩怨怨”](https://mp.weixin.qq.com/s/9hcgA07uOvkEKj14SxiN9Q)
 
 ### IO
 
@@ -502,6 +504,7 @@
 + [Java真的不难（二十六）反射机制](https://mp.weixin.qq.com/s/1J2VApisqdplNlc7hHflYw)
 + [Java 反射和 new 效率对比！实测结果让所有程序员惊掉下巴](https://mp.weixin.qq.com/s/svYFtuChRQh8-V6Yr0jJEQ)
 + [反射和方法句柄，哪个更高效？](https://mp.weixin.qq.com/s/4WF8i71MyKMJ61Ml0Tv19A)
++ [Java真的不难（四十）反射机制深度分析【实际业务案例】](https://mp.weixin.qq.com/s/7LJEVdWKsFiH5lYPgWgFOg)
 
 ### 并发/多线程
 
@@ -1182,6 +1185,7 @@
 + [面试高频！ArrayBlockingQueue vs LinkedBlockingQueue，99%的人答不全！](https://mp.weixin.qq.com/s/UKVyH5vtAvj8la1dwF-R5g)
 + [为什么大厂面试官都爱考阻塞队列？深入源码，揭秘它的独特魅力！](https://mp.weixin.qq.com/s/XSXCxQNbi6AB7t3tBiMCxw)
 + [Java并发集合类，让你再也不必为线程安全性的问题而烦恼](https://mp.weixin.qq.com/s/XYlq0rZkUFNeKrO1xiQrAA)
++ [硬核干货 | Phaser：比CyclicBarrier更灵活的多阶段同步神器！](https://mp.weixin.qq.com/s/A17NXpDkfLCX6Rq9odoPVw)
 
 ## IO/NIO
 
@@ -2210,6 +2214,7 @@
 + [40 个 SpringBoot 常用注解，让生产力爆表！](https://mp.weixin.qq.com/s/nJ2N7wTvyQc3wlXNmtIF7A)
 + [SpringBoot中的4种重试机制实现方案](https://mp.weixin.qq.com/s/IS9PeInuM0Ah5-EpCZ4BWg)
 + [SpringBoot3.4.3为何频繁检测出循环依赖？一招快速解决它！](https://mp.weixin.qq.com/s/gDTenprVMHq7-tA_0gFWIw)
++ [请一定记住！Spring Boot 执行初始化操作的 7 种王炸手段](https://mp.weixin.qq.com/s/RfMdTKXREeHwjfvkEPRt3Q)
 
 #### 版本特性
 
@@ -2641,6 +2646,8 @@
 + [王炸来袭！Controller 接口动态注册](https://mp.weixin.qq.com/s/dSZdsZsy6-BXImrphwvSQg)
 + [SpringBoot实战：深度剖析 Filter、Interceptor、AOP请求三剑客 | 高并发系统设计必修课](https://mp.weixin.qq.com/s/RigPFjGaAOA8uXKheqCt-g)
 + [惊呆了！Controller接口返回值支持17种逆天类型](https://mp.weixin.qq.com/s/KjLtSGR464Y9cxGuiGOfZA)
++ [Spring Boot 实现文件断点续传](https://mp.weixin.qq.com/s/53nFJw42vJO0LsxyCgZqHw)
++ [还在用 if 硬刚参数校验？这波操作土到掉渣！SpringBoot 高阶玩法直接封神](https://mp.weixin.qq.com/s/b0QQaivLVY_8ai03AsSv0w)
 
 ##### VUE
 
@@ -3032,6 +3039,7 @@
 + [在Spring Boot中解决JJWT依赖版本冲突的奇妙方法](https://mp.weixin.qq.com/s/8fMYrAeH-pFxcAjIl4zWQw)
 + [真强！使用JSON文件作为Spring Boot配置属性](https://mp.weixin.qq.com/s/TcWLDOULY3B7ra-CM_Aoow)
 + [Spring Boot 项目瘦身秘籍：用 Maven 分离依赖，让 JAR 包体积直降 90%！](https://mp.weixin.qq.com/s/_cCjPRbFG7or7iCEaIiBvA)
++ [SpringBoot中版本依赖的“陷阱”](https://mp.weixin.qq.com/s/L6Ap0PdOGZgi4Cg9QgX7kg)
 
 #### 集成三方
 

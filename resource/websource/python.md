@@ -9,6 +9,7 @@
 
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
++ [python入门系列三（基础知识）](https://mp.weixin.qq.com/s/TWG7vyhN-UZq_NHsDWLZJg)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
 + [Python基础：Python的运算符与表达式](https://mp.weixin.qq.com/s/4bIebG-KDVV37BGn0iD94g)
@@ -132,6 +133,7 @@
 + [Python编程精进：关于对象](https://mp.weixin.qq.com/s/ipkClL74gqWqVlvtz3AuqQ)
 + [Python面向对象设计原则：封装、继承与多态](https://mp.weixin.qq.com/s/lWNXPwo_4PF61Q1Ls0Zqyw)
 + [Python 面向对象编程（OOP）](https://mp.weixin.qq.com/s/jaS5Tp43Y9-MYdtf7EOviQ)
++ [python入门系列八（类）](https://mp.weixin.qq.com/s/Vf8n4T90Z6m4_TRHFVhpcQ)
 
 ### 核心库/模块
 
@@ -220,6 +222,7 @@
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
++ [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
 + [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
@@ -234,6 +237,8 @@
 + [Python编程精进：装饰器执行顺序](https://mp.weixin.qq.com/s/tUeA6HuHt2qRQb_kblsorA)
 + [Python基础：正则表达式基础](https://mp.weixin.qq.com/s/_lSUtiaDHnWL9VR-OdXFZw)
 + [5个案例快速熟悉Python正则表达式应用](https://mp.weixin.qq.com/s/Al_lAXqihTNtnJWN_hwW1w)
++ [python入门系列十七（正则表达式）](https://mp.weixin.qq.com/s/qU1q03xPX2eOplWcx6e8zw)
++ [Python编程精进：不一样的sorted](https://mp.weixin.qq.com/s/nuvUAxV8-lXCG_zjpTQ9IA)
 + [python进阶，一文搞定深拷贝和浅拷贝](https://mp.weixin.qq.com/s/OtUiWy0JEpzeREOQSm2-CA)
 + [Python 用 import 导入指定目录的文件函数](https://mp.weixin.qq.com/s/G0Vc15Q35T6KtZ3-zsxNIA)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
@@ -462,11 +467,14 @@
 + [python入门系列十二（操作数据库）](https://mp.weixin.qq.com/s/JCGYYx2SvjNLqDzcGK5o8Q)
 + [《Python奇遇记：玩转 MySQL——数据库操作与增删改查》](https://mp.weixin.qq.com/s/riJ810cn-ZLjVOpRzcBKxg)
 + [还在手动复制粘贴到崩溃？这20个Python代码让你提前下班](https://mp.weixin.qq.com/s/86hZ_SVeWLO1RkaEcM-89A)
++ [python入门系列十六（网络编程）](https://mp.weixin.qq.com/s/MGGeUuRESyOUt3xyIeflww)
 
 ## 新特性
 
 + [Python3.13rc2 自由线程性能实验](https://mp.weixin.qq.com/s/R-jU96Fa5fha8B10cvoUZg)
 + [Python-3.13.0 去掉 GIL 性能原地起飞](https://mp.weixin.qq.com/s/WOhFut0sJDuiY_AdTZON-Q)
++ [Python 3.14: Python 世界的一大步](https://mp.weixin.qq.com/s/4fAZkmTxXAvc8HiBP8uNyQ)
++ [Python 3.14 t-string 要来了，它与 f-string 有何不同？](https://mp.weixin.qq.com/s/Jy9KXJu6xysNFiLxMsicVA)
 
 ## 第三方库
 
@@ -490,7 +498,9 @@
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
++ [Python第三方库的王者：requests](https://mp.weixin.qq.com/s/hE7pd-WhVKreq1B1YxSb9A)
 + [masonite，一个超强的 Python 库！](https://mp.weixin.qq.com/s/5O9S2rtO4xcSLzty7Vjvig)
++ [python入门系列二十（peewee）](https://mp.weixin.qq.com/s/w60YXRv1nhQWRYUSCShLvw)
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)
 + [PyWavelets，世界上最牛逼的小波变换Python库！](https://mp.weixin.qq.com/s/Z3l9YuPtHY9XUgZKysKHRw)
 + [Python GUI开发者必备：ttkbootstrap 库推荐](https://mp.weixin.qq.com/s/3pAoU_LD-1IGTbmVRyhfEA)
@@ -788,6 +798,7 @@
 + [FastAPI：这个Web框架比Flask快10倍，Django快40倍！](https://mp.weixin.qq.com/s/4LsE4TfeF8IlYOgR09-uAw)
 + [FastAPI，一个高效的 Web 框架](https://mp.weixin.qq.com/s/Kn2IyVzZnew21hJRTAtNBg)
 + [Python编程精进：FastAPI中的依赖注入](https://mp.weixin.qq.com/s/_bq53WWrYzewnH29vYj-QA)
++ [Python编程精进：FastAPI最佳实践](https://mp.weixin.qq.com/s/J0SAkMl2_2b46L3rkuq-KQ)
 
 ### SQLAlchemy
 
@@ -854,3 +865,4 @@
 + [Python Web框架比较：10个流行的Web框架概览](https://mp.weixin.qq.com/s/m-yh86GcrJvNGvVLky7abw)
 + [为什么Python之父不做Leader不做管理](https://mp.weixin.qq.com/s/7Qk53ubG-ERH6lGNxkaWvg)
 + [Python面试高频算法题，这5个你必须掌握！](https://mp.weixin.qq.com/s/sRhp7jnUqt-rcWP4iB4pSQ)
++ [从零到精通的Python自学之路：一位老司机的肺腑之言](https://mp.weixin.qq.com/s/2FJ5cGCxH_nmd-k_6Eu_yg)

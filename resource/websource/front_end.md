@@ -173,6 +173,7 @@
 + [抛弃 try-catch，错误处理的新方案](https://mp.weixin.qq.com/s/pbf4OUHJtXOfU001xgB4aA)
 + [告别 for 循环嵌套：JavaScript 数组迭代的函数式妙用](https://mp.weixin.qq.com/s/dSUuyOguYJgR6YREyiGW-A)
 + [JavaScript时间处理（Temporal 对象）](https://mp.weixin.qq.com/s/kRc9_-JsWNDcJ1K2b_eLpw)
++ [什么是空值合并运算符[Nullish coalescing operator]（??）？](https://mp.weixin.qq.com/s/SPpRFYhooXOOUA_XZOlk7A)
 
 # 框架
 
@@ -309,6 +310,7 @@
 + [2025 前端 5 个顶级通用拖拽库](https://mp.weixin.qq.com/s/VAY6kcEv7EmvY8tUXLSIsg)
 + [二进制图片之间的互相转换 - Blob与base64以及File的转换](https://mp.weixin.qq.com/s/31VZFsV6U73XoQMRRl8yfA)
 + [一文彻底搞透文件上传](https://mp.weixin.qq.com/s/zCD2_hVEmBnCdBGmeiF34w)
++ [一文看懂 JSON.parse 背后的安全隐患与黑盒利用方法](https://mp.weixin.qq.com/s/YyTQjYK9xdp9h23yjTrAgQ)
 
 # 杂谈
 

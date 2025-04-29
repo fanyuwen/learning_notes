@@ -84,7 +84,7 @@
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)
 + 云原生容器监控工具 [prometheus](https://prometheus.io/)
 + 云原生构建工具 [buildpacks](https://buildpacks.io/)
-+ 云原生容器技术 <font style='color:red'>*</font>[docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/)
++ 云原生容器技术 <font style='color:red'>*</font>[docker](https://www.docker.com/) [podman](https://podman.io/) [containerd](https://containerd.io/) [rancherdesktop](https://rancherdesktop.io/)
 + 云原生包管理工具 [helm](https://helm.sh/)
 + 云原生服务网格 [istio](https://istio.io/)
 + 云可观测平台 [retina](https://retina.sh) [middleware](https://middleware.io) [hyperdx](https://www.hyperdx.io) [streamdal](https://streamdal.com)

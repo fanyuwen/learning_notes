@@ -41,6 +41,7 @@
 + [JavaScript解构赋值看这篇就够了](https://mp.weixin.qq.com/s/16hgTUEqFLGWyVTJz5-5dQ)
 + [JavaScript 运算符进阶指南：ES6+ 新特性深度解析与实践](https://mp.weixin.qq.com/s/6M8VG_6zQo4yJSbilz-Etg)
 + [深入理解 Promise，看看你会几道题](https://mp.weixin.qq.com/s/Rz5cpziu47_aBRvrsCFPBQ)
++ [一行代码搞定防抖节流：JavaScript新特性解析](https://mp.weixin.qq.com/s/NpZkkzFT7eMyVovDiwenpw)
 
 ### 底层
 
@@ -58,6 +59,7 @@
 + [学会这 12 个解构用法，代码量能省一半](https://mp.weixin.qq.com/s/xLK4PUtChGye1qYf77rluw)
 + [16 个 JavaScript 简写神技，提效 60%！](https://mp.weixin.qq.com/s/seAiN526gVGcOhvSKgW59g)
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
++ [抛弃 switch，让JavaScript代码更简洁](https://mp.weixin.qq.com/s/ehO8_NPwxEbnt75oojgH8w)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [现代JavaScript异步写法：不依赖await，构建高性能异步系统](https://mp.weixin.qq.com/s/9qPZUUPPU_-oT_DI5hrBhA)
 + [JavaScript 函数形参全面解析：5种声明方式与高级技巧](https://mp.weixin.qq.com/s/hn2Pt03NSlMIJXfWS7pMZg)

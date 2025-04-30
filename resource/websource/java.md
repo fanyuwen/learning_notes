@@ -281,6 +281,7 @@
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
++ [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -388,6 +389,7 @@
 + [利用 Function 打造高效断言神器，真优雅！](https://mp.weixin.qq.com/s/P7MPT2gz0rby2AluvOOr7g)
 + [Java开发过程中的痛点问题](https://mp.weixin.qq.com/s/u5rjVZWRYmF-jl3eUlu4Fg)
 + [瞧瞧别人家的日期处理，那叫一个优雅！](https://mp.weixin.qq.com/s/Xh8PFyh-VtL3DyKJSBAPtg)
++ [Java慎用可变对象(Mutable Object)作为Map的key](https://mp.weixin.qq.com/s/8oofR0hOaFDnGGUvoSJ20g)
 
 # 底层
 
@@ -772,6 +774,7 @@
 
 + [JDK性能分析工具使用命令记录](https://mp.weixin.qq.com/s/1aSELwAI-eYriWalmwlmZw)
 + [JVM性能监控及调优命令](https://mp.weixin.qq.com/s/4JojkqO_zNweKBLuQfkm1g)
++ [JVM参数调优，一文让你搞懂，再也不为应用操心了！](https://mp.weixin.qq.com/s/S9nAdu5lITlcldSscdPPyg)
 
 ### 内存
 
@@ -936,6 +939,7 @@
 + [Stream流的魔法合并术：Reduce规约全解析](https://mp.weixin.qq.com/s/w-_qMvVvEwMwpr9GXbt34w)
 + [Java真的不难（三十一）Stream流](https://mp.weixin.qq.com/s/vMV_VLjzyBY7uRB85MxjtA)
 + [Java真的不难（三十七）Stream流的进阶用法](https://mp.weixin.qq.com/s/RoYEPtDdlPlJHyvp40grkQ)
++ [Java真的不难（三十八）Stream流的高级用法](https://mp.weixin.qq.com/s/9Pm6e-yBjx8D3PxZ82cjVg)
 
 ### Date/time
 
@@ -1040,6 +1044,7 @@
 + [Java程序员的救星：CompletableFuture，从此和"等外卖"式编程说再见！](https://mp.weixin.qq.com/s/5LSR_3pyddkKU25M1raGlw)
 + [社招必问！FutureTask 底层原理+应用场景，带你一次学会](https://mp.weixin.qq.com/s/ZnGc4xMMyxCRhQfE73bCaw)
 + [理解CompletableFuture, 让异步编程变得像搭积木一样简单](https://mp.weixin.qq.com/s/MIYavFt8-tDbZqxYcmhTtg)
++ [Java异步编程：CompletableFuture深度解析与应用实践](https://mp.weixin.qq.com/s/afEfZB-F1ghMFILXudjb8Q)
 
 ### ThreadPool
 
@@ -1243,6 +1248,7 @@
 + [无需重启！Java动态编译+实时运行黑科技，让你的程序活起来！](https://mp.weixin.qq.com/s/prANSG6fgQJrryp4b9YAfw)
 + [【java面试100问】95 JDK动态代理为什么只能代理有接口的类？](https://mp.weixin.qq.com/s/ALap4I9rfvQxDkPcS_Db0Q)
 + [深入理解JDK动态代理](https://mp.weixin.qq.com/s/gmV9JAj4lxrEJGfk6tWnWQ)
++ [JDK的Proxy vs CGLIB的Enhancer：Java动态代理的两种武林秘籍](https://mp.weixin.qq.com/s/GFErJYiE2i7X21ImQYbSLw)
 + [Java 动态代理](https://mp.weixin.qq.com/s/Wvm1NebigHELrz_qgyNgvA)
 + [【Java面试100题突击】96 动态代理是如何实现的？JDK动态代理和CGLIB动态代理有什么区别？](https://mp.weixin.qq.com/s/L1DWYCPuov_10iOZE9BiYg)
 + [深入解析与实战 JavaCompiler API：动态编译Java源代码](https://mp.weixin.qq.com/s/UP7adg1d7_XsylQkq9anNg)
@@ -1508,6 +1514,7 @@
 + [Nacos 可观测性最佳实践](https://mp.weixin.qq.com/s/EN1a8S3c1N5zhiLDhJ6BUA)
 + [阿里面试这样问：Nacos配置中心交互模型是 push 还是 pull ？（原理+源码分析）](https://mp.weixin.qq.com/s/LdT3UR6zXCCN1ZW6IKXklw)
 + [学会 Nacos 的 长轮询 定时机制，有妙用！](https://mp.weixin.qq.com/s/xNef8T8KzyYFSkkTWfU-ow)
++ [Nacos 3.0 强势登场，真香！](https://mp.weixin.qq.com/s/H_RZMnqtKwxODfu3FmJoYQ)
 
 ## okhttp
 
@@ -1792,6 +1799,7 @@
 + [【Java面试100题突击】98 Spring MVC的控制器是不是单例模式？存在什么问题？如何解决？](https://mp.weixin.qq.com/s/Zqr8vCMAAF2zmXQTwtYtzQ)
 + [Java 面试经典之 Http 请求在 SpringMVC 中的处理](https://mp.weixin.qq.com/s/e3-wPDkWC10-DZ0VZTgXAA)
 + [社招面试杀手锏！Spring MVC到底是什么？小米亲测上岸经验分享！](https://mp.weixin.qq.com/s/2KlEPAtriQaOp7H5SYojUQ)
++ [99%的人都答错了！Spring MVC 控制器到底是不是单例？怎么破局？](https://mp.weixin.qq.com/s/DXaeLuZr_zC0hASmuvVSMg)
 
 ### concurrent
 
@@ -2661,6 +2669,7 @@
 + [惊呆了！Controller接口返回值支持17种逆天类型](https://mp.weixin.qq.com/s/KjLtSGR464Y9cxGuiGOfZA)
 + [Spring Boot 实现文件断点续传](https://mp.weixin.qq.com/s/53nFJw42vJO0LsxyCgZqHw)
 + [还在用 if 硬刚参数校验？这波操作土到掉渣！SpringBoot 高阶玩法直接封神](https://mp.weixin.qq.com/s/b0QQaivLVY_8ai03AsSv0w)
++ [Spring Boot文件上传5种玩法！@RequestPart最强大](https://mp.weixin.qq.com/s/TaS7Mgq6sRwme_LTUEdS6Q)
 
 ##### VUE
 

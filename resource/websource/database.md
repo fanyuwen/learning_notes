@@ -92,6 +92,7 @@
 + [SQL 入门 2：LIKE、正则、 ORDER BY 与LIMIT](https://mp.weixin.qq.com/s/anRW6pDwTZWxmKtUPajidA)
 + [SQL 入门 16：SQL 事务隔离级别与死锁解析（易懂）](https://mp.weixin.qq.com/s/-o-A6o9j1nQ0zElFIRO50A)
 + [SQL 入门 13：SQL 存储过程与函数：封装逻辑与参数处理](https://mp.weixin.qq.com/s/-UoEiE1z19Y15NqhBQCKhw)
++ [SQL窗口函数：排序分布聚合函数案例解析](https://mp.weixin.qq.com/s/KtuZIKchoUELPZg2WgVmEQ)
 
 # 本地数据库
 
@@ -482,6 +483,7 @@
 + [MySQL事务隔离级别：从脏读到幻读的全链路防御指南](https://mp.weixin.qq.com/s/d6pAqT9RuuFDS7mJkzi4Zg)
 + [一文讲清楚 MySQL 事务隔离级别和实现原理](https://mp.weixin.qq.com/s/2kW14QLbTI7fCbcuOun-dg)
 + [谈谈Mysql中事务ACID的原理吗?](https://mp.weixin.qq.com/s/vcX3EgC5nfftcBqB_AlE6A)
++ [MySQL事务隔离机制](https://mp.weixin.qq.com/s/apiNqZ0Ji2GiE8Ws7ouMxQ)
 
 #### 索引
 

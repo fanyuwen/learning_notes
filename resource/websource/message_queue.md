@@ -106,6 +106,8 @@
 + [揭秘Kafka高性能背后的黑科技：Varints变长编码如何让消息瘦身50%？](https://mp.weixin.qq.com/s/20Vxk-jtyBzLDdHnpFYHzA)
 + [Kafka 是如何保证消息顺序与高可用的？](https://mp.weixin.qq.com/s/bmZXiM7A5Q07rpMcOfJ1Ww)
 + [Kafka的日志段（Log Segment）滚动策略详解](https://mp.weixin.qq.com/s/kaQntK1e8QJKdTQGthUa5Q)
++ [Kafka 消息是如何存储的？深入 Kafka 的底层文件结构](https://mp.weixin.qq.com/s/16Zig5D50UBm9oYBYDcHJQ)
++ [Kafka 架构详解：Broker、Topic、Partition 有什么讲究？](https://mp.weixin.qq.com/s/g5xDJjbqvlJhOClRCzgiig)
 
 # ROCKETMQ
 
@@ -141,6 +143,7 @@
 + [Rocketmq文件存储](https://mp.weixin.qq.com/s/695YWnH_AWP4GkxysBGFHg)
 + [RocketMQ 消息积压千万级如何快速恢复 生产环境踩坑实录](https://mp.weixin.qq.com/s/gHNKN3-kLLnwvCyotT5_gA)
 + [Rocketmq的事务消息](https://mp.weixin.qq.com/s/Svz_g8CQxej_N4f8nASHiQ)
++ [RocketMQ事务消息：二阶段提交如何保证分布式事务的终极一致性？](https://mp.weixin.qq.com/s/KIUwsfB_sgvEXx6kpqx1_w)
 
 # RABBITMQ
 

@@ -198,6 +198,7 @@
 + [CPU 如何与 I/O 设备和内存进行通信](https://mp.weixin.qq.com/s/8eTLSr6GxuLDcZf6hlvBlQ)
 + [[CPU缓存#3]-MESI和内存屏障](https://mp.weixin.qq.com/s/JHghW-KXiJj6bB_TdfxFxA)
 + [深入理解CPU上下文切换、进程上下文、中断上下文](https://mp.weixin.qq.com/s/eEUqDOITcabd4Qgs__H4-g)
++ [一文看懂CPU cache的基本原理](https://mp.weixin.qq.com/s/b6mfFhQ1GsXEEvgDR3NPqQ)
 
 ### 并发
 

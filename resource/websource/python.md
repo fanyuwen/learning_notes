@@ -4,6 +4,7 @@
 
 + [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
 + [python基础合集](https://mp.weixin.qq.com/s/T93d5BUMqXS-0WPDTdVufA)
++ [Python 基础：变量与数据类型完全指南](https://mp.weixin.qq.com/s/bw81FarDYPZ-lNbzEkMugQ)
 
 ### 基础语法
 
@@ -169,6 +170,7 @@
 + [Python列表解析：10个让你代码更简洁的技巧](https://mp.weixin.qq.com/s/r8ZspJs5aZNlQDo-cQzRyw)
 + [45python re正则表达式](https://mp.weixin.qq.com/s/-HPFnF97V_7nQC8RpGqGPg)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
++ [Python入门教程21：os模块的示例用法](https://mp.weixin.qq.com/s/3gMUW61gzkFK9cyoolWeOQ)
 + [最好用的Python路径操作指南：玩转os.path模块](https://mp.weixin.qq.com/s/Rk1DgzxdKcbnBCqHyjhDng)
 + [探索 Python 的强大工具箱：itertools 库](https://mp.weixin.qq.com/s/eVC5Y3JuerB4UOwUQ_DWyg)
 + [如何用 Python Collections 模块轻松解决复杂问题](https://mp.weixin.qq.com/s/HIjn98bZmceAWLqZSAbKtw)
@@ -213,6 +215,7 @@
 + [解决Python多线程冲突：内存共享与队列应用详解](https://mp.weixin.qq.com/s/6sYF-OmTYkS8y_rtuwlbYw)
 + [Python生成器与协程的进阶使用](https://mp.weixin.qq.com/s/DrxJLRWFrdQT-3kqytwbLw)
 + [python入门系列十三（多线程）](https://mp.weixin.qq.com/s/1ZZ3GqLXwWouAEaI6eUuJQ)
++ [python中的多线程与多进程](https://mp.weixin.qq.com/s/oa1thmacOd4rFMUPyKO9LQ)
 
 ## 实践
 
@@ -784,6 +787,7 @@
 + [一文读懂Python项目文档自动化，从docstring到持续集成](https://mp.weixin.qq.com/s/FL6OxsrLhbgjq1kLpJ5qIA)
 + [Python代码静态分析工具的开发与应用](https://mp.weixin.qq.com/s/lLHm-_wqKa_5vWrbnd2FGA)
 + [【炸裂】Python后台任务Celery全面解析](https://mp.weixin.qq.com/s/6DGd1dYC-umIioGcxoFcGw)
++ [Python编程精进：实用的属性管理工具](https://mp.weixin.qq.com/s/9xuMGRmcz1kz5BBOZ1Zk1g)
 
 ## 框架
 

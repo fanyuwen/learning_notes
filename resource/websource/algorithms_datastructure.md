@@ -53,6 +53,8 @@
 + [大厂常考的8道链表算法题！](https://mp.weixin.qq.com/s/T-M6VrcSZvQ2LZKRZOvYcg)
 + [优先队列及其应用](https://mp.weixin.qq.com/s/erMgYPnZRWkWNgN_J7HIQA)
 + [图解布隆过滤器｜工作原理｜代码实现](https://mp.weixin.qq.com/s/N7XQiqaEVM1CWpI253ietg)
++ [栈的四种模型](https://mp.weixin.qq.com/s/BR8GBSc-wktcUZFCkgfBGg)
++ [缓存穿透的解决方式？—布隆过滤器](https://mp.weixin.qq.com/s/7p_3FpgvOZ98a28w-VLexg)
 
 ## 排序算法
 

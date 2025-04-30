@@ -21,6 +21,7 @@
 
 + [Kotlin 技术月报 | 2024 年 6 月](https://mp.weixin.qq.com/s/a6lAdmZX4rU0PA_IY4RX_Q)
 + [Kotlin 技术月报 | 2024 年 9 月](https://mp.weixin.qq.com/s/bxD0VZmThSzyITECFtSqCA)
++ [Kotlin 技术月报 | 2025 年 4 月](https://mp.weixin.qq.com/s/XFLTIFRUtr9dkoaxLzckPw)
 + [Kotlin K2 模式进入稳定状态 ｜ 官方博客](https://mp.weixin.qq.com/s/J5fqoQ-m4gG5YX5pmHmiPQ)
 + [推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 | 官方博客](https://mp.weixin.qq.com/s/T3qtxrwuMPpL5cQKmKJXtw)
 + [Kotlin 开发者现在可以在 Android Studio 中使用 JetBrains AI Assistant 了｜官方博客](https://mp.weixin.qq.com/s/PyMszlSle_Iyp2TjZdpW9w)

@@ -164,6 +164,7 @@
 + [【Linux学习】grep、sed、awk 三剑客实战](https://mp.weixin.qq.com/s/WImueSpyMkN5lGfVEMulpA)
 + [快速入门-Linux常用命令汇总](https://mp.weixin.qq.com/s/3CJDzP9Igv6RlKmRMPSwtg)
 + [Linux基础命令总结](https://mp.weixin.qq.com/s/w_kdx1LJuCCfakuOWse70g)
++ [关于nohup命令需要知道的那些事](https://mp.weixin.qq.com/s/EKDagPAv1a4UyJCr_EuGPw)
 
 ### 发行版信息
 

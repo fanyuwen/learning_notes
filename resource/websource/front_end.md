@@ -322,6 +322,7 @@
 + [一文彻底搞透文件上传](https://mp.weixin.qq.com/s/zCD2_hVEmBnCdBGmeiF34w)
 + [一文看懂 JSON.parse 背后的安全隐患与黑盒利用方法](https://mp.weixin.qq.com/s/YyTQjYK9xdp9h23yjTrAgQ)
 + [讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL](https://mp.weixin.qq.com/s/u44_9jZez7TI8gJqv_n79Q)
++ [JavaScript动态混淆技术：让代码“千变万化”，逻辑却始终如一](https://mp.weixin.qq.com/s/3jvddXapMh7J3RXajBrnsQ)
 
 # 杂谈
 

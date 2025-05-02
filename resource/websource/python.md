@@ -228,6 +228,7 @@
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
++ [Python教程——闭包](https://mp.weixin.qq.com/s/XSosHg0J6NtzOHEKenLk9w)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
 + [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
@@ -476,6 +477,7 @@
 + [python入门系列十六（网络编程）](https://mp.weixin.qq.com/s/MGGeUuRESyOUt3xyIeflww)
 + [全局唯一实例：详解 Python 单例模式及其实现方式](https://mp.weixin.qq.com/s/e84nD3XfnuqqKdBAfHBHzQ)
 + [python项目打包成安装包实现跨目录导入](https://mp.weixin.qq.com/s/nOAyICx9NmfYGALHEqO05Q)
++ [Python 链表面试题精讲：如何判断链表是否有环？如何找出环的入口节点？](https://mp.weixin.qq.com/s/GvRX42FmTP_BkE6EyCS1yA)
 
 ## 新特性
 

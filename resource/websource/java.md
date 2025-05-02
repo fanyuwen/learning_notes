@@ -131,6 +131,7 @@
 + [一文读懂 Java 泛型：从基础概念到高级用法全解析](https://mp.weixin.qq.com/s/1zPw9GKJlMLIyJMc1ahwfw)
 + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
 + [如何在Java程序中使用泛型](https://mp.weixin.qq.com/s/5-ujM0KFcDzNLGSgvR_QqA)
++ [Java 如何获取泛型的真实类型](https://mp.weixin.qq.com/s/xJSROLcKjMHrcJcnKl1iEw)
 
 ### 面向对象
 
@@ -280,9 +281,11 @@
 + [如何保证线程A，B，C 顺序执行？](https://mp.weixin.qq.com/s/BjKzyChvWhSehBy_z36qKQ)
 + [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
-+ [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
-+ [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
++ [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
++ [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
++ [Java真的不难（三十九）建造者模式](https://mp.weixin.qq.com/s/uWSwuuNU-PbYA5rpHv8zSQ)
++ [Java真的不难（四十一）原型设计模式及实践](https://mp.weixin.qq.com/s/RYM_tFravFnRs7DOkVTqWg)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -1684,6 +1687,8 @@
 + [大白话聊: Spring注册Bean的3种方式，别只用@Component了，@Import才是高手的秘密武器](https://mp.weixin.qq.com/s/EzKhb__2kgORbHNQ3RdSOw)
 + [一文掌握 Spring 的启动扩展点](https://mp.weixin.qq.com/s/_tRP_Vth2-l1Lxppar9XYQ)
 + [Spring EL表达式 抽象到极致的艺术品](https://mp.weixin.qq.com/s/ZmCg4McODqWNCxopNG9wVg)
++ [Spring中的Bean工厂工具类](https://mp.weixin.qq.com/s/w9FXPvgc7iHibcfxNcod9w)
++ [深入浅出Spring IoC与DI：设计思想、实现方式与反射技术详解](https://mp.weixin.qq.com/s/KL6DEo_12drSpwVs1SYeYA)
 
 #### 配置
 
@@ -1860,6 +1865,7 @@
 #### BATCH
 
 + [深入解析 Spring Batch：核心概念与架构设计助力高效批处理](https://mp.weixin.qq.com/s/N_5ZGDf1a4G8LxwF4hozXQ)
++ [搞懂 Spring Batch](https://mp.weixin.qq.com/s/B52m80_ra0MuJPKBZ2VYaA)
 
 #### TRANSACTION
 
@@ -2454,6 +2460,7 @@
 + [Spring Boot暴雷预警！@DefaultValue注解竟会导致参数绑定失效？](https://mp.weixin.qq.com/s/jdrZdKlgXP6cSRTHQsaQGA)
 + [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories？](https://mp.weixin.qq.com/s/fPTdbOWlGMPVMzlBXqMP-Q)
 + [Spring Boot 又一强大的内置功能，自动记录API请求/响应数据](https://mp.weixin.qq.com/s/Nj6-u2XKQXmKrVnmbZS5Rg)
++ [SpringBoot升级到3.4.3，Spring Security从5.x升级到6.x，原来有这么多坑，不踩不知道，一踩一个准](https://mp.weixin.qq.com/s/H_A-PyAHE9nxh_BMH3IwjA)
 
 #### 分布式
 
@@ -2681,6 +2688,8 @@
 + [Spring Boot 实现文件断点续传](https://mp.weixin.qq.com/s/53nFJw42vJO0LsxyCgZqHw)
 + [还在用 if 硬刚参数校验？这波操作土到掉渣！SpringBoot 高阶玩法直接封神](https://mp.weixin.qq.com/s/b0QQaivLVY_8ai03AsSv0w)
 + [Spring Boot文件上传5种玩法！@RequestPart最强大](https://mp.weixin.qq.com/s/TaS7Mgq6sRwme_LTUEdS6Q)
++ [@JsonFormat 只会转日期？这4个高能用法太强大了](https://mp.weixin.qq.com/s/3suVq-daf9QsCgJGiKsB8Q)
++ [SpringBoot中6种拦截器使用场景](https://mp.weixin.qq.com/s/2AiUd2tQeNXiSOcdqmZTCQ)
 
 ##### VUE
 
@@ -3179,6 +3188,7 @@
 + [Spring Boot + Lucene：构建轻量级毫秒级响应的全文检索引擎](https://mp.weixin.qq.com/s/xUDLvUtDeYBz1a1yaNNKuw)
 + [SpringBoot与OpenFeign整合，实现微服务之间的声明式API调用系统](https://mp.weixin.qq.com/s/R_gi2afL-MtrBEw5w0iSGw)
 + [SpringBoot 整合 Dubbo 轻松搞定服务远程互调](https://mp.weixin.qq.com/s/_EHcP0W-0CGzccKOR1J4GA)
++ [Spring Boot 3.x集成Redisson与常见问题处理](https://mp.weixin.qq.com/s/pqigqHKLRITC4Bq0kNdcXg)
 
 #### test
 

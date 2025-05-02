@@ -75,6 +75,7 @@
 + [字节挂你的方式真的很独特。。](https://mp.weixin.qq.com/s/3Kd1BwYStlOJoWiC23BROw)
 + [知乎热议：为什么多数程序员都不做个人独立开发？](https://mp.weixin.qq.com/s/lJkuVqv-cfWVe0E4VqFXiA)
 + [为什么很多IT失业者，找工作都挑三拣四的，宁愿天天在家玩，也不去月薪2万以下的小公司？](https://mp.weixin.qq.com/s/5Isl3SyJRS091eACSdiIRg)
++ [坑啊！前端倒计时有误差！让公司损失了几十万！](https://mp.weixin.qq.com/s/UQynfmyApRXaZ-V_ZuA0TQ)
 
 # 个人成长
 
@@ -426,6 +427,7 @@
 + [MarkdownMonster：让Markdown在Windows平台上编辑更轻松！](https://mp.weixin.qq.com/s/74Ek86NejjE7YllO0X76-Q)
 + [《半小时掌握Markdown》](https://mp.weixin.qq.com/s/gdS0i8wB07SGskkDGKyGWQ)
 + [熟悉Markdown常见用法，文理科笔记神器](https://mp.weixin.qq.com/s/pZmBQD-NrIHTLZKDJYsCEw)
++ [Markdown用法续集，轻松展示地铁路线图](https://mp.weixin.qq.com/s/3RSIYq0jml3CKEIa4m-J-Q)
 
 ### 学习资源
 

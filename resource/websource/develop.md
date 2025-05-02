@@ -751,6 +751,7 @@
 + [Git 命令小抄](https://mp.weixin.qq.com/s/Pzs1X0bpXUE1AzeMxyGl3g)
 + [Git常用命令行整理](https://mp.weixin.qq.com/s/kim-amBbJ5Wf_LOEovnJhQ)
 + [团队如何选择合适的 Git 分支策略？](https://my.oschina.net/libin/blog/8601278)
++ [Git规范](https://mp.weixin.qq.com/s/ZrMcfCJ6VgFSh48VrdKcIA)
 + [掌握这 20 个 Git 命令，成为团队协作高手！](https://mp.weixin.qq.com/s/Qq8hKjuelBd8t0byUhIP6g)
 + [Git 分支操作全解析：创建、切换、合并、删除及冲突解决](https://mp.weixin.qq.com/s/uIA_APfF8oBjAOPM1lgeLQ)
 + [Git 不要只会 pull 和 push，试试这 5 条提高效率的命令！](https://mp.weixin.qq.com/s/PmSkYQ8jPTyZ-jk8aBxO5Q)

@@ -108,6 +108,8 @@
 + [Kafka的日志段（Log Segment）滚动策略详解](https://mp.weixin.qq.com/s/kaQntK1e8QJKdTQGthUa5Q)
 + [Kafka 消息是如何存储的？深入 Kafka 的底层文件结构](https://mp.weixin.qq.com/s/16Zig5D50UBm9oYBYDcHJQ)
 + [Kafka 架构详解：Broker、Topic、Partition 有什么讲究？](https://mp.weixin.qq.com/s/g5xDJjbqvlJhOClRCzgiig)
++ [Kafka 延迟队列的 “时间轮”：高效调度的秘密武器](https://mp.weixin.qq.com/s/Cno_VCOHCkcvFyGr_FSn5g)
++ [Kafka是如何实现百万级高吞吐？](https://mp.weixin.qq.com/s/_vQOqRieYYEtsKIjPTCgpQ)
 
 # ROCKETMQ
 
@@ -158,6 +160,7 @@
 + [「RabbitMQ链路追踪实践：SkyWalking微服务链路监控实践07」](https://mp.weixin.qq.com/s/maKLkM-hNbdLpoSlKLi5Bw)
 + [RabbitMQ消息中间件多种模型下基于golang语言实现](https://mp.weixin.qq.com/s/2rB5NGG0KqoFq2u3fS8g8Q)
 + [RabbitMQ 路由（Routing）通讯方式详解](https://mp.weixin.qq.com/s/Sy12-dh8_-gD5qzcf3UcyQ)
++ [RabbitMQ的架构设计](https://mp.weixin.qq.com/s/PdyZ7L9lPsd_iNDuk72wNA)
 
 # PULSAR
 

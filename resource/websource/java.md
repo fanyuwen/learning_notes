@@ -24,6 +24,7 @@
 + [掌控程序流程：if-else、for、while，控制语句让你的代码更加灵动](https://mp.weixin.qq.com/s/kOUdutHuxI--SaJqxKo2Ow)
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
++ [Java基本功：玩转基本数据类型与字符串的互转技巧](https://mp.weixin.qq.com/s/sGaILBwiP_7hppztNXeb5A)
 + [一文掌握全部阻塞队列的使用](https://mp.weixin.qq.com/s/9tpvwLjkq0RP92zY9U9Kcw)
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 + [面试官：说说Java对象的创建过程](https://mp.weixin.qq.com/s/s2vy2a0blH6XOnX-3pgVvw)
@@ -285,6 +286,7 @@
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
++ [Java真的不难（四十四）适配器模式及在支付系统集成中的应用](https://mp.weixin.qq.com/s/giZLP7ks-x_7RED-XLyU6g)
 + [状态设计模式（State Pattern）在 Java 中的应用](https://mp.weixin.qq.com/s/-KU5OBc_ayjx2xUvlhjW8A)
 + [Java8中极其强悍的Function接口](https://mp.weixin.qq.com/s/GwCosMIfgpU2-v4OdW6lwQ)
 + [如何将两个同样大小的List组装成一个Map？](https://mp.weixin.qq.com/s/OF2ZT9Xf0A8b2EXMXxB60w)
@@ -324,6 +326,8 @@
 + [常用JAVA编码小技巧您用了多少？](https://mp.weixin.qq.com/s/fs6nVFJlhZ-TialrmbRj3g)
 + [面试官：如何在map循环中添加新元素](https://mp.weixin.qq.com/s/q8MV_CuUxGoa_-ZmT97P0w)
 + [对象拷贝容易被忽略的地方](https://mp.weixin.qq.com/s/rsN4UDo9KEkwMGoMJZYjeQ)
++ [Java 真的不难（十六）车辆信息管理系统](https://mp.weixin.qq.com/s/ARKu7gQWkkhv-NBUSMk17Q)
++ [自己实现一个BlockingQueue并优化](https://mp.weixin.qq.com/s/CaYfsamPaL5XWFDfi4v4IA)
 
 ## 代码质量
 
@@ -612,6 +616,7 @@
 + [Java当中的无锁编程实战讲解](https://mp.weixin.qq.com/s/l5ftzuXe-mVWTSijiNvCAw)
 + [一文搞懂高效并发编程：无锁编程的秘密与实战](https://mp.weixin.qq.com/s/2pmYT7F708m_MRS6Jm9xhQ)
 + [Java真的不难（二十八）多线程（二）](https://mp.weixin.qq.com/s/jk5sZ1cSyAjlOcEGBXLJIw)
++ [面试练习 | Java线程状态及其转换条件是什么？](https://mp.weixin.qq.com/s/85BNWB65uMJxg2p6V8TLDw)
 
 #### 线程池
 
@@ -1045,6 +1050,7 @@
 + [社招必问！FutureTask 底层原理+应用场景，带你一次学会](https://mp.weixin.qq.com/s/ZnGc4xMMyxCRhQfE73bCaw)
 + [理解CompletableFuture, 让异步编程变得像搭积木一样简单](https://mp.weixin.qq.com/s/MIYavFt8-tDbZqxYcmhTtg)
 + [Java异步编程：CompletableFuture深度解析与应用实践](https://mp.weixin.qq.com/s/afEfZB-F1ghMFILXudjb8Q)
++ [面试练习 | 解释Java中Future和CompletableFuture的区别](https://mp.weixin.qq.com/s/XioKMQKTMs2ofvdQwgq9eA)
 
 ### ThreadPool
 
@@ -1341,6 +1347,7 @@
 
 + [Dubbo 超时设置与动态调整解决方案](https://mp.weixin.qq.com/s/f0RlEFmyG7V0-F8j9vIyjQ)
 + [dubbo高级特性介绍](https://mp.weixin.qq.com/s/2QnmvqpiJ0Uvwq4pWeNKcA)
++ [dubbo分组聚合功能解锁“数据聚合”场景](https://mp.weixin.qq.com/s/ZMk422O-Zx054HpLaGOK4A)
 
 ## eureka
 
@@ -1676,6 +1683,7 @@
 + [2025最新Spring依赖注入5种方式](https://mp.weixin.qq.com/s/piMLCYvImF1zPstXmSqqWQ)
 + [大白话聊: Spring注册Bean的3种方式，别只用@Component了，@Import才是高手的秘密武器](https://mp.weixin.qq.com/s/EzKhb__2kgORbHNQ3RdSOw)
 + [一文掌握 Spring 的启动扩展点](https://mp.weixin.qq.com/s/_tRP_Vth2-l1Lxppar9XYQ)
++ [Spring EL表达式 抽象到极致的艺术品](https://mp.weixin.qq.com/s/ZmCg4McODqWNCxopNG9wVg)
 
 #### 配置
 
@@ -1834,6 +1842,7 @@
 + [Spring Security + OAuth2.0 搭建高效认证与资源服务架构](https://mp.weixin.qq.com/s/T6RfWYcHrB0FSuoYuy3M4Q)
 + [个性化认证！Spring Security 轻松扩展登录字段](https://mp.weixin.qq.com/s/BeKrgF1u6Al9JqgzI-IU7Q)
 + [全方位保护！Spring Security 过滤器为你的应用筑起安全防线--1](https://mp.weixin.qq.com/s/NB4eigfUHAm9HMmtCj8fGw)
++ [Spring Security](https://mp.weixin.qq.com/s/eRFz3LV8WKHShBNSIC9clg)
 
 ### data
 
@@ -2236,6 +2245,8 @@
 + [SpringBoot3.4.3为何频繁检测出循环依赖？一招快速解决它！](https://mp.weixin.qq.com/s/gDTenprVMHq7-tA_0gFWIw)
 + [请一定记住！Spring Boot 执行初始化操作的 7 种王炸手段](https://mp.weixin.qq.com/s/RfMdTKXREeHwjfvkEPRt3Q)
 + [SpringBoot中3种内容协商策略实现](https://mp.weixin.qq.com/s/6oULC2J6vdqhdL4kSeqbqw)
++ [SpringBoot中内置的49个常用工具类](https://mp.weixin.qq.com/s/paVFI3OhV07yT_pmYOhtqA)
++ [Spring Boot 神奇的2个类！动态方法查找调用](https://mp.weixin.qq.com/s/X75tZBDjNrKIEx62ofQAog)
 
 #### 版本特性
 
@@ -2892,6 +2903,7 @@
 + [关于Spring AOP的两个高级功能你用过吗？](https://mp.weixin.qq.com/s/l9SkTpOdK5EBsUeJT4aVdw)
 + [【血泪教训】SpringBoot AOP失效案发现场：我排查了全网代码，却败给了自己的方法调用！](https://mp.weixin.qq.com/s/chervNtqc5-E7BBDnyX2cA)
 + [打破限制！基于 AspectJ 的 Spring AOP 增强：final/static/private 方法全支持](https://mp.weixin.qq.com/s/45czaLjzrFRxuBhEIosSNQ)
++ [TargetSource炸场！Spring AOP动态换“靶”超神！](https://mp.weixin.qq.com/s/Z87B1__C8HaynNAz-5o1vw)
 
 #### SPI
 
@@ -3386,6 +3398,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
++ [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)
 + [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)
 + [聊聊四种实时通信技术：短轮询、长轮询、WebSocket 和 SSE](https://mp.weixin.qq.com/s/NIACuNgHtSFgKHc7T1G3Wg)
 + [详细讲解一下高性能设计里面的异步处理机制](https://mp.weixin.qq.com/s/t-dLXwavKK7KNurhzU_puA)

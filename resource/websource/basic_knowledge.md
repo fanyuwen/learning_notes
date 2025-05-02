@@ -175,6 +175,8 @@
 
 # 计算机基础知识
 
++ [计算机组成原理](https://mp.weixin.qq.com/s/J0EITMyEJNQeeBhmoKh4EA)
+
 ## CPU
 
 + [CPU眼里的：函数调用 | 返回](https://mp.weixin.qq.com/s/dJw7UGxBbylNvQ4mzHjuEg)

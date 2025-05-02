@@ -37,6 +37,7 @@
 + [SwissTable：高性能哈希表实现](https://mp.weixin.qq.com/s/0qjuRnK6ql7uKKmKKT1OrQ)
 + [Go 语言常见错误——代码及工程组织](https://mp.weixin.qq.com/s/nKfpr-bu9Mlp3AW7xvMzag)
 + [性能比拼: Go vs Bun](https://mp.weixin.qq.com/s/hRQVITl9uV9q6xokEYZw1g)
++ [Go的简洁神话？转Go前你需要知道的5个“真相”](https://mp.weixin.qq.com/s/H15i1XKRx7hcQiyAO6VUng)
 
 # 库
 

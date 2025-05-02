@@ -292,6 +292,7 @@
 + [图解分布式共识算法 Raft（领导者选举）](https://mp.weixin.qq.com/s/rnW-Egg4NOOKc5P_G-EQew)
 + [分布式一致性算法——Paxos](https://mp.weixin.qq.com/s/1OgeHkWEOFkfiy8uCta_Fw)
 + [为什么Raft算法是分布式系统的首选？](https://mp.weixin.qq.com/s/DVEwMui71GdIwZpV9ZsJow)
++ [一致性协议Raft与Kafka中的KRaft](https://mp.weixin.qq.com/s/bQf-Zz8re6kVQCcmcB3Onw)
 
 # 组件设计
 

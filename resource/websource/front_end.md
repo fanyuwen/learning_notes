@@ -183,6 +183,7 @@
 + [Symbol 的用处，远远超乎你们的想象！！！](https://mp.weixin.qq.com/s/cUotv0pXfF5ogO1uXpOQpQ)
 + [2025 年 Object 和 Map 如何选择？](https://mp.weixin.qq.com/s/Ia7byLHAVsHtPbzuGz9JDg)
 + [for...in 循环的坑，别再用它遍历 JavaScript 数组了！](https://mp.weixin.qq.com/s/k9FK-sj7XmXfir0JwcLLuQ)
++ [8种超实用的JavaScript错误处理方案](https://mp.weixin.qq.com/s/a1BE37Vws1aSBy9tgWCpEA)
 
 # 框架
 

@@ -109,6 +109,7 @@
 + [通俗解释python的实例方法、静态方法、类方法，终于搞懂了](https://mp.weixin.qq.com/s/tKlnrkJPm5BrlTs2k8jBYg)
 + [几分钟了解Python的类方法](https://mp.weixin.qq.com/s/8zx1-6c-cjTAfWe2GQO3IQ)
 + [告别冗余代码！这 20 个 Python 内置函数让你的编程更优雅高效](https://mp.weixin.qq.com/s/Cu0Z9NTo3Nz2DD3IQ-808g)
++ [一起来看看Python中的高阶函数](https://mp.weixin.qq.com/s/PnL7Ys_x8B8WvDi_jfzmMg)
 
 ### 面向对象
 
@@ -239,6 +240,7 @@
 + [Python编程精进：迭代器揭秘](https://mp.weixin.qq.com/s/xn3iohuzHGE_v6W9-itkLA)
 + [Python编程精进：盘点10个高级概念](https://mp.weixin.qq.com/s/aSigb1LW-pPtQqnnF3zPag)
 + [Python编程精进：装饰器执行顺序](https://mp.weixin.qq.com/s/tUeA6HuHt2qRQb_kblsorA)
++ [Python教程——装饰器](https://mp.weixin.qq.com/s/0JS_TCaXlnuWcpCCJRHEyQ)
 + [Python基础：正则表达式基础](https://mp.weixin.qq.com/s/_lSUtiaDHnWL9VR-OdXFZw)
 + [5个案例快速熟悉Python正则表达式应用](https://mp.weixin.qq.com/s/Al_lAXqihTNtnJWN_hwW1w)
 + [python入门系列十七（正则表达式）](https://mp.weixin.qq.com/s/qU1q03xPX2eOplWcx6e8zw)
@@ -473,6 +475,7 @@
 + [还在手动复制粘贴到崩溃？这20个Python代码让你提前下班](https://mp.weixin.qq.com/s/86hZ_SVeWLO1RkaEcM-89A)
 + [python入门系列十六（网络编程）](https://mp.weixin.qq.com/s/MGGeUuRESyOUt3xyIeflww)
 + [全局唯一实例：详解 Python 单例模式及其实现方式](https://mp.weixin.qq.com/s/e84nD3XfnuqqKdBAfHBHzQ)
++ [python项目打包成安装包实现跨目录导入](https://mp.weixin.qq.com/s/nOAyICx9NmfYGALHEqO05Q)
 
 ## 新特性
 
@@ -788,6 +791,7 @@
 + [Python代码静态分析工具的开发与应用](https://mp.weixin.qq.com/s/lLHm-_wqKa_5vWrbnd2FGA)
 + [【炸裂】Python后台任务Celery全面解析](https://mp.weixin.qq.com/s/6DGd1dYC-umIioGcxoFcGw)
 + [Python编程精进：实用的属性管理工具](https://mp.weixin.qq.com/s/9xuMGRmcz1kz5BBOZ1Zk1g)
++ [python入门系列二十一（python执行js脚本，助力平台产品实现脚本化能力）](https://mp.weixin.qq.com/s/Ii1FupIMSCrLVfPhfztjNQ)
 
 ## 框架
 

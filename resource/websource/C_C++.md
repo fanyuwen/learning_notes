@@ -145,6 +145,7 @@
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
 + [（2.12）C语言编程入门 -- 函数进阶 - 声明与调用](https://mp.weixin.qq.com/s/MJ7ufgYWpIM11vPqDz5aKQ)
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
++ [Mutex的实现原理](https://mp.weixin.qq.com/s/gyAJSGoJ7WB8dsB1X2IS0g)
 + [漫画 | 为什么C语言永不过时？](https://mp.weixin.qq.com/s/8KoL0Eoi2j4ANlxNEpGfBA)
 + [C语言学习指南：这些核心知识点你掌握了吗？](https://mp.weixin.qq.com/s/h5xCE0XOZrV5i8f7o8qjlQ)
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)

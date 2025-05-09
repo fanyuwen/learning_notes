@@ -217,6 +217,7 @@
 + [Python生成器与协程的进阶使用](https://mp.weixin.qq.com/s/DrxJLRWFrdQT-3kqytwbLw)
 + [python入门系列十三（多线程）](https://mp.weixin.qq.com/s/1ZZ3GqLXwWouAEaI6eUuJQ)
 + [python中的多线程与多进程](https://mp.weixin.qq.com/s/oa1thmacOd4rFMUPyKO9LQ)
++ [python入门系列十五（asyncio）](https://mp.weixin.qq.com/s/Am1tRhv-bKbqg1EZ2thiyA)
 
 ## 实践
 
@@ -225,7 +226,9 @@
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
++ [Python文件读写：tell和seek的用法](https://mp.weixin.qq.com/s/4-2teCwTK_TNRd8RwpXeEA)
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
++ [如何优雅地处理超大文件？用流式 + yield，轻松应对巨型日志！](https://mp.weixin.qq.com/s/eHSk8MMb1On-UE99ZaFN9g)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
 + [Python教程——闭包](https://mp.weixin.qq.com/s/XSosHg0J6NtzOHEKenLk9w)

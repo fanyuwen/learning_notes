@@ -82,6 +82,7 @@
 + [逆向Java反序列化：从漏洞挖掘者的视角拆解CC1链的发现与构造](https://mp.weixin.qq.com/s/J8Xv74gc6RJ9VCJQGhz7aw)
 + [JavaSec-Java反序列化基础篇-反序列化概念与利用](https://mp.weixin.qq.com/s/yfi-FZ2iJYRi394I64RF9Q)
 + [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
++ [Java 真的不难（十三） String类](https://mp.weixin.qq.com/s/CdaEf83Qt4gcpuWBX8B6Yw)
 
 ### 方法/函数
 
@@ -100,6 +101,7 @@
 + [Java异常处理：try-catch-finally的正确打开方式](https://mp.weixin.qq.com/s/iV8AyLg7oHD92DIXWgvzBQ)
 + [我们来捋一捋JAVA的异常](https://mp.weixin.qq.com/s/n8IQtygGfXEAJovtyCheVQ)
 + [Java异常处理中的throws关键字：何时用？怎么用？用错了会怎样？](https://mp.weixin.qq.com/s/87rAgIQp4gqiYylAI3pBUQ)
++ [Java真的不难（五十一）10种常见的异常及解决办法（避坑指南）](https://mp.weixin.qq.com/s/7O5Ktd2bPlaTaxVooi6cig)
 
 ### 枚举
 
@@ -331,6 +333,7 @@
 + [对象拷贝容易被忽略的地方](https://mp.weixin.qq.com/s/rsN4UDo9KEkwMGoMJZYjeQ)
 + [Java 真的不难（十六）车辆信息管理系统](https://mp.weixin.qq.com/s/ARKu7gQWkkhv-NBUSMk17Q)
 + [自己实现一个BlockingQueue并优化](https://mp.weixin.qq.com/s/CaYfsamPaL5XWFDfi4v4IA)
++ [String之拼接小技巧](https://mp.weixin.qq.com/s/ec-57rnpZpeiGqmT9r-pBQ)
 
 ## 代码质量
 
@@ -397,6 +400,7 @@
 + [Java开发过程中的痛点问题](https://mp.weixin.qq.com/s/u5rjVZWRYmF-jl3eUlu4Fg)
 + [瞧瞧别人家的日期处理，那叫一个优雅！](https://mp.weixin.qq.com/s/Xh8PFyh-VtL3DyKJSBAPtg)
 + [Java慎用可变对象(Mutable Object)作为Map的key](https://mp.weixin.qq.com/s/8oofR0hOaFDnGGUvoSJ20g)
++ [为什么阿里不推荐使用 keySet() 遍历HashMap？](https://mp.weixin.qq.com/s/cTC5we6-X4LgI4ypmZ3GTw)
 
 # 底层
 
@@ -517,6 +521,7 @@
 + [Java 反射和 new 效率对比！实测结果让所有程序员惊掉下巴](https://mp.weixin.qq.com/s/svYFtuChRQh8-V6Yr0jJEQ)
 + [反射和方法句柄，哪个更高效？](https://mp.weixin.qq.com/s/4WF8i71MyKMJ61Ml0Tv19A)
 + [Java真的不难（四十）反射机制深度分析【实际业务案例】](https://mp.weixin.qq.com/s/7LJEVdWKsFiH5lYPgWgFOg)
++ [Java通过反射访问构造方法](https://mp.weixin.qq.com/s/-etSz7U0EzjkFXAlTGpa8Q)
 
 ### 并发/多线程
 
@@ -647,6 +652,7 @@
 + [万字图解线程池ThreadPoolExecutor、ForkJoinPool、定时调度 STPE 使用场景和原理](https://mp.weixin.qq.com/s/nszV4x-gqy7NNl8AIQnTZw)
 + [「Java 并发编程」详解线程池实现原理及常见问题(核心线程=正式工，非核心线程=合同工)](https://mp.weixin.qq.com/s/bICo0i4GhoHspq9wkCnqfg)
 + [Fork/Join框架，分而治之的并行计算功能，大多数人都没有用过，本文带你了解一下](https://mp.weixin.qq.com/s/suNcZ8ODxtRO--qsFrjadA)
++ [如何合理的设置线程池参数：Oracle官方没有参考值，这本书给出了建议](https://mp.weixin.qq.com/s/XYnr8W7CTGTJk6cqg13keQ)
 
 #### 锁
 
@@ -1281,6 +1287,7 @@
 + [深度清理Maven依赖：实战经验与避坑指南](https://mp.weixin.qq.com/s/5FtQYGKj_d7HpTgofMNopA)
 + [简化Maven项目依赖：优雅去除未使用Jar包](https://mp.weixin.qq.com/s/NZuEIbuekjwj3cbdNLspcA)
 + [pom文件中框架的先后顺序对 Spring Boot 项目的启动有没有影响，是否需要注意引入框架的顺序？](https://mp.weixin.qq.com/s/Es4F2yCL321wtthRXagLgQ)
++ [Maven实战](https://mp.weixin.qq.com/s/ErtWrRNzjJcR2ettUhAxsQ)
 
 # 功能
 
@@ -2913,6 +2920,7 @@
 + [【血泪教训】SpringBoot AOP失效案发现场：我排查了全网代码，却败给了自己的方法调用！](https://mp.weixin.qq.com/s/chervNtqc5-E7BBDnyX2cA)
 + [打破限制！基于 AspectJ 的 Spring AOP 增强：final/static/private 方法全支持](https://mp.weixin.qq.com/s/45czaLjzrFRxuBhEIosSNQ)
 + [TargetSource炸场！Spring AOP动态换“靶”超神！](https://mp.weixin.qq.com/s/Z87B1__C8HaynNAz-5o1vw)
++ [SpringBoot中4种AOP实战应用场景](https://mp.weixin.qq.com/s/oEEHkPYfWdC8n1gg0niBSA)
 
 #### SPI
 

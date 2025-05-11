@@ -3397,6 +3397,7 @@
 + [拒绝if-else！小而美的规则引擎 Easy Rules 真不错！](https://mp.weixin.qq.com/s/F7aJIC16qIiS4ZZMCtFxLA)
 + [别再把 JSF 当 HTTP：远程调用不背 “包” 袱！](https://my.oschina.net/u/4090830/blog/18125746)
 + [OpenCSV太炸裂了，一行代码搞定 CSV 读写](https://mp.weixin.qq.com/s/SkMA5qXl0_hO27HegngPfA)
++ [【Ratis】SlideWindow滑动窗口机制](https://mp.weixin.qq.com/s/lLC-vLnH569g4o1KNeUEwQ)
 
 # 其它环境
 

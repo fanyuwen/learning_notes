@@ -23,6 +23,7 @@
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
++ [探秘C++虚函数表：从内存深处解析多态的奥秘](https://mp.weixin.qq.com/s/jEGNey3zUOXeTz_8N-pIIw)
 + [C++的信号处理优先级](https://mp.weixin.qq.com/s/NmkMqAj3MXA09UQZQ9Rvwg)
 + [C++_Mutable](https://mp.weixin.qq.com/s/CXprG7tcX1M3MR9X_tpLYQ)
 + [浅谈std::promise的异常情况](https://mp.weixin.qq.com/s/38Jaf6q8LTBCh0TGguIrWw)

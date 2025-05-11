@@ -110,6 +110,9 @@
 + [Kafka 架构详解：Broker、Topic、Partition 有什么讲究？](https://mp.weixin.qq.com/s/g5xDJjbqvlJhOClRCzgiig)
 + [Kafka 延迟队列的 “时间轮”：高效调度的秘密武器](https://mp.weixin.qq.com/s/Cno_VCOHCkcvFyGr_FSn5g)
 + [Kafka是如何实现百万级高吞吐？](https://mp.weixin.qq.com/s/_vQOqRieYYEtsKIjPTCgpQ)
++ [Kafka 性能调优指南：Producer与Broker篇](https://mp.weixin.qq.com/s/hrrLj8rnEchddLUhedQJfg)
++ [Kafka 消费者组机制详解：负载均衡与消费状态管理](https://mp.weixin.qq.com/s/rwslD5HCqkoLDJiIlj-4Sw)
++ [Kafka 中的幂等性与事务机制，能解决消息重复吗？](https://mp.weixin.qq.com/s/P0uH94CWvGgncpLypjZduw)
 
 # ROCKETMQ
 

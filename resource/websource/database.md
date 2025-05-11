@@ -466,6 +466,7 @@
 + [阿里面试：MySQL悲观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/Dm7xBmgrj2zvuVHL9nqsSg)
 + [Java开发者必备：深度剖析MySQL锁机制与实战避坑指南](https://mp.weixin.qq.com/s/Rj1-L7bK1yi4-QHDU_GfRw)
 + [MySQL锁概览](https://mp.weixin.qq.com/s/4NYcBo5LvTSU4RCamS67Hg)
++ [MySQL 死锁怎么排查？从 information_schema 到 SHOW ENGINE INNODB STATUS](https://mp.weixin.qq.com/s/BQur3A63NdP-DTX6Jhb1CQ)
 
 #### 事务
 

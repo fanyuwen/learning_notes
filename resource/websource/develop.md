@@ -425,6 +425,7 @@
 + [定时任务（JOB）的几种解决方案，你知道几种？还在使用Timer就过时了。](https://mp.weixin.qq.com/s/jFjQb3XoY58Vuh3NKvuGpA)
 + [关于支付超时取消，你有几种方案？本文详细讲解一下](https://mp.weixin.qq.com/s/8YloUFp_g4yEQJ7j8TF-Wg)
 + [定时任务6种方式](https://mp.weixin.qq.com/s/nWJ6KSfHLel1F8lfl14scw)
++ [订单 30 分钟未支付就自动取消？这 5 个狠招帮你搞定！](https://mp.weixin.qq.com/s/DysVYPwdau5Evf_AinsyKg)
 
 ### 重试
 

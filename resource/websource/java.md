@@ -288,6 +288,8 @@
 + [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
 + [Java真的不难（三十九）建造者模式](https://mp.weixin.qq.com/s/uWSwuuNU-PbYA5rpHv8zSQ)
 + [Java真的不难（四十一）原型设计模式及实践](https://mp.weixin.qq.com/s/RYM_tFravFnRs7DOkVTqWg)
++ [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
++ [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -334,6 +336,7 @@
 + [Java 真的不难（十六）车辆信息管理系统](https://mp.weixin.qq.com/s/ARKu7gQWkkhv-NBUSMk17Q)
 + [自己实现一个BlockingQueue并优化](https://mp.weixin.qq.com/s/CaYfsamPaL5XWFDfi4v4IA)
 + [String之拼接小技巧](https://mp.weixin.qq.com/s/ec-57rnpZpeiGqmT9r-pBQ)
++ [Java真的不难（五十二）Base64的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/fEa-04_oN9EAwXchVARaJg)
 
 ## 代码质量
 
@@ -522,11 +525,13 @@
 + [反射和方法句柄，哪个更高效？](https://mp.weixin.qq.com/s/4WF8i71MyKMJ61Ml0Tv19A)
 + [Java真的不难（四十）反射机制深度分析【实际业务案例】](https://mp.weixin.qq.com/s/7LJEVdWKsFiH5lYPgWgFOg)
 + [Java通过反射访问构造方法](https://mp.weixin.qq.com/s/-etSz7U0EzjkFXAlTGpa8Q)
++ [Java 反射机制到底是啥？小白入门指南+ 安全性分析](https://mp.weixin.qq.com/s/KXNseug9ZG-xw-GakVXgFw)
 
 ### 并发/多线程
 
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
 + [并发编程 - 线程浅试](https://mp.weixin.qq.com/s/mby0p8lVgHCM0VNZWm34bw)
++ [Java并发探索--上篇](https://mp.weixin.qq.com/s/uHKXDE7PKsQHo_TGGtmBrQ)
 + [继续来聊高并发的本质！免费的就是香！](https://mp.weixin.qq.com/s/ruGzcM4PdpzpxRPEUqjJCQ)
 + [阿里一面：Java 中如何终止一个正在运行的线程](https://mp.weixin.qq.com/s/pWbFDI3h5BJTttu6aTch5g)
 + [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
@@ -654,6 +659,9 @@
 + [「Java 并发编程」详解线程池实现原理及常见问题(核心线程=正式工，非核心线程=合同工)](https://mp.weixin.qq.com/s/bICo0i4GhoHspq9wkCnqfg)
 + [Fork/Join框架，分而治之的并行计算功能，大多数人都没有用过，本文带你了解一下](https://mp.weixin.qq.com/s/suNcZ8ODxtRO--qsFrjadA)
 + [如何合理的设置线程池参数：Oracle官方没有参考值，这本书给出了建议](https://mp.weixin.qq.com/s/XYnr8W7CTGTJk6cqg13keQ)
++ [Java的Fork/Join框架](https://mp.weixin.qq.com/s/U3RHl2ch2JB7i5l3zlSQ-g)
++ [Java线程池知识点小结](https://mp.weixin.qq.com/s/JHgRDz7qGAiqpHq5ToL85Q)
++ [Java 线程池详解，图文并茂，我看还有谁不会？！](https://mp.weixin.qq.com/s/f2ZO-Drd6MbGXS03azHCvg)
 
 #### 锁
 
@@ -711,6 +719,7 @@
 + [并发编程高频八股——synchronized关键字](https://mp.weixin.qq.com/s/IbjOsb0INC31dIny4IRuFQ)
 + [面试练习 | 请简述synchronized和ReentrantLock的区别](https://mp.weixin.qq.com/s/ZjDYnSkOO1wplpAO4QFkuQ)
 + [面试练习 | Java中synchronized关键字的工作原理是什么？](https://mp.weixin.qq.com/s/HNLv9LwW2uD0XY5S4dFUCQ)
++ [Java并发锁机制系列（一）：Synchronized 的原理、实现与问题](https://mp.weixin.qq.com/s/kyLVLA4_WEO_MJwl4cInLg)
 
 #### volatile
 
@@ -836,6 +845,7 @@
 + [对象居然可以在栈上分配？答案是可以的](https://mp.weixin.qq.com/s/6rEAczTTf3-hoOjXY6E76A)
 + [为什么Java要把内存分成几个区？看完这篇你就懂了！](https://mp.weixin.qq.com/s/m3HDOrTVKu7ODdtjK-KnpA)
 + [面试被问：OOM类型有哪些？怎么答？](https://mp.weixin.qq.com/s/JwQVTwRJx6Y_HDRKDvFL3Q)
++ [面试练习 | 解释Java内存模型（JMM）及其对多线程编程的重要性。](https://mp.weixin.qq.com/s/UBWY-i4nKgy9C0coNTA0eQ)
 
 ### 类加载
 
@@ -1642,6 +1652,7 @@
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
 + [Spring（一）手把手实现你的第一个 Spring 应用](https://mp.weixin.qq.com/s/taghHoJPoIaKj80ULSfzag)
 + [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/daKijLOpH8L_zTXUf1mC_g)
++ [Spring-Bean生命周期](https://mp.weixin.qq.com/s/7Au6rqyoIEmDc4CDsRnedg)
 + [考察你对 Spring 基本功掌握能力](https://mp.weixin.qq.com/s/cgNgPGSEU9YgXxy7uTAqow)
 + [Spring学习笔记 | 控制反转IoC与依赖注入DI](https://mp.weixin.qq.com/s/fwiO1DNrcmCQlSXszqBU8Q)
 + [spring框架IOC和AOP源码解析](https://mp.weixin.qq.com/s/jbswKLT7RR8E1I-41NqXGQ)
@@ -1653,6 +1664,7 @@
 + [面试官：Spring 为什么不支持 static 字段的注入？](https://mp.weixin.qq.com/s/zEUBzpV3G6c_1QY8jMXGFQ)
 + [Spring IoC和AoP重点总结](https://mp.weixin.qq.com/s/7uiNuOyxinwIT-7Fg0dc9g)
 + [Spring循环依赖，一个注解搞定！](https://mp.weixin.qq.com/s/bYD-uBRYNW1evc502EYuVg)
++ [Spring循环依赖](https://mp.weixin.qq.com/s/JYgH7A-D7N_ONf890C7T8w)
 + [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/TGsjeOEwmjVSuOX3LWR90Q)
 + [你知道Spring一共有几种注入方式么？](https://mp.weixin.qq.com/s/8jMhUHPCeBX5VGBlB67qAg)
 + [Java 反射机制与Spring框架的那点事](https://mp.weixin.qq.com/s/6LzVNUn4yG8yVnT_nD_SEw)
@@ -1697,12 +1709,14 @@
 + [Spring EL表达式 抽象到极致的艺术品](https://mp.weixin.qq.com/s/ZmCg4McODqWNCxopNG9wVg)
 + [Spring中的Bean工厂工具类](https://mp.weixin.qq.com/s/w9FXPvgc7iHibcfxNcod9w)
 + [深入浅出Spring IoC与DI：设计思想、实现方式与反射技术详解](https://mp.weixin.qq.com/s/KL6DEo_12drSpwVs1SYeYA)
++ [得物1面：Spring @ExceptionHandler注解的工作原理是什么？](https://mp.weixin.qq.com/s/gR_m51E2-ACHy2bPAU15ew)
 
 #### 配置
 
 + [还记得Spring这2个强大的配置类吗？](https://mp.weixin.qq.com/s/4PXOfx-Cm-ci8S0b3bmCXQ)
 + [Spring强大的@Configurable注解使用过吗？注意不是@Configuration](https://mp.weixin.qq.com/s/k30BQeXqjZXJhx5dlKXiQQ)
 + [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
++ [利用观察者模式实现动态刷新Bean中的配置](https://mp.weixin.qq.com/s/vzsTzWDPA6W149FXs5oEGQ)
 
 #### 工具
 
@@ -1821,6 +1835,7 @@
 + [Java 面试经典之 Http 请求在 SpringMVC 中的处理](https://mp.weixin.qq.com/s/e3-wPDkWC10-DZ0VZTgXAA)
 + [社招面试杀手锏！Spring MVC到底是什么？小米亲测上岸经验分享！](https://mp.weixin.qq.com/s/2KlEPAtriQaOp7H5SYojUQ)
 + [99%的人都答错了！Spring MVC 控制器到底是不是单例？怎么破局？](https://mp.weixin.qq.com/s/DXaeLuZr_zC0hASmuvVSMg)
++ [@RequestBody接map有什么弊端](https://mp.weixin.qq.com/s/zx5TbXnvwKPAaR4Y1ZY9nQ)
 
 ### concurrent
 
@@ -1834,6 +1849,7 @@
 + [Spring 实现 3 种异步流式接口，干掉接口超时烦恼](https://mp.weixin.qq.com/s/2pnVY2ftuTJV8PAU0cOZJQ)
 + [@Async的7种失效场景总结，最后一个大部分人都说错了](https://mp.weixin.qq.com/s/hDDIM9aw02KxSO3vmXHT7Q)
 + [面试官：说说@Scheduled的原理](https://mp.weixin.qq.com/s/DVfuqpuLWTGlgy3bMnroJg)
++ [ListenableFutureCallback回调接口](https://mp.weixin.qq.com/s/TqL8ldw0sDMAbO65prt8Kw)
 
 ### security
 
@@ -2261,6 +2277,7 @@
 + [SpringBoot中3种内容协商策略实现](https://mp.weixin.qq.com/s/6oULC2J6vdqhdL4kSeqbqw)
 + [SpringBoot中内置的49个常用工具类](https://mp.weixin.qq.com/s/paVFI3OhV07yT_pmYOhtqA)
 + [Spring Boot 神奇的2个类！动态方法查找调用](https://mp.weixin.qq.com/s/X75tZBDjNrKIEx62ofQAog)
++ [掌握 Spring Boot 7个高级知识点](https://mp.weixin.qq.com/s/iRvpkCobeo7g4UG49iPQSw)
 
 #### 版本特性
 
@@ -2698,6 +2715,9 @@
 + [Spring Boot文件上传5种玩法！@RequestPart最强大](https://mp.weixin.qq.com/s/TaS7Mgq6sRwme_LTUEdS6Q)
 + [@JsonFormat 只会转日期？这4个高能用法太强大了](https://mp.weixin.qq.com/s/3suVq-daf9QsCgJGiKsB8Q)
 + [SpringBoot中6种拦截器使用场景](https://mp.weixin.qq.com/s/2AiUd2tQeNXiSOcdqmZTCQ)
++ [京东二面：Spring Boot中如何注册一个Filter？底层是如何实现的？](https://mp.weixin.qq.com/s/7Z0iBtWdeGYc67gZQZM4QA)
++ [Controller 接口竟有这些 "神操作"？](https://mp.weixin.qq.com/s/l-ialXkrrFvghFSqclA_7g)
++ [SpringBoot中的9个自带实用过滤器](https://mp.weixin.qq.com/s/sfGFPTR0JULokkew8LhrpA)
 
 ##### VUE
 
@@ -2954,6 +2974,7 @@
 + [手动实现 Spring Boot 日志链路追踪，无需引入组件，日志定位更方便！](https://mp.weixin.qq.com/s/fGFIWz9f47sDGxiZNVldRw)
 + [你真的了解Spring Boot的日志框架logback吗？](https://mp.weixin.qq.com/s/Hjho3lU9rLub-reTh40zwg)
 + [SpringBoot日志设置和属性详解](https://mp.weixin.qq.com/s/tMN9RSUO2OrilGe9vM9Hqg)
++ [SpringBoot中14个日志使用技巧](https://mp.weixin.qq.com/s/K-8L2dMItXchPCdeL4d4fg)
 
 #### 安全
 
@@ -3398,6 +3419,7 @@
 + [别再把 JSF 当 HTTP：远程调用不背 “包” 袱！](https://my.oschina.net/u/4090830/blog/18125746)
 + [OpenCSV太炸裂了，一行代码搞定 CSV 读写](https://mp.weixin.qq.com/s/SkMA5qXl0_hO27HegngPfA)
 + [【Ratis】SlideWindow滑动窗口机制](https://mp.weixin.qq.com/s/lLC-vLnH569g4o1KNeUEwQ)
++ [分布式事务神器！Seata如何保证跨库操作数据零差错？原理+实战全解析！](https://mp.weixin.qq.com/s/yXynF0dk8JqSFbvTuTwfBQ)
 
 # 其它环境
 

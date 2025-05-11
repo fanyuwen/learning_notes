@@ -221,6 +221,7 @@
 
 ## 实践
 
++ [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)

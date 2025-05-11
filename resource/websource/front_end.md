@@ -61,6 +61,7 @@
 + [9个 JavaScript 单行代码提升你的编程水平](https://mp.weixin.qq.com/s/Okq0lqNutRddLDTtuyGg-Q)
 + [抛弃 switch，让JavaScript代码更简洁](https://mp.weixin.qq.com/s/ehO8_NPwxEbnt75oojgH8w)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
++ [JavaScript 对数组进行无副作用排序](https://mp.weixin.qq.com/s/292aTSmNFLt5GU5oQ-s4fQ)
 + [现代JavaScript异步写法：不依赖await，构建高性能异步系统](https://mp.weixin.qq.com/s/9qPZUUPPU_-oT_DI5hrBhA)
 + [JavaScript 函数形参全面解析：5种声明方式与高级技巧](https://mp.weixin.qq.com/s/hn2Pt03NSlMIJXfWS7pMZg)
 + [扔掉if-else！JavaScript 这几个技巧让你代码简洁到飞起！](https://mp.weixin.qq.com/s/A-4BanEyOiV1fmESTAbZSw)

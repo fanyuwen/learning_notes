@@ -148,6 +148,7 @@
 + [109 | 『八股文™』详解 sync.Map 底层实现中的双表机制](https://mp.weixin.qq.com/s/4mw1Q_oT8dze84ZIwFC4fA)
 + [110 | 『八股文™』详解 Go 中的深拷贝与浅拷贝](https://mp.weixin.qq.com/s/o_no8VBJeclwobMfKI6M3A)
 + [111 | 『八股文™』Go 内存模型解析：从原理到实践](https://mp.weixin.qq.com/s/r70z18-W9KtuHzfTrhk5Bg)
++ [112 | 『八股文™』聊一聊 Go 中的逃逸分析问题](https://mp.weixin.qq.com/s/snImDeUhDkskecDZypmoBg)
 
 # 面试题
 

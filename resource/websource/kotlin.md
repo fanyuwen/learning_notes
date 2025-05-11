@@ -16,6 +16,7 @@
 + [Koin 框架官方入驻微信公众号，欢迎关注！ ｜社区分享](https://mp.weixin.qq.com/s/aQxBUUX7OW6MB6iRvQaO4g)
 + [如何给 Kotlin 新增一个 target?](https://mp.weixin.qq.com/s/VwiHmIb8yRL_JO4edRDHtQ)
 + [来自社区：AI 驱动的 Kotlin 最新中文文档](https://mp.weixin.qq.com/s/Eel8ryi1Ifbsc4Iyp9uZ4Q)
++ [Kotlin Notebook 的高效开发指南｜官方博客](https://mp.weixin.qq.com/s/9khgDLgVKsiluC4MsNR1Wg)
 
 ## 技术月报
 

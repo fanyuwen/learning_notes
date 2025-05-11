@@ -55,6 +55,7 @@
 + [图解布隆过滤器｜工作原理｜代码实现](https://mp.weixin.qq.com/s/N7XQiqaEVM1CWpI253ietg)
 + [栈的四种模型](https://mp.weixin.qq.com/s/BR8GBSc-wktcUZFCkgfBGg)
 + [缓存穿透的解决方式？—布隆过滤器](https://mp.weixin.qq.com/s/7p_3FpgvOZ98a28w-VLexg)
++ [算法笔记 - 二叉树展开为链表](https://mp.weixin.qq.com/s/ElfHTaEDaPPwPoo3yopIJg)
 
 ## 排序算法
 

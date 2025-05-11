@@ -106,6 +106,7 @@
 + [linux操作系统：进程调度机制详解](https://mp.weixin.qq.com/s/WxDiiBW_Y1cHdupQs0QdLw)
 + [轻松管理Linux定时任务：Cron实用教程](https://mp.weixin.qq.com/s/o83L0aC1lkXcFGQe6-3mqQ)
 + [深入探索linux系统调用的来龙去脉](https://mp.weixin.qq.com/s/S3bER9uAED3a-ycMoQS-VQ)
++ [Linux内核链表](https://mp.weixin.qq.com/s/10qnsGDMCPfEEfQRQPxaVQ)
 
 ### 网络
 

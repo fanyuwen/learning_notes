@@ -397,6 +397,7 @@
 + [MySQL中count(*)/count(1)/count(id)/count(字段)的区别](https://mp.weixin.qq.com/s/s-YqaV7Vnfwr5HAXJ6Mo8g)
 + [MySQL的Order By背后藏着什么秘密？一文讲透排序优化技巧](https://mp.weixin.qq.com/s/PGezgj2R4quQD9blC7FccQ)
 + [MySQL优化-EXPLAIN笔记](https://mp.weixin.qq.com/s/mcOyvaWs_PAlPH7A89PcyA)
++ [京东面试：mysql深度分页 严重影响性能？根本原因是什么？如何优化？](https://mp.weixin.qq.com/s/LXvQMQFf_SyLWh1zI6onkA)
 
 #### 存储引擎
 
@@ -413,6 +414,7 @@
 + [InnoDB 索引之B+树详解](https://mp.weixin.qq.com/s/BXfogZuQ0NRYm24zh2NI9w)
 + [MySQL数据库——存储引擎（InnoDB、MyISAM、MEMORY、ARCHIVE）](https://mp.weixin.qq.com/s/-AUH-KXHiB_PDtWBQvnUIA)
 + [MySQL存储引擎InnoDB相关知识](https://mp.weixin.qq.com/s/xlgoW2g9KFojAimz1nEmNg)
++ [MySQL 的存储引擎到底怎么选？InnoDB vs MyISAM 深度对比](https://mp.weixin.qq.com/s/6GsxL5fdpXqTJ_0_6RxUEw)
 
 #### MVCC
 

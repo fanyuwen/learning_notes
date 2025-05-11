@@ -149,6 +149,7 @@
 + [110 | 『八股文™』详解 Go 中的深拷贝与浅拷贝](https://mp.weixin.qq.com/s/o_no8VBJeclwobMfKI6M3A)
 + [111 | 『八股文™』Go 内存模型解析：从原理到实践](https://mp.weixin.qq.com/s/r70z18-W9KtuHzfTrhk5Bg)
 + [112 | 『八股文™』聊一聊 Go 中的逃逸分析问题](https://mp.weixin.qq.com/s/snImDeUhDkskecDZypmoBg)
++ [113 | 『八股文™』Go 中并发场景下同步原语选择问题](https://mp.weixin.qq.com/s/dFyNQT9a1g2ilXfCGfYgPQ)
 
 # 面试题
 

@@ -442,6 +442,7 @@
 + [Nginx的模块化介绍](https://mp.weixin.qq.com/s/3MeEJFyc9PJ9HFDsHqXuzQ)
 + [高并发场景下，Nginx如何限流应对并发？](https://mp.weixin.qq.com/s/8ubKqfNwdudoEgYpAYmo8A)
 + [Nginx工作原理和优化总结](https://mp.weixin.qq.com/s/GVZslM7v1xV-UGWEfyF-hw)
++ [Nginx缓存最全详解：如何提高10倍性能！](https://mp.weixin.qq.com/s/lim-lvbYkkR9SOUa4SB0mw)
 
 ### wireshark
 
@@ -486,6 +487,7 @@
 + [一文搞懂磁盘 I/O，基础扫盲来了！](https://mp.weixin.qq.com/s/irCeAkc0JPoukr3Y9KzXcQ)
 + [缓冲区详解：数据如何从磁盘读到用户进程你真的了解吗？快来看看吧！](https://mp.weixin.qq.com/s/asMM2hO5ibzoJ4EuN3xIWw)
 + [从青铜到王者：带你吃透epoll核心机制](https://mp.weixin.qq.com/s/PwPzH2MEuH4jmTqH6yjU-g)
++ [内存IO原理大起底：那些你必须知道的底层真相](https://mp.weixin.qq.com/s/Uq968KVp8ja4eOi1aPj_RA)
 
 ## 字符编码
 

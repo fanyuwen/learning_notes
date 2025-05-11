@@ -6,7 +6,7 @@
 + [python基础合集](https://mp.weixin.qq.com/s/T93d5BUMqXS-0WPDTdVufA)
 + [Python 基础：变量与数据类型完全指南](https://mp.weixin.qq.com/s/bw81FarDYPZ-lNbzEkMugQ)
 
-### 基础语法
+### 基础
 
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
@@ -67,6 +67,7 @@
 + [Python异常处理模式，上下文管理器的最佳实践](https://mp.weixin.qq.com/s/qahS9wxjOl8A-4-yton-GQ)
 + [Python基础：数据序列化](https://mp.weixin.qq.com/s/q-9XA9-rFW0oGVodsICK0A)
 + [为什么我们需要if __name__ == __main__](https://mp.weixin.qq.com/s/HaLl8W0h02wamkk9qpAZYA)
++ [Python异常链溯源：精通 raise...from... 机制](https://mp.weixin.qq.com/s/Ou1lk4IqtWmw5aCiFZ8kqg)
 
 ### 函数/方法
 
@@ -887,3 +888,4 @@
 + [Python面试高频算法题，这5个你必须掌握！](https://mp.weixin.qq.com/s/sRhp7jnUqt-rcWP4iB4pSQ)
 + [从零到精通的Python自学之路：一位老司机的肺腑之言](https://mp.weixin.qq.com/s/2FJ5cGCxH_nmd-k_6Eu_yg)
 + [全网程序员都在问：为什么新来的用Python比我快10倍？答案在这...](https://mp.weixin.qq.com/s/J1uoPiQ2crLjUWV40QE2vQ)
++ [深入 Python 之禅，写出地道代码](https://mp.weixin.qq.com/s/0z6WgN3MHY_tVntditonFg)

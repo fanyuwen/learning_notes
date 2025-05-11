@@ -153,6 +153,7 @@
 + [Java学习笔记——面向对象编程（高级上）](https://mp.weixin.qq.com/s/cQ1YrWg0bpf_XuuKx5V98A)
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
++ [接口和抽象类有什么共同点和区别？](https://mp.weixin.qq.com/s/63r7NQWUWEpkiiyQ5FA2dA)
 
 ## 新语言特性
 
@@ -177,6 +178,7 @@
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
++ [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
@@ -291,6 +293,7 @@
 + [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
 + [Java真的不难（三十九）建造者模式](https://mp.weixin.qq.com/s/uWSwuuNU-PbYA5rpHv8zSQ)
 + [Java真的不难（四十一）原型设计模式及实践](https://mp.weixin.qq.com/s/RYM_tFravFnRs7DOkVTqWg)
++ [Java真的不难（四十二）静态代理模式](https://mp.weixin.qq.com/s/tV_RsCptSqcQnCs5wX5E4g)
 + [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
 + [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
@@ -639,6 +642,8 @@
 + [Java真的不难（二十八）多线程（二）](https://mp.weixin.qq.com/s/jk5sZ1cSyAjlOcEGBXLJIw)
 + [面试练习 | Java线程状态及其转换条件是什么？](https://mp.weixin.qq.com/s/85BNWB65uMJxg2p6V8TLDw)
 + [解锁Java 24并发编程：虚拟线程与CompletableFuture的深度结合](https://mp.weixin.qq.com/s/Bh_VAo8Nk8i8N1Tz3HjHKQ)
++ [Java多线程发展史，我们可以学到什么？](https://mp.weixin.qq.com/s/d1DYaDr1BUB33QFVommfOQ)
++ [Java多线程从创建开始——创建和使用以及了解多线程的切换策略](https://mp.weixin.qq.com/s/OaNyb9ygtzOlFrmevGc_yQ)
 
 #### 线程池
 
@@ -811,6 +816,7 @@
 + [JDK性能分析工具使用命令记录](https://mp.weixin.qq.com/s/1aSELwAI-eYriWalmwlmZw)
 + [JVM性能监控及调优命令](https://mp.weixin.qq.com/s/4JojkqO_zNweKBLuQfkm1g)
 + [JVM参数调优，一文让你搞懂，再也不为应用操心了！](https://mp.weixin.qq.com/s/S9nAdu5lITlcldSscdPPyg)
++ [手把手教你使用JConsole](https://mp.weixin.qq.com/s/0PqnXot-taBSnbRKHj0rQQ)
 
 ### 内存
 
@@ -1244,6 +1250,9 @@
 + [硬核干货 | Phaser：比CyclicBarrier更灵活的多阶段同步神器！](https://mp.weixin.qq.com/s/A17NXpDkfLCX6Rq9odoPVw)
 + [Java多线程编程之CyclicBarrier](https://mp.weixin.qq.com/s/2oVHVX-uMt4QkWV-J3VZLw)
 + [CountDownLatch 和 CyclicBarrier的区别](https://mp.weixin.qq.com/s/YlLm8AjKasfnClVuKKzuCA)
++ [Java多线程编程之CountDownLatch](https://mp.weixin.qq.com/s/035TRPrr4jO2qMR_WzvsLA)
++ [java并发工具——CountDownLatch](https://mp.weixin.qq.com/s/GuOXBZGjyYciqglPcx0wXg)
++ [Java多线程编程之Semaphore](https://mp.weixin.qq.com/s/sqWNfZpcq6pz0SVSe4YARQ)
 
 ## IO/NIO
 
@@ -1518,6 +1527,7 @@
 + [MyBatis 面试必杀技：22 道高频题，助你轻松拿 offer！](https://mp.weixin.qq.com/s/PI_MVfcFkajC8gZ4akTC9w)
 + [面试官：如何通过Mybatis拦截器监控SQL](https://mp.weixin.qq.com/s/BU_Mo2hr2p5MgMqPvM9BEQ)
 + [如何在放弃MyBatis分页插件后优雅实现高性能分页](https://mp.weixin.qq.com/s/mRP96ef41tGs5auBVscrcQ)
++ [Mybatis原理解析](https://mp.weixin.qq.com/s/dND1eP7GkPFDRhGrdQyDSA)
 
 ### plus
 
@@ -1614,6 +1624,7 @@
 + [时间轮在 Netty , Kafka 中的设计与实现](https://mp.weixin.qq.com/s/8hN6r8xTUVL4oIDubBl9dg)
 + [美团面试：说说Netty的零拷贝技术？我：蒙了，没用过啊](https://mp.weixin.qq.com/s/73L41TXsurr4XcBBVk_WvA)
 + [Netty源码—4.客户端接入流程](https://mp.weixin.qq.com/s/-bGktTfsPcg2SVXJDdfH2A)
++ [Netty-Reactor模型常见知识点小结](https://mp.weixin.qq.com/s/PCFRowteMKc8MNDdeCuS1Q)
 
 ## quarkus
 
@@ -1645,6 +1656,7 @@
 + [Redisson实现分布式锁：原理分析、最佳实践与避坑指南](https://mp.weixin.qq.com/s/Bon9ZBppzjhousyxTpyvbQ)
 + [redisson 使用与分析](https://mp.weixin.qq.com/s/MtIuMCeYkDzRbHynhHtFCg)
 + [深夜警报：祖传代码用Redisson实现限流，结果锁竟然失效了！](https://mp.weixin.qq.com/s/NAxpNSIF8-C8sSENtAorfg)
++ [Redisson中分布式信号量RSemaphore](https://mp.weixin.qq.com/s/8cvl2JHoD6dV7yXSQcf8aA)
 
 ## ribbon
 
@@ -1863,6 +1875,8 @@
 + [99%的人都答错了！Spring MVC 控制器到底是不是单例？怎么破局？](https://mp.weixin.qq.com/s/DXaeLuZr_zC0hASmuvVSMg)
 + [@RequestBody接map有什么弊端](https://mp.weixin.qq.com/s/zx5TbXnvwKPAaR4Y1ZY9nQ)
 + [别背八股了，用这个故事让你彻底理解Spring MVC核心机制！](https://mp.weixin.qq.com/s/NOYMuWdHZj9zEiEvCGcYzw)
++ [《SpringMVC6》第08节：SpringMVC如何接收前端的请求参数](https://mp.weixin.qq.com/s/Hy_lFuZHFglpz8bMy9iT6w)
++ [Spring Validation中9个数据校验工具](https://mp.weixin.qq.com/s/GO_KOH0T4JbSscq9ftRIgQ)
 
 ### concurrent
 
@@ -1917,6 +1931,7 @@
 
 + [深入解析 Spring Batch：核心概念与架构设计助力高效批处理](https://mp.weixin.qq.com/s/N_5ZGDf1a4G8LxwF4hozXQ)
 + [搞懂 Spring Batch](https://mp.weixin.qq.com/s/B52m80_ra0MuJPKBZ2VYaA)
++ [大厂都在用的批处理框架：Spring Batch零基础速成指南，效率飙升500%！](https://mp.weixin.qq.com/s/x3ASf9q3-rLa0H5wuefwkA)
 
 #### TRANSACTION
 
@@ -3275,6 +3290,7 @@
 + [Spring Boot 3.4竟能让启动速度比Go还快？真相让人意外!](https://mp.weixin.qq.com/s/HFNGaUGtOTv1l2sCp5pbxQ)
 + [SpringBoot如何用ServiceLocatorFactoryBean优雅切换支付渠道？](https://mp.weixin.qq.com/s/_4aeZ4LhsU2FqzSIU7rKqQ)
 + [Spring Boot 启动原理源码级深度解析 | 面试必考题](https://mp.weixin.qq.com/s/bgXkbNc4sBK9dYT70uiaUg)
++ [SpringBoot启动run方法分析](https://mp.weixin.qq.com/s/h6qwo487ieg_0f7h6vX43A)
 
 ## web
 

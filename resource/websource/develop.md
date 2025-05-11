@@ -373,6 +373,7 @@
 + [什么是幂等？如何解决幂等性？](https://mp.weixin.qq.com/s/3NU0q-8V3bRwjD_dhslg_w)
 + [高并发下幂等性的七大解决方案（图文总结）](https://mp.weixin.qq.com/s/DRIowcqgJmLSIYP1fBJmqg)
 + [接口的幂等性设计](https://mp.weixin.qq.com/s/ShSIL-vy-BT9_nTSIwZQ-g)
++ [基于防重表的通用接口幂等性设计方案](https://mp.weixin.qq.com/s/P6Ixoq225Lbv3caB971ePg)
 
 ### 负载&限流
 
@@ -809,6 +810,7 @@
 + [Learn git the easy way! 一文入门 git 常用操作](https://mp.weixin.qq.com/s/lwvPTHxWSfs9XsTSaFT64Q)
 + [Git 标签管理深度指南](https://mp.weixin.qq.com/s/oShhbxo7rmhCfDf3BeJZ3w)
 + [分享Git的两个小技巧](https://mp.weixin.qq.com/s/nbxi9XkTtH_4f9IjpE1aOg)
++ [git fetch & pull命令详解](https://mp.weixin.qq.com/s/sR0YAH7e_IasdBQ1rFXkMA)
 
 ### 编程范式
 

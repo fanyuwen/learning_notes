@@ -86,6 +86,7 @@
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
 + [输出流的内部缓存](https://mp.weixin.qq.com/s/LfcGvNxOQ8y7FkOHjHofoQ)
 + [字符编码理论基础](https://mp.weixin.qq.com/s/1h5hqBcF9zSbUUnUbzwJQQ)
++ [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)

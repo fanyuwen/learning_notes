@@ -430,6 +430,7 @@
 + [大厂最爱问的MVCC，到底是个啥？](https://mp.weixin.qq.com/s/GAHeway5SqmsVa2CmHJouQ)
 + [MySQL MVCC是如何实现的？如何通过MVCC实现读已提交、可重复读隔离级别的？](https://mp.weixin.qq.com/s/bbpYOLK3aXEHVvVQYM8XQg)
 + [MySQL数据库——多版本并发控制MVCC](https://mp.weixin.qq.com/s/cy5k2K5Tr6zVk8bGwlPcOQ)
++ [数据库MVCC机制](https://mp.weixin.qq.com/s/vF-0sdwoTq4k9FRglhz4_g)
 
 #### 锁
 
@@ -464,6 +465,7 @@
 + [阿里面试：MySQL乐观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/hl2qIe2OYE4j3_Wv3mPLsg)
 + [阿里面试：MySQL悲观锁是什么？底层实现原理？](https://mp.weixin.qq.com/s/Dm7xBmgrj2zvuVHL9nqsSg)
 + [Java开发者必备：深度剖析MySQL锁机制与实战避坑指南](https://mp.weixin.qq.com/s/Rj1-L7bK1yi4-QHDU_GfRw)
++ [MySQL锁概览](https://mp.weixin.qq.com/s/4NYcBo5LvTSU4RCamS67Hg)
 
 #### 事务
 

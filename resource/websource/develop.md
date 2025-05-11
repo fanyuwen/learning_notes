@@ -233,6 +233,7 @@
 + [彻底搞懂服务限流和服务降级](https://mp.weixin.qq.com/s/aUCGLqu9pGg0uXjXmacdrA)
 + [这项目太上头！典型分布式事务场景，做完我悟了](https://mp.weixin.qq.com/s/xDGK3f0-O_mMdu7PVgRQ8w)
 + [Redis Cluster的Gossip协议通信机制：分布式系统的八卦哲学](https://mp.weixin.qq.com/s/oOkN9DcYImOgsR4PvVROBQ)
++ [分布式和微服务，它们有什么区别？](https://mp.weixin.qq.com/s/oApM-yiiUAm7SsgnVyooXQ)
 
 ## 分布式锁
 

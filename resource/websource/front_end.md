@@ -185,6 +185,7 @@
 + [2025 年 Object 和 Map 如何选择？](https://mp.weixin.qq.com/s/Ia7byLHAVsHtPbzuGz9JDg)
 + [for...in 循环的坑，别再用它遍历 JavaScript 数组了！](https://mp.weixin.qq.com/s/k9FK-sj7XmXfir0JwcLLuQ)
 + [8种超实用的JavaScript错误处理方案](https://mp.weixin.qq.com/s/a1BE37Vws1aSBy9tgWCpEA)
++ [JavaScript中的一些实用小方法](https://mp.weixin.qq.com/s/C5PmvpO_pjWzbTvzp6zP3A)
 
 # 框架
 
@@ -326,6 +327,7 @@
 + [一文看懂 JSON.parse 背后的安全隐患与黑盒利用方法](https://mp.weixin.qq.com/s/YyTQjYK9xdp9h23yjTrAgQ)
 + [讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL](https://mp.weixin.qq.com/s/u44_9jZez7TI8gJqv_n79Q)
 + [JavaScript动态混淆技术：让代码“千变万化”，逻辑却始终如一](https://mp.weixin.qq.com/s/3jvddXapMh7J3RXajBrnsQ)
++ [JS黑科技：利用eval打造"万变不离其宗"的动态执行方案](https://mp.weixin.qq.com/s/9o8EVvc9pBBO-IgOdFh-yQ)
 
 # 杂谈
 

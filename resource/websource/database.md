@@ -128,6 +128,7 @@
 + [从自增ID到雪花算法：数据库主键选型深度演进与避坑指南](https://mp.weixin.qq.com/s/s2zCb_hE4Xm2uAnSAwmqjw)
 + [延迟双删、异步重试、Binlog监听：高并发可靠的Redis数据一致性机制](https://mp.weixin.qq.com/s/DzY1aWuI7BrxdrNaVfETXA)
 + [字节一面：20亿手机号存储选int还是string？varchar还是char？为什么？](https://mp.weixin.qq.com/s/t1Cy2GgUAWJDEIA2K9AiZQ)
++ [4 种策略让 MySQL 和 Redis 数据保持一致](https://mp.weixin.qq.com/s/1hfhIJUSVr6jxEBbswaj7Q)
 
 ### 读写分离&分库分表
 

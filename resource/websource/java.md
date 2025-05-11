@@ -84,6 +84,7 @@
 + [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
 + [Java 真的不难（十三） String类](https://mp.weixin.qq.com/s/CdaEf83Qt4gcpuWBX8B6Yw)
 + [JAVA三个常用关键字的深入解析（二）](https://mp.weixin.qq.com/s/I_neLjhcjvYIobtEac9GUw)
++ [Java包装类默认值：隐藏的陷阱与最佳实践](https://mp.weixin.qq.com/s/7N1XUNRL8Z-QfOYyf9fOkQ)
 
 ### 方法/函数
 
@@ -179,6 +180,7 @@
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
++ [从“谁都能继承”到“我说了算”：密封类的权限革命](https://mp.weixin.qq.com/s/b6aR1RIC5EweGjfpS10pwQ)
 + [JDK 23 新特性解读~](https://mp.weixin.qq.com/s/aZMSwwejdqEtjDqlLzqQtQ)
 + [Java 24 正式发布，超神了。。。](https://mp.weixin.qq.com/s/pd1isbjF6nNhNJQhYfRTUw)
 + [Java 24 / JDK 24 正式 GA](https://www.oschina.net/news/339734/jdk-24-java-24-ga)
@@ -406,6 +408,7 @@
 + [瞧瞧别人家的日期处理，那叫一个优雅！](https://mp.weixin.qq.com/s/Xh8PFyh-VtL3DyKJSBAPtg)
 + [Java慎用可变对象(Mutable Object)作为Map的key](https://mp.weixin.qq.com/s/8oofR0hOaFDnGGUvoSJ20g)
 + [为什么阿里不推荐使用 keySet() 遍历HashMap？](https://mp.weixin.qq.com/s/cTC5we6-X4LgI4ypmZ3GTw)
++ [如何正确地对接口进行防御式编程](https://mp.weixin.qq.com/s/A77oM1qMkcfh7otyrQRVqA)
 
 # 底层
 
@@ -528,6 +531,7 @@
 + [Java真的不难（四十）反射机制深度分析【实际业务案例】](https://mp.weixin.qq.com/s/7LJEVdWKsFiH5lYPgWgFOg)
 + [Java通过反射访问构造方法](https://mp.weixin.qq.com/s/-etSz7U0EzjkFXAlTGpa8Q)
 + [Java 反射机制到底是啥？小白入门指南+ 安全性分析](https://mp.weixin.qq.com/s/KXNseug9ZG-xw-GakVXgFw)
++ [FastJSON 反序列化到底干了啥？一文看懂它是如何利用反射机制的！](https://mp.weixin.qq.com/s/WUuo4piNMqujNpAUFqWElg)
 
 ### 并发/多线程
 
@@ -1023,6 +1027,7 @@
 + [面试官：说说HashMap和Hashtable有什么区别](https://mp.weixin.qq.com/s/K5Q9vNATovo4AwBOnyNc7w)
 + [死磕HashMap！90%程序员不知道的底层骚操作，看完秒杀面试官！](https://mp.weixin.qq.com/s/dZsY6rtJnMO9dh72LW40pw)
 + [HashMap的删除和扩容](https://mp.weixin.qq.com/s/jw26QWJ6zpiSfCp_-trwDQ)
++ [Java真的不难（二十三）Map集合](https://mp.weixin.qq.com/s/4wRsTjfKNewp11vQanIvsg)
 
 ### Optional
 
@@ -1308,6 +1313,7 @@
 + [pom文件中框架的先后顺序对 Spring Boot 项目的启动有没有影响，是否需要注意引入框架的顺序？](https://mp.weixin.qq.com/s/Es4F2yCL321wtthRXagLgQ)
 + [Maven实战](https://mp.weixin.qq.com/s/ErtWrRNzjJcR2ettUhAxsQ)
 + [抛弃Maven！试试这款官方推出的新一代Java高性能构建神器！](https://mp.weixin.qq.com/s/RyZPWDC3pZ8OwV_u-aGi1g)
++ [Maven依赖——最短路径原则](https://mp.weixin.qq.com/s/xr9H73TWbu7CDOCThD5_gA)
 
 # 功能
 
@@ -1537,6 +1543,7 @@
 + [mybatis-plus缓存bug分析](https://mp.weixin.qq.com/s/s51yTWtZ4pDJ7phPWaKfdA)
 + [Java教程：如何使用MybatisPlus自定义分页查询实现多表联查](https://mp.weixin.qq.com/s/kgc_FINnW2Zubda8IEBThA)
 + [MyBatis-Plus高效开发指南：从BaseMapper到QueryWrapper实战技巧](https://mp.weixin.qq.com/s/Inxx0HrixbLLvavhMsbGQw)
++ [一文带你掌握MyBatis-Plus的plus高级功能点如何使用](https://mp.weixin.qq.com/s/qljQzgGXjF-aE4UNYgk7zw)
 
 ## nacos
 
@@ -1721,6 +1728,7 @@
 + [深入浅出Spring IoC与DI：设计思想、实现方式与反射技术详解](https://mp.weixin.qq.com/s/KL6DEo_12drSpwVs1SYeYA)
 + [得物1面：Spring @ExceptionHandler注解的工作原理是什么？](https://mp.weixin.qq.com/s/gR_m51E2-ACHy2bPAU15ew)
 + [快手1面：@PreDestroy 注解有什么作用？](https://mp.weixin.qq.com/s/_W5lrYYjJsibKib2vkpy2Q)
++ [Java面试题——Bean生命周期](https://mp.weixin.qq.com/s/8tEAXKae4L30pb7T0nPw_A)
 
 #### 配置
 
@@ -2291,6 +2299,7 @@
 + [Spring Boot 神奇的2个类！动态方法查找调用](https://mp.weixin.qq.com/s/X75tZBDjNrKIEx62ofQAog)
 + [掌握 Spring Boot 7个高级知识点](https://mp.weixin.qq.com/s/iRvpkCobeo7g4UG49iPQSw)
 + [炸裂！@Transactional遇上@Async：是"王炸组合"还是"致命事故"](https://mp.weixin.qq.com/s/tVYuodPQeJBtM-zG6aW6ww)
++ [绝了！8个 Spring Boot 开发必备技能](https://mp.weixin.qq.com/s/bL2973yFnevdGdXYFBvXYg)
 
 #### 版本特性
 
@@ -3043,6 +3052,7 @@
 + [SpringBoot装饰器模式](https://mp.weixin.qq.com/s/KF0Z3xYvkadkwk7cxBT7vg)
 + [Spring Boot分布式项目中策略模式实战：解锁高扩展性架构设计](https://mp.weixin.qq.com/s/ofwZKICWXrPdbAe-1LUd4w)
 + [Spring Boot 中的代理模式](https://mp.weixin.qq.com/s/HyIa1Wck8NI-iVHtLOPIpA)
++ [SpringBoot中13种设计模式应用案例](https://mp.weixin.qq.com/s/QtulNezYiNviC1pYXOaVzw)
 
 #### message
 
@@ -3233,6 +3243,7 @@
 + [SpringBoot与OpenFeign整合，实现微服务之间的声明式API调用系统](https://mp.weixin.qq.com/s/R_gi2afL-MtrBEw5w0iSGw)
 + [SpringBoot 整合 Dubbo 轻松搞定服务远程互调](https://mp.weixin.qq.com/s/_EHcP0W-0CGzccKOR1J4GA)
 + [Spring Boot 3.x集成Redisson与常见问题处理](https://mp.weixin.qq.com/s/pqigqHKLRITC4Bq0kNdcXg)
++ [SpringBoot中5种服务可用性保障技术](https://mp.weixin.qq.com/s/tvbWGrnvr4D5A81dtUtDYQ)
 
 #### test
 
@@ -3433,6 +3444,7 @@
 + [别再把 JSF 当 HTTP：远程调用不背 “包” 袱！](https://my.oschina.net/u/4090830/blog/18125746)
 + [OpenCSV太炸裂了，一行代码搞定 CSV 读写](https://mp.weixin.qq.com/s/SkMA5qXl0_hO27HegngPfA)
 + [【Ratis】SlideWindow滑动窗口机制](https://mp.weixin.qq.com/s/lLC-vLnH569g4o1KNeUEwQ)
++ [【Ratis】Leader Election领导者选举过程详解](https://mp.weixin.qq.com/s/AOF5Etum0NQbHgMYXmQ2ug)
 + [分布式事务神器！Seata如何保证跨库操作数据零差错？原理+实战全解析！](https://mp.weixin.qq.com/s/yXynF0dk8JqSFbvTuTwfBQ)
 
 # 其它环境

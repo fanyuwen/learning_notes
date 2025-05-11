@@ -226,6 +226,7 @@
 + [一文读懂电脑内存：从基础原理到性能](https://mp.weixin.qq.com/s/KMLToy1Id7VTy9x3-gNsTg)
 + [浏览器崩溃的第一性原理：内存管理的艺术](https://my.oschina.net/u/4090830/blog/17955030)
 + [函数调用与栈的联系](https://mp.weixin.qq.com/s/4T9L__d1KsOhLLifN_Aobw)
++ [操作系统是如何一步步发明虚拟内存的？](https://mp.weixin.qq.com/s/m5JL8urQfej9Pj7oK4AsdA)
 
 ## GPU
 
@@ -319,6 +320,7 @@
 + [HTTP和HTTPS有什么区别？CA起到什么作用？](https://mp.weixin.qq.com/s/jxCP9hHilT31N5QRmULP8Q)
 + [字节一面：POST 为什么会发送两次请求？](https://mp.weixin.qq.com/s/c9OI4HH-EdXycam5Yj7U_Q)
 + [面试官：如何理解OSI七层模型和TCP/IP四层模型？HTTP作为如何保存用户状态？多服务器节点下 Session方案怎么做](https://mp.weixin.qq.com/s/mIGJdNKmHiZt9AHQ3q7X8Q)
++ [计算机网络之HTTP篇（上）](https://mp.weixin.qq.com/s/iw6edtx1Z8Z94_XzBhLoJg)
 
 #### CORS
 

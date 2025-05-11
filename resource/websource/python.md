@@ -137,6 +137,7 @@
 + [Python面向对象设计原则：封装、继承与多态](https://mp.weixin.qq.com/s/lWNXPwo_4PF61Q1Ls0Zqyw)
 + [Python 面向对象编程（OOP）](https://mp.weixin.qq.com/s/jaS5Tp43Y9-MYdtf7EOviQ)
 + [python入门系列八（类）](https://mp.weixin.qq.com/s/Vf8n4T90Z6m4_TRHFVhpcQ)
++ [【Python基础】Python中的类、多态、__call__方法](https://mp.weixin.qq.com/s/9gS71onPO8vFBceLuwkAQA)
 
 ### 核心库/模块
 
@@ -201,6 +202,7 @@
 + [python入门系列十一（容器数据类型）](https://mp.weixin.qq.com/s/zDPm24nS5vFTYdJqxTzt2w)
 + [盘点实用又强大的Python标准库模块](https://mp.weixin.qq.com/s/-bv58n7oMhis5ExcXp9-kQ)
 + [python入门系列九（模块与标准库）](https://mp.weixin.qq.com/s/lywjUp3ftAHsokwWkfQl7Q)
++ [Python脚本超能力：掌握sys与os模块的20个核心交互技巧](https://mp.weixin.qq.com/s/SxEWTq33hriBSjNx-N_wLQ)
 
 ### 异步/多线程
 
@@ -884,3 +886,4 @@
 + [为什么Python之父不做Leader不做管理](https://mp.weixin.qq.com/s/7Qk53ubG-ERH6lGNxkaWvg)
 + [Python面试高频算法题，这5个你必须掌握！](https://mp.weixin.qq.com/s/sRhp7jnUqt-rcWP4iB4pSQ)
 + [从零到精通的Python自学之路：一位老司机的肺腑之言](https://mp.weixin.qq.com/s/2FJ5cGCxH_nmd-k_6Eu_yg)
++ [全网程序员都在问：为什么新来的用Python比我快10倍？答案在这...](https://mp.weixin.qq.com/s/J1uoPiQ2crLjUWV40QE2vQ)

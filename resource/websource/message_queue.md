@@ -114,6 +114,8 @@
 + [Kafka 消费者组机制详解：负载均衡与消费状态管理](https://mp.weixin.qq.com/s/rwslD5HCqkoLDJiIlj-4Sw)
 + [Kafka 中的幂等性与事务机制，能解决消息重复吗？](https://mp.weixin.qq.com/s/P0uH94CWvGgncpLypjZduw)
 + [Kafka 不确认导致重复消费的问题](https://mp.weixin.qq.com/s/VrswURWaKiLSbb1Y12poBw)
++ [Kafka 实践中的那些坑：重试、死信队列、反压问题全收录](https://mp.weixin.qq.com/s/uvr22MKIu3HtsPZyQwOoAA)
++ [kafka 分布式的情况下，如何保证消息的顺序消费？](https://mp.weixin.qq.com/s/ZYR7DnDuG6vEu4xJ4crVgA)
 
 # ROCKETMQ
 
@@ -150,6 +152,7 @@
 + [RocketMQ 消息积压千万级如何快速恢复 生产环境踩坑实录](https://mp.weixin.qq.com/s/gHNKN3-kLLnwvCyotT5_gA)
 + [Rocketmq的事务消息](https://mp.weixin.qq.com/s/Svz_g8CQxej_N4f8nASHiQ)
 + [RocketMQ事务消息：二阶段提交如何保证分布式事务的终极一致性？](https://mp.weixin.qq.com/s/KIUwsfB_sgvEXx6kpqx1_w)
++ [RocketMQ核心架构与原理深度解析](https://mp.weixin.qq.com/s/5ScMt3MIkhHvnfoVUvAP_A)
 
 # RABBITMQ
 

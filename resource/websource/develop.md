@@ -802,6 +802,7 @@
 + [5年经验的新同事问我，你们开发是用 git rebase 还是 git merge？我当时就蒙了。。。](https://mp.weixin.qq.com/s/eRHUyzcBdU_LVFepnkvvfA)
 + [Learn git the easy way! 一文入门 git 常用操作](https://mp.weixin.qq.com/s/lwvPTHxWSfs9XsTSaFT64Q)
 + [Git 标签管理深度指南](https://mp.weixin.qq.com/s/oShhbxo7rmhCfDf3BeJZ3w)
++ [分享Git的两个小技巧](https://mp.weixin.qq.com/s/nbxi9XkTtH_4f9IjpE1aOg)
 
 ### 编程范式
 

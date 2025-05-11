@@ -66,6 +66,7 @@
 + [Python变量注解语法详解，类型提示的现代用法](https://mp.weixin.qq.com/s/ae0aJaA_OP27fImNoKR3Gg)
 + [Python异常处理模式，上下文管理器的最佳实践](https://mp.weixin.qq.com/s/qahS9wxjOl8A-4-yton-GQ)
 + [Python基础：数据序列化](https://mp.weixin.qq.com/s/q-9XA9-rFW0oGVodsICK0A)
++ [为什么我们需要if __name__ == __main__](https://mp.weixin.qq.com/s/HaLl8W0h02wamkk9qpAZYA)
 
 ### 函数/方法
 
@@ -743,6 +744,7 @@
 + [图文解说numpy,了解使用场景和作用](https://mp.weixin.qq.com/s/lbl1b6g6eJSbakhtCC0PmQ)
 + [Numpy系列（二）- Numpy数组（一）](https://mp.weixin.qq.com/s/0ZdghNO3u-bkrq-lT9SPqA)
 + [100个NumPy小技巧，让你精通Python科学计算](https://mp.weixin.qq.com/s/hhdf-WtgCH4pjWtOM0CPCQ)
++ [NumPy数组之常用操作](https://mp.weixin.qq.com/s/tF_7p39OX9h8Ssmf-WGgtw)
 
 ## 工具
 

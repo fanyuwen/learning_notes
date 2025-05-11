@@ -83,6 +83,7 @@
 + [JavaSec-Java反序列化基础篇-反序列化概念与利用](https://mp.weixin.qq.com/s/yfi-FZ2iJYRi394I64RF9Q)
 + [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
 + [Java 真的不难（十三） String类](https://mp.weixin.qq.com/s/CdaEf83Qt4gcpuWBX8B6Yw)
++ [JAVA三个常用关键字的深入解析（二）](https://mp.weixin.qq.com/s/I_neLjhcjvYIobtEac9GUw)
 
 ### 方法/函数
 
@@ -363,6 +364,7 @@
 + [减少 try catch ，可以这样干！](https://mp.weixin.qq.com/s/dr788-sSHlAwTrAb0qzEBw)
 + [扯什么 try-catch 性能问题？](https://mp.weixin.qq.com/s/ermUxnxy88v2NkjaSVMTDQ)
 + [烂怂 if-else 代码优化方案 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9607356)
++ [干掉if...else，这几种写法更优雅！](https://mp.weixin.qq.com/s/Bxew0kF1ZGaTXbNnbBDrrw)
 + [答应我， 不要再用 if (obj != null) 判空了](https://mp.weixin.qq.com/s/Y0c7r8Vhqc-x5SEwNGvTNQ)
 + [代码手术刀 - 自定义你的代码重构工具](https://my.oschina.net/u/4090830/blog/11032974)
 + [关于 Java 异常处理的 9 条原则](https://my.oschina.net/u/6903207/blog/11053313)
@@ -662,6 +664,7 @@
 + [Java的Fork/Join框架](https://mp.weixin.qq.com/s/U3RHl2ch2JB7i5l3zlSQ-g)
 + [Java线程池知识点小结](https://mp.weixin.qq.com/s/JHgRDz7qGAiqpHq5ToL85Q)
 + [Java 线程池详解，图文并茂，我看还有谁不会？！](https://mp.weixin.qq.com/s/f2ZO-Drd6MbGXS03azHCvg)
++ [动态调试线程池？这几个坑让我崩溃三天](https://mp.weixin.qq.com/s/TAphsDYqyMS4YL-6VknINg)
 
 #### 锁
 
@@ -720,6 +723,7 @@
 + [面试练习 | 请简述synchronized和ReentrantLock的区别](https://mp.weixin.qq.com/s/ZjDYnSkOO1wplpAO4QFkuQ)
 + [面试练习 | Java中synchronized关键字的工作原理是什么？](https://mp.weixin.qq.com/s/HNLv9LwW2uD0XY5S4dFUCQ)
 + [Java并发锁机制系列（一）：Synchronized 的原理、实现与问题](https://mp.weixin.qq.com/s/kyLVLA4_WEO_MJwl4cInLg)
++ [面试练习 | 讨论Java并发中的StampedLock与ReadWriteLock的区别](https://mp.weixin.qq.com/s/5DDm_-7IGtWE6SoLNXqoHQ)
 
 #### volatile
 
@@ -739,6 +743,7 @@
 + [面试官：“volatile 你用过吗？” 我一紧张，说错了！](https://mp.weixin.qq.com/s/UtmiyLPnqjIqM6Eu_WbYbg)
 + [高并发崩溃的元凶竟是它？揭秘Java中volatile的致命陷阱！](https://mp.weixin.qq.com/s/iFFf8WxNCa-Jh7wrwEiyvA)
 + [面试练习 | Java中的volatile关键字有什么作用？](https://mp.weixin.qq.com/s/lWKR7j4DZ777odbU8_Ovww)
++ [面试练习 | 请描述Java中的synchronized和volatile的区别？](https://mp.weixin.qq.com/s/2lISwkl-cW2xBayVEKQr1A)
 
 ## 源码
 
@@ -793,6 +798,7 @@
 + [线程发生OOM后JVM会自动退出吗？](https://mp.weixin.qq.com/s/NfdfGyjaw7JM3UQCc8tWcg)
 + [一文搞懂 JVM 垃圾回收器](https://mp.weixin.qq.com/s/VSpBqv2VTy1pEN8YG6uzbw)
 + [面试官：说说方法区和永久代以及元空间有什么关系？](https://mp.weixin.qq.com/s/cNXxpFzGmzA8q14QbuseYQ)
++ [Java 进阶：JVM 架构篇](https://mp.weixin.qq.com/s/Vf7JwZbkXxJ3b9KIgCG03Q)
 
 ### 命令
 
@@ -1229,6 +1235,8 @@
 + [为什么大厂面试官都爱考阻塞队列？深入源码，揭秘它的独特魅力！](https://mp.weixin.qq.com/s/XSXCxQNbi6AB7t3tBiMCxw)
 + [Java并发集合类，让你再也不必为线程安全性的问题而烦恼](https://mp.weixin.qq.com/s/XYlq0rZkUFNeKrO1xiQrAA)
 + [硬核干货 | Phaser：比CyclicBarrier更灵活的多阶段同步神器！](https://mp.weixin.qq.com/s/A17NXpDkfLCX6Rq9odoPVw)
++ [Java多线程编程之CyclicBarrier](https://mp.weixin.qq.com/s/2oVHVX-uMt4QkWV-J3VZLw)
++ [CountDownLatch 和 CyclicBarrier的区别](https://mp.weixin.qq.com/s/YlLm8AjKasfnClVuKKzuCA)
 
 ## IO/NIO
 
@@ -1299,6 +1307,7 @@
 + [简化Maven项目依赖：优雅去除未使用Jar包](https://mp.weixin.qq.com/s/NZuEIbuekjwj3cbdNLspcA)
 + [pom文件中框架的先后顺序对 Spring Boot 项目的启动有没有影响，是否需要注意引入框架的顺序？](https://mp.weixin.qq.com/s/Es4F2yCL321wtthRXagLgQ)
 + [Maven实战](https://mp.weixin.qq.com/s/ErtWrRNzjJcR2ettUhAxsQ)
++ [抛弃Maven！试试这款官方推出的新一代Java高性能构建神器！](https://mp.weixin.qq.com/s/RyZPWDC3pZ8OwV_u-aGi1g)
 
 # 功能
 
@@ -1650,6 +1659,7 @@
 ### 核心基础概念
 
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
++ [Spring分析-IOC](https://mp.weixin.qq.com/s/_OjB8jrgadmAVCvWWj1-mA)
 + [Spring（一）手把手实现你的第一个 Spring 应用](https://mp.weixin.qq.com/s/taghHoJPoIaKj80ULSfzag)
 + [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/daKijLOpH8L_zTXUf1mC_g)
 + [Spring-Bean生命周期](https://mp.weixin.qq.com/s/7Au6rqyoIEmDc4CDsRnedg)
@@ -1710,6 +1720,7 @@
 + [Spring中的Bean工厂工具类](https://mp.weixin.qq.com/s/w9FXPvgc7iHibcfxNcod9w)
 + [深入浅出Spring IoC与DI：设计思想、实现方式与反射技术详解](https://mp.weixin.qq.com/s/KL6DEo_12drSpwVs1SYeYA)
 + [得物1面：Spring @ExceptionHandler注解的工作原理是什么？](https://mp.weixin.qq.com/s/gR_m51E2-ACHy2bPAU15ew)
++ [快手1面：@PreDestroy 注解有什么作用？](https://mp.weixin.qq.com/s/_W5lrYYjJsibKib2vkpy2Q)
 
 #### 配置
 
@@ -1836,6 +1847,7 @@
 + [社招面试杀手锏！Spring MVC到底是什么？小米亲测上岸经验分享！](https://mp.weixin.qq.com/s/2KlEPAtriQaOp7H5SYojUQ)
 + [99%的人都答错了！Spring MVC 控制器到底是不是单例？怎么破局？](https://mp.weixin.qq.com/s/DXaeLuZr_zC0hASmuvVSMg)
 + [@RequestBody接map有什么弊端](https://mp.weixin.qq.com/s/zx5TbXnvwKPAaR4Y1ZY9nQ)
++ [别背八股了，用这个故事让你彻底理解Spring MVC核心机制！](https://mp.weixin.qq.com/s/NOYMuWdHZj9zEiEvCGcYzw)
 
 ### concurrent
 
@@ -2278,6 +2290,7 @@
 + [SpringBoot中内置的49个常用工具类](https://mp.weixin.qq.com/s/paVFI3OhV07yT_pmYOhtqA)
 + [Spring Boot 神奇的2个类！动态方法查找调用](https://mp.weixin.qq.com/s/X75tZBDjNrKIEx62ofQAog)
 + [掌握 Spring Boot 7个高级知识点](https://mp.weixin.qq.com/s/iRvpkCobeo7g4UG49iPQSw)
++ [炸裂！@Transactional遇上@Async：是"王炸组合"还是"致命事故"](https://mp.weixin.qq.com/s/tVYuodPQeJBtM-zG6aW6ww)
 
 #### 版本特性
 
@@ -2884,6 +2897,7 @@
 
 + [SpringBoot + Disruptor = 王炸！！](https://mp.weixin.qq.com/s/YQfwuCasq-nN23lxUtGuZw)
 + [支撑每秒数百万订单无压力，SpringBoot + Disruptor 太猛了！](https://mp.weixin.qq.com/s/dNZt0WqRDFT8owX4oOx4xA)
++ [支撑每秒 600 万订单无压力，SpringBoot + Disruptor 太猛了！](https://mp.weixin.qq.com/s/jK4VABCMqG9tMzzu483Yaw)
 + [SpringBoot + Disruptor 实现特快高并发处理，支撑每秒 600 万订单无压力！](https://mp.weixin.qq.com/s/ThTqb1z04ixc0NNJ-ot9_w)
 + [SpringBoot与Disruptor整合，实现电商秒杀百万级别交易订单的高性能无锁异步处理](https://mp.weixin.qq.com/s/0QBZCHQ4cgcD9GIRQxNNsg)
 + [百万级订单毫秒响应！SpringBoot 整合 Disruptor，打造高性能秒杀系统](https://mp.weixin.qq.com/s/fhTYO3MlF46oCSEpdoY2XA)

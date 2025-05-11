@@ -56,6 +56,8 @@
 + [栈的四种模型](https://mp.weixin.qq.com/s/BR8GBSc-wktcUZFCkgfBGg)
 + [缓存穿透的解决方式？—布隆过滤器](https://mp.weixin.qq.com/s/7p_3FpgvOZ98a28w-VLexg)
 + [算法笔记 - 二叉树展开为链表](https://mp.weixin.qq.com/s/ElfHTaEDaPPwPoo3yopIJg)
++ [LRU 缓存](https://mp.weixin.qq.com/s/Vc9tQ1OewpnggQhhyh7QUQ)
++ [二叉树及其性质](https://mp.weixin.qq.com/s/O1cvrhETZPbJ6w-jvgP_lg)
 
 ## 排序算法
 

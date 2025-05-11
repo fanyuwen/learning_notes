@@ -295,6 +295,7 @@
 
 + [Nuxt3和Next.js对比](https://mp.weixin.qq.com/s/OuKO8fcT5LsIBWtkSH7Png)
 + [您需要了解的 10 个顶级 JavaScript 库](https://mp.weixin.qq.com/s/PK9eBvHGkz2ihHtL5CD7lg)
++ [使用express-validator进行数据校验](https://mp.weixin.qq.com/s/HVVufriLLZfYqkOeyOkmUg)
 
 # 架构相关
 
@@ -345,3 +346,4 @@
 + [TypeScript 需要一个更好的依赖注入框架](https://mp.weixin.qq.com/s/wWcgxaYxVnqTVywUSOgZXg)
 + [nrm 管理 npm 镜像源 | npm 私服使用介绍](https://mp.weixin.qq.com/s/UufIohwmm9TT-5YxMEnDUQ)
 + [为什么会 js 但是依然不会写 node？原因竟是这三点...](https://mp.weixin.qq.com/s/lhMHJwxIhPNfm9BhTsOIyQ)
++ [ECMAScript 2025新增了这些核心特性，看看你都知道几个？](https://mp.weixin.qq.com/s/oXKQrXN0qxUETgSlpFi15Q)

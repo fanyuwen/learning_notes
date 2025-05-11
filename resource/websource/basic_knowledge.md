@@ -25,6 +25,7 @@
 + [Windows查看占用文件的进程](https://mp.weixin.qq.com/s/yLEQ4OIqVuKt80ZWDuR0zQ)
 + [掌握这些CMD命令，让你的Windows操作效率翻倍！](https://mp.weixin.qq.com/s/EjiPievM6uyphOVB0HknLg)
 + [Windows命令查看系统信息，建议收藏](https://mp.weixin.qq.com/s/ddrlXvLOLiRWyeHGNKmKhg)
++ [异步如何提升了生产力](https://mp.weixin.qq.com/s/ncKzde0Zjrtoxj-dPq-9jA)
 
 ## linux
 
@@ -203,6 +204,8 @@
 + [[CPU缓存#3]-MESI和内存屏障](https://mp.weixin.qq.com/s/JHghW-KXiJj6bB_TdfxFxA)
 + [深入理解CPU上下文切换、进程上下文、中断上下文](https://mp.weixin.qq.com/s/eEUqDOITcabd4Qgs__H4-g)
 + [一文看懂CPU cache的基本原理](https://mp.weixin.qq.com/s/b6mfFhQ1GsXEEvgDR3NPqQ)
++ [一文读懂CPU调度算法：计算机的“任务指挥官”](https://mp.weixin.qq.com/s/i9aS0K7SkXHfVFkhGt_4Ew)
++ [从CPU原理看：为什么你的代码会让CPU"原地爆炸"？](https://mp.weixin.qq.com/s/VaGUBAsWqxv2JYrV_3Jo0w)
 
 ### 并发
 

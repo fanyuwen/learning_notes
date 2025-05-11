@@ -467,6 +467,7 @@
 + [Java开发者必备：深度剖析MySQL锁机制与实战避坑指南](https://mp.weixin.qq.com/s/Rj1-L7bK1yi4-QHDU_GfRw)
 + [MySQL锁概览](https://mp.weixin.qq.com/s/4NYcBo5LvTSU4RCamS67Hg)
 + [MySQL 死锁怎么排查？从 information_schema 到 SHOW ENGINE INNODB STATUS](https://mp.weixin.qq.com/s/BQur3A63NdP-DTX6Jhb1CQ)
++ [MySQL死锁的重现：超越纸上谈兵](https://mp.weixin.qq.com/s/-QEaq9_3ylxnUizo4G3XGg)
 
 #### 事务
 
@@ -562,6 +563,7 @@
 + [MySQL是如何选择索引的？为什么有时候索引会失效？](https://mp.weixin.qq.com/s/XScFxuD3dE6-47mEoAIyKQ)
 + [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(中)](https://mp.weixin.qq.com/s/2iHIR7NWbMy7klZlBvGYCw)
 + [MySQL加了唯一索引，数据还是重复？](https://mp.weixin.qq.com/s/8jbxZE2VXqjr4nHS5jSV4A)
++ [第37期 MySQL索引下推](https://mp.weixin.qq.com/s/I4bIXeh85TP3vRllRe2lDw)
 
 ### PostgreSQL
 
@@ -791,6 +793,7 @@
 + [Redis集群碎碎念：必知必会的知识点](https://mp.weixin.qq.com/s/vOKnTaRleRck_njzWdA7Dw)
 + [redis 缓存穿透](https://mp.weixin.qq.com/s/nKe4OewGdPVOz9FTt8pf8w)
 + [你必须懂的Redis十大应用场景](https://mp.weixin.qq.com/s/1BvqheayATCdeWd_9vkB1w)
++ [Redis Stream的6种消息处理模式](https://mp.weixin.qq.com/s/x9qytRgoxMAaNOyvTTeskQ)
 
 #### 原理
 

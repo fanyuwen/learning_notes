@@ -108,6 +108,7 @@
 + [技术Leader如何落地DDD（五）](https://mp.weixin.qq.com/s/kIq3RRaUSyXGV30H6CplVw)
 + [DDD之封装的复杂度](https://mp.weixin.qq.com/s/s53t7KvNmhmjynMjgUTpBw)
 + [DDD与CRUD的本质区别](https://mp.weixin.qq.com/s/XcutD-s27LbR6rukcR3KkQ)
++ [DDD落地实现的深水区（4）整洁架构落地（上）](https://mp.weixin.qq.com/s/m2a35-RONAs1AW57YIG1Cw)
 
 ## 微服务
 
@@ -257,6 +258,7 @@
 + [分布式锁介绍](https://mp.weixin.qq.com/s/1Joo0dN47TEmvq6BhS5wow)
 + [分布式锁实现解析：几种简单方式的对比与选择](https://mp.weixin.qq.com/s/p41UsC969wUHs1tEmYUdzg)
 + [深入理解分布式锁：原理、应用与挑战](https://my.oschina.net/u/4090830/blog/17877412)
++ [分布式锁+事务=灾难？不要把锁加在事务内！！！](https://mp.weixin.qq.com/s/-DPIYfY9YCQ3GBKXIy81ww)
 
 ## 分布式缓存
 
@@ -279,6 +281,7 @@
 + [支付宝终面：万亿级资金流转，TCC如何实现资金零差错？](https://mp.weixin.qq.com/s/8oS8AEl0NJBM0kUy_A4Irw)
 + [分布式事务最终一致性：基于消息队列的设计与实现](https://mp.weixin.qq.com/s/74Yj8T9baK7O_ySI_I7HVQ)
 + [分布式事务的解决方案—Seata AT模式](https://mp.weixin.qq.com/s/YyKRQqk50ZP8EqWT9ZTM4A)
++ [分布式事务的解决方案—Seata TCC模式](https://mp.weixin.qq.com/s/voZX95_EoFADkFZjNSE0lg)
 
 ## 分布式算法
 

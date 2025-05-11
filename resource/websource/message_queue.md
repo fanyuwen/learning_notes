@@ -113,6 +113,7 @@
 + [Kafka 性能调优指南：Producer与Broker篇](https://mp.weixin.qq.com/s/hrrLj8rnEchddLUhedQJfg)
 + [Kafka 消费者组机制详解：负载均衡与消费状态管理](https://mp.weixin.qq.com/s/rwslD5HCqkoLDJiIlj-4Sw)
 + [Kafka 中的幂等性与事务机制，能解决消息重复吗？](https://mp.weixin.qq.com/s/P0uH94CWvGgncpLypjZduw)
++ [Kafka 不确认导致重复消费的问题](https://mp.weixin.qq.com/s/VrswURWaKiLSbb1Y12poBw)
 
 # ROCKETMQ
 

@@ -76,6 +76,7 @@
 + [知乎热议：为什么多数程序员都不做个人独立开发？](https://mp.weixin.qq.com/s/lJkuVqv-cfWVe0E4VqFXiA)
 + [为什么很多IT失业者，找工作都挑三拣四的，宁愿天天在家玩，也不去月薪2万以下的小公司？](https://mp.weixin.qq.com/s/5Isl3SyJRS091eACSdiIRg)
 + [坑啊！前端倒计时有误差！让公司损失了几十万！](https://mp.weixin.qq.com/s/UQynfmyApRXaZ-V_ZuA0TQ)
++ [第一批90后，正在断崖式衰老](https://mp.weixin.qq.com/s/8srY7wkgY3NzT955_nWudA)
 
 # 个人成长
 
@@ -284,6 +285,7 @@
 + [IDEA 注释模板这样搞！爽！](https://mp.weixin.qq.com/s/2syi6EEZryuTUa0orgVBLA)
 + [pycharm常用小技巧，提高编程效率！](https://mp.weixin.qq.com/s/hYfMVSKydxdxV5ATyXZyrg)
 + [IDEA 2025.1王炸更新，新特性真香！](https://mp.weixin.qq.com/s/X40mKVdxCc0WVWeOtB8kIA)
++ [Java 8 被 IDEA 彻底抛弃了？【文末送书】](https://mp.weixin.qq.com/s/jbO05ylOM7XI7K7hX365AQ)
 
 ## MAC_PRO相关
 

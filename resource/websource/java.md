@@ -418,6 +418,7 @@
 + [美团面试：new Integer("127") 和 Integer.valueOf("128") 有什么区别](https://mp.weixin.qq.com/s/tmuPhJ3cJ4FNpBg275iuLA)
 + [面试官：ArrayList序列化中，为什么用transient修饰数组？](https://mp.weixin.qq.com/s/1G4vDaODwsr3u1tnVO1FZw)
 + [Java 8 Lambda 能否访问接口的默认方法？代码实测揭秘！](https://mp.weixin.qq.com/s/DmqVdG1GVjsxVU4dlqP9Iw)
++ [招行2面：为什么需要序列化和反序列？为什么不能直接使用对象？](https://mp.weixin.qq.com/s/Jm63nHFDXT4iCqAQPckrEw)
 + [用通俗易懂的大白话让你彻底搞明白 Java里的函数式编程和Lambda表达式真香！](https://mp.weixin.qq.com/s/kn6TCBjsh1W1NsU1SnWCnQ)
 + [Java真的不难（三十）Lambda表达式](https://mp.weixin.qq.com/s/cX0TVM2AdrTHYZ82VC_keA)
 + [Java 1.8 Lambda 如何访问局部变量，成员变量？](https://mp.weixin.qq.com/s/gFwhR7Ty_CtOJ7TU02WKvQ)
@@ -637,6 +638,7 @@
 + [一文搞懂高效并发编程：无锁编程的秘密与实战](https://mp.weixin.qq.com/s/2pmYT7F708m_MRS6Jm9xhQ)
 + [Java真的不难（二十八）多线程（二）](https://mp.weixin.qq.com/s/jk5sZ1cSyAjlOcEGBXLJIw)
 + [面试练习 | Java线程状态及其转换条件是什么？](https://mp.weixin.qq.com/s/85BNWB65uMJxg2p6V8TLDw)
++ [解锁Java 24并发编程：虚拟线程与CompletableFuture的深度结合](https://mp.weixin.qq.com/s/Bh_VAo8Nk8i8N1Tz3HjHKQ)
 
 #### 线程池
 
@@ -1619,6 +1621,11 @@
 + [0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/kWQUQXdLWwcIfxsVnRTxbA)
 + [换掉SpringBoot？0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/joQcv60Er_FFIRyrSYVaxg)
 
+## reactor
+
++ [Reactor，一个响应式编程的能量核心！](https://mp.weixin.qq.com/s/DDdxh2DEQR9bhyK_6kSlTw)
++ [Java响应式编程实践与原理解析](https://mp.weixin.qq.com/s/qAHFMXW-rtWVltm3H-BryA)
+
 ## redisson
 
 + [一文掌握 Redisson 分布式锁原理（值得收藏）](https://mp.weixin.qq.com/s/95N8mKRreeOwaXLttYCbcQ)
@@ -2300,6 +2307,7 @@
 + [掌握 Spring Boot 7个高级知识点](https://mp.weixin.qq.com/s/iRvpkCobeo7g4UG49iPQSw)
 + [炸裂！@Transactional遇上@Async：是"王炸组合"还是"致命事故"](https://mp.weixin.qq.com/s/tVYuodPQeJBtM-zG6aW6ww)
 + [绝了！8个 Spring Boot 开发必备技能](https://mp.weixin.qq.com/s/bL2973yFnevdGdXYFBvXYg)
++ [都说 SpringBoot 启动慢 ，你知道慢在哪里吗？](https://mp.weixin.qq.com/s/VhasQstwWmdKtnaR3PDIaA)
 
 #### 版本特性
 
@@ -3466,6 +3474,7 @@
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
++ [Java真的不难（四十六）设计模式的开闭原则&里氏代换原则及案例](https://mp.weixin.qq.com/s/81qLAj5FY4ktAdBG4BP3EQ)
 + [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)
 + [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)
 + [聊聊四种实时通信技术：短轮询、长轮询、WebSocket 和 SSE](https://mp.weixin.qq.com/s/NIACuNgHtSFgKHc7T1G3Wg)

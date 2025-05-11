@@ -265,6 +265,7 @@
 + [有了HTTP为什么还要Websocket？一文带你解密Websocket协议](https://mp.weixin.qq.com/s/zrO9CqpradVWu0qX4HIxRQ)
 + [WebSocket 的 6 种集成方式](https://mp.weixin.qq.com/s/5v1qIxREcY6a2Gs1w66LNw)
 + [WebSocket实时通信技术详解：从原理到Spring Boot实战](https://mp.weixin.qq.com/s/LnLRi8KmHPQAOx7OI69BVw)
++ [WebSocket之外，SSE协议为何被大厂悄悄采用？](https://mp.weixin.qq.com/s/LTytJL4MMLHuU892O8CnzQ)
 
 # 工具
 

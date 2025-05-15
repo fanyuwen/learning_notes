@@ -179,7 +179,7 @@
 + 用于基于堆栈的虚拟机的二进制指令格式(web平台) [webassembly](https://webassembly.org/)
 
 ### C/C++_TOOL
-+ 编译器 [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) [gcc](https://gcc.gnu.org/) [clang](https://clang.llvm.org/) [mingw-w64](https://www.mingw-w64.org/)
++ 编译器 [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) [gcc](https://gcc.gnu.org/) [clang](https://clang.llvm.org/) [mingw-w64](https://www.mingw-w64.org/) [msys2](https://www.msys2.org/)
 + c/c++构建工具 [cmake](https://cmake.org/)
 + 包管理工具 [conan](https://conan.io/)
 

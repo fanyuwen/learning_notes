@@ -206,6 +206,9 @@
 + [一文看懂CPU cache的基本原理](https://mp.weixin.qq.com/s/b6mfFhQ1GsXEEvgDR3NPqQ)
 + [一文读懂CPU调度算法：计算机的“任务指挥官”](https://mp.weixin.qq.com/s/i9aS0K7SkXHfVFkhGt_4Ew)
 + [从CPU原理看：为什么你的代码会让CPU"原地爆炸"？](https://mp.weixin.qq.com/s/VaGUBAsWqxv2JYrV_3Jo0w)
++ [CPU的结构与工作原理](https://mp.weixin.qq.com/s/o6kYGMlYoJmPJYBgsrt7Cg)
++ [CPU指令的执行过程](https://mp.weixin.qq.com/s/_ERWWGjDIOUk5YaPSirNzQ)
++ [寄存器的组成原理](https://mp.weixin.qq.com/s/W3KztsdpCPC7G638MyxxiA)
 
 ### 并发
 

@@ -889,3 +889,4 @@
 + [从零到精通的Python自学之路：一位老司机的肺腑之言](https://mp.weixin.qq.com/s/2FJ5cGCxH_nmd-k_6Eu_yg)
 + [全网程序员都在问：为什么新来的用Python比我快10倍？答案在这...](https://mp.weixin.qq.com/s/J1uoPiQ2crLjUWV40QE2vQ)
 + [深入 Python 之禅，写出地道代码](https://mp.weixin.qq.com/s/0z6WgN3MHY_tVntditonFg)
++ [Python 图像编程|从零开始生成棋盘纹理](https://mp.weixin.qq.com/s/Om11DqRx1K0NewC2JKiVKA)

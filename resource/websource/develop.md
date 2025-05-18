@@ -282,6 +282,7 @@
 + [分布式事务最终一致性：基于消息队列的设计与实现](https://mp.weixin.qq.com/s/74Yj8T9baK7O_ySI_I7HVQ)
 + [分布式事务的解决方案—Seata AT模式](https://mp.weixin.qq.com/s/YyKRQqk50ZP8EqWT9ZTM4A)
 + [分布式事务的解决方案—Seata TCC模式](https://mp.weixin.qq.com/s/voZX95_EoFADkFZjNSE0lg)
++ [详细讲解一下分布式事务-两阶段提交的实现原理](https://mp.weixin.qq.com/s/3-2InkDflnW3mAo5JFR0UA)
 
 ## 分布式算法
 
@@ -557,6 +558,7 @@
 + [字节面试：领域、子域、核心域、通用域和支撑域怎么划分？](https://mp.weixin.qq.com/s/hR6JM3d1TRkQ_CVF24Wo-g)
 + [写个简单的项目自动部署脚本](https://mp.weixin.qq.com/s/jjW2aIi_KUusQdc9uLnUGg)
 + [我在项目里用雪花算法搞了唯一ID生成，结果上线就引发了故障...](https://mp.weixin.qq.com/s/pPlD1Po6AEURluGuZrApcw)
++ [别再用雪花算法生成 ID 了！试试这个吧](https://mp.weixin.qq.com/s/RDuB10cXJ_A2ObziluS-OQ)
 + [3年0严重故障：货拉拉如何连续保持业务高峰的稳定运行？](https://mp.weixin.qq.com/s/hDGukfP_YCoFeKrw3XXqCg)
 + [接口设计的18条军规](https://mp.weixin.qq.com/s/viJaTMM58e8s7QtNFMWdkA)
 + [谷歌开源内部代码评审规范](https://my.oschina.net/u/3727380/blog/4440075)

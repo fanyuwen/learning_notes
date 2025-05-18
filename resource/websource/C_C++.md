@@ -149,6 +149,7 @@
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
 + [Mutex的实现原理](https://mp.weixin.qq.com/s/gyAJSGoJ7WB8dsB1X2IS0g)
 + [漫画 | 为什么C语言永不过时？](https://mp.weixin.qq.com/s/8KoL0Eoi2j4ANlxNEpGfBA)
++ [灵魂拷问，指针为什么是C语言的灵魂？](https://mp.weixin.qq.com/s/cCB3SA44Dyz8ZabTu4gvHQ)
 + [C语言学习指南：这些核心知识点你掌握了吗？](https://mp.weixin.qq.com/s/h5xCE0XOZrV5i8f7o8qjlQ)
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)

@@ -113,6 +113,7 @@
 + [面试官：Java中枚举和常量（如public static final变量）相比有哪些优势？](https://mp.weixin.qq.com/s/Tc7NN-LBXgvkkHL6PMKHNw)
 + [为什么在enum中成员变量不能放在最前面？](https://mp.weixin.qq.com/s/HBiCz7iEz08W21Pg3vfr1A)
 + [公司新来一个同事，把枚举运用得炉火纯青...](https://mp.weixin.qq.com/s/B_ldoijeU49EiYGCrVcssg)
++ [Java真的不难（五十八）枚举类型enum详解及实战用法](https://mp.weixin.qq.com/s/pN56vW46d_ihhaSasG_Kjg)
 
 ### 注解
 
@@ -166,6 +167,7 @@
 + [Java协程终于在生产环境真正可用](https://mp.weixin.qq.com/s/jNT7V6Z9JjItTIAacG_jDQ)
 + [Map.of()的兄弟方法Map.ofEntries()使用禁忌](https://mp.weixin.qq.com/s/lZYa71VXRanvusuUU5Qf-g)
 + [创建Map集合的快捷方法Map.of()，第一次用就踩坑了？谨记这3点防止再次入坑！](https://mp.weixin.qq.com/s/uwy0OuboXxpXTHGeDOVXuA)
++ [Java 8 到 Java 24 新特性一览](https://mp.weixin.qq.com/s/GPMHkH7eJ02yWReeQVTEtg)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
@@ -1529,6 +1531,7 @@
 + [面试官：如何通过Mybatis拦截器监控SQL](https://mp.weixin.qq.com/s/BU_Mo2hr2p5MgMqPvM9BEQ)
 + [如何在放弃MyBatis分页插件后优雅实现高性能分页](https://mp.weixin.qq.com/s/mRP96ef41tGs5auBVscrcQ)
 + [Mybatis原理解析](https://mp.weixin.qq.com/s/dND1eP7GkPFDRhGrdQyDSA)
++ [MyBatis中 #{} 并非万能：动态SQL实战](https://mp.weixin.qq.com/s/6oV3k1riB0d0JA9eyC0IkA)
 
 ### plus
 
@@ -1658,6 +1661,8 @@
 + [redisson 使用与分析](https://mp.weixin.qq.com/s/MtIuMCeYkDzRbHynhHtFCg)
 + [深夜警报：祖传代码用Redisson实现限流，结果锁竟然失效了！](https://mp.weixin.qq.com/s/NAxpNSIF8-C8sSENtAorfg)
 + [Redisson中分布式信号量RSemaphore](https://mp.weixin.qq.com/s/8cvl2JHoD6dV7yXSQcf8aA)
++ [Redisson 实现高效限流机制](https://mp.weixin.qq.com/s/F_8FmvzZYhyrSXTS8yLPtg)
++ [Redisson分布式锁核心源码揭秘](https://mp.weixin.qq.com/s/25eDvAwp8T2US9HD_35TWQ)
 
 ## ribbon
 
@@ -1878,6 +1883,7 @@
 + [别背八股了，用这个故事让你彻底理解Spring MVC核心机制！](https://mp.weixin.qq.com/s/NOYMuWdHZj9zEiEvCGcYzw)
 + [《SpringMVC6》第08节：SpringMVC如何接收前端的请求参数](https://mp.weixin.qq.com/s/Hy_lFuZHFglpz8bMy9iT6w)
 + [Spring Validation中9个数据校验工具](https://mp.weixin.qq.com/s/GO_KOH0T4JbSscq9ftRIgQ)
++ [炸裂！仅用一个类就能跑通Spring MVC程序](https://mp.weixin.qq.com/s/RrjMrIRl_xTfU-9DX1YWew)
 
 ### concurrent
 
@@ -2050,6 +2056,8 @@
 + [全面解析 Spring AOP 切入点表达式](https://mp.weixin.qq.com/s/PPl-L5CQECUQQyiURbNKzw)
 + [Spring AOP从入门到实战：原理、用法与应用场景全解析](https://mp.weixin.qq.com/s/09UBLGr65-EkpDa9vjVJsw)
 + [为什么Spring不用静态代理？先搞懂静态代理的三大硬伤！](https://mp.weixin.qq.com/s/dkxqfZJPZxbktNBu2Cf0Tg)
++ [JavaSec | SpringAOP 链学习分析](https://mp.weixin.qq.com/s/BBjpXCa8BcFPYdl6nJu-Kg)
++ [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/JDFQQiecUJeaNt37AP7UKQ)
 
 ### 配置打包部署
 
@@ -2324,6 +2332,8 @@
 + [炸裂！@Transactional遇上@Async：是"王炸组合"还是"致命事故"](https://mp.weixin.qq.com/s/tVYuodPQeJBtM-zG6aW6ww)
 + [绝了！8个 Spring Boot 开发必备技能](https://mp.weixin.qq.com/s/bL2973yFnevdGdXYFBvXYg)
 + [都说 SpringBoot 启动慢 ，你知道慢在哪里吗？](https://mp.weixin.qq.com/s/VhasQstwWmdKtnaR3PDIaA)
++ [太强了！Spring Boot这样玩缓存，性能直接起飞](https://mp.weixin.qq.com/s/NPqJ3idN_aatQBtP9ItcMg)
++ [构建美观且高效的 Spring Boot 脚手架](https://mp.weixin.qq.com/s/3o5LENVlDk8D-l747VCv2w)
 
 #### 版本特性
 

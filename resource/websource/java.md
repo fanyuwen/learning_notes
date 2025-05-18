@@ -346,6 +346,7 @@
 + [String之拼接小技巧](https://mp.weixin.qq.com/s/ec-57rnpZpeiGqmT9r-pBQ)
 + [Java真的不难（五十二）Base64的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/fEa-04_oN9EAwXchVARaJg)
 + [Java真的不难（五十三）MD5的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/pRz6Rl01ZrnkJmLJasILpQ)
++ [Java真的不难（五十五）日期API及生日提醒系统业务](https://mp.weixin.qq.com/s/oK1Acy6kK7yzDcGxZY-GWg)
 
 ## 代码质量
 

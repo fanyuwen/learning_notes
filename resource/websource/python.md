@@ -113,6 +113,7 @@
 + [告别冗余代码！这 20 个 Python 内置函数让你的编程更优雅高效](https://mp.weixin.qq.com/s/Cu0Z9NTo3Nz2DD3IQ-808g)
 + [一起来看看Python中的高阶函数](https://mp.weixin.qq.com/s/PnL7Ys_x8B8WvDi_jfzmMg)
 + [【Python基础】Python中的enumerate()函数](https://mp.weixin.qq.com/s/kxF8G_TINb3xNZjiEMT8GA)
++ [【Python基础】Python中的generator函数以及yield关键字](https://mp.weixin.qq.com/s/MkeBiHOJwcEXXwC0yJqPxA)
 
 ### 面向对象
 

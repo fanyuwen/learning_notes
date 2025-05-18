@@ -71,6 +71,7 @@
 ### TOOL
 + java应用编译运行平台 [graalvm](https://www.graalvm.org)
 + java热加载 [jrebel](https://www.jrebel.com)
++ java生态版本管理工具 [sdkman](https://sdkman.io/)
 + 静态java质量管理工具 [findbugs](https://findbugs.sourceforge.net/) [archunit](https://www.archunit.org/) [checkstyle](https://checkstyle.org/) [OWASP DependencyCheck](https://owasp.org/www-project-dependency-check/)
 + java源代码分析工具 [javaparser](https://javaparser.org)
 + 移动端应用debugger工具 [fbflipper](https://fbflipper.com)

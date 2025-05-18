@@ -155,6 +155,7 @@
 + [RocketMQ核心架构与原理深度解析](https://mp.weixin.qq.com/s/5ScMt3MIkhHvnfoVUvAP_A)
 + [分布式事务：使用RocketMQ来实现](https://mp.weixin.qq.com/s/3x0wdl4ut-Y87WzP5IyzyA)
 + [RocketMQ负载均衡机制：如何在生产者与消费者端实现高效资源分配？](https://mp.weixin.qq.com/s/od53oSQ5jsOPdiu9rjvz8w)
++ [RocketMQ是如何解决消息重复的？](https://mp.weixin.qq.com/s/H6mW0Zrs_SOcJOUiXt7nYw)
 
 # RABBITMQ
 

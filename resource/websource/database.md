@@ -567,6 +567,7 @@
 + [探秘 MySQL 索引底层原理，解锁数据库优化的关键密码(中)](https://mp.weixin.qq.com/s/2iHIR7NWbMy7klZlBvGYCw)
 + [MySQL加了唯一索引，数据还是重复？](https://mp.weixin.qq.com/s/8jbxZE2VXqjr4nHS5jSV4A)
 + [第37期 MySQL索引下推](https://mp.weixin.qq.com/s/I4bIXeh85TP3vRllRe2lDw)
++ [聚簇与非聚簇索引、回表及索引下推原理](https://mp.weixin.qq.com/s/O8luHtjLkj-6fufT9874ng)
 
 ### PostgreSQL
 

@@ -345,6 +345,7 @@
 + [自己实现一个BlockingQueue并优化](https://mp.weixin.qq.com/s/CaYfsamPaL5XWFDfi4v4IA)
 + [String之拼接小技巧](https://mp.weixin.qq.com/s/ec-57rnpZpeiGqmT9r-pBQ)
 + [Java真的不难（五十二）Base64的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/fEa-04_oN9EAwXchVARaJg)
++ [Java真的不难（五十三）MD5的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/pRz6Rl01ZrnkJmLJasILpQ)
 
 ## 代码质量
 
@@ -647,6 +648,7 @@
 + [解锁Java 24并发编程：虚拟线程与CompletableFuture的深度结合](https://mp.weixin.qq.com/s/Bh_VAo8Nk8i8N1Tz3HjHKQ)
 + [Java多线程发展史，我们可以学到什么？](https://mp.weixin.qq.com/s/d1DYaDr1BUB33QFVommfOQ)
 + [Java多线程从创建开始——创建和使用以及了解多线程的切换策略](https://mp.weixin.qq.com/s/OaNyb9ygtzOlFrmevGc_yQ)
++ [六种策略，设计一个线程安全的 Java 类](https://mp.weixin.qq.com/s/UYNikcVFQBXeSbgHCoTsRQ)
 
 #### 线程池
 
@@ -738,6 +740,7 @@
 + [面试练习 | Java中synchronized关键字的工作原理是什么？](https://mp.weixin.qq.com/s/HNLv9LwW2uD0XY5S4dFUCQ)
 + [Java并发锁机制系列（一）：Synchronized 的原理、实现与问题](https://mp.weixin.qq.com/s/kyLVLA4_WEO_MJwl4cInLg)
 + [面试练习 | 讨论Java并发中的StampedLock与ReadWriteLock的区别](https://mp.weixin.qq.com/s/5DDm_-7IGtWE6SoLNXqoHQ)
++ [Java并发锁机制系列（三）：一文带你掌握乐观锁的全部细节](https://mp.weixin.qq.com/s/1lopMylrE1Olc6K0MfFABQ)
 
 #### volatile
 
@@ -924,6 +927,7 @@
 + [快速入门-JVM垃圾收集](https://mp.weixin.qq.com/s/8znHns4qvWpKo2zeyJpkLg)
 + [Full GC 频率优化实战](https://my.oschina.net/vivotech/blog/18231016)
 + [JVM垃圾收集器详解与演进分析：为什么有这么多垃圾收集器？](https://mp.weixin.qq.com/s/VPcpa1lgx2TDTRxJET9b2g)
++ [记录一次频繁FullGC的排查过程](https://mp.weixin.qq.com/s/v3Bq_SvzA5CfoLvllnhVpw)
 
 # 核心库
 
@@ -2774,6 +2778,8 @@
 + [京东二面：Spring Boot中如何注册一个Filter？底层是如何实现的？](https://mp.weixin.qq.com/s/7Z0iBtWdeGYc67gZQZM4QA)
 + [Controller 接口竟有这些 "神操作"？](https://mp.weixin.qq.com/s/l-ialXkrrFvghFSqclA_7g)
 + [SpringBoot中的9个自带实用过滤器](https://mp.weixin.qq.com/s/sfGFPTR0JULokkew8LhrpA)
++ [SpringBoot中7个文件上传下载工具](https://mp.weixin.qq.com/s/diYSoiwCRJ9gaLcN1MPHeA)
++ [惊呆了！Spring Boot接口定义：8种逆天玩法](https://mp.weixin.qq.com/s/LRfgXnvv5-eNcRTYJGFTyg)
 
 ##### VUE
 
@@ -3499,11 +3505,13 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [Java漏洞在黑盒实战中的技巧——反序列化篇（发现、绕过、脚本编写以及结合漏洞分析）](https://mp.weixin.qq.com/s/RRPG8FSTCZjOZjZUOpqQNQ)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
 + [Java真的不难（四十六）设计模式的开闭原则&里氏代换原则及案例](https://mp.weixin.qq.com/s/81qLAj5FY4ktAdBG4BP3EQ)
 + [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)
 + [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)
++ [Java中的JWT详解](https://mp.weixin.qq.com/s/-NNctdBFYLwqMJs7vX-Bmg)
 + [聊聊四种实时通信技术：短轮询、长轮询、WebSocket 和 SSE](https://mp.weixin.qq.com/s/NIACuNgHtSFgKHc7T1G3Wg)
 + [详细讲解一下高性能设计里面的异步处理机制](https://mp.weixin.qq.com/s/t-dLXwavKK7KNurhzU_puA)
 + [Java性能调优以及相关工具的使用](https://mp.weixin.qq.com/s/_1-gXGI_6BUyqQopUSUoOQ)

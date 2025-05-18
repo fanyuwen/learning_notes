@@ -108,6 +108,7 @@
 + [轻松管理Linux定时任务：Cron实用教程](https://mp.weixin.qq.com/s/o83L0aC1lkXcFGQe6-3mqQ)
 + [深入探索linux系统调用的来龙去脉](https://mp.weixin.qq.com/s/S3bER9uAED3a-ycMoQS-VQ)
 + [Linux内核链表](https://mp.weixin.qq.com/s/10qnsGDMCPfEEfQRQPxaVQ)
++ [Linux内核代码追踪：如何“分裂”出一个新进程的？](https://mp.weixin.qq.com/s/qKEz2rlt-sNVKdmZveeIqA)
 
 ### 网络
 
@@ -209,6 +210,7 @@
 + [CPU的结构与工作原理](https://mp.weixin.qq.com/s/o6kYGMlYoJmPJYBgsrt7Cg)
 + [CPU指令的执行过程](https://mp.weixin.qq.com/s/_ERWWGjDIOUk5YaPSirNzQ)
 + [寄存器的组成原理](https://mp.weixin.qq.com/s/W3KztsdpCPC7G638MyxxiA)
++ [一文读懂电脑“心脏”，CPU硬件工作原理](https://mp.weixin.qq.com/s/WsgEFuRqfJCKoM3Q-3Q-UA)
 
 ### 并发
 
@@ -495,6 +497,7 @@
 ## 字符编码
 
 + [ASCII、Unicode、UTF-8、utf8mb4，有啥区别？](https://mp.weixin.qq.com/s/7khFCHebVtPSpsfGse7vCA)
++ [计算机字符编码进化史](https://mp.weixin.qq.com/s/ImaTGMevbhZaWdkztNCB7Q)
 
 ## 实践
 

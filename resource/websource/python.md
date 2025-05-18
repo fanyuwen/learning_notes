@@ -230,6 +230,7 @@
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
++ [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [Python文件读写：tell和seek的用法](https://mp.weixin.qq.com/s/4-2teCwTK_TNRd8RwpXeEA)

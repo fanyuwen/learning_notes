@@ -649,6 +649,7 @@
 + [Java多线程发展史，我们可以学到什么？](https://mp.weixin.qq.com/s/d1DYaDr1BUB33QFVommfOQ)
 + [Java多线程从创建开始——创建和使用以及了解多线程的切换策略](https://mp.weixin.qq.com/s/OaNyb9ygtzOlFrmevGc_yQ)
 + [六种策略，设计一个线程安全的 Java 类](https://mp.weixin.qq.com/s/UYNikcVFQBXeSbgHCoTsRQ)
++ [Java多线程安全及同步机制：解决安全问题实战指南](https://mp.weixin.qq.com/s/lMNK4nxWTinJd_rAcEUavg)
 
 #### 线程池
 
@@ -681,6 +682,7 @@
 + [Java线程池知识点小结](https://mp.weixin.qq.com/s/JHgRDz7qGAiqpHq5ToL85Q)
 + [Java 线程池详解，图文并茂，我看还有谁不会？！](https://mp.weixin.qq.com/s/f2ZO-Drd6MbGXS03azHCvg)
 + [动态调试线程池？这几个坑让我崩溃三天](https://mp.weixin.qq.com/s/TAphsDYqyMS4YL-6VknINg)
++ [解锁Java线程池：ThreadPoolExecutor与Executors深度解析与应用实践](https://mp.weixin.qq.com/s/eD5bhmYRWbW7DVk-_1iXTg)
 
 #### 锁
 
@@ -740,7 +742,10 @@
 + [面试练习 | Java中synchronized关键字的工作原理是什么？](https://mp.weixin.qq.com/s/HNLv9LwW2uD0XY5S4dFUCQ)
 + [Java并发锁机制系列（一）：Synchronized 的原理、实现与问题](https://mp.weixin.qq.com/s/kyLVLA4_WEO_MJwl4cInLg)
 + [面试练习 | 讨论Java并发中的StampedLock与ReadWriteLock的区别](https://mp.weixin.qq.com/s/5DDm_-7IGtWE6SoLNXqoHQ)
++ [Java并发锁机制系列（二）：彻底搞懂AQS 与 ReentrantLock](https://mp.weixin.qq.com/s/TEAM7spyfZtq4v_T2fy3mQ)
 + [Java并发锁机制系列（三）：一文带你掌握乐观锁的全部细节](https://mp.weixin.qq.com/s/1lopMylrE1Olc6K0MfFABQ)
++ [面试练习 | 如何在Java程序中检测和处理死锁？](https://mp.weixin.qq.com/s/vVjRb9c2qW4sNQMkBmHbRg)
++ [【JAVA多线程】JDK中的各种锁，看这一篇就够了](https://mp.weixin.qq.com/s/zfocd-rNI2DLteLimFG18w)
 
 #### volatile
 
@@ -990,6 +995,7 @@
 + [Java真的不难（三十一）Stream流](https://mp.weixin.qq.com/s/vMV_VLjzyBY7uRB85MxjtA)
 + [Java真的不难（三十七）Stream流的进阶用法](https://mp.weixin.qq.com/s/RoYEPtDdlPlJHyvp40grkQ)
 + [Java真的不难（三十八）Stream流的高级用法](https://mp.weixin.qq.com/s/9Pm6e-yBjx8D3PxZ82cjVg)
++ [天呐！Java Stream 高效开发！16 个逆天案例，让你秒速起飞！](https://mp.weixin.qq.com/s/19RSoEpYwQXHZJMVKAmoXg)
 
 ### Date/time
 
@@ -1097,6 +1103,7 @@
 + [理解CompletableFuture, 让异步编程变得像搭积木一样简单](https://mp.weixin.qq.com/s/MIYavFt8-tDbZqxYcmhTtg)
 + [Java异步编程：CompletableFuture深度解析与应用实践](https://mp.weixin.qq.com/s/afEfZB-F1ghMFILXudjb8Q)
 + [面试练习 | 解释Java中Future和CompletableFuture的区别](https://mp.weixin.qq.com/s/XioKMQKTMs2ofvdQwgq9eA)
++ [面试练习 | 解释在Java并发编程中使用CompletableFuture相比Future的优势](https://mp.weixin.qq.com/s/qxQomhlzQTQE5X0ADAOXwg)
 
 ### ThreadPool
 
@@ -1174,6 +1181,7 @@
 + [阿里 P7 级面试题：ThreadLocal 为什么会内存泄漏？如何解决？](https://mp.weixin.qq.com/s/kE1LU7lscXdUQsCV7G0_PQ)
 + [如何实现链路追踪，从ThreadLocal讲起](https://mp.weixin.qq.com/s/aat2kG8bQyEY_KIT6M2xlg)
 + [Java线程池 - ThreadLocal底层原理与内存泄漏OOM（建议收藏=官方文档+源码+复现+可视化分析+解决方案+实验）](https://mp.weixin.qq.com/s/pYEYZU-WeA_HXscQ3ywZzw)
++ [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
 
 ### Lock
 
@@ -1361,6 +1369,7 @@
 + [Arthas 工具实战：系统频繁重启问题排查](https://mp.weixin.qq.com/s/MpfzNl1qNnPhkhwQPmrDkQ)
 + [Arthas 工具实战：从 60秒到 6秒的性能逆袭之路](https://mp.weixin.qq.com/s/PSeYmPBUWHJ42-ITR5cNjg)
 + [Arthas 实战指南：阿里开源的 Java 诊断神器，10 分钟定位线上 bug！](https://mp.weixin.qq.com/s/yyiH6Q72ve_5EC38RECz9g)
++ [3 年经验凭啥碾压 5 年老鸟？全靠 Arthas 这手神操作！](https://mp.weixin.qq.com/s/seChFMwOwxdBEnWLe4Ql9w)
 
 ## caffeine
 
@@ -1667,6 +1676,7 @@
 + [Redisson中分布式信号量RSemaphore](https://mp.weixin.qq.com/s/8cvl2JHoD6dV7yXSQcf8aA)
 + [Redisson 实现高效限流机制](https://mp.weixin.qq.com/s/F_8FmvzZYhyrSXTS8yLPtg)
 + [Redisson分布式锁核心源码揭秘](https://mp.weixin.qq.com/s/25eDvAwp8T2US9HD_35TWQ)
++ [Redisson分布式锁(超时释放及锁续期)](https://mp.weixin.qq.com/s/XNk8l-2YPN_OxIcnpihUPA)
 
 ## ribbon
 
@@ -1695,6 +1705,7 @@
 ### 核心基础概念
 
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
++ [为什么大厂都在用Spring？5分钟带你看透它的设计精髓！](https://mp.weixin.qq.com/s/Q7OlNsetA3OQaHZCROpZeg)
 + [Spring分析-IOC](https://mp.weixin.qq.com/s/_OjB8jrgadmAVCvWWj1-mA)
 + [Spring（一）手把手实现你的第一个 Spring 应用](https://mp.weixin.qq.com/s/taghHoJPoIaKj80ULSfzag)
 + [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/daKijLOpH8L_zTXUf1mC_g)
@@ -1773,8 +1784,6 @@
 + [Spring：没有你找不到的，只有你不知道的](https://mp.weixin.qq.com/s/_cg6z7v8v_P0bkSXcpKC3A)
 + [告别重复代码！Spring工具类带你飞](https://mp.weixin.qq.com/s/_IdFwHpr9vzB2ws6rbmEJA)
 + [还在用 System.currentTimeMillis() 统计代码耗时？太 Low 啦](https://mp.weixin.qq.com/s/k_7QVLDuCPmHV3wRoMgOsw)
-+ [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ)
-+ [Spring Boot工具类如何获取 Spring 的 Bean](https://mp.weixin.qq.com/s/4C0xKjQSnOSyzTmW8VDdnQ)
 
 #### 高阶使用
 
@@ -1888,6 +1897,8 @@
 + [《SpringMVC6》第08节：SpringMVC如何接收前端的请求参数](https://mp.weixin.qq.com/s/Hy_lFuZHFglpz8bMy9iT6w)
 + [Spring Validation中9个数据校验工具](https://mp.weixin.qq.com/s/GO_KOH0T4JbSscq9ftRIgQ)
 + [炸裂！仅用一个类就能跑通Spring MVC程序](https://mp.weixin.qq.com/s/RrjMrIRl_xTfU-9DX1YWew)
++ [SpringMVC用到的设计模式，你了解几种？](https://mp.weixin.qq.com/s/ce8G4AT8iozImbzbbHD3tQ)
++ [SpringMVC 面试高频！WebApplicationContext 原理与实战解析](https://mp.weixin.qq.com/s/XHLFfi55TI0aZnohMs0gyg)
 
 ### concurrent
 
@@ -2338,6 +2349,10 @@
 + [都说 SpringBoot 启动慢 ，你知道慢在哪里吗？](https://mp.weixin.qq.com/s/VhasQstwWmdKtnaR3PDIaA)
 + [太强了！Spring Boot这样玩缓存，性能直接起飞](https://mp.weixin.qq.com/s/NPqJ3idN_aatQBtP9ItcMg)
 + [构建美观且高效的 Spring Boot 脚手架](https://mp.weixin.qq.com/s/3o5LENVlDk8D-l747VCv2w)
++ [Spring Boot 通过 6 种方式实现开关功能，最后一种直接封神](https://mp.weixin.qq.com/s/tZ7pPmdz19ke_P6KCfLyhg)
++ [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ)
++ [Spring Boot工具类如何获取 Spring 的 Bean](https://mp.weixin.qq.com/s/4C0xKjQSnOSyzTmW8VDdnQ)
++ [太强了！Spring Boot 五大内置 "神兵" 工具](https://mp.weixin.qq.com/s/ulEXtk6kZ6wbXKHr7gdlpg)
 
 #### 版本特性
 
@@ -3179,6 +3194,7 @@
 + [真强！使用JSON文件作为Spring Boot配置属性](https://mp.weixin.qq.com/s/TcWLDOULY3B7ra-CM_Aoow)
 + [Spring Boot 项目瘦身秘籍：用 Maven 分离依赖，让 JAR 包体积直降 90%！](https://mp.weixin.qq.com/s/_cCjPRbFG7or7iCEaIiBvA)
 + [SpringBoot中版本依赖的“陷阱”](https://mp.weixin.qq.com/s/L6Ap0PdOGZgi4Cg9QgX7kg)
++ [SpringBoot配置文件的12个实用技巧](https://mp.weixin.qq.com/s/yK-EWLQhssk6hzulkUgBvQ)
 
 #### 集成三方
 
@@ -3313,6 +3329,7 @@
 
 + [一文带你了解什么是servlet](https://mp.weixin.qq.com/s/mVF4wNPQKeokj6vwG6eWJQ)
 + [Java内存马入门之servlet](https://mp.weixin.qq.com/s/KkCCA8174zIHIgNF539PgA)
++ [Java Servlet内存马原理和应急响应查杀](https://mp.weixin.qq.com/s/upCrJX_qa8gCro8o26T1rQ)
 + [【Tomcat源码分析】从零开始理解 HTTP 请求处理 (第一篇)](https://mp.weixin.qq.com/s/1uAZyNF6QKM7-Epk9QxShw)
 + [Tomcat 系统架构与原理剖析](https://mp.weixin.qq.com/s/Tw9IPBgizkx8zySX8BMtww)
 + [Tomcat核心配置场景](https://mp.weixin.qq.com/s/YR_KpkT43UO7sWq07j2QPw)

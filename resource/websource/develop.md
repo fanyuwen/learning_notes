@@ -405,6 +405,7 @@
 + [什么是服务限流？为什么要限流？](https://mp.weixin.qq.com/s/bCQLTJNCXZwtC8UTVqBM9g)
 + [招行2面：什么是负载均衡？为什么需要负载均衡？](https://mp.weixin.qq.com/s/Dj7H8oMSNujbZNgcYDE5dw)
 + [高并发场景下，再谈熔断、限流、降级（图文总结）](https://mp.weixin.qq.com/s/uBROOdW3SWhZGbrU0s7oUQ)
++ [Java接口限流的几种方式详解](https://mp.weixin.qq.com/s/52gWE2RD0QjM9I4DyhFHEg)
 
 ### 大文件IO
 
@@ -813,6 +814,7 @@
 + [Git 标签管理深度指南](https://mp.weixin.qq.com/s/oShhbxo7rmhCfDf3BeJZ3w)
 + [分享Git的两个小技巧](https://mp.weixin.qq.com/s/nbxi9XkTtH_4f9IjpE1aOg)
 + [git fetch & pull命令详解](https://mp.weixin.qq.com/s/sR0YAH7e_IasdBQ1rFXkMA)
++ [【超详细】Git 所有常用命令 + 提交规范全指南（建议收藏！）](https://mp.weixin.qq.com/s/4xJyEiZs_p5gAvYFTdvDLw)
 
 ### 编程范式
 

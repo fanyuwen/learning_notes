@@ -132,6 +132,7 @@
 + [责任链实战的高级用法：多级校验、工作流，这样写代码才足够优雅！](https://mp.weixin.qq.com/s/xKswt40pQJlZUFqHHMvMTw)
 + [面试官：在项目中用过责任链模式吗？](https://mp.weixin.qq.com/s/JV1buJqU7dWPLkOhSnzMhA)
 + [一文搞懂责任链模式：打造灵活的业务处理流水线](https://mp.weixin.qq.com/s/Jo3beaTMjD0VO7OT6DWB3A)
++ [巧用『责任链模式』来优化 参数多重校验，非常优雅！](https://mp.weixin.qq.com/s/54RO3aUgRhK6xk5pjfLOoQ)
 
 ## 观察者模式
 

@@ -471,6 +471,7 @@
 + [MySQL锁概览](https://mp.weixin.qq.com/s/4NYcBo5LvTSU4RCamS67Hg)
 + [MySQL 死锁怎么排查？从 information_schema 到 SHOW ENGINE INNODB STATUS](https://mp.weixin.qq.com/s/BQur3A63NdP-DTX6Jhb1CQ)
 + [MySQL死锁的重现：超越纸上谈兵](https://mp.weixin.qq.com/s/-QEaq9_3ylxnUizo4G3XGg)
++ [MySQL 何时锁与锁范围](https://mp.weixin.qq.com/s/erLIMci3AVaShydfZoyglg)
 
 #### 事务
 
@@ -798,6 +799,7 @@
 + [redis 缓存穿透](https://mp.weixin.qq.com/s/nKe4OewGdPVOz9FTt8pf8w)
 + [你必须懂的Redis十大应用场景](https://mp.weixin.qq.com/s/1BvqheayATCdeWd_9vkB1w)
 + [Redis Stream的6种消息处理模式](https://mp.weixin.qq.com/s/x9qytRgoxMAaNOyvTTeskQ)
++ [性能比拼: Redis Streams vs Pub/Sub](https://mp.weixin.qq.com/s/XJCIYngNQj_owlTWXDHkUg)
 
 #### 原理
 

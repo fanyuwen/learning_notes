@@ -184,6 +184,7 @@
 + 编译器 [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) [gcc](https://gcc.gnu.org/) [clang](https://clang.llvm.org/) [mingw-w64](https://www.mingw-w64.org/) [msys2](https://www.msys2.org/)
 + c/c++构建工具 [cmake](https://cmake.org/)
 + 包管理工具 [conan](https://conan.io/)
++ c/c++学习资源 [c/cpp英文文档](https://en.cppreference.com/) [c/cpp中文文档](https://zh.cppreference.com/) [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) [isocpp](https://isocpp.org/)
 
 ---
 

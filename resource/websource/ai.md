@@ -36,6 +36,7 @@
 + [PyTorch入门 (1)环境搭建、神经网络普及和Torch基础知识](https://mp.weixin.qq.com/s/lpB1bFRraj85VypQOGlvYg)
 + [LlamaIndex🦙 入门](https://mp.weixin.qq.com/s/Q0Tve2qTqZewdQ9vMwpPnw)
 + [Agentic的模式和实现代码](https://mp.weixin.qq.com/s/KfReQyc3zlyxI-nh6Wx0MA)
++ [如何用好 “对话式编程”？牢记这十二条策略](https://my.oschina.net/IDP/blog/18426598)
 
 ## 资讯
 

@@ -33,6 +33,7 @@
 + [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
++ [全面分析C++内存泄漏：你的程序正在悄悄“失血”](https://mp.weixin.qq.com/s/d9uTm2txnr7ChLjav-Zm_w)
 + [C++11：原子操作与内存顺序：从理论到实践的无锁并发实现](https://mp.weixin.qq.com/s/thnlXKZnKE4foxZ5Vi3NYQ)
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)

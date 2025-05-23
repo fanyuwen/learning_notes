@@ -116,6 +116,7 @@
 ## 桥接模式
 
 + [桥接模式：解耦抽象与实现的优雅设计](https://mp.weixin.qq.com/s/YQQo8Br-3RTZnw9CZHaglQ)
++ [聊一聊：设计模式——桥接模式](https://mp.weixin.qq.com/s/7UcB0yWNvpM7RHe9dHsbxw)
 
 ## 状态模式
 

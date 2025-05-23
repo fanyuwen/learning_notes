@@ -596,6 +596,7 @@
 + [Postgres内核 checkpoint 设计机制](https://mp.weixin.qq.com/s/3GSuookkNpjrLSk-pKVKWA)
 + [postgresql（三）：巧用 array_agg 保留明细数据解决分组查询重复计数问题](https://mp.weixin.qq.com/s/_h95SP7QvM_wwYY5LpMkrg)
 + [PostgreSQL 中的子事务与性能](https://mp.weixin.qq.com/s/zA8eC5F_2QIScm6W4CevCg)
++ [PostgreSQL技术内幕28：触发器实现原理](https://mp.weixin.qq.com/s/JaWSwbsPOKNwQjBb3IVUHQ)
 
 ### SQLSERVER
 
@@ -634,6 +635,7 @@
 + [京东内部Redis性能优化最佳实践](https://mp.weixin.qq.com/s/7YTucEFx-5ieCZcy0CJa3g)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)
 + [如何解决Redis热点Key问题](https://mp.weixin.qq.com/s/WFqcvnq4OdLO7L0SpNbwrg)
++ [Redis数据类型及其命令行操作](https://mp.weixin.qq.com/s/Sc_58oFyHwH6NcENQpfaHA)
 + [RESP 3协议](https://mp.weixin.qq.com/s/dfLp6m9wWxSX5dN2yHZPOA)
 + [Redis亮剑！官方搜索引擎横空出世，性能飙升秒杀ES，重构搜索新时代！](https://mp.weixin.qq.com/s/nz5YpLKXdsJgH-uFA1iDwg)
 + [如何用 Redis 统计用户访问量](https://mp.weixin.qq.com/s/r2ZAuWx0hXkQcVsC8jLZuQ)

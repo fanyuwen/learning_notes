@@ -77,6 +77,7 @@
 + [为什么很多IT失业者，找工作都挑三拣四的，宁愿天天在家玩，也不去月薪2万以下的小公司？](https://mp.weixin.qq.com/s/5Isl3SyJRS091eACSdiIRg)
 + [坑啊！前端倒计时有误差！让公司损失了几十万！](https://mp.weixin.qq.com/s/UQynfmyApRXaZ-V_ZuA0TQ)
 + [第一批90后，正在断崖式衰老](https://mp.weixin.qq.com/s/8srY7wkgY3NzT955_nWudA)
++ [人生建议：给30-40岁牛马的十个忠告](https://mp.weixin.qq.com/s/O3gPxpYaTZc-WHWYBw7UHg)
 
 # 个人成长
 

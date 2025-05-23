@@ -116,6 +116,7 @@
 + [Kafka 不确认导致重复消费的问题](https://mp.weixin.qq.com/s/VrswURWaKiLSbb1Y12poBw)
 + [Kafka 实践中的那些坑：重试、死信队列、反压问题全收录](https://mp.weixin.qq.com/s/uvr22MKIu3HtsPZyQwOoAA)
 + [kafka 分布式的情况下，如何保证消息的顺序消费？](https://mp.weixin.qq.com/s/ZYR7DnDuG6vEu4xJ4crVgA)
++ [高并发场景下，Kafka如何实现百万级吞吐？](https://mp.weixin.qq.com/s/4tYmmWN4_Bi7VETK8AeqYQ)
 
 # ROCKETMQ
 

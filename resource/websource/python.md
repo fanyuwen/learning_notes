@@ -153,6 +153,7 @@
 + [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
 + [Python基础：Python的字符串操作与格式化](https://mp.weixin.qq.com/s/4enr5tjPxwCpUgw4yAWq_g)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
++ [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
@@ -491,6 +492,7 @@
 + [python项目打包成安装包实现跨目录导入](https://mp.weixin.qq.com/s/nOAyICx9NmfYGALHEqO05Q)
 + [Python 链表面试题精讲：如何判断链表是否有环？如何找出环的入口节点？](https://mp.weixin.qq.com/s/GvRX42FmTP_BkE6EyCS1yA)
 + [python日志轮转](https://mp.weixin.qq.com/s/mkaG7BC-QvWJeyuFzVLtgw)
++ [你可能不认识我，但你一定要学会我分享的Python分层思想。](https://mp.weixin.qq.com/s/ybYVWRb03j4LUIvW_oDlIg)
 
 ## 新特性
 

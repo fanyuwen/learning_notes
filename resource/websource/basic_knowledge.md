@@ -215,6 +215,7 @@
 + [一文看懂RISC-V](https://mp.weixin.qq.com/s/3kYjTmi8QV1Hvmm_VDwuzA)
 + [深入了解RISC-V：指令集](https://mp.weixin.qq.com/s/2amfYCgdnGHd0GC4-29MeQ)
 + [深入了解RISC-V：中断机制](https://mp.weixin.qq.com/s/PuLF_E9pDDtWpEhlm73ukg)
++ [CPU总线结构的基本原理](https://mp.weixin.qq.com/s/Oyr1GNuMx0HkOmbQeHDK3Q)
 
 ### 并发
 
@@ -332,6 +333,7 @@
 + [字节一面：POST 为什么会发送两次请求？](https://mp.weixin.qq.com/s/c9OI4HH-EdXycam5Yj7U_Q)
 + [面试官：如何理解OSI七层模型和TCP/IP四层模型？HTTP作为如何保存用户状态？多服务器节点下 Session方案怎么做](https://mp.weixin.qq.com/s/mIGJdNKmHiZt9AHQ3q7X8Q)
 + [计算机网络之HTTP篇（上）](https://mp.weixin.qq.com/s/iw6edtx1Z8Z94_XzBhLoJg)
++ [计算机网络之HTTP篇（下）](https://mp.weixin.qq.com/s/6xAgehgPfNsc4cn5qz4Vhw)
 
 #### CORS
 

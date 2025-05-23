@@ -259,6 +259,7 @@
 + [分布式锁实现解析：几种简单方式的对比与选择](https://mp.weixin.qq.com/s/p41UsC969wUHs1tEmYUdzg)
 + [深入理解分布式锁：原理、应用与挑战](https://my.oschina.net/u/4090830/blog/17877412)
 + [分布式锁+事务=灾难？不要把锁加在事务内！！！](https://mp.weixin.qq.com/s/-DPIYfY9YCQ3GBKXIy81ww)
++ [技术科普｜深入理解分布式锁的原理与实现 part 1](https://mp.weixin.qq.com/s/KECstNqzv-bWRU6GHsDghg)
 
 ## 分布式缓存
 
@@ -433,6 +434,7 @@
 + [关于支付超时取消，你有几种方案？本文详细讲解一下](https://mp.weixin.qq.com/s/8YloUFp_g4yEQJ7j8TF-Wg)
 + [定时任务6种方式](https://mp.weixin.qq.com/s/nWJ6KSfHLel1F8lfl14scw)
 + [订单 30 分钟未支付就自动取消？这 5 个狠招帮你搞定！](https://mp.weixin.qq.com/s/DysVYPwdau5Evf_AinsyKg)
++ [面试官：如何取消超时未支付的订单?](https://mp.weixin.qq.com/s/yVMSwGB3RbWWy_4jtFhmVw)
 
 ### 重试
 
@@ -677,6 +679,7 @@
 + [世界上没有绝对安全的语言：横向对比C、Go、Rust中的“果”指针！](https://mp.weixin.qq.com/s/dqtOMRvSj2SYGiDfT0gtHQ)
 + [理解几种不同语言的“协程”](https://mp.weixin.qq.com/s/2YXRYtx9l6z4PqEEZet9Xg)
 + [高质量编写非功能性代码的一些实践](https://my.oschina.net/u/4662964/blog/17531289)
++ [代码好坏的终极标准：你真的懂了吗？](https://mp.weixin.qq.com/s/4nEfSh_J5JC4FSt82VyiNA)
 
 ## 接口相关
 
@@ -825,6 +828,7 @@
 + [怎样写出无BUG的代码？](https://mp.weixin.qq.com/s/0vL4ZuaCRZiOaOPnhLnFRw)
 + [好的代码应该具备哪些特性](https://mp.weixin.qq.com/s/ObqT3DO1fj8kUKdZsBa21A)
 + [拯救代码大作战：开发规范那些事儿](https://mp.weixin.qq.com/s/gvQrdxYtJ-bLlUMDRzplsw)
++ [浅谈团队代码风格/结构一致性](https://mp.weixin.qq.com/s/flLxY__pLo9p24X8yXp6Uw)
 
 ### 问题排查
 

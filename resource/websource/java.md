@@ -85,6 +85,7 @@
 + [Java 真的不难（十三） String类](https://mp.weixin.qq.com/s/CdaEf83Qt4gcpuWBX8B6Yw)
 + [JAVA三个常用关键字的深入解析（二）](https://mp.weixin.qq.com/s/I_neLjhcjvYIobtEac9GUw)
 + [Java包装类默认值：隐藏的陷阱与最佳实践](https://mp.weixin.qq.com/s/7N1XUNRL8Z-QfOYyf9fOkQ)
++ [Java内部类有坑，100%内存泄露！](https://mp.weixin.qq.com/s/pG_RI502vKf9n9SqMFsv0Q)
 
 ### 方法/函数
 
@@ -349,6 +350,7 @@
 + [Java真的不难（五十三）MD5的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/pRz6Rl01ZrnkJmLJasILpQ)
 + [Java真的不难（五十五）日期API及生日提醒系统业务](https://mp.weixin.qq.com/s/oK1Acy6kK7yzDcGxZY-GWg)
 + [那些奇奇怪怪却又妙趣横生的Java知识](https://mp.weixin.qq.com/s/bTQpul7S8rWP-60vKSXmLg)
++ [价格字段还用BigDecimal呢？我直接给你一拳。看看最新的Money类吧，下次给面试官吹牛逼有的讲！](https://mp.weixin.qq.com/s/Gd4XDyxVBYTcZHwpVtU72w)
 
 ## 代码质量
 
@@ -418,6 +420,7 @@
 + [Java慎用可变对象(Mutable Object)作为Map的key](https://mp.weixin.qq.com/s/8oofR0hOaFDnGGUvoSJ20g)
 + [为什么阿里不推荐使用 keySet() 遍历HashMap？](https://mp.weixin.qq.com/s/cTC5we6-X4LgI4ypmZ3GTw)
 + [如何正确地对接口进行防御式编程](https://mp.weixin.qq.com/s/A77oM1qMkcfh7otyrQRVqA)
++ [京东一面：为什么 IDEA 建议去掉 StringBuilder，而要使用 “+” 拼接字符串？](https://mp.weixin.qq.com/s/dsWtkjIBBxIbei9bPAzYzw)
 
 # 底层
 
@@ -498,6 +501,7 @@
 + [Java 性能分析](https://mp.weixin.qq.com/s/yo1gkwcugBJ1J-Rnnf2CWQ)
 + [Java 类是如何加载的？](https://my.oschina.net/lenve/blog/16664992)
 + [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
++ [AOP编程在项目开发中的应用](https://mp.weixin.qq.com/s/gNPzAAMYvWJPpqtCSZgAWQ)
 + [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
 + [JDK内置的HttpRequest有坑，请绕道！](https://mp.weixin.qq.com/s/XyaOcXoUIKVYbyedKsVEcw)
 + [Java 为什么会有clone方法](https://mp.weixin.qq.com/s/QvjuRgRGXtE48P5PYkJodg)
@@ -522,6 +526,7 @@
 + [万字总结JavaIO流：从使用到概念，清晰解构](https://mp.weixin.qq.com/s/bG-D0J86fZkJ6Gl3mf4pMw)
 + [BIO/NIO/AIO傻傻分不清？](https://mp.weixin.qq.com/s/kfr1Ulg5g5dJHu6kIOfv-g)
 + [面试篇-Java输入输出三兄弟大比拼：IO、NIO、AIO对比分析](https://mp.weixin.qq.com/s/0pbSJpTqVfHZ0VqCEf0sHw)
++ [BIO 多线程优化探秘：问题根源与 IO 模式剖析](https://mp.weixin.qq.com/s/Q-QI7IsZRcXbNkbleyObHw)
 
 ### 反射
 
@@ -653,6 +658,7 @@
 + [Java多线程从创建开始——创建和使用以及了解多线程的切换策略](https://mp.weixin.qq.com/s/OaNyb9ygtzOlFrmevGc_yQ)
 + [六种策略，设计一个线程安全的 Java 类](https://mp.weixin.qq.com/s/UYNikcVFQBXeSbgHCoTsRQ)
 + [Java多线程安全及同步机制：解决安全问题实战指南](https://mp.weixin.qq.com/s/lMNK4nxWTinJd_rAcEUavg)
++ [单机百万并发：协程开始吊打线程了？](https://mp.weixin.qq.com/s/6zgGFeAx-ZdFM5qXW7lOvA)
 
 #### 线程池
 
@@ -749,6 +755,8 @@
 + [Java并发锁机制系列（三）：一文带你掌握乐观锁的全部细节](https://mp.weixin.qq.com/s/1lopMylrE1Olc6K0MfFABQ)
 + [面试练习 | 如何在Java程序中检测和处理死锁？](https://mp.weixin.qq.com/s/vVjRb9c2qW4sNQMkBmHbRg)
 + [【JAVA多线程】JDK中的各种锁，看这一篇就够了](https://mp.weixin.qq.com/s/zfocd-rNI2DLteLimFG18w)
++ [Java锁的分类：一文列出Java常见的所有锁，并分析其实现原理！](https://mp.weixin.qq.com/s/pYrsjxO8KGMLDb1Sj4g7Ag)
++ [Java真的不难（六十二）Synchronized关键字和死锁的深入分析](https://mp.weixin.qq.com/s/avahIS7QpK6pVOwi7HLljg)
 
 #### volatile
 
@@ -1053,6 +1061,7 @@
 + [HashMap的删除和扩容](https://mp.weixin.qq.com/s/jw26QWJ6zpiSfCp_-trwDQ)
 + [Java真的不难（二十三）Map集合](https://mp.weixin.qq.com/s/4wRsTjfKNewp11vQanIvsg)
 + [如果让你改造下 HashMap 的扩容实现，你会怎样优化？](https://mp.weixin.qq.com/s/v3wNbQ3RTGjQtUItFRYPqQ)
++ [Map集合常用基础知识点，你掌握了吗？](https://mp.weixin.qq.com/s/j5K-lj6YCZULTUYUWQ_eyw)
 
 ### Optional
 
@@ -1311,6 +1320,8 @@
 + [Java Jar](https://mp.weixin.qq.com/s/e0nfxWbL4XyTiQ_ufSXfDA)
 + [后悔！9个我在运行Java JAR应用时没掌握的关键技巧](https://mp.weixin.qq.com/s/fNYDxJfx3WS771vhqzQNEg)
 + [解决JNI函数动态绑定防追踪](https://mp.weixin.qq.com/s/0V9gsUblJi5vqQmnjMzRrQ)
++ [探索 Java Native Interface（五）JNI里的多线程与JNI方法的注册](https://mp.weixin.qq.com/s/arC6jh-iL3LKV_gCDIu-UQ)
++ [探索 Java Native Interface（六）JNI中的异常](https://mp.weixin.qq.com/s/aC6NKVKK59c77pMZqKarfg)
 + [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
 + [JAVA：SPI 技术详解与实践样例](https://mp.weixin.qq.com/s/cLqsSfFvZEGL3W5F6LzACg)
 + [黑科技加持！Java 动态编译 + 运行时热加载，让代码即改即生效](https://mp.weixin.qq.com/s/3X7ahbus7hd5FK0H2_mcvw)
@@ -1624,6 +1635,7 @@
 + [面试高频：了解零拷贝吗？Netty哪里用到了零拷贝？](https://mp.weixin.qq.com/s/LQakVp-9wCYsHDrTPKYFzA)
 + [京东二面：为什么Netty要创造FastThreadLocal？](https://mp.weixin.qq.com/s/-OSM8usP44i7Z_Tnu64lZQ)
 + [高并发下FastThreadLocal为何比ThreadLocal快了3倍](https://mp.weixin.qq.com/s/Xw3C1zdgytg3wQr52MXZKg)
++ [吊打 ThreadLocal，谈谈FastThreadLocal为啥能这么快？](https://mp.weixin.qq.com/s/UoojkqrWjAT2_jUXV2LNlA)
 + [面试官：Netty 通信中的粘包、拆包，你能聊聊吗？](https://mp.weixin.qq.com/s/uNrq1EOl6frrX8fAg2-bHw)
 + [拼多多面试：Netty如何解决粘包问题？](https://mp.weixin.qq.com/s/Z5ewtOCLhwMdiuPg2Ntb8A)
 + [滴滴面试：谈谈对Netty线程模型的理解？](https://mp.weixin.qq.com/s/9Zdv9aCpyPAoj24QgSzgRA)
@@ -1774,6 +1786,7 @@
 + [得物1面：Spring @ExceptionHandler注解的工作原理是什么？](https://mp.weixin.qq.com/s/gR_m51E2-ACHy2bPAU15ew)
 + [快手1面：@PreDestroy 注解有什么作用？](https://mp.weixin.qq.com/s/_W5lrYYjJsibKib2vkpy2Q)
 + [Java面试题——Bean生命周期](https://mp.weixin.qq.com/s/8tEAXKae4L30pb7T0nPw_A)
++ [一篇文章吃透Spring Bean，从入门到装逼全搞定！](https://mp.weixin.qq.com/s/HjvoT8O1_QY3NVsA_fP3vg)
 
 #### 配置
 
@@ -2000,6 +2013,7 @@
 + [Spring（五）Spring事务管理：从原理到实战避坑指南](https://mp.weixin.qq.com/s/784n4u8lHE-UkTFObdsJ6w)
 + [spring 申明式事务总结](https://mp.weixin.qq.com/s/V7_MEEK-KDnU92f45ez_Iw)
 + [工作 6 年才发现，@Transactional 藏着这么多坑](https://mp.weixin.qq.com/s/8qqGnOTx1vf9sXORy3WGoQ)
++ [Spring多线程事务能否保证事务的一致性?](https://mp.weixin.qq.com/s/0c77HN30eO0wEJ5cGrImEw)
 
 ### Log
 
@@ -2566,6 +2580,7 @@
 + [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories？](https://mp.weixin.qq.com/s/fPTdbOWlGMPVMzlBXqMP-Q)
 + [Spring Boot 又一强大的内置功能，自动记录API请求/响应数据](https://mp.weixin.qq.com/s/Nj6-u2XKQXmKrVnmbZS5Rg)
 + [SpringBoot升级到3.4.3，Spring Security从5.x升级到6.x，原来有这么多坑，不踩不知道，一踩一个准](https://mp.weixin.qq.com/s/H_A-PyAHE9nxh_BMH3IwjA)
++ [王炸！Spring Boot 3.5 震撼发布，强大的新特性来袭](https://mp.weixin.qq.com/s/yAO62ysRkd_a8RbjNBilWA)
 
 #### 分布式
 

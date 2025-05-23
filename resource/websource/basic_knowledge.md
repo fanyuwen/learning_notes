@@ -236,12 +236,14 @@
 + [浏览器崩溃的第一性原理：内存管理的艺术](https://my.oschina.net/u/4090830/blog/17955030)
 + [函数调用与栈的联系](https://mp.weixin.qq.com/s/4T9L__d1KsOhLLifN_Aobw)
 + [操作系统是如何一步步发明虚拟内存的？](https://mp.weixin.qq.com/s/m5JL8urQfej9Pj7oK4AsdA)
++ [一文读懂Buffer与Cache：开启性能优化的大门](https://mp.weixin.qq.com/s/CLlANi9EmkPoaDCaw9q5kQ)
 
 ## GPU
 
 + [浅析GPU分布式通信技术-PCle、NVLink、NVSwitch](https://mp.weixin.qq.com/s/VRkZUljen3uurgLOVYxf3A)
 + [NPU 与 GPU 相比，有什么差别？| 技术速览](https://my.oschina.net/IDP/blog/15787377)
 + [GPU远程调用—原理篇](https://mp.weixin.qq.com/s/A2Fy7gPJQQbs1XjlZK6D_g)
++ [GPU的工作原理](https://mp.weixin.qq.com/s/o-NnRBp2UHc1hFYD_IbKTg)
 
 ## 网络基础
 

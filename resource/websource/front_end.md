@@ -268,6 +268,7 @@
 + [WebSocket 的 6 种集成方式](https://mp.weixin.qq.com/s/5v1qIxREcY6a2Gs1w66LNw)
 + [WebSocket实时通信技术详解：从原理到Spring Boot实战](https://mp.weixin.qq.com/s/LnLRi8KmHPQAOx7OI69BVw)
 + [WebSocket之外，SSE协议为何被大厂悄悄采用？](https://mp.weixin.qq.com/s/LTytJL4MMLHuU892O8CnzQ)
++ [实时通信—舍我其谁—WebSocket 入门](https://mp.weixin.qq.com/s/S-hFYVSTrxWzioUbKUUMjQ)
 
 # 工具
 

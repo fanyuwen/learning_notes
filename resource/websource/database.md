@@ -93,6 +93,7 @@
 + [SQL 入门 16：SQL 事务隔离级别与死锁解析（易懂）](https://mp.weixin.qq.com/s/-o-A6o9j1nQ0zElFIRO50A)
 + [SQL 入门 13：SQL 存储过程与函数：封装逻辑与参数处理](https://mp.weixin.qq.com/s/-UoEiE1z19Y15NqhBQCKhw)
 + [SQL窗口函数：排序分布聚合函数案例解析](https://mp.weixin.qq.com/s/KtuZIKchoUELPZg2WgVmEQ)
++ [10个SQL优化技巧，性能提升300%](https://mp.weixin.qq.com/s/u1PPK1cxe2eyefijTw78og)
 
 # 本地数据库
 
@@ -187,6 +188,7 @@
 
 ### MYSQL
 
++ [快速入门-MySQL](https://mp.weixin.qq.com/s/uqDEEENiv9zRNaGfWRCcuQ)
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [初学者也能掌握的MySQL Explain技巧](https://mp.weixin.qq.com/s/SqfeXQmy9NCUYhX8mAZkxA)
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)
@@ -804,6 +806,7 @@
 + [你必须懂的Redis十大应用场景](https://mp.weixin.qq.com/s/1BvqheayATCdeWd_9vkB1w)
 + [Redis Stream的6种消息处理模式](https://mp.weixin.qq.com/s/x9qytRgoxMAaNOyvTTeskQ)
 + [性能比拼: Redis Streams vs Pub/Sub](https://mp.weixin.qq.com/s/XJCIYngNQj_owlTWXDHkUg)
++ [美团一面：你都知道哪些秒杀业务下的解决方案？下次别只知道Redis了！看看AliSQL是怎么做的](https://mp.weixin.qq.com/s/P6QEG1juSKlloh2E62lLrg)
 
 #### 原理
 

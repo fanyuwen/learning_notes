@@ -33,6 +33,7 @@
 + [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
++ [C++11：原子操作与内存顺序：从理论到实践的无锁并发实现](https://mp.weixin.qq.com/s/thnlXKZnKE4foxZ5Vi3NYQ)
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
 + [指针的指针: C++ 指针数组、数组指针深入解析](https://mp.weixin.qq.com/s/i5qx9V7CWKFwnvH2y-OOFw)
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
@@ -266,6 +267,7 @@
 + [非要引入某个函数才能正常使用，奇了怪了](https://mp.weixin.qq.com/s/_s2eTRY-qL31p8v-zsG_mw)
 + [嵌入式编程进阶 | 真随机VS伪随机？单片机安全随机数生成终极指南](https://mp.weixin.qq.com/s/spvlzsTnQfHZ3WlNtWfC0Q)
 + [揭秘 map 文件：嵌入式开发的内存优化神器](https://mp.weixin.qq.com/s/anrNM7Ak5UUm2-cnNopXHA)
++ [单片机原理_03单片机的内部功能详介](https://mp.weixin.qq.com/s/AHdCtjquFU1OTXAISZfXWg)
 
 # NVIDIA
 

@@ -150,6 +150,8 @@
 + [111 | 『八股文™』Go 内存模型解析：从原理到实践](https://mp.weixin.qq.com/s/r70z18-W9KtuHzfTrhk5Bg)
 + [112 | 『八股文™』聊一聊 Go 中的逃逸分析问题](https://mp.weixin.qq.com/s/snImDeUhDkskecDZypmoBg)
 + [113 | 『八股文™』Go 中并发场景下同步原语选择问题](https://mp.weixin.qq.com/s/dFyNQT9a1g2ilXfCGfYgPQ)
++ [go语法大赏](https://mp.weixin.qq.com/s/jTKHzh6VyeB72_N4WUuklA)
++ [Golang接口加锁与数据库事务的重要性：从红包漏洞看系统安全](https://mp.weixin.qq.com/s/_so9OpVo68tdIt62jlriug)
 
 # 面试题
 

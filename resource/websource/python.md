@@ -490,6 +490,7 @@
 + [全局唯一实例：详解 Python 单例模式及其实现方式](https://mp.weixin.qq.com/s/e84nD3XfnuqqKdBAfHBHzQ)
 + [python项目打包成安装包实现跨目录导入](https://mp.weixin.qq.com/s/nOAyICx9NmfYGALHEqO05Q)
 + [Python 链表面试题精讲：如何判断链表是否有环？如何找出环的入口节点？](https://mp.weixin.qq.com/s/GvRX42FmTP_BkE6EyCS1yA)
++ [python日志轮转](https://mp.weixin.qq.com/s/mkaG7BC-QvWJeyuFzVLtgw)
 
 ## 新特性
 

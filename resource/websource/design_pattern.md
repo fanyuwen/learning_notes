@@ -25,6 +25,7 @@
 + [注册模式（Registry Pattern）：实现灵活解耦的插件化系统](https://mp.weixin.qq.com/s/QiKJLMxLDbidJgh15KvgAQ)
 + [我常用的六种设计模式](https://mp.weixin.qq.com/s/yWCVZX_82V3GfaZkFHTTdA)
 + [当设计模式遭遇代码熵增：一名Java工程师的架构治理实践](https://mp.weixin.qq.com/s/Mr84ZlHCj8Qp_MeM2l90yA)
++ [SOLID 设计原则在 Android 中的实战应用](https://mp.weixin.qq.com/s/o4Aj-AnTVl_UkgBBAk3Eqg)
 
 # 并发设计模式
 

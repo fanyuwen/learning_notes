@@ -758,6 +758,7 @@
 + [Java并发锁机制系列（一）：Synchronized 的原理、实现与问题](https://mp.weixin.qq.com/s/kyLVLA4_WEO_MJwl4cInLg)
 + [面试练习 | 讨论Java并发中的StampedLock与ReadWriteLock的区别](https://mp.weixin.qq.com/s/5DDm_-7IGtWE6SoLNXqoHQ)
 + [Java并发锁机制系列（二）：彻底搞懂AQS 与 ReentrantLock](https://mp.weixin.qq.com/s/TEAM7spyfZtq4v_T2fy3mQ)
++ [AQS系列文章 | 并发编程基石：为什么需要AQS？](https://mp.weixin.qq.com/s/aOD5jb9fumFBq4DRA1QjWw)
 + [Java并发锁机制系列（三）：一文带你掌握乐观锁的全部细节](https://mp.weixin.qq.com/s/1lopMylrE1Olc6K0MfFABQ)
 + [面试练习 | 如何在Java程序中检测和处理死锁？](https://mp.weixin.qq.com/s/vVjRb9c2qW4sNQMkBmHbRg)
 + [【JAVA多线程】JDK中的各种锁，看这一篇就够了](https://mp.weixin.qq.com/s/zfocd-rNI2DLteLimFG18w)
@@ -2118,6 +2119,7 @@
 + [Spring一个注解轻松搞定循环重试功能！](https://mp.weixin.qq.com/s/BrvbPyRv6B0xEqa7d7Cm9g)
 + [优雅！Spring 基于 Plugin 插件开发（官方推荐）](https://mp.weixin.qq.com/s/O5SEC1OWNqS6gWHVENLUdw)
 + [Spring-Smart-DI 动态切换实现类，很不错！](https://mp.weixin.qq.com/s/LvdVMen9D20eNXfxjTL8Fg)
++ [Spring Integration 轻松实现服务间消息传递，真香！](https://mp.weixin.qq.com/s/pqCkXa5E9EGzhE7yyLaYqw)
 
 ### tool
 
@@ -2133,6 +2135,7 @@
 + [SpringAI：Java 开发的智能新利器](https://my.oschina.net/zlt2000/blog/16535398)
 + [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/nY4yGbfMRERsFe6wYHDQ5g)
 + [Spring AI：超神Advisor切面，会话记忆和历史记录秒解决](https://mp.weixin.qq.com/s/ran79ZVNF1wxck0r-BpqKQ)
++ [Spring AI 入门之 嵌入模型和向量数据库](https://mp.weixin.qq.com/s/lVm4k6ZZbrKrDs9GFikSWw)
 
 ### cloud
 
@@ -3144,6 +3147,7 @@
 + [Spring Boot分布式项目中策略模式实战：解锁高扩展性架构设计](https://mp.weixin.qq.com/s/ofwZKICWXrPdbAe-1LUd4w)
 + [Spring Boot 中的代理模式](https://mp.weixin.qq.com/s/HyIa1Wck8NI-iVHtLOPIpA)
 + [SpringBoot中13种设计模式应用案例](https://mp.weixin.qq.com/s/QtulNezYiNviC1pYXOaVzw)
++ [SpringBoot + 策略模式，大大加强系统接口扩展能力](https://mp.weixin.qq.com/s/rxHdJs7TwYIfX-nmPj0PSA)
 
 #### message
 
@@ -3543,6 +3547,8 @@
 + [研发排查问题的利器：一款方法调用栈跟踪工具](https://mp.weixin.qq.com/s/u83FUul1EXsY-jTc46a7fA)
 + [Java安全-JNDI注入](https://mp.weixin.qq.com/s/EOwUDdxvGF4PGfavdXk-Kw)
 + [聊聊JetCache的缓存构建](https://mp.weixin.qq.com/s/yK_Dtk7VDEt5E3cFTeQmUw)
++ [实现一个通用的eventbus组件](https://mp.weixin.qq.com/s/f738Qnw8NJeysa7110zVOw)
++ [一个Java工程师的17个日常效率工具](https://mp.weixin.qq.com/s/TL_ksI9vU2gi4KlzwtlBZA)
 
 # 其它环境
 

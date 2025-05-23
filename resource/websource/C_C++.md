@@ -126,6 +126,7 @@
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 + [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
 + [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
++ [记录一次高版本GCC由于缺少return导致的宕机问题](https://mp.weixin.qq.com/s/N-XwdTJG_4zDAtJ8B4TYmg)
 
 ### 资讯
 
@@ -150,12 +151,16 @@
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
 + [（2.12）C语言编程入门 -- 函数进阶 - 声明与调用](https://mp.weixin.qq.com/s/MJ7ufgYWpIM11vPqDz5aKQ)
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
++ [C语言凭什么统治操作系统开发？](https://mp.weixin.qq.com/s/uyg8v05o7wTxZ1-oXQkHWw)
 + [Mutex的实现原理](https://mp.weixin.qq.com/s/gyAJSGoJ7WB8dsB1X2IS0g)
++ [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
 + [漫画 | 为什么C语言永不过时？](https://mp.weixin.qq.com/s/8KoL0Eoi2j4ANlxNEpGfBA)
 + [灵魂拷问，指针为什么是C语言的灵魂？](https://mp.weixin.qq.com/s/cCB3SA44Dyz8ZabTu4gvHQ)
 + [C语言学习指南：这些核心知识点你掌握了吗？](https://mp.weixin.qq.com/s/h5xCE0XOZrV5i8f7o8qjlQ)
++ [从本质理解指针的那些知识 #指针篇1 | C语言基础](https://mp.weixin.qq.com/s/bAEe8sOGBkg69khuAPyrQg)
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)
++ [03_整数/浮点数据类型](https://mp.weixin.qq.com/s/6VKkeur_vLYEg0YN8dBLxg)
 + [C语言结构体全解析：从入门到内存布局](https://mp.weixin.qq.com/s/oyfbAFzyPrnQoo8p-BtMYQ)
 + [C语言：内存操作基础](https://mp.weixin.qq.com/s/jVOMkgKo8cWrHyRxgYbc0Q)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
@@ -202,6 +207,7 @@
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
 + [国外C语言程序员分享：我为何不再使用 printf()，你也该如此](https://mp.weixin.qq.com/s/b20gGC0h-SiCjAr1cTd4tg)
 + [C语言递归算法的实现](https://mp.weixin.qq.com/s/3fo_6QZ0gthB-dzpzlPStg)
++ [06_printf与scanf函数详解](https://mp.weixin.qq.com/s/z_1vXmMGIDWQqDT9N-irgg)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)

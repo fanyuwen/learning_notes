@@ -497,6 +497,7 @@
 + [一文讲清楚 MySQL 事务隔离级别和实现原理](https://mp.weixin.qq.com/s/2kW14QLbTI7fCbcuOun-dg)
 + [谈谈Mysql中事务ACID的原理吗?](https://mp.weixin.qq.com/s/vcX3EgC5nfftcBqB_AlE6A)
 + [MySQL事务隔离机制](https://mp.weixin.qq.com/s/apiNqZ0Ji2GiE8Ws7ouMxQ)
++ [MySQL事务的一些奇奇怪怪知识](https://mp.weixin.qq.com/s/NLGOreXOKHdzc5DPnh1OvQ)
 
 #### 索引
 
@@ -809,6 +810,8 @@
 + [Redis Stream的6种消息处理模式](https://mp.weixin.qq.com/s/x9qytRgoxMAaNOyvTTeskQ)
 + [性能比拼: Redis Streams vs Pub/Sub](https://mp.weixin.qq.com/s/XJCIYngNQj_owlTWXDHkUg)
 + [美团一面：你都知道哪些秒杀业务下的解决方案？下次别只知道Redis了！看看AliSQL是怎么做的](https://mp.weixin.qq.com/s/P6QEG1juSKlloh2E62lLrg)
++ [Redis集群碎碎念：指令重定向](https://mp.weixin.qq.com/s/crWZqp5s7gsxAEw_e9gvaQ)
++ [Redis内存溢出故障排查](https://mp.weixin.qq.com/s/5ghejVDBjfG-WAM9J83-4w)
 
 #### 原理
 

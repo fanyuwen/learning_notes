@@ -2,6 +2,7 @@
 
 + [函数式编程：尾调优化](https://mp.weixin.qq.com/s/Tq-1DfgD6Xd3PdBmlgrCNg)
 + [AI 友好型编程语言：Kotlin 的故事 | 官方博客](https://mp.weixin.qq.com/s/-kUicmwmgE9XZWF45MG0dQ)
++ [白话kotlin协程](https://mp.weixin.qq.com/s/gWnPR67z-hITHqkGu9h0xA)
 + [KotlinConf'24 主题演讲亮点总结 + 全场回放，建议收藏！](https://mp.weixin.qq.com/s/5WRxlG8X67KRiZzbNeqwzA)
 + [使用 Kotlin DataFrame 执行数据分析的分步指南 | 官方博客](https://mp.weixin.qq.com/s/X8V3V3--Ed0SdyHMMfcmBg)
 + [Kotlin Flow：掌握基本，征服应用，避开开发陷阱！](https://mp.weixin.qq.com/s/Crmm_AjCS3TBxmkPefg0oA)
@@ -17,6 +18,8 @@
 + [如何给 Kotlin 新增一个 target?](https://mp.weixin.qq.com/s/VwiHmIb8yRL_JO4edRDHtQ)
 + [来自社区：AI 驱动的 Kotlin 最新中文文档](https://mp.weixin.qq.com/s/Eel8ryi1Ifbsc4Iyp9uZ4Q)
 + [Kotlin Notebook 的高效开发指南｜官方博客](https://mp.weixin.qq.com/s/9khgDLgVKsiluC4MsNR1Wg)
++ [原创：写给初学者的Jetpack Compose教程，Side Effect](https://mp.weixin.qq.com/s/enlou-cxuR8KfcZht5mrLQ)
++ [再见 C++！使用 Kotlin 加速 Android Native 项目开发](https://mp.weixin.qq.com/s/kLqgUEYr95ePDr8oE5GA0w)
 
 ## 技术月报
 

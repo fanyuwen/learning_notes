@@ -299,6 +299,7 @@
 + [分布式一致性算法——Paxos](https://mp.weixin.qq.com/s/1OgeHkWEOFkfiy8uCta_Fw)
 + [为什么Raft算法是分布式系统的首选？](https://mp.weixin.qq.com/s/DVEwMui71GdIwZpV9ZsJow)
 + [一致性协议Raft与Kafka中的KRaft](https://mp.weixin.qq.com/s/bQf-Zz8re6kVQCcmcB3Onw)
++ [常见一致性哈希算法简析](https://mp.weixin.qq.com/s/4uBOZDNsZN2h_Shslyiqyw)
 
 # 组件设计
 
@@ -377,6 +378,7 @@
 + [接口的幂等性设计](https://mp.weixin.qq.com/s/ShSIL-vy-BT9_nTSIwZQ-g)
 + [基于防重表的通用接口幂等性设计方案](https://mp.weixin.qq.com/s/P6Ixoq225Lbv3caB971ePg)
 + [业务幂等性技术架构体系](https://mp.weixin.qq.com/s/P1tz63aAYMvvY3Fe_MYi0g)
++ [如何秒级实现接口间“幂等”补偿：一款轻量级仿幂等数据校正处理辅助工具](https://mp.weixin.qq.com/s/EYOomxXRFoXJ7kk6BQoaxw)
 
 ### 负载&限流
 
@@ -408,6 +410,7 @@
 + [招行2面：什么是负载均衡？为什么需要负载均衡？](https://mp.weixin.qq.com/s/Dj7H8oMSNujbZNgcYDE5dw)
 + [高并发场景下，再谈熔断、限流、降级（图文总结）](https://mp.weixin.qq.com/s/uBROOdW3SWhZGbrU0s7oUQ)
 + [Java接口限流的几种方式详解](https://mp.weixin.qq.com/s/52gWE2RD0QjM9I4DyhFHEg)
++ [一文掌握常见的限流算法：计数器、漏桶、令牌桶等](https://mp.weixin.qq.com/s/uP5WT7NHXBBHWyn_PrEv_Q)
 
 ### 大文件IO
 

@@ -264,6 +264,8 @@
 + [一文掌握51单片机的基本指令和寻址方式](https://mp.weixin.qq.com/s/8C2say6fuWkXphcLY1LGRw)
 + [从汇编的角度看单片机运行机制](https://mp.weixin.qq.com/s/JbL6orV-VZ7Ad5kcPj1GVg)
 + [非要引入某个函数才能正常使用，奇了怪了](https://mp.weixin.qq.com/s/_s2eTRY-qL31p8v-zsG_mw)
++ [嵌入式编程进阶 | 真随机VS伪随机？单片机安全随机数生成终极指南](https://mp.weixin.qq.com/s/spvlzsTnQfHZ3WlNtWfC0Q)
++ [揭秘 map 文件：嵌入式开发的内存优化神器](https://mp.weixin.qq.com/s/anrNM7Ak5UUm2-cnNopXHA)
 
 # NVIDIA
 

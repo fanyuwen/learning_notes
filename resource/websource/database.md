@@ -472,6 +472,8 @@
 + [MySQL 死锁怎么排查？从 information_schema 到 SHOW ENGINE INNODB STATUS](https://mp.weixin.qq.com/s/BQur3A63NdP-DTX6Jhb1CQ)
 + [MySQL死锁的重现：超越纸上谈兵](https://mp.weixin.qq.com/s/-QEaq9_3ylxnUizo4G3XGg)
 + [MySQL 何时锁与锁范围](https://mp.weixin.qq.com/s/erLIMci3AVaShydfZoyglg)
++ [INNODB的锁——为什么RC也有临键锁？](https://mp.weixin.qq.com/s/6soV4ep8hU7f2sMv2Dq3PA)
++ [滴滴面试： mysql 明明加的是 行锁，怎么就变 表锁 了？](https://mp.weixin.qq.com/s/4WRxBTOhFLeLjN4lbdeOmQ)
 
 #### 事务
 
@@ -569,6 +571,8 @@
 + [MySQL加了唯一索引，数据还是重复？](https://mp.weixin.qq.com/s/8jbxZE2VXqjr4nHS5jSV4A)
 + [第37期 MySQL索引下推](https://mp.weixin.qq.com/s/I4bIXeh85TP3vRllRe2lDw)
 + [聚簇与非聚簇索引、回表及索引下推原理](https://mp.weixin.qq.com/s/O8luHtjLkj-6fufT9874ng)
++ [深入剖析MySQL索引优化：提升数据库性能的核心技巧](https://mp.weixin.qq.com/s/7hxezI_Sa3wb5hRNk3AfAQ)
++ [21个MySQL索引优化实战技巧](https://mp.weixin.qq.com/s/W4H2mLj_vpyvCOrczAItKg)
 
 ### PostgreSQL
 

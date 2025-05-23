@@ -68,6 +68,7 @@
 + [Python基础：数据序列化](https://mp.weixin.qq.com/s/q-9XA9-rFW0oGVodsICK0A)
 + [为什么我们需要if __name__ == __main__](https://mp.weixin.qq.com/s/HaLl8W0h02wamkk9qpAZYA)
 + [Python异常链溯源：精通 raise...from... 机制](https://mp.weixin.qq.com/s/Ou1lk4IqtWmw5aCiFZ8kqg)
++ [Python 内置数据类型——bytes(字节序列)](https://mp.weixin.qq.com/s/5EqMkfzMAu0MmnLqmMDk0Q)
 
 ### 函数/方法
 

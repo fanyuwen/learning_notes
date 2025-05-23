@@ -137,6 +137,7 @@
 + [面试官问：List<? extends T>与List<? super T>的区别？](https://mp.weixin.qq.com/s/MyiOJy_pzyttd0rEtnCCQQ)
 + [如何在Java程序中使用泛型](https://mp.weixin.qq.com/s/5-ujM0KFcDzNLGSgvR_QqA)
 + [Java 如何获取泛型的真实类型](https://mp.weixin.qq.com/s/xJSROLcKjMHrcJcnKl1iEw)
++ [来了解下Java的泛型与类型擦除](https://mp.weixin.qq.com/s/dzFMCITHQ4pToKyRkXcQ_A)
 
 ### 面向对象
 
@@ -347,6 +348,7 @@
 + [Java真的不难（五十二）Base64的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/fEa-04_oN9EAwXchVARaJg)
 + [Java真的不难（五十三）MD5的加解密技术解析及使用方法](https://mp.weixin.qq.com/s/pRz6Rl01ZrnkJmLJasILpQ)
 + [Java真的不难（五十五）日期API及生日提醒系统业务](https://mp.weixin.qq.com/s/oK1Acy6kK7yzDcGxZY-GWg)
++ [那些奇奇怪怪却又妙趣横生的Java知识](https://mp.weixin.qq.com/s/bTQpul7S8rWP-60vKSXmLg)
 
 ## 代码质量
 
@@ -1050,6 +1052,7 @@
 + [死磕HashMap！90%程序员不知道的底层骚操作，看完秒杀面试官！](https://mp.weixin.qq.com/s/dZsY6rtJnMO9dh72LW40pw)
 + [HashMap的删除和扩容](https://mp.weixin.qq.com/s/jw26QWJ6zpiSfCp_-trwDQ)
 + [Java真的不难（二十三）Map集合](https://mp.weixin.qq.com/s/4wRsTjfKNewp11vQanIvsg)
++ [如果让你改造下 HashMap 的扩容实现，你会怎样优化？](https://mp.weixin.qq.com/s/v3wNbQ3RTGjQtUItFRYPqQ)
 
 ### Optional
 
@@ -1105,6 +1108,7 @@
 + [Java异步编程：CompletableFuture深度解析与应用实践](https://mp.weixin.qq.com/s/afEfZB-F1ghMFILXudjb8Q)
 + [面试练习 | 解释Java中Future和CompletableFuture的区别](https://mp.weixin.qq.com/s/XioKMQKTMs2ofvdQwgq9eA)
 + [面试练习 | 解释在Java并发编程中使用CompletableFuture相比Future的优势](https://mp.weixin.qq.com/s/qxQomhlzQTQE5X0ADAOXwg)
++ [【Java】CompletableFuture.orTimeout在JDK21以下版本有内存泄漏及解决方案](https://mp.weixin.qq.com/s/qzC2_F1ju6xX5b-TU0Ht5g)
 
 ### ThreadPool
 
@@ -2957,6 +2961,7 @@
 + [Spring Boot 异步任务实战：轻松提升系统性能，告别阻塞！](https://mp.weixin.qq.com/s/kLI5Wp2BtgpB7y_VmntG-w)
 + [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/Sg3wEwNa2-_gllKehcUnew)
 + [一个 SpringBoot 应用里有多少个线程？踩一坑长一智](https://mp.weixin.qq.com/s/QnFipvYerxMdBiRx7cnSeg)
++ [Spring Boot动态定时任务实战：告别硬编码配置](https://mp.weixin.qq.com/s/1Yzkh1DikNRfals5W8iv5Q)
 
 ##### Disruptor
 
@@ -3505,6 +3510,7 @@
 + [【Ratis】SlideWindow滑动窗口机制](https://mp.weixin.qq.com/s/lLC-vLnH569g4o1KNeUEwQ)
 + [【Ratis】Leader Election领导者选举过程详解](https://mp.weixin.qq.com/s/AOF5Etum0NQbHgMYXmQ2ug)
 + [分布式事务神器！Seata如何保证跨库操作数据零差错？原理+实战全解析！](https://mp.weixin.qq.com/s/yXynF0dk8JqSFbvTuTwfBQ)
++ [研发排查问题的利器：一款方法调用栈跟踪工具](https://mp.weixin.qq.com/s/u83FUul1EXsY-jTc46a7fA)
 
 # 其它环境
 
@@ -3530,6 +3536,7 @@
 + [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)
 + [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)
 + [Java中的JWT详解](https://mp.weixin.qq.com/s/-NNctdBFYLwqMJs7vX-Bmg)
++ [一种灵活的数据权限思路（AOP、反射、MyBatis拦截器）](https://mp.weixin.qq.com/s/_8VNylMoOk-iMmLp5xR6Eg)
 + [聊聊四种实时通信技术：短轮询、长轮询、WebSocket 和 SSE](https://mp.weixin.qq.com/s/NIACuNgHtSFgKHc7T1G3Wg)
 + [详细讲解一下高性能设计里面的异步处理机制](https://mp.weixin.qq.com/s/t-dLXwavKK7KNurhzU_puA)
 + [Java性能调优以及相关工具的使用](https://mp.weixin.qq.com/s/_1-gXGI_6BUyqQopUSUoOQ)

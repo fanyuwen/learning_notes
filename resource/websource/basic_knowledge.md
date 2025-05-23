@@ -212,6 +212,9 @@
 + [CPU指令的执行过程](https://mp.weixin.qq.com/s/_ERWWGjDIOUk5YaPSirNzQ)
 + [寄存器的组成原理](https://mp.weixin.qq.com/s/W3KztsdpCPC7G638MyxxiA)
 + [一文读懂电脑“心脏”，CPU硬件工作原理](https://mp.weixin.qq.com/s/WsgEFuRqfJCKoM3Q-3Q-UA)
++ [一文看懂RISC-V](https://mp.weixin.qq.com/s/3kYjTmi8QV1Hvmm_VDwuzA)
++ [深入了解RISC-V：指令集](https://mp.weixin.qq.com/s/2amfYCgdnGHd0GC4-29MeQ)
++ [深入了解RISC-V：中断机制](https://mp.weixin.qq.com/s/PuLF_E9pDDtWpEhlm73ukg)
 
 ### 并发
 
@@ -449,6 +452,7 @@
 + [高并发场景下，Nginx如何限流应对并发？](https://mp.weixin.qq.com/s/8ubKqfNwdudoEgYpAYmo8A)
 + [Nginx工作原理和优化总结](https://mp.weixin.qq.com/s/GVZslM7v1xV-UGWEfyF-hw)
 + [Nginx缓存最全详解：如何提高10倍性能！](https://mp.weixin.qq.com/s/lim-lvbYkkR9SOUa4SB0mw)
++ [Nginx高并发架构详解：深入理解Nginx事件驱动模型!](https://mp.weixin.qq.com/s/R2Mgrhsz4-1O90Klchf0aw)
 
 ### wireshark
 

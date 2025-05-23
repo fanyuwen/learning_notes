@@ -375,6 +375,7 @@
 + [高并发下幂等性的七大解决方案（图文总结）](https://mp.weixin.qq.com/s/DRIowcqgJmLSIYP1fBJmqg)
 + [接口的幂等性设计](https://mp.weixin.qq.com/s/ShSIL-vy-BT9_nTSIwZQ-g)
 + [基于防重表的通用接口幂等性设计方案](https://mp.weixin.qq.com/s/P6Ixoq225Lbv3caB971ePg)
++ [业务幂等性技术架构体系](https://mp.weixin.qq.com/s/P1tz63aAYMvvY3Fe_MYi0g)
 
 ### 负载&限流
 

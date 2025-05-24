@@ -1250,6 +1250,7 @@
 + [通过ConcurrentHashMap带你了解并发中的原子性与竟态条件](https://mp.weixin.qq.com/s/W6HAEvIofmm8O5HKKLn2Ew)
 + [面试练习 | Java并发包中的ConcurrentHashMap是如何工作的？](https://mp.weixin.qq.com/s/koP_CFQGYm9O2KqfJkUutw)
 + [大厂面试题解析：ConcurrentHashMap 如何秒杀 SynchronizedMap？](https://mp.weixin.qq.com/s/4ElJ9gJ-sZ_EuFwKcVuQSA)
++ [缓存之美：从根上理解 ConcurrentHashMap](https://my.oschina.net/u/4090830/blog/18444316)
 
 ### 其它
 

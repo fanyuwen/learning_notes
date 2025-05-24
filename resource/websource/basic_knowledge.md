@@ -458,6 +458,7 @@
 + [Nginx工作原理和优化总结](https://mp.weixin.qq.com/s/GVZslM7v1xV-UGWEfyF-hw)
 + [Nginx缓存最全详解：如何提高10倍性能！](https://mp.weixin.qq.com/s/lim-lvbYkkR9SOUa4SB0mw)
 + [Nginx高并发架构详解：深入理解Nginx事件驱动模型!](https://mp.weixin.qq.com/s/R2Mgrhsz4-1O90Klchf0aw)
++ [性能比拼: Nginx vs. Envoy](https://mp.weixin.qq.com/s/aejh7H_wxLFJf96g5SJbjw)
 
 ### wireshark
 

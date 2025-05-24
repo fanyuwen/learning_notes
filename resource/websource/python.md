@@ -208,6 +208,8 @@
 + [盘点实用又强大的Python标准库模块](https://mp.weixin.qq.com/s/-bv58n7oMhis5ExcXp9-kQ)
 + [python入门系列九（模块与标准库）](https://mp.weixin.qq.com/s/lywjUp3ftAHsokwWkfQl7Q)
 + [Python脚本超能力：掌握sys与os模块的20个核心交互技巧](https://mp.weixin.qq.com/s/SxEWTq33hriBSjNx-N_wLQ)
++ [Python编程精进：优化模块导入提升性能](https://mp.weixin.qq.com/s/hhJkyVXDBcYMotd2scQxow)
++ [Python 模块/包/库：90%新手都搞混的概念！3分钟彻底搞懂！](https://mp.weixin.qq.com/s/c2zp-04oHYS6B0r8nBIIcg)
 
 ### 异步/多线程
 
@@ -263,6 +265,7 @@
 + [Python 用 import 导入指定目录的文件函数](https://mp.weixin.qq.com/s/G0Vc15Q35T6KtZ3-zsxNIA)
 + [最强大文件处理工具：Python内存映射（mmap）](https://mp.weixin.qq.com/s/s1-6_tLbTdIDYeScfanuGw)
 + [永不停止的力量：Python无限迭代器三剑客全解析](https://mp.weixin.qq.com/s/ByxO9imRr-kvmVavn5bpNA)
++ [itertools, Python中处理迭代器的利器](https://mp.weixin.qq.com/s/fREYagptImX4kZdlXqzPUQ)
 + [Python 中有哪些常用的 API？](https://mp.weixin.qq.com/s/h5hZqGIgwt3IDXXY3ei0cw)
 + [Python 导入模块的本质](https://mp.weixin.qq.com/s/d8wqncQr_LtOjHH-oSzHFw)
 + [Python 的 import 使用方法](https://mp.weixin.qq.com/s/I4LtguaQw1ILp3xJZr8jNw)
@@ -493,6 +496,8 @@
 + [Python 链表面试题精讲：如何判断链表是否有环？如何找出环的入口节点？](https://mp.weixin.qq.com/s/GvRX42FmTP_BkE6EyCS1yA)
 + [python日志轮转](https://mp.weixin.qq.com/s/mkaG7BC-QvWJeyuFzVLtgw)
 + [你可能不认识我，但你一定要学会我分享的Python分层思想。](https://mp.weixin.qq.com/s/ybYVWRb03j4LUIvW_oDlIg)
++ [10 个看似令人困惑但却非常出色的 Python 功能！](https://mp.weixin.qq.com/s/WDHp9dcMdAReiCYxHlkpow)
++ [Python 进阶：多继承与Mixin设计模式](https://mp.weixin.qq.com/s/2xxLAJg4IlG2CRqvXQvvVg)
 
 ## 新特性
 
@@ -812,6 +817,7 @@
 + [【炸裂】Python后台任务Celery全面解析](https://mp.weixin.qq.com/s/6DGd1dYC-umIioGcxoFcGw)
 + [Python编程精进：实用的属性管理工具](https://mp.weixin.qq.com/s/9xuMGRmcz1kz5BBOZ1Zk1g)
 + [python入门系列二十一（python执行js脚本，助力平台产品实现脚本化能力）](https://mp.weixin.qq.com/s/Ii1FupIMSCrLVfPhfztjNQ)
++ [速度提升100倍，最新Python包管理工具uv，淘汰pip](https://mp.weixin.qq.com/s/kSB0Bb2ZBwaH30fRJ_cgvA)
 
 ## 框架
 
@@ -829,6 +835,7 @@
 + [FastAPI，一个高效的 Web 框架](https://mp.weixin.qq.com/s/Kn2IyVzZnew21hJRTAtNBg)
 + [Python编程精进：FastAPI中的依赖注入](https://mp.weixin.qq.com/s/_bq53WWrYzewnH29vYj-QA)
 + [Python编程精进：FastAPI最佳实践](https://mp.weixin.qq.com/s/J0SAkMl2_2b46L3rkuq-KQ)
++ [Python编程精进：FastAPI后台任务](https://mp.weixin.qq.com/s/98nLkWTUaAlDpeW1fCWc5w)
 
 ### SQLAlchemy
 

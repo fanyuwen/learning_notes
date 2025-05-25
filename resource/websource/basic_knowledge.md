@@ -110,6 +110,9 @@
 + [深入探索linux系统调用的来龙去脉](https://mp.weixin.qq.com/s/S3bER9uAED3a-ycMoQS-VQ)
 + [Linux内核链表](https://mp.weixin.qq.com/s/10qnsGDMCPfEEfQRQPxaVQ)
 + [Linux内核代码追踪：如何“分裂”出一个新进程的？](https://mp.weixin.qq.com/s/qKEz2rlt-sNVKdmZveeIqA)
++ [多核CPU的TLB竞争：如何降低跨核刷新开销](https://mp.weixin.qq.com/s/GMMAiNylTwzYNMkksPcTQg)
++ [从内存地址 0x7c00 思考程序员的差距](https://mp.weixin.qq.com/s/StWZ2vGEBE65NqZ8gMJlKA)
++ [Linux内核转储（Coredump）详解：从入门到实战（下篇）](https://mp.weixin.qq.com/s/ZJc-emaJQDWAw5YigLppRQ)
 
 ### 网络
 
@@ -216,6 +219,7 @@
 + [一文看懂RISC-V](https://mp.weixin.qq.com/s/3kYjTmi8QV1Hvmm_VDwuzA)
 + [深入了解RISC-V：指令集](https://mp.weixin.qq.com/s/2amfYCgdnGHd0GC4-29MeQ)
 + [深入了解RISC-V：中断机制](https://mp.weixin.qq.com/s/PuLF_E9pDDtWpEhlm73ukg)
++ [RISC-V系列——内存页表详解](https://mp.weixin.qq.com/s/B-RpEt4C8zoWdJnSWb2lHw)
 + [CPU总线结构的基本原理](https://mp.weixin.qq.com/s/Oyr1GNuMx0HkOmbQeHDK3Q)
 
 ### 并发
@@ -246,6 +250,7 @@
 + [NPU 与 GPU 相比，有什么差别？| 技术速览](https://my.oschina.net/IDP/blog/15787377)
 + [GPU远程调用—原理篇](https://mp.weixin.qq.com/s/A2Fy7gPJQQbs1XjlZK6D_g)
 + [GPU的工作原理](https://mp.weixin.qq.com/s/o-NnRBp2UHc1hFYD_IbKTg)
++ [显卡(GPU)的工作原理](https://mp.weixin.qq.com/s/cAdp7ZUB1QvYUdJfpQsCRQ)
 
 ## 网络基础
 
@@ -335,6 +340,8 @@
 + [面试官：如何理解OSI七层模型和TCP/IP四层模型？HTTP作为如何保存用户状态？多服务器节点下 Session方案怎么做](https://mp.weixin.qq.com/s/mIGJdNKmHiZt9AHQ3q7X8Q)
 + [计算机网络之HTTP篇（上）](https://mp.weixin.qq.com/s/iw6edtx1Z8Z94_XzBhLoJg)
 + [计算机网络之HTTP篇（下）](https://mp.weixin.qq.com/s/6xAgehgPfNsc4cn5qz4Vhw)
++ [为啥有了MAC地址还要IP地址？](https://mp.weixin.qq.com/s/RTciaenQgwRdknC79fuRjA)
++ [HTTP 如何升级成 HTTPS](https://mp.weixin.qq.com/s/8ux2nk4lmeF8bwT7RX4hgA)
 
 #### CORS
 
@@ -373,6 +380,7 @@
 + [深入解析TCP协议：三次握手四次挥手全过程及相关面试题](https://mp.weixin.qq.com/s/9ZHSEXhl95SygVcfJ-U2bQ)
 + [经典 TCP 拥塞控制](https://mp.weixin.qq.com/s/Hs4XqNwi7C3lTPm6NK8OOA)
 + [TCP/IP网络模型的全面解读](https://mp.weixin.qq.com/s/MAjYU1f_U2ZcJepdEtq18g)
++ [初探 TCP 连接](https://mp.weixin.qq.com/s/FCliTrzDnu2ScW8FQC33OA)
 
 ### UDP
 

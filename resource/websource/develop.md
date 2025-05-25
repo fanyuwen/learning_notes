@@ -532,6 +532,7 @@
 + [5种常见的加密算法，建议掌握！](https://mp.weixin.qq.com/s/bivOLtm9M9KpWgaK2wj5AQ)
 + [程序员必备基础：10种常见安全漏洞](https://mp.weixin.qq.com/s/P-1jEcbriD4SqPQNesT1pg)
 + [AES加密及填充模式都有哪些？](https://mp.weixin.qq.com/s/8GtLrZ4IGlzdwKAh6pa0fA)
++ [揭秘网络通信中的加密技术](https://mp.weixin.qq.com/s/hfmK99C4Yfo3BSVyBThLsQ)
 
 ### 鉴权
 

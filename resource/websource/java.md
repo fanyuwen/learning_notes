@@ -184,6 +184,7 @@
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
 + [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
++ [JAVA 24 虚拟线程的演进：从愿景到生产实践](https://mp.weixin.qq.com/s/AYmxYLDzPusOb5Axf3WRCA)
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
@@ -354,6 +355,7 @@
 + [Java真的不难（五十五）日期API及生日提醒系统业务](https://mp.weixin.qq.com/s/oK1Acy6kK7yzDcGxZY-GWg)
 + [那些奇奇怪怪却又妙趣横生的Java知识](https://mp.weixin.qq.com/s/bTQpul7S8rWP-60vKSXmLg)
 + [价格字段还用BigDecimal呢？我直接给你一拳。看看最新的Money类吧，下次给面试官吹牛逼有的讲！](https://mp.weixin.qq.com/s/Gd4XDyxVBYTcZHwpVtU72w)
++ [Java真的不难（六十四）Stack数据结构分析及多个基本操作方法](https://mp.weixin.qq.com/s/N8rDxpPJfBYaS85XmYmHRA)
 
 ## 代码质量
 
@@ -1291,6 +1293,7 @@
 + [Java多线程编程之CountDownLatch](https://mp.weixin.qq.com/s/035TRPrr4jO2qMR_WzvsLA)
 + [java并发工具——CountDownLatch](https://mp.weixin.qq.com/s/GuOXBZGjyYciqglPcx0wXg)
 + [Java多线程编程之Semaphore](https://mp.weixin.qq.com/s/sqWNfZpcq6pz0SVSe4YARQ)
++ [与传统累加器对比，LongAdder 为何如此出众？](https://mp.weixin.qq.com/s/C6p31rCH-Pqwk_vdGbt8Jw)
 
 ## IO/NIO
 
@@ -1803,6 +1806,7 @@
 + [Java面试题——Bean生命周期](https://mp.weixin.qq.com/s/8tEAXKae4L30pb7T0nPw_A)
 + [一篇文章吃透Spring Bean，从入门到装逼全搞定！](https://mp.weixin.qq.com/s/HjvoT8O1_QY3NVsA_fP3vg)
 + [一文学习Spring依赖注入](https://mp.weixin.qq.com/s/Hi2iU2u74Midg8mV5EmfJg)
++ [Spring框架资源访问策略详解（Resource接口）](https://mp.weixin.qq.com/s/zkySS4llctvZRrdgiCNp3w)
 
 #### 配置
 

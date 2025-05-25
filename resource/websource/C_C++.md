@@ -12,6 +12,7 @@
 + [CMake之官方Tutorial(Usage Requirements)](https://mp.weixin.qq.com/s/TQWRhmGbutRmvk97HVC1Xg)
 + [【从0实现muduo库系列】第一讲：CMake构建大型项目](https://mp.weixin.qq.com/s/ZajZY0_WR4HIS2jqoydiXw)
 + [binary instrumentation: 二进制执行文件插桩简介](https://mp.weixin.qq.com/s/oI_20zrhkfQrxrv0AJTpig)
++ [一文讲透串口（UART）通信，超级详细！！！](https://mp.weixin.qq.com/s/NIp5eZHwrEJd5XQg5dN96w)
 
 ## C++
 
@@ -61,6 +62,7 @@
 + [C++思考30:浅析虚析构函数](https://mp.weixin.qq.com/s/CRbIssdLDaXqHugXLzWSRg)
 + [每日C++——std::addressof](https://mp.weixin.qq.com/s/NrK3t0QGDi7jOluKLR8MZA)
 + [C++：二叉树的遍历](https://mp.weixin.qq.com/s/YCkX3fYhfMb-x8kaUP4yYQ)
++ [C++ 模板元编程：让代码在编译期「自动运行」](https://mp.weixin.qq.com/s/YomlUBHJtg54jjftiuwCiQ)
 + [C++文件操作一次搞懂吧](https://mp.weixin.qq.com/s/NKeTTaRCLH388NjV3fQnVg)
 + [面试题：C++为什么推荐使用static_cast而不是C风格的(int)x？](https://mp.weixin.qq.com/s/WeF1lHvnZem1g5Crh6KRmg)
 + [C++信奥之路，深耕基础，方能远行——洛谷官方题单之字符串（3）](https://mp.weixin.qq.com/s/P9o37_Pul42gqC1Xd6dG2w)
@@ -197,6 +199,7 @@
 + [C语言内存管理：栈内存](https://mp.weixin.qq.com/s/jx1K-B9EdBrO6HakPA9l3A)
 + [动手从零写C库-内存管理之mmap](https://mp.weixin.qq.com/s/Ynw-LvgNwZsOnnXuJo4CZw)
 + [C语言编程，我想用指针实现整数互换为啥歇菜了？](https://mp.weixin.qq.com/s/WHawUfhByH7RQ67iY9rX6w)
++ [C语言程序的网络通信优化：提高传输效率](https://mp.weixin.qq.com/s/M8ZIjduWcT5wD0lgSzX9Og)
 + [gcc __attribute__((const))解析](https://mp.weixin.qq.com/s/OfE3KlgKRpihB-w6Rbq1AQ)
 + [基于Linker Script与__attribute__((section))实现 C 语言函数调用实战](https://mp.weixin.qq.com/s/v6MB93469fHaWaQs1ctsVQ)
 + [malloc 背后的虚拟内存 和 malloc实现原理](https://mp.weixin.qq.com/s/kJq03LoTLb7Uit1c6Z_VzQ)
@@ -207,6 +210,7 @@
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
 + [国外C语言程序员分享：我为何不再使用 printf()，你也该如此](https://mp.weixin.qq.com/s/b20gGC0h-SiCjAr1cTd4tg)
 + [C语言递归算法的实现](https://mp.weixin.qq.com/s/3fo_6QZ0gthB-dzpzlPStg)
++ [从猜数字程序来理解结构和随机数 | C语言基础](https://mp.weixin.qq.com/s/tERgMtKtR9pKz52ImP6xLA)
 + [06_printf与scanf函数详解](https://mp.weixin.qq.com/s/z_1vXmMGIDWQqDT9N-irgg)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
@@ -247,6 +251,7 @@
 
 + [嵌入式科普(30)一文看懂嵌入式MCU/MPU多核架构与通信](https://mp.weixin.qq.com/s/fiE6fe25XiGJ6cycp0jCXA)
 + [Linux内核编译：解析menuconfig与ARM架构配置](https://mp.weixin.qq.com/s/nJ16_VyWhImxT_WlbPrmoA)
++ [STM32 从上电到 main()函数之间到底发生了什么？链接脚本（.ld/.sct）的秘密](https://mp.weixin.qq.com/s/_k1Ee3zwn_cWaQ3a7bQ2_A)
 
 # ARM
 

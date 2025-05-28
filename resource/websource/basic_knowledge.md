@@ -173,6 +173,7 @@
 + [快速入门-Linux常用命令汇总](https://mp.weixin.qq.com/s/3CJDzP9Igv6RlKmRMPSwtg)
 + [Linux基础命令总结](https://mp.weixin.qq.com/s/w_kdx1LJuCCfakuOWse70g)
 + [关于nohup命令需要知道的那些事](https://mp.weixin.qq.com/s/EKDagPAv1a4UyJCr_EuGPw)
++ [Linux常用命令介绍-文件管理](https://mp.weixin.qq.com/s/KX8EXlLs6AMUPz2pfHwUmw)
 
 ### 发行版信息
 
@@ -220,6 +221,7 @@
 + [深入了解RISC-V：指令集](https://mp.weixin.qq.com/s/2amfYCgdnGHd0GC4-29MeQ)
 + [深入了解RISC-V：中断机制](https://mp.weixin.qq.com/s/PuLF_E9pDDtWpEhlm73ukg)
 + [RISC-V系列——内存页表详解](https://mp.weixin.qq.com/s/B-RpEt4C8zoWdJnSWb2lHw)
++ [RISC-V系列——终结篇](https://mp.weixin.qq.com/s/tnOttKm_FAVXdK0VolQBDQ)
 + [CPU总线结构的基本原理](https://mp.weixin.qq.com/s/Oyr1GNuMx0HkOmbQeHDK3Q)
 
 ### 并发
@@ -302,6 +304,7 @@
 + [网络编程基础：近万字总结，这都不了解根本做不好项目](https://mp.weixin.qq.com/s/lozME7r9uhr8l9AxhTUv4w)
 + [面试官：TCP 和 UDP 有什么区别？如何选择？](https://mp.weixin.qq.com/s/VU9MCUUG6dYKdxradEzctg)
 + [TCP与UDP协议的socket 通信](https://mp.weixin.qq.com/s/58EixVHdm2TspZno7hKf9A)
++ [网络中的数据包到底是如何转发的](https://mp.weixin.qq.com/s/R3J9Uh0UhKxQKQFmyQmm5w)
 
 ### DNS
 
@@ -388,6 +391,7 @@
 + [【网络】TCP、UDP数据包大小的限制](https://mp.weixin.qq.com/s/ir14xyUFe2uy_KL2B7BlOw)
 + [TCP和UDP协议介绍及Python实现](https://mp.weixin.qq.com/s/tqhtKc9mv8C7-4_BjnzCVQ)
 + [字节一面：TCP 和 UDP 可以使用同一个端口吗？](https://mp.weixin.qq.com/s/xSqHlYSbdMBTzIcHX4QleA)
++ [以太网协议介绍——UDP](https://mp.weixin.qq.com/s/FAq9bSU8jGrakpie-1obrQ)
 
 ### NGINX
 

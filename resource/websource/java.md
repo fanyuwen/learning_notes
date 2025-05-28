@@ -29,6 +29,7 @@
 + [Java学习笔记——常用类和基础API](https://mp.weixin.qq.com/s/JhdkOcHIYo_j7P-0cGpisw)
 + [面试官：说说Java对象的创建过程](https://mp.weixin.qq.com/s/s2vy2a0blH6XOnX-3pgVvw)
 + [Java中的super关键字：深入理解继承中的父类操控术](https://mp.weixin.qq.com/s/ZIu2_dedEqE9PhHRbYkzJQ)
++ [认识Java的接口](https://mp.weixin.qq.com/s/x8YpJLU6eDImc5nlvcGc-g)
 + [Java接口继承：解构灵活扩展的艺术](https://mp.weixin.qq.com/s/S1Cgcm6inZVg4SWEf4LMuA)
 + [一文搞懂Java字符串类的区别：String、StringBuffer与StringBuilder](https://mp.weixin.qq.com/s/CTTkM0vxe273Ng5IAS_XFw)
 + [Java中的abstract class与interface：核心区别与使用场景](https://mp.weixin.qq.com/s/dJP49LmpbT1AzScb2mvTrw)
@@ -294,6 +295,7 @@
 + [如何保证线程A，B，C 顺序执行？](https://mp.weixin.qq.com/s/BjKzyChvWhSehBy_z36qKQ)
 + [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
++ [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
 + [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
@@ -560,6 +562,7 @@
 + [并发编程 - 初识线程](https://mp.weixin.qq.com/s/BUwsqOcQ5m3MRnsRVwUuoQ)
 + [并发编程 - 线程浅试](https://mp.weixin.qq.com/s/mby0p8lVgHCM0VNZWm34bw)
 + [Java并发探索--上篇](https://mp.weixin.qq.com/s/uHKXDE7PKsQHo_TGGtmBrQ)
++ [线程通信](https://mp.weixin.qq.com/s/JF6PKKTmjtrcQle7qyp4tA)
 + [探索虚拟线程：原理与实现](https://my.oschina.net/u/4090830/blog/18326469)
 + [继续来聊高并发的本质！免费的就是香！](https://mp.weixin.qq.com/s/ruGzcM4PdpzpxRPEUqjJCQ)
 + [阿里一面：Java 中如何终止一个正在运行的线程](https://mp.weixin.qq.com/s/pWbFDI3h5BJTttu6aTch5g)
@@ -1639,6 +1642,8 @@
 ## netty
 
 + [Netty实战入门教程](https://mp.weixin.qq.com/s/l1yJ40Ed3P2Ydzty2e6r2g)
++ [Netty线程模型](https://mp.weixin.qq.com/s/ryXdwGwfdIN-QT1osnZuBQ)
++ [Netty职责链Pipeline详解](https://mp.weixin.qq.com/s/KJ3Xv8LbhW11d0B4IT4IGQ)
 + [轻松掌握Netty：实现高效的客户端与服务器通信](https://mp.weixin.qq.com/s/jN4f303IkInD0i9Z-9JYNA)
 + [Netty高级使用与源码详解](https://mp.weixin.qq.com/s/lgwieW4dOrDSXU9YwPS8nQ)
 + [Java IO-Netty（10分钟帮你快速了解Netty）](https://mp.weixin.qq.com/s/SeEj92hGP6_X3LbrrnRdSg)
@@ -3345,6 +3350,7 @@
 + [SpringBoot 整合 Dubbo 轻松搞定服务远程互调](https://mp.weixin.qq.com/s/_EHcP0W-0CGzccKOR1J4GA)
 + [Spring Boot 3.x集成Redisson与常见问题处理](https://mp.weixin.qq.com/s/pqigqHKLRITC4Bq0kNdcXg)
 + [SpringBoot中5种服务可用性保障技术](https://mp.weixin.qq.com/s/tvbWGrnvr4D5A81dtUtDYQ)
++ [SpringBoot中如何引入第三方的SDK](https://mp.weixin.qq.com/s/zNtBFADUMtHKUhSztHI-aQ)
 
 #### test
 
@@ -3576,6 +3582,7 @@
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
 + [Java真的不难（四十六）设计模式的开闭原则&里氏代换原则及案例](https://mp.weixin.qq.com/s/81qLAj5FY4ktAdBG4BP3EQ)
++ [实现一个异步的组件](https://mp.weixin.qq.com/s/hBrn9GEtyIxNl6XM8_MXEw)
 + [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)
 + [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)
 + [Java中的JWT详解](https://mp.weixin.qq.com/s/-NNctdBFYLwqMJs7vX-Bmg)

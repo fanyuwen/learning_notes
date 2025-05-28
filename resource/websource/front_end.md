@@ -269,6 +269,7 @@
 + [WebSocket实时通信技术详解：从原理到Spring Boot实战](https://mp.weixin.qq.com/s/LnLRi8KmHPQAOx7OI69BVw)
 + [WebSocket之外，SSE协议为何被大厂悄悄采用？](https://mp.weixin.qq.com/s/LTytJL4MMLHuU892O8CnzQ)
 + [实时通信—舍我其谁—WebSocket 入门](https://mp.weixin.qq.com/s/S-hFYVSTrxWzioUbKUUMjQ)
++ [深入解析WebSocket：实时通信的核心技术](https://mp.weixin.qq.com/s/NACeiX34oGLmyYLtQo4LQQ)
 
 # 工具
 

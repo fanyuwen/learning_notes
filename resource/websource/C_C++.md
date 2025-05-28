@@ -13,6 +13,7 @@
 + [【从0实现muduo库系列】第一讲：CMake构建大型项目](https://mp.weixin.qq.com/s/ZajZY0_WR4HIS2jqoydiXw)
 + [binary instrumentation: 二进制执行文件插桩简介](https://mp.weixin.qq.com/s/oI_20zrhkfQrxrv0AJTpig)
 + [一文讲透串口（UART）通信，超级详细！！！](https://mp.weixin.qq.com/s/NIp5eZHwrEJd5XQg5dN96w)
++ [技术科普｜ C/C++ 程序员必备的 Debug 神器 Core Analyzer](https://mp.weixin.qq.com/s/LflcUO0H5ZhSRaabZ7e1Vg)
 
 ## C++
 
@@ -21,6 +22,7 @@
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
++ [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
@@ -210,6 +212,7 @@
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
 + [国外C语言程序员分享：我为何不再使用 printf()，你也该如此](https://mp.weixin.qq.com/s/b20gGC0h-SiCjAr1cTd4tg)
 + [C语言递归算法的实现](https://mp.weixin.qq.com/s/3fo_6QZ0gthB-dzpzlPStg)
++ [C语言中break和continue的使用](https://mp.weixin.qq.com/s/alrDIC3PKQhzwVl2usMRFQ)
 + [从猜数字程序来理解结构和随机数 | C语言基础](https://mp.weixin.qq.com/s/tERgMtKtR9pKz52ImP6xLA)
 + [06_printf与scanf函数详解](https://mp.weixin.qq.com/s/z_1vXmMGIDWQqDT9N-irgg)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)

@@ -68,6 +68,8 @@
 + [程序员如何5分钟画好架构图？这个开源神器让文档逼格飙升](https://mp.weixin.qq.com/s/JhmpFBWV5gE2ccZAfFZhMQ)
 + [聊一聊管道-过滤器架构](https://mp.weixin.qq.com/s/-Za9g5pNdKsAfqiEsAC0CA)
 + [循序渐进搭建复杂 B 端系统整洁架构](https://my.oschina.net/u/4090830/blog/18211828)
++ [一、架构设计技巧——代码与架构复用](https://mp.weixin.qq.com/s/0sWz3jgc6G6QwnrwsBpFog)
++ [学习一个框架的设计思想远比其技术更加重要](https://mp.weixin.qq.com/s/DaiEOQ7CR7fjVQPplgy3vw)
 
 ### DDD
 

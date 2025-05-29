@@ -111,6 +111,7 @@
 + [DDD之封装的复杂度](https://mp.weixin.qq.com/s/s53t7KvNmhmjynMjgUTpBw)
 + [DDD与CRUD的本质区别](https://mp.weixin.qq.com/s/XcutD-s27LbR6rukcR3KkQ)
 + [DDD落地实现的深水区（4）整洁架构落地（上）](https://mp.weixin.qq.com/s/m2a35-RONAs1AW57YIG1Cw)
++ [深入浅出 DDD：从理论到落地的关键](https://my.oschina.net/u/4939618/blog/18449959)
 
 ## 微服务
 

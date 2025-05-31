@@ -309,6 +309,7 @@
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
++ [Java真的不难（六十七）备忘录模式的深入分析及文本编辑器案例](https://mp.weixin.qq.com/s/gNbGNtypc3x0n6BKPTwJmw)
 + [Java真的不难（四十四）适配器模式及在支付系统集成中的应用](https://mp.weixin.qq.com/s/giZLP7ks-x_7RED-XLyU6g)
 + [状态设计模式（State Pattern）在 Java 中的应用](https://mp.weixin.qq.com/s/-KU5OBc_ayjx2xUvlhjW8A)
 + [Java8中极其强悍的Function接口](https://mp.weixin.qq.com/s/GwCosMIfgpU2-v4OdW6lwQ)
@@ -770,6 +771,7 @@
 + [Java锁的分类：一文列出Java常见的所有锁，并分析其实现原理！](https://mp.weixin.qq.com/s/pYrsjxO8KGMLDb1Sj4g7Ag)
 + [Java真的不难（六十二）Synchronized关键字和死锁的深入分析](https://mp.weixin.qq.com/s/avahIS7QpK6pVOwi7HLljg)
 + [一文搞懂线程死锁：四大必要条件与避坑指南](https://mp.weixin.qq.com/s/EhxybgcMlbXYWf_68_rQwg)
++ [JUC锁原理之AQS原理&CLH同步队列](https://mp.weixin.qq.com/s/zNQ1CikABHp7wSvGn8pKFw)
 
 #### volatile
 
@@ -1315,6 +1317,7 @@
 + [Java真的不难（二十五）File类、IO流](https://mp.weixin.qq.com/s/EvOnPSVEy2lWa0t4zPdvEA)
 + [万字总结NIO多路复用技术，深入解析NIO的实现原理！](https://mp.weixin.qq.com/s/suUaVzlgOuWw74Yw1piCRA)
 + [深入剖析 InputStream：源码解读、JDK 更新与应用实例](https://mp.weixin.qq.com/s/vgw1kDmZsPH5M2AjKvAgBA)
++ [NIO非阻塞网络编程的三大核心组件](https://mp.weixin.qq.com/s/9ZnMRoAI1AZiK9bAf-X38Q)
 
 ## JAVAX
 
@@ -1419,6 +1422,7 @@
 + [性能利器Caffeine缓存全面指南](https://segmentfault.com/a/1190000044579389)
 + [缓存之美：万文详解 Caffeine 实现原理（上）](https://my.oschina.net/u/4090830/blog/17578210)
 + [缓存之美：万文详解 Caffeine 实现原理（下）](https://my.oschina.net/u/4090830/blog/18017722)
++ [Caffeine：从动态过期时间到时间过期原理](https://mp.weixin.qq.com/s/3dOqFfzk12_Va5BmoSA_9g)
 
 ## consul
 

@@ -359,6 +359,7 @@
 + [那些奇奇怪怪却又妙趣横生的Java知识](https://mp.weixin.qq.com/s/bTQpul7S8rWP-60vKSXmLg)
 + [价格字段还用BigDecimal呢？我直接给你一拳。看看最新的Money类吧，下次给面试官吹牛逼有的讲！](https://mp.weixin.qq.com/s/Gd4XDyxVBYTcZHwpVtU72w)
 + [Java真的不难（六十四）Stack数据结构分析及多个基本操作方法](https://mp.weixin.qq.com/s/N8rDxpPJfBYaS85XmYmHRA)
++ [Java真的不难（六十五）使用Stream流来替代传统繁琐循环的多个案例（附源码）](https://mp.weixin.qq.com/s/wKqrRCd9ksQ5SGQj0CjWhA)
 
 ## 代码质量
 
@@ -1133,6 +1134,7 @@
 + [面试练习 | 解释Java中Future和CompletableFuture的区别](https://mp.weixin.qq.com/s/XioKMQKTMs2ofvdQwgq9eA)
 + [面试练习 | 解释在Java并发编程中使用CompletableFuture相比Future的优势](https://mp.weixin.qq.com/s/qxQomhlzQTQE5X0ADAOXwg)
 + [【Java】CompletableFuture.orTimeout在JDK21以下版本有内存泄漏及解决方案](https://mp.weixin.qq.com/s/qzC2_F1ju6xX5b-TU0Ht5g)
++ [CompletableFuture回调函数运用](https://mp.weixin.qq.com/s/Vstk-St9OcnbqblEr-1P8Q)
 
 ### ThreadPool
 
@@ -1686,6 +1688,7 @@
 + [美团面试：说说Netty的零拷贝技术？我：蒙了，没用过啊](https://mp.weixin.qq.com/s/73L41TXsurr4XcBBVk_WvA)
 + [Netty源码—4.客户端接入流程](https://mp.weixin.qq.com/s/-bGktTfsPcg2SVXJDdfH2A)
 + [Netty-Reactor模型常见知识点小结](https://mp.weixin.qq.com/s/PCFRowteMKc8MNDdeCuS1Q)
++ [零拷贝机制](https://mp.weixin.qq.com/s/Q6b2qY28mBtAPd2lv_oGkA)
 
 ## quarkus
 
@@ -2403,6 +2406,7 @@
 + [别再自己瞎写工具类了，SpringBoot内置工具类应有尽有，建议收藏！！](https://mp.weixin.qq.com/s/49P2A4PE9fEyZfra0p37fQ)
 + [Spring Boot工具类如何获取 Spring 的 Bean](https://mp.weixin.qq.com/s/4C0xKjQSnOSyzTmW8VDdnQ)
 + [太强了！Spring Boot 五大内置 "神兵" 工具](https://mp.weixin.qq.com/s/ulEXtk6kZ6wbXKHr7gdlpg)
++ [这技巧太牛了！借助Spring Boot扩展点，动态注册Bean](https://mp.weixin.qq.com/s/lQ3LCd9aYee-rD50bH9L-A)
 
 #### 版本特性
 

@@ -498,6 +498,7 @@
 + [你可能不认识我，但你一定要学会我分享的Python分层思想。](https://mp.weixin.qq.com/s/ybYVWRb03j4LUIvW_oDlIg)
 + [10 个看似令人困惑但却非常出色的 Python 功能！](https://mp.weixin.qq.com/s/WDHp9dcMdAReiCYxHlkpow)
 + [Python 进阶：多继承与Mixin设计模式](https://mp.weixin.qq.com/s/2xxLAJg4IlG2CRqvXQvvVg)
++ [Python 调试神器：pdb断点调试完整流程](https://mp.weixin.qq.com/s/neUVZsbERoeGHGFpAXp1-w)
 
 ## 新特性
 

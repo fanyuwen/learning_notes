@@ -34,6 +34,7 @@
 + [浅谈std::promise的异常情况](https://mp.weixin.qq.com/s/38Jaf6q8LTBCh0TGguIrWw)
 + [C++_成员初始化列表](https://mp.weixin.qq.com/s/uabbFCMApMtrc7fWOCpbAg)
 + [C++常见陷阱：一个例子学习c++ const使用](https://mp.weixin.qq.com/s/GHrH21bzEKILmlNZI06rKg)
++ [C++11：线程库结构 + 深入理解std::async和std::future](https://mp.weixin.qq.com/s/ooYIA6XhHTRNvyUwW6kaEw)
 + [C++ 五 虚函数（一）多态的实现](https://mp.weixin.qq.com/s/J3CyQp1q4htteTRG-E1GNw)
 + [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
@@ -54,6 +55,7 @@
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
 + [C++那些事之const全家桶](https://mp.weixin.qq.com/s/hM5eIpaaMDiw8rpZAcpOsQ)
 + [C++面试高频考点：inline的深层理解与实战应用](https://mp.weixin.qq.com/s/zn_BWWgWol7kDkwHcpOjcg)
++ [C++ | 异步接口 promise, future, packaged_task, async.](https://mp.weixin.qq.com/s/FvVWytcscu5M2WaUYbaR2w)
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
@@ -96,6 +98,7 @@
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
 + [输出流的内部缓存](https://mp.weixin.qq.com/s/LfcGvNxOQ8y7FkOHjHofoQ)
 + [字符编码理论基础](https://mp.weixin.qq.com/s/1h5hqBcF9zSbUUnUbzwJQQ)
++ [高频交易系统（9）：C++ 实现中纳秒级延时优化之快速队列设计](https://mp.weixin.qq.com/s/NTpIL1gew4Qi2KNGkIibCA)
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
@@ -217,6 +220,7 @@
 + [C语言递归算法的实现](https://mp.weixin.qq.com/s/3fo_6QZ0gthB-dzpzlPStg)
 + [C语言中break和continue的使用](https://mp.weixin.qq.com/s/alrDIC3PKQhzwVl2usMRFQ)
 + [从猜数字程序来理解结构和随机数 | C语言基础](https://mp.weixin.qq.com/s/tERgMtKtR9pKz52ImP6xLA)
++ [10种初学者最常见的c语言段错误实例及原因分析](https://mp.weixin.qq.com/s/GeLHLTKzR1zB4Sl6nonDSw)
 + [06_printf与scanf函数详解](https://mp.weixin.qq.com/s/z_1vXmMGIDWQqDT9N-irgg)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
@@ -264,6 +268,7 @@
 
 + [ARM架构与编程 · 基于STM32F103笔记(2)](https://mp.weixin.qq.com/s/ZvrPf8KEc-ZnM8cTzlK1Hg)
 + [浅谈RISC-V与ARM(1)之寄存器与汇编](https://mp.weixin.qq.com/s/K9Qn_fzs3w_JioHIVq_B1g)
++ [看懂map文件](https://mp.weixin.qq.com/s/iIfyy3ALOlRUu3BbRmIwdA)
 
 # PLC
 

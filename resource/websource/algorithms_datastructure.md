@@ -60,6 +60,8 @@
 + [二叉树及其性质](https://mp.weixin.qq.com/s/O1cvrhETZPbJ6w-jvgP_lg)
 + [存储系统的数据效率之数据压缩技术](https://mp.weixin.qq.com/s/PoyGiUrzCxv5rzW5aJnh9A)
 + [有哪些算法惊艳到了你？（三）](https://mp.weixin.qq.com/s/H-DxQVhYCJWxLU2p37PfuQ)
++ [从尾到头打印链表](https://mp.weixin.qq.com/s/_rU1ADi_HOK36Kn7WjCQ8Q)
++ [有哪些算法惊艳到了你？（五）](https://mp.weixin.qq.com/s/He8rPSDX-H0fpZAqkD84XQ)
 
 ## 排序算法
 

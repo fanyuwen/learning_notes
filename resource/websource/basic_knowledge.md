@@ -314,6 +314,7 @@
 + [网络中的数据包到底是如何转发的](https://mp.weixin.qq.com/s/R3J9Uh0UhKxQKQFmyQmm5w)
 + [面试官：你知道哪些基于 TCP/UDP 的协议？](https://mp.weixin.qq.com/s/99TeYUFjjioXP5YWoPP6vA)
 + [一文掌握FTP协议、IP协议、TCP协议、UDP协议和HTTP/HTTPS协议](https://mp.weixin.qq.com/s/BICFslkNCsjTmylTcFO6WQ)
++ [以太网基础知识——PHY，MAC，MII，switch](https://mp.weixin.qq.com/s/fo2koNhYODONpqrYrVXSyw)
 
 ### DNS
 
@@ -485,6 +486,10 @@
 
 + [使用wireshark第一次捕获数据包](https://mp.weixin.qq.com/s/6wPSoYFI0vfgwUBL6QwG5w)
 + [【网络协议】精讲Wireshark抓包和基本使用！图解超赞超详细！！！](https://mp.weixin.qq.com/s/fc0D8_llGLKq3L8OwWibOA)
+
+### 通讯协议
+
++ [MQTT简史！！！](https://mp.weixin.qq.com/s/dn5uSivZiYcVDAtFL94KGw)
 
 ## web
 

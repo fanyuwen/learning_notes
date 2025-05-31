@@ -1023,6 +1023,7 @@
 + [Java真的不难（三十七）Stream流的进阶用法](https://mp.weixin.qq.com/s/RoYEPtDdlPlJHyvp40grkQ)
 + [Java真的不难（三十八）Stream流的高级用法](https://mp.weixin.qq.com/s/9Pm6e-yBjx8D3PxZ82cjVg)
 + [天呐！Java Stream 高效开发！16 个逆天案例，让你秒速起飞！](https://mp.weixin.qq.com/s/19RSoEpYwQXHZJMVKAmoXg)
++ [Java Stream实现List排序的核心技巧](https://mp.weixin.qq.com/s/Ere-CrtYaoQZHimhVd7UoA)
 
 ### Date/time
 
@@ -1452,6 +1453,7 @@
 + [Dubbo 超时设置与动态调整解决方案](https://mp.weixin.qq.com/s/f0RlEFmyG7V0-F8j9vIyjQ)
 + [dubbo高级特性介绍](https://mp.weixin.qq.com/s/2QnmvqpiJ0Uvwq4pWeNKcA)
 + [dubbo分组聚合功能解锁“数据聚合”场景](https://mp.weixin.qq.com/s/ZMk422O-Zx054HpLaGOK4A)
++ [JDK的SPI有什么缺陷？dubbo做了什么改进？](https://mp.weixin.qq.com/s/zSNHVqXv5kP5_VMhX4zrLA)
 
 ## eureka
 
@@ -1819,6 +1821,8 @@
 + [一篇文章吃透Spring Bean，从入门到装逼全搞定！](https://mp.weixin.qq.com/s/HjvoT8O1_QY3NVsA_fP3vg)
 + [一文学习Spring依赖注入](https://mp.weixin.qq.com/s/Hi2iU2u74Midg8mV5EmfJg)
 + [Spring框架资源访问策略详解（Resource接口）](https://mp.weixin.qq.com/s/zkySS4llctvZRrdgiCNp3w)
++ [面试官：你能从源码讲讲@Autowired怎么自动装配的吗？我：…](https://mp.weixin.qq.com/s/BZiSDkRWwzOShMruswTRSw)
++ [Java面试题：Spring篇](https://mp.weixin.qq.com/s/yMWJEqKtbGtsMN-pDZJHaQ)
 
 #### 配置
 
@@ -2851,6 +2855,7 @@
 + [SpringBoot中7个文件上传下载工具](https://mp.weixin.qq.com/s/diYSoiwCRJ9gaLcN1MPHeA)
 + [惊呆了！Spring Boot接口定义：8种逆天玩法](https://mp.weixin.qq.com/s/LRfgXnvv5-eNcRTYJGFTyg)
 + [揭秘Spring Boot内嵌Tomcat：从架构原理到参数调优的深度实战](https://mp.weixin.qq.com/s/RplhWDIiD2W9yevuempyxw)
++ [Jackson！JSON处理的瑞士军刀ObjectMapper](https://mp.weixin.qq.com/s/hPno36VIRLTHpaFpuRbXNA)
 
 ##### VUE
 
@@ -3568,6 +3573,7 @@
 + [聊聊JetCache的缓存构建](https://mp.weixin.qq.com/s/yK_Dtk7VDEt5E3cFTeQmUw)
 + [实现一个通用的eventbus组件](https://mp.weixin.qq.com/s/f738Qnw8NJeysa7110zVOw)
 + [一个Java工程师的17个日常效率工具](https://mp.weixin.qq.com/s/TL_ksI9vU2gi4KlzwtlBZA)
++ [高性能、无侵入的 Java 性能监控神器](https://mp.weixin.qq.com/s/Yd03fuGFx6NjwhSgJA8pNg)
 
 # 其它环境
 
@@ -3603,6 +3609,7 @@
 + [一套万能通用的异步处理方案](https://mp.weixin.qq.com/s/-K6-c95DeVjCvlQYl0kJkg)
 + [从3s到25ms！看看人家的接口优化技巧，确实很优雅！！](https://mp.weixin.qq.com/s/iqv4tDfTMYbpPSN-Rgcuhw)
 + [字符串替换研究](https://my.oschina.net/u/4090830/blog/18059068)
++ [java代码执行(eval)](https://mp.weixin.qq.com/s/JefvpVTxAT9bDM95ELRZKw)
 + [网易二面：阿里为何建议MVC+Manager层混合架构？](https://mp.weixin.qq.com/s/_c6y6FRyJXkT3SWg_aXU6Q)
 + [一文吃透文件上传漏洞！路径遍历、后缀绕过、ZIP炸弹全解析](https://mp.weixin.qq.com/s/7c6h0d-j5s47KW0kqtVm8A)
 + [桶排序算法的原理、Java实现及性能优劣一网打尽](https://mp.weixin.qq.com/s/a9qTBLFU0zi_WJV6f1_tdg)

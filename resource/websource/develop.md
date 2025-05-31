@@ -185,6 +185,7 @@
 + [网关 Gateway 的使用详解](https://mp.weixin.qq.com/s/tFeeBXQajOe1Y97cqGJIuw)
 + [微服务安全架构新范式——零信任与 OAuth2.0 的深度整合](https://mp.weixin.qq.com/s/8I6uiGg6mNOXjCroeyk03w)
 + [告别心跳！用“零心跳”架构设计服务注册中心，性能提升10倍！](https://mp.weixin.qq.com/s/K9oPF6QmBQ_gHBDgyQ0ddg)
++ [微服务架构：必懂的5种设计模式](https://mp.weixin.qq.com/s/9dtJAFdR4HUb92-HOW_2wA)
 
 # 分布式
 
@@ -613,6 +614,7 @@
 + [软件工程的 13 条法则](https://www.oschina.net/news/342448/the-13-software-engineering-laws)
 + [事件驱动架构详解 - 模块间解耦利器](https://mp.weixin.qq.com/s/Xg16k8Uc7hblwlUwUdj5Fg)
 + [10个牛逼的编程范式，你已经用过了几个？](https://mp.weixin.qq.com/s/gsep2Qy4AbNxE0Ru7KvAHw)
++ [10万QPS，如何设计 ‘敏感词’ 风控，还要支持 实时更新的？](https://mp.weixin.qq.com/s/WlSjXgkoQ13SOnPlflJPlQ)
 
 # 测试相关
 

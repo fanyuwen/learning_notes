@@ -5,6 +5,7 @@
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
 + [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
 + [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
++ [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 + [简单学习大佬常用命令之gdb命令](https://mp.weixin.qq.com/s/MWQQSZM8JTITqgMsrBPDcQ)
 + [内存泄漏无处藏身 | GCC -fsanitize=leak 实战攻略](https://mp.weixin.qq.com/s/4HvmIgqFHzb_QRf7_eV87Q)
 + [让内存错误无所遁形 | GCC -fsanitize=address 实战解析](https://mp.weixin.qq.com/s/8fg_xA5ZzixyjFbZvdjvBw)
@@ -24,6 +25,7 @@
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
 + [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
++ [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
 + [探秘C++虚函数表：从内存深处解析多态的奥秘](https://mp.weixin.qq.com/s/jEGNey3zUOXeTz_8N-pIIw)
@@ -90,6 +92,7 @@
 + [Kaitai Struct，一个超强的定义](https://mp.weixin.qq.com/s/SdxhkJUeSw6VfroIxH92VQ)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
++ [数据结构（一）：队列&双端队列](https://mp.weixin.qq.com/s/zWMiXELAg0kBlfdIoi0Fxg)
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
 + [输出流的内部缓存](https://mp.weixin.qq.com/s/LfcGvNxOQ8y7FkOHjHofoQ)
 + [字符编码理论基础](https://mp.weixin.qq.com/s/1h5hqBcF9zSbUUnUbzwJQQ)
@@ -255,6 +258,7 @@
 + [嵌入式科普(30)一文看懂嵌入式MCU/MPU多核架构与通信](https://mp.weixin.qq.com/s/fiE6fe25XiGJ6cycp0jCXA)
 + [Linux内核编译：解析menuconfig与ARM架构配置](https://mp.weixin.qq.com/s/nJ16_VyWhImxT_WlbPrmoA)
 + [STM32 从上电到 main()函数之间到底发生了什么？链接脚本（.ld/.sct）的秘密](https://mp.weixin.qq.com/s/_k1Ee3zwn_cWaQ3a7bQ2_A)
++ [嵌入式面试热点：链表反转——四种单链表反转方法（C语言）](https://mp.weixin.qq.com/s/7u0zqUgIRPZsBE1Rt2h0EQ)
 
 # ARM
 

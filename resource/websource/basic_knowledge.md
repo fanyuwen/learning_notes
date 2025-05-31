@@ -223,6 +223,11 @@
 + [RISC-V系列——内存页表详解](https://mp.weixin.qq.com/s/B-RpEt4C8zoWdJnSWb2lHw)
 + [RISC-V系列——终结篇](https://mp.weixin.qq.com/s/tnOttKm_FAVXdK0VolQBDQ)
 + [CPU总线结构的基本原理](https://mp.weixin.qq.com/s/Oyr1GNuMx0HkOmbQeHDK3Q)
++ [CPU和系统的双簧-锁机制介绍](https://mp.weixin.qq.com/s/3fny40NNJjxJ394otYyERQ)
++ [RISC-V指令集](https://mp.weixin.qq.com/s/5V4p1dY5WV6dgqr3YWtSCg)
++ [CPU缓存和内存屏障](https://mp.weixin.qq.com/s/dUXZk13wTPEckp20xrCNww)
++ [RISCV 微架构总结（5）- EXU的RF部分](https://mp.weixin.qq.com/s/qNGlkG7uUkjvRZkKuCfagQ)
++ [程序员眼中的 CPU 微架构（1）](https://mp.weixin.qq.com/s/yK-SVZUPU3C4WToX6VaKyQ)
 
 ### 并发
 
@@ -245,6 +250,8 @@
 + [函数调用与栈的联系](https://mp.weixin.qq.com/s/4T9L__d1KsOhLLifN_Aobw)
 + [操作系统是如何一步步发明虚拟内存的？](https://mp.weixin.qq.com/s/m5JL8urQfej9Pj7oK4AsdA)
 + [一文读懂Buffer与Cache：开启性能优化的大门](https://mp.weixin.qq.com/s/CLlANi9EmkPoaDCaw9q5kQ)
++ [内存映射](https://mp.weixin.qq.com/s/M0BloVAYB-TSF-znOZX4pQ)
++ [直接内存？我说的堆外内存啊！](https://mp.weixin.qq.com/s/HtfH5P5yfMuMBD7u_WuTnQ)
 
 ## GPU
 
@@ -305,6 +312,8 @@
 + [面试官：TCP 和 UDP 有什么区别？如何选择？](https://mp.weixin.qq.com/s/VU9MCUUG6dYKdxradEzctg)
 + [TCP与UDP协议的socket 通信](https://mp.weixin.qq.com/s/58EixVHdm2TspZno7hKf9A)
 + [网络中的数据包到底是如何转发的](https://mp.weixin.qq.com/s/R3J9Uh0UhKxQKQFmyQmm5w)
++ [面试官：你知道哪些基于 TCP/UDP 的协议？](https://mp.weixin.qq.com/s/99TeYUFjjioXP5YWoPP6vA)
++ [一文掌握FTP协议、IP协议、TCP协议、UDP协议和HTTP/HTTPS协议](https://mp.weixin.qq.com/s/BICFslkNCsjTmylTcFO6WQ)
 
 ### DNS
 

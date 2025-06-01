@@ -307,6 +307,7 @@
 + [Java真的不难（六十一）模板方法模式及在订单处理流程中的设计](https://mp.weixin.qq.com/s/pCsV8Dc3rOlqYfEWRc-vtA)
 + [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
 + [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
++ [Java真的不难（六十八）状态模式的深入分析及在订单状态管理系统中的应用（附源码）](https://mp.weixin.qq.com/s/Cp60ecPLUDILa7gTJlxL4A)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -522,6 +523,7 @@
 + [面试官：jar包冲突如何解决？](https://mp.weixin.qq.com/s/jUyrGFZuF9aZ_w8mFm28fQ)
 + [一文搞懂Comparable、Comparator与集合排序之间的“恩恩怨怨”](https://mp.weixin.qq.com/s/9hcgA07uOvkEKj14SxiN9Q)
 + [函数式接口Function的简单使用](https://mp.weixin.qq.com/s/6rXp-h5RmrSbfrcF_40TSQ)
++ [面试官：forEachRemaining的用法，与forEach的区别？](https://mp.weixin.qq.com/s/rx0r7nt3BpbrHOclgtstog)
 
 ### IO
 
@@ -1454,6 +1456,7 @@
 + [Disruptor 在撮合引擎的实践｜得物技术](https://my.oschina.net/u/5783135/blog/11334180)
 + [高性能无锁队列 Disruptor 核心原理分析及其在 i 主题业务中的应用](https://my.oschina.net/vivotech/blog/15344271)
 + [超越传统队列！Disruptor如何重塑高并发事件处理格局](https://mp.weixin.qq.com/s/70PmTY7KDtLOy0-ZJ011Ow)
++ [解锁高性能环形队列：Disruptor 4.0.0 核心解析与应用实践](https://mp.weixin.qq.com/s/5cV5waMwAhEImDZASOrjzQ)
 
 ## dubbo
 
@@ -1625,6 +1628,7 @@
 + [MyBatis-Plus高效开发指南：从BaseMapper到QueryWrapper实战技巧](https://mp.weixin.qq.com/s/Inxx0HrixbLLvavhMsbGQw)
 + [一文带你掌握MyBatis-Plus的plus高级功能点如何使用](https://mp.weixin.qq.com/s/qljQzgGXjF-aE4UNYgk7zw)
 + [Mybatis-Plus 动态数据源与 Spring 事务冲突问题深度解析](https://mp.weixin.qq.com/s/lFY1-x_3x4Fur9XKyP_HBw)
++ [MybatisPlus不好用？帅小伙一气之下写了个MybatisPlusPro！](https://mp.weixin.qq.com/s/-SkHBg3CYlm-jbV_MXDC6w)
 
 ## nacos
 
@@ -1641,6 +1645,7 @@
 + [学会 Nacos 的 长轮询 定时机制，有妙用！](https://mp.weixin.qq.com/s/xNef8T8KzyYFSkkTWfU-ow)
 + [Nacos 3.0 强势登场，真香！](https://mp.weixin.qq.com/s/H_RZMnqtKwxODfu3FmJoYQ)
 + [大厂一面:Nacos配置中心交互模型是 push 还是 pull ？](https://mp.weixin.qq.com/s/xVggtL-q-42MZxMWpulgYg)
++ [Nacos源码深度解析系列文章导航](https://mp.weixin.qq.com/s/pBsdA4kAe_-isMLUlySXTw)
 
 ## okhttp
 
@@ -2423,6 +2428,7 @@
 + [Spring Boot工具类如何获取 Spring 的 Bean](https://mp.weixin.qq.com/s/4C0xKjQSnOSyzTmW8VDdnQ)
 + [太强了！Spring Boot 五大内置 "神兵" 工具](https://mp.weixin.qq.com/s/ulEXtk6kZ6wbXKHr7gdlpg)
 + [这技巧太牛了！借助Spring Boot扩展点，动态注册Bean](https://mp.weixin.qq.com/s/lQ3LCd9aYee-rD50bH9L-A)
++ [太坑了！Spring Boot 导致堆外内存泄露了！](https://mp.weixin.qq.com/s/bx1SL1aTzTsVhgEnrhxHPw)
 
 #### 版本特性
 
@@ -2632,6 +2638,7 @@
 + [Spring Boot 又一强大的内置功能，自动记录API请求/响应数据](https://mp.weixin.qq.com/s/Nj6-u2XKQXmKrVnmbZS5Rg)
 + [SpringBoot升级到3.4.3，Spring Security从5.x升级到6.x，原来有这么多坑，不踩不知道，一踩一个准](https://mp.weixin.qq.com/s/H_A-PyAHE9nxh_BMH3IwjA)
 + [王炸！Spring Boot 3.5 震撼发布，强大的新特性来袭](https://mp.weixin.qq.com/s/yAO62ysRkd_a8RbjNBilWA)
++ [重磅！SpringBoot4发布，11项重大变更全解析！](https://mp.weixin.qq.com/s/VskQbzOKUbRhrx6FYmQWYQ)
 
 #### 分布式
 
@@ -3592,6 +3599,8 @@
 + [实现一个通用的eventbus组件](https://mp.weixin.qq.com/s/f738Qnw8NJeysa7110zVOw)
 + [一个Java工程师的17个日常效率工具](https://mp.weixin.qq.com/s/TL_ksI9vU2gi4KlzwtlBZA)
 + [高性能、无侵入的 Java 性能监控神器](https://mp.weixin.qq.com/s/Yd03fuGFx6NjwhSgJA8pNg)
++ [Java利器：Pair和Triple无缝解决多值返回，编写高效代码！](https://mp.weixin.qq.com/s/nwJNRzi-2q-I8pil4P_zUg)
++ [彻底告别 Controller、Service、Dao，让人上瘾的开发神器...](https://mp.weixin.qq.com/s/KdgwBzjLrrkiq9g_a6kKRA)
 
 # 其它环境
 
@@ -3611,6 +3620,7 @@
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [《再这样下去Java没救了》爆了，来投票看看数据吧](https://mp.weixin.qq.com/s/QuC94XdMoALpxl0cgdLSAA)
 + [Java漏洞在黑盒实战中的技巧——反序列化篇（发现、绕过、脚本编写以及结合漏洞分析）](https://mp.weixin.qq.com/s/RRPG8FSTCZjOZjZUOpqQNQ)
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)

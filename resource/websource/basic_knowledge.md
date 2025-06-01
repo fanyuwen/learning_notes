@@ -121,6 +121,7 @@
 + [Linux的设备调试工具--Ftrace](https://mp.weixin.qq.com/s/e_BaKNi3dVJ7vkI_ZXiTRg)
 + [Linux 系统内存监控：Linux 内存调优之系统内存全面监控](https://mp.weixin.qq.com/s/fJEFA3MWcappo8ndk9_UFQ)
 + [Linux处理不连续的磁盘分区](https://mp.weixin.qq.com/s/DH2C5r_5F5PevO-44lgUoQ)
++ [不要一上来就关闭SELinux，，5分钟带你搞懂 SELinux 是什么鬼？](https://mp.weixin.qq.com/s/vpXaqfDJQBr8LdJK8Nzu2w)
 
 ### 网络
 
@@ -182,6 +183,8 @@
 + [Linux基础命令总结](https://mp.weixin.qq.com/s/w_kdx1LJuCCfakuOWse70g)
 + [关于nohup命令需要知道的那些事](https://mp.weixin.qq.com/s/EKDagPAv1a4UyJCr_EuGPw)
 + [Linux常用命令介绍-文件管理](https://mp.weixin.qq.com/s/KX8EXlLs6AMUPz2pfHwUmw)
++ [7天掌握Shell脚本，轻松玩转Linux运维](https://mp.weixin.qq.com/s/R2LVVK-GI5CsdVMSuoPqoQ)
++ [df 显示磁盘 100%，du 却没占多少空间？真正原因就这三种情况！](https://mp.weixin.qq.com/s/PXHie3T0dVrSpgxVzHnVBg)
 
 ### 发行版信息
 
@@ -238,6 +241,7 @@
 + [程序员眼中的 CPU 微架构（1）](https://mp.weixin.qq.com/s/yK-SVZUPU3C4WToX6VaKyQ)
 + [程序员眼中的 CPU 微架构（3）](https://mp.weixin.qq.com/s/58jKa7R2vAGeJUNmgmXLdQ)
 + [程序变慢的真相：CPU缓存与内核如何影响性能？](https://mp.weixin.qq.com/s/AWCAFcuW3OGp4VwyjR4SQg)
++ [揭秘保护模式：CPU如何筑起操作系统的安全防线](https://mp.weixin.qq.com/s/gEo3-9MIF6XGvY53rPbvzQ)
 
 ### 并发
 
@@ -263,6 +267,7 @@
 + [内存映射](https://mp.weixin.qq.com/s/M0BloVAYB-TSF-znOZX4pQ)
 + [直接内存？我说的堆外内存啊！](https://mp.weixin.qq.com/s/HtfH5P5yfMuMBD7u_WuTnQ)
 + [一文看懂内存管理及TLB的基本原理](https://mp.weixin.qq.com/s/jAWplzpQ3x7tJVYQqUjbLA)
++ [内存的构成原理](https://mp.weixin.qq.com/s/SHFaKG4InE6keQwebLpPEg)
 
 ## GPU
 
@@ -499,6 +504,7 @@
 + [Nginx缓存最全详解：如何提高10倍性能！](https://mp.weixin.qq.com/s/lim-lvbYkkR9SOUa4SB0mw)
 + [Nginx高并发架构详解：深入理解Nginx事件驱动模型!](https://mp.weixin.qq.com/s/R2Mgrhsz4-1O90Klchf0aw)
 + [性能比拼: Nginx vs. Envoy](https://mp.weixin.qq.com/s/aejh7H_wxLFJf96g5SJbjw)
++ [Nginx动静分离配置详解(图文全面总结)](https://mp.weixin.qq.com/s/SJwxBQyxJaAGVeLpOtPXrg)
 
 ### wireshark
 
@@ -509,6 +515,9 @@
 
 + [串行外设接口（SPI）协议：原理、架构与应用](https://mp.weixin.qq.com/s/_owYR8ZiWMw5xNBT3gZShA)
 + [MQTT简史！！！](https://mp.weixin.qq.com/s/dn5uSivZiYcVDAtFL94KGw)
++ [浅显易懂理解SPI信号协议](https://mp.weixin.qq.com/s/EVHjN6ZIeJTJyddHRol-rw)
++ [理解MQTT和Websocket在物联网中的差异](https://mp.weixin.qq.com/s/WCh-3Q36m94ccBHSfnHyoQ)
++ [MQTT发布和订阅架构](https://mp.weixin.qq.com/s/m1lJyPotMS63kArKgScmvA)
 
 ## web
 

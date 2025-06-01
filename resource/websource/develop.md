@@ -618,6 +618,7 @@
 + [事件驱动架构详解 - 模块间解耦利器](https://mp.weixin.qq.com/s/Xg16k8Uc7hblwlUwUdj5Fg)
 + [10个牛逼的编程范式，你已经用过了几个？](https://mp.weixin.qq.com/s/gsep2Qy4AbNxE0Ru7KvAHw)
 + [10万QPS，如何设计 ‘敏感词’ 风控，还要支持 实时更新的？](https://mp.weixin.qq.com/s/WlSjXgkoQ13SOnPlflJPlQ)
++ [设计心得——事件机制的实现](https://mp.weixin.qq.com/s/rHYA6m-aIqvtztpr7MXvOw)
 
 # 测试相关
 

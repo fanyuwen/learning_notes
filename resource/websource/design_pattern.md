@@ -124,6 +124,7 @@
 
 + [干掉项目中杂乱的 if-else，试试状态模式，这才是优雅的实现方式！](https://mp.weixin.qq.com/s/UEudZbFumiw-c9d8-IBZEQ)
 + [深入设计模式之「状态模式」：行为随状态切换而改变的优雅设计](https://mp.weixin.qq.com/s/A0O2vTnDB32_lVOWa-XtRA)
++ [基于状态模式的状态机](https://mp.weixin.qq.com/s/F-Ouyy2dG5pr8fCpiumZig)
 
 ## 责任链模式
 

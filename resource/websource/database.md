@@ -813,6 +813,8 @@
 + [美团一面：你都知道哪些秒杀业务下的解决方案？下次别只知道Redis了！看看AliSQL是怎么做的](https://mp.weixin.qq.com/s/P6QEG1juSKlloh2E62lLrg)
 + [Redis集群碎碎念：指令重定向](https://mp.weixin.qq.com/s/crWZqp5s7gsxAEw_e9gvaQ)
 + [Redis内存溢出故障排查](https://mp.weixin.qq.com/s/5ghejVDBjfG-WAM9J83-4w)
++ [实例演示：Redis集群强大的可伸缩性](https://mp.weixin.qq.com/s/wjrCeHRRS0musvNJcXjOvw)
++ [知己知彼：Redis集群中的节点信息详解](https://mp.weixin.qq.com/s/LRNcKUtBlDzavucth_jklw)
 
 #### 原理
 

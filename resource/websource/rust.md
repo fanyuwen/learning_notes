@@ -63,6 +63,7 @@
 + [深入解析Rust闭包：所有权与灵活性的完美平衡](https://mp.weixin.qq.com/s/WlZxJ4bc7Hw4eIibfLNYow)
 + [Rust 内存操控艺术：std::mem 模块权威指南](https://mp.weixin.qq.com/s/qtWXJ4W-gYJUaM3ZX6DH5Q)
 + [“把 if 往上提，for 往下放！”](https://mp.weixin.qq.com/s/-xJ2Lm_M2IqYT8-dYo52XQ)
++ [Rust 的结构体与 C 的结构体的差异](https://mp.weixin.qq.com/s/_23ZQE3Y9gJ1mZJRbB5r0Q)
 
 # 框架
 

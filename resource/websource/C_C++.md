@@ -25,7 +25,9 @@
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
 + [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
++ [跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
++ [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
 + [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
@@ -99,7 +101,9 @@
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
 + [输出流的内部缓存](https://mp.weixin.qq.com/s/LfcGvNxOQ8y7FkOHjHofoQ)
 + [字符编码理论基础](https://mp.weixin.qq.com/s/1h5hqBcF9zSbUUnUbzwJQQ)
++ [高内聚与低耦合的嵌入式软件组件设计](https://mp.weixin.qq.com/s/4GTXGdiUfB-O0ef1JIcoXA)
 + [高频交易系统（9）：C++ 实现中纳秒级延时优化之快速队列设计](https://mp.weixin.qq.com/s/NTpIL1gew4Qi2KNGkIibCA)
++ [设计心得——函数参数的封装](https://mp.weixin.qq.com/s/Acc3IQoNK96PnpS6FjfjEg)
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
@@ -164,6 +168,7 @@
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
 + [07_控制流之分支结构](https://mp.weixin.qq.com/s/HFD_olCGrtsfKekLvn41Tg)
 + [08_控制流之循环结构](https://mp.weixin.qq.com/s/5fmvVqpFGnFQfbNOTx3-kQ)
++ [C语言中多重选择switch的使用](https://mp.weixin.qq.com/s/rRFTvMOhCFlfwINP1hqXOQ)
 + [C语言凭什么统治操作系统开发？](https://mp.weixin.qq.com/s/uyg8v05o7wTxZ1-oXQkHWw)
 + [Mutex的实现原理](https://mp.weixin.qq.com/s/gyAJSGoJ7WB8dsB1X2IS0g)
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
@@ -212,6 +217,7 @@
 + [动手从零写C库-内存管理之mmap](https://mp.weixin.qq.com/s/Ynw-LvgNwZsOnnXuJo4CZw)
 + [C语言编程，我想用指针实现整数互换为啥歇菜了？](https://mp.weixin.qq.com/s/WHawUfhByH7RQ67iY9rX6w)
 + [C语言程序的网络通信优化：提高传输效率](https://mp.weixin.qq.com/s/M8ZIjduWcT5wD0lgSzX9Og)
++ [.c和.h文件有什么区别，能不能玩转编程就看它俩了](https://mp.weixin.qq.com/s/VRiqSZsGsDQloizoBFRdXg)
 + [gcc __attribute__((const))解析](https://mp.weixin.qq.com/s/OfE3KlgKRpihB-w6Rbq1AQ)
 + [基于Linker Script与__attribute__((section))实现 C 语言函数调用实战](https://mp.weixin.qq.com/s/v6MB93469fHaWaQs1ctsVQ)
 + [malloc 背后的虚拟内存 和 malloc实现原理](https://mp.weixin.qq.com/s/kJq03LoTLb7Uit1c6Z_VzQ)
@@ -254,6 +260,7 @@
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 + [open与fopen的区别](https://mp.weixin.qq.com/s/kGc4VIcMu6SKx1hQr303xw)
 + [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
++ [用 C 语言编写的嵌入式软件，需要强调高内聚低耦合吗？](https://mp.weixin.qq.com/s/pKGD2dz5FYhCbBy3JaIFqw)
 
 ### 资讯
 
@@ -274,6 +281,7 @@
 + [中断的坑你踩过几个？聊聊嵌入式原子/原子性那些事](https://mp.weixin.qq.com/s/503R3fce1bf_fQ7n_oOLOQ)
 + [嵌入式开发神器：手把手教你打造超轻量级命令行shell](https://mp.weixin.qq.com/s/H0x2QYkhyqoQChgEqm-MwQ)
 + [嵌入式开发中断言（assert）的硬核指南：从调试到生产](https://mp.weixin.qq.com/s/FPZeFava1BnVMUPbmKRT0A)
++ [嵌入式开发避坑指南：如何破解FreeRTOS优先级反转问题](https://mp.weixin.qq.com/s/J6UFnDPfrV7kJlXg9BQ9UQ)
 
 # ARM
 
@@ -312,3 +320,4 @@
 # 硬件
 
 + [USB Serial驱动分析](https://mp.weixin.qq.com/s/WjC6PrLbMIvWcABqjoZLtA)
++ [为什么串口数据解析那么难？](https://mp.weixin.qq.com/s/-9WEI-_obSrOwxIiSmEXAg)

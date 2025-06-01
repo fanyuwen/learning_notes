@@ -296,6 +296,7 @@
 + [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
++ [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
 + [Java真的不难（三十六）工厂方法模式](https://mp.weixin.qq.com/s/ZEptdAEvxFXUtaSNKQ9h2g)
@@ -491,8 +492,6 @@
 + [系统实现中的“池化”艺术：线程池、连接池及其背后的价值](https://mp.weixin.qq.com/s/8e3pI_f6PwaJLiiAzrr5Lg)
 + [面试官：解释一下方法区中的符号引用和直接引用](https://mp.weixin.qq.com/s/b4argbammF3Kff85NpopgQ)
 + [面试官：String s = new String("xyz") 创建了几个对象？](https://mp.weixin.qq.com/s/CKDN03jJTCmFVJB_teI9OA)
-+ [BigDecimal 为什么可以保证精度不丢失？](https://mp.weixin.qq.com/s/8-wtW0yV4__fCbVr0JUTYQ)
-+ [深入了解：Java中BigDecimal比较大小的方法](https://mp.weixin.qq.com/s/pT0UDqHjpANHUAVJpYe8fw)
 + [美团一面，发生OOM了，程序还能继续运行吗？](https://mp.weixin.qq.com/s/w-CMMz9Y9JkXdciN6xBsWg)
 + [美团一面：碰到过OOM吗？你是怎么处理的？](https://mp.weixin.qq.com/s/B4BXLxWoj1_FGvq2LJgNjA)
 + [咦，拆分个字符串都这么讲究](https://mp.weixin.qq.com/s/P0HOlgREXqUWIDKgKxr-MA)
@@ -522,6 +521,7 @@
 + [Java里的时间精度陷阱：那一次被毫秒“坑惨”的经历](https://mp.weixin.qq.com/s/Pjz8_2FipXZC3H6cWAyTgQ)
 + [面试官：jar包冲突如何解决？](https://mp.weixin.qq.com/s/jUyrGFZuF9aZ_w8mFm28fQ)
 + [一文搞懂Comparable、Comparator与集合排序之间的“恩恩怨怨”](https://mp.weixin.qq.com/s/9hcgA07uOvkEKj14SxiN9Q)
++ [函数式接口Function的简单使用](https://mp.weixin.qq.com/s/6rXp-h5RmrSbfrcF_40TSQ)
 
 ### IO
 
@@ -672,6 +672,7 @@
 + [Java多线程安全及同步机制：解决安全问题实战指南](https://mp.weixin.qq.com/s/lMNK4nxWTinJd_rAcEUavg)
 + [单机百万并发：协程开始吊打线程了？](https://mp.weixin.qq.com/s/6zgGFeAx-ZdFM5qXW7lOvA)
 + [1.8w字图解Java并发容器框架：并发安全 Map、JUC 集合、Java 7 种阻塞队列正确使用场景和原理详解](https://mp.weixin.qq.com/s/GHUSrI3gJ0p37XZQ2ZtKzw)
++ [速学！Java 原子操作，开启并发编程新境界](https://mp.weixin.qq.com/s/sNHIpSI3rT0RZLuFCEFNUg)
 
 #### 线程池
 
@@ -979,6 +980,9 @@
 + [争议不断的问题：金额到底是用Long还是BigDecimal？](https://mp.weixin.qq.com/s/Uy2dmOSOJjXnAMcFD6oeYg)
 + [告警：线上慎用 BigDecimal ！](https://mp.weixin.qq.com/s/Sj4BWdfC0ay0C79IrbBgMQ)
 + [BigDecimal 为什么可以不丢失精度？](https://mp.weixin.qq.com/s/FzTuOdjSKnQvxM3P4_5x4Q)
++ [BigDecimal 为什么可以保证精度不丢失？](https://mp.weixin.qq.com/s/8-wtW0yV4__fCbVr0JUTYQ)
++ [深入了解：Java中BigDecimal比较大小的方法](https://mp.weixin.qq.com/s/pT0UDqHjpANHUAVJpYe8fw)
++ [踩坑了，BigDecimal 使用不当，造成P0事故！](https://mp.weixin.qq.com/s/Z-FfgWKg_7ijTc2Uk-YjjQ)
 
 ## util库
 
@@ -1381,6 +1385,8 @@
 + [Maven多模块项目搭建指南](https://mp.weixin.qq.com/s/GL2JZdDAr_1bQALPHwRMGw)
 + [Maven仓库配置优先级详解](https://mp.weixin.qq.com/s/pFKCBmQfzRGAZD3cDxDUjQ)
 + [Spring Boot 开发必备！12 个 Maven 命令让你事半功倍](https://mp.weixin.qq.com/s/yzjp3M0Z0xXow8aZe2E5ww)
++ [Maven核心概念与使用技巧总结](https://mp.weixin.qq.com/s/6XE3EYHelkLru_GelQDKRQ)
++ [换掉Maven！全新一代Java项目构建工具来了，性能炸裂！](https://mp.weixin.qq.com/s/tYc7aAngCGqAsFP6JK1PkQ)
 
 # 功能
 
@@ -1633,6 +1639,7 @@
 + [阿里面试这样问：Nacos配置中心交互模型是 push 还是 pull ？（原理+源码分析）](https://mp.weixin.qq.com/s/LdT3UR6zXCCN1ZW6IKXklw)
 + [学会 Nacos 的 长轮询 定时机制，有妙用！](https://mp.weixin.qq.com/s/xNef8T8KzyYFSkkTWfU-ow)
 + [Nacos 3.0 强势登场，真香！](https://mp.weixin.qq.com/s/H_RZMnqtKwxODfu3FmJoYQ)
++ [大厂一面:Nacos配置中心交互模型是 push 还是 pull ？](https://mp.weixin.qq.com/s/xVggtL-q-42MZxMWpulgYg)
 
 ## okhttp
 
@@ -1885,6 +1892,7 @@
 + [JAVA：Spring Bean 三级缓存机制的技术指南](https://mp.weixin.qq.com/s/W2qQdInhakF0iGFnihMXvg)
 + [深入解析循环依赖：从问题到解决方案](https://mp.weixin.qq.com/s/bwc6Q-v4qMf-r-YbsuMAqA)
 + [Spring源码 - 深度解析@Resource依赖注入的执行逻辑](https://mp.weixin.qq.com/s/0GEiwHAAbFx1Rl1-7AYzfw)
++ [Spring单例Bean线程安全吗？90%的面试者都答错了！](https://mp.weixin.qq.com/s/ldOAh1x_0hg_drt1m7W1Nw)
 
 ### 新版本新特性
 
@@ -2063,6 +2071,7 @@
 + [Spring 四大设计模式解析：优雅架构的基石](https://mp.weixin.qq.com/s/jlrLkROCNULJTQqGBmCIwA)
 + [【内含例子代码】Spring框架的设计模式应用（第二集）](https://mp.weixin.qq.com/s/sqxJonwXVXLH6xPtq8kZeQ)
 + [使用 Pipeline 模式解耦电商保险等复杂业务](https://mp.weixin.qq.com/s/Lv3Fx3KnVOMgjCjRQvh2lQ)
++ [Spring框架模板方法模式的使用](https://mp.weixin.qq.com/s/VdAVx9pIbFhnnvUHDeapHg)
 
 ### STATEMACHINE
 
@@ -2238,6 +2247,7 @@
 + [SpringBoot组合注解](https://mp.weixin.qq.com/s/VWGoaCqhhHyigno7IrPCOg)
 + [万字长文！深入源码，彻底掌握Spring Cloud Gateway底层原理](https://mp.weixin.qq.com/s/HBd7fOxqDIr6tqPvM9b3xw)
 + [Spring Cloud Gateway 统一分布式系统认证架构实践](https://mp.weixin.qq.com/s/PVoD9AsKSalxWbGhzRDTyw)
++ [微服务网关升级：Spring Cloud Gateway 整合 Nacos 实现服务请求自动转发+负载均衡！](https://mp.weixin.qq.com/s/z3XQFysrSlVF-OBtviuAEQ)
 
 #### AI
 
@@ -3018,6 +3028,7 @@
 + [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/Sg3wEwNa2-_gllKehcUnew)
 + [一个 SpringBoot 应用里有多少个线程？踩一坑长一智](https://mp.weixin.qq.com/s/QnFipvYerxMdBiRx7cnSeg)
 + [Spring Boot动态定时任务实战：告别硬编码配置](https://mp.weixin.qq.com/s/1Yzkh1DikNRfals5W8iv5Q)
++ [SpringBoot 异步接口深度解密：高并发场景下的性能优化实战](https://mp.weixin.qq.com/s/6BxbBhKI8yI36OOFSInR8w)
 
 ##### Disruptor
 
@@ -3258,6 +3269,7 @@
 + [Spring Boot 项目瘦身秘籍：用 Maven 分离依赖，让 JAR 包体积直降 90%！](https://mp.weixin.qq.com/s/_cCjPRbFG7or7iCEaIiBvA)
 + [SpringBoot中版本依赖的“陷阱”](https://mp.weixin.qq.com/s/L6Ap0PdOGZgi4Cg9QgX7kg)
 + [SpringBoot配置文件的12个实用技巧](https://mp.weixin.qq.com/s/yK-EWLQhssk6hzulkUgBvQ)
++ [【java必会】springboot使用maven高效管理多环境配置](https://mp.weixin.qq.com/s/_Z10NG9VC3CrW5GPFDg7Zw)
 
 #### 集成三方
 
@@ -3364,6 +3376,7 @@
 + [Spring Boot 3.x集成Redisson与常见问题处理](https://mp.weixin.qq.com/s/pqigqHKLRITC4Bq0kNdcXg)
 + [SpringBoot中5种服务可用性保障技术](https://mp.weixin.qq.com/s/tvbWGrnvr4D5A81dtUtDYQ)
 + [SpringBoot中如何引入第三方的SDK](https://mp.weixin.qq.com/s/zNtBFADUMtHKUhSztHI-aQ)
++ [SpringBoot 快速实现 IP 地址解析](https://mp.weixin.qq.com/s/7klvtGHMxho3M7mBBb74uw)
 
 #### test
 

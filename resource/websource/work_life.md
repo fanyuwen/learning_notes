@@ -85,6 +85,7 @@
 + [编程十年的感悟](https://mp.weixin.qq.com/s/S4ofBQ__F6JLUsQ_18OM-g)
 + [程序员如何快速学习并掌握一门新技术？](https://mp.weixin.qq.com/s/7whEuRfo8FCvsbRVgi7lYg)
 + [程序员学习新技术是要看书还是看视频？](https://mp.weixin.qq.com/s/_uXKYiOtvUXG1CEVH932nA)
++ [遇到的优秀程序员，都有这12个习惯](https://mp.weixin.qq.com/s/CRJFJpq-_2f4-zhUUAIRrA)
 + [我认识的最优秀程序员](https://www.oschina.net/news/343958)
 + [开发人员为何难以提高工作效率？10 种行之有效的解决方法](https://mp.weixin.qq.com/s/Ex8GgCjyy63Wz9d1H8Z8_g)
 + [35岁Java程序员出路何在？这5个新兴赛道正在疯狂招人！](https://mp.weixin.qq.com/s/_bqkICFaAP2UUh_d9dDMTA)

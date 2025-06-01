@@ -15,6 +15,7 @@
 + [binary instrumentation: 二进制执行文件插桩简介](https://mp.weixin.qq.com/s/oI_20zrhkfQrxrv0AJTpig)
 + [一文讲透串口（UART）通信，超级详细！！！](https://mp.weixin.qq.com/s/NIp5eZHwrEJd5XQg5dN96w)
 + [技术科普｜ C/C++ 程序员必备的 Debug 神器 Core Analyzer](https://mp.weixin.qq.com/s/LflcUO0H5ZhSRaabZ7e1Vg)
++ [探秘glibc malloc：解锁内存分配的黑匣子](https://mp.weixin.qq.com/s/vAboDVlJOeb85urKYC2Acw)
 
 ## C++
 
@@ -161,6 +162,7 @@
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
 + [（2.12）C语言编程入门 -- 函数进阶 - 声明与调用](https://mp.weixin.qq.com/s/MJ7ufgYWpIM11vPqDz5aKQ)
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
++ [07_控制流之分支结构](https://mp.weixin.qq.com/s/HFD_olCGrtsfKekLvn41Tg)
 + [C语言凭什么统治操作系统开发？](https://mp.weixin.qq.com/s/uyg8v05o7wTxZ1-oXQkHWw)
 + [Mutex的实现原理](https://mp.weixin.qq.com/s/gyAJSGoJ7WB8dsB1X2IS0g)
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
@@ -222,6 +224,8 @@
 + [从猜数字程序来理解结构和随机数 | C语言基础](https://mp.weixin.qq.com/s/tERgMtKtR9pKz52ImP6xLA)
 + [10种初学者最常见的c语言段错误实例及原因分析](https://mp.weixin.qq.com/s/GeLHLTKzR1zB4Sl6nonDSw)
 + [06_printf与scanf函数详解](https://mp.weixin.qq.com/s/z_1vXmMGIDWQqDT9N-irgg)
++ [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
++ [逆向基础 | 堆栈图](https://mp.weixin.qq.com/s/lmQuURW7VbLVf4l5UUiaXg)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)
@@ -263,6 +267,9 @@
 + [Linux内核编译：解析menuconfig与ARM架构配置](https://mp.weixin.qq.com/s/nJ16_VyWhImxT_WlbPrmoA)
 + [STM32 从上电到 main()函数之间到底发生了什么？链接脚本（.ld/.sct）的秘密](https://mp.weixin.qq.com/s/_k1Ee3zwn_cWaQ3a7bQ2_A)
 + [嵌入式面试热点：链表反转——四种单链表反转方法（C语言）](https://mp.weixin.qq.com/s/7u0zqUgIRPZsBE1Rt2h0EQ)
++ [断点是怎么“刹住”程序的？揭开嵌入式调试的底层真相](https://mp.weixin.qq.com/s/Sv9i_RXB6nLxQ4N4y8WrnQ)
++ [不只是写代码：嵌入式工程师必备的软技能](https://mp.weixin.qq.com/s/FIWwW9kI6Bw0zjeFLRYjuQ)
++ [中断的坑你踩过几个？聊聊嵌入式原子/原子性那些事](https://mp.weixin.qq.com/s/503R3fce1bf_fQ7n_oOLOQ)
 
 # ARM
 

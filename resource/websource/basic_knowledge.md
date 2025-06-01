@@ -112,6 +112,8 @@
 + [Linux内核代码追踪：如何“分裂”出一个新进程的？](https://mp.weixin.qq.com/s/qKEz2rlt-sNVKdmZveeIqA)
 + [多核CPU的TLB竞争：如何降低跨核刷新开销](https://mp.weixin.qq.com/s/GMMAiNylTwzYNMkksPcTQg)
 + [从内存地址 0x7c00 思考程序员的差距](https://mp.weixin.qq.com/s/StWZ2vGEBE65NqZ8gMJlKA)
++ [认识 Linux 内存构成：Linux 内存调优之内存分配机制和换页行为认知](https://mp.weixin.qq.com/s/OJsfjb1ms_wzWEiLrMppow)
++ [Linux内核转储（Coredump）详解：从入门到实战（上篇）](https://mp.weixin.qq.com/s/hieh4ok0inDQeubhWNmIWQ)
 + [Linux内核转储（Coredump）详解：从入门到实战（下篇）](https://mp.weixin.qq.com/s/ZJc-emaJQDWAw5YigLppRQ)
 
 ### 网络
@@ -228,6 +230,7 @@
 + [CPU缓存和内存屏障](https://mp.weixin.qq.com/s/dUXZk13wTPEckp20xrCNww)
 + [RISCV 微架构总结（5）- EXU的RF部分](https://mp.weixin.qq.com/s/qNGlkG7uUkjvRZkKuCfagQ)
 + [程序员眼中的 CPU 微架构（1）](https://mp.weixin.qq.com/s/yK-SVZUPU3C4WToX6VaKyQ)
++ [程序员眼中的 CPU 微架构（3）](https://mp.weixin.qq.com/s/58jKa7R2vAGeJUNmgmXLdQ)
 
 ### 并发
 
@@ -252,6 +255,7 @@
 + [一文读懂Buffer与Cache：开启性能优化的大门](https://mp.weixin.qq.com/s/CLlANi9EmkPoaDCaw9q5kQ)
 + [内存映射](https://mp.weixin.qq.com/s/M0BloVAYB-TSF-znOZX4pQ)
 + [直接内存？我说的堆外内存啊！](https://mp.weixin.qq.com/s/HtfH5P5yfMuMBD7u_WuTnQ)
++ [一文看懂内存管理及TLB的基本原理](https://mp.weixin.qq.com/s/jAWplzpQ3x7tJVYQqUjbLA)
 
 ## GPU
 
@@ -489,6 +493,7 @@
 
 ### 通讯协议
 
++ [串行外设接口（SPI）协议：原理、架构与应用](https://mp.weixin.qq.com/s/_owYR8ZiWMw5xNBT3gZShA)
 + [MQTT简史！！！](https://mp.weixin.qq.com/s/dn5uSivZiYcVDAtFL94KGw)
 
 ## web

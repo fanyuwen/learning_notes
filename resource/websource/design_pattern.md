@@ -108,6 +108,7 @@
 + [几种常用的设计模式--策略模式](https://mp.weixin.qq.com/s/c9hn8oF4qZrQup_2Ns-n-A)
 + [实战设计模式之策略模式](https://mp.weixin.qq.com/s/TIu6iIp0KI16og_zWZLsZw)
 + [深入设计模式之「策略模式」：行为封装与选择的利器](https://mp.weixin.qq.com/s/XBe5xim0lNQdDv0Lk5mClQ)
++ [聊一聊：设计模式——策略模式](https://mp.weixin.qq.com/s/I82fkEmyns152IqcnKMBdw)
 
 ## 装饰器模式
 
@@ -136,6 +137,7 @@
 + [一文搞懂责任链模式：打造灵活的业务处理流水线](https://mp.weixin.qq.com/s/Jo3beaTMjD0VO7OT6DWB3A)
 + [巧用『责任链模式』来优化 参数多重校验，非常优雅！](https://mp.weixin.qq.com/s/54RO3aUgRhK6xk5pjfLOoQ)
 + [聊一聊：设计模式——责任链模式](https://mp.weixin.qq.com/s/rpibeHa8Ohv5vOhkFADMmw)
++ [责任链模式实践-开放银行数据保护及合规](https://mp.weixin.qq.com/s/aTiqwtRVepWfD32EPDF2ew)
 
 ## 观察者模式
 

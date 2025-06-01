@@ -499,6 +499,7 @@
 + [10 个看似令人困惑但却非常出色的 Python 功能！](https://mp.weixin.qq.com/s/WDHp9dcMdAReiCYxHlkpow)
 + [Python 进阶：多继承与Mixin设计模式](https://mp.weixin.qq.com/s/2xxLAJg4IlG2CRqvXQvvVg)
 + [Python 调试神器：pdb断点调试完整流程](https://mp.weixin.qq.com/s/neUVZsbERoeGHGFpAXp1-w)
++ [如何在python中复用函数而不破坏系统？](https://mp.weixin.qq.com/s/5MXmBSZXHH480mI-5hZJGw)
 
 ## 新特性
 

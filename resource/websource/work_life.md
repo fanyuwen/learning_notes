@@ -288,6 +288,7 @@
 + [pycharm常用小技巧，提高编程效率！](https://mp.weixin.qq.com/s/hYfMVSKydxdxV5ATyXZyrg)
 + [IDEA 2025.1王炸更新，新特性真香！](https://mp.weixin.qq.com/s/X40mKVdxCc0WVWeOtB8kIA)
 + [Java 8 被 IDEA 彻底抛弃了？【文末送书】](https://mp.weixin.qq.com/s/jbO05ylOM7XI7K7hX365AQ)
++ [使用 IDEA 远程 Debug 调试（一篇懂所有）](https://mp.weixin.qq.com/s/7e0Bd-dkhUNuCvi0jrTJCw)
 
 ## MAC_PRO相关
 

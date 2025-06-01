@@ -16,6 +16,7 @@
 + [一文讲透串口（UART）通信，超级详细！！！](https://mp.weixin.qq.com/s/NIp5eZHwrEJd5XQg5dN96w)
 + [技术科普｜ C/C++ 程序员必备的 Debug 神器 Core Analyzer](https://mp.weixin.qq.com/s/LflcUO0H5ZhSRaabZ7e1Vg)
 + [探秘glibc malloc：解锁内存分配的黑匣子](https://mp.weixin.qq.com/s/vAboDVlJOeb85urKYC2Acw)
++ [编译工具：gcc，GUN，MinGW，MSVC，make、cmake，Ninja](https://mp.weixin.qq.com/s/dGKmbdMA71aBVpPtyNAPYw)
 
 ## C++
 
@@ -35,6 +36,7 @@
 + [C++的信号处理优先级](https://mp.weixin.qq.com/s/NmkMqAj3MXA09UQZQ9Rvwg)
 + [C++_Mutable](https://mp.weixin.qq.com/s/CXprG7tcX1M3MR9X_tpLYQ)
 + [浅谈std::promise的异常情况](https://mp.weixin.qq.com/s/38Jaf6q8LTBCh0TGguIrWw)
++ [C++ 定义变量时加上 static 的原因](https://mp.weixin.qq.com/s/klCKgxhB0WFfVv0f3ZJJZg)
 + [C++_成员初始化列表](https://mp.weixin.qq.com/s/uabbFCMApMtrc7fWOCpbAg)
 + [C++常见陷阱：一个例子学习c++ const使用](https://mp.weixin.qq.com/s/GHrH21bzEKILmlNZI06rKg)
 + [C++11：线程库结构 + 深入理解std::async和std::future](https://mp.weixin.qq.com/s/ooYIA6XhHTRNvyUwW6kaEw)
@@ -72,6 +74,7 @@
 + [每日C++——std::addressof](https://mp.weixin.qq.com/s/NrK3t0QGDi7jOluKLR8MZA)
 + [C++：二叉树的遍历](https://mp.weixin.qq.com/s/YCkX3fYhfMb-x8kaUP4yYQ)
 + [C++ 模板元编程：让代码在编译期「自动运行」](https://mp.weixin.qq.com/s/YomlUBHJtg54jjftiuwCiQ)
++ [跟我学c++中级篇——动态库的资源处理](https://mp.weixin.qq.com/s/nuBZ7d-CXy8NWtAEG1c9qA)
 + [C++文件操作一次搞懂吧](https://mp.weixin.qq.com/s/NKeTTaRCLH388NjV3fQnVg)
 + [面试题：C++为什么推荐使用static_cast而不是C风格的(int)x？](https://mp.weixin.qq.com/s/WeF1lHvnZem1g5Crh6KRmg)
 + [C++信奥之路，深耕基础，方能远行——洛谷官方题单之字符串（3）](https://mp.weixin.qq.com/s/P9o37_Pul42gqC1Xd6dG2w)
@@ -180,6 +183,7 @@
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)
 + [03_整数/浮点数据类型](https://mp.weixin.qq.com/s/6VKkeur_vLYEg0YN8dBLxg)
 + [C语言结构体全解析：从入门到内存布局](https://mp.weixin.qq.com/s/oyfbAFzyPrnQoo8p-BtMYQ)
++ [C语言中数组概念及使用](https://mp.weixin.qq.com/s/EkwS4oJ3pGeXLAnWKm6BYQ)
 + [C语言：内存操作基础](https://mp.weixin.qq.com/s/jVOMkgKo8cWrHyRxgYbc0Q)
 + [C语言 -- 彻底搞懂指针（终篇）](https://mp.weixin.qq.com/s/UYBaNQ__Ljh6SG4F-6DgkA)
 + [C语言函数：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/Xyet30yJkSE4wupEP4kMwA)

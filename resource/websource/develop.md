@@ -2,6 +2,7 @@
 
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
 + [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
++ [一分钟阅读:架构师的核心能力](https://mp.weixin.qq.com/s/KMD3AM-XOf6Gc7gX1Sh9jw)
 + [30. 为什么复杂的架构一定要做分层设计？](https://mp.weixin.qq.com/s/GPYKsuSJXN1Yr_PWZxDb0w)
 + [吊打面试官！数据架构的核心概念](https://mp.weixin.qq.com/s/042p5j1F4bCtmuK6miXIog)
 + [架构师总体架构设计与实践](https://mp.weixin.qq.com/s/TxaWpRCH8cTQXhkCSARhBQ)
@@ -71,6 +72,7 @@
 + [一、架构设计技巧——代码与架构复用](https://mp.weixin.qq.com/s/0sWz3jgc6G6QwnrwsBpFog)
 + [学习一个框架的设计思想远比其技术更加重要](https://mp.weixin.qq.com/s/DaiEOQ7CR7fjVQPplgy3vw)
 + [如何理解高可用架构设计原理](https://mp.weixin.qq.com/s/L3EjxFXtURg-ssY4TeVEvQ)
++ [优秀架构上成长之路：从代码工匠到技术战略家](https://mp.weixin.qq.com/s/Q-QbANsb6rTq0g2-oJ_5NQ)
 
 ### DDD
 
@@ -240,6 +242,7 @@
 + [这项目太上头！典型分布式事务场景，做完我悟了](https://mp.weixin.qq.com/s/xDGK3f0-O_mMdu7PVgRQ8w)
 + [Redis Cluster的Gossip协议通信机制：分布式系统的八卦哲学](https://mp.weixin.qq.com/s/oOkN9DcYImOgsR4PvVROBQ)
 + [分布式和微服务，它们有什么区别？](https://mp.weixin.qq.com/s/oApM-yiiUAm7SsgnVyooXQ)
++ [分布式系统不可靠时钟问题](https://mp.weixin.qq.com/s/yWDDonbXrdHcLQiMT36dLQ)
 
 ## 分布式锁
 

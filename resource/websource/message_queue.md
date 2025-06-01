@@ -119,6 +119,7 @@
 + [高并发场景下，Kafka如何实现百万级吞吐？](https://mp.weixin.qq.com/s/4tYmmWN4_Bi7VETK8AeqYQ)
 + [Kafka 4.0 KRaft模式完全指南](https://mp.weixin.qq.com/s/mFBKu9dmFOmkE5Ax4Wn1sg)
 + [Kafka 4.0 KRaft架构深度解析](https://mp.weixin.qq.com/s/O5ghrqOPquICVs3mhV1Few)
++ [Kafka如何处理消息积压(4大解决方案)](https://mp.weixin.qq.com/s/RvfyywBaehvWafH77PwYpQ)
 
 # ROCKETMQ
 

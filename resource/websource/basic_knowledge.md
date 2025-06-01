@@ -122,6 +122,7 @@
 + [Linux 系统内存监控：Linux 内存调优之系统内存全面监控](https://mp.weixin.qq.com/s/fJEFA3MWcappo8ndk9_UFQ)
 + [Linux处理不连续的磁盘分区](https://mp.weixin.qq.com/s/DH2C5r_5F5PevO-44lgUoQ)
 + [不要一上来就关闭SELinux，，5分钟带你搞懂 SELinux 是什么鬼？](https://mp.weixin.qq.com/s/vpXaqfDJQBr8LdJK8Nzu2w)
++ [深入剖析Linux工业IO驱动的内核机制](https://mp.weixin.qq.com/s/aKFjFxnM0ValwSI1Su2sHw)
 
 ### 网络
 
@@ -185,6 +186,7 @@
 + [Linux常用命令介绍-文件管理](https://mp.weixin.qq.com/s/KX8EXlLs6AMUPz2pfHwUmw)
 + [7天掌握Shell脚本，轻松玩转Linux运维](https://mp.weixin.qq.com/s/R2LVVK-GI5CsdVMSuoPqoQ)
 + [df 显示磁盘 100%，du 却没占多少空间？真正原因就这三种情况！](https://mp.weixin.qq.com/s/PXHie3T0dVrSpgxVzHnVBg)
++ [三剑客出击：grep、sed、awk 一站式入门与实战](https://mp.weixin.qq.com/s/ExR7P8i3ATaVgze9mYcGCA)
 
 ### 发行版信息
 
@@ -336,6 +338,8 @@
 + [计算机网络入门篇：一篇搞懂核心知识点](https://mp.weixin.qq.com/s/KYBB7y8A5CnV0Ah7vJOvnA)
 + [网络通信三大基石：MAC地址、IP地址、子网划分](https://mp.weixin.qq.com/s/RdfClEV2egSN2wbnUlXfTQ)
 + [如何理解TCP的“字节流传输”与UDP的“数据报传输”？](https://mp.weixin.qq.com/s/O6NeguiH0PtjHmwEY7hkLQ)
++ [面试官问：有了HTTP协议，为什么还要RPC协议？](https://mp.weixin.qq.com/s/xWjlHxMCdCqIbbBrQ5AJiA)
++ [为什么PING不通?](https://mp.weixin.qq.com/s/DKEXS2JBWbpXtQ8Bf6qRQg)
 
 ### DNS
 
@@ -518,6 +522,7 @@
 + [浅显易懂理解SPI信号协议](https://mp.weixin.qq.com/s/EVHjN6ZIeJTJyddHRol-rw)
 + [理解MQTT和Websocket在物联网中的差异](https://mp.weixin.qq.com/s/WCh-3Q36m94ccBHSfnHyoQ)
 + [MQTT发布和订阅架构](https://mp.weixin.qq.com/s/m1lJyPotMS63kArKgScmvA)
++ [为什么阿里、华为、特斯拉都在用MQTT？？？](https://mp.weixin.qq.com/s/3hUuJ4HdYF7yA9b2DwlWhQ)
 
 ## web
 

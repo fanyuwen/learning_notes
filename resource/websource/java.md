@@ -675,6 +675,8 @@
 + [单机百万并发：协程开始吊打线程了？](https://mp.weixin.qq.com/s/6zgGFeAx-ZdFM5qXW7lOvA)
 + [1.8w字图解Java并发容器框架：并发安全 Map、JUC 集合、Java 7 种阻塞队列正确使用场景和原理详解](https://mp.weixin.qq.com/s/GHUSrI3gJ0p37XZQ2ZtKzw)
 + [速学！Java 原子操作，开启并发编程新境界](https://mp.weixin.qq.com/s/sNHIpSI3rT0RZLuFCEFNUg)
++ [Java开发必知：如何设计一个线程安全的类？](https://mp.weixin.qq.com/s/CL2v_zab0pOVuv3x5tztTg)
++ [Java真的不难（二十七）多线程(一)](https://mp.weixin.qq.com/s/Z1T_rO0NLIwWSLM9OSv7oQ)
 
 #### 线程池
 
@@ -963,6 +965,7 @@
 + [Full GC 频率优化实战](https://my.oschina.net/vivotech/blog/18231016)
 + [JVM垃圾收集器详解与演进分析：为什么有这么多垃圾收集器？](https://mp.weixin.qq.com/s/VPcpa1lgx2TDTRxJET9b2g)
 + [记录一次频繁FullGC的排查过程](https://mp.weixin.qq.com/s/v3Bq_SvzA5CfoLvllnhVpw)
++ [垃圾回收机制](https://mp.weixin.qq.com/s/l7eAFRonOPqJZrXv8qJ2tA)
 
 # 核心库
 
@@ -1967,6 +1970,7 @@
 + [炸裂！仅用一个类就能跑通Spring MVC程序](https://mp.weixin.qq.com/s/RrjMrIRl_xTfU-9DX1YWew)
 + [SpringMVC用到的设计模式，你了解几种？](https://mp.weixin.qq.com/s/ce8G4AT8iozImbzbbHD3tQ)
 + [SpringMVC 面试高频！WebApplicationContext 原理与实战解析](https://mp.weixin.qq.com/s/XHLFfi55TI0aZnohMs0gyg)
++ [快速入门-Spring WebFlux](https://mp.weixin.qq.com/s/Y-PTW3TIaID9CO7Tjv_Eng)
 
 ### concurrent
 
@@ -2220,6 +2224,7 @@
 + [SpringCloud Stream实战入门（二）](https://mp.weixin.qq.com/s/kEx9WTkQyJPiQce7SEebAg)
 + [SpringCloud整合MQ实现消息总线服务，实战讲解！](https://mp.weixin.qq.com/s/A-AnXJ9LWIB7FBaGmvnV2w)
 + [SpringCloud 整合 Zuul 实现服务网关路由，实战讲解！](https://mp.weixin.qq.com/s/TzY7j0D6pXRxAaypgwnsow)
++ [深入解析SpringCloud的负载衡器Loadbalancer](https://mp.weixin.qq.com/s/yXx9RjRAgIaXV7FMaHTfCA)
 
 #### alibaba
 
@@ -2429,6 +2434,7 @@
 + [太强了！Spring Boot 五大内置 "神兵" 工具](https://mp.weixin.qq.com/s/ulEXtk6kZ6wbXKHr7gdlpg)
 + [这技巧太牛了！借助Spring Boot扩展点，动态注册Bean](https://mp.weixin.qq.com/s/lQ3LCd9aYee-rD50bH9L-A)
 + [太坑了！Spring Boot 导致堆外内存泄露了！](https://mp.weixin.qq.com/s/bx1SL1aTzTsVhgEnrhxHPw)
++ [架构师必知：SpringBoot性能优化的12招](https://mp.weixin.qq.com/s/Xw-BWOrzm-H_NNr9GMQSwQ)
 
 #### 版本特性
 
@@ -2876,6 +2882,7 @@
 + [揭秘Spring Boot内嵌Tomcat：从架构原理到参数调优的深度实战](https://mp.weixin.qq.com/s/RplhWDIiD2W9yevuempyxw)
 + [Jackson！JSON处理的瑞士军刀ObjectMapper](https://mp.weixin.qq.com/s/hPno36VIRLTHpaFpuRbXNA)
 + [Spring Boot接口防抖黑科技：高并发下的请求稳压策略与源码级实现](https://mp.weixin.qq.com/s/8TrtED7Km9j2Wj3LsNIjhQ)
++ [Spring Boot拦截器与过滤器7大核心区别，看完通透！](https://mp.weixin.qq.com/s/dm_wScpCKfOuz6eohnBwaQ)
 
 ##### VUE
 

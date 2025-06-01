@@ -400,6 +400,7 @@
 + [MySQL的Order By背后藏着什么秘密？一文讲透排序优化技巧](https://mp.weixin.qq.com/s/PGezgj2R4quQD9blC7FccQ)
 + [MySQL优化-EXPLAIN笔记](https://mp.weixin.qq.com/s/mcOyvaWs_PAlPH7A89PcyA)
 + [京东面试：mysql深度分页 严重影响性能？根本原因是什么？如何优化？](https://mp.weixin.qq.com/s/LXvQMQFf_SyLWh1zI6onkA)
++ [被问懵了：MySQL 自增主键一定是连续的吗？](https://mp.weixin.qq.com/s/U86G4cUQsmZV157VvrNO7g)
 
 #### 存储引擎
 

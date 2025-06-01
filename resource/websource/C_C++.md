@@ -163,6 +163,7 @@
 + [（2.12）C语言编程入门 -- 函数进阶 - 声明与调用](https://mp.weixin.qq.com/s/MJ7ufgYWpIM11vPqDz5aKQ)
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
 + [07_控制流之分支结构](https://mp.weixin.qq.com/s/HFD_olCGrtsfKekLvn41Tg)
++ [08_控制流之循环结构](https://mp.weixin.qq.com/s/5fmvVqpFGnFQfbNOTx3-kQ)
 + [C语言凭什么统治操作系统开发？](https://mp.weixin.qq.com/s/uyg8v05o7wTxZ1-oXQkHWw)
 + [Mutex的实现原理](https://mp.weixin.qq.com/s/gyAJSGoJ7WB8dsB1X2IS0g)
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
@@ -194,6 +195,7 @@
 + [C语言：位操作与寄存器](https://mp.weixin.qq.com/s/K8Ht3yll4BgjpnHTuP2G1w)
 + [Linux C语言 灵活数组成员](https://mp.weixin.qq.com/s/PsOe7mT7gk1Tj_vOyVRRjA)
 + [Linux C语言 0 强制转换为 void 类型的指针](https://mp.weixin.qq.com/s/Y5PvH0mV1sesAoBZ5LygWA)
++ [printf的终极调试大法](https://mp.weixin.qq.com/s/4SiGzmTijZ2l_eIALGYwzg)
 + [free() 函数只传入一个内存地址，为什么能知道要释放多大的内存？](https://mp.weixin.qq.com/s/KuakcB2DFXTcO9xy_gYAxw)
 + [深度系列之C语言：第28章 指针](https://mp.weixin.qq.com/s/wSqSdGzZFzYiTEd4uMDkGg)
 + [深度系列之C语言：第26章 库文件](https://mp.weixin.qq.com/s/eG1BDdZqMXsrbt5pQlB9Dw)
@@ -270,6 +272,8 @@
 + [断点是怎么“刹住”程序的？揭开嵌入式调试的底层真相](https://mp.weixin.qq.com/s/Sv9i_RXB6nLxQ4N4y8WrnQ)
 + [不只是写代码：嵌入式工程师必备的软技能](https://mp.weixin.qq.com/s/FIWwW9kI6Bw0zjeFLRYjuQ)
 + [中断的坑你踩过几个？聊聊嵌入式原子/原子性那些事](https://mp.weixin.qq.com/s/503R3fce1bf_fQ7n_oOLOQ)
++ [嵌入式开发神器：手把手教你打造超轻量级命令行shell](https://mp.weixin.qq.com/s/H0x2QYkhyqoQChgEqm-MwQ)
++ [嵌入式开发中断言（assert）的硬核指南：从调试到生产](https://mp.weixin.qq.com/s/FPZeFava1BnVMUPbmKRT0A)
 
 # ARM
 
@@ -303,3 +307,8 @@
 # NVIDIA
 
 + [深入了解 Nvidia CUDA 核心](https://mp.weixin.qq.com/s/PE3LmOAft27QCQNaaSFY7g)
++ [现代NVidia GPU架构](https://mp.weixin.qq.com/s/rxwjGLXUQK-SCAYVcuBemw)
+
+# 硬件
+
++ [USB Serial驱动分析](https://mp.weixin.qq.com/s/WjC6PrLbMIvWcABqjoZLtA)

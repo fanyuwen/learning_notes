@@ -70,6 +70,7 @@
 + [循序渐进搭建复杂 B 端系统整洁架构](https://my.oschina.net/u/4090830/blog/18211828)
 + [一、架构设计技巧——代码与架构复用](https://mp.weixin.qq.com/s/0sWz3jgc6G6QwnrwsBpFog)
 + [学习一个框架的设计思想远比其技术更加重要](https://mp.weixin.qq.com/s/DaiEOQ7CR7fjVQPplgy3vw)
++ [如何理解高可用架构设计原理](https://mp.weixin.qq.com/s/L3EjxFXtURg-ssY4TeVEvQ)
 
 ### DDD
 
@@ -537,6 +538,7 @@
 + [程序员必备基础：10种常见安全漏洞](https://mp.weixin.qq.com/s/P-1jEcbriD4SqPQNesT1pg)
 + [AES加密及填充模式都有哪些？](https://mp.weixin.qq.com/s/8GtLrZ4IGlzdwKAh6pa0fA)
 + [揭秘网络通信中的加密技术](https://mp.weixin.qq.com/s/hfmK99C4Yfo3BSVyBThLsQ)
++ [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/sTcizm2HPrhTM6LUD4adWQ)
 
 ### 鉴权
 

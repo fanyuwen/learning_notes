@@ -42,6 +42,7 @@
 + [JavaScript 运算符进阶指南：ES6+ 新特性深度解析与实践](https://mp.weixin.qq.com/s/6M8VG_6zQo4yJSbilz-Etg)
 + [深入理解 Promise，看看你会几道题](https://mp.weixin.qq.com/s/Rz5cpziu47_aBRvrsCFPBQ)
 + [一行代码搞定防抖节流：JavaScript新特性解析](https://mp.weixin.qq.com/s/NpZkkzFT7eMyVovDiwenpw)
++ [原来可以这样写JavaScript！ES2025新语法糖](https://mp.weixin.qq.com/s/-TMu5l6BUqy1JfhrL7Sxlg)
 
 ### 底层
 

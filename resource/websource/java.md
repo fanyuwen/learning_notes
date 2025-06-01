@@ -1140,6 +1140,7 @@
 + [面试练习 | 解释在Java并发编程中使用CompletableFuture相比Future的优势](https://mp.weixin.qq.com/s/qxQomhlzQTQE5X0ADAOXwg)
 + [【Java】CompletableFuture.orTimeout在JDK21以下版本有内存泄漏及解决方案](https://mp.weixin.qq.com/s/qzC2_F1ju6xX5b-TU0Ht5g)
 + [CompletableFuture回调函数运用](https://mp.weixin.qq.com/s/Vstk-St9OcnbqblEr-1P8Q)
++ [【Java】Java8中实现类似CompletableFutrue#orTimeout的功能](https://mp.weixin.qq.com/s/Pp9kuxj0kWAUHYv6OQCBxQ)
 
 ### ThreadPool
 
@@ -2166,6 +2167,7 @@
 + [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/nY4yGbfMRERsFe6wYHDQ5g)
 + [Spring AI：超神Advisor切面，会话记忆和历史记录秒解决](https://mp.weixin.qq.com/s/ran79ZVNF1wxck0r-BpqKQ)
 + [Spring AI 入门之 嵌入模型和向量数据库](https://mp.weixin.qq.com/s/lVm4k6ZZbrKrDs9GFikSWw)
++ [Java集成Spring-AI与Langchain4j深度对比：谁才是企业级AI应用的最佳选择？](https://mp.weixin.qq.com/s/YnSJg-b9ZuUY9L50UlWKHA)
 
 ### cloud
 
@@ -2866,6 +2868,7 @@
 + [惊呆了！Spring Boot接口定义：8种逆天玩法](https://mp.weixin.qq.com/s/LRfgXnvv5-eNcRTYJGFTyg)
 + [揭秘Spring Boot内嵌Tomcat：从架构原理到参数调优的深度实战](https://mp.weixin.qq.com/s/RplhWDIiD2W9yevuempyxw)
 + [Jackson！JSON处理的瑞士军刀ObjectMapper](https://mp.weixin.qq.com/s/hPno36VIRLTHpaFpuRbXNA)
++ [Spring Boot接口防抖黑科技：高并发下的请求稳压策略与源码级实现](https://mp.weixin.qq.com/s/8TrtED7Km9j2Wj3LsNIjhQ)
 
 ##### VUE
 
@@ -3029,6 +3032,7 @@
 + [一个 SpringBoot 应用里有多少个线程？踩一坑长一智](https://mp.weixin.qq.com/s/QnFipvYerxMdBiRx7cnSeg)
 + [Spring Boot动态定时任务实战：告别硬编码配置](https://mp.weixin.qq.com/s/1Yzkh1DikNRfals5W8iv5Q)
 + [SpringBoot 异步接口深度解密：高并发场景下的性能优化实战](https://mp.weixin.qq.com/s/6BxbBhKI8yI36OOFSInR8w)
++ [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/OoncMmuuFbOaAv35dFwqEw)
 
 ##### Disruptor
 
@@ -3270,6 +3274,7 @@
 + [SpringBoot中版本依赖的“陷阱”](https://mp.weixin.qq.com/s/L6Ap0PdOGZgi4Cg9QgX7kg)
 + [SpringBoot配置文件的12个实用技巧](https://mp.weixin.qq.com/s/yK-EWLQhssk6hzulkUgBvQ)
 + [【java必会】springboot使用maven高效管理多环境配置](https://mp.weixin.qq.com/s/_Z10NG9VC3CrW5GPFDg7Zw)
++ [【java必会】springboot项目不重新打包修改配置文件之nacos](https://mp.weixin.qq.com/s/IvrXsc3pOrxK1Cem8bKRmA)
 
 #### 集成三方
 
@@ -3610,6 +3615,7 @@
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
 + [Java真的不难（四十六）设计模式的开闭原则&里氏代换原则及案例](https://mp.weixin.qq.com/s/81qLAj5FY4ktAdBG4BP3EQ)
++ [JDK网站最终的拼图](https://mp.weixin.qq.com/s/uv0wcpW8uySkqOKQ7eUXYw)
 + [实现一个异步的组件](https://mp.weixin.qq.com/s/hBrn9GEtyIxNl6XM8_MXEw)
 + [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)
 + [性能提升手段--池化技术](https://mp.weixin.qq.com/s/0J_D3RDn780pvp2Ax2LdJQ)

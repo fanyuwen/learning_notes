@@ -738,6 +738,7 @@
 + [PyGraphviz，一个牛逼的python库](https://mp.weixin.qq.com/s/66qBPDD7G486Y6rT__67Mw)
 + [Mido，一个牛逼的python库](https://mp.weixin.qq.com/s/w4Sb4VHqWaBSYvgp1CkF_A)
 + [Marmir ，一个牛逼的Python库](https://mp.weixin.qq.com/s/y3oWnbmULGMj-MHg1bCw-A)
++ [Click, 一个神奇的 Python 库](https://mp.weixin.qq.com/s/ksC3PRSyPSKbBhAMMXAXcg)
 + [Underworld，一个Python中非常有用的库](https://mp.weixin.qq.com/s/RojYfhtC5zM5mw1i0_XtAA)
 + [用 Python 打造爆款Web应用：你不可错过的Mesop库](https://mp.weixin.qq.com/s/IvK0pUTqu4TO6_8fIgl48g)
 + [Pyecharts库可以绘制那些图形？](https://mp.weixin.qq.com/s/M7wL67AjpzYmtwVvGMIEog)

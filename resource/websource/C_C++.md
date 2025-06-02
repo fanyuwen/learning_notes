@@ -17,6 +17,8 @@
 + [技术科普｜ C/C++ 程序员必备的 Debug 神器 Core Analyzer](https://mp.weixin.qq.com/s/LflcUO0H5ZhSRaabZ7e1Vg)
 + [探秘glibc malloc：解锁内存分配的黑匣子](https://mp.weixin.qq.com/s/vAboDVlJOeb85urKYC2Acw)
 + [编译工具：gcc，GUN，MinGW，MSVC，make、cmake，Ninja](https://mp.weixin.qq.com/s/dGKmbdMA71aBVpPtyNAPYw)
++ [C++性能测试工具——sysprof的使用](https://mp.weixin.qq.com/s/KiGc7eqHsJNruWHi4xm_Hw)
++ [CMake之常用语法(循环)](https://mp.weixin.qq.com/s/XhivJkXNef1HlO0cdIhBVw)
 
 ## C++
 
@@ -30,11 +32,13 @@
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
 + [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
++ [C++容器之迭代器](https://mp.weixin.qq.com/s/juS0p_W2E9erjkOIpubxTA)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
 + [探秘C++虚函数表：从内存深处解析多态的奥秘](https://mp.weixin.qq.com/s/jEGNey3zUOXeTz_8N-pIIw)
 + [C++的信号处理优先级](https://mp.weixin.qq.com/s/NmkMqAj3MXA09UQZQ9Rvwg)
 + [C++_Mutable](https://mp.weixin.qq.com/s/CXprG7tcX1M3MR9X_tpLYQ)
++ [跟我学C++中级篇——内存异常的分析](https://mp.weixin.qq.com/s/-QeDe_Gx21yB50iigZnqfw)
 + [浅谈std::promise的异常情况](https://mp.weixin.qq.com/s/38Jaf6q8LTBCh0TGguIrWw)
 + [C++ 定义变量时加上 static 的原因](https://mp.weixin.qq.com/s/klCKgxhB0WFfVv0f3ZJJZg)
 + [C++_成员初始化列表](https://mp.weixin.qq.com/s/uabbFCMApMtrc7fWOCpbAg)
@@ -51,6 +55,8 @@
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
 + [C++枚举 enum vs enum class，该怎么选？](https://mp.weixin.qq.com/s/8NexC65ul0HacGXyXyyb1A)
 + [【C++】内联函数引起的作用域问题](https://mp.weixin.qq.com/s/WNki29uv6akcSYvsOApKzw)
++ [【一分钟学C++】优先使用deleted函数而非私有声明](https://mp.weixin.qq.com/s/C3GkzBAZ1gZa1AFjbBWGMA)
++ [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
 + [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
 + [C++：位运算](https://mp.weixin.qq.com/s/h4JCbO6D3MJCRS5fRrRR3w)
@@ -63,6 +69,7 @@
 + [C++ | 异步接口 promise, future, packaged_task, async.](https://mp.weixin.qq.com/s/FvVWytcscu5M2WaUYbaR2w)
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
++ [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
 + [【C++】使用gdb在命令行下调试C++程序（一）](https://mp.weixin.qq.com/s/lhvAjRoI94DV-VbGowavWg)
 + [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
@@ -145,6 +152,8 @@
 + [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
 + [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
 + [记录一次高版本GCC由于缺少return导致的宕机问题](https://mp.weixin.qq.com/s/N-XwdTJG_4zDAtJ8B4TYmg)
++ [ABI兼容性：为什么你的C++程序编译链接不通过？](https://mp.weixin.qq.com/s/9Xahip6Td7N0uMu753ElAg)
++ [在三条指令内实现闰年判断](https://mp.weixin.qq.com/s/DON-CC1bOWdajeNnc5aL3w)
 
 ### 资讯
 

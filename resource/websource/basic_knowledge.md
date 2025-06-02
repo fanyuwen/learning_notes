@@ -187,6 +187,11 @@
 + [7天掌握Shell脚本，轻松玩转Linux运维](https://mp.weixin.qq.com/s/R2LVVK-GI5CsdVMSuoPqoQ)
 + [df 显示磁盘 100%，du 却没占多少空间？真正原因就这三种情况！](https://mp.weixin.qq.com/s/PXHie3T0dVrSpgxVzHnVBg)
 + [三剑客出击：grep、sed、awk 一站式入门与实战](https://mp.weixin.qq.com/s/ExR7P8i3ATaVgze9mYcGCA)
++ [Linux 权限管理进阶：sudo 实战技巧详解](https://mp.weixin.qq.com/s/6JoGD1-C2rvnktvoh9_LRw)
++ [Linux 常用命令 - tar【归档与压缩】](https://mp.weixin.qq.com/s/O_ElZ7UHu3OxMKyOi3if8A)
++ [Linux｜Linux日常高频使用的100条命令，强烈建议收藏！](https://mp.weixin.qq.com/s/aK4FzdIluDOHY1eJX0PDZQ)
++ [Linux常用命令 - scp【OpenSSH 安全文件拷贝】](https://mp.weixin.qq.com/s/K-DfNaYXSuKmWCxHUNFe9g)
++ [运维人的Linux工具箱：这20个命令能救急](https://mp.weixin.qq.com/s/6uzksdZs2S81WJU6mqcuFA)
 
 ### 发行版信息
 
@@ -289,6 +294,7 @@
 + [同步通信 VS 异步通信，如何选择？](https://mp.weixin.qq.com/s/XxPTXJ0HcXH7CmfRtbgSlg)
 + [揭秘数通知识：什么是NAT？NAT是怎么工作的？](https://mp.weixin.qq.com/s/5WCJz4kt4LGTQAAPOIDcUQ)
 + [NAT 实现原理](https://mp.weixin.qq.com/s/hFe0n_Gz1E7fe9R6C8xbUg)
++ [网路基础-路由表](https://mp.weixin.qq.com/s/5ypWu8mi6Gwg0aOk6Jb8gw)
 + [一张图就把NAT网络地址转换讲明白了！](https://mp.weixin.qq.com/s/qPdft4G1BwJ9JZlZx03eHA)
 + [DHCP配置及其原理](https://mp.weixin.qq.com/s/nqQB9JKR5fxuL0E3ybEAlg)
 + [超实用的80个网络基础知识！](https://mp.weixin.qq.com/s/3f6vhB6xp7mkDTbS8vWU8w)
@@ -523,6 +529,10 @@
 + [理解MQTT和Websocket在物联网中的差异](https://mp.weixin.qq.com/s/WCh-3Q36m94ccBHSfnHyoQ)
 + [MQTT发布和订阅架构](https://mp.weixin.qq.com/s/m1lJyPotMS63kArKgScmvA)
 + [为什么阿里、华为、特斯拉都在用MQTT？？？](https://mp.weixin.qq.com/s/3hUuJ4HdYF7yA9b2DwlWhQ)
++ [MQTT和HTTP！物联网协议该如何选择？？？](https://mp.weixin.qq.com/s/9LdfPJHxYvOLa1wCU2uwiw)
++ [MQTT 客户端和MQTT 代理！！！](https://mp.weixin.qq.com/s/eHWhu_-v4sJrCXL0xXfZIw)
++ [SMTP（简单邮件传输协议）协议学习（Wireshark分析&C语言解析）](https://mp.weixin.qq.com/s/t8hd_vuhqTkct68kbz91jw)
++ [MQTT broker有哪几种类型？](https://mp.weixin.qq.com/s/kNeJQqB8jM4gCAT7IE1TNA)
 
 ## web
 

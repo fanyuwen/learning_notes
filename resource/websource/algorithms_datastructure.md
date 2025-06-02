@@ -49,6 +49,7 @@
 + [美团三面：给你1G内存，如何存储100亿条地址数据？](https://mp.weixin.qq.com/s/WM6YeoZpedljd5tM-gqfzA)
 + [让我们一起刷算法](https://mp.weixin.qq.com/s/8C9MDOG92_8We2huQaCrUA)
 + [10倍通过率！跳表、红黑树、B+树、HashMap 高频面试题总结（附参考答案+避坑指南）](https://mp.weixin.qq.com/s/_oPJ44OFub5oXGmVsl8gbw)
++ [数据结构（二）：栈](https://mp.weixin.qq.com/s/Omd60cJsOr7bJTgBF1eFqg)
 + [【数据结构】树的基本：结点、度、高度与计算](https://mp.weixin.qq.com/s/eJ3oIbPgD3dJgE2mqLWmYA)
 + [大厂常考的8道链表算法题！](https://mp.weixin.qq.com/s/T-M6VrcSZvQ2LZKRZOvYcg)
 + [优先队列及其应用](https://mp.weixin.qq.com/s/erMgYPnZRWkWNgN_J7HIQA)
@@ -62,6 +63,8 @@
 + [有哪些算法惊艳到了你？（三）](https://mp.weixin.qq.com/s/H-DxQVhYCJWxLU2p37PfuQ)
 + [从尾到头打印链表](https://mp.weixin.qq.com/s/_rU1ADi_HOK36Kn7WjCQ8Q)
 + [有哪些算法惊艳到了你？（五）](https://mp.weixin.qq.com/s/He8rPSDX-H0fpZAqkD84XQ)
++ [设计心得——数据结构的意义](https://mp.weixin.qq.com/s/EIUWcF3xSR4cHFDXpKz1jQ)
++ [数据结构之树结构——树的表示方法和树的存储](https://mp.weixin.qq.com/s/cuAYBVGwcIYcuqbhe4j_Vw)
 
 ## 排序算法
 

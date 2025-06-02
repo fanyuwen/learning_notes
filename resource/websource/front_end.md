@@ -331,6 +331,7 @@
 + [讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL](https://mp.weixin.qq.com/s/u44_9jZez7TI8gJqv_n79Q)
 + [JavaScript动态混淆技术：让代码“千变万化”，逻辑却始终如一](https://mp.weixin.qq.com/s/3jvddXapMh7J3RXajBrnsQ)
 + [JS黑科技：利用eval打造"万变不离其宗"的动态执行方案](https://mp.weixin.qq.com/s/9o8EVvc9pBBO-IgOdFh-yQ)
++ [前端处理文件上传时获取纯Base64数据](https://mp.weixin.qq.com/s/ckGbgKefLGYiULgxm6ZvyA)
 
 # 杂谈
 

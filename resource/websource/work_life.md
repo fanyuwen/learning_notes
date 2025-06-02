@@ -78,6 +78,7 @@
 + [坑啊！前端倒计时有误差！让公司损失了几十万！](https://mp.weixin.qq.com/s/UQynfmyApRXaZ-V_ZuA0TQ)
 + [第一批90后，正在断崖式衰老](https://mp.weixin.qq.com/s/8srY7wkgY3NzT955_nWudA)
 + [人生建议：给30-40岁牛马的十个忠告](https://mp.weixin.qq.com/s/O3gPxpYaTZc-WHWYBw7UHg)
++ [“程序员即将被淘汰” 的神预言](https://mp.weixin.qq.com/s/ELx_QUKN4ZDQT8XfGexqRQ)
 
 # 个人成长
 

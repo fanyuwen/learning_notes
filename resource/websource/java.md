@@ -362,6 +362,8 @@
 + [价格字段还用BigDecimal呢？我直接给你一拳。看看最新的Money类吧，下次给面试官吹牛逼有的讲！](https://mp.weixin.qq.com/s/Gd4XDyxVBYTcZHwpVtU72w)
 + [Java真的不难（六十四）Stack数据结构分析及多个基本操作方法](https://mp.weixin.qq.com/s/N8rDxpPJfBYaS85XmYmHRA)
 + [Java真的不难（六十五）使用Stream流来替代传统繁琐循环的多个案例（附源码）](https://mp.weixin.qq.com/s/wKqrRCd9ksQ5SGQj0CjWhA)
++ [Java8自定义函数式接口及其应用场景](https://mp.weixin.qq.com/s/KS6Fm-GNc7olT-5SIaBrew)
++ [lambda表达式之list便捷处理](https://mp.weixin.qq.com/s/9-CluT-kpFuHjSDf7P5sBw)
 
 ## 代码质量
 
@@ -677,6 +679,7 @@
 + [速学！Java 原子操作，开启并发编程新境界](https://mp.weixin.qq.com/s/sNHIpSI3rT0RZLuFCEFNUg)
 + [Java开发必知：如何设计一个线程安全的类？](https://mp.weixin.qq.com/s/CL2v_zab0pOVuv3x5tztTg)
 + [Java真的不难（二十七）多线程(一)](https://mp.weixin.qq.com/s/Z1T_rO0NLIwWSLM9OSv7oQ)
++ [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
 
 #### 线程池
 
@@ -1531,7 +1534,7 @@
 + [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
 + [盘点Lombok的几个骚操作](https://mp.weixin.qq.com/s/K6dx7kPGv4u8BEbD0ykbAA)
 
-## MapStruct
+## mapStruct
 
 + [MapStruct 使用教程, 万字详解](https://mp.weixin.qq.com/s/UXUDIWiBiLyrb887evQcaQ)
 + [MapStruct 超神进阶用法，让你的代码效率提升十倍！](https://mp.weixin.qq.com/s/_4nSah_SIWYyBgYJ6AI_5A)
@@ -1632,6 +1635,7 @@
 + [一文带你掌握MyBatis-Plus的plus高级功能点如何使用](https://mp.weixin.qq.com/s/qljQzgGXjF-aE4UNYgk7zw)
 + [Mybatis-Plus 动态数据源与 Spring 事务冲突问题深度解析](https://mp.weixin.qq.com/s/lFY1-x_3x4Fur9XKyP_HBw)
 + [MybatisPlus不好用？帅小伙一气之下写了个MybatisPlusPro！](https://mp.weixin.qq.com/s/-SkHBg3CYlm-jbV_MXDC6w)
++ [MyBatis-Plus中联表查询用法](https://mp.weixin.qq.com/s/rIE8eLYuPuEfjOOJp_gB_Q)
 
 ## nacos
 
@@ -3480,6 +3484,7 @@
 
 + [单元测试的超级英雄：Mockito如何助你实现完美测试覆盖率](https://mp.weixin.qq.com/s/lBLqC58YQHBWQ907S1vhOw)
 + [JDK11下Mock框架进化：从PowerMockito到Mockito Only](https://mp.weixin.qq.com/s/OsySrzocrMmJdk6C0_h60A)
++ [不用Mockito写单元测试？你可能在浪费一半时间](https://mp.weixin.qq.com/s/NICubD9Yq0pn6qwpVIznfg)
 
 ### JMH
 
@@ -3608,6 +3613,7 @@
 + [高性能、无侵入的 Java 性能监控神器](https://mp.weixin.qq.com/s/Yd03fuGFx6NjwhSgJA8pNg)
 + [Java利器：Pair和Triple无缝解决多值返回，编写高效代码！](https://mp.weixin.qq.com/s/nwJNRzi-2q-I8pil4P_zUg)
 + [彻底告别 Controller、Service、Dao，让人上瘾的开发神器...](https://mp.weixin.qq.com/s/KdgwBzjLrrkiq9g_a6kKRA)
++ [新一代ORM框架——Jimmer](https://mp.weixin.qq.com/s/TMCRfHoaX3Yp6QiJX9FTyw)
 
 # 其它环境
 
@@ -3625,6 +3631,7 @@
 # 相关文章
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
++ [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
 + [《再这样下去Java没救了》爆了，来投票看看数据吧](https://mp.weixin.qq.com/s/QuC94XdMoALpxl0cgdLSAA)

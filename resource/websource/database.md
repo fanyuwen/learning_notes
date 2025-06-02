@@ -130,6 +130,9 @@
 + [延迟双删、异步重试、Binlog监听：高并发可靠的Redis数据一致性机制](https://mp.weixin.qq.com/s/DzY1aWuI7BrxdrNaVfETXA)
 + [字节一面：20亿手机号存储选int还是string？varchar还是char？为什么？](https://mp.weixin.qq.com/s/t1Cy2GgUAWJDEIA2K9AiZQ)
 + [4 种策略让 MySQL 和 Redis 数据保持一致](https://mp.weixin.qq.com/s/1hfhIJUSVr6jxEBbswaj7Q)
++ [大厂数据优化：Null值的高阶处理](https://mp.weixin.qq.com/s/LQLu73PvaUlfNCRgn_RT1g)
++ [优秀架构师成长之路（2）-分层索引](https://mp.weixin.qq.com/s/eSllXjG78xBieI_yQxPE1Q)
++ [存储引擎系列--LSM树写放大优化之Partitioned Leveling合并策略](https://mp.weixin.qq.com/s/T03ln1I3rOjtjEdn8aIzAQ)
 
 ### 读写分离&分库分表
 
@@ -910,6 +913,10 @@
 
 + [号称 Redis Plus，来看看 KeyDB 性能有多炸裂！](https://mp.weixin.qq.com/s/Kb-AYXlYeezTiUvsUEGF0Q)
 + [Redis Plus 来了，性能炸裂！](https://mp.weixin.qq.com/s/7HppOa1nE_WQ4fNSJRiliQ)
+
+### levelDB
+
++ [LevelDB 设计与实现](https://mp.weixin.qq.com/s/W5CsR6Xn-UuGABNMFEstIQ)
 
 ### APACHE DORIS
 

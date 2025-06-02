@@ -275,6 +275,7 @@
 
 ## 分布式事务
 
++ [分布式事务核心概念小结](https://mp.weixin.qq.com/s/Uwx4V-_fA2XIhXkyJjZ85w)
 + [5大分布式事务框架详解(图文全面总结)](https://mp.weixin.qq.com/s/2cLIvgPshzWM46kxA2pvLg)
 + [还不懂分布式事务：带你深入剖析TCC实现原理](https://mp.weixin.qq.com/s/Dlv9hdxNRJBeNtaA-dkGrg)
 + [13个分布式事务处理机制，你在用哪个？](https://mp.weixin.qq.com/s/J-8cv9cmKMDvAzSHWCTAtA)
@@ -292,6 +293,7 @@
 + [分布式事务的解决方案—Seata AT模式](https://mp.weixin.qq.com/s/YyKRQqk50ZP8EqWT9ZTM4A)
 + [分布式事务的解决方案—Seata TCC模式](https://mp.weixin.qq.com/s/voZX95_EoFADkFZjNSE0lg)
 + [详细讲解一下分布式事务-两阶段提交的实现原理](https://mp.weixin.qq.com/s/3-2InkDflnW3mAo5JFR0UA)
++ [分布式事务解决方案—本地消息表](https://mp.weixin.qq.com/s/vV4TeIMt8jjMaDc5Q9Nyxg)
 
 ## 分布式算法
 
@@ -622,6 +624,7 @@
 + [10个牛逼的编程范式，你已经用过了几个？](https://mp.weixin.qq.com/s/gsep2Qy4AbNxE0Ru7KvAHw)
 + [10万QPS，如何设计 ‘敏感词’ 风控，还要支持 实时更新的？](https://mp.weixin.qq.com/s/WlSjXgkoQ13SOnPlflJPlQ)
 + [设计心得——事件机制的实现](https://mp.weixin.qq.com/s/rHYA6m-aIqvtztpr7MXvOw)
++ [设计心得——状态机](https://mp.weixin.qq.com/s/TnjhritbHLvQRIpuTaCVFw)
 
 # 测试相关
 

@@ -123,6 +123,7 @@
 + [Linux处理不连续的磁盘分区](https://mp.weixin.qq.com/s/DH2C5r_5F5PevO-44lgUoQ)
 + [不要一上来就关闭SELinux，，5分钟带你搞懂 SELinux 是什么鬼？](https://mp.weixin.qq.com/s/vpXaqfDJQBr8LdJK8Nzu2w)
 + [深入剖析Linux工业IO驱动的内核机制](https://mp.weixin.qq.com/s/aKFjFxnM0ValwSI1Su2sHw)
++ [揭秘Linux内核启动全过程：从Starting kernel...到用户空间](https://mp.weixin.qq.com/s/Qzd2Ia2W5CKyj6ksdnpGmg)
 
 ### 网络
 
@@ -346,6 +347,7 @@
 + [如何理解TCP的“字节流传输”与UDP的“数据报传输”？](https://mp.weixin.qq.com/s/O6NeguiH0PtjHmwEY7hkLQ)
 + [面试官问：有了HTTP协议，为什么还要RPC协议？](https://mp.weixin.qq.com/s/xWjlHxMCdCqIbbBrQ5AJiA)
 + [为什么PING不通?](https://mp.weixin.qq.com/s/DKEXS2JBWbpXtQ8Bf6qRQg)
++ [到底什么是带宽、网速、延迟？](https://mp.weixin.qq.com/s/rYLSwIhgAOigMRypXtzT3A)
 
 ### DNS
 
@@ -588,3 +590,4 @@
 + [面试官：线上服务 cpu飙升，有遇到过吗，如何定位问题的](https://mp.weixin.qq.com/s/njtqs5M28xs6rE1XreIN8w)
 + [你真的懂串口通信吗？](https://mp.weixin.qq.com/s/Q8Y_1EDJ1j_EsfmgHUeIiA)
 + [进程间通信（二）信号通信](https://mp.weixin.qq.com/s/ekrXy2yxSbVdOI-SZUaKeA)
++ [大厂面试必问-抢占式任务调度原理](https://mp.weixin.qq.com/s/_mwiwHz_zuTrWbK3Ib05Ug)

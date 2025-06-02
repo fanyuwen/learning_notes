@@ -876,6 +876,7 @@
 + [redis 锁的5个大坑，如何规避？](https://mp.weixin.qq.com/s/HSQVnPW4aRdLP2jnTOFr4A)
 + [Redis分布式锁你知道几种方式？一文让你搞懂Redis如何实现分布式锁。](https://mp.weixin.qq.com/s/MovTpBJOcbYHjMTau0jjvg)
 + [Redis分布式锁](https://mp.weixin.qq.com/s/b5C2wsWF88f8RIKU30Cfew)
++ [Redis 作者与 DDIA 作者激辩：Redlock 到底安不安全？](https://my.oschina.net/u/4169309/blog/18492056)
 
 #### 缓存
 

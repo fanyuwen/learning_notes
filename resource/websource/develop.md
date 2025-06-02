@@ -836,6 +836,7 @@
 + [git fetch & pull命令详解](https://mp.weixin.qq.com/s/sR0YAH7e_IasdBQ1rFXkMA)
 + [【超详细】Git 所有常用命令 + 提交规范全指南（建议收藏！）](https://mp.weixin.qq.com/s/4xJyEiZs_p5gAvYFTdvDLw)
 + [Git 开发快速入门 | 高频操作与核心逻辑详解](https://mp.weixin.qq.com/s/cp1X4HbHSj49lVE7bYU1LA)
++ [Facebook 为什么要弃用 Git？](https://mp.weixin.qq.com/s/qNbxEFLRJEkU2Xvh9nAJkw)
 
 ### 编程范式
 

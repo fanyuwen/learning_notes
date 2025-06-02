@@ -124,6 +124,10 @@
 + [不要一上来就关闭SELinux，，5分钟带你搞懂 SELinux 是什么鬼？](https://mp.weixin.qq.com/s/vpXaqfDJQBr8LdJK8Nzu2w)
 + [深入剖析Linux工业IO驱动的内核机制](https://mp.weixin.qq.com/s/aKFjFxnM0ValwSI1Su2sHw)
 + [揭秘Linux内核启动全过程：从Starting kernel...到用户空间](https://mp.weixin.qq.com/s/Qzd2Ia2W5CKyj6ksdnpGmg)
++ [Linux中断：基本概念](https://mp.weixin.qq.com/s/CEqrqrNS8gah8SlUsSGSTQ)
++ [使用 rsync 进行大文件复制](https://mp.weixin.qq.com/s/M6MCzHXowYXeQngFvGG10g)
++ [Linux Cron定时任务：让自动化成为你的得力助手](https://mp.weixin.qq.com/s/Kko18WCdGFHRnd6Rn4w69g)
++ [Shell 脚本系统学习 · 第3篇 Bash 常用快捷键大全](https://mp.weixin.qq.com/s/f06qP8WQ62ae4oRNGy6NXg)
 
 ### 网络
 

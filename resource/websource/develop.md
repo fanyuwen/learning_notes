@@ -480,6 +480,7 @@
 + [为什么说缓存是把双刃剑？](https://mp.weixin.qq.com/s/KRBFvaIBD3DdGp7vBfL51g)
 + [多级缓存架构：深度解析与实践](https://mp.weixin.qq.com/s/u17G44XLFah9ZwJi0qHtAA)
 + [缓存引擎设计精要](https://mp.weixin.qq.com/s/LRybPXjB444o0XDxg7qoEA)
++ [用好缓存的10条军规](https://mp.weixin.qq.com/s/eb5FzwpJAFM4cbsdooYzkg)
 
 ## 优化
 

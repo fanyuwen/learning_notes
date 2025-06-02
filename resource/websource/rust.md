@@ -104,6 +104,7 @@
 
 + [Rust都在哪些行业中被使用？](https://mp.weixin.qq.com/s/CodVhLFmicKzM74XfN5pyw)
 + [Rust 到底值得吗？](https://mp.weixin.qq.com/s/s-sQ_NvHhTq8JumBu0AFVQ)
++ [Rust丨一种热门的编程语言](https://mp.weixin.qq.com/s/cRplElQhzXBQ9UdomAOH_Q)
 + [为什么科技行业正在迅速采用Rust？](https://mp.weixin.qq.com/s/Fidk9g-MCmsYI4FJSGiEgQ)
 + [CISA要用Rust重写大量C/C++代码？](https://mp.weixin.qq.com/s/0_6zadEfei2qWqrvkbxHig)
 + [AI大模型下，Rust 一定要学？](https://mp.weixin.qq.com/s/kFq1n3rtzAofM8CHkzC_Jg)

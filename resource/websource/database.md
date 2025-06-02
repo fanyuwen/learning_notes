@@ -404,6 +404,7 @@
 + [MySQL优化-EXPLAIN笔记](https://mp.weixin.qq.com/s/mcOyvaWs_PAlPH7A89PcyA)
 + [京东面试：mysql深度分页 严重影响性能？根本原因是什么？如何优化？](https://mp.weixin.qq.com/s/LXvQMQFf_SyLWh1zI6onkA)
 + [被问懵了：MySQL 自增主键一定是连续的吗？](https://mp.weixin.qq.com/s/U86G4cUQsmZV157VvrNO7g)
++ [[MYSQL] error日志大量的Multi-threaded slave:Coordinator has wait磁盘占满了](https://mp.weixin.qq.com/s/J4VjNGZ8n6-j0dklqrp0WQ)
 
 #### 存储引擎
 
@@ -989,6 +990,7 @@
 + [Flink自研新特性：yarn-session集群WebUI支持Jar持久化到HDFS实践总结](https://mp.weixin.qq.com/s/WAoiDP9MM70JesL3kNFPZQ)
 + [Flink在长城汽车的应用与实践](https://mp.weixin.qq.com/s/qECs3fRwNUKnk63PGSUSyg)
 + [Apache Flink 2.0.0: 实时数据处理的新纪元](https://my.oschina.net/u/2828172/blog/17996920)
++ [Flink运行时架构](https://mp.weixin.qq.com/s/GAhLaRybS5Cw9LkJzVwqEw)
 
 ## spark
 

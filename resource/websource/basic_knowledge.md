@@ -139,6 +139,7 @@
 + [透视Linux内核：深度剖析Socket机制的本质](https://mp.weixin.qq.com/s/wvTXvPHFqfLZRFuJTbjgmg)
 + [深入Linux内核理解socket的本质](https://mp.weixin.qq.com/s/9oUhw-iXr6vwMo6vtBAguQ)
 + [Linux 网络数据包的接收和发送流程](https://mp.weixin.qq.com/s/YG_9N41AweQ3IqO_fjpidw)
++ [Linux 内核中的套接字 - 第 1 部分：接收时的四层协议解复用](https://mp.weixin.qq.com/s/4YfiWa5fWGyl9QtfRGuNZA)
 
 ### 命令
 
@@ -197,6 +198,7 @@
 + [Linux｜Linux日常高频使用的100条命令，强烈建议收藏！](https://mp.weixin.qq.com/s/aK4FzdIluDOHY1eJX0PDZQ)
 + [Linux常用命令 - scp【OpenSSH 安全文件拷贝】](https://mp.weixin.qq.com/s/K-DfNaYXSuKmWCxHUNFe9g)
 + [运维人的Linux工具箱：这20个命令能救急](https://mp.weixin.qq.com/s/6uzksdZs2S81WJU6mqcuFA)
++ [Linux 系统中常用的磁盘管理命令](https://mp.weixin.qq.com/s/JhROCZb5TAfO1ekhKBkKdg)
 
 ### 发行版信息
 
@@ -254,6 +256,7 @@
 + [程序员眼中的 CPU 微架构（3）](https://mp.weixin.qq.com/s/58jKa7R2vAGeJUNmgmXLdQ)
 + [程序变慢的真相：CPU缓存与内核如何影响性能？](https://mp.weixin.qq.com/s/AWCAFcuW3OGp4VwyjR4SQg)
 + [揭秘保护模式：CPU如何筑起操作系统的安全防线](https://mp.weixin.qq.com/s/gEo3-9MIF6XGvY53rPbvzQ)
++ [解锁程序性能密码：CPU优化全攻略](https://mp.weixin.qq.com/s/q6nl5drRR4Q1w12SVS9qbw)
 
 ### 并发
 
@@ -280,6 +283,7 @@
 + [直接内存？我说的堆外内存啊！](https://mp.weixin.qq.com/s/HtfH5P5yfMuMBD7u_WuTnQ)
 + [一文看懂内存管理及TLB的基本原理](https://mp.weixin.qq.com/s/jAWplzpQ3x7tJVYQqUjbLA)
 + [内存的构成原理](https://mp.weixin.qq.com/s/SHFaKG4InE6keQwebLpPEg)
++ [内存一路狂飙，如何精准揪出“幕后黑手”](https://mp.weixin.qq.com/s/fPsBFxbbkAHaPQ6KHy1jog)
 
 ## GPU
 
@@ -290,6 +294,7 @@
 + [显卡(GPU)的工作原理](https://mp.weixin.qq.com/s/cAdp7ZUB1QvYUdJfpQsCRQ)
 + [小白也能秒懂：趣解GPU各种核心参数规格！](https://mp.weixin.qq.com/s/hkY_lnJr8rLWVSDQArsUmQ)
 + [GPU 指令格式 [上]](https://mp.weixin.qq.com/s/TLKdh-v-dVzpuDdW9uD_9w)
++ [GPU性能的第一性原理](https://mp.weixin.qq.com/s/NF0vhAkYXhz5uiGcPL5QSw)
 
 ## 网络基础
 

@@ -855,6 +855,7 @@
 + [面试官：说说看Redis底层数据类型有哪些？Redis为什么这么快？Redis为什么引入多线程？Redis多线程实现机制是怎样？](https://mp.weixin.qq.com/s/_K7FlG5TL2-S7HVhJatIqg)
 + [Redis是单线程还是多线程？](https://mp.weixin.qq.com/s/EjvYTenmP9pQ-qdET0rl8A)
 + [Redis中的持久化机制——AOF篇](https://mp.weixin.qq.com/s/RkY6L--vO546LPwgKIrfwA)
++ [阿里面试问：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/9VArWZz0pbu6-3tn9UKPtw)
 
 #### 分布式锁
 

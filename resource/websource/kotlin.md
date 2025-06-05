@@ -32,3 +32,4 @@
 + [报名 2025 Google Summer of Code，共建 Kotlin 开源生态！｜官方博客](https://mp.weixin.qq.com/s/G7snXDpc-BCTtxheG4g44g)
 + [Podcast |《Kotlin 炉边漫谈》第 18 期：KotlinConf’24 现场聊参会体验](https://mp.weixin.qq.com/s/SE_oy4bDY7sf5AnbqhR-XA)
 + [里程碑式发布：Compose Multiplatform for iOS 稳定并可投入生产环境 | 官方博客](https://mp.weixin.qq.com/s/krmcxPcVuni2Q0HmvpSlNA)
++ [KotlinConf 2025 解析：即将推出的语言功能、AI 赋能开发以及 Kotlin Multiplatform 升级](https://mp.weixin.qq.com/s/_uEhFUmduvGpEx04bIfsRA)

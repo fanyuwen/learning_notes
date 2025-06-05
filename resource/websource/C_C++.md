@@ -32,6 +32,7 @@
 + [C++容器之std::list和std::forward_list](https://mp.weixin.qq.com/s/dP7qDcp4o0xcW-_7bVLhxA)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
++ [c++编程初级第六讲：结构体](https://mp.weixin.qq.com/s/DRxe0r2LT0W7-whqm8XBTQ)
 + [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
 + [C++容器之迭代器](https://mp.weixin.qq.com/s/juS0p_W2E9erjkOIpubxTA)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
@@ -64,6 +65,7 @@
 + [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
++ [C++容器之std::stack和std::queue](https://mp.weixin.qq.com/s/vvhgJWdZTMoneeq1jYBJIw)
 + [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
 + [C++：位运算](https://mp.weixin.qq.com/s/h4JCbO6D3MJCRS5fRrRR3w)
 + [C++回调函数](https://mp.weixin.qq.com/s/KfI36Rf_hB5IxI1tvqllMw)
@@ -282,6 +284,7 @@
 + [open与fopen的区别](https://mp.weixin.qq.com/s/kGc4VIcMu6SKx1hQr303xw)
 + [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
 + [用 C 语言编写的嵌入式软件，需要强调高内聚低耦合吗？](https://mp.weixin.qq.com/s/pKGD2dz5FYhCbBy3JaIFqw)
++ [嵌入式编程基础 | C语言的关键字有哪些，哪些词容易混淆为关键字？](https://mp.weixin.qq.com/s/vJowEt_Cha_zlUrrHx1HBg)
 
 ### 资讯
 

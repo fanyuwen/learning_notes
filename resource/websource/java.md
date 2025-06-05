@@ -308,6 +308,8 @@
 + [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
 + [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
 + [Java真的不难（六十八）状态模式的深入分析及在订单状态管理系统中的应用（附源码）](https://mp.weixin.qq.com/s/Cp60ecPLUDILa7gTJlxL4A)
++ [Java真的不难（七十一）解释器模式的深入分析及权限规则检查业务案例](https://mp.weixin.qq.com/s/QytyAaafk5Fwo5jbJVRwsQ)
++ [Java真的不难（七十二）抽象工厂模式概念及在电商系统中的组合应用（纯干货）](https://mp.weixin.qq.com/s/mF1sV1X-OerdkS9i9F3q5g)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -364,6 +366,8 @@
 + [Java真的不难（六十五）使用Stream流来替代传统繁琐循环的多个案例（附源码）](https://mp.weixin.qq.com/s/wKqrRCd9ksQ5SGQj0CjWhA)
 + [Java8自定义函数式接口及其应用场景](https://mp.weixin.qq.com/s/KS6Fm-GNc7olT-5SIaBrew)
 + [lambda表达式之list便捷处理](https://mp.weixin.qq.com/s/9-CluT-kpFuHjSDf7P5sBw)
++ [Java 异常处理的五个高质量写法技巧](https://mp.weixin.qq.com/s/YpLiC5b2_bYpl6GQ2NY6EA)
++ [从青铜到王者：根治Java空指针的5层境界，你卡在哪一级？](https://mp.weixin.qq.com/s/SSwZzRSxvftJCiHdt6KKfw)
 
 ## 代码质量
 
@@ -435,6 +439,7 @@
 + [如何正确地对接口进行防御式编程](https://mp.weixin.qq.com/s/A77oM1qMkcfh7otyrQRVqA)
 + [京东一面：为什么 IDEA 建议去掉 StringBuilder，而要使用 “+” 拼接字符串？](https://mp.weixin.qq.com/s/dsWtkjIBBxIbei9bPAzYzw)
 + [Java中30个代码优化技巧，建议收藏！](https://mp.weixin.qq.com/s/ZOISHoc2jVSv9JgWHk8c1w)
++ [厕所二面：List<Bean>怎么用contains方法？](https://mp.weixin.qq.com/s/s5YQPKG98qPsjxENJFyp1w)
 
 # 底层
 
@@ -526,6 +531,7 @@
 + [一文搞懂Comparable、Comparator与集合排序之间的“恩恩怨怨”](https://mp.weixin.qq.com/s/9hcgA07uOvkEKj14SxiN9Q)
 + [函数式接口Function的简单使用](https://mp.weixin.qq.com/s/6rXp-h5RmrSbfrcF_40TSQ)
 + [面试官：forEachRemaining的用法，与forEach的区别？](https://mp.weixin.qq.com/s/rx0r7nt3BpbrHOclgtstog)
++ [Java 中 finally 块一定会执行吗？你未必真的了解](https://mp.weixin.qq.com/s/IO-LuM4bJaOyjVoQpSF4qg)
 
 ### IO
 
@@ -857,6 +863,7 @@
 + [面试官：说说方法区和永久代以及元空间有什么关系？](https://mp.weixin.qq.com/s/cNXxpFzGmzA8q14QbuseYQ)
 + [Java 进阶：JVM 架构篇](https://mp.weixin.qq.com/s/Vf7JwZbkXxJ3b9KIgCG03Q)
 + [新来的小伙伴上来就搞 JVM 调优，还将接口吞吐量提高了 22.5%，被狠狠夸了！](https://mp.weixin.qq.com/s/VWj22UmDc5qy_P5nq_sM1A)
++ [《揭秘Java虚拟机（JVM）核心机制：从跨平台到不同版本虚拟机的全面解析》](https://mp.weixin.qq.com/s/-7YiIBHSDrKfkM7aw31SHw)
 
 ### 命令
 
@@ -1316,6 +1323,7 @@
 + [java并发工具——CountDownLatch](https://mp.weixin.qq.com/s/GuOXBZGjyYciqglPcx0wXg)
 + [Java多线程编程之Semaphore](https://mp.weixin.qq.com/s/sqWNfZpcq6pz0SVSe4YARQ)
 + [与传统累加器对比，LongAdder 为何如此出众？](https://mp.weixin.qq.com/s/C6p31rCH-Pqwk_vdGbt8Jw)
++ [java并发之Semaphore](https://mp.weixin.qq.com/s/YMpw61UM7A7j7umOYRnb6w)
 
 ## IO/NIO
 
@@ -1369,6 +1377,7 @@
 + [Java 动态代理](https://mp.weixin.qq.com/s/Wvm1NebigHELrz_qgyNgvA)
 + [【Java面试100题突击】96 动态代理是如何实现的？JDK动态代理和CGLIB动态代理有什么区别？](https://mp.weixin.qq.com/s/L1DWYCPuov_10iOZE9BiYg)
 + [深入解析与实战 JavaCompiler API：动态编译Java源代码](https://mp.weixin.qq.com/s/UP7adg1d7_XsylQkq9anNg)
++ [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
 
 # 包管理工具
 
@@ -2074,6 +2083,7 @@
 + [spring 申明式事务总结](https://mp.weixin.qq.com/s/V7_MEEK-KDnU92f45ez_Iw)
 + [工作 6 年才发现，@Transactional 藏着这么多坑](https://mp.weixin.qq.com/s/8qqGnOTx1vf9sXORy3WGoQ)
 + [Spring多线程事务能否保证事务的一致性?](https://mp.weixin.qq.com/s/0c77HN30eO0wEJ5cGrImEw)
++ [全网最通俗！Spring 事务传播行为用故事讲明白了！](https://mp.weixin.qq.com/s/taf6pngDHoF48OQl_jH5hw)
 
 ### Log
 
@@ -2266,6 +2276,7 @@
 + [万字长文！深入源码，彻底掌握Spring Cloud Gateway底层原理](https://mp.weixin.qq.com/s/HBd7fOxqDIr6tqPvM9b3xw)
 + [Spring Cloud Gateway 统一分布式系统认证架构实践](https://mp.weixin.qq.com/s/PVoD9AsKSalxWbGhzRDTyw)
 + [微服务网关升级：Spring Cloud Gateway 整合 Nacos 实现服务请求自动转发+负载均衡！](https://mp.weixin.qq.com/s/z3XQFysrSlVF-OBtviuAEQ)
++ [高并发场景下，Spring Cloud Gateway如何抗住百万并发？](https://mp.weixin.qq.com/s/CEB-Cb2bQojR1DPmXq7GVQ)
 
 #### AI
 
@@ -2974,6 +2985,7 @@
 + [SpringBoot分库分表实战：原理与ShardingSphere实现](https://mp.weixin.qq.com/s/D-t3tbxDaysPiOVEr2teaQ)
 + [SpringBoot与HikariCP整合，实现数据库连接池动态优化系统](https://mp.weixin.qq.com/s/biPqz9FnpVAVksp2yIxN7g)
 + [SpringBoot中Redis的7种序列化策略](https://mp.weixin.qq.com/s/FlqEsVesLv6LdoHgaoCURQ)
++ [SpringBoot 接入 Redis 实现缓存秒懂教程](https://mp.weixin.qq.com/s/H7Rirxt3JWG2EF7xHCMakA)
 
 ##### TRANSACTION
 
@@ -3403,6 +3415,8 @@
 + [SpringBoot中5种服务可用性保障技术](https://mp.weixin.qq.com/s/tvbWGrnvr4D5A81dtUtDYQ)
 + [SpringBoot中如何引入第三方的SDK](https://mp.weixin.qq.com/s/zNtBFADUMtHKUhSztHI-aQ)
 + [SpringBoot 快速实现 IP 地址解析](https://mp.weixin.qq.com/s/7klvtGHMxho3M7mBBb74uw)
++ [SpringBoot 集成 RocketMQ：异步消息队列实战，让系统飞起来！](https://mp.weixin.qq.com/s/oGin8pw8Nd2P-uwYtAVyVw)
++ [SpringBoot 与 ZXing 完美结合](https://mp.weixin.qq.com/s/Xu4Sc8xSeveEE86in0trEw)
 
 #### test
 

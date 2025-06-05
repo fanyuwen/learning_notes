@@ -128,6 +128,8 @@
 + [使用 rsync 进行大文件复制](https://mp.weixin.qq.com/s/M6MCzHXowYXeQngFvGG10g)
 + [Linux Cron定时任务：让自动化成为你的得力助手](https://mp.weixin.qq.com/s/Kko18WCdGFHRnd6Rn4w69g)
 + [Shell 脚本系统学习 · 第3篇 Bash 常用快捷键大全](https://mp.weixin.qq.com/s/f06qP8WQ62ae4oRNGy6NXg)
++ [Linux程序调试命令strace简介](https://mp.weixin.qq.com/s/fl-fgyuxs6sbQSrL3iaQ5g)
++ [Linux操作系统实战：进程创建的底层原理](https://mp.weixin.qq.com/s/39DZI6zifklzNfk8ZY75ew)
 
 ### 网络
 
@@ -140,6 +142,7 @@
 + [深入Linux内核理解socket的本质](https://mp.weixin.qq.com/s/9oUhw-iXr6vwMo6vtBAguQ)
 + [Linux 网络数据包的接收和发送流程](https://mp.weixin.qq.com/s/YG_9N41AweQ3IqO_fjpidw)
 + [Linux 内核中的套接字 - 第 1 部分：接收时的四层协议解复用](https://mp.weixin.qq.com/s/4YfiWa5fWGyl9QtfRGuNZA)
++ [Linux 网络第一部分：内核网络栈](https://mp.weixin.qq.com/s/JN-2pHj5lkCFFYd1bwIbwA)
 
 ### 命令
 
@@ -199,6 +202,8 @@
 + [Linux常用命令 - scp【OpenSSH 安全文件拷贝】](https://mp.weixin.qq.com/s/K-DfNaYXSuKmWCxHUNFe9g)
 + [运维人的Linux工具箱：这20个命令能救急](https://mp.weixin.qq.com/s/6uzksdZs2S81WJU6mqcuFA)
 + [Linux 系统中常用的磁盘管理命令](https://mp.weixin.qq.com/s/JhROCZb5TAfO1ekhKBkKdg)
++ [Shell脚本编程：7个提高效率的自动化脚本](https://mp.weixin.qq.com/s/5s1JEvJ1XhXRT-r-hcNKUw)
++ [Shell 脚本系统学习 · 第4篇：输入输出重定向详解](https://mp.weixin.qq.com/s/BnbR4KTmylK6i6jLrBuEBw)
 
 ### 发行版信息
 
@@ -257,6 +262,8 @@
 + [程序变慢的真相：CPU缓存与内核如何影响性能？](https://mp.weixin.qq.com/s/AWCAFcuW3OGp4VwyjR4SQg)
 + [揭秘保护模式：CPU如何筑起操作系统的安全防线](https://mp.weixin.qq.com/s/gEo3-9MIF6XGvY53rPbvzQ)
 + [解锁程序性能密码：CPU优化全攻略](https://mp.weixin.qq.com/s/q6nl5drRR4Q1w12SVS9qbw)
++ [解锁CPU上下文切换：深入理解计算机的“幕后舞者”](https://mp.weixin.qq.com/s/gl9f4KHsaiamIg0cjPhc4Q)
++ [CPU时钟周期结构原理](https://mp.weixin.qq.com/s/h88ZrmTzWxhEoK1iOKQU6Q)
 
 ### 并发
 
@@ -284,6 +291,7 @@
 + [一文看懂内存管理及TLB的基本原理](https://mp.weixin.qq.com/s/jAWplzpQ3x7tJVYQqUjbLA)
 + [内存的构成原理](https://mp.weixin.qq.com/s/SHFaKG4InE6keQwebLpPEg)
 + [内存一路狂飙，如何精准揪出“幕后黑手”](https://mp.weixin.qq.com/s/fPsBFxbbkAHaPQ6KHy1jog)
++ [内存的工作原理](https://mp.weixin.qq.com/s/tbbFIxAV4FPXXQOlAr51uQ)
 
 ## GPU
 

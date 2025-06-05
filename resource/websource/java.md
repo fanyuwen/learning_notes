@@ -719,6 +719,7 @@
 + [Java 线程池详解，图文并茂，我看还有谁不会？！](https://mp.weixin.qq.com/s/f2ZO-Drd6MbGXS03azHCvg)
 + [动态调试线程池？这几个坑让我崩溃三天](https://mp.weixin.qq.com/s/TAphsDYqyMS4YL-6VknINg)
 + [解锁Java线程池：ThreadPoolExecutor与Executors深度解析与应用实践](https://mp.weixin.qq.com/s/eD5bhmYRWbW7DVk-_1iXTg)
++ [线程池之ForkJoinPool](https://mp.weixin.qq.com/s/NV8x2bqUb-RIEHy56fgBJg)
 
 #### 锁
 
@@ -1324,6 +1325,7 @@
 + [Java多线程编程之Semaphore](https://mp.weixin.qq.com/s/sqWNfZpcq6pz0SVSe4YARQ)
 + [与传统累加器对比，LongAdder 为何如此出众？](https://mp.weixin.qq.com/s/C6p31rCH-Pqwk_vdGbt8Jw)
 + [java并发之Semaphore](https://mp.weixin.qq.com/s/YMpw61UM7A7j7umOYRnb6w)
++ [阻塞队列之DelayQueue](https://mp.weixin.qq.com/s/pNOxg0mNQIVdqJm2tlDOMg)
 
 ## IO/NIO
 
@@ -1473,6 +1475,7 @@
 + [高性能无锁队列 Disruptor 核心原理分析及其在 i 主题业务中的应用](https://my.oschina.net/vivotech/blog/15344271)
 + [超越传统队列！Disruptor如何重塑高并发事件处理格局](https://mp.weixin.qq.com/s/70PmTY7KDtLOy0-ZJ011Ow)
 + [解锁高性能环形队列：Disruptor 4.0.0 核心解析与应用实践](https://mp.weixin.qq.com/s/5cV5waMwAhEImDZASOrjzQ)
++ [Disruptor生产者源码分析](https://mp.weixin.qq.com/s/YZ1kd-8ClvTSXEvBPLViEQ)
 
 ## dubbo
 
@@ -1853,6 +1856,7 @@
 + [Spring框架资源访问策略详解（Resource接口）](https://mp.weixin.qq.com/s/zkySS4llctvZRrdgiCNp3w)
 + [面试官：你能从源码讲讲@Autowired怎么自动装配的吗？我：…](https://mp.weixin.qq.com/s/BZiSDkRWwzOShMruswTRSw)
 + [Java面试题：Spring篇](https://mp.weixin.qq.com/s/yMWJEqKtbGtsMN-pDZJHaQ)
++ [面试被问@Autowired实现原理时，我崩溃了……](https://mp.weixin.qq.com/s/QvLUf7jz8yGpqqG8uRH49Q)
 
 #### 配置
 
@@ -2098,6 +2102,7 @@
 + [【内含例子代码】Spring框架的设计模式应用（第二集）](https://mp.weixin.qq.com/s/sqxJonwXVXLH6xPtq8kZeQ)
 + [使用 Pipeline 模式解耦电商保险等复杂业务](https://mp.weixin.qq.com/s/Lv3Fx3KnVOMgjCjRQvh2lQ)
 + [Spring框架模板方法模式的使用](https://mp.weixin.qq.com/s/VdAVx9pIbFhnnvUHDeapHg)
++ [聊一聊观察者模式在Spring框架中的应用](https://mp.weixin.qq.com/s/SAwT0bjYJdd7PSzALvxotg)
 
 ### STATEMACHINE
 

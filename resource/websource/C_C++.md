@@ -4,13 +4,10 @@
 
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
 + [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
-+ [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
-+ [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 + [简单学习大佬常用命令之gdb命令](https://mp.weixin.qq.com/s/MWQQSZM8JTITqgMsrBPDcQ)
 + [内存泄漏无处藏身 | GCC -fsanitize=leak 实战攻略](https://mp.weixin.qq.com/s/4HvmIgqFHzb_QRf7_eV87Q)
 + [让内存错误无所遁形 | GCC -fsanitize=address 实战解析](https://mp.weixin.qq.com/s/8fg_xA5ZzixyjFbZvdjvBw)
 + [glibc 内存分配与释放机制详解](https://my.oschina.net/vivotech/blog/16510054)
-+ [CMake之官方Tutorial(Usage Requirements)](https://mp.weixin.qq.com/s/TQWRhmGbutRmvk97HVC1Xg)
 + [【从0实现muduo库系列】第一讲：CMake构建大型项目](https://mp.weixin.qq.com/s/ZajZY0_WR4HIS2jqoydiXw)
 + [binary instrumentation: 二进制执行文件插桩简介](https://mp.weixin.qq.com/s/oI_20zrhkfQrxrv0AJTpig)
 + [一文讲透串口（UART）通信，超级详细！！！](https://mp.weixin.qq.com/s/NIp5eZHwrEJd5XQg5dN96w)
@@ -18,7 +15,15 @@
 + [探秘glibc malloc：解锁内存分配的黑匣子](https://mp.weixin.qq.com/s/vAboDVlJOeb85urKYC2Acw)
 + [编译工具：gcc，GUN，MinGW，MSVC，make、cmake，Ninja](https://mp.weixin.qq.com/s/dGKmbdMA71aBVpPtyNAPYw)
 + [C++性能测试工具——sysprof的使用](https://mp.weixin.qq.com/s/KiGc7eqHsJNruWHi4xm_Hw)
++ [glibc堆内存管理：原理、机制与实战](https://mp.weixin.qq.com/s/IXizno8MlbwQgRGwQVhR4A)
+
+### cmake
+
++ [CMake之官方Tutorial(Usage Requirements)](https://mp.weixin.qq.com/s/TQWRhmGbutRmvk97HVC1Xg)
 + [CMake之常用语法(循环)](https://mp.weixin.qq.com/s/XhivJkXNef1HlO0cdIhBVw)
++ [CMake之常用语法(函数)](https://mp.weixin.qq.com/s/mqWifGmH-ttdKIuNwU7GXg)
++ [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
++ [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 
 ## C++
 
@@ -65,6 +70,10 @@
 + [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
++ [聊一聊std::string](https://mp.weixin.qq.com/s/w4SenRMz1GA1re8s4cyIwg)
++ [C++容器之std::array](https://mp.weixin.qq.com/s/Zu1gYXIePmphSBtvr1DEqw)
++ [C++容器之std::deque](https://mp.weixin.qq.com/s/NmyCXlGsjB4xwl4iYrwOhg)
++ [C++容器之std::vector](https://mp.weixin.qq.com/s/VF9T9Zd6Zbn66T132MG1rw)
 + [C++容器之std::stack和std::queue](https://mp.weixin.qq.com/s/vvhgJWdZTMoneeq1jYBJIw)
 + [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
 + [C++：位运算](https://mp.weixin.qq.com/s/h4JCbO6D3MJCRS5fRrRR3w)
@@ -79,6 +88,7 @@
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
++ [跟我学C++中级篇——Linux常见的异步编程方式](https://mp.weixin.qq.com/s/3WMJFHUSGFNOUe4U7YONRg)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
 + [【C++】使用gdb在命令行下调试C++程序（一）](https://mp.weixin.qq.com/s/lhvAjRoI94DV-VbGowavWg)
 + [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
@@ -285,6 +295,7 @@
 + [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
 + [用 C 语言编写的嵌入式软件，需要强调高内聚低耦合吗？](https://mp.weixin.qq.com/s/pKGD2dz5FYhCbBy3JaIFqw)
 + [嵌入式编程基础 | C语言的关键字有哪些，哪些词容易混淆为关键字？](https://mp.weixin.qq.com/s/vJowEt_Cha_zlUrrHx1HBg)
++ [C语言实现PID算法](https://mp.weixin.qq.com/s/JsJzdk_lUW4DJFrZlemmAA)
 
 ### 资讯
 
@@ -306,6 +317,7 @@
 + [嵌入式开发神器：手把手教你打造超轻量级命令行shell](https://mp.weixin.qq.com/s/H0x2QYkhyqoQChgEqm-MwQ)
 + [嵌入式开发中断言（assert）的硬核指南：从调试到生产](https://mp.weixin.qq.com/s/FPZeFava1BnVMUPbmKRT0A)
 + [嵌入式开发避坑指南：如何破解FreeRTOS优先级反转问题](https://mp.weixin.qq.com/s/J6UFnDPfrV7kJlXg9BQ9UQ)
++ [嵌入式硬核进阶之路：手写TCP/IP协议栈第一步](https://mp.weixin.qq.com/s/_hCBqTG132y9DPmOkPqrKw)
 
 # ARM
 

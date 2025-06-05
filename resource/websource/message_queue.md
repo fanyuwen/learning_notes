@@ -121,6 +121,7 @@
 + [Kafka 4.0 KRaft架构深度解析](https://mp.weixin.qq.com/s/O5ghrqOPquICVs3mhV1Few)
 + [Kafka如何处理消息积压(4大解决方案)](https://mp.weixin.qq.com/s/RvfyywBaehvWafH77PwYpQ)
 + [高并发场景下，Kafka如何解决消息堆积?](https://mp.weixin.qq.com/s/YV4p6_jipnOUBjMGAhaNrQ)
++ [Kafka如何实现高并发(4大关键技术)](https://mp.weixin.qq.com/s/gJNOMeXNOLejTnMpsCYpLg)
 
 # ROCKETMQ
 

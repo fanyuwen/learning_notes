@@ -65,6 +65,9 @@
 + [有哪些算法惊艳到了你？（五）](https://mp.weixin.qq.com/s/He8rPSDX-H0fpZAqkD84XQ)
 + [设计心得——数据结构的意义](https://mp.weixin.qq.com/s/EIUWcF3xSR4cHFDXpKz1jQ)
 + [数据结构之树结构——树的表示方法和树的存储](https://mp.weixin.qq.com/s/cuAYBVGwcIYcuqbhe4j_Vw)
++ [数据结构之树结构——二叉树的定义和基本性质](https://mp.weixin.qq.com/s/erDJEAAUcbpR2WWQM20CHw)
++ [数据结构之树结构——二叉树的表示与存储](https://mp.weixin.qq.com/s/DVgGjkau2MDAeRIgftElVw)
++ [【数据结构】组链队栈树大总结](https://mp.weixin.qq.com/s/zJcDjh1McaXemqpialEn2Q)
 
 ## 排序算法
 

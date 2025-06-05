@@ -163,3 +163,7 @@
 
 + [15. 解释器模式：Java中的语法分析利器](https://mp.weixin.qq.com/s/wqQf_-tXUMHkSsi2Fx5fEg)
 + [聊一聊：设计模式——解释器模式](https://mp.weixin.qq.com/s/XhQnS4ciJhFDRnm3sMma6Q)
+
+## 迭代器模式
+
++ [聊一聊：设计模式——迭代器模式](https://mp.weixin.qq.com/s/dtYwIir3-cQ3bmlbYIEusA)

@@ -66,6 +66,7 @@
 + [【C++】auto和decltype关键字的作用与使用](https://mp.weixin.qq.com/s/kNiSfIWlSBnZ4tHThWEyWQ)
 + [C++枚举 enum vs enum class，该怎么选？](https://mp.weixin.qq.com/s/8NexC65ul0HacGXyXyyb1A)
 + [【C++】内联函数引起的作用域问题](https://mp.weixin.qq.com/s/WNki29uv6akcSYvsOApKzw)
++ [跟我学C++中级篇——STL容器的查找对比](https://mp.weixin.qq.com/s/OTLmyBZtSULLOub6ct11rQ)
 + [【一分钟学C++】优先使用deleted函数而非私有声明](https://mp.weixin.qq.com/s/C3GkzBAZ1gZa1AFjbBWGMA)
 + [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)

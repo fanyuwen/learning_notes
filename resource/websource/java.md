@@ -440,6 +440,7 @@
 + [京东一面：为什么 IDEA 建议去掉 StringBuilder，而要使用 “+” 拼接字符串？](https://mp.weixin.qq.com/s/dsWtkjIBBxIbei9bPAzYzw)
 + [Java中30个代码优化技巧，建议收藏！](https://mp.weixin.qq.com/s/ZOISHoc2jVSv9JgWHk8c1w)
 + [厕所二面：List<Bean>怎么用contains方法？](https://mp.weixin.qq.com/s/s5YQPKG98qPsjxENJFyp1w)
++ [Java中提升代码质量的一些编程习惯](https://mp.weixin.qq.com/s/vz4yX9UsxktHoLNTgHseYw)
 
 # 底层
 

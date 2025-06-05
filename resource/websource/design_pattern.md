@@ -36,6 +36,7 @@
 + [最常用的7种设计模式](https://mp.weixin.qq.com/s/26JAYIuIKHajkgPRpWRZVQ)
 + [代码更优雅！开发者不能错过的5种设计模式](https://mp.weixin.qq.com/s/V53Cj2B5nIF899eO1YmLKw)
 + [Java设计模式之创建型](https://mp.weixin.qq.com/s/tC9HjSf9JSapjcU0WDsSnA)
++ [设计模式（结构型）](https://mp.weixin.qq.com/s/Rqu3QWKY44nbL1Xo3LcncA)
 
 ## 原则
 

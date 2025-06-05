@@ -204,6 +204,7 @@
 + [Linux 系统中常用的磁盘管理命令](https://mp.weixin.qq.com/s/JhROCZb5TAfO1ekhKBkKdg)
 + [Shell脚本编程：7个提高效率的自动化脚本](https://mp.weixin.qq.com/s/5s1JEvJ1XhXRT-r-hcNKUw)
 + [Shell 脚本系统学习 · 第4篇：输入输出重定向详解](https://mp.weixin.qq.com/s/BnbR4KTmylK6i6jLrBuEBw)
++ [Shell 脚本系统学习 · 第 6 篇：变量命名规则与注意事项（特殊符号、命名习惯）](https://mp.weixin.qq.com/s/kUxfgzvAnbBe7r7KWfa_Kw)
 
 ### 发行版信息
 

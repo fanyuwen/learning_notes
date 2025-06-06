@@ -94,6 +94,7 @@
 + [SQL 入门 13：SQL 存储过程与函数：封装逻辑与参数处理](https://mp.weixin.qq.com/s/-UoEiE1z19Y15NqhBQCKhw)
 + [SQL窗口函数：排序分布聚合函数案例解析](https://mp.weixin.qq.com/s/KtuZIKchoUELPZg2WgVmEQ)
 + [10个SQL优化技巧，性能提升300%](https://mp.weixin.qq.com/s/u1PPK1cxe2eyefijTw78og)
++ [SQL 优化：提升数据库性能的艺术](https://www.oschina.net/news/353509)
 
 # 本地数据库
 

@@ -74,6 +74,7 @@
 + java生态版本管理工具 [sdkman](https://sdkman.io/)
 + 静态java质量管理工具 [findbugs](https://findbugs.sourceforge.net/) [archunit](https://www.archunit.org/) [checkstyle](https://checkstyle.org/) [OWASP DependencyCheck](https://owasp.org/www-project-dependency-check/)
 + java源代码分析工具 [javaparser](https://javaparser.org)
++ java打包二进制工具 [launch4j](https://launch4j.sourceforge.net/index.html)
 + 移动端应用debugger工具 [fbflipper](https://fbflipper.com)
 + 代码覆盖工具 [emma](https://emma.sourceforge.net/index.html) [jacoco](https://www.jacoco.org/jacoco/)
 + 容器化测试平台 [testcontainer](https://testcontainers.com/)

@@ -95,6 +95,7 @@
 + [SQL窗口函数：排序分布聚合函数案例解析](https://mp.weixin.qq.com/s/KtuZIKchoUELPZg2WgVmEQ)
 + [10个SQL优化技巧，性能提升300%](https://mp.weixin.qq.com/s/u1PPK1cxe2eyefijTw78og)
 + [五个让你SQL性能飙升的优化技巧](https://mp.weixin.qq.com/s/yTHziaqysb7zwXSEBlFY1w)
++ [SQL 优化：提升数据库性能的艺术](https://www.oschina.net/news/353509)
 
 # 本地数据库
 

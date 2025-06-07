@@ -182,6 +182,7 @@
 + [一文带你彻底弄懂前缀索引！](https://mp.weixin.qq.com/s/oq8dgHszYxu9X_gQYlYWTA)
 + [MySQL 与 Redis 缓存一致性保障：从理论到深度实践【颠覆传统更新库再更新缓存的错误认知】](https://mp.weixin.qq.com/s/TsX_OucP294cAs5QfVGOmg)
 + [死锁是否可以彻底避免?](https://mp.weixin.qq.com/s/hXEKuKgcHGZVMurOZe7Znw)
++ [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/Mme6KlMaPhDbz9wIddeNaA)
 
 ## 关系型数据库
 
@@ -425,6 +426,7 @@
 + [MySQL数据库——存储引擎（InnoDB、MyISAM、MEMORY、ARCHIVE）](https://mp.weixin.qq.com/s/-AUH-KXHiB_PDtWBQvnUIA)
 + [MySQL存储引擎InnoDB相关知识](https://mp.weixin.qq.com/s/xlgoW2g9KFojAimz1nEmNg)
 + [MySQL 的存储引擎到底怎么选？InnoDB vs MyISAM 深度对比](https://mp.weixin.qq.com/s/6GsxL5fdpXqTJ_0_6RxUEw)
++ [一条 INSERT 背后的秘密：揭开 InnoDB 记录结构的神秘面纱。](https://mp.weixin.qq.com/s/LUA65F1aanDZM4prllH-7Q)
 
 #### MVCC
 
@@ -823,6 +825,7 @@
 + [Redis内存溢出故障排查](https://mp.weixin.qq.com/s/5ghejVDBjfG-WAM9J83-4w)
 + [实例演示：Redis集群强大的可伸缩性](https://mp.weixin.qq.com/s/wjrCeHRRS0musvNJcXjOvw)
 + [知己知彼：Redis集群中的节点信息详解](https://mp.weixin.qq.com/s/LRNcKUtBlDzavucth_jklw)
++ [Redis中的事务处理](https://mp.weixin.qq.com/s/EPMZyHIf6nkYX83P8dQ0FQ)
 
 #### 原理
 
@@ -860,6 +863,7 @@
 + [Redis中的持久化机制——AOF篇](https://mp.weixin.qq.com/s/RkY6L--vO546LPwgKIrfwA)
 + [阿里面试问：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/9VArWZz0pbu6-3tn9UKPtw)
 + [Redis中字符串类型是如何实现的](https://mp.weixin.qq.com/s/pKA1_kV6Hkynd_sbWAHtOA)
++ [Redis中hash数据类型的实现原理](https://mp.weixin.qq.com/s/JgfWTQ7vtBKZ7fdDBtKKvg)
 
 #### 分布式锁
 

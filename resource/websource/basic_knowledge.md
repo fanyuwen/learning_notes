@@ -132,6 +132,7 @@
 + [Linux操作系统实战：进程创建的底层原理](https://mp.weixin.qq.com/s/39DZI6zifklzNfk8ZY75ew)
 + [一文看懂Linux内存分配，告别“内存小白”！](https://mp.weixin.qq.com/s/2b-oBvWL2cGfkDAk9pdqAw)
 + [Linux系统init方式详解](https://mp.weixin.qq.com/s/ASB5PaYQp08Qp5ZoytQ6IQ)
++ [深入Linux系统调用：原理、机制与实战全解析](https://mp.weixin.qq.com/s/jG__bMsbAubdDB56ldYhag)
 
 ### 网络
 
@@ -295,6 +296,7 @@
 + [内存的构成原理](https://mp.weixin.qq.com/s/SHFaKG4InE6keQwebLpPEg)
 + [内存一路狂飙，如何精准揪出“幕后黑手”](https://mp.weixin.qq.com/s/fPsBFxbbkAHaPQ6KHy1jog)
 + [内存的工作原理](https://mp.weixin.qq.com/s/tbbFIxAV4FPXXQOlAr51uQ)
++ [eBPF+内核调优：动态追踪内存碎片的终极武器](https://mp.weixin.qq.com/s/y4YZNgDJYrgcVD9acqQGQA)
 
 ## GPU
 

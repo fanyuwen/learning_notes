@@ -69,6 +69,8 @@
 + [数据结构之树结构——二叉树的表示与存储](https://mp.weixin.qq.com/s/DVgGjkau2MDAeRIgftElVw)
 + [【数据结构】组链队栈树大总结](https://mp.weixin.qq.com/s/zJcDjh1McaXemqpialEn2Q)
 + [惊艳我的 LRU 算法：程序员刷题路上的第一道“神题”](https://mp.weixin.qq.com/s/747cuXLlCDYHkAlnr38stA)
++ [跟着论文学习图数据库 | ByteGraph](https://mp.weixin.qq.com/s/735tLGszXrtznx1Stl_ajg)
++ [数据结构之树结构——树的定义和相关概念](https://mp.weixin.qq.com/s/miWh0jwVf4fcPqkqyCbdDw)
 
 ## 排序算法
 

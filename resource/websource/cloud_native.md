@@ -63,6 +63,7 @@
 ## podman
 
 + [debian11 使用podman 搭建 nacos-server](https://mp.weixin.qq.com/s/51jtO76ySZuAfOYLtOZ0ng)
++ [Docker 大势已去，Podman 即将崛起](https://mp.weixin.qq.com/s/0nNSJlIwc41U0-9r0eX1bg)
 
 ## k8s
 

@@ -314,6 +314,7 @@
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
++ [彻底简化复杂系统！用门面模式重构 Java 代码的终极指南](https://mp.weixin.qq.com/s/rYJMjACjjCphHwpHfJAiHw)
 + [Java真的不难（六十七）备忘录模式的深入分析及文本编辑器案例](https://mp.weixin.qq.com/s/gNbGNtypc3x0n6BKPTwJmw)
 + [Java真的不难（四十四）适配器模式及在支付系统集成中的应用](https://mp.weixin.qq.com/s/giZLP7ks-x_7RED-XLyU6g)
 + [状态设计模式（State Pattern）在 Java 中的应用](https://mp.weixin.qq.com/s/-KU5OBc_ayjx2xUvlhjW8A)
@@ -534,6 +535,7 @@
 + [函数式接口Function的简单使用](https://mp.weixin.qq.com/s/6rXp-h5RmrSbfrcF_40TSQ)
 + [面试官：forEachRemaining的用法，与forEach的区别？](https://mp.weixin.qq.com/s/rx0r7nt3BpbrHOclgtstog)
 + [Java 中 finally 块一定会执行吗？你未必真的了解](https://mp.weixin.qq.com/s/IO-LuM4bJaOyjVoQpSF4qg)
++ [面试官：Map在循环中能不能操作？有什么注意事项？](https://mp.weixin.qq.com/s/y9EvgeZxbQ3dg6GI8GXC3g)
 
 ### IO
 
@@ -1653,6 +1655,7 @@
 + [MybatisPlus不好用？帅小伙一气之下写了个MybatisPlusPro！](https://mp.weixin.qq.com/s/-SkHBg3CYlm-jbV_MXDC6w)
 + [MyBatis-Plus中联表查询用法](https://mp.weixin.qq.com/s/rIE8eLYuPuEfjOOJp_gB_Q)
 + [数据库枚举类型如何设计？看看MyBatis-Plus的处理](https://mp.weixin.qq.com/s/yo890PFsSCKlUMEeCoc0tA)
++ [看了我的MyBatis-plus用法，全公司同事开始悄悄模仿了。。](https://mp.weixin.qq.com/s/B-OKGZlLVd3EfmfBxuV5bg)
 
 ## nacos
 
@@ -2173,6 +2176,7 @@
 + [为什么Spring不用静态代理？先搞懂静态代理的三大硬伤！](https://mp.weixin.qq.com/s/dkxqfZJPZxbktNBu2Cf0Tg)
 + [JavaSec | SpringAOP 链学习分析](https://mp.weixin.qq.com/s/BBjpXCa8BcFPYdl6nJu-Kg)
 + [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/JDFQQiecUJeaNt37AP7UKQ)
++ [没有Spring AOP的话，Java代码很难保持简洁](https://mp.weixin.qq.com/s/rM40DZ8esKaoLjdl2mJQcw)
 
 ### 配置打包部署
 
@@ -2464,6 +2468,7 @@
 + [架构师必知：SpringBoot性能优化的12招](https://mp.weixin.qq.com/s/Xw-BWOrzm-H_NNr9GMQSwQ)
 + [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
 + [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/Fk5DVgtJ5yUskJRj0w5z_w)
++ [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
 
 #### 版本特性
 
@@ -3660,6 +3665,7 @@
 # 相关文章
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
++ [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)

@@ -16,6 +16,7 @@
 + [编译工具：gcc，GUN，MinGW，MSVC，make、cmake，Ninja](https://mp.weixin.qq.com/s/dGKmbdMA71aBVpPtyNAPYw)
 + [C++性能测试工具——sysprof的使用](https://mp.weixin.qq.com/s/KiGc7eqHsJNruWHi4xm_Hw)
 + [glibc堆内存管理：原理、机制与实战](https://mp.weixin.qq.com/s/IXizno8MlbwQgRGwQVhR4A)
++ [Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
 
 ### cmake
 
@@ -79,6 +80,7 @@
 + [C++容器之std::array](https://mp.weixin.qq.com/s/Zu1gYXIePmphSBtvr1DEqw)
 + [C++容器之std::deque](https://mp.weixin.qq.com/s/NmyCXlGsjB4xwl4iYrwOhg)
 + [C++容器之std::vector](https://mp.weixin.qq.com/s/VF9T9Zd6Zbn66T132MG1rw)
++ [聊一聊std::endl](https://mp.weixin.qq.com/s/TtMh8P6P_gkMDxza6bHzxw)
 + [C++容器之std::stack和std::queue](https://mp.weixin.qq.com/s/vvhgJWdZTMoneeq1jYBJIw)
 + [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
 + [C++：位运算](https://mp.weixin.qq.com/s/h4JCbO6D3MJCRS5fRrRR3w)
@@ -92,6 +94,7 @@
 + [C++ | 异步接口 promise, future, packaged_task, async.](https://mp.weixin.qq.com/s/FvVWytcscu5M2WaUYbaR2w)
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
++ [C++ 的三法则和五法则](https://mp.weixin.qq.com/s/5yzAX0TnVZ3OYqsAjWu7DA)
 + [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
 + [跟我学C++中级篇——Linux常见的异步编程方式](https://mp.weixin.qq.com/s/3WMJFHUSGFNOUe4U7YONRg)
 + [跟我学c++中级篇——c++14中的透明操作符](https://mp.weixin.qq.com/s/dkr4TNt2od_lyCUCawVcCA)
@@ -309,6 +312,7 @@
 ### 资讯
 
 + [为什么用C语言编写操作系统？](https://mp.weixin.qq.com/s/hWzSquCfwRcGRmKpiBtgRg)
++ [C语言的“代码化石”出土：1979年的英文文本判别器](https://mp.weixin.qq.com/s/t88Cm8EGAI74l8uz21pPSA)
 
 ## verilog
 
@@ -328,6 +332,7 @@
 + [嵌入式开发避坑指南：如何破解FreeRTOS优先级反转问题](https://mp.weixin.qq.com/s/J6UFnDPfrV7kJlXg9BQ9UQ)
 + [嵌入式硬核进阶之路：手写TCP/IP协议栈第一步](https://mp.weixin.qq.com/s/_hCBqTG132y9DPmOkPqrKw)
 + [从Bootloader到OTA：解锁嵌入式固件更新的正确姿势](https://mp.weixin.qq.com/s/AI0DlCYszm0VHG4DABHE1g)
++ [嵌入式编程基础 | 深入理解单片C语言中的break、continue和return流程控制语句](https://mp.weixin.qq.com/s/HwSwZcGXSO0e6kDS9KZalQ)
 
 # ARM
 

@@ -190,6 +190,7 @@
 + [微服务安全架构新范式——零信任与 OAuth2.0 的深度整合](https://mp.weixin.qq.com/s/8I6uiGg6mNOXjCroeyk03w)
 + [告别心跳！用“零心跳”架构设计服务注册中心，性能提升10倍！](https://mp.weixin.qq.com/s/K9oPF6QmBQ_gHBDgyQ0ddg)
 + [微服务架构：必懂的5种设计模式](https://mp.weixin.qq.com/s/9dtJAFdR4HUb92-HOW_2wA)
++ [为啥 90% 的微服务仍然像单体应用一样？](https://mp.weixin.qq.com/s/7vw4a82QdQ35QqREsAHScw)
 
 # 分布式
 

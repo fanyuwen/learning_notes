@@ -536,6 +536,7 @@
 + [面试官：forEachRemaining的用法，与forEach的区别？](https://mp.weixin.qq.com/s/rx0r7nt3BpbrHOclgtstog)
 + [Java 中 finally 块一定会执行吗？你未必真的了解](https://mp.weixin.qq.com/s/IO-LuM4bJaOyjVoQpSF4qg)
 + [面试官：Map在循环中能不能操作？有什么注意事项？](https://mp.weixin.qq.com/s/y9EvgeZxbQ3dg6GI8GXC3g)
++ [深入剖析 Java 精度丢失：从二进制存储到浮点运算的底层逻辑](https://mp.weixin.qq.com/s/wcv5JgJIf80oGQAiDkNb5w)
 
 ### IO
 
@@ -724,6 +725,8 @@
 + [动态调试线程池？这几个坑让我崩溃三天](https://mp.weixin.qq.com/s/TAphsDYqyMS4YL-6VknINg)
 + [解锁Java线程池：ThreadPoolExecutor与Executors深度解析与应用实践](https://mp.weixin.qq.com/s/eD5bhmYRWbW7DVk-_1iXTg)
 + [线程池之ForkJoinPool](https://mp.weixin.qq.com/s/NV8x2bqUb-RIEHy56fgBJg)
++ [上下文线程池配置 异步线程事务控制](https://mp.weixin.qq.com/s/pYqB62aUMocS6X5q8t619A)
++ [面试官问我Java线程池怎么用，我这样回答直接加分！](https://mp.weixin.qq.com/s/0-d_mxjabkALJHD-wYO6qw)
 
 #### 锁
 
@@ -1865,6 +1868,7 @@
 + [面试官：你能从源码讲讲@Autowired怎么自动装配的吗？我：…](https://mp.weixin.qq.com/s/BZiSDkRWwzOShMruswTRSw)
 + [Java面试题：Spring篇](https://mp.weixin.qq.com/s/yMWJEqKtbGtsMN-pDZJHaQ)
 + [面试被问@Autowired实现原理时，我崩溃了……](https://mp.weixin.qq.com/s/QvLUf7jz8yGpqqG8uRH49Q)
++ [【面试必问】Spring支持注入null和空字符串吗？不懂别去面试了！](https://mp.weixin.qq.com/s/I7jlU4x38vL26T0ehFekMA)
 
 #### 配置
 
@@ -1904,6 +1908,7 @@
 + [Spring动态注册黑科技：让热更新代码实时生效的终极方案](https://mp.weixin.qq.com/s/2m-1odtdl5oEyxXx7XosPQ)
 + [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s/ujbCX35zimXuOegXEopyfw)
 + [Spring @Value 注入的魔法](https://mp.weixin.qq.com/s/3R2q1nXOgyDSyOdLHF9d-Q)
++ [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/QqVGUf-lZDqkGTLtonCzGg)
 
 #### 原理&源码
 
@@ -2096,6 +2101,8 @@
 + [工作 6 年才发现，@Transactional 藏着这么多坑](https://mp.weixin.qq.com/s/8qqGnOTx1vf9sXORy3WGoQ)
 + [Spring多线程事务能否保证事务的一致性?](https://mp.weixin.qq.com/s/0c77HN30eO0wEJ5cGrImEw)
 + [全网最通俗！Spring 事务传播行为用故事讲明白了！](https://mp.weixin.qq.com/s/taf6pngDHoF48OQl_jH5hw)
++ [Spring事务背后的真相：我们被骗了这么多年？](https://mp.weixin.qq.com/s/qpqnNsytuUuzZNTwqHewLQ)
++ [Java社招面试题：说一下 Spring 的事务隔离？我这次靠这个问题反客为主！](https://mp.weixin.qq.com/s/VzXDAwTsCF63OQy03Zqy6w)
 
 ### Log
 
@@ -2111,6 +2118,8 @@
 + [使用 Pipeline 模式解耦电商保险等复杂业务](https://mp.weixin.qq.com/s/Lv3Fx3KnVOMgjCjRQvh2lQ)
 + [Spring框架模板方法模式的使用](https://mp.weixin.qq.com/s/VdAVx9pIbFhnnvUHDeapHg)
 + [聊一聊观察者模式在Spring框架中的应用](https://mp.weixin.qq.com/s/SAwT0bjYJdd7PSzALvxotg)
++ [装饰者模式在Spring框架中的应用](https://mp.weixin.qq.com/s/0oDaWhchSpQdRBcOe8TdFw)
++ [责任链模式在Spring框架中的使用](https://mp.weixin.qq.com/s/9yMjbZnG0BBzsF8lMJeSYw)
 
 ### STATEMACHINE
 
@@ -2685,6 +2694,7 @@
 + [SpringBoot实现分布式验证码登录方案](https://mp.weixin.qq.com/s/_ckaptgCNOIwK3_HGqf6oA)
 + [SpringBoot强大的分布式锁组件Lock4j，支持多种实现](https://mp.weixin.qq.com/s/vuYmLhd2V20GoJ7LLU0fDg)
 + [SpringBoot 不单独部署注册中心，如何实现注册中心功能？](https://mp.weixin.qq.com/s/GcFWGsErp9HD1gBPOryPYA)
++ [Spring Boot 分布式锁的多种实现方式](https://mp.weixin.qq.com/s/SaJ605ZR2MwdVi-JJf5UaA)
 
 ##### 事务
 
@@ -2918,6 +2928,8 @@
 + [Spring Boot接口防抖黑科技：高并发下的请求稳压策略与源码级实现](https://mp.weixin.qq.com/s/8TrtED7Km9j2Wj3LsNIjhQ)
 + [Spring Boot拦截器与过滤器7大核心区别，看完通透！](https://mp.weixin.qq.com/s/dm_wScpCKfOuz6eohnBwaQ)
 + [SpringBoot骚操作：一个注解秒杀所有类型的文件下载！](https://mp.weixin.qq.com/s/fuBPEbjvAgSoymWV8gGWNw)
++ [惊了！Spring Boot 拦截器竟藏着这些隐藏玩法，很强](https://mp.weixin.qq.com/s/7tQG2Z0lGz7zj_6UGy6K9Q)
++ [5种方案！保护Spring Boot API接口安全](https://mp.weixin.qq.com/s/S6IbfjSSARx7clpSzF2Yiw)
 
 ##### VUE
 
@@ -2930,6 +2942,7 @@
 + [WebSocket 服务端数据推送及心跳机制 (Spring Boot + VUE)](https://mp.weixin.qq.com/s/uaziTw3HG6DXUzEsoPJYhw)
 + [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
 + [SpringBoot 集成WebSocket 的 3 种集成方式](https://mp.weixin.qq.com/s/GiFU3_hPqcD_NF6Tej2tjw)
++ [SpringBoot 整合 WebSocket 鉴权认证、会话消息发送、订阅消息](https://mp.weixin.qq.com/s/uQTrx3B7rIFCRW6e_yRWKQ)
 
 #### DATA
 
@@ -3666,6 +3679,7 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
++ [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)

@@ -748,6 +748,7 @@
 + [从小白到大神，有这些python库就够了，盘点python18个顶级第三方库。](https://mp.weixin.qq.com/s/YyHSzHACEBNv9i9p7-0OWA)
 + [那些小众但实用的Python库](https://mp.weixin.qq.com/s/cilR4L2vF8DNKOEDkY8G-g)
 + [python教学返场——this库：python不仅是一门语言，更是一门文化。全网最详细！](https://mp.weixin.qq.com/s/CruHeB9NX1Ui7Y15SdL6_A)
++ [提效，你可能不知道的9个Python库](https://mp.weixin.qq.com/s/gsVP75Q09KXCRC5AaH973Q)
 
 ### Pandas
 

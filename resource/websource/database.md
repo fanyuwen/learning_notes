@@ -409,6 +409,8 @@
 + [被问懵了：MySQL 自增主键一定是连续的吗？](https://mp.weixin.qq.com/s/U86G4cUQsmZV157VvrNO7g)
 + [[MYSQL] error日志大量的Multi-threaded slave:Coordinator has wait磁盘占满了](https://mp.weixin.qq.com/s/J4VjNGZ8n6-j0dklqrp0WQ)
 + [面试官：MySQL表中有2千万条数据，B+树层高是多少？](https://mp.weixin.qq.com/s/6yVlqXRsg5JvJ4mgHGqjwg)
++ [mysql字段数量限制为啥是1017 ?](https://mp.weixin.qq.com/s/Oms38x8IR5F0jSN6c3e3sA)
++ [[MYSQL] 内存与swap的两极反转](https://mp.weixin.qq.com/s/RIS_sI0nOAnweYN5Jx7mWQ)
 
 #### 存储引擎
 

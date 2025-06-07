@@ -133,6 +133,8 @@
 + [一文看懂Linux内存分配，告别“内存小白”！](https://mp.weixin.qq.com/s/2b-oBvWL2cGfkDAk9pdqAw)
 + [Linux系统init方式详解](https://mp.weixin.qq.com/s/ASB5PaYQp08Qp5ZoytQ6IQ)
 + [深入Linux系统调用：原理、机制与实战全解析](https://mp.weixin.qq.com/s/jG__bMsbAubdDB56ldYhag)
++ [页表遍历实战 - crash工具解析物理地址](https://mp.weixin.qq.com/s/PLUSvtY2vB-oScCNzSaEVQ)
++ [ebpf工作原理介绍——ebpf指令集及虚拟机](https://mp.weixin.qq.com/s/EODZfKRn15HVXZTKh6Vg3Q)
 
 ### 网络
 
@@ -146,6 +148,7 @@
 + [Linux 网络数据包的接收和发送流程](https://mp.weixin.qq.com/s/YG_9N41AweQ3IqO_fjpidw)
 + [Linux 内核中的套接字 - 第 1 部分：接收时的四层协议解复用](https://mp.weixin.qq.com/s/4YfiWa5fWGyl9QtfRGuNZA)
 + [Linux 网络第一部分：内核网络栈](https://mp.weixin.qq.com/s/JN-2pHj5lkCFFYd1bwIbwA)
++ [Linux 网络调优简介](https://mp.weixin.qq.com/s/0x-0q2j6pWb1RqIlu0E6AQ)
 
 ### 命令
 
@@ -208,6 +211,7 @@
 + [Shell脚本编程：7个提高效率的自动化脚本](https://mp.weixin.qq.com/s/5s1JEvJ1XhXRT-r-hcNKUw)
 + [Shell 脚本系统学习 · 第4篇：输入输出重定向详解](https://mp.weixin.qq.com/s/BnbR4KTmylK6i6jLrBuEBw)
 + [Shell 脚本系统学习 · 第 6 篇：变量命名规则与注意事项（特殊符号、命名习惯）](https://mp.weixin.qq.com/s/kUxfgzvAnbBe7r7KWfa_Kw)
++ [Linux 常用命令 -hostnamectl【主机名控制】](https://mp.weixin.qq.com/s/3lncE081Ypgqh47M7Cx-lA)
 
 ### 发行版信息
 
@@ -268,6 +272,7 @@
 + [解锁程序性能密码：CPU优化全攻略](https://mp.weixin.qq.com/s/q6nl5drRR4Q1w12SVS9qbw)
 + [解锁CPU上下文切换：深入理解计算机的“幕后舞者”](https://mp.weixin.qq.com/s/gl9f4KHsaiamIg0cjPhc4Q)
 + [CPU时钟周期结构原理](https://mp.weixin.qq.com/s/h88ZrmTzWxhEoK1iOKQU6Q)
++ [面试官：说说服务器CPU 100%的问题如何排查解决](https://mp.weixin.qq.com/s/xIIG5oLIyqkrFOLZnBkUFg)
 
 ### 并发
 
@@ -297,6 +302,7 @@
 + [内存一路狂飙，如何精准揪出“幕后黑手”](https://mp.weixin.qq.com/s/fPsBFxbbkAHaPQ6KHy1jog)
 + [内存的工作原理](https://mp.weixin.qq.com/s/tbbFIxAV4FPXXQOlAr51uQ)
 + [eBPF+内核调优：动态追踪内存碎片的终极武器](https://mp.weixin.qq.com/s/y4YZNgDJYrgcVD9acqQGQA)
++ [内存检测工具KASAN：精准定位内存越界的“幽灵”](https://mp.weixin.qq.com/s/hjWsHZygdsp9S5xCMdBOjQ)
 
 ## GPU
 
@@ -371,6 +377,7 @@
 + [为什么PING不通?](https://mp.weixin.qq.com/s/DKEXS2JBWbpXtQ8Bf6qRQg)
 + [到底什么是带宽、网速、延迟？](https://mp.weixin.qq.com/s/rYLSwIhgAOigMRypXtzT3A)
 + [内网穿透方案](https://mp.weixin.qq.com/s/0gKTkoSVAlFellKqS3mw3Q)
++ [应用层网络通信协议详解](https://mp.weixin.qq.com/s/mdByUnGfwRj_wHt5eS2FxQ)
 
 ### DNS
 
@@ -452,6 +459,7 @@
 + [TCP/IP网络模型的全面解读](https://mp.weixin.qq.com/s/MAjYU1f_U2ZcJepdEtq18g)
 + [初探 TCP 连接](https://mp.weixin.qq.com/s/FCliTrzDnu2ScW8FQC33OA)
 + [tcp粘包拆包解决方案](https://mp.weixin.qq.com/s/qlk0d4GS_hwIKKBOfKYI2g)
++ [TCP三次握手中的SYN\ACK\seq这些究竟是啥？](https://mp.weixin.qq.com/s/Aw3FFVnImhE1cKJWYryq_A)
 
 ### UDP
 

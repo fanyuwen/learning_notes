@@ -41,6 +41,7 @@
 + [跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
 + [C++容器之std::list和std::forward_list](https://mp.weixin.qq.com/s/dP7qDcp4o0xcW-_7bVLhxA)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
++ [左值右值](https://mp.weixin.qq.com/s/FjjLl2HvgJXw1v4e_aDTHQ)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
 + [c++编程初级第六讲：结构体](https://mp.weixin.qq.com/s/DRxe0r2LT0W7-whqm8XBTQ)
 + [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
@@ -108,6 +109,7 @@
 + [C++函数调用栈从何而来](https://mp.weixin.qq.com/s/LkHmgym0x6chYTBRt-p1nA)
 + [C++思考30:浅析虚析构函数](https://mp.weixin.qq.com/s/CRbIssdLDaXqHugXLzWSRg)
 + [每日C++——std::addressof](https://mp.weixin.qq.com/s/NrK3t0QGDi7jOluKLR8MZA)
++ [C++性能优化利器：右值引用与std::move](https://mp.weixin.qq.com/s/lGdIOjemi63K72n4EWG1nQ)
 + [C++：二叉树的遍历](https://mp.weixin.qq.com/s/YCkX3fYhfMb-x8kaUP4yYQ)
 + [C++ 模板元编程：让代码在编译期「自动运行」](https://mp.weixin.qq.com/s/YomlUBHJtg54jjftiuwCiQ)
 + [跟我学c++中级篇——动态库的资源处理](https://mp.weixin.qq.com/s/nuBZ7d-CXy8NWtAEG1c9qA)
@@ -147,6 +149,7 @@
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
++ [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
 + [LLDB，一个强大的调试库](https://mp.weixin.qq.com/s/9TFAAmy5shnsLgMk8oZh5A)
@@ -279,6 +282,7 @@
 + [06_printf与scanf函数详解](https://mp.weixin.qq.com/s/z_1vXmMGIDWQqDT9N-irgg)
 + [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
 + [逆向基础 | 堆栈图](https://mp.weixin.qq.com/s/lmQuURW7VbLVf4l5UUiaXg)
++ [深入剖析malloc和free：堆内存管理的基石](https://mp.weixin.qq.com/s/XMUn1tflJlp3RNNjdOcbBQ)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)
@@ -333,6 +337,7 @@
 + [嵌入式硬核进阶之路：手写TCP/IP协议栈第一步](https://mp.weixin.qq.com/s/_hCBqTG132y9DPmOkPqrKw)
 + [从Bootloader到OTA：解锁嵌入式固件更新的正确姿势](https://mp.weixin.qq.com/s/AI0DlCYszm0VHG4DABHE1g)
 + [嵌入式编程基础 | 深入理解单片C语言中的break、continue和return流程控制语句](https://mp.weixin.qq.com/s/HwSwZcGXSO0e6kDS9KZalQ)
++ [嵌入式设计模式--C语言的抽象工厂模式](https://mp.weixin.qq.com/s/1hJNdnPFAd_UVcP1zMRl7g)
 
 # ARM
 

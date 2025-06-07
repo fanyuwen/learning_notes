@@ -74,6 +74,7 @@
 + [如何理解高可用架构设计原理](https://mp.weixin.qq.com/s/L3EjxFXtURg-ssY4TeVEvQ)
 + [优秀架构上成长之路：从代码工匠到技术战略家](https://mp.weixin.qq.com/s/Q-QbANsb6rTq0g2-oJ_5NQ)
 + [优秀架构师成长之路（7）-事件驱动](https://mp.weixin.qq.com/s/jghvPYj8A1uyvlHOQvqwFA)
++ [五、架构设计技巧——架构设计步骤与应用](https://mp.weixin.qq.com/s/J1WKqsnkLPXgdJpfMk4tlg)
 
 ### DDD
 
@@ -296,6 +297,8 @@
 + [分布式事务的解决方案—Seata TCC模式](https://mp.weixin.qq.com/s/voZX95_EoFADkFZjNSE0lg)
 + [详细讲解一下分布式事务-两阶段提交的实现原理](https://mp.weixin.qq.com/s/3-2InkDflnW3mAo5JFR0UA)
 + [分布式事务解决方案—本地消息表](https://mp.weixin.qq.com/s/vV4TeIMt8jjMaDc5Q9Nyxg)
++ [当你在电商下单时，钱到底怎么扣？用TCC模式解决分布式事务难题](https://mp.weixin.qq.com/s/079uvVSTy0xZqJza-Y26Uw)
++ [分布式事务解决方案—事务消息](https://mp.weixin.qq.com/s/t7Rdix-eD1uzFIm43xRmeg)
 
 ## 分布式算法
 
@@ -430,6 +433,7 @@
 + [大文件秒传、断点续传和分片上传](https://mp.weixin.qq.com/s/4ty-x7MYKU_saPaavikN5w)
 + [实现大文件的断点下载、分片下载](https://mp.weixin.qq.com/s/2qB6vESIUw7YPk4rL16Lzw)
 + [如何实现大文件传输中的断点续传](https://mp.weixin.qq.com/s/hkZOXKjGEdoofl30vrgBcg)
++ [化整为零(入门篇) ：大文件上传的二三事](https://mp.weixin.qq.com/s/9EfegzQUJuLjl7AddFqa4A)
 
 ### 超时&定时&异步调度
 
@@ -577,6 +581,7 @@
 + [公司来了一个新同事，代码写得是真优雅呀！代码如诗！](https://mp.weixin.qq.com/s/yybLe51KTuc5VCsR1sxHDg)
 + [开源与 “半开源” 之间的战争和软件的历史一样久远](https://linux.cn/article-16331-1.html?utm_source=rss&amp;amp;utm_medium=rss&comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [重构这件 “小” 事儿 ｜ 得物技术](https://my.oschina.net/u/5783135/blog/8676985?s_trans=2197476363_&s_channel=4)
++ [五十二、系统重构](https://mp.weixin.qq.com/s/W6tiO0Vj9vO_wQm4LF3Z0w)
 + [面试官：解释信号量（Semaphore）与互斥量（Mutex）的区别是什么？](https://mp.weixin.qq.com/s/R5I8QJor85CfxFWsM0C4vg)
 + [字节面试：领域、子域、核心域、通用域和支撑域怎么划分？](https://mp.weixin.qq.com/s/hR6JM3d1TRkQ_CVF24Wo-g)
 + [写个简单的项目自动部署脚本](https://mp.weixin.qq.com/s/jjW2aIi_KUusQdc9uLnUGg)

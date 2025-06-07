@@ -79,6 +79,8 @@
 + [第一批90后，正在断崖式衰老](https://mp.weixin.qq.com/s/8srY7wkgY3NzT955_nWudA)
 + [人生建议：给30-40岁牛马的十个忠告](https://mp.weixin.qq.com/s/O3gPxpYaTZc-WHWYBw7UHg)
 + [“程序员即将被淘汰” 的神预言](https://mp.weixin.qq.com/s/ELx_QUKN4ZDQT8XfGexqRQ)
++ [如何成为技术大牛？一点点自己的经验分享和思考](https://mp.weixin.qq.com/s/uuGDxXPoRtFukDiXnUqZSA)
++ [编程和年龄](https://mp.weixin.qq.com/s/C-ec7AYJLK5etODVcvGZ2w)
 
 # 个人成长
 
@@ -146,6 +148,7 @@
 + [别再盲目敲代码！程序员应该多积累业务经验！](https://mp.weixin.qq.com/s/jYKg9_n8NGj5a98RRYfVcw)
 + [我认识的最优秀的程序员](https://mp.weixin.qq.com/s/siz6m5U72vfXgWWtcHo4gg)
 + [为什么不能一次性写好代码，而需要改bug？](https://mp.weixin.qq.com/s/YlcoDQkAOIEPHuS6ZcIabg)
++ ["别重复造轮子"：程序员最毒的职场建议](https://mp.weixin.qq.com/s/PKI4S3UbOFlIV0RLf4uWXA)
 
 ## 视频
 

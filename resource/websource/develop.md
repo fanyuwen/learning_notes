@@ -73,6 +73,7 @@
 + [学习一个框架的设计思想远比其技术更加重要](https://mp.weixin.qq.com/s/DaiEOQ7CR7fjVQPplgy3vw)
 + [如何理解高可用架构设计原理](https://mp.weixin.qq.com/s/L3EjxFXtURg-ssY4TeVEvQ)
 + [优秀架构上成长之路：从代码工匠到技术战略家](https://mp.weixin.qq.com/s/Q-QbANsb6rTq0g2-oJ_5NQ)
++ [优秀架构师成长之路（7）-事件驱动](https://mp.weixin.qq.com/s/jghvPYj8A1uyvlHOQvqwFA)
 
 ### DDD
 

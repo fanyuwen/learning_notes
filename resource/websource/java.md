@@ -310,6 +310,7 @@
 + [Java真的不难（六十八）状态模式的深入分析及在订单状态管理系统中的应用（附源码）](https://mp.weixin.qq.com/s/Cp60ecPLUDILa7gTJlxL4A)
 + [Java真的不难（七十一）解释器模式的深入分析及权限规则检查业务案例](https://mp.weixin.qq.com/s/QytyAaafk5Fwo5jbJVRwsQ)
 + [Java真的不难（七十二）抽象工厂模式概念及在电商系统中的组合应用（纯干货）](https://mp.weixin.qq.com/s/mF1sV1X-OerdkS9i9F3q5g)
++ [Java真的不难（七十）中介者模式分析及在交通管制系统业务中的实例（纯干货）](https://mp.weixin.qq.com/s/71qt8m5ey7SaSwCkhA7h1Q)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -1619,6 +1620,7 @@
 + [Mybatis原理解析](https://mp.weixin.qq.com/s/dND1eP7GkPFDRhGrdQyDSA)
 + [MyBatis中 #{} 并非万能：动态SQL实战](https://mp.weixin.qq.com/s/6oV3k1riB0d0JA9eyC0IkA)
 + [MyBatis如何处理延迟加载？](https://mp.weixin.qq.com/s/T5BmRXF2U4r6cI01NEbMnw)
++ [MyBatis性能提升300%的秘诀：这5个优化方案请收好](https://mp.weixin.qq.com/s/3O8TbC_klqeRZChlDH69sw)
 
 ### plus
 
@@ -1650,6 +1652,7 @@
 + [Mybatis-Plus 动态数据源与 Spring 事务冲突问题深度解析](https://mp.weixin.qq.com/s/lFY1-x_3x4Fur9XKyP_HBw)
 + [MybatisPlus不好用？帅小伙一气之下写了个MybatisPlusPro！](https://mp.weixin.qq.com/s/-SkHBg3CYlm-jbV_MXDC6w)
 + [MyBatis-Plus中联表查询用法](https://mp.weixin.qq.com/s/rIE8eLYuPuEfjOOJp_gB_Q)
++ [数据库枚举类型如何设计？看看MyBatis-Plus的处理](https://mp.weixin.qq.com/s/yo890PFsSCKlUMEeCoc0tA)
 
 ## nacos
 
@@ -1760,6 +1763,7 @@
 + [Redisson 实现高效限流机制](https://mp.weixin.qq.com/s/F_8FmvzZYhyrSXTS8yLPtg)
 + [Redisson分布式锁核心源码揭秘](https://mp.weixin.qq.com/s/25eDvAwp8T2US9HD_35TWQ)
 + [Redisson分布式锁(超时释放及锁续期)](https://mp.weixin.qq.com/s/XNk8l-2YPN_OxIcnpihUPA)
++ [Redisson简明教程—你家的锁芯该换了](https://mp.weixin.qq.com/s/pzYxLjvGPB9ayDrV74X9Gg)
 
 ## ribbon
 
@@ -2458,6 +2462,8 @@
 + [这技巧太牛了！借助Spring Boot扩展点，动态注册Bean](https://mp.weixin.qq.com/s/lQ3LCd9aYee-rD50bH9L-A)
 + [太坑了！Spring Boot 导致堆外内存泄露了！](https://mp.weixin.qq.com/s/bx1SL1aTzTsVhgEnrhxHPw)
 + [架构师必知：SpringBoot性能优化的12招](https://mp.weixin.qq.com/s/Xw-BWOrzm-H_NNr9GMQSwQ)
++ [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
++ [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/Fk5DVgtJ5yUskJRj0w5z_w)
 
 #### 版本特性
 
@@ -3658,6 +3664,7 @@
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [Java项目慢SQL优化实战：从索引优化到SQL改写，性能提升10倍不是梦！](https://mp.weixin.qq.com/s/w8COkn1Pg97o7jb1spesnw)
 + [Java 安全 | Click1 链分析](https://mp.weixin.qq.com/s/81mRzCf8PbYh7pTu7iQRhg)
 + [《再这样下去Java没救了》爆了，来投票看看数据吧](https://mp.weixin.qq.com/s/QuC94XdMoALpxl0cgdLSAA)
 + [Java漏洞在黑盒实战中的技巧——反序列化篇（发现、绕过、脚本编写以及结合漏洞分析）](https://mp.weixin.qq.com/s/RRPG8FSTCZjOZjZUOpqQNQ)

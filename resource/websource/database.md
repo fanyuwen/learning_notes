@@ -407,6 +407,7 @@
 + [京东面试：mysql深度分页 严重影响性能？根本原因是什么？如何优化？](https://mp.weixin.qq.com/s/LXvQMQFf_SyLWh1zI6onkA)
 + [被问懵了：MySQL 自增主键一定是连续的吗？](https://mp.weixin.qq.com/s/U86G4cUQsmZV157VvrNO7g)
 + [[MYSQL] error日志大量的Multi-threaded slave:Coordinator has wait磁盘占满了](https://mp.weixin.qq.com/s/J4VjNGZ8n6-j0dklqrp0WQ)
++ [面试官：MySQL表中有2千万条数据，B+树层高是多少？](https://mp.weixin.qq.com/s/6yVlqXRsg5JvJ4mgHGqjwg)
 
 #### 存储引擎
 
@@ -858,6 +859,7 @@
 + [Redis是单线程还是多线程？](https://mp.weixin.qq.com/s/EjvYTenmP9pQ-qdET0rl8A)
 + [Redis中的持久化机制——AOF篇](https://mp.weixin.qq.com/s/RkY6L--vO546LPwgKIrfwA)
 + [阿里面试问：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/9VArWZz0pbu6-3tn9UKPtw)
++ [Redis中字符串类型是如何实现的](https://mp.weixin.qq.com/s/pKA1_kV6Hkynd_sbWAHtOA)
 
 #### 分布式锁
 

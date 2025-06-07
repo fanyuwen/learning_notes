@@ -130,6 +130,8 @@
 + [Shell 脚本系统学习 · 第3篇 Bash 常用快捷键大全](https://mp.weixin.qq.com/s/f06qP8WQ62ae4oRNGy6NXg)
 + [Linux程序调试命令strace简介](https://mp.weixin.qq.com/s/fl-fgyuxs6sbQSrL3iaQ5g)
 + [Linux操作系统实战：进程创建的底层原理](https://mp.weixin.qq.com/s/39DZI6zifklzNfk8ZY75ew)
++ [一文看懂Linux内存分配，告别“内存小白”！](https://mp.weixin.qq.com/s/2b-oBvWL2cGfkDAk9pdqAw)
++ [Linux系统init方式详解](https://mp.weixin.qq.com/s/ASB5PaYQp08Qp5ZoytQ6IQ)
 
 ### 网络
 
@@ -366,6 +368,7 @@
 + [面试官问：有了HTTP协议，为什么还要RPC协议？](https://mp.weixin.qq.com/s/xWjlHxMCdCqIbbBrQ5AJiA)
 + [为什么PING不通?](https://mp.weixin.qq.com/s/DKEXS2JBWbpXtQ8Bf6qRQg)
 + [到底什么是带宽、网速、延迟？](https://mp.weixin.qq.com/s/rYLSwIhgAOigMRypXtzT3A)
++ [内网穿透方案](https://mp.weixin.qq.com/s/0gKTkoSVAlFellKqS3mw3Q)
 
 ### DNS
 

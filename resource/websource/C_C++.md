@@ -25,6 +25,10 @@
 + [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
 + [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 
+### 第三方技术
+
++ [C/C++调用Lua](https://mp.weixin.qq.com/s/EMQ0gJM3z0oTfs7EzzLc4w)
+
 ## C++
 
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
@@ -90,10 +94,12 @@
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
 + [跟我学C++中级篇——Linux常见的异步编程方式](https://mp.weixin.qq.com/s/3WMJFHUSGFNOUe4U7YONRg)
++ [跟我学c++中级篇——c++14中的透明操作符](https://mp.weixin.qq.com/s/dkr4TNt2od_lyCUCawVcCA)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
 + [【C++】使用gdb在命令行下调试C++程序（一）](https://mp.weixin.qq.com/s/lhvAjRoI94DV-VbGowavWg)
 + [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
 + [【C++】new和malloc到底哪里不一样](https://mp.weixin.qq.com/s/c8mTFiT3SKmkT-5wxXvy7A)
++ [c++编程初级第五讲：回文数](https://mp.weixin.qq.com/s/ClCIa09snGWg7wIPkDF96g)
 + [C++ 浅谈Ring Buffer](https://mp.weixin.qq.com/s/z2JzgS8dt04SJgWPT1v24w)
 + [程序员避坑指南：解读野指针](https://mp.weixin.qq.com/s/DpvsFJ0-rO1tfCdGy-Kkuw)
 + [C++函数调用栈从何而来](https://mp.weixin.qq.com/s/LkHmgym0x6chYTBRt-p1nA)
@@ -211,6 +217,8 @@
 + [从本质理解指针的那些知识 #指针篇1 | C语言基础](https://mp.weixin.qq.com/s/bAEe8sOGBkg69khuAPyrQg)
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)
++ [C语言：一文说清什么是指针和数组！！！](https://mp.weixin.qq.com/s/qSe46WQlbbJkLrgJCRvptg)
++ [C语言编程之指针函数和函数指针的区别](https://mp.weixin.qq.com/s/uFpVSy9s6hB8VNiHbjljGg)
 + [03_整数/浮点数据类型](https://mp.weixin.qq.com/s/6VKkeur_vLYEg0YN8dBLxg)
 + [C语言结构体全解析：从入门到内存布局](https://mp.weixin.qq.com/s/oyfbAFzyPrnQoo8p-BtMYQ)
 + [C语言中数组概念及使用](https://mp.weixin.qq.com/s/EkwS4oJ3pGeXLAnWKm6BYQ)
@@ -319,6 +327,7 @@
 + [嵌入式开发中断言（assert）的硬核指南：从调试到生产](https://mp.weixin.qq.com/s/FPZeFava1BnVMUPbmKRT0A)
 + [嵌入式开发避坑指南：如何破解FreeRTOS优先级反转问题](https://mp.weixin.qq.com/s/J6UFnDPfrV7kJlXg9BQ9UQ)
 + [嵌入式硬核进阶之路：手写TCP/IP协议栈第一步](https://mp.weixin.qq.com/s/_hCBqTG132y9DPmOkPqrKw)
++ [从Bootloader到OTA：解锁嵌入式固件更新的正确姿势](https://mp.weixin.qq.com/s/AI0DlCYszm0VHG4DABHE1g)
 
 # ARM
 

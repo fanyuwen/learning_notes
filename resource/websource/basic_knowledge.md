@@ -135,6 +135,10 @@
 + [深入Linux系统调用：原理、机制与实战全解析](https://mp.weixin.qq.com/s/jG__bMsbAubdDB56ldYhag)
 + [页表遍历实战 - crash工具解析物理地址](https://mp.weixin.qq.com/s/PLUSvtY2vB-oScCNzSaEVQ)
 + [ebpf工作原理介绍——ebpf指令集及虚拟机](https://mp.weixin.qq.com/s/EODZfKRn15HVXZTKh6Vg3Q)
++ [Linux中的并发和竞争](https://mp.weixin.qq.com/s/2Bg9eDI3qOEtiIF4opHFrQ)
++ [Linux环境下误删重要文件怎么办？](https://mp.weixin.qq.com/s/0ybOF3CC6x74y_NZYhdAAw)
++ [任务调度器：从入门到放弃（二）](https://mp.weixin.qq.com/s/g07Zsv1MwrUSJ-ETkfYvjQ)
++ [《面试必考 | 算法与数据结构之二叉树（三） 》](https://mp.weixin.qq.com/s/TWh24YDPWdF-T0BgggP8SA)
 
 ### 网络
 
@@ -267,6 +271,7 @@
 + [RISCV 微架构总结（5）- EXU的RF部分](https://mp.weixin.qq.com/s/qNGlkG7uUkjvRZkKuCfagQ)
 + [程序员眼中的 CPU 微架构（1）](https://mp.weixin.qq.com/s/yK-SVZUPU3C4WToX6VaKyQ)
 + [程序员眼中的 CPU 微架构（3）](https://mp.weixin.qq.com/s/58jKa7R2vAGeJUNmgmXLdQ)
++ [程序员眼中的 CPU 微架构（4）](https://mp.weixin.qq.com/s/JjHwbKgDweExW_s8ZJ33fQ)
 + [程序变慢的真相：CPU缓存与内核如何影响性能？](https://mp.weixin.qq.com/s/AWCAFcuW3OGp4VwyjR4SQg)
 + [揭秘保护模式：CPU如何筑起操作系统的安全防线](https://mp.weixin.qq.com/s/gEo3-9MIF6XGvY53rPbvzQ)
 + [解锁程序性能密码：CPU优化全攻略](https://mp.weixin.qq.com/s/q6nl5drRR4Q1w12SVS9qbw)

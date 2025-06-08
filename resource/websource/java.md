@@ -537,6 +537,7 @@
 + [Java 中 finally 块一定会执行吗？你未必真的了解](https://mp.weixin.qq.com/s/IO-LuM4bJaOyjVoQpSF4qg)
 + [面试官：Map在循环中能不能操作？有什么注意事项？](https://mp.weixin.qq.com/s/y9EvgeZxbQ3dg6GI8GXC3g)
 + [深入剖析 Java 精度丢失：从二进制存储到浮点运算的底层逻辑](https://mp.weixin.qq.com/s/wcv5JgJIf80oGQAiDkNb5w)
++ [Java 为什么会出现 Lambda 的奇怪写法？详细解释给你听](https://mp.weixin.qq.com/s/nev-K8C1XAVJwWrANCNktA)
 
 ### IO
 
@@ -872,6 +873,7 @@
 + [Java 进阶：JVM 架构篇](https://mp.weixin.qq.com/s/Vf7JwZbkXxJ3b9KIgCG03Q)
 + [新来的小伙伴上来就搞 JVM 调优，还将接口吞吐量提高了 22.5%，被狠狠夸了！](https://mp.weixin.qq.com/s/VWj22UmDc5qy_P5nq_sM1A)
 + [《揭秘Java虚拟机（JVM）核心机制：从跨平台到不同版本虚拟机的全面解析》](https://mp.weixin.qq.com/s/-7YiIBHSDrKfkM7aw31SHw)
++ [JVM的通关指南（一）原来这就是JVM](https://mp.weixin.qq.com/s/SGyZiy5P0TBc_qxhzlokvA)
 
 ### 命令
 
@@ -879,6 +881,7 @@
 + [JVM性能监控及调优命令](https://mp.weixin.qq.com/s/4JojkqO_zNweKBLuQfkm1g)
 + [JVM参数调优，一文让你搞懂，再也不为应用操心了！](https://mp.weixin.qq.com/s/S9nAdu5lITlcldSscdPPyg)
 + [手把手教你使用JConsole](https://mp.weixin.qq.com/s/0PqnXot-taBSnbRKHj0rQQ)
++ [加一个JVM参数，让系统可用率从95%提高到99.995%](https://mp.weixin.qq.com/s/xMJ_2bkOUQvrb7GzGIyhmA)
 
 ### 内存
 
@@ -1483,6 +1486,8 @@
 + [超越传统队列！Disruptor如何重塑高并发事件处理格局](https://mp.weixin.qq.com/s/70PmTY7KDtLOy0-ZJ011Ow)
 + [解锁高性能环形队列：Disruptor 4.0.0 核心解析与应用实践](https://mp.weixin.qq.com/s/5cV5waMwAhEImDZASOrjzQ)
 + [Disruptor生产者源码分析](https://mp.weixin.qq.com/s/YZ1kd-8ClvTSXEvBPLViEQ)
++ [Disruptor消费源码分析](https://mp.weixin.qq.com/s/XnYl-1YaCrNT17qdrg4YCA)
++ [Disruptor多生产者多消费者分析](https://mp.weixin.qq.com/s/b6I8l6jeKnzq8h-EZw1fCQ)
 
 ## dubbo
 
@@ -2003,6 +2008,7 @@
 + [SpringMVC 面试高频！WebApplicationContext 原理与实战解析](https://mp.weixin.qq.com/s/XHLFfi55TI0aZnohMs0gyg)
 + [快速入门-Spring WebFlux](https://mp.weixin.qq.com/s/Y-PTW3TIaID9CO7Tjv_Eng)
 + [针对URL的路径匹配:AntPathMatcher 和 UrlPathHelper](https://mp.weixin.qq.com/s/48C8edlXaJ4ZzfNBqOtyTg)
++ [性能优化！3种方案优化Controller接口调用，性能提升N倍](https://mp.weixin.qq.com/s/1QEtyRFWzFojO8Q_V7yv1Q)
 
 ### concurrent
 
@@ -2930,6 +2936,7 @@
 + [SpringBoot骚操作：一个注解秒杀所有类型的文件下载！](https://mp.weixin.qq.com/s/fuBPEbjvAgSoymWV8gGWNw)
 + [惊了！Spring Boot 拦截器竟藏着这些隐藏玩法，很强](https://mp.weixin.qq.com/s/7tQG2Z0lGz7zj_6UGy6K9Q)
 + [5种方案！保护Spring Boot API接口安全](https://mp.weixin.qq.com/s/S6IbfjSSARx7clpSzF2Yiw)
++ [Spring Boot 3.x 中的 RestClient 使用全解析](https://mp.weixin.qq.com/s/gggEHI6ZADEHGwKAfOvIhw)
 
 ##### VUE
 
@@ -3338,6 +3345,7 @@
 + [SpringBoot配置文件的12个实用技巧](https://mp.weixin.qq.com/s/yK-EWLQhssk6hzulkUgBvQ)
 + [【java必会】springboot使用maven高效管理多环境配置](https://mp.weixin.qq.com/s/_Z10NG9VC3CrW5GPFDg7Zw)
 + [【java必会】springboot项目不重新打包修改配置文件之nacos](https://mp.weixin.qq.com/s/IvrXsc3pOrxK1Cem8bKRmA)
++ [SpringBoot统一属性配置，以数据库作为配置中心](https://mp.weixin.qq.com/s/VkPOCc1TiqeynJ12Fxxuew)
 
 #### 集成三方
 
@@ -3661,6 +3669,7 @@
 + [Java利器：Pair和Triple无缝解决多值返回，编写高效代码！](https://mp.weixin.qq.com/s/nwJNRzi-2q-I8pil4P_zUg)
 + [彻底告别 Controller、Service、Dao，让人上瘾的开发神器...](https://mp.weixin.qq.com/s/KdgwBzjLrrkiq9g_a6kKRA)
 + [新一代ORM框架——Jimmer](https://mp.weixin.qq.com/s/TMCRfHoaX3Yp6QiJX9FTyw)
++ [从 JDK 8 到 JDK 17：Swagger 升级迁移指南](https://mp.weixin.qq.com/s/m_6fcn2lYO5C6QJDKqzy_A)
 
 # 其它环境
 
@@ -3691,6 +3700,7 @@
 + [优秀的代码都是如何分层的？看了直呼NB！](https://mp.weixin.qq.com/s/8IP0c-GjmL0eehDHNjpfIA)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/1qTPg2jpBj0MHl_dUE-s4w)
 + [Java真的不难（四十六）设计模式的开闭原则&里氏代换原则及案例](https://mp.weixin.qq.com/s/81qLAj5FY4ktAdBG4BP3EQ)
++ [手写一个迷你Spring框架：只需200行代码，带你深入理解IoC和AOP的核心原理。](https://mp.weixin.qq.com/s/SeEq31sWtWLxWVjAQG_yOQ)
 + [JDK网站最终的拼图](https://mp.weixin.qq.com/s/uv0wcpW8uySkqOKQ7eUXYw)
 + [实现一个异步的组件](https://mp.weixin.qq.com/s/hBrn9GEtyIxNl6XM8_MXEw)
 + [数据编码（Encoding）技术](https://mp.weixin.qq.com/s/PfMqhvcPtTfbLVZiDXM4Sg)

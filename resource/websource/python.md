@@ -115,6 +115,7 @@
 + [一起来看看Python中的高阶函数](https://mp.weixin.qq.com/s/PnL7Ys_x8B8WvDi_jfzmMg)
 + [【Python基础】Python中的enumerate()函数](https://mp.weixin.qq.com/s/kxF8G_TINb3xNZjiEMT8GA)
 + [【Python基础】Python中的generator函数以及yield关键字](https://mp.weixin.qq.com/s/MkeBiHOJwcEXXwC0yJqPxA)
++ [10 个 Python 内置函数，可简化您的代码](https://mp.weixin.qq.com/s/YIqPkBPaJjH2tqUslZFGfg)
 
 ### 面向对象
 

@@ -75,6 +75,7 @@
 + [优秀架构上成长之路：从代码工匠到技术战略家](https://mp.weixin.qq.com/s/Q-QbANsb6rTq0g2-oJ_5NQ)
 + [优秀架构师成长之路（7）-事件驱动](https://mp.weixin.qq.com/s/jghvPYj8A1uyvlHOQvqwFA)
 + [五、架构设计技巧——架构设计步骤与应用](https://mp.weixin.qq.com/s/J1WKqsnkLPXgdJpfMk4tlg)
++ [三十四、领域驱动设计——战略设计](https://mp.weixin.qq.com/s/fccAAc4KqH3pR7iBq2T3mw)
 
 ### DDD
 

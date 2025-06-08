@@ -379,6 +379,7 @@
 + [2025哪些技能仍然有很大的需求缺口？](https://mp.weixin.qq.com/s/rz0ov--v3xUSUT9H1gxYhA)
 + [挑战Rust和Scala，这门新语言震惊德国开发者！](https://mp.weixin.qq.com/s/wLicB_C9JXhvmIO5p0MzPw)
 + [Scala 语言未来如何进化？](https://www.oschina.net/news/345137/evolving-scala)
++ [为什么现在编程比以前容易了？](https://mp.weixin.qq.com/s/v-KoXofvJrRp2I39KSexzQ)
 
 ## 创业
 

@@ -122,6 +122,8 @@
 + [Kafka如何处理消息积压(4大解决方案)](https://mp.weixin.qq.com/s/RvfyywBaehvWafH77PwYpQ)
 + [高并发场景下，Kafka如何解决消息堆积?](https://mp.weixin.qq.com/s/YV4p6_jipnOUBjMGAhaNrQ)
 + [Kafka如何实现高并发(4大关键技术)](https://mp.weixin.qq.com/s/gJNOMeXNOLejTnMpsCYpLg)
++ [Kafka-为什么这么快(零拷贝Zero-Copy)](https://mp.weixin.qq.com/s/Gs673WV1Zpoua8NUq0_oJQ)
++ [Kafka-日常运维命令](https://mp.weixin.qq.com/s/ndSTOIIsulWP__sf_p7-MA)
 
 # ROCKETMQ
 

@@ -76,6 +76,7 @@
 + [优秀架构师成长之路（7）-事件驱动](https://mp.weixin.qq.com/s/jghvPYj8A1uyvlHOQvqwFA)
 + [五、架构设计技巧——架构设计步骤与应用](https://mp.weixin.qq.com/s/J1WKqsnkLPXgdJpfMk4tlg)
 + [三十四、领域驱动设计——战略设计](https://mp.weixin.qq.com/s/fccAAc4KqH3pR7iBq2T3mw)
++ [优秀架构师成长之路（4）-HATEOAS](https://mp.weixin.qq.com/s/jet820r3rG7T4b2cOviU6A)
 
 ### DDD
 
@@ -850,6 +851,7 @@
 + [Git 开发快速入门 | 高频操作与核心逻辑详解](https://mp.weixin.qq.com/s/cp1X4HbHSj49lVE7bYU1LA)
 + [Facebook 为什么要弃用 Git？](https://mp.weixin.qq.com/s/qNbxEFLRJEkU2Xvh9nAJkw)
 + [Git使用经验点滴](https://mp.weixin.qq.com/s/KU5aFZtvM17pJwVSfZ17-g)
++ [全网最实用的Git学习工具](https://mp.weixin.qq.com/s/0E1bDyCe4Sm-UDbkfS0JHA)
 
 ### 编程范式
 

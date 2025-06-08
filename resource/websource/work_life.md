@@ -81,6 +81,7 @@
 + [“程序员即将被淘汰” 的神预言](https://mp.weixin.qq.com/s/ELx_QUKN4ZDQT8XfGexqRQ)
 + [如何成为技术大牛？一点点自己的经验分享和思考](https://mp.weixin.qq.com/s/uuGDxXPoRtFukDiXnUqZSA)
 + [编程和年龄](https://mp.weixin.qq.com/s/C-ec7AYJLK5etODVcvGZ2w)
++ [体制内年薪20万属于什么水平？](https://mp.weixin.qq.com/s/LXQHyk73Zpt3NdgL5VdOcQ)
 
 # 个人成长
 
@@ -380,6 +381,7 @@
 + [挑战Rust和Scala，这门新语言震惊德国开发者！](https://mp.weixin.qq.com/s/wLicB_C9JXhvmIO5p0MzPw)
 + [Scala 语言未来如何进化？](https://www.oschina.net/news/345137/evolving-scala)
 + [为什么现在编程比以前容易了？](https://mp.weixin.qq.com/s/v-KoXofvJrRp2I39KSexzQ)
++ [让百万程序员跪着喊“祖师爷赏饭”！Vue作者尤雨溪，是一个怎样的人？](https://mp.weixin.qq.com/s/JoKXcZI99w9wLn9LmU_voQ)
 
 ## 创业
 

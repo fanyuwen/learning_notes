@@ -538,6 +538,7 @@
 + [面试官：Map在循环中能不能操作？有什么注意事项？](https://mp.weixin.qq.com/s/y9EvgeZxbQ3dg6GI8GXC3g)
 + [深入剖析 Java 精度丢失：从二进制存储到浮点运算的底层逻辑](https://mp.weixin.qq.com/s/wcv5JgJIf80oGQAiDkNb5w)
 + [Java 为什么会出现 Lambda 的奇怪写法？详细解释给你听](https://mp.weixin.qq.com/s/nev-K8C1XAVJwWrANCNktA)
++ [“Java编译与执行全揭秘：宏观到微观开启java的奇幻之旅”](https://mp.weixin.qq.com/s/ZQFBKRetERkY_tfylpXVCA)
 
 ### IO
 
@@ -692,6 +693,7 @@
 + [Java开发必知：如何设计一个线程安全的类？](https://mp.weixin.qq.com/s/CL2v_zab0pOVuv3x5tztTg)
 + [Java真的不难（二十七）多线程(一)](https://mp.weixin.qq.com/s/Z1T_rO0NLIwWSLM9OSv7oQ)
 + [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
++ [线程的单例模式](https://mp.weixin.qq.com/s/ytguHag3e80JAo0PYMj6UA)
 
 #### 线程池
 
@@ -3693,6 +3695,7 @@
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [int 数值溢出](https://mp.weixin.qq.com/s/DnlmVKKYK6DJFri8heNQsg)
 + [Java项目慢SQL优化实战：从索引优化到SQL改写，性能提升10倍不是梦！](https://mp.weixin.qq.com/s/w8COkn1Pg97o7jb1spesnw)
 + [Java 安全 | Click1 链分析](https://mp.weixin.qq.com/s/81mRzCf8PbYh7pTu7iQRhg)
 + [《再这样下去Java没救了》爆了，来投票看看数据吧](https://mp.weixin.qq.com/s/QuC94XdMoALpxl0cgdLSAA)

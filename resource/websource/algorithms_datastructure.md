@@ -76,6 +76,7 @@
 + [漫画图解排序算法：7大排序算法从冒泡到快速排序，谁才是效率之王？（附图解）](https://mp.weixin.qq.com/s/8pYO9ZZd9pInEuy8lunqVg)
 + [漫画图解归并排序算法：原来只要掌握分治思想，90%的人就能轻松成为排序算法高手！](https://mp.weixin.qq.com/s/lqEBBWGsdVS009QCViN53g)
 + [漫画图解希尔排序算法：突破O(n²)的高效排序法（附图解+代码）](https://mp.weixin.qq.com/s/EADuTxyOMlP2Nt_Q59Kt0g)
++ [有哪些算法惊艳到了你？（六）](https://mp.weixin.qq.com/s/2ch9kVVZoL5vb_JhDee4ZA)
 
 ## 排序算法
 

@@ -153,6 +153,7 @@
 + [go语法大赏](https://mp.weixin.qq.com/s/jTKHzh6VyeB72_N4WUuklA)
 + [Golang接口加锁与数据库事务的重要性：从红包漏洞看系统安全](https://mp.weixin.qq.com/s/_so9OpVo68tdIt62jlriug)
 + [如何写出“能看懂的”错误日志？](https://mp.weixin.qq.com/s/Q6vRgiSY2OjP-FSw1prIlg)
++ [Go defer 的6大死亡陷阱及破解之道（含深层原因分析）](https://mp.weixin.qq.com/s/glVGkuUmvsUL3OHPfEf18A)
 
 # 面试题
 

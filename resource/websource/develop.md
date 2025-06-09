@@ -77,6 +77,7 @@
 + [五、架构设计技巧——架构设计步骤与应用](https://mp.weixin.qq.com/s/J1WKqsnkLPXgdJpfMk4tlg)
 + [三十四、领域驱动设计——战略设计](https://mp.weixin.qq.com/s/fccAAc4KqH3pR7iBq2T3mw)
 + [优秀架构师成长之路（4）-HATEOAS](https://mp.weixin.qq.com/s/jet820r3rG7T4b2cOviU6A)
++ [优秀架构师成长之路（8）-OAuth2.0](https://mp.weixin.qq.com/s/K8nyGf4UtDxbwBn1K3tWbQ)
 
 ### DDD
 

@@ -502,6 +502,7 @@
 + [Python 调试神器：pdb断点调试完整流程](https://mp.weixin.qq.com/s/neUVZsbERoeGHGFpAXp1-w)
 + [如何在python中复用函数而不破坏系统？](https://mp.weixin.qq.com/s/5MXmBSZXHH480mI-5hZJGw)
 + [【Python基础】Python中的slice](https://mp.weixin.qq.com/s/AyW360WFYKaiqnYqHMjuOw)
++ [在Python中为什么 `if __name__ == '__main__'` 是必要的？**?](https://mp.weixin.qq.com/s/8K4tj8WFCVbhslDEXLt_bg)
 
 ## 新特性
 

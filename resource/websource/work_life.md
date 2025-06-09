@@ -82,6 +82,7 @@
 + [如何成为技术大牛？一点点自己的经验分享和思考](https://mp.weixin.qq.com/s/uuGDxXPoRtFukDiXnUqZSA)
 + [编程和年龄](https://mp.weixin.qq.com/s/C-ec7AYJLK5etODVcvGZ2w)
 + [体制内年薪20万属于什么水平？](https://mp.weixin.qq.com/s/LXQHyk73Zpt3NdgL5VdOcQ)
++ [10万存款，撕开了多少打工人的心酸。](https://mp.weixin.qq.com/s/T-bpcv0ctFbqavzyAxfPAA)
 
 # 个人成长
 

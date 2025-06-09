@@ -1,5 +1,6 @@
 # 通用算法
 
++ [算法与数据结构：初识算法](https://mp.weixin.qq.com/s/0w52INKWbfHyUr7pwAB9LA)
 + [整理Bitmap在项目中的实战](https://mp.weixin.qq.com/s/lZlpG-LSmajowRWM88gE7g)
 + [从Bit位操作学封装](https://mp.weixin.qq.com/s/6aKNJVkNj-scoQuWfSrInA)
 + [手写 Java PriorityQueue 核心源码（上）](https://my.oschina.net/helloworldnet/blog/5124166)
@@ -76,7 +77,13 @@
 + [漫画图解排序算法：7大排序算法从冒泡到快速排序，谁才是效率之王？（附图解）](https://mp.weixin.qq.com/s/8pYO9ZZd9pInEuy8lunqVg)
 + [漫画图解归并排序算法：原来只要掌握分治思想，90%的人就能轻松成为排序算法高手！](https://mp.weixin.qq.com/s/lqEBBWGsdVS009QCViN53g)
 + [漫画图解希尔排序算法：突破O(n²)的高效排序法（附图解+代码）](https://mp.weixin.qq.com/s/EADuTxyOMlP2Nt_Q59Kt0g)
++ [漫画图解算法之基数排序：3 分钟快速掌握基数排序算法（附图解+代码）](https://mp.weixin.qq.com/s/PowjK3iIcaL8YIE7YeKABQ)
++ [漫画图解堆排序算法：90%人都能看懂的保姆级算法教程（附图解+代码）](https://mp.weixin.qq.com/s/jfETQBdv-zRunmesXFSVUw)
 + [有哪些算法惊艳到了你？（六）](https://mp.weixin.qq.com/s/2ch9kVVZoL5vb_JhDee4ZA)
++ [数据结构学习笔记(12)：哈夫曼树与哈夫曼编码](https://mp.weixin.qq.com/s/wYR4Ap-wHC_QEubnl48l-g)
++ [算法内功修炼-移动零](https://mp.weixin.qq.com/s/ml5a76FQ4HQx053brNnB5Q)
++ [数据结构学习笔记(11)：树的存储](https://mp.weixin.qq.com/s/8Zjem8aB__VB302UDkH_xQ)
++ [算法笔记：二叉树到底是什么？一文讲透其定义与存储的前世今生](https://mp.weixin.qq.com/s/DE1x_s-Q1V8l8nhLbzHEjA)
 
 ## 排序算法
 
@@ -123,3 +130,4 @@
 + [还得是微信，腾讯一面算法原题](https://mp.weixin.qq.com/s/GpNIZ3oseXjw_INnW3ogVw)
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
 + [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
++ [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)

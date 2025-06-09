@@ -187,6 +187,7 @@
 + [for...in 循环的坑，别再用它遍历 JavaScript 数组了！](https://mp.weixin.qq.com/s/k9FK-sj7XmXfir0JwcLLuQ)
 + [8种超实用的JavaScript错误处理方案](https://mp.weixin.qq.com/s/a1BE37Vws1aSBy9tgWCpEA)
 + [JavaScript中的一些实用小方法](https://mp.weixin.qq.com/s/C5PmvpO_pjWzbTvzp6zP3A)
++ [捕获async/await错误，你还在用try...catch吗？](https://mp.weixin.qq.com/s/-tGtJrQjg8zfQ3XosWtYlg)
 
 # 框架
 

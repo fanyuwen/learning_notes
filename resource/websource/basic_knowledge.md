@@ -229,6 +229,7 @@
 # 计算机基础知识
 
 + [计算机组成原理](https://mp.weixin.qq.com/s/J0EITMyEJNQeeBhmoKh4EA)
++ [一文了解计算机中的二进制](https://mp.weixin.qq.com/s/m5aW0-VsxsyB7ATN4o3W1A)
 
 ## CPU
 
@@ -384,6 +385,7 @@
 + [到底什么是带宽、网速、延迟？](https://mp.weixin.qq.com/s/rYLSwIhgAOigMRypXtzT3A)
 + [内网穿透方案](https://mp.weixin.qq.com/s/0gKTkoSVAlFellKqS3mw3Q)
 + [应用层网络通信协议详解](https://mp.weixin.qq.com/s/mdByUnGfwRj_wHt5eS2FxQ)
++ [计算机网络学习笔记(2)：计网分类和性能指标](https://mp.weixin.qq.com/s/AlWMJKEDJ5-L9u71GmFzjg)
 
 ### DNS
 

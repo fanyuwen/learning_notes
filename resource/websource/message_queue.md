@@ -124,6 +124,7 @@
 + [Kafka如何实现高并发(4大关键技术)](https://mp.weixin.qq.com/s/gJNOMeXNOLejTnMpsCYpLg)
 + [Kafka-为什么这么快(零拷贝Zero-Copy)](https://mp.weixin.qq.com/s/Gs673WV1Zpoua8NUq0_oJQ)
 + [Kafka-日常运维命令](https://mp.weixin.qq.com/s/ndSTOIIsulWP__sf_p7-MA)
++ [Kafka-分区(Partition)和副本(Replica)](https://mp.weixin.qq.com/s/uw_unk9xO1sJIa9Kc8BM8A)
 
 # ROCKETMQ
 

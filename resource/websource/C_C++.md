@@ -33,9 +33,11 @@
 ## C++
 
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
++ [c++是最难的编程语言吗，怎样学好呢？](https://mp.weixin.qq.com/s/BSJISZLrU7LZp4qHG9g_mA)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
 + [C++ 类和对象：构造、拷贝构造、初始化列表、析构（最全讲解）](https://mp.weixin.qq.com/s/VR7K1R_HMjp3YeB7W_khEQ)
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
++ [C++ 的严格别名（Strict Aliasing）规则](https://mp.weixin.qq.com/s/cGTCDotBNO3RgwoynH9RlA)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
 + [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
 + [跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
@@ -273,6 +275,7 @@
 + [C语言编程，我想用指针实现整数互换为啥歇菜了？](https://mp.weixin.qq.com/s/WHawUfhByH7RQ67iY9rX6w)
 + [C语言程序的网络通信优化：提高传输效率](https://mp.weixin.qq.com/s/M8ZIjduWcT5wD0lgSzX9Og)
 + [.c和.h文件有什么区别，能不能玩转编程就看它俩了](https://mp.weixin.qq.com/s/VRiqSZsGsDQloizoBFRdXg)
++ [c程序的退出处理函数](https://mp.weixin.qq.com/s/5NZSiar4_zqtKL4070wiHA)
 + [gcc __attribute__((const))解析](https://mp.weixin.qq.com/s/OfE3KlgKRpihB-w6Rbq1AQ)
 + [基于Linker Script与__attribute__((section))实现 C 语言函数调用实战](https://mp.weixin.qq.com/s/v6MB93469fHaWaQs1ctsVQ)
 + [malloc 背后的虚拟内存 和 malloc实现原理](https://mp.weixin.qq.com/s/kJq03LoTLb7Uit1c6Z_VzQ)
@@ -346,6 +349,7 @@
 + [从Bootloader到OTA：解锁嵌入式固件更新的正确姿势](https://mp.weixin.qq.com/s/AI0DlCYszm0VHG4DABHE1g)
 + [嵌入式编程基础 | 深入理解单片C语言中的break、continue和return流程控制语句](https://mp.weixin.qq.com/s/HwSwZcGXSO0e6kDS9KZalQ)
 + [嵌入式设计模式--C语言的抽象工厂模式](https://mp.weixin.qq.com/s/1hJNdnPFAd_UVcP1zMRl7g)
++ [嵌入式多核时代，FreeRTOS V11.0 SMP上手指南](https://mp.weixin.qq.com/s/to3FG-4M-EmVLnuafybf8w)
 
 # ARM
 

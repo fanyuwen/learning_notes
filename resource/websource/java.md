@@ -311,6 +311,7 @@
 + [Java真的不难（七十一）解释器模式的深入分析及权限规则检查业务案例](https://mp.weixin.qq.com/s/QytyAaafk5Fwo5jbJVRwsQ)
 + [Java真的不难（七十二）抽象工厂模式概念及在电商系统中的组合应用（纯干货）](https://mp.weixin.qq.com/s/mF1sV1X-OerdkS9i9F3q5g)
 + [Java真的不难（七十）中介者模式分析及在交通管制系统业务中的实例（纯干货）](https://mp.weixin.qq.com/s/71qt8m5ey7SaSwCkhA7h1Q)
++ [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -798,6 +799,7 @@
 + [Java真的不难（六十二）Synchronized关键字和死锁的深入分析](https://mp.weixin.qq.com/s/avahIS7QpK6pVOwi7HLljg)
 + [一文搞懂线程死锁：四大必要条件与避坑指南](https://mp.weixin.qq.com/s/EhxybgcMlbXYWf_68_rQwg)
 + [JUC锁原理之AQS原理&CLH同步队列](https://mp.weixin.qq.com/s/zNQ1CikABHp7wSvGn8pKFw)
++ [Synchronized是怎么实现的？](https://mp.weixin.qq.com/s/n24S3azeI6SaBSWEt20ybA)
 
 #### volatile
 
@@ -876,6 +878,8 @@
 + [新来的小伙伴上来就搞 JVM 调优，还将接口吞吐量提高了 22.5%，被狠狠夸了！](https://mp.weixin.qq.com/s/VWj22UmDc5qy_P5nq_sM1A)
 + [《揭秘Java虚拟机（JVM）核心机制：从跨平台到不同版本虚拟机的全面解析》](https://mp.weixin.qq.com/s/-7YiIBHSDrKfkM7aw31SHw)
 + [JVM的通关指南（一）原来这就是JVM](https://mp.weixin.qq.com/s/SGyZiy5P0TBc_qxhzlokvA)
++ [为Java虚拟机分配堆内存大于机器物理内存会怎么样？](https://mp.weixin.qq.com/s/YUeXhUcA01U7Wjtxo-ZggQ)
++ [JVM的通关指南（二）JVM运行时数据区的深入解析](https://mp.weixin.qq.com/s/TVbeBGLTHPQ82ApQ0knirw)
 
 ### 命令
 
@@ -990,6 +994,7 @@
 + [JVM垃圾收集器详解与演进分析：为什么有这么多垃圾收集器？](https://mp.weixin.qq.com/s/VPcpa1lgx2TDTRxJET9b2g)
 + [记录一次频繁FullGC的排查过程](https://mp.weixin.qq.com/s/v3Bq_SvzA5CfoLvllnhVpw)
 + [垃圾回收机制](https://mp.weixin.qq.com/s/l7eAFRonOPqJZrXv8qJ2tA)
++ [历数Java虚拟机GC的种种缺点](https://mp.weixin.qq.com/s/bMBY5qVVX4O6q7oaHu1VNw)
 
 # 核心库
 
@@ -1786,6 +1791,10 @@
 
 + [异步编程 RxJava - 介绍](https://my.oschina.net/OutOfMemory/blog/810511)
 
+## seata
+
++ [深度剖析Seata源码](https://mp.weixin.qq.com/s/WzWAk2fYQmr0HYUxAwHxwg)
+
 ## sentinel
 
 + [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
@@ -2224,6 +2233,7 @@
 + [Spring AI：超神Advisor切面，会话记忆和历史记录秒解决](https://mp.weixin.qq.com/s/ran79ZVNF1wxck0r-BpqKQ)
 + [Spring AI 入门之 嵌入模型和向量数据库](https://mp.weixin.qq.com/s/lVm4k6ZZbrKrDs9GFikSWw)
 + [Java集成Spring-AI与Langchain4j深度对比：谁才是企业级AI应用的最佳选择？](https://mp.weixin.qq.com/s/YnSJg-b9ZuUY9L50UlWKHA)
++ [遨游Spring AI：第一盘菜Hello World](https://mp.weixin.qq.com/s/7_Qc-SrH9XbU2_L5OVj0aQ)
 
 ### cloud
 

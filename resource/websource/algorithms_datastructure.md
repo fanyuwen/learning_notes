@@ -84,6 +84,7 @@
 + [算法内功修炼-移动零](https://mp.weixin.qq.com/s/ml5a76FQ4HQx053brNnB5Q)
 + [数据结构学习笔记(11)：树的存储](https://mp.weixin.qq.com/s/8Zjem8aB__VB302UDkH_xQ)
 + [算法笔记：二叉树到底是什么？一文讲透其定义与存储的前世今生](https://mp.weixin.qq.com/s/DE1x_s-Q1V8l8nhLbzHEjA)
++ [算法内功修炼-两个数组的交集(今日正式开始：2025年IT小同学公众号粉丝破万计划)](https://mp.weixin.qq.com/s/jz7KSj9d8h-NqXUeiH4rMg)
 
 ## 排序算法
 

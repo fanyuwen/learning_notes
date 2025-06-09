@@ -139,6 +139,7 @@
 + [Linux环境下误删重要文件怎么办？](https://mp.weixin.qq.com/s/0ybOF3CC6x74y_NZYhdAAw)
 + [任务调度器：从入门到放弃（二）](https://mp.weixin.qq.com/s/g07Zsv1MwrUSJ-ETkfYvjQ)
 + [《面试必考 | 算法与数据结构之二叉树（三） 》](https://mp.weixin.qq.com/s/TWh24YDPWdF-T0BgggP8SA)
++ [使用crash查看内核结构体](https://mp.weixin.qq.com/s/W627Ge0TZ5rFp9LCZ0mppg)
 
 ### 网络
 

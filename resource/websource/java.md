@@ -731,6 +731,7 @@
 + [线程池之ForkJoinPool](https://mp.weixin.qq.com/s/NV8x2bqUb-RIEHy56fgBJg)
 + [上下文线程池配置 异步线程事务控制](https://mp.weixin.qq.com/s/pYqB62aUMocS6X5q8t619A)
 + [面试官问我Java线程池怎么用，我这样回答直接加分！](https://mp.weixin.qq.com/s/0-d_mxjabkALJHD-wYO6qw)
++ [你了解Java线程池原理吗？](https://mp.weixin.qq.com/s/46JSmc8cVv0sT3AOInUEQw)
 
 #### 锁
 
@@ -1062,6 +1063,7 @@
 + [Java真的不难（三十八）Stream流的高级用法](https://mp.weixin.qq.com/s/9Pm6e-yBjx8D3PxZ82cjVg)
 + [天呐！Java Stream 高效开发！16 个逆天案例，让你秒速起飞！](https://mp.weixin.qq.com/s/19RSoEpYwQXHZJMVKAmoXg)
 + [Java Stream实现List排序的核心技巧](https://mp.weixin.qq.com/s/Ere-CrtYaoQZHimhVd7UoA)
++ [你知道 Java Stream 写法吗？演示10种场景使用案例（代码干货）](https://mp.weixin.qq.com/s/U6shX4hwrYsZ8vi1s5HjsQ)
 
 ### Date/time
 
@@ -1253,6 +1255,7 @@
 + [如何实现链路追踪，从ThreadLocal讲起](https://mp.weixin.qq.com/s/aat2kG8bQyEY_KIT6M2xlg)
 + [Java线程池 - ThreadLocal底层原理与内存泄漏OOM（建议收藏=官方文档+源码+复现+可视化分析+解决方案+实验）](https://mp.weixin.qq.com/s/pYEYZU-WeA_HXscQ3ywZzw)
 + [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
++ [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
 
 ### Lock
 
@@ -1470,6 +1473,7 @@
 + [缓存之美：万文详解 Caffeine 实现原理（上）](https://my.oschina.net/u/4090830/blog/17578210)
 + [缓存之美：万文详解 Caffeine 实现原理（下）](https://my.oschina.net/u/4090830/blog/18017722)
 + [Caffeine：从动态过期时间到时间过期原理](https://mp.weixin.qq.com/s/3dOqFfzk12_Va5BmoSA_9g)
++ [Caffeine缓存王者归来：本地缓存性能提升300%的秘密，架构师必备的调优利器！](https://mp.weixin.qq.com/s/Aw6udavUNViaNbczDBOJWA)
 
 ## consul
 
@@ -2020,6 +2024,7 @@
 + [快速入门-Spring WebFlux](https://mp.weixin.qq.com/s/Y-PTW3TIaID9CO7Tjv_Eng)
 + [针对URL的路径匹配:AntPathMatcher 和 UrlPathHelper](https://mp.weixin.qq.com/s/48C8edlXaJ4ZzfNBqOtyTg)
 + [性能优化！3种方案优化Controller接口调用，性能提升N倍](https://mp.weixin.qq.com/s/1QEtyRFWzFojO8Q_V7yv1Q)
++ [一文吃透@PathVariable注解，Java编程轻松拿捏](https://mp.weixin.qq.com/s/nlgiLEnUWYlWIooRTSPXZg)
 
 ### concurrent
 
@@ -2949,6 +2954,7 @@
 + [惊了！Spring Boot 拦截器竟藏着这些隐藏玩法，很强](https://mp.weixin.qq.com/s/7tQG2Z0lGz7zj_6UGy6K9Q)
 + [5种方案！保护Spring Boot API接口安全](https://mp.weixin.qq.com/s/S6IbfjSSARx7clpSzF2Yiw)
 + [Spring Boot 3.x 中的 RestClient 使用全解析](https://mp.weixin.qq.com/s/gggEHI6ZADEHGwKAfOvIhw)
++ [Spring Boot 控制 Controller 接口的4种方式，哪种更适合你？](https://mp.weixin.qq.com/s/56Gbg3LNGkvNaiLz0RuaNw)
 
 ##### VUE
 
@@ -3212,6 +3218,7 @@
 + [你真的了解Spring Boot的日志框架logback吗？](https://mp.weixin.qq.com/s/Hjho3lU9rLub-reTh40zwg)
 + [SpringBoot日志设置和属性详解](https://mp.weixin.qq.com/s/tMN9RSUO2OrilGe9vM9Hqg)
 + [SpringBoot中14个日志使用技巧](https://mp.weixin.qq.com/s/K-8L2dMItXchPCdeL4d4fg)
++ [SpringBoot的5种日志输出规范策略](https://mp.weixin.qq.com/s/k0amYZ6ihIK_Y5Qk7NSYaA)
 
 #### 安全
 
@@ -3702,6 +3709,7 @@
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
++ [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)

@@ -1,5 +1,6 @@
 # 未分组
 
++ [五十三、设计模式简介](https://mp.weixin.qq.com/s/LoIxViii7ixZojHUq_1rkw)
 + [如何优雅的将设计模式运用到实际项目中去?](https://mp.weixin.qq.com/s/bJ_9HbdndyGQegcOM2oTMA)
 + [新项目，玩的真6！能把设计模式，提炼成通用框架！](https://mp.weixin.qq.com/s/9zPKVv-80xikXplLh_MFMQ)
 + [面试官：装饰器模式和代理模式之间的区别是什么？并说明各自适合的场景](https://mp.weixin.qq.com/s/eLEurHAs9db4S4Agq2yQBA)
@@ -126,6 +127,7 @@
 + [干掉项目中杂乱的 if-else，试试状态模式，这才是优雅的实现方式！](https://mp.weixin.qq.com/s/UEudZbFumiw-c9d8-IBZEQ)
 + [深入设计模式之「状态模式」：行为随状态切换而改变的优雅设计](https://mp.weixin.qq.com/s/A0O2vTnDB32_lVOWa-XtRA)
 + [基于状态模式的状态机](https://mp.weixin.qq.com/s/F-Ouyy2dG5pr8fCpiumZig)
++ [活用“状态模式”替代冗长的 if...else 逻辑](https://mp.weixin.qq.com/s/3ixeJEip_kgJhh3L30p4lg)
 
 ## 责任链模式
 
@@ -140,6 +142,7 @@
 + [巧用『责任链模式』来优化 参数多重校验，非常优雅！](https://mp.weixin.qq.com/s/54RO3aUgRhK6xk5pjfLOoQ)
 + [聊一聊：设计模式——责任链模式](https://mp.weixin.qq.com/s/rpibeHa8Ohv5vOhkFADMmw)
 + [责任链模式实践-开放银行数据保护及合规](https://mp.weixin.qq.com/s/aTiqwtRVepWfD32EPDF2ew)
++ [责任链模式：让业务处理像流水线一样高效！](https://mp.weixin.qq.com/s/ZqJzHrVEbOA2bFwWoUQNdA)
 
 ## 观察者模式
 

@@ -20,6 +20,7 @@
 + [Kotlin Notebook 的高效开发指南｜官方博客](https://mp.weixin.qq.com/s/9khgDLgVKsiluC4MsNR1Wg)
 + [原创：写给初学者的Jetpack Compose教程，Side Effect](https://mp.weixin.qq.com/s/enlou-cxuR8KfcZht5mrLQ)
 + [再见 C++！使用 Kotlin 加速 Android Native 项目开发](https://mp.weixin.qq.com/s/kLqgUEYr95ePDr8oE5GA0w)
++ [加强后端开发中的 Kotlin：与 Spring 建立战略合作伙伴关系 | 官方博客](https://mp.weixin.qq.com/s/uyk5r8qUrtJFm2veONr6Tg)
 
 ## 技术月报
 

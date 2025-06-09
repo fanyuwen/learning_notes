@@ -50,6 +50,7 @@
 + [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
 + [C++容器之迭代器](https://mp.weixin.qq.com/s/juS0p_W2E9erjkOIpubxTA)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
++ [std::locale::facet介绍](https://mp.weixin.qq.com/s/XXD4ggKGwTrmQsk6cihrWg)
 + [C++常用STL容器的底层实现](https://mp.weixin.qq.com/s/51gc84tilMhzaOIUUCH_Tg)
 + [探秘C++虚函数表：从内存深处解析多态的奥秘](https://mp.weixin.qq.com/s/jEGNey3zUOXeTz_8N-pIIw)
 + [C++的信号处理优先级](https://mp.weixin.qq.com/s/NmkMqAj3MXA09UQZQ9Rvwg)
@@ -194,6 +195,7 @@
 + [记录一次高版本GCC由于缺少return导致的宕机问题](https://mp.weixin.qq.com/s/N-XwdTJG_4zDAtJ8B4TYmg)
 + [ABI兼容性：为什么你的C++程序编译链接不通过？](https://mp.weixin.qq.com/s/9Xahip6Td7N0uMu753ElAg)
 + [在三条指令内实现闰年判断](https://mp.weixin.qq.com/s/DON-CC1bOWdajeNnc5aL3w)
++ [C++信奥之径，锻炼思维，扎实算法——二分查找与二分答案（3）](https://mp.weixin.qq.com/s/boC5l9ttzYGeItZqDyulIA)
 
 ### 资讯
 
@@ -242,6 +244,7 @@
 + [C语言函数：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/Xyet30yJkSE4wupEP4kMwA)
 + [指针学不会？看完这 15 张动态图，隔壁文科生都懂了！](https://mp.weixin.qq.com/s/FP5KkSevhgUY4UdCQbrY9g)
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
++ [C语言的面向对象之旅](https://mp.weixin.qq.com/s/2jpMh15Q6_wpuohiGxfuSA)
 + [C语言编写一个简单的内存分配器：大家都以为简单，实则暗藏玄机](https://mp.weixin.qq.com/s/trKDOz04Nzbo1SM7ECI9PQ)
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
@@ -322,6 +325,7 @@
 + [用 C 语言编写的嵌入式软件，需要强调高内聚低耦合吗？](https://mp.weixin.qq.com/s/pKGD2dz5FYhCbBy3JaIFqw)
 + [嵌入式编程基础 | C语言的关键字有哪些，哪些词容易混淆为关键字？](https://mp.weixin.qq.com/s/vJowEt_Cha_zlUrrHx1HBg)
 + [C语言实现PID算法](https://mp.weixin.qq.com/s/JsJzdk_lUW4DJFrZlemmAA)
++ [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
 
 ### 资讯
 

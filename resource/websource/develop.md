@@ -636,6 +636,7 @@
 + [10万QPS，如何设计 ‘敏感词’ 风控，还要支持 实时更新的？](https://mp.weixin.qq.com/s/WlSjXgkoQ13SOnPlflJPlQ)
 + [设计心得——事件机制的实现](https://mp.weixin.qq.com/s/rHYA6m-aIqvtztpr7MXvOw)
 + [设计心得——状态机](https://mp.weixin.qq.com/s/TnjhritbHLvQRIpuTaCVFw)
++ [大文件上传(实战篇A)：HTTP Range也疯狂！](https://mp.weixin.qq.com/s/3Pl56TMHk5KFHrWqheMaPg)
 
 # 测试相关
 

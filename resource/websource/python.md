@@ -503,6 +503,8 @@
 + [如何在python中复用函数而不破坏系统？](https://mp.weixin.qq.com/s/5MXmBSZXHH480mI-5hZJGw)
 + [【Python基础】Python中的slice](https://mp.weixin.qq.com/s/AyW360WFYKaiqnYqHMjuOw)
 + [在Python中为什么 `if __name__ == '__main__'` 是必要的？**?](https://mp.weixin.qq.com/s/8K4tj8WFCVbhslDEXLt_bg)
++ [为什么python的is和==让无数人抓狂？3分钟彻底搞懂](https://mp.weixin.qq.com/s/IpE3nglwvrx_WffbFpBxog)
++ [Python编码格式化之PEP8编码规范](https://mp.weixin.qq.com/s/O7hb7kLsoODSTBe82IYZmQ)
 
 ## 新特性
 
@@ -892,6 +894,7 @@
 + [Python爬虫有哪些常见的反爬手段？](https://mp.weixin.qq.com/s/YWAEcihbrfPQ2JKn5AZb7g)
 + [BeautifulSoup：一个优雅的Python爬虫神器！](https://mp.weixin.qq.com/s/Txyd6Z883Jua2qN1Q17fXQ)
 + [Python爬虫实战：抓取你想要的数据](https://mp.weixin.qq.com/s/2_9-b7KevPZPczbVlYiVpQ)
++ [python学习16-爬虫基础命令](https://mp.weixin.qq.com/s/54Pd5-j3webz_zVdWLxj2w)
 
 ## 数据分析
 

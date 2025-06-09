@@ -412,6 +412,7 @@
 + [mysql字段数量限制为啥是1017 ?](https://mp.weixin.qq.com/s/Oms38x8IR5F0jSN6c3e3sA)
 + [[MYSQL] 内存与swap的两极反转](https://mp.weixin.qq.com/s/RIS_sI0nOAnweYN5Jx7mWQ)
 + [[MYSQL] 5.7的老BUG再现 -- checksum值的反复横跳](https://mp.weixin.qq.com/s/nlztWYcnp2r8FI3mDG91sA)
++ [字节一面：MySQL 是怎么存储 NULL 的？](https://mp.weixin.qq.com/s/vEfrE19z0b5Pd4Cx3V5w6w)
 
 #### 存储引擎
 
@@ -830,6 +831,7 @@
 + [实例演示：Redis集群强大的可伸缩性](https://mp.weixin.qq.com/s/wjrCeHRRS0musvNJcXjOvw)
 + [知己知彼：Redis集群中的节点信息详解](https://mp.weixin.qq.com/s/LRNcKUtBlDzavucth_jklw)
 + [Redis中的事务处理](https://mp.weixin.qq.com/s/EPMZyHIf6nkYX83P8dQ0FQ)
++ [Redis集群碎碎念：参数配置](https://mp.weixin.qq.com/s/dLiLvXIaFn5CvOd-rG_jSQ)
 
 #### 原理
 
@@ -932,6 +934,7 @@
 ### levelDB
 
 + [LevelDB 设计与实现](https://mp.weixin.qq.com/s/W5CsR6Xn-UuGABNMFEstIQ)
++ [leveldb高性能读写接口](https://mp.weixin.qq.com/s/5xVkFoScKMXWfiirT3ojBQ)
 
 ### APACHE DORIS
 

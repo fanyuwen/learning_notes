@@ -211,6 +211,7 @@
 + [Python脚本超能力：掌握sys与os模块的20个核心交互技巧](https://mp.weixin.qq.com/s/SxEWTq33hriBSjNx-N_wLQ)
 + [Python编程精进：优化模块导入提升性能](https://mp.weixin.qq.com/s/hhJkyVXDBcYMotd2scQxow)
 + [Python 模块/包/库：90%新手都搞混的概念！3分钟彻底搞懂！](https://mp.weixin.qq.com/s/c2zp-04oHYS6B0r8nBIIcg)
++ [Python日志调试模块-logging](https://mp.weixin.qq.com/s/wdJEetPIRVDU7TzAcYhQCA)
 
 ### 异步/多线程
 
@@ -229,6 +230,7 @@
 + [python入门系列十三（多线程）](https://mp.weixin.qq.com/s/1ZZ3GqLXwWouAEaI6eUuJQ)
 + [python中的多线程与多进程](https://mp.weixin.qq.com/s/oa1thmacOd4rFMUPyKO9LQ)
 + [python入门系列十五（asyncio）](https://mp.weixin.qq.com/s/Am1tRhv-bKbqg1EZ2thiyA)
++ [Python 多线程终极指南：从入门到实战，看完这篇就够了！附避坑指南](https://mp.weixin.qq.com/s/mUv2BeExM3jPI1mXKDX0Dg)
 
 ## 实践
 

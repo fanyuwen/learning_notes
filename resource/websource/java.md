@@ -20,7 +20,6 @@
 + [Java 流 io 和块 io](https://my.oschina.net/OutOfMemory/blog/95853)
 + [调用构造器的处理步骤](https://my.oschina.net/OutOfMemory/blog/298956)
 + [Java 原码，反码和补码](https://my.oschina.net/OutOfMemory/blog/109180)
-+ [面试官：告诉我为什么static和transient关键字修饰的变量不能被序列化？](https://mp.weixin.qq.com/s/LpZIQkcfsjzawGbkCjXcVQ)
 + [掌控程序流程：if-else、for、while，控制语句让你的代码更加灵动](https://mp.weixin.qq.com/s/kOUdutHuxI--SaJqxKo2Ow)
 + [字符串拼接还在用StringBuilder？快试试Java8中的StringJoiner吧，真香！](https://mp.weixin.qq.com/s/4LXbttQcxnjwPYQvGd8Svw)
 + [Java开发者必看！五种炫酷方式遍历Map，让你的代码飞起来！](https://mp.weixin.qq.com/s/RgmWgLbeE1mdlB1pNNVyKg)
@@ -73,16 +72,10 @@
 + [面试官：List删除的四种方式](https://mp.weixin.qq.com/s/6EAAbUYpRQzW28JhvKsOGw)
 + [Java包装类与基本数据类型的博弈：深挖开发中的九重门](https://mp.weixin.qq.com/s/_YDTvFHYEHjuYrCT6ek2RA)
 + [Java自动装箱与拆箱：小细节里的大智慧](https://mp.weixin.qq.com/s/do_0UCq6GEO-IKPqDD2DzQ)
-+ [JavaSec-Java反序列化基础篇-Common-Collections1](https://mp.weixin.qq.com/s/vu5kvk-JorAlTIkXAgkt4w)
-+ [Java序列化与反序列化原理，实现序列化对象到文件！](https://mp.weixin.qq.com/s/HXGkEh6vccFswrfiFKomSQ)
 + [for-each vs 常规for 哪个更高效？好多人答错了](https://mp.weixin.qq.com/s/_mnmnG3iZKJBzipaNlpZhw)
-+ [工作多年，竟不知Java序列化？](https://mp.weixin.qq.com/s/B_dqFtilxUnQbQoGm9d71w)
 + [Java 真的不难（十四） 包装类](https://mp.weixin.qq.com/s/ChYeYm-mElSnf7jwwxzycQ)
 + [Java真的不难（十八）内部类](https://mp.weixin.qq.com/s/NQ1LQTa5l7mJkhj0oGh6OA)
 + [Java真的不难（二十四）泛型](https://mp.weixin.qq.com/s/cgccGWE0xj5qwOBXBalJXA)
-+ [逆向Java反序列化：从漏洞挖掘者的视角拆解CC1链的发现与构造](https://mp.weixin.qq.com/s/J8Xv74gc6RJ9VCJQGhz7aw)
-+ [JavaSec-Java反序列化基础篇-反序列化概念与利用](https://mp.weixin.qq.com/s/yfi-FZ2iJYRi394I64RF9Q)
-+ [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
 + [Java 真的不难（十三） String类](https://mp.weixin.qq.com/s/CdaEf83Qt4gcpuWBX8B6Yw)
 + [JAVA三个常用关键字的深入解析（二）](https://mp.weixin.qq.com/s/I_neLjhcjvYIobtEac9GUw)
 + [Java包装类默认值：隐藏的陷阱与最佳实践](https://mp.weixin.qq.com/s/7N1XUNRL8Z-QfOYyf9fOkQ)
@@ -451,9 +444,7 @@
 
 + [【java面试100问】07 为什么不能用浮点型表示金额？](https://mp.weixin.qq.com/s/hmm3ISAs5d9ZQLJ3-rZyTg)
 + [美团面试：new Integer("127") 和 Integer.valueOf("128") 有什么区别](https://mp.weixin.qq.com/s/tmuPhJ3cJ4FNpBg275iuLA)
-+ [面试官：ArrayList序列化中，为什么用transient修饰数组？](https://mp.weixin.qq.com/s/1G4vDaODwsr3u1tnVO1FZw)
 + [Java 8 Lambda 能否访问接口的默认方法？代码实测揭秘！](https://mp.weixin.qq.com/s/DmqVdG1GVjsxVU4dlqP9Iw)
-+ [招行2面：为什么需要序列化和反序列？为什么不能直接使用对象？](https://mp.weixin.qq.com/s/Jm63nHFDXT4iCqAQPckrEw)
 + [用通俗易懂的大白话让你彻底搞明白 Java里的函数式编程和Lambda表达式真香！](https://mp.weixin.qq.com/s/kn6TCBjsh1W1NsU1SnWCnQ)
 + [Java真的不难（三十）Lambda表达式](https://mp.weixin.qq.com/s/cX0TVM2AdrTHYZ82VC_keA)
 + [Java 1.8 Lambda 如何访问局部变量，成员变量？](https://mp.weixin.qq.com/s/gFwhR7Ty_CtOJ7TU02WKvQ)
@@ -474,7 +465,6 @@
 + [用final声明的局部变量，能提升性能吗](https://mp.weixin.qq.com/s/UaOZhJPXTm864XhhfYUQlA)
 + [解析Java的多态性与动态绑定机制](https://mp.weixin.qq.com/s/U_7iuJ8PZJf_s9WxVzO0_Q)
 + [CTO：谁在项目中使用Arrays.asList、ArrayList.subList，就立马滚蛋！](https://mp.weixin.qq.com/s/gtfKuUJxylj3atOgfK6xKQ)
-+ [Java 序列化：让对象“穿越时空”](https://mp.weixin.qq.com/s/KNoQha6JR7kn8smpHlMoLg)
 + [Java反射机制最全详解(图文全面总结)](https://mp.weixin.qq.com/s/-tuiPpAATmgmWaWlV89zWg)
 + [为什么idea建议使用“+”拼接字符串](https://mp.weixin.qq.com/s/5o2rC0h4nvaeJMVSEsrHAg)
 + [万字长文理解无界队列和有界队列和适用场景](https://my.oschina.net/weige87/blog/16053881)
@@ -489,7 +479,6 @@
 + [new String("yupi") 一共创建了几个对象？](https://mp.weixin.qq.com/s/kTMPrWlOvecHh0TSyl2FDw)
 + [为何1000==1000为false，而100==100却为true？](https://mp.weixin.qq.com/s/7_KrtAyUqpA71AGwi1i5JQ)
 + [一不小心掉入了 Java Interface 的陷阱](https://mp.weixin.qq.com/s/KB5bo10LPkJJqnOJUc2fpw)
-+ [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
 + [Java 8 注解探秘](https://mp.weixin.qq.com/s/llXZ5e3FMhMmVrdb81EdNA)
 + [为什么 main 方法是 public static void ？](https://mp.weixin.qq.com/s/kJM1gAstBIHFHvSQ9DKMlQ)
 + [日志堆栈不打印问题以及解决方法](https://mp.weixin.qq.com/s/hHmjS4Jhc4M1PoKFRzaF9A)
@@ -510,7 +499,6 @@
 + [我试图通过这篇文章告诉你，这行源码有多牛逼。](https://mp.weixin.qq.com/s/jT_0CGok52F9autJ_N-anw)
 + [面试官：什么是生产者-消费者模式？如何实现？](https://mp.weixin.qq.com/s/Y05KEjcX1XwSYYUo3eBRdQ)
 + [为什么使用Bundle而不使用 HashMap](https://mp.weixin.qq.com/s/9bP89mOAOdXzqmCkUzK36g)
-+ [京东二面：说说Java序列化和反序列化](https://mp.weixin.qq.com/s/KV0OTGghVykRuOCkB95pSQ)
 + [Java性能优化-HashMap遍历的7种方式及性能测试对比](https://mp.weixin.qq.com/s/iJzba8IsBquJZyDgcOsDzw)
 + [Java性能优化-switch-case和if-else速度性能对比，到底谁快？](https://mp.weixin.qq.com/s/scbPIQp94sioy2u2AzUpcw)
 + [Java性能优化-switch性能优化-用String还是int做比较](https://mp.weixin.qq.com/s/B9JmroyK3vCEHiZjpLHwrg)
@@ -540,6 +528,22 @@
 + [深入剖析 Java 精度丢失：从二进制存储到浮点运算的底层逻辑](https://mp.weixin.qq.com/s/wcv5JgJIf80oGQAiDkNb5w)
 + [Java 为什么会出现 Lambda 的奇怪写法？详细解释给你听](https://mp.weixin.qq.com/s/nev-K8C1XAVJwWrANCNktA)
 + [“Java编译与执行全揭秘：宏观到微观开启java的奇幻之旅”](https://mp.weixin.qq.com/s/ZQFBKRetERkY_tfylpXVCA)
+
+### 序列化
+
++ [面试官：ArrayList序列化中，为什么用transient修饰数组？](https://mp.weixin.qq.com/s/1G4vDaODwsr3u1tnVO1FZw)
++ [面试官：告诉我为什么static和transient关键字修饰的变量不能被序列化？](https://mp.weixin.qq.com/s/LpZIQkcfsjzawGbkCjXcVQ)
++ [招行2面：为什么需要序列化和反序列？为什么不能直接使用对象？](https://mp.weixin.qq.com/s/Jm63nHFDXT4iCqAQPckrEw)
++ [Java 序列化：让对象“穿越时空”](https://mp.weixin.qq.com/s/KNoQha6JR7kn8smpHlMoLg)
++ [京东二面：说说Java序列化和反序列化](https://mp.weixin.qq.com/s/KV0OTGghVykRuOCkB95pSQ)
++ [面试官问：Java 序列化和反序列化为什么要实现 Serializable 接口？](https://mp.weixin.qq.com/s/Y2H3MjlsV-l9C0YJWY3qyQ)
++ [记录一次线上问题排查：JDK序列化问题](https://mp.weixin.qq.com/s/oA77lF5CMx3kaQU3AWC9kQ)
++ [JavaSec-Java反序列化基础篇-Common-Collections1](https://mp.weixin.qq.com/s/vu5kvk-JorAlTIkXAgkt4w)
++ [Java序列化与反序列化原理，实现序列化对象到文件！](https://mp.weixin.qq.com/s/HXGkEh6vccFswrfiFKomSQ)
++ [工作多年，竟不知Java序列化？](https://mp.weixin.qq.com/s/B_dqFtilxUnQbQoGm9d71w)
++ [逆向Java反序列化：从漏洞挖掘者的视角拆解CC1链的发现与构造](https://mp.weixin.qq.com/s/J8Xv74gc6RJ9VCJQGhz7aw)
++ [JavaSec-Java反序列化基础篇-反序列化概念与利用](https://mp.weixin.qq.com/s/yfi-FZ2iJYRi394I64RF9Q)
++ [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
 
 ### IO
 
@@ -996,6 +1000,7 @@
 + [记录一次频繁FullGC的排查过程](https://mp.weixin.qq.com/s/v3Bq_SvzA5CfoLvllnhVpw)
 + [垃圾回收机制](https://mp.weixin.qq.com/s/l7eAFRonOPqJZrXv8qJ2tA)
 + [历数Java虚拟机GC的种种缺点](https://mp.weixin.qq.com/s/bMBY5qVVX4O6q7oaHu1VNw)
++ [JVM年轻代为什么设计2个Survivor区](https://mp.weixin.qq.com/s/yd92irmSEIcD8WZiTc9ZsQ)
 
 # 核心库
 
@@ -2501,6 +2506,7 @@
 + [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
 + [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/Fk5DVgtJ5yUskJRj0w5z_w)
 + [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
++ [如何在Spring Boot中使用注解动态切换实现](https://mp.weixin.qq.com/s/B2wrnXow-v15OVWuNOaE_Q)
 
 #### 版本特性
 
@@ -3041,6 +3047,7 @@
 + [SpringBoot与HikariCP整合，实现数据库连接池动态优化系统](https://mp.weixin.qq.com/s/biPqz9FnpVAVksp2yIxN7g)
 + [SpringBoot中Redis的7种序列化策略](https://mp.weixin.qq.com/s/FlqEsVesLv6LdoHgaoCURQ)
 + [SpringBoot 接入 Redis 实现缓存秒懂教程](https://mp.weixin.qq.com/s/H7Rirxt3JWG2EF7xHCMakA)
++ [Java教程：SpringBoot项目如何在启动时等待数据库，待连接成功后再启动项目](https://mp.weixin.qq.com/s/GEHm5ZKtUCgznHZlGQaRLQ)
 
 ##### TRANSACTION
 
@@ -3707,8 +3714,11 @@
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
++ [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
++ [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
++ [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)

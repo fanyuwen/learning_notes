@@ -413,6 +413,9 @@
 + [[MYSQL] 内存与swap的两极反转](https://mp.weixin.qq.com/s/RIS_sI0nOAnweYN5Jx7mWQ)
 + [[MYSQL] 5.7的老BUG再现 -- checksum值的反复横跳](https://mp.weixin.qq.com/s/nlztWYcnp2r8FI3mDG91sA)
 + [字节一面：MySQL 是怎么存储 NULL 的？](https://mp.weixin.qq.com/s/vEfrE19z0b5Pd4Cx3V5w6w)
++ [mysql的explain关键字](https://mp.weixin.qq.com/s/WGxiIfV7w1AlyMa3lfRR3Q)
++ [MySQL性能优化（第二部分）](https://mp.weixin.qq.com/s/TstBVRxDuAAFhOYhU96SCg)
++ [面试官：使用 MySQL 时如果发现数据不一致了，可能是什么原因？](https://mp.weixin.qq.com/s/JIJ5Ym4VfUpX-tx7Id5fIA)
 
 #### 存储引擎
 

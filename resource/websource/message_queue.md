@@ -127,6 +127,7 @@
 + [Kafka-分区(Partition)和副本(Replica)](https://mp.weixin.qq.com/s/uw_unk9xO1sJIa9Kc8BM8A)
 + [Kafka-元数据存储（ZooKeeper）](https://mp.weixin.qq.com/s/1q9gMTEeIpksvFMFkHJS3g)
 + [面试官：Kafka为什么这么快？](https://mp.weixin.qq.com/s/nPsg1IyuGvwTF9bOnDKWaQ)
++ [Kafka-案例-异常分区（Partion）修复](https://mp.weixin.qq.com/s/gSDu2mCEr8veXJFAstw5pw)
 
 # ROCKETMQ
 

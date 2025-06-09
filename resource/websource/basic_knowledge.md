@@ -140,6 +140,7 @@
 + [任务调度器：从入门到放弃（二）](https://mp.weixin.qq.com/s/g07Zsv1MwrUSJ-ETkfYvjQ)
 + [《面试必考 | 算法与数据结构之二叉树（三） 》](https://mp.weixin.qq.com/s/TWh24YDPWdF-T0BgggP8SA)
 + [使用crash查看内核结构体](https://mp.weixin.qq.com/s/W627Ge0TZ5rFp9LCZ0mppg)
++ [Linux内核内存管理：核心技术与优化策略](https://mp.weixin.qq.com/s/vyjlg9uC1hfAYuwQA7H0JA)
 
 ### 网络
 
@@ -155,6 +156,7 @@
 + [Linux 网络第一部分：内核网络栈](https://mp.weixin.qq.com/s/JN-2pHj5lkCFFYd1bwIbwA)
 + [Linux 网络调优简介](https://mp.weixin.qq.com/s/0x-0q2j6pWb1RqIlu0E6AQ)
 + [100G 网络速率调优-CPU调速器](https://mp.weixin.qq.com/s/tNfEPJUveeLrjmvr5XsMag)
++ [Linux高性能网络编程十谈|C++11实现22种高并发模型](https://mp.weixin.qq.com/s/whopYubsHE3_jc9nXdeLXg)
 
 ### 命令
 
@@ -622,6 +624,7 @@
 ## 字符编码
 
 + [ASCII、Unicode、UTF-8、utf8mb4，有啥区别？](https://mp.weixin.qq.com/s/7khFCHebVtPSpsfGse7vCA)
++ [UTF-8 vs UTF-16](https://mp.weixin.qq.com/s/kEoMc5WD87UBF68FoUEXWQ)
 + [计算机字符编码进化史](https://mp.weixin.qq.com/s/ImaTGMevbhZaWdkztNCB7Q)
 
 ## 实践

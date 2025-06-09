@@ -77,6 +77,7 @@
 + [【C++】内联函数引起的作用域问题](https://mp.weixin.qq.com/s/WNki29uv6akcSYvsOApKzw)
 + [跟我学C++中级篇——STL容器的查找对比](https://mp.weixin.qq.com/s/OTLmyBZtSULLOub6ct11rQ)
 + [【一分钟学C++】优先使用deleted函数而非私有声明](https://mp.weixin.qq.com/s/C3GkzBAZ1gZa1AFjbBWGMA)
++ [C++ 类基础必看！封装、继承、多态与多线程模板实现](https://mp.weixin.qq.com/s/lxHLGfhLa1KkYXmYB5XsMg)
 + [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [C++ std::move 移动语义](https://mp.weixin.qq.com/s/xGWMl1ZyegckSUrfBuknyA)
@@ -154,6 +155,7 @@
 + [设计心得——函数参数的封装](https://mp.weixin.qq.com/s/Acc3IQoNK96PnpS6FjfjEg)
 + [用 C++ 打造高性能日志系统：压缩、加密、线程池全都安排上了！](https://mp.weixin.qq.com/s/IKlFEvBItO-AYDjCl5VZAw)
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
++ [类型萃取（Type Traits）](https://mp.weixin.qq.com/s/6nSQNe3r9Wiy57_D_x5i0Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
@@ -354,6 +356,7 @@
 + [嵌入式编程基础 | 深入理解单片C语言中的break、continue和return流程控制语句](https://mp.weixin.qq.com/s/HwSwZcGXSO0e6kDS9KZalQ)
 + [嵌入式设计模式--C语言的抽象工厂模式](https://mp.weixin.qq.com/s/1hJNdnPFAd_UVcP1zMRl7g)
 + [嵌入式多核时代，FreeRTOS V11.0 SMP上手指南](https://mp.weixin.qq.com/s/to3FG-4M-EmVLnuafybf8w)
++ [STM32速成笔记(十六)—SPI通信](https://mp.weixin.qq.com/s/8wQvChQeA4T_ccdVdsTZ0Q)
 
 # ARM
 

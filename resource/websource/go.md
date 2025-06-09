@@ -87,6 +87,7 @@
 + [Golang 中强大的重试机制，解决瞬态错误](https://mp.weixin.qq.com/s/r7O-ydES5PYFfGKz5VMzRg)
 + [Go 面试题：切片分隔、切片长度、切片扩容](https://mp.weixin.qq.com/s/lnsIjDwBvy8IxHo0ciNzbg)
 + [Go中协程的调度过程](https://mp.weixin.qq.com/s/UHGBsfhzUInS0jzZadpNbg)
++ [你真的理解 Go 的 defer 吗？这 3 个坑请避开！](https://mp.weixin.qq.com/s/vn6sQjeTGzh0qdTmpV81Ow)
 + [理解 errgroup](https://mp.weixin.qq.com/s/R1OBMEXpSTDgEVWHQ-rekQ)
 + [Go 性能度量利器，完全替代 io.Reader 和 io.Writer！](https://mp.weixin.qq.com/s/_zELlhcrOpZSPqaIgvXp5g)
 + [fasthttp 比标准库 net/http 快 10 倍](https://mp.weixin.qq.com/s/IjzlueIzR0IiFUS-EsIsdg)
@@ -154,6 +155,7 @@
 + [Golang接口加锁与数据库事务的重要性：从红包漏洞看系统安全](https://mp.weixin.qq.com/s/_so9OpVo68tdIt62jlriug)
 + [如何写出“能看懂的”错误日志？](https://mp.weixin.qq.com/s/Q6vRgiSY2OjP-FSw1prIlg)
 + [Go defer 的6大死亡陷阱及破解之道（含深层原因分析）](https://mp.weixin.qq.com/s/glVGkuUmvsUL3OHPfEf18A)
++ [Go的优雅退出](https://mp.weixin.qq.com/s/ynouu9-jZUViTRnmhrD1Ew)
 
 # 面试题
 

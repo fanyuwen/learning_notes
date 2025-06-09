@@ -80,6 +80,7 @@
 + [JAVA三个常用关键字的深入解析（二）](https://mp.weixin.qq.com/s/I_neLjhcjvYIobtEac9GUw)
 + [Java包装类默认值：隐藏的陷阱与最佳实践](https://mp.weixin.qq.com/s/7N1XUNRL8Z-QfOYyf9fOkQ)
 + [Java内部类有坑，100%内存泄露！](https://mp.weixin.qq.com/s/pG_RI502vKf9n9SqMFsv0Q)
++ [第三章 Java基础知识点（十二）](https://mp.weixin.qq.com/s/pTxyVYL5cnOUOEsTV7RAlg)
 
 ### 方法/函数
 
@@ -740,6 +741,7 @@
 #### 锁
 
 + [美团一面：双检锁单例会写吗？](https://mp.weixin.qq.com/s/6dDuMYqSlUjH5J7xvkTHPg)
++ [编写一段代码，使其必定产生死锁](https://mp.weixin.qq.com/s/GsazRMkZybZO65BlnHZxjA)
 + [Java并发编程：线程活跃性问题：死锁、活锁与饥饿](https://mp.weixin.qq.com/s/PzdzJqNbrbgRA8WPwEj6Sw)
 + [大厂面试必问题：死锁如何产生？怎么解决？](https://mp.weixin.qq.com/s/8z7dXmTthDjSBMKnKpskuA)
 + [Java社招面试题：说说自己是怎么使用synchronized关键字，在项目中用到了吗？](https://mp.weixin.qq.com/s/ViWplyr6r2IKrIV0Kzdqsw)
@@ -2237,6 +2239,7 @@
 
 ### AI
 
++ [遨游Spring AI：正式版终于发布了！](https://mp.weixin.qq.com/s/-VIYXU5bga23z-wg6WAMBQ)
 + [Spring AI，Java开发者上手大模型最佳实践，手把手教你用起来](https://mp.weixin.qq.com/s/DMVeW63NnALEnaxYeZjuoQ)
 + [SpringAI：Java 开发的智能新利器](https://my.oschina.net/zlt2000/blog/16535398)
 + [王炸！SpringBoot+MCP 让你的 CRUD 系统秒变AI助手](https://mp.weixin.qq.com/s/nY4yGbfMRERsFe6wYHDQ5g)
@@ -2244,6 +2247,7 @@
 + [Spring AI 入门之 嵌入模型和向量数据库](https://mp.weixin.qq.com/s/lVm4k6ZZbrKrDs9GFikSWw)
 + [Java集成Spring-AI与Langchain4j深度对比：谁才是企业级AI应用的最佳选择？](https://mp.weixin.qq.com/s/YnSJg-b9ZuUY9L50UlWKHA)
 + [遨游Spring AI：第一盘菜Hello World](https://mp.weixin.qq.com/s/7_Qc-SrH9XbU2_L5OVj0aQ)
++ [遨游Spring AI：核心的AI概念解读](https://mp.weixin.qq.com/s/Zh6p8R4jjoMm-B-_PtRogw)
 
 ### cloud
 

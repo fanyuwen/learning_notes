@@ -617,6 +617,7 @@
 + [postgresql（三）：巧用 array_agg 保留明细数据解决分组查询重复计数问题](https://mp.weixin.qq.com/s/_h95SP7QvM_wwYY5LpMkrg)
 + [PostgreSQL 中的子事务与性能](https://mp.weixin.qq.com/s/zA8eC5F_2QIScm6W4CevCg)
 + [PostgreSQL技术内幕28：触发器实现原理](https://mp.weixin.qq.com/s/JaWSwbsPOKNwQjBb3IVUHQ)
++ [PostgreSQL - 架构](https://mp.weixin.qq.com/s/C3CzV6kronLGwldiW1rlBw)
 
 ### SQLSERVER
 

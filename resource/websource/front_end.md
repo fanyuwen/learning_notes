@@ -189,6 +189,7 @@
 + [JavaScript中的一些实用小方法](https://mp.weixin.qq.com/s/C5PmvpO_pjWzbTvzp6zP3A)
 + [捕获async/await错误，你还在用try...catch吗？](https://mp.weixin.qq.com/s/-tGtJrQjg8zfQ3XosWtYlg)
 + [Typescript-Promise基础](https://mp.weixin.qq.com/s/K_IYxsOlaXuiMQrNWItvhA)
++ [也只有JavaScript可以写出这么离谱的代码了吧](https://mp.weixin.qq.com/s/qX4e_M8FRjMh9hCH9TBAuQ)
 
 # 框架
 

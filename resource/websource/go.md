@@ -38,6 +38,7 @@
 + [Go 语言常见错误——代码及工程组织](https://mp.weixin.qq.com/s/nKfpr-bu9Mlp3AW7xvMzag)
 + [性能比拼: Go vs Bun](https://mp.weixin.qq.com/s/hRQVITl9uV9q6xokEYZw1g)
 + [Go的简洁神话？转Go前你需要知道的5个“真相”](https://mp.weixin.qq.com/s/H15i1XKRx7hcQiyAO6VUng)
++ [（17）Go 项目开发入门（十五）：Zap 使用](https://mp.weixin.qq.com/s/0_fLtbmSVMitf0KyVMjS_g)
 
 # 库
 
@@ -142,6 +143,7 @@
 + [Go Plugin 浅析](https://mp.weixin.qq.com/s/8pEdfJFFEC-NUjdP5lajkg)
 + [高效定位 Go 应用问题：Go 可观测性功能深度解析](https://my.oschina.net/u/3874284/blog/18042981)
 + [一文搞懂Go语言垃圾回收机制](https://mp.weixin.qq.com/s/ic0i7RhLxYJ53M0e1XJBOw)
++ [Go定时任务笔记](https://mp.weixin.qq.com/s/YL08X940pqxx8t72y68DJA)
 + [同步 / 异步、阻塞 / 非阻塞](https://mp.weixin.qq.com/s/C6AJSl8NjYlPBzawpNlaoA)
 + [099 | 『八股文™』Go中如何选择方法接受者类型](https://mp.weixin.qq.com/s/aFLFA8jcwlMi5s6gRnFUtw)
 + [105 | 『八股文™』一道 JSON 解析性能优化问题](https://mp.weixin.qq.com/s/5TPZVK07t9gYG3RiIRqIgQ)
@@ -156,6 +158,9 @@
 + [如何写出“能看懂的”错误日志？](https://mp.weixin.qq.com/s/Q6vRgiSY2OjP-FSw1prIlg)
 + [Go defer 的6大死亡陷阱及破解之道（含深层原因分析）](https://mp.weixin.qq.com/s/glVGkuUmvsUL3OHPfEf18A)
 + [Go的优雅退出](https://mp.weixin.qq.com/s/ynouu9-jZUViTRnmhrD1Ew)
++ [使用 Go Module 导入本地包](https://mp.weixin.qq.com/s/81_p68b90QbTvDNy8v-VEA)
++ [静态程序分析入门之Go实践笔记](https://mp.weixin.qq.com/s/mRRiYu7U20aDgjHCBsfsvQ)
++ [Go 错误处理之殇：Go 团队的决策与未来](https://mp.weixin.qq.com/s/S6WT5NJYj78iuy3IG_y81g)
 
 # 面试题
 

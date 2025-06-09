@@ -490,6 +490,7 @@
 + [多级缓存架构：深度解析与实践](https://mp.weixin.qq.com/s/u17G44XLFah9ZwJi0qHtAA)
 + [缓存引擎设计精要](https://mp.weixin.qq.com/s/LRybPXjB444o0XDxg7qoEA)
 + [用好缓存的10条军规](https://mp.weixin.qq.com/s/eb5FzwpJAFM4cbsdooYzkg)
++ [深入探讨缓存一致性问题：解决方案与最佳实践](https://mp.weixin.qq.com/s/RZCwcOwe0I2ZsJq61Q9hQQ)
 
 ## 优化
 

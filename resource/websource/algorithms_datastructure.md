@@ -79,6 +79,7 @@
 + [漫画图解希尔排序算法：突破O(n²)的高效排序法（附图解+代码）](https://mp.weixin.qq.com/s/EADuTxyOMlP2Nt_Q59Kt0g)
 + [漫画图解算法之基数排序：3 分钟快速掌握基数排序算法（附图解+代码）](https://mp.weixin.qq.com/s/PowjK3iIcaL8YIE7YeKABQ)
 + [漫画图解堆排序算法：90%人都能看懂的保姆级算法教程（附图解+代码）](https://mp.weixin.qq.com/s/jfETQBdv-zRunmesXFSVUw)
++ [快速排序：90%新手都踩的坑！3步搞懂分治思想（附代码）](https://mp.weixin.qq.com/s/muODLMnZMdteUdDRbGWJmg)
 + [有哪些算法惊艳到了你？（六）](https://mp.weixin.qq.com/s/2ch9kVVZoL5vb_JhDee4ZA)
 + [数据结构学习笔记(12)：哈夫曼树与哈夫曼编码](https://mp.weixin.qq.com/s/wYR4Ap-wHC_QEubnl48l-g)
 + [算法内功修炼-移动零](https://mp.weixin.qq.com/s/ml5a76FQ4HQx053brNnB5Q)

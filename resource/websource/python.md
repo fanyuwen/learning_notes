@@ -143,6 +143,8 @@
 + [Python 面向对象编程（OOP）](https://mp.weixin.qq.com/s/jaS5Tp43Y9-MYdtf7EOviQ)
 + [python入门系列八（类）](https://mp.weixin.qq.com/s/Vf8n4T90Z6m4_TRHFVhpcQ)
 + [【Python基础】Python中的类、多态、__call__方法](https://mp.weixin.qq.com/s/9gS71onPO8vFBceLuwkAQA)
++ [python学习8-类](https://mp.weixin.qq.com/s/EkkExOODP0-soOZlQMksBw)
++ [为什么python的self参数必须显式声明？隐式this才是万恶之源](https://mp.weixin.qq.com/s/iqjBgNLMq-svOlC8Y3Gb3Q)
 
 ### 核心库/模块
 

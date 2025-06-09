@@ -43,6 +43,7 @@
 + [跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
 + [C++容器之std::list和std::forward_list](https://mp.weixin.qq.com/s/dP7qDcp4o0xcW-_7bVLhxA)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
++ [C++ 的 construct_at 函数](https://mp.weixin.qq.com/s/fAAhhkjkDLnus0m7dEydvg)
 + [左值右值](https://mp.weixin.qq.com/s/FjjLl2HvgJXw1v4e_aDTHQ)
 + [C++基础入门必看！命名空间、输入输出、变量类型与流程控制全解析](https://mp.weixin.qq.com/s/jALnPCIW5TQM7c52yfXpbQ)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
@@ -357,6 +358,7 @@
 + [嵌入式设计模式--C语言的抽象工厂模式](https://mp.weixin.qq.com/s/1hJNdnPFAd_UVcP1zMRl7g)
 + [嵌入式多核时代，FreeRTOS V11.0 SMP上手指南](https://mp.weixin.qq.com/s/to3FG-4M-EmVLnuafybf8w)
 + [STM32速成笔记(十六)—SPI通信](https://mp.weixin.qq.com/s/8wQvChQeA4T_ccdVdsTZ0Q)
++ [嵌入式编程基础 | ESP32基于ESP-IDF的温湿度传感器DHT11驱动代码（C语言、C++语言）](https://mp.weixin.qq.com/s/1gYhWx8hBKIIR_VHZhcQCw)
 
 # ARM
 

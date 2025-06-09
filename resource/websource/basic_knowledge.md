@@ -141,6 +141,7 @@
 + [《面试必考 | 算法与数据结构之二叉树（三） 》](https://mp.weixin.qq.com/s/TWh24YDPWdF-T0BgggP8SA)
 + [使用crash查看内核结构体](https://mp.weixin.qq.com/s/W627Ge0TZ5rFp9LCZ0mppg)
 + [Linux内核内存管理：核心技术与优化策略](https://mp.weixin.qq.com/s/vyjlg9uC1hfAYuwQA7H0JA)
++ [trace event 使用介绍](https://mp.weixin.qq.com/s/rRWN5FkqQIKMJ-FqbeTpfQ)
 
 ### 网络
 

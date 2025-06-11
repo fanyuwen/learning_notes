@@ -116,6 +116,7 @@
 + [【Python基础】Python中的enumerate()函数](https://mp.weixin.qq.com/s/kxF8G_TINb3xNZjiEMT8GA)
 + [【Python基础】Python中的generator函数以及yield关键字](https://mp.weixin.qq.com/s/MkeBiHOJwcEXXwC0yJqPxA)
 + [10 个 Python 内置函数，可简化您的代码](https://mp.weixin.qq.com/s/YIqPkBPaJjH2tqUslZFGfg)
++ [Python 函数式编程：优雅与高效的完美结合](https://mp.weixin.qq.com/s/2Eku9P7QPhvzB2RTfYAjGA)
 
 ### 面向对象
 
@@ -145,6 +146,7 @@
 + [【Python基础】Python中的类、多态、__call__方法](https://mp.weixin.qq.com/s/9gS71onPO8vFBceLuwkAQA)
 + [python学习8-类](https://mp.weixin.qq.com/s/EkkExOODP0-soOZlQMksBw)
 + [为什么python的self参数必须显式声明？隐式this才是万恶之源](https://mp.weixin.qq.com/s/iqjBgNLMq-svOlC8Y3Gb3Q)
++ [python教学返场——自定义类的使用](https://mp.weixin.qq.com/s/vNcwxn_ZDUi_mIW7uNK7Ng)
 
 ### 核心库/模块
 
@@ -248,6 +250,7 @@
 + [如何优雅地处理超大文件？用流式 + yield，轻松应对巨型日志！](https://mp.weixin.qq.com/s/eHSk8MMb1On-UE99ZaFN9g)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
++ [Python 高手才知道的 5 个 f-strings 隐藏技巧，让你的代码更优雅！](https://mp.weixin.qq.com/s/s-aK7q5GOJimqz6OczUXMw)
 + [Python教程——闭包](https://mp.weixin.qq.com/s/XSosHg0J6NtzOHEKenLk9w)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
@@ -509,6 +512,7 @@
 + [在Python中为什么 `if __name__ == '__main__'` 是必要的？**?](https://mp.weixin.qq.com/s/8K4tj8WFCVbhslDEXLt_bg)
 + [为什么python的is和==让无数人抓狂？3分钟彻底搞懂](https://mp.weixin.qq.com/s/IpE3nglwvrx_WffbFpBxog)
 + [Python编码格式化之PEP8编码规范](https://mp.weixin.qq.com/s/O7hb7kLsoODSTBe82IYZmQ)
++ [一文讲清楚Python中的文件路径](https://mp.weixin.qq.com/s/A_GlZXG0EEvyaqk_-KZeYw)
 
 ## 新特性
 
@@ -920,3 +924,4 @@
 + [全网程序员都在问：为什么新来的用Python比我快10倍？答案在这...](https://mp.weixin.qq.com/s/J1uoPiQ2crLjUWV40QE2vQ)
 + [深入 Python 之禅，写出地道代码](https://mp.weixin.qq.com/s/0z6WgN3MHY_tVntditonFg)
 + [Python 图像编程|从零开始生成棋盘纹理](https://mp.weixin.qq.com/s/Om11DqRx1K0NewC2JKiVKA)
++ [零基础Python游戏开发 | 没有子弹碰撞的飞机大战游戏是没有灵魂的](https://mp.weixin.qq.com/s/gJXy4zRieqD5tBR3yKZQng)

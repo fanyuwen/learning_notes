@@ -438,6 +438,7 @@
 + [Java中30个代码优化技巧，建议收藏！](https://mp.weixin.qq.com/s/ZOISHoc2jVSv9JgWHk8c1w)
 + [厕所二面：List<Bean>怎么用contains方法？](https://mp.weixin.qq.com/s/s5YQPKG98qPsjxENJFyp1w)
 + [Java中提升代码质量的一些编程习惯](https://mp.weixin.qq.com/s/vz4yX9UsxktHoLNTgHseYw)
++ [说一说Java当中的常用性能优化技巧](https://mp.weixin.qq.com/s/Da-eBJ6LfqsP_AizXkmuRg)
 
 # 底层
 
@@ -489,8 +490,6 @@
 + [内存泄漏不可怕，怕的是你不知道](https://mp.weixin.qq.com/s/Ptd38g3Zk-IpzNfJFxvITg)
 + [改造BeanUtils，优雅实现List数据拷贝](https://mp.weixin.qq.com/s/XUSO2Nba5nEm1Wit3mrLfQ)
 + [生产环境频繁堆内存使用率 90% 告警，调大内存竟然没有效果！记一次线上JVM 优化。](https://mp.weixin.qq.com/s/VrUP13NWnr6w-EyeWYWsuw)
-+ [当面试官问出“Unsafe”类时，我就知道这场面试废了，祖坟都能给你问出来！](https://mp.weixin.qq.com/s/i_b519FMbf2KSbmTIYDCTA)
-+ [JavaUnsafe](https://mp.weixin.qq.com/s/pmTzD3cq6MmgQKj5QqN71g)
 + [系统实现中的“池化”艺术：线程池、连接池及其背后的价值](https://mp.weixin.qq.com/s/8e3pI_f6PwaJLiiAzrr5Lg)
 + [面试官：解释一下方法区中的符号引用和直接引用](https://mp.weixin.qq.com/s/b4argbammF3Kff85NpopgQ)
 + [面试官：String s = new String("xyz") 创建了几个对象？](https://mp.weixin.qq.com/s/CKDN03jJTCmFVJB_teI9OA)
@@ -1126,6 +1125,7 @@
 + [Java真的不难（二十三）Map集合](https://mp.weixin.qq.com/s/4wRsTjfKNewp11vQanIvsg)
 + [如果让你改造下 HashMap 的扩容实现，你会怎样优化？](https://mp.weixin.qq.com/s/v3wNbQ3RTGjQtUItFRYPqQ)
 + [Map集合常用基础知识点，你掌握了吗？](https://mp.weixin.qq.com/s/j5K-lj6YCZULTUYUWQ_eyw)
++ [吊打面试官！10个HashMap源码级细节，99%的Java程序员都不知道！](https://mp.weixin.qq.com/s/3Vjz3_cl4qzl7eX5XVDEsQ)
 
 ### Optional
 
@@ -1376,6 +1376,12 @@
 ## JAVAX
 
 + [JDBC 底层原理](https://mp.weixin.qq.com/s/nNTh0MTp94mF2LCHuSq5QQ)
+
+## sun库
+
++ [深入理解Unsafe类](https://mp.weixin.qq.com/s/K44cUxdLq3icH0OPbr8sTA)
++ [当面试官问出“Unsafe”类时，我就知道这场面试废了，祖坟都能给你问出来！](https://mp.weixin.qq.com/s/i_b519FMbf2KSbmTIYDCTA)
++ [JavaUnsafe](https://mp.weixin.qq.com/s/pmTzD3cq6MmgQKj5QqN71g)
 
 # 机制
 
@@ -1699,6 +1705,7 @@
 + [Nacos 3.0 强势登场，真香！](https://mp.weixin.qq.com/s/H_RZMnqtKwxODfu3FmJoYQ)
 + [大厂一面:Nacos配置中心交互模型是 push 还是 pull ？](https://mp.weixin.qq.com/s/xVggtL-q-42MZxMWpulgYg)
 + [Nacos源码深度解析系列文章导航](https://mp.weixin.qq.com/s/pBsdA4kAe_-isMLUlySXTw)
++ [nacos的使用原理](https://mp.weixin.qq.com/s/Jg_4-OQbAOXqqNcK3tmxYA)
 
 ## okhttp
 
@@ -1960,6 +1967,7 @@
 + [深入解析循环依赖：从问题到解决方案](https://mp.weixin.qq.com/s/bwc6Q-v4qMf-r-YbsuMAqA)
 + [Spring源码 - 深度解析@Resource依赖注入的执行逻辑](https://mp.weixin.qq.com/s/0GEiwHAAbFx1Rl1-7AYzfw)
 + [Spring单例Bean线程安全吗？90%的面试者都答错了！](https://mp.weixin.qq.com/s/ldOAh1x_0hg_drt1m7W1Nw)
++ [徒手造轮子：从零实现Spring IOC容器的核心技术内幕](https://mp.weixin.qq.com/s/fB1gD-LtcvkoRUodmHWx5Q)
 
 ### 新版本新特性
 
@@ -2046,6 +2054,7 @@
 + [@Async的7种失效场景总结，最后一个大部分人都说错了](https://mp.weixin.qq.com/s/hDDIM9aw02KxSO3vmXHT7Q)
 + [面试官：说说@Scheduled的原理](https://mp.weixin.qq.com/s/DVfuqpuLWTGlgy3bMnroJg)
 + [ListenableFutureCallback回调接口](https://mp.weixin.qq.com/s/TqL8ldw0sDMAbO65prt8Kw)
++ [Spring框架@Async注解](https://mp.weixin.qq.com/s/PUHi1TJD8aq9S6C4onQMOQ)
 
 ### security
 
@@ -2081,6 +2090,7 @@
 + [多数据源动态路由：AbstractRoutingDataSource的进阶魔改方案](https://mp.weixin.qq.com/s/yCkxe6xBcULUkk4yPCYZzA)
 + [Spring（八）Spring Data JPA 与 O/R Mapping 实战](https://mp.weixin.qq.com/s/AeMEQLT17sL8AcqY2CjhWg)
 + [Java教程：RedisTemplate如何存取数据并使用scan非阻塞删除](https://mp.weixin.qq.com/s/FvCannAnk1etTJPO3_TSAA)
++ [Spring Data简介与核心概念详解](https://mp.weixin.qq.com/s/F-eSYB4ewNnOLT0V5oFpSw)
 
 #### BATCH
 
@@ -3496,6 +3506,7 @@
 + [手写@RefreshScope，很简单嘛！](https://mp.weixin.qq.com/s/eLFTzuHkyaVZoESpu6j0uQ)
 + [Spring Boot 自定义注解结合 Spel 表达式实现动态解析](https://mp.weixin.qq.com/s/hcmzoUDQ9ZkfTTl_atVSUg)
 + [SpringBoot 启动加速：优化与定制化干预技术指南](https://mp.weixin.qq.com/s/FA_TczAd9yrDBPxbiSqUvg)
++ [手把手教你写一个Spring Boot Starter：理解自动装配的奥秘](https://mp.weixin.qq.com/s/RCo4hVrktNYgJ7ZBBPONxA)
 
 #### 原理&源码
 

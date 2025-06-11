@@ -25,6 +25,7 @@
 + [CMake之常用语法(函数)](https://mp.weixin.qq.com/s/mqWifGmH-ttdKIuNwU7GXg)
 + [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
 + [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
++ [CMake超简单上手：从最简C代码到嵌入式项目管理](https://mp.weixin.qq.com/s/Fk6OD7sa-BmLg7VfKlHlCg)
 
 ### 第三方技术
 
@@ -155,12 +156,14 @@
 + [高频交易系统（9）：C++ 实现中纳秒级延时优化之快速队列设计](https://mp.weixin.qq.com/s/NTpIL1gew4Qi2KNGkIibCA)
 + [设计心得——函数参数的封装](https://mp.weixin.qq.com/s/Acc3IQoNK96PnpS6FjfjEg)
 + [用 C++ 打造高性能日志系统：压缩、加密、线程池全都安排上了！](https://mp.weixin.qq.com/s/IKlFEvBItO-AYDjCl5VZAw)
++ [详解写时复制机制（copy-on-write）](https://mp.weixin.qq.com/s/8R5kfJlvzDOkKGgMorLD-g)
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [类型萃取（Type Traits）](https://mp.weixin.qq.com/s/6nSQNe3r9Wiy57_D_x5i0Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
 + ["......" 这种 C++ 语法已被标准弃用](https://mp.weixin.qq.com/s/z0Mp3px9aVq8rFowkrkFlA)
++ [输出流的数字格式](https://mp.weixin.qq.com/s/pKHopaNzWXcZ21oQ9KVKQg)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
 + [LLDB，一个强大的调试库](https://mp.weixin.qq.com/s/9TFAAmy5shnsLgMk8oZh5A)

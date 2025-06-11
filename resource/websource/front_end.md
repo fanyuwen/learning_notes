@@ -336,6 +336,7 @@
 + [JS黑科技：利用eval打造"万变不离其宗"的动态执行方案](https://mp.weixin.qq.com/s/9o8EVvc9pBBO-IgOdFh-yQ)
 + [前端处理文件上传时获取纯Base64数据](https://mp.weixin.qq.com/s/ckGbgKefLGYiULgxm6ZvyA)
 + [AST 技巧：压缩变量定义](https://mp.weixin.qq.com/s/5om25nsDLjTdyUwq9qto1Q)
++ [开发命令行工具需要的一些工具库和使用方法介绍](https://mp.weixin.qq.com/s/mZAtxTInoTu_VseiyE6LDw)
 
 # 杂谈
 

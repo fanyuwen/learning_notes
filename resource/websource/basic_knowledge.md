@@ -142,6 +142,7 @@
 + [使用crash查看内核结构体](https://mp.weixin.qq.com/s/W627Ge0TZ5rFp9LCZ0mppg)
 + [Linux内核内存管理：核心技术与优化策略](https://mp.weixin.qq.com/s/vyjlg9uC1hfAYuwQA7H0JA)
 + [trace event 使用介绍](https://mp.weixin.qq.com/s/rRWN5FkqQIKMJ-FqbeTpfQ)
++ [Linux C/C++知识技术汇总，基础入门到高级进阶](https://mp.weixin.qq.com/s/3Aj8ZAP-77kBZUCguYzRSQ)
 
 ### 网络
 
@@ -221,6 +222,7 @@
 + [Shell 脚本系统学习 · 第4篇：输入输出重定向详解](https://mp.weixin.qq.com/s/BnbR4KTmylK6i6jLrBuEBw)
 + [Shell 脚本系统学习 · 第 6 篇：变量命名规则与注意事项（特殊符号、命名习惯）](https://mp.weixin.qq.com/s/kUxfgzvAnbBe7r7KWfa_Kw)
 + [Linux 常用命令 -hostnamectl【主机名控制】](https://mp.weixin.qq.com/s/3lncE081Ypgqh47M7Cx-lA)
++ [awk 引入外部变量-v用法](https://mp.weixin.qq.com/s/ubAo_Bik64bE0zPP_eOBJQ)
 
 ### 发行版信息
 
@@ -390,6 +392,7 @@
 + [内网穿透方案](https://mp.weixin.qq.com/s/0gKTkoSVAlFellKqS3mw3Q)
 + [应用层网络通信协议详解](https://mp.weixin.qq.com/s/mdByUnGfwRj_wHt5eS2FxQ)
 + [计算机网络学习笔记(2)：计网分类和性能指标](https://mp.weixin.qq.com/s/AlWMJKEDJ5-L9u71GmFzjg)
++ [你知道 SFTP vs FTP 的区别吗？一文讲清（附协议图解）小白也能听懂](https://mp.weixin.qq.com/s/2SVHCzPYCdYCS3BI29kUfg)
 
 ### DNS
 
@@ -580,6 +583,7 @@
 + [MQTT 客户端和MQTT 代理！！！](https://mp.weixin.qq.com/s/eHWhu_-v4sJrCXL0xXfZIw)
 + [SMTP（简单邮件传输协议）协议学习（Wireshark分析&C语言解析）](https://mp.weixin.qq.com/s/t8hd_vuhqTkct68kbz91jw)
 + [MQTT broker有哪几种类型？](https://mp.weixin.qq.com/s/kNeJQqB8jM4gCAT7IE1TNA)
++ [MQTT物联网IOT通信协议技术全解析(完结篇)](https://mp.weixin.qq.com/s/SAaPmltkTos-ULNP2NgowQ)
 
 ## web
 

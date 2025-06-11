@@ -85,6 +85,7 @@
 + [10万存款，撕开了多少打工人的心酸。](https://mp.weixin.qq.com/s/T-bpcv0ctFbqavzyAxfPAA)
 + [某96年程序员：公司入职了一个88年的中年人，编程技术还行。就是感觉被我带他不服气，以后都不想招岁数大的了](https://mp.weixin.qq.com/s/AU_wsia5DyyFdwYc5-MLSg)
 + [就说说程序员进大厂的难度](https://mp.weixin.qq.com/s/e5jERaMdxJ5MR4MnUY-pFQ)
++ [留给初中阶程序员的时间不多了](https://mp.weixin.qq.com/s/19xbEZpir5dX9PUD3sfdrQ)
 
 # 个人成长
 

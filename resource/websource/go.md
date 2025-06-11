@@ -161,6 +161,7 @@
 + [使用 Go Module 导入本地包](https://mp.weixin.qq.com/s/81_p68b90QbTvDNy8v-VEA)
 + [静态程序分析入门之Go实践笔记](https://mp.weixin.qq.com/s/mRRiYu7U20aDgjHCBsfsvQ)
 + [Go 错误处理之殇：Go 团队的决策与未来](https://mp.weixin.qq.com/s/S6WT5NJYj78iuy3IG_y81g)
++ [map 并发读写崩溃的真实案例与解决方案](https://mp.weixin.qq.com/s/XTHCG_LOUemCaD2ij52sfQ)
 
 # 面试题
 

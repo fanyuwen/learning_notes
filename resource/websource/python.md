@@ -516,6 +516,8 @@
 + [一文讲清楚Python中的文件路径](https://mp.weixin.qq.com/s/A_GlZXG0EEvyaqk_-KZeYw)
 + [Python教程一（包依赖管理）](https://mp.weixin.qq.com/s/hVR8mMEIuwHCNbSEULXynQ)
 + [python中依赖注入这样用，你的代码立刻就有大厂风范](https://mp.weixin.qq.com/s/adz6GDJ9TCtV4IfQ839tlw)
++ [python学习7-函数设计](https://mp.weixin.qq.com/s/8r_EzNT9cn9b7GBl0WcCaA)
++ [给程序员老兵的一份Python快速上手清单](https://mp.weixin.qq.com/s/nnh9Tcvtvy3n5VuYn-El3A)
 
 ## 新特性
 

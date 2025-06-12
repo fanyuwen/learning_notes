@@ -70,6 +70,7 @@
 + [C++多线程性能优化实战指南：如何让你的线程飞起来？](https://mp.weixin.qq.com/s/dRXXFatDyjKGRFhcCQJBow)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
++ [C++ 的 clamp 函数](https://mp.weixin.qq.com/s/7ecKVC137dPtcfZ2byHbPg)
 + [全面分析C++内存泄漏：你的程序正在悄悄“失血”](https://mp.weixin.qq.com/s/d9uTm2txnr7ChLjav-Zm_w)
 + [C++11：原子操作与内存顺序：从理论到实践的无锁并发实现](https://mp.weixin.qq.com/s/thnlXKZnKE4foxZ5Vi3NYQ)
 + [【C++】override、final、default关键字作用](https://mp.weixin.qq.com/s/jQvycS8AaOBBQX6Qj4KQ4A)
@@ -167,6 +168,7 @@
 + [输出流的数字格式](https://mp.weixin.qq.com/s/pKHopaNzWXcZ21oQ9KVKQg)
 + [现代C++开发者工具指南：比技巧更重要的是装备！](https://mp.weixin.qq.com/s/OkHKVrFEamF5rwVFUc55yQ)
 + [告别内存焦虑！C++ 必备的工具库实战指南](https://mp.weixin.qq.com/s/WMxNCQEiJj_B0zl6RLRKCQ)
++ [别再无脑#include了！你写的每一行C++代码，可能都在拖慢整个团队！](https://mp.weixin.qq.com/s/0AQceQ81oM6mwYA9tYR-ow)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
 + [LLDB，一个强大的调试库](https://mp.weixin.qq.com/s/9TFAAmy5shnsLgMk8oZh5A)
@@ -367,6 +369,9 @@
 + [STM32速成笔记(十六)—SPI通信](https://mp.weixin.qq.com/s/8wQvChQeA4T_ccdVdsTZ0Q)
 + [嵌入式编程基础 | ESP32基于ESP-IDF的温湿度传感器DHT11驱动代码（C语言、C++语言）](https://mp.weixin.qq.com/s/1gYhWx8hBKIIR_VHZhcQCw)
 + [嵌入式实时系统的基石：ARM+Linux中断设计实战](https://mp.weixin.qq.com/s/TZ9cdIQBufQ9maMfHjK_WA)
++ [嵌入式分享#23：《嵌入式外设调试思路》--audio调试篇](https://mp.weixin.qq.com/s/3cPngYadI2wt_qJQvi-95Q)
++ [一文讲透CAN总线，超级详细！！！](https://mp.weixin.qq.com/s/aGi_oxnec2mYPPJnYq-_Lw)
++ [嵌入式软件设计的微观缩影 亲历BMC软件架构演进](https://mp.weixin.qq.com/s/FWhkB0FLwyD8g9PxmW565Q)
 
 # ARM
 
@@ -396,6 +401,7 @@
 + [嵌入式编程进阶 | 真随机VS伪随机？单片机安全随机数生成终极指南](https://mp.weixin.qq.com/s/spvlzsTnQfHZ3WlNtWfC0Q)
 + [揭秘 map 文件：嵌入式开发的内存优化神器](https://mp.weixin.qq.com/s/anrNM7Ak5UUm2-cnNopXHA)
 + [单片机原理_03单片机的内部功能详介](https://mp.weixin.qq.com/s/AHdCtjquFU1OTXAISZfXWg)
++ [单片机为什么被认为是一门简单的技术？](https://mp.weixin.qq.com/s/zsvDttjsMxwVZ0xLPkGl6Q)
 
 # NVIDIA
 

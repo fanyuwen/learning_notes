@@ -82,6 +82,7 @@
 + [Java内部类有坑，100%内存泄露！](https://mp.weixin.qq.com/s/pG_RI502vKf9n9SqMFsv0Q)
 + [第三章 Java基础知识点（十二）](https://mp.weixin.qq.com/s/pTxyVYL5cnOUOEsTV7RAlg)
 + [一文搞懂 Java final 关键字：从基础用法到深度细节](https://mp.weixin.qq.com/s/JHRhuPwsqYqOjNhzJMCEnA)
++ [Java内部类的私有构造器难题：合成类如何巧妙解决？](https://mp.weixin.qq.com/s/tY8WHhdlKR9YG4-SYiBQzw)
 
 ### 方法/函数
 
@@ -370,6 +371,7 @@
 + [从青铜到王者：根治Java空指针的5层境界，你卡在哪一级？](https://mp.weixin.qq.com/s/SSwZzRSxvftJCiHdt6KKfw)
 + [几个高效的Java代码习惯，领导看了直夸~](https://mp.weixin.qq.com/s/8ESaOZrj7PLXZdpCkMc3oA)
 + [一些 Function 的高级用法介绍！](https://mp.weixin.qq.com/s/cn5MYOnIUh6N3y7evF0bcg)
++ [50个Java代码示例：全面掌握Lambda表达式与Stream API](https://mp.weixin.qq.com/s/b3vR-WeulcuLpOzD68JxOg)
 
 ## 代码质量
 
@@ -444,6 +446,7 @@
 + [厕所二面：List<Bean>怎么用contains方法？](https://mp.weixin.qq.com/s/s5YQPKG98qPsjxENJFyp1w)
 + [Java中提升代码质量的一些编程习惯](https://mp.weixin.qq.com/s/vz4yX9UsxktHoLNTgHseYw)
 + [说一说Java当中的常用性能优化技巧](https://mp.weixin.qq.com/s/Da-eBJ6LfqsP_AizXkmuRg)
++ [9个很实用的Java开发技巧：包含代码和详解](https://mp.weixin.qq.com/s/TzO2dKWWIFrXVqh2nC64Fg)
 
 # 底层
 
@@ -593,6 +596,7 @@
 + [Java并发探索--上篇](https://mp.weixin.qq.com/s/uHKXDE7PKsQHo_TGGtmBrQ)
 + [线程通信](https://mp.weixin.qq.com/s/JF6PKKTmjtrcQle7qyp4tA)
 + [探索虚拟线程：原理与实现](https://my.oschina.net/u/4090830/blog/18326469)
++ [多线程系列之基础概念篇：为你的多线程学习构建基础](https://mp.weixin.qq.com/s/5dx2MP4erZEzbEI2jXx2UA)
 + [继续来聊高并发的本质！免费的就是香！](https://mp.weixin.qq.com/s/ruGzcM4PdpzpxRPEUqjJCQ)
 + [阿里一面：Java 中如何终止一个正在运行的线程](https://mp.weixin.qq.com/s/pWbFDI3h5BJTttu6aTch5g)
 + [Java并发编程：什么是线程优先级？](https://mp.weixin.qq.com/s/b4AIvJTZndfHtwjQ4UMhuA)
@@ -1008,6 +1012,7 @@
 + [垃圾回收机制](https://mp.weixin.qq.com/s/l7eAFRonOPqJZrXv8qJ2tA)
 + [历数Java虚拟机GC的种种缺点](https://mp.weixin.qq.com/s/bMBY5qVVX4O6q7oaHu1VNw)
 + [JVM年轻代为什么设计2个Survivor区](https://mp.weixin.qq.com/s/yd92irmSEIcD8WZiTc9ZsQ)
++ [JVM的通关指南（四）五分钟了解JVM的垃圾收集器](https://mp.weixin.qq.com/s/HMMIN2zbrJd3fmBWKaw3hQ)
 
 # 核心库
 
@@ -2745,6 +2750,7 @@
 + [SpringBoot升级到3.4.3，Spring Security从5.x升级到6.x，原来有这么多坑，不踩不知道，一踩一个准](https://mp.weixin.qq.com/s/H_A-PyAHE9nxh_BMH3IwjA)
 + [王炸！Spring Boot 3.5 震撼发布，强大的新特性来袭](https://mp.weixin.qq.com/s/yAO62ysRkd_a8RbjNBilWA)
 + [重磅！SpringBoot4发布，11项重大变更全解析！](https://mp.weixin.qq.com/s/VskQbzOKUbRhrx6FYmQWYQ)
++ [Spring Boot 4.0.0 新特性详解：深入解读 Spring Framework 7.0.0](https://mp.weixin.qq.com/s/ONH-92inZovuXf3cR-_pjQ)
 
 #### 分布式
 
@@ -2989,6 +2995,7 @@
 + [5种方案！保护Spring Boot API接口安全](https://mp.weixin.qq.com/s/S6IbfjSSARx7clpSzF2Yiw)
 + [Spring Boot 3.x 中的 RestClient 使用全解析](https://mp.weixin.qq.com/s/gggEHI6ZADEHGwKAfOvIhw)
 + [Spring Boot 控制 Controller 接口的4种方式，哪种更适合你？](https://mp.weixin.qq.com/s/56Gbg3LNGkvNaiLz0RuaNw)
++ [太燃了！Spring Boot 七种拦截技术，横扫各种问题](https://mp.weixin.qq.com/s/Uh960gt6_4kGzpaX_ukNaA)
 
 ##### VUE
 
@@ -3515,6 +3522,7 @@
 
 + [Spring（十八）Spring Boot 测试指南：单元、集成与契约测试全解析](https://mp.weixin.qq.com/s/iFpQU7kXS9SnKMSekVOM0g)
 + [一种极简单的 SpringBoot 单元测试方法](https://my.oschina.net/u/4090830/blog/17877410)
++ [非常赞！一文彻底精通 Spring Boot 单元测试](https://mp.weixin.qq.com/s/mhKtgI1_SpW770fG6lb74w)
 
 #### 自定义实现
 
@@ -3747,6 +3755,7 @@
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
 + [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
++ [Java后端人满如患，C++却招不到人](https://mp.weixin.qq.com/s/TkXTzMbzj0lNlFgAt7oUqQ)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
 + [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)

@@ -128,6 +128,8 @@
 + [Kafka-元数据存储（ZooKeeper）](https://mp.weixin.qq.com/s/1q9gMTEeIpksvFMFkHJS3g)
 + [面试官：Kafka为什么这么快？](https://mp.weixin.qq.com/s/nPsg1IyuGvwTF9bOnDKWaQ)
 + [Kafka-案例-异常分区（Partion）修复](https://mp.weixin.qq.com/s/gSDu2mCEr8veXJFAstw5pw)
++ [Kafka消息是否有序？怎样保证有序？](https://mp.weixin.qq.com/s/bUE6VNVeFCrfMaicPUURig)
++ [高并发场景，如何解决Kafka消费者慢的问题？](https://mp.weixin.qq.com/s/LyzYi5IE1s2xIPpCBGPMNw)
 
 # ROCKETMQ
 
@@ -169,6 +171,7 @@
 + [RocketMQ负载均衡机制：如何在生产者与消费者端实现高效资源分配？](https://mp.weixin.qq.com/s/od53oSQ5jsOPdiu9rjvz8w)
 + [RocketMQ是如何解决消息重复的？](https://mp.weixin.qq.com/s/H6mW0Zrs_SOcJOUiXt7nYw)
 + [深度解析：基于 RocketMQ 实现分布式事务的技术实践与原理探究](https://mp.weixin.qq.com/s/RMrmrwWuQIrMESLhYGhlRg)
++ [RocketMQ系列：消息的顺序性【第6讲】](https://mp.weixin.qq.com/s/g92huf2WtoV2tAvEQFhbVQ)
 
 # RABBITMQ
 

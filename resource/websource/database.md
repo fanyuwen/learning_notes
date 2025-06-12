@@ -595,6 +595,7 @@
 + [聚簇与非聚簇索引、回表及索引下推原理](https://mp.weixin.qq.com/s/O8luHtjLkj-6fufT9874ng)
 + [深入剖析MySQL索引优化：提升数据库性能的核心技巧](https://mp.weixin.qq.com/s/7hxezI_Sa3wb5hRNk3AfAQ)
 + [21个MySQL索引优化实战技巧](https://mp.weixin.qq.com/s/W4H2mLj_vpyvCOrczAItKg)
++ [mysql索引](https://mp.weixin.qq.com/s/ZJZ7JKsQlCfIc9qigUjMFQ)
 
 ### PostgreSQL
 

@@ -87,6 +87,7 @@
 + [就说说程序员进大厂的难度](https://mp.weixin.qq.com/s/e5jERaMdxJ5MR4MnUY-pFQ)
 + [留给初中阶程序员的时间不多了](https://mp.weixin.qq.com/s/19xbEZpir5dX9PUD3sfdrQ)
 + [35岁再去学程序员靠谱吗？](https://mp.weixin.qq.com/s/R9KBqN0Hne_LxX1I1xBCBw)
++ [为什么写了多年代码，还是没形成自己的工程思维？](https://mp.weixin.qq.com/s/kpzDuIg_6I5eJO4YQZ3HIw)
 
 # 个人成长
 
@@ -300,6 +301,7 @@
 + [IDEA 2025.1王炸更新，新特性真香！](https://mp.weixin.qq.com/s/X40mKVdxCc0WVWeOtB8kIA)
 + [Java 8 被 IDEA 彻底抛弃了？【文末送书】](https://mp.weixin.qq.com/s/jbO05ylOM7XI7K7hX365AQ)
 + [使用 IDEA 远程 Debug 调试（一篇懂所有）](https://mp.weixin.qq.com/s/7e0Bd-dkhUNuCvi0jrTJCw)
++ [高手们都在用的IntelliJ IDEA小技巧](https://mp.weixin.qq.com/s/rZWBBOaNXhJ2u7ql6261lg)
 
 ## MAC_PRO相关
 

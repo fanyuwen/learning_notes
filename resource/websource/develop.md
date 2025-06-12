@@ -79,6 +79,8 @@
 + [优秀架构师成长之路（4）-HATEOAS](https://mp.weixin.qq.com/s/jet820r3rG7T4b2cOviU6A)
 + [优秀架构师成长之路（8）-OAuth2.0](https://mp.weixin.qq.com/s/K8nyGf4UtDxbwBn1K3tWbQ)
 + [架构师的职责是什么？程序员如何转型为架构师？](https://mp.weixin.qq.com/s/DQd79QVmfIqSsIpuOLj5eA)
++ [优秀架构师必须掌握的架构思维：从优秀到卓越的思维修炼](https://mp.weixin.qq.com/s/lMQoZ8yJTFtpneXf3idAOA)
++ [优秀架构师必须掌握的10大架构思维：从技术到战略的全面拆解](https://mp.weixin.qq.com/s/vrpdxWWtDvvtEH329HYUcg)
 
 ### DDD
 

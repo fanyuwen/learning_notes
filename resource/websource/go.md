@@ -39,6 +39,7 @@
 + [性能比拼: Go vs Bun](https://mp.weixin.qq.com/s/hRQVITl9uV9q6xokEYZw1g)
 + [Go的简洁神话？转Go前你需要知道的5个“真相”](https://mp.weixin.qq.com/s/H15i1XKRx7hcQiyAO6VUng)
 + [（17）Go 项目开发入门（十五）：Zap 使用](https://mp.weixin.qq.com/s/0_fLtbmSVMitf0KyVMjS_g)
++ [密码学史上最持久的"猫鼠游戏"：单表替换密码的兴亡（Go语言实现）](https://mp.weixin.qq.com/s/LGoRsE5iM9FTkZhA52t69Q)
 
 # 库
 
@@ -162,6 +163,7 @@
 + [静态程序分析入门之Go实践笔记](https://mp.weixin.qq.com/s/mRRiYu7U20aDgjHCBsfsvQ)
 + [Go 错误处理之殇：Go 团队的决策与未来](https://mp.weixin.qq.com/s/S6WT5NJYj78iuy3IG_y81g)
 + [map 并发读写崩溃的真实案例与解决方案](https://mp.weixin.qq.com/s/XTHCG_LOUemCaD2ij52sfQ)
++ [Go的“错误”处理终于尘埃落定：不再从语法层面折腾。](https://mp.weixin.qq.com/s/YjQ8knvheEJRbGgWaw4nyw)
 
 # 面试题
 

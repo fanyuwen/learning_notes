@@ -88,6 +88,7 @@
 + [C++容器之std::deque](https://mp.weixin.qq.com/s/NmyCXlGsjB4xwl4iYrwOhg)
 + [C++容器之std::vector](https://mp.weixin.qq.com/s/VF9T9Zd6Zbn66T132MG1rw)
 + [聊一聊std::endl](https://mp.weixin.qq.com/s/TtMh8P6P_gkMDxza6bHzxw)
++ [C++容器之std::multiset和std::unordered_multiset](https://mp.weixin.qq.com/s/Hi9iLpgfj-QBKZryWnBDkA)
 + [C++容器之std::stack和std::queue](https://mp.weixin.qq.com/s/vvhgJWdZTMoneeq1jYBJIw)
 + [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
 + [C++：位运算](https://mp.weixin.qq.com/s/h4JCbO6D3MJCRS5fRrRR3w)
@@ -164,6 +165,8 @@
 + [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
 + ["......" 这种 C++ 语法已被标准弃用](https://mp.weixin.qq.com/s/z0Mp3px9aVq8rFowkrkFlA)
 + [输出流的数字格式](https://mp.weixin.qq.com/s/pKHopaNzWXcZ21oQ9KVKQg)
++ [现代C++开发者工具指南：比技巧更重要的是装备！](https://mp.weixin.qq.com/s/OkHKVrFEamF5rwVFUc55yQ)
++ [告别内存焦虑！C++ 必备的工具库实战指南](https://mp.weixin.qq.com/s/WMxNCQEiJj_B0zl6RLRKCQ)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
 + [LLDB，一个强大的调试库](https://mp.weixin.qq.com/s/9TFAAmy5shnsLgMk8oZh5A)
@@ -202,6 +205,7 @@
 + [ABI兼容性：为什么你的C++程序编译链接不通过？](https://mp.weixin.qq.com/s/9Xahip6Td7N0uMu753ElAg)
 + [在三条指令内实现闰年判断](https://mp.weixin.qq.com/s/DON-CC1bOWdajeNnc5aL3w)
 + [C++信奥之径，锻炼思维，扎实算法——二分查找与二分答案（3）](https://mp.weixin.qq.com/s/boC5l9ttzYGeItZqDyulIA)
++ [告别编译慢、依赖乱！一文吃透这个C++工具的五大核心功能](https://mp.weixin.qq.com/s/kywPjF9-k9OrznCjvxM98g)
 
 ### 资讯
 
@@ -362,6 +366,7 @@
 + [嵌入式多核时代，FreeRTOS V11.0 SMP上手指南](https://mp.weixin.qq.com/s/to3FG-4M-EmVLnuafybf8w)
 + [STM32速成笔记(十六)—SPI通信](https://mp.weixin.qq.com/s/8wQvChQeA4T_ccdVdsTZ0Q)
 + [嵌入式编程基础 | ESP32基于ESP-IDF的温湿度传感器DHT11驱动代码（C语言、C++语言）](https://mp.weixin.qq.com/s/1gYhWx8hBKIIR_VHZhcQCw)
++ [嵌入式实时系统的基石：ARM+Linux中断设计实战](https://mp.weixin.qq.com/s/TZ9cdIQBufQ9maMfHjK_WA)
 
 # ARM
 

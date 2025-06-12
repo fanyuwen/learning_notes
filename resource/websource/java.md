@@ -81,6 +81,7 @@
 + [Java包装类默认值：隐藏的陷阱与最佳实践](https://mp.weixin.qq.com/s/7N1XUNRL8Z-QfOYyf9fOkQ)
 + [Java内部类有坑，100%内存泄露！](https://mp.weixin.qq.com/s/pG_RI502vKf9n9SqMFsv0Q)
 + [第三章 Java基础知识点（十二）](https://mp.weixin.qq.com/s/pTxyVYL5cnOUOEsTV7RAlg)
++ [一文搞懂 Java final 关键字：从基础用法到深度细节](https://mp.weixin.qq.com/s/JHRhuPwsqYqOjNhzJMCEnA)
 
 ### 方法/函数
 
@@ -100,6 +101,8 @@
 + [我们来捋一捋JAVA的异常](https://mp.weixin.qq.com/s/n8IQtygGfXEAJovtyCheVQ)
 + [Java异常处理中的throws关键字：何时用？怎么用？用错了会怎样？](https://mp.weixin.qq.com/s/87rAgIQp4gqiYylAI3pBUQ)
 + [Java真的不难（五十一）10种常见的异常及解决办法（避坑指南）](https://mp.weixin.qq.com/s/7O5Ktd2bPlaTaxVooi6cig)
++ [Java异常处理的9种最佳实践](https://mp.weixin.qq.com/s/ZLLfUz6BCxaYj3uhVwxmfg)
++ [为什么说不推荐 e.printStackTrace()](https://mp.weixin.qq.com/s/T7KAT9ZHPmYT1A6yIKmxuQ)
 
 ### 枚举
 
@@ -365,6 +368,8 @@
 + [lambda表达式之list便捷处理](https://mp.weixin.qq.com/s/9-CluT-kpFuHjSDf7P5sBw)
 + [Java 异常处理的五个高质量写法技巧](https://mp.weixin.qq.com/s/YpLiC5b2_bYpl6GQ2NY6EA)
 + [从青铜到王者：根治Java空指针的5层境界，你卡在哪一级？](https://mp.weixin.qq.com/s/SSwZzRSxvftJCiHdt6KKfw)
++ [几个高效的Java代码习惯，领导看了直夸~](https://mp.weixin.qq.com/s/8ESaOZrj7PLXZdpCkMc3oA)
++ [一些 Function 的高级用法介绍！](https://mp.weixin.qq.com/s/cn5MYOnIUh6N3y7evF0bcg)
 
 ## 代码质量
 
@@ -962,6 +967,7 @@
 + [JVM底层原理之类加载子系统：类加载的流程给你一撸到底！](https://mp.weixin.qq.com/s/iWlK9M9LGEmNka6JlyOVxA)
 + [面试官：Java应用的启动过程你了解吗？类是如何加载的？](https://mp.weixin.qq.com/s/clSUB43Kot8RpFhnhtrftA)
 + [深度解析Java类加载全过程](https://mp.weixin.qq.com/s/l-CX-K6UbXvIqcudcPjHqA)
++ [JVM通关指南（五）类加载器 - 了解Java类是如何加载](https://mp.weixin.qq.com/s/tbMp2b_UOqc2lvOTgpT29g)
 
 ### GC
 
@@ -1136,6 +1142,7 @@
 + [Optional的最佳实践](https://mp.weixin.qq.com/s/HCF2P9BhxuiEgwQuFr6hzA)
 + [处理Null的神器Optional](https://mp.weixin.qq.com/s/naJ64jYQC8gYxgjQ39Otuw)
 + [Java Optional：优雅处理空值的艺术](https://mp.weixin.qq.com/s/SXB6E4crz8WKsr3Q859uAg)
++ [关于 Optional 的一些高级用法！](https://mp.weixin.qq.com/s/je0egmyuspAyXHIEjK7fyg)
 
 ### Comparator
 
@@ -1413,6 +1420,7 @@
 + [【Java面试100题突击】96 动态代理是如何实现的？JDK动态代理和CGLIB动态代理有什么区别？](https://mp.weixin.qq.com/s/L1DWYCPuov_10iOZE9BiYg)
 + [深入解析与实战 JavaCompiler API：动态编译Java源代码](https://mp.weixin.qq.com/s/UP7adg1d7_XsylQkq9anNg)
 + [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
++ [关于java中动态加载字节码的多种方法](https://mp.weixin.qq.com/s/jKFqCB-P-G3fHpYBt2PsZw)
 
 # 包管理工具
 
@@ -1441,6 +1449,7 @@
 + [Spring Boot 开发必备！12 个 Maven 命令让你事半功倍](https://mp.weixin.qq.com/s/yzjp3M0Z0xXow8aZe2E5ww)
 + [Maven核心概念与使用技巧总结](https://mp.weixin.qq.com/s/6XE3EYHelkLru_GelQDKRQ)
 + [换掉Maven！全新一代Java项目构建工具来了，性能炸裂！](https://mp.weixin.qq.com/s/tYc7aAngCGqAsFP6JK1PkQ)
++ [很多人搞不清 Maven repository 和 mirror 的关系，这次讲透了](https://mp.weixin.qq.com/s/Q8KTCBqOjuc5PK_RULyFBQ)
 
 # 功能
 
@@ -1984,6 +1993,7 @@
 + [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
 + [一文了解Spring MVC流程](https://mp.weixin.qq.com/s/5Y_FlCdhmpZPpPlGNbdQfw)
 + [Controller 层优化四步曲](https://mp.weixin.qq.com/s/wWneJ8E3R9NlXPMOFxSupA)
++ [大厂面试官都爱问：SpringMVC请求链到底是怎样传递的？](https://mp.weixin.qq.com/s/sy0wllin1LydTz3mHNr8-w)
 + [Spring MVC框架:（八）HttpMessageConverter](https://mp.weixin.qq.com/s/nC5uURYmFhUxgCHX0XcjGQ)
 + [深入解析 Filter、Interceptor、Spring AOP 三剑客](https://mp.weixin.qq.com/s/7JHzDrfGvwNhYrxy7dw10A)
 + [深入理解SpringMVC工作原理，像大牛一样手写SpringMVC框架](https://mp.weixin.qq.com/s/Ck8ICf1aEzMO8eIqCPYSbw)
@@ -2142,6 +2152,8 @@
 + [全网最通俗！Spring 事务传播行为用故事讲明白了！](https://mp.weixin.qq.com/s/taf6pngDHoF48OQl_jH5hw)
 + [Spring事务背后的真相：我们被骗了这么多年？](https://mp.weixin.qq.com/s/qpqnNsytuUuzZNTwqHewLQ)
 + [Java社招面试题：说一下 Spring 的事务隔离？我这次靠这个问题反客为主！](https://mp.weixin.qq.com/s/VzXDAwTsCF63OQy03Zqy6w)
++ [从一个点来详细说说事务失效的场景及解决办法](https://mp.weixin.qq.com/s/BeptpIXsQg7851ltJX13pA)
++ [Spring @Transactional 详解：何时使用、为什么使用、如何使用](https://mp.weixin.qq.com/s/pbJllQXG9yN5liiJ6Ywbsw)
 
 ### Log
 
@@ -2306,6 +2318,8 @@
 + [SpringCloud整合MQ实现消息总线服务，实战讲解！](https://mp.weixin.qq.com/s/A-AnXJ9LWIB7FBaGmvnV2w)
 + [SpringCloud 整合 Zuul 实现服务网关路由，实战讲解！](https://mp.weixin.qq.com/s/TzY7j0D6pXRxAaypgwnsow)
 + [深入解析SpringCloud的负载衡器Loadbalancer](https://mp.weixin.qq.com/s/yXx9RjRAgIaXV7FMaHTfCA)
++ [Spring Cloud中的@LoadBalanced注解实现原理](https://mp.weixin.qq.com/s/pBdKubdr6yX9U_eBua-DEg)
++ [搞懂Spring Cloud Config配置信息自动更新原理](https://mp.weixin.qq.com/s/KpDcTAPqyYlsIZQBZlQjSg)
 
 #### alibaba
 
@@ -3062,6 +3076,7 @@
 + [SpringBoot中Redis的7种序列化策略](https://mp.weixin.qq.com/s/FlqEsVesLv6LdoHgaoCURQ)
 + [SpringBoot 接入 Redis 实现缓存秒懂教程](https://mp.weixin.qq.com/s/H7Rirxt3JWG2EF7xHCMakA)
 + [Java教程：SpringBoot项目如何在启动时等待数据库，待连接成功后再启动项目](https://mp.weixin.qq.com/s/GEHm5ZKtUCgznHZlGQaRLQ)
++ [SpringBoot集成SQLite：轻量级数据库的极简CRUD实战](https://mp.weixin.qq.com/s/bvYsirFyRw9Z4qz1x31p4A)
 
 ##### TRANSACTION
 

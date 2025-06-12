@@ -78,6 +78,7 @@
 + [三十四、领域驱动设计——战略设计](https://mp.weixin.qq.com/s/fccAAc4KqH3pR7iBq2T3mw)
 + [优秀架构师成长之路（4）-HATEOAS](https://mp.weixin.qq.com/s/jet820r3rG7T4b2cOviU6A)
 + [优秀架构师成长之路（8）-OAuth2.0](https://mp.weixin.qq.com/s/K8nyGf4UtDxbwBn1K3tWbQ)
++ [架构师的职责是什么？程序员如何转型为架构师？](https://mp.weixin.qq.com/s/DQd79QVmfIqSsIpuOLj5eA)
 
 ### DDD
 
@@ -274,6 +275,7 @@
 + [深入理解分布式锁：原理、应用与挑战](https://my.oschina.net/u/4090830/blog/17877412)
 + [分布式锁+事务=灾难？不要把锁加在事务内！！！](https://mp.weixin.qq.com/s/-DPIYfY9YCQ3GBKXIy81ww)
 + [技术科普｜深入理解分布式锁的原理与实现 part 1](https://mp.weixin.qq.com/s/KECstNqzv-bWRU6GHsDghg)
++ [如何实现一个合格的分布式锁？](https://mp.weixin.qq.com/s/CEOWNqND9SFuLCeAEaZ8MQ)
 
 ## 分布式缓存
 

@@ -11,6 +11,7 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [python入门系列三（基础知识）](https://mp.weixin.qq.com/s/TWG7vyhN-UZq_NHsDWLZJg)
++ [Python 基础知识](https://mp.weixin.qq.com/s/k1cCvL4HEhuBsbOTOS6w_g)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
 + [Python基础：Python的运算符与表达式](https://mp.weixin.qq.com/s/4bIebG-KDVV37BGn0iD94g)
@@ -513,6 +514,8 @@
 + [为什么python的is和==让无数人抓狂？3分钟彻底搞懂](https://mp.weixin.qq.com/s/IpE3nglwvrx_WffbFpBxog)
 + [Python编码格式化之PEP8编码规范](https://mp.weixin.qq.com/s/O7hb7kLsoODSTBe82IYZmQ)
 + [一文讲清楚Python中的文件路径](https://mp.weixin.qq.com/s/A_GlZXG0EEvyaqk_-KZeYw)
++ [Python教程一（包依赖管理）](https://mp.weixin.qq.com/s/hVR8mMEIuwHCNbSEULXynQ)
++ [python中依赖注入这样用，你的代码立刻就有大厂风范](https://mp.weixin.qq.com/s/adz6GDJ9TCtV4IfQ839tlw)
 
 ## 新特性
 

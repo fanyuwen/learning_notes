@@ -836,6 +836,7 @@
 + [知己知彼：Redis集群中的节点信息详解](https://mp.weixin.qq.com/s/LRNcKUtBlDzavucth_jklw)
 + [Redis中的事务处理](https://mp.weixin.qq.com/s/EPMZyHIf6nkYX83P8dQ0FQ)
 + [Redis集群碎碎念：参数配置](https://mp.weixin.qq.com/s/dLiLvXIaFn5CvOd-rG_jSQ)
++ [Redis上篇--知识点总结](https://mp.weixin.qq.com/s/aQUfCQ6OEEdF27V285A2LA)
 
 #### 原理
 

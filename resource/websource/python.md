@@ -71,6 +71,9 @@
 + [Python异常链溯源：精通 raise...from... 机制](https://mp.weixin.qq.com/s/Ou1lk4IqtWmw5aCiFZ8kqg)
 + [Python 内置数据类型——bytes(字节序列)](https://mp.weixin.qq.com/s/5EqMkfzMAu0MmnLqmMDk0Q)
 + [Python 乱码终结者：3分钟掌握字符串编码核心技巧！](https://mp.weixin.qq.com/s/6aHUIkN9_FfoSmFR0Il8ZA)
++ [迭代的艺术：90% Python 程序员不知道的迭代技巧](https://mp.weixin.qq.com/s/FMzrviBs9ACTU88TQxb19Q)
++ [python 类型提示入门](https://mp.weixin.qq.com/s/VG7n-2ad230Rn60ekZ1kdg)
++ [python学习6-控制和循环](https://mp.weixin.qq.com/s/6O-NMHE24Ihiiy_dsLK5Pw)
 
 ### 函数/方法
 
@@ -219,6 +222,7 @@
 + [Python 模块/包/库：90%新手都搞混的概念！3分钟彻底搞懂！](https://mp.weixin.qq.com/s/c2zp-04oHYS6B0r8nBIIcg)
 + [Python日志调试模块-logging](https://mp.weixin.qq.com/s/wdJEetPIRVDU7TzAcYhQCA)
 + [Python常用系统自带库之json解析](https://mp.weixin.qq.com/s/4_Ya344DKPMk3QrjzOMeaQ)
++ [python基础语法-模块](https://mp.weixin.qq.com/s/pJO7tj7Gszdhg05SN4HigA)
 
 ### 异步/多线程
 
@@ -238,16 +242,20 @@
 + [python中的多线程与多进程](https://mp.weixin.qq.com/s/oa1thmacOd4rFMUPyKO9LQ)
 + [python入门系列十五（asyncio）](https://mp.weixin.qq.com/s/Am1tRhv-bKbqg1EZ2thiyA)
 + [Python 多线程终极指南：从入门到实战，看完这篇就够了！附避坑指南](https://mp.weixin.qq.com/s/mUv2BeExM3jPI1mXKDX0Dg)
++ [深入理解Python协程：async def、async for、await、yield详解](https://mp.weixin.qq.com/s/z9EXzOsPKZv9TWVqU0x4vA)
 
 ## 实践
 
 + [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
++ [Python编程精进：正确编写多行注释的方法](https://mp.weixin.qq.com/s/QhjxEopVmcILCPwvoWDyEw)
++ [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
++ [python学习13-文件处理](https://mp.weixin.qq.com/s/5vcofKlEIjMgl3gBookK7A)
 + [Python文件读写：tell和seek的用法](https://mp.weixin.qq.com/s/4-2teCwTK_TNRd8RwpXeEA)
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [如何优雅地处理超大文件？用流式 + yield，轻松应对巨型日志！](https://mp.weixin.qq.com/s/eHSk8MMb1On-UE99ZaFN9g)

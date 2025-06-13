@@ -311,6 +311,8 @@
 + [Java真的不难（七十二）抽象工厂模式概念及在电商系统中的组合应用（纯干货）](https://mp.weixin.qq.com/s/mF1sV1X-OerdkS9i9F3q5g)
 + [Java真的不难（七十）中介者模式分析及在交通管制系统业务中的实例（纯干货）](https://mp.weixin.qq.com/s/71qt8m5ey7SaSwCkhA7h1Q)
 + [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
++ [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
++ [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -448,6 +450,7 @@
 + [Java中提升代码质量的一些编程习惯](https://mp.weixin.qq.com/s/vz4yX9UsxktHoLNTgHseYw)
 + [说一说Java当中的常用性能优化技巧](https://mp.weixin.qq.com/s/Da-eBJ6LfqsP_AizXkmuRg)
 + [9个很实用的Java开发技巧：包含代码和详解](https://mp.weixin.qq.com/s/TzO2dKWWIFrXVqh2nC64Fg)
++ [提升Java代码可靠性：5个异常处理最佳实践](https://mp.weixin.qq.com/s/6Ggg2bCqPFRSfftiJPY7FQ)
 
 # 底层
 
@@ -709,6 +712,7 @@
 + [Java真的不难（二十七）多线程(一)](https://mp.weixin.qq.com/s/Z1T_rO0NLIwWSLM9OSv7oQ)
 + [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
 + [线程的单例模式](https://mp.weixin.qq.com/s/ytguHag3e80JAo0PYMj6UA)
++ [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
 
 #### 线程池
 
@@ -1428,6 +1432,7 @@
 + [深入解析与实战 JavaCompiler API：动态编译Java源代码](https://mp.weixin.qq.com/s/UP7adg1d7_XsylQkq9anNg)
 + [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
 + [关于java中动态加载字节码的多种方法](https://mp.weixin.qq.com/s/jKFqCB-P-G3fHpYBt2PsZw)
++ [Java Agent字节码插桩技术：SkyWalking如何实现无侵入链路追踪？](https://mp.weixin.qq.com/s/DcIWJdhD0tN7TXaVHKuang)
 
 # 包管理工具
 
@@ -2245,6 +2250,7 @@
 + [JavaSec | SpringAOP 链学习分析](https://mp.weixin.qq.com/s/BBjpXCa8BcFPYdl6nJu-Kg)
 + [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/JDFQQiecUJeaNt37AP7UKQ)
 + [没有Spring AOP的话，Java代码很难保持简洁](https://mp.weixin.qq.com/s/rM40DZ8esKaoLjdl2mJQcw)
++ [Spring AOP中的类型获取方法对比](https://mp.weixin.qq.com/s/-heJKGH-jjl7hlS4YvPxbA)
 + [Spring分析-AOP](https://mp.weixin.qq.com/s/piD1y8PZJWlNXNoGO3xG3w)
 
 ### 配置打包部署
@@ -2544,6 +2550,10 @@
 + [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/Fk5DVgtJ5yUskJRj0w5z_w)
 + [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
 + [如何在Spring Boot中使用注解动态切换实现](https://mp.weixin.qq.com/s/B2wrnXow-v15OVWuNOaE_Q)
++ [强悍！Spring Boot 一个非常强大的类](https://mp.weixin.qq.com/s/Xu_hj-myGnKQsgORMbl08g)
++ [SpringBoot数据转换的4种对象映射方案](https://mp.weixin.qq.com/s/9aSWOe_VgY1dWXafFXVFgg)
++ [Springboot项目中，读取 resources 目录下的文件的9种方式](https://mp.weixin.qq.com/s/1jwXPPLL1u3XgJ2H6FAplA)
++ [SpringBoot启动后自动执行方法的各种方式](https://mp.weixin.qq.com/s/OU8Xb6a5BN5EnTJTJqholQ)
 
 #### 版本特性
 
@@ -3168,6 +3178,7 @@
 + [Spring Boot动态定时任务实战：告别硬编码配置](https://mp.weixin.qq.com/s/1Yzkh1DikNRfals5W8iv5Q)
 + [SpringBoot 异步接口深度解密：高并发场景下的性能优化实战](https://mp.weixin.qq.com/s/6BxbBhKI8yI36OOFSInR8w)
 + [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/OoncMmuuFbOaAv35dFwqEw)
++ [@Async 咋总是不生效？！Spring Boot 异步编程 5 个“翻车”姿势，你中招了几个？](https://mp.weixin.qq.com/s/C2W2emBC76SahH5vKgVhxA)
 
 ##### Disruptor
 
@@ -3412,6 +3423,7 @@
 + [【java必会】springboot使用maven高效管理多环境配置](https://mp.weixin.qq.com/s/_Z10NG9VC3CrW5GPFDg7Zw)
 + [【java必会】springboot项目不重新打包修改配置文件之nacos](https://mp.weixin.qq.com/s/IvrXsc3pOrxK1Cem8bKRmA)
 + [SpringBoot统一属性配置，以数据库作为配置中心](https://mp.weixin.qq.com/s/VkPOCc1TiqeynJ12Fxxuew)
++ [深度解析：Spring Boot 配置加载顺序、优先级与 bootstrap 上下文](https://mp.weixin.qq.com/s/s8X1MTqgvlOtaJ8xpTY2kg)
 
 #### 集成三方
 
@@ -3559,6 +3571,7 @@
 + [【2025版JVM面试题】24、深入理解 Tomcat 的类加载机制](https://mp.weixin.qq.com/s/kgCsmyOqkvh2gROUXKKd0w)
 + [Tomcat自动扫描利用工具|无问社区助你攻防利器](https://mp.weixin.qq.com/s/o-Tkf5-nGeZz8FO22XFLgQ)
 + [Spring Boot中Tomcat、Jetty、Undertow哪个嵌入式服务器最好？](https://mp.weixin.qq.com/s/J1xpLVCJT0ojoFvB1vgVGg)
++ [Java内存马——Listener型的两种注入](https://mp.weixin.qq.com/s/2OVrBKpPt5nHIeDAK-3s_w)
 
 ## xxl-job
 
@@ -3763,6 +3776,7 @@
 + [Java后端人满如患，C++却招不到人](https://mp.weixin.qq.com/s/TkXTzMbzj0lNlFgAt7oUqQ)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
 + [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)
++ [为什么高级 Java 开发工程师喜爱用策略模式](https://mp.weixin.qq.com/s/KgQ9qfLbqHnK8XNMK_c1Yg)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)

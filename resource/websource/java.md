@@ -104,6 +104,7 @@
 + [Java真的不难（五十一）10种常见的异常及解决办法（避坑指南）](https://mp.weixin.qq.com/s/7O5Ktd2bPlaTaxVooi6cig)
 + [Java异常处理的9种最佳实践](https://mp.weixin.qq.com/s/ZLLfUz6BCxaYj3uhVwxmfg)
 + [为什么说不推荐 e.printStackTrace()](https://mp.weixin.qq.com/s/T7KAT9ZHPmYT1A6yIKmxuQ)
++ [Java经典基础面试题：try..catch，据说90%的新手都栽倒过！](https://mp.weixin.qq.com/s/BasLlaGu4yM2qWwjbpaf1g)
 
 ### 枚举
 
@@ -540,6 +541,8 @@
 + [深入剖析 Java 精度丢失：从二进制存储到浮点运算的底层逻辑](https://mp.weixin.qq.com/s/wcv5JgJIf80oGQAiDkNb5w)
 + [Java 为什么会出现 Lambda 的奇怪写法？详细解释给你听](https://mp.weixin.qq.com/s/nev-K8C1XAVJwWrANCNktA)
 + [“Java编译与执行全揭秘：宏观到微观开启java的奇幻之旅”](https://mp.weixin.qq.com/s/ZQFBKRetERkY_tfylpXVCA)
++ [Java Lambda 表达式的缺点和替代方案](https://mp.weixin.qq.com/s/00dVhbnfXE8T3_rpflMyxQ)
++ [万字讲解Java时区](https://mp.weixin.qq.com/s/ZvDLfRxSFVqwIKLdzGKKbA)
 
 ### 序列化
 
@@ -1086,6 +1089,7 @@
 + [天呐！Java Stream 高效开发！16 个逆天案例，让你秒速起飞！](https://mp.weixin.qq.com/s/19RSoEpYwQXHZJMVKAmoXg)
 + [Java Stream实现List排序的核心技巧](https://mp.weixin.qq.com/s/Ere-CrtYaoQZHimhVd7UoA)
 + [你知道 Java Stream 写法吗？演示10种场景使用案例（代码干货）](https://mp.weixin.qq.com/s/U6shX4hwrYsZ8vi1s5HjsQ)
++ [Stream 是 Java 的 LINQ 吗？你可能想错了](https://mp.weixin.qq.com/s/SGYFOutAMZEUI2D-RdQLRA)
 
 ### Date/time
 
@@ -1313,6 +1317,7 @@
 + [Java并发编程中的锁（七）JUC包详解之StampedLock](https://mp.weixin.qq.com/s/JR5ox5bge5TBmsvyA68Jhg)
 + [AQS 核心原理解析：从设计哲学到源码实践](https://mp.weixin.qq.com/s/_j5g4SiWqhSLXe01W4bHfQ)
 + [面试官问 ReadWriteLock，我用这个答案直接拿下 Offer！](https://mp.weixin.qq.com/s/3LeqLfL4ePeCu_j1Zjqs0A)
++ [面试练习 | 在Java中使用ReentrantReadWriteLock的优缺点？](https://mp.weixin.qq.com/s/Wp5VXyJoX8fcQ5Q5HKGIzw)
 
 ### ConcurrentHashMap
 
@@ -1712,6 +1717,7 @@
 + [MyBatis-Plus中联表查询用法](https://mp.weixin.qq.com/s/rIE8eLYuPuEfjOOJp_gB_Q)
 + [数据库枚举类型如何设计？看看MyBatis-Plus的处理](https://mp.weixin.qq.com/s/yo890PFsSCKlUMEeCoc0tA)
 + [看了我的MyBatis-plus用法，全公司同事开始悄悄模仿了。。](https://mp.weixin.qq.com/s/B-OKGZlLVd3EfmfBxuV5bg)
++ [别在 MyBatis-Plus 里瞎用 @Transactional！这锅背到我差点被踢出项目组](https://mp.weixin.qq.com/s/e-mxOjf6S2rMnavDYprFHQ)
 
 ## nacos
 
@@ -2066,6 +2072,7 @@
 + [针对URL的路径匹配:AntPathMatcher 和 UrlPathHelper](https://mp.weixin.qq.com/s/48C8edlXaJ4ZzfNBqOtyTg)
 + [性能优化！3种方案优化Controller接口调用，性能提升N倍](https://mp.weixin.qq.com/s/1QEtyRFWzFojO8Q_V7yv1Q)
 + [一文吃透@PathVariable注解，Java编程轻松拿捏](https://mp.weixin.qq.com/s/nlgiLEnUWYlWIooRTSPXZg)
++ [Spring神器揭秘：PathMatchingResourcePatternResolver 的强大资源扫描能力](https://mp.weixin.qq.com/s/O3eT7bhV43l5tg2tuMYIRQ)
 
 ### concurrent
 
@@ -3580,6 +3587,7 @@
 + [Tomcat自动扫描利用工具|无问社区助你攻防利器](https://mp.weixin.qq.com/s/o-Tkf5-nGeZz8FO22XFLgQ)
 + [Spring Boot中Tomcat、Jetty、Undertow哪个嵌入式服务器最好？](https://mp.weixin.qq.com/s/J1xpLVCJT0ojoFvB1vgVGg)
 + [Java内存马——Listener型的两种注入](https://mp.weixin.qq.com/s/2OVrBKpPt5nHIeDAK-3s_w)
++ [如何修改HttpServletRequest中的参数](https://mp.weixin.qq.com/s/EI-pkem6eXT5q-Z_NnnwVw)
 
 ## xxl-job
 
@@ -3781,6 +3789,7 @@
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
 + [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
++ [Java 开发者要了解 SFTP 用户权限吗？5分钟带你配置 Linux 用户权限](https://mp.weixin.qq.com/s/gAC1vxZTZuBeGEXgZOigAw)
 + [Java后端人满如患，C++却招不到人](https://mp.weixin.qq.com/s/TkXTzMbzj0lNlFgAt7oUqQ)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
 + [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)

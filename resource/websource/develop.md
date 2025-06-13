@@ -84,6 +84,7 @@
 + [一分钟阅读:如何做好架构设计](https://mp.weixin.qq.com/s/TVL1nvG2hzSTMu8K6YdHrw)
 + [一分钟阅读:架构重构技巧](https://mp.weixin.qq.com/s/EjiBYNQZHW6mI1XgKHhnxg)
 + [一分钟阅读:高性能架构设计](https://mp.weixin.qq.com/s/RJeasy38EXUNJ6skzmtlYQ)
++ [优秀架构师成长之路（13）-数据迁移与零停机切换（银行系统迁移）](https://mp.weixin.qq.com/s/UgKtuuRLIF3u5DFMwEoEnA)
 
 ### DDD
 
@@ -126,6 +127,7 @@
 + [DDD与CRUD的本质区别](https://mp.weixin.qq.com/s/XcutD-s27LbR6rukcR3KkQ)
 + [DDD落地实现的深水区（4）整洁架构落地（上）](https://mp.weixin.qq.com/s/m2a35-RONAs1AW57YIG1Cw)
 + [深入浅出 DDD：从理论到落地的关键](https://my.oschina.net/u/4939618/blog/18449959)
++ [DDD领域驱动设计实战：如何用DDD重构一个复杂的电商系统？阿里技术专家的实践分享。](https://mp.weixin.qq.com/s/OH03xojZg78AcUfjTnBHZQ)
 
 ## 微服务
 

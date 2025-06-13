@@ -146,6 +146,8 @@
 + [trace event 使用介绍](https://mp.weixin.qq.com/s/rRWN5FkqQIKMJ-FqbeTpfQ)
 + [Linux C/C++知识技术汇总，基础入门到高级进阶](https://mp.weixin.qq.com/s/3Aj8ZAP-77kBZUCguYzRSQ)
 + [从源码到实践：彻底剖析Linux进程负载均衡机制](https://mp.weixin.qq.com/s/vIhKGhIRGRBiSIGpalZeHA)
++ [Linux 进程实现原理：从创建到终止的全过程](https://mp.weixin.qq.com/s/6bkrdkckDsvX-3ifWWJp-w)
++ [Linux内核源码目录结构解析——深入理解Linux内核源代码组织方式](https://mp.weixin.qq.com/s/btgh91qYtfP37ngRSYN72g)
 
 ### 网络
 
@@ -485,6 +487,7 @@
 + [tcp粘包拆包解决方案](https://mp.weixin.qq.com/s/qlk0d4GS_hwIKKBOfKYI2g)
 + [TCP三次握手中的SYN\ACK\seq这些究竟是啥？](https://mp.weixin.qq.com/s/Aw3FFVnImhE1cKJWYryq_A)
 + [TCP为啥需要"三次握手"与"四次挥手"？](https://mp.weixin.qq.com/s/Q_L3qPUtRxjBsasVzj86NQ)
++ [为什么 Nginx 和 HTTP 中都有 keep-alive ，一文带你了解 TCP 连接复用](https://mp.weixin.qq.com/s/tBuVf4LSU8WEVbs9AUk7xA)
 
 ### UDP
 

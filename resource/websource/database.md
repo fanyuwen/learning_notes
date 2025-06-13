@@ -99,6 +99,7 @@
 + [精选19道SQL面试题：覆盖查询、概念与常见陷阱](https://mp.weixin.qq.com/s/sdnFjMirgiE-5QZHI2X_EA)
 + [一个WITH子句如何让亿级数据查询直接起飞？](https://mp.weixin.qq.com/s/79D4ApB_Vi4_FjKZHp_ZPQ)
 + [工作十年的码农不会写这个SQL，你要试试吗？](https://mp.weixin.qq.com/s/vZCvGmjLNpznYKb1DWDIHw)
++ [SQL窗口函数原理和使用](https://mp.weixin.qq.com/s/uU0HyN0tookMK6mIaZDXQA)
 
 # 本地数据库
 
@@ -138,6 +139,7 @@
 + [大厂数据优化：Null值的高阶处理](https://mp.weixin.qq.com/s/LQLu73PvaUlfNCRgn_RT1g)
 + [优秀架构师成长之路（2）-分层索引](https://mp.weixin.qq.com/s/eSllXjG78xBieI_yQxPE1Q)
 + [存储引擎系列--LSM树写放大优化之Partitioned Leveling合并策略](https://mp.weixin.qq.com/s/T03ln1I3rOjtjEdn8aIzAQ)
++ [如何保证MySQL和Redis数据一致性](https://mp.weixin.qq.com/s/3o8Fy3_MZ8w3wKhT47qe2Q)
 
 ### 读写分离&分库分表
 
@@ -420,6 +422,7 @@
 + [MySQL性能优化（第二部分）](https://mp.weixin.qq.com/s/TstBVRxDuAAFhOYhU96SCg)
 + [面试官：使用 MySQL 时如果发现数据不一致了，可能是什么原因？](https://mp.weixin.qq.com/s/JIJ5Ym4VfUpX-tx7Id5fIA)
 + [十个提升MySQL性能的操作](https://mp.weixin.qq.com/s/rLVCS5ACo30nV3gFH7TzZQ)
++ [避坑：MySQL单表建议行数不超过2000W！](https://mp.weixin.qq.com/s/O5AbN2PiUYCryGbcRco06w)
 
 #### 存储引擎
 
@@ -600,6 +603,7 @@
 + [深入剖析MySQL索引优化：提升数据库性能的核心技巧](https://mp.weixin.qq.com/s/7hxezI_Sa3wb5hRNk3AfAQ)
 + [21个MySQL索引优化实战技巧](https://mp.weixin.qq.com/s/W4H2mLj_vpyvCOrczAItKg)
 + [mysql索引](https://mp.weixin.qq.com/s/ZJZ7JKsQlCfIc9qigUjMFQ)
++ [mysql索引优化](https://mp.weixin.qq.com/s/bqaWYOAVXM_c2L_W-DCGXw)
 
 ### PostgreSQL
 
@@ -902,6 +906,7 @@
 + [Redis分布式锁你知道几种方式？一文让你搞懂Redis如何实现分布式锁。](https://mp.weixin.qq.com/s/MovTpBJOcbYHjMTau0jjvg)
 + [Redis分布式锁](https://mp.weixin.qq.com/s/b5C2wsWF88f8RIKU30Cfew)
 + [Redis 作者与 DDIA 作者激辩：Redlock 到底安不安全？](https://my.oschina.net/u/4169309/blog/18492056)
++ [小白也能懂的Redis分布式锁，故事版教程来了！](https://mp.weixin.qq.com/s/JIbkVUt6dVgGubgrC8QNFg)
 
 #### 缓存
 

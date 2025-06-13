@@ -535,6 +535,9 @@
 + [python中的万能参数*args和**kwargs怎么用？抓住这三个应用场景准没错](https://mp.weixin.qq.com/s/R55BE1852V2I0Np_UtYUoQ)
 + [python学习15-GUI基础操作](https://mp.weixin.qq.com/s/qekHvdM73yh_TMN4T8yacg)
 + [【Python】多线程/进程操作C++代码](https://mp.weixin.qq.com/s/P4yMy_1MDMsmKh3n0ws16g)
++ [为什么python高手都爱用闭包？这个实时函数技巧绝了](https://mp.weixin.qq.com/s/WgCtkb36bB0y7d0HMPJuKA)
++ [卡卡精心收集的python异常排查指南：3分钟精准定位问题代码，建议收藏！](https://mp.weixin.qq.com/s/TkD8AHuWFncp1BpmVaQKBQ)
++ [python参数传递的终极真相：不是传值，也不是传引用！](https://mp.weixin.qq.com/s/7F7c1jNelOhMeyC5CYaJlw)
 
 ## 新特性
 
@@ -784,6 +787,8 @@
 + [python教学返场——this库：python不仅是一门语言，更是一门文化。全网最详细！](https://mp.weixin.qq.com/s/CruHeB9NX1Ui7Y15SdL6_A)
 + [提效，你可能不知道的9个Python库](https://mp.weixin.qq.com/s/gsVP75Q09KXCRC5AaH973Q)
 + [放弃SimpleHTTPServer吧！这个新兴python库上传下载更简单](https://mp.weixin.qq.com/s/sGtA5NvwkxvhesFFfs7kCg)
++ [这个python库让日志记录如喝水般容易，简直是懒人神器](https://mp.weixin.qq.com/s/m_9HXnhDuVAA_xcLVivWRw)
++ [Polars 多线程 + 内存映射](https://mp.weixin.qq.com/s/vh5UcKudb7YjQsxj7qxw3A)
 
 ### Pandas
 

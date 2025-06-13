@@ -47,6 +47,7 @@
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++ 的 construct_at 函数](https://mp.weixin.qq.com/s/fAAhhkjkDLnus0m7dEydvg)
 + [左值右值](https://mp.weixin.qq.com/s/FjjLl2HvgJXw1v4e_aDTHQ)
++ [【C++】extern](https://mp.weixin.qq.com/s/ednipVGDbAY33wAMfD4zMQ)
 + [C++基础入门必看！命名空间、输入输出、变量类型与流程控制全解析](https://mp.weixin.qq.com/s/jALnPCIW5TQM7c52yfXpbQ)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
 + [c++编程初级第六讲：结构体](https://mp.weixin.qq.com/s/DRxe0r2LT0W7-whqm8XBTQ)
@@ -106,6 +107,7 @@
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [C++ 的三法则和五法则](https://mp.weixin.qq.com/s/5yzAX0TnVZ3OYqsAjWu7DA)
++ [线程飞起来！现代C++高效并发实战秘籍](https://mp.weixin.qq.com/s/Ahlhtv7wSPqGPSiFbmcj0A)
 + [跟我学C++中级篇——内存异常的分析](https://mp.weixin.qq.com/s/-QeDe_Gx21yB50iigZnqfw)
 + [跟我学C++中级篇——STL中的删除对比](https://mp.weixin.qq.com/s/wIMb1Eq6vGjlqXYrn2v4mA)
 + [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
@@ -214,6 +216,7 @@
 + [ABI兼容性：为什么你的C++程序编译链接不通过？](https://mp.weixin.qq.com/s/9Xahip6Td7N0uMu753ElAg)
 + [在三条指令内实现闰年判断](https://mp.weixin.qq.com/s/DON-CC1bOWdajeNnc5aL3w)
 + [C++信奥之径，锻炼思维，扎实算法——二分查找与二分答案（3）](https://mp.weixin.qq.com/s/boC5l9ttzYGeItZqDyulIA)
++ [C++信奥之径，锻炼思维，扎实算法——贪心算法（2）](https://mp.weixin.qq.com/s/TwDWRAp9g8k_gmU2gtYTQA)
 + [告别编译慢、依赖乱！一文吃透这个C++工具的五大核心功能](https://mp.weixin.qq.com/s/kywPjF9-k9OrznCjvxM98g)
 + [推荐一个 C++ 调试神器](https://mp.weixin.qq.com/s/MG9mSt3kVe3YY1M06ea05A)
 
@@ -226,6 +229,7 @@
 ### 学习资源
 
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
++ [10个值得关注的高质量 C++ 开源项目](https://mp.weixin.qq.com/s/F8oafg_1_RiJ0enGpJsxZg)
 
 ### CUDA
 
@@ -240,6 +244,7 @@
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
 + [（2.12）C语言编程入门 -- 函数进阶 - 声明与调用](https://mp.weixin.qq.com/s/MJ7ufgYWpIM11vPqDz5aKQ)
 + [（2.13）C语言编程入门 -- 形参和实参](https://mp.weixin.qq.com/s/YE5SoKArLm9mRclG3PyfQA)
++ [四种C语言编程环境比较：Linux应用编程、Linux内核编程、STM32编程、单片机编程](https://mp.weixin.qq.com/s/6j25pBoilZttcbegPNNqCQ)
 + [07_控制流之分支结构](https://mp.weixin.qq.com/s/HFD_olCGrtsfKekLvn41Tg)
 + [08_控制流之循环结构](https://mp.weixin.qq.com/s/5fmvVqpFGnFQfbNOTx3-kQ)
 + [C语言中多重选择switch的使用](https://mp.weixin.qq.com/s/rRFTvMOhCFlfwINP1hqXOQ)

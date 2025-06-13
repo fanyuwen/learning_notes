@@ -89,6 +89,7 @@
 + [算法与数据结构：浅谈数据结构之链表](https://mp.weixin.qq.com/s/i65ZJqHty-fPb5GyH9nmZg)
 + [算法内功修炼-反转单词前缀](https://mp.weixin.qq.com/s/xEkExJcdN5kmfVWQX8LQtg)
 + [算法内功修炼-反转字符串](https://mp.weixin.qq.com/s/OOE5bxg44awNy8BPiqb7nQ)
++ [竞赛编程教学大纲第十二课：图论算法](https://mp.weixin.qq.com/s/bYdpbaJao3D5v8Wkab3yXQ)
 
 ## 排序算法
 

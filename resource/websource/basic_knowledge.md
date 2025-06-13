@@ -13,6 +13,7 @@
 + [ipconfig 和 ifconfig，别再傻傻分不清！它们到底用在哪里？](https://mp.weixin.qq.com/s/31if7pi-w6WU-wOFlN2enA)
 + [位、字节、半字、字：内存世界的基石](https://mp.weixin.qq.com/s/iKO9HrMkAjYtjkzyB1bQxQ)
 + [操作系统之进程与线程](https://mp.weixin.qq.com/s/4s1duECCmTsG8fPhJ9cX3w)
++ [计算机操作系统 - 进程调度策略](https://mp.weixin.qq.com/s/s8nZIG5DRafiNb9gznbWWg)
 
 ## 文件系统
 
@@ -224,6 +225,8 @@
 + [Shell 脚本系统学习 · 第 6 篇：变量命名规则与注意事项（特殊符号、命名习惯）](https://mp.weixin.qq.com/s/kUxfgzvAnbBe7r7KWfa_Kw)
 + [Linux 常用命令 -hostnamectl【主机名控制】](https://mp.weixin.qq.com/s/3lncE081Ypgqh47M7Cx-lA)
 + [awk 引入外部变量-v用法](https://mp.weixin.qq.com/s/ubAo_Bik64bE0zPP_eOBJQ)
++ [如何在 Linux 中使用 grep 命令？](https://mp.weixin.qq.com/s/ezQst6WzJy7kbP7fUA7P8w)
++ [scp 和 rsync 该怎么选？工作中实操多了才真正懂得](https://mp.weixin.qq.com/s/4Gh-Y71ShROrj18pmaydfQ)
 
 ### 发行版信息
 
@@ -317,6 +320,8 @@
 + [内存的工作原理](https://mp.weixin.qq.com/s/tbbFIxAV4FPXXQOlAr51uQ)
 + [eBPF+内核调优：动态追踪内存碎片的终极武器](https://mp.weixin.qq.com/s/y4YZNgDJYrgcVD9acqQGQA)
 + [内存检测工具KASAN：精准定位内存越界的“幽灵”](https://mp.weixin.qq.com/s/hjWsHZygdsp9S5xCMdBOjQ)
++ [为什么buffer pool read增高会导致CPU变高](https://mp.weixin.qq.com/s/unlbPuBVQv5TJ723aBp2gw)
++ [操作系统之内存管理](https://mp.weixin.qq.com/s/END8A9i6qSCSz5Eat5J7ow)
 
 ## GPU
 

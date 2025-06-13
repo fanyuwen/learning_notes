@@ -164,6 +164,8 @@
 + [Go 错误处理之殇：Go 团队的决策与未来](https://mp.weixin.qq.com/s/S6WT5NJYj78iuy3IG_y81g)
 + [map 并发读写崩溃的真实案例与解决方案](https://mp.weixin.qq.com/s/XTHCG_LOUemCaD2ij52sfQ)
 + [Go的“错误”处理终于尘埃落定：不再从语法层面折腾。](https://mp.weixin.qq.com/s/YjQ8knvheEJRbGgWaw4nyw)
++ [Go 中如何实现各种链表？](https://mp.weixin.qq.com/s/qD7u9pcwxrUiTpfD7TP7fw)
++ [Go结构体比较全解析：为什么有的能比有的不能？](https://mp.weixin.qq.com/s/naQPhNTKR4EyE-UcDGUWgA)
 
 # 面试题
 

@@ -32,6 +32,7 @@
 + [什么是向量化？ElasticSearch如何存储向量？](https://mp.weixin.qq.com/s/H2ZWyYed78CzGWOONPS6BQ)
 + [Elasticsearch单索引 vs 动态索引：你应该选择哪一个](https://mp.weixin.qq.com/s/Udjntn8eBMCP5B2Kuy13qA)
 + [百亿级ES集群调优：从5秒延迟到200ms的骚操作实录——深夜救火到天亮，我删了系统的测试数据？](https://mp.weixin.qq.com/s/Qw2w8aVXn9ftNeR_vtJ6pw)
++ [什么是分片（Shard）和副本（Replica）？一文彻底搞懂！](https://mp.weixin.qq.com/s/OaMvNcxdtZ05ITS9RB1tdQ)
 
 ## solr
 

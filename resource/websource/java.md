@@ -305,6 +305,7 @@
 + [Java真的不难（六十一）模板方法模式及在订单处理流程中的设计](https://mp.weixin.qq.com/s/pCsV8Dc3rOlqYfEWRc-vtA)
 + [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
 + [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
++ [Java真的不难（七十四）观察者模式看这一篇就够了（附源码）](https://mp.weixin.qq.com/s/IT-4l7bK3ssd-1-SDGqxHg)
 + [Java真的不难（六十八）状态模式的深入分析及在订单状态管理系统中的应用（附源码）](https://mp.weixin.qq.com/s/Cp60ecPLUDILa7gTJlxL4A)
 + [Java真的不难（七十一）解释器模式的深入分析及权限规则检查业务案例](https://mp.weixin.qq.com/s/QytyAaafk5Fwo5jbJVRwsQ)
 + [Java真的不难（七十二）抽象工厂模式概念及在电商系统中的组合应用（纯干货）](https://mp.weixin.qq.com/s/mF1sV1X-OerdkS9i9F3q5g)
@@ -1365,6 +1366,7 @@
 + [与传统累加器对比，LongAdder 为何如此出众？](https://mp.weixin.qq.com/s/C6p31rCH-Pqwk_vdGbt8Jw)
 + [java并发之Semaphore](https://mp.weixin.qq.com/s/YMpw61UM7A7j7umOYRnb6w)
 + [阻塞队列之DelayQueue](https://mp.weixin.qq.com/s/pNOxg0mNQIVdqJm2tlDOMg)
++ [面试练习 | Java中的CyclicBarrier与CountDownLatch有何区别及适用场景？](https://mp.weixin.qq.com/s/mRkTRUNPf-Ue_Z7fjC9NLw)
 
 ## IO/NIO
 
@@ -1814,6 +1816,7 @@
 + [Redisson分布式锁核心源码揭秘](https://mp.weixin.qq.com/s/25eDvAwp8T2US9HD_35TWQ)
 + [Redisson分布式锁(超时释放及锁续期)](https://mp.weixin.qq.com/s/XNk8l-2YPN_OxIcnpihUPA)
 + [Redisson简明教程—你家的锁芯该换了](https://mp.weixin.qq.com/s/pzYxLjvGPB9ayDrV74X9Gg)
++ [Redisson中也有延迟队列？](https://mp.weixin.qq.com/s/nUlvuqylY7hOsDH2Q2934Q)
 
 ## ribbon
 
@@ -2242,6 +2245,7 @@
 + [JavaSec | SpringAOP 链学习分析](https://mp.weixin.qq.com/s/BBjpXCa8BcFPYdl6nJu-Kg)
 + [用 Spring AOP 优化 IN 查询，效率提升巨大！](https://mp.weixin.qq.com/s/JDFQQiecUJeaNt37AP7UKQ)
 + [没有Spring AOP的话，Java代码很难保持简洁](https://mp.weixin.qq.com/s/rM40DZ8esKaoLjdl2mJQcw)
++ [Spring分析-AOP](https://mp.weixin.qq.com/s/piD1y8PZJWlNXNoGO3xG3w)
 
 ### 配置打包部署
 
@@ -3734,6 +3738,7 @@
 + [彻底告别 Controller、Service、Dao，让人上瘾的开发神器...](https://mp.weixin.qq.com/s/KdgwBzjLrrkiq9g_a6kKRA)
 + [新一代ORM框架——Jimmer](https://mp.weixin.qq.com/s/TMCRfHoaX3Yp6QiJX9FTyw)
 + [从 JDK 8 到 JDK 17：Swagger 升级迁移指南](https://mp.weixin.qq.com/s/m_6fcn2lYO5C6QJDKqzy_A)
++ [Java LazyMap的深度利用技巧](https://mp.weixin.qq.com/s/girRITO8HO0qgC5613ewKw)
 
 # 其它环境
 

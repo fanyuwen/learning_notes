@@ -96,6 +96,9 @@
 + [10个SQL优化技巧，性能提升300%](https://mp.weixin.qq.com/s/u1PPK1cxe2eyefijTw78og)
 + [五个让你SQL性能飙升的优化技巧](https://mp.weixin.qq.com/s/yTHziaqysb7zwXSEBlFY1w)
 + [SQL 优化：提升数据库性能的艺术](https://www.oschina.net/news/353509)
++ [精选19道SQL面试题：覆盖查询、概念与常见陷阱](https://mp.weixin.qq.com/s/sdnFjMirgiE-5QZHI2X_EA)
++ [一个WITH子句如何让亿级数据查询直接起飞？](https://mp.weixin.qq.com/s/79D4ApB_Vi4_FjKZHp_ZPQ)
++ [工作十年的码农不会写这个SQL，你要试试吗？](https://mp.weixin.qq.com/s/vZCvGmjLNpznYKb1DWDIHw)
 
 # 本地数据库
 
@@ -416,6 +419,7 @@
 + [mysql的explain关键字](https://mp.weixin.qq.com/s/WGxiIfV7w1AlyMa3lfRR3Q)
 + [MySQL性能优化（第二部分）](https://mp.weixin.qq.com/s/TstBVRxDuAAFhOYhU96SCg)
 + [面试官：使用 MySQL 时如果发现数据不一致了，可能是什么原因？](https://mp.weixin.qq.com/s/JIJ5Ym4VfUpX-tx7Id5fIA)
++ [十个提升MySQL性能的操作](https://mp.weixin.qq.com/s/rLVCS5ACo30nV3gFH7TzZQ)
 
 #### 存储引擎
 

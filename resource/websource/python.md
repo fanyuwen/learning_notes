@@ -70,6 +70,7 @@
 + [为什么我们需要if __name__ == __main__](https://mp.weixin.qq.com/s/HaLl8W0h02wamkk9qpAZYA)
 + [Python异常链溯源：精通 raise...from... 机制](https://mp.weixin.qq.com/s/Ou1lk4IqtWmw5aCiFZ8kqg)
 + [Python 内置数据类型——bytes(字节序列)](https://mp.weixin.qq.com/s/5EqMkfzMAu0MmnLqmMDk0Q)
++ [Python 乱码终结者：3分钟掌握字符串编码核心技巧！](https://mp.weixin.qq.com/s/6aHUIkN9_FfoSmFR0Il8ZA)
 
 ### 函数/方法
 
@@ -217,6 +218,7 @@
 + [Python编程精进：优化模块导入提升性能](https://mp.weixin.qq.com/s/hhJkyVXDBcYMotd2scQxow)
 + [Python 模块/包/库：90%新手都搞混的概念！3分钟彻底搞懂！](https://mp.weixin.qq.com/s/c2zp-04oHYS6B0r8nBIIcg)
 + [Python日志调试模块-logging](https://mp.weixin.qq.com/s/wdJEetPIRVDU7TzAcYhQCA)
++ [Python常用系统自带库之json解析](https://mp.weixin.qq.com/s/4_Ya344DKPMk3QrjzOMeaQ)
 
 ### 异步/多线程
 
@@ -518,6 +520,9 @@
 + [python中依赖注入这样用，你的代码立刻就有大厂风范](https://mp.weixin.qq.com/s/adz6GDJ9TCtV4IfQ839tlw)
 + [python学习7-函数设计](https://mp.weixin.qq.com/s/8r_EzNT9cn9b7GBl0WcCaA)
 + [给程序员老兵的一份Python快速上手清单](https://mp.weixin.qq.com/s/nnh9Tcvtvy3n5VuYn-El3A)
++ [Python 中为何不建议使用 import *？深入解析隐藏的风险与最佳实践](https://mp.weixin.qq.com/s/64F-5i-5FILkS09tYbPpkg)
++ [别再暴力循环了！用 Python 切片优雅处理数据的高阶玩法](https://mp.weixin.qq.com/s/5P8X0szjOWJXA-L22b577g)
++ [Python编程精进：盘点10种重要的Python编码模式](https://mp.weixin.qq.com/s/Yvk5wLHRNCcTYT9IHY7kig)
 
 ## 新特性
 
@@ -840,6 +845,7 @@
 + [Python编程精进：实用的属性管理工具](https://mp.weixin.qq.com/s/9xuMGRmcz1kz5BBOZ1Zk1g)
 + [python入门系列二十一（python执行js脚本，助力平台产品实现脚本化能力）](https://mp.weixin.qq.com/s/Ii1FupIMSCrLVfPhfztjNQ)
 + [速度提升100倍，最新Python包管理工具uv，淘汰pip](https://mp.weixin.qq.com/s/kSB0Bb2ZBwaH30fRJ_cgvA)
++ [【python】uv管理器](https://mp.weixin.qq.com/s/-h3LV8R9J2DSwnWMBB_Mrw)
 
 ## 框架
 

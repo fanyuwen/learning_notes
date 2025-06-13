@@ -81,6 +81,8 @@
 + [架构师的职责是什么？程序员如何转型为架构师？](https://mp.weixin.qq.com/s/DQd79QVmfIqSsIpuOLj5eA)
 + [优秀架构师必须掌握的架构思维：从优秀到卓越的思维修炼](https://mp.weixin.qq.com/s/lMQoZ8yJTFtpneXf3idAOA)
 + [优秀架构师必须掌握的10大架构思维：从技术到战略的全面拆解](https://mp.weixin.qq.com/s/vrpdxWWtDvvtEH329HYUcg)
++ [一分钟阅读:如何做好架构设计](https://mp.weixin.qq.com/s/TVL1nvG2hzSTMu8K6YdHrw)
++ [一分钟阅读:架构重构技巧](https://mp.weixin.qq.com/s/EjiBYNQZHW6mI1XgKHhnxg)
 
 ### DDD
 
@@ -670,6 +672,7 @@
 + [【HDLbits--FSM状态机】](https://mp.weixin.qq.com/s/M5gPSFbyhbon9n5cjtOJhA)
 + [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
 + [状态机模型，你真的搞懂并用对了吗？](https://mp.weixin.qq.com/s/_vg5lB8CC0OzrcHfQ-iv9w)
++ [基于有限状态机的测试（一）：基本定义和测试目标](https://mp.weixin.qq.com/s/P8DE0kCQvYBqIfd5I1bjzA)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [RESTful API中的6个核心概念，但最重要的特性是灵活](https://mp.weixin.qq.com/s/BtECZFsJr02A6Dd6qWDQHw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)

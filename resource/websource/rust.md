@@ -65,6 +65,10 @@
 + [“把 if 往上提，for 往下放！”](https://mp.weixin.qq.com/s/-xJ2Lm_M2IqYT8-dYo52XQ)
 + [Rust 的结构体与 C 的结构体的差异](https://mp.weixin.qq.com/s/_23ZQE3Y9gJ1mZJRbB5r0Q)
 + [浅析 rust 大明星 Tokio](https://mp.weixin.qq.com/s/1rd8AWNwgERE8ANuVAzAZA)
++ [深入探索 Hashbrown：Rust 高性能哈希表实现](https://mp.weixin.qq.com/s/tdPUnV39-gIO2G1R_Fe-Ng)
++ [Rust中的字符串处理：深入理解std::string模块](https://mp.weixin.qq.com/s/2-IIBbvC7FH05z4WQKHwQQ)
++ [Rust 动态库加载指南：深入探索 libloading 库](https://mp.weixin.qq.com/s/yi7BaUrBXV8MfYhiq1YAFA)
++ [深入解析 Rust 的语法分析库 Syn](https://mp.weixin.qq.com/s/pqWXGnGsNfDpu67MEUH9fw)
 
 # 框架
 

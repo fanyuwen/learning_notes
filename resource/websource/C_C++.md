@@ -26,6 +26,7 @@
 + [CMake Error at CMakeLists.txt (find_package)幕后真凶](https://mp.weixin.qq.com/s/xO_zh2MRfm1UmpCOJrTHxQ)
 + [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 + [CMake超简单上手：从最简C代码到嵌入式项目管理](https://mp.weixin.qq.com/s/Fk6OD7sa-BmLg7VfKlHlCg)
++ [CMake之常用语法(宏)](https://mp.weixin.qq.com/s/7KYB6MkyaQyM3WTfiKWY5g)
 
 ### 第三方技术
 
@@ -152,6 +153,7 @@
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [数据结构（一）：队列&双端队列](https://mp.weixin.qq.com/s/zWMiXELAg0kBlfdIoi0Fxg)
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
++ [C++ 的智能指针不就基本解决了野指针问题了吗?为什么还要吹捧rust的内存安全?](https://mp.weixin.qq.com/s/qSR6pJx159Q2fxyIJTRk1w)
 + [输出流的内部缓存](https://mp.weixin.qq.com/s/LfcGvNxOQ8y7FkOHjHofoQ)
 + [字符编码理论基础](https://mp.weixin.qq.com/s/1h5hqBcF9zSbUUnUbzwJQQ)
 + [高内聚与低耦合的嵌入式软件组件设计](https://mp.weixin.qq.com/s/4GTXGdiUfB-O0ef1JIcoXA)
@@ -165,6 +167,8 @@
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [c++26新功能——gcc15.1的支持](https://mp.weixin.qq.com/s/aNxkU2j_XHd0Mwbis0BwBw)
 + ["......" 这种 C++ 语法已被标准弃用](https://mp.weixin.qq.com/s/z0Mp3px9aVq8rFowkrkFlA)
++ [高效调试技巧帮你快速定位复杂 C++ 程序中的 Bug](https://mp.weixin.qq.com/s/0K4rr2HzG_LLzWfIyivMfw)
++ [C++项目中常见性能瓶颈和实用优化技巧](https://mp.weixin.qq.com/s/USodhX9NFLHU4Haq2TcabA)
 + [输出流的数字格式](https://mp.weixin.qq.com/s/pKHopaNzWXcZ21oQ9KVKQg)
 + [现代C++开发者工具指南：比技巧更重要的是装备！](https://mp.weixin.qq.com/s/OkHKVrFEamF5rwVFUc55yQ)
 + [告别内存焦虑！C++ 必备的工具库实战指南](https://mp.weixin.qq.com/s/WMxNCQEiJj_B0zl6RLRKCQ)
@@ -308,6 +312,7 @@
 + [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
 + [逆向基础 | 堆栈图](https://mp.weixin.qq.com/s/lmQuURW7VbLVf4l5UUiaXg)
 + [深入剖析malloc和free：堆内存管理的基石](https://mp.weixin.qq.com/s/XMUn1tflJlp3RNNjdOcbBQ)
++ [函数指针c = (*pf)(a, b)](https://mp.weixin.qq.com/s/P5JWkkOpih49HjI75Mnryw)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 + [C：getopt_long() 助力生成高逼格工具（二）](https://mp.weixin.qq.com/s/xwyO5tMOQC_RXlK8KM7RWw)
 + [`stdio.h`,一个强大的c库](https://mp.weixin.qq.com/s/15GYYpy8PSbKI0k1DXrKhw)

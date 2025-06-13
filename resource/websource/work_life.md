@@ -88,6 +88,7 @@
 + [留给初中阶程序员的时间不多了](https://mp.weixin.qq.com/s/19xbEZpir5dX9PUD3sfdrQ)
 + [35岁再去学程序员靠谱吗？](https://mp.weixin.qq.com/s/R9KBqN0Hne_LxX1I1xBCBw)
 + [为什么写了多年代码，还是没形成自己的工程思维？](https://mp.weixin.qq.com/s/kpzDuIg_6I5eJO4YQZ3HIw)
++ [发现一个现象，很多35岁以上技术型人才、45岁以上中高级管理人员，一旦失业后，再就业就比较困难，到底问题出在哪？](https://mp.weixin.qq.com/s/PmYc1fd7XJaTck5mfGy_sg)
 
 # 个人成长
 
@@ -156,6 +157,8 @@
 + [我认识的最优秀的程序员](https://mp.weixin.qq.com/s/siz6m5U72vfXgWWtcHo4gg)
 + [为什么不能一次性写好代码，而需要改bug？](https://mp.weixin.qq.com/s/YlcoDQkAOIEPHuS6ZcIabg)
 + ["别重复造轮子"：程序员最毒的职场建议](https://mp.weixin.qq.com/s/PKI4S3UbOFlIV0RLf4uWXA)
++ [什么是好代码？一位资深工程师的深度思考](https://mp.weixin.qq.com/s/p3_th4GzZIEpoxan3_8isQ)
++ [一点学写代码的经历](https://mp.weixin.qq.com/s/tbYUCQ9lKHvK_vs2eM6qrg)
 
 ## 视频
 
@@ -302,6 +305,7 @@
 + [Java 8 被 IDEA 彻底抛弃了？【文末送书】](https://mp.weixin.qq.com/s/jbO05ylOM7XI7K7hX365AQ)
 + [使用 IDEA 远程 Debug 调试（一篇懂所有）](https://mp.weixin.qq.com/s/7e0Bd-dkhUNuCvi0jrTJCw)
 + [高手们都在用的IntelliJ IDEA小技巧](https://mp.weixin.qq.com/s/rZWBBOaNXhJ2u7ql6261lg)
++ [IntelliJ IDEA Debug 功能你真的会用吗？干货总结](https://mp.weixin.qq.com/s/Nfu8AnBNgiZvHUJlJkgSDA)
 
 ## MAC_PRO相关
 

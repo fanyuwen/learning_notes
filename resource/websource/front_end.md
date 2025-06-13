@@ -190,6 +190,8 @@
 + [捕获async/await错误，你还在用try...catch吗？](https://mp.weixin.qq.com/s/-tGtJrQjg8zfQ3XosWtYlg)
 + [Typescript-Promise基础](https://mp.weixin.qq.com/s/K_IYxsOlaXuiMQrNWItvhA)
 + [也只有JavaScript可以写出这么离谱的代码了吧](https://mp.weixin.qq.com/s/qX4e_M8FRjMh9hCH9TBAuQ)
++ [如何取消一个已经开始的 JavaScript Promise](https://mp.weixin.qq.com/s/O4ej_zb_sKoJcCamCmmvAA)
++ [JavaScript 条件判断与循环：少写一个 else，性能提升10%！](https://mp.weixin.qq.com/s/PWZCfpGr2R6DHmoeEfY9rA)
 
 # 框架
 
@@ -358,3 +360,4 @@
 + [nrm 管理 npm 镜像源 | npm 私服使用介绍](https://mp.weixin.qq.com/s/UufIohwmm9TT-5YxMEnDUQ)
 + [为什么会 js 但是依然不会写 node？原因竟是这三点...](https://mp.weixin.qq.com/s/lhMHJwxIhPNfm9BhTsOIyQ)
 + [ECMAScript 2025新增了这些核心特性，看看你都知道几个？](https://mp.weixin.qq.com/s/oXKQrXN0qxUETgSlpFi15Q)
++ [49个 JavaScript 代码快捷技巧，让你在 2025 年成为代码高手](https://mp.weixin.qq.com/s/vOs4YzuY8P1H5s-UyH4Lqg)

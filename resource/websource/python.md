@@ -223,6 +223,7 @@
 + [Python日志调试模块-logging](https://mp.weixin.qq.com/s/wdJEetPIRVDU7TzAcYhQCA)
 + [Python常用系统自带库之json解析](https://mp.weixin.qq.com/s/4_Ya344DKPMk3QrjzOMeaQ)
 + [python基础语法-模块](https://mp.weixin.qq.com/s/pJO7tj7Gszdhg05SN4HigA)
++ [python学习9-常用类包](https://mp.weixin.qq.com/s/2zhptXXAP6iHzx90ud_Y2Q)
 
 ### 异步/多线程
 
@@ -531,6 +532,9 @@
 + [Python 中为何不建议使用 import *？深入解析隐藏的风险与最佳实践](https://mp.weixin.qq.com/s/64F-5i-5FILkS09tYbPpkg)
 + [别再暴力循环了！用 Python 切片优雅处理数据的高阶玩法](https://mp.weixin.qq.com/s/5P8X0szjOWJXA-L22b577g)
 + [Python编程精进：盘点10种重要的Python编码模式](https://mp.weixin.qq.com/s/Yvk5wLHRNCcTYT9IHY7kig)
++ [python中的万能参数*args和**kwargs怎么用？抓住这三个应用场景准没错](https://mp.weixin.qq.com/s/R55BE1852V2I0Np_UtYUoQ)
++ [python学习15-GUI基础操作](https://mp.weixin.qq.com/s/qekHvdM73yh_TMN4T8yacg)
++ [【Python】多线程/进程操作C++代码](https://mp.weixin.qq.com/s/P4yMy_1MDMsmKh3n0ws16g)
 
 ## 新特性
 
@@ -779,6 +783,7 @@
 + [那些小众但实用的Python库](https://mp.weixin.qq.com/s/cilR4L2vF8DNKOEDkY8G-g)
 + [python教学返场——this库：python不仅是一门语言，更是一门文化。全网最详细！](https://mp.weixin.qq.com/s/CruHeB9NX1Ui7Y15SdL6_A)
 + [提效，你可能不知道的9个Python库](https://mp.weixin.qq.com/s/gsVP75Q09KXCRC5AaH973Q)
++ [放弃SimpleHTTPServer吧！这个新兴python库上传下载更简单](https://mp.weixin.qq.com/s/sGtA5NvwkxvhesFFfs7kCg)
 
 ### Pandas
 
@@ -854,6 +859,7 @@
 + [python入门系列二十一（python执行js脚本，助力平台产品实现脚本化能力）](https://mp.weixin.qq.com/s/Ii1FupIMSCrLVfPhfztjNQ)
 + [速度提升100倍，最新Python包管理工具uv，淘汰pip](https://mp.weixin.qq.com/s/kSB0Bb2ZBwaH30fRJ_cgvA)
 + [【python】uv管理器](https://mp.weixin.qq.com/s/-h3LV8R9J2DSwnWMBB_Mrw)
++ [python代码调试工具pudb的多进程支持](https://mp.weixin.qq.com/s/iS4aCiA0CvkH7gD_i_Omig)
 
 ## 框架
 

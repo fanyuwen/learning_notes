@@ -69,6 +69,7 @@
 + [C++11新特性：std::thread多线程](https://mp.weixin.qq.com/s/65yYeQxH_aGhF-IbvPYHqw)
 + [C++11新特性：shared_ptr与weak_ptr（实例测试）](https://mp.weixin.qq.com/s/i6eEgxpkjDlae_JjlMirFA)
 + [C++多线程性能优化实战指南：如何让你的线程飞起来？](https://mp.weixin.qq.com/s/dRXXFatDyjKGRFhcCQJBow)
++ [比 tcmalloc 快 43%！mimalloc 高性能背后的 5 大核心技术揭秘](https://mp.weixin.qq.com/s/Js9jjkHdApMxnKxvGS-OQA)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
 + [C++ 的 clamp 函数](https://mp.weixin.qq.com/s/7ecKVC137dPtcfZ2byHbPg)
@@ -151,6 +152,7 @@
 + [Kaitai Struct，一个超强的定义](https://mp.weixin.qq.com/s/SdxhkJUeSw6VfroIxH92VQ)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
++ [【C++】placement new](https://mp.weixin.qq.com/s/o0B1Uj7Io3JnCMf6_vhztw)
 + [数据结构（一）：队列&双端队列](https://mp.weixin.qq.com/s/zWMiXELAg0kBlfdIoi0Fxg)
 + [90%程序员都忽视的C++内存陷阱，你踩中了吗？](https://mp.weixin.qq.com/s/DCCUwdJH-o-PjIk3zS2YIw)
 + [C++ 的智能指针不就基本解决了野指针问题了吗?为什么还要吹捧rust的内存安全?](https://mp.weixin.qq.com/s/qSR6pJx159Q2fxyIJTRk1w)
@@ -173,6 +175,7 @@
 + [现代C++开发者工具指南：比技巧更重要的是装备！](https://mp.weixin.qq.com/s/OkHKVrFEamF5rwVFUc55yQ)
 + [告别内存焦虑！C++ 必备的工具库实战指南](https://mp.weixin.qq.com/s/WMxNCQEiJj_B0zl6RLRKCQ)
 + [别再无脑#include了！你写的每一行C++代码，可能都在拖慢整个团队！](https://mp.weixin.qq.com/s/0AQceQ81oM6mwYA9tYR-ow)
++ [【C++】一些C++知识点04.02（一）](https://mp.weixin.qq.com/s/92cRHJUuXSSV462ELoX4oA)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
 + [LLDB，一个强大的调试库](https://mp.weixin.qq.com/s/9TFAAmy5shnsLgMk8oZh5A)
@@ -212,6 +215,7 @@
 + [在三条指令内实现闰年判断](https://mp.weixin.qq.com/s/DON-CC1bOWdajeNnc5aL3w)
 + [C++信奥之径，锻炼思维，扎实算法——二分查找与二分答案（3）](https://mp.weixin.qq.com/s/boC5l9ttzYGeItZqDyulIA)
 + [告别编译慢、依赖乱！一文吃透这个C++工具的五大核心功能](https://mp.weixin.qq.com/s/kywPjF9-k9OrznCjvxM98g)
++ [推荐一个 C++ 调试神器](https://mp.weixin.qq.com/s/MG9mSt3kVe3YY1M06ea05A)
 
 ### 资讯
 

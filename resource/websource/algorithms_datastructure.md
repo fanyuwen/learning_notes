@@ -90,6 +90,7 @@
 + [算法内功修炼-反转单词前缀](https://mp.weixin.qq.com/s/xEkExJcdN5kmfVWQX8LQtg)
 + [算法内功修炼-反转字符串](https://mp.weixin.qq.com/s/OOE5bxg44awNy8BPiqb7nQ)
 + [竞赛编程教学大纲第十二课：图论算法](https://mp.weixin.qq.com/s/bYdpbaJao3D5v8Wkab3yXQ)
++ [【你问我答】第一期：冒泡排序、对拍和距离判断](https://mp.weixin.qq.com/s/jlxb0G-YGiHudol038H_vA)
 
 ## 排序算法
 

@@ -1142,6 +1142,7 @@
 + [如果让你改造下 HashMap 的扩容实现，你会怎样优化？](https://mp.weixin.qq.com/s/v3wNbQ3RTGjQtUItFRYPqQ)
 + [Map集合常用基础知识点，你掌握了吗？](https://mp.weixin.qq.com/s/j5K-lj6YCZULTUYUWQ_eyw)
 + [吊打面试官！10个HashMap源码级细节，99%的Java程序员都不知道！](https://mp.weixin.qq.com/s/3Vjz3_cl4qzl7eX5XVDEsQ)
++ [为什么多线程操作HashMap会导致书本神秘失踪？](https://mp.weixin.qq.com/s/lVyG1_CpJ0J_DvHtPJlQog)
 
 ### Optional
 
@@ -1354,6 +1355,7 @@
 + [面试官：ArrayBlockingQueue是如何保证线程安全的？](https://mp.weixin.qq.com/s/tgGI8ND5oBAmqYxfk0OvZQ)
 + [BlockingQueue 示例及使用场景](https://mp.weixin.qq.com/s/-OLHoAUTkK3jrOxwM0w6gg)
 + [AtomicReference](https://mp.weixin.qq.com/s/SWua1GXlAvt0lG_DRS5usw)
++ [面试练习 | Java中如何使用AtomicInteger实现线程安全的计数器？](https://mp.weixin.qq.com/s/lXGcIRRFy8wTMRq0HNWJDg)
 + [三个同步辅助类](https://mp.weixin.qq.com/s/nDb4wH8s0QViHfUcYVzAhA)
 + [并发容器（Map、List、Set）实战及其原理分析——CopyOnWriteArrayList篇](https://mp.weixin.qq.com/s/Gk_hIN7uOlkk09xMHgMVXw)
 + [深入浅出：Java阻塞队列完全解析](https://mp.weixin.qq.com/s/ZJOpbTk-sPkDHleI_EjOog)
@@ -1390,6 +1392,7 @@
 + [万字总结NIO多路复用技术，深入解析NIO的实现原理！](https://mp.weixin.qq.com/s/suUaVzlgOuWw74Yw1piCRA)
 + [深入剖析 InputStream：源码解读、JDK 更新与应用实例](https://mp.weixin.qq.com/s/vgw1kDmZsPH5M2AjKvAgBA)
 + [NIO非阻塞网络编程的三大核心组件](https://mp.weixin.qq.com/s/9ZnMRoAI1AZiK9bAf-X38Q)
++ [视频分片点播（1）：RandomAccessFile](https://mp.weixin.qq.com/s/GAC4GkJS0Cgv9fZAyBICsA)
 
 ## JAVAX
 
@@ -3010,6 +3013,9 @@
 + [Spring Boot 3.x 中的 RestClient 使用全解析](https://mp.weixin.qq.com/s/gggEHI6ZADEHGwKAfOvIhw)
 + [Spring Boot 控制 Controller 接口的4种方式，哪种更适合你？](https://mp.weixin.qq.com/s/56Gbg3LNGkvNaiLz0RuaNw)
 + [太燃了！Spring Boot 七种拦截技术，横扫各种问题](https://mp.weixin.qq.com/s/Uh960gt6_4kGzpaX_ukNaA)
++ [Springboot集成cxf编写webservice接口（服务端）](https://mp.weixin.qq.com/s/3vEaAxFL0U2EXmHOfl1Ysw)
++ [新的路径模式匹配：PathPattern](https://mp.weixin.qq.com/s/8CSNQBpYQMrkeCVkgW0rNw)
++ [SpringBoot中4种控制器返回值处理技巧](https://mp.weixin.qq.com/s/Z8G_HeNbVnYCf0rfnH6_nw)
 
 ##### VUE
 
@@ -3098,6 +3104,7 @@
 + [SpringBoot 接入 Redis 实现缓存秒懂教程](https://mp.weixin.qq.com/s/H7Rirxt3JWG2EF7xHCMakA)
 + [Java教程：SpringBoot项目如何在启动时等待数据库，待连接成功后再启动项目](https://mp.weixin.qq.com/s/GEHm5ZKtUCgznHZlGQaRLQ)
 + [SpringBoot集成SQLite：轻量级数据库的极简CRUD实战](https://mp.weixin.qq.com/s/bvYsirFyRw9Z4qz1x31p4A)
++ [SpringBoot 执行原生Sql](https://mp.weixin.qq.com/s/dnazHyAHWBx9qz-RcMketw)
 
 ##### TRANSACTION
 
@@ -3179,6 +3186,7 @@
 + [SpringBoot 异步接口深度解密：高并发场景下的性能优化实战](https://mp.weixin.qq.com/s/6BxbBhKI8yI36OOFSInR8w)
 + [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/OoncMmuuFbOaAv35dFwqEw)
 + [@Async 咋总是不生效？！Spring Boot 异步编程 5 个“翻车”姿势，你中招了几个？](https://mp.weixin.qq.com/s/C2W2emBC76SahH5vKgVhxA)
++ [虚拟线程与消息队列：Spring Boot 3.5 中异步架构的演进与选择](https://mp.weixin.qq.com/s/xYnQ0t9iEKunbWqitTJQkg)
 
 ##### Disruptor
 

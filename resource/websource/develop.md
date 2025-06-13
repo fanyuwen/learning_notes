@@ -83,6 +83,7 @@
 + [优秀架构师必须掌握的10大架构思维：从技术到战略的全面拆解](https://mp.weixin.qq.com/s/vrpdxWWtDvvtEH329HYUcg)
 + [一分钟阅读:如何做好架构设计](https://mp.weixin.qq.com/s/TVL1nvG2hzSTMu8K6YdHrw)
 + [一分钟阅读:架构重构技巧](https://mp.weixin.qq.com/s/EjiBYNQZHW6mI1XgKHhnxg)
++ [一分钟阅读:高性能架构设计](https://mp.weixin.qq.com/s/RJeasy38EXUNJ6skzmtlYQ)
 
 ### DDD
 
@@ -200,6 +201,7 @@
 + [告别心跳！用“零心跳”架构设计服务注册中心，性能提升10倍！](https://mp.weixin.qq.com/s/K9oPF6QmBQ_gHBDgyQ0ddg)
 + [微服务架构：必懂的5种设计模式](https://mp.weixin.qq.com/s/9dtJAFdR4HUb92-HOW_2wA)
 + [为啥 90% 的微服务仍然像单体应用一样？](https://mp.weixin.qq.com/s/7vw4a82QdQ35QqREsAHScw)
++ [一分钟阅读:微服务架构整体思路](https://mp.weixin.qq.com/s/yvWHdXIXKT3Vxi-I8lIn5Q)
 
 # 分布式
 
@@ -497,6 +499,7 @@
 + [缓存引擎设计精要](https://mp.weixin.qq.com/s/LRybPXjB444o0XDxg7qoEA)
 + [用好缓存的10条军规](https://mp.weixin.qq.com/s/eb5FzwpJAFM4cbsdooYzkg)
 + [深入探讨缓存一致性问题：解决方案与最佳实践](https://mp.weixin.qq.com/s/RZCwcOwe0I2ZsJq61Q9hQQ)
++ [从崩溃到高可用：一文彻底搞懂缓存雪崩、缓存击穿、缓存穿透；相信我，面试必问](https://mp.weixin.qq.com/s/YoelBmHER47tDc2S20pmdg)
 
 ## 优化
 

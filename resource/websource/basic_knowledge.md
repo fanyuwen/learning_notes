@@ -145,6 +145,7 @@
 + [Linux内核内存管理：核心技术与优化策略](https://mp.weixin.qq.com/s/vyjlg9uC1hfAYuwQA7H0JA)
 + [trace event 使用介绍](https://mp.weixin.qq.com/s/rRWN5FkqQIKMJ-FqbeTpfQ)
 + [Linux C/C++知识技术汇总，基础入门到高级进阶](https://mp.weixin.qq.com/s/3Aj8ZAP-77kBZUCguYzRSQ)
++ [从源码到实践：彻底剖析Linux进程负载均衡机制](https://mp.weixin.qq.com/s/vIhKGhIRGRBiSIGpalZeHA)
 
 ### 网络
 
@@ -160,7 +161,6 @@
 + [Linux 网络第一部分：内核网络栈](https://mp.weixin.qq.com/s/JN-2pHj5lkCFFYd1bwIbwA)
 + [Linux 网络调优简介](https://mp.weixin.qq.com/s/0x-0q2j6pWb1RqIlu0E6AQ)
 + [100G 网络速率调优-CPU调速器](https://mp.weixin.qq.com/s/tNfEPJUveeLrjmvr5XsMag)
-+ [Linux高性能网络编程十谈|C++11实现22种高并发模型](https://mp.weixin.qq.com/s/whopYubsHE3_jc9nXdeLXg)
 
 ### 命令
 
@@ -399,6 +399,8 @@
 + [应用层网络通信协议详解](https://mp.weixin.qq.com/s/mdByUnGfwRj_wHt5eS2FxQ)
 + [计算机网络学习笔记(2)：计网分类和性能指标](https://mp.weixin.qq.com/s/AlWMJKEDJ5-L9u71GmFzjg)
 + [你知道 SFTP vs FTP 的区别吗？一文讲清（附协议图解）小白也能听懂](https://mp.weixin.qq.com/s/2SVHCzPYCdYCS3BI29kUfg)
++ [网络编程--下篇](https://mp.weixin.qq.com/s/ptj0fKd3XWhY1EgAJxNODA)
++ [Linux高性能网络编程十谈|C++11实现22种高并发模型](https://mp.weixin.qq.com/s/whopYubsHE3_jc9nXdeLXg)
 
 ### DNS
 

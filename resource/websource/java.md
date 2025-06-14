@@ -180,6 +180,7 @@
 + [Java 15新特性：文本块，代码书写的新利器](https://mp.weixin.qq.com/s/D-Atg73J2JSqeEwvhexmHA)
 + [Java 16纪录类：告别繁琐，让代码起飞](https://mp.weixin.qq.com/s/j_MOYaQ8yEbeV26nGe6JAg)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
++ [Java 1.8 仍在流行？是时候升级到 JDK 21 了！](https://mp.weixin.qq.com/s/FMvGBS6AczrGr4sqsFJ6Hg)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
 + [Java 21 新特性的实践，确实很丝滑！](https://mp.weixin.qq.com/s/bsg1cjEGrK-QPIw5b0_ncA)
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
@@ -864,6 +865,7 @@
 + [Java进阶必备：深入解析LinkedHashMap的原理与实战应用](https://mp.weixin.qq.com/s/HYr5wai8nXxhJ8X4MGc8MA)
 + [OutputStream源码解析：你真的不来看看？](https://mp.weixin.qq.com/s/7NnGw0CaXnkshOF6lse2nQ)
 + [深入了解TreeMap，从源码解析你确定不来看看吗？](https://mp.weixin.qq.com/s/q7mmzQ_ayt4hNTqTfkDqIg)
++ [Java 语言基础 - LinkedHashSet & LinkedHashMap 源码分析](https://mp.weixin.qq.com/s/KYX9oZc70c55mq3RNZSR4A)
 
 ## JVM
 
@@ -1178,6 +1180,8 @@
 + [关于 Optional 的一些高级用法！](https://mp.weixin.qq.com/s/je0egmyuspAyXHIEjK7fyg)
 + [写死 if-else 的你，见过 Optional 的优雅吗？](https://mp.weixin.qq.com/s/iWXvYBHncIO6I9V2B81RLA)
 + [Optional 的高级用法：从避坑到优雅编程](https://mp.weixin.qq.com/s/CuAUseLgulpvH_qxzgQ1BQ)
++ [Java Optional 最佳实践全解析](https://mp.weixin.qq.com/s/V53VeiZEA6VrPXqpbRokZQ)
++ [用了 Optional，结果生产环境直接 NPE？这锅你得背！](https://mp.weixin.qq.com/s/HkpKSFug-etm7MU_kDAL9g)
 
 ### Comparator
 
@@ -1707,6 +1711,7 @@
 + [MyBatis中 #{} 并非万能：动态SQL实战](https://mp.weixin.qq.com/s/6oV3k1riB0d0JA9eyC0IkA)
 + [MyBatis如何处理延迟加载？](https://mp.weixin.qq.com/s/T5BmRXF2U4r6cI01NEbMnw)
 + [MyBatis性能提升300%的秘诀：这5个优化方案请收好](https://mp.weixin.qq.com/s/3O8TbC_klqeRZChlDH69sw)
++ [MyBatis的trim标签用法](https://mp.weixin.qq.com/s/tnVz4ieAex6tLwKAd9DWag)
 
 ### plus
 
@@ -1998,6 +2003,7 @@
 + [Spring @Value 注入的魔法](https://mp.weixin.qq.com/s/3R2q1nXOgyDSyOdLHF9d-Q)
 + [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/QqVGUf-lZDqkGTLtonCzGg)
 + [Java中如何知道一个Bean是不是基础框架的](https://mp.weixin.qq.com/s/Z2gFNA1h9Hn_rAziLb_bDg)
++ [怎么在 Spring 中优雅使用 Function 注入？](https://mp.weixin.qq.com/s/-4CwH_x3nrCUJtT0Yt_t9Q)
 
 #### 原理&源码
 
@@ -2227,7 +2233,7 @@
 + [Spring状态机的实现原理和业务场景](https://mp.weixin.qq.com/s/WKYecP4SV_8MQwWoe1sb3A)
 + [玩转Spring状态机：打造灵活高效的业务逻辑流](https://mp.weixin.qq.com/s/6DvVENFqckdFIQojeN-O8g)
 + [Java中的状态机实现：使用Spring State Machine管理复杂状态流转](https://mp.weixin.qq.com/s/Dz8V8Xx696Hh0q98xQE5zQ)
-+ [项目终于用上了 Spring 状态机，太优雅了！](https://mp.weixin.qq.com/s/8q2hRm-YJlwn9Ndq1F_W0w)
++ [项目终于用上了 Spring 状态机，太优雅了！](https://mp.weixin.qq.com/s/eD1NIjoNVSzbdBSkES89JQ)
 
 ### CACHE
 
@@ -2593,6 +2599,7 @@
 + [SpringBoot启动后自动执行方法的各种方式](https://mp.weixin.qq.com/s/OU8Xb6a5BN5EnTJTJqholQ)
 + [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/UTaMiXMAAjAg7TIf1Sm8mw)
 + [哈罗二面：为什么Spring boot的 jar 可以直接运行？](https://mp.weixin.qq.com/s/VohZ9-lQVdx0YBKt2PFJPA)
++ [7个有效提升 Spring Boot 应用启动速度的技巧](https://mp.weixin.qq.com/s/ZB1lwFYSobv5hF5cCllpXQ)
 
 #### 版本特性
 
@@ -3804,6 +3811,7 @@
 + [新一代ORM框架——Jimmer](https://mp.weixin.qq.com/s/TMCRfHoaX3Yp6QiJX9FTyw)
 + [从 JDK 8 到 JDK 17：Swagger 升级迁移指南](https://mp.weixin.qq.com/s/m_6fcn2lYO5C6QJDKqzy_A)
 + [Java LazyMap的深度利用技巧](https://mp.weixin.qq.com/s/girRITO8HO0qgC5613ewKw)
++ [JavaParser入门：以编程方式分析Java代码](https://mp.weixin.qq.com/s/6R8KVKkSvqstNKdBfq_Cog)
 
 # 其它环境
 

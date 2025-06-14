@@ -70,6 +70,7 @@
 + [竞赛编程教学大纲第十二课：图论算法](https://mp.weixin.qq.com/s/bYdpbaJao3D5v8Wkab3yXQ)
 + [【你问我答】第一期：冒泡排序、对拍和距离判断](https://mp.weixin.qq.com/s/jlxb0G-YGiHudol038H_vA)
 + [数据结构之图](https://mp.weixin.qq.com/s/mg0C8ZkhvCFz_hnrBXT-Yw)
++ [数据结构之图的遍历](https://mp.weixin.qq.com/s/OMeCe4deq1dNF8WMAruLog)
 
 ## Tree
 
@@ -99,6 +100,7 @@
 + [数据结构之B+树](https://mp.weixin.qq.com/s/EKR0HoH7YfRj-btnLPBW1Q)
 + [面试官最爱问的‘红黑树’，它到底凭什么这么横？](https://mp.weixin.qq.com/s/TDb48_IA1qUrJwNGMlyEjw)
 + [数据结构之B+树删除关键字](https://mp.weixin.qq.com/s/OQXoBRvotR7_uGHTKK2ZqQ)
++ [数据结构之图的最小生成树](https://mp.weixin.qq.com/s/odMg3GcgF3awV5ea2ZD4ig)
 
 ## 排序算法
 

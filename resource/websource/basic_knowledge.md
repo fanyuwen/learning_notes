@@ -152,6 +152,7 @@
 + [Linux内核源码目录结构解析——深入理解Linux内核源代码组织方式](https://mp.weixin.qq.com/s/btgh91qYtfP37ngRSYN72g)
 + [掌握Linux 定时任务：提升运维效率不再难](https://mp.weixin.qq.com/s/r3635jae56XZ-mtXMas9Pg)
 + [快速理解Linux磁盘管理：物理卷、逻辑卷与卷组](https://mp.weixin.qq.com/s/CiLwEE7kRVBSlBKSnvrqrA)
++ [【Linux】Linux目录结构快速解析：从根目录到核心组件](https://mp.weixin.qq.com/s/xI9Lf-DPi_6OmxcgFkAl0Q)
 
 ### 网络
 
@@ -329,6 +330,7 @@
 + [内存检测工具KASAN：精准定位内存越界的“幽灵”](https://mp.weixin.qq.com/s/hjWsHZygdsp9S5xCMdBOjQ)
 + [为什么buffer pool read增高会导致CPU变高](https://mp.weixin.qq.com/s/unlbPuBVQv5TJ723aBp2gw)
 + [操作系统之内存管理](https://mp.weixin.qq.com/s/END8A9i6qSCSz5Eat5J7ow)
++ [计算机操作系统 - 内存操作 API](https://mp.weixin.qq.com/s/9JqpBclcAr9kp4ko89B5Sg)
 
 ## GPU
 

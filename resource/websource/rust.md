@@ -94,6 +94,7 @@
 + [httpmock Rust 的 HTTP 模拟库。](https://mp.weixin.qq.com/s/w2t7-g8j2QXBYIVjW9SDLA)
 + [PyO3：一个Rust与Python无缝交互的工具，用Rust打造高性能Python应用](https://mp.weixin.qq.com/s/pT0uvoYLKCHaqGWXHiMBkQ)
 + [Rust编写的跨平台UI框架——Tauri正式发布2.0稳定版，是时候把“毒瘤”Electron换掉了](https://mp.weixin.qq.com/s/K6QdGD7NDmqUHlyOWVhrpA)
++ [Clippy：Rust 官方代码质量增强工具完全指南](https://mp.weixin.qq.com/s/y_YSZKp9sNd2JoKQ-xlTEQ)
 
 # 并发
 

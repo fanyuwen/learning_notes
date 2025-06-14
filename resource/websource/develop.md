@@ -128,6 +128,7 @@
 + [DDD落地实现的深水区（4）整洁架构落地（上）](https://mp.weixin.qq.com/s/m2a35-RONAs1AW57YIG1Cw)
 + [深入浅出 DDD：从理论到落地的关键](https://my.oschina.net/u/4939618/blog/18449959)
 + [DDD领域驱动设计实战：如何用DDD重构一个复杂的电商系统？阿里技术专家的实践分享。](https://mp.weixin.qq.com/s/OH03xojZg78AcUfjTnBHZQ)
++ [你的 DDD 还在纸上谈兵？是时候落地了！](https://mp.weixin.qq.com/s/YYDagnkugBiCQQQ5Rty3XQ)
 
 ## 微服务
 
@@ -648,6 +649,7 @@
 + [10万QPS，如何设计 ‘敏感词’ 风控，还要支持 实时更新的？](https://mp.weixin.qq.com/s/WlSjXgkoQ13SOnPlflJPlQ)
 + [设计心得——事件机制的实现](https://mp.weixin.qq.com/s/rHYA6m-aIqvtztpr7MXvOw)
 + [设计心得——状态机](https://mp.weixin.qq.com/s/TnjhritbHLvQRIpuTaCVFw)
++ [设计心得——编程范式](https://mp.weixin.qq.com/s/YL43EAQWr2tIe-ugFPoYDA)
 + [大文件上传(实战篇A)：HTTP Range也疯狂！](https://mp.weixin.qq.com/s/3Pl56TMHk5KFHrWqheMaPg)
 + [别再双写了！异步+消息队列才是王道！](https://mp.weixin.qq.com/s/ARY2yJKpFErSiX3UJZDcMg)
 

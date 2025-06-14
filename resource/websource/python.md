@@ -81,6 +81,7 @@
 
 + [一篇初学者入门Python函数参数与返回值详细教程](https://mp.weixin.qq.com/s/WNqiCA_xi8lnR6gwQFPtvw)
 + [早知道就好了！关于Python魔法方法的清单](https://mp.weixin.qq.com/s/_simM8yANXfRedwAi0udEQ)
++ [python基础语法-函数](https://mp.weixin.qq.com/s/dNrazI1nOVYFvmTtUBNeDA)
 + [Python编写函数的基本原则和技巧](https://mp.weixin.qq.com/s/0K0inpyT7wgacUo59ZzzwQ)
 + [提升代码迭代速度的Python重载方法](https://mp.weixin.qq.com/s/BU9ikzc77X9Ne-c67H9jow)
 + [40个Python函数，让你快速成为编程大师！](https://mp.weixin.qq.com/s/Kf_ZKbNqjU53xhdqfhk8Pw)
@@ -124,6 +125,7 @@
 + [【Python基础】Python中的generator函数以及yield关键字](https://mp.weixin.qq.com/s/MkeBiHOJwcEXXwC0yJqPxA)
 + [10 个 Python 内置函数，可简化您的代码](https://mp.weixin.qq.com/s/YIqPkBPaJjH2tqUslZFGfg)
 + [Python 函数式编程：优雅与高效的完美结合](https://mp.weixin.qq.com/s/2Eku9P7QPhvzB2RTfYAjGA)
++ [Python常用的内置函数](https://mp.weixin.qq.com/s/_IYwbHAXwYSDdMREiRCmGA)
 
 ### 面向对象
 
@@ -132,6 +134,7 @@
 + [Python进阶最大拦路虎？一文拆解类和对象](https://mp.weixin.qq.com/s/0NlG4btaXYeDwcpdLYvtOQ)
 + [Python中的类多态：方法重写和动态绑定](https://mp.weixin.qq.com/s/Ce4txZm13aFCeYhbnOIBsw)
 + [48面向对象2定义](https://mp.weixin.qq.com/s/3DBnfbJLga5TBHfVFrN-ng)
++ [Python系列教程243——类](https://mp.weixin.qq.com/s/nwfpo2PJ4iIKx-sDzmTTxA)
 + [50面向对象4self绑定方法](https://mp.weixin.qq.com/s/n3KzCz8xBXpKCrekxyCauw)
 + [收藏！一篇Python进阶教程,面向对象编程之特殊方法](https://mp.weixin.qq.com/s/L_mkR3-F0flLFVPK_VYSOQ)
 + [51面向对象5隐藏属性](https://mp.weixin.qq.com/s/_Zknthjjxnsx8Wgu_V5rPg)
@@ -247,7 +250,7 @@
 + [python入门系列十五（asyncio）](https://mp.weixin.qq.com/s/Am1tRhv-bKbqg1EZ2thiyA)
 + [Python 多线程终极指南：从入门到实战，看完这篇就够了！附避坑指南](https://mp.weixin.qq.com/s/mUv2BeExM3jPI1mXKDX0Dg)
 + [深入理解Python协程：async def、async for、await、yield详解](https://mp.weixin.qq.com/s/z9EXzOsPKZv9TWVqU0x4vA)
-+ [Python编程精进：正则表达式](https://mp.weixin.qq.com/s/KjvwRYhDXipXZRORxioHrA)
++ [Python | 进程、线程是什么？它们有何区别，如何运用，进程与线程介绍](https://mp.weixin.qq.com/s/vNnzNkEWEy63C-5JG56C3w)
 
 ## 实践
 
@@ -546,6 +549,10 @@
 + [Python编程精进：内存管理](https://mp.weixin.qq.com/s/sR-FizCiquqPePjYG7y47w)
 + [7种 Python 虚拟环境工具全面对比：新手应该选择哪种](https://mp.weixin.qq.com/s/vwIVKvV3W3LLSZ5jKcJRnQ)
 + [乱用python中的del关键字，可能引发程序“雪崩”，特别是最后一种情况藏得最深](https://mp.weixin.qq.com/s/RZ7HCFHBns98mvb3fmDiIA)
++ [Python 命令行交互开发指南](https://mp.weixin.qq.com/s/Y_wC2B_pEDOtH-HfKpm1XA)
++ [Python编程精进：正则表达式](https://mp.weixin.qq.com/s/KjvwRYhDXipXZRORxioHrA)
++ [python学习10-正则表达式 re](https://mp.weixin.qq.com/s/tRpxhfdVArKybU_cUDdy8w)
++ [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
 
 ## 新特性
 

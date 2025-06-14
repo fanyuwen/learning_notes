@@ -197,6 +197,8 @@
 + [如果你能回答这 7 个 JavaScript 问题，你就是个专家](https://mp.weixin.qq.com/s/NTzwSwUVGK8B8HD2C_1zsA)
 + [为什么高手写 JS 总是又快又好？这10个技巧你要知道](https://mp.weixin.qq.com/s/5aPe7e1HO2I_Oo1q3D3DNA)
 + [async/await 错误处理的陷阱：生产环境踩过的5个坑](https://mp.weixin.qq.com/s/nzLY5M6dp1iGmB7J56U_rg)
++ [7个解构赋值绝妙用法，代码量减少50%](https://mp.weixin.qq.com/s/9s9e4_KWg1pg6zDlzk7wqQ)
++ [如果你能回答这 7 个 JavaScript 问题，你就是个专家](https://mp.weixin.qq.com/s/NTzwSwUVGK8B8HD2C_1zsA)
 
 # 框架
 
@@ -348,6 +350,7 @@
 + [前端处理文件上传时获取纯Base64数据](https://mp.weixin.qq.com/s/ckGbgKefLGYiULgxm6ZvyA)
 + [AST 技巧：压缩变量定义](https://mp.weixin.qq.com/s/5om25nsDLjTdyUwq9qto1Q)
 + [开发命令行工具需要的一些工具库和使用方法介绍](https://mp.weixin.qq.com/s/mZAtxTInoTu_VseiyE6LDw)
++ [超越JSON.parse：JavaScript中高效反序列化的艺术](https://mp.weixin.qq.com/s/anc_tlGkOh4OeVHpgMyFbw)
 
 # 杂谈
 

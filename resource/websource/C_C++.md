@@ -76,10 +76,12 @@
 + [C++11新特性：std::thread多线程](https://mp.weixin.qq.com/s/65yYeQxH_aGhF-IbvPYHqw)
 + [C++11新特性：shared_ptr与weak_ptr（实例测试）](https://mp.weixin.qq.com/s/i6eEgxpkjDlae_JjlMirFA)
 + [C++多线程性能优化实战指南：如何让你的线程飞起来？](https://mp.weixin.qq.com/s/dRXXFatDyjKGRFhcCQJBow)
++ [C++入门学习11——结构体](https://mp.weixin.qq.com/s/mEjd35S1P8xbB7JsXqIvNQ)
 + [C++入门学习09——vector](https://mp.weixin.qq.com/s/bKB8PQOc5p9-8elnZUI91w)
 + [比 tcmalloc 快 43%！mimalloc 高性能背后的 5 大核心技术揭秘](https://mp.weixin.qq.com/s/Js9jjkHdApMxnKxvGS-OQA)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
++ [C++中的typeid操作符和类型信息(type_info)](https://mp.weixin.qq.com/s/93xknWqqgZAQAYheEXk8sw)
 + [C++ 的 clamp 函数](https://mp.weixin.qq.com/s/7ecKVC137dPtcfZ2byHbPg)
 + [全面分析C++内存泄漏：你的程序正在悄悄“失血”](https://mp.weixin.qq.com/s/d9uTm2txnr7ChLjav-Zm_w)
 + [C++11：原子操作与内存顺序：从理论到实践的无锁并发实现](https://mp.weixin.qq.com/s/thnlXKZnKE4foxZ5Vi3NYQ)
@@ -228,6 +230,7 @@
 + [告别编译慢、依赖乱！一文吃透这个C++工具的五大核心功能](https://mp.weixin.qq.com/s/kywPjF9-k9OrznCjvxM98g)
 + [推荐一个 C++ 调试神器](https://mp.weixin.qq.com/s/MG9mSt3kVe3YY1M06ea05A)
 + [别再写“脆皮代码”了！程序员都在用的C++质量提升工具盘点](https://mp.weixin.qq.com/s/RvXbFJjx79jtXlBQZlWJOA)
++ [C++共享内存与虚函数问题](https://mp.weixin.qq.com/s/IhdQBQ2p9T-1wGlwsZVtJQ)
 
 ### 资讯
 

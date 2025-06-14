@@ -72,6 +72,9 @@
 + [Rust安全随机数获取神器：getrandom库](https://mp.weixin.qq.com/s/3ZJt8a3fp9C90iBeyHBouw)
 + [探索Rust元组：有限异构序列的强大力量](https://mp.weixin.qq.com/s/0OjdxtGRpPOTeqBhclbYyA)
 + [深入理解Rust中的Index和IndexMut特质：揭开操作符重载的神秘面纱](https://mp.weixin.qq.com/s/11QAGkTbg0GQ89OebiWNAQ)
++ [Rust 版本管理完全指南](https://mp.weixin.qq.com/s/O9BzoGOe2eZcBVABTlXvvQ)
++ [futures-executor 0.3.31 深入解析：Rust 异步执行器实现](https://mp.weixin.qq.com/s/6xdgAz9yjM22eTn3w6q7qg)
++ [Rust Vec 类型极简教程：动态数组的完全指南](https://mp.weixin.qq.com/s/BVbqA4p-_xhNmqgJXgV1yA)
 
 # 框架
 

@@ -194,6 +194,7 @@
 + [JavaScript 条件判断与循环：少写一个 else，性能提升10%！](https://mp.weixin.qq.com/s/PWZCfpGr2R6DHmoeEfY9rA)
 + [switch 语句的"替代品"，对象映射让条件判断更简洁！](https://mp.weixin.qq.com/s/FLfAbaly0Ud1VrTLLmtL3A)
 + [抛弃立即执行函数 (IIFE)，让 JavaScript 代码更丝滑](https://mp.weixin.qq.com/s/ek-m60M3Wc8kwhtO0KfUGw)
++ [如果你能回答这 7 个 JavaScript 问题，你就是个专家](https://mp.weixin.qq.com/s/NTzwSwUVGK8B8HD2C_1zsA)
 
 # 框架
 
@@ -278,6 +279,10 @@
 + [WebSocket之外，SSE协议为何被大厂悄悄采用？](https://mp.weixin.qq.com/s/LTytJL4MMLHuU892O8CnzQ)
 + [实时通信—舍我其谁—WebSocket 入门](https://mp.weixin.qq.com/s/S-hFYVSTrxWzioUbKUUMjQ)
 + [深入解析WebSocket：实时通信的核心技术](https://mp.weixin.qq.com/s/NACeiX34oGLmyYLtQo4LQQ)
+
+# sse
+
++ [从 WebSocket 到 SSE，实时通信的轻量化趋势](https://mp.weixin.qq.com/s/ALZkwO4gB1IN0SQO3_s3_Q)
 
 # 工具
 

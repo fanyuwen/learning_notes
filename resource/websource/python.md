@@ -11,6 +11,7 @@
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
 + [python入门系列三（基础知识）](https://mp.weixin.qq.com/s/TWG7vyhN-UZq_NHsDWLZJg)
++ [Python变量的定义和使用](https://mp.weixin.qq.com/s/0sxdTSrI-B4ntUMl6gNNqQ)
 + [Python 基础知识](https://mp.weixin.qq.com/s/k1cCvL4HEhuBsbOTOS6w_g)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
@@ -540,6 +541,7 @@
 + [卡卡精心收集的python异常排查指南：3分钟精准定位问题代码，建议收藏！](https://mp.weixin.qq.com/s/TkD8AHuWFncp1BpmVaQKBQ)
 + [python参数传递的终极真相：不是传值，也不是传引用！](https://mp.weixin.qq.com/s/7F7c1jNelOhMeyC5CYaJlw)
 + [Python编程精进：10个破坏代码质量的Bad Code](https://mp.weixin.qq.com/s/ClwtFZQJhZpfqq-RQspsVw)
++ [Python编程精进：内存管理](https://mp.weixin.qq.com/s/sR-FizCiquqPePjYG7y47w)
 
 ## 新特性
 
@@ -791,6 +793,7 @@
 + [放弃SimpleHTTPServer吧！这个新兴python库上传下载更简单](https://mp.weixin.qq.com/s/sGtA5NvwkxvhesFFfs7kCg)
 + [这个python库让日志记录如喝水般容易，简直是懒人神器](https://mp.weixin.qq.com/s/m_9HXnhDuVAA_xcLVivWRw)
 + [Polars 多线程 + 内存映射](https://mp.weixin.qq.com/s/vh5UcKudb7YjQsxj7qxw3A)
++ [python中的tkinter库的几个应用](https://mp.weixin.qq.com/s/r6u-eS8SFLEIuFikM_pLVg)
 
 ### Pandas
 

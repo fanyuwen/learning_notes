@@ -41,6 +41,7 @@
 + [C++ 指针变量详解：内存访问的奥秘](https://mp.weixin.qq.com/s/hIG1uQ8WAMixlekJvi7qCw)
 + [C++ 的严格别名（Strict Aliasing）规则](https://mp.weixin.qq.com/s/cGTCDotBNO3RgwoynH9RlA)
 + [C++入门学习02——认识C++程序](https://mp.weixin.qq.com/s/RtmfmNs9o-Qz4CkIwrprjA)
++ [C++入门学习04——顺序结构程序设计](https://mp.weixin.qq.com/s/j0_cw73ak6wjmMUnb_ouwA)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
 + [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
@@ -72,6 +73,7 @@
 + [C++11新特性：std::thread多线程](https://mp.weixin.qq.com/s/65yYeQxH_aGhF-IbvPYHqw)
 + [C++11新特性：shared_ptr与weak_ptr（实例测试）](https://mp.weixin.qq.com/s/i6eEgxpkjDlae_JjlMirFA)
 + [C++多线程性能优化实战指南：如何让你的线程飞起来？](https://mp.weixin.qq.com/s/dRXXFatDyjKGRFhcCQJBow)
++ [C++入门学习09——vector](https://mp.weixin.qq.com/s/bKB8PQOc5p9-8elnZUI91w)
 + [比 tcmalloc 快 43%！mimalloc 高性能背后的 5 大核心技术揭秘](https://mp.weixin.qq.com/s/Js9jjkHdApMxnKxvGS-OQA)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
@@ -222,6 +224,7 @@
 + [C++信奥之径，锻炼思维，扎实算法——贪心算法（2）](https://mp.weixin.qq.com/s/TwDWRAp9g8k_gmU2gtYTQA)
 + [告别编译慢、依赖乱！一文吃透这个C++工具的五大核心功能](https://mp.weixin.qq.com/s/kywPjF9-k9OrznCjvxM98g)
 + [推荐一个 C++ 调试神器](https://mp.weixin.qq.com/s/MG9mSt3kVe3YY1M06ea05A)
++ [别再写“脆皮代码”了！程序员都在用的C++质量提升工具盘点](https://mp.weixin.qq.com/s/RvXbFJjx79jtXlBQZlWJOA)
 
 ### 资讯
 

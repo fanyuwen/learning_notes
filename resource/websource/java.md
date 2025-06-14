@@ -139,6 +139,7 @@
 + [如何在Java程序中使用泛型](https://mp.weixin.qq.com/s/5-ujM0KFcDzNLGSgvR_QqA)
 + [Java 如何获取泛型的真实类型](https://mp.weixin.qq.com/s/xJSROLcKjMHrcJcnKl1iEw)
 + [来了解下Java的泛型与类型擦除](https://mp.weixin.qq.com/s/dzFMCITHQ4pToKyRkXcQ_A)
++ [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
 
 ### 面向对象
 
@@ -454,6 +455,7 @@
 + [说一说Java当中的常用性能优化技巧](https://mp.weixin.qq.com/s/Da-eBJ6LfqsP_AizXkmuRg)
 + [9个很实用的Java开发技巧：包含代码和详解](https://mp.weixin.qq.com/s/TzO2dKWWIFrXVqh2nC64Fg)
 + [提升Java代码可靠性：5个异常处理最佳实践](https://mp.weixin.qq.com/s/6Ggg2bCqPFRSfftiJPY7FQ)
++ [精选Java代码片段：覆盖10个常见编程场景的更优写法](https://mp.weixin.qq.com/s/qM2CfoNxr9TmmPcCO_A41w)
 
 # 底层
 
@@ -546,6 +548,7 @@
 + [Java Lambda 表达式的缺点和替代方案](https://mp.weixin.qq.com/s/00dVhbnfXE8T3_rpflMyxQ)
 + [万字讲解Java时区](https://mp.weixin.qq.com/s/ZvDLfRxSFVqwIKLdzGKKbA)
 + [Stream 就像水管工，Function 就像工具人，Optional 是 AI 室友](https://mp.weixin.qq.com/s/ma-eV3AYwJfqcJcY0l8JWg)
++ [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/nM1Xxsg8iuwJFsOfqhvupw)
 
 ### 序列化
 
@@ -598,6 +601,7 @@
 + [Java 反射机制到底是啥？小白入门指南+ 安全性分析](https://mp.weixin.qq.com/s/KXNseug9ZG-xw-GakVXgFw)
 + [FastJSON 反序列化到底干了啥？一文看懂它是如何利用反射机制的！](https://mp.weixin.qq.com/s/WUuo4piNMqujNpAUFqWElg)
 + [Java反射的20个使用经验](https://mp.weixin.qq.com/s/S-iUV55dyDgmmv2Tk5NVRQ)
++ [Java 中的方法句柄与变量句柄：高性能反射的现代替代方案](https://mp.weixin.qq.com/s/ot5EEMcE7Th5l3IzDhGWqQ)
 
 ### 并发/多线程
 
@@ -906,6 +910,8 @@
 + [JVM的通关指南（一）原来这就是JVM](https://mp.weixin.qq.com/s/SGyZiy5P0TBc_qxhzlokvA)
 + [为Java虚拟机分配堆内存大于机器物理内存会怎么样？](https://mp.weixin.qq.com/s/YUeXhUcA01U7Wjtxo-ZggQ)
 + [JVM的通关指南（二）JVM运行时数据区的深入解析](https://mp.weixin.qq.com/s/TVbeBGLTHPQ82ApQ0knirw)
++ [JVM的通关指南（七）快速了解JVM的直接内存及常见问题与解决方案](https://mp.weixin.qq.com/s/zx88geE3kYksr_bdTxtWmg)
++ [万字长文总结：揭秘JVM核心内存结构](https://mp.weixin.qq.com/s/hRKRvdZNpYbrOXRyhF2JYw)
 
 ### 命令
 
@@ -1385,6 +1391,7 @@
 + [java并发之Semaphore](https://mp.weixin.qq.com/s/YMpw61UM7A7j7umOYRnb6w)
 + [阻塞队列之DelayQueue](https://mp.weixin.qq.com/s/pNOxg0mNQIVdqJm2tlDOMg)
 + [面试练习 | Java中的CyclicBarrier与CountDownLatch有何区别及适用场景？](https://mp.weixin.qq.com/s/mRkTRUNPf-Ue_Z7fjC9NLw)
++ [面试练习 | Java并发中的CopyOnWriteArrayList和其适用场景](https://mp.weixin.qq.com/s/950hoNdWxOs1R9CXkqh6CQ)
 
 ## IO/NIO
 
@@ -2389,6 +2396,7 @@
 + [Spring Cloud Gateway 统一分布式系统认证架构实践](https://mp.weixin.qq.com/s/PVoD9AsKSalxWbGhzRDTyw)
 + [微服务网关升级：Spring Cloud Gateway 整合 Nacos 实现服务请求自动转发+负载均衡！](https://mp.weixin.qq.com/s/z3XQFysrSlVF-OBtviuAEQ)
 + [高并发场景下，Spring Cloud Gateway如何抗住百万并发？](https://mp.weixin.qq.com/s/CEB-Cb2bQojR1DPmXq7GVQ)
++ [Spring Cloud Gateway：新一代API网关，为什么它能取代Zuul？性能与功能全方位对比](https://mp.weixin.qq.com/s/VAGphi6M_5msXxwXw2qx6A)
 
 #### AI
 
@@ -2572,6 +2580,8 @@
 + [SpringBoot数据转换的4种对象映射方案](https://mp.weixin.qq.com/s/9aSWOe_VgY1dWXafFXVFgg)
 + [Springboot项目中，读取 resources 目录下的文件的9种方式](https://mp.weixin.qq.com/s/1jwXPPLL1u3XgJ2H6FAplA)
 + [SpringBoot启动后自动执行方法的各种方式](https://mp.weixin.qq.com/s/OU8Xb6a5BN5EnTJTJqholQ)
++ [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/UTaMiXMAAjAg7TIf1Sm8mw)
++ [哈罗二面：为什么Spring boot的 jar 可以直接运行？](https://mp.weixin.qq.com/s/VohZ9-lQVdx0YBKt2PFJPA)
 
 #### 版本特性
 
@@ -3032,6 +3042,9 @@
 + [Springboot集成cxf编写webservice接口（服务端）](https://mp.weixin.qq.com/s/3vEaAxFL0U2EXmHOfl1Ysw)
 + [新的路径模式匹配：PathPattern](https://mp.weixin.qq.com/s/8CSNQBpYQMrkeCVkgW0rNw)
 + [SpringBoot中4种控制器返回值处理技巧](https://mp.weixin.qq.com/s/Z8G_HeNbVnYCf0rfnH6_nw)
++ [面试官：说说你们SpringBoot项目是如何优雅停机的？](https://mp.weixin.qq.com/s/hn0Y0p51hsSEulnGpTk_NQ)
++ [Spring Boot + Multipart 文件上传：为什么你的应用在 10MB 后会失败](https://mp.weixin.qq.com/s/LQV2K-x9w8o5Ka32MDvz2w)
++ [SpringBoot的5种请求映射优化方式](https://mp.weixin.qq.com/s/9BstwSahbdZ40xPlvo2zYw)
 
 ##### VUE
 
@@ -3357,6 +3370,7 @@
 + [Spring Boot 中的代理模式](https://mp.weixin.qq.com/s/HyIa1Wck8NI-iVHtLOPIpA)
 + [SpringBoot中13种设计模式应用案例](https://mp.weixin.qq.com/s/QtulNezYiNviC1pYXOaVzw)
 + [SpringBoot + 策略模式，大大加强系统接口扩展能力](https://mp.weixin.qq.com/s/rxHdJs7TwYIfX-nmPj0PSA)
++ [快用 Spring Boot + 策略模式给你的代码“整容”，同事看完都惊呆了！](https://mp.weixin.qq.com/s/qqC0mCaDG5GHWf3JaYayTw)
 
 #### message
 
@@ -3557,6 +3571,7 @@
 + [SpringBoot 快速实现 IP 地址解析](https://mp.weixin.qq.com/s/7klvtGHMxho3M7mBBb74uw)
 + [SpringBoot 集成 RocketMQ：异步消息队列实战，让系统飞起来！](https://mp.weixin.qq.com/s/oGin8pw8Nd2P-uwYtAVyVw)
 + [SpringBoot 与 ZXing 完美结合](https://mp.weixin.qq.com/s/Xu4Sc8xSeveEE86in0trEw)
++ [DuckDB + Spring Boot + MyBatis 构建高性能本地数据分析引擎](https://mp.weixin.qq.com/s/KqTwcZC7jhATNh3uln-Ypw)
 
 #### test
 
@@ -3804,6 +3819,7 @@
 + [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)
 + [为什么高级 Java 开发工程师喜爱用策略模式](https://mp.weixin.qq.com/s/KgQ9qfLbqHnK8XNMK_c1Yg)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
++ [学 Java 还是 Go，这事儿很简单！](https://mp.weixin.qq.com/s/14wMaDtOWKkZ_T5cQFSmEA)
 + [用 Java 构建个简版 Either + Optional DSL 框架：让错误处理优雅而函数式](https://mp.weixin.qq.com/s/CqjghYmlK1KdHPm57YSang)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)

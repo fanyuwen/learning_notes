@@ -8,6 +8,7 @@
 
 + [Go 1.23新特性前瞻](https://mp.weixin.qq.com/s/rODxrjFS4lRbnIMcV2j2sg)
 + [Go 1.23 新特性解读：unique 包及其应用](https://mp.weixin.qq.com/s/oh6ZWbUEXrEsZgtv1xKw6Q)
++ [Go1.25 新特性：引入 DWARF5，链接器更快，二进制文件更小了！](https://mp.weixin.qq.com/s/3ggj1yUhybtEnaID-tPARA)
 + [Go 1.9 相比 Go 1.8 有哪些值得注意的改动？](https://mp.weixin.qq.com/s/RkUNsmUJQ4hBpqdsWtbNow)
 
 # 话题

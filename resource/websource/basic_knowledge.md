@@ -14,6 +14,8 @@
 + [位、字节、半字、字：内存世界的基石](https://mp.weixin.qq.com/s/iKO9HrMkAjYtjkzyB1bQxQ)
 + [操作系统之进程与线程](https://mp.weixin.qq.com/s/4s1duECCmTsG8fPhJ9cX3w)
 + [计算机操作系统 - 进程调度策略](https://mp.weixin.qq.com/s/s8nZIG5DRafiNb9gznbWWg)
++ [计算机操作系统 - 地址转换机制](https://mp.weixin.qq.com/s/XVwUYvfomT0Perzo4V1OVA)
++ [计算机操作系统 - 地址空间演化](https://mp.weixin.qq.com/s/Rej_fsEGDjvxu88O0Ju5pA)
 
 ## 文件系统
 
@@ -149,6 +151,7 @@
 + [Linux 进程实现原理：从创建到终止的全过程](https://mp.weixin.qq.com/s/6bkrdkckDsvX-3ifWWJp-w)
 + [Linux内核源码目录结构解析——深入理解Linux内核源代码组织方式](https://mp.weixin.qq.com/s/btgh91qYtfP37ngRSYN72g)
 + [掌握Linux 定时任务：提升运维效率不再难](https://mp.weixin.qq.com/s/r3635jae56XZ-mtXMas9Pg)
++ [快速理解Linux磁盘管理：物理卷、逻辑卷与卷组](https://mp.weixin.qq.com/s/CiLwEE7kRVBSlBKSnvrqrA)
 
 ### 网络
 

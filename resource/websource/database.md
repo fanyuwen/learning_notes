@@ -847,6 +847,7 @@
 + [Redis集群碎碎念：参数配置](https://mp.weixin.qq.com/s/dLiLvXIaFn5CvOd-rG_jSQ)
 + [Redis上篇--知识点总结](https://mp.weixin.qq.com/s/aQUfCQ6OEEdF27V285A2LA)
 + [大数据量下Redis分片的5种策略](https://mp.weixin.qq.com/s/i6IdPUV_xiXF5ifkpAk3kg)
++ [零基础玩转Redis：缓存设计+高并发实战，DBA必备新技能！](https://mp.weixin.qq.com/s/orPcZbDykPXNVxlMfY1sLw)
 
 #### 原理
 

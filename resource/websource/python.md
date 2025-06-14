@@ -13,6 +13,7 @@
 + [python入门系列三（基础知识）](https://mp.weixin.qq.com/s/TWG7vyhN-UZq_NHsDWLZJg)
 + [Python变量的定义和使用](https://mp.weixin.qq.com/s/0sxdTSrI-B4ntUMl6gNNqQ)
 + [Python 基础知识](https://mp.weixin.qq.com/s/k1cCvL4HEhuBsbOTOS6w_g)
++ [Python零基础从入门到精通详细教程3-数据类型](https://mp.weixin.qq.com/s/cUWDAW9Ow-z5xh9bWIlUWg)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
 + [Python基础：Python的运算符与表达式](https://mp.weixin.qq.com/s/4bIebG-KDVV37BGn0iD94g)
@@ -225,6 +226,7 @@
 + [Python常用系统自带库之json解析](https://mp.weixin.qq.com/s/4_Ya344DKPMk3QrjzOMeaQ)
 + [python基础语法-模块](https://mp.weixin.qq.com/s/pJO7tj7Gszdhg05SN4HigA)
 + [python学习9-常用类包](https://mp.weixin.qq.com/s/2zhptXXAP6iHzx90ud_Y2Q)
++ [python学习-列表及元组](https://mp.weixin.qq.com/s/4-TUPF4bBmqZJjUHVWMm4A)
 
 ### 异步/多线程
 
@@ -542,6 +544,8 @@
 + [python参数传递的终极真相：不是传值，也不是传引用！](https://mp.weixin.qq.com/s/7F7c1jNelOhMeyC5CYaJlw)
 + [Python编程精进：10个破坏代码质量的Bad Code](https://mp.weixin.qq.com/s/ClwtFZQJhZpfqq-RQspsVw)
 + [Python编程精进：内存管理](https://mp.weixin.qq.com/s/sR-FizCiquqPePjYG7y47w)
++ [7种 Python 虚拟环境工具全面对比：新手应该选择哪种](https://mp.weixin.qq.com/s/vwIVKvV3W3LLSZ5jKcJRnQ)
++ [乱用python中的del关键字，可能引发程序“雪崩”，特别是最后一种情况藏得最深](https://mp.weixin.qq.com/s/RZ7HCFHBns98mvb3fmDiIA)
 
 ## 新特性
 

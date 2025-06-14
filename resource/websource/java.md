@@ -308,6 +308,7 @@
 + [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
 + [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
 + [Java真的不难（五十九）享元模式的深入浅出及在商品分类共享中的应用](https://mp.weixin.qq.com/s/uZ-fxeVuZu6WDGK_M5Hgkw)
++ [Java真的不难（六十六）命令模式的深入分析及在订单处理业务中的设计](https://mp.weixin.qq.com/s/J_HH1ZiTSjnHLnYKl9-SSQ)
 + [Java真的不难（七十四）观察者模式看这一篇就够了（附源码）](https://mp.weixin.qq.com/s/IT-4l7bK3ssd-1-SDGqxHg)
 + [Java真的不难（六十八）状态模式的深入分析及在订单状态管理系统中的应用（附源码）](https://mp.weixin.qq.com/s/Cp60ecPLUDILa7gTJlxL4A)
 + [Java真的不难（七十一）解释器模式的深入分析及权限规则检查业务案例](https://mp.weixin.qq.com/s/QytyAaafk5Fwo5jbJVRwsQ)
@@ -346,7 +347,6 @@
 + [Java社招面试题：Map的Key你真的了解吗？](https://mp.weixin.qq.com/s/tGLCDuXDsH9xDTPFB2JFtQ)
 + [Java字符串格式化！瞧瞧别人家，那叫一个优雅](https://mp.weixin.qq.com/s/Ak6G_4B7KPqMRQSxLTxhcw)
 + [大数组元素差异比较下的 removeAll 和 Map 效率对比](https://mp.weixin.qq.com/s/dUH8H_evvtXC_wDAW5wajQ)
-+ [利用 CAS 优化高频秒杀场景的库存扣减](https://mp.weixin.qq.com/s/Bh0L4f4CwtTz6ny3jHbcGg)
 + [瞧瞧别人家的判空，那叫一个优雅！](https://mp.weixin.qq.com/s/l4hSfWNF_MTl5hdBY8USfg)
 + [Arrays工具类教你优雅地管理数组数据](https://mp.weixin.qq.com/s/01x2Fb68bfVgM72Dt09mpg)
 + [MapUtils工具类](https://mp.weixin.qq.com/s/BEeRBbrnqVdmSna0iALvEw)
@@ -528,7 +528,6 @@
 + [Java 类是如何加载的？](https://my.oschina.net/lenve/blog/16664992)
 + [Java中的AOP（面向切面编程）](https://mp.weixin.qq.com/s/QlF-1_gO2NkFNIw2WDb8Gg)
 + [AOP编程在项目开发中的应用](https://mp.weixin.qq.com/s/gNPzAAMYvWJPpqtCSZgAWQ)
-+ [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
 + [JDK内置的HttpRequest有坑，请绕道！](https://mp.weixin.qq.com/s/XyaOcXoUIKVYbyedKsVEcw)
 + [Java 为什么会有clone方法](https://mp.weixin.qq.com/s/QvjuRgRGXtE48P5PYkJodg)
 + [Java面试必考：finalize()方法到底什么时候被调用？揭秘垃圾回收背后的秘密！](https://mp.weixin.qq.com/s/RZ_kHa8ic3dIRZ-tle1z-w)
@@ -660,7 +659,6 @@
 + [【多线程与高并发】为什么用 final 修饰的变量就是线程安全的了呢？](https://mp.weixin.qq.com/s/XPCYfC-6BJlcGfW8cpJg-w)
 + [JAVA进阶篇 -- 线程](https://mp.weixin.qq.com/s/D1OjH-XuPY4KJpSXmOGiPA)
 + [Java虚拟线程探究与性能解析](https://mp.weixin.qq.com/s/G1-qLXqHva193LBJ6pSbgg)
-+ [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
 + [多线程如何共享数据？](https://mp.weixin.qq.com/s/fw2aOExln8H0mUZfXRCwSw)
 + [面试官：为什么 wait, notify和 notifyAll是 Object 类的一部分，而不是 Thread 类的？](https://mp.weixin.qq.com/s/F8r32oB8j2qrd_QX0_EjeA)
 + [Java并发编程：使用Wait和Notify方法的注意事项](https://mp.weixin.qq.com/s/ENshChqFuiibMht6QNG7ZA)
@@ -670,13 +668,11 @@
 + [震惊！ConcurrentHashMap里面也有死循环，作者留下的“彩蛋”了解一下？](https://mp.weixin.qq.com/s/5T3kIyvcoosIIvlWtAGHKw)
 + [喜提JDK的BUG一枚！多线程的情况下请谨慎使用这个类的stream遍历。](https://mp.weixin.qq.com/s/RtjzGRqpgV44yHjxtoNWuA)
 + [主线程捕获子线程异常](https://mp.weixin.qq.com/s/iHWoNPd7cph4VnM__umUCA)
-+ [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
 + [原来，这才是JDK推荐的线程关闭方式](https://mp.weixin.qq.com/s/5T49yTy_BEkhXS26RCjbxg)
 + [面试官：单核 CPU 支持 Java 多线程吗？为什么？被问懵了！](https://mp.weixin.qq.com/s/BwMqY1yDzo8kZW7nBxtH0A)
 + [Java并发编程：本质上只有一种创建线程的方法](https://mp.weixin.qq.com/s/fqgOjrtcXb0PiaEZtVrGZg)
 + [实现线程安全的11种方法](https://mp.weixin.qq.com/s/yErCS16bdw9EZoOto4cArg)
 + [Java社招面试中的高频考点：Callable、Future与FutureTask详解](https://mp.weixin.qq.com/s/binx0xPtU9HWVBRc9yxD4g)
-+ [如何利用 CAS 优化高频秒杀场景的库存扣减？](https://mp.weixin.qq.com/s/-zPh1WFdXzaUvAIR7dGgTw)
 + [Java面试必考！揭秘as-if-serial与happens-before的关键区别](https://mp.weixin.qq.com/s/Le5vONa9WyIdmMG6iCNxxA)
 + [面试官问我：线程同步的几种方式？我画一张结构图甩他脸上！](https://mp.weixin.qq.com/s/s9yK9mNqFzynR9Vec5vIeA)
 + [Java线程问题解析：如何保证线程B及时看到线程A的修改？](https://mp.weixin.qq.com/s/8zlO17_1WItnzu_EBDVgNQ)
@@ -687,7 +683,6 @@
 + [Java 多线程编程：线程创建与线程安全详解](https://mp.weixin.qq.com/s/x6enpOfN2PsaejvI-FC8gA)
 + [为什么不建议CompletableFuture使用默认的ForkJoinPool](https://mp.weixin.qq.com/s/RXufCOAagCGlv_yhxfKe4Q)
 + [高并发下的计数器，为什么阿里不推荐使用 AtomicLong？](https://mp.weixin.qq.com/s/m1qukHuuSueUt298aOc4fg)
-+ [Offer 收割机：用故事讲透 Java CAS，让面试官刮目相看！](https://mp.weixin.qq.com/s/MoNGlxL0Z-3jNX2lWW5sHA)
 + [面试官：如何解决多线程环境下“指针碰撞”带来的并发问题](https://mp.weixin.qq.com/s/3QXwh6X-yqc6Ly2XpgluVw)
 + [单线程池，采用任务调度执行，居然执行了多个线程，踩了个大坑](https://mp.weixin.qq.com/s/9EeKxz53LUn1ETBQL-OXkA)
 + [线程和同步性能](https://mp.weixin.qq.com/s/debOmNsXmUDUmCf9J-C0qA)
@@ -698,7 +693,6 @@
 + [Java线程两次调用start()必死？高薪面试必考的底层原理与避坑指南](https://mp.weixin.qq.com/s/vY36eDDf0PFjsAC91sgQMw)
 + [天猫2面： Wait 和 Sleep 有什么区别？](https://mp.weixin.qq.com/s/-UIWsiNd6Tsmkc_b3liT8w)
 + [一文带你了解Java并发编程](https://mp.weixin.qq.com/s/DgTq6vN9mmPZXg3DNgyp6g)
-+ [Java并发编程中的锁（二）JUC包详解之CAS](https://mp.weixin.qq.com/s/mUfZ7B2DmjAxGskn9gOr2A)
 + [Java并发开发的几个工具类，助你在并发开发控制上面游刃有余](https://mp.weixin.qq.com/s/tyO1zzkx3Yxh4omvc6vQ3w)
 + [虚拟线程 / 有栈协程对于 Java 的意义](https://my.oschina.net/u/4662964/blog/18099438)
 + [Java 面试高频冷门题：ThreadGroup 是什么？还能用吗？](https://mp.weixin.qq.com/s/wjpiFdVAq2JgJ05wKibt7g)
@@ -723,6 +717,17 @@
 + [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
 + [线程的单例模式](https://mp.weixin.qq.com/s/ytguHag3e80JAo0PYMj6UA)
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
+
+#### CAS
+
++ [什么是CAS？](https://mp.weixin.qq.com/s/qg5z3zXGV5_x-pe2-xGpkg)
++ [面试官：说说CAS存在的问题](https://mp.weixin.qq.com/s/mgnODb4O6N20yEfGz1hO9w)
++ [Java CAS 操作的 ABA 问题](https://my.oschina.net/OutOfMemory/blog/792289)
++ [利用 CAS 优化高频秒杀场景的库存扣减](https://mp.weixin.qq.com/s/Bh0L4f4CwtTz6ny3jHbcGg)
++ [如何利用 CAS 优化高频秒杀场景的库存扣减？](https://mp.weixin.qq.com/s/-zPh1WFdXzaUvAIR7dGgTw)
++ [Offer 收割机：用故事讲透 Java CAS，让面试官刮目相看！](https://mp.weixin.qq.com/s/MoNGlxL0Z-3jNX2lWW5sHA)
++ [Java并发编程中的锁（二）JUC包详解之CAS](https://mp.weixin.qq.com/s/mUfZ7B2DmjAxGskn9gOr2A)
++ [深入理解 CAS 自旋锁机制：并发编程的“无锁”奥秘！](https://mp.weixin.qq.com/s/JhKdi_DgwiWyR2xBX7sxUA)
 
 #### 线程池
 
@@ -1100,6 +1105,7 @@
 + [你知道 Java Stream 写法吗？演示10种场景使用案例（代码干货）](https://mp.weixin.qq.com/s/U6shX4hwrYsZ8vi1s5HjsQ)
 + [Stream 是 Java 的 LINQ 吗？你可能想错了](https://mp.weixin.qq.com/s/SGYFOutAMZEUI2D-RdQLRA)
 + [Stream 并不只是 map 和 filter，背后还有这些你不知道的坑！](https://mp.weixin.qq.com/s/DPXPwg3KdFDKWItNc56ZIg)
++ [别再 for 循环遍历了！Stream 流式处理才是现代 Java 的打开方式](https://mp.weixin.qq.com/s/yWPq4sn_t70E8VnVXM_Rfg)
 
 ### Date/time
 
@@ -1109,6 +1115,7 @@
 + [Java中的时间戳【详解】](https://mp.weixin.qq.com/s/iDriMryXysIw4MKKFSNDqA)
 + [为什么不再推荐使用 Date 类？](https://mp.weixin.qq.com/s/bVwLWD6IUMGYtgG3yenHwQ)
 + [Java日期格式化大坑：SimpleDateFormat为何会让你的日期"穿越"？](https://mp.weixin.qq.com/s/39v7hAlKGaBYZT5nCPnXUQ)
++ [解锁 Java 日期时间转换的正确姿势](https://mp.weixin.qq.com/s/Xo_qTB46gCLf12bpINNydA)
 
 ### Collection/Map
 
@@ -1170,6 +1177,7 @@
 + [Java Optional：优雅处理空值的艺术](https://mp.weixin.qq.com/s/SXB6E4crz8WKsr3Q859uAg)
 + [关于 Optional 的一些高级用法！](https://mp.weixin.qq.com/s/je0egmyuspAyXHIEjK7fyg)
 + [写死 if-else 的你，见过 Optional 的优雅吗？](https://mp.weixin.qq.com/s/iWXvYBHncIO6I9V2B81RLA)
++ [Optional 的高级用法：从避坑到优雅编程](https://mp.weixin.qq.com/s/CuAUseLgulpvH_qxzgQ1BQ)
 
 ### Comparator
 
@@ -1412,6 +1420,7 @@
 + [深入剖析 InputStream：源码解读、JDK 更新与应用实例](https://mp.weixin.qq.com/s/vgw1kDmZsPH5M2AjKvAgBA)
 + [NIO非阻塞网络编程的三大核心组件](https://mp.weixin.qq.com/s/9ZnMRoAI1AZiK9bAf-X38Q)
 + [视频分片点播（1）：RandomAccessFile](https://mp.weixin.qq.com/s/GAC4GkJS0Cgv9fZAyBICsA)
++ [路径注入（Path Injection）漏洞详解](https://mp.weixin.qq.com/s/G7Wn9NmgQes_UmR4MUS_HQ)
 
 ## JAVAX
 
@@ -2192,6 +2201,7 @@
 + [Java社招面试题：说一下 Spring 的事务隔离？我这次靠这个问题反客为主！](https://mp.weixin.qq.com/s/VzXDAwTsCF63OQy03Zqy6w)
 + [从一个点来详细说说事务失效的场景及解决办法](https://mp.weixin.qq.com/s/BeptpIXsQg7851ltJX13pA)
 + [Spring @Transactional 详解：何时使用、为什么使用、如何使用](https://mp.weixin.qq.com/s/pbJllQXG9yN5liiJ6Ywbsw)
++ [@Transactional 的隔离级别：四大隔离机制让事务更安全！](https://mp.weixin.qq.com/s/vcBwXkcO53ht_-lApRRGWw)
 
 ### Log
 
@@ -2277,6 +2287,7 @@
 + [没有Spring AOP的话，Java代码很难保持简洁](https://mp.weixin.qq.com/s/rM40DZ8esKaoLjdl2mJQcw)
 + [Spring AOP中的类型获取方法对比](https://mp.weixin.qq.com/s/-heJKGH-jjl7hlS4YvPxbA)
 + [Spring分析-AOP](https://mp.weixin.qq.com/s/piD1y8PZJWlNXNoGO3xG3w)
++ [为什么我说：没有 AOP，就不可能写出整洁的 Java 代码（不服来辩）？](https://mp.weixin.qq.com/s/oiT9Js-ocQONTYqAdEx3zQ)
 
 ### 配置打包部署
 
@@ -3045,6 +3056,7 @@
 + [面试官：说说你们SpringBoot项目是如何优雅停机的？](https://mp.weixin.qq.com/s/hn0Y0p51hsSEulnGpTk_NQ)
 + [Spring Boot + Multipart 文件上传：为什么你的应用在 10MB 后会失败](https://mp.weixin.qq.com/s/LQV2K-x9w8o5Ka32MDvz2w)
 + [SpringBoot的5种请求映射优化方式](https://mp.weixin.qq.com/s/9BstwSahbdZ40xPlvo2zYw)
++ [面试官再问“Spring Boot怎么传G级大文件”，直接把这篇分块实现甩他脸上，让他闭嘴惊艳！](https://mp.weixin.qq.com/s/5wjVDUHculVoXiq1XsmWrQ)
 
 ##### VUE
 
@@ -3824,6 +3836,7 @@
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)
++ [Java后端优化：对象池模式解决高频ObjectMapper实例化问题及性能影响](https://mp.weixin.qq.com/s/vXXnsAlvAm1Z5fT48u4SfA)
 + [int 数值溢出](https://mp.weixin.qq.com/s/DnlmVKKYK6DJFri8heNQsg)
 + [Java项目慢SQL优化实战：从索引优化到SQL改写，性能提升10倍不是梦！](https://mp.weixin.qq.com/s/w8COkn1Pg97o7jb1spesnw)
 + [Java 安全 | Click1 链分析](https://mp.weixin.qq.com/s/81mRzCf8PbYh7pTu7iQRhg)

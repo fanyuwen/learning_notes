@@ -75,6 +75,10 @@
 + [Rust 版本管理完全指南](https://mp.weixin.qq.com/s/O9BzoGOe2eZcBVABTlXvvQ)
 + [futures-executor 0.3.31 深入解析：Rust 异步执行器实现](https://mp.weixin.qq.com/s/6xdgAz9yjM22eTn3w6q7qg)
 + [Rust Vec 类型极简教程：动态数组的完全指南](https://mp.weixin.qq.com/s/BVbqA4p-_xhNmqgJXgV1yA)
++ [Rust 性能基准测试 (Benchmarking) 完全指南](https://mp.weixin.qq.com/s/fB-m3IHJwRSyx2NUNCyY2A)
++ [Rust中的任务系统：理解std::task模块](https://mp.weixin.qq.com/s/wGJ-xQ3xk_RKxE3CLGeYEw)
++ [cc crate 1.2.26: Rust 中的 C/C++ 构建工具](https://mp.weixin.qq.com/s/z2q63PyntyJVAaa6BV8F4Q)
++ [Rust 迭代器增强库：itertools 完全指南](https://mp.weixin.qq.com/s/2l9bVmgLCYPCcCDLMuMopA)
 
 # 框架
 

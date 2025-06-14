@@ -195,6 +195,8 @@
 + [switch 语句的"替代品"，对象映射让条件判断更简洁！](https://mp.weixin.qq.com/s/FLfAbaly0Ud1VrTLLmtL3A)
 + [抛弃立即执行函数 (IIFE)，让 JavaScript 代码更丝滑](https://mp.weixin.qq.com/s/ek-m60M3Wc8kwhtO0KfUGw)
 + [如果你能回答这 7 个 JavaScript 问题，你就是个专家](https://mp.weixin.qq.com/s/NTzwSwUVGK8B8HD2C_1zsA)
++ [为什么高手写 JS 总是又快又好？这10个技巧你要知道](https://mp.weixin.qq.com/s/5aPe7e1HO2I_Oo1q3D3DNA)
++ [async/await 错误处理的陷阱：生产环境踩过的5个坑](https://mp.weixin.qq.com/s/nzLY5M6dp1iGmB7J56U_rg)
 
 # 框架
 

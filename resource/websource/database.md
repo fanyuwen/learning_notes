@@ -846,6 +846,7 @@
 + [Redis中的事务处理](https://mp.weixin.qq.com/s/EPMZyHIf6nkYX83P8dQ0FQ)
 + [Redis集群碎碎念：参数配置](https://mp.weixin.qq.com/s/dLiLvXIaFn5CvOd-rG_jSQ)
 + [Redis上篇--知识点总结](https://mp.weixin.qq.com/s/aQUfCQ6OEEdF27V285A2LA)
++ [大数据量下Redis分片的5种策略](https://mp.weixin.qq.com/s/i6IdPUV_xiXF5ifkpAk3kg)
 
 #### 原理
 

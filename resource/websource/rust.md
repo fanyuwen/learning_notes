@@ -69,6 +69,9 @@
 + [Rust中的字符串处理：深入理解std::string模块](https://mp.weixin.qq.com/s/2-IIBbvC7FH05z4WQKHwQQ)
 + [Rust 动态库加载指南：深入探索 libloading 库](https://mp.weixin.qq.com/s/yi7BaUrBXV8MfYhiq1YAFA)
 + [深入解析 Rust 的语法分析库 Syn](https://mp.weixin.qq.com/s/pqWXGnGsNfDpu67MEUH9fw)
++ [Rust安全随机数获取神器：getrandom库](https://mp.weixin.qq.com/s/3ZJt8a3fp9C90iBeyHBouw)
++ [探索Rust元组：有限异构序列的强大力量](https://mp.weixin.qq.com/s/0OjdxtGRpPOTeqBhclbYyA)
++ [深入理解Rust中的Index和IndexMut特质：揭开操作符重载的神秘面纱](https://mp.weixin.qq.com/s/11QAGkTbg0GQ89OebiWNAQ)
 
 # 框架
 

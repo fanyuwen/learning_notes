@@ -244,6 +244,7 @@
 + [python入门系列十五（asyncio）](https://mp.weixin.qq.com/s/Am1tRhv-bKbqg1EZ2thiyA)
 + [Python 多线程终极指南：从入门到实战，看完这篇就够了！附避坑指南](https://mp.weixin.qq.com/s/mUv2BeExM3jPI1mXKDX0Dg)
 + [深入理解Python协程：async def、async for、await、yield详解](https://mp.weixin.qq.com/s/z9EXzOsPKZv9TWVqU0x4vA)
++ [Python编程精进：正则表达式](https://mp.weixin.qq.com/s/KjvwRYhDXipXZRORxioHrA)
 
 ## 实践
 
@@ -538,6 +539,7 @@
 + [为什么python高手都爱用闭包？这个实时函数技巧绝了](https://mp.weixin.qq.com/s/WgCtkb36bB0y7d0HMPJuKA)
 + [卡卡精心收集的python异常排查指南：3分钟精准定位问题代码，建议收藏！](https://mp.weixin.qq.com/s/TkD8AHuWFncp1BpmVaQKBQ)
 + [python参数传递的终极真相：不是传值，也不是传引用！](https://mp.weixin.qq.com/s/7F7c1jNelOhMeyC5CYaJlw)
++ [Python编程精进：10个破坏代码质量的Bad Code](https://mp.weixin.qq.com/s/ClwtFZQJhZpfqq-RQspsVw)
 
 ## 新特性
 

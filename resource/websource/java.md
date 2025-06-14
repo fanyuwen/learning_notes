@@ -306,6 +306,7 @@
 + [Java真的不难（六十一）模板方法模式及在订单处理流程中的设计](https://mp.weixin.qq.com/s/pCsV8Dc3rOlqYfEWRc-vtA)
 + [Java真的不难（四十五）桥接模式及在支付系统中的应用](https://mp.weixin.qq.com/s/V7TWVh3v_BSlWpr09ufdzg)
 + [Java真的不难（四十九）组合模式及在多个场景的应用](https://mp.weixin.qq.com/s/ypZ8QjxKt7oDIcXPRja6Qg)
++ [Java真的不难（五十九）享元模式的深入浅出及在商品分类共享中的应用](https://mp.weixin.qq.com/s/uZ-fxeVuZu6WDGK_M5Hgkw)
 + [Java真的不难（七十四）观察者模式看这一篇就够了（附源码）](https://mp.weixin.qq.com/s/IT-4l7bK3ssd-1-SDGqxHg)
 + [Java真的不难（六十八）状态模式的深入分析及在订单状态管理系统中的应用（附源码）](https://mp.weixin.qq.com/s/Cp60ecPLUDILa7gTJlxL4A)
 + [Java真的不难（七十一）解释器模式的深入分析及权限规则检查业务案例](https://mp.weixin.qq.com/s/QytyAaafk5Fwo5jbJVRwsQ)
@@ -376,6 +377,7 @@
 + [几个高效的Java代码习惯，领导看了直夸~](https://mp.weixin.qq.com/s/8ESaOZrj7PLXZdpCkMc3oA)
 + [一些 Function 的高级用法介绍！](https://mp.weixin.qq.com/s/cn5MYOnIUh6N3y7evF0bcg)
 + [50个Java代码示例：全面掌握Lambda表达式与Stream API](https://mp.weixin.qq.com/s/b3vR-WeulcuLpOzD68JxOg)
++ [一个 Function 接口，竟然让我的业务逻辑少写 100 行！](https://mp.weixin.qq.com/s/1SH_m6egAU0MBKvmzoLbDQ)
 
 ## 代码质量
 
@@ -543,6 +545,7 @@
 + [“Java编译与执行全揭秘：宏观到微观开启java的奇幻之旅”](https://mp.weixin.qq.com/s/ZQFBKRetERkY_tfylpXVCA)
 + [Java Lambda 表达式的缺点和替代方案](https://mp.weixin.qq.com/s/00dVhbnfXE8T3_rpflMyxQ)
 + [万字讲解Java时区](https://mp.weixin.qq.com/s/ZvDLfRxSFVqwIKLdzGKKbA)
++ [Stream 就像水管工，Function 就像工具人，Optional 是 AI 室友](https://mp.weixin.qq.com/s/ma-eV3AYwJfqcJcY0l8JWg)
 
 ### 序列化
 
@@ -1090,6 +1093,7 @@
 + [Java Stream实现List排序的核心技巧](https://mp.weixin.qq.com/s/Ere-CrtYaoQZHimhVd7UoA)
 + [你知道 Java Stream 写法吗？演示10种场景使用案例（代码干货）](https://mp.weixin.qq.com/s/U6shX4hwrYsZ8vi1s5HjsQ)
 + [Stream 是 Java 的 LINQ 吗？你可能想错了](https://mp.weixin.qq.com/s/SGYFOutAMZEUI2D-RdQLRA)
++ [Stream 并不只是 map 和 filter，背后还有这些你不知道的坑！](https://mp.weixin.qq.com/s/DPXPwg3KdFDKWItNc56ZIg)
 
 ### Date/time
 
@@ -1098,6 +1102,7 @@
 + [【拿走不谢】18 个 Java8 日期处理的实践，太有用了！](https://mp.weixin.qq.com/s/wWZiJm9xDV90RE2YJpPVFg)
 + [Java中的时间戳【详解】](https://mp.weixin.qq.com/s/iDriMryXysIw4MKKFSNDqA)
 + [为什么不再推荐使用 Date 类？](https://mp.weixin.qq.com/s/bVwLWD6IUMGYtgG3yenHwQ)
++ [Java日期格式化大坑：SimpleDateFormat为何会让你的日期"穿越"？](https://mp.weixin.qq.com/s/39v7hAlKGaBYZT5nCPnXUQ)
 
 ### Collection/Map
 
@@ -1158,6 +1163,7 @@
 + [处理Null的神器Optional](https://mp.weixin.qq.com/s/naJ64jYQC8gYxgjQ39Otuw)
 + [Java Optional：优雅处理空值的艺术](https://mp.weixin.qq.com/s/SXB6E4crz8WKsr3Q859uAg)
 + [关于 Optional 的一些高级用法！](https://mp.weixin.qq.com/s/je0egmyuspAyXHIEjK7fyg)
++ [写死 if-else 的你，见过 Optional 的优雅吗？](https://mp.weixin.qq.com/s/iWXvYBHncIO6I9V2B81RLA)
 
 ### Comparator
 
@@ -1318,6 +1324,7 @@
 + [AQS 核心原理解析：从设计哲学到源码实践](https://mp.weixin.qq.com/s/_j5g4SiWqhSLXe01W4bHfQ)
 + [面试官问 ReadWriteLock，我用这个答案直接拿下 Offer！](https://mp.weixin.qq.com/s/3LeqLfL4ePeCu_j1Zjqs0A)
 + [面试练习 | 在Java中使用ReentrantReadWriteLock的优缺点？](https://mp.weixin.qq.com/s/Wp5VXyJoX8fcQ5Q5HKGIzw)
++ [别再用错读写锁了，ReentrantReadWriteLock 你真的懂？](https://mp.weixin.qq.com/s/zxKf7OEuXVxNIHnNxlPg8g)
 
 ### ConcurrentHashMap
 
@@ -1974,6 +1981,7 @@
 + [聊聊Spring中最常用的11个扩展点](https://mp.weixin.qq.com/s/ujbCX35zimXuOegXEopyfw)
 + [Spring @Value 注入的魔法](https://mp.weixin.qq.com/s/3R2q1nXOgyDSyOdLHF9d-Q)
 + [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/QqVGUf-lZDqkGTLtonCzGg)
++ [Java中如何知道一个Bean是不是基础框架的](https://mp.weixin.qq.com/s/Z2gFNA1h9Hn_rAziLb_bDg)
 
 #### 原理&源码
 
@@ -2775,6 +2783,7 @@
 + [王炸！Spring Boot 3.5 震撼发布，强大的新特性来袭](https://mp.weixin.qq.com/s/yAO62ysRkd_a8RbjNBilWA)
 + [重磅！SpringBoot4发布，11项重大变更全解析！](https://mp.weixin.qq.com/s/VskQbzOKUbRhrx6FYmQWYQ)
 + [Spring Boot 4.0.0 新特性详解：深入解读 Spring Framework 7.0.0](https://mp.weixin.qq.com/s/ONH-92inZovuXf3cR-_pjQ)
++ [Spring Boot 3.2 全新特性：JdbcClient 精简数据库操作的新方式](https://mp.weixin.qq.com/s/6yJl-11Ud6BqIIwXKFwIkA)
 
 #### 分布式
 
@@ -3795,6 +3804,7 @@
 + [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)
 + [为什么高级 Java 开发工程师喜爱用策略模式](https://mp.weixin.qq.com/s/KgQ9qfLbqHnK8XNMK_c1Yg)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
++ [用 Java 构建个简版 Either + Optional DSL 框架：让错误处理优雅而函数式](https://mp.weixin.qq.com/s/CqjghYmlK1KdHPm57YSang)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 + [Java 注解+AOP 打造复杂权限系统](https://mp.weixin.qq.com/s/6PJMU8F0VSxbt-8tN-nf1Q)

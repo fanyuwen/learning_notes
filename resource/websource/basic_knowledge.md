@@ -148,6 +148,7 @@
 + [从源码到实践：彻底剖析Linux进程负载均衡机制](https://mp.weixin.qq.com/s/vIhKGhIRGRBiSIGpalZeHA)
 + [Linux 进程实现原理：从创建到终止的全过程](https://mp.weixin.qq.com/s/6bkrdkckDsvX-3ifWWJp-w)
 + [Linux内核源码目录结构解析——深入理解Linux内核源代码组织方式](https://mp.weixin.qq.com/s/btgh91qYtfP37ngRSYN72g)
++ [掌握Linux 定时任务：提升运维效率不再难](https://mp.weixin.qq.com/s/r3635jae56XZ-mtXMas9Pg)
 
 ### 网络
 
@@ -229,6 +230,7 @@
 + [awk 引入外部变量-v用法](https://mp.weixin.qq.com/s/ubAo_Bik64bE0zPP_eOBJQ)
 + [如何在 Linux 中使用 grep 命令？](https://mp.weixin.qq.com/s/ezQst6WzJy7kbP7fUA7P8w)
 + [scp 和 rsync 该怎么选？工作中实操多了才真正懂得](https://mp.weixin.qq.com/s/4Gh-Y71ShROrj18pmaydfQ)
++ [用了几年的TOP命令，原来还有这么多实用的技巧](https://mp.weixin.qq.com/s/Hyn9FCU-GCZo5uOVwRwxhQ)
 
 ### 发行版信息
 
@@ -401,8 +403,11 @@
 + [应用层网络通信协议详解](https://mp.weixin.qq.com/s/mdByUnGfwRj_wHt5eS2FxQ)
 + [计算机网络学习笔记(2)：计网分类和性能指标](https://mp.weixin.qq.com/s/AlWMJKEDJ5-L9u71GmFzjg)
 + [你知道 SFTP vs FTP 的区别吗？一文讲清（附协议图解）小白也能听懂](https://mp.weixin.qq.com/s/2SVHCzPYCdYCS3BI29kUfg)
++ [网络编程--上篇](https://mp.weixin.qq.com/s/Q6AjjQBHgIiEuax5JPrKxw)
 + [网络编程--下篇](https://mp.weixin.qq.com/s/ptj0fKd3XWhY1EgAJxNODA)
 + [Linux高性能网络编程十谈|C++11实现22种高并发模型](https://mp.weixin.qq.com/s/whopYubsHE3_jc9nXdeLXg)
++ [计算机网络之TCP/UDP篇（上）](https://mp.weixin.qq.com/s/2K7jtQqOmOSy6x3RkEHYiw)
++ [计算机网络之TCP/UDP篇（下）](https://mp.weixin.qq.com/s/BGRdTkv162vgthZj_exSBg)
 
 ### DNS
 

@@ -192,6 +192,8 @@
 + [也只有JavaScript可以写出这么离谱的代码了吧](https://mp.weixin.qq.com/s/qX4e_M8FRjMh9hCH9TBAuQ)
 + [如何取消一个已经开始的 JavaScript Promise](https://mp.weixin.qq.com/s/O4ej_zb_sKoJcCamCmmvAA)
 + [JavaScript 条件判断与循环：少写一个 else，性能提升10%！](https://mp.weixin.qq.com/s/PWZCfpGr2R6DHmoeEfY9rA)
++ [switch 语句的"替代品"，对象映射让条件判断更简洁！](https://mp.weixin.qq.com/s/FLfAbaly0Ud1VrTLLmtL3A)
++ [抛弃立即执行函数 (IIFE)，让 JavaScript 代码更丝滑](https://mp.weixin.qq.com/s/ek-m60M3Wc8kwhtO0KfUGw)
 
 # 框架
 

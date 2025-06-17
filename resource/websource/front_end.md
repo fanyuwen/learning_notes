@@ -199,6 +199,7 @@
 + [async/await 错误处理的陷阱：生产环境踩过的5个坑](https://mp.weixin.qq.com/s/nzLY5M6dp1iGmB7J56U_rg)
 + [7个解构赋值绝妙用法，代码量减少50%](https://mp.weixin.qq.com/s/9s9e4_KWg1pg6zDlzk7wqQ)
 + [如果你能回答这 7 个 JavaScript 问题，你就是个专家](https://mp.weixin.qq.com/s/NTzwSwUVGK8B8HD2C_1zsA)
++ [能运行，不代表它是对的：5 个潜伏在正常功能下的 JavaScript 错误](https://mp.weixin.qq.com/s/w8ujky0Cb7KAaSFFqsXG8Q)
 
 # 框架
 

@@ -82,6 +82,8 @@
 + [Java内部类有坑，100%内存泄露！](https://mp.weixin.qq.com/s/pG_RI502vKf9n9SqMFsv0Q)
 + [第三章 Java基础知识点（十二）](https://mp.weixin.qq.com/s/pTxyVYL5cnOUOEsTV7RAlg)
 + [一文搞懂 Java final 关键字：从基础用法到深度细节](https://mp.weixin.qq.com/s/JHRhuPwsqYqOjNhzJMCEnA)
++ [Java核心第13讲：线程关键字: final](https://mp.weixin.qq.com/s/aAWPTfr_83GD5rGcObQPGQ)
++ [Java变量与常量——final关键字的正确使用姿势](https://mp.weixin.qq.com/s/DfNtQeUlGGB8g-j9YpVTFw)
 + [Java内部类的私有构造器难题：合成类如何巧妙解决？](https://mp.weixin.qq.com/s/tY8WHhdlKR9YG4-SYiBQzw)
 
 ### 方法/函数
@@ -380,6 +382,7 @@
 + [一些 Function 的高级用法介绍！](https://mp.weixin.qq.com/s/cn5MYOnIUh6N3y7evF0bcg)
 + [50个Java代码示例：全面掌握Lambda表达式与Stream API](https://mp.weixin.qq.com/s/b3vR-WeulcuLpOzD68JxOg)
 + [一个 Function 接口，竟然让我的业务逻辑少写 100 行！](https://mp.weixin.qq.com/s/1SH_m6egAU0MBKvmzoLbDQ)
++ [函数式编程在 Java：Function、BiFunction、UnaryOperator 你真的会用？](https://mp.weixin.qq.com/s/laHcsY0n10FefJmDXak0Ug)
 
 ## 代码质量
 
@@ -766,6 +769,7 @@
 + [上下文线程池配置 异步线程事务控制](https://mp.weixin.qq.com/s/pYqB62aUMocS6X5q8t619A)
 + [面试官问我Java线程池怎么用，我这样回答直接加分！](https://mp.weixin.qq.com/s/0-d_mxjabkALJHD-wYO6qw)
 + [你了解Java线程池原理吗？](https://mp.weixin.qq.com/s/46JSmc8cVv0sT3AOInUEQw)
++ [线程池中execute和submit的区别？](https://mp.weixin.qq.com/s/hIxTp6Q3-UF71pVVYXFZEA)
 
 #### 锁
 
@@ -836,6 +840,7 @@
 + [一文搞懂线程死锁：四大必要条件与避坑指南](https://mp.weixin.qq.com/s/EhxybgcMlbXYWf_68_rQwg)
 + [JUC锁原理之AQS原理&CLH同步队列](https://mp.weixin.qq.com/s/zNQ1CikABHp7wSvGn8pKFw)
 + [Synchronized是怎么实现的？](https://mp.weixin.qq.com/s/n24S3azeI6SaBSWEt20ybA)
++ [P7大佬带你彻底搞懂AQS：JUC并发工具包的基石与源码剖析！](https://mp.weixin.qq.com/s/stuqKxofVi41FwPjhv7o0g)
 
 #### volatile
 
@@ -856,6 +861,7 @@
 + [高并发崩溃的元凶竟是它？揭秘Java中volatile的致命陷阱！](https://mp.weixin.qq.com/s/iFFf8WxNCa-Jh7wrwEiyvA)
 + [面试练习 | Java中的volatile关键字有什么作用？](https://mp.weixin.qq.com/s/lWKR7j4DZ777odbU8_Ovww)
 + [面试练习 | 请描述Java中的synchronized和volatile的区别？](https://mp.weixin.qq.com/s/2lISwkl-cW2xBayVEKQr1A)
++ [Java核心第12讲：线程关键字:volatile](https://mp.weixin.qq.com/s/mlOxC06fBiHZ_e03-sVJYQ)
 
 ## 源码
 
@@ -974,6 +980,8 @@
 + [为什么Java要把内存分成几个区？看完这篇你就懂了！](https://mp.weixin.qq.com/s/m3HDOrTVKu7ODdtjK-KnpA)
 + [面试被问：OOM类型有哪些？怎么答？](https://mp.weixin.qq.com/s/JwQVTwRJx6Y_HDRKDvFL3Q)
 + [面试练习 | 解释Java内存模型（JMM）及其对多线程编程的重要性。](https://mp.weixin.qq.com/s/UBWY-i4nKgy9C0coNTA0eQ)
++ [如何解决 JVM OOM 和内存泄漏问题？事前、事中、事后分别怎么做？](https://mp.weixin.qq.com/s/91Tza1Y1-u4VwnDmrmjMaw)
++ [JVM内存结构 & 参数详解](https://mp.weixin.qq.com/s/MnBV5gLyIvQK940vd7rQlw)
 
 ### 类加载
 
@@ -1108,6 +1116,7 @@
 + [Stream 是 Java 的 LINQ 吗？你可能想错了](https://mp.weixin.qq.com/s/SGYFOutAMZEUI2D-RdQLRA)
 + [Stream 并不只是 map 和 filter，背后还有这些你不知道的坑！](https://mp.weixin.qq.com/s/DPXPwg3KdFDKWItNc56ZIg)
 + [别再 for 循环遍历了！Stream 流式处理才是现代 Java 的打开方式](https://mp.weixin.qq.com/s/yWPq4sn_t70E8VnVXM_Rfg)
++ [Stream很好，Map很酷，但答应我别用toMap()！](https://mp.weixin.qq.com/s/DNOCHvdzLkzjUetd-9YlzA)
 
 ### Date/time
 
@@ -1182,6 +1191,10 @@
 + [Optional 的高级用法：从避坑到优雅编程](https://mp.weixin.qq.com/s/CuAUseLgulpvH_qxzgQ1BQ)
 + [Java Optional 最佳实践全解析](https://mp.weixin.qq.com/s/V53VeiZEA6VrPXqpbRokZQ)
 + [用了 Optional，结果生产环境直接 NPE？这锅你得背！](https://mp.weixin.qq.com/s/HkpKSFug-etm7MU_kDAL9g)
++ [Java Optional 的“最高级用法”：构建领域不可变性与错误语义的类型边界](https://mp.weixin.qq.com/s/kzdHuAw303nO1qVcdTp4pQ)
++ [Java Optional 终极用法全攻略](https://mp.weixin.qq.com/s/KVU5ssuDXcwW28el1_ZVgw)
++ [Java8 Optional 的一些高级运用！](https://mp.weixin.qq.com/s/Ohy0PlLHXq0_AMkHvMWJjw)
++ [Optional 到底有没有用？看完源码我才知道它设计的精妙！](https://mp.weixin.qq.com/s/kWOzzFa5vOz_L_MqfTr-Xw)
 
 ### Comparator
 
@@ -1343,6 +1356,7 @@
 + [面试官问 ReadWriteLock，我用这个答案直接拿下 Offer！](https://mp.weixin.qq.com/s/3LeqLfL4ePeCu_j1Zjqs0A)
 + [面试练习 | 在Java中使用ReentrantReadWriteLock的优缺点？](https://mp.weixin.qq.com/s/Wp5VXyJoX8fcQ5Q5HKGIzw)
 + [别再用错读写锁了，ReentrantReadWriteLock 你真的懂？](https://mp.weixin.qq.com/s/zxKf7OEuXVxNIHnNxlPg8g)
++ [一文解析ReentrantReadWriteLock源码，我说白了真不难！](https://mp.weixin.qq.com/s/rN_EQC57fF2A9fryAbiTYg)
 
 ### ConcurrentHashMap
 
@@ -2600,6 +2614,11 @@
 + [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/UTaMiXMAAjAg7TIf1Sm8mw)
 + [哈罗二面：为什么Spring boot的 jar 可以直接运行？](https://mp.weixin.qq.com/s/VohZ9-lQVdx0YBKt2PFJPA)
 + [7个有效提升 Spring Boot 应用启动速度的技巧](https://mp.weixin.qq.com/s/ZB1lwFYSobv5hF5cCllpXQ)
++ [springboot自动装配原理](https://mp.weixin.qq.com/s/GJ_IpPkVYZ6eAiArj_OqAA)
++ [Spring Boot 的 3 种动态 Bean 注入技巧](https://mp.weixin.qq.com/s/T-AhzXdfLioP4vguCCHs7A)
++ [超实用！Spring Boot 多种方法实现数据绑定](https://mp.weixin.qq.com/s/haowO509j0N-2BmUlN8IZQ)
++ [SpringBoot 加载外部 Jar，实现功能按需扩展！](https://mp.weixin.qq.com/s/3mqCdBdVaeuWhEAGGrxF2A)
++ [惊呆了！Spring Boot 通过这7种策略实现注入](https://mp.weixin.qq.com/s/hLG1AsXe2nvFxdNdWasxuQ)
 
 #### 版本特性
 

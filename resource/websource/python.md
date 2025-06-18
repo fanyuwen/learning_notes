@@ -76,6 +76,8 @@
 + [迭代的艺术：90% Python 程序员不知道的迭代技巧](https://mp.weixin.qq.com/s/FMzrviBs9ACTU88TQxb19Q)
 + [python 类型提示入门](https://mp.weixin.qq.com/s/VG7n-2ad230Rn60ekZ1kdg)
 + [python学习6-控制和循环](https://mp.weixin.qq.com/s/6O-NMHE24Ihiiy_dsLK5Pw)
++ [Python 错误处理：从 try...except 小白到异常处理专家](https://mp.weixin.qq.com/s/DsZsSMei7yq9oP0j3rWgwg)
++ [这5个python基础语法糖，能让你的代码短一半却更难读懂](https://mp.weixin.qq.com/s/4bW5WZGLfDF2bdO4RO0Ilg)
 
 ### 函数/方法
 
@@ -157,6 +159,7 @@
 + [python学习8-类](https://mp.weixin.qq.com/s/EkkExOODP0-soOZlQMksBw)
 + [为什么python的self参数必须显式声明？隐式this才是万恶之源](https://mp.weixin.qq.com/s/iqjBgNLMq-svOlC8Y3Gb3Q)
 + [python教学返场——自定义类的使用](https://mp.weixin.qq.com/s/vNcwxn_ZDUi_mIW7uNK7Ng)
++ [Python编程精进：继承详解](https://mp.weixin.qq.com/s/NJXKmyZ-ubqGrGzMw3TKxw)
 
 ### 核心库/模块
 
@@ -230,6 +233,7 @@
 + [python基础语法-模块](https://mp.weixin.qq.com/s/pJO7tj7Gszdhg05SN4HigA)
 + [python学习9-常用类包](https://mp.weixin.qq.com/s/2zhptXXAP6iHzx90ud_Y2Q)
 + [python学习-列表及元组](https://mp.weixin.qq.com/s/4-TUPF4bBmqZJjUHVWMm4A)
++ [Python常用系统类库之zipfile压缩](https://mp.weixin.qq.com/s/O413bvsbsbb_5vFULjm9Hg)
 
 ### 异步/多线程
 
@@ -262,6 +266,7 @@
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [python基础语法-读写文件](https://mp.weixin.qq.com/s/Cky9ERdWx-0Lh0K65hqYEA)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [python学习13-文件处理](https://mp.weixin.qq.com/s/5vcofKlEIjMgl3gBookK7A)
 + [Python文件读写：tell和seek的用法](https://mp.weixin.qq.com/s/4-2teCwTK_TNRd8RwpXeEA)
@@ -553,6 +558,8 @@
 + [Python编程精进：正则表达式](https://mp.weixin.qq.com/s/KjvwRYhDXipXZRORxioHrA)
 + [python学习10-正则表达式 re](https://mp.weixin.qq.com/s/tRpxhfdVArKybU_cUDdy8w)
 + [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
++ [Python 玩转 Excel：四大神器横向评测与实战指南](https://mp.weixin.qq.com/s/hpUaomijjK0R1tgM3KI9LQ)
++ [Python学习笔记：注释与print函数详解](https://mp.weixin.qq.com/s/uctjMyc2gssjLb3QgYJ4aA)
 
 ## 新特性
 

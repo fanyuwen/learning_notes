@@ -168,6 +168,7 @@
 + [Go 中如何实现各种链表？](https://mp.weixin.qq.com/s/qD7u9pcwxrUiTpfD7TP7fw)
 + [Go结构体比较全解析：为什么有的能比有的不能？](https://mp.weixin.qq.com/s/naQPhNTKR4EyE-UcDGUWgA)
 + [（20）Go 项目开发入门（十八）：错误处理](https://mp.weixin.qq.com/s/hnJSs0169K06-OCGkcj7CA)
++ [Go Modules 使用技巧合集](https://mp.weixin.qq.com/s/mjAZ1gmwYVBalV4WXaEgYQ)
 
 # 面试题
 

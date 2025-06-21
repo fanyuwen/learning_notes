@@ -424,6 +424,7 @@
 + [面试官：使用 MySQL 时如果发现数据不一致了，可能是什么原因？](https://mp.weixin.qq.com/s/JIJ5Ym4VfUpX-tx7Id5fIA)
 + [十个提升MySQL性能的操作](https://mp.weixin.qq.com/s/rLVCS5ACo30nV3gFH7TzZQ)
 + [避坑：MySQL单表建议行数不超过2000W！](https://mp.weixin.qq.com/s/O5AbN2PiUYCryGbcRco06w)
++ [MySQL添加、修改和删除数据](https://mp.weixin.qq.com/s/9mwPEYAMHEO5wsvMI5yk5g)
 
 #### 存储引擎
 

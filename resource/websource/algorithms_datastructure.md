@@ -75,6 +75,8 @@
 + [算法内功修炼-二叉树的坡度](https://mp.weixin.qq.com/s/vwI4Y44NDvcEvMH2e4xRnQ)
 + [算法 - 最长回文子串（马拉车）](https://mp.weixin.qq.com/s/iZhNg4V6SzSDU2Veiwy49A)
 + [【数据结构】线索二叉树](https://mp.weixin.qq.com/s/fj-6LjmjtRakXoh7UgvGZw)
++ [算法与数据结构：栈的结构定义和操作及其实现](https://mp.weixin.qq.com/s/xgWQdL9wJO2eYpkTDvVLKg)
++ [算法内功修炼-合并两个有序数组](https://mp.weixin.qq.com/s/ddbBciMNE8vJSp-fYntJIw)
 
 ## Tree
 

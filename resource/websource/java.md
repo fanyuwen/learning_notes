@@ -186,11 +186,13 @@
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [Java 1.8 仍在流行？是时候升级到 JDK 21 了！](https://mp.weixin.qq.com/s/FMvGBS6AczrGr4sqsFJ6Hg)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
++ [JDK 21 虚拟线程：Java 并发编程的新飞跃](https://mp.weixin.qq.com/s/_3He7LnKlC6exokJAMDvOA)
 + [Java 21 新特性的实践，确实很丝滑！](https://mp.weixin.qq.com/s/bsg1cjEGrK-QPIw5b0_ncA)
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
 + [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
 + [JAVA 24 虚拟线程的演进：从愿景到生产实践](https://mp.weixin.qq.com/s/AYmxYLDzPusOb5Axf3WRCA)
++ [Java 24 中最值得关注的 5 大特性](https://mp.weixin.qq.com/s/81dwQnlizd3kvycJur1CsA)
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
@@ -300,6 +302,7 @@
 + [如何保证线程A，B，C 顺序执行？](https://mp.weixin.qq.com/s/BjKzyChvWhSehBy_z36qKQ)
 + [java 设计模式-桥接模式](https://mp.weixin.qq.com/s/kFZV-mWpgICsobfMbiLU3Q)
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
++ [java常用的设计模式与算法](https://mp.weixin.qq.com/s/NykahklKTXWBjB64pNpzew)
 + [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
@@ -386,6 +389,7 @@
 + [50个Java代码示例：全面掌握Lambda表达式与Stream API](https://mp.weixin.qq.com/s/b3vR-WeulcuLpOzD68JxOg)
 + [一个 Function 接口，竟然让我的业务逻辑少写 100 行！](https://mp.weixin.qq.com/s/1SH_m6egAU0MBKvmzoLbDQ)
 + [函数式编程在 Java：Function、BiFunction、UnaryOperator 你真的会用？](https://mp.weixin.qq.com/s/laHcsY0n10FefJmDXak0Ug)
++ [Java - Lambda表达式之内置函数式接口](https://mp.weixin.qq.com/s/T1A0qULJFf10ehGODspVoA)
 
 ## 代码质量
 
@@ -463,6 +467,8 @@
 + [9个很实用的Java开发技巧：包含代码和详解](https://mp.weixin.qq.com/s/TzO2dKWWIFrXVqh2nC64Fg)
 + [提升Java代码可靠性：5个异常处理最佳实践](https://mp.weixin.qq.com/s/6Ggg2bCqPFRSfftiJPY7FQ)
 + [精选Java代码片段：覆盖10个常见编程场景的更优写法](https://mp.weixin.qq.com/s/qM2CfoNxr9TmmPcCO_A41w)
++ [Java常见7个问题代码，第一个就中招](https://mp.weixin.qq.com/s/Hd1f5OdGUI5ndC3rctdxOA)
++ [Java 实用代码优化技巧：提升性能与可读性的建议](https://mp.weixin.qq.com/s/khwNTrMhSmLhAUuwl-njBw)
 
 # 底层
 
@@ -555,6 +561,7 @@
 + [万字讲解Java时区](https://mp.weixin.qq.com/s/ZvDLfRxSFVqwIKLdzGKKbA)
 + [Stream 就像水管工，Function 就像工具人，Optional 是 AI 室友](https://mp.weixin.qq.com/s/ma-eV3AYwJfqcJcY0l8JWg)
 + [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/nM1Xxsg8iuwJFsOfqhvupw)
++ [面试官：equals和Objects.equals区别](https://mp.weixin.qq.com/s/vZf8bTmK5sqGSPSNBV1c0g)
 
 ### 序列化
 
@@ -608,6 +615,7 @@
 + [FastJSON 反序列化到底干了啥？一文看懂它是如何利用反射机制的！](https://mp.weixin.qq.com/s/WUuo4piNMqujNpAUFqWElg)
 + [Java反射的20个使用经验](https://mp.weixin.qq.com/s/S-iUV55dyDgmmv2Tk5NVRQ)
 + [Java 中的方法句柄与变量句柄：高性能反射的现代替代方案](https://mp.weixin.qq.com/s/ot5EEMcE7Th5l3IzDhGWqQ)
++ [Java Class类到底是啥？看完这篇“娱乐圈内幕”，面试官都夸你懂行！](https://mp.weixin.qq.com/s/x6kvprmtH4ElWb_gRmGZQQ)
 
 ### 并发/多线程
 
@@ -988,6 +996,7 @@
 + [面试练习 | 解释Java内存模型（JMM）及其对多线程编程的重要性。](https://mp.weixin.qq.com/s/UBWY-i4nKgy9C0coNTA0eQ)
 + [如何解决 JVM OOM 和内存泄漏问题？事前、事中、事后分别怎么做？](https://mp.weixin.qq.com/s/91Tza1Y1-u4VwnDmrmjMaw)
 + [JVM内存结构 & 参数详解](https://mp.weixin.qq.com/s/MnBV5gLyIvQK940vd7rQlw)
++ [线上OOM问题排查实战：技术leader手把手教你分析dump文件，快速定位内存泄漏！](https://mp.weixin.qq.com/s/LkO9thXBPxtfxrYqKQSnPw)
 
 ### 类加载
 
@@ -1201,6 +1210,7 @@
 + [Java Optional 终极用法全攻略](https://mp.weixin.qq.com/s/KVU5ssuDXcwW28el1_ZVgw)
 + [Java8 Optional 的一些高级运用！](https://mp.weixin.qq.com/s/Ohy0PlLHXq0_AMkHvMWJjw)
 + [Optional 到底有没有用？看完源码我才知道它设计的精妙！](https://mp.weixin.qq.com/s/kWOzzFa5vOz_L_MqfTr-Xw)
++ [Java 里的 Optional，不是 Option+Alt+Del！](https://mp.weixin.qq.com/s/2sHd-8RGty2v0qfE-1N5YA)
 
 ### Comparator
 
@@ -1249,6 +1259,7 @@
 + [【Java】CompletableFuture.orTimeout在JDK21以下版本有内存泄漏及解决方案](https://mp.weixin.qq.com/s/qzC2_F1ju6xX5b-TU0Ht5g)
 + [CompletableFuture回调函数运用](https://mp.weixin.qq.com/s/Vstk-St9OcnbqblEr-1P8Q)
 + [【Java】Java8中实现类似CompletableFutrue#orTimeout的功能](https://mp.weixin.qq.com/s/Pp9kuxj0kWAUHYv6OQCBxQ)
++ [一些 CompletableFuture 的高级用法。](https://mp.weixin.qq.com/s/sxvGKGVuht9BpNRJmTVQMw)
 
 ### ThreadPool
 
@@ -1489,6 +1500,7 @@
 + [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
 + [关于java中动态加载字节码的多种方法](https://mp.weixin.qq.com/s/jKFqCB-P-G3fHpYBt2PsZw)
 + [Java Agent字节码插桩技术：SkyWalking如何实现无侵入链路追踪？](https://mp.weixin.qq.com/s/DcIWJdhD0tN7TXaVHKuang)
++ [Java安全模型讲解（沙箱机制）——SecurityManager安全管理器、AccessController访问控制器解析](https://mp.weixin.qq.com/s/hczvWCjADdz4HOpaHMh_3A)
 
 # 包管理工具
 
@@ -1767,6 +1779,7 @@
 + [数据库枚举类型如何设计？看看MyBatis-Plus的处理](https://mp.weixin.qq.com/s/yo890PFsSCKlUMEeCoc0tA)
 + [看了我的MyBatis-plus用法，全公司同事开始悄悄模仿了。。](https://mp.weixin.qq.com/s/B-OKGZlLVd3EfmfBxuV5bg)
 + [别在 MyBatis-Plus 里瞎用 @Transactional！这锅背到我差点被踢出项目组](https://mp.weixin.qq.com/s/e-mxOjf6S2rMnavDYprFHQ)
++ [MyBatis-Plus模糊查询通配符问题深度分析与解决方案](https://mp.weixin.qq.com/s/R9y96M7YYyEZRHDTblTLIA)
 
 ## nacos
 
@@ -2050,6 +2063,7 @@
 + [Spring源码 - 深度解析@Resource依赖注入的执行逻辑](https://mp.weixin.qq.com/s/0GEiwHAAbFx1Rl1-7AYzfw)
 + [Spring单例Bean线程安全吗？90%的面试者都答错了！](https://mp.weixin.qq.com/s/ldOAh1x_0hg_drt1m7W1Nw)
 + [徒手造轮子：从零实现Spring IOC容器的核心技术内幕](https://mp.weixin.qq.com/s/fB1gD-LtcvkoRUodmHWx5Q)
++ [FactoryBean 和 BeanFactory 的傻傻的总是分不清？](https://mp.weixin.qq.com/s/SVdyZfjoMqBQLKP3LSEz9w)
 
 ### 新版本新特性
 
@@ -2626,6 +2640,8 @@
 + [超实用！Spring Boot 多种方法实现数据绑定](https://mp.weixin.qq.com/s/haowO509j0N-2BmUlN8IZQ)
 + [SpringBoot 加载外部 Jar，实现功能按需扩展！](https://mp.weixin.qq.com/s/3mqCdBdVaeuWhEAGGrxF2A)
 + [惊呆了！Spring Boot 通过这7种策略实现注入](https://mp.weixin.qq.com/s/hLG1AsXe2nvFxdNdWasxuQ)
++ [15个Spring Boot常见编程误区解析与代码优化建议](https://mp.weixin.qq.com/s/HzLQoZVQDePASOblbh9jtg)
++ [深度剖析：Spring Boot 的 jar 直接运行背后的技术真相](https://mp.weixin.qq.com/s/MR9uf_wqiGk8kDLinYSnZQ)
 
 #### 版本特性
 
@@ -3417,6 +3433,7 @@
 + [SpringBoot + 策略模式，大大加强系统接口扩展能力](https://mp.weixin.qq.com/s/rxHdJs7TwYIfX-nmPj0PSA)
 + [快用 Spring Boot + 策略模式给你的代码“整容”，同事看完都惊呆了！](https://mp.weixin.qq.com/s/qqC0mCaDG5GHWf3JaYayTw)
 + [Spring Boot动态策略模式详解，彻底告别编译部署](https://mp.weixin.qq.com/s/7RUfyWbZMYI1I3rYCsAJgA)
++ [【代码整洁术】再见，if-else！你好，Spring Boot 工厂模式](https://mp.weixin.qq.com/s/8nnCVo35O8DOaEnUhTFBZA)
 
 #### message
 

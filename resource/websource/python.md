@@ -162,6 +162,7 @@
 + [为什么python的self参数必须显式声明？隐式this才是万恶之源](https://mp.weixin.qq.com/s/iqjBgNLMq-svOlC8Y3Gb3Q)
 + [python教学返场——自定义类的使用](https://mp.weixin.qq.com/s/vNcwxn_ZDUi_mIW7uNK7Ng)
 + [Python编程精进：继承详解](https://mp.weixin.qq.com/s/NJXKmyZ-ubqGrGzMw3TKxw)
++ [Python系列教程244——继承](https://mp.weixin.qq.com/s/-RYK2QMzlBB5fMf05sifKg)
 
 ### 核心库/模块
 
@@ -280,6 +281,7 @@
 + [Python教程——闭包](https://mp.weixin.qq.com/s/XSosHg0J6NtzOHEKenLk9w)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)
 + [Python编程精进：命名空间](https://mp.weixin.qq.com/s/rqF0WV0ssh2mHrFht9s7Pg)
++ [Python编程精进：盘点10个优化技巧](https://mp.weixin.qq.com/s/F8i1oABYt4Qfiy1ydBt8IA)
 + [Python编程精进：Poetry 与 Requirements.txt 对比](https://mp.weixin.qq.com/s/dQSucfaddRz1Sn2RdNIh4A)
 + [Python编码规范入门：让代码像诗一样优雅](https://mp.weixin.qq.com/s/LkcSdwrVur1CC5mLmCIA1w)
 + [Python配置管理——最强的configparser，让你轻松管理应用配置！](https://mp.weixin.qq.com/s/8UJ7JGgOkz0FUQvUEPVyqg)
@@ -564,6 +566,7 @@
 + [Python学习笔记：注释与print函数详解](https://mp.weixin.qq.com/s/uctjMyc2gssjLb3QgYJ4aA)
 + [Python学习笔记：格式化输出的两种方法](https://mp.weixin.qq.com/s/efZCeS6mt5nbcxF7fIDL_w)
 + [pytest 测试框架新版本 8.4 的重大变更](https://mp.weixin.qq.com/s/K_3caSmtnFDXHTE3PLniGg)
++ [Python 15个常用脚本](https://mp.weixin.qq.com/s/1xgM3MGClCV0l6HvmzFMVg)
 
 ## 新特性
 

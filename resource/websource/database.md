@@ -153,6 +153,7 @@
 + [订单服务拆分库表迁移实践](https://mp.weixin.qq.com/s/KZ1B5l1pgmB4V8KCsT76lw)
 + [Sharding-JDBC如何实现读写分离](https://mp.weixin.qq.com/s/MWmn_v_TaQHnCZAFaCYGBQ)
 + [ShardingSphere最全详解(图文全面总结)](https://mp.weixin.qq.com/s/5b0F9F4U8eSWsqk8W2CRwA)
++ [分库分表三、ShardingSphere分片策略之Hint分片策略](https://mp.weixin.qq.com/s/j-BMDq0Fc77JVowdopDP9Q)
 + [分库分表后，数据库数据一致性问题如何解决？](https://mp.weixin.qq.com/s/lAXr3lY-tX48aVYt1BYQgA)
 + [分库分表，可能真的要退出历史舞台了！](https://mp.weixin.qq.com/s/WUWCwyiALFvQazMt4JpydQ)
 + [谈一谈 分库分表 vs NewSQL数据库](https://mp.weixin.qq.com/s/ytKBtqMowe5KkPYpvcNg6g)

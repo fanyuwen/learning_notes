@@ -159,6 +159,7 @@
 + ["别重复造轮子"：程序员最毒的职场建议](https://mp.weixin.qq.com/s/PKI4S3UbOFlIV0RLf4uWXA)
 + [什么是好代码？一位资深工程师的深度思考](https://mp.weixin.qq.com/s/p3_th4GzZIEpoxan3_8isQ)
 + [一点学写代码的经历](https://mp.weixin.qq.com/s/tbYUCQ9lKHvK_vs2eM6qrg)
++ [编梦启航：用代码书写你的星辰大海](https://mp.weixin.qq.com/s/rU0-hrfvoSPXSHKiU4Pyrw)
 
 ## 视频
 

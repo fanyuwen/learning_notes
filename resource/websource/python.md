@@ -78,6 +78,7 @@
 + [python学习6-控制和循环](https://mp.weixin.qq.com/s/6O-NMHE24Ihiiy_dsLK5Pw)
 + [Python 错误处理：从 try...except 小白到异常处理专家](https://mp.weixin.qq.com/s/DsZsSMei7yq9oP0j3rWgwg)
 + [这5个python基础语法糖，能让你的代码短一半却更难读懂](https://mp.weixin.qq.com/s/4bW5WZGLfDF2bdO4RO0Ilg)
++ [Python中的数据类型操作](https://mp.weixin.qq.com/s/9P4jw6nyVqnw8lqHAw_OJA)
 
 ### 函数/方法
 
@@ -128,6 +129,7 @@
 + [10 个 Python 内置函数，可简化您的代码](https://mp.weixin.qq.com/s/YIqPkBPaJjH2tqUslZFGfg)
 + [Python 函数式编程：优雅与高效的完美结合](https://mp.weixin.qq.com/s/2Eku9P7QPhvzB2RTfYAjGA)
 + [Python常用的内置函数](https://mp.weixin.qq.com/s/_IYwbHAXwYSDdMREiRCmGA)
++ [【Python基础】Python中的Lambda表达式](https://mp.weixin.qq.com/s/uJQLhuFqMUQx86WI7UWwuQ)
 
 ### 面向对象
 
@@ -560,6 +562,8 @@
 + [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
 + [Python 玩转 Excel：四大神器横向评测与实战指南](https://mp.weixin.qq.com/s/hpUaomijjK0R1tgM3KI9LQ)
 + [Python学习笔记：注释与print函数详解](https://mp.weixin.qq.com/s/uctjMyc2gssjLb3QgYJ4aA)
++ [Python学习笔记：格式化输出的两种方法](https://mp.weixin.qq.com/s/efZCeS6mt5nbcxF7fIDL_w)
++ [pytest 测试框架新版本 8.4 的重大变更](https://mp.weixin.qq.com/s/K_3caSmtnFDXHTE3PLniGg)
 
 ## 新特性
 
@@ -886,6 +890,7 @@
 + [Python编程精进：实用的属性管理工具](https://mp.weixin.qq.com/s/9xuMGRmcz1kz5BBOZ1Zk1g)
 + [python入门系列二十一（python执行js脚本，助力平台产品实现脚本化能力）](https://mp.weixin.qq.com/s/Ii1FupIMSCrLVfPhfztjNQ)
 + [速度提升100倍，最新Python包管理工具uv，淘汰pip](https://mp.weixin.qq.com/s/kSB0Bb2ZBwaH30fRJ_cgvA)
++ [使用uv高效管理Python项目](https://mp.weixin.qq.com/s/1OTQbCKwsuqOo4aftTaXfg)
 + [【python】uv管理器](https://mp.weixin.qq.com/s/-h3LV8R9J2DSwnWMBB_Mrw)
 + [python代码调试工具pudb的多进程支持](https://mp.weixin.qq.com/s/iS4aCiA0CvkH7gD_i_Omig)
 

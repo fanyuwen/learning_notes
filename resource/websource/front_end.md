@@ -200,6 +200,8 @@
 + [7个解构赋值绝妙用法，代码量减少50%](https://mp.weixin.qq.com/s/9s9e4_KWg1pg6zDlzk7wqQ)
 + [如果你能回答这 7 个 JavaScript 问题，你就是个专家](https://mp.weixin.qq.com/s/NTzwSwUVGK8B8HD2C_1zsA)
 + [能运行，不代表它是对的：5 个潜伏在正常功能下的 JavaScript 错误](https://mp.weixin.qq.com/s/w8ujky0Cb7KAaSFFqsXG8Q)
++ [告别 substr() 和 substring()？更可靠的 JavaScript 字符串截取方法](https://mp.weixin.qq.com/s/Buw-vk2Q6tj69-N7lV22eg)
++ [async/await 原理深度解析：JavaScript异步编程底层工作机制全揭秘](https://mp.weixin.qq.com/s/GDpDydv4HLvRhVfi7pA2ug)
 
 # 框架
 
@@ -352,6 +354,7 @@
 + [AST 技巧：压缩变量定义](https://mp.weixin.qq.com/s/5om25nsDLjTdyUwq9qto1Q)
 + [开发命令行工具需要的一些工具库和使用方法介绍](https://mp.weixin.qq.com/s/mZAtxTInoTu_VseiyE6LDw)
 + [超越JSON.parse：JavaScript中高效反序列化的艺术](https://mp.weixin.qq.com/s/anc_tlGkOh4OeVHpgMyFbw)
++ [99% 前端不知道的 JS 技巧：5 种方式监听 CSS 变化?](https://mp.weixin.qq.com/s/UIlAH-qCznvpqaBhei1PPg)
 
 # 杂谈
 

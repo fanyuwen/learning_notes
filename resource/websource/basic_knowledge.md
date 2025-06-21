@@ -153,6 +153,7 @@
 + [掌握Linux 定时任务：提升运维效率不再难](https://mp.weixin.qq.com/s/r3635jae56XZ-mtXMas9Pg)
 + [快速理解Linux磁盘管理：物理卷、逻辑卷与卷组](https://mp.weixin.qq.com/s/CiLwEE7kRVBSlBKSnvrqrA)
 + [【Linux】Linux目录结构快速解析：从根目录到核心组件](https://mp.weixin.qq.com/s/xI9Lf-DPi_6OmxcgFkAl0Q)
++ [Linux文件系统目录结构解析：关键文件功能与路径详解](https://mp.weixin.qq.com/s/juUcYxwfzs810feK5DHRQA)
 
 ### 网络
 
@@ -235,6 +236,9 @@
 + [如何在 Linux 中使用 grep 命令？](https://mp.weixin.qq.com/s/ezQst6WzJy7kbP7fUA7P8w)
 + [scp 和 rsync 该怎么选？工作中实操多了才真正懂得](https://mp.weixin.qq.com/s/4Gh-Y71ShROrj18pmaydfQ)
 + [用了几年的TOP命令，原来还有这么多实用的技巧](https://mp.weixin.qq.com/s/Hyn9FCU-GCZo5uOVwRwxhQ)
++ [Linux 命令行完全指南：从入门到精通](https://mp.weixin.qq.com/s/aiqn5zCD7eCzsxzOP5F-eA)
++ [掌握 Linux 核心命令：解锁 cat 的高效用法！](https://mp.weixin.qq.com/s/yRu8CzyW_Dy5p5LHq-Ju7g)
++ [curl命令终极指南：从入门到封神，一篇文章让你成为网络请求大师](https://mp.weixin.qq.com/s/oZJKZzhFlngizPLLRAY5ng)
 
 ### 发行版信息
 

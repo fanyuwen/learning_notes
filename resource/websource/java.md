@@ -84,6 +84,7 @@
 + [一文搞懂 Java final 关键字：从基础用法到深度细节](https://mp.weixin.qq.com/s/JHRhuPwsqYqOjNhzJMCEnA)
 + [Java核心第13讲：线程关键字: final](https://mp.weixin.qq.com/s/aAWPTfr_83GD5rGcObQPGQ)
 + [Java变量与常量——final关键字的正确使用姿势](https://mp.weixin.qq.com/s/DfNtQeUlGGB8g-j9YpVTFw)
++ [深入理解Java中的final关键字](https://mp.weixin.qq.com/s/NuqCgWYwI4xuyCAlYuZWgQ)
 + [Java内部类的私有构造器难题：合成类如何巧妙解决？](https://mp.weixin.qq.com/s/tY8WHhdlKR9YG4-SYiBQzw)
 
 ### 方法/函数
@@ -107,6 +108,7 @@
 + [Java异常处理的9种最佳实践](https://mp.weixin.qq.com/s/ZLLfUz6BCxaYj3uhVwxmfg)
 + [为什么说不推荐 e.printStackTrace()](https://mp.weixin.qq.com/s/T7KAT9ZHPmYT1A6yIKmxuQ)
 + [Java经典基础面试题：try..catch，据说90%的新手都栽倒过！](https://mp.weixin.qq.com/s/BasLlaGu4yM2qWwjbpaf1g)
++ [如何优雅地在Java代码中处理异常](https://mp.weixin.qq.com/s/ZvZsMXPy0AhD_xlbWfsEvw)
 
 ### 枚举
 
@@ -320,6 +322,7 @@
 + [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
++ [优雅应对复杂业务的利器：Java 策略模式](https://mp.weixin.qq.com/s/jtOJYgfgV0Ju7U-pQpGwNw)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
 + [JAVA：备忘录模式（Memento Pattern）的技术指南](https://mp.weixin.qq.com/s/Lh2m0w0M1qDwY3uRoL2ArQ)
@@ -770,6 +773,7 @@
 + [面试官问我Java线程池怎么用，我这样回答直接加分！](https://mp.weixin.qq.com/s/0-d_mxjabkALJHD-wYO6qw)
 + [你了解Java线程池原理吗？](https://mp.weixin.qq.com/s/46JSmc8cVv0sT3AOInUEQw)
 + [线程池中execute和submit的区别？](https://mp.weixin.qq.com/s/hIxTp6Q3-UF71pVVYXFZEA)
++ [别再瞎用线程池了！ThreadPoolExecutor核心参数与拒绝策略P7级深度优化！](https://mp.weixin.qq.com/s/hGzSjWbrJyJ1rv1gvvwG6w)
 
 #### 锁
 
@@ -862,6 +866,7 @@
 + [面试练习 | Java中的volatile关键字有什么作用？](https://mp.weixin.qq.com/s/lWKR7j4DZ777odbU8_Ovww)
 + [面试练习 | 请描述Java中的synchronized和volatile的区别？](https://mp.weixin.qq.com/s/2lISwkl-cW2xBayVEKQr1A)
 + [Java核心第12讲：线程关键字:volatile](https://mp.weixin.qq.com/s/mlOxC06fBiHZ_e03-sVJYQ)
++ [volatile为何不保证原子性？“直播抢券翻车”现场告诉你真相！](https://mp.weixin.qq.com/s/r3pIDpHb-3bxs4wCuC0bmA)
 
 ## 源码
 
@@ -925,6 +930,7 @@
 + [JVM的通关指南（二）JVM运行时数据区的深入解析](https://mp.weixin.qq.com/s/TVbeBGLTHPQ82ApQ0knirw)
 + [JVM的通关指南（七）快速了解JVM的直接内存及常见问题与解决方案](https://mp.weixin.qq.com/s/zx88geE3kYksr_bdTxtWmg)
 + [万字长文总结：揭秘JVM核心内存结构](https://mp.weixin.qq.com/s/hRKRvdZNpYbrOXRyhF2JYw)
++ [JVM虚拟机调用native本地方法的原理，java代码怎么调用本地的库函数](https://mp.weixin.qq.com/s/ohCtIRz0agdameNugBOBmQ)
 
 ### 命令
 
@@ -1322,6 +1328,7 @@
 + [Java线程池 - ThreadLocal底层原理与内存泄漏OOM（建议收藏=官方文档+源码+复现+可视化分析+解决方案+实验）](https://mp.weixin.qq.com/s/pYEYZU-WeA_HXscQ3ywZzw)
 + [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
 + [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
++ [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
 
 ### Lock
 
@@ -3409,6 +3416,7 @@
 + [SpringBoot中13种设计模式应用案例](https://mp.weixin.qq.com/s/QtulNezYiNviC1pYXOaVzw)
 + [SpringBoot + 策略模式，大大加强系统接口扩展能力](https://mp.weixin.qq.com/s/rxHdJs7TwYIfX-nmPj0PSA)
 + [快用 Spring Boot + 策略模式给你的代码“整容”，同事看完都惊呆了！](https://mp.weixin.qq.com/s/qqC0mCaDG5GHWf3JaYayTw)
++ [Spring Boot动态策略模式详解，彻底告别编译部署](https://mp.weixin.qq.com/s/7RUfyWbZMYI1I3rYCsAJgA)
 
 #### message
 

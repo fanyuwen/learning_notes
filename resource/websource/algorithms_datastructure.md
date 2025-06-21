@@ -71,6 +71,10 @@
 + [【你问我答】第一期：冒泡排序、对拍和距离判断](https://mp.weixin.qq.com/s/jlxb0G-YGiHudol038H_vA)
 + [数据结构之图](https://mp.weixin.qq.com/s/mg0C8ZkhvCFz_hnrBXT-Yw)
 + [数据结构之图的遍历](https://mp.weixin.qq.com/s/OMeCe4deq1dNF8WMAruLog)
++ [数据结构之B树删除关键字](https://mp.weixin.qq.com/s/RhWfseXoi_szAWHKRQikGQ)
++ [算法内功修炼-二叉树的坡度](https://mp.weixin.qq.com/s/vwI4Y44NDvcEvMH2e4xRnQ)
++ [算法 - 最长回文子串（马拉车）](https://mp.weixin.qq.com/s/iZhNg4V6SzSDU2Veiwy49A)
++ [【数据结构】线索二叉树](https://mp.weixin.qq.com/s/fj-6LjmjtRakXoh7UgvGZw)
 
 ## Tree
 

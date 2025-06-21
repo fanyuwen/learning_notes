@@ -727,6 +727,7 @@
 + [理解几种不同语言的“协程”](https://mp.weixin.qq.com/s/2YXRYtx9l6z4PqEEZet9Xg)
 + [高质量编写非功能性代码的一些实践](https://my.oschina.net/u/4662964/blog/17531289)
 + [代码好坏的终极标准：你真的懂了吗？](https://mp.weixin.qq.com/s/4nEfSh_J5JC4FSt82VyiNA)
++ [UML基本概念：构造块、公共机制与规则](https://mp.weixin.qq.com/s/DP5ZwPLXRoGbU4rxNjsmmg)
 
 ## 接口相关
 
@@ -781,6 +782,7 @@
 + [有了JSON，为什么还要HJSON？](https://mp.weixin.qq.com/s/fjuIX1Z6vKM53rm6Nopwlw)
 + [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/dEwq74Adlv9OyhWweVeaMA)
 + [四大JSON框架对比：选对工具，开发更轻松](https://mp.weixin.qq.com/s/QG6elQKgBp_mY2jTapzaoQ)
++ [理解 JSON：数据结构与访问基础指南](https://mp.weixin.qq.com/s/2p3kr2GC-vfdH-moEx6HqQ)
 
 ### 正则表达式
 

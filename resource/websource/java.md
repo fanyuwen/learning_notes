@@ -857,6 +857,7 @@
 + [JUC锁原理之AQS原理&CLH同步队列](https://mp.weixin.qq.com/s/zNQ1CikABHp7wSvGn8pKFw)
 + [Synchronized是怎么实现的？](https://mp.weixin.qq.com/s/n24S3azeI6SaBSWEt20ybA)
 + [P7大佬带你彻底搞懂AQS：JUC并发工具包的基石与源码剖析！](https://mp.weixin.qq.com/s/stuqKxofVi41FwPjhv7o0g)
++ [深入理解 Synchronized 锁机制，搞懂 Java 并发的“镇宅之宝”！](https://mp.weixin.qq.com/s/oxOyeasW0bcBokXtCYdzYg)
 
 #### volatile
 

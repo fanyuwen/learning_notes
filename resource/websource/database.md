@@ -852,6 +852,7 @@
 + [大数据量下Redis分片的5种策略](https://mp.weixin.qq.com/s/i6IdPUV_xiXF5ifkpAk3kg)
 + [零基础玩转Redis：缓存设计+高并发实战，DBA必备新技能！](https://mp.weixin.qq.com/s/orPcZbDykPXNVxlMfY1sLw)
 + [Redis缓存穿透的6种防范策略](https://mp.weixin.qq.com/s/d55p0t21TjrPAORK1ozEyg)
++ [Redis中篇--应用](https://mp.weixin.qq.com/s/tcUQeX1PFOrW_ifSBytefQ)
 
 #### 原理
 

@@ -131,6 +131,9 @@
 + [Python 函数式编程：优雅与高效的完美结合](https://mp.weixin.qq.com/s/2Eku9P7QPhvzB2RTfYAjGA)
 + [Python常用的内置函数](https://mp.weixin.qq.com/s/_IYwbHAXwYSDdMREiRCmGA)
 + [【Python基础】Python中的Lambda表达式](https://mp.weixin.qq.com/s/uJQLhuFqMUQx86WI7UWwuQ)
++ [告别 for 循环！Python 数据处理就该这么写：map 和 reduce 深度解析](https://mp.weixin.qq.com/s/PUjO6h7U2v6jy4njf05XJg)
++ [Python中的函数式编程](https://mp.weixin.qq.com/s/bXgMR2mvh0N-S4MAhcBW2g)
++ [写给前端的 Python 教程七-函数](https://mp.weixin.qq.com/s/cpetl_tHbhkqMzB1I4At-A)
 
 ### 面向对象
 
@@ -164,6 +167,7 @@
 + [python教学返场——自定义类的使用](https://mp.weixin.qq.com/s/vNcwxn_ZDUi_mIW7uNK7Ng)
 + [Python编程精进：继承详解](https://mp.weixin.qq.com/s/NJXKmyZ-ubqGrGzMw3TKxw)
 + [Python系列教程244——继承](https://mp.weixin.qq.com/s/-RYK2QMzlBB5fMf05sifKg)
++ [python竟然也存在着this，这个this该如何使用？](https://mp.weixin.qq.com/s/tqF6InKRedDu875OXEuDdg)
 
 ### 核心库/模块
 

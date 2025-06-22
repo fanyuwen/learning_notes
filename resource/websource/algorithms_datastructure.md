@@ -71,13 +71,12 @@
 + [【你问我答】第一期：冒泡排序、对拍和距离判断](https://mp.weixin.qq.com/s/jlxb0G-YGiHudol038H_vA)
 + [数据结构之图](https://mp.weixin.qq.com/s/mg0C8ZkhvCFz_hnrBXT-Yw)
 + [数据结构之图的遍历](https://mp.weixin.qq.com/s/OMeCe4deq1dNF8WMAruLog)
-+ [数据结构之B树删除关键字](https://mp.weixin.qq.com/s/RhWfseXoi_szAWHKRQikGQ)
-+ [算法内功修炼-二叉树的坡度](https://mp.weixin.qq.com/s/vwI4Y44NDvcEvMH2e4xRnQ)
 + [算法 - 最长回文子串（马拉车）](https://mp.weixin.qq.com/s/iZhNg4V6SzSDU2Veiwy49A)
-+ [【数据结构】线索二叉树](https://mp.weixin.qq.com/s/fj-6LjmjtRakXoh7UgvGZw)
 + [算法与数据结构：栈的结构定义和操作及其实现](https://mp.weixin.qq.com/s/xgWQdL9wJO2eYpkTDvVLKg)
 + [算法内功修炼-合并两个有序数组](https://mp.weixin.qq.com/s/ddbBciMNE8vJSp-fYntJIw)
 + [算法 - 迷宫连通性](https://mp.weixin.qq.com/s/hF0V2OuQXLodR1Arzs_12Q)
++ [算法 - 地图两点最优路径](https://mp.weixin.qq.com/s/_-dTLb0QrRg13Wb5QWAUQw)
++ [数据结构之图的最短路径-Dijkstra算法](https://mp.weixin.qq.com/s/09mVP1CuQQmk6m9mtu63Iw)
 
 ## Tree
 
@@ -108,6 +107,10 @@
 + [面试官最爱问的‘红黑树’，它到底凭什么这么横？](https://mp.weixin.qq.com/s/TDb48_IA1qUrJwNGMlyEjw)
 + [数据结构之B+树删除关键字](https://mp.weixin.qq.com/s/OQXoBRvotR7_uGHTKK2ZqQ)
 + [数据结构之图的最小生成树](https://mp.weixin.qq.com/s/odMg3GcgF3awV5ea2ZD4ig)
++ [算法内功修炼-二叉树的坡度](https://mp.weixin.qq.com/s/vwI4Y44NDvcEvMH2e4xRnQ)
++ [数据结构之B树删除关键字](https://mp.weixin.qq.com/s/RhWfseXoi_szAWHKRQikGQ)
++ [【数据结构】线索二叉树](https://mp.weixin.qq.com/s/fj-6LjmjtRakXoh7UgvGZw)
++ [二叉树、红黑树、B-tree、B+tree](https://mp.weixin.qq.com/s/_WSe_EogNv2283HU3X8iUA)
 
 ## 排序算法
 
@@ -116,6 +119,7 @@
 + [详解冒泡排序算法](https://mp.weixin.qq.com/s/xrCv-vifCcduit8XjBbZpg)
 + [深度解析快速排序算法：原理、优化与实战指南](https://mp.weixin.qq.com/s/2S2UFFsxRZCXdDaF4s1Q5A)
 + [从代码看排序：冒泡排序与插入排序](https://mp.weixin.qq.com/s/kKX0AnrBBDi0Z5ZHogAjug)
++ [数据结构之拓扑排序](https://mp.weixin.qq.com/s/2Ej6u7fLcKUZUCNBXVw4pA)
 
 # 密码学
 

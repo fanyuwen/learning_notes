@@ -60,6 +60,7 @@
 + [C++面向对象模型初步分析](https://mp.weixin.qq.com/s/ZaeXxMmKWgXHAp461bOSSg)
 + [C++容器之迭代器](https://mp.weixin.qq.com/s/juS0p_W2E9erjkOIpubxTA)
 + [C++对象模型](https://mp.weixin.qq.com/s/hqVURXbNYifHYFQfOJRVLw)
++ [C++函数模板基础](https://mp.weixin.qq.com/s/OEjsxqRUpZX8PNA9fU3W0Q)
 + [C++ std::vector的底层原理与扩容机制](https://mp.weixin.qq.com/s/3ipfWhyw5Exm8OkinkW_ew)
 + [std::locale::facet介绍](https://mp.weixin.qq.com/s/XXD4ggKGwTrmQsk6cihrWg)
 + [C++ 编译期与运行期的本质区别，彻底讲透了](https://mp.weixin.qq.com/s/l8CetXv6z1xLPJRGG4aHmA)
@@ -125,6 +126,8 @@
 + [跟我学c++中级篇——理解类型推导和c++不同版本的支持](https://mp.weixin.qq.com/s/kBRSYBKdorfGXf_0DuFaGw)
 + [跟我学c++中级篇——多线程中的文件处理](https://mp.weixin.qq.com/s/hhLJ0kqGul8SxUI779n-Iw)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
++ [百万C++开发者进阶：掌握C++17这15个特性，项目性能实现跃迁！](https://mp.weixin.qq.com/s/zVNEA6w6St6q_HtOcyI51A)
++ [C++内存管理魔盒：20分钟逆向拆解new/delete终极性能法则](https://mp.weixin.qq.com/s/31V2fsNqqbpZkBd6mVzBuA)
 + [【C++】使用gdb在命令行下调试C++程序（一）](https://mp.weixin.qq.com/s/lhvAjRoI94DV-VbGowavWg)
 + [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
 + [【C++】new和malloc到底哪里不一样](https://mp.weixin.qq.com/s/c8mTFiT3SKmkT-5wxXvy7A)
@@ -241,6 +244,7 @@
 + [推荐一个 C++ 调试神器](https://mp.weixin.qq.com/s/MG9mSt3kVe3YY1M06ea05A)
 + [别再写“脆皮代码”了！程序员都在用的C++质量提升工具盘点](https://mp.weixin.qq.com/s/RvXbFJjx79jtXlBQZlWJOA)
 + [C++共享内存与虚函数问题](https://mp.weixin.qq.com/s/IhdQBQ2p9T-1wGlwsZVtJQ)
++ [一线实战80万年薪总结整理，必会27个C++新特性(11/14/17/20)](https://mp.weixin.qq.com/s/cRQRfQ0VabW38shcMhrvgA)
 
 ### 资讯
 
@@ -281,6 +285,7 @@
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)
 + [一文讲透C语言内存管理，从入门到实战进阶。](https://mp.weixin.qq.com/s/u0Obhganh3PGBEhhCcmE3A)
++ [C语言中include的冷知识——聊聊大家熟悉又陌生的include](https://mp.weixin.qq.com/s/4e8_0SK4mrInJq1dEy4lFQ)
 + [为什么C语言不淘汰 strcpy？从三个函数看程序员的 “自由与风险”](https://mp.weixin.qq.com/s/LmfVtbfrpgke-T8k6fLHOA)
 + [C语言：一文说清什么是指针和数组！！！](https://mp.weixin.qq.com/s/qSe46WQlbbJkLrgJCRvptg)
 + [C语言编程之指针函数和函数指针的区别](https://mp.weixin.qq.com/s/uFpVSy9s6hB8VNiHbjljGg)

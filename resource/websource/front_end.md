@@ -202,6 +202,7 @@
 + [能运行，不代表它是对的：5 个潜伏在正常功能下的 JavaScript 错误](https://mp.weixin.qq.com/s/w8ujky0Cb7KAaSFFqsXG8Q)
 + [告别 substr() 和 substring()？更可靠的 JavaScript 字符串截取方法](https://mp.weixin.qq.com/s/Buw-vk2Q6tj69-N7lV22eg)
 + [async/await 原理深度解析：JavaScript异步编程底层工作机制全揭秘](https://mp.weixin.qq.com/s/GDpDydv4HLvRhVfi7pA2ug)
++ [JavaScript 模块导入全解析：从 ES6 原理到实战应用指南](https://mp.weixin.qq.com/s/R5xjibk9YL97AuGzVZwH8w)
 
 # 框架
 

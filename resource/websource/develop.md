@@ -129,6 +129,7 @@
 + [深入浅出 DDD：从理论到落地的关键](https://my.oschina.net/u/4939618/blog/18449959)
 + [DDD领域驱动设计实战：如何用DDD重构一个复杂的电商系统？阿里技术专家的实践分享。](https://mp.weixin.qq.com/s/OH03xojZg78AcUfjTnBHZQ)
 + [你的 DDD 还在纸上谈兵？是时候落地了！](https://mp.weixin.qq.com/s/YYDagnkugBiCQQQ5Rty3XQ)
++ [P8架构师揭秘：DDD领域驱动设计在复杂业务系统中的最佳实践！](https://mp.weixin.qq.com/s/jUEk3TjCxjXJIV4LT3QT8A)
 
 ## 微服务
 

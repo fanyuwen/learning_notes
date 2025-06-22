@@ -86,6 +86,8 @@
 + [Java变量与常量——final关键字的正确使用姿势](https://mp.weixin.qq.com/s/DfNtQeUlGGB8g-j9YpVTFw)
 + [深入理解Java中的final关键字](https://mp.weixin.qq.com/s/NuqCgWYwI4xuyCAlYuZWgQ)
 + [Java内部类的私有构造器难题：合成类如何巧妙解决？](https://mp.weixin.qq.com/s/tY8WHhdlKR9YG4-SYiBQzw)
++ [Java循环精讲——for/while/do-while及循环优化技巧](https://mp.weixin.qq.com/s/Q1oK4z3lBplMP-VdPRtByg)
++ [四个方面解决Java空指针](https://mp.weixin.qq.com/s/NCtk1RBGvJscgZHlB_hmMw)
 
 ### 方法/函数
 
@@ -616,6 +618,7 @@
 + [Java反射的20个使用经验](https://mp.weixin.qq.com/s/S-iUV55dyDgmmv2Tk5NVRQ)
 + [Java 中的方法句柄与变量句柄：高性能反射的现代替代方案](https://mp.weixin.qq.com/s/ot5EEMcE7Th5l3IzDhGWqQ)
 + [Java Class类到底是啥？看完这篇“娱乐圈内幕”，面试官都夸你懂行！](https://mp.weixin.qq.com/s/x6kvprmtH4ElWb_gRmGZQQ)
++ [深入理解Java反射机制：动态编程的利器，框架源码阅读必备技能！](https://mp.weixin.qq.com/s/4moOwwlcCQyxJWNt7NW75w)
 
 ### 并发/多线程
 
@@ -782,6 +785,7 @@
 + [你了解Java线程池原理吗？](https://mp.weixin.qq.com/s/46JSmc8cVv0sT3AOInUEQw)
 + [线程池中execute和submit的区别？](https://mp.weixin.qq.com/s/hIxTp6Q3-UF71pVVYXFZEA)
 + [别再瞎用线程池了！ThreadPoolExecutor核心参数与拒绝策略P7级深度优化！](https://mp.weixin.qq.com/s/hGzSjWbrJyJ1rv1gvvwG6w)
++ [java线程池使用篇](https://mp.weixin.qq.com/s/kH3YilYDqi4U3xJD6TD93A)
 
 #### 锁
 
@@ -1211,6 +1215,7 @@
 + [Java8 Optional 的一些高级运用！](https://mp.weixin.qq.com/s/Ohy0PlLHXq0_AMkHvMWJjw)
 + [Optional 到底有没有用？看完源码我才知道它设计的精妙！](https://mp.weixin.qq.com/s/kWOzzFa5vOz_L_MqfTr-Xw)
 + [Java 里的 Optional，不是 Option+Alt+Del！](https://mp.weixin.qq.com/s/2sHd-8RGty2v0qfE-1N5YA)
++ [Java 8 Optional 高级用法：深度探索与实践](https://mp.weixin.qq.com/s/ltLvBdJ0HiLJkIi7R3YnYQ)
 
 ### Comparator
 
@@ -1536,6 +1541,10 @@
 ## 定时任务
 
 + [Java定时任务](https://mp.weixin.qq.com/s/lbJwRH64ppZoM5cBjZSytA)
+
+## MCP
+
++ [实战：基于Spring ai mcp使用JAVA语言编写MCP server服务端代码](https://mp.weixin.qq.com/s/Zf8Nu3Bjw3520Rq0VgCQ0w)
 
 # 第三方库
 
@@ -2175,6 +2184,7 @@
 + [个性化认证！Spring Security 轻松扩展登录字段](https://mp.weixin.qq.com/s/BeKrgF1u6Al9JqgzI-IU7Q)
 + [全方位保护！Spring Security 过滤器为你的应用筑起安全防线--1](https://mp.weixin.qq.com/s/NB4eigfUHAm9HMmtCj8fGw)
 + [Spring Security](https://mp.weixin.qq.com/s/eRFz3LV8WKHShBNSIC9clg)
++ [Spring Security核心概念讲解](https://mp.weixin.qq.com/s/7kvpok7PuAPRHvsmPooRPQ)
 
 ### data
 
@@ -2642,6 +2652,7 @@
 + [惊呆了！Spring Boot 通过这7种策略实现注入](https://mp.weixin.qq.com/s/hLG1AsXe2nvFxdNdWasxuQ)
 + [15个Spring Boot常见编程误区解析与代码优化建议](https://mp.weixin.qq.com/s/HzLQoZVQDePASOblbh9jtg)
 + [深度剖析：Spring Boot 的 jar 直接运行背后的技术真相](https://mp.weixin.qq.com/s/MR9uf_wqiGk8kDLinYSnZQ)
++ [SpringBoot的4种Bean注入冲突解决方案](https://mp.weixin.qq.com/s/EUApbmyG76X5fhptrmRD5w)
 
 #### 版本特性
 
@@ -3106,6 +3117,7 @@
 + [Spring Boot + Multipart 文件上传：为什么你的应用在 10MB 后会失败](https://mp.weixin.qq.com/s/LQV2K-x9w8o5Ka32MDvz2w)
 + [SpringBoot的5种请求映射优化方式](https://mp.weixin.qq.com/s/9BstwSahbdZ40xPlvo2zYw)
 + [面试官再问“Spring Boot怎么传G级大文件”，直接把这篇分块实现甩他脸上，让他闭嘴惊艳！](https://mp.weixin.qq.com/s/5wjVDUHculVoXiq1XsmWrQ)
++ [优雅！Spring Boot 处理动态请求body，太强了](https://mp.weixin.qq.com/s/j9UQ4gVytN-mT0y4BQa7Tw)
 
 ##### VUE
 
@@ -3323,6 +3335,7 @@
 + [Spring Boot多级缓存实战：扛住百万QPS的缓存架构设计](https://mp.weixin.qq.com/s/-2_XXaLcntoZwQrvjc2jAQ)
 + [SpringBoot与Caffeine整合，解决微服务间高频调用的性能瓶颈](https://mp.weixin.qq.com/s/v02DFTKkVQx5vEoSJs_OcQ)
 + [SpringBoot中2种热点KEY缓存优化策略](https://mp.weixin.qq.com/s/GjqEV6UCtB4SpOlAK_6cNw)
++ [Spring Boot 的 3 种二级缓存落地方式](https://mp.weixin.qq.com/s/6Adt9TE_zBgBLRTBCe6Bzw)
 
 #### AOP
 
@@ -3434,6 +3447,7 @@
 + [快用 Spring Boot + 策略模式给你的代码“整容”，同事看完都惊呆了！](https://mp.weixin.qq.com/s/qqC0mCaDG5GHWf3JaYayTw)
 + [Spring Boot动态策略模式详解，彻底告别编译部署](https://mp.weixin.qq.com/s/7RUfyWbZMYI1I3rYCsAJgA)
 + [【代码整洁术】再见，if-else！你好，Spring Boot 工厂模式](https://mp.weixin.qq.com/s/8nnCVo35O8DOaEnUhTFBZA)
++ [Java装饰器模式：每个Spring Boot开发者都必须掌握的设计模式](https://mp.weixin.qq.com/s/8XPnFH6cIVlqD53r1DqkvA)
 
 #### message
 

@@ -89,6 +89,7 @@
 + [35岁再去学程序员靠谱吗？](https://mp.weixin.qq.com/s/R9KBqN0Hne_LxX1I1xBCBw)
 + [为什么写了多年代码，还是没形成自己的工程思维？](https://mp.weixin.qq.com/s/kpzDuIg_6I5eJO4YQZ3HIw)
 + [发现一个现象，很多35岁以上技术型人才、45岁以上中高级管理人员，一旦失业后，再就业就比较困难，到底问题出在哪？](https://mp.weixin.qq.com/s/PmYc1fd7XJaTck5mfGy_sg)
++ [豪掷 235 亿大裁员，程序员为什么不愿意在传统车企干？](https://mp.weixin.qq.com/s/t_X6obHETlAPBGzRyjXcdQ)
 
 # 个人成长
 

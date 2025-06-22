@@ -131,6 +131,7 @@
 + [Kafka消息是否有序？怎样保证有序？](https://mp.weixin.qq.com/s/bUE6VNVeFCrfMaicPUURig)
 + [高并发场景，如何解决Kafka消费者慢的问题？](https://mp.weixin.qq.com/s/LyzYi5IE1s2xIPpCBGPMNw)
 + [Kafka生产者如何避免消息重复？深入解析幂等性与事务机制](https://mp.weixin.qq.com/s/DBGmPUG1BLhbfucOkHK2aA)
++ [Kafka底层原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/spqLIl5wx9VMEXVNdkYI4A)
 
 # ROCKETMQ
 

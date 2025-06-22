@@ -79,6 +79,7 @@
 + [Python 错误处理：从 try...except 小白到异常处理专家](https://mp.weixin.qq.com/s/DsZsSMei7yq9oP0j3rWgwg)
 + [这5个python基础语法糖，能让你的代码短一半却更难读懂](https://mp.weixin.qq.com/s/4bW5WZGLfDF2bdO4RO0Ilg)
 + [Python中的数据类型操作](https://mp.weixin.qq.com/s/9P4jw6nyVqnw8lqHAw_OJA)
++ [必须要掌握的几种Python数据结构](https://mp.weixin.qq.com/s/lBYbdx3lp6vJWGH0vEGl4g)
 
 ### 函数/方法
 
@@ -567,6 +568,8 @@
 + [Python学习笔记：格式化输出的两种方法](https://mp.weixin.qq.com/s/efZCeS6mt5nbcxF7fIDL_w)
 + [pytest 测试框架新版本 8.4 的重大变更](https://mp.weixin.qq.com/s/K_3caSmtnFDXHTE3PLniGg)
 + [Python 15个常用脚本](https://mp.weixin.qq.com/s/1xgM3MGClCV0l6HvmzFMVg)
++ [Python日志管理利器：打造你的专属日志系统](https://mp.weixin.qq.com/s/WHyRHqngIB5EBdXX2nmN4w)
++ [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
 
 ## 新特性
 

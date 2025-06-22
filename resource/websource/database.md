@@ -606,6 +606,7 @@
 + [21个MySQL索引优化实战技巧](https://mp.weixin.qq.com/s/W4H2mLj_vpyvCOrczAItKg)
 + [mysql索引](https://mp.weixin.qq.com/s/ZJZ7JKsQlCfIc9qigUjMFQ)
 + [mysql索引优化](https://mp.weixin.qq.com/s/bqaWYOAVXM_c2L_W-DCGXw)
++ [MySQL索引原理](https://mp.weixin.qq.com/s/0SD3ZzGV3N4udXHijgFlyQ)
 
 ### PostgreSQL
 

@@ -77,6 +77,8 @@
 + [算法 - 迷宫连通性](https://mp.weixin.qq.com/s/hF0V2OuQXLodR1Arzs_12Q)
 + [算法 - 地图两点最优路径](https://mp.weixin.qq.com/s/_-dTLb0QrRg13Wb5QWAUQw)
 + [数据结构之图的最短路径-Dijkstra算法](https://mp.weixin.qq.com/s/09mVP1CuQQmk6m9mtu63Iw)
++ [从传奇背包谈起：数组，才是最稳的数据结构！](https://mp.weixin.qq.com/s/FMH9-WUow-YhfrFKRU_PkQ)
++ [数据结构之关键路径](https://mp.weixin.qq.com/s/T4J21MCzUTPWqkOSMaoRhQ)
 
 ## Tree
 

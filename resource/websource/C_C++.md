@@ -115,6 +115,7 @@
 + [C++ | 异步接口 promise, future, packaged_task, async.](https://mp.weixin.qq.com/s/FvVWytcscu5M2WaUYbaR2w)
 + [详解 to_string 与 stoi 函数](https://mp.weixin.qq.com/s/hgB_02ZGLsRhltw58EuFZQ)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
++ [c++26新功能—饱和算术](https://mp.weixin.qq.com/s/expSPWzKBLJG2A-V7vOwNw)
 + [C++ 的三法则和五法则](https://mp.weixin.qq.com/s/5yzAX0TnVZ3OYqsAjWu7DA)
 + [线程飞起来！现代C++高效并发实战秘籍](https://mp.weixin.qq.com/s/Ahlhtv7wSPqGPSiFbmcj0A)
 + [C++ 进阶：深入理解虚函数、继承与多态](https://mp.weixin.qq.com/s/9NPOrykrLNiZTScUeUSETg)

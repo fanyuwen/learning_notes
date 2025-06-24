@@ -233,6 +233,7 @@
 + [JDK21有没有什么稳定、简单又强势的特性？](https://mp.weixin.qq.com/s/aoFo74SSXoaEIywu-pX-Ow)
 + [【转】高并发场景下的 HttpClient 优化方案，QPS 大大提升！](https://mp.weixin.qq.com/s/HXJA9CZ4Hi2xyduXhx-ySw)
 + [深入剖析Java中的Vector类：特性、源码与应用](https://mp.weixin.qq.com/s/GsQqWUB1sp_T_ylNMRYsFA)
++ [ThreadLocal 不香了？ScopedValue才是王道？](https://mp.weixin.qq.com/s/gbjzUQMu_T_0aQHTHBF-DA)
 
 ## 高级用法
 
@@ -564,6 +565,7 @@
 + [Stream 就像水管工，Function 就像工具人，Optional 是 AI 室友](https://mp.weixin.qq.com/s/ma-eV3AYwJfqcJcY0l8JWg)
 + [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/nM1Xxsg8iuwJFsOfqhvupw)
 + [面试官：equals和Objects.equals区别](https://mp.weixin.qq.com/s/vZf8bTmK5sqGSPSNBV1c0g)
++ [掌握 Java 队列：高并发时代的必备技能](https://mp.weixin.qq.com/s/_bH_lXIVe3yEgJOZs7nBXw)
 
 ### 序列化
 
@@ -1024,6 +1026,7 @@
 + [面试官：Java应用的启动过程你了解吗？类是如何加载的？](https://mp.weixin.qq.com/s/clSUB43Kot8RpFhnhtrftA)
 + [深度解析Java类加载全过程](https://mp.weixin.qq.com/s/l-CX-K6UbXvIqcudcPjHqA)
 + [JVM通关指南（五）类加载器 - 了解Java类是如何加载](https://mp.weixin.qq.com/s/tbMp2b_UOqc2lvOTgpT29g)
++ [Java中什么是类加载？类加载的过程？](https://mp.weixin.qq.com/s/0WOqUgt-2k2wzHsaYKwFJQ)
 
 ### GC
 
@@ -1075,6 +1078,7 @@
 + [基于TTL 解决线程池中 ThreadLocal 线程无法共享的问题](https://mp.weixin.qq.com/s/nOAOspvGecjj2evX1Xtq_g)
 + [面试官：小伙子，听说你看过 ThreadLocal 源码？(万字图文深度解析)](https://mp.weixin.qq.com/s/WKaUzChzj2PIcqiw05jcIA)
 + [InheritableThreadLocal 是如何实现的父子线程局部变量的传递](https://mp.weixin.qq.com/s/UPG0UqsrxYjPRLT0oQVBIw)
++ [Java 中的 ProcessBuilder：让你的程序掌控系统命令](https://mp.weixin.qq.com/s/hHEMEDcRs3Dgj3kMxGw0Kg)
 
 ## math库
 
@@ -1147,6 +1151,7 @@
 + [为什么不再推荐使用 Date 类？](https://mp.weixin.qq.com/s/bVwLWD6IUMGYtgG3yenHwQ)
 + [Java日期格式化大坑：SimpleDateFormat为何会让你的日期"穿越"？](https://mp.weixin.qq.com/s/39v7hAlKGaBYZT5nCPnXUQ)
 + [解锁 Java 日期时间转换的正确姿势](https://mp.weixin.qq.com/s/Xo_qTB46gCLf12bpINNydA)
++ [Java日期与时间API：LocalDate、LocalTime的操作](https://mp.weixin.qq.com/s/7T6BQzL6gUqwOhoouigDTw)
 
 ### Collection/Map
 
@@ -1196,6 +1201,7 @@
 + [Map集合常用基础知识点，你掌握了吗？](https://mp.weixin.qq.com/s/j5K-lj6YCZULTUYUWQ_eyw)
 + [吊打面试官！10个HashMap源码级细节，99%的Java程序员都不知道！](https://mp.weixin.qq.com/s/3Vjz3_cl4qzl7eX5XVDEsQ)
 + [为什么多线程操作HashMap会导致书本神秘失踪？](https://mp.weixin.qq.com/s/lVyG1_CpJ0J_DvHtPJlQog)
++ [HashMap不安全？ConcurrentHashMap也有坑？Java Map使用全解析](https://mp.weixin.qq.com/s/yyWZg34RLRUlsg0VrF9XkA)
 
 ### Optional
 
@@ -1266,6 +1272,7 @@
 + [CompletableFuture回调函数运用](https://mp.weixin.qq.com/s/Vstk-St9OcnbqblEr-1P8Q)
 + [【Java】Java8中实现类似CompletableFutrue#orTimeout的功能](https://mp.weixin.qq.com/s/Pp9kuxj0kWAUHYv6OQCBxQ)
 + [一些 CompletableFuture 的高级用法。](https://mp.weixin.qq.com/s/sxvGKGVuht9BpNRJmTVQMw)
++ [你没踩过CompletableFuture这6个坑，就不算会用。3000字实战避坑！](https://mp.weixin.qq.com/s/rsCFZG056PBOUrg9B_M_GQ)
 
 ### ThreadPool
 
@@ -1317,6 +1324,7 @@
 + [面试官狂喜！我用这 5 分钟讲清了 ThreadPoolExecutor 饱和策略，逆袭上岸](https://mp.weixin.qq.com/s/7lcS_5N3hsyjvsqSBxa9qA)
 + [Java线程池 - 深入解析ThreadPoolExecutor的底层原理（源码全解析一篇就够）](https://mp.weixin.qq.com/s/MXKz7Mulm8pSVMwsD1fabw)
 + [【面试+实战】ScheduledThreadPoolExecutor 全解析，收藏即用！](https://mp.weixin.qq.com/s/ZPV8R8Cpl8XzlWnlV3S84w)
++ [Java线程池参数设置：corePoolSize、maxPoolSize该如何合理配置？阿里P9的实践经验](https://mp.weixin.qq.com/s/OJkM3LKSlL_JCzYTBza5hw)
 
 ### ThreadLocal
 
@@ -1346,6 +1354,7 @@
 + [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
 + [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
 + [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
++ [Java ThreadLocal 应用指南：从用户会话到数据库连接的线程安全实践](https://mp.weixin.qq.com/s/VAmcXlka1AeGAIgnMkpZTw)
 
 ### Lock
 
@@ -1507,6 +1516,7 @@
 + [关于java中动态加载字节码的多种方法](https://mp.weixin.qq.com/s/jKFqCB-P-G3fHpYBt2PsZw)
 + [Java Agent字节码插桩技术：SkyWalking如何实现无侵入链路追踪？](https://mp.weixin.qq.com/s/DcIWJdhD0tN7TXaVHKuang)
 + [Java安全模型讲解（沙箱机制）——SecurityManager安全管理器、AccessController访问控制器解析](https://mp.weixin.qq.com/s/hczvWCjADdz4HOpaHMh_3A)
++ [使用 Java 编译器 API 进行 Java 代码编译](https://mp.weixin.qq.com/s/lZvghOjaqv2xpCXv4gZFxw)
 
 # 包管理工具
 
@@ -2654,6 +2664,10 @@
 + [15个Spring Boot常见编程误区解析与代码优化建议](https://mp.weixin.qq.com/s/HzLQoZVQDePASOblbh9jtg)
 + [深度剖析：Spring Boot 的 jar 直接运行背后的技术真相](https://mp.weixin.qq.com/s/MR9uf_wqiGk8kDLinYSnZQ)
 + [SpringBoot的4种Bean注入冲突解决方案](https://mp.weixin.qq.com/s/EUApbmyG76X5fhptrmRD5w)
++ [提升Spring Boot应用质量：从5个常见开发错误中吸取教训](https://mp.weixin.qq.com/s/GzSw55LxbaORbtvc02ho8w)
++ [让 SpringBoot 飞起来！15条性能优化秘籍，轻松应对百万并发](https://mp.weixin.qq.com/s/cKMFT62Rl9yYhu0gE7OwLg)
++ [开发必备！Spring Boot 项目中 resources 文件读取的 9 大方案详解](https://mp.weixin.qq.com/s/oC4kgwTUc0QCNfEb_VBiEQ)
++ [太强了！Spring Boot 中 12 种获取Bean的神操作，最后一种你想不到](https://mp.weixin.qq.com/s/xlR4MXNkab5nxaE8xscqaw)
 
 #### 版本特性
 

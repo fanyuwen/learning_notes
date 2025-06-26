@@ -233,6 +233,7 @@
 + [JDK21有没有什么稳定、简单又强势的特性？](https://mp.weixin.qq.com/s/aoFo74SSXoaEIywu-pX-Ow)
 + [【转】高并发场景下的 HttpClient 优化方案，QPS 大大提升！](https://mp.weixin.qq.com/s/HXJA9CZ4Hi2xyduXhx-ySw)
 + [深入剖析Java中的Vector类：特性、源码与应用](https://mp.weixin.qq.com/s/GsQqWUB1sp_T_ylNMRYsFA)
++ [JDK 高版本特性总结与 ZGC 实践](https://my.oschina.net/meituantech/blog/18627969)
 
 ## 高级用法
 
@@ -306,6 +307,7 @@
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [java常用的设计模式与算法](https://mp.weixin.qq.com/s/NykahklKTXWBjB64pNpzew)
 + [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
++ [在Java中如何写一个正确的单例模式](https://mp.weixin.qq.com/s/e7TleAQP9RWsnQo_3Ha6yA)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
@@ -1002,6 +1004,7 @@
 + [如何解决 JVM OOM 和内存泄漏问题？事前、事中、事后分别怎么做？](https://mp.weixin.qq.com/s/91Tza1Y1-u4VwnDmrmjMaw)
 + [JVM内存结构 & 参数详解](https://mp.weixin.qq.com/s/MnBV5gLyIvQK940vd7rQlw)
 + [线上OOM问题排查实战：技术leader手把手教你分析dump文件，快速定位内存泄漏！](https://mp.weixin.qq.com/s/LkO9thXBPxtfxrYqKQSnPw)
++ [JVM内存结构33连问](https://mp.weixin.qq.com/s/7o8Iqgjvd0eV2fvp0f4wSA)
 
 ### 类加载
 
@@ -1645,6 +1648,7 @@
 
 + [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
 + [强大！JSON解析神器，再复杂也不怕了](https://mp.weixin.qq.com/s/CwUP-uGVe9FTFTAqDX2gaQ)
++ [Java中动态JSON的一种解决方案](https://mp.weixin.qq.com/s/8Kb2vZBJtyoT-uHRoHc47g)
 
 ## logger
 
@@ -2654,6 +2658,7 @@
 + [15个Spring Boot常见编程误区解析与代码优化建议](https://mp.weixin.qq.com/s/HzLQoZVQDePASOblbh9jtg)
 + [深度剖析：Spring Boot 的 jar 直接运行背后的技术真相](https://mp.weixin.qq.com/s/MR9uf_wqiGk8kDLinYSnZQ)
 + [SpringBoot的4种Bean注入冲突解决方案](https://mp.weixin.qq.com/s/EUApbmyG76X5fhptrmRD5w)
++ [面试官：SpringBoot自动装配的原理你能说出来吗？](https://mp.weixin.qq.com/s/9z0p4qPuw_pq6d3ezprlEg)
 
 #### 版本特性
 

@@ -574,6 +574,7 @@
 + [Python 15个常用脚本](https://mp.weixin.qq.com/s/1xgM3MGClCV0l6HvmzFMVg)
 + [Python日志管理利器：打造你的专属日志系统](https://mp.weixin.qq.com/s/WHyRHqngIB5EBdXX2nmN4w)
 + [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
++ [Python编程精进：盘点10个优化技巧](https://mp.weixin.qq.com/s/F8i1oABYt4Qfiy1ydBt8IA)
 
 ## 新特性
 

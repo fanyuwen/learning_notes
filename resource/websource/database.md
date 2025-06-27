@@ -853,6 +853,7 @@
 + [零基础玩转Redis：缓存设计+高并发实战，DBA必备新技能！](https://mp.weixin.qq.com/s/orPcZbDykPXNVxlMfY1sLw)
 + [Redis缓存穿透的6种防范策略](https://mp.weixin.qq.com/s/d55p0t21TjrPAORK1ozEyg)
 + [Redis中篇--应用](https://mp.weixin.qq.com/s/tcUQeX1PFOrW_ifSBytefQ)
++ [基于 Redis 实现的轻量级延迟队列](https://mp.weixin.qq.com/s/10K7AA74yiiIYt6-pyM5TA)
 
 #### 原理
 
@@ -891,6 +892,7 @@
 + [阿里面试问：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/9VArWZz0pbu6-3tn9UKPtw)
 + [Redis中字符串类型是如何实现的](https://mp.weixin.qq.com/s/pKA1_kV6Hkynd_sbWAHtOA)
 + [Redis中hash数据类型的实现原理](https://mp.weixin.qq.com/s/JgfWTQ7vtBKZ7fdDBtKKvg)
++ [阿里面试：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/5EQ3bxl7Atg_6ac7JpnyqA)
 
 #### 分布式锁
 

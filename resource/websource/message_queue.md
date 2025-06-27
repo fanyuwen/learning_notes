@@ -194,3 +194,5 @@
 
 + [Bookie 存储架构源码剖析｜得物技术](https://my.oschina.net/u/5783135/blog/11194314)
 + [Apache Pulsar 技术系列 - 大规模延迟消息解析](https://my.oschina.net/u/4587289/blog/17773926)
++ [vivo Pulsar 万亿级消息处理实践（1）- 数据发送原理解析和性能调优](https://my.oschina.net/vivotech/blog/18619282)
++ [Apache Pulsar 技术系列 - 大规模延迟消息解析](https://my.oschina.net/u/4587289/blog/17773926)

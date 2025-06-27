@@ -28,6 +28,7 @@
 + [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 + [CMake超简单上手：从最简C代码到嵌入式项目管理](https://mp.weixin.qq.com/s/Fk6OD7sa-BmLg7VfKlHlCg)
 + [CMake之常用语法(宏)](https://mp.weixin.qq.com/s/7KYB6MkyaQyM3WTfiKWY5g)
++ [CMake引用自己开发第三方库](https://mp.weixin.qq.com/s/D0VVIWl0iE2B9z676SxQbw)
 
 ### 第三方技术
 
@@ -46,6 +47,7 @@
 + [C++入门学习07—— 二维数组](https://mp.weixin.qq.com/s/8ClIHV4TmCZ79iacjpTSjw)
 + [C++第3课：变量作用域](https://mp.weixin.qq.com/s/68_Jz1IWPrxbDkRsutGc3Q)
 + [C++语言--第003期：STL容器与算法大全《vector容器底层原理及源码分析》](https://mp.weixin.qq.com/s/iK6FIoFI_o1lSriTVMajCA)
++ [C++ 基础进阶必看！深度解锁 C++ 模板，开启高效编程新姿势](https://mp.weixin.qq.com/s/fp94NcCIEzzTdmUnWKu_3g)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
@@ -247,6 +249,7 @@
 + [别再写“脆皮代码”了！程序员都在用的C++质量提升工具盘点](https://mp.weixin.qq.com/s/RvXbFJjx79jtXlBQZlWJOA)
 + [C++共享内存与虚函数问题](https://mp.weixin.qq.com/s/IhdQBQ2p9T-1wGlwsZVtJQ)
 + [一线实战80万年薪总结整理，必会27个C++新特性(11/14/17/20)](https://mp.weixin.qq.com/s/cRQRfQ0VabW38shcMhrvgA)
++ [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
 
 ### 资讯
 
@@ -353,6 +356,7 @@
 + [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
 + [逆向基础 | 堆栈图](https://mp.weixin.qq.com/s/lmQuURW7VbLVf4l5UUiaXg)
 + [深入剖析malloc和free：堆内存管理的基石](https://mp.weixin.qq.com/s/XMUn1tflJlp3RNNjdOcbBQ)
++ [C语言中的内存拷贝与优化技术](https://mp.weixin.qq.com/s/Yx2YlLxwCJoruucA4nQ5_Q)
 + [函数指针c = (*pf)(a, b)](https://mp.weixin.qq.com/s/P5JWkkOpih49HjI75Mnryw)
 + [malloc也会死锁？](https://mp.weixin.qq.com/s/Km8zlLg-zmUyg7-OKGq3Bw)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
@@ -385,6 +389,7 @@
 + [嵌入式编程基础 | C语言的关键字有哪些，哪些词容易混淆为关键字？](https://mp.weixin.qq.com/s/vJowEt_Cha_zlUrrHx1HBg)
 + [C语言实现PID算法](https://mp.weixin.qq.com/s/JsJzdk_lUW4DJFrZlemmAA)
 + [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
++ [为什么数组的下标从 0 开始？](https://mp.weixin.qq.com/s/TLcJgjoYcf3xYCMgwLNfzw)
 
 ### 资讯
 

@@ -664,6 +664,7 @@
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
 + [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)
++ [Redis 是单线程模型？｜得物技术](https://my.oschina.net/u/5783135/blog/18628004)
 + [工作中redis常用的5种场景](https://mp.weixin.qq.com/s/zLoOCvDYobi86S10iYOjhw)
 + [京东内部Redis性能优化最佳实践](https://mp.weixin.qq.com/s/7YTucEFx-5ieCZcy0CJa3g)
 + [Redis持久化最全详解(图文全面总结)](https://mp.weixin.qq.com/s/vT0NVcR7WFAlRxgXD0j6-g)

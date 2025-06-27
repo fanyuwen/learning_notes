@@ -1352,6 +1352,7 @@
 + [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
 + [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
 + [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
++ [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
 
 ### Lock
 

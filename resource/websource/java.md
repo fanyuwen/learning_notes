@@ -329,6 +329,7 @@
 + [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
++ [Function + Java 策略模式构建易扩展开票架构](https://mp.weixin.qq.com/s/nkBF7h9Dacg3Elg6Gzponw)
 + [优雅应对复杂业务的利器：Java 策略模式](https://mp.weixin.qq.com/s/jtOJYgfgV0Ju7U-pQpGwNw)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
@@ -737,6 +738,8 @@
 + [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
 + [线程的单例模式](https://mp.weixin.qq.com/s/ytguHag3e80JAo0PYMj6UA)
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
++ [Java并发编程对象组合与封闭性实践指南](https://mp.weixin.qq.com/s/09X9ul9PxmNkNSZzbvNX2A)
++ [Java 异常处理难点突破：Lambda 表达式与并发编程的优雅解决方案](https://mp.weixin.qq.com/s/5geY3xjAhMwtbq6XWEtMLA)
 
 #### CAS
 
@@ -2301,6 +2304,7 @@
 + [Spring发布-订阅模式：解耦与异步通信的高效实现](https://mp.weixin.qq.com/s/f7X-marQbmxZZrlM1NRKMg)
 + [解锁SpringEvent：实现组件间的松耦合通信](https://mp.weixin.qq.com/s/TvTI6z9Zu97w4cLI_ZFrJw)
 + [小米二面：Spring 的事件监听机制是什么？](https://mp.weixin.qq.com/s/dLBNYEEgKTPxMLun0DNU3A)
++ [Spring事件驱动模型：ApplicationEvent与Listener的优雅解耦实践！](https://mp.weixin.qq.com/s/M8xMsmAir38LNACtC8Kccg)
 
 ### AOP
 
@@ -2659,6 +2663,7 @@
 + [深度剖析：Spring Boot 的 jar 直接运行背后的技术真相](https://mp.weixin.qq.com/s/MR9uf_wqiGk8kDLinYSnZQ)
 + [SpringBoot的4种Bean注入冲突解决方案](https://mp.weixin.qq.com/s/EUApbmyG76X5fhptrmRD5w)
 + [面试官：SpringBoot自动装配的原理你能说出来吗？](https://mp.weixin.qq.com/s/9z0p4qPuw_pq6d3ezprlEg)
++ [强！Spring Boot 通过服务定位干掉if-else](https://mp.weixin.qq.com/s/UOlha9RvGs9oAkLjzMmRGA)
 
 #### 版本特性
 

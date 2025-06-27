@@ -28,6 +28,7 @@
 + [使用CMake跨平台的一些经验](https://mp.weixin.qq.com/s/N0REx_eP4lSDcArd96RIcA)
 + [CMake超简单上手：从最简C代码到嵌入式项目管理](https://mp.weixin.qq.com/s/Fk6OD7sa-BmLg7VfKlHlCg)
 + [CMake之常用语法(宏)](https://mp.weixin.qq.com/s/7KYB6MkyaQyM3WTfiKWY5g)
++ [CMake引用自己开发第三方库](https://mp.weixin.qq.com/s/D0VVIWl0iE2B9z676SxQbw)
 
 ### 第三方技术
 
@@ -44,7 +45,10 @@
 + [C++入门学习02——认识C++程序](https://mp.weixin.qq.com/s/RtmfmNs9o-Qz4CkIwrprjA)
 + [C++入门学习04——顺序结构程序设计](https://mp.weixin.qq.com/s/j0_cw73ak6wjmMUnb_ouwA)
 + [C++入门学习07—— 二维数组](https://mp.weixin.qq.com/s/8ClIHV4TmCZ79iacjpTSjw)
++ [C++第3课：变量作用域](https://mp.weixin.qq.com/s/68_Jz1IWPrxbDkRsutGc3Q)
 + [C++语言--第003期：STL容器与算法大全《vector容器底层原理及源码分析》](https://mp.weixin.qq.com/s/iK6FIoFI_o1lSriTVMajCA)
++ [C++ 基础进阶必看！深度解锁 C++ 模板，开启高效编程新姿势](https://mp.weixin.qq.com/s/fp94NcCIEzzTdmUnWKu_3g)
++ [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
 + [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
@@ -246,6 +250,7 @@
 + [别再写“脆皮代码”了！程序员都在用的C++质量提升工具盘点](https://mp.weixin.qq.com/s/RvXbFJjx79jtXlBQZlWJOA)
 + [C++共享内存与虚函数问题](https://mp.weixin.qq.com/s/IhdQBQ2p9T-1wGlwsZVtJQ)
 + [一线实战80万年薪总结整理，必会27个C++新特性(11/14/17/20)](https://mp.weixin.qq.com/s/cRQRfQ0VabW38shcMhrvgA)
++ [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
 
 ### 资讯
 
@@ -281,6 +286,7 @@
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
 + [漫画 | 为什么C语言永不过时？](https://mp.weixin.qq.com/s/8KoL0Eoi2j4ANlxNEpGfBA)
 + [灵魂拷问，指针为什么是C语言的灵魂？](https://mp.weixin.qq.com/s/cCB3SA44Dyz8ZabTu4gvHQ)
++ [为什么C语言高手偏爱void* ？](https://mp.weixin.qq.com/s/0XBdkDqDBeFS01PjHJa9lg)
 + [C语言学习指南：这些核心知识点你掌握了吗？](https://mp.weixin.qq.com/s/h5xCE0XOZrV5i8f7o8qjlQ)
 + [从本质理解指针的那些知识 #指针篇1 | C语言基础](https://mp.weixin.qq.com/s/bAEe8sOGBkg69khuAPyrQg)
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)
@@ -351,6 +357,7 @@
 + [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
 + [逆向基础 | 堆栈图](https://mp.weixin.qq.com/s/lmQuURW7VbLVf4l5UUiaXg)
 + [深入剖析malloc和free：堆内存管理的基石](https://mp.weixin.qq.com/s/XMUn1tflJlp3RNNjdOcbBQ)
++ [C语言中的内存拷贝与优化技术](https://mp.weixin.qq.com/s/Yx2YlLxwCJoruucA4nQ5_Q)
 + [函数指针c = (*pf)(a, b)](https://mp.weixin.qq.com/s/P5JWkkOpih49HjI75Mnryw)
 + [malloc也会死锁？](https://mp.weixin.qq.com/s/Km8zlLg-zmUyg7-OKGq3Bw)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
@@ -383,6 +390,7 @@
 + [嵌入式编程基础 | C语言的关键字有哪些，哪些词容易混淆为关键字？](https://mp.weixin.qq.com/s/vJowEt_Cha_zlUrrHx1HBg)
 + [C语言实现PID算法](https://mp.weixin.qq.com/s/JsJzdk_lUW4DJFrZlemmAA)
 + [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
++ [为什么数组的下标从 0 开始？](https://mp.weixin.qq.com/s/TLcJgjoYcf3xYCMgwLNfzw)
 
 ### 资讯
 

@@ -154,6 +154,7 @@
 + [快速理解Linux磁盘管理：物理卷、逻辑卷与卷组](https://mp.weixin.qq.com/s/CiLwEE7kRVBSlBKSnvrqrA)
 + [【Linux】Linux目录结构快速解析：从根目录到核心组件](https://mp.weixin.qq.com/s/xI9Lf-DPi_6OmxcgFkAl0Q)
 + [Linux文件系统目录结构解析：关键文件功能与路径详解](https://mp.weixin.qq.com/s/juUcYxwfzs810feK5DHRQA)
++ [一文看懂 Linux 的 Buffer 和 Cache，到底有啥区别？](https://mp.weixin.qq.com/s/qqVZ6VmB9PLxcwv2VlD5Bw)
 
 ### 网络
 
@@ -302,6 +303,8 @@
 + [解锁CPU上下文切换：深入理解计算机的“幕后舞者”](https://mp.weixin.qq.com/s/gl9f4KHsaiamIg0cjPhc4Q)
 + [CPU时钟周期结构原理](https://mp.weixin.qq.com/s/h88ZrmTzWxhEoK1iOKQU6Q)
 + [面试官：说说服务器CPU 100%的问题如何排查解决](https://mp.weixin.qq.com/s/xIIG5oLIyqkrFOLZnBkUFg)
++ [CPU和CPU占用率简介介](https://mp.weixin.qq.com/s/Niuq8bZQlPQv0pJBD3ARbQ)
++ [CPU寻址工作原理](https://mp.weixin.qq.com/s/fCTP-EFYWVsMp9tAjMzC3w)
 
 ### 并发
 

@@ -85,6 +85,7 @@
 ### 函数/方法
 
 + [一篇初学者入门Python函数参数与返回值详细教程](https://mp.weixin.qq.com/s/WNqiCA_xi8lnR6gwQFPtvw)
++ [【Python】Day8--函数基础](https://mp.weixin.qq.com/s/bh4NXj-hpcdO3VImG0jS7A)
 + [早知道就好了！关于Python魔法方法的清单](https://mp.weixin.qq.com/s/_simM8yANXfRedwAi0udEQ)
 + [python基础语法-函数](https://mp.weixin.qq.com/s/dNrazI1nOVYFvmTtUBNeDA)
 + [Python编写函数的基本原则和技巧](https://mp.weixin.qq.com/s/0K0inpyT7wgacUo59ZzzwQ)
@@ -135,6 +136,7 @@
 + [告别 for 循环！Python 数据处理就该这么写：map 和 reduce 深度解析](https://mp.weixin.qq.com/s/PUjO6h7U2v6jy4njf05XJg)
 + [Python中的函数式编程](https://mp.weixin.qq.com/s/bXgMR2mvh0N-S4MAhcBW2g)
 + [写给前端的 Python 教程七-函数](https://mp.weixin.qq.com/s/cpetl_tHbhkqMzB1I4At-A)
++ [Python 进阶：lambda 匿名函数](https://mp.weixin.qq.com/s/-sAeAPFNga8_wCQihylDSA)
 
 ### 面向对象
 
@@ -243,6 +245,7 @@
 + [python学习9-常用类包](https://mp.weixin.qq.com/s/2zhptXXAP6iHzx90ud_Y2Q)
 + [python学习-列表及元组](https://mp.weixin.qq.com/s/4-TUPF4bBmqZJjUHVWMm4A)
 + [Python常用系统类库之zipfile压缩](https://mp.weixin.qq.com/s/O413bvsbsbb_5vFULjm9Hg)
++ [Python编程精进：DataClass](https://mp.weixin.qq.com/s/0DyoV6HuweI97RwuSgl_LA)
 
 ### 异步/多线程
 
@@ -264,6 +267,7 @@
 + [Python 多线程终极指南：从入门到实战，看完这篇就够了！附避坑指南](https://mp.weixin.qq.com/s/mUv2BeExM3jPI1mXKDX0Dg)
 + [深入理解Python协程：async def、async for、await、yield详解](https://mp.weixin.qq.com/s/z9EXzOsPKZv9TWVqU0x4vA)
 + [Python | 进程、线程是什么？它们有何区别，如何运用，进程与线程介绍](https://mp.weixin.qq.com/s/vNnzNkEWEy63C-5JG56C3w)
++ [Python编程精进：Asyncio与线程如何选择？](https://mp.weixin.qq.com/s/_6MGsB2OPUKfHFExYeNwAg)
 
 ## 实践
 
@@ -575,6 +579,7 @@
 + [Python 15个常用脚本](https://mp.weixin.qq.com/s/1xgM3MGClCV0l6HvmzFMVg)
 + [Python日志管理利器：打造你的专属日志系统](https://mp.weixin.qq.com/s/WHyRHqngIB5EBdXX2nmN4w)
 + [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
++ [Python编程精进：盘点10个优化技巧](https://mp.weixin.qq.com/s/F8i1oABYt4Qfiy1ydBt8IA)
 + [一把锋利的双刃剑：Python 内置函数 eval 的深度解析与实践指南](https://mp.weixin.qq.com/s/kFM-CDfH9pVnRz8MfuWdSA)
 
 ## 新特性

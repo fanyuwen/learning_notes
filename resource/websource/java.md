@@ -234,6 +234,7 @@
 + [【转】高并发场景下的 HttpClient 优化方案，QPS 大大提升！](https://mp.weixin.qq.com/s/HXJA9CZ4Hi2xyduXhx-ySw)
 + [深入剖析Java中的Vector类：特性、源码与应用](https://mp.weixin.qq.com/s/GsQqWUB1sp_T_ylNMRYsFA)
 + [ThreadLocal 不香了？ScopedValue才是王道？](https://mp.weixin.qq.com/s/gbjzUQMu_T_0aQHTHBF-DA)
++ [JDK 高版本特性总结与 ZGC 实践](https://my.oschina.net/meituantech/blog/18627969)
 
 ## 高级用法
 
@@ -307,6 +308,7 @@
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [java常用的设计模式与算法](https://mp.weixin.qq.com/s/NykahklKTXWBjB64pNpzew)
 + [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
++ [在Java中如何写一个正确的单例模式](https://mp.weixin.qq.com/s/e7TleAQP9RWsnQo_3Ha6yA)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
@@ -328,6 +330,7 @@
 + [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
++ [Function + Java 策略模式构建易扩展开票架构](https://mp.weixin.qq.com/s/nkBF7h9Dacg3Elg6Gzponw)
 + [优雅应对复杂业务的利器：Java 策略模式](https://mp.weixin.qq.com/s/jtOJYgfgV0Ju7U-pQpGwNw)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
 + [JAVA：适配器模式（Adapter Pattern）的技术指南](https://mp.weixin.qq.com/s/_yloWslvGVFpFbxsvie9oA)
@@ -737,6 +740,8 @@
 + [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
 + [线程的单例模式](https://mp.weixin.qq.com/s/ytguHag3e80JAo0PYMj6UA)
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
++ [Java并发编程对象组合与封闭性实践指南](https://mp.weixin.qq.com/s/09X9ul9PxmNkNSZzbvNX2A)
++ [Java 异常处理难点突破：Lambda 表达式与并发编程的优雅解决方案](https://mp.weixin.qq.com/s/5geY3xjAhMwtbq6XWEtMLA)
 
 #### CAS
 
@@ -1004,6 +1009,7 @@
 + [如何解决 JVM OOM 和内存泄漏问题？事前、事中、事后分别怎么做？](https://mp.weixin.qq.com/s/91Tza1Y1-u4VwnDmrmjMaw)
 + [JVM内存结构 & 参数详解](https://mp.weixin.qq.com/s/MnBV5gLyIvQK940vd7rQlw)
 + [线上OOM问题排查实战：技术leader手把手教你分析dump文件，快速定位内存泄漏！](https://mp.weixin.qq.com/s/LkO9thXBPxtfxrYqKQSnPw)
++ [JVM内存结构33连问](https://mp.weixin.qq.com/s/7o8Iqgjvd0eV2fvp0f4wSA)
 
 ### 类加载
 
@@ -1355,6 +1361,7 @@
 + [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
 + [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
 + [Java ThreadLocal 应用指南：从用户会话到数据库连接的线程安全实践](https://mp.weixin.qq.com/s/VAmcXlka1AeGAIgnMkpZTw)
++ [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
 
 ### Lock
 
@@ -1655,6 +1662,7 @@
 
 + [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
 + [强大！JSON解析神器，再复杂也不怕了](https://mp.weixin.qq.com/s/CwUP-uGVe9FTFTAqDX2gaQ)
++ [Java中动态JSON的一种解决方案](https://mp.weixin.qq.com/s/8Kb2vZBJtyoT-uHRoHc47g)
 
 ## logger
 
@@ -2307,6 +2315,7 @@
 + [Spring发布-订阅模式：解耦与异步通信的高效实现](https://mp.weixin.qq.com/s/f7X-marQbmxZZrlM1NRKMg)
 + [解锁SpringEvent：实现组件间的松耦合通信](https://mp.weixin.qq.com/s/TvTI6z9Zu97w4cLI_ZFrJw)
 + [小米二面：Spring 的事件监听机制是什么？](https://mp.weixin.qq.com/s/dLBNYEEgKTPxMLun0DNU3A)
++ [Spring事件驱动模型：ApplicationEvent与Listener的优雅解耦实践！](https://mp.weixin.qq.com/s/M8xMsmAir38LNACtC8Kccg)
 
 ### AOP
 
@@ -2664,6 +2673,8 @@
 + [15个Spring Boot常见编程误区解析与代码优化建议](https://mp.weixin.qq.com/s/HzLQoZVQDePASOblbh9jtg)
 + [深度剖析：Spring Boot 的 jar 直接运行背后的技术真相](https://mp.weixin.qq.com/s/MR9uf_wqiGk8kDLinYSnZQ)
 + [SpringBoot的4种Bean注入冲突解决方案](https://mp.weixin.qq.com/s/EUApbmyG76X5fhptrmRD5w)
++ [面试官：SpringBoot自动装配的原理你能说出来吗？](https://mp.weixin.qq.com/s/9z0p4qPuw_pq6d3ezprlEg)
++ [强！Spring Boot 通过服务定位干掉if-else](https://mp.weixin.qq.com/s/UOlha9RvGs9oAkLjzMmRGA)
 + [提升Spring Boot应用质量：从5个常见开发错误中吸取教训](https://mp.weixin.qq.com/s/GzSw55LxbaORbtvc02ho8w)
 + [让 SpringBoot 飞起来！15条性能优化秘籍，轻松应对百万并发](https://mp.weixin.qq.com/s/cKMFT62Rl9yYhu0gE7OwLg)
 + [开发必备！Spring Boot 项目中 resources 文件读取的 9 大方案详解](https://mp.weixin.qq.com/s/oC4kgwTUc0QCNfEb_VBiEQ)

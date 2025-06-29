@@ -2679,6 +2679,7 @@
 + [让 SpringBoot 飞起来！15条性能优化秘籍，轻松应对百万并发](https://mp.weixin.qq.com/s/cKMFT62Rl9yYhu0gE7OwLg)
 + [开发必备！Spring Boot 项目中 resources 文件读取的 9 大方案详解](https://mp.weixin.qq.com/s/oC4kgwTUc0QCNfEb_VBiEQ)
 + [太强了！Spring Boot 中 12 种获取Bean的神操作，最后一种你想不到](https://mp.weixin.qq.com/s/xlR4MXNkab5nxaE8xscqaw)
++ [Spring Boot 启动优化实践](https://my.oschina.net/vivotech/blog/18627678)
 
 #### 版本特性
 
@@ -3913,6 +3914,7 @@
 # 相关文章
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
++ [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
 + [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)

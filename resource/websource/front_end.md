@@ -287,6 +287,7 @@
 + [WebSocket之外，SSE协议为何被大厂悄悄采用？](https://mp.weixin.qq.com/s/LTytJL4MMLHuU892O8CnzQ)
 + [实时通信—舍我其谁—WebSocket 入门](https://mp.weixin.qq.com/s/S-hFYVSTrxWzioUbKUUMjQ)
 + [深入解析WebSocket：实时通信的核心技术](https://mp.weixin.qq.com/s/NACeiX34oGLmyYLtQo4LQQ)
++ [WebSocket入门案例指南：使用WebSocket完成实时消息，实时进度条](https://mp.weixin.qq.com/s/G9hXpnI4cS4n3Vs2Tq3YNA)
 
 # sse
 

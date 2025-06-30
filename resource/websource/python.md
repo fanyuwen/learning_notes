@@ -81,6 +81,8 @@
 + [Python中的数据类型操作](https://mp.weixin.qq.com/s/9P4jw6nyVqnw8lqHAw_OJA)
 + [必须要掌握的几种Python数据结构](https://mp.weixin.qq.com/s/lBYbdx3lp6vJWGH0vEGl4g)
 + [Python学习笔记：运算符的奇妙世界](https://mp.weixin.qq.com/s/_oYAETtNpPQfsV4Kmg6gzw)
++ [Python进阶之路：第八章 多重条件的武器：elif、嵌套、陷阱](https://mp.weixin.qq.com/s/BDV2xwlHxQ2-aBRCSpUuDA)
++ [写给前端的Python 教程六-条件语句、循环语句](https://mp.weixin.qq.com/s/POI3e-xieId3Lyb6Gz6TgA)
 
 ### 函数/方法
 
@@ -171,6 +173,7 @@
 + [Python编程精进：继承详解](https://mp.weixin.qq.com/s/NJXKmyZ-ubqGrGzMw3TKxw)
 + [Python系列教程244——继承](https://mp.weixin.qq.com/s/-RYK2QMzlBB5fMf05sifKg)
 + [python竟然也存在着this，这个this该如何使用？](https://mp.weixin.qq.com/s/tqF6InKRedDu875OXEuDdg)
++ [写给前端的 Python 教程九 - 类](https://mp.weixin.qq.com/s/6JCG-9CzmR_7EhUty796UQ)
 
 ### 核心库/模块
 
@@ -182,6 +185,7 @@
 + [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
 + [Python基础：Python的字符串操作与格式化](https://mp.weixin.qq.com/s/4enr5tjPxwCpUgw4yAWq_g)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
++ [Python入门教程05：字符串用法大全](https://mp.weixin.qq.com/s/iP0rpvGntr2rOrXeP3AnxA)
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
@@ -246,6 +250,7 @@
 + [python学习-列表及元组](https://mp.weixin.qq.com/s/4-TUPF4bBmqZJjUHVWMm4A)
 + [Python常用系统类库之zipfile压缩](https://mp.weixin.qq.com/s/O413bvsbsbb_5vFULjm9Hg)
 + [Python编程精进：DataClass](https://mp.weixin.qq.com/s/0DyoV6HuweI97RwuSgl_LA)
++ [Python常用系统类库之logging日志](https://mp.weixin.qq.com/s/oAK22pglPi2cFS2lQXYifA)
 
 ### 异步/多线程
 
@@ -268,11 +273,13 @@
 + [深入理解Python协程：async def、async for、await、yield详解](https://mp.weixin.qq.com/s/z9EXzOsPKZv9TWVqU0x4vA)
 + [Python | 进程、线程是什么？它们有何区别，如何运用，进程与线程介绍](https://mp.weixin.qq.com/s/vNnzNkEWEy63C-5JG56C3w)
 + [Python编程精进：Asyncio与线程如何选择？](https://mp.weixin.qq.com/s/_6MGsB2OPUKfHFExYeNwAg)
++ [Python: 从async/await理解协程的高效世界](https://mp.weixin.qq.com/s/PlQFlf_pwISAm3ZlDOB18A)
 
 ## 实践
 
 + [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
++ [Python 最佳实践 (5)](https://mp.weixin.qq.com/s/Jnn9GqH3OiGHS6CKeCp5uQ)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
 + [Python编程精进：正确编写多行注释的方法](https://mp.weixin.qq.com/s/QhjxEopVmcILCPwvoWDyEw)
 + [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
@@ -286,6 +293,7 @@
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [如何优雅地处理超大文件？用流式 + yield，轻松应对巨型日志！](https://mp.weixin.qq.com/s/eHSk8MMb1On-UE99ZaFN9g)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
++ [一个有线上问题带来的知识点：Python日志打印](https://mp.weixin.qq.com/s/yHvSdJYorV8_KpDqU6IIGA)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
 + [Python 高手才知道的 5 个 f-strings 隐藏技巧，让你的代码更优雅！](https://mp.weixin.qq.com/s/s-aK7q5GOJimqz6OczUXMw)
 + [Python教程——闭包](https://mp.weixin.qq.com/s/XSosHg0J6NtzOHEKenLk9w)

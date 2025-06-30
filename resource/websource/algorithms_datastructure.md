@@ -75,6 +75,12 @@
 + [数据结构之关键路径](https://mp.weixin.qq.com/s/T4J21MCzUTPWqkOSMaoRhQ)
 + [算法 - 灯泡开关](https://mp.weixin.qq.com/s/59X7gG6778ezQhPGBP5aFw)
 + [美团一面：循环队列听说过么，怎么实现？](https://mp.weixin.qq.com/s/d7TJEuFvcx8WNz8US2DafA)
++ [数据结构之跳表](https://mp.weixin.qq.com/s/rzTlKmIuBBCNrH482XfpEA)
++ [算法 - N皇后](https://mp.weixin.qq.com/s/61mVkBQTQ3ZyctYkzcmtLw)
++ [算法 - 前k个高频元素](https://mp.weixin.qq.com/s/BEEUSFdUCR0mGSK1gGXDUw)
++ [【DFS】简单背包递归实现](https://mp.weixin.qq.com/s/HGJZDFzurdjpOsHrB1HPiw)
++ [手写数据结构系列--堆](https://mp.weixin.qq.com/s/3Q7DjR4RP0y_VSx-GxOKRA)
++ [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
 
 ## Graph
 

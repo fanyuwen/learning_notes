@@ -85,6 +85,8 @@
 + [一分钟阅读:架构重构技巧](https://mp.weixin.qq.com/s/EjiBYNQZHW6mI1XgKHhnxg)
 + [一分钟阅读:高性能架构设计](https://mp.weixin.qq.com/s/RJeasy38EXUNJ6skzmtlYQ)
 + [优秀架构师成长之路（13）-数据迁移与零停机切换（银行系统迁移）](https://mp.weixin.qq.com/s/UgKtuuRLIF3u5DFMwEoEnA)
++ [大流量下的底层软件架构设计的思考](https://mp.weixin.qq.com/s/SRAMQcQizTwXab4JVgjtDg)
++ [技术｜模块设计的黄金法则（三）：不同的层，不同的抽象](https://mp.weixin.qq.com/s/pf-3lYx8OObJOnkqdcTzuw)
 
 ### DDD
 
@@ -330,6 +332,7 @@
 + [为什么Raft算法是分布式系统的首选？](https://mp.weixin.qq.com/s/DVEwMui71GdIwZpV9ZsJow)
 + [一致性协议Raft与Kafka中的KRaft](https://mp.weixin.qq.com/s/bQf-Zz8re6kVQCcmcB3Onw)
 + [常见一致性哈希算法简析](https://mp.weixin.qq.com/s/4uBOZDNsZN2h_Shslyiqyw)
++ [如何理解分布式领导者复制算法模型](https://mp.weixin.qq.com/s/Pv03ojb74FQrqOnJOSGmyQ)
 
 # 组件设计
 
@@ -874,6 +877,7 @@
 + [Facebook 为什么要弃用 Git？](https://mp.weixin.qq.com/s/qNbxEFLRJEkU2Xvh9nAJkw)
 + [Git使用经验点滴](https://mp.weixin.qq.com/s/KU5aFZtvM17pJwVSfZ17-g)
 + [全网最实用的Git学习工具](https://mp.weixin.qq.com/s/0E1bDyCe4Sm-UDbkfS0JHA)
++ [技术分享：git之提交规范+分支策略+流程管控实践](https://mp.weixin.qq.com/s/8FexAo-9OUwV_2pe3VujJw)
 
 ### 编程范式
 

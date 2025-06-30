@@ -21,12 +21,14 @@
 + [原创：写给初学者的Jetpack Compose教程，Side Effect](https://mp.weixin.qq.com/s/enlou-cxuR8KfcZht5mrLQ)
 + [再见 C++！使用 Kotlin 加速 Android Native 项目开发](https://mp.weixin.qq.com/s/kLqgUEYr95ePDr8oE5GA0w)
 + [加强后端开发中的 Kotlin：与 Spring 建立战略合作伙伴关系 | 官方博客](https://mp.weixin.qq.com/s/uyk5r8qUrtJFm2veONr6Tg)
++ [B 站在 KMP 跨平台的业务实践之路｜社区分享](https://mp.weixin.qq.com/s/0cfGVS1wL1d7FB1f_eQBIA)
 
 ## 技术月报
 
 + [Kotlin 技术月报 | 2024 年 6 月](https://mp.weixin.qq.com/s/a6lAdmZX4rU0PA_IY4RX_Q)
 + [Kotlin 技术月报 | 2024 年 9 月](https://mp.weixin.qq.com/s/bxD0VZmThSzyITECFtSqCA)
 + [Kotlin 技术月报 | 2025 年 4 月](https://mp.weixin.qq.com/s/XFLTIFRUtr9dkoaxLzckPw)
++ [Kotlin 技术月报 | 2025 年 6 月](https://mp.weixin.qq.com/s/WWy00fMwkOyRI6_kv4pKUw)
 + [Kotlin K2 模式进入稳定状态 ｜ 官方博客](https://mp.weixin.qq.com/s/J5fqoQ-m4gG5YX5pmHmiPQ)
 + [推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 | 官方博客](https://mp.weixin.qq.com/s/T3qtxrwuMPpL5cQKmKJXtw)
 + [Kotlin 开发者现在可以在 Android Studio 中使用 JetBrains AI Assistant 了｜官方博客](https://mp.weixin.qq.com/s/PyMszlSle_Iyp2TjZdpW9w)

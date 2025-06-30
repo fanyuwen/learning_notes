@@ -112,6 +112,8 @@
 + [实战设计模式之策略模式](https://mp.weixin.qq.com/s/TIu6iIp0KI16og_zWZLsZw)
 + [深入设计模式之「策略模式」：行为封装与选择的利器](https://mp.weixin.qq.com/s/XBe5xim0lNQdDv0Lk5mClQ)
 + [聊一聊：设计模式——策略模式](https://mp.weixin.qq.com/s/I82fkEmyns152IqcnKMBdw)
++ [彻底搞懂策略设计模式](https://mp.weixin.qq.com/s/Gc-19a9L_-BwLaBwGVPbDg)
++ [设计模式之策略模式](https://mp.weixin.qq.com/s/wxON2gIHMwcZDnwFM2S60g)
 
 ## 装饰器模式
 

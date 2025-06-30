@@ -155,6 +155,8 @@
 + [【Linux】Linux目录结构快速解析：从根目录到核心组件](https://mp.weixin.qq.com/s/xI9Lf-DPi_6OmxcgFkAl0Q)
 + [Linux文件系统目录结构解析：关键文件功能与路径详解](https://mp.weixin.qq.com/s/juUcYxwfzs810feK5DHRQA)
 + [一文看懂 Linux 的 Buffer 和 Cache，到底有啥区别？](https://mp.weixin.qq.com/s/qqVZ6VmB9PLxcwv2VlD5Bw)
++ [Linux 多线程的信号处理机制](https://mp.weixin.qq.com/s/ut2ZKgrX00G4GS6CE3yHuQ)
++ [必须监控的 17 个 Linux 日志文件](https://mp.weixin.qq.com/s/P8E0KTFngX9Ptk0GOSIezQ)
 
 ### 网络
 
@@ -240,6 +242,7 @@
 + [Linux 命令行完全指南：从入门到精通](https://mp.weixin.qq.com/s/aiqn5zCD7eCzsxzOP5F-eA)
 + [掌握 Linux 核心命令：解锁 cat 的高效用法！](https://mp.weixin.qq.com/s/yRu8CzyW_Dy5p5LHq-Ju7g)
 + [curl命令终极指南：从入门到封神，一篇文章让你成为网络请求大师](https://mp.weixin.qq.com/s/oZJKZzhFlngizPLLRAY5ng)
++ [Linux 最简单的命令：echo](https://mp.weixin.qq.com/s/TdLJzRe-dD0pq1fL223AVw)
 
 ### 发行版信息
 

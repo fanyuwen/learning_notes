@@ -235,6 +235,7 @@
 + [深入剖析Java中的Vector类：特性、源码与应用](https://mp.weixin.qq.com/s/GsQqWUB1sp_T_ylNMRYsFA)
 + [ThreadLocal 不香了？ScopedValue才是王道？](https://mp.weixin.qq.com/s/gbjzUQMu_T_0aQHTHBF-DA)
 + [JDK 高版本特性总结与 ZGC 实践](https://my.oschina.net/meituantech/blog/18627969)
++ [还在用“+”号拼接字符串？Java文本块，让你告别“上古”写法！](https://mp.weixin.qq.com/s/DdxzzDz7x0O8JTg5Ml1BMA)
 
 ## 高级用法
 
@@ -308,6 +309,7 @@
 + [Java设计模式之结构型](https://mp.weixin.qq.com/s/KOdoMviOrtnwSH9LCkZCkg)
 + [java常用的设计模式与算法](https://mp.weixin.qq.com/s/NykahklKTXWBjB64pNpzew)
 + [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
++ [构建灵活系统的“生产流水线”：Java 工厂设计模式](https://mp.weixin.qq.com/s/jsvv-EcLWrn-qwQQizLi6w)
 + [在Java中如何写一个正确的单例模式](https://mp.weixin.qq.com/s/e7TleAQP9RWsnQo_3Ha6yA)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
@@ -396,6 +398,7 @@
 + [一个 Function 接口，竟然让我的业务逻辑少写 100 行！](https://mp.weixin.qq.com/s/1SH_m6egAU0MBKvmzoLbDQ)
 + [函数式编程在 Java：Function、BiFunction、UnaryOperator 你真的会用？](https://mp.weixin.qq.com/s/laHcsY0n10FefJmDXak0Ug)
 + [Java - Lambda表达式之内置函数式接口](https://mp.weixin.qq.com/s/T1A0qULJFf10ehGODspVoA)
++ [一些 Function 优雅实战代码参考](https://mp.weixin.qq.com/s/YPw1gh69qLle4KBKVJIhbg)
 
 ## 代码质量
 
@@ -475,6 +478,7 @@
 + [精选Java代码片段：覆盖10个常见编程场景的更优写法](https://mp.weixin.qq.com/s/qM2CfoNxr9TmmPcCO_A41w)
 + [Java常见7个问题代码，第一个就中招](https://mp.weixin.qq.com/s/Hd1f5OdGUI5ndC3rctdxOA)
 + [Java 实用代码优化技巧：提升性能与可读性的建议](https://mp.weixin.qq.com/s/khwNTrMhSmLhAUuwl-njBw)
++ [告别“祖传代码”！每个 Java 开发者都应掌握的 7 个重构“大招”](https://mp.weixin.qq.com/s/IHEDJR5uGMQJIlXkoeChLA)
 
 # 底层
 
@@ -624,6 +628,7 @@
 + [Java 中的方法句柄与变量句柄：高性能反射的现代替代方案](https://mp.weixin.qq.com/s/ot5EEMcE7Th5l3IzDhGWqQ)
 + [Java Class类到底是啥？看完这篇“娱乐圈内幕”，面试官都夸你懂行！](https://mp.weixin.qq.com/s/x6kvprmtH4ElWb_gRmGZQQ)
 + [深入理解Java反射机制：动态编程的利器，框架源码阅读必备技能！](https://mp.weixin.qq.com/s/4moOwwlcCQyxJWNt7NW75w)
++ [反射与注解在框架中的妙用：Spring、MyBatis源码中的设计哲学！](https://mp.weixin.qq.com/s/ln1NPzjlRhcc8GVQXDVr1A)
 
 ### 并发/多线程
 
@@ -753,6 +758,7 @@
 + [Offer 收割机：用故事讲透 Java CAS，让面试官刮目相看！](https://mp.weixin.qq.com/s/MoNGlxL0Z-3jNX2lWW5sHA)
 + [Java并发编程中的锁（二）JUC包详解之CAS](https://mp.weixin.qq.com/s/mUfZ7B2DmjAxGskn9gOr2A)
 + [深入理解 CAS 自旋锁机制：并发编程的“无锁”奥秘！](https://mp.weixin.qq.com/s/JhKdi_DgwiWyR2xBX7sxUA)
++ [深入理解CAS与原子操作：AtomicInteger性能为何如此之高？无锁编程的基石。](https://mp.weixin.qq.com/s/0-X8shNTmTutoAnCfvHXFg)
 
 #### 线程池
 
@@ -1147,6 +1153,7 @@
 + [Stream 并不只是 map 和 filter，背后还有这些你不知道的坑！](https://mp.weixin.qq.com/s/DPXPwg3KdFDKWItNc56ZIg)
 + [别再 for 循环遍历了！Stream 流式处理才是现代 Java 的打开方式](https://mp.weixin.qq.com/s/yWPq4sn_t70E8VnVXM_Rfg)
 + [Stream很好，Map很酷，但答应我别用toMap()！](https://mp.weixin.qq.com/s/DNOCHvdzLkzjUetd-9YlzA)
++ [Java Stream与多线程](https://mp.weixin.qq.com/s/VKKz5Ay3waXf41plANHEAA)
 
 ### Date/time
 
@@ -1229,6 +1236,7 @@
 + [Optional 到底有没有用？看完源码我才知道它设计的精妙！](https://mp.weixin.qq.com/s/kWOzzFa5vOz_L_MqfTr-Xw)
 + [Java 里的 Optional，不是 Option+Alt+Del！](https://mp.weixin.qq.com/s/2sHd-8RGty2v0qfE-1N5YA)
 + [Java 8 Optional 高级用法：深度探索与实践](https://mp.weixin.qq.com/s/ltLvBdJ0HiLJkIi7R3YnYQ)
++ [一些关于 Optional 发票相关的实战用法！](https://mp.weixin.qq.com/s/NNyqYh6GHXfSClNs8c2wrw)
 
 ### Comparator
 
@@ -1362,6 +1370,7 @@
 + [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
 + [Java ThreadLocal 应用指南：从用户会话到数据库连接的线程安全实践](https://mp.weixin.qq.com/s/VAmcXlka1AeGAIgnMkpZTw)
 + [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
++ [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
 
 ### Lock
 
@@ -1412,6 +1421,7 @@
 + [面试练习 | Java并发包中的ConcurrentHashMap是如何工作的？](https://mp.weixin.qq.com/s/koP_CFQGYm9O2KqfJkUutw)
 + [大厂面试题解析：ConcurrentHashMap 如何秒杀 SynchronizedMap？](https://mp.weixin.qq.com/s/4ElJ9gJ-sZ_EuFwKcVuQSA)
 + [缓存之美：从根上理解 ConcurrentHashMap](https://my.oschina.net/u/4090830/blog/18444316)
++ [ConcurrentHashMap为什么不支持null健？](https://mp.weixin.qq.com/s/hnhhGspHCU_UDcS4CRUdIw)
 
 ### 其它
 
@@ -1524,6 +1534,7 @@
 + [Java Agent字节码插桩技术：SkyWalking如何实现无侵入链路追踪？](https://mp.weixin.qq.com/s/DcIWJdhD0tN7TXaVHKuang)
 + [Java安全模型讲解（沙箱机制）——SecurityManager安全管理器、AccessController访问控制器解析](https://mp.weixin.qq.com/s/hczvWCjADdz4HOpaHMh_3A)
 + [使用 Java 编译器 API 进行 Java 代码编译](https://mp.weixin.qq.com/s/lZvghOjaqv2xpCXv4gZFxw)
++ [JVM的“随身听诊器”：ManagementFactory](https://mp.weixin.qq.com/s/d7-kgEuoS57jHyCalYoVFA)
 
 # 包管理工具
 
@@ -1705,6 +1716,7 @@
 
 + [MapStruct 使用教程, 万字详解](https://mp.weixin.qq.com/s/UXUDIWiBiLyrb887evQcaQ)
 + [MapStruct 超神进阶用法，让你的代码效率提升十倍！](https://mp.weixin.qq.com/s/_4nSah_SIWYyBgYJ6AI_5A)
++ [告别硬编码！MapStruct对象映射库，编译期生成代码，性能与优雅兼备！](https://mp.weixin.qq.com/s/eLObx2hSVBVJYPVm9upwcA)
 
 ## mybatis
 
@@ -1774,6 +1786,8 @@
 + [MyBatis如何处理延迟加载？](https://mp.weixin.qq.com/s/T5BmRXF2U4r6cI01NEbMnw)
 + [MyBatis性能提升300%的秘诀：这5个优化方案请收好](https://mp.weixin.qq.com/s/3O8TbC_klqeRZChlDH69sw)
 + [MyBatis的trim标签用法](https://mp.weixin.qq.com/s/tnVz4ieAex6tLwKAd9DWag)
++ [Java真的不难（八十六）MyBatis的入门及核心原理](https://mp.weixin.qq.com/s/2risBTOMtEFhLMtiPWx3Pw)
++ [MyBatis中#{}并非万能：动态SQL实战指南](https://mp.weixin.qq.com/s/euiMc6WdaepDLfJQvx4ZwA)
 
 ### plus
 
@@ -1844,6 +1858,7 @@
 ## netty
 
 + [Netty实战入门教程](https://mp.weixin.qq.com/s/l1yJ40Ed3P2Ydzty2e6r2g)
++ [掌握这波 Netty 操作，实时通信开发轻松拿捏！](https://mp.weixin.qq.com/s/mZyPO-o8vk7lt0vf3Nre1Q)
 + [Netty线程模型](https://mp.weixin.qq.com/s/ryXdwGwfdIN-QT1osnZuBQ)
 + [Netty职责链Pipeline详解](https://mp.weixin.qq.com/s/KJ3Xv8LbhW11d0B4IT4IGQ)
 + [轻松掌握Netty：实现高效的客户端与服务器通信](https://mp.weixin.qq.com/s/jN4f303IkInD0i9Z-9JYNA)
@@ -1885,6 +1900,7 @@
 + [Netty源码—4.客户端接入流程](https://mp.weixin.qq.com/s/-bGktTfsPcg2SVXJDdfH2A)
 + [Netty-Reactor模型常见知识点小结](https://mp.weixin.qq.com/s/PCFRowteMKc8MNDdeCuS1Q)
 + [零拷贝机制](https://mp.weixin.qq.com/s/Q6b2qY28mBtAPd2lv_oGkA)
++ [如何基于Netty实现即时消息下发](https://mp.weixin.qq.com/s/gZoyDLycZDK8Xb7z7B-V1g)
 
 ## quarkus
 
@@ -2025,6 +2041,7 @@
 + [Java面试题：Spring篇](https://mp.weixin.qq.com/s/yMWJEqKtbGtsMN-pDZJHaQ)
 + [面试被问@Autowired实现原理时，我崩溃了……](https://mp.weixin.qq.com/s/QvLUf7jz8yGpqqG8uRH49Q)
 + [【面试必问】Spring支持注入null和空字符串吗？不懂别去面试了！](https://mp.weixin.qq.com/s/I7jlU4x38vL26T0ehFekMA)
++ [Spring中任意对象的依赖注入](https://mp.weixin.qq.com/s/zrkwECysxztEdizG1arzDA)
 
 #### 配置
 
@@ -2182,6 +2199,7 @@
 + [面试官：说说@Scheduled的原理](https://mp.weixin.qq.com/s/DVfuqpuLWTGlgy3bMnroJg)
 + [ListenableFutureCallback回调接口](https://mp.weixin.qq.com/s/TqL8ldw0sDMAbO65prt8Kw)
 + [Spring框架@Async注解](https://mp.weixin.qq.com/s/PUHi1TJD8aq9S6C4onQMOQ)
++ [Spring自带的定时任务也能控制启停，你用过吗？](https://mp.weixin.qq.com/s/0XI89Cr4Z2XhcOCtLuW86w)
 
 ### security
 
@@ -2686,6 +2704,8 @@
 + [Spring Boot 启动优化实践](https://my.oschina.net/vivotech/blog/18627678)
 + [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/VQgS0wBHq6Dj4sr-lHq6FA)
 + [3 种 Springboot 全局时间格式化方式，别再写重复代码了](https://mp.weixin.qq.com/s/w49rqFp6jGZgwqZwY95Ryg)
++ [Java面试题010：一文深入了解Springboot原理](https://mp.weixin.qq.com/s/kKIigq4fkjD8mNJPk5hDBw)
++ [Spring Boot启动速度优化实战：手把手教你将启动时间缩短80%，快如闪电！](https://mp.weixin.qq.com/s/0mPNo6Ki1BAS_sxuQ2EVPw)
 
 #### 版本特性
 
@@ -3935,6 +3955,7 @@
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
 + [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
++ [当下，哪种编程语言比较流行？](https://mp.weixin.qq.com/s/BPf6aF55dMrAswq7V8Wi7Q)
 + [Java 开发者要了解 SFTP 用户权限吗？5分钟带你配置 Linux 用户权限](https://mp.weixin.qq.com/s/gAC1vxZTZuBeGEXgZOigAw)
 + [Java后端人满如患，C++却招不到人](https://mp.weixin.qq.com/s/TkXTzMbzj0lNlFgAt7oUqQ)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)

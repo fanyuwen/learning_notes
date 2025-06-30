@@ -51,6 +51,7 @@
 + [C++ 基础进阶必看！深度解锁 C++ 模板，开启高效编程新姿势](https://mp.weixin.qq.com/s/fp94NcCIEzzTdmUnWKu_3g)
 + [C++代码跑得慢？用Compiler Explorer一看就明白](https://mp.weixin.qq.com/s/V41zhGlzyITeagaWCyXUKg)
 + [typedef 和 using 到底啥区别？3分钟测试你的语法直觉](https://mp.weixin.qq.com/s/Ng288GU1KdW464MpLptohA)
++ [关于string vector set map pair的使用](https://mp.weixin.qq.com/s/E5qkm3kO54z6yTqVio6dQQ)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
@@ -266,6 +267,7 @@
 
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
 + [10个值得关注的高质量 C++ 开源项目](https://mp.weixin.qq.com/s/F8oafg_1_RiJ0enGpJsxZg)
++ [好书推荐之《Refactoring with C++》](https://mp.weixin.qq.com/s/08WwGw_7M8BT54ZFK5A6Ig)
 
 ### CUDA
 

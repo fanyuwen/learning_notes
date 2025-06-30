@@ -141,6 +141,7 @@
 + [优秀架构师成长之路（2）-分层索引](https://mp.weixin.qq.com/s/eSllXjG78xBieI_yQxPE1Q)
 + [存储引擎系列--LSM树写放大优化之Partitioned Leveling合并策略](https://mp.weixin.qq.com/s/T03ln1I3rOjtjEdn8aIzAQ)
 + [如何保证MySQL和Redis数据一致性](https://mp.weixin.qq.com/s/3o8Fy3_MZ8w3wKhT47qe2Q)
++ [数据库深分页介绍及优化方案](https://mp.weixin.qq.com/s/NqaGlC4-_EbJ_Ib33i4PXQ)
 
 ### 读写分离&分库分表
 
@@ -918,6 +919,7 @@
 + [Redis分布式锁](https://mp.weixin.qq.com/s/b5C2wsWF88f8RIKU30Cfew)
 + [Redis 作者与 DDIA 作者激辩：Redlock 到底安不安全？](https://my.oschina.net/u/4169309/blog/18492056)
 + [小白也能懂的Redis分布式锁，故事版教程来了！](https://mp.weixin.qq.com/s/JIbkVUt6dVgGubgrC8QNFg)
++ [Redis下篇--分布式锁](https://mp.weixin.qq.com/s/LcqB5CwIVVzQVuwkQ1CEcA)
 
 #### 缓存
 

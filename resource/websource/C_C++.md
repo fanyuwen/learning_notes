@@ -18,6 +18,7 @@
 + [glibc堆内存管理：原理、机制与实战](https://mp.weixin.qq.com/s/IXizno8MlbwQgRGwQVhR4A)
 + [Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
 + [链接器是如何一步步发明出来的？](https://mp.weixin.qq.com/s/Ie99bZu3fAkS2ndVOflOAA)
++ [内存问题克星：VSCode GDB调试全攻略](https://mp.weixin.qq.com/s/16mCBeCkIaimH4KxouMSTw)
 
 ### cmake
 
@@ -48,6 +49,8 @@
 + [C++第3课：变量作用域](https://mp.weixin.qq.com/s/68_Jz1IWPrxbDkRsutGc3Q)
 + [C++语言--第003期：STL容器与算法大全《vector容器底层原理及源码分析》](https://mp.weixin.qq.com/s/iK6FIoFI_o1lSriTVMajCA)
 + [C++ 基础进阶必看！深度解锁 C++ 模板，开启高效编程新姿势](https://mp.weixin.qq.com/s/fp94NcCIEzzTdmUnWKu_3g)
++ [C++代码跑得慢？用Compiler Explorer一看就明白](https://mp.weixin.qq.com/s/V41zhGlzyITeagaWCyXUKg)
++ [typedef 和 using 到底啥区别？3分钟测试你的语法直觉](https://mp.weixin.qq.com/s/Ng288GU1KdW464MpLptohA)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
@@ -186,6 +189,7 @@
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [类型萃取（Type Traits）](https://mp.weixin.qq.com/s/6nSQNe3r9Wiy57_D_x5i0Q)
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
++ [C++进阶学习09——排序算法（快速排序）](https://mp.weixin.qq.com/s/Zo4IERHHvkxZG-lrPVv5MQ)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [C++11新特性：std::thread多线程](https://mp.weixin.qq.com/s/65yYeQxH_aGhF-IbvPYHqw)
 + [C++11新特性：shared_ptr与weak_ptr（实例测试）](https://mp.weixin.qq.com/s/i6eEgxpkjDlae_JjlMirFA)

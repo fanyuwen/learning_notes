@@ -420,6 +420,8 @@
 + [Linux高性能网络编程十谈|C++11实现22种高并发模型](https://mp.weixin.qq.com/s/whopYubsHE3_jc9nXdeLXg)
 + [计算机网络之TCP/UDP篇（上）](https://mp.weixin.qq.com/s/2K7jtQqOmOSy6x3RkEHYiw)
 + [计算机网络之TCP/UDP篇（下）](https://mp.weixin.qq.com/s/BGRdTkv162vgthZj_exSBg)
++ [网络通信必知-TCP和UDP共用同端口？](https://mp.weixin.qq.com/s/rzhPMx4aJ_oU-kxQ7C4zQw)
++ [高并发场景下，TCP/UDP丢包的隐藏陷阱](https://mp.weixin.qq.com/s/5An3f8PJuGv1q9uvmYQyIQ)
 
 ### DNS
 

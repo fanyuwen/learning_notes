@@ -1587,6 +1587,7 @@
 + [Arthas 工具实战：从 60秒到 6秒的性能逆袭之路](https://mp.weixin.qq.com/s/PSeYmPBUWHJ42-ITR5cNjg)
 + [Arthas 实战指南：阿里开源的 Java 诊断神器，10 分钟定位线上 bug！](https://mp.weixin.qq.com/s/yyiH6Q72ve_5EC38RECz9g)
 + [3 年经验凭啥碾压 5 年老鸟？全靠 Arthas 这手神操作！](https://mp.weixin.qq.com/s/seChFMwOwxdBEnWLe4Ql9w)
++ [学会 arthas，让你 3 年经验掌握 5 年功力！](https://mp.weixin.qq.com/s/JMTaOpzoj_7cNzPRKty6pQ)
 
 ## caffeine
 
@@ -2316,6 +2317,7 @@
 + [解锁SpringEvent：实现组件间的松耦合通信](https://mp.weixin.qq.com/s/TvTI6z9Zu97w4cLI_ZFrJw)
 + [小米二面：Spring 的事件监听机制是什么？](https://mp.weixin.qq.com/s/dLBNYEEgKTPxMLun0DNU3A)
 + [Spring事件驱动模型：ApplicationEvent与Listener的优雅解耦实践！](https://mp.weixin.qq.com/s/M8xMsmAir38LNACtC8Kccg)
++ [还在 Service 里疯狂注入其他 Service？你早就该用 Spring 的事件机制了](https://mp.weixin.qq.com/s/Dqgg6pu4GgZr77SsHGZkqw)
 
 ### AOP
 
@@ -2392,6 +2394,7 @@
 + [Java集成Spring-AI与Langchain4j深度对比：谁才是企业级AI应用的最佳选择？](https://mp.weixin.qq.com/s/YnSJg-b9ZuUY9L50UlWKHA)
 + [遨游Spring AI：第一盘菜Hello World](https://mp.weixin.qq.com/s/7_Qc-SrH9XbU2_L5OVj0aQ)
 + [遨游Spring AI：核心的AI概念解读](https://mp.weixin.qq.com/s/Zh6p8R4jjoMm-B-_PtRogw)
++ [搞定复杂 AI 集成！Spring AI + MCP 模式最佳实践揭秘](https://mp.weixin.qq.com/s/YNCyd7Q7JqcVbvpGajjaFA)
 
 ### cloud
 
@@ -2442,6 +2445,7 @@
 + [深入解析SpringCloud的负载衡器Loadbalancer](https://mp.weixin.qq.com/s/yXx9RjRAgIaXV7FMaHTfCA)
 + [Spring Cloud中的@LoadBalanced注解实现原理](https://mp.weixin.qq.com/s/pBdKubdr6yX9U_eBua-DEg)
 + [搞懂Spring Cloud Config配置信息自动更新原理](https://mp.weixin.qq.com/s/KpDcTAPqyYlsIZQBZlQjSg)
++ [Spring Cloud 分布式实时日志分析采集三种方案~](https://mp.weixin.qq.com/s/DWq3gELoRGkHIlnxPwi6Yg)
 
 #### alibaba
 
@@ -2680,6 +2684,8 @@
 + [开发必备！Spring Boot 项目中 resources 文件读取的 9 大方案详解](https://mp.weixin.qq.com/s/oC4kgwTUc0QCNfEb_VBiEQ)
 + [太强了！Spring Boot 中 12 种获取Bean的神操作，最后一种你想不到](https://mp.weixin.qq.com/s/xlR4MXNkab5nxaE8xscqaw)
 + [Spring Boot 启动优化实践](https://my.oschina.net/vivotech/blog/18627678)
++ [SpringBoot 内置的 10 个神器，让开发效率翻倍!](https://mp.weixin.qq.com/s/VQgS0wBHq6Dj4sr-lHq6FA)
++ [3 种 Springboot 全局时间格式化方式，别再写重复代码了](https://mp.weixin.qq.com/s/w49rqFp6jGZgwqZwY95Ryg)
 
 #### 版本特性
 
@@ -2916,12 +2922,8 @@
 + [严重！ Spring Boot3.4 请求参数bug，小心中招](https://mp.weixin.qq.com/s/FH93Jv9xrqv4zjivMv7N2g)
 + [增强！Spring Boot 3.4中注解参数验证发生重大调整](https://mp.weixin.qq.com/s/hWKf8j8UbVIJnDWt_0qZ9g)
 + [神器！SpringBoot 3.3 中实现 API 接口限流就是这么简单](https://mp.weixin.qq.com/s/w5ykZUftwLnPk1LpcEJ-xg)
-+ [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
 + [优雅！Spring Boot 3.3 搭配 JSON Schema 实现灵活的 JSON 数据定义与验证](https://mp.weixin.qq.com/s/Xaypx5KNIBbUjgbH6fsluA)
 + [高效处理 JSON 数据：Spring Boot 中 Jackson 的最佳用法揭秘](https://mp.weixin.qq.com/s/ofYu-PthCfmiPmmhkjkTpg)
-+ [高效应对内存溢出！Spring Boot 3.3 大文件处理全攻略](https://mp.weixin.qq.com/s/GBGGZAKW2QkgBObIY97B1w)
-+ [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
-+ [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
 + [速览！Spring Boot 3.3 快速实现 API 加密的最佳实践](https://mp.weixin.qq.com/s/eRIfoPzNGS8vuP5kYN5SCA)
 + [优雅！使用 Spring Boot 3.3 + @ControllerAdvice 实现全局数据绑定与预处理](https://mp.weixin.qq.com/s/gOqROy_W2tQ3dvTTjGEM3Q)
 + [轻松掌握！如何在 Spring Boot 3.3 中实现基于角色的访问控制](https://mp.weixin.qq.com/s/fXu04gN_XuB3WFXzQB1A2w)
@@ -2973,8 +2975,6 @@
 + [基于Spring Boot给所有Controller接口添加统一前缀的5种方式](https://mp.weixin.qq.com/s/8YbwaP2D5-2Mv_svhKObGQ)
 + [弃用RestTemplate！RestClient真香](https://mp.weixin.qq.com/s/Fq3Tx6wR3TF6yjiy61An5Q)
 + [Spring Boot 通过@JsonComponent注解完全控制JSON数据](https://mp.weixin.qq.com/s/OTSU6xHjEPS-Dr-z4HfgmQ)
-+ [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
-+ [SpringBoot3.4 断点续传 + 秒传，打造极致上传体验！](https://mp.weixin.qq.com/s/fTf3F1vJi0P9c8qNbyt1qA)
 + [一文彻底玩转@RequestMapping，高级用法你未必知道](https://mp.weixin.qq.com/s/_upqOl_h406Z-ZOcJ24wgA)
 + [高效脱敏！SpringBoot 3.3使用JsonSerializer 和自定义SerializerModifier实现数据保护](https://mp.weixin.qq.com/s/ISGNj5T4Qx_czC7OExoe3w)
 + [发现 XSS 漏洞？别急，用这招 SpringBoot 技巧轻松搞定！](https://mp.weixin.qq.com/s/dLPziR52vfWVrd0noRMp1w)
@@ -2987,8 +2987,6 @@
 + [如何在 Spring Boot 3.3 中实现请求 IP 白名单拦截功能](https://mp.weixin.qq.com/s/3YsMNlWwISTEWVMR5AI2wg)
 + [SpringBoot实战：Spring Boot 统一数据返回格式](https://mp.weixin.qq.com/s/FzryIrR-pO4apUgPUlS71w)
 + [如何在Spring Boot中实现请求IP白名单拦截](https://mp.weixin.qq.com/s/vD9fUdLqcp308b_x_ZA46Q)
-+ [SpringBoot 整合 MultipartFile 轻松实现文件上传与下载](https://mp.weixin.qq.com/s/95ziMFD4Lz3F7mjZ4TvclA)
-+ [基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/IQ5WQg_UCpGz9jAkkuN8TA)
 + [为啥大公司的 SpringBoot 项目都不用 Tomcat](https://mp.weixin.qq.com/s/-FBR5ZsXcq3GfXad5oFr5w)
 + [微服务鉴权设计：SpringBoot 3.x + OAuth2](https://mp.weixin.qq.com/s/4d0iMeNI3Vn1hJNlX34KWg)
 + [优雅处理 JSON 数据！Spring Boot 3.3 与 @JsonView 的完美结合](https://mp.weixin.qq.com/s/FelcdWUeZkPaRQ3AxADYHQ)
@@ -3006,16 +3004,11 @@
 + [快来看看你会的超过4个没？SpringBoot获取前端参数的7种方式](https://mp.weixin.qq.com/s/Ojg2dX4HpbDz9tMWbIkR9g)
 + [Spring Boot中的 6 种API请求参数读取方式](https://mp.weixin.qq.com/s/mausyt2JOA39sI1KsFmzow)
 + [强大！SpringBoot通过这3个注解监测Controller接口](https://mp.weixin.qq.com/s/nUZdPZ3y70Zr02deIcJ2iA)
-+ [Spring Boot实现文件上传和下载](https://mp.weixin.qq.com/s/ugNOkTHzyHpS-9G-EFw1-w)
 + [SpringBoot自带Controller接口监控，赶紧用起来](https://mp.weixin.qq.com/s/Ggv4e52CB-RS2pFPG43z3w)
-+ [SpringBoot + minio实现分片上传、秒传、续传](https://mp.weixin.qq.com/s/T2YwrlWGhkwojsJYA6kylg)
-+ [基于Spring Boot六种策略识别上传文件类型](https://mp.weixin.qq.com/s/Cqb08nyjab3o5O2kk_iwVA)
 + [这才是SpringBoot统一响应和异常处理的最佳实践](https://mp.weixin.qq.com/s/IRl7DC4ZYTipHA2hCMdCyA)
 + [Spring Boot + FreeMarker 实现按模板导出 Word 文档](https://mp.weixin.qq.com/s/3378NclJmiKaCcgBIWN52g)
-+ [使用 Spring Boot 结合断点续传技术和自动重连机制实现考试系统网络不稳定性的应对策略](https://mp.weixin.qq.com/s/PoGAfTEXk2jHzmKZRUa02w)
 + [SpringBoot + Jackson 实现自动化配置](https://mp.weixin.qq.com/s/MifVUmcTkmVKN658tSlGOg)
 + [使用SpringBoot和Selenium模拟用户操作浏览器](https://mp.weixin.qq.com/s/1jJJwW43KY0X_X6-VXgDqw)
-+ [SpringBoot整合Caffeine使用示例](https://mp.weixin.qq.com/s/q9Q2UWgcjiISPKp5wM016g)
 + [SpringBoot中Controller接口参数还可以这样玩？](https://mp.weixin.qq.com/s/-xOJpfkVYQG8GAJbMkkcIQ)
 + [SpringBoot非常实用的一个功能，你肯定不知道](https://mp.weixin.qq.com/s/QBKzLNAeL-xIdBqi7tkcvg)
 + [Spring Boot WebFlux框架响应式编程数据实时更新](https://mp.weixin.qq.com/s/mKHpzGU0KBoDLZu7V3n5OA)
@@ -3077,7 +3070,6 @@
 + [SpringBoot在一次HTTP请求中耗费了多少内存](https://mp.weixin.qq.com/s/q7sGGRVwRXVML27oLYnl2A)
 + [Jackson在Spring Boot高级应用技巧【Long精度丢失, @JsonValue, 数据脱敏】](https://mp.weixin.qq.com/s/i0Pv-HPxHeqcGC7TaLBWtQ)
 + [SpringBoot中@Service能否取代@Controller？](https://mp.weixin.qq.com/s/lUNLPmHbisFpCgy76fzTGA)
-+ [SpringBoot 实战：文件上传之秒传、断点续传、分片上传](https://my.oschina.net/lenve/blog/16507087)
 + [确保数据安全！使用 Spring Boot 实现强大的 API 输入验证](https://my.oschina.net/lenve/blog/16493065)
 + [Controller接口还能这样玩](https://mp.weixin.qq.com/s/7Tw_c0kr0raNbKd6C3AbNw)
 + [SpringBoot接口参数如何使用多个@RequestBody？](https://mp.weixin.qq.com/s/3E830Goq9VSJGnJQXahjAQ)
@@ -3103,35 +3095,28 @@
 + [SpringBoot 如何统一 API 响应格式](https://mp.weixin.qq.com/s/Zr_p6t0B7pJfAZ2pPcA57Q)
 + [知道太晚了！实时通信新选择fetch-event-source，真香](https://mp.weixin.qq.com/s/PHLho8k2PH_gU4diDUPyuA)
 + [一行代码测试Spring Boot API接口正确性](https://mp.weixin.qq.com/s/KUTSqRUuGm0QlVq-Mef0ww)
-+ [SpringBoot 文件上传惊现"10日魔咒"？资深架构师手把手教你破局](https://mp.weixin.qq.com/s/jv6E2SU84Y9Q8stGA06WBQ)
 + [告别手写SpringBoot接口！在线REST API让你效率翻倍](https://mp.weixin.qq.com/s/O63t4Hnlw1EVcouTODeyrA)
 + [高效推送！Spring Boot 3.4 实现网页消息通知的 5 种最佳方案](https://mp.weixin.qq.com/s/281JcK2op_HYS6Xa3QQfVw)
-+ [Spring Boot超大文件上传的正确方式](https://mp.weixin.qq.com/s/MNQZrGKTw2HyN6bVK77-xw)
 + [Spring Boot拦截器详解](https://mp.weixin.qq.com/s/gjTphKjqcwYYZR87rCcUZQ)
 + [强大！Spring Boot自定义数据绑定，搞定任意数据类型](https://mp.weixin.qq.com/s/ab5_rkZHdvnDbU-R0tFBEQ)
 + [SpringBoot API 接口防刷](https://mp.weixin.qq.com/s/bwvjEc5AXP2ygbfNb4jL-A)
-+ [Spring Boot 实现文件秒传功能](https://mp.weixin.qq.com/s/UhhukVMf9HzeARyxWt392g)
 + [Spring Boot 动态切换 Web 服务器实践：基于配置文件实现 Tomcat/Jetty/Undertow 无缝切换](https://my.oschina.net/cccyb/blog/17936138)
 + [SpringBoot实现单点登录(SSO)的4种方案](https://mp.weixin.qq.com/s/P3TL46D7k8i1N4d50ClOVA)
 + [哇塞！Spring Boot 一注解逆天，API 超时问题秒解决](https://mp.weixin.qq.com/s/n98_cJGbaNnMer7QtSeCKA)
 + [王炸来袭！Controller 接口动态注册](https://mp.weixin.qq.com/s/dSZdsZsy6-BXImrphwvSQg)
 + [SpringBoot实战：深度剖析 Filter、Interceptor、AOP请求三剑客 | 高并发系统设计必修课](https://mp.weixin.qq.com/s/RigPFjGaAOA8uXKheqCt-g)
 + [惊呆了！Controller接口返回值支持17种逆天类型](https://mp.weixin.qq.com/s/KjLtSGR464Y9cxGuiGOfZA)
-+ [Spring Boot 实现文件断点续传](https://mp.weixin.qq.com/s/53nFJw42vJO0LsxyCgZqHw)
 + [还在用 if 硬刚参数校验？这波操作土到掉渣！SpringBoot 高阶玩法直接封神](https://mp.weixin.qq.com/s/b0QQaivLVY_8ai03AsSv0w)
-+ [Spring Boot文件上传5种玩法！@RequestPart最强大](https://mp.weixin.qq.com/s/TaS7Mgq6sRwme_LTUEdS6Q)
 + [@JsonFormat 只会转日期？这4个高能用法太强大了](https://mp.weixin.qq.com/s/3suVq-daf9QsCgJGiKsB8Q)
 + [SpringBoot中6种拦截器使用场景](https://mp.weixin.qq.com/s/2AiUd2tQeNXiSOcdqmZTCQ)
 + [京东二面：Spring Boot中如何注册一个Filter？底层是如何实现的？](https://mp.weixin.qq.com/s/7Z0iBtWdeGYc67gZQZM4QA)
 + [Controller 接口竟有这些 "神操作"？](https://mp.weixin.qq.com/s/l-ialXkrrFvghFSqclA_7g)
 + [SpringBoot中的9个自带实用过滤器](https://mp.weixin.qq.com/s/sfGFPTR0JULokkew8LhrpA)
-+ [SpringBoot中7个文件上传下载工具](https://mp.weixin.qq.com/s/diYSoiwCRJ9gaLcN1MPHeA)
 + [惊呆了！Spring Boot接口定义：8种逆天玩法](https://mp.weixin.qq.com/s/LRfgXnvv5-eNcRTYJGFTyg)
 + [揭秘Spring Boot内嵌Tomcat：从架构原理到参数调优的深度实战](https://mp.weixin.qq.com/s/RplhWDIiD2W9yevuempyxw)
 + [Jackson！JSON处理的瑞士军刀ObjectMapper](https://mp.weixin.qq.com/s/hPno36VIRLTHpaFpuRbXNA)
 + [Spring Boot接口防抖黑科技：高并发下的请求稳压策略与源码级实现](https://mp.weixin.qq.com/s/8TrtED7Km9j2Wj3LsNIjhQ)
 + [Spring Boot拦截器与过滤器7大核心区别，看完通透！](https://mp.weixin.qq.com/s/dm_wScpCKfOuz6eohnBwaQ)
-+ [SpringBoot骚操作：一个注解秒杀所有类型的文件下载！](https://mp.weixin.qq.com/s/fuBPEbjvAgSoymWV8gGWNw)
 + [惊了！Spring Boot 拦截器竟藏着这些隐藏玩法，很强](https://mp.weixin.qq.com/s/7tQG2Z0lGz7zj_6UGy6K9Q)
 + [5种方案！保护Spring Boot API接口安全](https://mp.weixin.qq.com/s/S6IbfjSSARx7clpSzF2Yiw)
 + [Spring Boot 3.x 中的 RestClient 使用全解析](https://mp.weixin.qq.com/s/gggEHI6ZADEHGwKAfOvIhw)
@@ -3141,10 +3126,37 @@
 + [新的路径模式匹配：PathPattern](https://mp.weixin.qq.com/s/8CSNQBpYQMrkeCVkgW0rNw)
 + [SpringBoot中4种控制器返回值处理技巧](https://mp.weixin.qq.com/s/Z8G_HeNbVnYCf0rfnH6_nw)
 + [面试官：说说你们SpringBoot项目是如何优雅停机的？](https://mp.weixin.qq.com/s/hn0Y0p51hsSEulnGpTk_NQ)
-+ [Spring Boot + Multipart 文件上传：为什么你的应用在 10MB 后会失败](https://mp.weixin.qq.com/s/LQV2K-x9w8o5Ka32MDvz2w)
 + [SpringBoot的5种请求映射优化方式](https://mp.weixin.qq.com/s/9BstwSahbdZ40xPlvo2zYw)
-+ [面试官再问“Spring Boot怎么传G级大文件”，直接把这篇分块实现甩他脸上，让他闭嘴惊艳！](https://mp.weixin.qq.com/s/5wjVDUHculVoXiq1XsmWrQ)
 + [优雅！Spring Boot 处理动态请求body，太强了](https://mp.weixin.qq.com/s/j9UQ4gVytN-mT0y4BQa7Tw)
++ [别错过！Spring Boot 实现统一响应结果的 5 种方案](https://mp.weixin.qq.com/s/mgUvPlyg_7t7LLH7CXMDJQ)
+
+##### 文件上传下载
+
++ [基于2种技术栈！Spring Boot 实现超大文件的流式传输](https://mp.weixin.qq.com/s/u9FsXHzvE5Vbtivgr-BmJA)
++ [SpringBoot大文件上传卡死？分块切割术搞定GB级传输，速度飙升！](https://mp.weixin.qq.com/s/mFF-ap7RdRSRy-uHLx8Rtg)
++ [告别下载风险！Spring Boot 打造安全的文件下载功能](https://mp.weixin.qq.com/s/98LAkpT1TODhpwIJ_f81zg)
++ [面试官再问“Spring Boot怎么传G级大文件”，直接把这篇分块实现甩他脸上，让他闭嘴惊艳！](https://mp.weixin.qq.com/s/5wjVDUHculVoXiq1XsmWrQ)
++ [高效应对内存溢出！Spring Boot 3.3 大文件处理全攻略](https://mp.weixin.qq.com/s/GBGGZAKW2QkgBObIY97B1w)
++ [SpringBoot实战：基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/pYY4S5TbolfOX97JFmpfVQ)
++ [强大！基于 Spring Boot3.3 六种策略识别上传文件类型](https://mp.weixin.qq.com/s/v5r4ZWDn9tua06gNy-VkJA)
++ [基于Spring Boot六种策略识别上传文件类型](https://mp.weixin.qq.com/s/Cqb08nyjab3o5O2kk_iwVA)
++ [SpringBoot 实在：项目开发之文件上传 （秒传、断点续传、分片上传）](https://mp.weixin.qq.com/s/4QkGsURsEdT3MajHFySMeA)
++ [SpringBoot3.4 断点续传 + 秒传，打造极致上传体验！](https://mp.weixin.qq.com/s/fTf3F1vJi0P9c8qNbyt1qA)
++ [SpringBoot 实战：文件上传之秒传、断点续传、分片上传](https://my.oschina.net/lenve/blog/16507087)
++ [SpringBoot 整合 MultipartFile 轻松实现文件上传与下载](https://mp.weixin.qq.com/s/95ziMFD4Lz3F7mjZ4TvclA)
++ [基于 SpringBoot3.3 支持任意文件在线预览功能](https://mp.weixin.qq.com/s/IQ5WQg_UCpGz9jAkkuN8TA)
++ [Spring Boot实现文件上传和下载](https://mp.weixin.qq.com/s/ugNOkTHzyHpS-9G-EFw1-w)
++ [SpringBoot + minio实现分片上传、秒传、续传](https://mp.weixin.qq.com/s/T2YwrlWGhkwojsJYA6kylg)
++ [使用 Spring Boot 结合断点续传技术和自动重连机制实现考试系统网络不稳定性的应对策略](https://mp.weixin.qq.com/s/PoGAfTEXk2jHzmKZRUa02w)
++ [Spring Boot超大文件上传的正确方式](https://mp.weixin.qq.com/s/MNQZrGKTw2HyN6bVK77-xw)
++ [Spring Boot 实现文件秒传功能](https://mp.weixin.qq.com/s/UhhukVMf9HzeARyxWt392g)
++ [Spring Boot 实现文件断点续传](https://mp.weixin.qq.com/s/53nFJw42vJO0LsxyCgZqHw)
++ [Spring Boot文件上传5种玩法！@RequestPart最强大](https://mp.weixin.qq.com/s/TaS7Mgq6sRwme_LTUEdS6Q)
++ [SpringBoot中7个文件上传下载工具](https://mp.weixin.qq.com/s/diYSoiwCRJ9gaLcN1MPHeA)
++ [SpringBoot骚操作：一个注解秒杀所有类型的文件下载！](https://mp.weixin.qq.com/s/fuBPEbjvAgSoymWV8gGWNw)
++ [Spring Boot + Multipart 文件上传：为什么你的应用在 10MB 后会失败](https://mp.weixin.qq.com/s/LQV2K-x9w8o5Ka32MDvz2w)
++ [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
++ [SpringBoot 文件上传惊现"10日魔咒"？资深架构师手把手教你破局](https://mp.weixin.qq.com/s/jv6E2SU84Y9Q8stGA06WBQ)
 
 ##### VUE
 
@@ -3246,6 +3258,7 @@
 + [高并发场景下Spring事务与JPA乐观锁重试机制导致的死锁](https://mp.weixin.qq.com/s/RjpNriP4YEabQLfg3510MQ)
 + [Spring Boot 和 Spring Cloud 事务管理的实现方式汇总](https://mp.weixin.qq.com/s/gIPaa8N5z6r55t0ilPUfIQ)
 + [【事务技巧】掌握Spring事务管理的精髓：中高级开发者的必备技能](https://mp.weixin.qq.com/s/X1GQZu1vqysA3UU_AwYZIA)
++ [绝了！Spring Boot 事务回滚竟藏 5 种神操作](https://mp.weixin.qq.com/s/ayXnxon-cEvhXWmB2Yb1Qg)
 
 ##### BIG DATA
 
@@ -3363,6 +3376,7 @@
 + [SpringBoot与Caffeine整合，解决微服务间高频调用的性能瓶颈](https://mp.weixin.qq.com/s/v02DFTKkVQx5vEoSJs_OcQ)
 + [SpringBoot中2种热点KEY缓存优化策略](https://mp.weixin.qq.com/s/GjqEV6UCtB4SpOlAK_6cNw)
 + [Spring Boot 的 3 种二级缓存落地方式](https://mp.weixin.qq.com/s/6Adt9TE_zBgBLRTBCe6Bzw)
++ [SpringBoot整合Caffeine使用示例](https://mp.weixin.qq.com/s/q9Q2UWgcjiISPKp5wM016g)
 
 #### AOP
 
@@ -3475,6 +3489,7 @@
 + [Spring Boot动态策略模式详解，彻底告别编译部署](https://mp.weixin.qq.com/s/7RUfyWbZMYI1I3rYCsAJgA)
 + [【代码整洁术】再见，if-else！你好，Spring Boot 工厂模式](https://mp.weixin.qq.com/s/8nnCVo35O8DOaEnUhTFBZA)
 + [Java装饰器模式：每个Spring Boot开发者都必须掌握的设计模式](https://mp.weixin.qq.com/s/8XPnFH6cIVlqD53r1DqkvA)
++ [一个 new 操作耗时1秒？用原型模式，性能提升100倍！](https://mp.weixin.qq.com/s/DLfoYJNtH8VS6PIjKH2h6w)
 
 #### message
 
@@ -3897,6 +3912,7 @@
 + [从 JDK 8 到 JDK 17：Swagger 升级迁移指南](https://mp.weixin.qq.com/s/m_6fcn2lYO5C6QJDKqzy_A)
 + [Java LazyMap的深度利用技巧](https://mp.weixin.qq.com/s/girRITO8HO0qgC5613ewKw)
 + [JavaParser入门：以编程方式分析Java代码](https://mp.weixin.qq.com/s/6R8KVKkSvqstNKdBfq_Cog)
++ [一套万能的异步处理方案（VIP珍藏版）](https://mp.weixin.qq.com/s/lJve1sJayC2L_1haC7rEhQ)
 
 # 其它环境
 

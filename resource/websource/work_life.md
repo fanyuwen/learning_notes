@@ -91,6 +91,7 @@
 + [发现一个现象，很多35岁以上技术型人才、45岁以上中高级管理人员，一旦失业后，再就业就比较困难，到底问题出在哪？](https://mp.weixin.qq.com/s/PmYc1fd7XJaTck5mfGy_sg)
 + [豪掷 235 亿大裁员，程序员为什么不愿意在传统车企干？](https://mp.weixin.qq.com/s/t_X6obHETlAPBGzRyjXcdQ)
 + [作为一个程序员你觉得是业务重要还是技术重要？](https://mp.weixin.qq.com/s/LDwvat4Bgmtl1HltjZYuCQ)
++ [你怎么看待满嘴高并发，编码能力却稀松平常的程序员？](https://mp.weixin.qq.com/s/yt_YxLGTPzow4WfFrx1Vkw)
 
 # 个人成长
 

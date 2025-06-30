@@ -581,6 +581,7 @@
 + [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
 + [Python编程精进：盘点10个优化技巧](https://mp.weixin.qq.com/s/F8i1oABYt4Qfiy1ydBt8IA)
 + [一把锋利的双刃剑：Python 内置函数 eval 的深度解析与实践指南](https://mp.weixin.qq.com/s/kFM-CDfH9pVnRz8MfuWdSA)
++ [Python：一行代码高效处理40个任务](https://mp.weixin.qq.com/s/E3BM1GTb13xPF26LXUNv1Q)
 
 ## 新特性
 

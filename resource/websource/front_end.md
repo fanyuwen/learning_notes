@@ -378,3 +378,4 @@
 + [为什么会 js 但是依然不会写 node？原因竟是这三点...](https://mp.weixin.qq.com/s/lhMHJwxIhPNfm9BhTsOIyQ)
 + [ECMAScript 2025新增了这些核心特性，看看你都知道几个？](https://mp.weixin.qq.com/s/oXKQrXN0qxUETgSlpFi15Q)
 + [49个 JavaScript 代码快捷技巧，让你在 2025 年成为代码高手](https://mp.weixin.qq.com/s/vOs4YzuY8P1H5s-UyH4Lqg)
++ [得物社区活动：组件化的演进与实践](https://my.oschina.net/u/5783135/blog/18626983)

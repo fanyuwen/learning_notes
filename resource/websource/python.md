@@ -139,6 +139,7 @@
 + [Python中的函数式编程](https://mp.weixin.qq.com/s/bXgMR2mvh0N-S4MAhcBW2g)
 + [写给前端的 Python 教程七-函数](https://mp.weixin.qq.com/s/cpetl_tHbhkqMzB1I4At-A)
 + [Python 进阶：lambda 匿名函数](https://mp.weixin.qq.com/s/-sAeAPFNga8_wCQihylDSA)
++ [Python函数式编程指南：lambda、map、filter、reduce的高级用法](https://mp.weixin.qq.com/s/C7ZbQZHtkFMtrX57bYY0lA)
 
 ### 面向对象
 
@@ -174,6 +175,7 @@
 + [Python系列教程244——继承](https://mp.weixin.qq.com/s/-RYK2QMzlBB5fMf05sifKg)
 + [python竟然也存在着this，这个this该如何使用？](https://mp.weixin.qq.com/s/tqF6InKRedDu875OXEuDdg)
 + [写给前端的 Python 教程九 - 类](https://mp.weixin.qq.com/s/6JCG-9CzmR_7EhUty796UQ)
++ [Python编程精进：多分派](https://mp.weixin.qq.com/s/EfQUIvxagv0eTQEE5eGRdQ)
 
 ### 核心库/模块
 
@@ -197,6 +199,7 @@
 + [掌握 Python 字典：初学者必知的 15 种高效技巧](https://mp.weixin.qq.com/s/gmLQJysxNWXKzVDwwC0bqw)
 + [100个字典编程小技巧，让你成为Python高手](https://mp.weixin.qq.com/s/1fQU3rVh_vFTRngHGlcL3w)
 + [Python编程十一:dict字典定义](https://mp.weixin.qq.com/s/8y6bY38GBp01KV_W3NQmrQ)
++ [Python字典深度解析：从基础操作到实战应用，这篇文章帮你彻底搞懂！](https://mp.weixin.qq.com/s/87L1ZTNdZNeXfmUMXTjwuw)
 + [Python 列表推导式：让代码更简洁高效](https://mp.weixin.qq.com/s/ofOw2NYWyAEnOp26M741fg)
 + [一次搞懂 Python 字典！Python字典的20种神奇用法](https://mp.weixin.qq.com/s/DHdTP1JiW-d9U6jukf1z6g)
 + [Python 字典的实用技巧 (示例代码 + 生活应用)](https://mp.weixin.qq.com/s/Mt1ILen9wFrXg6hhvN2gjg)
@@ -285,6 +288,7 @@
 + [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
++ [Python编程精进：小技巧分享](https://mp.weixin.qq.com/s/ZFMVoPSr-UdqOpkMUe2BKA)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
 + [python基础语法-读写文件](https://mp.weixin.qq.com/s/Cky9ERdWx-0Lh0K65hqYEA)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)

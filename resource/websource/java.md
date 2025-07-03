@@ -871,6 +871,7 @@
 + [Synchronized是怎么实现的？](https://mp.weixin.qq.com/s/n24S3azeI6SaBSWEt20ybA)
 + [P7大佬带你彻底搞懂AQS：JUC并发工具包的基石与源码剖析！](https://mp.weixin.qq.com/s/stuqKxofVi41FwPjhv7o0g)
 + [深入理解 Synchronized 锁机制，搞懂 Java 并发的“镇宅之宝”！](https://mp.weixin.qq.com/s/oxOyeasW0bcBokXtCYdzYg)
++ [Java 8 可重入锁设计之JUC ReentrantLock](https://mp.weixin.qq.com/s/xHh8H_OqNXmRk3xYbhgJmg)
 
 #### volatile
 
@@ -1016,6 +1017,7 @@
 + [JVM内存结构 & 参数详解](https://mp.weixin.qq.com/s/MnBV5gLyIvQK940vd7rQlw)
 + [线上OOM问题排查实战：技术leader手把手教你分析dump文件，快速定位内存泄漏！](https://mp.weixin.qq.com/s/LkO9thXBPxtfxrYqKQSnPw)
 + [JVM内存结构33连问](https://mp.weixin.qq.com/s/7o8Iqgjvd0eV2fvp0f4wSA)
++ [JVM内存模型（JMM）深度解析：volatile与synchronized如何保证可见性与有序性？](https://mp.weixin.qq.com/s/07fVBhHn1YM_SvdKbnCULg)
 
 ### 类加载
 
@@ -1406,6 +1408,7 @@
 + [面试练习 | 在Java中使用ReentrantReadWriteLock的优缺点？](https://mp.weixin.qq.com/s/Wp5VXyJoX8fcQ5Q5HKGIzw)
 + [别再用错读写锁了，ReentrantReadWriteLock 你真的懂？](https://mp.weixin.qq.com/s/zxKf7OEuXVxNIHnNxlPg8g)
 + [一文解析ReentrantReadWriteLock源码，我说白了真不难！](https://mp.weixin.qq.com/s/rN_EQC57fF2A9fryAbiTYg)
++ [学习AQS：Java并发编程的基石](https://mp.weixin.qq.com/s/UvHKwwtVdEZ3iw2H1TSCEg)
 
 ### ConcurrentHashMap
 
@@ -1901,6 +1904,7 @@
 + [Netty-Reactor模型常见知识点小结](https://mp.weixin.qq.com/s/PCFRowteMKc8MNDdeCuS1Q)
 + [零拷贝机制](https://mp.weixin.qq.com/s/Q6b2qY28mBtAPd2lv_oGkA)
 + [如何基于Netty实现即时消息下发](https://mp.weixin.qq.com/s/gZoyDLycZDK8Xb7z7B-V1g)
++ [Netty进阶之路：ByteBuf内存管理与零拷贝技术源码级剖析，性能炸裂！](https://mp.weixin.qq.com/s/0GPEBmsKebpEGzs0TAhTAw)
 
 ## quarkus
 

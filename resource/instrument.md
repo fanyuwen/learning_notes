@@ -26,7 +26,7 @@
 + 分布式大数据计算 [arrow](https://arrow.apache.org/) [flink](https://flink.apache.org/) [spark](https://spark.apache.org/) [storm](https://storm.apache.org) [hive](https://hive.apache.org)
 
 ### PROJECT_MANAGER
-+ JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/)
++ JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/) [bazel](https://bazel.build/)
 
 ### JVM_LIBRARY
 + java 工具库 [jodd](https://jodd.org/)

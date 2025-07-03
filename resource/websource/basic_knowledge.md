@@ -664,6 +664,7 @@
 + [ASCII、Unicode、UTF-8、utf8mb4，有啥区别？](https://mp.weixin.qq.com/s/7khFCHebVtPSpsfGse7vCA)
 + [UTF-8 vs UTF-16](https://mp.weixin.qq.com/s/kEoMc5WD87UBF68FoUEXWQ)
 + [计算机字符编码进化史](https://mp.weixin.qq.com/s/ImaTGMevbhZaWdkztNCB7Q)
++ [码农基本功 - 字符集和编码](https://mp.weixin.qq.com/s/dQbmkmx7OsJzWzEKkP5SPw)
 
 ## 实践
 

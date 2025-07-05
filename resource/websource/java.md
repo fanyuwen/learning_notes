@@ -192,6 +192,7 @@
 + [Java 21 新特性的实践，确实很丝滑！](https://mp.weixin.qq.com/s/bsg1cjEGrK-QPIw5b0_ncA)
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
++ [Java 21 新特性的实践，确实很丝滑！](https://mp.weixin.qq.com/s/MIoTCTBD_WlpX_pL3qUhYQ)
 + [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
 + [JAVA 24 虚拟线程的演进：从愿景到生产实践](https://mp.weixin.qq.com/s/AYmxYLDzPusOb5Axf3WRCA)
 + [Java 24 中最值得关注的 5 大特性](https://mp.weixin.qq.com/s/81dwQnlizd3kvycJur1CsA)
@@ -399,6 +400,8 @@
 + [函数式编程在 Java：Function、BiFunction、UnaryOperator 你真的会用？](https://mp.weixin.qq.com/s/laHcsY0n10FefJmDXak0Ug)
 + [Java - Lambda表达式之内置函数式接口](https://mp.weixin.qq.com/s/T1A0qULJFf10ehGODspVoA)
 + [一些 Function 优雅实战代码参考](https://mp.weixin.qq.com/s/YPw1gh69qLle4KBKVJIhbg)
++ [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
++ [一些 Function 代码实战参考](https://mp.weixin.qq.com/s/nE2_VHuonxqgNBtYmK5cmw)
 
 ## 代码质量
 
@@ -2417,6 +2420,7 @@
 + [遨游Spring AI：第一盘菜Hello World](https://mp.weixin.qq.com/s/7_Qc-SrH9XbU2_L5OVj0aQ)
 + [遨游Spring AI：核心的AI概念解读](https://mp.weixin.qq.com/s/Zh6p8R4jjoMm-B-_PtRogw)
 + [搞定复杂 AI 集成！Spring AI + MCP 模式最佳实践揭秘](https://mp.weixin.qq.com/s/YNCyd7Q7JqcVbvpGajjaFA)
++ [Spring AI + LangGraph4j 多智能体开发，太强大了！](https://mp.weixin.qq.com/s/JI7lRqbGGs9ASR0GSn4T7A)
 
 ### cloud
 
@@ -2710,6 +2714,7 @@
 + [3 种 Springboot 全局时间格式化方式，别再写重复代码了](https://mp.weixin.qq.com/s/w49rqFp6jGZgwqZwY95Ryg)
 + [Java面试题010：一文深入了解Springboot原理](https://mp.weixin.qq.com/s/kKIigq4fkjD8mNJPk5hDBw)
 + [Spring Boot启动速度优化实战：手把手教你将启动时间缩短80%，快如闪电！](https://mp.weixin.qq.com/s/0mPNo6Ki1BAS_sxuQ2EVPw)
++ [Spring Boot 插件化开发模式，忒香了！](https://mp.weixin.qq.com/s/0dhEudwr64EFP_UrHIN6Fg)
 
 #### 版本特性
 
@@ -3153,6 +3158,8 @@
 + [SpringBoot的5种请求映射优化方式](https://mp.weixin.qq.com/s/9BstwSahbdZ40xPlvo2zYw)
 + [优雅！Spring Boot 处理动态请求body，太强了](https://mp.weixin.qq.com/s/j9UQ4gVytN-mT0y4BQa7Tw)
 + [别错过！Spring Boot 实现统一响应结果的 5 种方案](https://mp.weixin.qq.com/s/mgUvPlyg_7t7LLH7CXMDJQ)
++ [SpringBoot Filter、Interceptor、AOP 的使用场景与选型](https://mp.weixin.qq.com/s/f_PpUYWY6qQgXLMvMljAXA)
++ [SpringBoot 接口卡成狗？只用一招，吞吐量飙升10倍！](https://mp.weixin.qq.com/s/45gepgauICwydOinzUItGg)
 
 ##### 文件上传下载
 
@@ -3937,6 +3944,7 @@
 + [Java LazyMap的深度利用技巧](https://mp.weixin.qq.com/s/girRITO8HO0qgC5613ewKw)
 + [JavaParser入门：以编程方式分析Java代码](https://mp.weixin.qq.com/s/6R8KVKkSvqstNKdBfq_Cog)
 + [一套万能的异步处理方案（VIP珍藏版）](https://mp.weixin.qq.com/s/lJve1sJayC2L_1haC7rEhQ)
++ [日志解析神器——Logstash中的Grok过滤器使用详解](https://mp.weixin.qq.com/s/f_de8w4Rw1_DAkawZl7EMg)
 
 # 其它环境
 

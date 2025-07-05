@@ -92,6 +92,7 @@
 + [豪掷 235 亿大裁员，程序员为什么不愿意在传统车企干？](https://mp.weixin.qq.com/s/t_X6obHETlAPBGzRyjXcdQ)
 + [作为一个程序员你觉得是业务重要还是技术重要？](https://mp.weixin.qq.com/s/LDwvat4Bgmtl1HltjZYuCQ)
 + [你怎么看待满嘴高并发，编码能力却稀松平常的程序员？](https://mp.weixin.qq.com/s/yt_YxLGTPzow4WfFrx1Vkw)
++ [技术重构遭反噬！CTO震惊全公司的决定：炒掉整个后端团队！代码全用Rust重写！事后血泪教训：Rust 没错，错的是技术抹杀团队](https://mp.weixin.qq.com/s/LmFPF2bGvoOAYzLaPp-EWQ)
 
 # 个人成长
 
@@ -310,6 +311,7 @@
 + [使用 IDEA 远程 Debug 调试（一篇懂所有）](https://mp.weixin.qq.com/s/7e0Bd-dkhUNuCvi0jrTJCw)
 + [高手们都在用的IntelliJ IDEA小技巧](https://mp.weixin.qq.com/s/rZWBBOaNXhJ2u7ql6261lg)
 + [IntelliJ IDEA Debug 功能你真的会用吗？干货总结](https://mp.weixin.qq.com/s/Nfu8AnBNgiZvHUJlJkgSDA)
++ [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/JEIXLVdToY5p3O532IizJw)
 
 ## MAC_PRO相关
 

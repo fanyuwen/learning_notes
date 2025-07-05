@@ -142,6 +142,7 @@
 + [存储引擎系列--LSM树写放大优化之Partitioned Leveling合并策略](https://mp.weixin.qq.com/s/T03ln1I3rOjtjEdn8aIzAQ)
 + [如何保证MySQL和Redis数据一致性](https://mp.weixin.qq.com/s/3o8Fy3_MZ8w3wKhT47qe2Q)
 + [数据库深分页介绍及优化方案](https://mp.weixin.qq.com/s/NqaGlC4-_EbJ_Ib33i4PXQ)
++ [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/y2hgGyEHo2hmtMEe0p1o9g)
 
 ### 读写分离&分库分表
 
@@ -169,6 +170,7 @@
 + [高并发订单系统设计：每天新增100w订单数据的分库分表方案](https://mp.weixin.qq.com/s/w9U8q-zzHvCLvP8e6dzjRg)
 + [美团二面：如何用分库分表扛住10亿订单洪峰？架构师必须掌握的3个核心策略！](https://mp.weixin.qq.com/s/QL1yWN_NdCEaHIMmzWQ2wg)
 + [阿里面试：每天新增100w订单，如何的分库分表？这份答案让我当场拿了offer](https://mp.weixin.qq.com/s/XkbtHrZVRtx-f7REzi-eBg)
++ [10亿订单如何做分库分表？](https://mp.weixin.qq.com/s/JWmw6GtRaNg71RRbMMTJYg)
 
 ## 原理解析
 
@@ -427,6 +429,7 @@
 + [十个提升MySQL性能的操作](https://mp.weixin.qq.com/s/rLVCS5ACo30nV3gFH7TzZQ)
 + [避坑：MySQL单表建议行数不超过2000W！](https://mp.weixin.qq.com/s/O5AbN2PiUYCryGbcRco06w)
 + [MySQL添加、修改和删除数据](https://mp.weixin.qq.com/s/9mwPEYAMHEO5wsvMI5yk5g)
++ [MySQL 8.2 支持读写分离](https://mp.weixin.qq.com/s/8r49hb3FvOGjlElRvFfoLQ)
 
 #### 存储引擎
 

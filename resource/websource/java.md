@@ -402,6 +402,7 @@
 + [一些 Function 优雅实战代码参考](https://mp.weixin.qq.com/s/YPw1gh69qLle4KBKVJIhbg)
 + [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
 + [一些 Function 代码实战参考](https://mp.weixin.qq.com/s/nE2_VHuonxqgNBtYmK5cmw)
++ [连“双重分派”都不知道，还敢说是高级 Java 开发工程师？](https://mp.weixin.qq.com/s/MhocNaef71RRGnfq4RWIGg)
 
 ## 代码质量
 
@@ -576,6 +577,7 @@
 + [京东一面：Spring 为何需要三级缓存解决循环依赖，而不是二级缓存？我懵了。。](https://mp.weixin.qq.com/s/nM1Xxsg8iuwJFsOfqhvupw)
 + [面试官：equals和Objects.equals区别](https://mp.weixin.qq.com/s/vZf8bTmK5sqGSPSNBV1c0g)
 + [掌握 Java 队列：高并发时代的必备技能](https://mp.weixin.qq.com/s/_bH_lXIVe3yEgJOZs7nBXw)
++ [Java语法糖深度解析：从语法糖衣到编译原理](https://mp.weixin.qq.com/s/CjRUrva0CfzYIgPtjSwqMQ)
 
 ### 序列化
 
@@ -2399,6 +2401,7 @@
 + [优雅！Spring 基于 Plugin 插件开发（官方推荐）](https://mp.weixin.qq.com/s/O5SEC1OWNqS6gWHVENLUdw)
 + [Spring-Smart-DI 动态切换实现类，很不错！](https://mp.weixin.qq.com/s/LvdVMen9D20eNXfxjTL8Fg)
 + [Spring Integration 轻松实现服务间消息传递，真香！](https://mp.weixin.qq.com/s/pqCkXa5E9EGzhE7yyLaYqw)
++ [Java真的不难（八十七）Spring快速整合Mybatis（超详细案例）](https://mp.weixin.qq.com/s/ORv6zBvoXe5rQBoHXyfWuA)
 
 ### tool
 
@@ -2715,6 +2718,7 @@
 + [Java面试题010：一文深入了解Springboot原理](https://mp.weixin.qq.com/s/kKIigq4fkjD8mNJPk5hDBw)
 + [Spring Boot启动速度优化实战：手把手教你将启动时间缩短80%，快如闪电！](https://mp.weixin.qq.com/s/0mPNo6Ki1BAS_sxuQ2EVPw)
 + [Spring Boot 插件化开发模式，忒香了！](https://mp.weixin.qq.com/s/0dhEudwr64EFP_UrHIN6Fg)
++ [Spring Boot 性能优化：这 3 招让吞吐量直接 “起飞”！](https://mp.weixin.qq.com/s/Gld5BTfN5wVDT6mTL0zIyQ)
 
 #### 版本特性
 
@@ -3160,6 +3164,7 @@
 + [别错过！Spring Boot 实现统一响应结果的 5 种方案](https://mp.weixin.qq.com/s/mgUvPlyg_7t7LLH7CXMDJQ)
 + [SpringBoot Filter、Interceptor、AOP 的使用场景与选型](https://mp.weixin.qq.com/s/f_PpUYWY6qQgXLMvMljAXA)
 + [SpringBoot 接口卡成狗？只用一招，吞吐量飙升10倍！](https://mp.weixin.qq.com/s/45gepgauICwydOinzUItGg)
++ [Spring Boot+原生注解@JsonView 轻松过滤字段，真的优雅！](https://mp.weixin.qq.com/s/vkL4qrYKWMuAqWRszt0Duw)
 
 ##### 文件上传下载
 
@@ -3945,6 +3950,7 @@
 + [JavaParser入门：以编程方式分析Java代码](https://mp.weixin.qq.com/s/6R8KVKkSvqstNKdBfq_Cog)
 + [一套万能的异步处理方案（VIP珍藏版）](https://mp.weixin.qq.com/s/lJve1sJayC2L_1haC7rEhQ)
 + [日志解析神器——Logstash中的Grok过滤器使用详解](https://mp.weixin.qq.com/s/f_de8w4Rw1_DAkawZl7EMg)
++ [彻底告别 Controller、Service、Dao，让人上瘾的开发神器...](https://mp.weixin.qq.com/s/41bl1B9SOpBmfLghGJ5W2w)
 
 # 其它环境
 

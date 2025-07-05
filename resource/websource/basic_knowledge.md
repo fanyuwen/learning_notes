@@ -157,6 +157,7 @@
 + [一文看懂 Linux 的 Buffer 和 Cache，到底有啥区别？](https://mp.weixin.qq.com/s/qqVZ6VmB9PLxcwv2VlD5Bw)
 + [Linux 多线程的信号处理机制](https://mp.weixin.qq.com/s/ut2ZKgrX00G4GS6CE3yHuQ)
 + [必须监控的 17 个 Linux 日志文件](https://mp.weixin.qq.com/s/P8E0KTFngX9Ptk0GOSIezQ)
++ [Crontab定时任务的这些坑，你踩过几个？](https://mp.weixin.qq.com/s/p0_iN7ydeKlf-i6ARuSbyA)
 
 ### 网络
 
@@ -243,6 +244,8 @@
 + [掌握 Linux 核心命令：解锁 cat 的高效用法！](https://mp.weixin.qq.com/s/yRu8CzyW_Dy5p5LHq-Ju7g)
 + [curl命令终极指南：从入门到封神，一篇文章让你成为网络请求大师](https://mp.weixin.qq.com/s/oZJKZzhFlngizPLLRAY5ng)
 + [Linux 最简单的命令：echo](https://mp.weixin.qq.com/s/TdLJzRe-dD0pq1fL223AVw)
++ [apt 与 apt-get：你应该了解的关键区别](https://mp.weixin.qq.com/s/R52oINvKqsTRJxV3l0LX7A)
++ [Linux管道符不只是|，这些组合技巧让你秒变运维大神](https://mp.weixin.qq.com/s/fXKsfS2vY1Uw_P-CBI8e-Q)
 
 ### 发行版信息
 

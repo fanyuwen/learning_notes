@@ -19,6 +19,7 @@
 + [Makefile基础入门一：从编译小白到自动化构建达人](https://mp.weixin.qq.com/s/f4zbG0D5Sk6XtWLOjIg90A)
 + [链接器是如何一步步发明出来的？](https://mp.weixin.qq.com/s/Ie99bZu3fAkS2ndVOflOAA)
 + [内存问题克星：VSCode GDB调试全攻略](https://mp.weixin.qq.com/s/16mCBeCkIaimH4KxouMSTw)
++ [提升 C++ 代码质量的利器：静态分析工具和实操技巧全指南](https://mp.weixin.qq.com/s/hClgQbHzswl1gC1X-KfsHg)
 
 ### cmake
 
@@ -52,6 +53,7 @@
 + [C++代码跑得慢？用Compiler Explorer一看就明白](https://mp.weixin.qq.com/s/V41zhGlzyITeagaWCyXUKg)
 + [typedef 和 using 到底啥区别？3分钟测试你的语法直觉](https://mp.weixin.qq.com/s/Ng288GU1KdW464MpLptohA)
 + [关于string vector set map pair的使用](https://mp.weixin.qq.com/s/E5qkm3kO54z6yTqVio6dQQ)
++ [C++第7课：异常处理](https://mp.weixin.qq.com/s/BeK8HIGJ0yPmDhpW177Pcg)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++第9课：输入输出流](https://mp.weixin.qq.com/s/_BuQGOJIbdGhTdRRbpZAJQ)
@@ -262,6 +264,7 @@
 + [C++共享内存与虚函数问题](https://mp.weixin.qq.com/s/IhdQBQ2p9T-1wGlwsZVtJQ)
 + [一线实战80万年薪总结整理，必会27个C++新特性(11/14/17/20)](https://mp.weixin.qq.com/s/cRQRfQ0VabW38shcMhrvgA)
 + [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
++ [C++进阶学习20——宽度优先搜索](https://mp.weixin.qq.com/s/Eeliyw8R4x2nOm2QuS7Cwg)
 
 ### 资讯
 

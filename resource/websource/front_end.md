@@ -203,6 +203,7 @@
 + [告别 substr() 和 substring()？更可靠的 JavaScript 字符串截取方法](https://mp.weixin.qq.com/s/Buw-vk2Q6tj69-N7lV22eg)
 + [async/await 原理深度解析：JavaScript异步编程底层工作机制全揭秘](https://mp.weixin.qq.com/s/GDpDydv4HLvRhVfi7pA2ug)
 + [JavaScript 模块导入全解析：从 ES6 原理到实战应用指南](https://mp.weixin.qq.com/s/R5xjibk9YL97AuGzVZwH8w)
++ [别再手动 try...catch 了：一种更优雅的 async/await 错误处理模式](https://mp.weixin.qq.com/s/iBK0AUavQeRzOvKBbm7uCw)
 
 # 框架
 

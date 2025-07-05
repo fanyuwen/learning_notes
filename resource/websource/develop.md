@@ -412,6 +412,7 @@
 + [基于防重表的通用接口幂等性设计方案](https://mp.weixin.qq.com/s/P6Ixoq225Lbv3caB971ePg)
 + [业务幂等性技术架构体系](https://mp.weixin.qq.com/s/P1tz63aAYMvvY3Fe_MYi0g)
 + [如何秒级实现接口间“幂等”补偿：一款轻量级仿幂等数据校正处理辅助工具](https://mp.weixin.qq.com/s/EYOomxXRFoXJ7kk6BQoaxw)
++ [防止重复提交的解决方案—防重Token](https://mp.weixin.qq.com/s/GxzMjxOSlQWs-HWgIyhpfw)
 
 ### 负载&限流
 

@@ -860,6 +860,7 @@
 + [Redis缓存穿透的6种防范策略](https://mp.weixin.qq.com/s/d55p0t21TjrPAORK1ozEyg)
 + [Redis中篇--应用](https://mp.weixin.qq.com/s/tcUQeX1PFOrW_ifSBytefQ)
 + [基于 Redis 实现的轻量级延迟队列](https://mp.weixin.qq.com/s/10K7AA74yiiIYt6-pyM5TA)
++ [详解Redis中的Stream](https://mp.weixin.qq.com/s/FaqCe60zKh498FGqhm2yQA)
 
 #### 原理
 

@@ -472,6 +472,7 @@
 + [HTTP 如何升级成 HTTPS](https://mp.weixin.qq.com/s/8ux2nk4lmeF8bwT7RX4hgA)
 + [为什么要使用HTTP协议？](https://mp.weixin.qq.com/s/7C-PBgZe3GAqnyRb_tjdJQ)
 + [IP地址之子网掩码](https://mp.weixin.qq.com/s/YqS6U5gGuRk3feYRC3EbnQ)
++ [用了这么久HTTP，这些状态码的妙用你都知道吗](https://mp.weixin.qq.com/s/jf5b-eBtwsXFvoZmKpmDvg)
 
 #### CORS
 
@@ -663,6 +664,7 @@
 + [缓冲区详解：数据如何从磁盘读到用户进程你真的了解吗？快来看看吧！](https://mp.weixin.qq.com/s/asMM2hO5ibzoJ4EuN3xIWw)
 + [从青铜到王者：带你吃透epoll核心机制](https://mp.weixin.qq.com/s/PwPzH2MEuH4jmTqH6yjU-g)
 + [内存IO原理大起底：那些你必须知道的底层真相](https://mp.weixin.qq.com/s/Uq968KVp8ja4eOi1aPj_RA)
++ [零拷贝技术：让你的程序性能翻倍的秘密武器](https://mp.weixin.qq.com/s/ytf3FQCwbBoeDXwKDC-DwA)
 
 ## 字符编码
 

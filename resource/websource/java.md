@@ -177,6 +177,7 @@
 + [Map.of()的兄弟方法Map.ofEntries()使用禁忌](https://mp.weixin.qq.com/s/lZYa71VXRanvusuUU5Qf-g)
 + [创建Map集合的快捷方法Map.of()，第一次用就踩坑了？谨记这3点防止再次入坑！](https://mp.weixin.qq.com/s/uwy0OuboXxpXTHGeDOVXuA)
 + [Java 8 到 Java 24 新特性一览](https://mp.weixin.qq.com/s/GPMHkH7eJ02yWReeQVTEtg)
++ [从 Java 8 到 Java 21：版本演进如何重塑我的开发流程](https://mp.weixin.qq.com/s/cKve9U_28LcX3ruEPuG8gQ)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
 + [Java 9新集合工厂方法：开启高效编程新时代](https://mp.weixin.qq.com/s/dUIkaAHx6pvRWJJU71qItA)
@@ -312,6 +313,7 @@
 + [Java观察者模式深度实战：从支付系统到配置中心的架构级应用](https://mp.weixin.qq.com/s/5Dz819w_S6JGPwJeYJmGIQ)
 + [构建灵活系统的“生产流水线”：Java 工厂设计模式](https://mp.weixin.qq.com/s/jsvv-EcLWrn-qwQQizLi6w)
 + [在Java中如何写一个正确的单例模式](https://mp.weixin.qq.com/s/e7TleAQP9RWsnQo_3Ha6yA)
++ [别再 new 子类了！用装饰器模式，给你的代码“加Buff”](https://mp.weixin.qq.com/s/tv2tyH732umDSypvwC3FDg)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
@@ -404,6 +406,7 @@
 + [一些 Function 代码实战参考](https://mp.weixin.qq.com/s/nE2_VHuonxqgNBtYmK5cmw)
 + [连“双重分派”都不知道，还敢说是高级 Java 开发工程师？](https://mp.weixin.qq.com/s/MhocNaef71RRGnfq4RWIGg)
 + [面试官再问Comparable？这篇怪兽文甩给TA！](https://mp.weixin.qq.com/s/NJiVv-ZW-h5yeLCsOXUhnQ)
++ [一些 Function 的高级实战案例参考](https://mp.weixin.qq.com/s/xdUj8ZXMeWxVTg90F3Opww)
 
 ## 代码质量
 
@@ -1025,6 +1028,7 @@
 + [线上OOM问题排查实战：技术leader手把手教你分析dump文件，快速定位内存泄漏！](https://mp.weixin.qq.com/s/LkO9thXBPxtfxrYqKQSnPw)
 + [JVM内存结构33连问](https://mp.weixin.qq.com/s/7o8Iqgjvd0eV2fvp0f4wSA)
 + [JVM内存模型（JMM）深度解析：volatile与synchronized如何保证可见性与有序性？](https://mp.weixin.qq.com/s/07fVBhHn1YM_SvdKbnCULg)
++ [案例分析：java莫名发生Direct buffer OutOfMemoryError](https://mp.weixin.qq.com/s/FL2nl0O23QLzYYMVMUi2LQ)
 
 ### 类加载
 
@@ -1381,6 +1385,7 @@
 + [Java ThreadLocal 应用指南：从用户会话到数据库连接的线程安全实践](https://mp.weixin.qq.com/s/VAmcXlka1AeGAIgnMkpZTw)
 + [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
 + [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
++ [ThreadLocal详解：解决多线程数据共享的神器](https://mp.weixin.qq.com/s/0PDBPS5JcwiEvG3xS0q6yg)
 
 ### Lock
 
@@ -1799,6 +1804,8 @@
 + [MyBatis的trim标签用法](https://mp.weixin.qq.com/s/tnVz4ieAex6tLwKAd9DWag)
 + [Java真的不难（八十六）MyBatis的入门及核心原理](https://mp.weixin.qq.com/s/2risBTOMtEFhLMtiPWx3Pw)
 + [MyBatis中#{}并非万能：动态SQL实战指南](https://mp.weixin.qq.com/s/euiMc6WdaepDLfJQvx4ZwA)
++ [了解Mybatis拦截器](https://mp.weixin.qq.com/s/gvDNDnFRjCk8r4_rwAYWhg)
++ [Java真的不难（九十）史上最详细的Mybatis逆向工程](https://mp.weixin.qq.com/s/J1Ja2Pd5XhShb5jTNFNpZQ)
 
 ### plus
 
@@ -1967,6 +1974,7 @@
 
 + [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
 + [游戏推荐业务中基于 sentinel 的动态限流实践](https://my.oschina.net/vivotech/blog/16378460)
++ [Sentinel自适应限流原理](https://mp.weixin.qq.com/s/punZ64lW5Rp-u5yJR7muig)
 
 ## shiro
 
@@ -2213,6 +2221,7 @@
 + [ListenableFutureCallback回调接口](https://mp.weixin.qq.com/s/TqL8ldw0sDMAbO65prt8Kw)
 + [Spring框架@Async注解](https://mp.weixin.qq.com/s/PUHi1TJD8aq9S6C4onQMOQ)
 + [Spring自带的定时任务也能控制启停，你用过吗？](https://mp.weixin.qq.com/s/0XI89Cr4Z2XhcOCtLuW86w)
++ [搞懂Spring任务执行器和调度器模型](https://mp.weixin.qq.com/s/fJEUDmk27NLeD-lxreF1OQ)
 
 ### security
 
@@ -2236,6 +2245,7 @@
 + [全方位保护！Spring Security 过滤器为你的应用筑起安全防线--1](https://mp.weixin.qq.com/s/NB4eigfUHAm9HMmtCj8fGw)
 + [Spring Security](https://mp.weixin.qq.com/s/eRFz3LV8WKHShBNSIC9clg)
 + [Spring Security核心概念讲解](https://mp.weixin.qq.com/s/7kvpok7PuAPRHvsmPooRPQ)
++ [两万字详解，带你彻底搞懂 Spring Security 6.0 的实现原理](https://mp.weixin.qq.com/s/jE418cBP5N25k_NUYjZ_Xw)
 
 ### data
 
@@ -2349,6 +2359,7 @@
 + [小米二面：Spring 的事件监听机制是什么？](https://mp.weixin.qq.com/s/dLBNYEEgKTPxMLun0DNU3A)
 + [Spring事件驱动模型：ApplicationEvent与Listener的优雅解耦实践！](https://mp.weixin.qq.com/s/M8xMsmAir38LNACtC8Kccg)
 + [还在 Service 里疯狂注入其他 Service？你早就该用 Spring 的事件机制了](https://mp.weixin.qq.com/s/Dqgg6pu4GgZr77SsHGZkqw)
++ [百万订单零超卖：Spring事件驱动解耦库存的终极武器](https://mp.weixin.qq.com/s/0Y4ahUeztK61-MN01T47qg)
 
 ### AOP
 
@@ -2479,6 +2490,7 @@
 + [Spring Cloud中的@LoadBalanced注解实现原理](https://mp.weixin.qq.com/s/pBdKubdr6yX9U_eBua-DEg)
 + [搞懂Spring Cloud Config配置信息自动更新原理](https://mp.weixin.qq.com/s/KpDcTAPqyYlsIZQBZlQjSg)
 + [Spring Cloud 分布式实时日志分析采集三种方案~](https://mp.weixin.qq.com/s/DWq3gELoRGkHIlnxPwi6Yg)
++ [Spring Cloud 快速通关3：OpenFeign](https://mp.weixin.qq.com/s/EnSLKL1_hQOQaQ_gch4GDg)
 
 #### alibaba
 
@@ -2725,6 +2737,10 @@
 + [Spring Boot 性能优化：这 3 招让吞吐量直接 “起飞”！](https://mp.weixin.qq.com/s/Gld5BTfN5wVDT6mTL0zIyQ)
 + [解放双手：SpringBoot 公共字段自动填充的6种神技，开发效率飙升！](https://mp.weixin.qq.com/s/OB5Teg52djBMQjpw4K1k1A)
 + [谁更快？Spring Boot 七大表达式引擎，哪个更适合你](https://mp.weixin.qq.com/s/66Rw6-mCIU6oWbRiCXGKiA)
++ [别再乱调参数了！SpringBoot性能优化避坑指南 + 大厂最佳实践](https://mp.weixin.qq.com/s/XsxGM77KjoCoUMMIdADgYg)
++ [SpringBoot项目结构深度解析：这些目录你真的用对了吗？](https://mp.weixin.qq.com/s/MIUV3h9ADVH29fQxN6tWlg)
++ [简单理解SpringBoot自动装配](https://mp.weixin.qq.com/s/g0frJYikWMBdhVNx8UiZ4w)
++ [使用 Spring Boot 创建自定义启动器（Starter）](https://mp.weixin.qq.com/s/YL-SDO1TnKDQblZchAQ6nA)
 
 #### 版本特性
 
@@ -3734,6 +3750,7 @@
 + [SpringBoot 集成 RocketMQ：异步消息队列实战，让系统飞起来！](https://mp.weixin.qq.com/s/oGin8pw8Nd2P-uwYtAVyVw)
 + [SpringBoot 与 ZXing 完美结合](https://mp.weixin.qq.com/s/Xu4Sc8xSeveEE86in0trEw)
 + [DuckDB + Spring Boot + MyBatis 构建高性能本地数据分析引擎](https://mp.weixin.qq.com/s/KqTwcZC7jhATNh3uln-Ypw)
++ [SpringBoot自定义MyBatis拦截器](https://mp.weixin.qq.com/s/flu2AocIlMkTD82JtbsoDg)
 
 #### test
 

@@ -430,6 +430,7 @@
 + [避坑：MySQL单表建议行数不超过2000W！](https://mp.weixin.qq.com/s/O5AbN2PiUYCryGbcRco06w)
 + [MySQL添加、修改和删除数据](https://mp.weixin.qq.com/s/9mwPEYAMHEO5wsvMI5yk5g)
 + [MySQL 8.2 支持读写分离](https://mp.weixin.qq.com/s/8r49hb3FvOGjlElRvFfoLQ)
++ [mysql数据库基础知识总结](https://mp.weixin.qq.com/s/AHJne4PXua_dWvoEmMcM9g)
 
 #### 存储引擎
 
@@ -864,6 +865,7 @@
 + [基于 Redis 实现的轻量级延迟队列](https://mp.weixin.qq.com/s/10K7AA74yiiIYt6-pyM5TA)
 + [详解Redis中的Stream](https://mp.weixin.qq.com/s/FaqCe60zKh498FGqhm2yQA)
 + [【连载 57】Redis 性能测试实战—— 缓存过期](https://mp.weixin.qq.com/s/wwqownRO4gBjdwhH11WnKA)
++ [Redis哨兵模式介绍和实战](https://mp.weixin.qq.com/s/3cCjUa0ocuqgC5iBw_WFrg)
 
 #### 原理
 

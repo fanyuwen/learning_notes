@@ -173,3 +173,4 @@
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
 + [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
++ [剑指offer-8、跳台阶](https://mp.weixin.qq.com/s/JZU8w5Zp42JcWnMcR7P6Yg)

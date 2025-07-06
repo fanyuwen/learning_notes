@@ -141,6 +141,7 @@
 + [Python 进阶：lambda 匿名函数](https://mp.weixin.qq.com/s/-sAeAPFNga8_wCQihylDSA)
 + [Python函数式编程指南：lambda、map、filter、reduce的高级用法](https://mp.weixin.qq.com/s/C7ZbQZHtkFMtrX57bYY0lA)
 + [第一章 Python常用函数（1-11）](https://mp.weixin.qq.com/s/ldDN_bBXc9ETDfjdvtGgMQ)
++ [Python进阶之路：第十四章 函数初探：重复代码一招搞定，自定义函数与参数传递](https://mp.weixin.qq.com/s/uwRygxhr9QQgKjrRMjGZrA)
 
 ### 面向对象
 
@@ -191,6 +192,7 @@
 + [Python入门教程05：字符串用法大全](https://mp.weixin.qq.com/s/iP0rpvGntr2rOrXeP3AnxA)
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
++ [Python 容器的使用技巧](https://mp.weixin.qq.com/s/LK08mdLi0cCje4SdXNfqyw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
 + [Python标准库中最强的工具——Collections模块深度剖析](https://mp.weixin.qq.com/s/zlT7_szUwBJswvuKVY6idQ)
@@ -595,6 +597,7 @@
 + [Python编程精进：盘点10个优化技巧](https://mp.weixin.qq.com/s/F8i1oABYt4Qfiy1ydBt8IA)
 + [一把锋利的双刃剑：Python 内置函数 eval 的深度解析与实践指南](https://mp.weixin.qq.com/s/kFM-CDfH9pVnRz8MfuWdSA)
 + [Python：一行代码高效处理40个任务](https://mp.weixin.qq.com/s/E3BM1GTb13xPF26LXUNv1Q)
++ [Python实用项目——从0开始，在Python中创造一棵树！](https://mp.weixin.qq.com/s/ENvwp2v5_dn7ctcLxI2EDA)
 
 ## 新特性
 

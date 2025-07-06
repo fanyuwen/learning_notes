@@ -175,6 +175,7 @@
 + [深度解析：基于 RocketMQ 实现分布式事务的技术实践与原理探究](https://mp.weixin.qq.com/s/RMrmrwWuQIrMESLhYGhlRg)
 + [RocketMQ系列：消息的顺序性【第6讲】](https://mp.weixin.qq.com/s/g92huf2WtoV2tAvEQFhbVQ)
 + [RocketMq如何借助CommitLog实现百万并发的能力](https://mp.weixin.qq.com/s/0A1uCQl2DhQeFl44wbzfrw)
++ [RabbitMQ-RocketMQ和Kafka有什么区别](https://mp.weixin.qq.com/s/Dnb9OaQpKrCqSKqL34lcUQ)
 
 # RABBITMQ
 

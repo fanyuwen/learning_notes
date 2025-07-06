@@ -658,6 +658,8 @@
 + [大文件上传(实战篇A)：HTTP Range也疯狂！](https://mp.weixin.qq.com/s/3Pl56TMHk5KFHrWqheMaPg)
 + [别再双写了！异步+消息队列才是王道！](https://mp.weixin.qq.com/s/ARY2yJKpFErSiX3UJZDcMg)
 + [从代码复杂度入手，如何写出高质量的代码](https://mp.weixin.qq.com/s/eDdzzXLHwZG4t5BvpDHvCA)
++ [接口设计的原则：构建优雅API的完整指南](https://mp.weixin.qq.com/s/BdGGJJJhU-ZotxJvyuP46w)
++ [为什么所有程序员都需要懂编译器前端](https://mp.weixin.qq.com/s/rCPQd0XXgYemz5qPp4pBxQ)
 
 # 测试相关
 

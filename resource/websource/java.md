@@ -3974,6 +3974,7 @@
 + [JavaParser入门：以编程方式分析Java代码](https://mp.weixin.qq.com/s/6R8KVKkSvqstNKdBfq_Cog)
 + [一套万能的异步处理方案（VIP珍藏版）](https://mp.weixin.qq.com/s/lJve1sJayC2L_1haC7rEhQ)
 + [日志解析神器——Logstash中的Grok过滤器使用详解](https://mp.weixin.qq.com/s/f_de8w4Rw1_DAkawZl7EMg)
++ [一行代码搞定数据校验？解密 Java Bean Validation](https://mp.weixin.qq.com/s/F2r_PMce1BHP1zbw36TBHg)
 
 # 其它环境
 

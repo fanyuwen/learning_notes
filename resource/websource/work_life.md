@@ -400,6 +400,8 @@
 + [Scala 语言未来如何进化？](https://www.oschina.net/news/345137/evolving-scala)
 + [为什么现在编程比以前容易了？](https://mp.weixin.qq.com/s/v-KoXofvJrRp2I39KSexzQ)
 + [让百万程序员跪着喊“祖师爷赏饭”！Vue作者尤雨溪，是一个怎样的人？](https://mp.weixin.qq.com/s/JoKXcZI99w9wLn9LmU_voQ)
++ [这个发誓不用Java的程序员，终于受到惩罚了......](https://mp.weixin.qq.com/s/fhdMTY-MxjsVnjejK68S4A)
++ [图灵奖大佬向97年小孩哥汇报？小扎1亿年薪买新贵，老将痛诉熬夜捡GPU！](https://mp.weixin.qq.com/s/deR7Pq8Tf21BX8QgH-6Q1w)
 
 ## 创业
 

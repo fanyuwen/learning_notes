@@ -42,6 +42,7 @@
 + [高并发架构实践：RocketMQ、Kafka、RabbitMQ谁才是王者？](https://mp.weixin.qq.com/s/E1AEj79IqiuxHuhgnb2yFA)
 + [面试官：什么是死信队列？死信队列是如何导致的？](https://mp.weixin.qq.com/s/xTTzhyM2BxFJ_LCo7Z4myg)
 + [MQ黄金三剑客：RabbitMQ、RocketMQ和Kafka深入解密常见问题及功能对比指南？](https://mp.weixin.qq.com/s/LkdSDlHbguiDemOsuG6XDQ)
++ [字节高频面试题： MQ怎么做到事务消息的，怎么保证数据不丢失？](https://mp.weixin.qq.com/s/Wb_Yeu3t94T1hcR49OgBEQ)
 
 # KAFKA
 

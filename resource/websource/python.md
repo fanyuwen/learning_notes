@@ -257,6 +257,7 @@
 + [Python常用系统类库之zipfile压缩](https://mp.weixin.qq.com/s/O413bvsbsbb_5vFULjm9Hg)
 + [Python编程精进：DataClass](https://mp.weixin.qq.com/s/0DyoV6HuweI97RwuSgl_LA)
 + [Python常用系统类库之logging日志](https://mp.weixin.qq.com/s/oAK22pglPi2cFS2lQXYifA)
++ [Python编程精进：CSV 模块](https://mp.weixin.qq.com/s/hmnmujmTKS_a0VeFirTp_Q)
 
 ### 异步/多线程
 
@@ -598,6 +599,7 @@
 + [一把锋利的双刃剑：Python 内置函数 eval 的深度解析与实践指南](https://mp.weixin.qq.com/s/kFM-CDfH9pVnRz8MfuWdSA)
 + [Python：一行代码高效处理40个任务](https://mp.weixin.qq.com/s/E3BM1GTb13xPF26LXUNv1Q)
 + [Python实用项目——从0开始，在Python中创造一棵树！](https://mp.weixin.qq.com/s/ENvwp2v5_dn7ctcLxI2EDA)
++ [Python 常见的陷阱](https://mp.weixin.qq.com/s/d_v2bjOBswTVfZoe3vYLMg)
 
 ## 新特性
 

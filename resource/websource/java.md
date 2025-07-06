@@ -756,6 +756,7 @@
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
 + [Java并发编程对象组合与封闭性实践指南](https://mp.weixin.qq.com/s/09X9ul9PxmNkNSZzbvNX2A)
 + [Java 异常处理难点突破：Lambda 表达式与并发编程的优雅解决方案](https://mp.weixin.qq.com/s/5geY3xjAhMwtbq6XWEtMLA)
++ [一文搞懂线程、协程、虚拟线程的区别](https://mp.weixin.qq.com/s/iAfxrvL-cUxVJG6R3F1JgA)
 
 #### CAS
 
@@ -771,6 +772,7 @@
 
 #### 线程池
 
++ [Java线程池详解：高效并发编程的核心利器](https://mp.weixin.qq.com/s/aBwzMqCVDAihfqwC6bQHug)
 + [一个线程 OOM，线程池里其他线程还能运行吗？](https://mp.weixin.qq.com/s/np1of6mVKrT_zqMohga2TA)
 + [字节二面一个线程池问题，把我问懵了。](https://mp.weixin.qq.com/s/20kSRugoVTlhxeiY5Mqjug)
 + [字节面试题：核心线程不被回收，90%的人都挂！](https://mp.weixin.qq.com/s/8qWhNTRr58g15U5OHS-mMQ)
@@ -882,6 +884,7 @@
 + [深入理解 Synchronized 锁机制，搞懂 Java 并发的“镇宅之宝”！](https://mp.weixin.qq.com/s/oxOyeasW0bcBokXtCYdzYg)
 + [Java 8 可重入锁设计之JUC ReentrantLock](https://mp.weixin.qq.com/s/xHh8H_OqNXmRk3xYbhgJmg)
 + [Java面试题006：一文深入了解多线程并发---锁机制](https://mp.weixin.qq.com/s/Cuv4uj3MZks7eV2JahHYxw)
++ [高并发编程第一课：JOL日志揭开synchronized锁升级的底层面纱](https://mp.weixin.qq.com/s/GFalvDuLRywPXD8tTjET2w)
 
 #### volatile
 
@@ -1094,6 +1097,7 @@
 + [历数Java虚拟机GC的种种缺点](https://mp.weixin.qq.com/s/bMBY5qVVX4O6q7oaHu1VNw)
 + [JVM年轻代为什么设计2个Survivor区](https://mp.weixin.qq.com/s/yd92irmSEIcD8WZiTc9ZsQ)
 + [JVM的通关指南（四）五分钟了解JVM的垃圾收集器](https://mp.weixin.qq.com/s/HMMIN2zbrJd3fmBWKaw3hQ)
++ [JVM 调优用了 CMS 就惨遭资本优化？改为 G1 吞吐量飙升 174%！](https://mp.weixin.qq.com/s/hK1AAGM_jGuhvyPrt7mB3g)
 
 # 核心库
 
@@ -2205,6 +2209,7 @@
 + [一文吃透@PathVariable注解，Java编程轻松拿捏](https://mp.weixin.qq.com/s/nlgiLEnUWYlWIooRTSPXZg)
 + [Spring神器揭秘：PathMatchingResourcePatternResolver 的强大资源扫描能力](https://mp.weixin.qq.com/s/O3eT7bhV43l5tg2tuMYIRQ)
 + [彻底搞懂Web异步编程模型](https://mp.weixin.qq.com/s/X53iwZMTQ0DQulB5kod6fQ)
++ [接口安全三重门：SpringBoot防护XSS/SQL/重放攻击](https://mp.weixin.qq.com/s/hOoJqCeuG2I30musubfSTQ)
 
 ### concurrent
 
@@ -2260,6 +2265,7 @@
 + [Spring（八）Spring Data JPA 与 O/R Mapping 实战](https://mp.weixin.qq.com/s/AeMEQLT17sL8AcqY2CjhWg)
 + [Java教程：RedisTemplate如何存取数据并使用scan非阻塞删除](https://mp.weixin.qq.com/s/FvCannAnk1etTJPO3_TSAA)
 + [Spring Data简介与核心概念详解](https://mp.weixin.qq.com/s/F-eSYB4ewNnOLT0V5oFpSw)
++ [Redis 操作全流程揭秘: ConnectionFactory 背后的设计哲学](https://mp.weixin.qq.com/s/1y5PEhZ6XUjhiHkcXqygiw)
 
 #### BATCH
 
@@ -2348,6 +2354,7 @@
 + [Spring的缓存帝国，得益于这 5个注解！](https://mp.weixin.qq.com/s/19u0Las7ego4G5c4uMrP2A)
 + [高德地图1面：聊聊 @Cacheable注解的原理！](https://mp.weixin.qq.com/s/ETqrDBrQb0qsySYrbMd1ig)
 + [Spring 缓存注解浅析及实践](https://my.oschina.net/u/4090830/blog/18183157)
++ [告别繁琐！Spring Cache 让缓存实现如此优雅](https://mp.weixin.qq.com/s/yGUjpDKoGvwvqZ6SQbThgQ)
 
 ### EVENT
 
@@ -3188,6 +3195,7 @@
 + [SpringBoot 接口卡成狗？只用一招，吞吐量飙升10倍！](https://mp.weixin.qq.com/s/45gepgauICwydOinzUItGg)
 + [Spring Boot+原生注解@JsonView 轻松过滤字段，真的优雅！](https://mp.weixin.qq.com/s/vkL4qrYKWMuAqWRszt0Duw)
 + [告别轮询！Spring Boot+Webhook 构建实时响应系统](https://mp.weixin.qq.com/s/wEOnYLSsejQwvi3kTiG18A)
++ [Java教程：SpringBoot项目如何使用RestTemplate发送与接收http/https请求](https://mp.weixin.qq.com/s/uGrf6Cr_7rwC2hLMN4lxlQ)
 
 ##### 文件上传下载
 
@@ -3549,6 +3557,7 @@
 + [【代码整洁术】再见，if-else！你好，Spring Boot 工厂模式](https://mp.weixin.qq.com/s/8nnCVo35O8DOaEnUhTFBZA)
 + [Java装饰器模式：每个Spring Boot开发者都必须掌握的设计模式](https://mp.weixin.qq.com/s/8XPnFH6cIVlqD53r1DqkvA)
 + [一个 new 操作耗时1秒？用原型模式，性能提升100倍！](https://mp.weixin.qq.com/s/DLfoYJNtH8VS6PIjKH2h6w)
++ [策略模式 vs 适配器模式：SpringBoot开发中的双剑合璧之道](https://mp.weixin.qq.com/s/tUULn9MzOJ3kk22Wg-RsfA)
 
 #### message
 
@@ -3791,6 +3800,7 @@
 + [Spring Boot中Tomcat、Jetty、Undertow哪个嵌入式服务器最好？](https://mp.weixin.qq.com/s/J1xpLVCJT0ojoFvB1vgVGg)
 + [Java内存马——Listener型的两种注入](https://mp.weixin.qq.com/s/2OVrBKpPt5nHIeDAK-3s_w)
 + [如何修改HttpServletRequest中的参数](https://mp.weixin.qq.com/s/EI-pkem6eXT5q-Z_NnnwVw)
++ [多线程环境下RequestContextHolder小坑](https://mp.weixin.qq.com/s/6cBibum_C62k-8aZTnMEWQ)
 
 ## xxl-job
 
@@ -3803,6 +3813,10 @@
 + [死磕xxl-job（一）](https://mp.weixin.qq.com/s/in1OE5VjVSKm4bD8ulAV1g)
 + [死磕xxl-job（二）](https://mp.weixin.qq.com/s/Dx6-8h4Md0DO4W4Gw9UVVg)
 + [魔改xxl-job，彻底告别手动配置任务！](https://mp.weixin.qq.com/s/t7XWN2f-8mtDxZhbVhXjTw)
+
+## zuul
+
++ [Java面试题021：一文深入了解微服务之网关Zuul](https://mp.weixin.qq.com/s/Lugyp2RAMo9Or9KSPY2BEg)
 
 ## 消息队列
 

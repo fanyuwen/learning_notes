@@ -204,6 +204,7 @@
 + [async/await 原理深度解析：JavaScript异步编程底层工作机制全揭秘](https://mp.weixin.qq.com/s/GDpDydv4HLvRhVfi7pA2ug)
 + [JavaScript 模块导入全解析：从 ES6 原理到实战应用指南](https://mp.weixin.qq.com/s/R5xjibk9YL97AuGzVZwH8w)
 + [别再手动 try...catch 了：一种更优雅的 async/await 错误处理模式](https://mp.weixin.qq.com/s/iBK0AUavQeRzOvKBbm7uCw)
++ [为什么forEach中await异步不生效？90%开发者踩过的异步坑](https://mp.weixin.qq.com/s/JUGAxyO99MH5uTxU0pdxfA)
 
 # 框架
 

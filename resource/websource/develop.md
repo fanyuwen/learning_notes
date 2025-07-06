@@ -132,6 +132,7 @@
 + [DDD领域驱动设计实战：如何用DDD重构一个复杂的电商系统？阿里技术专家的实践分享。](https://mp.weixin.qq.com/s/OH03xojZg78AcUfjTnBHZQ)
 + [你的 DDD 还在纸上谈兵？是时候落地了！](https://mp.weixin.qq.com/s/YYDagnkugBiCQQQ5Rty3XQ)
 + [P8架构师揭秘：DDD领域驱动设计在复杂业务系统中的最佳实践！](https://mp.weixin.qq.com/s/jUEk3TjCxjXJIV4LT3QT8A)
++ [领域驱动设计(DDD)如何重塑金融系统架构？](https://mp.weixin.qq.com/s/QaBPxSpa-Fvhme80OLV6ww)
 
 ## 微服务
 
@@ -316,6 +317,7 @@
 + [分布式事务解决方案—本地消息表](https://mp.weixin.qq.com/s/vV4TeIMt8jjMaDc5Q9Nyxg)
 + [当你在电商下单时，钱到底怎么扣？用TCC模式解决分布式事务难题](https://mp.weixin.qq.com/s/079uvVSTy0xZqJza-Y26Uw)
 + [分布式事务解决方案—事务消息](https://mp.weixin.qq.com/s/t7Rdix-eD1uzFIm43xRmeg)
++ [百万并发零超卖：TCC分布式事务守护秒杀系统的每一滴库存](https://mp.weixin.qq.com/s/ltCtVtzgkS93N5z-I8DrHA)
 
 ## 分布式算法
 

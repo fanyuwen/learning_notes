@@ -60,6 +60,7 @@
 + [C++语言关键字和标识符法](https://mp.weixin.qq.com/s/IoYRRvQ1g4zPF_Wc9sR6gQ)
 + [拷贝构造函数的4种应用场景](https://mp.weixin.qq.com/s/OqZZdrW2hVQFwQWfmKWxiw)
 + [跟我学C++中级篇——控制死锁](https://mp.weixin.qq.com/s/swHDEDYh2d-JpdgkuamGSg)
++ [C++第10课：C与C++指针](https://mp.weixin.qq.com/s/VclVkVESO4hyfHG1NUI0gQ)
 + [C++容器之std::list和std::forward_list](https://mp.weixin.qq.com/s/dP7qDcp4o0xcW-_7bVLhxA)
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++ 的 construct_at 函数](https://mp.weixin.qq.com/s/fAAhhkjkDLnus0m7dEydvg)
@@ -268,6 +269,7 @@
 + [一线实战80万年薪总结整理，必会27个C++新特性(11/14/17/20)](https://mp.weixin.qq.com/s/cRQRfQ0VabW38shcMhrvgA)
 + [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
 + [C++进阶学习20——宽度优先搜索](https://mp.weixin.qq.com/s/Eeliyw8R4x2nOm2QuS7Cwg)
++ [C++进阶学习12——排序算法（基数排序）](https://mp.weixin.qq.com/s/vo3xnwdLKMgFDT5csMOuew)
 
 ### 资讯
 

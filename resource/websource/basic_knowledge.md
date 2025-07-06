@@ -246,6 +246,7 @@
 + [Linux 最简单的命令：echo](https://mp.weixin.qq.com/s/TdLJzRe-dD0pq1fL223AVw)
 + [apt 与 apt-get：你应该了解的关键区别](https://mp.weixin.qq.com/s/R52oINvKqsTRJxV3l0LX7A)
 + [Linux管道符不只是|，这些组合技巧让你秒变运维大神](https://mp.weixin.qq.com/s/fXKsfS2vY1Uw_P-CBI8e-Q)
++ [利用 `curl` 命令调试功能：高效排查网络与应用问题](https://mp.weixin.qq.com/s/71qVEjswxsoPwPzBLXaSjg)
 
 ### 发行版信息
 
@@ -259,6 +260,7 @@
 
 + [计算机组成原理](https://mp.weixin.qq.com/s/J0EITMyEJNQeeBhmoKh4EA)
 + [一文了解计算机中的二进制](https://mp.weixin.qq.com/s/m5aW0-VsxsyB7ATN4o3W1A)
++ [深入理解计算机组成原理（十五）---指令流水线和总线系统](https://mp.weixin.qq.com/s/_wn3UT1NEFmTyHp3Pdb4Rw)
 
 ## CPU
 

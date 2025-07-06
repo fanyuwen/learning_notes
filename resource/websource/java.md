@@ -403,6 +403,7 @@
 + [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
 + [一些 Function 代码实战参考](https://mp.weixin.qq.com/s/nE2_VHuonxqgNBtYmK5cmw)
 + [连“双重分派”都不知道，还敢说是高级 Java 开发工程师？](https://mp.weixin.qq.com/s/MhocNaef71RRGnfq4RWIGg)
++ [面试官再问Comparable？这篇怪兽文甩给TA！](https://mp.weixin.qq.com/s/NJiVv-ZW-h5yeLCsOXUhnQ)
 
 ## 代码质量
 
@@ -877,6 +878,7 @@
 + [P7大佬带你彻底搞懂AQS：JUC并发工具包的基石与源码剖析！](https://mp.weixin.qq.com/s/stuqKxofVi41FwPjhv7o0g)
 + [深入理解 Synchronized 锁机制，搞懂 Java 并发的“镇宅之宝”！](https://mp.weixin.qq.com/s/oxOyeasW0bcBokXtCYdzYg)
 + [Java 8 可重入锁设计之JUC ReentrantLock](https://mp.weixin.qq.com/s/xHh8H_OqNXmRk3xYbhgJmg)
++ [Java面试题006：一文深入了解多线程并发---锁机制](https://mp.weixin.qq.com/s/Cuv4uj3MZks7eV2JahHYxw)
 
 #### volatile
 
@@ -1046,6 +1048,7 @@
 + [深度解析Java类加载全过程](https://mp.weixin.qq.com/s/l-CX-K6UbXvIqcudcPjHqA)
 + [JVM通关指南（五）类加载器 - 了解Java类是如何加载](https://mp.weixin.qq.com/s/tbMp2b_UOqc2lvOTgpT29g)
 + [Java中什么是类加载？类加载的过程？](https://mp.weixin.qq.com/s/0WOqUgt-2k2wzHsaYKwFJQ)
++ [你了解 Java 的类加载器吗?类加载机制是什么？什么是双亲委派机制？](https://mp.weixin.qq.com/s/wLY4lM6zT_3967ZwEHN_xQ)
 
 ### GC
 
@@ -2193,6 +2196,7 @@
 + [性能优化！3种方案优化Controller接口调用，性能提升N倍](https://mp.weixin.qq.com/s/1QEtyRFWzFojO8Q_V7yv1Q)
 + [一文吃透@PathVariable注解，Java编程轻松拿捏](https://mp.weixin.qq.com/s/nlgiLEnUWYlWIooRTSPXZg)
 + [Spring神器揭秘：PathMatchingResourcePatternResolver 的强大资源扫描能力](https://mp.weixin.qq.com/s/O3eT7bhV43l5tg2tuMYIRQ)
++ [彻底搞懂Web异步编程模型](https://mp.weixin.qq.com/s/X53iwZMTQ0DQulB5kod6fQ)
 
 ### concurrent
 
@@ -2719,6 +2723,8 @@
 + [Spring Boot启动速度优化实战：手把手教你将启动时间缩短80%，快如闪电！](https://mp.weixin.qq.com/s/0mPNo6Ki1BAS_sxuQ2EVPw)
 + [Spring Boot 插件化开发模式，忒香了！](https://mp.weixin.qq.com/s/0dhEudwr64EFP_UrHIN6Fg)
 + [Spring Boot 性能优化：这 3 招让吞吐量直接 “起飞”！](https://mp.weixin.qq.com/s/Gld5BTfN5wVDT6mTL0zIyQ)
++ [解放双手：SpringBoot 公共字段自动填充的6种神技，开发效率飙升！](https://mp.weixin.qq.com/s/OB5Teg52djBMQjpw4K1k1A)
++ [谁更快？Spring Boot 七大表达式引擎，哪个更适合你](https://mp.weixin.qq.com/s/66Rw6-mCIU6oWbRiCXGKiA)
 
 #### 版本特性
 
@@ -3165,6 +3171,7 @@
 + [SpringBoot Filter、Interceptor、AOP 的使用场景与选型](https://mp.weixin.qq.com/s/f_PpUYWY6qQgXLMvMljAXA)
 + [SpringBoot 接口卡成狗？只用一招，吞吐量飙升10倍！](https://mp.weixin.qq.com/s/45gepgauICwydOinzUItGg)
 + [Spring Boot+原生注解@JsonView 轻松过滤字段，真的优雅！](https://mp.weixin.qq.com/s/vkL4qrYKWMuAqWRszt0Duw)
++ [告别轮询！Spring Boot+Webhook 构建实时响应系统](https://mp.weixin.qq.com/s/wEOnYLSsejQwvi3kTiG18A)
 
 ##### 文件上传下载
 
@@ -3950,7 +3957,6 @@
 + [JavaParser入门：以编程方式分析Java代码](https://mp.weixin.qq.com/s/6R8KVKkSvqstNKdBfq_Cog)
 + [一套万能的异步处理方案（VIP珍藏版）](https://mp.weixin.qq.com/s/lJve1sJayC2L_1haC7rEhQ)
 + [日志解析神器——Logstash中的Grok过滤器使用详解](https://mp.weixin.qq.com/s/f_de8w4Rw1_DAkawZl7EMg)
-+ [彻底告别 Controller、Service、Dao，让人上瘾的开发神器...](https://mp.weixin.qq.com/s/41bl1B9SOpBmfLghGJ5W2w)
 
 # 其它环境
 
@@ -3981,6 +3987,7 @@
 + [为什么高级 Java 开发工程师喜爱用策略模式](https://mp.weixin.qq.com/s/KgQ9qfLbqHnK8XNMK_c1Yg)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
 + [学 Java 还是 Go，这事儿很简单！](https://mp.weixin.qq.com/s/14wMaDtOWKkZ_T5cQFSmEA)
++ [苹果用Swift重写每天数十亿次请求的Java服务——后端性能提升40%、内存降低90%、代码行数减少85%](https://mp.weixin.qq.com/s/EOUGwUGZfDIK3h-zJd4lAw)
 + [用 Java 构建个简版 Either + Optional DSL 框架：让错误处理优雅而函数式](https://mp.weixin.qq.com/s/CqjghYmlK1KdHPm57YSang)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)
 + [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)

@@ -531,6 +531,7 @@
 + [谈谈Mysql中事务ACID的原理吗?](https://mp.weixin.qq.com/s/vcX3EgC5nfftcBqB_AlE6A)
 + [MySQL事务隔离机制](https://mp.weixin.qq.com/s/apiNqZ0Ji2GiE8Ws7ouMxQ)
 + [MySQL事务的一些奇奇怪怪知识](https://mp.weixin.qq.com/s/NLGOreXOKHdzc5DPnh1OvQ)
++ [MySQL事务](https://mp.weixin.qq.com/s/x2nG7VJ32Y2SgXBXR-_Yzg)
 
 #### 索引
 
@@ -612,6 +613,7 @@
 + [mysql索引](https://mp.weixin.qq.com/s/ZJZ7JKsQlCfIc9qigUjMFQ)
 + [mysql索引优化](https://mp.weixin.qq.com/s/bqaWYOAVXM_c2L_W-DCGXw)
 + [MySQL索引原理](https://mp.weixin.qq.com/s/0SD3ZzGV3N4udXHijgFlyQ)
++ [高质量索引的10条军规](https://mp.weixin.qq.com/s/ILvEr1pU7XClYynb0js7iQ)
 
 ### PostgreSQL
 
@@ -861,6 +863,7 @@
 + [Redis中篇--应用](https://mp.weixin.qq.com/s/tcUQeX1PFOrW_ifSBytefQ)
 + [基于 Redis 实现的轻量级延迟队列](https://mp.weixin.qq.com/s/10K7AA74yiiIYt6-pyM5TA)
 + [详解Redis中的Stream](https://mp.weixin.qq.com/s/FaqCe60zKh498FGqhm2yQA)
++ [【连载 57】Redis 性能测试实战—— 缓存过期](https://mp.weixin.qq.com/s/wwqownRO4gBjdwhH11WnKA)
 
 #### 原理
 

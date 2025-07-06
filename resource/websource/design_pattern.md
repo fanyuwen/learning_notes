@@ -177,3 +177,7 @@
 
 + [聊一聊：设计模式——迭代器模式](https://mp.weixin.qq.com/s/dtYwIir3-cQ3bmlbYIEusA)
 + [实战设计模式之迭代器模式](https://mp.weixin.qq.com/s/30jU8V9jqdCGjS04zzhAcg)
+
+## 组合模式
+
++ [实战设计模式之组合模式](https://mp.weixin.qq.com/s/ueYZx_1BK3flYNEqrIYcNg)

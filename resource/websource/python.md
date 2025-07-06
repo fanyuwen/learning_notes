@@ -140,6 +140,7 @@
 + [写给前端的 Python 教程七-函数](https://mp.weixin.qq.com/s/cpetl_tHbhkqMzB1I4At-A)
 + [Python 进阶：lambda 匿名函数](https://mp.weixin.qq.com/s/-sAeAPFNga8_wCQihylDSA)
 + [Python函数式编程指南：lambda、map、filter、reduce的高级用法](https://mp.weixin.qq.com/s/C7ZbQZHtkFMtrX57bYY0lA)
++ [第一章 Python常用函数（1-11）](https://mp.weixin.qq.com/s/ldDN_bBXc9ETDfjdvtGgMQ)
 
 ### 面向对象
 

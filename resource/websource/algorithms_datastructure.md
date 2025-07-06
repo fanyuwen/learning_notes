@@ -82,6 +82,7 @@
 + [手写数据结构系列--堆](https://mp.weixin.qq.com/s/3Q7DjR4RP0y_VSx-GxOKRA)
 + [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
 + [算法 - 丑数](https://mp.weixin.qq.com/s/V2m1ArYykADvNqUB1n7ycw)
++ [向量检索算法：从哈希、树到量化与图](https://my.oschina.net/u/3859945/blog/18683168)
 
 ## Graph
 

@@ -885,6 +885,7 @@
 + [Java 8 可重入锁设计之JUC ReentrantLock](https://mp.weixin.qq.com/s/xHh8H_OqNXmRk3xYbhgJmg)
 + [Java面试题006：一文深入了解多线程并发---锁机制](https://mp.weixin.qq.com/s/Cuv4uj3MZks7eV2JahHYxw)
 + [高并发编程第一课：JOL日志揭开synchronized锁升级的底层面纱](https://mp.weixin.qq.com/s/GFalvDuLRywPXD8tTjET2w)
++ [加锁失效，非锁之过，加之错也](https://my.oschina.net/u/4090830/blog/18638221)
 
 #### volatile
 

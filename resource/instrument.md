@@ -158,7 +158,7 @@
 + C扩展 [cython](https://cython.org/)
 + orm框架 [sqlalchemy](https://www.sqlalchemy.org/) [peewee](https://docs.peewee-orm.com/) [ponyorm](https://docs.ponyorm.org/)
 + http处理库 [requests](https://requests.readthedocs.io/)
-+ 绘图库(绘制二维图表和图形) [matplotlib](https://matplotlib.org/)
++ 绘图库(绘制二维图表和图形) [matplotlib](https://matplotlib.org/) [pyqt](https://pythonpyqt.com/)
 + html/xml处理库(爬虫) [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) [scrapy](https://scrapy.org/)
 + 数学运算操作库 [numpy](https://numpy.org/) [scipy](https://scipy.org/)
 + 开源机器学习库 [scikit-learn](https://scikit-learn.org/) [tensorflow](https://tensorflow.google.cn/) [pytorch](https://pytorch.org/)

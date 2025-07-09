@@ -111,6 +111,7 @@
 + [为什么说不推荐 e.printStackTrace()](https://mp.weixin.qq.com/s/T7KAT9ZHPmYT1A6yIKmxuQ)
 + [Java经典基础面试题：try..catch，据说90%的新手都栽倒过！](https://mp.weixin.qq.com/s/BasLlaGu4yM2qWwjbpaf1g)
 + [如何优雅地在Java代码中处理异常](https://mp.weixin.qq.com/s/ZvZsMXPy0AhD_xlbWfsEvw)
++ [学废了，我会这样优雅处理Java异常~](https://mp.weixin.qq.com/s/cR4QZ8vWOuJF_sLnKnOJvw)
 
 ### 枚举
 
@@ -1987,6 +1988,7 @@
 + [Sentinel高频面试解析](https://mp.weixin.qq.com/s/Ze8CA03wa1cbOke3rovDiQ)
 + [游戏推荐业务中基于 sentinel 的动态限流实践](https://my.oschina.net/vivotech/blog/16378460)
 + [Sentinel自适应限流原理](https://mp.weixin.qq.com/s/punZ64lW5Rp-u5yJR7muig)
++ [微服务系统中流量治理组件sentinel剖析](https://mp.weixin.qq.com/s/LCr1E6U9cRV05SPENy7A5Q)
 
 ## shiro
 
@@ -3212,6 +3214,7 @@
 + [Spring Boot+原生注解@JsonView 轻松过滤字段，真的优雅！](https://mp.weixin.qq.com/s/vkL4qrYKWMuAqWRszt0Duw)
 + [告别轮询！Spring Boot+Webhook 构建实时响应系统](https://mp.weixin.qq.com/s/wEOnYLSsejQwvi3kTiG18A)
 + [Java教程：SpringBoot项目如何使用RestTemplate发送与接收http/https请求](https://mp.weixin.qq.com/s/uGrf6Cr_7rwC2hLMN4lxlQ)
++ [让你的接口更优雅：Spring Boot 自动前缀配置指南](https://mp.weixin.qq.com/s/dFfaffdGmyWF2THBe7aJFA)
 
 ##### 文件上传下载
 

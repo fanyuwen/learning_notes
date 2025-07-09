@@ -2078,6 +2078,7 @@
 + [Spring中任意对象的依赖注入](https://mp.weixin.qq.com/s/zrkwECysxztEdizG1arzDA)
 + [Spring Aware 接口，让你的 Bean “觉醒”！](https://mp.weixin.qq.com/s/a34RKGVMyPNPWpNbnPuhEw)
 + [@Conditional你用过吗？](https://mp.weixin.qq.com/s/0Q1LNlgC5dd3rEsmGAb1IQ)
++ [ResolvableType 彻底解密Java泛型反射](https://mp.weixin.qq.com/s/L6QPQdSDDFgXzN0s3y8Izg)
 
 #### 配置
 
@@ -2766,6 +2767,7 @@
 + [3 种 Springboot 全局时间格式化方式，别再写重复代码了](https://mp.weixin.qq.com/s/ZmKIN703-xxFNa_3ypqGlQ)
 + [面试官：如何查看已经启动的SpringBoot项目有哪些bean](https://mp.weixin.qq.com/s/ZmajNlx7PJnQ8cxpy5NuJg)
 + [SpringBoot启动过程可视化：从main()到Tomcat的奇妙旅程](https://mp.weixin.qq.com/s/09MGA88b2SM5-oiYzCOUnA)
++ [Spring Boot 加载配置的6种骚操作，第6种知道的人很少](https://mp.weixin.qq.com/s/py7Qt6oEXAOAJBb0TDKjiw)
 
 #### 版本特性
 
@@ -3215,6 +3217,7 @@
 + [告别轮询！Spring Boot+Webhook 构建实时响应系统](https://mp.weixin.qq.com/s/wEOnYLSsejQwvi3kTiG18A)
 + [Java教程：SpringBoot项目如何使用RestTemplate发送与接收http/https请求](https://mp.weixin.qq.com/s/uGrf6Cr_7rwC2hLMN4lxlQ)
 + [让你的接口更优雅：Spring Boot 自动前缀配置指南](https://mp.weixin.qq.com/s/dFfaffdGmyWF2THBe7aJFA)
++ [干掉它！Spring Boot 忽略 JSON 字段的 6 种终极方案](https://mp.weixin.qq.com/s/ybfDQbbGxCE95JHS7BRMbA)
 
 ##### 文件上传下载
 

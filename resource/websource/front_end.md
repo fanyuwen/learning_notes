@@ -64,6 +64,7 @@
 + [抛弃 switch，让JavaScript代码更简洁](https://mp.weixin.qq.com/s/ehO8_NPwxEbnt75oojgH8w)
 + [抛弃 forEach，让数组遍历更高效](https://mp.weixin.qq.com/s/v38AtLQEbcQU8ls31mNiuw)
 + [JavaScript 对数组进行无副作用排序](https://mp.weixin.qq.com/s/292aTSmNFLt5GU5oQ-s4fQ)
++ [深入浅出 JavaScript （五）原型链](https://mp.weixin.qq.com/s/PlZtm06lju-WIPDLznZ0Eg)
 + [现代JavaScript异步写法：不依赖await，构建高性能异步系统](https://mp.weixin.qq.com/s/9qPZUUPPU_-oT_DI5hrBhA)
 + [JavaScript 函数形参全面解析：5种声明方式与高级技巧](https://mp.weixin.qq.com/s/hn2Pt03NSlMIJXfWS7pMZg)
 + [扔掉if-else！JavaScript 这几个技巧让你代码简洁到飞起！](https://mp.weixin.qq.com/s/A-4BanEyOiV1fmESTAbZSw)
@@ -362,6 +363,8 @@
 + [开发命令行工具需要的一些工具库和使用方法介绍](https://mp.weixin.qq.com/s/mZAtxTInoTu_VseiyE6LDw)
 + [超越JSON.parse：JavaScript中高效反序列化的艺术](https://mp.weixin.qq.com/s/anc_tlGkOh4OeVHpgMyFbw)
 + [99% 前端不知道的 JS 技巧：5 种方式监听 CSS 变化?](https://mp.weixin.qq.com/s/UIlAH-qCznvpqaBhei1PPg)
++ [如何禁止用户复制页面内容？](https://mp.weixin.qq.com/s/b3ZXJLRTPSsHxGJfs2ODqw)
++ [前端如何判断用户是否离开了当前页面？](https://mp.weixin.qq.com/s/49fT-I56d-J1elUMrRKEyA)
 
 # 杂谈
 

@@ -16,6 +16,7 @@
 + [Js 中迭代器、生成器详解!](https://mp.weixin.qq.com/s/wRn6XGN5eOr0fbz7fGfQ8Q)
 + [JavaScript 中箭头函数详解](https://mp.weixin.qq.com/s/RJf6fgvj7gKOU7XKRQ2_TA)
 + [js 面向对象](https://mp.weixin.qq.com/s/IPO9sv4xgdXfBP95J-vLBA)
++ [深入浅出JavaScript（四）函数](https://mp.weixin.qq.com/s/FySBtpzQFHgLCVp3Z-WCFQ)
 
 ### 原理
 
@@ -205,6 +206,8 @@
 + [JavaScript 模块导入全解析：从 ES6 原理到实战应用指南](https://mp.weixin.qq.com/s/R5xjibk9YL97AuGzVZwH8w)
 + [别再手动 try...catch 了：一种更优雅的 async/await 错误处理模式](https://mp.weixin.qq.com/s/iBK0AUavQeRzOvKBbm7uCw)
 + [为什么forEach中await异步不生效？90%开发者踩过的异步坑](https://mp.weixin.qq.com/s/JUGAxyO99MH5uTxU0pdxfA)
++ [try...catch 抓不到 Promise 的错误？原来是这么回事](https://mp.weixin.qq.com/s/C1n162LIG-_EUdZkdKV1pQ)
++ [JavaScript高级程序设计(第5版)：程序中的数据表达](https://mp.weixin.qq.com/s/D7NSklje63l4DKbkFaSWKQ)
 
 # 框架
 

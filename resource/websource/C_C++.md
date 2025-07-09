@@ -54,6 +54,7 @@
 + [typedef 和 using 到底啥区别？3分钟测试你的语法直觉](https://mp.weixin.qq.com/s/Ng288GU1KdW464MpLptohA)
 + [关于string vector set map pair的使用](https://mp.weixin.qq.com/s/E5qkm3kO54z6yTqVio6dQQ)
 + [C++第7课：异常处理](https://mp.weixin.qq.com/s/BeK8HIGJ0yPmDhpW177Pcg)
++ [C++智能指针与Qt内存管理](https://mp.weixin.qq.com/s/7w4Rv-C4kDNX9P9vECFAlA)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++第9课：输入输出流](https://mp.weixin.qq.com/s/_BuQGOJIbdGhTdRRbpZAJQ)

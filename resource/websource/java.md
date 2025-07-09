@@ -146,6 +146,7 @@
 + [Java 如何获取泛型的真实类型](https://mp.weixin.qq.com/s/xJSROLcKjMHrcJcnKl1iEw)
 + [来了解下Java的泛型与类型擦除](https://mp.weixin.qq.com/s/dzFMCITHQ4pToKyRkXcQ_A)
 + [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
++ [面试官：说说什么是泛型的类型擦除？](https://mp.weixin.qq.com/s/ysadhX8xX2CLGCdZ91RLxA)
 
 ### 面向对象
 
@@ -164,6 +165,7 @@
 + [Java学习笔记——面向对象编程（高级下）](https://mp.weixin.qq.com/s/pQHVOiW7OsujFNPwUZ26WQ)
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [接口和抽象类有什么共同点和区别？](https://mp.weixin.qq.com/s/63r7NQWUWEpkiiyQ5FA2dA)
++ [Java三大特性——封装、继承、多态代码实战演示](https://mp.weixin.qq.com/s/dksYtFXes1q7Zz255OjZZw)
 
 ## 新语言特性
 
@@ -407,6 +409,7 @@
 + [连“双重分派”都不知道，还敢说是高级 Java 开发工程师？](https://mp.weixin.qq.com/s/MhocNaef71RRGnfq4RWIGg)
 + [面试官再问Comparable？这篇怪兽文甩给TA！](https://mp.weixin.qq.com/s/NJiVv-ZW-h5yeLCsOXUhnQ)
 + [一些 Function 的高级实战案例参考](https://mp.weixin.qq.com/s/xdUj8ZXMeWxVTg90F3Opww)
++ [用Java实现文件夹的遍历](https://mp.weixin.qq.com/s/cFmxEmaA-PduWNZRxYsCRA)
 
 ## 代码质量
 
@@ -972,6 +975,7 @@
 + [JVM的通关指南（七）快速了解JVM的直接内存及常见问题与解决方案](https://mp.weixin.qq.com/s/zx88geE3kYksr_bdTxtWmg)
 + [万字长文总结：揭秘JVM核心内存结构](https://mp.weixin.qq.com/s/hRKRvdZNpYbrOXRyhF2JYw)
 + [JVM虚拟机调用native本地方法的原理，java代码怎么调用本地的库函数](https://mp.weixin.qq.com/s/ohCtIRz0agdameNugBOBmQ)
++ [JVM内存模型与垃圾回收机制分析](https://mp.weixin.qq.com/s/Ge6OKGS3G7F7n1mcX0PJTg)
 
 ### 命令
 
@@ -1391,6 +1395,7 @@
 + [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
 + [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
 + [ThreadLocal详解：解决多线程数据共享的神器](https://mp.weixin.qq.com/s/0PDBPS5JcwiEvG3xS0q6yg)
++ [ThreadLocal：线程的专属宝藏库，你真的会用吗？](https://mp.weixin.qq.com/s/0RJPvBlxfT64LkfOS7ZB-Q)
 
 ### Lock
 
@@ -1585,6 +1590,7 @@
 + [Maven核心概念与使用技巧总结](https://mp.weixin.qq.com/s/6XE3EYHelkLru_GelQDKRQ)
 + [换掉Maven！全新一代Java项目构建工具来了，性能炸裂！](https://mp.weixin.qq.com/s/tYc7aAngCGqAsFP6JK1PkQ)
 + [很多人搞不清 Maven repository 和 mirror 的关系，这次讲透了](https://mp.weixin.qq.com/s/Q8KTCBqOjuc5PK_RULyFBQ)
++ [Maven 依赖范围详解：减少不必要的依赖冲突以及提高项目的可维护性](https://mp.weixin.qq.com/s/NmoKs3zLWkjdleREEeUHRg)
 
 # 功能
 
@@ -2067,6 +2073,8 @@
 + [面试被问@Autowired实现原理时，我崩溃了……](https://mp.weixin.qq.com/s/QvLUf7jz8yGpqqG8uRH49Q)
 + [【面试必问】Spring支持注入null和空字符串吗？不懂别去面试了！](https://mp.weixin.qq.com/s/I7jlU4x38vL26T0ehFekMA)
 + [Spring中任意对象的依赖注入](https://mp.weixin.qq.com/s/zrkwECysxztEdizG1arzDA)
++ [Spring Aware 接口，让你的 Bean “觉醒”！](https://mp.weixin.qq.com/s/a34RKGVMyPNPWpNbnPuhEw)
++ [@Conditional你用过吗？](https://mp.weixin.qq.com/s/0Q1LNlgC5dd3rEsmGAb1IQ)
 
 #### 配置
 
@@ -2321,6 +2329,7 @@
 + [从一个点来详细说说事务失效的场景及解决办法](https://mp.weixin.qq.com/s/BeptpIXsQg7851ltJX13pA)
 + [Spring @Transactional 详解：何时使用、为什么使用、如何使用](https://mp.weixin.qq.com/s/pbJllQXG9yN5liiJ6Ywbsw)
 + [@Transactional 的隔离级别：四大隔离机制让事务更安全！](https://mp.weixin.qq.com/s/vcBwXkcO53ht_-lApRRGWw)
++ [Java真的不难（八十五）Spring基于XML的声明式事务管理](https://mp.weixin.qq.com/s/k-sTjTxcIzDEBCdqCa9yMA)
 
 ### Log
 
@@ -2368,6 +2377,7 @@
 + [Spring事件驱动模型：ApplicationEvent与Listener的优雅解耦实践！](https://mp.weixin.qq.com/s/M8xMsmAir38LNACtC8Kccg)
 + [还在 Service 里疯狂注入其他 Service？你早就该用 Spring 的事件机制了](https://mp.weixin.qq.com/s/Dqgg6pu4GgZr77SsHGZkqw)
 + [百万订单零超卖：Spring事件驱动解耦库存的终极武器](https://mp.weixin.qq.com/s/0Y4ahUeztK61-MN01T47qg)
++ [使用 Spring Events 实现异步记录操作日志](https://mp.weixin.qq.com/s/5ReNPlmgUTiNCbG6iSwZHA)
 
 ### AOP
 
@@ -2749,6 +2759,7 @@
 + [SpringBoot项目结构深度解析：这些目录你真的用对了吗？](https://mp.weixin.qq.com/s/MIUV3h9ADVH29fQxN6tWlg)
 + [简单理解SpringBoot自动装配](https://mp.weixin.qq.com/s/g0frJYikWMBdhVNx8UiZ4w)
 + [使用 Spring Boot 创建自定义启动器（Starter）](https://mp.weixin.qq.com/s/YL-SDO1TnKDQblZchAQ6nA)
++ [3 种 Springboot 全局时间格式化方式，别再写重复代码了](https://mp.weixin.qq.com/s/ZmKIN703-xxFNa_3ypqGlQ)
 
 #### 版本特性
 

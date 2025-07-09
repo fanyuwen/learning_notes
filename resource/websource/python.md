@@ -310,6 +310,7 @@
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
 + [一个有线上问题带来的知识点：Python日志打印](https://mp.weixin.qq.com/s/yHvSdJYorV8_KpDqU6IIGA)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
++ [Python 异常处理与断言关键字详解](https://mp.weixin.qq.com/s/GCcFZwpvZDAK7eyIxLKECQ)
 + [Python 高手才知道的 5 个 f-strings 隐藏技巧，让你的代码更优雅！](https://mp.weixin.qq.com/s/s-aK7q5GOJimqz6OczUXMw)
 + [Python教程——闭包](https://mp.weixin.qq.com/s/XSosHg0J6NtzOHEKenLk9w)
 + [python进阶，16个必须掌握的炫技操作](https://mp.weixin.qq.com/s/2_HE2NtqaLtG04OSK-QN_g)

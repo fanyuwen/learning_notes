@@ -93,6 +93,7 @@
 + [【设计模式】从火车站卖票看代理模式的实际应用](https://mp.weixin.qq.com/s/_20PIU4qPgfrxBvZP-o3ng)
 + [代理模式深度解析：业务解耦与安全管控实践](https://mp.weixin.qq.com/s/qByJ2R2R_Ui0ur93SJG7qg)
 + [实战设计模式之代理模式](https://mp.weixin.qq.com/s/1qwlJHSQS2iZtR4itaPsdA)
++ [几种常用的设计模式--代理模式](https://mp.weixin.qq.com/s/WURwRhwp1ZbFkrQ0GDyPJg)
 
 ## 适配器模式
 
@@ -120,6 +121,7 @@
 
 + [优化代码结构-装饰器设计模式(Decorator Pattern)](https://mp.weixin.qq.com/s/dCiQQ60PgqeLLVJrYXV64g)
 + [面试官：装饰器模式 使用场景有哪些？](https://mp.weixin.qq.com/s/QL_Hf-ouc0rJY1WVUkWmXw)
++ [设计模式之装饰者模式](https://mp.weixin.qq.com/s/3N90qjSEaOmtNfFHiUWd7w)
 
 ## 桥接模式
 

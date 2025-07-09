@@ -263,6 +263,7 @@
 + [Redis Cluster的Gossip协议通信机制：分布式系统的八卦哲学](https://mp.weixin.qq.com/s/oOkN9DcYImOgsR4PvVROBQ)
 + [分布式和微服务，它们有什么区别？](https://mp.weixin.qq.com/s/oApM-yiiUAm7SsgnVyooXQ)
 + [分布式系统不可靠时钟问题](https://mp.weixin.qq.com/s/yWDDonbXrdHcLQiMT36dLQ)
++ [什么是一致性模型, 我们真的理解吗?](https://mp.weixin.qq.com/s/2PBzezUk-n6l7sN_23uNUg)
 
 ## 分布式锁
 
@@ -662,6 +663,7 @@
 + [从代码复杂度入手，如何写出高质量的代码](https://mp.weixin.qq.com/s/eDdzzXLHwZG4t5BvpDHvCA)
 + [接口设计的原则：构建优雅API的完整指南](https://mp.weixin.qq.com/s/BdGGJJJhU-ZotxJvyuP46w)
 + [为什么所有程序员都需要懂编译器前端](https://mp.weixin.qq.com/s/rCPQd0XXgYemz5qPp4pBxQ)
++ [如何使用分段式锁的方案提升服务的下单效率](https://mp.weixin.qq.com/s/Wf5b5lT4noevcsjZNU7gGA)
 
 # 测试相关
 

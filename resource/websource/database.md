@@ -101,6 +101,7 @@
 + [工作十年的码农不会写这个SQL，你要试试吗？](https://mp.weixin.qq.com/s/vZCvGmjLNpznYKb1DWDIHw)
 + [SQL窗口函数原理和使用](https://mp.weixin.qq.com/s/uU0HyN0tookMK6mIaZDXQA)
 + [面试官：不会看 Explain执行计划，简历敢写 SQL 优化？](https://mp.weixin.qq.com/s/WsnA7MbXItkeafWqwT5wzA)
++ [滴滴面试：JOIN顺序优化，什么是 ‘小表驱动大表’ 原则？ 小伙 蒙圈了 。。。](https://mp.weixin.qq.com/s/BV4BSqnxVs8bDZ9NZ75L3A)
 
 # 本地数据库
 

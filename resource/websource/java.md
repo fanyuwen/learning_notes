@@ -1593,6 +1593,7 @@
 + [换掉Maven！全新一代Java项目构建工具来了，性能炸裂！](https://mp.weixin.qq.com/s/tYc7aAngCGqAsFP6JK1PkQ)
 + [很多人搞不清 Maven repository 和 mirror 的关系，这次讲透了](https://mp.weixin.qq.com/s/Q8KTCBqOjuc5PK_RULyFBQ)
 + [Maven 依赖范围详解：减少不必要的依赖冲突以及提高项目的可维护性](https://mp.weixin.qq.com/s/NmoKs3zLWkjdleREEeUHRg)
++ [Maven：如何在 Maven 中自动使用依赖的最新版本，解决手动升级依赖的繁琐的工作](https://mp.weixin.qq.com/s/-Jz50RMyprvmEFQbD2Ofhg)
 
 # 功能
 

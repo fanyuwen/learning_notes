@@ -158,6 +158,7 @@
 + [Linux 多线程的信号处理机制](https://mp.weixin.qq.com/s/ut2ZKgrX00G4GS6CE3yHuQ)
 + [必须监控的 17 个 Linux 日志文件](https://mp.weixin.qq.com/s/P8E0KTFngX9Ptk0GOSIezQ)
 + [Crontab定时任务的这些坑，你踩过几个？](https://mp.weixin.qq.com/s/p0_iN7ydeKlf-i6ARuSbyA)
++ [浅谈Linux段页式存储](https://mp.weixin.qq.com/s/D_VzYdAdIcWiAg6Kw-dchA)
 
 ### 网络
 
@@ -247,6 +248,8 @@
 + [apt 与 apt-get：你应该了解的关键区别](https://mp.weixin.qq.com/s/R52oINvKqsTRJxV3l0LX7A)
 + [Linux管道符不只是|，这些组合技巧让你秒变运维大神](https://mp.weixin.qq.com/s/fXKsfS2vY1Uw_P-CBI8e-Q)
 + [利用 `curl` 命令调试功能：高效排查网络与应用问题](https://mp.weixin.qq.com/s/71qVEjswxsoPwPzBLXaSjg)
++ [别再用kill -9暴力杀进程，这些信号处理让程序优雅退出](https://mp.weixin.qq.com/s/WS93mP-10ubGA6gAMabM0Q)
++ [Linux 通配符完全指南：从基础语法到实战应用](https://mp.weixin.qq.com/s/OsBF9ozQ7_EEDETukIVX0w)
 
 ### 发行版信息
 
@@ -517,6 +520,7 @@
 + [TCP三次握手中的SYN\ACK\seq这些究竟是啥？](https://mp.weixin.qq.com/s/Aw3FFVnImhE1cKJWYryq_A)
 + [TCP为啥需要"三次握手"与"四次挥手"？](https://mp.weixin.qq.com/s/Q_L3qPUtRxjBsasVzj86NQ)
 + [为什么 Nginx 和 HTTP 中都有 keep-alive ，一文带你了解 TCP 连接复用](https://mp.weixin.qq.com/s/tBuVf4LSU8WEVbs9AUk7xA)
++ [网络通信必知-TCP三次握手](https://mp.weixin.qq.com/s/-RCgdcR35OQ7cGQychXVuA)
 
 ### UDP
 

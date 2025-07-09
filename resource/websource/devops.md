@@ -46,6 +46,7 @@
 + [自动化发布系统，结合Jenkins，你不得不学的Shell脚本，其实没有想象得那么难](https://mp.weixin.qq.com/s/KrMkHujTsUhIOQhpWGqzoQ)
 + [Jenkins如何发布前端Vue项目，一文带你搞定前端项目自动化发布以及Nginx配置](https://mp.weixin.qq.com/s/NJSJ_2IwTIkbg-EDLxTk8Q)
 + [Jenkins + Docker 一键自动化部署 SpringBoot 应用最精简流程](https://mp.weixin.qq.com/s/q307NYbC-QmgMHzLbOD3Eg)
++ [CI/CD 领域的奠基者--Jenkins](https://mp.weixin.qq.com/s/4_0TPYNRVmwcLNXnf6_QAA)
 
 ## istio
 

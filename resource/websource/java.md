@@ -490,6 +490,7 @@
 + [Java常见7个问题代码，第一个就中招](https://mp.weixin.qq.com/s/Hd1f5OdGUI5ndC3rctdxOA)
 + [Java 实用代码优化技巧：提升性能与可读性的建议](https://mp.weixin.qq.com/s/khwNTrMhSmLhAUuwl-njBw)
 + [告别“祖传代码”！每个 Java 开发者都应掌握的 7 个重构“大招”](https://mp.weixin.qq.com/s/IHEDJR5uGMQJIlXkoeChLA)
++ [Java：从支付操作看什么是接口幂等性](https://mp.weixin.qq.com/s/a6z4-Gzy9IEB7ZNxIyAvPg)
 
 # 底层
 
@@ -2330,6 +2331,7 @@
 + [Spring @Transactional 详解：何时使用、为什么使用、如何使用](https://mp.weixin.qq.com/s/pbJllQXG9yN5liiJ6Ywbsw)
 + [@Transactional 的隔离级别：四大隔离机制让事务更安全！](https://mp.weixin.qq.com/s/vcBwXkcO53ht_-lApRRGWw)
 + [Java真的不难（八十五）Spring基于XML的声明式事务管理](https://mp.weixin.qq.com/s/k-sTjTxcIzDEBCdqCa9yMA)
++ [告别Spring事务Bug！详解传播行为与隔离级别的组合陷阱与最佳实践](https://mp.weixin.qq.com/s/gaugRnCxRiCNwbyXpfklGw)
 
 ### Log
 
@@ -2760,6 +2762,8 @@
 + [简单理解SpringBoot自动装配](https://mp.weixin.qq.com/s/g0frJYikWMBdhVNx8UiZ4w)
 + [使用 Spring Boot 创建自定义启动器（Starter）](https://mp.weixin.qq.com/s/YL-SDO1TnKDQblZchAQ6nA)
 + [3 种 Springboot 全局时间格式化方式，别再写重复代码了](https://mp.weixin.qq.com/s/ZmKIN703-xxFNa_3ypqGlQ)
++ [面试官：如何查看已经启动的SpringBoot项目有哪些bean](https://mp.weixin.qq.com/s/ZmajNlx7PJnQ8cxpy5NuJg)
++ [SpringBoot启动过程可视化：从main()到Tomcat的奇妙旅程](https://mp.weixin.qq.com/s/09MGA88b2SM5-oiYzCOUnA)
 
 #### 版本特性
 

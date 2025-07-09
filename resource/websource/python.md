@@ -142,6 +142,7 @@
 + [Python函数式编程指南：lambda、map、filter、reduce的高级用法](https://mp.weixin.qq.com/s/C7ZbQZHtkFMtrX57bYY0lA)
 + [第一章 Python常用函数（1-11）](https://mp.weixin.qq.com/s/ldDN_bBXc9ETDfjdvtGgMQ)
 + [Python进阶之路：第十四章 函数初探：重复代码一招搞定，自定义函数与参数传递](https://mp.weixin.qq.com/s/uwRygxhr9QQgKjrRMjGZrA)
++ [Python 开发者必知 11 个超好用的内置函数，提升效率必备！](https://mp.weixin.qq.com/s/U_0r0lm6FMHtNpHjDS1tvA)
 
 ### 面向对象
 
@@ -178,6 +179,7 @@
 + [python竟然也存在着this，这个this该如何使用？](https://mp.weixin.qq.com/s/tqF6InKRedDu875OXEuDdg)
 + [写给前端的 Python 教程九 - 类](https://mp.weixin.qq.com/s/6JCG-9CzmR_7EhUty796UQ)
 + [Python编程精进：多分派](https://mp.weixin.qq.com/s/EfQUIvxagv0eTQEE5eGRdQ)
++ [Python面向对象编程：从理论到实践](https://mp.weixin.qq.com/s/frggFrSbl9JqhnDRVk-Asw)
 
 ### 核心库/模块
 
@@ -258,6 +260,7 @@
 + [Python编程精进：DataClass](https://mp.weixin.qq.com/s/0DyoV6HuweI97RwuSgl_LA)
 + [Python常用系统类库之logging日志](https://mp.weixin.qq.com/s/oAK22pglPi2cFS2lQXYifA)
 + [Python编程精进：CSV 模块](https://mp.weixin.qq.com/s/hmnmujmTKS_a0VeFirTp_Q)
++ [Python JSON 模块函数详解](https://mp.weixin.qq.com/s/2EsBkgxW85VjbNoS0q5DxQ)
 
 ### 异步/多线程
 
@@ -286,20 +289,24 @@
 
 + [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
++ [Python 最佳实践 (4)](https://mp.weixin.qq.com/s/31ZdXx9AW2YscmlHroHoWQ)
 + [Python 最佳实践 (5)](https://mp.weixin.qq.com/s/Jnn9GqH3OiGHS6CKeCp5uQ)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
++ [Python目录规范：呐，这个就叫专业！](https://mp.weixin.qq.com/s/uJcdf2eTPB-NDFlLiYBQ9g)
 + [Python编程精进：正确编写多行注释的方法](https://mp.weixin.qq.com/s/QhjxEopVmcILCPwvoWDyEw)
 + [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
 + [Python包、模块、库搞懂了吗？编程新手必看！](https://mp.weixin.qq.com/s/_jd998rXkERGRUej3vsoYQ)
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python编程精进：小技巧分享](https://mp.weixin.qq.com/s/ZFMVoPSr-UdqOpkMUe2BKA)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [Python文件及IO操作：轻松掌握文件读写](https://mp.weixin.qq.com/s/lCzb_1rnRuCNkm4Vy6SMRg)
 + [python基础语法-读写文件](https://mp.weixin.qq.com/s/Cky9ERdWx-0Lh0K65hqYEA)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [python学习13-文件处理](https://mp.weixin.qq.com/s/5vcofKlEIjMgl3gBookK7A)
 + [Python文件读写：tell和seek的用法](https://mp.weixin.qq.com/s/4-2teCwTK_TNRd8RwpXeEA)
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [如何优雅地处理超大文件？用流式 + yield，轻松应对巨型日志！](https://mp.weixin.qq.com/s/eHSk8MMb1On-UE99ZaFN9g)
++ [我是如何爱上 __init__.py 的：一个简单易懂的指南](https://mp.weixin.qq.com/s/rYh-Ap1frkR_oHrE74iUDw)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
 + [一个有线上问题带来的知识点：Python日志打印](https://mp.weixin.qq.com/s/yHvSdJYorV8_KpDqU6IIGA)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)

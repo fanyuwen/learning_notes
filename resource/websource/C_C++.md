@@ -228,6 +228,7 @@
 + [你的 C++ 代码可能正在泄漏！用零法则 3 步检测资源管理漏洞](https://mp.weixin.qq.com/s/cVek_L1GNriTvz7Bgqc1hQ)
 + [美团二面：为什么mmap共享内存比malloc危险？](https://mp.weixin.qq.com/s/gH_qRQnQfqUVhtrivyNdjw)
 + [【C++】一些C++知识点04.02（一）](https://mp.weixin.qq.com/s/92cRHJUuXSSV462ELoX4oA)
++ [C++ STL标准库容器介绍与比较](https://mp.weixin.qq.com/s/lgOs5LKHKI20c7fMteUHTQ)
 + [Apophenia，一个强大的c++库](https://mp.weixin.qq.com/s/mQDBmBKG3X47VYksAS_J9w)
 + [ASL,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/hK7qjtk8W3UL7VzhrGwxCQ)
 + [LLDB，一个强大的调试库](https://mp.weixin.qq.com/s/9TFAAmy5shnsLgMk8oZh5A)

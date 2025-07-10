@@ -83,6 +83,8 @@
 + [Python学习笔记：运算符的奇妙世界](https://mp.weixin.qq.com/s/_oYAETtNpPQfsV4Kmg6gzw)
 + [Python进阶之路：第八章 多重条件的武器：elif、嵌套、陷阱](https://mp.weixin.qq.com/s/BDV2xwlHxQ2-aBRCSpUuDA)
 + [写给前端的Python 教程六-条件语句、循环语句](https://mp.weixin.qq.com/s/POI3e-xieId3Lyb6Gz6TgA)
++ [Python零基础从入门到精通详细教程5-数据类型的转换- 中篇](https://mp.weixin.qq.com/s/WvzTGlx8j9ziVjZdb9rzSA)
++ [Python for 循环时判断第一个和最后一个元素](https://mp.weixin.qq.com/s/zhQPVhe3zP2lhWo4Ui-sCw)
 
 ### 函数/方法
 
@@ -143,6 +145,7 @@
 + [第一章 Python常用函数（1-11）](https://mp.weixin.qq.com/s/ldDN_bBXc9ETDfjdvtGgMQ)
 + [Python进阶之路：第十四章 函数初探：重复代码一招搞定，自定义函数与参数传递](https://mp.weixin.qq.com/s/uwRygxhr9QQgKjrRMjGZrA)
 + [Python 开发者必知 11 个超好用的内置函数，提升效率必备！](https://mp.weixin.qq.com/s/U_0r0lm6FMHtNpHjDS1tvA)
++ [Python中函数的使用方法](https://mp.weixin.qq.com/s/2sG5-YgxRISGK9uxWzDjMQ)
 
 ### 面向对象
 
@@ -261,6 +264,8 @@
 + [Python常用系统类库之logging日志](https://mp.weixin.qq.com/s/oAK22pglPi2cFS2lQXYifA)
 + [Python编程精进：CSV 模块](https://mp.weixin.qq.com/s/hmnmujmTKS_a0VeFirTp_Q)
 + [Python JSON 模块函数详解](https://mp.weixin.qq.com/s/2EsBkgxW85VjbNoS0q5DxQ)
++ [Python 路径与模块导入详解](https://mp.weixin.qq.com/s/-j41d2R-nFqlEy0w3GqvxA)
++ [写给前端的 Python 教程十 - 模块和包](https://mp.weixin.qq.com/s/jeqmPXcXk_5BxC3bAoC9Lg)
 
 ### 异步/多线程
 
@@ -307,6 +312,7 @@
 + [python入门系列六（文件操作）](https://mp.weixin.qq.com/s/VBIz_gppKx9phzNChdR2EA)
 + [如何优雅地处理超大文件？用流式 + yield，轻松应对巨型日志！](https://mp.weixin.qq.com/s/eHSk8MMb1On-UE99ZaFN9g)
 + [我是如何爱上 __init__.py 的：一个简单易懂的指南](https://mp.weixin.qq.com/s/rYh-Ap1frkR_oHrE74iUDw)
++ [python，10个高效有用的装饰器](https://mp.weixin.qq.com/s/oaO3ZlzMswdZS29DQWDnsw)
 + [python入门系列十八（requests）](https://mp.weixin.qq.com/s/tcE89N7CPCTQLXqd4wyIfw)
 + [一个有线上问题带来的知识点：Python日志打印](https://mp.weixin.qq.com/s/yHvSdJYorV8_KpDqU6IIGA)
 + [盘点Python初学者必知的20个文件操作函数](https://mp.weixin.qq.com/s/Zv-y1-WDtQx68U17_OVKWA)
@@ -608,6 +614,7 @@
 + [Python：一行代码高效处理40个任务](https://mp.weixin.qq.com/s/E3BM1GTb13xPF26LXUNv1Q)
 + [Python实用项目——从0开始，在Python中创造一棵树！](https://mp.weixin.qq.com/s/ENvwp2v5_dn7ctcLxI2EDA)
 + [Python 常见的陷阱](https://mp.weixin.qq.com/s/d_v2bjOBswTVfZoe3vYLMg)
++ [Python进阶之路：第十五章 循环结构的三种状态控制技巧：计数器、累加器与标志位](https://mp.weixin.qq.com/s/y7TAcRH9BRomzmT0OgyZlA)
 
 ## 新特性
 
@@ -937,6 +944,7 @@
 + [使用uv高效管理Python项目](https://mp.weixin.qq.com/s/1OTQbCKwsuqOo4aftTaXfg)
 + [【python】uv管理器](https://mp.weixin.qq.com/s/-h3LV8R9J2DSwnWMBB_Mrw)
 + [python代码调试工具pudb的多进程支持](https://mp.weixin.qq.com/s/iS4aCiA0CvkH7gD_i_Omig)
++ [Python中的数据导入与查询](https://mp.weixin.qq.com/s/4y0nZ8LvBKvAwFKEPixq7g)
 
 ## 框架
 
@@ -1027,3 +1035,4 @@
 + [深入 Python 之禅，写出地道代码](https://mp.weixin.qq.com/s/0z6WgN3MHY_tVntditonFg)
 + [Python 图像编程|从零开始生成棋盘纹理](https://mp.weixin.qq.com/s/Om11DqRx1K0NewC2JKiVKA)
 + [零基础Python游戏开发 | 没有子弹碰撞的飞机大战游戏是没有灵魂的](https://mp.weixin.qq.com/s/gJXy4zRieqD5tBR3yKZQng)
++ [这行python代码长得确实够怪，但请细看](https://mp.weixin.qq.com/s/jFVRkY-KKg4H1HZeJ0_QOQ)

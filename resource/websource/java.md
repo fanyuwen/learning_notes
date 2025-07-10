@@ -180,6 +180,7 @@
 + [Map.of()的兄弟方法Map.ofEntries()使用禁忌](https://mp.weixin.qq.com/s/lZYa71VXRanvusuUU5Qf-g)
 + [创建Map集合的快捷方法Map.of()，第一次用就踩坑了？谨记这3点防止再次入坑！](https://mp.weixin.qq.com/s/uwy0OuboXxpXTHGeDOVXuA)
 + [Java 8 到 Java 24 新特性一览](https://mp.weixin.qq.com/s/GPMHkH7eJ02yWReeQVTEtg)
++ [落后了，现在才动手实践Java8特性！](https://mp.weixin.qq.com/s/taEDoWgE0kzKeP_Y_zl-xg)
 + [从 Java 8 到 Java 21：版本演进如何重塑我的开发流程](https://mp.weixin.qq.com/s/cKve9U_28LcX3ruEPuG8gQ)
 + [Java8新特性](https://mp.weixin.qq.com/s/adM9GFKTSJ7vlG76syydeA)
 + [Java 11新宠：异步 HTTP 客户端，你的网络请求加速神](https://mp.weixin.qq.com/s/t8RnNjdghXx4i-1pt6TDww)
@@ -891,6 +892,7 @@
 + [Java面试题006：一文深入了解多线程并发---锁机制](https://mp.weixin.qq.com/s/Cuv4uj3MZks7eV2JahHYxw)
 + [高并发编程第一课：JOL日志揭开synchronized锁升级的底层面纱](https://mp.weixin.qq.com/s/GFalvDuLRywPXD8tTjET2w)
 + [加锁失效，非锁之过，加之错也](https://my.oschina.net/u/4090830/blog/18638221)
++ [浅入浅出Synchronized 与锁升级过程](https://mp.weixin.qq.com/s/ousgdpYeK7_PvZKTaZoNZA)
 
 #### volatile
 
@@ -1192,6 +1194,8 @@
 + [Java日期与时间API：LocalDate、LocalTime的操作](https://mp.weixin.qq.com/s/7T6BQzL6gUqwOhoouigDTw)
 
 ### Collection/Map
+
++ [16 个 Java 集合框架实战案例，从入门到精通全搞定](https://mp.weixin.qq.com/s/u9oY64ByEdhAw5cqGBA_PA)
 
 #### collection
 
@@ -2079,7 +2083,9 @@
 + [Spring中任意对象的依赖注入](https://mp.weixin.qq.com/s/zrkwECysxztEdizG1arzDA)
 + [Spring Aware 接口，让你的 Bean “觉醒”！](https://mp.weixin.qq.com/s/a34RKGVMyPNPWpNbnPuhEw)
 + [@Conditional你用过吗？](https://mp.weixin.qq.com/s/0Q1LNlgC5dd3rEsmGAb1IQ)
++ [Spring IOC容器核心机制：Bean后置处理器注册全解析](https://mp.weixin.qq.com/s/LHRLhKd3gMOsSaWWY8KBsw)
 + [ResolvableType 彻底解密Java泛型反射](https://mp.weixin.qq.com/s/L6QPQdSDDFgXzN0s3y8Izg)
++ [反射之外的类型解析利器：TypeDescriptor](https://mp.weixin.qq.com/s/H-1QHWR03O9iqcwFH7v_BA)
 
 #### 配置
 
@@ -2122,6 +2128,7 @@
 + [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/QqVGUf-lZDqkGTLtonCzGg)
 + [Java中如何知道一个Bean是不是基础框架的](https://mp.weixin.qq.com/s/Z2gFNA1h9Hn_rAziLb_bDg)
 + [怎么在 Spring 中优雅使用 Function 注入？](https://mp.weixin.qq.com/s/-4CwH_x3nrCUJtT0Yt_t9Q)
++ [在 Spring 中运行时注册 Bean](https://mp.weixin.qq.com/s/HO4QO93iwQIqMTzW37wjfg)
 
 #### 原理&源码
 
@@ -2148,6 +2155,7 @@
 + [Spring单例Bean线程安全吗？90%的面试者都答错了！](https://mp.weixin.qq.com/s/ldOAh1x_0hg_drt1m7W1Nw)
 + [徒手造轮子：从零实现Spring IOC容器的核心技术内幕](https://mp.weixin.qq.com/s/fB1gD-LtcvkoRUodmHWx5Q)
 + [FactoryBean 和 BeanFactory 的傻傻的总是分不清？](https://mp.weixin.qq.com/s/SVdyZfjoMqBQLKP3LSEz9w)
++ [Spring IoC深度揭秘：如何用三级缓存解决循环依赖？面试必问的8大核心原理](https://mp.weixin.qq.com/s/cv7GsBAA9fnnHS61fX8Ezg)
 
 ### 新版本新特性
 

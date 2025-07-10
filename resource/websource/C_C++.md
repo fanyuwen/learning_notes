@@ -48,6 +48,7 @@
 + [C++入门学习04——顺序结构程序设计](https://mp.weixin.qq.com/s/j0_cw73ak6wjmMUnb_ouwA)
 + [C++入门学习07—— 二维数组](https://mp.weixin.qq.com/s/8ClIHV4TmCZ79iacjpTSjw)
 + [C++第3课：变量作用域](https://mp.weixin.qq.com/s/68_Jz1IWPrxbDkRsutGc3Q)
++ [C++静态变量的初始化](https://mp.weixin.qq.com/s/uh_O_yw8aJ-p7vAbyyYxkg)
 + [C++语言--第003期：STL容器与算法大全《vector容器底层原理及源码分析》](https://mp.weixin.qq.com/s/iK6FIoFI_o1lSriTVMajCA)
 + [C++ 基础进阶必看！深度解锁 C++ 模板，开启高效编程新姿势](https://mp.weixin.qq.com/s/fp94NcCIEzzTdmUnWKu_3g)
 + [C++代码跑得慢？用Compiler Explorer一看就明白](https://mp.weixin.qq.com/s/V41zhGlzyITeagaWCyXUKg)
@@ -55,6 +56,7 @@
 + [关于string vector set map pair的使用](https://mp.weixin.qq.com/s/E5qkm3kO54z6yTqVio6dQQ)
 + [C++第7课：异常处理](https://mp.weixin.qq.com/s/BeK8HIGJ0yPmDhpW177Pcg)
 + [C++智能指针与Qt内存管理](https://mp.weixin.qq.com/s/7w4Rv-C4kDNX9P9vECFAlA)
++ [C++第11课：C++类](https://mp.weixin.qq.com/s/HJvSRDmureWyjYZmYq3DYQ)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [现代C++项目一定要知道的三件事：构建、测试、集成](https://mp.weixin.qq.com/s/BATMLy9j-bB5wtP0ghfrbg)
 + [C++第9课：输入输出流](https://mp.weixin.qq.com/s/_BuQGOJIbdGhTdRRbpZAJQ)
@@ -277,6 +279,8 @@
 + [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
 + [C++进阶学习20——宽度优先搜索](https://mp.weixin.qq.com/s/Eeliyw8R4x2nOm2QuS7Cwg)
 + [C++进阶学习12——排序算法（基数排序）](https://mp.weixin.qq.com/s/vo3xnwdLKMgFDT5csMOuew)
++ [C++的核心痛点以及Rust的解决之道](https://mp.weixin.qq.com/s/V6ubtpU2nhhNqTdOfgMpdw)
++ [C++进阶学习21——二分法](https://mp.weixin.qq.com/s/7d6x8YuXLPLfPEdby6y8TQ)
 
 ### 资讯
 

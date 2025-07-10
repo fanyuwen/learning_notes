@@ -164,6 +164,8 @@
 + [什么是好代码？一位资深工程师的深度思考](https://mp.weixin.qq.com/s/p3_th4GzZIEpoxan3_8isQ)
 + [一点学写代码的经历](https://mp.weixin.qq.com/s/tbYUCQ9lKHvK_vs2eM6qrg)
 + [编梦启航：用代码书写你的星辰大海](https://mp.weixin.qq.com/s/rU0-hrfvoSPXSHKiU4Pyrw)
++ [学习编程的方法与工具](https://mp.weixin.qq.com/s/t8-3YRTssNRo-KEt4rdQVQ)
++ [学编程到底在学什么？](https://mp.weixin.qq.com/s/FxCAt9iPaU7hRrUCm8V-_A)
 
 ## 视频
 

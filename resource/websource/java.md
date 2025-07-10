@@ -412,6 +412,7 @@
 + [面试官再问Comparable？这篇怪兽文甩给TA！](https://mp.weixin.qq.com/s/NJiVv-ZW-h5yeLCsOXUhnQ)
 + [一些 Function 的高级实战案例参考](https://mp.weixin.qq.com/s/xdUj8ZXMeWxVTg90F3Opww)
 + [用Java实现文件夹的遍历](https://mp.weixin.qq.com/s/cFmxEmaA-PduWNZRxYsCRA)
++ [带你学会Java的Supplier和Consumer接口的使用（详细版）](https://mp.weixin.qq.com/s/cgxq7sfEx8elq5EyAY43ng)
 
 ## 代码质量
 
@@ -588,6 +589,7 @@
 + [面试官：equals和Objects.equals区别](https://mp.weixin.qq.com/s/vZf8bTmK5sqGSPSNBV1c0g)
 + [掌握 Java 队列：高并发时代的必备技能](https://mp.weixin.qq.com/s/_bH_lXIVe3yEgJOZs7nBXw)
 + [Java语法糖深度解析：从语法糖衣到编译原理](https://mp.weixin.qq.com/s/CjRUrva0CfzYIgPtjSwqMQ)
++ [JAVA | 第24期 - Lambda 表达式](https://mp.weixin.qq.com/s/3L6zadYiS_oMXhtStbNRtA)
 
 ### 序列化
 
@@ -763,6 +765,7 @@
 + [Java并发编程对象组合与封闭性实践指南](https://mp.weixin.qq.com/s/09X9ul9PxmNkNSZzbvNX2A)
 + [Java 异常处理难点突破：Lambda 表达式与并发编程的优雅解决方案](https://mp.weixin.qq.com/s/5geY3xjAhMwtbq6XWEtMLA)
 + [一文搞懂线程、协程、虚拟线程的区别](https://mp.weixin.qq.com/s/iAfxrvL-cUxVJG6R3F1JgA)
++ [如何优雅地中断Java线程](https://mp.weixin.qq.com/s/GWP9qf5W_O1HJ7UMIzwJvQ)
 
 #### CAS
 
@@ -816,6 +819,7 @@
 + [线程池中execute和submit的区别？](https://mp.weixin.qq.com/s/hIxTp6Q3-UF71pVVYXFZEA)
 + [别再瞎用线程池了！ThreadPoolExecutor核心参数与拒绝策略P7级深度优化！](https://mp.weixin.qq.com/s/hGzSjWbrJyJ1rv1gvvwG6w)
 + [java线程池使用篇](https://mp.weixin.qq.com/s/kH3YilYDqi4U3xJD6TD93A)
++ [浅入浅出-Java线程池的所有细节](https://mp.weixin.qq.com/s/UU4YLHmEbniF9e_lQhAV7Q)
 
 #### 锁
 
@@ -1041,6 +1045,7 @@
 + [JVM内存结构33连问](https://mp.weixin.qq.com/s/7o8Iqgjvd0eV2fvp0f4wSA)
 + [JVM内存模型（JMM）深度解析：volatile与synchronized如何保证可见性与有序性？](https://mp.weixin.qq.com/s/07fVBhHn1YM_SvdKbnCULg)
 + [案例分析：java莫名发生Direct buffer OutOfMemoryError](https://mp.weixin.qq.com/s/FL2nl0O23QLzYYMVMUi2LQ)
++ [浅入浅出-JMM的细节](https://mp.weixin.qq.com/s/DQH9M0-YMqPGRa-FUWOW0A)
 
 ### 类加载
 
@@ -1709,6 +1714,7 @@
 + [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
 + [强大！JSON解析神器，再复杂也不怕了](https://mp.weixin.qq.com/s/CwUP-uGVe9FTFTAqDX2gaQ)
 + [Java中动态JSON的一种解决方案](https://mp.weixin.qq.com/s/8Kb2vZBJtyoT-uHRoHc47g)
++ [Jackson居然骗我说它是线程安全的](https://mp.weixin.qq.com/s/l4G2g7Jz4ZTdXYncegKaTQ)
 
 ## logger
 
@@ -1949,6 +1955,7 @@
 
 + [Reactor，一个响应式编程的能量核心！](https://mp.weixin.qq.com/s/DDdxh2DEQR9bhyK_6kSlTw)
 + [Java响应式编程实践与原理解析](https://mp.weixin.qq.com/s/qAHFMXW-rtWVltm3H-BryA)
++ [百万并发下的救赎：Spring响应式编程如何让我们的系统起死回生](https://mp.weixin.qq.com/s/bCaAw4opUESYRJ72yYVwpA)
 
 ## redisson
 
@@ -2156,6 +2163,7 @@
 + [徒手造轮子：从零实现Spring IOC容器的核心技术内幕](https://mp.weixin.qq.com/s/fB1gD-LtcvkoRUodmHWx5Q)
 + [FactoryBean 和 BeanFactory 的傻傻的总是分不清？](https://mp.weixin.qq.com/s/SVdyZfjoMqBQLKP3LSEz9w)
 + [Spring IoC深度揭秘：如何用三级缓存解决循环依赖？面试必问的8大核心原理](https://mp.weixin.qq.com/s/cv7GsBAA9fnnHS61fX8Ezg)
++ [Bean循环依赖咋解决？”别只说三级缓存了！这3种场景方案，让回答碾压90%面试者！](https://mp.weixin.qq.com/s/EE30eDWl81l7T9AG3VNnbA)
 
 ### 新版本新特性
 
@@ -3227,6 +3235,7 @@
 + [Java教程：SpringBoot项目如何使用RestTemplate发送与接收http/https请求](https://mp.weixin.qq.com/s/uGrf6Cr_7rwC2hLMN4lxlQ)
 + [让你的接口更优雅：Spring Boot 自动前缀配置指南](https://mp.weixin.qq.com/s/dFfaffdGmyWF2THBe7aJFA)
 + [干掉它！Spring Boot 忽略 JSON 字段的 6 种终极方案](https://mp.weixin.qq.com/s/ybfDQbbGxCE95JHS7BRMbA)
++ [Spring Boot 流式传输技术详解：从基础到AI交互实战](https://mp.weixin.qq.com/s/rJrB5RrFoAW7hprwgN6_Jw)
 
 ##### 文件上传下载
 
@@ -3344,6 +3353,7 @@
 + [Java教程：SpringBoot项目如何在启动时等待数据库，待连接成功后再启动项目](https://mp.weixin.qq.com/s/GEHm5ZKtUCgznHZlGQaRLQ)
 + [SpringBoot集成SQLite：轻量级数据库的极简CRUD实战](https://mp.weixin.qq.com/s/bvYsirFyRw9Z4qz1x31p4A)
 + [SpringBoot 执行原生Sql](https://mp.weixin.qq.com/s/dnazHyAHWBx9qz-RcMketw)
++ [Spring Boot 内置8种控制数据库连接方式](https://mp.weixin.qq.com/s/qF5HSljXUXHo9eky-ZEHbQ)
 
 ##### TRANSACTION
 
@@ -4020,6 +4030,7 @@
 + [一套万能的异步处理方案（VIP珍藏版）](https://mp.weixin.qq.com/s/lJve1sJayC2L_1haC7rEhQ)
 + [日志解析神器——Logstash中的Grok过滤器使用详解](https://mp.weixin.qq.com/s/f_de8w4Rw1_DAkawZl7EMg)
 + [一行代码搞定数据校验？解密 Java Bean Validation](https://mp.weixin.qq.com/s/F2r_PMce1BHP1zbw36TBHg)
++ [Java性能分析工具JITWatch配置与使用](https://mp.weixin.qq.com/s/i1tIllgyNHEoYpzTiBy5_g)
 
 # 其它环境
 

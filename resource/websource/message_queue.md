@@ -43,6 +43,7 @@
 + [面试官：什么是死信队列？死信队列是如何导致的？](https://mp.weixin.qq.com/s/xTTzhyM2BxFJ_LCo7Z4myg)
 + [MQ黄金三剑客：RabbitMQ、RocketMQ和Kafka深入解密常见问题及功能对比指南？](https://mp.weixin.qq.com/s/LkdSDlHbguiDemOsuG6XDQ)
 + [字节高频面试题： MQ怎么做到事务消息的，怎么保证数据不丢失？](https://mp.weixin.qq.com/s/Wb_Yeu3t94T1hcR49OgBEQ)
++ [四十四、构建完善微服务——消息队列](https://mp.weixin.qq.com/s/0wd4O9GZHtlKdYnQ-Un_gA)
 
 # KAFKA
 
@@ -133,6 +134,7 @@
 + [高并发场景，如何解决Kafka消费者慢的问题？](https://mp.weixin.qq.com/s/LyzYi5IE1s2xIPpCBGPMNw)
 + [Kafka生产者如何避免消息重复？深入解析幂等性与事务机制](https://mp.weixin.qq.com/s/DBGmPUG1BLhbfucOkHK2aA)
 + [Kafka底层原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/spqLIl5wx9VMEXVNdkYI4A)
++ [高并发场景下，Kafka如何抗住亿级流量？](https://mp.weixin.qq.com/s/8W1W2ukj4ULaLHRTPSbsGA)
 
 # ROCKETMQ
 

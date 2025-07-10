@@ -136,6 +136,7 @@
 + [深度解析快速排序算法：原理、优化与实战指南](https://mp.weixin.qq.com/s/2S2UFFsxRZCXdDaF4s1Q5A)
 + [从代码看排序：冒泡排序与插入排序](https://mp.weixin.qq.com/s/kKX0AnrBBDi0Z5ZHogAjug)
 + [数据结构之拓扑排序](https://mp.weixin.qq.com/s/2Ej6u7fLcKUZUCNBXVw4pA)
++ [腾讯一面：如何充分利用多核CPU的性能，快速对一个2千万大小的数组进行排序？](https://mp.weixin.qq.com/s/BrXoi3auh6ExJ4on4dJoHw)
 
 # 密码学
 

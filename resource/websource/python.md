@@ -146,6 +146,7 @@
 + [Python进阶之路：第十四章 函数初探：重复代码一招搞定，自定义函数与参数传递](https://mp.weixin.qq.com/s/uwRygxhr9QQgKjrRMjGZrA)
 + [Python 开发者必知 11 个超好用的内置函数，提升效率必备！](https://mp.weixin.qq.com/s/U_0r0lm6FMHtNpHjDS1tvA)
 + [Python中函数的使用方法](https://mp.weixin.qq.com/s/2sG5-YgxRISGK9uxWzDjMQ)
++ [Python 函数与作用域关键字详解](https://mp.weixin.qq.com/s/8NgJ17qryLFOz1QRHiEQfQ)
 
 ### 面向对象
 
@@ -297,6 +298,7 @@
 + [Python 最佳实践 (4)](https://mp.weixin.qq.com/s/31ZdXx9AW2YscmlHroHoWQ)
 + [Python 最佳实践 (5)](https://mp.weixin.qq.com/s/Jnn9GqH3OiGHS6CKeCp5uQ)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
++ [从文件操作到分布式锁：Python上下文管理器的隐藏实力](https://mp.weixin.qq.com/s/MifZ-8E_7VNBlhw1Dtyyhw)
 + [Python目录规范：呐，这个就叫专业！](https://mp.weixin.qq.com/s/uJcdf2eTPB-NDFlLiYBQ9g)
 + [Python编程精进：正确编写多行注释的方法](https://mp.weixin.qq.com/s/QhjxEopVmcILCPwvoWDyEw)
 + [Python编程精进：变量交换的原理](https://mp.weixin.qq.com/s/7DUQjw8TKfRBEmmcoT-hkw)
@@ -304,6 +306,7 @@
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python编程精进：小技巧分享](https://mp.weixin.qq.com/s/ZFMVoPSr-UdqOpkMUe2BKA)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [Python进阶之路：第十六章 文件读写实战，一次掌握打开、读取与保存技巧！](https://mp.weixin.qq.com/s/3t8iURCJ1OH0QcZvUCw9vA)
 + [Python文件及IO操作：轻松掌握文件读写](https://mp.weixin.qq.com/s/lCzb_1rnRuCNkm4Vy6SMRg)
 + [python基础语法-读写文件](https://mp.weixin.qq.com/s/Cky9ERdWx-0Lh0K65hqYEA)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
@@ -615,6 +618,7 @@
 + [Python实用项目——从0开始，在Python中创造一棵树！](https://mp.weixin.qq.com/s/ENvwp2v5_dn7ctcLxI2EDA)
 + [Python 常见的陷阱](https://mp.weixin.qq.com/s/d_v2bjOBswTVfZoe3vYLMg)
 + [Python进阶之路：第十五章 循环结构的三种状态控制技巧：计数器、累加器与标志位](https://mp.weixin.qq.com/s/y7TAcRH9BRomzmT0OgyZlA)
++ [Python编程：从匿名函数到实用工具开发](https://mp.weixin.qq.com/s/1ElNqaRJ7td_UxzU2yWqdA)
 
 ## 新特性
 
@@ -867,6 +871,8 @@
 + [这个python库让日志记录如喝水般容易，简直是懒人神器](https://mp.weixin.qq.com/s/m_9HXnhDuVAA_xcLVivWRw)
 + [Polars 多线程 + 内存映射](https://mp.weixin.qq.com/s/vh5UcKudb7YjQsxj7qxw3A)
 + [python中的tkinter库的几个应用](https://mp.weixin.qq.com/s/r6u-eS8SFLEIuFikM_pLVg)
++ [99% 的 Python 开发者都不知道的 gzip 高级用法](https://mp.weixin.qq.com/s/gDv3EUXOCc6cDZ19xso7Dw)
++ [一文搞懂 Python 的 json 模块：从入门到精通](https://mp.weixin.qq.com/s/AuUjKff1C4dNyj1r3w_Jhg)
 
 ### Pandas
 
@@ -1036,3 +1042,4 @@
 + [Python 图像编程|从零开始生成棋盘纹理](https://mp.weixin.qq.com/s/Om11DqRx1K0NewC2JKiVKA)
 + [零基础Python游戏开发 | 没有子弹碰撞的飞机大战游戏是没有灵魂的](https://mp.weixin.qq.com/s/gJXy4zRieqD5tBR3yKZQng)
 + [这行python代码长得确实够怪，但请细看](https://mp.weixin.qq.com/s/jFVRkY-KKg4H1HZeJ0_QOQ)
++ [Tkinter教程31：各种对话框示例演示](https://mp.weixin.qq.com/s/BIYT6zxrVpqF8obubMnV1w)

@@ -21,6 +21,8 @@
 ### 原理
 
 + [JS高级-认识对象的原型](https://mp.weixin.qq.com/s/Xr81iekL589d1NlqJDJ5iA)
++ [JavaScript 中的原型与继承](https://mp.weixin.qq.com/s/A-3VbIOxZDDpR0h0NtVxAg)
++ [深入浅出 javascript (二） 理解一切都是对象](https://mp.weixin.qq.com/s/Wui1eCPaejoOg4dIo2fNPA)
 + [JS高级-彻底攻克原型链(详解)](https://mp.weixin.qq.com/s/Srth2Nbd0tXXaKAY1Zbq6g)
 + [深入理解 JavaScript 的原型链 (Prototype Chain)](https://mp.weixin.qq.com/s/J4L49j_060AmNK-Wr-JmZQ)
 + [JS高级-对象方法的补充以及创建对象方案](https://mp.weixin.qq.com/s/ghWOeMQnyETOyUCXmhT3jA)
@@ -44,6 +46,7 @@
 + [深入理解 Promise，看看你会几道题](https://mp.weixin.qq.com/s/Rz5cpziu47_aBRvrsCFPBQ)
 + [一行代码搞定防抖节流：JavaScript新特性解析](https://mp.weixin.qq.com/s/NpZkkzFT7eMyVovDiwenpw)
 + [原来可以这样写JavaScript！ES2025新语法糖](https://mp.weixin.qq.com/s/-TMu5l6BUqy1JfhrL7Sxlg)
++ [JavaScript 深入浅出（一）:let 和 Var 的区别](https://mp.weixin.qq.com/s/LDGVS_MjGoduKYyrYpTdyA)
 
 ### 底层
 
@@ -53,6 +56,7 @@
 ## 实践
 
 + [别告诉我你懂 Javascript](https://my.oschina.net/justjavac/blog/66634)
++ [JavaScript实战案例](https://mp.weixin.qq.com/s/yPxecN726-KL4K71wuCWTw)
 + [JavaScript 中的闭包陷阱案发现场](https://mp.weixin.qq.com/s/raU77cYZyJvLhbfGPFEVzA)
 + [6_JavaScript浅析一](https://mp.weixin.qq.com/s/mW7ERbgKONgz6uznIc9srw)
 + [不用 if else，如何优雅处理 JavaScript 条件判断？](https://mp.weixin.qq.com/s/MTgsjU904wMyATuZocOdPw)
@@ -209,6 +213,11 @@
 + [为什么forEach中await异步不生效？90%开发者踩过的异步坑](https://mp.weixin.qq.com/s/JUGAxyO99MH5uTxU0pdxfA)
 + [try...catch 抓不到 Promise 的错误？原来是这么回事](https://mp.weixin.qq.com/s/C1n162LIG-_EUdZkdKV1pQ)
 + [JavaScript高级程序设计(第5版)：程序中的数据表达](https://mp.weixin.qq.com/s/D7NSklje63l4DKbkFaSWKQ)
++ [JavaScript中的定时器与异步操作](https://mp.weixin.qq.com/s/hLBU1ZbNXfraNn6qLaB-1Q)
++ [深入浅出JavaScript事件循环机制](https://mp.weixin.qq.com/s/x3L6BDu6PXZDaLGZiJkPTw)
++ [JavaScript 操作元素内容与属性](https://mp.weixin.qq.com/s/gnsKjs3abujZsz6g-05EEw)
++ [JavaScript 深入浅出（六） 闭包](https://mp.weixin.qq.com/s/Ze0o7FxNvAPP0EThzyf2KA)
++ [JavaScript变量与数据类型详解](https://mp.weixin.qq.com/s/Qbc95lYFeqilyg4w2M1pqQ)
 
 # 框架
 
@@ -365,6 +374,7 @@
 + [99% 前端不知道的 JS 技巧：5 种方式监听 CSS 变化?](https://mp.weixin.qq.com/s/UIlAH-qCznvpqaBhei1PPg)
 + [如何禁止用户复制页面内容？](https://mp.weixin.qq.com/s/b3ZXJLRTPSsHxGJfs2ODqw)
 + [前端如何判断用户是否离开了当前页面？](https://mp.weixin.qq.com/s/49fT-I56d-J1elUMrRKEyA)
++ [JavaScript DOM事件系统](https://mp.weixin.qq.com/s/oZJlOU4gGttlTn8uoOXEVg)
 
 # 杂谈
 
@@ -388,3 +398,4 @@
 + [ECMAScript 2025新增了这些核心特性，看看你都知道几个？](https://mp.weixin.qq.com/s/oXKQrXN0qxUETgSlpFi15Q)
 + [49个 JavaScript 代码快捷技巧，让你在 2025 年成为代码高手](https://mp.weixin.qq.com/s/vOs4YzuY8P1H5s-UyH4Lqg)
 + [得物社区活动：组件化的演进与实践](https://my.oschina.net/u/5783135/blog/18626983)
++ [JavaScript语言全面概述：从历史到现代实践](https://mp.weixin.qq.com/s/vuI7XaAEzb0xUeCiWnWLFg)

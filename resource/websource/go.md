@@ -169,6 +169,7 @@
 + [Go结构体比较全解析：为什么有的能比有的不能？](https://mp.weixin.qq.com/s/naQPhNTKR4EyE-UcDGUWgA)
 + [（20）Go 项目开发入门（十八）：错误处理](https://mp.weixin.qq.com/s/hnJSs0169K06-OCGkcj7CA)
 + [Go Modules 使用技巧合集](https://mp.weixin.qq.com/s/mjAZ1gmwYVBalV4WXaEgYQ)
++ [Go 语言开发技巧合辑，全网整理最全的一篇](https://mp.weixin.qq.com/s/rv-TFF1Hf2TGcybPQp4z1Q)
 
 # 面试题
 

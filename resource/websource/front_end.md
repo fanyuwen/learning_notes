@@ -375,6 +375,8 @@
 + [如何禁止用户复制页面内容？](https://mp.weixin.qq.com/s/b3ZXJLRTPSsHxGJfs2ODqw)
 + [前端如何判断用户是否离开了当前页面？](https://mp.weixin.qq.com/s/49fT-I56d-J1elUMrRKEyA)
 + [JavaScript DOM事件系统](https://mp.weixin.qq.com/s/oZJlOU4gGttlTn8uoOXEVg)
++ [从地域到天堂：异步编程模式的革命性演变](https://mp.weixin.qq.com/s/mbMavTKGq6F8D8ia7OFbgA)
++ [JavaScript中的BOM基础与window对象详解](https://mp.weixin.qq.com/s/37tGmemZ1PlIZzm6ljt9Sw)
 
 # 杂谈
 

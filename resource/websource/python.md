@@ -85,6 +85,7 @@
 + [写给前端的Python 教程六-条件语句、循环语句](https://mp.weixin.qq.com/s/POI3e-xieId3Lyb6Gz6TgA)
 + [Python零基础从入门到精通详细教程5-数据类型的转换- 中篇](https://mp.weixin.qq.com/s/WvzTGlx8j9ziVjZdb9rzSA)
 + [Python for 循环时判断第一个和最后一个元素](https://mp.weixin.qq.com/s/zhQPVhe3zP2lhWo4Ui-sCw)
++ [Day 05 - 循环控制语句详解](https://mp.weixin.qq.com/s/cpfD2FNcTEcNJth0LfVrBQ)
 
 ### 函数/方法
 

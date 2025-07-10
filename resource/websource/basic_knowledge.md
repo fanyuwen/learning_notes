@@ -611,6 +611,7 @@
 + [Nginx高并发架构详解：深入理解Nginx事件驱动模型!](https://mp.weixin.qq.com/s/R2Mgrhsz4-1O90Klchf0aw)
 + [性能比拼: Nginx vs. Envoy](https://mp.weixin.qq.com/s/aejh7H_wxLFJf96g5SJbjw)
 + [Nginx动静分离配置详解(图文全面总结)](https://mp.weixin.qq.com/s/SJwxBQyxJaAGVeLpOtPXrg)
++ [Nginx如何限流扛住高并发请求？](https://mp.weixin.qq.com/s/7RDbdpq2WXEdbEkktj6JEQ)
 
 ### wireshark
 

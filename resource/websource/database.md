@@ -432,6 +432,8 @@
 + [MySQL添加、修改和删除数据](https://mp.weixin.qq.com/s/9mwPEYAMHEO5wsvMI5yk5g)
 + [MySQL 8.2 支持读写分离](https://mp.weixin.qq.com/s/8r49hb3FvOGjlElRvFfoLQ)
 + [mysql数据库基础知识总结](https://mp.weixin.qq.com/s/AHJne4PXua_dWvoEmMcM9g)
++ [MySQL事务：工作原理与实用指南](https://mp.weixin.qq.com/s/zEddIWBySg4Pj3TNqd7exg)
++ [MySQL索引完全指南：让你的查询速度飞起来](https://mp.weixin.qq.com/s/yimTRXI2WzclXDNKeFzEsw)
 
 #### 存储引擎
 
@@ -867,6 +869,7 @@
 + [详解Redis中的Stream](https://mp.weixin.qq.com/s/FaqCe60zKh498FGqhm2yQA)
 + [【连载 57】Redis 性能测试实战—— 缓存过期](https://mp.weixin.qq.com/s/wwqownRO4gBjdwhH11WnKA)
 + [Redis哨兵模式介绍和实战](https://mp.weixin.qq.com/s/3cCjUa0ocuqgC5iBw_WFrg)
++ [十六、Redis优化——影响Redis性能的因素](https://mp.weixin.qq.com/s/GjXp6UQ1APySVReXbRRMSQ)
 
 #### 原理
 

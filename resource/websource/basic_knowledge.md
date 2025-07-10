@@ -250,6 +250,7 @@
 + [利用 `curl` 命令调试功能：高效排查网络与应用问题](https://mp.weixin.qq.com/s/71qVEjswxsoPwPzBLXaSjg)
 + [别再用kill -9暴力杀进程，这些信号处理让程序优雅退出](https://mp.weixin.qq.com/s/WS93mP-10ubGA6gAMabM0Q)
 + [Linux 通配符完全指南：从基础语法到实战应用](https://mp.weixin.qq.com/s/OsBF9ozQ7_EEDETukIVX0w)
++ [SSH不只是远程登录，这些隐藏功能让你成为运维高手](https://mp.weixin.qq.com/s/WeLsZ0rqPcuHCEomxbm8_Q)
 
 ### 发行版信息
 
@@ -521,6 +522,7 @@
 + [TCP为啥需要"三次握手"与"四次挥手"？](https://mp.weixin.qq.com/s/Q_L3qPUtRxjBsasVzj86NQ)
 + [为什么 Nginx 和 HTTP 中都有 keep-alive ，一文带你了解 TCP 连接复用](https://mp.weixin.qq.com/s/tBuVf4LSU8WEVbs9AUk7xA)
 + [网络通信必知-TCP三次握手](https://mp.weixin.qq.com/s/-RCgdcR35OQ7cGQychXVuA)
++ [TCP三次握手网络实验操作手册](https://mp.weixin.qq.com/s/ejhZD5Qg8A4kwW4IiK5i4g)
 
 ### UDP
 
@@ -687,3 +689,4 @@
 + [你真的懂串口通信吗？](https://mp.weixin.qq.com/s/Q8Y_1EDJ1j_EsfmgHUeIiA)
 + [进程间通信（二）信号通信](https://mp.weixin.qq.com/s/ekrXy2yxSbVdOI-SZUaKeA)
 + [大厂面试必问-抢占式任务调度原理](https://mp.weixin.qq.com/s/_mwiwHz_zuTrWbK3Ib05Ug)
++ [循环冗余码CRC](https://mp.weixin.qq.com/s/Z1dSDwjOnsHA8U3k1voK3g)

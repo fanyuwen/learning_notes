@@ -88,6 +88,7 @@
 + [Java内部类的私有构造器难题：合成类如何巧妙解决？](https://mp.weixin.qq.com/s/tY8WHhdlKR9YG4-SYiBQzw)
 + [Java循环精讲——for/while/do-while及循环优化技巧](https://mp.weixin.qq.com/s/Q1oK4z3lBplMP-VdPRtByg)
 + [四个方面解决Java空指针](https://mp.weixin.qq.com/s/NCtk1RBGvJscgZHlB_hmMw)
++ [Java分支结构——if-else与switch的优化选择策略](https://mp.weixin.qq.com/s/3Fnans41HoKpahpg_TDxQA)
 
 ### 方法/函数
 
@@ -820,6 +821,7 @@
 + [别再瞎用线程池了！ThreadPoolExecutor核心参数与拒绝策略P7级深度优化！](https://mp.weixin.qq.com/s/hGzSjWbrJyJ1rv1gvvwG6w)
 + [java线程池使用篇](https://mp.weixin.qq.com/s/kH3YilYDqi4U3xJD6TD93A)
 + [浅入浅出-Java线程池的所有细节](https://mp.weixin.qq.com/s/UU4YLHmEbniF9e_lQhAV7Q)
++ [java线程池使用经验](https://mp.weixin.qq.com/s/AlvOYsfdEXUTHZczy9kIjg)
 
 #### 锁
 
@@ -1739,6 +1741,7 @@
 + [日志中的TraceId魔法，解锁业务全链路追踪！](https://mp.weixin.qq.com/s/lXSBytTYyRxy43lMtlSp-A)
 + [全网最全Log配置教程及框架性能比较，看这篇就够了！](https://mp.weixin.qq.com/s/B91w9vUGotjHM3ItcLPPmQ)
 + [Java真的不难（二十）Log4j日志](https://mp.weixin.qq.com/s/3mCk722FIXPs8ZyHTqHPfg)
++ [Java日志打印的几种方式](https://mp.weixin.qq.com/s/BJT-mC7ldaotDSNy7KVMcA)
 
 ## lombok
 
@@ -1830,6 +1833,7 @@
 + [MyBatis中#{}并非万能：动态SQL实战指南](https://mp.weixin.qq.com/s/euiMc6WdaepDLfJQvx4ZwA)
 + [了解Mybatis拦截器](https://mp.weixin.qq.com/s/gvDNDnFRjCk8r4_rwAYWhg)
 + [Java真的不难（九十）史上最详细的Mybatis逆向工程](https://mp.weixin.qq.com/s/J1Ja2Pd5XhShb5jTNFNpZQ)
++ [批量update实现方案全面解析与最佳实践，带你掌握到底怎么批量更新最快、性能最高](https://mp.weixin.qq.com/s/jMi_S3O8LMSdL7Hyh6DXDQ)
 
 ### plus
 
@@ -1865,6 +1869,7 @@
 + [看了我的MyBatis-plus用法，全公司同事开始悄悄模仿了。。](https://mp.weixin.qq.com/s/B-OKGZlLVd3EfmfBxuV5bg)
 + [别在 MyBatis-Plus 里瞎用 @Transactional！这锅背到我差点被踢出项目组](https://mp.weixin.qq.com/s/e-mxOjf6S2rMnavDYprFHQ)
 + [MyBatis-Plus模糊查询通配符问题深度分析与解决方案](https://mp.weixin.qq.com/s/R9y96M7YYyEZRHDTblTLIA)
++ [完爆 MyBatis-Plus ？来领略一下 MyBatis-Flex 的优雅魅力！](https://mp.weixin.qq.com/s/M5rc8AhZ5z_IgCT9aYBAuw)
 
 ## nacos
 
@@ -1883,19 +1888,6 @@
 + [大厂一面:Nacos配置中心交互模型是 push 还是 pull ？](https://mp.weixin.qq.com/s/xVggtL-q-42MZxMWpulgYg)
 + [Nacos源码深度解析系列文章导航](https://mp.weixin.qq.com/s/pBsdA4kAe_-isMLUlySXTw)
 + [nacos的使用原理](https://mp.weixin.qq.com/s/Jg_4-OQbAOXqqNcK3tmxYA)
-
-## okhttp
-
-+ [OkHttp工具类分享](https://mp.weixin.qq.com/s/16cScrYUtzWuj-b9Ff5-MA)
-
-## openFeign
-
-+ [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
-+ [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
-+ [为什么 Feign 要用 HTTP 而不是 RPC？](https://mp.weixin.qq.com/s/GCT0sTCPJcbh9ye3NHOTDw)
-+ [简化本地Feign调用，老手教你这么玩](https://mp.weixin.qq.com/s/b7jD3o078_sZQ5yJXYbd3g)
-+ [【java面试100问】70 OpenFeign第一次调用为什么会很慢？](https://mp.weixin.qq.com/s/VCEngR1TimL01x5LDHEVpw)
-+ [基于 OpenFeign 的多渠道支付接入完整方案](https://mp.weixin.qq.com/s/T846f7RUMXpCcSe2IFb8NQ)
 
 ## netty
 
@@ -1945,11 +1937,25 @@
 + [如何基于Netty实现即时消息下发](https://mp.weixin.qq.com/s/gZoyDLycZDK8Xb7z7B-V1g)
 + [Netty进阶之路：ByteBuf内存管理与零拷贝技术源码级剖析，性能炸裂！](https://mp.weixin.qq.com/s/0GPEBmsKebpEGzs0TAhTAw)
 
+## okhttp
+
++ [OkHttp工具类分享](https://mp.weixin.qq.com/s/16cScrYUtzWuj-b9Ff5-MA)
+
+## openFeign
+
++ [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
++ [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
++ [为什么 Feign 要用 HTTP 而不是 RPC？](https://mp.weixin.qq.com/s/GCT0sTCPJcbh9ye3NHOTDw)
++ [简化本地Feign调用，老手教你这么玩](https://mp.weixin.qq.com/s/b7jD3o078_sZQ5yJXYbd3g)
++ [【java面试100问】70 OpenFeign第一次调用为什么会很慢？](https://mp.weixin.qq.com/s/VCEngR1TimL01x5LDHEVpw)
++ [基于 OpenFeign 的多渠道支付接入完整方案](https://mp.weixin.qq.com/s/T846f7RUMXpCcSe2IFb8NQ)
+
 ## quarkus
 
 + [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
 + [0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/kWQUQXdLWwcIfxsVnRTxbA)
 + [换掉SpringBoot？0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/joQcv60Er_FFIRyrSYVaxg)
++ [Spring Boot 称霸时代要结束了？Quarkus 在云原生领域强势崛起](https://mp.weixin.qq.com/s/9dZ0XZXz_1KTVgENAOcEgg)
 
 ## reactor
 
@@ -2136,6 +2142,7 @@
 + [Java中如何知道一个Bean是不是基础框架的](https://mp.weixin.qq.com/s/Z2gFNA1h9Hn_rAziLb_bDg)
 + [怎么在 Spring 中优雅使用 Function 注入？](https://mp.weixin.qq.com/s/-4CwH_x3nrCUJtT0Yt_t9Q)
 + [在 Spring 中运行时注册 Bean](https://mp.weixin.qq.com/s/HO4QO93iwQIqMTzW37wjfg)
++ [Spring 中如何将值注入到静态字段中](https://mp.weixin.qq.com/s/BKWjrqQeuOLBqa3dRsOeAQ)
 
 #### 原理&源码
 
@@ -2240,6 +2247,8 @@
 + [Spring神器揭秘：PathMatchingResourcePatternResolver 的强大资源扫描能力](https://mp.weixin.qq.com/s/O3eT7bhV43l5tg2tuMYIRQ)
 + [彻底搞懂Web异步编程模型](https://mp.weixin.qq.com/s/X53iwZMTQ0DQulB5kod6fQ)
 + [接口安全三重门：SpringBoot防护XSS/SQL/重放攻击](https://mp.weixin.qq.com/s/hOoJqCeuG2I30musubfSTQ)
++ [Java真的不难（九十五）一篇文章完全掌握SpringMVC的常见注解](https://mp.weixin.qq.com/s/akQrINX1oIEkJtx1O5-1tw)
++ [Java真的不难（九十七）SpringMVC拦截器的超详细解析（含前后端代码）](https://mp.weixin.qq.com/s/ekzRIIm_vzQVjHis6rQJSw)
 
 ### concurrent
 
@@ -2352,6 +2361,7 @@
 + [@Transactional 的隔离级别：四大隔离机制让事务更安全！](https://mp.weixin.qq.com/s/vcBwXkcO53ht_-lApRRGWw)
 + [Java真的不难（八十五）Spring基于XML的声明式事务管理](https://mp.weixin.qq.com/s/k-sTjTxcIzDEBCdqCa9yMA)
 + [告别Spring事务Bug！详解传播行为与隔离级别的组合陷阱与最佳实践](https://mp.weixin.qq.com/s/gaugRnCxRiCNwbyXpfklGw)
++ [Spring事务失效：原因分析与最佳实践](https://mp.weixin.qq.com/s/wdkzAs8f7O4rvXIYRP68LQ)
 
 ### Log
 
@@ -2531,6 +2541,7 @@
 + [搞懂Spring Cloud Config配置信息自动更新原理](https://mp.weixin.qq.com/s/KpDcTAPqyYlsIZQBZlQjSg)
 + [Spring Cloud 分布式实时日志分析采集三种方案~](https://mp.weixin.qq.com/s/DWq3gELoRGkHIlnxPwi6Yg)
 + [Spring Cloud 快速通关3：OpenFeign](https://mp.weixin.qq.com/s/EnSLKL1_hQOQaQ_gch4GDg)
++ [Spring Cloud 快速通过4: 限流熔断框架 Sentinel （上）](https://mp.weixin.qq.com/s/vFL2t_rOrEYUSat_gMV0IA)
 
 #### alibaba
 
@@ -4031,6 +4042,7 @@
 + [日志解析神器——Logstash中的Grok过滤器使用详解](https://mp.weixin.qq.com/s/f_de8w4Rw1_DAkawZl7EMg)
 + [一行代码搞定数据校验？解密 Java Bean Validation](https://mp.weixin.qq.com/s/F2r_PMce1BHP1zbw36TBHg)
 + [Java性能分析工具JITWatch配置与使用](https://mp.weixin.qq.com/s/i1tIllgyNHEoYpzTiBy5_g)
++ [使用ApachePOI导出Excel文件](https://mp.weixin.qq.com/s/svQrtuqKz0oUZwKur0Dq2A)
 
 # 其它环境
 
@@ -4048,6 +4060,7 @@
 # 相关文章
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
++ [为什么java被部分开发者认为是低端技术？](https://mp.weixin.qq.com/s/mu6EeqNKxf_2FIjyjiDFoA)
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)

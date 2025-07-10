@@ -87,6 +87,7 @@
 + [优秀架构师成长之路（13）-数据迁移与零停机切换（银行系统迁移）](https://mp.weixin.qq.com/s/UgKtuuRLIF3u5DFMwEoEnA)
 + [大流量下的底层软件架构设计的思考](https://mp.weixin.qq.com/s/SRAMQcQizTwXab4JVgjtDg)
 + [技术｜模块设计的黄金法则（三）：不同的层，不同的抽象](https://mp.weixin.qq.com/s/pf-3lYx8OObJOnkqdcTzuw)
++ [代码之外，更大的设计：谈架构思想](https://mp.weixin.qq.com/s/MHzWMXW986KjcrTi7uuzwg)
 
 ### DDD
 

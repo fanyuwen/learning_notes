@@ -210,6 +210,7 @@
 + [微服务架构：必懂的5种设计模式](https://mp.weixin.qq.com/s/9dtJAFdR4HUb92-HOW_2wA)
 + [为啥 90% 的微服务仍然像单体应用一样？](https://mp.weixin.qq.com/s/7vw4a82QdQ35QqREsAHScw)
 + [一分钟阅读:微服务架构整体思路](https://mp.weixin.qq.com/s/yvWHdXIXKT3Vxi-I8lIn5Q)
++ [微服务限流：别说算法了，就问你“阈值”怎么算？](https://mp.weixin.qq.com/s/BQKP5-AqcadIhIfPTCGJEQ)
 
 # 分布式
 
@@ -265,6 +266,7 @@
 + [分布式和微服务，它们有什么区别？](https://mp.weixin.qq.com/s/oApM-yiiUAm7SsgnVyooXQ)
 + [分布式系统不可靠时钟问题](https://mp.weixin.qq.com/s/yWDDonbXrdHcLQiMT36dLQ)
 + [什么是一致性模型, 我们真的理解吗?](https://mp.weixin.qq.com/s/2PBzezUk-n6l7sN_23uNUg)
++ [微服务、分布式、集群：别再傻傻分不清楚了！](https://mp.weixin.qq.com/s/Xl0TxBCJXpULLegQd-wfiw)
 
 ## 分布式锁
 

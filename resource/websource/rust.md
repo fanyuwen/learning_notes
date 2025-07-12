@@ -80,6 +80,8 @@
 + [cc crate 1.2.26: Rust 中的 C/C++ 构建工具](https://mp.weixin.qq.com/s/z2q63PyntyJVAaa6BV8F4Q)
 + [Rust 迭代器增强库：itertools 完全指南](https://mp.weixin.qq.com/s/2l9bVmgLCYPCcCDLMuMopA)
 + [Rust中的标记特质：深入理解std::marker模块](https://mp.weixin.qq.com/s/mtrzMi2A-sP2Pk59BvkVzg)
++ [Rust算法：快速排序](https://mp.weixin.qq.com/s/3e07RjxfcYSCaX2-nh8Y0w)
++ [Rust算法：堆排序最佳实践](https://mp.weixin.qq.com/s/kM4Jb4MckIppsiXzzjGm5A)
 
 # 框架
 

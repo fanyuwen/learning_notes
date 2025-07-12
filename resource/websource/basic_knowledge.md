@@ -16,6 +16,7 @@
 + [计算机操作系统 - 进程调度策略](https://mp.weixin.qq.com/s/s8nZIG5DRafiNb9gznbWWg)
 + [计算机操作系统 - 地址转换机制](https://mp.weixin.qq.com/s/XVwUYvfomT0Perzo4V1OVA)
 + [计算机操作系统 - 地址空间演化](https://mp.weixin.qq.com/s/Rej_fsEGDjvxu88O0Ju5pA)
++ [10个程序员8个的多线程卡成狗？你可能连fork和exec都没整明白！](https://mp.weixin.qq.com/s/ocFvQWpEufBZ7BxpJKNftA)
 
 ## 文件系统
 
@@ -265,6 +266,7 @@
 + [计算机组成原理](https://mp.weixin.qq.com/s/J0EITMyEJNQeeBhmoKh4EA)
 + [一文了解计算机中的二进制](https://mp.weixin.qq.com/s/m5aW0-VsxsyB7ATN4o3W1A)
 + [深入理解计算机组成原理（十五）---指令流水线和总线系统](https://mp.weixin.qq.com/s/_wn3UT1NEFmTyHp3Pdb4Rw)
++ [深入理解计算机组成原理（二十五）---多模块存储器之连续编址和交叉编制的总结](https://mp.weixin.qq.com/s/aAfUN1qO7-AiQrq5nOyMXg)
 
 ## CPU
 

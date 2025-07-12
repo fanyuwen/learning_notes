@@ -822,6 +822,7 @@
 + [java线程池使用篇](https://mp.weixin.qq.com/s/kH3YilYDqi4U3xJD6TD93A)
 + [浅入浅出-Java线程池的所有细节](https://mp.weixin.qq.com/s/UU4YLHmEbniF9e_lQhAV7Q)
 + [java线程池使用经验](https://mp.weixin.qq.com/s/AlvOYsfdEXUTHZczy9kIjg)
++ [一文揭秘：Java线程池如何用有限的线程扛住海量任务？核心在于复用设计！](https://mp.weixin.qq.com/s/wwil4BpGUWlvkm5YazItLA)
 
 #### 锁
 
@@ -2008,11 +2009,14 @@
 + [Sentinel自适应限流原理](https://mp.weixin.qq.com/s/punZ64lW5Rp-u5yJR7muig)
 + [微服务系统中流量治理组件sentinel剖析](https://mp.weixin.qq.com/s/LCr1E6U9cRV05SPENy7A5Q)
 
+## ShardingsPhere
+
++ [分享一次 ShardingJDBC 亿级数据分表真实经验](https://mp.weixin.qq.com/s/obttjmYgC-iwyWGxzOfy7w)
+
 ## shiro
 
 + [再见了 shiro](https://mp.weixin.qq.com/s/fguzrNRL70kxAw6WXnVQrw)
 + [再见了 Shiro！](https://mp.weixin.qq.com/s/-NG2wGbzmmebdHHL6q778Q)
-+ []()
 + [《Apache Shiro 源码解析》- 7. 会话](https://my.oschina.net/mumu/blog/16688991)
 + [《Apache Shiro 源码解析》- 5. 权限](https://my.oschina.net/mumu/blog/16633981)
 + [Shiro入门教程：轻量级Java安全框架](https://mp.weixin.qq.com/s/slMIIq6Mu5Aqmhhr9Um8uw)
@@ -2379,6 +2383,7 @@
 + [聊一聊观察者模式在Spring框架中的应用](https://mp.weixin.qq.com/s/SAwT0bjYJdd7PSzALvxotg)
 + [装饰者模式在Spring框架中的应用](https://mp.weixin.qq.com/s/0oDaWhchSpQdRBcOe8TdFw)
 + [责任链模式在Spring框架中的使用](https://mp.weixin.qq.com/s/9yMjbZnG0BBzsF8lMJeSYw)
++ [Spring Boot中的中介者模式：终结对象交互的“蜘蛛网”困境](https://mp.weixin.qq.com/s/z08lIPIjNmaEt16KTJA1WQ)
 
 ### STATEMACHINE
 
@@ -2489,6 +2494,7 @@
 + [遨游Spring AI：核心的AI概念解读](https://mp.weixin.qq.com/s/Zh6p8R4jjoMm-B-_PtRogw)
 + [搞定复杂 AI 集成！Spring AI + MCP 模式最佳实践揭秘](https://mp.weixin.qq.com/s/YNCyd7Q7JqcVbvpGajjaFA)
 + [Spring AI + LangGraph4j 多智能体开发，太强大了！](https://mp.weixin.qq.com/s/JI7lRqbGGs9ASR0GSn4T7A)
++ [Spring AI存储向量数据](https://mp.weixin.qq.com/s/zAr-tOd02CR53WlTfBZ5Zw)
 
 ### cloud
 
@@ -2796,6 +2802,7 @@
 + [面试官：如何查看已经启动的SpringBoot项目有哪些bean](https://mp.weixin.qq.com/s/ZmajNlx7PJnQ8cxpy5NuJg)
 + [SpringBoot启动过程可视化：从main()到Tomcat的奇妙旅程](https://mp.weixin.qq.com/s/09MGA88b2SM5-oiYzCOUnA)
 + [Spring Boot 加载配置的6种骚操作，第6种知道的人很少](https://mp.weixin.qq.com/s/py7Qt6oEXAOAJBb0TDKjiw)
++ [SpringBoot应用开机自启动与进程守护配置](https://mp.weixin.qq.com/s/xnbld1BkM3QTAAWqkwUf1A)
 
 #### 版本特性
 
@@ -3610,6 +3617,7 @@
 + [Java装饰器模式：每个Spring Boot开发者都必须掌握的设计模式](https://mp.weixin.qq.com/s/8XPnFH6cIVlqD53r1DqkvA)
 + [一个 new 操作耗时1秒？用原型模式，性能提升100倍！](https://mp.weixin.qq.com/s/DLfoYJNtH8VS6PIjKH2h6w)
 + [策略模式 vs 适配器模式：SpringBoot开发中的双剑合璧之道](https://mp.weixin.qq.com/s/tUULn9MzOJ3kk22Wg-RsfA)
++ [Spring Boot中的代理模式：揭秘AOP背后的核心魔法](https://mp.weixin.qq.com/s/SiNr0gTavIEbBLbgTijjnA)
 
 #### message
 
@@ -3812,6 +3820,7 @@
 + [SpringBoot 与 ZXing 完美结合](https://mp.weixin.qq.com/s/Xu4Sc8xSeveEE86in0trEw)
 + [DuckDB + Spring Boot + MyBatis 构建高性能本地数据分析引擎](https://mp.weixin.qq.com/s/KqTwcZC7jhATNh3uln-Ypw)
 + [SpringBoot自定义MyBatis拦截器](https://mp.weixin.qq.com/s/flu2AocIlMkTD82JtbsoDg)
++ [SpringBoot+MyBatis多数据源配置与切换实战](https://mp.weixin.qq.com/s/u7u9Jgkd7FvdZ8Uyc6zL1Q)
 
 #### test
 
@@ -3896,6 +3905,7 @@
 ### jmeter
 
 + [使用jmeter压测数据库](https://mp.weixin.qq.com/s/FNPzhHIYAjlVPeRhvPWgww)
++ [Jmeter性能测试-分布式压测介绍](https://mp.weixin.qq.com/s/wjsfiNEcK9A76FSPBpSQUQ)
 
 ### PowerMock
 
@@ -4043,6 +4053,7 @@
 + [一行代码搞定数据校验？解密 Java Bean Validation](https://mp.weixin.qq.com/s/F2r_PMce1BHP1zbw36TBHg)
 + [Java性能分析工具JITWatch配置与使用](https://mp.weixin.qq.com/s/i1tIllgyNHEoYpzTiBy5_g)
 + [使用ApachePOI导出Excel文件](https://mp.weixin.qq.com/s/svQrtuqKz0oUZwKur0Dq2A)
++ [自从用了CheckStyle插件，代码写的越来越规范了....](https://mp.weixin.qq.com/s/7qQfNkxuMur7Rby0l7uvhA)
 
 # 其它环境
 
@@ -4064,7 +4075,9 @@
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
++ [Spring的替代方案](https://mp.weixin.qq.com/s/IjWUHbN0SyX_OggphCav-Q)
 + [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)
++ [一个由默认值引发的BUG，开发直呼冤枉](https://mp.weixin.qq.com/s/80HRh5E9yph46JAP49GTVg)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [当下，哪种编程语言比较流行？](https://mp.weixin.qq.com/s/BPf6aF55dMrAswq7V8Wi7Q)
 + [Java 开发者要了解 SFTP 用户权限吗？5分钟带你配置 Linux 用户权限](https://mp.weixin.qq.com/s/gAC1vxZTZuBeGEXgZOigAw)

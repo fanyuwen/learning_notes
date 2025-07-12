@@ -70,6 +70,7 @@
 
 + [模板方法模式，用起来是真的爽！](https://mp.weixin.qq.com/s/OGQbwcxeoWcrbmAtpt8fxQ)
 + [深入设计模式之「模板方法模式」：定义流程框架，稳定主干逻辑](https://mp.weixin.qq.com/s/4PwOUfZQTEma6vUhmfhQLg)
++ [设计模式-模板方法模式](https://mp.weixin.qq.com/s/DYt-xxDfUn9IP43QAhDw2w)
 
 ## 工厂模式
 

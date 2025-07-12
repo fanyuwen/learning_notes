@@ -226,6 +226,7 @@
 + [C++项目中常见性能瓶颈和实用优化技巧](https://mp.weixin.qq.com/s/USodhX9NFLHU4Haq2TcabA)
 + [输出流的数字格式](https://mp.weixin.qq.com/s/pKHopaNzWXcZ21oQ9KVKQg)
 + [现代C++开发者工具指南：比技巧更重要的是装备！](https://mp.weixin.qq.com/s/OkHKVrFEamF5rwVFUc55yQ)
++ [C++模板元编程：从类型体操到编译期计算的魔法世界](https://mp.weixin.qq.com/s/Of1ob8aZq6E-dZJj0cjvFg)
 + [告别内存焦虑！C++ 必备的工具库实战指南](https://mp.weixin.qq.com/s/WMxNCQEiJj_B0zl6RLRKCQ)
 + [别再无脑#include了！你写的每一行C++代码，可能都在拖慢整个团队！](https://mp.weixin.qq.com/s/0AQceQ81oM6mwYA9tYR-ow)
 + [你的 C++ 代码可能正在泄漏！用零法则 3 步检测资源管理漏洞](https://mp.weixin.qq.com/s/cVek_L1GNriTvz7Bgqc1hQ)
@@ -457,6 +458,7 @@
 + [嵌入式分享#23：《嵌入式外设调试思路》--audio调试篇](https://mp.weixin.qq.com/s/3cPngYadI2wt_qJQvi-95Q)
 + [一文讲透CAN总线，超级详细！！！](https://mp.weixin.qq.com/s/aGi_oxnec2mYPPJnYq-_Lw)
 + [嵌入式软件设计的微观缩影 亲历BMC软件架构演进](https://mp.weixin.qq.com/s/FWhkB0FLwyD8g9PxmW565Q)
++ [嵌入式面试指南：你必须了解的硬件知识](https://mp.weixin.qq.com/s/ORNUP0ffqhVDHF_4_3EEhA)
 
 # ARM
 

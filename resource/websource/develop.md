@@ -267,6 +267,8 @@
 + [分布式系统不可靠时钟问题](https://mp.weixin.qq.com/s/yWDDonbXrdHcLQiMT36dLQ)
 + [什么是一致性模型, 我们真的理解吗?](https://mp.weixin.qq.com/s/2PBzezUk-n6l7sN_23uNUg)
 + [微服务、分布式、集群：别再傻傻分不清楚了！](https://mp.weixin.qq.com/s/Xl0TxBCJXpULLegQd-wfiw)
++ [Raft协议](https://mp.weixin.qq.com/s/S68jCwZpdAP4f8_T6ByLYQ)
++ [数据一致性算法详解之Gossip协议篇](https://mp.weixin.qq.com/s/imx8FbFQmnHdBHH4vfkAnQ)
 
 ## 分布式锁
 
@@ -514,6 +516,7 @@
 + [用好缓存的10条军规](https://mp.weixin.qq.com/s/eb5FzwpJAFM4cbsdooYzkg)
 + [深入探讨缓存一致性问题：解决方案与最佳实践](https://mp.weixin.qq.com/s/RZCwcOwe0I2ZsJq61Q9hQQ)
 + [从崩溃到高可用：一文彻底搞懂缓存雪崩、缓存击穿、缓存穿透；相信我，面试必问](https://mp.weixin.qq.com/s/YoelBmHER47tDc2S20pmdg)
++ [缓存穿透、缓存击穿、缓存雪崩，这样回答要满分呀！](https://mp.weixin.qq.com/s/auO19jE0Sl6fjBLPI3YPgg)
 
 ## 优化
 

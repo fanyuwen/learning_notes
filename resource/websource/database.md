@@ -472,6 +472,7 @@
 + [MySQL数据库——多版本并发控制MVCC](https://mp.weixin.qq.com/s/cy5k2K5Tr6zVk8bGwlPcOQ)
 + [数据库MVCC机制](https://mp.weixin.qq.com/s/vF-0sdwoTq4k9FRglhz4_g)
 + [面试中你有遇到：MVCC机制的问题？](https://mp.weixin.qq.com/s/axtF7pHYNTF_X8qp77LjVw)
++ [MySQL MVCC快照机制的简易模型](https://mp.weixin.qq.com/s/O-K5hhRiovT6vXnVjoeINQ)
 
 #### 锁
 

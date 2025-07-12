@@ -93,7 +93,10 @@
 + [C++多线程性能优化实战指南：如何让你的线程飞起来？](https://mp.weixin.qq.com/s/dRXXFatDyjKGRFhcCQJBow)
 + [C++入门学习11——结构体](https://mp.weixin.qq.com/s/mEjd35S1P8xbB7JsXqIvNQ)
 + [C++入门学习09——vector](https://mp.weixin.qq.com/s/bKB8PQOc5p9-8elnZUI91w)
++ [C++进阶学习01——栈](https://mp.weixin.qq.com/s/-bNhQfaHr0tmTXTqytGmAw)
 + [快速入门C++17：写出更简洁高效的代码](https://mp.weixin.qq.com/s/v8OeLsthJq454N5eFWHfBw)
++ [C++进阶学习11——排序算法（桶排序）](https://mp.weixin.qq.com/s/kxXuwXlSCBKQ5ZKH_vcwoQ)
++ [C++进阶学习15——高精度减法](https://mp.weixin.qq.com/s/71SK7GHnrc0oUrCCaC64QA)
 + [比 tcmalloc 快 43%！mimalloc 高性能背后的 5 大核心技术揭秘](https://mp.weixin.qq.com/s/Js9jjkHdApMxnKxvGS-OQA)
 + [C++进阶学习02——指针](https://mp.weixin.qq.com/s/Bef5gUB0ZgtWEFrHNA6tYQ)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
@@ -324,10 +327,12 @@
 + [嵌入式开发：C语言何以成为无可替代的王者？](https://mp.weixin.qq.com/s/zb1QVB1_97w28nGgOawJFg)
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)
 + [一文讲透C语言内存管理，从入门到实战进阶。](https://mp.weixin.qq.com/s/u0Obhganh3PGBEhhCcmE3A)
++ [我的C语言之路：13-枚举](https://mp.weixin.qq.com/s/roMYgClcWRkLWGPpV1r-zQ)
 + [C语言中include的冷知识——聊聊大家熟悉又陌生的include](https://mp.weixin.qq.com/s/4e8_0SK4mrInJq1dEy4lFQ)
 + [为什么C语言不淘汰 strcpy？从三个函数看程序员的 “自由与风险”](https://mp.weixin.qq.com/s/LmfVtbfrpgke-T8k6fLHOA)
 + [C语言：一文说清什么是指针和数组！！！](https://mp.weixin.qq.com/s/qSe46WQlbbJkLrgJCRvptg)
 + [C语言编程之指针函数和函数指针的区别](https://mp.weixin.qq.com/s/uFpVSy9s6hB8VNiHbjljGg)
++ [我的C语言之路：9-指针和数组](https://mp.weixin.qq.com/s/PzUiN41xldChVPTB8E-Fcg)
 + [C语言指针详解以及指针的用途](https://mp.weixin.qq.com/s/yaDcz5_EJ4qkrPcaDoF4lA)
 + [03_整数/浮点数据类型](https://mp.weixin.qq.com/s/6VKkeur_vLYEg0YN8dBLxg)
 + [C语言结构体全解析：从入门到内存布局](https://mp.weixin.qq.com/s/oyfbAFzyPrnQoo8p-BtMYQ)
@@ -424,6 +429,7 @@
 + [C语言实现PID算法](https://mp.weixin.qq.com/s/JsJzdk_lUW4DJFrZlemmAA)
 + [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
 + [为什么数组的下标从 0 开始？](https://mp.weixin.qq.com/s/TLcJgjoYcf3xYCMgwLNfzw)
++ [同样是写代码，verilog和C的差异到底有多大？](https://mp.weixin.qq.com/s/cb8cc-Uru8VZ5rXtR7dcgQ)
 
 ### 资讯
 

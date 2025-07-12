@@ -170,6 +170,7 @@
 + [（20）Go 项目开发入门（十八）：错误处理](https://mp.weixin.qq.com/s/hnJSs0169K06-OCGkcj7CA)
 + [Go Modules 使用技巧合集](https://mp.weixin.qq.com/s/mjAZ1gmwYVBalV4WXaEgYQ)
 + [Go 语言开发技巧合辑，全网整理最全的一篇](https://mp.weixin.qq.com/s/rv-TFF1Hf2TGcybPQp4z1Q)
++ [Go语言空结构体：零内存消耗的高效编程](https://mp.weixin.qq.com/s/6lNnsenT1mMuxo3xtWXQIw)
 
 # 面试题
 

@@ -252,6 +252,8 @@
 + [别再用kill -9暴力杀进程，这些信号处理让程序优雅退出](https://mp.weixin.qq.com/s/WS93mP-10ubGA6gAMabM0Q)
 + [Linux 通配符完全指南：从基础语法到实战应用](https://mp.weixin.qq.com/s/OsBF9ozQ7_EEDETukIVX0w)
 + [SSH不只是远程登录，这些隐藏功能让你成为运维高手](https://mp.weixin.qq.com/s/WeLsZ0rqPcuHCEomxbm8_Q)
++ [SSH端口转发技术详解](https://mp.weixin.qq.com/s/UK4M39y_FKWaGrUY-2E7Sw)
++ [Linux Shell脚本：条件测试语句](https://mp.weixin.qq.com/s/IYBIYhFYGxOInqukj-5QcQ)
 
 ### 发行版信息
 

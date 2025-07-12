@@ -414,6 +414,7 @@
 + [一些 Function 的高级实战案例参考](https://mp.weixin.qq.com/s/xdUj8ZXMeWxVTg90F3Opww)
 + [用Java实现文件夹的遍历](https://mp.weixin.qq.com/s/cFmxEmaA-PduWNZRxYsCRA)
 + [带你学会Java的Supplier和Consumer接口的使用（详细版）](https://mp.weixin.qq.com/s/cgxq7sfEx8elq5EyAY43ng)
++ [告别 "if-else"，改用 "return"！](https://mp.weixin.qq.com/s/NMWJqpvU-7hYyVkQAoM7KQ)
 
 ## 代码质量
 
@@ -495,6 +496,7 @@
 + [Java 实用代码优化技巧：提升性能与可读性的建议](https://mp.weixin.qq.com/s/khwNTrMhSmLhAUuwl-njBw)
 + [告别“祖传代码”！每个 Java 开发者都应掌握的 7 个重构“大招”](https://mp.weixin.qq.com/s/IHEDJR5uGMQJIlXkoeChLA)
 + [Java：从支付操作看什么是接口幂等性](https://mp.weixin.qq.com/s/a6z4-Gzy9IEB7ZNxIyAvPg)
++ [Java开发中的5个“反模式”，CTO看了都说好，你中招了吗？](https://mp.weixin.qq.com/s/UjZHdgggyvW0bGlh-JPAGA)
 
 # 底层
 
@@ -767,6 +769,7 @@
 + [Java 异常处理难点突破：Lambda 表达式与并发编程的优雅解决方案](https://mp.weixin.qq.com/s/5geY3xjAhMwtbq6XWEtMLA)
 + [一文搞懂线程、协程、虚拟线程的区别](https://mp.weixin.qq.com/s/iAfxrvL-cUxVJG6R3F1JgA)
 + [如何优雅地中断Java线程](https://mp.weixin.qq.com/s/GWP9qf5W_O1HJ7UMIzwJvQ)
++ [Java 多线程编程核心代码示例：12 个场景带你玩转并发](https://mp.weixin.qq.com/s/VHO3h1bXoBw2XXNfHUUPHg)
 
 #### CAS
 
@@ -823,6 +826,7 @@
 + [浅入浅出-Java线程池的所有细节](https://mp.weixin.qq.com/s/UU4YLHmEbniF9e_lQhAV7Q)
 + [java线程池使用经验](https://mp.weixin.qq.com/s/AlvOYsfdEXUTHZczy9kIjg)
 + [一文揭秘：Java线程池如何用有限的线程扛住海量任务？核心在于复用设计！](https://mp.weixin.qq.com/s/wwil4BpGUWlvkm5YazItLA)
++ [从“卷王”线程池ForkJoinPool，看大任务的高效并行之道](https://mp.weixin.qq.com/s/hn1BelWkLPakkRttk8IlXQ)
 
 #### 锁
 
@@ -1682,6 +1686,7 @@
 + [Disruptor生产者源码分析](https://mp.weixin.qq.com/s/YZ1kd-8ClvTSXEvBPLViEQ)
 + [Disruptor消费源码分析](https://mp.weixin.qq.com/s/XnYl-1YaCrNT17qdrg4YCA)
 + [Disruptor多生产者多消费者分析](https://mp.weixin.qq.com/s/b6I8l6jeKnzq8h-EZw1fCQ)
++ [Disruptor—4.与Netty的简单应用](https://mp.weixin.qq.com/s/JCAqL0Ab7h8cGB3bYPEFSg)
 
 ## dubbo
 
@@ -2027,6 +2032,7 @@
 
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
 + [为什么大厂都在用Spring？5分钟带你看透它的设计精髓！](https://mp.weixin.qq.com/s/Q7OlNsetA3OQaHZCROpZeg)
++ [Spring源码破壁：从框架使用者到架构设计者的认知跃迁](https://mp.weixin.qq.com/s/saIZiZGTl7hfKY4bJm0BUA)
 + [Spring分析-IOC](https://mp.weixin.qq.com/s/_OjB8jrgadmAVCvWWj1-mA)
 + [Spring（一）手把手实现你的第一个 Spring 应用](https://mp.weixin.qq.com/s/taghHoJPoIaKj80ULSfzag)
 + [图解 Spring Bean 生成流程，非常详尽](https://mp.weixin.qq.com/s/daKijLOpH8L_zTXUf1mC_g)
@@ -2253,6 +2259,7 @@
 + [接口安全三重门：SpringBoot防护XSS/SQL/重放攻击](https://mp.weixin.qq.com/s/hOoJqCeuG2I30musubfSTQ)
 + [Java真的不难（九十五）一篇文章完全掌握SpringMVC的常见注解](https://mp.weixin.qq.com/s/akQrINX1oIEkJtx1O5-1tw)
 + [Java真的不难（九十七）SpringMVC拦截器的超详细解析（含前后端代码）](https://mp.weixin.qq.com/s/ekzRIIm_vzQVjHis6rQJSw)
++ [Spring容器启动揭秘：国际化支持(MessageSource)的初始化魔法](https://mp.weixin.qq.com/s/SDz6U7IF_LRXSGPFo2pKDg)
 
 ### concurrent
 
@@ -2415,6 +2422,7 @@
 + [还在 Service 里疯狂注入其他 Service？你早就该用 Spring 的事件机制了](https://mp.weixin.qq.com/s/Dqgg6pu4GgZr77SsHGZkqw)
 + [百万订单零超卖：Spring事件驱动解耦库存的终极武器](https://mp.weixin.qq.com/s/0Y4ahUeztK61-MN01T47qg)
 + [使用 Spring Events 实现异步记录操作日志](https://mp.weixin.qq.com/s/5ReNPlmgUTiNCbG6iSwZHA)
++ [Spring事件驱动模型核心：ApplicationEventMulticaster初始化全解析](https://mp.weixin.qq.com/s/BDYBScAgnpZb-jAQR6IXxQ)
 
 ### AOP
 
@@ -2585,6 +2593,7 @@
 + [微服务网关升级：Spring Cloud Gateway 整合 Nacos 实现服务请求自动转发+负载均衡！](https://mp.weixin.qq.com/s/z3XQFysrSlVF-OBtviuAEQ)
 + [高并发场景下，Spring Cloud Gateway如何抗住百万并发？](https://mp.weixin.qq.com/s/CEB-Cb2bQojR1DPmXq7GVQ)
 + [Spring Cloud Gateway：新一代API网关，为什么它能取代Zuul？性能与功能全方位对比](https://mp.weixin.qq.com/s/VAGphi6M_5msXxwXw2qx6A)
++ [Gateway - ⽹关](https://mp.weixin.qq.com/s/lkGn0LXwUYDnahx3t3_r5w)
 
 #### AI
 
@@ -4053,6 +4062,7 @@
 + [一行代码搞定数据校验？解密 Java Bean Validation](https://mp.weixin.qq.com/s/F2r_PMce1BHP1zbw36TBHg)
 + [Java性能分析工具JITWatch配置与使用](https://mp.weixin.qq.com/s/i1tIllgyNHEoYpzTiBy5_g)
 + [使用ApachePOI导出Excel文件](https://mp.weixin.qq.com/s/svQrtuqKz0oUZwKur0Dq2A)
++ [使用EasyExcel导出大数据文件](https://mp.weixin.qq.com/s/wGIkGUJQADhBIq1sH-_N4w)
 + [自从用了CheckStyle插件，代码写的越来越规范了....](https://mp.weixin.qq.com/s/7qQfNkxuMur7Rby0l7uvhA)
 
 # 其它环境

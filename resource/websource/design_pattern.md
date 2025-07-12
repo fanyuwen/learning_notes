@@ -27,6 +27,7 @@
 + [我常用的六种设计模式](https://mp.weixin.qq.com/s/yWCVZX_82V3GfaZkFHTTdA)
 + [当设计模式遭遇代码熵增：一名Java工程师的架构治理实践](https://mp.weixin.qq.com/s/Mr84ZlHCj8Qp_MeM2l90yA)
 + [SOLID 设计原则在 Android 中的实战应用](https://mp.weixin.qq.com/s/o4Aj-AnTVl_UkgBBAk3Eqg)
++ [设计模式-责任链模式、策略模式](https://mp.weixin.qq.com/s/zCC4xJy1c7xQOGsXpDIOVg)
 
 # 并发设计模式
 

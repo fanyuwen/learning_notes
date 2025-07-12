@@ -207,6 +207,7 @@
 + [掌握这5个 Python 字典技巧，你的编程能力将飞跃](https://mp.weixin.qq.com/s/U18IsEmQJIXL7UE5M4fplQ)
 + [Python高手常用的6个字典推导式方法](https://mp.weixin.qq.com/s/WaG2n2Myv7VKAawl2ZjyiQ)
 + [掌握 Python 字典：初学者必知的 15 种高效技巧](https://mp.weixin.qq.com/s/gmLQJysxNWXKzVDwwC0bqw)
++ [Python字典性能优化与底层原理大揭秘：从源码视角到实战策略](https://mp.weixin.qq.com/s/LSlXfHxqxhPy8pBKpSXkyw)
 + [100个字典编程小技巧，让你成为Python高手](https://mp.weixin.qq.com/s/1fQU3rVh_vFTRngHGlcL3w)
 + [Python编程十一:dict字典定义](https://mp.weixin.qq.com/s/8y6bY38GBp01KV_W3NQmrQ)
 + [Python字典深度解析：从基础操作到实战应用，这篇文章帮你彻底搞懂！](https://mp.weixin.qq.com/s/87L1ZTNdZNeXfmUMXTjwuw)
@@ -620,6 +621,8 @@
 + [Python 常见的陷阱](https://mp.weixin.qq.com/s/d_v2bjOBswTVfZoe3vYLMg)
 + [Python进阶之路：第十五章 循环结构的三种状态控制技巧：计数器、累加器与标志位](https://mp.weixin.qq.com/s/y7TAcRH9BRomzmT0OgyZlA)
 + [Python编程：从匿名函数到实用工具开发](https://mp.weixin.qq.com/s/1ElNqaRJ7td_UxzU2yWqdA)
++ [Python学习14-图像文件处理](https://mp.weixin.qq.com/s/41w4bYJBLGc0vooTdGURJw)
++ [Python打包教程03：PyInstaller命令使用指南](https://mp.weixin.qq.com/s/Pw1IaJcmuc4QCIlW5EshCw)
 
 ## 新特性
 
@@ -950,6 +953,7 @@
 + [速度提升100倍，最新Python包管理工具uv，淘汰pip](https://mp.weixin.qq.com/s/kSB0Bb2ZBwaH30fRJ_cgvA)
 + [使用uv高效管理Python项目](https://mp.weixin.qq.com/s/1OTQbCKwsuqOo4aftTaXfg)
 + [【python】uv管理器](https://mp.weixin.qq.com/s/-h3LV8R9J2DSwnWMBB_Mrw)
++ [uv：用 Rust 重塑 Python 开发体验](https://mp.weixin.qq.com/s/RrmEY5oGzxwTklLQXtWspA)
 + [python代码调试工具pudb的多进程支持](https://mp.weixin.qq.com/s/iS4aCiA0CvkH7gD_i_Omig)
 + [Python中的数据导入与查询](https://mp.weixin.qq.com/s/4y0nZ8LvBKvAwFKEPixq7g)
 

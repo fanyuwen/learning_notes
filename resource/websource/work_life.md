@@ -93,6 +93,7 @@
 + [作为一个程序员你觉得是业务重要还是技术重要？](https://mp.weixin.qq.com/s/LDwvat4Bgmtl1HltjZYuCQ)
 + [你怎么看待满嘴高并发，编码能力却稀松平常的程序员？](https://mp.weixin.qq.com/s/yt_YxLGTPzow4WfFrx1Vkw)
 + [技术重构遭反噬！CTO震惊全公司的决定：炒掉整个后端团队！代码全用Rust重写！事后血泪教训：Rust 没错，错的是技术抹杀团队](https://mp.weixin.qq.com/s/LmFPF2bGvoOAYzLaPp-EWQ)
++ [越沉迷技术，离钱越远](https://mp.weixin.qq.com/s/PF_pEmQWw59oJ1RAXXI6rQ)
 
 # 个人成长
 
@@ -166,6 +167,7 @@
 + [编梦启航：用代码书写你的星辰大海](https://mp.weixin.qq.com/s/rU0-hrfvoSPXSHKiU4Pyrw)
 + [学习编程的方法与工具](https://mp.weixin.qq.com/s/t8-3YRTssNRo-KEt4rdQVQ)
 + [学编程到底在学什么？](https://mp.weixin.qq.com/s/FxCAt9iPaU7hRrUCm8V-_A)
++ [进化成更好的人](https://mp.weixin.qq.com/s/Fpz16tjtnyn5U-7hXhlRbg)
 
 ## 视频
 

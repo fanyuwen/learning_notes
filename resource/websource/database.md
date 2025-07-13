@@ -102,6 +102,7 @@
 + [SQL窗口函数原理和使用](https://mp.weixin.qq.com/s/uU0HyN0tookMK6mIaZDXQA)
 + [面试官：不会看 Explain执行计划，简历敢写 SQL 优化？](https://mp.weixin.qq.com/s/WsnA7MbXItkeafWqwT5wzA)
 + [滴滴面试：JOIN顺序优化，什么是 ‘小表驱动大表’ 原则？ 小伙 蒙圈了 。。。](https://mp.weixin.qq.com/s/BV4BSqnxVs8bDZ9NZ75L3A)
++ [一文带你吃透大厂高频面试题：行转列＆列转行问题](https://mp.weixin.qq.com/s/dy0E1-AZ-vYFjXaRUmKtIA)
 
 # 本地数据库
 
@@ -434,6 +435,8 @@
 + [mysql数据库基础知识总结](https://mp.weixin.qq.com/s/AHJne4PXua_dWvoEmMcM9g)
 + [MySQL事务：工作原理与实用指南](https://mp.weixin.qq.com/s/zEddIWBySg4Pj3TNqd7exg)
 + [MySQL索引完全指南：让你的查询速度飞起来](https://mp.weixin.qq.com/s/yimTRXI2WzclXDNKeFzEsw)
++ [史上最全 MySQL 锁详解：从理论到实战，一篇搞定所有锁机制](https://mp.weixin.qq.com/s/MhzRamB1nzJe9xA7HO-Wfg)
++ [拒绝慢查询！MySQL深度分页性能分析](https://mp.weixin.qq.com/s/IVXsP7H5bHYB3_AcraaKwg)
 
 #### 存储引擎
 
@@ -619,6 +622,7 @@
 + [mysql索引优化](https://mp.weixin.qq.com/s/bqaWYOAVXM_c2L_W-DCGXw)
 + [MySQL索引原理](https://mp.weixin.qq.com/s/0SD3ZzGV3N4udXHijgFlyQ)
 + [高质量索引的10条军规](https://mp.weixin.qq.com/s/ILvEr1pU7XClYynb0js7iQ)
++ [MySQL：创建索引需要关注哪些细节？](https://mp.weixin.qq.com/s/OMo7yb7UJCBv-ZBvlz25xg)
 
 ### PostgreSQL
 
@@ -910,6 +914,7 @@
 + [Redis中字符串类型是如何实现的](https://mp.weixin.qq.com/s/pKA1_kV6Hkynd_sbWAHtOA)
 + [Redis中hash数据类型的实现原理](https://mp.weixin.qq.com/s/JgfWTQ7vtBKZ7fdDBtKKvg)
 + [阿里面试：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/5EQ3bxl7Atg_6ac7JpnyqA)
++ [Redis核心机制解析：从事件循环到底层数据结构](https://mp.weixin.qq.com/s/kMuXdnr6FDK1pZfldONMDw)
 
 #### 分布式锁
 

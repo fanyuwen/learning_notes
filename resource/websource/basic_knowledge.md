@@ -254,6 +254,7 @@
 + [SSH不只是远程登录，这些隐藏功能让你成为运维高手](https://mp.weixin.qq.com/s/WeLsZ0rqPcuHCEomxbm8_Q)
 + [SSH端口转发技术详解](https://mp.weixin.qq.com/s/UK4M39y_FKWaGrUY-2E7Sw)
 + [Linux Shell脚本：条件测试语句](https://mp.weixin.qq.com/s/IYBIYhFYGxOInqukj-5QcQ)
++ [15个救命grep命令，运维人必存！](https://mp.weixin.qq.com/s/vnRFzv-rPESfnAhTBhht9A)
 
 ### 发行版信息
 
@@ -269,6 +270,7 @@
 + [一文了解计算机中的二进制](https://mp.weixin.qq.com/s/m5aW0-VsxsyB7ATN4o3W1A)
 + [深入理解计算机组成原理（十五）---指令流水线和总线系统](https://mp.weixin.qq.com/s/_wn3UT1NEFmTyHp3Pdb4Rw)
 + [深入理解计算机组成原理（二十五）---多模块存储器之连续编址和交叉编制的总结](https://mp.weixin.qq.com/s/aAfUN1qO7-AiQrq5nOyMXg)
++ [深入理解计算机组成原理（二十八）---逻辑地址和物理地址位数计算的一道小题](https://mp.weixin.qq.com/s/U1FhC1OkUbyVk1qENUH-AQ)
 
 ## CPU
 

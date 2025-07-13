@@ -47,6 +47,7 @@
 + [一行代码搞定防抖节流：JavaScript新特性解析](https://mp.weixin.qq.com/s/NpZkkzFT7eMyVovDiwenpw)
 + [原来可以这样写JavaScript！ES2025新语法糖](https://mp.weixin.qq.com/s/-TMu5l6BUqy1JfhrL7Sxlg)
 + [JavaScript 深入浅出（一）:let 和 Var 的区别](https://mp.weixin.qq.com/s/LDGVS_MjGoduKYyrYpTdyA)
++ [JavaScript中的var、let和const：区别与使用](https://mp.weixin.qq.com/s/6RgSxdLrZvQ_SLA-0kmbJQ)
 
 ### 底层
 

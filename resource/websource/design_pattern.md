@@ -186,3 +186,7 @@
 ## 组合模式
 
 + [实战设计模式之组合模式](https://mp.weixin.qq.com/s/ueYZx_1BK3flYNEqrIYcNg)
+
+## 备忘录模式
+
++ [实战设计模式之备忘录模式](https://mp.weixin.qq.com/s/G7Yy2IXzoIdwDCfy05QZdQ)

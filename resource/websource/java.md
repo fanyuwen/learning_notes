@@ -161,6 +161,7 @@
 + [深入理解Java中的继承：从基础到高级应用](https://mp.weixin.qq.com/s/Y9YyLQkV-x1t5LicmdKVqw)
 + [JAVA基础（五）封装与继承：Java OOP的两大核心特性](https://mp.weixin.qq.com/s/oXWnVaByJ9oHs7kmngLWaw)
 + [面向对象程序设计要点](https://mp.weixin.qq.com/s/6TanmhrQuOi84-PGf0637g)
++ [Java学习|面向对象（1）](https://mp.weixin.qq.com/s/mAzfkSVm6GPlo2DcGLGPyw)
 + [Java面向对象编程与面向过程编程的区别是什么？](https://mp.weixin.qq.com/s/VY8pLHRTeAB4pcmasqHClQ)
 + [深入浅出Java中的类与对象：从概念到实践](https://mp.weixin.qq.com/s/JOa4rkdxqFaEjGTYepd4OA)
 + [Java面向对象编程之封装：代码的“黑匣子”，你了解多少？](https://mp.weixin.qq.com/s/ZWIiybvfRUWKfMdzD72axg)
@@ -170,7 +171,10 @@
 + [Java学习笔记——面向对象编程（进阶）](https://mp.weixin.qq.com/s/Z-AOqmpftgRYud-a-e6PEQ)
 + [接口和抽象类有什么共同点和区别？](https://mp.weixin.qq.com/s/63r7NQWUWEpkiiyQ5FA2dA)
 + [Java三大特性——封装、继承、多态代码实战演示](https://mp.weixin.qq.com/s/dksYtFXes1q7Zz255OjZZw)
++ [110. Java 继承 - 编写 `final` 类和方法](https://mp.weixin.qq.com/s/qX4cxjSw4fX4Kw8E-KMyVg)
++ [113. Java 接口](https://mp.weixin.qq.com/s/MHFglsJn5TLRqYefRpIJng)
 + [115. Java 接口 - 拓展接口](https://mp.weixin.qq.com/s/DsquGNDJQzgzYFyupgr9gQ)
++ [116. Java 接口 - 默认方法](https://mp.weixin.qq.com/s/m19V0kHTelFvxmWSvty6xg)
 
 ## 新语言特性
 
@@ -597,6 +601,7 @@
 + [掌握 Java 队列：高并发时代的必备技能](https://mp.weixin.qq.com/s/_bH_lXIVe3yEgJOZs7nBXw)
 + [Java语法糖深度解析：从语法糖衣到编译原理](https://mp.weixin.qq.com/s/CjRUrva0CfzYIgPtjSwqMQ)
 + [JAVA | 第24期 - Lambda 表达式](https://mp.weixin.qq.com/s/3L6zadYiS_oMXhtStbNRtA)
++ [Java集合框架揭秘：List接口与ArrayList实现类的深度解析](https://mp.weixin.qq.com/s/CwBCsHsov6zSw_2LzwqPfg)
 
 ### 序列化
 
@@ -653,6 +658,7 @@
 + [Java Class类到底是啥？看完这篇“娱乐圈内幕”，面试官都夸你懂行！](https://mp.weixin.qq.com/s/x6kvprmtH4ElWb_gRmGZQQ)
 + [深入理解Java反射机制：动态编程的利器，框架源码阅读必备技能！](https://mp.weixin.qq.com/s/4moOwwlcCQyxJWNt7NW75w)
 + [反射与注解在框架中的妙用：Spring、MyBatis源码中的设计哲学！](https://mp.weixin.qq.com/s/ln1NPzjlRhcc8GVQXDVr1A)
++ [JAVA：高并发下如何解决数据库性能瓶颈](https://mp.weixin.qq.com/s/hMlidFEUIFkZZgLkcbFjfw)
 
 ### 并发/多线程
 
@@ -831,6 +837,7 @@
 + [java线程池使用经验](https://mp.weixin.qq.com/s/AlvOYsfdEXUTHZczy9kIjg)
 + [一文揭秘：Java线程池如何用有限的线程扛住海量任务？核心在于复用设计！](https://mp.weixin.qq.com/s/wwil4BpGUWlvkm5YazItLA)
 + [从“卷王”线程池ForkJoinPool，看大任务的高效并行之道](https://mp.weixin.qq.com/s/hn1BelWkLPakkRttk8IlXQ)
++ [JAVA：线程池参数优化的技术指南](https://mp.weixin.qq.com/s/ZLpezo0UcX-oJ5FRLBAfAg)
 
 #### 锁
 
@@ -1084,6 +1091,7 @@
 + [JVM通关指南（五）类加载器 - 了解Java类是如何加载](https://mp.weixin.qq.com/s/tbMp2b_UOqc2lvOTgpT29g)
 + [Java中什么是类加载？类加载的过程？](https://mp.weixin.qq.com/s/0WOqUgt-2k2wzHsaYKwFJQ)
 + [你了解 Java 的类加载器吗?类加载机制是什么？什么是双亲委派机制？](https://mp.weixin.qq.com/s/wLY4lM6zT_3967ZwEHN_xQ)
++ [深入解析双亲委派机制：安全机制还是性能瓶颈？](https://mp.weixin.qq.com/s/HMubk9LhkeLvHeOuH96BAg)
 
 ### GC
 
@@ -1857,6 +1865,8 @@
 + [Java真的不难（九十）史上最详细的Mybatis逆向工程](https://mp.weixin.qq.com/s/J1Ja2Pd5XhShb5jTNFNpZQ)
 + [批量update实现方案全面解析与最佳实践，带你掌握到底怎么批量更新最快、性能最高](https://mp.weixin.qq.com/s/jMi_S3O8LMSdL7Hyh6DXDQ)
 + [MyBatis动态语法标签速查](https://mp.weixin.qq.com/s/huMQdoZGx5p9LhtZLvqAVQ)
++ [MyBatis动态SQL中的"引号陷阱"：一个让排序失效的隐蔽Bug](https://mp.weixin.qq.com/s/xjg57MLbTmfGpv-ytqt2JQ)
++ [告别复杂SQL！MyBatis一对多/多对一/多对多映射，Spring Boot示例手把手教学](https://mp.weixin.qq.com/s/dRznJDjeDRNr700pPwzFvA)
 
 ### plus
 
@@ -2279,6 +2289,8 @@
 + [Java真的不难（九十五）一篇文章完全掌握SpringMVC的常见注解](https://mp.weixin.qq.com/s/akQrINX1oIEkJtx1O5-1tw)
 + [Java真的不难（九十七）SpringMVC拦截器的超详细解析（含前后端代码）](https://mp.weixin.qq.com/s/ekzRIIm_vzQVjHis6rQJSw)
 + [Spring容器启动揭秘：国际化支持(MessageSource)的初始化魔法](https://mp.weixin.qq.com/s/SDz6U7IF_LRXSGPFo2pKDg)
++ [微服务架构下，@RestControllerAdvice如何实现全局统一响应规范？](https://mp.weixin.qq.com/s/pDMNaRNkWd9DMxU8wSEfBA)
++ [Java真的不难（九十九）Spring MVC异步处理指南](https://mp.weixin.qq.com/s/YB3MV0NibegzMZnXG2mfDQ)
 
 ### concurrent
 
@@ -3290,6 +3302,7 @@
 + [Spring Boot 3 新玩法：用 @HttpExchange 注解5分钟搞定第三方接口调用！](https://mp.weixin.qq.com/s/ByAdhBXi2ilzEriJfk8tAQ)
 + [Spring Boot 参数校验的5种姿势：分组校验、自定义注解、嵌套对象全解析](https://mp.weixin.qq.com/s/UT8iTIGSF_qnCg446XJgxA)
 + [基于 SpringBoot 的 REST API 与 RPC 调用的统一封装](https://mp.weixin.qq.com/s/qUx58QiAH-B85wxGzWLcmw)
++ [拒绝硬编码！SpringBoot字段权限工具类：一行注解动态控制字段可见性](https://mp.weixin.qq.com/s/Bs3ckwEx-pKU405hm9QS3g)
 
 ##### 文件上传下载
 

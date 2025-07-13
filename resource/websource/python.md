@@ -1001,6 +1001,7 @@
 ### Matplotlib
 
 + [Matplotlib imshow()方法详解：图像显示的基础与进阶](https://mp.weixin.qq.com/s/SYeDs3C8gbQk3FZUJh5zfQ)
++ [Python：使用 Matplotlib 绘制直方图](https://mp.weixin.qq.com/s/cywHS5ghDjF9ABoVlcn68w)
 
 ### Ray
 

@@ -20,6 +20,7 @@
 + [链接器是如何一步步发明出来的？](https://mp.weixin.qq.com/s/Ie99bZu3fAkS2ndVOflOAA)
 + [内存问题克星：VSCode GDB调试全攻略](https://mp.weixin.qq.com/s/16mCBeCkIaimH4KxouMSTw)
 + [提升 C++ 代码质量的利器：静态分析工具和实操技巧全指南](https://mp.weixin.qq.com/s/hClgQbHzswl1gC1X-KfsHg)
++ [初探 Makefile](https://mp.weixin.qq.com/s/vCNn7HUpQfIHv69v3W13Ng)
 
 ### cmake
 
@@ -97,8 +98,13 @@
 + [快速入门C++17：写出更简洁高效的代码](https://mp.weixin.qq.com/s/v8OeLsthJq454N5eFWHfBw)
 + [C++进阶学习11——排序算法（桶排序）](https://mp.weixin.qq.com/s/kxXuwXlSCBKQ5ZKH_vcwoQ)
 + [C++进阶学习15——高精度减法](https://mp.weixin.qq.com/s/71SK7GHnrc0oUrCCaC64QA)
++ [C++语言陷阱④：auto、decltype 与类型推导误区](https://mp.weixin.qq.com/s/qy08v4DqyUR3gVZE9GstNg)
++ [C++语言陷阱⑦：多线程与并发编程中的典型误区](https://mp.weixin.qq.com/s/dQQPrdMjaIaITWv2TLWYOA)
++ [C++语言陷阱⑬：模板类型推导与引用折叠规则](https://mp.weixin.qq.com/s/63b_btsAp41FSJ2YUzVd7A)
++ [C++语言陷阱⑭：对象生命周期、临时变量与返回值优化的误解](https://mp.weixin.qq.com/s/n7ntL26YAQdaI4q5HVYf5Q)
 + [C++语言陷阱⑮：虚函数、继承、多态与对象切片问题](https://mp.weixin.qq.com/s/V11cPD7Tim7ayklhT7aycw)
 + [C++语言陷阱⑯：智能指针滥用与循环引用陷阱](https://mp.weixin.qq.com/s/qBNr5re-sjX0AsfNwWiCBg)
++ [C++语言陷阱⑰：lambda 捕获模式、生命周期与闭包陷阱](https://mp.weixin.qq.com/s/gQAycZDhtU-3-sZGXzCUjg)
 + [比 tcmalloc 快 43%！mimalloc 高性能~~背~~后的 5 大核心技术揭秘](https://mp.weixin.qq.com/s/Js9jjkHdApMxnKxvGS-OQA)
 + [C++进阶学习02——指针](https://mp.weixin.qq.com/s/Bef5gUB0ZgtWEFrHNA6tYQ)
 + [聊聊C++中的折叠表达式](https://mp.weixin.qq.com/s/iIOq91dg9fzdpmHfguCn8g)
@@ -287,6 +293,7 @@
 + [C++进阶学习12——排序算法（基数排序）](https://mp.weixin.qq.com/s/vo3xnwdLKMgFDT5csMOuew)
 + [C++的核心痛点以及Rust的解决之道](https://mp.weixin.qq.com/s/V6ubtpU2nhhNqTdOfgMpdw)
 + [C++进阶学习21——二分法](https://mp.weixin.qq.com/s/7d6x8YuXLPLfPEdby6y8TQ)
++ [C++结构型模式之组合模式](https://mp.weixin.qq.com/s/_vgCM3pxYPsP9Jyz7NRbvQ)
 
 ### 资讯
 
@@ -435,6 +442,8 @@
 + [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
 + [为什么数组的下标从 0 开始？](https://mp.weixin.qq.com/s/TLcJgjoYcf3xYCMgwLNfzw)
 + [同样是写代码，verilog和C的差异到底有多大？](https://mp.weixin.qq.com/s/cb8cc-Uru8VZ5rXtR7dcgQ)
++ [C语言一维数组：从"单身公寓"到"集体宿舍"](https://mp.weixin.qq.com/s/Cx60REV679x_RhuNBxFHUw)
++ [C语言实用干货：一文讲透CRC校验码](https://mp.weixin.qq.com/s/fwmWKvDtt4bmW4nYRbLrvg)
 
 ### 资讯
 

@@ -623,6 +623,7 @@
 + [MySQL索引原理](https://mp.weixin.qq.com/s/0SD3ZzGV3N4udXHijgFlyQ)
 + [高质量索引的10条军规](https://mp.weixin.qq.com/s/ILvEr1pU7XClYynb0js7iQ)
 + [MySQL：创建索引需要关注哪些细节？](https://mp.weixin.qq.com/s/OMo7yb7UJCBv-ZBvlz25xg)
++ [MySQL： 为什么使用 B+ 树作为索引结构](https://mp.weixin.qq.com/s/zjDmAIUYzfat6vYnT9rSwA)
 
 ### PostgreSQL
 
@@ -939,6 +940,7 @@
 + [Redis 作者与 DDIA 作者激辩：Redlock 到底安不安全？](https://my.oschina.net/u/4169309/blog/18492056)
 + [小白也能懂的Redis分布式锁，故事版教程来了！](https://mp.weixin.qq.com/s/JIbkVUt6dVgGubgrC8QNFg)
 + [Redis下篇--分布式锁](https://mp.weixin.qq.com/s/LcqB5CwIVVzQVuwkQ1CEcA)
++ [Redis分布式锁的底层实现机制](https://mp.weixin.qq.com/s/8cOy8iFq1gE1lEef5j5-TA)
 
 #### 缓存
 

@@ -160,6 +160,7 @@
 + [必须监控的 17 个 Linux 日志文件](https://mp.weixin.qq.com/s/P8E0KTFngX9Ptk0GOSIezQ)
 + [Crontab定时任务的这些坑，你踩过几个？](https://mp.weixin.qq.com/s/p0_iN7ydeKlf-i6ARuSbyA)
 + [浅谈Linux段页式存储](https://mp.weixin.qq.com/s/D_VzYdAdIcWiAg6Kw-dchA)
++ [Linux进程管理](https://mp.weixin.qq.com/s/lsDSkRfzZfWKvYisLcc4HQ)
 
 ### 网络
 
@@ -271,6 +272,8 @@
 + [深入理解计算机组成原理（十五）---指令流水线和总线系统](https://mp.weixin.qq.com/s/_wn3UT1NEFmTyHp3Pdb4Rw)
 + [深入理解计算机组成原理（二十五）---多模块存储器之连续编址和交叉编制的总结](https://mp.weixin.qq.com/s/aAfUN1qO7-AiQrq5nOyMXg)
 + [深入理解计算机组成原理（二十八）---逻辑地址和物理地址位数计算的一道小题](https://mp.weixin.qq.com/s/U1FhC1OkUbyVk1qENUH-AQ)
++ [深入理解计算机组成原理（二十九）---直接映射方式下的cache的块号的计算的一道题目](https://mp.weixin.qq.com/s/HufIit9gvAV7bAxkG7J8lA)
++ [深入理解计算机组成原理（三十一）---TLB快表，缓存和虚存之间](https://mp.weixin.qq.com/s/sPgQ7aDurNRWhPKJFCxcGg)
 
 ## CPU
 

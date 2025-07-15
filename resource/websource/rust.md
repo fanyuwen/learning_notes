@@ -143,3 +143,4 @@
 + [取代 C 语言！众多 Python 开发者正加入 Rust 阵营](https://mp.weixin.qq.com/s/U-u7zpn4_8OaY16uF9HAmQ)
 + [Rust为何备受青睐？](https://mp.weixin.qq.com/s/O5ZKYCOoix5dMBrKZxz9mA)
 + [公司Rust团队全员被裁，只因把服务写得「太稳定」：“项目0故障、0报警，那养着3个Rust工程师没用啊”](https://mp.weixin.qq.com/s/wnufG6F_CptTqCNLqQcfBA)
++ [从 Rust 模块化探索到 DLB 2.0 实践｜得物技术](https://my.oschina.net/u/5783135/blog/18684148)

@@ -84,6 +84,7 @@
 + [算法 - 丑数](https://mp.weixin.qq.com/s/V2m1ArYykADvNqUB1n7ycw)
 + [向量检索算法：从哈希、树到量化与图](https://my.oschina.net/u/3859945/blog/18683168)
 + [算法-一维动态规划](https://mp.weixin.qq.com/s/DV2gl7epsw9oiqR2g46C3g)
++ [数据结构学习篇 三](https://mp.weixin.qq.com/s/ynZ0caG5n0ypgSdDQyccKg)
 + [数据结构学习篇 四](https://mp.weixin.qq.com/s/gYg7vgpzQLU8S9pbkVbrGQ)
 
 ## Graph

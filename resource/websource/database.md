@@ -437,6 +437,7 @@
 + [MySQL索引完全指南：让你的查询速度飞起来](https://mp.weixin.qq.com/s/yimTRXI2WzclXDNKeFzEsw)
 + [史上最全 MySQL 锁详解：从理论到实战，一篇搞定所有锁机制](https://mp.weixin.qq.com/s/MhzRamB1nzJe9xA7HO-Wfg)
 + [拒绝慢查询！MySQL深度分页性能分析](https://mp.weixin.qq.com/s/IVXsP7H5bHYB3_AcraaKwg)
++ [MySQL：SQL 慢查询优化的技术指南](https://mp.weixin.qq.com/s/J4TR9IAz63MrdD3aYRpAcQ)
 
 #### 存储引擎
 
@@ -624,6 +625,7 @@
 + [高质量索引的10条军规](https://mp.weixin.qq.com/s/ILvEr1pU7XClYynb0js7iQ)
 + [MySQL：创建索引需要关注哪些细节？](https://mp.weixin.qq.com/s/OMo7yb7UJCBv-ZBvlz25xg)
 + [MySQL： 为什么使用 B+ 树作为索引结构](https://mp.weixin.qq.com/s/zjDmAIUYzfat6vYnT9rSwA)
++ [InnoDB为什么不用跳表，Redis为什么不用B+树？](https://mp.weixin.qq.com/s/XNyUy1f42Lxs3yEcNkxpOw)
 
 ### PostgreSQL
 
@@ -666,6 +668,7 @@
 + [DuckDB 如何访问非UTF-8的CSV？](https://mp.weixin.qq.com/s/8HFB_ss4p2DUSJXb4bp9Lw)
 + [DuckDB 技巧 – 第 1 部分](https://mp.weixin.qq.com/s/PH-zm5CAwNGz6gKF--AQRA)
 + [友好列表与 Lambda 让 DuckDB 处理数据更轻松高效](https://mp.weixin.qq.com/s/8EgohinD0zecNRBu86u9Tw)
++ [DuckDB在金融量化中持久化存储的应用实战](https://mp.weixin.qq.com/s/rK4_T8dbnud9OWSk4H7UcQ)
 
 ## NOSQL
 
@@ -876,6 +879,7 @@
 + [【连载 57】Redis 性能测试实战—— 缓存过期](https://mp.weixin.qq.com/s/wwqownRO4gBjdwhH11WnKA)
 + [Redis哨兵模式介绍和实战](https://mp.weixin.qq.com/s/3cCjUa0ocuqgC5iBw_WFrg)
 + [十六、Redis优化——影响Redis性能的因素](https://mp.weixin.qq.com/s/GjXp6UQ1APySVReXbRRMSQ)
++ [Redis四大基础功能详解：让你的缓存飞起来](https://mp.weixin.qq.com/s/VdelxONRRZ4ieLWdpNi06Q)
 
 #### 原理
 

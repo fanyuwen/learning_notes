@@ -148,6 +148,7 @@
 + [Python 开发者必知 11 个超好用的内置函数，提升效率必备！](https://mp.weixin.qq.com/s/U_0r0lm6FMHtNpHjDS1tvA)
 + [Python中函数的使用方法](https://mp.weixin.qq.com/s/2sG5-YgxRISGK9uxWzDjMQ)
 + [Python 函数与作用域关键字详解](https://mp.weixin.qq.com/s/8NgJ17qryLFOz1QRHiEQfQ)
++ [Python编程精进：`__init__` 并非构造函数](https://mp.weixin.qq.com/s/ZtnrqEzs4SbxkuxgKQNXeA)
 
 ### 面向对象
 
@@ -623,6 +624,8 @@
 + [Python编程：从匿名函数到实用工具开发](https://mp.weixin.qq.com/s/1ElNqaRJ7td_UxzU2yWqdA)
 + [Python学习14-图像文件处理](https://mp.weixin.qq.com/s/41w4bYJBLGc0vooTdGURJw)
 + [Python打包教程03：PyInstaller命令使用指南](https://mp.weixin.qq.com/s/Pw1IaJcmuc4QCIlW5EshCw)
++ [Python编程的5个冷门但超实用的技巧，学会后同事都来请教你！](https://mp.weixin.qq.com/s/Pzid0qfmIu920pUkudtrIw)
++ [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
 
 ## 新特性
 
@@ -654,6 +657,7 @@
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [Python第三方库的王者：requests](https://mp.weixin.qq.com/s/hE7pd-WhVKreq1B1YxSb9A)
++ [一文搞懂 Python 的 ujson 模块：比 json 快 10 倍的秘密](https://mp.weixin.qq.com/s/GiGQECM82cEdpqv5Aa9nGQ)
 + [masonite，一个超强的 Python 库！](https://mp.weixin.qq.com/s/5O9S2rtO4xcSLzty7Vjvig)
 + [python入门系列二十（peewee）](https://mp.weixin.qq.com/s/w60YXRv1nhQWRYUSCShLvw)
 + [Python之用于加密和解密PyCryptodome库](https://mp.weixin.qq.com/s/PJA4cHi1m5LFeL02edLiKA)

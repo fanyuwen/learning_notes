@@ -149,6 +149,8 @@
 + [来了解下Java的泛型与类型擦除](https://mp.weixin.qq.com/s/dzFMCITHQ4pToKyRkXcQ_A)
 + [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
 + [面试官：说说什么是泛型的类型擦除？](https://mp.weixin.qq.com/s/ysadhX8xX2CLGCdZ91RLxA)
++ [123. Java 泛型 - 泛型方法](https://mp.weixin.qq.com/s/y5_r7i_C6qHWH53aGL-n6g)
++ [125. Java 泛型 - 泛型方法与有界类型参数](https://mp.weixin.qq.com/s/vt7fZweFpUiK174Bs4LE3w)
 + [129. Java 泛型 - 泛型类的类型推断和实例化](https://mp.weixin.qq.com/s/JD58albNYsUZVNP7kaQ0nA)
 + [130. Java 泛型 - 泛型构造函数](https://mp.weixin.qq.com/s/aGWDEIhf93xjLoid37eTJg)
 
@@ -780,6 +782,7 @@
 + [一文搞懂线程、协程、虚拟线程的区别](https://mp.weixin.qq.com/s/iAfxrvL-cUxVJG6R3F1JgA)
 + [如何优雅地中断Java线程](https://mp.weixin.qq.com/s/GWP9qf5W_O1HJ7UMIzwJvQ)
 + [Java 多线程编程核心代码示例：12 个场景带你玩转并发](https://mp.weixin.qq.com/s/VHO3h1bXoBw2XXNfHUUPHg)
++ [Java线程-控制并发流程](https://mp.weixin.qq.com/s/Lc2WnW6QQELsy3fdlS3dQg)
 
 #### CAS
 
@@ -838,6 +841,7 @@
 + [一文揭秘：Java线程池如何用有限的线程扛住海量任务？核心在于复用设计！](https://mp.weixin.qq.com/s/wwil4BpGUWlvkm5YazItLA)
 + [从“卷王”线程池ForkJoinPool，看大任务的高效并行之道](https://mp.weixin.qq.com/s/hn1BelWkLPakkRttk8IlXQ)
 + [JAVA：线程池参数优化的技术指南](https://mp.weixin.qq.com/s/ZLpezo0UcX-oJ5FRLBAfAg)
++ [Java线程池](https://mp.weixin.qq.com/s/E_qrCMzU-6zB0j9zdYnnmw)
 
 #### 锁
 
@@ -1067,6 +1071,7 @@
 + [案例分析：java莫名发生Direct buffer OutOfMemoryError](https://mp.weixin.qq.com/s/FL2nl0O23QLzYYMVMUi2LQ)
 + [浅入浅出-JMM的细节](https://mp.weixin.qq.com/s/DQH9M0-YMqPGRa-FUWOW0A)
 + [Java并发编程-Java内存模型JMM讲解](https://mp.weixin.qq.com/s/3CzOUrFolmIxqKnoKuM7WA)
++ [Java内存模型-JMM](https://mp.weixin.qq.com/s/wP3yqIYhSgzdqkTpbKPlPw)
 
 ### 类加载
 
@@ -1867,6 +1872,8 @@
 + [MyBatis动态语法标签速查](https://mp.weixin.qq.com/s/huMQdoZGx5p9LhtZLvqAVQ)
 + [MyBatis动态SQL中的"引号陷阱"：一个让排序失效的隐蔽Bug](https://mp.weixin.qq.com/s/xjg57MLbTmfGpv-ytqt2JQ)
 + [告别复杂SQL！MyBatis一对多/多对一/多对多映射，Spring Boot示例手把手教学](https://mp.weixin.qq.com/s/dRznJDjeDRNr700pPwzFvA)
++ [搞懂MyBatis拦截器的工作原理](https://mp.weixin.qq.com/s/FzEAN6FlLUaGWQK164IwqQ)
++ [MyBatis 从基础到高级：25 个实用配置 + SQL 映射案例](https://mp.weixin.qq.com/s/ePQulagMcomB9HEGETVW9g)
 
 ### plus
 
@@ -1925,6 +1932,7 @@
 ## netty
 
 + [Netty实战入门教程](https://mp.weixin.qq.com/s/l1yJ40Ed3P2Ydzty2e6r2g)
++ [Netty 超详细解答十问十答](https://mp.weixin.qq.com/s/peAdRuFDFNsGf4XDDCEU0w)
 + [掌握这波 Netty 操作，实时通信开发轻松拿捏！](https://mp.weixin.qq.com/s/mZyPO-o8vk7lt0vf3Nre1Q)
 + [Netty线程模型](https://mp.weixin.qq.com/s/ryXdwGwfdIN-QT1osnZuBQ)
 + [Netty职责链Pipeline详解](https://mp.weixin.qq.com/s/KJ3Xv8LbhW11d0B4IT4IGQ)
@@ -2847,6 +2855,7 @@
 + [SpringBoot应用开机自启动与进程守护配置](https://mp.weixin.qq.com/s/xnbld1BkM3QTAAWqkwUf1A)
 + [SpringBoot启动从12s到1.3s的性能杀戮，百万级容器启动优化实战](https://mp.weixin.qq.com/s/EQxHwG7Mnj5IVKRlZGL8HQ)
 + [杜绝重复启动！Spring Boot 单实例运行4种方案](https://mp.weixin.qq.com/s/NQn4YwbVRXlR1TjqT3UNJw)
++ [9种手段！优化 Spring Boot 启动速度，最后一种毫秒级](https://mp.weixin.qq.com/s/PWELb4n8kstTulWnlaEVlA)
 
 #### 版本特性
 
@@ -3876,6 +3885,7 @@
 + [Spring（十八）Spring Boot 测试指南：单元、集成与契约测试全解析](https://mp.weixin.qq.com/s/iFpQU7kXS9SnKMSekVOM0g)
 + [一种极简单的 SpringBoot 单元测试方法](https://my.oschina.net/u/4090830/blog/17877410)
 + [非常赞！一文彻底精通 Spring Boot 单元测试](https://mp.weixin.qq.com/s/mhKtgI1_SpW770fG6lb74w)
++ [别再手动测接口了！SpringBoot+JUnit单元测试自动化指南](https://mp.weixin.qq.com/s/6DaNXfZEPghtTAmAHOFupg)
 
 #### 自定义实现
 
@@ -4135,9 +4145,12 @@
 + [Java后端人满如患，C++却招不到人](https://mp.weixin.qq.com/s/TkXTzMbzj0lNlFgAt7oUqQ)
 + [Spring 之父：我不是 Java 的“黑粉”，但我也不想再碰它！这门语言拯救了我......](https://mp.weixin.qq.com/s/dnKDa2uMxxHwYPZ7f2uQVQ)
 + [Java 安全 | Clojure 链](https://mp.weixin.qq.com/s/SJIpEOny3FHbSkTq-ydgvw)
++ [每天一道八股文: Java是值传递还是引用传递？](https://mp.weixin.qq.com/s/8YiuepZyvT5opKTKDnocLg)
 + [为什么高级 Java 开发工程师喜爱用策略模式](https://mp.weixin.qq.com/s/KgQ9qfLbqHnK8XNMK_c1Yg)
++ [JAVA：微服务服务之间如何独立通信的技术解析](https://mp.weixin.qq.com/s/YXODFCGuA4HSyhc0WhExww)
 + [12岁编程起步，Python和Java哪个助力更大？](https://mp.weixin.qq.com/s/TlDDoTgh6yOGn8v7MhrCLw)
 + [学 Java 还是 Go，这事儿很简单！](https://mp.weixin.qq.com/s/14wMaDtOWKkZ_T5cQFSmEA)
++ [Java锁这样用，从单机到分布式一步到位](https://mp.weixin.qq.com/s/XhtPrPUM1cfbNOU-nRcvDw)
 + [苹果用Swift重写每天数十亿次请求的Java服务——后端性能提升40%、内存降低90%、代码行数减少85%](https://mp.weixin.qq.com/s/EOUGwUGZfDIK3h-zJd4lAw)
 + [用 Java 构建个简版 Either + Optional DSL 框架：让错误处理优雅而函数式](https://mp.weixin.qq.com/s/CqjghYmlK1KdHPm57YSang)
 + [Java三十周年，Gosling深度访谈：修补C++造就Java、泛型备受诟病，劝程序员职场遇不道德要求应直接走人](https://mp.weixin.qq.com/s/ZDrtIHxxuIaU-iFxeQ34jw)

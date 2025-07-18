@@ -135,6 +135,7 @@
 + [Kafka生产者如何避免消息重复？深入解析幂等性与事务机制](https://mp.weixin.qq.com/s/DBGmPUG1BLhbfucOkHK2aA)
 + [Kafka底层原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/spqLIl5wx9VMEXVNdkYI4A)
 + [高并发场景下，Kafka如何抗住亿级流量？](https://mp.weixin.qq.com/s/8W1W2ukj4ULaLHRTPSbsGA)
++ [Kafka 基础概念全解析：从消息队列到核心组件](https://mp.weixin.qq.com/s/MxpARNIMy0qgT1WVQcsdmQ)
 
 # ROCKETMQ
 

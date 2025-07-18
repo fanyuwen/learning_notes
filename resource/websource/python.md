@@ -86,6 +86,7 @@
 + [Python零基础从入门到精通详细教程5-数据类型的转换- 中篇](https://mp.weixin.qq.com/s/WvzTGlx8j9ziVjZdb9rzSA)
 + [Python for 循环时判断第一个和最后一个元素](https://mp.weixin.qq.com/s/zhQPVhe3zP2lhWo4Ui-sCw)
 + [Day 05 - 循环控制语句详解](https://mp.weixin.qq.com/s/cpfD2FNcTEcNJth0LfVrBQ)
++ [苦练Python第4天：Python变量与数据类型入门](https://mp.weixin.qq.com/s/6UGDSf1iHlZzICMuyDojwQ)
 
 ### 函数/方法
 
@@ -626,6 +627,7 @@
 + [Python打包教程03：PyInstaller命令使用指南](https://mp.weixin.qq.com/s/Pw1IaJcmuc4QCIlW5EshCw)
 + [Python编程的5个冷门但超实用的技巧，学会后同事都来请教你！](https://mp.weixin.qq.com/s/Pzid0qfmIu920pUkudtrIw)
 + [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
++ [Python编写程序的5个经典技巧操作](https://mp.weixin.qq.com/s/2BQG453gWfngqX0_0_ejxw)
 
 ## 新特性
 

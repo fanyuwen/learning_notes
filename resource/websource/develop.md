@@ -893,6 +893,7 @@
 + [全网最实用的Git学习工具](https://mp.weixin.qq.com/s/0E1bDyCe4Sm-UDbkfS0JHA)
 + [技术分享：git之提交规范+分支策略+流程管控实践](https://mp.weixin.qq.com/s/8FexAo-9OUwV_2pe3VujJw)
 + [Git基础概念与常用命令详解](https://mp.weixin.qq.com/s/klwlUxsivowi2etE7thrLg)
++ [Git命令这样用，代码管理轻松搞定](https://mp.weixin.qq.com/s/wn3dOTC547arIeF8F-Nfmw)
 
 ### 编程范式
 

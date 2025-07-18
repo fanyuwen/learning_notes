@@ -114,6 +114,9 @@
 + [深度系列之C++语言：第34章 STL容器](https://mp.weixin.qq.com/s/6rDWHIVp9aP121KsedGgEA)
 + [C++语言陷阱②：内存泄漏与资源管理那些事](https://mp.weixin.qq.com/s/tbRuGo3kCFdAZVxhS_69jw)
 + [从LRUCache到C++：解锁缓存世界的神秘代码](https://mp.weixin.qq.com/s/YYXRu6KKIM9CdQZSNE4Lbg)
++ [一文搞懂C++ 迭代器接口怎么写？](https://mp.weixin.qq.com/s/XvWiq3J4VV6i3HBiM5mhkA)
++ [C++语言陷阱⑥：Lambda 表达式与闭包捕获机制误区](https://mp.weixin.qq.com/s/UbgFN8_urB1brPikPQVqEw)
++ [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
 
 #### 数据结构&算法
 
@@ -191,7 +194,7 @@
 + [C++多线程网络编程：助力高并发服务器性能提升](https://mp.weixin.qq.com/s/C8rNsmBreIQwRh0ZAq6kjw)
 
 
-+ [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
+
 + [跟我学c++中级篇——理解类型推导和c++不同版本的支持](https://mp.weixin.qq.com/s/kBRSYBKdorfGXf_0DuFaGw)
 + [超详细的C++高性能内存池的设计与实现](https://mp.weixin.qq.com/s/U_sElksJzNcdDrUVm37nbg)
 + [C++内存管理魔盒：20分钟逆向拆解new/delete终极性能法则](https://mp.weixin.qq.com/s/31V2fsNqqbpZkBd6mVzBuA)
@@ -514,6 +517,7 @@
 + [嵌入式软件设计的微观缩影 亲历BMC软件架构演进](https://mp.weixin.qq.com/s/FWhkB0FLwyD8g9PxmW565Q)
 + [嵌入式面试指南：你必须了解的硬件知识](https://mp.weixin.qq.com/s/ORNUP0ffqhVDHF_4_3EEhA)
 + [嵌入式面试指南：你必须了解的汇编知识](https://mp.weixin.qq.com/s/R8y8alH0BXVa_nItPiQfvw)
++ [嵌入式面试指南：你必须掌握的编译与内存分布知识](https://mp.weixin.qq.com/s/Xhole1B9f7ZLaZi1VWAbKw)
 
 # ARM
 

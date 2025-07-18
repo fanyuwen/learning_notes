@@ -86,6 +86,7 @@
 + [算法-一维动态规划](https://mp.weixin.qq.com/s/DV2gl7epsw9oiqR2g46C3g)
 + [数据结构学习篇 三](https://mp.weixin.qq.com/s/ynZ0caG5n0ypgSdDQyccKg)
 + [数据结构学习篇 四](https://mp.weixin.qq.com/s/gYg7vgpzQLU8S9pbkVbrGQ)
++ [数据结构学习篇 五](https://mp.weixin.qq.com/s/3E12aggzdExTSfXQP66lHw)
 
 ## Graph
 

@@ -103,6 +103,7 @@
 + [面试官：不会看 Explain执行计划，简历敢写 SQL 优化？](https://mp.weixin.qq.com/s/WsnA7MbXItkeafWqwT5wzA)
 + [滴滴面试：JOIN顺序优化，什么是 ‘小表驱动大表’ 原则？ 小伙 蒙圈了 。。。](https://mp.weixin.qq.com/s/BV4BSqnxVs8bDZ9NZ75L3A)
 + [一文带你吃透大厂高频面试题：行转列＆列转行问题](https://mp.weixin.qq.com/s/dy0E1-AZ-vYFjXaRUmKtIA)
++ [小伙在公司用了个 insert into select 居然被开除了](https://mp.weixin.qq.com/s/asHX8CbxWWpVmRyPJur55A)
 
 # 本地数据库
 
@@ -477,6 +478,7 @@
 + [数据库MVCC机制](https://mp.weixin.qq.com/s/vF-0sdwoTq4k9FRglhz4_g)
 + [面试中你有遇到：MVCC机制的问题？](https://mp.weixin.qq.com/s/axtF7pHYNTF_X8qp77LjVw)
 + [MySQL MVCC快照机制的简易模型](https://mp.weixin.qq.com/s/O-K5hhRiovT6vXnVjoeINQ)
++ [mysql5.7系列-InnoDB的MVCC实现原理](https://mp.weixin.qq.com/s/bTSepZpfhVEKqcsQgJZxPw)
 
 #### 锁
 
@@ -880,6 +882,7 @@
 + [Redis哨兵模式介绍和实战](https://mp.weixin.qq.com/s/3cCjUa0ocuqgC5iBw_WFrg)
 + [十六、Redis优化——影响Redis性能的因素](https://mp.weixin.qq.com/s/GjXp6UQ1APySVReXbRRMSQ)
 + [Redis四大基础功能详解：让你的缓存飞起来](https://mp.weixin.qq.com/s/VdelxONRRZ4ieLWdpNi06Q)
++ [不靠Redis也能抗住高并发？一文看懂秒杀核心](https://mp.weixin.qq.com/s/GQyQ9rQ_l-luVPkDFy0ZIg)
 
 #### 原理
 
@@ -920,6 +923,7 @@
 + [Redis中hash数据类型的实现原理](https://mp.weixin.qq.com/s/JgfWTQ7vtBKZ7fdDBtKKvg)
 + [阿里面试：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/5EQ3bxl7Atg_6ac7JpnyqA)
 + [Redis核心机制解析：从事件循环到底层数据结构](https://mp.weixin.qq.com/s/kMuXdnr6FDK1pZfldONMDw)
++ [Redis五大核心数据结构详解：从入门到实战](https://mp.weixin.qq.com/s/airzkFtZoKaaQ51ivkm_3w)
 
 #### 分布式锁
 

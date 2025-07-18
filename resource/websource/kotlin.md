@@ -1,5 +1,6 @@
 # 相关文章
 
++ [Kotlin 中如何优雅地退出循环：实用技巧大揭秘](https://mp.weixin.qq.com/s/SLiTFDaIP5RmLXxZA1o1Aw)
 + [函数式编程：尾调优化](https://mp.weixin.qq.com/s/Tq-1DfgD6Xd3PdBmlgrCNg)
 + [AI 友好型编程语言：Kotlin 的故事 | 官方博客](https://mp.weixin.qq.com/s/-kUicmwmgE9XZWF45MG0dQ)
 + [白话kotlin协程](https://mp.weixin.qq.com/s/gWnPR67z-hITHqkGu9h0xA)

@@ -150,6 +150,7 @@
 + [Python中函数的使用方法](https://mp.weixin.qq.com/s/2sG5-YgxRISGK9uxWzDjMQ)
 + [Python 函数与作用域关键字详解](https://mp.weixin.qq.com/s/8NgJ17qryLFOz1QRHiEQfQ)
 + [Python编程精进：`__init__` 并非构造函数](https://mp.weixin.qq.com/s/ZtnrqEzs4SbxkuxgKQNXeA)
++ [苦练Python第17天：你必须掌握的Python内置函数](https://mp.weixin.qq.com/s/OyKJmOwrOQfOWoFp0lAxUQ)
 
 ### 面向对象
 
@@ -628,6 +629,8 @@
 + [Python编程的5个冷门但超实用的技巧，学会后同事都来请教你！](https://mp.weixin.qq.com/s/Pzid0qfmIu920pUkudtrIw)
 + [90% Python 开发者不知道的 set 用法！提升效率必备！](https://mp.weixin.qq.com/s/yk6UQt5Uyf_zAjJF_tT7lQ)
 + [Python编写程序的5个经典技巧操作](https://mp.weixin.qq.com/s/2BQG453gWfngqX0_0_ejxw)
++ [python 进阶知识](https://mp.weixin.qq.com/s/-0WUuEpRHIB0VGkX-PEz6w)
++ [30天学会Python编程：19.Python os模块编程实践](https://mp.weixin.qq.com/s/8Vv9BVvq1wbWdDFr-iIvUA)
 
 ## 新特性
 

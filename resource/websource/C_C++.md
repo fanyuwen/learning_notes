@@ -117,6 +117,9 @@
 + [一文搞懂C++ 迭代器接口怎么写？](https://mp.weixin.qq.com/s/XvWiq3J4VV6i3HBiM5mhkA)
 + [C++语言陷阱⑥：Lambda 表达式与闭包捕获机制误区](https://mp.weixin.qq.com/s/UbgFN8_urB1brPikPQVqEw)
 + [跟我学c++高级篇——模板元编程之十三处理逻辑](https://mp.weixin.qq.com/s/91u8ogGBMCfBB4rhffgFBg)
++ [C++语言陷阱㉑：静态变量初始化顺序问题（Static Initialization Order Fiasco）](https://mp.weixin.qq.com/s/DlaHOQq9EEn4A0MwH6vn8Q)
++ [C++语言陷阱⑪：const 修饰符的陷阱与深层语义](https://mp.weixin.qq.com/s/VpcoK_T-oYRvqghJf8tXUw)
++ [C++语言陷阱㉓：默认参数、重载与歧义解析问题](https://mp.weixin.qq.com/s/w74ffXkoFKFsgspA3-09kg)
 
 #### 数据结构&算法
 
@@ -178,6 +181,7 @@
 + [C++ 虚函数表](https://mp.weixin.qq.com/s/OGhBuDa3N3cyWpPJMkSaEA)
 + [C++思考30:浅析虚析构函数](https://mp.weixin.qq.com/s/CRbIssdLDaXqHugXLzWSRg)
 + [C++ 进阶：深入理解虚函数、继承与多态](https://mp.weixin.qq.com/s/9NPOrykrLNiZTScUeUSETg)
++ [C++第12课：类的继承](https://mp.weixin.qq.com/s/z-zDNTfTRStFZqdH6c74Xw)
 
 #### 并发
 
@@ -370,6 +374,7 @@
 + [嵌入式开发必看：C结构体填充与初始化的正确姿势](https://mp.weixin.qq.com/s/mY_xSbImU9o9aZcIiy68jw)
 + [一文讲透C语言内存管理，从入门到实战进阶。](https://mp.weixin.qq.com/s/u0Obhganh3PGBEhhCcmE3A)
 + [我的C语言之路：13-枚举](https://mp.weixin.qq.com/s/roMYgClcWRkLWGPpV1r-zQ)
++ [我的C语言之路：7-表达式和运算符](https://mp.weixin.qq.com/s/1U0YxNxL90RZU-ApbhjF_Q)
 + [C语言中include的冷知识——聊聊大家熟悉又陌生的include](https://mp.weixin.qq.com/s/4e8_0SK4mrInJq1dEy4lFQ)
 + [为什么C语言不淘汰 strcpy？从三个函数看程序员的 “自由与风险”](https://mp.weixin.qq.com/s/LmfVtbfrpgke-T8k6fLHOA)
 + [C语言：一文说清什么是指针和数组！！！](https://mp.weixin.qq.com/s/qSe46WQlbbJkLrgJCRvptg)

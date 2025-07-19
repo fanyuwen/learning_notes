@@ -444,6 +444,7 @@
 + [网络通信必知-TCP和UDP共用同端口？](https://mp.weixin.qq.com/s/rzhPMx4aJ_oU-kxQ7C4zQw)
 + [高并发场景下，TCP/UDP丢包的隐藏陷阱](https://mp.weixin.qq.com/s/5An3f8PJuGv1q9uvmYQyIQ)
 + [URL地址末尾加不加 "/" 有什么区别](https://mp.weixin.qq.com/s/dlpKnfupjiZ3Bg_pvrROgQ)
++ [路由器工作原理](https://mp.weixin.qq.com/s/AjOBTPlVZmdxX2Un25Rfqg)
 
 ### DNS
 
@@ -487,6 +488,7 @@
 + [为什么要使用HTTP协议？](https://mp.weixin.qq.com/s/7C-PBgZe3GAqnyRb_tjdJQ)
 + [IP地址之子网掩码](https://mp.weixin.qq.com/s/YqS6U5gGuRk3feYRC3EbnQ)
 + [用了这么久HTTP，这些状态码的妙用你都知道吗](https://mp.weixin.qq.com/s/jf5b-eBtwsXFvoZmKpmDvg)
++ [HTTP 协议的优缺点](https://mp.weixin.qq.com/s/1oHMgCExGmp-owLi40RpiA)
 
 #### CORS
 
@@ -532,6 +534,7 @@
 + [为什么 Nginx 和 HTTP 中都有 keep-alive ，一文带你了解 TCP 连接复用](https://mp.weixin.qq.com/s/tBuVf4LSU8WEVbs9AUk7xA)
 + [网络通信必知-TCP三次握手](https://mp.weixin.qq.com/s/-RCgdcR35OQ7cGQychXVuA)
 + [TCP三次握手网络实验操作手册](https://mp.weixin.qq.com/s/ejhZD5Qg8A4kwW4IiK5i4g)
++ [从丢包到恢复：TCP重传机制的底层逻辑全解](https://mp.weixin.qq.com/s/elT2NgCj1IjIxJmQFozylg)
 
 ### UDP
 

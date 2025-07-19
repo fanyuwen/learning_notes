@@ -149,6 +149,7 @@
 + [来了解下Java的泛型与类型擦除](https://mp.weixin.qq.com/s/dzFMCITHQ4pToKyRkXcQ_A)
 + [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
 + [面试官：说说什么是泛型的类型擦除？](https://mp.weixin.qq.com/s/ysadhX8xX2CLGCdZ91RLxA)
++ [121. Java 泛型 - 泛型类型](https://mp.weixin.qq.com/s/IqGhEGW60dIel-i6iL3FAg)
 + [123. Java 泛型 - 泛型方法](https://mp.weixin.qq.com/s/y5_r7i_C6qHWH53aGL-n6g)
 + [125. Java 泛型 - 泛型方法与有界类型参数](https://mp.weixin.qq.com/s/vt7fZweFpUiK174Bs4LE3w)
 + [127. Java 泛型 - 泛型类与子类型](https://mp.weixin.qq.com/s/4TJxUkpQPp5ZkBXxA_rRZw)
@@ -176,6 +177,7 @@
 + [接口和抽象类有什么共同点和区别？](https://mp.weixin.qq.com/s/63r7NQWUWEpkiiyQ5FA2dA)
 + [108. Java 继承 - 隐藏字段与 super 关键字](https://mp.weixin.qq.com/s/QBdXY-9YlJtGoZ6XCn5S8A)
 + [Java三大特性——封装、继承、多态代码实战演示](https://mp.weixin.qq.com/s/dksYtFXes1q7Zz255OjZZw)
++ [107. Java 继承 - 总结：方法重写与隐藏](https://mp.weixin.qq.com/s/drQdJdl9giQdapeJTP6LMw)
 + [110. Java 继承 - 编写 `final` 类和方法](https://mp.weixin.qq.com/s/qX4cxjSw4fX4Kw8E-KMyVg)
 + [113. Java 接口](https://mp.weixin.qq.com/s/MHFglsJn5TLRqYefRpIJng)
 + [115. Java 接口 - 拓展接口](https://mp.weixin.qq.com/s/DsquGNDJQzgzYFyupgr9gQ)
@@ -935,6 +937,7 @@
 + [加锁失效，非锁之过，加之错也](https://my.oschina.net/u/4090830/blog/18638221)
 + [浅入浅出Synchronized 与锁升级过程](https://mp.weixin.qq.com/s/ousgdpYeK7_PvZKTaZoNZA)
 + [Java-锁](https://mp.weixin.qq.com/s/RAXTSJBX1C-peCE-HH_axQ)
++ [JAVA锁机制：对象锁与类锁](https://mp.weixin.qq.com/s/IEkOR4sUdKN9u0okv5CR3Q)
 
 #### volatile
 
@@ -1090,6 +1093,8 @@
 + [Java并发编程-Java内存模型JMM讲解](https://mp.weixin.qq.com/s/3CzOUrFolmIxqKnoKuM7WA)
 + [Java内存模型-JMM](https://mp.weixin.qq.com/s/wP3yqIYhSgzdqkTpbKPlPw)
 + [工作中常见的OOM？你了解JVM调优吗？](https://mp.weixin.qq.com/s/xNEcZ43NL3N2FRQ82jHJLg)
++ [Java中的对象一定在堆上分配内存吗？](https://mp.weixin.qq.com/s/ZyeHxtqkGSr2G0qqWGWnyA)
++ [如何解决 Java 中的内存溢出（OutOfMemoryError）问题](https://mp.weixin.qq.com/s/vP5j72gnn5bqzRuDKNixDg)
 
 ### 类加载
 
@@ -1158,6 +1163,7 @@
 + [JVM年轻代为什么设计2个Survivor区](https://mp.weixin.qq.com/s/yd92irmSEIcD8WZiTc9ZsQ)
 + [JVM的通关指南（四）五分钟了解JVM的垃圾收集器](https://mp.weixin.qq.com/s/HMMIN2zbrJd3fmBWKaw3hQ)
 + [JVM 调优用了 CMS 就惨遭资本优化？改为 G1 吞吐量飙升 174%！](https://mp.weixin.qq.com/s/hK1AAGM_jGuhvyPrt7mB3g)
++ [垃圾收集算法--逃逸分析、标量替换、栈上分配](https://mp.weixin.qq.com/s/gE27EHznuuNE6nQWRxylng)
 
 # 核心库
 
@@ -1812,6 +1818,7 @@
 + [Lombok 中的 @Slf4j 注解--简化日志代码的利器](https://mp.weixin.qq.com/s/GOZD0ASrasNTqdY-MZcKqg)
 + [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
 + [盘点Lombok的几个骚操作](https://mp.weixin.qq.com/s/K6dx7kPGv4u8BEbD0ykbAA)
++ [告别冗余代码！Lombok注解如何让Java开发效率飙升300%？](https://mp.weixin.qq.com/s/5ozzuMtrvKNvvvd0HcM6_g)
 
 ## mapStruct
 
@@ -1898,6 +1905,7 @@
 + [告别复杂SQL！MyBatis一对多/多对一/多对多映射，Spring Boot示例手把手教学](https://mp.weixin.qq.com/s/dRznJDjeDRNr700pPwzFvA)
 + [搞懂MyBatis拦截器的工作原理](https://mp.weixin.qq.com/s/FzEAN6FlLUaGWQK164IwqQ)
 + [MyBatis 从基础到高级：25 个实用配置 + SQL 映射案例](https://mp.weixin.qq.com/s/ePQulagMcomB9HEGETVW9g)
++ [告别重复SQL，MyBatis这样用效率翻倍](https://mp.weixin.qq.com/s/UqKu3A0YLv56mA0fsxWLiQ)
 
 ### plus
 
@@ -2440,6 +2448,7 @@
 + [Java真的不难（八十五）Spring基于XML的声明式事务管理](https://mp.weixin.qq.com/s/k-sTjTxcIzDEBCdqCa9yMA)
 + [告别Spring事务Bug！详解传播行为与隔离级别的组合陷阱与最佳实践](https://mp.weixin.qq.com/s/gaugRnCxRiCNwbyXpfklGw)
 + [Spring事务失效：原因分析与最佳实践](https://mp.weixin.qq.com/s/wdkzAs8f7O4rvXIYRP68LQ)
++ [带你了解一下Spring中的编程式事务](https://mp.weixin.qq.com/s/8xaSLjZ2Kxke5b8DEDOchA)
 
 ### Log
 
@@ -4152,6 +4161,7 @@
 + [使用ApachePOI导出Excel文件](https://mp.weixin.qq.com/s/svQrtuqKz0oUZwKur0Dq2A)
 + [使用EasyExcel导出大数据文件](https://mp.weixin.qq.com/s/wGIkGUJQADhBIq1sH-_N4w)
 + [自从用了CheckStyle插件，代码写的越来越规范了....](https://mp.weixin.qq.com/s/7qQfNkxuMur7Rby0l7uvhA)
++ [动态SQL解析难题：如何用Java代码“透视”复杂SQL的表、字段与条件？](https://mp.weixin.qq.com/s/1dv9R5ZTK85lEvXpRloQNg)
 
 # 其它环境
 

@@ -171,6 +171,7 @@
 + [Go Modules 使用技巧合集](https://mp.weixin.qq.com/s/mjAZ1gmwYVBalV4WXaEgYQ)
 + [Go 语言开发技巧合辑，全网整理最全的一篇](https://mp.weixin.qq.com/s/rv-TFF1Hf2TGcybPQp4z1Q)
 + [Go语言空结构体：零内存消耗的高效编程](https://mp.weixin.qq.com/s/6lNnsenT1mMuxo3xtWXQIw)
++ [轻松掌握 Go 语言并发模型](https://mp.weixin.qq.com/s/2GrgVvsG8-hmLBO7K-JRMQ)
 
 # 面试题
 

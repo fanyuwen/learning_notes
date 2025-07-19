@@ -439,6 +439,7 @@
 + [史上最全 MySQL 锁详解：从理论到实战，一篇搞定所有锁机制](https://mp.weixin.qq.com/s/MhzRamB1nzJe9xA7HO-Wfg)
 + [拒绝慢查询！MySQL深度分页性能分析](https://mp.weixin.qq.com/s/IVXsP7H5bHYB3_AcraaKwg)
 + [MySQL：SQL 慢查询优化的技术指南](https://mp.weixin.qq.com/s/J4TR9IAz63MrdD3aYRpAcQ)
++ [面试官：MySQL explain你会关注哪些字段](https://mp.weixin.qq.com/s/-rW1MNLKNvsZp1Llrn_jsg)
 
 #### 存储引擎
 

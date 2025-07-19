@@ -168,6 +168,7 @@
 + [学习编程的方法与工具](https://mp.weixin.qq.com/s/t8-3YRTssNRo-KEt4rdQVQ)
 + [学编程到底在学什么？](https://mp.weixin.qq.com/s/FxCAt9iPaU7hRrUCm8V-_A)
 + [进化成更好的人](https://mp.weixin.qq.com/s/Fpz16tjtnyn5U-7hXhlRbg)
++ [独立开发出海，需要点哪些技能树](https://mp.weixin.qq.com/s/wpRVWpSyZD6gzoWGYGLc4A)
 
 ## 视频
 
@@ -316,6 +317,7 @@
 + [高手们都在用的IntelliJ IDEA小技巧](https://mp.weixin.qq.com/s/rZWBBOaNXhJ2u7ql6261lg)
 + [IntelliJ IDEA Debug 功能你真的会用吗？干货总结](https://mp.weixin.qq.com/s/Nfu8AnBNgiZvHUJlJkgSDA)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/JEIXLVdToY5p3O532IizJw)
++ [2025.3 起，IntelliJ IDEA 将统一发行，Community/Ultimate Edition 从此合二为一！](https://mp.weixin.qq.com/s/XqEHyh2qKclI5X6VsueDEA)
 
 ## MAC_PRO相关
 

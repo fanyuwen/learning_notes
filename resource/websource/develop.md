@@ -894,6 +894,7 @@
 + [技术分享：git之提交规范+分支策略+流程管控实践](https://mp.weixin.qq.com/s/8FexAo-9OUwV_2pe3VujJw)
 + [Git基础概念与常用命令详解](https://mp.weixin.qq.com/s/klwlUxsivowi2etE7thrLg)
 + [Git命令这样用，代码管理轻松搞定](https://mp.weixin.qq.com/s/wn3dOTC547arIeF8F-Nfmw)
++ [Git远程仓库与协作技巧详解](https://mp.weixin.qq.com/s/nTjT8MBi15xX8Fe1EYn1JA)
 
 ### 编程范式
 

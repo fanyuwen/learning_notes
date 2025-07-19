@@ -167,6 +167,8 @@
 + [一线实战80万年薪总结整理，必会27个C++新特性(11/14/17/20)](https://mp.weixin.qq.com/s/cRQRfQ0VabW38shcMhrvgA)
 + [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
 + [C++的核心痛点以及Rust的解决之道](https://mp.weixin.qq.com/s/V6ubtpU2nhhNqTdOfgMpdw)
++ [C++语言陷阱①：那些年你踩过的“未定义行为”](https://mp.weixin.qq.com/s/YBslnw-dIXv27Zu2mBEhxg)
++ [C++语言陷阱㉒：constexpr、inline 与链接错误陷阱](https://mp.weixin.qq.com/s/7rRd3VjRSEoS44LDktjS1Q)
 
 #### 指针
 
@@ -235,6 +237,7 @@
 + [百万C++开发者进阶：掌握C++17这15个特性，项目性能实现跃迁！](https://mp.weixin.qq.com/s/zVNEA6w6St6q_HtOcyI51A)
 + [快速入门C++17：写出更简洁高效的代码](https://mp.weixin.qq.com/s/v8OeLsthJq454N5eFWHfBw)
 + [C++17中有个 [[fallthrough]] 你使用了吗？](https://mp.weixin.qq.com/s/DyVw3ju1DHcRGlS5d9Mp6g)
++ [作为现代异步编程的基石，C++20 协程成熟了吗？](https://mp.weixin.qq.com/s/IHMhDoomP9djmMPXfQd-sg)
 + [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
 + [c++26新功能—饱和算术](https://mp.weixin.qq.com/s/expSPWzKBLJG2A-V7vOwNw)
 + [c++26新功能—契约编程](https://mp.weixin.qq.com/s/yaQbqhxJmhehpsF1Nx-qbg)

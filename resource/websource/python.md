@@ -151,6 +151,7 @@
 + [Python 函数与作用域关键字详解](https://mp.weixin.qq.com/s/8NgJ17qryLFOz1QRHiEQfQ)
 + [Python编程精进：`__init__` 并非构造函数](https://mp.weixin.qq.com/s/ZtnrqEzs4SbxkuxgKQNXeA)
 + [苦练Python第17天：你必须掌握的Python内置函数](https://mp.weixin.qq.com/s/OyKJmOwrOQfOWoFp0lAxUQ)
++ [Python 函数](https://mp.weixin.qq.com/s/roz-ipogllMIYI2AmM_eVw)
 
 ### 面向对象
 
@@ -188,6 +189,7 @@
 + [写给前端的 Python 教程九 - 类](https://mp.weixin.qq.com/s/6JCG-9CzmR_7EhUty796UQ)
 + [Python编程精进：多分派](https://mp.weixin.qq.com/s/EfQUIvxagv0eTQEE5eGRdQ)
 + [Python面向对象编程：从理论到实践](https://mp.weixin.qq.com/s/frggFrSbl9JqhnDRVk-Asw)
++ [Python「类 class」的入门理解](https://mp.weixin.qq.com/s/116Ad9UM4a-aKHYvcyR_pQ)
 
 ### 核心库/模块
 
@@ -272,6 +274,7 @@
 + [Python JSON 模块函数详解](https://mp.weixin.qq.com/s/2EsBkgxW85VjbNoS0q5DxQ)
 + [Python 路径与模块导入详解](https://mp.weixin.qq.com/s/-j41d2R-nFqlEy0w3GqvxA)
 + [写给前端的 Python 教程十 - 模块和包](https://mp.weixin.qq.com/s/jeqmPXcXk_5BxC3bAoC9Lg)
++ [30天学会Python编程：17.Python标准库高级模块使用介绍](https://mp.weixin.qq.com/s/ILmHEAceuVMi0XQCMo3D7g)
 
 ### 异步/多线程
 
@@ -295,6 +298,7 @@
 + [Python | 进程、线程是什么？它们有何区别，如何运用，进程与线程介绍](https://mp.weixin.qq.com/s/vNnzNkEWEy63C-5JG56C3w)
 + [Python编程精进：Asyncio与线程如何选择？](https://mp.weixin.qq.com/s/_6MGsB2OPUKfHFExYeNwAg)
 + [Python: 从async/await理解协程的高效世界](https://mp.weixin.qq.com/s/PlQFlf_pwISAm3ZlDOB18A)
++ [Python 多线程编程指南](https://mp.weixin.qq.com/s/_ouJDgUSkmuLNcWJWC_wCQ)
 
 ## 实践
 

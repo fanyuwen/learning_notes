@@ -689,6 +689,7 @@
 + [UTF-8 vs UTF-16](https://mp.weixin.qq.com/s/kEoMc5WD87UBF68FoUEXWQ)
 + [计算机字符编码进化史](https://mp.weixin.qq.com/s/ImaTGMevbhZaWdkztNCB7Q)
 + [码农基本功 - 字符集和编码](https://mp.weixin.qq.com/s/dQbmkmx7OsJzWzEKkP5SPw)
++ [字符编码理论基础](https://mp.weixin.qq.com/s/1h5hqBcF9zSbUUnUbzwJQQ)
 
 ## 实践
 

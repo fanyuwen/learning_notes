@@ -9,4 +9,4 @@
 + > 继承自`ThreadPoolExecutor`新增了`continueExistingPeriodicTasksAfterShutdown`、`executeExistingDelayedTasksAfterShutdown`和`removeOnCancel`
   > + `continueExistingPeriodicTasksAfterShutdown`:默认值`false`,当线程池关闭(`shutdown()`)的时候,是否继续保留留在队列里的周期性任务,所以默认是不保留,会从等待队列里删除掉
   > + `executeExistingDelayedTasksAfterShutdown`:默认值`true`,当线程池关闭(`shutdown()`)的时候,是否继续保留留在队列里的延迟性任务,所以默认是保留的,不会从等待队列里删除掉
-  > + `removeOnCancel`:默认值`false`,取消当前任务的时候如果取消成功,则是否需要从队列中删除当前任务,默认不删除
+  > + `removeOnCancel`:默认值`false`,取消(`cancel(boolean mayInterruptIfRunning)`)当前任务的时候如果取消成功,则是否需要从队列中删除当前任务,默认不删除

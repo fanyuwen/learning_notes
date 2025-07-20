@@ -168,8 +168,11 @@
 + [static 是基础？错一个面试直接挂！](https://mp.weixin.qq.com/s/KH7moTU0GAVVzyCMaSOdtg)
 + [C++的核心痛点以及Rust的解决之道](https://mp.weixin.qq.com/s/V6ubtpU2nhhNqTdOfgMpdw)
 + [C++语言陷阱①：那些年你踩过的“未定义行为”](https://mp.weixin.qq.com/s/YBslnw-dIXv27Zu2mBEhxg)
++ [C++语言陷阱⑩：默认参数、函数重载与可调用对象的冲突陷阱](https://mp.weixin.qq.com/s/yxxLLRw5trSTgIi1RFwU9g)
++ [C++语言陷阱⑲：STL 算法误用与边界条件陷阱](https://mp.weixin.qq.com/s/qEmA9fa4lPDe9xrKvf1xQg)
 + [C++语言陷阱㉒：constexpr、inline 与链接错误陷阱](https://mp.weixin.qq.com/s/7rRd3VjRSEoS44LDktjS1Q)
 + [C++语言陷阱㉕：异常处理的隐藏开销与 catch-by-value 陷阱](https://mp.weixin.qq.com/s/Fch8Zs0zyVjWLv83Jol-fg)
++ [C++语言陷阱㉖：volatile 与内存模型误解](https://mp.weixin.qq.com/s/W0X6snXkwXrM7rV19u31EQ)
 
 #### 指针
 
@@ -299,6 +302,7 @@
 + [C++后端技术：基于redis实现分布式锁](https://mp.weixin.qq.com/s/OMIxGocXeDeH0pYfOf-B1g)
 + [用 C++ 打造高性能日志系统：压缩、加密、线程池全都安排上了！](https://mp.weixin.qq.com/s/IKlFEvBItO-AYDjCl5VZAw)
 + [高内聚与低耦合的嵌入式软件组件设计](https://mp.weixin.qq.com/s/4GTXGdiUfB-O0ef1JIcoXA)
++ [智能硬件开发中的C++编程实践](https://mp.weixin.qq.com/s/fzb9_b7BEGVQLhGpVMWq-g)
 
 #### 三方库
 
@@ -367,6 +371,7 @@
 ### 基础
 
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
++ [我的C语言之路：1-核心概念与实践指南](https://mp.weixin.qq.com/s/5nNHThtSRcG89XfSk78_8g)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 + [C语言指针：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/lom53AZI-neuldeDpWRdsg)
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
@@ -392,6 +397,7 @@
 + [全面讲解 C 语言的结构体(struct)，一网打尽](https://mp.weixin.qq.com/s/n6MFklO4tdjYRtTzgs3PrQ)
 + [彻底搞清楚 “变量”](https://mp.weixin.qq.com/s/L5wBITMeIUtFkM8sAlX3tQ)
 + [C 的标示符之作用域](https://mp.weixin.qq.com/s/8V0TU5rOF2-i-usYUGcRug)
++ [谈C编程---const关键字](https://mp.weixin.qq.com/s/XwOJf8XWis4IldNbA8yX_g)
 
 ### 高阶
 
@@ -432,6 +438,8 @@
 + [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
 + [C语言实用干货：一文讲透CRC校验码](https://mp.weixin.qq.com/s/fwmWKvDtt4bmW4nYRbLrvg)
 + [C语言内存管理：malloc/free的甜蜜陷阱](https://mp.weixin.qq.com/s/AFcLMf5lgqmbLGSj7birCw)
++ [编程语言变量覆盖的内部原理是什么?为什么C语言全局或静态变量初始值是0?](https://mp.weixin.qq.com/s/DDbH-iiWMI5u5l_3NxBRiQ)
++ [彻底搞懂程序链接过程之动态链接](https://mp.weixin.qq.com/s/SkB3WBurHMk1u4ysnY1DqQ)
 
 #### 宏
 
@@ -569,6 +577,8 @@
 + [嵌入式面试指南：你必须了解的硬件知识](https://mp.weixin.qq.com/s/ORNUP0ffqhVDHF_4_3EEhA)
 + [嵌入式面试指南：你必须了解的汇编知识](https://mp.weixin.qq.com/s/R8y8alH0BXVa_nItPiQfvw)
 + [嵌入式面试指南：你必须掌握的编译与内存分布知识](https://mp.weixin.qq.com/s/Xhole1B9f7ZLaZi1VWAbKw)
++ [嵌入式分享#26：为什么要sync？](https://mp.weixin.qq.com/s/q0w62l2jgT9efdlAtNYYwA)
++ [嵌入式面试指南：你必须掌握的MCU启动过程](https://mp.weixin.qq.com/s/kAVXvYiyuP9Y2L9fkr994g)
 
 # ARM
 

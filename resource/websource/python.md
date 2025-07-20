@@ -229,6 +229,7 @@
 + [Python切片的基础与高阶用法，很顶](https://mp.weixin.qq.com/s/9j0f3wKpGylw1pcTeQA5fQ)
 + [Python集合应用：10+个集合操作的实用案例](https://mp.weixin.qq.com/s/IIHYqF_7efNyr-vO9oyG5g)
 + [Python列表解析：10个让你代码更简洁的技巧](https://mp.weixin.qq.com/s/r8ZspJs5aZNlQDo-cQzRyw)
++ [苦练Python第24天：玩转Set](https://mp.weixin.qq.com/s/dURA8LRIXFzhh-ARZ8Vl7Q)
 + [45python re正则表达式](https://mp.weixin.qq.com/s/-HPFnF97V_7nQC8RpGqGPg)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 + [Python入门教程21：os模块的示例用法](https://mp.weixin.qq.com/s/3gMUW61gzkFK9cyoolWeOQ)
@@ -276,6 +277,8 @@
 + [Python 路径与模块导入详解](https://mp.weixin.qq.com/s/-j41d2R-nFqlEy0w3GqvxA)
 + [写给前端的 Python 教程十 - 模块和包](https://mp.weixin.qq.com/s/jeqmPXcXk_5BxC3bAoC9Lg)
 + [30天学会Python编程：17.Python标准库高级模块使用介绍](https://mp.weixin.qq.com/s/ILmHEAceuVMi0XQCMo3D7g)
++ [苦练Python第16天：Python模块与import魔法](https://mp.weixin.qq.com/s/RjwIlPWIgOkdlPRILgFgBg)
++ [Python内置模块：turtle Gui 编程实践](https://mp.weixin.qq.com/s/SkKfkIQVkLkVbGeFk74EEw)
 
 ### 异步/多线程
 
@@ -637,6 +640,9 @@
 + [Python编写程序的5个经典技巧操作](https://mp.weixin.qq.com/s/2BQG453gWfngqX0_0_ejxw)
 + [python 进阶知识](https://mp.weixin.qq.com/s/-0WUuEpRHIB0VGkX-PEz6w)
 + [30天学会Python编程：19.Python os模块编程实践](https://mp.weixin.qq.com/s/8Vv9BVvq1wbWdDFr-iIvUA)
++ [Python编程高手都在用的10个代码优化技巧让你的程序快如闪电](https://mp.weixin.qq.com/s/R-3P4KQ-fRqcT5_AzvzJtg)
++ [Python实用项目——从0开始实现datetime](https://mp.weixin.qq.com/s/SYEQ5m-riV_70rioTvr4vw)
++ [Python编程小技巧--‌生成重复字符串](https://mp.weixin.qq.com/s/lO2NzJFJwNwMYqrUcRn8og)
 
 ## 新特性
 

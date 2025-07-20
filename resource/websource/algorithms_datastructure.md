@@ -131,6 +131,7 @@
 + [数据结构之B树删除关键字](https://mp.weixin.qq.com/s/RhWfseXoi_szAWHKRQikGQ)
 + [【数据结构】线索二叉树](https://mp.weixin.qq.com/s/fj-6LjmjtRakXoh7UgvGZw)
 + [二叉树、红黑树、B-tree、B+tree](https://mp.weixin.qq.com/s/_WSe_EogNv2283HU3X8iUA)
++ [数据结构之树结构—二叉搜索树的定义和构造](https://mp.weixin.qq.com/s/dUeS1tcSZI3ECVeFG1o8OA)
 
 ## 排序算法
 

@@ -671,6 +671,8 @@
 + [接口设计的原则：构建优雅API的完整指南](https://mp.weixin.qq.com/s/BdGGJJJhU-ZotxJvyuP46w)
 + [为什么所有程序员都需要懂编译器前端](https://mp.weixin.qq.com/s/rCPQd0XXgYemz5qPp4pBxQ)
 + [如何使用分段式锁的方案提升服务的下单效率](https://mp.weixin.qq.com/s/Wf5b5lT4noevcsjZNU7gGA)
++ [秒杀系统要不要加分布式锁？](https://mp.weixin.qq.com/s/yCHAgR4fbrNvRPuMSe673w)
++ [模块设计的黄金法则（七）：别急着写，先多想一步](https://mp.weixin.qq.com/s/t0l6l0VpCPtE-qC9jE5Hsg)
 
 # 测试相关
 

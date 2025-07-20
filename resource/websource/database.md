@@ -684,6 +684,7 @@
 + [几乎涵盖你需要的 Redis 所有操作](https://mp.weixin.qq.com/s/QPEEo5hge13ai4QW2g9HXw)
 + [工作中，Redis的15种使用场景](https://mp.weixin.qq.com/s/du0-7tT_jN-IYcdOjx4SRg)
 + [为什么会出现 Redis？它有什么用？](https://mp.weixin.qq.com/s/zdAZNpWcWcgL0Zh0DDk-2A)
++ [Redis内幕揭秘：探索Redis基础知识及应用场景，挖掘出高效的缓存技术](https://mp.weixin.qq.com/s/_4wrfm6APQzqMvL3bnhyRw)
 + [Redis 的安装与使用](https://my.oschina.net/OutOfMemory/blog/158052)
 + [Redis 的基本用法](https://mp.weixin.qq.com/s/kZpgeTHoDRRRAkQ0gEK48Q)
 + [Redis数据库基础教程](https://mp.weixin.qq.com/s/b7UBXUNIbu5Ak_5VbS2q3g)
@@ -925,6 +926,7 @@
 + [阿里面试：Redis 为什么把简单的字符串设计成 SDS？](https://mp.weixin.qq.com/s/5EQ3bxl7Atg_6ac7JpnyqA)
 + [Redis核心机制解析：从事件循环到底层数据结构](https://mp.weixin.qq.com/s/kMuXdnr6FDK1pZfldONMDw)
 + [Redis五大核心数据结构详解：从入门到实战](https://mp.weixin.qq.com/s/airzkFtZoKaaQ51ivkm_3w)
++ [腾讯面试： 执行一条redis 命令时，底层干了什么？ 小伙懵逼，挂了](https://mp.weixin.qq.com/s/KCucVZtmP7ANmboumlICCA)
 
 #### 分布式锁
 

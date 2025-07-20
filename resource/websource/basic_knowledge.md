@@ -275,6 +275,7 @@
 + [深入理解计算机组成原理（二十八）---逻辑地址和物理地址位数计算的一道小题](https://mp.weixin.qq.com/s/U1FhC1OkUbyVk1qENUH-AQ)
 + [深入理解计算机组成原理（二十九）---直接映射方式下的cache的块号的计算的一道题目](https://mp.weixin.qq.com/s/HufIit9gvAV7bAxkG7J8lA)
 + [深入理解计算机组成原理（三十一）---TLB快表，缓存和虚存之间](https://mp.weixin.qq.com/s/sPgQ7aDurNRWhPKJFCxcGg)
++ [深入理解计算机组成原理（三十六）---CPU访问，虚拟地址和物理地址之间的转换题目](https://mp.weixin.qq.com/s/ZKTs0kcbRs4CoqfK8oVamQ)
 
 ## CPU
 

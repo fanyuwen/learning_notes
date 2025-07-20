@@ -927,6 +927,7 @@
 + [Redis核心机制解析：从事件循环到底层数据结构](https://mp.weixin.qq.com/s/kMuXdnr6FDK1pZfldONMDw)
 + [Redis五大核心数据结构详解：从入门到实战](https://mp.weixin.qq.com/s/airzkFtZoKaaQ51ivkm_3w)
 + [腾讯面试： 执行一条redis 命令时，底层干了什么？ 小伙懵逼，挂了](https://mp.weixin.qq.com/s/KCucVZtmP7ANmboumlICCA)
++ [Redis底层结构(六)-Zset对应数据结构(listpack、skiplist)](https://mp.weixin.qq.com/s/q7yZIOg_KgIM_-zVpDekqA)
 
 #### 分布式锁
 

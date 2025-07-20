@@ -173,6 +173,7 @@
 + [C++语言陷阱㉒：constexpr、inline 与链接错误陷阱](https://mp.weixin.qq.com/s/7rRd3VjRSEoS44LDktjS1Q)
 + [C++语言陷阱㉕：异常处理的隐藏开销与 catch-by-value 陷阱](https://mp.weixin.qq.com/s/Fch8Zs0zyVjWLv83Jol-fg)
 + [C++语言陷阱㉖：volatile 与内存模型误解](https://mp.weixin.qq.com/s/W0X6snXkwXrM7rV19u31EQ)
++ [C++语言陷阱㉗：线程安全与并发数据结构陷阱](https://mp.weixin.qq.com/s/PZW0sYsQKAmm5FcAEhKZhA)
 
 #### 指针
 
@@ -281,6 +282,7 @@
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
 + [C++结构型模式之组合模式](https://mp.weixin.qq.com/s/_vgCM3pxYPsP9Jyz7NRbvQ)
 + [C++行为型设计模式之观察者模式](https://mp.weixin.qq.com/s/QmV_QRbZr_IA9OyOAY-YMw)
++ [C++设计模式之验证环境说明篇](https://mp.weixin.qq.com/s/096j33-MMXPbx3pvG9WDPw)
 
 #### 并发
 
@@ -375,6 +377,7 @@
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 + [C语言指针：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/lom53AZI-neuldeDpWRdsg)
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
++ [字、字长、寻址、字节顺序](https://mp.weixin.qq.com/s/cSOzD2hOlLS8hzhYVQ9FIQ)
 + [（2.1.0）C语言编程入门 -- 开发环境搭建 -- VSCode + MinGW（2）](https://mp.weixin.qq.com/s/YptY0YY-_17elC8MavykBQ)
 + [（2.4）C语言编程入门 -- C 基础语法](https://mp.weixin.qq.com/s/EZDssKfpIYeONqVbNhDgSw)
 + [（2.10）C语言编程入门 -- 函数入门 -【保证入门】](https://mp.weixin.qq.com/s/zSB7V8CPJq0pa7iTYJHklA)
@@ -461,6 +464,7 @@
 
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
++ [为什么结构体要考虑对齐?如何确定语言使用的地址是不是物理地址?](https://mp.weixin.qq.com/s/rV1vNblnXIAXcHS87iL1Ww)
 
 #### 指针
 
@@ -579,6 +583,7 @@
 + [嵌入式面试指南：你必须掌握的编译与内存分布知识](https://mp.weixin.qq.com/s/Xhole1B9f7ZLaZi1VWAbKw)
 + [嵌入式分享#26：为什么要sync？](https://mp.weixin.qq.com/s/q0w62l2jgT9efdlAtNYYwA)
 + [嵌入式面试指南：你必须掌握的MCU启动过程](https://mp.weixin.qq.com/s/kAVXvYiyuP9Y2L9fkr994g)
++ [学嵌入式必学 C 语言？80% 工程师都在用的核心原因 + 语法速通指南](https://mp.weixin.qq.com/s/mMETgK0j_uNGs8ETWVaseQ)
 
 # ARM
 
@@ -609,6 +614,7 @@
 + [揭秘 map 文件：嵌入式开发的内存优化神器](https://mp.weixin.qq.com/s/anrNM7Ak5UUm2-cnNopXHA)
 + [单片机原理_03单片机的内部功能详介](https://mp.weixin.qq.com/s/AHdCtjquFU1OTXAISZfXWg)
 + [单片机为什么被认为是一门简单的技术？](https://mp.weixin.qq.com/s/zsvDttjsMxwVZ0xLPkGl6Q)
++ [单片机可以使用cJSON吗](https://mp.weixin.qq.com/s/ozEtl-x9mfbP0yr-xw4Q5A)
 
 # NVIDIA
 

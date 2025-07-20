@@ -134,6 +134,7 @@
 + [你的 DDD 还在纸上谈兵？是时候落地了！](https://mp.weixin.qq.com/s/YYDagnkugBiCQQQ5Rty3XQ)
 + [P8架构师揭秘：DDD领域驱动设计在复杂业务系统中的最佳实践！](https://mp.weixin.qq.com/s/jUEk3TjCxjXJIV4LT3QT8A)
 + [领域驱动设计(DDD)如何重塑金融系统架构？](https://mp.weixin.qq.com/s/QaBPxSpa-Fvhme80OLV6ww)
++ [架构设计内容分享—领域驱动设计（DDD）,优秀架构师的必修课](https://mp.weixin.qq.com/s/kDYRG3LsZ6bQM0gNR8tN_w)
 
 ## 微服务
 
@@ -897,6 +898,7 @@
 + [Git基础概念与常用命令详解](https://mp.weixin.qq.com/s/klwlUxsivowi2etE7thrLg)
 + [Git命令这样用，代码管理轻松搞定](https://mp.weixin.qq.com/s/wn3dOTC547arIeF8F-Nfmw)
 + [Git远程仓库与协作技巧详解](https://mp.weixin.qq.com/s/nTjT8MBi15xX8Fe1EYn1JA)
++ [你可能忽略的git高阶用法](https://mp.weixin.qq.com/s/gxYDaP7iAIDEzh58Zq_n1w)
 
 ### 编程范式
 

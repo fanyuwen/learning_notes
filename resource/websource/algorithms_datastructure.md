@@ -80,7 +80,6 @@
 + [算法 - 前k个高频元素](https://mp.weixin.qq.com/s/BEEUSFdUCR0mGSK1gGXDUw)
 + [【DFS】简单背包递归实现](https://mp.weixin.qq.com/s/HGJZDFzurdjpOsHrB1HPiw)
 + [手写数据结构系列--堆](https://mp.weixin.qq.com/s/3Q7DjR4RP0y_VSx-GxOKRA)
-+ [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
 + [算法 - 丑数](https://mp.weixin.qq.com/s/V2m1ArYykADvNqUB1n7ycw)
 + [向量检索算法：从哈希、树到量化与图](https://my.oschina.net/u/3859945/blog/18683168)
 + [算法-一维动态规划](https://mp.weixin.qq.com/s/DV2gl7epsw9oiqR2g46C3g)
@@ -88,6 +87,7 @@
 + [数据结构学习篇 四](https://mp.weixin.qq.com/s/gYg7vgpzQLU8S9pbkVbrGQ)
 + [数据结构学习篇 五](https://mp.weixin.qq.com/s/3E12aggzdExTSfXQP66lHw)
 + [动态规划入门课：图解路径和之太郎的假期](https://mp.weixin.qq.com/s/FgJnBukggQkWKvBihPTvHA)
++ [掌握了这些算法技巧，可以少刷一半的Leetcodee ！](https://mp.weixin.qq.com/s/n4beV8HXNEIt48bWsegLNw)
 
 ## Graph
 
@@ -132,6 +132,7 @@
 + [【数据结构】线索二叉树](https://mp.weixin.qq.com/s/fj-6LjmjtRakXoh7UgvGZw)
 + [二叉树、红黑树、B-tree、B+tree](https://mp.weixin.qq.com/s/_WSe_EogNv2283HU3X8iUA)
 + [数据结构之树结构—二叉搜索树的定义和构造](https://mp.weixin.qq.com/s/dUeS1tcSZI3ECVeFG1o8OA)
++ [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
 
 ## 排序算法
 

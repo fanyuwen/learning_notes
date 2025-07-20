@@ -162,6 +162,7 @@
 + [浅谈Linux段页式存储](https://mp.weixin.qq.com/s/D_VzYdAdIcWiAg6Kw-dchA)
 + [Linux进程管理](https://mp.weixin.qq.com/s/lsDSkRfzZfWKvYisLcc4HQ)
 + [Linux 内存管理之内存管理子系统系统介绍](https://mp.weixin.qq.com/s/hJ78oPJu6hqdYlf2MoUwZg)
++ [Linux指南(十)：文件、一切皆文件](https://mp.weixin.qq.com/s/6cvTKiZ0BHuePTNsZ-FKpg)
 
 ### 网络
 
@@ -276,6 +277,7 @@
 + [深入理解计算机组成原理（二十九）---直接映射方式下的cache的块号的计算的一道题目](https://mp.weixin.qq.com/s/HufIit9gvAV7bAxkG7J8lA)
 + [深入理解计算机组成原理（三十一）---TLB快表，缓存和虚存之间](https://mp.weixin.qq.com/s/sPgQ7aDurNRWhPKJFCxcGg)
 + [深入理解计算机组成原理（三十六）---CPU访问，虚拟地址和物理地址之间的转换题目](https://mp.weixin.qq.com/s/ZKTs0kcbRs4CoqfK8oVamQ)
++ [深入理解计算机组成原理（三十九）---数据在存储器里面的存储方式的题目（大小端+对齐）](https://mp.weixin.qq.com/s/x8PPtrpvUpVzf3tnfxnMzA)
 
 ## CPU
 
@@ -447,6 +449,7 @@
 + [高并发场景下，TCP/UDP丢包的隐藏陷阱](https://mp.weixin.qq.com/s/5An3f8PJuGv1q9uvmYQyIQ)
 + [URL地址末尾加不加 "/" 有什么区别](https://mp.weixin.qq.com/s/dlpKnfupjiZ3Bg_pvrROgQ)
 + [路由器工作原理](https://mp.weixin.qq.com/s/AjOBTPlVZmdxX2Un25Rfqg)
++ [抓包就靠 tcpdump？别只会 -i eth0！这些技巧才是核心操作](https://mp.weixin.qq.com/s/OrKOK6TI1m-ClQ51b7_mBg)
 
 ### DNS
 

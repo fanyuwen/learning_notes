@@ -643,6 +643,7 @@
 + [Python编程高手都在用的10个代码优化技巧让你的程序快如闪电](https://mp.weixin.qq.com/s/R-3P4KQ-fRqcT5_AzvzJtg)
 + [Python实用项目——从0开始实现datetime](https://mp.weixin.qq.com/s/SYEQ5m-riV_70rioTvr4vw)
 + [Python编程小技巧--‌生成重复字符串](https://mp.weixin.qq.com/s/lO2NzJFJwNwMYqrUcRn8og)
++ [苦练Python第30天：浅拷贝 VS 深拷贝](https://mp.weixin.qq.com/s/BY8jX2G699Dgh_gJ9vhZrw)
 
 ## 新特性
 

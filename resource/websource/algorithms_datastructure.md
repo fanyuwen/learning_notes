@@ -87,6 +87,7 @@
 + [数据结构学习篇 三](https://mp.weixin.qq.com/s/ynZ0caG5n0ypgSdDQyccKg)
 + [数据结构学习篇 四](https://mp.weixin.qq.com/s/gYg7vgpzQLU8S9pbkVbrGQ)
 + [数据结构学习篇 五](https://mp.weixin.qq.com/s/3E12aggzdExTSfXQP66lHw)
++ [动态规划入门课：图解路径和之太郎的假期](https://mp.weixin.qq.com/s/FgJnBukggQkWKvBihPTvHA)
 
 ## Graph
 

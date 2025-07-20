@@ -220,6 +220,7 @@
 + [JavaScript 深入浅出（六） 闭包](https://mp.weixin.qq.com/s/Ze0o7FxNvAPP0EThzyf2KA)
 + [JavaScript变量与数据类型详解](https://mp.weixin.qq.com/s/Qbc95lYFeqilyg4w2M1pqQ)
 + [JavaScript对象与元编程](https://mp.weixin.qq.com/s/LvTB8YuQLACEaHHtQBmjLA)
++ [深入浅出JavaScript (八) 异步编程](https://mp.weixin.qq.com/s/iI_6HzAzSMUXyerAWNM45g)
 
 # 框架
 

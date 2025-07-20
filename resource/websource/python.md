@@ -223,6 +223,7 @@
 + [python全栈开发《53.字典的删除》](https://mp.weixin.qq.com/s/AKlUQc14qv3VjnhMHYueWw)
 + [python全栈开发《55.字典中的成员判断》](https://mp.weixin.qq.com/s/Ivb7NNknpoB6ofcjrhF0iA)
 + [Python 中快速创建零列表的多种方法](https://mp.weixin.qq.com/s/V8JZbwvklBQZQejWWfCtyw)
++ [苦练Python第25天：玩转字典](https://mp.weixin.qq.com/s/MYoNK-w18A5P8LbndrA1vw)
 + [Python如何高效的遍历dict？](https://mp.weixin.qq.com/s/7Ad7PAXECJNcOPCKsMBQmw)
 + [【Python】如何按值对Python字典进行排序？](https://mp.weixin.qq.com/s/NlQ6spQ2_5QZBRzFNy8epw)
 + [Python切片的基础与高阶用法，很顶](https://mp.weixin.qq.com/s/9j0f3wKpGylw1pcTeQA5fQ)
@@ -299,6 +300,7 @@
 + [Python编程精进：Asyncio与线程如何选择？](https://mp.weixin.qq.com/s/_6MGsB2OPUKfHFExYeNwAg)
 + [Python: 从async/await理解协程的高效世界](https://mp.weixin.qq.com/s/PlQFlf_pwISAm3ZlDOB18A)
 + [Python 多线程编程指南](https://mp.weixin.qq.com/s/_ouJDgUSkmuLNcWJWC_wCQ)
++ [并发编程王牌：asyncio异步实战手册，吞吐量提升500%，高并发必备！](https://mp.weixin.qq.com/s/-F6j00YPrjbGNasoMII_ww)
 
 ## 实践
 

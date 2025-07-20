@@ -169,6 +169,7 @@
 + [C++的核心痛点以及Rust的解决之道](https://mp.weixin.qq.com/s/V6ubtpU2nhhNqTdOfgMpdw)
 + [C++语言陷阱①：那些年你踩过的“未定义行为”](https://mp.weixin.qq.com/s/YBslnw-dIXv27Zu2mBEhxg)
 + [C++语言陷阱㉒：constexpr、inline 与链接错误陷阱](https://mp.weixin.qq.com/s/7rRd3VjRSEoS44LDktjS1Q)
++ [C++语言陷阱㉕：异常处理的隐藏开销与 catch-by-value 陷阱](https://mp.weixin.qq.com/s/Fch8Zs0zyVjWLv83Jol-fg)
 
 #### 指针
 
@@ -270,6 +271,14 @@
 + [c++重载运算符和重载函数（图、文、代码）](https://mp.weixin.qq.com/s/BbNJIr6kDYvpkHqxUoMAqw)
 + [【C++】placement new](https://mp.weixin.qq.com/s/o0B1Uj7Io3JnCMf6_vhztw)
 
+##### 设计模式
+
++ [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
++ [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
++ [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
++ [C++结构型模式之组合模式](https://mp.weixin.qq.com/s/_vgCM3pxYPsP9Jyz7NRbvQ)
++ [C++行为型设计模式之观察者模式](https://mp.weixin.qq.com/s/QmV_QRbZr_IA9OyOAY-YMw)
+
 #### 并发
 
 + [std::thread底层实现原理](https://mp.weixin.qq.com/s/6gKQMfyZugkmbqf5EuI60Q)
@@ -284,13 +293,6 @@
 + [跟我学c++中级篇——多线程中的文件处理](https://mp.weixin.qq.com/s/hhLJ0kqGul8SxUI779n-Iw)
 + [C++多线程网络编程：助力高并发服务器性能提升](https://mp.weixin.qq.com/s/C8rNsmBreIQwRh0ZAq6kjw)
 + [C++er 的视角看 Rust：从基于锁的并发编程谈起](https://mp.weixin.qq.com/s/n41ZeIlWuH-HIKhtLjTnCA)
-
-#### 设计模式
-
-+ [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
-+ [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
-+ [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
-+ [C++结构型模式之组合模式](https://mp.weixin.qq.com/s/_vgCM3pxYPsP9Jyz7NRbvQ)
 
 #### 扩展
 
@@ -429,6 +431,7 @@
 + [C语言实现PID算法](https://mp.weixin.qq.com/s/JsJzdk_lUW4DJFrZlemmAA)
 + [C语言如何直接控制硬件？指针、内存与寄存器](https://mp.weixin.qq.com/s/DXJaAlvw3rd9BdCeK-Va2A)
 + [C语言实用干货：一文讲透CRC校验码](https://mp.weixin.qq.com/s/fwmWKvDtt4bmW4nYRbLrvg)
++ [C语言内存管理：malloc/free的甜蜜陷阱](https://mp.weixin.qq.com/s/AFcLMf5lgqmbLGSj7birCw)
 
 #### 宏
 
@@ -471,6 +474,7 @@
 + [Linux C语言 指向函数的指针](https://mp.weixin.qq.com/s/CL8-OiOTebsyaAYmGPB6FA)
 + [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
 + [函数指针c = (*pf)(a, b)](https://mp.weixin.qq.com/s/P5JWkkOpih49HjI75Mnryw)
++ [C语言指针：让你又爱又恨的“指指点点”](https://mp.weixin.qq.com/s/f7VVOa4zD46squLTJXg1LA)
 
 #### 函数
 

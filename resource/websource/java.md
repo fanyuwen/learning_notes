@@ -155,7 +155,9 @@
 + [127. Java 泛型 - 泛型类与子类型](https://mp.weixin.qq.com/s/4TJxUkpQPp5ZkBXxA_rRZw)
 + [129. Java 泛型 - 泛型类的类型推断和实例化](https://mp.weixin.qq.com/s/JD58albNYsUZVNP7kaQ0nA)
 + [130. Java 泛型 - 泛型构造函数](https://mp.weixin.qq.com/s/aGWDEIhf93xjLoid37eTJg)
++ [131. Java 泛型 - 目标类型与泛型推断](https://mp.weixin.qq.com/s/SjEtJTwTYAlElsK_ewY9pA)
 + [132. Java 泛型 - Lambda 表达式中的目标类型](https://mp.weixin.qq.com/s/AVUBhUa0nUG9cOWChwdxPA)
++ [133. Java 泛型 - 目标类型与方法参数：重载解析与类型推导](https://mp.weixin.qq.com/s/1a_YRkY9SC7bPZDXOrc-aA)
 
 ### 面向对象
 
@@ -335,6 +337,7 @@
 + [构建灵活系统的“生产流水线”：Java 工厂设计模式](https://mp.weixin.qq.com/s/jsvv-EcLWrn-qwQQizLi6w)
 + [在Java中如何写一个正确的单例模式](https://mp.weixin.qq.com/s/e7TleAQP9RWsnQo_3Ha6yA)
 + [别再 new 子类了！用装饰器模式，给你的代码“加Buff”](https://mp.weixin.qq.com/s/tv2tyH732umDSypvwC3FDg)
++ [为什么资深Java开发都爱用策略模式？从踩坑到真香的实战分享](https://mp.weixin.qq.com/s/RomUe4z9UTHWnSvdPp3xcA)
 + [揭秘观察者模式：Java异步通信的优雅解耦之道](https://mp.weixin.qq.com/s/EscHn8a-bwBaYhAkVIlaCg)
 + [Java策略模式在实际项目中的应用](https://mp.weixin.qq.com/s/EQMNQHNhu8VhucHczxiAjg)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
@@ -798,6 +801,7 @@
 + [Java 多线程编程核心代码示例：12 个场景带你玩转并发](https://mp.weixin.qq.com/s/VHO3h1bXoBw2XXNfHUUPHg)
 + [Java线程-控制并发流程](https://mp.weixin.qq.com/s/Lc2WnW6QQELsy3fdlS3dQg)
 + [Java中线程实用小技巧，如何等待全部线程执行完再执行其它任务？](https://mp.weixin.qq.com/s/ZSxl7euU4Tlrt38gwmIJ1A)
++ [Java并发编程基础小结](https://mp.weixin.qq.com/s/V2mR2mK7H9v8_vQzZUPOig)
 
 #### CAS
 
@@ -1121,6 +1125,7 @@
 + [你了解 Java 的类加载器吗?类加载机制是什么？什么是双亲委派机制？](https://mp.weixin.qq.com/s/wLY4lM6zT_3967ZwEHN_xQ)
 + [深入解析双亲委派机制：安全机制还是性能瓶颈？](https://mp.weixin.qq.com/s/HMubk9LhkeLvHeOuH96BAg)
 + [JVM 类加载机制](https://mp.weixin.qq.com/s/LJqD3mRKqN4V2ZSBBclt_Q)
++ [双亲委派：JVM 里那个“先问爸爸”的类加载套路](https://mp.weixin.qq.com/s/PeyKjPjumLCSimBqCyxIQA)
 
 ### GC
 
@@ -1566,6 +1571,8 @@
 + [面试练习 | Java中的CyclicBarrier与CountDownLatch有何区别及适用场景？](https://mp.weixin.qq.com/s/mRkTRUNPf-Ue_Z7fjC9NLw)
 + [面试练习 | Java并发中的CopyOnWriteArrayList和其适用场景](https://mp.weixin.qq.com/s/950hoNdWxOs1R9CXkqh6CQ)
 + [当异步任务汇聚，你该如何选择：CountDownLatch 与 CompletableFuture](https://mp.weixin.qq.com/s/aBHja6fBsALeIgeGCGHg0w)
++ [阻塞队列：Java并发中的"红绿灯"与"缓冲带"](https://mp.weixin.qq.com/s/QKqfvKLV2iI4X7z93GnTVA)
++ [Java并发实战：CountDownLatch的5种典型场景，告别线程阻塞噩梦！](https://mp.weixin.qq.com/s/zIY5Y5QkLjGr7JxJAafsZA)
 
 ## IO/NIO
 
@@ -2251,6 +2258,7 @@
 + [Spring IoC深度揭秘：如何用三级缓存解决循环依赖？面试必问的8大核心原理](https://mp.weixin.qq.com/s/cv7GsBAA9fnnHS61fX8Ezg)
 + [Bean循环依赖咋解决？”别只说三级缓存了！这3种场景方案，让回答碾压90%面试者！](https://mp.weixin.qq.com/s/EE30eDWl81l7T9AG3VNnbA)
 + [Spring容器启动的隐藏关卡：onRefresh()扩展点深度解析](https://mp.weixin.qq.com/s/Wi3hdWnweKyQswZgmyT19Q)
++ [Spring IOC 容器核心阶段解密：Bean实例化全流程深度剖析](https://mp.weixin.qq.com/s/o9qfJGJjKTfnFcVVJY358A)
 
 ### 新版本新特性
 
@@ -2896,6 +2904,9 @@
 + [Spring Boot 十大开源 "王炸" Starter，功能逆天到离谱！](https://mp.weixin.qq.com/s/5ZXpY70dxl2WLtCqQbmxTg)
 + [Spring Boot 常用注解全解析：20 个高频注解 + 使用场景实例](https://mp.weixin.qq.com/s/Oo1J7rJn8PU4sT5gnGkjYw)
 + [SpringBoot异常处理实战：全局异常拦截器的正确打开方式](https://mp.weixin.qq.com/s/X3mwyUVFsS2nUVVheAulNA)
++ [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories？](https://mp.weixin.qq.com/s/CWBvHmbmtTK34o3YMQaPoA)
++ [SpringBoot配置属性热更新的轻量级实现](https://mp.weixin.qq.com/s/Fu6Z0IOXCGGLqAa2EAxS3Q)
++ [Spring Boot性能优化：深入剖析Deflate压缩实现与源码解析](https://mp.weixin.qq.com/s/GOjlZtqJb4mSEh2n21r2vQ)
 
 #### 版本特性
 
@@ -3554,6 +3565,7 @@
 + [@Async 咋总是不生效？！Spring Boot 异步编程 5 个“翻车”姿势，你中招了几个？](https://mp.weixin.qq.com/s/C2W2emBC76SahH5vKgVhxA)
 + [虚拟线程与消息队列：Spring Boot 3.5 中异步架构的演进与选择](https://mp.weixin.qq.com/s/xYnQ0t9iEKunbWqitTJQkg)
 + [同步 vs 异步性能差10倍！SpringBoot 高吞吐接口实现终极方案](https://mp.weixin.qq.com/s/wF6BoKWd25wNa6lRVO6BMw)
++ [Java进阶手册（四）SpringBoot在多个场景中的定时任务及高级特性](https://mp.weixin.qq.com/s/llRJRp8b3G5cr1B6O6Ao6g)
 
 ##### Disruptor
 
@@ -3940,6 +3952,7 @@
 + [SpringBoot 启动加速：优化与定制化干预技术指南](https://mp.weixin.qq.com/s/FA_TczAd9yrDBPxbiSqUvg)
 + [手把手教你写一个Spring Boot Starter：理解自动装配的奥秘](https://mp.weixin.qq.com/s/RCo4hVrktNYgJ7ZBBPONxA)
 + [Spring Boot中用自定义注解优雅统计方法执行时间](https://mp.weixin.qq.com/s/Y837MRCm3_ke7xAjdyI-og)
++ [【实战干货】SpringBoot支付系统设计：对比写代码才优雅！](https://mp.weixin.qq.com/s/2EJu7xY4R8WhtaOlrIR93g)
 
 #### 原理&源码
 
@@ -3968,6 +3981,7 @@
 + [Java内存马——Listener型的两种注入](https://mp.weixin.qq.com/s/2OVrBKpPt5nHIeDAK-3s_w)
 + [如何修改HttpServletRequest中的参数](https://mp.weixin.qq.com/s/EI-pkem6eXT5q-Z_NnnwVw)
 + [多线程环境下RequestContextHolder小坑](https://mp.weixin.qq.com/s/6cBibum_C62k-8aZTnMEWQ)
++ [双亲委派不香了？看 Tomcat 如何“叛逆”加载自己的类！](https://mp.weixin.qq.com/s/dbk0AuczZ9jM9EkUOK3tPg)
 
 ## xxl-job
 

@@ -161,6 +161,7 @@
 + [Crontab定时任务的这些坑，你踩过几个？](https://mp.weixin.qq.com/s/p0_iN7ydeKlf-i6ARuSbyA)
 + [浅谈Linux段页式存储](https://mp.weixin.qq.com/s/D_VzYdAdIcWiAg6Kw-dchA)
 + [Linux进程管理](https://mp.weixin.qq.com/s/lsDSkRfzZfWKvYisLcc4HQ)
++ [Linux 内存管理之内存管理子系统系统介绍](https://mp.weixin.qq.com/s/hJ78oPJu6hqdYlf2MoUwZg)
 
 ### 网络
 

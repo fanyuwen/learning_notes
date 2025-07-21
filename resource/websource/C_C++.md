@@ -174,6 +174,7 @@
 + [C++语言陷阱㉕：异常处理的隐藏开销与 catch-by-value 陷阱](https://mp.weixin.qq.com/s/Fch8Zs0zyVjWLv83Jol-fg)
 + [C++语言陷阱㉖：volatile 与内存模型误解](https://mp.weixin.qq.com/s/W0X6snXkwXrM7rV19u31EQ)
 + [C++语言陷阱㉗：线程安全与并发数据结构陷阱](https://mp.weixin.qq.com/s/PZW0sYsQKAmm5FcAEhKZhA)
++ [C++函数模板详解](https://mp.weixin.qq.com/s/kXwy_rdk1Q-Ha4vnZjot8g)
 
 #### 指针
 
@@ -227,6 +228,7 @@
 + [C++容器之std::stack和std::queue](https://mp.weixin.qq.com/s/vvhgJWdZTMoneeq1jYBJIw)
 + [每日C++——std::addressof](https://mp.weixin.qq.com/s/NrK3t0QGDi7jOluKLR8MZA)
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
++ [C++20 同步原语新篇章：std atomic_ref 与 std latch 深度解析](https://mp.weixin.qq.com/s/cOOBtelfXWpz8toP3eeaIw)
 
 #### 新特性
 
@@ -298,6 +300,8 @@
 + [跟我学c++中级篇——多线程中的文件处理](https://mp.weixin.qq.com/s/hhLJ0kqGul8SxUI779n-Iw)
 + [C++多线程网络编程：助力高并发服务器性能提升](https://mp.weixin.qq.com/s/C8rNsmBreIQwRh0ZAq6kjw)
 + [C++er 的视角看 Rust：从基于锁的并发编程谈起](https://mp.weixin.qq.com/s/n41ZeIlWuH-HIKhtLjTnCA)
++ [C++中标准线程库的使用](https://mp.weixin.qq.com/s/vWDx_wwcvSJ-6zoU6Dm9fw)
++ [如何优化C++线程池的性能](https://mp.weixin.qq.com/s/32z5VyL5L-eVMT3zr4jT4A)
 
 #### 扩展
 
@@ -349,6 +353,7 @@
 + [wfrest，一个C++ 的轻量级库](https://mp.weixin.qq.com/s/l4oF0ATH1X0TDlPWpIpgaA)
 + [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
 + [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
++ [C++零拷贝反序列化库 cista](https://mp.weixin.qq.com/s/KENr2Q4HoU9R75L-l95uoQ)
 
 ### 资讯
 
@@ -401,6 +406,7 @@
 + [彻底搞清楚 “变量”](https://mp.weixin.qq.com/s/L5wBITMeIUtFkM8sAlX3tQ)
 + [C 的标示符之作用域](https://mp.weixin.qq.com/s/8V0TU5rOF2-i-usYUGcRug)
 + [谈C编程---const关键字](https://mp.weixin.qq.com/s/XwOJf8XWis4IldNbA8yX_g)
++ [【C语言】C语言的声明分析](https://mp.weixin.qq.com/s/elsSs66ydi0yoUH3d5nD3w)
 
 ### 高阶
 

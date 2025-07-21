@@ -705,6 +705,7 @@
 + [状态机模型，你真的搞懂并用对了吗？](https://mp.weixin.qq.com/s/_vg5lB8CC0OzrcHfQ-iv9w)
 + [基于有限状态机的测试（一）：基本定义和测试目标](https://mp.weixin.qq.com/s/P8DE0kCQvYBqIfd5I1bjzA)
 + [行为树（Behavior Tree）与状态机（State Machine）区别？](https://mp.weixin.qq.com/s/98BrJimP_2OtwjSq_prMXg)
++ [Boss怪状态机设计思路](https://mp.weixin.qq.com/s/XyeQARCgxFva-0WJJrbAbA)
 + [面试必考 restful 全栈技能](https://mp.weixin.qq.com/s/_Q3fW_WU0nHFyznTHTizqw)
 + [RESTful API中的6个核心概念，但最重要的特性是灵活](https://mp.weixin.qq.com/s/BtECZFsJr02A6Dd6qWDQHw)
 + [量化交易新手指南](https://mp.weixin.qq.com/s/-zvNH8b1Yrpdek8PoiixAg)
@@ -795,6 +796,7 @@
 + [行为树：极限性能优化，心跳驱动反超事件驱动](https://mp.weixin.qq.com/s/qLTZXFvP8OOKP4VuxK6Xjw)
 + [行为树：事件驱动版实现](https://mp.weixin.qq.com/s/NWjuAsoNuUsy6837VvfDCw)
 + [讲透一个强大算法模型，决策树！！](https://mp.weixin.qq.com/s/bpCLJPGJZgft7xkhbEheww)
++ [3分钟搞明白！为什么数组索引从零开始？](https://mp.weixin.qq.com/s/tlVH8oq-Xwya6voK_ni1wg)
 
 ### JSON
 

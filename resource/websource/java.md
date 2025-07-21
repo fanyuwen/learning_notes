@@ -159,6 +159,7 @@
 + [132. Java 泛型 - Lambda 表达式中的目标类型](https://mp.weixin.qq.com/s/AVUBhUa0nUG9cOWChwdxPA)
 + [133. Java 泛型 - 目标类型与方法参数：重载解析与类型推导](https://mp.weixin.qq.com/s/1a_YRkY9SC7bPZDXOrc-aA)
 + [137. Java 泛型 - 泛型与通配符：子类型化关系](https://mp.weixin.qq.com/s/Xao6ArYxcicE6XLcRehJsQ)
++ [138. Java 泛型 - 通配符捕获Helper程序方法：类型安全解决方案](https://mp.weixin.qq.com/s/qMMOh58yZdo0o4GVHpS9TQ)
 
 ### 面向对象
 
@@ -2704,6 +2705,8 @@
 + [Spring Cloud Gateway：新一代API网关，为什么它能取代Zuul？性能与功能全方位对比](https://mp.weixin.qq.com/s/VAGphi6M_5msXxwXw2qx6A)
 + [Gateway - ⽹关](https://mp.weixin.qq.com/s/lkGn0LXwUYDnahx3t3_r5w)
 + [Spring Cloud 快速通关 6: 网关服务Gateway](https://mp.weixin.qq.com/s/dPgqL6aLRERPMkoYWFr84w)
++ [如何用 Spring Cloud Gateway 实现流量染色](https://mp.weixin.qq.com/s/YVjvh-Ht3llYOkjLV8vnvQ)
++ [SringCloud网关Gateway功能实现](https://mp.weixin.qq.com/s/V5sbRKDgXDWcQ_fleimi4g)
 
 #### AI
 
@@ -3698,6 +3701,7 @@
 + [SpringBoot的5种日志输出规范策略](https://mp.weixin.qq.com/s/k0amYZ6ihIK_Y5Qk7NSYaA)
 + [SpringBoot日志进阶：Logback配置技巧与性能优化](https://mp.weixin.qq.com/s/tUav8nb_HDXZHAj7XfQ56A)
 + [Springboot 轻量级日志采集与可视化查询实战方案](https://mp.weixin.qq.com/s/ck5pXDUbvWxn6y-FFqb_Kw)
++ [Spring Boot 日志处理实战：从混乱到清晰的蜕变](https://mp.weixin.qq.com/s/ZoOKX28Wr2_fq7Lv_IlYJA)
 
 #### 安全
 
@@ -3967,6 +3971,8 @@
 + [SpringBoot+MyBatis多数据源配置与切换实战](https://mp.weixin.qq.com/s/u7u9Jgkd7FvdZ8Uyc6zL1Q)
 + [SpringBoot集成MyBatis的SQL拦截器实战](https://mp.weixin.qq.com/s/m_Ktymh_fh_QTTznR2qJqQ)
 + [SpringBoot+Jasync异步化改造狂降90%耗时，百万并发下的性能杀戮](https://mp.weixin.qq.com/s/Svbgcl_q41wGZdpwNAxq1g)
++ [Spring Boot + URule：零代码实现复杂业务规则，可视化规则引擎深度实战](https://mp.weixin.qq.com/s/3t8oRTc3D-zxir_AoRdOPA)
++ [Java Agent + SpringBoot 实现真正的无侵入式性能监控](https://mp.weixin.qq.com/s/1LhUX7kwiy77gNZVGRGLjw)
 
 #### test
 
@@ -3983,6 +3989,7 @@
 + [手把手教你写一个Spring Boot Starter：理解自动装配的奥秘](https://mp.weixin.qq.com/s/RCo4hVrktNYgJ7ZBBPONxA)
 + [Spring Boot中用自定义注解优雅统计方法执行时间](https://mp.weixin.qq.com/s/Y837MRCm3_ke7xAjdyI-og)
 + [【实战干货】SpringBoot支付系统设计：对比写代码才优雅！](https://mp.weixin.qq.com/s/2EJu7xY4R8WhtaOlrIR93g)
++ [Spring Boot 实现轻量级 SQL 监控实战全解](https://mp.weixin.qq.com/s/tStvhVarcIG-t8fFf2RWDw)
 
 #### 原理&源码
 

@@ -88,6 +88,7 @@
 + [数据结构学习篇 五](https://mp.weixin.qq.com/s/3E12aggzdExTSfXQP66lHw)
 + [动态规划入门课：图解路径和之太郎的假期](https://mp.weixin.qq.com/s/FgJnBukggQkWKvBihPTvHA)
 + [掌握了这些算法技巧，可以少刷一半的Leetcodee ！](https://mp.weixin.qq.com/s/n4beV8HXNEIt48bWsegLNw)
++ [双指针算法--从暴力走向优雅的算法捷径](https://mp.weixin.qq.com/s/k_Sc_8BJUmSEI94B6nVzJQ)
 
 ## Graph
 

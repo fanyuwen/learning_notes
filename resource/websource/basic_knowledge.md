@@ -262,6 +262,7 @@
 + [15个救命grep命令，运维人必存！](https://mp.weixin.qq.com/s/vnRFzv-rPESfnAhTBhht9A)
 + [Linux Shell脚本：流程控制](https://mp.weixin.qq.com/s/XU1drs7hhBxfTxnL9LsWdA)
 + [章节2：基本的Linux命令，【df】 命令常用的实用示例](https://mp.weixin.qq.com/s/2NKVvmqPsNHVLJewSymV8w)
++ [避免磁盘空间不足：Linux df 与 du 命令的实用技巧](https://mp.weixin.qq.com/s/_c2STeW1hMP5R3wjTe6ymA)
 
 ### 发行版信息
 
@@ -275,6 +276,7 @@
 
 + [计算机组成原理](https://mp.weixin.qq.com/s/J0EITMyEJNQeeBhmoKh4EA)
 + [一文了解计算机中的二进制](https://mp.weixin.qq.com/s/m5aW0-VsxsyB7ATN4o3W1A)
++ [深入理解计算机组成原理（八）---计算机性能的相关指标和进制转换的原理浅析](https://mp.weixin.qq.com/s/_sT15as99Bj186AlX8Qj2Q)
 + [深入理解计算机组成原理（十五）---指令流水线和总线系统](https://mp.weixin.qq.com/s/_wn3UT1NEFmTyHp3Pdb4Rw)
 + [深入理解计算机组成原理（二十五）---多模块存储器之连续编址和交叉编制的总结](https://mp.weixin.qq.com/s/aAfUN1qO7-AiQrq5nOyMXg)
 + [深入理解计算机组成原理（二十八）---逻辑地址和物理地址位数计算的一道小题](https://mp.weixin.qq.com/s/U1FhC1OkUbyVk1qENUH-AQ)

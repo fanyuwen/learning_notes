@@ -440,6 +440,7 @@
 + [拒绝慢查询！MySQL深度分页性能分析](https://mp.weixin.qq.com/s/IVXsP7H5bHYB3_AcraaKwg)
 + [MySQL：SQL 慢查询优化的技术指南](https://mp.weixin.qq.com/s/J4TR9IAz63MrdD3aYRpAcQ)
 + [面试官：MySQL explain你会关注哪些字段](https://mp.weixin.qq.com/s/-rW1MNLKNvsZp1Llrn_jsg)
++ [面试官：MySQL 自增 ID 超过 int 最大值怎么办？](https://mp.weixin.qq.com/s/lIx-8LwoSeRhDWbxqUmaiw)
 
 #### 存储引擎
 
@@ -480,6 +481,7 @@
 + [面试中你有遇到：MVCC机制的问题？](https://mp.weixin.qq.com/s/axtF7pHYNTF_X8qp77LjVw)
 + [MySQL MVCC快照机制的简易模型](https://mp.weixin.qq.com/s/O-K5hhRiovT6vXnVjoeINQ)
 + [mysql5.7系列-InnoDB的MVCC实现原理](https://mp.weixin.qq.com/s/bTSepZpfhVEKqcsQgJZxPw)
++ [MySQL MVCC原理揭秘：读写并发的关键设计](https://mp.weixin.qq.com/s/c9oJLfb370SWw6yn_Hxngg)
 
 #### 锁
 
@@ -885,6 +887,7 @@
 + [十六、Redis优化——影响Redis性能的因素](https://mp.weixin.qq.com/s/GjXp6UQ1APySVReXbRRMSQ)
 + [Redis四大基础功能详解：让你的缓存飞起来](https://mp.weixin.qq.com/s/VdelxONRRZ4ieLWdpNi06Q)
 + [不靠Redis也能抗住高并发？一文看懂秒杀核心](https://mp.weixin.qq.com/s/GQyQ9rQ_l-luVPkDFy0ZIg)
++ [Redis 是单线程模型？｜得物技术](https://mp.weixin.qq.com/s/Fqn-797GpsSKdVztzthSOg)
 
 #### 原理
 
@@ -927,6 +930,7 @@
 + [Redis核心机制解析：从事件循环到底层数据结构](https://mp.weixin.qq.com/s/kMuXdnr6FDK1pZfldONMDw)
 + [Redis五大核心数据结构详解：从入门到实战](https://mp.weixin.qq.com/s/airzkFtZoKaaQ51ivkm_3w)
 + [腾讯面试： 执行一条redis 命令时，底层干了什么？ 小伙懵逼，挂了](https://mp.weixin.qq.com/s/KCucVZtmP7ANmboumlICCA)
++ [Redis底层结构(二)-String对应数据结构SDS](https://mp.weixin.qq.com/s/HINBiFi4_QqsAbDhMi_jrw)
 + [Redis底层结构(六)-Zset对应数据结构(listpack、skiplist)](https://mp.weixin.qq.com/s/q7yZIOg_KgIM_-zVpDekqA)
 
 #### 分布式锁

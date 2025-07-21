@@ -91,6 +91,7 @@
 ### 函数/方法
 
 + [一篇初学者入门Python函数参数与返回值详细教程](https://mp.weixin.qq.com/s/WNqiCA_xi8lnR6gwQFPtvw)
++ [Python函数](https://mp.weixin.qq.com/s/I-ozhXNsTAPVtn4LVrZIwQ)
 + [【Python】Day8--函数基础](https://mp.weixin.qq.com/s/bh4NXj-hpcdO3VImG0jS7A)
 + [早知道就好了！关于Python魔法方法的清单](https://mp.weixin.qq.com/s/_simM8yANXfRedwAi0udEQ)
 + [python基础语法-函数](https://mp.weixin.qq.com/s/dNrazI1nOVYFvmTtUBNeDA)
@@ -190,6 +191,7 @@
 + [Python编程精进：多分派](https://mp.weixin.qq.com/s/EfQUIvxagv0eTQEE5eGRdQ)
 + [Python面向对象编程：从理论到实践](https://mp.weixin.qq.com/s/frggFrSbl9JqhnDRVk-Asw)
 + [Python「类 class」的入门理解](https://mp.weixin.qq.com/s/116Ad9UM4a-aKHYvcyR_pQ)
++ [带娃学python之十一篇：对象=属性+方法](https://mp.weixin.qq.com/s/mKbX2p7vTXkduK5AzcGChw)
 
 ### 核心库/模块
 
@@ -304,6 +306,7 @@
 + [Python: 从async/await理解协程的高效世界](https://mp.weixin.qq.com/s/PlQFlf_pwISAm3ZlDOB18A)
 + [Python 多线程编程指南](https://mp.weixin.qq.com/s/_ouJDgUSkmuLNcWJWC_wCQ)
 + [并发编程王牌：asyncio异步实战手册，吞吐量提升500%，高并发必备！](https://mp.weixin.qq.com/s/-F6j00YPrjbGNasoMII_ww)
++ [Python 多进程编程指南](https://mp.weixin.qq.com/s/0_kwbKhEUTB7w3GU-NtpJQ)
 
 ## 实践
 

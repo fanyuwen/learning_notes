@@ -150,6 +150,7 @@
 + [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
 + [面试官：说说什么是泛型的类型擦除？](https://mp.weixin.qq.com/s/ysadhX8xX2CLGCdZ91RLxA)
 + [121. Java 泛型 - 泛型类型](https://mp.weixin.qq.com/s/IqGhEGW60dIel-i6iL3FAg)
++ [122. Java 泛型 - 原始类型](https://mp.weixin.qq.com/s/lI4aR1vR9Cw0MDpNy-R1zA)
 + [123. Java 泛型 - 泛型方法](https://mp.weixin.qq.com/s/y5_r7i_C6qHWH53aGL-n6g)
 + [125. Java 泛型 - 泛型方法与有界类型参数](https://mp.weixin.qq.com/s/vt7fZweFpUiK174Bs4LE3w)
 + [127. Java 泛型 - 泛型类与子类型](https://mp.weixin.qq.com/s/4TJxUkpQPp5ZkBXxA_rRZw)
@@ -871,6 +872,7 @@
 + [Java线程池](https://mp.weixin.qq.com/s/E_qrCMzU-6zB0j9zdYnnmw)
 + [程序员必看！线程池3大高频深坑：无界队列秒变OOM炸弹 + 拒绝策略疯狂丢任务！](https://mp.weixin.qq.com/s/roTRqXbTdUaKW9CexgxY4A)
 + [Java线程池关闭机制深度解析：从状态机到资源回收](https://mp.weixin.qq.com/s/gX1bHSRDOtrnk5YzLLwZJA)
++ [Java线程池详解及使用指南](https://mp.weixin.qq.com/s/s-cv0gLkp6JK2JplQ5j3ZA)
 
 #### 锁
 
@@ -1109,6 +1111,7 @@
 + [工作中常见的OOM？你了解JVM调优吗？](https://mp.weixin.qq.com/s/xNEcZ43NL3N2FRQ82jHJLg)
 + [Java中的对象一定在堆上分配内存吗？](https://mp.weixin.qq.com/s/ZyeHxtqkGSr2G0qqWGWnyA)
 + [如何解决 Java 中的内存溢出（OutOfMemoryError）问题](https://mp.weixin.qq.com/s/vP5j72gnn5bqzRuDKNixDg)
++ [Java 内存模型（Java Memory Model）](https://mp.weixin.qq.com/s/5qvSJcGQn2nx0iFarl8NXA)
 
 ### 类加载
 
@@ -1137,6 +1140,7 @@
 + [JVM 类加载机制](https://mp.weixin.qq.com/s/LJqD3mRKqN4V2ZSBBclt_Q)
 + [双亲委派：JVM 里那个“先问爸爸”的类加载套路](https://mp.weixin.qq.com/s/PeyKjPjumLCSimBqCyxIQA)
 + [JVM-类加载机制](https://mp.weixin.qq.com/s/3djdytL6TudyHwCZg07cCQ)
++ [运行时报错“类找不到”？先分清是ClassNotFoundException还是NoClassDefFoundError！](https://mp.weixin.qq.com/s/vL2XaoXP5oOkGcaSZI01iw)
 
 ### GC
 
@@ -1286,6 +1290,7 @@
 + [Java集合框架：HashSet、LinkedHashSet 和 TreeSet 的对比与使用](https://mp.weixin.qq.com/s/kC_1ed4YwRXOBH2LDb4xLQ)
 + [Queue&Deque详解](https://mp.weixin.qq.com/s/mwNo_u0fVhWwEpd2Q2OQQw)
 + [List创建的五种方式](https://mp.weixin.qq.com/s/qLDNnm925nYxS63TjbU15w)
++ [Java集合--LinkedList源码可视化](https://mp.weixin.qq.com/s/CEpTaNSpCEbf4OYuTEtXbA)
 
 #### map
 
@@ -1320,6 +1325,8 @@
 + [为什么多线程操作HashMap会导致书本神秘失踪？](https://mp.weixin.qq.com/s/lVyG1_CpJ0J_DvHtPJlQog)
 + [HashMap不安全？ConcurrentHashMap也有坑？Java Map使用全解析](https://mp.weixin.qq.com/s/yyWZg34RLRUlsg0VrF9XkA)
 + [HashMap居然可以和它直接合体？？？](https://mp.weixin.qq.com/s/bLNWiluCExxzsEcrPYZtBg)
++ [HashMap集合--基本操作流程的源码可视化](https://mp.weixin.qq.com/s/cbXqfEhKBn-fbR-7laMnKQ)
++ [TreeMap集合--底层原理、源码阅读及它在Java集合框架中扮演什么角色？](https://mp.weixin.qq.com/s/sHl-skrq5zIZihtcxfQE4g)
 
 ### Optional
 
@@ -1721,6 +1728,7 @@
 + [Arthas 实战指南：阿里开源的 Java 诊断神器，10 分钟定位线上 bug！](https://mp.weixin.qq.com/s/yyiH6Q72ve_5EC38RECz9g)
 + [3 年经验凭啥碾压 5 年老鸟？全靠 Arthas 这手神操作！](https://mp.weixin.qq.com/s/seChFMwOwxdBEnWLe4Ql9w)
 + [学会 arthas，让你 3 年经验掌握 5 年功力！](https://mp.weixin.qq.com/s/JMTaOpzoj_7cNzPRKty6pQ)
++ [Arthas在内存马查杀中的应用](https://mp.weixin.qq.com/s/SFG1Ekla_70FjDUuZdKdyg)
 
 ## caffeine
 
@@ -1737,6 +1745,7 @@
 + [缓存之美：万文详解 Caffeine 实现原理（下）](https://my.oschina.net/u/4090830/blog/18017722)
 + [Caffeine：从动态过期时间到时间过期原理](https://mp.weixin.qq.com/s/3dOqFfzk12_Va5BmoSA_9g)
 + [Caffeine缓存王者归来：本地缓存性能提升300%的秘密，架构师必备的调优利器！](https://mp.weixin.qq.com/s/Aw6udavUNViaNbczDBOJWA)
++ [响应式编程实践-用Caffeine构建响应式缓存](https://mp.weixin.qq.com/s/bv5JxHQxnALFXc25R0cD0Q)
 
 ## consul
 
@@ -2246,6 +2255,7 @@
 + [怎么在 Spring 中优雅使用 Function 注入？](https://mp.weixin.qq.com/s/-4CwH_x3nrCUJtT0Yt_t9Q)
 + [在 Spring 中运行时注册 Bean](https://mp.weixin.qq.com/s/HO4QO93iwQIqMTzW37wjfg)
 + [Spring 中如何将值注入到静态字段中](https://mp.weixin.qq.com/s/BKWjrqQeuOLBqa3dRsOeAQ)
++ [颠覆认知！我从 Spring 源码里学到的一个隐藏高手级技巧](https://mp.weixin.qq.com/s/5ZPgnOZyDVhTvLtDOHm10A)
 
 #### 原理&源码
 
@@ -3393,6 +3403,7 @@
 + [Java进阶手册（二）SpringBoot返回JSON数据及封装](https://mp.weixin.qq.com/s/ARvp70sEj1OZClIZGiuXwA)
 + [SpringBoot数据校验：用Validation让代码少30%的if判断](https://mp.weixin.qq.com/s/cg5-C7jBWmPBqMnK22zt1Q)
 + [Spring Boot时间升级指南：从Date到LocalDateTime的优雅迁移之路](https://mp.weixin.qq.com/s/-tMKHTCU-_c2BTalH3MgUw)
++ [Java进阶手册（三）深入分析SpringBoot中MVC的支持](https://mp.weixin.qq.com/s/_IrtekAsYJIL8zr_GH2e2w)
 
 ##### 文件上传下载
 
@@ -3971,6 +3982,7 @@
 + [SpringBoot+MyBatis多数据源配置与切换实战](https://mp.weixin.qq.com/s/u7u9Jgkd7FvdZ8Uyc6zL1Q)
 + [SpringBoot集成MyBatis的SQL拦截器实战](https://mp.weixin.qq.com/s/m_Ktymh_fh_QTTznR2qJqQ)
 + [SpringBoot+Jasync异步化改造狂降90%耗时，百万并发下的性能杀戮](https://mp.weixin.qq.com/s/Svbgcl_q41wGZdpwNAxq1g)
++ [破局百万并发！SpringBoot × Jasync 异步重构实战，延迟压缩90%！](https://mp.weixin.qq.com/s/sbxCbgelxQXnQ3OQ3GLtTg)
 + [Spring Boot + URule：零代码实现复杂业务规则，可视化规则引擎深度实战](https://mp.weixin.qq.com/s/3t8oRTc3D-zxir_AoRdOPA)
 + [Java Agent + SpringBoot 实现真正的无侵入式性能监控](https://mp.weixin.qq.com/s/1LhUX7kwiy77gNZVGRGLjw)
 
@@ -3990,6 +4002,7 @@
 + [Spring Boot中用自定义注解优雅统计方法执行时间](https://mp.weixin.qq.com/s/Y837MRCm3_ke7xAjdyI-og)
 + [【实战干货】SpringBoot支付系统设计：对比写代码才优雅！](https://mp.weixin.qq.com/s/2EJu7xY4R8WhtaOlrIR93g)
 + [Spring Boot 实现轻量级 SQL 监控实战全解](https://mp.weixin.qq.com/s/tStvhVarcIG-t8fFf2RWDw)
++ [重构配置利器！Enum 在 Spring Boot 中的高级用法全解析](https://mp.weixin.qq.com/s/19iMPklO7S6TPKS28aoeRA)
 
 #### 原理&源码
 

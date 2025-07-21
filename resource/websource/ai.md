@@ -43,6 +43,10 @@
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 + [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)
 
+## LangChain
+
++ [LangChain入门教程【一】核心组件基础篇](https://mp.weixin.qq.com/s/ZrTsfkeGF5DyRQVfj2xxfw)
+
 # 算法
 
 + [K-means聚类是一种非常流行的聚类算法](https://mp.weixin.qq.com/s/8W5SS8pxZjyYoeboqmdL1A)

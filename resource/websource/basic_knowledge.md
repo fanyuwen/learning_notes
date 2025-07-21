@@ -163,6 +163,8 @@
 + [Linux进程管理](https://mp.weixin.qq.com/s/lsDSkRfzZfWKvYisLcc4HQ)
 + [Linux 内存管理之内存管理子系统系统介绍](https://mp.weixin.qq.com/s/hJ78oPJu6hqdYlf2MoUwZg)
 + [Linux指南(十)：文件、一切皆文件](https://mp.weixin.qq.com/s/6cvTKiZ0BHuePTNsZ-FKpg)
++ [Linux互斥锁使用陷阱：五大常见错误与解决方案](https://mp.weixin.qq.com/s/AqrRXh82oPxKz5Mwpk_oDw)
++ [【Linux】网络知识点——物理层详解](https://mp.weixin.qq.com/s/Xg3RZEDrdOZVrhSpF2Erfg)
 
 ### 网络
 
@@ -258,6 +260,8 @@
 + [SSH端口转发技术详解](https://mp.weixin.qq.com/s/UK4M39y_FKWaGrUY-2E7Sw)
 + [Linux Shell脚本：条件测试语句](https://mp.weixin.qq.com/s/IYBIYhFYGxOInqukj-5QcQ)
 + [15个救命grep命令，运维人必存！](https://mp.weixin.qq.com/s/vnRFzv-rPESfnAhTBhht9A)
++ [Linux Shell脚本：流程控制](https://mp.weixin.qq.com/s/XU1drs7hhBxfTxnL9LsWdA)
++ [章节2：基本的Linux命令，【df】 命令常用的实用示例](https://mp.weixin.qq.com/s/2NKVvmqPsNHVLJewSymV8w)
 
 ### 发行版信息
 
@@ -330,6 +334,7 @@
 + [面试官：说说服务器CPU 100%的问题如何排查解决](https://mp.weixin.qq.com/s/xIIG5oLIyqkrFOLZnBkUFg)
 + [CPU和CPU占用率简介介](https://mp.weixin.qq.com/s/Niuq8bZQlPQv0pJBD3ARbQ)
 + [CPU寻址工作原理](https://mp.weixin.qq.com/s/fCTP-EFYWVsMp9tAjMzC3w)
++ [系统CPU飙升易忽视的隐形杀手](https://mp.weixin.qq.com/s/fe9KG3D4efOmBUXwHKgXaA)
 
 ### 并发
 

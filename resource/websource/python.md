@@ -315,6 +315,7 @@
 + [Python 最佳实践 (4)](https://mp.weixin.qq.com/s/31ZdXx9AW2YscmlHroHoWQ)
 + [Python 最佳实践 (5)](https://mp.weixin.qq.com/s/Jnn9GqH3OiGHS6CKeCp5uQ)
 + [Python笔记](https://mp.weixin.qq.com/s/24d4PPzxybqpNMEUECkgjw)
++ [Python高手秘笈第1天：上下文管理器，用with把资源管理玩出花来](https://mp.weixin.qq.com/s/knYtaOAlU-q7ychf7H3WxQ)
 + [从文件操作到分布式锁：Python上下文管理器的隐藏实力](https://mp.weixin.qq.com/s/MifZ-8E_7VNBlhw1Dtyyhw)
 + [Python目录规范：呐，这个就叫专业！](https://mp.weixin.qq.com/s/uJcdf2eTPB-NDFlLiYBQ9g)
 + [Python编程精进：正确编写多行注释的方法](https://mp.weixin.qq.com/s/QhjxEopVmcILCPwvoWDyEw)

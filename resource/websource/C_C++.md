@@ -175,6 +175,10 @@
 + [C++语言陷阱㉖：volatile 与内存模型误解](https://mp.weixin.qq.com/s/W0X6snXkwXrM7rV19u31EQ)
 + [C++语言陷阱㉗：线程安全与并发数据结构陷阱](https://mp.weixin.qq.com/s/PZW0sYsQKAmm5FcAEhKZhA)
 + [C++函数模板详解](https://mp.weixin.qq.com/s/kXwy_rdk1Q-Ha4vnZjot8g)
++ [移动语义和拷贝语义的区别](https://mp.weixin.qq.com/s/P12ceAEiW3M5g5wmvyXe1g)
++ [C++中的移动语义](https://mp.weixin.qq.com/s/SZ2wl47mF3_GhxSH1-5avg)
++ [移动语义的实现机制](https://mp.weixin.qq.com/s/1MPhalIZkShhzUUeMcYEwA)
++ [深入C++完美转发：解锁高效编程的密码](https://mp.weixin.qq.com/s/dv6raLWv7kxaibw2efzrCg)
 
 #### 指针
 
@@ -229,6 +233,8 @@
 + [每日C++——std::addressof](https://mp.weixin.qq.com/s/NrK3t0QGDi7jOluKLR8MZA)
 + [std::locale框架的使用举例](https://mp.weixin.qq.com/s/R5n9W7KV3iiySN9Lz46S6Q)
 + [C++20 同步原语新篇章：std atomic_ref 与 std latch 深度解析](https://mp.weixin.qq.com/s/cOOBtelfXWpz8toP3eeaIw)
++ [C++中的cmath库](https://mp.weixin.qq.com/s/3jcDyoPDsabUn3ERKXfHyw)
++ [C++ cstring 库解析：C 风格字符串函数](https://mp.weixin.qq.com/s/MuwvfTLTck7ST1V4tVGW0g)
 
 #### 新特性
 
@@ -276,6 +282,8 @@
 + [C++内存管理魔盒：20分钟逆向拆解new/delete终极性能法则](https://mp.weixin.qq.com/s/31V2fsNqqbpZkBd6mVzBuA)
 + [c++重载运算符和重载函数（图、文、代码）](https://mp.weixin.qq.com/s/BbNJIr6kDYvpkHqxUoMAqw)
 + [【C++】placement new](https://mp.weixin.qq.com/s/o0B1Uj7Io3JnCMf6_vhztw)
++ [C++面向对象编程：类与对象的深度解析](https://mp.weixin.qq.com/s/3gnBMPrXYgk6Duq2ctgrTA)
++ [C++语言陷阱⑤：类设计中的隐形危机](https://mp.weixin.qq.com/s/KS3EaPhyjgZYSe3NCwRDaA)
 
 ##### 设计模式
 
@@ -302,6 +310,7 @@
 + [C++er 的视角看 Rust：从基于锁的并发编程谈起](https://mp.weixin.qq.com/s/n41ZeIlWuH-HIKhtLjTnCA)
 + [C++中标准线程库的使用](https://mp.weixin.qq.com/s/vWDx_wwcvSJ-6zoU6Dm9fw)
 + [如何优化C++线程池的性能](https://mp.weixin.qq.com/s/32z5VyL5L-eVMT3zr4jT4A)
++ [线程池（C++）](https://mp.weixin.qq.com/s/hNAEi4PNFPjhorF_in8pVw)
 
 #### 扩展
 
@@ -449,6 +458,7 @@
 + [C语言内存管理：malloc/free的甜蜜陷阱](https://mp.weixin.qq.com/s/AFcLMf5lgqmbLGSj7birCw)
 + [编程语言变量覆盖的内部原理是什么?为什么C语言全局或静态变量初始值是0?](https://mp.weixin.qq.com/s/DDbH-iiWMI5u5l_3NxBRiQ)
 + [彻底搞懂程序链接过程之动态链接](https://mp.weixin.qq.com/s/SkB3WBurHMk1u4ysnY1DqQ)
++ [C语言内存探秘：揭秘栈区、堆区、全局区、常量区和代码区的神秘面纱，你真的了解吗？](https://mp.weixin.qq.com/s/QAv9icLgMPo7nd7Ho5gCfA)
 
 #### 宏
 
@@ -512,6 +522,7 @@
 + [漫画 | 为什么C语言永不过时？](https://mp.weixin.qq.com/s/8KoL0Eoi2j4ANlxNEpGfBA)
 + [C语言学习指南：这些核心知识点你掌握了吗？](https://mp.weixin.qq.com/s/h5xCE0XOZrV5i8f7o8qjlQ)
 + [Github上热门 C 语言项目汇总！](https://mp.weixin.qq.com/s/a9PvRgriDJ_E17hvX82EVQ)
++ [C语言在操作系统中的应用：内核开发](https://mp.weixin.qq.com/s/v5dQNHegqBtHzPfbzsP4Ww)
 
 #### 嵌入式
 
@@ -590,6 +601,9 @@
 + [嵌入式分享#26：为什么要sync？](https://mp.weixin.qq.com/s/q0w62l2jgT9efdlAtNYYwA)
 + [嵌入式面试指南：你必须掌握的MCU启动过程](https://mp.weixin.qq.com/s/kAVXvYiyuP9Y2L9fkr994g)
 + [学嵌入式必学 C 语言？80% 工程师都在用的核心原因 + 语法速通指南](https://mp.weixin.qq.com/s/mMETgK0j_uNGs8ETWVaseQ)
++ [FreeRTOS多任务开发：打造高效稳定的嵌入式系统](https://mp.weixin.qq.com/s/89lZLPuJscHBy0nmvbeYzA)
++ [嵌入式面试指南：你必须掌握的Flash知识](https://mp.weixin.qq.com/s/K70cGheqtAVaeFY3iQaFRA)
++ [嵌入式软件编程，如何提高代码的可移植性？](https://mp.weixin.qq.com/s/EJbQoXEPWhxh-pmjEFclEA)
 
 # ARM
 

@@ -4249,6 +4249,7 @@
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
++ [深入浅出AST：如何用树形结构解构代码逻辑](https://mp.weixin.qq.com/s/SzfQoumtAwQgfeuE7sZctg)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
 + [JAVA：柔性一致性策略 BASE 原则](https://mp.weixin.qq.com/s/NXSy1oKE5LaBlodYJL5GbA)
 + [JAVA：分布式一致性 Raft 算法的技术指南](https://mp.weixin.qq.com/s/09BrC93PK8sq2ofsIna2QA)
@@ -4442,3 +4443,4 @@
 + [纯干货 | Dolphinscheduler Master 模块源码剖析](https://my.oschina.net/dailidong/blog/18043611)
 + [Worker模块源码实战：万字长文解析DolphinScheduler如何实现亿级任务调度](https://mp.weixin.qq.com/s/W_25tDZ6SdOQmWXde14D_w)
 + [每天骑的共享单车是什么通信原理，有人了解过吗？](https://mp.weixin.qq.com/s/Io_nq6u4xSE_oUdLC7jTfQ)
++ [游戏开发：配置表字符串池&延迟加载](https://mp.weixin.qq.com/s/Xtp_qtb8UV4kT_5TRk2IPw)

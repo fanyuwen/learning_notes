@@ -222,6 +222,7 @@
 + [JavaScript对象与元编程](https://mp.weixin.qq.com/s/LvTB8YuQLACEaHHtQBmjLA)
 + [深入浅出JavaScript (八) 异步编程](https://mp.weixin.qq.com/s/iI_6HzAzSMUXyerAWNM45g)
 + [为何 async/await 会“阻塞”页面？并发处理的正确姿势](https://mp.weixin.qq.com/s/NG0xv9Hy5OA3-uiT6X2gfw)
++ [JavaScript 异步编程指南：async/await 与 Promise 该怎么选？](https://my.oschina.net/powertoolsteam/blog/18684500)
 
 # 框架
 

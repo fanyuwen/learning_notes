@@ -153,6 +153,7 @@
 + [Python编程精进：`__init__` 并非构造函数](https://mp.weixin.qq.com/s/ZtnrqEzs4SbxkuxgKQNXeA)
 + [苦练Python第17天：你必须掌握的Python内置函数](https://mp.weixin.qq.com/s/OyKJmOwrOQfOWoFp0lAxUQ)
 + [Python 函数](https://mp.weixin.qq.com/s/roz-ipogllMIYI2AmM_eVw)
++ [Python学习必备：20个高使用率函数讲解](https://mp.weixin.qq.com/s/oTzooHBv2d4Q5yBhPCV8pQ)
 
 ### 面向对象
 
@@ -192,6 +193,7 @@
 + [Python面向对象编程：从理论到实践](https://mp.weixin.qq.com/s/frggFrSbl9JqhnDRVk-Asw)
 + [Python「类 class」的入门理解](https://mp.weixin.qq.com/s/116Ad9UM4a-aKHYvcyR_pQ)
 + [带娃学python之十一篇：对象=属性+方法](https://mp.weixin.qq.com/s/mKbX2p7vTXkduK5AzcGChw)
++ [Day19-Python进阶探索：面向对象编程实战](https://mp.weixin.qq.com/s/m6aDoAgNYmn_qfrwqBb0mw)
 
 ### 核心库/模块
 
@@ -281,6 +283,8 @@
 + [30天学会Python编程：17.Python标准库高级模块使用介绍](https://mp.weixin.qq.com/s/ILmHEAceuVMi0XQCMo3D7g)
 + [苦练Python第16天：Python模块与import魔法](https://mp.weixin.qq.com/s/RjwIlPWIgOkdlPRILgFgBg)
 + [Python内置模块：turtle Gui 编程实践](https://mp.weixin.qq.com/s/SkKfkIQVkLkVbGeFk74EEw)
++ [Python内置模块：timeit测量小代码片段的执行时间](https://mp.weixin.qq.com/s/5zccYEWSJRLsEsGOQef2Ow)
++ [苦练Python第32天：Python百宝箱，collections模块5大杀器](https://mp.weixin.qq.com/s/0_Un9GZ5f-QUM8ZBzC7a3w)
 
 ### 异步/多线程
 
@@ -326,6 +330,8 @@
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
 + [Python进阶之路：第十六章 文件读写实战，一次掌握打开、读取与保存技巧！](https://mp.weixin.qq.com/s/3t8iURCJ1OH0QcZvUCw9vA)
 + [Python文件及IO操作：轻松掌握文件读写](https://mp.weixin.qq.com/s/lCzb_1rnRuCNkm4Vy6SMRg)
++ [苦练Python第31天：enumerate、zip与元组解包](https://mp.weixin.qq.com/s/VYXwQP-qjH2UcNUCyAtTtw)
++ [30天学会Python编程：13. Python迭代器与生成器编程指南](https://mp.weixin.qq.com/s/NmM6LKKbzzo5Q_tEqTIR8Q)
 + [python基础语法-读写文件](https://mp.weixin.qq.com/s/Cky9ERdWx-0Lh0K65hqYEA)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [python学习13-文件处理](https://mp.weixin.qq.com/s/5vcofKlEIjMgl3gBookK7A)

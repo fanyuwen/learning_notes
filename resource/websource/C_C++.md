@@ -179,6 +179,7 @@
 + [C++中的移动语义](https://mp.weixin.qq.com/s/SZ2wl47mF3_GhxSH1-5avg)
 + [移动语义的实现机制](https://mp.weixin.qq.com/s/1MPhalIZkShhzUUeMcYEwA)
 + [深入C++完美转发：解锁高效编程的密码](https://mp.weixin.qq.com/s/dv6raLWv7kxaibw2efzrCg)
++ [C++中的Lambda 表达式](https://mp.weixin.qq.com/s/uF7pZHFTa8KshOFC_SuPzQ)
 
 #### 指针
 
@@ -191,6 +192,7 @@
 + [C++语言陷阱⑯：智能指针滥用与循环引用陷阱](https://mp.weixin.qq.com/s/qBNr5re-sjX0AsfNwWiCBg)
 + [C++ 的智能指针不就基本解决了野指针问题了吗?为什么还要吹捧rust的内存安全?](https://mp.weixin.qq.com/s/qSR6pJx159Q2fxyIJTRk1w)
 + [函数对象 vs 函数指针 vs lambda：该用哪个才高效？](https://mp.weixin.qq.com/s/bluxesbkF-XEgL7L-ykvkw)
++ [C++智能指针：shared_ptr、unique_ptr与weak_ptr的理解与使用](https://mp.weixin.qq.com/s/RUIXAQL67kQMoc8BezQA4A)
 
 #### 数据结构&算法
 
@@ -284,6 +286,9 @@
 + [【C++】placement new](https://mp.weixin.qq.com/s/o0B1Uj7Io3JnCMf6_vhztw)
 + [C++面向对象编程：类与对象的深度解析](https://mp.weixin.qq.com/s/3gnBMPrXYgk6Duq2ctgrTA)
 + [C++语言陷阱⑤：类设计中的隐形危机](https://mp.weixin.qq.com/s/KS3EaPhyjgZYSe3NCwRDaA)
++ [C++中的继承](https://mp.weixin.qq.com/s/SowC723fnZEx35JSyQAqrg)
++ [C++ 中的类与对象](https://mp.weixin.qq.com/s/ecRGRSf_qgBLawRsTqx7-g)
++ [C++中的静态成员](https://mp.weixin.qq.com/s/LWSybqAWBkpHlTWbp_RckA)
 
 ##### 设计模式
 
@@ -369,6 +374,7 @@
 + [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://mp.weixin.qq.com/s/tJJWgDVK8kbaRzP9NMQeVA)
 + [微软Visual C++编译器团队架构师力挺C++26，称其是C++11以来最具影响力的版本](https://mp.weixin.qq.com/s/qH0pDKhe6e5SuSAS_JaM9A)
 + [告别头文件，编译效率提升 42%！C++ Modules 实战解析 | 干货推荐](https://my.oschina.net/u/5265430/blog/16460343)
++ [为什么老外喜欢用for(;;)，我们喜欢用While(1)来实现“死”循环](https://mp.weixin.qq.com/s/vnCPZHr3QJ3cm-PBH2TK_A)
 
 ### 学习资源
 

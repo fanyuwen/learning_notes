@@ -35,6 +35,7 @@
 ## linux
 
 + [Centos7服务器防火墙设置教程](https://mp.weixin.qq.com/s/qHGyBZiSfNOj39QUJWuO9g)
++ [Linux性能剖析：CPU/内存/网络/I/O压力测试指南](https://mp.weixin.qq.com/s/EcCwou9yEdi2_wj0_JVqBw)
 
 ### 实践
 
@@ -370,6 +371,7 @@
 + [为什么buffer pool read增高会导致CPU变高](https://mp.weixin.qq.com/s/unlbPuBVQv5TJ723aBp2gw)
 + [操作系统之内存管理](https://mp.weixin.qq.com/s/END8A9i6qSCSz5Eat5J7ow)
 + [计算机操作系统 - 内存操作 API](https://mp.weixin.qq.com/s/9JqpBclcAr9kp4ko89B5Sg)
++ [存储器RAM和ROM的区别](https://mp.weixin.qq.com/s/z3x0hCI6Gsm9KBg0YDzpvw)
 
 ## GPU
 
@@ -697,6 +699,7 @@
 + [从青铜到王者：带你吃透epoll核心机制](https://mp.weixin.qq.com/s/PwPzH2MEuH4jmTqH6yjU-g)
 + [内存IO原理大起底：那些你必须知道的底层真相](https://mp.weixin.qq.com/s/Uq968KVp8ja4eOi1aPj_RA)
 + [零拷贝技术：让你的程序性能翻倍的秘密武器](https://mp.weixin.qq.com/s/ytf3FQCwbBoeDXwKDC-DwA)
++ [彻底搞懂零拷贝：提升系统性能的关键技术](https://mp.weixin.qq.com/s/ElltKyrFAPyor_PdinkyKA)
 
 ## 字符编码
 

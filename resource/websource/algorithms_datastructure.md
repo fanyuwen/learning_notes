@@ -144,6 +144,7 @@
 + [从代码看排序：冒泡排序与插入排序](https://mp.weixin.qq.com/s/kKX0AnrBBDi0Z5ZHogAjug)
 + [数据结构之拓扑排序](https://mp.weixin.qq.com/s/2Ej6u7fLcKUZUCNBXVw4pA)
 + [腾讯一面：如何充分利用多核CPU的性能，快速对一个2千万大小的数组进行排序？](https://mp.weixin.qq.com/s/BrXoi3auh6ExJ4on4dJoHw)
++ [快速排序，为何 “快”？](https://mp.weixin.qq.com/s/yaAg1nKpkH3qy32jI5t28Q)
 
 # 密码学
 

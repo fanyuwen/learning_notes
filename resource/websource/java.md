@@ -810,6 +810,7 @@
 + [Java线程-控制并发流程](https://mp.weixin.qq.com/s/Lc2WnW6QQELsy3fdlS3dQg)
 + [Java中线程实用小技巧，如何等待全部线程执行完再执行其它任务？](https://mp.weixin.qq.com/s/ZSxl7euU4Tlrt38gwmIJ1A)
 + [Java并发编程基础小结](https://mp.weixin.qq.com/s/V2mR2mK7H9v8_vQzZUPOig)
++ [Java虚拟线程：告别“线程池爆炸”，轻松应对10万+并发！](https://mp.weixin.qq.com/s/3JTIw73yPHlmC2h14r5Zkg)
 
 #### CAS
 
@@ -1662,6 +1663,7 @@
 + [Java安全模型讲解（沙箱机制）——SecurityManager安全管理器、AccessController访问控制器解析](https://mp.weixin.qq.com/s/hczvWCjADdz4HOpaHMh_3A)
 + [使用 Java 编译器 API 进行 Java 代码编译](https://mp.weixin.qq.com/s/lZvghOjaqv2xpCXv4gZFxw)
 + [JVM的“随身听诊器”：ManagementFactory](https://mp.weixin.qq.com/s/d7-kgEuoS57jHyCalYoVFA)
++ [Java Modular解锁SPI机制实现新姿势](https://mp.weixin.qq.com/s/11Tgc9d93wMoDwTuUrwU5g)
 
 # 包管理工具
 
@@ -2055,6 +2057,7 @@
 + [【java面试100问】70 OpenFeign第一次调用为什么会很慢？](https://mp.weixin.qq.com/s/VCEngR1TimL01x5LDHEVpw)
 + [基于 OpenFeign 的多渠道支付接入完整方案](https://mp.weixin.qq.com/s/T846f7RUMXpCcSe2IFb8NQ)
 + [使用OpenFeign实现微服务间通信](https://mp.weixin.qq.com/s/v2ADMRd_vmGirxFyI_ftuw)
++ [FeignClient动态路由新玩法：基于RequestInterceptor实现多环境/多租户目标服务无缝切换](https://mp.weixin.qq.com/s/Spbvs0eD65k8B7TNSRrB6Q)
 
 ## quarkus
 
@@ -2288,6 +2291,7 @@
 + [Spring IOC 容器核心阶段解密：Bean实例化全流程深度剖析](https://mp.weixin.qq.com/s/o9qfJGJjKTfnFcVVJY358A)
 + [看一遍就理解：Spring 的循环依赖问题](https://mp.weixin.qq.com/s/u_D7ZLWKnutKHe7gV6uscA)
 + [Spring容器启动终章：finishRefresh()完成刷新全流程详解](https://mp.weixin.qq.com/s/zB0P18rEiiufjxZNwL_gDA)
++ [Spring循环依赖这样解决，一看就懂](https://mp.weixin.qq.com/s/Nt36Tk4j_fBs4rLNQLxWXg)
 
 ### 新版本新特性
 

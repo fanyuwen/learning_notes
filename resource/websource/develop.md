@@ -135,6 +135,8 @@
 + [P8架构师揭秘：DDD领域驱动设计在复杂业务系统中的最佳实践！](https://mp.weixin.qq.com/s/jUEk3TjCxjXJIV4LT3QT8A)
 + [领域驱动设计(DDD)如何重塑金融系统架构？](https://mp.weixin.qq.com/s/QaBPxSpa-Fvhme80OLV6ww)
 + [架构设计内容分享—领域驱动设计（DDD）,优秀架构师的必修课](https://mp.weixin.qq.com/s/kDYRG3LsZ6bQM0gNR8tN_w)
++ [架构设计内容分享—落地领域驱动设计DDD，核心是思维方式的改变](https://mp.weixin.qq.com/s/-iIHtPfi0yGbHV1gVmHkRQ)
++ [第9章：架构思维与设计能力（下）：领域驱动设计（DDD）与复杂系统治理](https://mp.weixin.qq.com/s/yQqGJzpuPEf1RIMxGTJ8Zg)
 
 ## 微服务
 
@@ -739,6 +741,7 @@
 + [高并发秒杀系统如何设计](https://mp.weixin.qq.com/s/TlS5YRoCrw7kyEduCC49Aw)
 + [业务复杂度治理方法论 -- 十年系统设计经验总结](https://my.oschina.net/u/4090830/blog/18043733)
 + [高并发场景下的库存管理，理论与实战能否兼得？](https://my.oschina.net/u/4090830/blog/17989921)
++ [多租户应用程序架构--挑战与实践](https://mp.weixin.qq.com/s/0wocLjTmJGT6jdIWjEX8UA)
 
 ## 代码相关
 
@@ -903,6 +906,7 @@
 + [Git命令这样用，代码管理轻松搞定](https://mp.weixin.qq.com/s/wn3dOTC547arIeF8F-Nfmw)
 + [Git远程仓库与协作技巧详解](https://mp.weixin.qq.com/s/nTjT8MBi15xX8Fe1EYn1JA)
 + [你可能忽略的git高阶用法](https://mp.weixin.qq.com/s/gxYDaP7iAIDEzh58Zq_n1w)
++ [Git 高效操作指南：撤销、冲突解决与实用技巧](https://mp.weixin.qq.com/s/e7k1EaEFJ_KOMo0OOx2nkg)
 
 ### 编程范式
 

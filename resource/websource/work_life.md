@@ -94,6 +94,7 @@
 + [你怎么看待满嘴高并发，编码能力却稀松平常的程序员？](https://mp.weixin.qq.com/s/yt_YxLGTPzow4WfFrx1Vkw)
 + [技术重构遭反噬！CTO震惊全公司的决定：炒掉整个后端团队！代码全用Rust重写！事后血泪教训：Rust 没错，错的是技术抹杀团队](https://mp.weixin.qq.com/s/LmFPF2bGvoOAYzLaPp-EWQ)
 + [越沉迷技术，离钱越远](https://mp.weixin.qq.com/s/PF_pEmQWw59oJ1RAXXI6rQ)
++ [为什么大部分码农做不了软件架构师？](https://mp.weixin.qq.com/s/p6NuJbL0qOjJ9v_pNDDSpQ)
 
 # 个人成长
 

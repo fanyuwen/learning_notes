@@ -441,6 +441,7 @@
 + [MySQL：SQL 慢查询优化的技术指南](https://mp.weixin.qq.com/s/J4TR9IAz63MrdD3aYRpAcQ)
 + [面试官：MySQL explain你会关注哪些字段](https://mp.weixin.qq.com/s/-rW1MNLKNvsZp1Llrn_jsg)
 + [面试官：MySQL 自增 ID 超过 int 最大值怎么办？](https://mp.weixin.qq.com/s/lIx-8LwoSeRhDWbxqUmaiw)
++ [Explain执行计划全解读：让你的SQL快如闪电（一）](https://mp.weixin.qq.com/s/c1mH9d3ti5IxH8_IseIGaQ)
 
 #### 存储引擎
 
@@ -888,6 +889,7 @@
 + [Redis四大基础功能详解：让你的缓存飞起来](https://mp.weixin.qq.com/s/VdelxONRRZ4ieLWdpNi06Q)
 + [不靠Redis也能抗住高并发？一文看懂秒杀核心](https://mp.weixin.qq.com/s/GQyQ9rQ_l-luVPkDFy0ZIg)
 + [Redis 是单线程模型？｜得物技术](https://mp.weixin.qq.com/s/Fqn-797GpsSKdVztzthSOg)
++ [Redis进阶（四）Redis的旁路缓存策略](https://mp.weixin.qq.com/s/JVGNsqRhJ06XgLTb36Ru-g)
 
 #### 原理
 

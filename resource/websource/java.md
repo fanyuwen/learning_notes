@@ -161,6 +161,7 @@
 + [133. Java 泛型 - 目标类型与方法参数：重载解析与类型推导](https://mp.weixin.qq.com/s/1a_YRkY9SC7bPZDXOrc-aA)
 + [137. Java 泛型 - 泛型与通配符：子类型化关系](https://mp.weixin.qq.com/s/Xao6ArYxcicE6XLcRehJsQ)
 + [138. Java 泛型 - 通配符捕获Helper程序方法：类型安全解决方案](https://mp.weixin.qq.com/s/qMMOh58yZdo0o4GVHpS9TQ)
++ [139. Java 泛型 - Java 通配符使用准则](https://mp.weixin.qq.com/s/N0x3RxOISZLMwxdXgPRCcQ)
 
 ### 面向对象
 
@@ -1940,6 +1941,7 @@
 + [MyBatis 从基础到高级：25 个实用配置 + SQL 映射案例](https://mp.weixin.qq.com/s/ePQulagMcomB9HEGETVW9g)
 + [告别重复SQL，MyBatis这样用效率翻倍](https://mp.weixin.qq.com/s/UqKu3A0YLv56mA0fsxWLiQ)
 + [MyBatis进阶：15个硬核技巧让代码瘦一半](https://mp.weixin.qq.com/s/eVgJfvv1_uwwqxYIeaecew)
++ [MyBatis 总掉坑？15 个基础技巧帮你站稳脚](https://mp.weixin.qq.com/s/gD2IKv5Gh5kg-perft2Fvw)
 
 ### plus
 
@@ -2439,6 +2441,7 @@
 + [搞懂 Spring Batch](https://mp.weixin.qq.com/s/B52m80_ra0MuJPKBZ2VYaA)
 + [大厂都在用的批处理框架：Spring Batch零基础速成指南，效率飙升500%！](https://mp.weixin.qq.com/s/x3ASf9q3-rLa0H5wuefwkA)
 + [Spring Batch 秒级处理百万级数据，内存占用降低95%](https://mp.weixin.qq.com/s/cRdxd9_2_L05cBrV1kp95g)
++ [别再手写批处理了！Spring Batch 让数据处理效率飙升 10 倍](https://mp.weixin.qq.com/s/q4hKOvP3RrNB5LHS5ExOgA)
 
 #### TRANSACTION
 
@@ -2948,6 +2951,7 @@
 + [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories？](https://mp.weixin.qq.com/s/CWBvHmbmtTK34o3YMQaPoA)
 + [SpringBoot配置属性热更新的轻量级实现](https://mp.weixin.qq.com/s/Fu6Z0IOXCGGLqAa2EAxS3Q)
 + [Spring Boot性能优化：深入剖析Deflate压缩实现与源码解析](https://mp.weixin.qq.com/s/GOjlZtqJb4mSEh2n21r2vQ)
++ [Java进阶手册（五）SpringBoot的内容协商机制详解](https://mp.weixin.qq.com/s/ykcUigJcYbHy4svOTbFOEw)
 
 #### 版本特性
 
@@ -3408,6 +3412,7 @@
 + [SpringBoot数据校验：用Validation让代码少30%的if判断](https://mp.weixin.qq.com/s/cg5-C7jBWmPBqMnK22zt1Q)
 + [Spring Boot时间升级指南：从Date到LocalDateTime的优雅迁移之路](https://mp.weixin.qq.com/s/-tMKHTCU-_c2BTalH3MgUw)
 + [Java进阶手册（三）深入分析SpringBoot中MVC的支持](https://mp.weixin.qq.com/s/_IrtekAsYJIL8zr_GH2e2w)
++ [彻底解决时间格式混乱！Spring Boot 全局时间格式化三大终极方案！](https://mp.weixin.qq.com/s/mm7GUhFrBVP8UUTdpbHI_A)
 
 ##### 文件上传下载
 
@@ -3613,6 +3618,7 @@
 + [Java进阶手册（四）SpringBoot在多个场景中的定时任务及高级特性](https://mp.weixin.qq.com/s/llRJRp8b3G5cr1B6O6Ao6g)
 + [SpringBoot定时任务改Cron要重启？3种无感修改方案，让调度规则秒生效！](https://mp.weixin.qq.com/s/Bu2XKoqMuAo9F1Zh32qvlw)
 + [SpringBoot定时任务：解锁@Scheduled的终极实践](https://mp.weixin.qq.com/s/8vWoGVF6l8Qfh8oVNwBkOQ)
++ [Spring Boot 动态线程池轻量级技术实现方案](https://mp.weixin.qq.com/s/ttUrm0WzKNThcJ05BTABRg)
 
 ##### Disruptor
 

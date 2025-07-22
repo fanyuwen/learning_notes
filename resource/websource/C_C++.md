@@ -44,6 +44,8 @@
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
 + [c++是最难的编程语言吗，怎样学好呢？](https://mp.weixin.qq.com/s/BSJISZLrU7LZp4qHG9g_mA)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
++ [为什么你写的 C++ 代码看起来不专业？可能就差这几个细节！](https://mp.weixin.qq.com/s/bnJWdNgfzF3sQquU-qU_Lg)
++ [解密C++“不泄漏”的秘密武器：你的内存焦虑，终于有救了！](https://mp.weixin.qq.com/s/dfgDnF-SpGUSs--MBcOX0g)
 
 ### 基础
 
@@ -193,6 +195,7 @@
 + [C++ 的智能指针不就基本解决了野指针问题了吗?为什么还要吹捧rust的内存安全?](https://mp.weixin.qq.com/s/qSR6pJx159Q2fxyIJTRk1w)
 + [函数对象 vs 函数指针 vs lambda：该用哪个才高效？](https://mp.weixin.qq.com/s/bluxesbkF-XEgL7L-ykvkw)
 + [C++智能指针：shared_ptr、unique_ptr与weak_ptr的理解与使用](https://mp.weixin.qq.com/s/RUIXAQL67kQMoc8BezQA4A)
++ [C++中的智能指针](https://mp.weixin.qq.com/s/16BZlOdLfuWNF79oDUhp5A)
 
 #### 数据结构&算法
 

@@ -36,6 +36,19 @@ li_first_one, *limid, _, li_last_one = list
 
 ### 循环
 
++ 列表推导式
+```python
+l = [1, 2, 3, 4]
+
+# 简单的建立一个新的列表,元素是原来列表每个元素的平方
+s = [n ** 2 for n in l]
+
+# 可以增加过滤
+s = [n ** 2 for n in l if n % 2 == 0]
+
+# 也可以嵌套循环
+s = [n ** 2 for n in l if n % 2 == 0 for n1 in l]
+```
 + `enumerate`函数,可以在遍历列表的时候同时能获取下标和元素
 ```python
 l = [1, 2, 3]

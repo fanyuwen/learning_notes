@@ -166,6 +166,7 @@
 + devops相关 [fabric](https://www.fabfile.org) [paramiko](https://www.paramiko.org)
 + 单元测试 [pytest](https://docs.pytest.org)
 + cuda [cuda-python](https://nvidia.github.io/cuda-python)
++ 依赖注入DI [python-dependency-injector](https://python-dependency-injector.ets-labs.org/)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

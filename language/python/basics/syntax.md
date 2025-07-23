@@ -86,3 +86,11 @@ for l, r in pairwise(l):
 #    l2 = l[i + 1]
 #    print(l1, l2)
 ```
++ `itertools.cycle`函数,将可迭代对象无限次的循环,返回一个可迭代对象
+```python
+from itertools import cycle
+
+#遍历1~3之后,继续重新从1开始遍历,无休止
+for n in cycle([1, 2, 3]):
+    print(n)
+```

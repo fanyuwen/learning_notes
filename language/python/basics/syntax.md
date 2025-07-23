@@ -47,7 +47,7 @@ s = [n ** 2 for n in l]
 s = [n ** 2 for n in l if n % 2 == 0]
 
 # 也可以嵌套循环
-s = [n ** 2 for n in l if n % 2 == 0 for n1 in l]
+s = [n ** 2 + n1 for n in l if n % 2 == 0 for n1 in l]
 ```
 + `enumerate`函数,可以在遍历列表的时候同时能获取下标和元素
 ```python

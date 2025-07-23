@@ -37,9 +37,11 @@ print(nums[1:3]) #[2, 3]
 print(nums[:3]) #[1, 2, 3]
 print(nums[1:]) #[2, 3, 4]
 print(nums[::2]) #[1, 3]
+# 负数切片则从尾部向前切片
 print(nums[-3:-1]) #[2, 3]
 # 反转
 print(nums[::-1]) #[4, 3, 2, 1]
+print(nums[:]) #复制整个序列
 ```
 
 ### 解构赋值

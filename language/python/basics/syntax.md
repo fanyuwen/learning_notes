@@ -33,3 +33,5 @@ li1, *li_last = list
 li_first_one, *limid, _, li_last_one = list
 #解构的原理是python提供的高阶函数实现的
 ```
+
+### 循环

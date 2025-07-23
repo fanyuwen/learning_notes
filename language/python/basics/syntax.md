@@ -54,3 +54,20 @@ a = (1, 2)
 for i, x in zip(l, a):
     print(i, x) #将打印 4,1 5,2
 ```
++ `itertools.product`函数,可以组合多个可迭代对象,嵌套循环遍历,方法返回一个可迭代对象,可以去遍历获取结果
+```python
+from itertools import product
+
+a = [1, 2, 3]
+b = [4, 5, 6]
+c = [7, 8, 9]
+
+for a, b, c in product(a, b, c):
+    print(a, b, c)
+
+#等同于下面的写法
+#for a_ in a:
+#    for b_ in b:
+#        for c_ in c:
+#            print(a_, b_, c_)
+```

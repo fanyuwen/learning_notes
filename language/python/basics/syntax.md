@@ -37,8 +37,8 @@ li_first_one, *limid, _, li_last_one = list
 ### 循环
 
 + `enumerate`函数,可以在遍历列表的时候同时能获取下标和元素
-  ```python
+```python
   l = [1, 2, 3]
   for i, x in enumerate(l):
     print(i, x) #将打印 0,1 1,2 2,3
-  ```
+```

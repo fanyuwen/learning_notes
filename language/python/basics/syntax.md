@@ -46,7 +46,11 @@ for i, x in enumerate(l):
 ```python
 l = [4, 5, 6]
 a = (1, 2, 3)
-
 for i, x in zip(l, a):
     print(i, x) #将打印 4,1 5,2 6,3
+
+l = [4, 5, 6]
+a = (1, 2)
+for i, x in zip(l, a):
+    print(i, x) #将打印 4,1 5,2
 ```

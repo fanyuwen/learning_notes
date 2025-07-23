@@ -33,7 +33,13 @@ s2, s1 = s1, s2
 ```python
 nums = [1,2,3,4]
 
-
+print(nums[1:3]) #[2, 3]
+print(nums[:3]) #[1, 2, 3]
+print(nums[1:]) #[2, 3, 4]
+print(nums[::2]) #[1, 3]
+print(nums[-3:-1]) #[2, 3]
+# 反转
+print(nums[::-1]) #[4, 3, 2, 1]
 ```
 
 ### 解构赋值

@@ -94,3 +94,11 @@ from itertools import cycle
 for n in cycle([1, 2, 3]):
     print(n)
 ```
++ `itertools.permutations`函数,第一个参数是一个可迭代对象,第2个参数指定组合的数量,结果是按照指定组合数量进行组合的所有可能数据结果,返回一个可迭代对象
+```python
+from itertools import permutations
+
+#将输出2个元素组合的所有可能
+for p in permutations([1, 2, 3, 4], 2):
+    print(p)
+```

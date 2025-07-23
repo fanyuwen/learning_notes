@@ -71,3 +71,18 @@ for a, b, c in product(a, b, c):
 #        for c_ in c:
 #            print(a_, b_, c_)
 ```
++ `itertools.pairwise`函数,可以将一个可迭代对象的元素,相邻的2个元素进行组合,返回一个可迭代对象,
+```python
+from itertools import pairwise
+
+l = [1, 2, 3, 4, 5]
+
+for l, r in pairwise(l):
+    print(l, r)
+
+#等同于下面的写法
+#for i in range(len(l) - 1):
+#    l1 = l[i]
+#    l2 = l[i + 1]
+#    print(l1, l2)
+```

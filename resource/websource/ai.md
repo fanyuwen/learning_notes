@@ -42,6 +42,7 @@
 
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 + [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)
++ [在零售技术做 AI 的 95 后：我们这样搞定技术难题](https://my.oschina.net/u/4090830/blog/18483708)
 
 ## LangChain
 

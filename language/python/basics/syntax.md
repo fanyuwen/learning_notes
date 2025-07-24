@@ -9,7 +9,7 @@
 ### 声明(赋值)变量
 
 ```python
-# python声明变量,声明一个变量
+# python声明变量,声明一个变量(是一个语句)
 s = 123
 print(s)
 
@@ -17,6 +17,21 @@ print(s)
 s1, s2 = 1, 2
 # python赋值(交换2个变量的值)
 s2, s1 = s1, s2
+
+# 海象运算符
+a := 1 #该复制是一个表达式,可以用在其它表达式中
+# 传统写法
+lines = []
+while True:
+    line = input()
+    if not line:
+        break
+    lines.append(line)
+
+# 使用海象运算符
+lines = []
+while (line := input()):
+    lines.append(line)
 ```
 
 ### 索引

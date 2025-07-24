@@ -78,6 +78,11 @@ s = [n ** 2 + n1 for n in l if n % 2 == 0 for n1 in l]
 l = [1, 2, 3]
 for i, x in enumerate(l):
   print(i, x) #将打印 0,1 1,2 2,3
+
+#指定初始计数
+for i, x in enumerate(l, start=1):
+  print(i, x) #将打印 1,1 2,2 3,3
+
 ```
 + `zip`函数,可以同时遍历2个或以上的可迭代对象,同时遍历相同位置的元素,如果到达任意一个迭代对象的末尾则结束
 ```python

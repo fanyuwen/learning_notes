@@ -830,6 +830,7 @@
 ### 并发/并行
 
 + [并发和并行区别详解(图文全面总结)](https://mp.weixin.qq.com/s/8rCa2AElqJNX-XlLRvyOeQ)
++ [高并发系统的艺术：如何在流量洪峰中游刃有余](https://my.oschina.net/u/4090830/blog/18682939)
 
 ## 开发流程
 

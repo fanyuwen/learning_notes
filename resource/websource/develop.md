@@ -458,6 +458,7 @@
 + [高并发场景下，再谈熔断、限流、降级（图文总结）](https://mp.weixin.qq.com/s/uBROOdW3SWhZGbrU0s7oUQ)
 + [Java接口限流的几种方式详解](https://mp.weixin.qq.com/s/52gWE2RD0QjM9I4DyhFHEg)
 + [一文掌握常见的限流算法：计数器、漏桶、令牌桶等](https://mp.weixin.qq.com/s/uP5WT7NHXBBHWyn_PrEv_Q)
++ [这几种面试必问负载均衡算法能手撕几种？](https://my.oschina.net/workit/blog/18684798)
 
 ### 大文件IO
 

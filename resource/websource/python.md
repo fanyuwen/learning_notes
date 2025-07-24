@@ -1069,6 +1069,7 @@
 
 ## 其它
 
++ [从 Python 演进探寻 AI 与云对编程语言的推动](https://my.oschina.net/u/3874284/blog/18684302)
 + [用python学数学第9课-数学基础4](https://mp.weixin.qq.com/s/VtFkw3yZ7i0TMzZ9bdlD2A)
 + [25 天征服 Rust：一个 Python 程序员的学习之旅](https://mp.weixin.qq.com/s/RdNq1-FRUIMf0IdlYWdTdg)
 + [Python Web框架比较：10个流行的Web框架概览](https://mp.weixin.qq.com/s/m-yh86GcrJvNGvVLky7abw)

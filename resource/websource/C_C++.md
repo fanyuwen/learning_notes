@@ -182,6 +182,7 @@
 + [移动语义的实现机制](https://mp.weixin.qq.com/s/1MPhalIZkShhzUUeMcYEwA)
 + [深入C++完美转发：解锁高效编程的密码](https://mp.weixin.qq.com/s/dv6raLWv7kxaibw2efzrCg)
 + [C++中的Lambda 表达式](https://mp.weixin.qq.com/s/uF7pZHFTa8KshOFC_SuPzQ)
++ [C++开发必看！揭秘Placement New带来的隐形内存泄漏陷阱与解法](https://mp.weixin.qq.com/s/JUbc5253lvG9ziB5DIYkYQ)
 
 #### 指针
 
@@ -301,6 +302,8 @@
 + [C++结构型模式之组合模式](https://mp.weixin.qq.com/s/_vgCM3pxYPsP9Jyz7NRbvQ)
 + [C++行为型设计模式之观察者模式](https://mp.weixin.qq.com/s/QmV_QRbZr_IA9OyOAY-YMw)
 + [C++设计模式之验证环境说明篇](https://mp.weixin.qq.com/s/096j33-MMXPbx3pvG9WDPw)
++ [C++行为型模式之命令模式](https://mp.weixin.qq.com/s/9Grjm5CKBn6s3DHD6ZzOvQ?click_id=75)
++ [C++行为型模式之策略模式](https://mp.weixin.qq.com/s/SF6zLIeibO_8bKrFYC12DA)
 
 #### 并发
 

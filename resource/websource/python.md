@@ -154,6 +154,7 @@
 + [苦练Python第17天：你必须掌握的Python内置函数](https://mp.weixin.qq.com/s/OyKJmOwrOQfOWoFp0lAxUQ)
 + [Python 函数](https://mp.weixin.qq.com/s/roz-ipogllMIYI2AmM_eVw)
 + [Python学习必备：20个高使用率函数讲解](https://mp.weixin.qq.com/s/oTzooHBv2d4Q5yBhPCV8pQ)
++ [快速学习Python最常用的30个内置函数](https://mp.weixin.qq.com/s/UOcuv0Wz8_8gecxNwvDH3w)
 
 ### 面向对象
 

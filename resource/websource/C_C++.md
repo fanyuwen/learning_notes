@@ -183,6 +183,7 @@
 + [深入C++完美转发：解锁高效编程的密码](https://mp.weixin.qq.com/s/dv6raLWv7kxaibw2efzrCg)
 + [C++中的Lambda 表达式](https://mp.weixin.qq.com/s/uF7pZHFTa8KshOFC_SuPzQ)
 + [C++开发必看！揭秘Placement New带来的隐形内存泄漏陷阱与解法](https://mp.weixin.qq.com/s/JUbc5253lvG9ziB5DIYkYQ)
++ [最近通过 C++ 性能优化将项目提速了 10 倍。。。](https://mp.weixin.qq.com/s/WF0nKBABBkGk5WzsS1Po9g)
 
 #### 指针
 
@@ -428,6 +429,8 @@
 + [C 的标示符之作用域](https://mp.weixin.qq.com/s/8V0TU5rOF2-i-usYUGcRug)
 + [谈C编程---const关键字](https://mp.weixin.qq.com/s/XwOJf8XWis4IldNbA8yX_g)
 + [【C语言】C语言的声明分析](https://mp.weixin.qq.com/s/elsSs66ydi0yoUH3d5nD3w)
++ [谈C编程---字符串相关函数](https://mp.weixin.qq.com/s/zVCqybRee7uMYUjpm-_3Ew)
++ [谈C编程---字符串字面量下标访问用法](https://mp.weixin.qq.com/s/NjfwbZZfF_gaeA3BNtw42g)
 
 ### 高阶
 
@@ -471,6 +474,7 @@
 + [编程语言变量覆盖的内部原理是什么?为什么C语言全局或静态变量初始值是0?](https://mp.weixin.qq.com/s/DDbH-iiWMI5u5l_3NxBRiQ)
 + [彻底搞懂程序链接过程之动态链接](https://mp.weixin.qq.com/s/SkB3WBurHMk1u4ysnY1DqQ)
 + [C语言内存探秘：揭秘栈区、堆区、全局区、常量区和代码区的神秘面纱，你真的了解吗？](https://mp.weixin.qq.com/s/QAv9icLgMPo7nd7Ho5gCfA)
++ [C语言黑暗角落：未定义行为](https://mp.weixin.qq.com/s/sHOLg1VTKMyiGkCfexXdQA)
 
 #### 宏
 
@@ -515,6 +519,7 @@
 + [既然指针的本质是地址，那为啥还需要指定数据类型呢？地址不就是一串 0x 数字吗？](https://mp.weixin.qq.com/s/WqrnNT_3tj0OWtD5xh24Vw)
 + [函数指针c = (*pf)(a, b)](https://mp.weixin.qq.com/s/P5JWkkOpih49HjI75Mnryw)
 + [C语言指针：让你又爱又恨的“指指点点”](https://mp.weixin.qq.com/s/f7VVOa4zD46squLTJXg1LA)
++ [谈C编程---void *一种特殊的指针类型](https://mp.weixin.qq.com/s/mn8Zt7o6CoTF5Rjt4YYk6g)
 
 #### 函数
 

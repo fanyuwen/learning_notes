@@ -1046,6 +1046,7 @@
 + [JVM的通关指南（八）JVM性能调优方法最全指南](https://mp.weixin.qq.com/s/9ImpCK6hihoHvqkqb5QgfQ)
 + [认识 JVM 与字节码 —— 打开 Java 底层世界的大门](https://mp.weixin.qq.com/s/85wS9TOlo_qkMNqs0aOPEg)
 + [JVM关机钩子ShutdownHook：如何避免程序“突然死亡”？](https://mp.weixin.qq.com/s/pnjiwx6nkGjU5qqv9pvfuw)
++ [JVM详解](https://mp.weixin.qq.com/s/kphFn-xofXFS7Ru6-UF2KQ)
 
 ### 命令
 
@@ -2100,6 +2101,7 @@
 + [Redisson简明教程—你家的锁芯该换了](https://mp.weixin.qq.com/s/pzYxLjvGPB9ayDrV74X9Gg)
 + [Redisson中也有延迟队列？](https://mp.weixin.qq.com/s/nUlvuqylY7hOsDH2Q2934Q)
 + [基于Redission高级应用15-RHyperLogLog原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/TUAgWBsHN7e4rTQBPkD9aQ)
++ [最强分布式锁工具：Redisson](https://mp.weixin.qq.com/s/v4duFssWWjCYF5JhN4vzRg)
 
 ## ribbon
 
@@ -2294,6 +2296,7 @@
 + [看一遍就理解：Spring 的循环依赖问题](https://mp.weixin.qq.com/s/u_D7ZLWKnutKHe7gV6uscA)
 + [Spring容器启动终章：finishRefresh()完成刷新全流程详解](https://mp.weixin.qq.com/s/zB0P18rEiiufjxZNwL_gDA)
 + [Spring循环依赖这样解决，一看就懂](https://mp.weixin.qq.com/s/Nt36Tk4j_fBs4rLNQLxWXg)
++ [Spring为什么用三级缓存解决循环依赖？二级不行吗？](https://mp.weixin.qq.com/s/p_qPbOz9EaAhgKApzDAobw)
 
 ### 新版本新特性
 
@@ -2494,6 +2497,7 @@
 + [告别Spring事务Bug！详解传播行为与隔离级别的组合陷阱与最佳实践](https://mp.weixin.qq.com/s/gaugRnCxRiCNwbyXpfklGw)
 + [Spring事务失效：原因分析与最佳实践](https://mp.weixin.qq.com/s/wdkzAs8f7O4rvXIYRP68LQ)
 + [带你了解一下Spring中的编程式事务](https://mp.weixin.qq.com/s/8xaSLjZ2Kxke5b8DEDOchA)
++ [多线程事务怎么回滚？说用@Transactional可以回去等通知了！](https://mp.weixin.qq.com/s/VJrg9xsGn-kLSmBiWck_Jg)
 
 ### Log
 
@@ -2521,6 +2525,7 @@
 + [玩转Spring状态机：打造灵活高效的业务逻辑流](https://mp.weixin.qq.com/s/6DvVENFqckdFIQojeN-O8g)
 + [Java中的状态机实现：使用Spring State Machine管理复杂状态流转](https://mp.weixin.qq.com/s/Dz8V8Xx696Hh0q98xQE5zQ)
 + [项目终于用上了 Spring 状态机，太优雅了！](https://mp.weixin.qq.com/s/eD1NIjoNVSzbdBSkES89JQ)
++ [从“混乱”到“有序”：Spring状态机如何拯救我的项目](https://mp.weixin.qq.com/s/i8ySTbjq3Op0gg56h31emw)
 
 ### CACHE
 
@@ -3441,6 +3446,7 @@
 + [Spring Boot + Multipart 文件上传：为什么你的应用在 10MB 后会失败](https://mp.weixin.qq.com/s/LQV2K-x9w8o5Ka32MDvz2w)
 + [惊喜发现！Spring Boot 3.3 巧妙处理文件上传与 JSON 数据的绝佳方案](https://mp.weixin.qq.com/s/xCFx5b1fqODDUey6bWGX_A)
 + [SpringBoot 文件上传惊现"10日魔咒"？资深架构师手把手教你破局](https://mp.weixin.qq.com/s/jv6E2SU84Y9Q8stGA06WBQ)
++ [告别卡顿！SpringBoot 大文件上传最佳实践：分片+并发+秒传全搞定](https://mp.weixin.qq.com/s/g7l8Ih5uy0dB4zPHh_fNOA)
 
 ##### VUE
 

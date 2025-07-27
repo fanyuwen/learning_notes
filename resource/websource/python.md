@@ -279,6 +279,7 @@
 + [Python常用系统类库之logging日志](https://mp.weixin.qq.com/s/oAK22pglPi2cFS2lQXYifA)
 + [Python编程精进：CSV 模块](https://mp.weixin.qq.com/s/hmnmujmTKS_a0VeFirTp_Q)
 + [Python JSON 模块函数详解](https://mp.weixin.qq.com/s/2EsBkgxW85VjbNoS0q5DxQ)
++ [Python内置模块：Json使用教程](https://mp.weixin.qq.com/s/zsnXLnip78Ekkz4SF6WvAA)
 + [Python 路径与模块导入详解](https://mp.weixin.qq.com/s/-j41d2R-nFqlEy0w3GqvxA)
 + [写给前端的 Python 教程十 - 模块和包](https://mp.weixin.qq.com/s/jeqmPXcXk_5BxC3bAoC9Lg)
 + [30天学会Python编程：17.Python标准库高级模块使用介绍](https://mp.weixin.qq.com/s/ILmHEAceuVMi0XQCMo3D7g)
@@ -286,6 +287,7 @@
 + [Python内置模块：turtle Gui 编程实践](https://mp.weixin.qq.com/s/SkKfkIQVkLkVbGeFk74EEw)
 + [Python内置模块：timeit测量小代码片段的执行时间](https://mp.weixin.qq.com/s/5zccYEWSJRLsEsGOQef2Ow)
 + [苦练Python第32天：Python百宝箱，collections模块5大杀器](https://mp.weixin.qq.com/s/0_Un9GZ5f-QUM8ZBzC7a3w)
++ [Python内置模块：filecmp文件与目录比较编程笔记](https://mp.weixin.qq.com/s/eoLWEVz8l1-JckTZH_zVWQ)
 
 ### 异步/多线程
 

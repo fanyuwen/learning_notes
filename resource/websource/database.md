@@ -442,6 +442,7 @@
 + [面试官：MySQL explain你会关注哪些字段](https://mp.weixin.qq.com/s/-rW1MNLKNvsZp1Llrn_jsg)
 + [面试官：MySQL 自增 ID 超过 int 最大值怎么办？](https://mp.weixin.qq.com/s/lIx-8LwoSeRhDWbxqUmaiw)
 + [Explain执行计划全解读：让你的SQL快如闪电（一）](https://mp.weixin.qq.com/s/c1mH9d3ti5IxH8_IseIGaQ)
++ [【理论】MySQL基础－MySQL数据库启动详解之启动解析](https://mp.weixin.qq.com/s/h6lUuv4mJR1b8noNgt-icw)
 
 #### 存储引擎
 
@@ -460,6 +461,7 @@
 + [MySQL存储引擎InnoDB相关知识](https://mp.weixin.qq.com/s/xlgoW2g9KFojAimz1nEmNg)
 + [MySQL 的存储引擎到底怎么选？InnoDB vs MyISAM 深度对比](https://mp.weixin.qq.com/s/6GsxL5fdpXqTJ_0_6RxUEw)
 + [一条 INSERT 背后的秘密：揭开 InnoDB 记录结构的神秘面纱。](https://mp.weixin.qq.com/s/LUA65F1aanDZM4prllH-7Q)
++ [InnoDB的智慧设计：刷redo log到磁盘和直接刷脏页到磁盘的区别](https://mp.weixin.qq.com/s/1wCNBt56KEJv89rwghJy-Q)
 
 #### MVCC
 

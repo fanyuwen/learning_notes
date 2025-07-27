@@ -264,6 +264,7 @@
 + [Linux Shell脚本：流程控制](https://mp.weixin.qq.com/s/XU1drs7hhBxfTxnL9LsWdA)
 + [章节2：基本的Linux命令，【df】 命令常用的实用示例](https://mp.weixin.qq.com/s/2NKVvmqPsNHVLJewSymV8w)
 + [避免磁盘空间不足：Linux df 与 du 命令的实用技巧](https://mp.weixin.qq.com/s/_c2STeW1hMP5R3wjTe6ymA)
++ [Linux shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/BIdGycqwmtpX9CmlvgQyQA)
 
 ### 发行版信息
 

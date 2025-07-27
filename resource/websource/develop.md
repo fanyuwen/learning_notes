@@ -88,6 +88,7 @@
 + [大流量下的底层软件架构设计的思考](https://mp.weixin.qq.com/s/SRAMQcQizTwXab4JVgjtDg)
 + [技术｜模块设计的黄金法则（三）：不同的层，不同的抽象](https://mp.weixin.qq.com/s/pf-3lYx8OObJOnkqdcTzuw)
 + [代码之外，更大的设计：谈架构思想](https://mp.weixin.qq.com/s/MHzWMXW986KjcrTi7uuzwg)
++ [架构设计内容分享—使用白板工具绘制系统架构图实操](https://mp.weixin.qq.com/s/UaX_sJY3oh54hDtjlUqf_Q)
 
 ### DDD
 
@@ -137,6 +138,7 @@
 + [架构设计内容分享—领域驱动设计（DDD）,优秀架构师的必修课](https://mp.weixin.qq.com/s/kDYRG3LsZ6bQM0gNR8tN_w)
 + [架构设计内容分享—落地领域驱动设计DDD，核心是思维方式的改变](https://mp.weixin.qq.com/s/-iIHtPfi0yGbHV1gVmHkRQ)
 + [第9章：架构思维与设计能力（下）：领域驱动设计（DDD）与复杂系统治理](https://mp.weixin.qq.com/s/yQqGJzpuPEf1RIMxGTJ8Zg)
++ [DDD领域驱动设计核心原理](https://mp.weixin.qq.com/s/_MwcfEr_rOJ5XqPWvuylAA)
 
 ## 微服务
 
@@ -678,6 +680,7 @@
 + [如何使用分段式锁的方案提升服务的下单效率](https://mp.weixin.qq.com/s/Wf5b5lT4noevcsjZNU7gGA)
 + [秒杀系统要不要加分布式锁？](https://mp.weixin.qq.com/s/yCHAgR4fbrNvRPuMSe673w)
 + [模块设计的黄金法则（七）：别急着写，先多想一步](https://mp.weixin.qq.com/s/t0l6l0VpCPtE-qC9jE5Hsg)
++ [告别if-else地狱：业务断言如何用契约式设计重构代码？](https://mp.weixin.qq.com/s/s8rb8TUqtOgsu8R9ezv2FA)
 
 # 测试相关
 

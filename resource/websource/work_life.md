@@ -95,6 +95,7 @@
 + [技术重构遭反噬！CTO震惊全公司的决定：炒掉整个后端团队！代码全用Rust重写！事后血泪教训：Rust 没错，错的是技术抹杀团队](https://mp.weixin.qq.com/s/LmFPF2bGvoOAYzLaPp-EWQ)
 + [越沉迷技术，离钱越远](https://mp.weixin.qq.com/s/PF_pEmQWw59oJ1RAXXI6rQ)
 + [为什么大部分码农做不了软件架构师？](https://mp.weixin.qq.com/s/p6NuJbL0qOjJ9v_pNDDSpQ)
++ [如何领先99%的开发人员？](https://mp.weixin.qq.com/s/VoqEmtBtv3istil3XBfx0A)
 
 # 个人成长
 
@@ -496,6 +497,7 @@
 + [云原生浪潮下的Spring应用开发](https://mp.weixin.qq.com/s/C_ocbD1Ent3lqvOmygJbrw)
 + [适合终身学习者的 13 本经典数学书籍](https://mp.weixin.qq.com/s/dXi8WoYRWHakU8pp4lWY-w)
 + [2024 Top 10文章推荐｜得物技术](https://mp.weixin.qq.com/s/lm1WS9_Ccxyjdz7Ou6egEg)
++ [《代码大全》还有必要读吗？](https://mp.weixin.qq.com/s/aSy0_Z1CsOzUeqLVxMxN8Q)
 
 ### 生活
 

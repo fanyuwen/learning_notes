@@ -5,8 +5,9 @@
 + [Python初学者必须掌握的基础知识点](https://mp.weixin.qq.com/s/dMMknvT_sxcooufDBgCaQg)
 + [python基础合集](https://mp.weixin.qq.com/s/T93d5BUMqXS-0WPDTdVufA)
 + [Python 基础：变量与数据类型完全指南](https://mp.weixin.qq.com/s/bw81FarDYPZ-lNbzEkMugQ)
++ [Python入门教程113：获取电脑CPU、内存、磁盘、网络和操作系统信息](https://mp.weixin.qq.com/s/_ChBFOiEmm8UnhF708D8Dw)
 
-### 基础
+### 基础功能
 
 + [python基础语法](https://mp.weixin.qq.com/s/oW_GOB7UzaSuWWfNP_XvmQ)
 + [Python关键字：掌握编程的基础](https://mp.weixin.qq.com/s/6tsO4NVTkKiJoApOm1LCvA)
@@ -314,6 +315,7 @@
 + [Python 多线程编程指南](https://mp.weixin.qq.com/s/_ouJDgUSkmuLNcWJWC_wCQ)
 + [并发编程王牌：asyncio异步实战手册，吞吐量提升500%，高并发必备！](https://mp.weixin.qq.com/s/-F6j00YPrjbGNasoMII_ww)
 + [Python 多进程编程指南](https://mp.weixin.qq.com/s/0_kwbKhEUTB7w3GU-NtpJQ)
++ [Python并发数据结构实现原理](https://mp.weixin.qq.com/s/IAhRirGQMWgXs8oxuYC07w)
 
 ## 实践
 

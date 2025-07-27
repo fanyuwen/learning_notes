@@ -42,10 +42,12 @@
 ### 概念
 
 + [C++ 从遗忘到入门](https://my.oschina.net/u/4662964/blog/11050396)
++ [C++编程入门：从零开始学习现代C++](https://mp.weixin.qq.com/s/MahpL_pz0uxe3POfHq5B2A)
 + [c++是最难的编程语言吗，怎样学好呢？](https://mp.weixin.qq.com/s/BSJISZLrU7LZp4qHG9g_mA)
 + [C++ 程序编译过程](https://mp.weixin.qq.com/s/FgIcEyo0VrJHyK2ZkIpkLw)
 + [为什么你写的 C++ 代码看起来不专业？可能就差这几个细节！](https://mp.weixin.qq.com/s/bnJWdNgfzF3sQquU-qU_Lg)
 + [解密C++“不泄漏”的秘密武器：你的内存焦虑，终于有救了！](https://mp.weixin.qq.com/s/dfgDnF-SpGUSs--MBcOX0g)
++ [c++代码编译过程](https://mp.weixin.qq.com/s/LzV8S2EXDeXU3LKFjROC5Q)
 
 ### 基础
 
@@ -184,6 +186,8 @@
 + [C++中的Lambda 表达式](https://mp.weixin.qq.com/s/uF7pZHFTa8KshOFC_SuPzQ)
 + [C++开发必看！揭秘Placement New带来的隐形内存泄漏陷阱与解法](https://mp.weixin.qq.com/s/JUbc5253lvG9ziB5DIYkYQ)
 + [最近通过 C++ 性能优化将项目提速了 10 倍。。。](https://mp.weixin.qq.com/s/WF0nKBABBkGk5WzsS1Po9g)
++ [C++中的内存：栈与堆](https://mp.weixin.qq.com/s/poN_Cgbu691kLx2fbPYzoQ)
++ [C++内存分配重载全解析，教你写出无BUG的operator new！](https://mp.weixin.qq.com/s/lYo-Q9bPQUAMdMyWXJJ4zA)
 
 #### 指针
 
@@ -294,6 +298,7 @@
 + [C++中的继承](https://mp.weixin.qq.com/s/SowC723fnZEx35JSyQAqrg)
 + [C++ 中的类与对象](https://mp.weixin.qq.com/s/ecRGRSf_qgBLawRsTqx7-g)
 + [C++中的静态成员](https://mp.weixin.qq.com/s/LWSybqAWBkpHlTWbp_RckA)
++ [C++中的多态（ Polymorphism）](https://mp.weixin.qq.com/s/hY8MtGdgKSbrFIogArZKeg)
 
 ##### 设计模式
 
@@ -475,6 +480,8 @@
 + [彻底搞懂程序链接过程之动态链接](https://mp.weixin.qq.com/s/SkB3WBurHMk1u4ysnY1DqQ)
 + [C语言内存探秘：揭秘栈区、堆区、全局区、常量区和代码区的神秘面纱，你真的了解吗？](https://mp.weixin.qq.com/s/QAv9icLgMPo7nd7Ho5gCfA)
 + [C语言黑暗角落：未定义行为](https://mp.weixin.qq.com/s/sHOLg1VTKMyiGkCfexXdQA)
++ [C语言实现CRC算法](https://mp.weixin.qq.com/s/VtXHF7prwQnxkI4G_Sg7jg)
++ [一个内存泄漏案例引发的思考](https://mp.weixin.qq.com/s/U9Ut0Cd6vucNydX5aW4CPA)
 
 #### 宏
 
@@ -621,6 +628,7 @@
 + [FreeRTOS多任务开发：打造高效稳定的嵌入式系统](https://mp.weixin.qq.com/s/89lZLPuJscHBy0nmvbeYzA)
 + [嵌入式面试指南：你必须掌握的Flash知识](https://mp.weixin.qq.com/s/K70cGheqtAVaeFY3iQaFRA)
 + [嵌入式软件编程，如何提高代码的可移植性？](https://mp.weixin.qq.com/s/EJbQoXEPWhxh-pmjEFclEA)
++ [嵌软面试-基础篇：5-C++智能指针](https://mp.weixin.qq.com/s/iG-mgbn0sD8GXazX3pUTfQ)
 
 # ARM
 

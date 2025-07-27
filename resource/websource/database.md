@@ -443,6 +443,7 @@
 + [面试官：MySQL 自增 ID 超过 int 最大值怎么办？](https://mp.weixin.qq.com/s/lIx-8LwoSeRhDWbxqUmaiw)
 + [Explain执行计划全解读：让你的SQL快如闪电（一）](https://mp.weixin.qq.com/s/c1mH9d3ti5IxH8_IseIGaQ)
 + [【理论】MySQL基础－MySQL数据库启动详解之启动解析](https://mp.weixin.qq.com/s/h6lUuv4mJR1b8noNgt-icw)
++ [Mysql 相关日志【bin log 和 redo log】](https://mp.weixin.qq.com/s/SOi7YbDAdmqomOesiz281w)
 
 #### 存储引擎
 
@@ -485,6 +486,7 @@
 + [MySQL MVCC快照机制的简易模型](https://mp.weixin.qq.com/s/O-K5hhRiovT6vXnVjoeINQ)
 + [mysql5.7系列-InnoDB的MVCC实现原理](https://mp.weixin.qq.com/s/bTSepZpfhVEKqcsQgJZxPw)
 + [MySQL MVCC原理揭秘：读写并发的关键设计](https://mp.weixin.qq.com/s/c9oJLfb370SWw6yn_Hxngg)
++ [MySQL MVCC：揭开数据库高并发的神秘面纱](https://mp.weixin.qq.com/s/GdAtz4XOzciKSE_0N0qJDw)
 
 #### 锁
 
@@ -634,6 +636,10 @@
 + [MySQL：创建索引需要关注哪些细节？](https://mp.weixin.qq.com/s/OMo7yb7UJCBv-ZBvlz25xg)
 + [MySQL： 为什么使用 B+ 树作为索引结构](https://mp.weixin.qq.com/s/zjDmAIUYzfat6vYnT9rSwA)
 + [InnoDB为什么不用跳表，Redis为什么不用B+树？](https://mp.weixin.qq.com/s/XNyUy1f42Lxs3yEcNkxpOw)
++ [MySQL索引原理，设计原则](https://mp.weixin.qq.com/s/LKkiwOoTVaiCh3QIx2G7Jg)
++ [MySQL索引：从原理到实战的终极指南](https://mp.weixin.qq.com/s/O9kGHB55EITIQ4f9LCJI5w)
++ [MySQL 索引又失效了？这 6 个坑 90% 的人都踩过](https://mp.weixin.qq.com/s/R5qqd2PJniXH2_6We3VicQ)
++ [Mysql索引机制](https://mp.weixin.qq.com/s/B6gZ8J0DslvbAftKw11z4w)
 
 ### PostgreSQL
 

@@ -216,6 +216,8 @@
 + [为啥 90% 的微服务仍然像单体应用一样？](https://mp.weixin.qq.com/s/7vw4a82QdQ35QqREsAHScw)
 + [一分钟阅读:微服务架构整体思路](https://mp.weixin.qq.com/s/yvWHdXIXKT3Vxi-I8lIn5Q)
 + [微服务限流：别说算法了，就问你“阈值”怎么算？](https://mp.weixin.qq.com/s/BQKP5-AqcadIhIfPTCGJEQ)
++ [微服务整体架构设计实践](https://mp.weixin.qq.com/s/WUuy5cA5YJGxBOEkkSaiiw)
++ [微服务链路追踪原理与SpringCloud方案](https://mp.weixin.qq.com/s/tVAVi863V5Rk9hSdTWKmHA)
 
 # 分布式
 

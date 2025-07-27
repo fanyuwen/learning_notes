@@ -162,6 +162,8 @@
 + [137. Java 泛型 - 泛型与通配符：子类型化关系](https://mp.weixin.qq.com/s/Xao6ArYxcicE6XLcRehJsQ)
 + [138. Java 泛型 - 通配符捕获Helper程序方法：类型安全解决方案](https://mp.weixin.qq.com/s/qMMOh58yZdo0o4GVHpS9TQ)
 + [139. Java 泛型 - Java 通配符使用准则](https://mp.weixin.qq.com/s/N0x3RxOISZLMwxdXgPRCcQ)
++ [140. Java 泛型 - Java 泛型类型的擦除](https://mp.weixin.qq.com/s/o0uKGfpbRvH51AcU5lzVYA)
++ [141. Java 泛型 - Java 泛型方法的类型擦除](https://mp.weixin.qq.com/s/mMuWsFyD5w-i4kuBGvq7uA)
 
 ### 面向对象
 
@@ -194,6 +196,7 @@
 + [118. Java 接口 - 接口功能增强实战默认方法、静态方法与Comparator链式排序策略](https://mp.weixin.qq.com/s/2G5GlO62uyMO5OE1nJOeEw)
 + [119. Java 接口 - 将接口用作类型](https://mp.weixin.qq.com/s/O-uUOf_QVix7DkCPlwEppQ)
 + [126. Java 泛型 - 泛型、继承与子类型](https://mp.weixin.qq.com/s/D87zM3NHiZ-7P2WVgBIPdg)
++ [JAVA：创建对象有几种方式的技术指南](https://mp.weixin.qq.com/s/Lh_3GM5wvfAlqwS0VDykEg)
 
 ## 新语言特性
 
@@ -445,6 +448,7 @@
 + [带你学会Java的Supplier和Consumer接口的使用（详细版）](https://mp.weixin.qq.com/s/cgxq7sfEx8elq5EyAY43ng)
 + [告别 "if-else"，改用 "return"！](https://mp.weixin.qq.com/s/NMWJqpvU-7hYyVkQAoM7KQ)
 + [JAVA：实现平衡二叉树（AVL Tree）及其应用实践](https://mp.weixin.qq.com/s/c-5Q93pvWRzIr-hixyEU3A)
++ [别再手写工具类了！这 7 个 “现成轮子” 能省 80% 时间](https://mp.weixin.qq.com/s/tdivNKQMDrIJOz7cVcgwUQ)
 
 ## 代码质量
 
@@ -1263,6 +1267,7 @@
 + [Stream很好，Map很酷，但答应我别用toMap()！](https://mp.weixin.qq.com/s/DNOCHvdzLkzjUetd-9YlzA)
 + [Java Stream与多线程](https://mp.weixin.qq.com/s/VKKz5Ay3waXf41plANHEAA)
 + [Java 并行流（Parallel Streams）中如何自定义线程池](https://mp.weixin.qq.com/s/yE0DCw512WSuqSBsAY5cSw)
++ [别让Stream毁了你！7个反模式代码示例（附修复方案）](https://mp.weixin.qq.com/s/zwwkCvNTf7A_HGNoKKUvQw)
 
 ### Date/time
 
@@ -2297,6 +2302,7 @@
 + [Spring容器启动终章：finishRefresh()完成刷新全流程详解](https://mp.weixin.qq.com/s/zB0P18rEiiufjxZNwL_gDA)
 + [Spring循环依赖这样解决，一看就懂](https://mp.weixin.qq.com/s/Nt36Tk4j_fBs4rLNQLxWXg)
 + [Spring为什么用三级缓存解决循环依赖？二级不行吗？](https://mp.weixin.qq.com/s/p_qPbOz9EaAhgKApzDAobw)
++ [详解Spring解决循环依赖实现原理](https://mp.weixin.qq.com/s/rxbu-IN3135458yaJ9lLKw)
 
 ### 新版本新特性
 
@@ -2378,6 +2384,10 @@
 + [Spring容器启动揭秘：国际化支持(MessageSource)的初始化魔法](https://mp.weixin.qq.com/s/SDz6U7IF_LRXSGPFo2pKDg)
 + [微服务架构下，@RestControllerAdvice如何实现全局统一响应规范？](https://mp.weixin.qq.com/s/pDMNaRNkWd9DMxU8wSEfBA)
 + [Java真的不难（九十九）Spring MVC异步处理指南](https://mp.weixin.qq.com/s/YB3MV0NibegzMZnXG2mfDQ)
+
+#### doc
+
++ [API文档圣剑！SpringDoc OpenAPI 3.0取代Swagger实战指南](https://mp.weixin.qq.com/s/auS6DgsE26s7yaPaPzFuDA)
 
 ### concurrent
 
@@ -2551,6 +2561,7 @@
 + [Spring事件驱动模型核心：ApplicationEventMulticaster初始化全解析](https://mp.weixin.qq.com/s/BDYBScAgnpZb-jAQR6IXxQ)
 + [Spring事件监听机制深度解析：registerListeners源码揭秘](https://mp.weixin.qq.com/s/N4oUAAV8sJnuWJ-ezhF0Qg)
 + [Spring事件](https://mp.weixin.qq.com/s/FxtQAxeflH0jk_qcNi_t-w)
++ [Spring事件派发机制详解：从同步到异步的全面实践](https://mp.weixin.qq.com/s/qCPAFhi_0qF3grmFNdD0BA)
 
 ### AOP
 
@@ -2594,6 +2605,7 @@
 + [Spring AOP中的类型获取方法对比](https://mp.weixin.qq.com/s/-heJKGH-jjl7hlS4YvPxbA)
 + [Spring分析-AOP](https://mp.weixin.qq.com/s/piD1y8PZJWlNXNoGO3xG3w)
 + [为什么我说：没有 AOP，就不可能写出整洁的 Java 代码（不服来辩）？](https://mp.weixin.qq.com/s/oiT9Js-ocQONTYqAdEx3zQ)
++ [Spring AOP 设计解密：代理对象生成、拦截器链调度与注解适配全流程源码解析](https://mp.weixin.qq.com/s/EHd7jdqt43ZZ0Env74Ddbw)
 
 ### 配置打包部署
 
@@ -2635,6 +2647,7 @@
 + [搞定复杂 AI 集成！Spring AI + MCP 模式最佳实践揭秘](https://mp.weixin.qq.com/s/YNCyd7Q7JqcVbvpGajjaFA)
 + [Spring AI + LangGraph4j 多智能体开发，太强大了！](https://mp.weixin.qq.com/s/JI7lRqbGGs9ASR0GSn4T7A)
 + [Spring AI存储向量数据](https://mp.weixin.qq.com/s/zAr-tOd02CR53WlTfBZ5Zw)
++ [Spring AI + RAG：网页智能解析，精准问答一键开启！](https://mp.weixin.qq.com/s/o9aH6nrNA8j2dNYKPucAVw)
 
 ### cloud
 
@@ -2957,6 +2970,9 @@
 + [SpringBoot配置属性热更新的轻量级实现](https://mp.weixin.qq.com/s/Fu6Z0IOXCGGLqAa2EAxS3Q)
 + [Spring Boot性能优化：深入剖析Deflate压缩实现与源码解析](https://mp.weixin.qq.com/s/GOjlZtqJb4mSEh2n21r2vQ)
 + [Java进阶手册（五）SpringBoot的内容协商机制详解](https://mp.weixin.qq.com/s/ykcUigJcYbHy4svOTbFOEw)
++ [Spring Boot 这个接口非常强大](https://mp.weixin.qq.com/s/ObioQGOiHBG8n5xZtmzIyw)
++ [Java进阶手册（六）SpringBoot自动配置的深入分析](https://mp.weixin.qq.com/s/tFz4O7LRA0cEgSbeB8Ksmw)
++ [告别低效代码！优化 Spring Boot 编程的关键策略大公开](https://mp.weixin.qq.com/s/CdSbIUEkZXIymcvAX4iRvA)
 
 #### 版本特性
 
@@ -3418,6 +3434,7 @@
 + [Spring Boot时间升级指南：从Date到LocalDateTime的优雅迁移之路](https://mp.weixin.qq.com/s/-tMKHTCU-_c2BTalH3MgUw)
 + [Java进阶手册（三）深入分析SpringBoot中MVC的支持](https://mp.weixin.qq.com/s/_IrtekAsYJIL8zr_GH2e2w)
 + [彻底解决时间格式混乱！Spring Boot 全局时间格式化三大终极方案！](https://mp.weixin.qq.com/s/mm7GUhFrBVP8UUTdpbHI_A)
++ [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/9MG9RoZPxKF2O5E65rWPvQ)
 
 ##### 文件上传下载
 
@@ -3625,6 +3642,7 @@
 + [SpringBoot定时任务改Cron要重启？3种无感修改方案，让调度规则秒生效！](https://mp.weixin.qq.com/s/Bu2XKoqMuAo9F1Zh32qvlw)
 + [SpringBoot定时任务：解锁@Scheduled的终极实践](https://mp.weixin.qq.com/s/8vWoGVF6l8Qfh8oVNwBkOQ)
 + [Spring Boot 动态线程池轻量级技术实现方案](https://mp.weixin.qq.com/s/ttUrm0WzKNThcJ05BTABRg)
++ [Spring Boot 轻量级分布式定时任务技术实现方案](https://mp.weixin.qq.com/s/mIFCfk4bQDU_Xl_bPtIFsg)
 
 ##### Disruptor
 
@@ -4001,6 +4019,10 @@
 + [破局百万并发！SpringBoot × Jasync 异步重构实战，延迟压缩90%！](https://mp.weixin.qq.com/s/sbxCbgelxQXnQ3OQ3GLtTg)
 + [Spring Boot + URule：零代码实现复杂业务规则，可视化规则引擎深度实战](https://mp.weixin.qq.com/s/3t8oRTc3D-zxir_AoRdOPA)
 + [Java Agent + SpringBoot 实现真正的无侵入式性能监控](https://mp.weixin.qq.com/s/1LhUX7kwiy77gNZVGRGLjw)
++ [实时数仓不用Flink也能玩？Java定时任务+轻量级调度方案来了！](https://mp.weixin.qq.com/s/m1KxGajRFLfA35ppVsFskA)
++ [SpringBoot+MyBatis极简整合：XML与注解你会选哪个？](https://mp.weixin.qq.com/s/8h397glgjqYT5OTZzlw9mQ)
++ [SpringBoot实现RPC调用的本地代理模式](https://mp.weixin.qq.com/s/a72bugpqERWt75jnJ1sKQw)
++ [Java进阶手册（七）SpringBoot集成MyBatis方法（巨详细）](https://mp.weixin.qq.com/s/gxy7TQW7AK-2L-xDaXe-zQ)
 
 #### test
 

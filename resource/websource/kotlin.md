@@ -26,6 +26,7 @@
 + [机器比人靠谱！Meta 耗时4年半，将 Java 代码转成 Kotlin：进度刚过半，真正难搞的还没开始](https://mp.weixin.qq.com/s/54sOqM9l52r80tSH193lrA)
 + [Kotlin异常处理大比拼：try-catch vs runCatching，谁才是你的菜？](https://mp.weixin.qq.com/s/P1-v2Imi012IJ-HYPeaD8g)
 + [Kotlin 属性委托 observable 的实现原理](https://mp.weixin.qq.com/s/riTRgtls1UpTxxlFsKwN0w)
++ [告别Java啰嗦代码！Kotlin两大魔法让编程爽到飞起](https://mp.weixin.qq.com/s/barxZs-0cyrFey-wpOFM3w)
 
 ## 技术月报
 

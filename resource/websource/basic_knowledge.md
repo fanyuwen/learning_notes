@@ -17,6 +17,7 @@
 + [计算机操作系统 - 地址转换机制](https://mp.weixin.qq.com/s/XVwUYvfomT0Perzo4V1OVA)
 + [计算机操作系统 - 地址空间演化](https://mp.weixin.qq.com/s/Rej_fsEGDjvxu88O0Ju5pA)
 + [10个程序员8个的多线程卡成狗？你可能连fork和exec都没整明白！](https://mp.weixin.qq.com/s/ocFvQWpEufBZ7BxpJKNftA)
++ [Windows 与 Linux 系统中快速查看 CPU 和内存情况的方法](https://mp.weixin.qq.com/s/s_8kQLR0prGoIWijAArxpg)
 
 ## 文件系统
 
@@ -166,6 +167,8 @@
 + [Linux指南(十)：文件、一切皆文件](https://mp.weixin.qq.com/s/6cvTKiZ0BHuePTNsZ-FKpg)
 + [Linux互斥锁使用陷阱：五大常见错误与解决方案](https://mp.weixin.qq.com/s/AqrRXh82oPxKz5Mwpk_oDw)
 + [【Linux】网络知识点——物理层详解](https://mp.weixin.qq.com/s/Xg3RZEDrdOZVrhSpF2Erfg)
++ [正则表达式扫盲篇](https://mp.weixin.qq.com/s/jWxfIAGuFfr0vbemCRs5xg)
++ [Linux内核数据结构之链表](https://mp.weixin.qq.com/s/N64_JsnEohf0nOiobCgZvQ)
 
 ### 网络
 
@@ -265,6 +268,7 @@
 + [章节2：基本的Linux命令，【df】 命令常用的实用示例](https://mp.weixin.qq.com/s/2NKVvmqPsNHVLJewSymV8w)
 + [避免磁盘空间不足：Linux df 与 du 命令的实用技巧](https://mp.weixin.qq.com/s/_c2STeW1hMP5R3wjTe6ymA)
 + [Linux shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/BIdGycqwmtpX9CmlvgQyQA)
++ [50 个日志分析必备Linux 命令 懂一半绝对高手！](https://mp.weixin.qq.com/s/L5fZoxoIr4SLdFU7ouSy7g)
 
 ### 发行版信息
 
@@ -658,6 +662,7 @@
 + [SMTP（简单邮件传输协议）协议学习（Wireshark分析&C语言解析）](https://mp.weixin.qq.com/s/t8hd_vuhqTkct68kbz91jw)
 + [MQTT broker有哪几种类型？](https://mp.weixin.qq.com/s/kNeJQqB8jM4gCAT7IE1TNA)
 + [MQTT物联网IOT通信协议技术全解析(完结篇)](https://mp.weixin.qq.com/s/SAaPmltkTos-ULNP2NgowQ)
++ [一文详解蓝牙通信技术](https://mp.weixin.qq.com/s/wjR25Yz2GT4k6eVtYoaI7g)
 
 ## web
 

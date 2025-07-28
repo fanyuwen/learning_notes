@@ -88,6 +88,7 @@
 + [Python for 循环时判断第一个和最后一个元素](https://mp.weixin.qq.com/s/zhQPVhe3zP2lhWo4Ui-sCw)
 + [Day 05 - 循环控制语句详解](https://mp.weixin.qq.com/s/cpfD2FNcTEcNJth0LfVrBQ)
 + [苦练Python第4天：Python变量与数据类型入门](https://mp.weixin.qq.com/s/6UGDSf1iHlZzICMuyDojwQ)
++ [一文带您解读 Python 中的 “@” 符号：多功能的简洁高效操作符](https://mp.weixin.qq.com/s/yzmJ5mDBhe6S3BanhRf0yQ)
 
 ### 函数/方法
 

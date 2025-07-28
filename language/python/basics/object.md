@@ -1,6 +1,6 @@
 ### 类定义
 + dataclass @3.7
-`dataclass`作为标准库中的一个模块,从`Python 3.7`开始引入.随着`Python`版本的不断更新,`dataclass`逐渐发展和完善,为开发者提供了一种更便捷的方式来创建和管理数据类,`dataclass`的主要作用是简化定义数据类的过程.
+> `dataclass`作为标准库中的一个模块,从`Python 3.7`开始引入.随着`Python`版本的不断更新,`dataclass`逐渐发展和完善,为开发者提供了一种更便捷的方式来创建和管理数据类,`dataclass`的主要作用是简化定义数据类的过程.
 ```python
 class CoinTrans:
     def __init__(

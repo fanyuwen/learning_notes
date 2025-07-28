@@ -1,3 +1,20 @@
+### bisect模块
+> `bisect`是`Python`标准库中的一个模块,用于维护有序列表,它基于二分查找算法实现了高效的插入和查找操作.
+```python
+import bisect
+
+data = [1, 3, 5, 7, 9]
+# 在有序列表`data`中查找`x`的插入位置,返回的位置保证`x`插入后列表仍然有序,如果`x`已存在,则插入到最左边,`lo`和`hi`参数用于指定查找范围
+bisect.bisect_left(data, x, lo=0, hi=len(a))
+# 类似`bisect_left`,但如果 x 已存在,则插入到最右边
+bisect.bisect_right(data, x, lo=0, hi=len(a))
+bisect.bisect(data, x, lo=0, hi=len(a))
+# 将`x`插入到有序列表`data`中,保持列表有序,如果`x`已存在,插入到最左边
+bisect.insort_left(data, x, lo=0, hi=len(a))
+# 类似`insort_left`,但如果`x`已存在,插入到最右边
+bisect.insort_right(data, x, lo=0, hi=len(a))
+bisect.insort(data, x, lo=0, hi=len(a))
+```
 ### sorted
 对可迭代对象进行排序
 ```python

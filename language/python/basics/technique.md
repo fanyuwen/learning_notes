@@ -21,3 +21,11 @@ if x or y or z:
 if any((x, y, z)):
     print('passed')
 ```
++ 如何根据字典值对字典进行排序
+```python
+xs = {'a':4, 'b':3, 'c':2, 'd':1}
+sorted(xs.items(), key=lambda x: x[1]) #[('d', 1), ('c', 2), ('b', 3), ('a', 4)]
+
+import operator
+sorted(xs.items(), key=operator.itemgetter(1)) #[('d', 1), ('c', 2), ('b', 3), ('a', 4)]
+```

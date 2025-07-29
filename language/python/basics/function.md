@@ -6,6 +6,21 @@ def methodparam(positional1, positional2, /, optionally1, optionally2, *, keywor
     print(f"positional1 is {positional1}, positional2 is {positional2}, optionally1 is {optionally1}, optionally2 is {optionally2}, keyword1 is {keyword1} , keyword2 is {keyword2}.")
 methodparam(1, 2, 3, 4, keyword1=5, keyword2=6)
 ```
+考虑下面的函数定义,它在位置参数`name`和以`name`为键的`**kwds`之间存在潜在的冲突
+```python
+def foo(name, **kwds):
+    return 'name' in kwds
+# 没有可能的调用会使它返回True，因为关键字‘name’总是绑定到第一个参数。例如：
+foo(1, **{'name': 2})
+# Traceback (most recent call last):
+#   File "<stdin>", line 1, in <module>
+# TypeError: foo() got multiple values for argument 'name'
+
+# 但是使用`/`(位置参数)这是可能的,因为它允许`name`作为位置参数，'`name`'作为关键字参数的键
+def foo(name, /, **kwds):
+    return 'name' in kwds
+foo(1, **{'name': 2}) # True
+```
 ### bisect模块
 > `bisect`是`Python`标准库中的一个模块,用于维护有序列表,它基于二分查找算法实现了高效的插入和查找操作.
 ```python

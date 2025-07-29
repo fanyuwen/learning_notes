@@ -699,6 +699,7 @@
 + [最牛逼的自动化测试工具：用Appium实现移动应用的自动化](https://mp.weixin.qq.com/s/MFZL8Y0TfjjUlXlKkrdbKQ)
 + [得物精准测试平台设计与实现](https://my.oschina.net/u/5783135/blog/16511939)
 + [关于API性能测试压力模型选择的思考](https://mp.weixin.qq.com/s/ZhGGC70AGIuhp7tu41w-Jw)
++ [告别代码焦虑，单元测试让你代码自信力一路飙升！](https://my.oschina.net/u/6769809/blog/18684709)
 
 # 领域相关
 

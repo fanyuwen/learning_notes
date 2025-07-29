@@ -1,5 +1,5 @@
 ### 指定参数
-参数列表里`/`之前的参数必须按照位置索引去传递,`*`之后的参数必须按照名称去传递,`/`必须在`*`之前,这2个参数是可选的.
+参数列表里`/`之前的参数必须按照位置索引去传递,`*`之后的参数必须按照名称去传递,`/`必须在`*`之前,这2个是可选的.
 ```python
 # / 前面的 positional1 positional2 必须按照位置顺序传递,* 后面的 keyword1 keyword2 必须按照参数名传递,中间的2个按照位置或者名称传递都行
 def methodparam(positional1, positional2, /, optionally1, optionally2, *, keyword1, keyword2):

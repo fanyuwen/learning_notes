@@ -16,7 +16,7 @@ foo(1, **{'name': 2})
 #   File "<stdin>", line 1, in <module>
 # TypeError: foo() got multiple values for argument 'name'
 
-# 但是使用`/`(位置参数)这是可能的,因为它允许`name`作为位置参数，'`name`'作为关键字参数的键
+# 但是使用`/`(位置参数)这是可能的,因为它允许`name`作为位置参数,'`name`'作为关键字参数的键,换句话说,仅位置参数的名称可以在`**`语言中使用而不会产生歧义.
 def foo(name, /, **kwds):
     return 'name' in kwds
 foo(1, **{'name': 2}) # True

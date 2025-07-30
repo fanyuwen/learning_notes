@@ -189,6 +189,7 @@
 + c/c++构建工具 [cmake](https://cmake.org/) [meson](https://mesonbuild.com/)
 + 包管理工具 [conan](https://conan.io/)
 + c/c++学习资源 [c/cpp英文文档](https://en.cppreference.com/) [c/cpp中文文档](https://zh.cppreference.com/) [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) [isocpp](https://isocpp.org/)
++ c/c++依赖库 [boost](https://www.boost.org/)
 
 ---
 

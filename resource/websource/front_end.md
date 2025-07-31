@@ -223,6 +223,7 @@
 + [深入浅出JavaScript (八) 异步编程](https://mp.weixin.qq.com/s/iI_6HzAzSMUXyerAWNM45g)
 + [为何 async/await 会“阻塞”页面？并发处理的正确姿势](https://mp.weixin.qq.com/s/NG0xv9Hy5OA3-uiT6X2gfw)
 + [JavaScript 异步编程指南：async/await 与 Promise 该怎么选？](https://my.oschina.net/powertoolsteam/blog/18684500)
++ [值得学习的 10 个 代码知识库，助你进阶 JavaScript](https://mp.weixin.qq.com/s/yXOkPetQriE4yHIugGSzqw)
 
 # 框架
 

@@ -276,6 +276,7 @@
 + [微服务、分布式、集群：别再傻傻分不清楚了！](https://mp.weixin.qq.com/s/Xl0TxBCJXpULLegQd-wfiw)
 + [Raft协议](https://mp.weixin.qq.com/s/S68jCwZpdAP4f8_T6ByLYQ)
 + [数据一致性算法详解之Gossip协议篇](https://mp.weixin.qq.com/s/imx8FbFQmnHdBHH4vfkAnQ)
++ [如何看待多主&无主复制线性一致性](https://mp.weixin.qq.com/s/8iA5tJWq9JQjhNi0s13dkA)
 
 ## 分布式锁
 
@@ -712,6 +713,7 @@
 + [【HDLbits--FSM状态机】](https://mp.weixin.qq.com/s/M5gPSFbyhbon9n5cjtOJhA)
 + [Verilog | 有限状态机Case](https://mp.weixin.qq.com/s/TgVQPvoWbOYbTHAKtNP1sw)
 + [状态机模型，你真的搞懂并用对了吗？](https://mp.weixin.qq.com/s/_vg5lB8CC0OzrcHfQ-iv9w)
++ [状态机FSM](https://mp.weixin.qq.com/s/YSB19G7D2ccRBZXA7Pi4xg)
 + [基于有限状态机的测试（一）：基本定义和测试目标](https://mp.weixin.qq.com/s/P8DE0kCQvYBqIfd5I1bjzA)
 + [行为树（Behavior Tree）与状态机（State Machine）区别？](https://mp.weixin.qq.com/s/98BrJimP_2OtwjSq_prMXg)
 + [Boss怪状态机设计思路](https://mp.weixin.qq.com/s/XyeQARCgxFva-0WJJrbAbA)

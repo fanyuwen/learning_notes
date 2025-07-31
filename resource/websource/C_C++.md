@@ -32,6 +32,7 @@
 + [CMake超简单上手：从最简C代码到嵌入式项目管理](https://mp.weixin.qq.com/s/Fk6OD7sa-BmLg7VfKlHlCg)
 + [CMake之常用语法(宏)](https://mp.weixin.qq.com/s/7KYB6MkyaQyM3WTfiKWY5g)
 + [CMake引用自己开发第三方库](https://mp.weixin.qq.com/s/D0VVIWl0iE2B9z676SxQbw)
++ [Modern CMake：构建规范化的C++工程，从放弃“学生范CMakeLists”开始](https://mp.weixin.qq.com/s/zCtwuvHB3MlbGbpawsfOjQ)
 
 ### 第三方技术
 
@@ -246,6 +247,7 @@
 + [C++20 同步原语新篇章：std atomic_ref 与 std latch 深度解析](https://mp.weixin.qq.com/s/cOOBtelfXWpz8toP3eeaIw)
 + [C++中的cmath库](https://mp.weixin.qq.com/s/3jcDyoPDsabUn3ERKXfHyw)
 + [C++ cstring 库解析：C 风格字符串函数](https://mp.weixin.qq.com/s/MuwvfTLTck7ST1V4tVGW0g)
++ [C++ STL容器详解：掌握vector、map、set的高效使用技巧](https://mp.weixin.qq.com/s/uRkFZnj7ZZm3RnnJaLEvXw)
 
 #### 新特性
 
@@ -270,6 +272,7 @@
 + [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [c++26新功能—hive容器](https://mp.weixin.qq.com/s/eVPOEmCR8MLiqmLCSMEHuA)
++ [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 
 #### 面向对象
 
@@ -498,6 +501,7 @@
 + [Linux C语言 灵活数组成员](https://mp.weixin.qq.com/s/PsOe7mT7gk1Tj_vOyVRRjA)
 + [为什么数组的下标从 0 开始？](https://mp.weixin.qq.com/s/TLcJgjoYcf3xYCMgwLNfzw)
 + [C语言一维数组：从"单身公寓"到"集体宿舍"](https://mp.weixin.qq.com/s/Cx60REV679x_RhuNBxFHUw)
++ [C语言数组基础和高级用法](https://mp.weixin.qq.com/s/7vPNdOnJt1Ah06Tg4EaW1g)
 
 #### 结构体
 
@@ -540,6 +544,10 @@
 + [深度系列之C语言：第26章 库文件](https://mp.weixin.qq.com/s/eG1BDdZqMXsrbt5pQlB9Dw)
 + [C：C 使用 C++ 静态库](https://mp.weixin.qq.com/s/tYcrcE71qjnvcWc3yPvR-Q)
 
+#### 实践
+
++ [Linux下C编程使用动态链接库](https://mp.weixin.qq.com/s/NiSTksbmJQae-zba3VF4iw)
+
 ### 前景
 
 + [C语言凭什么统治操作系统开发？](https://mp.weixin.qq.com/s/uyg8v05o7wTxZ1-oXQkHWw)
@@ -556,6 +564,7 @@
 + [嵌入式编程基础 | C语言的关键字有哪些，哪些词容易混淆为关键字？](https://mp.weixin.qq.com/s/vJowEt_Cha_zlUrrHx1HBg)
 + [用 C 语言编写的嵌入式软件，需要强调高内聚低耦合吗？](https://mp.weixin.qq.com/s/pKGD2dz5FYhCbBy3JaIFqw)
 + [设计模式:嵌入式C语言实现探索_10.模板方法模式](https://mp.weixin.qq.com/s/orWLs392YO5OVJi4wvDaXg)
++ [谈C编程---基于STM32的GPIO操作 ##应用](https://mp.weixin.qq.com/s/261Al6WAC3mFxzCwAkdL3A)
 
 #### 三方库
 

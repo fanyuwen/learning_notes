@@ -130,6 +130,7 @@
 + [Java注解：代码中的“隐藏力量”](https://mp.weixin.qq.com/s/U_QCUT7uFMJgRq_j1lM6Vw)
 + [面试官：谈谈自定义注解的场景及实现](https://mp.weixin.qq.com/s/w8m6e6bnMvaIrMrrcfGfFA)
 + [快速入门-Java注解](https://mp.weixin.qq.com/s/eQHXvnn_I7S_esdTeL721g)
++ [Java注解底层竟然是个Map？](https://mp.weixin.qq.com/s/Kqc8m4ELMeqzD6-_dmEPLA)
 
 ### 泛型
 
@@ -449,6 +450,7 @@
 + [告别 "if-else"，改用 "return"！](https://mp.weixin.qq.com/s/NMWJqpvU-7hYyVkQAoM7KQ)
 + [JAVA：实现平衡二叉树（AVL Tree）及其应用实践](https://mp.weixin.qq.com/s/c-5Q93pvWRzIr-hixyEU3A)
 + [别再手写工具类了！这 7 个 “现成轮子” 能省 80% 时间](https://mp.weixin.qq.com/s/tdivNKQMDrIJOz7cVcgwUQ)
++ [java中哪些代码让你惊呼：还能这么写？](https://mp.weixin.qq.com/s/En3xUoHaAOHa5TJ-H-lbnQ)
 
 ## 代码质量
 
@@ -534,6 +536,7 @@
 + [Java开发中的5个“反模式”，CTO看了都说好，你中招了吗？](https://mp.weixin.qq.com/s/UjZHdgggyvW0bGlh-JPAGA)
 + [别让这些“坏味道”毁了你的Java代码！30条避坑指南](https://mp.weixin.qq.com/s/KjoiTUPLbo4zQHbCjwNbWw)
 + [Java开发者必看！Arrays.asList()的5个致命陷阱，第3个90%人踩过](https://mp.weixin.qq.com/s/bd1dKgcDnwOQsMLQ59l2vg)
++ [CTO：谁在项目中使用Arrays.asList、ArrayList.subList，就立马滚蛋！](https://mp.weixin.qq.com/s/KGTVkZtXh3pW-L1za2h5pA)
 
 # 底层
 
@@ -634,6 +637,7 @@
 + [Java集合框架性能优化：合理选择集合，提升运行效率](https://mp.weixin.qq.com/s/zoN4_FdsTvh23Zz6MIT71Q)
 + [Java每日小知识——调用 System.runFinalizersOnExit() 的风险与解决方法](https://mp.weixin.qq.com/s/CMCqRDKFTye_fGzwPf4fMA)
 + [Java集合框架深度解析：LinkedList vs ArrayList 的对决](https://mp.weixin.qq.com/s/xWxXFeZ26vXCz8p03zZLUA)
++ [真没想到，Java import 语句我也能踩坑](https://mp.weixin.qq.com/s/flV72Gbf0mVvcRvqKoEppQ)
 
 ### 序列化
 
@@ -691,6 +695,7 @@
 + [深入理解Java反射机制：动态编程的利器，框架源码阅读必备技能！](https://mp.weixin.qq.com/s/4moOwwlcCQyxJWNt7NW75w)
 + [反射与注解在框架中的妙用：Spring、MyBatis源码中的设计哲学！](https://mp.weixin.qq.com/s/ln1NPzjlRhcc8GVQXDVr1A)
 + [JAVA：高并发下如何解决数据库性能瓶颈](https://mp.weixin.qq.com/s/hMlidFEUIFkZZgLkcbFjfw)
++ [Java Modular对反射(Reflect)的使用影响](https://mp.weixin.qq.com/s/HlSjaB02f6aUryeP3VGmWw)
 
 ### 并发/多线程
 
@@ -1948,6 +1953,7 @@
 + [告别重复SQL，MyBatis这样用效率翻倍](https://mp.weixin.qq.com/s/UqKu3A0YLv56mA0fsxWLiQ)
 + [MyBatis进阶：15个硬核技巧让代码瘦一半](https://mp.weixin.qq.com/s/eVgJfvv1_uwwqxYIeaecew)
 + [MyBatis 总掉坑？15 个基础技巧帮你站稳脚](https://mp.weixin.qq.com/s/gD2IKv5Gh5kg-perft2Fvw)
++ [Java面试题012：一文深入了解Mybatis原理2](https://mp.weixin.qq.com/s/SxVqydoqPsD9y6V8FLj81A)
 
 ### plus
 
@@ -2119,6 +2125,7 @@
 ## seata
 
 + [深度剖析Seata源码](https://mp.weixin.qq.com/s/WzWAk2fYQmr0HYUxAwHxwg)
++ [分布式事务解决神器Seata！TCC模式](https://mp.weixin.qq.com/s/zxU2i9uaEYu4jTQdYtsRfA)
 
 ## sentinel
 
@@ -2632,6 +2639,7 @@
 ### shell
 
 + [Spring Shell：构建强大命令行应用的利器](https://mp.weixin.qq.com/s/KwHjaHkA3b9QPXd27GF7Vw)
++ [牛马的人生，需要Spring Shell](https://mp.weixin.qq.com/s/k1pv-g8n7oxr2Jn041fK5g)
 
 ### AI
 
@@ -2973,6 +2981,8 @@
 + [Spring Boot 这个接口非常强大](https://mp.weixin.qq.com/s/ObioQGOiHBG8n5xZtmzIyw)
 + [Java进阶手册（六）SpringBoot自动配置的深入分析](https://mp.weixin.qq.com/s/tFz4O7LRA0cEgSbeB8Ksmw)
 + [告别低效代码！优化 Spring Boot 编程的关键策略大公开](https://mp.weixin.qq.com/s/CdSbIUEkZXIymcvAX4iRvA)
++ [SpringBoot 内置工具类， 这也太好用了！](https://mp.weixin.qq.com/s/KzA8KvCqqc84mZWQqskbdA)
++ [SpringBoot 读文件总翻车？ResourceUtils 让资源读取变简单](https://mp.weixin.qq.com/s/KaAwCOrAWnQbIlpYI5Nz-A)
 
 #### 版本特性
 
@@ -3435,6 +3445,7 @@
 + [Java进阶手册（三）深入分析SpringBoot中MVC的支持](https://mp.weixin.qq.com/s/_IrtekAsYJIL8zr_GH2e2w)
 + [彻底解决时间格式混乱！Spring Boot 全局时间格式化三大终极方案！](https://mp.weixin.qq.com/s/mm7GUhFrBVP8UUTdpbHI_A)
 + [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/9MG9RoZPxKF2O5E65rWPvQ)
++ [别再自己造轮子！Spring Boot内置的9个过滤器用法详解（附代码）](https://mp.weixin.qq.com/s/LRlmE5WWoq6I-pRQzYIGXQ)
 
 ##### 文件上传下载
 
@@ -3567,6 +3578,7 @@
 + [Spring Boot 和 Spring Cloud 事务管理的实现方式汇总](https://mp.weixin.qq.com/s/gIPaa8N5z6r55t0ilPUfIQ)
 + [【事务技巧】掌握Spring事务管理的精髓：中高级开发者的必备技能](https://mp.weixin.qq.com/s/X1GQZu1vqysA3UU_AwYZIA)
 + [绝了！Spring Boot 事务回滚竟藏 5 种神操作](https://mp.weixin.qq.com/s/ayXnxon-cEvhXWmB2Yb1Qg)
++ [SpringBoot事务管理：@Transactional的六个致命陷阱](https://mp.weixin.qq.com/s/V_18hke4DXzHRbWD2tF6xQ)
 
 ##### BIG DATA
 
@@ -4023,6 +4035,8 @@
 + [SpringBoot+MyBatis极简整合：XML与注解你会选哪个？](https://mp.weixin.qq.com/s/8h397glgjqYT5OTZzlw9mQ)
 + [SpringBoot实现RPC调用的本地代理模式](https://mp.weixin.qq.com/s/a72bugpqERWt75jnJ1sKQw)
 + [Java进阶手册（七）SpringBoot集成MyBatis方法（巨详细）](https://mp.weixin.qq.com/s/gxy7TQW7AK-2L-xDaXe-zQ)
++ [SpringBoot 定时任务终极指南：从 @Scheduled 到 XXL-JOB 的进阶之路！](https://mp.weixin.qq.com/s/o9iz75T1Psw-ms1q_PJAzA)
++ [深入浅出：基于 Spring 集成的 Redis 分布式可重入锁实践](https://mp.weixin.qq.com/s/HACjl5mWQorVJMPlcDYRXg)
 
 #### test
 
@@ -4030,6 +4044,7 @@
 + [一种极简单的 SpringBoot 单元测试方法](https://my.oschina.net/u/4090830/blog/17877410)
 + [非常赞！一文彻底精通 Spring Boot 单元测试](https://mp.weixin.qq.com/s/mhKtgI1_SpW770fG6lb74w)
 + [别再手动测接口了！SpringBoot+JUnit单元测试自动化指南](https://mp.weixin.qq.com/s/6DaNXfZEPghtTAmAHOFupg)
++ [深入Spring整合Mockito：上下文污染以及解决方案](https://mp.weixin.qq.com/s/lKavMYIqB51gyXhc51DVxQ)
 
 #### 自定义实现
 

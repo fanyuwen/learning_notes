@@ -987,6 +987,7 @@
 + [Java核心第12讲：线程关键字:volatile](https://mp.weixin.qq.com/s/mlOxC06fBiHZ_e03-sVJYQ)
 + [volatile为何不保证原子性？“直播抢券翻车”现场告诉你真相！](https://mp.weixin.qq.com/s/r3pIDpHb-3bxs4wCuC0bmA)
 + [java volatile关键字使用详解](https://mp.weixin.qq.com/s/X7OwzE-VBgddmPziWQk4tw)
++ [Java volatile 关键字到底是什么｜得物技术](https://my.oschina.net/u/5783135/blog/18686270)
 
 ## 源码
 

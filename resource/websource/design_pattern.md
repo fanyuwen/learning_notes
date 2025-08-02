@@ -66,6 +66,7 @@
 + [【设计模式】单例模式深度解析：从饿汉式到枚举实现的全方位解读](https://mp.weixin.qq.com/s/6Lkf6bSlyRBCI7xjXvfLCg)
 + [单例模式：饿汉式与懒汉式](https://mp.weixin.qq.com/s/lC2N9hn6HY7PiFESDNo8HA)
 + [单例模式中的隐藏陷阱：你真的了解单例吗？](https://mp.weixin.qq.com/s/1Efq_eS-KNxXJqAneYkImQ)
++ [设计模式之单例模式](https://mp.weixin.qq.com/s/OoJ8z4rT-efWJw5eKWWNxQ)
 
 ## 模板方法模式
 
@@ -177,6 +178,7 @@
 + [15. 解释器模式：Java中的语法分析利器](https://mp.weixin.qq.com/s/wqQf_-tXUMHkSsi2Fx5fEg)
 + [聊一聊：设计模式——解释器模式](https://mp.weixin.qq.com/s/XhQnS4ciJhFDRnm3sMma6Q)
 + [实战设计模式之解释器模式](https://mp.weixin.qq.com/s/_Iuz8nvw4TRPdi7KouyeSw)
++ [一文通透解释器模式：程序员必学的“语言解析秘籍”](https://mp.weixin.qq.com/s/govPtd09TEv81VXAat_IVQ)
 
 ## 迭代器模式
 

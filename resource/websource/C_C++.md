@@ -1,5 +1,7 @@
 # 语言相关
 
++ [聊一聊开发中的C语言和C++语言用法](https://mp.weixin.qq.com/s/OboQQpk7lrhHbDO17Tmw6A)
+
 ## 工具
 
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
@@ -190,6 +192,8 @@
 + [C++中的内存：栈与堆](https://mp.weixin.qq.com/s/poN_Cgbu691kLx2fbPYzoQ)
 + [C++内存分配重载全解析，教你写出无BUG的operator new！](https://mp.weixin.qq.com/s/lYo-Q9bPQUAMdMyWXJJ4zA)
 + [C++第15课：函数模板](https://mp.weixin.qq.com/s/X1OjOiIeVVKw2LUp8Y8vvQ)
++ [C++项目构建之三 编译问题分析](https://mp.weixin.qq.com/s/Yg6ujACx96SLQ49Hder1oA)
++ [C++ 返回值优化 (RVO) 深入解析](https://mp.weixin.qq.com/s/9tGovxCRS2buW3461Vli2Q)
 
 #### 指针
 
@@ -204,6 +208,7 @@
 + [函数对象 vs 函数指针 vs lambda：该用哪个才高效？](https://mp.weixin.qq.com/s/bluxesbkF-XEgL7L-ykvkw)
 + [C++智能指针：shared_ptr、unique_ptr与weak_ptr的理解与使用](https://mp.weixin.qq.com/s/RUIXAQL67kQMoc8BezQA4A)
 + [C++中的智能指针](https://mp.weixin.qq.com/s/16BZlOdLfuWNF79oDUhp5A)
++ [C++智能指针全解析：从auto_ptr到weak_ptr，彻底掌握内存管理利器！强烈建议收藏！！！](https://mp.weixin.qq.com/s/NIxtfgjND_Y0HJJ_yymkvQ)
 
 #### 数据结构&算法
 
@@ -249,6 +254,7 @@
 + [C++中的cmath库](https://mp.weixin.qq.com/s/3jcDyoPDsabUn3ERKXfHyw)
 + [C++ cstring 库解析：C 风格字符串函数](https://mp.weixin.qq.com/s/MuwvfTLTck7ST1V4tVGW0g)
 + [C++ STL容器详解：掌握vector、map、set的高效使用技巧](https://mp.weixin.qq.com/s/uRkFZnj7ZZm3RnnJaLEvXw)
++ [C++ STL算法库：全面解析与应用](https://mp.weixin.qq.com/s/1pytTwxeoGnuFwT8IMdjWw)
 
 #### 新特性
 
@@ -274,6 +280,7 @@
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [c++26新功能—hive容器](https://mp.weixin.qq.com/s/eVPOEmCR8MLiqmLCSMEHuA)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
++ [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 
 #### 面向对象
 
@@ -333,6 +340,10 @@
 + [如何优化C++线程池的性能](https://mp.weixin.qq.com/s/32z5VyL5L-eVMT3zr4jT4A)
 + [线程池（C++）](https://mp.weixin.qq.com/s/hNAEi4PNFPjhorF_in8pVw)
 + [手撕线程池：C++程序员的能力试金石](https://mp.weixin.qq.com/s/Yqtj87cKqYVZzb73ym7Z0A)
++ [英伟达C++ tegra面试：mutex底层原理是什么？](https://mp.weixin.qq.com/s/nwtXvcAIOcUxwPyF1_Ql8g)
++ [c++并发编程系列（二）：线程间数据同步](https://mp.weixin.qq.com/s/U-RQEzwvlOFr2d4coeqXdg)
++ [C++协程实战：异步编程代码实现](https://mp.weixin.qq.com/s/g1iCIDQBC43jJdTxo6nKCA)
++ [C++并发](https://mp.weixin.qq.com/s/l0RhwTpsYPonOF2r_I9F6w)
 
 #### 扩展
 
@@ -410,6 +421,8 @@
 ### 基础
 
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
++ [编程语言那么多，为何C语言能成为最成功的语言？](https://mp.weixin.qq.com/s/qmZxbIbPfFk9oHP7E779bg)
++ [C语言开发必备：这些神奇的宏定义让你的代码飞起来！](https://mp.weixin.qq.com/s/ChojNZdFxuP7T6JKfmsMQA)
 + [我的C语言之路：4-使用C语言的7个步骤](https://mp.weixin.qq.com/s/w9Cf4L0MlbaHAnd4uMcSRA)
 + [我的C语言之路：1-核心概念与实践指南](https://mp.weixin.qq.com/s/5nNHThtSRcG89XfSk78_8g)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
@@ -443,6 +456,7 @@
 + [谈C编程---字符串相关函数](https://mp.weixin.qq.com/s/zVCqybRee7uMYUjpm-_3Ew)
 + [谈C编程---字符串字面量下标访问用法](https://mp.weixin.qq.com/s/NjfwbZZfF_gaeA3BNtw42g)
 + [谈C编程---预处理解析](https://mp.weixin.qq.com/s/mKoWcd9WfjkDgqpUgVKH3w)
++ [C语言switch/case语句控制详解](https://mp.weixin.qq.com/s/evaHiHN3hxWej-ThEYyryQ)
 
 ### 高阶
 
@@ -491,6 +505,10 @@
 + [一个内存泄漏案例引发的思考](https://mp.weixin.qq.com/s/U9Ut0Cd6vucNydX5aW4CPA)
 + [谈C编程---位域符号扩展](https://mp.weixin.qq.com/s/gJjB3O2XCZCLhvcsaiUe8A)
 + [C语言的内存管理](https://mp.weixin.qq.com/s/2nCwQWDeNu8uWhV2nBCqsw)
++ [C算法37：判断一个点是否在矩形内部](https://mp.weixin.qq.com/s/3cikumMM2P65P7DYiReJtQ)
++ [C语言错误处理与异常处理详解，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/W-04vr7VtDdigKIe_LS2sQ)
++ [谈C编程---inline关键字](https://mp.weixin.qq.com/s/ZPdXdiFgr9gprrmVYDUHqw)
++ [C 语言实现单链表的](https://mp.weixin.qq.com/s/NKrFjX2I8_bVxNvwAGBu3g)
 
 #### 宏
 
@@ -539,6 +557,7 @@
 + [C语言指针：让你又爱又恨的“指指点点”](https://mp.weixin.qq.com/s/f7VVOa4zD46squLTJXg1LA)
 + [谈C编程---void *一种特殊的指针类型](https://mp.weixin.qq.com/s/mn8Zt7o6CoTF5Rjt4YYk6g)
 + [C 语言指针：从内存地址到底层操控的核心](https://mp.weixin.qq.com/s/YwI-oypZrCqBD5Cj4ZCVvA)
++ [嵌软面试-基础篇：6- 一个指针指向了常量，然后操作这个指针会怎么样？](https://mp.weixin.qq.com/s/xgKEvMnC_i9Vh35ntjEIhg)
 
 #### 函数
 
@@ -547,6 +566,8 @@
 + [C语言三剑客：普通函数、内联函数与函数式宏定义的终极对决](https://mp.weixin.qq.com/s/rltbsO-xUVH-tZWhRYvEvw)
 + [基于Linker Script与__attribute__((section))实现 C 语言函数调用实战](https://mp.weixin.qq.com/s/v6MB93469fHaWaQs1ctsVQ)
 + [C语言函数参数：数组怎么传？为啥传着传着就秃了？](https://mp.weixin.qq.com/s/MKXR7HPbY-VZ209T2ZCzzA)
++ [C语言的'快充'技巧:内联函数](https://mp.weixin.qq.com/s/LZ1Kv-9YwTW15ck3JqBYuA)
++ [谈C编程---数组作为函数参数](https://mp.weixin.qq.com/s/p9j4OI0rhMMdcjn_O0muuw)
 
 #### 库
 
@@ -647,6 +668,7 @@
 + [嵌入式面试指南：你必须掌握的Flash知识](https://mp.weixin.qq.com/s/K70cGheqtAVaeFY3iQaFRA)
 + [嵌入式软件编程，如何提高代码的可移植性？](https://mp.weixin.qq.com/s/EJbQoXEPWhxh-pmjEFclEA)
 + [嵌软面试-基础篇：5-C++智能指针](https://mp.weixin.qq.com/s/iG-mgbn0sD8GXazX3pUTfQ)
++ [嵌软面试-基础篇：7-内存泄漏、内存溢出与内存越界](https://mp.weixin.qq.com/s/3XaMuRF3LaDwlzXVL5Ppzg)
 
 # ARM
 
@@ -678,6 +700,7 @@
 + [单片机原理_03单片机的内部功能详介](https://mp.weixin.qq.com/s/AHdCtjquFU1OTXAISZfXWg)
 + [单片机为什么被认为是一门简单的技术？](https://mp.weixin.qq.com/s/zsvDttjsMxwVZ0xLPkGl6Q)
 + [单片机可以使用cJSON吗](https://mp.weixin.qq.com/s/ozEtl-x9mfbP0yr-xw4Q5A)
++ [单片机开发快速入门：单片机原理及学习方法](https://mp.weixin.qq.com/s/A5UGrffBdoJpV7Tbc_Oqdw)
 
 # NVIDIA
 

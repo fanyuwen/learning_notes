@@ -169,6 +169,9 @@
 + [【Linux】网络知识点——物理层详解](https://mp.weixin.qq.com/s/Xg3RZEDrdOZVrhSpF2Erfg)
 + [正则表达式扫盲篇](https://mp.weixin.qq.com/s/jWxfIAGuFfr0vbemCRs5xg)
 + [Linux内核数据结构之链表](https://mp.weixin.qq.com/s/N64_JsnEohf0nOiobCgZvQ)
++ [探秘 Linux 内核：watchdog 看门狗框架全解析](https://mp.weixin.qq.com/s/jQXVAsqJ76MkHBR7krgiug)
++ [Linux 高性能数据结构枫树 - 把红黑树都替代了](https://mp.weixin.qq.com/s/pNlrGqCK0OxJ2EfYgWnovA)
++ [嵌入式Linux多线程编程](https://mp.weixin.qq.com/s/EwA22XjWe_WeDDbzRuOARw)
 
 ### 网络
 

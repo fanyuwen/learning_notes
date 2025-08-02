@@ -685,6 +685,7 @@
 + [秒杀系统要不要加分布式锁？](https://mp.weixin.qq.com/s/yCHAgR4fbrNvRPuMSe673w)
 + [模块设计的黄金法则（七）：别急着写，先多想一步](https://mp.weixin.qq.com/s/t0l6l0VpCPtE-qC9jE5Hsg)
 + [告别if-else地狱：业务断言如何用契约式设计重构代码？](https://mp.weixin.qq.com/s/s8rb8TUqtOgsu8R9ezv2FA)
++ [解密百万并发秒杀架构：如何在1秒内抗住流量洪峰](https://mp.weixin.qq.com/s/WlWaOnhaXrTlK7vYdfeMwA)
 
 # 测试相关
 

@@ -454,6 +454,8 @@
 + [Function，不只是简洁 —— 是设计的打开方式](https://mp.weixin.qq.com/s/sxxFpOkLSi0bCcTBVsTCWA)
 + [从List与Tree相互转换工具类实现中谈谈菜鸟到老鸟的一些思考](https://mp.weixin.qq.com/s/3VAp-s5oo2jGYaSo1CMFsg)
 + [148. Java Lambda 表达式 - 捕获局部变量](https://mp.weixin.qq.com/s/b6b0LFtkoff11qPxVaEevA)
++ [Java Function 一些常用技巧总结心得](https://mp.weixin.qq.com/s/owWQj7iQKDxoujQ8SllzNQ)
++ [Java 树结构转换算法的再次优化：拥抱标准函数式接口](https://mp.weixin.qq.com/s/S2DwcvBday5RI0Ew86Fu_g)
 
 ## 代码质量
 
@@ -826,6 +828,7 @@
 + [Java并发编程基础小结](https://mp.weixin.qq.com/s/V2mR2mK7H9v8_vQzZUPOig)
 + [Java虚拟线程：告别“线程池爆炸”，轻松应对10万+并发！](https://mp.weixin.qq.com/s/3JTIw73yPHlmC2h14r5Zkg)
 + [java实现线程的几种方式](https://mp.weixin.qq.com/s/To8VvzoMGzZGf1Q77KyBmA)
++ [高并发编程-有序性](https://mp.weixin.qq.com/s/JBJlEYcfAlvaCET2SC3PIg)
 
 #### CAS
 
@@ -889,6 +892,7 @@
 + [程序员必看！线程池3大高频深坑：无界队列秒变OOM炸弹 + 拒绝策略疯狂丢任务！](https://mp.weixin.qq.com/s/roTRqXbTdUaKW9CexgxY4A)
 + [Java线程池关闭机制深度解析：从状态机到资源回收](https://mp.weixin.qq.com/s/gX1bHSRDOtrnk5YzLLwZJA)
 + [Java线程池详解及使用指南](https://mp.weixin.qq.com/s/s-cv0gLkp6JK2JplQ5j3ZA)
++ [Java 线程池 WorkQueue 的作用](https://mp.weixin.qq.com/s/FV7RihmYopZcpjxau5vqhw)
 
 #### 锁
 
@@ -1133,6 +1137,7 @@
 + [Java中的对象一定在堆上分配内存吗？](https://mp.weixin.qq.com/s/ZyeHxtqkGSr2G0qqWGWnyA)
 + [如何解决 Java 中的内存溢出（OutOfMemoryError）问题](https://mp.weixin.qq.com/s/vP5j72gnn5bqzRuDKNixDg)
 + [Java 内存模型（Java Memory Model）](https://mp.weixin.qq.com/s/5qvSJcGQn2nx0iFarl8NXA)
++ [JVM内存模型+垃圾回收，你的Java程序为啥总卡顿？深度解析来了！](https://mp.weixin.qq.com/s/P6ov7mr4HeeQGmQsJ3P0OA)
 
 ### 类加载
 
@@ -1758,6 +1763,7 @@
 + [3 年经验凭啥碾压 5 年老鸟？全靠 Arthas 这手神操作！](https://mp.weixin.qq.com/s/seChFMwOwxdBEnWLe4Ql9w)
 + [学会 arthas，让你 3 年经验掌握 5 年功力！](https://mp.weixin.qq.com/s/JMTaOpzoj_7cNzPRKty6pQ)
 + [Arthas在内存马查杀中的应用](https://mp.weixin.qq.com/s/SFG1Ekla_70FjDUuZdKdyg)
++ [线上问题定位神器：Arthas](https://mp.weixin.qq.com/s/3nVS3Fxd5A-TAwMmQ4ziSg)
 
 ## caffeine
 
@@ -1820,6 +1826,7 @@
 + [【Guava】IO工具](https://mp.weixin.qq.com/s/hJX5L-Vm3olKk_AjfTFrcA)
 + [【Guava】集合工具Collections2](https://mp.weixin.qq.com/s/3nSCSo_gGq9vdvCmJLaGng)
 + [告别枯燥的异步编程！Guava的ListeningExecutorService让你代码优雅如诗](https://mp.weixin.qq.com/s/186IQ2o7SgwTiAWLrT-19A)
++ [Guava LoadingCache 实战指南：从自动加载到异步刷新，这5个技巧让缓存性能翻倍](https://mp.weixin.qq.com/s/y7pONioRBZxBL-G_Zdycdw)
 
 ## hystrix
 
@@ -2478,6 +2485,7 @@
 + [Spring Data简介与核心概念详解](https://mp.weixin.qq.com/s/F-eSYB4ewNnOLT0V5oFpSw)
 + [Redis 操作全流程揭秘: ConnectionFactory 背后的设计哲学](https://mp.weixin.qq.com/s/1y5PEhZ6XUjhiHkcXqygiw)
 + [非Spring环境下怎么使用RedisTemplate](https://mp.weixin.qq.com/s/7kTuzzjQy1OcXoKRIUnmBg)
++ [为什么要用JdbcTemplate](https://mp.weixin.qq.com/s/78NVs9AAK_owTyIYjy1Hdw)
 
 #### BATCH
 
@@ -2577,6 +2585,7 @@
 + [Spring 缓存注解浅析及实践](https://my.oschina.net/u/4090830/blog/18183157)
 + [告别繁琐！Spring Cache 让缓存实现如此优雅](https://mp.weixin.qq.com/s/yGUjpDKoGvwvqZ6SQbThgQ)
 + [多级缓存架构：新品咖啡上线引发的数据库压力风暴与高并发实战化解方案](https://mp.weixin.qq.com/s/1ulTGM4Oz6-24eTQv10o8w)
++ [Redis缓存三灾：穿透/击穿/雪崩全解析+Spring Boot实战避坑指南](https://mp.weixin.qq.com/s/Tc9htnqjl-_Tbl_Rl2mPig)
 
 ### EVENT
 
@@ -4164,6 +4173,7 @@
 
 + [使用jmeter压测数据库](https://mp.weixin.qq.com/s/FNPzhHIYAjlVPeRhvPWgww)
 + [Jmeter性能测试-分布式压测介绍](https://mp.weixin.qq.com/s/wjsfiNEcK9A76FSPBpSQUQ)
++ [JMeter的基本使用和性能测试教程](https://mp.weixin.qq.com/s/ciKmO876P8OVVv1wyP2nvg)
 
 ### PowerMock
 

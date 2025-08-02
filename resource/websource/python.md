@@ -89,6 +89,7 @@
 + [Day 05 - 循环控制语句详解](https://mp.weixin.qq.com/s/cpfD2FNcTEcNJth0LfVrBQ)
 + [苦练Python第4天：Python变量与数据类型入门](https://mp.weixin.qq.com/s/6UGDSf1iHlZzICMuyDojwQ)
 + [一文带您解读 Python 中的 “@” 符号：多功能的简洁高效操作符](https://mp.weixin.qq.com/s/yzmJ5mDBhe6S3BanhRf0yQ)
++ [Python *args 和 **kwargs 深度解析](https://mp.weixin.qq.com/s/In4yPI-sEifzkuA_msapgw)
 
 ### 函数/方法
 
@@ -670,6 +671,7 @@
 + [办公自动化太简单！Python编程10个神奇代码让你惊艳同事！](https://mp.weixin.qq.com/s/iTVPOXijLwUWnWi-_OJnKw)
 + [30天学会Python编程：24.Python数据库编程基础](https://mp.weixin.qq.com/s/JOLL2jzch9XAurT84xkAZg)
 + [分享几个实用的 Python 小技巧，提升编程效率！](https://mp.weixin.qq.com/s/saQqFqJXU6WbICeYYI8gRg)
++ [Python获取当前时间戳](https://mp.weixin.qq.com/s/K2xwzIlnqnJZO5y3D9e-9w)
 
 ## 新特性
 

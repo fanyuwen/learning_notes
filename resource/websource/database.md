@@ -444,6 +444,7 @@
 + [Explain执行计划全解读：让你的SQL快如闪电（一）](https://mp.weixin.qq.com/s/c1mH9d3ti5IxH8_IseIGaQ)
 + [【理论】MySQL基础－MySQL数据库启动详解之启动解析](https://mp.weixin.qq.com/s/h6lUuv4mJR1b8noNgt-icw)
 + [Mysql 相关日志【bin log 和 redo log】](https://mp.weixin.qq.com/s/SOi7YbDAdmqomOesiz281w)
++ [MySQL Explain详解+实战](https://mp.weixin.qq.com/s/zQkYk687D3EaJgZ2s1wyMQ)
 
 #### 存储引擎
 

@@ -98,6 +98,7 @@
 + [如何领先99%的开发人员？](https://mp.weixin.qq.com/s/VoqEmtBtv3istil3XBfx0A)
 + [凭什么，程序员要时刻保持危机感？（看完内心平静了很多）](https://mp.weixin.qq.com/s/I-Qdby592yy5uZWzw3IuwA)
 + [程序员的护城河是什么 ？](https://mp.weixin.qq.com/s/AFCp44EPFsox5WqoxBKnpQ)
++ [35岁大数据中年程序员：未来的不确定性](https://mp.weixin.qq.com/s/IFILE9XzKaC4CQ8RfMVSlQ)
 
 # 个人成长
 

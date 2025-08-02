@@ -136,6 +136,7 @@
 + [二叉树、红黑树、B-tree、B+tree](https://mp.weixin.qq.com/s/_WSe_EogNv2283HU3X8iUA)
 + [数据结构之树结构—二叉搜索树的定义和构造](https://mp.weixin.qq.com/s/dUeS1tcSZI3ECVeFG1o8OA)
 + [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
++ [B 树与 B + 树：区别、原理及优劣势分析](https://mp.weixin.qq.com/s/5A1Pb86Pt7ihPzM6sxJMYg)
 
 ## 排序算法
 

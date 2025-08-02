@@ -174,6 +174,7 @@
 + [学编程到底在学什么？](https://mp.weixin.qq.com/s/FxCAt9iPaU7hRrUCm8V-_A)
 + [进化成更好的人](https://mp.weixin.qq.com/s/Fpz16tjtnyn5U-7hXhlRbg)
 + [独立开发出海，需要点哪些技能树](https://mp.weixin.qq.com/s/wpRVWpSyZD6gzoWGYGLc4A)
++ [如何成为一个优雅的程序员 —— 构建适合自己的学习体系](https://mp.weixin.qq.com/s/2gkAGLr4g2c02JjFNcypLA)
 
 ## 视频
 

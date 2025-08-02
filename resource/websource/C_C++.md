@@ -1,6 +1,7 @@
 # 语言相关
 
 + [聊一聊开发中的C语言和C++语言用法](https://mp.weixin.qq.com/s/OboQQpk7lrhHbDO17Tmw6A)
++ [C/C++ 程序编译过程的来龙去脉](https://mp.weixin.qq.com/s/JCXGBjz4WHA-ykAzoElkSw)
 
 ## 工具
 
@@ -281,6 +282,7 @@
 + [c++26新功能—hive容器](https://mp.weixin.qq.com/s/eVPOEmCR8MLiqmLCSMEHuA)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
++ [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
 
 #### 面向对象
 
@@ -310,6 +312,7 @@
 + [C++ 中的类与对象](https://mp.weixin.qq.com/s/ecRGRSf_qgBLawRsTqx7-g)
 + [C++中的静态成员](https://mp.weixin.qq.com/s/LWSybqAWBkpHlTWbp_RckA)
 + [C++中的多态（ Polymorphism）](https://mp.weixin.qq.com/s/hY8MtGdgKSbrFIogArZKeg)
++ [还在无脑用virtual？资深C++专家带你探索4种高性能多态替代方案](https://mp.weixin.qq.com/s/8ueyFVt59YDUcjHtxK7lBg)
 
 ##### 设计模式
 
@@ -344,6 +347,7 @@
 + [c++并发编程系列（二）：线程间数据同步](https://mp.weixin.qq.com/s/U-RQEzwvlOFr2d4coeqXdg)
 + [C++协程实战：异步编程代码实现](https://mp.weixin.qq.com/s/g1iCIDQBC43jJdTxo6nKCA)
 + [C++并发](https://mp.weixin.qq.com/s/l0RhwTpsYPonOF2r_I9F6w)
++ [手撸线程池才是C++程序员的硬实力！7天手把手带你从0到1完整实现](https://mp.weixin.qq.com/s/10md6XvqpFug5S7LW8m29Q)
 
 #### 扩展
 
@@ -457,6 +461,10 @@
 + [谈C编程---字符串字面量下标访问用法](https://mp.weixin.qq.com/s/NjfwbZZfF_gaeA3BNtw42g)
 + [谈C编程---预处理解析](https://mp.weixin.qq.com/s/mKoWcd9WfjkDgqpUgVKH3w)
 + [C语言switch/case语句控制详解](https://mp.weixin.qq.com/s/evaHiHN3hxWej-ThEYyryQ)
++ [谈C编程---switch-case语句](https://mp.weixin.qq.com/s/Yuh9SXDwCpZNj-IwoN8DVA)
++ [C语言实用干货：return 小哥的送货指南](https://mp.weixin.qq.com/s/Es0SJczZtm72TqCBJIl0yA)
++ [谈C编程---do{}while(0)的特殊应用](https://mp.weixin.qq.com/s/3Awbt6p6epj69zfwpEgCkA)
++ [谈C编程---sizeof和strlen](https://mp.weixin.qq.com/s/uPPRuqqc2d4EiJzl1kVsog)
 
 ### 高阶
 
@@ -558,6 +566,7 @@
 + [谈C编程---void *一种特殊的指针类型](https://mp.weixin.qq.com/s/mn8Zt7o6CoTF5Rjt4YYk6g)
 + [C 语言指针：从内存地址到底层操控的核心](https://mp.weixin.qq.com/s/YwI-oypZrCqBD5Cj4ZCVvA)
 + [嵌软面试-基础篇：6- 一个指针指向了常量，然后操作这个指针会怎么样？](https://mp.weixin.qq.com/s/xgKEvMnC_i9Vh35ntjEIhg)
++ [C语言实用干货：一文讲透C语言地址和指针](https://mp.weixin.qq.com/s/7jdUw6uYLevT5U1FInmDaA)
 
 #### 函数
 
@@ -568,6 +577,7 @@
 + [C语言函数参数：数组怎么传？为啥传着传着就秃了？](https://mp.weixin.qq.com/s/MKXR7HPbY-VZ209T2ZCzzA)
 + [C语言的'快充'技巧:内联函数](https://mp.weixin.qq.com/s/LZ1Kv-9YwTW15ck3JqBYuA)
 + [谈C编程---数组作为函数参数](https://mp.weixin.qq.com/s/p9j4OI0rhMMdcjn_O0muuw)
++ [谈C语言---return的用法](https://mp.weixin.qq.com/s/1Sulzqxi285AxtxzPvtsIg)
 
 #### 库
 
@@ -629,6 +639,7 @@
 + [为什么用C语言编写操作系统？](https://mp.weixin.qq.com/s/hWzSquCfwRcGRmKpiBtgRg)
 + [编程语言那么多，为何C语言能成为最成功的语言？](https://mp.weixin.qq.com/s/vZF2AZoQ6172lwmAabI7ww)
 + [C语言的“代码化石”出土：1979年的英文文本判别器](https://mp.weixin.qq.com/s/t88Cm8EGAI74l8uz21pPSA)
++ [重塑编程教育：为什么C语言不应是起点](https://mp.weixin.qq.com/s/vI1RHzDZNONZsfClfNws3Q)
 
 ## verilog
 
@@ -701,6 +712,7 @@
 + [单片机为什么被认为是一门简单的技术？](https://mp.weixin.qq.com/s/zsvDttjsMxwVZ0xLPkGl6Q)
 + [单片机可以使用cJSON吗](https://mp.weixin.qq.com/s/ozEtl-x9mfbP0yr-xw4Q5A)
 + [单片机开发快速入门：单片机原理及学习方法](https://mp.weixin.qq.com/s/A5UGrffBdoJpV7Tbc_Oqdw)
++ [【STM32】当环形队列遇上串口通信](https://mp.weixin.qq.com/s/4HZ4UV79la5wQIpQifAr5g)
 
 # NVIDIA
 

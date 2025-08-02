@@ -192,3 +192,7 @@
 ## 备忘录模式
 
 + [实战设计模式之备忘录模式](https://mp.weixin.qq.com/s/G7Yy2IXzoIdwDCfy05QZdQ)
+
+## 中介者模式
+
++ [实战设计模式之中介者模式](https://mp.weixin.qq.com/s/b2wFN26tq6nVF8pgkSbdPA)

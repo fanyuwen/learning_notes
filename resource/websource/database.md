@@ -445,6 +445,7 @@
 + [【理论】MySQL基础－MySQL数据库启动详解之启动解析](https://mp.weixin.qq.com/s/h6lUuv4mJR1b8noNgt-icw)
 + [Mysql 相关日志【bin log 和 redo log】](https://mp.weixin.qq.com/s/SOi7YbDAdmqomOesiz281w)
 + [MySQL Explain详解+实战](https://mp.weixin.qq.com/s/zQkYk687D3EaJgZ2s1wyMQ)
++ [千万级的大表如何新增字段？](https://mp.weixin.qq.com/s/SBJnlCGeNjBPOKfDEiWvvA)
 
 #### 存储引擎
 
@@ -530,6 +531,7 @@
 + [滴滴面试： mysql 明明加的是 行锁，怎么就变 表锁 了？](https://mp.weixin.qq.com/s/4WRxBTOhFLeLjN4lbdeOmQ)
 + [记一次线上SQL死锁事故：如何避免死锁](https://mp.weixin.qq.com/s/lJVlBJnPCzFENgcVsHhSOQ)
 + [MySQL中的 8 种锁！](https://mp.weixin.qq.com/s/fInC0-ctZi4EDiMkmh6GnA)
++ [MySQL间隙锁：数据库世界的“占座”艺术](https://mp.weixin.qq.com/s/kpPLMroa0us7pmEFt_akFQ)
 
 #### 事务
 
@@ -969,6 +971,7 @@
 + [小白也能懂的Redis分布式锁，故事版教程来了！](https://mp.weixin.qq.com/s/JIbkVUt6dVgGubgrC8QNFg)
 + [Redis下篇--分布式锁](https://mp.weixin.qq.com/s/LcqB5CwIVVzQVuwkQ1CEcA)
 + [Redis分布式锁的底层实现机制](https://mp.weixin.qq.com/s/8cOy8iFq1gE1lEef5j5-TA)
++ [浅入浅出分布式锁（Redis）的所有细节](https://mp.weixin.qq.com/s/fluxu3rsu4cy4mbzk41QfA)
 
 #### 缓存
 

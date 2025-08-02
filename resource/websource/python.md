@@ -214,6 +214,7 @@
 + [Python入门教程05：字符串用法大全](https://mp.weixin.qq.com/s/iP0rpvGntr2rOrXeP3AnxA)
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
++ [Day 08 - 字符串、切片、集合、字典](https://mp.weixin.qq.com/s/neAiBQynATzj8XBwIQ3KIw)
 + [Python 容器的使用技巧](https://mp.weixin.qq.com/s/LK08mdLi0cCje4SdXNfqyw)
 + [Python列表操作全攻略：从基础到进阶的完整指南](https://mp.weixin.qq.com/s/00fV_c0p6cnB7WPJRM94vA)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)

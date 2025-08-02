@@ -456,6 +456,8 @@
 + [148. Java Lambda 表达式 - 捕获局部变量](https://mp.weixin.qq.com/s/b6b0LFtkoff11qPxVaEevA)
 + [Java Function 一些常用技巧总结心得](https://mp.weixin.qq.com/s/owWQj7iQKDxoujQ8SllzNQ)
 + [Java 树结构转换算法的再次优化：拥抱标准函数式接口](https://mp.weixin.qq.com/s/S2DwcvBday5RI0Ew86Fu_g)
++ [Java开发必备：最实用的工具类库大全](https://mp.weixin.qq.com/s/rDFODwopgd-mDdaSfOkMhg)
++ [Java - Lambda表达式进阶](https://mp.weixin.qq.com/s/HiZPfd9YnYEnaUF2kKAZgQ)
 
 ## 代码质量
 
@@ -644,6 +646,7 @@
 + [Java每日小知识——调用 System.runFinalizersOnExit() 的风险与解决方法](https://mp.weixin.qq.com/s/CMCqRDKFTye_fGzwPf4fMA)
 + [Java集合框架深度解析：LinkedList vs ArrayList 的对决](https://mp.weixin.qq.com/s/xWxXFeZ26vXCz8p03zZLUA)
 + [真没想到，Java import 语句我也能踩坑](https://mp.weixin.qq.com/s/flV72Gbf0mVvcRvqKoEppQ)
++ [阿里一面：请解释什么是Copy-on-Write（COW）技术？谈谈它在Java并发容器中的应用场景、实现原理及优缺点。](https://mp.weixin.qq.com/s/EF991muqUephV3d9IltA3A)
 
 ### 序列化
 
@@ -1843,6 +1846,10 @@
 
 + [面试官：JDBC 是如何打破双亲委派模型的？](https://mp.weixin.qq.com/s/x4pM2sZSKice0FA2z4NTog)
 
+## hutool
+
++ [Hutool 的 EnumUtil 有多香？Java 枚举操作从此告别繁琐](https://mp.weixin.qq.com/s/QM7dZ05vrBfIkTAU7N7HHg)
+
 ## json
 
 + [Jackson 自定义序列化](https://mp.weixin.qq.com/s/WqlgCD1yNYK8PCLTl_DwJQ)
@@ -1853,6 +1860,7 @@
 ## logger
 
 + [9款日志采集和管理工具对比，选型必备！](https://mp.weixin.qq.com/s/b7gFhLYVaVmgF2zGKvB6Yw)
++ [Java日志进化史：从System.out到SLF4J+Logback，5个阶段你经历了几个？](https://mp.weixin.qq.com/s/Avp8qAWA6yTMk2oFUBWpmg)
 + [Java日志](https://mp.weixin.qq.com/s/Npj6IGgsYvKdCzQ9Y21M-A)
 + [日志监控完整方案](https://mp.weixin.qq.com/s/GAO1fe-ZzLaS2W6g63T_kQ)
 + [异步日志：性能优化的金钥匙](https://mp.weixin.qq.com/s/4GIqXc4rfX6QZtUwHZheag)
@@ -2339,6 +2347,7 @@
 + [Spring循环依赖这样解决，一看就懂](https://mp.weixin.qq.com/s/Nt36Tk4j_fBs4rLNQLxWXg)
 + [Spring为什么用三级缓存解决循环依赖？二级不行吗？](https://mp.weixin.qq.com/s/p_qPbOz9EaAhgKApzDAobw)
 + [详解Spring解决循环依赖实现原理](https://mp.weixin.qq.com/s/rxbu-IN3135458yaJ9lLKw)
++ [Spring容器深度扩展点：postProcessBeanFactory详解](https://mp.weixin.qq.com/s/AfOH1P1BKD9dCVOgV0qDJw)
 
 ### 新版本新特性
 
@@ -2421,6 +2430,7 @@
 + [微服务架构下，@RestControllerAdvice如何实现全局统一响应规范？](https://mp.weixin.qq.com/s/pDMNaRNkWd9DMxU8wSEfBA)
 + [Java真的不难（九十九）Spring MVC异步处理指南](https://mp.weixin.qq.com/s/YB3MV0NibegzMZnXG2mfDQ)
 + [零OOM导出:StreamingResponseBody原理&实战](https://mp.weixin.qq.com/s/Q88V8wYRaEduRSZHE0XKFQ)
++ [【Spring WebFlux】二、为什么 Spring 要拥抱响应式](https://mp.weixin.qq.com/s/3Jy-tCerQgTA5zHicb-rig)
 
 #### doc
 
@@ -3023,6 +3033,8 @@
 + [实战派 Spring Boot：7个你一定用得上的技巧 - 第542篇](https://mp.weixin.qq.com/s/eHTcvgZZhhKgR6un9gcBSQ)
 + [Java进阶手册（十三）SpringBoot多场景中23种常用注解详解](https://mp.weixin.qq.com/s/XvUYnG8-Bms6kYVp-uAnqg)
 + [Spring Boot 项目中读取 resources 目录下文件的 9 种常见方式](https://mp.weixin.qq.com/s/D1fbzUcJmStF36SDJ5Gyyg)
++ [Java进阶手册（十）SpringBoot自动配置原理深度剖析](https://mp.weixin.qq.com/s/KAFnvjMj9NOTWjPA0inMCQ)
++ [别再用 @PostConstruct 了！CommandLineRunner 才是 SpringBoot 启动任务的“正解”](https://mp.weixin.qq.com/s/eQabqbkgjNqn-1t-fol9Og)
 
 #### 版本特性
 

@@ -84,6 +84,7 @@
 + [Rust算法：堆排序最佳实践](https://mp.weixin.qq.com/s/kM4Jb4MckIppsiXzzjGm5A)
 + [Rust中String与str：从困惑到精通的完整指南](https://mp.weixin.qq.com/s/DnpfwT-F8jKq8aKG3qMytg)
 + [pub 和 pub(crate) 到底有啥区别？这篇讲透 Rust 的“最小可见性”原则](https://mp.weixin.qq.com/s/i6yogbrPFUzFDIEMpMG0cw)
++ [Rust 设计模式：让你的代码架构焕然一新](https://mp.weixin.qq.com/s/vjN01jDG9ePa6ex7WIjdXQ)
 
 # 框架
 

@@ -273,6 +273,7 @@
 + [Linux shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/BIdGycqwmtpX9CmlvgQyQA)
 + [50 个日志分析必备Linux 命令 懂一半绝对高手！](https://mp.weixin.qq.com/s/L5fZoxoIr4SLdFU7ouSy7g)
 + [shell 脚本中一个非常经典的问题](https://mp.weixin.qq.com/s/x1E-QX9SNzRBxPaGcMTPhw)
++ [15个典型 tar 命令用法详解](https://mp.weixin.qq.com/s/JcOb82k5clmxK0qTQX3ShQ)
 
 ### 发行版信息
 
@@ -288,12 +289,14 @@
 + [一文了解计算机中的二进制](https://mp.weixin.qq.com/s/m5aW0-VsxsyB7ATN4o3W1A)
 + [深入理解计算机组成原理（八）---计算机性能的相关指标和进制转换的原理浅析](https://mp.weixin.qq.com/s/_sT15as99Bj186AlX8Qj2Q)
 + [深入理解计算机组成原理（十五）---指令流水线和总线系统](https://mp.weixin.qq.com/s/_wn3UT1NEFmTyHp3Pdb4Rw)
++ [深入理解计算机组成原理（十九）---中断和异常机制的梳理（导图+题目应用）](https://mp.weixin.qq.com/s/YEMEeS1jNMESNgY4A_89sg)
 + [深入理解计算机组成原理（二十五）---多模块存储器之连续编址和交叉编制的总结](https://mp.weixin.qq.com/s/aAfUN1qO7-AiQrq5nOyMXg)
 + [深入理解计算机组成原理（二十八）---逻辑地址和物理地址位数计算的一道小题](https://mp.weixin.qq.com/s/U1FhC1OkUbyVk1qENUH-AQ)
 + [深入理解计算机组成原理（二十九）---直接映射方式下的cache的块号的计算的一道题目](https://mp.weixin.qq.com/s/HufIit9gvAV7bAxkG7J8lA)
 + [深入理解计算机组成原理（三十一）---TLB快表，缓存和虚存之间](https://mp.weixin.qq.com/s/sPgQ7aDurNRWhPKJFCxcGg)
 + [深入理解计算机组成原理（三十六）---CPU访问，虚拟地址和物理地址之间的转换题目](https://mp.weixin.qq.com/s/ZKTs0kcbRs4CoqfK8oVamQ)
 + [深入理解计算机组成原理（三十九）---数据在存储器里面的存储方式的题目（大小端+对齐）](https://mp.weixin.qq.com/s/x8PPtrpvUpVzf3tnfxnMzA)
++ [计算机总线仲裁工作原理](https://mp.weixin.qq.com/s/6shLR3ieKCuIC75zPnY-xA)
 
 ## CPU
 
@@ -347,6 +350,7 @@
 + [CPU和CPU占用率简介介](https://mp.weixin.qq.com/s/Niuq8bZQlPQv0pJBD3ARbQ)
 + [CPU寻址工作原理](https://mp.weixin.qq.com/s/fCTP-EFYWVsMp9tAjMzC3w)
 + [系统CPU飙升易忽视的隐形杀手](https://mp.weixin.qq.com/s/fe9KG3D4efOmBUXwHKgXaA)
++ [CPU的底线：为什么只有操作系统才能执行这些操作？](https://mp.weixin.qq.com/s/p8d9ul_XrGoiXAdeahhXjw)
 
 ### 并发
 
@@ -558,6 +562,7 @@
 + [网络通信必知-TCP三次握手](https://mp.weixin.qq.com/s/-RCgdcR35OQ7cGQychXVuA)
 + [TCP三次握手网络实验操作手册](https://mp.weixin.qq.com/s/ejhZD5Qg8A4kwW4IiK5i4g)
 + [从丢包到恢复：TCP重传机制的底层逻辑全解](https://mp.weixin.qq.com/s/elT2NgCj1IjIxJmQFozylg)
++ [深挖 TCP/IP 协议，计算机网络](https://mp.weixin.qq.com/s/7HXQ8yxLCfSSIq_sqC7aYQ)
 
 ### UDP
 

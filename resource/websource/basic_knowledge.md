@@ -18,6 +18,7 @@
 + [计算机操作系统 - 地址空间演化](https://mp.weixin.qq.com/s/Rej_fsEGDjvxu88O0Ju5pA)
 + [10个程序员8个的多线程卡成狗？你可能连fork和exec都没整明白！](https://mp.weixin.qq.com/s/ocFvQWpEufBZ7BxpJKNftA)
 + [Windows 与 Linux 系统中快速查看 CPU 和内存情况的方法](https://mp.weixin.qq.com/s/s_8kQLR0prGoIWijAArxpg)
++ [一文了解二进制的独特应用](https://mp.weixin.qq.com/s/gqMW4nIFGKM32TXBs0_LWg)
 
 ## 文件系统
 
@@ -472,6 +473,7 @@
 + [URL地址末尾加不加 "/" 有什么区别](https://mp.weixin.qq.com/s/dlpKnfupjiZ3Bg_pvrROgQ)
 + [路由器工作原理](https://mp.weixin.qq.com/s/AjOBTPlVZmdxX2Un25Rfqg)
 + [抓包就靠 tcpdump？别只会 -i eth0！这些技巧才是核心操作](https://mp.weixin.qq.com/s/OrKOK6TI1m-ClQ51b7_mBg)
++ [交换机工作原理](https://mp.weixin.qq.com/s/cRPXn6_hZ4cNE_4uScv5Zw)
 
 ### DNS
 
@@ -563,6 +565,7 @@
 + [TCP三次握手网络实验操作手册](https://mp.weixin.qq.com/s/ejhZD5Qg8A4kwW4IiK5i4g)
 + [从丢包到恢复：TCP重传机制的底层逻辑全解](https://mp.weixin.qq.com/s/elT2NgCj1IjIxJmQFozylg)
 + [深挖 TCP/IP 协议，计算机网络](https://mp.weixin.qq.com/s/7HXQ8yxLCfSSIq_sqC7aYQ)
++ [一文详解SSL/TLS协议](https://mp.weixin.qq.com/s/3nPurQB1JbX3wHKp4BeXWA)
 
 ### UDP
 

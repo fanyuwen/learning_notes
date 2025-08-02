@@ -173,6 +173,7 @@
 + [一致性哈希算法：大厂高并发场景下的分布式系统设计利器](https://mp.weixin.qq.com/s/xsaxe3ZPh9qNd7OQLiRWyw)
 + [如何统计不同电话号码的个数？—位图法](https://mp.weixin.qq.com/s/VejpMRrPgNOPtyHTPfvo_w)
 + [信用卡验证算法--Luhn](https://mp.weixin.qq.com/s/hax9EQRTTzrKuP6UERLpZg)
++ [奇异值分解（SVD）：图像压缩的魔法](https://mp.weixin.qq.com/s/deKhqpYa5kXbC6QzzBpP0Q)
 
 # leetcode
 

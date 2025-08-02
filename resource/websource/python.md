@@ -90,6 +90,7 @@
 + [苦练Python第4天：Python变量与数据类型入门](https://mp.weixin.qq.com/s/6UGDSf1iHlZzICMuyDojwQ)
 + [一文带您解读 Python 中的 “@” 符号：多功能的简洁高效操作符](https://mp.weixin.qq.com/s/yzmJ5mDBhe6S3BanhRf0yQ)
 + [Python *args 和 **kwargs 深度解析](https://mp.weixin.qq.com/s/In4yPI-sEifzkuA_msapgw)
++ [Python内置类型详解](https://mp.weixin.qq.com/s/MAgUYXnxerYsSj9LNFmwBg)
 
 ### 函数/方法
 
@@ -299,6 +300,7 @@
 + [Python内置模块：filecmp文件与目录比较编程笔记](https://mp.weixin.qq.com/s/eoLWEVz8l1-JckTZH_zVWQ)
 + [Python输入输出函数完全指南：从基础到实战的开发必备技能](https://mp.weixin.qq.com/s/Goc474bKtiTKX59b2rkgFg)
 + [Python内置模块：shutil使用详解](https://mp.weixin.qq.com/s/u9XcftjbtceoWWoE1spR6w)
++ [Python内置模块：array使用详解](https://mp.weixin.qq.com/s/4PjP5VGZ5Ro1p5EKdHUhxQ)
 
 ### 异步/多线程
 
@@ -330,6 +332,7 @@
 ## 实践
 
 + [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
++ [写了十年 Python，我竟然现在才知道这5个功能！](https://mp.weixin.qq.com/s/lc6a68rj5_Bn3BmhKOAUgQ)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python 最佳实践 (4)](https://mp.weixin.qq.com/s/31ZdXx9AW2YscmlHroHoWQ)
 + [Python 最佳实践 (5)](https://mp.weixin.qq.com/s/Jnn9GqH3OiGHS6CKeCp5uQ)
@@ -673,6 +676,8 @@
 + [30天学会Python编程：24.Python数据库编程基础](https://mp.weixin.qq.com/s/JOLL2jzch9XAurT84xkAZg)
 + [分享几个实用的 Python 小技巧，提升编程效率！](https://mp.weixin.qq.com/s/saQqFqJXU6WbICeYYI8gRg)
 + [Python获取当前时间戳](https://mp.weixin.qq.com/s/K2xwzIlnqnJZO5y3D9e-9w)
++ [Python 命令行参数解析的3个方法，提升脚本效率](https://mp.weixin.qq.com/s/R2kfeqko4Oe2g6_cP0rF_w)
++ [Python性能优化：解决执行速度慢与内存占用高的痛点](https://mp.weixin.qq.com/s/qXXx3WrhrGg5w5g4fr-RIQ)
 
 ## 新特性
 

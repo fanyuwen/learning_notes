@@ -261,6 +261,7 @@
 
 + [聊聊C++中优化代码实现的新特性](https://mp.weixin.qq.com/s/ue13-xr5ErUIT4sS4yyZiA)
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
++ [C++11：shared_ptr的设计哲学（原理+源码）：内存安全和性能的架构权衡](https://mp.weixin.qq.com/s/f67oq9px9mQUGJK7Sa5KKA)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
@@ -401,6 +402,12 @@
 + [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
 + [C++零拷贝反序列化库 cista](https://mp.weixin.qq.com/s/KENr2Q4HoU9R75L-l95uoQ)
 
+#### Qt
+
++ [Qt多语言切换：动态翻译不重启](https://mp.weixin.qq.com/s/pbXmbG1bhYXVF9bsLFCupg)
++ [大话QT开发：消息机制和事件](https://mp.weixin.qq.com/s/a5o463q4iRrpx8q-7FROsA)
++ [Qt C++实现科技感界面板](https://mp.weixin.qq.com/s/urR1IQFFQvgaGZg6b6IB4Q)
+
 ### 资讯
 
 + [“革命性”「Safe C++」扩展提案：质疑Rust、理解Rust、成为Rust？](https://mp.weixin.qq.com/s/tJJWgDVK8kbaRzP9NMQeVA)
@@ -465,6 +472,7 @@
 + [C语言实用干货：return 小哥的送货指南](https://mp.weixin.qq.com/s/Es0SJczZtm72TqCBJIl0yA)
 + [谈C编程---do{}while(0)的特殊应用](https://mp.weixin.qq.com/s/3Awbt6p6epj69zfwpEgCkA)
 + [谈C编程---sizeof和strlen](https://mp.weixin.qq.com/s/uPPRuqqc2d4EiJzl1kVsog)
++ [C语言字符串函数：从入门到"入坑"再到"爬坑"指南](https://mp.weixin.qq.com/s/V6I9tsEwVXYLQTpTAd8uLA)
 
 ### 高阶
 
@@ -517,6 +525,9 @@
 + [C语言错误处理与异常处理详解，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/W-04vr7VtDdigKIe_LS2sQ)
 + [谈C编程---inline关键字](https://mp.weixin.qq.com/s/ZPdXdiFgr9gprrmVYDUHqw)
 + [C 语言实现单链表的](https://mp.weixin.qq.com/s/NKrFjX2I8_bVxNvwAGBu3g)
++ [C语言的递归调用被这13道题整明白了](https://mp.weixin.qq.com/s/a2h9hKxcoERnCwICB0iACQ)
++ [C算法35：换钱的方法数](https://mp.weixin.qq.com/s/YiH8yjVqaXkjC3_KXWZoQg)
++ [C语言实现旋转地球动画](https://mp.weixin.qq.com/s/zgd5_arXMxEOdHSidm_wzw)
 
 #### 宏
 
@@ -541,6 +552,7 @@
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [为什么结构体要考虑对齐?如何确定语言使用的地址是不是物理地址?](https://mp.weixin.qq.com/s/rV1vNblnXIAXcHS87iL1Ww)
++ [结构体初始化的6种方式](https://mp.weixin.qq.com/s/O20GW7HfCttqfFa-5Z4b2g)
 
 #### 指针
 
@@ -567,6 +579,7 @@
 + [C 语言指针：从内存地址到底层操控的核心](https://mp.weixin.qq.com/s/YwI-oypZrCqBD5Cj4ZCVvA)
 + [嵌软面试-基础篇：6- 一个指针指向了常量，然后操作这个指针会怎么样？](https://mp.weixin.qq.com/s/xgKEvMnC_i9Vh35ntjEIhg)
 + [C语言实用干货：一文讲透C语言地址和指针](https://mp.weixin.qq.com/s/7jdUw6uYLevT5U1FInmDaA)
++ [谈C编程---指针](https://mp.weixin.qq.com/s/NNZCZnMKfcIJg78eUt9aXg)
 
 #### 函数
 
@@ -587,6 +600,7 @@
 #### 实践
 
 + [Linux下C编程使用动态链接库](https://mp.weixin.qq.com/s/NiSTksbmJQae-zba3VF4iw)
++ [Linux C编程获取指定网口IP和MAC地址](https://mp.weixin.qq.com/s/LEtK1sFgvzEnAVd2nKmMYw)
 
 ### 前景
 
@@ -678,8 +692,12 @@
 + [FreeRTOS多任务开发：打造高效稳定的嵌入式系统](https://mp.weixin.qq.com/s/89lZLPuJscHBy0nmvbeYzA)
 + [嵌入式面试指南：你必须掌握的Flash知识](https://mp.weixin.qq.com/s/K70cGheqtAVaeFY3iQaFRA)
 + [嵌入式软件编程，如何提高代码的可移植性？](https://mp.weixin.qq.com/s/EJbQoXEPWhxh-pmjEFclEA)
++ [嵌软面试-基础篇：4-数组和指针](https://mp.weixin.qq.com/s/oOsaolylZ1099wHF8eJCyw)
 + [嵌软面试-基础篇：5-C++智能指针](https://mp.weixin.qq.com/s/iG-mgbn0sD8GXazX3pUTfQ)
 + [嵌软面试-基础篇：7-内存泄漏、内存溢出与内存越界](https://mp.weixin.qq.com/s/3XaMuRF3LaDwlzXVL5Ppzg)
++ [嵌软面试-基础篇：9-volatile 关键字的作用和原理](https://mp.weixin.qq.com/s/OqabkhzVyToiIXYKtrZN6A)
++ [嵌软面试-基础篇：10-关键字__IO，__I,__O](https://mp.weixin.qq.com/s/mFpD9xpU7ChSiFhTmFaP9w)
++ [嵌入式开发技能：你必须了解的文件系统知识（上）](https://mp.weixin.qq.com/s/LaxoxgDcOTjHDFb9g4ujUA)
 
 # ARM
 

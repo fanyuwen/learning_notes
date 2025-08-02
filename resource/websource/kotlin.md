@@ -28,6 +28,7 @@
 + [Kotlin 属性委托 observable 的实现原理](https://mp.weixin.qq.com/s/riTRgtls1UpTxxlFsKwN0w)
 + [告别Java啰嗦代码！Kotlin两大魔法让编程爽到飞起](https://mp.weixin.qq.com/s/barxZs-0cyrFey-wpOFM3w)
 + [模块化 Ktor：构建可扩缩后端｜官方博客](https://mp.weixin.qq.com/s/KYbFdjOyKqVVWoj3-RckdA)
++ [Kotlin为了不让你们直接new操了多少心？](https://mp.weixin.qq.com/s/FSpcMeesVRjyIt3UzG1mqw)
 
 ## 技术月报
 

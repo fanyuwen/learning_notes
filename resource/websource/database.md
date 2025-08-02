@@ -146,6 +146,7 @@
 + [如何保证MySQL和Redis数据一致性](https://mp.weixin.qq.com/s/3o8Fy3_MZ8w3wKhT47qe2Q)
 + [数据库深分页介绍及优化方案](https://mp.weixin.qq.com/s/NqaGlC4-_EbJ_Ib33i4PXQ)
 + [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/y2hgGyEHo2hmtMEe0p1o9g)
++ [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/HhorRlnbC9ArIloZ1yhOzw)
 
 ### 读写分离&分库分表
 
@@ -446,6 +447,8 @@
 + [Mysql 相关日志【bin log 和 redo log】](https://mp.weixin.qq.com/s/SOi7YbDAdmqomOesiz281w)
 + [MySQL Explain详解+实战](https://mp.weixin.qq.com/s/zQkYk687D3EaJgZ2s1wyMQ)
 + [千万级的大表如何新增字段？](https://mp.weixin.qq.com/s/SBJnlCGeNjBPOKfDEiWvvA)
++ [你真的会用 MySQL 的 EXPLAIN 吗？这 8 个字段能救命](https://mp.weixin.qq.com/s/O4cyjNBpR1ElUx1G6U9JRw)
++ [MySQL Buffer Pool的“防暴”机制，让你的数据库内存永不“社恐”](https://mp.weixin.qq.com/s/srAbsTFCKxEYn-cmeFSa2Q)
 
 #### 存储引擎
 
@@ -946,6 +949,7 @@
 + [腾讯面试： 执行一条redis 命令时，底层干了什么？ 小伙懵逼，挂了](https://mp.weixin.qq.com/s/KCucVZtmP7ANmboumlICCA)
 + [Redis底层结构(二)-String对应数据结构SDS](https://mp.weixin.qq.com/s/HINBiFi4_QqsAbDhMi_jrw)
 + [Redis底层结构(六)-Zset对应数据结构(listpack、skiplist)](https://mp.weixin.qq.com/s/q7yZIOg_KgIM_-zVpDekqA)
++ [单线程的Redis为啥这么快？](https://mp.weixin.qq.com/s/iR2K3bm46EfyQRnLOjXabw)
 
 #### 分布式锁
 

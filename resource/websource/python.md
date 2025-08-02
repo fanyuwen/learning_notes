@@ -108,6 +108,7 @@
 + [40个Python函数，让你快速成为编程大师！](https://mp.weixin.qq.com/s/Kf_ZKbNqjU53xhdqfhk8Pw)
 + [Python新手必看！盘点常用的Python内置函数](https://mp.weixin.qq.com/s/z1uQxiHvpc3D1IXxlvj3_w)
 + [掌握Python中的zip函数：用法详解与实际编程示例](https://mp.weixin.qq.com/s/zfUAExIdh5x9ln6mXebZpQ)
++ [一文搞懂 Python 的 zip 函数：解锁并行迭代的终极技巧](https://mp.weixin.qq.com/s/DgQg3e7vDXDqXfqkosACag)
 + [Python中集合函数Set的使用详解](https://mp.weixin.qq.com/s/UNu-6lRjfQNm7JFCOgZnPA)
 + [Python 函数与模块的精髓与高级特性](https://my.oschina.net/u/4526289/blog/11110338)
 + [详解Python 66 个内置函数！附代码](https://mp.weixin.qq.com/s/PAfIg1RbyGz6B__sP9imSw)
@@ -208,6 +209,7 @@
 + [Python面向对象编程](https://mp.weixin.qq.com/s/5YRhcOLQCtov88r5fFcaAw)
 + [Python 类和对象简介](https://mp.weixin.qq.com/s/d4zv0LxjvrtJpaWTpZOLsg)
 + [10.Python面向对象编程（OOP）实战指南](https://mp.weixin.qq.com/s/aR1_DysuEN19Z_P8BbiCLg)
++ [python高阶：4、类和对象](https://mp.weixin.qq.com/s/-L-Fvx2xXWBj7SDQ-YpchQ)
 
 ### 核心库/模块
 
@@ -223,9 +225,11 @@
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [Python 列表的扁平化技巧](https://mp.weixin.qq.com/s/RgTvOjm0T1IcGlL36hg7Fg)
++ [苦练Python第22天：11个必学的列表方法](https://mp.weixin.qq.com/s/knoLmxVBHNAMa1fZhzVqGQ)
 + [Day 08 - 字符串、切片、集合、字典](https://mp.weixin.qq.com/s/neAiBQynATzj8XBwIQ3KIw)
 + [Python 容器的使用技巧](https://mp.weixin.qq.com/s/LK08mdLi0cCje4SdXNfqyw)
 + [Python列表操作全攻略：从基础到进阶的完整指南](https://mp.weixin.qq.com/s/00fV_c0p6cnB7WPJRM94vA)
++ [苦练Python第21天：列表创建、访问与修改三板斧](https://mp.weixin.qq.com/s/tmz6AV1XanG5XYl2nuczgw)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
 + [Python元组是否多余？](https://mp.weixin.qq.com/s/lH9Xr8v7fFYQwbjwPg_sGw)
@@ -315,6 +319,7 @@
 + [Python内置模块：copy ---浅层及深层拷贝操作详解](https://mp.weixin.qq.com/s/PlsYXeCbhkTbYN0Zj3Lpng)
 + [Python内置模块：tempfile生成临时文件和目录操作详解](https://mp.weixin.qq.com/s/TBTFrAGOvHPpvLPPu5n1bA)
 + [Python内置模块：datetime基本日期和时间类型编程详解](https://mp.weixin.qq.com/s/i54HkhiY7MBFprqya69ShQ)
++ [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 
 ### 异步/多线程
 
@@ -342,6 +347,7 @@
 + [并发编程王牌：asyncio异步实战手册，吞吐量提升500%，高并发必备！](https://mp.weixin.qq.com/s/-F6j00YPrjbGNasoMII_ww)
 + [Python 多进程编程指南](https://mp.weixin.qq.com/s/0_kwbKhEUTB7w3GU-NtpJQ)
 + [Python并发数据结构实现原理](https://mp.weixin.qq.com/s/IAhRirGQMWgXs8oxuYC07w)
++ [async/await竟是性能倒退？Python协程真相！](https://mp.weixin.qq.com/s/cCquizpg--u1VpLFgmNpcg)
 
 ### 虚拟环境
 
@@ -702,6 +708,7 @@
 + [2025年你可能还会犯的10个Python错误](https://mp.weixin.qq.com/s/tlsMvec8iOCcZlaynkNRGw)
 + [别再滥用Python单例模式了](https://mp.weixin.qq.com/s/GSCxUCdJfZmn4FlHL3wJ5g)
 + [Python数据验证cerberus：JSON Schema验证与数据完整性检查框架](https://mp.weixin.qq.com/s/8c_7fXoZiokf6LwwceWvsA)
++ [30天学会Python编程：29.Python单元测试](https://mp.weixin.qq.com/s/Arj9v1BjsSH0uWzYji0uvA)
 
 ## 新特性
 
@@ -734,6 +741,7 @@
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [Python第三方库的王者：requests](https://mp.weixin.qq.com/s/hE7pd-WhVKreq1B1YxSb9A)
++ [Python第三方最强王者库：requests](https://mp.weixin.qq.com/s/qQksW6kNOLJFJjmVr_9ruA)
 + [一文搞懂 Python 的 ujson 模块：比 json 快 10 倍的秘密](https://mp.weixin.qq.com/s/GiGQECM82cEdpqv5Aa9nGQ)
 + [masonite，一个超强的 Python 库！](https://mp.weixin.qq.com/s/5O9S2rtO4xcSLzty7Vjvig)
 + [python入门系列二十（peewee）](https://mp.weixin.qq.com/s/w60YXRv1nhQWRYUSCShLvw)
@@ -1133,3 +1141,4 @@
 + [零基础Python游戏开发 | 没有子弹碰撞的飞机大战游戏是没有灵魂的](https://mp.weixin.qq.com/s/gJXy4zRieqD5tBR3yKZQng)
 + [这行python代码长得确实够怪，但请细看](https://mp.weixin.qq.com/s/jFVRkY-KKg4H1HZeJ0_QOQ)
 + [Tkinter教程31：各种对话框示例演示](https://mp.weixin.qq.com/s/BIYT6zxrVpqF8obubMnV1w)
++ [Python和C语言哪个更容易学，为什么C语言比较难](https://mp.weixin.qq.com/s/0WsgUjcngICLMLU1Hph09Q)

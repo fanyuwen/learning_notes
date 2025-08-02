@@ -195,6 +195,8 @@
 + [C++第15课：函数模板](https://mp.weixin.qq.com/s/X1OjOiIeVVKw2LUp8Y8vvQ)
 + [C++项目构建之三 编译问题分析](https://mp.weixin.qq.com/s/Yg6ujACx96SLQ49Hder1oA)
 + [C++ 返回值优化 (RVO) 深入解析](https://mp.weixin.qq.com/s/9tGovxCRS2buW3461Vli2Q)
++ [C++ 实现环形缓冲区](https://mp.weixin.qq.com/s/OvT0HjPeEiq8Ny6yggmG_A)
++ [谈C编程---C语言中特殊符号](https://mp.weixin.qq.com/s/kaJuIjghgG7bMt0GPb1wKA)
 
 #### 指针
 
@@ -349,6 +351,8 @@
 + [C++协程实战：异步编程代码实现](https://mp.weixin.qq.com/s/g1iCIDQBC43jJdTxo6nKCA)
 + [C++并发](https://mp.weixin.qq.com/s/l0RhwTpsYPonOF2r_I9F6w)
 + [手撸线程池才是C++程序员的硬实力！7天手把手带你从0到1完整实现](https://mp.weixin.qq.com/s/10md6XvqpFug5S7LW8m29Q)
++ [十分钟实用教程 | 双缓冲与Stacktrace：C++多线程与调试的高效实践](https://mp.weixin.qq.com/s/hb0kB3s28_jjJMN74UtaGQ)
++ [C++ 协程](https://mp.weixin.qq.com/s/Vqy3IRHEPbSZ1mtWsdGwug)
 
 #### 扩展
 
@@ -407,6 +411,7 @@
 + [Qt多语言切换：动态翻译不重启](https://mp.weixin.qq.com/s/pbXmbG1bhYXVF9bsLFCupg)
 + [大话QT开发：消息机制和事件](https://mp.weixin.qq.com/s/a5o463q4iRrpx8q-7FROsA)
 + [Qt C++实现科技感界面板](https://mp.weixin.qq.com/s/urR1IQFFQvgaGZg6b6IB4Q)
++ [C++ Qt项目实战：TCP网络调试助手](https://mp.weixin.qq.com/s/fC3llfki-SjBjy0Wk7BSsg)
 
 ### 资讯
 
@@ -476,6 +481,7 @@
 + [C语言字符串函数：从入门到"入坑"再到"爬坑"指南](https://mp.weixin.qq.com/s/V6I9tsEwVXYLQTpTAd8uLA)
 + [谈C编程---条件赋值语句的实现方式](https://mp.weixin.qq.com/s/c47s1yHBxnvvk9ac4TQOvQ)
 + [谈C编程---default关键字](https://mp.weixin.qq.com/s/thydqYOYzlOElZgXHdUU6g)
++ [谈C编程---字符串](https://mp.weixin.qq.com/s/Ow_wxmLr0YHRMiaS9I9v9w)
 
 ### 高阶
 
@@ -533,12 +539,14 @@
 + [C语言实现旋转地球动画](https://mp.weixin.qq.com/s/zgd5_arXMxEOdHSidm_wzw)
 + [谈C编程---memcpy和strcpy](https://mp.weixin.qq.com/s/wHQS7UN9NHq6AwvAblaLgQ)
 + [3个精妙数学算法与精炼的C语言实现](https://mp.weixin.qq.com/s/8FnIk2PUJYo6GJZ5raFfLg)
++ [华为嵌入式开发规范：C语言这10条禁忌千万别碰！](https://mp.weixin.qq.com/s/5q6119i9CFOcZyqFCRqFuw)
 
 #### 宏
 
 + [C 语言中的宏定义与宏替换](https://mp.weixin.qq.com/s/xBszh6gCyCuYdc6h0TncBA)
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [C语言：使用宏定义实现位运算](https://mp.weixin.qq.com/s/Nh7fftOEeKtAhDxF9ZSCTQ)
++ [代码量减少50%！嵌入式C宏定义的进阶用法大全](https://mp.weixin.qq.com/s/DoDQJVHPH9rO8UPZ-pfjvQ)
 
 #### 数组
 

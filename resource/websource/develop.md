@@ -466,6 +466,7 @@
 + [Java接口限流的几种方式详解](https://mp.weixin.qq.com/s/52gWE2RD0QjM9I4DyhFHEg)
 + [一文掌握常见的限流算法：计数器、漏桶、令牌桶等](https://mp.weixin.qq.com/s/uP5WT7NHXBBHWyn_PrEv_Q)
 + [这几种面试必问负载均衡算法能手撕几种？](https://my.oschina.net/workit/blog/18684798)
++ [熔断策略设置错了，系统分分钟崩溃？超时时间+错误率阈值实战指南！](https://mp.weixin.qq.com/s/BzovBXXGpjfMuRps2dGwZQ)
 
 ### 大文件IO
 
@@ -530,6 +531,7 @@
 + [深入探讨缓存一致性问题：解决方案与最佳实践](https://mp.weixin.qq.com/s/RZCwcOwe0I2ZsJq61Q9hQQ)
 + [从崩溃到高可用：一文彻底搞懂缓存雪崩、缓存击穿、缓存穿透；相信我，面试必问](https://mp.weixin.qq.com/s/YoelBmHER47tDc2S20pmdg)
 + [缓存穿透、缓存击穿、缓存雪崩，这样回答要满分呀！](https://mp.weixin.qq.com/s/auO19jE0Sl6fjBLPI3YPgg)
++ [促销期间大量缓存同时过期：随机 TTL + 熔断降级实战防御指南](https://mp.weixin.qq.com/s/NxhYtpSUyPdjCT6lX-GZ6Q)
 
 ## 优化
 

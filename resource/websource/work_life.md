@@ -100,6 +100,7 @@
 + [程序员的护城河是什么 ？](https://mp.weixin.qq.com/s/AFCp44EPFsox5WqoxBKnpQ)
 + [35岁大数据中年程序员：未来的不确定性](https://mp.weixin.qq.com/s/IFILE9XzKaC4CQ8RfMVSlQ)
 + [程序员为什么不能一次性写好，需要一直改Bug？](https://mp.weixin.qq.com/s/yVtcW2htvrVsu-Qfk7Lrjw)
++ [程序员为什么工资那么高却不努力工作？](https://mp.weixin.qq.com/s/mwzk9ktWjo0J-u7xbYiqVA)
 
 # 个人成长
 
@@ -325,6 +326,7 @@
 + [IntelliJ IDEA Debug 功能你真的会用吗？干货总结](https://mp.weixin.qq.com/s/Nfu8AnBNgiZvHUJlJkgSDA)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/JEIXLVdToY5p3O532IizJw)
 + [2025.3 起，IntelliJ IDEA 将统一发行，Community/Ultimate Edition 从此合二为一！](https://mp.weixin.qq.com/s/XqEHyh2qKclI5X6VsueDEA)
++ [IDEA免费了，你是选择继续用IDEA，还是拥抱VScode？](https://mp.weixin.qq.com/s/szHDPPGG7AsFOvZrOKmtVA)
 
 ## MAC_PRO相关
 

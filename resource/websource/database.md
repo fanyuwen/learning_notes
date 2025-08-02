@@ -104,6 +104,9 @@
 + [滴滴面试：JOIN顺序优化，什么是 ‘小表驱动大表’ 原则？ 小伙 蒙圈了 。。。](https://mp.weixin.qq.com/s/BV4BSqnxVs8bDZ9NZ75L3A)
 + [一文带你吃透大厂高频面试题：行转列＆列转行问题](https://mp.weixin.qq.com/s/dy0E1-AZ-vYFjXaRUmKtIA)
 + [小伙在公司用了个 insert into select 居然被开除了](https://mp.weixin.qq.com/s/asHX8CbxWWpVmRyPJur55A)
++ [刷了百道SQL题，还是不会用？你应该这样补短板](https://mp.weixin.qq.com/s/D0MlfBn-YXipSaJjqBVozA)
++ [关于SQL的开窗函数，你踩过哪些坑？](https://mp.weixin.qq.com/s/eL0YzpkJz2AXKuDxPo3Mrw)
++ [对标阿里规范：MySQL 多表 JOIN 性能优化的 9 条黄金法则](https://mp.weixin.qq.com/s/yc3QXSPVFAai2OdTqsz4ug)
 
 # 本地数据库
 
@@ -451,6 +454,8 @@
 + [MySQL Buffer Pool的“防暴”机制，让你的数据库内存永不“社恐”](https://mp.weixin.qq.com/s/srAbsTFCKxEYn-cmeFSa2Q)
 + [深入理解MySQL高级特性](https://mp.weixin.qq.com/s/apSRiu7yoCC1XMTSkbq0WQ)
 + [MySQL的JOIN算法有哪些？](https://mp.weixin.qq.com/s/3j1wlw3l2RzVqhF1THOhrQ)
++ [MySQL中使用@符号定义用户变量](https://mp.weixin.qq.com/s/PSfXbnBsOYx09rJNgN78Vg)
++ [MySQL表数据删除后文件大小不变原因解析](https://mp.weixin.qq.com/s/zKpRmdeLNsQ0GyKhbSC8Lw)
 
 #### 存储引擎
 
@@ -537,6 +542,7 @@
 + [记一次线上SQL死锁事故：如何避免死锁](https://mp.weixin.qq.com/s/lJVlBJnPCzFENgcVsHhSOQ)
 + [MySQL中的 8 种锁！](https://mp.weixin.qq.com/s/fInC0-ctZi4EDiMkmh6GnA)
 + [MySQL间隙锁：数据库世界的“占座”艺术](https://mp.weixin.qq.com/s/kpPLMroa0us7pmEFt_akFQ)
++ [Mysql行锁、表锁和间隙锁区别](https://mp.weixin.qq.com/s/JnS7XM-RbrHvN7Rxh-lJ2A)
 
 #### 事务
 
@@ -560,6 +566,7 @@
 + [MySQL事务隔离机制](https://mp.weixin.qq.com/s/apiNqZ0Ji2GiE8Ws7ouMxQ)
 + [MySQL事务的一些奇奇怪怪知识](https://mp.weixin.qq.com/s/NLGOreXOKHdzc5DPnh1OvQ)
 + [MySQL事务](https://mp.weixin.qq.com/s/x2nG7VJ32Y2SgXBXR-_Yzg)
++ [MySQL默认数据库隔离级别为什么是RR？而互联网大厂为什么把它修改为RC？](https://mp.weixin.qq.com/s/m3qnGrTb8l_caXUJMnp5Ig)
 
 #### 索引
 

@@ -309,6 +309,7 @@
 + [实时通信—舍我其谁—WebSocket 入门](https://mp.weixin.qq.com/s/S-hFYVSTrxWzioUbKUUMjQ)
 + [深入解析WebSocket：实时通信的核心技术](https://mp.weixin.qq.com/s/NACeiX34oGLmyYLtQo4LQQ)
 + [WebSocket入门案例指南：使用WebSocket完成实时消息，实时进度条](https://mp.weixin.qq.com/s/G9hXpnI4cS4n3Vs2Tq3YNA)
++ [WebSocket 保序与消息乱序探因](https://mp.weixin.qq.com/s/wd0Oir6I7ITHdXhwVqkekQ)
 
 # sse
 
@@ -410,3 +411,4 @@
 + [49个 JavaScript 代码快捷技巧，让你在 2025 年成为代码高手](https://mp.weixin.qq.com/s/vOs4YzuY8P1H5s-UyH4Lqg)
 + [得物社区活动：组件化的演进与实践](https://my.oschina.net/u/5783135/blog/18626983)
 + [JavaScript语言全面概述：从历史到现代实践](https://mp.weixin.qq.com/s/vuI7XaAEzb0xUeCiWnWLFg)
++ [5 个理由告诉你为什么有了 JS 还要需要 TypeScript](https://mp.weixin.qq.com/s/p5roICZ8oKwVxt_FqIwj7g)

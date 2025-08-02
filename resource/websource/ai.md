@@ -37,6 +37,7 @@
 + [LlamaIndex🦙 入门](https://mp.weixin.qq.com/s/Q0Tve2qTqZewdQ9vMwpPnw)
 + [Agentic的模式和实现代码](https://mp.weixin.qq.com/s/KfReQyc3zlyxI-nh6Wx0MA)
 + [如何用好 “对话式编程”？牢记这十二条策略](https://my.oschina.net/IDP/blog/18426598)
++ [大模型为什么需要KV缓存是何动机与原理？为什么Q不用缓存？](https://mp.weixin.qq.com/s/Ks3R2j_mXu2KHDkTvW6tEw)
 
 ## 资讯
 

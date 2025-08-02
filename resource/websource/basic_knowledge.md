@@ -175,6 +175,7 @@
 + [嵌入式Linux多线程编程](https://mp.weixin.qq.com/s/EwA22XjWe_WeDDbzRuOARw)
 + [理解 Linux PATH 环境变量： 初学者完全指南](https://mp.weixin.qq.com/s/bug6wom61pv8evL12Notmw)
 + [124 | 『八股文™』聊一聊线程模型基础问题](https://mp.weixin.qq.com/s/A54uZ-49NGm2tSHg6YKylw)
++ [Linux inode 详解](https://mp.weixin.qq.com/s/ttWoxByd770FgkIePHYUDw)
 
 ### 网络
 
@@ -355,6 +356,7 @@
 + [系统CPU飙升易忽视的隐形杀手](https://mp.weixin.qq.com/s/fe9KG3D4efOmBUXwHKgXaA)
 + [CPU的底线：为什么只有操作系统才能执行这些操作？](https://mp.weixin.qq.com/s/p8d9ul_XrGoiXAdeahhXjw)
 + [内存管理与垃圾收集-01：CPU如何访问内存？](https://mp.weixin.qq.com/s/0t1O6q557VGrBn2RF6T6dw)
++ [第七章：CPU与GPU计算引擎实现](https://mp.weixin.qq.com/s/ASJe355Qhelh75fdy5sQpQ)
 
 ### 并发
 
@@ -569,6 +571,7 @@
 + [从丢包到恢复：TCP重传机制的底层逻辑全解](https://mp.weixin.qq.com/s/elT2NgCj1IjIxJmQFozylg)
 + [深挖 TCP/IP 协议，计算机网络](https://mp.weixin.qq.com/s/7HXQ8yxLCfSSIq_sqC7aYQ)
 + [一文详解SSL/TLS协议](https://mp.weixin.qq.com/s/3nPurQB1JbX3wHKp4BeXWA)
++ [TCP/IP 传输层详解](https://mp.weixin.qq.com/s/MVQ36RMXLjFjk76SCgse5g)
 
 ### UDP
 
@@ -658,6 +661,7 @@
 + [性能比拼: Nginx vs. Envoy](https://mp.weixin.qq.com/s/aejh7H_wxLFJf96g5SJbjw)
 + [Nginx动静分离配置详解(图文全面总结)](https://mp.weixin.qq.com/s/SJwxBQyxJaAGVeLpOtPXrg)
 + [Nginx如何限流扛住高并发请求？](https://mp.weixin.qq.com/s/7RDbdpq2WXEdbEkktj6JEQ)
++ [从原理到实战，彻底搞懂Nginx](https://mp.weixin.qq.com/s/Sv9ZpJimVI52_RGV9rOANQ)
 
 ### wireshark
 

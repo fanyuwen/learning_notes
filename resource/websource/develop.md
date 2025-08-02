@@ -686,6 +686,7 @@
 + [模块设计的黄金法则（七）：别急着写，先多想一步](https://mp.weixin.qq.com/s/t0l6l0VpCPtE-qC9jE5Hsg)
 + [告别if-else地狱：业务断言如何用契约式设计重构代码？](https://mp.weixin.qq.com/s/s8rb8TUqtOgsu8R9ezv2FA)
 + [解密百万并发秒杀架构：如何在1秒内抗住流量洪峰](https://mp.weixin.qq.com/s/WlWaOnhaXrTlK7vYdfeMwA)
++ [程序员必看：两个思想优化90%的代码](https://mp.weixin.qq.com/s/K05TLKtjrHD2w_sxY7_QZg)
 
 # 测试相关
 

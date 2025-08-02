@@ -4357,6 +4357,7 @@
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [为什么java被部分开发者认为是低端技术？](https://mp.weixin.qq.com/s/mu6EeqNKxf_2FIjyjiDFoA)
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
++ [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [深入浅出AST：如何用树形结构解构代码逻辑](https://mp.weixin.qq.com/s/SzfQoumtAwQgfeuE7sZctg)

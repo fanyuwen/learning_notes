@@ -173,6 +173,8 @@
 + [探秘 Linux 内核：watchdog 看门狗框架全解析](https://mp.weixin.qq.com/s/jQXVAsqJ76MkHBR7krgiug)
 + [Linux 高性能数据结构枫树 - 把红黑树都替代了](https://mp.weixin.qq.com/s/pNlrGqCK0OxJ2EfYgWnovA)
 + [嵌入式Linux多线程编程](https://mp.weixin.qq.com/s/EwA22XjWe_WeDDbzRuOARw)
++ [理解 Linux PATH 环境变量： 初学者完全指南](https://mp.weixin.qq.com/s/bug6wom61pv8evL12Notmw)
++ [124 | 『八股文™』聊一聊线程模型基础问题](https://mp.weixin.qq.com/s/A54uZ-49NGm2tSHg6YKylw)
 
 ### 网络
 
@@ -352,6 +354,7 @@
 + [CPU寻址工作原理](https://mp.weixin.qq.com/s/fCTP-EFYWVsMp9tAjMzC3w)
 + [系统CPU飙升易忽视的隐形杀手](https://mp.weixin.qq.com/s/fe9KG3D4efOmBUXwHKgXaA)
 + [CPU的底线：为什么只有操作系统才能执行这些操作？](https://mp.weixin.qq.com/s/p8d9ul_XrGoiXAdeahhXjw)
++ [内存管理与垃圾收集-01：CPU如何访问内存？](https://mp.weixin.qq.com/s/0t1O6q557VGrBn2RF6T6dw)
 
 ### 并发
 

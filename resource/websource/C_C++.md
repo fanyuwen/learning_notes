@@ -432,6 +432,7 @@
 ### 基础
 
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
++ [【C语言】C语言文件知识全讲解](https://mp.weixin.qq.com/s/S23IzQ7rJfdgD4PzYA7QOw)
 + [编程语言那么多，为何C语言能成为最成功的语言？](https://mp.weixin.qq.com/s/qmZxbIbPfFk9oHP7E779bg)
 + [C语言开发必备：这些神奇的宏定义让你的代码飞起来！](https://mp.weixin.qq.com/s/ChojNZdFxuP7T6JKfmsMQA)
 + [我的C语言之路：4-使用C语言的7个步骤](https://mp.weixin.qq.com/s/w9Cf4L0MlbaHAnd4uMcSRA)
@@ -473,6 +474,8 @@
 + [谈C编程---do{}while(0)的特殊应用](https://mp.weixin.qq.com/s/3Awbt6p6epj69zfwpEgCkA)
 + [谈C编程---sizeof和strlen](https://mp.weixin.qq.com/s/uPPRuqqc2d4EiJzl1kVsog)
 + [C语言字符串函数：从入门到"入坑"再到"爬坑"指南](https://mp.weixin.qq.com/s/V6I9tsEwVXYLQTpTAd8uLA)
++ [谈C编程---条件赋值语句的实现方式](https://mp.weixin.qq.com/s/c47s1yHBxnvvk9ac4TQOvQ)
++ [谈C编程---default关键字](https://mp.weixin.qq.com/s/thydqYOYzlOElZgXHdUU6g)
 
 ### 高阶
 
@@ -528,6 +531,8 @@
 + [C语言的递归调用被这13道题整明白了](https://mp.weixin.qq.com/s/a2h9hKxcoERnCwICB0iACQ)
 + [C算法35：换钱的方法数](https://mp.weixin.qq.com/s/YiH8yjVqaXkjC3_KXWZoQg)
 + [C语言实现旋转地球动画](https://mp.weixin.qq.com/s/zgd5_arXMxEOdHSidm_wzw)
++ [谈C编程---memcpy和strcpy](https://mp.weixin.qq.com/s/wHQS7UN9NHq6AwvAblaLgQ)
++ [3个精妙数学算法与精炼的C语言实现](https://mp.weixin.qq.com/s/8FnIk2PUJYo6GJZ5raFfLg)
 
 #### 宏
 
@@ -698,6 +703,7 @@
 + [嵌软面试-基础篇：9-volatile 关键字的作用和原理](https://mp.weixin.qq.com/s/OqabkhzVyToiIXYKtrZN6A)
 + [嵌软面试-基础篇：10-关键字__IO，__I,__O](https://mp.weixin.qq.com/s/mFpD9xpU7ChSiFhTmFaP9w)
 + [嵌入式开发技能：你必须了解的文件系统知识（上）](https://mp.weixin.qq.com/s/LaxoxgDcOTjHDFb9g4ujUA)
++ [从C代码到机器码：嵌入式程序是如何诞生的？](https://mp.weixin.qq.com/s/l1Hkoz9hi6LwejCDTuU8ug)
 
 # ARM
 

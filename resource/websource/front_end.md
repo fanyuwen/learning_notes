@@ -385,6 +385,7 @@
 + [JavaScript中的BOM基础与window对象详解](https://mp.weixin.qq.com/s/37tGmemZ1PlIZzm6ljt9Sw)
 + [无感刷新Token：如何做到让用户“永不掉线”](https://mp.weixin.qq.com/s/bRZmBIfqJDZMAKYayJBJPg)
 + [三步根治前端缓存 “顽疾”](https://my.oschina.net/u/4090830/blog/18638533)
++ [不要再用 Math.random()！用这个 API 做到真随机](https://mp.weixin.qq.com/s/yaO8Ei3ZXoJoWFZJwrnATw)
 
 # 杂谈
 

@@ -449,6 +449,8 @@
 + [千万级的大表如何新增字段？](https://mp.weixin.qq.com/s/SBJnlCGeNjBPOKfDEiWvvA)
 + [你真的会用 MySQL 的 EXPLAIN 吗？这 8 个字段能救命](https://mp.weixin.qq.com/s/O4cyjNBpR1ElUx1G6U9JRw)
 + [MySQL Buffer Pool的“防暴”机制，让你的数据库内存永不“社恐”](https://mp.weixin.qq.com/s/srAbsTFCKxEYn-cmeFSa2Q)
++ [深入理解MySQL高级特性](https://mp.weixin.qq.com/s/apSRiu7yoCC1XMTSkbq0WQ)
++ [MySQL的JOIN算法有哪些？](https://mp.weixin.qq.com/s/3j1wlw3l2RzVqhF1THOhrQ)
 
 #### 存储引擎
 

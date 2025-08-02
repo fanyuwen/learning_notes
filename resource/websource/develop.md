@@ -304,6 +304,7 @@
 + [分布式锁+事务=灾难？不要把锁加在事务内！！！](https://mp.weixin.qq.com/s/-DPIYfY9YCQ3GBKXIy81ww)
 + [技术科普｜深入理解分布式锁的原理与实现 part 1](https://mp.weixin.qq.com/s/KECstNqzv-bWRU6GHsDghg)
 + [如何实现一个合格的分布式锁？](https://mp.weixin.qq.com/s/CEOWNqND9SFuLCeAEaZ8MQ)
++ [分布式锁的使用场景和常见实现（上）](https://mp.weixin.qq.com/s/so_Q8oQZj_AZoO6Z1J5ptA)
 
 ## 分布式缓存
 

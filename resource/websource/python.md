@@ -16,6 +16,7 @@
 + [Python 基础知识](https://mp.weixin.qq.com/s/k1cCvL4HEhuBsbOTOS6w_g)
 + [Python零基础从入门到精通详细教程3-数据类型](https://mp.weixin.qq.com/s/cUWDAW9Ow-z5xh9bWIlUWg)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
++ [Python零基础从入门到精通详细教程8-数据类型高级应用 - 上篇](https://mp.weixin.qq.com/s/cYQDnel4EWkdgUdXko4e_g)
 + [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
 + [Python基础：Python的运算符与表达式](https://mp.weixin.qq.com/s/4bIebG-KDVV37BGn0iD94g)
 + [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
@@ -44,6 +45,7 @@
 + [我后悔没有早点知道 Python中迭代的八个技巧](https://mp.weixin.qq.com/s/00wUlMWRerQVDw6uF4AtQA)
 + [掌握Python循环控制的艺术：12个进阶示例](https://mp.weixin.qq.com/s/NsEdXf39AaQs9jpMzxoaKw)
 + [foreach循环的解构赋值与序列迭代](https://mp.weixin.qq.com/s/2pN99zzGRO9YLAFSubX-aQ)
++ [Python try语句](https://mp.weixin.qq.com/s/Z3DGUzozOci8Hk5-imKDUQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
 + [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
 + [99% 的人都不知道，哪种 Python 循环最快？](https://mp.weixin.qq.com/s/_-aW6WPJxcO_mLLdGg2sYQ)
@@ -91,6 +93,8 @@
 + [一文带您解读 Python 中的 “@” 符号：多功能的简洁高效操作符](https://mp.weixin.qq.com/s/yzmJ5mDBhe6S3BanhRf0yQ)
 + [Python *args 和 **kwargs 深度解析](https://mp.weixin.qq.com/s/In4yPI-sEifzkuA_msapgw)
 + [Python内置类型详解](https://mp.weixin.qq.com/s/MAgUYXnxerYsSj9LNFmwBg)
++ [Python的Any类型详解](https://mp.weixin.qq.com/s/3AZbt2JfTr1vobTYm-1yeg)
++ [提升Python代码质量的Bound类型约束方法](https://mp.weixin.qq.com/s/hM5e-WmA97pAhvBSeROyeg)
 
 ### 函数/方法
 
@@ -159,9 +163,11 @@
 + [Python 函数](https://mp.weixin.qq.com/s/roz-ipogllMIYI2AmM_eVw)
 + [Python学习必备：20个高使用率函数讲解](https://mp.weixin.qq.com/s/oTzooHBv2d4Q5yBhPCV8pQ)
 + [快速学习Python最常用的30个内置函数](https://mp.weixin.qq.com/s/UOcuv0Wz8_8gecxNwvDH3w)
++ [苦练Python第33天：斜杠 / 与星号 * 的魔法——彻底搞懂函数参数顺序](https://mp.weixin.qq.com/s/-3e4RelxxZozqBa1R6qf5Q)
 
 ### 面向对象
 
++ [Python学习笔记：面向对象三大特性详解](https://mp.weixin.qq.com/s/LvFV3yI9WuWyJJMMA6wjjA)
 + [Python面向对象编程：多重继承和MRO深入解析](https://mp.weixin.qq.com/s/h8QjObfvUAQ9jn6BL6VJDw)
 + [最全Python入门教程：面向对象编程](https://mp.weixin.qq.com/s/K1UQJs2bpXZtjl_b9iNJyw)
 + [Python进阶最大拦路虎？一文拆解类和对象](https://mp.weixin.qq.com/s/0NlG4btaXYeDwcpdLYvtOQ)
@@ -201,6 +207,7 @@
 + [Day19-Python进阶探索：面向对象编程实战](https://mp.weixin.qq.com/s/m6aDoAgNYmn_qfrwqBb0mw)
 + [Python面向对象编程](https://mp.weixin.qq.com/s/5YRhcOLQCtov88r5fFcaAw)
 + [Python 类和对象简介](https://mp.weixin.qq.com/s/d4zv0LxjvrtJpaWTpZOLsg)
++ [10.Python面向对象编程（OOP）实战指南](https://mp.weixin.qq.com/s/aR1_DysuEN19Z_P8BbiCLg)
 
 ### 核心库/模块
 
@@ -215,11 +222,13 @@
 + [Python入门教程05：字符串用法大全](https://mp.weixin.qq.com/s/iP0rpvGntr2rOrXeP3AnxA)
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
++ [Python 列表的扁平化技巧](https://mp.weixin.qq.com/s/RgTvOjm0T1IcGlL36hg7Fg)
 + [Day 08 - 字符串、切片、集合、字典](https://mp.weixin.qq.com/s/neAiBQynATzj8XBwIQ3KIw)
 + [Python 容器的使用技巧](https://mp.weixin.qq.com/s/LK08mdLi0cCje4SdXNfqyw)
 + [Python列表操作全攻略：从基础到进阶的完整指南](https://mp.weixin.qq.com/s/00fV_c0p6cnB7WPJRM94vA)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
++ [Python元组是否多余？](https://mp.weixin.qq.com/s/lH9Xr8v7fFYQwbjwPg_sGw)
 + [Python标准库中最强的工具——Collections模块深度剖析](https://mp.weixin.qq.com/s/zlT7_szUwBJswvuKVY6idQ)
 + [Python 字符串操作的 30 个关键方法，你知道几个？](https://mp.weixin.qq.com/s/6ts30FfkcaWFCGz89rWzBw)
 + [Python 内置数据类型——Set(集合)](https://mp.weixin.qq.com/s/jSME0hMnBdckcfooU-Dvzw)
@@ -301,6 +310,11 @@
 + [Python输入输出函数完全指南：从基础到实战的开发必备技能](https://mp.weixin.qq.com/s/Goc474bKtiTKX59b2rkgFg)
 + [Python内置模块：shutil使用详解](https://mp.weixin.qq.com/s/u9XcftjbtceoWWoE1spR6w)
 + [Python内置模块：array使用详解](https://mp.weixin.qq.com/s/4PjP5VGZ5Ro1p5EKdHUhxQ)
++ [Python内置模块：struct -将字节串解读为打包的二进制数据](https://mp.weixin.qq.com/s/y59NuQKTVo2vhGdMJDU9jg)
++ [Python内置模块：heapq --- 堆队列算法详解](https://mp.weixin.qq.com/s/poHPIXv-A03hzi9qwLqcSQ)
++ [Python内置模块：copy ---浅层及深层拷贝操作详解](https://mp.weixin.qq.com/s/PlsYXeCbhkTbYN0Zj3Lpng)
++ [Python内置模块：tempfile生成临时文件和目录操作详解](https://mp.weixin.qq.com/s/TBTFrAGOvHPpvLPPu5n1bA)
++ [Python内置模块：datetime基本日期和时间类型编程详解](https://mp.weixin.qq.com/s/i54HkhiY7MBFprqya69ShQ)
 
 ### 异步/多线程
 
@@ -328,6 +342,13 @@
 + [并发编程王牌：asyncio异步实战手册，吞吐量提升500%，高并发必备！](https://mp.weixin.qq.com/s/-F6j00YPrjbGNasoMII_ww)
 + [Python 多进程编程指南](https://mp.weixin.qq.com/s/0_kwbKhEUTB7w3GU-NtpJQ)
 + [Python并发数据结构实现原理](https://mp.weixin.qq.com/s/IAhRirGQMWgXs8oxuYC07w)
+
+### 虚拟环境
+
++ [Python 虚拟环境（一）](https://mp.weixin.qq.com/s/aVa4pFUfE8ZBkaPN08egQQ)
++ [【学习研究】Conda虚拟环境与Jupyter配置](https://mp.weixin.qq.com/s/zjNQJ7U-WgwMIVZ8-7Nduw)
++ [7种 Python 虚拟环境工具全面对比：新手应该选择哪种](https://mp.weixin.qq.com/s/vwIVKvV3W3LLSZ5jKcJRnQ)
++ [Python的虚拟环境是如何工作的？](https://mp.weixin.qq.com/s/w0VueGMI9y3GWJcaD4AZvg)
 
 ## 实践
 
@@ -411,7 +432,6 @@
 + [高效使用Python工具自动生成模块文档的秘诀](https://mp.weixin.qq.com/s/40C9ckllnG9ss-2I4rDlLA)
 + [21个有趣的Python脚本，让你从入门到精通](https://mp.weixin.qq.com/s/_E8fzCYWyNwon-nCHrNXww)
 + [Python基础（九）模块和包](https://mp.weixin.qq.com/s/U47cwFgW0cN2vNi6Cm4cBg)
-+ [Python 虚拟环境（一）](https://mp.weixin.qq.com/s/aVa4pFUfE8ZBkaPN08egQQ)
 + [Python __init__.py 文件的作用](https://mp.weixin.qq.com/s/0fvbBIBmtjapLOpMfxNyiQ)
 + [Python处理CSV文件的12个高效技巧](https://mp.weixin.qq.com/s/EaJFxZEttQ6YvVx7dVT4KA)
 + [Python进阶宝典：十个实用技巧提升代码效率](https://mp.weixin.qq.com/s/MO495CRUM9tx8CnTwwQlnA)
@@ -588,7 +608,6 @@
 + [使用Python破解验证码：从基础到实践](https://mp.weixin.qq.com/s/P3O5jraRlPksE7A2GMy4mw)
 + [Python GUI开发必看：Frame组件详解](https://mp.weixin.qq.com/s/zdJnF-jWRC4sSkC5ApRBHA)
 + [Python轻松调用JS接口的实用技巧](https://mp.weixin.qq.com/s/paGxVFP8cdOV-TIk5kKWsg)
-+ [【学习研究】Conda虚拟环境与Jupyter配置](https://mp.weixin.qq.com/s/zjNQJ7U-WgwMIVZ8-7Nduw)
 + [Python金融数据分析：10个金融数据挖掘的技巧](https://mp.weixin.qq.com/s/KxARCdltbmXcs-H1uolooQ)
 + [Python Turtle魔法：绘制一个会走的时钟](https://mp.weixin.qq.com/s/J0CNQX0Nu55CgSQ34wnE3A)
 + [Python 对象引用计数：最厉害的内存管理方式](https://mp.weixin.qq.com/s/VqgpzjtBiZMF55TE8W_EsQ)
@@ -641,7 +660,6 @@
 + [python参数传递的终极真相：不是传值，也不是传引用！](https://mp.weixin.qq.com/s/7F7c1jNelOhMeyC5CYaJlw)
 + [Python编程精进：10个破坏代码质量的Bad Code](https://mp.weixin.qq.com/s/ClwtFZQJhZpfqq-RQspsVw)
 + [Python编程精进：内存管理](https://mp.weixin.qq.com/s/sR-FizCiquqPePjYG7y47w)
-+ [7种 Python 虚拟环境工具全面对比：新手应该选择哪种](https://mp.weixin.qq.com/s/vwIVKvV3W3LLSZ5jKcJRnQ)
 + [乱用python中的del关键字，可能引发程序“雪崩”，特别是最后一种情况藏得最深](https://mp.weixin.qq.com/s/RZ7HCFHBns98mvb3fmDiIA)
 + [Python 命令行交互开发指南](https://mp.weixin.qq.com/s/Y_wC2B_pEDOtH-HfKpm1XA)
 + [Python编程精进：正则表达式](https://mp.weixin.qq.com/s/KjvwRYhDXipXZRORxioHrA)
@@ -678,6 +696,12 @@
 + [Python获取当前时间戳](https://mp.weixin.qq.com/s/K2xwzIlnqnJZO5y3D9e-9w)
 + [Python 命令行参数解析的3个方法，提升脚本效率](https://mp.weixin.qq.com/s/R2kfeqko4Oe2g6_cP0rF_w)
 + [Python性能优化：解决执行速度慢与内存占用高的痛点](https://mp.weixin.qq.com/s/qXXx3WrhrGg5w5g4fr-RIQ)
++ [__name__=="__main__"到底是什么？他有什么用？](https://mp.weixin.qq.com/s/wLVWQCg0aTJbfMCxgtuHcA)
++ [Python缩进：天才设计还是历史包袱？ABC埋下的编程之谜！](https://mp.weixin.qq.com/s/bMiIHzQd5wBAzf4cz8g9lw)
++ [省略号：Python的完美有效语法](https://mp.weixin.qq.com/s/uI2Q_wGrmDVpgGWrWFmdXg)
++ [2025年你可能还会犯的10个Python错误](https://mp.weixin.qq.com/s/tlsMvec8iOCcZlaynkNRGw)
++ [别再滥用Python单例模式了](https://mp.weixin.qq.com/s/GSCxUCdJfZmn4FlHL3wJ5g)
++ [Python数据验证cerberus：JSON Schema验证与数据完整性检查框架](https://mp.weixin.qq.com/s/8c_7fXoZiokf6LwwceWvsA)
 
 ## 新特性
 
@@ -706,6 +730,7 @@
 + [每日一模块：Parsel](https://mp.weixin.qq.com/s/kOYNdba7hpe6tjkS8_OUkg)
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
++ [RQ，一个神奇的 Python 库](https://mp.weixin.qq.com/s/Is62FLF8KApZeYnPyV8ckw)
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [Python第三方库的王者：requests](https://mp.weixin.qq.com/s/hE7pd-WhVKreq1B1YxSb9A)
@@ -951,6 +976,7 @@
 + [Numpy系列（二）- Numpy数组（一）](https://mp.weixin.qq.com/s/0ZdghNO3u-bkrq-lT9SPqA)
 + [100个NumPy小技巧，让你精通Python科学计算](https://mp.weixin.qq.com/s/hhdf-WtgCH4pjWtOM0CPCQ)
 + [NumPy数组之常用操作](https://mp.weixin.qq.com/s/tF_7p39OX9h8Ssmf-WGgtw)
++ [几个常用Numpy函数详解](https://mp.weixin.qq.com/s/fld5Lquvhvx_IA2_3j-ijw)
 
 ## 工具
 
@@ -1012,6 +1038,7 @@
 + [uv：用 Rust 重塑 Python 开发体验](https://mp.weixin.qq.com/s/RrmEY5oGzxwTklLQXtWspA)
 + [python代码调试工具pudb的多进程支持](https://mp.weixin.qq.com/s/iS4aCiA0CvkH7gD_i_Omig)
 + [Python中的数据导入与查询](https://mp.weixin.qq.com/s/4y0nZ8LvBKvAwFKEPixq7g)
++ [用Python来解放双手，PyAutoGUI详解](https://mp.weixin.qq.com/s/Q8rf8CjfgdaFsn5YkqkcvQ)
 
 ## 框架
 

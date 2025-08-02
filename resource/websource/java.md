@@ -460,6 +460,7 @@
 + [Java 树结构转换算法的再次优化：拥抱标准函数式接口](https://mp.weixin.qq.com/s/S2DwcvBday5RI0Ew86Fu_g)
 + [Java开发必备：最实用的工具类库大全](https://mp.weixin.qq.com/s/rDFODwopgd-mDdaSfOkMhg)
 + [Java - Lambda表达式进阶](https://mp.weixin.qq.com/s/HiZPfd9YnYEnaUF2kKAZgQ)
++ [Java 大视界 -- Java 实现 MapReduce 编程模型：基础原理与代码实践（3）](https://mp.weixin.qq.com/s/lWHcln2hZQFdmwzkAs7EdA)
 
 ## 代码质量
 
@@ -837,6 +838,9 @@
 + [Java虚拟线程：告别“线程池爆炸”，轻松应对10万+并发！](https://mp.weixin.qq.com/s/3JTIw73yPHlmC2h14r5Zkg)
 + [java实现线程的几种方式](https://mp.weixin.qq.com/s/To8VvzoMGzZGf1Q77KyBmA)
 + [高并发编程-有序性](https://mp.weixin.qq.com/s/JBJlEYcfAlvaCET2SC3PIg)
++ [JAVA并发编程工具](https://mp.weixin.qq.com/s/Dq2byA5Oa2UkWi8phEDINg)
++ [浅谈线程服务的停止技巧](https://mp.weixin.qq.com/s/RwVrOkZppGB95G-p--eZtg)
++ [java线程的终止](https://mp.weixin.qq.com/s/KY24A_u_w9ZwP5uWIx3ajQ)
 
 #### CAS
 
@@ -901,6 +905,9 @@
 + [Java线程池关闭机制深度解析：从状态机到资源回收](https://mp.weixin.qq.com/s/gX1bHSRDOtrnk5YzLLwZJA)
 + [Java线程池详解及使用指南](https://mp.weixin.qq.com/s/s-cv0gLkp6JK2JplQ5j3ZA)
 + [Java 线程池 WorkQueue 的作用](https://mp.weixin.qq.com/s/FV7RihmYopZcpjxau5vqhw)
++ [搞懂线程池源码执行全过程， ThreadPoolExecutor一步步拆解，小白也能懂！](https://mp.weixin.qq.com/s/r0udUVRDh5LPw7PQCav5lw)
++ [线程池为什么异常日志没有了？这6大误区必须搞懂！](https://mp.weixin.qq.com/s/hceh41N5SwLf445mdkkfDg)
++ [线程池参数到底怎么配？一文吃透实战调优 + Hippo4j 动态设置](https://mp.weixin.qq.com/s/EQfuqoQLp1puLKAGSfFkFw)
 
 #### 锁
 
@@ -985,6 +992,7 @@
 + [Bilibili 三面: 资源分配图中存在环路则一定出现死锁么？](https://mp.weixin.qq.com/s/AeG_Io9PjE3pXU8Aimjgkg)
 + [Java并发编程：从synchronized到Redis分布式锁](https://mp.weixin.qq.com/s/lN3Lg4OjB8QUkL6WmD-h6w)
 + [高并发卡顿？ReentrantLock的AQS用“超市排队”神操作，竟让锁性能飙升！](https://mp.weixin.qq.com/s/6tr5rkYQJlqCpb595Ry0Dg)
++ [java synchronized锁升级详解](https://mp.weixin.qq.com/s/i9dpmjqBVpJ5qVzXXMCkpA)
 
 #### volatile
 
@@ -1078,6 +1086,7 @@
 + [认识 JVM 与字节码 —— 打开 Java 底层世界的大门](https://mp.weixin.qq.com/s/85wS9TOlo_qkMNqs0aOPEg)
 + [JVM关机钩子ShutdownHook：如何避免程序“突然死亡”？](https://mp.weixin.qq.com/s/pnjiwx6nkGjU5qqv9pvfuw)
 + [JVM详解](https://mp.weixin.qq.com/s/kphFn-xofXFS7Ru6-UF2KQ)
++ [class文件结构解析](https://mp.weixin.qq.com/s/l59TZCwGvh-jtmfTmqhFiA)
 
 ### 命令
 
@@ -1220,6 +1229,7 @@
 + [JVM 调优用了 CMS 就惨遭资本优化？改为 G1 吞吐量飙升 174%！](https://mp.weixin.qq.com/s/hK1AAGM_jGuhvyPrt7mB3g)
 + [垃圾收集算法--逃逸分析、标量替换、栈上分配](https://mp.weixin.qq.com/s/gE27EHznuuNE6nQWRxylng)
 + [JVM-垃圾收集器](https://mp.weixin.qq.com/s/Org3ZzVR37lbF5NnAsclKA)
++ [垃圾回收黑科技：分代收集+三大算法，让你的Java性能飙升！](https://mp.weixin.qq.com/s/htlFbGH4kVzD6CF6g1n7VQ)
 
 # 核心库
 
@@ -1800,6 +1810,7 @@
 
 + [聊聊Druid连接池的内部原理及推荐配置](https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ)
 + [HikariCP 与 Druid：Java 数据库连接池的深度剖析](https://mp.weixin.qq.com/s/_ncP6evWfutEvzR2L7DU2Q)
++ [连接池玄冰甲！HikariCP调优避免数据库雪崩](https://mp.weixin.qq.com/s/S43t0dlxDWnIC4P2wbtKmw)
 
 ## disruptor
 
@@ -2125,6 +2136,10 @@
 + [0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/kWQUQXdLWwcIfxsVnRTxbA)
 + [换掉SpringBoot？0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/joQcv60Er_FFIRyrSYVaxg)
 + [Spring Boot 称霸时代要结束了？Quarkus 在云原生领域强势崛起](https://mp.weixin.qq.com/s/9dZ0XZXz_1KTVgENAOcEgg)
+
+## Quartz
+
++ [Quartz 推荐文档](https://mp.weixin.qq.com/s/kBtfLfwFX8pJY02NH-YW9A)
 
 ## reactor
 

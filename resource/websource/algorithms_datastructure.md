@@ -90,6 +90,7 @@
 + [掌握了这些算法技巧，可以少刷一半的Leetcodee ！](https://mp.weixin.qq.com/s/n4beV8HXNEIt48bWsegLNw)
 + [双指针算法--从暴力走向优雅的算法捷径](https://mp.weixin.qq.com/s/k_Sc_8BJUmSEI94B6nVzJQ)
 + [链表（1）-快慢指针及例题](https://mp.weixin.qq.com/s/0e7PoVtdP7aX0bbbGnbNEg)
++ [数据结构基础：数组、向量与链表详解](https://mp.weixin.qq.com/s/08hFMCksum-bJdl2IPsrSg)
 
 ## Graph
 

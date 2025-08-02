@@ -197,6 +197,8 @@
 + [Python「类 class」的入门理解](https://mp.weixin.qq.com/s/116Ad9UM4a-aKHYvcyR_pQ)
 + [带娃学python之十一篇：对象=属性+方法](https://mp.weixin.qq.com/s/mKbX2p7vTXkduK5AzcGChw)
 + [Day19-Python进阶探索：面向对象编程实战](https://mp.weixin.qq.com/s/m6aDoAgNYmn_qfrwqBb0mw)
++ [Python面向对象编程](https://mp.weixin.qq.com/s/5YRhcOLQCtov88r5fFcaAw)
++ [Python 类和对象简介](https://mp.weixin.qq.com/s/d4zv0LxjvrtJpaWTpZOLsg)
 
 ### 核心库/模块
 
@@ -212,6 +214,7 @@
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [Python 容器的使用技巧](https://mp.weixin.qq.com/s/LK08mdLi0cCje4SdXNfqyw)
++ [Python列表操作全攻略：从基础到进阶的完整指南](https://mp.weixin.qq.com/s/00fV_c0p6cnB7WPJRM94vA)
 + [python基础之：列表（list）操作](https://mp.weixin.qq.com/s/_YghNC24VimbrNHCc_ISvA)
 + [Python合并列表(List)的六种方法](https://mp.weixin.qq.com/s/viCM9aqSeKiMUAf9n_wZkg)
 + [Python标准库中最强的工具——Collections模块深度剖析](https://mp.weixin.qq.com/s/zlT7_szUwBJswvuKVY6idQ)
@@ -292,6 +295,8 @@
 + [Python内置模块：timeit测量小代码片段的执行时间](https://mp.weixin.qq.com/s/5zccYEWSJRLsEsGOQef2Ow)
 + [苦练Python第32天：Python百宝箱，collections模块5大杀器](https://mp.weixin.qq.com/s/0_Un9GZ5f-QUM8ZBzC7a3w)
 + [Python内置模块：filecmp文件与目录比较编程笔记](https://mp.weixin.qq.com/s/eoLWEVz8l1-JckTZH_zVWQ)
++ [Python输入输出函数完全指南：从基础到实战的开发必备技能](https://mp.weixin.qq.com/s/Goc474bKtiTKX59b2rkgFg)
++ [Python内置模块：shutil使用详解](https://mp.weixin.qq.com/s/u9XcftjbtceoWWoE1spR6w)
 
 ### 异步/多线程
 
@@ -662,6 +667,9 @@
 + [Python实用项目——从0开始实现datetime](https://mp.weixin.qq.com/s/SYEQ5m-riV_70rioTvr4vw)
 + [Python编程小技巧--‌生成重复字符串](https://mp.weixin.qq.com/s/lO2NzJFJwNwMYqrUcRn8og)
 + [苦练Python第30天：浅拷贝 VS 深拷贝](https://mp.weixin.qq.com/s/BY8jX2G699Dgh_gJ9vhZrw)
++ [办公自动化太简单！Python编程10个神奇代码让你惊艳同事！](https://mp.weixin.qq.com/s/iTVPOXijLwUWnWi-_OJnKw)
++ [30天学会Python编程：24.Python数据库编程基础](https://mp.weixin.qq.com/s/JOLL2jzch9XAurT84xkAZg)
++ [分享几个实用的 Python 小技巧，提升编程效率！](https://mp.weixin.qq.com/s/saQqFqJXU6WbICeYYI8gRg)
 
 ## 新特性
 

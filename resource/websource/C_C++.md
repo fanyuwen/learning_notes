@@ -189,6 +189,7 @@
 + [最近通过 C++ 性能优化将项目提速了 10 倍。。。](https://mp.weixin.qq.com/s/WF0nKBABBkGk5WzsS1Po9g)
 + [C++中的内存：栈与堆](https://mp.weixin.qq.com/s/poN_Cgbu691kLx2fbPYzoQ)
 + [C++内存分配重载全解析，教你写出无BUG的operator new！](https://mp.weixin.qq.com/s/lYo-Q9bPQUAMdMyWXJJ4zA)
++ [C++第15课：函数模板](https://mp.weixin.qq.com/s/X1OjOiIeVVKw2LUp8Y8vvQ)
 
 #### 指针
 
@@ -331,6 +332,7 @@
 + [C++中标准线程库的使用](https://mp.weixin.qq.com/s/vWDx_wwcvSJ-6zoU6Dm9fw)
 + [如何优化C++线程池的性能](https://mp.weixin.qq.com/s/32z5VyL5L-eVMT3zr4jT4A)
 + [线程池（C++）](https://mp.weixin.qq.com/s/hNAEi4PNFPjhorF_in8pVw)
++ [手撕线程池：C++程序员的能力试金石](https://mp.weixin.qq.com/s/Yqtj87cKqYVZzb73ym7Z0A)
 
 #### 扩展
 
@@ -408,6 +410,7 @@
 ### 基础
 
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
++ [我的C语言之路：4-使用C语言的7个步骤](https://mp.weixin.qq.com/s/w9Cf4L0MlbaHAnd4uMcSRA)
 + [我的C语言之路：1-核心概念与实践指南](https://mp.weixin.qq.com/s/5nNHThtSRcG89XfSk78_8g)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
 + [C语言指针：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/lom53AZI-neuldeDpWRdsg)
@@ -439,6 +442,7 @@
 + [【C语言】C语言的声明分析](https://mp.weixin.qq.com/s/elsSs66ydi0yoUH3d5nD3w)
 + [谈C编程---字符串相关函数](https://mp.weixin.qq.com/s/zVCqybRee7uMYUjpm-_3Ew)
 + [谈C编程---字符串字面量下标访问用法](https://mp.weixin.qq.com/s/NjfwbZZfF_gaeA3BNtw42g)
++ [谈C编程---预处理解析](https://mp.weixin.qq.com/s/mKoWcd9WfjkDgqpUgVKH3w)
 
 ### 高阶
 
@@ -485,6 +489,8 @@
 + [C语言黑暗角落：未定义行为](https://mp.weixin.qq.com/s/sHOLg1VTKMyiGkCfexXdQA)
 + [C语言实现CRC算法](https://mp.weixin.qq.com/s/VtXHF7prwQnxkI4G_Sg7jg)
 + [一个内存泄漏案例引发的思考](https://mp.weixin.qq.com/s/U9Ut0Cd6vucNydX5aW4CPA)
++ [谈C编程---位域符号扩展](https://mp.weixin.qq.com/s/gJjB3O2XCZCLhvcsaiUe8A)
++ [C语言的内存管理](https://mp.weixin.qq.com/s/2nCwQWDeNu8uWhV2nBCqsw)
 
 #### 宏
 
@@ -502,6 +508,7 @@
 + [为什么数组的下标从 0 开始？](https://mp.weixin.qq.com/s/TLcJgjoYcf3xYCMgwLNfzw)
 + [C语言一维数组：从"单身公寓"到"集体宿舍"](https://mp.weixin.qq.com/s/Cx60REV679x_RhuNBxFHUw)
 + [C语言数组基础和高级用法](https://mp.weixin.qq.com/s/7vPNdOnJt1Ah06Tg4EaW1g)
++ [C语言多维数组与指针：行地址怎么“跳”，列地址怎么“跑”？](https://mp.weixin.qq.com/s/di5NNEA-aPw1QNngzgJE-w)
 
 #### 结构体
 
@@ -531,6 +538,7 @@
 + [函数指针c = (*pf)(a, b)](https://mp.weixin.qq.com/s/P5JWkkOpih49HjI75Mnryw)
 + [C语言指针：让你又爱又恨的“指指点点”](https://mp.weixin.qq.com/s/f7VVOa4zD46squLTJXg1LA)
 + [谈C编程---void *一种特殊的指针类型](https://mp.weixin.qq.com/s/mn8Zt7o6CoTF5Rjt4YYk6g)
++ [C 语言指针：从内存地址到底层操控的核心](https://mp.weixin.qq.com/s/YwI-oypZrCqBD5Cj4ZCVvA)
 
 #### 函数
 
@@ -538,6 +546,7 @@
 + [为什么C语言不淘汰 strcpy？从三个函数看程序员的 “自由与风险”](https://mp.weixin.qq.com/s/LmfVtbfrpgke-T8k6fLHOA)
 + [C语言三剑客：普通函数、内联函数与函数式宏定义的终极对决](https://mp.weixin.qq.com/s/rltbsO-xUVH-tZWhRYvEvw)
 + [基于Linker Script与__attribute__((section))实现 C 语言函数调用实战](https://mp.weixin.qq.com/s/v6MB93469fHaWaQs1ctsVQ)
++ [C语言函数参数：数组怎么传？为啥传着传着就秃了？](https://mp.weixin.qq.com/s/MKXR7HPbY-VZ209T2ZCzzA)
 
 #### 库
 

@@ -35,6 +35,7 @@
 + [Kotlin 技术月报 | 2024 年 9 月](https://mp.weixin.qq.com/s/bxD0VZmThSzyITECFtSqCA)
 + [Kotlin 技术月报 | 2025 年 4 月](https://mp.weixin.qq.com/s/XFLTIFRUtr9dkoaxLzckPw)
 + [Kotlin 技术月报 | 2025 年 6 月](https://mp.weixin.qq.com/s/WWy00fMwkOyRI6_kv4pKUw)
++ [Kotlin 技术月报 | 2025 年 7 月](https://mp.weixin.qq.com/s/AaGhumFJf7DedcpyQzLGJQ)
 + [Kotlin K2 模式进入稳定状态 ｜ 官方博客](https://mp.weixin.qq.com/s/J5fqoQ-m4gG5YX5pmHmiPQ)
 + [K2 模式，起飞！| 官方博客](https://mp.weixin.qq.com/s/62s-Qo_MGE8tljhGWCmRQg)
 + [推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 | 官方博客](https://mp.weixin.qq.com/s/T3qtxrwuMPpL5cQKmKJXtw)

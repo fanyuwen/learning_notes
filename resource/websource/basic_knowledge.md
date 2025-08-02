@@ -269,6 +269,7 @@
 + [避免磁盘空间不足：Linux df 与 du 命令的实用技巧](https://mp.weixin.qq.com/s/_c2STeW1hMP5R3wjTe6ymA)
 + [Linux shell 脚本入门到实战详解](https://mp.weixin.qq.com/s/BIdGycqwmtpX9CmlvgQyQA)
 + [50 个日志分析必备Linux 命令 懂一半绝对高手！](https://mp.weixin.qq.com/s/L5fZoxoIr4SLdFU7ouSy7g)
++ [shell 脚本中一个非常经典的问题](https://mp.weixin.qq.com/s/x1E-QX9SNzRBxPaGcMTPhw)
 
 ### 发行版信息
 
@@ -662,7 +663,9 @@
 + [SMTP（简单邮件传输协议）协议学习（Wireshark分析&C语言解析）](https://mp.weixin.qq.com/s/t8hd_vuhqTkct68kbz91jw)
 + [MQTT broker有哪几种类型？](https://mp.weixin.qq.com/s/kNeJQqB8jM4gCAT7IE1TNA)
 + [MQTT物联网IOT通信协议技术全解析(完结篇)](https://mp.weixin.qq.com/s/SAaPmltkTos-ULNP2NgowQ)
++ [硬件协议篇-一文搞懂“UART协议”](https://mp.weixin.qq.com/s/R_E_29lRlQ31tYSUKKaBKg)
 + [一文详解蓝牙通信技术](https://mp.weixin.qq.com/s/wjR25Yz2GT4k6eVtYoaI7g)
++ [串口通讯模块详解](https://mp.weixin.qq.com/s/fzkBlIPrVKxDm2rMR6E1Yw)
 
 ## web
 
@@ -725,3 +728,6 @@
 + [进程间通信（二）信号通信](https://mp.weixin.qq.com/s/ekrXy2yxSbVdOI-SZUaKeA)
 + [大厂面试必问-抢占式任务调度原理](https://mp.weixin.qq.com/s/_mwiwHz_zuTrWbK3Ib05Ug)
 + [循环冗余码CRC](https://mp.weixin.qq.com/s/Z1dSDwjOnsHA8U3k1voK3g)
++ [CRC校验大全：一文掌握所有常用CRC算法](https://mp.weixin.qq.com/s/0BKt1GithOsNrBWnJHLiew)
++ [位运算基础](https://mp.weixin.qq.com/s/5RlCnukSqEGH8ba3F0VcWQ)
++ [为什么负数要以补码的形式存储？](https://mp.weixin.qq.com/s/pxlsKBga7TzuKNY_4F8bqQ)

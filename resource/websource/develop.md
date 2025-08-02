@@ -139,6 +139,7 @@
 + [架构设计内容分享—落地领域驱动设计DDD，核心是思维方式的改变](https://mp.weixin.qq.com/s/-iIHtPfi0yGbHV1gVmHkRQ)
 + [第9章：架构思维与设计能力（下）：领域驱动设计（DDD）与复杂系统治理](https://mp.weixin.qq.com/s/yQqGJzpuPEf1RIMxGTJ8Zg)
 + [DDD领域驱动设计核心原理](https://mp.weixin.qq.com/s/_MwcfEr_rOJ5XqPWvuylAA)
++ [深度剖析DDD核心基石：构建稳健业务系统的组件库实践](https://mp.weixin.qq.com/s/d7aYY0fMaDeiw5jGBfuefw)
 
 ## 微服务
 

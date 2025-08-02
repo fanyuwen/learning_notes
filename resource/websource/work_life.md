@@ -96,6 +96,8 @@
 + [越沉迷技术，离钱越远](https://mp.weixin.qq.com/s/PF_pEmQWw59oJ1RAXXI6rQ)
 + [为什么大部分码农做不了软件架构师？](https://mp.weixin.qq.com/s/p6NuJbL0qOjJ9v_pNDDSpQ)
 + [如何领先99%的开发人员？](https://mp.weixin.qq.com/s/VoqEmtBtv3istil3XBfx0A)
++ [凭什么，程序员要时刻保持危机感？（看完内心平静了很多）](https://mp.weixin.qq.com/s/I-Qdby592yy5uZWzw3IuwA)
++ [程序员的护城河是什么 ？](https://mp.weixin.qq.com/s/AFCp44EPFsox5WqoxBKnpQ)
 
 # 个人成长
 

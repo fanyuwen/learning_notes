@@ -528,6 +528,7 @@
 + [INNODB的锁——为什么RC也有临键锁？](https://mp.weixin.qq.com/s/6soV4ep8hU7f2sMv2Dq3PA)
 + [滴滴面试： mysql 明明加的是 行锁，怎么就变 表锁 了？](https://mp.weixin.qq.com/s/4WRxBTOhFLeLjN4lbdeOmQ)
 + [记一次线上SQL死锁事故：如何避免死锁](https://mp.weixin.qq.com/s/lJVlBJnPCzFENgcVsHhSOQ)
++ [MySQL中的 8 种锁！](https://mp.weixin.qq.com/s/fInC0-ctZi4EDiMkmh6GnA)
 
 #### 事务
 

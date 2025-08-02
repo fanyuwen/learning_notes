@@ -87,6 +87,12 @@
 + [Rust 设计模式：让你的代码架构焕然一新](https://mp.weixin.qq.com/s/vjN01jDG9ePa6ex7WIjdXQ)
 + [「引用 & 借用」](https://mp.weixin.qq.com/s/FWAFhg24WmrF_Nlmo39LSA)
 + [「泛型 & 特征」](https://mp.weixin.qq.com/s/AMLcCbGL3HeZb0wjBbm78Q)
++ [还在用 unwrap()？同事们都偷偷在学这套 Rust 错误处理“组合拳”，再不看就晚了！](https://mp.weixin.qq.com/s/kiGbQXPNCRrIRtQJlnQ7ZQ)
++ [Rust 结构体“解构”方式](https://mp.weixin.qq.com/s/DkwmaQFhDGcD5OjxHRcTuw)
++ [你的Rust异步代码为什么又慢又崩？快来看看这七个“刺客”！](https://mp.weixin.qq.com/s/q4lqge1VX5a9-d88hI2Rkw)
++ [Rust 实战：Axum 与数据库结合实现高效 Web 开发](https://mp.weixin.qq.com/s/q0O_jQvYNZJ4GiZhHmXu2w)
++ [别在 Rust 里找 class 了！它用“乐高”告诉你什么是真正的模块化！](https://mp.weixin.qq.com/s/_4YhThwYAjDKGxN-4-aBdA)
++ [Rust所有权：别再死记硬背了！把智能指针当“玩具”玩，三巨头(Box, Rc, RefCell)让你秒懂内存管理](https://mp.weixin.qq.com/s/RefYCfrJj8LcXlWHzmJ5oA)
 
 # 框架
 

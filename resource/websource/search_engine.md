@@ -33,6 +33,7 @@
 + [Elasticsearch单索引 vs 动态索引：你应该选择哪一个](https://mp.weixin.qq.com/s/Udjntn8eBMCP5B2Kuy13qA)
 + [百亿级ES集群调优：从5秒延迟到200ms的骚操作实录——深夜救火到天亮，我删了系统的测试数据？](https://mp.weixin.qq.com/s/Qw2w8aVXn9ftNeR_vtJ6pw)
 + [什么是分片（Shard）和副本（Replica）？一文彻底搞懂！](https://mp.weixin.qq.com/s/OaMvNcxdtZ05ITS9RB1tdQ)
++ [被吹爆的 RedisJSON，速度真的比 ElasticSearch 强吗？实测揭秘](https://mp.weixin.qq.com/s/g2MtdaDPVUickxIbbie46Q)
 
 ## solr
 

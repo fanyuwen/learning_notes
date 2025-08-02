@@ -456,9 +456,11 @@
 + [MySQL的JOIN算法有哪些？](https://mp.weixin.qq.com/s/3j1wlw3l2RzVqhF1THOhrQ)
 + [MySQL中使用@符号定义用户变量](https://mp.weixin.qq.com/s/PSfXbnBsOYx09rJNgN78Vg)
 + [MySQL表数据删除后文件大小不变原因解析](https://mp.weixin.qq.com/s/zKpRmdeLNsQ0GyKhbSC8Lw)
++ [面试官连环追问：MySQL 的 order by 到底藏着多少玄机？](https://mp.weixin.qq.com/s/BtfIL_ZMVRcpKxzkmp0Wbw)
 
 #### 存储引擎
 
++ [Mysql避坑系列：存储引擎选择](https://mp.weixin.qq.com/s/xgx9wnsd5wNc_IW2zmjDAg)
 + [MySQL进阶--存储引擎](https://mp.weixin.qq.com/s/Zam1WC2fN70cT3uqhH4lQg)
 + [深入理解InnoDB中的页分裂与页合并](https://mp.weixin.qq.com/s/RR1GBoPgteeMRl8vwigLrw)
 + [MySQL的InnoDB存储引擎支持哪几种行格式？](https://mp.weixin.qq.com/s/4hXi3WHj02d8Y8FVGalIrg)
@@ -656,6 +658,7 @@
 + [MySQL索引：从原理到实战的终极指南](https://mp.weixin.qq.com/s/O9kGHB55EITIQ4f9LCJI5w)
 + [MySQL 索引又失效了？这 6 个坑 90% 的人都踩过](https://mp.weixin.qq.com/s/R5qqd2PJniXH2_6We3VicQ)
 + [Mysql索引机制](https://mp.weixin.qq.com/s/B6gZ8J0DslvbAftKw11z4w)
++ [MySQL中IN和NOT IN会走索引吗？](https://mp.weixin.qq.com/s/gMHn_u5hdIKOHd_W8B6txg)
 
 ### PostgreSQL
 

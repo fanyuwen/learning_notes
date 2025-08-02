@@ -24,6 +24,7 @@
 + [内存问题克星：VSCode GDB调试全攻略](https://mp.weixin.qq.com/s/16mCBeCkIaimH4KxouMSTw)
 + [提升 C++ 代码质量的利器：静态分析工具和实操技巧全指南](https://mp.weixin.qq.com/s/hClgQbHzswl1gC1X-KfsHg)
 + [初探 Makefile](https://mp.weixin.qq.com/s/vCNn7HUpQfIHv69v3W13Ng)
++ [gcc 与 g++：有什么区别？](https://mp.weixin.qq.com/s/KZxDeG_iqbTje6DE2n7gGA)
 
 ### cmake
 
@@ -482,6 +483,7 @@
 + [谈C编程---条件赋值语句的实现方式](https://mp.weixin.qq.com/s/c47s1yHBxnvvk9ac4TQOvQ)
 + [谈C编程---default关键字](https://mp.weixin.qq.com/s/thydqYOYzlOElZgXHdUU6g)
 + [谈C编程---字符串](https://mp.weixin.qq.com/s/Ow_wxmLr0YHRMiaS9I9v9w)
++ [谈C编程---循环控制](https://mp.weixin.qq.com/s/PMAurhsHnEpVV83q85aJzQ)
 
 ### 高阶
 
@@ -593,6 +595,7 @@
 + [嵌软面试-基础篇：6- 一个指针指向了常量，然后操作这个指针会怎么样？](https://mp.weixin.qq.com/s/xgKEvMnC_i9Vh35ntjEIhg)
 + [C语言实用干货：一文讲透C语言地址和指针](https://mp.weixin.qq.com/s/7jdUw6uYLevT5U1FInmDaA)
 + [谈C编程---指针](https://mp.weixin.qq.com/s/NNZCZnMKfcIJg78eUt9aXg)
++ [一文搞懂C语言中产生野指针的典型场景及防御性编程策略](https://mp.weixin.qq.com/s/Cv7_kveKLNaAvPpVgSx2iQ)
 
 #### 函数
 
@@ -711,6 +714,7 @@
 + [嵌软面试-基础篇：9-volatile 关键字的作用和原理](https://mp.weixin.qq.com/s/OqabkhzVyToiIXYKtrZN6A)
 + [嵌软面试-基础篇：10-关键字__IO，__I,__O](https://mp.weixin.qq.com/s/mFpD9xpU7ChSiFhTmFaP9w)
 + [嵌入式开发技能：你必须了解的文件系统知识（上）](https://mp.weixin.qq.com/s/LaxoxgDcOTjHDFb9g4ujUA)
++ [嵌入式开发技能：你必须了解的文件系统知识（下）](https://mp.weixin.qq.com/s/NVBJqB0SiSQ-5V29sOXFhw)
 + [从C代码到机器码：嵌入式程序是如何诞生的？](https://mp.weixin.qq.com/s/l1Hkoz9hi6LwejCDTuU8ug)
 
 # ARM

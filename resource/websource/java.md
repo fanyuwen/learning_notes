@@ -90,6 +90,7 @@
 + [四个方面解决Java空指针](https://mp.weixin.qq.com/s/NCtk1RBGvJscgZHlB_hmMw)
 + [Java分支结构——if-else与switch的优化选择策略](https://mp.weixin.qq.com/s/3Fnans41HoKpahpg_TDxQA)
 + [Java中内部类和普通类有什么区别？什么时候用内部类？](https://mp.weixin.qq.com/s/AN59piK6OsCE_NSiOuoGkQ)
++ [static关键字——静态变量、方法与代码块的应用场景](https://mp.weixin.qq.com/s/CTqWqbm6wpUnze0vTCgZvw)
 
 ### 方法/函数
 
@@ -203,6 +204,7 @@
 + [119. Java 接口 - 将接口用作类型](https://mp.weixin.qq.com/s/O-uUOf_QVix7DkCPlwEppQ)
 + [JAVA：创建对象有几种方式的技术指南](https://mp.weixin.qq.com/s/Lh_3GM5wvfAlqwS0VDykEg)
 + [实现Java中接口的应用](https://mp.weixin.qq.com/s/sjgQJprV6Rok-ll1tlbvOA)
++ [JAVA接口多态：神奇宝贝的「技能盲盒」](https://mp.weixin.qq.com/s/0jlqmwmg_qlE9OE6PfhBYA)
 
 ## 新语言特性
 
@@ -463,7 +465,10 @@
 + [Java 树结构转换算法的再次优化：拥抱标准函数式接口](https://mp.weixin.qq.com/s/S2DwcvBday5RI0Ew86Fu_g)
 + [Java开发必备：最实用的工具类库大全](https://mp.weixin.qq.com/s/rDFODwopgd-mDdaSfOkMhg)
 + [Java - Lambda表达式进阶](https://mp.weixin.qq.com/s/HiZPfd9YnYEnaUF2kKAZgQ)
++ [147. Java Lambda 表达式 - 调用 Lambda 表达式](https://mp.weixin.qq.com/s/7HsyGkOD4srDgX5_fG06qw)
 + [Java 大视界 -- Java 实现 MapReduce 编程模型：基础原理与代码实践（3）](https://mp.weixin.qq.com/s/lWHcln2hZQFdmwzkAs7EdA)
++ [第十章：高级特性与性能优化](https://mp.weixin.qq.com/s/kB4HN0ogIrwW9tPTpPtr9Q)
++ [Java Bean内省机制](https://mp.weixin.qq.com/s/7aFhMSAxVMZt7VCBFyVEOg)
 
 ## 代码质量
 
@@ -845,6 +850,7 @@
 + [浅谈线程服务的停止技巧](https://mp.weixin.qq.com/s/RwVrOkZppGB95G-p--eZtg)
 + [java线程的终止](https://mp.weixin.qq.com/s/KY24A_u_w9ZwP5uWIx3ajQ)
 + [面试篇-学习Java多线程编程必备：深入理解volatile与synchronized](https://mp.weixin.qq.com/s/n80YVaWSLxdF1ESbb4Jwug)
++ [Java多线程编程：探究不同的线程间数据通信方式](https://mp.weixin.qq.com/s/bU6dLYLMm0yxGybrSU_dVg)
 
 #### CAS
 
@@ -912,6 +918,8 @@
 + [搞懂线程池源码执行全过程， ThreadPoolExecutor一步步拆解，小白也能懂！](https://mp.weixin.qq.com/s/r0udUVRDh5LPw7PQCav5lw)
 + [线程池为什么异常日志没有了？这6大误区必须搞懂！](https://mp.weixin.qq.com/s/hceh41N5SwLf445mdkkfDg)
 + [线程池参数到底怎么配？一文吃透实战调优 + Hippo4j 动态设置](https://mp.weixin.qq.com/s/EQfuqoQLp1puLKAGSfFkFw)
++ [Java线程池技术在餐厅运营模式中的技术映射](https://mp.weixin.qq.com/s/WzCEDBBzKzT3UxoGeUWkTg)
++ [线程池的工作原理及其在业务中的实践](https://mp.weixin.qq.com/s/ct82CAwIVq94irvYcdmErQ)
 
 #### 锁
 
@@ -1093,6 +1101,7 @@
 + [JVM关机钩子ShutdownHook：如何避免程序“突然死亡”？](https://mp.weixin.qq.com/s/pnjiwx6nkGjU5qqv9pvfuw)
 + [JVM详解](https://mp.weixin.qq.com/s/kphFn-xofXFS7Ru6-UF2KQ)
 + [class文件结构解析](https://mp.weixin.qq.com/s/l59TZCwGvh-jtmfTmqhFiA)
++ [惊！掌握这些 JVM 参数调优技巧，小红书面试稳了](https://mp.weixin.qq.com/s/1nF-Ix8I8jLranX62x9BjA)
 
 ### 命令
 
@@ -1774,6 +1783,10 @@
 
 + [并发框架Akka介绍](https://mp.weixin.qq.com/s/f-U2z-53M1s5znPptCO3jg)
 
+## apache lib
+
++ [Apache Commons：被低估的 Java 开发 “瑞士军刀”，90% 的人只用了 10% 的功能](https://mp.weixin.qq.com/s/HIgaJJZssfMsI3uajY0YEA)
+
 ## apollo
 
 + [Apollo9.0 包管理安装方式介绍](https://mp.weixin.qq.com/s/C7lhhfHUVoCu9EL7SrqQ6Q)
@@ -1848,6 +1861,7 @@
 + [Dubbo原理—4.注册中心的实现(缓存+重试)](https://mp.weixin.qq.com/s/0OIRLo2wSOa_y5WaGedGwA)
 + [Dubbo原理—7.服务通信之Exchange交换层](https://mp.weixin.qq.com/s/WRw_o7XIku0859SGmpUg2A)
 + [Dubbo原理—9.RPC核心之Invoker接口](https://mp.weixin.qq.com/s/cfdwpRs7IyOx0r_NsDlrrw)
++ [Dubbo原理—10.RPC核心之Proxy代理](https://mp.weixin.qq.com/s/m73wBK9haj1PutJVkf01dA)
 + [Dubbo原理—13.集群之负载均衡和容错](https://mp.weixin.qq.com/s/A8UrWuw2TyBNkyhkXy5TNQ)
 
 ## eureka
@@ -1877,6 +1891,7 @@
 ## jdbc
 
 + [面试官：JDBC 是如何打破双亲委派模型的？](https://mp.weixin.qq.com/s/x4pM2sZSKice0FA2z4NTog)
++ [JDBC连接数据库流程详解](https://mp.weixin.qq.com/s/Ok6Urb8-JBiCzaL664okmw)
 
 ## hutool
 
@@ -3084,6 +3099,8 @@
 + [面试官：SpringBoot如何控制yml有配置时才注册bean](https://mp.weixin.qq.com/s/donbCX5dQsEMz2VQcNU0SA)
 + [15个会让 Spring Boot 应用在生产环境中崩溃的错误](https://mp.weixin.qq.com/s/s1RD89XwWMe7I64Cxdy2Zw)
 + [性能翻倍不是梦！手把手带你拆解 Spring Boot 中的 Deflate 压缩实现](https://mp.weixin.qq.com/s/3qTomjz3iYWAtGyJPd99rg)
++ [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)
++ [EnvironmentPostProcessor：启动前环境定制的利器](https://mp.weixin.qq.com/s/0dLhnUer7X5t1oO90-goRA)
 
 #### 版本特性
 
@@ -3757,6 +3774,7 @@
 + [SpringBoot定时任务：解锁@Scheduled的终极实践](https://mp.weixin.qq.com/s/8vWoGVF6l8Qfh8oVNwBkOQ)
 + [Spring Boot 动态线程池轻量级技术实现方案](https://mp.weixin.qq.com/s/ttUrm0WzKNThcJ05BTABRg)
 + [Spring Boot 轻量级分布式定时任务技术实现方案](https://mp.weixin.qq.com/s/mIFCfk4bQDU_Xl_bPtIFsg)
++ [Springboot编程式任务调度](https://mp.weixin.qq.com/s/TUv6aUe5Dg7b_E_xqMtcUw)
 
 ##### Disruptor
 
@@ -3884,6 +3902,7 @@
 + [Spring Boot 实现密码安全存储的5种方式](https://mp.weixin.qq.com/s/RmonYhg3CXuPwv_sIX3kxA)
 + [Spring Boot 监控：AOP vs Filter vs Java Agent，哪种方案？](https://mp.weixin.qq.com/s/c5JHJI8vGOSGpTMo6n7G5A)
 + [SpringBoot如何进行流量监控，无监控的应用运行着心理不踏实](https://mp.weixin.qq.com/s/Q31MdWZhaxcSXuVPK4K0_Q)
++ [SpringBoot安全三板斧：整合JWT实现无状态认证](https://mp.weixin.qq.com/s/mQ4sr6uMywVPTzDKl0PZ9g)
 
 #### 设计模式
 
@@ -4208,6 +4227,7 @@
 + [死磕xxl-job（一）](https://mp.weixin.qq.com/s/in1OE5VjVSKm4bD8ulAV1g)
 + [死磕xxl-job（二）](https://mp.weixin.qq.com/s/Dx6-8h4Md0DO4W4Gw9UVVg)
 + [魔改xxl-job，彻底告别手动配置任务！](https://mp.weixin.qq.com/s/t7XWN2f-8mtDxZhbVhXjTw)
++ [XXL-Job：分布式定时任务救星(一)](https://mp.weixin.qq.com/s/PkDsg5OAncjMtieTmn98oA)
 
 ## zuul
 
@@ -4393,6 +4413,7 @@
 + [动态SQL解析难题：如何用Java代码“透视”复杂SQL的表、字段与条件？](https://mp.weixin.qq.com/s/1dv9R5ZTK85lEvXpRloQNg)
 + [【技术细节】TransmittableThreadLocal使用揭秘](https://mp.weixin.qq.com/s/skDU_ucScbr6az5lf8RWvw)
 + [【工具】Jar Analyzer：实战Jar包审计利器](https://mp.weixin.qq.com/s/HYViGNyEpyUpp0Z7hZqhrw)
++ [分享一个IP解析工具类](https://mp.weixin.qq.com/s/DpZfRbpUu-Fnrs6C901v8w)
 
 # 其它环境
 

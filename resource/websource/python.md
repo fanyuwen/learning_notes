@@ -165,6 +165,7 @@
 + [Python学习必备：20个高使用率函数讲解](https://mp.weixin.qq.com/s/oTzooHBv2d4Q5yBhPCV8pQ)
 + [快速学习Python最常用的30个内置函数](https://mp.weixin.qq.com/s/UOcuv0Wz8_8gecxNwvDH3w)
 + [苦练Python第33天：斜杠 / 与星号 * 的魔法——彻底搞懂函数参数顺序](https://mp.weixin.qq.com/s/-3e4RelxxZozqBa1R6qf5Q)
++ [Python的dir()竟在深夜偷偷篡改对象？害我凌晨2点起来修bug](https://mp.weixin.qq.com/s/gTszrWOC-EjfQPDfsPF1zw)
 
 ### 面向对象
 
@@ -210,6 +211,7 @@
 + [Python 类和对象简介](https://mp.weixin.qq.com/s/d4zv0LxjvrtJpaWTpZOLsg)
 + [10.Python面向对象编程（OOP）实战指南](https://mp.weixin.qq.com/s/aR1_DysuEN19Z_P8BbiCLg)
 + [python高阶：4、类和对象](https://mp.weixin.qq.com/s/-L-Fvx2xXWBj7SDQ-YpchQ)
++ [为什么 self 与 super() 成了 Python 的永恒痛点？](https://mp.weixin.qq.com/s/F3Z3Plm_ZFH8Vk-n6I1d3A)
 
 ### 核心库/模块
 
@@ -320,6 +322,7 @@
 + [Python内置模块：tempfile生成临时文件和目录操作详解](https://mp.weixin.qq.com/s/TBTFrAGOvHPpvLPPu5n1bA)
 + [Python内置模块：datetime基本日期和时间类型编程详解](https://mp.weixin.qq.com/s/i54HkhiY7MBFprqya69ShQ)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
++ [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 
 ### 异步/多线程
 
@@ -348,6 +351,8 @@
 + [Python 多进程编程指南](https://mp.weixin.qq.com/s/0_kwbKhEUTB7w3GU-NtpJQ)
 + [Python并发数据结构实现原理](https://mp.weixin.qq.com/s/IAhRirGQMWgXs8oxuYC07w)
 + [async/await竟是性能倒退？Python协程真相！](https://mp.weixin.qq.com/s/cCquizpg--u1VpLFgmNpcg)
++ [Python结构化并发：asyncio.TaskGroup实战](https://mp.weixin.qq.com/s/XXu7QNxDm4RUkb9HwcuFgw)
++ [30天学会Python编程：15.Python并发编程](https://mp.weixin.qq.com/s/cGmE4AovbnmetMgqVhjchg)
 
 ### 虚拟环境
 
@@ -709,6 +714,8 @@
 + [别再滥用Python单例模式了](https://mp.weixin.qq.com/s/GSCxUCdJfZmn4FlHL3wJ5g)
 + [Python数据验证cerberus：JSON Schema验证与数据完整性检查框架](https://mp.weixin.qq.com/s/8c_7fXoZiokf6LwwceWvsA)
 + [30天学会Python编程：29.Python单元测试](https://mp.weixin.qq.com/s/Arj9v1BjsSH0uWzYji0uvA)
++ [Python第46期-测试类，先来个例子](https://mp.weixin.qq.com/s/trsvGfCpa2rSsEU9hOJqpQ)
++ [Python编程如何轻松操控操作系统？这10个命令让你事半功倍！](https://mp.weixin.qq.com/s/N_Owz14RFm8m362JoDocCg)
 
 ## 新特性
 
@@ -737,6 +744,7 @@
 + [每日一模块：Parsel](https://mp.weixin.qq.com/s/kOYNdba7hpe6tjkS8_OUkg)
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
++ [picologging，一个高并发的 python 库！](https://mp.weixin.qq.com/s/ZGVY_5804Di9YP23Nss2Zw)
 + [RQ，一个神奇的 Python 库](https://mp.weixin.qq.com/s/Is62FLF8KApZeYnPyV8ckw)
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
@@ -1142,3 +1150,4 @@
 + [这行python代码长得确实够怪，但请细看](https://mp.weixin.qq.com/s/jFVRkY-KKg4H1HZeJ0_QOQ)
 + [Tkinter教程31：各种对话框示例演示](https://mp.weixin.qq.com/s/BIYT6zxrVpqF8obubMnV1w)
 + [Python和C语言哪个更容易学，为什么C语言比较难](https://mp.weixin.qq.com/s/0WsgUjcngICLMLU1Hph09Q)
++ [明明Python那么多人用，为什么总有人喷Python？](https://mp.weixin.qq.com/s/_-V5CMHk09LTD7B2WF0dtw)

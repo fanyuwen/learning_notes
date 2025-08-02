@@ -433,6 +433,7 @@
 + [如何秒级实现接口间“幂等”补偿：一款轻量级仿幂等数据校正处理辅助工具](https://mp.weixin.qq.com/s/EYOomxXRFoXJ7kk6BQoaxw)
 + [防止重复提交的解决方案—防重Token](https://mp.weixin.qq.com/s/GxzMjxOSlQWs-HWgIyhpfw)
 + [接口幂等性设计：用Redis避免接口重复请求](https://mp.weixin.qq.com/s/88xjFjJ_iMAVoL6v_teg-Q)
++ [幂等性设计--构建可靠分布式系统的核心原则](https://mp.weixin.qq.com/s/ztiXt7YJNHrlCVnz2OkXRg)
 
 ### 负载&限流
 
@@ -467,6 +468,7 @@
 + [一文掌握常见的限流算法：计数器、漏桶、令牌桶等](https://mp.weixin.qq.com/s/uP5WT7NHXBBHWyn_PrEv_Q)
 + [这几种面试必问负载均衡算法能手撕几种？](https://my.oschina.net/workit/blog/18684798)
 + [熔断策略设置错了，系统分分钟崩溃？超时时间+错误率阈值实战指南！](https://mp.weixin.qq.com/s/BzovBXXGpjfMuRps2dGwZQ)
++ [高并发解决方案（缓存， 限流， 降级）](https://mp.weixin.qq.com/s/Z4FXW0TROa5fXEmOMf55FA)
 
 ### 大文件IO
 

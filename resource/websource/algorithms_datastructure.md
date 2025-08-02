@@ -190,6 +190,7 @@
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
 + [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
-+ [剑指offer-8、跳台阶](https://mp.weixin.qq.com/s/JZU8w5Zp42JcWnMcR7P6Yg)
 + [LeetCode热题100之滑动窗口](https://mp.weixin.qq.com/s/JpyGdk21igFCf28ddHtHEA)
++ [剑指offer-8、跳台阶](https://mp.weixin.qq.com/s/JZU8w5Zp42JcWnMcR7P6Yg)
++ [剑指offer-13、调整数组顺序使奇数位于偶数前面（一）](https://mp.weixin.qq.com/s/a7n5LLuEoSvoVpj_YEGIcA)
 + [剑指offer-16、合并两个有序链表](https://mp.weixin.qq.com/s/UoPMafS8WzXghM09AFbz-g)

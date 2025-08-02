@@ -278,6 +278,8 @@
 + [50 个日志分析必备Linux 命令 懂一半绝对高手！](https://mp.weixin.qq.com/s/L5fZoxoIr4SLdFU7ouSy7g)
 + [shell 脚本中一个非常经典的问题](https://mp.weixin.qq.com/s/x1E-QX9SNzRBxPaGcMTPhw)
 + [15个典型 tar 命令用法详解](https://mp.weixin.qq.com/s/JcOb82k5clmxK0qTQX3ShQ)
++ [统计文件大小的几个常用bash命令组合](https://mp.weixin.qq.com/s/GytyMCziQWevC9IXdDGg3A)
++ [十分钟实用教程 | "bash -e"的使用与shell脚本常见使用技巧](https://mp.weixin.qq.com/s/b41t4m-9logE-bbhAqu1fA)
 
 ### 发行版信息
 
@@ -357,6 +359,8 @@
 + [CPU的底线：为什么只有操作系统才能执行这些操作？](https://mp.weixin.qq.com/s/p8d9ul_XrGoiXAdeahhXjw)
 + [内存管理与垃圾收集-01：CPU如何访问内存？](https://mp.weixin.qq.com/s/0t1O6q557VGrBn2RF6T6dw)
 + [第七章：CPU与GPU计算引擎实现](https://mp.weixin.qq.com/s/ASJe355Qhelh75fdy5sQpQ)
++ [CPU流水线技术原理](https://mp.weixin.qq.com/s/pefM8BeiGuvKQn7KjH4tTg)
++ [CPU指令执行过程（三）：代码的执行](https://mp.weixin.qq.com/s/DsA761jQZAQiEvMmy0tFTQ)
 
 ### 并发
 
@@ -479,6 +483,7 @@
 + [路由器工作原理](https://mp.weixin.qq.com/s/AjOBTPlVZmdxX2Un25Rfqg)
 + [抓包就靠 tcpdump？别只会 -i eth0！这些技巧才是核心操作](https://mp.weixin.qq.com/s/OrKOK6TI1m-ClQ51b7_mBg)
 + [交换机工作原理](https://mp.weixin.qq.com/s/cRPXn6_hZ4cNE_4uScv5Zw)
++ [面试题-学习网络协议必备：七层模型与协议之间的映射关系](https://mp.weixin.qq.com/s/XS_BevhSV9HT1cyDIN5kuA)
 
 ### DNS
 

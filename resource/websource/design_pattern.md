@@ -179,6 +179,7 @@
 + [聊一聊：设计模式——解释器模式](https://mp.weixin.qq.com/s/XhQnS4ciJhFDRnm3sMma6Q)
 + [实战设计模式之解释器模式](https://mp.weixin.qq.com/s/_Iuz8nvw4TRPdi7KouyeSw)
 + [一文通透解释器模式：程序员必学的“语言解析秘籍”](https://mp.weixin.qq.com/s/govPtd09TEv81VXAat_IVQ)
++ [解释器设计模式](https://mp.weixin.qq.com/s/eji3ZfWkr9uD6bgI10fhpA)
 
 ## 迭代器模式
 

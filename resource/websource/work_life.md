@@ -101,6 +101,7 @@
 + [35岁大数据中年程序员：未来的不确定性](https://mp.weixin.qq.com/s/IFILE9XzKaC4CQ8RfMVSlQ)
 + [程序员为什么不能一次性写好，需要一直改Bug？](https://mp.weixin.qq.com/s/yVtcW2htvrVsu-Qfk7Lrjw)
 + [程序员为什么工资那么高却不努力工作？](https://mp.weixin.qq.com/s/mwzk9ktWjo0J-u7xbYiqVA)
++ [那些很卷的程序员卷到最后获得了什么？](https://mp.weixin.qq.com/s/30Prk_4pYZCVOnWUSwPTqw)
 
 # 个人成长
 

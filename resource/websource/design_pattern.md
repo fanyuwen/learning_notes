@@ -67,6 +67,7 @@
 + [单例模式：饿汉式与懒汉式](https://mp.weixin.qq.com/s/lC2N9hn6HY7PiFESDNo8HA)
 + [单例模式中的隐藏陷阱：你真的了解单例吗？](https://mp.weixin.qq.com/s/1Efq_eS-KNxXJqAneYkImQ)
 + [设计模式之单例模式](https://mp.weixin.qq.com/s/OoJ8z4rT-efWJw5eKWWNxQ)
++ [单例模式学习笔记](https://mp.weixin.qq.com/s/bUwVOF66B7tAZTvz3AEzWw)
 
 ## 模板方法模式
 

@@ -2,6 +2,7 @@
 
 + [聊一聊开发中的C语言和C++语言用法](https://mp.weixin.qq.com/s/OboQQpk7lrhHbDO17Tmw6A)
 + [C/C++ 程序编译过程的来龙去脉](https://mp.weixin.qq.com/s/JCXGBjz4WHA-ykAzoElkSw)
++ [如何在C/C++编译的过程中保留预处理文件](https://mp.weixin.qq.com/s/2DorGzhPJPex9n8eZ0_1CQ)
 
 ## 工具
 
@@ -83,6 +84,8 @@
 + [c++编程初级第五讲：回文数](https://mp.weixin.qq.com/s/ClCIa09snGWg7wIPkDF96g)
 + [C++返回值 vs 输出参数](https://mp.weixin.qq.com/s/WypR3XOLP7tG1bBM0FYMpg)
 + [C++信奥之路，深耕基础，方能远行——洛谷官方题单之字符串（3）](https://mp.weixin.qq.com/s/P9o37_Pul42gqC1Xd6dG2w)
++ [C++中的const：给你的代码上把锁，再也不怕手抖改错值！](https://mp.weixin.qq.com/s/zSk0nEZDLFNHNw9jPp6bqg)
++ [c++命名空间](https://mp.weixin.qq.com/s/9CpTIvpZQ62hQtznONQmGQ)
 
 ### 高阶
 
@@ -198,6 +201,8 @@
 + [C++ 返回值优化 (RVO) 深入解析](https://mp.weixin.qq.com/s/9tGovxCRS2buW3461Vli2Q)
 + [C++ 实现环形缓冲区](https://mp.weixin.qq.com/s/OvT0HjPeEiq8Ny6yggmG_A)
 + [谈C编程---C语言中特殊符号](https://mp.weixin.qq.com/s/kaJuIjghgG7bMt0GPb1wKA)
++ [c++ 字符串池化](https://mp.weixin.qq.com/s/rfrjVb0jHPAhyIiRs2K5Ew)
++ [C++移动语义深入理解2](https://mp.weixin.qq.com/s/X1X8-froTqvsE5V1_UvFwQ)
 
 #### 指针
 
@@ -259,6 +264,7 @@
 + [C++ cstring 库解析：C 风格字符串函数](https://mp.weixin.qq.com/s/MuwvfTLTck7ST1V4tVGW0g)
 + [C++ STL容器详解：掌握vector、map、set的高效使用技巧](https://mp.weixin.qq.com/s/uRkFZnj7ZZm3RnnJaLEvXw)
 + [C++ STL算法库：全面解析与应用](https://mp.weixin.qq.com/s/1pytTwxeoGnuFwT8IMdjWw)
++ [c++文件和流](https://mp.weixin.qq.com/s/v7lfhJZ3dbqq3EA6-f4rMQ)
 
 #### 新特性
 
@@ -317,9 +323,16 @@
 + [C++中的静态成员](https://mp.weixin.qq.com/s/LWSybqAWBkpHlTWbp_RckA)
 + [C++中的多态（ Polymorphism）](https://mp.weixin.qq.com/s/hY8MtGdgKSbrFIogArZKeg)
 + [还在无脑用virtual？资深C++专家带你探索4种高性能多态替代方案](https://mp.weixin.qq.com/s/8ueyFVt59YDUcjHtxK7lBg)
++ [C++函数重载：一个函数名，多种姿势干活](https://mp.weixin.qq.com/s/js1ELemkpooKY2vAsxxTDA)
++ [c++面对对象的基石--类](https://mp.weixin.qq.com/s/rwBImx1VHWNrm8QlnMWJSg)
+
+##### 泛型
+
++ [C++模板：告别重复造轮子，拥抱泛型编程](https://mp.weixin.qq.com/s/u4GI27tLjo7waFiBRoUF2w)
 
 ##### 设计模式
 
++ [C++创造型设计模式汇总](https://mp.weixin.qq.com/s/HLMygkVChVpNOGdBKSqn9Q)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
@@ -444,6 +457,8 @@
 + [我的C语言之路：4-使用C语言的7个步骤](https://mp.weixin.qq.com/s/w9Cf4L0MlbaHAnd4uMcSRA)
 + [我的C语言之路：1-核心概念与实践指南](https://mp.weixin.qq.com/s/5nNHThtSRcG89XfSk78_8g)
 + [C语言每日一练01](https://mp.weixin.qq.com/s/PcvYLY134vZTVoIDH3Gjbw)
++ [谈C编程---static关键字](https://mp.weixin.qq.com/s/qPFBUGpxnv8kXLH6o80mfw)
++ [C语言static关键字用法](https://mp.weixin.qq.com/s/CL-8PsUsCKfxj-KQIkQNAg)
 + [C语言指针：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/lom53AZI-neuldeDpWRdsg)
 + [C语言要点必背，分号和注释，新手小白收藏了](https://mp.weixin.qq.com/s/RjIK4JqUQYD4l9_RS14Htg)
 + [字、字长、寻址、字节顺序](https://mp.weixin.qq.com/s/cSOzD2hOlLS8hzhYVQ9FIQ)
@@ -542,6 +557,7 @@
 + [谈C编程---memcpy和strcpy](https://mp.weixin.qq.com/s/wHQS7UN9NHq6AwvAblaLgQ)
 + [3个精妙数学算法与精炼的C语言实现](https://mp.weixin.qq.com/s/8FnIk2PUJYo6GJZ5raFfLg)
 + [华为嵌入式开发规范：C语言这10条禁忌千万别碰！](https://mp.weixin.qq.com/s/5q6119i9CFOcZyqFCRqFuw)
++ [链表编码的六重修炼：从指针迷途到禅意境界](https://mp.weixin.qq.com/s/v_k56H77V_nS0i82Jw0Zfw)
 
 #### 宏
 
@@ -607,6 +623,7 @@
 + [C语言的'快充'技巧:内联函数](https://mp.weixin.qq.com/s/LZ1Kv-9YwTW15ck3JqBYuA)
 + [谈C编程---数组作为函数参数](https://mp.weixin.qq.com/s/p9j4OI0rhMMdcjn_O0muuw)
 + [谈C语言---return的用法](https://mp.weixin.qq.com/s/1Sulzqxi285AxtxzPvtsIg)
++ [C语言中的" 回调地狱 "](https://mp.weixin.qq.com/s/MNTNzerlMVes_cuDhHHYkw)
 
 #### 库
 
@@ -635,6 +652,7 @@
 + [用 C 语言编写的嵌入式软件，需要强调高内聚低耦合吗？](https://mp.weixin.qq.com/s/pKGD2dz5FYhCbBy3JaIFqw)
 + [设计模式:嵌入式C语言实现探索_10.模板方法模式](https://mp.weixin.qq.com/s/orWLs392YO5OVJi4wvDaXg)
 + [谈C编程---基于STM32的GPIO操作 ##应用](https://mp.weixin.qq.com/s/261Al6WAC3mFxzCwAkdL3A)
++ [谈C编程---stm32精准延时](https://mp.weixin.qq.com/s/ThaIynDalnkFZq9vR9dSBA)
 
 #### 三方库
 
@@ -716,6 +734,7 @@
 + [嵌入式开发技能：你必须了解的文件系统知识（上）](https://mp.weixin.qq.com/s/LaxoxgDcOTjHDFb9g4ujUA)
 + [嵌入式开发技能：你必须了解的文件系统知识（下）](https://mp.weixin.qq.com/s/NVBJqB0SiSQ-5V29sOXFhw)
 + [从C代码到机器码：嵌入式程序是如何诞生的？](https://mp.weixin.qq.com/s/l1Hkoz9hi6LwejCDTuU8ug)
++ [嵌软面试-基础篇：11-#define宏与const修饰的常量（变量）区别](https://mp.weixin.qq.com/s/hWDSVUX0TSW6jakn7kCBfA)
 
 # ARM
 

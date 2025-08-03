@@ -95,6 +95,7 @@
 + [Python内置类型详解](https://mp.weixin.qq.com/s/MAgUYXnxerYsSj9LNFmwBg)
 + [Python的Any类型详解](https://mp.weixin.qq.com/s/3AZbt2JfTr1vobTYm-1yeg)
 + [提升Python代码质量的Bound类型约束方法](https://mp.weixin.qq.com/s/hM5e-WmA97pAhvBSeROyeg)
++ [Python笔记06 循环语句while循环、for循环、循环控制语句break与continue](https://mp.weixin.qq.com/s/ri_5QnrGBXiCeHx6Kcm_tg)
 
 ### 函数/方法
 
@@ -219,6 +220,7 @@
 + [Python字符串处理常用的30种操作](https://mp.weixin.qq.com/s/uCk2XJKZ0zsaxVpRi0lNzQ)
 + [Python 字符串格式化输出](https://mp.weixin.qq.com/s/-piYtizGRJAXNNEjlfxrVQ)
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
++ [Python笔记07 字符串的基本操作](https://mp.weixin.qq.com/s/gWGaIuusRW3I6TILGcy94Q)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
 + [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
 + [Python基础：Python的字符串操作与格式化](https://mp.weixin.qq.com/s/4enr5tjPxwCpUgw4yAWq_g)
@@ -321,6 +323,8 @@
 + [Python内置模块：copy ---浅层及深层拷贝操作详解](https://mp.weixin.qq.com/s/PlsYXeCbhkTbYN0Zj3Lpng)
 + [Python内置模块：tempfile生成临时文件和目录操作详解](https://mp.weixin.qq.com/s/TBTFrAGOvHPpvLPPu5n1bA)
 + [Python内置模块：datetime基本日期和时间类型编程详解](https://mp.weixin.qq.com/s/i54HkhiY7MBFprqya69ShQ)
++ [Python内置模块：calendar---通用日历相关函数详解](https://mp.weixin.qq.com/s/y_wlgVsn7OxIBVmrlwGlZQ)
++ [Python内置模块：base64使用详解](https://mp.weixin.qq.com/s/Fs-bk12TfN5CQUbrLqkiHQ)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 
@@ -716,6 +720,7 @@
 + [30天学会Python编程：29.Python单元测试](https://mp.weixin.qq.com/s/Arj9v1BjsSH0uWzYji0uvA)
 + [Python第46期-测试类，先来个例子](https://mp.weixin.qq.com/s/trsvGfCpa2rSsEU9hOJqpQ)
 + [Python编程如何轻松操控操作系统？这10个命令让你事半功倍！](https://mp.weixin.qq.com/s/N_Owz14RFm8m362JoDocCg)
++ [懂了，if __name__ = = "__main__":](https://mp.weixin.qq.com/s/cRK6p5sZ0lmV0tto79uyow)
 
 ## 新特性
 

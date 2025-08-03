@@ -773,6 +773,7 @@
 + [高质量编写非功能性代码的一些实践](https://my.oschina.net/u/4662964/blog/17531289)
 + [代码好坏的终极标准：你真的懂了吗？](https://mp.weixin.qq.com/s/4nEfSh_J5JC4FSt82VyiNA)
 + [UML基本概念：构造块、公共机制与规则](https://mp.weixin.qq.com/s/DP5ZwPLXRoGbU4rxNjsmmg)
++ [面向对象的本质到底是什么？为什么要面向对象？相比于面向过程，它有什么进步意义？](https://mp.weixin.qq.com/s/_wYESVl9VkHrXrC7wJ4C3A)
 
 ## 接口相关
 
@@ -847,6 +848,7 @@
 
 + [并发和并行区别详解(图文全面总结)](https://mp.weixin.qq.com/s/8rCa2AElqJNX-XlLRvyOeQ)
 + [高并发系统的艺术：如何在流量洪峰中游刃有余](https://my.oschina.net/u/4090830/blog/18682939)
++ [并发编程的 “隐形陷阱”：同步问题的本质与解法](https://mp.weixin.qq.com/s/1uZBiwDKArz2MHAHoStqVQ)
 
 ## 开发流程
 

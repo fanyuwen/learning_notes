@@ -93,6 +93,8 @@
 + [Rust 实战：Axum 与数据库结合实现高效 Web 开发](https://mp.weixin.qq.com/s/q0O_jQvYNZJ4GiZhHmXu2w)
 + [别在 Rust 里找 class 了！它用“乐高”告诉你什么是真正的模块化！](https://mp.weixin.qq.com/s/_4YhThwYAjDKGxN-4-aBdA)
 + [Rust所有权：别再死记硬背了！把智能指针当“玩具”玩，三巨头(Box, Rc, RefCell)让你秒懂内存管理](https://mp.weixin.qq.com/s/RefYCfrJj8LcXlWHzmJ5oA)
++ [还在死磕 Rust 生命周期？搞懂 'a' 的真正含义，悄悄卷赢所有同事](https://mp.weixin.qq.com/s/OHqNKCUbpB7AlgZ94lL0Dg)
++ [Rust 中 Self 引发的对象安全迷局：方法返回类型的禁忌](https://mp.weixin.qq.com/s/UhBMbAsnWwvDNSiN3CYKIg)
 
 # 框架
 
@@ -155,3 +157,5 @@
 + [Rust为何备受青睐？](https://mp.weixin.qq.com/s/O5ZKYCOoix5dMBrKZxz9mA)
 + [公司Rust团队全员被裁，只因把服务写得「太稳定」：“项目0故障、0报警，那养着3个Rust工程师没用啊”](https://mp.weixin.qq.com/s/wnufG6F_CptTqCNLqQcfBA)
 + [从 Rust 模块化探索到 DLB 2.0 实践｜得物技术](https://my.oschina.net/u/5783135/blog/18684148)
++ [Rust 高级编程技术](https://mp.weixin.qq.com/s/y7QbtgspZiZQJ0IICYBF8w)
++ [Rust：资深开发者梦想语言？](https://mp.weixin.qq.com/s/rGN7GGX9mWSZmauX7yN5jw)

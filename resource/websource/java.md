@@ -358,6 +358,7 @@
 + [别再 new 子类了！用装饰器模式，给你的代码“加Buff”](https://mp.weixin.qq.com/s/tv2tyH732umDSypvwC3FDg)
 + [为什么资深Java开发都爱用策略模式？从踩坑到真香的实战分享](https://mp.weixin.qq.com/s/RomUe4z9UTHWnSvdPp3xcA)
 + [揭秘观察者模式：Java异步通信的优雅解耦之道](https://mp.weixin.qq.com/s/EscHn8a-bwBaYhAkVIlaCg)
++ [Java设计模式详解：让代码优雅如诗的秘密武器](https://mp.weixin.qq.com/s/LtSutdH-QELKJW1DCREhSA)
 + [Java策略模式在实际项目中的应用](https://mp.weixin.qq.com/s/EQMNQHNhu8VhucHczxiAjg)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
@@ -469,6 +470,7 @@
 + [Java 大视界 -- Java 实现 MapReduce 编程模型：基础原理与代码实践（3）](https://mp.weixin.qq.com/s/lWHcln2hZQFdmwzkAs7EdA)
 + [第十章：高级特性与性能优化](https://mp.weixin.qq.com/s/kB4HN0ogIrwW9tPTpPtr9Q)
 + [Java Bean内省机制](https://mp.weixin.qq.com/s/7aFhMSAxVMZt7VCBFyVEOg)
++ [Java开发效率低？学会Lambda表达式，代码量直接减半！](https://mp.weixin.qq.com/s/bENxsdI-Li4C-fxH0ffnxg)
 
 ## 代码质量
 
@@ -556,6 +558,7 @@
 + [Java开发者必看！Arrays.asList()的5个致命陷阱，第3个90%人踩过](https://mp.weixin.qq.com/s/bd1dKgcDnwOQsMLQ59l2vg)
 + [CTO：谁在项目中使用Arrays.asList、ArrayList.subList，就立马滚蛋！](https://mp.weixin.qq.com/s/KGTVkZtXh3pW-L1za2h5pA)
 + [还在用 new 创建对象？《Effective Java》这 3 个技巧让代码瞬间变优雅](https://mp.weixin.qq.com/s/pm-guPMifWzE9zoqGhcI2w)
++ [类设计没做好？《Effective Java》这 5 条原则让代码少踩坑](https://mp.weixin.qq.com/s/Bfp8qDkof2jt9inobPFszA)
 
 # 底层
 
@@ -851,6 +854,7 @@
 + [java线程的终止](https://mp.weixin.qq.com/s/KY24A_u_w9ZwP5uWIx3ajQ)
 + [面试篇-学习Java多线程编程必备：深入理解volatile与synchronized](https://mp.weixin.qq.com/s/n80YVaWSLxdF1ESbb4Jwug)
 + [Java多线程编程：探究不同的线程间数据通信方式](https://mp.weixin.qq.com/s/bU6dLYLMm0yxGybrSU_dVg)
++ [04-JAVA线程通信](https://mp.weixin.qq.com/s/bvu7j5bmgojlf5uO6ILAHA)
 
 #### CAS
 
@@ -1779,7 +1783,7 @@
 
 # 第三方库
 
-## AKKA
+## akka
 
 + [并发框架Akka介绍](https://mp.weixin.qq.com/s/f-U2z-53M1s5znPptCO3jg)
 
@@ -1793,7 +1797,7 @@
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/lEfTqimr3NC1dTXXt_T_Ow)
 + [决定弃用 Nacos 了！](https://mp.weixin.qq.com/s/X_9xRXBV2Y7gqBTem4lq3Q)
 
-## Arthas
+## arthas
 
 + [Arthas 工具实战：高效解决接口异常](https://mp.weixin.qq.com/s/H9Xk4bdtfTBKYAmyTnOHQQ)
 + [Arthas 工具实战：热更新修复问题，业务零影响](https://mp.weixin.qq.com/s/VNVYqU_OPTguNCuDP-Rh8w)
@@ -1944,7 +1948,7 @@
 + [盘点Lombok的几个骚操作](https://mp.weixin.qq.com/s/K6dx7kPGv4u8BEbD0ykbAA)
 + [告别冗余代码！Lombok注解如何让Java开发效率飙升300%？](https://mp.weixin.qq.com/s/5ozzuMtrvKNvvvd0HcM6_g)
 
-## mapStruct
+## mapstruct
 
 + [MapStruct 使用教程, 万字详解](https://mp.weixin.qq.com/s/UXUDIWiBiLyrb887evQcaQ)
 + [MapStruct 超神进阶用法，让你的代码效率提升十倍！](https://mp.weixin.qq.com/s/_4nSah_SIWYyBgYJ6AI_5A)
@@ -2145,7 +2149,7 @@
 
 + [OkHttp工具类分享](https://mp.weixin.qq.com/s/16cScrYUtzWuj-b9Ff5-MA)
 
-## openFeign
+## openfeign
 
 + [全面彻底掌握OpenFeign](https://mp.weixin.qq.com/s/ZIbbdr6QrQhHtmCpE8aq-w)
 + [Open Feign](https://mp.weixin.qq.com/s/vByhR4JubDELM9K8V1SguQ)
@@ -2165,7 +2169,7 @@
 + [换掉SpringBoot？0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/joQcv60Er_FFIRyrSYVaxg)
 + [Spring Boot 称霸时代要结束了？Quarkus 在云原生领域强势崛起](https://mp.weixin.qq.com/s/9dZ0XZXz_1KTVgENAOcEgg)
 
-## Quartz
+## quartz
 
 + [Quartz 推荐文档](https://mp.weixin.qq.com/s/kBtfLfwFX8pJY02NH-YW9A)
 
@@ -2224,9 +2228,10 @@
 + [Sentinel自适应限流原理](https://mp.weixin.qq.com/s/punZ64lW5Rp-u5yJR7muig)
 + [微服务系统中流量治理组件sentinel剖析](https://mp.weixin.qq.com/s/LCr1E6U9cRV05SPENy7A5Q)
 
-## ShardingsPhere
+## shardingsphere
 
 + [分享一次 ShardingJDBC 亿级数据分表真实经验](https://mp.weixin.qq.com/s/obttjmYgC-iwyWGxzOfy7w)
++ [分库分表，真的能让数据库飞起来吗？ShardingSphere实战全解析！](https://mp.weixin.qq.com/s/4nyf3G0DjTNXhBoFDrTSWQ)
 
 ## shiro
 
@@ -3565,6 +3570,7 @@
 + [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/9MG9RoZPxKF2O5E65rWPvQ)
 + [别再自己造轮子！Spring Boot内置的9个过滤器用法详解（附代码）](https://mp.weixin.qq.com/s/LRlmE5WWoq6I-pRQzYIGXQ)
 + [SpringBoot自定义RestTemplate的拦截器链](https://mp.weixin.qq.com/s/zp_pIFLqDny5o3TM2Pn8sw)
++ [Spring Boot 参数接收全解析](https://mp.weixin.qq.com/s/iDE_AxflT22KcPvDwTVPfA)
 
 ##### 文件上传下载
 
@@ -4165,6 +4171,7 @@
 + [Spring Boot + JobRunr 后台任务执行神器，太强大了](https://mp.weixin.qq.com/s/jPpxuPKpew-kk4d63c1JQg)
 + [Spring Boot 系列：集成 EasyExcel 实现百万级数据导入导出实战](https://mp.weixin.qq.com/s/ajscAvgLhp_GCD6XQunVaA)
 + [SpringBoot+Redis BitMap 实现签到与统计功能](https://mp.weixin.qq.com/s/tIaEpkylJIjuMy3t4k760g)
++ [SpringBoot+RedisBitMap实现签到与统计功能](https://mp.weixin.qq.com/s/Ce__5w-xGK0hQt77hn--yA)
 
 #### test
 
@@ -4414,6 +4421,7 @@
 + [【技术细节】TransmittableThreadLocal使用揭秘](https://mp.weixin.qq.com/s/skDU_ucScbr6az5lf8RWvw)
 + [【工具】Jar Analyzer：实战Jar包审计利器](https://mp.weixin.qq.com/s/HYViGNyEpyUpp0Z7hZqhrw)
 + [分享一个IP解析工具类](https://mp.weixin.qq.com/s/DpZfRbpUu-Fnrs6C901v8w)
++ [别再错过！Java 开发者必须掌握的 MQTT 协议对接秘籍，看完直呼过瘾](https://mp.weixin.qq.com/s/grtrhhMET7mGTpvcE4nQbw)
 
 # 其它环境
 

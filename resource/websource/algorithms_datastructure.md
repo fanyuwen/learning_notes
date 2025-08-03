@@ -89,10 +89,14 @@
 + [动态规划入门课：图解路径和之太郎的假期](https://mp.weixin.qq.com/s/FgJnBukggQkWKvBihPTvHA)
 + [掌握了这些算法技巧，可以少刷一半的Leetcodee ！](https://mp.weixin.qq.com/s/n4beV8HXNEIt48bWsegLNw)
 + [双指针算法--从暴力走向优雅的算法捷径](https://mp.weixin.qq.com/s/k_Sc_8BJUmSEI94B6nVzJQ)
-+ [链表（1）-快慢指针及例题](https://mp.weixin.qq.com/s/0e7PoVtdP7aX0bbbGnbNEg)
 + [数据结构基础：数组、向量与链表详解](https://mp.weixin.qq.com/s/08hFMCksum-bJdl2IPsrSg)
 + [数据结构与算法 --- 链表反转](https://mp.weixin.qq.com/s/zzLO7wwATkqDddpQjanNAw)
++ [链表（1）-快慢指针及例题](https://mp.weixin.qq.com/s/0e7PoVtdP7aX0bbbGnbNEg)
 + [链表（2）-快慢指针及例题](https://mp.weixin.qq.com/s/wlYLTept7q_kJLFfy4Zptw)
++ [链表（3）-快慢指针及例题](https://mp.weixin.qq.com/s/MJ7yRQdFqsKxwInR3wMHvg)
++ [字节高频面试题：如何高效获取两个List的交集元素？](https://mp.weixin.qq.com/s/2M4Dkq6X5x8TSaJSpMLRNg)
++ [详述背包问题（DP）：从生活场景到代码实现](https://mp.weixin.qq.com/s/kzKzNU_DqLWActUp0UBqHg)
++ [动态规划详解](https://mp.weixin.qq.com/s/3j2x3CT9yvzy3XCutYTt_g)
 
 ## Graph
 
@@ -102,6 +106,9 @@
 + [数据结构之图的遍历](https://mp.weixin.qq.com/s/OMeCe4deq1dNF8WMAruLog)
 + [数据结构之图的最短路径-Dijkstra算法](https://mp.weixin.qq.com/s/09mVP1CuQQmk6m9mtu63Iw)
 + [竞赛编程教学大纲第十二课：图论算法](https://mp.weixin.qq.com/s/bYdpbaJao3D5v8Wkab3yXQ)
++ [数据结构之图结构——图的定义与相关概念](https://mp.weixin.qq.com/s/vzlwKKX6Gjucmv6W6a86Qg)
++ [图解最短路径算法: Dijkstra算法](https://mp.weixin.qq.com/s/SDFSgT_3xKnunbp83biraQ)
++ [图与循环依赖、死锁(一) 为何我的循环依赖时好时坏？](https://mp.weixin.qq.com/s/KpI_pPWKEmNImjyyDqf62Q)
 
 ## Tree
 
@@ -188,9 +195,12 @@
 + [每日一题 递归（及第三章算法的实现）](https://mp.weixin.qq.com/s/OPOqiHb_j4zhHFK5cp6HZQ)
 + [还得是微信，腾讯一面算法原题](https://mp.weixin.qq.com/s/GpNIZ3oseXjw_INnW3ogVw)
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
-+ [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
 + [LeetCode热题100之滑动窗口](https://mp.weixin.qq.com/s/JpyGdk21igFCf28ddHtHEA)
++ [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
 + [剑指offer-8、跳台阶](https://mp.weixin.qq.com/s/JZU8w5Zp42JcWnMcR7P6Yg)
++ [剑指offer-12、数值的整数次方](https://mp.weixin.qq.com/s/eqZu0413Fnnj5CL1u-bEtA)
 + [剑指offer-13、调整数组顺序使奇数位于偶数前面（一）](https://mp.weixin.qq.com/s/a7n5LLuEoSvoVpj_YEGIcA)
++ [剑指offer-14、链表中倒数第k个结点](https://mp.weixin.qq.com/s/gKBuD-fzLSGVJvASWubeRg)
 + [剑指offer-16、合并两个有序链表](https://mp.weixin.qq.com/s/UoPMafS8WzXghM09AFbz-g)
++ [LeetCode热题100之链表I](https://mp.weixin.qq.com/s/3dqSih_HV5F60DZGHcvRZQ)

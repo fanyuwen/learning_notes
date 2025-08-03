@@ -169,3 +169,4 @@
 + [Rust新作！这位开发者二次打磨的ML库真香了](https://mp.weixin.qq.com/s/yAfCHEURkVtq8msihiSmJA)
 + [【Rust日报】一种全新独特的指令集架构，专注于极高的能效，支持 C++ 和 Rust 编译](https://mp.weixin.qq.com/s/NO8W3QlRuaRsxHGJ_eCkUw)
 + [使用Rust的公司越来越多，常见业务逐步引入Rust开发](https://mp.weixin.qq.com/s/meQB14XdI_ujRW6nu4cS2w)
++ [Rust有望成为工业自动化系统开发的下一代编程语言](https://mp.weixin.qq.com/s/NZMQ1RaOec172QBvwhZ9dA)

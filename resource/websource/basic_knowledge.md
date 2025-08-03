@@ -179,6 +179,7 @@
 + [124 | 『八股文™』聊一聊线程模型基础问题](https://mp.weixin.qq.com/s/A54uZ-49NGm2tSHg6YKylw)
 + [Linux inode 详解](https://mp.weixin.qq.com/s/ttWoxByd770FgkIePHYUDw)
 + [在 Linux 上进行 Apache Bench 测试](https://mp.weixin.qq.com/s/f22iRyoWZijfll95gybyvQ)
++ [inode 的10个典型应用实例详解](https://mp.weixin.qq.com/s/xeeWBmasqqvUwRWse4bdIA)
 
 ### 网络
 
@@ -487,6 +488,7 @@
 + [抓包就靠 tcpdump？别只会 -i eth0！这些技巧才是核心操作](https://mp.weixin.qq.com/s/OrKOK6TI1m-ClQ51b7_mBg)
 + [交换机工作原理](https://mp.weixin.qq.com/s/cRPXn6_hZ4cNE_4uScv5Zw)
 + [面试题-学习网络协议必备：七层模型与协议之间的映射关系](https://mp.weixin.qq.com/s/XS_BevhSV9HT1cyDIN5kuA)
++ [设计心得——网络包的处理](https://mp.weixin.qq.com/s/BKVSbxMlfJPy8Imku_f-TA)
 
 ### DNS
 

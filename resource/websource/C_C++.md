@@ -55,6 +55,7 @@
 + [为什么你写的 C++ 代码看起来不专业？可能就差这几个细节！](https://mp.weixin.qq.com/s/bnJWdNgfzF3sQquU-qU_Lg)
 + [解密C++“不泄漏”的秘密武器：你的内存焦虑，终于有救了！](https://mp.weixin.qq.com/s/dfgDnF-SpGUSs--MBcOX0g)
 + [c++代码编译过程](https://mp.weixin.qq.com/s/LzV8S2EXDeXU3LKFjROC5Q)
++ [开始学习C++](https://mp.weixin.qq.com/s/DChijH8jBZoCFtezXCouXg)
 
 ### 基础
 
@@ -210,6 +211,7 @@
 + [C++程序员必读：为什么资深程序员都在抵制布尔型参数？教你三招彻底摆脱“神秘布尔”！](https://mp.weixin.qq.com/s/un0VBwrWi7lTzFMpdIuAOQ)
 + [C++性能优化：分支预测](https://mp.weixin.qq.com/s/wLxbEHNBkygNj93g9jI9GQ)
 + [C++输入输出全攻略：从基础到高级技巧](https://mp.weixin.qq.com/s/LPptThpGnRteDiPT6RL77g)
++ [为什么C++老程序员都爱用仿函数？看完你也能轻松写出高性能“状态管理”代码！](https://mp.weixin.qq.com/s/ywruwbNRKUkr9XWwwum5Zw)
 
 #### 指针
 

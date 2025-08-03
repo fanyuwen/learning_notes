@@ -167,6 +167,7 @@
 + [快速学习Python最常用的30个内置函数](https://mp.weixin.qq.com/s/UOcuv0Wz8_8gecxNwvDH3w)
 + [苦练Python第33天：斜杠 / 与星号 * 的魔法——彻底搞懂函数参数顺序](https://mp.weixin.qq.com/s/-3e4RelxxZozqBa1R6qf5Q)
 + [Python的dir()竟在深夜偷偷篡改对象？害我凌晨2点起来修bug](https://mp.weixin.qq.com/s/gTszrWOC-EjfQPDfsPF1zw)
++ [苦练Python第41天：如何用dir() 函数“透视一切”](https://mp.weixin.qq.com/s/xMrnVT-rciPrRd2Az68CYw)
 
 ### 面向对象
 
@@ -328,6 +329,7 @@
 + [Python内置模块：calendar---通用日历相关函数详解](https://mp.weixin.qq.com/s/y_wlgVsn7OxIBVmrlwGlZQ)
 + [Python内置模块：base64使用详解](https://mp.weixin.qq.com/s/Fs-bk12TfN5CQUbrLqkiHQ)
 + [Python内置模块：zoneinfo时区支持详解](https://mp.weixin.qq.com/s/T5ZGA72nhZqaJDUFxeSqYg)
++ [Python内置模块：platform访问底层平台的标识数据详解](https://mp.weixin.qq.com/s/4JfszIbHEqlxzA5u6tY_Aw)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 + [Python内置类型：集合编程指南](https://mp.weixin.qq.com/s/gYM_sP3creulCAfBlC6bIA)

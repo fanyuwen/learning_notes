@@ -2385,6 +2385,7 @@
 + [颠覆认知！我从 Spring 源码里学到的一个隐藏高手级技巧](https://mp.weixin.qq.com/s/5ZPgnOZyDVhTvLtDOHm10A)
 + [还在捧@Resource踩@Autowired？](https://mp.weixin.qq.com/s/g624sygl5I0snLm3UXEBiw)
 + [【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法](https://mp.weixin.qq.com/s/LQcfPunNmMPXlQ6znIWPbw)
++ [不重启也能注入 Bean？教你用 RegisterBeanService 动态注册 Spring Bean](https://mp.weixin.qq.com/s/XWWwAnB2ZJ4OXyFjVbKDkQ)
 
 #### 原理&源码
 

@@ -103,6 +103,7 @@
 + [程序员为什么工资那么高却不努力工作？](https://mp.weixin.qq.com/s/mwzk9ktWjo0J-u7xbYiqVA)
 + [那些很卷的程序员卷到最后获得了什么？](https://mp.weixin.qq.com/s/30Prk_4pYZCVOnWUSwPTqw)
 + [编程的乐趣：程序员们如何享受编码的过程](https://mp.weixin.qq.com/s/49xn3MTIbYoLeyunPdyaEg)
++ [如何才能写好代码？——职场生存指南](https://mp.weixin.qq.com/s/ry7owuVJAhxEcZTOqaSSkQ)
 
 # 个人成长
 

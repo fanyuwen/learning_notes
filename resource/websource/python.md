@@ -330,6 +330,7 @@
 + [Python内置模块：zoneinfo时区支持详解](https://mp.weixin.qq.com/s/T5ZGA72nhZqaJDUFxeSqYg)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
++ [Python内置类型：集合编程指南](https://mp.weixin.qq.com/s/gYM_sP3creulCAfBlC6bIA)
 
 ### 异步/多线程
 

@@ -857,6 +857,7 @@
 + [Java多线程编程：探究不同的线程间数据通信方式](https://mp.weixin.qq.com/s/bU6dLYLMm0yxGybrSU_dVg)
 + [04-JAVA线程通信](https://mp.weixin.qq.com/s/bvu7j5bmgojlf5uO6ILAHA)
 + [03-线程运行原理](https://mp.weixin.qq.com/s/Hk1cUPC_70_jn-nvPEucTQ)
++ [02-线程状态以及基础线程API使用](https://mp.weixin.qq.com/s/anyeD3_LkUnuPTEEcKCFEg)
 
 #### CAS
 
@@ -1110,6 +1111,7 @@
 + [JVM详解](https://mp.weixin.qq.com/s/kphFn-xofXFS7Ru6-UF2KQ)
 + [class文件结构解析](https://mp.weixin.qq.com/s/l59TZCwGvh-jtmfTmqhFiA)
 + [惊！掌握这些 JVM 参数调优技巧，小红书面试稳了](https://mp.weixin.qq.com/s/1nF-Ix8I8jLranX62x9BjA)
++ [JVM 本地内存跟踪（Native Memory Tracking in JVM）](https://mp.weixin.qq.com/s/01ikS_jl0pmMOraVXLnHDA)
 
 ### 命令
 
@@ -1401,6 +1403,7 @@
 + [HashMap集合--基本操作流程的源码可视化](https://mp.weixin.qq.com/s/cbXqfEhKBn-fbR-7laMnKQ)
 + [TreeMap集合--底层原理、源码阅读及它在Java集合框架中扮演什么角色？](https://mp.weixin.qq.com/s/sHl-skrq5zIZihtcxfQE4g)
 + [Java面试实战系列【集合篇】- HashMap底层实现原理深度解析](https://mp.weixin.qq.com/s/vAYUIGQWjY4yitlQTCABCQ)
++ [hashMap 1.7和1.8区别](https://mp.weixin.qq.com/s/MAD4Grg_w-FL9I9-xrnyOg)
 
 ### Optional
 
@@ -1693,6 +1696,7 @@
 + [NIO非阻塞网络编程的三大核心组件](https://mp.weixin.qq.com/s/9ZnMRoAI1AZiK9bAf-X38Q)
 + [视频分片点播（1）：RandomAccessFile](https://mp.weixin.qq.com/s/GAC4GkJS0Cgv9fZAyBICsA)
 + [路径注入（Path Injection）漏洞详解](https://mp.weixin.qq.com/s/G7Wn9NmgQes_UmR4MUS_HQ)
++ [Java Zip 压缩及其优化](https://mp.weixin.qq.com/s/tnEi__W2PAFzxxDQun_n5g)
 
 ## JAVAX
 
@@ -1896,14 +1900,18 @@
 
 + [Apache HttpClient 对并发连接数的限制：原理与注意事项](https://mp.weixin.qq.com/s/VyVboGnYr2-L8ZhzGlSMGg)
 
+## hutool
+
++ [Hutool 的 EnumUtil 有多香？Java 枚举操作从此告别繁琐](https://mp.weixin.qq.com/s/QM7dZ05vrBfIkTAU7N7HHg)
+
+## javafx
+
++ [杂项-javaFx 图形化初试（简单学学~）](https://mp.weixin.qq.com/s/DUs6082ny85pK5lj0SoVhQ)
+
 ## jdbc
 
 + [面试官：JDBC 是如何打破双亲委派模型的？](https://mp.weixin.qq.com/s/x4pM2sZSKice0FA2z4NTog)
 + [JDBC连接数据库流程详解](https://mp.weixin.qq.com/s/Ok6Urb8-JBiCzaL664okmw)
-
-## hutool
-
-+ [Hutool 的 EnumUtil 有多香？Java 枚举操作从此告别繁琐](https://mp.weixin.qq.com/s/QM7dZ05vrBfIkTAU7N7HHg)
 
 ## json
 
@@ -2727,6 +2735,7 @@
 + [为什么我说：没有 AOP，就不可能写出整洁的 Java 代码（不服来辩）？](https://mp.weixin.qq.com/s/oiT9Js-ocQONTYqAdEx3zQ)
 + [Spring AOP 设计解密：代理对象生成、拦截器链调度与注解适配全流程源码解析](https://mp.weixin.qq.com/s/EHd7jdqt43ZZ0Env74Ddbw)
 + [Spring AOP 核心概念全解析：从动态代理到切面编程实战](https://mp.weixin.qq.com/s/YmhNI4nlOyzM-w8mvwskzg)
++ [Spring中AOP的一些核心概念讲解](https://mp.weixin.qq.com/s/CFhnbPIQOfYTEiKNTojgtw)
 
 ### 配置打包部署
 

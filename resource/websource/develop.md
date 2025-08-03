@@ -693,6 +693,7 @@
 + [告别if-else地狱：业务断言如何用契约式设计重构代码？](https://mp.weixin.qq.com/s/s8rb8TUqtOgsu8R9ezv2FA)
 + [解密百万并发秒杀架构：如何在1秒内抗住流量洪峰](https://mp.weixin.qq.com/s/WlWaOnhaXrTlK7vYdfeMwA)
 + [程序员必看：两个思想优化90%的代码](https://mp.weixin.qq.com/s/K05TLKtjrHD2w_sxY7_QZg)
++ [while vs for：实战与选型](https://mp.weixin.qq.com/s/WF9_aSu2xCdvm_MXygMJDQ)
 
 # 测试相关
 
@@ -775,6 +776,7 @@
 + [代码好坏的终极标准：你真的懂了吗？](https://mp.weixin.qq.com/s/4nEfSh_J5JC4FSt82VyiNA)
 + [UML基本概念：构造块、公共机制与规则](https://mp.weixin.qq.com/s/DP5ZwPLXRoGbU4rxNjsmmg)
 + [面向对象的本质到底是什么？为什么要面向对象？相比于面向过程，它有什么进步意义？](https://mp.weixin.qq.com/s/_wYESVl9VkHrXrC7wJ4C3A)
++ [从混乱到优雅：一步步带你实现架构抽象化设计](https://mp.weixin.qq.com/s/Fq8A-4glJUO__Sf_Db1zow)
 
 ## 接口相关
 
@@ -858,6 +860,7 @@
 + [IT产品研发全生命周期流程图实例【流程图及详细说明】](https://mp.weixin.qq.com/s/B_Q-W_RH4xtusAXQplMiVQ)
 + [探索BPMN—工作流技术的理论与实践｜得物技术](https://mp.weixin.qq.com/s/HzhoSrJcynd_BgDoWUGHBw)
 + [Code Review：提升代码质量与团队能力的利器](https://mp.weixin.qq.com/s/aazHgFhORxTHayEUyCa-_w)
++ [名词解释：同步、异步、阻塞、非阻塞](https://mp.weixin.qq.com/s/5AOZBS6HGPjqQFRwxLhSuw)
 
 ### 版本管理
 

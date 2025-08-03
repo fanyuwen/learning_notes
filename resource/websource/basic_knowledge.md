@@ -20,6 +20,7 @@
 + [Windows 与 Linux 系统中快速查看 CPU 和内存情况的方法](https://mp.weixin.qq.com/s/s_8kQLR0prGoIWijAArxpg)
 + [一文了解二进制的独特应用](https://mp.weixin.qq.com/s/gqMW4nIFGKM32TXBs0_LWg)
 + [深入理解操作系统（六）---进程调度，进程和线程理论，经典同步问题的一个题目](https://mp.weixin.qq.com/s/Bvpd6bRutcJ11SZYn1j7XQ)
++ [深入理解操作系统（八）---硬件地址变换机构&&空闲分区表的计算](https://mp.weixin.qq.com/s/0C0jw_1TKmB034b11W_UVg)
 
 ## 文件系统
 
@@ -530,6 +531,7 @@
 + [IP地址之子网掩码](https://mp.weixin.qq.com/s/YqS6U5gGuRk3feYRC3EbnQ)
 + [用了这么久HTTP，这些状态码的妙用你都知道吗](https://mp.weixin.qq.com/s/jf5b-eBtwsXFvoZmKpmDvg)
 + [HTTP 协议的优缺点](https://mp.weixin.qq.com/s/1oHMgCExGmp-owLi40RpiA)
++ [HTTP 长连接与短连接](https://mp.weixin.qq.com/s/LwU7WbxWM0sI4QG4DNRJjw)
 
 #### CORS
 
@@ -580,6 +582,7 @@
 + [一文详解SSL/TLS协议](https://mp.weixin.qq.com/s/3nPurQB1JbX3wHKp4BeXWA)
 + [TCP/IP 传输层详解](https://mp.weixin.qq.com/s/MVQ36RMXLjFjk76SCgse5g)
 + [TCP/IP协议精解：IP协议——互联网世界的邮政编码系统](https://mp.weixin.qq.com/s/DgdvC3jGbMRPL0BMJtPlWA)
++ [TCP 长连接 vs 短连接的适用场景](https://mp.weixin.qq.com/s/tk9m4a5KjG51EPM8OSagEg)
 
 ### UDP
 

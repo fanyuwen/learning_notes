@@ -87,6 +87,9 @@
 + [C++信奥之路，深耕基础，方能远行——洛谷官方题单之字符串（3）](https://mp.weixin.qq.com/s/P9o37_Pul42gqC1Xd6dG2w)
 + [C++中的const：给你的代码上把锁，再也不怕手抖改错值！](https://mp.weixin.qq.com/s/zSk0nEZDLFNHNw9jPp6bqg)
 + [c++命名空间](https://mp.weixin.qq.com/s/9CpTIvpZQ62hQtznONQmGQ)
++ [深入解析C++中的进制转换：原理实现与应用](https://mp.weixin.qq.com/s/8Bxdqp-3MZ_TYExWNREZPg)
++ [C++基础入门——5. 关系运算与逻辑运算](https://mp.weixin.qq.com/s/n0PeeomYnXyG8HIKOaIhqA)
++ [C++中的for循环：从原理到实战](https://mp.weixin.qq.com/s/6V06YT1FMymO75ETMIsxMw)
 
 ### 高阶
 
@@ -206,6 +209,7 @@
 + [C++移动语义深入理解2](https://mp.weixin.qq.com/s/X1X8-froTqvsE5V1_UvFwQ)
 + [C++程序员必读：为什么资深程序员都在抵制布尔型参数？教你三招彻底摆脱“神秘布尔”！](https://mp.weixin.qq.com/s/un0VBwrWi7lTzFMpdIuAOQ)
 + [C++性能优化：分支预测](https://mp.weixin.qq.com/s/wLxbEHNBkygNj93g9jI9GQ)
++ [C++输入输出全攻略：从基础到高级技巧](https://mp.weixin.qq.com/s/LPptThpGnRteDiPT6RL77g)
 
 #### 指针
 
@@ -221,10 +225,12 @@
 + [C++智能指针：shared_ptr、unique_ptr与weak_ptr的理解与使用](https://mp.weixin.qq.com/s/RUIXAQL67kQMoc8BezQA4A)
 + [C++中的智能指针](https://mp.weixin.qq.com/s/16BZlOdLfuWNF79oDUhp5A)
 + [C++智能指针全解析：从auto_ptr到weak_ptr，彻底掌握内存管理利器！强烈建议收藏！！！](https://mp.weixin.qq.com/s/NIxtfgjND_Y0HJJ_yymkvQ)
++ [“指鹿为马”的C++指针：当A*指向B时发生了什么？](https://mp.weixin.qq.com/s/Ie4fTwblL5uCG73HXUzyow)
 
 #### 函数
 
 + [跟我学C++中级篇——常函数](https://mp.weixin.qq.com/s/ZYtQPL7_wI8JMEhs_P3siw)
++ [跟我学C++中级篇——编译时对函数存储的处理](https://mp.weixin.qq.com/s/p0Ja_nntHYJeSOSk1A8D2A)
 
 #### 数据结构&算法
 
@@ -274,6 +280,8 @@
 + [c++文件和流](https://mp.weixin.qq.com/s/v7lfhJZ3dbqq3EA6-f4rMQ)
 + [C++数学宝典：玩转 <cmath> 库，让你的代码像数学家一样思考！](https://mp.weixin.qq.com/s/iFgysYFwkYgQijlL5vhFJw)
 + [c++时间与日期](https://mp.weixin.qq.com/s/hRnu2Yg_FMTpoPtRz80qXQ)
++ [《vector底层的实现，可能和你想的不一样》](https://mp.weixin.qq.com/s/SklLmODyXLvObRRFTGvrcg)
++ [C++11基础之std::function](https://mp.weixin.qq.com/s/ZbGwFs2E3pNDAuoPQaaAdQ)
 
 #### 新特性
 
@@ -337,6 +345,7 @@
 + [c++面对对象的基石--类](https://mp.weixin.qq.com/s/rwBImx1VHWNrm8QlnMWJSg)
 + [c++继承和多态的关系](https://mp.weixin.qq.com/s/U9rc_qI8gbl1DYujP363cA)
 + [透过汇编看 C++：构造函数](https://mp.weixin.qq.com/s/xwsNVnRrIMVPp2bDb5ZFkQ)
++ [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 
 ##### 泛型
 
@@ -345,6 +354,7 @@
 ##### 设计模式
 
 + [C++创造型设计模式汇总](https://mp.weixin.qq.com/s/HLMygkVChVpNOGdBKSqn9Q)
++ [C++结构型设计模式汇总](https://mp.weixin.qq.com/s/FjiRHFZuyfpKE7tMv6LW6Q)
 + [C++设计模式——Chain of Responsibility职责链模式](https://mp.weixin.qq.com/s/vgOLZa_mBmPToEc4rObaDA)
 + [C++设计模式——Visitor访问者模式](https://mp.weixin.qq.com/s/aSQUxx35Ydv4_b-9VJletA)
 + [【一分钟学C++】装饰者模式](https://mp.weixin.qq.com/s/3Vs347Zq9xO_ZaING2ZS1Q)
@@ -355,6 +365,8 @@
 + [C++行为型模式之策略模式](https://mp.weixin.qq.com/s/SF6zLIeibO_8bKrFYC12DA)
 + [C++行为型模式之中介者模式](https://mp.weixin.qq.com/s/QD_I3ckksZj3O_tZbdskfA)
 + [C++行为型模式之解释器模式](https://mp.weixin.qq.com/s/o4F9nHabXeISMxA5CbTnjA)
++ [C++行为型模式之模板方法模式](https://mp.weixin.qq.com/s/Oanra5p9vIDvuxHn0OJnTw)
++ [C++行为型模式之访问者模式](https://mp.weixin.qq.com/s/zHfcmBdVBZlwZ1hsO9QkXw)
 
 #### 并发
 
@@ -381,6 +393,7 @@
 + [手撸线程池才是C++程序员的硬实力！7天手把手带你从0到1完整实现](https://mp.weixin.qq.com/s/10md6XvqpFug5S7LW8m29Q)
 + [十分钟实用教程 | 双缓冲与Stacktrace：C++多线程与调试的高效实践](https://mp.weixin.qq.com/s/hb0kB3s28_jjJMN74UtaGQ)
 + [C++ 协程](https://mp.weixin.qq.com/s/Vqy3IRHEPbSZ1mtWsdGwug)
++ [std::atomic 实现无锁队列](https://mp.weixin.qq.com/s/TY0Dc9Kn92t-N5vbC-jT7A)
 
 #### 扩展
 
@@ -459,6 +472,7 @@
 + [C++ CUDA .cu 文件](https://mp.weixin.qq.com/s/D4iB3DSXerL3B4nER3N4wg)
 + [C++ CUDA 线程 线程块 网格](https://mp.weixin.qq.com/s/euMUES_8F08evKHhn2Q49w)
 + [C++ CUDA 核函数中的数据类型](https://mp.weixin.qq.com/s/n4sgrxqM3j98ObA80RZvJg)
++ [并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
 
 ## C
 
@@ -513,6 +527,7 @@
 + [谈C编程---default关键字](https://mp.weixin.qq.com/s/thydqYOYzlOElZgXHdUU6g)
 + [谈C编程---字符串](https://mp.weixin.qq.com/s/Ow_wxmLr0YHRMiaS9I9v9w)
 + [谈C编程---循环控制](https://mp.weixin.qq.com/s/PMAurhsHnEpVV83q85aJzQ)
++ [C语言if、else分支控制结构详解](https://mp.weixin.qq.com/s/d88jykazutUiESVmDYtS8Q)
 
 ### 高阶
 
@@ -573,6 +588,8 @@
 + [华为嵌入式开发规范：C语言这10条禁忌千万别碰！](https://mp.weixin.qq.com/s/5q6119i9CFOcZyqFCRqFuw)
 + [链表编码的六重修炼：从指针迷途到禅意境界](https://mp.weixin.qq.com/s/v_k56H77V_nS0i82Jw0Zfw)
 + [谈C编程---分支结构](https://mp.weixin.qq.com/s/i7sCLomz4jPU58NGMUfgRg)
++ [杂项(C数据存储)](https://mp.weixin.qq.com/s/XgfQCh4cRSoEYtjgZ0yMzA)
++ [数据结构之图的最小生成树Prim算法C语言实现](https://mp.weixin.qq.com/s/wAiqQuXtx6YVwWe4bzdP0w)
 
 #### 宏
 
@@ -580,6 +597,8 @@
 + [C 语言中的带参宏定义与函数：区别与用法](https://mp.weixin.qq.com/s/9DvMUvQgUdstRMXp_kM_CQ)
 + [C语言：使用宏定义实现位运算](https://mp.weixin.qq.com/s/Nh7fftOEeKtAhDxF9ZSCTQ)
 + [代码量减少50%！嵌入式C宏定义的进阶用法大全](https://mp.weixin.qq.com/s/DoDQJVHPH9rO8UPZ-pfjvQ)
++ [C语言#define中的do while(0)](https://mp.weixin.qq.com/s/C_FwzIeQPLXcj5dA7jHOqA)
++ [谈C编程---#if预处理的应用](https://mp.weixin.qq.com/s/fZ8mS4IZ6-1uJCnoQSXNzg)
 
 #### 数组
 

@@ -99,6 +99,8 @@
 + [Rust为什么需要Borrow Trait](https://mp.weixin.qq.com/s/ktDIU7KrRpt3wTtFrKSwqQ)
 + [Arc 安全吗？差点搞垮我们的 Rust 后端](https://mp.weixin.qq.com/s/_1zdOF-CxrIx9uJgkTSe4g)
 + [征服Rust并发：Arc、Mutex、Channel三大护法，让你的代码从此刀枪不入！](https://mp.weixin.qq.com/s/LVjMusfma3Ti-LyuwfW6VA)
++ [【Rust日报】 在 Rust 中使用 ndarray 和 opencv 处理图像](https://mp.weixin.qq.com/s/MBhUiioSZAkSxsQxVT8kcQ)
++ [厌倦样板代码？用 Rust 过程宏自动生成！](https://mp.weixin.qq.com/s/9QclkNzAo1_fU5B504CqiQ)
 
 # 框架
 
@@ -165,3 +167,5 @@
 + [Rust：资深开发者梦想语言？](https://mp.weixin.qq.com/s/rGN7GGX9mWSZmauX7yN5jw)
 + [Rust的安全神话？数据库CEO为何在关键系统中仍选C++](https://mp.weixin.qq.com/s/53Em59OJeZExl8-0dgtZ7Q)
 + [Rust新作！这位开发者二次打磨的ML库真香了](https://mp.weixin.qq.com/s/yAfCHEURkVtq8msihiSmJA)
++ [【Rust日报】一种全新独特的指令集架构，专注于极高的能效，支持 C++ 和 Rust 编译](https://mp.weixin.qq.com/s/NO8W3QlRuaRsxHGJ_eCkUw)
++ [使用Rust的公司越来越多，常见业务逐步引入Rust开发](https://mp.weixin.qq.com/s/meQB14XdI_ujRW6nu4cS2w)

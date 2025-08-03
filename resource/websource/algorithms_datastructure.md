@@ -100,6 +100,7 @@
 + [从扔鸡蛋问题，看神奇的动态规划](https://mp.weixin.qq.com/s/zvvCgHzwJ4EdA3VtaFDPWw)
 + [算法：什么是DP问题？](https://mp.weixin.qq.com/s/Y7zkpOXLEii_xlteNVMcJg)
 + [如何理解动态规划DP问题特性](https://mp.weixin.qq.com/s/tHLKyhTRQX8FlpKfFywD7Q)
++ [【Y言蔽之】二分搜索中的边界条件与实现模式](https://mp.weixin.qq.com/s/pA1GFZOUfsK2r0LZQ95KBA)
 
 ## Graph
 
@@ -160,6 +161,7 @@
 + [数据结构之拓扑排序](https://mp.weixin.qq.com/s/2Ej6u7fLcKUZUCNBXVw4pA)
 + [腾讯一面：如何充分利用多核CPU的性能，快速对一个2千万大小的数组进行排序？](https://mp.weixin.qq.com/s/BrXoi3auh6ExJ4on4dJoHw)
 + [快速排序，为何 “快”？](https://mp.weixin.qq.com/s/yaAg1nKpkH3qy32jI5t28Q)
++ [排序算法完全指南：从理论到实践的全面探索](https://mp.weixin.qq.com/s/LvGDj-kNhKvgIZFqP2uFNQ)
 
 # 密码学
 
@@ -201,6 +203,8 @@
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
 + [【力扣】两数相加](https://mp.weixin.qq.com/s/UeotTtUX3oWtJ8ibiDPMgw)
 + [LeetCode热题100之滑动窗口](https://mp.weixin.qq.com/s/JpyGdk21igFCf28ddHtHEA)
++ [LeetCode热题100之链表II](https://mp.weixin.qq.com/s/3vDknXG1miLd-jWT1BqosA)
++ [Leetcode 剑指 Offer II 138.有效数字](https://mp.weixin.qq.com/s/sdXGwwNuRoGNKJ0tjS_7bg)
 + [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
 + [剑指offer-8、跳台阶](https://mp.weixin.qq.com/s/JZU8w5Zp42JcWnMcR7P6Yg)
 + [剑指offer-12、数值的整数次方](https://mp.weixin.qq.com/s/eqZu0413Fnnj5CL1u-bEtA)

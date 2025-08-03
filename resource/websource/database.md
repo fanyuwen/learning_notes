@@ -988,6 +988,7 @@
 + [Redis下篇--分布式锁](https://mp.weixin.qq.com/s/LcqB5CwIVVzQVuwkQ1CEcA)
 + [Redis分布式锁的底层实现机制](https://mp.weixin.qq.com/s/8cOy8iFq1gE1lEef5j5-TA)
 + [浅入浅出分布式锁（Redis）的所有细节](https://mp.weixin.qq.com/s/fluxu3rsu4cy4mbzk41QfA)
++ [深入剖析Redis分布式锁：原理、场景与最佳实践](https://mp.weixin.qq.com/s/pUi2qFhlRI5s_DN-Xp4cUw)
 
 #### 缓存
 

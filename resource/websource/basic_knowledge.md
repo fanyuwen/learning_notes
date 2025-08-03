@@ -19,6 +19,7 @@
 + [10个程序员8个的多线程卡成狗？你可能连fork和exec都没整明白！](https://mp.weixin.qq.com/s/ocFvQWpEufBZ7BxpJKNftA)
 + [Windows 与 Linux 系统中快速查看 CPU 和内存情况的方法](https://mp.weixin.qq.com/s/s_8kQLR0prGoIWijAArxpg)
 + [一文了解二进制的独特应用](https://mp.weixin.qq.com/s/gqMW4nIFGKM32TXBs0_LWg)
++ [深入理解操作系统（六）---进程调度，进程和线程理论，经典同步问题的一个题目](https://mp.weixin.qq.com/s/Bvpd6bRutcJ11SZYn1j7XQ)
 
 ## 文件系统
 

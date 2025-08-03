@@ -38,6 +38,7 @@
 + [CMake之常用语法(宏)](https://mp.weixin.qq.com/s/7KYB6MkyaQyM3WTfiKWY5g)
 + [CMake引用自己开发第三方库](https://mp.weixin.qq.com/s/D0VVIWl0iE2B9z676SxQbw)
 + [Modern CMake：构建规范化的C++工程，从放弃“学生范CMakeLists”开始](https://mp.weixin.qq.com/s/zCtwuvHB3MlbGbpawsfOjQ)
++ [C++项目构建之二 初识cmake](https://mp.weixin.qq.com/s/FOn7Cnti0yqYbDEh-O8S_A)
 
 ### 第三方技术
 
@@ -203,6 +204,8 @@
 + [谈C编程---C语言中特殊符号](https://mp.weixin.qq.com/s/kaJuIjghgG7bMt0GPb1wKA)
 + [c++ 字符串池化](https://mp.weixin.qq.com/s/rfrjVb0jHPAhyIiRs2K5Ew)
 + [C++移动语义深入理解2](https://mp.weixin.qq.com/s/X1X8-froTqvsE5V1_UvFwQ)
++ [C++程序员必读：为什么资深程序员都在抵制布尔型参数？教你三招彻底摆脱“神秘布尔”！](https://mp.weixin.qq.com/s/un0VBwrWi7lTzFMpdIuAOQ)
++ [C++性能优化：分支预测](https://mp.weixin.qq.com/s/wLxbEHNBkygNj93g9jI9GQ)
 
 #### 指针
 
@@ -218,6 +221,10 @@
 + [C++智能指针：shared_ptr、unique_ptr与weak_ptr的理解与使用](https://mp.weixin.qq.com/s/RUIXAQL67kQMoc8BezQA4A)
 + [C++中的智能指针](https://mp.weixin.qq.com/s/16BZlOdLfuWNF79oDUhp5A)
 + [C++智能指针全解析：从auto_ptr到weak_ptr，彻底掌握内存管理利器！强烈建议收藏！！！](https://mp.weixin.qq.com/s/NIxtfgjND_Y0HJJ_yymkvQ)
+
+#### 函数
+
++ [跟我学C++中级篇——常函数](https://mp.weixin.qq.com/s/ZYtQPL7_wI8JMEhs_P3siw)
 
 #### 数据结构&算法
 
@@ -265,6 +272,8 @@
 + [C++ STL容器详解：掌握vector、map、set的高效使用技巧](https://mp.weixin.qq.com/s/uRkFZnj7ZZm3RnnJaLEvXw)
 + [C++ STL算法库：全面解析与应用](https://mp.weixin.qq.com/s/1pytTwxeoGnuFwT8IMdjWw)
 + [c++文件和流](https://mp.weixin.qq.com/s/v7lfhJZ3dbqq3EA6-f4rMQ)
++ [C++数学宝典：玩转 <cmath> 库，让你的代码像数学家一样思考！](https://mp.weixin.qq.com/s/iFgysYFwkYgQijlL5vhFJw)
++ [c++时间与日期](https://mp.weixin.qq.com/s/hRnu2Yg_FMTpoPtRz80qXQ)
 
 #### 新特性
 
@@ -293,6 +302,7 @@
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 + [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
++ [函数声明后的“ - >”是什么？](https://mp.weixin.qq.com/s/GWbD_S7ucVjrRrLXN_KFdw)
 
 #### 面向对象
 
@@ -325,6 +335,8 @@
 + [还在无脑用virtual？资深C++专家带你探索4种高性能多态替代方案](https://mp.weixin.qq.com/s/8ueyFVt59YDUcjHtxK7lBg)
 + [C++函数重载：一个函数名，多种姿势干活](https://mp.weixin.qq.com/s/js1ELemkpooKY2vAsxxTDA)
 + [c++面对对象的基石--类](https://mp.weixin.qq.com/s/rwBImx1VHWNrm8QlnMWJSg)
++ [c++继承和多态的关系](https://mp.weixin.qq.com/s/U9rc_qI8gbl1DYujP363cA)
++ [透过汇编看 C++：构造函数](https://mp.weixin.qq.com/s/xwsNVnRrIMVPp2bDb5ZFkQ)
 
 ##### 泛型
 
@@ -341,6 +353,8 @@
 + [C++设计模式之验证环境说明篇](https://mp.weixin.qq.com/s/096j33-MMXPbx3pvG9WDPw)
 + [C++行为型模式之命令模式](https://mp.weixin.qq.com/s/9Grjm5CKBn6s3DHD6ZzOvQ?click_id=75)
 + [C++行为型模式之策略模式](https://mp.weixin.qq.com/s/SF6zLIeibO_8bKrFYC12DA)
++ [C++行为型模式之中介者模式](https://mp.weixin.qq.com/s/QD_I3ckksZj3O_tZbdskfA)
++ [C++行为型模式之解释器模式](https://mp.weixin.qq.com/s/o4F9nHabXeISMxA5CbTnjA)
 
 #### 并发
 
@@ -558,6 +572,7 @@
 + [3个精妙数学算法与精炼的C语言实现](https://mp.weixin.qq.com/s/8FnIk2PUJYo6GJZ5raFfLg)
 + [华为嵌入式开发规范：C语言这10条禁忌千万别碰！](https://mp.weixin.qq.com/s/5q6119i9CFOcZyqFCRqFuw)
 + [链表编码的六重修炼：从指针迷途到禅意境界](https://mp.weixin.qq.com/s/v_k56H77V_nS0i82Jw0Zfw)
++ [谈C编程---分支结构](https://mp.weixin.qq.com/s/i7sCLomz4jPU58NGMUfgRg)
 
 #### 宏
 
@@ -577,6 +592,7 @@
 + [C语言一维数组：从"单身公寓"到"集体宿舍"](https://mp.weixin.qq.com/s/Cx60REV679x_RhuNBxFHUw)
 + [C语言数组基础和高级用法](https://mp.weixin.qq.com/s/7vPNdOnJt1Ah06Tg4EaW1g)
 + [C语言多维数组与指针：行地址怎么“跳”，列地址怎么“跑”？](https://mp.weixin.qq.com/s/di5NNEA-aPw1QNngzgJE-w)
++ [谈C编程---数组](https://mp.weixin.qq.com/s/lzVU1ie-ZFUYmn8hpga0kQ)
 
 #### 结构体
 
@@ -624,6 +640,7 @@
 + [谈C编程---数组作为函数参数](https://mp.weixin.qq.com/s/p9j4OI0rhMMdcjn_O0muuw)
 + [谈C语言---return的用法](https://mp.weixin.qq.com/s/1Sulzqxi285AxtxzPvtsIg)
 + [C语言中的" 回调地狱 "](https://mp.weixin.qq.com/s/MNTNzerlMVes_cuDhHHYkw)
++ [printf函数原理能不能简单点？----小话c语言(2)](https://mp.weixin.qq.com/s/oy0QQY_xOPhxI8hYgT_IMw)
 
 #### 库
 
@@ -735,6 +752,7 @@
 + [嵌入式开发技能：你必须了解的文件系统知识（下）](https://mp.weixin.qq.com/s/NVBJqB0SiSQ-5V29sOXFhw)
 + [从C代码到机器码：嵌入式程序是如何诞生的？](https://mp.weixin.qq.com/s/l1Hkoz9hi6LwejCDTuU8ug)
 + [嵌软面试-基础篇：11-#define宏与const修饰的常量（变量）区别](https://mp.weixin.qq.com/s/hWDSVUX0TSW6jakn7kCBfA)
++ [函数篇-4：压栈与弹栈](https://mp.weixin.qq.com/s/iLZjSVPaoo34ydxmG1PSsw)
 
 # ARM
 

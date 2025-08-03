@@ -224,6 +224,7 @@
 + [为何 async/await 会“阻塞”页面？并发处理的正确姿势](https://mp.weixin.qq.com/s/NG0xv9Hy5OA3-uiT6X2gfw)
 + [JavaScript 异步编程指南：async/await 与 Promise 该怎么选？](https://my.oschina.net/powertoolsteam/blog/18684500)
 + [值得学习的 10 个 代码知识库，助你进阶 JavaScript](https://mp.weixin.qq.com/s/yXOkPetQriE4yHIugGSzqw)
++ [彻底弄懂事件循环机制eventloop](https://mp.weixin.qq.com/s/qjq4r07AEsySFPfGkUDS8w)
 
 # 框架
 

@@ -662,6 +662,7 @@
 + [Java集合框架深度解析：LinkedList vs ArrayList 的对决](https://mp.weixin.qq.com/s/xWxXFeZ26vXCz8p03zZLUA)
 + [真没想到，Java import 语句我也能踩坑](https://mp.weixin.qq.com/s/flV72Gbf0mVvcRvqKoEppQ)
 + [阿里一面：请解释什么是Copy-on-Write（COW）技术？谈谈它在Java并发容器中的应用场景、实现原理及优缺点。](https://mp.weixin.qq.com/s/EF991muqUephV3d9IltA3A)
++ [一个字符，长度为2？揭秘 Java String 的底层编码陷阱](https://mp.weixin.qq.com/s/nYvqFbBgTe0DIPieXs731A)
 
 ### 序列化
 
@@ -855,6 +856,7 @@
 + [面试篇-学习Java多线程编程必备：深入理解volatile与synchronized](https://mp.weixin.qq.com/s/n80YVaWSLxdF1ESbb4Jwug)
 + [Java多线程编程：探究不同的线程间数据通信方式](https://mp.weixin.qq.com/s/bU6dLYLMm0yxGybrSU_dVg)
 + [04-JAVA线程通信](https://mp.weixin.qq.com/s/bvu7j5bmgojlf5uO6ILAHA)
++ [03-线程运行原理](https://mp.weixin.qq.com/s/Hk1cUPC_70_jn-nvPEucTQ)
 
 #### CAS
 
@@ -868,6 +870,7 @@
 + [Java并发编程中的锁（二）JUC包详解之CAS](https://mp.weixin.qq.com/s/mUfZ7B2DmjAxGskn9gOr2A)
 + [深入理解 CAS 自旋锁机制：并发编程的“无锁”奥秘！](https://mp.weixin.qq.com/s/JhKdi_DgwiWyR2xBX7sxUA)
 + [深入理解CAS与原子操作：AtomicInteger性能为何如此之高？无锁编程的基石。](https://mp.weixin.qq.com/s/0-X8shNTmTutoAnCfvHXFg)
++ [并发编程的"无锁秘籍"：Lock-Free数据结构如何让你的系统快如闪电？](https://mp.weixin.qq.com/s/wvNdOzxVKOM9kFtxjgT1Iw)
 
 #### 线程池
 
@@ -1010,6 +1013,7 @@
 + [高并发卡顿？ReentrantLock的AQS用“超市排队”神操作，竟让锁性能飙升！](https://mp.weixin.qq.com/s/6tr5rkYQJlqCpb595Ry0Dg)
 + [java synchronized锁升级详解](https://mp.weixin.qq.com/s/i9dpmjqBVpJ5qVzXXMCkpA)
 + [轻松掌握Java多线程 - 第八章：Lock接口与ReentrantLock](https://mp.weixin.qq.com/s/t6joqIHwznmb5A4PXPbxdg)
++ [高并发编程-深入ReentrantLock-AQS·2](https://mp.weixin.qq.com/s/7KYR34RAkLn9vYF1Y72BKw)
 
 #### volatile
 
@@ -2621,6 +2625,7 @@
 + [Spring事务失效：原因分析与最佳实践](https://mp.weixin.qq.com/s/wdkzAs8f7O4rvXIYRP68LQ)
 + [带你了解一下Spring中的编程式事务](https://mp.weixin.qq.com/s/8xaSLjZ2Kxke5b8DEDOchA)
 + [多线程事务怎么回滚？说用@Transactional可以回去等通知了！](https://mp.weixin.qq.com/s/VJrg9xsGn-kLSmBiWck_Jg)
++ [为什么不推荐滥用@Transactional声明式事务](https://mp.weixin.qq.com/s/yNq6zR96XHY93Ykj2aql5g)
 
 ### Log
 

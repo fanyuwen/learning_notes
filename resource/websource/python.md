@@ -213,6 +213,7 @@
 + [10.Python面向对象编程（OOP）实战指南](https://mp.weixin.qq.com/s/aR1_DysuEN19Z_P8BbiCLg)
 + [python高阶：4、类和对象](https://mp.weixin.qq.com/s/-L-Fvx2xXWBj7SDQ-YpchQ)
 + [为什么 self 与 super() 成了 Python 的永恒痛点？](https://mp.weixin.qq.com/s/F3Z3Plm_ZFH8Vk-n6I1d3A)
++ [Day 11 - 面向对象编程基础](https://mp.weixin.qq.com/s/DiV8HK6FXowfg6Bu8SK-LQ)
 
 ### 核心库/模块
 
@@ -307,6 +308,7 @@
 + [Python编程精进：CSV 模块](https://mp.weixin.qq.com/s/hmnmujmTKS_a0VeFirTp_Q)
 + [Python JSON 模块函数详解](https://mp.weixin.qq.com/s/2EsBkgxW85VjbNoS0q5DxQ)
 + [Python内置模块：Json使用教程](https://mp.weixin.qq.com/s/zsnXLnip78Ekkz4SF6WvAA)
++ [苦练Python第36天：Python的JSON数据处理指南](https://mp.weixin.qq.com/s/DRbbPt6xHcsOVKjzSdf6aw)
 + [Python 路径与模块导入详解](https://mp.weixin.qq.com/s/-j41d2R-nFqlEy0w3GqvxA)
 + [写给前端的 Python 教程十 - 模块和包](https://mp.weixin.qq.com/s/jeqmPXcXk_5BxC3bAoC9Lg)
 + [30天学会Python编程：17.Python标准库高级模块使用介绍](https://mp.weixin.qq.com/s/ILmHEAceuVMi0XQCMo3D7g)
@@ -325,6 +327,7 @@
 + [Python内置模块：datetime基本日期和时间类型编程详解](https://mp.weixin.qq.com/s/i54HkhiY7MBFprqya69ShQ)
 + [Python内置模块：calendar---通用日历相关函数详解](https://mp.weixin.qq.com/s/y_wlgVsn7OxIBVmrlwGlZQ)
 + [Python内置模块：base64使用详解](https://mp.weixin.qq.com/s/Fs-bk12TfN5CQUbrLqkiHQ)
++ [Python内置模块：zoneinfo时区支持详解](https://mp.weixin.qq.com/s/T5ZGA72nhZqaJDUFxeSqYg)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 

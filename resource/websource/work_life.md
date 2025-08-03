@@ -102,6 +102,7 @@
 + [程序员为什么不能一次性写好，需要一直改Bug？](https://mp.weixin.qq.com/s/yVtcW2htvrVsu-Qfk7Lrjw)
 + [程序员为什么工资那么高却不努力工作？](https://mp.weixin.qq.com/s/mwzk9ktWjo0J-u7xbYiqVA)
 + [那些很卷的程序员卷到最后获得了什么？](https://mp.weixin.qq.com/s/30Prk_4pYZCVOnWUSwPTqw)
++ [编程的乐趣：程序员们如何享受编码的过程](https://mp.weixin.qq.com/s/49xn3MTIbYoLeyunPdyaEg)
 
 # 个人成长
 
@@ -178,6 +179,7 @@
 + [进化成更好的人](https://mp.weixin.qq.com/s/Fpz16tjtnyn5U-7hXhlRbg)
 + [独立开发出海，需要点哪些技能树](https://mp.weixin.qq.com/s/wpRVWpSyZD6gzoWGYGLc4A)
 + [如何成为一个优雅的程序员 —— 构建适合自己的学习体系](https://mp.weixin.qq.com/s/2gkAGLr4g2c02JjFNcypLA)
++ [如何判断自己写的是不是"屎山"代码？](https://mp.weixin.qq.com/s/LajnV1-7oUAFjMTeAJT6lA)
 
 ## 视频
 

@@ -95,6 +95,10 @@
 + [Rust所有权：别再死记硬背了！把智能指针当“玩具”玩，三巨头(Box, Rc, RefCell)让你秒懂内存管理](https://mp.weixin.qq.com/s/RefYCfrJj8LcXlWHzmJ5oA)
 + [还在死磕 Rust 生命周期？搞懂 'a' 的真正含义，悄悄卷赢所有同事](https://mp.weixin.qq.com/s/OHqNKCUbpB7AlgZ94lL0Dg)
 + [Rust 中 Self 引发的对象安全迷局：方法返回类型的禁忌](https://mp.weixin.qq.com/s/UhBMbAsnWwvDNSiN3CYKIg)
++ [Rust 中的 Builder 模式：打造优雅的实体构建体验](https://mp.weixin.qq.com/s/wbbCJEW-p9QJ7V6J6-VWaQ)
++ [Rust为什么需要Borrow Trait](https://mp.weixin.qq.com/s/ktDIU7KrRpt3wTtFrKSwqQ)
++ [Arc 安全吗？差点搞垮我们的 Rust 后端](https://mp.weixin.qq.com/s/_1zdOF-CxrIx9uJgkTSe4g)
++ [征服Rust并发：Arc、Mutex、Channel三大护法，让你的代码从此刀枪不入！](https://mp.weixin.qq.com/s/LVjMusfma3Ti-LyuwfW6VA)
 
 # 框架
 
@@ -159,3 +163,5 @@
 + [从 Rust 模块化探索到 DLB 2.0 实践｜得物技术](https://my.oschina.net/u/5783135/blog/18684148)
 + [Rust 高级编程技术](https://mp.weixin.qq.com/s/y7QbtgspZiZQJ0IICYBF8w)
 + [Rust：资深开发者梦想语言？](https://mp.weixin.qq.com/s/rGN7GGX9mWSZmauX7yN5jw)
++ [Rust的安全神话？数据库CEO为何在关键系统中仍选C++](https://mp.weixin.qq.com/s/53Em59OJeZExl8-0dgtZ7Q)
++ [Rust新作！这位开发者二次打磨的ML库真香了](https://mp.weixin.qq.com/s/yAfCHEURkVtq8msihiSmJA)

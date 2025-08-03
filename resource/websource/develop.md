@@ -469,6 +469,7 @@
 + [这几种面试必问负载均衡算法能手撕几种？](https://my.oschina.net/workit/blog/18684798)
 + [熔断策略设置错了，系统分分钟崩溃？超时时间+错误率阈值实战指南！](https://mp.weixin.qq.com/s/BzovBXXGpjfMuRps2dGwZQ)
 + [高并发解决方案（缓存， 限流， 降级）](https://mp.weixin.qq.com/s/Z4FXW0TROa5fXEmOMf55FA)
++ [漏桶算法vs令牌桶算法，限流到底用哪个？原理+实现深度解析！](https://mp.weixin.qq.com/s/9eANd4zOsDtA-mUvSuZZYw)
 
 ### 大文件IO
 

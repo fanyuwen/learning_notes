@@ -97,6 +97,9 @@
 + [字节高频面试题：如何高效获取两个List的交集元素？](https://mp.weixin.qq.com/s/2M4Dkq6X5x8TSaJSpMLRNg)
 + [详述背包问题（DP）：从生活场景到代码实现](https://mp.weixin.qq.com/s/kzKzNU_DqLWActUp0UBqHg)
 + [动态规划详解](https://mp.weixin.qq.com/s/3j2x3CT9yvzy3XCutYTt_g)
++ [从扔鸡蛋问题，看神奇的动态规划](https://mp.weixin.qq.com/s/zvvCgHzwJ4EdA3VtaFDPWw)
++ [算法：什么是DP问题？](https://mp.weixin.qq.com/s/Y7zkpOXLEii_xlteNVMcJg)
++ [如何理解动态规划DP问题特性](https://mp.weixin.qq.com/s/tHLKyhTRQX8FlpKfFywD7Q)
 
 ## Graph
 
@@ -196,6 +199,7 @@
 + [还得是微信，腾讯一面算法原题](https://mp.weixin.qq.com/s/GpNIZ3oseXjw_INnW3ogVw)
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
++ [【力扣】两数相加](https://mp.weixin.qq.com/s/UeotTtUX3oWtJ8ibiDPMgw)
 + [LeetCode热题100之滑动窗口](https://mp.weixin.qq.com/s/JpyGdk21igFCf28ddHtHEA)
 + [剑指offer-1、⼆维数组中的查找](https://mp.weixin.qq.com/s/UDyGhrpgG3LZpE3JWQaFGg)
 + [剑指offer-8、跳台阶](https://mp.weixin.qq.com/s/JZU8w5Zp42JcWnMcR7P6Yg)

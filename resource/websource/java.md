@@ -3126,6 +3126,7 @@
 + [性能翻倍不是梦！手把手带你拆解 Spring Boot 中的 Deflate 压缩实现](https://mp.weixin.qq.com/s/3qTomjz3iYWAtGyJPd99rg)
 + [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)
 + [EnvironmentPostProcessor：启动前环境定制的利器](https://mp.weixin.qq.com/s/0dLhnUer7X5t1oO90-goRA)
++ [开启 IDE 智能提示：解锁 Spring Boot 配置增强器](https://mp.weixin.qq.com/s/CqObp8nB1LW3pNjL4Xvw9Q)
 
 #### 版本特性
 

@@ -39,6 +39,7 @@
 + [CMake引用自己开发第三方库](https://mp.weixin.qq.com/s/D0VVIWl0iE2B9z676SxQbw)
 + [Modern CMake：构建规范化的C++工程，从放弃“学生范CMakeLists”开始](https://mp.weixin.qq.com/s/zCtwuvHB3MlbGbpawsfOjQ)
 + [C++项目构建之二 初识cmake](https://mp.weixin.qq.com/s/FOn7Cnti0yqYbDEh-O8S_A)
++ [C++项目构建之四 cmake中的宏](https://mp.weixin.qq.com/s/TFyPiytJ8cB9nNIpP6s_gA)
 
 ### 第三方技术
 
@@ -91,6 +92,11 @@
 + [深入解析C++中的进制转换：原理实现与应用](https://mp.weixin.qq.com/s/8Bxdqp-3MZ_TYExWNREZPg)
 + [C++基础入门——5. 关系运算与逻辑运算](https://mp.weixin.qq.com/s/n0PeeomYnXyG8HIKOaIhqA)
 + [C++中的for循环：从原理到实战](https://mp.weixin.qq.com/s/6V06YT1FMymO75ETMIsxMw)
++ [新手BUG：函数中 static 变量的赋值语句只会执行一次](https://mp.weixin.qq.com/s/uEKpBzqNZhNsbtQIgnGFmQ)
++ [C++中static全局变量似乎可以跨文件](https://mp.weixin.qq.com/s/2VTZVNegnhl5e-N28jF8nA)
++ [c++字面量](https://mp.weixin.qq.com/s/VsmWaatd-q0y2hCbvhUIXA)
++ [C++竞赛编程：写出高效循环的5个黄金法则（CSP/NOIP必看）](https://mp.weixin.qq.com/s/CZFYI40Md9rgp2gQlNYN4w)
++ [全维度掌握 C++ 中的 while 语句：从语法到竞赛实战](https://mp.weixin.qq.com/s/lCJU-B2nm5_fnsA6R-euhQ)
 
 ### 高阶
 
@@ -212,6 +218,7 @@
 + [C++性能优化：分支预测](https://mp.weixin.qq.com/s/wLxbEHNBkygNj93g9jI9GQ)
 + [C++输入输出全攻略：从基础到高级技巧](https://mp.weixin.qq.com/s/LPptThpGnRteDiPT6RL77g)
 + [为什么C++老程序员都爱用仿函数？看完你也能轻松写出高性能“状态管理”代码！](https://mp.weixin.qq.com/s/ywruwbNRKUkr9XWwwum5Zw)
++ [C++进阶1——右值引用和完美转发](https://mp.weixin.qq.com/s/FTi0TIvqRYRt2fMizTSd1g)
 
 #### 指针
 
@@ -284,6 +291,7 @@
 + [c++时间与日期](https://mp.weixin.qq.com/s/hRnu2Yg_FMTpoPtRz80qXQ)
 + [《vector底层的实现，可能和你想的不一样》](https://mp.weixin.qq.com/s/SklLmODyXLvObRRFTGvrcg)
 + [C++11基础之std::function](https://mp.weixin.qq.com/s/ZbGwFs2E3pNDAuoPQaaAdQ)
++ [C++基础之字符串类string](https://mp.weixin.qq.com/s/-5BJUUru--67-xWOzEy9sA)
 
 #### 新特性
 
@@ -313,6 +321,7 @@
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 + [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
 + [函数声明后的“ - >”是什么？](https://mp.weixin.qq.com/s/GWbD_S7ucVjrRrLXN_KFdw)
++ [C++11：weak_ptr的设计哲学（观察而不拥有）](https://mp.weixin.qq.com/s/GWzf0CJnYAZX7Yu6YtrajQ)
 
 #### 面向对象
 
@@ -352,6 +361,7 @@
 ##### 泛型
 
 + [C++模板：告别重复造轮子，拥抱泛型编程](https://mp.weixin.qq.com/s/u4GI27tLjo7waFiBRoUF2w)
++ [C++11+ 泛型编程（模板）](https://mp.weixin.qq.com/s/uGCkjU6vsiaYrIfzD-GOSQ)
 
 ##### 设计模式
 
@@ -396,6 +406,7 @@
 + [十分钟实用教程 | 双缓冲与Stacktrace：C++多线程与调试的高效实践](https://mp.weixin.qq.com/s/hb0kB3s28_jjJMN74UtaGQ)
 + [C++ 协程](https://mp.weixin.qq.com/s/Vqy3IRHEPbSZ1mtWsdGwug)
 + [std::atomic 实现无锁队列](https://mp.weixin.qq.com/s/TY0Dc9Kn92t-N5vbC-jT7A)
++ [条件变量：多线程同步的核心机制详解](https://mp.weixin.qq.com/s/aM_Dr2jAYJDt2Ey9fbN1dw)
 
 #### 扩展
 
@@ -403,6 +414,7 @@
 + [用 C++ 打造高性能日志系统：压缩、加密、线程池全都安排上了！](https://mp.weixin.qq.com/s/IKlFEvBItO-AYDjCl5VZAw)
 + [高内聚与低耦合的嵌入式软件组件设计](https://mp.weixin.qq.com/s/4GTXGdiUfB-O0ef1JIcoXA)
 + [智能硬件开发中的C++编程实践](https://mp.weixin.qq.com/s/fzb9_b7BEGVQLhGpVMWq-g)
++ [Linux下C++编程使用动态链接库](https://mp.weixin.qq.com/s/-tiS_o-907y6KFZLAO7Bag)
 
 #### 三方库
 
@@ -482,6 +494,7 @@
 
 + [01_第一个C语言程序](https://mp.weixin.qq.com/s/-JG2o6Hp0H44GwSH5jE5Ug)
 + [【C语言】C语言文件知识全讲解](https://mp.weixin.qq.com/s/S23IzQ7rJfdgD4PzYA7QOw)
++ [C语言基础知识讲解三：让程序学会做选择](https://mp.weixin.qq.com/s/VIfBRB2HY5TjRnqBj6T2vQ)
 + [编程语言那么多，为何C语言能成为最成功的语言？](https://mp.weixin.qq.com/s/qmZxbIbPfFk9oHP7E779bg)
 + [C语言开发必备：这些神奇的宏定义让你的代码飞起来！](https://mp.weixin.qq.com/s/ChojNZdFxuP7T6JKfmsMQA)
 + [我的C语言之路：4-使用C语言的7个步骤](https://mp.weixin.qq.com/s/w9Cf4L0MlbaHAnd4uMcSRA)
@@ -530,6 +543,7 @@
 + [谈C编程---字符串](https://mp.weixin.qq.com/s/Ow_wxmLr0YHRMiaS9I9v9w)
 + [谈C编程---循环控制](https://mp.weixin.qq.com/s/PMAurhsHnEpVV83q85aJzQ)
 + [C语言if、else分支控制结构详解](https://mp.weixin.qq.com/s/d88jykazutUiESVmDYtS8Q)
++ [谈C编程---volatile关键字](https://mp.weixin.qq.com/s/Jj1an8N2AAjMPoxuB47Wyg)
 
 ### 高阶
 
@@ -592,6 +606,7 @@
 + [谈C编程---分支结构](https://mp.weixin.qq.com/s/i7sCLomz4jPU58NGMUfgRg)
 + [杂项(C数据存储)](https://mp.weixin.qq.com/s/XgfQCh4cRSoEYtjgZ0yMzA)
 + [数据结构之图的最小生成树Prim算法C语言实现](https://mp.weixin.qq.com/s/wAiqQuXtx6YVwWe4bzdP0w)
++ [谈C编程---黄金分割点的应用](https://mp.weixin.qq.com/s/6BBA4PHA4qHA5KwpjJ47-w)
 
 #### 宏
 

@@ -471,6 +471,7 @@
 + [第十章：高级特性与性能优化](https://mp.weixin.qq.com/s/kB4HN0ogIrwW9tPTpPtr9Q)
 + [Java Bean内省机制](https://mp.weixin.qq.com/s/7aFhMSAxVMZt7VCBFyVEOg)
 + [Java开发效率低？学会Lambda表达式，代码量直接减半！](https://mp.weixin.qq.com/s/bENxsdI-Li4C-fxH0ffnxg)
++ [150. Java Lambda 表达式 - Supplier 接口](https://mp.weixin.qq.com/s/eMQhlZvQwGOXPfNxC23log)
 
 ## 代码质量
 
@@ -663,6 +664,7 @@
 + [真没想到，Java import 语句我也能踩坑](https://mp.weixin.qq.com/s/flV72Gbf0mVvcRvqKoEppQ)
 + [阿里一面：请解释什么是Copy-on-Write（COW）技术？谈谈它在Java并发容器中的应用场景、实现原理及优缺点。](https://mp.weixin.qq.com/s/EF991muqUephV3d9IltA3A)
 + [一个字符，长度为2？揭秘 Java String 的底层编码陷阱](https://mp.weixin.qq.com/s/nYvqFbBgTe0DIPieXs731A)
++ [为什么 foreach 删不掉 Java 集合元素？反而抛出异常？](https://mp.weixin.qq.com/s/I8sqKyDkJQgNjpdXPhxn9A)
 
 ### 序列化
 
@@ -1778,6 +1780,7 @@
 + [Maven 依赖范围详解：减少不必要的依赖冲突以及提高项目的可维护性](https://mp.weixin.qq.com/s/NmoKs3zLWkjdleREEeUHRg)
 + [Maven：如何在 Maven 中自动使用依赖的最新版本，解决手动升级依赖的繁琐的工作](https://mp.weixin.qq.com/s/-Jz50RMyprvmEFQbD2Ofhg)
 + [Maven常用命令合集，记得收藏！](https://mp.weixin.qq.com/s/mqrUtvIxQSoZBapuvYF0IA)
++ [maven(高级maven配置)](https://mp.weixin.qq.com/s/uq7hzEFJN0ZGftNvTMch6Q)
 
 # 功能
 
@@ -2052,6 +2055,7 @@
 + [Java面试题012：一文深入了解Mybatis原理2](https://mp.weixin.qq.com/s/SxVqydoqPsD9y6V8FLj81A)
 + [MyBatis拦截器在服务内存防护场景中的应用](https://mp.weixin.qq.com/s/PO28N-3GuvxqWN2FvVal6A)
 + [MyBatis 的 SQL 拦截器：原理、实现与实践](https://mp.weixin.qq.com/s/sMOX1M_LxfjlieXxz-7sXA)
++ [MyBatis：不要拿数字和字符串比较，有坑](https://mp.weixin.qq.com/s/4hHtvURQUWBxC5llWaGR7A)
 
 ### plus
 
@@ -2423,6 +2427,7 @@
 + [Spring循环依赖：详解为什么不采用二级缓存直接存放getEarlyBeanReference的调用结果？](https://mp.weixin.qq.com/s/xPAaCXLL0xt3Yry8sOgjww)
 + [详解Spring解决循环依赖实现原理](https://mp.weixin.qq.com/s/rxbu-IN3135458yaJ9lLKw)
 + [Spring容器深度扩展点：postProcessBeanFactory详解](https://mp.weixin.qq.com/s/AfOH1P1BKD9dCVOgV0qDJw)
++ [Spring @Bean解密：`static`与非`static`方法的微妙之差与正确用法](https://mp.weixin.qq.com/s/0HOkVMVOu4H0imET3XMijg)
 
 ### 新版本新特性
 
@@ -4461,6 +4466,7 @@
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
++ [从跨语言角度看模式匹配（Java、Kotlin、Python）](https://mp.weixin.qq.com/s/LzvzoPsLpkfnLYKqBsOPkQ)
 + [深入浅出AST：如何用树形结构解构代码逻辑](https://mp.weixin.qq.com/s/SzfQoumtAwQgfeuE7sZctg)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
 + [JAVA：柔性一致性策略 BASE 原则](https://mp.weixin.qq.com/s/NXSy1oKE5LaBlodYJL5GbA)

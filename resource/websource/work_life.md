@@ -483,6 +483,7 @@
 + [熟悉Markdown常见用法，文理科笔记神器](https://mp.weixin.qq.com/s/pZmBQD-NrIHTLZKDJYsCEw)
 + [Markdown用法续集，轻松展示地铁路线图](https://mp.weixin.qq.com/s/3RSIYq0jml3CKEIa4m-J-Q)
 + [Markdown公式编辑——常用上下标表示方法](https://mp.weixin.qq.com/s/qbRDzT5nsvJvG2xREOfdsg)
++ [关于Markdown的一点疑问，为什么很多人说markdown比word好用？](https://mp.weixin.qq.com/s/ohHSJdx7zvfeWL8j5I-ZcA)
 
 ### 学习资源
 

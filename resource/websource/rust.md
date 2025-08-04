@@ -105,6 +105,8 @@
 + [厌倦样板代码？用 Rust 过程宏自动生成！](https://mp.weixin.qq.com/s/9QclkNzAo1_fU5B504CqiQ)
 + [Rust内卷终极指南：5个让同事“高攀不起”的Trait与泛型骚操作](https://mp.weixin.qq.com/s/D3B4AUIYxTdIe315bYCNkg)
 + [Rust借用检查器深度解析：从“劝退”到“真香”的核心保镖](https://mp.weixin.qq.com/s/yo63e5ASMEfPD7xTDFbZNw)
++ [Rust：当安全设计成为效率的代价](https://mp.weixin.qq.com/s/ArEmLgiSQiMwZwLYZWRv3g)
++ [Rust 做底层实现的高效 Python 库](https://mp.weixin.qq.com/s/WbriB7kPxQDKO6oPLsMTsg)
 
 # 框架
 

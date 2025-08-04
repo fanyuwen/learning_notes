@@ -78,4 +78,79 @@ a = A()
 #运行时这行将会报错,`AttributeError`
 a.ssss = 12
 ```
+### 类型系统
 
+#### 泛型
++ 泛型函数
+```python
+# 导入TypeVar类型
+from typing import TypeVar, List
+# 创建一个泛型类型
+T = TypeVar('T')  # 声明类型变量
+# 定义一个接受元素类型为T的List,返回T类型,支持所有类型
+def first_element(items: List[T]) -> T:
+    return items[0]
+
+# 使用
+numbers: List[int] = [1, 2, 3]
+print(first_element(numbers))  # 正确，返回int
+
+strings: List[str] = ["a", "b", "c"]
+print(first_element(strings))  # 正确，返回str
+```
++ 泛型类
+```python
+# 导入泛型类型和泛型变量
+from typing import Generic, TypeVar
+# 创建泛型类型
+T = TypeVar('T')
+# 继承泛型为T的Generic类型,T在实际可以为任何类型
+class Box(Generic[T]):
+    def __init__(self, content: T):
+        self.content = content
+    
+    def get_content(self) -> T:
+        return self.content
+# python3.9及以上简洁了语法
+class Box1[X]:
+    def __init__(self, content: X):
+        self.content = content
+    
+    def get_content(self) -> X:
+        return self.content
+
+# 使用
+int_box: Box[int] = Box(123)
+str_box: Box[str] = Box("hello")
+```
++ 泛型约束
+```python
+from typing import TypeVar
+# 限定类型
+# 限制T只能是int或str
+T = TypeVar('T', int, str)
+
+def double(value: T) -> T:
+    return value * 2
+
+print(double(3))  # 6
+print(double("x"))  # "xx"
+# double([1])  # 类型检查器会报错
+
+# 限定类型上界
+from numbers import Number
+N = TypeVar('N', bound=Number)  # 必须是Number的子类
+
+def add(a: N, b: N) -> N:
+    return a + b
+
+print(add(3, 5))  # 8
+print(add(3.5, 2.1))  # 5.6
+# add("a", "b")  # 类型检查器会报错
+
+# 逆变和协变
+# 协变 (covariant)
+T_co = TypeVar('T_co', covariant=True)
+# 逆变 (contravariant)
+T_contra = TypeVar('T_contra', contravariant=True)
+```

@@ -190,6 +190,7 @@
 ## 组合模式
 
 + [实战设计模式之组合模式](https://mp.weixin.qq.com/s/ueYZx_1BK3flYNEqrIYcNg)
++ [简易设计模式：结构型设计模式之【组合模式】](https://mp.weixin.qq.com/s/DhIcSU7QHXGPE6YtV8k64Q)
 
 ## 备忘录模式
 

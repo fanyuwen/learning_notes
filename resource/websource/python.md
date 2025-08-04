@@ -47,6 +47,7 @@
 + [foreach循环的解构赋值与序列迭代](https://mp.weixin.qq.com/s/2pN99zzGRO9YLAFSubX-aQ)
 + [Python try语句](https://mp.weixin.qq.com/s/Z3DGUzozOci8Hk5-imKDUQ)
 + [11 个 Python 循环技巧](https://my.oschina.net/u/4526289/blog/11059478)
++ [苦练Python第11天：循环控制——break、continue 和 pass](https://mp.weixin.qq.com/s/eHzdCyL1d1L7iL9n0TTjnw)
 + [用while循环处理文件读写](https://mp.weixin.qq.com/s/7DqcJVvIOyu0GFHPDveojQ)
 + [99% 的人都不知道，哪种 Python 循环最快？](https://mp.weixin.qq.com/s/_-aW6WPJxcO_mLLdGg2sYQ)
 + [从菜鸟到高手：掌握这12个 Python 循环优化技巧](https://mp.weixin.qq.com/s/T4NH0v9S5SKq083I-6DO1g)
@@ -96,6 +97,9 @@
 + [Python的Any类型详解](https://mp.weixin.qq.com/s/3AZbt2JfTr1vobTYm-1yeg)
 + [提升Python代码质量的Bound类型约束方法](https://mp.weixin.qq.com/s/hM5e-WmA97pAhvBSeROyeg)
 + [Python笔记06 循环语句while循环、for循环、循环控制语句break与continue](https://mp.weixin.qq.com/s/ri_5QnrGBXiCeHx6Kcm_tg)
++ [Python的向上取整除法](https://mp.weixin.qq.com/s/qAsecxFmJXFULPBR72Nhng)
++ [Python转义字符](https://mp.weixin.qq.com/s/Y9_4YO35piuDPuz-NHGXvg)
++ [海象操作符=：Python社区为何差点因它分崩离析？](https://mp.weixin.qq.com/s/T0lixlZw6yfkK_gaKqBXtA)
 
 ### 函数/方法
 
@@ -319,6 +323,7 @@
 + [苦练Python第32天：Python百宝箱，collections模块5大杀器](https://mp.weixin.qq.com/s/0_Un9GZ5f-QUM8ZBzC7a3w)
 + [Python内置模块：filecmp文件与目录比较编程笔记](https://mp.weixin.qq.com/s/eoLWEVz8l1-JckTZH_zVWQ)
 + [Python输入输出函数完全指南：从基础到实战的开发必备技能](https://mp.weixin.qq.com/s/Goc474bKtiTKX59b2rkgFg)
++ [Python内置模块：collections --- 容器数据类型原理与使用详解](https://mp.weixin.qq.com/s/xEbsp8XFflSuoDBM36SQ5w)
 + [Python内置模块：shutil使用详解](https://mp.weixin.qq.com/s/u9XcftjbtceoWWoE1spR6w)
 + [Python内置模块：array使用详解](https://mp.weixin.qq.com/s/4PjP5VGZ5Ro1p5EKdHUhxQ)
 + [Python内置模块：struct -将字节串解读为打包的二进制数据](https://mp.weixin.qq.com/s/y59NuQKTVo2vhGdMJDU9jg)
@@ -330,6 +335,7 @@
 + [Python内置模块：base64使用详解](https://mp.weixin.qq.com/s/Fs-bk12TfN5CQUbrLqkiHQ)
 + [Python内置模块：zoneinfo时区支持详解](https://mp.weixin.qq.com/s/T5ZGA72nhZqaJDUFxeSqYg)
 + [Python内置模块：platform访问底层平台的标识数据详解](https://mp.weixin.qq.com/s/4JfszIbHEqlxzA5u6tY_Aw)
++ [Python内置模块：numbers--- 数字抽象基类详解](https://mp.weixin.qq.com/s/E89YkwPG-6aTGl_ySvBNEA)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 + [Python内置类型：集合编程指南](https://mp.weixin.qq.com/s/gYM_sP3creulCAfBlC6bIA)
@@ -388,6 +394,7 @@
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python编程精进：小技巧分享](https://mp.weixin.qq.com/s/ZFMVoPSr-UdqOpkMUe2BKA)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [13.Python的文件与IO操作：从基础到实战](https://mp.weixin.qq.com/s/hYh4lcsDjEhPDnz5fb9hUA)
 + [Python进阶之路：第十六章 文件读写实战，一次掌握打开、读取与保存技巧！](https://mp.weixin.qq.com/s/3t8iURCJ1OH0QcZvUCw9vA)
 + [Python文件及IO操作：轻松掌握文件读写](https://mp.weixin.qq.com/s/lCzb_1rnRuCNkm4Vy6SMRg)
 + [苦练Python第31天：enumerate、zip与元组解包](https://mp.weixin.qq.com/s/VYXwQP-qjH2UcNUCyAtTtw)
@@ -727,6 +734,7 @@
 + [Python第46期-测试类，先来个例子](https://mp.weixin.qq.com/s/trsvGfCpa2rSsEU9hOJqpQ)
 + [Python编程如何轻松操控操作系统？这10个命令让你事半功倍！](https://mp.weixin.qq.com/s/N_Owz14RFm8m362JoDocCg)
 + [懂了，if __name__ = = "__main__":](https://mp.weixin.qq.com/s/cRK6p5sZ0lmV0tto79uyow)
++ [Python 下划线用法盘点：从 _ 到 __name__](https://mp.weixin.qq.com/s/-wdiD9mWVpfBTOkkZSonBQ)
 
 ## 新特性
 

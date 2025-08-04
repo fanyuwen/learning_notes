@@ -229,6 +229,7 @@
 + [Java 15新特性：文本块，代码书写的新利器](https://mp.weixin.qq.com/s/D-Atg73J2JSqeEwvhexmHA)
 + [Java 16纪录类：告别繁琐，让代码起飞](https://mp.weixin.qq.com/s/j_MOYaQ8yEbeV26nGe6JAg)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
++ [JDK17神仙语法让代码优雅到飞起](https://mp.weixin.qq.com/s/-Ay2re7relzMKP-50Lm-Pg)
 + [Java 1.8 仍在流行？是时候升级到 JDK 21 了！](https://mp.weixin.qq.com/s/FMvGBS6AczrGr4sqsFJ6Hg)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
 + [JDK 21 虚拟线程：Java 并发编程的新飞跃](https://mp.weixin.qq.com/s/_3He7LnKlC6exokJAMDvOA)
@@ -560,6 +561,7 @@
 + [CTO：谁在项目中使用Arrays.asList、ArrayList.subList，就立马滚蛋！](https://mp.weixin.qq.com/s/KGTVkZtXh3pW-L1za2h5pA)
 + [还在用 new 创建对象？《Effective Java》这 3 个技巧让代码瞬间变优雅](https://mp.weixin.qq.com/s/pm-guPMifWzE9zoqGhcI2w)
 + [类设计没做好？《Effective Java》这 5 条原则让代码少踩坑](https://mp.weixin.qq.com/s/Bfp8qDkof2jt9inobPFszA)
++ [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/HqCFA_QNfAAacal7lbVuXQ)
 
 # 底层
 
@@ -2592,6 +2594,7 @@
 + [大厂都在用的批处理框架：Spring Batch零基础速成指南，效率飙升500%！](https://mp.weixin.qq.com/s/x3ASf9q3-rLa0H5wuefwkA)
 + [Spring Batch 秒级处理百万级数据，内存占用降低95%](https://mp.weixin.qq.com/s/cRdxd9_2_L05cBrV1kp95g)
 + [别再手写批处理了！Spring Batch 让数据处理效率飙升 10 倍](https://mp.weixin.qq.com/s/q4hKOvP3RrNB5LHS5ExOgA)
++ [绝了！Spring Batch 百万数据分区处理，仅需5秒搞定](https://mp.weixin.qq.com/s/z-ltHYU1Kz8sxy2J5D5CJw)
 
 #### TRANSACTION
 

@@ -101,6 +101,7 @@
 + [算法：什么是DP问题？](https://mp.weixin.qq.com/s/Y7zkpOXLEii_xlteNVMcJg)
 + [如何理解动态规划DP问题特性](https://mp.weixin.qq.com/s/tHLKyhTRQX8FlpKfFywD7Q)
 + [【Y言蔽之】二分搜索中的边界条件与实现模式](https://mp.weixin.qq.com/s/pA1GFZOUfsK2r0LZQ95KBA)
++ [分而治之：解锁分治算法的强大威力](https://mp.weixin.qq.com/s/pAAq7OFZlqcKlydZQo39Hw)
 
 ## Graph
 
@@ -150,6 +151,7 @@
 + [数据结构之树结构—二叉搜索树的定义和构造](https://mp.weixin.qq.com/s/dUeS1tcSZI3ECVeFG1o8OA)
 + [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
 + [B 树与 B + 树：区别、原理及优劣势分析](https://mp.weixin.qq.com/s/5A1Pb86Pt7ihPzM6sxJMYg)
++ [【数据结构】可持久化线段树（一）](https://mp.weixin.qq.com/s/ehckJzExqCx_yGFROPbJyg)
 
 ## 排序算法
 
@@ -202,6 +204,7 @@
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
 + [【力扣】两数相加](https://mp.weixin.qq.com/s/UeotTtUX3oWtJ8ibiDPMgw)
++ [【力扣】二叉树的锯齿形层序遍历](https://mp.weixin.qq.com/s/zICBPZYuEXMjdXauEEKaFw)
 + [LeetCode热题100之滑动窗口](https://mp.weixin.qq.com/s/JpyGdk21igFCf28ddHtHEA)
 + [LeetCode热题100之链表II](https://mp.weixin.qq.com/s/3vDknXG1miLd-jWT1BqosA)
 + [Leetcode 剑指 Offer II 138.有效数字](https://mp.weixin.qq.com/s/sdXGwwNuRoGNKJ0tjS_7bg)

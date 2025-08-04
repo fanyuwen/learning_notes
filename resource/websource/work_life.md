@@ -104,6 +104,9 @@
 + [那些很卷的程序员卷到最后获得了什么？](https://mp.weixin.qq.com/s/30Prk_4pYZCVOnWUSwPTqw)
 + [编程的乐趣：程序员们如何享受编码的过程](https://mp.weixin.qq.com/s/49xn3MTIbYoLeyunPdyaEg)
 + [如何才能写好代码？——职场生存指南](https://mp.weixin.qq.com/s/ry7owuVJAhxEcZTOqaSSkQ)
++ [每日一问！为什么硬件工程师离职率低到离谱？真相揭秘](https://mp.weixin.qq.com/s/QlgZxRU2MP0SRHEXPWLk5Q)
++ [35岁后被“优化”？大龄程序员的破局之道：别让技术成为唯一的底牌](https://mp.weixin.qq.com/s/aV49op6kNDSa5PUXD2GYXQ)
++ [35岁失业后，你至少还有3条路可以走](https://mp.weixin.qq.com/s/IT7ZwbbBzBTH33atmF8ZBA)
 
 # 个人成长
 

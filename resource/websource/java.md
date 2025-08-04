@@ -860,6 +860,7 @@
 + [04-JAVA线程通信](https://mp.weixin.qq.com/s/bvu7j5bmgojlf5uO6ILAHA)
 + [03-线程运行原理](https://mp.weixin.qq.com/s/Hk1cUPC_70_jn-nvPEucTQ)
 + [02-线程状态以及基础线程API使用](https://mp.weixin.qq.com/s/anyeD3_LkUnuPTEEcKCFEg)
++ [JUC-15 -- 线程安全的集合类](https://mp.weixin.qq.com/s/H9ntYCKyZ-h5uhNXeaRrkg)
 
 #### CAS
 
@@ -930,6 +931,7 @@
 + [线程池参数到底怎么配？一文吃透实战调优 + Hippo4j 动态设置](https://mp.weixin.qq.com/s/EQfuqoQLp1puLKAGSfFkFw)
 + [Java线程池技术在餐厅运营模式中的技术映射](https://mp.weixin.qq.com/s/WzCEDBBzKzT3UxoGeUWkTg)
 + [线程池的工作原理及其在业务中的实践](https://mp.weixin.qq.com/s/ct82CAwIVq94irvYcdmErQ)
++ [07-线程池之ForkJoinPool](https://mp.weixin.qq.com/s/pmFS43qB5VTgMfMWa_pbUg)
 
 #### 锁
 
@@ -1212,6 +1214,7 @@
 + [双亲委派：JVM 里那个“先问爸爸”的类加载套路](https://mp.weixin.qq.com/s/PeyKjPjumLCSimBqCyxIQA)
 + [JVM-类加载机制](https://mp.weixin.qq.com/s/3djdytL6TudyHwCZg07cCQ)
 + [运行时报错“类找不到”？先分清是ClassNotFoundException还是NoClassDefFoundError！](https://mp.weixin.qq.com/s/vL2XaoXP5oOkGcaSZI01iw)
++ [JVM 面试必会（1）—— 类加载机制](https://mp.weixin.qq.com/s/qIjslNrsA2OCWhAAd4k_Eg)
 
 ### GC
 
@@ -1368,6 +1371,7 @@
 + [List创建的五种方式](https://mp.weixin.qq.com/s/qLDNnm925nYxS63TjbU15w)
 + [Java集合--LinkedList源码可视化](https://mp.weixin.qq.com/s/CEpTaNSpCEbf4OYuTEtXbA)
 + [Java面试实战系列【集合篇】-ArrayList源码深度解析](https://mp.weixin.qq.com/s/urNd2DIcUU-tCYHzwMhxVg)
++ [ArrayDeque双端队列--底层原理可视化](https://mp.weixin.qq.com/s/jKt7IidUNDh8N0INrqsV3A)
 
 #### map
 
@@ -1487,6 +1491,7 @@
 + [CompletableFuture的get()和join()：如何避免阻塞时的异常灾难？](https://mp.weixin.qq.com/s/XpLalnfVKL9VnjwTQl2aqw)
 + [Java异步编程实战：CompletableFuture的线程池配置与性能优](https://mp.weixin.qq.com/s/XeokE0BU15yHzTXS7tRlEA)
 + [Future和CompletableFuture的区别是什么?](https://mp.weixin.qq.com/s/EBBkeNT2WJX-VmTzPRoIsw)
++ [Function 与 CompletableFuture 的组合使用指南](https://mp.weixin.qq.com/s/Ir0ZC9WZ6nQVjK0HChP1-g)
 
 ### ThreadPool
 
@@ -1849,6 +1854,7 @@
 + [聊聊Druid连接池的内部原理及推荐配置](https://mp.weixin.qq.com/s/PjJNLx5LQFUM8AXMl665mQ)
 + [HikariCP 与 Druid：Java 数据库连接池的深度剖析](https://mp.weixin.qq.com/s/_ncP6evWfutEvzR2L7DU2Q)
 + [连接池玄冰甲！HikariCP调优避免数据库雪崩](https://mp.weixin.qq.com/s/S43t0dlxDWnIC4P2wbtKmw)
++ [dynamic-datasource 4.3.1 实现原理与深度避坑指南](https://mp.weixin.qq.com/s/hPaTemlrCBxg_2xb1trorg)
 
 ## disruptor
 
@@ -4283,6 +4289,7 @@
 + [TestableMock：解锁Java单元测试的Mock能力](https://mp.weixin.qq.com/s/OvZOjkxRoYUxmVyUT4MfZA)
 + [Selenium - 自动化测试的王者，Web应用测试的Python库！](https://mp.weixin.qq.com/s/GGudgAAYE4I-REos4rTDuQ)
 + [单元测试生存指南：如何写出稳如泰山的单元测试代码](https://mp.weixin.qq.com/s/TmxoKQ_i6nWNvdwHj_p2HA)
++ [第十二章：测试、部署与实际应用](https://mp.weixin.qq.com/s/qQ68UOEPTppp6wIHmMpkjw)
 
 ### jmeter
 

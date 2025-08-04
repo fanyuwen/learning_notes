@@ -100,6 +100,7 @@
 + [Python的向上取整除法](https://mp.weixin.qq.com/s/qAsecxFmJXFULPBR72Nhng)
 + [Python转义字符](https://mp.weixin.qq.com/s/Y9_4YO35piuDPuz-NHGXvg)
 + [海象操作符=：Python社区为何差点因它分崩离析？](https://mp.weixin.qq.com/s/T0lixlZw6yfkK_gaKqBXtA)
++ [类型注解：Python性能的隐形加速器](https://mp.weixin.qq.com/s/9IgogQw7U4NLiAxfdSRGDA)
 
 ### 函数/方法
 
@@ -172,6 +173,9 @@
 + [苦练Python第33天：斜杠 / 与星号 * 的魔法——彻底搞懂函数参数顺序](https://mp.weixin.qq.com/s/-3e4RelxxZozqBa1R6qf5Q)
 + [Python的dir()竟在深夜偷偷篡改对象？害我凌晨2点起来修bug](https://mp.weixin.qq.com/s/gTszrWOC-EjfQPDfsPF1zw)
 + [苦练Python第41天：如何用dir() 函数“透视一切”](https://mp.weixin.qq.com/s/xMrnVT-rciPrRd2Az68CYw)
++ [python递归基础](https://mp.weixin.qq.com/s/F2kG7du19lYHLrPKOVG3Qw)
++ [12.Python的函数式编程：编写简洁高效的数据处理管道](https://mp.weixin.qq.com/s/zSLg6tY1WCVcJ0fSUB8cXw)
++ [Python 内置函数 filter() 元素过滤](https://mp.weixin.qq.com/s/SQpeAppFBzif11YcyV8TKg)
 
 ### 面向对象
 
@@ -219,6 +223,7 @@
 + [python高阶：4、类和对象](https://mp.weixin.qq.com/s/-L-Fvx2xXWBj7SDQ-YpchQ)
 + [为什么 self 与 super() 成了 Python 的永恒痛点？](https://mp.weixin.qq.com/s/F3Z3Plm_ZFH8Vk-n6I1d3A)
 + [Day 11 - 面向对象编程基础](https://mp.weixin.qq.com/s/DiV8HK6FXowfg6Bu8SK-LQ)
++ [11.Python的高级OOP特性：提升代码优雅性与复用性](https://mp.weixin.qq.com/s/mpr1jN_jTfd9O8qvnOz1BA)
 
 ### 核心库/模块
 
@@ -228,6 +233,7 @@
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
 + [Python笔记07 字符串的基本操作](https://mp.weixin.qq.com/s/gWGaIuusRW3I6TILGcy94Q)
 + [20个Python高效字符串处理技巧](https://mp.weixin.qq.com/s/uM_Lm_k7106Wehe96HZuWw)
++ [9.Python字符串高级操作实战指南：从格式化到日志解析](https://mp.weixin.qq.com/s/tzAVyz_cqGB4wmSTgOhNWw)
 + [新手必会的15个 Python 字符串操作方法](https://mp.weixin.qq.com/s/_cQfOlKuFwUfHqtW54qN7w)
 + [Python基础：Python的字符串操作与格式化](https://mp.weixin.qq.com/s/4enr5tjPxwCpUgw4yAWq_g)
 + [python详解字符串](https://mp.weixin.qq.com/s/HHKE-5_AG1Qdprnux30VDw)
@@ -394,6 +400,7 @@
 + [Python编程精进：如何创建Python包](https://mp.weixin.qq.com/s/MCVC3sRxHVkYIELa11HlBw)
 + [Python编程精进：小技巧分享](https://mp.weixin.qq.com/s/ZFMVoPSr-UdqOpkMUe2BKA)
 + [Python基础：文件的读写](https://mp.weixin.qq.com/s/f5MXMU_vf2arkmszezXh5g)
++ [苦练Python第46天：文件写入与上下文管理器](https://mp.weixin.qq.com/s/2IB6o8JLXKQPKGHCx1fP4w)
 + [13.Python的文件与IO操作：从基础到实战](https://mp.weixin.qq.com/s/hYh4lcsDjEhPDnz5fb9hUA)
 + [Python进阶之路：第十六章 文件读写实战，一次掌握打开、读取与保存技巧！](https://mp.weixin.qq.com/s/3t8iURCJ1OH0QcZvUCw9vA)
 + [Python文件及IO操作：轻松掌握文件读写](https://mp.weixin.qq.com/s/lCzb_1rnRuCNkm4Vy6SMRg)
@@ -735,6 +742,7 @@
 + [Python编程如何轻松操控操作系统？这10个命令让你事半功倍！](https://mp.weixin.qq.com/s/N_Owz14RFm8m362JoDocCg)
 + [懂了，if __name__ = = "__main__":](https://mp.weixin.qq.com/s/cRK6p5sZ0lmV0tto79uyow)
 + [Python 下划线用法盘点：从 _ 到 __name__](https://mp.weixin.qq.com/s/-wdiD9mWVpfBTOkkZSonBQ)
++ [python 装饰器的高级10种用法](https://mp.weixin.qq.com/s/3jovDXTHr5N-qP2yNcjYYw)
 
 ## 新特性
 

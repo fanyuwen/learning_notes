@@ -365,6 +365,7 @@
 + [第七章：CPU与GPU计算引擎实现](https://mp.weixin.qq.com/s/ASJe355Qhelh75fdy5sQpQ)
 + [CPU流水线技术原理](https://mp.weixin.qq.com/s/pefM8BeiGuvKQn7KjH4tTg)
 + [CPU指令执行过程（三）：代码的执行](https://mp.weixin.qq.com/s/DsA761jQZAQiEvMmy0tFTQ)
++ [GPU的结构与工作原理](https://mp.weixin.qq.com/s/slWcY4xMw6dlQCaPaNisaQ)
 
 ### 并发
 

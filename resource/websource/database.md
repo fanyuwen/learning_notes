@@ -501,6 +501,7 @@
 + [mysql5.7系列-InnoDB的MVCC实现原理](https://mp.weixin.qq.com/s/bTSepZpfhVEKqcsQgJZxPw)
 + [MySQL MVCC原理揭秘：读写并发的关键设计](https://mp.weixin.qq.com/s/c9oJLfb370SWw6yn_Hxngg)
 + [MySQL MVCC：揭开数据库高并发的神秘面纱](https://mp.weixin.qq.com/s/GdAtz4XOzciKSE_0N0qJDw)
++ [面试官：MySQL 为什么要是使用 MVCC？原理是什么？](https://mp.weixin.qq.com/s/oFEMx0WAOI2L0vThitMBSg)
 
 #### 锁
 

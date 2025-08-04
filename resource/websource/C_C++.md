@@ -687,6 +687,7 @@
 
 + [Linux下C编程使用动态链接库](https://mp.weixin.qq.com/s/NiSTksbmJQae-zba3VF4iw)
 + [Linux C编程获取指定网口IP和MAC地址](https://mp.weixin.qq.com/s/LEtK1sFgvzEnAVd2nKmMYw)
++ [浮点排序的高效实现：通过位运算转换为整数排序](https://mp.weixin.qq.com/s/9KAHeYeCfwV516P0TkXLaQ)
 
 ### 前景
 

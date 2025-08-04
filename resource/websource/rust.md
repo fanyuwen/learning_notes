@@ -7,6 +7,8 @@
 + [Rust 1.81.0 来啦！小白也能轻松上手的编程语言](https://mp.weixin.qq.com/s/1afth_ZCHQzOs1W954b5IA)
 + [Rust 入门 - 通用编程概念 - 函数](https://mp.weixin.qq.com/s/FgyHNsllcOUMmnCKdH-xWg)
 + [Rust 入门 - 通用编程概念 - 数据类型](https://mp.weixin.qq.com/s/_f97EOtBLkY1YlLeS6LpRQ)
++ [Rust从入门到精通03-变量](https://mp.weixin.qq.com/s/SjpaJ8EnrI20AwqKUJQGtA)
++ [Rust从入门到精通05-语句和表达式](https://mp.weixin.qq.com/s/-keSYAORxrnSjqAb0MGqJw)
 + [Rust 2024版本即将到来…...](https://mp.weixin.qq.com/s/37lM6PX6C_hWCr4bdSWw8g)
 + [Rust 新手必读：《Rust Fuzz Book》让你的代码更安全、更稳定](https://mp.weixin.qq.com/s/brVtrWee3YKZ3AJwwsmp4g)
 + [Rust 编程进阶：《Idiomatic Rust》带你掌握高效编码技巧](https://mp.weixin.qq.com/s/WDATOe1xWvWje0EbhY_4Tw)
@@ -101,6 +103,8 @@
 + [征服Rust并发：Arc、Mutex、Channel三大护法，让你的代码从此刀枪不入！](https://mp.weixin.qq.com/s/LVjMusfma3Ti-LyuwfW6VA)
 + [【Rust日报】 在 Rust 中使用 ndarray 和 opencv 处理图像](https://mp.weixin.qq.com/s/MBhUiioSZAkSxsQxVT8kcQ)
 + [厌倦样板代码？用 Rust 过程宏自动生成！](https://mp.weixin.qq.com/s/9QclkNzAo1_fU5B504CqiQ)
++ [Rust内卷终极指南：5个让同事“高攀不起”的Trait与泛型骚操作](https://mp.weixin.qq.com/s/D3B4AUIYxTdIe315bYCNkg)
++ [Rust借用检查器深度解析：从“劝退”到“真香”的核心保镖](https://mp.weixin.qq.com/s/yo63e5ASMEfPD7xTDFbZNw)
 
 # 框架
 

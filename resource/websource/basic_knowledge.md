@@ -585,6 +585,7 @@
 + [TCP/IP 传输层详解](https://mp.weixin.qq.com/s/MVQ36RMXLjFjk76SCgse5g)
 + [TCP/IP协议精解：IP协议——互联网世界的邮政编码系统](https://mp.weixin.qq.com/s/DgdvC3jGbMRPL0BMJtPlWA)
 + [TCP 长连接 vs 短连接的适用场景](https://mp.weixin.qq.com/s/tk9m4a5KjG51EPM8OSagEg)
++ [TCP的粘包与裂包](https://mp.weixin.qq.com/s/SH7WTE3z7iAeXfAOBqd9mA)
 
 ### UDP
 

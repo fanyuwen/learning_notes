@@ -40,6 +40,7 @@
 + [Java设计模式之创建型](https://mp.weixin.qq.com/s/tC9HjSf9JSapjcU0WDsSnA)
 + [设计模式（结构型）](https://mp.weixin.qq.com/s/Rqu3QWKY44nbL1Xo3LcncA)
 + [二面问到设计模式相关问题，该如何回答获得高分？](https://mp.weixin.qq.com/s/IyrJA9aeANKLd0n-RAb0MA)
++ [结构型设计模式：代码架构的魔法师](https://mp.weixin.qq.com/s/HRGEDqNGX1SudmxQZL-Drw)
 
 ## 原则
 
@@ -53,6 +54,7 @@
 + [SOLID原则之 ISP 接口隔离原则](https://mp.weixin.qq.com/s/NLRYRbDOugg8uxpVdiK8EA)
 + [SOLID原则之 LSP 里氏替换原则](https://mp.weixin.qq.com/s/MO6dPNsV_yh5l8_FVoNNUg)
 + [SOLID原则之OCP 开闭原则](https://mp.weixin.qq.com/s/D-m2p-dQuHJTSE0VSqXNZw)
++ [设计模式七大原则-迪米特法则](https://mp.weixin.qq.com/s/YUoKnQQNvIYsIzacaXlkgA)
 
 ## 单例模式
 

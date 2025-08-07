@@ -3,6 +3,7 @@
 + [聊一聊开发中的C语言和C++语言用法](https://mp.weixin.qq.com/s/OboQQpk7lrhHbDO17Tmw6A)
 + [C/C++ 程序编译过程的来龙去脉](https://mp.weixin.qq.com/s/JCXGBjz4WHA-ykAzoElkSw)
 + [如何在C/C++编译的过程中保留预处理文件](https://mp.weixin.qq.com/s/2DorGzhPJPex9n8eZ0_1CQ)
++ [C/C++ 宏中 do { ... } while (0) 的“零次循环”技巧](https://mp.weixin.qq.com/s/R8U1cwDZIp7ICAre70_tPQ)
 
 ## 工具
 
@@ -223,6 +224,8 @@
 + [C++进阶1——右值引用和完美转发](https://mp.weixin.qq.com/s/FTi0TIvqRYRt2fMizTSd1g)
 + [C++中的“别名”大师：引用，比指针更优雅的间接访问](https://mp.weixin.qq.com/s/-SloOzM-glrleKeBNng6sg)
 + [c++ 资源获取即初始化](https://mp.weixin.qq.com/s/XQ3nhQQIMgl8OoFjgHd5pw)
++ [解构内存池：C++高性能编程的底层密码](https://mp.weixin.qq.com/s/cMJ9T4rrU35U-ojN30y4lQ)
++ [C++ 的复制消除（Copy elision）](https://mp.weixin.qq.com/s/6AwVTHhqD8fv-G8Jq1x3kg)
 
 #### 指针
 
@@ -267,6 +270,7 @@
 + [C++信奥之径，锻炼思维，扎实算法——二分查找与二分答案（3）](https://mp.weixin.qq.com/s/boC5l9ttzYGeItZqDyulIA)
 + [C++信奥之径，锻炼思维，扎实算法——贪心算法（2）](https://mp.weixin.qq.com/s/TwDWRAp9g8k_gmU2gtYTQA)
 + [贪心算法 | C++算法集](https://mp.weixin.qq.com/s/zzrx8zIl6BDSVAw8PzIOgg)
++ [宝鉴001: C++ 双向链表翻转](https://mp.weixin.qq.com/s/qoSz21oJPijH8pRV7d_4FQ)
 
 #### 库
 
@@ -365,11 +369,13 @@
 + [c++继承和多态的关系](https://mp.weixin.qq.com/s/U9rc_qI8gbl1DYujP363cA)
 + [透过汇编看 C++：构造函数](https://mp.weixin.qq.com/s/xwsNVnRrIMVPp2bDb5ZFkQ)
 + [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
++ [（三）C++类的概念、特性](https://mp.weixin.qq.com/s/lyxognOKcewQ8rm_Kta-EQ)
 
 ##### 泛型
 
 + [C++模板：告别重复造轮子，拥抱泛型编程](https://mp.weixin.qq.com/s/u4GI27tLjo7waFiBRoUF2w)
 + [C++11+ 泛型编程（模板）](https://mp.weixin.qq.com/s/uGCkjU6vsiaYrIfzD-GOSQ)
++ [c++ 可变参数模板 (Variadic Templates)](https://mp.weixin.qq.com/s/wY4K5mU6V8RCa7uuP_ak1A)
 
 ##### 设计模式
 
@@ -559,6 +565,7 @@
 + [C语言if、else分支控制结构详解](https://mp.weixin.qq.com/s/d88jykazutUiESVmDYtS8Q)
 + [谈C编程---volatile关键字](https://mp.weixin.qq.com/s/Jj1an8N2AAjMPoxuB47Wyg)
 + [谈C编程---分支结构的替代](https://mp.weixin.qq.com/s/GScRfVeZsFXlrco7LtOxJA)
++ [学嵌入式必须会 C 语言？0 基础核心语法速通（位操作篇）](https://mp.weixin.qq.com/s/DOlyc6lY5lwLbPyO8fK9yg)
 
 ### 高阶
 

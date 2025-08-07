@@ -382,6 +382,7 @@
 + [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
++ [JAVA策略模式，这回真落地了](https://mp.weixin.qq.com/s/70MYdklbNJWparqsBsx4Pg)
 + [Function + Java 策略模式构建易扩展开票架构](https://mp.weixin.qq.com/s/nkBF7h9Dacg3Elg6Gzponw)
 + [优雅应对复杂业务的利器：Java 策略模式](https://mp.weixin.qq.com/s/jtOJYgfgV0Ju7U-pQpGwNw)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
@@ -562,6 +563,7 @@
 + [还在用 new 创建对象？《Effective Java》这 3 个技巧让代码瞬间变优雅](https://mp.weixin.qq.com/s/pm-guPMifWzE9zoqGhcI2w)
 + [类设计没做好？《Effective Java》这 5 条原则让代码少踩坑](https://mp.weixin.qq.com/s/Bfp8qDkof2jt9inobPFszA)
 + [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/HqCFA_QNfAAacal7lbVuXQ)
++ [提前return？我被喷惨了。。。](https://mp.weixin.qq.com/s/Xd41iJDzFiDBjpsUq_0ONw)
 
 # 底层
 
@@ -863,6 +865,7 @@
 + [03-线程运行原理](https://mp.weixin.qq.com/s/Hk1cUPC_70_jn-nvPEucTQ)
 + [02-线程状态以及基础线程API使用](https://mp.weixin.qq.com/s/anyeD3_LkUnuPTEEcKCFEg)
 + [JUC-15 -- 线程安全的集合类](https://mp.weixin.qq.com/s/H9ntYCKyZ-h5uhNXeaRrkg)
++ [并发编程中的等待通知模型](https://mp.weixin.qq.com/s/sEFcsQqgJGaY-5KcDpTskw)
 
 #### CAS
 
@@ -1286,6 +1289,7 @@
 + [BigDecimal 为什么可以保证精度不丢失？](https://mp.weixin.qq.com/s/8-wtW0yV4__fCbVr0JUTYQ)
 + [深入了解：Java中BigDecimal比较大小的方法](https://mp.weixin.qq.com/s/pT0UDqHjpANHUAVJpYe8fw)
 + [踩坑了，BigDecimal 使用不当，造成P0事故！](https://mp.weixin.qq.com/s/Z-FfgWKg_7ijTc2Uk-YjjQ)
++ [BigDecimal 小数点多余“0”去除](https://mp.weixin.qq.com/s/TJ4_ZjdOUllVcaLgyXcnCw)
 
 ## util库
 
@@ -1618,6 +1622,7 @@
 + [别再用错读写锁了，ReentrantReadWriteLock 你真的懂？](https://mp.weixin.qq.com/s/zxKf7OEuXVxNIHnNxlPg8g)
 + [一文解析ReentrantReadWriteLock源码，我说白了真不难！](https://mp.weixin.qq.com/s/rN_EQC57fF2A9fryAbiTYg)
 + [学习AQS：Java并发编程的基石](https://mp.weixin.qq.com/s/UvHKwwtVdEZ3iw2H1TSCEg)
++ [ReentrantLock源码大揭秘：你真的会使用ReentrantLock吗?](https://mp.weixin.qq.com/s/FZkZsOS6G3z-gd7cw_BZ6A)
 
 ### ConcurrentHashMap
 
@@ -1808,6 +1813,7 @@
 ## apache lib
 
 + [Apache Commons：被低估的 Java 开发 “瑞士军刀”，90% 的人只用了 10% 的功能](https://mp.weixin.qq.com/s/HIgaJJZssfMsI3uajY0YEA)
++ [Apache Commons Math：不仅仅能解决在Java中0.1+0.2=0.30000000000004的数学计算工具包](https://mp.weixin.qq.com/s/Zngz8uyHRBgKxaMkkC78Yw)
 
 ## apollo
 
@@ -1846,6 +1852,7 @@
 + [Caffeine：从动态过期时间到时间过期原理](https://mp.weixin.qq.com/s/3dOqFfzk12_Va5BmoSA_9g)
 + [Caffeine缓存王者归来：本地缓存性能提升300%的秘密，架构师必备的调优利器！](https://mp.weixin.qq.com/s/Aw6udavUNViaNbczDBOJWA)
 + [响应式编程实践-用Caffeine构建响应式缓存](https://mp.weixin.qq.com/s/bv5JxHQxnALFXc25R0cD0Q)
++ [本地缓存 Caffeine 中的时间轮（TimeWheel）是什么？](https://my.oschina.net/u/4090830/blog/18687079)
 
 ## consul
 
@@ -1899,6 +1906,7 @@
 + [【Guava】集合工具Collections2](https://mp.weixin.qq.com/s/3nSCSo_gGq9vdvCmJLaGng)
 + [告别枯燥的异步编程！Guava的ListeningExecutorService让你代码优雅如诗](https://mp.weixin.qq.com/s/186IQ2o7SgwTiAWLrT-19A)
 + [Guava LoadingCache 实战指南：从自动加载到异步刷新，这5个技巧让缓存性能翻倍](https://mp.weixin.qq.com/s/y7pONioRBZxBL-G_Zdycdw)
++ [Guava——你不得不知道的一个Java工具类包，这个对你真的很有用！](https://mp.weixin.qq.com/s/Y_1PCvJKp9qe7AAn8jjmyA)
 
 ## hystrix
 
@@ -1957,6 +1965,7 @@
 + [Java真的不难（二十）Log4j日志](https://mp.weixin.qq.com/s/3mCk722FIXPs8ZyHTqHPfg)
 + [Java日志打印的几种方式](https://mp.weixin.qq.com/s/BJT-mC7ldaotDSNy7KVMcA)
 + [从原理到实践:MDC日志链路追踪指南](https://mp.weixin.qq.com/s/AnqZJ7glK7Lib4qJufyVrA)
++ [logback多进程日志轮转混乱解决方案](https://mp.weixin.qq.com/s/J8FrMVDuvnohf-Zsng0lkA)
 
 ## lombok
 
@@ -3363,6 +3372,7 @@
 + [分布式事务解决方案：Seata在Spring Boot中的应用](https://mp.weixin.qq.com/s/Tasm_FoWN7vFVv4JJS3arQ)
 + [SpringBoot整合Seata，解决多个订单相关服务之间数据一致性问题](https://mp.weixin.qq.com/s/GSB4ob0T3MG3UehSgvY-Ew)
 + [Spring Boot 3.4分布式事务终极方案：Seata集成竟能这么简单？](https://mp.weixin.qq.com/s/pHtwDCnRhUD46AfcxGot2g)
++ [Spring Boot 轻量级分布式事务：基于消息最终一致性的创新实践](https://mp.weixin.qq.com/s/9N3QQ6cWMvYr-1R0RtTfTQ)
 
 #### WEB
 
@@ -3601,6 +3611,7 @@
 + [别再自己造轮子！Spring Boot内置的9个过滤器用法详解（附代码）](https://mp.weixin.qq.com/s/LRlmE5WWoq6I-pRQzYIGXQ)
 + [SpringBoot自定义RestTemplate的拦截器链](https://mp.weixin.qq.com/s/zp_pIFLqDny5o3TM2Pn8sw)
 + [Spring Boot 参数接收全解析](https://mp.weixin.qq.com/s/iDE_AxflT22KcPvDwTVPfA)
++ [Spring Boot 如何正确解决重放攻击](https://mp.weixin.qq.com/s/TpIDdEXkoKRnTVrQd_wJOQ)
 
 ##### 文件上传下载
 

@@ -180,6 +180,7 @@
 + [Linux inode 详解](https://mp.weixin.qq.com/s/ttWoxByd770FgkIePHYUDw)
 + [在 Linux 上进行 Apache Bench 测试](https://mp.weixin.qq.com/s/f22iRyoWZijfll95gybyvQ)
 + [inode 的10个典型应用实例详解](https://mp.weixin.qq.com/s/xeeWBmasqqvUwRWse4bdIA)
++ [Notify机制-Linux内核间通信](https://mp.weixin.qq.com/s/Lqdtxk60zQbrjyIbSvV95g)
 
 ### 网络
 
@@ -400,6 +401,7 @@
 + [操作系统之内存管理](https://mp.weixin.qq.com/s/END8A9i6qSCSz5Eat5J7ow)
 + [计算机操作系统 - 内存操作 API](https://mp.weixin.qq.com/s/9JqpBclcAr9kp4ko89B5Sg)
 + [存储器RAM和ROM的区别](https://mp.weixin.qq.com/s/z3x0hCI6Gsm9KBg0YDzpvw)
++ [4张图搞懂堆和栈的区别](https://mp.weixin.qq.com/s/fCVmahovwghwz5iUiTIS5w)
 
 ## GPU
 
@@ -742,6 +744,9 @@
 + [内存IO原理大起底：那些你必须知道的底层真相](https://mp.weixin.qq.com/s/Uq968KVp8ja4eOi1aPj_RA)
 + [零拷贝技术：让你的程序性能翻倍的秘密武器](https://mp.weixin.qq.com/s/ytf3FQCwbBoeDXwKDC-DwA)
 + [彻底搞懂零拷贝：提升系统性能的关键技术](https://mp.weixin.qq.com/s/ElltKyrFAPyor_PdinkyKA)
++ [零拷贝技术：sendfile系统调用](https://mp.weixin.qq.com/s/JSCGkDC257aF8XsBrBT7RA)
++ [零拷贝技术：Direct I/O](https://mp.weixin.qq.com/s/94HmP4Z64P61RkdH98KiuQ)
++ [腾讯一面：epoll不支持文件IO，kqueue怎么做到的！](https://mp.weixin.qq.com/s/f5IuDt89mP81ssnRKFN_Rg)
 
 ## 字符编码
 

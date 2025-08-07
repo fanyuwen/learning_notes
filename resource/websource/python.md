@@ -375,6 +375,7 @@
 + [async/await竟是性能倒退？Python协程真相！](https://mp.weixin.qq.com/s/cCquizpg--u1VpLFgmNpcg)
 + [Python结构化并发：asyncio.TaskGroup实战](https://mp.weixin.qq.com/s/XXu7QNxDm4RUkb9HwcuFgw)
 + [30天学会Python编程：15.Python并发编程](https://mp.weixin.qq.com/s/cGmE4AovbnmetMgqVhjchg)
++ [Python多线程编程：3倍提速你的代码，告别卡顿时代！](https://mp.weixin.qq.com/s/tlrC0FKUDzXJgMDBsup2zw)
 
 ### 虚拟环境
 
@@ -386,6 +387,7 @@
 ## 实践
 
 + [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
++ [Python 开发中常见的高效写法](https://mp.weixin.qq.com/s/gX14IB5cLedP-v0Y5aCdqg)
 + [写了十年 Python，我竟然现在才知道这5个功能！](https://mp.weixin.qq.com/s/lc6a68rj5_Bn3BmhKOAUgQ)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)
 + [Python 最佳实践 (4)](https://mp.weixin.qq.com/s/31ZdXx9AW2YscmlHroHoWQ)
@@ -1178,3 +1180,4 @@
 + [Tkinter教程31：各种对话框示例演示](https://mp.weixin.qq.com/s/BIYT6zxrVpqF8obubMnV1w)
 + [Python和C语言哪个更容易学，为什么C语言比较难](https://mp.weixin.qq.com/s/0WsgUjcngICLMLU1Hph09Q)
 + [明明Python那么多人用，为什么总有人喷Python？](https://mp.weixin.qq.com/s/_-V5CMHk09LTD7B2WF0dtw)
++ [C++与Python：内存管理与指针的对比](https://mp.weixin.qq.com/s/C75Haa47Oeq5DsPwA0BMSw)

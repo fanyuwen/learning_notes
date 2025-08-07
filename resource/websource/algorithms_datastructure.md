@@ -103,6 +103,7 @@
 + [【Y言蔽之】二分搜索中的边界条件与实现模式](https://mp.weixin.qq.com/s/pA1GFZOUfsK2r0LZQ95KBA)
 + [分而治之：解锁分治算法的强大威力](https://mp.weixin.qq.com/s/pAAq7OFZlqcKlydZQo39Hw)
 + [一文读懂堆栈与堆，代码世界的“内存双雄”](https://mp.weixin.qq.com/s/tjvvbuBv8zcmUjeZEJmAmg)
++ [【基础算法】二分](https://mp.weixin.qq.com/s/gDDcRqvXW-XnuPje8yh5cw)
 
 ## Graph
 
@@ -153,6 +154,8 @@
 + [算法 - 二叉树的广度优先遍历](https://mp.weixin.qq.com/s/lCOg_LLcuKQmgzbJX7p-Ng)
 + [B 树与 B + 树：区别、原理及优劣势分析](https://mp.weixin.qq.com/s/5A1Pb86Pt7ihPzM6sxJMYg)
 + [【数据结构】可持久化线段树（一）](https://mp.weixin.qq.com/s/ehckJzExqCx_yGFROPbJyg)
++ [剑指offer-18、⼆叉树的镜像](https://mp.weixin.qq.com/s/-iij47Q3nlIo3XAkRGWzxg)
++ [四叉树如何实现？](https://mp.weixin.qq.com/s/E5rFprrlGjgPuVjdgiF1Pw)
 
 ## 排序算法
 

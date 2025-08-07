@@ -34,6 +34,8 @@
 + [Kotlin 响应式编程下的利器 Flow](https://mp.weixin.qq.com/s/SmLLSVC6u_gqP8lbRtoEBw)
 + [如果你还不懂 Kotlin Flow，这里有一万字](https://mp.weixin.qq.com/s/RTQbjKvuxkFreoBnMrxHAA)
 + [为何Kotlin内联函数有访问限制](https://mp.weixin.qq.com/s/iqQqtpT9cFnnG4Fg7zr5DQ)
++ [Kotlin 2.4 新语法 Rich Errors：更安全的错误处理](https://mp.weixin.qq.com/s/wQYl5_Z1Ss-BU-s499xfPg)
++ [协程带来的开发范式的革新](https://mp.weixin.qq.com/s/ynFF6WbNetKLIv7lDSTSpQ)
 
 ## 技术月报
 

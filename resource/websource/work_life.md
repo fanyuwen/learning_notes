@@ -107,6 +107,10 @@
 + [每日一问！为什么硬件工程师离职率低到离谱？真相揭秘](https://mp.weixin.qq.com/s/QlgZxRU2MP0SRHEXPWLk5Q)
 + [35岁后被“优化”？大龄程序员的破局之道：别让技术成为唯一的底牌](https://mp.weixin.qq.com/s/aV49op6kNDSa5PUXD2GYXQ)
 + [35岁失业后，你至少还有3条路可以走](https://mp.weixin.qq.com/s/IT7ZwbbBzBTH33atmF8ZBA)
++ [简洁代码之已死：那些“完美代码”，其实是灾难](https://mp.weixin.qq.com/s/dINk95nvIh6r6hYKjYQGcQ)
++ [技术 | 好的命名，是最便宜的设计优化](https://mp.weixin.qq.com/s/VJHdtFH_acQMjt0dZdAn7Q)
++ [89年，36岁，程序员，失业之后我发现一个赚钱的真理](https://mp.weixin.qq.com/s/WX9QbrcJkUSTDhr23Moaaw)
++ [AI时代下，程序员还有必要系统性啃书去学习吗？](https://mp.weixin.qq.com/s/1u6PvJsWldnKskAEoqbxcw)
 
 # 个人成长
 
@@ -184,6 +188,7 @@
 + [独立开发出海，需要点哪些技能树](https://mp.weixin.qq.com/s/wpRVWpSyZD6gzoWGYGLc4A)
 + [如何成为一个优雅的程序员 —— 构建适合自己的学习体系](https://mp.weixin.qq.com/s/2gkAGLr4g2c02JjFNcypLA)
 + [如何判断自己写的是不是"屎山"代码？](https://mp.weixin.qq.com/s/LajnV1-7oUAFjMTeAJT6lA)
++ [为什么你反复练习还是学不会？真正让大脑进步的，是错误和重复密度，而不是时间长短](https://mp.weixin.qq.com/s/qUsPbsazSbXAi_ShfFregQ)
 
 ## 视频
 

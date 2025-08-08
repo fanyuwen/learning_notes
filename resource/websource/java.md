@@ -230,6 +230,8 @@
 + [Java 16纪录类：告别繁琐，让代码起飞](https://mp.weixin.qq.com/s/j_MOYaQ8yEbeV26nGe6JAg)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [JDK17神仙语法让代码优雅到飞起](https://mp.weixin.qq.com/s/-Ay2re7relzMKP-50Lm-Pg)
++ [这用 Java8？JDK17 写法让我一度以为在写 TypeScript](https://mp.weixin.qq.com/s/BTA-PW94qv8Y4H8NEClDGA)
++ [JDK17前后写法对比，这还是我认识的Java吗？](https://mp.weixin.qq.com/s/XaXHK6EJa4otXJHHU6g9jw)
 + [Java 1.8 仍在流行？是时候升级到 JDK 21 了！](https://mp.weixin.qq.com/s/FMvGBS6AczrGr4sqsFJ6Hg)
 + [Java21 特性解读](https://my.oschina.net/u/4662964/blog/17117581)
 + [JDK 21 虚拟线程：Java 并发编程的新飞跃](https://mp.weixin.qq.com/s/_3He7LnKlC6exokJAMDvOA)
@@ -1024,6 +1026,7 @@
 + [java synchronized锁升级详解](https://mp.weixin.qq.com/s/i9dpmjqBVpJ5qVzXXMCkpA)
 + [轻松掌握Java多线程 - 第八章：Lock接口与ReentrantLock](https://mp.weixin.qq.com/s/t6joqIHwznmb5A4PXPbxdg)
 + [高并发编程-深入ReentrantLock-AQS·2](https://mp.weixin.qq.com/s/7KYR34RAkLn9vYF1Y72BKw)
++ [java并发包中的ReentrantLock锁详解篇](https://mp.weixin.qq.com/s/Loo3OINuAwR1OAAANPF5ig)
 
 #### volatile
 
@@ -1356,6 +1359,7 @@
 + [Java日期格式化大坑：SimpleDateFormat为何会让你的日期"穿越"？](https://mp.weixin.qq.com/s/39v7hAlKGaBYZT5nCPnXUQ)
 + [解锁 Java 日期时间转换的正确姿势](https://mp.weixin.qq.com/s/Xo_qTB46gCLf12bpINNydA)
 + [Java日期与时间API：LocalDate、LocalTime的操作](https://mp.weixin.qq.com/s/7T6BQzL6gUqwOhoouigDTw)
++ [从Date到LocalDateTime的优雅迁移！](https://mp.weixin.qq.com/s/52WzcIOtP6CY9f3yeSaEAw)
 
 ### Collection/Map
 
@@ -3358,6 +3362,7 @@
 + [Spring Boot 4.0.0 新特性详解：深入解读 Spring Framework 7.0.0](https://mp.weixin.qq.com/s/ONH-92inZovuXf3cR-_pjQ)
 + [Spring Boot 3.2 全新特性：JdbcClient 精简数据库操作的新方式](https://mp.weixin.qq.com/s/6yJl-11Ud6BqIIwXKFwIkA)
 + [Spring Boot 3.4 正式发布！@Fallback 注解：让微服务容错更简单](https://mp.weixin.qq.com/s/IbKQrbGc2UGgZ30WG5ntfw)
++ [彻底告别 `@Value`：用 Spring Boot 3 构建可维护、类型安全的配置体系](https://mp.weixin.qq.com/s/bRcuoofRYBGq1q-5HrHdFA)
 
 #### 分布式
 
@@ -3612,6 +3617,7 @@
 + [SpringBoot自定义RestTemplate的拦截器链](https://mp.weixin.qq.com/s/zp_pIFLqDny5o3TM2Pn8sw)
 + [Spring Boot 参数接收全解析](https://mp.weixin.qq.com/s/iDE_AxflT22KcPvDwTVPfA)
 + [Spring Boot 如何正确解决重放攻击](https://mp.weixin.qq.com/s/TpIDdEXkoKRnTVrQd_wJOQ)
++ [用 Spring Boot 写 REST API，这样做既优雅又高效！](https://mp.weixin.qq.com/s/8IUEAB_VDKkFmaabIckMnQ)
 
 ##### 文件上传下载
 
@@ -3994,6 +4000,7 @@
 + [一个 new 操作耗时1秒？用原型模式，性能提升100倍！](https://mp.weixin.qq.com/s/DLfoYJNtH8VS6PIjKH2h6w)
 + [策略模式 vs 适配器模式：SpringBoot开发中的双剑合璧之道](https://mp.weixin.qq.com/s/tUULn9MzOJ3kk22Wg-RsfA)
 + [Spring Boot中的代理模式：揭秘AOP背后的核心魔法](https://mp.weixin.qq.com/s/SiNr0gTavIEbBLbgTijjnA)
++ [SpringBoot事件驱动：观察者模式实战，让系统解耦如鱼得水！](https://mp.weixin.qq.com/s/73huoxrrd3NJs74jATzL2g)
 
 #### message
 
@@ -4263,6 +4270,7 @@
 + [多线程环境下RequestContextHolder小坑](https://mp.weixin.qq.com/s/6cBibum_C62k-8aZTnMEWQ)
 + [双亲委派不香了？看 Tomcat 如何“叛逆”加载自己的类！](https://mp.weixin.qq.com/s/dbk0AuczZ9jM9EkUOK3tPg)
 + [【安全研究】浅谈内存马绕过maxHttpHeaderSize限制](https://mp.weixin.qq.com/s/tb0xvBAGsZoV1y9SVc_DEw)
++ [Servlet 3.0异步处理的革命性突破：AsyncContext](https://mp.weixin.qq.com/s/TjmsP2JPltXGOovGjattKQ)
 
 ## xxl-job
 

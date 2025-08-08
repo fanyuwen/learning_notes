@@ -36,6 +36,8 @@
 + [为何Kotlin内联函数有访问限制](https://mp.weixin.qq.com/s/iqQqtpT9cFnnG4Fg7zr5DQ)
 + [Kotlin 2.4 新语法 Rich Errors：更安全的错误处理](https://mp.weixin.qq.com/s/wQYl5_Z1Ss-BU-s499xfPg)
 + [协程带来的开发范式的革新](https://mp.weixin.qq.com/s/ynFF6WbNetKLIv7lDSTSpQ)
++ [“协程太难了…” 我肝了 2 W 字 画了 30 张图给你讲明白了！](https://mp.weixin.qq.com/s/Mvx3FvW83DcdhCREexu2wg)
++ [Coroutine 101: From Zero to Hero](https://mp.weixin.qq.com/s/PrbFkUVhAYjzZwv61ZcAiQ)
 
 ## 技术月报
 

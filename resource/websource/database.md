@@ -457,6 +457,7 @@
 + [MySQL中使用@符号定义用户变量](https://mp.weixin.qq.com/s/PSfXbnBsOYx09rJNgN78Vg)
 + [MySQL表数据删除后文件大小不变原因解析](https://mp.weixin.qq.com/s/zKpRmdeLNsQ0GyKhbSC8Lw)
 + [面试官连环追问：MySQL 的 order by 到底藏着多少玄机？](https://mp.weixin.qq.com/s/BtfIL_ZMVRcpKxzkmp0Wbw)
++ [MySQL的in数量限制1000个？](https://mp.weixin.qq.com/s/FDL0SF2Dwr2eaRSETr1o8w)
 
 #### 存储引擎
 

@@ -439,6 +439,7 @@
 + [高内聚与低耦合的嵌入式软件组件设计](https://mp.weixin.qq.com/s/4GTXGdiUfB-O0ef1JIcoXA)
 + [智能硬件开发中的C++编程实践](https://mp.weixin.qq.com/s/fzb9_b7BEGVQLhGpVMWq-g)
 + [Linux下C++编程使用动态链接库](https://mp.weixin.qq.com/s/-tiS_o-907y6KFZLAO7Bag)
++ [编译器眼中的虚函数动态绑定](https://mp.weixin.qq.com/s/L3U7-IQSgxiW1jPbTmPDGA)
 
 #### 三方库
 

@@ -4,6 +4,7 @@
 + [C/C++ 程序编译过程的来龙去脉](https://mp.weixin.qq.com/s/JCXGBjz4WHA-ykAzoElkSw)
 + [如何在C/C++编译的过程中保留预处理文件](https://mp.weixin.qq.com/s/2DorGzhPJPex9n8eZ0_1CQ)
 + [C/C++ 宏中 do { ... } while (0) 的“零次循环”技巧](https://mp.weixin.qq.com/s/R8U1cwDZIp7ICAre70_tPQ)
++ [Zig号称“更好的C”，但它的构建系统让我崩溃了](https://mp.weixin.qq.com/s/raxY6DiTB860IhLfVgPLdw)
 
 ## 工具
 
@@ -100,6 +101,7 @@
 + [全维度掌握 C++ 中的 while 语句：从语法到竞赛实战](https://mp.weixin.qq.com/s/lCJU-B2nm5_fnsA6R-euhQ)
 + [C++基础之list](https://mp.weixin.qq.com/s/1S48F1OmSnwyGdvFQXAzmw)
 + [C++编程入门的24个基本型之五：整数的数位运算问题](https://mp.weixin.qq.com/s/oUqwM0b2eHc-B9Xq4DobzA)
++ [从C到C++：结构体的进化](https://mp.weixin.qq.com/s/K9sAfiWfpP6OklFOpd82jA)
 
 ### 高阶
 
@@ -226,6 +228,7 @@
 + [c++ 资源获取即初始化](https://mp.weixin.qq.com/s/XQ3nhQQIMgl8OoFjgHd5pw)
 + [解构内存池：C++高性能编程的底层密码](https://mp.weixin.qq.com/s/cMJ9T4rrU35U-ojN30y4lQ)
 + [C++ 的复制消除（Copy elision）](https://mp.weixin.qq.com/s/6AwVTHhqD8fv-G8Jq1x3kg)
++ [看起来能用，其实拉垮：99% C++ 项目日志系统存在的设计问题](https://mp.weixin.qq.com/s/NodONEOyKUnftVyJB6lHVQ)
 
 #### 指针
 
@@ -334,6 +337,8 @@
 + [C++11：weak_ptr的设计哲学（观察而不拥有）](https://mp.weixin.qq.com/s/GWzf0CJnYAZX7Yu6YtrajQ)
 + [C++23深度解析：一次“小修小补”还是“大有可为”？](https://mp.weixin.qq.com/s/4Lom0_cvH5qk0-5vmQSMIg)
 + [c++26新功能—Read-Copy-Update](https://mp.weixin.qq.com/s/V5sXlUoz5_jaHTiN8Resfg)
++ [C++老手都犯的错：MyClass obj(); 到底是不是对象？C++11这个语法终结了所有争议！](https://mp.weixin.qq.com/s/mxQrhDVhzvT8lVxbNOVtHA)
++ [c++26新功能—SIMD](https://mp.weixin.qq.com/s/9gPcQFvmrWomqUVKpZjXbg)
 
 #### 面向对象
 
@@ -425,6 +430,7 @@
 + [std::atomic 实现无锁队列](https://mp.weixin.qq.com/s/TY0Dc9Kn92t-N5vbC-jT7A)
 + [条件变量：多线程同步的核心机制详解](https://mp.weixin.qq.com/s/aM_Dr2jAYJDt2Ey9fbN1dw)
 + [多线程环境中C++继承与生命周期管理](https://mp.weixin.qq.com/s/CA3Az0cnphv0hoGAKab7QQ)
++ [C++多线程编程：从入门到精通，构建高性能并发应用，非常详细，强烈建议收藏！！！](https://mp.weixin.qq.com/s/cDRNVM6NNfNYMSfG6A8ERw)
 
 #### 扩展
 
@@ -478,6 +484,7 @@
 + [Natural Docs,一个美轮美奂的c++库](https://mp.weixin.qq.com/s/UoPECv0PU06Q7F2Slm99bg)
 + [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
 + [C++零拷贝反序列化库 cista](https://mp.weixin.qq.com/s/KENr2Q4HoU9R75L-l95uoQ)
++ [cmakerc,一个基于c++的开源库](https://mp.weixin.qq.com/s/-VHji0N_b9xhLa11qJTazw)
 
 #### Qt
 
@@ -492,6 +499,7 @@
 + [微软Visual C++编译器团队架构师力挺C++26，称其是C++11以来最具影响力的版本](https://mp.weixin.qq.com/s/qH0pDKhe6e5SuSAS_JaM9A)
 + [告别头文件，编译效率提升 42%！C++ Modules 实战解析 | 干货推荐](https://my.oschina.net/u/5265430/blog/16460343)
 + [为什么老外喜欢用for(;;)，我们喜欢用While(1)来实现“死”循环](https://mp.weixin.qq.com/s/vnCPZHr3QJ3cm-PBH2TK_A)
++ [京东C++一面面经，面试安排的很突然](https://mp.weixin.qq.com/s/ggHumdOxUK__QoJYlkXVug)
 
 ### 学习资源
 
@@ -566,6 +574,7 @@
 + [谈C编程---volatile关键字](https://mp.weixin.qq.com/s/Jj1an8N2AAjMPoxuB47Wyg)
 + [谈C编程---分支结构的替代](https://mp.weixin.qq.com/s/GScRfVeZsFXlrco7LtOxJA)
 + [学嵌入式必须会 C 语言？0 基础核心语法速通（位操作篇）](https://mp.weixin.qq.com/s/DOlyc6lY5lwLbPyO8fK9yg)
++ [C语言位操作：硬件工程师的"降龙十八掌"](https://mp.weixin.qq.com/s/GUXzK_JSOsSyYoBWKK9BWw)
 
 ### 高阶
 
@@ -630,6 +639,7 @@
 + [数据结构之图的最小生成树Prim算法C语言实现](https://mp.weixin.qq.com/s/wAiqQuXtx6YVwWe4bzdP0w)
 + [谈C编程---黄金分割点的应用](https://mp.weixin.qq.com/s/6BBA4PHA4qHA5KwpjJ47-w)
 + [C算法38：容器盛水问题](https://mp.weixin.qq.com/s/VmI-sV2K7AqodNLzHZSI2w)
++ [volatile用对了吗？嵌入式C中易被忽略的5个内存陷阱](https://mp.weixin.qq.com/s/fCvFTkUK3B-bxJbLRvz-WQ)
 
 #### 宏
 
@@ -652,6 +662,7 @@
 + [C语言数组基础和高级用法](https://mp.weixin.qq.com/s/7vPNdOnJt1Ah06Tg4EaW1g)
 + [C语言多维数组与指针：行地址怎么“跳”，列地址怎么“跑”？](https://mp.weixin.qq.com/s/di5NNEA-aPw1QNngzgJE-w)
 + [谈C编程---数组](https://mp.weixin.qq.com/s/lzVU1ie-ZFUYmn8hpga0kQ)
++ [数组与行指针](https://mp.weixin.qq.com/s/xm3ECYEQRVrCTf1RibohDQ)
 
 #### 结构体
 
@@ -659,6 +670,7 @@
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [为什么结构体要考虑对齐?如何确定语言使用的地址是不是物理地址?](https://mp.weixin.qq.com/s/rV1vNblnXIAXcHS87iL1Ww)
 + [结构体初始化的6种方式](https://mp.weixin.qq.com/s/O20GW7HfCttqfFa-5Z4b2g)
++ [用 C 语言实现日志打印结构体：从设计到实战](https://mp.weixin.qq.com/s/-MGqipP1ijdfKgULy2W5KQ)
 
 #### 指针
 
@@ -711,6 +723,7 @@
 + [Linux下C编程使用动态链接库](https://mp.weixin.qq.com/s/NiSTksbmJQae-zba3VF4iw)
 + [Linux C编程获取指定网口IP和MAC地址](https://mp.weixin.qq.com/s/LEtK1sFgvzEnAVd2nKmMYw)
 + [浮点排序的高效实现：通过位运算转换为整数排序](https://mp.weixin.qq.com/s/9KAHeYeCfwV516P0TkXLaQ)
++ [C语言设计模式：谁说面向过程写不出优雅代码？](https://mp.weixin.qq.com/s/qNPeLLrjO6tais828-2s2Q)
 
 ### 前景
 
@@ -730,6 +743,7 @@
 + [设计模式:嵌入式C语言实现探索_10.模板方法模式](https://mp.weixin.qq.com/s/orWLs392YO5OVJi4wvDaXg)
 + [谈C编程---基于STM32的GPIO操作 ##应用](https://mp.weixin.qq.com/s/261Al6WAC3mFxzCwAkdL3A)
 + [谈C编程---stm32精准延时](https://mp.weixin.qq.com/s/ThaIynDalnkFZq9vR9dSBA)
++ [嵌入式C语言-回调函数的使用及实际作用详解](https://mp.weixin.qq.com/s/cPsXuB2f-2bR_RaowdNA9w)
 
 #### 三方库
 
@@ -758,6 +772,7 @@
 + [软件滤波器 - 低通滤波器](https://mp.weixin.qq.com/s/yMukCXqXaS_3q_Gap_1e6A)
 + [open与fopen的区别](https://mp.weixin.qq.com/s/kGc4VIcMu6SKx1hQr303xw)
 + [astera，一个超强的c库](https://mp.weixin.qq.com/s/bqZBkYgE5dBofSAF36uUDA)
++ [深度解读：基于Libevent实现百万级并发](https://mp.weixin.qq.com/s/r9wciKan2Joho29mFLtEGQ)
 
 ### 资讯
 
@@ -765,6 +780,7 @@
 + [编程语言那么多，为何C语言能成为最成功的语言？](https://mp.weixin.qq.com/s/vZF2AZoQ6172lwmAabI7ww)
 + [C语言的“代码化石”出土：1979年的英文文本判别器](https://mp.weixin.qq.com/s/t88Cm8EGAI74l8uz21pPSA)
 + [重塑编程教育：为什么C语言不应是起点](https://mp.weixin.qq.com/s/vI1RHzDZNONZsfClfNws3Q)
++ [再见 C 语言！bzip2 正式“脱 C 入 Rust”](https://mp.weixin.qq.com/s/1G8KpX-SvcfmpAlw31EsZA)
 
 ## verilog
 
@@ -813,6 +829,8 @@
 + [从C代码到机器码：嵌入式程序是如何诞生的？](https://mp.weixin.qq.com/s/l1Hkoz9hi6LwejCDTuU8ug)
 + [嵌软面试-基础篇：11-#define宏与const修饰的常量（变量）区别](https://mp.weixin.qq.com/s/hWDSVUX0TSW6jakn7kCBfA)
 + [函数篇-4：压栈与弹栈](https://mp.weixin.qq.com/s/iLZjSVPaoo34ydxmG1PSsw)
++ [嵌软面试-基础篇：20-内存对齐的优缺点](https://mp.weixin.qq.com/s/80Yk36974ZgHtsLhdFPy7Q)
++ [嵌入式MCU开发进阶：如何用Linker文件玩转性能优化](https://mp.weixin.qq.com/s/MUtITrRoO4qddppbNRSg9Q)
 
 # ARM
 

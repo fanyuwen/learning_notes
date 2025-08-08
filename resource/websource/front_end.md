@@ -413,3 +413,4 @@
 + [得物社区活动：组件化的演进与实践](https://my.oschina.net/u/5783135/blog/18626983)
 + [JavaScript语言全面概述：从历史到现代实践](https://mp.weixin.qq.com/s/vuI7XaAEzb0xUeCiWnWLFg)
 + [5 个理由告诉你为什么有了 JS 还要需要 TypeScript](https://mp.weixin.qq.com/s/p5roICZ8oKwVxt_FqIwj7g)
++ [他们终于承认：JavaScript 不适合做服务端](https://mp.weixin.qq.com/s/taHCh_Qei6AYW57njR7APA)

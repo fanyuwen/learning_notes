@@ -89,6 +89,7 @@
 + [技术｜模块设计的黄金法则（三）：不同的层，不同的抽象](https://mp.weixin.qq.com/s/pf-3lYx8OObJOnkqdcTzuw)
 + [代码之外，更大的设计：谈架构思想](https://mp.weixin.qq.com/s/MHzWMXW986KjcrTi7uuzwg)
 + [架构设计内容分享—使用白板工具绘制系统架构图实操](https://mp.weixin.qq.com/s/UaX_sJY3oh54hDtjlUqf_Q)
++ [图解来了！10种黄金软件架构模式，一看就懂](https://mp.weixin.qq.com/s/xqt0fwSJoR8qtxmeC_deQg)
 
 ### DDD
 
@@ -278,6 +279,7 @@
 + [Raft协议](https://mp.weixin.qq.com/s/S68jCwZpdAP4f8_T6ByLYQ)
 + [数据一致性算法详解之Gossip协议篇](https://mp.weixin.qq.com/s/imx8FbFQmnHdBHH4vfkAnQ)
 + [如何看待多主&无主复制线性一致性](https://mp.weixin.qq.com/s/8iA5tJWq9JQjhNi0s13dkA)
++ [告别雪花算法？一文看懂新一代分布式 ID 方案：ULID](https://mp.weixin.qq.com/s/NugRXC4kRpCRDpbi7xzUuQ)
 
 ## 分布式锁
 
@@ -402,6 +404,8 @@
 
 ## 功能
 
++ [保护高并发服务稳定主要有三把利器：缓存、降级和限流](https://mp.weixin.qq.com/s/RnyB02d-qKdzSLgD4NPv0Q)
+
 ### 幂等
 
 + [什么是接口幂等性？不具备幂等性的接口会产生什么危害？](https://mp.weixin.qq.com/s/LoUPUSUHN5-YzjqraMvZcA)
@@ -472,6 +476,7 @@
 + [高并发解决方案（缓存， 限流， 降级）](https://mp.weixin.qq.com/s/Z4FXW0TROa5fXEmOMf55FA)
 + [漏桶算法vs令牌桶算法，限流到底用哪个？原理+实现深度解析！](https://mp.weixin.qq.com/s/9eANd4zOsDtA-mUvSuZZYw)
 + [限流算法](https://mp.weixin.qq.com/s/oE2FKwE6qn1KYRa-hOpmEA)
++ [面试官：高并发场景下，一个好的熔断策略该怎么设计？](https://mp.weixin.qq.com/s/aH9kP_KqCd9I1wKBrcmbow)
 
 ### 大文件IO
 
@@ -537,6 +542,7 @@
 + [从崩溃到高可用：一文彻底搞懂缓存雪崩、缓存击穿、缓存穿透；相信我，面试必问](https://mp.weixin.qq.com/s/YoelBmHER47tDc2S20pmdg)
 + [缓存穿透、缓存击穿、缓存雪崩，这样回答要满分呀！](https://mp.weixin.qq.com/s/auO19jE0Sl6fjBLPI3YPgg)
 + [促销期间大量缓存同时过期：随机 TTL + 熔断降级实战防御指南](https://mp.weixin.qq.com/s/NxhYtpSUyPdjCT6lX-GZ6Q)
++ [图解 LRU Cache ：5 分钟搞懂 LRU Cache 核心原理](https://mp.weixin.qq.com/s/KBhWizb02mueHz7gGhRNbw)
 
 ## 优化
 

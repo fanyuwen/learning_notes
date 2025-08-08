@@ -107,6 +107,8 @@
 + [Rust借用检查器深度解析：从“劝退”到“真香”的核心保镖](https://mp.weixin.qq.com/s/yo63e5ASMEfPD7xTDFbZNw)
 + [Rust：当安全设计成为效率的代价](https://mp.weixin.qq.com/s/ArEmLgiSQiMwZwLYZWRv3g)
 + [Rust 做底层实现的高效 Python 库](https://mp.weixin.qq.com/s/WbriB7kPxQDKO6oPLsMTsg)
++ [Rust Async内幕：让代码学会"摸鱼"，效率还能翻倍的秘密！](https://mp.weixin.qq.com/s/oK525M83M9BTUtSOZAREuA)
++ [Rust 编程： PhantomData 的存在](https://mp.weixin.qq.com/s/KVEsXfmT2-loxwD6OEhzNw)
 
 # 框架
 

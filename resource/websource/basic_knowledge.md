@@ -21,6 +21,7 @@
 + [一文了解二进制的独特应用](https://mp.weixin.qq.com/s/gqMW4nIFGKM32TXBs0_LWg)
 + [深入理解操作系统（六）---进程调度，进程和线程理论，经典同步问题的一个题目](https://mp.weixin.qq.com/s/Bvpd6bRutcJ11SZYn1j7XQ)
 + [深入理解操作系统（八）---硬件地址变换机构&&空闲分区表的计算](https://mp.weixin.qq.com/s/0C0jw_1TKmB034b11W_UVg)
++ [深入理解计算机组成原理（十三）---寄存器介绍&&数据通路&&CPU核心器件](https://mp.weixin.qq.com/s/jit67JqK_65DJp_T2mVwUA)
 
 ## 文件系统
 
@@ -367,6 +368,7 @@
 + [CPU流水线技术原理](https://mp.weixin.qq.com/s/pefM8BeiGuvKQn7KjH4tTg)
 + [CPU指令执行过程（三）：代码的执行](https://mp.weixin.qq.com/s/DsA761jQZAQiEvMmy0tFTQ)
 + [GPU的结构与工作原理](https://mp.weixin.qq.com/s/slWcY4xMw6dlQCaPaNisaQ)
++ [CPU那些事儿-CPU benchmarks（上）](https://mp.weixin.qq.com/s/FmOaZ2vXl_ZBVXy68Qg-kw)
 
 ### 并发
 
@@ -402,6 +404,7 @@
 + [计算机操作系统 - 内存操作 API](https://mp.weixin.qq.com/s/9JqpBclcAr9kp4ko89B5Sg)
 + [存储器RAM和ROM的区别](https://mp.weixin.qq.com/s/z3x0hCI6Gsm9KBg0YDzpvw)
 + [4张图搞懂堆和栈的区别](https://mp.weixin.qq.com/s/fCVmahovwghwz5iUiTIS5w)
++ [NUMA 深度解析（三）：缓存一致性](https://mp.weixin.qq.com/s/R6xT9R1rFsuLeAj4znGLtQ)
 
 ## GPU
 

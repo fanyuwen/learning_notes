@@ -823,6 +823,7 @@
 + [架构师：如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/nZRnTvqTHT3BdnyYbN9P0g)
 + [【Java面试100题突击】82 高并发秒杀的业务场景如何设计？](https://mp.weixin.qq.com/s/gx2ASW1pBBdxGluHJvzQGQ)
 + [面试官：第三方服务经常挂，你的系统怎么保证高可用？](https://mp.weixin.qq.com/s/N7PIL7lCPoLmaWPVs4H6Zg)
++ [面试官：应对高并发，如何设计服务降级方案？](https://mp.weixin.qq.com/s/UE2HftpqhUsu2MCxlPpPzw)
 
 ## 领域知识
 

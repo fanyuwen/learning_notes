@@ -109,6 +109,9 @@
 + [Rust 做底层实现的高效 Python 库](https://mp.weixin.qq.com/s/WbriB7kPxQDKO6oPLsMTsg)
 + [Rust 编程： PhantomData 的存在](https://mp.weixin.qq.com/s/KVEsXfmT2-loxwD6OEhzNw)
 + [Rust 性能提升“最后一公里”：详解 Profiling 瓶颈定位与优化｜得物技术](https://mp.weixin.qq.com/s/jcJ6beJs0wDiVn7ocLhM-Q)
++ [Rust 奇异语法](https://mp.weixin.qq.com/s/giN_q2Rm7BUZm5LNZrJ5qQ)
++ [Rust & WebAssembly 性能调优指南：从毫秒级加速到KB级瘦身](https://mp.weixin.qq.com/s/OqTK5RFv1FNML96h50Vl-A)
++ [【Rust日报】Rust 中的生成式模式](https://mp.weixin.qq.com/s/NP6MIw5uL-gQeNGhzSaUGA)
 
 # 框架
 

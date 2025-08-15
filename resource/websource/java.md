@@ -568,6 +568,7 @@
 + [类设计没做好？《Effective Java》这 5 条原则让代码少踩坑](https://mp.weixin.qq.com/s/Bfp8qDkof2jt9inobPFszA)
 + [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/HqCFA_QNfAAacal7lbVuXQ)
 + [提前return？我被喷惨了。。。](https://mp.weixin.qq.com/s/Xd41iJDzFiDBjpsUq_0ONw)
++ [优化 if/else 的四种设计模式](https://mp.weixin.qq.com/s/fqL1KKeBqsaTwSzfSpIl9A)
 
 # 底层
 
@@ -1032,6 +1033,7 @@
 + [高并发编程-深入ReentrantLock-AQS·2](https://mp.weixin.qq.com/s/7KYR34RAkLn9vYF1Y72BKw)
 + [java并发包中的ReentrantLock锁详解篇](https://mp.weixin.qq.com/s/Loo3OINuAwR1OAAANPF5ig)
 + [一文看懂Java可重入锁原理](https://mp.weixin.qq.com/s/jXdzzXXMjRqRtCzrB2Bc5A)
++ [从源码到场景，彻底搞懂AQS：Java并发的"隐藏大佬"是怎么工作的？](https://mp.weixin.qq.com/s/wvhV8545odlboF1Nk4Y9DA)
 
 #### volatile
 
@@ -1740,6 +1742,7 @@
 + [再聊 SPI 机制](https://my.oschina.net/u/4494662/blog/11049008)
 + [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
 + [一文让你搞懂Java中的SPI设计模式](https://mp.weixin.qq.com/s/EIEZBwKqoxlRysFFPxprsg)
++ [Java SPI 机制初探｜得物技术](https://my.oschina.net/u/5783135/blog/18687268)
 + [Java 的 SPI 机制详解](https://my.oschina.net/u/4090830/blog/17869131)
 + [Java SPI机制及其与Spring SPI、Spring Boot SPI的异同](https://mp.weixin.qq.com/s/N16tju6dVeue9liMD9HqMQ)
 + [手撸RPC框架 -SPI机制基础功能实现](https://mp.weixin.qq.com/s/Druh2yOtAedsKDdEKSS0-A)
@@ -1829,6 +1832,8 @@
 + [Apache Commons Math：不仅仅能解决在Java中0.1+0.2=0.30000000000004的数学计算工具包](https://mp.weixin.qq.com/s/Zngz8uyHRBgKxaMkkC78Yw)
 + [Apache Commons ValidationUtils：让参数校验从 "体力活" 变 "优雅事"](https://mp.weixin.qq.com/s/S2ME0UkdSKh8Bbrj6kIg1A)
 + [Apache Commons EnumUtils：让枚举操作从繁琐到优雅的蜕变](https://mp.weixin.qq.com/s/es6fC3bpruCppZd_xtIKSw)
++ [Apache Commons ReflectionUtils：让 Java 反射从 “劝退” 到 “真香” 的工具类](https://mp.weixin.qq.com/s/lhkb9JTl2KG4bGTiQ2MXfQ)
++ [Apache Commons RandomStringUtils：让随机字符串生成效率提升 10 倍的工具类](https://mp.weixin.qq.com/s/vgtO8ocCIPjCYYUrqcMK6Q)
 
 ## apollo
 
@@ -1862,7 +1867,7 @@
 + [多级缓存架构实战：Caffeine+Redis 实现百万 QPS 的秘诀](https://mp.weixin.qq.com/s/Ckzun7_g7odkOioWFHCQbw)
 + [Redis+Caffeine 太强了！](https://mp.weixin.qq.com/s/jmX1X1XNmcN22pzFTtPlNA)
 + [性能利器Caffeine缓存全面指南](https://segmentfault.com/a/1190000044579389)
-+ [缓存之美：万文详解 Caffeine 实现原理（上）](https://my.oschina.net/u/4090830/blog/17578210)
++ [缓存之美：万文详解 Caffeine 实现原理（上）](https://my.oschina.net/u/4090830/blog/18687082)
 + [缓存之美：万文详解 Caffeine 实现原理（下）](https://my.oschina.net/u/4090830/blog/18017722)
 + [Caffeine：从动态过期时间到时间过期原理](https://mp.weixin.qq.com/s/3dOqFfzk12_Va5BmoSA_9g)
 + [Caffeine缓存王者归来：本地缓存性能提升300%的秘密，架构师必备的调优利器！](https://mp.weixin.qq.com/s/Aw6udavUNViaNbczDBOJWA)
@@ -2088,6 +2093,7 @@
 + [MyBatis拦截器在服务内存防护场景中的应用](https://mp.weixin.qq.com/s/PO28N-3GuvxqWN2FvVal6A)
 + [MyBatis 的 SQL 拦截器：原理、实现与实践](https://mp.weixin.qq.com/s/sMOX1M_LxfjlieXxz-7sXA)
 + [MyBatis：不要拿数字和字符串比较，有坑](https://mp.weixin.qq.com/s/4hHtvURQUWBxC5llWaGR7A)
++ [MyBatis流式查询详解](https://mp.weixin.qq.com/s/VGTTYj54-fO35jbfAh7IIQ)
 
 ### plus
 
@@ -2373,6 +2379,7 @@
 + [ResolvableType 彻底解密Java泛型反射](https://mp.weixin.qq.com/s/L6QPQdSDDFgXzN0s3y8Izg)
 + [反射之外的类型解析利器：TypeDescriptor](https://mp.weixin.qq.com/s/H-1QHWR03O9iqcwFH7v_BA)
 + [请不要自己封装！Spring 自带24个工具类，让你开发效率飙升](https://mp.weixin.qq.com/s/1GigusQh9tKmb9MPzkEebg)
++ [Spring的@Autowired能用在集合上吗？](https://mp.weixin.qq.com/s/HNufhNimoFxp8kHnnabCGg)
 
 #### 配置
 

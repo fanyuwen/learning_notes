@@ -106,6 +106,7 @@
 + [C++编程入门的24个基本型之十六：模运算妙用](https://mp.weixin.qq.com/s/67l8pLjk6D9kp6aApR279w)
 + [C++项目构建之六 c++中include的使用](https://mp.weixin.qq.com/s/9AdFLRa3-grfJWXI-A2NZQ)
 + [C++左值右值终极一战：那个写 i++ 的同事，我劝他还是别再写了！](https://mp.weixin.qq.com/s/mgkKrOy8SF1ehibC_m3Nsw)
++ [C++循环控制：break和continue的妙用（附多层循环详解）](https://mp.weixin.qq.com/s/q4e8i8cVBXBat6frHL2y8w)
 
 ### 高阶
 
@@ -236,6 +237,8 @@
 + [C++灵魂拷问：结构体成员变量会有默认值吗](https://mp.weixin.qq.com/s/IeRCteFvbyNqtoFGSo4o6Q)
 + [C++高级策略揭秘：深入浅出SFINAE](https://mp.weixin.qq.com/s/W4ok9ur3nG3QBkUXlwz-yQ)
 + [C++灵魂拷问：结构体可以使用memset初始化吗](https://mp.weixin.qq.com/s/-n7lcUYcCGdHI8np0HN_Cg)
++ [C++内存管理之std::enable_shared_from_this](https://mp.weixin.qq.com/s/2p727u80RL_YOkrIVF1qaw)
++ [C++技法：100行代码为Class动态附加任意类型数据](https://mp.weixin.qq.com/s/UPfyI9lpMkg4ATF7eZURjg)
 
 #### 指针
 
@@ -325,6 +328,7 @@
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
 + [C++11新特性：std::thread多线程](https://mp.weixin.qq.com/s/65yYeQxH_aGhF-IbvPYHqw)
 + [C++11新特性：shared_ptr与weak_ptr（实例测试）](https://mp.weixin.qq.com/s/i6eEgxpkjDlae_JjlMirFA)
++ [C++11 thread 参数传递深度解析：为什么需要 std::ref 而非直接引用？](https://mp.weixin.qq.com/s/4KWEBn5HzEYzaZYRz7io5g)
 + [跟我学c++中级篇——c++14中的透明操作符](https://mp.weixin.qq.com/s/dkr4TNt2od_lyCUCawVcCA)
 + [C++20新特性详解：模块化与协程实战](https://mp.weixin.qq.com/s/x3i66Vdmvc3Lz4PUXVssXw)
 + [百万C++开发者进阶：掌握C++17这15个特性，项目性能实现跃迁！](https://mp.weixin.qq.com/s/zVNEA6w6St6q_HtOcyI51A)

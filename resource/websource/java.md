@@ -477,6 +477,7 @@
 + [Java开发效率低？学会Lambda表达式，代码量直接减半！](https://mp.weixin.qq.com/s/bENxsdI-Li4C-fxH0ffnxg)
 + [150. Java Lambda 表达式 - Supplier 接口](https://mp.weixin.qq.com/s/eMQhlZvQwGOXPfNxC23log)
 + [实战：java如何判定节假日和工作日](https://mp.weixin.qq.com/s/VXMRQ7iOQgMPBx_seSwmJw)
++ [再见了，Java Lambda 表达式（2014–2025）：曾经优雅，如今鸡肋？](https://mp.weixin.qq.com/s/unHMes5upougCkD--4NaMQ)
 
 ## 代码质量
 
@@ -2819,6 +2820,7 @@
 + [Spring AI + RAG：网页智能解析，精准问答一键开启！](https://mp.weixin.qq.com/s/o9aH6nrNA8j2dNYKPucAVw)
 + [分分钟用Java实现多轮对话记忆功能](https://mp.weixin.qq.com/s/xL-s2NqVgtgvql2QbUvZQg)
 + [Spring AI 框架中如何集成 MCP？](https://mp.weixin.qq.com/s/J5kzNGH6vCRU46uzrfb8QQ)
++ [Spring AI MCP基础](https://mp.weixin.qq.com/s/lxa3krYUz-js54mkAMXmPw)
 
 ### cloud
 
@@ -3161,6 +3163,7 @@
 + [EnvironmentPostProcessor：启动前环境定制的利器](https://mp.weixin.qq.com/s/0dLhnUer7X5t1oO90-goRA)
 + [开启 IDE 智能提示：解锁 Spring Boot 配置增强器](https://mp.weixin.qq.com/s/CqObp8nB1LW3pNjL4Xvw9Q)
 + [刚来的实习生在异常代码块里打印堆栈，技术经理看到后气得直跺脚，Spring Boot优雅地处理异常，你不会吗？](https://mp.weixin.qq.com/s/3C1C11pKb7E-7C13yOMOAQ)
++ [这一次优化，让我的 Spring Boot 飞了起来（CPU 直降 70%）](https://mp.weixin.qq.com/s/bkqPZnLBB2V6A8QuZwBfGg)
 
 #### 版本特性
 

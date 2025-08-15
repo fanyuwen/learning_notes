@@ -101,6 +101,7 @@
 + [Python转义字符](https://mp.weixin.qq.com/s/Y9_4YO35piuDPuz-NHGXvg)
 + [海象操作符=：Python社区为何差点因它分崩离析？](https://mp.weixin.qq.com/s/T0lixlZw6yfkK_gaKqBXtA)
 + [类型注解：Python性能的隐形加速器](https://mp.weixin.qq.com/s/9IgogQw7U4NLiAxfdSRGDA)
++ [Python倒车请注意！负步长range的10个高能用法，让代码效率翻倍](https://mp.weixin.qq.com/s/OfBWKTnupp92McY0fuNycQ)
 
 ### 函数/方法
 
@@ -176,6 +177,7 @@
 + [python递归基础](https://mp.weixin.qq.com/s/F2kG7du19lYHLrPKOVG3Qw)
 + [12.Python的函数式编程：编写简洁高效的数据处理管道](https://mp.weixin.qq.com/s/zSLg6tY1WCVcJ0fSUB8cXw)
 + [Python 内置函数 filter() 元素过滤](https://mp.weixin.qq.com/s/SQpeAppFBzif11YcyV8TKg)
++ [Python闭包中的循环变量问题及解决方案](https://mp.weixin.qq.com/s/JrE-wDlF0ZPlmiCSN6YNLA)
 
 ### 面向对象
 
@@ -745,6 +747,8 @@
 + [懂了，if __name__ = = "__main__":](https://mp.weixin.qq.com/s/cRK6p5sZ0lmV0tto79uyow)
 + [Python 下划线用法盘点：从 _ 到 __name__](https://mp.weixin.qq.com/s/-wdiD9mWVpfBTOkkZSonBQ)
 + [python 装饰器的高级10种用法](https://mp.weixin.qq.com/s/3jovDXTHr5N-qP2yNcjYYw)
++ [Python 控制流技术讲解](https://mp.weixin.qq.com/s/HIR1-D3hlCEvtFgHHi48sA)
++ [Python：入口点详解（模块、包与程序）](https://mp.weixin.qq.com/s/xttsVS0gCLUej_GhAhFnJQ)
 
 ## 新特性
 
@@ -779,6 +783,7 @@
 + [Python数据可视化最佳库——Plotly](https://mp.weixin.qq.com/s/TsPDiMdDLEm5LM-0V1u5eA)
 + [Python第三方库的王者：requests](https://mp.weixin.qq.com/s/hE7pd-WhVKreq1B1YxSb9A)
 + [Python第三方最强王者库：requests](https://mp.weixin.qq.com/s/qQksW6kNOLJFJjmVr_9ruA)
++ [motor，一个超酷的 Python 库！](https://mp.weixin.qq.com/s/2ZhS9OrIThfhurJMJq0wNg)
 + [一文搞懂 Python 的 ujson 模块：比 json 快 10 倍的秘密](https://mp.weixin.qq.com/s/GiGQECM82cEdpqv5Aa9nGQ)
 + [masonite，一个超强的 Python 库！](https://mp.weixin.qq.com/s/5O9S2rtO4xcSLzty7Vjvig)
 + [python入门系列二十（peewee）](https://mp.weixin.qq.com/s/w60YXRv1nhQWRYUSCShLvw)
@@ -1084,6 +1089,7 @@
 + [python代码调试工具pudb的多进程支持](https://mp.weixin.qq.com/s/iS4aCiA0CvkH7gD_i_Omig)
 + [Python中的数据导入与查询](https://mp.weixin.qq.com/s/4y0nZ8LvBKvAwFKEPixq7g)
 + [用Python来解放双手，PyAutoGUI详解](https://mp.weixin.qq.com/s/Q8rf8CjfgdaFsn5YkqkcvQ)
++ [让Python任务跑得飞起的神仙编排工具，](https://mp.weixin.qq.com/s/A_KDrFT-nTjZhauBkIl9tQ)
 
 ## 框架
 
@@ -1181,3 +1187,4 @@
 + [Python和C语言哪个更容易学，为什么C语言比较难](https://mp.weixin.qq.com/s/0WsgUjcngICLMLU1Hph09Q)
 + [明明Python那么多人用，为什么总有人喷Python？](https://mp.weixin.qq.com/s/_-V5CMHk09LTD7B2WF0dtw)
 + [C++与Python：内存管理与指针的对比](https://mp.weixin.qq.com/s/C75Haa47Oeq5DsPwA0BMSw)
++ [用Python实在是太方便了，可读性太强了，写得也太快了](https://mp.weixin.qq.com/s/7v13huH_fsfua4ZJQP3UBw)

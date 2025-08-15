@@ -107,8 +107,8 @@
 + [Rust借用检查器深度解析：从“劝退”到“真香”的核心保镖](https://mp.weixin.qq.com/s/yo63e5ASMEfPD7xTDFbZNw)
 + [Rust：当安全设计成为效率的代价](https://mp.weixin.qq.com/s/ArEmLgiSQiMwZwLYZWRv3g)
 + [Rust 做底层实现的高效 Python 库](https://mp.weixin.qq.com/s/WbriB7kPxQDKO6oPLsMTsg)
-+ [Rust Async内幕：让代码学会"摸鱼"，效率还能翻倍的秘密！](https://mp.weixin.qq.com/s/oK525M83M9BTUtSOZAREuA)
 + [Rust 编程： PhantomData 的存在](https://mp.weixin.qq.com/s/KVEsXfmT2-loxwD6OEhzNw)
++ [Rust 性能提升“最后一公里”：详解 Profiling 瓶颈定位与优化｜得物技术](https://mp.weixin.qq.com/s/jcJ6beJs0wDiVn7ocLhM-Q)
 
 # 框架
 
@@ -135,6 +135,8 @@
 + [Rust 中基于 async 和 Future 的异步编程](https://mp.weixin.qq.com/s/lgZFhim3z2P2lDSvWBv7gA)
 + [解密Rust并发编程！Crossbeam让并发bug减少90%，内存性能翻倍](https://mp.weixin.qq.com/s/mmU8ggMHApAxIK-lNUpuOA)
 + [Rust 中的并发与异步：高效执行多个 Future 的技巧与方法](https://mp.weixin.qq.com/s/DFdwNYt5UBcHx1nETLLE1g)
++ [揭秘 Rust Tokio：你真的懂异步运行时吗？](https://mp.weixin.qq.com/s/tEru0Yis0Tgy1TPrEbzRiw)
++ [Rust Async内幕：让代码学会"摸鱼"，效率还能翻倍的秘密！](https://mp.weixin.qq.com/s/oK525M83M9BTUtSOZAREuA)
 
 # 资源
 
@@ -178,3 +180,5 @@
 + [【Rust日报】一种全新独特的指令集架构，专注于极高的能效，支持 C++ 和 Rust 编译](https://mp.weixin.qq.com/s/NO8W3QlRuaRsxHGJ_eCkUw)
 + [使用Rust的公司越来越多，常见业务逐步引入Rust开发](https://mp.weixin.qq.com/s/meQB14XdI_ujRW6nu4cS2w)
 + [Rust有望成为工业自动化系统开发的下一代编程语言](https://mp.weixin.qq.com/s/NZMQ1RaOec172QBvwhZ9dA)
++ [为什么十年后还站在舞台中央的，可能只剩 Rust](https://mp.weixin.qq.com/s/MIE8q4VgtgjUQ7vtRGFn2Q)
++ [内存大作战：Rust 凭什么在 5 种主流语言中脱颖而出？](https://mp.weixin.qq.com/s/j39qxxXvOvBwE-oTAvjgbw)

@@ -38,6 +38,8 @@
 + [协程带来的开发范式的革新](https://mp.weixin.qq.com/s/ynFF6WbNetKLIv7lDSTSpQ)
 + [“协程太难了…” 我肝了 2 W 字 画了 30 张图给你讲明白了！](https://mp.weixin.qq.com/s/Mvx3FvW83DcdhCREexu2wg)
 + [Coroutine 101: From Zero to Hero](https://mp.weixin.qq.com/s/PrbFkUVhAYjzZwv61ZcAiQ)
++ [Kotlin协程之通信神器 Kotlin Channel](https://mp.weixin.qq.com/s/dgf4FkpB3t-M8V98MVOeSA)
++ [Kotlin suspend 函数的实现机制](https://mp.weixin.qq.com/s/lJnML72KoCY1RPs9_9dm6Q)
 
 ## 技术月报
 

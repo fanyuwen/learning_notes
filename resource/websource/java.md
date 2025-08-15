@@ -476,6 +476,7 @@
 + [Java Bean内省机制](https://mp.weixin.qq.com/s/7aFhMSAxVMZt7VCBFyVEOg)
 + [Java开发效率低？学会Lambda表达式，代码量直接减半！](https://mp.weixin.qq.com/s/bENxsdI-Li4C-fxH0ffnxg)
 + [150. Java Lambda 表达式 - Supplier 接口](https://mp.weixin.qq.com/s/eMQhlZvQwGOXPfNxC23log)
++ [实战：java如何判定节假日和工作日](https://mp.weixin.qq.com/s/VXMRQ7iOQgMPBx_seSwmJw)
 
 ## 代码质量
 
@@ -868,6 +869,8 @@
 + [02-线程状态以及基础线程API使用](https://mp.weixin.qq.com/s/anyeD3_LkUnuPTEEcKCFEg)
 + [JUC-15 -- 线程安全的集合类](https://mp.weixin.qq.com/s/H9ntYCKyZ-h5uhNXeaRrkg)
 + [并发编程中的等待通知模型](https://mp.weixin.qq.com/s/sEFcsQqgJGaY-5KcDpTskw)
++ [美团实习一面：高并发场景下基于复制-修改-替换模式的安全更新策略有哪些？](https://mp.weixin.qq.com/s/ICi_x5H2GBTZEnbn-fWbpw)
++ [大白话聊明白Thread、Runnable、FutureTask和Callable 之间的关系](https://mp.weixin.qq.com/s/junOzgOd0klMXJFfPM2yDQ)
 
 #### CAS
 
@@ -1027,6 +1030,7 @@
 + [轻松掌握Java多线程 - 第八章：Lock接口与ReentrantLock](https://mp.weixin.qq.com/s/t6joqIHwznmb5A4PXPbxdg)
 + [高并发编程-深入ReentrantLock-AQS·2](https://mp.weixin.qq.com/s/7KYR34RAkLn9vYF1Y72BKw)
 + [java并发包中的ReentrantLock锁详解篇](https://mp.weixin.qq.com/s/Loo3OINuAwR1OAAANPF5ig)
++ [一文看懂Java可重入锁原理](https://mp.weixin.qq.com/s/jXdzzXXMjRqRtCzrB2Bc5A)
 
 #### volatile
 
@@ -1052,6 +1056,7 @@
 + [java volatile关键字使用详解](https://mp.weixin.qq.com/s/X7OwzE-VBgddmPziWQk4tw)
 + [Java volatile 关键字到底是什么｜得物技术](https://my.oschina.net/u/5783135/blog/18686270)
 + [Java volatile关键字：你真的懂了吗？](https://mp.weixin.qq.com/s/hoNkjnJxVMbWe98ahhP8UA)
++ [面试官最爱问的volatile，底层原理到底是什么？](https://mp.weixin.qq.com/s/YvoeMfAyCGpkT-2p6rso-A)
 
 ## 源码
 
@@ -1062,6 +1067,8 @@
 + [OutputStream源码解析：你真的不来看看？](https://mp.weixin.qq.com/s/7NnGw0CaXnkshOF6lse2nQ)
 + [深入了解TreeMap，从源码解析你确定不来看看吗？](https://mp.weixin.qq.com/s/q7mmzQ_ayt4hNTqTfkDqIg)
 + [Java 语言基础 - LinkedHashSet & LinkedHashMap 源码分析](https://mp.weixin.qq.com/s/KYX9oZc70c55mq3RNZSR4A)
++ [Java - ArrayList源码解析](https://mp.weixin.qq.com/s/elviqOqb_Ablq_ETiH2yLg)
++ [LinkedList 源码分析](https://mp.weixin.qq.com/s/-kAYeLblfTa_c4J0dhd0KA)
 
 ## JVM
 
@@ -1590,6 +1597,7 @@
 + [ThreadLocal：线程的专属宝藏库，你真的会用吗？](https://mp.weixin.qq.com/s/0RJPvBlxfT64LkfOS7ZB-Q)
 + [ThreadLocal 还不会用？看完这一篇就够了](https://mp.weixin.qq.com/s/KrkG9eAI14K0t-J6oD2RKg)
 + [轻松掌握Java多线程 - 第七章：ThreadLocal的使用](https://mp.weixin.qq.com/s/0H4S4grMrLwKUVatqIZngg)
++ [一文看懂ThreadLocal的原理](https://mp.weixin.qq.com/s/IRmSViFqWj10y2-FdxJ5ig)
 
 ### Lock
 
@@ -1818,6 +1826,8 @@
 
 + [Apache Commons：被低估的 Java 开发 “瑞士军刀”，90% 的人只用了 10% 的功能](https://mp.weixin.qq.com/s/HIgaJJZssfMsI3uajY0YEA)
 + [Apache Commons Math：不仅仅能解决在Java中0.1+0.2=0.30000000000004的数学计算工具包](https://mp.weixin.qq.com/s/Zngz8uyHRBgKxaMkkC78Yw)
++ [Apache Commons ValidationUtils：让参数校验从 "体力活" 变 "优雅事"](https://mp.weixin.qq.com/s/S2ME0UkdSKh8Bbrj6kIg1A)
++ [Apache Commons EnumUtils：让枚举操作从繁琐到优雅的蜕变](https://mp.weixin.qq.com/s/es6fC3bpruCppZd_xtIKSw)
 
 ## apollo
 
@@ -2905,6 +2915,7 @@
 + [Spring Cloud 快速通关 6: 网关服务Gateway](https://mp.weixin.qq.com/s/dPgqL6aLRERPMkoYWFr84w)
 + [如何用 Spring Cloud Gateway 实现流量染色](https://mp.weixin.qq.com/s/YVjvh-Ht3llYOkjLV8vnvQ)
 + [SringCloud网关Gateway功能实现](https://mp.weixin.qq.com/s/V5sbRKDgXDWcQ_fleimi4g)
++ [Spring Cloud Gateway 核心原理](https://mp.weixin.qq.com/s/DRzVUFakayfZb4AKlxej-g)
 
 #### AI
 
@@ -3149,6 +3160,7 @@
 + [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)
 + [EnvironmentPostProcessor：启动前环境定制的利器](https://mp.weixin.qq.com/s/0dLhnUer7X5t1oO90-goRA)
 + [开启 IDE 智能提示：解锁 Spring Boot 配置增强器](https://mp.weixin.qq.com/s/CqObp8nB1LW3pNjL4Xvw9Q)
++ [刚来的实习生在异常代码块里打印堆栈，技术经理看到后气得直跺脚，Spring Boot优雅地处理异常，你不会吗？](https://mp.weixin.qq.com/s/3C1C11pKb7E-7C13yOMOAQ)
 
 #### 版本特性
 
@@ -3618,6 +3630,7 @@
 + [Spring Boot 参数接收全解析](https://mp.weixin.qq.com/s/iDE_AxflT22KcPvDwTVPfA)
 + [Spring Boot 如何正确解决重放攻击](https://mp.weixin.qq.com/s/TpIDdEXkoKRnTVrQd_wJOQ)
 + [用 Spring Boot 写 REST API，这样做既优雅又高效！](https://mp.weixin.qq.com/s/8IUEAB_VDKkFmaabIckMnQ)
++ [看了 ResponseEntity 这个类，决定再也不重复发明 “构造HTTP响应体” 这类轮子了！](https://mp.weixin.qq.com/s/NUfoXeGhnkQvwwtclAFLXA)
 
 ##### 文件上传下载
 
@@ -3737,6 +3750,7 @@
 + [SpringBoot集成SQLite：轻量级数据库的极简CRUD实战](https://mp.weixin.qq.com/s/bvYsirFyRw9Z4qz1x31p4A)
 + [SpringBoot 执行原生Sql](https://mp.weixin.qq.com/s/dnazHyAHWBx9qz-RcMketw)
 + [Spring Boot 内置8种控制数据库连接方式](https://mp.weixin.qq.com/s/qF5HSljXUXHo9eky-ZEHbQ)
++ [SpringBoot中快速操作数据库，不想使用Mybatis怎么办？](https://mp.weixin.qq.com/s/QkVrIGIUPWg2oSWFsdT3ew)
 
 ##### TRANSACTION
 
@@ -4472,6 +4486,7 @@
 + [【工具】Jar Analyzer：实战Jar包审计利器](https://mp.weixin.qq.com/s/HYViGNyEpyUpp0Z7hZqhrw)
 + [分享一个IP解析工具类](https://mp.weixin.qq.com/s/DpZfRbpUu-Fnrs6C901v8w)
 + [别再错过！Java 开发者必须掌握的 MQTT 协议对接秘籍，看完直呼过瘾](https://mp.weixin.qq.com/s/grtrhhMET7mGTpvcE4nQbw)
++ [Easy-cache：统一缓存解决方案，让开发人员告别重复的缓存代码](https://mp.weixin.qq.com/s/OENxcvRSGtkPtNzjWwK6KQ)
 
 # 其它环境
 

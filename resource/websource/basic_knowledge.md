@@ -182,6 +182,9 @@
 + [在 Linux 上进行 Apache Bench 测试](https://mp.weixin.qq.com/s/f22iRyoWZijfll95gybyvQ)
 + [inode 的10个典型应用实例详解](https://mp.weixin.qq.com/s/xeeWBmasqqvUwRWse4bdIA)
 + [Notify机制-Linux内核间通信](https://mp.weixin.qq.com/s/Lqdtxk60zQbrjyIbSvV95g)
++ [Linux 内存管理设计与实现：解密物理内存和虚拟内存分配原理](https://mp.weixin.qq.com/s/NuvVES-kijwY7h-Y5yCYLQ)
++ [Linux 虚拟内存管理引导篇](https://mp.weixin.qq.com/s/2Zz4QsxbQapwi6La1gfdaA)
++ [你以为懂指针，其实还差一步！看看内核是怎么玩的](https://mp.weixin.qq.com/s/ytgRvkEPb35j8qc46SXanA)
 
 ### 网络
 
@@ -750,6 +753,7 @@
 + [零拷贝技术：sendfile系统调用](https://mp.weixin.qq.com/s/JSCGkDC257aF8XsBrBT7RA)
 + [零拷贝技术：Direct I/O](https://mp.weixin.qq.com/s/94HmP4Z64P61RkdH98KiuQ)
 + [腾讯一面：epoll不支持文件IO，kqueue怎么做到的！](https://mp.weixin.qq.com/s/f5IuDt89mP81ssnRKFN_Rg)
++ [零拷贝技术：mmap 系统调用](https://mp.weixin.qq.com/s/Clam2h-Z3Ybq1OSz_DwMPg)
 
 ## 字符编码
 

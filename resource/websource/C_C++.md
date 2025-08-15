@@ -42,6 +42,7 @@
 + [Modern CMake：构建规范化的C++工程，从放弃“学生范CMakeLists”开始](https://mp.weixin.qq.com/s/zCtwuvHB3MlbGbpawsfOjQ)
 + [C++项目构建之二 初识cmake](https://mp.weixin.qq.com/s/FOn7Cnti0yqYbDEh-O8S_A)
 + [C++项目构建之四 cmake中的宏](https://mp.weixin.qq.com/s/TFyPiytJ8cB9nNIpP6s_gA)
++ [CMake依赖太乱？用这个神器轻松搞定可视化！](https://mp.weixin.qq.com/s/AjUCIVcC34a1IikJgGzYgw)
 
 ### 第三方技术
 
@@ -102,6 +103,9 @@
 + [C++基础之list](https://mp.weixin.qq.com/s/1S48F1OmSnwyGdvFQXAzmw)
 + [C++编程入门的24个基本型之五：整数的数位运算问题](https://mp.weixin.qq.com/s/oUqwM0b2eHc-B9Xq4DobzA)
 + [从C到C++：结构体的进化](https://mp.weixin.qq.com/s/K9sAfiWfpP6OklFOpd82jA)
++ [C++编程入门的24个基本型之十六：模运算妙用](https://mp.weixin.qq.com/s/67l8pLjk6D9kp6aApR279w)
++ [C++项目构建之六 c++中include的使用](https://mp.weixin.qq.com/s/9AdFLRa3-grfJWXI-A2NZQ)
++ [C++左值右值终极一战：那个写 i++ 的同事，我劝他还是别再写了！](https://mp.weixin.qq.com/s/mgkKrOy8SF1ehibC_m3Nsw)
 
 ### 高阶
 
@@ -229,6 +233,9 @@
 + [解构内存池：C++高性能编程的底层密码](https://mp.weixin.qq.com/s/cMJ9T4rrU35U-ojN30y4lQ)
 + [C++ 的复制消除（Copy elision）](https://mp.weixin.qq.com/s/6AwVTHhqD8fv-G8Jq1x3kg)
 + [看起来能用，其实拉垮：99% C++ 项目日志系统存在的设计问题](https://mp.weixin.qq.com/s/NodONEOyKUnftVyJB6lHVQ)
++ [C++灵魂拷问：结构体成员变量会有默认值吗](https://mp.weixin.qq.com/s/IeRCteFvbyNqtoFGSo4o6Q)
++ [C++高级策略揭秘：深入浅出SFINAE](https://mp.weixin.qq.com/s/W4ok9ur3nG3QBkUXlwz-yQ)
++ [C++灵魂拷问：结构体可以使用memset初始化吗](https://mp.weixin.qq.com/s/-n7lcUYcCGdHI8np0HN_Cg)
 
 #### 指针
 
@@ -251,6 +258,7 @@
 
 + [跟我学C++中级篇——常函数](https://mp.weixin.qq.com/s/ZYtQPL7_wI8JMEhs_P3siw)
 + [跟我学C++中级篇——编译时对函数存储的处理](https://mp.weixin.qq.com/s/p0Ja_nntHYJeSOSk1A8D2A)
++ [透过汇编看 C++：虚函数表](https://mp.weixin.qq.com/s/FJbrAPlrsU04aqAlILaNcA)
 
 #### 数据结构&算法
 
@@ -312,6 +320,7 @@
 + [C++中常用新特性](https://mp.weixin.qq.com/s/1LVCgDo1CgJ0WSauP57W5Q)
 + [C++11：shared_ptr的设计哲学（原理+源码）：内存安全和性能的架构权衡](https://mp.weixin.qq.com/s/f67oq9px9mQUGJK7Sa5KKA)
 + [从 C++17、C++20 到 C++23，不断进阶的枚举类](https://mp.weixin.qq.com/s/i8y4XJxDpih7XxJZjY3ZFw)
++ [set_timeout(5000) 这行“屎山”代码，终于能用C++11优雅地终结了](https://mp.weixin.qq.com/s/QpzuoAtt0R5GokY8HOPnmA)
 + [全面解析C++11新特性：现代编程的新起点](https://mp.weixin.qq.com/s/pCiEKQSIk3V5WPCaqBpYzg)
 + [C++11新特性：STL容器](https://mp.weixin.qq.com/s/Y8oRc5R7Bj-3fs5pKDCqAA)
 + [C++11新特性：std::thread多线程](https://mp.weixin.qq.com/s/65yYeQxH_aGhF-IbvPYHqw)
@@ -339,6 +348,7 @@
 + [c++26新功能—Read-Copy-Update](https://mp.weixin.qq.com/s/V5sXlUoz5_jaHTiN8Resfg)
 + [C++老手都犯的错：MyClass obj(); 到底是不是对象？C++11这个语法终结了所有争议！](https://mp.weixin.qq.com/s/mxQrhDVhzvT8lVxbNOVtHA)
 + [c++26新功能—SIMD](https://mp.weixin.qq.com/s/9gPcQFvmrWomqUVKpZjXbg)
++ [c++26新功能—风险指针](https://mp.weixin.qq.com/s/HvMH-AYnmD7ywDDIYrpQvw)
 
 #### 面向对象
 
@@ -375,6 +385,7 @@
 + [透过汇编看 C++：构造函数](https://mp.weixin.qq.com/s/xwsNVnRrIMVPp2bDb5ZFkQ)
 + [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 + [（三）C++类的概念、特性](https://mp.weixin.qq.com/s/lyxognOKcewQ8rm_Kta-EQ)
++ [构造C++对象时控制执行顺序的方案3](https://mp.weixin.qq.com/s/nswjogfP5tmGQpE-7zjuQA)
 
 ##### 泛型
 
@@ -501,6 +512,7 @@
 + [告别头文件，编译效率提升 42%！C++ Modules 实战解析 | 干货推荐](https://my.oschina.net/u/5265430/blog/16460343)
 + [为什么老外喜欢用for(;;)，我们喜欢用While(1)来实现“死”循环](https://mp.weixin.qq.com/s/vnCPZHr3QJ3cm-PBH2TK_A)
 + [京东C++一面面经，面试安排的很突然](https://mp.weixin.qq.com/s/ggHumdOxUK__QoJYlkXVug)
++ [为什么Linus说C++是最烂的编程语言？为什么大模型写C++就像是小学生？能打败ai的还是得年轻人](https://mp.weixin.qq.com/s/Pbl1g8ABxiMcmTjnIH9F-w)
 
 ### 学习资源
 
@@ -725,6 +737,7 @@
 + [Linux C编程获取指定网口IP和MAC地址](https://mp.weixin.qq.com/s/LEtK1sFgvzEnAVd2nKmMYw)
 + [浮点排序的高效实现：通过位运算转换为整数排序](https://mp.weixin.qq.com/s/9KAHeYeCfwV516P0TkXLaQ)
 + [C语言设计模式：谁说面向过程写不出优雅代码？](https://mp.weixin.qq.com/s/qNPeLLrjO6tais828-2s2Q)
++ [「玩转C语言系列」十几行写第1个跨平台C语言图形化界面，原来如此简单啊！](https://mp.weixin.qq.com/s/HciIUc3uTn4jgVc0xSxSkA)
 
 ### 前景
 
@@ -832,6 +845,9 @@
 + [函数篇-4：压栈与弹栈](https://mp.weixin.qq.com/s/iLZjSVPaoo34ydxmG1PSsw)
 + [嵌软面试-基础篇：20-内存对齐的优缺点](https://mp.weixin.qq.com/s/80Yk36974ZgHtsLhdFPy7Q)
 + [嵌入式MCU开发进阶：如何用Linker文件玩转性能优化](https://mp.weixin.qq.com/s/MUtITrRoO4qddppbNRSg9Q)
++ [嵌软面试-操作系统篇：4-什么是原子操作](https://mp.weixin.qq.com/s/ZvIJDW7MMRU-qw3ybJtXPA)
++ [嵌软面试-操作系统片：6-自旋锁与互斥锁的区别](https://mp.weixin.qq.com/s/VMNKXE4TM3XBG_MDdCN2Gg)
++ [嵌入式软件开发中的表驱动法：原理、应用与实战](https://mp.weixin.qq.com/s/BNIuWVxy08qFMOl0wkTFEw)
 
 # ARM
 

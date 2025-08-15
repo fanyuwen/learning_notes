@@ -221,6 +221,7 @@
 + [微服务限流：别说算法了，就问你“阈值”怎么算？](https://mp.weixin.qq.com/s/BQKP5-AqcadIhIfPTCGJEQ)
 + [微服务整体架构设计实践](https://mp.weixin.qq.com/s/WUuy5cA5YJGxBOEkkSaiiw)
 + [微服务链路追踪原理与SpringCloud方案](https://mp.weixin.qq.com/s/tVAVi863V5Rk9hSdTWKmHA)
++ [面试官：微服务如何保证系统高可用？](https://mp.weixin.qq.com/s/uJZBFnFlPVNaBzOqpgJfiw)
 
 # 分布式
 
@@ -281,6 +282,7 @@
 + [数据一致性算法详解之Gossip协议篇](https://mp.weixin.qq.com/s/imx8FbFQmnHdBHH4vfkAnQ)
 + [如何看待多主&无主复制线性一致性](https://mp.weixin.qq.com/s/8iA5tJWq9JQjhNi0s13dkA)
 + [告别雪花算法？一文看懂新一代分布式 ID 方案：ULID](https://mp.weixin.qq.com/s/NugRXC4kRpCRDpbi7xzUuQ)
++ [分布式中的“一致性”，到底指的是什么？](https://mp.weixin.qq.com/s/AljmTZC5QvBYjrxgCEdk9Q)
 
 ## 分布式锁
 
@@ -786,6 +788,7 @@
 + [UML基本概念：构造块、公共机制与规则](https://mp.weixin.qq.com/s/DP5ZwPLXRoGbU4rxNjsmmg)
 + [面向对象的本质到底是什么？为什么要面向对象？相比于面向过程，它有什么进步意义？](https://mp.weixin.qq.com/s/_wYESVl9VkHrXrC7wJ4C3A)
 + [从混乱到优雅：一步步带你实现架构抽象化设计](https://mp.weixin.qq.com/s/Fq8A-4glJUO__Sf_Db1zow)
++ [技术 | 先写注释，再写代码](https://mp.weixin.qq.com/s/zwGHQ7_2c62UykySEmgv7g)
 
 ## 接口相关
 
@@ -819,6 +822,7 @@
 + [13. 微博系统设计：怎么应对热点事件的突发访问压力？](https://mp.weixin.qq.com/s/hahfHACujS3iT2FDFJZ0rg)
 + [架构师：如何设计一个秒杀系统？](https://mp.weixin.qq.com/s/nZRnTvqTHT3BdnyYbN9P0g)
 + [【Java面试100题突击】82 高并发秒杀的业务场景如何设计？](https://mp.weixin.qq.com/s/gx2ASW1pBBdxGluHJvzQGQ)
++ [面试官：第三方服务经常挂，你的系统怎么保证高可用？](https://mp.weixin.qq.com/s/N7PIL7lCPoLmaWPVs4H6Zg)
 
 ## 领域知识
 

@@ -41,6 +41,7 @@
 + [Go的简洁神话？转Go前你需要知道的5个“真相”](https://mp.weixin.qq.com/s/H15i1XKRx7hcQiyAO6VUng)
 + [（17）Go 项目开发入门（十五）：Zap 使用](https://mp.weixin.qq.com/s/0_fLtbmSVMitf0KyVMjS_g)
 + [密码学史上最持久的"猫鼠游戏"：单表替换密码的兴亡（Go语言实现）](https://mp.weixin.qq.com/s/LGoRsE5iM9FTkZhA52t69Q)
++ [为何Go语言迟迟未能拥抱io_uring？揭秘集成的三大核心困境](https://mp.weixin.qq.com/s/naDyE51tlkmXy58o1uKVFg)
 
 # 库
 
@@ -172,6 +173,7 @@
 + [Go 语言开发技巧合辑，全网整理最全的一篇](https://mp.weixin.qq.com/s/rv-TFF1Hf2TGcybPQp4z1Q)
 + [Go语言空结构体：零内存消耗的高效编程](https://mp.weixin.qq.com/s/6lNnsenT1mMuxo3xtWXQIw)
 + [轻松掌握 Go 语言并发模型](https://mp.weixin.qq.com/s/2GrgVvsG8-hmLBO7K-JRMQ)
++ [告别 goroutine 等待烦恼：Go 语言四种高效同步方法详解](https://mp.weixin.qq.com/s/r97DJ4GtQJ6ZyxarDp-9Ug)
 
 # 面试题
 

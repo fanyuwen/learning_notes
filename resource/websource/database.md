@@ -547,6 +547,7 @@
 + [MySQL中的 8 种锁！](https://mp.weixin.qq.com/s/fInC0-ctZi4EDiMkmh6GnA)
 + [MySQL间隙锁：数据库世界的“占座”艺术](https://mp.weixin.qq.com/s/kpPLMroa0us7pmEFt_akFQ)
 + [Mysql行锁、表锁和间隙锁区别](https://mp.weixin.qq.com/s/JnS7XM-RbrHvN7Rxh-lJ2A)
++ [MySQL不得不聊的锁知识：锁机制详解](https://mp.weixin.qq.com/s/B0FYNAwjkte-YLz1UqCQMQ)
 
 #### 事务
 

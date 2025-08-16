@@ -185,3 +185,4 @@
 + [Rust有望成为工业自动化系统开发的下一代编程语言](https://mp.weixin.qq.com/s/NZMQ1RaOec172QBvwhZ9dA)
 + [为什么十年后还站在舞台中央的，可能只剩 Rust](https://mp.weixin.qq.com/s/MIE8q4VgtgjUQ7vtRGFn2Q)
 + [内存大作战：Rust 凭什么在 5 种主流语言中脱颖而出？](https://mp.weixin.qq.com/s/j39qxxXvOvBwE-oTAvjgbw)
++ [从 C++ 到 Rust：一个 7 年老兵的系统编程重生之路](https://mp.weixin.qq.com/s/92hyqG04zbpGd3mkfTjMnQ)

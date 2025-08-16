@@ -185,6 +185,8 @@
 + [Linux 内存管理设计与实现：解密物理内存和虚拟内存分配原理](https://mp.weixin.qq.com/s/NuvVES-kijwY7h-Y5yCYLQ)
 + [Linux 虚拟内存管理引导篇](https://mp.weixin.qq.com/s/2Zz4QsxbQapwi6La1gfdaA)
 + [你以为懂指针，其实还差一步！看看内核是怎么玩的](https://mp.weixin.qq.com/s/ytgRvkEPb35j8qc46SXanA)
++ [Linux IPC 内核之争：为什么说 mmap 本质是“文件 I/O”，而 shm 才是“纯血”共享内存？](https://mp.weixin.qq.com/s/2r-Bpk9toO-1se4u9VDSww)
++ [Linux程序开发调试全攻略：掌握这些调试技巧，让你的程序飞起来](https://mp.weixin.qq.com/s/lDrsIWS6M1pNR2XYNjvViw)
 
 ### 网络
 

@@ -385,6 +385,7 @@
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
 + [JAVA策略模式，这回真落地了](https://mp.weixin.qq.com/s/70MYdklbNJWparqsBsx4Pg)
++ [Java 状态机设计：替代 if-else 的优雅架构](https://mp.weixin.qq.com/s/vJS2pi6F6l0ymuzIVOcdMQ)
 + [Function + Java 策略模式构建易扩展开票架构](https://mp.weixin.qq.com/s/nkBF7h9Dacg3Elg6Gzponw)
 + [优雅应对复杂业务的利器：Java 策略模式](https://mp.weixin.qq.com/s/jtOJYgfgV0Ju7U-pQpGwNw)
 + [JAVA：享元模式（Flyweight Pattern）的技术指南](https://mp.weixin.qq.com/s/c0dU-si-aXzvYQr4BeVD6A)
@@ -873,6 +874,7 @@
 + [并发编程中的等待通知模型](https://mp.weixin.qq.com/s/sEFcsQqgJGaY-5KcDpTskw)
 + [美团实习一面：高并发场景下基于复制-修改-替换模式的安全更新策略有哪些？](https://mp.weixin.qq.com/s/ICi_x5H2GBTZEnbn-fWbpw)
 + [大白话聊明白Thread、Runnable、FutureTask和Callable 之间的关系](https://mp.weixin.qq.com/s/junOzgOd0klMXJFfPM2yDQ)
++ [Java 内存屏障：原理、案例与图解，一篇讲透底层奥秘](https://mp.weixin.qq.com/s/PYqRiQtBqVBWd3I-Q59JPg)
 
 #### CAS
 
@@ -944,6 +946,7 @@
 + [Java线程池技术在餐厅运营模式中的技术映射](https://mp.weixin.qq.com/s/WzCEDBBzKzT3UxoGeUWkTg)
 + [线程池的工作原理及其在业务中的实践](https://mp.weixin.qq.com/s/ct82CAwIVq94irvYcdmErQ)
 + [07-线程池之ForkJoinPool](https://mp.weixin.qq.com/s/pmFS43qB5VTgMfMWa_pbUg)
++ [一文看懂Java线程池原理](https://mp.weixin.qq.com/s/rWEaZosRdrYUAFBebhhbjQ)
 
 #### 锁
 
@@ -1203,6 +1206,7 @@
 + [如何解决 Java 中的内存溢出（OutOfMemoryError）问题](https://mp.weixin.qq.com/s/vP5j72gnn5bqzRuDKNixDg)
 + [Java 内存模型（Java Memory Model）](https://mp.weixin.qq.com/s/5qvSJcGQn2nx0iFarl8NXA)
 + [JVM内存模型+垃圾回收，你的Java程序为啥总卡顿？深度解析来了！](https://mp.weixin.qq.com/s/P6ov7mr4HeeQGmQsJ3P0OA)
++ [Java 基本功之内存诊断](https://mp.weixin.qq.com/s/7tiizzF3LV4rp82oG2MC4g)
 
 ### 类加载
 
@@ -1601,6 +1605,7 @@
 + [ThreadLocal 还不会用？看完这一篇就够了](https://mp.weixin.qq.com/s/KrkG9eAI14K0t-J6oD2RKg)
 + [轻松掌握Java多线程 - 第七章：ThreadLocal的使用](https://mp.weixin.qq.com/s/0H4S4grMrLwKUVatqIZngg)
 + [一文看懂ThreadLocal的原理](https://mp.weixin.qq.com/s/IRmSViFqWj10y2-FdxJ5ig)
++ [一文看懂ThreadLocal内存泄漏](https://mp.weixin.qq.com/s/g2GDUQ2Rqj4IXzmbYnx8jg)
 
 ### Lock
 
@@ -1726,6 +1731,7 @@
 + [视频分片点播（1）：RandomAccessFile](https://mp.weixin.qq.com/s/GAC4GkJS0Cgv9fZAyBICsA)
 + [路径注入（Path Injection）漏洞详解](https://mp.weixin.qq.com/s/G7Wn9NmgQes_UmR4MUS_HQ)
 + [Java Zip 压缩及其优化](https://mp.weixin.qq.com/s/tnEi__W2PAFzxxDQun_n5g)
++ [为什么我们总是记不住 Java I/O 流？Java 程序员的 I/O 流扫盲指南（存储篇）](https://mp.weixin.qq.com/s/wzlMWBnGNYRn5oHmzKKbrg)
 
 ## JAVAX
 
@@ -1834,6 +1840,8 @@
 + [Apache Commons EnumUtils：让枚举操作从繁琐到优雅的蜕变](https://mp.weixin.qq.com/s/es6fC3bpruCppZd_xtIKSw)
 + [Apache Commons ReflectionUtils：让 Java 反射从 “劝退” 到 “真香” 的工具类](https://mp.weixin.qq.com/s/lhkb9JTl2KG4bGTiQ2MXfQ)
 + [Apache Commons RandomStringUtils：让随机字符串生成效率提升 10 倍的工具类](https://mp.weixin.qq.com/s/vgtO8ocCIPjCYYUrqcMK6Q)
++ [Apache Commons Collections：让集合操作效率提升 80% 的 Java 工具包](https://mp.weixin.qq.com/s/9kfvPsDsJ8pkwibEsn_IeA)
++ [Apache Commons IO：文件流处理利器，让Java IO操作更简单](https://mp.weixin.qq.com/s/mSoR0eRR2uiDT1V28PJWdg)
 
 ## apollo
 
@@ -2007,6 +2015,7 @@
 + [告别硬编码！MapStruct对象映射库，编译期生成代码，性能与优雅兼备！](https://mp.weixin.qq.com/s/eLObx2hSVBVJYPVm9upwcA)
 + [使用MapStruct映射对象属性](https://mp.weixin.qq.com/s/r39hUzES7QngYY5msOZnNg)
 + [别再手写映射代码了！这个工具让性能飙升 30 倍，还不踩坑](https://mp.weixin.qq.com/s/zZECnhWGpAz5QrTK3S6LdQ)
++ [告别繁琐的 DTO 转换：MapStruct 实战与精髓解析](https://mp.weixin.qq.com/s/SitVya1a3kRstBakEKsTgg)
 
 ## mybatis
 
@@ -2573,6 +2582,7 @@
 + [Spring自带的定时任务也能控制启停，你用过吗？](https://mp.weixin.qq.com/s/0XI89Cr4Z2XhcOCtLuW86w)
 + [搞懂Spring任务执行器和调度器模型](https://mp.weixin.qq.com/s/fJEUDmk27NLeD-lxreF1OQ)
 + [如何在 Spring 中高效使用 @Async：从入门到避坑指南](https://mp.weixin.qq.com/s/HuecMiSOm1o0fTrZhnz9cQ)
++ [从零到精通：Java多线程编程与锁机制全解析，覆盖Java到Spring的实战指南](https://mp.weixin.qq.com/s/K_JrLtMaicFbEQDyiHZxOg)
 
 ### security
 
@@ -3852,6 +3862,8 @@
 + [Spring Boot 动态线程池轻量级技术实现方案](https://mp.weixin.qq.com/s/ttUrm0WzKNThcJ05BTABRg)
 + [Spring Boot 轻量级分布式定时任务技术实现方案](https://mp.weixin.qq.com/s/mIFCfk4bQDU_Xl_bPtIFsg)
 + [Springboot编程式任务调度](https://mp.weixin.qq.com/s/TUv6aUe5Dg7b_E_xqMtcUw)
++ [Spring Boot 异步执行：确保后续任务顺序执行](https://mp.weixin.qq.com/s/buJOHEQtZJ1P41hhO5MzEQ)
++ [告别超卖！Spring Boot + 悲观锁：1行代码解决并发难题](https://mp.weixin.qq.com/s/eOumsh4gLBT_zs3Qnvdk-A)
 
 ##### Disruptor
 
@@ -3901,6 +3913,7 @@
 + [Spring Boot 的 3 种二级缓存落地方式](https://mp.weixin.qq.com/s/6Adt9TE_zBgBLRTBCe6Bzw)
 + [SpringBoot整合Caffeine使用示例](https://mp.weixin.qq.com/s/q9Q2UWgcjiISPKp5wM016g)
 + [性能狂飙！Spring Boot 基于注解的 8 个缓存应用技巧](https://mp.weixin.qq.com/s/Nn_3u81K4JHc2y-1adSfQw)
++ [Spring Boot 高级缓存策略：打造高性能应用的秘密武器](https://mp.weixin.qq.com/s/R64XxBRLds1Dq-onYcMX0Q)
 
 #### AOP
 
@@ -3921,6 +3934,7 @@
 + [SpringBoot中4种AOP实战应用场景](https://mp.weixin.qq.com/s/oEEHkPYfWdC8n1gg0niBSA)
 + [接口不变，调用随心：Spring Boot基于AOP的本地/远程调用动态路由实践](https://mp.weixin.qq.com/s/Y7Oy4iJ35MTNi1oxzSZSww)
 + [Java进阶手册（十六）AOP在SpringBoot中日志与权限控制（通俗易懂）](https://mp.weixin.qq.com/s/nDUkIBq_0vEO5cQrcPKN5A)
++ [从入门到精通：SpringBoot AOP 完全攻略](https://mp.weixin.qq.com/s/M1H1E_BBqJagbnQUlcXTVQ)
 
 #### SPI
 

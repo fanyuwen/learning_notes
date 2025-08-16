@@ -5,6 +5,7 @@
 + [如何在C/C++编译的过程中保留预处理文件](https://mp.weixin.qq.com/s/2DorGzhPJPex9n8eZ0_1CQ)
 + [C/C++ 宏中 do { ... } while (0) 的“零次循环”技巧](https://mp.weixin.qq.com/s/R8U1cwDZIp7ICAre70_tPQ)
 + [Zig号称“更好的C”，但它的构建系统让我崩溃了](https://mp.weixin.qq.com/s/raxY6DiTB860IhLfVgPLdw)
++ [图解C/C++指针，别再说你不会了](https://mp.weixin.qq.com/s/zcvKGu-Cf_5O4VzQ-pwQAQ)
 
 ## 工具
 
@@ -239,6 +240,9 @@
 + [C++灵魂拷问：结构体可以使用memset初始化吗](https://mp.weixin.qq.com/s/-n7lcUYcCGdHI8np0HN_Cg)
 + [C++内存管理之std::enable_shared_from_this](https://mp.weixin.qq.com/s/2p727u80RL_YOkrIVF1qaw)
 + [C++技法：100行代码为Class动态附加任意类型数据](https://mp.weixin.qq.com/s/UPfyI9lpMkg4ATF7eZURjg)
++ [C++内存对齐：从实例看结构体大小的玄机](https://mp.weixin.qq.com/s/L6GwCdc19-3HoUFgxQeEYQ)
++ [跟我学C++中级篇—哑元](https://mp.weixin.qq.com/s/qu6ncHmFEO2TUgvI-yfJ0g)
++ [HALO: 动态堆内存布局优化技术](https://mp.weixin.qq.com/s/fiWjVE5rb5HF89LzhqZjSQ)
 
 #### 指针
 
@@ -343,6 +347,7 @@
 + [c++26新功能——std::execution](https://mp.weixin.qq.com/s/pnEgKXGcyWUnHiBg5pLKmg)
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [c++26新功能—hive容器](https://mp.weixin.qq.com/s/eVPOEmCR8MLiqmLCSMEHuA)
++ [c++26新功能—debugging库](https://mp.weixin.qq.com/s/KNMW92HfP8R5b-vk6fmrpw)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 + [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
@@ -390,12 +395,15 @@
 + [跟我学C++中级篇—私有的析构函数](https://mp.weixin.qq.com/s/PYfB7vKGGIhIoiAocyGJGA)
 + [（三）C++类的概念、特性](https://mp.weixin.qq.com/s/lyxognOKcewQ8rm_Kta-EQ)
 + [构造C++对象时控制执行顺序的方案3](https://mp.weixin.qq.com/s/nswjogfP5tmGQpE-7zjuQA)
++ [C++第17课：类模板](https://mp.weixin.qq.com/s/SQEOSkmgKr_C7Ohz8Hlrrw)
++ [c++继承：面对对象的强大魔法](https://mp.weixin.qq.com/s/Bq6Bzqeu_M1gNE57FvS6jQ)
 
 ##### 泛型
 
 + [C++模板：告别重复造轮子，拥抱泛型编程](https://mp.weixin.qq.com/s/u4GI27tLjo7waFiBRoUF2w)
 + [C++11+ 泛型编程（模板）](https://mp.weixin.qq.com/s/uGCkjU6vsiaYrIfzD-GOSQ)
 + [c++ 可变参数模板 (Variadic Templates)](https://mp.weixin.qq.com/s/wY4K5mU6V8RCa7uuP_ak1A)
++ [C++技法：模板元编程编译期获取类成员数量](https://mp.weixin.qq.com/s/5fxMdJB9bY_8tz0KqtPrJQ)
 
 ##### 设计模式
 
@@ -716,6 +724,7 @@
 + [C语言实用干货：一文讲透C语言地址和指针](https://mp.weixin.qq.com/s/7jdUw6uYLevT5U1FInmDaA)
 + [谈C编程---指针](https://mp.weixin.qq.com/s/NNZCZnMKfcIJg78eUt9aXg)
 + [一文搞懂C语言中产生野指针的典型场景及防御性编程策略](https://mp.weixin.qq.com/s/Cv7_kveKLNaAvPpVgSx2iQ)
++ [函数指针：C语言的动态灵魂，嵌入式的超能力](https://mp.weixin.qq.com/s/9wnJ0cnTTTQX6Y3Uz81-YQ)
 
 #### 函数
 
@@ -852,6 +861,7 @@
 + [嵌软面试-操作系统篇：4-什么是原子操作](https://mp.weixin.qq.com/s/ZvIJDW7MMRU-qw3ybJtXPA)
 + [嵌软面试-操作系统片：6-自旋锁与互斥锁的区别](https://mp.weixin.qq.com/s/VMNKXE4TM3XBG_MDdCN2Gg)
 + [嵌入式软件开发中的表驱动法：原理、应用与实战](https://mp.weixin.qq.com/s/BNIuWVxy08qFMOl0wkTFEw)
++ [嵌软面试-操作系统篇：3-堆与栈](https://mp.weixin.qq.com/s/ano67TNQn_jnFbLbmuzTbQ)
 
 # ARM
 

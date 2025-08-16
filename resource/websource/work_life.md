@@ -429,6 +429,7 @@
 + [让百万程序员跪着喊“祖师爷赏饭”！Vue作者尤雨溪，是一个怎样的人？](https://mp.weixin.qq.com/s/JoKXcZI99w9wLn9LmU_voQ)
 + [这个发誓不用Java的程序员，终于受到惩罚了......](https://mp.weixin.qq.com/s/fhdMTY-MxjsVnjejK68S4A)
 + [图灵奖大佬向97年小孩哥汇报？小扎1亿年薪买新贵，老将痛诉熬夜捡GPU！](https://mp.weixin.qq.com/s/deR7Pq8Tf21BX8QgH-6Q1w)
++ [为什么谷歌要在一门“尚未诞生”的语言上押注 8 年](https://mp.weixin.qq.com/s/LhuseuXDMjC-Aa0t-i6p4A)
 
 ## 创业
 

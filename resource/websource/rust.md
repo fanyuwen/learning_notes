@@ -186,3 +186,4 @@
 + [为什么十年后还站在舞台中央的，可能只剩 Rust](https://mp.weixin.qq.com/s/MIE8q4VgtgjUQ7vtRGFn2Q)
 + [内存大作战：Rust 凭什么在 5 种主流语言中脱颖而出？](https://mp.weixin.qq.com/s/j39qxxXvOvBwE-oTAvjgbw)
 + [从 C++ 到 Rust：一个 7 年老兵的系统编程重生之路](https://mp.weixin.qq.com/s/92hyqG04zbpGd3mkfTjMnQ)
++ [Rust 1.89震撼发布：你的Intel Mac被“踢出群聊”，编译器化身“朝阳大妈”专治各种不服！](https://mp.weixin.qq.com/s/xH2lwQDODh8mrP0PWEySdA?click_id=40)

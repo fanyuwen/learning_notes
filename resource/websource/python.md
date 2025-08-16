@@ -178,6 +178,7 @@
 + [12.Python的函数式编程：编写简洁高效的数据处理管道](https://mp.weixin.qq.com/s/zSLg6tY1WCVcJ0fSUB8cXw)
 + [Python 内置函数 filter() 元素过滤](https://mp.weixin.qq.com/s/SQpeAppFBzif11YcyV8TKg)
 + [Python闭包中的循环变量问题及解决方案](https://mp.weixin.qq.com/s/JrE-wDlF0ZPlmiCSN6YNLA)
++ [Python中的@staticmethod和@classmethod有何区别？一文带你彻底搞懂使用场景](https://mp.weixin.qq.com/s/OXzouPnvN4LJfSxG8uIF5w)
 
 ### 面向对象
 
@@ -344,9 +345,14 @@
 + [Python内置模块：zoneinfo时区支持详解](https://mp.weixin.qq.com/s/T5ZGA72nhZqaJDUFxeSqYg)
 + [Python内置模块：platform访问底层平台的标识数据详解](https://mp.weixin.qq.com/s/4JfszIbHEqlxzA5u6tY_Aw)
 + [Python内置模块：numbers--- 数字抽象基类详解](https://mp.weixin.qq.com/s/E89YkwPG-6aTGl_ySvBNEA)
++ [Python内置模块：statistics --- 数字统计函数详解](https://mp.weixin.qq.com/s/iZMkP1P7s4uiCnEhuc8jfQ)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
++ [Python内置模块：zlib --- 与 gzip 兼容的压缩详解](https://mp.weixin.qq.com/s/NZuj-NZ390c37hdUvdjKMw)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 + [Python内置类型：集合编程指南](https://mp.weixin.qq.com/s/gYM_sP3creulCAfBlC6bIA)
++ [Python内置模块：tomllib --- 解析 TOML 文件详解](https://mp.weixin.qq.com/s/sbksidync4BBgaIe921E1Q?click_id=30)
++ [Python神器 itertools 模块的72变魔法！（超实用场景）](https://mp.weixin.qq.com/s/7Rq7MLfga9RIth7IMjKCaQ)
++ [Python内置模块zipfile：操作 ZIP 归档文件详解](https://mp.weixin.qq.com/s/xZZ46z1R36__HtwqWSvV3w?click_id=54)
 
 ### 异步/多线程
 
@@ -378,6 +384,7 @@
 + [Python结构化并发：asyncio.TaskGroup实战](https://mp.weixin.qq.com/s/XXu7QNxDm4RUkb9HwcuFgw)
 + [30天学会Python编程：15.Python并发编程](https://mp.weixin.qq.com/s/cGmE4AovbnmetMgqVhjchg)
 + [Python多线程编程：3倍提速你的代码，告别卡顿时代！](https://mp.weixin.qq.com/s/tlrC0FKUDzXJgMDBsup2zw)
++ [Python的并发库concurrent.futures，让你用最简单的方式实现多线程和多进程](https://mp.weixin.qq.com/s/F1Io-lZnoegDXOpElydE-w)
 
 ### 虚拟环境
 
@@ -749,6 +756,7 @@
 + [python 装饰器的高级10种用法](https://mp.weixin.qq.com/s/3jovDXTHr5N-qP2yNcjYYw)
 + [Python 控制流技术讲解](https://mp.weixin.qq.com/s/HIR1-D3hlCEvtFgHHi48sA)
 + [Python：入口点详解（模块、包与程序）](https://mp.weixin.qq.com/s/xttsVS0gCLUej_GhAhFnJQ)
++ [Python数据读取与写入——从基础到高级实践](https://mp.weixin.qq.com/s/WSNwh-xOPNaCP55v_rC4YA)
 
 ## 新特性
 
@@ -1188,3 +1196,4 @@
 + [明明Python那么多人用，为什么总有人喷Python？](https://mp.weixin.qq.com/s/_-V5CMHk09LTD7B2WF0dtw)
 + [C++与Python：内存管理与指针的对比](https://mp.weixin.qq.com/s/C75Haa47Oeq5DsPwA0BMSw)
 + [用Python实在是太方便了，可读性太强了，写得也太快了](https://mp.weixin.qq.com/s/7v13huH_fsfua4ZJQP3UBw)
++ [为什么Python比C++运行速度慢却如此受欢迎？](https://mp.weixin.qq.com/s/_qD1ibk289aUqpMOMFg8-g)

@@ -6,6 +6,7 @@
 + [C/C++ 宏中 do { ... } while (0) 的“零次循环”技巧](https://mp.weixin.qq.com/s/R8U1cwDZIp7ICAre70_tPQ)
 + [Zig号称“更好的C”，但它的构建系统让我崩溃了](https://mp.weixin.qq.com/s/raxY6DiTB860IhLfVgPLdw)
 + [图解C/C++指针，别再说你不会了](https://mp.weixin.qq.com/s/zcvKGu-Cf_5O4VzQ-pwQAQ)
++ [字节跳动C++二面：手写shared_ptr实现](https://mp.weixin.qq.com/s/QIYuJQU-6cJC8kjk0pn5ew)
 
 ## 工具
 
@@ -108,6 +109,8 @@
 + [C++项目构建之六 c++中include的使用](https://mp.weixin.qq.com/s/9AdFLRa3-grfJWXI-A2NZQ)
 + [C++左值右值终极一战：那个写 i++ 的同事，我劝他还是别再写了！](https://mp.weixin.qq.com/s/mgkKrOy8SF1ehibC_m3Nsw)
 + [C++循环控制：break和continue的妙用（附多层循环详解）](https://mp.weixin.qq.com/s/q4e8i8cVBXBat6frHL2y8w)
++ [C++基础入门——7. 循环结构与循环语句](https://mp.weixin.qq.com/s/1KLcqgcJQcDuj4p8TkCogg)
++ [现代 C++ 基础 · vector 篇：为什么它比数组更安全、更好用？](https://mp.weixin.qq.com/s/iwFgsKBibSrbxmBdOlitVA)
 
 ### 高阶
 
@@ -243,6 +246,7 @@
 + [C++内存对齐：从实例看结构体大小的玄机](https://mp.weixin.qq.com/s/L6GwCdc19-3HoUFgxQeEYQ)
 + [跟我学C++中级篇—哑元](https://mp.weixin.qq.com/s/qu6ncHmFEO2TUgvI-yfJ0g)
 + [HALO: 动态堆内存布局优化技术](https://mp.weixin.qq.com/s/fiWjVE5rb5HF89LzhqZjSQ)
++ [C++老手都可能搞错：std::vector<std::vector<int>>的致命性能陷阱](https://mp.weixin.qq.com/s/GYc9iDONwUcZ54NpNnI66Q)
 
 #### 指针
 
@@ -320,6 +324,7 @@
 + [《vector底层的实现，可能和你想的不一样》](https://mp.weixin.qq.com/s/SklLmODyXLvObRRFTGvrcg)
 + [C++11基础之std::function](https://mp.weixin.qq.com/s/ZbGwFs2E3pNDAuoPQaaAdQ)
 + [C++基础之字符串类string](https://mp.weixin.qq.com/s/-5BJUUru--67-xWOzEy9sA)
++ [别再怪 std::vector 慢了，元凶可能只是你忘了写 noexcept](https://mp.weixin.qq.com/s/Ae5WkOLyWfDyDSq2utBMMQ)
 
 #### 新特性
 
@@ -335,6 +340,7 @@
 + [C++11 thread 参数传递深度解析：为什么需要 std::ref 而非直接引用？](https://mp.weixin.qq.com/s/4KWEBn5HzEYzaZYRz7io5g)
 + [跟我学c++中级篇——c++14中的透明操作符](https://mp.weixin.qq.com/s/dkr4TNt2od_lyCUCawVcCA)
 + [C++20新特性详解：模块化与协程实战](https://mp.weixin.qq.com/s/x3i66Vdmvc3Lz4PUXVssXw)
++ [这可能是C++20最具革命性的特性，没有之一！](https://mp.weixin.qq.com/s/zscU-yA896jBNfG3EFVcIQ?click_id=32)
 + [百万C++开发者进阶：掌握C++17这15个特性，项目性能实现跃迁！](https://mp.weixin.qq.com/s/zVNEA6w6St6q_HtOcyI51A)
 + [快速入门C++17：写出更简洁高效的代码](https://mp.weixin.qq.com/s/v8OeLsthJq454N5eFWHfBw)
 + [C++17中有个 [[fallthrough]] 你使用了吗？](https://mp.weixin.qq.com/s/DyVw3ju1DHcRGlS5d9Mp6g)
@@ -348,6 +354,7 @@
 + [c++26新功能——Pack indexing](https://mp.weixin.qq.com/s/2O5yUC7i_NtdtVk0syldkw)
 + [c++26新功能—hive容器](https://mp.weixin.qq.com/s/eVPOEmCR8MLiqmLCSMEHuA)
 + [c++26新功能—debugging库](https://mp.weixin.qq.com/s/KNMW92HfP8R5b-vk6fmrpw)
++ [c++26新功能—匿名占位符变量](https://mp.weixin.qq.com/s/5pwE4BEEhHTcsyT8-vt9ZA)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 + [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
@@ -397,6 +404,8 @@
 + [构造C++对象时控制执行顺序的方案3](https://mp.weixin.qq.com/s/nswjogfP5tmGQpE-7zjuQA)
 + [C++第17课：类模板](https://mp.weixin.qq.com/s/SQEOSkmgKr_C7Ohz8Hlrrw)
 + [c++继承：面对对象的强大魔法](https://mp.weixin.qq.com/s/Bq6Bzqeu_M1gNE57FvS6jQ)
++ [C++成员函数如何工作？this指针、name mangling与成员函数指针全解析](https://mp.weixin.qq.com/s/MEDfpwCaw_we8NY8iGXaTQ)
++ [C++类和对象的底层哲学](https://mp.weixin.qq.com/s/RlqrapbZFcI5idX5B1ix3Q?click_id=55)
 
 ##### 泛型
 
@@ -454,6 +463,8 @@
 + [条件变量：多线程同步的核心机制详解](https://mp.weixin.qq.com/s/aM_Dr2jAYJDt2Ey9fbN1dw)
 + [多线程环境中C++继承与生命周期管理](https://mp.weixin.qq.com/s/CA3Az0cnphv0hoGAKab7QQ)
 + [C++多线程编程：从入门到精通，构建高性能并发应用，非常详细，强烈建议收藏！！！](https://mp.weixin.qq.com/s/cDRNVM6NNfNYMSfG6A8ERw)
++ [100行代码使用C++实现一个线程池](https://mp.weixin.qq.com/s/6OhmTv2Muf17z2B3sp3UDw)
++ [微软C++四面终极拷问：手撕线程安全RingBuffer](https://mp.weixin.qq.com/s/5REPWmdKnvEb_PPeePB3hg)
 
 #### 扩展
 
@@ -689,13 +700,14 @@
 + [谈C编程---数组](https://mp.weixin.qq.com/s/lzVU1ie-ZFUYmn8hpga0kQ)
 + [数组与行指针](https://mp.weixin.qq.com/s/xm3ECYEQRVrCTf1RibohDQ)
 
-#### 结构体
+#### 结构体/公用体
 
 + [深度系列之C语言：第37章 结构体内存分配原则](https://mp.weixin.qq.com/s/QtdotwFz0efu3vl-24JuyQ)
 + [深度系列之C语言：第38章 结构体的位域](https://mp.weixin.qq.com/s/sNVUmpDUptXOaAx3KO7pdQ)
 + [为什么结构体要考虑对齐?如何确定语言使用的地址是不是物理地址?](https://mp.weixin.qq.com/s/rV1vNblnXIAXcHS87iL1Ww)
 + [结构体初始化的6种方式](https://mp.weixin.qq.com/s/O20GW7HfCttqfFa-5Z4b2g)
 + [用 C 语言实现日志打印结构体：从设计到实战](https://mp.weixin.qq.com/s/-MGqipP1ijdfKgULy2W5KQ)
++ [谈C编程---共用体的应用](https://mp.weixin.qq.com/s/DvWOYWB2A4jITUegub4b9g)
 
 #### 指针
 
@@ -725,6 +737,7 @@
 + [谈C编程---指针](https://mp.weixin.qq.com/s/NNZCZnMKfcIJg78eUt9aXg)
 + [一文搞懂C语言中产生野指针的典型场景及防御性编程策略](https://mp.weixin.qq.com/s/Cv7_kveKLNaAvPpVgSx2iQ)
 + [函数指针：C语言的动态灵魂，嵌入式的超能力](https://mp.weixin.qq.com/s/9wnJ0cnTTTQX6Y3Uz81-YQ)
++ [C语言实用干货：为什么需要二级指针？](https://mp.weixin.qq.com/s/qTjlz4PRSKa1fMj2otLOgA)
 
 #### 函数
 
@@ -738,6 +751,7 @@
 + [谈C语言---return的用法](https://mp.weixin.qq.com/s/1Sulzqxi285AxtxzPvtsIg)
 + [C语言中的" 回调地狱 "](https://mp.weixin.qq.com/s/MNTNzerlMVes_cuDhHHYkw)
 + [printf函数原理能不能简单点？----小话c语言(2)](https://mp.weixin.qq.com/s/oy0QQY_xOPhxI8hYgT_IMw)
++ [谈C编程---回调函数](https://mp.weixin.qq.com/s/B2LdmVj3rCLANRw_3wF5rQ)
 
 #### 库
 
@@ -751,6 +765,7 @@
 + [浮点排序的高效实现：通过位运算转换为整数排序](https://mp.weixin.qq.com/s/9KAHeYeCfwV516P0TkXLaQ)
 + [C语言设计模式：谁说面向过程写不出优雅代码？](https://mp.weixin.qq.com/s/qNPeLLrjO6tais828-2s2Q)
 + [「玩转C语言系列」十几行写第1个跨平台C语言图形化界面，原来如此简单啊！](https://mp.weixin.qq.com/s/HciIUc3uTn4jgVc0xSxSkA)
++ [一文弄懂链表（C语言实现）](https://mp.weixin.qq.com/s/cfeEXPZwORGJW90H8aWfWQ)
 
 ### 前景
 

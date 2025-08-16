@@ -29,6 +29,7 @@
 + [SOLID 设计原则在 Android 中的实战应用](https://mp.weixin.qq.com/s/o4Aj-AnTVl_UkgBBAk3Eqg)
 + [设计模式-责任链模式、策略模式](https://mp.weixin.qq.com/s/zCC4xJy1c7xQOGsXpDIOVg)
 + [《设计模式》还有必要读吗？](https://mp.weixin.qq.com/s/PipD8pY5WIMxnFaDd_gwZg)
++ [设计模式七大原则-合成复用原则](https://mp.weixin.qq.com/s/GiD5QYwxQGvB_EVjAlb4dg)
 
 # 并发设计模式
 
@@ -108,6 +109,7 @@
 + [什么是适配器模式？它解决了什么问题？](https://mp.weixin.qq.com/s/HNHMCzNIH0goSb4SosreAQ)
 + [适配器模式：让不兼容的接口协同工作](https://mp.weixin.qq.com/s/Ab1W1wbGY0URbO92FXvQYQ)
 + [适配器模式的设计哲学](https://mp.weixin.qq.com/s/QWz9-NuFQbJMzc3JsekzSQ)
++ [模式组合应用-适配器模式](https://mp.weixin.qq.com/s/yMxu_uOi-BvWQoDnI8bntA)
 
 ## 策略模式
 

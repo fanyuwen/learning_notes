@@ -187,6 +187,8 @@
 + [你以为懂指针，其实还差一步！看看内核是怎么玩的](https://mp.weixin.qq.com/s/ytgRvkEPb35j8qc46SXanA)
 + [Linux IPC 内核之争：为什么说 mmap 本质是“文件 I/O”，而 shm 才是“纯血”共享内存？](https://mp.weixin.qq.com/s/2r-Bpk9toO-1se4u9VDSww)
 + [Linux程序开发调试全攻略：掌握这些调试技巧，让你的程序飞起来](https://mp.weixin.qq.com/s/lDrsIWS6M1pNR2XYNjvViw)
++ [Linux学习笔记-cgroup(一)](https://mp.weixin.qq.com/s/PqgqLONhA3u3341Os7FMXQ)
++ [深入理解Linux进程信号机制](https://mp.weixin.qq.com/s/blDBeGKuNYtpctZa3CSvrw)
 
 ### 网络
 
@@ -202,6 +204,7 @@
 + [Linux 网络第一部分：内核网络栈](https://mp.weixin.qq.com/s/JN-2pHj5lkCFFYd1bwIbwA)
 + [Linux 网络调优简介](https://mp.weixin.qq.com/s/0x-0q2j6pWb1RqIlu0E6AQ)
 + [100G 网络速率调优-CPU调速器](https://mp.weixin.qq.com/s/tNfEPJUveeLrjmvr5XsMag)
++ [全面解析Linux网络I/O：数据是如何“跑”起来的？](https://mp.weixin.qq.com/s/UT9b1iXCkUD_1V62_MZ1dQ)
 
 ### 命令
 
@@ -374,6 +377,7 @@
 + [CPU指令执行过程（三）：代码的执行](https://mp.weixin.qq.com/s/DsA761jQZAQiEvMmy0tFTQ)
 + [GPU的结构与工作原理](https://mp.weixin.qq.com/s/slWcY4xMw6dlQCaPaNisaQ)
 + [CPU那些事儿-CPU benchmarks（上）](https://mp.weixin.qq.com/s/FmOaZ2vXl_ZBVXy68Qg-kw)
++ [CPU中断的工作原理](https://mp.weixin.qq.com/s/eZ7yvZ-T-2WurDCCNHHqSA)
 
 ### 并发
 

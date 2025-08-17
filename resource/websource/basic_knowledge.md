@@ -189,6 +189,7 @@
 + [Linux程序开发调试全攻略：掌握这些调试技巧，让你的程序飞起来](https://mp.weixin.qq.com/s/lDrsIWS6M1pNR2XYNjvViw)
 + [Linux学习笔记-cgroup(一)](https://mp.weixin.qq.com/s/PqgqLONhA3u3341Os7FMXQ)
 + [深入理解Linux进程信号机制](https://mp.weixin.qq.com/s/blDBeGKuNYtpctZa3CSvrw)
++ [深度解析Linux设备树（DTS）：设计原理、实现框架与实例分析](https://mp.weixin.qq.com/s/LrHxdTbdezzuk0_SKRS2Aw)
 
 ### 网络
 
@@ -760,6 +761,7 @@
 + [零拷贝技术：Direct I/O](https://mp.weixin.qq.com/s/94HmP4Z64P61RkdH98KiuQ)
 + [腾讯一面：epoll不支持文件IO，kqueue怎么做到的！](https://mp.weixin.qq.com/s/f5IuDt89mP81ssnRKFN_Rg)
 + [零拷贝技术：mmap 系统调用](https://mp.weixin.qq.com/s/Clam2h-Z3Ybq1OSz_DwMPg)
++ [IO多路复用与进-线程池的优劣对比](https://mp.weixin.qq.com/s/cL9MG7NRAKXi8nbN9K-bFA)
 
 ## 字符编码
 

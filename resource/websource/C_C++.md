@@ -62,6 +62,7 @@
 + [解密C++“不泄漏”的秘密武器：你的内存焦虑，终于有救了！](https://mp.weixin.qq.com/s/dfgDnF-SpGUSs--MBcOX0g)
 + [c++代码编译过程](https://mp.weixin.qq.com/s/LzV8S2EXDeXU3LKFjROC5Q)
 + [开始学习C++](https://mp.weixin.qq.com/s/DChijH8jBZoCFtezXCouXg)
++ [编译器与指令集优化 (三)](https://mp.weixin.qq.com/s/OQz8vZu_agUqAnmSenCtVg)
 
 ### 基础
 
@@ -247,6 +248,10 @@
 + [跟我学C++中级篇—哑元](https://mp.weixin.qq.com/s/qu6ncHmFEO2TUgvI-yfJ0g)
 + [HALO: 动态堆内存布局优化技术](https://mp.weixin.qq.com/s/fiWjVE5rb5HF89LzhqZjSQ)
 + [C++老手都可能搞错：std::vector<std::vector<int>>的致命性能陷阱](https://mp.weixin.qq.com/s/GYc9iDONwUcZ54NpNnI66Q)
++ [C++高并发三板斧：多进程、多线程、IO多路复用](https://mp.weixin.qq.com/s/1luDUh0_whjLjtkTqSO1iw)
++ [英伟达C++一面：C++中有哪四种类型转换方式？](https://mp.weixin.qq.com/s/0_Lw2NGFMlTjCoXLHkEiTA)
++ [英伟达C++一面，Mutex底层原理是什么？](https://mp.weixin.qq.com/s/YrfvEuz4OhaE5iecl5wSbA)
++ [编译时解析JSON：C++模板元编程的奇技淫巧](https://mp.weixin.qq.com/s/z3Foje0N0ZEFmh57gMy7-Q)
 
 #### 指针
 
@@ -355,6 +360,7 @@
 + [c++26新功能—hive容器](https://mp.weixin.qq.com/s/eVPOEmCR8MLiqmLCSMEHuA)
 + [c++26新功能—debugging库](https://mp.weixin.qq.com/s/KNMW92HfP8R5b-vk6fmrpw)
 + [c++26新功能—匿名占位符变量](https://mp.weixin.qq.com/s/5pwE4BEEhHTcsyT8-vt9ZA)
++ [c++26新功能—inplace_vector](https://mp.weixin.qq.com/s/89mneVB43Om_8GwnNOHmPg)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 + [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
@@ -406,6 +412,7 @@
 + [c++继承：面对对象的强大魔法](https://mp.weixin.qq.com/s/Bq6Bzqeu_M1gNE57FvS6jQ)
 + [C++成员函数如何工作？this指针、name mangling与成员函数指针全解析](https://mp.weixin.qq.com/s/MEDfpwCaw_we8NY8iGXaTQ)
 + [C++类和对象的底层哲学](https://mp.weixin.qq.com/s/RlqrapbZFcI5idX5B1ix3Q?click_id=55)
++ [构造函数前面的explicit是什么意思？](https://mp.weixin.qq.com/s/4Hq9a07YLd0gIVpx7p6mDw)
 
 ##### 泛型
 
@@ -676,6 +683,7 @@
 + [谈C编程---黄金分割点的应用](https://mp.weixin.qq.com/s/6BBA4PHA4qHA5KwpjJ47-w)
 + [C算法38：容器盛水问题](https://mp.weixin.qq.com/s/VmI-sV2K7AqodNLzHZSI2w)
 + [volatile用对了吗？嵌入式C中易被忽略的5个内存陷阱](https://mp.weixin.qq.com/s/fCvFTkUK3B-bxJbLRvz-WQ)
++ [C语言开发必备技能：多文件编程，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/TA1xXNQ4W0YKkWuLc48JiQ)
 
 #### 宏
 
@@ -738,6 +746,7 @@
 + [一文搞懂C语言中产生野指针的典型场景及防御性编程策略](https://mp.weixin.qq.com/s/Cv7_kveKLNaAvPpVgSx2iQ)
 + [函数指针：C语言的动态灵魂，嵌入式的超能力](https://mp.weixin.qq.com/s/9wnJ0cnTTTQX6Y3Uz81-YQ)
 + [C语言实用干货：为什么需要二级指针？](https://mp.weixin.qq.com/s/qTjlz4PRSKa1fMj2otLOgA)
++ [C语言实用干货：void指针详解](https://mp.weixin.qq.com/s/SIWFclBD1mVk3xbfErQgEA)
 
 #### 函数
 
@@ -877,6 +886,7 @@
 + [嵌软面试-操作系统片：6-自旋锁与互斥锁的区别](https://mp.weixin.qq.com/s/VMNKXE4TM3XBG_MDdCN2Gg)
 + [嵌入式软件开发中的表驱动法：原理、应用与实战](https://mp.weixin.qq.com/s/BNIuWVxy08qFMOl0wkTFEw)
 + [嵌软面试-操作系统篇：3-堆与栈](https://mp.weixin.qq.com/s/ano67TNQn_jnFbLbmuzTbQ)
++ [嵌入式软件开发中回调函数的应用与实践](https://mp.weixin.qq.com/s/ZVBfyhqW5qdoFOhAsgLJTw)
 
 # ARM
 

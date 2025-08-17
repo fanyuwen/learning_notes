@@ -112,6 +112,8 @@
 + [Rust 奇异语法](https://mp.weixin.qq.com/s/giN_q2Rm7BUZm5LNZrJ5qQ)
 + [Rust & WebAssembly 性能调优指南：从毫秒级加速到KB级瘦身](https://mp.weixin.qq.com/s/OqTK5RFv1FNML96h50Vl-A)
 + [【Rust日报】Rust 中的生成式模式](https://mp.weixin.qq.com/s/NP6MIw5uL-gQeNGhzSaUGA)
++ [从238秒到25秒：优化Rust构建之旅](https://mp.weixin.qq.com/s/L3F8l3t5ltAAtWyLQghp9w)
++ [10 分钟搞懂 Rust 生命周期，从此不再害怕编译器](https://mp.weixin.qq.com/s/U5ch9PTeXcmoS8U2LAl6YA)
 
 # 框架
 
@@ -128,6 +130,7 @@
 + [PyO3：一个Rust与Python无缝交互的工具，用Rust打造高性能Python应用](https://mp.weixin.qq.com/s/pT0uvoYLKCHaqGWXHiMBkQ)
 + [Rust编写的跨平台UI框架——Tauri正式发布2.0稳定版，是时候把“毒瘤”Electron换掉了](https://mp.weixin.qq.com/s/K6QdGD7NDmqUHlyOWVhrpA)
 + [Clippy：Rust 官方代码质量增强工具完全指南](https://mp.weixin.qq.com/s/y_YSZKp9sNd2JoKQ-xlTEQ)
++ [Tantivy：高效的 Rust 全文搜索引擎](https://mp.weixin.qq.com/s/rD0JkstgPNsBquwl5TDJRg)
 
 # 并发
 
@@ -187,3 +190,4 @@
 + [内存大作战：Rust 凭什么在 5 种主流语言中脱颖而出？](https://mp.weixin.qq.com/s/j39qxxXvOvBwE-oTAvjgbw)
 + [从 C++ 到 Rust：一个 7 年老兵的系统编程重生之路](https://mp.weixin.qq.com/s/92hyqG04zbpGd3mkfTjMnQ)
 + [Rust 1.89震撼发布：你的Intel Mac被“踢出群聊”，编译器化身“朝阳大妈”专治各种不服！](https://mp.weixin.qq.com/s/xH2lwQDODh8mrP0PWEySdA?click_id=40)
++ [从 C++ 到 Rust：为什么 Google 正在推动这场技术变革](https://mp.weixin.qq.com/s/RC-YJeIzFBnhcGd1Plo6RA)

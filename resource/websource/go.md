@@ -175,6 +175,7 @@
 + [轻松掌握 Go 语言并发模型](https://mp.weixin.qq.com/s/2GrgVvsG8-hmLBO7K-JRMQ)
 + [告别 goroutine 等待烦恼：Go 语言四种高效同步方法详解](https://mp.weixin.qq.com/s/r97DJ4GtQJ6ZyxarDp-9Ug)
 + [面试官：聊聊sync.Map？ 你：(内心暗喜) 从读写分离到性能陷阱，我能讲半小时！](https://mp.weixin.qq.com/s/t0YKidm5Xi9LNmrCWdjuDg)
++ [让你的服务稳如高铁：Go 语言十大高可扩展设计模式](https://mp.weixin.qq.com/s/c1ePX6Hx6LGKvyRjW6jDmQ)
 
 # 面试题
 

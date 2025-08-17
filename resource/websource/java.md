@@ -481,6 +481,8 @@
 + [实战：java如何判定节假日和工作日](https://mp.weixin.qq.com/s/VXMRQ7iOQgMPBx_seSwmJw)
 + [再见了，Java Lambda 表达式（2014–2025）：曾经优雅，如今鸡肋？](https://mp.weixin.qq.com/s/unHMes5upougCkD--4NaMQ)
 + [别再if套if了！Java中return的9种优雅写法](https://mp.weixin.qq.com/s/aQ7tpZnKIAwJi7mvlXVoiA)
++ [一些 Function 的最佳使用场景与避坑点](https://mp.weixin.qq.com/s/bc2Tiq-qLiZkRDNagxcwPQ)
++ [分享一些 Function<T,R> 的高级用法与心得](https://mp.weixin.qq.com/s/Aopgm2c_PnGBeKmSXcESsQ)
 
 ## 代码质量
 
@@ -1942,6 +1944,7 @@
 + [告别枯燥的异步编程！Guava的ListeningExecutorService让你代码优雅如诗](https://mp.weixin.qq.com/s/186IQ2o7SgwTiAWLrT-19A)
 + [Guava LoadingCache 实战指南：从自动加载到异步刷新，这5个技巧让缓存性能翻倍](https://mp.weixin.qq.com/s/y7pONioRBZxBL-G_Zdycdw)
 + [Guava——你不得不知道的一个Java工具类包，这个对你真的很有用！](https://mp.weixin.qq.com/s/Y_1PCvJKp9qe7AAn8jjmyA)
++ [Guava：告别冗余代码！让代码高效又优雅！](https://mp.weixin.qq.com/s/iRfJqGaWcekrnBdz-v-AMA)
 
 ## hystrix
 
@@ -2148,6 +2151,7 @@
 + [MyBatis-Plus模糊查询通配符问题深度分析与解决方案](https://mp.weixin.qq.com/s/R9y96M7YYyEZRHDTblTLIA)
 + [完爆 MyBatis-Plus ？来领略一下 MyBatis-Flex 的优雅魅力！](https://mp.weixin.qq.com/s/M5rc8AhZ5z_IgCT9aYBAuw)
 + [MySQL 8.0 JSON 字段太棘手？试试 MyBatis-Plus 的 JacksonTypeHandler，真香！](https://mp.weixin.qq.com/s/EOrLnN00oyFbeeeLgMBDVA)
++ [别再写 XML 了！MyBatis-Plus 这 11 个注解让代码量砍半](https://mp.weixin.qq.com/s/D3mjM-sanmNJpN35Y1m79Q)
 
 ## nacos
 
@@ -2570,6 +2574,7 @@
 + [零OOM导出:StreamingResponseBody原理&实战](https://mp.weixin.qq.com/s/Q88V8wYRaEduRSZHE0XKFQ)
 + [【Spring WebFlux】二、为什么 Spring 要拥抱响应式](https://mp.weixin.qq.com/s/3Jy-tCerQgTA5zHicb-rig)
 + [从拦截器到跨域：WebMvcConfigurer的10个高频配置场景](https://mp.weixin.qq.com/s/9GNPgAUN7Oi4ztrM6zgLwQ)
++ [啪啪打脸，ResponseEntity这个轮子不好用，还需要封装一下，把HTTP状态码和业务状态码区分开来](https://mp.weixin.qq.com/s/pDdSCxsQeq-J80yqi4-Gxg)
 
 #### doc
 
@@ -2904,6 +2909,7 @@
 + [Spring Cloud 快速通过4: 限流熔断框架 Sentinel （上）](https://mp.weixin.qq.com/s/vFL2t_rOrEYUSat_gMV0IA)
 + [Spring Cloud 快速通关7: 分布式事务 Seata](https://mp.weixin.qq.com/s/iB6XyiU19CxhRf6WmZB7KA)
 + [Spring Cloud Ribbon 核心原理](https://mp.weixin.qq.com/s/S7YQFiMDXCd8Gbkvou7bQQ)
++ [Spring Cloud Config 核心原理](https://mp.weixin.qq.com/s/an4Xw8x2C7cB8Xutt7PpMA)
 
 #### alibaba
 
@@ -4147,6 +4153,7 @@
 + [深度解析：Spring Boot 配置加载顺序、优先级与 bootstrap 上下文](https://mp.weixin.qq.com/s/s8X1MTqgvlOtaJ8xpTY2kg)
 + [Spring Boot 多环境配置实战：dev、test、prod 如何优雅切换？](https://mp.weixin.qq.com/s/EUWEKw7yvVdJ9RJ-8I5RvQ)
 + [SpringBoot配置属性热更新的轻量级实现](https://mp.weixin.qq.com/s/Fu6Z0IOXCGGLqAa2EAxS3Q)
++ [Spring Boot 条件化配置与配置组：优雅管理复杂应用配置](https://mp.weixin.qq.com/s/ilQASw9Jv7lmwCIJA6JiGw)
 
 #### 集成三方
 
@@ -4555,6 +4562,7 @@
 + [Java 性能调优全攻略：步骤、工具、技巧一网打尽](https://mp.weixin.qq.com/s/-ffrJqL6uDHJab4waZXEQg)
 + [为什么java被部分开发者认为是低端技术？](https://mp.weixin.qq.com/s/mu6EeqNKxf_2FIjyjiDFoA)
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
++ [给Javaer看的大模型开发指南｜得物技术](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)

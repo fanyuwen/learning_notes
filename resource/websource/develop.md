@@ -341,6 +341,7 @@
 + [分布式事务解决方案—事务消息](https://mp.weixin.qq.com/s/t7Rdix-eD1uzFIm43xRmeg)
 + [百万并发零超卖：TCC分布式事务守护秒杀系统的每一滴库存](https://mp.weixin.qq.com/s/ltCtVtzgkS93N5z-I8DrHA)
 + [本地消息表：如何用一张表解决分布式事务的99%难题？](https://mp.weixin.qq.com/s/mPeiANYI2bfr5b90X5LUIw)
++ [分布式事务Seata TCC模式篇](https://mp.weixin.qq.com/s/sE-AmVAzYZa3Jt1zIRJCvQ)
 
 ## 分布式算法
 

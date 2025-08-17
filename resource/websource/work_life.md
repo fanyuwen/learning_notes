@@ -345,6 +345,7 @@
 + [12.1K star！这款轻量级 Mac 工具非常推荐使用！](https://mp.weixin.qq.com/s/GX1wCGTPDTRENLDSRCSTfg)
 + [从零搭建专业程序员的Mac系统](https://mp.weixin.qq.com/s/S8-D6gNOwJHd_0uPp7-7vA)
 + [Homebrew MacOS的包管理器](https://mp.weixin.qq.com/s/dgJzTmryZm1srcxE6Q7zPw)
++ [码农如何配置苹果电脑？](https://mp.weixin.qq.com/s/2kY4aUapz12np_cDd4mdiQ)
 
 ## NAS
 
@@ -430,6 +431,7 @@
 + [这个发誓不用Java的程序员，终于受到惩罚了......](https://mp.weixin.qq.com/s/fhdMTY-MxjsVnjejK68S4A)
 + [图灵奖大佬向97年小孩哥汇报？小扎1亿年薪买新贵，老将痛诉熬夜捡GPU！](https://mp.weixin.qq.com/s/deR7Pq8Tf21BX8QgH-6Q1w)
 + [为什么谷歌要在一门“尚未诞生”的语言上押注 8 年](https://mp.weixin.qq.com/s/LhuseuXDMjC-Aa0t-i6p4A)
++ [这个没落的编程语言，无意间改变了全球程序员的命运！](https://mp.weixin.qq.com/s/9D30PW7mwLSAfhgihYK2xw)
 
 ## 创业
 

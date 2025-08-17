@@ -43,6 +43,7 @@
 + [设计模式（结构型）](https://mp.weixin.qq.com/s/Rqu3QWKY44nbL1Xo3LcncA)
 + [二面问到设计模式相关问题，该如何回答获得高分？](https://mp.weixin.qq.com/s/IyrJA9aeANKLd0n-RAb0MA)
 + [结构型设计模式：代码架构的魔法师](https://mp.weixin.qq.com/s/HRGEDqNGX1SudmxQZL-Drw)
++ [行为型设计模式：对象协作的舞蹈家（上）](https://mp.weixin.qq.com/s/nxjIQwR431ew8iC77-693g)
 
 ## 原则
 
@@ -178,6 +179,7 @@
 
 + [设计模式系列-行为型模式-访问者模式（Visitor Pattern）](https://mp.weixin.qq.com/s/887flDP8-UrCI7DdHmythA)
 + [深入设计模式之「访问者模式」：让算法与对象解耦](https://mp.weixin.qq.com/s/oc5DnItTkRRL2BOZiOQp8g)
++ [设计模式-访问者模式](https://mp.weixin.qq.com/s/uRM6q2rlBJLo274KyVIw3g)
 
 ## 解释器模式
 

@@ -741,6 +741,8 @@
 + [Java Modular对反射(Reflect)的使用影响](https://mp.weixin.qq.com/s/HlSjaB02f6aUryeP3VGmWw)
 + [【Java面试题】一分钟了解反射机制](https://mp.weixin.qq.com/s/MGcBqyosu_bAuPbH6QXOiw)
 + [Java安全-Java反射及类加载](https://mp.weixin.qq.com/s/pRWElYNPhF1m4mH07Inz_g)
++ [一文拿捏 Java 反射：从基础到高阶实战](https://mp.weixin.qq.com/s/zs8XC7BZZG3w0_24BcLhWQ)
++ [Java反射18式：从入门到精通的避坑指南与实战技巧](https://mp.weixin.qq.com/s/8zeA-i7eN0qQED9mX_bl1A)
 
 ### 并发/多线程
 
@@ -1044,6 +1046,7 @@
 + [java并发包中的ReentrantLock锁详解篇](https://mp.weixin.qq.com/s/Loo3OINuAwR1OAAANPF5ig)
 + [一文看懂Java可重入锁原理](https://mp.weixin.qq.com/s/jXdzzXXMjRqRtCzrB2Bc5A)
 + [从源码到场景，彻底搞懂AQS：Java并发的"隐藏大佬"是怎么工作的？](https://mp.weixin.qq.com/s/wvhV8545odlboF1Nk4Y9DA)
++ [java锁lock和sync区别简述](https://mp.weixin.qq.com/s/vpHQVxSHWWKerIHl7H14eQ)
 
 #### volatile
 

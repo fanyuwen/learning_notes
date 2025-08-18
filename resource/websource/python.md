@@ -346,6 +346,7 @@
 + [Python内置模块：platform访问底层平台的标识数据详解](https://mp.weixin.qq.com/s/4JfszIbHEqlxzA5u6tY_Aw)
 + [Python内置模块：numbers--- 数字抽象基类详解](https://mp.weixin.qq.com/s/E89YkwPG-6aTGl_ySvBNEA)
 + [Python内置模块：statistics --- 数字统计函数详解](https://mp.weixin.qq.com/s/iZMkP1P7s4uiCnEhuc8jfQ)
++ [Python内置模块：netrc --- netrc 文件处理详解](https://mp.weixin.qq.com/s/CEJzeoH5ygIcXSuK_dgfEQ)
 + [30天学会Python编程：Python sys模块使用教程](https://mp.weixin.qq.com/s/QXF2zBjZerJNiAnrLGuJEg)
 + [Python内置模块：zlib --- 与 gzip 兼容的压缩详解](https://mp.weixin.qq.com/s/NZuj-NZ390c37hdUvdjKMw)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)

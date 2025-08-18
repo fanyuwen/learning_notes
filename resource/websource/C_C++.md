@@ -7,6 +7,7 @@
 + [Zig号称“更好的C”，但它的构建系统让我崩溃了](https://mp.weixin.qq.com/s/raxY6DiTB860IhLfVgPLdw)
 + [图解C/C++指针，别再说你不会了](https://mp.weixin.qq.com/s/zcvKGu-Cf_5O4VzQ-pwQAQ)
 + [字节跳动C++二面：手写shared_ptr实现](https://mp.weixin.qq.com/s/QIYuJQU-6cJC8kjk0pn5ew)
++ [C/C++实战：KVStore存储项目](https://mp.weixin.qq.com/s/oV17aPhe88IjoI7xEHX06g)
 
 ## 工具
 
@@ -63,6 +64,7 @@
 + [c++代码编译过程](https://mp.weixin.qq.com/s/LzV8S2EXDeXU3LKFjROC5Q)
 + [开始学习C++](https://mp.weixin.qq.com/s/DChijH8jBZoCFtezXCouXg)
 + [编译器与指令集优化 (三)](https://mp.weixin.qq.com/s/OQz8vZu_agUqAnmSenCtVg)
++ [C++11 值类别演进：从二分法到五分法，揭秘移动语义的基石](https://mp.weixin.qq.com/s/yUQgado9H8uVfANie_6kdg)
 
 ### 基础
 
@@ -112,6 +114,7 @@
 + [C++循环控制：break和continue的妙用（附多层循环详解）](https://mp.weixin.qq.com/s/q4e8i8cVBXBat6frHL2y8w)
 + [C++基础入门——7. 循环结构与循环语句](https://mp.weixin.qq.com/s/1KLcqgcJQcDuj4p8TkCogg)
 + [现代 C++ 基础 · vector 篇：为什么它比数组更安全、更好用？](https://mp.weixin.qq.com/s/iwFgsKBibSrbxmBdOlitVA)
++ [c++ static关键字多种用途和含义](https://mp.weixin.qq.com/s/aIUrbjhpjWd27v4w34xtlg)
 
 ### 高阶
 
@@ -252,6 +255,7 @@
 + [英伟达C++一面：C++中有哪四种类型转换方式？](https://mp.weixin.qq.com/s/0_Lw2NGFMlTjCoXLHkEiTA)
 + [英伟达C++一面，Mutex底层原理是什么？](https://mp.weixin.qq.com/s/YrfvEuz4OhaE5iecl5wSbA)
 + [编译时解析JSON：C++模板元编程的奇技淫巧](https://mp.weixin.qq.com/s/z3Foje0N0ZEFmh57gMy7-Q)
++ [字节C++一面：enum和enum class的区别？](https://mp.weixin.qq.com/s/bHMJmfoB0UdV9II9Bn7nHw)
 
 #### 指针
 
@@ -269,6 +273,7 @@
 + [C++智能指针全解析：从auto_ptr到weak_ptr，彻底掌握内存管理利器！强烈建议收藏！！！](https://mp.weixin.qq.com/s/NIxtfgjND_Y0HJJ_yymkvQ)
 + [“指鹿为马”的C++指针：当A*指向B时发生了什么？](https://mp.weixin.qq.com/s/Ie4fTwblL5uCG73HXUzyow)
 + [利用 void* 简化 C++ 类的跨语言 FFI 封装](https://mp.weixin.qq.com/s/t1vWiIxjIY273-toJeJuYw)
++ [C++智能指针的高级用法（避坑与提效）](https://mp.weixin.qq.com/s/hPc4AN0MPrKrkoRqwhciAg)
 
 #### 函数
 
@@ -330,6 +335,7 @@
 + [C++11基础之std::function](https://mp.weixin.qq.com/s/ZbGwFs2E3pNDAuoPQaaAdQ)
 + [C++基础之字符串类string](https://mp.weixin.qq.com/s/-5BJUUru--67-xWOzEy9sA)
 + [别再怪 std::vector 慢了，元凶可能只是你忘了写 noexcept](https://mp.weixin.qq.com/s/Ae5WkOLyWfDyDSq2utBMMQ)
++ [面试官：vector插入一百万个元素，如何优化？了解底层原理才能回答](https://mp.weixin.qq.com/s/ZCOrO2ohr-2VeNu2tAHv4Q)
 
 #### 新特性
 
@@ -362,6 +368,7 @@
 + [c++26新功能—匿名占位符变量](https://mp.weixin.qq.com/s/5pwE4BEEhHTcsyT8-vt9ZA)
 + [c++26新功能—inplace_vector](https://mp.weixin.qq.com/s/89mneVB43Om_8GwnNOHmPg)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
++ [c++26新功能—可观测检查点](https://mp.weixin.qq.com/s/ARJ4_tXO8mMa9pXSfVfpRg)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
 + [从 C++98 到 C++20，字符串前缀检查居然藏着这么多优化套路！学会让代码性能飙升](https://mp.weixin.qq.com/s/FLFPmjeD652tDXVCYKHKhQ)
 + [函数声明后的“ - >”是什么？](https://mp.weixin.qq.com/s/GWbD_S7ucVjrRrLXN_KFdw)
@@ -413,6 +420,7 @@
 + [C++成员函数如何工作？this指针、name mangling与成员函数指针全解析](https://mp.weixin.qq.com/s/MEDfpwCaw_we8NY8iGXaTQ)
 + [C++类和对象的底层哲学](https://mp.weixin.qq.com/s/RlqrapbZFcI5idX5B1ix3Q?click_id=55)
 + [构造函数前面的explicit是什么意思？](https://mp.weixin.qq.com/s/4Hq9a07YLd0gIVpx7p6mDw)
++ [C++析构函数与线程退出之2](https://mp.weixin.qq.com/s/wAEkNOg3x4mOl_hBIeqKgg)
 
 ##### 泛型
 
@@ -420,6 +428,8 @@
 + [C++11+ 泛型编程（模板）](https://mp.weixin.qq.com/s/uGCkjU6vsiaYrIfzD-GOSQ)
 + [c++ 可变参数模板 (Variadic Templates)](https://mp.weixin.qq.com/s/wY4K5mU6V8RCa7uuP_ak1A)
 + [C++技法：模板元编程编译期获取类成员数量](https://mp.weixin.qq.com/s/5fxMdJB9bY_8tz0KqtPrJQ)
++ [秒杀C++ STL面试与工程：掌握这4大精髓就够了！](https://mp.weixin.qq.com/s/NNyC1eRSskvQoDz4vBMfwg)
++ [为什么标准容器都有一个模板参数 Allocator ？](https://mp.weixin.qq.com/s/Cq0kxj_Df6CksjXBnA911A)
 
 ##### 设计模式
 
@@ -472,6 +482,7 @@
 + [C++多线程编程：从入门到精通，构建高性能并发应用，非常详细，强烈建议收藏！！！](https://mp.weixin.qq.com/s/cDRNVM6NNfNYMSfG6A8ERw)
 + [100行代码使用C++实现一个线程池](https://mp.weixin.qq.com/s/6OhmTv2Muf17z2B3sp3UDw)
 + [微软C++四面终极拷问：手撕线程安全RingBuffer](https://mp.weixin.qq.com/s/5REPWmdKnvEb_PPeePB3hg)
++ [【C/C++】线程池基本功能的实现](https://mp.weixin.qq.com/s/uVV6KRef0Ebx2znP8xYMww)
 
 #### 扩展
 
@@ -887,6 +898,7 @@
 + [嵌入式软件开发中的表驱动法：原理、应用与实战](https://mp.weixin.qq.com/s/BNIuWVxy08qFMOl0wkTFEw)
 + [嵌软面试-操作系统篇：3-堆与栈](https://mp.weixin.qq.com/s/ano67TNQn_jnFbLbmuzTbQ)
 + [嵌入式软件开发中回调函数的应用与实践](https://mp.weixin.qq.com/s/ZVBfyhqW5qdoFOhAsgLJTw)
++ [嵌入式开发也能玩多态？用C语言实现面向对象，开发效率翻倍](https://mp.weixin.qq.com/s/T-1LOyL5cnng6zYwqTYmtw)
 
 # ARM
 

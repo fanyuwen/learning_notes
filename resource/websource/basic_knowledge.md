@@ -22,6 +22,7 @@
 + [深入理解操作系统（六）---进程调度，进程和线程理论，经典同步问题的一个题目](https://mp.weixin.qq.com/s/Bvpd6bRutcJ11SZYn1j7XQ)
 + [深入理解操作系统（八）---硬件地址变换机构&&空闲分区表的计算](https://mp.weixin.qq.com/s/0C0jw_1TKmB034b11W_UVg)
 + [深入理解计算机组成原理（十三）---寄存器介绍&&数据通路&&CPU核心器件](https://mp.weixin.qq.com/s/jit67JqK_65DJp_T2mVwUA)
++ [进程栈和线程栈傻傻分不清楚](https://mp.weixin.qq.com/s/XAitgkmiPBCa5pYonmOWRg)
 
 ## 文件系统
 

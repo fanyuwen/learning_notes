@@ -91,6 +91,7 @@
 + [架构设计内容分享—使用白板工具绘制系统架构图实操](https://mp.weixin.qq.com/s/UaX_sJY3oh54hDtjlUqf_Q)
 + [图解来了！10种黄金软件架构模式，一看就懂](https://mp.weixin.qq.com/s/xqt0fwSJoR8qtxmeC_deQg)
 + [《架构现代化》- 6](https://mp.weixin.qq.com/s/yGDdvaPPnFnJMqZGLwnpjg)
++ [架构提效的矛盾和矛盾的主要方面](https://my.oschina.net/u/4090830/blog/18688507)
 
 ### DDD
 

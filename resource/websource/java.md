@@ -1294,6 +1294,7 @@
 + [JVM-垃圾收集器](https://mp.weixin.qq.com/s/Org3ZzVR37lbF5NnAsclKA)
 + [垃圾回收黑科技：分代收集+三大算法，让你的Java性能飙升！](https://mp.weixin.qq.com/s/htlFbGH4kVzD6CF6g1n7VQ)
 + [垃圾回收算法有哪些？了解哪些垃圾回收器？](https://mp.weixin.qq.com/s/5OXH6oNN3MjqFyzTCwSLZQ)
++ [虚引用 GC 耗时分析优化（由 1.2 降低至 0.1 秒）](https://my.oschina.net/u/4090830/blog/18688164)
 
 # 核心库
 

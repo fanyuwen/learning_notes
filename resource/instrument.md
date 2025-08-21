@@ -128,7 +128,7 @@
 + 应用开发学习资源 [二哥的Java进阶之路](https://javabetter.cn/)
 + 代码开发学习资源 [refactoring](https://refactoring.guru/) [exercism](https://exercism.org/)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
-+ 软件开发学习资源 [javacodegeeks](https://www.javacodegeeks.com/) [baeldung](https://www.baeldung.com/) [happycoders](https://www.happycoders.eu/)
++ 软件开发学习资源 [javacodegeeks](https://www.javacodegeeks.com/) [baeldung](https://www.baeldung.com/) [happycoders](https://www.happycoders.eu/) [geeksforgeeks](https://www.geeksforgeeks.org/)
 + jvm剖析工具 [visualvm](https://visualvm.github.io/) [MAT](https://eclipse.dev/mat/) <font style='color:red'>\*</font>[jprofiler](https://www.ej-technologies.com/jprofiler)
 + java版本年鉴 [javaalmanac](https://javaalmanac.io/)
 + redhat开发资源站 [redhat-developer](https://developers.redhat.com/)

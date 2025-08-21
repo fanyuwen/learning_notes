@@ -549,6 +549,8 @@
 + [缓存穿透、缓存击穿、缓存雪崩，这样回答要满分呀！](https://mp.weixin.qq.com/s/auO19jE0Sl6fjBLPI3YPgg)
 + [促销期间大量缓存同时过期：随机 TTL + 熔断降级实战防御指南](https://mp.weixin.qq.com/s/NxhYtpSUyPdjCT6lX-GZ6Q)
 + [图解 LRU Cache ：5 分钟搞懂 LRU Cache 核心原理](https://mp.weixin.qq.com/s/KBhWizb02mueHz7gGhRNbw)
++ [高性能缓存设计：如何解决缓存伪共享问题](https://my.oschina.net/u/4090830/blog/18683171)
++ [六大缓存（Caching）策略揭秘：延迟与复杂性的完美平衡](https://my.oschina.net/powertoolsteam/blog/18688830)
 
 ## 优化
 

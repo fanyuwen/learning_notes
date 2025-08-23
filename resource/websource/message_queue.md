@@ -202,3 +202,6 @@
 + [Apache Pulsar 技术系列 - 大规模延迟消息解析](https://my.oschina.net/u/4587289/blog/17773926)
 + [vivo Pulsar 万亿级消息处理实践（1）- 数据发送原理解析和性能调优](https://my.oschina.net/vivotech/blog/18619282)
 + [Apache Pulsar 技术系列 - 大规模延迟消息解析](https://my.oschina.net/u/4587289/blog/17773926)
++ [技术文档 | Pulsar 中的消息保留、过期及积压机制解析（上）](https://my.oschina.net/apachepulsar/blog/18688106)
++ [技术文档 | Pulsar 中的消息保留、过期及积压机制解析（下）](https://my.oschina.net/apachepulsar/blog/18689158)
++ [重大技术转向：LinkedIn 抛弃自家创造的 Kafka ，又重新造了个 Pulsar 的轮子？](https://my.oschina.net/apachepulsar/blog/18687063)

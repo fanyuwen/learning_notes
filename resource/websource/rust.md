@@ -191,3 +191,4 @@
 + [从 C++ 到 Rust：一个 7 年老兵的系统编程重生之路](https://mp.weixin.qq.com/s/92hyqG04zbpGd3mkfTjMnQ)
 + [Rust 1.89震撼发布：你的Intel Mac被“踢出群聊”，编译器化身“朝阳大妈”专治各种不服！](https://mp.weixin.qq.com/s/xH2lwQDODh8mrP0PWEySdA?click_id=40)
 + [从 C++ 到 Rust：为什么 Google 正在推动这场技术变革](https://mp.weixin.qq.com/s/RC-YJeIzFBnhcGd1Plo6RA)
++ [为什么 Rust 这么火，但很多公司还是主用 Go 和 Java？](https://mp.weixin.qq.com/s/KSWhtQ14e_RFZ0iYD69PeQ)

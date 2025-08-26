@@ -444,6 +444,7 @@
 + [防止重复提交的解决方案—防重Token](https://mp.weixin.qq.com/s/GxzMjxOSlQWs-HWgIyhpfw)
 + [接口幂等性设计：用Redis避免接口重复请求](https://mp.weixin.qq.com/s/88xjFjJ_iMAVoL6v_teg-Q)
 + [幂等性设计--构建可靠分布式系统的核心原则](https://mp.weixin.qq.com/s/ztiXt7YJNHrlCVnz2OkXRg)
++ [被架构师怼了三次，小明终于懂了接口幂等设计](https://mp.weixin.qq.com/s/mJTGhSXORkUB7MhGOkbhcg)
 
 ### 负载&限流
 

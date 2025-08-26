@@ -758,6 +758,7 @@
 + [Python 控制流技术讲解](https://mp.weixin.qq.com/s/HIR1-D3hlCEvtFgHHi48sA)
 + [Python：入口点详解（模块、包与程序）](https://mp.weixin.qq.com/s/xttsVS0gCLUej_GhAhFnJQ)
 + [Python数据读取与写入——从基础到高级实践](https://mp.weixin.qq.com/s/WSNwh-xOPNaCP55v_rC4YA)
++ [Python常用的6个设计模式，效率直接翻倍！](https://mp.weixin.qq.com/s/Q__JCVD69YzNhIql7JT_Qg)
 
 ## 新特性
 

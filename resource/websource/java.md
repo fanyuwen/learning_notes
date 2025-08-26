@@ -284,6 +284,7 @@
 + [ThreadLocal 不香了？ScopedValue才是王道？](https://mp.weixin.qq.com/s/gbjzUQMu_T_0aQHTHBF-DA)
 + [JDK 高版本特性总结与 ZGC 实践](https://my.oschina.net/meituantech/blog/18627969)
 + [还在用“+”号拼接字符串？Java文本块，让你告别“上古”写法！](https://mp.weixin.qq.com/s/DdxzzDz7x0O8JTg5Ml1BMA)
++ [升级 JDK 17 碰到的请求 https 问题](https://mp.weixin.qq.com/s/MFkjAtSl3ttyCm3CN_DdXA)
 
 ## 高级用法
 
@@ -483,6 +484,10 @@
 + [别再if套if了！Java中return的9种优雅写法](https://mp.weixin.qq.com/s/aQ7tpZnKIAwJi7mvlXVoiA)
 + [一些 Function 的最佳使用场景与避坑点](https://mp.weixin.qq.com/s/bc2Tiq-qLiZkRDNagxcwPQ)
 + [分享一些 Function<T,R> 的高级用法与心得](https://mp.weixin.qq.com/s/Aopgm2c_PnGBeKmSXcESsQ)
++ [分享一些 Function<T, R>、Consumer<T>、Supplier<T> 巧妙使用技巧！](https://mp.weixin.qq.com/s/ywl19T6iyo_FRi0pAHkszg)
++ [分享些 Function 与 CompletableFuture 高级使用技巧](https://mp.weixin.qq.com/s/CE1PyfTMVDeuMuRVz-gP6Q)
++ [分享一些 Function<T,R> 使用经验总结！](https://mp.weixin.qq.com/s/CNdu1vcAbebERjwZ4any4Q)
++ [String的join的方法，你用过吗？](https://mp.weixin.qq.com/s/CybB8QkUi3k9hHbXwtBJ-w)
 
 ## 代码质量
 
@@ -575,6 +580,7 @@
 + [提前return？我被喷惨了。。。](https://mp.weixin.qq.com/s/Xd41iJDzFiDBjpsUq_0ONw)
 + [优化 if/else 的四种设计模式](https://mp.weixin.qq.com/s/fqL1KKeBqsaTwSzfSpIl9A)
 + [领导：谁再瞎用 String.valueOf，走人](https://mp.weixin.qq.com/s/AHcRuP3PR2C4YfEcpsjong)
++ [领导：集合删元素，谁再直接用remove，走人](https://mp.weixin.qq.com/s/l6rIycJ36DlvvAYb7qb7eA)
 
 # 底层
 
@@ -681,6 +687,8 @@
 + [一个字符，长度为2？揭秘 Java String 的底层编码陷阱](https://mp.weixin.qq.com/s/nYvqFbBgTe0DIPieXs731A)
 + [为什么 foreach 删不掉 Java 集合元素？反而抛出异常？](https://mp.weixin.qq.com/s/I8sqKyDkJQgNjpdXPhxn9A)
 + [ArrayList 用过吗？是线程安全的吗？怎么保证 ArrayList 的线程安全？](https://mp.weixin.qq.com/s/wBTzpzg4j5H0iC6K4pfS0g)
++ [深扒 HashMap 扩容内幕：为什么多线程下会“翻车”？ConcurrentHashMap 又是如何优化的？](https://mp.weixin.qq.com/s/Qe8qfzxTUvRMtCfaSxV81g)
++ [一文讲通 Java 四种引用及其使用场景](https://mp.weixin.qq.com/s/XGEMmYZYW1KKp-6iTdwuVQ)
 
 ### 序列化
 
@@ -1047,6 +1055,7 @@
 + [一文看懂Java可重入锁原理](https://mp.weixin.qq.com/s/jXdzzXXMjRqRtCzrB2Bc5A)
 + [从源码到场景，彻底搞懂AQS：Java并发的"隐藏大佬"是怎么工作的？](https://mp.weixin.qq.com/s/wvhV8545odlboF1Nk4Y9DA)
 + [java锁lock和sync区别简述](https://mp.weixin.qq.com/s/vpHQVxSHWWKerIHl7H14eQ)
++ [浅谈并发编程中的死锁问题](https://mp.weixin.qq.com/s/w4CIFNHjvn3KAPe8XGt6tg)
 
 #### volatile
 
@@ -1085,6 +1094,7 @@
 + [Java 语言基础 - LinkedHashSet & LinkedHashMap 源码分析](https://mp.weixin.qq.com/s/KYX9oZc70c55mq3RNZSR4A)
 + [Java - ArrayList源码解析](https://mp.weixin.qq.com/s/elviqOqb_Ablq_ETiH2yLg)
 + [LinkedList 源码分析](https://mp.weixin.qq.com/s/-kAYeLblfTa_c4J0dhd0KA)
++ [PriorityQueue 源码分析](https://mp.weixin.qq.com/s/PDbvFZ6Jn7aJb0CQ9DAQcA)
 
 ## JVM
 
@@ -1722,6 +1732,7 @@
 + [阻塞队列：Java并发中的"红绿灯"与"缓冲带"](https://mp.weixin.qq.com/s/QKqfvKLV2iI4X7z93GnTVA)
 + [Java并发实战：CountDownLatch的5种典型场景，告别线程阻塞噩梦！](https://mp.weixin.qq.com/s/zIY5Y5QkLjGr7JxJAafsZA)
 + [深入解析AtomicInteger：CAS机制、乐观锁与ABA问题](https://mp.weixin.qq.com/s/bod0JdLbHbnTEl8caj-orA)
++ [信号量Semaphore：多线程编程中的红绿灯，你真的会用吗？](https://mp.weixin.qq.com/s/pl-5r77Kwi7K0U1twMsK7w)
 
 ## IO/NIO
 
@@ -1855,6 +1866,10 @@
 + [Apache Commons RandomStringUtils：让随机字符串生成效率提升 10 倍的工具类](https://mp.weixin.qq.com/s/vgtO8ocCIPjCYYUrqcMK6Q)
 + [Apache Commons Collections：让集合操作效率提升 80% 的 Java 工具包](https://mp.weixin.qq.com/s/9kfvPsDsJ8pkwibEsn_IeA)
 + [Apache Commons IO：文件流处理利器，让Java IO操作更简单](https://mp.weixin.qq.com/s/mSoR0eRR2uiDT1V28PJWdg)
++ [Apache Commons ConvertUtils：Java 类型转换的 "万能钥匙"，让数据转换效率提升 300%](https://mp.weixin.qq.com/s/kR195BVns4fDPRJcokuZsg)
++ [Apache Commons 4 ConcurrencyUtils：Java 并发编程的 "瑞士军刀"，让多线程开发更丝滑](https://mp.weixin.qq.com/s/tLzAtCOgANF3iz1fedku9A)
++ [Apache Commons ListUtils：让 List 操作效率翻倍的 Java 工具类](https://mp.weixin.qq.com/s/qA0YUE6hm9t13ig0AgJCcg)
++ [Apache Commons NumberUtils：让数字处理代码减少 60% 的工具类​](https://mp.weixin.qq.com/s/bKIus9Hgo5W45S7m9XQe_Q)
 
 ## apollo
 
@@ -1949,6 +1964,7 @@
 + [Guava LoadingCache 实战指南：从自动加载到异步刷新，这5个技巧让缓存性能翻倍](https://mp.weixin.qq.com/s/y7pONioRBZxBL-G_Zdycdw)
 + [Guava——你不得不知道的一个Java工具类包，这个对你真的很有用！](https://mp.weixin.qq.com/s/Y_1PCvJKp9qe7AAn8jjmyA)
 + [Guava：告别冗余代码！让代码高效又优雅！](https://mp.weixin.qq.com/s/iRfJqGaWcekrnBdz-v-AMA)
++ [从二维表到高效映射： Guava Table](https://mp.weixin.qq.com/s/bjlf6zUwhC8uHomm5z4AdA)
 
 ## hystrix
 
@@ -2494,6 +2510,8 @@
 + [详解Spring解决循环依赖实现原理](https://mp.weixin.qq.com/s/rxbu-IN3135458yaJ9lLKw)
 + [Spring容器深度扩展点：postProcessBeanFactory详解](https://mp.weixin.qq.com/s/AfOH1P1BKD9dCVOgV0qDJw)
 + [Spring @Bean解密：`static`与非`static`方法的微妙之差与正确用法](https://mp.weixin.qq.com/s/0HOkVMVOu4H0imET3XMijg)
++ [一文看懂spring处理@Component注解的原理](https://mp.weixin.qq.com/s/N8N9VbcSh3HFwqC1hCGQnw)
++ [Spring Bean 生命周期全解析：每个阶段的个性化操作与实战案例​](https://mp.weixin.qq.com/s/sDM7f7ileuxnPAuAkgRVqg)
 
 ### 新版本新特性
 
@@ -2727,6 +2745,7 @@
 + [装饰者模式在Spring框架中的应用](https://mp.weixin.qq.com/s/0oDaWhchSpQdRBcOe8TdFw)
 + [责任链模式在Spring框架中的使用](https://mp.weixin.qq.com/s/9yMjbZnG0BBzsF8lMJeSYw)
 + [Spring Boot中的中介者模式：终结对象交互的“蜘蛛网”困境](https://mp.weixin.qq.com/s/z08lIPIjNmaEt16KTJA1WQ)
++ [Spring设计模式大揭秘：23种模式藏在你每天在用的框架里](https://mp.weixin.qq.com/s/dLHb9Vt8PsMw_q_rBBR-IA)
 
 ### STATEMACHINE
 
@@ -4082,6 +4101,7 @@
 #### 配置打包部署
 
 + [告别 @Value！Spring Boot 3.3 更优雅的配置注入方式](https://mp.weixin.qq.com/s/T-KqgDVBauOW5OehKgy2Bw)
++ [Spring Boot 自动配置揭秘：spring.factories 如何实现“零配置”注入？](https://mp.weixin.qq.com/s/SsRyab5CA7zFV9HSuJdyew)
 + [Spring Boot中读取配置文件自定义属性的五种高效方法](https://mp.weixin.qq.com/s/jXaHU-QZDUfWjCDvzTxnew)
 + [SpringBoot自动配置的8个宝藏技巧！](https://mp.weixin.qq.com/s/zP2yw-xnRPQFkKHjFHs27w)
 + [揭秘 Spring Boot 自动装配原理：开启高效开发之门](https://mp.weixin.qq.com/s/1pkxUFimi8IpoY7MfkpymA)
@@ -4285,6 +4305,7 @@
 + [Spring Boot 系列：集成 EasyExcel 实现百万级数据导入导出实战](https://mp.weixin.qq.com/s/ajscAvgLhp_GCD6XQunVaA)
 + [SpringBoot+Redis BitMap 实现签到与统计功能](https://mp.weixin.qq.com/s/tIaEpkylJIjuMy3t4k760g)
 + [SpringBoot+RedisBitMap实现签到与统计功能](https://mp.weixin.qq.com/s/Ce__5w-xGK0hQt77hn--yA)
++ [干货：SpringBoot集成MapStructPlus，使用注解快速转换对象](https://mp.weixin.qq.com/s/5mfeOz8ObYpFDZH7lanMIw)
 
 #### test
 
@@ -4343,6 +4364,7 @@
 + [双亲委派不香了？看 Tomcat 如何“叛逆”加载自己的类！](https://mp.weixin.qq.com/s/dbk0AuczZ9jM9EkUOK3tPg)
 + [【安全研究】浅谈内存马绕过maxHttpHeaderSize限制](https://mp.weixin.qq.com/s/tb0xvBAGsZoV1y9SVc_DEw)
 + [Servlet 3.0异步处理的革命性突破：AsyncContext](https://mp.weixin.qq.com/s/TjmsP2JPltXGOovGjattKQ)
++ [Tomcat 线程池和 JDK 线程池到底有什么不同？](https://mp.weixin.qq.com/s/OqSgOr8XU-fS4qzpSWoTFw)
 
 ## xxl-job
 

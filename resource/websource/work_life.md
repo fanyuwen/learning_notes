@@ -522,6 +522,7 @@
 + [2024 Top 10文章推荐｜得物技术](https://mp.weixin.qq.com/s/lm1WS9_Ccxyjdz7Ou6egEg)
 + [《代码大全》还有必要读吗？](https://mp.weixin.qq.com/s/aSy0_Z1CsOzUeqLVxMxN8Q)
 + [推荐一些我读过的经典计算机书籍](https://mp.weixin.qq.com/s/cQs6PYWnaCxDa6YMexPsYA)
++ [一些深入浅出的（技术）书籍](https://mp.weixin.qq.com/s/l0xAAtYYF8PENdORItSgKQ)
 
 ### 生活
 

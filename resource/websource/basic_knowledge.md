@@ -23,6 +23,7 @@
 + [深入理解操作系统（八）---硬件地址变换机构&&空闲分区表的计算](https://mp.weixin.qq.com/s/0C0jw_1TKmB034b11W_UVg)
 + [深入理解计算机组成原理（十三）---寄存器介绍&&数据通路&&CPU核心器件](https://mp.weixin.qq.com/s/jit67JqK_65DJp_T2mVwUA)
 + [进程栈和线程栈傻傻分不清楚](https://mp.weixin.qq.com/s/XAitgkmiPBCa5pYonmOWRg)
++ [从while(1)到多任务：操作系统进程调度其实很简单](https://mp.weixin.qq.com/s/0TblnpiIbUs5YltVEMiQXw)
 
 ## 文件系统
 
@@ -191,6 +192,7 @@
 + [Linux学习笔记-cgroup(一)](https://mp.weixin.qq.com/s/PqgqLONhA3u3341Os7FMXQ)
 + [深入理解Linux进程信号机制](https://mp.weixin.qq.com/s/blDBeGKuNYtpctZa3CSvrw)
 + [深度解析Linux设备树（DTS）：设计原理、实现框架与实例分析](https://mp.weixin.qq.com/s/LrHxdTbdezzuk0_SKRS2Aw)
++ [Linux 进程深度解析（6）：资源隔离的底层实现 （Namespace、Cgroups 与容器化）](https://mp.weixin.qq.com/s/e6frNlBOy2IUwEC5w7qVUw)
 
 ### 网络
 
@@ -379,6 +381,7 @@
 + [CPU指令执行过程（三）：代码的执行](https://mp.weixin.qq.com/s/DsA761jQZAQiEvMmy0tFTQ)
 + [GPU的结构与工作原理](https://mp.weixin.qq.com/s/slWcY4xMw6dlQCaPaNisaQ)
 + [CPU那些事儿-CPU benchmarks（上）](https://mp.weixin.qq.com/s/FmOaZ2vXl_ZBVXy68Qg-kw)
++ [CPU那些事儿-CPU benchmarks（下）](https://mp.weixin.qq.com/s/yAKGaQ_3CWBK0jhskRqlmA)
 + [CPU中断的工作原理](https://mp.weixin.qq.com/s/eZ7yvZ-T-2WurDCCNHHqSA)
 
 ### 并发
@@ -785,3 +788,4 @@
 + [CRC校验大全：一文掌握所有常用CRC算法](https://mp.weixin.qq.com/s/0BKt1GithOsNrBWnJHLiew)
 + [位运算基础](https://mp.weixin.qq.com/s/5RlCnukSqEGH8ba3F0VcWQ)
 + [为什么负数要以补码的形式存储？](https://mp.weixin.qq.com/s/pxlsKBga7TzuKNY_4F8bqQ)
++ [编译器如何处理你的代码？—— 词法分析、语法树与优化详解](https://mp.weixin.qq.com/s/l_WiVqpYBcjcWTz8Zw_OIQ)

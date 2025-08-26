@@ -105,6 +105,9 @@
 + [一文读懂堆栈与堆，代码世界的“内存双雄”](https://mp.weixin.qq.com/s/tjvvbuBv8zcmUjeZEJmAmg)
 + [【基础算法】二分](https://mp.weixin.qq.com/s/gDDcRqvXW-XnuPje8yh5cw)
 + [面试官最爱问的数据结构问题：栈和队列](https://mp.weixin.qq.com/s/SkJfLx722QPZOCarsKLv7g)
++ [常见优化技巧——单调栈](https://mp.weixin.qq.com/s/eM4DxXb3ShAZRezk6dsbjw)
++ [详解动态规划2: 方法论篇](https://mp.weixin.qq.com/s/zOgsgs5G4oXEw-EXv97ZgQ)
++ [大白话聊一聊，数据结构的基石：数组和链表](https://mp.weixin.qq.com/s/m_85p9cXzYW1qi4ndHJO3g)
 
 ## Graph
 
@@ -158,6 +161,8 @@
 + [【数据结构】可持久化线段树（一）](https://mp.weixin.qq.com/s/ehckJzExqCx_yGFROPbJyg)
 + [剑指offer-18、⼆叉树的镜像](https://mp.weixin.qq.com/s/-iij47Q3nlIo3XAkRGWzxg)
 + [四叉树如何实现？](https://mp.weixin.qq.com/s/E5rFprrlGjgPuVjdgiF1Pw)
++ [剑指offer-23、搜索⼆叉树的后序遍历序列](https://mp.weixin.qq.com/s/E3vkGVV4bk8Un5JY_TxWbw)
++ [图解数据结构：二叉树详解](https://mp.weixin.qq.com/s/d2HWVVcdmm4PnwHaTxzkiQ)
 
 ## 排序算法
 

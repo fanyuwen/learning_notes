@@ -488,6 +488,7 @@
 + [分享些 Function 与 CompletableFuture 高级使用技巧](https://mp.weixin.qq.com/s/CE1PyfTMVDeuMuRVz-gP6Q)
 + [分享一些 Function<T,R> 使用经验总结！](https://mp.weixin.qq.com/s/CNdu1vcAbebERjwZ4any4Q)
 + [String的join的方法，你用过吗？](https://mp.weixin.qq.com/s/CybB8QkUi3k9hHbXwtBJ-w)
++ [分享 Java Function 的 10 个高阶用法！](https://mp.weixin.qq.com/s/I1NFZ8iEEhui1GmhpReNzw)
 
 ## 代码质量
 
@@ -689,6 +690,8 @@
 + [ArrayList 用过吗？是线程安全的吗？怎么保证 ArrayList 的线程安全？](https://mp.weixin.qq.com/s/wBTzpzg4j5H0iC6K4pfS0g)
 + [深扒 HashMap 扩容内幕：为什么多线程下会“翻车”？ConcurrentHashMap 又是如何优化的？](https://mp.weixin.qq.com/s/Qe8qfzxTUvRMtCfaSxV81g)
 + [一文讲通 Java 四种引用及其使用场景](https://mp.weixin.qq.com/s/XGEMmYZYW1KKp-6iTdwuVQ)
++ [深入理解fail-fast与fail-safe机制](https://mp.weixin.qq.com/s/O0DHzQH6XNccsljzRCyxzQ)
++ [数据机构之跳表原理及Java实现](https://mp.weixin.qq.com/s/tMVO6RW3S8-Xg1Rdn6xfWA)
 
 ### 序列化
 
@@ -1418,6 +1421,7 @@
 + [Java集合--LinkedList源码可视化](https://mp.weixin.qq.com/s/CEpTaNSpCEbf4OYuTEtXbA)
 + [Java面试实战系列【集合篇】-ArrayList源码深度解析](https://mp.weixin.qq.com/s/urNd2DIcUU-tCYHzwMhxVg)
 + [ArrayDeque双端队列--底层原理可视化](https://mp.weixin.qq.com/s/jKt7IidUNDh8N0INrqsV3A)
++ [吃透Java集合框架，这篇就够了](https://mp.weixin.qq.com/s/Zd-mpz-6_UdsLVhvsVp85A)
 
 #### map
 
@@ -1665,6 +1669,7 @@
 + [一文解析ReentrantReadWriteLock源码，我说白了真不难！](https://mp.weixin.qq.com/s/rN_EQC57fF2A9fryAbiTYg)
 + [学习AQS：Java并发编程的基石](https://mp.weixin.qq.com/s/UvHKwwtVdEZ3iw2H1TSCEg)
 + [ReentrantLock源码大揭秘：你真的会使用ReentrantLock吗?](https://mp.weixin.qq.com/s/FZkZsOS6G3z-gd7cw_BZ6A)
++ [面试必问：Java 锁升级的完整过程，从偏向锁到重量级锁一次讲透](https://mp.weixin.qq.com/s/Y7n_pmkEp1yUYrLiOY7xUQ)
 
 ### ConcurrentHashMap
 
@@ -1806,6 +1811,8 @@
 + [JVM的“随身听诊器”：ManagementFactory](https://mp.weixin.qq.com/s/d7-kgEuoS57jHyCalYoVFA)
 + [Java Modular解锁SPI机制实现新姿势](https://mp.weixin.qq.com/s/11Tgc9d93wMoDwTuUrwU5g)
 + [动态代理：JDK Proxy、CGLIB、ByteBuddy‌、ASM、JavaAgent‌有什么关系](https://mp.weixin.qq.com/s/w3CMFKqDI3HrWK1srcmlhg)
++ [Java SPI实现开闭原则](https://mp.weixin.qq.com/s/LLTa017SC8zXFZjAFZy1oA)
++ [面试官必问：CGLIB 动态代理原理，从底层逻辑到面试应答全梳理](https://mp.weixin.qq.com/s/IMoH83vPENgjfaW2Wf_j_A)
 
 # 包管理工具
 
@@ -2240,6 +2247,7 @@
 + [如何基于Netty实现即时消息下发](https://mp.weixin.qq.com/s/gZoyDLycZDK8Xb7z7B-V1g)
 + [Netty进阶之路：ByteBuf内存管理与零拷贝技术源码级剖析，性能炸裂！](https://mp.weixin.qq.com/s/0GPEBmsKebpEGzs0TAhTAw)
 + [从零手写迷你 Netty 系列（一）：彻底搞懂 Java NIO 网络模型设计原理](https://mp.weixin.qq.com/s/KBWE6ONzs4aDFd97YX7WBQ)
++ [从零手写迷你 Netty 系列（六）：Java NIO 实现长连接的心跳检测机制](https://mp.weixin.qq.com/s/uq-rmszocbWVc_aoc7AlBA)
 
 ## okhttp
 
@@ -2423,6 +2431,7 @@
 + [请不要自己封装！Spring 自带24个工具类，让你开发效率飙升](https://mp.weixin.qq.com/s/1GigusQh9tKmb9MPzkEebg)
 + [Spring的@Autowired能用在集合上吗？](https://mp.weixin.qq.com/s/HNufhNimoFxp8kHnnabCGg)
 + [Spring Bean生命周期：99%开发者闻所未闻，涨见识啊](https://mp.weixin.qq.com/s/sN9vbVtbFBcyaVlafb5oXA)
++ [一篇总结速通Spring Bean 生命周期，IOC容器，Bean作用域：从“出生”到“入土”的 超爽攻略](https://mp.weixin.qq.com/s/n23aMxkfCQO_1MCeMreWiA)
 
 #### 配置
 
@@ -2664,6 +2673,7 @@
 + [Redis 操作全流程揭秘: ConnectionFactory 背后的设计哲学](https://mp.weixin.qq.com/s/1y5PEhZ6XUjhiHkcXqygiw)
 + [非Spring环境下怎么使用RedisTemplate](https://mp.weixin.qq.com/s/7kTuzzjQy1OcXoKRIUnmBg)
 + [为什么要用JdbcTemplate](https://mp.weixin.qq.com/s/78NVs9AAK_owTyIYjy1Hdw)
++ [Java+RedisTemplate：解锁高阶玩法，从缓存到分布式锁](https://mp.weixin.qq.com/s/zPisR4k74BzuvkBUXFKVHg)
 
 #### BATCH
 
@@ -2975,6 +2985,7 @@
 + [如何用 Spring Cloud Gateway 实现流量染色](https://mp.weixin.qq.com/s/YVjvh-Ht3llYOkjLV8vnvQ)
 + [SringCloud网关Gateway功能实现](https://mp.weixin.qq.com/s/V5sbRKDgXDWcQ_fleimi4g)
 + [Spring Cloud Gateway 核心原理](https://mp.weixin.qq.com/s/DRzVUFakayfZb4AKlxej-g)
++ [Spring Cloud Gateway，这一篇就够了](https://mp.weixin.qq.com/s/8B4iTArrvlN_HY1ZIGz_xg)
 
 #### AI
 
@@ -3685,6 +3696,7 @@
 + [SpringBoot中3种内容协商策略实现](https://mp.weixin.qq.com/s/6oULC2J6vdqhdL4kSeqbqw)
 + [SpringBoot启动过程可视化：从main()到Tomcat的奇妙旅程](https://mp.weixin.qq.com/s/09MGA88b2SM5-oiYzCOUnA)
 + [Java进阶手册（五）SpringBoot的内容协商机制详解](https://mp.weixin.qq.com/s/ykcUigJcYbHy4svOTbFOEw)
++ [Spring Boot 接口敏感字段脱敏的5大"王炸"方案](https://mp.weixin.qq.com/s/HQEHUrJLsw37aUKPyRTCDw?click_id=97)
 
 ##### 文件上传下载
 

@@ -227,6 +227,7 @@
 + [为什么 self 与 super() 成了 Python 的永恒痛点？](https://mp.weixin.qq.com/s/F3Z3Plm_ZFH8Vk-n6I1d3A)
 + [Day 11 - 面向对象编程基础](https://mp.weixin.qq.com/s/DiV8HK6FXowfg6Bu8SK-LQ)
 + [11.Python的高级OOP特性：提升代码优雅性与复用性](https://mp.weixin.qq.com/s/mpr1jN_jTfd9O8qvnOz1BA)
++ [学Python必须迈过的一道坎：类和对象到底是什么鬼？](https://mp.weixin.qq.com/s/8iblnDZT0TyX840l1ELimQ)
 
 ### 核心库/模块
 

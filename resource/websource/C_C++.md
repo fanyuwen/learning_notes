@@ -281,6 +281,7 @@
 + [“指鹿为马”的C++指针：当A*指向B时发生了什么？](https://mp.weixin.qq.com/s/Ie4fTwblL5uCG73HXUzyow)
 + [利用 void* 简化 C++ 类的跨语言 FFI 封装](https://mp.weixin.qq.com/s/t1vWiIxjIY273-toJeJuYw)
 + [C++智能指针的高级用法（避坑与提效）](https://mp.weixin.qq.com/s/hPc4AN0MPrKrkoRqwhciAg)
++ [C++引用与指针进阶](https://mp.weixin.qq.com/s/Bcj173kwdK5tLST1Gq2c_g)
 
 #### 函数
 
@@ -379,6 +380,7 @@
 + [c++26新功能—inplace_vector](https://mp.weixin.qq.com/s/89mneVB43Om_8GwnNOHmPg)
 + [c++26新功能—带原因说明的删除函数](https://mp.weixin.qq.com/s/YrlipkwJQBsUiLcLYI0ipg)
 + [c++26新功能—线性代数库](https://mp.weixin.qq.com/s/xYJjjF-56VJaW2NSNT1Nqg)
++ [c++26新功能—copyable_function](https://mp.weixin.qq.com/s/cji3vUU_jGFj38AIIzbaqg)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [c++26新功能—可观测检查点](https://mp.weixin.qq.com/s/ARJ4_tXO8mMa9pXSfVfpRg)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
@@ -498,6 +500,7 @@
 + [微软C++四面终极拷问：手撕线程安全RingBuffer](https://mp.weixin.qq.com/s/5REPWmdKnvEb_PPeePB3hg)
 + [【C/C++】线程池基本功能的实现](https://mp.weixin.qq.com/s/uVV6KRef0Ebx2znP8xYMww)
 + [C++11实现一个读写自旋锁-1](https://mp.weixin.qq.com/s/WyiqCi1gppcbYR6aLgbo6Q)
++ [C++11实现一个读写自旋锁-2（内存序）](https://mp.weixin.qq.com/s/jChRulavwBFFf47fOlyGSA)
 
 #### 扩展
 
@@ -507,6 +510,7 @@
 + [智能硬件开发中的C++编程实践](https://mp.weixin.qq.com/s/fzb9_b7BEGVQLhGpVMWq-g)
 + [Linux下C++编程使用动态链接库](https://mp.weixin.qq.com/s/-tiS_o-907y6KFZLAO7Bag)
 + [编译器眼中的虚函数动态绑定](https://mp.weixin.qq.com/s/L3U7-IQSgxiW1jPbTmPDGA)
++ [谈C编程---八路脉冲信号边沿检测](https://mp.weixin.qq.com/s/Z0kCGkga3_DnwgnPrg7RtA)
 
 #### 三方库
 
@@ -647,6 +651,8 @@
 + [C语言inline关键字](https://mp.weixin.qq.com/s/sly-NzY9NOE7xV1_RsK83Q)
 + [谈C编程---自增自减运算符](https://mp.weixin.qq.com/s/E8W56Yof6z1XFzPE12KpnQ)
 + [C语言实用干货：const用法总结](https://mp.weixin.qq.com/s/EhMYB6pF1-Zhi5jCXiDaog)
++ [C 语言实现字符串转整数函数](https://mp.weixin.qq.com/s/V9SSHiSTga2HAh1NVBDBEA)
++ [谈C编程---三目运算符级联效率](https://mp.weixin.qq.com/s/tWfpurSYSdipY_yshYWxnw)
 
 ### 高阶
 
@@ -713,6 +719,7 @@
 + [C算法38：容器盛水问题](https://mp.weixin.qq.com/s/VmI-sV2K7AqodNLzHZSI2w)
 + [volatile用对了吗？嵌入式C中易被忽略的5个内存陷阱](https://mp.weixin.qq.com/s/fCvFTkUK3B-bxJbLRvz-WQ)
 + [C语言开发必备技能：多文件编程，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/TA1xXNQ4W0YKkWuLc48JiQ)
++ [C语言结构体指针：指针+结构体=王炸组合](https://mp.weixin.qq.com/s/cicjr-K8wxGfVStSGV3IIQ)
 
 #### 宏
 
@@ -920,6 +927,7 @@
 + [嵌入式开发也能玩多态？用C语言实现面向对象，开发效率翻倍](https://mp.weixin.qq.com/s/T-1LOyL5cnng6zYwqTYmtw)
 + [联合体的妙用：嵌入式工程师必知的5大内存优化绝招，节省50%内存开销！](https://mp.weixin.qq.com/s/4EJ78Uh9TDmwhGHYrhrFpQ)
 + [5分钟掌握C语言宏的"黑魔法"！`#`和`##`让你的代码效率翻倍](https://mp.weixin.qq.com/s/U9ilLFHxyCm9D4lB_FgWzw)
++ [嵌入式 C 语言避坑指南：sizeof 的 5 个致命陷阱，90% 的工程师都踩过雷！](https://mp.weixin.qq.com/s/_VryJXMSHuNmB23dZzpSfA)
 
 # ARM
 

@@ -4567,6 +4567,7 @@
 + [分享一个IP解析工具类](https://mp.weixin.qq.com/s/DpZfRbpUu-Fnrs6C901v8w)
 + [别再错过！Java 开发者必须掌握的 MQTT 协议对接秘籍，看完直呼过瘾](https://mp.weixin.qq.com/s/grtrhhMET7mGTpvcE4nQbw)
 + [Easy-cache：统一缓存解决方案，让开发人员告别重复的缓存代码](https://mp.weixin.qq.com/s/OENxcvRSGtkPtNzjWwK6KQ)
++ [Xcache：多级缓存框架介绍](https://my.oschina.net/xcafe/blog/18689544)
 
 # 其它环境
 
@@ -4794,3 +4795,4 @@
 + [Java进程与线程数据共享及区块链技术架构详解](https://mp.weixin.qq.com/s/SUnPzlHmUy-cK8zYKYHovg)
 + [第五章：HNSW 算法原理与核心实现](https://mp.weixin.qq.com/s/EXQGQpD9lP4Y2dZB2A1xtA)
 + [第六章：索引构建与搜索算法](https://mp.weixin.qq.com/s/xQC98ZByrzYR3YySYWbfRg)
++ [EXCEL 导入 — 设计与思考](https://my.oschina.net/u/4090830/blog/18688901)

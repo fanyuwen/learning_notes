@@ -114,6 +114,8 @@
 + [【Rust日报】Rust 中的生成式模式](https://mp.weixin.qq.com/s/NP6MIw5uL-gQeNGhzSaUGA)
 + [从238秒到25秒：优化Rust构建之旅](https://mp.weixin.qq.com/s/L3F8l3t5ltAAtWyLQghp9w)
 + [10 分钟搞懂 Rust 生命周期，从此不再害怕编译器](https://mp.weixin.qq.com/s/U5ch9PTeXcmoS8U2LAl6YA)
++ [Rust编程：10个让代码更安全更快速的核心模式](https://mp.weixin.qq.com/s/kUDW9OPIvxCo5_rNDgrGSw)
++ [掌握这 10 个 Rust 性能优化模式，让你的代码快如闪电](https://mp.weixin.qq.com/s/RNRN0nL1nUO4xIPQyiTcZQ)
 
 # 框架
 
@@ -192,3 +194,4 @@
 + [Rust 1.89震撼发布：你的Intel Mac被“踢出群聊”，编译器化身“朝阳大妈”专治各种不服！](https://mp.weixin.qq.com/s/xH2lwQDODh8mrP0PWEySdA?click_id=40)
 + [从 C++ 到 Rust：为什么 Google 正在推动这场技术变革](https://mp.weixin.qq.com/s/RC-YJeIzFBnhcGd1Plo6RA)
 + [为什么 Rust 这么火，但很多公司还是主用 Go 和 Java？](https://mp.weixin.qq.com/s/KSWhtQ14e_RFZ0iYD69PeQ)
++ [我最近迷上了 Rust，结果发现背后是未来](https://mp.weixin.qq.com/s/Vs542elz-svLthmL6ee8ng)

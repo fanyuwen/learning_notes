@@ -154,6 +154,7 @@
 + [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
 + [面试官：说说什么是泛型的类型擦除？](https://mp.weixin.qq.com/s/ysadhX8xX2CLGCdZ91RLxA)
 + [一文全面解读Java中的泛型](https://mp.weixin.qq.com/s/Jh1KzPsRy6tsj5ovxIEyRA)
++ [彻底掌握 Java 泛型：从入门到实践，这份代码宝典助你精通！](https://mp.weixin.qq.com/s/lSoBMJr3Q6Az2khShNLQKQ)
 + [121. Java 泛型 - 泛型类型](https://mp.weixin.qq.com/s/IqGhEGW60dIel-i6iL3FAg)
 + [122. Java 泛型 - 原始类型](https://mp.weixin.qq.com/s/lI4aR1vR9Cw0MDpNy-R1zA)
 + [123. Java 泛型 - 泛型方法](https://mp.weixin.qq.com/s/y5_r7i_C6qHWH53aGL-n6g)
@@ -386,6 +387,7 @@
 + [Java真的不难（四十七）设计模式的依赖倒置原则&单一职责原则及案例](https://mp.weixin.qq.com/s/ul6-0IAW3w_fMy9ZqbEXjA)
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
++ [别学23种了！Java项目中最常用的6个设计模式，附案例](https://mp.weixin.qq.com/s/801OPrV8Wv4D0R0i9v22AA)
 + [JAVA策略模式，这回真落地了](https://mp.weixin.qq.com/s/70MYdklbNJWparqsBsx4Pg)
 + [Java 状态机设计：替代 if-else 的优雅架构](https://mp.weixin.qq.com/s/vJS2pi6F6l0ymuzIVOcdMQ)
 + [Function + Java 策略模式构建易扩展开票架构](https://mp.weixin.qq.com/s/nkBF7h9Dacg3Elg6Gzponw)
@@ -489,6 +491,7 @@
 + [分享一些 Function<T,R> 使用经验总结！](https://mp.weixin.qq.com/s/CNdu1vcAbebERjwZ4any4Q)
 + [String的join的方法，你用过吗？](https://mp.weixin.qq.com/s/CybB8QkUi3k9hHbXwtBJ-w)
 + [分享 Java Function 的 10 个高阶用法！](https://mp.weixin.qq.com/s/I1NFZ8iEEhui1GmhpReNzw)
++ [168. Java Lambda 表达式 - 专用比较器](https://mp.weixin.qq.com/s/wnUQ5ZLMPDRFLVIAnIxmfw)
 
 ## 代码质量
 
@@ -582,6 +585,7 @@
 + [优化 if/else 的四种设计模式](https://mp.weixin.qq.com/s/fqL1KKeBqsaTwSzfSpIl9A)
 + [领导：谁再瞎用 String.valueOf，走人](https://mp.weixin.qq.com/s/AHcRuP3PR2C4YfEcpsjong)
 + [领导：集合删元素，谁再直接用remove，走人](https://mp.weixin.qq.com/s/l6rIycJ36DlvvAYb7qb7eA)
++ [丢人！被小小的String.valueOf(...)坑了](https://mp.weixin.qq.com/s/q56HXibo5CvS2TA5YpubZA)
 
 # 底层
 
@@ -754,6 +758,7 @@
 + [Java安全-Java反射及类加载](https://mp.weixin.qq.com/s/pRWElYNPhF1m4mH07Inz_g)
 + [一文拿捏 Java 反射：从基础到高阶实战](https://mp.weixin.qq.com/s/zs8XC7BZZG3w0_24BcLhWQ)
 + [Java反射18式：从入门到精通的避坑指南与实战技巧](https://mp.weixin.qq.com/s/8zeA-i7eN0qQED9mX_bl1A)
++ [Java反射机制解析：从原理到实战，一篇搞定！](https://mp.weixin.qq.com/s/DT_mYAiwOyv76obF6r9sjA)
 
 ### 并发/多线程
 
@@ -895,6 +900,8 @@
 + [大白话聊明白Thread、Runnable、FutureTask和Callable 之间的关系](https://mp.weixin.qq.com/s/junOzgOd0klMXJFfPM2yDQ)
 + [Java 内存屏障：原理、案例与图解，一篇讲透底层奥秘](https://mp.weixin.qq.com/s/PYqRiQtBqVBWd3I-Q59JPg)
 + [大厂一面：如何停止一个正在运行的线程？](https://mp.weixin.qq.com/s/B4bSSgLAmIGDBzz7GYDRXA)
++ [多线程写爽了，调试哭了！这些坑你踩过几个？](https://mp.weixin.qq.com/s/K2oPnOezCm72AOd2OGfejA)
++ [并发编程中的性能优化的理论和实践](https://mp.weixin.qq.com/s/wdsrMCkaVq3vNvOeGXqMbQ)
 
 #### CAS
 
@@ -967,6 +974,7 @@
 + [线程池的工作原理及其在业务中的实践](https://mp.weixin.qq.com/s/ct82CAwIVq94irvYcdmErQ)
 + [07-线程池之ForkJoinPool](https://mp.weixin.qq.com/s/pmFS43qB5VTgMfMWa_pbUg)
 + [一文看懂Java线程池原理](https://mp.weixin.qq.com/s/rWEaZosRdrYUAFBebhhbjQ)
++ [Java线程池真的那么难懂吗？看完这篇你就全明白了！](https://mp.weixin.qq.com/s/E8mQ7zdnXR3-MXrldey7yQ)
 
 #### 锁
 
@@ -1059,6 +1067,8 @@
 + [从源码到场景，彻底搞懂AQS：Java并发的"隐藏大佬"是怎么工作的？](https://mp.weixin.qq.com/s/wvhV8545odlboF1Nk4Y9DA)
 + [java锁lock和sync区别简述](https://mp.weixin.qq.com/s/vpHQVxSHWWKerIHl7H14eQ)
 + [浅谈并发编程中的死锁问题](https://mp.weixin.qq.com/s/w4CIFNHjvn3KAPe8XGt6tg)
++ [Java 面试官必问：synchronized 底层原理与 Lock 的核心区别](https://mp.weixin.qq.com/s/iv86_9mj5arfPQ0SLOZJCw)
++ [深入解析AQS：揭秘Java并发编程的基石](https://mp.weixin.qq.com/s/YkX85k7E38GKNiM7TTDAyA)
 
 #### volatile
 
@@ -1387,6 +1397,7 @@
 + [别让Stream毁了你！7个反模式代码示例（附修复方案）](https://mp.weixin.qq.com/s/zwwkCvNTf7A_HGNoKKUvQw)
 + [Java 8 Stream API 终极指南：从原理到实战，彻底告别冗长代码](https://mp.weixin.qq.com/s/HJxtnc9t2Z2_ESkbwgS6pQ)
 + [Java Stream流实战：分组、过滤、去重等常用操作详解](https://mp.weixin.qq.com/s/aMzxbBoVoXgsU5yfhhX68Q)
++ [Java Stream findFirst方法的空指针陷阱详解](https://mp.weixin.qq.com/s/GADk8E2xUhAqARlWtilTKg)
 
 ### Date/time
 
@@ -1460,6 +1471,7 @@
 + [TreeMap集合--底层原理、源码阅读及它在Java集合框架中扮演什么角色？](https://mp.weixin.qq.com/s/sHl-skrq5zIZihtcxfQE4g)
 + [Java面试实战系列【集合篇】- HashMap底层实现原理深度解析](https://mp.weixin.qq.com/s/vAYUIGQWjY4yitlQTCABCQ)
 + [hashMap 1.7和1.8区别](https://mp.weixin.qq.com/s/MAD4Grg_w-FL9I9-xrnyOg)
++ [面试官追问：HashMap 为啥线程不安全？3 个核心原因 + 代码实测，一次讲透](https://mp.weixin.qq.com/s/t0PGr6tIRIoMm1skoiIsCw)
 
 ### Optional
 
@@ -1813,6 +1825,7 @@
 + [动态代理：JDK Proxy、CGLIB、ByteBuddy‌、ASM、JavaAgent‌有什么关系](https://mp.weixin.qq.com/s/w3CMFKqDI3HrWK1srcmlhg)
 + [Java SPI实现开闭原则](https://mp.weixin.qq.com/s/LLTa017SC8zXFZjAFZy1oA)
 + [面试官必问：CGLIB 动态代理原理，从底层逻辑到面试应答全梳理](https://mp.weixin.qq.com/s/IMoH83vPENgjfaW2Wf_j_A)
++ [一文吃透 Java JDK 动态代理：从原理到实战案例](https://mp.weixin.qq.com/s/qvRPlAsS_G4iYPhmyZBo4g)
 
 # 包管理工具
 
@@ -1877,6 +1890,7 @@
 + [Apache Commons 4 ConcurrencyUtils：Java 并发编程的 "瑞士军刀"，让多线程开发更丝滑](https://mp.weixin.qq.com/s/tLzAtCOgANF3iz1fedku9A)
 + [Apache Commons ListUtils：让 List 操作效率翻倍的 Java 工具类](https://mp.weixin.qq.com/s/qA0YUE6hm9t13ig0AgJCcg)
 + [Apache Commons NumberUtils：让数字处理代码减少 60% 的工具类​](https://mp.weixin.qq.com/s/bKIus9Hgo5W45S7m9XQe_Q)
++ [IteratorUtils：解锁Java迭代器操作的神兵利器，告别繁琐循环！](https://mp.weixin.qq.com/s/uORpJYXm8XGlQJOZF_6N8Q)
 
 ## apollo
 
@@ -1916,6 +1930,7 @@
 + [Caffeine缓存王者归来：本地缓存性能提升300%的秘密，架构师必备的调优利器！](https://mp.weixin.qq.com/s/Aw6udavUNViaNbczDBOJWA)
 + [响应式编程实践-用Caffeine构建响应式缓存](https://mp.weixin.qq.com/s/bv5JxHQxnALFXc25R0cD0Q)
 + [本地缓存 Caffeine 中的时间轮（TimeWheel）是什么？](https://my.oschina.net/u/4090830/blog/18687079)
++ [一篇吃透最强本地缓存 Caffeine！含过期策略、多级缓存方案，拿来就用](https://mp.weixin.qq.com/s/YoJ_C-DuPcbE_mQfHxCg_A)
 
 ## consul
 
@@ -3915,6 +3930,7 @@
 + [Spring Boot 异步执行：确保后续任务顺序执行](https://mp.weixin.qq.com/s/buJOHEQtZJ1P41hhO5MzEQ)
 + [告别超卖！Spring Boot + 悲观锁：1行代码解决并发难题](https://mp.weixin.qq.com/s/eOumsh4gLBT_zs3Qnvdk-A)
 + [SpringBoot中的4种重试机制实现方案](https://mp.weixin.qq.com/s/IS9PeInuM0Ah5-EpCZ4BWg)
++ [别踩坑！Spring Boot 多线程事务处理最佳实践全解析](https://mp.weixin.qq.com/s/qbaB8v6HUp9lpEwSL6wowA)
 
 ##### Disruptor
 
@@ -4027,6 +4043,7 @@
 + [Springboot 轻量级日志采集与可视化查询实战方案](https://mp.weixin.qq.com/s/ck5pXDUbvWxn6y-FFqb_Kw)
 + [Spring Boot 日志处理实战：从混乱到清晰的蜕变](https://mp.weixin.qq.com/s/ZoOKX28Wr2_fq7Lv_IlYJA)
 + [SpringBoot日志按照日期和日志级别输出文件](https://mp.weixin.qq.com/s/7cY8Kd9QpKBnmWbajcov4A)
++ [一文吃透！Spring Boot 项目请求日志记录，这几招你绝对不能错过！](https://mp.weixin.qq.com/s/tDZsrlb2hnJ-7NltXapkXw)
 
 #### 安全
 
@@ -4319,6 +4336,8 @@
 + [SpringBoot+RedisBitMap实现签到与统计功能](https://mp.weixin.qq.com/s/Ce__5w-xGK0hQt77hn--yA)
 + [干货：SpringBoot集成MapStructPlus，使用注解快速转换对象](https://mp.weixin.qq.com/s/5mfeOz8ObYpFDZH7lanMIw)
 + [如何基于 SpringBoot 快速构建 Apache Pulsar 实时应用](https://my.oschina.net/apachepulsar/blog/18689863)
++ [JAVA：Spring Boot 集成 Temporal 实现订单处理系统](https://mp.weixin.qq.com/s/Mv8XfjekftiFyAqnTrwVEg)
++ [Spring Boot升级Redisson：分布式锁、异步流与集群架构的终极方案](https://mp.weixin.qq.com/s/g8R5mGY3UwZro4zLmGLQCw)
 
 #### test
 
@@ -4486,6 +4505,7 @@
 + [用 Arthas 定位 Spring Boot 接口的超时问题，让应用起飞～](https://mp.weixin.qq.com/s/i7J4PHxsgI9WuCyLd_lm4Q)
 + [读懂HikariCP一百行代码，多线程就是个孙子！](https://mp.weixin.qq.com/s/4SAqAhPSLI6qkg-SkEuphg)
 + [百万级任务重试框架 Fast-Retry](https://mp.weixin.qq.com/s/aU2j3jAA2Eo8x3LGTN0PhA)
++ [百万级任务重试框架 Fast-Retry, 太香了！](https://mp.weixin.qq.com/s/vCOalIbb1rqAIonl9kx31A)
 + [分布式链路追踪：TraceIdFilter + MDC + Skywalking](https://mp.weixin.qq.com/s/WAztnbiZLwcez7trPWyyWA)
 + [定时任务的五种创建方式！你知道几种？](https://mp.weixin.qq.com/s/h8U13CjycvI_1ZYrSVHKOQ)
 + [ShardingSphere5.2.0按月分表，自动建表](https://mp.weixin.qq.com/s/lB-c7CDLyde5amQ5K6ILew)

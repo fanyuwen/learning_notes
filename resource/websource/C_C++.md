@@ -9,6 +9,8 @@
 + [字节跳动C++二面：手写shared_ptr实现](https://mp.weixin.qq.com/s/QIYuJQU-6cJC8kjk0pn5ew)
 + [C/C++实战：KVStore存储项目](https://mp.weixin.qq.com/s/oV17aPhe88IjoI7xEHX06g)
 + [Q格式的10倍性能秘籍：90%工程师不知道的宏操作与饱和处理](https://mp.weixin.qq.com/s/mft-uY0mFSegGZN0d1JVQw)
++ [静态链接解析：为什么“打包”后可执行程序会变大？](https://mp.weixin.qq.com/s/JGq9crGS6XERQ6PgbHe4FA)
++ [只有少数人懂的C/C++启动流程：从execve到main全链路解密](https://mp.weixin.qq.com/s/ko1e4qT54ZoTvBtSZjlbfw)
 
 ## 工具
 
@@ -32,6 +34,7 @@
 + [提升 C++ 代码质量的利器：静态分析工具和实操技巧全指南](https://mp.weixin.qq.com/s/hClgQbHzswl1gC1X-KfsHg)
 + [初探 Makefile](https://mp.weixin.qq.com/s/vCNn7HUpQfIHv69v3W13Ng)
 + [gcc 与 g++：有什么区别？](https://mp.weixin.qq.com/s/KZxDeG_iqbTje6DE2n7gGA)
++ [5个C语言内存检测神器，让段错误彻底消失！](https://mp.weixin.qq.com/s/VwCVBoBFM4Z2t2sKOetqQA)
 
 ### cmake
 
@@ -47,6 +50,8 @@
 + [C++项目构建之二 初识cmake](https://mp.weixin.qq.com/s/FOn7Cnti0yqYbDEh-O8S_A)
 + [C++项目构建之四 cmake中的宏](https://mp.weixin.qq.com/s/TFyPiytJ8cB9nNIpP6s_gA)
 + [CMake依赖太乱？用这个神器轻松搞定可视化！](https://mp.weixin.qq.com/s/AjUCIVcC34a1IikJgGzYgw)
++ [Cmake知识-如何编译C/C++程序](https://mp.weixin.qq.com/s/0T5_Nj9JUeNihFkhNVoGZQ)
++ [C++小寄巧-9：link_libraries一定要能link!](https://mp.weixin.qq.com/s/npqG1DCB-ThdKXUTVe3wlg)
 
 ### 第三方技术
 
@@ -263,6 +268,8 @@
 + [C++杂记：头文件组织与依赖管理](https://mp.weixin.qq.com/s/ih_ISy-TL2cJ8MDRpAdkZg)
 + [从零开始：用 C++ 构建数组、向量与矩阵](https://mp.weixin.qq.com/s/yS3b2Pu1IzFfSqfBy_d7yg)
 + [跟我学C++中级篇——头文件控制预处理器指令](https://mp.weixin.qq.com/s/n49SdK6fsMVRSpM5UnqAlQ)
++ [C++中深复制和浅复制](https://mp.weixin.qq.com/s/BJIwZ-vtIDMo7Y_PmznGcA)
++ [C+++之Event事件系统](https://mp.weixin.qq.com/s/VdgRES7mzepyYq2OD5qnjA)
 
 #### 指针
 
@@ -291,6 +298,7 @@
 
 #### 数据结构&算法
 
++ [C++数据结构与算法（一）](https://mp.weixin.qq.com/s/Ba58IOUVKzl3oZeO96tVrg)
 + [C++进阶学习09——排序算法（快速排序）](https://mp.weixin.qq.com/s/Zo4IERHHvkxZG-lrPVv5MQ)
 + [C++进阶学习01——栈](https://mp.weixin.qq.com/s/-bNhQfaHr0tmTXTqytGmAw)
 + [C++进阶学习11——排序算法（桶排序）](https://mp.weixin.qq.com/s/kxXuwXlSCBKQ5ZKH_vcwoQ)
@@ -311,6 +319,7 @@
 + [C++信奥之径，锻炼思维，扎实算法——贪心算法（2）](https://mp.weixin.qq.com/s/TwDWRAp9g8k_gmU2gtYTQA)
 + [贪心算法 | C++算法集](https://mp.weixin.qq.com/s/zzrx8zIl6BDSVAw8PzIOgg)
 + [宝鉴001: C++ 双向链表翻转](https://mp.weixin.qq.com/s/qoSz21oJPijH8pRV7d_4FQ)
++ [【C/C++】B+树基本功能的实现](https://mp.weixin.qq.com/s/bOzP29yNRVlQXSjf2WYgIw)
 
 #### 库
 
@@ -347,6 +356,7 @@
 + [（一）STL C++ 容器详解之vector](https://mp.weixin.qq.com/s/3yZTyga18Dt8JAtAmsEwFw)
 + [你还在用指针传参返回多个值？我们一起来学习这个C++利器吧](https://mp.weixin.qq.com/s/Mrw1WVlMOVxsuqdN-ydEPQ)
 + [STL 算法：用一行代码替代繁琐的 for 循环](https://mp.weixin.qq.com/s/GvKVs99poHDEkZ-Zi5rogQ)
++ [深度剖析 C++ vector 的扩容机制：为什么总要“大动干戈”？](https://mp.weixin.qq.com/s/uOMXAYsQ2rUGTJ0J80x-Rg)
 
 #### 新特性
 
@@ -435,6 +445,9 @@
 + [C++类和对象的底层哲学](https://mp.weixin.qq.com/s/RlqrapbZFcI5idX5B1ix3Q?click_id=55)
 + [构造函数前面的explicit是什么意思？](https://mp.weixin.qq.com/s/4Hq9a07YLd0gIVpx7p6mDw)
 + [C++析构函数与线程退出之2](https://mp.weixin.qq.com/s/wAEkNOg3x4mOl_hBIeqKgg)
++ [C++第18课：友元函数与友元类](https://mp.weixin.qq.com/s/hfnxK1x-BNpRWnRxM0joBw)
++ [c++多态详解（下）](https://mp.weixin.qq.com/s/ouX72Rtm1KcLh7uIjqI_iQ)
++ [C++中菱形继承问题](https://mp.weixin.qq.com/s/x3vzuVZMQ5H1jbRDBN_gHg)
 
 ##### 泛型
 
@@ -511,6 +524,7 @@
 + [Linux下C++编程使用动态链接库](https://mp.weixin.qq.com/s/-tiS_o-907y6KFZLAO7Bag)
 + [编译器眼中的虚函数动态绑定](https://mp.weixin.qq.com/s/L3U7-IQSgxiW1jPbTmPDGA)
 + [谈C编程---八路脉冲信号边沿检测](https://mp.weixin.qq.com/s/Z0kCGkga3_DnwgnPrg7RtA)
++ [纯手工打造C++ JSON序列化神器：告别手动解析，拥抱自动化转换](https://mp.weixin.qq.com/s/h4YzZqUaIFw4MZbRfJ-n_g)
 
 #### 三方库
 
@@ -653,6 +667,8 @@
 + [C语言实用干货：const用法总结](https://mp.weixin.qq.com/s/EhMYB6pF1-Zhi5jCXiDaog)
 + [C 语言实现字符串转整数函数](https://mp.weixin.qq.com/s/V9SSHiSTga2HAh1NVBDBEA)
 + [谈C编程---三目运算符级联效率](https://mp.weixin.qq.com/s/tWfpurSYSdipY_yshYWxnw)
++ [C语言结构体](https://mp.weixin.qq.com/s/oVhnkBjBPWkmrjho4S6tKg)
++ [谈C编程---巧妙运用return的经典代码](https://mp.weixin.qq.com/s/NNDYYLyjhoQm85Mx1Ij30Q)
 
 ### 高阶
 
@@ -720,6 +736,8 @@
 + [volatile用对了吗？嵌入式C中易被忽略的5个内存陷阱](https://mp.weixin.qq.com/s/fCvFTkUK3B-bxJbLRvz-WQ)
 + [C语言开发必备技能：多文件编程，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/TA1xXNQ4W0YKkWuLc48JiQ)
 + [C语言结构体指针：指针+结构体=王炸组合](https://mp.weixin.qq.com/s/cicjr-K8wxGfVStSGV3IIQ)
++ [C语言位操作技巧：99%人不知道的黑科技，让代码效率飞起来！](https://mp.weixin.qq.com/s/6DkUtTFBqjde4To8_C-USg)
++ [scanf函数的底层原理，想说输入不容易！](https://mp.weixin.qq.com/s/Jslc3vexMBqdWF3y72yDvw)
 
 #### 宏
 
@@ -783,6 +801,9 @@
 + [函数指针：C语言的动态灵魂，嵌入式的超能力](https://mp.weixin.qq.com/s/9wnJ0cnTTTQX6Y3Uz81-YQ)
 + [C语言实用干货：为什么需要二级指针？](https://mp.weixin.qq.com/s/qTjlz4PRSKa1fMj2otLOgA)
 + [C语言实用干货：void指针详解](https://mp.weixin.qq.com/s/SIWFclBD1mVk3xbfErQgEA)
++ [谈C编程---新名词，悬垂指针](https://mp.weixin.qq.com/s/gHVfvunqB-BK1SfMWdJs7w)
++ [C语言的函数指针与回调函数](https://mp.weixin.qq.com/s/BLlSKzBrDJz5Gpbl2dTMUg)
++ [void指针≠空指针！这篇彻底搞懂它们的区别与联系](https://mp.weixin.qq.com/s/U8XHHJzlT6Qg0OyYQPSPEg)
 
 #### 函数
 
@@ -812,6 +833,8 @@
 + [「玩转C语言系列」十几行写第1个跨平台C语言图形化界面，原来如此简单啊！](https://mp.weixin.qq.com/s/HciIUc3uTn4jgVc0xSxSkA)
 + [一文弄懂链表（C语言实现）](https://mp.weixin.qq.com/s/cfeEXPZwORGJW90H8aWfWQ)
 + [C语言中5个不常使用但有趣的特性](https://mp.weixin.qq.com/s/eGVqMGkt9oFrK7GWFQn_pw)
++ [C语言实现归并排序详解](https://mp.weixin.qq.com/s/gY9R0Cl4AoRke4GdSIVNSA)
++ [实用的嵌入式C功能代码片段，开发更高效~](https://mp.weixin.qq.com/s/1K8CR85cyDqVb37tNlGqMw)
 
 ### 前景
 
@@ -928,6 +951,8 @@
 + [联合体的妙用：嵌入式工程师必知的5大内存优化绝招，节省50%内存开销！](https://mp.weixin.qq.com/s/4EJ78Uh9TDmwhGHYrhrFpQ)
 + [5分钟掌握C语言宏的"黑魔法"！`#`和`##`让你的代码效率翻倍](https://mp.weixin.qq.com/s/U9ilLFHxyCm9D4lB_FgWzw)
 + [嵌入式 C 语言避坑指南：sizeof 的 5 个致命陷阱，90% 的工程师都踩过雷！](https://mp.weixin.qq.com/s/_VryJXMSHuNmB23dZzpSfA)
++ [嵌入式软件开发中的通用接口技术：设计、实现与实践](https://mp.weixin.qq.com/s/OOz519LzOX9b0eXlfmh7sQ)
++ [线程编程详解：从基础到嵌入式实践](https://mp.weixin.qq.com/s/EQTBxzTvD_gxxzKSu8b73Q)
 
 # ARM
 

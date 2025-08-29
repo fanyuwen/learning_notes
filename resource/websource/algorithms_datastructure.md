@@ -163,6 +163,7 @@
 + [四叉树如何实现？](https://mp.weixin.qq.com/s/E5rFprrlGjgPuVjdgiF1Pw)
 + [剑指offer-23、搜索⼆叉树的后序遍历序列](https://mp.weixin.qq.com/s/E3vkGVV4bk8Un5JY_TxWbw)
 + [图解数据结构：二叉树详解](https://mp.weixin.qq.com/s/d2HWVVcdmm4PnwHaTxzkiQ)
++ [图解最小生成树算法：5分钟掌握Prim算法](https://mp.weixin.qq.com/s/_GRIBA7kxYPRMxYc_-iYFQ)
 
 ## 排序算法
 

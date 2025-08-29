@@ -10,6 +10,7 @@
 + [Go 1.23 新特性解读：unique 包及其应用](https://mp.weixin.qq.com/s/oh6ZWbUEXrEsZgtv1xKw6Q)
 + [Go1.25 新特性：引入 DWARF5，链接器更快，二进制文件更小了！](https://mp.weixin.qq.com/s/3ggj1yUhybtEnaID-tPARA)
 + [Go 1.9 相比 Go 1.8 有哪些值得注意的改动？](https://mp.weixin.qq.com/s/RkUNsmUJQ4hBpqdsWtbNow)
++ [Go 1.25 新特性！新一代 GC 来了，内存占用暴降 40%？](https://mp.weixin.qq.com/s/oojmGcMpswjY1ecbcTCalA)
 
 # 话题
 
@@ -42,6 +43,7 @@
 + [（17）Go 项目开发入门（十五）：Zap 使用](https://mp.weixin.qq.com/s/0_fLtbmSVMitf0KyVMjS_g)
 + [密码学史上最持久的"猫鼠游戏"：单表替换密码的兴亡（Go语言实现）](https://mp.weixin.qq.com/s/LGoRsE5iM9FTkZhA52t69Q)
 + [为何Go语言迟迟未能拥抱io_uring？揭秘集成的三大核心困境](https://mp.weixin.qq.com/s/naDyE51tlkmXy58o1uKVFg)
++ [我是如何让我的 Go 程序快到惊人：连资深开发者都常忽视的性能技巧](https://mp.weixin.qq.com/s/u-xNvBJB8vMJlD7u32LJvA)
 
 # 库
 
@@ -178,6 +180,10 @@
 + [让你的服务稳如高铁：Go 语言十大高可扩展设计模式](https://mp.weixin.qq.com/s/c1ePX6Hx6LGKvyRjW6jDmQ)
 + [Go语言零拷贝技术完全指南](https://mp.weixin.qq.com/s/T5WRWwNvtIzdQ0Hdn1wK6w)
 + [可扩展系统设计的黄金法则与 Go 语言实践｜得物技术](https://my.oschina.net/u/5783135/blog/18689869)
++ [7. 函数进阶](https://mp.weixin.qq.com/s/zPdLOIpWYzs2zadS80eHDw)
++ [一篇文章带你读懂goroutine的GPM模型](https://mp.weixin.qq.com/s/_8KfA8yPWKvOgLvUDLVQAw)
++ [最容易让你掉坑的 Golang 面试题：数据竞争（Data Race）](https://mp.weixin.qq.com/s/dj71WYJhhUignKpZ-6yV_Q)
++ [Go循环全攻略：从基础到高级技巧](https://mp.weixin.qq.com/s/ZymJg3jzMoq2X2mJRVXZFw)
 
 # 面试题
 

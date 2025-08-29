@@ -177,6 +177,7 @@
 + [面试官：聊聊sync.Map？ 你：(内心暗喜) 从读写分离到性能陷阱，我能讲半小时！](https://mp.weixin.qq.com/s/t0YKidm5Xi9LNmrCWdjuDg)
 + [让你的服务稳如高铁：Go 语言十大高可扩展设计模式](https://mp.weixin.qq.com/s/c1ePX6Hx6LGKvyRjW6jDmQ)
 + [Go语言零拷贝技术完全指南](https://mp.weixin.qq.com/s/T5WRWwNvtIzdQ0Hdn1wK6w)
++ [可扩展系统设计的黄金法则与 Go 语言实践｜得物技术](https://my.oschina.net/u/5783135/blog/18689869)
 
 # 面试题
 

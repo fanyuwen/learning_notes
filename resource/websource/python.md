@@ -197,8 +197,10 @@
 + [从入门到精通：彻底搞懂 Python 的深拷贝和浅拷贝](https://mp.weixin.qq.com/s/Wy6yode2Wsjig3QRMSTkSw)
 + [Python OOP 中最常见的 20 种魔术方法](https://mp.weixin.qq.com/s/cFqkbqsGDc8M6rk7UWgebg)
 + [收藏！python初学者必会,Python面向对象编程的核心](https://mp.weixin.qq.com/s/gj6NhOF_tjfiLuIuOwKDJQ)
++ [python装饰器超详细讲解，用尽毕生所学给你解释清楚！](https://mp.weixin.qq.com/s/YgNN9F0kAwH5tK40dEJyaw)
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
 + [Python单体类编写技巧与类装饰器应用](https://mp.weixin.qq.com/s/0pYsBdXdUv_ljARXdzPDoQ)
++ [Python 装饰器超详细讲解：从“看不懂”到“会使用”，一篇吃透](https://mp.weixin.qq.com/s/MZf0U9tYnBYfWFbhf-eF4w)
 + [最牛逼的Python继承：让你的代码更强大、更简洁](https://mp.weixin.qq.com/s/vs_Q4_pU7SxxPaIaYnUClQ)
 + [python面向对象之：对象的创建过程](https://mp.weixin.qq.com/s/3Si1QeVx2shlcJSNomij3g)
 + [Python类的十八般武艺：中级篇](https://mp.weixin.qq.com/s/ohh8Q8V4Ar1jzkcjpZuY7Q)
@@ -333,6 +335,7 @@
 + [苦练Python第32天：Python百宝箱，collections模块5大杀器](https://mp.weixin.qq.com/s/0_Un9GZ5f-QUM8ZBzC7a3w)
 + [Python内置模块：filecmp文件与目录比较编程笔记](https://mp.weixin.qq.com/s/eoLWEVz8l1-JckTZH_zVWQ)
 + [Python输入输出函数完全指南：从基础到实战的开发必备技能](https://mp.weixin.qq.com/s/Goc474bKtiTKX59b2rkgFg)
++ [Python 中的 @dataclass：简化类定义的利器](https://mp.weixin.qq.com/s/Ea3ef-rsmjLLxruxubYnDA)
 + [Python内置模块：collections --- 容器数据类型原理与使用详解](https://mp.weixin.qq.com/s/xEbsp8XFflSuoDBM36SQ5w)
 + [Python内置模块：shutil使用详解](https://mp.weixin.qq.com/s/u9XcftjbtceoWWoE1spR6w)
 + [Python内置模块：array使用详解](https://mp.weixin.qq.com/s/4PjP5VGZ5Ro1p5EKdHUhxQ)
@@ -398,6 +401,7 @@
 ## 实践
 
 + [现代 Python 编程：提升你的代码到新高度](https://mp.weixin.qq.com/s/dFm_cPqdADJWZZ-9dOZtOw)
++ [Python 程序员必修课：为什么说 *args 和 **kwargs 是“万能接口”？](https://mp.weixin.qq.com/s/EgBo6BYwLfQi78cT0qEruA)
 + [Python 开发中常见的高效写法](https://mp.weixin.qq.com/s/gX14IB5cLedP-v0Y5aCdqg)
 + [写了十年 Python，我竟然现在才知道这5个功能！](https://mp.weixin.qq.com/s/lc6a68rj5_Bn3BmhKOAUgQ)
 + [一文教会你如何学习Python语言?](https://mp.weixin.qq.com/s/d00JDBfmtpRbuBsHkjpuRg)

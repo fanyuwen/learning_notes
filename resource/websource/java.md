@@ -4318,6 +4318,7 @@
 + [SpringBoot+Redis BitMap 实现签到与统计功能](https://mp.weixin.qq.com/s/tIaEpkylJIjuMy3t4k760g)
 + [SpringBoot+RedisBitMap实现签到与统计功能](https://mp.weixin.qq.com/s/Ce__5w-xGK0hQt77hn--yA)
 + [干货：SpringBoot集成MapStructPlus，使用注解快速转换对象](https://mp.weixin.qq.com/s/5mfeOz8ObYpFDZH7lanMIw)
++ [如何基于 SpringBoot 快速构建 Apache Pulsar 实时应用](https://my.oschina.net/apachepulsar/blog/18689863)
 
 #### test
 

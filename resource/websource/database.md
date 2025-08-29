@@ -920,6 +920,9 @@
 + [不靠Redis也能抗住高并发？一文看懂秒杀核心](https://mp.weixin.qq.com/s/GQyQ9rQ_l-luVPkDFy0ZIg)
 + [Redis 是单线程模型？｜得物技术](https://mp.weixin.qq.com/s/Fqn-797GpsSKdVztzthSOg)
 + [Redis进阶（四）Redis的旁路缓存策略](https://mp.weixin.qq.com/s/JVGNsqRhJ06XgLTb36Ru-g)
++ [系统不崩的秘密：Redis的6大非缓存玩法，撑住10万QPS就靠它！](https://mp.weixin.qq.com/s/waZ4Celex4418x_m8RT8iA)
++ [Redis持久化深度解析：RDB与AOF如何保障你的数据安全？](https://mp.weixin.qq.com/s/OP1ZX8zMw-RMoI6V6Z2PSA)
++ [Redis支持事务吗？了解Redis的持久化机制吗？](https://mp.weixin.qq.com/s/soe8v02VevWY2Z4PjrtsYw)
 
 #### 原理
 
@@ -965,6 +968,7 @@
 + [Redis底层结构(二)-String对应数据结构SDS](https://mp.weixin.qq.com/s/HINBiFi4_QqsAbDhMi_jrw)
 + [Redis底层结构(六)-Zset对应数据结构(listpack、skiplist)](https://mp.weixin.qq.com/s/q7yZIOg_KgIM_-zVpDekqA)
 + [单线程的Redis为啥这么快？](https://mp.weixin.qq.com/s/iR2K3bm46EfyQRnLOjXabw)
++ [Redis发布订阅深度剖析：redis如何实现发布订阅功能？](https://mp.weixin.qq.com/s/W8mlTTaNHs5Gcs9Xug350Q)
 
 #### 分布式锁
 
@@ -992,6 +996,7 @@
 + [Redis分布式锁的底层实现机制](https://mp.weixin.qq.com/s/8cOy8iFq1gE1lEef5j5-TA)
 + [浅入浅出分布式锁（Redis）的所有细节](https://mp.weixin.qq.com/s/fluxu3rsu4cy4mbzk41QfA)
 + [深入剖析Redis分布式锁：原理、场景与最佳实践](https://mp.weixin.qq.com/s/pUi2qFhlRI5s_DN-Xp4cUw)
++ [无需Redis分布式锁，8种方案搞定用户重复提交](https://mp.weixin.qq.com/s/aU8KVF5ALS6JexezLDc16A)
 
 #### 缓存
 

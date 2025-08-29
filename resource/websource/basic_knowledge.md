@@ -383,6 +383,8 @@
 + [CPU那些事儿-CPU benchmarks（上）](https://mp.weixin.qq.com/s/FmOaZ2vXl_ZBVXy68Qg-kw)
 + [CPU那些事儿-CPU benchmarks（下）](https://mp.weixin.qq.com/s/yAKGaQ_3CWBK0jhskRqlmA)
 + [CPU中断的工作原理](https://mp.weixin.qq.com/s/eZ7yvZ-T-2WurDCCNHHqSA)
++ [深度解析：CPU如何区分指令与数据？寄存器扮演什么关键角色？](https://mp.weixin.qq.com/s/Xe-xgygoypRJIDB20ccBgg)
++ [从二进制存储到CPU寻址](https://mp.weixin.qq.com/s/OoTJ9evDCbvrSFVDxF_DkQ)
 
 ### 并发
 

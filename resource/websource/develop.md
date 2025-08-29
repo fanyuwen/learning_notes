@@ -143,6 +143,7 @@
 + [第9章：架构思维与设计能力（下）：领域驱动设计（DDD）与复杂系统治理](https://mp.weixin.qq.com/s/yQqGJzpuPEf1RIMxGTJ8Zg)
 + [DDD领域驱动设计核心原理](https://mp.weixin.qq.com/s/_MwcfEr_rOJ5XqPWvuylAA)
 + [深度剖析DDD核心基石：构建稳健业务系统的组件库实践](https://mp.weixin.qq.com/s/d7aYY0fMaDeiw5jGBfuefw)
++ [想给面试官吹DDD吗？项目像搭积木一样运行：领域驱动设计（DDD）让复杂业务变简单](https://mp.weixin.qq.com/s/JCRvoLZ2hM6NCG0o6j8Inw)
 
 ## 微服务
 

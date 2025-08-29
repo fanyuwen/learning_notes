@@ -902,6 +902,7 @@
 + [大厂一面：如何停止一个正在运行的线程？](https://mp.weixin.qq.com/s/B4bSSgLAmIGDBzz7GYDRXA)
 + [多线程写爽了，调试哭了！这些坑你踩过几个？](https://mp.weixin.qq.com/s/K2oPnOezCm72AOd2OGfejA)
 + [并发编程中的性能优化的理论和实践](https://mp.weixin.qq.com/s/wdsrMCkaVq3vNvOeGXqMbQ)
++ [Java线程死亡螺旋：解析与预防策略](https://mp.weixin.qq.com/s/MlBUQd2R7Vlt2j8u16MtdQ)
 
 #### CAS
 
@@ -1170,6 +1171,7 @@
 + [class文件结构解析](https://mp.weixin.qq.com/s/l59TZCwGvh-jtmfTmqhFiA)
 + [惊！掌握这些 JVM 参数调优技巧，小红书面试稳了](https://mp.weixin.qq.com/s/1nF-Ix8I8jLranX62x9BjA)
 + [JVM 本地内存跟踪（Native Memory Tracking in JVM）](https://mp.weixin.qq.com/s/01ikS_jl0pmMOraVXLnHDA)
++ [深入理解JVM字节码：invokedynamic](https://mp.weixin.qq.com/s/KkvFjDPkjIvDyKvSLGb6TA)
 
 ### 命令
 
@@ -1241,6 +1243,7 @@
 + [JVM内存模型+垃圾回收，你的Java程序为啥总卡顿？深度解析来了！](https://mp.weixin.qq.com/s/P6ov7mr4HeeQGmQsJ3P0OA)
 + [Java 基本功之内存诊断](https://mp.weixin.qq.com/s/7tiizzF3LV4rp82oG2MC4g)
 + [Java 内存模型（JMM）原理剖析：从底层看懂线程安全](https://mp.weixin.qq.com/s/FaEA8aOm1UGEOsSntHhjRg)
++ [总结Java中常见的OutOfMemory](https://mp.weixin.qq.com/s/O4qUABF2JheundtkDbhgTA)
 
 ### 类加载
 
@@ -1433,6 +1436,7 @@
 + [Java面试实战系列【集合篇】-ArrayList源码深度解析](https://mp.weixin.qq.com/s/urNd2DIcUU-tCYHzwMhxVg)
 + [ArrayDeque双端队列--底层原理可视化](https://mp.weixin.qq.com/s/jKt7IidUNDh8N0INrqsV3A)
 + [吃透Java集合框架，这篇就够了](https://mp.weixin.qq.com/s/Zd-mpz-6_UdsLVhvsVp85A)
++ [Java 集合--快速掌握涵盖三大场景实现的Set集合底层原理](https://mp.weixin.qq.com/s/lUWM-NBvg-xne4GdbyaysA)
 
 #### map
 
@@ -1472,6 +1476,7 @@
 + [Java面试实战系列【集合篇】- HashMap底层实现原理深度解析](https://mp.weixin.qq.com/s/vAYUIGQWjY4yitlQTCABCQ)
 + [hashMap 1.7和1.8区别](https://mp.weixin.qq.com/s/MAD4Grg_w-FL9I9-xrnyOg)
 + [面试官追问：HashMap 为啥线程不安全？3 个核心原因 + 代码实测，一次讲透](https://mp.weixin.qq.com/s/t0PGr6tIRIoMm1skoiIsCw)
++ [面试官老问 HashMap？看完这篇，你能把他说懵！从入门到源码的八卦](https://mp.weixin.qq.com/s/Rykjdq0ZEWYLRRSBG58T8A)
 
 ### Optional
 
@@ -1750,6 +1755,7 @@
 + [Java并发实战：CountDownLatch的5种典型场景，告别线程阻塞噩梦！](https://mp.weixin.qq.com/s/zIY5Y5QkLjGr7JxJAafsZA)
 + [深入解析AtomicInteger：CAS机制、乐观锁与ABA问题](https://mp.weixin.qq.com/s/bod0JdLbHbnTEl8caj-orA)
 + [信号量Semaphore：多线程编程中的红绿灯，你真的会用吗？](https://mp.weixin.qq.com/s/pl-5r77Kwi7K0U1twMsK7w)
++ [解密CountDownLatch：从源码剖析这个神奇同步工具的奥秘](https://mp.weixin.qq.com/s/r_SJmYYe2e2nDzXv8uQu4Q)
 
 ## IO/NIO
 
@@ -2156,6 +2162,7 @@
 + [MyBatis：不要拿数字和字符串比较，有坑](https://mp.weixin.qq.com/s/4hHtvURQUWBxC5llWaGR7A)
 + [MyBatis流式查询详解](https://mp.weixin.qq.com/s/VGTTYj54-fO35jbfAh7IIQ)
 + [MyBatis 注解开发：从零到精通全指南](https://mp.weixin.qq.com/s/tBA6IcWe1rHkDKUVw2Vjpg)
++ [JAVA：MyBatis 核心组件详解的技术指南](https://mp.weixin.qq.com/s/vaoqUPNwT4IN4ekJ5-9qWg)
 
 ### plus
 
@@ -4624,8 +4631,12 @@
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [给Javaer看的大模型开发指南｜得物技术](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
++ [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
++ [JAVA：一致性哈希（Consistent Hashing）算法的技术指南](https://mp.weixin.qq.com/s/1hpDaPGRolbL5GDVjdpVQw)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
++ [了解编程语言的编译器：从 CPU 指令到云原生，一次搞懂编译、字节码、JIT/AOT。你不会连自己写的代码怎么跑的都不知道吧？](https://mp.weixin.qq.com/s/3tJBCsSaq0i7Vzzawn_zHA)
++ [Java百万级数据导出实战：从内存爆炸到流畅下载优化方案](https://mp.weixin.qq.com/s/OKelyMaZwjgbmai6QviTew)
 + [从跨语言角度看模式匹配（Java、Kotlin、Python）](https://mp.weixin.qq.com/s/LzvzoPsLpkfnLYKqBsOPkQ)
 + [深入浅出AST：如何用树形结构解构代码逻辑](https://mp.weixin.qq.com/s/SzfQoumtAwQgfeuE7sZctg)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)
@@ -4637,6 +4648,7 @@
 + [一个由默认值引发的BUG，开发直呼冤枉](https://mp.weixin.qq.com/s/80HRh5E9yph46JAP49GTVg)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [当下，哪种编程语言比较流行？](https://mp.weixin.qq.com/s/BPf6aF55dMrAswq7V8Wi7Q)
++ [Java实习模拟面试之多路递归：斐波那契数列的性能陷阱与优化策略](https://mp.weixin.qq.com/s/mw339mNb_Y0zK4AnB1_nqg)
 + [对5个Web框架进行了十亿次请求测试-这是幸存者的故事](https://mp.weixin.qq.com/s/6hRilvvGkdIYjAE9X8pCxg)
 + [线上性能优化实战：从200ms到2ms的sql优化，性能提升100倍](https://mp.weixin.qq.com/s/MJjpkHRmSn29cYUMbnHKFQ)
 + [Java 开发者要了解 SFTP 用户权限吗？5分钟带你配置 Linux 用户权限](https://mp.weixin.qq.com/s/gAC1vxZTZuBeGEXgZOigAw)
@@ -4829,3 +4841,4 @@
 + [第五章：HNSW 算法原理与核心实现](https://mp.weixin.qq.com/s/EXQGQpD9lP4Y2dZB2A1xtA)
 + [第六章：索引构建与搜索算法](https://mp.weixin.qq.com/s/xQC98ZByrzYR3YySYWbfRg)
 + [EXCEL 导入 — 设计与思考](https://my.oschina.net/u/4090830/blog/18688901)
++ [设计Entity字段可以用基本数据类型吗？](https://mp.weixin.qq.com/s/zizos2_GAHuR3T61o06KgA)

@@ -108,6 +108,7 @@
 + [常见优化技巧——单调栈](https://mp.weixin.qq.com/s/eM4DxXb3ShAZRezk6dsbjw)
 + [详解动态规划2: 方法论篇](https://mp.weixin.qq.com/s/zOgsgs5G4oXEw-EXv97ZgQ)
 + [大白话聊一聊，数据结构的基石：数组和链表](https://mp.weixin.qq.com/s/m_85p9cXzYW1qi4ndHJO3g)
++ [哈希函数到底是个啥？看完这篇你就全懂了！](https://mp.weixin.qq.com/s/qpGix4Nbq_PIA2UMSbvSnQ)
 
 ## Graph
 

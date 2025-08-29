@@ -111,6 +111,7 @@
 + [技术 | 好的命名，是最便宜的设计优化](https://mp.weixin.qq.com/s/VJHdtFH_acQMjt0dZdAn7Q)
 + [89年，36岁，程序员，失业之后我发现一个赚钱的真理](https://mp.weixin.qq.com/s/WX9QbrcJkUSTDhr23Moaaw)
 + [AI时代下，程序员还有必要系统性啃书去学习吗？](https://mp.weixin.qq.com/s/1u6PvJsWldnKskAEoqbxcw)
++ [程序员最大的BUG：沉迷于细节，看不到全局](https://mp.weixin.qq.com/s/OrDYETNdb04efTFVRyaPkw)
 
 # 个人成长
 

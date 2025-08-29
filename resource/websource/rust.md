@@ -120,6 +120,8 @@
 + [Rust ：内存中数据对齐（alignment）](https://mp.weixin.qq.com/s/ttuW4h-mxlIqrE59vZ6iyA)
 + [Rust 映射三剑客：HashMap、DashMap 与 Moka 的并发实战对决](https://mp.weixin.qq.com/s/EAMO98uCb3MhQ99F7zBCKQ)
 + [Rust 中的动态分发与泛型：如何做出明智选择？](https://mp.weixin.qq.com/s/qPAMJuaBiL0c1UQbvo2mAg)
++ [Rust 算法解读：马拉车算法（Manacher）](https://mp.weixin.qq.com/s/oKCSNQ4KYH3ZLvHZXfTHWA)
++ [Rust 编程：Const 泛型与 Const fn 常量函数](https://mp.weixin.qq.com/s/U6Do4Z4YI6p2RLgGzLj1Ug)
 
 # 框架
 
@@ -199,3 +201,5 @@
 + [从 C++ 到 Rust：为什么 Google 正在推动这场技术变革](https://mp.weixin.qq.com/s/RC-YJeIzFBnhcGd1Plo6RA)
 + [为什么 Rust 这么火，但很多公司还是主用 Go 和 Java？](https://mp.weixin.qq.com/s/KSWhtQ14e_RFZ0iYD69PeQ)
 + [我最近迷上了 Rust，结果发现背后是未来](https://mp.weixin.qq.com/s/Vs542elz-svLthmL6ee8ng)
++ [Zig 与 Rust 到底该怎么选？](https://mp.weixin.qq.com/s/cygGtQyIAnIDzNQ-7Zdh6A)
++ [哲学家与工程师：为何Rust和Go的“官方之声”如此不同？](https://mp.weixin.qq.com/s/-dTtBBUlCOlC-Rr4R2bxmQ)

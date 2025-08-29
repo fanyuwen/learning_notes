@@ -11,6 +11,7 @@
 + [Q格式的10倍性能秘籍：90%工程师不知道的宏操作与饱和处理](https://mp.weixin.qq.com/s/mft-uY0mFSegGZN0d1JVQw)
 + [静态链接解析：为什么“打包”后可执行程序会变大？](https://mp.weixin.qq.com/s/JGq9crGS6XERQ6PgbHe4FA)
 + [只有少数人懂的C/C++启动流程：从execve到main全链路解密](https://mp.weixin.qq.com/s/ko1e4qT54ZoTvBtSZjlbfw)
++ [面试官:为什么大厂拒绝使用shared_ptr（shared_ptr vs intrusive_ptr)?](https://mp.weixin.qq.com/s/JSseZMRLpePuykz0nK16MQ)
 
 ## 工具
 
@@ -270,6 +271,7 @@
 + [跟我学C++中级篇——头文件控制预处理器指令](https://mp.weixin.qq.com/s/n49SdK6fsMVRSpM5UnqAlQ)
 + [C++中深复制和浅复制](https://mp.weixin.qq.com/s/BJIwZ-vtIDMo7Y_PmznGcA)
 + [C+++之Event事件系统](https://mp.weixin.qq.com/s/VdgRES7mzepyYq2OD5qnjA)
++ [宏定义背后的陷阱：一段 C++ 代码的反常行为](https://mp.weixin.qq.com/s/NirnKe_Q4M-6-hDYV0I6YQ)
 
 #### 指针
 
@@ -295,6 +297,8 @@
 + [跟我学C++中级篇——常函数](https://mp.weixin.qq.com/s/ZYtQPL7_wI8JMEhs_P3siw)
 + [跟我学C++中级篇——编译时对函数存储的处理](https://mp.weixin.qq.com/s/p0Ja_nntHYJeSOSk1A8D2A)
 + [透过汇编看 C++：虚函数表](https://mp.weixin.qq.com/s/FJbrAPlrsU04aqAlILaNcA)
++ [C++Lambda 表达式](https://mp.weixin.qq.com/s/OdhTt6iKXLbylzS8YpNEGw)
++ [C++的三种参数传递机制：从底层原理到实战](https://mp.weixin.qq.com/s/Lub0Y_l6jJnU_Oj-xuzQWQ)
 
 #### 数据结构&算法
 
@@ -669,6 +673,7 @@
 + [谈C编程---三目运算符级联效率](https://mp.weixin.qq.com/s/tWfpurSYSdipY_yshYWxnw)
 + [C语言结构体](https://mp.weixin.qq.com/s/oVhnkBjBPWkmrjho4S6tKg)
 + [谈C编程---巧妙运用return的经典代码](https://mp.weixin.qq.com/s/NNDYYLyjhoQm85Mx1Ij30Q)
++ [谈C编程---const、inline和#define](https://mp.weixin.qq.com/s/JKHCuURucmH2eIwvvjGFbA)
 
 ### 高阶
 
@@ -770,6 +775,8 @@
 + [结构体初始化的6种方式](https://mp.weixin.qq.com/s/O20GW7HfCttqfFa-5Z4b2g)
 + [用 C 语言实现日志打印结构体：从设计到实战](https://mp.weixin.qq.com/s/-MGqipP1ijdfKgULy2W5KQ)
 + [谈C编程---共用体的应用](https://mp.weixin.qq.com/s/DvWOYWB2A4jITUegub4b9g)
++ [“结构体指针”和“指针结构体”](https://mp.weixin.qq.com/s/qopcQRpQsQsEaAt1FWv2yg)
++ [C语言结构体：数据打包神器](https://mp.weixin.qq.com/s/BxC_Od2fz5WVUNADEfcFHQ)
 
 #### 指针
 
@@ -818,6 +825,7 @@
 + [C语言中的" 回调地狱 "](https://mp.weixin.qq.com/s/MNTNzerlMVes_cuDhHHYkw)
 + [printf函数原理能不能简单点？----小话c语言(2)](https://mp.weixin.qq.com/s/oy0QQY_xOPhxI8hYgT_IMw)
 + [谈C编程---回调函数](https://mp.weixin.qq.com/s/B2LdmVj3rCLANRw_3wF5rQ)
++ [谈C编程---返回字符串指针的函数](https://mp.weixin.qq.com/s/iqbMwcNRedD_EkVi-kmRGA)
 
 #### 库
 

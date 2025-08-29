@@ -390,6 +390,7 @@
 + [三步根治前端缓存 “顽疾”](https://my.oschina.net/u/4090830/blog/18638533)
 + [不要再用 Math.random()！用这个 API 做到真随机](https://mp.weixin.qq.com/s/yaO8Ei3ZXoJoWFZJwrnATw)
 + [前端必看：判断对象是否为 {} 最优方式！](https://mp.weixin.qq.com/s/yjTDVh6nDLhBrbGoPTQ-Kg)
++ [浅浅聊聊什么是“异步传染性”？](https://mp.weixin.qq.com/s/LtqaK41PyuF9MIWbKeby_Q)
 
 # 杂谈
 

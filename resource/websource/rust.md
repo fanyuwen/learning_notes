@@ -116,6 +116,10 @@
 + [10 分钟搞懂 Rust 生命周期，从此不再害怕编译器](https://mp.weixin.qq.com/s/U5ch9PTeXcmoS8U2LAl6YA)
 + [Rust编程：10个让代码更安全更快速的核心模式](https://mp.weixin.qq.com/s/kUDW9OPIvxCo5_rNDgrGSw)
 + [掌握这 10 个 Rust 性能优化模式，让你的代码快如闪电](https://mp.weixin.qq.com/s/RNRN0nL1nUO4xIPQyiTcZQ)
++ [Rust重写实战：渐进式迁移如何让代码更安全、更简洁？](https://mp.weixin.qq.com/s/Pns6S2tzeHrSjcJDmmPNtw)
++ [Rust ：内存中数据对齐（alignment）](https://mp.weixin.qq.com/s/ttuW4h-mxlIqrE59vZ6iyA)
++ [Rust 映射三剑客：HashMap、DashMap 与 Moka 的并发实战对决](https://mp.weixin.qq.com/s/EAMO98uCb3MhQ99F7zBCKQ)
++ [Rust 中的动态分发与泛型：如何做出明智选择？](https://mp.weixin.qq.com/s/qPAMJuaBiL0c1UQbvo2mAg)
 
 # 框架
 

@@ -44,6 +44,7 @@
 + [MQ黄金三剑客：RabbitMQ、RocketMQ和Kafka深入解密常见问题及功能对比指南？](https://mp.weixin.qq.com/s/LkdSDlHbguiDemOsuG6XDQ)
 + [字节高频面试题： MQ怎么做到事务消息的，怎么保证数据不丢失？](https://mp.weixin.qq.com/s/Wb_Yeu3t94T1hcR49OgBEQ)
 + [四十四、构建完善微服务——消息队列](https://mp.weixin.qq.com/s/0wd4O9GZHtlKdYnQ-Un_gA)
++ [面试官：消息队列积压百万，除了加机器还有哪些解法？](https://mp.weixin.qq.com/s/iRGKRL0Og13GG3JTh0FS7w)
 
 # KAFKA
 

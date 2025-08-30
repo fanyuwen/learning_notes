@@ -153,6 +153,7 @@
 + [来了解下Java的泛型与类型擦除](https://mp.weixin.qq.com/s/dzFMCITHQ4pToKyRkXcQ_A)
 + [Java 泛型 T，E，K，V，?，傻傻分不清？](https://mp.weixin.qq.com/s/YXumP-PDftc4rskZE7f18w)
 + [面试官：说说什么是泛型的类型擦除？](https://mp.weixin.qq.com/s/ysadhX8xX2CLGCdZ91RLxA)
++ [泛型和枚举用错了？《Effective Java》这 6 个技巧让代码少报错](https://mp.weixin.qq.com/s/1GCmqNCgOgiOd1tQh6ktSQ?click_id=22)
 + [一文全面解读Java中的泛型](https://mp.weixin.qq.com/s/Jh1KzPsRy6tsj5ovxIEyRA)
 + [彻底掌握 Java 泛型：从入门到实践，这份代码宝典助你精通！](https://mp.weixin.qq.com/s/lSoBMJr3Q6Az2khShNLQKQ)
 + [121. Java 泛型 - 泛型类型](https://mp.weixin.qq.com/s/IqGhEGW60dIel-i6iL3FAg)
@@ -492,6 +493,7 @@
 + [String的join的方法，你用过吗？](https://mp.weixin.qq.com/s/CybB8QkUi3k9hHbXwtBJ-w)
 + [分享 Java Function 的 10 个高阶用法！](https://mp.weixin.qq.com/s/I1NFZ8iEEhui1GmhpReNzw)
 + [168. Java Lambda 表达式 - 专用比较器](https://mp.weixin.qq.com/s/wnUQ5ZLMPDRFLVIAnIxmfw)
++ [推荐使用 try-with-resources 结合 HTTP 方便简洁安全](https://mp.weixin.qq.com/s/RMxVMEq0GbRMxSdKXyysjw?click_id=4)
 
 ## 代码质量
 
@@ -1413,6 +1415,7 @@
 + [解锁 Java 日期时间转换的正确姿势](https://mp.weixin.qq.com/s/Xo_qTB46gCLf12bpINNydA)
 + [Java日期与时间API：LocalDate、LocalTime的操作](https://mp.weixin.qq.com/s/7T6BQzL6gUqwOhoouigDTw)
 + [从Date到LocalDateTime的优雅迁移！](https://mp.weixin.qq.com/s/52WzcIOtP6CY9f3yeSaEAw)
++ [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/GkmLdk2YSmimbnv64Yxdxw?click_id=24)
 
 ### Collection/Map
 
@@ -1895,8 +1898,9 @@
 + [Apache Commons ConvertUtils：Java 类型转换的 "万能钥匙"，让数据转换效率提升 300%](https://mp.weixin.qq.com/s/kR195BVns4fDPRJcokuZsg)
 + [Apache Commons 4 ConcurrencyUtils：Java 并发编程的 "瑞士军刀"，让多线程开发更丝滑](https://mp.weixin.qq.com/s/tLzAtCOgANF3iz1fedku9A)
 + [Apache Commons ListUtils：让 List 操作效率翻倍的 Java 工具类](https://mp.weixin.qq.com/s/qA0YUE6hm9t13ig0AgJCcg)
-+ [Apache Commons NumberUtils：让数字处理代码减少 60% 的工具类​](https://mp.weixin.qq.com/s/bKIus9Hgo5W45S7m9XQe_Q)
++ [Apache Commons NumberUtils：让数字处理代码减少 60% 的工具类](https://mp.weixin.qq.com/s/bKIus9Hgo5W45S7m9XQe_Q)
 + [IteratorUtils：解锁Java迭代器操作的神兵利器，告别繁琐循环！](https://mp.weixin.qq.com/s/uORpJYXm8XGlQJOZF_6N8Q)
++ [Apache Commons MapUtils：让 Map 操作效率提升一倍的工具类](https://mp.weixin.qq.com/s/NY7Ae85o-LyQB41vmDOjsQ)
 
 ## apollo
 
@@ -2024,6 +2028,7 @@
 + [强大！JSON解析神器，再复杂也不怕了](https://mp.weixin.qq.com/s/CwUP-uGVe9FTFTAqDX2gaQ)
 + [Java中动态JSON的一种解决方案](https://mp.weixin.qq.com/s/8Kb2vZBJtyoT-uHRoHc47g)
 + [Jackson居然骗我说它是线程安全的](https://mp.weixin.qq.com/s/l4G2g7Jz4ZTdXYncegKaTQ)
++ [性能提升30倍！Jackson-Jr 高性能JSON序列化神器](https://mp.weixin.qq.com/s/UgjAopJYLhF_NOA2rpXwBg)
 
 ## logger
 
@@ -4345,6 +4350,7 @@
 + [如何基于 SpringBoot 快速构建 Apache Pulsar 实时应用](https://my.oschina.net/apachepulsar/blog/18689863)
 + [JAVA：Spring Boot 集成 Temporal 实现订单处理系统](https://mp.weixin.qq.com/s/Mv8XfjekftiFyAqnTrwVEg)
 + [Spring Boot升级Redisson：分布式锁、异步流与集群架构的终极方案](https://mp.weixin.qq.com/s/g8R5mGY3UwZro4zLmGLQCw)
++ [Spring Boot 5种重试组件+自定义AOP实现重试](https://mp.weixin.qq.com/s/9yDLO-hWnZxXG5KhuhS1hw)
 
 #### test
 

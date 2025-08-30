@@ -513,6 +513,7 @@
 + [订单 30 分钟未支付就自动取消？这 5 个狠招帮你搞定！](https://mp.weixin.qq.com/s/DysVYPwdau5Evf_AinsyKg)
 + [面试官：如何取消超时未支付的订单?](https://mp.weixin.qq.com/s/yVMSwGB3RbWWy_4jtFhmVw)
 + [百万订单未支付，库存回滚](https://mp.weixin.qq.com/s/7Zc0erQGHJUUMp_OEjEXMw)
++ [面试:当支付回调遇到超时关单如何处理？](https://mp.weixin.qq.com/s/IZp8OIdlMe-g9C1BXClM8Q?click_id=23)
 
 ### 重试
 

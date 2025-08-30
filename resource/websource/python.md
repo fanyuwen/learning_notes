@@ -102,6 +102,7 @@
 + [海象操作符=：Python社区为何差点因它分崩离析？](https://mp.weixin.qq.com/s/T0lixlZw6yfkK_gaKqBXtA)
 + [类型注解：Python性能的隐形加速器](https://mp.weixin.qq.com/s/9IgogQw7U4NLiAxfdSRGDA)
 + [Python倒车请注意！负步长range的10个高能用法，让代码效率翻倍](https://mp.weixin.qq.com/s/OfBWKTnupp92McY0fuNycQ)
++ [Python内置异常详解](https://mp.weixin.qq.com/s/hSHTZo7mE-VN9JLAHEWnfA)
 
 ### 函数/方法
 
@@ -424,6 +425,7 @@
 + [苦练Python第31天：enumerate、zip与元组解包](https://mp.weixin.qq.com/s/VYXwQP-qjH2UcNUCyAtTtw)
 + [30天学会Python编程：13. Python迭代器与生成器编程指南](https://mp.weixin.qq.com/s/NmM6LKKbzzo5Q_tEqTIR8Q)
 + [python基础语法-读写文件](https://mp.weixin.qq.com/s/Cky9ERdWx-0Lh0K65hqYEA)
++ [Python内置常量详解](https://mp.weixin.qq.com/s/IWCB-o96qTWvbmqIWfC3ug)
 + [Python 文件操作与异常处理](https://mp.weixin.qq.com/s/5ekWdjUwUjQeDiP5xFGMeA)
 + [python学习13-文件处理](https://mp.weixin.qq.com/s/5vcofKlEIjMgl3gBookK7A)
 + [Python文件读写：tell和seek的用法](https://mp.weixin.qq.com/s/4-2teCwTK_TNRd8RwpXeEA)

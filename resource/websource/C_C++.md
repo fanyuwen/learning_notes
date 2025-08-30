@@ -72,6 +72,7 @@
 + [开始学习C++](https://mp.weixin.qq.com/s/DChijH8jBZoCFtezXCouXg)
 + [编译器与指令集优化 (三)](https://mp.weixin.qq.com/s/OQz8vZu_agUqAnmSenCtVg)
 + [C++11 值类别演进：从二分法到五分法，揭秘移动语义的基石](https://mp.weixin.qq.com/s/yUQgado9H8uVfANie_6kdg)
++ [C++11都十几年了，你还在手写哈希函数吗？来看这篇从入门到进阶，一篇彻底讲透](https://mp.weixin.qq.com/s/pP9ZdS4PJ7mlUouavvJ19g)
 
 ### 基础
 
@@ -272,6 +273,7 @@
 + [C++中深复制和浅复制](https://mp.weixin.qq.com/s/BJIwZ-vtIDMo7Y_PmznGcA)
 + [C+++之Event事件系统](https://mp.weixin.qq.com/s/VdgRES7mzepyYq2OD5qnjA)
 + [宏定义背后的陷阱：一段 C++ 代码的反常行为](https://mp.weixin.qq.com/s/NirnKe_Q4M-6-hDYV0I6YQ)
++ [C++文件操作：流式编程的优势](https://mp.weixin.qq.com/s/qi_GtPzknjALgvsQtcKcnQ)
 
 #### 指针
 
@@ -450,6 +452,7 @@
 + [构造函数前面的explicit是什么意思？](https://mp.weixin.qq.com/s/4Hq9a07YLd0gIVpx7p6mDw)
 + [C++析构函数与线程退出之2](https://mp.weixin.qq.com/s/wAEkNOg3x4mOl_hBIeqKgg)
 + [C++第18课：友元函数与友元类](https://mp.weixin.qq.com/s/hfnxK1x-BNpRWnRxM0joBw)
++ [C++ 多态详解（上）](https://mp.weixin.qq.com/s/Xu9cFI1NOu9f5boDp80u3A)
 + [c++多态详解（下）](https://mp.weixin.qq.com/s/ouX72Rtm1KcLh7uIjqI_iQ)
 + [C++中菱形继承问题](https://mp.weixin.qq.com/s/x3vzuVZMQ5H1jbRDBN_gHg)
 
@@ -674,6 +677,8 @@
 + [C语言结构体](https://mp.weixin.qq.com/s/oVhnkBjBPWkmrjho4S6tKg)
 + [谈C编程---巧妙运用return的经典代码](https://mp.weixin.qq.com/s/NNDYYLyjhoQm85Mx1Ij30Q)
 + [谈C编程---const、inline和#define](https://mp.weixin.qq.com/s/JKHCuURucmH2eIwvvjGFbA)
++ [你知道C语言中&&和&的区别么？](https://mp.weixin.qq.com/s/lXkbPT2ZDpMCRk9znnj1xQ?click_id=17)
++ [那些年被误解的C语言宏定义：你真的懂#define吗？](https://mp.weixin.qq.com/s/AZdLsTa1OvjX7reoNqTWug)
 
 ### 高阶
 

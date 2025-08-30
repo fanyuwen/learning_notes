@@ -458,6 +458,7 @@
 + [MySQL表数据删除后文件大小不变原因解析](https://mp.weixin.qq.com/s/zKpRmdeLNsQ0GyKhbSC8Lw)
 + [面试官连环追问：MySQL 的 order by 到底藏着多少玄机？](https://mp.weixin.qq.com/s/BtfIL_ZMVRcpKxzkmp0Wbw)
 + [MySQL的in数量限制1000个？](https://mp.weixin.qq.com/s/FDL0SF2Dwr2eaRSETr1o8w)
++ [线上千万级别表新增字段的方式](https://mp.weixin.qq.com/s/QORV1BqS6VqydxH98R5GfA)
 
 #### 存储引擎
 

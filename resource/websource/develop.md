@@ -515,6 +515,7 @@
 + [面试官：如何取消超时未支付的订单?](https://mp.weixin.qq.com/s/yVMSwGB3RbWWy_4jtFhmVw)
 + [百万订单未支付，库存回滚](https://mp.weixin.qq.com/s/7Zc0erQGHJUUMp_OEjEXMw)
 + [面试:当支付回调遇到超时关单如何处理？](https://mp.weixin.qq.com/s/IZp8OIdlMe-g9C1BXClM8Q?click_id=23)
++ [订单超时关闭的3种实现方案：从定时任务到延迟队列，如何选？](https://mp.weixin.qq.com/s/w3uwJWcwffcKeOo_kgM2oA)
 
 ### 重试
 

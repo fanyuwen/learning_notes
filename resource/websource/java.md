@@ -980,6 +980,7 @@
 + [一文看懂Java线程池原理](https://mp.weixin.qq.com/s/rWEaZosRdrYUAFBebhhbjQ)
 + [Java线程池真的那么难懂吗？看完这篇你就全明白了！](https://mp.weixin.qq.com/s/E8mQ7zdnXR3-MXrldey7yQ)
 + [别只死背线程池七大参数了，面试官根本不是这么问的！](https://mp.weixin.qq.com/s/PVltq6pmo3cr1hWxjhwt_Q)
++ [ForkJoinPool：Java并发编程中的递归与分治任务](https://mp.weixin.qq.com/s/nXh6Tacqed-x8BG8fIGALA)
 
 #### 锁
 
@@ -1361,6 +1362,7 @@
 
 ### Stream
 
++ [Java Stream流介绍及使用指南](https://mp.weixin.qq.com/s/41pbn8btI9zryhN3kDTYzw)
 + [Java 开发者必备：Stream API 的核心用法与实战技巧](https://mp.weixin.qq.com/s/rl45ysC0VbhRlJ5csrTtEA)
 + [会 java 8 stream流就会大数据！](https://mp.weixin.qq.com/s/czspxfWUDzplShZE0Tvn8w)
 + [Java Streams 中的7个常见错误](https://mp.weixin.qq.com/s/4KeqVOdeosYfRKPgC4HCHg)
@@ -1449,6 +1451,7 @@
 + [ArrayDeque双端队列--底层原理可视化](https://mp.weixin.qq.com/s/jKt7IidUNDh8N0INrqsV3A)
 + [吃透Java集合框架，这篇就够了](https://mp.weixin.qq.com/s/Zd-mpz-6_UdsLVhvsVp85A)
 + [Java 集合--快速掌握涵盖三大场景实现的Set集合底层原理](https://mp.weixin.qq.com/s/lUWM-NBvg-xne4GdbyaysA)
++ [List排序不用愁，这几招轻松搞定](https://mp.weixin.qq.com/s/MXMa_Nww4WWzO62xQytdNg)
 
 #### map
 
@@ -2039,6 +2042,7 @@
 + [Java中动态JSON的一种解决方案](https://mp.weixin.qq.com/s/8Kb2vZBJtyoT-uHRoHc47g)
 + [Jackson居然骗我说它是线程安全的](https://mp.weixin.qq.com/s/l4G2g7Jz4ZTdXYncegKaTQ)
 + [性能提升30倍！Jackson-Jr 高性能JSON序列化神器](https://mp.weixin.qq.com/s/UgjAopJYLhF_NOA2rpXwBg)
++ [Fastjson为啥老出事？3分钟讲透反序列化漏洞](https://mp.weixin.qq.com/s/g_uCYVTvdTnBBGcnQ9dvGw)
 
 ## logger
 
@@ -2180,6 +2184,7 @@
 + [JAVA：MyBatis 核心组件详解的技术指南](https://mp.weixin.qq.com/s/vaoqUPNwT4IN4ekJ5-9qWg)
 + [MyBatis动态SQL优化：WHERE 1=1真的必要吗](https://mp.weixin.qq.com/s/_Gc1UjNWXvygz_BY7f2O9A)
 + [JAVA：MyBatis 如何处理延迟加载的技术指南](https://mp.weixin.qq.com/s/O3pPnrMcrst8faKl_Z8XxA)
++ [MyBatis自动生成Mapper引发的查询空值问题：排查过程与反思](https://mp.weixin.qq.com/s/1KbGri34mRzS1sW3QE2vXQ)
 
 ### plus
 
@@ -2353,6 +2358,7 @@
 + [基于Redission高级应用15-RHyperLogLog原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/TUAgWBsHN7e4rTQBPkD9aQ)
 + [最强分布式锁工具：Redisson](https://mp.weixin.qq.com/s/v4duFssWWjCYF5JhN4vzRg)
 + [Redission 分布式锁原理分析](https://mp.weixin.qq.com/s/7l9vaZODmki2nKBRssetqg)
++ [基于Redission高级应用19-RMultimap原理及高级工具类封装解读](https://mp.weixin.qq.com/s/L7suESybzJQ1Mwt1Utu5pA)
 + [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
 
 ## ribbon
@@ -2563,7 +2569,8 @@
 + [Spring容器深度扩展点：postProcessBeanFactory详解](https://mp.weixin.qq.com/s/AfOH1P1BKD9dCVOgV0qDJw)
 + [Spring @Bean解密：`static`与非`static`方法的微妙之差与正确用法](https://mp.weixin.qq.com/s/0HOkVMVOu4H0imET3XMijg)
 + [一文看懂spring处理@Component注解的原理](https://mp.weixin.qq.com/s/N8N9VbcSh3HFwqC1hCGQnw)
-+ [Spring Bean 生命周期全解析：每个阶段的个性化操作与实战案例​](https://mp.weixin.qq.com/s/sDM7f7ileuxnPAuAkgRVqg)
++ [Spring Bean 生命周期全解析：每个阶段的个性化操作与实战案例](https://mp.weixin.qq.com/s/sDM7f7ileuxnPAuAkgRVqg)
++ [Spring 源码精讲 02 - 循环依赖](https://mp.weixin.qq.com/s/ZAf70t8hnt6nEXoH33oa_Q)
 
 ### 新版本新特性
 
@@ -2653,6 +2660,7 @@
 #### doc
 
 + [API文档圣剑！SpringDoc OpenAPI 3.0取代Swagger实战指南](https://mp.weixin.qq.com/s/auS6DgsE26s7yaPaPzFuDA)
++ [甩掉 Swagger UI！SpringBoot API 文档神器强势登场](https://mp.weixin.qq.com/s/BT8-lSfw0qaOMZK9S24tJA)
 
 ### concurrent
 
@@ -3030,6 +3038,7 @@
 + [SringCloud网关Gateway功能实现](https://mp.weixin.qq.com/s/V5sbRKDgXDWcQ_fleimi4g)
 + [Spring Cloud Gateway 核心原理](https://mp.weixin.qq.com/s/DRzVUFakayfZb4AKlxej-g)
 + [Spring Cloud Gateway，这一篇就够了](https://mp.weixin.qq.com/s/8B4iTArrvlN_HY1ZIGz_xg)
++ [Spring Cloud Gateway，这一篇就够了](https://mp.weixin.qq.com/s/verCCwiLxM_oND0vKlPhGw)
 
 #### AI
 
@@ -3205,6 +3214,7 @@
 + [开启 IDE 智能提示：解锁 Spring Boot 配置增强器](https://mp.weixin.qq.com/s/CqObp8nB1LW3pNjL4Xvw9Q)
 + [刚来的实习生在异常代码块里打印堆栈，技术经理看到后气得直跺脚，Spring Boot优雅地处理异常，你不会吗？](https://mp.weixin.qq.com/s/3C1C11pKb7E-7C13yOMOAQ)
 + [这一次优化，让我的 Spring Boot 飞了起来（CPU 直降 70%）](https://mp.weixin.qq.com/s/bkqPZnLBB2V6A8QuZwBfGg)
++ [Spring Boot 使用 LinkedBlockingDeque 实现简单的消息队列异步任务](https://mp.weixin.qq.com/s/v3_53BW6pEvTmBCTGImY8g)
 
 ##### 原理
 
@@ -3741,6 +3751,7 @@
 + [SpringBoot启动过程可视化：从main()到Tomcat的奇妙旅程](https://mp.weixin.qq.com/s/09MGA88b2SM5-oiYzCOUnA)
 + [Java进阶手册（五）SpringBoot的内容协商机制详解](https://mp.weixin.qq.com/s/ykcUigJcYbHy4svOTbFOEw)
 + [Spring Boot 接口敏感字段脱敏的5大"王炸"方案](https://mp.weixin.qq.com/s/HQEHUrJLsw37aUKPyRTCDw?click_id=97)
++ [告别 API 响应 "一刀切"！Spring Boot 细粒度控制秘籍，让接口返回更灵活](https://mp.weixin.qq.com/s/SW341Rz6pbJIIxeefZfBuA)
 
 ##### 文件上传下载
 
@@ -4073,6 +4084,7 @@
 + [Spring Boot 日志处理实战：从混乱到清晰的蜕变](https://mp.weixin.qq.com/s/ZoOKX28Wr2_fq7Lv_IlYJA)
 + [SpringBoot日志按照日期和日志级别输出文件](https://mp.weixin.qq.com/s/7cY8Kd9QpKBnmWbajcov4A)
 + [一文吃透！Spring Boot 项目请求日志记录，这几招你绝对不能错过！](https://mp.weixin.qq.com/s/tDZsrlb2hnJ-7NltXapkXw)
++ [日志追踪核武器！Sleuth+Zipkin全链路监控实战](https://mp.weixin.qq.com/s/yHvQoJvxLI4lwmu5kew-gg)
 
 #### 安全
 
@@ -4251,6 +4263,7 @@
 + [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/Q46Bgq2Dw5CMG-VT_nLXtw)
 + [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/MvbauTHQ3yNGopEHTxyB1w)
 + [提升数据导出效率：Spring Boot整合EasyExcel并行导出及Zip压缩下载](https://mp.weixin.qq.com/s/-MZ4XEK0cviGxmoCACBixg)
++ [SpringBoot系列之集成EasyExcel实现百万级别的数据导入导出实践](https://mp.weixin.qq.com/s/q0nrKSxrQvegGyFGW6tBxg)
 + [新选择！基于Spring Boot监听MySQL日志Binlog实现数据实时同步](https://mp.weixin.qq.com/s/3rMWPmLHnoY4IDl-owuLIw)
 + [SpringBoot集成shardingsphere：执行存储过程](https://mp.weixin.qq.com/s/2FJDu2TWfAPjrTz-LT7wcw)
 + [springboot第84集：Java进阶之路, Netty](https://mp.weixin.qq.com/s/aIYPk52adcrFH7h0UsyWkA)

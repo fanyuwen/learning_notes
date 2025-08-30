@@ -45,6 +45,7 @@
 + [字节高频面试题： MQ怎么做到事务消息的，怎么保证数据不丢失？](https://mp.weixin.qq.com/s/Wb_Yeu3t94T1hcR49OgBEQ)
 + [四十四、构建完善微服务——消息队列](https://mp.weixin.qq.com/s/0wd4O9GZHtlKdYnQ-Un_gA)
 + [面试官：消息队列积压百万，除了加机器还有哪些解法？](https://mp.weixin.qq.com/s/iRGKRL0Og13GG3JTh0FS7w)
++ [RabbitMQ-RocketMQ和Kafka有什么区别](https://mp.weixin.qq.com/s/Dnb9OaQpKrCqSKqL34lcUQ)
 
 # KAFKA
 
@@ -139,6 +140,7 @@
 + [Kafka 基础概念全解析：从消息队列到核心组件](https://mp.weixin.qq.com/s/MxpARNIMy0qgT1WVQcsdmQ)
 + [Kafka Broker 核心原理全解析：存储、高可用与数据同步](https://mp.weixin.qq.com/s/zH4gsR-d_XKyvtk18McqoQ)
 + [Kafka生产者原理深度解析](https://mp.weixin.qq.com/s/fmmArjMy5z5J35HJQpJIGg)
++ [Kafka 消息幂等性实现详解：原理、机制与实践](https://mp.weixin.qq.com/s/f3jd2gfCgazHY1nqKvvHcQ)
 
 # ROCKETMQ
 
@@ -182,7 +184,7 @@
 + [深度解析：基于 RocketMQ 实现分布式事务的技术实践与原理探究](https://mp.weixin.qq.com/s/RMrmrwWuQIrMESLhYGhlRg)
 + [RocketMQ系列：消息的顺序性【第6讲】](https://mp.weixin.qq.com/s/g92huf2WtoV2tAvEQFhbVQ)
 + [RocketMq如何借助CommitLog实现百万并发的能力](https://mp.weixin.qq.com/s/0A1uCQl2DhQeFl44wbzfrw)
-+ [RabbitMQ-RocketMQ和Kafka有什么区别](https://mp.weixin.qq.com/s/Dnb9OaQpKrCqSKqL34lcUQ)
++ [RocketMQ消息存储机制（消息可靠性利器）](https://mp.weixin.qq.com/s/VPfcXa1jiwqkRaC-rDw4WA)
 
 # RABBITMQ
 

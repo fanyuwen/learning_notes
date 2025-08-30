@@ -186,6 +186,7 @@
 + [Go循环全攻略：从基础到高级技巧](https://mp.weixin.qq.com/s/ZymJg3jzMoq2X2mJRVXZFw)
 + [Go协程池深度解析：原理、实现与最佳实践](https://mp.weixin.qq.com/s/Q6KSBuhhY_3ksXn3Zd0WSw)
 + [Golang：检查 Map 中 Key 是否存在](https://mp.weixin.qq.com/s/Co4k7AQaSVnWgApm7483xQ)
++ [8.1 集合-一维数组](https://mp.weixin.qq.com/s/toQLUzSEe1Ao_QmOvr7rlg)
 
 # 面试题
 

@@ -321,6 +321,7 @@
 + [深入理解计算机组成原理（三十六）---CPU访问，虚拟地址和物理地址之间的转换题目](https://mp.weixin.qq.com/s/ZKTs0kcbRs4CoqfK8oVamQ)
 + [深入理解计算机组成原理（三十九）---数据在存储器里面的存储方式的题目（大小端+对齐）](https://mp.weixin.qq.com/s/x8PPtrpvUpVzf3tnfxnMzA)
 + [计算机总线仲裁工作原理](https://mp.weixin.qq.com/s/6shLR3ieKCuIC75zPnY-xA)
++ [并行计算架构与技术详解](https://mp.weixin.qq.com/s/_vJbE6zqfUbP5yQRVIo6kg)
 
 ## CPU
 

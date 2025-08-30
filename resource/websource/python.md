@@ -1107,6 +1107,7 @@
 + [Python中的数据导入与查询](https://mp.weixin.qq.com/s/4y0nZ8LvBKvAwFKEPixq7g)
 + [用Python来解放双手，PyAutoGUI详解](https://mp.weixin.qq.com/s/Q8rf8CjfgdaFsn5YkqkcvQ)
 + [让Python任务跑得飞起的神仙编排工具，](https://mp.weixin.qq.com/s/A_KDrFT-nTjZhauBkIl9tQ)
++ [分布式异步函数调度框架funboost的使用记录](https://mp.weixin.qq.com/s/ib_7D3xPVE_TjeB_4S6Ajg)
 
 ## 框架
 

@@ -973,6 +973,7 @@
 + [Redis发布订阅深度剖析：redis如何实现发布订阅功能？](https://mp.weixin.qq.com/s/W8mlTTaNHs5Gcs9Xug350Q)
 + [揭秘Redis LRU算法背后的秘密](https://mp.weixin.qq.com/s/IF_mJUF8sPEblhZ0T0g3pw)
 + [Redis为什么要用近似LRU？](https://mp.weixin.qq.com/s/GAV85R_2rt3wz4EJChCugw)
++ [Redis发布/订阅模式背后的秘密：源码级详解](https://mp.weixin.qq.com/s/fghR5h5CS5JOmoam39fJfg)
 
 #### 分布式锁
 

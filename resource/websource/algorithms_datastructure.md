@@ -230,5 +230,6 @@
 + [剑指offer-13、调整数组顺序使奇数位于偶数前面（一）](https://mp.weixin.qq.com/s/a7n5LLuEoSvoVpj_YEGIcA)
 + [剑指offer-14、链表中倒数第k个结点](https://mp.weixin.qq.com/s/gKBuD-fzLSGVJvASWubeRg)
 + [剑指offer-16、合并两个有序链表](https://mp.weixin.qq.com/s/UoPMafS8WzXghM09AFbz-g)
++ [剑指offer-24、二叉树中和为某一值的路径（一）](https://mp.weixin.qq.com/s/_a0T_o--mo-mujs7ei5Jkw)
 + [剑指offer-25、复杂链表的复制](https://mp.weixin.qq.com/s/1A6CkHTfUeRwxonVdX_OJA)
 + [LeetCode热题100之链表I](https://mp.weixin.qq.com/s/3dqSih_HV5F60DZGHcvRZQ)

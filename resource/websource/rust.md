@@ -124,6 +124,8 @@
 + [Rust 编程：Const 泛型与 Const fn 常量函数](https://mp.weixin.qq.com/s/U6Do4Z4YI6p2RLgGzLj1Ug)
 + [从原理到落地：深入剖析与 Rust 技术栈实战 crate 全景指南](https://mp.weixin.qq.com/s/drCcqWeBs35Q4gvy4kkmSg)
 + [一文搞懂 Rust “切片” 与 “切片引用” 关系](https://mp.weixin.qq.com/s/oVMn9XyeMCHPW4vuXrn_dw)
++ [Rust 算法： KMP 高效的字符串匹配](https://mp.weixin.qq.com/s/d3eiTi7qD2k2t6dGF-Ts2A)
++ [Rust 追踪艺术：Tracing Crate 高级进阶实战指南](https://mp.weixin.qq.com/s/MzRerizMDK45eze2-fMG5A)
 
 # 框架
 

@@ -330,6 +330,7 @@
 + [贪心算法 | C++算法集](https://mp.weixin.qq.com/s/zzrx8zIl6BDSVAw8PzIOgg)
 + [宝鉴001: C++ 双向链表翻转](https://mp.weixin.qq.com/s/qoSz21oJPijH8pRV7d_4FQ)
 + [【C/C++】B+树基本功能的实现](https://mp.weixin.qq.com/s/bOzP29yNRVlQXSjf2WYgIw)
++ [（二）C++数据结构与算法之数组](https://mp.weixin.qq.com/s/eUn3dEIywS6tKDIJpASkFA)
 + [（三）C++数据结构与算法之链表](https://mp.weixin.qq.com/s/ZPYy7xAjEMj2ZMqZGTvrYA)
 
 #### 库
@@ -402,6 +403,7 @@
 + [c++26新功能—带原因说明的删除函数](https://mp.weixin.qq.com/s/YrlipkwJQBsUiLcLYI0ipg)
 + [c++26新功能—线性代数库](https://mp.weixin.qq.com/s/xYJjjF-56VJaW2NSNT1Nqg)
 + [c++26新功能—copyable_function](https://mp.weixin.qq.com/s/cji3vUU_jGFj38AIIzbaqg)
++ [c++26新功能—文件流中的原生句柄](https://mp.weixin.qq.com/s/UV4U_rbVCk0xRS73vYFI_A)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [c++26新功能—可观测检查点](https://mp.weixin.qq.com/s/ARJ4_tXO8mMa9pXSfVfpRg)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)

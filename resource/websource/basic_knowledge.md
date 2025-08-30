@@ -193,6 +193,7 @@
 + [深入理解Linux进程信号机制](https://mp.weixin.qq.com/s/blDBeGKuNYtpctZa3CSvrw)
 + [深度解析Linux设备树（DTS）：设计原理、实现框架与实例分析](https://mp.weixin.qq.com/s/LrHxdTbdezzuk0_SKRS2Aw)
 + [Linux 进程深度解析（6）：资源隔离的底层实现 （Namespace、Cgroups 与容器化）](https://mp.weixin.qq.com/s/e6frNlBOy2IUwEC5w7qVUw)
++ [linux内核--内存分配](https://mp.weixin.qq.com/s/v7nC2CheNdEt052zGgadiw)
 
 ### 网络
 
@@ -557,6 +558,8 @@
 + [用了这么久HTTP，这些状态码的妙用你都知道吗](https://mp.weixin.qq.com/s/jf5b-eBtwsXFvoZmKpmDvg)
 + [HTTP 协议的优缺点](https://mp.weixin.qq.com/s/1oHMgCExGmp-owLi40RpiA)
 + [HTTP 长连接与短连接](https://mp.weixin.qq.com/s/LwU7WbxWM0sI4QG4DNRJjw)
++ [HTTP，HTTPS协议介绍和区别](https://mp.weixin.qq.com/s/btJuG2xh0yDITwW9Damn5A)
++ [https是如何加密的](https://mp.weixin.qq.com/s/d742Gx_Oe4j086bwVftOQg)
 
 #### CORS
 

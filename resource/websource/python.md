@@ -180,6 +180,7 @@
 + [Python 内置函数 filter() 元素过滤](https://mp.weixin.qq.com/s/SQpeAppFBzif11YcyV8TKg)
 + [Python闭包中的循环变量问题及解决方案](https://mp.weixin.qq.com/s/JrE-wDlF0ZPlmiCSN6YNLA)
 + [Python中的@staticmethod和@classmethod有何区别？一文带你彻底搞懂使用场景](https://mp.weixin.qq.com/s/OXzouPnvN4LJfSxG8uIF5w)
++ [Python 高手都偷偷用的 Lambda 函数，你还在傻傻写 def 吗？](https://mp.weixin.qq.com/s/qfYU9gVeXDbeiN5ICqE_uw)
 
 ### 面向对象
 
@@ -766,6 +767,7 @@
 + [Python：入口点详解（模块、包与程序）](https://mp.weixin.qq.com/s/xttsVS0gCLUej_GhAhFnJQ)
 + [Python数据读取与写入——从基础到高级实践](https://mp.weixin.qq.com/s/WSNwh-xOPNaCP55v_rC4YA)
 + [Python常用的6个设计模式，效率直接翻倍！](https://mp.weixin.qq.com/s/Q__JCVD69YzNhIql7JT_Qg)
++ [盘点Python新手小白常写的10大“反人类”语法](https://mp.weixin.qq.com/s/-lOsg1TiDaIr4tCGXv5YBQ)
 
 ## 新特性
 
@@ -1207,3 +1209,4 @@
 + [C++与Python：内存管理与指针的对比](https://mp.weixin.qq.com/s/C75Haa47Oeq5DsPwA0BMSw)
 + [用Python实在是太方便了，可读性太强了，写得也太快了](https://mp.weixin.qq.com/s/7v13huH_fsfua4ZJQP3UBw)
 + [为什么Python比C++运行速度慢却如此受欢迎？](https://mp.weixin.qq.com/s/_qD1ibk289aUqpMOMFg8-g)
++ [Rust：Python 性能优化的新引擎](https://mp.weixin.qq.com/s/KhohfgrUfLJ2vB8-hQzguQ)

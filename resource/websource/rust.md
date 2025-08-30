@@ -126,6 +126,12 @@
 + [一文搞懂 Rust “切片” 与 “切片引用” 关系](https://mp.weixin.qq.com/s/oVMn9XyeMCHPW4vuXrn_dw)
 + [Rust 算法： KMP 高效的字符串匹配](https://mp.weixin.qq.com/s/d3eiTi7qD2k2t6dGF-Ts2A)
 + [Rust 追踪艺术：Tracing Crate 高级进阶实战指南](https://mp.weixin.qq.com/s/MzRerizMDK45eze2-fMG5A)
++ [Rust 工作空间中的二进制文件管理](https://mp.weixin.qq.com/s/aJwT6eSZVtYTOpWzx_ozDw)
++ [Rust队列实现：从零开始构建高效内存安全的数据结构](https://mp.weixin.qq.com/s/9j-WDJKBk0c0AwkblGfbIw)
++ [从 0 掌握 Rust Box 智能指针](https://mp.weixin.qq.com/s/A-e6i3Jo9mwaDnSBmyIcBg)
++ [Rust 中的“闪电并发”：DashMap 并发哈希映射小白实战指南](https://mp.weixin.qq.com/s/uzbsAza0XWnlulMZ9YqoZw)
++ [Rust语言Copy trait与Clone trait的区别](https://mp.weixin.qq.com/s/CL6TcQjFI1hYmIv3q9EJ8w)
++ [Rust 泛型高阶秘籍：从熟练工到代码巫师的进阶实战之旅](https://mp.weixin.qq.com/s/XRb5pJUp9gVxIpkhPaOAgg)
 
 # 框架
 
@@ -208,3 +214,4 @@
 + [我最近迷上了 Rust，结果发现背后是未来](https://mp.weixin.qq.com/s/Vs542elz-svLthmL6ee8ng)
 + [Zig 与 Rust 到底该怎么选？](https://mp.weixin.qq.com/s/cygGtQyIAnIDzNQ-7Zdh6A)
 + [哲学家与工程师：为何Rust和Go的“官方之声”如此不同？](https://mp.weixin.qq.com/s/-dTtBBUlCOlC-Rr4R2bxmQ)
++ [为什么越来越多的大厂选择使用 Rust 开发？](https://mp.weixin.qq.com/s/YTYZVg3BRhKYteyB60KQfw)

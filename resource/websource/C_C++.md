@@ -277,6 +277,8 @@
 + [宏定义背后的陷阱：一段 C++ 代码的反常行为](https://mp.weixin.qq.com/s/NirnKe_Q4M-6-hDYV0I6YQ)
 + [C++文件操作：流式编程的优势](https://mp.weixin.qq.com/s/qi_GtPzknjALgvsQtcKcnQ)
 + [把“自由量裁权”还给编译器：C++ inline，不是 “避免函数调用开销” 那么简单](https://mp.weixin.qq.com/s/dt_1gFbVro3iVpu3o01csg)
++ [C++之filesystem文件系统](https://mp.weixin.qq.com/s/GMBH3Fp8ze-6A8DKjyfC3w)
++ [C++单例：警惕循环引用风险，拒绝单例互相依赖](https://mp.weixin.qq.com/s/QGq9KqNQne438I60UIsk2Q)
 
 #### 指针
 
@@ -494,6 +496,7 @@
 + [C++行为型模式之模板方法模式](https://mp.weixin.qq.com/s/Oanra5p9vIDvuxHn0OJnTw)
 + [C++行为型模式之访问者模式](https://mp.weixin.qq.com/s/zHfcmBdVBZlwZ1hsO9QkXw)
 + [C++行为型模式之备忘录模式](https://mp.weixin.qq.com/s/6vEJTdmeWKr7bFrdwN4DYw)
++ [C++之单例模式](https://mp.weixin.qq.com/s/48RZdoCWxFojBjEDq8e3Mw)
 
 #### 并发
 
@@ -864,6 +867,8 @@
 + [实用的嵌入式C功能代码片段，开发更高效~](https://mp.weixin.qq.com/s/1K8CR85cyDqVb37tNlGqMw)
 + [谈C编程---简洁高效的CRC查表宏实现](https://mp.weixin.qq.com/s/6qeMFPr9b_Lsm_Xj2fKeJA)
 + [C语言结构体数组：批量管数据指南](https://mp.weixin.qq.com/s/bT9jf_F83DJ-TebLEjXnWw)
++ [C语言交换两个变量的值。](https://mp.weixin.qq.com/s/bEc8VUFJVC01EPwZbpqCTg)
++ [C语言实现快速排序详解](https://mp.weixin.qq.com/s/4qeh-ugHo1gxzHcxz-GA5Q)
 
 ### 前景
 

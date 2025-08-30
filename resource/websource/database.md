@@ -974,6 +974,9 @@
 + [揭秘Redis LRU算法背后的秘密](https://mp.weixin.qq.com/s/IF_mJUF8sPEblhZ0T0g3pw)
 + [Redis为什么要用近似LRU？](https://mp.weixin.qq.com/s/GAV85R_2rt3wz4EJChCugw)
 + [Redis发布/订阅模式背后的秘密：源码级详解](https://mp.weixin.qq.com/s/fghR5h5CS5JOmoam39fJfg)
++ [揭秘Redis跳表：为何能轻松实现高效排序？](https://mp.weixin.qq.com/s/_C2yLnyzO3k1alVzrasIIQ)
++ [揭秘Redis高效事件驱动内幕](https://mp.weixin.qq.com/s/Vrqp7rXdNQGXJveZPsknbQ)
++ [Redis跳跃表：揭秘高效数据结构](https://mp.weixin.qq.com/s/26Alf0akCa4Re2VfsS7s2g)
 
 #### 分布式锁
 
@@ -1014,6 +1017,7 @@
 + [Redis多级缓存指南：从前端到后端全方位优化！](https://mp.weixin.qq.com/s/9Hbe9vLnMTXc7hxVpFMqLA)
 + [Redis 实现分布式缓存](https://mp.weixin.qq.com/s/N_Qm2QoxFWZpQthuO4QzCw)
 + [Redis缓存三剑客：穿透、雪崩、击穿—手把手教你解决](https://mp.weixin.qq.com/s/IqzJyiVnYRVYlatfAnq91A)
++ [Redis：缓存雪崩、穿透、击穿的技术解析和实战方案](https://mp.weixin.qq.com/s/4N455ftg88VFp-ayQ6IH4A)
 
 #### 限流
 

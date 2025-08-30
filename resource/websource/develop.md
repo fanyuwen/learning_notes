@@ -715,6 +715,7 @@
 + [解密百万并发秒杀架构：如何在1秒内抗住流量洪峰](https://mp.weixin.qq.com/s/WlWaOnhaXrTlK7vYdfeMwA)
 + [程序员必看：两个思想优化90%的代码](https://mp.weixin.qq.com/s/K05TLKtjrHD2w_sxY7_QZg)
 + [while vs for：实战与选型](https://mp.weixin.qq.com/s/WF9_aSu2xCdvm_MXygMJDQ)
++ [高并发系统架构设计与核心概念——读多写少系统](https://mp.weixin.qq.com/s/WVt13LR0sFRQZSSw70qMVw)
 
 # 测试相关
 

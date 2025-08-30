@@ -459,7 +459,6 @@
 + [函数式编程在 Java：Function、BiFunction、UnaryOperator 你真的会用？](https://mp.weixin.qq.com/s/laHcsY0n10FefJmDXak0Ug)
 + [Java - Lambda表达式之内置函数式接口](https://mp.weixin.qq.com/s/T1A0qULJFf10ehGODspVoA)
 + [一些 Function 优雅实战代码参考](https://mp.weixin.qq.com/s/YPw1gh69qLle4KBKVJIhbg)
-+ [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
 + [一些 Function 代码实战参考](https://mp.weixin.qq.com/s/nE2_VHuonxqgNBtYmK5cmw)
 + [连“双重分派”都不知道，还敢说是高级 Java 开发工程师？](https://mp.weixin.qq.com/s/MhocNaef71RRGnfq4RWIGg)
 + [面试官再问Comparable？这篇怪兽文甩给TA！](https://mp.weixin.qq.com/s/NJiVv-ZW-h5yeLCsOXUhnQ)
@@ -877,7 +876,6 @@
 + [Java真的不难（二十七）多线程(一)](https://mp.weixin.qq.com/s/Z1T_rO0NLIwWSLM9OSv7oQ)
 + [Java真的不难（二十九）多线程（三）](https://mp.weixin.qq.com/s/Co0ZjBt-bbxpV8QXsy0hmA)
 + [线程的单例模式](https://mp.weixin.qq.com/s/ytguHag3e80JAo0PYMj6UA)
-+ [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
 + [Java并发编程对象组合与封闭性实践指南](https://mp.weixin.qq.com/s/09X9ul9PxmNkNSZzbvNX2A)
 + [Java 异常处理难点突破：Lambda 表达式与并发编程的优雅解决方案](https://mp.weixin.qq.com/s/5geY3xjAhMwtbq6XWEtMLA)
 + [一文搞懂线程、协程、虚拟线程的区别](https://mp.weixin.qq.com/s/iAfxrvL-cUxVJG6R3F1JgA)
@@ -1075,6 +1073,7 @@
 + [浅谈并发编程中的死锁问题](https://mp.weixin.qq.com/s/w4CIFNHjvn3KAPe8XGt6tg)
 + [Java 面试官必问：synchronized 底层原理与 Lock 的核心区别](https://mp.weixin.qq.com/s/iv86_9mj5arfPQ0SLOZJCw)
 + [深入解析AQS：揭秘Java并发编程的基石](https://mp.weixin.qq.com/s/YkX85k7E38GKNiM7TTDAyA)
++ [面试官再问synchronized底层原理，这样回答让他眼前一亮！](https://mp.weixin.qq.com/s/hrGQvrfIE9fEUOD8hKN5wg)
 
 #### volatile
 
@@ -1338,12 +1337,55 @@
 
 ## lang库
 
+### String
+
++ [String、StringBuffer 和 StringBuilder，别再用错了！](https://mp.weixin.qq.com/s/lpKWHsH65kxI-yspvgRzfA)
+
+### ThreadLocal
+
 + [ThreadLocal的内存泄漏问题及其解决方案](https://mp.weixin.qq.com/s/7pmi2iQBQKq0whiTIAwRkg)
 + [面试被问ThreadLocal要怎么回答？](https://mp.weixin.qq.com/s/1ewVqm0fE6Nd8GYD-yjC5g)
 + [基于TTL 解决线程池中 ThreadLocal 线程无法共享的问题](https://mp.weixin.qq.com/s/nOAOspvGecjj2evX1Xtq_g)
 + [面试官：小伙子，听说你看过 ThreadLocal 源码？(万字图文深度解析)](https://mp.weixin.qq.com/s/WKaUzChzj2PIcqiw05jcIA)
 + [InheritableThreadLocal 是如何实现的父子线程局部变量的传递](https://mp.weixin.qq.com/s/UPG0UqsrxYjPRLT0oQVBIw)
 + [Java 中的 ProcessBuilder：让你的程序掌控系统命令](https://mp.weixin.qq.com/s/hHEMEDcRs3Dgj3kMxGw0Kg)
++ [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
++ [面试练习 | 解释ThreadLocal的工作原理及其用途](https://mp.weixin.qq.com/s/rY5JefyyXPYhLHcz1e7MeQ)
++ [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
++ [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
++ [Java中的ThreadLocal：原理、注意事项及常见面试题](https://mp.weixin.qq.com/s/eCXDg33wIlJIJBtB9wPJOg)
++ [放弃ThreadLocal！TTL真香](https://mp.weixin.qq.com/s/WO2yqup5U3xTZAu0yvyMEg)
++ [什么？！90%的ThreadLocal都在滥用或错用！](https://mp.weixin.qq.com/s/ZpXd20jbvuXYZ0FLrF35-Q)
++ [ThreadLocal最全详解(万字图文总结)](https://mp.weixin.qq.com/s/WtMLAU59LQh8hTE-RKf1mA)
++ [ThreadLocal详解，再也不怕面试官了](https://mp.weixin.qq.com/s/DZ978WVSd02TowYqHo1Snw)
++ [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
++ [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
++ [ThreadLocal为什么会导致内存泄漏？如何解决的？](https://mp.weixin.qq.com/s/aqkc3J-nao_7stuimte7GQ)
++ [ThreadLocal 实践与源码解析](https://mp.weixin.qq.com/s/WpkpPXodaBk7IfaRjsS8AA)
++ [面试官：为什么threadLocal有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/ZmG9V-J5YCkl7BdRUif4jw)
++ [面试官：ThreadLocal有哪些应用场景](https://mp.weixin.qq.com/s/vUxcCZMhXzRgmG4-Jr--_g)
++ [面试官：ThreadLocal的原理是什么？](https://mp.weixin.qq.com/s/KPyoz0uNikgD2vSkn6LO6g)
++ [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/r_pPhTtieZcok_vscZpkcQ)
++ [面试必杀技！ThreadLocal的难点、面试高频问题、实际使用场景等多个维度！](https://mp.weixin.qq.com/s/q6vkAhwnoyXVl5D7tAMjDg)
++ [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/nd6mDC2vJx-Aq3Eb18Jsaw)
++ [ThreadLocal：线程的“私人储物柜”如何解决并发难题？](https://mp.weixin.qq.com/s/R5NK--nJF9vpLWOr9aq9-Q)
++ [面试 ThreadLocal，被问懵了？看完这篇文章你就稳了！](https://mp.weixin.qq.com/s/M4gwVjjQmEbkLLyglqnwiQ)
++ [阿里 P7 级面试题：ThreadLocal 为什么会内存泄漏？如何解决？](https://mp.weixin.qq.com/s/kE1LU7lscXdUQsCV7G0_PQ)
++ [如何实现链路追踪，从ThreadLocal讲起](https://mp.weixin.qq.com/s/aat2kG8bQyEY_KIT6M2xlg)
++ [Java线程池 - ThreadLocal底层原理与内存泄漏OOM（建议收藏=官方文档+源码+复现+可视化分析+解决方案+实验）](https://mp.weixin.qq.com/s/pYEYZU-WeA_HXscQ3ywZzw)
++ [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
++ [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
++ [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
++ [Java ThreadLocal 应用指南：从用户会话到数据库连接的线程安全实践](https://mp.weixin.qq.com/s/VAmcXlka1AeGAIgnMkpZTw)
++ [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
++ [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
++ [ThreadLocal详解：解决多线程数据共享的神器](https://mp.weixin.qq.com/s/0PDBPS5JcwiEvG3xS0q6yg)
++ [ThreadLocal：线程的专属宝藏库，你真的会用吗？](https://mp.weixin.qq.com/s/0RJPvBlxfT64LkfOS7ZB-Q)
++ [ThreadLocal 还不会用？看完这一篇就够了](https://mp.weixin.qq.com/s/KrkG9eAI14K0t-J6oD2RKg)
++ [轻松掌握Java多线程 - 第七章：ThreadLocal的使用](https://mp.weixin.qq.com/s/0H4S4grMrLwKUVatqIZngg)
++ [一文看懂ThreadLocal的原理](https://mp.weixin.qq.com/s/IRmSViFqWj10y2-FdxJ5ig)
++ [一文看懂ThreadLocal内存泄漏](https://mp.weixin.qq.com/s/g2GDUQ2Rqj4IXzmbYnx8jg)
++ [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
 
 ## math库
 
@@ -1414,6 +1456,7 @@
 + [Java 8 Stream API 终极指南：从原理到实战，彻底告别冗长代码](https://mp.weixin.qq.com/s/HJxtnc9t2Z2_ESkbwgS6pQ)
 + [Java Stream流实战：分组、过滤、去重等常用操作详解](https://mp.weixin.qq.com/s/aMzxbBoVoXgsU5yfhhX68Q)
 + [Java Stream findFirst方法的空指针陷阱详解](https://mp.weixin.qq.com/s/GADk8E2xUhAqARlWtilTKg)
++ [Java Stream流：告别for循环，开启高效编程！](https://mp.weixin.qq.com/s/oFRY51cUjgIa2nig_oB1VA)
 
 ### Date/time
 
@@ -1452,6 +1495,7 @@
 + [吃透Java集合框架，这篇就够了](https://mp.weixin.qq.com/s/Zd-mpz-6_UdsLVhvsVp85A)
 + [Java 集合--快速掌握涵盖三大场景实现的Set集合底层原理](https://mp.weixin.qq.com/s/lUWM-NBvg-xne4GdbyaysA)
 + [List排序不用愁，这几招轻松搞定](https://mp.weixin.qq.com/s/MXMa_Nww4WWzO62xQytdNg)
++ [别再乱 new ArrayList！8 大 Java 容器选型案例，一篇看懂](https://mp.weixin.qq.com/s/EndqGyUzmHy5KYU07o4ATA)
 
 #### map
 
@@ -1621,49 +1665,10 @@
 + [线程池新标杆！美团动态线程池太香了！](https://mp.weixin.qq.com/s/S_gZtNHOt3kp7NOY_EZSnw)
 + [美团动态线程池，真香啊！](https://mp.weixin.qq.com/s/FrMbXmVBO2prgQ3fWcg1dQ)
 + [Java线程池底层是怎么创建和运行的？（源码阅读）](https://mp.weixin.qq.com/s/kd_Ou3TzD-tUZRYvCxUQHw)
-+ [面试练习 | 解释ThreadLocal的工作原理及其用途](https://mp.weixin.qq.com/s/rY5JefyyXPYhLHcz1e7MeQ)
 + [面试官狂喜！我用这 5 分钟讲清了 ThreadPoolExecutor 饱和策略，逆袭上岸](https://mp.weixin.qq.com/s/7lcS_5N3hsyjvsqSBxa9qA)
 + [Java线程池 - 深入解析ThreadPoolExecutor的底层原理（源码全解析一篇就够）](https://mp.weixin.qq.com/s/MXKz7Mulm8pSVMwsD1fabw)
 + [【面试+实战】ScheduledThreadPoolExecutor 全解析，收藏即用！](https://mp.weixin.qq.com/s/ZPV8R8Cpl8XzlWnlV3S84w)
 + [Java线程池参数设置：corePoolSize、maxPoolSize该如何合理配置？阿里P9的实践经验](https://mp.weixin.qq.com/s/OJkM3LKSlL_JCzYTBza5hw)
-
-### ThreadLocal
-
-+ [从ThreadLocal到TransmittableThreadLocal：关于线程变量上下文传递的革命](https://mp.weixin.qq.com/s/kGdDDt-wcH_ipwu3iTdrfQ)
-+ [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
-+ [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
-+ [Java中的ThreadLocal：原理、注意事项及常见面试题](https://mp.weixin.qq.com/s/eCXDg33wIlJIJBtB9wPJOg)
-+ [放弃ThreadLocal！TTL真香](https://mp.weixin.qq.com/s/WO2yqup5U3xTZAu0yvyMEg)
-+ [什么？！90%的ThreadLocal都在滥用或错用！](https://mp.weixin.qq.com/s/ZpXd20jbvuXYZ0FLrF35-Q)
-+ [ThreadLocal最全详解(万字图文总结)](https://mp.weixin.qq.com/s/WtMLAU59LQh8hTE-RKf1mA)
-+ [ThreadLocal详解，再也不怕面试官了](https://mp.weixin.qq.com/s/DZ978WVSd02TowYqHo1Snw)
-+ [ThreadLocal无法在多个线程之间进行上下文信息传递](https://mp.weixin.qq.com/s/OfaCBW_35bm3uKRk-xnwOg)
-+ [ThreadLocal 可能会造成数据污染](https://mp.weixin.qq.com/s/5o7oizuyCUXhzUn-DUdr8Q)
-+ [ThreadLocal为什么会导致内存泄漏？如何解决的？](https://mp.weixin.qq.com/s/aqkc3J-nao_7stuimte7GQ)
-+ [ThreadLocal 实践与源码解析](https://mp.weixin.qq.com/s/WpkpPXodaBk7IfaRjsS8AA)
-+ [面试官：为什么threadLocal有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/ZmG9V-J5YCkl7BdRUif4jw)
-+ [面试官：ThreadLocal有哪些应用场景](https://mp.weixin.qq.com/s/vUxcCZMhXzRgmG4-Jr--_g)
-+ [面试官：ThreadLocal的原理是什么？](https://mp.weixin.qq.com/s/KPyoz0uNikgD2vSkn6LO6g)
-+ [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/r_pPhTtieZcok_vscZpkcQ)
-+ [面试必杀技！ThreadLocal的难点、面试高频问题、实际使用场景等多个维度！](https://mp.weixin.qq.com/s/q6vkAhwnoyXVl5D7tAMjDg)
-+ [面试官灵魂一问：为什么 ThreadLocal 有自动清除机制还存在内存泄漏？](https://mp.weixin.qq.com/s/nd6mDC2vJx-Aq3Eb18Jsaw)
-+ [ThreadLocal：线程的“私人储物柜”如何解决并发难题？](https://mp.weixin.qq.com/s/R5NK--nJF9vpLWOr9aq9-Q)
-+ [面试 ThreadLocal，被问懵了？看完这篇文章你就稳了！](https://mp.weixin.qq.com/s/M4gwVjjQmEbkLLyglqnwiQ)
-+ [阿里 P7 级面试题：ThreadLocal 为什么会内存泄漏？如何解决？](https://mp.weixin.qq.com/s/kE1LU7lscXdUQsCV7G0_PQ)
-+ [如何实现链路追踪，从ThreadLocal讲起](https://mp.weixin.qq.com/s/aat2kG8bQyEY_KIT6M2xlg)
-+ [Java线程池 - ThreadLocal底层原理与内存泄漏OOM（建议收藏=官方文档+源码+复现+可视化分析+解决方案+实验）](https://mp.weixin.qq.com/s/pYEYZU-WeA_HXscQ3ywZzw)
-+ [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
-+ [什么？ThreadLocal增强版你还没用过？](https://mp.weixin.qq.com/s/PiAJoN8zJDQeE6BTHY98RQ)
-+ [ThreadLocal：Java多线程编程的“利器”与“陷阱”](https://mp.weixin.qq.com/s/pF6szpu8Y0l0s7FjxaZJNA)
-+ [Java ThreadLocal 应用指南：从用户会话到数据库连接的线程安全实践](https://mp.weixin.qq.com/s/VAmcXlka1AeGAIgnMkpZTw)
-+ [工作中对 InheritableThreadLocal 使用的思考](https://my.oschina.net/u/4090830/blog/18626652)
-+ [ThreadLocal原理分析](https://mp.weixin.qq.com/s/p4qQM38xTbTrOGSdQ99wXA)
-+ [ThreadLocal详解：解决多线程数据共享的神器](https://mp.weixin.qq.com/s/0PDBPS5JcwiEvG3xS0q6yg)
-+ [ThreadLocal：线程的专属宝藏库，你真的会用吗？](https://mp.weixin.qq.com/s/0RJPvBlxfT64LkfOS7ZB-Q)
-+ [ThreadLocal 还不会用？看完这一篇就够了](https://mp.weixin.qq.com/s/KrkG9eAI14K0t-J6oD2RKg)
-+ [轻松掌握Java多线程 - 第七章：ThreadLocal的使用](https://mp.weixin.qq.com/s/0H4S4grMrLwKUVatqIZngg)
-+ [一文看懂ThreadLocal的原理](https://mp.weixin.qq.com/s/IRmSViFqWj10y2-FdxJ5ig)
-+ [一文看懂ThreadLocal内存泄漏](https://mp.weixin.qq.com/s/g2GDUQ2Rqj4IXzmbYnx8jg)
 
 ### Lock
 
@@ -1771,6 +1776,7 @@
 + [深入解析AtomicInteger：CAS机制、乐观锁与ABA问题](https://mp.weixin.qq.com/s/bod0JdLbHbnTEl8caj-orA)
 + [信号量Semaphore：多线程编程中的红绿灯，你真的会用吗？](https://mp.weixin.qq.com/s/pl-5r77Kwi7K0U1twMsK7w)
 + [解密CountDownLatch：从源码剖析这个神奇同步工具的奥秘](https://mp.weixin.qq.com/s/r_SJmYYe2e2nDzXv8uQu4Q)
++ [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
 
 ## IO/NIO
 
@@ -2223,6 +2229,7 @@
 + [完爆 MyBatis-Plus ？来领略一下 MyBatis-Flex 的优雅魅力！](https://mp.weixin.qq.com/s/M5rc8AhZ5z_IgCT9aYBAuw)
 + [MySQL 8.0 JSON 字段太棘手？试试 MyBatis-Plus 的 JacksonTypeHandler，真香！](https://mp.weixin.qq.com/s/EOrLnN00oyFbeeeLgMBDVA)
 + [别再写 XML 了！MyBatis-Plus 这 11 个注解让代码量砍半](https://mp.weixin.qq.com/s/D3mjM-sanmNJpN35Y1m79Q)
++ [解锁 MyBatis-Plus 新认知：@TableName 注解工作机制全解析](https://mp.weixin.qq.com/s/Pi-8T0Nui2CubP4TCOgfBQ)
 
 ## nacos
 
@@ -2312,6 +2319,7 @@
 + [FeignClient动态路由新玩法：基于RequestInterceptor实现多环境/多租户目标服务无缝切换](https://mp.weixin.qq.com/s/Spbvs0eD65k8B7TNSRrB6Q)
 + [微服务之FeignClient详解](https://mp.weixin.qq.com/s/GH4oBwfqAh587wMIL9dyog)
 + [feign的一个注解居然隐藏这么多知识！](https://mp.weixin.qq.com/s/3spyP5G4LGk5bqgFVdO6uA)
++ [服务调用者联盟！OpenFeign+LoadBalancer负载均衡源码解剖](https://mp.weixin.qq.com/s/M0Meb0BvUipTPoF4oh_9cg)
 
 ## quarkus
 
@@ -2355,9 +2363,10 @@
 + [Redisson分布式锁(超时释放及锁续期)](https://mp.weixin.qq.com/s/XNk8l-2YPN_OxIcnpihUPA)
 + [Redisson简明教程—你家的锁芯该换了](https://mp.weixin.qq.com/s/pzYxLjvGPB9ayDrV74X9Gg)
 + [Redisson中也有延迟队列？](https://mp.weixin.qq.com/s/nUlvuqylY7hOsDH2Q2934Q)
-+ [基于Redission高级应用15-RHyperLogLog原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/TUAgWBsHN7e4rTQBPkD9aQ)
 + [最强分布式锁工具：Redisson](https://mp.weixin.qq.com/s/v4duFssWWjCYF5JhN4vzRg)
 + [Redission 分布式锁原理分析](https://mp.weixin.qq.com/s/7l9vaZODmki2nKBRssetqg)
++ [基于Redission高级应用15-RHyperLogLog原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/TUAgWBsHN7e4rTQBPkD9aQ)
++ [基于Redission高级应用16-RTimeSeries原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/iu-Yf0pE_dxUPu2Ieq9WQQ)
 + [基于Redission高级应用19-RMultimap原理及高级工具类封装解读](https://mp.weixin.qq.com/s/L7suESybzJQ1Mwt1Utu5pA)
 + [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
 
@@ -2788,6 +2797,7 @@
 + [带你了解一下Spring中的编程式事务](https://mp.weixin.qq.com/s/8xaSLjZ2Kxke5b8DEDOchA)
 + [多线程事务怎么回滚？说用@Transactional可以回去等通知了！](https://mp.weixin.qq.com/s/VJrg9xsGn-kLSmBiWck_Jg)
 + [为什么不推荐滥用@Transactional声明式事务](https://mp.weixin.qq.com/s/yNq6zR96XHY93Ykj2aql5g)
++ [Spring事务失效的场景](https://mp.weixin.qq.com/s/s4vewOWheqvLddOl-opGOw)
 
 ### Log
 
@@ -3752,6 +3762,7 @@
 + [Java进阶手册（五）SpringBoot的内容协商机制详解](https://mp.weixin.qq.com/s/ykcUigJcYbHy4svOTbFOEw)
 + [Spring Boot 接口敏感字段脱敏的5大"王炸"方案](https://mp.weixin.qq.com/s/HQEHUrJLsw37aUKPyRTCDw?click_id=97)
 + [告别 API 响应 "一刀切"！Spring Boot 细粒度控制秘籍，让接口返回更灵活](https://mp.weixin.qq.com/s/SW341Rz6pbJIIxeefZfBuA)
++ [AI浪潮下，解锁Spring Boot SSE推送新姿势](https://mp.weixin.qq.com/s/zMy77yq3jcoinQSJGn-O3w)
 
 ##### 文件上传下载
 
@@ -4153,6 +4164,7 @@
 + [Spring Boot中的代理模式：揭秘AOP背后的核心魔法](https://mp.weixin.qq.com/s/SiNr0gTavIEbBLbgTijjnA)
 + [SpringBoot事件驱动：观察者模式实战，让系统解耦如鱼得水！](https://mp.weixin.qq.com/s/73huoxrrd3NJs74jATzL2g)
 + [Spring Boot 使用策略模式 + 注册表模式构建动态规则引擎](https://mp.weixin.qq.com/s/ATUxzl9IHI7LNdypyoGO2g?click_id=56)
++ [Spring Boot中策略模式结合依赖注入的实现方式](https://mp.weixin.qq.com/s/CyRGlIMcdB9LuLVCc5S8ig)
 
 #### message
 
@@ -4381,6 +4393,7 @@
 + [JAVA：Spring Boot 集成 Temporal 实现订单处理系统](https://mp.weixin.qq.com/s/Mv8XfjekftiFyAqnTrwVEg)
 + [Spring Boot升级Redisson：分布式锁、异步流与集群架构的终极方案](https://mp.weixin.qq.com/s/g8R5mGY3UwZro4zLmGLQCw)
 + [Spring Boot 5种重试组件+自定义AOP实现重试](https://mp.weixin.qq.com/s/9yDLO-hWnZxXG5KhuhS1hw)
++ [JAVA：Spring Boot 集成 PageHelper 实现分页查询](https://mp.weixin.qq.com/s/y37fmAzofZipgwfcpQrNHQ)
 
 #### test
 
@@ -4880,3 +4893,4 @@
 + [第六章：索引构建与搜索算法](https://mp.weixin.qq.com/s/xQC98ZByrzYR3YySYWbfRg)
 + [EXCEL 导入 — 设计与思考](https://my.oschina.net/u/4090830/blog/18688901)
 + [设计Entity字段可以用基本数据类型吗？](https://mp.weixin.qq.com/s/zizos2_GAHuR3T61o06KgA)
++ [手写链路追踪](https://mp.weixin.qq.com/s/pqfdrzQz4fWUXuxHMi136Q)

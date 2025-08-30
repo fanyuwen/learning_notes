@@ -58,6 +58,7 @@
 + [SOLID原则之 LSP 里氏替换原则](https://mp.weixin.qq.com/s/MO6dPNsV_yh5l8_FVoNNUg)
 + [SOLID原则之OCP 开闭原则](https://mp.weixin.qq.com/s/D-m2p-dQuHJTSE0VSqXNZw)
 + [设计模式七大原则-迪米特法则](https://mp.weixin.qq.com/s/YUoKnQQNvIYsIzacaXlkgA)
++ [行为型设计模式：对象协作的舞蹈家（中）](https://mp.weixin.qq.com/s/xl6BLPHGUFL15ZwLRHWYcQ)
 
 ## 单例模式
 

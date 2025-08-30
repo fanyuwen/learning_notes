@@ -226,6 +226,7 @@
 + [值得学习的 10 个 代码知识库，助你进阶 JavaScript](https://mp.weixin.qq.com/s/yXOkPetQriE4yHIugGSzqw)
 + [彻底弄懂事件循环机制eventloop](https://mp.weixin.qq.com/s/qjq4r07AEsySFPfGkUDS8w)
 + [再见 try/catch，我有更好的选择了！](https://mp.weixin.qq.com/s/qzN9bq1YKUc9nKv158RyLw)
++ [理解 SOLID 原则：编写更简洁的 JavaScript 代码](https://my.oschina.net/powertoolsteam/blog/18689539)
 
 # 框架
 

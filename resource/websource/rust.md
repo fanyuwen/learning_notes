@@ -122,6 +122,8 @@
 + [Rust 中的动态分发与泛型：如何做出明智选择？](https://mp.weixin.qq.com/s/qPAMJuaBiL0c1UQbvo2mAg)
 + [Rust 算法解读：马拉车算法（Manacher）](https://mp.weixin.qq.com/s/oKCSNQ4KYH3ZLvHZXfTHWA)
 + [Rust 编程：Const 泛型与 Const fn 常量函数](https://mp.weixin.qq.com/s/U6Do4Z4YI6p2RLgGzLj1Ug)
++ [从原理到落地：深入剖析与 Rust 技术栈实战 crate 全景指南](https://mp.weixin.qq.com/s/drCcqWeBs35Q4gvy4kkmSg)
++ [一文搞懂 Rust “切片” 与 “切片引用” 关系](https://mp.weixin.qq.com/s/oVMn9XyeMCHPW4vuXrn_dw)
 
 # 框架
 
@@ -151,6 +153,7 @@
 + [Rust 中的并发与异步：高效执行多个 Future 的技巧与方法](https://mp.weixin.qq.com/s/DFdwNYt5UBcHx1nETLLE1g)
 + [揭秘 Rust Tokio：你真的懂异步运行时吗？](https://mp.weixin.qq.com/s/tEru0Yis0Tgy1TPrEbzRiw)
 + [Rust Async内幕：让代码学会"摸鱼"，效率还能翻倍的秘密！](https://mp.weixin.qq.com/s/oK525M83M9BTUtSOZAREuA)
++ [RUST编程语言的异步编程](https://mp.weixin.qq.com/s/wS8Wn8VesChvqEOXrD9nqQ)
 
 # 资源
 

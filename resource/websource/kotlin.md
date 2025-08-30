@@ -40,6 +40,9 @@
 + [Coroutine 101: From Zero to Hero](https://mp.weixin.qq.com/s/PrbFkUVhAYjzZwv61ZcAiQ)
 + [Kotlin协程之通信神器 Kotlin Channel](https://mp.weixin.qq.com/s/dgf4FkpB3t-M8V98MVOeSA)
 + [Kotlin suspend 函数的实现机制](https://mp.weixin.qq.com/s/lJnML72KoCY1RPs9_9dm6Q)
++ [Kotlin 异常处理新姿势：runCatching 与 try-catch 的对比](https://mp.weixin.qq.com/s/kJ4OQyC3ABs9LZujZSnC0Q)
++ [Kotlin协程码农秒变时间管理大师](https://mp.weixin.qq.com/s/1pY_-fNwBtxIAy9Y0x1dJg)
++ [一文掌握kotlin集合中的操作符](https://mp.weixin.qq.com/s/VEIiMi32pPE2zhIJLkrLCQ)
 
 ## 技术月报
 

@@ -124,6 +124,7 @@
 + [现代 C++ 基础 · vector 篇：为什么它比数组更安全、更好用？](https://mp.weixin.qq.com/s/iwFgsKBibSrbxmBdOlitVA)
 + [c++ static关键字多种用途和含义](https://mp.weixin.qq.com/s/aIUrbjhpjWd27v4w34xtlg)
 + [C++杂记：现代C++的初始化最佳实践](https://mp.weixin.qq.com/s/3P2tPY1bVROy3gyaq1VMYQ)
++ [C++ 中的四种类型转换操作符](https://mp.weixin.qq.com/s/WWEPC-KsIbZxTfusEsH4HA)
 
 ### 高阶
 
@@ -301,6 +302,7 @@
 + [透过汇编看 C++：虚函数表](https://mp.weixin.qq.com/s/FJbrAPlrsU04aqAlILaNcA)
 + [C++Lambda 表达式](https://mp.weixin.qq.com/s/OdhTt6iKXLbylzS8YpNEGw)
 + [C++的三种参数传递机制：从底层原理到实战](https://mp.weixin.qq.com/s/Lub0Y_l6jJnU_Oj-xuzQWQ)
++ [c++ Lambda 表达式闭包陷阱](https://mp.weixin.qq.com/s/gpzYwyN4KBk1w23WxV9K9w)
 
 #### 数据结构&算法
 
@@ -679,6 +681,8 @@
 + [谈C编程---const、inline和#define](https://mp.weixin.qq.com/s/JKHCuURucmH2eIwvvjGFbA)
 + [你知道C语言中&&和&的区别么？](https://mp.weixin.qq.com/s/lXkbPT2ZDpMCRk9znnj1xQ?click_id=17)
 + [那些年被误解的C语言宏定义：你真的懂#define吗？](https://mp.weixin.qq.com/s/AZdLsTa1OvjX7reoNqTWug)
++ [关于static的那些事，你都知道么？](https://mp.weixin.qq.com/s/-sr0Q7QnQYDuxgZpqo7zYQ)
++ [谈C编程---if...else的优化](https://mp.weixin.qq.com/s/iXDSCiDNSH8Gy1ivx6TWew)
 
 ### 高阶
 
@@ -771,6 +775,7 @@
 + [C语言多维数组与指针：行地址怎么“跳”，列地址怎么“跑”？](https://mp.weixin.qq.com/s/di5NNEA-aPw1QNngzgJE-w)
 + [谈C编程---数组](https://mp.weixin.qq.com/s/lzVU1ie-ZFUYmn8hpga0kQ)
 + [数组与行指针](https://mp.weixin.qq.com/s/xm3ECYEQRVrCTf1RibohDQ)
++ [C语言实用干货：指针数组详解](https://mp.weixin.qq.com/s/KXbPUlIo-cEv3nlkrEvSAw)
 
 #### 结构体/公用体
 
@@ -831,6 +836,7 @@
 + [printf函数原理能不能简单点？----小话c语言(2)](https://mp.weixin.qq.com/s/oy0QQY_xOPhxI8hYgT_IMw)
 + [谈C编程---回调函数](https://mp.weixin.qq.com/s/B2LdmVj3rCLANRw_3wF5rQ)
 + [谈C编程---返回字符串指针的函数](https://mp.weixin.qq.com/s/iqbMwcNRedD_EkVi-kmRGA)
++ [C语言「指针函数」VS「函数指针」](https://mp.weixin.qq.com/s/y-63QlRIhajQ260cWTOn9g)
 
 #### 库
 
@@ -848,6 +854,8 @@
 + [C语言中5个不常使用但有趣的特性](https://mp.weixin.qq.com/s/eGVqMGkt9oFrK7GWFQn_pw)
 + [C语言实现归并排序详解](https://mp.weixin.qq.com/s/gY9R0Cl4AoRke4GdSIVNSA)
 + [实用的嵌入式C功能代码片段，开发更高效~](https://mp.weixin.qq.com/s/1K8CR85cyDqVb37tNlGqMw)
++ [谈C编程---简洁高效的CRC查表宏实现](https://mp.weixin.qq.com/s/6qeMFPr9b_Lsm_Xj2fKeJA)
++ [C语言结构体数组：批量管数据指南](https://mp.weixin.qq.com/s/bT9jf_F83DJ-TebLEjXnWw)
 
 ### 前景
 
@@ -966,6 +974,7 @@
 + [嵌入式 C 语言避坑指南：sizeof 的 5 个致命陷阱，90% 的工程师都踩过雷！](https://mp.weixin.qq.com/s/_VryJXMSHuNmB23dZzpSfA)
 + [嵌入式软件开发中的通用接口技术：设计、实现与实践](https://mp.weixin.qq.com/s/OOz519LzOX9b0eXlfmh7sQ)
 + [线程编程详解：从基础到嵌入式实践](https://mp.weixin.qq.com/s/EQTBxzTvD_gxxzKSu8b73Q)
++ [设计模式:嵌入式C语言实现探索_13.状态模式](https://mp.weixin.qq.com/s/gjGandXKeaPfcb8IZyko7Q)
 
 # ARM
 

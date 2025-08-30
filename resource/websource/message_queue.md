@@ -137,6 +137,7 @@
 + [Kafka底层原理最全详解(图文全面总结)](https://mp.weixin.qq.com/s/spqLIl5wx9VMEXVNdkYI4A)
 + [高并发场景下，Kafka如何抗住亿级流量？](https://mp.weixin.qq.com/s/8W1W2ukj4ULaLHRTPSbsGA)
 + [Kafka 基础概念全解析：从消息队列到核心组件](https://mp.weixin.qq.com/s/MxpARNIMy0qgT1WVQcsdmQ)
++ [Kafka Broker 核心原理全解析：存储、高可用与数据同步](https://mp.weixin.qq.com/s/zH4gsR-d_XKyvtk18McqoQ)
 
 # ROCKETMQ
 

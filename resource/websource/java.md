@@ -91,6 +91,7 @@
 + [Java分支结构——if-else与switch的优化选择策略](https://mp.weixin.qq.com/s/3Fnans41HoKpahpg_TDxQA)
 + [Java中内部类和普通类有什么区别？什么时候用内部类？](https://mp.weixin.qq.com/s/AN59piK6OsCE_NSiOuoGkQ)
 + [static关键字——静态变量、方法与代码块的应用场景](https://mp.weixin.qq.com/s/CTqWqbm6wpUnze0vTCgZvw)
++ [面试官盯着问的 final 关键字，这篇拆解到字节级](https://mp.weixin.qq.com/s/zH9v7jtT_fhxWL_DXHhsmA)
 
 ### 方法/函数
 
@@ -978,6 +979,7 @@
 + [07-线程池之ForkJoinPool](https://mp.weixin.qq.com/s/pmFS43qB5VTgMfMWa_pbUg)
 + [一文看懂Java线程池原理](https://mp.weixin.qq.com/s/rWEaZosRdrYUAFBebhhbjQ)
 + [Java线程池真的那么难懂吗？看完这篇你就全明白了！](https://mp.weixin.qq.com/s/E8mQ7zdnXR3-MXrldey7yQ)
++ [别只死背线程池七大参数了，面试官根本不是这么问的！](https://mp.weixin.qq.com/s/PVltq6pmo3cr1hWxjhwt_Q)
 
 #### 锁
 
@@ -1174,6 +1176,7 @@
 + [惊！掌握这些 JVM 参数调优技巧，小红书面试稳了](https://mp.weixin.qq.com/s/1nF-Ix8I8jLranX62x9BjA)
 + [JVM 本地内存跟踪（Native Memory Tracking in JVM）](https://mp.weixin.qq.com/s/01ikS_jl0pmMOraVXLnHDA)
 + [深入理解JVM字节码：invokedynamic](https://mp.weixin.qq.com/s/KkvFjDPkjIvDyKvSLGb6TA)
++ [提升Java开发效率的秘密武器：Jadx反编译工具详解](https://mp.weixin.qq.com/s/bNen1CHMfhi75E8m7NcdJw)
 
 ### 命令
 
@@ -1182,6 +1185,7 @@
 + [JVM参数调优，一文让你搞懂，再也不为应用操心了！](https://mp.weixin.qq.com/s/S9nAdu5lITlcldSscdPPyg)
 + [手把手教你使用JConsole](https://mp.weixin.qq.com/s/0PqnXot-taBSnbRKHj0rQQ)
 + [加一个JVM参数，让系统可用率从95%提高到99.995%](https://mp.weixin.qq.com/s/xMJ_2bkOUQvrb7GzGIyhmA)
++ [JVM 系列(七)：实战掌握五大JDK工具，线上问题不再慌！](https://mp.weixin.qq.com/s/Ny0M6Qcxgz6IEI9DapQGzg)
 
 ### 内存
 
@@ -1246,6 +1250,9 @@
 + [Java 基本功之内存诊断](https://mp.weixin.qq.com/s/7tiizzF3LV4rp82oG2MC4g)
 + [Java 内存模型（JMM）原理剖析：从底层看懂线程安全](https://mp.weixin.qq.com/s/FaEA8aOm1UGEOsSntHhjRg)
 + [总结Java中常见的OutOfMemory](https://mp.weixin.qq.com/s/O4qUABF2JheundtkDbhgTA)
++ [JVM篇-JVM内存划分](https://mp.weixin.qq.com/s/AaqSnh1dEvD9G7AGH1XFeA)
++ [JVM 系列(一)：内存结构彻底搞懂了？图示 + 实例 + 晋升机制全讲透！](https://mp.weixin.qq.com/s/EfQVyHvBG9fQxyXe-dRPDQ)
++ [JVM篇-对象创建过程以及内存分配策略](https://mp.weixin.qq.com/s/UZnBLo7EfERysDWnkPpM0g)
 
 ### 类加载
 
@@ -1323,6 +1330,7 @@
 + [垃圾回收黑科技：分代收集+三大算法，让你的Java性能飙升！](https://mp.weixin.qq.com/s/htlFbGH4kVzD6CF6g1n7VQ)
 + [垃圾回收算法有哪些？了解哪些垃圾回收器？](https://mp.weixin.qq.com/s/5OXH6oNN3MjqFyzTCwSLZQ)
 + [虚引用 GC 耗时分析优化（由 1.2 降低至 0.1 秒）](https://my.oschina.net/u/4090830/blog/18688164)
++ [JVM篇-GC垃圾回收](https://mp.weixin.qq.com/s/K3ctlOhwqWbkA6dZn7Ma8Q)
 
 # 核心库
 
@@ -1887,6 +1895,7 @@
 
 ## apache lib
 
++ [别再小看它！Apache Commons，这把被低估的 Java 瑞士军刀，功能远超你想象](https://mp.weixin.qq.com/s/u-TSsbzgCoR9T9oNwhqsRw)
 + [Apache Commons：被低估的 Java 开发 “瑞士军刀”，90% 的人只用了 10% 的功能](https://mp.weixin.qq.com/s/HIgaJJZssfMsI3uajY0YEA)
 + [Apache Commons Math：不仅仅能解决在Java中0.1+0.2=0.30000000000004的数学计算工具包](https://mp.weixin.qq.com/s/Zngz8uyHRBgKxaMkkC78Yw)
 + [Apache Commons ValidationUtils：让参数校验从 "体力活" 变 "优雅事"](https://mp.weixin.qq.com/s/S2ME0UkdSKh8Bbrj6kIg1A)
@@ -2168,6 +2177,8 @@
 + [MyBatis流式查询详解](https://mp.weixin.qq.com/s/VGTTYj54-fO35jbfAh7IIQ)
 + [MyBatis 注解开发：从零到精通全指南](https://mp.weixin.qq.com/s/tBA6IcWe1rHkDKUVw2Vjpg)
 + [JAVA：MyBatis 核心组件详解的技术指南](https://mp.weixin.qq.com/s/vaoqUPNwT4IN4ekJ5-9qWg)
++ [MyBatis动态SQL优化：WHERE 1=1真的必要吗](https://mp.weixin.qq.com/s/_Gc1UjNWXvygz_BY7f2O9A)
++ [JAVA：MyBatis 如何处理延迟加载的技术指南](https://mp.weixin.qq.com/s/O3pPnrMcrst8faKl_Z8XxA)
 
 ### plus
 
@@ -2275,6 +2286,9 @@
 + [Netty进阶之路：ByteBuf内存管理与零拷贝技术源码级剖析，性能炸裂！](https://mp.weixin.qq.com/s/0GPEBmsKebpEGzs0TAhTAw)
 + [从零手写迷你 Netty 系列（一）：彻底搞懂 Java NIO 网络模型设计原理](https://mp.weixin.qq.com/s/KBWE6ONzs4aDFd97YX7WBQ)
 + [从零手写迷你 Netty 系列（六）：Java NIO 实现长连接的心跳检测机制](https://mp.weixin.qq.com/s/uq-rmszocbWVc_aoc7AlBA)
++ [Netty 客户端与服务端选型分析：下位机连接场景](https://mp.weixin.qq.com/s/itT_qJCNJLcq8-9uRaEEGQ)
++ [工业级TCP客户端高可靠连接架构设计与Netty优化实践](https://mp.weixin.qq.com/s/SA_H-ctTwTuxGZVTAgOrUg)
++ [工业物联网千万级设备通信优化：Netty多帧解码器实战，性能提升](https://mp.weixin.qq.com/s/-k_jU80mCbLShnjHKdKRMQ)
 
 ## okhttp
 
@@ -2338,6 +2352,7 @@
 + [基于Redission高级应用15-RHyperLogLog原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/TUAgWBsHN7e4rTQBPkD9aQ)
 + [最强分布式锁工具：Redisson](https://mp.weixin.qq.com/s/v4duFssWWjCYF5JhN4vzRg)
 + [Redission 分布式锁原理分析](https://mp.weixin.qq.com/s/7l9vaZODmki2nKBRssetqg)
++ [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
 
 ## ribbon
 
@@ -2868,6 +2883,7 @@
 + [Spring AOP 核心概念全解析：从动态代理到切面编程实战](https://mp.weixin.qq.com/s/YmhNI4nlOyzM-w8mvwskzg)
 + [Spring中AOP的一些核心概念讲解](https://mp.weixin.qq.com/s/CFhnbPIQOfYTEiKNTojgtw)
 + [Spring 源码精讲 03 - 切面编程（AOP）](https://mp.weixin.qq.com/s/Z8hbKKhoPQ18zdR_bmGUDA)
++ [Aop校验切面表达式的两种方式](https://mp.weixin.qq.com/s/am9P_j_rONSvMvfCKSRgJw)
 
 ### 配置打包部署
 
@@ -4639,6 +4655,7 @@
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
 + [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
++ [Java缓存穿透：布隆过滤器 + 空值缓存 + 参数校验，3种方案彻底解决！](https://mp.weixin.qq.com/s/tfyqRW8w7_r1TE5HvojUNw)
 + [JAVA：一致性哈希（Consistent Hashing）算法的技术指南](https://mp.weixin.qq.com/s/1hpDaPGRolbL5GDVjdpVQw)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [了解编程语言的编译器：从 CPU 指令到云原生，一次搞懂编译、字节码、JIT/AOT。你不会连自己写的代码怎么跑的都不知道吧？](https://mp.weixin.qq.com/s/3tJBCsSaq0i7Vzzawn_zHA)
@@ -4654,6 +4671,7 @@
 + [一个由默认值引发的BUG，开发直呼冤枉](https://mp.weixin.qq.com/s/80HRh5E9yph46JAP49GTVg)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [当下，哪种编程语言比较流行？](https://mp.weixin.qq.com/s/BPf6aF55dMrAswq7V8Wi7Q)
++ [JAVA：Mysql 常见面试题的技术指南](https://mp.weixin.qq.com/s/4hRYkxlBtbvbavpyG7S8gQ)
 + [Java实习模拟面试之多路递归：斐波那契数列的性能陷阱与优化策略](https://mp.weixin.qq.com/s/mw339mNb_Y0zK4AnB1_nqg)
 + [对5个Web框架进行了十亿次请求测试-这是幸存者的故事](https://mp.weixin.qq.com/s/6hRilvvGkdIYjAE9X8pCxg)
 + [线上性能优化实战：从200ms到2ms的sql优化，性能提升100倍](https://mp.weixin.qq.com/s/MJjpkHRmSn29cYUMbnHKFQ)

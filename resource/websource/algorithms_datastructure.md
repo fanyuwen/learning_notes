@@ -43,6 +43,7 @@
 + [大厂常考的8道链表算法题！](https://mp.weixin.qq.com/s/T-M6VrcSZvQ2LZKRZOvYcg)
 + [优先队列及其应用](https://mp.weixin.qq.com/s/erMgYPnZRWkWNgN_J7HIQA)
 + [图解布隆过滤器｜工作原理｜代码实现](https://mp.weixin.qq.com/s/N7XQiqaEVM1CWpI253ietg)
++ [布隆过滤器到底有多神奇？一文带你彻底搞懂它的秘密！](https://mp.weixin.qq.com/s/ZwfmZp4KgcnpZeFbVenEPw)
 + [栈的四种模型](https://mp.weixin.qq.com/s/BR8GBSc-wktcUZFCkgfBGg)
 + [缓存穿透的解决方式？—布隆过滤器](https://mp.weixin.qq.com/s/7p_3FpgvOZ98a28w-VLexg)
 + [LRU 缓存](https://mp.weixin.qq.com/s/Vc9tQ1OewpnggQhhyh7QUQ)
@@ -109,6 +110,8 @@
 + [详解动态规划2: 方法论篇](https://mp.weixin.qq.com/s/zOgsgs5G4oXEw-EXv97ZgQ)
 + [大白话聊一聊，数据结构的基石：数组和链表](https://mp.weixin.qq.com/s/m_85p9cXzYW1qi4ndHJO3g)
 + [哈希函数到底是个啥？看完这篇你就全懂了！](https://mp.weixin.qq.com/s/qpGix4Nbq_PIA2UMSbvSnQ)
++ [一致性哈希算法详解：大厂如何构建弹性伸缩的分布式缓存](https://mp.weixin.qq.com/s/lpJYuTWYraXE_JOo1m0waA)
++ [用 JSON 表现树的结构兼谈队列、堆栈的练习（一）](https://mp.weixin.qq.com/s/quzNMNFiEO1B76h8U-W0PQ)
 
 ## Graph
 
@@ -227,4 +230,5 @@
 + [剑指offer-13、调整数组顺序使奇数位于偶数前面（一）](https://mp.weixin.qq.com/s/a7n5LLuEoSvoVpj_YEGIcA)
 + [剑指offer-14、链表中倒数第k个结点](https://mp.weixin.qq.com/s/gKBuD-fzLSGVJvASWubeRg)
 + [剑指offer-16、合并两个有序链表](https://mp.weixin.qq.com/s/UoPMafS8WzXghM09AFbz-g)
++ [剑指offer-25、复杂链表的复制](https://mp.weixin.qq.com/s/1A6CkHTfUeRwxonVdX_OJA)
 + [LeetCode热题100之链表I](https://mp.weixin.qq.com/s/3dqSih_HV5F60DZGHcvRZQ)

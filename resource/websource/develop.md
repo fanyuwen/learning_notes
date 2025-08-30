@@ -92,6 +92,7 @@
 + [图解来了！10种黄金软件架构模式，一看就懂](https://mp.weixin.qq.com/s/xqt0fwSJoR8qtxmeC_deQg)
 + [《架构现代化》- 6](https://mp.weixin.qq.com/s/yGDdvaPPnFnJMqZGLwnpjg)
 + [架构提效的矛盾和矛盾的主要方面](https://my.oschina.net/u/4090830/blog/18688507)
++ [架构设计模式七大原则，小白秒懂的超全解析！](https://mp.weixin.qq.com/s/FpGUlp-q8X5d256rK_HE4A)
 
 ### DDD
 

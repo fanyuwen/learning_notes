@@ -459,6 +459,7 @@
 + [面试官连环追问：MySQL 的 order by 到底藏着多少玄机？](https://mp.weixin.qq.com/s/BtfIL_ZMVRcpKxzkmp0Wbw)
 + [MySQL的in数量限制1000个？](https://mp.weixin.qq.com/s/FDL0SF2Dwr2eaRSETr1o8w)
 + [线上千万级别表新增字段的方式](https://mp.weixin.qq.com/s/QORV1BqS6VqydxH98R5GfA)
++ [性能优化：如何快速获取全表数据](https://mp.weixin.qq.com/s/a618iR2UIyBsm8tkJn_17g)
 
 #### 存储引擎
 
@@ -970,6 +971,7 @@
 + [Redis底层结构(六)-Zset对应数据结构(listpack、skiplist)](https://mp.weixin.qq.com/s/q7yZIOg_KgIM_-zVpDekqA)
 + [单线程的Redis为啥这么快？](https://mp.weixin.qq.com/s/iR2K3bm46EfyQRnLOjXabw)
 + [Redis发布订阅深度剖析：redis如何实现发布订阅功能？](https://mp.weixin.qq.com/s/W8mlTTaNHs5Gcs9Xug350Q)
++ [揭秘Redis LRU算法背后的秘密](https://mp.weixin.qq.com/s/IF_mJUF8sPEblhZ0T0g3pw)
 
 #### 分布式锁
 

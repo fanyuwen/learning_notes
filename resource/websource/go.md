@@ -184,6 +184,8 @@
 + [一篇文章带你读懂goroutine的GPM模型](https://mp.weixin.qq.com/s/_8KfA8yPWKvOgLvUDLVQAw)
 + [最容易让你掉坑的 Golang 面试题：数据竞争（Data Race）](https://mp.weixin.qq.com/s/dj71WYJhhUignKpZ-6yV_Q)
 + [Go循环全攻略：从基础到高级技巧](https://mp.weixin.qq.com/s/ZymJg3jzMoq2X2mJRVXZFw)
++ [Go协程池深度解析：原理、实现与最佳实践](https://mp.weixin.qq.com/s/Q6KSBuhhY_3ksXn3Zd0WSw)
++ [Golang：检查 Map 中 Key 是否存在](https://mp.weixin.qq.com/s/Co4k7AQaSVnWgApm7483xQ)
 
 # 面试题
 

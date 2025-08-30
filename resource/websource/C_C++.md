@@ -125,6 +125,7 @@
 + [c++ static关键字多种用途和含义](https://mp.weixin.qq.com/s/aIUrbjhpjWd27v4w34xtlg)
 + [C++杂记：现代C++的初始化最佳实践](https://mp.weixin.qq.com/s/3P2tPY1bVROy3gyaq1VMYQ)
 + [C++ 中的四种类型转换操作符](https://mp.weixin.qq.com/s/WWEPC-KsIbZxTfusEsH4HA)
++ [为什么说 enum class 比普通 enum 更安全？](https://mp.weixin.qq.com/s/wpk0ia6DnLiElS0rLnNIYw)
 
 ### 高阶
 
@@ -275,6 +276,7 @@
 + [C+++之Event事件系统](https://mp.weixin.qq.com/s/VdgRES7mzepyYq2OD5qnjA)
 + [宏定义背后的陷阱：一段 C++ 代码的反常行为](https://mp.weixin.qq.com/s/NirnKe_Q4M-6-hDYV0I6YQ)
 + [C++文件操作：流式编程的优势](https://mp.weixin.qq.com/s/qi_GtPzknjALgvsQtcKcnQ)
++ [把“自由量裁权”还给编译器：C++ inline，不是 “避免函数调用开销” 那么简单](https://mp.weixin.qq.com/s/dt_1gFbVro3iVpu3o01csg)
 
 #### 指针
 
@@ -328,6 +330,7 @@
 + [贪心算法 | C++算法集](https://mp.weixin.qq.com/s/zzrx8zIl6BDSVAw8PzIOgg)
 + [宝鉴001: C++ 双向链表翻转](https://mp.weixin.qq.com/s/qoSz21oJPijH8pRV7d_4FQ)
 + [【C/C++】B+树基本功能的实现](https://mp.weixin.qq.com/s/bOzP29yNRVlQXSjf2WYgIw)
++ [（三）C++数据结构与算法之链表](https://mp.weixin.qq.com/s/ZPYy7xAjEMj2ZMqZGTvrYA)
 
 #### 库
 
@@ -457,6 +460,8 @@
 + [C++ 多态详解（上）](https://mp.weixin.qq.com/s/Xu9cFI1NOu9f5boDp80u3A)
 + [c++多态详解（下）](https://mp.weixin.qq.com/s/ouX72Rtm1KcLh7uIjqI_iQ)
 + [C++中菱形继承问题](https://mp.weixin.qq.com/s/x3vzuVZMQ5H1jbRDBN_gHg)
++ [c++抽象基类的使用场景](https://mp.weixin.qq.com/s/Ae4v8Nl4YUAHB8j8hx7EUA)
++ [构造C++对象时控制执行顺序的方案1](https://mp.weixin.qq.com/s/2hCsLysM55fYmkljFZxUsQ)
 
 ##### 泛型
 
@@ -609,6 +614,7 @@
 + [C++ CUDA 线程 线程块 网格](https://mp.weixin.qq.com/s/euMUES_8F08evKHhn2Q49w)
 + [C++ CUDA 核函数中的数据类型](https://mp.weixin.qq.com/s/n4sgrxqM3j98ObA80RZvJg)
 + [并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
++ [并行编程实战——CUDA编程的变量类型限定和内置变量](https://mp.weixin.qq.com/s/sH_CpIhAbKu2H6h-XSYLxQ)
 
 ## C
 

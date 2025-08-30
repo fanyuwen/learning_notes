@@ -1331,6 +1331,7 @@
 + [垃圾回收算法有哪些？了解哪些垃圾回收器？](https://mp.weixin.qq.com/s/5OXH6oNN3MjqFyzTCwSLZQ)
 + [虚引用 GC 耗时分析优化（由 1.2 降低至 0.1 秒）](https://my.oschina.net/u/4090830/blog/18688164)
 + [JVM篇-GC垃圾回收](https://mp.weixin.qq.com/s/K3ctlOhwqWbkA6dZn7Ma8Q)
++ [JVM垃圾回收，三色标记法是有缺点的你知道吗？讲讲CMS和G1分别怎么解决的。](https://mp.weixin.qq.com/s/wrsabtgdq4OvxBHSCMv6GQ)
 
 # 核心库
 

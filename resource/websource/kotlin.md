@@ -43,6 +43,8 @@
 + [Kotlin 异常处理新姿势：runCatching 与 try-catch 的对比](https://mp.weixin.qq.com/s/kJ4OQyC3ABs9LZujZSnC0Q)
 + [Kotlin协程码农秒变时间管理大师](https://mp.weixin.qq.com/s/1pY_-fNwBtxIAy9Y0x1dJg)
 + [一文掌握kotlin集合中的操作符](https://mp.weixin.qq.com/s/VEIiMi32pPE2zhIJLkrLCQ)
++ [Kotlin lazy 委托的底层实现原理](https://mp.weixin.qq.com/s/oS7Kmx7Y73HV2n5zezJEZw)
++ [Kotlin协程之：协程基础](https://mp.weixin.qq.com/s/p5tktAgnCpCcasFV8ggpPQ)
 
 ## 技术月报
 

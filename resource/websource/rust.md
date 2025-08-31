@@ -132,6 +132,15 @@
 + [Rust 中的“闪电并发”：DashMap 并发哈希映射小白实战指南](https://mp.weixin.qq.com/s/uzbsAza0XWnlulMZ9YqoZw)
 + [Rust语言Copy trait与Clone trait的区别](https://mp.weixin.qq.com/s/CL6TcQjFI1hYmIv3q9EJ8w)
 + [Rust 泛型高阶秘籍：从熟练工到代码巫师的进阶实战之旅](https://mp.weixin.qq.com/s/XRb5pJUp9gVxIpkhPaOAgg)
++ [小向量大智慧：Rust 中 smallvec 的入门与实战指南](https://mp.weixin.qq.com/s/I-z81bA3nVjeiZrf9RVi6g)
++ [「可变生命周期・前篇」](https://mp.weixin.qq.com/s/AYsGVCrJlkQ6nXznBnxaEA)
++ [Rust 内存分析实战：如何应对内存占用过高问题](https://mp.weixin.qq.com/s/fWUGIpmGMCF9qBjfJuTA4A)
++ [Rust 裸函数正式稳定：系统编程的“汇编自由”时代来了](https://mp.weixin.qq.com/s/vEgyLyaKgJbefw-TMToydQ)
++ [深入理解Rust生命周期：构建文本分析流水线](https://mp.weixin.qq.com/s/asDOzC5O9FUQmf7XvSOobQ)
++ [Hashbrown 最佳实践：从 Rust 新手到性能极客的“哈希魔法”实战指南](https://mp.weixin.qq.com/s/V5h4INrWQeh6BbpiiAOczQ)
++ [「可变生命周期・终篇・PhantomData」](https://mp.weixin.qq.com/s/nOtI1EuG3fpSl3B1KvjfZw)
++ [Rust 中的“咖啡因”：Moka 并发缓存库小白实战指南](https://mp.weixin.qq.com/s/J0PHGwcIfDycd-XmtmXIbg)
++ [快速搞懂Rust Send Trait](https://mp.weixin.qq.com/s/M6oSYtVDU5ssOLJl8EQcEA)
 
 # 框架
 
@@ -149,6 +158,7 @@
 + [Rust编写的跨平台UI框架——Tauri正式发布2.0稳定版，是时候把“毒瘤”Electron换掉了](https://mp.weixin.qq.com/s/K6QdGD7NDmqUHlyOWVhrpA)
 + [Clippy：Rust 官方代码质量增强工具完全指南](https://mp.weixin.qq.com/s/y_YSZKp9sNd2JoKQ-xlTEQ)
 + [Tantivy：高效的 Rust 全文搜索引擎](https://mp.weixin.qq.com/s/rD0JkstgPNsBquwl5TDJRg)
++ [Rust神器batched：批量操作轻松减压，让你的代码飞起来！](https://mp.weixin.qq.com/s/NJt8OjY1u1KcF_x6viOEEQ)
 
 # 并发
 
@@ -215,3 +225,5 @@
 + [Zig 与 Rust 到底该怎么选？](https://mp.weixin.qq.com/s/cygGtQyIAnIDzNQ-7Zdh6A)
 + [哲学家与工程师：为何Rust和Go的“官方之声”如此不同？](https://mp.weixin.qq.com/s/-dTtBBUlCOlC-Rr4R2bxmQ)
 + [为什么越来越多的大厂选择使用 Rust 开发？](https://mp.weixin.qq.com/s/YTYZVg3BRhKYteyB60KQfw)
++ [微软如何用 Rust 做创新：与 Rust 基金会主席的对话](https://mp.weixin.qq.com/s/S61GfYRiipmozXzBgx0s1g)
++ [从Spring Boot的自动化到Rust的手动实现](https://mp.weixin.qq.com/s/QrkMfyOV-hq3j0vVA_v-kw)

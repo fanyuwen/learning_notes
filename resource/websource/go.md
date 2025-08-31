@@ -73,6 +73,7 @@
 # 实践
 
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
++ [Go 的结构体嵌入](https://mp.weixin.qq.com/s/5EZhCDkuY4Rl5ghVvRJ4ww)
 + [Go 入门指南：7.3. For-range 结构](https://mp.weixin.qq.com/s/wdu7mvnFIz-jXrdjUO9Ueg)
 + [Go语言入门教程：循环与分支结构详解](https://mp.weixin.qq.com/s/0uVgY5tylm92-fF8fxw9BQ)
 + [Go语言中函数作为一等公民，探索灵活性和应用之道](https://mp.weixin.qq.com/s/pyuPdp7ye_2BJwP9AT-KtA)
@@ -85,6 +86,9 @@
 + [解析 Go 切片：为何按值传递时会发生改变？｜得物技术](https://my.oschina.net/u/5783135/blog/16497987)
 + [基于 Golang 和 Redis 解决分布式系统下的并发问题](https://mp.weixin.qq.com/s/4Muc234XiWHzs3q-K_2mvw)
 + [协程 goroutine 和 通道 channel](https://mp.weixin.qq.com/s/6Xt91GoVkmi86o8Z3oFlQw)
++ [Go语言面试题- Go中的通道(Channel)是什么？有哪些类型和使用场景？](https://mp.weixin.qq.com/s/QcSMk5NQETfabGrpHzmNOA)
++ [Go语言defer机制详解与应用](https://mp.weixin.qq.com/s/kqcZYOqN10LkF7q1EMfSqg)
++ [Go 语言 defer 语句：优雅处理“结束后事”的利器](https://mp.weixin.qq.com/s/mq0kF6k82yTuyDWYsGPA1g)
 + [Go 如何做好缓存](https://mp.weixin.qq.com/s/FRQtVg0ia09XHm-ES-XEWg)
 + [Go 异步编程小技巧](https://mp.weixin.qq.com/s/AvrfEHOj72cXttQDTv9sgw)
 + [Go 协程上下文切换的代价](https://mp.weixin.qq.com/s/3wtAkzjZGANaC7tl4JqMlQ)
@@ -189,6 +193,11 @@
 + [8.1 集合-一维数组](https://mp.weixin.qq.com/s/toQLUzSEe1Ao_QmOvr7rlg)
 + [Go内存逃逸：性能优化必知](https://mp.weixin.qq.com/s/c65rOaHs0NcsJj28_id5ew)
 + [Go语言空结构体：零内存消耗的高效编程](https://mp.weixin.qq.com/s/2YTq-nthyLc9iGxKO49QwA)
++ [Go中的互斥锁(Mutex)和读写锁(RWMutex)有什么区别？](https://mp.weixin.qq.com/s/gbNPZdEt3yZJ_9AF9_X7Fw)
++ [Go 并发编程：深入理解通道死锁与有效预防](https://mp.weixin.qq.com/s/h8dBzt_z8TGK5USjs6-DYg)
++ [Go面试 - 解释Go中的context包，以及它在并发编程中的作用？](https://mp.weixin.qq.com/s/K84YN0D9ZtQ8-47k4qTURw)
++ [深入理解 Go 语言中的数据类型可变性与不可变性](https://mp.weixin.qq.com/s/95g7OS6eiOKqOfmpALjIbw)
++ [Go errgroup：高效并发控制与错误处理](https://mp.weixin.qq.com/s/XEoDxSwRqxxV5HPs20gb0w)
 
 # 面试题
 

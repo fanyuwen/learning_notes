@@ -904,6 +904,8 @@
 + [多线程写爽了，调试哭了！这些坑你踩过几个？](https://mp.weixin.qq.com/s/K2oPnOezCm72AOd2OGfejA)
 + [并发编程中的性能优化的理论和实践](https://mp.weixin.qq.com/s/wdsrMCkaVq3vNvOeGXqMbQ)
 + [Java线程死亡螺旋：解析与预防策略](https://mp.weixin.qq.com/s/MlBUQd2R7Vlt2j8u16MtdQ)
++ [Java多线程基础：进程、线程与线程安全实战](https://mp.weixin.qq.com/s/cDR6Yf8wnlvTJrIETCBOjQ)
++ [谈谈线程的中断退出](https://mp.weixin.qq.com/s/qSWK4ngcHoObhtoQ0VAvQA)
 
 #### CAS
 
@@ -918,6 +920,7 @@
 + [深入理解 CAS 自旋锁机制：并发编程的“无锁”奥秘！](https://mp.weixin.qq.com/s/JhKdi_DgwiWyR2xBX7sxUA)
 + [深入理解CAS与原子操作：AtomicInteger性能为何如此之高？无锁编程的基石。](https://mp.weixin.qq.com/s/0-X8shNTmTutoAnCfvHXFg)
 + [并发编程的"无锁秘籍"：Lock-Free数据结构如何让你的系统快如闪电？](https://mp.weixin.qq.com/s/wvNdOzxVKOM9kFtxjgT1Iw)
++ [小红书面试题：了解CAS吗?](https://mp.weixin.qq.com/s/GqaB_P2Gg2qOXY9lYfc0DA)
 
 #### 线程池
 
@@ -1100,6 +1103,7 @@
 + [Java volatile 关键字到底是什么｜得物技术](https://my.oschina.net/u/5783135/blog/18686270)
 + [Java volatile关键字：你真的懂了吗？](https://mp.weixin.qq.com/s/hoNkjnJxVMbWe98ahhP8UA)
 + [面试官最爱问的volatile，底层原理到底是什么？](https://mp.weixin.qq.com/s/YvoeMfAyCGpkT-2p6rso-A)
++ [Java并发必看！volatile不加会死机？DCL中的“隐藏陷阱”揭秘！](https://mp.weixin.qq.com/s/OeJxYXlGN4btdx2e7WphZw)
 
 ## 源码
 
@@ -2389,6 +2393,7 @@
 + [游戏推荐业务中基于 sentinel 的动态限流实践](https://my.oschina.net/vivotech/blog/16378460)
 + [Sentinel自适应限流原理](https://mp.weixin.qq.com/s/punZ64lW5Rp-u5yJR7muig)
 + [微服务系统中流量治理组件sentinel剖析](https://mp.weixin.qq.com/s/LCr1E6U9cRV05SPENy7A5Q)
++ [限流禁咒！Sentinel集群流控征服流量洪峰](https://mp.weixin.qq.com/s/J9xtcI2_ZY1L4-aCizvU5Q)
 
 ## shardingsphere
 
@@ -2592,6 +2597,7 @@
 ### web
 
 + [数据校验与转换：详解@Validated和@RequestBody注解](https://mp.weixin.qq.com/s/QcnNpGcF-SYkGFO3VCitwg)
++ [Spring MVC框架介绍与特性](https://mp.weixin.qq.com/s/vX46ZDaX0xPWo4E7dhxxZA)
 + [002架构师必修之java框架篇：springMVC有手就会](https://mp.weixin.qq.com/s/t-6qvY-NXevcrUInC4h1xA)
 + [阿里大佬写的Controller太优雅了！](https://mp.weixin.qq.com/s/CQYLS0AZqzbM2sHyssKmuQ)
 + [一文了解Spring MVC流程](https://mp.weixin.qq.com/s/5Y_FlCdhmpZPpPlGNbdQfw)
@@ -3495,6 +3501,7 @@
 + [Spring Boot 3.2 全新特性：JdbcClient 精简数据库操作的新方式](https://mp.weixin.qq.com/s/6yJl-11Ud6BqIIwXKFwIkA)
 + [Spring Boot 3.4 正式发布！@Fallback 注解：让微服务容错更简单](https://mp.weixin.qq.com/s/IbKQrbGc2UGgZ30WG5ntfw)
 + [彻底告别 `@Value`：用 Spring Boot 3 构建可维护、类型安全的配置体系](https://mp.weixin.qq.com/s/bRcuoofRYBGq1q-5HrHdFA)
++ [震惊！Spring Boot 4 将弃用 Undertow，Tomcat 要笑了？](https://mp.weixin.qq.com/s/cnzBX3Jms_dBrN9uZJ98PA)
 
 #### 分布式
 
@@ -3763,6 +3770,7 @@
 + [Spring Boot 接口敏感字段脱敏的5大"王炸"方案](https://mp.weixin.qq.com/s/HQEHUrJLsw37aUKPyRTCDw?click_id=97)
 + [告别 API 响应 "一刀切"！Spring Boot 细粒度控制秘籍，让接口返回更灵活](https://mp.weixin.qq.com/s/SW341Rz6pbJIIxeefZfBuA)
 + [AI浪潮下，解锁Spring Boot SSE推送新姿势](https://mp.weixin.qq.com/s/zMy77yq3jcoinQSJGn-O3w)
++ [SpringBoot + ResponseBodyEmitter 实时异步流式推送，优雅！](https://mp.weixin.qq.com/s/DbbsJgNE5KaUQRBF0W-vcQ)
 
 ##### 文件上传下载
 
@@ -4034,6 +4042,8 @@
 + [Spring Boot 高级缓存策略：打造高性能应用的秘密武器](https://mp.weixin.qq.com/s/R64XxBRLds1Dq-onYcMX0Q)
 + [使用缓存方法大幅提升Spring Boot性能](https://mp.weixin.qq.com/s/oOxZua5CbGRB4ePgPRMORg)
 + [太强了！Spring Boot这样玩缓存，性能直接起飞](https://mp.weixin.qq.com/s/NPqJ3idN_aatQBtP9ItcMg)
++ [Java进阶手册（十七）SpringBoot的缓存支持与机制](https://mp.weixin.qq.com/s/eC_AFlwrnCZHM0K02Eu7Wg)
++ [Java进阶手册（九）SpringBoot中实现缓存与Session共享](https://mp.weixin.qq.com/s/gKvViDT_s46R3-vLRVQlPg)
 
 #### AOP
 
@@ -4267,6 +4277,7 @@
 + [SpringBoot3.2 + jdk21 + GraalVM上手体验](https://mp.weixin.qq.com/s/JL7O3wJ1K7pJ1XKh5gJkdw)
 + [SpringBoot整合SSMP报错分析](https://mp.weixin.qq.com/s/CuMqdhYRau64t_n-pCPKdw)
 + [如此强大的REST Client API为什么都不用？](https://mp.weixin.qq.com/s/bKhPyEPvsQdqPO5xy51afw)
++ [Spring Boot 集成 Elasticsearch：数据持久化与高效检索实战](https://mp.weixin.qq.com/s/jvYyxqWcFLXNj1RljBAGEQ)
 + [查漏补缺！OpenFeign整合Resilience4j，你真的会用吗？](https://mp.weixin.qq.com/s/rrx68tE5ZEvpMyBLN_ShfA)
 + [SpringBoot整合MinIO实现文件分片上传/断点续传](https://mp.weixin.qq.com/s/-FUbryJzI6yxKnh6Ud-Rvw)
 + [Spring Boot + Redission 自定义分布式延时任务组件设计](https://mp.weixin.qq.com/s/tsinZNPJ8H2QM8hzEd9gMA)
@@ -4274,8 +4285,6 @@
 + [SpringBoot + minio + kkfile 实现文件预览](https://mp.weixin.qq.com/s/8XogcjeTvUhS9fyAIIBSqQ)
 + [SpringBoot+Flowable：一个非常强大的流程引擎实现](https://mp.weixin.qq.com/s/Q46Bgq2Dw5CMG-VT_nLXtw)
 + [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/MvbauTHQ3yNGopEHTxyB1w)
-+ [提升数据导出效率：Spring Boot整合EasyExcel并行导出及Zip压缩下载](https://mp.weixin.qq.com/s/-MZ4XEK0cviGxmoCACBixg)
-+ [SpringBoot系列之集成EasyExcel实现百万级别的数据导入导出实践](https://mp.weixin.qq.com/s/q0nrKSxrQvegGyFGW6tBxg)
 + [新选择！基于Spring Boot监听MySQL日志Binlog实现数据实时同步](https://mp.weixin.qq.com/s/3rMWPmLHnoY4IDl-owuLIw)
 + [SpringBoot集成shardingsphere：执行存储过程](https://mp.weixin.qq.com/s/2FJDu2TWfAPjrTz-LT7wcw)
 + [springboot第84集：Java进阶之路, Netty](https://mp.weixin.qq.com/s/aIYPk52adcrFH7h0UsyWkA)
@@ -4292,7 +4301,6 @@
 + [SpringBoot整合Flink，实现一个用户个性化推荐系统](https://mp.weixin.qq.com/s/h4gOvfOTHPwJBNQFzkdPGQ)
 + [SpringBoot3专栏-SpringBoot3.4.0整合Mybatis-plus和Mybatis](https://mp.weixin.qq.com/s/nyiA5qa2RDZ7i7XFhueZNA)
 + [SpringBoot分布式项目中MyBatis实战技巧：从配置到性能优化](https://mp.weixin.qq.com/s/RyrLuG035Z6GPhUXWoLT_g)
-+ [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
 + [SpringBoot 集成 ShedLock，完美解决定时任务重复执行难题](https://mp.weixin.qq.com/s/0oU-wYOWEbipIXxnxTue_A)
 + [SpringBoot整合ShedLock，解决定时任务防止重复执行的问题](https://mp.weixin.qq.com/s/sAYOgDr7ltXN6ir6GKybew)
 + [使用SpringBoot+MyBatis+MySQL实现图片上传](https://mp.weixin.qq.com/s/ODnDnOD5vruCwHTtXiD5eA)
@@ -4385,7 +4393,6 @@
 + [SpringBoot 定时任务终极指南：从 @Scheduled 到 XXL-JOB 的进阶之路！](https://mp.weixin.qq.com/s/o9iz75T1Psw-ms1q_PJAzA)
 + [深入浅出：基于 Spring 集成的 Redis 分布式可重入锁实践](https://mp.weixin.qq.com/s/HACjl5mWQorVJMPlcDYRXg)
 + [Spring Boot + JobRunr 后台任务执行神器，太强大了](https://mp.weixin.qq.com/s/jPpxuPKpew-kk4d63c1JQg)
-+ [Spring Boot 系列：集成 EasyExcel 实现百万级数据导入导出实战](https://mp.weixin.qq.com/s/ajscAvgLhp_GCD6XQunVaA)
 + [SpringBoot+Redis BitMap 实现签到与统计功能](https://mp.weixin.qq.com/s/tIaEpkylJIjuMy3t4k760g)
 + [SpringBoot+RedisBitMap实现签到与统计功能](https://mp.weixin.qq.com/s/Ce__5w-xGK0hQt77hn--yA)
 + [干货：SpringBoot集成MapStructPlus，使用注解快速转换对象](https://mp.weixin.qq.com/s/5mfeOz8ObYpFDZH7lanMIw)
@@ -4394,6 +4401,15 @@
 + [Spring Boot升级Redisson：分布式锁、异步流与集群架构的终极方案](https://mp.weixin.qq.com/s/g8R5mGY3UwZro4zLmGLQCw)
 + [Spring Boot 5种重试组件+自定义AOP实现重试](https://mp.weixin.qq.com/s/9yDLO-hWnZxXG5KhuhS1hw)
 + [JAVA：Spring Boot 集成 PageHelper 实现分页查询](https://mp.weixin.qq.com/s/y37fmAzofZipgwfcpQrNHQ)
++ [Spring Boot Kafka 实战：构建高效可靠的事件驱动服务](https://mp.weixin.qq.com/s/rBSPKb1Cn2gmD5zdHSYMtg)
+
+##### excel
+
++ [提升数据导出效率：Spring Boot整合EasyExcel并行导出及Zip压缩下载](https://mp.weixin.qq.com/s/-MZ4XEK0cviGxmoCACBixg)
++ [SpringBoot系列之集成EasyExcel实现百万级别的数据导入导出实践](https://mp.weixin.qq.com/s/q0nrKSxrQvegGyFGW6tBxg)
++ [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
++ [Spring Boot 系列：集成 EasyExcel 实现百万级数据导入导出实战](https://mp.weixin.qq.com/s/ajscAvgLhp_GCD6XQunVaA)
++ [Java进阶手册（十八）SpringBoot使用EasyExcel 实现导出功能](https://mp.weixin.qq.com/s/YTM-54YQJQQF0fkauqWbsw)
 
 #### test
 
@@ -4538,7 +4554,7 @@
 + [Jmeter最全详解(手把手教你4步使用)](https://mp.weixin.qq.com/s/Y9tJidOwrp4ZJ_C3fZVAxw)
 + [致远-常用的工具类（一）](https://mp.weixin.qq.com/s/lBxYmh1iQmwa_okNY9mHKw)
 + [一个强大的分布式锁框架——Lock4j](https://mp.weixin.qq.com/s/sGGJToEO1P7eAmujTWquvA)
-+ [​为开发提速：Java Persistence API (JPA)，这个Java库值得一试](https://mp.weixin.qq.com/s/ayJUbP9IAP-yh3WzNJytQg)
++ [为开发提速：Java Persistence API (JPA)，这个Java库值得一试](https://mp.weixin.qq.com/s/ayJUbP9IAP-yh3WzNJytQg)
 + [当前推荐的Java库： Apache Commons Lang 一个非常实用但容易被忽视的宝藏库](https://mp.weixin.qq.com/s/i1jDD20P4skO20wQxGAIQg)
 + [我的字段被FastJson给干掉了?!](https://mp.weixin.qq.com/s/t3nq03MxL0HWzQFx62P9Cg)
 + [比Spring-Retry还快的百万级任务重试框架——Fast-Retry](https://mp.weixin.qq.com/s/2sUt-FSt7hnpmsq7NkLsPQ)
@@ -4894,3 +4910,5 @@
 + [EXCEL 导入 — 设计与思考](https://my.oschina.net/u/4090830/blog/18688901)
 + [设计Entity字段可以用基本数据类型吗？](https://mp.weixin.qq.com/s/zizos2_GAHuR3T61o06KgA)
 + [手写链路追踪](https://mp.weixin.qq.com/s/pqfdrzQz4fWUXuxHMi136Q)
++ [手写链路追踪优化-多线程追踪](https://mp.weixin.qq.com/s/Ic2jcCI1w5G5quM6Kaohqg)
++ [从零构建高并发锁工具：基于AOP与ReentrantLock的轻量级分布式锁实践](https://mp.weixin.qq.com/s/4MiQ_nB_66By1J5jplIGMw)

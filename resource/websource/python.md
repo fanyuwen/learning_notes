@@ -181,6 +181,7 @@
 + [Python闭包中的循环变量问题及解决方案](https://mp.weixin.qq.com/s/JrE-wDlF0ZPlmiCSN6YNLA)
 + [Python中的@staticmethod和@classmethod有何区别？一文带你彻底搞懂使用场景](https://mp.weixin.qq.com/s/OXzouPnvN4LJfSxG8uIF5w)
 + [Python 高手都偷偷用的 Lambda 函数，你还在傻傻写 def 吗？](https://mp.weixin.qq.com/s/qfYU9gVeXDbeiN5ICqE_uw)
++ [Python函数参数的终极武器：*args和**kwargs完全指南](https://mp.weixin.qq.com/s/zafov4CZD8O2_VUPtEf3VA)
 
 ### 面向对象
 

@@ -279,6 +279,7 @@
 + [把“自由量裁权”还给编译器：C++ inline，不是 “避免函数调用开销” 那么简单](https://mp.weixin.qq.com/s/dt_1gFbVro3iVpu3o01csg)
 + [C++之filesystem文件系统](https://mp.weixin.qq.com/s/GMBH3Fp8ze-6A8DKjyfC3w)
 + [C++单例：警惕循环引用风险，拒绝单例互相依赖](https://mp.weixin.qq.com/s/QGq9KqNQne438I60UIsk2Q)
++ [跟我学C++中级篇—constexpr在字符串上的应用](https://mp.weixin.qq.com/s/bl0y39jm7tRjTbdBIGdEbA)
 
 #### 指针
 
@@ -417,6 +418,7 @@
 + [C++老手都犯的错：MyClass obj(); 到底是不是对象？C++11这个语法终结了所有争议！](https://mp.weixin.qq.com/s/mxQrhDVhzvT8lVxbNOVtHA)
 + [c++26新功能—SIMD](https://mp.weixin.qq.com/s/9gPcQFvmrWomqUVKpZjXbg)
 + [c++26新功能—风险指针](https://mp.weixin.qq.com/s/HvMH-AYnmD7ywDDIYrpQvw)
++ [c++26新功能—格式化指针](https://mp.weixin.qq.com/s/KIfxXU-yBMZifvNRBz0qmw)
 
 #### 面向对象
 
@@ -694,6 +696,7 @@
 + [那些年被误解的C语言宏定义：你真的懂#define吗？](https://mp.weixin.qq.com/s/AZdLsTa1OvjX7reoNqTWug)
 + [关于static的那些事，你都知道么？](https://mp.weixin.qq.com/s/-sr0Q7QnQYDuxgZpqo7zYQ)
 + [谈C编程---if...else的优化](https://mp.weixin.qq.com/s/iXDSCiDNSH8Gy1ivx6TWew)
++ [typedef给类型起一个别名](https://mp.weixin.qq.com/s/n97hE37jIs8uTrJCop9_iw)
 
 ### 高阶
 
@@ -798,6 +801,7 @@
 + [谈C编程---共用体的应用](https://mp.weixin.qq.com/s/DvWOYWB2A4jITUegub4b9g)
 + [“结构体指针”和“指针结构体”](https://mp.weixin.qq.com/s/qopcQRpQsQsEaAt1FWv2yg)
 + [C语言结构体：数据打包神器](https://mp.weixin.qq.com/s/BxC_Od2fz5WVUNADEfcFHQ)
++ [C语言实用干货：结构体对齐详解](https://mp.weixin.qq.com/s/gSJ_oywEjfDQAWvvjZNS1Q)
 
 #### 指针
 

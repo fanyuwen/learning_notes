@@ -560,6 +560,7 @@
 + [HTTP 长连接与短连接](https://mp.weixin.qq.com/s/LwU7WbxWM0sI4QG4DNRJjw)
 + [HTTP，HTTPS协议介绍和区别](https://mp.weixin.qq.com/s/btJuG2xh0yDITwW9Damn5A)
 + [https是如何加密的](https://mp.weixin.qq.com/s/d742Gx_Oe4j086bwVftOQg)
++ [HTTPS行为大赏：三分钟了解加密过程](https://mp.weixin.qq.com/s/vBtT6o9IZW3fblEnr7USfQ)
 
 #### CORS
 
@@ -773,6 +774,7 @@
 + [零拷贝技术：mmap 系统调用](https://mp.weixin.qq.com/s/Clam2h-Z3Ybq1OSz_DwMPg)
 + [IO多路复用与进-线程池的优劣对比](https://mp.weixin.qq.com/s/cL9MG7NRAKXi8nbN9K-bFA)
 + [深入理解高并发：IO多路复用与进程、线程、协程的协同关系](https://mp.weixin.qq.com/s/rc18IRKHpW_9OPDCwsqetA)
++ [大白话聊懂IO的零拷贝技术](https://mp.weixin.qq.com/s/XmGobf693GYNT_3h6ZwsTg)
 
 ## 字符编码
 

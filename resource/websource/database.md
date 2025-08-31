@@ -664,6 +664,7 @@
 + [MySQL 索引又失效了？这 6 个坑 90% 的人都踩过](https://mp.weixin.qq.com/s/R5qqd2PJniXH2_6We3VicQ)
 + [Mysql索引机制](https://mp.weixin.qq.com/s/B6gZ8J0DslvbAftKw11z4w)
 + [MySQL中IN和NOT IN会走索引吗？](https://mp.weixin.qq.com/s/gMHn_u5hdIKOHd_W8B6txg)
++ [MySQL 索引失效原理剖析：别让 “加速键” 变成 “绊脚石”](https://mp.weixin.qq.com/s/p7pOZ-9QEqJJ2kEh1-KE1A)
 
 ### PostgreSQL
 
@@ -925,6 +926,7 @@
 + [系统不崩的秘密：Redis的6大非缓存玩法，撑住10万QPS就靠它！](https://mp.weixin.qq.com/s/waZ4Celex4418x_m8RT8iA)
 + [Redis持久化深度解析：RDB与AOF如何保障你的数据安全？](https://mp.weixin.qq.com/s/OP1ZX8zMw-RMoI6V6Z2PSA)
 + [Redis支持事务吗？了解Redis的持久化机制吗？](https://mp.weixin.qq.com/s/soe8v02VevWY2Z4PjrtsYw)
++ [小米科技面试题：如何利用Redis实现栈和队列？](https://mp.weixin.qq.com/s/Qs8W4EOzj1NS0MhYKOc_MA)
 
 #### 原理
 
@@ -977,6 +979,9 @@
 + [揭秘Redis跳表：为何能轻松实现高效排序？](https://mp.weixin.qq.com/s/_C2yLnyzO3k1alVzrasIIQ)
 + [揭秘Redis高效事件驱动内幕](https://mp.weixin.qq.com/s/Vrqp7rXdNQGXJveZPsknbQ)
 + [Redis跳跃表：揭秘高效数据结构](https://mp.weixin.qq.com/s/26Alf0akCa4Re2VfsS7s2g)
++ [深入剖析Redis RDB持久化机制：从原理到源码](https://mp.weixin.qq.com/s/EDiBd_8iAXyhppg9_ZVS-A)
++ [揭秘Redis单线程非阻塞I/O模型：为何它能如此之快？](https://mp.weixin.qq.com/s/RuCmfozpvp9JySW1eEeX9A)
++ [为什么Redis选择哈希表？深度解析Redis 6.0.0源码中的高效数据结构](https://mp.weixin.qq.com/s/j49xwrxDah2erO7jV2dmFw)
 
 #### 分布式锁
 

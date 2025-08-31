@@ -556,6 +556,7 @@
 + [图解 LRU Cache ：5 分钟搞懂 LRU Cache 核心原理](https://mp.weixin.qq.com/s/KBhWizb02mueHz7gGhRNbw)
 + [高性能缓存设计：如何解决缓存伪共享问题](https://my.oschina.net/u/4090830/blog/18683171)
 + [六大缓存（Caching）策略揭秘：延迟与复杂性的完美平衡](https://my.oschina.net/powertoolsteam/blog/18688830)
++ [Java 缓存雪崩：高并发下的“集体跳楼”如何避免？](https://mp.weixin.qq.com/s/t5BRaHTvmLv1RBend5P8AQ)
 
 ## 优化
 

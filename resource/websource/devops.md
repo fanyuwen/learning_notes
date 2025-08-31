@@ -72,6 +72,7 @@
 + [可观测性与传统监控的区别和联系](https://my.oschina.net/morflameblog/blog/15316524)
 + [微服务全链路灰度设计思路详解](https://mp.weixin.qq.com/s/aToMYLlz6HUaDgblBVQXOA)
 + [小红书2面：你用过灰度发布吗？](https://mp.weixin.qq.com/s/1B7msrm_lsGRHvm9S4DkWg)
++ [从频繁告警到平稳发布：服务冷启动 CPU 风暴优化实践](https://my.oschina.net/vivotech/blog/18685693)
 
 ## 问题排查
 
@@ -80,4 +81,4 @@
 ## ELK
 
 + [ELK 处理 Spring Boot 日志，妙啊！](https://mp.weixin.qq.com/s/ydUhJFMiclQ-ZcZiDZ3kAw)
-+ [​既生瑜，何生亮，SkyWalking 和 ELK 实现链路追踪的实践](https://mp.weixin.qq.com/s/OzL8XgsxYrh9YrSLu0z7hw)
++ [既生瑜，何生亮，SkyWalking 和 ELK 实现链路追踪的实践](https://mp.weixin.qq.com/s/OzL8XgsxYrh9YrSLu0z7hw)

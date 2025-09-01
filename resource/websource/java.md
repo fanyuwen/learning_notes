@@ -2373,6 +2373,7 @@
 + [基于Redission高级应用16-RTimeSeries原理及工具类封装及实战应用](https://mp.weixin.qq.com/s/iu-Yf0pE_dxUPu2Ieq9WQQ)
 + [基于Redission高级应用19-RMultimap原理及高级工具类封装解读](https://mp.weixin.qq.com/s/L7suESybzJQ1Mwt1Utu5pA)
 + [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
++ [基于Redission高级应用22-基于RAtomicLong原理及封装的工具类](https://mp.weixin.qq.com/s/39Nt8v6SXJWnCk25luYebw)
 
 ## ribbon
 
@@ -3011,6 +3012,7 @@
 + [Spring Cloud 快速通关7: 分布式事务 Seata](https://mp.weixin.qq.com/s/iB6XyiU19CxhRf6WmZB7KA)
 + [Spring Cloud Ribbon 核心原理](https://mp.weixin.qq.com/s/S7YQFiMDXCd8Gbkvou7bQQ)
 + [Spring Cloud Config 核心原理](https://mp.weixin.qq.com/s/an4Xw8x2C7cB8Xutt7PpMA)
++ [Spring Boot实战：解锁Spring Cloud Stream流式消息驱动新姿势](https://mp.weixin.qq.com/s/2dAG3XmU590p9toceoDEtQ)
 
 #### alibaba
 
@@ -3909,6 +3911,7 @@
 + [绝了！Spring Boot 事务回滚竟藏 5 种神操作](https://mp.weixin.qq.com/s/ayXnxon-cEvhXWmB2Yb1Qg)
 + [SpringBoot事务管理：@Transactional的六个致命陷阱](https://mp.weixin.qq.com/s/V_18hke4DXzHRbWD2tF6xQ)
 + [炸裂！@Transactional遇上@Async：是"王炸组合"还是"致命事故"](https://mp.weixin.qq.com/s/tVYuodPQeJBtM-zG6aW6ww)
++ [Java进阶手册（八）SpringBoot事务管理@Transactional注解的深度解析](https://mp.weixin.qq.com/s/fqMYVtfefd-O14XWDBqmqw)
 
 ##### BIG DATA
 
@@ -3990,6 +3993,8 @@
 + [告别超卖！Spring Boot + 悲观锁：1行代码解决并发难题](https://mp.weixin.qq.com/s/eOumsh4gLBT_zs3Qnvdk-A)
 + [SpringBoot中的4种重试机制实现方案](https://mp.weixin.qq.com/s/IS9PeInuM0Ah5-EpCZ4BWg)
 + [别踩坑！Spring Boot 多线程事务处理最佳实践全解析](https://mp.weixin.qq.com/s/qbaB8v6HUp9lpEwSL6wowA)
++ [Java进阶手册（二十八）SpringBoot中异步请求与虚拟线程详细分析](https://mp.weixin.qq.com/s/RzBdjkmltIH7QiWOVcgl9g)
++ [Java进阶手册（二十五）SpringBoot中利用悲观锁来解决高并发场景下的数据一致性问题](https://mp.weixin.qq.com/s/peHJQJL8L_gJNencmdPKMQ)
 
 ##### Disruptor
 
@@ -4402,6 +4407,7 @@
 + [Spring Boot 5种重试组件+自定义AOP实现重试](https://mp.weixin.qq.com/s/9yDLO-hWnZxXG5KhuhS1hw)
 + [JAVA：Spring Boot 集成 PageHelper 实现分页查询](https://mp.weixin.qq.com/s/y37fmAzofZipgwfcpQrNHQ)
 + [Spring Boot Kafka 实战：构建高效可靠的事件驱动服务](https://mp.weixin.qq.com/s/rBSPKb1Cn2gmD5zdHSYMtg)
++ [Java进阶手册（二十七）SpringBoot中使用JobRunr后台任务执行神器](https://mp.weixin.qq.com/s/UNMFY1f8-bX_4A53LlfcmQ)
 
 ##### excel
 
@@ -4673,6 +4679,7 @@
 + [别再错过！Java 开发者必须掌握的 MQTT 协议对接秘籍，看完直呼过瘾](https://mp.weixin.qq.com/s/grtrhhMET7mGTpvcE4nQbw)
 + [Easy-cache：统一缓存解决方案，让开发人员告别重复的缓存代码](https://mp.weixin.qq.com/s/OENxcvRSGtkPtNzjWwK6KQ)
 + [Xcache：多级缓存框架介绍](https://my.oschina.net/xcafe/blog/18689544)
++ [如何在线程池环境中安全高效地传递线程上下文信息？试试TransmittableThreadLocal](https://mp.weixin.qq.com/s/1BfNveacsFMG_ZOEFHTcwQ)
 
 # 其它环境
 
@@ -4714,6 +4721,7 @@
 + [一个由默认值引发的BUG，开发直呼冤枉](https://mp.weixin.qq.com/s/80HRh5E9yph46JAP49GTVg)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [当下，哪种编程语言比较流行？](https://mp.weixin.qq.com/s/BPf6aF55dMrAswq7V8Wi7Q)
++ [Java 缓存击穿：高并发下的“黑洞”如何规避？](https://mp.weixin.qq.com/s/rp1705JYGzUsza0xDuLA6Q)
 + [JAVA：Mysql 常见面试题的技术指南](https://mp.weixin.qq.com/s/4hRYkxlBtbvbavpyG7S8gQ)
 + [Java实习模拟面试之多路递归：斐波那契数列的性能陷阱与优化策略](https://mp.weixin.qq.com/s/mw339mNb_Y0zK4AnB1_nqg)
 + [对5个Web框架进行了十亿次请求测试-这是幸存者的故事](https://mp.weixin.qq.com/s/6hRilvvGkdIYjAE9X8pCxg)

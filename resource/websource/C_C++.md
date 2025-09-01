@@ -280,6 +280,8 @@
 + [C++之filesystem文件系统](https://mp.weixin.qq.com/s/GMBH3Fp8ze-6A8DKjyfC3w)
 + [C++单例：警惕循环引用风险，拒绝单例互相依赖](https://mp.weixin.qq.com/s/QGq9KqNQne438I60UIsk2Q)
 + [跟我学C++中级篇—constexpr在字符串上的应用](https://mp.weixin.qq.com/s/bl0y39jm7tRjTbdBIGdEbA)
++ [C++面试周刊(7):unique_ptr 与 shared_ptr 的实现原理](https://mp.weixin.qq.com/s/0pTTLRJWaNVmBKYCn8vWKw)
++ [C++编译问题：7个场景，引发无法解析的外部符号-“unresolved external symbol”](https://mp.weixin.qq.com/s/eBvXfUXTk_rKe01kksUxkg)
 
 #### 指针
 
@@ -535,6 +537,7 @@
 + [【C/C++】线程池基本功能的实现](https://mp.weixin.qq.com/s/uVV6KRef0Ebx2znP8xYMww)
 + [C++11实现一个读写自旋锁-1](https://mp.weixin.qq.com/s/WyiqCi1gppcbYR6aLgbo6Q)
 + [C++11实现一个读写自旋锁-2（内存序）](https://mp.weixin.qq.com/s/jChRulavwBFFf47fOlyGSA)
++ [你以为自己懂多线程？C++ 并发的坑比想象的要深](https://mp.weixin.qq.com/s/s8uh0O15GPbejINNUdCb7A)
 
 #### 扩展
 

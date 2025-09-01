@@ -46,6 +46,7 @@
 + [四十四、构建完善微服务——消息队列](https://mp.weixin.qq.com/s/0wd4O9GZHtlKdYnQ-Un_gA)
 + [面试官：消息队列积压百万，除了加机器还有哪些解法？](https://mp.weixin.qq.com/s/iRGKRL0Og13GG3JTh0FS7w)
 + [RabbitMQ-RocketMQ和Kafka有什么区别](https://mp.weixin.qq.com/s/Dnb9OaQpKrCqSKqL34lcUQ)
++ [面试官问：高并发下如何保证消息顺序消费？这样答才加分](https://mp.weixin.qq.com/s/qCaCOijNJshqW1nDiKb36g)
 
 # KAFKA
 

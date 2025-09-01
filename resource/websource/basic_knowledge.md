@@ -299,6 +299,7 @@
 + [15个典型 tar 命令用法详解](https://mp.weixin.qq.com/s/JcOb82k5clmxK0qTQX3ShQ)
 + [统计文件大小的几个常用bash命令组合](https://mp.weixin.qq.com/s/GytyMCziQWevC9IXdDGg3A)
 + [十分钟实用教程 | "bash -e"的使用与shell脚本常见使用技巧](https://mp.weixin.qq.com/s/b41t4m-9logE-bbhAqu1fA)
++ [玩转Linux文本处理：详解awk核心选项、变量与函数技巧](https://mp.weixin.qq.com/s/7i9hhwp8-4GerDJq3zILBw)
 
 ### 发行版信息
 
@@ -703,6 +704,7 @@
 + [Nginx动静分离配置详解(图文全面总结)](https://mp.weixin.qq.com/s/SJwxBQyxJaAGVeLpOtPXrg)
 + [Nginx如何限流扛住高并发请求？](https://mp.weixin.qq.com/s/7RDbdpq2WXEdbEkktj6JEQ)
 + [从原理到实战，彻底搞懂Nginx](https://mp.weixin.qq.com/s/Sv9ZpJimVI52_RGV9rOANQ)
++ [深入浅出 Nginx：从核心原理到实用技巧](https://mp.weixin.qq.com/s/M0ZNtAnhLMbghMAt-MQrag)
 
 ### wireshark
 

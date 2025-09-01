@@ -141,6 +141,11 @@
 + [「可变生命周期・终篇・PhantomData」](https://mp.weixin.qq.com/s/nOtI1EuG3fpSl3B1KvjfZw)
 + [Rust 中的“咖啡因”：Moka 并发缓存库小白实战指南](https://mp.weixin.qq.com/s/J0PHGwcIfDycd-XmtmXIbg)
 + [快速搞懂Rust Send Trait](https://mp.weixin.qq.com/s/M6oSYtVDU5ssOLJl8EQcEA)
++ [Rust的一体两面：Safe Rust和Unsafe Rust](https://mp.weixin.qq.com/s/r5zNEuveCJYzNI6ZLFx2PA)
++ [Rust 整数与枚举互转的高效实现指南](https://mp.weixin.qq.com/s/RYy-EYtn2Drn1YOZgoSEgQ)
++ [从标准库的局限到 equivalent：Rust 键比较的灵活进化](https://mp.weixin.qq.com/s/0cIohkJNo_1H-6A8JTwxhQ)
++ [Rust 为什么需要 Sync Trait](https://mp.weixin.qq.com/s/gLff50qJPj2lJPHPGZcsvA)
++ [Rust Moka缓存高级进阶：从高手到大师的并发优化之旅](https://mp.weixin.qq.com/s/Cw18wwNR5Dr4GoucmAcjkQ)
 
 # 框架
 
@@ -172,6 +177,7 @@
 + [揭秘 Rust Tokio：你真的懂异步运行时吗？](https://mp.weixin.qq.com/s/tEru0Yis0Tgy1TPrEbzRiw)
 + [Rust Async内幕：让代码学会"摸鱼"，效率还能翻倍的秘密！](https://mp.weixin.qq.com/s/oK525M83M9BTUtSOZAREuA)
 + [RUST编程语言的异步编程](https://mp.weixin.qq.com/s/wS8Wn8VesChvqEOXrD9nqQ)
++ [Rust的第一个难点：并发和异步](https://mp.weixin.qq.com/s/EPjsQB07s8gzpnCB53n0ag)
 
 # 资源
 

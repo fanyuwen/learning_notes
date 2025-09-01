@@ -198,6 +198,16 @@
 + [Go面试 - 解释Go中的context包，以及它在并发编程中的作用？](https://mp.weixin.qq.com/s/K84YN0D9ZtQ8-47k4qTURw)
 + [深入理解 Go 语言中的数据类型可变性与不可变性](https://mp.weixin.qq.com/s/95g7OS6eiOKqOfmpALjIbw)
 + [Go errgroup：高效并发控制与错误处理](https://mp.weixin.qq.com/s/XEoDxSwRqxxV5HPs20gb0w)
++ [深入解析Go设计模式：命令模式实战](https://mp.weixin.qq.com/s/v3G2YteXDXUVCOPc0S2WqQ)
++ [在什么情况下，使用atomic包比使用互斥锁（Mutex）更合适？](https://mp.weixin.qq.com/s/A8XWm6wyjZcj-5utRpC7fQ)
++ [Golang高并发服务器稳定性优化：文件描述符与资源管理](https://mp.weixin.qq.com/s/pqiPYBABKRSpwF_n5hjXQw)
++ [Go语言高效IO缓冲技术详解](https://mp.weixin.qq.com/s/jgnw-Rf3qUAK09P8d0Ieog)
++ [Go中的调度器(Scheduler)是如何工作的？GMP模型是什么？](https://mp.weixin.qq.com/s/kUsjRu8zzhmkEoSbtd9zBg)
++ [Golang策略模式应用场景 使用接口实现算法替换方案](https://mp.weixin.qq.com/s/_a2n7kLD2scFNK_2XSrUsw)
++ [揭秘Go语言init方法的执行顺序](https://mp.weixin.qq.com/s/5WNlq77JZjykRMubkD7RZA)
++ [如何用Golang处理千万级并发日志 异步channel与批量写入优化](https://mp.weixin.qq.com/s/jytm_nUr_-UvkT0xTNKAdg)
++ [解释sync.Pool的应用场景，它适合用来管理什么类型的数据？](https://mp.weixin.qq.com/s/bwYRyeD-Tqi_BC8VT-BPoQ)
++ [Go并发编程：sync包核心原语详解](https://mp.weixin.qq.com/s/iUae_nziZv_2fCiJDy8qPQ)
 
 # 面试题
 

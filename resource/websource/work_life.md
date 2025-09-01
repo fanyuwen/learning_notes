@@ -348,6 +348,7 @@
 + [从零搭建专业程序员的Mac系统](https://mp.weixin.qq.com/s/S8-D6gNOwJHd_0uPp7-7vA)
 + [Homebrew MacOS的包管理器](https://mp.weixin.qq.com/s/dgJzTmryZm1srcxE6Q7zPw)
 + [码农如何配置苹果电脑？](https://mp.weixin.qq.com/s/2kY4aUapz12np_cDd4mdiQ)
++ [详解macos包管理工具homebrew](https://mp.weixin.qq.com/s/2VBsebf6Kp3iItblEwxQ2w)
 
 ## NAS
 

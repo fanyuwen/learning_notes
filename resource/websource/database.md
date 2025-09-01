@@ -982,6 +982,9 @@
 + [深入剖析Redis RDB持久化机制：从原理到源码](https://mp.weixin.qq.com/s/EDiBd_8iAXyhppg9_ZVS-A)
 + [揭秘Redis单线程非阻塞I/O模型：为何它能如此之快？](https://mp.weixin.qq.com/s/RuCmfozpvp9JySW1eEeX9A)
 + [为什么Redis选择哈希表？深度解析Redis 6.0.0源码中的高效数据结构](https://mp.weixin.qq.com/s/j49xwrxDah2erO7jV2dmFw)
++ [揭秘Redis主从复制：原理与实战解析](https://mp.weixin.qq.com/s/HOeGjv83pDq6AV4f5LXgtQ)
++ [揭秘Redis高效秘诀：哈希表原理深度剖析](https://mp.weixin.qq.com/s/kZOLt14xy8HN9AwA2qajew)
++ [Redis键值对存储背后的奥秘：为何如此高效？](https://mp.weixin.qq.com/s/ilnzjxTIgTCcsD0Bw5aX1A)
 
 #### 分布式锁
 

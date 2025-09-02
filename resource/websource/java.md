@@ -232,6 +232,7 @@
 + [Java 15新特性：文本块，代码书写的新利器](https://mp.weixin.qq.com/s/D-Atg73J2JSqeEwvhexmHA)
 + [Java 16纪录类：告别繁琐，让代码起飞](https://mp.weixin.qq.com/s/j_MOYaQ8yEbeV26nGe6JAg)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
++ [Java17新特性(相对于Java8)](https://mp.weixin.qq.com/s/8k5fI5rpUpwLEbCjLi3ZPA)
 + [JDK17神仙语法让代码优雅到飞起](https://mp.weixin.qq.com/s/-Ay2re7relzMKP-50Lm-Pg)
 + [这用 Java8？JDK17 写法让我一度以为在写 TypeScript](https://mp.weixin.qq.com/s/BTA-PW94qv8Y4H8NEClDGA)
 + [JDK17前后写法对比，这还是我认识的Java吗？](https://mp.weixin.qq.com/s/XaXHK6EJa4otXJHHU6g9jw)
@@ -288,6 +289,7 @@
 + [JDK 高版本特性总结与 ZGC 实践](https://my.oschina.net/meituantech/blog/18627969)
 + [还在用“+”号拼接字符串？Java文本块，让你告别“上古”写法！](https://mp.weixin.qq.com/s/DdxzzDz7x0O8JTg5Ml1BMA)
 + [升级 JDK 17 碰到的请求 https 问题](https://mp.weixin.qq.com/s/MFkjAtSl3ttyCm3CN_DdXA)
++ [Java 新语法 Switch Pattern Matching，提升代码逼格的神器](https://mp.weixin.qq.com/s/7rf-59vwQbm-K9csK_4HnQ)
 
 ## 高级用法
 
@@ -494,6 +496,7 @@
 + [分享 Java Function 的 10 个高阶用法！](https://mp.weixin.qq.com/s/I1NFZ8iEEhui1GmhpReNzw)
 + [168. Java Lambda 表达式 - 专用比较器](https://mp.weixin.qq.com/s/wnUQ5ZLMPDRFLVIAnIxmfw)
 + [推荐使用 try-with-resources 结合 HTTP 方便简洁安全](https://mp.weixin.qq.com/s/RMxVMEq0GbRMxSdKXyysjw?click_id=4)
++ [分享些 Function 和 Predicate 高级使用技巧](https://mp.weixin.qq.com/s/Mqzx5Lix0pmx3jSqIV-ytg)
 
 ## 代码质量
 
@@ -698,6 +701,7 @@
 + [一文讲通 Java 四种引用及其使用场景](https://mp.weixin.qq.com/s/XGEMmYZYW1KKp-6iTdwuVQ)
 + [深入理解fail-fast与fail-safe机制](https://mp.weixin.qq.com/s/O0DHzQH6XNccsljzRCyxzQ)
 + [数据机构之跳表原理及Java实现](https://mp.weixin.qq.com/s/tMVO6RW3S8-Xg1Rdn6xfWA)
++ [if (a == 1 && a == 2 && a == 3) 为 true，你敢信？？？](https://mp.weixin.qq.com/s/eIpU5zHEoQ4V-nxwaScKMg?click_id=3)
 
 ### 序列化
 
@@ -769,6 +773,7 @@
 + [Java并发探索--上篇](https://mp.weixin.qq.com/s/uHKXDE7PKsQHo_TGGtmBrQ)
 + [线程通信](https://mp.weixin.qq.com/s/JF6PKKTmjtrcQle7qyp4tA)
 + [探索虚拟线程：原理与实现](https://my.oschina.net/u/4090830/blog/18326469)
++ [JAVA线程的生命周期没有想象的那么简单](https://mp.weixin.qq.com/s/kGUeNp-IEzvJFPpgkhpS2w)
 + [多线程系列之基础概念篇：为你的多线程学习构建基础](https://mp.weixin.qq.com/s/5dx2MP4erZEzbEI2jXx2UA)
 + [继续来聊高并发的本质！免费的就是香！](https://mp.weixin.qq.com/s/ruGzcM4PdpzpxRPEUqjJCQ)
 + [阿里一面：Java 中如何终止一个正在运行的线程](https://mp.weixin.qq.com/s/pWbFDI3h5BJTttu6aTch5g)
@@ -1390,6 +1395,7 @@
 + [一文看懂ThreadLocal的原理](https://mp.weixin.qq.com/s/IRmSViFqWj10y2-FdxJ5ig)
 + [一文看懂ThreadLocal内存泄漏](https://mp.weixin.qq.com/s/g2GDUQ2Rqj4IXzmbYnx8jg)
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
++ [ThreadLocal为什么会导致内存泄漏？该如何解决?](https://mp.weixin.qq.com/s/AgimSOPksDCJKKn9LatcZg)
 
 ## math库
 
@@ -1781,6 +1787,8 @@
 + [信号量Semaphore：多线程编程中的红绿灯，你真的会用吗？](https://mp.weixin.qq.com/s/pl-5r77Kwi7K0U1twMsK7w)
 + [解密CountDownLatch：从源码剖析这个神奇同步工具的奥秘](https://mp.weixin.qq.com/s/r_SJmYYe2e2nDzXv8uQu4Q)
 + [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
++ [这几个并发工具类你必须要掌握：CountDownLatch、CyclicBarrier、Semaphore](https://mp.weixin.qq.com/s/XRYIkhijU2WA0YCm9dmnaA)
++ [面试必问：CountDownLatch 和 CyclicBarrier 的核心区别，这样答才透彻](https://mp.weixin.qq.com/s/YSVeEaHv6M0eKLjD2A5YnQ)
 
 ## IO/NIO
 
@@ -1890,6 +1898,7 @@
 + [Maven：如何在 Maven 中自动使用依赖的最新版本，解决手动升级依赖的繁琐的工作](https://mp.weixin.qq.com/s/-Jz50RMyprvmEFQbD2Ofhg)
 + [Maven常用命令合集，记得收藏！](https://mp.weixin.qq.com/s/mqrUtvIxQSoZBapuvYF0IA)
 + [maven(高级maven配置)](https://mp.weixin.qq.com/s/uq7hzEFJN0ZGftNvTMch6Q)
++ [maven专题-分析去除无用的依赖包](https://mp.weixin.qq.com/s/3in33vG7BxwAo6jlbo4dwA)
 
 # 功能
 
@@ -1924,6 +1933,7 @@
 + [Apache Commons NumberUtils：让数字处理代码减少 60% 的工具类](https://mp.weixin.qq.com/s/bKIus9Hgo5W45S7m9XQe_Q)
 + [IteratorUtils：解锁Java迭代器操作的神兵利器，告别繁琐循环！](https://mp.weixin.qq.com/s/uORpJYXm8XGlQJOZF_6N8Q)
 + [Apache Commons MapUtils：让 Map 操作效率提升一倍的工具类](https://mp.weixin.qq.com/s/NY7Ae85o-LyQB41vmDOjsQ)
++ [还在写一堆 if-else 做参数校验？Apache ValidationUtils 一行搞定，代码清爽 10 倍](https://mp.weixin.qq.com/s/6BwwssgWLll7igKqnnmKjQ)
 
 ## apollo
 
@@ -1964,6 +1974,7 @@
 + [响应式编程实践-用Caffeine构建响应式缓存](https://mp.weixin.qq.com/s/bv5JxHQxnALFXc25R0cD0Q)
 + [本地缓存 Caffeine 中的时间轮（TimeWheel）是什么？](https://my.oschina.net/u/4090830/blog/18687079)
 + [一篇吃透最强本地缓存 Caffeine！含过期策略、多级缓存方案，拿来就用](https://mp.weixin.qq.com/s/YoJ_C-DuPcbE_mQfHxCg_A)
++ [Redis+Caffeine 太强了！](https://mp.weixin.qq.com/s/raui7VrKIN-TCzo_OO4f1Q)
 
 ## consul
 
@@ -2195,6 +2206,7 @@
 + [MyBatis动态SQL优化：WHERE 1=1真的必要吗](https://mp.weixin.qq.com/s/_Gc1UjNWXvygz_BY7f2O9A)
 + [JAVA：MyBatis 如何处理延迟加载的技术指南](https://mp.weixin.qq.com/s/O3pPnrMcrst8faKl_Z8XxA)
 + [MyBatis自动生成Mapper引发的查询空值问题：排查过程与反思](https://mp.weixin.qq.com/s/1KbGri34mRzS1sW3QE2vXQ)
++ [只会写 Mapper 就敢说会 MyBatis？面试官：原理都没懂](https://mp.weixin.qq.com/s/o8PEVApCDmt_vufa6hTssg)
 
 ### plus
 
@@ -3233,6 +3245,7 @@
 + [刚来的实习生在异常代码块里打印堆栈，技术经理看到后气得直跺脚，Spring Boot优雅地处理异常，你不会吗？](https://mp.weixin.qq.com/s/3C1C11pKb7E-7C13yOMOAQ)
 + [这一次优化，让我的 Spring Boot 飞了起来（CPU 直降 70%）](https://mp.weixin.qq.com/s/bkqPZnLBB2V6A8QuZwBfGg)
 + [Spring Boot 使用 LinkedBlockingDeque 实现简单的消息队列异步任务](https://mp.weixin.qq.com/s/v3_53BW6pEvTmBCTGImY8g)
++ [10 个 Spring Boot 高效编码技巧 + 7个 Tomcat性能调优秘诀](https://mp.weixin.qq.com/s/tq-OsliTnCj6EjlT4Xau1A)
 
 ##### 原理
 
@@ -3288,6 +3301,7 @@
 + [Spring Boot性能优化：深入剖析Deflate压缩实现与源码解析](https://mp.weixin.qq.com/s/GOjlZtqJb4mSEh2n21r2vQ)
 + [Java进阶手册（六）SpringBoot自动配置的深入分析](https://mp.weixin.qq.com/s/tFz4O7LRA0cEgSbeB8Ksmw)
 + [Java进阶手册（十）SpringBoot自动配置原理深度剖析](https://mp.weixin.qq.com/s/KAFnvjMj9NOTWjPA0inMCQ)
++ [Java进阶手册（二十四）深入理解SpringBoot的自动装配原理及自定义自动装配组件（超详细）](https://mp.weixin.qq.com/s/qmCujBOAhj6JCLfAakJYww)
 
 #### 版本特性
 

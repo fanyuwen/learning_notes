@@ -107,6 +107,7 @@
 + [刷了百道SQL题，还是不会用？你应该这样补短板](https://mp.weixin.qq.com/s/D0MlfBn-YXipSaJjqBVozA)
 + [关于SQL的开窗函数，你踩过哪些坑？](https://mp.weixin.qq.com/s/eL0YzpkJz2AXKuDxPo3Mrw)
 + [对标阿里规范：MySQL 多表 JOIN 性能优化的 9 条黄金法则](https://mp.weixin.qq.com/s/yc3QXSPVFAai2OdTqsz4ug)
++ [SQL 优化之 explain 超详细讲解](https://mp.weixin.qq.com/s/I6pdwGjnicSI5zkxM8T0pA)
 
 # 本地数据库
 
@@ -550,6 +551,7 @@
 + [MySQL间隙锁：数据库世界的“占座”艺术](https://mp.weixin.qq.com/s/kpPLMroa0us7pmEFt_akFQ)
 + [Mysql行锁、表锁和间隙锁区别](https://mp.weixin.qq.com/s/JnS7XM-RbrHvN7Rxh-lJ2A)
 + [MySQL不得不聊的锁知识：锁机制详解](https://mp.weixin.qq.com/s/B0FYNAwjkte-YLz1UqCQMQ)
++ [深入理解数据库乐观锁、悲观锁与 Redis 分布式锁：原理、场景与实战](https://mp.weixin.qq.com/s/HUMdglIK1sVgAaVfbQ_JDg)
 
 #### 事务
 
@@ -985,6 +987,7 @@
 + [揭秘Redis主从复制：原理与实战解析](https://mp.weixin.qq.com/s/HOeGjv83pDq6AV4f5LXgtQ)
 + [揭秘Redis高效秘诀：哈希表原理深度剖析](https://mp.weixin.qq.com/s/kZOLt14xy8HN9AwA2qajew)
 + [Redis键值对存储背后的奥秘：为何如此高效？](https://mp.weixin.qq.com/s/ilnzjxTIgTCcsD0Bw5aX1A)
++ [Redis高效数据管理之谜：哈希表迁移机制深度剖析](https://mp.weixin.qq.com/s/plL3np9W2-17nD5uShpS8g)
 
 #### 分布式锁
 

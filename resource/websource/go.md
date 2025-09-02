@@ -208,6 +208,13 @@
 + [如何用Golang处理千万级并发日志 异步channel与批量写入优化](https://mp.weixin.qq.com/s/jytm_nUr_-UvkT0xTNKAdg)
 + [解释sync.Pool的应用场景，它适合用来管理什么类型的数据？](https://mp.weixin.qq.com/s/bwYRyeD-Tqi_BC8VT-BPoQ)
 + [Go并发编程：sync包核心原语详解](https://mp.weixin.qq.com/s/iUae_nziZv_2fCiJDy8qPQ)
++ [Golang单例模式实现 sync.Once最佳实践](https://mp.weixin.qq.com/s/XkujVrdmxAZjd4NEhrJVGA)
++ [Go 中的 Slice 和 Map 扩容机制解析](https://mp.weixin.qq.com/s/hO-ANfXcew99TbMppbDf1A)
++ [Go 语言 select{} 如何保证每个 case 均等的执行机会？](https://mp.weixin.qq.com/s/NLBPnscC_WHHp3DHxlJTlg)
++ [Go 语言中 for 和 range 的性能比较](https://mp.weixin.qq.com/s/a78OwZ6HwaqkHsKw7emkRQ)
++ [一文搞懂Go切片：核心机制全解析，让你编程事半功倍！](https://mp.weixin.qq.com/s/LLDJZk79Lj3BgjZYc9SCOg)
++ [实战经验：避免 panic！如何安全地关闭一个正在被多个goroutine读写的channel？](https://mp.weixin.qq.com/s/rIRCfeTQUkWRc4QK34eZ0A)
++ [Goroutine 泄漏检测实战：检测代码中是否存在goroutine泄漏](https://mp.weixin.qq.com/s/elXf28MU33eWQ26EfTbBBA)
 
 # 面试题
 

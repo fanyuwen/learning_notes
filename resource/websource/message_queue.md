@@ -142,6 +142,7 @@
 + [Kafka Broker 核心原理全解析：存储、高可用与数据同步](https://mp.weixin.qq.com/s/zH4gsR-d_XKyvtk18McqoQ)
 + [Kafka生产者原理深度解析](https://mp.weixin.qq.com/s/fmmArjMy5z5J35HJQpJIGg)
 + [Kafka 消息幂等性实现详解：原理、机制与实践](https://mp.weixin.qq.com/s/f3jd2gfCgazHY1nqKvvHcQ)
++ [Kafka中的消费者拉取（Polling）机制是如何工作的？](https://mp.weixin.qq.com/s/5-l2UK7qYgwDWUHLxP1RYA)
 
 # ROCKETMQ
 

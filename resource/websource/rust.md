@@ -146,6 +146,8 @@
 + [从标准库的局限到 equivalent：Rust 键比较的灵活进化](https://mp.weixin.qq.com/s/0cIohkJNo_1H-6A8JTwxhQ)
 + [Rust 为什么需要 Sync Trait](https://mp.weixin.qq.com/s/gLff50qJPj2lJPHPGZcsvA)
 + [Rust Moka缓存高级进阶：从高手到大师的并发优化之旅](https://mp.weixin.qq.com/s/Cw18wwNR5Dr4GoucmAcjkQ)
++ [从零到精通：Rust 音频采样率转换库 Rubato 的实战指南](https://mp.weixin.qq.com/s/C4kihM9JDKjg4ARWBIW1Gw)
++ [Rust编程：快速理解幽灵类型 PhantomData 是什么？](https://mp.weixin.qq.com/s/B65ivyU42vF11toiKzLFVw)
 
 # 框架
 
@@ -178,6 +180,7 @@
 + [Rust Async内幕：让代码学会"摸鱼"，效率还能翻倍的秘密！](https://mp.weixin.qq.com/s/oK525M83M9BTUtSOZAREuA)
 + [RUST编程语言的异步编程](https://mp.weixin.qq.com/s/wS8Wn8VesChvqEOXrD9nqQ)
 + [Rust的第一个难点：并发和异步](https://mp.weixin.qq.com/s/EPjsQB07s8gzpnCB53n0ag)
++ [Rust 并发编程：让你的代码同时做多件事](https://mp.weixin.qq.com/s/XRu-gev3uPY6S3zViwqOug)
 
 # 资源
 

@@ -111,6 +111,7 @@
 + [大白话聊一聊，数据结构的基石：数组和链表](https://mp.weixin.qq.com/s/m_85p9cXzYW1qi4ndHJO3g)
 + [哈希函数到底是个啥？看完这篇你就全懂了！](https://mp.weixin.qq.com/s/qpGix4Nbq_PIA2UMSbvSnQ)
 + [一致性哈希算法详解：大厂如何构建弹性伸缩的分布式缓存](https://mp.weixin.qq.com/s/lpJYuTWYraXE_JOo1m0waA)
++ [一致性哈希算法真的能解决分布式系统痛点吗？看完这篇你就懂了！](https://mp.weixin.qq.com/s/LxmeiHzjQZX-cynhV-MNhA)
 + [用 JSON 表现树的结构兼谈队列、堆栈的练习（一）](https://mp.weixin.qq.com/s/quzNMNFiEO1B76h8U-W0PQ)
 
 ## Graph

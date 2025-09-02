@@ -183,6 +183,8 @@
 + [Python中的@staticmethod和@classmethod有何区别？一文带你彻底搞懂使用场景](https://mp.weixin.qq.com/s/OXzouPnvN4LJfSxG8uIF5w)
 + [Python 高手都偷偷用的 Lambda 函数，你还在傻傻写 def 吗？](https://mp.weixin.qq.com/s/qfYU9gVeXDbeiN5ICqE_uw)
 + [Python函数参数的终极武器：*args和**kwargs完全指南](https://mp.weixin.qq.com/s/zafov4CZD8O2_VUPtEf3VA)
++ [Python 函数技术详解](https://mp.weixin.qq.com/s/_6nqYdSLtZKFF1ZFAwABfw)
++ [Python Lambda 函数详解](https://mp.weixin.qq.com/s/V1Y3F-ymcvuoJIgxbuDHrg)
 
 ### 面向对象
 
@@ -251,6 +253,7 @@
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
 + [Python 列表的扁平化技巧](https://mp.weixin.qq.com/s/RgTvOjm0T1IcGlL36hg7Fg)
++ [Python 列表（List）深入详解](https://mp.weixin.qq.com/s/RwkgF4npw1IO-Qu4tLG4ew)
 + [苦练Python第22天：11个必学的列表方法](https://mp.weixin.qq.com/s/knoLmxVBHNAMa1fZhzVqGQ)
 + [Day 08 - 字符串、切片、集合、字典](https://mp.weixin.qq.com/s/neAiBQynATzj8XBwIQ3KIw)
 + [Python 容器的使用技巧](https://mp.weixin.qq.com/s/LK08mdLi0cCje4SdXNfqyw)
@@ -770,6 +773,8 @@
 + [Python数据读取与写入——从基础到高级实践](https://mp.weixin.qq.com/s/WSNwh-xOPNaCP55v_rC4YA)
 + [Python常用的6个设计模式，效率直接翻倍！](https://mp.weixin.qq.com/s/Q__JCVD69YzNhIql7JT_Qg)
 + [盘点Python新手小白常写的10大“反人类”语法](https://mp.weixin.qq.com/s/-lOsg1TiDaIr4tCGXv5YBQ)
++ [函数、对象、模块——让你写的Python不再乱成一锅粥](https://mp.weixin.qq.com/s/LonoUjWDrNcC4yUkCVT2ZQ)
++ [写Python的人，都应该学会的10个高效技巧](https://mp.weixin.qq.com/s/QEyl6RqUsFIVrSm5z0-fkw)
 
 ## 新特性
 

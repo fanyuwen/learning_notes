@@ -300,6 +300,7 @@
 + [统计文件大小的几个常用bash命令组合](https://mp.weixin.qq.com/s/GytyMCziQWevC9IXdDGg3A)
 + [十分钟实用教程 | "bash -e"的使用与shell脚本常见使用技巧](https://mp.weixin.qq.com/s/b41t4m-9logE-bbhAqu1fA)
 + [玩转Linux文本处理：详解awk核心选项、变量与函数技巧](https://mp.weixin.qq.com/s/7i9hhwp8-4GerDJq3zILBw)
++ [Linux 系统调用跟踪利器：strace](https://mp.weixin.qq.com/s/vaJP_BcG9B-4kQWl0Iys-g)
 
 ### 发行版信息
 
@@ -388,6 +389,7 @@
 + [CPU中断的工作原理](https://mp.weixin.qq.com/s/eZ7yvZ-T-2WurDCCNHHqSA)
 + [深度解析：CPU如何区分指令与数据？寄存器扮演什么关键角色？](https://mp.weixin.qq.com/s/Xe-xgygoypRJIDB20ccBgg)
 + [从二进制存储到CPU寻址](https://mp.weixin.qq.com/s/OoTJ9evDCbvrSFVDxF_DkQ)
++ [程序员必读：CPU运算原理深度剖析与浮点数精度问题实战指南](https://mp.weixin.qq.com/s/XGpz4ji1ktOQCRKAsuumDQ)
 
 ### 并发
 

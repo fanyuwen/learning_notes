@@ -12,6 +12,7 @@
 + [静态链接解析：为什么“打包”后可执行程序会变大？](https://mp.weixin.qq.com/s/JGq9crGS6XERQ6PgbHe4FA)
 + [只有少数人懂的C/C++启动流程：从execve到main全链路解密](https://mp.weixin.qq.com/s/ko1e4qT54ZoTvBtSZjlbfw)
 + [面试官:为什么大厂拒绝使用shared_ptr（shared_ptr vs intrusive_ptr)?](https://mp.weixin.qq.com/s/JSseZMRLpePuykz0nK16MQ)
++ [代码“缓存友好”（cache-friendly）意味着什么？](https://mp.weixin.qq.com/s/1Pfb7EG6J3b0YEL3x_CpmA)
 
 ## 工具
 
@@ -282,6 +283,7 @@
 + [跟我学C++中级篇—constexpr在字符串上的应用](https://mp.weixin.qq.com/s/bl0y39jm7tRjTbdBIGdEbA)
 + [C++面试周刊(7):unique_ptr 与 shared_ptr 的实现原理](https://mp.weixin.qq.com/s/0pTTLRJWaNVmBKYCn8vWKw)
 + [C++编译问题：7个场景，引发无法解析的外部符号-“unresolved external symbol”](https://mp.weixin.qq.com/s/eBvXfUXTk_rKe01kksUxkg)
++ [C++ 性能优化：用 CRTP 实现零开销编译期多态](https://mp.weixin.qq.com/s/ndQrzq4InWyWsdulSfcTtw)
 
 #### 指针
 
@@ -301,6 +303,7 @@
 + [利用 void* 简化 C++ 类的跨语言 FFI 封装](https://mp.weixin.qq.com/s/t1vWiIxjIY273-toJeJuYw)
 + [C++智能指针的高级用法（避坑与提效）](https://mp.weixin.qq.com/s/hPc4AN0MPrKrkoRqwhciAg)
 + [C++引用与指针进阶](https://mp.weixin.qq.com/s/Bcj173kwdK5tLST1Gq2c_g)
++ [C++智能指针：告别内存泄漏的利器](https://mp.weixin.qq.com/s/iNtzQ07KT1JvdtVJ3jx2uA)
 
 #### 函数
 
@@ -480,6 +483,8 @@
 + [C++技法：模板元编程编译期获取类成员数量](https://mp.weixin.qq.com/s/5fxMdJB9bY_8tz0KqtPrJQ)
 + [秒杀C++ STL面试与工程：掌握这4大精髓就够了！](https://mp.weixin.qq.com/s/NNyC1eRSskvQoDz4vBMfwg)
 + [为什么标准容器都有一个模板参数 Allocator ？](https://mp.weixin.qq.com/s/Cq0kxj_Df6CksjXBnA911A)
++ [C++11模板优化大揭秘：让你的代码更简洁、更安全、更高效](https://mp.weixin.qq.com/s/H_dLPfAs52xwPN9mDDXWSg)
++ [写了 10 年 C++，我才发现 STL 里这些宝藏用法](https://mp.weixin.qq.com/s/uMPR_lPEfBnppg_Vj6f5Zg)
 
 ##### 设计模式
 
@@ -538,6 +543,7 @@
 + [C++11实现一个读写自旋锁-1](https://mp.weixin.qq.com/s/WyiqCi1gppcbYR6aLgbo6Q)
 + [C++11实现一个读写自旋锁-2（内存序）](https://mp.weixin.qq.com/s/jChRulavwBFFf47fOlyGSA)
 + [你以为自己懂多线程？C++ 并发的坑比想象的要深](https://mp.weixin.qq.com/s/s8uh0O15GPbejINNUdCb7A)
++ [C++程序员千万别踩的坑：多线程只靠bool，Bug追到头发掉光](https://mp.weixin.qq.com/s/QPx48CWiUP9uP2PbuCguXQ)
 
 #### 扩展
 
@@ -700,6 +706,9 @@
 + [关于static的那些事，你都知道么？](https://mp.weixin.qq.com/s/-sr0Q7QnQYDuxgZpqo7zYQ)
 + [谈C编程---if...else的优化](https://mp.weixin.qq.com/s/iXDSCiDNSH8Gy1ivx6TWew)
 + [typedef给类型起一个别名](https://mp.weixin.qq.com/s/n97hE37jIs8uTrJCop9_iw)
++ [谈C编程---switch-case语句的‌穿透](https://mp.weixin.qq.com/s/CToGKR_Fl4XjaRJC9qm6cA)
++ [C语言变量存储类型详解：auto、static和extern](https://mp.weixin.qq.com/s/XkbYQOw6avC0xbzENya8wA)
++ [枚举类型：C语言的“人类语言翻译官”，让代码从“天书”变“唠嗑”](https://mp.weixin.qq.com/s/xkYNnnrz0UXwehb8krTu6A)
 
 ### 高阶
 
@@ -769,6 +778,7 @@
 + [C语言结构体指针：指针+结构体=王炸组合](https://mp.weixin.qq.com/s/cicjr-K8wxGfVStSGV3IIQ)
 + [C语言位操作技巧：99%人不知道的黑科技，让代码效率飞起来！](https://mp.weixin.qq.com/s/6DkUtTFBqjde4To8_C-USg)
 + [scanf函数的底层原理，想说输入不容易！](https://mp.weixin.qq.com/s/Jslc3vexMBqdWF3y72yDvw)
++ [为什么需要内存对齐？](https://mp.weixin.qq.com/s/fzdrFPd3Xqg6hrOJYx4Z8A)
 
 #### 宏
 
@@ -839,6 +849,7 @@
 + [谈C编程---新名词，悬垂指针](https://mp.weixin.qq.com/s/gHVfvunqB-BK1SfMWdJs7w)
 + [C语言的函数指针与回调函数](https://mp.weixin.qq.com/s/BLlSKzBrDJz5Gpbl2dTMUg)
 + [void指针≠空指针！这篇彻底搞懂它们的区别与联系](https://mp.weixin.qq.com/s/U8XHHJzlT6Qg0OyYQPSPEg)
++ [C语言函数指针：解锁六大高级应用场景，让你的代码更优雅！](https://mp.weixin.qq.com/s/9y1S5mNonPSFpszUEGQ-cQ)
 
 #### 函数
 
@@ -855,6 +866,7 @@
 + [谈C编程---回调函数](https://mp.weixin.qq.com/s/B2LdmVj3rCLANRw_3wF5rQ)
 + [谈C编程---返回字符串指针的函数](https://mp.weixin.qq.com/s/iqbMwcNRedD_EkVi-kmRGA)
 + [C语言「指针函数」VS「函数指针」](https://mp.weixin.qq.com/s/y-63QlRIhajQ260cWTOn9g)
++ [谈C编程---指针函数的返回要慎重](https://mp.weixin.qq.com/s/s52f4pftKRV7Utjlc4S7yw)
 
 #### 库
 
@@ -876,6 +888,7 @@
 + [C语言结构体数组：批量管数据指南](https://mp.weixin.qq.com/s/bT9jf_F83DJ-TebLEjXnWw)
 + [C语言交换两个变量的值。](https://mp.weixin.qq.com/s/bEc8VUFJVC01EPwZbpqCTg)
 + [C语言实现快速排序详解](https://mp.weixin.qq.com/s/4qeh-ugHo1gxzHcxz-GA5Q)
++ [C语言现实堆排序详解](https://mp.weixin.qq.com/s/Igbl8_DXBGawZCjiNbXlTg)
 
 ### 前景
 

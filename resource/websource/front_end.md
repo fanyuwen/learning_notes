@@ -421,3 +421,4 @@
 + [5 个理由告诉你为什么有了 JS 还要需要 TypeScript](https://mp.weixin.qq.com/s/p5roICZ8oKwVxt_FqIwj7g)
 + [他们终于承认：JavaScript 不适合做服务端](https://mp.weixin.qq.com/s/taHCh_Qei6AYW57njR7APA)
 + [为什么在大厂代码库里，几乎看不到 switch 语句的存在？](https://mp.weixin.qq.com/s/rteOB9_eG2ImCLI1BlbaTQ)
++ [【前沿解析】JavaScript 的未来，将迎来哪些新特性？](https://my.oschina.net/powertoolsteam/blog/18689402)

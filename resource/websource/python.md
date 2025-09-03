@@ -17,6 +17,7 @@
 + [Python零基础从入门到精通详细教程3-数据类型](https://mp.weixin.qq.com/s/cUWDAW9Ow-z5xh9bWIlUWg)
 + [Python必知必会：39个Python关键字详解，你的编程查阅小手册，收藏！](https://mp.weixin.qq.com/s/ymQJ1uhUDDM5_df2kiKZGA)
 + [Python零基础从入门到精通详细教程8-数据类型高级应用 - 上篇](https://mp.weixin.qq.com/s/cYQDnel4EWkdgUdXko4e_g)
++ [《零基础Python成长日记》第4篇：Python的三大结构](https://mp.weixin.qq.com/s/H141SBK62OhY25GW1c5XRw)
 + [Python 运算符](https://mp.weixin.qq.com/s/UeCjO-4-J1-4cbpEeNI13Q)
 + [Python基础：Python的运算符与表达式](https://mp.weixin.qq.com/s/4bIebG-KDVV37BGn0iD94g)
 + [Python语言核心22个必知语法细节](https://mp.weixin.qq.com/s/vCkzLVXnC83FahfDL7YJ6g)
@@ -104,6 +105,9 @@
 + [类型注解：Python性能的隐形加速器](https://mp.weixin.qq.com/s/9IgogQw7U4NLiAxfdSRGDA)
 + [Python倒车请注意！负步长range的10个高能用法，让代码效率翻倍](https://mp.weixin.qq.com/s/OfBWKTnupp92McY0fuNycQ)
 + [Python内置异常详解](https://mp.weixin.qq.com/s/hSHTZo7mE-VN9JLAHEWnfA)
++ [Python while 语句技术讲解](https://mp.weixin.qq.com/s/_BWyMSs7X3J2Nl8enxRDnw)
++ [Python for 循环技术讲解](https://mp.weixin.qq.com/s/VYiy3irkbnmeW2Jkn9RkqQ)
++ [Python continue 语句技术讲解](https://mp.weixin.qq.com/s/YbLTeLR0WupV3u8tD4Kd1A)
 
 ### 函数/方法
 
@@ -185,6 +189,7 @@
 + [Python函数参数的终极武器：*args和**kwargs完全指南](https://mp.weixin.qq.com/s/zafov4CZD8O2_VUPtEf3VA)
 + [Python 函数技术详解](https://mp.weixin.qq.com/s/_6nqYdSLtZKFF1ZFAwABfw)
 + [Python Lambda 函数详解](https://mp.weixin.qq.com/s/V1Y3F-ymcvuoJIgxbuDHrg)
++ [Python 30个内置函数全面解析](https://mp.weixin.qq.com/s/Bo8j0ivERkoKC3B7fHAG-A)
 
 ### 面向对象
 
@@ -236,6 +241,7 @@
 + [Day 11 - 面向对象编程基础](https://mp.weixin.qq.com/s/DiV8HK6FXowfg6Bu8SK-LQ)
 + [11.Python的高级OOP特性：提升代码优雅性与复用性](https://mp.weixin.qq.com/s/mpr1jN_jTfd9O8qvnOz1BA)
 + [学Python必须迈过的一道坎：类和对象到底是什么鬼？](https://mp.weixin.qq.com/s/8iblnDZT0TyX840l1ELimQ)
++ [Python 普通函数、类及类方法详解](https://mp.weixin.qq.com/s/gLZD3AA322Birmqiz_V91A)
 
 ### 核心库/模块
 
@@ -252,6 +258,7 @@
 + [Python入门教程05：字符串用法大全](https://mp.weixin.qq.com/s/iP0rpvGntr2rOrXeP3AnxA)
 + [f-string 高效的字符串格式化](https://mp.weixin.qq.com/s/oLaDUovjbHEtHDLrQMjxnA)
 + [Python 内置数据结构-列表、元组、字典、集合](https://mp.weixin.qq.com/s/fqoqE4rC_MIoF0NneFqPyw)
++ [Python 50个列表操作方法](https://mp.weixin.qq.com/s/yust57gVkDPpFV1CFuxoKQ)
 + [Python 列表的扁平化技巧](https://mp.weixin.qq.com/s/RgTvOjm0T1IcGlL36hg7Fg)
 + [Python 列表（List）深入详解](https://mp.weixin.qq.com/s/RwkgF4npw1IO-Qu4tLG4ew)
 + [苦练Python第22天：11个必学的列表方法](https://mp.weixin.qq.com/s/knoLmxVBHNAMa1fZhzVqGQ)
@@ -286,6 +293,7 @@
 + [Python集合应用：10+个集合操作的实用案例](https://mp.weixin.qq.com/s/IIHYqF_7efNyr-vO9oyG5g)
 + [Python列表解析：10个让你代码更简洁的技巧](https://mp.weixin.qq.com/s/r8ZspJs5aZNlQDo-cQzRyw)
 + [苦练Python第24天：玩转Set](https://mp.weixin.qq.com/s/dURA8LRIXFzhh-ARZ8Vl7Q)
++ [Python 集合：人生中最简单的真理，只有一次](https://mp.weixin.qq.com/s/8ZsGD8NRBJ0A0OY4RUu4YQ)
 + [45python re正则表达式](https://mp.weixin.qq.com/s/-HPFnF97V_7nQC8RpGqGPg)
 + [Python os模块的强大功能与应用](https://mp.weixin.qq.com/s/DvcLFmzQ7j41q17-XclDFQ)
 + [Python入门教程21：os模块的示例用法](https://mp.weixin.qq.com/s/3gMUW61gzkFK9cyoolWeOQ)
@@ -365,6 +373,7 @@
 + [Python内置模块：tomllib --- 解析 TOML 文件详解](https://mp.weixin.qq.com/s/sbksidync4BBgaIe921E1Q?click_id=30)
 + [Python神器 itertools 模块的72变魔法！（超实用场景）](https://mp.weixin.qq.com/s/7Rq7MLfga9RIth7IMjKCaQ)
 + [Python内置模块zipfile：操作 ZIP 归档文件详解](https://mp.weixin.qq.com/s/xZZ46z1R36__HtwqWSvV3w?click_id=54)
++ [《零基础Python成长日记》第5篇：调用Python函数和模块](https://mp.weixin.qq.com/s/5Yme7lpYPUk307iotyTchQ)
 
 ### 异步/多线程
 

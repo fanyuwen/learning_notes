@@ -468,6 +468,7 @@
 + [我和 Kindle 中国的最后 24 小时](https://mp.weixin.qq.com/s/yO8XP6sxCp-h_SlTMPR1xQ)
 + [RAG-索引之PDF文档解析](https://mp.weixin.qq.com/s/innbTL6aeOsl9vyJSN6yBw)
 + [查找 - 通用化的查找的解释](https://mp.weixin.qq.com/s/CdeN__MSrc8YtiMHxvVOww)
++ [自托管（Self-Host），每个开发者都该掌握的技能？](https://my.oschina.net/powertoolsteam/blog/18689400)
 
 ## 个人综合
 

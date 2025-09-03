@@ -988,6 +988,7 @@
 + [揭秘Redis高效秘诀：哈希表原理深度剖析](https://mp.weixin.qq.com/s/kZOLt14xy8HN9AwA2qajew)
 + [Redis键值对存储背后的奥秘：为何如此高效？](https://mp.weixin.qq.com/s/ilnzjxTIgTCcsD0Bw5aX1A)
 + [Redis高效数据管理之谜：哈希表迁移机制深度剖析](https://mp.weixin.qq.com/s/plL3np9W2-17nD5uShpS8g)
++ [揭秘Redis持久化：RDB vs AOF](https://mp.weixin.qq.com/s/pF4Dx9ApK-HqAPDo3o-rUw)
 
 #### 分布式锁
 

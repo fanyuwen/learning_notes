@@ -497,6 +497,8 @@
 + [168. Java Lambda 表达式 - 专用比较器](https://mp.weixin.qq.com/s/wnUQ5ZLMPDRFLVIAnIxmfw)
 + [推荐使用 try-with-resources 结合 HTTP 方便简洁安全](https://mp.weixin.qq.com/s/RMxVMEq0GbRMxSdKXyysjw?click_id=4)
 + [分享些 Function 和 Predicate 高级使用技巧](https://mp.weixin.qq.com/s/Mqzx5Lix0pmx3jSqIV-ytg)
++ [大数据量的ArrayList怎么获取n个元素](https://mp.weixin.qq.com/s/zAFxfmtOKGkUlzy2vYCIkw)
++ [位图到底是什么神仙数据结构？Java程序员必看的高效存储秘籍](https://mp.weixin.qq.com/s/BruXxGmPKJBCMhB-YsOHOw)
 
 ## 代码质量
 
@@ -1262,6 +1264,7 @@
 + [JVM篇-JVM内存划分](https://mp.weixin.qq.com/s/AaqSnh1dEvD9G7AGH1XFeA)
 + [JVM 系列(一)：内存结构彻底搞懂了？图示 + 实例 + 晋升机制全讲透！](https://mp.weixin.qq.com/s/EfQVyHvBG9fQxyXe-dRPDQ)
 + [JVM篇-对象创建过程以及内存分配策略](https://mp.weixin.qq.com/s/UZnBLo7EfERysDWnkPpM0g)
++ [Java 1.8 内存分布详解：从 JVM 视角看懂 “内存都装了啥”](https://mp.weixin.qq.com/s/RzRn-XJWM6Qhvgh1YCZvZw)
 
 ### 类加载
 
@@ -2353,6 +2356,7 @@
 + [Reactor，一个响应式编程的能量核心！](https://mp.weixin.qq.com/s/DDdxh2DEQR9bhyK_6kSlTw)
 + [Java响应式编程实践与原理解析](https://mp.weixin.qq.com/s/qAHFMXW-rtWVltm3H-BryA)
 + [百万并发下的救赎：Spring响应式编程如何让我们的系统起死回生](https://mp.weixin.qq.com/s/bCaAw4opUESYRJ72yYVwpA)
++ [解锁Java响应式编程：Project Reactor全解析](https://mp.weixin.qq.com/s/lEhf6o20xmSLFvEAVdCdEQ)
 
 ## redisson
 
@@ -3787,6 +3791,7 @@
 + [告别 API 响应 "一刀切"！Spring Boot 细粒度控制秘籍，让接口返回更灵活](https://mp.weixin.qq.com/s/SW341Rz6pbJIIxeefZfBuA)
 + [AI浪潮下，解锁Spring Boot SSE推送新姿势](https://mp.weixin.qq.com/s/zMy77yq3jcoinQSJGn-O3w)
 + [SpringBoot + ResponseBodyEmitter 实时异步流式推送，优雅！](https://mp.weixin.qq.com/s/DbbsJgNE5KaUQRBF0W-vcQ)
++ [从静态到动态！Spring Boot 动态创建配置Feign Client](https://mp.weixin.qq.com/s/4h_kHs1tmieQXjOKNqhPsg)
 
 ##### 文件上传下载
 
@@ -4422,6 +4427,7 @@
 + [JAVA：Spring Boot 集成 PageHelper 实现分页查询](https://mp.weixin.qq.com/s/y37fmAzofZipgwfcpQrNHQ)
 + [Spring Boot Kafka 实战：构建高效可靠的事件驱动服务](https://mp.weixin.qq.com/s/rBSPKb1Cn2gmD5zdHSYMtg)
 + [Java进阶手册（二十七）SpringBoot中使用JobRunr后台任务执行神器](https://mp.weixin.qq.com/s/UNMFY1f8-bX_4A53LlfcmQ)
++ [SpringBoot + Netty 远程调用实战：从零搭建附带核心代码](https://mp.weixin.qq.com/s/JwJoaAggXA8eMr-d9-nOOA)
 
 ##### excel
 
@@ -4694,6 +4700,7 @@
 + [Easy-cache：统一缓存解决方案，让开发人员告别重复的缓存代码](https://mp.weixin.qq.com/s/OENxcvRSGtkPtNzjWwK6KQ)
 + [Xcache：多级缓存框架介绍](https://my.oschina.net/xcafe/blog/18689544)
 + [如何在线程池环境中安全高效地传递线程上下文信息？试试TransmittableThreadLocal](https://mp.weixin.qq.com/s/1BfNveacsFMG_ZOEFHTcwQ)
++ [Java字节码行号恢复工具-ClassLinefix](https://mp.weixin.qq.com/s/hRMf47M376jPf3cT15iMTA)
 
 # 其它环境
 

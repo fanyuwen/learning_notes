@@ -284,6 +284,8 @@
 + [C++面试周刊(7):unique_ptr 与 shared_ptr 的实现原理](https://mp.weixin.qq.com/s/0pTTLRJWaNVmBKYCn8vWKw)
 + [C++编译问题：7个场景，引发无法解析的外部符号-“unresolved external symbol”](https://mp.weixin.qq.com/s/eBvXfUXTk_rKe01kksUxkg)
 + [C++ 性能优化：用 CRTP 实现零开销编译期多态](https://mp.weixin.qq.com/s/ndQrzq4InWyWsdulSfcTtw)
++ [深入理解C++性能优化：从内存管理到编译器优化实战](https://mp.weixin.qq.com/s/STy9n2hUg-sXFjdpvVqWXg)
++ [C++项目构建之十一 动态加载动态库](https://mp.weixin.qq.com/s/qe7k6_ARKytsOOQPuCWocg)
 
 #### 指针
 
@@ -313,6 +315,7 @@
 + [C++Lambda 表达式](https://mp.weixin.qq.com/s/OdhTt6iKXLbylzS8YpNEGw)
 + [C++的三种参数传递机制：从底层原理到实战](https://mp.weixin.qq.com/s/Lub0Y_l6jJnU_Oj-xuzQWQ)
 + [c++ Lambda 表达式闭包陷阱](https://mp.weixin.qq.com/s/gpzYwyN4KBk1w23WxV9K9w)
++ [虎牙C++后台秋招一面：解析lambda表达式的参数绑定的实现原理？](https://mp.weixin.qq.com/s/zhWeafJwm4JoWIUlhDb27A)
 
 #### 数据结构&算法
 
@@ -377,6 +380,7 @@
 + [你还在用指针传参返回多个值？我们一起来学习这个C++利器吧](https://mp.weixin.qq.com/s/Mrw1WVlMOVxsuqdN-ydEPQ)
 + [STL 算法：用一行代码替代繁琐的 for 循环](https://mp.weixin.qq.com/s/GvKVs99poHDEkZ-Zi5rogQ)
 + [深度剖析 C++ vector 的扩容机制：为什么总要“大动干戈”？](https://mp.weixin.qq.com/s/uOMXAYsQ2rUGTJ0J80x-Rg)
++ [90%的C++ 程序员都忽略了这个容器——unordered_multiset，让我们来看看开源项目中怎么使用的](https://mp.weixin.qq.com/s/w5xRMe2wzUVYzDM02VmcBQ)
 
 #### 新特性
 
@@ -412,6 +416,7 @@
 + [c++26新功能—线性代数库](https://mp.weixin.qq.com/s/xYJjjF-56VJaW2NSNT1Nqg)
 + [c++26新功能—copyable_function](https://mp.weixin.qq.com/s/cji3vUU_jGFj38AIIzbaqg)
 + [c++26新功能—文件流中的原生句柄](https://mp.weixin.qq.com/s/UV4U_rbVCk0xRS73vYFI_A)
++ [c++26新功能—constexpr placement new](https://mp.weixin.qq.com/s/mmTqFspjwxpas6-Xh9Sm3w)
 + [现代C++特性： RAII思想与智能指针](https://mp.weixin.qq.com/s/68hAhvv2-FbLqx4hOJZ3Hw)
 + [c++26新功能—可观测检查点](https://mp.weixin.qq.com/s/ARJ4_tXO8mMa9pXSfVfpRg)
 + [“auto”不够精准？C++14新语法 decltype(auto)带你玩转完美返回值转发](https://mp.weixin.qq.com/s/WMm-geGrmHDO6oHfTwb3cg)
@@ -779,6 +784,7 @@
 + [C语言位操作技巧：99%人不知道的黑科技，让代码效率飞起来！](https://mp.weixin.qq.com/s/6DkUtTFBqjde4To8_C-USg)
 + [scanf函数的底层原理，想说输入不容易！](https://mp.weixin.qq.com/s/Jslc3vexMBqdWF3y72yDvw)
 + [为什么需要内存对齐？](https://mp.weixin.qq.com/s/fzdrFPd3Xqg6hrOJYx4Z8A)
++ [C语言读写文件操作详解](https://mp.weixin.qq.com/s/7nGG3fKS5ZREznBPlQNo0A)
 
 #### 宏
 

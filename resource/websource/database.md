@@ -989,6 +989,7 @@
 + [Redis键值对存储背后的奥秘：为何如此高效？](https://mp.weixin.qq.com/s/ilnzjxTIgTCcsD0Bw5aX1A)
 + [Redis高效数据管理之谜：哈希表迁移机制深度剖析](https://mp.weixin.qq.com/s/plL3np9W2-17nD5uShpS8g)
 + [揭秘Redis持久化：RDB vs AOF](https://mp.weixin.qq.com/s/pF4Dx9ApK-HqAPDo3o-rUw)
++ [Redis 持久化原理分析和使用建议](https://my.oschina.net/vivotech/blog/17504975)
 
 #### 分布式锁
 

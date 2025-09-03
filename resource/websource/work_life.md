@@ -114,6 +114,7 @@
 + [程序员最大的BUG：沉迷于细节，看不到全局](https://mp.weixin.qq.com/s/OrDYETNdb04efTFVRyaPkw)
 + [AI都会写代码了，我们学习编程还有什么意义？！](https://mp.weixin.qq.com/s/w5b8rUumWvN9IvNaRQckBA)
 + [做好这几件事，软件公司才有可能赚钱](https://my.oschina.net/easysoft/blog/18688521)
++ [互联网技术一号位：别只盯代码，这 5 件事才是核心](https://mp.weixin.qq.com/s/DlVe6kzwegQF3xKKZqjdFg)
 
 # 个人成长
 

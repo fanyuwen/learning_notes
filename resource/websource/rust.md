@@ -148,6 +148,8 @@
 + [Rust Moka缓存高级进阶：从高手到大师的并发优化之旅](https://mp.weixin.qq.com/s/Cw18wwNR5Dr4GoucmAcjkQ)
 + [从零到精通：Rust 音频采样率转换库 Rubato 的实战指南](https://mp.weixin.qq.com/s/C4kihM9JDKjg4ARWBIW1Gw)
 + [Rust编程：快速理解幽灵类型 PhantomData 是什么？](https://mp.weixin.qq.com/s/B65ivyU42vF11toiKzLFVw)
++ [六边形架构：让 Rust 在业务应用中无往不利](https://mp.weixin.qq.com/s/nK2cxJgT7ruBANynY7kAeg)
++ [我用Rust写了个分布式Actor系统，结果把自己都惊到了](https://mp.weixin.qq.com/s/R3D3Eztci22u9aZCdp6Qzw)
 
 # 框架
 

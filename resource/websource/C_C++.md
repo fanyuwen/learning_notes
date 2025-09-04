@@ -54,6 +54,8 @@
 + [CMake依赖太乱？用这个神器轻松搞定可视化！](https://mp.weixin.qq.com/s/AjUCIVcC34a1IikJgGzYgw)
 + [Cmake知识-如何编译C/C++程序](https://mp.weixin.qq.com/s/0T5_Nj9JUeNihFkhNVoGZQ)
 + [C++小寄巧-9：link_libraries一定要能link!](https://mp.weixin.qq.com/s/npqG1DCB-ThdKXUTVe3wlg)
++ [CMake使用说明（一）常见技巧与编译总结](https://mp.weixin.qq.com/s/eMU2eMwl3U9MBFIAF96tHw)
++ [C++项目构建之五 cmake的变量](https://mp.weixin.qq.com/s/4Znt9f4nvD5H3-W1pDNZdQ)
 
 ### 第三方技术
 
@@ -286,6 +288,9 @@
 + [C++ 性能优化：用 CRTP 实现零开销编译期多态](https://mp.weixin.qq.com/s/ndQrzq4InWyWsdulSfcTtw)
 + [深入理解C++性能优化：从内存管理到编译器优化实战](https://mp.weixin.qq.com/s/STy9n2hUg-sXFjdpvVqWXg)
 + [C++项目构建之十一 动态加载动态库](https://mp.weixin.qq.com/s/qe7k6_ARKytsOOQPuCWocg)
++ [C++动态内存（new/delete和malloc/free）](https://mp.weixin.qq.com/s/5rb7rGU_0FQSHsrYNUW6MQ)
++ [C++程序员最容易写错的5种代码，别等编译器报错才发现](https://mp.weixin.qq.com/s/03tnzqS7QGlYFk2KztBqLA)
++ [告别malloc/free，C++ 更强大的内存管理方式new/delete](https://mp.weixin.qq.com/s/lCRlEbPmghObYsc_1zSYRA)
 
 #### 指针
 
@@ -399,6 +404,7 @@
 + [这可能是C++20最具革命性的特性，没有之一！](https://mp.weixin.qq.com/s/zscU-yA896jBNfG3EFVcIQ?click_id=32)
 + [百万C++开发者进阶：掌握C++17这15个特性，项目性能实现跃迁！](https://mp.weixin.qq.com/s/zVNEA6w6St6q_HtOcyI51A)
 + [快速入门C++17：写出更简洁高效的代码](https://mp.weixin.qq.com/s/v8OeLsthJq454N5eFWHfBw)
++ [基于C++17的线程安全信号与槽机制实现](https://mp.weixin.qq.com/s/euYVDjlGqMLvpZrEh61EgA)
 + [C++17中有个 [[fallthrough]] 你使用了吗？](https://mp.weixin.qq.com/s/DyVw3ju1DHcRGlS5d9Mp6g)
 + [作为现代异步编程的基石，C++20 协程成熟了吗？](https://mp.weixin.qq.com/s/IHMhDoomP9djmMPXfQd-sg)
 + [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
@@ -478,6 +484,7 @@
 + [C++中菱形继承问题](https://mp.weixin.qq.com/s/x3vzuVZMQ5H1jbRDBN_gHg)
 + [c++抽象基类的使用场景](https://mp.weixin.qq.com/s/Ae4v8Nl4YUAHB8j8hx7EUA)
 + [构造C++对象时控制执行顺序的方案1](https://mp.weixin.qq.com/s/2hCsLysM55fYmkljFZxUsQ)
++ [C++语言中的空类](https://mp.weixin.qq.com/s/ZyVD52y_fzymwvT8_pd5LA)
 
 ##### 泛型
 
@@ -714,6 +721,7 @@
 + [谈C编程---switch-case语句的‌穿透](https://mp.weixin.qq.com/s/CToGKR_Fl4XjaRJC9qm6cA)
 + [C语言变量存储类型详解：auto、static和extern](https://mp.weixin.qq.com/s/XkbYQOw6avC0xbzENya8wA)
 + [枚举类型：C语言的“人类语言翻译官”，让代码从“天书”变“唠嗑”](https://mp.weixin.qq.com/s/xkYNnnrz0UXwehb8krTu6A)
++ [C语言预处理器：宏编程的奇技淫巧](https://mp.weixin.qq.com/s/osNda88yDB4XZ8auEsEXdQ)
 
 ### 高阶
 
@@ -856,6 +864,10 @@
 + [C语言的函数指针与回调函数](https://mp.weixin.qq.com/s/BLlSKzBrDJz5Gpbl2dTMUg)
 + [void指针≠空指针！这篇彻底搞懂它们的区别与联系](https://mp.weixin.qq.com/s/U8XHHJzlT6Qg0OyYQPSPEg)
 + [C语言函数指针：解锁六大高级应用场景，让你的代码更优雅！](https://mp.weixin.qq.com/s/9y1S5mNonPSFpszUEGQ-cQ)
++ [C 语言指针玩法 一： 指针算法](https://mp.weixin.qq.com/s/zYuTulVcDbdXSEQ5P0oNAQ)
++ [C语言指针玩法（二） ：指针数组与数组指针](https://mp.weixin.qq.com/s/ZLw286OOYdg3r4W1Skqx5Q)
++ [C语言函数指针：回调函数的正确打开方式](https://mp.weixin.qq.com/s/sLKphYmqyXnXb-1WKWb0KQ)
++ [C野指针的概念与应对（源头、阻隔、定位）](https://mp.weixin.qq.com/s/dwpueUstX0RSOgThEXpz9w)
 
 #### 函数
 
@@ -895,6 +907,7 @@
 + [C语言交换两个变量的值。](https://mp.weixin.qq.com/s/bEc8VUFJVC01EPwZbpqCTg)
 + [C语言实现快速排序详解](https://mp.weixin.qq.com/s/4qeh-ugHo1gxzHcxz-GA5Q)
 + [C语言现实堆排序详解](https://mp.weixin.qq.com/s/Igbl8_DXBGawZCjiNbXlTg)
++ [谈C编程---源码欣赏冒泡排序](https://mp.weixin.qq.com/s/r0GA9GuXE4FdlJmdpNe4tQ)
 
 ### 前景
 

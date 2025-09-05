@@ -51,6 +51,12 @@
 + [Kotlin协程之：取消与超时](https://mp.weixin.qq.com/s/d7nruUaDKnNrYFZC6Qwdow)
 + [Kotlin 上下文参数：从实验特性到预览功能的演进与应用](https://mp.weixin.qq.com/s/TKotn5G28ySSUTQgMVGz7w)
 + [协程崩溃5招教你优雅处理](https://mp.weixin.qq.com/s/aUfX9S-aBXU7eKg092dJiQ)
++ [Kotlin协程之：共享可变状态与并发](https://mp.weixin.qq.com/s/-95cAfJkJR2XoAWeS6zubw)
++ [Kotlin协程修仙三部曲之一：不懂协程只能在回调地狱里艰难前行](https://mp.weixin.qq.com/s/MDx80ttCdJS2k30YvpY2hA)
++ [Kotlin协程修仙三部曲之二：看山不是山——深入协程本质与底层原理](https://mp.weixin.qq.com/s/Ezv8NciMqgCE3kxY5ZO2kg)
++ [Kotlin协程修仙三部曲之三：看山还是山——返璞归真的协程大道](https://mp.weixin.qq.com/s/KvSUK9DKJnznLIdnKLoi7g)
++ [Kotlin协程之：Select 表达式](https://mp.weixin.qq.com/s/GmPyB2okWAFiXR3Os7kF6Q)
++ [Kotlin 中为什么 reified 关键字需要与 inline 函数结合使用](https://mp.weixin.qq.com/s/8lGbETgsaDLfjbUNrravnA)
 
 ## 技术月报
 

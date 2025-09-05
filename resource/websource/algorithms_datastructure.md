@@ -113,6 +113,7 @@
 + [一致性哈希算法详解：大厂如何构建弹性伸缩的分布式缓存](https://mp.weixin.qq.com/s/lpJYuTWYraXE_JOo1m0waA)
 + [一致性哈希算法真的能解决分布式系统痛点吗？看完这篇你就懂了！](https://mp.weixin.qq.com/s/LxmeiHzjQZX-cynhV-MNhA)
 + [用 JSON 表现树的结构兼谈队列、堆栈的练习（一）](https://mp.weixin.qq.com/s/quzNMNFiEO1B76h8U-W0PQ)
++ [算法～前缀和滑动窗口](https://mp.weixin.qq.com/s/8_Z9wNWSiO3Wb16R7t97IQ)
 
 ## Graph
 
@@ -183,6 +184,8 @@
 + [快速排序，为何 “快”？](https://mp.weixin.qq.com/s/yaAg1nKpkH3qy32jI5t28Q)
 + [排序算法完全指南：从理论到实践的全面探索](https://mp.weixin.qq.com/s/LvGDj-kNhKvgIZFqP2uFNQ)
 + [归并排序：优雅如诗的「分治」艺术](https://mp.weixin.qq.com/s/9WBX7N3Wrwrcf0URQ1GnXQ)
++ [冒泡排序：从入门到精通，一文搞懂经典排序算法](https://mp.weixin.qq.com/s/a-0jEa3wnikZDSZoM0aObQ)
++ [冒泡排序（Bubble Sort）](https://mp.weixin.qq.com/s/XqNRtQnyp16ap0s9ORnXsw)
 
 # 密码学
 
@@ -235,4 +238,5 @@
 + [剑指offer-16、合并两个有序链表](https://mp.weixin.qq.com/s/UoPMafS8WzXghM09AFbz-g)
 + [剑指offer-24、二叉树中和为某一值的路径（一）](https://mp.weixin.qq.com/s/_a0T_o--mo-mujs7ei5Jkw)
 + [剑指offer-25、复杂链表的复制](https://mp.weixin.qq.com/s/1A6CkHTfUeRwxonVdX_OJA)
++ [剑指offer-26、二叉搜索树与双向链表](https://mp.weixin.qq.com/s/ayMBq6f7VXhWSt8n-BV6Mg)
 + [LeetCode热题100之链表I](https://mp.weixin.qq.com/s/3dqSih_HV5F60DZGHcvRZQ)

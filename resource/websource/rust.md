@@ -150,6 +150,11 @@
 + [Rust编程：快速理解幽灵类型 PhantomData 是什么？](https://mp.weixin.qq.com/s/B65ivyU42vF11toiKzLFVw)
 + [六边形架构：让 Rust 在业务应用中无往不利](https://mp.weixin.qq.com/s/nK2cxJgT7ruBANynY7kAeg)
 + [我用Rust写了个分布式Actor系统，结果把自己都惊到了](https://mp.weixin.qq.com/s/R3D3Eztci22u9aZCdp6Qzw)
++ [Rust项目的运行机制与实践](https://mp.weixin.qq.com/s/KFU58r92RZhtKhnaSVI51A)
++ [Rust 泛型秘籍：零基础小白的代码魔法之旅](https://mp.weixin.qq.com/s/CvLH5mhgrpQ_ll1olV2mzQ)
++ [Rust 编程：探讨 &'static 与 T: 'static](https://mp.weixin.qq.com/s/8FC67FF-KBfr-KvMcJxc5A)
++ [Rust从入门到精通11-包和模块管理](https://mp.weixin.qq.com/s/xn2SDfDCNE3ECXiUP0dKzw)
++ [Rust 宏编程的局限性与解决方案](https://mp.weixin.qq.com/s/gOSspmfsWy7nWlq1UcFGzw)
 
 # 框架
 

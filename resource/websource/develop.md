@@ -865,6 +865,7 @@
 + [正则表达式：破解文本世界的终极密码](https://mp.weixin.qq.com/s/bWY56d3bWP0ij2LcYC31Hg)
 + [正则表达式优化建议](https://mp.weixin.qq.com/s/wU6gGbx7ec_FTWs9BQ3Ugw)
 + [一看就懂：正则表达式不用背](https://mp.weixin.qq.com/s/gR5RCXHKlpgDBKtmussSow)
++ [说起正则表达式，你是不是只会用通配符 *](https://mp.weixin.qq.com/s/2FRyjwl65TOVKJAUaVQcGQ)
 
 ### 序列化
 

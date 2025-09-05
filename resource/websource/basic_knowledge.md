@@ -194,6 +194,8 @@
 + [深度解析Linux设备树（DTS）：设计原理、实现框架与实例分析](https://mp.weixin.qq.com/s/LrHxdTbdezzuk0_SKRS2Aw)
 + [Linux 进程深度解析（6）：资源隔离的底层实现 （Namespace、Cgroups 与容器化）](https://mp.weixin.qq.com/s/e6frNlBOy2IUwEC5w7qVUw)
 + [linux内核--内存分配](https://mp.weixin.qq.com/s/v7nC2CheNdEt052zGgadiw)
++ [Linux 进程深度解析（5）：多进程实战（架构设计与优化技巧）](https://mp.weixin.qq.com/s/YYepLO8xrqJl0ifjUyJYQg)
++ [Linux进程间通信（IPC）深入解析](https://mp.weixin.qq.com/s/NpvSDV8Y5Ejlm53Hob-Dnw)
 
 ### 网络
 
@@ -302,6 +304,7 @@
 + [十分钟实用教程 | "bash -e"的使用与shell脚本常见使用技巧](https://mp.weixin.qq.com/s/b41t4m-9logE-bbhAqu1fA)
 + [玩转Linux文本处理：详解awk核心选项、变量与函数技巧](https://mp.weixin.qq.com/s/7i9hhwp8-4GerDJq3zILBw)
 + [Linux 系统调用跟踪利器：strace](https://mp.weixin.qq.com/s/vaJP_BcG9B-4kQWl0Iys-g)
++ [Linux操作系统基础篇：深度解析进程的常用命令](https://mp.weixin.qq.com/s/2JDHHvkudAejx6VBeUfQCQ)
 
 ### 发行版信息
 
@@ -427,6 +430,11 @@
 + [存储器RAM和ROM的区别](https://mp.weixin.qq.com/s/z3x0hCI6Gsm9KBg0YDzpvw)
 + [4张图搞懂堆和栈的区别](https://mp.weixin.qq.com/s/fCVmahovwghwz5iUiTIS5w)
 + [NUMA 深度解析（三）：缓存一致性](https://mp.weixin.qq.com/s/R6xT9R1rFsuLeAj4znGLtQ)
++ [内存对齐的原则是什么？](https://mp.weixin.qq.com/s/S6M9ERMeyXpmOZiONePUpw)
++ [静态内存和动态内存](https://mp.weixin.qq.com/s/51wxhU4tekVs_c4Z3SXk3A)
++ [彻底搞懂Linux内存对齐，让你的程序跑得更快](https://mp.weixin.qq.com/s/qNR_hvMvS4V2HsaTmayKEQ)
++ [内存泄漏通常会有哪些表现？](https://mp.weixin.qq.com/s/L65lsLg1btr3BSR5ORT8EQ)
++ [从硬件角度看内存管理：解锁计算机底层性能原理](https://mp.weixin.qq.com/s/Oq8wvtiW_meOvRYkWQlUBw)
 
 ## GPU
 
@@ -780,6 +788,7 @@
 + [IO多路复用与进-线程池的优劣对比](https://mp.weixin.qq.com/s/cL9MG7NRAKXi8nbN9K-bFA)
 + [深入理解高并发：IO多路复用与进程、线程、协程的协同关系](https://mp.weixin.qq.com/s/rc18IRKHpW_9OPDCwsqetA)
 + [大白话聊懂IO的零拷贝技术](https://mp.weixin.qq.com/s/XmGobf693GYNT_3h6ZwsTg)
++ [用“同步写法”做“异步 I/O”——Selector 与线程池的混合异步 I/O 框架](https://mp.weixin.qq.com/s/eGfaNDaPjR5mJDeO-V4PmA)
 
 ## 字符编码
 

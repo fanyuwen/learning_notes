@@ -246,6 +246,7 @@
 ### 核心库/模块
 
 + [Python字符串](https://mp.weixin.qq.com/s/uqUOTPac4oqBuV5EHHy1jQ)
++ [Python 字符串秘籍：写代码的人都该背的小抄](https://mp.weixin.qq.com/s/RwQLdxeJQBFFDZPK5iCIuw)
 + [Python字符串处理常用的30种操作](https://mp.weixin.qq.com/s/uCk2XJKZ0zsaxVpRi0lNzQ)
 + [Python 字符串格式化输出](https://mp.weixin.qq.com/s/-piYtizGRJAXNNEjlfxrVQ)
 + [Python字符串方法总汇(下篇)](https://mp.weixin.qq.com/s/-Hq2v5ieNL-xJV1MHxtrmw)
@@ -374,6 +375,7 @@
 + [Python神器 itertools 模块的72变魔法！（超实用场景）](https://mp.weixin.qq.com/s/7Rq7MLfga9RIth7IMjKCaQ)
 + [Python内置模块zipfile：操作 ZIP 归档文件详解](https://mp.weixin.qq.com/s/xZZ46z1R36__HtwqWSvV3w?click_id=54)
 + [《零基础Python成长日记》第5篇：调用Python函数和模块](https://mp.weixin.qq.com/s/5Yme7lpYPUk307iotyTchQ)
++ [探讨list与tuple的区别](https://mp.weixin.qq.com/s/QyFLiWVoDocIw4mmkQjNvg)
 
 ### 异步/多线程
 
@@ -784,6 +786,7 @@
 + [盘点Python新手小白常写的10大“反人类”语法](https://mp.weixin.qq.com/s/-lOsg1TiDaIr4tCGXv5YBQ)
 + [函数、对象、模块——让你写的Python不再乱成一锅粥](https://mp.weixin.qq.com/s/LonoUjWDrNcC4yUkCVT2ZQ)
 + [写Python的人，都应该学会的10个高效技巧](https://mp.weixin.qq.com/s/QEyl6RqUsFIVrSm5z0-fkw)
++ [多线程事件驱动模型实现详解：使用Python实现](https://mp.weixin.qq.com/s/A3hEMK9Eov63k69k9XWPEA)
 
 ## 新特性
 
@@ -1126,6 +1129,7 @@
 + [用Python来解放双手，PyAutoGUI详解](https://mp.weixin.qq.com/s/Q8rf8CjfgdaFsn5YkqkcvQ)
 + [让Python任务跑得飞起的神仙编排工具，](https://mp.weixin.qq.com/s/A_KDrFT-nTjZhauBkIl9tQ)
 + [分布式异步函数调度框架funboost的使用记录](https://mp.weixin.qq.com/s/ib_7D3xPVE_TjeB_4S6Ajg)
++ [PyInstaller打包避坑全攻略：新手一看就会，老手也能涨姿势](https://mp.weixin.qq.com/s/8qxtKKqxPocg5f9o41LCMg)
 
 ## 框架
 

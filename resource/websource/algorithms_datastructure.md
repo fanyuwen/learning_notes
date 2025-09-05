@@ -210,6 +210,7 @@
 + [如何统计不同电话号码的个数？—位图法](https://mp.weixin.qq.com/s/VejpMRrPgNOPtyHTPfvo_w)
 + [信用卡验证算法--Luhn](https://mp.weixin.qq.com/s/hax9EQRTTzrKuP6UERLpZg)
 + [奇异值分解（SVD）：图像压缩的魔法](https://mp.weixin.qq.com/s/deKhqpYa5kXbC6QzzBpP0Q)
++ [聊聊六种负载均衡算法](https://mp.weixin.qq.com/s/ijRVd91ODt8HJmb1TSinvg)
 
 # leetcode
 

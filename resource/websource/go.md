@@ -75,7 +75,9 @@
 + [TOP 20 Go最佳实践](https://colobu.com/2023/11/17/golang-quick-reference-top-20-best-coding-practices/?comefrom=https://blogread.cn/news/&s_trans=2197476363_&s_channel=4)
 + [Go 的结构体嵌入](https://mp.weixin.qq.com/s/5EZhCDkuY4Rl5ghVvRJ4ww)
 + [Go 入门指南：7.3. For-range 结构](https://mp.weixin.qq.com/s/wdu7mvnFIz-jXrdjUO9Ueg)
++ [Go语言高效字符串拼接全攻略](https://mp.weixin.qq.com/s/Lb5yPwpUdm8C27jX-WQUPg)
 + [Go语言入门教程：循环与分支结构详解](https://mp.weixin.qq.com/s/0uVgY5tylm92-fF8fxw9BQ)
++ [8.3 集合-切片](https://mp.weixin.qq.com/s/Clo2iW4IXqjGf_tAdbDDIA)
 + [Go语言中函数作为一等公民，探索灵活性和应用之道](https://mp.weixin.qq.com/s/pyuPdp7ye_2BJwP9AT-KtA)
 + [Go语言的并发通信：channel的高级用法](https://mp.weixin.qq.com/s/UQ04Ew_ZIrVDw9g--GkQXA)
 + [Go 语言中不可不知的语法糖](https://mp.weixin.qq.com/s/dim6CFoJK4POZCky9zDY_g)
@@ -225,6 +227,8 @@
 + [Golang基础笔记十五之sync](https://mp.weixin.qq.com/s/mXzH0SNxHqbEHQiFYHExbg)
 + [Go设计模式之单例设计模式](https://mp.weixin.qq.com/s/46EOjHhxebhO7rx3UIsF9w)
 + [Go定时器：高效并发编程的核心组件](https://mp.weixin.qq.com/s/ojqEy1NdsqJsrY9rLULpAg)
++ [在 Go 语言中两个 interface{} 可以比较吗？](https://mp.weixin.qq.com/s/GZQXYkzksIxnFq5f9JMG5g)
++ [Goroutine为什么比传统线程更适合高并发场景？](https://mp.weixin.qq.com/s/py8kj5w-S-vE4CcfpdkbSQ)
 
 # 面试题
 

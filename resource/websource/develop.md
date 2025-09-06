@@ -784,6 +784,7 @@
 + [业务复杂度治理方法论 -- 十年系统设计经验总结](https://my.oschina.net/u/4090830/blog/18043733)
 + [高并发场景下的库存管理，理论与实战能否兼得？](https://my.oschina.net/u/4090830/blog/17989921)
 + [多租户应用程序架构--挑战与实践](https://mp.weixin.qq.com/s/0wocLjTmJGT6jdIWjEX8UA)
++ [面试官：如何设计一个百万用户同时在线的直播评论系统？](https://mp.weixin.qq.com/s/sjj8J3ABGR9hmJ36Kj0VCQ)
 
 ## 代码相关
 
@@ -959,6 +960,7 @@
 + [Git远程仓库与协作技巧详解](https://mp.weixin.qq.com/s/nTjT8MBi15xX8Fe1EYn1JA)
 + [你可能忽略的git高阶用法](https://mp.weixin.qq.com/s/gxYDaP7iAIDEzh58Zq_n1w)
 + [Git 高效操作指南：撤销、冲突解决与实用技巧](https://mp.weixin.qq.com/s/e7k1EaEFJ_KOMo0OOx2nkg)
++ [10+个冷门却超实用的Git命令，一学就能用~](https://mp.weixin.qq.com/s/QpENWOtNnbHidEkqwPlryw)
 
 ### 编程范式
 

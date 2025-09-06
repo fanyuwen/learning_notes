@@ -155,6 +155,7 @@
 + [Rust 编程：探讨 &'static 与 T: 'static](https://mp.weixin.qq.com/s/8FC67FF-KBfr-KvMcJxc5A)
 + [Rust从入门到精通11-包和模块管理](https://mp.weixin.qq.com/s/xn2SDfDCNE3ECXiUP0dKzw)
 + [Rust 宏编程的局限性与解决方案](https://mp.weixin.qq.com/s/gOSspmfsWy7nWlq1UcFGzw)
++ [Rust从入门到精通15-Option和Result详解](https://mp.weixin.qq.com/s/MRlmh2DJD_-6QLDpFOXNAg)
 
 # 框架
 

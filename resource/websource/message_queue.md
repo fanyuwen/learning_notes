@@ -188,6 +188,7 @@
 + [RocketMQ系列：消息的顺序性【第6讲】](https://mp.weixin.qq.com/s/g92huf2WtoV2tAvEQFhbVQ)
 + [RocketMq如何借助CommitLog实现百万并发的能力](https://mp.weixin.qq.com/s/0A1uCQl2DhQeFl44wbzfrw)
 + [RocketMQ消息存储机制（消息可靠性利器）](https://mp.weixin.qq.com/s/VPfcXa1jiwqkRaC-rDw4WA)
++ [源码解读：RocketMQ与DDMQ的顺序消费](https://mp.weixin.qq.com/s/j7vK8XL9mO06to0Tk734bw)
 
 # RABBITMQ
 

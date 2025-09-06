@@ -37,6 +37,7 @@
 + [初探 Makefile](https://mp.weixin.qq.com/s/vCNn7HUpQfIHv69v3W13Ng)
 + [gcc 与 g++：有什么区别？](https://mp.weixin.qq.com/s/KZxDeG_iqbTje6DE2n7gGA)
 + [5个C语言内存检测神器，让段错误彻底消失！](https://mp.weixin.qq.com/s/VwCVBoBFM4Z2t2sKOetqQA)
++ [从strace的输出看程序是如何跑起来的](https://mp.weixin.qq.com/s/cUIdWk54SaaoqyhDsks7hw)
 
 ### cmake
 
@@ -291,6 +292,10 @@
 + [C++动态内存（new/delete和malloc/free）](https://mp.weixin.qq.com/s/5rb7rGU_0FQSHsrYNUW6MQ)
 + [C++程序员最容易写错的5种代码，别等编译器报错才发现](https://mp.weixin.qq.com/s/03tnzqS7QGlYFk2KztBqLA)
 + [告别malloc/free，C++ 更强大的内存管理方式new/delete](https://mp.weixin.qq.com/s/lCRlEbPmghObYsc_1zSYRA)
++ [性能瓶颈？这 4 种替代方案让你的 C++ 性能轻松翻倍！](https://mp.weixin.qq.com/s/swsllHJXqENJ6N2FUvCtSw)
++ [怎么把一行“屎山”代码优雅转化成 C++11 级别的神器？看完你就懂了！](https://mp.weixin.qq.com/s/GRUqUK0uJ68tyCCpnUG-Gw)
++ [跟我学C++中级篇——进制转换](https://mp.weixin.qq.com/s/9wOw2cRJS-IeyxJgvXQ7Lw)
++ [C++杂记：C++内存泄漏排查实战](https://mp.weixin.qq.com/s/yhmeGJfCZCVearXCbkBKYw)
 
 #### 指针
 
@@ -321,6 +326,7 @@
 + [C++的三种参数传递机制：从底层原理到实战](https://mp.weixin.qq.com/s/Lub0Y_l6jJnU_Oj-xuzQWQ)
 + [c++ Lambda 表达式闭包陷阱](https://mp.weixin.qq.com/s/gpzYwyN4KBk1w23WxV9K9w)
 + [虎牙C++后台秋招一面：解析lambda表达式的参数绑定的实现原理？](https://mp.weixin.qq.com/s/zhWeafJwm4JoWIUlhDb27A)
++ [C++虚函数表到底在哪个位置呢？](https://mp.weixin.qq.com/s/AuGjzDe1Emiva7RB7uqP5g)
 
 #### 数据结构&算法
 
@@ -386,6 +392,8 @@
 + [STL 算法：用一行代码替代繁琐的 for 循环](https://mp.weixin.qq.com/s/GvKVs99poHDEkZ-Zi5rogQ)
 + [深度剖析 C++ vector 的扩容机制：为什么总要“大动干戈”？](https://mp.weixin.qq.com/s/uOMXAYsQ2rUGTJ0J80x-Rg)
 + [90%的C++ 程序员都忽略了这个容器——unordered_multiset，让我们来看看开源项目中怎么使用的](https://mp.weixin.qq.com/s/w5xRMe2wzUVYzDM02VmcBQ)
++ [c++周刊答疑:为什么boost::intrusive_ptr比std::shared_ptr快](https://mp.weixin.qq.com/s/iHMrMk9r7KK5zEmCW_-vaw)
++ [std::vector 真不背这个锅，拖慢速度的其实是 noexcept！](https://mp.weixin.qq.com/s/H1eDKYxwmyOz8QmrUH1DMA)
 
 #### 新特性
 
@@ -556,6 +564,7 @@
 + [C++11实现一个读写自旋锁-2（内存序）](https://mp.weixin.qq.com/s/jChRulavwBFFf47fOlyGSA)
 + [你以为自己懂多线程？C++ 并发的坑比想象的要深](https://mp.weixin.qq.com/s/s8uh0O15GPbejINNUdCb7A)
 + [C++程序员千万别踩的坑：多线程只靠bool，Bug追到头发掉光](https://mp.weixin.qq.com/s/QPx48CWiUP9uP2PbuCguXQ)
++ [C++多线程同步机制详解：锁、条件变量与原子操作](https://mp.weixin.qq.com/s/FskTKHBc1BbTUM463zz_2g)
 
 #### 扩展
 
@@ -567,6 +576,7 @@
 + [编译器眼中的虚函数动态绑定](https://mp.weixin.qq.com/s/L3U7-IQSgxiW1jPbTmPDGA)
 + [谈C编程---八路脉冲信号边沿检测](https://mp.weixin.qq.com/s/Z0kCGkga3_DnwgnPrg7RtA)
 + [纯手工打造C++ JSON序列化神器：告别手动解析，拥抱自动化转换](https://mp.weixin.qq.com/s/h4YzZqUaIFw4MZbRfJ-n_g)
++ [你没见过的 C++ 神操作：编译期解析 JSON](https://mp.weixin.qq.com/s/wH2bRpV8BLzgxEyl5raAZA)
 
 #### 三方库
 
@@ -613,6 +623,7 @@
 + [一个超级实用的C++库](https://mp.weixin.qq.com/s/hL1No89dToi7nUbcwIMtNA)
 + [C++零拷贝反序列化库 cista](https://mp.weixin.qq.com/s/KENr2Q4HoU9R75L-l95uoQ)
 + [cmakerc,一个基于c++的开源库](https://mp.weixin.qq.com/s/-VHji0N_b9xhLa11qJTazw)
++ [推荐一个强大的C++优化库：Ceres](https://mp.weixin.qq.com/s/R1SB5ayKCtD8JClgU6MXGw)
 
 #### Qt
 

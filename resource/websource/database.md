@@ -990,6 +990,7 @@
 + [Redis高效数据管理之谜：哈希表迁移机制深度剖析](https://mp.weixin.qq.com/s/plL3np9W2-17nD5uShpS8g)
 + [揭秘Redis持久化：RDB vs AOF](https://mp.weixin.qq.com/s/pF4Dx9ApK-HqAPDo3o-rUw)
 + [Redis 持久化原理分析和使用建议](https://my.oschina.net/vivotech/blog/17504975)
++ [揭秘Redis哨兵：高可用背后的技术细节](https://mp.weixin.qq.com/s/N4Wx6Vyr4pTZqvla4uH_eQ)
 
 #### 分布式锁
 

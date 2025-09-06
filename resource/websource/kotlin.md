@@ -57,6 +57,7 @@
 + [Kotlin协程修仙三部曲之三：看山还是山——返璞归真的协程大道](https://mp.weixin.qq.com/s/KvSUK9DKJnznLIdnKLoi7g)
 + [Kotlin协程之：Select 表达式](https://mp.weixin.qq.com/s/GmPyB2okWAFiXR3Os7kF6Q)
 + [Kotlin 中为什么 reified 关键字需要与 inline 函数结合使用](https://mp.weixin.qq.com/s/8lGbETgsaDLfjbUNrravnA)
++ [Kotlin协程之：异常处理](https://mp.weixin.qq.com/s/1dudmLzgMMa4SVonYZ0QXQ)
 
 ## 技术月报
 

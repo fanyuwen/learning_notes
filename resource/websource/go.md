@@ -229,6 +229,8 @@
 + [Go定时器：高效并发编程的核心组件](https://mp.weixin.qq.com/s/ojqEy1NdsqJsrY9rLULpAg)
 + [在 Go 语言中两个 interface{} 可以比较吗？](https://mp.weixin.qq.com/s/GZQXYkzksIxnFq5f9JMG5g)
 + [Goroutine为什么比传统线程更适合高并发场景？](https://mp.weixin.qq.com/s/py8kj5w-S-vE4CcfpdkbSQ)
++ [Go并发编程：sync.Once 的底层机制与最佳实践](https://mp.weixin.qq.com/s/_WMHtfERtqdc01Pv0LJVEg)
++ [深入解析Go设计模式：对象池模式实战](https://mp.weixin.qq.com/s/_lOou0FHcKzidUc3D_LyVQ)
 
 # 面试题
 

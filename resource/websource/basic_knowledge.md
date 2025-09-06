@@ -196,6 +196,8 @@
 + [linux内核--内存分配](https://mp.weixin.qq.com/s/v7nC2CheNdEt052zGgadiw)
 + [Linux 进程深度解析（5）：多进程实战（架构设计与优化技巧）](https://mp.weixin.qq.com/s/YYepLO8xrqJl0ifjUyJYQg)
 + [Linux进程间通信（IPC）深入解析](https://mp.weixin.qq.com/s/NpvSDV8Y5Ejlm53Hob-Dnw)
++ [Linux进程深度解析（2）：fork/exec写时拷贝性能优化与exit资源回收机制（进程创建和销毁）](https://mp.weixin.qq.com/s/jvkwbHzCRacUC6Nfm9-BKQ)
++ [Linux内核中的智能指针](https://mp.weixin.qq.com/s/Fm7Z3rG3EfaROA5DNcypMw)
 
 ### 网络
 

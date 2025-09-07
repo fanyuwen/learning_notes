@@ -156,6 +156,7 @@
 + [Rust从入门到精通11-包和模块管理](https://mp.weixin.qq.com/s/xn2SDfDCNE3ECXiUP0dKzw)
 + [Rust 宏编程的局限性与解决方案](https://mp.weixin.qq.com/s/gOSspmfsWy7nWlq1UcFGzw)
 + [Rust从入门到精通15-Option和Result详解](https://mp.weixin.qq.com/s/MRlmh2DJD_-6QLDpFOXNAg)
++ [终于搞懂了！Rust 所有权原来可以这么简单](https://mp.weixin.qq.com/s/jLEXHcS0CQIpV4sWfyDEOA)
 
 # 框架
 
@@ -244,3 +245,4 @@
 + [为什么越来越多的大厂选择使用 Rust 开发？](https://mp.weixin.qq.com/s/YTYZVg3BRhKYteyB60KQfw)
 + [微软如何用 Rust 做创新：与 Rust 基金会主席的对话](https://mp.weixin.qq.com/s/S61GfYRiipmozXzBgx0s1g)
 + [从Spring Boot的自动化到Rust的手动实现](https://mp.weixin.qq.com/s/QrkMfyOV-hq3j0vVA_v-kw)
++ [性能飞跃：如何用 Rust 构建高性能 Python 模块](https://mp.weixin.qq.com/s/38v3x-IsglyBQBzDwZBjTQ)

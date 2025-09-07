@@ -916,6 +916,7 @@
 + [Java多线程基础：进程、线程与线程安全实战](https://mp.weixin.qq.com/s/cDR6Yf8wnlvTJrIETCBOjQ)
 + [谈谈线程的中断退出](https://mp.weixin.qq.com/s/qSWK4ngcHoObhtoQ0VAvQA)
 + [大白话聊明白多线程的基础，Java线程的状态和转换](https://mp.weixin.qq.com/s/LD9Eh8-LlNl2ZNJcWydq2A)
++ [实现一个可中断线程的线程类-续](https://mp.weixin.qq.com/s/aDnK_6yoXr57eZZrbwMNHQ)
 
 #### CAS
 
@@ -992,6 +993,7 @@
 + [Java线程池真的那么难懂吗？看完这篇你就全明白了！](https://mp.weixin.qq.com/s/E8mQ7zdnXR3-MXrldey7yQ)
 + [别只死背线程池七大参数了，面试官根本不是这么问的！](https://mp.weixin.qq.com/s/PVltq6pmo3cr1hWxjhwt_Q)
 + [ForkJoinPool：Java并发编程中的递归与分治任务](https://mp.weixin.qq.com/s/nXh6Tacqed-x8BG8fIGALA)
++ [Java线程池实战：异步任务超时控制与CompletableFuture任务编排全解析](https://mp.weixin.qq.com/s/73qsKwuqH3Fty_gmRug2AQ)
 
 #### 锁
 
@@ -1089,6 +1091,8 @@
 + [面试官再问synchronized底层原理，这样回答让他眼前一亮！](https://mp.weixin.qq.com/s/hrGQvrfIE9fEUOD8hKN5wg)
 + [面试官最爱问的锁问题：为什么我们放弃synchronized，选择ReentrantLock](https://mp.weixin.qq.com/s/1Vc2iCjKHMXko_B5AIREeQ)
 + [深入Java并发：锁机制原理剖析与性能优化实战](https://mp.weixin.qq.com/s/wQIM9VMlbanHrP1oJrFUzQ)
++ [Synchronized 你真的理解了吗？一文搞懂 synchronized 的原理与优化](https://mp.weixin.qq.com/s/FDurThhJvmUDdim9PLOWWw)
++ [独占锁 vs 读写锁：如何在并发编程中做出正确选择](https://mp.weixin.qq.com/s/evBmYMaAq-_GlSWVR1T8NA)
 
 #### volatile
 
@@ -1116,6 +1120,7 @@
 + [Java volatile关键字：你真的懂了吗？](https://mp.weixin.qq.com/s/hoNkjnJxVMbWe98ahhP8UA)
 + [面试官最爱问的volatile，底层原理到底是什么？](https://mp.weixin.qq.com/s/YvoeMfAyCGpkT-2p6rso-A)
 + [Java并发必看！volatile不加会死机？DCL中的“隐藏陷阱”揭秘！](https://mp.weixin.qq.com/s/OeJxYXlGN4btdx2e7WphZw)
++ [深入理解 volatile：为什么它既重要又“不可靠”？](https://mp.weixin.qq.com/s/ZV-tpDBYeAX52ywb2-_xAQ)
 
 ## 源码
 
@@ -1405,6 +1410,7 @@
 + [一文看懂ThreadLocal内存泄漏](https://mp.weixin.qq.com/s/g2GDUQ2Rqj4IXzmbYnx8jg)
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
 + [ThreadLocal为什么会导致内存泄漏？该如何解决?](https://mp.weixin.qq.com/s/AgimSOPksDCJKKn9LatcZg)
++ [大白话深入理解ThreadLocal：原理、内存泄漏、源码分析](https://mp.weixin.qq.com/s/wdQiobKUmMThlhye_VjI-A)
 
 ## math库
 
@@ -1943,6 +1949,7 @@
 + [Apache Commons NumberUtils：让数字处理代码减少 60% 的工具类](https://mp.weixin.qq.com/s/bKIus9Hgo5W45S7m9XQe_Q)
 + [IteratorUtils：解锁Java迭代器操作的神兵利器，告别繁琐循环！](https://mp.weixin.qq.com/s/uORpJYXm8XGlQJOZF_6N8Q)
 + [Apache Commons MapUtils：让 Map 操作效率提升一倍的工具类](https://mp.weixin.qq.com/s/NY7Ae85o-LyQB41vmDOjsQ)
++ [别再给枚举写辅助方法了！Apache EnumUtils 一行搞定转换、校验、集合化](https://mp.weixin.qq.com/s/J6iFWVdXbILDb4u6jtjmrA)
 + [还在写一堆 if-else 做参数校验？Apache ValidationUtils 一行搞定，代码清爽 10 倍](https://mp.weixin.qq.com/s/6BwwssgWLll7igKqnnmKjQ)
 
 ## apollo
@@ -2217,6 +2224,7 @@
 + [JAVA：MyBatis 如何处理延迟加载的技术指南](https://mp.weixin.qq.com/s/O3pPnrMcrst8faKl_Z8XxA)
 + [MyBatis自动生成Mapper引发的查询空值问题：排查过程与反思](https://mp.weixin.qq.com/s/1KbGri34mRzS1sW3QE2vXQ)
 + [只会写 Mapper 就敢说会 MyBatis？面试官：原理都没懂](https://mp.weixin.qq.com/s/o8PEVApCDmt_vufa6hTssg)
++ [MyBatis 进阶：动态 SQL、关联查询与缓存，中级开发者必备技巧](https://mp.weixin.qq.com/s/3x67LNueFCAOY24g-upimg)
 
 ### plus
 
@@ -3041,6 +3049,7 @@
 + [Spring Cloud Config 核心原理](https://mp.weixin.qq.com/s/an4Xw8x2C7cB8Xutt7PpMA)
 + [Spring Boot实战：解锁Spring Cloud Stream流式消息驱动新姿势](https://mp.weixin.qq.com/s/2dAG3XmU590p9toceoDEtQ)
 + [Spring Cloud OpenFeign 核心原理](https://mp.weixin.qq.com/s/gNKD3JUvGEdihK3A6zVspA)
++ [快速入门：SpringCloud负载均衡组件LoadBalancer详解](https://mp.weixin.qq.com/s/KpOsBJB5c8360wJag3WHSg)
 
 #### alibaba
 
@@ -3809,6 +3818,8 @@
 + [从静态到动态！Spring Boot 动态创建配置Feign Client](https://mp.weixin.qq.com/s/4h_kHs1tmieQXjOKNqhPsg)
 + [高级开发！玩转Controller接口，动态控制与实时刷新](https://mp.weixin.qq.com/s/3SDJtvz6Kbtcf-hmAA1eTg)
 + [告别“不停刷新”！Spring Boot SSE 带你体验真·实时](https://mp.weixin.qq.com/s/Ja497IQ0ud9HS1YMFsuwEQ)
++ [Spring Boot 接口文档进阶：从 Swagger 到 Knife4j 再到 OpenAPI 3.0](https://mp.weixin.qq.com/s/z1Dv2yV1yxdjPusaVtSGXQ)
++ [Spring Boot 文件编码问题解析：乱码、国际化与多语言配置](https://mp.weixin.qq.com/s/1WxRHSXk8oN-BiRFgqWoaw)
 
 ##### 文件上传下载
 
@@ -4448,6 +4459,8 @@
 + [Java进阶手册（二十七）SpringBoot中使用JobRunr后台任务执行神器](https://mp.weixin.qq.com/s/UNMFY1f8-bX_4A53LlfcmQ)
 + [SpringBoot + Netty 远程调用实战：从零搭建附带核心代码](https://mp.weixin.qq.com/s/JwJoaAggXA8eMr-d9-nOOA)
 + [JAVA：Spring Boot 集成 Grizzly 实现高并发](https://mp.weixin.qq.com/s/bPvLbJ4vj7dc_0wMMhPq3g)
++ [抛弃AOP！SpringBoot + YAML 零侵入数据脱敏神操作！](https://mp.weixin.qq.com/s/A_sWUcsjT1bO27HanCKayA)
++ [Spring Boot + JavaScript 实时数据流：2种完整实现](https://mp.weixin.qq.com/s/PECwZgwqLjMQ9U-ydrtLXg)
 
 ##### excel
 

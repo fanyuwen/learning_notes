@@ -231,6 +231,7 @@
 + [Goroutine为什么比传统线程更适合高并发场景？](https://mp.weixin.qq.com/s/py8kj5w-S-vE4CcfpdkbSQ)
 + [Go并发编程：sync.Once 的底层机制与最佳实践](https://mp.weixin.qq.com/s/_WMHtfERtqdc01Pv0LJVEg)
 + [深入解析Go设计模式：对象池模式实战](https://mp.weixin.qq.com/s/_lOou0FHcKzidUc3D_LyVQ)
++ [Go 语言 Array 和 Slice 深度解析：核心区别与实战指南](https://mp.weixin.qq.com/s/4DXKZSjeLyr1t-PAJhAhaw)
 
 # 面试题
 

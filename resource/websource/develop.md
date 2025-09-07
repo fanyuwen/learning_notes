@@ -225,6 +225,7 @@
 + [微服务整体架构设计实践](https://mp.weixin.qq.com/s/WUuy5cA5YJGxBOEkkSaiiw)
 + [微服务链路追踪原理与SpringCloud方案](https://mp.weixin.qq.com/s/tVAVi863V5Rk9hSdTWKmHA)
 + [面试官：微服务如何保证系统高可用？](https://mp.weixin.qq.com/s/uJZBFnFlPVNaBzOqpgJfiw)
++ [9 个核心组件，搭建生产级微服务应用](https://mp.weixin.qq.com/s/z3vD4ApZNRO_hNUIUty08Q)
 
 # 分布式
 

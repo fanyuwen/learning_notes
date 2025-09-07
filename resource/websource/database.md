@@ -1138,6 +1138,7 @@
 + [Flink运行时架构](https://mp.weixin.qq.com/s/GAhLaRybS5Cw9LkJzVwqEw)
 + [实时流处理：Flink秒杀Spring Batch，从分钟级到毫秒级的降维打击](https://mp.weixin.qq.com/s/lpq6XbSO0IyZRdK86dS-nA)
 + [百度网盘基于 Flink 的实时计算实践](https://my.oschina.net/u/4939618/blog/18690345)
++ [【大数据技术实战】流式计算 Flink~生产错误实战解析](https://mp.weixin.qq.com/s/Crf7sbfaLeyXn9HrslCqpQ)
 
 ## spark
 

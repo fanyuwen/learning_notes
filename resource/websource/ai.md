@@ -38,6 +38,8 @@
 + [Agentic的模式和实现代码](https://mp.weixin.qq.com/s/KfReQyc3zlyxI-nh6Wx0MA)
 + [如何用好 “对话式编程”？牢记这十二条策略](https://my.oschina.net/IDP/blog/18426598)
 + [大模型为什么需要KV缓存是何动机与原理？为什么Q不用缓存？](https://mp.weixin.qq.com/s/Ks3R2j_mXu2KHDkTvW6tEw)
++ [计算图模式匹配与重写技术：原理与应用](https://mp.weixin.qq.com/s/dT8fXuoHA8e2s2hZnfkw_w)
++ [性能暴涨50%:PD分离KV cache传输的实战干货](https://mp.weixin.qq.com/s/s-UapW7XsO8RmH7mmqSDaw)
 
 ## 资讯
 

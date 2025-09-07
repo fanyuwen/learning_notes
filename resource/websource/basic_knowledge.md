@@ -38,6 +38,7 @@
 + [掌握这些CMD命令，让你的Windows操作效率翻倍！](https://mp.weixin.qq.com/s/EjiPievM6uyphOVB0HknLg)
 + [Windows命令查看系统信息，建议收藏](https://mp.weixin.qq.com/s/ddrlXvLOLiRWyeHGNKmKhg)
 + [异步如何提升了生产力](https://mp.weixin.qq.com/s/ncKzde0Zjrtoxj-dPq-9jA)
++ [Windows 平台的多线程讲解](https://mp.weixin.qq.com/s/gaDnEu98DYMgZJDUuw1G_Q)
 
 ## linux
 
@@ -198,6 +199,11 @@
 + [Linux进程间通信（IPC）深入解析](https://mp.weixin.qq.com/s/NpvSDV8Y5Ejlm53Hob-Dnw)
 + [Linux进程深度解析（2）：fork/exec写时拷贝性能优化与exit资源回收机制（进程创建和销毁）](https://mp.weixin.qq.com/s/jvkwbHzCRacUC6Nfm9-BKQ)
 + [Linux内核中的智能指针](https://mp.weixin.qq.com/s/Fm7Z3rG3EfaROA5DNcypMw)
++ [Linux RCU (Read-Copy-Update) 机制深度分析](https://mp.weixin.qq.com/s/r_TXDu4Y5QK8i6FIqxmgpw)
++ [Linux Bridge 详细深入分析](https://mp.weixin.qq.com/s/rbMkYy81mZ5abn_lnMXPFA)
++ [【Linux】一文看懂linux进程（保姆级详解）](https://mp.weixin.qq.com/s/sVIjPy7piz2KufQN-Hdigg)
++ [Linux 内核智能指针原理分析](https://mp.weixin.qq.com/s/z1i-km57UCesBb2PYau6mQ)
++ [Linux Zero-Copy 技术深度分析](https://mp.weixin.qq.com/s/sSTpU7Tbo3AhvLzJeTMtXA)
 
 ### 网络
 
@@ -396,6 +402,9 @@
 + [深度解析：CPU如何区分指令与数据？寄存器扮演什么关键角色？](https://mp.weixin.qq.com/s/Xe-xgygoypRJIDB20ccBgg)
 + [从二进制存储到CPU寻址](https://mp.weixin.qq.com/s/OoTJ9evDCbvrSFVDxF_DkQ)
 + [程序员必读：CPU运算原理深度剖析与浮点数精度问题实战指南](https://mp.weixin.qq.com/s/XGpz4ji1ktOQCRKAsuumDQ)
++ [程序员必知的CPU优化技术：指令流水线深度解析](https://mp.weixin.qq.com/s/80CkZwWahJdBVeT8A0Vlug)
++ [深入理解CPU缓存：编写高性能Java代码的终极指南](https://mp.weixin.qq.com/s/Wl11t3iXpdbX22_gKzO1Bw)
++ [彻底搞懂内存屏障，让程序运行更有序](https://mp.weixin.qq.com/s/r7TF_3vMj_XMDcD-B6vwFg)
 
 ### 并发
 

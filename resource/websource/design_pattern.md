@@ -176,6 +176,7 @@
 ## 外观模式
 
 + [外观模式：简化复杂系统的优雅设计](https://mp.weixin.qq.com/s/iUfZ19nxHhpFfakhL4-kng)
++ [设计模式之外观模式](https://mp.weixin.qq.com/s/5-l52OIE4UZ1oYrZ0ArB0A)
 
 ## 访问者模式
 

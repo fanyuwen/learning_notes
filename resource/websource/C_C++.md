@@ -57,6 +57,7 @@
 + [C++小寄巧-9：link_libraries一定要能link!](https://mp.weixin.qq.com/s/npqG1DCB-ThdKXUTVe3wlg)
 + [CMake使用说明（一）常见技巧与编译总结](https://mp.weixin.qq.com/s/eMU2eMwl3U9MBFIAF96tHw)
 + [C++项目构建之五 cmake的变量](https://mp.weixin.qq.com/s/4Znt9f4nvD5H3-W1pDNZdQ)
++ [CMake入门教程：告别手写Makefile的痛苦](https://mp.weixin.qq.com/s/r3mV0DGXgSOJ1XUV8THSiQ)
 
 ### 第三方技术
 
@@ -296,6 +297,11 @@
 + [怎么把一行“屎山”代码优雅转化成 C++11 级别的神器？看完你就懂了！](https://mp.weixin.qq.com/s/GRUqUK0uJ68tyCCpnUG-Gw)
 + [跟我学C++中级篇——进制转换](https://mp.weixin.qq.com/s/9wOw2cRJS-IeyxJgvXQ7Lw)
 + [C++杂记：C++内存泄漏排查实战](https://mp.weixin.qq.com/s/yhmeGJfCZCVearXCbkBKYw)
++ [反转单链表没你想的简单，教你用C++写出性能最优版本](https://mp.weixin.qq.com/s/2qJgsYb_AK1mKQ52GJ_LAQ)
++ [C++常量折叠](https://mp.weixin.qq.com/s/BTShk1c9kJDZuvA-ituGwQ)
++ [C++秋招高频面试题汇总：C++多态、malloc函数、内存管理、并发编程、数据库](https://mp.weixin.qq.com/s/jp0T4bViM5dYBhYOu3qu4Q)
++ [C++移动语义：从“搬运工”到性能优化的秘密武器](https://mp.weixin.qq.com/s/mI0YuCL2pyTygf4-mQhfKQ)
++ [别再傻傻写循环了！C++高手的代码，都是用它「一行搞定」](https://mp.weixin.qq.com/s/2Pn1JtZz0drsqxXOo65I5w)
 
 #### 指针
 
@@ -316,6 +322,7 @@
 + [C++智能指针的高级用法（避坑与提效）](https://mp.weixin.qq.com/s/hPc4AN0MPrKrkoRqwhciAg)
 + [C++引用与指针进阶](https://mp.weixin.qq.com/s/Bcj173kwdK5tLST1Gq2c_g)
 + [C++智能指针：告别内存泄漏的利器](https://mp.weixin.qq.com/s/iNtzQ07KT1JvdtVJ3jx2uA)
++ [C++“指向类数据成员的指针”（::*）：是什么？怎么用？](https://mp.weixin.qq.com/s/_Po9KyWBGCb3BKKOHLti4g)
 
 #### 函数
 
@@ -394,6 +401,9 @@
 + [90%的C++ 程序员都忽略了这个容器——unordered_multiset，让我们来看看开源项目中怎么使用的](https://mp.weixin.qq.com/s/w5xRMe2wzUVYzDM02VmcBQ)
 + [c++周刊答疑:为什么boost::intrusive_ptr比std::shared_ptr快](https://mp.weixin.qq.com/s/iHMrMk9r7KK5zEmCW_-vaw)
 + [std::vector 真不背这个锅，拖慢速度的其实是 noexcept！](https://mp.weixin.qq.com/s/H1eDKYxwmyOz8QmrUH1DMA)
++ [vector插100万个数据，怎么才能做到最快？底层原理告诉你答案](https://mp.weixin.qq.com/s/77Y1bIJQnRIdEN31kTykVg)
++ [除了 char* 和 std::string，C++ 程序员还应该了解第三种字符串。](https://mp.weixin.qq.com/s/AcOb37X7sXxubVZKAUcJxg)
++ [C++正则表达式真相：为什么 std::regex 用得好却性能坑爆？](https://mp.weixin.qq.com/s/lv-gP2D3w3Es0WZuqQq3Tw)
 
 #### 新特性
 
@@ -505,6 +515,7 @@
 + [为什么标准容器都有一个模板参数 Allocator ？](https://mp.weixin.qq.com/s/Cq0kxj_Df6CksjXBnA911A)
 + [C++11模板优化大揭秘：让你的代码更简洁、更安全、更高效](https://mp.weixin.qq.com/s/H_dLPfAs52xwPN9mDDXWSg)
 + [写了 10 年 C++，我才发现 STL 里这些宝藏用法](https://mp.weixin.qq.com/s/uMPR_lPEfBnppg_Vj6f5Zg)
++ [C++泛型编程讲解](https://mp.weixin.qq.com/s/jM8MMyKVZHs8tNuxjK309A)
 
 ##### 设计模式
 
@@ -526,6 +537,7 @@
 + [C++行为型模式之访问者模式](https://mp.weixin.qq.com/s/zHfcmBdVBZlwZ1hsO9QkXw)
 + [C++行为型模式之备忘录模式](https://mp.weixin.qq.com/s/6vEJTdmeWKr7bFrdwN4DYw)
 + [C++之单例模式](https://mp.weixin.qq.com/s/48RZdoCWxFojBjEDq8e3Mw)
++ [状态模式（State Pattern）——网络连接场景的 C++ 实战](https://mp.weixin.qq.com/s/2w0qz5yf3VF_GuCGT_NmGw)
 
 #### 并发
 
@@ -733,6 +745,9 @@
 + [C语言变量存储类型详解：auto、static和extern](https://mp.weixin.qq.com/s/XkbYQOw6avC0xbzENya8wA)
 + [枚举类型：C语言的“人类语言翻译官”，让代码从“天书”变“唠嗑”](https://mp.weixin.qq.com/s/xkYNnnrz0UXwehb8krTu6A)
 + [C语言预处理器：宏编程的奇技淫巧](https://mp.weixin.qq.com/s/osNda88yDB4XZ8auEsEXdQ)
++ [typedef：给C类型起外号，代码不再“烧脑”](https://mp.weixin.qq.com/s/BmBrYuQwGxOMkEuxTuuE5A)
++ [C语言 volatile 关键字：深入浅出的详细讲解](https://mp.weixin.qq.com/s/i_3mt_wDhY8opdndXG5_vA)
++ [C语言操作符详解](https://mp.weixin.qq.com/s/r3d7RO0lg2cQZFqjhDEE3Q)
 
 ### 高阶
 
@@ -828,6 +843,7 @@
 + [谈C编程---数组](https://mp.weixin.qq.com/s/lzVU1ie-ZFUYmn8hpga0kQ)
 + [数组与行指针](https://mp.weixin.qq.com/s/xm3ECYEQRVrCTf1RibohDQ)
 + [C语言实用干货：指针数组详解](https://mp.weixin.qq.com/s/KXbPUlIo-cEv3nlkrEvSAw)
++ [谈C编程---柔性数组（C99）的使用方法](https://mp.weixin.qq.com/s/BRhzarRo-6EfZEn_g4M5tA)
 
 #### 结构体/公用体
 
@@ -840,6 +856,7 @@
 + [“结构体指针”和“指针结构体”](https://mp.weixin.qq.com/s/qopcQRpQsQsEaAt1FWv2yg)
 + [C语言结构体：数据打包神器](https://mp.weixin.qq.com/s/BxC_Od2fz5WVUNADEfcFHQ)
 + [C语言实用干货：结构体对齐详解](https://mp.weixin.qq.com/s/gSJ_oywEjfDQAWvvjZNS1Q)
++ [C语言位域：节省内存的精细艺术](https://mp.weixin.qq.com/s/-wISUNIgVKRn8EsJwgL1-Q)
 
 #### 指针
 
@@ -918,6 +935,7 @@
 + [C语言交换两个变量的值。](https://mp.weixin.qq.com/s/bEc8VUFJVC01EPwZbpqCTg)
 + [C语言实现快速排序详解](https://mp.weixin.qq.com/s/4qeh-ugHo1gxzHcxz-GA5Q)
 + [C语言现实堆排序详解](https://mp.weixin.qq.com/s/Igbl8_DXBGawZCjiNbXlTg)
++ [C语言实现计数排序详解](https://mp.weixin.qq.com/s/vNv0Is6imDr_amovqOSeaA)
 + [谈C编程---源码欣赏冒泡排序](https://mp.weixin.qq.com/s/r0GA9GuXE4FdlJmdpNe4tQ)
 
 ### 前景

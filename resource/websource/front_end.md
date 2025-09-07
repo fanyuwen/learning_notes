@@ -313,6 +313,7 @@
 + [深入解析WebSocket：实时通信的核心技术](https://mp.weixin.qq.com/s/NACeiX34oGLmyYLtQo4LQQ)
 + [WebSocket入门案例指南：使用WebSocket完成实时消息，实时进度条](https://mp.weixin.qq.com/s/G9hXpnI4cS4n3Vs2Tq3YNA)
 + [WebSocket 保序与消息乱序探因](https://mp.weixin.qq.com/s/wd0Oir6I7ITHdXhwVqkekQ)
++ [为什么前端项目不都采用 WebSocket？](https://mp.weixin.qq.com/s/Ei3kzNoeLgKWt28Sl9rKIA)
 
 # sse
 

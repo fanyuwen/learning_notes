@@ -1137,6 +1137,7 @@
 + [Apache Flink 2.0.0: 实时数据处理的新纪元](https://my.oschina.net/u/2828172/blog/17996920)
 + [Flink运行时架构](https://mp.weixin.qq.com/s/GAhLaRybS5Cw9LkJzVwqEw)
 + [实时流处理：Flink秒杀Spring Batch，从分钟级到毫秒级的降维打击](https://mp.weixin.qq.com/s/lpq6XbSO0IyZRdK86dS-nA)
++ [百度网盘基于 Flink 的实时计算实践](https://my.oschina.net/u/4939618/blog/18690345)
 
 ## spark
 

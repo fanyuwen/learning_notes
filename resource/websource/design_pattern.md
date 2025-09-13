@@ -161,6 +161,7 @@
 + [聊一聊：设计模式——责任链模式](https://mp.weixin.qq.com/s/rpibeHa8Ohv5vOhkFADMmw)
 + [责任链模式实践-开放银行数据保护及合规](https://mp.weixin.qq.com/s/aTiqwtRVepWfD32EPDF2ew)
 + [责任链模式：让业务处理像流水线一样高效！](https://mp.weixin.qq.com/s/ZqJzHrVEbOA2bFwWoUQNdA)
++ [责任链模式在王者荣耀中的应用，妙啊！](https://mp.weixin.qq.com/s/OZYxLiGi87qPQHKIVEzuWQ)
 
 ## 观察者模式
 

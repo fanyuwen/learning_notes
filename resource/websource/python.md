@@ -787,6 +787,7 @@
 + [函数、对象、模块——让你写的Python不再乱成一锅粥](https://mp.weixin.qq.com/s/LonoUjWDrNcC4yUkCVT2ZQ)
 + [写Python的人，都应该学会的10个高效技巧](https://mp.weixin.qq.com/s/QEyl6RqUsFIVrSm5z0-fkw)
 + [多线程事件驱动模型实现详解：使用Python实现](https://mp.weixin.qq.com/s/A3hEMK9Eov63k69k9XWPEA)
++ [从语法糖到设计模式：深度解析 *args 与 **kwargs](https://mp.weixin.qq.com/s/3igD7Zp9m1RP5m6a0iKwCw)
 
 ## 新特性
 

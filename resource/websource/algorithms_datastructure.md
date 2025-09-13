@@ -242,4 +242,5 @@
 + [剑指offer-24、二叉树中和为某一值的路径（一）](https://mp.weixin.qq.com/s/_a0T_o--mo-mujs7ei5Jkw)
 + [剑指offer-25、复杂链表的复制](https://mp.weixin.qq.com/s/1A6CkHTfUeRwxonVdX_OJA)
 + [剑指offer-26、二叉搜索树与双向链表](https://mp.weixin.qq.com/s/ayMBq6f7VXhWSt8n-BV6Mg)
++ [剑指offer-28、数组中出现次数超过⼀半的数字](https://mp.weixin.qq.com/s/tnBfUoAg-5w53_G1l18nNA)
 + [LeetCode热题100之链表I](https://mp.weixin.qq.com/s/3dqSih_HV5F60DZGHcvRZQ)

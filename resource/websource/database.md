@@ -667,6 +667,7 @@
 + [Mysql索引机制](https://mp.weixin.qq.com/s/B6gZ8J0DslvbAftKw11z4w)
 + [MySQL中IN和NOT IN会走索引吗？](https://mp.weixin.qq.com/s/gMHn_u5hdIKOHd_W8B6txg)
 + [MySQL 索引失效原理剖析：别让 “加速键” 变成 “绊脚石”](https://mp.weixin.qq.com/s/p7pOZ-9QEqJJ2kEh1-KE1A)
++ [MySQL索引详解](https://mp.weixin.qq.com/s/4Lae43jMigto6cuCLYlD9g)
 
 ### PostgreSQL
 
@@ -929,6 +930,7 @@
 + [Redis持久化深度解析：RDB与AOF如何保障你的数据安全？](https://mp.weixin.qq.com/s/OP1ZX8zMw-RMoI6V6Z2PSA)
 + [Redis支持事务吗？了解Redis的持久化机制吗？](https://mp.weixin.qq.com/s/soe8v02VevWY2Z4PjrtsYw)
 + [小米科技面试题：如何利用Redis实现栈和队列？](https://mp.weixin.qq.com/s/Qs8W4EOzj1NS0MhYKOc_MA)
++ [京东一面：Redis CPU飙到90%！怎么办？](https://mp.weixin.qq.com/s/uo0zvCr715RS-3MIjYL-8Q)
 
 #### 原理
 
@@ -991,6 +993,7 @@
 + [揭秘Redis持久化：RDB vs AOF](https://mp.weixin.qq.com/s/pF4Dx9ApK-HqAPDo3o-rUw)
 + [Redis 持久化原理分析和使用建议](https://my.oschina.net/vivotech/blog/17504975)
 + [揭秘Redis哨兵：高可用背后的技术细节](https://mp.weixin.qq.com/s/N4Wx6Vyr4pTZqvla4uH_eQ)
++ [Redis 淘汰机制：内存告急时，数据是怎么 “被毕业” 的？](https://mp.weixin.qq.com/s/ZSaYiNrAbQfQMUctdKd6-g)
 
 #### 分布式锁
 
@@ -1032,6 +1035,7 @@
 + [Redis 实现分布式缓存](https://mp.weixin.qq.com/s/N_Qm2QoxFWZpQthuO4QzCw)
 + [Redis缓存三剑客：穿透、雪崩、击穿—手把手教你解决](https://mp.weixin.qq.com/s/IqzJyiVnYRVYlatfAnq91A)
 + [Redis：缓存雪崩、穿透、击穿的技术解析和实战方案](https://mp.weixin.qq.com/s/4N455ftg88VFp-ayQ6IH4A)
++ [一文搞懂 Redis 缓存三大 “坑”：穿透、击穿、雪崩](https://mp.weixin.qq.com/s/hBwKlUyatI-zsQxeiKSniw)
 
 #### 限流
 

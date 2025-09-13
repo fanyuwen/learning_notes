@@ -17,6 +17,8 @@
 ## 工具
 
 + [GDB 调试：让程序运行中的错误无所遁形](https://mp.weixin.qq.com/s/UBxW5G7VKvT85LKk1oJNJw)
++ [gdb调试方法(2)-ptrace](https://mp.weixin.qq.com/s/ihy1ZuzwN0Ztpx8R2CLNuA)
++ [gdb调试方法(7)-多线程调试](https://mp.weixin.qq.com/s/To3nu54Q22YlCdr2WfSLtg)
 + [使用CLion工具编写c++ qt demo程序](https://mp.weixin.qq.com/s/SPTkgeM8pFoN18p8FFZy4A)
 + [简单学习大佬常用命令之gdb命令](https://mp.weixin.qq.com/s/MWQQSZM8JTITqgMsrBPDcQ)
 + [内存泄漏无处藏身 | GCC -fsanitize=leak 实战攻略](https://mp.weixin.qq.com/s/4HvmIgqFHzb_QRf7_eV87Q)
@@ -131,6 +133,7 @@
 + [C++杂记：现代C++的初始化最佳实践](https://mp.weixin.qq.com/s/3P2tPY1bVROy3gyaq1VMYQ)
 + [C++ 中的四种类型转换操作符](https://mp.weixin.qq.com/s/WWEPC-KsIbZxTfusEsH4HA)
 + [为什么说 enum class 比普通 enum 更安全？](https://mp.weixin.qq.com/s/wpk0ia6DnLiElS0rLnNIYw)
++ [C++异常处理：从崩溃到优雅的错误处理艺术](https://mp.weixin.qq.com/s/4vNHkGo-t_quppNjmh8jLg)
 
 ### 高阶
 
@@ -302,6 +305,10 @@
 + [C++秋招高频面试题汇总：C++多态、malloc函数、内存管理、并发编程、数据库](https://mp.weixin.qq.com/s/jp0T4bViM5dYBhYOu3qu4Q)
 + [C++移动语义：从“搬运工”到性能优化的秘密武器](https://mp.weixin.qq.com/s/mI0YuCL2pyTygf4-mQhfKQ)
 + [别再傻傻写循环了！C++高手的代码，都是用它「一行搞定」](https://mp.weixin.qq.com/s/2Pn1JtZz0drsqxXOo65I5w)
++ [C++ 项目常见内存泄漏排查方法（Valgrind、ASan、智能指针替换）](https://mp.weixin.qq.com/s/TihbgFw5wagbS1T-DN6AKg)
++ [光写算法没用！这两点决定 C++ 性能生死！](https://mp.weixin.qq.com/s/WvwI54yOXqTyZPJ-uGJipQ)
++ [C++ 手动循环让你崩溃？这 3 个理由让你爱上算法，告别低效](https://mp.weixin.qq.com/s/_h8UGbuW7YxjedmAWSsHfw)
++ [C++共享内存进程间通信可以这样实现？TritonServer推理服务IPC通信机制](https://mp.weixin.qq.com/s/VK8tjIvJv--rMCSnR0bVPg)
 
 #### 指针
 
@@ -404,6 +411,7 @@
 + [vector插100万个数据，怎么才能做到最快？底层原理告诉你答案](https://mp.weixin.qq.com/s/77Y1bIJQnRIdEN31kTykVg)
 + [除了 char* 和 std::string，C++ 程序员还应该了解第三种字符串。](https://mp.weixin.qq.com/s/AcOb37X7sXxubVZKAUcJxg)
 + [C++正则表达式真相：为什么 std::regex 用得好却性能坑爆？](https://mp.weixin.qq.com/s/lv-gP2D3w3Es0WZuqQq3Tw)
++ [揭秘 std::enable_shared_from_this：CRTP 在智能指针中的经典应用](https://mp.weixin.qq.com/s/LlcuUMJwqv_cAfxM5_6Ksw)
 
 #### 新特性
 
@@ -425,6 +433,7 @@
 + [基于C++17的线程安全信号与槽机制实现](https://mp.weixin.qq.com/s/euYVDjlGqMLvpZrEh61EgA)
 + [C++17中有个 [[fallthrough]] 你使用了吗？](https://mp.weixin.qq.com/s/DyVw3ju1DHcRGlS5d9Mp6g)
 + [作为现代异步编程的基石，C++20 协程成熟了吗？](https://mp.weixin.qq.com/s/IHMhDoomP9djmMPXfQd-sg)
++ [C++20 异步编程：用future、promise 还是协程？](https://mp.weixin.qq.com/s/WQnZj3MTmIOd3995Q_dmcQ)
 + [C++23特性之多维数组](https://mp.weixin.qq.com/s/5Wny081ZWg1b73pMvFcWDQ)
 + [c++26新功能—饱和算术](https://mp.weixin.qq.com/s/expSPWzKBLJG2A-V7vOwNw)
 + [c++26新功能—契约编程](https://mp.weixin.qq.com/s/yaQbqhxJmhehpsF1Nx-qbg)
@@ -538,6 +547,7 @@
 + [C++行为型模式之备忘录模式](https://mp.weixin.qq.com/s/6vEJTdmeWKr7bFrdwN4DYw)
 + [C++之单例模式](https://mp.weixin.qq.com/s/48RZdoCWxFojBjEDq8e3Mw)
 + [状态模式（State Pattern）——网络连接场景的 C++ 实战](https://mp.weixin.qq.com/s/2w0qz5yf3VF_GuCGT_NmGw)
++ [组合模式，在公司组织架构中的应用C++](https://mp.weixin.qq.com/s/8eJ4SGfMSF1fS_O1qAad_w)
 
 #### 并发
 
@@ -577,6 +587,11 @@
 + [你以为自己懂多线程？C++ 并发的坑比想象的要深](https://mp.weixin.qq.com/s/s8uh0O15GPbejINNUdCb7A)
 + [C++程序员千万别踩的坑：多线程只靠bool，Bug追到头发掉光](https://mp.weixin.qq.com/s/QPx48CWiUP9uP2PbuCguXQ)
 + [C++多线程同步机制详解：锁、条件变量与原子操作](https://mp.weixin.qq.com/s/FskTKHBc1BbTUM463zz_2g)
++ [从代码到内核：自旋锁的实现与原子操作的底层支撑](https://mp.weixin.qq.com/s/68Os94fdnqQPAff-tSK7pA)
++ [C++ 的信号量（semaphore）](https://mp.weixin.qq.com/s/k1tP976q1_E6GKPaqx5J1w)
++ [阿里C++一面：在多线程编程中，如何避免死锁问题？](https://mp.weixin.qq.com/s/i67mnZHaXL6EpgOjkLVO6w)
++ [如何用C++写一个线程安全的vector](https://mp.weixin.qq.com/s/dCYUTsoENYVPGYq5z2uWeg)
++ [C++ STL 为什么没有内置线程池？探究标准库设计哲学与并发演进](https://mp.weixin.qq.com/s/KLcYHbSo0KR34p-mPwRgxA)
 
 #### 扩展
 
@@ -896,6 +911,7 @@
 + [C语言指针玩法（二） ：指针数组与数组指针](https://mp.weixin.qq.com/s/ZLw286OOYdg3r4W1Skqx5Q)
 + [C语言函数指针：回调函数的正确打开方式](https://mp.weixin.qq.com/s/sLKphYmqyXnXb-1WKWb0KQ)
 + [C野指针的概念与应对（源头、阻隔、定位）](https://mp.weixin.qq.com/s/dwpueUstX0RSOgThEXpz9w)
++ [C语言指针玩法（三） ：函数指针](https://mp.weixin.qq.com/s/_qVnktKlrlcW4wvSqec1rQ)
 
 #### 函数
 
@@ -913,6 +929,7 @@
 + [谈C编程---返回字符串指针的函数](https://mp.weixin.qq.com/s/iqbMwcNRedD_EkVi-kmRGA)
 + [C语言「指针函数」VS「函数指针」](https://mp.weixin.qq.com/s/y-63QlRIhajQ260cWTOn9g)
 + [谈C编程---指针函数的返回要慎重](https://mp.weixin.qq.com/s/s52f4pftKRV7Utjlc4S7yw)
++ [注册与回调函数](https://mp.weixin.qq.com/s/VJA0LIC_4W24pySOQCdpIA)
 
 #### 库
 
@@ -1056,6 +1073,7 @@
 + [嵌入式软件开发中的通用接口技术：设计、实现与实践](https://mp.weixin.qq.com/s/OOz519LzOX9b0eXlfmh7sQ)
 + [线程编程详解：从基础到嵌入式实践](https://mp.weixin.qq.com/s/EQTBxzTvD_gxxzKSu8b73Q)
 + [设计模式:嵌入式C语言实现探索_13.状态模式](https://mp.weixin.qq.com/s/gjGandXKeaPfcb8IZyko7Q)
++ [volatile关键字在嵌入式中的作用，90%的人没搞懂](https://mp.weixin.qq.com/s/g-Y6sAr8VYqX9RHtLgM9NQ)
 
 # ARM
 
@@ -1094,6 +1112,7 @@
 
 + [深入了解 Nvidia CUDA 核心](https://mp.weixin.qq.com/s/PE3LmOAft27QCQNaaSFY7g)
 + [现代NVidia GPU架构](https://mp.weixin.qq.com/s/rxwjGLXUQK-SCAYVcuBemw)
++ [GPU编程基础与CUDA入门](https://mp.weixin.qq.com/s/vr_BvXfpxQsPkJxHxediWg)
 
 # 硬件
 

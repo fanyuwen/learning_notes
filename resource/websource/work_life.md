@@ -115,6 +115,7 @@
 + [AI都会写代码了，我们学习编程还有什么意义？！](https://mp.weixin.qq.com/s/w5b8rUumWvN9IvNaRQckBA)
 + [做好这几件事，软件公司才有可能赚钱](https://my.oschina.net/easysoft/blog/18688521)
 + [互联网技术一号位：别只盯代码，这 5 件事才是核心](https://mp.weixin.qq.com/s/DlVe6kzwegQF3xKKZqjdFg)
++ [凌晨零点，一个TODO，差点把我们整个部门抬走](https://mp.weixin.qq.com/s/AbY8pb0a74x3rsKP55zHVA)
 
 # 个人成长
 
@@ -343,6 +344,7 @@
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/JEIXLVdToY5p3O532IizJw)
 + [2025.3 起，IntelliJ IDEA 将统一发行，Community/Ultimate Edition 从此合二为一！](https://mp.weixin.qq.com/s/XqEHyh2qKclI5X6VsueDEA)
 + [IDEA免费了，你是选择继续用IDEA，还是拥抱VScode？](https://mp.weixin.qq.com/s/szHDPPGG7AsFOvZrOKmtVA)
++ [一次IntelliJ IDEA插件开发的实战分享](https://mp.weixin.qq.com/s/W1x10YyT_01FTO27CMks7g)
 
 ## MAC_PRO相关
 

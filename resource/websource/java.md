@@ -92,6 +92,7 @@
 + [Java中内部类和普通类有什么区别？什么时候用内部类？](https://mp.weixin.qq.com/s/AN59piK6OsCE_NSiOuoGkQ)
 + [static关键字——静态变量、方法与代码块的应用场景](https://mp.weixin.qq.com/s/CTqWqbm6wpUnze0vTCgZvw)
 + [面试官盯着问的 final 关键字，这篇拆解到字节级](https://mp.weixin.qq.com/s/zH9v7jtT_fhxWL_DXHhsmA)
++ [包和封装 | Java语言关键](https://mp.weixin.qq.com/s/Ay4ZyZV6v5u4pzLXygPBFQ)
 
 ### 方法/函数
 
@@ -917,6 +918,7 @@
 + [谈谈线程的中断退出](https://mp.weixin.qq.com/s/qSWK4ngcHoObhtoQ0VAvQA)
 + [大白话聊明白多线程的基础，Java线程的状态和转换](https://mp.weixin.qq.com/s/LD9Eh8-LlNl2ZNJcWydq2A)
 + [实现一个可中断线程的线程类-续](https://mp.weixin.qq.com/s/aDnK_6yoXr57eZZrbwMNHQ)
++ [深入理解 happens-before 原则：Java 并发编程的 “隐形契约”](https://mp.weixin.qq.com/s/NXbjo_OS5Rw7wQfqAW8hug)
 
 #### CAS
 
@@ -994,6 +996,7 @@
 + [别只死背线程池七大参数了，面试官根本不是这么问的！](https://mp.weixin.qq.com/s/PVltq6pmo3cr1hWxjhwt_Q)
 + [ForkJoinPool：Java并发编程中的递归与分治任务](https://mp.weixin.qq.com/s/nXh6Tacqed-x8BG8fIGALA)
 + [Java线程池实战：异步任务超时控制与CompletableFuture任务编排全解析](https://mp.weixin.qq.com/s/73qsKwuqH3Fty_gmRug2AQ)
++ [技术面：Java并发（线程池、ForkJoinPool）](https://mp.weixin.qq.com/s/PgmSwH4kcqwzZ2D-AKqmpQ)
 
 #### 锁
 
@@ -1093,6 +1096,7 @@
 + [深入Java并发：锁机制原理剖析与性能优化实战](https://mp.weixin.qq.com/s/wQIM9VMlbanHrP1oJrFUzQ)
 + [Synchronized 你真的理解了吗？一文搞懂 synchronized 的原理与优化](https://mp.weixin.qq.com/s/FDurThhJvmUDdim9PLOWWw)
 + [独占锁 vs 读写锁：如何在并发编程中做出正确选择](https://mp.weixin.qq.com/s/evBmYMaAq-_GlSWVR1T8NA)
++ [深入理解 Java 并发的半壁江山： AQS](https://mp.weixin.qq.com/s/fHz7HarJLBfwU5_Ax3U0BQ)
 
 #### volatile
 
@@ -1355,6 +1359,10 @@
 + [JVM篇-GC垃圾回收](https://mp.weixin.qq.com/s/K3ctlOhwqWbkA6dZn7Ma8Q)
 + [JVM垃圾回收，三色标记法是有缺点的你知道吗？讲讲CMS和G1分别怎么解决的。](https://mp.weixin.qq.com/s/wrsabtgdq4OvxBHSCMv6GQ)
 + [JVM篇-GC垃圾收集器](https://mp.weixin.qq.com/s/TTqJTY6ZOpM0owEQykiCWA)
++ [GC触发了，但是为什么服务器内存不降？](https://mp.weixin.qq.com/s/apuLmPlF0C4rXdYIMfcbpQ)
++ [JVM 系列(三)：三色标记还不懂？这一篇带你彻底吃透！](https://mp.weixin.qq.com/s/mMT_meOHamdgDEGbWmvSCA)
++ [为什么堆只设置了8G，java进程却占用了12G内存？](https://mp.weixin.qq.com/s/4FsNkgxB6WDkP9UTcb9r4g)
++ [大白话聊明白：Java对象在内存中的分配、布局、访问、GC垃圾回收以及堆内存的默认大小](https://mp.weixin.qq.com/s/Ad6ceHxcBeM10YjKr6zsiw)
 
 # 核心库
 
@@ -1562,6 +1570,7 @@
 + [hashMap 1.7和1.8区别](https://mp.weixin.qq.com/s/MAD4Grg_w-FL9I9-xrnyOg)
 + [面试官追问：HashMap 为啥线程不安全？3 个核心原因 + 代码实测，一次讲透](https://mp.weixin.qq.com/s/t0PGr6tIRIoMm1skoiIsCw)
 + [面试官老问 HashMap？看完这篇，你能把他说懵！从入门到源码的八卦](https://mp.weixin.qq.com/s/Rykjdq0ZEWYLRRSBG58T8A)
++ [深挖HashMap：负载因子0.75的底层原理，面试问到不慌！](https://mp.weixin.qq.com/s/-mkrlyA00rVrAbAJ6MD-mA)
 
 ### Optional
 
@@ -3820,6 +3829,7 @@
 + [告别“不停刷新”！Spring Boot SSE 带你体验真·实时](https://mp.weixin.qq.com/s/Ja497IQ0ud9HS1YMFsuwEQ)
 + [Spring Boot 接口文档进阶：从 Swagger 到 Knife4j 再到 OpenAPI 3.0](https://mp.weixin.qq.com/s/z1Dv2yV1yxdjPusaVtSGXQ)
 + [Spring Boot 文件编码问题解析：乱码、国际化与多语言配置](https://mp.weixin.qq.com/s/1WxRHSXk8oN-BiRFgqWoaw)
++ [防重复提交是后端的第一道防线：Spring Boot REST接口幂等设计深度解析](https://mp.weixin.qq.com/s/e7mhxusHENfHb_FuGSq4Pw)
 
 ##### 文件上传下载
 
@@ -3863,6 +3873,7 @@
 + [Spring Boot 中使用 WebSocket 对接 WebRTC 录屏与直播结合 STOMP 及 ffmpeg 对接与部署](https://mp.weixin.qq.com/s/ZFZvNkzGGXmfy2L3WrZEOQ)
 + [SpringBoot 集成WebSocket 的 3 种集成方式](https://mp.weixin.qq.com/s/GiFU3_hPqcD_NF6Tej2tjw)
 + [SpringBoot 整合 WebSocket 鉴权认证、会话消息发送、订阅消息](https://mp.weixin.qq.com/s/uQTrx3B7rIFCRW6e_yRWKQ)
++ [Spring Boot WebSocket 常见问题：连接断开、消息丢失与集群广播](https://mp.weixin.qq.com/s/REEMatcvpb1i1sRSbDTPbA)
 
 #### DATA
 
@@ -4461,6 +4472,8 @@
 + [JAVA：Spring Boot 集成 Grizzly 实现高并发](https://mp.weixin.qq.com/s/bPvLbJ4vj7dc_0wMMhPq3g)
 + [抛弃AOP！SpringBoot + YAML 零侵入数据脱敏神操作！](https://mp.weixin.qq.com/s/A_sWUcsjT1bO27HanCKayA)
 + [Spring Boot + JavaScript 实时数据流：2种完整实现](https://mp.weixin.qq.com/s/PECwZgwqLjMQ9U-ydrtLXg)
++ [Java进阶手册（二十二）SpringBoot整合Memcached](https://mp.weixin.qq.com/s/5U5VjW6s43sJwUR404Prjw)
++ [从雪崩到扛住百万并发：Spring Boot + Jasync 异步重构实战指南](https://mp.weixin.qq.com/s/MQO_8rA7HRnql8G9iBVIUA)
 
 ##### excel
 

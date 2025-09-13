@@ -246,3 +246,4 @@
 + [微软如何用 Rust 做创新：与 Rust 基金会主席的对话](https://mp.weixin.qq.com/s/S61GfYRiipmozXzBgx0s1g)
 + [从Spring Boot的自动化到Rust的手动实现](https://mp.weixin.qq.com/s/QrkMfyOV-hq3j0vVA_v-kw)
 + [性能飞跃：如何用 Rust 构建高性能 Python 模块](https://mp.weixin.qq.com/s/38v3x-IsglyBQBzDwZBjTQ)
++ [三个简单规则，终结与 Rust 编译器的无尽战斗](https://mp.weixin.qq.com/s/S7DSDQK_-JBQ-4GuGJ7faA)

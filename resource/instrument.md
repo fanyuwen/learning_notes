@@ -113,7 +113,7 @@
 
 ### LANGUAGE
 + jvm编程语言 [kotlin](https://kotlinlang.org) [scala](https://www.scala-lang.org) [groovy](https://groovy-lang.org/) [clojure](https://www.clojure.org)
-+ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org) [nim](https://nim-lang.org/) [elixir](https://elixir-lang.org/) [elm](https://elm-lang.org/) [julia](https://julialang.org/) [zig](https://ziglang.org/) [ocaml](https://www.ocaml.org/) [erlang](https://www.erlang.org/) [haskell](https://www.haskell.org/) [moonbitlang](https://docs.moonbitlang.com/) [hare](https://harelang.org/)
++ 编程语言[mojo](https://docs.modular.com/mojo) [python](https://www.python.org/) [go](https://go.dev) [rust](https://www.rust-lang.org) [nim](https://nim-lang.org/) [elixir](https://elixir-lang.org/) [elm](https://elm-lang.org/) [julia](https://julialang.org/) [zig](https://ziglang.org/) [ocaml](https://www.ocaml.org/) [erlang](https://www.erlang.org/) [haskell](https://www.haskell.org/) [moonbitlang](https://docs.moonbitlang.com/) [hare](https://harelang.org/) [vala](https://vala.dev/)
 + javascript语言超集 [typescript](https://www.typescriptlang.org/)
 
 ### OTHER_LANGUAGE_FRAMEWORK
@@ -186,9 +186,10 @@
 + 用于基于堆栈的虚拟机的二进制指令格式(web平台) [webassembly](https://webassembly.org/)
 
 ### C/C++_TOOL
-+ 编译器 [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) [gcc](https://gcc.gnu.org/) [clang](https://clang.llvm.org/) [mingw-w64](https://www.mingw-w64.org/) [msys2](https://www.msys2.org/)
-+ c/c++构建工具 [cmake](https://cmake.org/) [meson](https://mesonbuild.com/)
-+ 包管理工具 [conan](https://conan.io/)
++ 编译器 [tdm-gcc](https://jmeubank.github.io/tdm-gcc/) [gcc](https://gcc.gnu.org/) [clang](https://clang.llvm.org/) [mingw-w64](https://www.mingw-w64.org/)
++ 图形库 [gtk](https://www.gtk.org/)
++ c/c++构建工具 [cmake](https://cmake.org/) [meson](https://mesonbuild.com/) [ninja](https://ninja-build.org/)
++ 包管理工具 [conan](https://conan.io/) [msys2](https://www.msys2.org/)
 + c/c++学习资源 [c/cpp英文文档](https://en.cppreference.com/) [c/cpp中文文档](https://zh.cppreference.com/) [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) [isocpp](https://isocpp.org/)
 + c/c++依赖库 [boost](https://www.boost.org/)
 

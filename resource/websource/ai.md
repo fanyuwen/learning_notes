@@ -59,3 +59,7 @@
 # 工具
 
 + [Cursor 开发指南](https://my.oschina.net/u/3768341/blog/16929248)
+
+# openCV
+
++ [如何使用 OpenCV 进行图像分割](https://mp.weixin.qq.com/s/nmEdHDsHxcoqsYsMVTTgFw)

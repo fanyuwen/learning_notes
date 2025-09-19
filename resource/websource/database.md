@@ -576,6 +576,7 @@
 + [MySQL事务的一些奇奇怪怪知识](https://mp.weixin.qq.com/s/NLGOreXOKHdzc5DPnh1OvQ)
 + [MySQL事务](https://mp.weixin.qq.com/s/x2nG7VJ32Y2SgXBXR-_Yzg)
 + [MySQL默认数据库隔离级别为什么是RR？而互联网大厂为什么把它修改为RC？](https://mp.weixin.qq.com/s/m3qnGrTb8l_caXUJMnp5Ig)
++ [MySQL 事务详解](https://mp.weixin.qq.com/s/JpAl5KLcO-a0L2Awtw7DeQ)
 
 #### 索引
 

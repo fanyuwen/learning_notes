@@ -177,6 +177,7 @@
 
 ### 面向对象
 
++ [类和对象 | Java语言关键](https://mp.weixin.qq.com/s/CvCvfMfUcb0NkdBQYr1Pmg)
 + [深入理解Java中的Object类：万物皆对象的基石](https://mp.weixin.qq.com/s/gAhZR_MQKLKDH5P2vVExyA)
 + [抽象类：Java中的“半成品”类](https://mp.weixin.qq.com/s/yNSkFsX3S54UyfPtgUvOzA)
 + [深入理解Java多态：概念、实现原理与应用](https://mp.weixin.qq.com/s/qVczdbo-xSl5Ll_Sy9o6_Q)
@@ -595,6 +596,7 @@
 + [领导：谁再瞎用 String.valueOf，走人](https://mp.weixin.qq.com/s/AHcRuP3PR2C4YfEcpsjong)
 + [领导：集合删元素，谁再直接用remove，走人](https://mp.weixin.qq.com/s/l6rIycJ36DlvvAYb7qb7eA)
 + [丢人！被小小的String.valueOf(...)坑了](https://mp.weixin.qq.com/s/q56HXibo5CvS2TA5YpubZA)
++ [遍历集合时修改元素报错？这六种方法请收好](https://mp.weixin.qq.com/s/QFn_tzZ5l0TXKCN2Z3YZeA)
 
 # 底层
 
@@ -919,6 +921,10 @@
 + [大白话聊明白多线程的基础，Java线程的状态和转换](https://mp.weixin.qq.com/s/LD9Eh8-LlNl2ZNJcWydq2A)
 + [实现一个可中断线程的线程类-续](https://mp.weixin.qq.com/s/aDnK_6yoXr57eZZrbwMNHQ)
 + [深入理解 happens-before 原则：Java 并发编程的 “隐形契约”](https://mp.weixin.qq.com/s/NXbjo_OS5Rw7wQfqAW8hug)
++ [你还只会用锁？盘点 Java 实现线程安全的 7 种高效方案](https://mp.weixin.qq.com/s/JUC3WIrKlepvwGcJHAez8A)
++ [Java 多线程深度剖析与实战指南](https://mp.weixin.qq.com/s/0CzfaDCCOeHb4m0QVej_XA)
++ [实现一个可中断线程的线程类](https://mp.weixin.qq.com/s/XCeIJz6yrI9Mnq7wqr5MpA)
++ [技术面：Java并发（线程同步、死锁、多线程编排）](https://mp.weixin.qq.com/s/IhmI6dFIrM-kd4XpUVdcgA)
 
 #### CAS
 
@@ -997,6 +1003,7 @@
 + [ForkJoinPool：Java并发编程中的递归与分治任务](https://mp.weixin.qq.com/s/nXh6Tacqed-x8BG8fIGALA)
 + [Java线程池实战：异步任务超时控制与CompletableFuture任务编排全解析](https://mp.weixin.qq.com/s/73qsKwuqH3Fty_gmRug2AQ)
 + [技术面：Java并发（线程池、ForkJoinPool）](https://mp.weixin.qq.com/s/PgmSwH4kcqwzZ2D-AKqmpQ)
++ [线程池你用对了吗？Executors、参数配置、拒绝策略全讲透](https://mp.weixin.qq.com/s/LsbKtt37cvADdEgOulm06g)
 
 #### 锁
 
@@ -1622,6 +1629,7 @@
 + [社招必问！FutureTask 底层原理+应用场景，带你一次学会](https://mp.weixin.qq.com/s/ZnGc4xMMyxCRhQfE73bCaw)
 + [面试练习 | 解释Java中Future和CompletableFuture的区别](https://mp.weixin.qq.com/s/XioKMQKTMs2ofvdQwgq9eA)
 + [面试练习 | 解释在Java并发编程中使用CompletableFuture相比Future的优势](https://mp.weixin.qq.com/s/qxQomhlzQTQE5X0ADAOXwg)
++ [FutureTask 核心原理与实践解析](https://mp.weixin.qq.com/s/wjhdx_3-OO9Yqz-Y27LeIw)
 
 #### CompletableFuture
 
@@ -1653,6 +1661,7 @@
 + [Java异步编程实战：CompletableFuture的线程池配置与性能优](https://mp.weixin.qq.com/s/XeokE0BU15yHzTXS7tRlEA)
 + [Future和CompletableFuture的区别是什么?](https://mp.weixin.qq.com/s/EBBkeNT2WJX-VmTzPRoIsw)
 + [Function 与 CompletableFuture 的组合使用指南](https://mp.weixin.qq.com/s/Ir0ZC9WZ6nQVjK0HChP1-g)
++ [并发江湖的终极武器：CompletableFuture 中篇](https://mp.weixin.qq.com/s/15RQ2jEtNB_V5EfHr2-9cA)
 
 ### ThreadPool
 
@@ -1960,6 +1969,7 @@
 + [Apache Commons MapUtils：让 Map 操作效率提升一倍的工具类](https://mp.weixin.qq.com/s/NY7Ae85o-LyQB41vmDOjsQ)
 + [别再给枚举写辅助方法了！Apache EnumUtils 一行搞定转换、校验、集合化](https://mp.weixin.qq.com/s/J6iFWVdXbILDb4u6jtjmrA)
 + [还在写一堆 if-else 做参数校验？Apache ValidationUtils 一行搞定，代码清爽 10 倍](https://mp.weixin.qq.com/s/6BwwssgWLll7igKqnnmKjQ)
++ [AnnotationUtils：解锁注解处理新姿势，让Java反射代码优雅百倍！](https://mp.weixin.qq.com/s/mP88CnkzwmLp74SFhitOgw)
 
 ## apollo
 
@@ -2536,6 +2546,7 @@
 + [Spring的@Autowired能用在集合上吗？](https://mp.weixin.qq.com/s/HNufhNimoFxp8kHnnabCGg)
 + [Spring Bean生命周期：99%开发者闻所未闻，涨见识啊](https://mp.weixin.qq.com/s/sN9vbVtbFBcyaVlafb5oXA)
 + [一篇总结速通Spring Bean 生命周期，IOC容器，Bean作用域：从“出生”到“入土”的 超爽攻略](https://mp.weixin.qq.com/s/n23aMxkfCQO_1MCeMreWiA)
++ [技术面：Spring (bean的生命周期、创建方式、注入方式、作用域)](https://mp.weixin.qq.com/s/bDnNdHrfWSA-SIC2lmn79w)
 
 #### 配置
 
@@ -2627,6 +2638,7 @@
 + [Spring Bean 生命周期全解析：每个阶段的个性化操作与实战案例](https://mp.weixin.qq.com/s/sDM7f7ileuxnPAuAkgRVqg)
 + [Spring 源码精讲 02 - 循环依赖](https://mp.weixin.qq.com/s/ZAf70t8hnt6nEXoH33oa_Q)
 + [@Autowired依赖注入原理](https://mp.weixin.qq.com/s/gDPn8xYhyiLTcXecSe20dg)
++ [面试被问爆的 Spring 循环依赖：三级缓存到底是个啥？一篇讲透原理 + 源码](https://mp.weixin.qq.com/s/NkUVQCOZ8uGqzXAK6xIfvQ)
 
 ### 新版本新特性
 
@@ -3155,6 +3167,7 @@
 + [Spring Boot 常用注解全解析：20 个高频注解 + 使用场景实例](https://mp.weixin.qq.com/s/Oo1J7rJn8PU4sT5gnGkjYw)
 + [Java进阶手册（十三）SpringBoot多场景中23种常用注解详解](https://mp.weixin.qq.com/s/XvUYnG8-Bms6kYVp-uAnqg)
 + [Spring Boot 注解太多记不住？这 10 个核心注解让你少写 500 行配置(上)](https://mp.weixin.qq.com/s/MnuB-mQZNoXbT_0wqil-qQ)
++ [看好了，第二遍，SpringBoot单体应用真正的零停机无缝更新代码](https://mp.weixin.qq.com/s/0t0aVBRcvfyFG8yu_ltLxA)
 
 ##### 高阶
 
@@ -3830,6 +3843,7 @@
 + [Spring Boot 接口文档进阶：从 Swagger 到 Knife4j 再到 OpenAPI 3.0](https://mp.weixin.qq.com/s/z1Dv2yV1yxdjPusaVtSGXQ)
 + [Spring Boot 文件编码问题解析：乱码、国际化与多语言配置](https://mp.weixin.qq.com/s/1WxRHSXk8oN-BiRFgqWoaw)
 + [防重复提交是后端的第一道防线：Spring Boot REST接口幂等设计深度解析](https://mp.weixin.qq.com/s/e7mhxusHENfHb_FuGSq4Pw)
++ [Spring Boot + Jackson 隐藏的4个强大的注解](https://mp.weixin.qq.com/s/kb22BaTnjUmN6s2bA51PPA)
 
 ##### 文件上传下载
 
@@ -4774,6 +4788,7 @@
 + [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
++ [通过对比理解「面向对象」编程思想](https://mp.weixin.qq.com/s/KF2g5BTl0Fe_H7PmIfntyA)
 + [Java缓存穿透：布隆过滤器 + 空值缓存 + 参数校验，3种方案彻底解决！](https://mp.weixin.qq.com/s/tfyqRW8w7_r1TE5HvojUNw)
 + [JAVA：一致性哈希（Consistent Hashing）算法的技术指南](https://mp.weixin.qq.com/s/1hpDaPGRolbL5GDVjdpVQw)
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)

@@ -345,6 +345,7 @@
 + [2025.3 起，IntelliJ IDEA 将统一发行，Community/Ultimate Edition 从此合二为一！](https://mp.weixin.qq.com/s/XqEHyh2qKclI5X6VsueDEA)
 + [IDEA免费了，你是选择继续用IDEA，还是拥抱VScode？](https://mp.weixin.qq.com/s/szHDPPGG7AsFOvZrOKmtVA)
 + [一次IntelliJ IDEA插件开发的实战分享](https://mp.weixin.qq.com/s/W1x10YyT_01FTO27CMks7g)
++ [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/mttMAx8TlM1GC1MC7JTIxw)
 
 ## MAC_PRO相关
 

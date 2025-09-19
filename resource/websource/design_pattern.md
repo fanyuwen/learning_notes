@@ -44,6 +44,7 @@
 + [二面问到设计模式相关问题，该如何回答获得高分？](https://mp.weixin.qq.com/s/IyrJA9aeANKLd0n-RAb0MA)
 + [结构型设计模式：代码架构的魔法师](https://mp.weixin.qq.com/s/HRGEDqNGX1SudmxQZL-Drw)
 + [行为型设计模式：对象协作的舞蹈家（上）](https://mp.weixin.qq.com/s/nxjIQwR431ew8iC77-693g)
++ [面试官最爱问的3大设计模式：责任链/工厂/观察者原理和使用过场景](https://mp.weixin.qq.com/s/dIN4NWexd-_sFIMH9C1CcQ)
 
 ## 原则
 
@@ -178,6 +179,7 @@
 
 + [外观模式：简化复杂系统的优雅设计](https://mp.weixin.qq.com/s/iUfZ19nxHhpFfakhL4-kng)
 + [设计模式之外观模式](https://mp.weixin.qq.com/s/5-l52OIE4UZ1oYrZ0ArB0A)
++ [深度解析门面模式：从混乱到简洁的架构之道](https://mp.weixin.qq.com/s/OB_aJoL7zqB2Eo0l6trlPw)
 
 ## 访问者模式
 

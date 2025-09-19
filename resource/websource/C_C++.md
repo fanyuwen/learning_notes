@@ -40,6 +40,8 @@
 + [gcc 与 g++：有什么区别？](https://mp.weixin.qq.com/s/KZxDeG_iqbTje6DE2n7gGA)
 + [5个C语言内存检测神器，让段错误彻底消失！](https://mp.weixin.qq.com/s/VwCVBoBFM4Z2t2sKOetqQA)
 + [从strace的输出看程序是如何跑起来的](https://mp.weixin.qq.com/s/cUIdWk54SaaoqyhDsks7hw)
++ [gdb调试方法(9)-打印链表](https://mp.weixin.qq.com/s/Jv9LVL65a3q8dBmlAyLmmQ)
++ [gdb调试方法(10)-coredump](https://mp.weixin.qq.com/s/UBzUOvTYN4q_I6wCNdNfmw)
 
 ### cmake
 
@@ -309,6 +311,9 @@
 + [光写算法没用！这两点决定 C++ 性能生死！](https://mp.weixin.qq.com/s/WvwI54yOXqTyZPJ-uGJipQ)
 + [C++ 手动循环让你崩溃？这 3 个理由让你爱上算法，告别低效](https://mp.weixin.qq.com/s/_h8UGbuW7YxjedmAWSsHfw)
 + [C++共享内存进程间通信可以这样实现？TritonServer推理服务IPC通信机制](https://mp.weixin.qq.com/s/VK8tjIvJv--rMCSnR0bVPg)
++ [手把手教你实现C++高性能内存池，相比 malloc 性能提升7倍！](https://mp.weixin.qq.com/s/AlbC0g_H5BHNTu0BGOWV9Q)
++ [终于搞懂了！浅拷贝和深拷贝的区别！](https://mp.weixin.qq.com/s/zaI1_RKFYKj-RAZy30vHqQ)
++ [数组、多维数组、指针、函数指针一文看懂](https://mp.weixin.qq.com/s/cOlTIkXkEMynbJOeMB1xyA)
 
 #### 指针
 
@@ -341,6 +346,7 @@
 + [c++ Lambda 表达式闭包陷阱](https://mp.weixin.qq.com/s/gpzYwyN4KBk1w23WxV9K9w)
 + [虎牙C++后台秋招一面：解析lambda表达式的参数绑定的实现原理？](https://mp.weixin.qq.com/s/zhWeafJwm4JoWIUlhDb27A)
 + [C++虚函数表到底在哪个位置呢？](https://mp.weixin.qq.com/s/AuGjzDe1Emiva7RB7uqP5g)
++ [C++老程序员都用仿函数？揭开高性能“状态管理”代码背后的秘密！](https://mp.weixin.qq.com/s/mrhPc5bX2P0dZVj08cF6MA)
 
 #### 数据结构&算法
 
@@ -512,6 +518,8 @@
 + [c++抽象基类的使用场景](https://mp.weixin.qq.com/s/Ae4v8Nl4YUAHB8j8hx7EUA)
 + [构造C++对象时控制执行顺序的方案1](https://mp.weixin.qq.com/s/2hCsLysM55fYmkljFZxUsQ)
 + [C++语言中的空类](https://mp.weixin.qq.com/s/ZyVD52y_fzymwvT8_pd5LA)
++ [虚函数能用默认参数吗？一道题秒杀无数 C++ 求职者](https://mp.weixin.qq.com/s/P9QvmMX_xNkp7JZxHg7Lkw)
++ [高效编程必知！C++虚函数的性能陷阱竟然这么致命！](https://mp.weixin.qq.com/s/0M0h-mQUmt0rR6qElQhJgA)
 
 ##### 泛型
 
@@ -763,6 +771,7 @@
 + [typedef：给C类型起外号，代码不再“烧脑”](https://mp.weixin.qq.com/s/BmBrYuQwGxOMkEuxTuuE5A)
 + [C语言 volatile 关键字：深入浅出的详细讲解](https://mp.weixin.qq.com/s/i_3mt_wDhY8opdndXG5_vA)
 + [C语言操作符详解](https://mp.weixin.qq.com/s/r3d7RO0lg2cQZFqjhDEE3Q)
++ [有用的do{...}while(0)](https://mp.weixin.qq.com/s/Gi2PkN3nIYaIm2kPPhy-OQ)
 
 ### 高阶
 
@@ -834,6 +843,7 @@
 + [scanf函数的底层原理，想说输入不容易！](https://mp.weixin.qq.com/s/Jslc3vexMBqdWF3y72yDvw)
 + [为什么需要内存对齐？](https://mp.weixin.qq.com/s/fzdrFPd3Xqg6hrOJYx4Z8A)
 + [C语言读写文件操作详解](https://mp.weixin.qq.com/s/7nGG3fKS5ZREznBPlQNo0A)
++ [C语言内存对齐：提升程序性能的隐藏技巧](https://mp.weixin.qq.com/s/0oMExQsAujtshELoBaBBgg)
 
 #### 宏
 
@@ -912,6 +922,8 @@
 + [C语言函数指针：回调函数的正确打开方式](https://mp.weixin.qq.com/s/sLKphYmqyXnXb-1WKWb0KQ)
 + [C野指针的概念与应对（源头、阻隔、定位）](https://mp.weixin.qq.com/s/dwpueUstX0RSOgThEXpz9w)
 + [C语言指针玩法（三） ：函数指针](https://mp.weixin.qq.com/s/_qVnktKlrlcW4wvSqec1rQ)
++ [C语言指针玩法（四）void通用指针](https://mp.weixin.qq.com/s/YAN4Iyt5V39Plv1jb5yj6Q)
++ [C语言指针玩法（五）—链表：指针艺术的完美诠释](https://mp.weixin.qq.com/s/NqIHyix_En6lN9gwv12zvg)
 
 #### 函数
 
@@ -954,6 +966,7 @@
 + [C语言现实堆排序详解](https://mp.weixin.qq.com/s/Igbl8_DXBGawZCjiNbXlTg)
 + [C语言实现计数排序详解](https://mp.weixin.qq.com/s/vNv0Is6imDr_amovqOSeaA)
 + [谈C编程---源码欣赏冒泡排序](https://mp.weixin.qq.com/s/r0GA9GuXE4FdlJmdpNe4tQ)
++ [C语言写高性能日志系统：异步与零拷贝](https://mp.weixin.qq.com/s/b_3QzLTmBkGAWB3lYtur5Q)
 
 ### 前景
 

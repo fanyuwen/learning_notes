@@ -47,6 +47,7 @@
 + [面试官：消息队列积压百万，除了加机器还有哪些解法？](https://mp.weixin.qq.com/s/iRGKRL0Og13GG3JTh0FS7w)
 + [RabbitMQ-RocketMQ和Kafka有什么区别](https://mp.weixin.qq.com/s/Dnb9OaQpKrCqSKqL34lcUQ)
 + [面试官问：高并发下如何保证消息顺序消费？这样答才加分](https://mp.weixin.qq.com/s/qCaCOijNJshqW1nDiKb36g)
++ [队列积压比上班早高峰还可怕？看这篇文章就够了！](https://mp.weixin.qq.com/s/hsOXuVVAlvQv4cN2_XcT7w)
 
 # KAFKA
 

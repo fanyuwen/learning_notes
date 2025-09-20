@@ -1426,6 +1426,7 @@
 + [SimpleDateFormat线程安全终极方案：ThreadLocal魔法抽屉实践](https://mp.weixin.qq.com/s/38zBSJ-8siuoyU8Jv3DGhQ)
 + [ThreadLocal为什么会导致内存泄漏？该如何解决?](https://mp.weixin.qq.com/s/AgimSOPksDCJKKn9LatcZg)
 + [大白话深入理解ThreadLocal：原理、内存泄漏、源码分析](https://mp.weixin.qq.com/s/wdQiobKUmMThlhye_VjI-A)
++ [ThreadLocal：线程中的全局变量 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/10107378)
 
 ## math库
 
@@ -1511,6 +1512,7 @@
 + [Java日期与时间API：LocalDate、LocalTime的操作](https://mp.weixin.qq.com/s/7T6BQzL6gUqwOhoouigDTw)
 + [从Date到LocalDateTime的优雅迁移！](https://mp.weixin.qq.com/s/52WzcIOtP6CY9f3yeSaEAw)
 + [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/GkmLdk2YSmimbnv64Yxdxw?click_id=24)
++ [SimpleDateFormat 线程安全问题修复方案 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10098343)
 
 ### Collection/Map
 

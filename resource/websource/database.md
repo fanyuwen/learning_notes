@@ -1037,6 +1037,7 @@
 + [Redis缓存三剑客：穿透、雪崩、击穿—手把手教你解决](https://mp.weixin.qq.com/s/IqzJyiVnYRVYlatfAnq91A)
 + [Redis：缓存雪崩、穿透、击穿的技术解析和实战方案](https://mp.weixin.qq.com/s/4N455ftg88VFp-ayQ6IH4A)
 + [一文搞懂 Redis 缓存三大 “坑”：穿透、击穿、雪崩](https://mp.weixin.qq.com/s/hBwKlUyatI-zsQxeiKSniw)
++ [深入解析 Redis 的 LRU 与 LFU 算法实现](https://my.oschina.net/vivotech/blog/10086708)
 
 #### 限流
 

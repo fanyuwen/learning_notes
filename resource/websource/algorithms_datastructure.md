@@ -47,13 +47,11 @@
 + [布隆过滤器到底有多神奇？一文带你彻底搞懂它的秘密！](https://mp.weixin.qq.com/s/ZwfmZp4KgcnpZeFbVenEPw)
 + [栈的四种模型](https://mp.weixin.qq.com/s/BR8GBSc-wktcUZFCkgfBGg)
 + [缓存穿透的解决方式？—布隆过滤器](https://mp.weixin.qq.com/s/7p_3FpgvOZ98a28w-VLexg)
-+ [LRU 缓存](https://mp.weixin.qq.com/s/Vc9tQ1OewpnggQhhyh7QUQ)
 + [存储系统的数据效率之数据压缩技术](https://mp.weixin.qq.com/s/PoyGiUrzCxv5rzW5aJnh9A)
 + [有哪些算法惊艳到了你？（三）](https://mp.weixin.qq.com/s/H-DxQVhYCJWxLU2p37PfuQ)
 + [从尾到头打印链表](https://mp.weixin.qq.com/s/_rU1ADi_HOK36Kn7WjCQ8Q)
 + [有哪些算法惊艳到了你？（五）](https://mp.weixin.qq.com/s/He8rPSDX-H0fpZAqkD84XQ)
 + [设计心得——数据结构的意义](https://mp.weixin.qq.com/s/EIUWcF3xSR4cHFDXpKz1jQ)
-+ [惊艳我的 LRU 算法：程序员刷题路上的第一道“神题”](https://mp.weixin.qq.com/s/747cuXLlCDYHkAlnr38stA)
 + [算法与数据结构：浅谈数据结构之顺序表](https://mp.weixin.qq.com/s/shBj0eJ8_1zeOQW3ZGc7wA)
 + [漫画图解排序算法：7大排序算法从冒泡到快速排序，谁才是效率之王？（附图解）](https://mp.weixin.qq.com/s/8pYO9ZZd9pInEuy8lunqVg)
 + [漫画图解归并排序算法：原来只要掌握分治思想，90%的人就能轻松成为排序算法高手！](https://mp.weixin.qq.com/s/lqEBBWGsdVS009QCViN53g)
@@ -115,6 +113,14 @@
 + [一致性哈希算法真的能解决分布式系统痛点吗？看完这篇你就懂了！](https://mp.weixin.qq.com/s/LxmeiHzjQZX-cynhV-MNhA)
 + [用 JSON 表现树的结构兼谈队列、堆栈的练习（一）](https://mp.weixin.qq.com/s/quzNMNFiEO1B76h8U-W0PQ)
 + [算法～前缀和滑动窗口](https://mp.weixin.qq.com/s/8_Z9wNWSiO3Wb16R7t97IQ)
++ [有序数列的数据结构优化](https://blog.codingnow.com/2023/07/monotonic_array.html?comefrom=https://blogread.cn/news/)
++ [死磕 java 集合之 TreeMap 源码分析（一）- 内含红黑树分析全过程](https://my.oschina.net/u/4108008/blog/4634182)
++ [死磕 java 集合之 WeakHashMap 源码分析](https://my.oschina.net/u/4108008/blog/4634188)
++ [跳跃表数据结构与算法分析](https://my.oschina.net/u/4090830/blog/6241452)
++ [构建高性能队列，你不得不知道的底层知识！](https://my.oschina.net/u/4108008/blog/4496411)
++ [营销系统黑名单优化：位图的应用解析 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/11043986)
++ [递归和分治](https://mp.weixin.qq.com/s/rZQUWgIUuVQ4hQjIYDLmGQ)
++ [【数据结构与算法】二分法](https://mp.weixin.qq.com/s/6NNtiObaYwdxD4MfKuPuKw)
 
 ## Graph
 
@@ -129,6 +135,12 @@
 + [图与循环依赖、死锁(一) 为何我的循环依赖时好时坏？](https://mp.weixin.qq.com/s/KpI_pPWKEmNImjyyDqf62Q)
 + [图解多源最短路径:Floyd算法](https://mp.weixin.qq.com/s/PBYuABXM8qqoVbp5sx7A8w)
 + [数据结构——图](https://mp.weixin.qq.com/s/evnbYmbSP3HN0jWSA1RyNw)
+
+## Hash
+
++ [《Java 数据结构与算法》第 5 章：哈希表 (散列)](https://my.oschina.net/itstack/blog/5570800)
++ [关于哈希的一切，都在这里了！](https://my.oschina.net/u/4108008/blog/4540718)
++ [七夕节也要学起来，哈希哈希哈希！](https://my.oschina.net/u/4108008/blog/4528455)
 
 ## Tree
 
@@ -174,6 +186,12 @@
 + [图解数据结构：二叉树详解](https://mp.weixin.qq.com/s/d2HWVVcdmm4PnwHaTxzkiQ)
 + [图解最小生成树算法：5分钟掌握Prim算法](https://mp.weixin.qq.com/s/_GRIBA7kxYPRMxYc_-iYFQ)
 + [字节跳动面试题:阐述一下平衡二叉树和红黑树的区别？](https://mp.weixin.qq.com/s/eipjq-z8XACFkug10597Bg)
++ [【算法与数据结构】Trie 树简介及应用](https://my.oschina.net/u/4090830/blog/6919263)
++ [一本通数据结构，树的概念](https://mp.weixin.qq.com/s/vj4svOg_S1CwU-KECNV0cQ)
+
+### 红黑树
+
++ [了解红黑树的起源，理解红黑树的本质](https://my.oschina.net/u/4108008/blog/4596626)
 
 ## 排序算法
 
@@ -189,6 +207,7 @@
 + [归并排序：优雅如诗的「分治」艺术](https://mp.weixin.qq.com/s/9WBX7N3Wrwrcf0URQ1GnXQ)
 + [冒泡排序：从入门到精通，一文搞懂经典排序算法](https://mp.weixin.qq.com/s/a-0jEa3wnikZDSZoM0aObQ)
 + [冒泡排序（Bubble Sort）](https://mp.weixin.qq.com/s/XqNRtQnyp16ap0s9ORnXsw)
++ [一文弄懂计数排序算法！](https://www.cnblogs.com/xiaochuan94/p/11198610.html)
 
 # 密码学
 
@@ -215,6 +234,19 @@
 + [奇异值分解（SVD）：图像压缩的魔法](https://mp.weixin.qq.com/s/deKhqpYa5kXbC6QzzBpP0Q)
 + [聊聊六种负载均衡算法](https://mp.weixin.qq.com/s/ijRVd91ODt8HJmb1TSinvg)
 
+## 缓存
+
+### LRU
+
++ [LRU 缓存](https://mp.weixin.qq.com/s/Vc9tQ1OewpnggQhhyh7QUQ)
++ [惊艳我的 LRU 算法：程序员刷题路上的第一道“神题”](https://mp.weixin.qq.com/s/747cuXLlCDYHkAlnr38stA)
++ [LRU算法及其优化策略——算法篇](https://juejin.cn/post/6844904049263771662#heading-3)
++ [实现 LRU 缓存算法](https://my.oschina.net/u/4923278/blog/5527656)
+
+## 压缩
+
++ [Lepton 无损压缩原理及性能分析](https://my.oschina.net/vivotech/blog/5549367)
+
 # leetcode
 
 + [学会这 8 个模式可以解决 80% 的 Leetcode 问题](https://mp.weixin.qq.com/s/TEsXwbz0XKn4nDX1d1tDZg)
@@ -229,8 +261,10 @@
 + [还得是微信，腾讯一面算法原题](https://mp.weixin.qq.com/s/GpNIZ3oseXjw_INnW3ogVw)
 + [原来这么多大佬都在阿里上过班?](https://mp.weixin.qq.com/s/ucYvBade7gj3_VVVXIfWjQ)
 + [算法内功修炼-两数之和](https://mp.weixin.qq.com/s/_Qqi2I5YYMIV9QgIUea7MA)
++ [腾讯真喜欢问这个算法啊。。。](https://mp.weixin.qq.com/s/4ip6hHzAClrdcS5PfrRCXg)
 + [【力扣】两数相加](https://mp.weixin.qq.com/s/UeotTtUX3oWtJ8ibiDPMgw)
 + [【力扣】二叉树的锯齿形层序遍历](https://mp.weixin.qq.com/s/zICBPZYuEXMjdXauEEKaFw)
++ [以Leetcode第146题为例学习LRU缓存算法](https://mp.weixin.qq.com/s/nI-rp3zTtei3TFIoBDcr5Q)
 + [LeetCode热题100之滑动窗口](https://mp.weixin.qq.com/s/JpyGdk21igFCf28ddHtHEA)
 + [LeetCode热题100之链表II](https://mp.weixin.qq.com/s/3vDknXG1miLd-jWT1BqosA)
 + [Leetcode 剑指 Offer II 138.有效数字](https://mp.weixin.qq.com/s/sdXGwwNuRoGNKJ0tjS_7bg)

@@ -128,7 +128,7 @@
 + 应用开发学习资源 [二哥的Java进阶之路](https://javabetter.cn/)
 + 代码开发学习资源 [refactoring](https://refactoring.guru/) [exercism](https://exercism.org/)
 + Java社区进程(java发展) [jcp](https://www.jcp.org/en/home/index)
-+ 软件开发学习资源 [javacodegeeks](https://www.javacodegeeks.com/) [baeldung](https://www.baeldung.com/) [happycoders](https://www.happycoders.eu/) [geeksforgeeks](https://www.geeksforgeeks.org/) [javarevisited](https://javarevisited.blogspot.com/) [awesome java](https://java.libhunt.com/) [i-programmer](https://www.i-programmer.info/)
++ 软件开发学习资源 [javacodegeeks](https://www.javacodegeeks.com/) [baeldung](https://www.baeldung.com/) [happycoders](https://www.happycoders.eu/) [geeksforgeeks](https://www.geeksforgeeks.org/) [javarevisited](https://javarevisited.blogspot.com/) [awesome java](https://java.libhunt.com/) [i-programmer](https://www.i-programmer.info/) [dzone](https://dzone.com/java) ["地瓜哥"博客网](https://www.diguage.com/)
 + jvm剖析工具 [visualvm](https://visualvm.github.io/) [MAT](https://eclipse.dev/mat/) <font style='color:red'>\*</font>[jprofiler](https://www.ej-technologies.com/jprofiler)
 + java版本年鉴 [javaalmanac](https://javaalmanac.io/)
 + redhat开发资源站 [redhat-developer](https://developers.redhat.com/)

@@ -13,6 +13,7 @@
 + [只有少数人懂的C/C++启动流程：从execve到main全链路解密](https://mp.weixin.qq.com/s/ko1e4qT54ZoTvBtSZjlbfw)
 + [面试官:为什么大厂拒绝使用shared_ptr（shared_ptr vs intrusive_ptr)?](https://mp.weixin.qq.com/s/JSseZMRLpePuykz0nK16MQ)
 + [代码“缓存友好”（cache-friendly）意味着什么？](https://mp.weixin.qq.com/s/1Pfb7EG6J3b0YEL3x_CpmA)
++ [[译] C/C++ 代码的优化技巧](https://mp.weixin.qq.com/s/x1uoCw4KAZuL1P3tsXiQBQ)
 
 ## 工具
 
@@ -37,6 +38,7 @@
 + [内存问题克星：VSCode GDB调试全攻略](https://mp.weixin.qq.com/s/16mCBeCkIaimH4KxouMSTw)
 + [提升 C++ 代码质量的利器：静态分析工具和实操技巧全指南](https://mp.weixin.qq.com/s/hClgQbHzswl1gC1X-KfsHg)
 + [初探 Makefile](https://mp.weixin.qq.com/s/vCNn7HUpQfIHv69v3W13Ng)
++ [Makefile怎么写？从入门到精通，一篇搞定！](https://mp.weixin.qq.com/s/eCJ66nwee4dIV4jqVirC4w)
 + [gcc 与 g++：有什么区别？](https://mp.weixin.qq.com/s/KZxDeG_iqbTje6DE2n7gGA)
 + [5个C语言内存检测神器，让段错误彻底消失！](https://mp.weixin.qq.com/s/VwCVBoBFM4Z2t2sKOetqQA)
 + [从strace的输出看程序是如何跑起来的](https://mp.weixin.qq.com/s/cUIdWk54SaaoqyhDsks7hw)
@@ -136,6 +138,7 @@
 + [C++ 中的四种类型转换操作符](https://mp.weixin.qq.com/s/WWEPC-KsIbZxTfusEsH4HA)
 + [为什么说 enum class 比普通 enum 更安全？](https://mp.weixin.qq.com/s/wpk0ia6DnLiElS0rLnNIYw)
 + [C++异常处理：从崩溃到优雅的错误处理艺术](https://mp.weixin.qq.com/s/4vNHkGo-t_quppNjmh8jLg)
++ [C++字符串：从C风格到string类的转型](https://mp.weixin.qq.com/s/RVBAAd9quc_FSYRFxX8XdQ)
 
 ### 高阶
 
@@ -520,6 +523,7 @@
 + [C++语言中的空类](https://mp.weixin.qq.com/s/ZyVD52y_fzymwvT8_pd5LA)
 + [虚函数能用默认参数吗？一道题秒杀无数 C++ 求职者](https://mp.weixin.qq.com/s/P9QvmMX_xNkp7JZxHg7Lkw)
 + [高效编程必知！C++虚函数的性能陷阱竟然这么致命！](https://mp.weixin.qq.com/s/0M0h-mQUmt0rR6qElQhJgA)
++ [C++ 虚继承的实现机制和虚函数实现多态的机制](https://mp.weixin.qq.com/s/zD6Lqk5KB4m0--i73NZn3A)
 
 ##### 泛型
 

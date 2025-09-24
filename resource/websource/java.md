@@ -1371,6 +1371,7 @@
 + [JVM 系列(三)：三色标记还不懂？这一篇带你彻底吃透！](https://mp.weixin.qq.com/s/mMT_meOHamdgDEGbWmvSCA)
 + [为什么堆只设置了8G，java进程却占用了12G内存？](https://mp.weixin.qq.com/s/4FsNkgxB6WDkP9UTcb9r4g)
 + [大白话聊明白：Java对象在内存中的分配、布局、访问、GC垃圾回收以及堆内存的默认大小](https://mp.weixin.qq.com/s/Ad6ceHxcBeM10YjKr6zsiw)
++ [如何定位堆外内存泄漏?](https://mp.weixin.qq.com/s/zMGNb8KsxLCbmRmS7gyy7A)
 
 # 核心库
 
@@ -1581,6 +1582,7 @@
 + [面试官追问：HashMap 为啥线程不安全？3 个核心原因 + 代码实测，一次讲透](https://mp.weixin.qq.com/s/t0PGr6tIRIoMm1skoiIsCw)
 + [面试官老问 HashMap？看完这篇，你能把他说懵！从入门到源码的八卦](https://mp.weixin.qq.com/s/Rykjdq0ZEWYLRRSBG58T8A)
 + [深挖HashMap：负载因子0.75的底层原理，面试问到不慌！](https://mp.weixin.qq.com/s/-mkrlyA00rVrAbAJ6MD-mA)
++ [面试必问：HashMap 为啥要用红黑树？一篇讲透底层逻辑](https://mp.weixin.qq.com/s/h51JqO8oldQr5DeHoIGe7Q)
 
 ### Optional
 
@@ -1771,6 +1773,7 @@
 + [缓存之美：从根上理解 ConcurrentHashMap](https://my.oschina.net/u/4090830/blog/18444316)
 + [ConcurrentHashMap为什么不支持null健？](https://mp.weixin.qq.com/s/hnhhGspHCU_UDcS4CRUdIw)
 + [最爱问的高频ConcurrentHashMap原理，你会了吗？](https://mp.weixin.qq.com/s/Ifmb93yJErcz3rwGLgCzsg)
++ [深度解析 ConcurrentHashMap：从源码到实战](https://mp.weixin.qq.com/s/sSLhPR6L9UaQzs5UOR0WSQ)
 
 ### 其它
 
@@ -2054,6 +2057,7 @@
 + [Dubbo原理—9.RPC核心之Invoker接口](https://mp.weixin.qq.com/s/cfdwpRs7IyOx0r_NsDlrrw)
 + [Dubbo原理—10.RPC核心之Proxy代理](https://mp.weixin.qq.com/s/m73wBK9haj1PutJVkf01dA)
 + [Dubbo原理—13.集群之负载均衡和容错](https://mp.weixin.qq.com/s/A8UrWuw2TyBNkyhkXy5TNQ)
++ [【架构设计】从Dubbo源码中学习设计模式](https://mp.weixin.qq.com/s/8VjF_0mT4PXKuC8dlJGxBw)
 
 ## eureka
 
@@ -2358,6 +2362,7 @@
 + [Netty 客户端与服务端选型分析：下位机连接场景](https://mp.weixin.qq.com/s/itT_qJCNJLcq8-9uRaEEGQ)
 + [工业级TCP客户端高可靠连接架构设计与Netty优化实践](https://mp.weixin.qq.com/s/SA_H-ctTwTuxGZVTAgOrUg)
 + [工业物联网千万级设备通信优化：Netty多帧解码器实战，性能提升](https://mp.weixin.qq.com/s/-k_jU80mCbLShnjHKdKRMQ)
++ [Netty 线程模型与源码解析：高性能的秘密](https://mp.weixin.qq.com/s/ZH65WPoak56graVQiu5_rg)
 
 ## okhttp
 
@@ -2969,6 +2974,7 @@
 + [Spring中AOP的一些核心概念讲解](https://mp.weixin.qq.com/s/CFhnbPIQOfYTEiKNTojgtw)
 + [Spring 源码精讲 03 - 切面编程（AOP）](https://mp.weixin.qq.com/s/Z8hbKKhoPQ18zdR_bmGUDA)
 + [Aop校验切面表达式的两种方式](https://mp.weixin.qq.com/s/am9P_j_rONSvMvfCKSRgJw)
++ [真正搞懂 Spring 系列（二）：AOP全解析——从概念到源码，再到实战场景](https://mp.weixin.qq.com/s/a4a9yKW_LsCgUU7fz-Umww)
 
 ### 配置打包部署
 
@@ -3299,6 +3305,7 @@
 + [Spring Boot 使用 LinkedBlockingDeque 实现简单的消息队列异步任务](https://mp.weixin.qq.com/s/v3_53BW6pEvTmBCTGImY8g)
 + [10 个 Spring Boot 高效编码技巧 + 7个 Tomcat性能调优秘诀](https://mp.weixin.qq.com/s/tq-OsliTnCj6EjlT4Xau1A)
 + [SpringBoot中5种动态代理实现](https://mp.weixin.qq.com/s/An7YYX8lEu_eiR9AMrOB7Q)
++ [SpringBoot 中的 7 种耗时统计方式，你用过几种？](https://mp.weixin.qq.com/s/YM0lWloj8b8gSTtIlDefbA)
 
 ##### 原理
 
@@ -3355,6 +3362,7 @@
 + [Java进阶手册（六）SpringBoot自动配置的深入分析](https://mp.weixin.qq.com/s/tFz4O7LRA0cEgSbeB8Ksmw)
 + [Java进阶手册（十）SpringBoot自动配置原理深度剖析](https://mp.weixin.qq.com/s/KAFnvjMj9NOTWjPA0inMCQ)
 + [Java进阶手册（二十四）深入理解SpringBoot的自动装配原理及自定义自动装配组件（超详细）](https://mp.weixin.qq.com/s/qmCujBOAhj6JCLfAakJYww)
++ [面试必背：@Autowired 与 @Resource 到底有啥区别？3 分钟理清核心差异](https://mp.weixin.qq.com/s/ZfMBPYOxlDwx_ixi4Zc72Q)
 
 #### 版本特性
 
@@ -4791,6 +4799,7 @@
 + [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
++ [搞定 Java 高并发秒杀，掌握这 7 个核心设计原则就够了](https://mp.weixin.qq.com/s/RDupbUSEA6-8J4XIJubY2w)
 + [通过对比理解「面向对象」编程思想](https://mp.weixin.qq.com/s/KF2g5BTl0Fe_H7PmIfntyA)
 + [Java缓存穿透：布隆过滤器 + 空值缓存 + 参数校验，3种方案彻底解决！](https://mp.weixin.qq.com/s/tfyqRW8w7_r1TE5HvojUNw)
 + [JAVA：一致性哈希（Consistent Hashing）算法的技术指南](https://mp.weixin.qq.com/s/1hpDaPGRolbL5GDVjdpVQw)
@@ -5007,3 +5016,4 @@
 + [手写链路追踪](https://mp.weixin.qq.com/s/pqfdrzQz4fWUXuxHMi136Q)
 + [手写链路追踪优化-多线程追踪](https://mp.weixin.qq.com/s/Ic2jcCI1w5G5quM6Kaohqg)
 + [从零构建高并发锁工具：基于AOP与ReentrantLock的轻量级分布式锁实践](https://mp.weixin.qq.com/s/4MiQ_nB_66By1J5jplIGMw)
++ [Java开发者的Rust高级开发速成指南](https://mp.weixin.qq.com/s/I7YDqh8bFS6yJy30_-6NOQ)

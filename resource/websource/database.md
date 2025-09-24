@@ -481,6 +481,7 @@
 + [MySQL 的存储引擎到底怎么选？InnoDB vs MyISAM 深度对比](https://mp.weixin.qq.com/s/6GsxL5fdpXqTJ_0_6RxUEw)
 + [一条 INSERT 背后的秘密：揭开 InnoDB 记录结构的神秘面纱。](https://mp.weixin.qq.com/s/LUA65F1aanDZM4prllH-7Q)
 + [InnoDB的智慧设计：刷redo log到磁盘和直接刷脏页到磁盘的区别](https://mp.weixin.qq.com/s/1wCNBt56KEJv89rwghJy-Q)
++ [面试官问我MySQL主键怎么选的——我直接把InnoDB的选秀规则抖出来了](https://mp.weixin.qq.com/s/6bbmoOa8h6ADVZweyls9GA)
 
 #### MVCC
 
@@ -669,6 +670,7 @@
 + [MySQL中IN和NOT IN会走索引吗？](https://mp.weixin.qq.com/s/gMHn_u5hdIKOHd_W8B6txg)
 + [MySQL 索引失效原理剖析：别让 “加速键” 变成 “绊脚石”](https://mp.weixin.qq.com/s/p7pOZ-9QEqJJ2kEh1-KE1A)
 + [MySQL索引详解](https://mp.weixin.qq.com/s/4Lae43jMigto6cuCLYlD9g)
++ [什么是MySQL的索引下推技术？](https://mp.weixin.qq.com/s/WkcutMXnkedmwIgOt4Lv0g)
 
 ### PostgreSQL
 

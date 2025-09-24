@@ -725,6 +725,7 @@
 + [JavaSec-Java反序列化基础篇-反序列化概念与利用](https://mp.weixin.qq.com/s/yfi-FZ2iJYRi394I64RF9Q)
 + [JavaSec-Java反序列化基础篇-URLDNS链](https://mp.weixin.qq.com/s/0qn4eNjU2eFgQ-gCgKCLFw)
 + [序列化和反序列化](https://mp.weixin.qq.com/s/dll_qb8w_vgUaDU8yISAcQ)
++ [0 基础带你精通 Java 对象序列化 -- 以 Hessian 为例｜得物技术](https://my.oschina.net/u/5783135/blog/18691458)
 
 ### IO
 

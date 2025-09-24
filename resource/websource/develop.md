@@ -448,6 +448,7 @@
 + [接口幂等性设计：用Redis避免接口重复请求](https://mp.weixin.qq.com/s/88xjFjJ_iMAVoL6v_teg-Q)
 + [幂等性设计--构建可靠分布式系统的核心原则](https://mp.weixin.qq.com/s/ztiXt7YJNHrlCVnz2OkXRg)
 + [被架构师怼了三次，小明终于懂了接口幂等设计](https://mp.weixin.qq.com/s/mJTGhSXORkUB7MhGOkbhcg)
++ [如何秒级实现接口间 “幂等” 补偿：一款轻量级仿幂等数据校正处理辅助工具](https://my.oschina.net/u/4090830/blog/18691875)
 
 ### 负载&限流
 

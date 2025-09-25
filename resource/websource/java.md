@@ -293,6 +293,7 @@
 + [还在用“+”号拼接字符串？Java文本块，让你告别“上古”写法！](https://mp.weixin.qq.com/s/DdxzzDz7x0O8JTg5Ml1BMA)
 + [升级 JDK 17 碰到的请求 https 问题](https://mp.weixin.qq.com/s/MFkjAtSl3ttyCm3CN_DdXA)
 + [Java 新语法 Switch Pattern Matching，提升代码逼格的神器](https://mp.weixin.qq.com/s/7rf-59vwQbm-K9csK_4HnQ)
++ [Java25 的新特性](https://my.oschina.net/go4it/blog/18692176)
 
 ## 高级用法
 
@@ -4499,6 +4500,7 @@
 + [Spring Boot + JavaScript 实时数据流：2种完整实现](https://mp.weixin.qq.com/s/PECwZgwqLjMQ9U-ydrtLXg)
 + [Java进阶手册（二十二）SpringBoot整合Memcached](https://mp.weixin.qq.com/s/5U5VjW6s43sJwUR404Prjw)
 + [从雪崩到扛住百万并发：Spring Boot + Jasync 异步重构实战指南](https://mp.weixin.qq.com/s/MQO_8rA7HRnql8G9iBVIUA)
++ [从 Spring Boot 到低代码：Oinone 平台深度集成实践与架构解析](https://my.oschina.net/u/9371056/blog/18692909)
 
 ##### excel
 
@@ -5017,3 +5019,4 @@
 + [手写链路追踪优化-多线程追踪](https://mp.weixin.qq.com/s/Ic2jcCI1w5G5quM6Kaohqg)
 + [从零构建高并发锁工具：基于AOP与ReentrantLock的轻量级分布式锁实践](https://mp.weixin.qq.com/s/4MiQ_nB_66By1J5jplIGMw)
 + [Java开发者的Rust高级开发速成指南](https://mp.weixin.qq.com/s/I7YDqh8bFS6yJy30_-6NOQ)
++ [从 Java 到 Go：面向对象的巨人与云原生的轻骑兵](https://my.oschina.net/u/4090830/blog/18691874)

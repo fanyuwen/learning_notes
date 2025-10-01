@@ -121,6 +121,7 @@
 + [营销系统黑名单优化：位图的应用解析 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/11043986)
 + [递归和分治](https://mp.weixin.qq.com/s/rZQUWgIUuVQ4hQjIYDLmGQ)
 + [【数据结构与算法】二分法](https://mp.weixin.qq.com/s/6NNtiObaYwdxD4MfKuPuKw)
++ [递归算法实践 -- 到仓合单助力京东物流提效增收](https://my.oschina.net/u/4090830/blog/18693740)
 
 ## Graph
 

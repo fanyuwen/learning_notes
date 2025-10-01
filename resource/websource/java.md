@@ -1106,6 +1106,7 @@
 + [Synchronized 你真的理解了吗？一文搞懂 synchronized 的原理与优化](https://mp.weixin.qq.com/s/FDurThhJvmUDdim9PLOWWw)
 + [独占锁 vs 读写锁：如何在并发编程中做出正确选择](https://mp.weixin.qq.com/s/evBmYMaAq-_GlSWVR1T8NA)
 + [深入理解 Java 并发的半壁江山： AQS](https://mp.weixin.qq.com/s/fHz7HarJLBfwU5_Ax3U0BQ)
++ [锁升级到底能不能 “退烧”？synchronized 释放后状态解析](https://my.oschina.net/u/9493576/blog/18693710)
 
 #### volatile
 

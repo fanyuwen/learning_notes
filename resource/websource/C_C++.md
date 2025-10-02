@@ -14,6 +14,7 @@
 + [面试官:为什么大厂拒绝使用shared_ptr（shared_ptr vs intrusive_ptr)?](https://mp.weixin.qq.com/s/JSseZMRLpePuykz0nK16MQ)
 + [代码“缓存友好”（cache-friendly）意味着什么？](https://mp.weixin.qq.com/s/1Pfb7EG6J3b0YEL3x_CpmA)
 + [[译] C/C++ 代码的优化技巧](https://mp.weixin.qq.com/s/x1uoCw4KAZuL1P3tsXiQBQ)
++ [C/C++ 开发者请注意！你真的懂memcpy吗？](https://mp.weixin.qq.com/s/LKHtdd56DuPoSonHCW4xjQ)
 
 ## 工具
 
@@ -317,6 +318,7 @@
 + [手把手教你实现C++高性能内存池，相比 malloc 性能提升7倍！](https://mp.weixin.qq.com/s/AlbC0g_H5BHNTu0BGOWV9Q)
 + [终于搞懂了！浅拷贝和深拷贝的区别！](https://mp.weixin.qq.com/s/zaI1_RKFYKj-RAZy30vHqQ)
 + [数组、多维数组、指针、函数指针一文看懂](https://mp.weixin.qq.com/s/cOlTIkXkEMynbJOeMB1xyA)
++ [C++完美转发：保持类型本色的万能引用钥匙](https://mp.weixin.qq.com/s/jUNJDS7lOGerk99-SN6ZCg)
 
 #### 指针
 
@@ -524,6 +526,7 @@
 + [虚函数能用默认参数吗？一道题秒杀无数 C++ 求职者](https://mp.weixin.qq.com/s/P9QvmMX_xNkp7JZxHg7Lkw)
 + [高效编程必知！C++虚函数的性能陷阱竟然这么致命！](https://mp.weixin.qq.com/s/0M0h-mQUmt0rR6qElQhJgA)
 + [C++ 虚继承的实现机制和虚函数实现多态的机制](https://mp.weixin.qq.com/s/zD6Lqk5KB4m0--i73NZn3A)
++ [从显式到智能：C++ 类模板核心特性](https://mp.weixin.qq.com/s/MoPTlJ6FbDyagcqmDV8u-g)
 
 ##### 泛型
 
@@ -971,6 +974,8 @@
 + [C语言实现计数排序详解](https://mp.weixin.qq.com/s/vNv0Is6imDr_amovqOSeaA)
 + [谈C编程---源码欣赏冒泡排序](https://mp.weixin.qq.com/s/r0GA9GuXE4FdlJmdpNe4tQ)
 + [C语言写高性能日志系统：异步与零拷贝](https://mp.weixin.qq.com/s/b_3QzLTmBkGAWB3lYtur5Q)
++ [C语言常用数据结构及能力提升](https://mp.weixin.qq.com/s/-Kh8ZTKzTOusTuo4nOMR6Q)
++ [字符串、内存、内存映射、缓冲区、系统、用户/组、进程、时间 相关冷门有用函数原理一文看懂](https://mp.weixin.qq.com/s/NVImXq9wlU9xh__vGhie6A)
 
 ### 前景
 

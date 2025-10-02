@@ -496,6 +496,7 @@
 + [实现大文件的断点下载、分片下载](https://mp.weixin.qq.com/s/2qB6vESIUw7YPk4rL16Lzw)
 + [如何实现大文件传输中的断点续传](https://mp.weixin.qq.com/s/hkZOXKjGEdoofl30vrgBcg)
 + [化整为零(入门篇) ：大文件上传的二三事](https://mp.weixin.qq.com/s/9EfegzQUJuLjl7AddFqa4A)
++ [实现大文件上传全流程详解(补偿版本)](https://mp.weixin.qq.com/s/SvQ5hnf__b7wfmugsi3MxA)
 
 ### 超时&定时&异步调度
 
@@ -721,6 +722,9 @@
 + [while vs for：实战与选型](https://mp.weixin.qq.com/s/WF9_aSu2xCdvm_MXygMJDQ)
 + [高并发系统架构设计与核心概念——读多写少系统](https://mp.weixin.qq.com/s/WVt13LR0sFRQZSSw70qMVw)
 + [代码之美 - 代码整洁之道](https://my.oschina.net/u/4090830/blog/18693737)
++ [代码洁癖症？这 100 个技巧 治好你的强迫症！](https://mp.weixin.qq.com/s/DAOwY4Ws_IqilvXxRshM6A)
++ [请停止对代码那些小打小闹的优化](https://mp.weixin.qq.com/s/U5r524pi_KWA5ifAqvI2hA)
++ [编译器 vs 解释器：深入解析程序执行机制](https://mp.weixin.qq.com/s/-YTCz6n-IVI3SZ_TroADYg)
 
 # 测试相关
 

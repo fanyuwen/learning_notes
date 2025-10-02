@@ -250,6 +250,7 @@
 + [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
 + [JAVA 24 虚拟线程的演进：从愿景到生产实践](https://mp.weixin.qq.com/s/AYmxYLDzPusOb5Axf3WRCA)
 + [Java 24 中最值得关注的 5 大特性](https://mp.weixin.qq.com/s/81dwQnlizd3kvycJur1CsA)
++ [Java 25虚拟线程解析：@Async注解的正确打开方式](https://mp.weixin.qq.com/s/M6EPjlmfjWyxoGtBSZGDNg)
 + [Record类型进阶玩法：与Jackson联动的3个暗坑](https://mp.weixin.qq.com/s/Rfq18xcitSnRJqBlCBA2nQ)
 + [Java17杀手级特性：这5个语法糖让你少写50%代码](https://mp.weixin.qq.com/s/BWRrs_OKXgDXR1Pmr7J2gA)
 + [还在用Java8吗？赶快升级Java17吧！这些新特性太优雅了](https://mp.weixin.qq.com/s/tzHgGHOuqaYXWtOfuZx6bg)
@@ -503,6 +504,7 @@
 + [分享些 Function 和 Predicate 高级使用技巧](https://mp.weixin.qq.com/s/Mqzx5Lix0pmx3jSqIV-ytg)
 + [大数据量的ArrayList怎么获取n个元素](https://mp.weixin.qq.com/s/zAFxfmtOKGkUlzy2vYCIkw)
 + [位图到底是什么神仙数据结构？Java程序员必看的高效存储秘籍](https://mp.weixin.qq.com/s/BruXxGmPKJBCMhB-YsOHOw)
++ [拥抱Lambda表达式，解锁Java函数式编程魅力](https://mp.weixin.qq.com/s/3Mhpbb3IZMlP-UzuiCZmTA)
 
 ## 代码质量
 
@@ -927,6 +929,7 @@
 + [Java 多线程深度剖析与实战指南](https://mp.weixin.qq.com/s/0CzfaDCCOeHb4m0QVej_XA)
 + [实现一个可中断线程的线程类](https://mp.weixin.qq.com/s/XCeIJz6yrI9Mnq7wqr5MpA)
 + [技术面：Java并发（线程同步、死锁、多线程编排）](https://mp.weixin.qq.com/s/IhmI6dFIrM-kd4XpUVdcgA)
++ [无锁编程基础：Sequential Consistency是什么？Lamport 1979 论文精读](https://mp.weixin.qq.com/s/RcjHwAhBV6vKO4SfZGyLCA)
 
 #### CAS
 
@@ -1006,6 +1009,7 @@
 + [Java线程池实战：异步任务超时控制与CompletableFuture任务编排全解析](https://mp.weixin.qq.com/s/73qsKwuqH3Fty_gmRug2AQ)
 + [技术面：Java并发（线程池、ForkJoinPool）](https://mp.weixin.qq.com/s/PgmSwH4kcqwzZ2D-AKqmpQ)
 + [线程池你用对了吗？Executors、参数配置、拒绝策略全讲透](https://mp.weixin.qq.com/s/LsbKtt37cvADdEgOulm06g)
++ [面试官问：线程池拒绝策略怎么选，才不会丢任务？](https://mp.weixin.qq.com/s/JJooibFss6O_TgCt6boNxA)
 
 #### 锁
 
@@ -2076,6 +2080,7 @@
 + [Guava——你不得不知道的一个Java工具类包，这个对你真的很有用！](https://mp.weixin.qq.com/s/Y_1PCvJKp9qe7AAn8jjmyA)
 + [Guava：告别冗余代码！让代码高效又优雅！](https://mp.weixin.qq.com/s/iRfJqGaWcekrnBdz-v-AMA)
 + [从二维表到高效映射： Guava Table](https://mp.weixin.qq.com/s/bjlf6zUwhC8uHomm5z4AdA)
++ [Guava的Sets工具类：集合操作竟然可以这么简单！](https://mp.weixin.qq.com/s/SKmoCGsYb_eskeGz3mmMvQ)
 
 ## hystrix
 
@@ -4809,6 +4814,7 @@
 + [Java和C++语言性能大比拼](https://mp.weixin.qq.com/s/GNVm5e0rIZqUZnSTola9kQ)
 + [了解编程语言的编译器：从 CPU 指令到云原生，一次搞懂编译、字节码、JIT/AOT。你不会连自己写的代码怎么跑的都不知道吧？](https://mp.weixin.qq.com/s/3tJBCsSaq0i7Vzzawn_zHA)
 + [Java百万级数据导出实战：从内存爆炸到流畅下载优化方案](https://mp.weixin.qq.com/s/OKelyMaZwjgbmai6QviTew)
++ [Java程序导致CPU打满如何排查？](https://mp.weixin.qq.com/s/_dmi8UvfDX0WacGwyCoe1w)
 + [从跨语言角度看模式匹配（Java、Kotlin、Python）](https://mp.weixin.qq.com/s/LzvzoPsLpkfnLYKqBsOPkQ)
 + [深入浅出AST：如何用树形结构解构代码逻辑](https://mp.weixin.qq.com/s/SzfQoumtAwQgfeuE7sZctg)
 + [学Python,java,c那么多种语言，你们是怎么不搞乱语法的？](https://mp.weixin.qq.com/s/lktmrY6xZ2o-Z900H-psUg)

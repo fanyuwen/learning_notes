@@ -152,6 +152,7 @@
 + [数据库深分页介绍及优化方案](https://mp.weixin.qq.com/s/NqaGlC4-_EbJ_Ib33i4PXQ)
 + [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/y2hgGyEHo2hmtMEe0p1o9g)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/HhorRlnbC9ArIloZ1yhOzw)
++ [如何设计一个无限层级的树状数据结构？关系性数据库设计，mysql、面试必备](https://mp.weixin.qq.com/s/cekbUoJMebSUXQ4NgF9z2Q)
 
 ### 读写分离&分库分表
 
@@ -180,6 +181,7 @@
 + [美团二面：如何用分库分表扛住10亿订单洪峰？架构师必须掌握的3个核心策略！](https://mp.weixin.qq.com/s/QL1yWN_NdCEaHIMmzWQ2wg)
 + [阿里面试：每天新增100w订单，如何的分库分表？这份答案让我当场拿了offer](https://mp.weixin.qq.com/s/XkbtHrZVRtx-f7REzi-eBg)
 + [10亿订单如何做分库分表？](https://mp.weixin.qq.com/s/JWmw6GtRaNg71RRbMMTJYg)
++ [分库分表下如何实现分页查询功能](https://mp.weixin.qq.com/s/BjRaRoWBYRHF7rSlGZnfNQ)
 
 ## 原理解析
 
@@ -462,6 +464,9 @@
 + [MySQL的in数量限制1000个？](https://mp.weixin.qq.com/s/FDL0SF2Dwr2eaRSETr1o8w)
 + [线上千万级别表新增字段的方式](https://mp.weixin.qq.com/s/QORV1BqS6VqydxH98R5GfA)
 + [性能优化：如何快速获取全表数据](https://mp.weixin.qq.com/s/a618iR2UIyBsm8tkJn_17g)
++ [MySQL的两种分页方式：Offset/Limit分页和游标分页](https://mp.weixin.qq.com/s/D_9z0EYQLKnFIpihGNzTPA)
++ [MySQL基础操作-表的相关操作](https://mp.weixin.qq.com/s/qnJ1nVbRMSmvdX9kX1regA)
++ [仅仅会用MySQL的EXPLAIN还不够，还需要会用EXPLAIN ANALYZE](https://mp.weixin.qq.com/s/Y52K3l8i0ZIKCoMWwo5G0g)
 
 #### 存储引擎
 
@@ -554,6 +559,7 @@
 + [Mysql行锁、表锁和间隙锁区别](https://mp.weixin.qq.com/s/JnS7XM-RbrHvN7Rxh-lJ2A)
 + [MySQL不得不聊的锁知识：锁机制详解](https://mp.weixin.qq.com/s/B0FYNAwjkte-YLz1UqCQMQ)
 + [深入理解数据库乐观锁、悲观锁与 Redis 分布式锁：原理、场景与实战](https://mp.weixin.qq.com/s/HUMdglIK1sVgAaVfbQ_JDg)
++ [阿里面试：MySQL如何实现悲观锁？底层原理？](https://mp.weixin.qq.com/s/DLHgUbaiJTNqJaeJH_EuPA)
 
 #### 事务
 
@@ -579,6 +585,7 @@
 + [MySQL事务](https://mp.weixin.qq.com/s/x2nG7VJ32Y2SgXBXR-_Yzg)
 + [MySQL默认数据库隔离级别为什么是RR？而互联网大厂为什么把它修改为RC？](https://mp.weixin.qq.com/s/m3qnGrTb8l_caXUJMnp5Ig)
 + [MySQL 事务详解](https://mp.weixin.qq.com/s/JpAl5KLcO-a0L2Awtw7DeQ)
++ [架构必知：MySQL事务原理](https://mp.weixin.qq.com/s/q6C6Yhv_uIv3Xk-23UryYw)
 
 #### 索引
 
@@ -998,6 +1005,7 @@
 + [Redis 持久化原理分析和使用建议](https://my.oschina.net/vivotech/blog/17504975)
 + [揭秘Redis哨兵：高可用背后的技术细节](https://mp.weixin.qq.com/s/N4Wx6Vyr4pTZqvla4uH_eQ)
 + [Redis 淘汰机制：内存告急时，数据是怎么 “被毕业” 的？](https://mp.weixin.qq.com/s/ZSaYiNrAbQfQMUctdKd6-g)
++ [滴滴二面：谈一下你对持久化机制AOF的理解](https://mp.weixin.qq.com/s/2iXlsEgEb0CtDdM25_5L0g)
 
 #### 分布式锁
 
@@ -1026,6 +1034,7 @@
 + [浅入浅出分布式锁（Redis）的所有细节](https://mp.weixin.qq.com/s/fluxu3rsu4cy4mbzk41QfA)
 + [深入剖析Redis分布式锁：原理、场景与最佳实践](https://mp.weixin.qq.com/s/pUi2qFhlRI5s_DN-Xp4cUw)
 + [无需Redis分布式锁，8种方案搞定用户重复提交](https://mp.weixin.qq.com/s/aU8KVF5ALS6JexezLDc16A)
++ [美团一面：Redis 是如何实现分布式锁的](https://mp.weixin.qq.com/s/XMGZxkv_dFrXiyrGOchy_Q?click_id=37)
 
 #### 缓存
 

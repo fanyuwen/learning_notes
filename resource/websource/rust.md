@@ -157,6 +157,7 @@
 + [Rust 宏编程的局限性与解决方案](https://mp.weixin.qq.com/s/gOSspmfsWy7nWlq1UcFGzw)
 + [Rust从入门到精通15-Option和Result详解](https://mp.weixin.qq.com/s/MRlmh2DJD_-6QLDpFOXNAg)
 + [终于搞懂了！Rust 所有权原来可以这么简单](https://mp.weixin.qq.com/s/jLEXHcS0CQIpV4sWfyDEOA)
++ [Rust与C接口交互](https://mp.weixin.qq.com/s/Ycv0GzQTc1mGijJHUD5wzg)
 
 # 框架
 
@@ -248,3 +249,5 @@
 + [性能飞跃：如何用 Rust 构建高性能 Python 模块](https://mp.weixin.qq.com/s/38v3x-IsglyBQBzDwZBjTQ)
 + [三个简单规则，终结与 Rust 编译器的无尽战斗](https://mp.weixin.qq.com/s/S7DSDQK_-JBQ-4GuGJ7faA)
 + [Rust 性能提升 “最后一公里”：详解 Profiling 瓶颈定位与优化｜得物技术](https://my.oschina.net/u/5783135/blog/18687884)
++ [随笔 | 关于 Rust 的碎碎念](https://mp.weixin.qq.com/s/RD-vn4OmrtFd4eRtY4vzeg)
++ [Rust从入门到入迷（八）学会Rust通用集合后，我再也不想用C/C++/Java了](https://mp.weixin.qq.com/s/AirtafNc0mBoD3gEsoy_IA)

@@ -24,6 +24,7 @@
 + [深入理解计算机组成原理（十三）---寄存器介绍&&数据通路&&CPU核心器件](https://mp.weixin.qq.com/s/jit67JqK_65DJp_T2mVwUA)
 + [进程栈和线程栈傻傻分不清楚](https://mp.weixin.qq.com/s/XAitgkmiPBCa5pYonmOWRg)
 + [从while(1)到多任务：操作系统进程调度其实很简单](https://mp.weixin.qq.com/s/0TblnpiIbUs5YltVEMiQXw)
++ [计算机栈的工作原理](https://mp.weixin.qq.com/s/y0SL1ZerFmLao_EcUrjhaw)
 
 ## 文件系统
 
@@ -204,6 +205,7 @@
 + [【Linux】一文看懂linux进程（保姆级详解）](https://mp.weixin.qq.com/s/sVIjPy7piz2KufQN-Hdigg)
 + [Linux 内核智能指针原理分析](https://mp.weixin.qq.com/s/z1i-km57UCesBb2PYau6mQ)
 + [Linux Zero-Copy 技术深度分析](https://mp.weixin.qq.com/s/sSTpU7Tbo3AhvLzJeTMtXA)
++ [可执行文件是如何在Linux系统上跑起来的](https://mp.weixin.qq.com/s/M64f1iw_AnLXcwhPyTUvUw)
 
 ### 网络
 
@@ -405,6 +407,7 @@
 + [程序员必知的CPU优化技术：指令流水线深度解析](https://mp.weixin.qq.com/s/80CkZwWahJdBVeT8A0Vlug)
 + [深入理解CPU缓存：编写高性能Java代码的终极指南](https://mp.weixin.qq.com/s/Wl11t3iXpdbX22_gKzO1Bw)
 + [彻底搞懂内存屏障，让程序运行更有序](https://mp.weixin.qq.com/s/r7TF_3vMj_XMDcD-B6vwFg)
++ [内核中锁的基本介绍之一——CPU层面的锁（1）](https://mp.weixin.qq.com/s/hF8qrbWvSW3teKd6mS3FaQ)
 
 ### 并发
 

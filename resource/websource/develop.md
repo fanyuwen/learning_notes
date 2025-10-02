@@ -93,6 +93,7 @@
 + [《架构现代化》- 6](https://mp.weixin.qq.com/s/yGDdvaPPnFnJMqZGLwnpjg)
 + [架构提效的矛盾和矛盾的主要方面](https://my.oschina.net/u/4090830/blog/18688507)
 + [架构设计模式七大原则，小白秒懂的超全解析！](https://mp.weixin.qq.com/s/FpGUlp-q8X5d256rK_HE4A)
++ [社区搜索离线回溯系统设计：架构、挑战与性能优化｜得物技术](https://my.oschina.net/u/5783135/blog/18684911)
 
 ### DDD
 

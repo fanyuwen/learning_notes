@@ -108,6 +108,7 @@
 + [关于SQL的开窗函数，你踩过哪些坑？](https://mp.weixin.qq.com/s/eL0YzpkJz2AXKuDxPo3Mrw)
 + [对标阿里规范：MySQL 多表 JOIN 性能优化的 9 条黄金法则](https://mp.weixin.qq.com/s/yc3QXSPVFAai2OdTqsz4ug)
 + [SQL 优化之 explain 超详细讲解](https://mp.weixin.qq.com/s/I6pdwGjnicSI5zkxM8T0pA)
++ [慢 SQL 优化实战：从一例线上慢 SQL 探究执行引擎工作过程](https://my.oschina.net/vivotech/blog/18687291)
 
 # 本地数据库
 

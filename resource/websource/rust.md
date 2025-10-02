@@ -247,3 +247,4 @@
 + [从Spring Boot的自动化到Rust的手动实现](https://mp.weixin.qq.com/s/QrkMfyOV-hq3j0vVA_v-kw)
 + [性能飞跃：如何用 Rust 构建高性能 Python 模块](https://mp.weixin.qq.com/s/38v3x-IsglyBQBzDwZBjTQ)
 + [三个简单规则，终结与 Rust 编译器的无尽战斗](https://mp.weixin.qq.com/s/S7DSDQK_-JBQ-4GuGJ7faA)
++ [Rust 性能提升 “最后一公里”：详解 Profiling 瓶颈定位与优化｜得物技术](https://my.oschina.net/u/5783135/blog/18687884)

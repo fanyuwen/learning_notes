@@ -65,6 +65,7 @@
 + [CMake使用说明（一）常见技巧与编译总结](https://mp.weixin.qq.com/s/eMU2eMwl3U9MBFIAF96tHw)
 + [C++项目构建之五 cmake的变量](https://mp.weixin.qq.com/s/4Znt9f4nvD5H3-W1pDNZdQ)
 + [CMake入门教程：告别手写Makefile的痛苦](https://mp.weixin.qq.com/s/r3mV0DGXgSOJ1XUV8THSiQ)
++ [C++项目构建之十三 OBJECT类型的cmake库](https://mp.weixin.qq.com/s/BOtR3WTDMS4Fbw4-ewYFWQ)
 
 ### 第三方技术
 
@@ -319,6 +320,10 @@
 + [终于搞懂了！浅拷贝和深拷贝的区别！](https://mp.weixin.qq.com/s/zaI1_RKFYKj-RAZy30vHqQ)
 + [数组、多维数组、指针、函数指针一文看懂](https://mp.weixin.qq.com/s/cOlTIkXkEMynbJOeMB1xyA)
 + [C++完美转发：保持类型本色的万能引用钥匙](https://mp.weixin.qq.com/s/jUNJDS7lOGerk99-SN6ZCg)
++ [c++编程中级第二讲：复杂度分析(2)](https://mp.weixin.qq.com/s/ZawGR1ofJzQLGA_B1nSGfA)
++ [菜鸟面试官拍桌狂笑：“仿函数和lambda比性能？你写的代码是蜗牛送快递吧！”我答完，他笑到快递单都飞了…](https://mp.weixin.qq.com/s/fvpuFvyZK6IYI-AqGeEVcw)
++ [C++小寄巧-10：儒雅随和头文件](https://mp.weixin.qq.com/s/-JnIVELeUS2TAoEksBHI2w)
++ [C++如何计算普通类型的 Hash 值：基于 gcc/clang 源码分析](https://mp.weixin.qq.com/s/TYKX6DqZUZOkqoRH7GU2wg)
 
 #### 指针
 
@@ -340,6 +345,7 @@
 + [C++引用与指针进阶](https://mp.weixin.qq.com/s/Bcj173kwdK5tLST1Gq2c_g)
 + [C++智能指针：告别内存泄漏的利器](https://mp.weixin.qq.com/s/iNtzQ07KT1JvdtVJ3jx2uA)
 + [C++“指向类数据成员的指针”（::*）：是什么？怎么用？](https://mp.weixin.qq.com/s/_Po9KyWBGCb3BKKOHLti4g)
++ [C++函数指针与右值引用的交互难题：从程序崩溃到稳健代码的调试实录（长文慎入）](https://mp.weixin.qq.com/s/avZImsNGyo8Mhv36-Weotw)
 
 #### 函数
 
@@ -352,6 +358,7 @@
 + [虎牙C++后台秋招一面：解析lambda表达式的参数绑定的实现原理？](https://mp.weixin.qq.com/s/zhWeafJwm4JoWIUlhDb27A)
 + [C++虚函数表到底在哪个位置呢？](https://mp.weixin.qq.com/s/AuGjzDe1Emiva7RB7uqP5g)
 + [C++老程序员都用仿函数？揭开高性能“状态管理”代码背后的秘密！](https://mp.weixin.qq.com/s/mrhPc5bX2P0dZVj08cF6MA)
++ [熬了个大夜，终于把C++函数重载给学明白了](https://mp.weixin.qq.com/s/WquOiZXhAj57ixev_K_hxA)
 
 #### 数据结构&算法
 
@@ -441,6 +448,7 @@
 + [这可能是C++20最具革命性的特性，没有之一！](https://mp.weixin.qq.com/s/zscU-yA896jBNfG3EFVcIQ?click_id=32)
 + [百万C++开发者进阶：掌握C++17这15个特性，项目性能实现跃迁！](https://mp.weixin.qq.com/s/zVNEA6w6St6q_HtOcyI51A)
 + [快速入门C++17：写出更简洁高效的代码](https://mp.weixin.qq.com/s/v8OeLsthJq454N5eFWHfBw)
++ [C++17any类的自主实现](https://mp.weixin.qq.com/s/rbc2-fbkQBH1l6cQvPKjtg)
 + [基于C++17的线程安全信号与槽机制实现](https://mp.weixin.qq.com/s/euYVDjlGqMLvpZrEh61EgA)
 + [C++17中有个 [[fallthrough]] 你使用了吗？](https://mp.weixin.qq.com/s/DyVw3ju1DHcRGlS5d9Mp6g)
 + [作为现代异步编程的基石，C++20 协程成熟了吗？](https://mp.weixin.qq.com/s/IHMhDoomP9djmMPXfQd-sg)
@@ -682,6 +690,7 @@
 + [为什么老外喜欢用for(;;)，我们喜欢用While(1)来实现“死”循环](https://mp.weixin.qq.com/s/vnCPZHr3QJ3cm-PBH2TK_A)
 + [京东C++一面面经，面试安排的很突然](https://mp.weixin.qq.com/s/ggHumdOxUK__QoJYlkXVug)
 + [为什么Linus说C++是最烂的编程语言？为什么大模型写C++就像是小学生？能打败ai的还是得年轻人](https://mp.weixin.qq.com/s/Pbl1g8ABxiMcmTjnIH9F-w)
++ [C++真的比Python更快吗？](https://mp.weixin.qq.com/s/ck5FZhTb6EXFdKdaQE5U1w)
 
 ### 学习资源
 
@@ -976,6 +985,8 @@
 + [C语言写高性能日志系统：异步与零拷贝](https://mp.weixin.qq.com/s/b_3QzLTmBkGAWB3lYtur5Q)
 + [C语言常用数据结构及能力提升](https://mp.weixin.qq.com/s/-Kh8ZTKzTOusTuo4nOMR6Q)
 + [字符串、内存、内存映射、缓冲区、系统、用户/组、进程、时间 相关冷门有用函数原理一文看懂](https://mp.weixin.qq.com/s/NVImXq9wlU9xh__vGhie6A)
++ [协程：同步编程与异步性能的完美统一](https://mp.weixin.qq.com/s/AspuBAX1UHz0dWw2QKkiXA)
++ [一行代码的神奇力量：C语言的极致优化艺术](https://mp.weixin.qq.com/s/1ueXAuot2941f5l8DxsKeg)
 
 ### 前景
 

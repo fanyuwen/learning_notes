@@ -308,6 +308,7 @@
 + [关于 Java 异常处理的原则](https://mp.weixin.qq.com/s/L0xsz6YueaiXgX2_d5WfHg)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
++ [Java 8函数式接口：编程世界的华丽蜕变](https://mp.weixin.qq.com/s/sep96YxuoNaCMa0k6ol-vw)
 + [【重拳出击】Java8默认方法の终极奥义！老铁们，板凳瓜子准备好，开整！](https://mp.weixin.qq.com/s/y-GHRX1RjlhXvmNL48XMIw)
 + [Java Lambda表达式实现原理深入面试问答](https://mp.weixin.qq.com/s/m4aLviutBIiwUqVt2NquuA)
 + [常用的 Lambda 表达式案例解析](https://mp.weixin.qq.com/s/GbebKL50GagpLqD4vD9CgQ)
@@ -1589,6 +1590,7 @@
 + [面试官老问 HashMap？看完这篇，你能把他说懵！从入门到源码的八卦](https://mp.weixin.qq.com/s/Rykjdq0ZEWYLRRSBG58T8A)
 + [深挖HashMap：负载因子0.75的底层原理，面试问到不慌！](https://mp.weixin.qq.com/s/-mkrlyA00rVrAbAJ6MD-mA)
 + [面试必问：HashMap 为啥要用红黑树？一篇讲透底层逻辑](https://mp.weixin.qq.com/s/h51JqO8oldQr5DeHoIGe7Q)
++ [揭秘HashMap选择红黑树的深层原因：避免这些坑，你的系统才能更稳定！](https://mp.weixin.qq.com/s/8ZjnFyAmSIokgFe43cdwtA)
 
 ### Optional
 
@@ -1673,6 +1675,7 @@
 + [Future和CompletableFuture的区别是什么?](https://mp.weixin.qq.com/s/EBBkeNT2WJX-VmTzPRoIsw)
 + [Function 与 CompletableFuture 的组合使用指南](https://mp.weixin.qq.com/s/Ir0ZC9WZ6nQVjK0HChP1-g)
 + [并发江湖的终极武器：CompletableFuture 中篇](https://mp.weixin.qq.com/s/15RQ2jEtNB_V5EfHr2-9cA)
++ [CompletableFuture 在高并发导出场景中的优化实践](https://mp.weixin.qq.com/s/9UK-tv4ZVenPObBsv_ejvg)
 
 ### ThreadPool
 
@@ -4087,6 +4090,7 @@
 + [别踩坑！Spring Boot 多线程事务处理最佳实践全解析](https://mp.weixin.qq.com/s/qbaB8v6HUp9lpEwSL6wowA)
 + [Java进阶手册（二十八）SpringBoot中异步请求与虚拟线程详细分析](https://mp.weixin.qq.com/s/RzBdjkmltIH7QiWOVcgl9g)
 + [Java进阶手册（二十五）SpringBoot中利用悲观锁来解决高并发场景下的数据一致性问题](https://mp.weixin.qq.com/s/peHJQJL8L_gJNencmdPKMQ)
++ [Spring Boot 动态线程池实战方案大公开！](https://mp.weixin.qq.com/s/dtZ02ip40udoFHPfeGF8lQ)
 
 ##### Disruptor
 
@@ -4823,6 +4827,7 @@
 + [JAVA：分布式一致性 Raft 算法的技术指南](https://mp.weixin.qq.com/s/09BrC93PK8sq2ofsIna2QA)
 + [Spring的替代方案](https://mp.weixin.qq.com/s/IjWUHbN0SyX_OggphCav-Q)
 + [这么多编程语言，有没有一种可能能把他们“大一统”？](https://mp.weixin.qq.com/s/IIB0FJq5xIKRb-M-Hr5kJQ)
++ [Python、Go、Rust、TypeScript、Kotlin，谁能定义未来？](https://mp.weixin.qq.com/s/b0T-i4ZsZBhCReKs2fyv0Q)
 + [一个由默认值引发的BUG，开发直呼冤枉](https://mp.weixin.qq.com/s/80HRh5E9yph46JAP49GTVg)
 + [MCP Java 开发指南](https://mp.weixin.qq.com/s/WseJlygdzk1a_gxWSo5BDA)
 + [当下，哪种编程语言比较流行？](https://mp.weixin.qq.com/s/BPf6aF55dMrAswq7V8Wi7Q)

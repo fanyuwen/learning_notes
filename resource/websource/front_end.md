@@ -228,6 +228,7 @@
 + [再见 try/catch，我有更好的选择了！](https://mp.weixin.qq.com/s/qzN9bq1YKUc9nKv158RyLw)
 + [理解 SOLID 原则：编写更简洁的 JavaScript 代码](https://my.oschina.net/powertoolsteam/blog/18689539)
 + [TypeScript 中 Type 与 Interface 到底该怎么选？吃透这几点再也不纠结](https://my.oschina.net/powertoolsteam/blog/18689843)
++ [Promise静态方法汇总](https://mp.weixin.qq.com/s/SoXZRKesvrJsqGp_ls8qGg)
 
 # 框架
 

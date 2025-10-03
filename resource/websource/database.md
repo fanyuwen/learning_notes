@@ -109,6 +109,7 @@
 + [对标阿里规范：MySQL 多表 JOIN 性能优化的 9 条黄金法则](https://mp.weixin.qq.com/s/yc3QXSPVFAai2OdTqsz4ug)
 + [SQL 优化之 explain 超详细讲解](https://mp.weixin.qq.com/s/I6pdwGjnicSI5zkxM8T0pA)
 + [慢 SQL 优化实战：从一例线上慢 SQL 探究执行引擎工作过程](https://my.oschina.net/vivotech/blog/18687291)
++ [MySQL中的数据去重，该用DISTINCT还是GROUP BY？](https://mp.weixin.qq.com/s/VF0ZHRm1_ut2M2Go478e4w)
 
 # 本地数据库
 
@@ -153,6 +154,7 @@
 + [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/y2hgGyEHo2hmtMEe0p1o9g)
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/HhorRlnbC9ArIloZ1yhOzw)
 + [如何设计一个无限层级的树状数据结构？关系性数据库设计，mysql、面试必备](https://mp.weixin.qq.com/s/cekbUoJMebSUXQ4NgF9z2Q)
++ [面试官问：50亿级订单表，如何毫秒级查询？](https://mp.weixin.qq.com/s/AO_h2oGsd6UJnDmC0T_nLQ)
 
 ### 读写分离&分库分表
 
@@ -182,6 +184,7 @@
 + [阿里面试：每天新增100w订单，如何的分库分表？这份答案让我当场拿了offer](https://mp.weixin.qq.com/s/XkbtHrZVRtx-f7REzi-eBg)
 + [10亿订单如何做分库分表？](https://mp.weixin.qq.com/s/JWmw6GtRaNg71RRbMMTJYg)
 + [分库分表下如何实现分页查询功能](https://mp.weixin.qq.com/s/BjRaRoWBYRHF7rSlGZnfNQ)
++ [分库分表全解析：如何有效解决MySQL单表数据量过大问题？](https://mp.weixin.qq.com/s/2c-Ln-2l_RfVqqNjZodrwA)
 
 ## 原理解析
 
@@ -467,6 +470,7 @@
 + [MySQL的两种分页方式：Offset/Limit分页和游标分页](https://mp.weixin.qq.com/s/D_9z0EYQLKnFIpihGNzTPA)
 + [MySQL基础操作-表的相关操作](https://mp.weixin.qq.com/s/qnJ1nVbRMSmvdX9kX1regA)
 + [仅仅会用MySQL的EXPLAIN还不够，还需要会用EXPLAIN ANALYZE](https://mp.weixin.qq.com/s/Y52K3l8i0ZIKCoMWwo5G0g)
++ [面试官：MySQL 内存飙升，可能是什么原因？](https://mp.weixin.qq.com/s/9gGs9Ll9Gubj7cbEva1VfQ)
 
 #### 存储引擎
 
@@ -560,6 +564,7 @@
 + [MySQL不得不聊的锁知识：锁机制详解](https://mp.weixin.qq.com/s/B0FYNAwjkte-YLz1UqCQMQ)
 + [深入理解数据库乐观锁、悲观锁与 Redis 分布式锁：原理、场景与实战](https://mp.weixin.qq.com/s/HUMdglIK1sVgAaVfbQ_JDg)
 + [阿里面试：MySQL如何实现悲观锁？底层原理？](https://mp.weixin.qq.com/s/DLHgUbaiJTNqJaeJH_EuPA)
++ [MySQL中的锁](https://mp.weixin.qq.com/s/G14mKrybkGvzicTA5dhW0Q)
 
 #### 事务
 
@@ -679,6 +684,8 @@
 + [MySQL 索引失效原理剖析：别让 “加速键” 变成 “绊脚石”](https://mp.weixin.qq.com/s/p7pOZ-9QEqJJ2kEh1-KE1A)
 + [MySQL索引详解](https://mp.weixin.qq.com/s/4Lae43jMigto6cuCLYlD9g)
 + [什么是MySQL的索引下推技术？](https://mp.weixin.qq.com/s/WkcutMXnkedmwIgOt4Lv0g)
++ [学习MySQL绕不开的两个基础概念：聚集索引与非聚集索引](https://mp.weixin.qq.com/s/VDskBru9f_FZ8dRNfJxiiQ)
++ [MySQL之进阶：一篇文章搞懂MySQL索引之B+树](https://mp.weixin.qq.com/s/UB2AS5h-On2HufI2rQ74eg)
 
 ### PostgreSQL
 

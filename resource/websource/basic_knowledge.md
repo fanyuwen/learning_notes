@@ -206,6 +206,7 @@
 + [Linux 内核智能指针原理分析](https://mp.weixin.qq.com/s/z1i-km57UCesBb2PYau6mQ)
 + [Linux Zero-Copy 技术深度分析](https://mp.weixin.qq.com/s/sSTpU7Tbo3AhvLzJeTMtXA)
 + [可执行文件是如何在Linux系统上跑起来的](https://mp.weixin.qq.com/s/M64f1iw_AnLXcwhPyTUvUw)
++ [Linux内核源码分析：sendfile和splice如何实现零拷贝](https://mp.weixin.qq.com/s/goVuu3-iXrgrkwbdx8EW1g)
 
 ### 网络
 
@@ -315,6 +316,8 @@
 + [玩转Linux文本处理：详解awk核心选项、变量与函数技巧](https://mp.weixin.qq.com/s/7i9hhwp8-4GerDJq3zILBw)
 + [Linux 系统调用跟踪利器：strace](https://mp.weixin.qq.com/s/vaJP_BcG9B-4kQWl0Iys-g)
 + [Linux操作系统基础篇：深度解析进程的常用命令](https://mp.weixin.qq.com/s/2JDHHvkudAejx6VBeUfQCQ)
++ [在 Linux 中，教你打造一个简洁实用的 Vim ！](https://mp.weixin.qq.com/s/p7gBaxrNlfGQM3G5awn1rA)
++ [每天一条 Linux 命令：man](https://mp.weixin.qq.com/s/3xiB7POjdGRMxhS9ZauB5A)
 
 ### 发行版信息
 

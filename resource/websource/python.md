@@ -788,6 +788,9 @@
 + [写Python的人，都应该学会的10个高效技巧](https://mp.weixin.qq.com/s/QEyl6RqUsFIVrSm5z0-fkw)
 + [多线程事件驱动模型实现详解：使用Python实现](https://mp.weixin.qq.com/s/A3hEMK9Eov63k69k9XWPEA)
 + [从语法糖到设计模式：深度解析 *args 与 **kwargs](https://mp.weixin.qq.com/s/3igD7Zp9m1RP5m6a0iKwCw)
++ [写了5年多Python，才知道Python源文件不能随便命名](https://mp.weixin.qq.com/s/m14JsIgzDAuNIRhP8uTnJA)
++ [Python小神器：lambda函数，让你的代码瞬间变优雅！](https://mp.weixin.qq.com/s/aTaGdw4ssvDp6iz6Rr3T-w)
++ [Python代码优化秘籍：让你的程序从“龟速”变“闪电”！](https://mp.weixin.qq.com/s/5Gzj5JataeBN0Sho9U_lgg)
 
 ## 新特性
 

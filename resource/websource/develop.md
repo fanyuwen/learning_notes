@@ -725,6 +725,8 @@
 + [代码洁癖症？这 100 个技巧 治好你的强迫症！](https://mp.weixin.qq.com/s/DAOwY4Ws_IqilvXxRshM6A)
 + [请停止对代码那些小打小闹的优化](https://mp.weixin.qq.com/s/U5r524pi_KWA5ifAqvI2hA)
 + [编译器 vs 解释器：深入解析程序执行机制](https://mp.weixin.qq.com/s/-YTCz6n-IVI3SZ_TroADYg)
++ [10 个会“毁了你整个人生”的编程错误](https://mp.weixin.qq.com/s/0YrgJajk9zb3l4vyPE6nkQ)
++ [技术｜性能和复杂度的平衡](https://mp.weixin.qq.com/s/rRdhm3b6fNY3UV_f0rkJsg)
 
 # 测试相关
 

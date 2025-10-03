@@ -116,6 +116,7 @@
 + [做好这几件事，软件公司才有可能赚钱](https://my.oschina.net/easysoft/blog/18688521)
 + [互联网技术一号位：别只盯代码，这 5 件事才是核心](https://mp.weixin.qq.com/s/DlVe6kzwegQF3xKKZqjdFg)
 + [凌晨零点，一个TODO，差点把我们整个部门抬走](https://mp.weixin.qq.com/s/AbY8pb0a74x3rsKP55zHVA)
++ [写代码很容易，读代码却不然](https://mp.weixin.qq.com/s/EJw9oLJqNNKu7K5xjQQHvA)
 
 # 个人成长
 
@@ -440,6 +441,7 @@
 + [图灵奖大佬向97年小孩哥汇报？小扎1亿年薪买新贵，老将痛诉熬夜捡GPU！](https://mp.weixin.qq.com/s/deR7Pq8Tf21BX8QgH-6Q1w)
 + [为什么谷歌要在一门“尚未诞生”的语言上押注 8 年](https://mp.weixin.qq.com/s/LhuseuXDMjC-Aa0t-i6p4A)
 + [这个没落的编程语言，无意间改变了全球程序员的命运！](https://mp.weixin.qq.com/s/9D30PW7mwLSAfhgihYK2xw)
++ [天才程序员·Fabric Bellard](https://mp.weixin.qq.com/s/TdKC-c2wtyUj66x2gyhfVQ)
 
 ## 创业
 

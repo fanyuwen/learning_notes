@@ -234,6 +234,7 @@
 + [Go 语言 Array 和 Slice 深度解析：核心区别与实战指南](https://mp.weixin.qq.com/s/4DXKZSjeLyr1t-PAJhAhaw)
 + [10. 结构体](https://mp.weixin.qq.com/s/wngceflUgqxWQstPeMurRg)
 + [Go 语言中 channel 是同步的还是异步的 ？](https://mp.weixin.qq.com/s/gnHfPlYg1pq1tj8JNpl2bQ)
++ [Go语言基于 DDD（Domain Driven Design）领域驱动设计架构实现备忘录 todolist](https://mp.weixin.qq.com/s/TxJDIzcz1q3OAd7m-CLzTQ)
 
 # 面试题
 

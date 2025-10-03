@@ -158,6 +158,7 @@
 + [Rust从入门到精通15-Option和Result详解](https://mp.weixin.qq.com/s/MRlmh2DJD_-6QLDpFOXNAg)
 + [终于搞懂了！Rust 所有权原来可以这么简单](https://mp.weixin.qq.com/s/jLEXHcS0CQIpV4sWfyDEOA)
 + [Rust与C接口交互](https://mp.weixin.qq.com/s/Ycv0GzQTc1mGijJHUD5wzg)
++ [Rust从入门到入迷（七）从上万行代码中找指定功能的代码只需要一瞬间，看Rust如何做复杂项目管理](https://mp.weixin.qq.com/s/4-hltFnrMYx68Yd0eKg-Pg)
 
 # 框架
 
@@ -251,3 +252,4 @@
 + [Rust 性能提升 “最后一公里”：详解 Profiling 瓶颈定位与优化｜得物技术](https://my.oschina.net/u/5783135/blog/18687884)
 + [随笔 | 关于 Rust 的碎碎念](https://mp.weixin.qq.com/s/RD-vn4OmrtFd4eRtY4vzeg)
 + [Rust从入门到入迷（八）学会Rust通用集合后，我再也不想用C/C++/Java了](https://mp.weixin.qq.com/s/AirtafNc0mBoD3gEsoy_IA)
++ [Rust 的 10 个特性让 C++ 望尘莫及](https://mp.weixin.qq.com/s/gApwYURaQozFiR9wFEFOng)

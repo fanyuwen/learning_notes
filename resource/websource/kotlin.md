@@ -59,6 +59,7 @@
 + [Kotlin 中为什么 reified 关键字需要与 inline 函数结合使用](https://mp.weixin.qq.com/s/8lGbETgsaDLfjbUNrravnA)
 + [Kotlin协程之：异常处理](https://mp.weixin.qq.com/s/1dudmLzgMMa4SVonYZ0QXQ)
 + [协程深入浅出用法介绍](https://mp.weixin.qq.com/s/jlC3o5SaDd9k01mJKrrRjA)
++ [Kotlin 函数式编程思想](https://mp.weixin.qq.com/s/9IrYpMkNsE2Esb_rYTRNzQ)
 
 ## 技术月报
 

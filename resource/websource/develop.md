@@ -727,6 +727,7 @@
 + [编译器 vs 解释器：深入解析程序执行机制](https://mp.weixin.qq.com/s/-YTCz6n-IVI3SZ_TroADYg)
 + [10 个会“毁了你整个人生”的编程错误](https://mp.weixin.qq.com/s/0YrgJajk9zb3l4vyPE6nkQ)
 + [技术｜性能和复杂度的平衡](https://mp.weixin.qq.com/s/rRdhm3b6fNY3UV_f0rkJsg)
++ [如何设计用户在线时长统计系统？](https://mp.weixin.qq.com/s/mjq_ugZqQaDrddhsT9NNuA)
 
 # 测试相关
 

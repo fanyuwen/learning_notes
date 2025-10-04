@@ -117,6 +117,9 @@
 + [互联网技术一号位：别只盯代码，这 5 件事才是核心](https://mp.weixin.qq.com/s/DlVe6kzwegQF3xKKZqjdFg)
 + [凌晨零点，一个TODO，差点把我们整个部门抬走](https://mp.weixin.qq.com/s/AbY8pb0a74x3rsKP55zHVA)
 + [写代码很容易，读代码却不然](https://mp.weixin.qq.com/s/EJw9oLJqNNKu7K5xjQQHvA)
++ [屎山代码谁之过？](https://mp.weixin.qq.com/s/YwEef0TzVMsA5C7jpf3xGw)
++ [产品研发之众生相：架构师](https://mp.weixin.qq.com/s/3QsoeISczzS1tE33WXSgKg)
++ [2025打工人工资真相](https://mp.weixin.qq.com/s/UbvEzjrZDF828Wr_1cvCoQ)
 
 # 个人成长
 
@@ -195,6 +198,7 @@
 + [如何成为一个优雅的程序员 —— 构建适合自己的学习体系](https://mp.weixin.qq.com/s/2gkAGLr4g2c02JjFNcypLA)
 + [如何判断自己写的是不是"屎山"代码？](https://mp.weixin.qq.com/s/LajnV1-7oUAFjMTeAJT6lA)
 + [为什么你反复练习还是学不会？真正让大脑进步的，是错误和重复密度，而不是时间长短](https://mp.weixin.qq.com/s/qUsPbsazSbXAi_ShfFregQ)
++ [好的代码是简洁的](https://mp.weixin.qq.com/s/rL3r8XUhS3d_LtumMSJjbw)
 
 ## 视频
 

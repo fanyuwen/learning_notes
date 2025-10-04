@@ -324,6 +324,8 @@
 + [菜鸟面试官拍桌狂笑：“仿函数和lambda比性能？你写的代码是蜗牛送快递吧！”我答完，他笑到快递单都飞了…](https://mp.weixin.qq.com/s/fvpuFvyZK6IYI-AqGeEVcw)
 + [C++小寄巧-10：儒雅随和头文件](https://mp.weixin.qq.com/s/-JnIVELeUS2TAoEksBHI2w)
 + [C++如何计算普通类型的 Hash 值：基于 gcc/clang 源码分析](https://mp.weixin.qq.com/s/TYKX6DqZUZOkqoRH7GU2wg)
++ [C++面试周刊(6):constexpr、内联函数、编译期元编程](https://mp.weixin.qq.com/s/AC7yxYG4BLwrByRK0NvCkg)
++ [【C++ 技术分享】写入文件，为啥非要缓存？](https://mp.weixin.qq.com/s/jjhNSXBoofPaycDWhKxGVg)
 
 #### 指针
 
@@ -535,6 +537,7 @@
 + [高效编程必知！C++虚函数的性能陷阱竟然这么致命！](https://mp.weixin.qq.com/s/0M0h-mQUmt0rR6qElQhJgA)
 + [C++ 虚继承的实现机制和虚函数实现多态的机制](https://mp.weixin.qq.com/s/zD6Lqk5KB4m0--i73NZn3A)
 + [从显式到智能：C++ 类模板核心特性](https://mp.weixin.qq.com/s/MoPTlJ6FbDyagcqmDV8u-g)
++ [C++析构函数与线程退出之1](https://mp.weixin.qq.com/s/4Xwy_aCXdExu4uQvju43Ig)
 
 ##### 泛型
 
@@ -691,6 +694,8 @@
 + [京东C++一面面经，面试安排的很突然](https://mp.weixin.qq.com/s/ggHumdOxUK__QoJYlkXVug)
 + [为什么Linus说C++是最烂的编程语言？为什么大模型写C++就像是小学生？能打败ai的还是得年轻人](https://mp.weixin.qq.com/s/Pbl1g8ABxiMcmTjnIH9F-w)
 + [C++真的比Python更快吗？](https://mp.weixin.qq.com/s/ck5FZhTb6EXFdKdaQE5U1w)
++ [还在等什么？赶紧使用协程来处理异步IO](https://mp.weixin.qq.com/s/L9sw-OXoW2DXO0AWEBoImw)
++ [如何让虚拟机觉得它有块电池](https://mp.weixin.qq.com/s/QccXL0BCXh_5gBHq3pfJJg)
 
 ### 学习资源
 

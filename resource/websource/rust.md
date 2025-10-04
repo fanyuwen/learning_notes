@@ -159,6 +159,7 @@
 + [终于搞懂了！Rust 所有权原来可以这么简单](https://mp.weixin.qq.com/s/jLEXHcS0CQIpV4sWfyDEOA)
 + [Rust与C接口交互](https://mp.weixin.qq.com/s/Ycv0GzQTc1mGijJHUD5wzg)
 + [Rust从入门到入迷（七）从上万行代码中找指定功能的代码只需要一瞬间，看Rust如何做复杂项目管理](https://mp.weixin.qq.com/s/4-hltFnrMYx68Yd0eKg-Pg)
++ [Rust字符串的正确姿势：该用 String 还是 str](https://mp.weixin.qq.com/s/QmqFMSXztNTv2L_VdI2Q3A)
 
 # 框架
 

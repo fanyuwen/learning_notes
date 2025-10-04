@@ -791,6 +791,9 @@
 + [写了5年多Python，才知道Python源文件不能随便命名](https://mp.weixin.qq.com/s/m14JsIgzDAuNIRhP8uTnJA)
 + [Python小神器：lambda函数，让你的代码瞬间变优雅！](https://mp.weixin.qq.com/s/aTaGdw4ssvDp6iz6Rr3T-w)
 + [Python代码优化秘籍：让你的程序从“龟速”变“闪电”！](https://mp.weixin.qq.com/s/5Gzj5JataeBN0Sho9U_lgg)
++ [Python 调试的救星：pdb 帮你摆脱“打印地狱”](https://mp.weixin.qq.com/s/t6namCDCFyKz0IaKKh9teQ)
++ [手残党也能搞定！Python 装包这件小事，我教你一次就“开挂”！](https://mp.weixin.qq.com/s/si_94Sw6bSDJyX0WHNoNtg)
++ [Python装饰器：那把让代码瞬间“变身”的魔法钥匙，你真的会用吗？](https://mp.weixin.qq.com/s/xz9CkZ4P18n0O2gK2xY-Lw)
 
 ## 新特性
 
@@ -819,6 +822,7 @@
 + [每日一模块：Parsel](https://mp.weixin.qq.com/s/kOYNdba7hpe6tjkS8_OUkg)
 + [每日一模块：requests-cache](https://mp.weixin.qq.com/s/YpsZsSJVHCwhlGIgVe2k2g)
 + [Python最强下载工具，比Requests强一百倍。](https://mp.weixin.qq.com/s/vEyvsPpssIFYSffU_fw6Xw)
++ [Python网络请求的“瑞士军刀”：requests库，教你一招鲜吃遍天！](https://mp.weixin.qq.com/s/h79VvdFbPoDLBFNys5hiYw)
 + [picologging，一个高并发的 python 库！](https://mp.weixin.qq.com/s/ZGVY_5804Di9YP23Nss2Zw)
 + [RQ，一个神奇的 Python 库](https://mp.weixin.qq.com/s/Is62FLF8KApZeYnPyV8ckw)
 + [sampleproject-nomura,一个强大的Python数据分析库！](https://mp.weixin.qq.com/s/NMC1-HXMNiYSdV0x0i8roA)
@@ -1134,6 +1138,7 @@
 + [让Python任务跑得飞起的神仙编排工具，](https://mp.weixin.qq.com/s/A_KDrFT-nTjZhauBkIl9tQ)
 + [分布式异步函数调度框架funboost的使用记录](https://mp.weixin.qq.com/s/ib_7D3xPVE_TjeB_4S6Ajg)
 + [PyInstaller打包避坑全攻略：新手一看就会，老手也能涨姿势](https://mp.weixin.qq.com/s/8qxtKKqxPocg5f9o41LCMg)
++ [Anaconda介绍](https://mp.weixin.qq.com/s/VH5k6ow6MR65ik2AZrKiqw)
 
 ## 框架
 

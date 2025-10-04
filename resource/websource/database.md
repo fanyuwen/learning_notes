@@ -471,6 +471,7 @@
 + [MySQL基础操作-表的相关操作](https://mp.weixin.qq.com/s/qnJ1nVbRMSmvdX9kX1regA)
 + [仅仅会用MySQL的EXPLAIN还不够，还需要会用EXPLAIN ANALYZE](https://mp.weixin.qq.com/s/Y52K3l8i0ZIKCoMWwo5G0g)
 + [面试官：MySQL 内存飙升，可能是什么原因？](https://mp.weixin.qq.com/s/9gGs9Ll9Gubj7cbEva1VfQ)
++ [千万级大表如何新增字段？别再直接 ALTER 了](https://mp.weixin.qq.com/s/Ms0jElTallDNwpSBbQuznw)
 
 #### 存储引擎
 
@@ -709,6 +710,7 @@
 + [PostgreSQL 中的子事务与性能](https://mp.weixin.qq.com/s/zA8eC5F_2QIScm6W4CevCg)
 + [PostgreSQL技术内幕28：触发器实现原理](https://mp.weixin.qq.com/s/JaWSwbsPOKNwQjBb3IVUHQ)
 + [PostgreSQL - 架构](https://mp.weixin.qq.com/s/C3CzV6kronLGwldiW1rlBw)
++ [初探PgSQL异步IO](https://mp.weixin.qq.com/s/oNdxMy8fSJI37Nd-eXVHdA)
 
 ### SQLSERVER
 

@@ -309,6 +309,7 @@
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java 8函数式接口：编程世界的华丽蜕变](https://mp.weixin.qq.com/s/sep96YxuoNaCMa0k6ol-vw)
++ [Java 8接口革命：默认方法与静态方法深度解析](https://mp.weixin.qq.com/s/olKsAeiv4Liqp3Sxkodv0g)
 + [【重拳出击】Java8默认方法の终极奥义！老铁们，板凳瓜子准备好，开整！](https://mp.weixin.qq.com/s/y-GHRX1RjlhXvmNL48XMIw)
 + [Java Lambda表达式实现原理深入面试问答](https://mp.weixin.qq.com/s/m4aLviutBIiwUqVt2NquuA)
 + [常用的 Lambda 表达式案例解析](https://mp.weixin.qq.com/s/GbebKL50GagpLqD4vD9CgQ)
@@ -931,6 +932,7 @@
 + [实现一个可中断线程的线程类](https://mp.weixin.qq.com/s/XCeIJz6yrI9Mnq7wqr5MpA)
 + [技术面：Java并发（线程同步、死锁、多线程编排）](https://mp.weixin.qq.com/s/IhmI6dFIrM-kd4XpUVdcgA)
 + [无锁编程基础：Sequential Consistency是什么？Lamport 1979 论文精读](https://mp.weixin.qq.com/s/RcjHwAhBV6vKO4SfZGyLCA)
++ [技术面：Java并发（上下文切换、线程安全、并发与并行、守护线程、虚拟线程）](https://mp.weixin.qq.com/s/3ScqleFqCjzqFfyR1BSNNA)
 
 #### CAS
 
@@ -1011,6 +1013,7 @@
 + [技术面：Java并发（线程池、ForkJoinPool）](https://mp.weixin.qq.com/s/PgmSwH4kcqwzZ2D-AKqmpQ)
 + [线程池你用对了吗？Executors、参数配置、拒绝策略全讲透](https://mp.weixin.qq.com/s/LsbKtt37cvADdEgOulm06g)
 + [面试官问：线程池拒绝策略怎么选，才不会丢任务？](https://mp.weixin.qq.com/s/JJooibFss6O_TgCt6boNxA)
++ [面试官问：线程池核心线程预热怎么玩？为什么prestartAllCoreThreads 有时不如手动提交空任务？](https://mp.weixin.qq.com/s/6_BykZismutmaD3P353XDQ)
 
 #### 锁
 
@@ -1436,6 +1439,7 @@
 + [ThreadLocal为什么会导致内存泄漏？该如何解决?](https://mp.weixin.qq.com/s/AgimSOPksDCJKKn9LatcZg)
 + [大白话深入理解ThreadLocal：原理、内存泄漏、源码分析](https://mp.weixin.qq.com/s/wdQiobKUmMThlhye_VjI-A)
 + [ThreadLocal：线程中的全局变量 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/10107378)
++ [主线程存了用户信息，子线程居然拿不到？ThreadLocal 背锅](https://mp.weixin.qq.com/s/kCjstV09D39dVc8VoT0gQg)
 
 ## math库
 
@@ -1591,6 +1595,7 @@
 + [深挖HashMap：负载因子0.75的底层原理，面试问到不慌！](https://mp.weixin.qq.com/s/-mkrlyA00rVrAbAJ6MD-mA)
 + [面试必问：HashMap 为啥要用红黑树？一篇讲透底层逻辑](https://mp.weixin.qq.com/s/h51JqO8oldQr5DeHoIGe7Q)
 + [揭秘HashMap选择红黑树的深层原因：避免这些坑，你的系统才能更稳定！](https://mp.weixin.qq.com/s/8ZjnFyAmSIokgFe43cdwtA)
++ [HashMap深度解剖：你以为的“键值对”远不止那么简单！](https://mp.weixin.qq.com/s/m-SFsEb24imEQjfwyw2X-A)
 
 ### Optional
 
@@ -1985,6 +1990,7 @@
 + [别再给枚举写辅助方法了！Apache EnumUtils 一行搞定转换、校验、集合化](https://mp.weixin.qq.com/s/J6iFWVdXbILDb4u6jtjmrA)
 + [还在写一堆 if-else 做参数校验？Apache ValidationUtils 一行搞定，代码清爽 10 倍](https://mp.weixin.qq.com/s/6BwwssgWLll7igKqnnmKjQ)
 + [AnnotationUtils：解锁注解处理新姿势，让Java反射代码优雅百倍！](https://mp.weixin.qq.com/s/mP88CnkzwmLp74SFhitOgw)
++ [RandomStringUtils：三行代码生成随机字符串，告别繁琐的随机密码/验证码开发！](https://mp.weixin.qq.com/s/76b0zOzhJOq67-4-RSUyZQ)
 
 ## apollo
 
@@ -2084,6 +2090,7 @@
 + [Guava：告别冗余代码！让代码高效又优雅！](https://mp.weixin.qq.com/s/iRfJqGaWcekrnBdz-v-AMA)
 + [从二维表到高效映射： Guava Table](https://mp.weixin.qq.com/s/bjlf6zUwhC8uHomm5z4AdA)
 + [Guava的Sets工具类：集合操作竟然可以这么简单！](https://mp.weixin.qq.com/s/SKmoCGsYb_eskeGz3mmMvQ)
++ [Guava的Splitter：字符串分割竟然可以这么强大！](https://mp.weixin.qq.com/s/CG1XMys7xQI0Y43F_OSw8Q)
 
 ## hystrix
 
@@ -2368,6 +2375,7 @@
 + [如何基于Netty实现即时消息下发](https://mp.weixin.qq.com/s/gZoyDLycZDK8Xb7z7B-V1g)
 + [Netty进阶之路：ByteBuf内存管理与零拷贝技术源码级剖析，性能炸裂！](https://mp.weixin.qq.com/s/0GPEBmsKebpEGzs0TAhTAw)
 + [从零手写迷你 Netty 系列（一）：彻底搞懂 Java NIO 网络模型设计原理](https://mp.weixin.qq.com/s/KBWE6ONzs4aDFd97YX7WBQ)
++ [从零手写迷你 Netty 系列（二）：如何设计 Java NIO 服务端多线程模型？](https://mp.weixin.qq.com/s/XX8KDW6gcyfCG2H03cVdrA)
 + [从零手写迷你 Netty 系列（六）：Java NIO 实现长连接的心跳检测机制](https://mp.weixin.qq.com/s/uq-rmszocbWVc_aoc7AlBA)
 + [Netty 客户端与服务端选型分析：下位机连接场景](https://mp.weixin.qq.com/s/itT_qJCNJLcq8-9uRaEEGQ)
 + [工业级TCP客户端高可靠连接架构设计与Netty优化实践](https://mp.weixin.qq.com/s/SA_H-ctTwTuxGZVTAgOrUg)
@@ -2614,6 +2622,7 @@
 + [还在捧@Resource踩@Autowired？](https://mp.weixin.qq.com/s/g624sygl5I0snLm3UXEBiw)
 + [【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法](https://mp.weixin.qq.com/s/LQcfPunNmMPXlQ6znIWPbw)
 + [不重启也能注入 Bean？教你用 RegisterBeanService 动态注册 Spring Bean](https://mp.weixin.qq.com/s/XWWwAnB2ZJ4OXyFjVbKDkQ)
++ [java 代码审计 - SpEL 表达式注入](https://mp.weixin.qq.com/s/r5ePFjtkdeEg2OV8yX0p_A)
 
 #### 原理&源码
 
@@ -4785,6 +4794,7 @@
 + [如何在线程池环境中安全高效地传递线程上下文信息？试试TransmittableThreadLocal](https://mp.weixin.qq.com/s/1BfNveacsFMG_ZOEFHTcwQ)
 + [Java字节码行号恢复工具-ClassLinefix](https://mp.weixin.qq.com/s/hRMf47M376jPf3cT15iMTA)
 + [JLink：构建轻量级 Java 运行时](https://mp.weixin.qq.com/s/Ui-Bufwu0GNqLo5py1Q9wg)
++ [强烈推荐可一款线上诊断Java程序的神器---JFR](https://mp.weixin.qq.com/s/3KZ-uo-KcUKD0IJJIh4BcA)
 
 # 其它环境
 
@@ -5032,3 +5042,4 @@
 + [从零构建高并发锁工具：基于AOP与ReentrantLock的轻量级分布式锁实践](https://mp.weixin.qq.com/s/4MiQ_nB_66By1J5jplIGMw)
 + [Java开发者的Rust高级开发速成指南](https://mp.weixin.qq.com/s/I7YDqh8bFS6yJy30_-6NOQ)
 + [从 Java 到 Go：面向对象的巨人与云原生的轻骑兵](https://my.oschina.net/u/4090830/blog/18691874)
++ [会Java还需要学习C/C++或Kotlin吗？](https://mp.weixin.qq.com/s/qedv7X7LKSofLoRyYovV9A)

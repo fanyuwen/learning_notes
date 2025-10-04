@@ -229,6 +229,8 @@
 + [理解 SOLID 原则：编写更简洁的 JavaScript 代码](https://my.oschina.net/powertoolsteam/blog/18689539)
 + [TypeScript 中 Type 与 Interface 到底该怎么选？吃透这几点再也不纠结](https://my.oschina.net/powertoolsteam/blog/18689843)
 + [Promise静态方法汇总](https://mp.weixin.qq.com/s/SoXZRKesvrJsqGp_ls8qGg)
++ [如何在TypeScript里使用类封装枚举来实现Java的枚举形参倒置](https://mp.weixin.qq.com/s/lV3eUO9Dm4zV8Cb-j0wG6w)
++ [为什么有些依赖必须 import *引入使用？](https://mp.weixin.qq.com/s/q7kFVytSvfUtpaYJvsn8BA)
 
 # 框架
 
@@ -397,6 +399,8 @@
 + [浅浅聊聊什么是“异步传染性”？](https://mp.weixin.qq.com/s/LtqaK41PyuF9MIWbKeby_Q)
 + [用 evaluateFormulaAsync 实现高效异步公式计算](https://my.oschina.net/powertoolsteam/blog/18689840)
 + [WebRTC 入门指南：实时通信完全解析](https://my.oschina.net/powertoolsteam/blog/18689538)
++ [并发与并行](https://mp.weixin.qq.com/s/Sj-KdyfWRtIL-8FGTgBwew)
++ [一个 4.7 GB 视频把浏览器拖进 OOM](https://mp.weixin.qq.com/s/E_atN0M-5mJT5vyiGwsgRw)
 
 # 杂谈
 
@@ -425,3 +429,5 @@
 + [他们终于承认：JavaScript 不适合做服务端](https://mp.weixin.qq.com/s/taHCh_Qei6AYW57njR7APA)
 + [为什么在大厂代码库里，几乎看不到 switch 语句的存在？](https://mp.weixin.qq.com/s/rteOB9_eG2ImCLI1BlbaTQ)
 + [【前沿解析】JavaScript 的未来，将迎来哪些新特性？](https://my.oschina.net/powertoolsteam/blog/18689402)
++ [3分钟学会，自己写一个编译器](https://mp.weixin.qq.com/s/AQTy0UFoA0ovvNLCHbVBbg)
++ [厌倦了追逐 JavaScript 框架？这就是我停止的原因。](https://mp.weixin.qq.com/s/vFAORjW4ToPK4HdZd_d-oQ)

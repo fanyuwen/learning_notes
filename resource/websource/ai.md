@@ -41,6 +41,7 @@
 + [计算图模式匹配与重写技术：原理与应用](https://mp.weixin.qq.com/s/dT8fXuoHA8e2s2hZnfkw_w)
 + [性能暴涨50%:PD分离KV cache传输的实战干货](https://mp.weixin.qq.com/s/s-UapW7XsO8RmH7mmqSDaw)
 + [ARQ：一款低成本的消息队列，实现每秒万级吞吐](https://mp.weixin.qq.com/s/3n1mUFXxnFcZZWFZLMmLYg)
++ [可信数据流通开发者必看，深度解读隐语密态计算设备 SPU（Secretflow Processing Unit）](https://my.oschina.net/u/5915128/blog/18693445)
 
 ## 资讯
 

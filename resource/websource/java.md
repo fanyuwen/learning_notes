@@ -128,6 +128,7 @@
 + [为什么在enum中成员变量不能放在最前面？](https://mp.weixin.qq.com/s/HBiCz7iEz08W21Pg3vfr1A)
 + [公司新来一个同事，把枚举运用得炉火纯青...](https://mp.weixin.qq.com/s/B_ldoijeU49EiYGCrVcssg)
 + [Java真的不难（五十八）枚举类型enum详解及实战用法](https://mp.weixin.qq.com/s/pN56vW46d_ihhaSasG_Kjg)
++ [枚举还能这么玩？用它彻底干掉丑陋的if-else链，代码瞬间清爽！](https://mp.weixin.qq.com/s/NS6pH68VtAOCfruUA2Bkxg)
 
 ### 注解
 
@@ -234,6 +235,7 @@
 + [Java 10新特性：局部变量类型推断，让代码飞起来！](https://mp.weixin.qq.com/s/t91wrtPMSIA-aA3maULA6Q)
 + [Java 15新特性：文本块，代码书写的新利器](https://mp.weixin.qq.com/s/D-Atg73J2JSqeEwvhexmHA)
 + [Java 16纪录类：告别繁琐，让代码起飞](https://mp.weixin.qq.com/s/j_MOYaQ8yEbeV26nGe6JAg)
++ [JDK8 写 10 行，JDK17 写 1 行，我还用它干嘛？](https://mp.weixin.qq.com/s/Zpft0-C9LV094FYTr9ueRg)
 + [Java17禁忌用法：这7种写法会让你的GC疯狂加班](https://mp.weixin.qq.com/s/ZdNr3loNoi3ahYu8Usx67Q)
 + [Java17新特性(相对于Java8)](https://mp.weixin.qq.com/s/8k5fI5rpUpwLEbCjLi3ZPA)
 + [JDK17神仙语法让代码优雅到飞起](https://mp.weixin.qq.com/s/-Ay2re7relzMKP-50Lm-Pg)
@@ -307,6 +309,7 @@
 + [JAVA基础（二十一）Collections 工具类实战指南-从排序到线程安全](https://mp.weixin.qq.com/s/Y-fxcAbEv4y2EbqnMy7gBg)
 + [10个Java代码优化技巧，让你从入门到精通](https://mp.weixin.qq.com/s/5IcKxVC7kojiU-WooE4RlQ)
 + [关于 Java 异常处理的原则](https://mp.weixin.qq.com/s/L0xsz6YueaiXgX2_d5WfHg)
++ [公司新来的大佬，从不写 'if (obj != null)'](https://mp.weixin.qq.com/s/DrEEW6poaJHVZAzXNufppA)
 + [Java 8 Lambda 表达式：模拟 Mixin 实现类的多重继承](https://my.oschina.net/justjavac/blog/72898)
 + [Java 8 Lambda魔法：解锁编程新纪元，让你的代码舞动起来](https://mp.weixin.qq.com/s/yD0-6vPKl3RFQ6eV507V3w)
 + [Java 8函数式接口：编程世界的华丽蜕变](https://mp.weixin.qq.com/s/sep96YxuoNaCMa0k6ol-vw)
@@ -508,6 +511,7 @@
 + [大数据量的ArrayList怎么获取n个元素](https://mp.weixin.qq.com/s/zAFxfmtOKGkUlzy2vYCIkw)
 + [位图到底是什么神仙数据结构？Java程序员必看的高效存储秘籍](https://mp.weixin.qq.com/s/BruXxGmPKJBCMhB-YsOHOw)
 + [拥抱Lambda表达式，解锁Java函数式编程魅力](https://mp.weixin.qq.com/s/3Mhpbb3IZMlP-UzuiCZmTA)
++ [会用flatMap？瞧高手如何用它简化代码！](https://mp.weixin.qq.com/s/j4Na8LNqcuDo48qqiQF9Aw)
 
 ## 代码质量
 
@@ -2269,6 +2273,7 @@
 + [MyBatis自动生成Mapper引发的查询空值问题：排查过程与反思](https://mp.weixin.qq.com/s/1KbGri34mRzS1sW3QE2vXQ)
 + [只会写 Mapper 就敢说会 MyBatis？面试官：原理都没懂](https://mp.weixin.qq.com/s/o8PEVApCDmt_vufa6hTssg)
 + [MyBatis 进阶：动态 SQL、关联查询与缓存，中级开发者必备技巧](https://mp.weixin.qq.com/s/3x67LNueFCAOY24g-upimg)
++ [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/3M2fiwJGmjhN-VmULkj1SQ)
 
 ### plus
 
@@ -2308,6 +2313,7 @@
 + [MySQL 8.0 JSON 字段太棘手？试试 MyBatis-Plus 的 JacksonTypeHandler，真香！](https://mp.weixin.qq.com/s/EOrLnN00oyFbeeeLgMBDVA)
 + [别再写 XML 了！MyBatis-Plus 这 11 个注解让代码量砍半](https://mp.weixin.qq.com/s/D3mjM-sanmNJpN35Y1m79Q)
 + [解锁 MyBatis-Plus 新认知：@TableName 注解工作机制全解析](https://mp.weixin.qq.com/s/Pi-8T0Nui2CubP4TCOgfBQ)
++ [公司新来一个干练小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被组长怒怼了...](https://mp.weixin.qq.com/s/2gfKjRhbcKkkFqHK2lje2Q)
 
 ## nacos
 
@@ -2833,6 +2839,7 @@
 + [别再手写批处理了！Spring Batch 让数据处理效率飙升 10 倍](https://mp.weixin.qq.com/s/q4hKOvP3RrNB5LHS5ExOgA)
 + [绝了！Spring Batch 百万数据分区处理，仅需5秒搞定](https://mp.weixin.qq.com/s/z-ltHYU1Kz8sxy2J5D5CJw)
 + [JAVA： Spring Batch 批处理框架的技术指南](https://mp.weixin.qq.com/s/nQJhHKoglvb48scs_jfdUg)
++ [Spring Batch 处理大数据集 异步+虚拟线程，性能提升90倍](https://mp.weixin.qq.com/s/V2BaB8hXj4iEEUi2oCB1nQ)
 
 #### TRANSACTION
 
@@ -3199,6 +3206,9 @@
 + [Java进阶手册（十三）SpringBoot多场景中23种常用注解详解](https://mp.weixin.qq.com/s/XvUYnG8-Bms6kYVp-uAnqg)
 + [Spring Boot 注解太多记不住？这 10 个核心注解让你少写 500 行配置(上)](https://mp.weixin.qq.com/s/MnuB-mQZNoXbT_0wqil-qQ)
 + [看好了，第二遍，SpringBoot单体应用真正的零停机无缝更新代码](https://mp.weixin.qq.com/s/0t0aVBRcvfyFG8yu_ltLxA)
++ [强大！Spring Boot 9个宝藏注解，提升你的代码水平](https://mp.weixin.qq.com/s/CPQhFTJk-pU7uW5j1J4SGg)
++ [别再守旧！Spring Boot 替代 @PostConstruct 和 @PreDestroy方案](https://mp.weixin.qq.com/s/t9sf89YzMlerGshLOLtgvA)
++ [SpringBoot 控制台秒变炫彩特效，秀翻同事指南！](https://mp.weixin.qq.com/s/N6XkVPHRN2-kqC_0ta4msw?click_id=2)
 
 ##### 高阶
 
@@ -3877,6 +3887,8 @@
 + [Spring Boot 文件编码问题解析：乱码、国际化与多语言配置](https://mp.weixin.qq.com/s/1WxRHSXk8oN-BiRFgqWoaw)
 + [防重复提交是后端的第一道防线：Spring Boot REST接口幂等设计深度解析](https://mp.weixin.qq.com/s/e7mhxusHENfHb_FuGSq4Pw)
 + [Spring Boot + Jackson 隐藏的4个强大的注解](https://mp.weixin.qq.com/s/kb22BaTnjUmN6s2bA51PPA)
++ [强悍的重试机制：Spring Boot 中 WebClient 弹性设计实战](https://mp.weixin.qq.com/s/4TMf25289C4AVCxNfLyaZg)
++ [零侵入插件！Spring Boot 一键生成 8种格式API接口文档](https://mp.weixin.qq.com/s/B9pyyMlbODhm5B1SzfDwPQ?click_id=171)
 
 ##### 文件上传下载
 
@@ -4019,6 +4031,7 @@
 + [SpringBoot事务管理：@Transactional的六个致命陷阱](https://mp.weixin.qq.com/s/V_18hke4DXzHRbWD2tF6xQ)
 + [炸裂！@Transactional遇上@Async：是"王炸组合"还是"致命事故"](https://mp.weixin.qq.com/s/tVYuodPQeJBtM-zG6aW6ww)
 + [Java进阶手册（八）SpringBoot事务管理@Transactional注解的深度解析](https://mp.weixin.qq.com/s/fqMYVtfefd-O14XWDBqmqw)
++ [性能优化！3种场景下使用@Transactional对性能影响太大了](https://mp.weixin.qq.com/s/C77PdBzFMWvdnEbabsX7uw)
 
 ##### BIG DATA
 
@@ -4179,6 +4192,7 @@
 + [Java进阶手册（十六）AOP在SpringBoot中日志与权限控制（通俗易懂）](https://mp.weixin.qq.com/s/nDUkIBq_0vEO5cQrcPKN5A)
 + [从入门到精通：SpringBoot AOP 完全攻略](https://mp.weixin.qq.com/s/M1H1E_BBqJagbnQUlcXTVQ)
 + [Spring Boot 基于 AOP 自定义注解实现通用功能](https://mp.weixin.qq.com/s/zrKQ7PwBO2xPciBNnLl9RQ)
++ [new 的对象也能被 Spring 注入？AspectJ LTW 打破限制！](https://mp.weixin.qq.com/s/ZZe_Dmb-0Okrrqb8SWEciQ)
 
 #### SPI
 
@@ -4523,6 +4537,7 @@
 + [Java进阶手册（二十二）SpringBoot整合Memcached](https://mp.weixin.qq.com/s/5U5VjW6s43sJwUR404Prjw)
 + [从雪崩到扛住百万并发：Spring Boot + Jasync 异步重构实战指南](https://mp.weixin.qq.com/s/MQO_8rA7HRnql8G9iBVIUA)
 + [从 Spring Boot 到低代码：Oinone 平台深度集成实践与架构解析](https://my.oschina.net/u/9371056/blog/18692909)
++ [一个注解实现 WebSocket 集群方案，这样玩才爽！](https://mp.weixin.qq.com/s/VPpO0r4G7bWe-3XeJYUqug?click_id=178)
 
 ##### excel
 

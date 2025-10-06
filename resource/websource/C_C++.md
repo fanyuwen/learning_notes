@@ -68,6 +68,7 @@
 + [C++项目构建之五 cmake的变量](https://mp.weixin.qq.com/s/4Znt9f4nvD5H3-W1pDNZdQ)
 + [CMake入门教程：告别手写Makefile的痛苦](https://mp.weixin.qq.com/s/r3mV0DGXgSOJ1XUV8THSiQ)
 + [C++项目构建之十三 OBJECT类型的cmake库](https://mp.weixin.qq.com/s/BOtR3WTDMS4Fbw4-ewYFWQ)
++ [C++项目构建之十四 cmake使用外部编译库](https://mp.weixin.qq.com/s/zyJsYknIRv6XsxhWdhaKyw)
 
 ### 第三方技术
 

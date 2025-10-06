@@ -110,6 +110,7 @@
 + [SQL 优化之 explain 超详细讲解](https://mp.weixin.qq.com/s/I6pdwGjnicSI5zkxM8T0pA)
 + [慢 SQL 优化实战：从一例线上慢 SQL 探究执行引擎工作过程](https://my.oschina.net/vivotech/blog/18687291)
 + [MySQL中的数据去重，该用DISTINCT还是GROUP BY？](https://mp.weixin.qq.com/s/VF0ZHRm1_ut2M2Go478e4w)
++ [8种专坑同事的SQL写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/OGrezglmBuvmYjJh6pcLLQ)
 
 # 本地数据库
 
@@ -953,6 +954,7 @@
 + [小米科技面试题：如何利用Redis实现栈和队列？](https://mp.weixin.qq.com/s/Qs8W4EOzj1NS0MhYKOc_MA)
 + [京东一面：Redis CPU飙到90%！怎么办？](https://mp.weixin.qq.com/s/uo0zvCr715RS-3MIjYL-8Q)
 + [Redis过期策略与内存淘汰策略](https://mp.weixin.qq.com/s/SRBl3ccC5MP2aueN_zLjww)
++ [字节二面：Redis 内存淘汰策略 LRU 和传统 LRU 差异，我答懵了](https://mp.weixin.qq.com/s/IWtAjZb-V0XJucWHgFVi3w)
 
 #### 原理
 
@@ -1047,6 +1049,7 @@
 + [深入剖析Redis分布式锁：原理、场景与最佳实践](https://mp.weixin.qq.com/s/pUi2qFhlRI5s_DN-Xp4cUw)
 + [无需Redis分布式锁，8种方案搞定用户重复提交](https://mp.weixin.qq.com/s/aU8KVF5ALS6JexezLDc16A)
 + [美团一面：Redis 是如何实现分布式锁的](https://mp.weixin.qq.com/s/XMGZxkv_dFrXiyrGOchy_Q?click_id=37)
++ [Redis 分布式锁的 5个坑，真是又大又深！](https://mp.weixin.qq.com/s/6cR3Zg_o60gUXAtKNNJ4bg)
 
 #### 缓存
 
@@ -1062,6 +1065,8 @@
 + [Redis：缓存雪崩、穿透、击穿的技术解析和实战方案](https://mp.weixin.qq.com/s/4N455ftg88VFp-ayQ6IH4A)
 + [一文搞懂 Redis 缓存三大 “坑”：穿透、击穿、雪崩](https://mp.weixin.qq.com/s/hBwKlUyatI-zsQxeiKSniw)
 + [深入解析 Redis 的 LRU 与 LFU 算法实现](https://my.oschina.net/vivotech/blog/10086708)
++ [字节二面：Redis缓存预热，该如何实现？](https://mp.weixin.qq.com/s/WquDILnPSisjHI4JYF2rjA)
++ [字节二面：Redis缓存预热，该如何实现？](https://mp.weixin.qq.com/s/DOh9xHeSKETxqHfS9yUvMA?click_id=176)
 
 #### 限流
 

@@ -291,6 +291,8 @@
 + [几款实用的内网穿透工具，安排！](https://mp.weixin.qq.com/s/bUbtcexFDZLn_h7xCh22JA)
 + [比XShell更好用，快到起飞，还支持网页版.....](https://mp.weixin.qq.com/s/UUpanZ-dnhu4M-Ln6AbO-g)
 + [Java 工程师的 16 个日常效率工具](https://mp.weixin.qq.com/s/D_bwj-6iceajT2I6ceKO7A)
++ [Termora：跨平台SSH神器？](https://mp.weixin.qq.com/s/b0ffumIAfm1B3mHN_cm6Ew?click_id=175)
++ [一款开源的高颜值跨平台 SSH 客户端](https://mp.weixin.qq.com/s/rslfjiIfAGubtNsO6yEJtQ?click_id=172)
 
 ## 开源资源
 

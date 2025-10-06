@@ -1197,6 +1197,10 @@
 
 + [Flask，轻量级Web开发框架](https://mp.weixin.qq.com/s/U9XN_0mfwu194CYUgsg0yA)
 
+### QT
+
++ [Python：PyQt5 构建现代 GUI 应用程序](https://mp.weixin.qq.com/s/373FJIkn4_ecKIwaZjqVmg)
+
 ## 爬虫
 
 + [8个Python爬虫高效数据抓取技巧](https://mp.weixin.qq.com/s/6CDK5d_bz34rcZIueQftYA)

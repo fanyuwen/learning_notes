@@ -236,6 +236,7 @@
 + [10. 结构体](https://mp.weixin.qq.com/s/wngceflUgqxWQstPeMurRg)
 + [Go 语言中 channel 是同步的还是异步的 ？](https://mp.weixin.qq.com/s/gnHfPlYg1pq1tj8JNpl2bQ)
 + [Go语言基于 DDD（Domain Driven Design）领域驱动设计架构实现备忘录 todolist](https://mp.weixin.qq.com/s/TxJDIzcz1q3OAd7m-CLzTQ)
++ [突破限制：深入理解 Go 语言中的 go:linkname 黑魔法！](https://mp.weixin.qq.com/s/wZPuAPamrycvwFNM4HA_7w)
 
 # 面试题
 

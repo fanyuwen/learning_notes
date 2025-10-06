@@ -80,3 +80,4 @@
 + [KotlinConf 2025 解析：即将推出的语言功能、AI 赋能开发以及 Kotlin Multiplatform 升级](https://mp.weixin.qq.com/s/_uEhFUmduvGpEx04bIfsRA)
 + [Spring 开发，从 Kotlin 开始｜社区分享](https://mp.weixin.qq.com/s/5VvstafTByPvkmGCfosr4Q)
 + [KoinBoot：解决 Koin 实际使用中的痛点 | 社区分享](https://mp.weixin.qq.com/s/xU1qYRqlkGKwJqajbwz5rg)
++ [B 站 KMP on iOS 深度工程化实践，目标直指超越原生的开发体验！｜社区分享](https://mp.weixin.qq.com/s/6mrcGl0TLTWDxtNPs0NULg)

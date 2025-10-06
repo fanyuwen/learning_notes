@@ -955,6 +955,7 @@
 + [京东一面：Redis CPU飙到90%！怎么办？](https://mp.weixin.qq.com/s/uo0zvCr715RS-3MIjYL-8Q)
 + [Redis过期策略与内存淘汰策略](https://mp.weixin.qq.com/s/SRBl3ccC5MP2aueN_zLjww)
 + [字节二面：Redis 内存淘汰策略 LRU 和传统 LRU 差异，我答懵了](https://mp.weixin.qq.com/s/IWtAjZb-V0XJucWHgFVi3w)
++ [面试官：Redis的事务满足原子性吗？](https://mp.weixin.qq.com/s/xDoUO4MCNeIYr-AOE6aWbg)
 
 #### 原理
 

@@ -249,6 +249,7 @@
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
 + [Java 21 新特性的实践，确实很丝滑！](https://mp.weixin.qq.com/s/MIoTCTBD_WlpX_pL3qUhYQ)
++ [JDK 23 新特性，你知道几个？](https://mp.weixin.qq.com/s/i7W6sQEhSWwto8pe85D3Qg)
 + [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
 + [JAVA 24 虚拟线程的演进：从愿景到生产实践](https://mp.weixin.qq.com/s/AYmxYLDzPusOb5Axf3WRCA)
 + [Java 24 中最值得关注的 5 大特性](https://mp.weixin.qq.com/s/81dwQnlizd3kvycJur1CsA)
@@ -512,6 +513,7 @@
 + [位图到底是什么神仙数据结构？Java程序员必看的高效存储秘籍](https://mp.weixin.qq.com/s/BruXxGmPKJBCMhB-YsOHOw)
 + [拥抱Lambda表达式，解锁Java函数式编程魅力](https://mp.weixin.qq.com/s/3Mhpbb3IZMlP-UzuiCZmTA)
 + [会用flatMap？瞧高手如何用它简化代码！](https://mp.weixin.qq.com/s/j4Na8LNqcuDo48qqiQF9Aw)
++ [Function 与反射强强联合的高级用法总结](https://mp.weixin.qq.com/s/Z3g-EQxFIa2bKyKVi-x4EQ)
 
 ## 代码质量
 
@@ -3338,6 +3340,7 @@
 + [10 个 Spring Boot 高效编码技巧 + 7个 Tomcat性能调优秘诀](https://mp.weixin.qq.com/s/tq-OsliTnCj6EjlT4Xau1A)
 + [SpringBoot中5种动态代理实现](https://mp.weixin.qq.com/s/An7YYX8lEu_eiR9AMrOB7Q)
 + [SpringBoot 中的 7 种耗时统计方式，你用过几种？](https://mp.weixin.qq.com/s/YM0lWloj8b8gSTtIlDefbA)
++ [Spring Boot 10个超实用扩展点，让你的项目效率飙升](https://mp.weixin.qq.com/s/SSY2t9GnFNHkwj3jpaWPFQ)
 
 ##### 原理
 
@@ -3889,6 +3892,8 @@
 + [Spring Boot + Jackson 隐藏的4个强大的注解](https://mp.weixin.qq.com/s/kb22BaTnjUmN6s2bA51PPA)
 + [强悍的重试机制：Spring Boot 中 WebClient 弹性设计实战](https://mp.weixin.qq.com/s/4TMf25289C4AVCxNfLyaZg)
 + [零侵入插件！Spring Boot 一键生成 8种格式API接口文档](https://mp.weixin.qq.com/s/B9pyyMlbODhm5B1SzfDwPQ?click_id=171)
++ [只会注解校验？Spring Boot 编程式验证应对各种复杂场景](https://mp.weixin.qq.com/s/mzKb4az7cMJh2xiI1iW3XQ)
++ [8种测试方法，让 Spring Boot 接口稳定性提升 200%](https://mp.weixin.qq.com/s/K4Pyzw42N9Dmdk86qcTpQg)
 
 ##### 文件上传下载
 
@@ -3919,6 +3924,7 @@
 + [SpringBoot 文件上传惊现"10日魔咒"？资深架构师手把手教你破局](https://mp.weixin.qq.com/s/jv6E2SU84Y9Q8stGA06WBQ)
 + [告别卡顿！SpringBoot 大文件上传最佳实践：分片+并发+秒传全搞定](https://mp.weixin.qq.com/s/g7l8Ih5uy0dB4zPHh_fNOA)
 + [全栈开发！Spring Boot 文件下载的N种神级姿势](https://mp.weixin.qq.com/s/3xz_nc9ApRp2oCssfPUeSQ)
++ [生产大文件下载导致 OOM，顺藤摸瓜拿下](https://mp.weixin.qq.com/s/Lr-36voq06IvzPA1D34Mmg)
 
 ##### VUE
 
@@ -4015,6 +4021,8 @@
 + [超实用！Spring Boot 多种方法实现数据绑定](https://mp.weixin.qq.com/s/haowO509j0N-2BmUlN8IZQ)
 + [Spring Boot + MyBatis 常见坑：N+1 查询、懒加载、缓存失效全解析](https://mp.weixin.qq.com/s/BokG1jHMhQ8EFFxt-2PClQ)
 + [Spring Boot Session 管理陷阱：分布式 Session、Redis 存储与过期策略](https://mp.weixin.qq.com/s/fC3XgcPmOjJkDVWsFW6UJQ)
++ [Spring Boot 掌握数据库访问5大核心技术，效率提升300%](https://mp.weixin.qq.com/s/JKvpT9ek5uekk4E14aBLGg)
++ [Spring Boot并发更新还在掉坑？这5种解决方案让你稳如老狗！](https://mp.weixin.qq.com/s/iowBzT863gozWkcTz7e4HQ)
 
 ##### TRANSACTION
 
@@ -4397,6 +4405,7 @@
 + [Spring Boot 多环境配置实战：dev、test、prod 如何优雅切换？](https://mp.weixin.qq.com/s/EUWEKw7yvVdJ9RJ-8I5RvQ)
 + [SpringBoot配置属性热更新的轻量级实现](https://mp.weixin.qq.com/s/Fu6Z0IOXCGGLqAa2EAxS3Q)
 + [Spring Boot 条件化配置与配置组：优雅管理复杂应用配置](https://mp.weixin.qq.com/s/ilQASw9Jv7lmwCIJA6JiGw)
++ [SpringBoot 容器镜像更新只要200k，你敢信？？？](https://mp.weixin.qq.com/s/6n-Yk-QUgKDBmDKA4dhd-Q)
 
 #### 集成三方
 
@@ -4538,6 +4547,8 @@
 + [从雪崩到扛住百万并发：Spring Boot + Jasync 异步重构实战指南](https://mp.weixin.qq.com/s/MQO_8rA7HRnql8G9iBVIUA)
 + [从 Spring Boot 到低代码：Oinone 平台深度集成实践与架构解析](https://my.oschina.net/u/9371056/blog/18692909)
 + [一个注解实现 WebSocket 集群方案，这样玩才爽！](https://mp.weixin.qq.com/s/VPpO0r4G7bWe-3XeJYUqug?click_id=178)
++ [查询优化！Spring Boot + Lucene 构建全文检索](https://mp.weixin.qq.com/s/EOhmcAdko3AxtsrDdSauKw?click_id=197)
++ [JAVA：Spring Boot 集成 Redis 实现延时队列](https://mp.weixin.qq.com/s/2V6ObBZ-g1F4xK_hILjb_A)
 
 ##### excel
 
@@ -4813,6 +4824,7 @@
 + [Java字节码行号恢复工具-ClassLinefix](https://mp.weixin.qq.com/s/hRMf47M376jPf3cT15iMTA)
 + [JLink：构建轻量级 Java 运行时](https://mp.weixin.qq.com/s/Ui-Bufwu0GNqLo5py1Q9wg)
 + [强烈推荐可一款线上诊断Java程序的神器---JFR](https://mp.weixin.qq.com/s/3KZ-uo-KcUKD0IJJIh4BcA)
++ [太强了！Java开源Diff库，一行代码分析千行差异](https://mp.weixin.qq.com/s/G7I26-tcCs7rqvdz8OvcKQ)
 
 # 其它环境
 

@@ -871,6 +871,7 @@
 + [为什么需要内存对齐？](https://mp.weixin.qq.com/s/fzdrFPd3Xqg6hrOJYx4Z8A)
 + [C语言读写文件操作详解](https://mp.weixin.qq.com/s/7nGG3fKS5ZREznBPlQNo0A)
 + [C语言内存对齐：提升程序性能的隐藏技巧](https://mp.weixin.qq.com/s/0oMExQsAujtshELoBaBBgg)
++ [谈C编程---用数组和指针实现结构体功能](https://mp.weixin.qq.com/s/6fOIxg1hrEPJkfngQ6l4WQ)
 
 #### 宏
 

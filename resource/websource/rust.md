@@ -162,6 +162,7 @@
 + [Rust从入门到入迷（九）数组越界导致安全漏洞这么难查，Rust编译阶段直接拦截](https://mp.weixin.qq.com/s/98DostQhty_1SzU40-ApgQ)
 + [Rust字符串的正确姿势：该用 String 还是 str](https://mp.weixin.qq.com/s/QmqFMSXztNTv2L_VdI2Q3A)
 + [Rust中的泛型Generics](https://mp.weixin.qq.com/s/lWUs_8Vc6BId_S6RKraMWA)
++ [Rust 特征系统：强大能力与清晰代码的平衡艺术](https://mp.weixin.qq.com/s/XVakAW7cUsHWGJjffAs7Fg)
 
 # 框架
 

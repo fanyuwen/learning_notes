@@ -2159,6 +2159,7 @@
 + [Java日志打印的几种方式](https://mp.weixin.qq.com/s/BJT-mC7ldaotDSNy7KVMcA)
 + [从原理到实践:MDC日志链路追踪指南](https://mp.weixin.qq.com/s/AnqZJ7glK7Lib4qJufyVrA)
 + [logback多进程日志轮转混乱解决方案](https://mp.weixin.qq.com/s/J8FrMVDuvnohf-Zsng0lkA)
++ [我司使用了两年的高效日志打印工具，非常好用！](https://mp.weixin.qq.com/s/fr_WLWMJflBZ9ADUqnfr0Q)
 
 ## lombok
 
@@ -4549,6 +4550,7 @@
 + [一个注解实现 WebSocket 集群方案，这样玩才爽！](https://mp.weixin.qq.com/s/VPpO0r4G7bWe-3XeJYUqug?click_id=178)
 + [查询优化！Spring Boot + Lucene 构建全文检索](https://mp.weixin.qq.com/s/EOhmcAdko3AxtsrDdSauKw?click_id=197)
 + [JAVA：Spring Boot 集成 Redis 实现延时队列](https://mp.weixin.qq.com/s/2V6ObBZ-g1F4xK_hILjb_A)
++ [JAVA：Spring Boot 集成 Kilim 协程实践](https://mp.weixin.qq.com/s/wrJhLj-MI5Pr6CWfJD7y_g)
 
 ##### excel
 

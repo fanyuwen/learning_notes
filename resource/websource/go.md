@@ -70,6 +70,7 @@
 + [Go语言轻量级内存数据库，基于Redis哈希表！](https://mp.weixin.qq.com/s/QOr1O7aRiZM011aJ7W_6aQ)
 + [给大家推荐一个配置加载框架](https://mp.weixin.qq.com/s/x1uawznmaUYFfd5lsRE5Sw)
 + [谷歌专家：基于Go的高性能爬虫](https://mp.weixin.qq.com/s/Wl00epUSMbtp124v0aN3-g)
++ [SQLX Golang：Go语言高级数据库操作必备库](https://mp.weixin.qq.com/s/re0eH2xBd9jkZw_hLsMMxg)
 
 # 实践
 
@@ -239,6 +240,7 @@
 + [突破限制：深入理解 Go 语言中的 go:linkname 黑魔法！](https://mp.weixin.qq.com/s/wZPuAPamrycvwFNM4HA_7w)
 + [算法：手写快速排序（QuickSort）](https://mp.weixin.qq.com/s/kbcYyQqcpiuzBp1k91FGMQ)
 + [别再一味写 REST！Go 的事件驱动架构，才是真正的解耦神器](https://mp.weixin.qq.com/s/2IdBTvsito1pLqY_t4yaLw)
++ [面试题：为什么 time.After 可能导致内存泄漏？](https://mp.weixin.qq.com/s/Tz7j31U8EI2hRI3jLIPZQQ)
 
 # 面试题
 

@@ -159,7 +159,9 @@
 + [终于搞懂了！Rust 所有权原来可以这么简单](https://mp.weixin.qq.com/s/jLEXHcS0CQIpV4sWfyDEOA)
 + [Rust与C接口交互](https://mp.weixin.qq.com/s/Ycv0GzQTc1mGijJHUD5wzg)
 + [Rust从入门到入迷（七）从上万行代码中找指定功能的代码只需要一瞬间，看Rust如何做复杂项目管理](https://mp.weixin.qq.com/s/4-hltFnrMYx68Yd0eKg-Pg)
++ [Rust从入门到入迷（九）数组越界导致安全漏洞这么难查，Rust编译阶段直接拦截](https://mp.weixin.qq.com/s/98DostQhty_1SzU40-ApgQ)
 + [Rust字符串的正确姿势：该用 String 还是 str](https://mp.weixin.qq.com/s/QmqFMSXztNTv2L_VdI2Q3A)
++ [Rust中的泛型Generics](https://mp.weixin.qq.com/s/lWUs_8Vc6BId_S6RKraMWA)
 
 # 框架
 
@@ -254,3 +256,5 @@
 + [随笔 | 关于 Rust 的碎碎念](https://mp.weixin.qq.com/s/RD-vn4OmrtFd4eRtY4vzeg)
 + [Rust从入门到入迷（八）学会Rust通用集合后，我再也不想用C/C++/Java了](https://mp.weixin.qq.com/s/AirtafNc0mBoD3gEsoy_IA)
 + [Rust 的 10 个特性让 C++ 望尘莫及](https://mp.weixin.qq.com/s/gApwYURaQozFiR9wFEFOng)
++ [僭越了，有人在用 Rust 写 Kubernetes](https://mp.weixin.qq.com/s/1dsEML4ZCL7ScM0sRVlGLQ)
++ [为什么选择用Rust做电信基础设施项目？](https://mp.weixin.qq.com/s/PcPKprUKVYILQ9zbgZmt7Q)

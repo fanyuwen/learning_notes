@@ -687,6 +687,7 @@
 + [什么是MySQL的索引下推技术？](https://mp.weixin.qq.com/s/WkcutMXnkedmwIgOt4Lv0g)
 + [学习MySQL绕不开的两个基础概念：聚集索引与非聚集索引](https://mp.weixin.qq.com/s/VDskBru9f_FZ8dRNfJxiiQ)
 + [MySQL之进阶：一篇文章搞懂MySQL索引之B+树](https://mp.weixin.qq.com/s/UB2AS5h-On2HufI2rQ74eg)
++ [如何在MySQL中创建聚集索引？](https://mp.weixin.qq.com/s/LejGAACiSEkXICXzILW8rA)
 
 ### PostgreSQL
 
@@ -951,6 +952,7 @@
 + [Redis支持事务吗？了解Redis的持久化机制吗？](https://mp.weixin.qq.com/s/soe8v02VevWY2Z4PjrtsYw)
 + [小米科技面试题：如何利用Redis实现栈和队列？](https://mp.weixin.qq.com/s/Qs8W4EOzj1NS0MhYKOc_MA)
 + [京东一面：Redis CPU飙到90%！怎么办？](https://mp.weixin.qq.com/s/uo0zvCr715RS-3MIjYL-8Q)
++ [Redis过期策略与内存淘汰策略](https://mp.weixin.qq.com/s/SRBl3ccC5MP2aueN_zLjww)
 
 #### 原理
 
@@ -1015,6 +1017,7 @@
 + [揭秘Redis哨兵：高可用背后的技术细节](https://mp.weixin.qq.com/s/N4Wx6Vyr4pTZqvla4uH_eQ)
 + [Redis 淘汰机制：内存告急时，数据是怎么 “被毕业” 的？](https://mp.weixin.qq.com/s/ZSaYiNrAbQfQMUctdKd6-g)
 + [滴滴二面：谈一下你对持久化机制AOF的理解](https://mp.weixin.qq.com/s/2iXlsEgEb0CtDdM25_5L0g)
++ [Redis 过期键删除策略及应用场景详解](https://mp.weixin.qq.com/s/TytZ9qyjpC7aCcSNF8aX3A)
 
 #### 分布式锁
 

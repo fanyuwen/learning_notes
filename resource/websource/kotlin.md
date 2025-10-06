@@ -60,6 +60,7 @@
 + [Kotlin协程之：异常处理](https://mp.weixin.qq.com/s/1dudmLzgMMa4SVonYZ0QXQ)
 + [协程深入浅出用法介绍](https://mp.weixin.qq.com/s/jlC3o5SaDd9k01mJKrrRjA)
 + [Kotlin 函数式编程思想](https://mp.weixin.qq.com/s/9IrYpMkNsE2Esb_rYTRNzQ)
++ [看到Kotlin里满屏的 inline，我真的想 Java 了](https://mp.weixin.qq.com/s/C8aCV7nEOFZYxQ7ZfcMi0A)
 
 ## 技术月报
 

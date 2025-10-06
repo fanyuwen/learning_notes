@@ -44,6 +44,7 @@
 + [密码学史上最持久的"猫鼠游戏"：单表替换密码的兴亡（Go语言实现）](https://mp.weixin.qq.com/s/LGoRsE5iM9FTkZhA52t69Q)
 + [为何Go语言迟迟未能拥抱io_uring？揭秘集成的三大核心困境](https://mp.weixin.qq.com/s/naDyE51tlkmXy58o1uKVFg)
 + [我是如何让我的 Go 程序快到惊人：连资深开发者都常忽视的性能技巧](https://mp.weixin.qq.com/s/u-xNvBJB8vMJlD7u32LJvA)
++ [跟大家讲讲 Go-Spring 的项目体系](https://mp.weixin.qq.com/s/Q1Uxe3sfVGD8uAp7DPAaFg)
 
 # 库
 

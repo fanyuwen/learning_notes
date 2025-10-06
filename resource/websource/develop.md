@@ -94,6 +94,9 @@
 + [架构提效的矛盾和矛盾的主要方面](https://my.oschina.net/u/4090830/blog/18688507)
 + [架构设计模式七大原则，小白秒懂的超全解析！](https://mp.weixin.qq.com/s/FpGUlp-q8X5d256rK_HE4A)
 + [社区搜索离线回溯系统设计：架构、挑战与性能优化｜得物技术](https://my.oschina.net/u/5783135/blog/18684911)
++ [多租户技术架构详解](https://mp.weixin.qq.com/s/lEuKwDHwhcsJ0OTSZdHEUQ)
++ [事件驱动架构新范式：FastEvent 让领域事件开发变得优雅](https://mp.weixin.qq.com/s/H_HrAazS-kyOqXfsLPMnoA)
++ [架构必知：9大主流架构](https://mp.weixin.qq.com/s/7EfaulpbxXc9mwieSx1_Bg)
 
 ### DDD
 
@@ -587,6 +590,7 @@
 + [多人同时导出 Excel 干崩服务器？大佬给出的解决方案太优雅了！](https://mp.weixin.qq.com/s/pu2WNCVDZYdHplF_q5dthw)
 + [分页查询接口，从2s优化到了0.01s](https://mp.weixin.qq.com/s/jYaDvuN6o-EAUgrlNRHDFw)
 + [如何优化高并发下的接口](https://mp.weixin.qq.com/s/L-ZGGqWeBdXVCmyE2BZr1w)
++ [常用的性能优化手段](https://mp.weixin.qq.com/s/aqTTQE-hMFUj-xmyg0XjrQ)
 
 ## 跨域
 

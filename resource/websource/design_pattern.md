@@ -30,6 +30,7 @@
 + [设计模式-责任链模式、策略模式](https://mp.weixin.qq.com/s/zCC4xJy1c7xQOGsXpDIOVg)
 + [《设计模式》还有必要读吗？](https://mp.weixin.qq.com/s/PipD8pY5WIMxnFaDd_gwZg)
 + [设计模式七大原则-合成复用原则](https://mp.weixin.qq.com/s/GiD5QYwxQGvB_EVjAlb4dg)
++ [重构代码：利用设计模式来处理条件分支问题](https://mp.weixin.qq.com/s/kk2WSxufUxhDFnePt_UhUQ)
 
 # 并发设计模式
 

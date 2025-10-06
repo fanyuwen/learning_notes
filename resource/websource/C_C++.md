@@ -15,6 +15,8 @@
 + [代码“缓存友好”（cache-friendly）意味着什么？](https://mp.weixin.qq.com/s/1Pfb7EG6J3b0YEL3x_CpmA)
 + [[译] C/C++ 代码的优化技巧](https://mp.weixin.qq.com/s/x1uoCw4KAZuL1P3tsXiQBQ)
 + [C/C++ 开发者请注意！你真的懂memcpy吗？](https://mp.weixin.qq.com/s/LKHtdd56DuPoSonHCW4xjQ)
++ [运算符这种特殊的标识符运作的底层原理剖析一文看懂](https://mp.weixin.qq.com/s/OulTUr3RLu8lSfMSzgV7iw)
++ [函数反汇编及基础破解实验](https://mp.weixin.qq.com/s/IYNhHSk5jjj2eASUKuyOUw)
 
 ## 工具
 
@@ -326,6 +328,7 @@
 + [C++如何计算普通类型的 Hash 值：基于 gcc/clang 源码分析](https://mp.weixin.qq.com/s/TYKX6DqZUZOkqoRH7GU2wg)
 + [C++面试周刊(6):constexpr、内联函数、编译期元编程](https://mp.weixin.qq.com/s/AC7yxYG4BLwrByRK0NvCkg)
 + [【C++ 技术分享】写入文件，为啥非要缓存？](https://mp.weixin.qq.com/s/jjhNSXBoofPaycDWhKxGVg)
++ [“连迭代器失效的场景都数不全？” 滴滴面试官叹了口气 “你入职后，那怎么敢把代码交给你来维护……”](https://mp.weixin.qq.com/s/PcaivGRgoJ0wmBCYHH5GLw)
 
 #### 指针
 
@@ -538,6 +541,7 @@
 + [C++ 虚继承的实现机制和虚函数实现多态的机制](https://mp.weixin.qq.com/s/zD6Lqk5KB4m0--i73NZn3A)
 + [从显式到智能：C++ 类模板核心特性](https://mp.weixin.qq.com/s/MoPTlJ6FbDyagcqmDV8u-g)
 + [C++析构函数与线程退出之1](https://mp.weixin.qq.com/s/4Xwy_aCXdExu4uQvju43Ig)
++ [华勤面试官线下面：C++怎么让一个类"断子绝孙"？我心里狂喜，这不是送分题吗，回答说使用final，面试官说具体讲讲。](https://mp.weixin.qq.com/s/xia17kC2MfoKiYAUnHh4ww)
 
 ##### 泛型
 
@@ -702,6 +706,7 @@
 + [推荐一波新版优质 Modern C++书籍](https://mp.weixin.qq.com/s/iDuTV8dnXFo6TFgTMiLmgw)
 + [10个值得关注的高质量 C++ 开源项目](https://mp.weixin.qq.com/s/F8oafg_1_RiJ0enGpJsxZg)
 + [好书推荐之《Refactoring with C++》](https://mp.weixin.qq.com/s/08WwGw_7M8BT54ZFK5A6Ig)
++ [C++对象模型详解 参考文献](https://mp.weixin.qq.com/s/kpKnNl57ksoA-K9SjbmapA)
 
 ### CUDA
 
@@ -1112,6 +1117,7 @@
 + [线程编程详解：从基础到嵌入式实践](https://mp.weixin.qq.com/s/EQTBxzTvD_gxxzKSu8b73Q)
 + [设计模式:嵌入式C语言实现探索_13.状态模式](https://mp.weixin.qq.com/s/gjGandXKeaPfcb8IZyko7Q)
 + [volatile关键字在嵌入式中的作用，90%的人没搞懂](https://mp.weixin.qq.com/s/g-Y6sAr8VYqX9RHtLgM9NQ)
++ [嵌软面试-操作系统篇：12-Linux 内核中断处理过程](https://mp.weixin.qq.com/s/bV_a7tCNuzeRjWGodsK7ug)
 
 # ARM
 

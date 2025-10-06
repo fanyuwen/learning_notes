@@ -794,6 +794,7 @@
 + [Python 调试的救星：pdb 帮你摆脱“打印地狱”](https://mp.weixin.qq.com/s/t6namCDCFyKz0IaKKh9teQ)
 + [手残党也能搞定！Python 装包这件小事，我教你一次就“开挂”！](https://mp.weixin.qq.com/s/si_94Sw6bSDJyX0WHNoNtg)
 + [Python装饰器：那把让代码瞬间“变身”的魔法钥匙，你真的会用吗？](https://mp.weixin.qq.com/s/xz9CkZ4P18n0O2gK2xY-Lw)
++ [不写单元测试的程序员，就像光脚跑在野外——迟早要被Bug扎脚！](https://mp.weixin.qq.com/s/RJsSYzO6Yn-pySOEATv4ug)
 
 ## 新特性
 
@@ -1139,6 +1140,7 @@
 + [分布式异步函数调度框架funboost的使用记录](https://mp.weixin.qq.com/s/ib_7D3xPVE_TjeB_4S6Ajg)
 + [PyInstaller打包避坑全攻略：新手一看就会，老手也能涨姿势](https://mp.weixin.qq.com/s/8qxtKKqxPocg5f9o41LCMg)
 + [Anaconda介绍](https://mp.weixin.qq.com/s/VH5k6ow6MR65ik2AZrKiqw)
++ [轻松搞定配置文件：Python 程序员的秘密武器 ConfigParser](https://mp.weixin.qq.com/s/afwCqRV5OgiZvg7krZVDnA)
 
 ## 框架
 
@@ -1163,6 +1165,7 @@
 + [sqlalchemy，一个灵活的 Python ORM 库！](https://mp.weixin.qq.com/s/2DSFQftSgtyeuXxXw84_7w)
 + [SQLAlchemy中常用的查询方法和调试打印](https://mp.weixin.qq.com/s/Nqs_HKfyqTN0wYk5ueQM3g)
 + [玩转SQLAlchemy异步引擎：高效查询，快乐编程](https://mp.weixin.qq.com/s/bVTTpoHt-nwWuGlkMgMHtA)
++ [Python数据库黑科技：SQLAlchemy从零到高手，帮你甩掉SQL的“手铐”！](https://mp.weixin.qq.com/s/q5kNHZ6WUB0y029eJtJfcQ)
 
 ### OPENCV
 

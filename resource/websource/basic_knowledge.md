@@ -326,6 +326,8 @@
 ### 相关信息
 
 + [【系统安全】Linux系列系统OpenSSH出现漏洞（CVE-2024-6387）](https://mp.weixin.qq.com/s/b_kr5OHaFmDod51c8nJ2VQ)
++ [从汇编代码看 Ftrace Hook 的原理](https://mp.weixin.qq.com/s/j8Pmc6ml99tlnADqpLRN9g)
++ [Kprobe 优化实现：指令模拟](https://mp.weixin.qq.com/s/ekQbkRoIV3HjTJemdm2FrA)
 
 # 计算机基础知识
 
@@ -411,6 +413,8 @@
 + [深入理解CPU缓存：编写高性能Java代码的终极指南](https://mp.weixin.qq.com/s/Wl11t3iXpdbX22_gKzO1Bw)
 + [彻底搞懂内存屏障，让程序运行更有序](https://mp.weixin.qq.com/s/r7TF_3vMj_XMDcD-B6vwFg)
 + [内核中锁的基本介绍之一——CPU层面的锁（1）](https://mp.weixin.qq.com/s/hF8qrbWvSW3teKd6mS3FaQ)
++ [高速缓存的工作原理](https://mp.weixin.qq.com/s/84nAZiMreYjZ-HIiQ2eDNA)
++ [CPU流水线之数据冒险的基本原理](https://mp.weixin.qq.com/s/FX_wySnnROzqzyZe-9indA)
 
 ### 并发
 

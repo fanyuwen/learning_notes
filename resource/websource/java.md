@@ -303,6 +303,7 @@
 + [美团二面拷打：如何设计一个动态线程池？](https://mp.weixin.qq.com/s/jrEdeUPB4MIr27kmB66nuw)
 + [深入探索java.util.Objects工具类](https://mp.weixin.qq.com/s/s54NOctwWboFn6PcxbrrEQ)
 + [判断对象的属性是否为null](https://mp.weixin.qq.com/s/5ecLRQqB9LArNbSd8Dt9ig)
++ [数组、字符串、列表等集合排序总结](https://mp.weixin.qq.com/s/G7mRvwAftgl4f7qXVj77rQ)
 + [JAVA基础（二十一）Collections 工具类实战指南-从排序到线程安全](https://mp.weixin.qq.com/s/Y-fxcAbEv4y2EbqnMy7gBg)
 + [10个Java代码优化技巧，让你从入门到精通](https://mp.weixin.qq.com/s/5IcKxVC7kojiU-WooE4RlQ)
 + [关于 Java 异常处理的原则](https://mp.weixin.qq.com/s/L0xsz6YueaiXgX2_d5WfHg)
@@ -2776,6 +2777,7 @@
 + [搞懂Spring任务执行器和调度器模型](https://mp.weixin.qq.com/s/fJEUDmk27NLeD-lxreF1OQ)
 + [如何在 Spring 中高效使用 @Async：从入门到避坑指南](https://mp.weixin.qq.com/s/HuecMiSOm1o0fTrZhnz9cQ)
 + [从零到精通：Java多线程编程与锁机制全解析，覆盖Java到Spring的实战指南](https://mp.weixin.qq.com/s/K_JrLtMaicFbEQDyiHZxOg)
++ [定时任务如何实现定时执行](https://mp.weixin.qq.com/s/0u438M4olmJzz6Bnl-k73w)
 
 ### security
 
@@ -3043,6 +3045,7 @@
 
 ### cloud
 
++ [Java 复习系列：SpringBoot 与 SpringCloud 核心知识点梳理](https://mp.weixin.qq.com/s/C5nogi0_0pa5_WOapxRpaA)
 + [SpringCloud 专栏：快速入门指南！](https://mp.weixin.qq.com/s/WeJQnil6rbr2m22V_vexMA)
 + [Open-Feign 你真的会用了吗？](https://mp.weixin.qq.com/s/jU9kavwQpmunQ1dYUKYsSQ)
 + [Spring Cloud 它是谁？它能做什么？](https://mp.weixin.qq.com/s/Iv-2dkCQfSmkpjUh5oW-Lg)
@@ -4820,6 +4823,7 @@
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
 + [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
++ [Java高级后端工程师知识范畴](https://mp.weixin.qq.com/s/59zPr-1Z69B7Y3nb9X6Pyg)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [搞定 Java 高并发秒杀，掌握这 7 个核心设计原则就够了](https://mp.weixin.qq.com/s/RDupbUSEA6-8J4XIJubY2w)
 + [通过对比理解「面向对象」编程思想](https://mp.weixin.qq.com/s/KF2g5BTl0Fe_H7PmIfntyA)

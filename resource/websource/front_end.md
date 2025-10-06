@@ -48,6 +48,7 @@
 + [原来可以这样写JavaScript！ES2025新语法糖](https://mp.weixin.qq.com/s/-TMu5l6BUqy1JfhrL7Sxlg)
 + [JavaScript 深入浅出（一）:let 和 Var 的区别](https://mp.weixin.qq.com/s/LDGVS_MjGoduKYyrYpTdyA)
 + [JavaScript中的var、let和const：区别与使用](https://mp.weixin.qq.com/s/6RgSxdLrZvQ_SLA-0kmbJQ)
++ [译文：竟然可以这样写 JS？ES2025全新语法糖解析](https://mp.weixin.qq.com/s/0Omo3JaDbQg9taVgtkf9HQ)
 
 ### 底层
 

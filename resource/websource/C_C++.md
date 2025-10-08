@@ -884,7 +884,6 @@
 
 #### 数组
 
-+ [C语言中数组概念及使用](https://mp.weixin.qq.com/s/EkwS4oJ3pGeXLAnWKm6BYQ)
 + [C语言二维数组：你以为它是表格？其实它是"俄罗斯套娃"！](https://mp.weixin.qq.com/s/sR7pE1gpeCR10I7hU3YwXw)
 + [C语言实用干货：深度解剖字符数组](https://mp.weixin.qq.com/s/0S-tm54dvcP6kz_pPQLzaQ)
 + [C语言数组：从入门到精通，一篇文章彻底搞懂](https://mp.weixin.qq.com/s/uu_aAKYPG8VuZQhpNn6mNw)

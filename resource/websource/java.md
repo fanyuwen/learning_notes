@@ -514,6 +514,7 @@
 + [拥抱Lambda表达式，解锁Java函数式编程魅力](https://mp.weixin.qq.com/s/3Mhpbb3IZMlP-UzuiCZmTA)
 + [会用flatMap？瞧高手如何用它简化代码！](https://mp.weixin.qq.com/s/j4Na8LNqcuDo48qqiQF9Aw)
 + [Function 与反射强强联合的高级用法总结](https://mp.weixin.qq.com/s/Z3g-EQxFIa2bKyKVi-x4EQ)
++ [优化 if/else 的四种设计模式](https://my.oschina.net/makemyownlife/blog/18693892)
 
 ## 代码质量
 

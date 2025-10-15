@@ -249,6 +249,7 @@
 + [Java 21模式匹配再进化：Switch解锁泛型与嵌套类型，代码简洁度飙升！](https://mp.weixin.qq.com/s/33VCaUkI4Qe-u4he9tGPvQ)
 + [JDK 21虚拟线程：Java并发编程的革新利器](https://mp.weixin.qq.com/s/sJhn5Qx8AnLWGVX2noQceg)
 + [Java 21 新特性的实践，确实很丝滑！](https://mp.weixin.qq.com/s/MIoTCTBD_WlpX_pL3qUhYQ)
++ [JDK 从 8 升级到 21 的问题集](https://my.oschina.net/u/4090830/blog/18692770)
 + [JDK 23 新特性，你知道几个？](https://mp.weixin.qq.com/s/i7W6sQEhSWwto8pe85D3Qg)
 + [解锁Java 24并发编程：虚拟线程与ScopedValue赋能WebFlux的高效实践](https://mp.weixin.qq.com/s/c2KFYcWzTNiteaY08-7hTw)
 + [JAVA 24 虚拟线程的演进：从愿景到生产实践](https://mp.weixin.qq.com/s/AYmxYLDzPusOb5Axf3WRCA)
@@ -5077,3 +5078,4 @@
 + [Java开发者的Rust高级开发速成指南](https://mp.weixin.qq.com/s/I7YDqh8bFS6yJy30_-6NOQ)
 + [从 Java 到 Go：面向对象的巨人与云原生的轻骑兵](https://my.oschina.net/u/4090830/blog/18691874)
 + [会Java还需要学习C/C++或Kotlin吗？](https://mp.weixin.qq.com/s/qedv7X7LKSofLoRyYovV9A)
++ [将 GPU 级性能带到企业级 Java：CUDA 集成实用指南](https://my.oschina.net/didispace/blog/18695216)

@@ -713,6 +713,8 @@
 + [PostgreSQL技术内幕28：触发器实现原理](https://mp.weixin.qq.com/s/JaWSwbsPOKNwQjBb3IVUHQ)
 + [PostgreSQL - 架构](https://mp.weixin.qq.com/s/C3CzV6kronLGwldiW1rlBw)
 + [初探PgSQL异步IO](https://mp.weixin.qq.com/s/oNdxMy8fSJI37Nd-eXVHdA)
++ [PostgreSQL 18 异步 I/O（AIO）调优指南](https://my.oschina.net/u/5729420/blog/18694826)
++ [聚焦六大功能：PostgreSQL 18 新特性深度解析](https://my.oschina.net/u/5729420/blog/18693388)
 
 ### SQLSERVER
 

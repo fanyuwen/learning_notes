@@ -2133,6 +2133,7 @@
 + [Jackson居然骗我说它是线程安全的](https://mp.weixin.qq.com/s/l4G2g7Jz4ZTdXYncegKaTQ)
 + [性能提升30倍！Jackson-Jr 高性能JSON序列化神器](https://mp.weixin.qq.com/s/UgjAopJYLhF_NOA2rpXwBg)
 + [Fastjson为啥老出事？3分钟讲透反序列化漏洞](https://mp.weixin.qq.com/s/g_uCYVTvdTnBBGcnQ9dvGw)
++ [从 JSON 字符串到 Java 对象：Fastjson 1.2.83 全程解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695791)
 
 ## logger
 

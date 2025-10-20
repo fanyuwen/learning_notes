@@ -1023,6 +1023,7 @@
 + [线程池你用对了吗？Executors、参数配置、拒绝策略全讲透](https://mp.weixin.qq.com/s/LsbKtt37cvADdEgOulm06g)
 + [面试官问：线程池拒绝策略怎么选，才不会丢任务？](https://mp.weixin.qq.com/s/JJooibFss6O_TgCt6boNxA)
 + [面试官问：线程池核心线程预热怎么玩？为什么prestartAllCoreThreads 有时不如手动提交空任务？](https://mp.weixin.qq.com/s/6_BykZismutmaD3P353XDQ)
++ [线程池 ThreadPoolExecutor 源码深度解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695444)
 
 #### 锁
 

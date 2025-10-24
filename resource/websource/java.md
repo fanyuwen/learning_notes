@@ -2680,6 +2680,7 @@
 + [Spring 源码精讲 02 - 循环依赖](https://mp.weixin.qq.com/s/ZAf70t8hnt6nEXoH33oa_Q)
 + [@Autowired依赖注入原理](https://mp.weixin.qq.com/s/gDPn8xYhyiLTcXecSe20dg)
 + [面试被问爆的 Spring 循环依赖：三级缓存到底是个啥？一篇讲透原理 + 源码](https://mp.weixin.qq.com/s/NkUVQCOZ8uGqzXAK6xIfvQ)
++ [从一次启动失败深入剖析：Spring 循环依赖的真相｜得物技术](https://my.oschina.net/u/5783135/blog/18696870)
 
 ### 新版本新特性
 

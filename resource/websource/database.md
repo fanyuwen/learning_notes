@@ -959,6 +959,7 @@
 + [字节二面：Redis 内存淘汰策略 LRU 和传统 LRU 差异，我答懵了](https://mp.weixin.qq.com/s/IWtAjZb-V0XJucWHgFVi3w)
 + [面试官：Redis的事务满足原子性吗？](https://mp.weixin.qq.com/s/xDoUO4MCNeIYr-AOE6aWbg)
 + [真实案例解析缓存大热 key 的致命陷阱](https://my.oschina.net/u/4090830/blog/18697937)
++ [Redis key 消失之谜](https://my.oschina.net/vivotech/blog/18697912)
 
 #### 原理
 

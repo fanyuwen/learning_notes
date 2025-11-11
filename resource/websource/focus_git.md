@@ -29,6 +29,7 @@
 + [okio](https://github.com/square/okio)
 + [immutables](https://github.com/immutables/immutables)
 + [glowroot](https://github.com/glowroot/glowroot)
++ [parallel-collectors](https://github.com/pivovarit/parallel-collectors)
 
 # SCALA
 

@@ -47,6 +47,7 @@
 + [pyright](https://github.com/microsoft/pyright)
 + [BeePy](https://github.com/automvc/BeePy/)
 + [DearPyGui](https://github.com/hoffstadt/DearPyGui)
++ [bytewax](https://github.com/bytewax/bytewax)
 
 # json
 

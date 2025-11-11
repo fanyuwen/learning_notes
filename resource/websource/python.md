@@ -1246,3 +1246,4 @@
 + [用Python实在是太方便了，可读性太强了，写得也太快了](https://mp.weixin.qq.com/s/7v13huH_fsfua4ZJQP3UBw)
 + [为什么Python比C++运行速度慢却如此受欢迎？](https://mp.weixin.qq.com/s/_qD1ibk289aUqpMOMFg8-g)
 + [Rust：Python 性能优化的新引擎](https://mp.weixin.qq.com/s/KhohfgrUfLJ2vB8-hQzguQ)
++ [流处理的前世今生（二十）燃尽的数据之蜡 Bytewax](https://my.oschina.net/taogang/blog/18699081)

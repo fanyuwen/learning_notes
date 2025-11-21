@@ -50,7 +50,7 @@
 + 基于redis内存的分布式数据网格java库 [redisson](https://redisson.org/)
 + jvm网络应用框架 [netty](https://netty.io/) [mina](https://mina.apache.org) [grizzly](https://javaee.github.io/grizzly/) [coralreactor](https://www.coralblocks.com/index.php/category/coralreactor/)
 + java字节码操作库 [asm](https://asm.ow2.io/) [javassist](https://www.javassist.org/) [bytebuddy](https://bytebuddy.net/)
-+ java编译器检查 [checkerframework](https://checkerframework.org/)
++ java静态分析 [checkerframework](https://checkerframework.org/) [jspecify](https://jspecify.dev/)
 + 响应式数据库连接驱动库 [r2dbc](https://r2dbc.io/)
 + graphql的java实现 [graphql-java](https://www.graphql-java.com/)
 + java纯函数式编写库 [vavr](https://docs.vavr.io/)

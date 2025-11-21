@@ -241,6 +241,7 @@
 + [算法：手写快速排序（QuickSort）](https://mp.weixin.qq.com/s/kbcYyQqcpiuzBp1k91FGMQ)
 + [别再一味写 REST！Go 的事件驱动架构，才是真正的解耦神器](https://mp.weixin.qq.com/s/2IdBTvsito1pLqY_t4yaLw)
 + [面试题：为什么 time.After 可能导致内存泄漏？](https://mp.weixin.qq.com/s/Tz7j31U8EI2hRI3jLIPZQQ)
++ [Golang HTTP 请求超时与重试：构建高可靠网络请求｜得物技术](https://my.oschina.net/u/5783135/blog/18753416)
 
 # 面试题
 

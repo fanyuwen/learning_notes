@@ -7,7 +7,7 @@
 + 内存数据库 <font style='color:red'>*</font>[dragonfly](https://www.dragonflydb.io/) [redict(redis的分支)](https://redict.io) [garnet](https://microsoft.github.io/garnet/) [keydb](https://docs.keydb.dev) [memcached](http://memcached.org) [ignite](https://ignite.apache.org/) [gemfire](https://tanzu.vmware.com/gemfire) [valkey](https://valkey.io/)
 + 分布式内存数据网格 <font style='color:red'>*</font>[hazelcast](https://hazelcast.com/)
 + 文档数据库 <font style='color:red'>*</font>[mongodb](https://www.mongodb.com/) [couchdb](https://couchdb.apache.org/) [ferretdb](https://www.ferretdb.com/) <font style='color:red'>\*</font>[rethinkdb](https://rethinkdb.com/) <font style='color:red'>\*</font>[ravendb](https://ravendb.net/) <font style='color:red'>\*</font>[arangodb](https://arangodb.com/) [orientdb](https://orientdb.org/)
-+ 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/)
++ 键值对分布式存储 [etcd](https://etcd.io/) [tikv](https://tikv.org/) [kvrocks](https://kvrocks.apache.org/)
 + 流处理型数据库 [ksqlDB](https://ksqldb.io)
 + 小型快速(内嵌)数据库 <font style='color:red'>*</font>[sqlite](https://www.sqlite.org) [duckdb](https://duckdb.org/)
 + 小型内存数据库 [h2](http://www.h2database.com) [derby](https://db.apache.org/derby/)

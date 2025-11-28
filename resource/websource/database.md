@@ -473,6 +473,7 @@
 + [仅仅会用MySQL的EXPLAIN还不够，还需要会用EXPLAIN ANALYZE](https://mp.weixin.qq.com/s/Y52K3l8i0ZIKCoMWwo5G0g)
 + [面试官：MySQL 内存飙升，可能是什么原因？](https://mp.weixin.qq.com/s/9gGs9Ll9Gubj7cbEva1VfQ)
 + [千万级大表如何新增字段？别再直接 ALTER 了](https://mp.weixin.qq.com/s/Ms0jElTallDNwpSBbQuznw)
++ [3 个奇淫巧技，分库分表 LIMIT 翻页性能直接拉满！](https://mp.weixin.qq.com/s/HjTDx7KBzKd4jT_8v3c-qA)
 
 #### 存储引擎
 
@@ -689,6 +690,7 @@
 + [学习MySQL绕不开的两个基础概念：聚集索引与非聚集索引](https://mp.weixin.qq.com/s/VDskBru9f_FZ8dRNfJxiiQ)
 + [MySQL之进阶：一篇文章搞懂MySQL索引之B+树](https://mp.weixin.qq.com/s/UB2AS5h-On2HufI2rQ74eg)
 + [如何在MySQL中创建聚集索引？](https://mp.weixin.qq.com/s/LejGAACiSEkXICXzILW8rA)
++ [MySQL模糊查询再也用不着like+%了！](https://mp.weixin.qq.com/s/pWzkSXRKIzYr32YFhmzqIw)
 
 ### PostgreSQL
 
@@ -960,6 +962,7 @@
 + [面试官：Redis的事务满足原子性吗？](https://mp.weixin.qq.com/s/xDoUO4MCNeIYr-AOE6aWbg)
 + [真实案例解析缓存大热 key 的致命陷阱](https://my.oschina.net/u/4090830/blog/18697937)
 + [Redis key 消失之谜](https://my.oschina.net/vivotech/blog/18697912)
++ [为什么大厂都禁用 SET 存储用户？Redis避坑指南](https://mp.weixin.qq.com/s/_ge6tspqIdu8VwfU6lxu5Q)
 
 #### 原理
 

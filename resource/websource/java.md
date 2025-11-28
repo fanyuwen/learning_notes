@@ -118,6 +118,7 @@
 + [如何优雅地在Java代码中处理异常](https://mp.weixin.qq.com/s/ZvZsMXPy0AhD_xlbWfsEvw)
 + [学废了，我会这样优雅处理Java异常~](https://mp.weixin.qq.com/s/cR4QZ8vWOuJF_sLnKnOJvw)
 + [为什么不建议直接RuntimeException抛出！](https://mp.weixin.qq.com/s/ocZJcutHICMCKTvuzKSKIg)
++ [面试官：try catch 应该在 for 循环里面还是外面？](https://mp.weixin.qq.com/s/49WOG_KUpWhWmX5Nym1zrg)
 
 ### 枚举
 
@@ -1963,6 +1964,7 @@
 + [Maven常用命令合集，记得收藏！](https://mp.weixin.qq.com/s/mqrUtvIxQSoZBapuvYF0IA)
 + [maven(高级maven配置)](https://mp.weixin.qq.com/s/uq7hzEFJN0ZGftNvTMch6Q)
 + [maven专题-分析去除无用的依赖包](https://mp.weixin.qq.com/s/3in33vG7BxwAo6jlbo4dwA)
++ [告别 Jar 包地狱：快速解决 Maven 版本冲突指南](https://mp.weixin.qq.com/s/fDMjMinQj_YtX7LGcRaVmg)
 
 # 功能
 
@@ -2637,6 +2639,7 @@
 + [【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法](https://mp.weixin.qq.com/s/LQcfPunNmMPXlQ6znIWPbw)
 + [不重启也能注入 Bean？教你用 RegisterBeanService 动态注册 Spring Bean](https://mp.weixin.qq.com/s/XWWwAnB2ZJ4OXyFjVbKDkQ)
 + [java 代码审计 - SpEL 表达式注入](https://mp.weixin.qq.com/s/r5ePFjtkdeEg2OV8yX0p_A)
++ [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/V7niz1B1qk6pTFS3v1uw3Q)
 
 #### 原理&源码
 
@@ -3217,6 +3220,7 @@
 + [强大！Spring Boot 9个宝藏注解，提升你的代码水平](https://mp.weixin.qq.com/s/CPQhFTJk-pU7uW5j1J4SGg)
 + [别再守旧！Spring Boot 替代 @PostConstruct 和 @PreDestroy方案](https://mp.weixin.qq.com/s/t9sf89YzMlerGshLOLtgvA)
 + [SpringBoot 控制台秒变炫彩特效，秀翻同事指南！](https://mp.weixin.qq.com/s/N6XkVPHRN2-kqC_0ta4msw?click_id=2)
++ [SpringBoot 中常用的工具类库及其使用示例（完整版）](https://mp.weixin.qq.com/s/Le980yts2IUhoZqATUoL_w)
 
 ##### 高阶
 
@@ -3900,6 +3904,7 @@
 + [零侵入插件！Spring Boot 一键生成 8种格式API接口文档](https://mp.weixin.qq.com/s/B9pyyMlbODhm5B1SzfDwPQ?click_id=171)
 + [只会注解校验？Spring Boot 编程式验证应对各种复杂场景](https://mp.weixin.qq.com/s/mzKb4az7cMJh2xiI1iW3XQ)
 + [8种测试方法，让 Spring Boot 接口稳定性提升 200%](https://mp.weixin.qq.com/s/K4Pyzw42N9Dmdk86qcTpQg)
++ [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/nhN0eCtixqX9aPFghZ-3pg?click_id=39)
 
 ##### 文件上传下载
 
@@ -4029,6 +4034,8 @@
 + [Spring Boot Session 管理陷阱：分布式 Session、Redis 存储与过期策略](https://mp.weixin.qq.com/s/fC3XgcPmOjJkDVWsFW6UJQ)
 + [Spring Boot 掌握数据库访问5大核心技术，效率提升300%](https://mp.weixin.qq.com/s/JKvpT9ek5uekk4E14aBLGg)
 + [Spring Boot并发更新还在掉坑？这5种解决方案让你稳如老狗！](https://mp.weixin.qq.com/s/iowBzT863gozWkcTz7e4HQ)
++ [Spring Boot + JPA 强大的6个操作，性能和效率的提升](https://mp.weixin.qq.com/s/HqYsRLSgYSCwM38ac7DgrA)
++ [性能优化！Spring Boot使用强大的@EntityGraph优化查询](https://mp.weixin.qq.com/s/SUO-xejEvxERn7aBJz6KaQ)
 
 ##### TRANSACTION
 
@@ -4412,6 +4419,7 @@
 + [SpringBoot配置属性热更新的轻量级实现](https://mp.weixin.qq.com/s/Fu6Z0IOXCGGLqAa2EAxS3Q)
 + [Spring Boot 条件化配置与配置组：优雅管理复杂应用配置](https://mp.weixin.qq.com/s/ilQASw9Jv7lmwCIJA6JiGw)
 + [SpringBoot 容器镜像更新只要200k，你敢信？？？](https://mp.weixin.qq.com/s/6n-Yk-QUgKDBmDKA4dhd-Q)
++ [Spring Boot 配置文件9个隐藏功能，最后两个是真不知道啊](https://mp.weixin.qq.com/s/51i1mtlrZdYiS8BUIT4vaw)
 
 #### 集成三方
 
@@ -4556,6 +4564,7 @@
 + [查询优化！Spring Boot + Lucene 构建全文检索](https://mp.weixin.qq.com/s/EOhmcAdko3AxtsrDdSauKw?click_id=197)
 + [JAVA：Spring Boot 集成 Redis 实现延时队列](https://mp.weixin.qq.com/s/2V6ObBZ-g1F4xK_hILjb_A)
 + [JAVA：Spring Boot 集成 Kilim 协程实践](https://mp.weixin.qq.com/s/wrJhLj-MI5Pr6CWfJD7y_g)
++ [SpringBoot + Tesseract 异步 OCR：发票识别流水线深度解析](https://mp.weixin.qq.com/s/SZV7icGNHN97BtstFOkKTA)
 
 ##### excel
 
@@ -4832,6 +4841,8 @@
 + [JLink：构建轻量级 Java 运行时](https://mp.weixin.qq.com/s/Ui-Bufwu0GNqLo5py1Q9wg)
 + [强烈推荐可一款线上诊断Java程序的神器---JFR](https://mp.weixin.qq.com/s/3KZ-uo-KcUKD0IJJIh4BcA)
 + [太强了！Java开源Diff库，一行代码分析千行差异](https://mp.weixin.qq.com/s/G7I26-tcCs7rqvdz8OvcKQ)
++ [我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了！](https://mp.weixin.qq.com/s/uJtDSbqH6dsI0nd0fJJYnA)
++ [阿里又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/kfG_ZyjvtdPO_UoJsoxnzQ)
 
 # 其它环境
 

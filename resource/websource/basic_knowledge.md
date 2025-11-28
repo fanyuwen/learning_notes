@@ -207,6 +207,7 @@
 + [Linux Zero-Copy 技术深度分析](https://mp.weixin.qq.com/s/sSTpU7Tbo3AhvLzJeTMtXA)
 + [可执行文件是如何在Linux系统上跑起来的](https://mp.weixin.qq.com/s/M64f1iw_AnLXcwhPyTUvUw)
 + [Linux内核源码分析：sendfile和splice如何实现零拷贝](https://mp.weixin.qq.com/s/goVuu3-iXrgrkwbdx8EW1g)
++ [一文吃透Linux I/O缓冲机制：原理、类型与应用](https://mp.weixin.qq.com/s/ENrhmnQSNq8g8qC8UBwvPg)
 
 ### 网络
 

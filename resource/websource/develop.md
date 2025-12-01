@@ -367,6 +367,7 @@
 + [一致性协议Raft与Kafka中的KRaft](https://mp.weixin.qq.com/s/bQf-Zz8re6kVQCcmcB3Onw)
 + [常见一致性哈希算法简析](https://mp.weixin.qq.com/s/4uBOZDNsZN2h_Shslyiqyw)
 + [如何理解分布式领导者复制算法模型](https://mp.weixin.qq.com/s/Pv03ojb74FQrqOnJOSGmyQ)
++ [深入理解分布式共识算法 Raft](https://my.oschina.net/u/4090830/blog/18822556)
 
 # 组件设计
 

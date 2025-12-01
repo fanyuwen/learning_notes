@@ -521,6 +521,7 @@
 + [会用flatMap？瞧高手如何用它简化代码！](https://mp.weixin.qq.com/s/j4Na8LNqcuDo48qqiQF9Aw)
 + [Function 与反射强强联合的高级用法总结](https://mp.weixin.qq.com/s/Z3g-EQxFIa2bKyKVi-x4EQ)
 + [优化 if/else 的四种设计模式](https://my.oschina.net/makemyownlife/blog/18693892)
++ [Java进阶：用这15个特性，1行顶100行基础代码](https://mp.weixin.qq.com/s/z3y8JzBK9sePsWJ3sWcaRA)
 
 ## 代码质量
 
@@ -947,6 +948,7 @@
 + [技术面：Java并发（线程同步、死锁、多线程编排）](https://mp.weixin.qq.com/s/IhmI6dFIrM-kd4XpUVdcgA)
 + [无锁编程基础：Sequential Consistency是什么？Lamport 1979 论文精读](https://mp.weixin.qq.com/s/RcjHwAhBV6vKO4SfZGyLCA)
 + [技术面：Java并发（上下文切换、线程安全、并发与并行、守护线程、虚拟线程）](https://mp.weixin.qq.com/s/3ScqleFqCjzqFfyR1BSNNA)
++ [Java多线程高效通信：掌握这八种方法就够了](https://mp.weixin.qq.com/s/BqDIhGylk5O4dZb34ibxEg)
 
 #### CAS
 
@@ -2782,6 +2784,7 @@
 + [【Spring WebFlux】二、为什么 Spring 要拥抱响应式](https://mp.weixin.qq.com/s/3Jy-tCerQgTA5zHicb-rig)
 + [从拦截器到跨域：WebMvcConfigurer的10个高频配置场景](https://mp.weixin.qq.com/s/9GNPgAUN7Oi4ztrM6zgLwQ)
 + [啪啪打脸，ResponseEntity这个轮子不好用，还需要封装一下，把HTTP状态码和业务状态码区分开来](https://mp.weixin.qq.com/s/pDdSCxsQeq-J80yqi4-Gxg)
++ [强大！Spring非常实用的内置类专门处理Rest API异常](https://mp.weixin.qq.com/s/9yc2wgKo90dmIVj35yndRg)
 
 #### doc
 
@@ -3369,6 +3372,7 @@
 + [Spring Boot 10个超实用扩展点，让你的项目效率飙升](https://mp.weixin.qq.com/s/SSY2t9GnFNHkwj3jpaWPFQ)
 + [SpringBoot实现隐式参数注入](https://mp.weixin.qq.com/s/0PXctU_YEoNA5deOi1zmzQ)
 + [天呐！Spring Boot 中一个类，竟藏着 4 个强大核心功能](https://mp.weixin.qq.com/s/kKj9GoZNbuY4Nm6dpQzbRQ)
++ [SpringBoot中这10个神仙功能，惊艳到我了！](https://mp.weixin.qq.com/s/RKAXpx-RYzHfm_NK91km3g)
 
 ##### 原理
 
@@ -3927,6 +3931,8 @@
 + [8种测试方法，让 Spring Boot 接口稳定性提升 200%](https://mp.weixin.qq.com/s/K4Pyzw42N9Dmdk86qcTpQg)
 + [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/nhN0eCtixqX9aPFghZ-3pg)
 + [Spring Boot玩转JSON！解锁Jackson的8大高阶技能，太强了](https://mp.weixin.qq.com/s/ab8sioYAXExf0itnoWRqXw)
++ [字段权限！Spring Boot 最简单的控制方式](https://mp.weixin.qq.com/s/FMqUPz5drLEHiTrS6xmIaw)
++ [Spring Boot 二进制数据传输：从内存优化到流式处理与断点续传](https://mp.weixin.qq.com/s/2KMc3SMu6KX0mCWryzgkEA)
 
 ##### 文件上传下载
 
@@ -3958,6 +3964,7 @@
 + [告别卡顿！SpringBoot 大文件上传最佳实践：分片+并发+秒传全搞定](https://mp.weixin.qq.com/s/g7l8Ih5uy0dB4zPHh_fNOA)
 + [全栈开发！Spring Boot 文件下载的N种神级姿势](https://mp.weixin.qq.com/s/3xz_nc9ApRp2oCssfPUeSQ)
 + [生产大文件下载导致 OOM，顺藤摸瓜拿下](https://mp.weixin.qq.com/s/Lr-36voq06IvzPA1D34Mmg)
++ [SpringBoot大文件上传卡死？分块切割术搞定GB级传输，速度飙升！](https://mp.weixin.qq.com/s/p2Df1HGIw6sw6mHa48NDVg)
 
 ##### VUE
 
@@ -4350,6 +4357,7 @@
 + [SpringBoot事件驱动：观察者模式实战，让系统解耦如鱼得水！](https://mp.weixin.qq.com/s/73huoxrrd3NJs74jATzL2g)
 + [Spring Boot 使用策略模式 + 注册表模式构建动态规则引擎](https://mp.weixin.qq.com/s/ATUxzl9IHI7LNdypyoGO2g)
 + [Spring Boot中策略模式结合依赖注入的实现方式](https://mp.weixin.qq.com/s/CyRGlIMcdB9LuLVCc5S8ig)
++ [SpringBoot + Facade Pattern : 通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/26dZiAMPPkGI-U16Z4nnUA)
 
 #### message
 
@@ -4875,6 +4883,8 @@
 + [我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了！](https://mp.weixin.qq.com/s/uJtDSbqH6dsI0nd0fJJYnA)
 + [阿里又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/kfG_ZyjvtdPO_UoJsoxnzQ)
 + [工作中最常用的6种API网关](https://mp.weixin.qq.com/s/UyWYyanpPpfMBQF3-BoB5w)
++ [我用 Java 把二维码玩出花了](https://mp.weixin.qq.com/s/x_KT7a2x0RDL2djJBip6MQ)
++ [手动造数据OUT了！用DataFaker生成百万级真实感演示数据](https://mp.weixin.qq.com/s/8U-CpFPGoSDaB9oP6kD4qQ)
 
 # 其它环境
 

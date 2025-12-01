@@ -49,6 +49,7 @@
 + [Jenkins + Docker 一键自动化部署 SpringBoot 应用最精简流程](https://mp.weixin.qq.com/s/q307NYbC-QmgMHzLbOD3Eg)
 + [CI/CD 领域的奠基者--Jenkins](https://mp.weixin.qq.com/s/4_0TPYNRVmwcLNXnf6_QAA)
 + [全网最全的 Jenkins + Maven + Git 自动化部署指南！](https://mp.weixin.qq.com/s/ieds7Lxvj0sqgcsUa7L7NA)
++ [还在手动发包？全网最全的 Jenkins + Maven + Git 自动化部署指南！](https://mp.weixin.qq.com/s/NUwNYOGBs_tmCHFFTBA3Lw)
 
 ## istio
 

@@ -83,3 +83,4 @@
 + [B 站 KMP on iOS 深度工程化实践，目标直指超越原生的开发体验！｜社区分享](https://mp.weixin.qq.com/s/6mrcGl0TLTWDxtNPs0NULg)
 + [Kotlin Multiplatform 与 Compose Multiplatform 后续计划 | 官方博客](https://mp.weixin.qq.com/s/BIyyoCPuvFR27u8KXQ9Idw)
 + [在实际项目中评估 Kotlin | 《Java 转 Kotlin 终极指南》第 2 期](https://mp.weixin.qq.com/s/Qi70-g5H3J6TGi5mZBadUA)
++ [面向 Java 开发者的 Kotlin 使用入门 | 《Java 转 Kotlin 终极指南》第 1 期](https://mp.weixin.qq.com/s/66m6kenRik5F0FjSKFtrXg)

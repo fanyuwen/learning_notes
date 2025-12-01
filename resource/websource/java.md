@@ -177,6 +177,7 @@
 + [140. Java 泛型 - Java 泛型类型的擦除](https://mp.weixin.qq.com/s/o0uKGfpbRvH51AcU5lzVYA)
 + [141. Java 泛型 - Java 泛型方法的类型擦除](https://mp.weixin.qq.com/s/mMuWsFyD5w-i4kuBGvq7uA)
 + [126. Java 泛型 - 泛型、继承与子类型](https://mp.weixin.qq.com/s/D87zM3NHiZ-7P2WVgBIPdg)
++ [Java泛型：T、E、K、V、?，你还在傻傻分不清？](https://mp.weixin.qq.com/s/5K99-5m_1EGE-mTPiAUbrw)
 
 ### 面向对象
 
@@ -301,6 +302,7 @@
 + [升级 JDK 17 碰到的请求 https 问题](https://mp.weixin.qq.com/s/MFkjAtSl3ttyCm3CN_DdXA)
 + [Java 新语法 Switch Pattern Matching，提升代码逼格的神器](https://mp.weixin.qq.com/s/7rf-59vwQbm-K9csK_4HnQ)
 + [Java25 的新特性](https://my.oschina.net/go4it/blog/18692176)
++ [别再用ThreadLocal了，ScopedValue更香！](https://mp.weixin.qq.com/s/6cp6Aipgs41K8x8TbpX9Jw)
 
 ## 高级用法
 
@@ -1027,6 +1029,7 @@
 + [面试官问：线程池拒绝策略怎么选，才不会丢任务？](https://mp.weixin.qq.com/s/JJooibFss6O_TgCt6boNxA)
 + [面试官问：线程池核心线程预热怎么玩？为什么prestartAllCoreThreads 有时不如手动提交空任务？](https://mp.weixin.qq.com/s/6_BykZismutmaD3P353XDQ)
 + [线程池 ThreadPoolExecutor 源码深度解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695444)
++ [QPS 10 万，任务接口耗时 100ms，线程池如何优化？](https://mp.weixin.qq.com/s/lrEH9MFaRyJo5vMXNTF72w)
 
 #### 锁
 
@@ -1526,6 +1529,7 @@
 + [Java Stream findFirst方法的空指针陷阱详解](https://mp.weixin.qq.com/s/GADk8E2xUhAqARlWtilTKg)
 + [Java Stream流：告别for循环，开启高效编程！](https://mp.weixin.qq.com/s/oFRY51cUjgIa2nig_oB1VA)
 + [Java Stream筛选后修改对象，原始列表跟着变？](https://mp.weixin.qq.com/s/AA70SY7tmiP7Vce09oXZrg)
++ [太强了！开源Java并行收集器，秒杀标准并行流](https://mp.weixin.qq.com/s/b0foLFukr7JlUXHXQ9jPeg)
 
 ### Date/time
 
@@ -2184,6 +2188,7 @@
 + [Lombok，一个Java代码简化的魔法师！](https://mp.weixin.qq.com/s/cGvLXfXan6O7bEJ9NdCrNQ)
 + [盘点Lombok的几个骚操作](https://mp.weixin.qq.com/s/K6dx7kPGv4u8BEbD0ykbAA)
 + [告别冗余代码！Lombok注解如何让Java开发效率飙升300%？](https://mp.weixin.qq.com/s/5ozzuMtrvKNvvvd0HcM6_g)
++ [Lombok 造成的翻车事故，太坑了！](https://mp.weixin.qq.com/s/78Sz-xrrI1sm8zoUaqiJWQ)
 
 ## mapstruct
 
@@ -2972,6 +2977,8 @@
 + [Spring事件监听机制深度解析：registerListeners源码揭秘](https://mp.weixin.qq.com/s/N4oUAAV8sJnuWJ-ezhF0Qg)
 + [Spring事件](https://mp.weixin.qq.com/s/FxtQAxeflH0jk_qcNi_t-w)
 + [Spring事件派发机制详解：从同步到异步的全面实践](https://mp.weixin.qq.com/s/qCPAFhi_0qF3grmFNdD0BA)
++ [Spring Event，贼好用的业务解耦神器！](https://mp.weixin.qq.com/s/SdOqeVaE3mrpqVCjCw_9Kw)
++ [Spring Event 别瞎用！被它坑的绩效都没了！](https://mp.weixin.qq.com/s/XdpwTTJdlmV70l2oRu1_0g)
 
 ### AOP
 
@@ -3919,6 +3926,7 @@
 + [只会注解校验？Spring Boot 编程式验证应对各种复杂场景](https://mp.weixin.qq.com/s/mzKb4az7cMJh2xiI1iW3XQ)
 + [8种测试方法，让 Spring Boot 接口稳定性提升 200%](https://mp.weixin.qq.com/s/K4Pyzw42N9Dmdk86qcTpQg)
 + [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/nhN0eCtixqX9aPFghZ-3pg)
++ [Spring Boot玩转JSON！解锁Jackson的8大高阶技能，太强了](https://mp.weixin.qq.com/s/ab8sioYAXExf0itnoWRqXw)
 
 ##### 文件上传下载
 
@@ -4051,6 +4059,7 @@
 + [Spring Boot + JPA 强大的6个操作，性能和效率的提升](https://mp.weixin.qq.com/s/HqYsRLSgYSCwM38ac7DgrA)
 + [性能优化！Spring Boot使用强大的@EntityGraph优化查询](https://mp.weixin.qq.com/s/SUO-xejEvxERn7aBJz6KaQ)
 + [请不要手动设置！Spring Boot + JPA 数据追踪一个注解搞定](https://mp.weixin.qq.com/s/ZDGGWPXrBOLZRwsw0axqnQ)
++ [惊呆了！Spring Boot 调试执行 SQL 的12个强大技巧](https://mp.weixin.qq.com/s/rDc_CRYbaIf1IcleCq5xfA)
 
 ##### TRANSACTION
 
@@ -4153,6 +4162,7 @@
 + [Java进阶手册（二十八）SpringBoot中异步请求与虚拟线程详细分析](https://mp.weixin.qq.com/s/RzBdjkmltIH7QiWOVcgl9g)
 + [Java进阶手册（二十五）SpringBoot中利用悲观锁来解决高并发场景下的数据一致性问题](https://mp.weixin.qq.com/s/peHJQJL8L_gJNencmdPKMQ)
 + [Spring Boot 动态线程池实战方案大公开！](https://mp.weixin.qq.com/s/dtZ02ip40udoFHPfeGF8lQ)
++ [SpringBoot 时间轮实现延时任务](https://mp.weixin.qq.com/s/0L5MvZcT0nEwK4XRD1F7sw)
 
 ##### Disruptor
 
@@ -4584,6 +4594,8 @@
 + [SpringBoot + Tesseract 异步 OCR：发票识别流水线深度解析](https://mp.weixin.qq.com/s/SZV7icGNHN97BtstFOkKTA)
 + [SpringBoot+Tess4j:轻松实现OCR功能](https://mp.weixin.qq.com/s/nBBCZG5O-nT8sG6vZlQ1mw)
 + [SpringBoot实现电子文件签字+盖章系统](https://mp.weixin.qq.com/s/pFecNGCajeJksN1xnBn5Ug)
++ [JAVA：Spring Boot 集成 DeepLearning4J 构建企业级深度学习](https://mp.weixin.qq.com/s/gv16uDxE05902Oxh6BiIEQ)
++ [Spring Boot 一行代码生成各种复杂的Word文档](https://mp.weixin.qq.com/s/rg9NsyGPEpMFdIMW6YVNrQ)
 
 ##### excel
 

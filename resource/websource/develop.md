@@ -97,6 +97,7 @@
 + [多租户技术架构详解](https://mp.weixin.qq.com/s/lEuKwDHwhcsJ0OTSZdHEUQ)
 + [事件驱动架构新范式：FastEvent 让领域事件开发变得优雅](https://mp.weixin.qq.com/s/H_HrAazS-kyOqXfsLPMnoA)
 + [架构必知：9大主流架构](https://mp.weixin.qq.com/s/7EfaulpbxXc9mwieSx1_Bg)
++ [架构必知：微服务架构（附架构图）](https://mp.weixin.qq.com/s/7zvocjMNVB2qx2kn2mrlCw)
 
 ### DDD
 

@@ -963,6 +963,7 @@
 + [真实案例解析缓存大热 key 的致命陷阱](https://my.oschina.net/u/4090830/blog/18697937)
 + [Redis key 消失之谜](https://my.oschina.net/vivotech/blog/18697912)
 + [为什么大厂都禁用 SET 存储用户？Redis避坑指南](https://mp.weixin.qq.com/s/_ge6tspqIdu8VwfU6lxu5Q)
++ [得物面试：Redis 内存碎片是什么？如何清理？](https://mp.weixin.qq.com/s/Fj92SrvvFcUQxRi8mSKGvQ)
 
 #### 原理
 

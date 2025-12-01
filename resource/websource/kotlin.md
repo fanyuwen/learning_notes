@@ -82,3 +82,4 @@
 + [KoinBoot：解决 Koin 实际使用中的痛点 | 社区分享](https://mp.weixin.qq.com/s/xU1qYRqlkGKwJqajbwz5rg)
 + [B 站 KMP on iOS 深度工程化实践，目标直指超越原生的开发体验！｜社区分享](https://mp.weixin.qq.com/s/6mrcGl0TLTWDxtNPs0NULg)
 + [Kotlin Multiplatform 与 Compose Multiplatform 后续计划 | 官方博客](https://mp.weixin.qq.com/s/BIyyoCPuvFR27u8KXQ9Idw)
++ [在实际项目中评估 Kotlin | 《Java 转 Kotlin 终极指南》第 2 期](https://mp.weixin.qq.com/s/Qi70-g5H3J6TGi5mZBadUA)

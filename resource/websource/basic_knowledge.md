@@ -595,6 +595,7 @@
 + [HTTP，HTTPS协议介绍和区别](https://mp.weixin.qq.com/s/btJuG2xh0yDITwW9Damn5A)
 + [https是如何加密的](https://mp.weixin.qq.com/s/d742Gx_Oe4j086bwVftOQg)
 + [HTTPS行为大赏：三分钟了解加密过程](https://mp.weixin.qq.com/s/vBtT6o9IZW3fblEnr7USfQ)
++ [京东一面：为什么HTTP的第一次调用会很慢？](https://mp.weixin.qq.com/s/8YXRwxZXsnC8gC3DYQib1Q)
 
 #### CORS
 

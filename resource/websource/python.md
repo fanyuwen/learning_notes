@@ -371,9 +371,9 @@
 + [Python内置模块：zlib --- 与 gzip 兼容的压缩详解](https://mp.weixin.qq.com/s/NZuj-NZ390c37hdUvdjKMw)
 + [Python高手秘笈第2天：typing的Union，把“多选一”玩出花来](https://mp.weixin.qq.com/s/hbvP75hIRs_5eZtGxkgXGA)
 + [Python内置类型：集合编程指南](https://mp.weixin.qq.com/s/gYM_sP3creulCAfBlC6bIA)
-+ [Python内置模块：tomllib --- 解析 TOML 文件详解](https://mp.weixin.qq.com/s/sbksidync4BBgaIe921E1Q?click_id=30)
++ [Python内置模块：tomllib --- 解析 TOML 文件详解](https://mp.weixin.qq.com/s/sbksidync4BBgaIe921E1Q)
 + [Python神器 itertools 模块的72变魔法！（超实用场景）](https://mp.weixin.qq.com/s/7Rq7MLfga9RIth7IMjKCaQ)
-+ [Python内置模块zipfile：操作 ZIP 归档文件详解](https://mp.weixin.qq.com/s/xZZ46z1R36__HtwqWSvV3w?click_id=54)
++ [Python内置模块zipfile：操作 ZIP 归档文件详解](https://mp.weixin.qq.com/s/xZZ46z1R36__HtwqWSvV3w)
 + [《零基础Python成长日记》第5篇：调用Python函数和模块](https://mp.weixin.qq.com/s/5Yme7lpYPUk307iotyTchQ)
 + [探讨list与tuple的区别](https://mp.weixin.qq.com/s/QyFLiWVoDocIw4mmkQjNvg)
 

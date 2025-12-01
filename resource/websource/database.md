@@ -1056,7 +1056,7 @@
 + [浅入浅出分布式锁（Redis）的所有细节](https://mp.weixin.qq.com/s/fluxu3rsu4cy4mbzk41QfA)
 + [深入剖析Redis分布式锁：原理、场景与最佳实践](https://mp.weixin.qq.com/s/pUi2qFhlRI5s_DN-Xp4cUw)
 + [无需Redis分布式锁，8种方案搞定用户重复提交](https://mp.weixin.qq.com/s/aU8KVF5ALS6JexezLDc16A)
-+ [美团一面：Redis 是如何实现分布式锁的](https://mp.weixin.qq.com/s/XMGZxkv_dFrXiyrGOchy_Q?click_id=37)
++ [美团一面：Redis 是如何实现分布式锁的](https://mp.weixin.qq.com/s/XMGZxkv_dFrXiyrGOchy_Q)
 + [Redis 分布式锁的 5个坑，真是又大又深！](https://mp.weixin.qq.com/s/6cR3Zg_o60gUXAtKNNJ4bg)
 
 #### 缓存
@@ -1074,7 +1074,7 @@
 + [一文搞懂 Redis 缓存三大 “坑”：穿透、击穿、雪崩](https://mp.weixin.qq.com/s/hBwKlUyatI-zsQxeiKSniw)
 + [深入解析 Redis 的 LRU 与 LFU 算法实现](https://my.oschina.net/vivotech/blog/10086708)
 + [字节二面：Redis缓存预热，该如何实现？](https://mp.weixin.qq.com/s/WquDILnPSisjHI4JYF2rjA)
-+ [字节二面：Redis缓存预热，该如何实现？](https://mp.weixin.qq.com/s/DOh9xHeSKETxqHfS9yUvMA?click_id=176)
++ [字节二面：Redis缓存预热，该如何实现？](https://mp.weixin.qq.com/s/DOh9xHeSKETxqHfS9yUvMA)
 
 #### 限流
 
@@ -1150,6 +1150,7 @@
 
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)
 + [Minio + Docker 搭建属于自己的OSS存储服务](https://mp.weixin.qq.com/s/xJycS370psuQo-04E5wimQ)
++ [MinIO 不再“开放”，RustFS 能否成为更优选择？](https://mp.weixin.qq.com/s/FN_Vw4nPT1U-jRKIGFu0rw)
 
 ### HDFS
 

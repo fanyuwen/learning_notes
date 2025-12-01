@@ -77,6 +77,7 @@
 + [从频繁告警到平稳发布：服务冷启动 CPU 风暴优化实践](https://my.oschina.net/vivotech/blog/18685693)
 + [加工进化论：SPL 一键加速日志转指标](https://my.oschina.net/u/3874284/blog/18684358)
 + [你们公司项目的 QPS 是怎么统计出来的？这 5 种常见方法我踩过一半的坑！](https://mp.weixin.qq.com/s/etlYkMGnM9MV5xEIE96R5w)
++ [5种接口频率监控方案实战对比，性能、成本、复杂度全解析！](https://mp.weixin.qq.com/s/QR_04zpWXHFKwbWUWlR_SQ)
 
 ## 问题排查
 

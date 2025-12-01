@@ -111,6 +111,7 @@
 + [慢 SQL 优化实战：从一例线上慢 SQL 探究执行引擎工作过程](https://my.oschina.net/vivotech/blog/18687291)
 + [MySQL中的数据去重，该用DISTINCT还是GROUP BY？](https://mp.weixin.qq.com/s/VF0ZHRm1_ut2M2Go478e4w)
 + [8种专坑同事的SQL写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/OGrezglmBuvmYjJh6pcLLQ)
++ [8种专坑同事 SQL 写法，性能降低100倍，不来坑一下？](https://mp.weixin.qq.com/s/fl5pxZ3Rew2P4ZlCafBnYg)
 
 # 本地数据库
 

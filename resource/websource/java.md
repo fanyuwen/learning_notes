@@ -617,6 +617,7 @@
 + [领导：集合删元素，谁再直接用remove，走人](https://mp.weixin.qq.com/s/l6rIycJ36DlvvAYb7qb7eA)
 + [丢人！被小小的String.valueOf(...)坑了](https://mp.weixin.qq.com/s/q56HXibo5CvS2TA5YpubZA)
 + [遍历集合时修改元素报错？这六种方法请收好](https://mp.weixin.qq.com/s/QFn_tzZ5l0TXKCN2Z3YZeA)
++ [太强了！30个优化Java代码的技巧](https://mp.weixin.qq.com/s/gzrTxH0rSwL4-ayj2pIIIQ)
 
 # 底层
 
@@ -1133,6 +1134,7 @@
 + [独占锁 vs 读写锁：如何在并发编程中做出正确选择](https://mp.weixin.qq.com/s/evBmYMaAq-_GlSWVR1T8NA)
 + [深入理解 Java 并发的半壁江山： AQS](https://mp.weixin.qq.com/s/fHz7HarJLBfwU5_Ax3U0BQ)
 + [锁升级到底能不能 “退烧”？synchronized 释放后状态解析](https://my.oschina.net/u/9493576/blog/18693710)
++ [别再只会synchronized！Java 4大高级锁全解析](https://mp.weixin.qq.com/s/FeBFOarqjCI12XS-BN4tNw)
 
 #### volatile
 
@@ -1533,6 +1535,7 @@
 + [Java Stream流：告别for循环，开启高效编程！](https://mp.weixin.qq.com/s/oFRY51cUjgIa2nig_oB1VA)
 + [Java Stream筛选后修改对象，原始列表跟着变？](https://mp.weixin.qq.com/s/AA70SY7tmiP7Vce09oXZrg)
 + [太强了！开源Java并行收集器，秒杀标准并行流](https://mp.weixin.qq.com/s/b0foLFukr7JlUXHXQ9jPeg)
++ [只会用map()和filter()？揭秘Java Stream 8大隐藏特性](https://mp.weixin.qq.com/s/Yv34e7kZr_WpNGrNXzcUVQ)
 
 ### Date/time
 
@@ -2038,6 +2041,7 @@
 + [学会 arthas，让你 3 年经验掌握 5 年功力！](https://mp.weixin.qq.com/s/JMTaOpzoj_7cNzPRKty6pQ)
 + [Arthas在内存马查杀中的应用](https://mp.weixin.qq.com/s/SFG1Ekla_70FjDUuZdKdyg)
 + [线上问题定位神器：Arthas](https://mp.weixin.qq.com/s/3nVS3Fxd5A-TAwMmQ4ziSg)
++ [实战！Arthas 定位 接口的超时问题，直接起飞！](https://mp.weixin.qq.com/s/BBfAGYE4POgxH1bV0OKg9A)
 
 ## caffeine
 
@@ -2436,6 +2440,7 @@
 
 + [微服务框架之争：Quarkus 是 SpringBoot 的替代品吗？](https://mp.weixin.qq.com/s/6XqfoTPpDSprfPYdVHmRPw)
 + [0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/kWQUQXdLWwcIfxsVnRTxbA)
++ [换掉SpringBoot？0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/Ugj2hhUHBK1jeSFe6eIAHQ)
 + [换掉SpringBoot？0.0015 秒内启动一个应用，这个框架可以封神了！](https://mp.weixin.qq.com/s/joQcv60Er_FFIRyrSYVaxg)
 + [Spring Boot 称霸时代要结束了？Quarkus 在云原生领域强势崛起](https://mp.weixin.qq.com/s/9dZ0XZXz_1KTVgENAOcEgg)
 
@@ -3381,6 +3386,7 @@
 + [天呐！Spring Boot 中一个类，竟藏着 4 个强大核心功能](https://mp.weixin.qq.com/s/kKj9GoZNbuY4Nm6dpQzbRQ)
 + [SpringBoot中这10个神仙功能，惊艳到我了！](https://mp.weixin.qq.com/s/RKAXpx-RYzHfm_NK91km3g)
 + [告别手动合并！Spring Boot 2个注解自动实现部分更新](https://mp.weixin.qq.com/s/aI4FMe_FiDsgQKaH8D6bEw)
++ [SpringBoot启动优化7板斧：砍掉70%启动时间的魔鬼实践](https://mp.weixin.qq.com/s/B1qwXIHjac5HucFvz5nppg)
 
 ##### 原理
 
@@ -3946,6 +3952,10 @@
 + [别再用 toString() 了！Spring Boot + Jackson 处理枚举的7种方式](https://mp.weixin.qq.com/s/wvr60Lk1RGfblPWffmIaDQ)
 + [Spring Boot 处理JSON的6大强悍功能](https://mp.weixin.qq.com/s/zjGQYH7nVi7ugAkEbn3hDQ)
 + [Spring Boot+JWT黑名单：5分钟搞定Token撤销](https://mp.weixin.qq.com/s/FTwxQkOkb4ZSLCH88ufr2Q)
++ [SpringBoot 3 + WebSocket 搞定集群会话 & Token 认证](https://mp.weixin.qq.com/s/_N6Z3fdOkx2xbt2DECoAKw)
++ [Spring Boot 全面升级 @HttpExchange 强的离谱](https://mp.weixin.qq.com/s/sHs9J6r8mxkvuH1I15W2qA)
++ [Spring Boot JSON 响应优化：6 个关键技巧全解析](https://mp.weixin.qq.com/s/v832x9osfEQuWtyujCtyRw)
++ [动态JSON怎么处理？Spring Boot 5种强大的处理方式](https://mp.weixin.qq.com/s/T_DGFeQzb5IFrNGdRss0Cg)
 
 ##### 文件上传下载
 
@@ -4082,6 +4092,9 @@
 + [惊呆了！Spring Boot 调试执行 SQL 的12个强大技巧](https://mp.weixin.qq.com/s/rDc_CRYbaIf1IcleCq5xfA)
 + [告别SQL查询烦恼！Spring Boot 强大的6种 查询模式](https://mp.weixin.qq.com/s/CPcwHEhdJypWMg91VigX7g)
 + [JAVA：Spring Boot3 集成 JdbcClient 实现数据访问](https://mp.weixin.qq.com/s/7uyoFYvjWWWEjbhLcVzLyA)
++ [Spring Boot 强大的 @Sql 注解](https://mp.weixin.qq.com/s/Iwt2J313GgODC5fH2IHb2w)
++ [强大！Spring Boot 使用强大的@Formula注解简化查询](https://mp.weixin.qq.com/s/f2v4cUPv53Lm1U1wqDG_Rw)
++ [只会用JPA中的save方法？Spring Boot 中隐藏的10个强大方法](https://mp.weixin.qq.com/s/4IegW7-uCrjod1wF85k4pw)
 
 ##### TRANSACTION
 
@@ -4623,6 +4636,9 @@
 + [Spring Boot 一行代码生成各种复杂的Word文档](https://mp.weixin.qq.com/s/rg9NsyGPEpMFdIMW6YVNrQ)
 + [SpringBoot实战：手把手打造高安全性图形验证码（防爬防刷利器）](https://mp.weixin.qq.com/s/GX_oJ5gbXcnHYXdEol4izQ)
 + [SpringBoot 3.x 集成 Flowable 7.x：流程设计、部署、启动及完成实战](https://mp.weixin.qq.com/s/Y0Y6YqI4m31PEXO0xdvZ4g)
++ [JAVA：Spring Boot 集成 Quartz 实现分布式任务](https://mp.weixin.qq.com/s/SNnZV7iSCfgDi5GBt2EJnw)
++ [5分钟搞定！SpringBoot 图片验证码集成实战指南](https://mp.weixin.qq.com/s/E7yMTRVjxAwL-R7VBEFy8w)
++ [JAVA：Spring Boot 集成 Renren-Generator 代码生成器](https://mp.weixin.qq.com/s/SKfaoQ5fs7NlV7N-iJelQA)
 
 ##### excel
 

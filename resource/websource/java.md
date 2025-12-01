@@ -1238,6 +1238,7 @@
 + [JVM 本地内存跟踪（Native Memory Tracking in JVM）](https://mp.weixin.qq.com/s/01ikS_jl0pmMOraVXLnHDA)
 + [深入理解JVM字节码：invokedynamic](https://mp.weixin.qq.com/s/KkvFjDPkjIvDyKvSLGb6TA)
 + [提升Java开发效率的秘密武器：Jadx反编译工具详解](https://mp.weixin.qq.com/s/bNen1CHMfhi75E8m7NcdJw)
++ [JAVA：JVM 常见面试题的技术指南](https://mp.weixin.qq.com/s/vyzsPEcTHl9d2dHE_hSIgA)
 
 ### 命令
 
@@ -1546,6 +1547,7 @@
 + [从Date到LocalDateTime的优雅迁移！](https://mp.weixin.qq.com/s/52WzcIOtP6CY9f3yeSaEAw)
 + [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/GkmLdk2YSmimbnv64Yxdxw)
 + [SimpleDateFormat 线程安全问题修复方案 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10098343)
++ [还在头疼 Java 日期处理？新旧API全解析](https://mp.weixin.qq.com/s/pnR4gVrY4gCn8h9bGFvKQw)
 
 ### Collection/Map
 
@@ -1701,6 +1703,7 @@
 + [Function 与 CompletableFuture 的组合使用指南](https://mp.weixin.qq.com/s/Ir0ZC9WZ6nQVjK0HChP1-g)
 + [并发江湖的终极武器：CompletableFuture 中篇](https://mp.weixin.qq.com/s/15RQ2jEtNB_V5EfHr2-9cA)
 + [CompletableFuture 在高并发导出场景中的优化实践](https://mp.weixin.qq.com/s/9UK-tv4ZVenPObBsv_ejvg)
++ [30+个 CompletableFuture 高频场景案例，让你的系统性能飙升300%](https://mp.weixin.qq.com/s/04yhF4DqamdbnKPTQf8M_g)
 
 ### ThreadPool
 
@@ -1939,6 +1942,7 @@
 + [Java SPI实现开闭原则](https://mp.weixin.qq.com/s/LLTa017SC8zXFZjAFZy1oA)
 + [面试官必问：CGLIB 动态代理原理，从底层逻辑到面试应答全梳理](https://mp.weixin.qq.com/s/IMoH83vPENgjfaW2Wf_j_A)
 + [一文吃透 Java JDK 动态代理：从原理到实战案例](https://mp.weixin.qq.com/s/qvRPlAsS_G4iYPhmyZBo4g)
++ [手把手教你实现一个Java Agent](https://mp.weixin.qq.com/s/Gakoa_UCr8J7XEA0Hf_zng)
 
 # 包管理工具
 
@@ -2855,6 +2859,7 @@
 + [非Spring环境下怎么使用RedisTemplate](https://mp.weixin.qq.com/s/7kTuzzjQy1OcXoKRIUnmBg)
 + [为什么要用JdbcTemplate](https://mp.weixin.qq.com/s/78NVs9AAK_owTyIYjy1Hdw)
 + [Java+RedisTemplate：解锁高阶玩法，从缓存到分布式锁](https://mp.weixin.qq.com/s/zPisR4k74BzuvkBUXFKVHg)
++ [JAVA：Spring Boot 集成 PostgreSQL 数据库实现数据访问](https://mp.weixin.qq.com/s/MegaInSpergvW730Vq8PVw)
 
 #### BATCH
 
@@ -2963,6 +2968,7 @@
 + [告别繁琐！Spring Cache 让缓存实现如此优雅](https://mp.weixin.qq.com/s/yGUjpDKoGvwvqZ6SQbThgQ)
 + [多级缓存架构：新品咖啡上线引发的数据库压力风暴与高并发实战化解方案](https://mp.weixin.qq.com/s/1ulTGM4Oz6-24eTQv10o8w)
 + [Redis缓存三灾：穿透/击穿/雪崩全解析+Spring Boot实战避坑指南](https://mp.weixin.qq.com/s/Tc9htnqjl-_Tbl_Rl2mPig)
++ [性能提升100%！零改造，Spring Cache支持多级缓存](https://mp.weixin.qq.com/s/7n7MGyMzdXRYn7eEuBdN4g)
 
 ### EVENT
 
@@ -3183,6 +3189,7 @@
 + [Spring Cloud Gateway，这一篇就够了](https://mp.weixin.qq.com/s/verCCwiLxM_oND0vKlPhGw)
 + [Spring Cloud Gateway，这一篇就够了](https://mp.weixin.qq.com/s/EAR7d8hUEpQ-4UGbZ0wZTQ)
 + [面试问你有Spring Cloud Gateway了，为什么还要Nginx？](https://mp.weixin.qq.com/s/yLQC3Kr6zIooH230m8oUwA)
++ [SpringCloud Gateway 30 个内置过滤器，少写 80% 重复代码](https://mp.weixin.qq.com/s/KXwjnpXeKccok8kuxSn9Dw)
 
 #### AI
 
@@ -3373,6 +3380,7 @@
 + [SpringBoot实现隐式参数注入](https://mp.weixin.qq.com/s/0PXctU_YEoNA5deOi1zmzQ)
 + [天呐！Spring Boot 中一个类，竟藏着 4 个强大核心功能](https://mp.weixin.qq.com/s/kKj9GoZNbuY4Nm6dpQzbRQ)
 + [SpringBoot中这10个神仙功能，惊艳到我了！](https://mp.weixin.qq.com/s/RKAXpx-RYzHfm_NK91km3g)
++ [告别手动合并！Spring Boot 2个注解自动实现部分更新](https://mp.weixin.qq.com/s/aI4FMe_FiDsgQKaH8D6bEw)
 
 ##### 原理
 
@@ -3933,6 +3941,11 @@
 + [Spring Boot玩转JSON！解锁Jackson的8大高阶技能，太强了](https://mp.weixin.qq.com/s/ab8sioYAXExf0itnoWRqXw)
 + [字段权限！Spring Boot 最简单的控制方式](https://mp.weixin.qq.com/s/FMqUPz5drLEHiTrS6xmIaw)
 + [Spring Boot 二进制数据传输：从内存优化到流式处理与断点续传](https://mp.weixin.qq.com/s/2KMc3SMu6KX0mCWryzgkEA)
++ [SpringBoot 3.0 应用 HTTP 到 HTTPS 技术改造方案](https://mp.weixin.qq.com/s/Y2azSBtwVndRfJN9vGaGiQ)
++ [SpringBoot接口幂等性方案：4种策略+代码实战，告别重复提交](https://mp.weixin.qq.com/s/RWpjJ2fYyKTA2Mba4z9ifQ)
++ [别再用 toString() 了！Spring Boot + Jackson 处理枚举的7种方式](https://mp.weixin.qq.com/s/wvr60Lk1RGfblPWffmIaDQ)
++ [Spring Boot 处理JSON的6大强悍功能](https://mp.weixin.qq.com/s/zjGQYH7nVi7ugAkEbn3hDQ)
++ [Spring Boot+JWT黑名单：5分钟搞定Token撤销](https://mp.weixin.qq.com/s/FTwxQkOkb4ZSLCH88ufr2Q)
 
 ##### 文件上传下载
 
@@ -4067,6 +4080,8 @@
 + [性能优化！Spring Boot使用强大的@EntityGraph优化查询](https://mp.weixin.qq.com/s/SUO-xejEvxERn7aBJz6KaQ)
 + [请不要手动设置！Spring Boot + JPA 数据追踪一个注解搞定](https://mp.weixin.qq.com/s/ZDGGWPXrBOLZRwsw0axqnQ)
 + [惊呆了！Spring Boot 调试执行 SQL 的12个强大技巧](https://mp.weixin.qq.com/s/rDc_CRYbaIf1IcleCq5xfA)
++ [告别SQL查询烦恼！Spring Boot 强大的6种 查询模式](https://mp.weixin.qq.com/s/CPcwHEhdJypWMg91VigX7g)
++ [JAVA：Spring Boot3 集成 JdbcClient 实现数据访问](https://mp.weixin.qq.com/s/7uyoFYvjWWWEjbhLcVzLyA)
 
 ##### TRANSACTION
 
@@ -4201,6 +4216,7 @@
 + [解锁 Spring Boot 中 @EventListener 注解的正确用法](https://mp.weixin.qq.com/s/pvAPs4ibKpoZMxENBA7g0w)
 + [SpringBoot + ResponseBodyEmitter 实时异步流式推送，优雅！](https://mp.weixin.qq.com/s/-MJjfOfGMxX_0i-1cr7jWg)
 + [SpringBoot中3种应用事件处理机制](https://mp.weixin.qq.com/s/HpRNbU2ANxNeUErIlqDRtQ)
++ [告别紧耦合！用 @EventListener 打造灵活的 Spring Boot 应用](https://mp.weixin.qq.com/s/5G-IbT9ZbauKYcfy63ZyGQ)
 
 #### CACHE
 
@@ -4288,6 +4304,7 @@
 + [一文吃透！Spring Boot 项目请求日志记录，这几招你绝对不能错过！](https://mp.weixin.qq.com/s/tDZsrlb2hnJ-7NltXapkXw)
 + [日志追踪核武器！Sleuth+Zipkin全链路监控实战](https://mp.weixin.qq.com/s/yHvQoJvxLI4lwmu5kew-gg)
 + [太强了！Spring Boot 全方位的请求/响应日志记录【神级开源组件】](https://mp.weixin.qq.com/s/MsJGnI5f6wae6_n0a8iaZQ)
++ [日志泛滥？Spring Boot 日志记录的12条准则](https://mp.weixin.qq.com/s/_cTH_m3Z5htHyEc0pdlUqg)
 
 #### 安全
 
@@ -4604,6 +4621,8 @@
 + [SpringBoot实现电子文件签字+盖章系统](https://mp.weixin.qq.com/s/pFecNGCajeJksN1xnBn5Ug)
 + [JAVA：Spring Boot 集成 DeepLearning4J 构建企业级深度学习](https://mp.weixin.qq.com/s/gv16uDxE05902Oxh6BiIEQ)
 + [Spring Boot 一行代码生成各种复杂的Word文档](https://mp.weixin.qq.com/s/rg9NsyGPEpMFdIMW6YVNrQ)
++ [SpringBoot实战：手把手打造高安全性图形验证码（防爬防刷利器）](https://mp.weixin.qq.com/s/GX_oJ5gbXcnHYXdEol4izQ)
++ [SpringBoot 3.x 集成 Flowable 7.x：流程设计、部署、启动及完成实战](https://mp.weixin.qq.com/s/Y0Y6YqI4m31PEXO0xdvZ4g)
 
 ##### excel
 
@@ -4636,6 +4655,7 @@
 + [JAVA：Spring Boot 自定义 Starter 组件的技术指南](https://mp.weixin.qq.com/s/il2hS7HnDZ0ASAgRoZK8Dg)
 + [SpringBoot中6种自定义starter开发方法](https://mp.weixin.qq.com/s/i3cTTl9lOfFVM86nvh1JwQ)
 + [Spring Boot 插件化开发模式，忒香了！](https://mp.weixin.qq.com/s/0dhEudwr64EFP_UrHIN6Fg)
++ [SpringBoot插件化开发模式，真香！](https://mp.weixin.qq.com/s/dyycF4mpVNNgTDjO0LV-EA)
 + [使用 Spring Boot 创建自定义启动器（Starter）](https://mp.weixin.qq.com/s/YL-SDO1TnKDQblZchAQ6nA)
 + [Spring Boot 十大开源 "王炸" Starter，功能逆天到离谱！](https://mp.weixin.qq.com/s/5ZXpY70dxl2WLtCqQbmxTg)
 + [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)

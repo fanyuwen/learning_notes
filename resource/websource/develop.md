@@ -98,6 +98,8 @@
 + [事件驱动架构新范式：FastEvent 让领域事件开发变得优雅](https://mp.weixin.qq.com/s/H_HrAazS-kyOqXfsLPMnoA)
 + [架构必知：9大主流架构](https://mp.weixin.qq.com/s/7EfaulpbxXc9mwieSx1_Bg)
 + [架构必知：微服务架构（附架构图）](https://mp.weixin.qq.com/s/7zvocjMNVB2qx2kn2mrlCw)
++ [高级进阶：复杂业务系统的通用架构设计](https://mp.weixin.qq.com/s/1Her35tEmwTvmM8p6TCgvg)
++ [系统设计30个核心技能，每一个开发者都必须掌握](https://mp.weixin.qq.com/s/kUzs9b9Vcl-b38usJQ9CkA)
 
 ### DDD
 
@@ -566,6 +568,7 @@
 + [高性能缓存设计：如何解决缓存伪共享问题](https://my.oschina.net/u/4090830/blog/18683171)
 + [六大缓存（Caching）策略揭秘：延迟与复杂性的完美平衡](https://my.oschina.net/powertoolsteam/blog/18688830)
 + [Java 缓存雪崩：高并发下的“集体跳楼”如何避免？](https://mp.weixin.qq.com/s/t5BRaHTvmLv1RBend5P8AQ)
++ [如何设计多级缓存架构并解决数据一致性问题？](https://mp.weixin.qq.com/s/CKFru_R1cJ24lEtQ6AWpBA)
 
 ## 优化
 

@@ -84,3 +84,5 @@
 + [Kotlin Multiplatform 与 Compose Multiplatform 后续计划 | 官方博客](https://mp.weixin.qq.com/s/BIyyoCPuvFR27u8KXQ9Idw)
 + [在实际项目中评估 Kotlin | 《Java 转 Kotlin 终极指南》第 2 期](https://mp.weixin.qq.com/s/Qi70-g5H3J6TGi5mZBadUA)
 + [面向 Java 开发者的 Kotlin 使用入门 | 《Java 转 Kotlin 终极指南》第 1 期](https://mp.weixin.qq.com/s/66m6kenRik5F0FjSKFtrXg)
++ [Koog × A2A：使用 Kotlin 构建互联的 AI 智能体 | 官方博客](https://mp.weixin.qq.com/s/zqd2oyjtsv4AYbeHOTt_Yw)
++ [从 SDK 到智能体，详解 Kotlin AI 技术栈！| 官方博客](https://mp.weixin.qq.com/s/X96lJ2-KHyahPWCLygvAEg)

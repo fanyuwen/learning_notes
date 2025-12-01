@@ -232,6 +232,7 @@
 + [Promise静态方法汇总](https://mp.weixin.qq.com/s/SoXZRKesvrJsqGp_ls8qGg)
 + [如何在TypeScript里使用类封装枚举来实现Java的枚举形参倒置](https://mp.weixin.qq.com/s/lV3eUO9Dm4zV8Cb-j0wG6w)
 + [为什么有些依赖必须 import *引入使用？](https://mp.weixin.qq.com/s/q7kFVytSvfUtpaYJvsn8BA)
++ [JavaScript！10个强到离谱的API，90%的人都不知道](https://mp.weixin.qq.com/s/lsCB__eump8iLGirkHoXAA)
 
 # 框架
 

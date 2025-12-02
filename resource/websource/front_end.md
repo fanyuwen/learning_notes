@@ -404,6 +404,7 @@
 + [WebRTC 入门指南：实时通信完全解析](https://my.oschina.net/powertoolsteam/blog/18689538)
 + [并发与并行](https://mp.weixin.qq.com/s/Sj-KdyfWRtIL-8FGTgBwew)
 + [一个 4.7 GB 视频把浏览器拖进 OOM](https://mp.weixin.qq.com/s/E_atN0M-5mJT5vyiGwsgRw)
++ [项目性能优化实践：深入 FMP 算法原理探索｜得物技术](https://my.oschina.net/u/5783135/blog/18860898)
 
 # 杂谈
 

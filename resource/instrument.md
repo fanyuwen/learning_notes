@@ -146,6 +146,7 @@
 + 程序员技能检测和提高 [hackerrank](https://www.hackerrank.com/)
 + 软件开发环境管理 [conda](https://docs.conda.io/)
 + 购书网站 [PACKT](https://subscription.packtpub.com/) [MANNING](https://www.manning.com/) [oreilly](https://www.oreilly.com/)
++ 代码托管平台 [codeberg](https://codeberg.org/)
 
 ### Go_LIBRARY
 + 跨平台GUI库 [fyne](https://fyne.io/)

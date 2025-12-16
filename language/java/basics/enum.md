@@ -26,6 +26,7 @@
         AA(() -> B.BB);
         private final B b;
 
+        //当然这里参数类型直接使用B也可以
         A(Supplier<B> supplier) {
             this.b = supplier.get();
             this.b.setA(this);

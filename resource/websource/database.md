@@ -965,6 +965,7 @@
 + [Redis key 消失之谜](https://my.oschina.net/vivotech/blog/18697912)
 + [为什么大厂都禁用 SET 存储用户？Redis避坑指南](https://mp.weixin.qq.com/s/_ge6tspqIdu8VwfU6lxu5Q)
 + [得物面试：Redis 内存碎片是什么？如何清理？](https://mp.weixin.qq.com/s/Fj92SrvvFcUQxRi8mSKGvQ)
++ [一文解析得物自建 Redis 最新技术演进](https://my.oschina.net/u/5783135/blog/18769207)
 
 #### 原理
 

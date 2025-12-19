@@ -1098,6 +1098,7 @@
 
 + [MongoDB在AI和大数据中的应用](https://mp.weixin.qq.com/s/znaTV_gGVE0aoEOGSQbe-w)
 + [深入浅出MongoDB：Spring Boot集成MongoDB实战指南](https://mp.weixin.qq.com/s/SdiAQlN34IwMeNaWbZfDnw)
++ [MongoDB 数据库 ORM/ODM 新工具](https://my.oschina.net/ta8210/blog/18925396)
 
 ### keyDB
 

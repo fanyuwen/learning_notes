@@ -738,6 +738,7 @@
 + [技术｜性能和复杂度的平衡](https://mp.weixin.qq.com/s/rRdhm3b6fNY3UV_f0rkJsg)
 + [如何设计用户在线时长统计系统？](https://mp.weixin.qq.com/s/mjq_ugZqQaDrddhsT9NNuA)
 + [转转客服 IM 聊天系统背后的技术挑战和实践分享](https://my.oschina.net/jb2011/blog/18707699)
++ [腾讯新闻 APP 的消息推送 Push 架构技术重构实践](https://my.oschina.net/jb2011/blog/18911294)
 
 # 测试相关
 

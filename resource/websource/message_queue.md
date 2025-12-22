@@ -48,6 +48,7 @@
 + [RabbitMQ-RocketMQ和Kafka有什么区别](https://mp.weixin.qq.com/s/Dnb9OaQpKrCqSKqL34lcUQ)
 + [面试官问：高并发下如何保证消息顺序消费？这样答才加分](https://mp.weixin.qq.com/s/qCaCOijNJshqW1nDiKb36g)
 + [队列积压比上班早高峰还可怕？看这篇文章就够了！](https://mp.weixin.qq.com/s/hsOXuVVAlvQv4cN2_XcT7w)
++ [MQ 消息乱序问题解析与实战解决方案](https://my.oschina.net/u/4090830/blog/18910644)
 
 # KAFKA
 

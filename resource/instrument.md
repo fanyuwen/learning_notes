@@ -81,7 +81,7 @@
 + 容器化测试平台 [testcontainer](https://testcontainers.com/)
 + CI/CD工具 [jenkins](https://www.jenkins.io) [argo-cd](https://argo-cd.readthedocs.io/en/stable/) [tekton](https://tekton.dev) <font style='color:red'>\*</font>[zadig](https://koderover.com/) <font style='color:red'>\*</font>[circleci](https://circleci.com/) <font style='color:red'>*</font>[drone CI](https://www.drone.io/)
 + 应用服务器 [wildfly](https://www.wildfly.org/)
-+ web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/)
++ web服务器(servlet容器) [jetty](https://eclipse.dev/jetty/) [undertow](https://undertow.io/) [wicket](https://wicket.apache.org/)
 + 工作流平台 [airflow](https://airflow.apache.org/)
 + 容器镜像工具 <font style='color:red'>*</font>[quay](https://quay.io/)
 + 云原生容器编排技术 [kubernetes](https://kubernetes.io/)

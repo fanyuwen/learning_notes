@@ -5171,3 +5171,4 @@
 + [从 Java 到 Go：面向对象的巨人与云原生的轻骑兵](https://my.oschina.net/u/4090830/blog/18691874)
 + [会Java还需要学习C/C++或Kotlin吗？](https://mp.weixin.qq.com/s/qedv7X7LKSofLoRyYovV9A)
 + [将 GPU 级性能带到企业级 Java：CUDA 集成实用指南](https://my.oschina.net/didispace/blog/18695216)
++ [Java AI 框架大比拼：Spring AI 与 LangChain4j 的挑战与优势](https://www.oschina.net/news/387114)

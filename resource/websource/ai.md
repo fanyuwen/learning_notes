@@ -43,6 +43,7 @@
 + [ARQ：一款低成本的消息队列，实现每秒万级吞吐](https://mp.weixin.qq.com/s/3n1mUFXxnFcZZWFZLMmLYg)
 + [可信数据流通开发者必看，深度解读隐语密态计算设备 SPU（Secretflow Processing Unit）](https://my.oschina.net/u/5915128/blog/18693445)
 + [AI 处理器全景指南（CPU、GPU、TPU、APU、NPU、IPU、RPU...）](https://my.oschina.net/IDP/blog/18924652)
++ [AI Coding 与单元测试的协同进化：从验证到驱动](https://my.oschina.net/meituantech/blog/18885034)
 
 ## 资讯
 

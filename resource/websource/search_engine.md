@@ -34,6 +34,7 @@
 + [百亿级ES集群调优：从5秒延迟到200ms的骚操作实录——深夜救火到天亮，我删了系统的测试数据？](https://mp.weixin.qq.com/s/Qw2w8aVXn9ftNeR_vtJ6pw)
 + [什么是分片（Shard）和副本（Replica）？一文彻底搞懂！](https://mp.weixin.qq.com/s/OaMvNcxdtZ05ITS9RB1tdQ)
 + [被吹爆的 RedisJSON，速度真的比 ElasticSearch 强吗？实测揭秘](https://mp.weixin.qq.com/s/g2MtdaDPVUickxIbbie46Q)
++ [Elasticsearch 中使用 NVIDIA cuVS 实现最高快 12 倍的向量索引速度：GPU 加速第 2 章](https://my.oschina.net/u/3343882/blog/18916767)
 
 ## solr
 

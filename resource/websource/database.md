@@ -20,6 +20,7 @@
 + [数据库优化指南：如何将基本功能运用到极致？](https://mp.weixin.qq.com/s/P7pv6xOeyeSaPmoFfJfmgQ)
 + [数据库设计：打造高效数据架构的最佳实践](https://mp.weixin.qq.com/s/JbhNUKb8q9Gr8gV04_YbYQ)
 + [简单实现异构数据源查询](https://mp.weixin.qq.com/s/EXmFxtCjgwV8lTf5gaTOTg)
++ [比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了](https://my.oschina.net/HelloGitHub/blog/18805002)
 
 # SQL
 

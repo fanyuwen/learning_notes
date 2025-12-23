@@ -200,6 +200,7 @@
 + [如何判断自己写的是不是"屎山"代码？](https://mp.weixin.qq.com/s/LajnV1-7oUAFjMTeAJT6lA)
 + [为什么你反复练习还是学不会？真正让大脑进步的，是错误和重复密度，而不是时间长短](https://mp.weixin.qq.com/s/qUsPbsazSbXAi_ShfFregQ)
 + [好的代码是简洁的](https://mp.weixin.qq.com/s/rL3r8XUhS3d_LtumMSJjbw)
++ [软件开发中存在的 996 陷阱](https://www.oschina.net/news/385926)
 
 ## 视频
 

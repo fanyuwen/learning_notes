@@ -121,6 +121,9 @@
 + [产品研发之众生相：架构师](https://mp.weixin.qq.com/s/3QsoeISczzS1tE33WXSgKg)
 + [2025打工人工资真相](https://mp.weixin.qq.com/s/UbvEzjrZDF828Wr_1cvCoQ)
 + [大批打工人都快撑不住了](https://mp.weixin.qq.com/s/wNnpmdsBF2S6mQQ9Fkkjlg)
++ [为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？](https://mp.weixin.qq.com/s/sUrs2a-c5XxxKUpBkG20Zg)
++ [前阵子面了一个42岁的大哥，简历递过来那一刻我愣住了。五年前他是我在某大厂的直属总监，后来他去创业，我跳槽了，结婚生子。](https://mp.weixin.qq.com/s/eEuBHwXwkU2_5IHEv4IVyw)
++ [为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？](https://mp.weixin.qq.com/s/JwSi2HZOF6kIqno7zSpQiA)
 
 # 个人成长
 
@@ -453,6 +456,7 @@
 + [天才程序员·Fabric Bellard](https://mp.weixin.qq.com/s/TdKC-c2wtyUj66x2gyhfVQ)
 + [为什么1999年程序员全在熬夜？一个 “省空间” 的设计，差点拖垮全球系统！](https://mp.weixin.qq.com/s/A7cLBoynFhQIsLLclTofUw)
 + [编程界那些可耻的流氓行为](https://mp.weixin.qq.com/s/tJBvyzIMuXVxMGQN0G3QiQ)
++ [欧洲的编程语言三巨头，只剩下一位了！](https://mp.weixin.qq.com/s/s4dbAPtidlDFRyzGCI1U8w)
 
 ## 创业
 

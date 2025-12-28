@@ -670,6 +670,8 @@
 + [写个简单的项目自动部署脚本](https://mp.weixin.qq.com/s/jjW2aIi_KUusQdc9uLnUGg)
 + [我在项目里用雪花算法搞了唯一ID生成，结果上线就引发了故障...](https://mp.weixin.qq.com/s/pPlD1Po6AEURluGuZrApcw)
 + [别再用雪花算法生成 ID 了！试试这个吧](https://mp.weixin.qq.com/s/RDuB10cXJ_A2ObziluS-OQ)
++ [雪花算法ID重复了？惨痛教训：请勿轻易造轮子！](https://mp.weixin.qq.com/s/IBalkSC9TlIbwB5aEnGIPA)
++ [雪花算法ID重复了？惨痛教训：请勿轻易造轮子！](https://mp.weixin.qq.com/s/dwBr-Y8N_7NzzQu1_N3FVA)
 + [3年0严重故障：货拉拉如何连续保持业务高峰的稳定运行？](https://mp.weixin.qq.com/s/hDGukfP_YCoFeKrw3XXqCg)
 + [接口设计的18条军规](https://mp.weixin.qq.com/s/viJaTMM58e8s7QtNFMWdkA)
 + [谷歌开源内部代码评审规范](https://my.oschina.net/u/3727380/blog/4440075)
@@ -983,6 +985,8 @@
 + [你可能忽略的git高阶用法](https://mp.weixin.qq.com/s/gxYDaP7iAIDEzh58Zq_n1w)
 + [Git 高效操作指南：撤销、冲突解决与实用技巧](https://mp.weixin.qq.com/s/e7k1EaEFJ_KOMo0OOx2nkg)
 + [10+个冷门却超实用的Git命令，一学就能用~](https://mp.weixin.qq.com/s/QpENWOtNnbHidEkqwPlryw)
++ [Git 的时代要结束了吗？Google JJ 给出的答案令人意外……](https://mp.weixin.qq.com/s/7Lbdo62drsY9b-K-Q2IdPg)
++ [面试官：Git 如何撤回已 Push 的代码？问倒一大片。。。](https://mp.weixin.qq.com/s/NBKjNrY3Wa-a6-hoq9mhnQ)
 
 ### 编程范式
 

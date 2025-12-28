@@ -113,6 +113,7 @@
 + [MySQL中的数据去重，该用DISTINCT还是GROUP BY？](https://mp.weixin.qq.com/s/VF0ZHRm1_ut2M2Go478e4w)
 + [8种专坑同事的SQL写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/OGrezglmBuvmYjJh6pcLLQ)
 + [8种专坑同事 SQL 写法，性能降低100倍，不来坑一下？](https://mp.weixin.qq.com/s/fl5pxZ3Rew2P4ZlCafBnYg)
++ [面试官问：你写代码会复用公共 SQL 么？](https://mp.weixin.qq.com/s/3lGXwaF2EuzsMIZ18rASZg)
 
 # 本地数据库
 
@@ -188,6 +189,7 @@
 + [10亿订单如何做分库分表？](https://mp.weixin.qq.com/s/JWmw6GtRaNg71RRbMMTJYg)
 + [分库分表下如何实现分页查询功能](https://mp.weixin.qq.com/s/BjRaRoWBYRHF7rSlGZnfNQ)
 + [分库分表全解析：如何有效解决MySQL单表数据量过大问题？](https://mp.weixin.qq.com/s/2c-Ln-2l_RfVqqNjZodrwA)
++ [分库分表后，数据库数据一致性问题如何解决？](https://mp.weixin.qq.com/s/XIpD50DN0Z2oIuw2ysekMA)
 
 ## 原理解析
 
@@ -719,6 +721,8 @@
 + [初探PgSQL异步IO](https://mp.weixin.qq.com/s/oNdxMy8fSJI37Nd-eXVHdA)
 + [PostgreSQL 18 异步 I/O（AIO）调优指南](https://my.oschina.net/u/5729420/blog/18694826)
 + [聚焦六大功能：PostgreSQL 18 新特性深度解析](https://my.oschina.net/u/5729420/blog/18693388)
++ [PostgreSQL有这么多优势，为什么还要使用MySQL？](https://mp.weixin.qq.com/s/fP4vTWYAxBQ9mrj8DREFsQ)
++ [有了开源的 MySQL，为什么还要选择 PostgreSQL？](https://mp.weixin.qq.com/s/ouhe0yPoq3pDD16BXcz_Hw)
 
 ### SQLSERVER
 
@@ -967,6 +971,8 @@
 + [为什么大厂都禁用 SET 存储用户？Redis避坑指南](https://mp.weixin.qq.com/s/_ge6tspqIdu8VwfU6lxu5Q)
 + [得物面试：Redis 内存碎片是什么？如何清理？](https://mp.weixin.qq.com/s/Fj92SrvvFcUQxRi8mSKGvQ)
 + [一文解析得物自建 Redis 最新技术演进](https://my.oschina.net/u/5783135/blog/18769207)
++ [Redis 缓存的常见异常及解决方案，干货建议收藏！](https://mp.weixin.qq.com/s/HXOqmLUu-dyNzP-L5GQcNg)
++ [面试官：Redis 数据类型有哪几种？](https://mp.weixin.qq.com/s/kHumcJoi35VTT7jf2tVXMQ)
 
 #### 原理
 
@@ -1156,6 +1162,7 @@
 + [MinIO桶的概念介绍](https://mp.weixin.qq.com/s/bKq82Hcx8BGXuypiGSYguA)
 + [Minio + Docker 搭建属于自己的OSS存储服务](https://mp.weixin.qq.com/s/xJycS370psuQo-04E5wimQ)
 + [MinIO 不再“开放”，RustFS 能否成为更优选择？](https://mp.weixin.qq.com/s/FN_Vw4nPT1U-jRKIGFu0rw)
++ [干掉 Minio，这5个分布式文件系统更香！](https://mp.weixin.qq.com/s/nuG591eVKrgD5QpuAHUVfg)
 
 ### HDFS
 

@@ -435,3 +435,4 @@
 + [【前沿解析】JavaScript 的未来，将迎来哪些新特性？](https://my.oschina.net/powertoolsteam/blog/18689402)
 + [3分钟学会，自己写一个编译器](https://mp.weixin.qq.com/s/AQTy0UFoA0ovvNLCHbVBbg)
 + [厌倦了追逐 JavaScript 框架？这就是我停止的原因。](https://mp.weixin.qq.com/s/vFAORjW4ToPK4HdZd_d-oQ)
++ [2026 了，盘点下那些“死掉”的技术栈 ...](https://mp.weixin.qq.com/s/vL7ZuYaMD7SIYX8zK0YDvA)

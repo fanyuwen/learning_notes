@@ -46,6 +46,8 @@
 + [我是如何让我的 Go 程序快到惊人：连资深开发者都常忽视的性能技巧](https://mp.weixin.qq.com/s/u-xNvBJB8vMJlD7u32LJvA)
 + [跟大家讲讲 Go-Spring 的项目体系](https://mp.weixin.qq.com/s/Q1Uxe3sfVGD8uAp7DPAaFg)
 + [90% 的 Go 工程师都忽略了这些安全漏洞，你中枪了吗？](https://mp.weixin.qq.com/s/DWS4QXiynzapPMmiwnIXjQ)
++ [我们被 JSONB 害惨了：Go 服务性能下降、Bug 隐身、查询像考古](https://mp.weixin.qq.com/s/pAd6nkYt7UoLQENYqn8wTw)
++ [Go 程序员崩溃瞬间：测试全绿，却一个都没跑！](https://mp.weixin.qq.com/s/bPeRBNkZ7kPBRpb0PWay-Q)
 
 # 库
 
@@ -244,6 +246,7 @@
 + [面试题：为什么 time.After 可能导致内存泄漏？](https://mp.weixin.qq.com/s/Tz7j31U8EI2hRI3jLIPZQQ)
 + [Golang HTTP 请求超时与重试：构建高可靠网络请求｜得物技术](https://my.oschina.net/u/5783135/blog/18753416)
 + [Go 中最容易被忽视的强大特性：Struct Embedding 详解](https://mp.weixin.qq.com/s/rECp2r8QhRAc6QEq6Xzw4w)
++ [自从团队用了 Go，部署只要 1 秒了……但真正的惊喜还在后面](https://mp.weixin.qq.com/s/OP15jTnU8CvtJ0kz9grMXQ)
 
 # 面试题
 

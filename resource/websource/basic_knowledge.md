@@ -319,6 +319,7 @@
 + [Linux操作系统基础篇：深度解析进程的常用命令](https://mp.weixin.qq.com/s/2JDHHvkudAejx6VBeUfQCQ)
 + [在 Linux 中，教你打造一个简洁实用的 Vim ！](https://mp.weixin.qq.com/s/p7gBaxrNlfGQM3G5awn1rA)
 + [每天一条 Linux 命令：man](https://mp.weixin.qq.com/s/3xiB7POjdGRMxhS9ZauB5A)
++ [同事查日志太慢，我现场教他一套 awk、tail、grep、sed 组合拳](https://mp.weixin.qq.com/s/73jKCmLnhnzuHkCbh7nfpQ)
 
 ### 发行版信息
 

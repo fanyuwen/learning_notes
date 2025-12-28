@@ -61,6 +61,7 @@
 + [协程深入浅出用法介绍](https://mp.weixin.qq.com/s/jlC3o5SaDd9k01mJKrrRjA)
 + [Kotlin 函数式编程思想](https://mp.weixin.qq.com/s/9IrYpMkNsE2Esb_rYTRNzQ)
 + [看到Kotlin里满屏的 inline，我真的想 Java 了](https://mp.weixin.qq.com/s/C8aCV7nEOFZYxQ7ZfcMi0A)
++ [在公司内部扩大 Kotlin 的采用 | 《Java 转 Kotlin 终极指南》第 3 期](https://mp.weixin.qq.com/s/GjNBc-hxHU860Y4VdI2IFw)
 
 ## 技术月报
 

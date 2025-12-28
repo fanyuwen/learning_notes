@@ -294,6 +294,7 @@
 + [如何看待多主&无主复制线性一致性](https://mp.weixin.qq.com/s/8iA5tJWq9JQjhNi0s13dkA)
 + [告别雪花算法？一文看懂新一代分布式 ID 方案：ULID](https://mp.weixin.qq.com/s/NugRXC4kRpCRDpbi7xzUuQ)
 + [分布式中的“一致性”，到底指的是什么？](https://mp.weixin.qq.com/s/AljmTZC5QvBYjrxgCEdk9Q)
++ [5大分布式ID生成器方案详解(超全面)](https://mp.weixin.qq.com/s/zUt4-MOzZS5tgLiRCtiTmg)
 
 ## 分布式锁
 
@@ -741,6 +742,7 @@
 + [如何设计用户在线时长统计系统？](https://mp.weixin.qq.com/s/mjq_ugZqQaDrddhsT9NNuA)
 + [转转客服 IM 聊天系统背后的技术挑战和实践分享](https://my.oschina.net/jb2011/blog/18707699)
 + [腾讯新闻 APP 的消息推送 Push 架构技术重构实践](https://my.oschina.net/jb2011/blog/18911294)
++ [大厂面试题：深拷贝是什么？底层实现机制？](https://mp.weixin.qq.com/s/LzvfKJrWgbYRDcYrYIjSAA)
 
 # 测试相关
 

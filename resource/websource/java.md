@@ -303,6 +303,11 @@
 + [Java 新语法 Switch Pattern Matching，提升代码逼格的神器](https://mp.weixin.qq.com/s/7rf-59vwQbm-K9csK_4HnQ)
 + [Java25 的新特性](https://my.oschina.net/go4it/blog/18692176)
 + [别再用ThreadLocal了，ScopedValue更香！](https://mp.weixin.qq.com/s/6cp6Aipgs41K8x8TbpX9Jw)
++ [JDK 25 和 JDK 26 的最新进展](https://mp.weixin.qq.com/s/Q_HWPHIyrP-fxZS7LpawgQ)
++ [Java 25 正式发布：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/2XgAzeEdoblQ9RR8rPfJjQ)
++ [JDK8 写 10 行，JDK17 写 1 行，我还用它干嘛？](https://mp.weixin.qq.com/s/hIq82BLZkmUY9hQAvUuSHg)
++ [JDK8 写 10 行，JDK17 写 1 行，我还用它干嘛？](https://mp.weixin.qq.com/s/bYVgKKctn1M23KQ-iesb9g)
++ [JDK21:若传统多线程是自行车，虚拟线程就是飞机](https://mp.weixin.qq.com/s/__KTM8V9rHhH_T5ap25mjg)
 
 ## 高级用法
 
@@ -1465,6 +1470,7 @@
 + [大白话深入理解ThreadLocal：原理、内存泄漏、源码分析](https://mp.weixin.qq.com/s/wdQiobKUmMThlhye_VjI-A)
 + [ThreadLocal：线程中的全局变量 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/10107378)
 + [主线程存了用户信息，子线程居然拿不到？ThreadLocal 背锅](https://mp.weixin.qq.com/s/kCjstV09D39dVc8VoT0gQg)
++ [深入理解ThreadLocal](https://mp.weixin.qq.com/s/HSz322hct9MxqHqtCWgSHw)
 
 ## math库
 
@@ -1554,6 +1560,8 @@
 + [强烈建议你不要再使用Date类了！！！](https://mp.weixin.qq.com/s/GkmLdk2YSmimbnv64Yxdxw)
 + [SimpleDateFormat 线程安全问题修复方案 | 京东物流技术团队](https://my.oschina.net/u/4090830/blog/10098343)
 + [还在头疼 Java 日期处理？新旧API全解析](https://mp.weixin.qq.com/s/pnR4gVrY4gCn8h9bGFvKQw)
++ [Java日期最常见的8个坑！](https://mp.weixin.qq.com/s/kEnwqzPdUQg7ikMrHonXdA)
++ [别再用Date了！线上事故频发的Java时间处理，一文讲透LocalDateTime](https://mp.weixin.qq.com/s/cxuZFHDy8UOHofDXA-TC9Q)
 
 ### Collection/Map
 
@@ -2365,6 +2373,7 @@
 + [大厂一面:Nacos配置中心交互模型是 push 还是 pull ？](https://mp.weixin.qq.com/s/xVggtL-q-42MZxMWpulgYg)
 + [Nacos源码深度解析系列文章导航](https://mp.weixin.qq.com/s/pBsdA4kAe_-isMLUlySXTw)
 + [nacos的使用原理](https://mp.weixin.qq.com/s/Jg_4-OQbAOXqqNcK3tmxYA)
++ [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/F8NErtnWi1cFOocX4z6JMg)
 
 ## netty
 
@@ -2666,6 +2675,7 @@
 + [不重启也能注入 Bean？教你用 RegisterBeanService 动态注册 Spring Bean](https://mp.weixin.qq.com/s/XWWwAnB2ZJ4OXyFjVbKDkQ)
 + [java 代码审计 - SpEL 表达式注入](https://mp.weixin.qq.com/s/r5ePFjtkdeEg2OV8yX0p_A)
 + [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/V7niz1B1qk6pTFS3v1uw3Q)
++ [Spring 项目别再乱注入 Service 了！用 Lambda 封装个统一调用组件，爽到飞起](https://mp.weixin.qq.com/s/QOJ-CIcZ46DRZ-vj4eZ_Jw)
 
 #### 原理&源码
 
@@ -3402,6 +3412,7 @@
 + [SpringBoot启动优化7板斧：砍掉70%启动时间的魔鬼实践](https://mp.weixin.qq.com/s/B1qwXIHjac5HucFvz5nppg)
 + [高级开发必须掌握！Spring Boot 强大的外部化配置机制](https://mp.weixin.qq.com/s/2KvZbrXcgpb3DAMMRkn1RA)
 + [Spring Boot 3 实战进阶：200 讲深度解锁高级技术，赋能高效开发](https://mp.weixin.qq.com/s/fY7C969QvR7rvQPJqphUuQ)
++ [高级开发！Spring Boot 深入底层优化接口调用，性能提升33%](https://mp.weixin.qq.com/s/Bdrg5B3TuUtSb7RQuXC1UA)
 
 ##### 原理
 
@@ -3681,6 +3692,7 @@
 + [升级了 ！Spring 6.0 + Boot 3.0，性能太强了！](https://mp.weixin.qq.com/s/7dRGADGr-LnjoPbQWljz-A)
 + [从Spring Boot 3 到 4：API 接口多版本控制的7中方案](https://mp.weixin.qq.com/s/f-OFhxlnrzY-SabJzObf6w)
 + [Spring 6.0+Boot 3.0：秒级启动、万级并发的开发新姿势](https://mp.weixin.qq.com/s/e80p0G0Z-Re7nwPw-j71vg)
++ [SpringBoot4 模块化升级让人头大，Classic兼容方案帮你平稳过渡](https://mp.weixin.qq.com/s/pnHCrc10vGDqbDoYc654ig)
 
 #### 分布式
 
@@ -3979,6 +3991,10 @@
 + [告别登录逻辑混乱！基于 SpringBoot 工厂+策略模式统一多端登录](https://mp.weixin.qq.com/s/zJ_rJlnd-v0LEj1RhV_jBQ)
 + [Controller替代方案！Spring Boot 轻量级路由函数处理请求](https://mp.weixin.qq.com/s/FC4e5pyi288_VSKtxO7gqg)
 + [Spring Boot中Jackson的6个很少用但却非常强大的注解](https://mp.weixin.qq.com/s/kH4zewMmB09KxWx-Uq0AHA)
++ [告别Swagger UI！一款更适合 SpringBoot 的API文档新选择](https://mp.weixin.qq.com/s/G5gtuzvfP-aBnpTtyyJrnQ)
++ [Spring Boot 枚举参数接收全攻略：4种转换方式详解](https://mp.weixin.qq.com/s/OPK6DtvUwEYtRojqbng9NA)
++ [超硬核：SpringBoot+ResponseBodyEmitter异步流式推送神技，非常强大！](https://mp.weixin.qq.com/s/olCzMv1m7RabYL3OpInt3g)
++ [Spring Boot 4.0 真香：一个注解，让你的登录安全翻倍](https://mp.weixin.qq.com/s/o0yb2HTLBi41_Npc6W-uXA)
 
 ##### 文件上传下载
 
@@ -4140,6 +4156,8 @@
 + [Java进阶手册（八）SpringBoot事务管理@Transactional注解的深度解析](https://mp.weixin.qq.com/s/fqMYVtfefd-O14XWDBqmqw)
 + [性能优化！3种场景下使用@Transactional对性能影响太大了](https://mp.weixin.qq.com/s/C77PdBzFMWvdnEbabsX7uw)
 + [4 种经典方案，为 Spring Boot 事务与外部服务协同](https://mp.weixin.qq.com/s/sIAelPZ_4uUJ9D9uj6KaKA)
++ [Spring Boot 新增一强大的全局事务钩子](https://mp.weixin.qq.com/s/R5TVpWLTSRSMJ5NUw69HVg)
++ [Spring Boot中@Transactional注解的最佳实践详解](https://mp.weixin.qq.com/s/bIFqauvcNTzXxvVYo5EWhA)
 
 ##### BIG DATA
 
@@ -4674,6 +4692,11 @@
 + [三行代码，精准查询！Spring Boot + GraphQL 打造高性能API](https://mp.weixin.qq.com/s/6QRkZt1ZuOPRRd_BqHmzoQ)
 + [全网最详细的 SpringBoot + Druid DataSource 实现监控 MySQL 性能](https://mp.weixin.qq.com/s/wWogONnWmKXSh7M_ov4yOw)
 + [Spring Boot + OpenFeature 动态功能开关，支持各种复杂功能](https://mp.weixin.qq.com/s/29fwMdo9gx_MlAbcTSVo1A)
++ [JAVA：Spring Boot 集成 renren-fast 快速搭建后台](https://mp.weixin.qq.com/s/x4lQReagHaQeg2IAJWLRzg)
++ [SpringBoot + nmap4j 获取端口信息](https://mp.weixin.qq.com/s/JfA1MJb4MaIsnpzPCDnC1Q)
++ [太强了！Java 源码分析、代码生成、规则检查，一键完善代码](https://mp.weixin.qq.com/s/94K8p_6TdVqM64ZYIYR3EA)
++ [Spring Boot 3 + Netty 构建高并发即时通讯服务](https://mp.weixin.qq.com/s/B3khfwOCvswIWTmwrAJVMw)
++ [Spring Boot 3 + Netty 构建高并发即时通讯服务](https://mp.weixin.qq.com/s/FE0wigpPvhwhZ3e0XB1FRg)
 
 ##### excel
 
@@ -4985,6 +5008,7 @@
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
 + [Java高级后端工程师知识范畴](https://mp.weixin.qq.com/s/59zPr-1Z69B7Y3nb9X6Pyg)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
++ [浅谈5款Java微服务开发框架](https://mp.weixin.qq.com/s/CRoa_eJ2SmOnql_Tqgdcig)
 + [搞定 Java 高并发秒杀，掌握这 7 个核心设计原则就够了](https://mp.weixin.qq.com/s/RDupbUSEA6-8J4XIJubY2w)
 + [通过对比理解「面向对象」编程思想](https://mp.weixin.qq.com/s/KF2g5BTl0Fe_H7PmIfntyA)
 + [Java缓存穿透：布隆过滤器 + 空值缓存 + 参数校验，3种方案彻底解决！](https://mp.weixin.qq.com/s/tfyqRW8w7_r1TE5HvojUNw)

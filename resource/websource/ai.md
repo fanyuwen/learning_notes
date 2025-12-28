@@ -68,3 +68,4 @@
 # openCV
 
 + [如何使用 OpenCV 进行图像分割](https://mp.weixin.qq.com/s/nmEdHDsHxcoqsYsMVTTgFw)
++ [OpenCV 如何调用摄像头](https://mp.weixin.qq.com/s/dvmdEmr68I6ZQw4ppDZU8g)

@@ -208,6 +208,7 @@
 + [可执行文件是如何在Linux系统上跑起来的](https://mp.weixin.qq.com/s/M64f1iw_AnLXcwhPyTUvUw)
 + [Linux内核源码分析：sendfile和splice如何实现零拷贝](https://mp.weixin.qq.com/s/goVuu3-iXrgrkwbdx8EW1g)
 + [一文吃透Linux I/O缓冲机制：原理、类型与应用](https://mp.weixin.qq.com/s/ENrhmnQSNq8g8qC8UBwvPg)
++ [Linux下文本及字符串处理与格式化输出](https://mp.weixin.qq.com/s/vuAiW5yGt_2TEZqFcWgF6A)
 
 ### 网络
 
@@ -346,6 +347,7 @@
 + [深入理解计算机组成原理（三十九）---数据在存储器里面的存储方式的题目（大小端+对齐）](https://mp.weixin.qq.com/s/x8PPtrpvUpVzf3tnfxnMzA)
 + [计算机总线仲裁工作原理](https://mp.weixin.qq.com/s/6shLR3ieKCuIC75zPnY-xA)
 + [并行计算架构与技术详解](https://mp.weixin.qq.com/s/_vJbE6zqfUbP5yQRVIo6kg)
++ [x86 函数调用的原理](https://mp.weixin.qq.com/s/zMe05GJz67CHvf1wds4t6g)
 
 ## CPU
 

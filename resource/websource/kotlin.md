@@ -71,6 +71,7 @@
 + [Kotlin 技术月报 | 2025 年 6 月](https://mp.weixin.qq.com/s/WWy00fMwkOyRI6_kv4pKUw)
 + [Kotlin 技术月报 | 2025 年 7 月](https://mp.weixin.qq.com/s/AaGhumFJf7DedcpyQzLGJQ)
 + [Kotlin 技术月报 | 2025 年 8 月](https://mp.weixin.qq.com/s/0pDX6dL000D7tpVBMIt-hw)
++ [Kotlin 技术月报 | 2025 年 9 月](https://mp.weixin.qq.com/s/oDfYyZWqv8ny3DPVnjTh3Q)
 + [Kotlin K2 模式进入稳定状态 ｜ 官方博客](https://mp.weixin.qq.com/s/J5fqoQ-m4gG5YX5pmHmiPQ)
 + [K2 模式，起飞！| 官方博客](https://mp.weixin.qq.com/s/62s-Qo_MGE8tljhGWCmRQg)
 + [推出 klibs.io：探索 Kotlin Multiplatform 库的新方式 | 官方博客](https://mp.weixin.qq.com/s/T3qtxrwuMPpL5cQKmKJXtw)
@@ -87,3 +88,5 @@
 + [面向 Java 开发者的 Kotlin 使用入门 | 《Java 转 Kotlin 终极指南》第 1 期](https://mp.weixin.qq.com/s/66m6kenRik5F0FjSKFtrXg)
 + [Koog × A2A：使用 Kotlin 构建互联的 AI 智能体 | 官方博客](https://mp.weixin.qq.com/s/zqd2oyjtsv4AYbeHOTt_Yw)
 + [从 SDK 到智能体，详解 Kotlin AI 技术栈！| 官方博客](https://mp.weixin.qq.com/s/X96lJ2-KHyahPWCLygvAEg)
++ [Compose Multiplatform 1.9.0 正式发布：CMP for Web 进入 Beta 阶段](https://mp.weixin.qq.com/s/IJM08Fe4uGvXcja2v9p9mA)
++ [Koin Annotations 2.2: 迄今为止最易于迁移的版本｜社区分享](https://mp.weixin.qq.com/s/cSsyK9UfIvK28jINIO2avQ)

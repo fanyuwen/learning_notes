@@ -114,6 +114,7 @@
 + [8种专坑同事的SQL写法，性能降低100倍，不来看看？](https://mp.weixin.qq.com/s/OGrezglmBuvmYjJh6pcLLQ)
 + [8种专坑同事 SQL 写法，性能降低100倍，不来坑一下？](https://mp.weixin.qq.com/s/fl5pxZ3Rew2P4ZlCafBnYg)
 + [面试官问：你写代码会复用公共 SQL 么？](https://mp.weixin.qq.com/s/3lGXwaF2EuzsMIZ18rASZg)
++ [就写了个 insert into select，居然被开了](https://mp.weixin.qq.com/s/8KffChUI65hBzxi46gI6LQ)
 
 # 本地数据库
 
@@ -1068,6 +1069,7 @@
 + [无需Redis分布式锁，8种方案搞定用户重复提交](https://mp.weixin.qq.com/s/aU8KVF5ALS6JexezLDc16A)
 + [美团一面：Redis 是如何实现分布式锁的](https://mp.weixin.qq.com/s/XMGZxkv_dFrXiyrGOchy_Q)
 + [Redis 分布式锁的 5个坑，真是又大又深！](https://mp.weixin.qq.com/s/6cR3Zg_o60gUXAtKNNJ4bg)
++ [Redis分布式锁故障，我忍不住想爆粗...](https://mp.weixin.qq.com/s/rNGI-VsjDSyRvb1yRbdbYQ)
 
 #### 缓存
 

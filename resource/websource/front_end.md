@@ -291,6 +291,7 @@
 + [热门前端 SSR 框架性能 PK！React 倒数第一？](https://mp.weixin.qq.com/s/ElsgtYF8NUucQQF8n5koBQ)
 + [嘀嘀，你的React 组件库](https://mp.weixin.qq.com/s/JPcdBv6IrbBIGA7ACVs49g)
 + [React 组件的类型](https://mp.weixin.qq.com/s/hM3eEgrlWMP1evgD9YuT1Q)
++ [React 19.2：useEffect终于要被"架空"了？Meta这波操作背后的真实意图](https://mp.weixin.qq.com/s/EseSRzOsPG69LycinXJ2-A)
 
 ### react native
 

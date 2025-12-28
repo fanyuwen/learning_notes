@@ -48,6 +48,7 @@
 + [90% 的 Go 工程师都忽略了这些安全漏洞，你中枪了吗？](https://mp.weixin.qq.com/s/DWS4QXiynzapPMmiwnIXjQ)
 + [我们被 JSONB 害惨了：Go 服务性能下降、Bug 隐身、查询像考古](https://mp.weixin.qq.com/s/pAd6nkYt7UoLQENYqn8wTw)
 + [Go 程序员崩溃瞬间：测试全绿，却一个都没跑！](https://mp.weixin.qq.com/s/bPeRBNkZ7kPBRpb0PWay-Q)
++ [Redis 真的要被干掉了？我们用 200 行 Go 代码把它替换了！](https://mp.weixin.qq.com/s/KesXqDrXtDQulQQ0akKBMw)
 
 # 库
 

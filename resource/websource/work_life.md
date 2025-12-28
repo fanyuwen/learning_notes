@@ -124,6 +124,7 @@
 + [为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？](https://mp.weixin.qq.com/s/sUrs2a-c5XxxKUpBkG20Zg)
 + [前阵子面了一个42岁的大哥，简历递过来那一刻我愣住了。五年前他是我在某大厂的直属总监，后来他去创业，我跳槽了，结婚生子。](https://mp.weixin.qq.com/s/eEuBHwXwkU2_5IHEv4IVyw)
 + [为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？](https://mp.weixin.qq.com/s/JwSi2HZOF6kIqno7zSpQiA)
++ [为什么不要当太久的程序员？](https://mp.weixin.qq.com/s/KurPF8DVZb6EZih612FtPg)
 
 # 个人成长
 
@@ -298,6 +299,11 @@
 + [Termora：跨平台SSH神器？](https://mp.weixin.qq.com/s/b0ffumIAfm1B3mHN_cm6Ew)
 + [一款开源的高颜值跨平台 SSH 客户端](https://mp.weixin.qq.com/s/rslfjiIfAGubtNsO6yEJtQ)
 + [再见Navicat、XShell！一款高颜值的数据库、SSH、Docker管理工具！](https://mp.weixin.qq.com/s/QRT89kNK3xCzG-VBExwqHw)
++ [开源项目｜35k Star，一款免费高效的在线数据库设计神器](https://mp.weixin.qq.com/s/x4IOnnQ6B8beoSJQAQbJGA)
++ [又一款 Java 开发的网络抓包工具开源了！！](https://mp.weixin.qq.com/s/7udSbuX28dAxHkjDIyV9dA)
++ [一款高颜值、现代化的 Git 可视化管理神器](https://mp.weixin.qq.com/s/TumQkSVIeYji7vsp18uXpQ)
++ [换掉 Xshell，试试这款高颜值跨平台 SSH 客户端](https://mp.weixin.qq.com/s/sOylWpKpvYPTfgO9P91fkg)
++ [一款被低估的插件：IDEA+JProfiler=性能分析神器](https://mp.weixin.qq.com/s/Wklsp-id496JOovSipGM3g)
 
 ## 开源资源
 
@@ -457,6 +463,8 @@
 + [为什么1999年程序员全在熬夜？一个 “省空间” 的设计，差点拖垮全球系统！](https://mp.weixin.qq.com/s/A7cLBoynFhQIsLLclTofUw)
 + [编程界那些可耻的流氓行为](https://mp.weixin.qq.com/s/tJBvyzIMuXVxMGQN0G3QiQ)
 + [欧洲的编程语言三巨头，只剩下一位了！](https://mp.weixin.qq.com/s/s4dbAPtidlDFRyzGCI1U8w)
++ [失恋以后，他发明了一门超越C的编程语言！](https://mp.weixin.qq.com/s/laO9QkxhecQRzB4MBcmCuw)
++ [冯诺伊曼1947年已预测到数学统治力](https://mp.weixin.qq.com/s/6FlUN-oVbRbygaDnIkkPmw)
 
 ## 创业
 

@@ -115,6 +115,7 @@
 + [8种专坑同事 SQL 写法，性能降低100倍，不来坑一下？](https://mp.weixin.qq.com/s/fl5pxZ3Rew2P4ZlCafBnYg)
 + [面试官问：你写代码会复用公共 SQL 么？](https://mp.weixin.qq.com/s/3lGXwaF2EuzsMIZ18rASZg)
 + [就写了个 insert into select，居然被开了](https://mp.weixin.qq.com/s/8KffChUI65hBzxi46gI6LQ)
++ [SQLParser 解析器分层改造](https://my.oschina.net/u/3869098/blog/19148174)
 
 # 本地数据库
 

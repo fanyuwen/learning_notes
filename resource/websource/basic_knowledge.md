@@ -742,6 +742,7 @@
 + [Nginx如何限流扛住高并发请求？](https://mp.weixin.qq.com/s/7RDbdpq2WXEdbEkktj6JEQ)
 + [从原理到实战，彻底搞懂Nginx](https://mp.weixin.qq.com/s/Sv9ZpJimVI52_RGV9rOANQ)
 + [深入浅出 Nginx：从核心原理到实用技巧](https://mp.weixin.qq.com/s/M0ZNtAnhLMbghMAt-MQrag)
++ [应对 Nginx Ingress 退役，是时候理清这些易混淆的概念了](https://my.oschina.net/u/3874284/blog/19160674)
 
 ### wireshark
 

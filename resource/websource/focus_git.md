@@ -66,3 +66,7 @@
 # data_struct
 
 + [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap)
+
+# C/C++
+
++ [libsodium](https://github.com/jedisct1/libsodium)

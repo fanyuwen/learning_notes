@@ -1249,6 +1249,7 @@
 + [深入理解JVM字节码：invokedynamic](https://mp.weixin.qq.com/s/KkvFjDPkjIvDyKvSLGb6TA)
 + [提升Java开发效率的秘密武器：Jadx反编译工具详解](https://mp.weixin.qq.com/s/bNen1CHMfhi75E8m7NcdJw)
 + [JAVA：JVM 常见面试题的技术指南](https://mp.weixin.qq.com/s/vyzsPEcTHl9d2dHE_hSIgA)
++ [SRE 踩坑记：JVM 暂停竟然是因为日志](https://my.oschina.net/morflameblog/blog/18964665)
 
 ### 命令
 

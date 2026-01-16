@@ -11,6 +11,7 @@
 ## Dubbo
 
 + [Dubbo和SpringCloud架构区别详解(4大核心区别)](https://mp.weixin.qq.com/s/LBW8o03UPcikLEOoekFCnA)
++ [vivo 微服务架构实践之 Dubbo 性能优化](https://my.oschina.net/vivotech/blog/19203869)
 
 # zookeeper
 

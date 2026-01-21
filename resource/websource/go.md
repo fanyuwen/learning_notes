@@ -49,6 +49,7 @@
 + [我们被 JSONB 害惨了：Go 服务性能下降、Bug 隐身、查询像考古](https://mp.weixin.qq.com/s/pAd6nkYt7UoLQENYqn8wTw)
 + [Go 程序员崩溃瞬间：测试全绿，却一个都没跑！](https://mp.weixin.qq.com/s/bPeRBNkZ7kPBRpb0PWay-Q)
 + [Redis 真的要被干掉了？我们用 200 行 Go 代码把它替换了！](https://mp.weixin.qq.com/s/KesXqDrXtDQulQQ0akKBMw)
++ [很多 Go 程序员写了 5 年代码，还是没用过这 7 个“高级但低调”的特性](https://mp.weixin.qq.com/s/4lOSbuRfZJkBrOxKM8izOQ)
 
 # 库
 
@@ -68,6 +69,7 @@
 + [Go 语言中的 JSON 库 V2 版本](https://mp.weixin.qq.com/s/NFF5Px7TaOhM3DNkPLD3fg)
 + [推荐一个Go语言的线程池开源框架 - ants「DaemonCoder」](https://mp.weixin.qq.com/s/b-7tFCGAt0CJK86wAeKtZg)
 + [go-zero 突破三万星，感谢有你相伴！](https://mp.weixin.qq.com/s/wpfgfGzCbmUiAgYVdb3rYg)
++ [2025 年，Go 不再装“简单”：这 6 个库让后端直接起飞](https://mp.weixin.qq.com/s/5f_mKwuxtIRfC5aRRvA8fw)
 
 # 工具
 

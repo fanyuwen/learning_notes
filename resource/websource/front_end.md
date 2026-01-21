@@ -340,6 +340,7 @@
 + [Node.js中Event模块详解](https://mp.weixin.qq.com/s/uCseFMoOaKLDD145hk548g)
 + [Node.js中HTTP服务创建详解](https://mp.weixin.qq.com/s/kyqO3eI7IpuYYyIvpNeI3Q)
 + [Node.js 实现静态文件服务器，从 ES6 语法到项目构建！](https://mp.weixin.qq.com/s/tzWSCJprUO-Yiyvx9JL3iQ)
++ [我以为 Node.js 无所不能，直到一个 CPU 循环击穿了我](https://mp.weixin.qq.com/s/sta-3dmNaPlN605887_JAg)
 
 ## vite
 

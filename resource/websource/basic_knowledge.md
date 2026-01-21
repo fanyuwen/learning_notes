@@ -322,6 +322,7 @@
 + [在 Linux 中，教你打造一个简洁实用的 Vim ！](https://mp.weixin.qq.com/s/p7gBaxrNlfGQM3G5awn1rA)
 + [每天一条 Linux 命令：man](https://mp.weixin.qq.com/s/3xiB7POjdGRMxhS9ZauB5A)
 + [同事查日志太慢，我现场教他一套 awk、tail、grep、sed 组合拳](https://mp.weixin.qq.com/s/73jKCmLnhnzuHkCbh7nfpQ)
++ [别再死磕 ls / cat / grep 了，这 10 个现代 CLI 才是未来](https://mp.weixin.qq.com/s/4sFaZf_4a7P_KRqr8W8j1g)
 
 ### 发行版信息
 

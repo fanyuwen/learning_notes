@@ -481,6 +481,7 @@
 + [面试官：MySQL 内存飙升，可能是什么原因？](https://mp.weixin.qq.com/s/9gGs9Ll9Gubj7cbEva1VfQ)
 + [千万级大表如何新增字段？别再直接 ALTER 了](https://mp.weixin.qq.com/s/Ms0jElTallDNwpSBbQuznw)
 + [3 个奇淫巧技，分库分表 LIMIT 翻页性能直接拉满！](https://mp.weixin.qq.com/s/HjTDx7KBzKd4jT_8v3c-qA)
++ [很强！MySQL 窗口函数、CTE 联手查询优化，解锁数据高效处理](https://mp.weixin.qq.com/s/QWNrT7-2IKvSDu376gi_2g)
 
 #### 存储引擎
 
@@ -978,6 +979,9 @@
 + [面试官：Redis 数据类型有哪几种？](https://mp.weixin.qq.com/s/kHumcJoi35VTT7jf2tVXMQ)
 + [面试官：为什么 Redis 不支持回滚？](https://mp.weixin.qq.com/s/XbM1jo1mZaQhh6SvjGXL6A)
 + [面试官：谈谈 Redis 5.0 中的 Stream 消息队列？](https://mp.weixin.qq.com/s/nnAIWNf4RpN7fYq2Lbf9pg)
++ [面试官：Redis 如何高效安全的遍历所有 Key？](https://mp.weixin.qq.com/s/MQmq0eNjKo7PgBQc1_oFjQ)
++ [面试官：什么是 Redis 大 Key 问题，如何解决？](https://mp.weixin.qq.com/s/zc3gsMJ7D7XgfaFpT-wrwg)
++ [面试官：谈谈 Redis 的过期策略？](https://mp.weixin.qq.com/s/lqSizd2-tVcklHR6nz66HQ)
 
 #### 原理
 

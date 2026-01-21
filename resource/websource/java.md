@@ -772,6 +772,7 @@
 + [BIO/NIO/AIO傻傻分不清？](https://mp.weixin.qq.com/s/kfr1Ulg5g5dJHu6kIOfv-g)
 + [面试篇-Java输入输出三兄弟大比拼：IO、NIO、AIO对比分析](https://mp.weixin.qq.com/s/0pbSJpTqVfHZ0VqCEf0sHw)
 + [BIO 多线程优化探秘：问题根源与 IO 模式剖析](https://mp.weixin.qq.com/s/Q-QI7IsZRcXbNkbleyObHw)
++ [面试官：你知道AutoCloseable接口吗？](https://mp.weixin.qq.com/s/So6RcfkRfd73wMlUWtVgyA)
 
 ### 反射
 
@@ -1593,6 +1594,8 @@
 + [Java 集合--快速掌握涵盖三大场景实现的Set集合底层原理](https://mp.weixin.qq.com/s/lUWM-NBvg-xne4GdbyaysA)
 + [List排序不用愁，这几招轻松搞定](https://mp.weixin.qq.com/s/MXMa_Nww4WWzO62xQytdNg)
 + [别再乱 new ArrayList！8 大 Java 容器选型案例，一篇看懂](https://mp.weixin.qq.com/s/EndqGyUzmHy5KYU07o4ATA)
++ [面试官：ArrayList为啥要实现RandomAccess接口？](https://mp.weixin.qq.com/s/MielIq2Ih2isLzG_Ch4usw)
++ [炸裂！掌握这8个Java集合操作超神技巧，代码效率飙升](https://mp.weixin.qq.com/s/PtEKcGRsiNwwhy7aah0jRw)
 
 #### map
 
@@ -3422,6 +3425,7 @@
 + [Spring Boot 3 实战进阶：200 讲深度解锁高级技术，赋能高效开发](https://mp.weixin.qq.com/s/fY7C969QvR7rvQPJqphUuQ)
 + [高级开发！Spring Boot 深入底层优化接口调用，性能提升33%](https://mp.weixin.qq.com/s/Bdrg5B3TuUtSb7RQuXC1UA)
 + [Spring Boot 架构功力进阶：13 个设计模式真实落地案例全拆解](https://mp.weixin.qq.com/s/eJFM_RZ1RzzXdYlNM0pc4A)
++ [把接口加速10倍：SpringBoot 3 + 本地缓存「金字塔」实战，实现碾压级性能提升！](https://mp.weixin.qq.com/s/sg6hVm0QgztQcJqqMsx7sw)
 
 ##### 原理
 
@@ -4007,6 +4011,10 @@
 + [Spring Boot 4.0 真香：一个注解，让你的登录安全翻倍](https://mp.weixin.qq.com/s/o0yb2HTLBi41_Npc6W-uXA)
 + [Spring Boot 3 到底能扛多少并发？最大连接数一次讲透！](https://mp.weixin.qq.com/s/3iXpyu-u_HRCWqysGEaqdw)
 + [高级开发！Spring Boot 动态管理 Controller接口的6种方式](https://mp.weixin.qq.com/s/vNBx9dyPmHH2RRscojlZww)
++ [Spring Boot 超大请求/响应 JSON（100M）如何避免OOM？](https://mp.weixin.qq.com/s/3Pdl6XVWZUqjwgwi9X5cDA)
++ [SpringBoot 还在用 if 校验参数？那你真的太low了，老司机都是这么玩的！](https://mp.weixin.qq.com/s/uN8Npn8wwSCgwiGcieURZA)
++ [SpringBoot 还在用 if 校验参数？那你真的太low了，老司机都是这么玩的！](https://mp.weixin.qq.com/s/TckB626wsh_M5BN8DI4s0w)
++ [惊到了！@RequestParam隐藏的强大功能，很离谱](https://mp.weixin.qq.com/s/MtIQT1iNlS-xaYNroXQYKQ)
 
 ##### 文件上传下载
 
@@ -4451,6 +4459,7 @@
 + [Spring Boot 使用策略模式 + 注册表模式构建动态规则引擎](https://mp.weixin.qq.com/s/ATUxzl9IHI7LNdypyoGO2g)
 + [Spring Boot中策略模式结合依赖注入的实现方式](https://mp.weixin.qq.com/s/CyRGlIMcdB9LuLVCc5S8ig)
 + [SpringBoot + Facade Pattern : 通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/26dZiAMPPkGI-U16Z4nnUA)
++ [优雅！Spring Boot 策略模式 + 工厂模式完美应用【多端登录】](https://mp.weixin.qq.com/s/UTJI4TbUsOgPzmfoUjCPmA)
 
 #### message
 
@@ -4712,6 +4721,9 @@
 + [太强了！Java 源码分析、代码生成、规则检查，一键完善代码](https://mp.weixin.qq.com/s/94K8p_6TdVqM64ZYIYR3EA)
 + [Spring Boot 3 + Netty 构建高并发即时通讯服务](https://mp.weixin.qq.com/s/B3khfwOCvswIWTmwrAJVMw)
 + [Spring Boot 3 + Netty 构建高并发即时通讯服务](https://mp.weixin.qq.com/s/FE0wigpPvhwhZ3e0XB1FRg)
++ [SpringBoot 集成 Hera，让日志查看从 “找罪证” 变 “查答案”！](https://mp.weixin.qq.com/s/XTVOpJ4yYssEv0jSa-jaOA)
++ [SpringBoot 集成 Hera，让日志查看从 “找罪证” 变 “查答案”！](https://mp.weixin.qq.com/s/3A069PxCh9jUwv7FJ4G4MA)
++ [请不要自己写！Google开源一个注解自动生成重复模板代码](https://mp.weixin.qq.com/s/MMRl8ezKPO3LQHml5fh4Jg)
 
 ##### excel
 
@@ -5249,3 +5261,5 @@
 + [将 GPU 级性能带到企业级 Java：CUDA 集成实用指南](https://my.oschina.net/didispace/blog/18695216)
 + [Java AI 框架大比拼：Spring AI 与 LangChain4j 的挑战与优势](https://www.oschina.net/news/387114)
 + [从夯到拉，锐评13个 Java Web 框架！](https://mp.weixin.qq.com/s/Qtb4inYnx7tvg6MVqPS2MQ)
++ [蚂蚁又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/xRk87CRM3oBjqdazalnuHw)
++ [蚂蚁又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/AbqWyqCal9_7-ogeqxtBUA)

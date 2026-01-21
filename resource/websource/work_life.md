@@ -125,6 +125,8 @@
 + [前阵子面了一个42岁的大哥，简历递过来那一刻我愣住了。五年前他是我在某大厂的直属总监，后来他去创业，我跳槽了，结婚生子。](https://mp.weixin.qq.com/s/eEuBHwXwkU2_5IHEv4IVyw)
 + [为什么 45 岁程序员精通各种技术体系，却连个面试机会都很难得到？](https://mp.weixin.qq.com/s/JwSi2HZOF6kIqno7zSpQiA)
 + [为什么不要当太久的程序员？](https://mp.weixin.qq.com/s/KurPF8DVZb6EZih612FtPg)
++ [为什么 90% 的系统设计面试，程序员一开始就已经输了？](https://mp.weixin.qq.com/s/4aWev41MTdhPVQU4Ok1NQw)
++ [程序员埋头写代码的时代，已经结束了...](https://mp.weixin.qq.com/s/OGcgXJ7flhclvpNain9dcQ)
 
 # 个人成长
 
@@ -205,6 +207,7 @@
 + [为什么你反复练习还是学不会？真正让大脑进步的，是错误和重复密度，而不是时间长短](https://mp.weixin.qq.com/s/qUsPbsazSbXAi_ShfFregQ)
 + [好的代码是简洁的](https://mp.weixin.qq.com/s/rL3r8XUhS3d_LtumMSJjbw)
 + [软件开发中存在的 996 陷阱](https://www.oschina.net/news/385926)
++ [年龄大的人学单片机，有多困难？](https://mp.weixin.qq.com/s/D9juq918gApzTRSdzazXgw)
 
 ## 视频
 

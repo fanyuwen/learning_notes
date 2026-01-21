@@ -295,6 +295,7 @@
 + [告别雪花算法？一文看懂新一代分布式 ID 方案：ULID](https://mp.weixin.qq.com/s/NugRXC4kRpCRDpbi7xzUuQ)
 + [分布式中的“一致性”，到底指的是什么？](https://mp.weixin.qq.com/s/AljmTZC5QvBYjrxgCEdk9Q)
 + [5大分布式ID生成器方案详解(超全面)](https://mp.weixin.qq.com/s/zUt4-MOzZS5tgLiRCtiTmg)
++ [UUID已死！全新分布式ID组件TSID在Spring Boot下的实战，支持N种](https://mp.weixin.qq.com/s/8-G-MmJwgAIEmDzAbbBL4g)
 
 ## 分布式锁
 

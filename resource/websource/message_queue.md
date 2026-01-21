@@ -193,6 +193,7 @@
 + [源码解读：RocketMQ与DDMQ的顺序消费](https://mp.weixin.qq.com/s/j7vK8XL9mO06to0Tk734bw)
 + [RocketMQ 存储性能剖析（第四章)：索引机制](https://mp.weixin.qq.com/s/jTWCmAJhwz2_xqMU0h6WLw)
 + [RocketMQ 高性能揭秘：承载万亿级流量的架构奥秘｜得物技术](https://my.oschina.net/u/5783135/blog/19108015)
++ [面试官：RocketMQ 的消息是推模式，还是拉模式？](https://mp.weixin.qq.com/s/9TgLh9CmkRNRiayLmvvtpw)
 
 # RABBITMQ
 

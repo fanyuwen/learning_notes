@@ -69,3 +69,5 @@
 
 + [如何使用 OpenCV 进行图像分割](https://mp.weixin.qq.com/s/nmEdHDsHxcoqsYsMVTTgFw)
 + [OpenCV 如何调用摄像头](https://mp.weixin.qq.com/s/dvmdEmr68I6ZQw4ppDZU8g)
++ [相机采集图像超分辨率增强：提升低清图像细节的 6 个核心技巧，附 OpenCV+Halcon 实战代码！](https://mp.weixin.qq.com/s/hpU_LtBaASr-9qMrb6qPbA)
++ [C# 不依赖 OpenCV 的图像处理算法：滤波、锐化与边缘检测](https://mp.weixin.qq.com/s/kiw7Kd3wod4bojjm4fHE7A)

@@ -28,6 +28,7 @@
 
 ## JENKINS
 
++ [一天一个计算机知识：Jenkins](https://mp.weixin.qq.com/s/aQnnaJkB8MY26LqM662tLg)
 + [还在用Jenkins？快来试试这款简而轻的自动化部署工具吧！](https://mp.weixin.qq.com/s/UEGBmc5TfZ8_C3l4-BaM2Q)
 + [Jenkins 使用之邮件模板配置](https://my.oschina.net/u/2512041/blog/4377210)
 + [图解 Jenkins Pipeline 的前端自动化部署，用上后真香！](https://mp.weixin.qq.com/s/fU_aeRV5gmtfgnVUrTwobg)

@@ -161,6 +161,7 @@
 + [公司来的新人用字符串存储日期，被组长怒怼了...](https://mp.weixin.qq.com/s/HhorRlnbC9ArIloZ1yhOzw)
 + [如何设计一个无限层级的树状数据结构？关系性数据库设计，mysql、面试必备](https://mp.weixin.qq.com/s/cekbUoJMebSUXQ4NgF9z2Q)
 + [面试官问：50亿级订单表，如何毫秒级查询？](https://mp.weixin.qq.com/s/AO_h2oGsd6UJnDmC0T_nLQ)
++ [面试官：加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/ooMiLgNw0HuC0WMJpwPc2w)
 
 ### 读写分离&分库分表
 
@@ -975,6 +976,8 @@
 + [一文解析得物自建 Redis 最新技术演进](https://my.oschina.net/u/5783135/blog/18769207)
 + [Redis 缓存的常见异常及解决方案，干货建议收藏！](https://mp.weixin.qq.com/s/HXOqmLUu-dyNzP-L5GQcNg)
 + [面试官：Redis 数据类型有哪几种？](https://mp.weixin.qq.com/s/kHumcJoi35VTT7jf2tVXMQ)
++ [面试官：为什么 Redis 不支持回滚？](https://mp.weixin.qq.com/s/XbM1jo1mZaQhh6SvjGXL6A)
++ [面试官：谈谈 Redis 5.0 中的 Stream 消息队列？](https://mp.weixin.qq.com/s/nnAIWNf4RpN7fYq2Lbf9pg)
 
 #### 原理
 

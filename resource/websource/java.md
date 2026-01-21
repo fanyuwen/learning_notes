@@ -308,6 +308,8 @@
 + [JDK8 写 10 行，JDK17 写 1 行，我还用它干嘛？](https://mp.weixin.qq.com/s/hIq82BLZkmUY9hQAvUuSHg)
 + [JDK8 写 10 行，JDK17 写 1 行，我还用它干嘛？](https://mp.weixin.qq.com/s/bYVgKKctn1M23KQ-iesb9g)
 + [JDK21:若传统多线程是自行车，虚拟线程就是飞机](https://mp.weixin.qq.com/s/__KTM8V9rHhH_T5ap25mjg)
++ [Java25 是真的强啊：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/gOtksuftN8yHxw2ZpM9l7w)
++ [Java25 是真的强啊：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/9nDkWxQRN_levPn7n9amfg)
 
 ## 高级用法
 
@@ -624,6 +626,7 @@
 + [丢人！被小小的String.valueOf(...)坑了](https://mp.weixin.qq.com/s/q56HXibo5CvS2TA5YpubZA)
 + [遍历集合时修改元素报错？这六种方法请收好](https://mp.weixin.qq.com/s/QFn_tzZ5l0TXKCN2Z3YZeA)
 + [太强了！30个优化Java代码的技巧](https://mp.weixin.qq.com/s/gzrTxH0rSwL4-ayj2pIIIQ)
++ [瞧瞧别人家的判空，那叫一个优雅！](https://mp.weixin.qq.com/s/t3w8PF5SoRbNG9LjtKrwSw)
 
 # 底层
 
@@ -1634,6 +1637,7 @@
 + [面试必问：HashMap 为啥要用红黑树？一篇讲透底层逻辑](https://mp.weixin.qq.com/s/h51JqO8oldQr5DeHoIGe7Q)
 + [揭秘HashMap选择红黑树的深层原因：避免这些坑，你的系统才能更稳定！](https://mp.weixin.qq.com/s/8ZjnFyAmSIokgFe43cdwtA)
 + [HashMap深度解剖：你以为的“键值对”远不止那么简单！](https://mp.weixin.qq.com/s/m-SFsEb24imEQjfwyw2X-A)
++ [新来的实习生不会用Map的computeIfAbsent方法，被领导骂哭！](https://mp.weixin.qq.com/s/XNPN0BFoL1xDLe9-x5N09w)
 
 ### Optional
 
@@ -1994,6 +1998,7 @@
 + [maven(高级maven配置)](https://mp.weixin.qq.com/s/uq7hzEFJN0ZGftNvTMch6Q)
 + [maven专题-分析去除无用的依赖包](https://mp.weixin.qq.com/s/3in33vG7BxwAo6jlbo4dwA)
 + [告别 Jar 包地狱：快速解决 Maven 版本冲突指南](https://mp.weixin.qq.com/s/fDMjMinQj_YtX7LGcRaVmg)
++ [再见 Maven！](https://mp.weixin.qq.com/s/aNKGh_tWnaOZz5BqAtD4Hg)
 
 # 功能
 
@@ -2316,6 +2321,7 @@
 + [只会写 Mapper 就敢说会 MyBatis？面试官：原理都没懂](https://mp.weixin.qq.com/s/o8PEVApCDmt_vufa6hTssg)
 + [MyBatis 进阶：动态 SQL、关联查询与缓存，中级开发者必备技巧](https://mp.weixin.qq.com/s/3x67LNueFCAOY24g-upimg)
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/3M2fiwJGmjhN-VmULkj1SQ)
++ [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/mRz_pgfRCFdIfiQ1Exibdw)
 
 ### plus
 
@@ -3415,6 +3421,7 @@
 + [高级开发必须掌握！Spring Boot 强大的外部化配置机制](https://mp.weixin.qq.com/s/2KvZbrXcgpb3DAMMRkn1RA)
 + [Spring Boot 3 实战进阶：200 讲深度解锁高级技术，赋能高效开发](https://mp.weixin.qq.com/s/fY7C969QvR7rvQPJqphUuQ)
 + [高级开发！Spring Boot 深入底层优化接口调用，性能提升33%](https://mp.weixin.qq.com/s/Bdrg5B3TuUtSb7RQuXC1UA)
++ [Spring Boot 架构功力进阶：13 个设计模式真实落地案例全拆解](https://mp.weixin.qq.com/s/eJFM_RZ1RzzXdYlNM0pc4A)
 
 ##### 原理
 
@@ -3695,6 +3702,7 @@
 + [从Spring Boot 3 到 4：API 接口多版本控制的7中方案](https://mp.weixin.qq.com/s/f-OFhxlnrzY-SabJzObf6w)
 + [Spring 6.0+Boot 3.0：秒级启动、万级并发的开发新姿势](https://mp.weixin.qq.com/s/e80p0G0Z-Re7nwPw-j71vg)
 + [SpringBoot4 模块化升级让人头大，Classic兼容方案帮你平稳过渡](https://mp.weixin.qq.com/s/pnHCrc10vGDqbDoYc654ig)
++ [2026 年 Spring Boot 技术风向彻底变了！这 8 个新趋势你必须提前布局](https://mp.weixin.qq.com/s/EEermNqX-vxVqBMJ1QMxog)
 
 #### 分布式
 
@@ -3997,6 +4005,8 @@
 + [Spring Boot 枚举参数接收全攻略：4种转换方式详解](https://mp.weixin.qq.com/s/OPK6DtvUwEYtRojqbng9NA)
 + [超硬核：SpringBoot+ResponseBodyEmitter异步流式推送神技，非常强大！](https://mp.weixin.qq.com/s/olCzMv1m7RabYL3OpInt3g)
 + [Spring Boot 4.0 真香：一个注解，让你的登录安全翻倍](https://mp.weixin.qq.com/s/o0yb2HTLBi41_Npc6W-uXA)
++ [Spring Boot 3 到底能扛多少并发？最大连接数一次讲透！](https://mp.weixin.qq.com/s/3iXpyu-u_HRCWqysGEaqdw)
++ [高级开发！Spring Boot 动态管理 Controller接口的6种方式](https://mp.weixin.qq.com/s/vNBx9dyPmHH2RRscojlZww)
 
 ##### 文件上传下载
 
@@ -4140,6 +4150,7 @@
 + [只会用JPA中的save方法？Spring Boot 中隐藏的10个强大方法](https://mp.weixin.qq.com/s/4IegW7-uCrjod1wF85k4pw)
 + [Spring Boot 一行代码搞定 JSON 与 CSV 双向转换](https://mp.weixin.qq.com/s/3JZ4Jpu9JiFAgGj6DWE8qg)
 + [JAVA：Spring Boot3 集成 SQLite 轻量级本地数据库](https://mp.weixin.qq.com/s/k_0AK5cI3LCCCsf2e7YsEg)
++ [JAVA： Spring Boot 集成 Batch 实现数据批处理](https://mp.weixin.qq.com/s/2KRlQqettUpWeU-4Nlicaw)
 
 ##### TRANSACTION
 
@@ -4245,6 +4256,7 @@
 + [Java进阶手册（二十五）SpringBoot中利用悲观锁来解决高并发场景下的数据一致性问题](https://mp.weixin.qq.com/s/peHJQJL8L_gJNencmdPKMQ)
 + [Spring Boot 动态线程池实战方案大公开！](https://mp.weixin.qq.com/s/dtZ02ip40udoFHPfeGF8lQ)
 + [SpringBoot 时间轮实现延时任务](https://mp.weixin.qq.com/s/0L5MvZcT0nEwK4XRD1F7sw)
++ [分布式场景下 @Scheduled 防重复执行的三大方案](https://mp.weixin.qq.com/s/BNeFsX2T76IdITdhpeRxyA)
 
 ##### Disruptor
 
@@ -4536,6 +4548,7 @@
 + [Spring Boot 条件化配置与配置组：优雅管理复杂应用配置](https://mp.weixin.qq.com/s/ilQASw9Jv7lmwCIJA6JiGw)
 + [SpringBoot 容器镜像更新只要200k，你敢信？？？](https://mp.weixin.qq.com/s/6n-Yk-QUgKDBmDKA4dhd-Q)
 + [Spring Boot 配置文件9个隐藏功能，最后两个是真不知道啊](https://mp.weixin.qq.com/s/51i1mtlrZdYiS8BUIT4vaw)
++ [SpringBoot应用部署神器：可视化服务管理脚本让运维更轻松](https://mp.weixin.qq.com/s/FAUfYI2jqM76LrUk7PuKwg)
 
 #### 集成三方
 
@@ -5235,3 +5248,4 @@
 + [会Java还需要学习C/C++或Kotlin吗？](https://mp.weixin.qq.com/s/qedv7X7LKSofLoRyYovV9A)
 + [将 GPU 级性能带到企业级 Java：CUDA 集成实用指南](https://my.oschina.net/didispace/blog/18695216)
 + [Java AI 框架大比拼：Spring AI 与 LangChain4j 的挑战与优势](https://www.oschina.net/news/387114)
++ [从夯到拉，锐评13个 Java Web 框架！](https://mp.weixin.qq.com/s/Qtb4inYnx7tvg6MVqPS2MQ)

@@ -233,6 +233,7 @@
 + [如何在TypeScript里使用类封装枚举来实现Java的枚举形参倒置](https://mp.weixin.qq.com/s/lV3eUO9Dm4zV8Cb-j0wG6w)
 + [为什么有些依赖必须 import *引入使用？](https://mp.weixin.qq.com/s/q7kFVytSvfUtpaYJvsn8BA)
 + [JavaScript！10个强到离谱的API，90%的人都不知道](https://mp.weixin.qq.com/s/lsCB__eump8iLGirkHoXAA)
++ [finally 在 JavaScript 中的真正作用](https://mp.weixin.qq.com/s/8N1bI5tXF-O_jCpaRsyk7w)
 
 # 框架
 
@@ -406,6 +407,7 @@
 + [并发与并行](https://mp.weixin.qq.com/s/Sj-KdyfWRtIL-8FGTgBwew)
 + [一个 4.7 GB 视频把浏览器拖进 OOM](https://mp.weixin.qq.com/s/E_atN0M-5mJT5vyiGwsgRw)
 + [项目性能优化实践：深入 FMP 算法原理探索｜得物技术](https://my.oschina.net/u/5783135/blog/18860898)
++ [前端性能革命：200 行 JavaScript 代码实现 Streaming JSON](https://mp.weixin.qq.com/s/Yi19DJ-_OR-0tjB9F9qmmA)
 
 # 杂谈
 

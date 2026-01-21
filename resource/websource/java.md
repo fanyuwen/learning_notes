@@ -1143,6 +1143,7 @@
 + [深入理解 Java 并发的半壁江山： AQS](https://mp.weixin.qq.com/s/fHz7HarJLBfwU5_Ax3U0BQ)
 + [锁升级到底能不能 “退烧”？synchronized 释放后状态解析](https://my.oschina.net/u/9493576/blog/18693710)
 + [别再只会synchronized！Java 4大高级锁全解析](https://mp.weixin.qq.com/s/FeBFOarqjCI12XS-BN4tNw)
++ [StampedLock：一种比ReadWriteLock更快的锁](https://mp.weixin.qq.com/s/7EV9ctqpq_bvjoltLJty5w)
 
 #### volatile
 

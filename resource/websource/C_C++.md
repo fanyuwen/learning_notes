@@ -716,6 +716,7 @@
 + [C++ CUDA 核函数中的数据类型](https://mp.weixin.qq.com/s/n4sgrxqM3j98ObA80RZvJg)
 + [并行编程实战——CUDA编程基础入门](https://mp.weixin.qq.com/s/TGq1U3d4Pw0oohc7XfRAnw)
 + [并行编程实战——CUDA编程的变量类型限定和内置变量](https://mp.weixin.qq.com/s/sH_CpIhAbKu2H6h-XSYLxQ)
++ [你说的 CUDA 到底是哪个 CUDA？一文理清那些让人混淆的术语和版本号](https://my.oschina.net/IDP/blog/19000093)
 
 ## C
 
@@ -1119,6 +1120,7 @@
 + [设计模式:嵌入式C语言实现探索_13.状态模式](https://mp.weixin.qq.com/s/gjGandXKeaPfcb8IZyko7Q)
 + [volatile关键字在嵌入式中的作用，90%的人没搞懂](https://mp.weixin.qq.com/s/g-Y6sAr8VYqX9RHtLgM9NQ)
 + [嵌软面试-操作系统篇：12-Linux 内核中断处理过程](https://mp.weixin.qq.com/s/bV_a7tCNuzeRjWGodsK7ug)
++ [嵌入式UI开发新选择：CDroid](https://mp.weixin.qq.com/s/2XlZglmP64A3cuILJTzuRw)
 
 # ARM
 

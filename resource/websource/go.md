@@ -248,6 +248,7 @@
 + [Golang HTTP 请求超时与重试：构建高可靠网络请求｜得物技术](https://my.oschina.net/u/5783135/blog/18753416)
 + [Go 中最容易被忽视的强大特性：Struct Embedding 详解](https://mp.weixin.qq.com/s/rECp2r8QhRAc6QEq6Xzw4w)
 + [自从团队用了 Go，部署只要 1 秒了……但真正的惊喜还在后面](https://mp.weixin.qq.com/s/OP15jTnU8CvtJ0kz9grMXQ)
++ [Go语言中的并行表驱动测试](https://mp.weixin.qq.com/s/ufZ5C7eaEuvgDn4fj61-rA)
 
 # 面试题
 

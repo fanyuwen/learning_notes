@@ -597,6 +597,7 @@
 + [分页查询接口，从2s优化到了0.01s](https://mp.weixin.qq.com/s/jYaDvuN6o-EAUgrlNRHDFw)
 + [如何优化高并发下的接口](https://mp.weixin.qq.com/s/L-ZGGqWeBdXVCmyE2BZr1w)
 + [常用的性能优化手段](https://mp.weixin.qq.com/s/aqTTQE-hMFUj-xmyg0XjrQ)
++ [单机架构下如何设计能达到上万并发??](https://mp.weixin.qq.com/s/SfvyNKUIpdPfnZIcbHKRzg)
 
 ## 跨域
 
@@ -743,6 +744,7 @@
 + [转转客服 IM 聊天系统背后的技术挑战和实践分享](https://my.oschina.net/jb2011/blog/18707699)
 + [腾讯新闻 APP 的消息推送 Push 架构技术重构实践](https://my.oschina.net/jb2011/blog/18911294)
 + [大厂面试题：深拷贝是什么？底层实现机制？](https://mp.weixin.qq.com/s/LzvfKJrWgbYRDcYrYIjSAA)
++ [拒绝查询超时：一次真实高并发场景下的 SLS 物化视图调优实战](https://my.oschina.net/u/3874284/blog/19161174)
 
 # 测试相关
 
@@ -760,6 +762,7 @@
 + [得物精准测试平台设计与实现](https://my.oschina.net/u/5783135/blog/16511939)
 + [关于API性能测试压力模型选择的思考](https://mp.weixin.qq.com/s/ZhGGC70AGIuhp7tu41w-Jw)
 + [告别代码焦虑，单元测试让你代码自信力一路飙升！](https://my.oschina.net/u/6769809/blog/18684709)
++ [得物 App 智能巡检技术的探索与实践](https://my.oschina.net/u/5783135/blog/19203604)
 
 # 领域相关
 

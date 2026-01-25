@@ -162,6 +162,7 @@
 + [如何设计一个无限层级的树状数据结构？关系性数据库设计，mysql、面试必备](https://mp.weixin.qq.com/s/cekbUoJMebSUXQ4NgF9z2Q)
 + [面试官问：50亿级订单表，如何毫秒级查询？](https://mp.weixin.qq.com/s/AO_h2oGsd6UJnDmC0T_nLQ)
 + [面试官：加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/ooMiLgNw0HuC0WMJpwPc2w)
++ [高并发下是先写数据库，还是先写缓存？](https://mp.weixin.qq.com/s/9nO3ChDlfMDLyZsFOva5IA)
 
 ### 读写分离&分库分表
 
@@ -482,6 +483,7 @@
 + [千万级大表如何新增字段？别再直接 ALTER 了](https://mp.weixin.qq.com/s/Ms0jElTallDNwpSBbQuznw)
 + [3 个奇淫巧技，分库分表 LIMIT 翻页性能直接拉满！](https://mp.weixin.qq.com/s/HjTDx7KBzKd4jT_8v3c-qA)
 + [很强！MySQL 窗口函数、CTE 联手查询优化，解锁数据高效处理](https://mp.weixin.qq.com/s/QWNrT7-2IKvSDu376gi_2g)
++ [面试官：MySQL 自增主键用完了怎么办?](https://mp.weixin.qq.com/s/VJTQ6tIvIcyUohStivES4Q)
 
 #### 存储引擎
 
@@ -699,6 +701,8 @@
 + [MySQL之进阶：一篇文章搞懂MySQL索引之B+树](https://mp.weixin.qq.com/s/UB2AS5h-On2HufI2rQ74eg)
 + [如何在MySQL中创建聚集索引？](https://mp.weixin.qq.com/s/LejGAACiSEkXICXzILW8rA)
 + [MySQL模糊查询再也用不着like+%了！](https://mp.weixin.qq.com/s/pWzkSXRKIzYr32YFhmzqIw)
++ [面试官：唯一索引和主键索引的区别？](https://mp.weixin.qq.com/s/kSafBS_ybirUsVTfCWLePg)
++ [面试官：设计索引时应遵循哪些原则？](https://mp.weixin.qq.com/s/FZ4ev7VPtoXcyDo2w3Af-A)
 
 ### PostgreSQL
 

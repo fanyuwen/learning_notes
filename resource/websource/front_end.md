@@ -356,6 +356,7 @@
 + [Nuxt3和Next.js对比](https://mp.weixin.qq.com/s/OuKO8fcT5LsIBWtkSH7Png)
 + [您需要了解的 10 个顶级 JavaScript 库](https://mp.weixin.qq.com/s/PK9eBvHGkz2ihHtL5CD7lg)
 + [使用express-validator进行数据校验](https://mp.weixin.qq.com/s/HVVufriLLZfYqkOeyOkmUg)
++ [开源项目：Three.js 构建 3D 世界的工具库](https://mp.weixin.qq.com/s/tMbDi5JyZn9su2yKIKdkMg)
 
 # 架构相关
 

@@ -44,6 +44,7 @@
 + [可信数据流通开发者必看，深度解读隐语密态计算设备 SPU（Secretflow Processing Unit）](https://my.oschina.net/u/5915128/blog/18693445)
 + [AI 处理器全景指南（CPU、GPU、TPU、APU、NPU、IPU、RPU...）](https://my.oschina.net/IDP/blog/18924652)
 + [AI Coding 与单元测试的协同进化：从验证到驱动](https://my.oschina.net/meituantech/blog/18885034)
++ [Python：PyTorch 深度学习框架的技术指南](https://mp.weixin.qq.com/s/gA02ILcKrqjICPKWDBp8Ew)
 
 ## 资讯
 
@@ -65,7 +66,11 @@
 
 + [Cursor 开发指南](https://my.oschina.net/u/3768341/blog/16929248)
 
-# openCV
+# 计算机视觉
+
++ [3D成像： 工业环境中的3D机器视觉](https://mp.weixin.qq.com/s/R_BBemcLdk3u-KuTHUb0QQ)
+
+## openCV
 
 + [如何使用 OpenCV 进行图像分割](https://mp.weixin.qq.com/s/nmEdHDsHxcoqsYsMVTTgFw)
 + [OpenCV 如何调用摄像头](https://mp.weixin.qq.com/s/dvmdEmr68I6ZQw4ppDZU8g)

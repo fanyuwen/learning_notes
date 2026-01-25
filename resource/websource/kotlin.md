@@ -61,7 +61,10 @@
 + [协程深入浅出用法介绍](https://mp.weixin.qq.com/s/jlC3o5SaDd9k01mJKrrRjA)
 + [Kotlin 函数式编程思想](https://mp.weixin.qq.com/s/9IrYpMkNsE2Esb_rYTRNzQ)
 + [看到Kotlin里满屏的 inline，我真的想 Java 了](https://mp.weixin.qq.com/s/C8aCV7nEOFZYxQ7ZfcMi0A)
++ [面向 Java 开发者的 Kotlin 使用入门 | 《Java 转 Kotlin 终极指南》第 1 期](https://mp.weixin.qq.com/s/66m6kenRik5F0FjSKFtrXg)
++ [在实际项目中评估 Kotlin | 《Java 转 Kotlin 终极指南》第 2 期](https://mp.weixin.qq.com/s/Qi70-g5H3J6TGi5mZBadUA)
 + [在公司内部扩大 Kotlin 的采用 | 《Java 转 Kotlin 终极指南》第 3 期](https://mp.weixin.qq.com/s/GjNBc-hxHU860Y4VdI2IFw)
++ [帮助决策者认可 Kotlin｜《Java 转 Kotlin 终极指南》第 4 期](https://mp.weixin.qq.com/s/l1MKdXim853jsAXcYAelPA)
 
 ## 技术月报
 

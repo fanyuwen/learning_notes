@@ -260,3 +260,4 @@
 + [僭越了，有人在用 Rust 写 Kubernetes](https://mp.weixin.qq.com/s/1dsEML4ZCL7ScM0sRVlGLQ)
 + [为什么选择用Rust做电信基础设施项目？](https://mp.weixin.qq.com/s/PcPKprUKVYILQ9zbgZmt7Q)
 + [Rust 正在颠覆嵌入式开发：内存安全如何做到零妥协？](https://mp.weixin.qq.com/s/flyTkzbeSnkWSxCeqPItIQ)
++ [Go 和 Rust 吵翻天的 2025 年，真正危险的对手其实是 Zig](https://mp.weixin.qq.com/s/Zdmd0K_9OdKfMiE8iVbPUA)

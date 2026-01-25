@@ -127,6 +127,10 @@
 + [为什么不要当太久的程序员？](https://mp.weixin.qq.com/s/KurPF8DVZb6EZih612FtPg)
 + [为什么 90% 的系统设计面试，程序员一开始就已经输了？](https://mp.weixin.qq.com/s/4aWev41MTdhPVQU4Ok1NQw)
 + [程序员埋头写代码的时代，已经结束了...](https://mp.weixin.qq.com/s/OGcgXJ7flhclvpNain9dcQ)
++ [35岁当程序员有没有问题？IT人必看的4条生存法则](https://mp.weixin.qq.com/s/1Al8SRrd321DBUAHy5rztg)
++ [3个信号，暗示你在公司已经没戏了](https://mp.weixin.qq.com/s/cwwvLlIAdzJu3y5xfnGCkA)
++ [讲真，我还没见过这么垃圾的IT软件公司！！](https://mp.weixin.qq.com/s/2uVZOQFdbnMCEXs4_bN3wQ)
++ [某leader：组里一个执行力极强的开发，月薪30k，从不迟到、从不推活，安排啥就干啥。但是太听话了，虽然好用，却没有预判能力](https://mp.weixin.qq.com/s/iZHcYFPK2qdbo71fjTvkrw)
 
 # 个人成长
 
@@ -208,6 +212,7 @@
 + [好的代码是简洁的](https://mp.weixin.qq.com/s/rL3r8XUhS3d_LtumMSJjbw)
 + [软件开发中存在的 996 陷阱](https://www.oschina.net/news/385926)
 + [年龄大的人学单片机，有多困难？](https://mp.weixin.qq.com/s/D9juq918gApzTRSdzazXgw)
++ [15 个程序员坏习惯清单：现在不改，迟早毁掉你的职业口碑](https://mp.weixin.qq.com/s/R8ESd-wIJj0nz1cLqe6abQ)
 
 ## 视频
 
@@ -307,6 +312,7 @@
 + [一款高颜值、现代化的 Git 可视化管理神器](https://mp.weixin.qq.com/s/TumQkSVIeYji7vsp18uXpQ)
 + [换掉 Xshell，试试这款高颜值跨平台 SSH 客户端](https://mp.weixin.qq.com/s/sOylWpKpvYPTfgO9P91fkg)
 + [一款被低估的插件：IDEA+JProfiler=性能分析神器](https://mp.weixin.qq.com/s/Wklsp-id496JOovSipGM3g)
++ [Putty 已死？2026 年最值得尝试的 5 款终端客户端](https://mp.weixin.qq.com/s/eutA7aZoznZ3Naqsf7pMUw)
 
 ## 开源资源
 

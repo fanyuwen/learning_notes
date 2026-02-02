@@ -963,6 +963,7 @@
 + [无锁编程基础：Sequential Consistency是什么？Lamport 1979 论文精读](https://mp.weixin.qq.com/s/RcjHwAhBV6vKO4SfZGyLCA)
 + [技术面：Java并发（上下文切换、线程安全、并发与并行、守护线程、虚拟线程）](https://mp.weixin.qq.com/s/3ScqleFqCjzqFfyR1BSNNA)
 + [Java多线程高效通信：掌握这八种方法就够了](https://mp.weixin.qq.com/s/BqDIhGylk5O4dZb34ibxEg)
++ [多线程的这 12 种用途，99% 的人不知道！](https://my.oschina.net/u/4163222/blog/19204905)
 
 #### CAS
 
@@ -1478,6 +1479,7 @@
 + [ThreadLocal：线程中的全局变量 | 京东云技术团队](https://my.oschina.net/u/4090830/blog/10107378)
 + [主线程存了用户信息，子线程居然拿不到？ThreadLocal 背锅](https://mp.weixin.qq.com/s/kCjstV09D39dVc8VoT0gQg)
 + [深入理解ThreadLocal](https://mp.weixin.qq.com/s/HSz322hct9MxqHqtCWgSHw)
++ [InheritableThreadLocal 从入门到放弃](https://my.oschina.net/u/4090830/blog/19204066)
 
 ## math库
 

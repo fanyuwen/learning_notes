@@ -45,6 +45,7 @@
 + [AI 处理器全景指南（CPU、GPU、TPU、APU、NPU、IPU、RPU...）](https://my.oschina.net/IDP/blog/18924652)
 + [AI Coding 与单元测试的协同进化：从验证到驱动](https://my.oschina.net/meituantech/blog/18885034)
 + [Python：PyTorch 深度学习框架的技术指南](https://mp.weixin.qq.com/s/gA02ILcKrqjICPKWDBp8Ew)
++ [OpenAI 详解 Codex CLI 核心逻辑：Agent loop](https://www.oschina.net/news/399644/openai-unrolling-the-codex-agent-loop)
 
 ## 资讯
 

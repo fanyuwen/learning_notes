@@ -5037,6 +5037,7 @@
 + [手动造数据OUT了！用DataFaker生成百万级真实感演示数据](https://mp.weixin.qq.com/s/8U-CpFPGoSDaB9oP6kD4qQ)
 + [轻量级分布式日志标记追踪神器，十分钟即可接入到项目！](https://mp.weixin.qq.com/s/5NMA41r9yFYDyImHr4qPtQ)
 + [Bean Searcher 遇 “鬼” 记：为何我的查询条件偷偷跑进了 HAVING？](https://my.oschina.net/u/1415804/blog/18919418)
++ [dbVisitor 的双层适配架构](https://my.oschina.net/ta8210/blog/19203598)
 
 # 其它环境
 

@@ -5293,3 +5293,4 @@
 + [蚂蚁又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/AbqWyqCal9_7-ogeqxtBUA)
 + [震撼！我只改了一个注解，Java 后端性能直接飙升 50 倍！](https://mp.weixin.qq.com/s/qWQp0nPwTDZGY3n1BqKk7g)
 + [还在用老套路写 Java？2026 年 Spring Boot 的新趋势，可能直接淘汰你](https://mp.weixin.qq.com/s/GqeWZFwZQOvF4DwaRO_v3Q)
++ [2025 美团技术团队热门技术文章汇总](https://my.oschina.net/meituantech/blog/19107757)

@@ -36,6 +36,7 @@
 + [被吹爆的 RedisJSON，速度真的比 ElasticSearch 强吗？实测揭秘](https://mp.weixin.qq.com/s/g2MtdaDPVUickxIbbie46Q)
 + [Elasticsearch 中使用 NVIDIA cuVS 实现最高快 12 倍的向量索引速度：GPU 加速第 2 章](https://my.oschina.net/u/3343882/blog/18916767)
 + [号称取代 Elasticsearch，太猛了！](https://mp.weixin.qq.com/s/DPipCwNnuR5roVFJTAiZUQ)
++ [为什么 ES 的搜索结果只到 10,000？强制 “数清楚” 的代价有多大](https://my.oschina.net/u/5583868/blog/19205380)
 
 ## solr
 

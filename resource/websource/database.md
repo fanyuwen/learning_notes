@@ -228,6 +228,7 @@
 ### MYSQL
 
 + [快速入门-MySQL](https://mp.weixin.qq.com/s/uqDEEENiv9zRNaGfWRCcuQ)
++ [MySQL 9.6.0 创新版正式发布](https://www.oschina.net/news/398315)
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [初学者也能掌握的MySQL Explain技巧](https://mp.weixin.qq.com/s/SqfeXQmy9NCUYhX8mAZkxA)
 + [MySQL 8.2 支持读写分离！](https://mp.weixin.qq.com/s/CvL7xpiKN02Ngp74fjBOwg)

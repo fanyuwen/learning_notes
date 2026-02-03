@@ -1191,6 +1191,7 @@
 + [如何优雅的规划数仓架构](https://mp.weixin.qq.com/s/mBklcW_GkV9atrlEPDM8JQ)
 + [大数据存储选型-doris安装和部署](https://mp.weixin.qq.com/s/_ThbW0wxp0V0Q2AGDu9D2g)
 + [SQL成神之路｜Hive字符串函数不过如此](https://mp.weixin.qq.com/s/b_F35w78rhvsg-ti5lrRmw)
++ [vivo Celeborn PB 级 Shuffle 优化处理实践](https://my.oschina.net/vivotech/blog/18933806)
 
 ## flink
 

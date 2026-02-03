@@ -1171,6 +1171,7 @@
 
 + [企业级的OSS对象存储服务，这样封装万能好用！](https://mp.weixin.qq.com/s/RmummczxPooz2Na5qhM8rw)
 + [分布式存储的技术选型：HDFS、Ceph、MinIO对比](https://mp.weixin.qq.com/s/1K1VIZsWf33XN0F9IRXqAw)
++ [仅两台缓存节点，如何支撑 1.45TB/s 大吞吐业务](https://my.oschina.net/u/5389802/blog/19204028)
 
 ### minio
 

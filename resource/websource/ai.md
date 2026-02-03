@@ -1,5 +1,6 @@
 # 主题
 
++ [1 篇搞懂 AI 通识：大白话拆解核心点](https://my.oschina.net/u/4090830/blog/19204068)
 + [AI Agent ： 7大认知框架全解析与代码实现](https://mp.weixin.qq.com/s/37fXT3wPNRQMNtoXPx0ilg)
 + [未来医疗革命：AI如何重塑药物设计](https://mp.weixin.qq.com/s/QCRmkeHfN6wvcj-bwSVblw)
 + [一文详谈RAG优化方案与实践](https://mp.weixin.qq.com/s/HT9bjXpwoSszU_ru-e-9dw)

@@ -325,6 +325,7 @@
 ## 行业资源
 
 + [阿里巴巴26个屌炸天的开源项目，你知道几个？](https://mp.weixin.qq.com/s/6tvz_DbGRWhVHPFfZmYG6A)
++ [英伟达财报之外：一个正在松动的 AI 权力结构](https://my.oschina.net/IDP/blog/19204630)
 
 ## idea相关
 

@@ -732,6 +732,7 @@
 + [聚焦六大功能：PostgreSQL 18 新特性深度解析](https://my.oschina.net/u/5729420/blog/18693388)
 + [PostgreSQL有这么多优势，为什么还要使用MySQL？](https://mp.weixin.qq.com/s/fP4vTWYAxBQ9mrj8DREFsQ)
 + [有了开源的 MySQL，为什么还要选择 PostgreSQL？](https://mp.weixin.qq.com/s/ouhe0yPoq3pDD16BXcz_Hw)
++ [OpenAI 用 PostgreSQL 扛起 8 亿用户级别流量](https://www.oschina.net/news/399593/openai-scaling-postgresql)
 
 ### SQLSERVER
 

@@ -53,6 +53,9 @@
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)
 + [在国产系统上部署开源大模型](https://mp.weixin.qq.com/s/jIaA30d2yCGtuUeIq41IBg)
 + [在零售技术做 AI 的 95 后：我们这样搞定技术难题](https://my.oschina.net/u/4090830/blog/18483708)
++ [Node.js 之父放话：人类写代码的时代已经结束](https://www.oschina.net/news/398168)
++ [“自由软件之父” RMS 抨击 AI、联网汽车和智能手机](https://www.oschina.net/news/399848)
++ [Redis 之父：编程已实现自动化](https://www.oschina.net/news/401578)
 
 ## LangChain
 

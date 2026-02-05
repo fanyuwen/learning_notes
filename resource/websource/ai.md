@@ -47,6 +47,7 @@
 + [AI Coding 与单元测试的协同进化：从验证到驱动](https://my.oschina.net/meituantech/blog/18885034)
 + [Python：PyTorch 深度学习框架的技术指南](https://mp.weixin.qq.com/s/gA02ILcKrqjICPKWDBp8Ew)
 + [OpenAI 详解 Codex CLI 核心逻辑：Agent loop](https://www.oschina.net/news/399644/openai-unrolling-the-codex-agent-loop)
++ [大模型网关：大模型时代的智能交通枢纽｜得物技术](https://my.oschina.net/u/5783135/blog/19206300)
 
 ## 资讯
 

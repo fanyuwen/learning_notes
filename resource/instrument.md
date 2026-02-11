@@ -62,6 +62,7 @@
 + 安全框架 [shiro](https://shiro.apache.org/)
 + 微服务容器开发框架 [misk](https://cashapp.github.io/misk/)
 + 任务调度 [jobrunr](https://www.jobrunr.io/)
++ 可观测 [micrometer](https://micrometer.io/)
 + AI
   + 应用开发和编排 [agentsflex](https://agentsflex.com/)
   + 开发 <font style='color:red'>*</font>[langchain](https://www.langchain.com/) [langchain4j](https://docs.langchain4j.dev/)

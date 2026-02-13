@@ -71,3 +71,7 @@
 # C/C++
 
 + [libsodium](https://github.com/jedisct1/libsodium)
+
+# Rust
+
++ [rayon](https://github.com/rayon-rs/rayon)

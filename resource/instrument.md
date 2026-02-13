@@ -199,7 +199,8 @@
 + c/c++依赖库 [boost](https://www.boost.org/)
 
 ### RUST_TOOL
-+ [actix web](https://actix.rs/)
++ web应用框架 [actix web](https://actix.rs/)
++ 运行时组件 [tokio](https://tokio.rs/)
 
 ---
 

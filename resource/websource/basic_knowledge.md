@@ -473,6 +473,7 @@
 + [小白也能秒懂：趣解GPU各种核心参数规格！](https://mp.weixin.qq.com/s/hkY_lnJr8rLWVSDQArsUmQ)
 + [GPU 指令格式 [上]](https://mp.weixin.qq.com/s/TLKdh-v-dVzpuDdW9uD_9w)
 + [GPU性能的第一性原理](https://mp.weixin.qq.com/s/NF0vhAkYXhz5uiGcPL5QSw)
++ [GPU 应该怎么选择？写给 AI 工程师的 GPU 选型指南](https://my.oschina.net/IDP/blog/19206657)
 
 ## 网络基础
 

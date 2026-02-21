@@ -109,7 +109,6 @@
 + [35岁失业后，你至少还有3条路可以走](https://mp.weixin.qq.com/s/IT7ZwbbBzBTH33atmF8ZBA)
 + [简洁代码之已死：那些“完美代码”，其实是灾难](https://mp.weixin.qq.com/s/dINk95nvIh6r6hYKjYQGcQ)
 + [技术 | 好的命名，是最便宜的设计优化](https://mp.weixin.qq.com/s/VJHdtFH_acQMjt0dZdAn7Q)
-+ [89年，36岁，程序员，失业之后我发现一个赚钱的真理](https://mp.weixin.qq.com/s/WX9QbrcJkUSTDhr23Moaaw)
 + [AI时代下，程序员还有必要系统性啃书去学习吗？](https://mp.weixin.qq.com/s/1u6PvJsWldnKskAEoqbxcw)
 + [程序员最大的BUG：沉迷于细节，看不到全局](https://mp.weixin.qq.com/s/OrDYETNdb04efTFVRyaPkw)
 + [AI都会写代码了，我们学习编程还有什么意义？！](https://mp.weixin.qq.com/s/w5b8rUumWvN9IvNaRQckBA)

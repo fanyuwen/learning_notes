@@ -215,6 +215,7 @@
 + [JAVA：创建对象有几种方式的技术指南](https://mp.weixin.qq.com/s/Lh_3GM5wvfAlqwS0VDykEg)
 + [实现Java中接口的应用](https://mp.weixin.qq.com/s/sjgQJprV6Rok-ll1tlbvOA)
 + [JAVA接口多态：神奇宝贝的「技能盲盒」](https://mp.weixin.qq.com/s/0jlqmwmg_qlE9OE6PfhBYA)
++ [面试官：Java 中接口和抽象类的区别是什么？怎么选择？](https://mp.weixin.qq.com/s/J7IJU4Ea_g3PnRrrAy-TjA)
 
 ## 新语言特性
 
@@ -533,6 +534,7 @@
 + [Java Records 高级实战，不同场景下的用法，开发效率提升100%](https://mp.weixin.qq.com/s/3eJ9U0l0HnS51R28YDcBzA)
 + [Java利用枚举类消除条件判断语句](https://mp.weixin.qq.com/s/4Xpok7PWqVoV3N_bbGq-BA)
 + [别再写工具类了！Java 老代码该用「函数式接口」重构了](https://mp.weixin.qq.com/s/v8cUVyqrQTreyJn8LIU9kA)
++ [面试官：finally 中代码一定会被执行吗？](https://mp.weixin.qq.com/s/BEZoj6Kd_WGLgIEvx3EAoA)
 
 ## 代码质量
 
@@ -744,6 +746,8 @@
 + [if (a == 1 && a == 2 && a == 3) 为 true，你敢信？？？](https://mp.weixin.qq.com/s/eIpU5zHEoQ4V-nxwaScKMg)
 + [面试官：为什么不建议用 equals 判断对象相等？](https://mp.weixin.qq.com/s/6Ya6MWnWqOlFL2AAOw_9Rw)
 + [面试官：Java 深拷贝和浅拷贝的区别？](https://mp.weixin.qq.com/s/yryrUXzlZsHrUT70KxgCkw)
++ [面试官：String str = new String("abc") 创建了几个对象？](https://mp.weixin.qq.com/s/lCXZUUyidP_-W5jPPM2Xow)
++ [面试官：while(true) 和 for(;;) 哪个性能更好？](https://mp.weixin.qq.com/s/632hfVAqIJY5exZHil7I1A)
 
 ### 序列化
 
@@ -811,6 +815,8 @@
 + [Java反射18式：从入门到精通的避坑指南与实战技巧](https://mp.weixin.qq.com/s/8zeA-i7eN0qQED9mX_bl1A)
 + [Java反射机制解析：从原理到实战，一篇搞定！](https://mp.weixin.qq.com/s/DT_mYAiwOyv76obF6r9sjA)
 + [性能调优！Java反射已死，MethodHandle高性能调用](https://mp.weixin.qq.com/s/mAjkfyfEg0XEzub8P2mXrA)
++ [太强了！Java一行代码搞定反射（开源库 Reflector ）](https://mp.weixin.qq.com/s/v1om2OwwBS4UP4ihRzmzoQ)
++ [面试官：什么是 Java 反射机制？为什么反射慢？](https://mp.weixin.qq.com/s/qjUQcFESSFls8jM-MIVVbA)
 
 ### 并发/多线程
 
@@ -2023,6 +2029,7 @@
 + [告别 Jar 包地狱：快速解决 Maven 版本冲突指南](https://mp.weixin.qq.com/s/fDMjMinQj_YtX7LGcRaVmg)
 + [再见 Maven！](https://mp.weixin.qq.com/s/aNKGh_tWnaOZz5BqAtD4Hg)
 + [重磅！Maven 4 官宣：历时15年，Java构建工具迎来彻底重构](https://mp.weixin.qq.com/s/0niuLw0I57hNlA9kgRjTWw)
++ [重磅！Maven 4 官宣：历时15年，Java构建工具迎来彻底重构](https://mp.weixin.qq.com/s/iamoVjdaYo86rdq3a_BA4w)
 
 # 功能
 
@@ -2227,6 +2234,7 @@
 + [从原理到实践:MDC日志链路追踪指南](https://mp.weixin.qq.com/s/AnqZJ7glK7Lib4qJufyVrA)
 + [logback多进程日志轮转混乱解决方案](https://mp.weixin.qq.com/s/J8FrMVDuvnohf-Zsng0lkA)
 + [我司使用了两年的高效日志打印工具，非常好用！](https://mp.weixin.qq.com/s/fr_WLWMJflBZ9ADUqnfr0Q)
++ [Logback、Log4j、SLF4J 、ELK、EFK、Loki 傻傻分不清楚？](https://mp.weixin.qq.com/s/WmYjICictcR10A4c_qw_VQ)
 
 ## lombok
 
@@ -2757,6 +2765,7 @@
 + [@Autowired依赖注入原理](https://mp.weixin.qq.com/s/gDPn8xYhyiLTcXecSe20dg)
 + [面试被问爆的 Spring 循环依赖：三级缓存到底是个啥？一篇讲透原理 + 源码](https://mp.weixin.qq.com/s/NkUVQCOZ8uGqzXAK6xIfvQ)
 + [从一次启动失败深入剖析：Spring 循环依赖的真相｜得物技术](https://my.oschina.net/u/5783135/blog/18696870)
++ [面试官：@Bean 与 @Component 用在同一个类上，会怎么样？](https://mp.weixin.qq.com/s/JI2UouCq2022Efz8sX6qVQ)
 
 ### 新版本新特性
 
@@ -4065,6 +4074,7 @@
 + [Spring Boot 获取所有 Controller 接口的4种方法](https://mp.weixin.qq.com/s/xOPn8MAtGrSodwsbKrLfUg)
 + [Spring Boot 4 声明式 HTTP 客户端实战全解析](https://mp.weixin.qq.com/s/fsQuQJoiH6ezoEzCMhSB1Q)
 + [Spring Cloud 5.x 全面增强@HttpExchange，彻底替换OpenFeign](https://mp.weixin.qq.com/s/W0yczA5fH4HBM2Ilf3_xFA)
++ [Controller接口写得烂，同事跟着乱！10 条优雅设计法则](https://mp.weixin.qq.com/s/mdByPDUmHZ-B5Wg8CccmCQ)
 
 ##### 文件上传下载
 
@@ -4212,6 +4222,7 @@
 + [SpringBoot 实现动态切换数据源，这样做才足够优雅！](https://mp.weixin.qq.com/s/obEPMSHoou4fgS8AM6CSTw)
 + [JAVA：Spring Boot3 集成 P6Spy 的 JDBC 代理框架](https://mp.weixin.qq.com/s/vSnmuNOjW_N58LLBWU7yfg)
 + [性能优化！Spring Boot + JPA 杀死系统性能的7个错误](https://mp.weixin.qq.com/s/HMNG7j-fsOadpAjAOkolNg)
++ [还在数据库存明文？Spring Boot 字段级加密，真能救命](https://mp.weixin.qq.com/s/vMZ0b6SjayuNNevoozVOxg)
 
 ##### TRANSACTION
 
@@ -4786,6 +4797,9 @@
 + [SpringBoot 整合 Canal+RabbitMQ 监听数据变更~](https://mp.weixin.qq.com/s/zPbtaAA-b6MXwqCk8h5dVQ)
 + [Spring Boot 集成 Forest 优雅的 HTTP 客户端](https://mp.weixin.qq.com/s/Wx4PAamVR4AX0TP6ee98aQ)
 + [漂亮！5种验证码！Spring Boot 集成超强验证码，安全又高效！](https://mp.weixin.qq.com/s/1ncIW1mJTUDCK4dqjHeTvg)
++ [Spring + asyncTool：实现复杂任务的优雅编排与高效执行](https://mp.weixin.qq.com/s/YOaaUBm0k7zaoEIU0SjoZQ)
++ [Spring Boot + JPackage：构建独立安装包](https://mp.weixin.qq.com/s/Qs-JDgxsIv4Hhv7zCcwXgw)
++ [JAVA：Spring Boot 集成 JMH 进行基准测试](https://mp.weixin.qq.com/s/M4SpjOOBnXBmEJTXUIrJLg)
 
 ##### excel
 
@@ -4794,6 +4808,8 @@
 + [《SpringBoot》EasyExcel实现百万数据的导入导出](https://mp.weixin.qq.com/s/qb4XACLMRNgsNdi5DdevhA)
 + [Spring Boot 系列：集成 EasyExcel 实现百万级数据导入导出实战](https://mp.weixin.qq.com/s/ajscAvgLhp_GCD6XQunVaA)
 + [Java进阶手册（十八）SpringBoot使用EasyExcel 实现导出功能](https://mp.weixin.qq.com/s/YTM-54YQJQQF0fkauqWbsw)
++ [轻量高效实现Excel至Java对象映射，支持各种复杂Excel](https://mp.weixin.qq.com/s/matnD85NQvREbTA2cqUT8g)
++ [Spring Boot + Luckysheet 实现Excel多人在线实时办公](https://mp.weixin.qq.com/s/xze_GaicpZDv-D5sdClm0A)
 
 #### test
 

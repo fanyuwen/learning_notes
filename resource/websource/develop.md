@@ -152,6 +152,7 @@
 + [DDD领域驱动设计核心原理](https://mp.weixin.qq.com/s/_MwcfEr_rOJ5XqPWvuylAA)
 + [深度剖析DDD核心基石：构建稳健业务系统的组件库实践](https://mp.weixin.qq.com/s/d7aYY0fMaDeiw5jGBfuefw)
 + [想给面试官吹DDD吗？项目像搭积木一样运行：领域驱动设计（DDD）让复杂业务变简单](https://mp.weixin.qq.com/s/JCRvoLZ2hM6NCG0o6j8Inw)
++ [复杂度直降70%：我用DDD+CQRS重构了系统，整体开发效率提升6倍！！](https://mp.weixin.qq.com/s/rMnGCHxIBBxfKvNEYrV6UA)
 
 ## 微服务
 
@@ -815,6 +816,7 @@
 + [高并发场景下的库存管理，理论与实战能否兼得？](https://my.oschina.net/u/4090830/blog/17989921)
 + [多租户应用程序架构--挑战与实践](https://mp.weixin.qq.com/s/0wocLjTmJGT6jdIWjEX8UA)
 + [面试官：如何设计一个百万用户同时在线的直播评论系统？](https://mp.weixin.qq.com/s/sjj8J3ABGR9hmJ36Kj0VCQ)
++ [别再乱做支付系统了！一篇讲透「支付域系统」的完整设计方法论](https://mp.weixin.qq.com/s/RZF36yM2zXZlx9JyFWwOTw)
 
 ## 代码相关
 

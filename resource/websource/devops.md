@@ -51,6 +51,7 @@
 + [CI/CD 领域的奠基者--Jenkins](https://mp.weixin.qq.com/s/4_0TPYNRVmwcLNXnf6_QAA)
 + [全网最全的 Jenkins + Maven + Git 自动化部署指南！](https://mp.weixin.qq.com/s/ieds7Lxvj0sqgcsUa7L7NA)
 + [还在手动发包？全网最全的 Jenkins + Maven + Git 自动化部署指南！](https://mp.weixin.qq.com/s/NUwNYOGBs_tmCHFFTBA3Lw)
++ [再见Jenkins！这款自动化部署工具更强大，还贼带劲！](https://mp.weixin.qq.com/s/T_1NZvbPeAYVDZ0_5jGCHQ)
 
 ## istio
 

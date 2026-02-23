@@ -120,6 +120,7 @@
 + [为什么不建议直接RuntimeException抛出！](https://mp.weixin.qq.com/s/ocZJcutHICMCKTvuzKSKIg)
 + [面试官：try catch 应该在 for 循环里面还是外面？](https://mp.weixin.qq.com/s/49WOG_KUpWhWmX5Nym1zrg)
 + [警告！技术总监放话：这样处理异常直接走人，5 种被禁异常处理](https://mp.weixin.qq.com/s/AfArGcMNChBZioRWlhq7Ww)
++ [面试官：Java 中异常分哪两类，有什么区别？](https://mp.weixin.qq.com/s/8hODznh_JclcKGYiPG1oYQ)
 
 ### 枚举
 
@@ -531,6 +532,7 @@
 + [Java进阶：用这15个特性，1行顶100行基础代码](https://mp.weixin.qq.com/s/z3y8JzBK9sePsWJ3sWcaRA)
 + [Java Records 高级实战，不同场景下的用法，开发效率提升100%](https://mp.weixin.qq.com/s/3eJ9U0l0HnS51R28YDcBzA)
 + [Java利用枚举类消除条件判断语句](https://mp.weixin.qq.com/s/4Xpok7PWqVoV3N_bbGq-BA)
++ [别再写工具类了！Java 老代码该用「函数式接口」重构了](https://mp.weixin.qq.com/s/v8cUVyqrQTreyJn8LIU9kA)
 
 ## 代码质量
 
@@ -628,6 +630,7 @@
 + [遍历集合时修改元素报错？这六种方法请收好](https://mp.weixin.qq.com/s/QFn_tzZ5l0TXKCN2Z3YZeA)
 + [太强了！30个优化Java代码的技巧](https://mp.weixin.qq.com/s/gzrTxH0rSwL4-ayj2pIIIQ)
 + [瞧瞧别人家的判空，那叫一个优雅！](https://mp.weixin.qq.com/s/t3w8PF5SoRbNG9LjtKrwSw)
++ [为什么Java里面，Service 层不直接返回 Result 对象？](https://mp.weixin.qq.com/s/cZtLXnVCM6Tvw5HLfJWBHg)
 
 # 底层
 
@@ -740,6 +743,7 @@
 + [数据机构之跳表原理及Java实现](https://mp.weixin.qq.com/s/tMVO6RW3S8-Xg1Rdn6xfWA)
 + [if (a == 1 && a == 2 && a == 3) 为 true，你敢信？？？](https://mp.weixin.qq.com/s/eIpU5zHEoQ4V-nxwaScKMg)
 + [面试官：为什么不建议用 equals 判断对象相等？](https://mp.weixin.qq.com/s/6Ya6MWnWqOlFL2AAOw_9Rw)
++ [面试官：Java 深拷贝和浅拷贝的区别？](https://mp.weixin.qq.com/s/yryrUXzlZsHrUT70KxgCkw)
 
 ### 序列化
 
@@ -1420,6 +1424,7 @@
 + [大白话聊明白：Java对象在内存中的分配、布局、访问、GC垃圾回收以及堆内存的默认大小](https://mp.weixin.qq.com/s/Ad6ceHxcBeM10YjKr6zsiw)
 + [如何定位堆外内存泄漏?](https://mp.weixin.qq.com/s/zMGNb8KsxLCbmRmS7gyy7A)
 + [0.3ms！JDK 25的Shenandoah分代GC，把Java性能卷上了天](https://mp.weixin.qq.com/s/gYlvtMgg4Rs8ELAkdKb-_Q)
++ [GC 很努力了，剩下的 40% 内存，得你自己动手](https://mp.weixin.qq.com/s/efey-MNUa6tqrui5OMHldg)
 
 # 核心库
 
@@ -1646,6 +1651,8 @@
 + [揭秘HashMap选择红黑树的深层原因：避免这些坑，你的系统才能更稳定！](https://mp.weixin.qq.com/s/8ZjnFyAmSIokgFe43cdwtA)
 + [HashMap深度解剖：你以为的“键值对”远不止那么简单！](https://mp.weixin.qq.com/s/m-SFsEb24imEQjfwyw2X-A)
 + [新来的实习生不会用Map的computeIfAbsent方法，被领导骂哭！](https://mp.weixin.qq.com/s/XNPN0BFoL1xDLe9-x5N09w)
++ [面试官：HashMap、Hashtable 和 ConcurrentHashMap 的区别？](https://mp.weixin.qq.com/s/JCldQcpggJv80ZYPp_sAJQ)
++ [面试官：说说 HashMap 的扩容机制？如何扩容的？](https://mp.weixin.qq.com/s/lSkyjBxdlAoY-hIMEJ4xag)
 
 ### Optional
 
@@ -1931,15 +1938,6 @@
 
 # 机制
 
-+ [再聊 SPI 机制](https://my.oschina.net/u/4494662/blog/11049008)
-+ [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
-+ [一文让你搞懂Java中的SPI设计模式](https://mp.weixin.qq.com/s/EIEZBwKqoxlRysFFPxprsg)
-+ [Java SPI 机制初探｜得物技术](https://my.oschina.net/u/5783135/blog/18687268)
-+ [Java 的 SPI 机制详解](https://my.oschina.net/u/4090830/blog/17869131)
-+ [Java SPI机制及其与Spring SPI、Spring Boot SPI的异同](https://mp.weixin.qq.com/s/N16tju6dVeue9liMD9HqMQ)
-+ [手撸RPC框架 -SPI机制基础功能实现](https://mp.weixin.qq.com/s/Druh2yOtAedsKDdEKSS0-A)
-+ [温习 SPI 机制 （Java SPI 、Spring SPI、Dubbo SPI）](https://my.oschina.net/makemyownlife/blog/16492033)
-+ [详解Java中的SPI技术以及在架构设计的运用](https://mp.weixin.qq.com/s/kFtMUTsBWF0EHKpJGS8r_g)
 + [项目终于用上了插入式注解，真香！](https://mp.weixin.qq.com/s/k4CP-jA3m6-gXNWD2uLKDg)
 + [盘点那些强大又低调的 Java 缓存](https://mp.weixin.qq.com/s/yujiHARZo_48wAf9UzeKAQ)
 + [“3种方式重写第三方jar包”是每个程序员迈向成熟必备的技能](https://mp.weixin.qq.com/s/stfxBQFcDqdfCClOAJhdqg)
@@ -1948,8 +1946,6 @@
 + [解决JNI函数动态绑定防追踪](https://mp.weixin.qq.com/s/0V9gsUblJi5vqQmnjMzRrQ)
 + [探索 Java Native Interface（五）JNI里的多线程与JNI方法的注册](https://mp.weixin.qq.com/s/arC6jh-iL3LKV_gCDIu-UQ)
 + [探索 Java Native Interface（六）JNI中的异常](https://mp.weixin.qq.com/s/aC6NKVKK59c77pMZqKarfg)
-+ [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
-+ [JAVA：SPI 技术详解与实践样例](https://mp.weixin.qq.com/s/cLqsSfFvZEGL3W5F6LzACg)
 + [黑科技加持！Java 动态编译 + 运行时热加载，让代码即改即生效](https://mp.weixin.qq.com/s/3X7ahbus7hd5FK0H2_mcvw)
 + [动态生成Java方法](https://mp.weixin.qq.com/s/lZH-a2FieEgJndkXIMJG_w)
 + [无需重启！Java动态编译+实时运行黑科技，让你的程序活起来！](https://mp.weixin.qq.com/s/prANSG6fgQJrryp4b9YAfw)
@@ -1960,18 +1956,36 @@
 + [Java 动态代理](https://mp.weixin.qq.com/s/Wvm1NebigHELrz_qgyNgvA)
 + [【Java面试100题突击】96 动态代理是如何实现的？JDK动态代理和CGLIB动态代理有什么区别？](https://mp.weixin.qq.com/s/L1DWYCPuov_10iOZE9BiYg)
 + [深入解析与实战 JavaCompiler API：动态编译Java源代码](https://mp.weixin.qq.com/s/UP7adg1d7_XsylQkq9anNg)
-+ [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
 + [关于java中动态加载字节码的多种方法](https://mp.weixin.qq.com/s/jKFqCB-P-G3fHpYBt2PsZw)
-+ [Java Agent字节码插桩技术：SkyWalking如何实现无侵入链路追踪？](https://mp.weixin.qq.com/s/DcIWJdhD0tN7TXaVHKuang)
 + [Java安全模型讲解（沙箱机制）——SecurityManager安全管理器、AccessController访问控制器解析](https://mp.weixin.qq.com/s/hczvWCjADdz4HOpaHMh_3A)
 + [使用 Java 编译器 API 进行 Java 代码编译](https://mp.weixin.qq.com/s/lZvghOjaqv2xpCXv4gZFxw)
 + [JVM的“随身听诊器”：ManagementFactory](https://mp.weixin.qq.com/s/d7-kgEuoS57jHyCalYoVFA)
 + [Java Modular解锁SPI机制实现新姿势](https://mp.weixin.qq.com/s/11Tgc9d93wMoDwTuUrwU5g)
 + [动态代理：JDK Proxy、CGLIB、ByteBuddy‌、ASM、JavaAgent‌有什么关系](https://mp.weixin.qq.com/s/w3CMFKqDI3HrWK1srcmlhg)
-+ [Java SPI实现开闭原则](https://mp.weixin.qq.com/s/LLTa017SC8zXFZjAFZy1oA)
 + [面试官必问：CGLIB 动态代理原理，从底层逻辑到面试应答全梳理](https://mp.weixin.qq.com/s/IMoH83vPENgjfaW2Wf_j_A)
 + [一文吃透 Java JDK 动态代理：从原理到实战案例](https://mp.weixin.qq.com/s/qvRPlAsS_G4iYPhmyZBo4g)
+
+## SPI
+
++ [再聊 SPI 机制](https://my.oschina.net/u/4494662/blog/11049008)
++ [快速入门-Java SPI（Service Provider Interface）](https://mp.weixin.qq.com/s/KQUJHFedtwP14d9t9xEAcg)
++ [Java SPI机制学习与常用框架SPI案例](https://l1n.wang/2023/Java%E5%9F%BA%E7%A1%80/Java%20SPI%E6%9C%BA%E5%88%B6%E5%AD%A6%E4%B9%A0%E4%B8%8E%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6SPI%E6%A1%88%E4%BE%8B/?comefrom=https://blogread.cn/news/&continueFlag=7994619d934cbb2e8f89a739b53d382b&s_trans=2197476363_&s_channel=4)
++ [一文让你搞懂Java中的SPI设计模式](https://mp.weixin.qq.com/s/EIEZBwKqoxlRysFFPxprsg)
++ [Java SPI 机制初探｜得物技术](https://my.oschina.net/u/5783135/blog/18687268)
++ [Java 的 SPI 机制详解](https://my.oschina.net/u/4090830/blog/17869131)
++ [Java SPI机制及其与Spring SPI、Spring Boot SPI的异同](https://mp.weixin.qq.com/s/N16tju6dVeue9liMD9HqMQ)
++ [手撸RPC框架 -SPI机制基础功能实现](https://mp.weixin.qq.com/s/Druh2yOtAedsKDdEKSS0-A)
++ [温习 SPI 机制 （Java SPI 、Spring SPI、Dubbo SPI）](https://my.oschina.net/makemyownlife/blog/16492033)
++ [详解Java中的SPI技术以及在架构设计的运用](https://mp.weixin.qq.com/s/kFtMUTsBWF0EHKpJGS8r_g)
++ [JAVA：SPI 技术详解与实践样例](https://mp.weixin.qq.com/s/cLqsSfFvZEGL3W5F6LzACg)
++ [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
++ [Java SPI实现开闭原则](https://mp.weixin.qq.com/s/LLTa017SC8zXFZjAFZy1oA)
++ [面试官：什么是 SPI，和 API 有啥区别？](https://mp.weixin.qq.com/s/DYlmjvt895xOpdnBjEiSQA)
+
+## Agent
+
 + [手把手教你实现一个Java Agent](https://mp.weixin.qq.com/s/Gakoa_UCr8J7XEA0Hf_zng)
++ [Java Agent字节码插桩技术：SkyWalking如何实现无侵入链路追踪？](https://mp.weixin.qq.com/s/DcIWJdhD0tN7TXaVHKuang)
 
 # 包管理工具
 
@@ -2332,6 +2346,7 @@
 + [MyBatis 进阶：动态 SQL、关联查询与缓存，中级开发者必备技巧](https://mp.weixin.qq.com/s/3x67LNueFCAOY24g-upimg)
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/3M2fiwJGmjhN-VmULkj1SQ)
 + [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/mRz_pgfRCFdIfiQ1Exibdw)
++ [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/wNLBlEcMh4BeK9vLd31DIA)
 
 ### plus
 
@@ -2696,6 +2711,8 @@
 + [java 代码审计 - SpEL 表达式注入](https://mp.weixin.qq.com/s/r5ePFjtkdeEg2OV8yX0p_A)
 + [掌握 Spring 框架这 10 个扩展点，开发效率直接翻倍！](https://mp.weixin.qq.com/s/V7niz1B1qk6pTFS3v1uw3Q)
 + [Spring 项目别再乱注入 Service 了！用 Lambda 封装个统一调用组件，爽到飞起](https://mp.weixin.qq.com/s/QOJ-CIcZ46DRZ-vj4eZ_Jw)
++ [Optional功能太弱？Spring内置强大的Optionals，7个神操作](https://mp.weixin.qq.com/s/BQ1dODPNNQH68KHhqmQVCQ)
++ [为什么 Spring 和 IDEA 都不推荐使用 @Autowired 注解？？](https://mp.weixin.qq.com/s/PJ7ta8uVe2WHrzwMNAfIBw)
 
 #### 原理&源码
 
@@ -2831,6 +2848,7 @@
 + [Spring 实现 3 种异步流式接口，干掉接口超时烦恼](https://mp.weixin.qq.com/s/uNZig2sd0Eo8WCbImiSruA)
 + [Controller 能不能直接调用 Mapper](https://mp.weixin.qq.com/s/Ibn-pWZND8MGC2hG6fk7uQ)
 + [Spring Controller 写了 10 年？你可能一直在给“模式”打工](https://mp.weixin.qq.com/s/UZO3kK7qu8f3BNDRIC5Aqw)
++ [别再用 RestTemplate 了！Spring Boot 已全面转向 WebClient](https://mp.weixin.qq.com/s/3VQVE2aG8EptWSDITOUUoQ)
 
 #### doc
 
@@ -2904,6 +2922,7 @@
 + [Java+RedisTemplate：解锁高阶玩法，从缓存到分布式锁](https://mp.weixin.qq.com/s/zPisR4k74BzuvkBUXFKVHg)
 + [JAVA：Spring Boot 集成 PostgreSQL 数据库实现数据访问](https://mp.weixin.qq.com/s/MegaInSpergvW730Vq8PVw)
 + [告别低效查询！Spring Data JPA存在性检查的5种方案，千万不要用错](https://mp.weixin.qq.com/s/6RAgSOV4htVdc6o3u0UxRw)
++ [性能杀手！JPA 、MyBatis经典的N+1问题，正在拖垮你的系统](https://mp.weixin.qq.com/s/iV8xdwBvgsenWRJ8yPqfkg)
 
 #### BATCH
 
@@ -3129,6 +3148,7 @@
 + [分分钟用Java实现多轮对话记忆功能](https://mp.weixin.qq.com/s/xL-s2NqVgtgvql2QbUvZQg)
 + [Spring AI 框架中如何集成 MCP？](https://mp.weixin.qq.com/s/J5kzNGH6vCRU46uzrfb8QQ)
 + [Spring AI MCP基础](https://mp.weixin.qq.com/s/lxa3krYUz-js54mkAMXmPw)
++ [别再纸上谈兵了！手把手教你在 Spring Boot 中落地 OpenClaw（Java 实战）](https://mp.weixin.qq.com/s/rbB8zUai1-gjVoqr3fUqHg)
 
 ### cloud
 
@@ -3441,6 +3461,10 @@
 + [把接口加速10倍：SpringBoot 3 + 本地缓存「金字塔」实战，实现碾压级性能提升！](https://mp.weixin.qq.com/s/sg6hVm0QgztQcJqqMsx7sw)
 + [别再浪费CPU资源！10个Spring Boot 配置优化，加速你的应用](https://mp.weixin.qq.com/s/JlX7Pgz6tk1ECwqcbUzJnw)
 + [Spring Boot 项目 50ms 不是“调出来的”，而是“设计出来的”](https://mp.weixin.qq.com/s/SChHONl5r4UJTUnuM69qEw)
++ [告别硬编码！Spring Boot 10个灵活到起飞的动态功能](https://mp.weixin.qq.com/s/cyyTfpXIF95dlSV8oBCy_Q)
++ [技术更新！Spring Boot 启动时这11种玩法太实用了](https://mp.weixin.qq.com/s/oEbygsbhEC_rD5APqXI5xg)
++ [不压测，别上线！我是这样把 Spring Boot 扛到生产级的](https://mp.weixin.qq.com/s/WL99ljAN3ErvYVO6tyQ9pg)
++ [别再写基础数据库配置了！这 5 个 Spring Boot 高阶玩法，让你代码评审直接封神！](https://mp.weixin.qq.com/s/-s9Zw520Ow02jJnM4OhQ7w)
 
 ##### 原理
 
@@ -3500,6 +3524,7 @@
 + [面试必背：@Autowired 与 @Resource 到底有啥区别？3 分钟理清核心差异](https://mp.weixin.qq.com/s/ZfMBPYOxlDwx_ixi4Zc72Q)
 + [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories ？](https://mp.weixin.qq.com/s/ALUxXA8sCzugso2lDT1jVg)
 + [Java 被 Spring 拖慢了 30 倍？实测：JIT/AOT 全开后，竟比 Python 快 13 倍！](https://mp.weixin.qq.com/s/LNzEt5W0W9z9PtXiWrhsIg)
++ [Spring Boot 里的 @Resource 到底怎么用？90% 的人其实没搞懂](https://mp.weixin.qq.com/s/DeNof8CPFtFuKI2iu4-iaA)
 
 #### 版本特性
 
@@ -4037,6 +4062,9 @@
 + [惊到了！@RequestParam隐藏的强大功能，很离谱](https://mp.weixin.qq.com/s/MtIQT1iNlS-xaYNroXQYKQ)
 + [Spring Boot中Jackson的6个很少用但却非常强大的注解](https://mp.weixin.qq.com/s/kH4zewMmB09KxWx-Uq0AHA)
 + [Spring Boot 优雅的控制接口返回值，这些技巧你都知道吗？](https://mp.weixin.qq.com/s/xcSD2bWl1s6qUzo4q4is1g)
++ [Spring Boot 获取所有 Controller 接口的4种方法](https://mp.weixin.qq.com/s/xOPn8MAtGrSodwsbKrLfUg)
++ [Spring Boot 4 声明式 HTTP 客户端实战全解析](https://mp.weixin.qq.com/s/fsQuQJoiH6ezoEzCMhSB1Q)
++ [Spring Cloud 5.x 全面增强@HttpExchange，彻底替换OpenFeign](https://mp.weixin.qq.com/s/W0yczA5fH4HBM2Ilf3_xFA)
 
 ##### 文件上传下载
 
@@ -4181,6 +4209,9 @@
 + [Spring Boot 一行代码搞定 JSON 与 CSV 双向转换](https://mp.weixin.qq.com/s/3JZ4Jpu9JiFAgGj6DWE8qg)
 + [JAVA：Spring Boot3 集成 SQLite 轻量级本地数据库](https://mp.weixin.qq.com/s/k_0AK5cI3LCCCsf2e7YsEg)
 + [JAVA： Spring Boot 集成 Batch 实现数据批处理](https://mp.weixin.qq.com/s/2KRlQqettUpWeU-4Nlicaw)
++ [SpringBoot 实现动态切换数据源，这样做才足够优雅！](https://mp.weixin.qq.com/s/obEPMSHoou4fgS8AM6CSTw)
++ [JAVA：Spring Boot3 集成 P6Spy 的 JDBC 代理框架](https://mp.weixin.qq.com/s/vSnmuNOjW_N58LLBWU7yfg)
++ [性能优化！Spring Boot + JPA 杀死系统性能的7个错误](https://mp.weixin.qq.com/s/HMNG7j-fsOadpAjAOkolNg)
 
 ##### TRANSACTION
 
@@ -4751,6 +4782,10 @@
 + [SpringBoot 集成 Hera，让日志查看从 “找罪证” 变 “查答案”！](https://mp.weixin.qq.com/s/3A069PxCh9jUwv7FJ4G4MA)
 + [请不要自己写！Google开源一个注解自动生成重复模板代码](https://mp.weixin.qq.com/s/MMRl8ezKPO3LQHml5fh4Jg)
 + [纯Java实现！Spring Boot 企业级OCR服务](https://mp.weixin.qq.com/s/mVF7Gyay_iUAqwd_YSRF_Q)
++ [Spring Boot + FFmpeg 实现真正的实时视频流（HLS）](https://mp.weixin.qq.com/s/G9iWSXHqVyGpC-xhwvGbHg)
++ [SpringBoot 整合 Canal+RabbitMQ 监听数据变更~](https://mp.weixin.qq.com/s/zPbtaAA-b6MXwqCk8h5dVQ)
++ [Spring Boot 集成 Forest 优雅的 HTTP 客户端](https://mp.weixin.qq.com/s/Wx4PAamVR4AX0TP6ee98aQ)
++ [漂亮！5种验证码！Spring Boot 集成超强验证码，安全又高效！](https://mp.weixin.qq.com/s/1ncIW1mJTUDCK4dqjHeTvg)
 
 ##### excel
 

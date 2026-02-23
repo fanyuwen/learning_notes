@@ -51,6 +51,7 @@
 + [Redis 真的要被干掉了？我们用 200 行 Go 代码把它替换了！](https://mp.weixin.qq.com/s/KesXqDrXtDQulQQ0akKBMw)
 + [很多 Go 程序员写了 5 年代码，还是没用过这 7 个“高级但低调”的特性](https://mp.weixin.qq.com/s/4lOSbuRfZJkBrOxKM8izOQ)
 + [2025 年 Go 开发者调查结果](https://www.oschina.net/news/399611/go-survey2025)
++ [明明用的是 Go，为什么一到高并发就开始喘？答案在算法里](https://mp.weixin.qq.com/s/jYkmXa0cx7omZY-ju5sWvA)
 
 # 库
 
@@ -252,6 +253,7 @@
 + [Go 中最容易被忽视的强大特性：Struct Embedding 详解](https://mp.weixin.qq.com/s/rECp2r8QhRAc6QEq6Xzw4w)
 + [自从团队用了 Go，部署只要 1 秒了……但真正的惊喜还在后面](https://mp.weixin.qq.com/s/OP15jTnU8CvtJ0kz9grMXQ)
 + [Go语言中的并行表驱动测试](https://mp.weixin.qq.com/s/ufZ5C7eaEuvgDn4fj61-rA)
++ [Go 写到瓶颈期？这 7 个“老鸟级”特性才是质变关键](https://mp.weixin.qq.com/s/-MEb5CuuA7uta47yzgckqQ)
 
 # 面试题
 

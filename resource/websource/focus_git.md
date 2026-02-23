@@ -33,6 +33,7 @@
 + [nullAway](https://github.com/uber/NullAway)
 + [javamelody](https://github.com/javamelody/javamelody)
 + [async-profiler](https://github.com/async-profiler/async-profiler)
++ [async-http-client](https://github.com/AsyncHttpClient/async-http-client)
 
 # SCALA
 

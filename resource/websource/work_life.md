@@ -130,6 +130,9 @@
 + [3个信号，暗示你在公司已经没戏了](https://mp.weixin.qq.com/s/cwwvLlIAdzJu3y5xfnGCkA)
 + [讲真，我还没见过这么垃圾的IT软件公司！！](https://mp.weixin.qq.com/s/2uVZOQFdbnMCEXs4_bN3wQ)
 + [某leader：组里一个执行力极强的开发，月薪30k，从不迟到、从不推活，安排啥就干啥。但是太听话了，虽然好用，却没有预判能力](https://mp.weixin.qq.com/s/iZHcYFPK2qdbo71fjTvkrw)
++ [早上，我面试了一位42岁的软件工程师，他的要求是月薪20000元。此前，他在大厂工作过，履历很好。后面愿意接受月薪1.2万元，老板却不同意](https://mp.weixin.qq.com/s/RJqIQntXYZPAvxcS7ThXcA)
++ [前腾讯员工：后悔离开大厂了，之前在大厂天天摸鱼，工作得心应手，现在在中厂自己不熟悉的业务，工作量是之前的两倍，还要每天被领导叼。](https://mp.weixin.qq.com/s/WvTIL7CGICM8p6gkbiGKCA)
++ [发现一个奇怪现象：凡是给offer的公司，面试时基本不问技术细节，那些问得又多又细的公司，后面基本就没下文了!](https://mp.weixin.qq.com/s/UNqmmcw1sp6pHTg9AhxgXQ)
 
 # 个人成长
 
@@ -374,6 +377,7 @@
 + [IDEA免费了，你是选择继续用IDEA，还是拥抱VScode？](https://mp.weixin.qq.com/s/szHDPPGG7AsFOvZrOKmtVA)
 + [一次IntelliJ IDEA插件开发的实战分享](https://mp.weixin.qq.com/s/W1x10YyT_01FTO27CMks7g)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/mttMAx8TlM1GC1MC7JTIxw)
++ [IntelliJ IDEA 2025.3.2 已发布：这次真的在认真修 Bug](https://mp.weixin.qq.com/s/ZYxlnX88XiW783FLhapI5A)
 
 ## MAC_PRO相关
 

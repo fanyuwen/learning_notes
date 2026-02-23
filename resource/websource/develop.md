@@ -747,6 +747,7 @@
 + [腾讯新闻 APP 的消息推送 Push 架构技术重构实践](https://my.oschina.net/jb2011/blog/18911294)
 + [大厂面试题：深拷贝是什么？底层实现机制？](https://mp.weixin.qq.com/s/LzvfKJrWgbYRDcYrYIjSAA)
 + [拒绝查询超时：一次真实高并发场景下的 SLS 物化视图调优实战](https://my.oschina.net/u/3874284/blog/19161174)
++ [如何设计一个扛住千万级流量的系统？](https://mp.weixin.qq.com/s/UncXu4SWmQMg5Q1PKJhFAQ)
 
 # 测试相关
 
@@ -817,6 +818,7 @@
 + [多租户应用程序架构--挑战与实践](https://mp.weixin.qq.com/s/0wocLjTmJGT6jdIWjEX8UA)
 + [面试官：如何设计一个百万用户同时在线的直播评论系统？](https://mp.weixin.qq.com/s/sjj8J3ABGR9hmJ36Kj0VCQ)
 + [别再乱做支付系统了！一篇讲透「支付域系统」的完整设计方法论](https://mp.weixin.qq.com/s/RZF36yM2zXZlx9JyFWwOTw)
++ [瞧瞧别人家的优惠券过期方案，那叫一个优雅！](https://mp.weixin.qq.com/s/ET4Y55fHCB-aOVPuqN2jjg)
 
 ## 代码相关
 

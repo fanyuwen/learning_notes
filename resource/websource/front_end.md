@@ -272,6 +272,7 @@
 + [Vue3 - 事件处理](https://mp.weixin.qq.com/s/8d6UqkiCPRW_j9uhnB7AVw)
 + [Vue-Router深度实践指南](https://mp.weixin.qq.com/s/WKDmjpSd9aRhii7NRwOKcg)
 + [掌握这些 Vue 和 JS 知识，前端开发不再迷茫！](https://mp.weixin.qq.com/s/72_Iv3oUCuQ_6pTGjQNwjg)
++ [Vue 官方推荐的全局 Loading 控制方案](https://mp.weixin.qq.com/s/GSDNKxUw5PDLqOKUOjZSkw)
 
 ## react
 

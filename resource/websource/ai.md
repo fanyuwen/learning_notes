@@ -48,6 +48,7 @@
 + [Python：PyTorch 深度学习框架的技术指南](https://mp.weixin.qq.com/s/gA02ILcKrqjICPKWDBp8Ew)
 + [OpenAI 详解 Codex CLI 核心逻辑：Agent loop](https://www.oschina.net/news/399644/openai-unrolling-the-codex-agent-loop)
 + [大模型网关：大模型时代的智能交通枢纽｜得物技术](https://my.oschina.net/u/5783135/blog/19206300)
++ [为什么 Cloudflare 不碰 ORM？](https://mp.weixin.qq.com/s/cJ0TDPlWQ3aH4oYckQ4qcw)
 
 ## 资讯
 

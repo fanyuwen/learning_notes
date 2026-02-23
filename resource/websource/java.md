@@ -535,6 +535,7 @@
 + [Java利用枚举类消除条件判断语句](https://mp.weixin.qq.com/s/4Xpok7PWqVoV3N_bbGq-BA)
 + [别再写工具类了！Java 老代码该用「函数式接口」重构了](https://mp.weixin.qq.com/s/v8cUVyqrQTreyJn8LIU9kA)
 + [面试官：finally 中代码一定会被执行吗？](https://mp.weixin.qq.com/s/BEZoj6Kd_WGLgIEvx3EAoA)
++ [曾经需要N行代码解决的，现在只需一行代码](https://mp.weixin.qq.com/s/nGM7XfSSshxm24tGpyT-EA)
 
 ## 代码质量
 
@@ -748,6 +749,8 @@
 + [面试官：Java 深拷贝和浅拷贝的区别？](https://mp.weixin.qq.com/s/yryrUXzlZsHrUT70KxgCkw)
 + [面试官：String str = new String("abc") 创建了几个对象？](https://mp.weixin.qq.com/s/lCXZUUyidP_-W5jPPM2Xow)
 + [面试官：while(true) 和 for(;;) 哪个性能更好？](https://mp.weixin.qq.com/s/632hfVAqIJY5exZHil7I1A)
++ [面试官：BigDecimal 和 Long 哪个表示金额更合适，怎么选择？](https://mp.weixin.qq.com/s/MRPWloEGVDUwa0JEK9U4og)
++ [面试官：为什么不能用浮点数表示金额？](https://mp.weixin.qq.com/s/MSAsJtV5eh0gOvG7Z2xMQA)
 
 ### 序列化
 
@@ -1439,6 +1442,7 @@
 ### String
 
 + [String、StringBuffer 和 StringBuilder，别再用错了！](https://mp.weixin.qq.com/s/lpKWHsH65kxI-yspvgRzfA)
++ [面试官：String、StringBuilder 和 StringBuffer 的区别？](https://mp.weixin.qq.com/s/AvcWi8FKKBHUJhJKJp9AHw)
 
 ### ThreadLocal
 
@@ -1684,6 +1688,7 @@
 + [Optional ：orElse 和 orElseGet 的底层逻辑，决定了它们的本质区别](https://mp.weixin.qq.com/s/TqxovuEhv0TAxr-A10O5qw)
 + [从if-null到Optional：Java空指针防御的进化之路](https://mp.weixin.qq.com/s/WaTWufGQWkmrDYinnZ5qOg)
 + [Java 8 都老了，Optional 为啥还是没人用？到底卡在哪了？](https://mp.weixin.qq.com/s/5xLR_kis8ww-9gkWSVkAag)
++ [横扫 NPE！Optional 封神背后的 9 个致命错误](https://mp.weixin.qq.com/s/x84tLCUGJ0VL7WqhfzIZ0Q)
 
 ### Comparator
 
@@ -1931,6 +1936,7 @@
 + [路径注入（Path Injection）漏洞详解](https://mp.weixin.qq.com/s/G7Wn9NmgQes_UmR4MUS_HQ)
 + [Java Zip 压缩及其优化](https://mp.weixin.qq.com/s/tnEi__W2PAFzxxDQun_n5g)
 + [为什么我们总是记不住 Java I/O 流？Java 程序员的 I/O 流扫盲指南（存储篇）](https://mp.weixin.qq.com/s/wzlMWBnGNYRn5oHmzKKbrg)
++ [删除文件还在用file.delete?](https://mp.weixin.qq.com/s/bcG6X9E1hE9O6JuM4McWNQ)
 
 ## JAVAX
 
@@ -2111,6 +2117,7 @@
 + [本地缓存 Caffeine 中的时间轮（TimeWheel）是什么？](https://my.oschina.net/u/4090830/blog/18687079)
 + [一篇吃透最强本地缓存 Caffeine！含过期策略、多级缓存方案，拿来就用](https://mp.weixin.qq.com/s/YoJ_C-DuPcbE_mQfHxCg_A)
 + [Redis+Caffeine 太强了！](https://mp.weixin.qq.com/s/raui7VrKIN-TCzo_OO4f1Q)
++ [Guava Cache和Caffeine，哪个更好？](https://mp.weixin.qq.com/s/UQXvxfIiW7TJOKgxEa-GDQ)
 
 ## consul
 
@@ -3158,6 +3165,7 @@
 + [Spring AI 框架中如何集成 MCP？](https://mp.weixin.qq.com/s/J5kzNGH6vCRU46uzrfb8QQ)
 + [Spring AI MCP基础](https://mp.weixin.qq.com/s/lxa3krYUz-js54mkAMXmPw)
 + [别再纸上谈兵了！手把手教你在 Spring Boot 中落地 OpenClaw（Java 实战）](https://mp.weixin.qq.com/s/rbB8zUai1-gjVoqr3fUqHg)
++ [惊爆！Spring AI 引入 Agent Skills 标准，AI 智能体开发要变天啦！](https://mp.weixin.qq.com/s/BEAKIlQA4K_sxgsr0A7CtA)
 
 ### cloud
 
@@ -3219,6 +3227,7 @@
 + [Spring Cloud OpenFeign 核心原理](https://mp.weixin.qq.com/s/gNKD3JUvGEdihK3A6zVspA)
 + [快速入门：SpringCloud负载均衡组件LoadBalancer详解](https://mp.weixin.qq.com/s/KpOsBJB5c8360wJag3WHSg)
 + [SpringCloud微服务：EasyExcel实现Excel的优雅导入导出](https://mp.weixin.qq.com/s/NJNnKKebmyEfCijYW4tq6A)
++ [7 种负载均衡算法，Java 纯手撸实现](https://mp.weixin.qq.com/s/QcZTU3zCpwr2J6ZXA-zNfA)
 
 #### alibaba
 
@@ -4075,6 +4084,9 @@
 + [Spring Boot 4 声明式 HTTP 客户端实战全解析](https://mp.weixin.qq.com/s/fsQuQJoiH6ezoEzCMhSB1Q)
 + [Spring Cloud 5.x 全面增强@HttpExchange，彻底替换OpenFeign](https://mp.weixin.qq.com/s/W0yczA5fH4HBM2Ilf3_xFA)
 + [Controller接口写得烂，同事跟着乱！10 条优雅设计法则](https://mp.weixin.qq.com/s/mdByPDUmHZ-B5Wg8CccmCQ)
++ [实时流技术！Spring Boot 流式响应4种场景应用，拒绝OOM](https://mp.weixin.qq.com/s/WZde8gX7cJ1r56yFWrgh-w)
++ [强悍！基于Netty实现的异步HTTP客户端，性能提升100%](https://mp.weixin.qq.com/s/LKiGhhX_c8bmOz42KDe-1g)
++ [告别 null 混乱！8个实践规则](https://mp.weixin.qq.com/s/xGv-lYVSm1mhp0MRmYSeHQ)
 
 ##### 文件上传下载
 
@@ -4223,6 +4235,7 @@
 + [JAVA：Spring Boot3 集成 P6Spy 的 JDBC 代理框架](https://mp.weixin.qq.com/s/vSnmuNOjW_N58LLBWU7yfg)
 + [性能优化！Spring Boot + JPA 杀死系统性能的7个错误](https://mp.weixin.qq.com/s/HMNG7j-fsOadpAjAOkolNg)
 + [还在数据库存明文？Spring Boot 字段级加密，真能救命](https://mp.weixin.qq.com/s/vMZ0b6SjayuNNevoozVOxg)
++ [Spring Data JPA 隐藏的8个强大注解，优化性能，代码减半](https://mp.weixin.qq.com/s/9ka6VU9CAA3tBqu_eK56TA)
 
 ##### TRANSACTION
 
@@ -4800,6 +4813,9 @@
 + [Spring + asyncTool：实现复杂任务的优雅编排与高效执行](https://mp.weixin.qq.com/s/YOaaUBm0k7zaoEIU0SjoZQ)
 + [Spring Boot + JPackage：构建独立安装包](https://mp.weixin.qq.com/s/Qs-JDgxsIv4Hhv7zCcwXgw)
 + [JAVA：Spring Boot 集成 JMH 进行基准测试](https://mp.weixin.qq.com/s/M4SpjOOBnXBmEJTXUIrJLg)
++ [JAVA：Spring Boot 集成 Validation 参数校验](https://mp.weixin.qq.com/s/vojQTRxWe-xh8lBKmG_wjw)
++ [还在手撸验证码？Spring Boot 从自定义实现到 Hutool，一篇带你彻底搞定](https://mp.weixin.qq.com/s/8n3AJhRPRy9R0emPXHulrQ)
++ [这才是企业级的oss-spring-boot-starter，属实好用！](https://mp.weixin.qq.com/s/8icUMCQoArZ5tZKqvHTh4w)
 
 ##### excel
 

@@ -4087,6 +4087,7 @@
 + [实时流技术！Spring Boot 流式响应4种场景应用，拒绝OOM](https://mp.weixin.qq.com/s/WZde8gX7cJ1r56yFWrgh-w)
 + [强悍！基于Netty实现的异步HTTP客户端，性能提升100%](https://mp.weixin.qq.com/s/LKiGhhX_c8bmOz42KDe-1g)
 + [告别 null 混乱！8个实践规则](https://mp.weixin.qq.com/s/xGv-lYVSm1mhp0MRmYSeHQ)
++ [告别内存溢出！Spring StreamingResponseBody 三大实战案例，性能提升100%](https://mp.weixin.qq.com/s/e7m85iR_k8c5MlxIhS6fog)
 
 ##### 文件上传下载
 

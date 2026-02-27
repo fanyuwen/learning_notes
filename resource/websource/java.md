@@ -2572,6 +2572,7 @@
 + [Sentinel自适应限流原理](https://mp.weixin.qq.com/s/punZ64lW5Rp-u5yJR7muig)
 + [微服务系统中流量治理组件sentinel剖析](https://mp.weixin.qq.com/s/LCr1E6U9cRV05SPENy7A5Q)
 + [限流禁咒！Sentinel集群流控征服流量洪峰](https://mp.weixin.qq.com/s/J9xtcI2_ZY1L4-aCizvU5Q)
++ [Sentinel Java 客户端限流原理解析｜得物技术](https://my.oschina.net/u/5783135/blog/19207953)
 
 ## shardingsphere
 

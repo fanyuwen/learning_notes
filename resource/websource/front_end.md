@@ -411,6 +411,7 @@
 + [一个 4.7 GB 视频把浏览器拖进 OOM](https://mp.weixin.qq.com/s/E_atN0M-5mJT5vyiGwsgRw)
 + [项目性能优化实践：深入 FMP 算法原理探索｜得物技术](https://my.oschina.net/u/5783135/blog/18860898)
 + [前端性能革命：200 行 JavaScript 代码实现 Streaming JSON](https://mp.weixin.qq.com/s/Yi19DJ-_OR-0tjB9F9qmmA)
++ [前端平台大仓应用稳定性治理之路｜得物技术](https://my.oschina.net/u/5783135/blog/19163046)
 
 # 杂谈
 

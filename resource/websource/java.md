@@ -2362,6 +2362,7 @@
 + [13 秒插入 30 万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/3M2fiwJGmjhN-VmULkj1SQ)
 + [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/mRz_pgfRCFdIfiQ1Exibdw)
 + [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/wNLBlEcMh4BeK9vLd31DIA)
++ [融合 JPA，MyBatis JPA Extra 3.4.4 发布](https://www.oschina.net/news/403599)
 
 ### plus
 

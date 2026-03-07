@@ -52,6 +52,7 @@
 + [很多 Go 程序员写了 5 年代码，还是没用过这 7 个“高级但低调”的特性](https://mp.weixin.qq.com/s/4lOSbuRfZJkBrOxKM8izOQ)
 + [2025 年 Go 开发者调查结果](https://www.oschina.net/news/399611/go-survey2025)
 + [明明用的是 Go，为什么一到高并发就开始喘？答案在算法里](https://mp.weixin.qq.com/s/jYkmXa0cx7omZY-ju5sWvA)
++ [5年Go微服务踩坑复盘：从“爽到飞起”到“分布式单体”崩溃现场](https://mp.weixin.qq.com/s/j3EKrMWxBTYP_E31_5XmEw)
 
 # 库
 

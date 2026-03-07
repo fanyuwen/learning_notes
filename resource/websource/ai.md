@@ -50,6 +50,7 @@
 + [大模型网关：大模型时代的智能交通枢纽｜得物技术](https://my.oschina.net/u/5783135/blog/19206300)
 + [为什么 Cloudflare 不碰 ORM？](https://mp.weixin.qq.com/s/cJ0TDPlWQ3aH4oYckQ4qcw)
 + [得物社区搜推公式融合调参框架 - 加乘树 3.0 实战](https://my.oschina.net/u/5783135/blog/19208948)
++ [开源项目：handy-ollama 本地大模型快速上手指南](https://mp.weixin.qq.com/s/QyximIi-J8D-3bVpEDkglw)
 
 ## 资讯
 

@@ -634,6 +634,7 @@
 + [太强了！30个优化Java代码的技巧](https://mp.weixin.qq.com/s/gzrTxH0rSwL4-ayj2pIIIQ)
 + [瞧瞧别人家的判空，那叫一个优雅！](https://mp.weixin.qq.com/s/t3w8PF5SoRbNG9LjtKrwSw)
 + [为什么Java里面，Service 层不直接返回 Result 对象？](https://mp.weixin.qq.com/s/cZtLXnVCM6Tvw5HLfJWBHg)
++ [同样的业务，性能暴涨 10x！一次 Java 重构带来的极限优化实录](https://mp.weixin.qq.com/s/9ED7csx2aOnOlRvAf6z3Pg)
 
 # 底层
 
@@ -1270,6 +1271,7 @@
 + [提升Java开发效率的秘密武器：Jadx反编译工具详解](https://mp.weixin.qq.com/s/bNen1CHMfhi75E8m7NcdJw)
 + [JAVA：JVM 常见面试题的技术指南](https://mp.weixin.qq.com/s/vyzsPEcTHl9d2dHE_hSIgA)
 + [SRE 踩坑记：JVM 暂停竟然是因为日志](https://my.oschina.net/morflameblog/blog/18964665)
++ [JVM 堆策略大改：JDK 26 不再按内存比例分配初始堆](https://mp.weixin.qq.com/s/gNoTsjJVRXCzEm9_qFrPiQ)
 
 ### 命令
 
@@ -2363,6 +2365,7 @@
 + [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/mRz_pgfRCFdIfiQ1Exibdw)
 + [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/wNLBlEcMh4BeK9vLd31DIA)
 + [融合 JPA，MyBatis JPA Extra 3.4.4 发布](https://www.oschina.net/news/403599)
++ [告别 MyBatis IN 语句的 foreach 模板：自定义扩展 让 SQL 编写效率翻倍!](https://mp.weixin.qq.com/s/hbalp8bFYfh3Dk0dVZTiQg)
 
 ### plus
 
@@ -2518,6 +2521,7 @@
 + [Java响应式编程实践与原理解析](https://mp.weixin.qq.com/s/qAHFMXW-rtWVltm3H-BryA)
 + [百万并发下的救赎：Spring响应式编程如何让我们的系统起死回生](https://mp.weixin.qq.com/s/bCaAw4opUESYRJ72yYVwpA)
 + [解锁Java响应式编程：Project Reactor全解析](https://mp.weixin.qq.com/s/lEhf6o20xmSLFvEAVdCdEQ)
++ [太强了！Spring Boot 响应式 Sink 强势来袭，数据流实时处理](https://mp.weixin.qq.com/s/22wGWCL3RljvW_20RLRwyQ)
 
 ## redisson
 
@@ -2676,6 +2680,7 @@
 + [Spring Bean生命周期：99%开发者闻所未闻，涨见识啊](https://mp.weixin.qq.com/s/sN9vbVtbFBcyaVlafb5oXA)
 + [一篇总结速通Spring Bean 生命周期，IOC容器，Bean作用域：从“出生”到“入土”的 超爽攻略](https://mp.weixin.qq.com/s/n23aMxkfCQO_1MCeMreWiA)
 + [技术面：Spring (bean的生命周期、创建方式、注入方式、作用域)](https://mp.weixin.qq.com/s/bDnNdHrfWSA-SIC2lmn79w)
++ [面试官：Spring 中创建 Bean 有几种方式？](https://mp.weixin.qq.com/s/xDPOeJX6T2PWHriKKcEh9g)
 
 #### 配置
 
@@ -3070,6 +3075,7 @@
 + [Spring Event，贼好用的业务解耦神器！](https://mp.weixin.qq.com/s/SdOqeVaE3mrpqVCjCw_9Kw)
 + [Spring Event 别瞎用！被它坑的绩效都没了！](https://mp.weixin.qq.com/s/XdpwTTJdlmV70l2oRu1_0g)
 + [Spring监听器（ApplicationEvent）：比MQ更轻的异步神器！](https://mp.weixin.qq.com/s/gfPsH2QbyZz4Qs2IUw6MGQ)
++ [一个很多人忽略的 Spring 功能：轻松实现异步解耦，比 MQ 还轻](https://mp.weixin.qq.com/s/mz5HQ1xVe08xD-n8h6hyjw)
 
 ### AOP
 
@@ -3230,6 +3236,7 @@
 + [快速入门：SpringCloud负载均衡组件LoadBalancer详解](https://mp.weixin.qq.com/s/KpOsBJB5c8360wJag3WHSg)
 + [SpringCloud微服务：EasyExcel实现Excel的优雅导入导出](https://mp.weixin.qq.com/s/NJNnKKebmyEfCijYW4tq6A)
 + [7 种负载均衡算法，Java 纯手撸实现](https://mp.weixin.qq.com/s/QcZTU3zCpwr2J6ZXA-zNfA)
++ [Spring Boot 微服务如何做到 99.99% 可用性？这 7 个核心步骤必须掌握！](https://mp.weixin.qq.com/s/KkY9RocQyOczxRsqFOYL3A)
 
 #### alibaba
 
@@ -4239,6 +4246,7 @@
 + [性能优化！Spring Boot + JPA 杀死系统性能的7个错误](https://mp.weixin.qq.com/s/HMNG7j-fsOadpAjAOkolNg)
 + [还在数据库存明文？Spring Boot 字段级加密，真能救命](https://mp.weixin.qq.com/s/vMZ0b6SjayuNNevoozVOxg)
 + [Spring Data JPA 隐藏的8个强大注解，优化性能，代码减半](https://mp.weixin.qq.com/s/9ka6VU9CAA3tBqu_eK56TA)
++ [Spring Boot 数据库版本管理双雄争霸:Spring Boot 下 Flyway vs Liquibase 终极对决，谁才是王者？](https://mp.weixin.qq.com/s/dSLNhDc7b0j7M43aciAb-w)
 
 ##### TRANSACTION
 
@@ -4347,6 +4355,8 @@
 + [分布式场景下 @Scheduled 防重复执行的三大方案](https://mp.weixin.qq.com/s/BNeFsX2T76IdITdhpeRxyA)
 + [@Async 七大致命陷阱：Spring Boot 异步编程的血泪教训](https://mp.weixin.qq.com/s/CRhnp_5ZA3lM97DxXQ4CqA)
 + [警惕！Java并发编程这9大反模式，一踩即中"大坑"](https://mp.weixin.qq.com/s/EpFqOtOFQdm_qp-Dl1eU5g)
++ [SpringBoot + 虚拟线程，简直鸟枪换大炮～](https://mp.weixin.qq.com/s/0zd5adOeu_S2BkfhdZkUew)
++ [SpringBoot 怎么实现订单 30 分钟自动取消？](https://mp.weixin.qq.com/s/kYG9QLQM3eL0_kn5oSe8Xw)
 
 ##### Disruptor
 
@@ -4819,6 +4829,8 @@
 + [JAVA：Spring Boot 集成 Validation 参数校验](https://mp.weixin.qq.com/s/vojQTRxWe-xh8lBKmG_wjw)
 + [还在手撸验证码？Spring Boot 从自定义实现到 Hutool，一篇带你彻底搞定](https://mp.weixin.qq.com/s/8n3AJhRPRy9R0emPXHulrQ)
 + [这才是企业级的oss-spring-boot-starter，属实好用！](https://mp.weixin.qq.com/s/8icUMCQoArZ5tZKqvHTh4w)
++ [对标百度网盘：基于SpringBoot开发的分布式文件系统，功能非常强大，开源了！](https://mp.weixin.qq.com/s/ExV23kkh3JFNqI9yKt4flA)
++ [跨平台标准！Spring Boot + CloudEvents 统一规范化数据格式](https://mp.weixin.qq.com/s/ZQc59cWQZGPhE2KkVbsCSw)
 
 ##### excel
 
@@ -4890,6 +4902,9 @@
 + [Servlet 3.0异步处理的革命性突破：AsyncContext](https://mp.weixin.qq.com/s/TjmsP2JPltXGOovGjattKQ)
 + [Tomcat 线程池和 JDK 线程池到底有什么不同？](https://mp.weixin.qq.com/s/OqSgOr8XU-fS4qzpSWoTFw)
 + [无需第三方？Java自带强大的JSON处理](https://mp.weixin.qq.com/s/xK8EL4wfo8IDQO6fS7Vtyg)
++ [面试官：介绍一下 Tomcat 的 IO 模型？](https://mp.weixin.qq.com/s/-N-9i4jHmcVoi8Bjvq5ZCQ)
++ [面试官：过滤器和拦截器的区别是什么？](https://mp.weixin.qq.com/s/mlZffmfV130PZK7Ynj0FPA)
++ [面试官：为什么 Tomcat 默认最大线程数是 200，而不是 N+1？](https://mp.weixin.qq.com/s/Qtiytcnk6qUmM6b8VyJrxg)
 
 ## xxl-job
 

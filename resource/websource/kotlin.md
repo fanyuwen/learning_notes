@@ -65,6 +65,8 @@
 + [在实际项目中评估 Kotlin | 《Java 转 Kotlin 终极指南》第 2 期](https://mp.weixin.qq.com/s/Qi70-g5H3J6TGi5mZBadUA)
 + [在公司内部扩大 Kotlin 的采用 | 《Java 转 Kotlin 终极指南》第 3 期](https://mp.weixin.qq.com/s/GjNBc-hxHU860Y4VdI2IFw)
 + [帮助决策者认可 Kotlin｜《Java 转 Kotlin 终极指南》第 4 期](https://mp.weixin.qq.com/s/l1MKdXim853jsAXcYAelPA)
++ [Koin 实战指南：接入Kotlin 跨平台｜社区分享](https://mp.weixin.qq.com/s/YorQge15a4HYIcMCiOgZJA)
++ [使用 Kotlin 构建 AI 智能体 – 第 1 部分：极简编码智能体｜官方博客](https://mp.weixin.qq.com/s/Rz3VDrdCZ_ZtDhVcp2eoDQ)
 
 ## 技术月报
 

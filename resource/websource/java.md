@@ -179,6 +179,7 @@
 + [141. Java 泛型 - Java 泛型方法的类型擦除](https://mp.weixin.qq.com/s/mMuWsFyD5w-i4kuBGvq7uA)
 + [126. Java 泛型 - 泛型、继承与子类型](https://mp.weixin.qq.com/s/D87zM3NHiZ-7P2WVgBIPdg)
 + [Java泛型：T、E、K、V、?，你还在傻傻分不清？](https://mp.weixin.qq.com/s/5K99-5m_1EGE-mTPiAUbrw)
++ [面试官：什么是 Java 泛型？为什么要使用它？](https://mp.weixin.qq.com/s/XoU2i34O1XAPbar5XM5JNw)
 
 ### 面向对象
 
@@ -312,6 +313,7 @@
 + [JDK21:若传统多线程是自行车，虚拟线程就是飞机](https://mp.weixin.qq.com/s/__KTM8V9rHhH_T5ap25mjg)
 + [Java25 是真的强啊：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/gOtksuftN8yHxw2ZpM9l7w)
 + [Java25 是真的强啊：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/9nDkWxQRN_levPn7n9amfg)
++ [并发时代的王炸模型！为什么 Record 天生适合高并发系统？](https://mp.weixin.qq.com/s/gnyS1LpG1hqI6F-DCCVo7A)
 
 ## 高级用法
 
@@ -536,6 +538,8 @@
 + [别再写工具类了！Java 老代码该用「函数式接口」重构了](https://mp.weixin.qq.com/s/v8cUVyqrQTreyJn8LIU9kA)
 + [面试官：finally 中代码一定会被执行吗？](https://mp.weixin.qq.com/s/BEZoj6Kd_WGLgIEvx3EAoA)
 + [曾经需要N行代码解决的，现在只需一行代码](https://mp.weixin.qq.com/s/nGM7XfSSshxm24tGpyT-EA)
++ [别再只把 Record 当 DTO 了！这些高阶玩法，90% 的 Java 程序员都没用过](https://mp.weixin.qq.com/s/IAwuwYgRrrOLE-ZCQ_rkXg)
++ [别再写"古董"代码了！Java新旧写法对比，看完效率直接翻倍](https://mp.weixin.qq.com/s/n8oobuf4efjNCsvKwrDn1g)
 
 ## 代码质量
 
@@ -635,6 +639,7 @@
 + [瞧瞧别人家的判空，那叫一个优雅！](https://mp.weixin.qq.com/s/t3w8PF5SoRbNG9LjtKrwSw)
 + [为什么Java里面，Service 层不直接返回 Result 对象？](https://mp.weixin.qq.com/s/cZtLXnVCM6Tvw5HLfJWBHg)
 + [同样的业务，性能暴涨 10x！一次 Java 重构带来的极限优化实录](https://mp.weixin.qq.com/s/9ED7csx2aOnOlRvAf6z3Pg)
++ [Java性能调优黑科技！1行代码实现毫秒级耗时追踪，效率飙升300%！](https://mp.weixin.qq.com/s/OkF4PZFl_egBTcCLgk6l-w)
 
 # 底层
 
@@ -1061,6 +1066,7 @@
 + [面试官问：线程池核心线程预热怎么玩？为什么prestartAllCoreThreads 有时不如手动提交空任务？](https://mp.weixin.qq.com/s/6_BykZismutmaD3P353XDQ)
 + [线程池 ThreadPoolExecutor 源码深度解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695444)
 + [QPS 10 万，任务接口耗时 100ms，线程池如何优化？](https://mp.weixin.qq.com/s/lrEH9MFaRyJo5vMXNTF72w)
++ [面试官：线程池的拒绝策略有哪些？](https://mp.weixin.qq.com/s/DKoSI3cq8fmPiGRheObiHw)
 
 #### 锁
 
@@ -1618,6 +1624,7 @@
 + [面试官：ArrayList为啥要实现RandomAccess接口？](https://mp.weixin.qq.com/s/MielIq2Ih2isLzG_Ch4usw)
 + [炸裂！掌握这8个Java集合操作超神技巧，代码效率飙升](https://mp.weixin.qq.com/s/PtEKcGRsiNwwhy7aah0jRw)
 + [Java程序员必备的几种数据类型操作：List篇](https://mp.weixin.qq.com/s/O4eQpPwhir4y3AwPU2Q8bQ)
++ [面试官：Set 如何保证元素不重复的？](https://mp.weixin.qq.com/s/UiLATV9CMXgt3NI3zO64vQ)
 
 #### map
 
@@ -1665,6 +1672,7 @@
 + [新来的实习生不会用Map的computeIfAbsent方法，被领导骂哭！](https://mp.weixin.qq.com/s/XNPN0BFoL1xDLe9-x5N09w)
 + [面试官：HashMap、Hashtable 和 ConcurrentHashMap 的区别？](https://mp.weixin.qq.com/s/JCldQcpggJv80ZYPp_sAJQ)
 + [面试官：说说 HashMap 的扩容机制？如何扩容的？](https://mp.weixin.qq.com/s/lSkyjBxdlAoY-hIMEJ4xag)
++ [面试官：为什么在 Jdk 8 中 HashMap 要转成红黑树？](https://mp.weixin.qq.com/s/B7AZocL1pnyvmTBcllBtUQ)
 
 ### Optional
 
@@ -1860,6 +1868,8 @@
 + [ConcurrentHashMap为什么不支持null健？](https://mp.weixin.qq.com/s/hnhhGspHCU_UDcS4CRUdIw)
 + [最爱问的高频ConcurrentHashMap原理，你会了吗？](https://mp.weixin.qq.com/s/Ifmb93yJErcz3rwGLgCzsg)
 + [深度解析 ConcurrentHashMap：从源码到实战](https://mp.weixin.qq.com/s/sSLhPR6L9UaQzs5UOR0WSQ)
++ [面试官：ConcurrentHashMap 是如何保证线程安全的？](https://mp.weixin.qq.com/s/WvJiSXo_RM0c0Uudpc_W0Q)
++ [面试官：ConcurrentHashMap 为什么在 JDK 1.8 中废弃分段锁？](https://mp.weixin.qq.com/s/SdSX6DICc-pUytKKT8h7nw)
 
 ### 其它
 
@@ -2427,6 +2437,8 @@
 + [Nacos源码深度解析系列文章导航](https://mp.weixin.qq.com/s/pBsdA4kAe_-isMLUlySXTw)
 + [nacos的使用原理](https://mp.weixin.qq.com/s/Jg_4-OQbAOXqqNcK3tmxYA)
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/F8NErtnWi1cFOocX4z6JMg)
++ [Nacos 和 Apollo ，哪个更好？](https://mp.weixin.qq.com/s/gUrU2x_J5CR1O_skLlDieg)
++ [Nacos和Apollo，哪个更好？](https://mp.weixin.qq.com/s/BxcLBgGiOFbqcxa_cEF4Yg)
 
 ## netty
 
@@ -3174,6 +3186,7 @@
 + [Spring AI MCP基础](https://mp.weixin.qq.com/s/lxa3krYUz-js54mkAMXmPw)
 + [别再纸上谈兵了！手把手教你在 Spring Boot 中落地 OpenClaw（Java 实战）](https://mp.weixin.qq.com/s/rbB8zUai1-gjVoqr3fUqHg)
 + [惊爆！Spring AI 引入 Agent Skills 标准，AI 智能体开发要变天啦！](https://mp.weixin.qq.com/s/BEAKIlQA4K_sxgsr0A7CtA)
++ [太强了！Spring AI + MCP：实现智能动态参数补全](https://mp.weixin.qq.com/s/ZM6LMwcj1UJZ83vybIdDZA)
 
 ### cloud
 
@@ -3346,6 +3359,7 @@
 + [实体到DTO转换：4种方式，别用错了性能差3倍](https://mp.weixin.qq.com/s/7ytmB1hsZGHeAW_9cLa_Cg)
 + [Spring Boot微服务中的十二要素方法论](https://mp.weixin.qq.com/s/ZJ2KFXWIoUf71bmbeJYj8Q)
 + [想看线上服务的debug级别的日志？spring-boot自带组件actuator帮你实现](https://mp.weixin.qq.com/s/QvKEGjO-OGdb6w0OUvSRvw)
++ [别再用错！Spring Boot 加载资源的3种核心万能方法](https://mp.weixin.qq.com/s/ro0Fep_ixCTPsPABjC0tkw)
 
 ##### 高阶
 
@@ -3492,6 +3506,7 @@
 + [技术更新！Spring Boot 启动时这11种玩法太实用了](https://mp.weixin.qq.com/s/oEbygsbhEC_rD5APqXI5xg)
 + [不压测，别上线！我是这样把 Spring Boot 扛到生产级的](https://mp.weixin.qq.com/s/WL99ljAN3ErvYVO6tyQ9pg)
 + [别再写基础数据库配置了！这 5 个 Spring Boot 高阶玩法，让你代码评审直接封神！](https://mp.weixin.qq.com/s/-s9Zw520Ow02jJnM4OhQ7w)
++ [Spring Boot 接口多实现注入的5种方法，最后一这种非常巧妙](https://mp.weixin.qq.com/s/s3xbeAmO32tOUdKOB5fWMw)
 
 ##### 原理
 
@@ -4097,6 +4112,14 @@
 + [强悍！基于Netty实现的异步HTTP客户端，性能提升100%](https://mp.weixin.qq.com/s/LKiGhhX_c8bmOz42KDe-1g)
 + [告别 null 混乱！8个实践规则](https://mp.weixin.qq.com/s/xGv-lYVSm1mhp0MRmYSeHQ)
 + [告别内存溢出！Spring StreamingResponseBody 三大实战案例，性能提升100%](https://mp.weixin.qq.com/s/e7m85iR_k8c5MlxIhS6fog)
++ [Spring Boot + Jackson 组合注解：一行代码终结 90% 样板代码](https://mp.weixin.qq.com/s/9wY1OOr1KL5L2FCS4tEMRQ)
++ [手搓了一个 SpringBoot 接口防护神器（防重+限流）](https://mp.weixin.qq.com/s/QjmjmF440IH2tgHUwA5eQQ)
++ [手搓了一个 SpringBoot 接口防护神器（防重+限流）](https://mp.weixin.qq.com/s/b923RFKufDpI0g8dojB2TQ)
++ [Entity 转 DTO 哪种方式最快？3 种映射方案性能实测大揭秘！](https://mp.weixin.qq.com/s/FeqFtkdxOMsjaC4xgxbFxw)
++ [深入底层！Spring Boot 默认错误处理的3种机制](https://mp.weixin.qq.com/s/xj4s204SnFokMb0hFsg-vA)
++ [接口结构天天变？Spring Boot 动态接收请求体的终极解决方案来了！](https://mp.weixin.qq.com/s/M7UsBhS9LP-9yO_bDNTk1g)
++ [API 版本管理彻底变天！Spring Boot 4 用 3 行配置终结 400 行旧代码](https://mp.weixin.qq.com/s/WXTIs_6B_3XcARIHfAJYfg)
++ [JAVA：Spring Boot3 集成 Sa-Token 轻量级权限认证](https://mp.weixin.qq.com/s/Jl8GLV3GULD4YK4H_cLUdg)
 
 ##### 文件上传下载
 
@@ -4247,6 +4270,7 @@
 + [还在数据库存明文？Spring Boot 字段级加密，真能救命](https://mp.weixin.qq.com/s/vMZ0b6SjayuNNevoozVOxg)
 + [Spring Data JPA 隐藏的8个强大注解，优化性能，代码减半](https://mp.weixin.qq.com/s/9ka6VU9CAA3tBqu_eK56TA)
 + [Spring Boot 数据库版本管理双雄争霸:Spring Boot 下 Flyway vs Liquibase 终极对决，谁才是王者？](https://mp.weixin.qq.com/s/dSLNhDc7b0j7M43aciAb-w)
++ [JPA 很香，但 JDBC 才是性能王者：6 大场景实测快 15~500 倍！](https://mp.weixin.qq.com/s/4s_UcmQ62PAYkYMHS-J-yA)
 
 ##### TRANSACTION
 
@@ -4652,6 +4676,7 @@
 + [SpringBoot 容器镜像更新只要200k，你敢信？？？](https://mp.weixin.qq.com/s/6n-Yk-QUgKDBmDKA4dhd-Q)
 + [Spring Boot 配置文件9个隐藏功能，最后两个是真不知道啊](https://mp.weixin.qq.com/s/51i1mtlrZdYiS8BUIT4vaw)
 + [SpringBoot应用部署神器：可视化服务管理脚本让运维更轻松](https://mp.weixin.qq.com/s/FAUfYI2jqM76LrUk7PuKwg)
++ [JAVA：Spring Boot 集成 Maven Assembly 创建自定义打包](https://mp.weixin.qq.com/s/SxJC3af_LCcxA4FG4Whk0Q)
 
 #### 集成三方
 
@@ -4831,6 +4856,8 @@
 + [这才是企业级的oss-spring-boot-starter，属实好用！](https://mp.weixin.qq.com/s/8icUMCQoArZ5tZKqvHTh4w)
 + [对标百度网盘：基于SpringBoot开发的分布式文件系统，功能非常强大，开源了！](https://mp.weixin.qq.com/s/ExV23kkh3JFNqI9yKt4flA)
 + [跨平台标准！Spring Boot + CloudEvents 统一规范化数据格式](https://mp.weixin.qq.com/s/ZQc59cWQZGPhE2KkVbsCSw)
++ [JAVA：Spring Boot 集成 iTextPDF 强大的 PDF 工具库](https://mp.weixin.qq.com/s/uosQGLRK6AUeOyFkg_uyRg)
++ [Spring+asyncTool：实现复杂任务的优雅编排与高效执行](https://mp.weixin.qq.com/s/PZCjGnPdr8qQ_5RwnYmQ9g)
 
 ##### excel
 
@@ -4869,6 +4896,7 @@
 + [使用 Spring Boot 创建自定义启动器（Starter）](https://mp.weixin.qq.com/s/YL-SDO1TnKDQblZchAQ6nA)
 + [Spring Boot 十大开源 "王炸" Starter，功能逆天到离谱！](https://mp.weixin.qq.com/s/5ZXpY70dxl2WLtCqQbmxTg)
 + [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)
++ [拒绝写重复代码，试试这套开源的 SpringBoot 组件，效率翻倍~](https://mp.weixin.qq.com/s/J_4rdNuKEv1c801PjYviWQ)
 
 #### 原理&源码
 

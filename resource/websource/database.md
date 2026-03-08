@@ -486,6 +486,7 @@
 + [3 个奇淫巧技，分库分表 LIMIT 翻页性能直接拉满！](https://mp.weixin.qq.com/s/HjTDx7KBzKd4jT_8v3c-qA)
 + [很强！MySQL 窗口函数、CTE 联手查询优化，解锁数据高效处理](https://mp.weixin.qq.com/s/QWNrT7-2IKvSDu376gi_2g)
 + [面试官：MySQL 自增主键用完了怎么办?](https://mp.weixin.qq.com/s/VJTQ6tIvIcyUohStivES4Q)
++ [面试官：MySQL 分区表和分表有什么区别？分别适合什么场景？](https://mp.weixin.qq.com/s/PMJl2b4K85Tr9lZ1bFZSxA)
 
 #### 存储引擎
 

@@ -49,6 +49,7 @@
 + [JavaScript 深入浅出（一）:let 和 Var 的区别](https://mp.weixin.qq.com/s/LDGVS_MjGoduKYyrYpTdyA)
 + [JavaScript中的var、let和const：区别与使用](https://mp.weixin.qq.com/s/6RgSxdLrZvQ_SLA-0kmbJQ)
 + [译文：竟然可以这样写 JS？ES2025全新语法糖解析](https://mp.weixin.qq.com/s/0Omo3JaDbQg9taVgtkf9HQ)
++ [使用这个新的 ECMAScript 运算符告别 Try/Catch！](https://mp.weixin.qq.com/s/zsOW-Bpp6POwRFB_NvH9Qg)
 
 ### 底层
 
@@ -412,6 +413,7 @@
 + [项目性能优化实践：深入 FMP 算法原理探索｜得物技术](https://my.oschina.net/u/5783135/blog/18860898)
 + [前端性能革命：200 行 JavaScript 代码实现 Streaming JSON](https://mp.weixin.qq.com/s/Yi19DJ-_OR-0tjB9F9qmmA)
 + [前端平台大仓应用稳定性治理之路｜得物技术](https://my.oschina.net/u/5783135/blog/19163046)
++ [大文件预览选择Blob URL的原因](https://mp.weixin.qq.com/s/c6zc89IDjxrGYHAAzt4O8w)
 
 # 杂谈
 

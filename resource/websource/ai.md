@@ -51,6 +51,7 @@
 + [为什么 Cloudflare 不碰 ORM？](https://mp.weixin.qq.com/s/cJ0TDPlWQ3aH4oYckQ4qcw)
 + [得物社区搜推公式融合调参框架 - 加乘树 3.0 实战](https://my.oschina.net/u/5783135/blog/19208948)
 + [开源项目：handy-ollama 本地大模型快速上手指南](https://mp.weixin.qq.com/s/QyximIi-J8D-3bVpEDkglw)
++ [Claude Code 创始人亲授的 10 条核心玩法，太实用了](https://mp.weixin.qq.com/s/zd7XxjbB-ZXOtaBof71xXw)
 
 ## 资讯
 
@@ -74,6 +75,8 @@
 # 工具
 
 + [Cursor 开发指南](https://my.oschina.net/u/3768341/blog/16929248)
++ [Star 23.9k 开源 AI 多Agent舆情分析助手 BettaFish](https://mp.weixin.qq.com/s/iC0qmdiO1cSepeAiaAcnEw)
++ [Gemini 3 Deep Think 84.6% 砸穿 ARC-AGI-2：我们真的跨过“智能门槛”了吗？](https://mp.weixin.qq.com/s/mOVkUm8zE_T8V7EAwacoUA)
 
 # 计算机视觉
 

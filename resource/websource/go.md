@@ -53,6 +53,8 @@
 + [2025 年 Go 开发者调查结果](https://www.oschina.net/news/399611/go-survey2025)
 + [明明用的是 Go，为什么一到高并发就开始喘？答案在算法里](https://mp.weixin.qq.com/s/jYkmXa0cx7omZY-ju5sWvA)
 + [5年Go微服务踩坑复盘：从“爽到飞起”到“分布式单体”崩溃现场](https://mp.weixin.qq.com/s/j3EKrMWxBTYP_E31_5XmEw)
++ [别再乱加依赖了：这是我心目中 2026 年 Go 的标准技术栈](https://mp.weixin.qq.com/s/PD35AuuL2M2-f33dKWhKbA)
++ [Go Context 取消后 goroutine 会去哪？一次面试问懵我的 goroutine 泄漏陷阱](https://mp.weixin.qq.com/s/4MdPjMxLmbsYkqB37jDRbg)
 
 # 库
 
@@ -255,6 +257,7 @@
 + [自从团队用了 Go，部署只要 1 秒了……但真正的惊喜还在后面](https://mp.weixin.qq.com/s/OP15jTnU8CvtJ0kz9grMXQ)
 + [Go语言中的并行表驱动测试](https://mp.weixin.qq.com/s/ufZ5C7eaEuvgDn4fj61-rA)
 + [Go 写到瓶颈期？这 7 个“老鸟级”特性才是质变关键](https://mp.weixin.qq.com/s/-MEb5CuuA7uta47yzgckqQ)
++ [别再写 if err != nil { return err } 了：Go 错误链真正的打开方式](https://mp.weixin.qq.com/s/VIvNITJ2-dYBc2_a-UqPhA)
 
 # 面试题
 

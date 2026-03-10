@@ -17,6 +17,7 @@
 + [C/C++ 开发者请注意！你真的懂memcpy吗？](https://mp.weixin.qq.com/s/LKHtdd56DuPoSonHCW4xjQ)
 + [运算符这种特殊的标识符运作的底层原理剖析一文看懂](https://mp.weixin.qq.com/s/OulTUr3RLu8lSfMSzgV7iw)
 + [函数反汇编及基础破解实验](https://mp.weixin.qq.com/s/IYNhHSk5jjj2eASUKuyOUw)
++ [搜索 C++ 引擎回归能力建设：从自测到工程化准出｜得物技术](https://my.oschina.net/u/5783135/blog/19209730)
 
 ## 工具
 

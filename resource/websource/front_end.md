@@ -305,6 +305,10 @@
 + [Rich Harris 承诺：使用 Svelte 5.0 你将编写更少的代码](https://mp.weixin.qq.com/s/0e85taqdJkJHEK_-gFFQ1Q)
 + [升级到Svelte 5后，我不会再用Svelte开发新项目](https://mp.weixin.qq.com/s/jVhRitizga0NSh17wzsKBg)
 
+## Angular
+
++ [Angular 架构必学：Module 与 Standalone 的核心差异与革新](https://my.oschina.net/u/6769809/blog/19207065)
+
 # websocket
 
 + [WebSocket实战秘籍入门 —— 解锁实时交互新境界](https://mp.weixin.qq.com/s/pRvzcRjFoKKou7GZqkMOOw)

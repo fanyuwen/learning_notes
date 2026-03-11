@@ -418,6 +418,7 @@
 + [前端性能革命：200 行 JavaScript 代码实现 Streaming JSON](https://mp.weixin.qq.com/s/Yi19DJ-_OR-0tjB9F9qmmA)
 + [前端平台大仓应用稳定性治理之路｜得物技术](https://my.oschina.net/u/5783135/blog/19163046)
 + [大文件预览选择Blob URL的原因](https://mp.weixin.qq.com/s/c6zc89IDjxrGYHAAzt4O8w)
++ [如何取消无用的HTTP请求](https://mp.weixin.qq.com/s/z2DUGJQuaMtl1cX7D4Kj1Q)
 
 # 杂谈
 

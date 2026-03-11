@@ -55,6 +55,7 @@
 + [5年Go微服务踩坑复盘：从“爽到飞起”到“分布式单体”崩溃现场](https://mp.weixin.qq.com/s/j3EKrMWxBTYP_E31_5XmEw)
 + [别再乱加依赖了：这是我心目中 2026 年 Go 的标准技术栈](https://mp.weixin.qq.com/s/PD35AuuL2M2-f33dKWhKbA)
 + [Go Context 取消后 goroutine 会去哪？一次面试问懵我的 goroutine 泄漏陷阱](https://mp.weixin.qq.com/s/4MdPjMxLmbsYkqB37jDRbg)
++ [Go 1.26 爆发式升级，却故意“放鸽子” JSON v2：背后真相太硬核](https://mp.weixin.qq.com/s/XDuSi7rvQSS2F3WSTCyiHA)
 
 # 库
 

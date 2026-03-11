@@ -133,6 +133,7 @@
 + [早上，我面试了一位42岁的软件工程师，他的要求是月薪20000元。此前，他在大厂工作过，履历很好。后面愿意接受月薪1.2万元，老板却不同意](https://mp.weixin.qq.com/s/RJqIQntXYZPAvxcS7ThXcA)
 + [前腾讯员工：后悔离开大厂了，之前在大厂天天摸鱼，工作得心应手，现在在中厂自己不熟悉的业务，工作量是之前的两倍，还要每天被领导叼。](https://mp.weixin.qq.com/s/WvTIL7CGICM8p6gkbiGKCA)
 + [发现一个奇怪现象：凡是给offer的公司，面试时基本不问技术细节，那些问得又多又细的公司，后面基本就没下文了!](https://mp.weixin.qq.com/s/UNqmmcw1sp6pHTg9AhxgXQ)
++ [2026 年还值得学编程吗？真实情况可能颠覆你认知](https://mp.weixin.qq.com/s/5OYkBUJLlVSAPIvYMllgLw)
 
 # 个人成长
 

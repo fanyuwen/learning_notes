@@ -3187,6 +3187,7 @@
 + [别再纸上谈兵了！手把手教你在 Spring Boot 中落地 OpenClaw（Java 实战）](https://mp.weixin.qq.com/s/rbB8zUai1-gjVoqr3fUqHg)
 + [惊爆！Spring AI 引入 Agent Skills 标准，AI 智能体开发要变天啦！](https://mp.weixin.qq.com/s/BEAKIlQA4K_sxgsr0A7CtA)
 + [太强了！Spring AI + MCP：实现智能动态参数补全](https://mp.weixin.qq.com/s/ZM6LMwcj1UJZ83vybIdDZA)
++ [Spring AI 正悄悄改变 Java AI 生态，但大部分团队还没发现这件事…](https://mp.weixin.qq.com/s/AR3Vt3g3MfZcp35J6q5VSg)
 
 ### cloud
 
@@ -3567,6 +3568,8 @@
 + [为什么 SpringBoot 宁可挨骂也要干掉 spring.factories ？](https://mp.weixin.qq.com/s/ALUxXA8sCzugso2lDT1jVg)
 + [Java 被 Spring 拖慢了 30 倍？实测：JIT/AOT 全开后，竟比 Python 快 13 倍！](https://mp.weixin.qq.com/s/LNzEt5W0W9z9PtXiWrhsIg)
 + [Spring Boot 里的 @Resource 到底怎么用？90% 的人其实没搞懂](https://mp.weixin.qq.com/s/DeNof8CPFtFuKI2iu4-iaA)
++ [Spring Boot 最强隐藏功能：Bean 生命周期 10 步解析（90% 的人没搞懂）](https://mp.weixin.qq.com/s/IWVsN4Pna0Gd5hjhG_kwug)
++ [一用就上瘾！MappingJacksonValue 让你的 Spring Boot 接口起飞](https://mp.weixin.qq.com/s/zF5MFJsTlNUJW3orPLGwxg)
 
 #### 版本特性
 
@@ -4120,6 +4123,8 @@
 + [接口结构天天变？Spring Boot 动态接收请求体的终极解决方案来了！](https://mp.weixin.qq.com/s/M7UsBhS9LP-9yO_bDNTk1g)
 + [API 版本管理彻底变天！Spring Boot 4 用 3 行配置终结 400 行旧代码](https://mp.weixin.qq.com/s/WXTIs_6B_3XcARIHfAJYfg)
 + [JAVA：Spring Boot3 集成 Sa-Token 轻量级权限认证](https://mp.weixin.qq.com/s/Jl8GLV3GULD4YK4H_cLUdg)
++ [效率翻倍！Spring Boot + Jackson 解析复杂嵌套 JSON 的 4 种方法](https://mp.weixin.qq.com/s/Yg5YNcYJWfPnPT5l3y18JQ)
++ [安全升级！Spring Security 7 重磅特性：MFA 多重认证原生支持](https://mp.weixin.qq.com/s/Ob5e3KUEIk7mBC208J3dBQ)
 
 ##### 文件上传下载
 
@@ -4271,6 +4276,7 @@
 + [Spring Data JPA 隐藏的8个强大注解，优化性能，代码减半](https://mp.weixin.qq.com/s/9ka6VU9CAA3tBqu_eK56TA)
 + [Spring Boot 数据库版本管理双雄争霸:Spring Boot 下 Flyway vs Liquibase 终极对决，谁才是王者？](https://mp.weixin.qq.com/s/dSLNhDc7b0j7M43aciAb-w)
 + [JPA 很香，但 JDBC 才是性能王者：6 大场景实测快 15~500 倍！](https://mp.weixin.qq.com/s/4s_UcmQ62PAYkYMHS-J-yA)
++ [SpringBoot 4 最被低估的新特性：Spring Data AOT](https://mp.weixin.qq.com/s/e0uyzFY2-F122rpKvj3RgQ)
 
 ##### TRANSACTION
 
@@ -4381,6 +4387,7 @@
 + [警惕！Java并发编程这9大反模式，一踩即中"大坑"](https://mp.weixin.qq.com/s/EpFqOtOFQdm_qp-Dl1eU5g)
 + [SpringBoot + 虚拟线程，简直鸟枪换大炮～](https://mp.weixin.qq.com/s/0zd5adOeu_S2BkfhdZkUew)
 + [SpringBoot 怎么实现订单 30 分钟自动取消？](https://mp.weixin.qq.com/s/kYG9QLQM3eL0_kn5oSe8Xw)
++ [比 Quartz 轻 10 倍！这个 Spring Boot 任务调度器太强了](https://mp.weixin.qq.com/s/CqQje3OkA7yLy451q_577w)
 
 ##### Disruptor
 
@@ -4858,6 +4865,8 @@
 + [跨平台标准！Spring Boot + CloudEvents 统一规范化数据格式](https://mp.weixin.qq.com/s/ZQc59cWQZGPhE2KkVbsCSw)
 + [JAVA：Spring Boot 集成 iTextPDF 强大的 PDF 工具库](https://mp.weixin.qq.com/s/uosQGLRK6AUeOyFkg_uyRg)
 + [Spring+asyncTool：实现复杂任务的优雅编排与高效执行](https://mp.weixin.qq.com/s/PZCjGnPdr8qQ_5RwnYmQ9g)
++ [JAVA：Spring Boot 集成 XStream 实现对象与XML转换](https://mp.weixin.qq.com/s/ybt-ew5h9nvyb3BG3IfIQg)
++ [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/_8uU2RPlYu_nQxICkFp8IQ)
 
 ##### excel
 

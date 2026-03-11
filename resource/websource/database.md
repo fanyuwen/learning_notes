@@ -990,6 +990,7 @@
 + [面试官：Redis 如何高效安全的遍历所有 Key？](https://mp.weixin.qq.com/s/MQmq0eNjKo7PgBQc1_oFjQ)
 + [面试官：什么是 Redis 大 Key 问题，如何解决？](https://mp.weixin.qq.com/s/zc3gsMJ7D7XgfaFpT-wrwg)
 + [面试官：谈谈 Redis 的过期策略？](https://mp.weixin.qq.com/s/lqSizd2-tVcklHR6nz66HQ)
++ [Redis 平替，SpringBoot 集成 Dragonfly，性能暴涨](https://mp.weixin.qq.com/s/GLQKS1j6tg3gJvafmd_y6Q)
 
 #### 原理
 

@@ -61,6 +61,7 @@
 + [SOLID原则之OCP 开闭原则](https://mp.weixin.qq.com/s/D-m2p-dQuHJTSE0VSqXNZw)
 + [设计模式七大原则-迪米特法则](https://mp.weixin.qq.com/s/YUoKnQQNvIYsIzacaXlkgA)
 + [行为型设计模式：对象协作的舞蹈家（中）](https://mp.weixin.qq.com/s/xl6BLPHGUFL15ZwLRHWYcQ)
++ [面试官：设计模式的 7 大基本原则有哪些？](https://mp.weixin.qq.com/s/dRIoqZLeiIlaWmceDOjK3Q)
 
 ## 单例模式
 

@@ -53,6 +53,7 @@
 + [开源项目：handy-ollama 本地大模型快速上手指南](https://mp.weixin.qq.com/s/QyximIi-J8D-3bVpEDkglw)
 + [Claude Code 创始人亲授的 10 条核心玩法，太实用了](https://mp.weixin.qq.com/s/zd7XxjbB-ZXOtaBof71xXw)
 + [AI 编程实践：从 Claude Code 实践到团队协作的优化思考｜得物技术](https://my.oschina.net/u/5783135/blog/19205485)
++ [了解你的 AI 编码伙伴：Coding Agent 核心机制解析](https://my.oschina.net/u/4939618/blog/19204626)
 
 ## 资讯
 

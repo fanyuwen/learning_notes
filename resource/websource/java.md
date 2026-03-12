@@ -2171,6 +2171,7 @@
 + [Dubbo原理—10.RPC核心之Proxy代理](https://mp.weixin.qq.com/s/m73wBK9haj1PutJVkf01dA)
 + [Dubbo原理—13.集群之负载均衡和容错](https://mp.weixin.qq.com/s/A8UrWuw2TyBNkyhkXy5TNQ)
 + [【架构设计】从Dubbo源码中学习设计模式](https://mp.weixin.qq.com/s/8VjF_0mT4PXKuC8dlJGxBw)
++ [vivo 微服务架构实践之 Dubbo 性能优化](https://my.oschina.net/vivotech/blog/19203869)
 
 ## eureka
 

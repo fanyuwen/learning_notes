@@ -34,6 +34,7 @@
 + [javamelody](https://github.com/javamelody/javamelody)
 + [async-profiler](https://github.com/async-profiler/async-profiler)
 + [async-http-client](https://github.com/AsyncHttpClient/async-http-client)
++ java持久化任务调度[db-scheduler](https://github.com/kagkarlsson/db-scheduler)
 
 # SCALA
 

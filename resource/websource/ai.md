@@ -64,6 +64,7 @@
 + [“自由软件之父” RMS 抨击 AI、联网汽车和智能手机](https://www.oschina.net/news/399848)
 + [Redis 之父：编程已实现自动化](https://www.oschina.net/news/401578)
 + [目前市场上似乎只有三类真正可行的 AI 产品](https://my.oschina.net/IDP/blog/19210224)
++ [AI Agent 两大 “神辅助” 对决：MCP vs Skills 谁更能打？](https://my.oschina.net/SeaTunnel/blog/19210158)
 
 ## LangChain
 

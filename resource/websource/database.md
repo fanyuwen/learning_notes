@@ -1220,6 +1220,7 @@
 ## spark
 
 + [用户画像系列——Spark任务调优实践](https://mp.weixin.qq.com/s/4JJQhu8IBcGIx0_K-oZsGA)
++ [深入剖析 Spark UI 界面：参数与界面详解 | 得物技术](https://my.oschina.net/u/5783135/blog/19208422)
 
 ## Iceberg
 

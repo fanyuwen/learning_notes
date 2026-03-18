@@ -52,6 +52,8 @@
 + [得物社区搜推公式融合调参框架 - 加乘树 3.0 实战](https://my.oschina.net/u/5783135/blog/19208948)
 + [开源项目：handy-ollama 本地大模型快速上手指南](https://mp.weixin.qq.com/s/QyximIi-J8D-3bVpEDkglw)
 + [Claude Code 创始人亲授的 10 条核心玩法，太实用了](https://mp.weixin.qq.com/s/zd7XxjbB-ZXOtaBof71xXw)
++ [AI 编程实践：从 Claude Code 实践到团队协作的优化思考｜得物技术](https://my.oschina.net/u/5783135/blog/19205485)
++ [了解你的 AI 编码伙伴：Coding Agent 核心机制解析](https://my.oschina.net/u/4939618/blog/19204626)
 + [Prompt、Agent、Function Call、Skill、MCP，傻傻分不清楚？](https://mp.weixin.qq.com/s/XMAirmXzA6iGbFha4_NR-A)
 
 ## 资讯
@@ -62,6 +64,8 @@
 + [Node.js 之父放话：人类写代码的时代已经结束](https://www.oschina.net/news/398168)
 + [“自由软件之父” RMS 抨击 AI、联网汽车和智能手机](https://www.oschina.net/news/399848)
 + [Redis 之父：编程已实现自动化](https://www.oschina.net/news/401578)
++ [目前市场上似乎只有三类真正可行的 AI 产品](https://my.oschina.net/IDP/blog/19210224)
++ [AI Agent 两大 “神辅助” 对决：MCP vs Skills 谁更能打？](https://my.oschina.net/SeaTunnel/blog/19210158)
 
 ## LangChain
 

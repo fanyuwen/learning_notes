@@ -656,6 +656,8 @@
 + [TCP/IP协议精解：IP协议——互联网世界的邮政编码系统](https://mp.weixin.qq.com/s/DgdvC3jGbMRPL0BMJtPlWA)
 + [TCP 长连接 vs 短连接的适用场景](https://mp.weixin.qq.com/s/tk9m4a5KjG51EPM8OSagEg)
 + [TCP的粘包与裂包](https://mp.weixin.qq.com/s/SH7WTE3z7iAeXfAOBqd9mA)
++ [面试官：什么是 TCP 三次握手、四次挥手？](https://mp.weixin.qq.com/s/VzmdhAYRjwEKwfSUqetb9Q)
++ [面试官：TCP 是怎么保证可靠传输的？](https://mp.weixin.qq.com/s/QFb0smxlL_Z1dH3YP51AKQ)
 
 ### UDP
 
@@ -664,6 +666,7 @@
 + [TCP和UDP协议介绍及Python实现](https://mp.weixin.qq.com/s/tqhtKc9mv8C7-4_BjnzCVQ)
 + [字节一面：TCP 和 UDP 可以使用同一个端口吗？](https://mp.weixin.qq.com/s/xSqHlYSbdMBTzIcHX4QleA)
 + [以太网协议介绍——UDP](https://mp.weixin.qq.com/s/FAq9bSU8jGrakpie-1obrQ)
++ [面试官：TCP 和 UDP 的区别是什么？](https://mp.weixin.qq.com/s/jGg6Ueg1Eng7JJAJuFVXrg)
 
 ### NGINX
 

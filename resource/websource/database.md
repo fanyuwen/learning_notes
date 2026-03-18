@@ -164,6 +164,7 @@
 + [面试官问：50亿级订单表，如何毫秒级查询？](https://mp.weixin.qq.com/s/AO_h2oGsd6UJnDmC0T_nLQ)
 + [面试官：加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/ooMiLgNw0HuC0WMJpwPc2w)
 + [高并发下是先写数据库，还是先写缓存？](https://mp.weixin.qq.com/s/9nO3ChDlfMDLyZsFOva5IA)
++ [今天被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/WLMfWVDuKL0bAE5W8X32rA)
 
 ### 读写分离&分库分表
 
@@ -706,6 +707,7 @@
 + [MySQL模糊查询再也用不着like+%了！](https://mp.weixin.qq.com/s/pWzkSXRKIzYr32YFhmzqIw)
 + [面试官：唯一索引和主键索引的区别？](https://mp.weixin.qq.com/s/kSafBS_ybirUsVTfCWLePg)
 + [面试官：设计索引时应遵循哪些原则？](https://mp.weixin.qq.com/s/FZ4ev7VPtoXcyDo2w3Af-A)
++ [鹅厂面试官：“SELECT * 一定导致索引失效？” 我回：“不一定”，他笑：“那公司为什么还要禁用？”](https://mp.weixin.qq.com/s/e63FGwwIJoiADzvOCwiN2w)
 
 ### PostgreSQL
 
@@ -735,6 +737,8 @@
 + [PostgreSQL有这么多优势，为什么还要使用MySQL？](https://mp.weixin.qq.com/s/fP4vTWYAxBQ9mrj8DREFsQ)
 + [有了开源的 MySQL，为什么还要选择 PostgreSQL？](https://mp.weixin.qq.com/s/ouhe0yPoq3pDD16BXcz_Hw)
 + [OpenAI 用 PostgreSQL 扛起 8 亿用户级别流量](https://www.oschina.net/news/399593/openai-scaling-postgresql)
++ [PostgreSQL这么多优势，为什么还要使用MySQL？](https://mp.weixin.qq.com/s/rEs_cED-De9Pz2EhucPqnA)
++ [99% 开发者没打开过的 PostgreSQL 黑盒：8 个救过生产的硬核技巧](https://mp.weixin.qq.com/s/iM83XSp75vLId3TmjaEliQ)
 
 ### SQLSERVER
 

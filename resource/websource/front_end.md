@@ -419,6 +419,9 @@
 + [前端平台大仓应用稳定性治理之路｜得物技术](https://my.oschina.net/u/5783135/blog/19163046)
 + [大文件预览选择Blob URL的原因](https://mp.weixin.qq.com/s/c6zc89IDjxrGYHAAzt4O8w)
 + [如何取消无用的HTTP请求](https://mp.weixin.qq.com/s/z2DUGJQuaMtl1cX7D4Kj1Q)
++ [用了组合式 (Composition) API 后代码变得更乱了，怎么办？](https://mp.weixin.qq.com/s/oAbzqqLnU45154F4RKffNA)
++ [前端中的 File 和 Blob两个对象到底有什么不同](https://mp.weixin.qq.com/s/v2_h96T9cBcE8p0haOkkcg)
++ [CSS 函数 calc() 会引起重排重绘吗](https://mp.weixin.qq.com/s/zBxgRqLH6R7ycD4WprKo_Q)
 
 # 杂谈
 
@@ -450,3 +453,4 @@
 + [3分钟学会，自己写一个编译器](https://mp.weixin.qq.com/s/AQTy0UFoA0ovvNLCHbVBbg)
 + [厌倦了追逐 JavaScript 框架？这就是我停止的原因。](https://mp.weixin.qq.com/s/vFAORjW4ToPK4HdZd_d-oQ)
 + [2026 了，盘点下那些“死掉”的技术栈 ...](https://mp.weixin.qq.com/s/vL7ZuYaMD7SIYX8zK0YDvA)
++ [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/XkID888WEW5cmL8ChRukJQ)

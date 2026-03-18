@@ -314,6 +314,8 @@
 + [Java25 是真的强啊：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/gOtksuftN8yHxw2ZpM9l7w)
 + [Java25 是真的强啊：更简洁、更高效、更现代！](https://mp.weixin.qq.com/s/9nDkWxQRN_levPn7n9amfg)
 + [并发时代的王炸模型！为什么 Record 天生适合高并发系统？](https://mp.weixin.qq.com/s/gnyS1LpG1hqI6F-DCCVo7A)
++ [JDK17 前后写法对比：差点没认出是 Java！](https://mp.weixin.qq.com/s/1bGrfyZmqZKL8_w1Rs2rCw)
++ [炸裂！Spring Boot 4 + Project Leyden，Java 性能竟悄悄追平 Go？2026 真相曝光](https://mp.weixin.qq.com/s/uvddzWOyWuEBTPcVQvvKTg)
 
 ## 高级用法
 
@@ -757,6 +759,7 @@
 + [面试官：while(true) 和 for(;;) 哪个性能更好？](https://mp.weixin.qq.com/s/632hfVAqIJY5exZHil7I1A)
 + [面试官：BigDecimal 和 Long 哪个表示金额更合适，怎么选择？](https://mp.weixin.qq.com/s/MRPWloEGVDUwa0JEK9U4og)
 + [面试官：为什么不能用浮点数表示金额？](https://mp.weixin.qq.com/s/MSAsJtV5eh0gOvG7Z2xMQA)
++ [别再滥用 Optional 和 Stream 了！你写的“优雅 Java”，正在悄悄拖垮 JVM 性能](https://mp.weixin.qq.com/s/Cg51N1cUxEUGTru5BHzZcw)
 
 ### 序列化
 
@@ -983,6 +986,7 @@
 + [技术面：Java并发（上下文切换、线程安全、并发与并行、守护线程、虚拟线程）](https://mp.weixin.qq.com/s/3ScqleFqCjzqFfyR1BSNNA)
 + [Java多线程高效通信：掌握这八种方法就够了](https://mp.weixin.qq.com/s/BqDIhGylk5O4dZb34ibxEg)
 + [多线程的这 12 种用途，99% 的人不知道！](https://my.oschina.net/u/4163222/blog/19204905)
++ [告别线程池瓶颈！Java Virtual Threads 如何让单机轻松处理 10 万请求？](https://mp.weixin.qq.com/s/J57c5oGZK3AK2PejHAUcmQ)
 
 #### CAS
 
@@ -2802,6 +2806,7 @@
 + [注意！@ExceptionHandler异常处理注解有新功能了](https://mp.weixin.qq.com/s/UKfNez4xe1lLeGoCqWbOdA)
 + [重磅来袭！Spring 7.0引入Controller接口版本控制，期待已久](https://mp.weixin.qq.com/s/EWuoLu0e0rvJlPssBuAxFw)
 + [Spring 7.0 正式发布啦！强大新特性强势来袭](https://mp.weixin.qq.com/s/lruPECqsFR4wk6jkRZVoTA)
++ [Spring 7.0.4 杀疯了，40 个新特性、15 个 Bug 修复、1 个死锁终结！](https://mp.weixin.qq.com/s/wtpx7ZxGJ_sh49OGGKjY9g)
 
 ### web
 
@@ -2938,6 +2943,7 @@
 + [Spring Security自定义AuthenticationManager实现手机号/密码双认证](https://mp.weixin.qq.com/s/6PdHM2ATrC1F-lRcGVM9wg)
 + [Spring Security加密实战指南](https://mp.weixin.qq.com/s/vzoUdA60Nm64AEmwlKiL5w)
 + [Spring Security 实践之认证鉴权](https://mp.weixin.qq.com/s/sNX4SO3wIOSZAUB-i85G0Q)
++ [别再只会写 @PreAuthorize！Spring Security 常用注解全解析，附 Spring Boot 实战案例](https://mp.weixin.qq.com/s/jO_JaGgBXo_7W39SLhKzKw)
 
 ### data
 
@@ -3189,6 +3195,7 @@
 + [惊爆！Spring AI 引入 Agent Skills 标准，AI 智能体开发要变天啦！](https://mp.weixin.qq.com/s/BEAKIlQA4K_sxgsr0A7CtA)
 + [太强了！Spring AI + MCP：实现智能动态参数补全](https://mp.weixin.qq.com/s/ZM6LMwcj1UJZ83vybIdDZA)
 + [Spring AI 正悄悄改变 Java AI 生态，但大部分团队还没发现这件事…](https://mp.weixin.qq.com/s/AR3Vt3g3MfZcp35J6q5VSg)
++ [JAVA：Spring Boot3 集成 Spring AI 实现智能聊天](https://mp.weixin.qq.com/s/Hj0bEad79LCfuEX1XmC3hw)
 
 ### cloud
 
@@ -3362,6 +3369,7 @@
 + [Spring Boot微服务中的十二要素方法论](https://mp.weixin.qq.com/s/ZJ2KFXWIoUf71bmbeJYj8Q)
 + [想看线上服务的debug级别的日志？spring-boot自带组件actuator帮你实现](https://mp.weixin.qq.com/s/QvKEGjO-OGdb6w0OUvSRvw)
 + [别再用错！Spring Boot 加载资源的3种核心万能方法](https://mp.weixin.qq.com/s/ro0Fep_ixCTPsPABjC0tkw)
++ [还在满屏 `new` 对象？Spring Boot 中 Builder 模式的优雅写法，一次讲透！](https://mp.weixin.qq.com/s/gMQD09d9XvjHbXEJPmzOCw)
 
 ##### 高阶
 
@@ -3572,6 +3580,7 @@
 + [Spring Boot 里的 @Resource 到底怎么用？90% 的人其实没搞懂](https://mp.weixin.qq.com/s/DeNof8CPFtFuKI2iu4-iaA)
 + [Spring Boot 最强隐藏功能：Bean 生命周期 10 步解析（90% 的人没搞懂）](https://mp.weixin.qq.com/s/IWVsN4Pna0Gd5hjhG_kwug)
 + [一用就上瘾！MappingJacksonValue 让你的 Spring Boot 接口起飞](https://mp.weixin.qq.com/s/zF5MFJsTlNUJW3orPLGwxg)
++ [隐藏的性能杀手：SpringBoot 的这个默认配置一定要关掉！](https://mp.weixin.qq.com/s/wLjAplHfgYnXFDp7FXJYLQ)
 
 #### 版本特性
 
@@ -4127,6 +4136,9 @@
 + [JAVA：Spring Boot3 集成 Sa-Token 轻量级权限认证](https://mp.weixin.qq.com/s/Jl8GLV3GULD4YK4H_cLUdg)
 + [效率翻倍！Spring Boot + Jackson 解析复杂嵌套 JSON 的 4 种方法](https://mp.weixin.qq.com/s/Yg5YNcYJWfPnPT5l3y18JQ)
 + [安全升级！Spring Security 7 重磅特性：MFA 多重认证原生支持](https://mp.weixin.qq.com/s/Ob5e3KUEIk7mBC208J3dBQ)
++ [史诗级重构！Spring Boot 4 升级 Jackson 3：JsonMapper+JSON 视图等核心变更](https://mp.weixin.qq.com/s/ycjjd77Y7NjmOAUrpc5npA)
++ [告别手写 POJO！一键将 JSON 转为 Java 类](https://mp.weixin.qq.com/s/bIS-EdFiaqS2w2-nqWz3lQ)
++ [告别Filter！Spring Boot 轻松实现 Request Body 重复读取](https://mp.weixin.qq.com/s/h4gI2ie8KuyHJAsrKsqpyQ)
 
 ##### 文件上传下载
 
@@ -4280,6 +4292,7 @@
 + [JPA 很香，但 JDBC 才是性能王者：6 大场景实测快 15~500 倍！](https://mp.weixin.qq.com/s/4s_UcmQ62PAYkYMHS-J-yA)
 + [SpringBoot 4 最被低估的新特性：Spring Data AOT](https://mp.weixin.qq.com/s/e0uyzFY2-F122rpKvj3RgQ)
 + [从2.5小时到4分25秒：我用SpringBatch让百万数据导入“飞“起来了！](https://mp.weixin.qq.com/s/yShnIcbVHtqzY_FYI_aQtQ)
++ [数据一上百万就卡死？Spring Boot 处理海量数据的 5 个高效方案，性能直接翻倍！](https://mp.weixin.qq.com/s/u9HUJ5okGvKxngx3j25Fhg)
 
 ##### TRANSACTION
 
@@ -4870,6 +4883,10 @@
 + [Spring+asyncTool：实现复杂任务的优雅编排与高效执行](https://mp.weixin.qq.com/s/PZCjGnPdr8qQ_5RwnYmQ9g)
 + [JAVA：Spring Boot 集成 XStream 实现对象与XML转换](https://mp.weixin.qq.com/s/ybt-ew5h9nvyb3BG3IfIQg)
 + [公司大佬对 Excel 导入、导出的封装，那叫一个妙啊！](https://mp.weixin.qq.com/s/_8uU2RPlYu_nQxICkFp8IQ)
++ [JAVA：Spring Boot 集成 Lua 引擎脚本](https://mp.weixin.qq.com/s/2Q58s39bHBnc8-NfwdS9fg)
++ [开源！Spring Boot + Birt 开发各种复杂报表，支持HTML、PDF等格式](https://mp.weixin.qq.com/s/7Tl7B0e5DONoBH3atPHTxw)
++ [JAVA：Spring Boot 集成 Content Negotiation 实现多样式响应格式](https://mp.weixin.qq.com/s/1C-zwvrBCHIDySeHe1Cj-Q)
++ [IDEA + SpringBoot 的三种热加载方案，第三种真香！](https://mp.weixin.qq.com/s/ZFdqmcexf3B2ui_32jxSUg)
 
 ##### excel
 
@@ -4909,6 +4926,7 @@
 + [Spring Boot 十大开源 "王炸" Starter，功能逆天到离谱！](https://mp.weixin.qq.com/s/5ZXpY70dxl2WLtCqQbmxTg)
 + [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)
 + [拒绝写重复代码，试试这套开源的 SpringBoot 组件，效率翻倍~](https://mp.weixin.qq.com/s/J_4rdNuKEv1c801PjYviWQ)
++ [从20s到1ms！Spring Boot + 动态规划，优化商品组合](https://mp.weixin.qq.com/s/sMEWU3AQnAzhNqexm-eBhA)
 
 #### 原理&源码
 
@@ -4945,6 +4963,7 @@
 + [面试官：介绍一下 Tomcat 的 IO 模型？](https://mp.weixin.qq.com/s/-N-9i4jHmcVoi8Bjvq5ZCQ)
 + [面试官：过滤器和拦截器的区别是什么？](https://mp.weixin.qq.com/s/mlZffmfV130PZK7Ynj0FPA)
 + [面试官：为什么 Tomcat 默认最大线程数是 200，而不是 N+1？](https://mp.weixin.qq.com/s/Qtiytcnk6qUmM6b8VyJrxg)
++ [面试官：Cookie、Session、Token 的区别是什么？](https://mp.weixin.qq.com/s/GKoeNbNFT9CYZmLoMPIGhA)
 
 ## xxl-job
 

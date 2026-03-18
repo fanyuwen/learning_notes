@@ -3508,6 +3508,7 @@
 + [不压测，别上线！我是这样把 Spring Boot 扛到生产级的](https://mp.weixin.qq.com/s/WL99ljAN3ErvYVO6tyQ9pg)
 + [别再写基础数据库配置了！这 5 个 Spring Boot 高阶玩法，让你代码评审直接封神！](https://mp.weixin.qq.com/s/-s9Zw520Ow02jJnM4OhQ7w)
 + [Spring Boot 接口多实现注入的5种方法，最后一这种非常巧妙](https://mp.weixin.qq.com/s/s3xbeAmO32tOUdKOB5fWMw)
++ [为什么你的 Spring Boot 项目越来越乱？这 10 个反模式几乎每个团队都在犯](https://mp.weixin.qq.com/s/HMMJp5KVyh1rUOXpEvCRgQ)
 
 ##### 原理
 
@@ -4277,6 +4278,7 @@
 + [Spring Boot 数据库版本管理双雄争霸:Spring Boot 下 Flyway vs Liquibase 终极对决，谁才是王者？](https://mp.weixin.qq.com/s/dSLNhDc7b0j7M43aciAb-w)
 + [JPA 很香，但 JDBC 才是性能王者：6 大场景实测快 15~500 倍！](https://mp.weixin.qq.com/s/4s_UcmQ62PAYkYMHS-J-yA)
 + [SpringBoot 4 最被低估的新特性：Spring Data AOT](https://mp.weixin.qq.com/s/e0uyzFY2-F122rpKvj3RgQ)
++ [从2.5小时到4分25秒：我用SpringBatch让百万数据导入“飞“起来了！](https://mp.weixin.qq.com/s/yShnIcbVHtqzY_FYI_aQtQ)
 
 ##### TRANSACTION
 
@@ -5175,6 +5177,7 @@
 + [Android KV存储-DataStore](https://mp.weixin.qq.com/s/pdVakdabfG0L5XiGwWDPgw)
 + [微信MMKV团队：SharedPreferences替代方案的6个核心指标](https://mp.weixin.qq.com/s/0XFVZQPJdH-JXPIf00wD_g)
 + [NDK fork拉活-底层C守护进程拉起App进程](https://mp.weixin.qq.com/s/c9rNvG48rQ_YXZgBkxyXzg)
++ [告别 Modifier 地狱，Compose 样式系统要变天了](https://mp.weixin.qq.com/s/ZAnPiNNaAe11CP89ol2kdg)
 
 # 相关文章
 

@@ -70,6 +70,7 @@
 + [使用 Kotlin 构建 AI 智能体 – 第 2 部分：深入探讨工具｜官方博客](https://mp.weixin.qq.com/s/2ED3Z9dQg6BVEuGSVyHdEA)
 + [使用 Kotlin 构建 AI 智能体 – 第 3 部分：密切观察｜官方博客](https://mp.weixin.qq.com/s/AttETTbeFh1tLlYdnZYCUA)
 + [在 Kotlin 中构建 AI 智能体 – 第 4 部分：委托和子智能体｜官方博客](https://mp.weixin.qq.com/s/sQqkV8kvOOcUPtbwrydv0g)
++ [使用 Kotlin 构建 AI 智能体 – 第 5 部分：让智能体学会忘记](https://mp.weixin.qq.com/s/Rz8x0R6IMtiJ0i3InTFdXg)
 
 ## 技术月报
 

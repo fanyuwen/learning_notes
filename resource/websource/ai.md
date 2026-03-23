@@ -56,6 +56,7 @@
 + [了解你的 AI 编码伙伴：Coding Agent 核心机制解析](https://my.oschina.net/u/4939618/blog/19204626)
 + [Prompt、Agent、Function Call、Skill、MCP，傻傻分不清楚？](https://mp.weixin.qq.com/s/XMAirmXzA6iGbFha4_NR-A)
 + [OpenClaw 架构详解・第一部分：控制平面、会话管理与事件循环](https://my.oschina.net/IDP/blog/19228643)
++ [从你的 AI agent 开始使用 Elastic Security](https://my.oschina.net/u/3343882/blog/19305729)
 
 ## 资讯
 

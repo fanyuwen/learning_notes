@@ -85,6 +85,7 @@
 + [Cursor 开发指南](https://my.oschina.net/u/3768341/blog/16929248)
 + [Star 23.9k 开源 AI 多Agent舆情分析助手 BettaFish](https://mp.weixin.qq.com/s/iC0qmdiO1cSepeAiaAcnEw)
 + [Gemini 3 Deep Think 84.6% 砸穿 ARC-AGI-2：我们真的跨过“智能门槛”了吗？](https://mp.weixin.qq.com/s/mOVkUm8zE_T8V7EAwacoUA)
++ [从 IDE 到 Terminal：适合后端宝宝体质的 Claude Code 工作流｜得物技术](https://my.oschina.net/u/5783135/blog/19216912)
 
 # 计算机视觉
 

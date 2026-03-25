@@ -70,6 +70,7 @@
 + [目前市场上似乎只有三类真正可行的 AI 产品](https://my.oschina.net/IDP/blog/19210224)
 + [AI Agent 两大 “神辅助” 对决：MCP vs Skills 谁更能打？](https://my.oschina.net/SeaTunnel/blog/19210158)
 + [Codong —— 为 AI 而非人类开发者设计的编程语言。](https://my.oschina.net/u/9752613/blog/19365789)
++ [ChatGPT 代笔分手信：年轻人正在 “外包” 他们的情感表达](https://www.oschina.net/news/413792)
 
 ## LangChain
 

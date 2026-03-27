@@ -72,6 +72,7 @@
 + [Codong —— 为 AI 而非人类开发者设计的编程语言。](https://my.oschina.net/u/9752613/blog/19365789)
 + [吊打人类程序员：AI 原生编程语言来了，数据全面碾压 Go、Python、JS](https://www.oschina.net/news/414067)
 + [ChatGPT 代笔分手信：年轻人正在 “外包” 他们的情感表达](https://www.oschina.net/news/413792)
++ [硬核解析 TurboQuant 底层：极坐标变换与 3-bit 缓存压缩](https://my.oschina.net/u/9487999/blog/19388660)
 
 ## LangChain
 

@@ -165,6 +165,7 @@
 + [面试官：加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/ooMiLgNw0HuC0WMJpwPc2w)
 + [高并发下是先写数据库，还是先写缓存？](https://mp.weixin.qq.com/s/9nO3ChDlfMDLyZsFOva5IA)
 + [今天被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/WLMfWVDuKL0bAE5W8X32rA)
++ [营销自动化数据驱动 - 多源数据 OLAP 架构演进](https://my.oschina.net/vivotech/blog/19378831)
 
 ### 读写分离&分库分表
 

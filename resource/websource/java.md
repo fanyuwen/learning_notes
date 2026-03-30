@@ -5198,6 +5198,7 @@
 + [微信MMKV团队：SharedPreferences替代方案的6个核心指标](https://mp.weixin.qq.com/s/0XFVZQPJdH-JXPIf00wD_g)
 + [NDK fork拉活-底层C守护进程拉起App进程](https://mp.weixin.qq.com/s/c9rNvG48rQ_YXZgBkxyXzg)
 + [告别 Modifier 地狱，Compose 样式系统要变天了](https://mp.weixin.qq.com/s/ZAnPiNNaAe11CP89ol2kdg)
++ [RUM 实战：用数据说话的 Android 网络性能优化](https://my.oschina.net/u/3874284/blog/19372293)
 
 # 相关文章
 

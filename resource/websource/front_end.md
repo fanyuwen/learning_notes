@@ -352,6 +352,7 @@
 
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
 + [Vite 使用指南](https://mp.weixin.qq.com/s/55Hukaap4l3I2tvYE_wxDA)
++ [vite8性能提升 10-30 倍](https://mp.weixin.qq.com/s/i4UJ0iVhMJUGrb-QKl0ZiA)
 
 ## bun
 

@@ -58,6 +58,9 @@
 + [OpenClaw 架构详解・第一部分：控制平面、会话管理与事件循环](https://my.oschina.net/IDP/blog/19228643)
 + [OpenClaw 架构详解・第二部分：并发、隔离以及确保智能体正常运行的不变量（Invariants）](https://my.oschina.net/IDP/blog/19305196)
 + [从你的 AI agent 开始使用 Elastic Security](https://my.oschina.net/u/3343882/blog/19305729)
++ [蚂蚁面试官问："你的 RAG 系统部署给银行，普通员工能搜到领导的薪资文件？不同分行的数据怎么隔离？向量数据库有权限控制吗？"](https://mp.weixin.qq.com/s/M6BiWlGmfijlU9yUQXmRoA)
++ [阿里面试官冷笑："5000 份文档扔进去就算建好知识库了？难怪你的 RAG 答非所问。" 我无言以对...](https://mp.weixin.qq.com/s/4nUo_-y0Kd23wKlyry60SQ)
++ [从登Nature到Science：Transformer如何成为基础科学的“万能钥匙”？](https://mp.weixin.qq.com/s/FVf-WbSVRNdMZ84xwHmFMw)
 
 ## 资讯
 
@@ -74,6 +77,7 @@
 + [ChatGPT 代笔分手信：年轻人正在 “外包” 他们的情感表达](https://www.oschina.net/news/413792)
 + [“AI 教父” 辛顿炮轰科技业：短期利润驱动下的 AI 研发正忽视人类未来](https://www.oschina.net/news/413725)
 + [硬核解析 TurboQuant 底层：极坐标变换与 3-bit 缓存压缩](https://my.oschina.net/u/9487999/blog/19388660)
++ [奥特曼宣判Transformer死刑，Mamba‑3正在接管下一代AI架构](https://mp.weixin.qq.com/s/xGhc1US97SHpl6wdaqW6pg)
 
 ## LangChain
 
@@ -95,6 +99,8 @@
 # 计算机视觉
 
 + [3D成像： 工业环境中的3D机器视觉](https://mp.weixin.qq.com/s/R_BBemcLdk3u-KuTHUb0QQ)
++ [工业相机图像采集：网线松动后如何自动恢复？](https://mp.weixin.qq.com/s/9MEeXa8VgY3scHZCRq122A)
++ [工业相机异常处理实战：断连重连、丢帧检测、超时恢复状态机](https://mp.weixin.qq.com/s/D6bM0ZoQr6HqPI5Y2ucQ2Q)
 
 ## openCV
 

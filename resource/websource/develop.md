@@ -100,6 +100,7 @@
 + [架构必知：微服务架构（附架构图）](https://mp.weixin.qq.com/s/7zvocjMNVB2qx2kn2mrlCw)
 + [高级进阶：复杂业务系统的通用架构设计](https://mp.weixin.qq.com/s/1Her35tEmwTvmM8p6TCgvg)
 + [系统设计30个核心技能，每一个开发者都必须掌握](https://mp.weixin.qq.com/s/kUzs9b9Vcl-b38usJQ9CkA)
++ [一次“优雅重构”，把 CPU 从 35% 拉到 92%：我们终于看清了干净架构的代价](https://mp.weixin.qq.com/s/5sHRjFrryMedeuIrbd_tJA)
 
 ### DDD
 
@@ -748,6 +749,7 @@
 + [大厂面试题：深拷贝是什么？底层实现机制？](https://mp.weixin.qq.com/s/LzvfKJrWgbYRDcYrYIjSAA)
 + [拒绝查询超时：一次真实高并发场景下的 SLS 物化视图调优实战](https://my.oschina.net/u/3874284/blog/19161174)
 + [如何设计一个扛住千万级流量的系统？](https://mp.weixin.qq.com/s/UncXu4SWmQMg5Q1PKJhFAQ)
++ [别再用 Cron 硬撑了！从单机定时到分布式调度，如何把任务吞吐干到每秒上千？](https://mp.weixin.qq.com/s/fe9j_Fc8SVgkqU3wVEzUtA)
 
 # 测试相关
 

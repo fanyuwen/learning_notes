@@ -489,6 +489,7 @@
 + [很强！MySQL 窗口函数、CTE 联手查询优化，解锁数据高效处理](https://mp.weixin.qq.com/s/QWNrT7-2IKvSDu376gi_2g)
 + [面试官：MySQL 自增主键用完了怎么办?](https://mp.weixin.qq.com/s/VJTQ6tIvIcyUohStivES4Q)
 + [面试官：MySQL 分区表和分表有什么区别？分别适合什么场景？](https://mp.weixin.qq.com/s/PMJl2b4K85Tr9lZ1bFZSxA)
++ [MySQL时间类型对比：别再用错DATE、DATETIME和TIMESTAMP了！](https://mp.weixin.qq.com/s/V7lgBedDOVAO-1BDAMgYLw)
 
 #### 存储引擎
 
@@ -996,6 +997,7 @@
 + [面试官：什么是 Redis 大 Key 问题，如何解决？](https://mp.weixin.qq.com/s/zc3gsMJ7D7XgfaFpT-wrwg)
 + [面试官：谈谈 Redis 的过期策略？](https://mp.weixin.qq.com/s/lqSizd2-tVcklHR6nz66HQ)
 + [Redis 平替，SpringBoot 集成 Dragonfly，性能暴涨](https://mp.weixin.qq.com/s/GLQKS1j6tg3gJvafmd_y6Q)
++ [Redis 8.0~8.4 重要更新，新特性很强！](https://mp.weixin.qq.com/s/dq2STuURAlu86cgXhvM9WA)
 
 #### 原理
 

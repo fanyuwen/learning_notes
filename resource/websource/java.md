@@ -316,6 +316,7 @@
 + [并发时代的王炸模型！为什么 Record 天生适合高并发系统？](https://mp.weixin.qq.com/s/gnyS1LpG1hqI6F-DCCVo7A)
 + [JDK17 前后写法对比：差点没认出是 Java！](https://mp.weixin.qq.com/s/1bGrfyZmqZKL8_w1Rs2rCw)
 + [炸裂！Spring Boot 4 + Project Leyden，Java 性能竟悄悄追平 Go？2026 真相曝光](https://mp.weixin.qq.com/s/uvddzWOyWuEBTPcVQvvKTg)
++ [JDK 26 新特性：让大文件分片上传更简单高效](https://mp.weixin.qq.com/s/zCo1hR1ssiThGR98xhRQuQ)
 
 ## 高级用法
 
@@ -542,6 +543,7 @@
 + [曾经需要N行代码解决的，现在只需一行代码](https://mp.weixin.qq.com/s/nGM7XfSSshxm24tGpyT-EA)
 + [别再只把 Record 当 DTO 了！这些高阶玩法，90% 的 Java 程序员都没用过](https://mp.weixin.qq.com/s/IAwuwYgRrrOLE-ZCQ_rkXg)
 + [别再写"古董"代码了！Java新旧写法对比，看完效率直接翻倍](https://mp.weixin.qq.com/s/n8oobuf4efjNCsvKwrDn1g)
++ [函数式接口Function使用案例，绝对真实场景！](https://mp.weixin.qq.com/s/TQPAg8XcyrPdZLtaAkHVhQ)
 
 ## 代码质量
 
@@ -829,6 +831,7 @@
 + [性能调优！Java反射已死，MethodHandle高性能调用](https://mp.weixin.qq.com/s/mAjkfyfEg0XEzub8P2mXrA)
 + [太强了！Java一行代码搞定反射（开源库 Reflector ）](https://mp.weixin.qq.com/s/v1om2OwwBS4UP4ihRzmzoQ)
 + [面试官：什么是 Java 反射机制？为什么反射慢？](https://mp.weixin.qq.com/s/qjUQcFESSFls8jM-MIVVbA)
++ [Java反射性能优化：26倍吞吐量提升，从瓶颈到极致的实战手册](https://mp.weixin.qq.com/s/tOdmf_RhUPa24LJ6pAd8tA)
 
 ### 并发/多线程
 
@@ -2194,6 +2197,7 @@
 + [从二维表到高效映射： Guava Table](https://mp.weixin.qq.com/s/bjlf6zUwhC8uHomm5z4AdA)
 + [Guava的Sets工具类：集合操作竟然可以这么简单！](https://mp.weixin.qq.com/s/SKmoCGsYb_eskeGz3mmMvQ)
 + [Guava的Splitter：字符串分割竟然可以这么强大！](https://mp.weixin.qq.com/s/CG1XMys7xQI0Y43F_OSw8Q)
++ [别再重复造轮子了！Google Guava 这套 Java 工具库让你效率翻倍](https://mp.weixin.qq.com/s/mAyj_Rwoov_O7dcfAG4CQA)
 
 ## hystrix
 
@@ -2213,6 +2217,7 @@
 ## javafx
 
 + [杂项-javaFx 图形化初试（简单学学~）](https://mp.weixin.qq.com/s/DUs6082ny85pK5lj0SoVhQ)
++ [神马？你对JavaFX版本的SDKMAN不满意？不要慌，Native版本来了！](https://mp.weixin.qq.com/s/Sb8oMMbaPQZTK0byWZ-2GA)
 
 ## jdbc
 
@@ -2891,6 +2896,12 @@
 + [Spring Controller 写了 10 年？你可能一直在给“模式”打工](https://mp.weixin.qq.com/s/UZO3kK7qu8f3BNDRIC5Aqw)
 + [别再用 RestTemplate 了！Spring Boot 已全面转向 WebClient](https://mp.weixin.qq.com/s/3VQVE2aG8EptWSDITOUUoQ)
 
+#### reactor
+
++ [浅谈Reactive Programming响应式编程——Spring WebFlux](https://mp.weixin.qq.com/s/PLdafqo_qTNmhj7XslQbzg)
++ [Spring WebFlux之组合/延迟操作符](https://mp.weixin.qq.com/s/4rvDIqx-9EUFyIwn1R2hxg)
++ [Spring WebFlux之创建/终端操作符](https://mp.weixin.qq.com/s/VHf-ov9qbM_DLvHGjZbVxQ)
+
 #### doc
 
 + [API文档圣剑！SpringDoc OpenAPI 3.0取代Swagger实战指南](https://mp.weixin.qq.com/s/auS6DgsE26s7yaPaPzFuDA)
@@ -3033,6 +3044,7 @@
 + [Spring事务失效的场景](https://mp.weixin.qq.com/s/s4vewOWheqvLddOl-opGOw)
 + [彻底搞懂 Spring 事务的原理：从银行转账到源码解析](https://mp.weixin.qq.com/s/as7Cd6LxYId4w0urotQ-KA)
 + [Spring 事务原理全解析：从 AOP 到事务传播机制](https://mp.weixin.qq.com/s/WawGdM3SrDAJwlDR35TYXg)
++ [Service类加上一个final关键字，然后在这个类的方法上加上那个 @Transactional 的注解，想要开一个事务，请问这个事务能生效吗？](https://mp.weixin.qq.com/s/lnW10qGIvT-UHJP7pXqdUw)
 
 ### Log
 
@@ -3306,6 +3318,7 @@
 + [Spring Cloud Gateway，这一篇就够了](https://mp.weixin.qq.com/s/EAR7d8hUEpQ-4UGbZ0wZTQ)
 + [面试问你有Spring Cloud Gateway了，为什么还要Nginx？](https://mp.weixin.qq.com/s/yLQC3Kr6zIooH230m8oUwA)
 + [SpringCloud Gateway 30 个内置过滤器，少写 80% 重复代码](https://mp.weixin.qq.com/s/KXwjnpXeKccok8kuxSn9Dw)
++ [基于Spring Cloud Gateway实现服务灰度发布实践指南](https://mp.weixin.qq.com/s/6lCmIWtdqusSy6tr3iGDag)
 
 #### AI
 
@@ -3518,6 +3531,9 @@
 + [别再写基础数据库配置了！这 5 个 Spring Boot 高阶玩法，让你代码评审直接封神！](https://mp.weixin.qq.com/s/-s9Zw520Ow02jJnM4OhQ7w)
 + [Spring Boot 接口多实现注入的5种方法，最后一这种非常巧妙](https://mp.weixin.qq.com/s/s3xbeAmO32tOUdKOB5fWMw)
 + [为什么你的 Spring Boot 项目越来越乱？这 10 个反模式几乎每个团队都在犯](https://mp.weixin.qq.com/s/HMMJp5KVyh1rUOXpEvCRgQ)
++ [SpringBoot3 动态扩展实战：不重启服务，轻松插拔业务模块](https://mp.weixin.qq.com/s/rzJrf1tw9_fa5F9ax4TmwA)
++ [2026 年 Spring Boot 技术栈大洗牌：这 10 个插件，早用早受益](https://mp.weixin.qq.com/s/HdtvH0Wqo15k1y9ZV7FEXw)
++ [还在手写 DTO 映射？5 种 Spring Boot 高阶模式，让你的代码量直接减半！](https://mp.weixin.qq.com/s/JA5yQhblRBfRbdz_RemyLg)
 
 ##### 原理
 
@@ -3807,6 +3823,7 @@
 + [SpringBoot 3.0新特性：ProblemDetail让错误响应不再头疼](https://mp.weixin.qq.com/s/Wcccp6uJby-0Lf4TMglRTw)
 + [Spring Boot 4 全面拥抱 Jackson 3：那些你必须知道的变化](https://mp.weixin.qq.com/s/iYVYyO0vSNTRuQHslFi4aQ)
 + [Spring Boot 正式废弃JavaEE，改用了Jakarta EE？](https://mp.weixin.qq.com/s/XRl05FsFh7MvlCgfZf2pmA)
++ [Spring Boot 4.0.3虚拟线程全面落地源码实战：像智能电梯调度系统一样实现百万级并发调度与性能调优](https://mp.weixin.qq.com/s/uDbPa5ML6qQx-FPYqv86Mg)
 
 #### 分布式
 
@@ -4139,6 +4156,9 @@
 + [史诗级重构！Spring Boot 4 升级 Jackson 3：JsonMapper+JSON 视图等核心变更](https://mp.weixin.qq.com/s/ycjjd77Y7NjmOAUrpc5npA)
 + [告别手写 POJO！一键将 JSON 转为 Java 类](https://mp.weixin.qq.com/s/bIS-EdFiaqS2w2-nqWz3lQ)
 + [告别Filter！Spring Boot 轻松实现 Request Body 重复读取](https://mp.weixin.qq.com/s/h4gI2ie8KuyHJAsrKsqpyQ)
++ [SpringBoot 请求参数绑定：@RequestParam / @PathVariable / @RequestBody 详解](https://mp.weixin.qq.com/s/H_mrjUP_Qe-B_zwg2h_yFQ)
++ [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/neioVwBDV58YFlgSSnXUxA)
++ [深入理解 Spring 新一代 HTTP 客户端 RestClient](https://mp.weixin.qq.com/s/hoMPdiVJta4GIdvGUF-QIA)
 
 ##### 文件上传下载
 
@@ -4436,6 +4456,7 @@
 + [SpringBoot + ResponseBodyEmitter 实时异步流式推送，优雅！](https://mp.weixin.qq.com/s/-MJjfOfGMxX_0i-1cr7jWg)
 + [SpringBoot中3种应用事件处理机制](https://mp.weixin.qq.com/s/HpRNbU2ANxNeUErIlqDRtQ)
 + [告别紧耦合！用 @EventListener 打造灵活的 Spring Boot 应用](https://mp.weixin.qq.com/s/5G-IbT9ZbauKYcfy63ZyGQ)
++ [《Spring Boot里用事件解耦：@EventListener 与 @TransactionalEventListener 怎么选》](https://mp.weixin.qq.com/s/npdrCJjIde_wJdEZNp1bdA)
 
 #### CACHE
 
@@ -4927,6 +4948,7 @@
 + [SpringBoot自定义Starter开发：打造你的企业级组件库](https://mp.weixin.qq.com/s/SBFOriKw1ZlCkiT6bn1KiQ)
 + [拒绝写重复代码，试试这套开源的 SpringBoot 组件，效率翻倍~](https://mp.weixin.qq.com/s/J_4rdNuKEv1c801PjYviWQ)
 + [从20s到1ms！Spring Boot + 动态规划，优化商品组合](https://mp.weixin.qq.com/s/sMEWU3AQnAzhNqexm-eBhA)
++ [SpringBoot3实战：轻量编排复杂业务，打造可复用组件化流程](https://mp.weixin.qq.com/s/6VYzBT7Gf4RcLOD99CNrBw)
 
 #### 原理&源码
 
@@ -5199,11 +5221,16 @@
 + [NDK fork拉活-底层C守护进程拉起App进程](https://mp.weixin.qq.com/s/c9rNvG48rQ_YXZgBkxyXzg)
 + [告别 Modifier 地狱，Compose 样式系统要变天了](https://mp.weixin.qq.com/s/ZAnPiNNaAe11CP89ol2kdg)
 + [RUM 实战：用数据说话的 Android 网络性能优化](https://my.oschina.net/u/3874284/blog/19372293)
++ [Compose与MVVM架构的实践总结](https://mp.weixin.qq.com/s/CQlfrcxOAeYQcHjJBYllzQ)
++ [TikTok 借助 Jetpack Compose 实现 58% 代码缩减与性能显著提升](https://mp.weixin.qq.com/s/wVx31itw9sqzDdGHs02ttA)
++ [Jetpack Compose 中一次性事件的正确姿势：告别 Channel 与 SharedFlow](https://mp.weixin.qq.com/s/J5OCYr59Tcf3XX2guvZjOw)
++ [Jetpack Compose中的富文本输入](https://mp.weixin.qq.com/s/v27lzboooCELNCt8Cw8THg)
 
 # 相关文章
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 性能调优全攻略：步骤、工具、技巧一网打尽](https://mp.weixin.qq.com/s/-ffrJqL6uDHJab4waZXEQg)
++ [Java中的5大AI框架！](https://mp.weixin.qq.com/s/kGJi-n3tGfRhMi_VXMS0_g)
 + [为什么java被部分开发者认为是低端技术？](https://mp.weixin.qq.com/s/mu6EeqNKxf_2FIjyjiDFoA)
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [给Javaer看的大模型开发指南｜得物技术](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)

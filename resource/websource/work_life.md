@@ -134,6 +134,7 @@
 + [前腾讯员工：后悔离开大厂了，之前在大厂天天摸鱼，工作得心应手，现在在中厂自己不熟悉的业务，工作量是之前的两倍，还要每天被领导叼。](https://mp.weixin.qq.com/s/WvTIL7CGICM8p6gkbiGKCA)
 + [发现一个奇怪现象：凡是给offer的公司，面试时基本不问技术细节，那些问得又多又细的公司，后面基本就没下文了!](https://mp.weixin.qq.com/s/UNqmmcw1sp6pHTg9AhxgXQ)
 + [2026 年还值得学编程吗？真实情况可能颠覆你认知](https://mp.weixin.qq.com/s/5OYkBUJLlVSAPIvYMllgLw)
++ [程序员即将被分成三层！](https://mp.weixin.qq.com/s/VWdcU6MRMIADKBgYCRC_5w)
 
 # 个人成长
 
@@ -379,6 +380,8 @@
 + [一次IntelliJ IDEA插件开发的实战分享](https://mp.weixin.qq.com/s/W1x10YyT_01FTO27CMks7g)
 + [IDEA 源码阅读利器，你居然还不会？](https://mp.weixin.qq.com/s/mttMAx8TlM1GC1MC7JTIxw)
 + [IntelliJ IDEA 2025.3.2 已发布：这次真的在认真修 Bug](https://mp.weixin.qq.com/s/ZYxlnX88XiW783FLhapI5A)
++ [JetBrains 悄悄做了一件大事：把整个 IDE 的"大脑"喂给了 AI](https://mp.weixin.qq.com/s/kwAsW8OrBuirevGCtb_tXQ)
++ [JetBrains 出了个 Java AI 框架，和 Spring AI 不是一个赛道](https://mp.weixin.qq.com/s/OOkKoMyCDyPu-Q2QD83nTg)
 
 ## MAC_PRO相关
 
@@ -571,6 +574,10 @@
 + [《代码大全》还有必要读吗？](https://mp.weixin.qq.com/s/aSy0_Z1CsOzUeqLVxMxN8Q)
 + [推荐一些我读过的经典计算机书籍](https://mp.weixin.qq.com/s/cQs6PYWnaCxDa6YMexPsYA)
 + [一些深入浅出的（技术）书籍](https://mp.weixin.qq.com/s/l0xAAtYYF8PENdORItSgKQ)
++ [如果想深耕AI领域，推荐你10本经典书籍，赶紧收藏吧！](https://mp.weixin.qq.com/s/0mQ0IU7Kwh2Tyr0Ba_iNhw)
++ [2026年人工智能（AI）必读的10本书](https://mp.weixin.qq.com/s/f3H720eoBgTfeZJPqwAgWQ)
++ [计算机系统经典权威入门教材出版！](https://mp.weixin.qq.com/s/zWBnqj6UFUfQfzC1t4tbIA)
++ [这可能是我近两年读过最重要的一本 AI 书！](https://mp.weixin.qq.com/s/aGpAAQvT-m5u4Hage0p8vQ)
 
 ### 生活
 

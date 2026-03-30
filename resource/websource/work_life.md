@@ -135,6 +135,7 @@
 + [发现一个奇怪现象：凡是给offer的公司，面试时基本不问技术细节，那些问得又多又细的公司，后面基本就没下文了!](https://mp.weixin.qq.com/s/UNqmmcw1sp6pHTg9AhxgXQ)
 + [2026 年还值得学编程吗？真实情况可能颠覆你认知](https://mp.weixin.qq.com/s/5OYkBUJLlVSAPIvYMllgLw)
 + [程序员即将被分成三层！](https://mp.weixin.qq.com/s/VWdcU6MRMIADKBgYCRC_5w)
++ [线上出了Bug，全组都在找原因。最后发现是我改动公共类导致的。我正准备背锅，结果隔壁老兵一句话“个人低级失误”变成“流程体系缺失”](https://mp.weixin.qq.com/s/Rwnfle0GOSco8DjU-Lg0xQ)
 
 # 个人成长
 

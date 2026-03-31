@@ -57,6 +57,7 @@
 + [Go Context 取消后 goroutine 会去哪？一次面试问懵我的 goroutine 泄漏陷阱](https://mp.weixin.qq.com/s/4MdPjMxLmbsYkqB37jDRbg)
 + [Go 1.26 爆发式升级，却故意“放鸽子” JSON v2：背后真相太硬核](https://mp.weixin.qq.com/s/XDuSi7rvQSS2F3WSTCyiHA)
 + [我用 Go 写了 3 个月 AI Agent：比 Python 难，但值不值？](https://mp.weixin.qq.com/s/IEkNPHX94707--WTYV-tIQ)
++ [我用 Go 重写了一个 OpenClaw 框架：这就是 GoClaw](https://my.oschina.net/u/4939618/blog/19442058)
 
 # 库
 

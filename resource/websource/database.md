@@ -490,6 +490,7 @@
 + [面试官：MySQL 自增主键用完了怎么办?](https://mp.weixin.qq.com/s/VJTQ6tIvIcyUohStivES4Q)
 + [面试官：MySQL 分区表和分表有什么区别？分别适合什么场景？](https://mp.weixin.qq.com/s/PMJl2b4K85Tr9lZ1bFZSxA)
 + [MySQL时间类型对比：别再用错DATE、DATETIME和TIMESTAMP了！](https://mp.weixin.qq.com/s/V7lgBedDOVAO-1BDAMgYLw)
++ [腾讯二面：binlog、redolog 和 undolog 三大日志的区别？](https://mp.weixin.qq.com/s/iJfdlWk002SYGf3Mag1a0A)
 
 #### 存储引擎
 
@@ -584,6 +585,7 @@
 + [深入理解数据库乐观锁、悲观锁与 Redis 分布式锁：原理、场景与实战](https://mp.weixin.qq.com/s/HUMdglIK1sVgAaVfbQ_JDg)
 + [阿里面试：MySQL如何实现悲观锁？底层原理？](https://mp.weixin.qq.com/s/DLHgUbaiJTNqJaeJH_EuPA)
 + [MySQL中的锁](https://mp.weixin.qq.com/s/G14mKrybkGvzicTA5dhW0Q)
++ [面试官：MySQL 乐观锁与悲观锁怎么实现？（修订版）](https://mp.weixin.qq.com/s/5zrdsSsdOzJCtKAgmWtMGQ)
 
 #### 事务
 
@@ -710,6 +712,9 @@
 + [面试官：唯一索引和主键索引的区别？](https://mp.weixin.qq.com/s/kSafBS_ybirUsVTfCWLePg)
 + [面试官：设计索引时应遵循哪些原则？](https://mp.weixin.qq.com/s/FZ4ev7VPtoXcyDo2w3Af-A)
 + [鹅厂面试官：“SELECT * 一定导致索引失效？” 我回：“不一定”，他笑：“那公司为什么还要禁用？”](https://mp.weixin.qq.com/s/e63FGwwIJoiADzvOCwiN2w)
++ [携程二面：用了索引还是很慢，可能是什么原因？](https://mp.weixin.qq.com/s/r3KUvAnVYuDXkNa3mooK5A)
++ [面试官：什么是最左前缀匹配？为什么要遵守？（修订版）](https://mp.weixin.qq.com/s/O0AkDlyT5Ot1vChKvatuOA)
++ [京东二面：加索引时，会锁表吗?（修订版）](https://mp.weixin.qq.com/s/RKYRjWiBLrVn3v2d3d2n3A)
 
 ### PostgreSQL
 

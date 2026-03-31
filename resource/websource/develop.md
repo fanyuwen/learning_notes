@@ -750,6 +750,7 @@
 + [拒绝查询超时：一次真实高并发场景下的 SLS 物化视图调优实战](https://my.oschina.net/u/3874284/blog/19161174)
 + [如何设计一个扛住千万级流量的系统？](https://mp.weixin.qq.com/s/UncXu4SWmQMg5Q1PKJhFAQ)
 + [别再用 Cron 硬撑了！从单机定时到分布式调度，如何把任务吞吐干到每秒上千？](https://mp.weixin.qq.com/s/fe9j_Fc8SVgkqU3wVEzUtA)
++ [别再只会刷题：系统设计真正的进阶路径（从迷茫到掌控全局）](https://mp.weixin.qq.com/s/n4dOKeO86kICloO7K6mLCA)
 
 # 测试相关
 

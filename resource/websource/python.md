@@ -1141,6 +1141,7 @@
 + [PyInstaller打包避坑全攻略：新手一看就会，老手也能涨姿势](https://mp.weixin.qq.com/s/8qxtKKqxPocg5f9o41LCMg)
 + [Anaconda介绍](https://mp.weixin.qq.com/s/VH5k6ow6MR65ik2AZrKiqw)
 + [轻松搞定配置文件：Python 程序员的秘密武器 ConfigParser](https://mp.weixin.qq.com/s/afwCqRV5OgiZvg7krZVDnA)
++ [Python：YARA-Python 高效的匹配工具](https://mp.weixin.qq.com/s/D2UFcxITFFOtTouQoj5_MQ)
 
 ## 框架
 

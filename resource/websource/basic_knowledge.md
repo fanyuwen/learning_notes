@@ -555,6 +555,7 @@
 + [交换机工作原理](https://mp.weixin.qq.com/s/cRPXn6_hZ4cNE_4uScv5Zw)
 + [面试题-学习网络协议必备：七层模型与协议之间的映射关系](https://mp.weixin.qq.com/s/XS_BevhSV9HT1cyDIN5kuA)
 + [设计心得——网络包的处理](https://mp.weixin.qq.com/s/BKVSbxMlfJPy8Imku_f-TA)
++ [为什么网卡上写的是 TX / RX，而不是 SEND / RECEIVE？](https://mp.weixin.qq.com/s/RuRx-jNeMP78IfBu8Vxixg)
 
 ### DNS
 

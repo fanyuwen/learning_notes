@@ -78,6 +78,11 @@
 + [“AI 教父” 辛顿炮轰科技业：短期利润驱动下的 AI 研发正忽视人类未来](https://www.oschina.net/news/413725)
 + [硬核解析 TurboQuant 底层：极坐标变换与 3-bit 缓存压缩](https://my.oschina.net/u/9487999/blog/19388660)
 + [奥特曼宣判Transformer死刑，Mamba‑3正在接管下一代AI架构](https://mp.weixin.qq.com/s/xGhc1US97SHpl6wdaqW6pg)
++ [AI 最先冲击的职业 Top10：程序员排第一](https://mp.weixin.qq.com/s/QUUvYCDjGoYpeuF9PM1Gfg)
++ [CodeX终于支持插件了！AI编程又要变天](https://mp.weixin.qq.com/s/LQfnzNsdKzRLS4mAdDJ2oQ)
++ [Claude 新功能太狠了：AI 开始替你“上班”](https://mp.weixin.qq.com/s/SAQSdpiL4B1xxBD4JF6QCQ)
++ [Koog 登陆 Java：JetBrains 推出企业级 AI 智能体框架｜官方博客](https://mp.weixin.qq.com/s/dbO8lsaC4-qcX97nDVbZ0Q)
++ [硬核干货！5个你绝对不知道的科技圈实战技巧，最后一个太实用](https://mp.weixin.qq.com/s/_aSnyGEifY2mmAGlro1GRQ)
 
 ## LangChain
 
@@ -95,6 +100,7 @@
 + [Star 23.9k 开源 AI 多Agent舆情分析助手 BettaFish](https://mp.weixin.qq.com/s/iC0qmdiO1cSepeAiaAcnEw)
 + [Gemini 3 Deep Think 84.6% 砸穿 ARC-AGI-2：我们真的跨过“智能门槛”了吗？](https://mp.weixin.qq.com/s/mOVkUm8zE_T8V7EAwacoUA)
 + [从 IDE 到 Terminal：适合后端宝宝体质的 Claude Code 工作流｜得物技术](https://my.oschina.net/u/5783135/blog/19216912)
++ [2026 程序员终端必装：7 个 AI CLI 工具，让命令行变成“智能驾驶舱”](https://mp.weixin.qq.com/s/sQ35rta7DVhjFFbHmVbpCg)
 
 # 计算机视觉
 

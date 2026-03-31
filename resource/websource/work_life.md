@@ -136,6 +136,8 @@
 + [2026 年还值得学编程吗？真实情况可能颠覆你认知](https://mp.weixin.qq.com/s/5OYkBUJLlVSAPIvYMllgLw)
 + [程序员即将被分成三层！](https://mp.weixin.qq.com/s/VWdcU6MRMIADKBgYCRC_5w)
 + [线上出了Bug，全组都在找原因。最后发现是我改动公共类导致的。我正准备背锅，结果隔壁老兵一句话“个人低级失误”变成“流程体系缺失”](https://mp.weixin.qq.com/s/Rwnfle0GOSco8DjU-Lg0xQ)
++ [怎么阅读代码，老司机总结的 6 个实用经验](https://mp.weixin.qq.com/s/AQgWUNBwUAp9y5O6u-_Llg)
++ [被裁那天，我才明白——不会“Java + AI”，你只是一个会写代码的工具人](https://mp.weixin.qq.com/s/Vgx1RuJPw5MfbKRFYJXoaw)
 
 # 个人成长
 
@@ -318,6 +320,7 @@
 + [换掉 Xshell，试试这款高颜值跨平台 SSH 客户端](https://mp.weixin.qq.com/s/sOylWpKpvYPTfgO9P91fkg)
 + [一款被低估的插件：IDEA+JProfiler=性能分析神器](https://mp.weixin.qq.com/s/Wklsp-id496JOovSipGM3g)
 + [Putty 已死？2026 年最值得尝试的 5 款终端客户端](https://mp.weixin.qq.com/s/eutA7aZoznZ3Naqsf7pMUw)
++ [免费投屏神器Deskreen](https://mp.weixin.qq.com/s/gUaXnTk4lm_ozg_ajjOg_A)
 
 ## 开源资源
 
@@ -383,6 +386,8 @@
 + [IntelliJ IDEA 2025.3.2 已发布：这次真的在认真修 Bug](https://mp.weixin.qq.com/s/ZYxlnX88XiW783FLhapI5A)
 + [JetBrains 悄悄做了一件大事：把整个 IDE 的"大脑"喂给了 AI](https://mp.weixin.qq.com/s/kwAsW8OrBuirevGCtb_tXQ)
 + [JetBrains 出了个 Java AI 框架，和 Spring AI 不是一个赛道](https://mp.weixin.qq.com/s/OOkKoMyCDyPu-Q2QD83nTg)
++ [JetBrains 推出全新开发工具：AI IDE AIR](https://mp.weixin.qq.com/s/_6eUaESCY7MTbF19HifDxQ?scene=334)
++ [IntelliJ IDEA 配置与插件全部迁移到其他盘，彻底释放C盘空间](https://mp.weixin.qq.com/s/XM-UrAmZYs3Sp0N_ra2aiw)
 
 ## MAC_PRO相关
 
@@ -391,6 +396,8 @@
 + [Homebrew MacOS的包管理器](https://mp.weixin.qq.com/s/dgJzTmryZm1srcxE6Q7zPw)
 + [码农如何配置苹果电脑？](https://mp.weixin.qq.com/s/2kY4aUapz12np_cDd4mdiQ)
 + [详解macos包管理工具homebrew](https://mp.weixin.qq.com/s/2VBsebf6Kp3iItblEwxQ2w)
++ [为 MacBook Neo 编程：一位开发者的深度观察](https://mp.weixin.qq.com/s/I1E5OFvqdJ93H9oTc-YsWg)
++ [Mac有趣的系统性能监测工具](https://mp.weixin.qq.com/s/KXFVYfEIv_051jhocUE8hg)
 
 ## NAS
 
@@ -579,6 +586,7 @@
 + [2026年人工智能（AI）必读的10本书](https://mp.weixin.qq.com/s/f3H720eoBgTfeZJPqwAgWQ)
 + [计算机系统经典权威入门教材出版！](https://mp.weixin.qq.com/s/zWBnqj6UFUfQfzC1t4tbIA)
 + [这可能是我近两年读过最重要的一本 AI 书！](https://mp.weixin.qq.com/s/aGpAAQvT-m5u4Hage0p8vQ)
++ [推荐11本适合计算机网络即AI学习的书籍](https://mp.weixin.qq.com/s/_ghv-c-ljrFDBcxwcYEqYw)
 
 ### 生活
 

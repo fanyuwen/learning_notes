@@ -424,6 +424,7 @@
 + [Java真的不难（六十三）迭代子模式的深入分析及在电商系统中的应用](https://mp.weixin.qq.com/s/thpwAuK6ehJv9MC0wdONIg)
 + [Java真的不难（六十九）访问者模式的深入分析及在订单处理系统中的应用（附源码）](https://mp.weixin.qq.com/s/xwmJsb11WyAEf2f_3AOU_w)
 + [别学23种了！Java项目中最常用的6个设计模式，附案例](https://mp.weixin.qq.com/s/801OPrV8Wv4D0R0i9v22AA)
++ [Java设计模式-桥接模式](https://mp.weixin.qq.com/s/g1mfsI2cG5rxvRhBezvUGg)
 + [JAVA策略模式，这回真落地了](https://mp.weixin.qq.com/s/70MYdklbNJWparqsBsx4Pg)
 + [Java 状态机设计：替代 if-else 的优雅架构](https://mp.weixin.qq.com/s/vJS2pi6F6l0ymuzIVOcdMQ)
 + [Function + Java 策略模式构建易扩展开票架构](https://mp.weixin.qq.com/s/nkBF7h9Dacg3Elg6Gzponw)
@@ -544,6 +545,7 @@
 + [别再只把 Record 当 DTO 了！这些高阶玩法，90% 的 Java 程序员都没用过](https://mp.weixin.qq.com/s/IAwuwYgRrrOLE-ZCQ_rkXg)
 + [别再写"古董"代码了！Java新旧写法对比，看完效率直接翻倍](https://mp.weixin.qq.com/s/n8oobuf4efjNCsvKwrDn1g)
 + [函数式接口Function使用案例，绝对真实场景！](https://mp.weixin.qq.com/s/TQPAg8XcyrPdZLtaAkHVhQ)
++ [Java Lambda 表达式详解](https://mp.weixin.qq.com/s/fbs46ktF18OTsTkRtLsWjw)
 
 ## 代码质量
 
@@ -990,6 +992,8 @@
 + [Java多线程高效通信：掌握这八种方法就够了](https://mp.weixin.qq.com/s/BqDIhGylk5O4dZb34ibxEg)
 + [多线程的这 12 种用途，99% 的人不知道！](https://my.oschina.net/u/4163222/blog/19204905)
 + [告别线程池瓶颈！Java Virtual Threads 如何让单机轻松处理 10 万请求？](https://mp.weixin.qq.com/s/J57c5oGZK3AK2PejHAUcmQ)
++ [菜B进！你最容易犯错的：“多线程并发问题”](https://mp.weixin.qq.com/s/Z-K7QPRkUYiTdS341ICFAA)
++ [Java 并发核心：CountDownLatch、CyclicBarrier、Semaphore 原理吃透 + 生产级实战](https://mp.weixin.qq.com/s/_fDwGw_v09AOCqX6Q3_EiQ)
 
 #### CAS
 
@@ -1285,6 +1289,8 @@
 + [JAVA：JVM 常见面试题的技术指南](https://mp.weixin.qq.com/s/vyzsPEcTHl9d2dHE_hSIgA)
 + [SRE 踩坑记：JVM 暂停竟然是因为日志](https://my.oschina.net/morflameblog/blog/18964665)
 + [JVM 堆策略大改：JDK 26 不再按内存比例分配初始堆](https://mp.weixin.qq.com/s/gNoTsjJVRXCzEm9_qFrPiQ)
++ [别再说你懂 Java：这 5 个被忽略的能力，正在悄悄拖慢你的 JVM](https://mp.weixin.qq.com/s/S8AcF_f2i9TTbi4kr53jJg)
++ [9 个正在吞噬 JVM 性能的 Java 趋势（2026版重构解读）](https://mp.weixin.qq.com/s/acItX3AQBMUId2mIcZBqYA)
 
 ### 命令
 
@@ -3208,6 +3214,7 @@
 + [太强了！Spring AI + MCP：实现智能动态参数补全](https://mp.weixin.qq.com/s/ZM6LMwcj1UJZ83vybIdDZA)
 + [Spring AI 正悄悄改变 Java AI 生态，但大部分团队还没发现这件事…](https://mp.weixin.qq.com/s/AR3Vt3g3MfZcp35J6q5VSg)
 + [JAVA：Spring Boot3 集成 Spring AI 实现智能聊天](https://mp.weixin.qq.com/s/Hj0bEad79LCfuEX1XmC3hw)
++ [开源项目｜阿里开源了一个顶级AI项目！](https://mp.weixin.qq.com/s/XVYhk1QnfUaXoEe9jlvDLg)
 
 ### cloud
 
@@ -3271,6 +3278,7 @@
 + [SpringCloud微服务：EasyExcel实现Excel的优雅导入导出](https://mp.weixin.qq.com/s/NJNnKKebmyEfCijYW4tq6A)
 + [7 种负载均衡算法，Java 纯手撸实现](https://mp.weixin.qq.com/s/QcZTU3zCpwr2J6ZXA-zNfA)
 + [Spring Boot 微服务如何做到 99.99% 可用性？这 7 个核心步骤必须掌握！](https://mp.weixin.qq.com/s/KkY9RocQyOczxRsqFOYL3A)
++ [Spring Cloud 各个微服务之间为什么要用 HTTP 交互？难道不慢吗？](https://mp.weixin.qq.com/s/3xHkrG4PE_2uiSz4RE_V0Q)
 
 #### alibaba
 
@@ -3534,6 +3542,7 @@
 + [SpringBoot3 动态扩展实战：不重启服务，轻松插拔业务模块](https://mp.weixin.qq.com/s/rzJrf1tw9_fa5F9ax4TmwA)
 + [2026 年 Spring Boot 技术栈大洗牌：这 10 个插件，早用早受益](https://mp.weixin.qq.com/s/HdtvH0Wqo15k1y9ZV7FEXw)
 + [还在手写 DTO 映射？5 种 Spring Boot 高阶模式，让你的代码量直接减半！](https://mp.weixin.qq.com/s/JA5yQhblRBfRbdz_RemyLg)
++ [接手 10 万行遗留代码？用 Claude 帮你快速拆解 Spring Boot 复杂业务](https://mp.weixin.qq.com/s/i9TwMbwBiQMNPaPEcV98Sw)
 
 ##### 原理
 
@@ -3824,6 +3833,7 @@
 + [Spring Boot 4 全面拥抱 Jackson 3：那些你必须知道的变化](https://mp.weixin.qq.com/s/iYVYyO0vSNTRuQHslFi4aQ)
 + [Spring Boot 正式废弃JavaEE，改用了Jakarta EE？](https://mp.weixin.qq.com/s/XRl05FsFh7MvlCgfZf2pmA)
 + [Spring Boot 4.0.3虚拟线程全面落地源码实战：像智能电梯调度系统一样实现百万级并发调度与性能调优](https://mp.weixin.qq.com/s/uDbPa5ML6qQx-FPYqv86Mg)
++ [升级 Spring Boot 4.0 踩坑无数？这篇全是干货，从环境搭建到避坑一步到位](https://mp.weixin.qq.com/s/3jjSSLL0uPicFhpSdrzXuw)
 
 #### 分布式
 
@@ -4159,6 +4169,7 @@
 + [SpringBoot 请求参数绑定：@RequestParam / @PathVariable / @RequestBody 详解](https://mp.weixin.qq.com/s/H_mrjUP_Qe-B_zwg2h_yFQ)
 + [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/neioVwBDV58YFlgSSnXUxA)
 + [深入理解 Spring 新一代 HTTP 客户端 RestClient](https://mp.weixin.qq.com/s/hoMPdiVJta4GIdvGUF-QIA)
++ [@JacksonComponent：1 行搞定 JSON 序列化](https://mp.weixin.qq.com/s/TvGYFz4ooZ3i5qK9zP6N0Q)
 
 ##### 文件上传下载
 
@@ -4622,6 +4633,7 @@
 + [Spring Boot中策略模式结合依赖注入的实现方式](https://mp.weixin.qq.com/s/CyRGlIMcdB9LuLVCc5S8ig)
 + [SpringBoot + Facade Pattern : 通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/26dZiAMPPkGI-U16Z4nnUA)
 + [优雅！Spring Boot 策略模式 + 工厂模式完美应用【多端登录】](https://mp.weixin.qq.com/s/UTJI4TbUsOgPzmfoUjCPmA)
++ [太优雅了！Spring Boot + 责任链，轻松实现动态流程处理](https://mp.weixin.qq.com/s/3AeR_Qn491vG9lT72c9SXQ)
 
 #### message
 
@@ -4908,6 +4920,13 @@
 + [开源！Spring Boot + Birt 开发各种复杂报表，支持HTML、PDF等格式](https://mp.weixin.qq.com/s/7Tl7B0e5DONoBH3atPHTxw)
 + [JAVA：Spring Boot 集成 Content Negotiation 实现多样式响应格式](https://mp.weixin.qq.com/s/1C-zwvrBCHIDySeHe1Cj-Q)
 + [IDEA + SpringBoot 的三种热加载方案，第三种真香！](https://mp.weixin.qq.com/s/ZFdqmcexf3B2ui_32jxSUg)
++ [JAVA：Spring Boot 集成 Cassandra 从入门到实战](https://mp.weixin.qq.com/s/GWvOglpZmsNeBqAUDvs65Q)
++ [JAVA：Spring Boot 集成 Deflate 实现无损压缩](https://mp.weixin.qq.com/s/DhES26OzmoIlQT_K5XQQcg)
++ [SpringBoot + Apache tika 轻松实现各种文档内容解析](https://mp.weixin.qq.com/s/ccGAMlHgaLhXqlucjH-LkA)
++ [用 SpringBoot + Tess4j 优雅实现图像文字识别，真香！](https://mp.weixin.qq.com/s/WXqP_t2rFt96BRbuuqcvsw)
++ [用 SpringBoot + Tess4j 优雅实现图像文字识别，真香！](https://mp.weixin.qq.com/s/EQMQog1eH9sJu00Ys1_GWw)
++ [后端视频处理天花板！SpringBoot3+FFmpeg 极简集成方案](https://mp.weixin.qq.com/s/BbHdiI0IGMUu8SbI96Iriw)
++ [Kafka不香了？Spring Boot+Redpanda开启消息队列新时代](https://mp.weixin.qq.com/s/IJiwXz9JZ0CUIpKyNFxuYw)
 
 ##### excel
 
@@ -4927,6 +4946,7 @@
 + [别再手动测接口了！SpringBoot+JUnit单元测试自动化指南](https://mp.weixin.qq.com/s/6DaNXfZEPghtTAmAHOFupg)
 + [深入Spring整合Mockito：上下文污染以及解决方案](https://mp.weixin.qq.com/s/lKavMYIqB51gyXhc51DVxQ)
 + [SpringBoot2和3单元测试指南：针对Dao层、Service层和Controller层的单元测试](https://mp.weixin.qq.com/s/oAX0737QD-eiS63JBGIZnQ)
++ [大佬都在用！模拟实现SpringBoot接口服务](https://mp.weixin.qq.com/s/MpzYd9fiesXRqBSPZOwIag)
 
 #### 自定义实现
 
@@ -5205,6 +5225,8 @@
 + [Bean Searcher 遇 “鬼” 记：为何我的查询条件偷偷跑进了 HAVING？](https://my.oschina.net/u/1415804/blog/18919418)
 + [dbVisitor 的双层适配架构](https://my.oschina.net/ta8210/blog/19203598)
 + [MyBatis 史诗级的裹脚布可以烧了！！！](https://my.oschina.net/ta8210/blog/19205682)
++ [别再写 try…catch 了！新一代 NoException 异常处理方案](https://mp.weixin.qq.com/s/v8KR4ZlKCYNxlYaaXzh1AA)
++ [少写 80% 代码！SqlUtil 把动态 SQL 拼接玩出花](https://mp.weixin.qq.com/s/3xBjh6a4iYHWd8__h2fE6g)
 
 # 其它环境
 
@@ -5225,6 +5247,10 @@
 + [TikTok 借助 Jetpack Compose 实现 58% 代码缩减与性能显著提升](https://mp.weixin.qq.com/s/wVx31itw9sqzDdGHs02ttA)
 + [Jetpack Compose 中一次性事件的正确姿势：告别 Channel 与 SharedFlow](https://mp.weixin.qq.com/s/J5OCYr59Tcf3XX2guvZjOw)
 + [Jetpack Compose中的富文本输入](https://mp.weixin.qq.com/s/v27lzboooCELNCt8Cw8THg)
++ [Android 17 Beta 3 来了！API 锁定、量子签名、系统定位按钮...这次更新值得关注](https://mp.weixin.qq.com/s/L2JEKRlp7ASA2LxrU115ug)
++ [紧急适配！Android 联系人权限重构，READ_CONTACTS 全面废弃](https://mp.weixin.qq.com/s/Mrzk8bxD3ncPtIMFRrDNyA)
++ [Swift 杀进 Android，Google 和 Apple 都要失眠了？](https://mp.weixin.qq.com/s/FGOAPf2qd6eUkXiW5_EsTw)
++ [OnAndroid：SQLite 基础回顾](https://mp.weixin.qq.com/s/UfnuK-Lk_26YUMXAcWCf4w)
 
 # 相关文章
 
@@ -5235,9 +5261,11 @@
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [给Javaer看的大模型开发指南｜得物技术](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
++ [别再手写工具类了！2026年这25个Java神级工具类，让你开发效率飙升](https://mp.weixin.qq.com/s/WvXegtYBgPtHaYSLSKpPNQ)
 + [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
 + [Java高级后端工程师知识范畴](https://mp.weixin.qq.com/s/59zPr-1Z69B7Y3nb9X6Pyg)
++ [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-eUBxkzlls_a1_kDf3oTg)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [浅谈5款Java微服务开发框架](https://mp.weixin.qq.com/s/CRoa_eJ2SmOnql_Tqgdcig)
 + [搞定 Java 高并发秒杀，掌握这 7 个核心设计原则就够了](https://mp.weixin.qq.com/s/RDupbUSEA6-8J4XIJubY2w)
@@ -5470,3 +5498,4 @@
 + [震撼！我只改了一个注解，Java 后端性能直接飙升 50 倍！](https://mp.weixin.qq.com/s/qWQp0nPwTDZGY3n1BqKk7g)
 + [还在用老套路写 Java？2026 年 Spring Boot 的新趋势，可能直接淘汰你](https://mp.weixin.qq.com/s/GqeWZFwZQOvF4DwaRO_v3Q)
 + [2025 美团技术团队热门技术文章汇总](https://my.oschina.net/meituantech/blog/19107757)
++ [拒绝加班！我是如何用 Claude 把 Java 日常开发效率提升 300% 的？（附保姆级 Prompt）》](https://mp.weixin.qq.com/s/qNPPeW9aeowN7-hGaZAPmw)

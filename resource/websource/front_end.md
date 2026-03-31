@@ -235,6 +235,8 @@
 + [为什么有些依赖必须 import *引入使用？](https://mp.weixin.qq.com/s/q7kFVytSvfUtpaYJvsn8BA)
 + [JavaScript！10个强到离谱的API，90%的人都不知道](https://mp.weixin.qq.com/s/lsCB__eump8iLGirkHoXAA)
 + [finally 在 JavaScript 中的真正作用](https://mp.weixin.qq.com/s/8N1bI5tXF-O_jCpaRsyk7w)
++ [你知道export与export type 的区别吗？](https://mp.weixin.qq.com/s/b6SPdMK-to24BKoeAIYKuw)
++ [前端开发人员应该知道的十大 JavaScript 对象方法](https://mp.weixin.qq.com/s/Ot6qzb-gqbG-5A4x-QoFoA)
 
 # 框架
 
@@ -295,6 +297,7 @@
 + [嘀嘀，你的React 组件库](https://mp.weixin.qq.com/s/JPcdBv6IrbBIGA7ACVs49g)
 + [React 组件的类型](https://mp.weixin.qq.com/s/hM3eEgrlWMP1evgD9YuT1Q)
 + [React 19.2：useEffect终于要被"架空"了？Meta这波操作背后的真实意图](https://mp.weixin.qq.com/s/EseSRzOsPG69LycinXJ2-A)
++ [不要再代码中滥用 useCallback 和useMemo](https://mp.weixin.qq.com/s/AwzGhksayqmRUNschYrW9A)
 
 ### react native
 
@@ -328,6 +331,7 @@
 + [WebSocket入门案例指南：使用WebSocket完成实时消息，实时进度条](https://mp.weixin.qq.com/s/G9hXpnI4cS4n3Vs2Tq3YNA)
 + [WebSocket 保序与消息乱序探因](https://mp.weixin.qq.com/s/wd0Oir6I7ITHdXhwVqkekQ)
 + [为什么前端项目不都采用 WebSocket？](https://mp.weixin.qq.com/s/Ei3kzNoeLgKWt28Sl9rKIA)
++ [WebSocket，退！退！退！2026 年实时通信的“平替”方案真香](https://mp.weixin.qq.com/s/TB2S5sa-FwqgbvJjjd52Iw)
 
 # sse
 
@@ -423,6 +427,8 @@
 + [用了组合式 (Composition) API 后代码变得更乱了，怎么办？](https://mp.weixin.qq.com/s/oAbzqqLnU45154F4RKffNA)
 + [前端中的 File 和 Blob两个对象到底有什么不同](https://mp.weixin.qq.com/s/v2_h96T9cBcE8p0haOkkcg)
 + [CSS 函数 calc() 会引起重排重绘吗](https://mp.weixin.qq.com/s/zBxgRqLH6R7ycD4WprKo_Q)
++ [页面跳转如何优雅携带大数据Array或Object](https://mp.weixin.qq.com/s/S8hS3TM_NQGSg_ZyLp4H9Q)
++ [一个新的 HTML 元素：<permission>！](https://mp.weixin.qq.com/s/S16LsfaKNj8wukvT9xJX_w)
 
 # 杂谈
 

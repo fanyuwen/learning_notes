@@ -11,6 +11,7 @@
 + [Go1.25 新特性：引入 DWARF5，链接器更快，二进制文件更小了！](https://mp.weixin.qq.com/s/3ggj1yUhybtEnaID-tPARA)
 + [Go 1.9 相比 Go 1.8 有哪些值得注意的改动？](https://mp.weixin.qq.com/s/RkUNsmUJQ4hBpqdsWtbNow)
 + [Go 1.25 新特性！新一代 GC 来了，内存占用暴降 40%？](https://mp.weixin.qq.com/s/oojmGcMpswjY1ecbcTCalA)
++ [Go 1.26 一个“看不见的改动”，让无数开发者编译直接爆炸](https://mp.weixin.qq.com/s/_sqw44-mWXSZnPegOZL_-Q)
 
 # 话题
 

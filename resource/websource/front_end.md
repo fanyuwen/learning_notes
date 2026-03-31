@@ -50,6 +50,7 @@
 + [JavaScript中的var、let和const：区别与使用](https://mp.weixin.qq.com/s/6RgSxdLrZvQ_SLA-0kmbJQ)
 + [译文：竟然可以这样写 JS？ES2025全新语法糖解析](https://mp.weixin.qq.com/s/0Omo3JaDbQg9taVgtkf9HQ)
 + [使用这个新的 ECMAScript 运算符告别 Try/Catch！](https://mp.weixin.qq.com/s/zsOW-Bpp6POwRFB_NvH9Qg)
++ [使用这个新的 ECMAScript 运算符告别 Try/Catch！](https://mp.weixin.qq.com/s/M6ZzLwR6t9AldRYcPz6oSw)
 
 ### 底层
 

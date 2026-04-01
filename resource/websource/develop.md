@@ -752,6 +752,7 @@
 + [别再用 Cron 硬撑了！从单机定时到分布式调度，如何把任务吞吐干到每秒上千？](https://mp.weixin.qq.com/s/fe9j_Fc8SVgkqU3wVEzUtA)
 + [别再只会刷题：系统设计真正的进阶路径（从迷茫到掌控全局）](https://mp.weixin.qq.com/s/n4dOKeO86kICloO7K6mLCA)
 + [写了 5 年代码才明白：真正保护密钥的，从来不是加密，而是环境变量](https://mp.weixin.qq.com/s/KxzbtLZ1q9K0yIm3A2OCnQ)
++ [面试官：业务开发时，接口不能对外暴露怎么办？有 3 种实现方案！](https://mp.weixin.qq.com/s/2fs1oSYPAGPT0Uc69zB0Kw)
 
 # 测试相关
 

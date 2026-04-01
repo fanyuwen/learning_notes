@@ -766,6 +766,7 @@
 + [面试官：BigDecimal 和 Long 哪个表示金额更合适，怎么选择？](https://mp.weixin.qq.com/s/MRPWloEGVDUwa0JEK9U4og)
 + [面试官：为什么不能用浮点数表示金额？](https://mp.weixin.qq.com/s/MSAsJtV5eh0gOvG7Z2xMQA)
 + [别再滥用 Optional 和 Stream 了！你写的“优雅 Java”，正在悄悄拖垮 JVM 性能](https://mp.weixin.qq.com/s/Cg51N1cUxEUGTru5BHzZcw)
++ [面试官：String 为什么设计成 final 不可变的？（修订版）](https://mp.weixin.qq.com/s/vEZ4MWrKoohHf-wTjeyQAA)
 
 ### 序列化
 
@@ -1080,6 +1081,7 @@
 + [线程池 ThreadPoolExecutor 源码深度解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695444)
 + [QPS 10 万，任务接口耗时 100ms，线程池如何优化？](https://mp.weixin.qq.com/s/lrEH9MFaRyJo5vMXNTF72w)
 + [面试官：线程池的拒绝策略有哪些？](https://mp.weixin.qq.com/s/DKoSI3cq8fmPiGRheObiHw)
++ [面试官：说说动态线程池实现原理？](https://mp.weixin.qq.com/s/z76wIQvm_MEaK6ZkyQV7Yg)
 
 #### 锁
 
@@ -2124,6 +2126,7 @@
 + [Arthas在内存马查杀中的应用](https://mp.weixin.qq.com/s/SFG1Ekla_70FjDUuZdKdyg)
 + [线上问题定位神器：Arthas](https://mp.weixin.qq.com/s/3nVS3Fxd5A-TAwMmQ4ziSg)
 + [实战！Arthas 定位 接口的超时问题，直接起飞！](https://mp.weixin.qq.com/s/BBfAGYE4POgxH1bV0OKg9A)
++ [实战！Arthas 定位 接口的超时问题，直接起飞！](https://mp.weixin.qq.com/s/dN0xvppfUWyH-Rgqfh6icg)
 
 ## caffeine
 
@@ -4935,6 +4938,7 @@
 + [别等故障炸锅！Spring Boot + 混沌工程，让微服务扛住极端场景](https://mp.weixin.qq.com/s/HkiI4doLHiGFH-F9OkiCcQ)
 + [JAVA：Spring Boot3 集成 OnlyOffice 实现在线文档编辑](https://mp.weixin.qq.com/s/odHeY6g9NTHn6gaBnHqdZQ)
 + [JAVA：Spring Boot 集成 Dubbo SPI 插件机制](https://mp.weixin.qq.com/s/3YkjiSpsJ_1es89SNmcwyA)
++ [太顶了！Spring Boot + Milvus 相似性搜索效率提升 10 倍](https://mp.weixin.qq.com/s/Thw5K6lMvSc3uov9gDsaOQ)
 
 ##### excel
 
@@ -5267,12 +5271,14 @@
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
 + [Java 性能调优全攻略：步骤、工具、技巧一网打尽](https://mp.weixin.qq.com/s/-ffrJqL6uDHJab4waZXEQg)
 + [Java中的5大AI框架！](https://mp.weixin.qq.com/s/kGJi-n3tGfRhMi_VXMS0_g)
++ [90% 的人都写错了！Java REST API 设计的“标准答案”到底是什么？](https://mp.weixin.qq.com/s/Hk5o1cUH_cgAkouWkUsDNw)
 + [为什么java被部分开发者认为是低端技术？](https://mp.weixin.qq.com/s/mu6EeqNKxf_2FIjyjiDFoA)
 + [给 Javaer 看的大模型开发指南｜得物技术](https://my.oschina.net/u/5783135/blog/18638450)
 + [给Javaer看的大模型开发指南｜得物技术](https://mp.weixin.qq.com/s/XSZ4a0QpzyGVme3lsUogrw)
 + [10大主流编程语言介绍：应用场景与优劣势对比](https://mp.weixin.qq.com/s/CeO88Csaz93M5oi9ZQ2mzA)
 + [别再手写工具类了！2026年这25个Java神级工具类，让你开发效率飙升](https://mp.weixin.qq.com/s/WvXegtYBgPtHaYSLSKpPNQ)
 + [深拷贝浅拷贝，一个例子就明白](https://mp.weixin.qq.com/s/GsY1bCq3QSOkX59B_evhpg)
++ [Java性能调优黑科技！1行代码实现毫秒级耗时追踪，效率飙升300%！](https://mp.weixin.qq.com/s/gPcb-At_1RHaJ1knFkObRw)
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
 + [Java高级后端工程师知识范畴](https://mp.weixin.qq.com/s/59zPr-1Z69B7Y3nb9X6Pyg)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-eUBxkzlls_a1_kDf3oTg)

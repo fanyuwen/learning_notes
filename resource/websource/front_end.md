@@ -359,6 +359,7 @@
 + [解决 Vite 打包产生的 hash 缓存失效问题](https://www.iszy.cc/posts/vite-hash-cache/?comefrom=https://blogread.cn/news/&continueFlag=7926511a3429bcdfaded4d3dd9b9ba05&s_trans=2197476363_&s_channel=4)
 + [Vite 使用指南](https://mp.weixin.qq.com/s/55Hukaap4l3I2tvYE_wxDA)
 + [vite8性能提升 10-30 倍](https://mp.weixin.qq.com/s/i4UJ0iVhMJUGrb-QKl0ZiA)
++ [Vite打包优化实践：从分包到性能提升](https://mp.weixin.qq.com/s/SjP5CvUPCaluawlTOUtYOg)
 
 ## bun
 
@@ -432,6 +433,7 @@
 + [页面跳转如何优雅携带大数据Array或Object](https://mp.weixin.qq.com/s/S8hS3TM_NQGSg_ZyLp4H9Q)
 + [一个新的 HTML 元素：<permission>！](https://mp.weixin.qq.com/s/S16LsfaKNj8wukvT9xJX_w)
 + [前端开发中过度封装的现象与思考](https://mp.weixin.qq.com/s/Ts41CPRpa3xYvfLRC29u4Q)
++ [别再写一堆 if-else 了：用状态模式优雅管理状态行为](https://mp.weixin.qq.com/s/LLGSRg2YC0ZLHAZxL06rCQ)
 
 # 杂谈
 

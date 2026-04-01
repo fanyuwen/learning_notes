@@ -238,6 +238,7 @@
 + [finally 在 JavaScript 中的真正作用](https://mp.weixin.qq.com/s/8N1bI5tXF-O_jCpaRsyk7w)
 + [你知道export与export type 的区别吗？](https://mp.weixin.qq.com/s/b6SPdMK-to24BKoeAIYKuw)
 + [前端开发人员应该知道的十大 JavaScript 对象方法](https://mp.weixin.qq.com/s/Ot6qzb-gqbG-5A4x-QoFoA)
++ [面试官：如果 100 个请求，你怎么用 Promise 去控制并发？](https://mp.weixin.qq.com/s/Lc7pjKUR0Pxu9P8DORbm6w)
 
 # 框架
 
@@ -430,6 +431,7 @@
 + [CSS 函数 calc() 会引起重排重绘吗](https://mp.weixin.qq.com/s/zBxgRqLH6R7ycD4WprKo_Q)
 + [页面跳转如何优雅携带大数据Array或Object](https://mp.weixin.qq.com/s/S8hS3TM_NQGSg_ZyLp4H9Q)
 + [一个新的 HTML 元素：<permission>！](https://mp.weixin.qq.com/s/S16LsfaKNj8wukvT9xJX_w)
++ [前端开发中过度封装的现象与思考](https://mp.weixin.qq.com/s/Ts41CPRpa3xYvfLRC29u4Q)
 
 # 杂谈
 

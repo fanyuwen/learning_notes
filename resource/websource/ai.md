@@ -61,6 +61,8 @@
 + [蚂蚁面试官问："你的 RAG 系统部署给银行，普通员工能搜到领导的薪资文件？不同分行的数据怎么隔离？向量数据库有权限控制吗？"](https://mp.weixin.qq.com/s/M6BiWlGmfijlU9yUQXmRoA)
 + [阿里面试官冷笑："5000 份文档扔进去就算建好知识库了？难怪你的 RAG 答非所问。" 我无言以对...](https://mp.weixin.qq.com/s/4nUo_-y0Kd23wKlyry60SQ)
 + [从登Nature到Science：Transformer如何成为基础科学的“万能钥匙”？](https://mp.weixin.qq.com/s/FVf-WbSVRNdMZ84xwHmFMw)
++ [OpenClaw到底能干嘛？30个落地案例，看完直接用](https://mp.weixin.qq.com/s/mIKoynY2rPRK2L9KVUly8A)
++ [Claude Code 源码泄露：拆解 Claude Code 源码后，我发现它更像一个“AI 操作系统”](https://mp.weixin.qq.com/s/4egDOiAlNA_5X43j5bUp4w)
 
 ## 资讯
 
@@ -83,6 +85,7 @@
 + [Claude 新功能太狠了：AI 开始替你“上班”](https://mp.weixin.qq.com/s/SAQSdpiL4B1xxBD4JF6QCQ)
 + [Koog 登陆 Java：JetBrains 推出企业级 AI 智能体框架｜官方博客](https://mp.weixin.qq.com/s/dbO8lsaC4-qcX97nDVbZ0Q)
 + [硬核干货！5个你绝对不知道的科技圈实战技巧，最后一个太实用](https://mp.weixin.qq.com/s/_aSnyGEifY2mmAGlro1GRQ)
++ [OpenClaw重大升级遇挫，激进重构致用户全线报错，开发者回应：为了抵御频繁的网络攻击，限流规则设置得过于严格，后续会调整限流策略](https://mp.weixin.qq.com/s/DE3Xfx-FW_SPi41lDheNbg)
 
 ## LangChain
 

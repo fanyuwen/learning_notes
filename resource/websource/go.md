@@ -59,6 +59,7 @@
 + [Go 1.26 爆发式升级，却故意“放鸽子” JSON v2：背后真相太硬核](https://mp.weixin.qq.com/s/XDuSi7rvQSS2F3WSTCyiHA)
 + [我用 Go 写了 3 个月 AI Agent：比 Python 难，但值不值？](https://mp.weixin.qq.com/s/IEkNPHX94707--WTYV-tIQ)
 + [我用 Go 重写了一个 OpenClaw 框架：这就是 GoClaw](https://my.oschina.net/u/4939618/blog/19442058)
++ [8年、915条评论，Go终于要有“Lambda”了？程序员吵翻的语法之战](https://mp.weixin.qq.com/s/SMpZDAYAa5Y5K5YeimUU7A)
 
 # 库
 

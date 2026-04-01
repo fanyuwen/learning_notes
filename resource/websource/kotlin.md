@@ -71,6 +71,7 @@
 + [使用 Kotlin 构建 AI 智能体 – 第 3 部分：密切观察｜官方博客](https://mp.weixin.qq.com/s/AttETTbeFh1tLlYdnZYCUA)
 + [在 Kotlin 中构建 AI 智能体 – 第 4 部分：委托和子智能体｜官方博客](https://mp.weixin.qq.com/s/sQqkV8kvOOcUPtbwrydv0g)
 + [使用 Kotlin 构建 AI 智能体 – 第 5 部分：让智能体学会忘记](https://mp.weixin.qq.com/s/Rz8x0R6IMtiJ0i3InTFdXg)
++ [推出 Tracy：适用于 Kotlin 的 AI 可观测性库｜官方博客](https://mp.weixin.qq.com/s/1TKXMfIZuDOlvd3djFz4Gg)
 
 ## 技术月报
 
@@ -100,3 +101,4 @@
 + [从 SDK 到智能体，详解 Kotlin AI 技术栈！| 官方博客](https://mp.weixin.qq.com/s/X96lJ2-KHyahPWCLygvAEg)
 + [Compose Multiplatform 1.9.0 正式发布：CMP for Web 进入 Beta 阶段](https://mp.weixin.qq.com/s/IJM08Fe4uGvXcja2v9p9mA)
 + [Koin Annotations 2.2: 迄今为止最易于迁移的版本｜社区分享](https://mp.weixin.qq.com/s/cSsyK9UfIvK28jINIO2avQ)
++ [Kotlin 2.4.0 正式发布，快来看看有哪些更新](https://mp.weixin.qq.com/s/IYk8aHkklqRCG12fgPqiyg)

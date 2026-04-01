@@ -138,6 +138,7 @@
 + [线上出了Bug，全组都在找原因。最后发现是我改动公共类导致的。我正准备背锅，结果隔壁老兵一句话“个人低级失误”变成“流程体系缺失”](https://mp.weixin.qq.com/s/Rwnfle0GOSco8DjU-Lg0xQ)
 + [怎么阅读代码，老司机总结的 6 个实用经验](https://mp.weixin.qq.com/s/AQgWUNBwUAp9y5O6u-_Llg)
 + [被裁那天，我才明白——不会“Java + AI”，你只是一个会写代码的工具人](https://mp.weixin.qq.com/s/Vgx1RuJPw5MfbKRFYJXoaw)
++ [程序员最狠的报复：代码不写注释，然后离职，差点把其他同事“送走”！！](https://mp.weixin.qq.com/s/bHAA9IlW1kbU3sTZpiMmew)
 
 # 个人成长
 

@@ -317,6 +317,8 @@
 + [JDK17 前后写法对比：差点没认出是 Java！](https://mp.weixin.qq.com/s/1bGrfyZmqZKL8_w1Rs2rCw)
 + [炸裂！Spring Boot 4 + Project Leyden，Java 性能竟悄悄追平 Go？2026 真相曝光](https://mp.weixin.qq.com/s/uvddzWOyWuEBTPcVQvvKTg)
 + [JDK 26 新特性：让大文件分片上传更简单高效](https://mp.weixin.qq.com/s/zCo1hR1ssiThGR98xhRQuQ)
++ [JDK 26 新特性：UUID 终于可以按时间排序了！](https://mp.weixin.qq.com/s/SFVJ0WJS3LHcoMfN4JGJkQ)
++ [Amber 下一个新特性曝光：Java 将迎来命令式模式匹配](https://mp.weixin.qq.com/s/bKE0QvLQklINVGYRLkJPsQ)
 
 ## 高级用法
 
@@ -4170,6 +4172,8 @@
 + [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/neioVwBDV58YFlgSSnXUxA)
 + [深入理解 Spring 新一代 HTTP 客户端 RestClient](https://mp.weixin.qq.com/s/hoMPdiVJta4GIdvGUF-QIA)
 + [@JacksonComponent：1 行搞定 JSON 序列化](https://mp.weixin.qq.com/s/TvGYFz4ooZ3i5qK9zP6N0Q)
++ [一招搞定！Spring Boot 动态创建 Controller 接口](https://mp.weixin.qq.com/s/lWNA7Y4Xha0TJwZ5cd2nQQ)
++ [一个注解！Spring Boot 序列化字段动态智能转换](https://mp.weixin.qq.com/s/KGO4eOsnj_BAorKCrNy8BQ)
 
 ##### 文件上传下载
 
@@ -4634,6 +4638,7 @@
 + [SpringBoot + Facade Pattern : 通过统一接口简化多模块业务](https://mp.weixin.qq.com/s/26dZiAMPPkGI-U16Z4nnUA)
 + [优雅！Spring Boot 策略模式 + 工厂模式完美应用【多端登录】](https://mp.weixin.qq.com/s/UTJI4TbUsOgPzmfoUjCPmA)
 + [太优雅了！Spring Boot + 责任链，轻松实现动态流程处理](https://mp.weixin.qq.com/s/3AeR_Qn491vG9lT72c9SXQ)
++ [写了 10 年代码才顿悟：Spring Boot + 装饰器模式，才是优雅扩展的终极解法](https://mp.weixin.qq.com/s/9Zb0KXIcS3uWsOtKKnXPJw)
 
 #### message
 
@@ -4927,6 +4932,9 @@
 + [用 SpringBoot + Tess4j 优雅实现图像文字识别，真香！](https://mp.weixin.qq.com/s/EQMQog1eH9sJu00Ys1_GWw)
 + [后端视频处理天花板！SpringBoot3+FFmpeg 极简集成方案](https://mp.weixin.qq.com/s/BbHdiI0IGMUu8SbI96Iriw)
 + [Kafka不香了？Spring Boot+Redpanda开启消息队列新时代](https://mp.weixin.qq.com/s/IJiwXz9JZ0CUIpKyNFxuYw)
++ [别等故障炸锅！Spring Boot + 混沌工程，让微服务扛住极端场景](https://mp.weixin.qq.com/s/HkiI4doLHiGFH-F9OkiCcQ)
++ [JAVA：Spring Boot3 集成 OnlyOffice 实现在线文档编辑](https://mp.weixin.qq.com/s/odHeY6g9NTHn6gaBnHqdZQ)
++ [JAVA：Spring Boot 集成 Dubbo SPI 插件机制](https://mp.weixin.qq.com/s/3YkjiSpsJ_1es89SNmcwyA)
 
 ##### excel
 
@@ -5251,6 +5259,8 @@
 + [紧急适配！Android 联系人权限重构，READ_CONTACTS 全面废弃](https://mp.weixin.qq.com/s/Mrzk8bxD3ncPtIMFRrDNyA)
 + [Swift 杀进 Android，Google 和 Apple 都要失眠了？](https://mp.weixin.qq.com/s/FGOAPf2qd6eUkXiW5_EsTw)
 + [OnAndroid：SQLite 基础回顾](https://mp.weixin.qq.com/s/UfnuK-Lk_26YUMXAcWCf4w)
++ [改完代码1秒生效，Compose热重载来了！](https://mp.weixin.qq.com/s/eozHbirAEJpagmA0NHbxpg)
++ [Android 桌面端深度解析：从 TNT 到 DeX，原生开发正在迎来下一个十年](https://mp.weixin.qq.com/s/NxiPtv7bqbEIrt1zQ3rKNw)
 
 # 相关文章
 
@@ -5268,6 +5278,7 @@
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-eUBxkzlls_a1_kDf3oTg)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [浅谈5款Java微服务开发框架](https://mp.weixin.qq.com/s/CRoa_eJ2SmOnql_Tqgdcig)
++ [从夯到拉，锐评13个 Java Web 框架！](https://mp.weixin.qq.com/s/Cz0chqLhICpgDGqhO94YTQ)
 + [搞定 Java 高并发秒杀，掌握这 7 个核心设计原则就够了](https://mp.weixin.qq.com/s/RDupbUSEA6-8J4XIJubY2w)
 + [通过对比理解「面向对象」编程思想](https://mp.weixin.qq.com/s/KF2g5BTl0Fe_H7PmIfntyA)
 + [Java缓存穿透：布隆过滤器 + 空值缓存 + 参数校验，3种方案彻底解决！](https://mp.weixin.qq.com/s/tfyqRW8w7_r1TE5HvojUNw)
@@ -5499,3 +5510,4 @@
 + [还在用老套路写 Java？2026 年 Spring Boot 的新趋势，可能直接淘汰你](https://mp.weixin.qq.com/s/GqeWZFwZQOvF4DwaRO_v3Q)
 + [2025 美团技术团队热门技术文章汇总](https://my.oschina.net/meituantech/blog/19107757)
 + [拒绝加班！我是如何用 Claude 把 Java 日常开发效率提升 300% 的？（附保姆级 Prompt）》](https://mp.weixin.qq.com/s/qNPPeW9aeowN7-hGaZAPmw)
++ [写了多年 Spring Boot，我才发现 Go 根本不是“另一种 Java”](https://mp.weixin.qq.com/s/Oq-QPBYV5GwppKOMKaASGg)

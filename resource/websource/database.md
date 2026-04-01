@@ -586,6 +586,7 @@
 + [阿里面试：MySQL如何实现悲观锁？底层原理？](https://mp.weixin.qq.com/s/DLHgUbaiJTNqJaeJH_EuPA)
 + [MySQL中的锁](https://mp.weixin.qq.com/s/G14mKrybkGvzicTA5dhW0Q)
 + [面试官：MySQL 乐观锁与悲观锁怎么实现？（修订版）](https://mp.weixin.qq.com/s/5zrdsSsdOzJCtKAgmWtMGQ)
++ [字节二面：什么是数据库死锁，怎么解决？（修订版）](https://mp.weixin.qq.com/s/mcLTfU1ciy1tf8YcSJIBUA)
 
 #### 事务
 
@@ -715,6 +716,7 @@
 + [携程二面：用了索引还是很慢，可能是什么原因？](https://mp.weixin.qq.com/s/r3KUvAnVYuDXkNa3mooK5A)
 + [面试官：什么是最左前缀匹配？为什么要遵守？（修订版）](https://mp.weixin.qq.com/s/O0AkDlyT5Ot1vChKvatuOA)
 + [京东二面：加索引时，会锁表吗?（修订版）](https://mp.weixin.qq.com/s/RKYRjWiBLrVn3v2d3d2n3A)
++ [面试官：MySQL 唯一索引和主键索引的区别？(修订版)](https://mp.weixin.qq.com/s/qUKf27dUzYBZldQDEjE00Q)
 
 ### PostgreSQL
 
@@ -1099,6 +1101,7 @@
 + [美团一面：Redis 是如何实现分布式锁的](https://mp.weixin.qq.com/s/XMGZxkv_dFrXiyrGOchy_Q)
 + [Redis 分布式锁的 5个坑，真是又大又深！](https://mp.weixin.qq.com/s/6cR3Zg_o60gUXAtKNNJ4bg)
 + [Redis分布式锁故障，我忍不住想爆粗...](https://mp.weixin.qq.com/s/rNGI-VsjDSyRvb1yRbdbYQ)
++ [华为二面：Redis 分布式锁如何实现？（修订版）](https://mp.weixin.qq.com/s/BOBTHKRItLOiDwXFNTW2bQ)
 
 #### 缓存
 

@@ -86,6 +86,7 @@
 + [Koog 登陆 Java：JetBrains 推出企业级 AI 智能体框架｜官方博客](https://mp.weixin.qq.com/s/dbO8lsaC4-qcX97nDVbZ0Q)
 + [硬核干货！5个你绝对不知道的科技圈实战技巧，最后一个太实用](https://mp.weixin.qq.com/s/_aSnyGEifY2mmAGlro1GRQ)
 + [OpenClaw重大升级遇挫，激进重构致用户全线报错，开发者回应：为了抵御频繁的网络攻击，限流规则设置得过于严格，后续会调整限流策略](https://mp.weixin.qq.com/s/DE3Xfx-FW_SPi41lDheNbg)
++ [以天为单位革新的 AI 圈，Harness 早已不算什么新词](https://my.oschina.net/u/4487475/blog/19431001)
 
 ## LangChain
 

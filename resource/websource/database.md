@@ -1005,6 +1005,7 @@
 + [面试官：谈谈 Redis 的过期策略？](https://mp.weixin.qq.com/s/lqSizd2-tVcklHR6nz66HQ)
 + [Redis 平替，SpringBoot 集成 Dragonfly，性能暴涨](https://mp.weixin.qq.com/s/GLQKS1j6tg3gJvafmd_y6Q)
 + [Redis 8.0~8.4 重要更新，新特性很强！](https://mp.weixin.qq.com/s/dq2STuURAlu86cgXhvM9WA)
++ [Redis 自动化运维最佳实践｜得物技术](https://my.oschina.net/u/5783135/blog/19445068)
 
 #### 原理
 

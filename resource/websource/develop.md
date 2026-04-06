@@ -574,6 +574,7 @@
 + [Java 缓存雪崩：高并发下的“集体跳楼”如何避免？](https://mp.weixin.qq.com/s/t5BRaHTvmLv1RBend5P8AQ)
 + [如何设计多级缓存架构并解决数据一致性问题？](https://mp.weixin.qq.com/s/CKFru_R1cJ24lEtQ6AWpBA)
 + [得物二面：什么是缓存击穿、缓存穿透、缓存雪崩？（修订版）](https://mp.weixin.qq.com/s/x-TF2y6GpBpHW56dNCf3tQ)
++ [京东缓存中间件架构与缓存内核优化](https://my.oschina.net/u/4090830/blog/19482832)
 
 ## 优化
 

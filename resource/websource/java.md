@@ -319,6 +319,7 @@
 + [JDK 26 新特性：让大文件分片上传更简单高效](https://mp.weixin.qq.com/s/zCo1hR1ssiThGR98xhRQuQ)
 + [JDK 26 新特性：UUID 终于可以按时间排序了！](https://mp.weixin.qq.com/s/SFVJ0WJS3LHcoMfN4JGJkQ)
 + [Amber 下一个新特性曝光：Java 将迎来命令式模式匹配](https://mp.weixin.qq.com/s/bKE0QvLQklINVGYRLkJPsQ)
++ [别再只会用 Java 8！Java 26 深度解析：HTTP/3、Structured Concurrency 全面爆发！](https://mp.weixin.qq.com/s/zJwYxLHzGHAw4wNOdXcCTw)
 
 ## 高级用法
 
@@ -548,6 +549,7 @@
 + [别再写"古董"代码了！Java新旧写法对比，看完效率直接翻倍](https://mp.weixin.qq.com/s/n8oobuf4efjNCsvKwrDn1g)
 + [函数式接口Function使用案例，绝对真实场景！](https://mp.weixin.qq.com/s/TQPAg8XcyrPdZLtaAkHVhQ)
 + [Java Lambda 表达式详解](https://mp.weixin.qq.com/s/fbs46ktF18OTsTkRtLsWjw)
++ [2026年你以为会写 Java 就够了？这 10 个底层认知，决定你天花板在哪](https://mp.weixin.qq.com/s/bBFbPhbYGpKGKyaknNCJVA)
 
 ## 代码质量
 
@@ -2460,6 +2462,7 @@
 + [我们放弃了Nacos作为配置中心，转而选择了这款神器~](https://mp.weixin.qq.com/s/F8NErtnWi1cFOocX4z6JMg)
 + [Nacos 和 Apollo ，哪个更好？](https://mp.weixin.qq.com/s/gUrU2x_J5CR1O_skLlDieg)
 + [Nacos和Apollo，哪个更好？](https://mp.weixin.qq.com/s/BxcLBgGiOFbqcxa_cEF4Yg)
++ [Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://mp.weixin.qq.com/s/d_mecEZGuaU7kMzUm4AfBQ)
 
 ## netty
 
@@ -3220,6 +3223,7 @@
 + [Spring AI 正悄悄改变 Java AI 生态，但大部分团队还没发现这件事…](https://mp.weixin.qq.com/s/AR3Vt3g3MfZcp35J6q5VSg)
 + [JAVA：Spring Boot3 集成 Spring AI 实现智能聊天](https://mp.weixin.qq.com/s/Hj0bEad79LCfuEX1XmC3hw)
 + [开源项目｜阿里开源了一个顶级AI项目！](https://mp.weixin.qq.com/s/XVYhk1QnfUaXoEe9jlvDLg)
++ [别再只会调 API：Java 开发者的 AI 框架全景指南（2026 最新版）](https://mp.weixin.qq.com/s/MmiP40lJu-wi2OvRc-7DXQ)
 
 ### cloud
 
@@ -3548,6 +3552,8 @@
 + [2026 年 Spring Boot 技术栈大洗牌：这 10 个插件，早用早受益](https://mp.weixin.qq.com/s/HdtvH0Wqo15k1y9ZV7FEXw)
 + [还在手写 DTO 映射？5 种 Spring Boot 高阶模式，让你的代码量直接减半！](https://mp.weixin.qq.com/s/JA5yQhblRBfRbdz_RemyLg)
 + [接手 10 万行遗留代码？用 Claude 帮你快速拆解 Spring Boot 复杂业务](https://mp.weixin.qq.com/s/i9TwMbwBiQMNPaPEcV98Sw)
++ [告别冗余 DTO：5 种 Spring Boot 高效模式彻底取代样板代码](https://mp.weixin.qq.com/s/UjhQzOoP4xZNjn5ayVPIVQ)
++ [2026 年 Spring Boot 开发者必须掌握的 10 个 Java 高阶能力](https://mp.weixin.qq.com/s/GOej158MZ1P0JnahezT4MA)
 
 ##### 原理
 
@@ -3611,6 +3617,7 @@
 + [Spring Boot 最强隐藏功能：Bean 生命周期 10 步解析（90% 的人没搞懂）](https://mp.weixin.qq.com/s/IWVsN4Pna0Gd5hjhG_kwug)
 + [一用就上瘾！MappingJacksonValue 让你的 Spring Boot 接口起飞](https://mp.weixin.qq.com/s/zF5MFJsTlNUJW3orPLGwxg)
 + [隐藏的性能杀手：SpringBoot 的这个默认配置一定要关掉！](https://mp.weixin.qq.com/s/wLjAplHfgYnXFDp7FXJYLQ)
++ [Spring中的Full 模式和Lite模式你听过吗？](https://mp.weixin.qq.com/s/i62oppZ_xZFhDkG-M0vjXA)
 
 #### 版本特性
 
@@ -4177,6 +4184,9 @@
 + [@JacksonComponent：1 行搞定 JSON 序列化](https://mp.weixin.qq.com/s/TvGYFz4ooZ3i5qK9zP6N0Q)
 + [一招搞定！Spring Boot 动态创建 Controller 接口](https://mp.weixin.qq.com/s/lWNA7Y4Xha0TJwZ5cd2nQQ)
 + [一个注解！Spring Boot 序列化字段动态智能转换](https://mp.weixin.qq.com/s/KGO4eOsnj_BAorKCrNy8BQ)
++ [别再只会用 Tomcat！Spring Boot 内嵌服务器全解析：Jetty、Undertow 谁才是性能王者？](https://mp.weixin.qq.com/s/KjfkGAx4LIxwXPvz5DRt0w)
++ [90% 的人都没用过！Spring Boot 被遗忘的请求参数绑定姿势](https://mp.weixin.qq.com/s/xcatzzD5QauKf4mnKAMMQg)
++ [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/-up8Ic0VEUV6HvxzZCEN9g)
 
 ##### 文件上传下载
 
@@ -4331,6 +4341,7 @@
 + [SpringBoot 4 最被低估的新特性：Spring Data AOT](https://mp.weixin.qq.com/s/e0uyzFY2-F122rpKvj3RgQ)
 + [从2.5小时到4分25秒：我用SpringBatch让百万数据导入“飞“起来了！](https://mp.weixin.qq.com/s/yShnIcbVHtqzY_FYI_aQtQ)
 + [数据一上百万就卡死？Spring Boot 处理海量数据的 5 个高效方案，性能直接翻倍！](https://mp.weixin.qq.com/s/u9HUJ5okGvKxngx3j25Fhg)
++ [SpringBoot3实战：告别占位符，SQL可视化调试一步到位](https://mp.weixin.qq.com/s/pQlYx6zZ14D4yYf4I69SKg)
 
 ##### TRANSACTION
 
@@ -4939,6 +4950,8 @@
 + [JAVA：Spring Boot3 集成 OnlyOffice 实现在线文档编辑](https://mp.weixin.qq.com/s/odHeY6g9NTHn6gaBnHqdZQ)
 + [JAVA：Spring Boot 集成 Dubbo SPI 插件机制](https://mp.weixin.qq.com/s/3YkjiSpsJ_1es89SNmcwyA)
 + [太顶了！Spring Boot + Milvus 相似性搜索效率提升 10 倍](https://mp.weixin.qq.com/s/Thw5K6lMvSc3uov9gDsaOQ)
++ [Spring Boot + Selenium 一键生成PDF / 自动化操作](https://mp.weixin.qq.com/s/kOIa4U6rcdqQzb8924tc7A)
++ [告别重复代码！Unirest 开源库，一行实现优雅 API 调用](https://mp.weixin.qq.com/s/TLctUIEqxiOrnaWhYfLcQg)
 
 ##### excel
 
@@ -5265,6 +5278,7 @@
 + [OnAndroid：SQLite 基础回顾](https://mp.weixin.qq.com/s/UfnuK-Lk_26YUMXAcWCf4w)
 + [改完代码1秒生效，Compose热重载来了！](https://mp.weixin.qq.com/s/eozHbirAEJpagmA0NHbxpg)
 + [Android 桌面端深度解析：从 TNT 到 DeX，原生开发正在迎来下一个十年](https://mp.weixin.qq.com/s/NxiPtv7bqbEIrt1zQ3rKNw)
++ [Android 内核引入 AutoFDO，你的 App "免费"变快了](https://mp.weixin.qq.com/s/FeoyeXk6kzCzfI10_rAi7w)
 
 # 相关文章
 

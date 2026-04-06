@@ -1055,6 +1055,7 @@
 + [python中的tkinter库的几个应用](https://mp.weixin.qq.com/s/r6u-eS8SFLEIuFikM_pLVg)
 + [99% 的 Python 开发者都不知道的 gzip 高级用法](https://mp.weixin.qq.com/s/gDv3EUXOCc6cDZ19xso7Dw)
 + [一文搞懂 Python 的 json 模块：从入门到精通](https://mp.weixin.qq.com/s/AuUjKff1C4dNyj1r3w_Jhg)
++ [Python：Scapy 网络交互与安全的工具库](https://mp.weixin.qq.com/s/bkp3MmM3ZcPkJ-Qjpq1AJQ)
 
 ### Pandas
 

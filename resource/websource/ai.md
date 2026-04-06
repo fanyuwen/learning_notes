@@ -63,6 +63,7 @@
 + [从登Nature到Science：Transformer如何成为基础科学的“万能钥匙”？](https://mp.weixin.qq.com/s/FVf-WbSVRNdMZ84xwHmFMw)
 + [OpenClaw到底能干嘛？30个落地案例，看完直接用](https://mp.weixin.qq.com/s/mIKoynY2rPRK2L9KVUly8A)
 + [Claude Code 源码泄露：拆解 Claude Code 源码后，我发现它更像一个“AI 操作系统”](https://mp.weixin.qq.com/s/4egDOiAlNA_5X43j5bUp4w)
++ [推荐 6 个爆火的神级 Skills，400K+ 点赞！Vibe Coding 必备！！](https://mp.weixin.qq.com/s/55YhKrMAHsbrAgf4P2ezRA)
 
 ## 资讯
 
@@ -88,6 +89,7 @@
 + [OpenClaw重大升级遇挫，激进重构致用户全线报错，开发者回应：为了抵御频繁的网络攻击，限流规则设置得过于严格，后续会调整限流策略](https://mp.weixin.qq.com/s/DE3Xfx-FW_SPi41lDheNbg)
 + [以天为单位革新的 AI 圈，Harness 早已不算什么新词](https://my.oschina.net/u/4487475/blog/19431001)
 + [解构 MCP 的伪需求与 CLI 的真价值](https://my.oschina.net/IDP/blog/19455009)
++ [全网最省流：Claude Code Mac 一步到位实操指南](https://mp.weixin.qq.com/s/9h-c4w0vseHIfwah1eZTUw)
 
 ## LangChain
 
@@ -106,6 +108,9 @@
 + [Gemini 3 Deep Think 84.6% 砸穿 ARC-AGI-2：我们真的跨过“智能门槛”了吗？](https://mp.weixin.qq.com/s/mOVkUm8zE_T8V7EAwacoUA)
 + [从 IDE 到 Terminal：适合后端宝宝体质的 Claude Code 工作流｜得物技术](https://my.oschina.net/u/5783135/blog/19216912)
 + [2026 程序员终端必装：7 个 AI CLI 工具，让命令行变成“智能驾驶舱”](https://mp.weixin.qq.com/s/sQ35rta7DVhjFFbHmVbpCg)
++ [2026 年最值得尝试的 6 个 AI 工具：不是噱头，是实用](https://mp.weixin.qq.com/s/dD3Z-uZjjqSFCdKf7LW5jQ)
++ [2026 年最让我上头的 6 个 AI 工具，效率直接拉满](https://mp.weixin.qq.com/s/dfulf49jSpcyxDc2nNmj1Q)
++ [用这个 Skill，直接一句话生成手绘架构图，省时省力～](https://mp.weixin.qq.com/s/MrF_yDUOc84KjelZdU6RIQ)
 
 # 计算机视觉
 

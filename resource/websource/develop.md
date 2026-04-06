@@ -573,6 +573,7 @@
 + [六大缓存（Caching）策略揭秘：延迟与复杂性的完美平衡](https://my.oschina.net/powertoolsteam/blog/18688830)
 + [Java 缓存雪崩：高并发下的“集体跳楼”如何避免？](https://mp.weixin.qq.com/s/t5BRaHTvmLv1RBend5P8AQ)
 + [如何设计多级缓存架构并解决数据一致性问题？](https://mp.weixin.qq.com/s/CKFru_R1cJ24lEtQ6AWpBA)
++ [得物二面：什么是缓存击穿、缓存穿透、缓存雪崩？（修订版）](https://mp.weixin.qq.com/s/x-TF2y6GpBpHW56dNCf3tQ)
 
 ## 优化
 
@@ -639,6 +640,7 @@
 + [AES加密及填充模式都有哪些？](https://mp.weixin.qq.com/s/8GtLrZ4IGlzdwKAh6pa0fA)
 + [揭秘网络通信中的加密技术](https://mp.weixin.qq.com/s/hfmK99C4Yfo3BSVyBThLsQ)
 + [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/sTcizm2HPrhTM6LUD4adWQ)
++ [面试官：对称加密和非对称加密有什么区别？](https://mp.weixin.qq.com/s/TpixgsjKKa57vnQVq0ypfQ)
 
 ### 鉴权
 
@@ -652,6 +654,7 @@
 + [JWT 在浏览器中的存储策略](https://mp.weixin.qq.com/s/T5tBKz8GnOzxnYXCnr-1vg)
 + [分布式系统的两种认证方式：Session和Token](https://mp.weixin.qq.com/s/-GiFMOXDcwmwQMtFMLFpIQ)
 + [JWT原理与应用](https://mp.weixin.qq.com/s/vocRSUFL80948Iat8T-dxw)
++ [危险！请马上停止使用JWT！！！](https://mp.weixin.qq.com/s/Dc1nTHmWWoNg1c_-5fBT4w)
 
 ## 存储
 

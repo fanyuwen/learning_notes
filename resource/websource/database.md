@@ -117,6 +117,7 @@
 + [就写了个 insert into select，居然被开了](https://mp.weixin.qq.com/s/8KffChUI65hBzxi46gI6LQ)
 + [SQLParser 解析器分层改造](https://my.oschina.net/u/3869098/blog/19148174)
 + [加了 LIMIT 1，为什么查询反而变慢了？](https://mp.weixin.qq.com/s/g2hCcylTITLVlOEr9I2m9w)
++ [10 个进阶 SQL 技巧，懂一半就能让 MySQL 性能起飞](https://mp.weixin.qq.com/s/ghKJMPUHHFSWCIK8ouffWg)
 
 # 本地数据库
 
@@ -491,6 +492,7 @@
 + [面试官：MySQL 分区表和分表有什么区别？分别适合什么场景？](https://mp.weixin.qq.com/s/PMJl2b4K85Tr9lZ1bFZSxA)
 + [MySQL时间类型对比：别再用错DATE、DATETIME和TIMESTAMP了！](https://mp.weixin.qq.com/s/V7lgBedDOVAO-1BDAMgYLw)
 + [腾讯二面：binlog、redolog 和 undolog 三大日志的区别？](https://mp.weixin.qq.com/s/iJfdlWk002SYGf3Mag1a0A)
++ [阿里二面：什么是 MySQL 回表查询？如何避免？（修订版）](https://mp.weixin.qq.com/s/BHUtBppCvgKHOyOhQu5BaQ)
 
 #### 存储引擎
 
@@ -1006,6 +1008,8 @@
 + [Redis 平替，SpringBoot 集成 Dragonfly，性能暴涨](https://mp.weixin.qq.com/s/GLQKS1j6tg3gJvafmd_y6Q)
 + [Redis 8.0~8.4 重要更新，新特性很强！](https://mp.weixin.qq.com/s/dq2STuURAlu86cgXhvM9WA)
 + [Redis 自动化运维最佳实践｜得物技术](https://my.oschina.net/u/5783135/blog/19445068)
++ [Redis 只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/WUui7m5AuQpsuBENpaT0HQ)
++ [滴滴二面：怎么解决 Redis 缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/UrK0fQW2xTGJHEwqtHbRhA)
 
 #### 原理
 
@@ -1142,6 +1146,7 @@
 + [MongoDB在AI和大数据中的应用](https://mp.weixin.qq.com/s/znaTV_gGVE0aoEOGSQbe-w)
 + [深入浅出MongoDB：Spring Boot集成MongoDB实战指南](https://mp.weixin.qq.com/s/SdiAQlN34IwMeNaWbZfDnw)
 + [MongoDB 数据库 ORM/ODM 新工具](https://my.oschina.net/ta8210/blog/18925396)
++ [14TB 之后我们才承认：MongoDB 不是“灵活”，是昂贵](https://mp.weixin.qq.com/s/T9Gc6O5IsH0JuS46AJEMcA)
 
 ### keyDB
 

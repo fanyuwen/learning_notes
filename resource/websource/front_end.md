@@ -467,3 +467,4 @@
 + [2026 了，盘点下那些“死掉”的技术栈 ...](https://mp.weixin.qq.com/s/vL7ZuYaMD7SIYX8zK0YDvA)
 + [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/XkID888WEW5cmL8ChRukJQ)
 + [Web 新 API cookieStore 值得用吗？](https://my.oschina.net/linsk1998/blog/19210027)
++ [前端代码规范- Commit 提交规范](https://mp.weixin.qq.com/s/Gl7Pr3Nsih_CVBm3gr592A)

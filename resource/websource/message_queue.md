@@ -50,6 +50,7 @@
 + [队列积压比上班早高峰还可怕？看这篇文章就够了！](https://mp.weixin.qq.com/s/hsOXuVVAlvQv4cN2_XcT7w)
 + [MQ 消息乱序问题解析与实战解决方案](https://my.oschina.net/u/4090830/blog/18910644)
 + [悠悠有品：RocketMQ 稳扛核心交易，Kafka 驱动海量数据，支撑高并发游戏饰品交易平台](https://my.oschina.net/u/3874284/blog/19370736)
++ [滴滴二面：你项目为什么选择 RocketMQ，而不是 Kafka? 我：支支吾吾....](https://mp.weixin.qq.com/s/uVLV9h-C2MpK3jpJUMHDRw)
 
 # KAFKA
 

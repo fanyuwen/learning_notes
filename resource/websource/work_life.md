@@ -491,6 +491,7 @@
 + [欧洲的编程语言三巨头，只剩下一位了！](https://mp.weixin.qq.com/s/s4dbAPtidlDFRyzGCI1U8w)
 + [失恋以后，他发明了一门超越C的编程语言！](https://mp.weixin.qq.com/s/laO9QkxhecQRzB4MBcmCuw)
 + [冯诺伊曼1947年已预测到数学统治力](https://mp.weixin.qq.com/s/6FlUN-oVbRbygaDnIkkPmw)
++ [硬撑15年、仅1台服务器、8GB内存：他用一堆“淘汰” 技术，让50+万人敲下人生第一条Linux命令！](https://mp.weixin.qq.com/s/Z0jHGFVjzf36SA8XS4IMew)
 
 ## 创业
 

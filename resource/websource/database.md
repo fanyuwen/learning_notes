@@ -232,6 +232,7 @@
 ### MYSQL
 
 + [快速入门-MySQL](https://mp.weixin.qq.com/s/uqDEEENiv9zRNaGfWRCcuQ)
++ [牛掰，MySQL官方支持读写分离了！](https://mp.weixin.qq.com/s/Lc9gv1_lte53_rZeZElj-Q)
 + [MySQL 9.6.0 创新版正式发布](https://www.oschina.net/news/398315)
 + [一则 MySQL 从节点 hung 死问题分析](https://my.oschina.net/actiontechoss/blog/11051051)
 + [初学者也能掌握的MySQL Explain技巧](https://mp.weixin.qq.com/s/SqfeXQmy9NCUYhX8mAZkxA)
@@ -1010,6 +1011,7 @@
 + [Redis 自动化运维最佳实践｜得物技术](https://my.oschina.net/u/5783135/blog/19445068)
 + [Redis 只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/WUui7m5AuQpsuBENpaT0HQ)
 + [滴滴二面：怎么解决 Redis 缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/UrK0fQW2xTGJHEwqtHbRhA)
++ [百度面试官：Redis 内存满了怎么办？你有想过吗？](https://mp.weixin.qq.com/s/y4Xk9ApcEPqC9xSf09eZag)
 
 #### 原理
 

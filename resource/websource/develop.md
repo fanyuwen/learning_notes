@@ -101,6 +101,7 @@
 + [高级进阶：复杂业务系统的通用架构设计](https://mp.weixin.qq.com/s/1Her35tEmwTvmM8p6TCgvg)
 + [系统设计30个核心技能，每一个开发者都必须掌握](https://mp.weixin.qq.com/s/kUzs9b9Vcl-b38usJQ9CkA)
 + [一次“优雅重构”，把 CPU 从 35% 拉到 92%：我们终于看清了干净架构的代价](https://mp.weixin.qq.com/s/5sHRjFrryMedeuIrbd_tJA)
++ [如何画出一张优秀的架构图？（老鸟必备）](https://mp.weixin.qq.com/s/zC_XaOOufXxa6omFZXErwQ)
 
 ### DDD
 
@@ -461,6 +462,7 @@
 + [幂等性设计--构建可靠分布式系统的核心原则](https://mp.weixin.qq.com/s/ztiXt7YJNHrlCVnz2OkXRg)
 + [被架构师怼了三次，小明终于懂了接口幂等设计](https://mp.weixin.qq.com/s/mJTGhSXORkUB7MhGOkbhcg)
 + [如何秒级实现接口间 “幂等” 补偿：一款轻量级仿幂等数据校正处理辅助工具](https://my.oschina.net/u/4090830/blog/18691875)
++ [别再只会重试接口！分布式系统防重复的终极答案：幂等性设计实战指南](https://mp.weixin.qq.com/s/O9XpHEB15U3LOlGOhkm0UQ)
 
 ### 负载&限流
 

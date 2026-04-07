@@ -320,6 +320,7 @@
 + [JDK 26 新特性：UUID 终于可以按时间排序了！](https://mp.weixin.qq.com/s/SFVJ0WJS3LHcoMfN4JGJkQ)
 + [Amber 下一个新特性曝光：Java 将迎来命令式模式匹配](https://mp.weixin.qq.com/s/bKE0QvLQklINVGYRLkJPsQ)
 + [别再只会用 Java 8！Java 26 深度解析：HTTP/3、Structured Concurrency 全面爆发！](https://mp.weixin.qq.com/s/zJwYxLHzGHAw4wNOdXcCTw)
++ [ThreadLocal 再见！新一代 ScopedValue 彻底封神](https://mp.weixin.qq.com/s/CBvup-YCWSOCr5ge0S_BxQ)
 
 ## 高级用法
 
@@ -4653,6 +4654,7 @@
 + [优雅！Spring Boot 策略模式 + 工厂模式完美应用【多端登录】](https://mp.weixin.qq.com/s/UTJI4TbUsOgPzmfoUjCPmA)
 + [太优雅了！Spring Boot + 责任链，轻松实现动态流程处理](https://mp.weixin.qq.com/s/3AeR_Qn491vG9lT72c9SXQ)
 + [写了 10 年代码才顿悟：Spring Boot + 装饰器模式，才是优雅扩展的终极解法](https://mp.weixin.qq.com/s/9Zb0KXIcS3uWsOtKKnXPJw)
++ [写了 10 年代码才顿悟：Spring Boot + 装饰器模式，才是优雅扩展的终极解法](https://mp.weixin.qq.com/s/wJYKMSRtFrYaMCs3Ppi2wg)
 
 #### message
 
@@ -4952,6 +4954,8 @@
 + [太顶了！Spring Boot + Milvus 相似性搜索效率提升 10 倍](https://mp.weixin.qq.com/s/Thw5K6lMvSc3uov9gDsaOQ)
 + [Spring Boot + Selenium 一键生成PDF / 自动化操作](https://mp.weixin.qq.com/s/kOIa4U6rcdqQzb8924tc7A)
 + [告别重复代码！Unirest 开源库，一行实现优雅 API 调用](https://mp.weixin.qq.com/s/TLctUIEqxiOrnaWhYfLcQg)
++ [SpringBoot3.x和OCR构建车牌识别系统](https://mp.weixin.qq.com/s/VkTEXX-u55Z-prjCTN2ZSQ)
++ [CentOS中 Nginx + Spring Boot + FreeSSL.cn：免费HTTPS证书自动续期实战](https://mp.weixin.qq.com/s/lGg3ArPyHfMDpoIVmIGF5Q)
 
 ##### excel
 
@@ -5279,6 +5283,7 @@
 + [改完代码1秒生效，Compose热重载来了！](https://mp.weixin.qq.com/s/eozHbirAEJpagmA0NHbxpg)
 + [Android 桌面端深度解析：从 TNT 到 DeX，原生开发正在迎来下一个十年](https://mp.weixin.qq.com/s/NxiPtv7bqbEIrt1zQ3rKNw)
 + [Android 内核引入 AutoFDO，你的 App "免费"变快了](https://mp.weixin.qq.com/s/FeoyeXk6kzCzfI10_rAi7w)
++ [Google 藏大招！AndroidX 悄悄上线 Remote Compose：服务端直接下发原生 UI，再也不用发版了](https://mp.weixin.qq.com/s/cChnHus8VqGnDwmqAY-aOw)
 
 # 相关文章
 
@@ -5296,6 +5301,7 @@
 + [大文件分片上传，就是这么简单！](https://mp.weixin.qq.com/s/ciPdXFscOg0E25MdV6vQAw)
 + [Java高级后端工程师知识范畴](https://mp.weixin.qq.com/s/59zPr-1Z69B7Y3nb9X6Pyg)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-eUBxkzlls_a1_kDf3oTg)
++ [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/bmbXfWJ0EvqXyKrCrDza7w)
 + [谈谈 Spring 的替代方案](https://mp.weixin.qq.com/s/nmMDW7dZDhisNCupWQttfA)
 + [浅谈5款Java微服务开发框架](https://mp.weixin.qq.com/s/CRoa_eJ2SmOnql_Tqgdcig)
 + [从夯到拉，锐评13个 Java Web 框架！](https://mp.weixin.qq.com/s/Cz0chqLhICpgDGqhO94YTQ)

@@ -90,6 +90,9 @@
 + [以天为单位革新的 AI 圈，Harness 早已不算什么新词](https://my.oschina.net/u/4487475/blog/19431001)
 + [解构 MCP 的伪需求与 CLI 的真价值](https://my.oschina.net/IDP/blog/19455009)
 + [全网最省流：Claude Code Mac 一步到位实操指南](https://mp.weixin.qq.com/s/9h-c4w0vseHIfwah1eZTUw)
++ [周六在家也能改 Bug：Claude Code 这次摊牌了](https://mp.weixin.qq.com/s/BfQN4cyDR4lGLcE_KpajMw)
++ [刚刚，Claude Code开源了！51万行代码，全网狂欢](https://mp.weixin.qq.com/s/L54gQVzWQAvt2lhlwm9XDQ)
++ [Claude Code源码泄露7小时：8大新功能/26个隐藏指令/6级安全架构，全被扒光了](https://mp.weixin.qq.com/s/fyIO8m6yjVC8GYX_SMsY6A)
 
 ## LangChain
 

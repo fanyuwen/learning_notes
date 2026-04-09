@@ -96,6 +96,7 @@
 + [黄仁勋演讲 3 小时，几乎覆盖 AI 产业所有关键方向](https://www.oschina.net/news/411245)
 + [为什么 AI 巨头们放弃私有壁垒，争相拥抱 Agent Skills](https://my.oschina.net/IDP/blog/19209853)
 + [这个年轻的开源项目，想让每个人都能拥有自己的专业级 AI 智能体](https://my.oschina.net/HelloGitHub/blog/19208406)
++ [BitTorrent 创始人炮轰 Claude 团队：Vibe Coding 已走火入魔](https://www.oschina.net/news/418700)
 
 ## LangChain
 

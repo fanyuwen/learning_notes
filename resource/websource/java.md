@@ -2442,6 +2442,7 @@
 + [公司新来一个干练小伙，把 MyBatis 替换成 MyBatis-Plus，上线后被组长怒怼了...](https://mp.weixin.qq.com/s/2gfKjRhbcKkkFqHK2lje2Q)
 + [MyBatis-Plus 天花板教程，还有谁不会？！](https://mp.weixin.qq.com/s/szW-zotnjW5byWqYVdMy-Q)
 + [MyBatis-Plus里update和updateById的坑，90%的人都搞混了](https://mp.weixin.qq.com/s/glR5TcrkJJf9eyOL2YbdnA)
++ [xbatis 与 mybatis-plus 对比，两者均为 mybatis 扩展的 ORM 框架](https://www.oschina.net/news/406850)
 
 ## nacos
 

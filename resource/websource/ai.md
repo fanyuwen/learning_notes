@@ -94,6 +94,7 @@
 + [刚刚，Claude Code开源了！51万行代码，全网狂欢](https://mp.weixin.qq.com/s/L54gQVzWQAvt2lhlwm9XDQ)
 + [Claude Code源码泄露7小时：8大新功能/26个隐藏指令/6级安全架构，全被扒光了](https://mp.weixin.qq.com/s/fyIO8m6yjVC8GYX_SMsY6A)
 + [黄仁勋演讲 3 小时，几乎覆盖 AI 产业所有关键方向](https://www.oschina.net/news/411245)
++ [为什么 AI 巨头们放弃私有壁垒，争相拥抱 Agent Skills](https://my.oschina.net/IDP/blog/19209853)
 
 ## LangChain
 

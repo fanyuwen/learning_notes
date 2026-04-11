@@ -322,6 +322,8 @@
 + [一款被低估的插件：IDEA+JProfiler=性能分析神器](https://mp.weixin.qq.com/s/Wklsp-id496JOovSipGM3g)
 + [Putty 已死？2026 年最值得尝试的 5 款终端客户端](https://mp.weixin.qq.com/s/eutA7aZoznZ3Naqsf7pMUw)
 + [免费投屏神器Deskreen](https://mp.weixin.qq.com/s/gUaXnTk4lm_ozg_ajjOg_A)
++ [一个有趣的拼音神器：pinyin-match](https://mp.weixin.qq.com/s/S0e_hicUfjiSgFO5r9dZQg)
++ [2026 年了还在用老命令？这 5 个终端神器让你效率翻倍](https://mp.weixin.qq.com/s/abSv0djhVhGf-7po6Xtekg)
 
 ## 开源资源
 

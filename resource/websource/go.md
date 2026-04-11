@@ -268,6 +268,7 @@
 + [别再写 if err != nil { return err } 了：Go 错误链真正的打开方式](https://mp.weixin.qq.com/s/VIvNITJ2-dYBc2_a-UqPhA)
 + [Channels 不是架构：一次 Go 并发设计的惨痛教训](https://mp.weixin.qq.com/s/lA1PlRirQCLD6dE32MAd_g)
 + [还在满地 if err != nil？你的 Go 服务不是难维护，是错误处理早就失控了](https://mp.weixin.qq.com/s/qkEgjrqy2xvUJEZnfSlMbg)
++ [一个工具解决枚举、JSON、校验：stringer 的隐藏玩法太猛了](https://mp.weixin.qq.com/s/rnwGoY51_oDO7OcQ6sV2zw)
 
 # 面试题
 

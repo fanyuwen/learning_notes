@@ -102,3 +102,4 @@
 + [Compose Multiplatform 1.9.0 正式发布：CMP for Web 进入 Beta 阶段](https://mp.weixin.qq.com/s/IJM08Fe4uGvXcja2v9p9mA)
 + [Koin Annotations 2.2: 迄今为止最易于迁移的版本｜社区分享](https://mp.weixin.qq.com/s/cSsyK9UfIvK28jINIO2avQ)
 + [Kotlin 2.4.0 正式发布，快来看看有哪些更新](https://mp.weixin.qq.com/s/IYk8aHkklqRCG12fgPqiyg)
++ [Compose Multiplatform 1.10 发布：里程碑式更新！](https://mp.weixin.qq.com/s/zO0DUPGSxZKwroOjcq1vvg)

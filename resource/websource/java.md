@@ -1001,6 +1001,7 @@
 + [菜B进！你最容易犯错的：“多线程并发问题”](https://mp.weixin.qq.com/s/Z-K7QPRkUYiTdS341ICFAA)
 + [Java 并发核心：CountDownLatch、CyclicBarrier、Semaphore 原理吃透 + 生产级实战](https://mp.weixin.qq.com/s/_fDwGw_v09AOCqX6Q3_EiQ)
 + [写了3年代码才懂：并发与并行、进程与线程，Java线程安全原来这么简单）](https://mp.weixin.qq.com/s/hO1LMrAs2T9EsqBJbO7OQw)
++ [阿里面试官：并发和并行的区别是什么？这都说不清楚吗？](https://mp.weixin.qq.com/s/qXg28gMMeh18QKAo9d645w)
 
 #### CAS
 
@@ -3229,6 +3230,7 @@
 + [JAVA：Spring Boot3 集成 Spring AI 实现智能聊天](https://mp.weixin.qq.com/s/Hj0bEad79LCfuEX1XmC3hw)
 + [开源项目｜阿里开源了一个顶级AI项目！](https://mp.weixin.qq.com/s/XVYhk1QnfUaXoEe9jlvDLg)
 + [别再只会调 API：Java 开发者的 AI 框架全景指南（2026 最新版）](https://mp.weixin.qq.com/s/MmiP40lJu-wi2OvRc-7DXQ)
++ [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/CPpl8g9mv3NwQ3w_jNMtMA)
 
 ### cloud
 
@@ -5550,3 +5552,4 @@
 + [2025 美团技术团队热门技术文章汇总](https://my.oschina.net/meituantech/blog/19107757)
 + [拒绝加班！我是如何用 Claude 把 Java 日常开发效率提升 300% 的？（附保姆级 Prompt）》](https://mp.weixin.qq.com/s/qNPPeW9aeowN7-hGaZAPmw)
 + [写了多年 Spring Boot，我才发现 Go 根本不是“另一种 Java”](https://mp.weixin.qq.com/s/Oq-QPBYV5GwppKOMKaASGg)
++ [阿里又开源了一个顶级Java项目！](https://mp.weixin.qq.com/s/cyV1zzEXunFi7Kxt9NTS1g)

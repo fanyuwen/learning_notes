@@ -61,6 +61,8 @@
 + [我用 Go 重写了一个 OpenClaw 框架：这就是 GoClaw](https://my.oschina.net/u/4939618/blog/19442058)
 + [8年、915条评论，Go终于要有“Lambda”了？程序员吵翻的语法之战](https://mp.weixin.qq.com/s/SMpZDAYAa5Y5K5YeimUU7A)
 + [学会 goroutine 还不够：真正拉开 Go 水平差距的，是这 6 个生产级模式](https://mp.weixin.qq.com/s/ybovt1htQ78GyGX5XyKOVQ)
++ [dig、wire、fx 用了一圈，我还是回到了手写依赖注入：因为 Go 根本不需要“魔法”](https://mp.weixin.qq.com/s/6u4UZlRSXRjRaJ2VT6ktRg)
++ [微服务、API、事件驱动全能打：Go 做 Serverless 到底强在哪？](https://mp.weixin.qq.com/s/tutZArg8qPeBFshAlVVt9A)
 
 # 库
 
@@ -265,6 +267,7 @@
 + [Go 写到瓶颈期？这 7 个“老鸟级”特性才是质变关键](https://mp.weixin.qq.com/s/-MEb5CuuA7uta47yzgckqQ)
 + [别再写 if err != nil { return err } 了：Go 错误链真正的打开方式](https://mp.weixin.qq.com/s/VIvNITJ2-dYBc2_a-UqPhA)
 + [Channels 不是架构：一次 Go 并发设计的惨痛教训](https://mp.weixin.qq.com/s/lA1PlRirQCLD6dE32MAd_g)
++ [还在满地 if err != nil？你的 Go 服务不是难维护，是错误处理早就失控了](https://mp.weixin.qq.com/s/qkEgjrqy2xvUJEZnfSlMbg)
 
 # 面试题
 

@@ -1000,6 +1000,7 @@
 + [告别线程池瓶颈！Java Virtual Threads 如何让单机轻松处理 10 万请求？](https://mp.weixin.qq.com/s/J57c5oGZK3AK2PejHAUcmQ)
 + [菜B进！你最容易犯错的：“多线程并发问题”](https://mp.weixin.qq.com/s/Z-K7QPRkUYiTdS341ICFAA)
 + [Java 并发核心：CountDownLatch、CyclicBarrier、Semaphore 原理吃透 + 生产级实战](https://mp.weixin.qq.com/s/_fDwGw_v09AOCqX6Q3_EiQ)
++ [写了3年代码才懂：并发与并行、进程与线程，Java线程安全原来这么简单）](https://mp.weixin.qq.com/s/hO1LMrAs2T9EsqBJbO7OQw)
 
 #### CAS
 
@@ -1781,6 +1782,7 @@
 + [并发江湖的终极武器：CompletableFuture 中篇](https://mp.weixin.qq.com/s/15RQ2jEtNB_V5EfHr2-9cA)
 + [CompletableFuture 在高并发导出场景中的优化实践](https://mp.weixin.qq.com/s/9UK-tv4ZVenPObBsv_ejvg)
 + [30+个 CompletableFuture 高频场景案例，让你的系统性能飙升300%](https://mp.weixin.qq.com/s/04yhF4DqamdbnKPTQf8M_g)
++ [CompletableFuture 异步关于异常的坑](https://mp.weixin.qq.com/s/9X8LzZ9Il8SsKjs-eM7gnQ)
 
 ### ThreadPool
 
@@ -2193,6 +2195,7 @@
 + [Dubbo原理—13.集群之负载均衡和容错](https://mp.weixin.qq.com/s/A8UrWuw2TyBNkyhkXy5TNQ)
 + [【架构设计】从Dubbo源码中学习设计模式](https://mp.weixin.qq.com/s/8VjF_0mT4PXKuC8dlJGxBw)
 + [vivo 微服务架构实践之 Dubbo 性能优化](https://my.oschina.net/vivotech/blog/19203869)
++ [面试官：Dubbo 和 Feign 有什么区别？](https://mp.weixin.qq.com/s/h7CFjvgMJKerNe6DSwQaQQ)
 
 ## eureka
 
@@ -3556,6 +3559,7 @@
 + [接手 10 万行遗留代码？用 Claude 帮你快速拆解 Spring Boot 复杂业务](https://mp.weixin.qq.com/s/i9TwMbwBiQMNPaPEcV98Sw)
 + [告别冗余 DTO：5 种 Spring Boot 高效模式彻底取代样板代码](https://mp.weixin.qq.com/s/UjhQzOoP4xZNjn5ayVPIVQ)
 + [2026 年 Spring Boot 开发者必须掌握的 10 个 Java 高阶能力](https://mp.weixin.qq.com/s/GOej158MZ1P0JnahezT4MA)
++ [Spring Boot 3 实战进阶：300 讲深度解锁高级技术开发](https://mp.weixin.qq.com/s/fY7C969QvR7rvQPJqphUuQ)
 
 ##### 原理
 
@@ -4189,6 +4193,7 @@
 + [别再只会用 Tomcat！Spring Boot 内嵌服务器全解析：Jetty、Undertow 谁才是性能王者？](https://mp.weixin.qq.com/s/KjfkGAx4LIxwXPvz5DRt0w)
 + [90% 的人都没用过！Spring Boot 被遗忘的请求参数绑定姿势](https://mp.weixin.qq.com/s/xcatzzD5QauKf4mnKAMMQg)
 + [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/-up8Ic0VEUV6HvxzZCEN9g)
++ [SpringBoot 接口加密解密，新姿势！](https://mp.weixin.qq.com/s/XYTLHkU83GwkRsHOT25NUQ)
 
 ##### 文件上传下载
 
@@ -4344,6 +4349,7 @@
 + [从2.5小时到4分25秒：我用SpringBatch让百万数据导入“飞“起来了！](https://mp.weixin.qq.com/s/yShnIcbVHtqzY_FYI_aQtQ)
 + [数据一上百万就卡死？Spring Boot 处理海量数据的 5 个高效方案，性能直接翻倍！](https://mp.weixin.qq.com/s/u9HUJ5okGvKxngx3j25Fhg)
 + [SpringBoot3实战：告别占位符，SQL可视化调试一步到位](https://mp.weixin.qq.com/s/pQlYx6zZ14D4yYf4I69SKg)
++ [从卡顿到丝滑：Spring Boot 接入 Redis 缓存的正确打开方式](https://mp.weixin.qq.com/s/7H3CeFcMFhDUtyYMqQybfA)
 
 ##### TRANSACTION
 
@@ -4957,6 +4963,11 @@
 + [告别重复代码！Unirest 开源库，一行实现优雅 API 调用](https://mp.weixin.qq.com/s/TLctUIEqxiOrnaWhYfLcQg)
 + [SpringBoot3.x和OCR构建车牌识别系统](https://mp.weixin.qq.com/s/VkTEXX-u55Z-prjCTN2ZSQ)
 + [CentOS中 Nginx + Spring Boot + FreeSSL.cn：免费HTTPS证书自动续期实战](https://mp.weixin.qq.com/s/lGg3ArPyHfMDpoIVmIGF5Q)
++ [不写代码！Zerocode 开源库搞定 REST/DB/ 性能测试](https://mp.weixin.qq.com/s/031GSZrDUayj56gNlYoWcQ)
++ [JAVA：Spring Boot3 集成 Spring AI + Ollama 本地模型](https://mp.weixin.qq.com/s/E1CKRNR6pj3TAqVIH3p5Rg)
++ [Spring Boot 3 整合 Fesod：Excel 导入导出实战，性能高、内存低，终于不用再怕 OOM 了](https://mp.weixin.qq.com/s/JB9wuZfCkQJ9aVdV4-PDSw)
++ [JAVA：Spring Boot3 集成 Spring AI 实现 Prompt 提示词工程](https://mp.weixin.qq.com/s/4wSJQe4hNzOJLvtOM4Opow)
++ [SpringReport + DeepSeek：AI 重构企业报表新范式](https://mp.weixin.qq.com/s/C2vHEBbtUnLu5MZMYp-dBQ)
 
 ##### excel
 
@@ -5285,6 +5296,7 @@
 + [Android 桌面端深度解析：从 TNT 到 DeX，原生开发正在迎来下一个十年](https://mp.weixin.qq.com/s/NxiPtv7bqbEIrt1zQ3rKNw)
 + [Android 内核引入 AutoFDO，你的 App "免费"变快了](https://mp.weixin.qq.com/s/FeoyeXk6kzCzfI10_rAi7w)
 + [Google 藏大招！AndroidX 悄悄上线 Remote Compose：服务端直接下发原生 UI，再也不用发版了](https://mp.weixin.qq.com/s/cChnHus8VqGnDwmqAY-aOw)
++ [Android Studio Panda 4 来了！AGP 9.2 升级，同步稳定性大幅修复](https://mp.weixin.qq.com/s/jJVDirSv_trQELJDEidiEw)
 
 # 相关文章
 

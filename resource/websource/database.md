@@ -1012,6 +1012,9 @@
 + [Redis 只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/WUui7m5AuQpsuBENpaT0HQ)
 + [滴滴二面：怎么解决 Redis 缓存和数据库的一致性问题？](https://mp.weixin.qq.com/s/UrK0fQW2xTGJHEwqtHbRhA)
 + [百度面试官：Redis 内存满了怎么办？你有想过吗？](https://mp.weixin.qq.com/s/y4Xk9ApcEPqC9xSf09eZag)
++ [得物二面：Redis 中某个 Key 访问量特别大怎么办？我：Redis 能顶得住...](https://mp.weixin.qq.com/s/bjR2J8u3ogsTbL80gCcy2g)
++ [华为面试官：Redis 挂了数据会丢失吗？如何保证数据不丢？我：缓存而已，丢了就丢了...](https://mp.weixin.qq.com/s/PTWX1J5e66HcLwp7wBAkmA)
++ [Redis只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/lrmKGN2AI3V80HX9bDfWrQ)
 
 #### 原理
 
@@ -1077,6 +1080,7 @@
 + [Redis 淘汰机制：内存告急时，数据是怎么 “被毕业” 的？](https://mp.weixin.qq.com/s/ZSaYiNrAbQfQMUctdKd6-g)
 + [滴滴二面：谈一下你对持久化机制AOF的理解](https://mp.weixin.qq.com/s/2iXlsEgEb0CtDdM25_5L0g)
 + [Redis 过期键删除策略及应用场景详解](https://mp.weixin.qq.com/s/TytZ9qyjpC7aCcSNF8aX3A)
++ [面试官：ZSet 的底层实现是什么？（修订版）](https://mp.weixin.qq.com/s/blyK0b2VKXYZfxA07pkhAw)
 
 #### 分布式锁
 

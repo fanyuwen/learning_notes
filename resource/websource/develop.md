@@ -644,6 +644,7 @@
 + [揭秘网络通信中的加密技术](https://mp.weixin.qq.com/s/hfmK99C4Yfo3BSVyBThLsQ)
 + [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/sTcizm2HPrhTM6LUD4adWQ)
 + [面试官：对称加密和非对称加密有什么区别？](https://mp.weixin.qq.com/s/TpixgsjKKa57vnQVq0ypfQ)
++ [一文吃透支付网关设计（多通道聚合 + 智能路由 + 商户入驻全流程）](https://mp.weixin.qq.com/s/T-H2ohWRFa6pa6Z1DuPYeA)
 
 ### 鉴权
 

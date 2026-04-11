@@ -389,6 +389,7 @@
 + [JetBrains 出了个 Java AI 框架，和 Spring AI 不是一个赛道](https://mp.weixin.qq.com/s/OOkKoMyCDyPu-Q2QD83nTg)
 + [JetBrains 推出全新开发工具：AI IDE AIR](https://mp.weixin.qq.com/s/_6eUaESCY7MTbF19HifDxQ?scene=334)
 + [IntelliJ IDEA 配置与插件全部迁移到其他盘，彻底释放C盘空间](https://mp.weixin.qq.com/s/XM-UrAmZYs3Sp0N_ra2aiw)
++ [横空出世！IDEA最强MyBatis插件来了，功能很全！](https://mp.weixin.qq.com/s/2vOLEqrAg56EoMdO5cUBRA)
 
 ## MAC_PRO相关
 
@@ -434,6 +435,8 @@
 + [云端风暴：网易云故障背后的危机管理与技术复盘](https://mp.weixin.qq.com/s/XY_O5rtABwlGHpsPBIYkVQ)
 + [Android 全力押注 Rust，Linux 却在原地踏步？谷歌：用 Rust 重写固件太简单了！](https://mp.weixin.qq.com/s/HCPNsVKGbmuSfD00S0cXxQ)
 + [2024 年 09 月编程语言排行榜｜C语言跌出前三，历史最低位，Python 创新高](https://mp.weixin.qq.com/s/DGDBOiRQdVksiqjmBPzEQg)
++ [刷屏的SBTI，底层算法有点东西…](https://mp.weixin.qq.com/s/w1YB6_R1GUCl_Q17oWYqMg)
++ [面试官皱眉：“没用过 Claude Code 也敢来？” 我不屑：“但我能写一个！”，他愣了：等等我记一下…](https://mp.weixin.qq.com/s/RECZV9zKvKK0rc1iPOjl8Q)
 
 ## 有用趣闻知识
 

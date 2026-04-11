@@ -434,6 +434,7 @@
 + [一个新的 HTML 元素：<permission>！](https://mp.weixin.qq.com/s/S16LsfaKNj8wukvT9xJX_w)
 + [前端开发中过度封装的现象与思考](https://mp.weixin.qq.com/s/Ts41CPRpa3xYvfLRC29u4Q)
 + [别再写一堆 if-else 了：用状态模式优雅管理状态行为](https://mp.weixin.qq.com/s/LLGSRg2YC0ZLHAZxL06rCQ)
++ [<img> 标签最强攻略：性能、SEO、可访问性一篇全懂](https://mp.weixin.qq.com/s/bAVqm65DujDeloFjCQ7zQQ)
 
 # 杂谈
 
@@ -468,3 +469,4 @@
 + [前端如何体系化性能优化？](https://mp.weixin.qq.com/s/XkID888WEW5cmL8ChRukJQ)
 + [Web 新 API cookieStore 值得用吗？](https://my.oschina.net/linsk1998/blog/19210027)
 + [前端代码规范- Commit 提交规范](https://mp.weixin.qq.com/s/Gl7Pr3Nsih_CVBm3gr592A)
++ [面试官：Teleport 是怎么实现的？为啥它能把组件“传送”走？](https://mp.weixin.qq.com/s/4nC9G22dMO-22tNGxRmXtA)

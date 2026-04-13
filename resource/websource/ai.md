@@ -64,6 +64,7 @@
 + [OpenClaw到底能干嘛？30个落地案例，看完直接用](https://mp.weixin.qq.com/s/mIKoynY2rPRK2L9KVUly8A)
 + [Claude Code 源码泄露：拆解 Claude Code 源码后，我发现它更像一个“AI 操作系统”](https://mp.weixin.qq.com/s/4egDOiAlNA_5X43j5bUp4w)
 + [推荐 6 个爆火的神级 Skills，400K+ 点赞！Vibe Coding 必备！！](https://mp.weixin.qq.com/s/55YhKrMAHsbrAgf4P2ezRA)
++ [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
 
 ## 资讯
 

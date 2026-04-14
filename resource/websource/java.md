@@ -3231,6 +3231,7 @@
 + [开源项目｜阿里开源了一个顶级AI项目！](https://mp.weixin.qq.com/s/XVYhk1QnfUaXoEe9jlvDLg)
 + [别再只会调 API：Java 开发者的 AI 框架全景指南（2026 最新版）](https://mp.weixin.qq.com/s/MmiP40lJu-wi2OvRc-7DXQ)
 + [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/CPpl8g9mv3NwQ3w_jNMtMA)
++ [Spring-AI 与 Solon-AI 深度对比分析报告](https://www.oschina.net/news/418355)
 
 ### cloud
 

@@ -221,6 +221,7 @@
 + [软件开发中存在的 996 陷阱](https://www.oschina.net/news/385926)
 + [年龄大的人学单片机，有多困难？](https://mp.weixin.qq.com/s/D9juq918gApzTRSdzazXgw)
 + [15 个程序员坏习惯清单：现在不改，迟早毁掉你的职业口碑](https://mp.weixin.qq.com/s/R8ESd-wIJj0nz1cLqe6abQ)
++ [这几年的折腾，一场 “多余” 的思想斗争](https://www.oschina.net/news/403921)
 
 ## 视频
 

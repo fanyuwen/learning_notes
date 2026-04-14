@@ -68,7 +68,7 @@
   + 开发 <font style='color:red'>*</font>[langchain](https://www.langchain.com/) [langchain4j](https://docs.langchain4j.dev/)
 
 ### JVM_FRAMEWORK
-+ 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/) [helidon](https://helidon.io/)
++ 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/) [helidon](https://helidon.io/) [dropwizard](https://www.dropwizard.io/)
 
 ### COMMUNICATION PROTOCOL
 + 支持Reactive Streams语义的二进制通讯协议 [rsocket](https://rsocket.io/)

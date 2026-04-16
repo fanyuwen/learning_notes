@@ -66,6 +66,7 @@
 + [推荐 6 个爆火的神级 Skills，400K+ 点赞！Vibe Coding 必备！！](https://mp.weixin.qq.com/s/55YhKrMAHsbrAgf4P2ezRA)
 + [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
 + [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
++ [立正请站好：一个组件复用 Skill 的工程化实践｜得物技术](https://my.oschina.net/u/5783135/blog/19575284)
 
 ## 资讯
 

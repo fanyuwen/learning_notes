@@ -102,6 +102,7 @@
 + [BitTorrent 创始人炮轰 Claude 团队：Vibe Coding 已走火入魔](https://www.oschina.net/news/418700)
 + [AI 最先冲击的职业 Top10：程序员排第一](https://mp.weixin.qq.com/s/COKE5ndKYYOmbEHY7XME7g)
 + [搞懂这 5 个 AI 术语，你将超越 90% 的人](https://mp.weixin.qq.com/s/D_nXhwwToa1NiaYTUxI_yg)
++ [Hermes Agent 与 OpenClaw：开源 AI 智能体的两种设计哲学](https://www.oschina.net/news/419024)
 
 ## LangChain
 

@@ -439,6 +439,7 @@
 + [\<img> 标签最强攻略：性能、SEO、可访问性一篇全懂](https://mp.weixin.qq.com/s/bAVqm65DujDeloFjCQ7zQQ)
 + [面试：前端如何应对数百万个 API 请求而不会导致系统崩溃](https://mp.weixin.qq.com/s/eglX6feCxU-n4pWRdf4OUQ)
 + [前端内存泄漏：你的JS代码在偷偷“吃”内存！](https://mp.weixin.qq.com/s/v_yC4jocB0KKsDjgqksK4g)
++ [做 DOCX 预览？这个神库别错过](https://mp.weixin.qq.com/s/dZeGc9XZk1n1wX7SkneO8A)
 
 # 杂谈
 
@@ -475,3 +476,4 @@
 + [前端代码规范- Commit 提交规范](https://mp.weixin.qq.com/s/Gl7Pr3Nsih_CVBm3gr592A)
 + [面试官：Teleport 是怎么实现的？为啥它能把组件“传送”走？](https://mp.weixin.qq.com/s/4nC9G22dMO-22tNGxRmXtA)
 + [让字距随字体自适应变化的 CSS 技巧](https://mp.weixin.qq.com/s/Ur5j7AOjQTTgz-6fUzfdMg)
++ [CSS view()：JavaScript 滚动动画的终结](https://mp.weixin.qq.com/s/hWMCSBDTG5K-vg1Z75GFug)

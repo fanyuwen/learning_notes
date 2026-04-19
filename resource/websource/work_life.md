@@ -394,6 +394,7 @@
 + [JetBrains 推出全新开发工具：AI IDE AIR](https://mp.weixin.qq.com/s/_6eUaESCY7MTbF19HifDxQ?scene=334)
 + [IntelliJ IDEA 配置与插件全部迁移到其他盘，彻底释放C盘空间](https://mp.weixin.qq.com/s/XM-UrAmZYs3Sp0N_ra2aiw)
 + [横空出世！IDEA最强MyBatis插件来了，功能很全！](https://mp.weixin.qq.com/s/2vOLEqrAg56EoMdO5cUBRA)
++ [告别手动画图！这款 IntelliJ 插件，能让 Java 方法自动生成 Mermaid 流程图](https://mp.weixin.qq.com/s/aE_Z1q2DxmycwysZyCTRtA)
 
 ## MAC_PRO相关
 

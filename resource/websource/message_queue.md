@@ -198,6 +198,7 @@
 + [面试官：RocketMQ 的消息是推模式，还是拉模式？](https://mp.weixin.qq.com/s/9TgLh9CmkRNRiayLmvvtpw)
 + [面试官：RocketMQ 消息堆积了怎么处理？](https://mp.weixin.qq.com/s/CpUM1HoOhTBi0MK9vwBLqg)
 + [面试官：RocketMQ 的架构是怎么样的？](https://mp.weixin.qq.com/s/UNtEMmRL9fjzg_UjOLgXrg)
++ [美团二面：生产环境 RocketMQ 消费延迟很高怎么办？我只答出加消费者...](https://mp.weixin.qq.com/s/hsjio9Fihgf2KZrMbD8Suw)
 
 # RABBITMQ
 

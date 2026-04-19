@@ -70,6 +70,8 @@
 + [架构图还在苦逼手绘？这个Skill太强了，自动生成架构图](https://mp.weixin.qq.com/s/cYJ7PLSV7xIFfmbkWn16PQ)
 + [40+ AI 核心术语图谱：一篇建立完整认知框架](https://mp.weixin.qq.com/s/cPrtajJv0OPMY7SVRPFnAw)
 + [掌握这5个AI核心术语，你已经碾压90%的人！](https://mp.weixin.qq.com/s/fuFHeEhFtvPhakwt_B9rRQ)
++ [20分钟吃透AI核心：这20个关键概念，直接拉开你和90%人的差距！](https://mp.weixin.qq.com/s/FX5FI10rADf0CyFRctgmHA)
++ [面试官皱眉：“你简历上写精通 AI 编程？” 我自信：“不就是 Vibe Coding？” 他没绷住笑：“就这？”](https://mp.weixin.qq.com/s/RPIg-7nLA1MPkIzfRGYMJQ)
 
 ## 资讯
 
@@ -106,6 +108,7 @@
 + [AI 最先冲击的职业 Top10：程序员排第一](https://mp.weixin.qq.com/s/COKE5ndKYYOmbEHY7XME7g)
 + [搞懂这 5 个 AI 术语，你将超越 90% 的人](https://mp.weixin.qq.com/s/D_nXhwwToa1NiaYTUxI_yg)
 + [Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？](https://mp.weixin.qq.com/s/xNHNcH5n4N8Lpyr4rDdhoA)
++ [最近AI圈爆火的Hermes到底是什么？](https://mp.weixin.qq.com/s/zfOeQLnkBfkI0jAWduLiGw)
 
 ## LangChain
 

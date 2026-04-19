@@ -2076,6 +2076,7 @@
 + [重磅！Maven 4 官宣：历时15年，Java构建工具迎来彻底重构](https://mp.weixin.qq.com/s/0niuLw0I57hNlA9kgRjTWw)
 + [重磅！Maven 4 官宣：历时15年，Java构建工具迎来彻底重构](https://mp.weixin.qq.com/s/iamoVjdaYo86rdq3a_BA4w)
 + [Maven4彻底重构：15年磨一剑，Java构建工具全面进化](https://mp.weixin.qq.com/s/TO4ULHMBu_c5Q3T4xGa4qQ)
++ [Maven 4 彻底重构：15年磨一剑，Java 构建工具全面进化](https://mp.weixin.qq.com/s/L_ZH7DlsTPHxvdpi0tuAug)
 
 # 功能
 
@@ -2236,6 +2237,7 @@
 ## hutool
 
 + [Hutool 的 EnumUtil 有多香？Java 枚举操作从此告别繁琐](https://mp.weixin.qq.com/s/QM7dZ05vrBfIkTAU7N7HHg)
++ [不要再封装各种Util工具类了，这个神级框架值得拥有！](https://mp.weixin.qq.com/s/8iAAPjVbRNHgqVAk9MUg3A)
 
 ## javafx
 
@@ -3244,6 +3246,7 @@
 + [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/CPpl8g9mv3NwQ3w_jNMtMA)
 + [Spring-AI 与 Solon-AI 深度对比分析报告](https://www.oschina.net/news/418355)
 + [JAVA：Spring Boot3 集成 Spring AI 实现结构化输出](https://mp.weixin.qq.com/s/Ika05wJVlE4qoLcpGe9x0w)
++ [JAVA：Spring Boot3 集成 Spring AI 实现 Advisor 增强机制](https://mp.weixin.qq.com/s/yB1hYBamMGn-_OsC0KWO3Q)
 
 ### cloud
 
@@ -3577,6 +3580,7 @@
 + [Spring Boot 3 实战进阶：300 讲深度解锁高级技术开发](https://mp.weixin.qq.com/s/fY7C969QvR7rvQPJqphUuQ)
 + [40 倍性能提升！Spring Boot 接口从 2s 优化到 50ms](https://mp.weixin.qq.com/s/_XZaYl3lLxrx-Uk5HaOeLw)
 + [强大的MethodReplacer接口！Spring Boot 运行时替换目标方法](https://mp.weixin.qq.com/s/bPf2ve_KWaBcUaQKzsb2HA)
++ [2026 年 Spring Boot 开发者必须掌握的 10 个 Java 高阶能力](https://mp.weixin.qq.com/s/IUjGOfpdedamB3ku302QWw)
 
 ##### 原理
 
@@ -4211,6 +4215,7 @@
 + [90% 的人都没用过！Spring Boot 被遗忘的请求参数绑定姿势](https://mp.weixin.qq.com/s/xcatzzD5QauKf4mnKAMMQg)
 + [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/-up8Ic0VEUV6HvxzZCEN9g)
 + [SpringBoot 接口加密解密，新姿势！](https://mp.weixin.qq.com/s/XYTLHkU83GwkRsHOT25NUQ)
++ [@RequestBody 不止读 JSON！这 7 种格式你肯定没用全](https://mp.weixin.qq.com/s/sK_a18S0sb362VvPj5Ntdg)
 
 ##### 文件上传下载
 
@@ -4630,6 +4635,7 @@
 + [SpringBoot整合新版Spring Security：Lambda表达式配置更优雅](https://mp.weixin.qq.com/s/ORer39dBmzcn0NrcCifiZA)
 + [SpringBoot整合新版Spring Security：Lambda表达式配置更优雅](https://mp.weixin.qq.com/s/oGRhPz14rkPs6gEbIZvS4g)
 + [SpringBoot 快速实现 api 加密，一个轮子搞定！](https://mp.weixin.qq.com/s/wsq_sSmzhDvpKcPdWAx69Q)
++ [不再裸奔！Spring Boot 新一代安全加密方案来了](https://mp.weixin.qq.com/s/8oTrqWNHx78Qg91ylBAOGQ)
 
 #### 设计模式
 
@@ -4989,6 +4995,8 @@
 + [JAVA：Spring Boot3 集成 Spring AI 实现 Prompt 提示词工程](https://mp.weixin.qq.com/s/4wSJQe4hNzOJLvtOM4Opow)
 + [SpringReport + DeepSeek：AI 重构企业报表新范式](https://mp.weixin.qq.com/s/C2vHEBbtUnLu5MZMYp-dBQ)
 + [最快的！Spring Boot + JStachio 高性能编译时模板引擎](https://mp.weixin.qq.com/s/teeA97Pk6u7HGCUXRPlYYg)
++ [Spring Boot 数据校验新选择：Apache BVal 强势替代默认实现](https://mp.weixin.qq.com/s/PQNOjDQCwtXo0beSAQi3-Q)
++ [从0到1打通 RAG Pipeline：Java + SpringBoot 实现企业级 GenAI 的关键一环！](https://mp.weixin.qq.com/s/pUqJD1lsD8fXsIqbxiixNA)
 
 ##### excel
 

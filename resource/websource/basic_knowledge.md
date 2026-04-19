@@ -45,6 +45,7 @@
 
 + [Centos7服务器防火墙设置教程](https://mp.weixin.qq.com/s/qHGyBZiSfNOj39QUJWuO9g)
 + [Linux性能剖析：CPU/内存/网络/I/O压力测试指南](https://mp.weixin.qq.com/s/EcCwou9yEdi2_wj0_JVqBw)
++ [强烈建议大家使用 Linux 做开发?](https://mp.weixin.qq.com/s/rIdLVXR6Au-BkGZ9sSNZOw)
 
 ### 实践
 

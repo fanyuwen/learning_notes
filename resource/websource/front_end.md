@@ -239,6 +239,8 @@
 + [你知道export与export type 的区别吗？](https://mp.weixin.qq.com/s/b6SPdMK-to24BKoeAIYKuw)
 + [前端开发人员应该知道的十大 JavaScript 对象方法](https://mp.weixin.qq.com/s/Ot6qzb-gqbG-5A4x-QoFoA)
 + [面试官：如果 100 个请求，你怎么用 Promise 去控制并发？](https://mp.weixin.qq.com/s/Lc7pjKUR0Pxu9P8DORbm6w)
++ [妙啊！Js的对象属性居然还能这么写](https://mp.weixin.qq.com/s/2CZGSdkfhc6pGoo5IZLcbw)
++ [async/await 到底要不要加 try catch？我来给你整明白！](https://mp.weixin.qq.com/s/_g7VWNqBkXRZsbw6JsUYOg)
 
 # 框架
 
@@ -434,7 +436,9 @@
 + [一个新的 HTML 元素：<permission>！](https://mp.weixin.qq.com/s/S16LsfaKNj8wukvT9xJX_w)
 + [前端开发中过度封装的现象与思考](https://mp.weixin.qq.com/s/Ts41CPRpa3xYvfLRC29u4Q)
 + [别再写一堆 if-else 了：用状态模式优雅管理状态行为](https://mp.weixin.qq.com/s/LLGSRg2YC0ZLHAZxL06rCQ)
-+ [<img> 标签最强攻略：性能、SEO、可访问性一篇全懂](https://mp.weixin.qq.com/s/bAVqm65DujDeloFjCQ7zQQ)
++ [\<img> 标签最强攻略：性能、SEO、可访问性一篇全懂](https://mp.weixin.qq.com/s/bAVqm65DujDeloFjCQ7zQQ)
++ [面试：前端如何应对数百万个 API 请求而不会导致系统崩溃](https://mp.weixin.qq.com/s/eglX6feCxU-n4pWRdf4OUQ)
++ [前端内存泄漏：你的JS代码在偷偷“吃”内存！](https://mp.weixin.qq.com/s/v_yC4jocB0KKsDjgqksK4g)
 
 # 杂谈
 
@@ -470,3 +474,4 @@
 + [Web 新 API cookieStore 值得用吗？](https://my.oschina.net/linsk1998/blog/19210027)
 + [前端代码规范- Commit 提交规范](https://mp.weixin.qq.com/s/Gl7Pr3Nsih_CVBm3gr592A)
 + [面试官：Teleport 是怎么实现的？为啥它能把组件“传送”走？](https://mp.weixin.qq.com/s/4nC9G22dMO-22tNGxRmXtA)
++ [让字距随字体自适应变化的 CSS 技巧](https://mp.weixin.qq.com/s/Ur5j7AOjQTTgz-6fUzfdMg)

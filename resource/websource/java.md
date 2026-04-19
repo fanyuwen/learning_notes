@@ -551,6 +551,7 @@
 + [函数式接口Function使用案例，绝对真实场景！](https://mp.weixin.qq.com/s/TQPAg8XcyrPdZLtaAkHVhQ)
 + [Java Lambda 表达式详解](https://mp.weixin.qq.com/s/fbs46ktF18OTsTkRtLsWjw)
 + [2026年你以为会写 Java 就够了？这 10 个底层认知，决定你天花板在哪](https://mp.weixin.qq.com/s/bBFbPhbYGpKGKyaknNCJVA)
++ [写不好 Lambda？这 4 个核心技巧，直接拉开你和普通 Java 程序员的差距（Java 25）](https://mp.weixin.qq.com/s/3NRAqQmcFjsm8kCgbkQ4vQ)
 
 ## 代码质量
 
@@ -1002,6 +1003,8 @@
 + [Java 并发核心：CountDownLatch、CyclicBarrier、Semaphore 原理吃透 + 生产级实战](https://mp.weixin.qq.com/s/_fDwGw_v09AOCqX6Q3_EiQ)
 + [写了3年代码才懂：并发与并行、进程与线程，Java线程安全原来这么简单）](https://mp.weixin.qq.com/s/hO1LMrAs2T9EsqBJbO7OQw)
 + [阿里面试官：并发和并行的区别是什么？这都说不清楚吗？](https://mp.weixin.qq.com/s/qXg28gMMeh18QKAo9d645w)
++ [拼多多二面：为什么有了线程，还需要协程？我：额，协程是啥...](https://mp.weixin.qq.com/s/rsA_8Kb3frrcXb32CPTgCg)
++ [面试官：线程池有几种创建方式？](https://mp.weixin.qq.com/s/9oGDr9IDMmyTEkAwnYEFDg)
 
 #### CAS
 
@@ -1695,6 +1698,7 @@
 + [面试官：HashMap、Hashtable 和 ConcurrentHashMap 的区别？](https://mp.weixin.qq.com/s/JCldQcpggJv80ZYPp_sAJQ)
 + [面试官：说说 HashMap 的扩容机制？如何扩容的？](https://mp.weixin.qq.com/s/lSkyjBxdlAoY-hIMEJ4xag)
 + [面试官：为什么在 Jdk 8 中 HashMap 要转成红黑树？](https://mp.weixin.qq.com/s/B7AZocL1pnyvmTBcllBtUQ)
++ [90% 程序员都会翻车的 HashMap 问题，你能答出来吗？](https://mp.weixin.qq.com/s/7pAU3oX4zFLpRjoIOBoSNQ)
 
 ### Optional
 
@@ -2071,6 +2075,7 @@
 + [再见 Maven！](https://mp.weixin.qq.com/s/aNKGh_tWnaOZz5BqAtD4Hg)
 + [重磅！Maven 4 官宣：历时15年，Java构建工具迎来彻底重构](https://mp.weixin.qq.com/s/0niuLw0I57hNlA9kgRjTWw)
 + [重磅！Maven 4 官宣：历时15年，Java构建工具迎来彻底重构](https://mp.weixin.qq.com/s/iamoVjdaYo86rdq3a_BA4w)
++ [Maven4彻底重构：15年磨一剑，Java构建工具全面进化](https://mp.weixin.qq.com/s/TO4ULHMBu_c5Q3T4xGa4qQ)
 
 # 功能
 
@@ -2282,6 +2287,7 @@
 + [logback多进程日志轮转混乱解决方案](https://mp.weixin.qq.com/s/J8FrMVDuvnohf-Zsng0lkA)
 + [我司使用了两年的高效日志打印工具，非常好用！](https://mp.weixin.qq.com/s/fr_WLWMJflBZ9ADUqnfr0Q)
 + [Logback、Log4j、SLF4J 、ELK、EFK、Loki 傻傻分不清楚？](https://mp.weixin.qq.com/s/WmYjICictcR10A4c_qw_VQ)
++ [程序员注意！为什么你还在用“烂日志”？结构化日志才是生产环境的救命稻草](https://mp.weixin.qq.com/s/wH1TsB2ugmAsbVqSziot7Q)
 
 ## lombok
 
@@ -2404,6 +2410,7 @@
 + [还在用分页？试试MyBatis流式查询，强的一批！](https://mp.weixin.qq.com/s/wNLBlEcMh4BeK9vLd31DIA)
 + [融合 JPA，MyBatis JPA Extra 3.4.4 发布](https://www.oschina.net/news/403599)
 + [告别 MyBatis IN 语句的 foreach 模板：自定义扩展 让 SQL 编写效率翻倍!](https://mp.weixin.qq.com/s/hbalp8bFYfh3Dk0dVZTiQg)
++ [面试官：为什么 MyBatis 的 Mapper 接口不需要写实现类？](https://mp.weixin.qq.com/s/VXMnjYDJsoT-qAY2UhTNzQ)
 
 ### plus
 
@@ -2544,6 +2551,7 @@
 + [feign的一个注解居然隐藏这么多知识！](https://mp.weixin.qq.com/s/3spyP5G4LGk5bqgFVdO6uA)
 + [服务调用者联盟！OpenFeign+LoadBalancer负载均衡源码解剖](https://mp.weixin.qq.com/s/M0Meb0BvUipTPoF4oh_9cg)
 + [OpenFeign远程调用](https://mp.weixin.qq.com/s/UfrWFaqHkE__qX-p9TAmIg)
++ [面试官：Feign 第一次调用为什么会很慢？大部分人答不上来！](https://mp.weixin.qq.com/s/YsK2d41Ki8NN3gpxcHmwgw)
 
 ## quarkus
 
@@ -2564,6 +2572,7 @@
 + [百万并发下的救赎：Spring响应式编程如何让我们的系统起死回生](https://mp.weixin.qq.com/s/bCaAw4opUESYRJ72yYVwpA)
 + [解锁Java响应式编程：Project Reactor全解析](https://mp.weixin.qq.com/s/lEhf6o20xmSLFvEAVdCdEQ)
 + [太强了！Spring Boot 响应式 Sink 强势来袭，数据流实时处理](https://mp.weixin.qq.com/s/22wGWCL3RljvW_20RLRwyQ)
++ [Spring WebFlux之转换操作符](https://mp.weixin.qq.com/s/TxldmB9yQcrnyaLxbe45bw)
 
 ## redisson
 
@@ -3106,6 +3115,7 @@
 + [多级缓存架构：新品咖啡上线引发的数据库压力风暴与高并发实战化解方案](https://mp.weixin.qq.com/s/1ulTGM4Oz6-24eTQv10o8w)
 + [Redis缓存三灾：穿透/击穿/雪崩全解析+Spring Boot实战避坑指南](https://mp.weixin.qq.com/s/Tc9htnqjl-_Tbl_Rl2mPig)
 + [性能提升100%！零改造，Spring Cache支持多级缓存](https://mp.weixin.qq.com/s/7n7MGyMzdXRYn7eEuBdN4g)
++ [90% 程序员只停留在 @Cacheable！真正拉开差距的，是这 4 种 Redis 架构思维](https://mp.weixin.qq.com/s/AcIxHyS9XtK3qGYLVVfWBA)
 
 ### EVENT
 
@@ -3191,6 +3201,7 @@
 + [Spring-Smart-DI 动态切换实现类，很不错！](https://mp.weixin.qq.com/s/LvdVMen9D20eNXfxjTL8Fg)
 + [Spring Integration 轻松实现服务间消息传递，真香！](https://mp.weixin.qq.com/s/pqCkXa5E9EGzhE7yyLaYqw)
 + [Java真的不难（八十七）Spring快速整合Mybatis（超详细案例）](https://mp.weixin.qq.com/s/ORv6zBvoXe5rQBoHXyfWuA)
++ [最强开源报表！SpringReport+AI：一站式企业报表与可视化平台](https://mp.weixin.qq.com/s/9Qj1DFNfBK7f0ex7kRF4Tg)
 
 ### tool
 
@@ -3232,6 +3243,7 @@
 + [别再只会调 API：Java 开发者的 AI 框架全景指南（2026 最新版）](https://mp.weixin.qq.com/s/MmiP40lJu-wi2OvRc-7DXQ)
 + [Spring AI Aliababa和AgentScope，哪个更好？](https://mp.weixin.qq.com/s/CPpl8g9mv3NwQ3w_jNMtMA)
 + [Spring-AI 与 Solon-AI 深度对比分析报告](https://www.oschina.net/news/418355)
++ [JAVA：Spring Boot3 集成 Spring AI 实现结构化输出](https://mp.weixin.qq.com/s/Ika05wJVlE4qoLcpGe9x0w)
 
 ### cloud
 
@@ -3563,6 +3575,8 @@
 + [告别冗余 DTO：5 种 Spring Boot 高效模式彻底取代样板代码](https://mp.weixin.qq.com/s/UjhQzOoP4xZNjn5ayVPIVQ)
 + [2026 年 Spring Boot 开发者必须掌握的 10 个 Java 高阶能力](https://mp.weixin.qq.com/s/GOej158MZ1P0JnahezT4MA)
 + [Spring Boot 3 实战进阶：300 讲深度解锁高级技术开发](https://mp.weixin.qq.com/s/fY7C969QvR7rvQPJqphUuQ)
++ [40 倍性能提升！Spring Boot 接口从 2s 优化到 50ms](https://mp.weixin.qq.com/s/_XZaYl3lLxrx-Uk5HaOeLw)
++ [强大的MethodReplacer接口！Spring Boot 运行时替换目标方法](https://mp.weixin.qq.com/s/bPf2ve_KWaBcUaQKzsb2HA)
 
 ##### 原理
 
@@ -4373,6 +4387,7 @@
 + [4 种经典方案，为 Spring Boot 事务与外部服务协同](https://mp.weixin.qq.com/s/sIAelPZ_4uUJ9D9uj6KaKA)
 + [Spring Boot 新增一强大的全局事务钩子](https://mp.weixin.qq.com/s/R5TVpWLTSRSMJ5NUw69HVg)
 + [Spring Boot中@Transactional注解的最佳实践详解](https://mp.weixin.qq.com/s/bIFqauvcNTzXxvVYo5EWhA)
++ [别再只会加事务了：用 Java 从 0 构建高并发抢票系统，彻底吃透死锁与隔离级别](https://mp.weixin.qq.com/s/SzKM_R2KuHNbBgFqJqm4Jg)
 
 ##### BIG DATA
 
@@ -4520,6 +4535,7 @@
 + [太强了！Spring Boot这样玩缓存，性能直接起飞](https://mp.weixin.qq.com/s/NPqJ3idN_aatQBtP9ItcMg)
 + [Java进阶手册（十七）SpringBoot的缓存支持与机制](https://mp.weixin.qq.com/s/eC_AFlwrnCZHM0K02Eu7Wg)
 + [Java进阶手册（九）SpringBoot中实现缓存与Session共享](https://mp.weixin.qq.com/s/gKvViDT_s46R3-vLRVQlPg)
++ [从卡顿到丝滑：Spring Boot 接入 Redis 缓存的正确打开方式](https://mp.weixin.qq.com/s/YOqUgUMNcTZCzJG0q7WR1A)
 
 #### AOP
 
@@ -4613,6 +4629,7 @@
 + [SpringBoot安全三板斧：整合JWT实现无状态认证](https://mp.weixin.qq.com/s/mQ4sr6uMywVPTzDKl0PZ9g)
 + [SpringBoot整合新版Spring Security：Lambda表达式配置更优雅](https://mp.weixin.qq.com/s/ORer39dBmzcn0NrcCifiZA)
 + [SpringBoot整合新版Spring Security：Lambda表达式配置更优雅](https://mp.weixin.qq.com/s/oGRhPz14rkPs6gEbIZvS4g)
++ [SpringBoot 快速实现 api 加密，一个轮子搞定！](https://mp.weixin.qq.com/s/wsq_sSmzhDvpKcPdWAx69Q)
 
 #### 设计模式
 
@@ -4971,6 +4988,7 @@
 + [Spring Boot 3 整合 Fesod：Excel 导入导出实战，性能高、内存低，终于不用再怕 OOM 了](https://mp.weixin.qq.com/s/JB9wuZfCkQJ9aVdV4-PDSw)
 + [JAVA：Spring Boot3 集成 Spring AI 实现 Prompt 提示词工程](https://mp.weixin.qq.com/s/4wSJQe4hNzOJLvtOM4Opow)
 + [SpringReport + DeepSeek：AI 重构企业报表新范式](https://mp.weixin.qq.com/s/C2vHEBbtUnLu5MZMYp-dBQ)
++ [最快的！Spring Boot + JStachio 高性能编译时模板引擎](https://mp.weixin.qq.com/s/teeA97Pk6u7HGCUXRPlYYg)
 
 ##### excel
 
@@ -5300,6 +5318,7 @@
 + [Android 内核引入 AutoFDO，你的 App "免费"变快了](https://mp.weixin.qq.com/s/FeoyeXk6kzCzfI10_rAi7w)
 + [Google 藏大招！AndroidX 悄悄上线 Remote Compose：服务端直接下发原生 UI，再也不用发版了](https://mp.weixin.qq.com/s/cChnHus8VqGnDwmqAY-aOw)
 + [Android Studio Panda 4 来了！AGP 9.2 升级，同步稳定性大幅修复](https://mp.weixin.qq.com/s/jJVDirSv_trQELJDEidiEw)
++ [Compose跨平台新版本来了！测试 API 全废弃，iOS 崩溃集中修复](https://mp.weixin.qq.com/s/ttIs563zwlxJj-N4x-ijpQ)
 
 # 相关文章
 

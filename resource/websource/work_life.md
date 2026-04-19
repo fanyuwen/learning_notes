@@ -139,6 +139,7 @@
 + [怎么阅读代码，老司机总结的 6 个实用经验](https://mp.weixin.qq.com/s/AQgWUNBwUAp9y5O6u-_Llg)
 + [被裁那天，我才明白——不会“Java + AI”，你只是一个会写代码的工具人](https://mp.weixin.qq.com/s/Vgx1RuJPw5MfbKRFYJXoaw)
 + [程序员最狠的报复：代码不写注释，然后离职，差点把其他同事“送走”！！](https://mp.weixin.qq.com/s/bHAA9IlW1kbU3sTZpiMmew)
++ [讲真，工作20多年没见过技术这么垃圾的CTO！](https://mp.weixin.qq.com/s/X9dpoL5Sj2yW60n1Z7-mwA)
 
 # 个人成长
 

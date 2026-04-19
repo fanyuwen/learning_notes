@@ -66,6 +66,10 @@
 + [推荐 6 个爆火的神级 Skills，400K+ 点赞！Vibe Coding 必备！！](https://mp.weixin.qq.com/s/55YhKrMAHsbrAgf4P2ezRA)
 + [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
 + [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
++ [鹅厂面试官：“你用过 Harness Engineering 吗？” 我冷笑：“这不是 22 年的技术么？” 他激动了：明天入职！](https://mp.weixin.qq.com/s/qdTXCvMA4yI9mTuQv8Zq6A)
++ [架构图还在苦逼手绘？这个Skill太强了，自动生成架构图](https://mp.weixin.qq.com/s/cYJ7PLSV7xIFfmbkWn16PQ)
++ [40+ AI 核心术语图谱：一篇建立完整认知框架](https://mp.weixin.qq.com/s/cPrtajJv0OPMY7SVRPFnAw)
++ [掌握这5个AI核心术语，你已经碾压90%的人！](https://mp.weixin.qq.com/s/fuFHeEhFtvPhakwt_B9rRQ)
 
 ## 资讯
 
@@ -101,6 +105,7 @@
 + [BitTorrent 创始人炮轰 Claude 团队：Vibe Coding 已走火入魔](https://www.oschina.net/news/418700)
 + [AI 最先冲击的职业 Top10：程序员排第一](https://mp.weixin.qq.com/s/COKE5ndKYYOmbEHY7XME7g)
 + [搞懂这 5 个 AI 术语，你将超越 90% 的人](https://mp.weixin.qq.com/s/D_nXhwwToa1NiaYTUxI_yg)
++ [Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？](https://mp.weixin.qq.com/s/xNHNcH5n4N8Lpyr4rDdhoA)
 
 ## LangChain
 

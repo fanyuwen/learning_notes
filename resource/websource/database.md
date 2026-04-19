@@ -590,6 +590,7 @@
 + [MySQL中的锁](https://mp.weixin.qq.com/s/G14mKrybkGvzicTA5dhW0Q)
 + [面试官：MySQL 乐观锁与悲观锁怎么实现？（修订版）](https://mp.weixin.qq.com/s/5zrdsSsdOzJCtKAgmWtMGQ)
 + [字节二面：什么是数据库死锁，怎么解决？（修订版）](https://mp.weixin.qq.com/s/mcLTfU1ciy1tf8YcSJIBUA)
++ [面试官：谈谈 InnoDB 中的表级锁、页级锁、行级锁？（修订版）](https://mp.weixin.qq.com/s/HpnLqKmSGYyWXTi7_Vegvw)
 
 #### 事务
 
@@ -751,6 +752,7 @@
 + [OpenAI 用 PostgreSQL 扛起 8 亿用户级别流量](https://www.oschina.net/news/399593/openai-scaling-postgresql)
 + [PostgreSQL这么多优势，为什么还要使用MySQL？](https://mp.weixin.qq.com/s/rEs_cED-De9Pz2EhucPqnA)
 + [99% 开发者没打开过的 PostgreSQL 黑盒：8 个救过生产的硬核技巧](https://mp.weixin.qq.com/s/iM83XSp75vLId3TmjaEliQ)
++ [你还在用Cron跑任务？Postgres 18已经悄悄干掉它了](https://mp.weixin.qq.com/s/1zhYTZZ4R3nq4Xg9dNmnGw)
 
 ### SQLSERVER
 

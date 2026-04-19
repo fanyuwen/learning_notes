@@ -63,6 +63,7 @@
 + [学会 goroutine 还不够：真正拉开 Go 水平差距的，是这 6 个生产级模式](https://mp.weixin.qq.com/s/ybovt1htQ78GyGX5XyKOVQ)
 + [dig、wire、fx 用了一圈，我还是回到了手写依赖注入：因为 Go 根本不需要“魔法”](https://mp.weixin.qq.com/s/6u4UZlRSXRjRaJ2VT6ktRg)
 + [微服务、API、事件驱动全能打：Go 做 Serverless 到底强在哪？](https://mp.weixin.qq.com/s/tutZArg8qPeBFshAlVVt9A)
++ [我们明知道 Rust 更快，却坚持用 Go：直到 p99 把我们脸打肿](https://mp.weixin.qq.com/s/vKVoTMzJvd1YNQBSQr9dIA)
 
 # 库
 
@@ -269,6 +270,8 @@
 + [Channels 不是架构：一次 Go 并发设计的惨痛教训](https://mp.weixin.qq.com/s/lA1PlRirQCLD6dE32MAd_g)
 + [还在满地 if err != nil？你的 Go 服务不是难维护，是错误处理早就失控了](https://mp.weixin.qq.com/s/qkEgjrqy2xvUJEZnfSlMbg)
 + [一个工具解决枚举、JSON、校验：stringer 的隐藏玩法太猛了](https://mp.weixin.qq.com/s/rnwGoY51_oDO7OcQ6sV2zw)
++ [别再只会写CRUD了！这7个Go高级模式，才是大厂系统在凌晨3点不崩的秘密](https://mp.weixin.qq.com/s/RwfH0_LIe-NPqbGFzwW8vA)
++ [99%工程师都误判的性能问题：Go regexp 慢，是因为它更安全](https://mp.weixin.qq.com/s/lGAwfRR0vPG0lJ4Car8-YQ)
 
 # 面试题
 

@@ -558,6 +558,7 @@
 + [设计心得——网络包的处理](https://mp.weixin.qq.com/s/BKVSbxMlfJPy8Imku_f-TA)
 + [为什么网卡上写的是 TX / RX，而不是 SEND / RECEIVE？](https://mp.weixin.qq.com/s/RuRx-jNeMP78IfBu8Vxixg)
 + [以太网为什么叫“以太网”？](https://mp.weixin.qq.com/s/NGkB7FOiM8RTZTjewZUOoQ)
++ [深度解析SD-WAN工作原理，从架构到转发，一文吃透技术核心！](https://mp.weixin.qq.com/s/WhTH92HFl4psMjDz6wP3uA)
 
 ### DNS
 
@@ -757,6 +758,7 @@
 + [应对 Nginx Ingress 退役，是时候理清这些易混淆的概念了](https://my.oschina.net/u/3874284/blog/19160674)
 + [别再用生命编辑 nginx.conf 了！这个神器让你一键变身「代理大师」](https://mp.weixin.qq.com/s/horaiX_IE_m92jI-1Tx9-w)
 + [终于找到一个好用的Nginx日志分析工具了](https://mp.weixin.qq.com/s/jYwVPso5KZMoWVv-n5O4Cg)
++ [【Nginx】 访问的url不知道具体走的哪个location块，那是你没搞懂它的优先级](https://mp.weixin.qq.com/s/01E0We3GElr9jiDh0XYrWQ)
 
 ### wireshark
 

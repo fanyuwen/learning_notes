@@ -73,6 +73,10 @@
 + [掌握这5个AI核心术语，你已经碾压90%的人！](https://mp.weixin.qq.com/s/fuFHeEhFtvPhakwt_B9rRQ)
 + [20分钟吃透AI核心：这20个关键概念，直接拉开你和90%人的差距！](https://mp.weixin.qq.com/s/FX5FI10rADf0CyFRctgmHA)
 + [面试官皱眉：“你简历上写精通 AI 编程？” 我自信：“不就是 Vibe Coding？” 他没绷住笑：“就这？”](https://mp.weixin.qq.com/s/RPIg-7nLA1MPkIzfRGYMJQ)
++ [Harness Engineering（驾驭工程）：不改模型性能涨26%，2026年程序员必知的新范式](https://mp.weixin.qq.com/s/o2N79O3uKWBRZMuqGvd6ag)
++ [美团面试官：为什么有时候选择「手搓」Agent，而不是直接用成熟框架？](https://mp.weixin.qq.com/s/UT_lnTBle-iUXNJ5IZx-0w)
++ [Karpathy 的 49k star 项目：让 AI 通宵自己做研究](https://mp.weixin.qq.com/s/Ngh7H4ZeC8KAqdP2OXuTzg)
++ [AI 答疑解惑：学习难题、知识科普、工具使用，结构化指令让 AI 讲得清清楚楚](https://mp.weixin.qq.com/s/iktgubqYfFWgTxvXP3i0HQ)
 
 ## 资讯
 
@@ -111,6 +115,7 @@
 + [Hermes Agent 与 OpenClaw：开源 AI 智能体的两种设计哲学](https://www.oschina.net/news/419024)
 + [Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？](https://mp.weixin.qq.com/s/xNHNcH5n4N8Lpyr4rDdhoA)
 + [最近AI圈爆火的Hermes到底是什么？](https://mp.weixin.qq.com/s/zfOeQLnkBfkI0jAWduLiGw)
++ [抛弃 MCP，拥抱 CLI？](https://mp.weixin.qq.com/s/wIabHkF3rbK-ZjgOCuG9-A)
 
 ## LangChain
 
@@ -138,6 +143,8 @@
 + [3D成像： 工业环境中的3D机器视觉](https://mp.weixin.qq.com/s/R_BBemcLdk3u-KuTHUb0QQ)
 + [工业相机图像采集：网线松动后如何自动恢复？](https://mp.weixin.qq.com/s/9MEeXa8VgY3scHZCRq122A)
 + [工业相机异常处理实战：断连重连、丢帧检测、超时恢复状态机](https://mp.weixin.qq.com/s/D6bM0ZoQr6HqPI5Y2ucQ2Q)
++ [工业视觉检测设备的标准软件架构](https://mp.weixin.qq.com/s/FDh8VqNSYAfYNy-MJEwTZQ)
++ [王炸组合！多尺度特征融合+YOLO怒斩1区TOP！思路速学！](https://mp.weixin.qq.com/s/mHG_PoBL5eIYL_h7k3rknw)
 
 ## openCV
 

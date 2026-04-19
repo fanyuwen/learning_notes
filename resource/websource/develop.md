@@ -102,6 +102,8 @@
 + [系统设计30个核心技能，每一个开发者都必须掌握](https://mp.weixin.qq.com/s/kUzs9b9Vcl-b38usJQ9CkA)
 + [一次“优雅重构”，把 CPU 从 35% 拉到 92%：我们终于看清了干净架构的代价](https://mp.weixin.qq.com/s/5sHRjFrryMedeuIrbd_tJA)
 + [如何画出一张优秀的架构图？（老鸟必备）](https://mp.weixin.qq.com/s/zC_XaOOufXxa6omFZXErwQ)
++ [业务架构之业务能力的组件化](https://mp.weixin.qq.com/s/aKnir8SRltsdCctZC0rM_Q)
++ [我为什么不建议你做纯架构师](https://mp.weixin.qq.com/s/OcrzmErBwRdGV-oAgol-bA)
 
 ### DDD
 

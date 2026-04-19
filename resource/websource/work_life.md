@@ -140,6 +140,9 @@
 + [被裁那天，我才明白——不会“Java + AI”，你只是一个会写代码的工具人](https://mp.weixin.qq.com/s/Vgx1RuJPw5MfbKRFYJXoaw)
 + [程序员最狠的报复：代码不写注释，然后离职，差点把其他同事“送走”！！](https://mp.weixin.qq.com/s/bHAA9IlW1kbU3sTZpiMmew)
 + [讲真，工作20多年没见过技术这么垃圾的CTO！](https://mp.weixin.qq.com/s/X9dpoL5Sj2yW60n1Z7-mwA)
++ [有哪些话一听就知道一个程序员是个水货？](https://mp.weixin.qq.com/s/J6FDzOE-S7izGK-mrn0Owg)
++ [那次上线失败：技术问题背后，是我低估了人性](https://mp.weixin.qq.com/s/efz_fRgADdftdEH-ETAwkw)
++ [一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕](https://mp.weixin.qq.com/s/PHLHBBaQIA8YhmKaBJ3aIA)
 
 # 个人成长
 
@@ -223,6 +226,7 @@
 + [年龄大的人学单片机，有多困难？](https://mp.weixin.qq.com/s/D9juq918gApzTRSdzazXgw)
 + [15 个程序员坏习惯清单：现在不改，迟早毁掉你的职业口碑](https://mp.weixin.qq.com/s/R8ESd-wIJj0nz1cLqe6abQ)
 + [这几年的折腾，一场 “多余” 的思想斗争](https://www.oschina.net/news/403921)
++ [程序员的十个冷知识，代码写得再多也不能忘](https://mp.weixin.qq.com/s/ZCgj9Z7L4oj1536pmlvdeA)
 
 ## 视频
 
@@ -395,6 +399,7 @@
 + [IntelliJ IDEA 配置与插件全部迁移到其他盘，彻底释放C盘空间](https://mp.weixin.qq.com/s/XM-UrAmZYs3Sp0N_ra2aiw)
 + [横空出世！IDEA最强MyBatis插件来了，功能很全！](https://mp.weixin.qq.com/s/2vOLEqrAg56EoMdO5cUBRA)
 + [告别手动画图！这款 IntelliJ 插件，能让 Java 方法自动生成 Mermaid 流程图](https://mp.weixin.qq.com/s/aE_Z1q2DxmycwysZyCTRtA)
++ [JetBrains  Amper  0.10 ，期待它未来替代  Gradle](https://mp.weixin.qq.com/s/njGS4fT7e8j11_ioLKny5Q)
 
 ## MAC_PRO相关
 
@@ -405,6 +410,7 @@
 + [详解macos包管理工具homebrew](https://mp.weixin.qq.com/s/2VBsebf6Kp3iItblEwxQ2w)
 + [为 MacBook Neo 编程：一位开发者的深度观察](https://mp.weixin.qq.com/s/I1E5OFvqdJ93H9oTc-YsWg)
 + [Mac有趣的系统性能监测工具](https://mp.weixin.qq.com/s/KXFVYfEIv_051jhocUE8hg)
++ [用了这么多年Mac才发现，我天天拔插充电线的样子像个傻子…](https://mp.weixin.qq.com/s/MOKOmCg_3LYbeJC_XnA_Fg)
 
 ## NAS
 
@@ -597,6 +603,8 @@
 + [计算机系统经典权威入门教材出版！](https://mp.weixin.qq.com/s/zWBnqj6UFUfQfzC1t4tbIA)
 + [这可能是我近两年读过最重要的一本 AI 书！](https://mp.weixin.qq.com/s/aGpAAQvT-m5u4Hage0p8vQ)
 + [推荐11本适合计算机网络即AI学习的书籍](https://mp.weixin.qq.com/s/_ghv-c-ljrFDBcxwcYEqYw)
++ [深度学习之父辛顿推荐：这本AI神书，揭示了人类在AI时代的核心竞争力](https://mp.weixin.qq.com/s/QpH_olJIaUAQ1ukQmjFa9w)
++ [《软件工程的未来》：一篇来自ThoughtWorks的闭门研讨](https://mp.weixin.qq.com/s/K3itgRyR31h4fFdQN26jbg)
 
 ### 生活
 

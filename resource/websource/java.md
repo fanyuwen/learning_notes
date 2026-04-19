@@ -321,6 +321,8 @@
 + [Amber 下一个新特性曝光：Java 将迎来命令式模式匹配](https://mp.weixin.qq.com/s/bKE0QvLQklINVGYRLkJPsQ)
 + [别再只会用 Java 8！Java 26 深度解析：HTTP/3、Structured Concurrency 全面爆发！](https://mp.weixin.qq.com/s/zJwYxLHzGHAw4wNOdXcCTw)
 + [ThreadLocal 再见！新一代 ScopedValue 彻底封神](https://mp.weixin.qq.com/s/CBvup-YCWSOCr5ge0S_BxQ)
++ [Java性能革命：JEP 515预先方法分析架构设计与实践](https://mp.weixin.qq.com/s/Le6sPdM6Bt8QKuqvEvnC_g)
++ [Java 26 正式发布！10 大新特性一文吃透，开发必看](https://mp.weixin.qq.com/s/cs_uWv5t6Hh8ZZIeD3oHsA)
 
 ## 高级用法
 
@@ -552,6 +554,7 @@
 + [Java Lambda 表达式详解](https://mp.weixin.qq.com/s/fbs46ktF18OTsTkRtLsWjw)
 + [2026年你以为会写 Java 就够了？这 10 个底层认知，决定你天花板在哪](https://mp.weixin.qq.com/s/bBFbPhbYGpKGKyaknNCJVA)
 + [写不好 Lambda？这 4 个核心技巧，直接拉开你和普通 Java 程序员的差距（Java 25）](https://mp.weixin.qq.com/s/3NRAqQmcFjsm8kCgbkQ4vQ)
++ [【java必会】快速求出两个集合的交集、并集、差集、补集及对集合中对象的多个属性进行排序](https://mp.weixin.qq.com/s/8fXV2jdf0XiGOVMJufNJuA)
 
 ## 代码质量
 
@@ -771,6 +774,8 @@
 + [面试官：为什么不能用浮点数表示金额？](https://mp.weixin.qq.com/s/MSAsJtV5eh0gOvG7Z2xMQA)
 + [别再滥用 Optional 和 Stream 了！你写的“优雅 Java”，正在悄悄拖垮 JVM 性能](https://mp.weixin.qq.com/s/Cg51N1cUxEUGTru5BHzZcw)
 + [面试官：String 为什么设计成 final 不可变的？（修订版）](https://mp.weixin.qq.com/s/vEZ4MWrKoohHf-wTjeyQAA)
++ [微信支付用 Long，银行用 Decimal：把金额存成 String 的，怎么混过试用期的？](https://mp.weixin.qq.com/s/5qKYoGGg_c1691SohfJIFQ)
++ [文件上传还在用后缀名？Java通过魔数识别文件类型才最安全](https://mp.weixin.qq.com/s/q7PXfOnSqo9NZhyqdd88bg)
 
 ### 序列化
 
@@ -1193,6 +1198,7 @@
 + [锁升级到底能不能 “退烧”？synchronized 释放后状态解析](https://my.oschina.net/u/9493576/blog/18693710)
 + [别再只会synchronized！Java 4大高级锁全解析](https://mp.weixin.qq.com/s/FeBFOarqjCI12XS-BN4tNw)
 + [StampedLock：一种比ReadWriteLock更快的锁](https://mp.weixin.qq.com/s/7EV9ctqpq_bvjoltLJty5w)
++ [JAVA高频面试题:「AQS的核心原理」](https://mp.weixin.qq.com/s/ye2O66q45znsuiDPf8ttUg)
 
 #### volatile
 
@@ -1303,6 +1309,8 @@
 + [JVM 堆策略大改：JDK 26 不再按内存比例分配初始堆](https://mp.weixin.qq.com/s/gNoTsjJVRXCzEm9_qFrPiQ)
 + [别再说你懂 Java：这 5 个被忽略的能力，正在悄悄拖慢你的 JVM](https://mp.weixin.qq.com/s/S8AcF_f2i9TTbi4kr53jJg)
 + [9 个正在吞噬 JVM 性能的 Java 趋势（2026版重构解读）](https://mp.weixin.qq.com/s/acItX3AQBMUId2mIcZBqYA)
++ [【架构实战】JVM调优：GC日志分析与参数调优](https://mp.weixin.qq.com/s/C1px_xRuPTEVrcdypEimhA)
++ [JVM ZGC与Shenandoah GC终极对决：像智能垃圾分类系统一样低延迟回收，停顿时间缩短至1ms](https://mp.weixin.qq.com/s/gd_DhR4Qo4OIFeh0xhmi7w)
 
 ### 命令
 
@@ -1467,6 +1475,7 @@
 + [如何定位堆外内存泄漏?](https://mp.weixin.qq.com/s/zMGNb8KsxLCbmRmS7gyy7A)
 + [0.3ms！JDK 25的Shenandoah分代GC，把Java性能卷上了天](https://mp.weixin.qq.com/s/gYlvtMgg4Rs8ELAkdKb-_Q)
 + [GC 很努力了，剩下的 40% 内存，得你自己动手](https://mp.weixin.qq.com/s/efey-MNUa6tqrui5OMHldg)
++ [Java G1 GC吞吐量暴涨内幕：像高速公路ETC通道一样减少等待，吞吐量提升20%](https://mp.weixin.qq.com/s/J_7DnCwYlUUmqqgd3uWc4w)
 
 # 核心库
 
@@ -1620,6 +1629,7 @@
 + [还在头疼 Java 日期处理？新旧API全解析](https://mp.weixin.qq.com/s/pnR4gVrY4gCn8h9bGFvKQw)
 + [Java日期最常见的8个坑！](https://mp.weixin.qq.com/s/kEnwqzPdUQg7ikMrHonXdA)
 + [别再用Date了！线上事故频发的Java时间处理，一文讲透LocalDateTime](https://mp.weixin.qq.com/s/cxuZFHDy8UOHofDXA-TC9Q)
++ [别用 YYYY-MM-dd,这个大写 Y，能让你的线上系统直接崩溃](https://mp.weixin.qq.com/s/MnKYa8TE-PL97EzRIb9YrQ)
 
 ### Collection/Map
 
@@ -1725,6 +1735,7 @@
 + [从if-null到Optional：Java空指针防御的进化之路](https://mp.weixin.qq.com/s/WaTWufGQWkmrDYinnZ5qOg)
 + [Java 8 都老了，Optional 为啥还是没人用？到底卡在哪了？](https://mp.weixin.qq.com/s/5xLR_kis8ww-9gkWSVkAag)
 + [横扫 NPE！Optional 封神背后的 9 个致命错误](https://mp.weixin.qq.com/s/x84tLCUGJ0VL7WqhfzIZ0Q)
++ [90% 初级程序员只会 get()，资深工程师都在用这 6 招 Optional 技巧](https://mp.weixin.qq.com/s/vACGezMDbq7M0n9B29YYtA)
 
 ### Comparator
 
@@ -1897,6 +1908,7 @@
 + [深度解析 ConcurrentHashMap：从源码到实战](https://mp.weixin.qq.com/s/sSLhPR6L9UaQzs5UOR0WSQ)
 + [面试官：ConcurrentHashMap 是如何保证线程安全的？](https://mp.weixin.qq.com/s/WvJiSXo_RM0c0Uudpc_W0Q)
 + [面试官：ConcurrentHashMap 为什么在 JDK 1.8 中废弃分段锁？](https://mp.weixin.qq.com/s/SdSX6DICc-pUytKKT8h7nw)
++ [ConcurrentHashMap.computeIfAbsent()：高并发下安全初始化的终极方案](https://mp.weixin.qq.com/s/DziQFcxHvuJQR77oQLyRwg)
 
 ### 其它
 
@@ -1952,6 +1964,7 @@
 + [Java随机数的四种写法，别再用Random了！试试这个ThreadLocalRandom，要注意使用事项](https://mp.weixin.qq.com/s/wh90G_qqjcN-bCsvVzlOUQ)
 + [这几个并发工具类你必须要掌握：CountDownLatch、CyclicBarrier、Semaphore](https://mp.weixin.qq.com/s/XRYIkhijU2WA0YCm9dmnaA)
 + [面试必问：CountDownLatch 和 CyclicBarrier 的核心区别，这样答才透彻](https://mp.weixin.qq.com/s/YSVeEaHv6M0eKLjD2A5YnQ)
++ [5.2 面试必问：LinkedBlockingQueue 双锁设计碾压 ArrayBlockingQueue？](https://mp.weixin.qq.com/s/iyPHSNva-QkxXFFQBVaJLw)
 
 ## IO/NIO
 
@@ -2304,6 +2317,7 @@
 + [盘点Lombok的几个骚操作](https://mp.weixin.qq.com/s/K6dx7kPGv4u8BEbD0ykbAA)
 + [告别冗余代码！Lombok注解如何让Java开发效率飙升300%？](https://mp.weixin.qq.com/s/5ozzuMtrvKNvvvd0HcM6_g)
 + [Lombok 造成的翻车事故，太坑了！](https://mp.weixin.qq.com/s/78Sz-xrrI1sm8zoUaqiJWQ)
++ [为什么我劝你不要在项目里乱用 Lombok？这3个坑太深了，踩中就裂开](https://mp.weixin.qq.com/s/CSO6_t5IOPach8E1VLtvog)
 
 ## mapstruct
 
@@ -2609,6 +2623,10 @@
 + [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
 + [基于Redission高级应用22-基于RAtomicLong原理及封装的工具类](https://mp.weixin.qq.com/s/39Nt8v6SXJWnCk25luYebw)
 
+## resilience4j
+
++ [绝了！Spring Boot 3 官方推荐的熔断器，原来是这个轻量级神兵利器](https://mp.weixin.qq.com/s/MbizgrldYXizad6QIpKk0g)
+
 ## ribbon
 
 + [【Java面试100题突击】09 Ribbon负载均衡原理是什么？](https://mp.weixin.qq.com/s/wxkb3xPZeIU-3SuzYH7nAQ)
@@ -2833,6 +2851,7 @@
 + [面试被问爆的 Spring 循环依赖：三级缓存到底是个啥？一篇讲透原理 + 源码](https://mp.weixin.qq.com/s/NkUVQCOZ8uGqzXAK6xIfvQ)
 + [从一次启动失败深入剖析：Spring 循环依赖的真相｜得物技术](https://my.oschina.net/u/5783135/blog/18696870)
 + [面试官：@Bean 与 @Component 用在同一个类上，会怎么样？](https://mp.weixin.qq.com/s/JI2UouCq2022Efz8sX6qVQ)
++ [Spring 常用类深度剖析（工具篇 04）：CollectionUtils 与 Stream API 的对比与融合](https://mp.weixin.qq.com/s/9KekCswsvWjSQaq8zdq6SQ)
 
 ### 新版本新特性
 
@@ -3007,6 +3026,7 @@
 + [JAVA：Spring Boot 集成 PostgreSQL 数据库实现数据访问](https://mp.weixin.qq.com/s/MegaInSpergvW730Vq8PVw)
 + [告别低效查询！Spring Data JPA存在性检查的5种方案，千万不要用错](https://mp.weixin.qq.com/s/6RAgSOV4htVdc6o3u0UxRw)
 + [性能杀手！JPA 、MyBatis经典的N+1问题，正在拖垮你的系统](https://mp.weixin.qq.com/s/iV8xdwBvgsenWRJ8yPqfkg)
++ [Java开发指南 | Spring数据Mapper层（超多丰富案例，建议收藏！）](https://mp.weixin.qq.com/s/57WsHSRUyDvGVwCmzfjpGQ)
 
 #### BATCH
 
@@ -3189,6 +3209,7 @@
 + [Aop校验切面表达式的两种方式](https://mp.weixin.qq.com/s/am9P_j_rONSvMvfCKSRgJw)
 + [真正搞懂 Spring 系列（二）：AOP全解析——从概念到源码，再到实战场景](https://mp.weixin.qq.com/s/a4a9yKW_LsCgUU7fz-Umww)
 + [超越 AOP：搜集业务操作日志的 3 个新探索](https://mp.weixin.qq.com/s/M3sqW4mi559I6IZOXIAKzg)
++ [Spring AOP记录日志，生产环境的代码长什么样](https://mp.weixin.qq.com/s/O5S0-slaqnIra7i3X1RE4Q)
 
 ### 配置打包部署
 
@@ -4216,6 +4237,8 @@
 + [SpringBoot3接口优化：一行注解搞定字典与关联字段翻译，告别冗余循环](https://mp.weixin.qq.com/s/-up8Ic0VEUV6HvxzZCEN9g)
 + [SpringBoot 接口加密解密，新姿势！](https://mp.weixin.qq.com/s/XYTLHkU83GwkRsHOT25NUQ)
 + [@RequestBody 不止读 JSON！这 7 种格式你肯定没用全](https://mp.weixin.qq.com/s/sK_a18S0sb362VvPj5Ntdg)
++ [springboot 每个 web 请求是一个线程吗？](https://mp.weixin.qq.com/s/lkQKQKj2xA3dqrgj1jN1IA)
++ [零侵入！Spring Boot 新一代字段级权限控制，彻底告别硬编码](https://mp.weixin.qq.com/s/7m9xjQd5_AkP9VwD8A_h0A)
 
 ##### 文件上传下载
 
@@ -4484,6 +4507,7 @@
 + [SpringBoot + 虚拟线程，简直鸟枪换大炮～](https://mp.weixin.qq.com/s/0zd5adOeu_S2BkfhdZkUew)
 + [SpringBoot 怎么实现订单 30 分钟自动取消？](https://mp.weixin.qq.com/s/kYG9QLQM3eL0_kn5oSe8Xw)
 + [比 Quartz 轻 10 倍！这个 Spring Boot 任务调度器太强了](https://mp.weixin.qq.com/s/CqQje3OkA7yLy451q_577w)
++ [Spring Boot 4.0 虚拟线程进阶实战｜手把手教你搞定高并发，性能直接翻倍](https://mp.weixin.qq.com/s/0GXEqmfHI0mCtem1hMKJ7g)
 
 ##### Disruptor
 
@@ -5039,6 +5063,7 @@
 + [拒绝写重复代码，试试这套开源的 SpringBoot 组件，效率翻倍~](https://mp.weixin.qq.com/s/J_4rdNuKEv1c801PjYviWQ)
 + [从20s到1ms！Spring Boot + 动态规划，优化商品组合](https://mp.weixin.qq.com/s/sMEWU3AQnAzhNqexm-eBhA)
 + [SpringBoot3实战：轻量编排复杂业务，打造可复用组件化流程](https://mp.weixin.qq.com/s/6VYzBT7Gf4RcLOD99CNrBw)
++ [1.7.1 别再重复造轮子了！一文搞懂 Spring Boot Starter 机制与自定义 Starter](https://mp.weixin.qq.com/s/mgJzgUQTRpzfP81elEtWQQ)
 
 #### 原理&源码
 
@@ -5297,6 +5322,7 @@
 + [MyBatis 史诗级的裹脚布可以烧了！！！](https://my.oschina.net/ta8210/blog/19205682)
 + [别再写 try…catch 了！新一代 NoException 异常处理方案](https://mp.weixin.qq.com/s/v8KR4ZlKCYNxlYaaXzh1AA)
 + [少写 80% 代码！SqlUtil 把动态 SQL 拼接玩出花](https://mp.weixin.qq.com/s/3xBjh6a4iYHWd8__h2fE6g)
++ [别再手写线程池了！ThreadForge 这神器，让我彻底告别多线程加班](https://mp.weixin.qq.com/s/3vvJpylavAkq4ryWzc_yOg)
 
 # 其它环境
 
@@ -5327,6 +5353,7 @@
 + [Google 藏大招！AndroidX 悄悄上线 Remote Compose：服务端直接下发原生 UI，再也不用发版了](https://mp.weixin.qq.com/s/cChnHus8VqGnDwmqAY-aOw)
 + [Android Studio Panda 4 来了！AGP 9.2 升级，同步稳定性大幅修复](https://mp.weixin.qq.com/s/jJVDirSv_trQELJDEidiEw)
 + [Compose跨平台新版本来了！测试 API 全废弃，iOS 崩溃集中修复](https://mp.weixin.qq.com/s/ttIs563zwlxJj-N4x-ijpQ)
++ [Compose踩坑Modifier顺序我终于搞懂了](https://mp.weixin.qq.com/s/enDPOpq0zLz8gxUN7lVwtw)
 
 # 相关文章
 

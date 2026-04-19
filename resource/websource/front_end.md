@@ -475,5 +475,6 @@
 + [Web 新 API cookieStore 值得用吗？](https://my.oschina.net/linsk1998/blog/19210027)
 + [前端代码规范- Commit 提交规范](https://mp.weixin.qq.com/s/Gl7Pr3Nsih_CVBm3gr592A)
 + [面试官：Teleport 是怎么实现的？为啥它能把组件“传送”走？](https://mp.weixin.qq.com/s/4nC9G22dMO-22tNGxRmXtA)
++ [当 AI 默认生成 React，Vue 正在被大模型抛弃吗？](https://my.oschina.net/u/4487475/blog/19576292)
 + [让字距随字体自适应变化的 CSS 技巧](https://mp.weixin.qq.com/s/Ur5j7AOjQTTgz-6fUzfdMg)
 + [CSS view()：JavaScript 滚动动画的终结](https://mp.weixin.qq.com/s/hWMCSBDTG5K-vg1Z75GFug)

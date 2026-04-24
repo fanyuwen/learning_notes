@@ -38,6 +38,7 @@
 + [号称取代 Elasticsearch，太猛了！](https://mp.weixin.qq.com/s/DPipCwNnuR5roVFJTAiZUQ)
 + [为什么 ES 的搜索结果只到 10,000？强制 “数清楚” 的代价有多大](https://my.oschina.net/u/5583868/blog/19205380)
 + [Elasticsearch：使用 Base64 编码字符串加速向量摄取](https://my.oschina.net/u/3343882/blog/19208366)
++ [如何比较两个 Elasticsearch 索引并找出缺失的文档](https://my.oschina.net/u/3343882/blog/19575330)
 
 ## solr
 

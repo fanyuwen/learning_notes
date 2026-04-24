@@ -77,6 +77,7 @@
 + [美团面试官：为什么有时候选择「手搓」Agent，而不是直接用成熟框架？](https://mp.weixin.qq.com/s/UT_lnTBle-iUXNJ5IZx-0w)
 + [Karpathy 的 49k star 项目：让 AI 通宵自己做研究](https://mp.weixin.qq.com/s/Ngh7H4ZeC8KAqdP2OXuTzg)
 + [AI 答疑解惑：学习难题、知识科普、工具使用，结构化指令让 AI 讲得清清楚楚](https://mp.weixin.qq.com/s/iktgubqYfFWgTxvXP3i0HQ)
++ [你写的 Skill，及格了吗？](https://my.oschina.net/u/4939618/blog/19595216)
 
 ## 资讯
 

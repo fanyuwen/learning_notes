@@ -116,6 +116,7 @@
 + [Cursor被扒底裤！Claude Code套壳实锤，500亿估值全靠Ctrl+H？](https://mp.weixin.qq.com/s/xNHNcH5n4N8Lpyr4rDdhoA)
 + [最近AI圈爆火的Hermes到底是什么？](https://mp.weixin.qq.com/s/zfOeQLnkBfkI0jAWduLiGw)
 + [抛弃 MCP，拥抱 CLI？](https://mp.weixin.qq.com/s/wIabHkF3rbK-ZjgOCuG9-A)
++ [人人都在造 Skill，谁来保障安全运行？](https://my.oschina.net/u/3874284/blog/19595098)
 
 ## LangChain
 

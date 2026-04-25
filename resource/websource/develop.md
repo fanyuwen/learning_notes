@@ -764,6 +764,7 @@
 + [写了 5 年代码才明白：真正保护密钥的，从来不是加密，而是环境变量](https://mp.weixin.qq.com/s/KxzbtLZ1q9K0yIm3A2OCnQ)
 + [面试官：业务开发时，接口不能对外暴露怎么办？有 3 种实现方案！](https://mp.weixin.qq.com/s/2fs1oSYPAGPT0Uc69zB0Kw)
 + [浅析分批分页查询场景及方案](https://my.oschina.net/u/4090830/blog/19482838)
++ [你写的 REST API 为什么总被吐槽？资深工程师都在用的 4 种高级设计法](https://mp.weixin.qq.com/s/zlAlUbxyPh9z-aEC3wkjpw)
 
 # 测试相关
 

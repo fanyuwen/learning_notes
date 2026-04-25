@@ -72,6 +72,7 @@
 + [在 Kotlin 中构建 AI 智能体 – 第 4 部分：委托和子智能体｜官方博客](https://mp.weixin.qq.com/s/sQqkV8kvOOcUPtbwrydv0g)
 + [使用 Kotlin 构建 AI 智能体 – 第 5 部分：让智能体学会忘记](https://mp.weixin.qq.com/s/Rz8x0R6IMtiJ0i3InTFdXg)
 + [推出 Tracy：适用于 Kotlin 的 AI 可观测性库｜官方博客](https://mp.weixin.qq.com/s/1TKXMfIZuDOlvd3djFz4Gg)
++ [如何避免使用 JPA 和 Kotlin 时的常见陷阱｜官方博客](https://mp.weixin.qq.com/s/eEkzUrkTmJ7eO1cBV97OSw)
 
 ## 技术月报
 

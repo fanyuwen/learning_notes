@@ -33,7 +33,6 @@
 + [LangChain 0.1 和 0.2 Model区别](https://mp.weixin.qq.com/s/1aPbpgbdqbKdX8lXfZk4uQ)
 + [一个AI从业者的十年](https://mp.weixin.qq.com/s/UJVz3TddrN7vJZCXD1tEhw)
 + [Ray 分布式计算框架详解](https://my.oschina.net/u/3322952/blog/4719999)
-+ [Agent 核心能力：工具使用详解](https://mp.weixin.qq.com/s/tlLa2xfGq0m65EF-94deVA)
 + [PyTorch入门 (1)环境搭建、神经网络普及和Torch基础知识](https://mp.weixin.qq.com/s/lpB1bFRraj85VypQOGlvYg)
 + [LlamaIndex🦙 入门](https://mp.weixin.qq.com/s/Q0Tve2qTqZewdQ9vMwpPnw)
 + [Agentic的模式和实现代码](https://mp.weixin.qq.com/s/KfReQyc3zlyxI-nh6Wx0MA)
@@ -64,8 +63,6 @@
 + [OpenClaw到底能干嘛？30个落地案例，看完直接用](https://mp.weixin.qq.com/s/mIKoynY2rPRK2L9KVUly8A)
 + [Claude Code 源码泄露：拆解 Claude Code 源码后，我发现它更像一个“AI 操作系统”](https://mp.weixin.qq.com/s/4egDOiAlNA_5X43j5bUp4w)
 + [推荐 6 个爆火的神级 Skills，400K+ 点赞！Vibe Coding 必备！！](https://mp.weixin.qq.com/s/55YhKrMAHsbrAgf4P2ezRA)
-+ [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
-+ [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
 + [立正请站好：一个组件复用 Skill 的工程化实践｜得物技术](https://my.oschina.net/u/5783135/blog/19575284)
 + [鹅厂面试官：“你用过 Harness Engineering 吗？” 我冷笑：“这不是 22 年的技术么？” 他激动了：明天入职！](https://mp.weixin.qq.com/s/qdTXCvMA4yI9mTuQv8Zq6A)
 + [架构图还在苦逼手绘？这个Skill太强了，自动生成架构图](https://mp.weixin.qq.com/s/cYJ7PLSV7xIFfmbkWn16PQ)
@@ -78,6 +75,15 @@
 + [Karpathy 的 49k star 项目：让 AI 通宵自己做研究](https://mp.weixin.qq.com/s/Ngh7H4ZeC8KAqdP2OXuTzg)
 + [AI 答疑解惑：学习难题、知识科普、工具使用，结构化指令让 AI 讲得清清楚楚](https://mp.weixin.qq.com/s/iktgubqYfFWgTxvXP3i0HQ)
 + [你写的 Skill，及格了吗？](https://my.oschina.net/u/4939618/blog/19595216)
++ [程序员必知的8种节省Token方案](https://mp.weixin.qq.com/s/dB8y5XjU6Y-DN0u7SF_2ug)
++ [ClaudeCode/Codex/OpenCodeToken节省80%](https://mp.weixin.qq.com/s/2daIO-5VpAN4TxljbqXX6w)
+
+### agent
+
++ [Agent 核心能力：工具使用详解](https://mp.weixin.qq.com/s/tlLa2xfGq0m65EF-94deVA)
++ [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
++ [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
++ [美团Agent岗二面：向量检索和关键词检索有什么区别？](https://mp.weixin.qq.com/s/j1Jnqz1CJ89PaGtH3HpzYA)
 
 ## 资讯
 
@@ -118,6 +124,8 @@
 + [最近AI圈爆火的Hermes到底是什么？](https://mp.weixin.qq.com/s/zfOeQLnkBfkI0jAWduLiGw)
 + [抛弃 MCP，拥抱 CLI？](https://mp.weixin.qq.com/s/wIabHkF3rbK-ZjgOCuG9-A)
 + [人人都在造 Skill，谁来保障安全运行？](https://my.oschina.net/u/3874284/blog/19595098)
++ [GPT-5.5发布！更强更快更贵。。。](https://mp.weixin.qq.com/s/3f6AR_1E8sqsg9hhaO91VQ)
++ [面试官问我：“AI 写代码比你快 100 倍，你的价值在哪？”](https://mp.weixin.qq.com/s/NxWdlbYyTV_5e42_RbFuPg)
 
 ## LangChain
 

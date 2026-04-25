@@ -143,6 +143,7 @@
 + [有哪些话一听就知道一个程序员是个水货？](https://mp.weixin.qq.com/s/J6FDzOE-S7izGK-mrn0Owg)
 + [那次上线失败：技术问题背后，是我低估了人性](https://mp.weixin.qq.com/s/efz_fRgADdftdEH-ETAwkw)
 + [一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕](https://mp.weixin.qq.com/s/PHLHBBaQIA8YhmKaBJ3aIA)
++ [加不完的班：我们为什么总在修 bug？](https://mp.weixin.qq.com/s/iBVoPbMAdX7kckVywjWJRg)
 
 # 个人成长
 
@@ -227,6 +228,9 @@
 + [15 个程序员坏习惯清单：现在不改，迟早毁掉你的职业口碑](https://mp.weixin.qq.com/s/R8ESd-wIJj0nz1cLqe6abQ)
 + [这几年的折腾，一场 “多余” 的思想斗争](https://www.oschina.net/news/403921)
 + [程序员的十个冷知识，代码写得再多也不能忘](https://mp.weixin.qq.com/s/ZCgj9Z7L4oj1536pmlvdeA)
++ [架构师和技术总监之间，差的不只是技术](https://mp.weixin.qq.com/s/jufwMt4izyfG6xWNbf6TWg)
++ [架构师必备：四大核心产出物与四大核心能力](https://mp.weixin.qq.com/s/FsVFcGNkIQ0Stm5hE7vh6A)
++ [技术负责人正在消失？真正被淘汰的是这类 CTO](https://mp.weixin.qq.com/s/inWPdUpKpOZCVXx7w4a-jw)
 
 ## 视频
 
@@ -400,6 +404,7 @@
 + [横空出世！IDEA最强MyBatis插件来了，功能很全！](https://mp.weixin.qq.com/s/2vOLEqrAg56EoMdO5cUBRA)
 + [告别手动画图！这款 IntelliJ 插件，能让 Java 方法自动生成 Mermaid 流程图](https://mp.weixin.qq.com/s/aE_Z1q2DxmycwysZyCTRtA)
 + [JetBrains  Amper  0.10 ，期待它未来替代  Gradle](https://mp.weixin.qq.com/s/njGS4fT7e8j11_ioLKny5Q)
++ [为什么在 IDEA 使用 @Autowired 会报黄？](https://mp.weixin.qq.com/s/FoYIcUIEZk0A9j3bbU8bpQ)
 
 ## MAC_PRO相关
 

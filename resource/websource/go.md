@@ -272,6 +272,7 @@
 + [一个工具解决枚举、JSON、校验：stringer 的隐藏玩法太猛了](https://mp.weixin.qq.com/s/rnwGoY51_oDO7OcQ6sV2zw)
 + [别再只会写CRUD了！这7个Go高级模式，才是大厂系统在凌晨3点不崩的秘密](https://mp.weixin.qq.com/s/RwfH0_LIe-NPqbGFzwW8vA)
 + [99%工程师都误判的性能问题：Go regexp 慢，是因为它更安全](https://mp.weixin.qq.com/s/lGAwfRR0vPG0lJ4Car8-YQ)
++ [从 sleep 5 到工程化：一套真正能落地的 Go + Docker Compose 最佳实践](https://mp.weixin.qq.com/s/ulSZ1uRL0ApxGixkhHmwdg)
 
 # 面试题
 

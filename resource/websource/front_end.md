@@ -355,6 +355,7 @@
 + [Node.js中HTTP服务创建详解](https://mp.weixin.qq.com/s/kyqO3eI7IpuYYyIvpNeI3Q)
 + [Node.js 实现静态文件服务器，从 ES6 语法到项目构建！](https://mp.weixin.qq.com/s/tzWSCJprUO-Yiyvx9JL3iQ)
 + [我以为 Node.js 无所不能，直到一个 CPU 循环击穿了我](https://mp.weixin.qq.com/s/sta-3dmNaPlN605887_JAg)
++ [酷！Node.js 终于支持虚拟文件系统了，作者直言：没有 Claude Code 这不可能发生](https://mp.weixin.qq.com/s/7QCkUuHoKwHjoRMKcFbfnQ)
 
 ## vite
 
@@ -373,6 +374,7 @@
 + [您需要了解的 10 个顶级 JavaScript 库](https://mp.weixin.qq.com/s/PK9eBvHGkz2ihHtL5CD7lg)
 + [使用express-validator进行数据校验](https://mp.weixin.qq.com/s/HVVufriLLZfYqkOeyOkmUg)
 + [开源项目：Three.js 构建 3D 世界的工具库](https://mp.weixin.qq.com/s/tMbDi5JyZn9su2yKIKdkMg)
++ [Next.js 16 微前端新玩法：Multi-Zone 本地搭建全流程](https://mp.weixin.qq.com/s/bF1TN6IwE5vdGU70DdqjRg)
 
 # 架构相关
 
@@ -479,3 +481,4 @@
 + [让字距随字体自适应变化的 CSS 技巧](https://mp.weixin.qq.com/s/Ur5j7AOjQTTgz-6fUzfdMg)
 + [CSS view()：JavaScript 滚动动画的终结](https://mp.weixin.qq.com/s/hWMCSBDTG5K-vg1Z75GFug)
 + [AI 驱动：从运营行为到自动化用例的智能化实践｜得物技术](https://my.oschina.net/u/5783135/blog/19595102)
++ [React、Vue 还是别的？真相是：框架，早就没那么重要了](https://mp.weixin.qq.com/s/egIsJnwDWZE1OJmEr5EUaw)

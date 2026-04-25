@@ -591,6 +591,7 @@
 + [面试官：MySQL 乐观锁与悲观锁怎么实现？（修订版）](https://mp.weixin.qq.com/s/5zrdsSsdOzJCtKAgmWtMGQ)
 + [字节二面：什么是数据库死锁，怎么解决？（修订版）](https://mp.weixin.qq.com/s/mcLTfU1ciy1tf8YcSJIBUA)
 + [面试官：谈谈 InnoDB 中的表级锁、页级锁、行级锁？（修订版）](https://mp.weixin.qq.com/s/HpnLqKmSGYyWXTi7_Vegvw)
++ [面试官问我MySQL行锁，我用"门卫"讲明白了](https://mp.weixin.qq.com/s/IYDVljQgMgDrFZ9yivVzVg)
 
 #### 事务
 
@@ -721,6 +722,7 @@
 + [面试官：什么是最左前缀匹配？为什么要遵守？（修订版）](https://mp.weixin.qq.com/s/O0AkDlyT5Ot1vChKvatuOA)
 + [京东二面：加索引时，会锁表吗?（修订版）](https://mp.weixin.qq.com/s/RKYRjWiBLrVn3v2d3d2n3A)
 + [面试官：MySQL 唯一索引和主键索引的区别？(修订版)](https://mp.weixin.qq.com/s/qUKf27dUzYBZldQDEjE00Q)
++ [MySQL索引底层原理：B+树 这一篇全讲透](https://mp.weixin.qq.com/s/9iuzgoGqUYBO4Ij_16zVeA)
 
 ### PostgreSQL
 

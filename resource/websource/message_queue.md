@@ -148,6 +148,7 @@
 + [Kafka 消息幂等性实现详解：原理、机制与实践](https://mp.weixin.qq.com/s/f3jd2gfCgazHY1nqKvvHcQ)
 + [Kafka中的消费者拉取（Polling）机制是如何工作的？](https://mp.weixin.qq.com/s/5-l2UK7qYgwDWUHLxP1RYA)
 + [Kafka如何保证「消息不丢失」，「顺序传输」，「不重复消费」，以及为什么会发送重平衡（reblanace）](https://mp.weixin.qq.com/s/J_9Ho_h2wwKzLI2RMl9FjQ)
++ [Kafka 还没吃透？架构师必须死磕的核心概念（看完直接拉开差距）](https://mp.weixin.qq.com/s/KpyxVlA2dJsFtrFqsucmWw)
 
 # ROCKETMQ
 

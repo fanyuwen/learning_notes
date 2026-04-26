@@ -144,6 +144,7 @@
 + [那次上线失败：技术问题背后，是我低估了人性](https://mp.weixin.qq.com/s/efz_fRgADdftdEH-ETAwkw)
 + [一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕](https://mp.weixin.qq.com/s/PHLHBBaQIA8YhmKaBJ3aIA)
 + [加不完的班：我们为什么总在修 bug？](https://mp.weixin.qq.com/s/iBVoPbMAdX7kckVywjWJRg)
++ [真正拉开程序员差距的，不是技术，是习惯](https://mp.weixin.qq.com/s/5dkX5-NYeHzAz_gAMRzirA)
 
 # 个人成长
 
@@ -416,6 +417,8 @@
 + [为 MacBook Neo 编程：一位开发者的深度观察](https://mp.weixin.qq.com/s/I1E5OFvqdJ93H9oTc-YsWg)
 + [Mac有趣的系统性能监测工具](https://mp.weixin.qq.com/s/KXFVYfEIv_051jhocUE8hg)
 + [用了这么多年Mac才发现，我天天拔插充电线的样子像个傻子…](https://mp.weixin.qq.com/s/MOKOmCg_3LYbeJC_XnA_Fg)
++ [MacBook真的能用5年以上吗？我用到第3年，说点更真实的情况](https://mp.weixin.qq.com/s/O_mEQT_dYNuzJqcVl2Ljdw)
++ [用了一年的 MacBook，电池健康仍 100%？踩过坑，才知道这有多夸张](https://mp.weixin.qq.com/s/ENSNS5dAiBcPDkR95raGYQ)
 
 ## NAS
 

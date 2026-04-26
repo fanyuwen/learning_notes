@@ -118,6 +118,7 @@
 + [SQLParser 解析器分层改造](https://my.oschina.net/u/3869098/blog/19148174)
 + [加了 LIMIT 1，为什么查询反而变慢了？](https://mp.weixin.qq.com/s/g2hCcylTITLVlOEr9I2m9w)
 + [10 个进阶 SQL 技巧，懂一半就能让 MySQL 性能起飞](https://mp.weixin.qq.com/s/ghKJMPUHHFSWCIK8ouffWg)
++ [Day 16｜EXPLAIN：SQL慢了先看这个](https://mp.weixin.qq.com/s/Ei0csU1E8voV0Juzu2G1jA)
 
 # 本地数据库
 
@@ -494,6 +495,7 @@
 + [MySQL时间类型对比：别再用错DATE、DATETIME和TIMESTAMP了！](https://mp.weixin.qq.com/s/V7lgBedDOVAO-1BDAMgYLw)
 + [腾讯二面：binlog、redolog 和 undolog 三大日志的区别？](https://mp.weixin.qq.com/s/iJfdlWk002SYGf3Mag1a0A)
 + [阿里二面：什么是 MySQL 回表查询？如何避免？（修订版）](https://mp.weixin.qq.com/s/BHUtBppCvgKHOyOhQu5BaQ)
++ [MySQL 一排序就慢？4大排序算法 + 优化技巧，彻底搞懂 Using filesort](https://mp.weixin.qq.com/s/XRrseazQQWVLGjaIoLQ_xw)
 
 #### 存储引擎
 
@@ -1019,6 +1021,7 @@
 + [得物二面：Redis 中某个 Key 访问量特别大怎么办？我：Redis 能顶得住...](https://mp.weixin.qq.com/s/bjR2J8u3ogsTbL80gCcy2g)
 + [华为面试官：Redis 挂了数据会丢失吗？如何保证数据不丢？我：缓存而已，丢了就丢了...](https://mp.weixin.qq.com/s/PTWX1J5e66HcLwp7wBAkmA)
 + [Redis只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/lrmKGN2AI3V80HX9bDfWrQ)
++ [Redis 发布订阅（Pub/Sub）模式简介](https://mp.weixin.qq.com/s/OKhPDuLHAC-wpRHAPIeLIg)
 
 #### 原理
 

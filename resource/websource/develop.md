@@ -329,6 +329,7 @@
 + [如何实现一个合格的分布式锁？](https://mp.weixin.qq.com/s/CEOWNqND9SFuLCeAEaZ8MQ)
 + [分布式锁的使用场景和常见实现（上）](https://mp.weixin.qq.com/s/so_Q8oQZj_AZoO6Z1J5ptA)
 + [事务管理 vs. 锁控制：何时使用何种并发控制策略？](https://mp.weixin.qq.com/s/8SBVfAKytRJDLBwNUcoouw)
++ [我熟记 Redis 分布式锁，面试官竟然问我分布式读写锁如何设计](https://mp.weixin.qq.com/s/IsOUh3LCT51qMzVcOJ8R_A)
 
 ## 分布式缓存
 

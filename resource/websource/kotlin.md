@@ -73,6 +73,8 @@
 + [使用 Kotlin 构建 AI 智能体 – 第 5 部分：让智能体学会忘记](https://mp.weixin.qq.com/s/Rz8x0R6IMtiJ0i3InTFdXg)
 + [推出 Tracy：适用于 Kotlin 的 AI 可观测性库｜官方博客](https://mp.weixin.qq.com/s/1TKXMfIZuDOlvd3djFz4Gg)
 + [如何避免使用 JPA 和 Kotlin 时的常见陷阱｜官方博客](https://mp.weixin.qq.com/s/eEkzUrkTmJ7eO1cBV97OSw)
++ [Kotlin更高效了升序校验居然一行搞定](https://mp.weixin.qq.com/s/RVcOKyqbhaX_dUDDLcDFzA)
++ [Kotlin 程序员必看Flow 转换还能这么丝滑](https://mp.weixin.qq.com/s/DmM8fJzSq9n_CyVszyiaEg)
 
 ## 技术月报
 

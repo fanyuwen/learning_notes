@@ -1,6 +1,7 @@
 # 架构相关
 
 + [如何做架构设计？ | 京东云技术团队](https://my.oschina.net/u/4090830/blog/9869453)
++ [从工程师到CTO：架构师的四个成长阶段](https://mp.weixin.qq.com/s/P8dsZXfvCmEogJRmNPHNLw)
 + [这 10 种架构师，不合格！](https://mp.weixin.qq.com/s/1B1VL97rtRcD-6glEawi9g)
 + [一分钟阅读:架构师的核心能力](https://mp.weixin.qq.com/s/KMD3AM-XOf6Gc7gX1Sh9jw)
 + [30. 为什么复杂的架构一定要做分层设计？](https://mp.weixin.qq.com/s/GPYKsuSJXN1Yr_PWZxDb0w)
@@ -837,6 +838,8 @@
 + [面试官：如何设计一个百万用户同时在线的直播评论系统？](https://mp.weixin.qq.com/s/sjj8J3ABGR9hmJ36Kj0VCQ)
 + [别再乱做支付系统了！一篇讲透「支付域系统」的完整设计方法论](https://mp.weixin.qq.com/s/RZF36yM2zXZlx9JyFWwOTw)
 + [瞧瞧别人家的优惠券过期方案，那叫一个优雅！](https://mp.weixin.qq.com/s/ET4Y55fHCB-aOVPuqN2jjg)
++ [订单管理系统(OMS)--系统设计](https://mp.weixin.qq.com/s/bL9C-BHDrChw8MLGcd9_qw)
++ [面试官问“订单拆单与合单”，我把简历上的“电商项目”划掉了...](https://mp.weixin.qq.com/s/o0S05fpfwUaEBi--9ArL7Q)
 
 ## 代码相关
 

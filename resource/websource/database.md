@@ -496,6 +496,7 @@
 + [腾讯二面：binlog、redolog 和 undolog 三大日志的区别？](https://mp.weixin.qq.com/s/iJfdlWk002SYGf3Mag1a0A)
 + [阿里二面：什么是 MySQL 回表查询？如何避免？（修订版）](https://mp.weixin.qq.com/s/BHUtBppCvgKHOyOhQu5BaQ)
 + [MySQL 一排序就慢？4大排序算法 + 优化技巧，彻底搞懂 Using filesort](https://mp.weixin.qq.com/s/XRrseazQQWVLGjaIoLQ_xw)
++ [MySQL百万级表在不停机的情况下增加一个字段要怎么处理的？](https://mp.weixin.qq.com/s/kdIul_p8gSWQ8qFhc2bClg)
 
 #### 存储引擎
 
@@ -1022,6 +1023,7 @@
 + [华为面试官：Redis 挂了数据会丢失吗？如何保证数据不丢？我：缓存而已，丢了就丢了...](https://mp.weixin.qq.com/s/PTWX1J5e66HcLwp7wBAkmA)
 + [Redis只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/lrmKGN2AI3V80HX9bDfWrQ)
 + [Redis 发布订阅（Pub/Sub）模式简介](https://mp.weixin.qq.com/s/OKhPDuLHAC-wpRHAPIeLIg)
++ [Redis 分布式限流完全指南：固定窗口、滑动窗口、令牌桶三大算法](https://mp.weixin.qq.com/s/oBWhlL-LJ7fv_h1zaQ8AoQ)
 
 #### 原理
 

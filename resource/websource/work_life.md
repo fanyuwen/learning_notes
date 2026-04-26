@@ -145,6 +145,8 @@
 + [一个被99%程序员忽略的效率杀手：你每天盯着看的那块屏幕](https://mp.weixin.qq.com/s/PHLHBBaQIA8YhmKaBJ3aIA)
 + [加不完的班：我们为什么总在修 bug？](https://mp.weixin.qq.com/s/iBVoPbMAdX7kckVywjWJRg)
 + [真正拉开程序员差距的，不是技术，是习惯](https://mp.weixin.qq.com/s/5dkX5-NYeHzAz_gAMRzirA)
++ [我发现，大多数程序员其实根本不需要那么努力](https://mp.weixin.qq.com/s/28TRK0bg_vLUK8lmDPs1rg)
++ [从年薪5万到50万，我用11年总结的3个程序员职场禁忌](https://mp.weixin.qq.com/s/bmjw3jJbUiO8ce6jUl8-eQ)
 
 # 个人成长
 

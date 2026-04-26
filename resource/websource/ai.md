@@ -77,6 +77,8 @@
 + [你写的 Skill，及格了吗？](https://my.oschina.net/u/4939618/blog/19595216)
 + [程序员必知的8种节省Token方案](https://mp.weixin.qq.com/s/dB8y5XjU6Y-DN0u7SF_2ug)
 + [ClaudeCode/Codex/OpenCodeToken节省80%](https://mp.weixin.qq.com/s/2daIO-5VpAN4TxljbqXX6w)
++ [还在熬夜敲代码吗？别傻了，有些事ai完全能代替你](https://mp.weixin.qq.com/s/PLxo_K2aif91CrFxPYqHQg)
++ [软件行业离职：高级开发走后项目延期30%，这钱该谁出？](https://mp.weixin.qq.com/s/qTE31XUbvo81Q1JWrtMIKw)
 
 ### agent
 

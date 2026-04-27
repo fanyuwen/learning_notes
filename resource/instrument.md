@@ -152,6 +152,7 @@
 + 软件开发环境管理 [conda](https://docs.conda.io/)
 + 购书网站 [PACKT](https://subscription.packtpub.com/) [MANNING](https://www.manning.com/) [oreilly](https://www.oreilly.com/)
 + 代码托管平台 [codeberg](https://codeberg.org/)
++ [Doug Lea的主页](https://gee.cs.oswego.edu/)
 
 ### Go_LIBRARY
 + 跨平台GUI库 [fyne](https://fyne.io/)

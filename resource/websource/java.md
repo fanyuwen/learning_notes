@@ -806,6 +806,7 @@
 ### IO
 
 + [java nio，netty，kafka 中经常提到 “零拷贝” 到底是什么？](https://my.oschina.net/makemyownlife/blog/16504259)
++ [Scalable IO in Java](https://gee.cs.oswego.edu/dl/cpjslides/nio.pdf)
 + [聊聊java零拷贝的几种实现](https://mp.weixin.qq.com/s/FSq5_beguRsNBKeUMAutPg)
 + [Java IO流经典使用](https://mp.weixin.qq.com/s/efqw7TbPwv31puGcP6frgA)
 + [面试官：BIO、NIO、AIO有什么区别](https://mp.weixin.qq.com/s/xFXOQyyHEtfPub4gkqCdRQ)

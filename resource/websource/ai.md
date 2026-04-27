@@ -81,6 +81,7 @@
 + [软件行业离职：高级开发走后项目延期30%，这钱该谁出？](https://mp.weixin.qq.com/s/qTE31XUbvo81Q1JWrtMIKw)
 + [再见，Llama](https://my.oschina.net/u/4487475/blog/19554381)
 + [AI，最终幻想](https://www.oschina.net/news/419487/ai-future)
++ [2026 年 AI 编码 CLI 工具终极对比：Claude、Cursor、Gemini、Codex](https://www.oschina.net/news/430624)
 
 ### agent
 

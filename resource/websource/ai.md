@@ -80,6 +80,7 @@
 + [还在熬夜敲代码吗？别傻了，有些事ai完全能代替你](https://mp.weixin.qq.com/s/PLxo_K2aif91CrFxPYqHQg)
 + [软件行业离职：高级开发走后项目延期30%，这钱该谁出？](https://mp.weixin.qq.com/s/qTE31XUbvo81Q1JWrtMIKw)
 + [再见，Llama](https://my.oschina.net/u/4487475/blog/19554381)
++ [AI，最终幻想](https://www.oschina.net/news/419487/ai-future)
 
 ### agent
 

@@ -82,6 +82,7 @@
 + [再见，Llama](https://my.oschina.net/u/4487475/blog/19554381)
 + [AI，最终幻想](https://www.oschina.net/news/419487/ai-future)
 + [2026 年 AI 编码 CLI 工具终极对比：Claude、Cursor、Gemini、Codex](https://www.oschina.net/news/430624)
++ [给 Claude Code 装一块秒表：每轮 + 累计耗时自动反馈](https://www.oschina.net/news/437410)
 
 ### agent
 
@@ -131,6 +132,8 @@
 + [人人都在造 Skill，谁来保障安全运行？](https://my.oschina.net/u/3874284/blog/19595098)
 + [GPT-5.5发布！更强更快更贵。。。](https://mp.weixin.qq.com/s/3f6AR_1E8sqsg9hhaO91VQ)
 + [面试官问我：“AI 写代码比你快 100 倍，你的价值在哪？”](https://mp.weixin.qq.com/s/NxWdlbYyTV_5e42_RbFuPg)
++ [老牌开源项目该不该接受 AI 代码？](https://my.oschina.net/u/4487475/blog/19585524)
++ [四评 DeepSeek](https://www.oschina.net/news/437449/deepseek-view)
 
 ## LangChain
 

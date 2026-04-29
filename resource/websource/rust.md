@@ -263,3 +263,4 @@
 + [Go 和 Rust 吵翻天的 2025 年，真正危险的对手其实是 Zig](https://mp.weixin.qq.com/s/Zdmd0K_9OdKfMiE8iVbPUA)
 + [Rust 全面对比 JavaScript/TypeScript](https://www.oschina.net/news/410097)
 + [Rust 语言生态困境：一致性与孤儿规则为何阻碍创新](https://www.oschina.net/news/413708)
++ [开发者用 Rust 基于 RISC-V 芯片打造掌上游戏机：从 1 FPS 到 30 FPS 的极致优化之路](https://www.oschina.net/news/437566)

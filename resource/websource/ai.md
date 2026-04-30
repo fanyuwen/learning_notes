@@ -84,6 +84,7 @@
 + [2026 年 AI 编码 CLI 工具终极对比：Claude、Cursor、Gemini、Codex](https://www.oschina.net/news/430624)
 + [给 Claude Code 装一块秒表：每轮 + 累计耗时自动反馈](https://www.oschina.net/news/437410)
 + [Apache Doris 4.1：面向 AI & Search 的统一数据存储与检索底座](https://my.oschina.net/u/4487475/blog/19612091)
++ [读完 Claude Code 源码才发现：Skills、MCP、Rules 的区别，远没有你想的那么大](https://my.oschina.net/u/4939618/blog/19579565)
 
 ### agent
 

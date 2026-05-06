@@ -92,6 +92,7 @@
 + [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
 + [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
 + [美团Agent岗二面：向量检索和关键词检索有什么区别？](https://mp.weixin.qq.com/s/j1Jnqz1CJ89PaGtH3HpzYA)
++ [为什么 AI Agent 重新爱上了文件系统（Filesystems）](https://my.oschina.net/IDP/blog/19648991)
 
 ## 资讯
 

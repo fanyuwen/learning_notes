@@ -93,6 +93,7 @@
 + [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
 + [美团Agent岗二面：向量检索和关键词检索有什么区别？](https://mp.weixin.qq.com/s/j1Jnqz1CJ89PaGtH3HpzYA)
 + [为什么 AI Agent 重新爱上了文件系统（Filesystems）](https://my.oschina.net/IDP/blog/19648991)
++ [通用 AI Agent 驱动网关路由安全审计实践｜得物技术](https://my.oschina.net/u/5783135/blog/19614839)
 
 ## 资讯
 

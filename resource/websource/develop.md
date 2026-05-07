@@ -105,6 +105,7 @@
 + [如何画出一张优秀的架构图？（老鸟必备）](https://mp.weixin.qq.com/s/zC_XaOOufXxa6omFZXErwQ)
 + [业务架构之业务能力的组件化](https://mp.weixin.qq.com/s/aKnir8SRltsdCctZC0rM_Q)
 + [我为什么不建议你做纯架构师](https://mp.weixin.qq.com/s/OcrzmErBwRdGV-oAgol-bA)
++ [一文说清楚分层架构](https://my.oschina.net/xiandafu/blog/19612393)
 
 ### DDD
 

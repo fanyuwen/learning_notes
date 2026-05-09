@@ -111,7 +111,7 @@
 + 基础设施应用平台 [nix](https://nixos.org) [walrus](https://www.seal.io) [opentofu](https://opentofu.org) [terraform](https://www.terraform.io)
 + 配置文件格式 [toml](https://toml.io/)
 + 软件观测工具 [opentelemetry](https://opentelemetry.io/) [micrometer](https://micrometer.io/)
-+ 开源图形工具 [blender](https://www.blender.org/)
++ 开源图形工具 [blender](https://www.blender.org/) [inkscape](https://inkscape.org/)
 + 规则引擎 [drools](https://www.drools.org)
 + RPC框架工具 [brpc](https://brpc.incubator.apache.org/) [grpc](https://grpc.io/) [thrift](https://thrift.apache.org/)
 + windows平台工具 [wsl](https://learn.microsoft.com/en-us/windows/wsl/)

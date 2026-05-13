@@ -97,6 +97,7 @@
 + [通用 AI Agent 驱动网关路由安全审计实践｜得物技术](https://my.oschina.net/u/5783135/blog/19614839)
 + [AI Agent 如何重构 App 稳定性治理流程](https://my.oschina.net/u/4939618/blog/19665040)
 + [Agent 开发范式演进：从环境工程出发，“简化” 多源实时上下文](https://my.oschina.net/u/3874284/blog/19661323)
++ [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://my.oschina.net/selectdb/blog/19658249)
 
 ## 资讯
 

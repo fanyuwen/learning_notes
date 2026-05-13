@@ -94,6 +94,8 @@
 + [美团Agent岗二面：向量检索和关键词检索有什么区别？](https://mp.weixin.qq.com/s/j1Jnqz1CJ89PaGtH3HpzYA)
 + [为什么 AI Agent 重新爱上了文件系统（Filesystems）](https://my.oschina.net/IDP/blog/19648991)
 + [通用 AI Agent 驱动网关路由安全审计实践｜得物技术](https://my.oschina.net/u/5783135/blog/19614839)
++ [AI Agent 如何重构 App 稳定性治理流程](https://my.oschina.net/u/4939618/blog/19665040)
++ [Agent 开发范式演进：从环境工程出发，“简化” 多源实时上下文](https://my.oschina.net/u/3874284/blog/19661323)
 
 ## 资讯
 

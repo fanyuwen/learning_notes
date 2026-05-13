@@ -85,6 +85,7 @@
 + [给 Claude Code 装一块秒表：每轮 + 累计耗时自动反馈](https://www.oschina.net/news/437410)
 + [Apache Doris 4.1：面向 AI & Search 的统一数据存储与检索底座](https://my.oschina.net/u/4487475/blog/19612091)
 + [读完 Claude Code 源码才发现：Skills、MCP、Rules 的区别，远没有你想的那么大](https://my.oschina.net/u/4939618/blog/19579565)
++ [应对 AI 研发的 “混沌”：SDD（规格驱动开发）在银行私域研发体系的落地探索](https://my.oschina.net/u/3874284/blog/19663853)
 
 ### agent
 

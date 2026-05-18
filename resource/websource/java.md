@@ -409,6 +409,7 @@
 + [揭秘观察者模式：Java异步通信的优雅解耦之道](https://mp.weixin.qq.com/s/EscHn8a-bwBaYhAkVIlaCg)
 + [Java设计模式详解：让代码优雅如诗的秘密武器](https://mp.weixin.qq.com/s/LtSutdH-QELKJW1DCREhSA)
 + [Java策略模式在实际项目中的应用](https://mp.weixin.qq.com/s/EQMNQHNhu8VhucHczxiAjg)
++ [美团面试：单例模式的 5 种写法，你会几种？ 我只答上来 3 种...](https://mp.weixin.qq.com/s/Kjir2G9s7lUB0XIbpRXPEw)
 + [Java真的不难（三十二）单例模式](https://mp.weixin.qq.com/s/4gWvLeUXnHzKYpAhOFbv7Q)
 + [Java真的不难（三十三）策略模式](https://mp.weixin.qq.com/s/dd2c8-0qWKZpJqXt1DNy8A)
 + [Java真的不难（三十四）简单工厂模式](https://mp.weixin.qq.com/s/-9g7g8RWZpC5vdiuXRJVEg)
@@ -433,6 +434,7 @@
 + [Java 设计模式--适配器模式](https://mp.weixin.qq.com/s/bqw7BNoLWNQCfVilJUrjGA)
 + [Java 设计模式--备忘录模式](https://mp.weixin.qq.com/s/JYjEiT90k5csKU8JWo-iPQ)
 + [Java 设计模式——观察者模式](https://mp.weixin.qq.com/s/dfOBJAfyS0-ZNViv6CZkXQ)
++ [面试官：什么是观察者模式？应用场景有哪些？](https://mp.weixin.qq.com/s/YOd5A_bQWUqlp4RW-V8upA)
 + [别学23种了！Java项目中最常用的6个设计模式，附案例](https://mp.weixin.qq.com/s/801OPrV8Wv4D0R0i9v22AA)
 + [Java设计模式-桥接模式](https://mp.weixin.qq.com/s/g1mfsI2cG5rxvRhBezvUGg)
 + [JAVA策略模式，这回真落地了](https://mp.weixin.qq.com/s/70MYdklbNJWparqsBsx4Pg)
@@ -560,6 +562,7 @@
 + [2026年你以为会写 Java 就够了？这 10 个底层认知，决定你天花板在哪](https://mp.weixin.qq.com/s/bBFbPhbYGpKGKyaknNCJVA)
 + [写不好 Lambda？这 4 个核心技巧，直接拉开你和普通 Java 程序员的差距（Java 25）](https://mp.weixin.qq.com/s/3NRAqQmcFjsm8kCgbkQ4vQ)
 + [【java必会】快速求出两个集合的交集、并集、差集、补集及对集合中对象的多个属性进行排序](https://mp.weixin.qq.com/s/8fXV2jdf0XiGOVMJufNJuA)
++ [只会 try-catch？这 3 种优雅容错模式，这才是资深开发的硬实力](https://mp.weixin.qq.com/s/VorFBnp7hn5-ezOrBM4nsg)
 
 ## 代码质量
 
@@ -661,6 +664,7 @@
 + [同样的业务，性能暴涨 10x！一次 Java 重构带来的极限优化实录](https://mp.weixin.qq.com/s/9ED7csx2aOnOlRvAf6z3Pg)
 + [Java性能调优黑科技！1行代码实现毫秒级耗时追踪，效率飙升300%！](https://mp.weixin.qq.com/s/OkF4PZFl_egBTcCLgk6l-w)
 + [防御性编程第一步：多用forEach，其中有一个坑很容易出错](https://mp.weixin.qq.com/s/VmUcBQ6O80Rf9jVNfxmB7A)
++ [告别烂代码！9 个 Java 代码优化技巧](https://mp.weixin.qq.com/s/a94SESrRgGGVlvdQNPLExA)
 
 # 底层
 
@@ -1037,6 +1041,7 @@
 + [深入理解CAS与原子操作：AtomicInteger性能为何如此之高？无锁编程的基石。](https://mp.weixin.qq.com/s/0-X8shNTmTutoAnCfvHXFg)
 + [并发编程的"无锁秘籍"：Lock-Free数据结构如何让你的系统快如闪电？](https://mp.weixin.qq.com/s/wvNdOzxVKOM9kFtxjgT1Iw)
 + [小红书面试题：了解CAS吗?](https://mp.weixin.qq.com/s/GqaB_P2Gg2qOXY9lYfc0DA)
++ [面试官：什么是 CAS？存在什么问题？](https://mp.weixin.qq.com/s/0qR4XGDjcG4FNdhYFd0KWw)
 
 #### 线程池
 
@@ -2915,6 +2920,8 @@
 + [Spring Bean生命周期详解](https://mp.weixin.qq.com/s/zQf0p3CQMHzAzl1AAlIwMw)
 + [第三篇・Spring 源码深度拆解：循环依赖 + 三级缓存](https://mp.weixin.qq.com/s/v-CiMD_omsxTUDP2I286Tg)
 + [Spring 中的 Bean 是线程安全的吗？](https://mp.weixin.qq.com/s/rJRILuHZ0zwsMOgl1fP7-w)
++ [Spring Bean线程安全：一道面试题背后的三个考察点](https://mp.weixin.qq.com/s/TDg2CdvhlIaCKSvLLGPBgg)
++ [字节二面：Spring 中的 Bean 是线程安全的吗？我：应该是安全的...](https://mp.weixin.qq.com/s/MNtPN0s9fJn8WrUKAFxFNg)
 
 ### 新版本新特性
 
@@ -3011,6 +3018,7 @@
 + [别再用 RestTemplate 了！Spring Boot 已全面转向 WebClient](https://mp.weixin.qq.com/s/3VQVE2aG8EptWSDITOUUoQ)
 + [面试高频｜Controller与RestController区别：原理+真题+避坑指南](https://mp.weixin.qq.com/s/eC3jExdKNVUiABc3fOrwaw)
 + [第六篇・Spring 5 源码深度拆解：SpringMVC 全流程核心原理](https://mp.weixin.qq.com/s/-RhNYFQxvuGywxEOwjB49w)
++ [强烈安利：加上这个Spring依赖，前端老哥再也不催我更新Swagger了](https://mp.weixin.qq.com/s/UHx7ZrtUhOFga5zraB1v6A)
 
 #### reactor
 
@@ -3182,6 +3190,7 @@
 + [Spring Boot中的中介者模式：终结对象交互的“蜘蛛网”困境](https://mp.weixin.qq.com/s/z08lIPIjNmaEt16KTJA1WQ)
 + [Spring设计模式大揭秘：23种模式藏在你每天在用的框架里](https://mp.weixin.qq.com/s/dLHb9Vt8PsMw_q_rBBR-IA)
 + [代理模式与门面模式：Spring 中最常用的两个模式](https://mp.weixin.qq.com/s/DstA9z3pEKNi-xGy3XzYyw)
++ [Spring 用到了哪些设计模式？你能答上来几个？](https://mp.weixin.qq.com/s/6RyLPTD-uCRKGbhCbZZdCQ)
 
 ### STATEMACHINE
 
@@ -3339,6 +3348,7 @@
 + [Spring-AI 与 Solon-AI 深度对比分析报告](https://www.oschina.net/news/418355)
 + [JAVA：Spring Boot3 集成 Spring AI 实现结构化输出](https://mp.weixin.qq.com/s/Ika05wJVlE4qoLcpGe9x0w)
 + [JAVA：Spring Boot3 集成 Spring AI 实现 Advisor 增强机制](https://mp.weixin.qq.com/s/yB1hYBamMGn-_OsC0KWO3Q)
++ [AI智能体！Spring AI 主动提问的智能体，让需求零偏差](https://mp.weixin.qq.com/s/u7WeEC1-tgb6KIVfRurGig)
 
 ### cloud
 
@@ -3517,6 +3527,7 @@
 + [想看线上服务的debug级别的日志？spring-boot自带组件actuator帮你实现](https://mp.weixin.qq.com/s/QvKEGjO-OGdb6w0OUvSRvw)
 + [别再用错！Spring Boot 加载资源的3种核心万能方法](https://mp.weixin.qq.com/s/ro0Fep_ixCTPsPABjC0tkw)
 + [还在满屏 `new` 对象？Spring Boot 中 Builder 模式的优雅写法，一次讲透！](https://mp.weixin.qq.com/s/gMQD09d9XvjHbXEJPmzOCw)
++ [高级开发必须掌握Spring Boot开发中的7个核心概念](https://mp.weixin.qq.com/s/W_noEdqEdXgfNN3cO0zGhg)
 
 ##### 高阶
 
@@ -3743,6 +3754,7 @@
 + [Spring Boot运行原理，启动流程全解析](https://mp.weixin.qq.com/s/dnR1UupyWx3B2TPQ8r_JeQ)
 + [类名前加了两个大写字母，Spring Boot 项目当场罢工](https://mp.weixin.qq.com/s/KDJ2_WjynjXGv6U_bXBnbQ)
 + [Spring Boot项目结构详解，看完不再迷茫](https://mp.weixin.qq.com/s/hkmitOnbcnf1vPWmZ_hQwg)
++ [得物二面：SpringBoot 内部的启动流程是怎样的？我：没研究过...](https://mp.weixin.qq.com/s/cEB54rBMD8lS3a0H60dHMQ)
 
 #### 版本特性
 
@@ -4326,6 +4338,9 @@
 + [Spring Boot+WebSocket+Redis：毫秒级实时在线系统](https://mp.weixin.qq.com/s/GSkFWX6Tyo1RbFTO4-ksYg)
 + [Spring Boot 实现接口防止重放攻击验证（时间戳 + 随机数 + 签名）](https://mp.weixin.qq.com/s/mb23HGleNPv53xh64pnUJg)
 + [Spring Boot 3.x Controller中自定义参数解析器，这个技巧让我代码瞬间清爽](https://mp.weixin.qq.com/s/9IA2H8FO88-k9ngUq5VOCQ)
++ [Spring Boot 菜单无限层级，别再只会用 parent_id 了！多种建设方案？](https://mp.weixin.qq.com/s/0CkZzrfSn9a7R4agKYbbYw)
++ [一个StackOverflowError背后：树形结构的选型陷阱。。。](https://mp.weixin.qq.com/s/iZ-MuxTHA5RsPSUnqTnMcA)
++ [@RequestBody 真被你低估了！除了 JSON，它还能吞下多种请求格式](https://mp.weixin.qq.com/s/JZP49IDf7a0Q3Q3ZThtB0g)
 
 ##### 文件上传下载
 
@@ -4484,6 +4499,7 @@
 + [从卡顿到丝滑：Spring Boot 接入 Redis 缓存的正确打开方式](https://mp.weixin.qq.com/s/7H3CeFcMFhDUtyYMqQybfA)
 + [SpringBoot慢SQL炸了？自动捕获+一键优化，这些坑90%的人都踩过！](https://mp.weixin.qq.com/s/pXq-ZVpUKuD0j708uwu4nA)
 + [MySQL多数据源不用愁！Spring Boot动态切换实战，直接复制就能用！支持事务回滚](https://mp.weixin.qq.com/s/PDlMP0-nqyLXHkTT33oszw)
++ [性能优化！Spring Boot 使用 DataLoader 实现高效批处理](https://mp.weixin.qq.com/s/LIpl85AM9F-XDcKQApLL-g)
 
 ##### TRANSACTION
 
@@ -4600,6 +4616,7 @@
 + [Spring Boot 全面拥抱虚拟线程：从入门到落地，单机百万并发不是梦](https://mp.weixin.qq.com/s/5zVizP2_ZWJIhw3qvPBc3w)
 + [Spring Boot 4.0 虚拟线程进阶配置：stack-size、parallelism 最优取值实战](https://mp.weixin.qq.com/s/mSCvJJDVOCt6XOtSaG_RpQ)
 + [实战Spring Boot 4.0+虚拟线程｜压测数据说话，吞吐量直接起飞！（附避坑指南）](https://mp.weixin.qq.com/s/PrwvWq202rlv2UqSYgw3hQ)
++ [Spring Boot 三种经典并发死锁，仅 10 行代码复现](https://mp.weixin.qq.com/s/yLnJl4kcFSlC3DXRoLwAtw)
 
 ##### Disruptor
 
@@ -4681,6 +4698,7 @@
 + [从入门到精通：SpringBoot AOP 完全攻略](https://mp.weixin.qq.com/s/M1H1E_BBqJagbnQUlcXTVQ)
 + [Spring Boot 基于 AOP 自定义注解实现通用功能](https://mp.weixin.qq.com/s/zrKQ7PwBO2xPciBNnLl9RQ)
 + [new 的对象也能被 Spring 注入？AspectJ LTW 打破限制！](https://mp.weixin.qq.com/s/ZZe_Dmb-0Okrrqb8SWEciQ)
++ [碾压传统 AOP！Spring Boot 权限控制新方案，优雅又高效](https://mp.weixin.qq.com/s/JQk36ckHrQoOlsMCFTGycA)
 
 #### SPI
 

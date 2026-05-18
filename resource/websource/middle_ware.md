@@ -28,6 +28,7 @@
 + [解密ZAB协议：Zookeeper一致性的核心实现](https://mp.weixin.qq.com/s/bZQL3FtFM7M4K7dVNvRoXQ)
 + [Zookeeper最全详解(万字图文总结)](https://mp.weixin.qq.com/s/FjNWtMgaRC4qSijgvR8e8w)
 + [面试必看｜15道ZooKeeper高频面试题，吃透原理+答案，大厂面试稳了](https://mp.weixin.qq.com/s/-PEDSZ-b0tOxlzFvScx-HQ)
++ [面试官：Zookeeper 的典型应用场景有哪些？你能说上来几个？](https://mp.weixin.qq.com/s/OBriKtmr876VgixD2eblAw)
 
 # Thrift
 

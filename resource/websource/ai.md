@@ -83,6 +83,8 @@
 + [AI，最终幻想](https://www.oschina.net/news/419487/ai-future)
 + [2026 年 AI 编码 CLI 工具终极对比：Claude、Cursor、Gemini、Codex](https://www.oschina.net/news/430624)
 + [给 Claude Code 装一块秒表：每轮 + 累计耗时自动反馈](https://www.oschina.net/news/437410)
++ [CLAUDE.md 四条规则，拿下 GitHub 13w Stars](https://mp.weixin.qq.com/s/M2h0ndEr10l0mujOnrtVHg)
++ [7 个高阶 CLAUDE.md 技巧，让 Claude Code 战力翻倍](https://mp.weixin.qq.com/s/8TvtWrKPJSlaURTWWviwuQ)
 
 ### agent
 

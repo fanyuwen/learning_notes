@@ -120,6 +120,7 @@
 + [10 个进阶 SQL 技巧，懂一半就能让 MySQL 性能起飞](https://mp.weixin.qq.com/s/ghKJMPUHHFSWCIK8ouffWg)
 + [Day 16｜EXPLAIN：SQL慢了先看这个](https://mp.weixin.qq.com/s/Ei0csU1E8voV0Juzu2G1jA)
 + [高德二面：线上慢SQL导致CPU飙升，怎么解决？](https://mp.weixin.qq.com/s/dTENQX9JeAloWGMkFxas_Q)
++ [SQL 的 ORDER BY 进化史：从 80 年代诞生到现代数据库](https://www.oschina.net/news/441065)
 
 # 本地数据库
 

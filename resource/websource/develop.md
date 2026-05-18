@@ -105,6 +105,7 @@
 + [如何画出一张优秀的架构图？（老鸟必备）](https://mp.weixin.qq.com/s/zC_XaOOufXxa6omFZXErwQ)
 + [业务架构之业务能力的组件化](https://mp.weixin.qq.com/s/aKnir8SRltsdCctZC0rM_Q)
 + [我为什么不建议你做纯架构师](https://mp.weixin.qq.com/s/OcrzmErBwRdGV-oAgol-bA)
++ [一文说清楚分层架构](https://my.oschina.net/xiandafu/blog/19612393)
 
 ### DDD
 
@@ -892,6 +893,7 @@
 + [【Java面试100题突击】82 高并发秒杀的业务场景如何设计？](https://mp.weixin.qq.com/s/gx2ASW1pBBdxGluHJvzQGQ)
 + [面试官：第三方服务经常挂，你的系统怎么保证高可用？](https://mp.weixin.qq.com/s/N7PIL7lCPoLmaWPVs4H6Zg)
 + [面试官：应对高并发，如何设计服务降级方案？](https://mp.weixin.qq.com/s/UE2HftpqhUsu2MCxlPpPzw)
++ [高可用系统 4 大原则之一：无状态服务 vs 有状态服务](https://my.oschina.net/xiandafu/blog/19658871)
 
 ## 领域知识
 

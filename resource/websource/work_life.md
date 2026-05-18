@@ -147,6 +147,7 @@
 + [真正拉开程序员差距的，不是技术，是习惯](https://mp.weixin.qq.com/s/5dkX5-NYeHzAz_gAMRzirA)
 + [我发现，大多数程序员其实根本不需要那么努力](https://mp.weixin.qq.com/s/28TRK0bg_vLUK8lmDPs1rg)
 + [从年薪5万到50万，我用11年总结的3个程序员职场禁忌](https://mp.weixin.qq.com/s/bmjw3jJbUiO8ce6jUl8-eQ)
++ [一位开发者的反思：放弃副业项目并不可耻](https://www.oschina.net/news/437534/abandoned-side-projects)
 
 # 个人成长
 

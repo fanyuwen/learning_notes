@@ -702,6 +702,7 @@
 + [C++真的比Python更快吗？](https://mp.weixin.qq.com/s/ck5FZhTb6EXFdKdaQE5U1w)
 + [还在等什么？赶紧使用协程来处理异步IO](https://mp.weixin.qq.com/s/L9sw-OXoW2DXO0AWEBoImw)
 + [如何让虚拟机觉得它有块电池](https://mp.weixin.qq.com/s/QccXL0BCXh_5gBHq3pfJJg)
++ [C++26 引入了一个没人需要的 SIMD 库](https://www.oschina.net/news/442124)
 
 ### 学习资源
 

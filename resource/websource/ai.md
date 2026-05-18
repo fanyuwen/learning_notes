@@ -85,6 +85,9 @@
 + [给 Claude Code 装一块秒表：每轮 + 累计耗时自动反馈](https://www.oschina.net/news/437410)
 + [CLAUDE.md 四条规则，拿下 GitHub 13w Stars](https://mp.weixin.qq.com/s/M2h0ndEr10l0mujOnrtVHg)
 + [7 个高阶 CLAUDE.md 技巧，让 Claude Code 战力翻倍](https://mp.weixin.qq.com/s/8TvtWrKPJSlaURTWWviwuQ)
++ [Apache Doris 4.1：面向 AI & Search 的统一数据存储与检索底座](https://my.oschina.net/u/4487475/blog/19612091)
++ [读完 Claude Code 源码才发现：Skills、MCP、Rules 的区别，远没有你想的那么大](https://my.oschina.net/u/4939618/blog/19579565)
++ [应对 AI 研发的 “混沌”：SDD（规格驱动开发）在银行私域研发体系的落地探索](https://my.oschina.net/u/3874284/blog/19663853)
 
 ### agent
 
@@ -92,6 +95,11 @@
 + [从 OpenClaw 看 Agent 架构设计](https://my.oschina.net/vivotech/blog/19554828)
 + [Harness Engineering: 让 Coding Agent 可靠完成长程任务](https://my.oschina.net/u/4939618/blog/19557754)
 + [美团Agent岗二面：向量检索和关键词检索有什么区别？](https://mp.weixin.qq.com/s/j1Jnqz1CJ89PaGtH3HpzYA)
++ [为什么 AI Agent 重新爱上了文件系统（Filesystems）](https://my.oschina.net/IDP/blog/19648991)
++ [通用 AI Agent 驱动网关路由安全审计实践｜得物技术](https://my.oschina.net/u/5783135/blog/19614839)
++ [AI Agent 如何重构 App 稳定性治理流程](https://my.oschina.net/u/4939618/blog/19665040)
++ [Agent 开发范式演进：从环境工程出发，“简化” 多源实时上下文](https://my.oschina.net/u/3874284/blog/19661323)
++ [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://my.oschina.net/selectdb/blog/19658249)
 
 ## 资讯
 

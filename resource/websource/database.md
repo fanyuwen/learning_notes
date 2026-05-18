@@ -119,6 +119,7 @@
 + [加了 LIMIT 1，为什么查询反而变慢了？](https://mp.weixin.qq.com/s/g2hCcylTITLVlOEr9I2m9w)
 + [10 个进阶 SQL 技巧，懂一半就能让 MySQL 性能起飞](https://mp.weixin.qq.com/s/ghKJMPUHHFSWCIK8ouffWg)
 + [Day 16｜EXPLAIN：SQL慢了先看这个](https://mp.weixin.qq.com/s/Ei0csU1E8voV0Juzu2G1jA)
++ [SQL 的 ORDER BY 进化史：从 80 年代诞生到现代数据库](https://www.oschina.net/news/441065)
 
 # 本地数据库
 

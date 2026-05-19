@@ -38,6 +38,7 @@
 + [db-scheduler](https://github.com/kagkarlsson/db-scheduler)
 + 学习资源
   + [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
+  + [30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java)
 
 # SCALA
 

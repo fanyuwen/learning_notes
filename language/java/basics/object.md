@@ -64,5 +64,36 @@ class Main{
         new Son();
     }
 }
+```
+这边有一个注意点,也是在*effective java*中提到的关于重写方法与构造函数的结合的情况,当在父类构造函数中调用可以被子类重写的方法时,如果处理不当会出现问题
 
+```java
+class Father {
+
+    Father() {
+        init();
+    }
+
+    void init() {
+
+    }
+}
+
+class Son extends Father {
+    private int a = 1;
+
+    @Override
+    void init() {
+        this.a = 2;
+    }
+}
+class Main{
+    static void main(String[] args) {
+        //如上定义,你会希望最后的结果输出2,但实际输出1
+        //因为根据调用顺序,父类构造函数调用完才会执行子类的初始化,所以在父类中调用重写的方法之后,子类的a等于2
+        //但是再到子类对象的初始化时又重新赋值为了1
+        Son son = new Son();
+        System.out.println(son.a);
+    }
+}
 ```

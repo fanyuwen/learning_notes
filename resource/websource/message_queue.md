@@ -201,6 +201,8 @@
 + [面试官：RocketMQ 消息堆积了怎么处理？](https://mp.weixin.qq.com/s/CpUM1HoOhTBi0MK9vwBLqg)
 + [面试官：RocketMQ 的架构是怎么样的？](https://mp.weixin.qq.com/s/UNtEMmRL9fjzg_UjOLgXrg)
 + [美团二面：生产环境 RocketMQ 消费延迟很高怎么办？我只答出加消费者...](https://mp.weixin.qq.com/s/hsjio9Fihgf2KZrMbD8Suw)
++ [面试官拷打：RabbitMQ 如何保证消息不丢失？我只回答出消费端 ACK，被拒了...](https://mp.weixin.qq.com/s/7eWRYTOTyCq9nqMpXJDA6w)
++ [百度面试官：RabbitMQ 如何防止重复消费？5种解决方案，你知道几个？](https://mp.weixin.qq.com/s/buTegauDVcxTTmWjiUNFdQ)
 
 # RABBITMQ
 

@@ -664,6 +664,7 @@
 + [面试官：什么是 TCP 三次握手、四次挥手？](https://mp.weixin.qq.com/s/VzmdhAYRjwEKwfSUqetb9Q)
 + [面试官：TCP 是怎么保证可靠传输的？](https://mp.weixin.qq.com/s/QFb0smxlL_Z1dH3YP51AKQ)
 + [内网通信新突破：掌握Socket远程控制技术](https://mp.weixin.qq.com/s/_ud0irFvpSIUvhhFnCvloA)
++ [面试被拷打：什么是 TCP 的粘包、拆包问题？我：了解这个，有嘛用？](https://mp.weixin.qq.com/s/YTGbJaJ9frG5zgjQHzcdcQ)
 
 ### UDP
 

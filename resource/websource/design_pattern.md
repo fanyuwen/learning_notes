@@ -46,6 +46,7 @@
 + [结构型设计模式：代码架构的魔法师](https://mp.weixin.qq.com/s/HRGEDqNGX1SudmxQZL-Drw)
 + [行为型设计模式：对象协作的舞蹈家（上）](https://mp.weixin.qq.com/s/nxjIQwR431ew8iC77-693g)
 + [面试官最爱问的3大设计模式：责任链/工厂/观察者原理和使用过场景](https://mp.weixin.qq.com/s/dIN4NWexd-_sFIMH9C1CcQ)
++ [百度面试官：你项目中同时写了 “策略模式”+ “工厂模式”，搭配在一起用的好处是？我：大家都这么用的...](https://mp.weixin.qq.com/s/XadguM8Gbn4fv8-032cp3g)
 
 ## 原则
 
@@ -109,6 +110,7 @@
 + [代理模式深度解析：业务解耦与安全管控实践](https://mp.weixin.qq.com/s/qByJ2R2R_Ui0ur93SJG7qg)
 + [实战设计模式之代理模式](https://mp.weixin.qq.com/s/1qwlJHSQS2iZtR4itaPsdA)
 + [几种常用的设计模式--代理模式](https://mp.weixin.qq.com/s/WURwRhwp1ZbFkrQ0GDyPJg)
++ [面试官：什么是代理模式？应用场景有哪些？](https://mp.weixin.qq.com/s/xlokmvJJPznsjJwQBYn8Yg)
 
 ## 适配器模式
 

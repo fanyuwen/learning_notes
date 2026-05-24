@@ -667,7 +667,6 @@
 + [同样的业务，性能暴涨 10x！一次 Java 重构带来的极限优化实录](https://mp.weixin.qq.com/s/9ED7csx2aOnOlRvAf6z3Pg)
 + [Java性能调优黑科技！1行代码实现毫秒级耗时追踪，效率飙升300%！](https://mp.weixin.qq.com/s/OkF4PZFl_egBTcCLgk6l-w)
 + [防御性编程第一步：多用forEach，其中有一个坑很容易出错](https://mp.weixin.qq.com/s/VmUcBQ6O80Rf9jVNfxmB7A)
-+ [告别烂代码！9 个 Java 代码优化技巧](https://mp.weixin.qq.com/s/a94SESrRgGGVlvdQNPLExA)
 
 # 底层
 

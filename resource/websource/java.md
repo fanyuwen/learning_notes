@@ -5751,3 +5751,4 @@
 + [目前 Java 后端有哪些不是很有必要去学的？](https://mp.weixin.qq.com/s/bO64Ohzp4kQYUgf-2_Sbkw)
 + [Java程序员最常用的20%技术](https://mp.weixin.qq.com/s/hnK7vpIThujFEm1yrZQjEA)
 + [Java 性能比我们的预期中高了四倍，gzb-one 证明了它（一份严谨的压测报告）](https://www.oschina.net/news/419201)
++ [Java 泛型解析太痛苦？你可能需要一枚「蛋」](https://www.oschina.net/news/446884)

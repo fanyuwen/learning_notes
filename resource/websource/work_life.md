@@ -148,6 +148,7 @@
 + [我发现，大多数程序员其实根本不需要那么努力](https://mp.weixin.qq.com/s/28TRK0bg_vLUK8lmDPs1rg)
 + [从年薪5万到50万，我用11年总结的3个程序员职场禁忌](https://mp.weixin.qq.com/s/bmjw3jJbUiO8ce6jUl8-eQ)
 + [一位开发者的反思：放弃副业项目并不可耻](https://www.oschina.net/news/437534/abandoned-side-projects)
++ [所以…那些 40 多岁的程序员都去哪里了？](https://mp.weixin.qq.com/s/m3hpFWeubahyceJrsyoQSw)
 
 # 个人成长
 
@@ -338,6 +339,7 @@
 + [免费投屏神器Deskreen](https://mp.weixin.qq.com/s/gUaXnTk4lm_ozg_ajjOg_A)
 + [一个有趣的拼音神器：pinyin-match](https://mp.weixin.qq.com/s/S0e_hicUfjiSgFO5r9dZQg)
 + [2026 年了还在用老命令？这 5 个终端神器让你效率翻倍](https://mp.weixin.qq.com/s/abSv0djhVhGf-7po6Xtekg)
++ [笔记软件这么多，大佬们都用过哪些？](https://mp.weixin.qq.com/s/JJlvW1ycSz99qY-Ocw_JbQ)
 
 ## 开源资源
 

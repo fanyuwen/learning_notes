@@ -75,6 +75,7 @@
 + [如何避免使用 JPA 和 Kotlin 时的常见陷阱｜官方博客](https://mp.weixin.qq.com/s/eEkzUrkTmJ7eO1cBV97OSw)
 + [Kotlin更高效了升序校验居然一行搞定](https://mp.weixin.qq.com/s/RVcOKyqbhaX_dUDDLcDFzA)
 + [Kotlin 程序员必看Flow 转换还能这么丝滑](https://mp.weixin.qq.com/s/DmM8fJzSq9n_CyVszyiaEg)
++ [Kotlin + Spring Data JDBC 实战：简洁、可控的持久化方案｜官方博客](https://mp.weixin.qq.com/s/Rlt9Cqdb8ey2vfX00VtdYg)
 
 ## 技术月报
 

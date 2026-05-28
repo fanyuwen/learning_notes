@@ -336,6 +336,7 @@
 + [WebSocket 保序与消息乱序探因](https://mp.weixin.qq.com/s/wd0Oir6I7ITHdXhwVqkekQ)
 + [为什么前端项目不都采用 WebSocket？](https://mp.weixin.qq.com/s/Ei3kzNoeLgKWt28Sl9rKIA)
 + [WebSocket，退！退！退！2026 年实时通信的“平替”方案真香](https://mp.weixin.qq.com/s/TB2S5sa-FwqgbvJjjd52Iw)
++ [放弃Websocket，使用 SSE 仅用几行代码就能搞定这些功能](https://mp.weixin.qq.com/s/XLjZC_jGkIWp1zEht_EmJA)
 
 # sse
 

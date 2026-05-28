@@ -582,6 +582,7 @@
 + [如何设计多级缓存架构并解决数据一致性问题？](https://mp.weixin.qq.com/s/CKFru_R1cJ24lEtQ6AWpBA)
 + [得物二面：什么是缓存击穿、缓存穿透、缓存雪崩？（修订版）](https://mp.weixin.qq.com/s/x-TF2y6GpBpHW56dNCf3tQ)
 + [京东缓存中间件架构与缓存内核优化](https://my.oschina.net/u/4090830/blog/19482832)
++ [京东二面：CDN 缓存和 Redis 缓存有什么区别？各适合什么场景？我：只用过 Redis 缓存...](https://mp.weixin.qq.com/s/kObBshUEQGQFygHwn8j3Jg)
 
 ## 优化
 

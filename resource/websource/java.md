@@ -435,6 +435,7 @@
 + [Java 设计模式--适配器模式](https://mp.weixin.qq.com/s/bqw7BNoLWNQCfVilJUrjGA)
 + [Java 设计模式--备忘录模式](https://mp.weixin.qq.com/s/JYjEiT90k5csKU8JWo-iPQ)
 + [Java 设计模式——观察者模式](https://mp.weixin.qq.com/s/dfOBJAfyS0-ZNViv6CZkXQ)
++ [京东面试：你这项目，就 2-3 个 if-else 分支, 也要用策略模式？你觉得合理吗？](https://mp.weixin.qq.com/s/oQsh2SWqmbGE0Oj6TzJfvw)
 + [面试官：什么是观察者模式？应用场景有哪些？](https://mp.weixin.qq.com/s/YOd5A_bQWUqlp4RW-V8upA)
 + [别学23种了！Java项目中最常用的6个设计模式，附案例](https://mp.weixin.qq.com/s/801OPrV8Wv4D0R0i9v22AA)
 + [Java设计模式-桥接模式](https://mp.weixin.qq.com/s/g1mfsI2cG5rxvRhBezvUGg)
@@ -566,6 +567,7 @@
 + [只会 try-catch？这 3 种优雅容错模式，这才是资深开发的硬实力](https://mp.weixin.qq.com/s/VorFBnp7hn5-ezOrBM4nsg)
 + [14 个 Java 集合高阶技巧，提升代码逼格](https://mp.weixin.qq.com/s/UYj6jZIlws_SgavXte6ERg)
 + [告别烂代码！9 个 Java 代码优化技巧](https://mp.weixin.qq.com/s/a94SESrRgGGVlvdQNPLExA)
++ [惊！Java内置强大却被严重低估的WatchService API，你竟不知？](https://mp.weixin.qq.com/s/cCkoArh32L6arxTnR-MLLw)
 
 ## 代码质量
 
@@ -1515,6 +1517,7 @@
 + [面试官问：GC耗时10毫秒，为什么系统却卡顿了10秒？](https://mp.weixin.qq.com/s/iczH-2fabroYnuI14qk67w)
 + [一次 Full GC 频繁的排查经历：排查了12小时，就因为一个Map没设上限](https://mp.weixin.qq.com/s/-kyFzr-6MbEyzKb_lEVUjg)
 + [淘宝二面：线上系统频繁 Full GC，你要怎么排查？我：还没遇到过...](https://mp.weixin.qq.com/s/NS9-3ubqvd0ad45qcVLw2Q)
++ [面试官：YoungGC 和 FullGC 的触发条件是什么？](https://mp.weixin.qq.com/s/Vk8ZP-6owL6xHQCDvF5zZg)
 
 # 核心库
 
@@ -2305,6 +2308,7 @@
 + [不要再封装各种Util工具类了，这个神级框架值得拥有！](https://mp.weixin.qq.com/s/8iAAPjVbRNHgqVAk9MUg3A)
 + [手写递归 VS TreeUtil：看完这篇，我再也不想写那些臃肿的树结构代码了](https://mp.weixin.qq.com/s/XQuTHmavEyu0U00WktgDYQ)
 + [一行玩转多线程：Hutool ThreadUtil 实战指南](https://mp.weixin.qq.com/s/6lJnBEyHM-v9KH2T5TedjA)
++ [Hutool 这个隐藏工具，5 行拿到 CPU/内存/磁盘监控，Spring Boot 也能用！](https://mp.weixin.qq.com/s/D8UW93tF5dD9bO5NsjSkew)
 
 ## javafx
 
@@ -2326,6 +2330,10 @@
 + [Fastjson为啥老出事？3分钟讲透反序列化漏洞](https://mp.weixin.qq.com/s/g_uCYVTvdTnBBGcnQ9dvGw)
 + [从 JSON 字符串到 Java 对象：Fastjson 1.2.83 全程解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695791)
 + [Java 中 JSON 字段不固定怎么搞序列化？用好这两个注解就够了！](https://mp.weixin.qq.com/s/RG8Ayo8cxWPjPAi6K-TJgw)
+
+## LangChain4j
+
++ [告别乱切片！Java + LangChain4j 实现高质量 RAG 文档拆分](https://mp.weixin.qq.com/s/-lYyEmc-TdrS3GrD53M2zg)
 
 ## logger
 
@@ -2819,6 +2827,7 @@
 + [技术面：Spring (bean的生命周期、创建方式、注入方式、作用域)](https://mp.weixin.qq.com/s/bDnNdHrfWSA-SIC2lmn79w)
 + [面试官：Spring 中创建 Bean 有几种方式？](https://mp.weixin.qq.com/s/xDPOeJX6T2PWHriKKcEh9g)
 + [加了@RefreshScope，配置就能热更新？我花了三天时间才理解它的工作原理](https://mp.weixin.qq.com/s/OHBASnmJdytnT8T173ZLnQ)
++ [滴滴面试官：@Autowired 和 @Resource 注解有啥区别？你这项目怎么还混着用呢？](https://mp.weixin.qq.com/s/P1T6YNvcfCFy63761EFbig)
 
 #### 配置
 
@@ -3469,6 +3478,7 @@
 + [SpringCloud Gateway 30 个内置过滤器，少写 80% 重复代码](https://mp.weixin.qq.com/s/KXwjnpXeKccok8kuxSn9Dw)
 + [基于Spring Cloud Gateway实现服务灰度发布实践指南](https://mp.weixin.qq.com/s/6lCmIWtdqusSy6tr3iGDag)
 + [百万并发下，Spring Cloud Gateway凭什么不崩？](https://mp.weixin.qq.com/s/oZ6GKQa4SDjXSKji9Pj0tw)
++ [十万个why：有了 Spring Cloud Gateway，为什么前面还得挡一层 Nginx？](https://mp.weixin.qq.com/s/-9qFfXe2lvRr4QxvdqYjxg)
 
 #### AI
 
@@ -3476,6 +3486,7 @@
 + [Spring Cloud Alibaba AI 入门与实践](https://mp.weixin.qq.com/s/cg8I28uyml9Iu_UD3CTJGg)
 + [Spring官宣的AI神器，能让Java喝上AI赛道的汤吗？](https://mp.weixin.qq.com/s/yHT4DMXQJFpbx_jkZccL8w)
 + [SpringBoot + langchain4j：手把手教你实现AI流式对话应用整合](https://mp.weixin.qq.com/s/DlsgO7MgC2nV9kyL5AmeSA)
++ [还在手写 SQL？Spring AI 这样生成 SQL 更准确](https://mp.weixin.qq.com/s/BRrm0nN6Yu6GbPzzaHhzoQ)
 
 ### boot
 
@@ -3534,6 +3545,7 @@
 + [别再用错！Spring Boot 加载资源的3种核心万能方法](https://mp.weixin.qq.com/s/ro0Fep_ixCTPsPABjC0tkw)
 + [还在满屏 `new` 对象？Spring Boot 中 Builder 模式的优雅写法，一次讲透！](https://mp.weixin.qq.com/s/gMQD09d9XvjHbXEJPmzOCw)
 + [高级开发必须掌握Spring Boot开发中的7个核心概念](https://mp.weixin.qq.com/s/W_noEdqEdXgfNN3cO0zGhg)
++ [别再瞎拼 URL 了！Spring Boot 这套 URI 工具太香](https://mp.weixin.qq.com/s/CcthoTqDTm6dDcDI7z_ndw)
 
 ##### 高阶
 
@@ -3697,6 +3709,8 @@
 + [告别重复造轮子！Spring Boot 极具价值的8个代码片段，可直接使用](https://mp.weixin.qq.com/s/7gizyxsYyCFmWIO_B1SeZw)
 + [别再造轮子！10个Spring Boot组件开发工具类，代码少写一半](https://mp.weixin.qq.com/s/HDtt9iu6JEOwZuR06rpOMw)
 + [Spring Boot 实践中最有价值的10个功能](https://mp.weixin.qq.com/s/hrwZTGiAj9kvKNRYtwD76w)
++ [别再踩坑！Spring Boot 5 种高频反模式，很多人天天在写](https://mp.weixin.qq.com/s/Hj9CYmRSAr6qWyf69TQf4Q)
++ [告别 if-else！Spring Boot 动态切换实现类的 N 种姿势](https://mp.weixin.qq.com/s/aXjL2TcNGV9oT3v7D-Lruw)
 
 ##### 原理
 
@@ -4352,6 +4366,9 @@
 + [一个StackOverflowError背后：树形结构的选型陷阱。。。](https://mp.weixin.qq.com/s/iZ-MuxTHA5RsPSUnqTnMcA)
 + [@RequestBody 真被你低估了！除了 JSON，它还能吞下多种请求格式](https://mp.weixin.qq.com/s/JZP49IDf7a0Q3Q3ZThtB0g)
 + [Spring Boot 接口动态字段，最简方案没有之一](https://mp.weixin.qq.com/s/OUMQ5xD-EW2uNXn-Ku48Hw)
++ [Spring Boot 接口异步流式响应：3种核心实现方案](https://mp.weixin.qq.com/s/-EjZdtZGwUTQJOm7Jp0tOg)
++ [别只会 Controller 校验！90% 人不懂的 Spring 高级校验方案](https://mp.weixin.qq.com/s/Fv4UYmeAH3JzBokXGczfDA)
++ [API 安全实战！Spring Boot 接口权限控制的7种实现方案](https://mp.weixin.qq.com/s/8ImVzbtOBhG78JNeqe2fqw)
 
 ##### 文件上传下载
 
@@ -4629,6 +4646,7 @@
 + [实战Spring Boot 4.0+虚拟线程｜压测数据说话，吞吐量直接起飞！（附避坑指南）](https://mp.weixin.qq.com/s/PrwvWq202rlv2UqSYgw3hQ)
 + [Spring Boot 三种经典并发死锁，仅 10 行代码复现](https://mp.weixin.qq.com/s/yLnJl4kcFSlC3DXRoLwAtw)
 + [Spring Boot 使用 @Lock 注解解决并发问题](https://mp.weixin.qq.com/s/BJ-pP3D7QN6f88VMx48KCg)
++ [代码没少写，数据丢了？Spring Boot 异步透传的 5 种高级姿势](https://mp.weixin.qq.com/s/kEFC1N5mCQmsthblPf-bKA)
 
 ##### Disruptor
 
@@ -4758,6 +4776,8 @@
 + [手动实现 Spring Boot 日志链路追踪，无需引入组件，日志定位更方便！](https://mp.weixin.qq.com/s/-dd5_i5roDYg5mvEo6fZ4w)
 + [SpringBoot 全链路透传：MDC + TraceId 最佳实践](https://mp.weixin.qq.com/s/PevGue4yqtH4vzu2UPfhuw)
 + [只靠日志是不行的！Spring Boot 的真相，日志给不了](https://mp.weixin.qq.com/s/LlEiV-HMfDWfU2iz_bxufA)
++ [全场景实战：Spring Boot + MDC：实现异步线程池链路追踪](https://mp.weixin.qq.com/s/wkUtTfJq6bGS-gPMtq-OFQ)
++ [现代 Spring Boot 日志全攻略：8大场景一网打尽](https://mp.weixin.qq.com/s/lfzAp3LdVvVxSgnvW3kZmQ)
 
 #### 安全
 
@@ -5463,6 +5483,7 @@
 + [Java应用瘦身指南：JMOD+jlink，从400MB到35MB，深入理解JMOD文件格式，打造最小自定义运行时](https://mp.weixin.qq.com/s/tuOc6ptNEtfNewSYrXxK1w)
 + [EMT4J——Java版本迁移检测工具](https://mp.weixin.qq.com/s/GP_KbEcJgI0TCKUdV6UWAQ)
 + [阿里停更EasyExcel后，我毫不犹豫换了这个库](https://mp.weixin.qq.com/s/52brvLvuAi-YbOTu0qLjYg)
++ [Google 开源神级库！Tink：三行代码搞定全场景加密](https://mp.weixin.qq.com/s/nMD97WOjXXTmg2S9KS1o6w)
 
 # 其它环境
 

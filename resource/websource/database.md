@@ -121,6 +121,7 @@
 + [Day 16｜EXPLAIN：SQL慢了先看这个](https://mp.weixin.qq.com/s/Ei0csU1E8voV0Juzu2G1jA)
 + [高德二面：线上慢SQL导致CPU飙升，怎么解决？](https://mp.weixin.qq.com/s/dTENQX9JeAloWGMkFxas_Q)
 + [SQL 的 ORDER BY 进化史：从 80 年代诞生到现代数据库](https://www.oschina.net/news/441065)
++ [SQL性能优化！11条黄金法则](https://mp.weixin.qq.com/s/_Nfn4tBqO3MlitkZjcKtug)
 
 # 本地数据库
 
@@ -1026,6 +1027,7 @@
 + [Redis只会用缓存？16种妙用让同事直呼牛X](https://mp.weixin.qq.com/s/lrmKGN2AI3V80HX9bDfWrQ)
 + [Redis 发布订阅（Pub/Sub）模式简介](https://mp.weixin.qq.com/s/OKhPDuLHAC-wpRHAPIeLIg)
 + [Redis 分布式限流完全指南：固定窗口、滑动窗口、令牌桶三大算法](https://mp.weixin.qq.com/s/oBWhlL-LJ7fv_h1zaQ8AoQ)
++ [面试中被嘲笑 Token 放在 Redis 里？这把给我干沉默了...](https://mp.weixin.qq.com/s/LDCF6Z8pGumDKgiRRi49sQ)
 
 #### 原理
 

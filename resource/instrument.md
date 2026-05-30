@@ -37,7 +37,7 @@
 + java响应式编程库 [projectreactor](https://projectreactor.io/) [vertx](https://vertx.io/) [reactive-rx](https://reactivex.io/)
 + java redis操作库 [lettuce](https://lettuce.io/)
 + java高性能并发库 [disruptor](https://lmax-exchange.github.io/disruptor/)
-+ jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/) [testng](https://testng.org/) 
++ jvm测试平台和库 [arquillian](https://arquillian.org/) [junit](https://junit.org/) [testng](https://testng.org/) [jqwik](https://jqwik.net/)
   + 断言库 [hamcrest](https://hamcrest.org/) [assertj](https://assertj.github.io/doc/)
   + json处理库 [JSONassert](http://jsonassert.skyscreamer.org) [JSONPath](https://goessner.net/articles/JsonPath/)
   + 同步异步控制库 [awaitility](https://github.com/awaitility/awaitility/wiki/Getting_started)

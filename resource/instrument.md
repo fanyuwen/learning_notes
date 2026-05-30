@@ -206,6 +206,11 @@
 + 运行时组件 [tokio](https://tokio.rs/)
 + 开发资源网站 [tweedegolf](https://tweedegolf.nl/en)
 
+### AI
+
++ <font style='color:red'>*</font>[openrouter](https://openrouter.ai/)
++ AI agent [pi](https://pi.dev/)
+
 ---
 
 标<font style='color:red'>*</font>的代表有收费项目

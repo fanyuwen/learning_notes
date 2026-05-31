@@ -326,6 +326,7 @@
 + [别再死磕 ls / cat / grep 了，这 10 个现代 CLI 才是未来](https://mp.weixin.qq.com/s/4sFaZf_4a7P_KRqr8W8j1g)
 + [2026 年还只会 ls / cd / grep？这些 CLI 工具用一次就回不去了](https://mp.weixin.qq.com/s/XnwetldZVimsZ6onoj_DAA)
 + [后端工程师必备的 10 个 CLI 工具：把终端变成真正的“控制舱”](https://mp.weixin.qq.com/s/1b0cr7--nsyljfuB9o2IMA)
++ [Linux 系统误将 chmod 权限改成 了 000，如何恢复?](https://mp.weixin.qq.com/s/swBSxMFLuC4OlCyoxHk06A)
 
 ### 发行版信息
 

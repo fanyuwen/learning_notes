@@ -3364,6 +3364,7 @@
 + [JAVA：Spring Boot3 集成 Spring AI 实现 Advisor 增强机制](https://mp.weixin.qq.com/s/yB1hYBamMGn-_OsC0KWO3Q)
 + [AI智能体！Spring AI 主动提问的智能体，让需求零偏差](https://mp.weixin.qq.com/s/u7WeEC1-tgb6KIVfRurGig)
 + [Spring AI + TodoWrite：AI 智能体任务自动拆分与实时监控](https://mp.weixin.qq.com/s/LDr4vqbAoAIu0llrnSAe0Q)
++ [告别手动调参！Spring AI +  Resilience4j 自动优化熔断配置，太香了](https://mp.weixin.qq.com/s/XT8xmtbOJRROR7oIELKS7A)
 
 ### cloud
 
@@ -3711,6 +3712,7 @@
 + [Spring Boot 实践中最有价值的10个功能](https://mp.weixin.qq.com/s/hrwZTGiAj9kvKNRYtwD76w)
 + [别再踩坑！Spring Boot 5 种高频反模式，很多人天天在写](https://mp.weixin.qq.com/s/Hj9CYmRSAr6qWyf69TQf4Q)
 + [告别 if-else！Spring Boot 动态切换实现类的 N 种姿势](https://mp.weixin.qq.com/s/aXjL2TcNGV9oT3v7D-Lruw)
++ [Spring Boot 运行时根据动态参数创建 Bean 高阶实现](https://mp.weixin.qq.com/s/1-pZ9QzhrFpM6FiuwsJxxw)
 
 ##### 原理
 

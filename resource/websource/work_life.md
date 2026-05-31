@@ -411,6 +411,7 @@
 + [告别手动画图！这款 IntelliJ 插件，能让 Java 方法自动生成 Mermaid 流程图](https://mp.weixin.qq.com/s/aE_Z1q2DxmycwysZyCTRtA)
 + [JetBrains  Amper  0.10 ，期待它未来替代  Gradle](https://mp.weixin.qq.com/s/njGS4fT7e8j11_ioLKny5Q)
 + [为什么在 IDEA 使用 @Autowired 会报黄？](https://mp.weixin.qq.com/s/FoYIcUIEZk0A9j3bbU8bpQ)
++ [IntelliJ IDEA 从卡顿到起飞，只用改这些。。。](https://mp.weixin.qq.com/s/Z8v6aOgyJee0q0jMVRT_wQ)
 
 ## MAC_PRO相关
 

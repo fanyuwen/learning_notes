@@ -203,6 +203,7 @@
 + [美团二面：生产环境 RocketMQ 消费延迟很高怎么办？我只答出加消费者...](https://mp.weixin.qq.com/s/hsjio9Fihgf2KZrMbD8Suw)
 + [面试官拷打：RabbitMQ 如何保证消息不丢失？我只回答出消费端 ACK，被拒了...](https://mp.weixin.qq.com/s/7eWRYTOTyCq9nqMpXJDA6w)
 + [百度面试官：RabbitMQ 如何防止重复消费？5种解决方案，你知道几个？](https://mp.weixin.qq.com/s/buTegauDVcxTTmWjiUNFdQ)
++ [Apache RocketMQ 5.5.0 开源 LiteTopic：百万级 AI 会话专属通道](https://my.oschina.net/u/6179068/blog/19684510)
 
 # RABBITMQ
 

@@ -761,6 +761,7 @@
 + [PostgreSQL这么多优势，为什么还要使用MySQL？](https://mp.weixin.qq.com/s/rEs_cED-De9Pz2EhucPqnA)
 + [99% 开发者没打开过的 PostgreSQL 黑盒：8 个救过生产的硬核技巧](https://mp.weixin.qq.com/s/iM83XSp75vLId3TmjaEliQ)
 + [你还在用Cron跑任务？Postgres 18已经悄悄干掉它了](https://mp.weixin.qq.com/s/1zhYTZZ4R3nq4Xg9dNmnGw)
++ [PostgreSQL 中 now () 的陷阱：事务内时间静止问题](https://www.oschina.net/news/450902)
 
 ### SQLSERVER
 

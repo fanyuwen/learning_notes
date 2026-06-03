@@ -40,6 +40,10 @@
 + 学习资源
   + [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
   + [30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java)
+  + [source-code-hunter](https://github.com/doocs/source-code-hunter)
+  + [advanced-java](https://github.com/doocs/advanced-java)
+  + [technical-books](https://github.com/doocs/technical-books)
+  + [design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java)
 
 # SCALA
 

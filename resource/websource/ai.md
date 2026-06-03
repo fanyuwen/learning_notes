@@ -144,6 +144,7 @@
 + [面试官问我：“AI 写代码比你快 100 倍，你的价值在哪？”](https://mp.weixin.qq.com/s/NxWdlbYyTV_5e42_RbFuPg)
 + [老牌开源项目该不该接受 AI 代码？](https://my.oschina.net/u/4487475/blog/19585524)
 + [四评 DeepSeek](https://www.oschina.net/news/437449/deepseek-view)
++ [MCP 已死？工程师实测揭示协议开销与替代方案](https://www.oschina.net/news/450274)
 
 ## LangChain
 

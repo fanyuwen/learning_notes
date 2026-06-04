@@ -63,6 +63,7 @@
 + [DearPyGui](https://github.com/hoffstadt/DearPyGui)
 + [bytewax](https://github.com/bytewax/bytewax)
 + [py-spy](https://github.com/benfred/py-spy)
++ [objgraph](https://github.com/mgedmin/objgraph)
 
 # json
 

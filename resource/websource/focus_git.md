@@ -64,6 +64,7 @@
 + [bytewax](https://github.com/bytewax/bytewax)
 + [py-spy](https://github.com/benfred/py-spy)
 + [objgraph](https://github.com/mgedmin/objgraph)
++ [python-memtools](https://github.com/harmonic-ai/python-memtools)
 
 # json
 

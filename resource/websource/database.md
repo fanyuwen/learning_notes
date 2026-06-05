@@ -500,6 +500,7 @@
 + [阿里二面：什么是 MySQL 回表查询？如何避免？（修订版）](https://mp.weixin.qq.com/s/BHUtBppCvgKHOyOhQu5BaQ)
 + [MySQL 一排序就慢？4大排序算法 + 优化技巧，彻底搞懂 Using filesort](https://mp.weixin.qq.com/s/XRrseazQQWVLGjaIoLQ_xw)
 + [MySQL百万级表在不停机的情况下增加一个字段要怎么处理的？](https://mp.weixin.qq.com/s/kdIul_p8gSWQ8qFhc2bClg)
++ [十万个Why：两个字段都建了单列索引，为什么加了 OR，执行计划还是全表扫描？](https://mp.weixin.qq.com/s/So1u1rYv_m2MfclOv0YTcg)
 
 #### 存储引擎
 
@@ -762,6 +763,7 @@
 + [99% 开发者没打开过的 PostgreSQL 黑盒：8 个救过生产的硬核技巧](https://mp.weixin.qq.com/s/iM83XSp75vLId3TmjaEliQ)
 + [你还在用Cron跑任务？Postgres 18已经悄悄干掉它了](https://mp.weixin.qq.com/s/1zhYTZZ4R3nq4Xg9dNmnGw)
 + [PostgreSQL 中 now () 的陷阱：事务内时间静止问题](https://www.oschina.net/news/450902)
++ [别再死磕MySQL了，AI时代这个数据库更香！](https://mp.weixin.qq.com/s/LwjeQSmAXunFfBVeTqSzvQ)
 
 ### SQLSERVER
 
@@ -1257,6 +1259,7 @@
 + [实时流处理：Flink秒杀Spring Batch，从分钟级到毫秒级的降维打击](https://mp.weixin.qq.com/s/lpq6XbSO0IyZRdK86dS-nA)
 + [百度网盘基于 Flink 的实时计算实践](https://my.oschina.net/u/4939618/blog/18690345)
 + [【大数据技术实战】流式计算 Flink~生产错误实战解析](https://mp.weixin.qq.com/s/Crf7sbfaLeyXn9HrslCqpQ)
++ [实时数据同步！Flink CDC 实现 MySQL 到 ES 毫秒级同步](https://mp.weixin.qq.com/s/M9wGY5Ef-FTEaFD4tAQisg)
 
 ## spark
 

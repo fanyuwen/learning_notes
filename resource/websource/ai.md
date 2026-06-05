@@ -102,6 +102,11 @@
 + [Agent 开发范式演进：从环境工程出发，“简化” 多源实时上下文](https://my.oschina.net/u/3874284/blog/19661323)
 + [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://my.oschina.net/selectdb/blog/19658249)
 
+### RAG
+
++ [字节面试官：什么是 RAG？为什么需要 RAG？](https://mp.weixin.qq.com/s/Gl0JKmtwXuIt6SiyOz8K4w)
++ [RAG 中 Embedding 是什么？1536 维什么意思？](https://mp.weixin.qq.com/s/1DO3P4izyPc00pVfjBngFQ)
+
 ## 资讯
 
 + [开源AI解密：为什么它值得你信任？](https://mp.weixin.qq.com/s/8UlDPbb8gcRZ5XJc628Ryw)

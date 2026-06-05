@@ -1,5 +1,7 @@
 # RPC
 
++ [闲鱼二面：为什么 RPC 要比 HTTP 更快？我：之前项目只用过 HTTP...](https://mp.weixin.qq.com/s/4fe6c069BoJW0RcXDNUJgw)
+
 ## gRPC
 
 + [一张图看懂gRPC服务端消息接入流程](https://mp.weixin.qq.com/s/u6OvQCd8r9hopqnQxkvWAA)

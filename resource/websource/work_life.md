@@ -149,6 +149,7 @@
 + [从年薪5万到50万，我用11年总结的3个程序员职场禁忌](https://mp.weixin.qq.com/s/bmjw3jJbUiO8ce6jUl8-eQ)
 + [一位开发者的反思：放弃副业项目并不可耻](https://www.oschina.net/news/437534/abandoned-side-projects)
 + [所以…那些 40 多岁的程序员都去哪里了？](https://mp.weixin.qq.com/s/m3hpFWeubahyceJrsyoQSw)
++ [为什么痴迷技术的程序员，反而走不远？！](https://mp.weixin.qq.com/s/yuBO3dXn2ylZXi0hukwwcA)
 
 # 个人成长
 

@@ -521,6 +521,7 @@
 + [冯诺伊曼1947年已预测到数学统治力](https://mp.weixin.qq.com/s/6FlUN-oVbRbygaDnIkkPmw)
 + [硬撑15年、仅1台服务器、8GB内存：他用一堆“淘汰” 技术，让50+万人敲下人生第一条Linux命令！](https://mp.weixin.qq.com/s/Z0jHGFVjzf36SA8XS4IMew)
 + [“飞行汽车没来，但Win32还活着”！微软CTO亲口承认：Win11还在靠90年代「祖传代码」撑着](https://mp.weixin.qq.com/s/AmVLMO_4cPBd2_7KVtVnlg)
++ [JPEG XL 十年：Google 开源实验如何塑造下一代图像编码标准](https://www.oschina.net/news/452014)
 
 ## 创业
 

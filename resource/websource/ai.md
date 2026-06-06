@@ -90,6 +90,7 @@
 + [应对 AI 研发的 “混沌”：SDD（规格驱动开发）在银行私域研发体系的落地探索](https://my.oschina.net/u/3874284/blog/19663853)
 + [SQLite 才是 AI 工作流持久化的答案](https://www.oschina.net/news/450164/sqlite-is-all-you-need-for-durable-workflows)
 + [RAG、LLM Wiki 还是 Gbrain？智能体记忆大比拼](https://mp.weixin.qq.com/s/2XFB7MmZquJVDnMhXqXGGQ)
++ [如果 AI 来写代码，为什么还要用 Python？](https://www.oschina.net/news/439435)
 
 ### agent
 
@@ -108,6 +109,10 @@
 + [字节面试官：什么是 RAG？为什么需要 RAG？](https://mp.weixin.qq.com/s/Gl0JKmtwXuIt6SiyOz8K4w)
 + [RAG 中 Embedding 是什么？1536 维什么意思？](https://mp.weixin.qq.com/s/1DO3P4izyPc00pVfjBngFQ)
 + [AI进阶！9种RAG架构](https://mp.weixin.qq.com/s/9s2_xdZt0LeQwjkX0AGFAA)
+
+### LLM
+
++ [你对 LLM 的评估体系会失效，而你甚至不会察觉](https://www.oschina.net/news/442336)
 
 ## 资讯
 
@@ -152,7 +157,11 @@
 + [面试官问我：“AI 写代码比你快 100 倍，你的价值在哪？”](https://mp.weixin.qq.com/s/NxWdlbYyTV_5e42_RbFuPg)
 + [老牌开源项目该不该接受 AI 代码？](https://my.oschina.net/u/4487475/blog/19585524)
 + [四评 DeepSeek](https://www.oschina.net/news/437449/deepseek-view)
++ [OpenAI 推理模型推翻 80 年几何猜想：AI 首次自主证明 Erdős 开放问题](https://www.oschina.net/news/443573)
 + [MCP 已死？工程师实测揭示协议开销与替代方案](https://www.oschina.net/news/450274)
++ [我为什么不 "Vibe Code"：一名开发者对 AI 编程的反思](https://www.oschina.net/news/443929)
++ [AI 冲击就业市场，《经济学人》称计算机毕业生就业率骤降](https://www.oschina.net/news/443890)
++ [用 AI 以 “更慢” 的速度编写更好的代码](https://www.oschina.net/news/446213/using-ai-to-write-better-code-more-slowly)
 
 ## LangChain
 

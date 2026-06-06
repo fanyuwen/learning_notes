@@ -802,6 +802,8 @@
 + [Python-3.13.0 去掉 GIL 性能原地起飞](https://mp.weixin.qq.com/s/WOhFut0sJDuiY_AdTZON-Q)
 + [Python 3.14: Python 世界的一大步](https://mp.weixin.qq.com/s/4fAZkmTxXAvc8HiBP8uNyQ)
 + [Python 3.14 t-string 要来了，它与 f-string 有何不同？](https://mp.weixin.qq.com/s/Jy9KXJu6xysNFiLxMsicVA)
++ [Python 3.14/3.15 将回滚增量 GC：生产环境内存压力报告引发决策](https://www.oschina.net/news/440466)
++ [Python 3.15 那些没有被广泛关注但实用的新特性](https://www.oschina.net/news/444373/python-3-15-features-that-didnt-make-the-headlines)
 
 ## 第三方库
 
@@ -1249,3 +1251,5 @@
 + [为什么Python比C++运行速度慢却如此受欢迎？](https://mp.weixin.qq.com/s/_qD1ibk289aUqpMOMFg8-g)
 + [Rust：Python 性能优化的新引擎](https://mp.weixin.qq.com/s/KhohfgrUfLJ2vB8-hQzguQ)
 + [流处理的前世今生（二十）燃尽的数据之蜡 Bytewax](https://my.oschina.net/taogang/blog/18699081)
++ [Python 的 “怪异” 设计：bool 竟是 int 的子类，垃圾回收还能手动关闭](https://www.oschina.net/news/439964/python-is-weird)
++ [uv 速度极快，但它的包管理用户体验是一团糟](https://www.oschina.net/news/444390/uv-ux-mess)

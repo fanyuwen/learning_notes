@@ -1034,6 +1034,7 @@
 + [面试官：线程池有几种创建方式？](https://mp.weixin.qq.com/s/9oGDr9IDMmyTEkAwnYEFDg)
 + [面试官：什么是守护线程，和普通线程有什么区别？](https://mp.weixin.qq.com/s/K-lThA-z_cRMyWdBtWqFoQ)
 + [Java 并发！6行 "安全" 代码，6种并发灾难](https://mp.weixin.qq.com/s/3UHyzLkcufd-mMICuy-T-w)
++ [面试官：父子线程之间如何共享、传递数据？](https://mp.weixin.qq.com/s/80K19yfBozUalN6TfA1qOQ)
 
 #### CAS
 
@@ -4554,6 +4555,7 @@
 + [MySQL多数据源不用愁！Spring Boot动态切换实战，直接复制就能用！支持事务回滚](https://mp.weixin.qq.com/s/PDlMP0-nqyLXHkTT33oszw)
 + [性能优化！Spring Boot 使用 DataLoader 实现高效批处理](https://mp.weixin.qq.com/s/LIpl85AM9F-XDcKQApLL-g)
 + [告别重复提交！Spring Boot 6大妙招轻松搞定](https://mp.weixin.qq.com/s/97vt4YoT2KUBFOiKKKBaNQ)
++ [别再乱用 JPA findById！性能损耗与致命坑点一次讲透](https://mp.weixin.qq.com/s/I9oEygw-D-MQaSAw6AzKxQ)
 
 ##### TRANSACTION
 
@@ -4684,6 +4686,7 @@
 + [SpringBoot与Disruptor整合，实现电商秒杀百万级别交易订单的高性能无锁异步处理](https://mp.weixin.qq.com/s/0QBZCHQ4cgcD9GIRQxNNsg)
 + [百万级订单毫秒响应！SpringBoot 整合 Disruptor，打造高性能秒杀系统](https://mp.weixin.qq.com/s/fhTYO3MlF46oCSEpdoY2XA)
 + [Spring Boot + Disruptor 实战：深度讲解构建百万级并发无锁队列](https://mp.weixin.qq.com/s/nCPHyHWHzf1bPDH0UazXkg)
++ [SpringBoot + Disruptor 实现特快高并发处理，支撑每秒 600 万订单无压力！](https://mp.weixin.qq.com/s/aGD3ORZBmbYbaFap1ZA7sQ)
 
 ##### AKKA
 

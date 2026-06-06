@@ -527,6 +527,8 @@
 + [“飞行汽车没来，但Win32还活着”！微软CTO亲口承认：Win11还在靠90年代「祖传代码」撑着](https://mp.weixin.qq.com/s/AmVLMO_4cPBd2_7KVtVnlg)
 + [JPEG XL 十年：Google 开源实验如何塑造下一代图像编码标准](https://www.oschina.net/news/452014)
 + [正斜杠 vs 反斜杠，让全球程序员多写了 100 亿行代码](https://mp.weixin.qq.com/s/_PmAnlnqFShSwyZeKcdd2A)
++ [在 GitHub 之前，开发者如何分享代码？—— 追忆 Planet Source Code 的黄金年代](https://www.oschina.net/news/439656)
++ [互联网底层基础设施构建者：一位高中女教师的代码改变了世界](https://www.oschina.net/news/444403/the-programmer-whose-code-underpins-the-internet)
 
 ## 创业
 

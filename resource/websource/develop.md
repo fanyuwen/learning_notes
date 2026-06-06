@@ -106,6 +106,8 @@
 + [业务架构之业务能力的组件化](https://mp.weixin.qq.com/s/aKnir8SRltsdCctZC0rM_Q)
 + [我为什么不建议你做纯架构师](https://mp.weixin.qq.com/s/OcrzmErBwRdGV-oAgol-bA)
 + [一文说清楚分层架构](https://my.oschina.net/xiandafu/blog/19612393)
++ [一文说清楚数据架构](https://my.oschina.net/xiandafu/blog/19666676)
++ [消息驱动的架构风格](https://my.oschina.net/xiandafu/blog/19690947)
 
 ### DDD
 

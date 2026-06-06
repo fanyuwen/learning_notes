@@ -2501,6 +2501,7 @@
 + [Mybatis 是如何进行分页的？这样回答让你从初级到高级！](https://mp.weixin.qq.com/s/rOZr7ehhK22ef90_YPjTbg)
 + [Mybatis中#{}和${}的区别是什么？这样回答堪称满分！](https://mp.weixin.qq.com/s/Pk-1G2idhLf1n7TgowHJWg)
 + [美团面试官：MyBatis 中 #{} 和 ${} 的区别是什么？我：不知道，现在都用 MyBatis Plus 了...](https://mp.weixin.qq.com/s/yu-O2U2eguxWQ16Lj2vnKg)
++ [面试官：MyBatis 是如何进行分页的？分页插件的原理是什么？](https://mp.weixin.qq.com/s/jdBE5y7GopyDxSeYuWbfEw)
 
 ### plus
 
@@ -2544,6 +2545,7 @@
 + [MyBatis-Plus 天花板教程，还有谁不会？！](https://mp.weixin.qq.com/s/szW-zotnjW5byWqYVdMy-Q)
 + [MyBatis-Plus里update和updateById的坑，90%的人都搞混了](https://mp.weixin.qq.com/s/glR5TcrkJJf9eyOL2YbdnA)
 + [xbatis 与 mybatis-plus 对比，两者均为 mybatis 扩展的 ORM 框架](https://www.oschina.net/news/406850)
++ [聊聊Mybatis-Plus中的10个坑！](https://mp.weixin.qq.com/s/w4tpfSE3govH0AVe_ZNxHw)
 
 ## nacos
 
@@ -2566,6 +2568,7 @@
 + [Nacos 和 Apollo ，哪个更好？](https://mp.weixin.qq.com/s/gUrU2x_J5CR1O_skLlDieg)
 + [Nacos和Apollo，哪个更好？](https://mp.weixin.qq.com/s/BxcLBgGiOFbqcxa_cEF4Yg)
 + [Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://mp.weixin.qq.com/s/d_mecEZGuaU7kMzUm4AfBQ)
++ [面试官：Nacos 如何实现服务注册与发现的？](https://mp.weixin.qq.com/s/YKvPsnLr1xByo9EgGH3vbQ)
 
 ## netty
 
@@ -3372,6 +3375,8 @@
 + [Spring AI + TodoWrite：AI 智能体任务自动拆分与实时监控](https://mp.weixin.qq.com/s/LDr4vqbAoAIu0llrnSAe0Q)
 + [告别手动调参！Spring AI +  Resilience4j 自动优化熔断配置，太香了](https://mp.weixin.qq.com/s/XT8xmtbOJRROR7oIELKS7A)
 + [面试官问我：“为什么要用 Spring AI，而不是直接调用大模型？”，我笑了说：因为 Spring AI 解决的不是大模型能不能调用的问题。。](https://mp.weixin.qq.com/s/R12KC7h0RLdodE4RtwL0uA)
++ [阿里又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/q9IhUxqwAY-huADwh9Qy1w)
++ [MateClaw：基于 Spring AI Alibaba 的开源多智能体 AI 操作系统（附架构详解）](https://mp.weixin.qq.com/s/6PB1l9wS1ZABquYIi4umYA)
 
 ### cloud
 
@@ -3556,6 +3561,7 @@
 + [高级开发必须掌握Spring Boot开发中的7个核心概念](https://mp.weixin.qq.com/s/W_noEdqEdXgfNN3cO0zGhg)
 + [别再瞎拼 URL 了！Spring Boot 这套 URI 工具太香](https://mp.weixin.qq.com/s/CcthoTqDTm6dDcDI7z_ndw)
 + [接口毫秒级响应！Spring Boot 高级开发常用5种模式](https://mp.weixin.qq.com/s/nyWLTg65LuUh7bzLlIkjog)
++ [一行注解！Spring Boot 使用内置工具实现方法监控](https://mp.weixin.qq.com/s/gBfdGF-av0uceW-is0ypbg)
 
 ##### 高阶
 
@@ -4023,6 +4029,8 @@
 + [Spring Boot 4.0 实战干货持续更新｜陪你从入门到精通，搞定所有实战难题](https://mp.weixin.qq.com/s/UL-MpzeT4nxQe9Xx_GtN0g)
 + [炸裂！Spring Boot 4.0 为什么要死磕 ByteBuddy？看完这篇彻底搞懂了](https://mp.weixin.qq.com/s/o3PFoI_c95I_rH8_CxC_Jg)
 + [持续更新｜Spring Boot 4.0 全套实战干货，陪你稳步成长，搞定所有开发实操难题](https://mp.weixin.qq.com/s/j4ld5JLepDiEObd3I2xdPA)
++ [Spring Boot 4.0.6 发布，紧急修复了 8 个安全漏洞，赶紧看看自己的 Spring Boot 版本！！](https://mp.weixin.qq.com/s/RWUvAAdHvbJAmFlXOdLXFQ)
++ [Spring Boot 4.1发布，这项特性超强！但大多数升级教程都没提这个不兼容变更](https://mp.weixin.qq.com/s/C4gqCcmdjqXN7_qwTB5HPw)
 
 #### 分布式
 
@@ -4384,6 +4392,7 @@
 + [别再写死 DTO 了！Spring Boot 手写动态列级脱敏](https://mp.weixin.qq.com/s/FLON4oJyXGLYpmbH2p3_-A)
 + [只会AOP？Controller接口参数及返回值4种获取方式，最后一种性能最好](https://mp.weixin.qq.com/s/ggLthqowxHzandU1_0GlqQ)
 + [干货拉满！Spring Boot 动态 JSON 请求 5种解决方案 + 安全校验](https://mp.weixin.qq.com/s/8I9HwPLE95EMdQm97-vfFA)
++ [极简落地！SpringBoot3 注解式敏感词高效处理](https://mp.weixin.qq.com/s/HHCvtcRHz79yPST8bCSL1w)
 
 ##### 文件上传下载
 
@@ -4544,6 +4553,7 @@
 + [SpringBoot慢SQL炸了？自动捕获+一键优化，这些坑90%的人都踩过！](https://mp.weixin.qq.com/s/pXq-ZVpUKuD0j708uwu4nA)
 + [MySQL多数据源不用愁！Spring Boot动态切换实战，直接复制就能用！支持事务回滚](https://mp.weixin.qq.com/s/PDlMP0-nqyLXHkTT33oszw)
 + [性能优化！Spring Boot 使用 DataLoader 实现高效批处理](https://mp.weixin.qq.com/s/LIpl85AM9F-XDcKQApLL-g)
++ [告别重复提交！Spring Boot 6大妙招轻松搞定](https://mp.weixin.qq.com/s/97vt4YoT2KUBFOiKKKBaNQ)
 
 ##### TRANSACTION
 
@@ -5194,6 +5204,7 @@
 + [SpringBoot 整合 RabbitMQ 入门](https://mp.weixin.qq.com/s/GufQmVSJHDrnXjMQ3anAOg)
 + [太强大了！Spring Sentinel 一个专为Spring Boot而生的性能分析插件](https://mp.weixin.qq.com/s/0b4-F0ZcYEE4D8U3Vrjoxw)
 + [还在手写 WebSocket？Spring Boot + Netty-SocketIO 实时通信更香！](https://mp.weixin.qq.com/s/Ju7WrzUwmtyPUy6_U4CvzQ)
++ [一行代码搞定！Spring Boot 实现 Word 转 HTML 在线预览](https://mp.weixin.qq.com/s/RI21h3j-A3SalzE1d-OpLg)
 
 ##### excel
 
@@ -5434,6 +5445,7 @@
 + [XXL-CACHE v1.1.0 ｜ 多级缓存框架](https://mp.weixin.qq.com/s/OWFlIyCvQdI1ZbWG-6TCLw)
 + [Jar Analyzer JAR包分析工具](https://mp.weixin.qq.com/s/oPMJ1utE-VXjC7niFqHn-g)
 + [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/z21t7yZeAAYU03X2pBDS1A)
++ [告别if-else噩梦！流程编排技术真的太香了！](https://mp.weixin.qq.com/s/fV2Dk5IoqP_ugPJX1OhGDg)
 + [Java 后端新技能！极简代码通过 OpenTelemetry Traces 实现零代码监控](https://mp.weixin.qq.com/s/JfYUKU_bpxQRwGcYGtsehw)
 + [Java+iTextPDF，实时生成与预览PDF文件的最佳实践！](https://mp.weixin.qq.com/s/bfDRbeR-9ZagIvmeHdhmTg)
 + [OkHttp，一个Java网络请求的信使！](https://mp.weixin.qq.com/s/HPM4YJrk1JmT4kqN1dbp4g)

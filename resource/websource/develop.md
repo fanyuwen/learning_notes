@@ -666,6 +666,8 @@
 + [分布式系统的两种认证方式：Session和Token](https://mp.weixin.qq.com/s/-GiFMOXDcwmwQMtFMLFpIQ)
 + [JWT原理与应用](https://mp.weixin.qq.com/s/vocRSUFL80948Iat8T-dxw)
 + [危险！请马上停止使用JWT！！！](https://mp.weixin.qq.com/s/Dc1nTHmWWoNg1c_-5fBT4w)
++ [JWT和Sign签名别再傻傻分不清！一张表告诉你什么时候该用谁](https://mp.weixin.qq.com/s/uOnlAlM8z1mC5c85bXA9bA)
++ [十万个why：为什么 JWT 明明主打“无状态、不用查库”，实际业务咋还得存个 Redis？](https://mp.weixin.qq.com/s/xIoPA1ua160N3PFHpnSFnQ)
 
 ## 存储
 

@@ -150,6 +150,7 @@
 + [一位开发者的反思：放弃副业项目并不可耻](https://www.oschina.net/news/437534/abandoned-side-projects)
 + [所以…那些 40 多岁的程序员都去哪里了？](https://mp.weixin.qq.com/s/m3hpFWeubahyceJrsyoQSw)
 + [为什么痴迷技术的程序员，反而走不远？！](https://mp.weixin.qq.com/s/yuBO3dXn2ylZXi0hukwwcA)
++ [程序员应该选技术还是管理？](https://mp.weixin.qq.com/s/9ZT7r9xA3uAVA383D2ek-g)
 
 # 个人成长
 
@@ -341,6 +342,7 @@
 + [一个有趣的拼音神器：pinyin-match](https://mp.weixin.qq.com/s/S0e_hicUfjiSgFO5r9dZQg)
 + [2026 年了还在用老命令？这 5 个终端神器让你效率翻倍](https://mp.weixin.qq.com/s/abSv0djhVhGf-7po6Xtekg)
 + [笔记软件这么多，大佬们都用过哪些？](https://mp.weixin.qq.com/s/JJlvW1ycSz99qY-Ocw_JbQ)
++ [C盘红了！](https://mp.weixin.qq.com/s/l1byCk6io0mcui0hffLTrA)
 
 ## 开源资源
 
@@ -413,6 +415,7 @@
 + [JetBrains  Amper  0.10 ，期待它未来替代  Gradle](https://mp.weixin.qq.com/s/njGS4fT7e8j11_ioLKny5Q)
 + [为什么在 IDEA 使用 @Autowired 会报黄？](https://mp.weixin.qq.com/s/FoYIcUIEZk0A9j3bbU8bpQ)
 + [IntelliJ IDEA 从卡顿到起飞，只用改这些。。。](https://mp.weixin.qq.com/s/Z8v6aOgyJee0q0jMVRT_wQ)
++ [看了我的IDEA使用技巧，同事也开始悄悄模仿了...](https://mp.weixin.qq.com/s/gzld_RX7_7XPb0YEImw6PQ)
 
 ## MAC_PRO相关
 
@@ -523,6 +526,7 @@
 + [硬撑15年、仅1台服务器、8GB内存：他用一堆“淘汰” 技术，让50+万人敲下人生第一条Linux命令！](https://mp.weixin.qq.com/s/Z0jHGFVjzf36SA8XS4IMew)
 + [“飞行汽车没来，但Win32还活着”！微软CTO亲口承认：Win11还在靠90年代「祖传代码」撑着](https://mp.weixin.qq.com/s/AmVLMO_4cPBd2_7KVtVnlg)
 + [JPEG XL 十年：Google 开源实验如何塑造下一代图像编码标准](https://www.oschina.net/news/452014)
++ [正斜杠 vs 反斜杠，让全球程序员多写了 100 亿行代码](https://mp.weixin.qq.com/s/_PmAnlnqFShSwyZeKcdd2A)
 
 ## 创业
 

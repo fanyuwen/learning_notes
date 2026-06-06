@@ -77,6 +77,7 @@
 + [Kotlin 程序员必看Flow 转换还能这么丝滑](https://mp.weixin.qq.com/s/DmM8fJzSq9n_CyVszyiaEg)
 + [Kotlin + Spring Data JDBC 实战：简洁、可控的持久化方案｜官方博客](https://mp.weixin.qq.com/s/Rlt9Cqdb8ey2vfX00VtdYg)
 + [当 Jetpack Compose 遇上跨端原生渲染：Kuikly Compose DSL 的探索之路｜社区分享](https://mp.weixin.qq.com/s/0DE8AQjJzvydl1PBUkhMMg)
++ [如何在 Kotlin 项目中优雅地使用 Spring Data JPA｜官方博客](https://mp.weixin.qq.com/s/yRPeZsFUJIzDlaAlKONigw)
 
 ## 技术月报
 

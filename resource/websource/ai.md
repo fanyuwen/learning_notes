@@ -89,6 +89,7 @@
 + [读完 Claude Code 源码才发现：Skills、MCP、Rules 的区别，远没有你想的那么大](https://my.oschina.net/u/4939618/blog/19579565)
 + [应对 AI 研发的 “混沌”：SDD（规格驱动开发）在银行私域研发体系的落地探索](https://my.oschina.net/u/3874284/blog/19663853)
 + [SQLite 才是 AI 工作流持久化的答案](https://www.oschina.net/news/450164/sqlite-is-all-you-need-for-durable-workflows)
++ [RAG、LLM Wiki 还是 Gbrain？智能体记忆大比拼](https://mp.weixin.qq.com/s/2XFB7MmZquJVDnMhXqXGGQ)
 
 ### agent
 
@@ -106,6 +107,7 @@
 
 + [字节面试官：什么是 RAG？为什么需要 RAG？](https://mp.weixin.qq.com/s/Gl0JKmtwXuIt6SiyOz8K4w)
 + [RAG 中 Embedding 是什么？1536 维什么意思？](https://mp.weixin.qq.com/s/1DO3P4izyPc00pVfjBngFQ)
++ [AI进阶！9种RAG架构](https://mp.weixin.qq.com/s/9s2_xdZt0LeQwjkX0AGFAA)
 
 ## 资讯
 

@@ -611,6 +611,7 @@
 + [京东一面：为什么HTTP的第一次调用会很慢？](https://mp.weixin.qq.com/s/8YXRwxZXsnC8gC3DYQib1Q)
 + [IPv8草案来了：100%兼容IPv4](https://mp.weixin.qq.com/s/7HrUnC_obtIICmQvSkvoIg)
 + [面试官：什么是 IPv6？和 IPv4 有什么区别？](https://mp.weixin.qq.com/s/_HvrodwImo9NN5ksdVhavw)
++ [懵了！浏览器输入 www.baidu.com，回车之后发生了什么？](https://mp.weixin.qq.com/s/cuEWAaLeNVjkkP4JAQmtTQ)
 
 #### CORS
 

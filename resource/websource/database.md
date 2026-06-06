@@ -21,6 +21,7 @@
 + [数据库设计：打造高效数据架构的最佳实践](https://mp.weixin.qq.com/s/JbhNUKb8q9Gr8gV04_YbYQ)
 + [简单实现异构数据源查询](https://mp.weixin.qq.com/s/EXmFxtCjgwV8lTf5gaTOTg)
 + [比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了](https://my.oschina.net/HelloGitHub/blog/18805002)
++ [为什么数据库连接很消耗资源？被问根本答不出来……](https://mp.weixin.qq.com/s/jyKpdv8HBNRDmuSnHm8WSw)
 
 # SQL
 
@@ -171,6 +172,7 @@
 + [高并发下是先写数据库，还是先写缓存？](https://mp.weixin.qq.com/s/9nO3ChDlfMDLyZsFOva5IA)
 + [今天被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/WLMfWVDuKL0bAE5W8X32rA)
 + [营销自动化数据驱动 - 多源数据 OLAP 架构演进](https://my.oschina.net/vivotech/blog/19378831)
++ [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/RLfmkamiqaGz6JMHchELSw)
 
 ### 读写分离&分库分表
 
@@ -1031,6 +1033,7 @@
 + [Redis 发布订阅（Pub/Sub）模式简介](https://mp.weixin.qq.com/s/OKhPDuLHAC-wpRHAPIeLIg)
 + [Redis 分布式限流完全指南：固定窗口、滑动窗口、令牌桶三大算法](https://mp.weixin.qq.com/s/oBWhlL-LJ7fv_h1zaQ8AoQ)
 + [面试中被嘲笑 Token 放在 Redis 里？这把给我干沉默了...](https://mp.weixin.qq.com/s/LDCF6Z8pGumDKgiRRi49sQ)
++ [小红书面试：Redis 怎么实现延迟消息？我：啊？我一般都用 MQ 来实现...](https://mp.weixin.qq.com/s/C398-0MMlZdZ0z32AnOHPw)
 
 #### 原理
 

@@ -305,6 +305,7 @@
 + [分布式中的“一致性”，到底指的是什么？](https://mp.weixin.qq.com/s/AljmTZC5QvBYjrxgCEdk9Q)
 + [5大分布式ID生成器方案详解(超全面)](https://mp.weixin.qq.com/s/zUt4-MOzZS5tgLiRCtiTmg)
 + [UUID已死！全新分布式ID组件TSID在Spring Boot下的实战，支持N种](https://mp.weixin.qq.com/s/8-G-MmJwgAIEmDzAbbBL4g)
++ [高可用分布式系统 4 大原则之一：端到端原则](https://my.oschina.net/xiandafu/blog/19641027)
 
 ## 分布式锁
 

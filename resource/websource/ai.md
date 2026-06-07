@@ -91,6 +91,9 @@
 + [SQLite 才是 AI 工作流持久化的答案](https://www.oschina.net/news/450164/sqlite-is-all-you-need-for-durable-workflows)
 + [RAG、LLM Wiki 还是 Gbrain？智能体记忆大比拼](https://mp.weixin.qq.com/s/2XFB7MmZquJVDnMhXqXGGQ)
 + [如果 AI 来写代码，为什么还要用 Python？](https://www.oschina.net/news/439435)
++ [同事：“Claude Code 都能自动写代码了，还要什么 Agent 记忆系统？”我反问：“CLAUDE.md、Memory、RAG，你真分得清吗？”](https://mp.weixin.qq.com/s/36IWyX-Py1wLNobDNFEoIA)
++ [开源了！ClaudeCode最佳实践60天斩获54kStar，前后端开发直接起飞了！](https://mp.weixin.qq.com/s/u2CyGOEDUcS-fLvhOzOedw)
++ [Claude Code 斜杠命令教程，效率翻 10 倍！](https://mp.weixin.qq.com/s/-cFIi_mSdH4q0xknCoLmvQ)
 
 ### agent
 
@@ -162,6 +165,9 @@
 + [我为什么不 "Vibe Code"：一名开发者对 AI 编程的反思](https://www.oschina.net/news/443929)
 + [AI 冲击就业市场，《经济学人》称计算机毕业生就业率骤降](https://www.oschina.net/news/443890)
 + [用 AI 以 “更慢” 的速度编写更好的代码](https://www.oschina.net/news/446213/using-ai-to-write-better-code-more-slowly)
++ [LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！](https://mp.weixin.qq.com/s/rHzWjqIEFMquCgs0Kg_PRA)
++ [这位老哥搞了一门新的编程语言，5年烧了500万美元，最后完全转向TypeScript。](https://mp.weixin.qq.com/s/10AwAwVYC8K8GcfOlSjRZA)
++ [16亿Windows用户，一夜冲进Agent时代！](https://mp.weixin.qq.com/s/yrKrZf_mi5R4EHMia0KWFA)
 
 ## LangChain
 

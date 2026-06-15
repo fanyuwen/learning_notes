@@ -45,6 +45,7 @@
   + [technical-books](https://github.com/doocs/technical-books)
   + [design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java)
   + [doocs](https://github.com/doocs)
+  + [java-basics](https://github.com/learning-zone/java-basics)
 
 # SCALA
 

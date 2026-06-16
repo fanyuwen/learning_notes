@@ -46,6 +46,7 @@
   + [design-patterns-java](https://github.com/RefactoringGuru/design-patterns-java)
   + [doocs](https://github.com/doocs)
   + [java-basics](https://github.com/learning-zone/java-basics)
+  + [technology-talk](https://github.com/aalansehaiyang/technology-talk)
 
 # SCALA
 

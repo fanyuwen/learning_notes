@@ -612,6 +612,7 @@
 + [IPv8草案来了：100%兼容IPv4](https://mp.weixin.qq.com/s/7HrUnC_obtIICmQvSkvoIg)
 + [面试官：什么是 IPv6？和 IPv4 有什么区别？](https://mp.weixin.qq.com/s/_HvrodwImo9NN5ksdVhavw)
 + [懵了！浏览器输入 www.baidu.com，回车之后发生了什么？](https://mp.weixin.qq.com/s/cuEWAaLeNVjkkP4JAQmtTQ)
++ [字节面试官：post 为什么会发送两次请求？](https://mp.weixin.qq.com/s/-CCQMfVlG7yhDhmAM9JPiQ)
 
 #### CORS
 

@@ -174,6 +174,7 @@
 + [优化代码结构-观察者模式](https://mp.weixin.qq.com/s/z4B5n8bU1Lot3J_XNTYkzw)
 + [什么是观察者模式？它观察的是什么？](https://mp.weixin.qq.com/s/3QD2nJpUYX_oAcyWJ3ansQ)
 + [设计模式之观察者模式](https://mp.weixin.qq.com/s/yWgOKLqP8HQ15cifSt1utw)
++ [23种设计模式：你了解 观察者模式 吗？](https://mp.weixin.qq.com/s/F-1DZrbS0A1HOdJsnuYYXw)
 
 ## 原型模式
 

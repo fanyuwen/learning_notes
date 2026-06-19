@@ -483,3 +483,4 @@
 + [CSS view()：JavaScript 滚动动画的终结](https://mp.weixin.qq.com/s/hWMCSBDTG5K-vg1Z75GFug)
 + [AI 驱动：从运营行为到自动化用例的智能化实践｜得物技术](https://my.oschina.net/u/5783135/blog/19595102)
 + [React、Vue 还是别的？真相是：框架，早就没那么重要了](https://mp.weixin.qq.com/s/egIsJnwDWZE1OJmEr5EUaw)
++ [在 JS 中为什么要少用 class ？](https://mp.weixin.qq.com/s/fRhR8a9KVQWqjXCsimrLNg)

@@ -94,6 +94,7 @@
 + [同事：“Claude Code 都能自动写代码了，还要什么 Agent 记忆系统？”我反问：“CLAUDE.md、Memory、RAG，你真分得清吗？”](https://mp.weixin.qq.com/s/36IWyX-Py1wLNobDNFEoIA)
 + [开源了！ClaudeCode最佳实践60天斩获54kStar，前后端开发直接起飞了！](https://mp.weixin.qq.com/s/u2CyGOEDUcS-fLvhOzOedw)
 + [Claude Code 斜杠命令教程，效率翻 10 倍！](https://mp.weixin.qq.com/s/-cFIi_mSdH4q0xknCoLmvQ)
++ [AI 工程师进阶指南：4个阶段+5个项目+90天路线图](https://mp.weixin.qq.com/s/c6Ej4jgNOiR0IFeSN2fVag)
 
 ### agent
 
@@ -106,6 +107,7 @@
 + [AI Agent 如何重构 App 稳定性治理流程](https://my.oschina.net/u/4939618/blog/19665040)
 + [Agent 开发范式演进：从环境工程出发，“简化” 多源实时上下文](https://my.oschina.net/u/3874284/blog/19661323)
 + [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://my.oschina.net/selectdb/blog/19658249)
++ [Agent 面试拷打（三）：MCP、Function、Skill，面试官最爱让你区分的三件套](https://mp.weixin.qq.com/s/rLOdUYNyajccR5kACbZ8Kg)
 
 ### RAG
 
@@ -197,6 +199,7 @@
 + [工业相机异常处理实战：断连重连、丢帧检测、超时恢复状态机](https://mp.weixin.qq.com/s/D6bM0ZoQr6HqPI5Y2ucQ2Q)
 + [工业视觉检测设备的标准软件架构](https://mp.weixin.qq.com/s/FDh8VqNSYAfYNy-MJEwTZQ)
 + [王炸组合！多尺度特征融合+YOLO怒斩1区TOP！思路速学！](https://mp.weixin.qq.com/s/mHG_PoBL5eIYL_h7k3rknw)
++ [VLM火了，YOLO真的会被淘汰吗？我在工业产线跑了3组对比测试，结果很反常识](https://mp.weixin.qq.com/s/nLrF94-ms9b9U3QtEqms9Q)
 
 ## openCV
 

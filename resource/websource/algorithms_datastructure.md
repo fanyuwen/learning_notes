@@ -210,6 +210,7 @@
 + [冒泡排序：从入门到精通，一文搞懂经典排序算法](https://mp.weixin.qq.com/s/a-0jEa3wnikZDSZoM0aObQ)
 + [冒泡排序（Bubble Sort）](https://mp.weixin.qq.com/s/XqNRtQnyp16ap0s9ORnXsw)
 + [一文弄懂计数排序算法！](https://www.cnblogs.com/xiaochuan94/p/11198610.html)
++ [1.4.1-排序｜面试官问"为什么快排比堆排序快"，90%的人答不到点上](https://mp.weixin.qq.com/s/i_rAoXEeEz1-1Zuc2I2G5g)
 
 # 密码学
 

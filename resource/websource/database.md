@@ -1034,6 +1034,8 @@
 + [Redis 分布式限流完全指南：固定窗口、滑动窗口、令牌桶三大算法](https://mp.weixin.qq.com/s/oBWhlL-LJ7fv_h1zaQ8AoQ)
 + [面试中被嘲笑 Token 放在 Redis 里？这把给我干沉默了...](https://mp.weixin.qq.com/s/LDCF6Z8pGumDKgiRRi49sQ)
 + [小红书面试：Redis 怎么实现延迟消息？我：啊？我一般都用 MQ 来实现...](https://mp.weixin.qq.com/s/C398-0MMlZdZ0z32AnOHPw)
++ [Redis 不止缓存：10个实用场景详解](https://mp.weixin.qq.com/s/BJWJ_ZzwEh5wFKRV9kr79w)
++ [为什么越来越多企业放弃 Redis，转向 Dragonfly？](https://mp.weixin.qq.com/s/ndWlydtl6h-I3EMZzK4rSA)
 
 #### 原理
 

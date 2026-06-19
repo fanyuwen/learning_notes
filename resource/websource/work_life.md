@@ -151,6 +151,13 @@
 + [所以…那些 40 多岁的程序员都去哪里了？](https://mp.weixin.qq.com/s/m3hpFWeubahyceJrsyoQSw)
 + [为什么痴迷技术的程序员，反而走不远？！](https://mp.weixin.qq.com/s/yuBO3dXn2ylZXi0hukwwcA)
 + [程序员应该选技术还是管理？](https://mp.weixin.qq.com/s/9ZT7r9xA3uAVA383D2ek-g)
++ [程序员成长系列（二）：如何在新公司快速上手一个陌生项目](https://mp.weixin.qq.com/s/MrpiXvrRUq_nsJ_hN9Trug)
++ [别让代码质量，成为你掩盖管理无能的遮羞布。](https://mp.weixin.qq.com/s/yHoJ6iMVSrIYa5P_yeg26w)
++ [为什么你天天加班写代码，却毫无进步？](https://mp.weixin.qq.com/s/MKh1kEF-3a1OiLznjmg8PA)
++ [程序员最焦虑的两件事：功能没写完，token 用完了；功能写完了，token 还剩大半马上要重置了......](https://mp.weixin.qq.com/s/ET9l3OvsvZFSzjrulmfESg)
++ [程序员的代码洁癖](https://mp.weixin.qq.com/s/RBV9ism9aApgm1e8HbYX0Q)
++ [王自如：你写了十五年代码，还只是个程序员？](https://mp.weixin.qq.com/s/YQezr3EuzDeTfp_LTYqHjA)
++ [对于程序员，到底什么是成长性的工作？](https://mp.weixin.qq.com/s/JSUarfyyT2bit2nsVRSNeA)
 
 # 个人成长
 
@@ -429,6 +436,7 @@
 + [用了这么多年Mac才发现，我天天拔插充电线的样子像个傻子…](https://mp.weixin.qq.com/s/MOKOmCg_3LYbeJC_XnA_Fg)
 + [MacBook真的能用5年以上吗？我用到第3年，说点更真实的情况](https://mp.weixin.qq.com/s/O_mEQT_dYNuzJqcVl2Ljdw)
 + [用了一年的 MacBook，电池健康仍 100%？踩过坑，才知道这有多夸张](https://mp.weixin.qq.com/s/ENSNS5dAiBcPDkR95raGYQ)
++ [数据不出本机：M5 MacBook 本地大模型部署全流程](https://mp.weixin.qq.com/s/HXR_07Md5U7Sx1z-cDFcXg)
 
 ## NAS
 
@@ -628,6 +636,15 @@
 + [推荐11本适合计算机网络即AI学习的书籍](https://mp.weixin.qq.com/s/_ghv-c-ljrFDBcxwcYEqYw)
 + [深度学习之父辛顿推荐：这本AI神书，揭示了人类在AI时代的核心竞争力](https://mp.weixin.qq.com/s/QpH_olJIaUAQ1ukQmjFa9w)
 + [《软件工程的未来》：一篇来自ThoughtWorks的闭门研讨](https://mp.weixin.qq.com/s/K3itgRyR31h4fFdQN26jbg)
++ [awesome-programming-books - 程序员必读的经典书单](https://mp.weixin.qq.com/s/mzX69BmbXwkDnMM2VKT6tg)
++ [程序员升级必读书单（非技术类）](https://mp.weixin.qq.com/s/LZ3CaPxeU21oLWmeGhIp8w)
++ [推荐：计算机专业必读经典书籍](https://mp.weixin.qq.com/s/dmXf1EwkqpUs5LqcXjblxA)
++ [值得所有程序员阅读的一本书](https://mp.weixin.qq.com/s/Sf1DGL3YULCawpFdh-sgBg)
++ [10本AI书，必读](https://mp.weixin.qq.com/s/IE84DZvcGqLHmExd8uPgXw)
++ [人工智能的书籍动辄几百上千页，作为学生真的有必要啃这些大书吗？如果有必要，该如何提高效率的看书？](https://mp.weixin.qq.com/s/JhNTwe7GFfaz1GEnKNSZdw)
++ [计算机科学需要读的书](https://mp.weixin.qq.com/s/Guqr6Ayf4di2y6dHTxJwbg)
++ [全球精英都在读的5本书，许多人竟还不知道！](https://mp.weixin.qq.com/s/B-4gT-1yVfoOnKdEqgaTnQ)
++ [计算机图书推荐|《游戏玩家的大脑》](https://mp.weixin.qq.com/s/0ncP10MWweGYwxg_Sc_TBQ)
 
 ### 生活
 

@@ -242,6 +242,7 @@
 + [微服务链路追踪原理与SpringCloud方案](https://mp.weixin.qq.com/s/tVAVi863V5Rk9hSdTWKmHA)
 + [面试官：微服务如何保证系统高可用？](https://mp.weixin.qq.com/s/uJZBFnFlPVNaBzOqpgJfiw)
 + [9 个核心组件，搭建生产级微服务应用](https://mp.weixin.qq.com/s/z3vD4ApZNRO_hNUIUty08Q)
++ [十万个Why：网关已经统一鉴权，为什么微服务内部还要二次鉴权？](https://mp.weixin.qq.com/s/fJuiy1QObGhvGlgaOzOy9g)
 
 # 分布式
 
@@ -615,6 +616,7 @@
 + [常用的性能优化手段](https://mp.weixin.qq.com/s/aqTTQE-hMFUj-xmyg0XjrQ)
 + [单机架构下如何设计能达到上万并发??](https://mp.weixin.qq.com/s/SfvyNKUIpdPfnZIcbHKRzg)
 + [只改了五行代码，接口吞吐量提升了10多倍！](https://mp.weixin.qq.com/s/95yeYE0GzdC9ALMeURZc7Q)
++ [一个接口从800ms优化到50ms我做了什么](https://mp.weixin.qq.com/s/M0nzFnnX6whSp_JPbfIbpw)
 
 ## 跨域
 
@@ -774,6 +776,7 @@
 + [面试官：业务开发时，接口不能对外暴露怎么办？有 3 种实现方案！](https://mp.weixin.qq.com/s/2fs1oSYPAGPT0Uc69zB0Kw)
 + [浅析分批分页查询场景及方案](https://my.oschina.net/u/4090830/blog/19482838)
 + [你写的 REST API 为什么总被吐槽？资深工程师都在用的 4 种高级设计法](https://mp.weixin.qq.com/s/zlAlUbxyPh9z-aEC3wkjpw)
++ [面试高频 | 彻底搞懂：事件、观察者、发布订阅、消息队列的层级关系（90%开发者都混淆）](https://mp.weixin.qq.com/s/K-FHYckb0-HXghlzxP-lTw)
 
 # 测试相关
 
@@ -847,6 +850,7 @@
 + [瞧瞧别人家的优惠券过期方案，那叫一个优雅！](https://mp.weixin.qq.com/s/ET4Y55fHCB-aOVPuqN2jjg)
 + [订单管理系统(OMS)--系统设计](https://mp.weixin.qq.com/s/bL9C-BHDrChw8MLGcd9_qw)
 + [面试官问“订单拆单与合单”，我把简历上的“电商项目”划掉了...](https://mp.weixin.qq.com/s/o0S05fpfwUaEBi--9ArL7Q)
++ [面试官：设计一个评论盖楼系统，你能答到第几层？](https://mp.weixin.qq.com/s/jDA8X5J1vAKJJbNqU77u1Q)
 
 ## 代码相关
 

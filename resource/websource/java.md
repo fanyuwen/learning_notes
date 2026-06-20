@@ -578,6 +578,7 @@
 + [14 个 Java 集合高阶技巧，提升代码逼格](https://mp.weixin.qq.com/s/UYj6jZIlws_SgavXte6ERg)
 + [告别烂代码！9 个 Java 代码优化技巧](https://mp.weixin.qq.com/s/a94SESrRgGGVlvdQNPLExA)
 + [惊！Java内置强大却被严重低估的WatchService API，你竟不知？](https://mp.weixin.qq.com/s/cCkoArh32L6arxTnR-MLLw)
++ [Java 开发 > 用了十年 Map，竟还在写 containsKey + get + put？](https://mp.weixin.qq.com/s/2hoh_rgtMHvazRnQFLKsGg)
 
 ## 代码质量
 
@@ -680,6 +681,7 @@
 + [Java性能调优黑科技！1行代码实现毫秒级耗时追踪，效率飙升300%！](https://mp.weixin.qq.com/s/OkF4PZFl_egBTcCLgk6l-w)
 + [防御性编程第一步：多用forEach，其中有一个坑很容易出错](https://mp.weixin.qq.com/s/VmUcBQ6O80Rf9jVNfxmB7A)
 + [15条黄金法则：打造高性能、可维护的Java代码](https://mp.weixin.qq.com/s/AwVCa1mmbDoOo1BKv6vXNg)
++ [《Effective Java》解读第54条：返回零长度的数组或者集合，而不是null](https://mp.weixin.qq.com/s/IOh7zHUV3Ubto8xEMp4IYw)
 
 # 底层
 
@@ -803,6 +805,10 @@
 + [文件上传还在用后缀名？Java通过魔数识别文件类型才最安全](https://mp.weixin.qq.com/s/q7PXfOnSqo9NZhyqdd88bg)
 + [炸了！Java 性能竟被 String 偷偷拖垮？这些“隐形杀手”99% 程序员都忽略了!](https://mp.weixin.qq.com/s/Bi9k54CQ_D9TN0JwnPDvYQ)
 + [求你了，判断 BigDecimal 相等，千万别用 equals！](https://mp.weixin.qq.com/s/IkcNRRRe-gKf8eKkFpBQmA)
++ [Java 应用性能调优体系：CPU、内存、IO 全链路分析](https://mp.weixin.qq.com/s/v9ZI8XcLf9ToQQ2_U8D5Sw)
++ [面试官：List、Set、Map 到底怎么用？看完这篇彻底不混淆！](https://mp.weixin.qq.com/s/1IphydlQXKJYHWP-aQWe-A)
++ [Java Lambda 表达式深入：从匿名类到方法引用完全指南](https://mp.weixin.qq.com/s/D6bEbKD5tP3vwPNubGAR_A)
++ [十万个why：想 Kafka 暂停消费，为什么别直接用 Thread.sleep？](https://mp.weixin.qq.com/s/p1_Qu-o-d66D5cukrgr-JQ)
 
 ### 序列化
 
@@ -1141,6 +1147,7 @@
 + [Java线程池，我用包饺子来解释，面试官直接笑了](https://mp.weixin.qq.com/s/kQrBo2GnMzvnbt1S2X7x-Q)
 + [Java并发编程（二十一）：Java自定义线程池ThreadPoolExecutor](https://mp.weixin.qq.com/s/xhOEY2BK1OTrUrahy3Q03w)
 + [十万个Why：线程池明明还有最大线程闲着，为什么任务非要进队列排队？](https://mp.weixin.qq.com/s/oo2WoSyXG7g8wsO67Y9jEQ)
++ [线上诡异BUG：接口无报错、无慢SQL，却大批量超时？复盘一次藏在线程池里的隐形故障](https://mp.weixin.qq.com/s/47WIgnVi8SqRkOG78aSIAA)
 
 #### 锁
 
@@ -1542,6 +1549,9 @@
 + [一次 Full GC 频繁的排查经历：排查了12小时，就因为一个Map没设上限](https://mp.weixin.qq.com/s/-kyFzr-6MbEyzKb_lEVUjg)
 + [淘宝二面：线上系统频繁 Full GC，你要怎么排查？我：还没遇到过...](https://mp.weixin.qq.com/s/NS9-3ubqvd0ad45qcVLw2Q)
 + [面试官：YoungGC 和 FullGC 的触发条件是什么？](https://mp.weixin.qq.com/s/Vk8ZP-6owL6xHQCDvF5zZg)
++ [下单就GC：我们如何把G1的STW从1.2s干到150ms](https://mp.weixin.qq.com/s/nJ1RlE8dWuZJyowOKjZqvQ)
++ [ZGC 和 CMS 和 G1 的区别对比：从线上卡顿到亚毫秒级低延迟，我踩过的坑和选型指南](https://mp.weixin.qq.com/s/z3hbp9D42l_Tfa8Qlo8FTg)
++ [千万别乱改G1的Region大小！我差点搞出线上事故](https://mp.weixin.qq.com/s/DuvuS1dLra0O74RW4_hjNg)
 
 # 核心库
 
@@ -1873,6 +1883,7 @@
 + [30+个 CompletableFuture 高频场景案例，让你的系统性能飙升300%](https://mp.weixin.qq.com/s/04yhF4DqamdbnKPTQf8M_g)
 + [CompletableFuture 异步关于异常的坑](https://mp.weixin.qq.com/s/9X8LzZ9Il8SsKjs-eM7gnQ)
 + [异步任务编排：别再把 CompletableFuture 写成意大利面代码了](https://mp.weixin.qq.com/s/LN4TSfwSvt-GOt97ol4-7Q)
++ [CompletableFuture同步和异步使用](https://mp.weixin.qq.com/s/ZgV15gBl7X98Jx1Qc2Z0Uw)
 
 ### ThreadPool
 
@@ -2040,6 +2051,7 @@
 + [面试必问：CountDownLatch 和 CyclicBarrier 的核心区别，这样答才透彻](https://mp.weixin.qq.com/s/YSVeEaHv6M0eKLjD2A5YnQ)
 + [5.2 面试必问：LinkedBlockingQueue 双锁设计碾压 ArrayBlockingQueue？](https://mp.weixin.qq.com/s/iyPHSNva-QkxXFFQBVaJLw)
 + [延迟任务DelayQueue够用，但为什么大厂都在用时间轮](https://mp.weixin.qq.com/s/ypRjBJse7Zy76RI28k-CZA)
++ [吃透AQS与三大并发工具：别再分不清CountDownLatch、CyclicBarrier、Semaphore](https://mp.weixin.qq.com/s/zIzcpxOGndx0yQHXlTJHEQ)
 
 ## IO/NIO
 
@@ -2300,6 +2312,7 @@
 + [面试官：Dubbo 的 SPI 和 JDK 的 SPI 有什么区别？](https://mp.weixin.qq.com/s/UZoxvTMqvIq3653s2-SBhQ)
 + [面试官问：Dubbo 为啥不用 HTTP？我一句话直接拿下 Offer](https://mp.weixin.qq.com/s/uu05Fj4l2ZJZ-gXQ_YGowQ)
 + [Java社招面试必问：Dubbo 为什么不能直接停机？优雅停机原理全解析](https://mp.weixin.qq.com/s/xDrR6APO-6DDf7UgJ3HHNA)
++ [为什么大厂都爱问 Dubbo 设计模式？答案太经典了！](https://mp.weixin.qq.com/s/qahcGbb9Yg8L9Qyy7nec0w)
 
 ## eureka
 
@@ -2577,6 +2590,7 @@
 + [xbatis 与 mybatis-plus 对比，两者均为 mybatis 扩展的 ORM 框架](https://www.oschina.net/news/406850)
 + [聊聊Mybatis-Plus中的10个坑！](https://mp.weixin.qq.com/s/w4tpfSE3govH0AVe_ZNxHw)
 + [Java MyBatis-Plus 实战指南：用 BaseMapper、Wrapper 和分页写好数据层](https://mp.weixin.qq.com/s/Pi_r4JnKGhfFPKVXo-8smQ)
++ [一文讲清：MyBatis、MyBatis-Plus、JPA、QueryDSL——Java数据访问层怎么选？](https://mp.weixin.qq.com/s/x1CrL901IHsPGGVT11zw7A)
 
 ## nacos
 
@@ -2682,6 +2696,7 @@
 + [OpenFeign远程调用](https://mp.weixin.qq.com/s/UfrWFaqHkE__qX-p9TAmIg)
 + [面试官：Feign 第一次调用为什么会很慢？大部分人答不上来！](https://mp.weixin.qq.com/s/YsK2d41Ki8NN3gpxcHmwgw)
 + [十万个why：Feign 超时时间明明设了 3 秒，为什么实际等了 10 秒才返回超时？](https://mp.weixin.qq.com/s/kMbHEc33GVveYohy7KhgWg)
++ [别再只会@FeignClient！深度拆解OpenFeign底层、超时、重试的隐形大坑](https://mp.weixin.qq.com/s/kERPkTjX0QvUeTS09u-_Zw)
 
 ## quarkus
 
@@ -2736,6 +2751,7 @@
 + [基于Redission高级应用19-RMultimap原理及高级工具类封装解读](https://mp.weixin.qq.com/s/L7suESybzJQ1Mwt1Utu5pA)
 + [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
 + [基于Redission高级应用22-基于RAtomicLong原理及封装的工具类](https://mp.weixin.qq.com/s/39Nt8v6SXJWnCk25luYebw)
++ [用Redisson分布式锁的小心了，谨防看门狗续期陷阱](https://mp.weixin.qq.com/s/Hq-huVI7oFUWPcrtF67SZQ)
 
 ## resilience4j
 
@@ -2764,6 +2780,7 @@
 + [限流禁咒！Sentinel集群流控征服流量洪峰](https://mp.weixin.qq.com/s/J9xtcI2_ZY1L4-aCizvU5Q)
 + [Sentinel Java 客户端限流原理解析｜得物技术](https://my.oschina.net/u/5783135/blog/19207953)
 + [Sentinel Java客户端限流原理解析｜得物技术](https://mp.weixin.qq.com/s/lqgzjj2l1phpR45nApALdw)
++ [SpringBoot 服务熔断与降级：Sentinel 实战](https://mp.weixin.qq.com/s/nBoRz83FfFl8tIoC6yFxAQ)
 
 ## shardingsphere
 
@@ -2871,6 +2888,8 @@
 + [滴滴面试官：@Autowired 和 @Resource 注解有啥区别？你这项目怎么还混着用呢？](https://mp.weixin.qq.com/s/P1T6YNvcfCFy63761EFbig)
 + [Spring Bean 的生命周期管理](https://mp.weixin.qq.com/s/PTem9CQFvDlACrO2cLTPnA)
 + [Spring Bean 管理 的核心概念](https://mp.weixin.qq.com/s/CyZv4dmkR7H-YaHi3Nlrog)
++ [Spring 灵魂：IOC 和 AOP，看完不再迷茫](https://mp.weixin.qq.com/s/Z5mjEBH25vxe2cR49_VkMw)
++ [@Lazy延迟加载：解决循环依赖+项目启动慢双难题](https://mp.weixin.qq.com/s/fN0m9ao71OGQIdPpSU-TMw)
 
 #### 配置
 
@@ -3079,6 +3098,7 @@
 + [第六篇・Spring 5 源码深度拆解：SpringMVC 全流程核心原理](https://mp.weixin.qq.com/s/-RhNYFQxvuGywxEOwjB49w)
 + [强烈安利：加上这个Spring依赖，前端老哥再也不催我更新Swagger了](https://mp.weixin.qq.com/s/UHx7ZrtUhOFga5zraB1v6A)
 + [Service 层的异常是抛到 Controller 层还是直接处理？](https://mp.weixin.qq.com/s/lvneunDiyGe1l-L4gr23yA)
++ [高并发下参数校验成性能杀手？一文讲透Spring Validation避坑指南](https://mp.weixin.qq.com/s/wAB1HEzLRjrN0t_ohzhJYA)
 
 #### reactor
 
@@ -3773,6 +3793,7 @@
 + [Spring Boot 强大的@AliasFor注解，玩转各种自定义](https://mp.weixin.qq.com/s/ekmQ9cr9fKUfNsFvzZOWeA)
 + [拒绝埋雷！盘点 Spring Boot 生产环境的 7 大 "性能杀手"](https://mp.weixin.qq.com/s/PzsbepInr8dQimI0cZOMxg)
 + [高并发下的Java池化技术：资源复用与性能优化](https://mp.weixin.qq.com/s/T76fc7e3CLB2c_cCt6wpPw)
++ [面试官：SpringBoot启动慢怎么排查？我：从7步流程到Bean级监控，直接拿下offer](https://mp.weixin.qq.com/s/OGcdu_pS9IKDcLPniI_Y-Q)
 
 ##### 原理
 
@@ -4442,6 +4463,8 @@
 + [从源码到实战：彻底解决 Spring Boot 中 JDK8 日期时间的序列化难题](https://mp.weixin.qq.com/s/h0b6jBCCN5ahbjJsItwzpw)
 + [零侵入！Spring Boot 统一响应封装，4 种偏底层硬核方案](https://mp.weixin.qq.com/s/saeqJ0DPAjfft7hzGH2ugw)
 + [Spring Boot 拦截器 vs 过滤器这5个坑，登录校验到底写哪个？](https://mp.weixin.qq.com/s/BpOv9qHDuW-QVejCYkVekg)
++ [接口参数是个接口？如何让 Spring Boot 自动识别子类并校验](https://mp.weixin.qq.com/s/nbGYuf15Jg-_pm_rZf22Ng)
++ [告别 @JsonIgnore！Spring Boot 解决 JSON 递归的 4 种高级方案](https://mp.weixin.qq.com/s/VB4Hql21mD7U7KAUjqfOzw)
 
 ##### 文件上传下载
 
@@ -5260,6 +5283,7 @@
 + [太强大了！Spring Sentinel 一个专为Spring Boot而生的性能分析插件](https://mp.weixin.qq.com/s/0b4-F0ZcYEE4D8U3Vrjoxw)
 + [还在手写 WebSocket？Spring Boot + Netty-SocketIO 实时通信更香！](https://mp.weixin.qq.com/s/Ju7WrzUwmtyPUy6_U4CvzQ)
 + [一行代码搞定！Spring Boot 实现 Word 转 HTML 在线预览](https://mp.weixin.qq.com/s/RI21h3j-A3SalzE1d-OpLg)
++ [用 Spring Boot + Groovy 搭了个绩效规则引擎，终于不用每次改规则都发版了](https://mp.weixin.qq.com/s/_re0xy371gWStYUZACczIw)
 
 ##### excel
 
@@ -5865,3 +5889,6 @@
 + [Java 性能比我们的预期中高了四倍，gzb-one 证明了它（一份严谨的压测报告）](https://www.oschina.net/news/419201)
 + [Java 泛型解析太痛苦？你可能需要一枚「蛋」](https://www.oschina.net/news/446884)
 + [网络编程、Java反射、异常、序列化](https://mp.weixin.qq.com/s/rN3hpd-xuN5lybWiI2pTkw)
++ [权限框架怎么选？SpringSecurity、Shiro、Sa-Token 全面对比](https://mp.weixin.qq.com/s/ilOjwq92KK3FIOHUwjKOLA)
++ [面试官：线上 Java 服务 CPU 飙到 90% 以上，你的第一步操作是什么？为什么不是直接看日志？](https://mp.weixin.qq.com/s/1S2-IcTqMX4maA42Ul5z4w)
++ [Spring 创始人Rod Johnson 播客访谈：AI 能写 95% 代码，但架构能力才是开发者的核心壁垒](https://mp.weixin.qq.com/s/VX4bqokesdTbdyGqd6QVzw)

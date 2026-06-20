@@ -243,6 +243,7 @@
 + [面试官：微服务如何保证系统高可用？](https://mp.weixin.qq.com/s/uJZBFnFlPVNaBzOqpgJfiw)
 + [9 个核心组件，搭建生产级微服务应用](https://mp.weixin.qq.com/s/z3vD4ApZNRO_hNUIUty08Q)
 + [十万个Why：网关已经统一鉴权，为什么微服务内部还要二次鉴权？](https://mp.weixin.qq.com/s/fJuiy1QObGhvGlgaOzOy9g)
++ [微服务间相互调用时的一种认证方式](https://mp.weixin.qq.com/s/aWfrhpl7bBbWhL7Sj_XBPQ)
 
 # 分布式
 
@@ -307,6 +308,8 @@
 + [5大分布式ID生成器方案详解(超全面)](https://mp.weixin.qq.com/s/zUt4-MOzZS5tgLiRCtiTmg)
 + [UUID已死！全新分布式ID组件TSID在Spring Boot下的实战，支持N种](https://mp.weixin.qq.com/s/8-G-MmJwgAIEmDzAbbBL4g)
 + [高可用分布式系统 4 大原则之一：端到端原则](https://my.oschina.net/xiandafu/blog/19641027)
++ [架构实战：全局唯一ID的技术方案](https://mp.weixin.qq.com/s/UlXVhaA19oONFz5cySN_3w)
++ [面试官：你们项目用雪花ID吗？](https://mp.weixin.qq.com/s/5XugI5O2BFiCVHiML8GDaA)
 
 ## 分布式锁
 
@@ -367,6 +370,7 @@
 + [百万并发零超卖：TCC分布式事务守护秒杀系统的每一滴库存](https://mp.weixin.qq.com/s/ltCtVtzgkS93N5z-I8DrHA)
 + [本地消息表：如何用一张表解决分布式事务的99%难题？](https://mp.weixin.qq.com/s/mPeiANYI2bfr5b90X5LUIw)
 + [分布式事务Seata TCC模式篇](https://mp.weixin.qq.com/s/sE-AmVAzYZa3Jt1zIRJCvQ)
++ [复杂业务事务怎么兜底：2PC、TCC 与 Saga 的取舍](https://mp.weixin.qq.com/s/UWm1jlpYERUfWwFhbG7iUg)
 
 ## 分布式算法
 
@@ -472,6 +476,7 @@
 + [被架构师怼了三次，小明终于懂了接口幂等设计](https://mp.weixin.qq.com/s/mJTGhSXORkUB7MhGOkbhcg)
 + [如何秒级实现接口间 “幂等” 补偿：一款轻量级仿幂等数据校正处理辅助工具](https://my.oschina.net/u/4090830/blog/18691875)
 + [别再只会重试接口！分布式系统防重复的终极答案：幂等性设计实战指南](https://mp.weixin.qq.com/s/O9XpHEB15U3LOlGOhkm0UQ)
++ [十万个why：明明接口幂等就能防重复提交，为什么还要加分布式锁？](https://mp.weixin.qq.com/s/fvVoz4_4fEDrxiRmL-OcOA)
 
 ### 负载&限流
 
@@ -587,6 +592,7 @@
 + [得物二面：什么是缓存击穿、缓存穿透、缓存雪崩？（修订版）](https://mp.weixin.qq.com/s/x-TF2y6GpBpHW56dNCf3tQ)
 + [京东缓存中间件架构与缓存内核优化](https://my.oschina.net/u/4090830/blog/19482832)
 + [京东二面：CDN 缓存和 Redis 缓存有什么区别？各适合什么场景？我：只用过 Redis 缓存...](https://mp.weixin.qq.com/s/kObBshUEQGQFygHwn8j3Jg)
++ [十万个why：缓存击穿加个 Redis 互斥锁就行了，为什么还要搞永不过期、逻辑过期这些方案？](https://mp.weixin.qq.com/s/b4KJErKXDx0YeqW_k72vbA)
 
 ## 优化
 
@@ -777,6 +783,8 @@
 + [浅析分批分页查询场景及方案](https://my.oschina.net/u/4090830/blog/19482838)
 + [你写的 REST API 为什么总被吐槽？资深工程师都在用的 4 种高级设计法](https://mp.weixin.qq.com/s/zlAlUbxyPh9z-aEC3wkjpw)
 + [面试高频 | 彻底搞懂：事件、观察者、发布订阅、消息队列的层级关系（90%开发者都混淆）](https://mp.weixin.qq.com/s/K-FHYckb0-HXghlzxP-lTw)
++ [如何设计一套扛住突发百万QPS的系统](https://mp.weixin.qq.com/s/sSbgdgnx4nNKYq6XHz-fEw)
++ [三层校验 + 13 类异常拦截 + 7 项自查清单：让每个接口报错都说人话](https://mp.weixin.qq.com/s/pEs7rC4T03_kQWZKLkbS1w)
 
 # 测试相关
 

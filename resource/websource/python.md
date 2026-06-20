@@ -795,6 +795,7 @@
 + [手残党也能搞定！Python 装包这件小事，我教你一次就“开挂”！](https://mp.weixin.qq.com/s/si_94Sw6bSDJyX0WHNoNtg)
 + [Python装饰器：那把让代码瞬间“变身”的魔法钥匙，你真的会用吗？](https://mp.weixin.qq.com/s/xz9CkZ4P18n0O2gK2xY-Lw)
 + [不写单元测试的程序员，就像光脚跑在野外——迟早要被Bug扎脚！](https://mp.weixin.qq.com/s/RJsSYzO6Yn-pySOEATv4ug)
++ [编程中什么是 Context（上下文）？](https://mp.weixin.qq.com/s/NArfgvTdHF3PFGTFYmmdjQ)
 
 ## 新特性
 
@@ -1059,6 +1060,7 @@
 + [一文搞懂 Python 的 json 模块：从入门到精通](https://mp.weixin.qq.com/s/AuUjKff1C4dNyj1r3w_Jhg)
 + [Python：Scapy 网络交互与安全的工具库](https://mp.weixin.qq.com/s/bkp3MmM3ZcPkJ-Qjpq1AJQ)
 + [Logdy：一个让终端日志飞进浏览器的神器](https://mp.weixin.qq.com/s/DLCY4Lhg9Fqrd-oRiytCEA)
++ [给你的浏览器套上缰绳：今天分享一个 GitHub 15k 星的 AI 神器](https://mp.weixin.qq.com/s/2oQlP_FYNwdLfBm0GIGF5w)
 
 ### Pandas
 

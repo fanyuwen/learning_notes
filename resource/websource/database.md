@@ -503,6 +503,7 @@
 + [MySQL 一排序就慢？4大排序算法 + 优化技巧，彻底搞懂 Using filesort](https://mp.weixin.qq.com/s/XRrseazQQWVLGjaIoLQ_xw)
 + [MySQL百万级表在不停机的情况下增加一个字段要怎么处理的？](https://mp.weixin.qq.com/s/kdIul_p8gSWQ8qFhc2bClg)
 + [十万个Why：两个字段都建了单列索引，为什么加了 OR，执行计划还是全表扫描？](https://mp.weixin.qq.com/s/So1u1rYv_m2MfclOv0YTcg)
++ [一张 120GB 的 MySQL 表，没删一行数据，瘦到了 84GB](https://mp.weixin.qq.com/s/1loxxFFWBzSZKwF3R-7VrQ)
 
 #### 存储引擎
 
@@ -732,6 +733,7 @@
 + [京东二面：加索引时，会锁表吗?（修订版）](https://mp.weixin.qq.com/s/RKYRjWiBLrVn3v2d3d2n3A)
 + [面试官：MySQL 唯一索引和主键索引的区别？(修订版)](https://mp.weixin.qq.com/s/qUKf27dUzYBZldQDEjE00Q)
 + [MySQL索引底层原理：B+树 这一篇全讲透](https://mp.weixin.qq.com/s/9iuzgoGqUYBO4Ij_16zVeA)
++ [十万个Why：两个字段都建了单列索引，为什么加了 OR，执行计划还是全表扫描？](https://mp.weixin.qq.com/s/KHL8aUd1lcothAe_96bqKg)
 
 ### PostgreSQL
 

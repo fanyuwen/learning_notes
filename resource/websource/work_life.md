@@ -158,6 +158,9 @@
 + [程序员的代码洁癖](https://mp.weixin.qq.com/s/RBV9ism9aApgm1e8HbYX0Q)
 + [王自如：你写了十五年代码，还只是个程序员？](https://mp.weixin.qq.com/s/YQezr3EuzDeTfp_LTYqHjA)
 + [对于程序员，到底什么是成长性的工作？](https://mp.weixin.qq.com/s/JSUarfyyT2bit2nsVRSNeA)
++ [代码写得好和写得差的人差在哪?](https://mp.weixin.qq.com/s/9vkTRUe_CIAOiLsKXzYwWQ)
++ [为什么很多公司的技术架构，最后都会变成“谁都不满意”？](https://mp.weixin.qq.com/s/8MUrbDDlM0ldDOULEMP7yQ)
++ [后端面试里，为什么项目经验越来越难讲](https://mp.weixin.qq.com/s/1gRCP1LKMfEsDEbMEzp3nw)
 
 # 个人成长
 
@@ -537,6 +540,7 @@
 + [正斜杠 vs 反斜杠，让全球程序员多写了 100 亿行代码](https://mp.weixin.qq.com/s/_PmAnlnqFShSwyZeKcdd2A)
 + [在 GitHub 之前，开发者如何分享代码？—— 追忆 Planet Source Code 的黄金年代](https://www.oschina.net/news/439656)
 + [互联网底层基础设施构建者：一位高中女教师的代码改变了世界](https://www.oschina.net/news/444403/the-programmer-whose-code-underpins-the-internet)
++ [奇思妙想：15位计算机天才及其重大发现](https://mp.weixin.qq.com/s/7hc0N_3kc5LWWOI6ICpCAw)
 
 ## 创业
 
@@ -645,6 +649,7 @@
 + [计算机科学需要读的书](https://mp.weixin.qq.com/s/Guqr6Ayf4di2y6dHTxJwbg)
 + [全球精英都在读的5本书，许多人竟还不知道！](https://mp.weixin.qq.com/s/B-4gT-1yVfoOnKdEqgaTnQ)
 + [计算机图书推荐|《游戏玩家的大脑》](https://mp.weixin.qq.com/s/0ncP10MWweGYwxg_Sc_TBQ)
++ [设计数据密集型应用》(DDIA, 2nd ed.) 心智模型导览——《Designing Data-Intensive Applications》书介绍导航](https://mp.weixin.qq.com/s/uiXhyEbP3VSO0Ug1QURBwQ)
 
 ### 生活
 

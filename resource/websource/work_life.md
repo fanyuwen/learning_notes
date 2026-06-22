@@ -161,6 +161,7 @@
 + [代码写得好和写得差的人差在哪?](https://mp.weixin.qq.com/s/9vkTRUe_CIAOiLsKXzYwWQ)
 + [为什么很多公司的技术架构，最后都会变成“谁都不满意”？](https://mp.weixin.qq.com/s/8MUrbDDlM0ldDOULEMP7yQ)
 + [后端面试里，为什么项目经验越来越难讲](https://mp.weixin.qq.com/s/1gRCP1LKMfEsDEbMEzp3nw)
++ [字节跳动面试官：你简历上写的高可用架构，就只会加机器？](https://mp.weixin.qq.com/s/JwcZWpw8xH_oWOWbGGDdkQ)
 
 # 个人成长
 
@@ -248,6 +249,7 @@
 + [架构师和技术总监之间，差的不只是技术](https://mp.weixin.qq.com/s/jufwMt4izyfG6xWNbf6TWg)
 + [架构师必备：四大核心产出物与四大核心能力](https://mp.weixin.qq.com/s/FsVFcGNkIQ0Stm5hE7vh6A)
 + [技术负责人正在消失？真正被淘汰的是这类 CTO](https://mp.weixin.qq.com/s/inWPdUpKpOZCVXx7w4a-jw)
++ [任何领域一通百通的核心能力](https://mp.weixin.qq.com/s/Glarqa_q_xtsjIDEidkWMQ)
 
 ## 视频
 
@@ -541,6 +543,7 @@
 + [在 GitHub 之前，开发者如何分享代码？—— 追忆 Planet Source Code 的黄金年代](https://www.oschina.net/news/439656)
 + [互联网底层基础设施构建者：一位高中女教师的代码改变了世界](https://www.oschina.net/news/444403/the-programmer-whose-code-underpins-the-internet)
 + [奇思妙想：15位计算机天才及其重大发现](https://mp.weixin.qq.com/s/7hc0N_3kc5LWWOI6ICpCAw)
++ [Transformer传奇作者加入OpenAI！谷歌27亿美元也没留住](https://mp.weixin.qq.com/s/66qw0XAtyLM5JcZs1piVmQ)
 
 ## 创业
 

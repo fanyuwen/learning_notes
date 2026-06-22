@@ -95,6 +95,8 @@
 + [开源了！ClaudeCode最佳实践60天斩获54kStar，前后端开发直接起飞了！](https://mp.weixin.qq.com/s/u2CyGOEDUcS-fLvhOzOedw)
 + [Claude Code 斜杠命令教程，效率翻 10 倍！](https://mp.weixin.qq.com/s/-cFIi_mSdH4q0xknCoLmvQ)
 + [AI 工程师进阶指南：4个阶段+5个项目+90天路线图](https://mp.weixin.qq.com/s/c6Ej4jgNOiR0IFeSN2fVag)
++ [AI这个基础设施对传统架构设计的重塑](https://mp.weixin.qq.com/s/aq_5_-o70RngrdtFOacV6g)
++ [告别 Vibe Coding！详解OpenSpec SDD开发](https://mp.weixin.qq.com/s/IvGRp7dfRz4PLSN4-Yl7fQ)
 
 ### agent
 

@@ -331,6 +331,7 @@
 + [C++面试周刊(6):constexpr、内联函数、编译期元编程](https://mp.weixin.qq.com/s/AC7yxYG4BLwrByRK0NvCkg)
 + [【C++ 技术分享】写入文件，为啥非要缓存？](https://mp.weixin.qq.com/s/jjhNSXBoofPaycDWhKxGVg)
 + [“连迭代器失效的场景都数不全？” 滴滴面试官叹了口气 “你入职后，那怎么敢把代码交给你来维护……”](https://mp.weixin.qq.com/s/PcaivGRgoJ0wmBCYHH5GLw)
++ [论无锁队列的几种写法](https://mp.weixin.qq.com/s/1tQyoP4gnlO0BwLkVOa03w)
 
 #### 指针
 

@@ -123,6 +123,8 @@
 + [高德二面：线上慢SQL导致CPU飙升，怎么解决？](https://mp.weixin.qq.com/s/dTENQX9JeAloWGMkFxas_Q)
 + [SQL 的 ORDER BY 进化史：从 80 年代诞生到现代数据库](https://www.oschina.net/news/441065)
 + [SQL性能优化！11条黄金法则](https://mp.weixin.qq.com/s/_Nfn4tBqO3MlitkZjcKtug)
++ [面试题：报表查询频繁超时，多表关联几千万数据，你怎么优化？](https://mp.weixin.qq.com/s/t04DZ4GT3OQ-4ozWxPZKAg)
++ [美团问烂了：假如SQL中join了10张表，如何优化性能？](https://mp.weixin.qq.com/s/1B_pslPq_auZUJk_QoIa4Q)
 
 # 本地数据库
 
@@ -226,6 +228,7 @@
 + [MySQL 与 Redis 缓存一致性保障：从理论到深度实践【颠覆传统更新库再更新缓存的错误认知】](https://mp.weixin.qq.com/s/TsX_OucP294cAs5QfVGOmg)
 + [死锁是否可以彻底避免?](https://mp.weixin.qq.com/s/hXEKuKgcHGZVMurOZe7Znw)
 + [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/Mme6KlMaPhDbz9wIddeNaA)
++ [面试高频 | MiniDB 项目中实现了 MVCC 和死锁检测，解释一下什么是 MVCC？它是如何解决读写冲突的？](https://mp.weixin.qq.com/s/MfHD8M3dxkXDn4J9Jm28hQ)
 
 ## 关系型数据库
 

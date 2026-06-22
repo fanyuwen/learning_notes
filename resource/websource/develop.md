@@ -244,6 +244,8 @@
 + [9 个核心组件，搭建生产级微服务应用](https://mp.weixin.qq.com/s/z3vD4ApZNRO_hNUIUty08Q)
 + [十万个Why：网关已经统一鉴权，为什么微服务内部还要二次鉴权？](https://mp.weixin.qq.com/s/fJuiy1QObGhvGlgaOzOy9g)
 + [微服务间相互调用时的一种认证方式](https://mp.weixin.qq.com/s/aWfrhpl7bBbWhL7Sj_XBPQ)
++ [微服务接口超时与重试策略设计](https://mp.weixin.qq.com/s/He2e9epkXpOyQ_yA8aXaHQ)
++ [微服务链路追踪底层揭秘：TraceId到底是怎么“跨服务串起来的”？](https://mp.weixin.qq.com/s/xUJDHJiEfeDYvq5OtiNBDg)
 
 # 分布式
 
@@ -371,6 +373,7 @@
 + [本地消息表：如何用一张表解决分布式事务的99%难题？](https://mp.weixin.qq.com/s/mPeiANYI2bfr5b90X5LUIw)
 + [分布式事务Seata TCC模式篇](https://mp.weixin.qq.com/s/sE-AmVAzYZa3Jt1zIRJCvQ)
 + [复杂业务事务怎么兜底：2PC、TCC 与 Saga 的取舍](https://mp.weixin.qq.com/s/UWm1jlpYERUfWwFhbG7iUg)
++ [架构师必备：分布式事务方案选型](https://mp.weixin.qq.com/s/uBoAQX8Ua-yUEEBsjJaCdQ)
 
 ## 分布式算法
 
@@ -593,6 +596,7 @@
 + [京东缓存中间件架构与缓存内核优化](https://my.oschina.net/u/4090830/blog/19482832)
 + [京东二面：CDN 缓存和 Redis 缓存有什么区别？各适合什么场景？我：只用过 Redis 缓存...](https://mp.weixin.qq.com/s/kObBshUEQGQFygHwn8j3Jg)
 + [十万个why：缓存击穿加个 Redis 互斥锁就行了，为什么还要搞永不过期、逻辑过期这些方案？](https://mp.weixin.qq.com/s/b4KJErKXDx0YeqW_k72vbA)
++ [面试缓存必问](https://mp.weixin.qq.com/s/hFCB81stzKKwB8AmGt0xeQ)
 
 ## 优化
 
@@ -886,6 +890,7 @@
 + [如何为开放平台设计一个安全好用的OpenApi](https://mp.weixin.qq.com/s/SvSbh1xDZCwsA76dvm3qOQ)
 + [面试官：业务开发时，接口不能对外暴露怎么办？](https://mp.weixin.qq.com/s/uHfn9jWWQLpAZbfM3lsgkg)
 + [如何设计API接口，实现统一格式返回？](https://mp.weixin.qq.com/s/yalVKNU1Kbqnccvv5OC52g)
++ [如何优雅去设计第三方接口调用](https://mp.weixin.qq.com/s/pUpOmdP0mtgLKOohR-m1mA)
 
 ## 系统相关
 

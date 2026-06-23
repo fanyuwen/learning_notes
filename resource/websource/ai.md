@@ -97,6 +97,8 @@
 + [AI 工程师进阶指南：4个阶段+5个项目+90天路线图](https://mp.weixin.qq.com/s/c6Ej4jgNOiR0IFeSN2fVag)
 + [AI这个基础设施对传统架构设计的重塑](https://mp.weixin.qq.com/s/aq_5_-o70RngrdtFOacV6g)
 + [告别 Vibe Coding！详解OpenSpec SDD开发](https://mp.weixin.qq.com/s/IvGRp7dfRz4PLSN4-Yl7fQ)
++ [每天跟AI对话八百轮才出活？Loop Engineering说：这事儿该结束了](https://mp.weixin.qq.com/s/XJ96OY_3JHPlY4Hah7W-zQ)
++ [AI 时代缺的不是 Agent，是「轮子」——最小自治闭环](https://mp.weixin.qq.com/s/0rWVh81C86x-aTxnLF9h6A)
 
 ### agent
 

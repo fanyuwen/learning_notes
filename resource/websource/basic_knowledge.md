@@ -839,6 +839,7 @@
 + [深入理解高并发：IO多路复用与进程、线程、协程的协同关系](https://mp.weixin.qq.com/s/rc18IRKHpW_9OPDCwsqetA)
 + [大白话聊懂IO的零拷贝技术](https://mp.weixin.qq.com/s/XmGobf693GYNT_3h6ZwsTg)
 + [用“同步写法”做“异步 I/O”——Selector 与线程池的混合异步 I/O 框架](https://mp.weixin.qq.com/s/eGfaNDaPjR5mJDeO-V4PmA)
++ [浅谈 I/O 多路复用模型](https://mp.weixin.qq.com/s/SP_5MQjQ8OETfNWzQp8UYA)
 
 ## 字符编码
 

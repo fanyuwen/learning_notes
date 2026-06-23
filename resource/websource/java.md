@@ -93,6 +93,7 @@
 + [static关键字——静态变量、方法与代码块的应用场景](https://mp.weixin.qq.com/s/CTqWqbm6wpUnze0vTCgZvw)
 + [面试官盯着问的 final 关键字，这篇拆解到字节级](https://mp.weixin.qq.com/s/zH9v7jtT_fhxWL_DXHhsmA)
 + [包和封装 | Java语言关键](https://mp.weixin.qq.com/s/Ay4ZyZV6v5u4pzLXygPBFQ)
++ [一文讲透 Java 基本类型、包装类和自动装箱拆箱](https://mp.weixin.qq.com/s/wwUI9waBEFRl1db9iWEqrA)
 
 ### 方法/函数
 
@@ -122,6 +123,7 @@
 + [警告！技术总监放话：这样处理异常直接走人，5 种被禁异常处理](https://mp.weixin.qq.com/s/AfArGcMNChBZioRWlhq7Ww)
 + [面试官：Java 中异常分哪两类，有什么区别？](https://mp.weixin.qq.com/s/8hODznh_JclcKGYiPG1oYQ)
 + [告别崩溃！20条异常处理军规](https://mp.weixin.qq.com/s/mYhB3cTpX-zJietIsr0k9w)
++ [字节面试：try-catch放for里还是外？90%人答反，老答案直接过时！](https://mp.weixin.qq.com/s/vxk0AnlUwY6AXHrJqktucg)
 
 ### 枚举
 
@@ -1057,6 +1059,7 @@
 + [JDK21 虚拟线程生产实战：彻底解决高并发 IO 瓶颈](https://mp.weixin.qq.com/s/vriOgDVPGrLSjFRpzPWWMQ)
 + [并发编程-集合类](https://mp.weixin.qq.com/s/KbIucsgBJb6fqdW8VG7GDQ)
 + [1.1.3 CPU流水线、指令重排与内存屏障：从一个"不可能"的并发 Bug 说起](https://mp.weixin.qq.com/s/zaEfj4nqlndy402BVHsXsw)
++ [都是同时执行？（一问讲透并发、并行和异步）](https://mp.weixin.qq.com/s/k1nkwHR00eC5k3bDecUZsA)
 
 #### CAS
 
@@ -1152,6 +1155,8 @@
 + [Java并发编程（二十一）：Java自定义线程池ThreadPoolExecutor](https://mp.weixin.qq.com/s/xhOEY2BK1OTrUrahy3Q03w)
 + [十万个Why：线程池明明还有最大线程闲着，为什么任务非要进队列排队？](https://mp.weixin.qq.com/s/oo2WoSyXG7g8wsO67Y9jEQ)
 + [线上诡异BUG：接口无报错、无慢SQL，却大批量超时？复盘一次藏在线程池里的隐形故障](https://mp.weixin.qq.com/s/47WIgnVi8SqRkOG78aSIAA)
++ [京东二面惨案：线程池还背N+1/2N？面试官：敢上线就等着背锅！](https://mp.weixin.qq.com/s/FnQlQDZJbMWbqJujplSY_Q)
++ [虚拟线程都到JDK25了，为什么Java圈还在"抱着线程池不撒手"](https://mp.weixin.qq.com/s/x5kPd_N8-lAuuPdMmScxpg)
 
 #### 锁
 
@@ -1294,6 +1299,7 @@
 + [深入理解 volatile：为什么它既重要又“不可靠”？](https://mp.weixin.qq.com/s/ZV-tpDBYeAX52ywb2-_xAQ)
 + [Java基础-volatile关键字详解](https://mp.weixin.qq.com/s/98rLElAUksbj9XLc0t08rg)
 + [volatile关键字——面试官为什么总问它？](https://mp.weixin.qq.com/s/FyW4lF7MTeSaG1ant2SWKQ)
++ [Java 并发里最容易忽视的坑：volatile 不是你想的那样](https://mp.weixin.qq.com/s/xtUh8A6TpCcQbXVRZEq5BA)
 
 ## 源码
 
@@ -1462,6 +1468,8 @@
 + [JVM篇-对象创建过程以及内存分配策略](https://mp.weixin.qq.com/s/UZnBLo7EfERysDWnkPpM0g)
 + [Java 1.8 内存分布详解：从 JVM 视角看懂 “内存都装了啥”](https://mp.weixin.qq.com/s/RzRn-XJWM6Qhvgh1YCZvZw)
 + [【java高级必会】分析内存泄漏或内存溢出](https://mp.weixin.qq.com/s/SaJyfGkEhSSxuimImQd1Xg)
++ [JVM虚拟机-内存模型深度剖析](https://mp.weixin.qq.com/s/XowfiXQbuhkc9NBrWj8MMQ)
++ [JVM虚拟机-JVM对象创建与内存分配机制](https://mp.weixin.qq.com/s/QEQA79XRCLcE7ru25ce4mg)
 
 ### 类加载
 
@@ -1562,6 +1570,8 @@
 + [订单系统凌晨OOM，排查过程实录：我是这样用G1替换CMS的](https://mp.weixin.qq.com/s/Dr1NSeZByvFvZ14aRevqcw)
 + [JVM的“卡顿”真相：STW不是bug，而是你还没懂它](https://mp.weixin.qq.com/s/HQnY9BxvxmMzCapWtRuznw)
 + [JVM 垃圾回收器全景与G1深度解析](https://mp.weixin.qq.com/s/bAefOqKrEiTZjKtb0bQYUw)
++ [GC调优：从“与我无关”到“生死攸关”的认知升级](https://mp.weixin.qq.com/s/3Ckf_46iXMEWX_cAFeNKTA)
++ [为什么需要 GC：电商仓库管理员](https://mp.weixin.qq.com/s/RtQ-fsyWtERd-6xXOrox_w)
 
 # 核心库
 
@@ -1626,6 +1636,7 @@
 + [面试官：ThreadLocalMap 和 HashMap 的区别是什么？](https://mp.weixin.qq.com/s/BsrA5sqyTB2GfFTteAsdvg)
 + [百度面试官：ThreadLocal 为什么会导致内存泄漏？我：现在还要背八股文吗...](https://mp.weixin.qq.com/s/GTYvTjvoGsOTpyZ6R9m6lA)
 + [线程池遇上 ThreadLocal：上下文传递与那些踩过的坑](https://mp.weixin.qq.com/s/MkMSsmD2X6nsML49ye25XA)
++ [生产环境 ThreadLocal 规范用法，彻底解决内存泄漏问题](https://mp.weixin.qq.com/s/160IkIq-oYAWk0g4xEVTng)
 
 ## math库
 
@@ -1702,6 +1713,7 @@
 + [太强了！开源Java并行收集器，秒杀标准并行流](https://mp.weixin.qq.com/s/b0foLFukr7JlUXHXQ9jPeg)
 + [只会用map()和filter()？揭秘Java Stream 8大隐藏特性](https://mp.weixin.qq.com/s/Yv34e7kZr_WpNGrNXzcUVQ)
 + [《Effective Java》解读第47条：Stream要优先用Collection作为返回类型](https://mp.weixin.qq.com/s/lN8I4SKyCFAhiXkrlsGhMA)
++ [《Effective Java》解读第 52 条：慎用重载](https://mp.weixin.qq.com/s/RrwPwqb9iVN7zPPoXcXBZg)
 + [面试高频 | Lambda + Stream 从入门到实战](https://mp.weixin.qq.com/s/UOwrL-na89gkccvKKsYsWA)
 + [6.3 Java Stream API 基础：最常见的集合处理](https://mp.weixin.qq.com/s/iGp8bF5_udXHoY8ZjXelrA)
 + [Java Stream API 入门：filter、map、collect 流式处理全解](https://mp.weixin.qq.com/s/EZsqaT3hx5mWRpUEKSRnjA)
@@ -1754,6 +1766,7 @@
 + [Java程序员必备的几种数据类型操作：List篇](https://mp.weixin.qq.com/s/O4eQpPwhir4y3AwPU2Q8bQ)
 + [面试官：Set 如何保证元素不重复的？](https://mp.weixin.qq.com/s/UiLATV9CMXgt3NI3zO64vQ)
 + [失败到底是事故，还是流程的一部分？（一文讲透Java中Queue 的双轨 API）](https://mp.weixin.qq.com/s/rtUYgwiUtYD3yDfyTC5mxg)
++ [为什么现在更推荐ArrayDeque而不是Stack？（一文讲透Java ArrayDeque）](https://mp.weixin.qq.com/s/qum5P2w29dFuqial24kz3w)
 
 #### map
 
@@ -1900,6 +1913,7 @@
 + [CompletableFuture 异步关于异常的坑](https://mp.weixin.qq.com/s/9X8LzZ9Il8SsKjs-eM7gnQ)
 + [异步任务编排：别再把 CompletableFuture 写成意大利面代码了](https://mp.weixin.qq.com/s/LN4TSfwSvt-GOt97ol4-7Q)
 + [CompletableFuture同步和异步使用](https://mp.weixin.qq.com/s/ZgV15gBl7X98Jx1Qc2Z0Uw)
++ [CompletableFuture 用不好，接口反而更慢](https://mp.weixin.qq.com/s/Lsu5b6VCJNz47OGRWU3zUA)
 
 ### ThreadPool
 
@@ -2310,6 +2324,7 @@
 + [Disruptor消费源码分析](https://mp.weixin.qq.com/s/XnYl-1YaCrNT17qdrg4YCA)
 + [Disruptor多生产者多消费者分析](https://mp.weixin.qq.com/s/b6I8l6jeKnzq8h-EZw1fCQ)
 + [Disruptor—4.与Netty的简单应用](https://mp.weixin.qq.com/s/JCAqL0Ab7h8cGB3bYPEFSg)
++ [Disruptor高性能内存队列的使用场景及快速筛选](https://mp.weixin.qq.com/s/NEVD5IMR6kuP0s05UV_8uQ)
 
 ## dubbo
 
@@ -2329,6 +2344,9 @@
 + [面试官问：Dubbo 为啥不用 HTTP？我一句话直接拿下 Offer](https://mp.weixin.qq.com/s/uu05Fj4l2ZJZ-gXQ_YGowQ)
 + [Java社招面试必问：Dubbo 为什么不能直接停机？优雅停机原理全解析](https://mp.weixin.qq.com/s/xDrR6APO-6DDf7UgJ3HHNA)
 + [为什么大厂都爱问 Dubbo 设计模式？答案太经典了！](https://mp.weixin.qq.com/s/qahcGbb9Yg8L9Qyy7nec0w)
++ [面试官问Dubbo支持分布式事务吗？90%程序员第一句就答错了！](https://mp.weixin.qq.com/s/4wrougtG9jjH6vTpTH9JfQ)
++ [为什么阿里偏爱 Dubbo，而互联网公司更爱 Spring Cloud？](https://mp.weixin.qq.com/s/yKqOMCNwHrwWcMpIBBwNtw)
++ [为什么大厂敢用Dubbo？看完它的安全设计你就懂了](https://mp.weixin.qq.com/s/Sp6bw4LXS4pn_CZLiyQ7Cw)
 
 ## eureka
 
@@ -2631,6 +2649,7 @@
 + [Nacos 点了下线，为什么流量还是打到了停机的机器上？](https://mp.weixin.qq.com/s/d_mecEZGuaU7kMzUm4AfBQ)
 + [面试官：Nacos 如何实现服务注册与发现的？](https://mp.weixin.qq.com/s/YKvPsnLr1xByo9EgGH3vbQ)
 + [一文讲透 SPI：从 Java 扩展机制到 Nacos 源码实践](https://mp.weixin.qq.com/s/NCpzPiBbwV_odWViDFXw-A)
++ [面试题：Nacos 是怎么在 Spring Boot 启动时把配置拿过来的？改了配置后，程序又是怎么自动刷新的？](https://mp.weixin.qq.com/s/xaCumy1GHcHggnsFeIBAtw)
 
 ## netty
 
@@ -2769,6 +2788,7 @@
 + [基于Redission高级应用21-RScheduledExecutorService 分布式任务执行的解决方案](https://mp.weixin.qq.com/s/VjtGdMT2OnDvOIQX3rVFQw)
 + [基于Redission高级应用22-基于RAtomicLong原理及封装的工具类](https://mp.weixin.qq.com/s/39Nt8v6SXJWnCk25luYebw)
 + [用Redisson分布式锁的小心了，谨防看门狗续期陷阱](https://mp.weixin.qq.com/s/Hq-huVI7oFUWPcrtF67SZQ)
++ [Redisson 原理与最佳实践](https://mp.weixin.qq.com/s/bMRNQUCRfiMpGI8-oB9NVA)
 
 ## resilience4j
 
@@ -3121,6 +3141,7 @@
 + [Service 层的异常是抛到 Controller 层还是直接处理？](https://mp.weixin.qq.com/s/lvneunDiyGe1l-L4gr23yA)
 + [高并发下参数校验成性能杀手？一文讲透Spring Validation避坑指南](https://mp.weixin.qq.com/s/wAB1HEzLRjrN0t_ohzhJYA)
 + [Java开发：过滤器 (Filter)、拦截器 (Interceptor) 深度解析 + CORS 跨域完整解决方案](https://mp.weixin.qq.com/s/YntWZv2PdWWDS_eJWzdt4g)
++ [拦截器拿不到请求报文，接口却能正常接收参数！RequestBody读取一次就清空，线上鉴权失效故障复盘](https://mp.weixin.qq.com/s/mqOR_rOnvWKoR5Rjx0vkDA)
 
 #### reactor
 
@@ -3885,6 +3906,7 @@
 + [类名前加了两个大写字母，Spring Boot 项目当场罢工](https://mp.weixin.qq.com/s/KDJ2_WjynjXGv6U_bXBnbQ)
 + [Spring Boot项目结构详解，看完不再迷茫](https://mp.weixin.qq.com/s/hkmitOnbcnf1vPWmZ_hQwg)
 + [得物二面：SpringBoot 内部的启动流程是怎样的？我：没研究过...](https://mp.weixin.qq.com/s/cEB54rBMD8lS3a0H60dHMQ)
++ [springboot启动过程-源码](https://mp.weixin.qq.com/s/JaZEQH8FnG6X6rNIRUA4jA)
 
 #### 版本特性
 
@@ -4907,6 +4929,7 @@
 + [只靠日志是不行的！Spring Boot 的真相，日志给不了](https://mp.weixin.qq.com/s/LlEiV-HMfDWfU2iz_bxufA)
 + [全场景实战：Spring Boot + MDC：实现异步线程池链路追踪](https://mp.weixin.qq.com/s/wkUtTfJq6bGS-gPMtq-OFQ)
 + [现代 Spring Boot 日志全攻略：8大场景一网打尽](https://mp.weixin.qq.com/s/lfzAp3LdVvVxSgnvW3kZmQ)
++ [Spring Boot 整合 Logback 日志框架实战指南](https://mp.weixin.qq.com/s/KlhUkKXXb44D7CECc146nQ)
 
 #### 安全
 

@@ -223,6 +223,7 @@
 + [RabbitMQ 路由（Routing）通讯方式详解](https://mp.weixin.qq.com/s/Sy12-dh8_-gD5qzcf3UcyQ)
 + [RabbitMQ的架构设计](https://mp.weixin.qq.com/s/PdyZ7L9lPsd_iNDuk72wNA)
 + [闲鱼二面：订单 30 分钟未支付自动取消，RabbitMQ 怎么实现？我支支吾吾，没答上来...](https://mp.weixin.qq.com/s/oxGjUdFAzc-Orqyal5FBeQ)
++ [为什么越来越多团队放弃 RabbitMQ，转向 NATS？](https://mp.weixin.qq.com/s/D_9yb5KM-z1beo_mPh9V0g)
 
 # PULSAR
 

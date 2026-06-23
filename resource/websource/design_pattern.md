@@ -47,6 +47,7 @@
 + [行为型设计模式：对象协作的舞蹈家（上）](https://mp.weixin.qq.com/s/nxjIQwR431ew8iC77-693g)
 + [面试官最爱问的3大设计模式：责任链/工厂/观察者原理和使用过场景](https://mp.weixin.qq.com/s/dIN4NWexd-_sFIMH9C1CcQ)
 + [百度面试官：你项目中同时写了 “策略模式”+ “工厂模式”，搭配在一起用的好处是？我：大家都这么用的...](https://mp.weixin.qq.com/s/XadguM8Gbn4fv8-032cp3g)
++ [面试官问设计模式时，他在考察什么？](https://mp.weixin.qq.com/s/elswFZquOSliMe-zneYXJg)
 
 ## 原则
 

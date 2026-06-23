@@ -162,6 +162,8 @@
 + [为什么很多公司的技术架构，最后都会变成“谁都不满意”？](https://mp.weixin.qq.com/s/8MUrbDDlM0ldDOULEMP7yQ)
 + [后端面试里，为什么项目经验越来越难讲](https://mp.weixin.qq.com/s/1gRCP1LKMfEsDEbMEzp3nw)
 + [字节跳动面试官：你简历上写的高可用架构，就只会加机器？](https://mp.weixin.qq.com/s/JwcZWpw8xH_oWOWbGGDdkQ)
++ [为什么你写了多年代码，依旧没有核心竞争力？](https://mp.weixin.qq.com/s/DB_W6TZPwBWkvrhC9HBWdw)
++ [年纪越大的程序员，越懂这一个道理](https://mp.weixin.qq.com/s/F-7IYhAvWWagV_7g_BaEzA)
 
 # 个人成长
 
@@ -355,6 +357,7 @@
 + [2026 年了还在用老命令？这 5 个终端神器让你效率翻倍](https://mp.weixin.qq.com/s/abSv0djhVhGf-7po6Xtekg)
 + [笔记软件这么多，大佬们都用过哪些？](https://mp.weixin.qq.com/s/JJlvW1ycSz99qY-Ocw_JbQ)
 + [C盘红了！](https://mp.weixin.qq.com/s/l1byCk6io0mcui0hffLTrA)
++ [10个Windows操作，职场新人早学早省事](https://mp.weixin.qq.com/s/6g68N5_rILCndMJYXUyyUQ)
 
 ## 开源资源
 
@@ -428,6 +431,7 @@
 + [为什么在 IDEA 使用 @Autowired 会报黄？](https://mp.weixin.qq.com/s/FoYIcUIEZk0A9j3bbU8bpQ)
 + [IntelliJ IDEA 从卡顿到起飞，只用改这些。。。](https://mp.weixin.qq.com/s/Z8v6aOgyJee0q0jMVRT_wQ)
 + [看了我的IDEA使用技巧，同事也开始悄悄模仿了...](https://mp.weixin.qq.com/s/gzld_RX7_7XPb0YEImw6PQ)
++ [IDEA调试技巧不只是打断点](https://mp.weixin.qq.com/s/0c4lqbSl5Hv7lmnBEnMtZg)
 
 ## MAC_PRO相关
 
@@ -543,7 +547,9 @@
 + [在 GitHub 之前，开发者如何分享代码？—— 追忆 Planet Source Code 的黄金年代](https://www.oschina.net/news/439656)
 + [互联网底层基础设施构建者：一位高中女教师的代码改变了世界](https://www.oschina.net/news/444403/the-programmer-whose-code-underpins-the-internet)
 + [奇思妙想：15位计算机天才及其重大发现](https://mp.weixin.qq.com/s/7hc0N_3kc5LWWOI6ICpCAw)
++ [奇思妙想——15位计算机天才及其重大发现](https://mp.weixin.qq.com/s/iMmsLT8xABOmu81gfAdk2A)
 + [Transformer传奇作者加入OpenAI！谷歌27亿美元也没留住](https://mp.weixin.qq.com/s/66qw0XAtyLM5JcZs1piVmQ)
++ [可以说一个比较小众的冷知识吗？](https://mp.weixin.qq.com/s/DJ33VmmTSNrjHjm1ktc2Qg)
 
 ## 创业
 
@@ -653,6 +659,8 @@
 + [全球精英都在读的5本书，许多人竟还不知道！](https://mp.weixin.qq.com/s/B-4gT-1yVfoOnKdEqgaTnQ)
 + [计算机图书推荐|《游戏玩家的大脑》](https://mp.weixin.qq.com/s/0ncP10MWweGYwxg_Sc_TBQ)
 + [设计数据密集型应用》(DDIA, 2nd ed.) 心智模型导览——《Designing Data-Intensive Applications》书介绍导航](https://mp.weixin.qq.com/s/uiXhyEbP3VSO0Ug1QURBwQ)
++ [2026 年最值得读的 12 本 AI 书（适合真正动手做项目的人）](https://mp.weixin.qq.com/s/hwy4MXiu-mKJ3qTaHFUcBA)
++ [程序员可以知道的「宝藏」书单](https://mp.weixin.qq.com/s/rCKC89TlRraqKhAqiDKisQ)
 
 ### 生活
 

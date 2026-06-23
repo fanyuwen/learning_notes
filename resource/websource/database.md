@@ -206,6 +206,7 @@
 + [分库分表下如何实现分页查询功能](https://mp.weixin.qq.com/s/BjRaRoWBYRHF7rSlGZnfNQ)
 + [分库分表全解析：如何有效解决MySQL单表数据量过大问题？](https://mp.weixin.qq.com/s/2c-Ln-2l_RfVqqNjZodrwA)
 + [分库分表后，数据库数据一致性问题如何解决？](https://mp.weixin.qq.com/s/XIpD50DN0Z2oIuw2ysekMA)
++ [分库分表核心原理以及分片策略](https://mp.weixin.qq.com/s/OykDi7V-mrXB4chqlU4SVg)
 
 ## 原理解析
 
@@ -507,6 +508,8 @@
 + [MySQL百万级表在不停机的情况下增加一个字段要怎么处理的？](https://mp.weixin.qq.com/s/kdIul_p8gSWQ8qFhc2bClg)
 + [十万个Why：两个字段都建了单列索引，为什么加了 OR，执行计划还是全表扫描？](https://mp.weixin.qq.com/s/So1u1rYv_m2MfclOv0YTcg)
 + [一张 120GB 的 MySQL 表，没删一行数据，瘦到了 84GB](https://mp.weixin.qq.com/s/1loxxFFWBzSZKwF3R-7VrQ)
++ [MySQL 执行update语句错把where写成了and，数据库竟然执行成功了](https://mp.weixin.qq.com/s/8knizvdEUYdn3PxlT8F8pQ)
++ [“MySQL 的幻读到底解决没有？“——一个被面试官问倒的下午](https://mp.weixin.qq.com/s/HvlC4oLaU2dCJBFVeceCEg)
 
 #### 存储引擎
 
@@ -737,6 +740,8 @@
 + [面试官：MySQL 唯一索引和主键索引的区别？(修订版)](https://mp.weixin.qq.com/s/qUKf27dUzYBZldQDEjE00Q)
 + [MySQL索引底层原理：B+树 这一篇全讲透](https://mp.weixin.qq.com/s/9iuzgoGqUYBO4Ij_16zVeA)
 + [十万个Why：两个字段都建了单列索引，为什么加了 OR，执行计划还是全表扫描？](https://mp.weixin.qq.com/s/KHL8aUd1lcothAe_96bqKg)
++ [拼多多三面：索引建了为啥不走？只懂最左前缀，你还只是皮毛](https://mp.weixin.qq.com/s/Vr97480T1WsnvR-fPwwydw)
++ [大厂一面：联合索引是 ABC，查 BCA 能走索引吗？](https://mp.weixin.qq.com/s/649m8oCONPaiVYg2SysyPQ)
 
 ### PostgreSQL
 

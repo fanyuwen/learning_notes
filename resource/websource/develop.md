@@ -246,6 +246,7 @@
 + [微服务间相互调用时的一种认证方式](https://mp.weixin.qq.com/s/aWfrhpl7bBbWhL7Sj_XBPQ)
 + [微服务接口超时与重试策略设计](https://mp.weixin.qq.com/s/He2e9epkXpOyQ_yA8aXaHQ)
 + [微服务链路追踪底层揭秘：TraceId到底是怎么“跨服务串起来的”？](https://mp.weixin.qq.com/s/xUJDHJiEfeDYvq5OtiNBDg)
++ [微服务网关别只盯着Spring Cloud Gateway！Apache APISIX才是企业级流量治理的硬核选择](https://mp.weixin.qq.com/s/ZQAuKJs4Xg00jJWoTL6ihw)
 
 # 分布式
 
@@ -312,6 +313,7 @@
 + [高可用分布式系统 4 大原则之一：端到端原则](https://my.oschina.net/xiandafu/blog/19641027)
 + [架构实战：全局唯一ID的技术方案](https://mp.weixin.qq.com/s/UlXVhaA19oONFz5cySN_3w)
 + [面试官：你们项目用雪花ID吗？](https://mp.weixin.qq.com/s/5XugI5O2BFiCVHiML8GDaA)
++ [分布式ID生成方案详解](https://mp.weixin.qq.com/s/JGd2WPEdpgxKzw4BoXGEzw)
 
 ## 分布式锁
 
@@ -374,6 +376,8 @@
 + [分布式事务Seata TCC模式篇](https://mp.weixin.qq.com/s/sE-AmVAzYZa3Jt1zIRJCvQ)
 + [复杂业务事务怎么兜底：2PC、TCC 与 Saga 的取舍](https://mp.weixin.qq.com/s/UWm1jlpYERUfWwFhbG7iUg)
 + [架构师必备：分布式事务方案选型](https://mp.weixin.qq.com/s/uBoAQX8Ua-yUEEBsjJaCdQ)
++ [分布式事务一致性，面试这样答直接拿满分](https://mp.weixin.qq.com/s/xIszi_KQZrtipjiwqPy4ng)
++ [项目如何选择Seata-AT、TCC和Saga等分布式事务解决方案](https://mp.weixin.qq.com/s/cMxfvfhmC8HOAUIC8tZqxw)
 
 ## 分布式算法
 
@@ -442,6 +446,7 @@
 ## 功能
 
 + [保护高并发服务稳定主要有三把利器：缓存、降级和限流](https://mp.weixin.qq.com/s/RnyB02d-qKdzSLgD4NPv0Q)
++ [高并发场景下，缓存、限流、削峰、幂等究竟解决了什么问题](https://mp.weixin.qq.com/s/C9pTyjRIfDg8geKq8u0p8Q)
 
 ### 幂等
 
@@ -518,6 +523,7 @@
 + [漏桶算法vs令牌桶算法，限流到底用哪个？原理+实现深度解析！](https://mp.weixin.qq.com/s/9eANd4zOsDtA-mUvSuZZYw)
 + [限流算法](https://mp.weixin.qq.com/s/oE2FKwE6qn1KYRa-hOpmEA)
 + [面试官：高并发场景下，一个好的熔断策略该怎么设计？](https://mp.weixin.qq.com/s/aH9kP_KqCd9I1wKBrcmbow)
++ [高并发系统三板斧：限流、熔断、降级实战落地](https://mp.weixin.qq.com/s/gRG_zPWjgtkparDqqp17PQ)
 
 ### 大文件IO
 
@@ -789,6 +795,8 @@
 + [面试高频 | 彻底搞懂：事件、观察者、发布订阅、消息队列的层级关系（90%开发者都混淆）](https://mp.weixin.qq.com/s/K-FHYckb0-HXghlzxP-lTw)
 + [如何设计一套扛住突发百万QPS的系统](https://mp.weixin.qq.com/s/sSbgdgnx4nNKYq6XHz-fEw)
 + [三层校验 + 13 类异常拦截 + 7 项自查清单：让每个接口报错都说人话](https://mp.weixin.qq.com/s/pEs7rC4T03_kQWZKLkbS1w)
++ [高并发场景下，支付系统TPS应设计多少？](https://mp.weixin.qq.com/s/2oR2NG3wPIfExRJ1BawO6A)
++ [面试官问：回调丢了怎么办？我当时没答好](https://mp.weixin.qq.com/s/1envWO9Azf5CRhqeDidtzg)
 
 # 测试相关
 
@@ -891,6 +899,8 @@
 + [面试官：业务开发时，接口不能对外暴露怎么办？](https://mp.weixin.qq.com/s/uHfn9jWWQLpAZbfM3lsgkg)
 + [如何设计API接口，实现统一格式返回？](https://mp.weixin.qq.com/s/yalVKNU1Kbqnccvv5OC52g)
 + [如何优雅去设计第三方接口调用](https://mp.weixin.qq.com/s/pUpOmdP0mtgLKOohR-m1mA)
++ [一文讲清：REST、RPC、gRPC、GraphQL四种接口风格怎么选](https://mp.weixin.qq.com/s/jCjVz3spv0-j6eDSPY9SAg)
++ [Token缓存策略：性能与安全的平衡](https://mp.weixin.qq.com/s/K1QbcTtfwUR3sDayqfwXeQ)
 
 ## 系统相关
 
@@ -1060,6 +1070,7 @@
 + [正则表达只学习了个皮毛引起的 BUG](https://mp.weixin.qq.com/s/N918inN3MPMMm3JZDjnzCQ)
 + [离谱！CPU狂飙900%，这怎么处理？](https://mp.weixin.qq.com/s/qZMPu29u2BZtYMpzPU33JA)
 + [流量回放技术工具选型](https://mp.weixin.qq.com/s/SkOHrRi4laZuhmBXgh8RuA)
++ [CPU飙到100%怎么查？我用"堵车"讲明白了](https://mp.weixin.qq.com/s/hRHFLxqnBYPnZ463fg9xXA)
 
 ### 项目管理
 

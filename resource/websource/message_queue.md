@@ -153,6 +153,8 @@
 + [从 30 万到 200 万 QPS：我把 Kafka 换掉之后，系统反而更稳了](https://mp.weixin.qq.com/s/As3SJshyCbiApb3gNPZx5g)
 + [十万个why：为什么 Kafka Partition 分区越多，写入性能越差 ？](https://mp.weixin.qq.com/s/V4cNO7XhLFwUrGhMIhFn6g)
 + [十万个why：消费线程正常打印日志，为什么 Kafka 却判定宕机、强行 Rebalance？](https://mp.weixin.qq.com/s/V0ojB0rgM-7YSuVcCumSuQ)
++ [十万个why：Kafka 消息明明都设了相同的 Key 保证分区有序，为什么消费端拿到的顺序还是乱的？](https://mp.weixin.qq.com/s/GXyWJtjKyvGcWxkKH-evEw)
++ [面试必看！Kafka通关秘籍，让你脱颖而出](https://mp.weixin.qq.com/s/ucUujwD_l2nh5sh8-6ZTwg)
 
 # ROCKETMQ
 

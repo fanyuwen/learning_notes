@@ -125,6 +125,7 @@
 + [SQL性能优化！11条黄金法则](https://mp.weixin.qq.com/s/_Nfn4tBqO3MlitkZjcKtug)
 + [面试题：报表查询频繁超时，多表关联几千万数据，你怎么优化？](https://mp.weixin.qq.com/s/t04DZ4GT3OQ-4ozWxPZKAg)
 + [美团问烂了：假如SQL中join了10张表，如何优化性能？](https://mp.weixin.qq.com/s/1B_pslPq_auZUJk_QoIa4Q)
++ [面试官：SQL执行慢，你的第一步是什么？90%的人答错了](https://mp.weixin.qq.com/s/Xjd-jpnJiLECVtkCRB6KSw)
 
 # 本地数据库
 
@@ -510,6 +511,8 @@
 + [一张 120GB 的 MySQL 表，没删一行数据，瘦到了 84GB](https://mp.weixin.qq.com/s/1loxxFFWBzSZKwF3R-7VrQ)
 + [MySQL 执行update语句错把where写成了and，数据库竟然执行成功了](https://mp.weixin.qq.com/s/8knizvdEUYdn3PxlT8F8pQ)
 + [“MySQL 的幻读到底解决没有？“——一个被面试官问倒的下午](https://mp.weixin.qq.com/s/HvlC4oLaU2dCJBFVeceCEg)
++ [MySQL实践系列：连接报 Too many connections 错，你是继续加大连接数？（连接数管理）](https://mp.weixin.qq.com/s/tXeNpShDi5kIl5p62J7f_g)
++ [美团问烂了：MySQL 单表 1000 万，别上来就分库分表，别这样回答了](https://mp.weixin.qq.com/s/X5_JS2eSpFO9iHGbaaJBgg)
 
 #### 存储引擎
 
@@ -608,6 +611,7 @@
 + [字节二面：什么是数据库死锁，怎么解决？（修订版）](https://mp.weixin.qq.com/s/mcLTfU1ciy1tf8YcSJIBUA)
 + [面试官：谈谈 InnoDB 中的表级锁、页级锁、行级锁？（修订版）](https://mp.weixin.qq.com/s/HpnLqKmSGYyWXTi7_Vegvw)
 + [面试官问我MySQL行锁，我用"门卫"讲明白了](https://mp.weixin.qq.com/s/IYDVljQgMgDrFZ9yivVzVg)
++ [一次凌晨告警引发的排查：MySQL 间隙锁是怎么“悄悄“制造死锁的](https://mp.weixin.qq.com/s/uPxqC85YQkeisqjyW-uH6A)
 
 #### 事务
 
@@ -1046,6 +1050,8 @@
 + [小红书面试：Redis 怎么实现延迟消息？我：啊？我一般都用 MQ 来实现...](https://mp.weixin.qq.com/s/C398-0MMlZdZ0z32AnOHPw)
 + [Redis 不止缓存：10个实用场景详解](https://mp.weixin.qq.com/s/BJWJ_ZzwEh5wFKRV9kr79w)
 + [为什么越来越多企业放弃 Redis，转向 Dragonfly？](https://mp.weixin.qq.com/s/ndWlydtl6h-I3EMZzK4rSA)
++ [缓存：Redis7.0+、多级缓存设计、缓存三大问题解决方案](https://mp.weixin.qq.com/s/tXolmDbqR1irq6fBgp-v5A)
++ [Redis缓存过期为什么会造成系统出现毛刺现象](https://mp.weixin.qq.com/s/OqqoP-oEOF7U_bIm_iZ9zw)
 
 #### 原理
 
@@ -1144,6 +1150,7 @@
 + [Redis 分布式锁的 5个坑，真是又大又深！](https://mp.weixin.qq.com/s/6cR3Zg_o60gUXAtKNNJ4bg)
 + [Redis分布式锁故障，我忍不住想爆粗...](https://mp.weixin.qq.com/s/rNGI-VsjDSyRvb1yRbdbYQ)
 + [华为二面：Redis 分布式锁如何实现？（修订版）](https://mp.weixin.qq.com/s/BOBTHKRItLOiDwXFNTW2bQ)
++ [Redis 分布式锁的正确姿势：你写的可能是"假锁"](https://mp.weixin.qq.com/s/xcebr2qcRWzxmOHuLb4NAg)
 
 #### 缓存
 

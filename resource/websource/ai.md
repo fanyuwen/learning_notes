@@ -99,6 +99,9 @@
 + [告别 Vibe Coding！详解OpenSpec SDD开发](https://mp.weixin.qq.com/s/IvGRp7dfRz4PLSN4-Yl7fQ)
 + [每天跟AI对话八百轮才出活？Loop Engineering说：这事儿该结束了](https://mp.weixin.qq.com/s/XJ96OY_3JHPlY4Hah7W-zQ)
 + [AI 时代缺的不是 Agent，是「轮子」——最小自治闭环](https://mp.weixin.qq.com/s/0rWVh81C86x-aTxnLF9h6A)
++ [人人都能看懂的 AI 原理，助你更高效地使用AI](https://mp.weixin.qq.com/s/psiFe_avi490iryCNDRUYA)
++ [AI 中转站的前世今生，大模型网关（LLM Gateway）调研报告](https://mp.weixin.qq.com/s/EaU3iblBVfz2Vr2nX9UO1A)
++ [阿里三面："给大模型加了视觉能力，文本推理为什么会变差？" 我说"参数被占用了"，他摇头："你的技术深度还需要打磨"](https://mp.weixin.qq.com/s/fJmbgeYrtWqASWYrE48CEA)
 
 ### agent
 
@@ -174,6 +177,10 @@
 + [LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！](https://mp.weixin.qq.com/s/rHzWjqIEFMquCgs0Kg_PRA)
 + [这位老哥搞了一门新的编程语言，5年烧了500万美元，最后完全转向TypeScript。](https://mp.weixin.qq.com/s/10AwAwVYC8K8GcfOlSjRZA)
 + [16亿Windows用户，一夜冲进Agent时代！](https://mp.weixin.qq.com/s/yrKrZf_mi5R4EHMia0KWFA)
+
+## Transformer
+
++ [第二章：Transformer 架构：大模型的「发动机」](https://mp.weixin.qq.com/s/zXpjs8pqw-kvUdG6cyFnGg)
 
 ## LangChain
 

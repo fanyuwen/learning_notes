@@ -164,6 +164,7 @@
 + [字节跳动面试官：你简历上写的高可用架构，就只会加机器？](https://mp.weixin.qq.com/s/JwcZWpw8xH_oWOWbGGDdkQ)
 + [为什么你写了多年代码，依旧没有核心竞争力？](https://mp.weixin.qq.com/s/DB_W6TZPwBWkvrhC9HBWdw)
 + [年纪越大的程序员，越懂这一个道理](https://mp.weixin.qq.com/s/F-7IYhAvWWagV_7g_BaEzA)
++ [为什么技术越强，越难变现？一个程序员普遍不信邪的规律](https://mp.weixin.qq.com/s/rJ7WTbuQi5pjNbgkF0PQNg)
 
 # 个人成长
 
@@ -358,6 +359,7 @@
 + [笔记软件这么多，大佬们都用过哪些？](https://mp.weixin.qq.com/s/JJlvW1ycSz99qY-Ocw_JbQ)
 + [C盘红了！](https://mp.weixin.qq.com/s/l1byCk6io0mcui0hffLTrA)
 + [10个Windows操作，职场新人早学早省事](https://mp.weixin.qq.com/s/6g68N5_rILCndMJYXUyyUQ)
++ [电脑不在身边也能派活？WorkBuddy微信远程指挥的10个场景，太实用了](https://mp.weixin.qq.com/s/_-Jiz4W8HjjoxrhjjbPn7g)
 
 ## 开源资源
 
@@ -661,6 +663,7 @@
 + [设计数据密集型应用》(DDIA, 2nd ed.) 心智模型导览——《Designing Data-Intensive Applications》书介绍导航](https://mp.weixin.qq.com/s/uiXhyEbP3VSO0Ug1QURBwQ)
 + [2026 年最值得读的 12 本 AI 书（适合真正动手做项目的人）](https://mp.weixin.qq.com/s/hwy4MXiu-mKJ3qTaHFUcBA)
 + [程序员可以知道的「宝藏」书单](https://mp.weixin.qq.com/s/rCKC89TlRraqKhAqiDKisQ)
++ [Linux 内核泰斗亲撰：这本并行编程圣经，终于出第 2 版了](https://mp.weixin.qq.com/s/lyq4D0HFb7QbzpNVUDd2Iw)
 
 ### 生活
 

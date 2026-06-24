@@ -766,6 +766,7 @@
 + [别再用生命编辑 nginx.conf 了！这个神器让你一键变身「代理大师」](https://mp.weixin.qq.com/s/horaiX_IE_m92jI-1Tx9-w)
 + [终于找到一个好用的Nginx日志分析工具了](https://mp.weixin.qq.com/s/jYwVPso5KZMoWVv-n5O4Cg)
 + [【Nginx】 访问的url不知道具体走的哪个location块，那是你没搞懂它的优先级](https://mp.weixin.qq.com/s/01E0We3GElr9jiDh0XYrWQ)
++ [你的upstream还没加keepalive？等着凌晨被叫醒吧](https://mp.weixin.qq.com/s/7kvLCLP_jnx7oevHhiqwkw)
 
 ### wireshark
 

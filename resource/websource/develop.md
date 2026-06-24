@@ -314,6 +314,7 @@
 + [架构实战：全局唯一ID的技术方案](https://mp.weixin.qq.com/s/UlXVhaA19oONFz5cySN_3w)
 + [面试官：你们项目用雪花ID吗？](https://mp.weixin.qq.com/s/5XugI5O2BFiCVHiML8GDaA)
 + [分布式ID生成方案详解](https://mp.weixin.qq.com/s/JGd2WPEdpgxKzw4BoXGEzw)
++ [分布式哈希算法（简述）](https://mp.weixin.qq.com/s/zjZajV0aqEXYx7Fs5lsv9Q)
 
 ## 分布式锁
 
@@ -603,6 +604,7 @@
 + [京东二面：CDN 缓存和 Redis 缓存有什么区别？各适合什么场景？我：只用过 Redis 缓存...](https://mp.weixin.qq.com/s/kObBshUEQGQFygHwn8j3Jg)
 + [十万个why：缓存击穿加个 Redis 互斥锁就行了，为什么还要搞永不过期、逻辑过期这些方案？](https://mp.weixin.qq.com/s/b4KJErKXDx0YeqW_k72vbA)
 + [面试缓存必问](https://mp.weixin.qq.com/s/hFCB81stzKKwB8AmGt0xeQ)
++ [【Redis 讲透·Day01】Redis 缓存杀手：击穿、穿透、雪崩，从原理到代码一次讲透](https://mp.weixin.qq.com/s/L1pInuViJtffsq5XHMWnLQ)
 
 ## 优化
 
@@ -797,6 +799,8 @@
 + [三层校验 + 13 类异常拦截 + 7 项自查清单：让每个接口报错都说人话](https://mp.weixin.qq.com/s/pEs7rC4T03_kQWZKLkbS1w)
 + [高并发场景下，支付系统TPS应设计多少？](https://mp.weixin.qq.com/s/2oR2NG3wPIfExRJ1BawO6A)
 + [面试官问：回调丢了怎么办？我当时没答好](https://mp.weixin.qq.com/s/1envWO9Azf5CRhqeDidtzg)
++ [日志文件脱敏设计方案](https://mp.weixin.qq.com/s/_tuqFT1VEdVuRTeQLxHwRQ)
++ [面试官：设计一个敏感词过滤系统，你能拿满分吗？](https://mp.weixin.qq.com/s/zxDvenal1nvQnosJEvTzng)
 
 # 测试相关
 

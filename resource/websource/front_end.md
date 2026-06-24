@@ -485,3 +485,5 @@
 + [AI 驱动：从运营行为到自动化用例的智能化实践｜得物技术](https://my.oschina.net/u/5783135/blog/19595102)
 + [React、Vue 还是别的？真相是：框架，早就没那么重要了](https://mp.weixin.qq.com/s/egIsJnwDWZE1OJmEr5EUaw)
 + [在 JS 中为什么要少用 class ？](https://mp.weixin.qq.com/s/fRhR8a9KVQWqjXCsimrLNg)
++ [为什么大厂代码里到处都是箭头函数？原因太真实了](https://mp.weixin.qq.com/s/aCYuS7x-85igpsOeS-suyA)
++ [99%的前端只会用 Proxy，却不知道 Reflect 的真正价值](https://mp.weixin.qq.com/s/-7ErfgOkTOIs5M_rot71JA)

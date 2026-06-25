@@ -108,6 +108,9 @@
 + [一文说清楚分层架构](https://my.oschina.net/xiandafu/blog/19612393)
 + [一文说清楚数据架构](https://my.oschina.net/xiandafu/blog/19666676)
 + [消息驱动的架构风格](https://my.oschina.net/xiandafu/blog/19690947)
++ [分层架构设计：领域层、应用层、基础设施层的划分与落地案例](https://mp.weixin.qq.com/s/9MG_qUAR_AVdVN3O0w8ZZg)
++ [业务架构是“玄学”吗？揭秘四大要素，带你透彻理解它的底层逻辑](https://mp.weixin.qq.com/s/BPvbxh3zKqmDiNDQW6JQKQ)
++ [字节跳动面试反问一句：你简历里写"三高架构"，高性能和高可用打起来你站谁？](https://mp.weixin.qq.com/s/VerQfOWLezwGHO3rnfYewQ)
 
 ### DDD
 
@@ -315,6 +318,7 @@
 + [面试官：你们项目用雪花ID吗？](https://mp.weixin.qq.com/s/5XugI5O2BFiCVHiML8GDaA)
 + [分布式ID生成方案详解](https://mp.weixin.qq.com/s/JGd2WPEdpgxKzw4BoXGEzw)
 + [分布式哈希算法（简述）](https://mp.weixin.qq.com/s/zjZajV0aqEXYx7Fs5lsv9Q)
++ [SkyWalking、Pinpoint、Jaeger——分布式链路追踪怎么选？](https://mp.weixin.qq.com/s/kbyC0hhvx6pe-rMPV8h4ow)
 
 ## 分布式锁
 
@@ -486,6 +490,7 @@
 + [如何秒级实现接口间 “幂等” 补偿：一款轻量级仿幂等数据校正处理辅助工具](https://my.oschina.net/u/4090830/blog/18691875)
 + [别再只会重试接口！分布式系统防重复的终极答案：幂等性设计实战指南](https://mp.weixin.qq.com/s/O9XpHEB15U3LOlGOhkm0UQ)
 + [十万个why：明明接口幂等就能防重复提交，为什么还要加分布式锁？](https://mp.weixin.qq.com/s/fvVoz4_4fEDrxiRmL-OcOA)
++ [线上灵异问题：用户没多点按钮，却频繁重复下单！复盘一次生产幂等失效故障全过程](https://mp.weixin.qq.com/s/bsXjcEQ0IYlvG0RcvJbXIg)
 
 ### 负载&限流
 
@@ -605,6 +610,7 @@
 + [十万个why：缓存击穿加个 Redis 互斥锁就行了，为什么还要搞永不过期、逻辑过期这些方案？](https://mp.weixin.qq.com/s/b4KJErKXDx0YeqW_k72vbA)
 + [面试缓存必问](https://mp.weixin.qq.com/s/hFCB81stzKKwB8AmGt0xeQ)
 + [【Redis 讲透·Day01】Redis 缓存杀手：击穿、穿透、雪崩，从原理到代码一次讲透](https://mp.weixin.qq.com/s/L1pInuViJtffsq5XHMWnLQ)
++ [亿级流量下缓存一致性的终极方案：Canal + MQ + 本地缓存](https://mp.weixin.qq.com/s/olJFOOF9Z2HpNnTDy0CGrg)
 
 ## 优化
 
@@ -801,6 +807,7 @@
 + [面试官问：回调丢了怎么办？我当时没答好](https://mp.weixin.qq.com/s/1envWO9Azf5CRhqeDidtzg)
 + [日志文件脱敏设计方案](https://mp.weixin.qq.com/s/_tuqFT1VEdVuRTeQLxHwRQ)
 + [面试官：设计一个敏感词过滤系统，你能拿满分吗？](https://mp.weixin.qq.com/s/zxDvenal1nvQnosJEvTzng)
++ [吞吐量提升 10 倍：高并发大批量数据处理任务的架构演进与性能调优](https://mp.weixin.qq.com/s/cHlWuWC5W5_zxjdIYLGTkg)
 
 # 测试相关
 

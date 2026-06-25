@@ -165,6 +165,8 @@
 + [为什么你写了多年代码，依旧没有核心竞争力？](https://mp.weixin.qq.com/s/DB_W6TZPwBWkvrhC9HBWdw)
 + [年纪越大的程序员，越懂这一个道理](https://mp.weixin.qq.com/s/F-7IYhAvWWagV_7g_BaEzA)
 + [为什么技术越强，越难变现？一个程序员普遍不信邪的规律](https://mp.weixin.qq.com/s/rJ7WTbuQi5pjNbgkF0PQNg)
++ [程序员焦虑现状](https://mp.weixin.qq.com/s/_uUdz4SPv4AlVX6AFFgCSw)
++ [从程序员到架构师，为什么收入会翻倍？](https://mp.weixin.qq.com/s/7miHrCRntks9qbkP5WXrWA)
 
 # 个人成长
 
@@ -360,6 +362,7 @@
 + [C盘红了！](https://mp.weixin.qq.com/s/l1byCk6io0mcui0hffLTrA)
 + [10个Windows操作，职场新人早学早省事](https://mp.weixin.qq.com/s/6g68N5_rILCndMJYXUyyUQ)
 + [电脑不在身边也能派活？WorkBuddy微信远程指挥的10个场景，太实用了](https://mp.weixin.qq.com/s/_-Jiz4W8HjjoxrhjjbPn7g)
++ [用这组快捷键，你的Windows操作速度提升3倍](https://mp.weixin.qq.com/s/XU6JC4zjj1t_5Q_DrJUcmg)
 
 ## 开源资源
 
@@ -664,6 +667,7 @@
 + [2026 年最值得读的 12 本 AI 书（适合真正动手做项目的人）](https://mp.weixin.qq.com/s/hwy4MXiu-mKJ3qTaHFUcBA)
 + [程序员可以知道的「宝藏」书单](https://mp.weixin.qq.com/s/rCKC89TlRraqKhAqiDKisQ)
 + [Linux 内核泰斗亲撰：这本并行编程圣经，终于出第 2 版了](https://mp.weixin.qq.com/s/lyq4D0HFb7QbzpNVUDd2Iw)
++ [《软件设计的哲学》：复杂性的本质与模块化设计](https://mp.weixin.qq.com/s/gXhOwvKH5t6BxsxcoqUS2w)
 
 ### 生活
 

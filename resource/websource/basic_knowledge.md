@@ -328,6 +328,7 @@
 + [2026 年还只会 ls / cd / grep？这些 CLI 工具用一次就回不去了](https://mp.weixin.qq.com/s/XnwetldZVimsZ6onoj_DAA)
 + [后端工程师必备的 10 个 CLI 工具：把终端变成真正的“控制舱”](https://mp.weixin.qq.com/s/1b0cr7--nsyljfuB9o2IMA)
 + [Linux 系统误将 chmod 权限改成 了 000，如何恢复?](https://mp.weixin.qq.com/s/swBSxMFLuC4OlCyoxHk06A)
++ [线上服务器CPU飙到100%，我用了这4个命令10分钟定位问题](https://mp.weixin.qq.com/s/Yk9zN1njr1QAiBdbz4MRVQ)
 
 ### 发行版信息
 
@@ -426,6 +427,8 @@
 + [内核中锁的基本介绍之一——CPU层面的锁（1）](https://mp.weixin.qq.com/s/hF8qrbWvSW3teKd6mS3FaQ)
 + [高速缓存的工作原理](https://mp.weixin.qq.com/s/84nAZiMreYjZ-HIiQ2eDNA)
 + [CPU流水线之数据冒险的基本原理](https://mp.weixin.qq.com/s/FX_wySnnROzqzyZe-9indA)
++ [CPU内存体系拾遗：Cache、MMU、MPU的特性、区别与联动逻辑](https://mp.weixin.qq.com/s/yf5_1YanBHthiqaEoFPqWA)
++ [线上CPU飙到100%？这套排查方法论建议收藏，关键时刻能救命](https://mp.weixin.qq.com/s/yn3osOsQMTUBtMReGwa1bQ)
 
 ### 并发
 
@@ -614,6 +617,7 @@
 + [面试官：什么是 IPv6？和 IPv4 有什么区别？](https://mp.weixin.qq.com/s/_HvrodwImo9NN5ksdVhavw)
 + [懵了！浏览器输入 www.baidu.com，回车之后发生了什么？](https://mp.weixin.qq.com/s/cuEWAaLeNVjkkP4JAQmtTQ)
 + [字节面试官：post 为什么会发送两次请求？](https://mp.weixin.qq.com/s/-CCQMfVlG7yhDhmAM9JPiQ)
++ [我以为 HTTPS 只要两次握手，直到被技术组长当面怼醒](https://mp.weixin.qq.com/s/REFHmEktBCO7_ysgScaNyA)
 
 #### CORS
 

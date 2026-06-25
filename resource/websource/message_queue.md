@@ -155,6 +155,8 @@
 + [十万个why：消费线程正常打印日志，为什么 Kafka 却判定宕机、强行 Rebalance？](https://mp.weixin.qq.com/s/V0ojB0rgM-7YSuVcCumSuQ)
 + [十万个why：Kafka 消息明明都设了相同的 Key 保证分区有序，为什么消费端拿到的顺序还是乱的？](https://mp.weixin.qq.com/s/GXyWJtjKyvGcWxkKH-evEw)
 + [面试必看！Kafka通关秘籍，让你脱颖而出](https://mp.weixin.qq.com/s/ucUujwD_l2nh5sh8-6ZTwg)
++ [通过这些优化，我将kafka的消费速率飙升了500倍，从1M/min提升到500M/min](https://mp.weixin.qq.com/s/YqpNUhj2q1FA7nLFbXYLrA)
++ [Kafka 为什么选择 Raft，而不是继续用 ZooKeeper？](https://mp.weixin.qq.com/s/hxVsg_UMoMarmcCS34O2IQ)
 
 # ROCKETMQ
 
@@ -226,6 +228,7 @@
 + [RabbitMQ的架构设计](https://mp.weixin.qq.com/s/PdyZ7L9lPsd_iNDuk72wNA)
 + [闲鱼二面：订单 30 分钟未支付自动取消，RabbitMQ 怎么实现？我支支吾吾，没答上来...](https://mp.weixin.qq.com/s/oxGjUdFAzc-Orqyal5FBeQ)
 + [为什么越来越多团队放弃 RabbitMQ，转向 NATS？](https://mp.weixin.qq.com/s/D_9yb5KM-z1beo_mPh9V0g)
++ [RabbitMQ顺序消息实战：保证订单状态机不乱序的完整方案+完整项目源码](https://mp.weixin.qq.com/s/qZmf3H5evfXYSj9-pXYm-w)
 
 # PULSAR
 

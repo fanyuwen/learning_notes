@@ -102,6 +102,7 @@
 + [人人都能看懂的 AI 原理，助你更高效地使用AI](https://mp.weixin.qq.com/s/psiFe_avi490iryCNDRUYA)
 + [AI 中转站的前世今生，大模型网关（LLM Gateway）调研报告](https://mp.weixin.qq.com/s/EaU3iblBVfz2Vr2nX9UO1A)
 + [阿里三面："给大模型加了视觉能力，文本推理为什么会变差？" 我说"参数被占用了"，他摇头："你的技术深度还需要打磨"](https://mp.weixin.qq.com/s/fJmbgeYrtWqASWYrE48CEA)
++ [AI时代来了，Java程序员不会这些名词，面试真的有点危险了](https://mp.weixin.qq.com/s/2vLDqaUGUaiCbwH_agfxCA)
 
 ### agent
 
@@ -115,6 +116,7 @@
 + [Agent 开发范式演进：从环境工程出发，“简化” 多源实时上下文](https://my.oschina.net/u/3874284/blog/19661323)
 + [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://my.oschina.net/selectdb/blog/19658249)
 + [Agent 面试拷打（三）：MCP、Function、Skill，面试官最爱让你区分的三件套](https://mp.weixin.qq.com/s/rLOdUYNyajccR5kACbZ8Kg)
++ [阿里HR面被问：“说下怎么设计一个招聘Agent”？”我愣了一下，从概念、核心模块和坑都娓娓道来，这波应该稳了](https://mp.weixin.qq.com/s/V3mHmXefr9haFySGa3__8g)
 
 ### RAG
 
@@ -177,6 +179,7 @@
 + [LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！](https://mp.weixin.qq.com/s/rHzWjqIEFMquCgs0Kg_PRA)
 + [这位老哥搞了一门新的编程语言，5年烧了500万美元，最后完全转向TypeScript。](https://mp.weixin.qq.com/s/10AwAwVYC8K8GcfOlSjRZA)
 + [16亿Windows用户，一夜冲进Agent时代！](https://mp.weixin.qq.com/s/yrKrZf_mi5R4EHMia0KWFA)
++ [普通人用AI不需要关注Tokens 的消耗](https://mp.weixin.qq.com/s/5JJfs71q3jlF6cekO5W37g)
 
 ## Transformer
 
@@ -185,6 +188,7 @@
 ## LangChain
 
 + [LangChain入门教程【一】核心组件基础篇](https://mp.weixin.qq.com/s/ZrTsfkeGF5DyRQVfj2xxfw)
++ [LangChain4j × 企业级AI｜从0到1落地指南](https://mp.weixin.qq.com/s/30G53FOe-s9XjWvcW_x8tg)
 
 # 算法
 

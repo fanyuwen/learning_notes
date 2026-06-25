@@ -241,6 +241,7 @@
 + [面试官：如果 100 个请求，你怎么用 Promise 去控制并发？](https://mp.weixin.qq.com/s/Lc7pjKUR0Pxu9P8DORbm6w)
 + [妙啊！Js的对象属性居然还能这么写](https://mp.weixin.qq.com/s/2CZGSdkfhc6pGoo5IZLcbw)
 + [async/await 到底要不要加 try catch？我来给你整明白！](https://mp.weixin.qq.com/s/_g7VWNqBkXRZsbw6JsUYOg)
++ [JavaScript继承：寄生式组合继承，像组装乐高一样高效继承！](https://mp.weixin.qq.com/s/-gctV1UWjqJ1V5u6Xk8Dqg)
 
 # 框架
 
@@ -444,6 +445,8 @@
 + [前端内存泄漏：你的JS代码在偷偷“吃”内存！](https://mp.weixin.qq.com/s/v_yC4jocB0KKsDjgqksK4g)
 + [做 DOCX 预览？这个神库别错过](https://mp.weixin.qq.com/s/dZeGc9XZk1n1wX7SkneO8A)
 + [面试官问：Proxy 可以代理另一个 Proxy 吗？很多人答错了](https://mp.weixin.qq.com/s/LYKsWPu0P8RXwRTDgOWJfA)
++ [下载 5GB 文件导致浏览器崩溃？教你用 Fetch 流式直写硬盘，内存 0 消耗！](https://mp.weixin.qq.com/s/ZgISvFrCePOj9uC6wewEBQ)
++ [Proxy 捕获器参数详解：看懂 receiver，你就超过80%的开发者](https://mp.weixin.qq.com/s/Vbk2wMhGvmQkHoWbOHmw8A)
 
 # 杂谈
 

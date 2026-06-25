@@ -22,6 +22,7 @@
 + [简单实现异构数据源查询](https://mp.weixin.qq.com/s/EXmFxtCjgwV8lTf5gaTOTg)
 + [比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了](https://my.oschina.net/HelloGitHub/blog/18805002)
 + [为什么数据库连接很消耗资源？被问根本答不出来……](https://mp.weixin.qq.com/s/jyKpdv8HBNRDmuSnHm8WSw)
++ [Discord 如何存储万亿条消息？](https://mp.weixin.qq.com/s/cBIcC80kxDZbiYoJMz9sOQ)
 
 # SQL
 
@@ -559,6 +560,8 @@
 + [MySQL MVCC原理揭秘：读写并发的关键设计](https://mp.weixin.qq.com/s/c9oJLfb370SWw6yn_Hxngg)
 + [MySQL MVCC：揭开数据库高并发的神秘面纱](https://mp.weixin.qq.com/s/GdAtz4XOzciKSE_0N0qJDw)
 + [面试官：MySQL 为什么要是使用 MVCC？原理是什么？](https://mp.weixin.qq.com/s/oFEMx0WAOI2L0vThitMBSg)
++ [深入分析MySQL MVCC机制](https://mp.weixin.qq.com/s/ZWTGsAsnr4osiVRiFamgtQ)
++ [面试官问我MVCC是什么，我用"时光机"讲明白了](https://mp.weixin.qq.com/s/m3u2cikr8a01rXdukWQj-Q)
 
 #### 锁
 
@@ -612,6 +615,7 @@
 + [面试官：谈谈 InnoDB 中的表级锁、页级锁、行级锁？（修订版）](https://mp.weixin.qq.com/s/HpnLqKmSGYyWXTi7_Vegvw)
 + [面试官问我MySQL行锁，我用"门卫"讲明白了](https://mp.weixin.qq.com/s/IYDVljQgMgDrFZ9yivVzVg)
 + [一次凌晨告警引发的排查：MySQL 间隙锁是怎么“悄悄“制造死锁的](https://mp.weixin.qq.com/s/uPxqC85YQkeisqjyW-uH6A)
++ [MySQL 锁 6 大类、8 种锁、10 道高频题，面试前看这一篇就够了！MySQL 锁 6 大类、8 种锁、10 道高频题，面试前看这一篇就够了！](https://mp.weixin.qq.com/s/K4ChxlLt3xxEWbMTYo9TYQ)
 
 #### 事务
 
@@ -1151,6 +1155,7 @@
 + [Redis分布式锁故障，我忍不住想爆粗...](https://mp.weixin.qq.com/s/rNGI-VsjDSyRvb1yRbdbYQ)
 + [华为二面：Redis 分布式锁如何实现？（修订版）](https://mp.weixin.qq.com/s/BOBTHKRItLOiDwXFNTW2bQ)
 + [Redis 分布式锁的正确姿势：你写的可能是"假锁"](https://mp.weixin.qq.com/s/xcebr2qcRWzxmOHuLb4NAg)
++ [一文讲透 Redis 分布式锁：从 setnx 到 RedLock（含踩坑）](https://mp.weixin.qq.com/s/kxmxm3OdDviL8q2uRfaQ7g)
 
 #### 缓存
 
@@ -1174,6 +1179,7 @@
 + [太优雅了！用Redis高效实现限流功能!](https://mp.weixin.qq.com/s/i0aDxP94oEMuw_IKyRD2mg)
 + [如何用Redis实现限流？](https://mp.weixin.qq.com/s/-Fv_32pV4QPaKqjVPpItNA)
 + [百度面试：如何用Redis实现限流？](https://mp.weixin.qq.com/s/RYbA9J-4DtuDKYv4Zl-kSw)
++ [Redis限流：你以为搞懂了？这五个坑在生产环境等你](https://mp.weixin.qq.com/s/XtFNKeOaEsTwqPjf31gi-w)
 
 ### Valkey
 

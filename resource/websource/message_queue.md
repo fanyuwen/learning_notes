@@ -52,6 +52,7 @@
 + [悠悠有品：RocketMQ 稳扛核心交易，Kafka 驱动海量数据，支撑高并发游戏饰品交易平台](https://my.oschina.net/u/3874284/blog/19370736)
 + [滴滴二面：你项目为什么选择 RocketMQ，而不是 Kafka? 我：支支吾吾....](https://mp.weixin.qq.com/s/uVLV9h-C2MpK3jpJUMHDRw)
 + [吃透MQ三大难题：消息不丢、不重、不乱序！大厂生产级落地方案](https://mp.weixin.qq.com/s/0FyOmmbWQy2nZUZcPwHxaQ)
++ [消息队列选型：Kafka、RocketMQ、RabbitMQ，我们最后选了哪个，为什么？](https://mp.weixin.qq.com/s/ZtaysWEvIQli62Dami5-JA)
 
 # KAFKA
 
@@ -157,6 +158,8 @@
 + [面试必看！Kafka通关秘籍，让你脱颖而出](https://mp.weixin.qq.com/s/ucUujwD_l2nh5sh8-6ZTwg)
 + [通过这些优化，我将kafka的消费速率飙升了500倍，从1M/min提升到500M/min](https://mp.weixin.qq.com/s/YqpNUhj2q1FA7nLFbXYLrA)
 + [Kafka 为什么选择 Raft，而不是继续用 ZooKeeper？](https://mp.weixin.qq.com/s/hxVsg_UMoMarmcCS34O2IQ)
++ [Kafka 会丢失消息吗？](https://mp.weixin.qq.com/s/sUrqtGkpj1dMi_J5Tep1HQ)
++ [Kafka为什么这么快？从零拷贝到批量发送](https://mp.weixin.qq.com/s/J79f4LeGNyAHXL1BtWW-XQ)
 
 # ROCKETMQ
 
@@ -229,6 +232,7 @@
 + [闲鱼二面：订单 30 分钟未支付自动取消，RabbitMQ 怎么实现？我支支吾吾，没答上来...](https://mp.weixin.qq.com/s/oxGjUdFAzc-Orqyal5FBeQ)
 + [为什么越来越多团队放弃 RabbitMQ，转向 NATS？](https://mp.weixin.qq.com/s/D_9yb5KM-z1beo_mPh9V0g)
 + [RabbitMQ顺序消息实战：保证订单状态机不乱序的完整方案+完整项目源码](https://mp.weixin.qq.com/s/qZmf3H5evfXYSj9-pXYm-w)
++ [RabbitMQ 核心原理：一条消息到底经历了什么？](https://mp.weixin.qq.com/s/ZzBrvMAcFWf0ixlVveDTIQ)
 
 # PULSAR
 

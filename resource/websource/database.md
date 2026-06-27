@@ -23,6 +23,7 @@
 + [比 MySQL 轻，比 SQLite 强：终于有人把 AI 数据库做对了](https://my.oschina.net/HelloGitHub/blog/18805002)
 + [为什么数据库连接很消耗资源？被问根本答不出来……](https://mp.weixin.qq.com/s/jyKpdv8HBNRDmuSnHm8WSw)
 + [Discord 如何存储万亿条消息？](https://mp.weixin.qq.com/s/cBIcC80kxDZbiYoJMz9sOQ)
++ [CDC：实时数据同步的关键](https://mp.weixin.qq.com/s/41HM5FQtvlRy9S8geEIPHw)
 
 # SQL
 
@@ -514,6 +515,7 @@
 + [“MySQL 的幻读到底解决没有？“——一个被面试官问倒的下午](https://mp.weixin.qq.com/s/HvlC4oLaU2dCJBFVeceCEg)
 + [MySQL实践系列：连接报 Too many connections 错，你是继续加大连接数？（连接数管理）](https://mp.weixin.qq.com/s/tXeNpShDi5kIl5p62J7f_g)
 + [美团问烂了：MySQL 单表 1000 万，别上来就分库分表，别这样回答了](https://mp.weixin.qq.com/s/X5_JS2eSpFO9iHGbaaJBgg)
++ [字节面试官：MySQL IN 最多能放多少个值？90% 后端都答错底层逻辑！](https://mp.weixin.qq.com/s/GiR91kHeLGLeoq5gkbl-Ow)
 
 #### 存储引擎
 
@@ -616,6 +618,8 @@
 + [面试官问我MySQL行锁，我用"门卫"讲明白了](https://mp.weixin.qq.com/s/IYDVljQgMgDrFZ9yivVzVg)
 + [一次凌晨告警引发的排查：MySQL 间隙锁是怎么“悄悄“制造死锁的](https://mp.weixin.qq.com/s/uPxqC85YQkeisqjyW-uH6A)
 + [MySQL 锁 6 大类、8 种锁、10 道高频题，面试前看这一篇就够了！MySQL 锁 6 大类、8 种锁、10 道高频题，面试前看这一篇就够了！](https://mp.weixin.qq.com/s/K4ChxlLt3xxEWbMTYo9TYQ)
++ [MySQL批量插入死锁，生产环境第一次遇到](https://mp.weixin.qq.com/s/-jDp3rVEijhLpt75zzibIA)
++ [深入解析 InnoDB 三大锁机制：表锁、行锁、意向锁](https://mp.weixin.qq.com/s/OgMCr3ZU5J3ZKTleNmU_Ng)
 
 #### 事务
 
@@ -750,6 +754,7 @@
 + [十万个Why：两个字段都建了单列索引，为什么加了 OR，执行计划还是全表扫描？](https://mp.weixin.qq.com/s/KHL8aUd1lcothAe_96bqKg)
 + [拼多多三面：索引建了为啥不走？只懂最左前缀，你还只是皮毛](https://mp.weixin.qq.com/s/Vr97480T1WsnvR-fPwwydw)
 + [大厂一面：联合索引是 ABC，查 BCA 能走索引吗？](https://mp.weixin.qq.com/s/649m8oCONPaiVYg2SysyPQ)
++ [mysql索引数据结构](https://mp.weixin.qq.com/s/t2n_n5SoVecRLpfJ9bFt9A)
 
 ### PostgreSQL
 
@@ -784,6 +789,7 @@
 + [你还在用Cron跑任务？Postgres 18已经悄悄干掉它了](https://mp.weixin.qq.com/s/1zhYTZZ4R3nq4Xg9dNmnGw)
 + [PostgreSQL 中 now () 的陷阱：事务内时间静止问题](https://www.oschina.net/news/450902)
 + [别再死磕MySQL了，AI时代这个数据库更香！](https://mp.weixin.qq.com/s/LwjeQSmAXunFfBVeTqSzvQ)
++ [PostgreSQL核心特性与高并发系统落地实践](https://mp.weixin.qq.com/s/vSQKiQ4ynEaNIKfyOuvTww)
 
 ### SQLSERVER
 
@@ -1056,6 +1062,8 @@
 + [为什么越来越多企业放弃 Redis，转向 Dragonfly？](https://mp.weixin.qq.com/s/ndWlydtl6h-I3EMZzK4rSA)
 + [缓存：Redis7.0+、多级缓存设计、缓存三大问题解决方案](https://mp.weixin.qq.com/s/tXolmDbqR1irq6fBgp-v5A)
 + [Redis缓存过期为什么会造成系统出现毛刺现象](https://mp.weixin.qq.com/s/OqqoP-oEOF7U_bIm_iZ9zw)
++ [Redis集群模式下确保Key在同一Slot的实现方法](https://mp.weixin.qq.com/s/WM7m1ioSi-RiLa-PAkE8dA)
++ [阿里面试官：Redis一致性答"延时双删"的直接挂，这才是生产级答案](https://mp.weixin.qq.com/s/fagL1-veH7EEza98drpjGA)
 
 #### 原理
 

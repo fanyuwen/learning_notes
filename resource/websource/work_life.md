@@ -167,6 +167,9 @@
 + [为什么技术越强，越难变现？一个程序员普遍不信邪的规律](https://mp.weixin.qq.com/s/rJ7WTbuQi5pjNbgkF0PQNg)
 + [程序员焦虑现状](https://mp.weixin.qq.com/s/_uUdz4SPv4AlVX6AFFgCSw)
 + [从程序员到架构师，为什么收入会翻倍？](https://mp.weixin.qq.com/s/7miHrCRntks9qbkP5WXrWA)
++ [对于程序员而言，到底什么是成长性的工作？](https://mp.weixin.qq.com/s/p_sBKxLNCUlQ79wI0YjCBQ)
++ [干了 11 年前端，我越来越觉得技术不是最重要的](https://mp.weixin.qq.com/s/m70rJNDdOwo6s9R7fFcKmA)
++ [AI时代的程序员焦虑](https://mp.weixin.qq.com/s/cqeK-cuJFKpJ-2Y0hrtN_Q)
 
 # 个人成长
 
@@ -675,3 +678,4 @@
 + [无锡公积金目前最高能贷多少钱？](https://mp.weixin.qq.com/s/Z73ybGfuj0Q7NF2_dLrJZQ)
 + [公积金月冲后，账户里多余的金额怎么处理？](https://mp.weixin.qq.com/s/hwYKkyEs3_h_0XHI-YLaHw)
 + [社保缴费总月数怎么查？社保卡丢了怎么办？](https://mp.weixin.qq.com/s/IZgBY-us4i_f1OkCm9EZNA)
++ [意外险“冰火两重天”：财险增、寿险降，从渠道到经营哲学的差异有多大？](https://mp.weixin.qq.com/s/wNWLOnTPVpoDv_gsvEVVMg)

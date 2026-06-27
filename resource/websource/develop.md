@@ -111,6 +111,7 @@
 + [分层架构设计：领域层、应用层、基础设施层的划分与落地案例](https://mp.weixin.qq.com/s/9MG_qUAR_AVdVN3O0w8ZZg)
 + [业务架构是“玄学”吗？揭秘四大要素，带你透彻理解它的底层逻辑](https://mp.weixin.qq.com/s/BPvbxh3zKqmDiNDQW6JQKQ)
 + [字节跳动面试反问一句：你简历里写"三高架构"，高性能和高可用打起来你站谁？](https://mp.weixin.qq.com/s/VerQfOWLezwGHO3rnfYewQ)
++ [多个方案都合理时如何判断先做什么](https://mp.weixin.qq.com/s/DOqVBl6nJpXCXqng0Ah8ag)
 
 ### DDD
 
@@ -611,6 +612,7 @@
 + [面试缓存必问](https://mp.weixin.qq.com/s/hFCB81stzKKwB8AmGt0xeQ)
 + [【Redis 讲透·Day01】Redis 缓存杀手：击穿、穿透、雪崩，从原理到代码一次讲透](https://mp.weixin.qq.com/s/L1pInuViJtffsq5XHMWnLQ)
 + [亿级流量下缓存一致性的终极方案：Canal + MQ + 本地缓存](https://mp.weixin.qq.com/s/olJFOOF9Z2HpNnTDy0CGrg)
++ [缓存方案怎么选：本地缓存、Redis、多级缓存，不同场景不同答案](https://mp.weixin.qq.com/s/4Oetc919FeDZ5rQP_qok7g)
 
 ## 优化
 
@@ -808,6 +810,10 @@
 + [日志文件脱敏设计方案](https://mp.weixin.qq.com/s/_tuqFT1VEdVuRTeQLxHwRQ)
 + [面试官：设计一个敏感词过滤系统，你能拿满分吗？](https://mp.weixin.qq.com/s/zxDvenal1nvQnosJEvTzng)
 + [吞吐量提升 10 倍：高并发大批量数据处理任务的架构演进与性能调优](https://mp.weixin.qq.com/s/cHlWuWC5W5_zxjdIYLGTkg)
++ [第12章 性能调优](https://mp.weixin.qq.com/s/Srkt8XcJGSijdS6cyp_yBA)
++ [高并发场景下数据一致性保障方案](https://mp.weixin.qq.com/s/z9Oppc4AS2wmFo4m0GZjcA)
++ [十万个why：都说延迟双删能保证缓存一致性，为什么高并发下它根本不靠谱？](https://mp.weixin.qq.com/s/KCkBiNxppo5Ca6q1BROAaQ)
++ [认知跃迁18-高可用设计真功夫](https://mp.weixin.qq.com/s/6_DcBlGBuKJf_D6H6DX2kA)
 
 # 测试相关
 
@@ -882,6 +888,7 @@
 + [订单管理系统(OMS)--系统设计](https://mp.weixin.qq.com/s/bL9C-BHDrChw8MLGcd9_qw)
 + [面试官问“订单拆单与合单”，我把简历上的“电商项目”划掉了...](https://mp.weixin.qq.com/s/o0S05fpfwUaEBi--9ArL7Q)
 + [面试官：设计一个评论盖楼系统，你能答到第几层？](https://mp.weixin.qq.com/s/jDA8X5J1vAKJJbNqU77u1Q)
++ [面试官：明星离婚，千万粉丝秒级通知，你怎么做？](https://mp.weixin.qq.com/s/vf0rM1NuTXEZeafH7mxu1g)
 
 ## 代码相关
 

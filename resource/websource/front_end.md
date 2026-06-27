@@ -281,6 +281,8 @@
 + [Vue-Router深度实践指南](https://mp.weixin.qq.com/s/WKDmjpSd9aRhii7NRwOKcg)
 + [掌握这些 Vue 和 JS 知识，前端开发不再迷茫！](https://mp.weixin.qq.com/s/72_Iv3oUCuQ_6pTGjQNwjg)
 + [Vue 官方推荐的全局 Loading 控制方案](https://mp.weixin.qq.com/s/GSDNKxUw5PDLqOKUOjZSkw)
++ [Vue3 为什么选择 Proxy？看完这篇彻底搞懂 JavaScript 代理模式](https://mp.weixin.qq.com/s/cgUYRjbKI7k9a_uWXOen_Q)
++ [Vue3 为什么全面拥抱 Proxy？看完空代理你就懂了](https://mp.weixin.qq.com/s/DM4_o4mIy3ViW6x9kMPHHg)
 
 ## react
 

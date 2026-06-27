@@ -103,6 +103,7 @@
 + [AI 中转站的前世今生，大模型网关（LLM Gateway）调研报告](https://mp.weixin.qq.com/s/EaU3iblBVfz2Vr2nX9UO1A)
 + [阿里三面："给大模型加了视觉能力，文本推理为什么会变差？" 我说"参数被占用了"，他摇头："你的技术深度还需要打磨"](https://mp.weixin.qq.com/s/fJmbgeYrtWqASWYrE48CEA)
 + [AI时代来了，Java程序员不会这些名词，面试真的有点危险了](https://mp.weixin.qq.com/s/2vLDqaUGUaiCbwH_agfxCA)
++ [别再收藏 AI 教程了，真正厉害的人已经开始搭工作流了](https://mp.weixin.qq.com/s/jgehpVPQoUkGykXMft3b-g)
 
 ### agent
 
@@ -184,6 +185,7 @@
 ## Transformer
 
 + [第二章：Transformer 架构：大模型的「发动机」](https://mp.weixin.qq.com/s/zXpjs8pqw-kvUdG6cyFnGg)
++ [谷歌重磅论文：Transformer 的拓扑困境](https://mp.weixin.qq.com/s/p8qNWVyVp9LYJI0hqfiFyg)
 
 ## LangChain
 
@@ -215,6 +217,7 @@
 + [工业视觉检测设备的标准软件架构](https://mp.weixin.qq.com/s/FDh8VqNSYAfYNy-MJEwTZQ)
 + [王炸组合！多尺度特征融合+YOLO怒斩1区TOP！思路速学！](https://mp.weixin.qq.com/s/mHG_PoBL5eIYL_h7k3rknw)
 + [VLM火了，YOLO真的会被淘汰吗？我在工业产线跑了3组对比测试，结果很反常识](https://mp.weixin.qq.com/s/nLrF94-ms9b9U3QtEqms9Q)
++ [座舱Camera深度拆解 · 第9篇 · AI ISP管线，用神经网络替代20步手工调参](https://mp.weixin.qq.com/s/Jh4dj-0PMC-oS6q66yDQpg)
 
 ## openCV
 

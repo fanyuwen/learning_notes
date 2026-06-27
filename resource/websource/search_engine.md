@@ -40,6 +40,7 @@
 + [Elasticsearch：使用 Base64 编码字符串加速向量摄取](https://my.oschina.net/u/3343882/blog/19208366)
 + [如何比较两个 Elasticsearch 索引并找出缺失的文档](https://my.oschina.net/u/3343882/blog/19575330)
 + [ES性能调优实战指南](https://mp.weixin.qq.com/s/z6i1AHv9lm0eKN1PRYCL5A)
++ [千万级数据入库ES卡死？全套生产写入优化方案，让你的ES吞吐量翻倍](https://mp.weixin.qq.com/s/CIkQLnIbQKdq6ZoZdUds9A)
 
 ## solr
 

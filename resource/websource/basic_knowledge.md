@@ -429,6 +429,8 @@
 + [CPU流水线之数据冒险的基本原理](https://mp.weixin.qq.com/s/FX_wySnnROzqzyZe-9indA)
 + [CPU内存体系拾遗：Cache、MMU、MPU的特性、区别与联动逻辑](https://mp.weixin.qq.com/s/yf5_1YanBHthiqaEoFPqWA)
 + [线上CPU飙到100%？这套排查方法论建议收藏，关键时刻能救命](https://mp.weixin.qq.com/s/yn3osOsQMTUBtMReGwa1bQ)
++ [面试官问我线上CPU 100%，我查了半天发现是它的问题](https://mp.weixin.qq.com/s/TCmPyWNzWouWFPuCIzOFqg)
++ [半夜CPU飙到100%，我用4步锁定元凶](https://mp.weixin.qq.com/s/_aa5PJLqg69o14pVaR8d7Q)
 
 ### 并发
 

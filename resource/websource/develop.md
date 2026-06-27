@@ -448,6 +448,7 @@
 + [实战：单点登录的两种实现方式](https://mp.weixin.qq.com/s/C41It8I6Ao_3vPz6MPBxTA)
 + [详解！三种灾备演练步骤方式](https://mp.weixin.qq.com/s/lL9Ggyr4ESZa9jXvkfnU0A)
 + [点赞收藏功能该如何设计？](https://my.oschina.net/lenve/blog/15708385)
++ [业务系统的性能设计](https://mp.weixin.qq.com/s/vT5KRb02LlaikQhc3fvo5A)
 
 ## 功能
 
@@ -540,6 +541,7 @@
 + [如何实现大文件传输中的断点续传](https://mp.weixin.qq.com/s/hkZOXKjGEdoofl30vrgBcg)
 + [化整为零(入门篇) ：大文件上传的二三事](https://mp.weixin.qq.com/s/9EfegzQUJuLjl7AddFqa4A)
 + [实现大文件上传全流程详解(补偿版本)](https://mp.weixin.qq.com/s/SvQ5hnf__b7wfmugsi3MxA)
++ [分片上传 MD5 哈希校验：实现文件秒传，杜绝重复上传](https://mp.weixin.qq.com/s/_zy6WU4_DRYgc6qxxyYqBw)
 
 ### 超时&定时&异步调度
 
@@ -814,6 +816,7 @@
 + [高并发场景下数据一致性保障方案](https://mp.weixin.qq.com/s/z9Oppc4AS2wmFo4m0GZjcA)
 + [十万个why：都说延迟双删能保证缓存一致性，为什么高并发下它根本不靠谱？](https://mp.weixin.qq.com/s/KCkBiNxppo5Ca6q1BROAaQ)
 + [认知跃迁18-高可用设计真功夫](https://mp.weixin.qq.com/s/6_DcBlGBuKJf_D6H6DX2kA)
++ [后端实战：一次自动核销接口 504 的排查与优化](https://mp.weixin.qq.com/s/OebMSj-t2gq5meaLGDZ8nw)
 
 # 测试相关
 

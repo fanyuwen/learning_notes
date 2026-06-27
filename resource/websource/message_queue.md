@@ -160,6 +160,7 @@
 + [Kafka 为什么选择 Raft，而不是继续用 ZooKeeper？](https://mp.weixin.qq.com/s/hxVsg_UMoMarmcCS34O2IQ)
 + [Kafka 会丢失消息吗？](https://mp.weixin.qq.com/s/sUrqtGkpj1dMi_J5Tep1HQ)
 + [Kafka为什么这么快？从零拷贝到批量发送](https://mp.weixin.qq.com/s/J79f4LeGNyAHXL1BtWW-XQ)
++ [蚂蚁一面：为什么选Kafka？别的MQ不行吗？](https://mp.weixin.qq.com/s/APV1WD2SxOyDFGN4Q2Gmsg)
 
 # ROCKETMQ
 

@@ -104,6 +104,7 @@
 + [阿里三面："给大模型加了视觉能力，文本推理为什么会变差？" 我说"参数被占用了"，他摇头："你的技术深度还需要打磨"](https://mp.weixin.qq.com/s/fJmbgeYrtWqASWYrE48CEA)
 + [AI时代来了，Java程序员不会这些名词，面试真的有点危险了](https://mp.weixin.qq.com/s/2vLDqaUGUaiCbwH_agfxCA)
 + [别再收藏 AI 教程了，真正厉害的人已经开始搭工作流了](https://mp.weixin.qq.com/s/jgehpVPQoUkGykXMft3b-g)
++ [一文带你搞懂 AI Agent：Agent、Skill、插件、MCP……这些词到底有啥区别？](https://mp.weixin.qq.com/s/rJ5kSBHBtf2fqNZopXCcBQ)
 
 ### agent
 

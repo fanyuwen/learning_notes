@@ -1074,6 +1074,8 @@
 + [都是同时执行？（一问讲透并发、并行和异步）](https://mp.weixin.qq.com/s/k1nkwHR00eC5k3bDecUZsA)
 + [Java实战中事务中的SQL锁、多线程并发的对象锁以及可能会遇到的死锁情况以及解决方案](https://mp.weixin.qq.com/s/_KMYBb1pcunLfCQqyWUykQ)
 + [【Java并发编程讲透·Day02】创建线程的所有方式、区别、优缺点，这一篇说透了](https://mp.weixin.qq.com/s/wtjMpxDNNod3jUc200v2fg)
++ [Java守护线程：三句话讲清楚Daemon Thread](https://mp.weixin.qq.com/s/akFCEKEwmvO21pUzlWfPbw)
++ [代码无报错、日志无异常，异步任务凭空消失！线程池默认拒绝策略丢弃任务，线上数据缺失故障复盘](https://mp.weixin.qq.com/s/t28_hG7nP9oorDjIgJJmug)
 
 #### CAS
 
@@ -1173,6 +1175,7 @@
 + [虚拟线程都到JDK25了，为什么Java圈还在"抱着线程池不撒手"](https://mp.weixin.qq.com/s/x5kPd_N8-lAuuPdMmScxpg)
 + [面试被问线程池设多少？背口诀的人全挂了](https://mp.weixin.qq.com/s/7j7Jif3IgPOiT7QfSpaqcw)
 + [面试官：你们项目里的线程池是怎么用的？怎么管理的？](https://mp.weixin.qq.com/s/TlhYLZLAXms9G2IWzSrxUQ)
++ [JVM 中都有哪些线程池：实现原理、如何使用与注意事项](https://mp.weixin.qq.com/s/oxtGdLHii1hCcEPGd9sxCQ)
 
 #### 锁
 
@@ -1410,6 +1413,7 @@
 + [第六十四章（JVM调优）](https://mp.weixin.qq.com/s/kTPW5o2pjN-_YYmhrf__kQ)
 + [JVM调优中常用的参数](https://mp.weixin.qq.com/s/fUKCIB0ynDGZ42KkCyQrwA)
 + [JVM 是什么：组成、运行流程与整体架构](https://mp.weixin.qq.com/s/3PpiDip80wyRQ4BHizBATQ)
++ [JVM JIT 即时编译：原理、分层编译与优化机制](https://mp.weixin.qq.com/s/GlkqkwyNPrsDiKRwRcPtfQ)
 
 ### 命令
 
@@ -1497,6 +1501,7 @@
 + [并发代码到底凭什么“看得见、排得对、改得准”(一文讲透Java 内存模型)](https://mp.weixin.qq.com/s/VaXci08UqZmjpEjBpL-E1w)
 + [JVM 核心：Java 内存区域详解（堆 / 栈 / 方法区 / 直接内存）](https://mp.weixin.qq.com/s/8j7JvBd2G4GtBGNQVxRkMw)
 + [线上OOM排查实战——3天找到内存泄漏的完整记录](https://mp.weixin.qq.com/s/Y31jJyonJwBFiIKv2YQhPg)
++ [什么是内存泄漏？什么是内存溢出？](https://mp.weixin.qq.com/s/3fogv1zel9E-0n0fwAhuqA)
 
 ### 类加载
 
@@ -1601,6 +1606,8 @@
 + [为什么需要 GC：电商仓库管理员](https://mp.weixin.qq.com/s/RtQ-fsyWtERd-6xXOrox_w)
 + [每小时Full GC一次，调了7天JVM参数终于稳了](https://mp.weixin.qq.com/s/0tGtswfw-LzDCjKovEED9w)
 + [JVM虚拟机-垃圾收集器](https://mp.weixin.qq.com/s/1Yvvao6jnh1HHAi3kUZKDg)
++ [G1 调优别先改参数，先看日志](https://mp.weixin.qq.com/s/YShUrqx-4MCZ8_PZY8unxQ)
++ [面试官问我CMS原理，我用"老年代快递站"讲明白了](https://mp.weixin.qq.com/s/NZN2eGDOPbgup9fL24AwLg)
 
 # 核心库
 
@@ -1766,6 +1773,7 @@
 + [Java日期最常见的8个坑！](https://mp.weixin.qq.com/s/kEnwqzPdUQg7ikMrHonXdA)
 + [别再用Date了！线上事故频发的Java时间处理，一文讲透LocalDateTime](https://mp.weixin.qq.com/s/cxuZFHDy8UOHofDXA-TC9Q)
 + [别用 YYYY-MM-dd,这个大写 Y，能让你的线上系统直接崩溃](https://mp.weixin.qq.com/s/MnKYa8TE-PL97EzRIb9YrQ)
++ [Java 开发 > 日期转换还在 Date、LocalDateTime、String、Long 来回试？4 种类型互转一次记牢](https://mp.weixin.qq.com/s/0-PwGmfNZ4ft0g2SPDiR-g)
 
 ### Collection/Map
 
@@ -1852,6 +1860,8 @@
 + [HashMap 进阶：寻址算法、扩容死循环，一次说透 HashSet 和 HashTable](https://mp.weixin.qq.com/s/cdoAOCsyoNijRjt79Z8pLw)
 + [放进3、1、2，出来1、2、3？（一文讲透Java TreeMap）](https://mp.weixin.qq.com/s/PLVI7knbUIPlRpZyh_EqPA)
 + [HashMap 少传一个初始容量，百万数据慢了 40%](https://mp.weixin.qq.com/s/uT9hzT9_wlY4e6Cdu6FcKg)
++ [【Java集合讲透·Day01】 HashMap：从“头插法噩梦”到“红黑树救赎”](https://mp.weixin.qq.com/s/U9Juz4DyhCSnvoizEKjQTA)
++ [桶里太挤，链表真的会变树？（一文讲透Java HashMap）](https://mp.weixin.qq.com/s/FVXx2SuJZEu6VhmMcQa2mA)
 
 ### Optional
 
@@ -1947,6 +1957,7 @@
 + [CompletableFuture同步和异步使用](https://mp.weixin.qq.com/s/ZgV15gBl7X98Jx1Qc2Z0Uw)
 + [CompletableFuture 用不好，接口反而更慢](https://mp.weixin.qq.com/s/Lsu5b6VCJNz47OGRWU3zUA)
 + [电商下单性能翻倍：CompletableFuture 异步编排实战](https://mp.weixin.qq.com/s/QwzcnMf6ldDHNz4-ep09eA)
++ [异步任务编排架构实战：从 CompletableFuture 到 DAG 工作流引擎](https://mp.weixin.qq.com/s/KvMIzgTUDSJF-Yl0VKOtSw)
 
 ### ThreadPool
 
@@ -2630,6 +2641,8 @@
 + [MyBatis 源码深度拆解（三）：Mapper 接口动态代理底层原理](https://mp.weixin.qq.com/s/MYDbcNaa9j54860q5UV_ew)
 + [MyBatis 动态排序别乱用 ${}：ORDER BY 的安全写法](https://mp.weixin.qq.com/s/SyYudvbNQLO4y_KorEv3bw)
 + [第二十六章（MyBatis基础）](https://mp.weixin.qq.com/s/hlvY0Rv79SkGpXYBJCbvGg)
++ [MyBatis 多数据源下，select * 查出来全是 null？你可能踩了自动映射的坑](https://mp.weixin.qq.com/s/xqnXZ2tG65TnYJr6_zp3lw)
++ [MyBatis缓存机制](https://mp.weixin.qq.com/s/_nQOvAz3P5aYJqqXsV-5vg)
 
 ### plus
 
@@ -2705,6 +2718,7 @@
 + [别只会无脑接入Nacos！动态配置+灰度配置+集群高可用全踩坑复盘，搞定推送失效、数据不一致顽疾](https://mp.weixin.qq.com/s/j3rPWb0ouTNpmUd1XvmdGw)
 + [一文讲清：Nacos、Apollo、Spring Cloud Config——配置中心怎么选？](https://mp.weixin.qq.com/s/lmJ4uR4pqSfHBsiKfuYlXg)
 + [Nacos的RpcClient与Dubbo RocketMQ gRPC的客户端设计哪家强？](https://mp.weixin.qq.com/s/opENDPdC5OAqRk2RPa6ZPQ)
++ [Nacos从入门到精通：配置中心、注册中心、AI时代新特性，一篇全讲透](https://mp.weixin.qq.com/s/-vG-Ol-UICCTkpD2PaokeQ)
 
 ## netty
 
@@ -3111,6 +3125,7 @@
 + [Spring 7.0 正式发布啦！强大新特性强势来袭](https://mp.weixin.qq.com/s/lruPECqsFR4wk6jkRZVoTA)
 + [Spring 7.0.4 杀疯了，40 个新特性、15 个 Bug 修复、1 个死锁终结！](https://mp.weixin.qq.com/s/wtpx7ZxGJ_sh49OGGKjY9g)
 + [为什么Spring官方悄悄废弃了@Value？迭代了3年我终于理解了](https://mp.weixin.qq.com/s/iZ7Al3b3rgmQggIySlRpog)
++ [RestTemplate 已废弃！Spring7 RestClient 保姆级教程](https://mp.weixin.qq.com/s/d_jz4Df_r3Qvun37MFdtVA)
 
 ### web
 
@@ -3384,6 +3399,7 @@
 + [Spring设计模式大揭秘：23种模式藏在你每天在用的框架里](https://mp.weixin.qq.com/s/dLHb9Vt8PsMw_q_rBBR-IA)
 + [代理模式与门面模式：Spring 中最常用的两个模式](https://mp.weixin.qq.com/s/DstA9z3pEKNi-xGy3XzYyw)
 + [Spring 用到了哪些设计模式？你能答上来几个？](https://mp.weixin.qq.com/s/6RyLPTD-uCRKGbhCbZZdCQ)
++ [模板方法模式：Spring 源码里用得最多却最少被讲透的设计模式](https://mp.weixin.qq.com/s/v8tQvSy0ROwpOe7qlFstSg)
 
 ### STATEMACHINE
 
@@ -3668,6 +3684,7 @@
 + [百万并发下，Spring Cloud Gateway凭什么不崩？](https://mp.weixin.qq.com/s/oZ6GKQa4SDjXSKji9Pj0tw)
 + [十万个why：有了 Spring Cloud Gateway，为什么前面还得挡一层 Nginx？](https://mp.weixin.qq.com/s/-9qFfXe2lvRr4QxvdqYjxg)
 + [SpringBoot 服务网关：Spring Cloud Gateway 入门](https://mp.weixin.qq.com/s/lX3Q9IahHlsuElOK0jjnHQ)
++ [Spring Cloud Gateway 路由存数据库，改配置不用重启](https://mp.weixin.qq.com/s/HWqQDtCoxnebApWOgkUj1w)
 
 #### AI
 
@@ -3982,6 +3999,7 @@
 + [得物二面：SpringBoot 内部的启动流程是怎样的？我：没研究过...](https://mp.weixin.qq.com/s/cEB54rBMD8lS3a0H60dHMQ)
 + [springboot启动过程-源码](https://mp.weixin.qq.com/s/JaZEQH8FnG6X6rNIRUA4jA)
 + [Spring Boot启动原理深度剖析：用工厂场景讲透核心逻辑](https://mp.weixin.qq.com/s/yzwemyfFxQyD4-0wfMSDGA)
++ [面试题：Spring Boot 启动时，那些 Bean 到底是怎么自动“长”出来的？](https://mp.weixin.qq.com/s/U4dJ70ucjWbAVgo8Foprvg)
 
 #### 版本特性
 
@@ -5761,6 +5779,7 @@
 + [Android Studio Panda 4 来了！AGP 9.2 升级，同步稳定性大幅修复](https://mp.weixin.qq.com/s/jJVDirSv_trQELJDEidiEw)
 + [Compose跨平台新版本来了！测试 API 全废弃，iOS 崩溃集中修复](https://mp.weixin.qq.com/s/ttIs563zwlxJj-N4x-ijpQ)
 + [Compose踩坑Modifier顺序我终于搞懂了](https://mp.weixin.qq.com/s/enDPOpq0zLz8gxUN7lVwtw)
++ [Android Binder一次拷贝机制的实现原理](https://mp.weixin.qq.com/s/aluv8RLyIzDopJ0oCgeXEA)
 
 # 相关文章
 
@@ -6031,3 +6050,4 @@
 + [无慢SQL无高并发，数据库连接池直接爆满！JDBC连接泄漏不释放，线上服务静默雪崩完整复盘](https://mp.weixin.qq.com/s/Uze3Uo79eyVc5pI_-SOzmQ)
 + [后端开发必备：Java核心知识点全攻略，让你秒变技术大牛！](https://mp.weixin.qq.com/s/R2KVMJ8poEe0bkCFHeO8_Q)
 + [面试官问我延迟消息怎么实现，我用"定时炸弹"讲明白了](https://mp.weixin.qq.com/s/GgCivkNRnM7f8TcTtpxRdg)
++ [JAVA-WEB重难点（四）](https://mp.weixin.qq.com/s/Do4sOjMflXNXQ0E7Mk0OiA)

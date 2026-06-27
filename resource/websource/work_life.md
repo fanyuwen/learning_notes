@@ -170,6 +170,7 @@
 + [对于程序员而言，到底什么是成长性的工作？](https://mp.weixin.qq.com/s/p_sBKxLNCUlQ79wI0YjCBQ)
 + [干了 11 年前端，我越来越觉得技术不是最重要的](https://mp.weixin.qq.com/s/m70rJNDdOwo6s9R7fFcKmA)
 + [AI时代的程序员焦虑](https://mp.weixin.qq.com/s/cqeK-cuJFKpJ-2Y0hrtN_Q)
++ [半年没写过一行代码了](https://mp.weixin.qq.com/s/_1QbgnNp5r6sYklOYUbpUQ)
 
 # 个人成长
 

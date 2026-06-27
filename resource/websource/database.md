@@ -210,6 +210,7 @@
 + [分库分表全解析：如何有效解决MySQL单表数据量过大问题？](https://mp.weixin.qq.com/s/2c-Ln-2l_RfVqqNjZodrwA)
 + [分库分表后，数据库数据一致性问题如何解决？](https://mp.weixin.qq.com/s/XIpD50DN0Z2oIuw2ysekMA)
 + [分库分表核心原理以及分片策略](https://mp.weixin.qq.com/s/OykDi7V-mrXB4chqlU4SVg)
++ [订单数据库拆分实战：热库冷库方案，我们是这样做的](https://mp.weixin.qq.com/s/hnnzPzgPW1pg9DmlhfSv4w)
 
 ## 原理解析
 
@@ -516,6 +517,7 @@
 + [MySQL实践系列：连接报 Too many connections 错，你是继续加大连接数？（连接数管理）](https://mp.weixin.qq.com/s/tXeNpShDi5kIl5p62J7f_g)
 + [美团问烂了：MySQL 单表 1000 万，别上来就分库分表，别这样回答了](https://mp.weixin.qq.com/s/X5_JS2eSpFO9iHGbaaJBgg)
 + [字节面试官：MySQL IN 最多能放多少个值？90% 后端都答错底层逻辑！](https://mp.weixin.qq.com/s/GiR91kHeLGLeoq5gkbl-Ow)
++ [EXPLAIN 看不懂，敢说自己会SQL 优化就通了](https://mp.weixin.qq.com/s/_SZeeDBWhfBdALrGL-UdgA)
 
 #### 存储引擎
 
@@ -755,6 +757,7 @@
 + [拼多多三面：索引建了为啥不走？只懂最左前缀，你还只是皮毛](https://mp.weixin.qq.com/s/Vr97480T1WsnvR-fPwwydw)
 + [大厂一面：联合索引是 ABC，查 BCA 能走索引吗？](https://mp.weixin.qq.com/s/649m8oCONPaiVYg2SysyPQ)
 + [mysql索引数据结构](https://mp.weixin.qq.com/s/t2n_n5SoVecRLpfJ9bFt9A)
++ [索引明明建好，SQL却全表扫描！线上隐式类型转换导致索引失效，慢SQL悄无声息拖垮数据库](https://mp.weixin.qq.com/s/e1G-6OZClNfAvLEBmjlkAQ)
 
 ### PostgreSQL
 
@@ -1164,6 +1167,8 @@
 + [华为二面：Redis 分布式锁如何实现？（修订版）](https://mp.weixin.qq.com/s/BOBTHKRItLOiDwXFNTW2bQ)
 + [Redis 分布式锁的正确姿势：你写的可能是"假锁"](https://mp.weixin.qq.com/s/xcebr2qcRWzxmOHuLb4NAg)
 + [一文讲透 Redis 分布式锁：从 setnx 到 RedLock（含踩坑）](https://mp.weixin.qq.com/s/kxmxm3OdDviL8q2uRfaQ7g)
++ [美团面试官：用Redis实现分布式锁？你写的SetNX在线上就是个定时炸弹](https://mp.weixin.qq.com/s/DMYcJt5WcCPW8Fe3FhVPFA)
++ [一起拆解分布式锁：从单机并发到 Redis 分布式锁，库存超卖、限流难题一次性根治](https://mp.weixin.qq.com/s/0VkfZsFekz2coJcrjY3EhQ)
 
 #### 缓存
 

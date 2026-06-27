@@ -566,6 +566,7 @@
 + [为什么网卡上写的是 TX / RX，而不是 SEND / RECEIVE？](https://mp.weixin.qq.com/s/RuRx-jNeMP78IfBu8Vxixg)
 + [以太网为什么叫“以太网”？](https://mp.weixin.qq.com/s/NGkB7FOiM8RTZTjewZUOoQ)
 + [深度解析SD-WAN工作原理，从架构到转发，一文吃透技术核心！](https://mp.weixin.qq.com/s/WhTH92HFl4psMjDz6wP3uA)
++ [腾讯一面：路由器与交换机的区别是什么？我：咋还问网络相关的...](https://mp.weixin.qq.com/s/INZ76V3MpDosgpi8mWYuLw)
 
 ### DNS
 

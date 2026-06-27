@@ -3550,6 +3550,7 @@
 + [阿里又开源了一个顶级 Java 项目！](https://mp.weixin.qq.com/s/q9IhUxqwAY-huADwh9Qy1w)
 + [MateClaw：基于 Spring AI Alibaba 的开源多智能体 AI 操作系统（附架构详解）](https://mp.weixin.qq.com/s/6PB1l9wS1ZABquYIi4umYA)
 + [太强了！Spring AI 动态工具发现 节省 34%-64% Token](https://mp.weixin.qq.com/s/9o14UGBR68RoELKYMIuQVA)
++ [超越 JSON：Spring AI 多格式响应，TOON称王](https://mp.weixin.qq.com/s/hWdAtdHNftLt2w-GNvuZ1Q)
 
 ### cloud
 

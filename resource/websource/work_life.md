@@ -558,6 +558,7 @@
 + [奇思妙想——15位计算机天才及其重大发现](https://mp.weixin.qq.com/s/iMmsLT8xABOmu81gfAdk2A)
 + [Transformer传奇作者加入OpenAI！谷歌27亿美元也没留住](https://mp.weixin.qq.com/s/66qw0XAtyLM5JcZs1piVmQ)
 + [可以说一个比较小众的冷知识吗？](https://mp.weixin.qq.com/s/DJ33VmmTSNrjHjm1ktc2Qg)
++ [Linux一口气删掉近4000行代码！活了40年的苹果协议，最终竟被AI“送走”了……](https://mp.weixin.qq.com/s/tpf-8FQm3m3MkQWeMDhuag)
 
 ## 创业
 

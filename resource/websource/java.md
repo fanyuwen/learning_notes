@@ -125,6 +125,7 @@
 + [告别崩溃！20条异常处理军规](https://mp.weixin.qq.com/s/mYhB3cTpX-zJietIsr0k9w)
 + [字节面试：try-catch放for里还是外？90%人答反，老答案直接过时！](https://mp.weixin.qq.com/s/vxk0AnlUwY6AXHrJqktucg)
 + [try-catch、try-with-resources、自定义异常、全局异常处理——Java异常处理四件套](https://mp.weixin.qq.com/s/62DfyybNINqCrudWVR_9-Q)
++ [Java异常体系：避坑与面试攻略](https://mp.weixin.qq.com/s/Q2PQDX4eaPAoyWl7TbGnCQ)
 
 ### 枚举
 

@@ -177,6 +177,7 @@
 + cuda [cuda-python](https://nvidia.github.io/cuda-python)
 + 依赖注入DI [python-dependency-injector](https://python-dependency-injector.ets-labs.org/)
 + 响应式/流式编程 [rxpy](https://rxpy.readthedocs.io/)
++ 构建工具 [setuptools](https://setuptools.pypa.io/)
 
 ### JAVASCRIPT_TOOL
 + javascript运行时 [node](https://nodejs.org/) [bun](https://bun.sh/) [deno](https://deno.com/)

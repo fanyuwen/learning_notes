@@ -230,6 +230,8 @@
 + [面试官：Java 中接口和抽象类的区别是什么？怎么选择？](https://mp.weixin.qq.com/s/J7IJU4Ea_g3PnRrrAy-TjA)
 + [Java面向对象 | 彻底吃透封装、继承、多态](https://mp.weixin.qq.com/s/JL9yogEEpt32VTfb5yMz3A)
 + [面试官问我接口和抽象类的区别，我用"合同"讲明白了](https://mp.weixin.qq.com/s/TFRbtaeq5Mx0_0DDNEkJng)
++ [如何理解Java 的接口设计](https://mp.weixin.qq.com/s/WyQM7TovJLZIv6ONO6raIQ)
++ [Java 面向对象三大特性：封装、继承、多态一文全通](https://mp.weixin.qq.com/s/IjCo3E3SRebypH3odmIklg)
 
 ## 新语言特性
 
@@ -1686,6 +1688,7 @@
 + [线程池遇上 ThreadLocal：上下文传递与那些踩过的坑](https://mp.weixin.qq.com/s/MkMSsmD2X6nsML49ye25XA)
 + [生产环境 ThreadLocal 规范用法，彻底解决内存泄漏问题](https://mp.weixin.qq.com/s/160IkIq-oYAWk0g4xEVTng)
 + [ThreadLocal 在线程池里漏内存:Key 是弱引用,但 Value 不是](https://mp.weixin.qq.com/s/ceS5QMDmbuUZxDeRD2OmLA)
++ [凌晨三点排查内存泄漏：ThreadLocal 忘了 remove()，差点把服务器搞挂](https://mp.weixin.qq.com/s/jeVFUIGeN-zIzOAFlNiHZg)
 
 ## math库
 
@@ -2087,6 +2090,7 @@
 + [ConcurrentHashMap 是怎么做到线程安全的？CAS + synchronized 的组合拳，到底有多帅？](https://mp.weixin.qq.com/s/p_fm5p6U_TuVXZLXyFofSw)
 + [【Java集合讲透·Day02】死磕 ConcurrentHashMap：JDK7 分段锁 vs JDK8 无锁化革命，一文打尽底层玄机](https://mp.weixin.qq.com/s/fnP_1oG9XjdQuqYy0ixvEw)
 + [不锁整张表，线程怎么安全？（一文讲透ConcurrentHashMap）](https://mp.weixin.qq.com/s/xgWz90Mv15fl9LZeZR0DzQ)
++ [面试官问我ConcurrentHashMap，我用"停车场"讲明白了](https://mp.weixin.qq.com/s/623qUXBAtSGTRIFENGGkeA)
 
 ### 其它
 

@@ -178,6 +178,7 @@
 + [今天被问懵了，加密后的数据如何进行模糊查询？](https://mp.weixin.qq.com/s/WLMfWVDuKL0bAE5W8X32rA)
 + [营销自动化数据驱动 - 多源数据 OLAP 架构演进](https://my.oschina.net/vivotech/blog/19378831)
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/RLfmkamiqaGz6JMHchELSw)
++ [字节二面：线上DELETE忘加WHERE，拿什么救命？](https://mp.weixin.qq.com/s/PUeAMzZNiR6CwyYn1u5I8w)
 
 ### 读写分离&分库分表
 
@@ -211,6 +212,7 @@
 + [分库分表后，数据库数据一致性问题如何解决？](https://mp.weixin.qq.com/s/XIpD50DN0Z2oIuw2ysekMA)
 + [分库分表核心原理以及分片策略](https://mp.weixin.qq.com/s/OykDi7V-mrXB4chqlU4SVg)
 + [订单数据库拆分实战：热库冷库方案，我们是这样做的](https://mp.weixin.qq.com/s/hnnzPzgPW1pg9DmlhfSv4w)
++ [分区表实战 + 大表分表优化（千万级日志/订单表）](https://mp.weixin.qq.com/s/E93kxRUtRoZM0e9TbHs2cg)
 
 ## 原理解析
 
@@ -518,6 +520,10 @@
 + [美团问烂了：MySQL 单表 1000 万，别上来就分库分表，别这样回答了](https://mp.weixin.qq.com/s/X5_JS2eSpFO9iHGbaaJBgg)
 + [字节面试官：MySQL IN 最多能放多少个值？90% 后端都答错底层逻辑！](https://mp.weixin.qq.com/s/GiR91kHeLGLeoq5gkbl-Ow)
 + [EXPLAIN 看不懂，敢说自己会SQL 优化就通了](https://mp.weixin.qq.com/s/_SZeeDBWhfBdALrGL-UdgA)
++ [除索引优化外，MySQL性能提升的其他方法](https://mp.weixin.qq.com/s/tT3gp8NPM8mK9hwuJMU2lw)
++ [面试官：千万级订单表加字段，你敢直接ALTER？](https://mp.weixin.qq.com/s/ccQYL-YK7tBfRkkxgeH7cQ)
++ [详解 MySQL 慢 SQL 定位全流程 + 慢查询日志开启配置](https://mp.weixin.qq.com/s/_-8zkHwx7id6BAbbWIprgA)
++ [MySQL之Join的原理](https://mp.weixin.qq.com/s/52s2dwaVlpBZZgnUDeYEqQ)
 
 #### 存储引擎
 
@@ -622,6 +628,7 @@
 + [MySQL 锁 6 大类、8 种锁、10 道高频题，面试前看这一篇就够了！MySQL 锁 6 大类、8 种锁、10 道高频题，面试前看这一篇就够了！](https://mp.weixin.qq.com/s/K4ChxlLt3xxEWbMTYo9TYQ)
 + [MySQL批量插入死锁，生产环境第一次遇到](https://mp.weixin.qq.com/s/-jDp3rVEijhLpt75zzibIA)
 + [深入解析 InnoDB 三大锁机制：表锁、行锁、意向锁](https://mp.weixin.qq.com/s/OgMCr3ZU5J3ZKTleNmU_Ng)
++ [InnoDB 行锁失效的 5 个常见场景，一张图全搞定](https://mp.weixin.qq.com/s/LElU1N1KQSZTavVQvyDNVw)
 
 #### 事务
 
@@ -1067,6 +1074,7 @@
 + [Redis缓存过期为什么会造成系统出现毛刺现象](https://mp.weixin.qq.com/s/OqqoP-oEOF7U_bIm_iZ9zw)
 + [Redis集群模式下确保Key在同一Slot的实现方法](https://mp.weixin.qq.com/s/WM7m1ioSi-RiLa-PAkE8dA)
 + [阿里面试官：Redis一致性答"延时双删"的直接挂，这才是生产级答案](https://mp.weixin.qq.com/s/fagL1-veH7EEza98drpjGA)
++ [Redis持久化——RDB vs AOF，生产环境到底该怎么选？](https://mp.weixin.qq.com/s/UTqqHhls5B6jlrfNBAYW8A)
 
 #### 原理
 
@@ -1133,6 +1141,7 @@
 + [滴滴二面：谈一下你对持久化机制AOF的理解](https://mp.weixin.qq.com/s/2iXlsEgEb0CtDdM25_5L0g)
 + [Redis 过期键删除策略及应用场景详解](https://mp.weixin.qq.com/s/TytZ9qyjpC7aCcSNF8aX3A)
 + [面试官：ZSet 的底层实现是什么？（修订版）](https://mp.weixin.qq.com/s/blyK0b2VKXYZfxA07pkhAw)
++ [Redis 深度解析：从底层原理到实战调优](https://mp.weixin.qq.com/s/di41RRvln94eN2G5tOqcpQ)
 
 #### 分布式锁
 

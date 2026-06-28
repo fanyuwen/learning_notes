@@ -431,6 +431,7 @@
 + [线上CPU飙到100%？这套排查方法论建议收藏，关键时刻能救命](https://mp.weixin.qq.com/s/yn3osOsQMTUBtMReGwa1bQ)
 + [面试官问我线上CPU 100%，我查了半天发现是它的问题](https://mp.weixin.qq.com/s/TCmPyWNzWouWFPuCIzOFqg)
 + [半夜CPU飙到100%，我用4步锁定元凶](https://mp.weixin.qq.com/s/_aa5PJLqg69o14pVaR8d7Q)
++ [搞懂 CPU 缓存系统的底层逻辑，才算真正吃透高性能系统调优](https://mp.weixin.qq.com/s/-oUdJDln7fR5tqBM4b_C7A)
 
 ### 并发
 
@@ -774,6 +775,7 @@
 + [终于找到一个好用的Nginx日志分析工具了](https://mp.weixin.qq.com/s/jYwVPso5KZMoWVv-n5O4Cg)
 + [【Nginx】 访问的url不知道具体走的哪个location块，那是你没搞懂它的优先级](https://mp.weixin.qq.com/s/01E0We3GElr9jiDh0XYrWQ)
 + [你的upstream还没加keepalive？等着凌晨被叫醒吧](https://mp.weixin.qq.com/s/7kvLCLP_jnx7oevHhiqwkw)
++ [高并发场景下，Nginx如何做限流？](https://mp.weixin.qq.com/s/EFd0W0Yum1U16r82TvOwtw)
 
 ### wireshark
 

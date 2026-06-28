@@ -367,6 +367,7 @@
 + [10个Windows操作，职场新人早学早省事](https://mp.weixin.qq.com/s/6g68N5_rILCndMJYXUyyUQ)
 + [电脑不在身边也能派活？WorkBuddy微信远程指挥的10个场景，太实用了](https://mp.weixin.qq.com/s/_-Jiz4W8HjjoxrhjjbPn7g)
 + [用这组快捷键，你的Windows操作速度提升3倍](https://mp.weixin.qq.com/s/XU6JC4zjj1t_5Q_DrJUcmg)
++ [10个电脑常用的快捷键，提升电脑操作能力](https://mp.weixin.qq.com/s/r0lE_TLgRhnxZ9CBJBl7Aw)
 
 ## 开源资源
 
@@ -441,6 +442,7 @@
 + [IntelliJ IDEA 从卡顿到起飞，只用改这些。。。](https://mp.weixin.qq.com/s/Z8v6aOgyJee0q0jMVRT_wQ)
 + [看了我的IDEA使用技巧，同事也开始悄悄模仿了...](https://mp.weixin.qq.com/s/gzld_RX7_7XPb0YEImw6PQ)
 + [IDEA调试技巧不只是打断点](https://mp.weixin.qq.com/s/0c4lqbSl5Hv7lmnBEnMtZg)
++ [IDEA Git 操作避坑指南](https://mp.weixin.qq.com/s/OptROETKDnohdBsQYbXoxg)
 
 ## MAC_PRO相关
 
@@ -673,6 +675,7 @@
 + [程序员可以知道的「宝藏」书单](https://mp.weixin.qq.com/s/rCKC89TlRraqKhAqiDKisQ)
 + [Linux 内核泰斗亲撰：这本并行编程圣经，终于出第 2 版了](https://mp.weixin.qq.com/s/lyq4D0HFb7QbzpNVUDd2Iw)
 + [《软件设计的哲学》：复杂性的本质与模块化设计](https://mp.weixin.qq.com/s/gXhOwvKH5t6BxsxcoqUS2w)
++ [为什么你的代码总是越写越乱？ 读《整洁架构之道》](https://mp.weixin.qq.com/s/r62IjzyGf51k8tqgqLq72g)
 
 ### 生活
 

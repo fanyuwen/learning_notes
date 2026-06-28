@@ -112,6 +112,8 @@
 + [业务架构是“玄学”吗？揭秘四大要素，带你透彻理解它的底层逻辑](https://mp.weixin.qq.com/s/BPvbxh3zKqmDiNDQW6JQKQ)
 + [字节跳动面试反问一句：你简历里写"三高架构"，高性能和高可用打起来你站谁？](https://mp.weixin.qq.com/s/VerQfOWLezwGHO3rnfYewQ)
 + [多个方案都合理时如何判断先做什么](https://mp.weixin.qq.com/s/DOqVBl6nJpXCXqng0Ah8ag)
++ [订单冷热拆分架构设计](https://mp.weixin.qq.com/s/lR2--gfZZmHc8JenE-AZmw)
++ [【架构设计】MVC、MVP、MVVM](https://mp.weixin.qq.com/s/Thg8DLlzCfeoffD97AL0iA)
 
 ### DDD
 
@@ -384,6 +386,8 @@
 + [架构师必备：分布式事务方案选型](https://mp.weixin.qq.com/s/uBoAQX8Ua-yUEEBsjJaCdQ)
 + [分布式事务一致性，面试这样答直接拿满分](https://mp.weixin.qq.com/s/xIszi_KQZrtipjiwqPy4ng)
 + [项目如何选择Seata-AT、TCC和Saga等分布式事务解决方案](https://mp.weixin.qq.com/s/cMxfvfhmC8HOAUIC8tZqxw)
++ [《分布式事务的7种方案对比与踩坑记录》](https://mp.weixin.qq.com/s/ReR7l-1dECEtIogsjQWinw)
++ [分布式事务实战：3种方案解决跨库数据一致性问题](https://mp.weixin.qq.com/s/R_0JndWnIDERB61bsMQp6Q)
 
 ## 分布式算法
 
@@ -402,6 +406,7 @@
 + [常见一致性哈希算法简析](https://mp.weixin.qq.com/s/4uBOZDNsZN2h_Shslyiqyw)
 + [如何理解分布式领导者复制算法模型](https://mp.weixin.qq.com/s/Pv03ojb74FQrqOnJOSGmyQ)
 + [深入理解分布式共识算法 Raft](https://my.oschina.net/u/4090830/blog/18822556)
++ [分布式共识：Raft 算法全景解析](https://mp.weixin.qq.com/s/CCA3FPFf4nU5tvKTI8FdEA)
 
 # 组件设计
 
@@ -532,6 +537,7 @@
 + [限流算法](https://mp.weixin.qq.com/s/oE2FKwE6qn1KYRa-hOpmEA)
 + [面试官：高并发场景下，一个好的熔断策略该怎么设计？](https://mp.weixin.qq.com/s/aH9kP_KqCd9I1wKBrcmbow)
 + [高并发系统三板斧：限流、熔断、降级实战落地](https://mp.weixin.qq.com/s/gRG_zPWjgtkparDqqp17PQ)
++ [常见的限流算法](https://mp.weixin.qq.com/s/Xx60L649hBHMe8gMVI65Jw)
 
 ### 大文件IO
 
@@ -615,6 +621,7 @@
 + [【Redis 讲透·Day01】Redis 缓存杀手：击穿、穿透、雪崩，从原理到代码一次讲透](https://mp.weixin.qq.com/s/L1pInuViJtffsq5XHMWnLQ)
 + [亿级流量下缓存一致性的终极方案：Canal + MQ + 本地缓存](https://mp.weixin.qq.com/s/olJFOOF9Z2HpNnTDy0CGrg)
 + [缓存方案怎么选：本地缓存、Redis、多级缓存，不同场景不同答案](https://mp.weixin.qq.com/s/4Oetc919FeDZ5rQP_qok7g)
++ [试背了 100 遍的"击穿穿透雪崩"，生产里到底怎么防](https://mp.weixin.qq.com/s/SQ9f806fVPFFowyqBOCeNg)
 
 ## 优化
 
@@ -701,6 +708,7 @@
 + [危险！请马上停止使用JWT！！！](https://mp.weixin.qq.com/s/Dc1nTHmWWoNg1c_-5fBT4w)
 + [JWT和Sign签名别再傻傻分不清！一张表告诉你什么时候该用谁](https://mp.weixin.qq.com/s/uOnlAlM8z1mC5c85bXA9bA)
 + [十万个why：为什么 JWT 明明主打“无状态、不用查库”，实际业务咋还得存个 Redis？](https://mp.weixin.qq.com/s/xIoPA1ua160N3PFHpnSFnQ)
++ [Session、Token、JWT、SSO、OAuth 认证体系详解](https://mp.weixin.qq.com/s/cKeH5ijjWrKfOHnbxOOxlw)
 
 ## 存储
 
@@ -817,6 +825,7 @@
 + [十万个why：都说延迟双删能保证缓存一致性，为什么高并发下它根本不靠谱？](https://mp.weixin.qq.com/s/KCkBiNxppo5Ca6q1BROAaQ)
 + [认知跃迁18-高可用设计真功夫](https://mp.weixin.qq.com/s/6_DcBlGBuKJf_D6H6DX2kA)
 + [后端实战：一次自动核销接口 504 的排查与优化](https://mp.weixin.qq.com/s/OebMSj-t2gq5meaLGDZ8nw)
++ [你写代码的方式，暴露了你有没有状态机思维](https://mp.weixin.qq.com/s/1a5tTTpFMabecnqE4Cs_qQ)
 
 # 测试相关
 
@@ -992,6 +1001,10 @@
 + [并发和并行区别详解(图文全面总结)](https://mp.weixin.qq.com/s/8rCa2AElqJNX-XlLRvyOeQ)
 + [高并发系统的艺术：如何在流量洪峰中游刃有余](https://my.oschina.net/u/4090830/blog/18682939)
 + [并发编程的 “隐形陷阱”：同步问题的本质与解法](https://mp.weixin.qq.com/s/1uZBiwDKArz2MHAHoStqVQ)
+
+### 函数式编程
+
++ [写了十年代码才懂：函数式编程才是程序员的终极审美](https://mp.weixin.qq.com/s/URqK1tRTozk5_8yQMpJypA)
 
 ## 开发流程
 

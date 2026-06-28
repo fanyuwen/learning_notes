@@ -105,6 +105,7 @@
 + [AI时代来了，Java程序员不会这些名词，面试真的有点危险了](https://mp.weixin.qq.com/s/2vLDqaUGUaiCbwH_agfxCA)
 + [别再收藏 AI 教程了，真正厉害的人已经开始搭工作流了](https://mp.weixin.qq.com/s/jgehpVPQoUkGykXMft3b-g)
 + [一文带你搞懂 AI Agent：Agent、Skill、插件、MCP……这些词到底有啥区别？](https://mp.weixin.qq.com/s/rJ5kSBHBtf2fqNZopXCcBQ)
++ [AI 工程师路线图：从入门到架构师的完整路径|干货](https://mp.weixin.qq.com/s/RfBwNgMRnNNkZPsJCjN5-Q)
 
 ### agent
 
@@ -182,6 +183,7 @@
 + [这位老哥搞了一门新的编程语言，5年烧了500万美元，最后完全转向TypeScript。](https://mp.weixin.qq.com/s/10AwAwVYC8K8GcfOlSjRZA)
 + [16亿Windows用户，一夜冲进Agent时代！](https://mp.weixin.qq.com/s/yrKrZf_mi5R4EHMia0KWFA)
 + [普通人用AI不需要关注Tokens 的消耗](https://mp.weixin.qq.com/s/5JJfs71q3jlF6cekO5W37g)
++ [Anthropic指控阿里"提取"了Claude的能力，2.5万个账户、2880万次交互](https://mp.weixin.qq.com/s/9pmNJe_LJ36ZJ24CKfHN8w)
 
 ## Transformer
 

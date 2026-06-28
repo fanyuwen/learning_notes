@@ -78,6 +78,7 @@
 + [Kotlin + Spring Data JDBC 实战：简洁、可控的持久化方案｜官方博客](https://mp.weixin.qq.com/s/Rlt9Cqdb8ey2vfX00VtdYg)
 + [当 Jetpack Compose 遇上跨端原生渲染：Kuikly Compose DSL 的探索之路｜社区分享](https://mp.weixin.qq.com/s/0DE8AQjJzvydl1PBUkhMMg)
 + [如何在 Kotlin 项目中优雅地使用 Spring Data JPA｜官方博客](https://mp.weixin.qq.com/s/yRPeZsFUJIzDlaAlKONigw)
++ [协程这样理解比较容易懂](https://mp.weixin.qq.com/s/EK1ZtaH88KeyAt2UjOM0Ew)
 
 ## 技术月报
 
@@ -109,3 +110,4 @@
 + [Koin Annotations 2.2: 迄今为止最易于迁移的版本｜社区分享](https://mp.weixin.qq.com/s/cSsyK9UfIvK28jINIO2avQ)
 + [Kotlin 2.4.0 正式发布，快来看看有哪些更新](https://mp.weixin.qq.com/s/IYk8aHkklqRCG12fgPqiyg)
 + [Compose Multiplatform 1.10 发布：里程碑式更新！](https://mp.weixin.qq.com/s/zO0DUPGSxZKwroOjcq1vvg)
++ [从 Kotlin 编译器 API 的变化开始: 2.4.0](https://mp.weixin.qq.com/s/NS6P37Vk3yNgxgRByg5Eow)

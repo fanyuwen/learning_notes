@@ -113,6 +113,8 @@
 + [Kubernetes(k8s)-Pod创建流程](https://mp.weixin.qq.com/s/a_v2Nfm_QyQBksUuTP_KFQ)
 + [K8s 源码 - workqueue 所有细节](https://mp.weixin.qq.com/s/AfH3SzkzoDuWa-Gc3yCu_A)
 + [Kubernetes(k8s)-常用命令(kubectl命令)](https://mp.weixin.qq.com/s/Ak1lytD5qWWgyyDmRIJk4A)
++ [K8s 调度器黑盒全拆解：拓扑约束里的数学坑，真的会把人绕晕](https://mp.weixin.qq.com/s/RcgcY1c0s2pM9ajzxm3aeA)
++ [线上出了问题才知道？K8s监控体系从0搭建，问题提前10分钟发现](https://mp.weixin.qq.com/s/xYlGc4sRgYNx1PUT6SbCfA)
 
 ## Prometheus
 

@@ -344,6 +344,7 @@
 # sse
 
 + [从 WebSocket 到 SSE，实时通信的轻量化趋势](https://mp.weixin.qq.com/s/ALZkwO4gB1IN0SQO3_s3_Q)
++ [sse+redis渐进式异步数据加载](https://mp.weixin.qq.com/s/ggVC1-UTd6v7Nw3hgNdk5w)
 
 # 工具
 
@@ -449,6 +450,7 @@
 + [面试官问：Proxy 可以代理另一个 Proxy 吗？很多人答错了](https://mp.weixin.qq.com/s/LYKsWPu0P8RXwRTDgOWJfA)
 + [下载 5GB 文件导致浏览器崩溃？教你用 Fetch 流式直写硬盘，内存 0 消耗！](https://mp.weixin.qq.com/s/ZgISvFrCePOj9uC6wewEBQ)
 + [Proxy 捕获器参数详解：看懂 receiver，你就超过80%的开发者](https://mp.weixin.qq.com/s/Vbk2wMhGvmQkHoWbOHmw8A)
++ [面试必问：JavaScript Proxy 最大的两个坑，90%的人答不全！](https://mp.weixin.qq.com/s/HB13WzbobwXpPCDIqgewjg)
 
 # 杂谈
 

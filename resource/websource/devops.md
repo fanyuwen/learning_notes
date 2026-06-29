@@ -26,6 +26,7 @@
 + [5分钟的CICD-服务器监控搭建（一）](https://mp.weixin.qq.com/s/6vQzogshKMtDCSd19-y--g)
 + [字节跳动 EB 级日志系统设计与优化实践](https://my.oschina.net/u/6800876/blog/17884414)
 + [一文说清部署架构](https://my.oschina.net/xiandafu/blog/19689841)
++ [CI/CD 流水线滥用：一个无人真正关注的问题](https://my.oschina.net/u/3343882/blog/19710351)
 
 ## JENKINS
 

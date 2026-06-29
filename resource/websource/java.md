@@ -5567,6 +5567,7 @@
 + [面试官：为什么 Tomcat 默认最大线程数是 200，而不是 N+1？](https://mp.weixin.qq.com/s/Qtiytcnk6qUmM6b8VyJrxg)
 + [面试官：Cookie、Session、Token 的区别是什么？](https://mp.weixin.qq.com/s/GKoeNbNFT9CYZmLoMPIGhA)
 + [Tomcat 原理分析](https://mp.weixin.qq.com/s/VsLmqUommqepniy-r-7bIQ)
++ [Servlet 其实从一开始就不是为现代 Web 设计的](https://my.oschina.net/u/2385344/blog/19707494)
 
 ## xxl-job
 

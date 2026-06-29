@@ -111,3 +111,4 @@
 + [Kotlin 2.4.0 正式发布，快来看看有哪些更新](https://mp.weixin.qq.com/s/IYk8aHkklqRCG12fgPqiyg)
 + [Compose Multiplatform 1.10 发布：里程碑式更新！](https://mp.weixin.qq.com/s/zO0DUPGSxZKwroOjcq1vvg)
 + [从 Kotlin 编译器 API 的变化开始: 2.4.0](https://mp.weixin.qq.com/s/NS6P37Vk3yNgxgRByg5Eow)
++ [Kotlin Multiplatform 项目的新默认项目结构｜官方博客](https://mp.weixin.qq.com/s/g8UnaI2VavSnUq2p6VXI2w)

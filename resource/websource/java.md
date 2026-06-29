@@ -702,6 +702,7 @@
 + [《Effective Java》解读第54条：返回零长度的数组或者集合，而不是null](https://mp.weixin.qq.com/s/IOh7zHUV3Ubto8xEMp4IYw)
 + [面试官：你这段代码有N+1问题吗？我当场懵了...](https://mp.weixin.qq.com/s/csfZWl4vCkDYDxWnwuDNPw)
 + [这10个Bug差点让我被开除，血泪教训](https://mp.weixin.qq.com/s/E5nxKIZ_Lnk-3CdTgqRrOA)
++ [别再堆砌“屎山”了！送你10个Java代码整洁术](https://mp.weixin.qq.com/s/bkugq9qtPWEl_hlNGsNW0g)
 
 # 底层
 
@@ -2150,6 +2151,7 @@
 + [延迟任务DelayQueue够用，但为什么大厂都在用时间轮](https://mp.weixin.qq.com/s/ypRjBJse7Zy76RI28k-CZA)
 + [吃透AQS与三大并发工具：别再分不清CountDownLatch、CyclicBarrier、Semaphore](https://mp.weixin.qq.com/s/zIzcpxOGndx0yQHXlTJHEQ)
 + [多线程项目场景：CountDownLatch、Future、Semaphore](https://mp.weixin.qq.com/s/ZHUQHDvXnzIQhvQ21GUf5Q)
++ [面试官：CountDownLatch、CyclicBarrier、Semaphore 的区别？](https://mp.weixin.qq.com/s/1-n-WGV6Crna0I8PoAv-EQ)
 
 ## IO/NIO
 
@@ -2721,6 +2723,7 @@
 + [一文讲清：MyBatis、MyBatis-Plus、JPA、QueryDSL——Java数据访问层怎么选？](https://mp.weixin.qq.com/s/x1CrL901IHsPGGVT11zw7A)
 + [MyBatis Plus 封神玩法：这12个骚操作让开发效率直接起飞！](https://mp.weixin.qq.com/s/4y7nDVJs4rR8kG8wUsksXw)
 + [mybatisPlus Pro  在mybatisPlus 的基础上又升级了](https://mp.weixin.qq.com/s/je_CpkqjJYeODaFWkKsOuA)
++ [MyBatis Plus 封神玩法：这12个骚操作让开发效率直接起飞！](https://mp.weixin.qq.com/s/CoHtu4nEDsn5x3zT3TUKWw)
 
 ## nacos
 
@@ -3969,6 +3972,7 @@
 + [拒绝埋雷！盘点 Spring Boot 生产环境的 7 大 "性能杀手"](https://mp.weixin.qq.com/s/PzsbepInr8dQimI0cZOMxg)
 + [高并发下的Java池化技术：资源复用与性能优化](https://mp.weixin.qq.com/s/T76fc7e3CLB2c_cCt6wpPw)
 + [面试官：SpringBoot启动慢怎么排查？我：从7步流程到Bean级监控，直接拿下offer](https://mp.weixin.qq.com/s/OGcdu_pS9IKDcLPniI_Y-Q)
++ [为什么使用@Bean而不使用@Component？这个坑带来严重bug](https://mp.weixin.qq.com/s/wN1iv97qJ8_HvkIFEHJOEw)
 
 ##### 原理
 
@@ -4650,6 +4654,11 @@
 + [SpringMVC 核心原理](https://mp.weixin.qq.com/s/524J24MtJcbdshWiD7T5PA)
 + [从 Spring MVC 到 Spring Boot：注解的演进与简化之路](https://mp.weixin.qq.com/s/eF9lEqgefWpSDhvoorhvUg)
 + [Spring Boot API 性能优化：9 个技巧榨干每一毫秒](https://mp.weixin.qq.com/s/Cpx7VdjYsxwVbyNOM81EKg)
++ [代码量直降 30%！这个开源组件，零侵入统一 Controller 响应](https://mp.weixin.qq.com/s/1xgrMhODvruESYrHE0tlPg)
++ [别再手动 if-else 了！Spring Boot 局部更新神器 @JsonMerge](https://mp.weixin.qq.com/s/OW1pgwq5qpNRWVnuLn9haQ)
++ [放弃传统 JSON 解析！Spring Boot API 接口性能提升了 30 倍](https://mp.weixin.qq.com/s/IQmPsqeoko-LbLQcSdut5g)
++ [4 种方案，解决 Spring Boot 关联实体 JSON 输出错误（no Session）](https://mp.weixin.qq.com/s/25ciRI6_4zw2C1cHQIbYzQ)
++ [Controller接口设计的4种高级方法](https://mp.weixin.qq.com/s/ryyOoD3v24lcj2tYofjNgQ)
 
 ##### 文件上传下载
 
@@ -5071,6 +5080,7 @@
 + [全场景实战：Spring Boot + MDC：实现异步线程池链路追踪](https://mp.weixin.qq.com/s/wkUtTfJq6bGS-gPMtq-OFQ)
 + [现代 Spring Boot 日志全攻略：8大场景一网打尽](https://mp.weixin.qq.com/s/lfzAp3LdVvVxSgnvW3kZmQ)
 + [Spring Boot 整合 Logback 日志框架实战指南](https://mp.weixin.qq.com/s/KlhUkKXXb44D7CECc146nQ)
++ [天天打 Log，你管这叫“无损”？写错一个日志，Spring Boot 吞吐量直接腰斩！](https://mp.weixin.qq.com/s/KJ8-XdO8ZkG-xeUN1jCG_g)
 
 #### 安全
 
@@ -5165,6 +5175,7 @@
 + [RSocket vs WebSocket：Spring Boot 3.3 中的两大实时通信利器](https://mp.weixin.qq.com/s/6JH6xAChOT2PtoGoDf5_JQ)
 + [Spring Boot 3.3与RSocket完美集成：构建高性能异步消息传递系统](https://mp.weixin.qq.com/s/Fbe6TJ9ddJymqN4FneRYYQ)
 + [Spring Boot 3.3与Spring Integration：构建可扩展的消息驱动架构](https://mp.weixin.qq.com/s/rUTegDv7AGpqjwaTSc9AGA)
++ [Spring Boot + Kafka，实时跟踪长时间运行任务](https://mp.weixin.qq.com/s/ibxkVE2ButhJPtUJ8txJ4A)
 
 #### 配置打包部署
 
@@ -5261,6 +5272,7 @@
 + [Springboot配置文件自动加解密](https://mp.weixin.qq.com/s/in9BqYivojyhkwOLm8m6kw)
 + [Spring Boot 配置文件管理：从"一团乱麻"到"井井有条"](https://mp.weixin.qq.com/s/KfI4sDwwNGsrUS8XLoeOlg)
 + [Spring Boot 3 自动配置原理全拆解](https://mp.weixin.qq.com/s/1fjocEo4YvozA-gf1kH0hw)
++ [绝不依赖第三方！手写 Spring Boot 敏感配置动态解密组件](https://mp.weixin.qq.com/s/h4MZQX3jKZ6oSV3qVZ671w)
 
 #### 集成三方
 
@@ -5480,6 +5492,7 @@
 + [吃透 ShardingSphere：核心架构 + 选型思路 + 集成Spring Boot 集成落地路径全攻略](https://mp.weixin.qq.com/s/9AqJlfTjK0G-3w0w_EHpdQ)
 + [SpringBoot地铁ISCS实战第十一篇：全自动运行综合监控场景联动引擎完整落地](https://mp.weixin.qq.com/s/T8UKTnV9hZxWVYB3QMYifQ)
 + [SpringBoot 服务注册与发现：Nacos/Consul/Eureka](https://mp.weixin.qq.com/s/3hU07PKfzvd9_e-AmH6VBg)
++ [Spring Boot + Yauaa，请求客户端信息（设备、操作系统、浏览器）超精准解析](https://mp.weixin.qq.com/s/hPgk2geh5hAqWp-6qdpxEA)
 
 ##### excel
 
@@ -5831,6 +5844,7 @@
 # 相关文章
 
 + [Java行业的现状与未来：挑战与机遇并存，普通人咋破局？](https://mp.weixin.qq.com/s/r-gCIVLRIwKk8O6u_0kV5A)
++ [Spring 创始人最新访谈：我用 AI 写了 95% 的代码，但如果你不懂架构，AI agent 只会让你更快地写出烂代码。。。](https://mp.weixin.qq.com/s/tkIIHAp4DR1W0pCMTBnRdQ)
 + [Java 性能调优全攻略：步骤、工具、技巧一网打尽](https://mp.weixin.qq.com/s/-ffrJqL6uDHJab4waZXEQg)
 + [Java中的5大AI框架！](https://mp.weixin.qq.com/s/kGJi-n3tGfRhMi_VXMS0_g)
 + [90% 的人都写错了！Java REST API 设计的“标准答案”到底是什么？](https://mp.weixin.qq.com/s/Hk5o1cUH_cgAkouWkUsDNw)

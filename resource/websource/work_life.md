@@ -676,6 +676,7 @@
 + [Linux 内核泰斗亲撰：这本并行编程圣经，终于出第 2 版了](https://mp.weixin.qq.com/s/lyq4D0HFb7QbzpNVUDd2Iw)
 + [《软件设计的哲学》：复杂性的本质与模块化设计](https://mp.weixin.qq.com/s/gXhOwvKH5t6BxsxcoqUS2w)
 + [为什么你的代码总是越写越乱？ 读《整洁架构之道》](https://mp.weixin.qq.com/s/r62IjzyGf51k8tqgqLq72g)
++ [从书架上挑选了10本好书，每一本都值得反复阅读](https://mp.weixin.qq.com/s/KVMZduS_5cj-i-dK-sJFiw?click_id=331900574)
 
 ### 生活
 

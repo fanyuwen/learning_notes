@@ -2432,10 +2432,6 @@
 
 + [Eureka 详解](https://mp.weixin.qq.com/s/PCVW3U_k9zYxoSWpBFh_0g)
 
-## fastjson
-
-+ [Fastjson为何这么快？](https://mp.weixin.qq.com/s/egQog_iKiTMoYTv54H5RNQ)
-
 ## fastUtil
 
 + [还在用 JDK 原生集合? FastUtil 高性能集合快 2 ~ 5 倍!](https://mp.weixin.qq.com/s/zKEo75MIu1Q_4R4S_ygBNA)
@@ -2498,6 +2494,15 @@
 + [Fastjson为啥老出事？3分钟讲透反序列化漏洞](https://mp.weixin.qq.com/s/g_uCYVTvdTnBBGcnQ9dvGw)
 + [从 JSON 字符串到 Java 对象：Fastjson 1.2.83 全程解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695791)
 + [Java 中 JSON 字段不固定怎么搞序列化？用好这两个注解就够了！](https://mp.weixin.qq.com/s/RG8Ayo8cxWPjPAi6K-TJgw)
+
+### jackson
+
++ [Java JSON Jackson Introduction](https://studytrails.com/2016/09/10/java-jackson-introduction/)
++ [Jackson, JSON Java Processor Tutorials](https://www.logicbig.com/tutorials/misc/jackson.html)
+
+### fastjson
+
++ [Fastjson为何这么快？](https://mp.weixin.qq.com/s/egQog_iKiTMoYTv54H5RNQ)
 
 ## LangChain4j
 

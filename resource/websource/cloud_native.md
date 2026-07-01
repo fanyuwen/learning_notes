@@ -20,6 +20,7 @@
 
 + [为什么公共云的弹性能力很难被发挥出来？](https://my.oschina.net/u/6852546/blog/11053253)
 + [应用程序容器化后，为什么性能下降这么多？](https://mp.weixin.qq.com/s/P-J1E1_txS-OiSAkaJ4-ow)
++ [容器里的JVM：别只盯-Xmx](https://mp.weixin.qq.com/s/nyqzwhtqLedmWfY2HcoSTQ)
 
 # 实践
 

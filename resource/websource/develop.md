@@ -694,6 +694,7 @@
 + [优雅的接口防刷处理方案](https://mp.weixin.qq.com/s/sTcizm2HPrhTM6LUD4adWQ)
 + [面试官：对称加密和非对称加密有什么区别？](https://mp.weixin.qq.com/s/TpixgsjKKa57vnQVq0ypfQ)
 + [一文吃透支付网关设计（多通道聚合 + 智能路由 + 商户入驻全流程）](https://mp.weixin.qq.com/s/T-H2ohWRFa6pa6Z1DuPYeA)
++ [为什么大厂不敢用 MD5 存密码？Bcrypt 和 JWT 的底层安全机制一次讲透](https://mp.weixin.qq.com/s/GVNJFATlccKQjE35aYLjZQ)
 
 ### 鉴权
 
@@ -828,6 +829,7 @@
 + [认知跃迁18-高可用设计真功夫](https://mp.weixin.qq.com/s/6_DcBlGBuKJf_D6H6DX2kA)
 + [后端实战：一次自动核销接口 504 的排查与优化](https://mp.weixin.qq.com/s/OebMSj-t2gq5meaLGDZ8nw)
 + [你写代码的方式，暴露了你有没有状态机思维](https://mp.weixin.qq.com/s/1a5tTTpFMabecnqE4Cs_qQ)
++ [领域事件：让上下文之间解耦通信](https://mp.weixin.qq.com/s/XjeJXlYgp3NPw5qOmGwvCw)
 
 # 测试相关
 

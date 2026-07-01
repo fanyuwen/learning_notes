@@ -180,6 +180,7 @@
 + [营销自动化数据驱动 - 多源数据 OLAP 架构演进](https://my.oschina.net/vivotech/blog/19378831)
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/RLfmkamiqaGz6JMHchELSw)
 + [字节二面：线上DELETE忘加WHERE，拿什么救命？](https://mp.weixin.qq.com/s/PUeAMzZNiR6CwyYn1u5I8w)
++ [一文讲透 Redis 与 MySQL 双写一致性：延迟双删、MQ、Canal 全解析](https://mp.weixin.qq.com/s/sVq6UVH5X_9DHxD_-iAY6Q)
 
 ### 读写分离&分库分表
 
@@ -630,6 +631,7 @@
 + [MySQL批量插入死锁，生产环境第一次遇到](https://mp.weixin.qq.com/s/-jDp3rVEijhLpt75zzibIA)
 + [深入解析 InnoDB 三大锁机制：表锁、行锁、意向锁](https://mp.weixin.qq.com/s/OgMCr3ZU5J3ZKTleNmU_Ng)
 + [InnoDB 行锁失效的 5 个常见场景，一张图全搞定](https://mp.weixin.qq.com/s/LElU1N1KQSZTavVQvyDNVw)
++ [面试题库：MySQL 间隙锁（Gap Lock）是什么？](https://mp.weixin.qq.com/s/QJ_hAo4VE933jQc-5nMRkA)
 
 #### 事务
 
@@ -766,6 +768,7 @@
 + [大厂一面：联合索引是 ABC，查 BCA 能走索引吗？](https://mp.weixin.qq.com/s/649m8oCONPaiVYg2SysyPQ)
 + [mysql索引数据结构](https://mp.weixin.qq.com/s/t2n_n5SoVecRLpfJ9bFt9A)
 + [索引明明建好，SQL却全表扫描！线上隐式类型转换导致索引失效，慢SQL悄无声息拖垮数据库](https://mp.weixin.qq.com/s/e1G-6OZClNfAvLEBmjlkAQ)
++ [Mysql索引执行计划](https://mp.weixin.qq.com/s/2hd8ekeTDHZ5GgYCKFdVOQ)
 
 ### PostgreSQL
 

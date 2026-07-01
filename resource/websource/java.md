@@ -353,6 +353,7 @@
 + [建议你立刻、马上放弃 Java8](https://mp.weixin.qq.com/s/zigVA8KEwZ9p-MWo_xQ7_A)
 + [Java17/21实战｜用模式匹配干掉90%的if-else和强制转换，代码瞬间优雅！](https://mp.weixin.qq.com/s/BvtA4HNm5q66jCuF6n6iug)
 + [从 JDK 21 升到 25 代码全红？复盘 Java 史上最难产的 API](https://mp.weixin.qq.com/s/p-xjEhmgi4lEJkKX0u8Y7Q)
++ [JVM 如何实现虚拟线程：原理、使用方式与注意事项](https://mp.weixin.qq.com/s/hCqNj0yA-PjK72T2t6997g)
 
 ## 高级用法
 
@@ -600,6 +601,7 @@
 + [Java 开发 > 判空写了十年，竟然还在 if (obj != null) 层层嵌套？](https://mp.weixin.qq.com/s/DCnGmxq61d5S3jBYAU1O5w)
 + [Java 开发 > 还在用模板方法模式写一堆子类？Lambda + 函数式接口把代码量砍半](https://mp.weixin.qq.com/s/wJ-Ev6qbeJZKoRpZXsqJVg)
 + [【Java基础讲透·Day01】从命令式到函数式：你的Java代码可以更简洁、更优雅](https://mp.weixin.qq.com/s/kut_aUBdewjjnka06JC7uA)
++ [Lambda 表达式从 0 到 1：告别匿名内部类（AI 辅助学习实战）](https://mp.weixin.qq.com/s/ueczjXwVEd_ikT8wFbeVyw)
 
 ## 代码质量
 
@@ -1306,6 +1308,7 @@
 + [并发编程-Synchronized](https://mp.weixin.qq.com/s/eRj2tLut1dJ_71SHqj1fHw)
 + [Java并发编程进阶：彻底理解 AQS 底层原理](https://mp.weixin.qq.com/s/LJ4PpCanTAvo6x8GFUqr1A)
 + [Java线程死锁详解(5大死锁及解决方案)](https://mp.weixin.qq.com/s/4Y2E1wiQ0CTQZxk9J2Useg)
++ [synchronized 底层原理：Monitor、对象头、Mark Word 与锁升级](https://mp.weixin.qq.com/s/juGoIBkLM6lB7cesHAVEDA)
 
 #### volatile
 
@@ -2189,6 +2192,7 @@
 + [删除文件还在用file.delete?](https://mp.weixin.qq.com/s/bcG6X9E1hE9O6JuM4McWNQ)
 + [别再死记BIO_NIO_AIO！原理+可运行代码+生产选型，一篇吃透](https://mp.weixin.qq.com/s/1j9ycbJT0LI0WcTdR_E3IA)
 + [Java I/O流性能对比：NIO、BIO、AIO该如何选择？](https://mp.weixin.qq.com/s/8CLLmZrnUs-615BopfncVA)
++ [Java BIO 为什么性能差？看完这篇彻底搞懂 IO 流体系](https://mp.weixin.qq.com/s/UMZsfESfq-ntsSGoyqGVoA)
 
 ## JAVAX
 
@@ -2567,6 +2571,7 @@
 + [告别冗余代码！Lombok注解如何让Java开发效率飙升300%？](https://mp.weixin.qq.com/s/5ozzuMtrvKNvvvd0HcM6_g)
 + [Lombok 造成的翻车事故，太坑了！](https://mp.weixin.qq.com/s/78Sz-xrrI1sm8zoUaqiJWQ)
 + [为什么我劝你不要在项目里乱用 Lombok？这3个坑太深了，踩中就裂开](https://mp.weixin.qq.com/s/CSO6_t5IOPach8E1VLtvog)
++ [Data好用但要注意避坑，Lombok的几个技术细节](https://mp.weixin.qq.com/s/bmWIaPgG0WMl_nuOfivd1Q)
 
 ## mapstruct
 
@@ -2773,6 +2778,7 @@
 + [一文讲清：Nacos、Apollo、Spring Cloud Config——配置中心怎么选？](https://mp.weixin.qq.com/s/lmJ4uR4pqSfHBsiKfuYlXg)
 + [Nacos的RpcClient与Dubbo RocketMQ gRPC的客户端设计哪家强？](https://mp.weixin.qq.com/s/opENDPdC5OAqRk2RPa6ZPQ)
 + [Nacos从入门到精通：配置中心、注册中心、AI时代新特性，一篇全讲透](https://mp.weixin.qq.com/s/-vG-Ol-UICCTkpD2PaokeQ)
++ [Nacos 配置更新完整工作流程](https://mp.weixin.qq.com/s/sXj9rCZGEMEZy3L8AfaU7Q)
 
 ## netty
 
@@ -3110,6 +3116,8 @@
 + [Optional功能太弱？Spring内置强大的Optionals，7个神操作](https://mp.weixin.qq.com/s/BQ1dODPNNQH68KHhqmQVCQ)
 + [为什么 Spring 和 IDEA 都不推荐使用 @Autowired 注解？？](https://mp.weixin.qq.com/s/PJ7ta8uVe2WHrzwMNAfIBw)
 + [第十一篇 Spring 核心扩展点大全](https://mp.weixin.qq.com/s/Nd8A6rRjXtW4HN9IWIVvAA)
++ [双栈路由 · 双栈数据 · 实时通信 · 双模热加载 —— 一站式 Spring 插件化框架](https://mp.weixin.qq.com/s/vj0Oo-nh8O5K3U9XYMWKqQ)
++ [AOP+IOC叠加循环依赖冲突解决方案](https://mp.weixin.qq.com/s/cj27jmm3_zVfMfW-6funLQ)
 
 #### 原理&源码
 
@@ -3311,6 +3319,7 @@
 + [用了 2 年 @Async 才知道：它默认不复用线程，随时 OOM](https://mp.weixin.qq.com/s/UbeB4kPkR5s1HD_NI8a-Aw)
 + [线上灵异BUG：明明加了@Async异步注解，代码依旧同步执行！还出现用户上下文错乱、数据串号问题](https://mp.weixin.qq.com/s/7h92XaIEu5trWLkZV1LJyg)
 + [接口响应慢了5秒，我用@Async异步处理搞定了](https://mp.weixin.qq.com/s/7Z0Chf1I0dQGpmRRtTZDpA)
++ [一个 @Async 让循环依赖暴雷：Spring 代理的暗坑](https://mp.weixin.qq.com/s/l4jtKqj1GbR-E1JR7_DkdA)
 
 ### security
 
@@ -3577,6 +3586,7 @@
 + [Spring Integration 轻松实现服务间消息传递，真香！](https://mp.weixin.qq.com/s/pqCkXa5E9EGzhE7yyLaYqw)
 + [Java真的不难（八十七）Spring快速整合Mybatis（超详细案例）](https://mp.weixin.qq.com/s/ORv6zBvoXe5rQBoHXyfWuA)
 + [最强开源报表！SpringReport+AI：一站式企业报表与可视化平台](https://mp.weixin.qq.com/s/9Qj1DFNfBK7f0ex7kRF4Tg)
++ [通过这样封装后使用kafka可以减少很多样板代码](https://mp.weixin.qq.com/s/ucL7kvq7zo_JFaO9WLR9qQ)
 
 ### tool
 
@@ -4681,6 +4691,7 @@
 + [放弃传统 JSON 解析！Spring Boot API 接口性能提升了 30 倍](https://mp.weixin.qq.com/s/IQmPsqeoko-LbLQcSdut5g)
 + [4 种方案，解决 Spring Boot 关联实体 JSON 输出错误（no Session）](https://mp.weixin.qq.com/s/25ciRI6_4zw2C1cHQIbYzQ)
 + [Controller接口设计的4种高级方法](https://mp.weixin.qq.com/s/ryyOoD3v24lcj2tYofjNgQ)
++ [Java开发：Spring Boot Validation 参数校验最全实战](https://mp.weixin.qq.com/s/2Pmc_lKQJ-hiA6h0LNYcIg)
 
 ##### 文件上传下载
 
@@ -4846,6 +4857,7 @@
 + [太强了！Spring Boot基于JDBC实现数据访问的六种方式](https://mp.weixin.qq.com/s/RRf7BV6_EDpekdL-Q7L9hA)
 + [SpringBoot 数据同步：Canal 监听 Binlog 同步到 ES](https://mp.weixin.qq.com/s/Py7NDdbXuCbmN8Fs2aQ2YA)
 + [2.2.1 Spring Boot + MyBatis 实战：从零搭建用户管理 CRUD](https://mp.weixin.qq.com/s/hipuUx2sC3NMsVX52iHoBA)
++ [2.3.1 一篇搞定 Spring Boot 整合 MyBatis：注解+XML混合模式，代码直接能用](https://mp.weixin.qq.com/s/YkYx4iqGBSEcJcwAbRdjAA)
 
 ##### TRANSACTION
 

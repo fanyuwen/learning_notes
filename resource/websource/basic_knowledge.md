@@ -434,6 +434,7 @@
 + [Java面试高频场景：CPU飙到100%，这样排查就对了](https://mp.weixin.qq.com/s/jzpt5j-bmkR7WkYREdrDvA)
 + [搞懂 CPU 缓存系统的底层逻辑，才算真正吃透高性能系统调优](https://mp.weixin.qq.com/s/-oUdJDln7fR5tqBM4b_C7A)
 + [从单核到多核：CPU为什么不能再只靠提频变快](https://mp.weixin.qq.com/s/1bwTGzacQ1CsXkLGx5WK4A)
++ [图解计算机原理：上下文切换为什么会拖慢程序？CPU 切换线程时做了什么](https://mp.weixin.qq.com/s/SyIli0eEAJm5h8-q3wvvow)
 
 ### 并发
 

@@ -61,6 +61,7 @@
 + [彻底解决 Docker 日志膨胀](https://mp.weixin.qq.com/s/KuvuFWmzvi9zx05OYaTAfg)
 + [docker（四）：search与pull命令的行为差异](https://mp.weixin.qq.com/s/PRrCcz8urOZiPBNtW0DS4A)
 + [Docker 命令终极指南](https://mp.weixin.qq.com/s/6WdLnsSygF32UwtTd9eU_A)
++ [Docker只是开始！Java项目上K8s实战，从部署到运维全攻略](https://mp.weixin.qq.com/s/-wgp4hcwx9BDCuNQfu_Nog)
 
 ## podman
 
@@ -116,6 +117,7 @@
 + [Kubernetes(k8s)-常用命令(kubectl命令)](https://mp.weixin.qq.com/s/Ak1lytD5qWWgyyDmRIJk4A)
 + [K8s 调度器黑盒全拆解：拓扑约束里的数学坑，真的会把人绕晕](https://mp.weixin.qq.com/s/RcgcY1c0s2pM9ajzxm3aeA)
 + [线上出了问题才知道？K8s监控体系从0搭建，问题提前10分钟发现](https://mp.weixin.qq.com/s/xYlGc4sRgYNx1PUT6SbCfA)
++ [K8s 面试每日 3 题 | Day 13 吃透考点，offer 稳了](https://mp.weixin.qq.com/s/hjXdyz_WWwhfLRmoQu8djg)
 
 ## Prometheus
 

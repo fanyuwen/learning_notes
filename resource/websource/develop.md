@@ -168,6 +168,7 @@
 + [深度剖析DDD核心基石：构建稳健业务系统的组件库实践](https://mp.weixin.qq.com/s/d7aYY0fMaDeiw5jGBfuefw)
 + [想给面试官吹DDD吗？项目像搭积木一样运行：领域驱动设计（DDD）让复杂业务变简单](https://mp.weixin.qq.com/s/JCRvoLZ2hM6NCG0o6j8Inw)
 + [复杂度直降70%：我用DDD+CQRS重构了系统，整体开发效率提升6倍！！](https://mp.weixin.qq.com/s/rMnGCHxIBBxfKvNEYrV6UA)
++ [巧妙地封装 DDD 值对象](https://mp.weixin.qq.com/s/4t_6jZhzzr8_PphYiugRtw)
 
 ## 微服务
 
@@ -573,6 +574,7 @@
 + [百万订单未支付，库存回滚](https://mp.weixin.qq.com/s/7Zc0erQGHJUUMp_OEjEXMw)
 + [面试:当支付回调遇到超时关单如何处理？](https://mp.weixin.qq.com/s/IZp8OIdlMe-g9C1BXClM8Q)
 + [订单超时关闭的3种实现方案：从定时任务到延迟队列，如何选？](https://mp.weixin.qq.com/s/w3uwJWcwffcKeOo_kgM2oA)
++ [订单30分钟未支付自动关闭？别急着上MQ，小心把系统搞崩](https://mp.weixin.qq.com/s/2UK9-yPaVKGWvYL9knD9qw)
 
 ### 重试
 
@@ -830,6 +832,8 @@
 + [后端实战：一次自动核销接口 504 的排查与优化](https://mp.weixin.qq.com/s/OebMSj-t2gq5meaLGDZ8nw)
 + [你写代码的方式，暴露了你有没有状态机思维](https://mp.weixin.qq.com/s/1a5tTTpFMabecnqE4Cs_qQ)
 + [领域事件：让上下文之间解耦通信](https://mp.weixin.qq.com/s/XjeJXlYgp3NPw5qOmGwvCw)
++ [Java开发：Java后端双层权限体系，接口权限与数据权限核心设计与生产实现详解](https://mp.weixin.qq.com/s/pWCZJIYFvnW1y-w-w1sazA)
++ [单节点扛10万QPS、毫秒级响应！自研RPC框架的核心设计思路全公开](https://mp.weixin.qq.com/s/NUgdzX7Ux5s9v-d540UQ3g)
 
 # 测试相关
 
@@ -906,6 +910,7 @@
 + [面试官：设计一个评论盖楼系统，你能答到第几层？](https://mp.weixin.qq.com/s/jDA8X5J1vAKJJbNqU77u1Q)
 + [面试官：明星离婚，千万粉丝秒级通知，你怎么做？](https://mp.weixin.qq.com/s/vf0rM1NuTXEZeafH7mxu1g)
 + [面试官：说说滑块验证码是怎么实现的？我懵了…](https://mp.weixin.qq.com/s/nGuxPKPn4OQFGUW4jUeJVg)
++ [日均5千万请求的系统如何设计部署方案](https://mp.weixin.qq.com/s/W0mJp5wcqA8CXIsTSMmQig)
 
 ## 代码相关
 

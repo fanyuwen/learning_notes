@@ -194,6 +194,8 @@
 
 + [LangChain入门教程【一】核心组件基础篇](https://mp.weixin.qq.com/s/ZrTsfkeGF5DyRQVfj2xxfw)
 + [LangChain4j × 企业级AI｜从0到1落地指南](https://mp.weixin.qq.com/s/30G53FOe-s9XjWvcW_x8tg)
++ [Loopcraft 循环手艺：LangChain 发布 Agent 系统设计新范式](https://mp.weixin.qq.com/s/DnBKdyPYGzxHEkAVLwmGcw)
++ [基于 LangChain4j + LangGraph4j 构建达人建联智能体](https://mp.weixin.qq.com/s/YnXjtLsPi_dEfjouNGRksQ)
 
 # 算法
 

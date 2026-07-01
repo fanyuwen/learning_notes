@@ -163,6 +163,8 @@
 + [Kafka 会丢失消息吗？](https://mp.weixin.qq.com/s/sUrqtGkpj1dMi_J5Tep1HQ)
 + [Kafka为什么这么快？从零拷贝到批量发送](https://mp.weixin.qq.com/s/J79f4LeGNyAHXL1BtWW-XQ)
 + [蚂蚁一面：为什么选Kafka？别的MQ不行吗？](https://mp.weixin.qq.com/s/APV1WD2SxOyDFGN4Q2Gmsg)
++ [Kafka 分布式理论与大厂设计](https://mp.weixin.qq.com/s/xa2NwnZuUN3ofQqVDYccLQ)
++ [kafka 源码与OS底层](https://mp.weixin.qq.com/s/F4hS-XhrnWeLriBntCxCiQ)
 
 # ROCKETMQ
 

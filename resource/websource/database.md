@@ -526,6 +526,9 @@
 + [面试官：千万级订单表加字段，你敢直接ALTER？](https://mp.weixin.qq.com/s/ccQYL-YK7tBfRkkxgeH7cQ)
 + [详解 MySQL 慢 SQL 定位全流程 + 慢查询日志开启配置](https://mp.weixin.qq.com/s/_-8zkHwx7id6BAbbWIprgA)
 + [MySQL之Join的原理](https://mp.weixin.qq.com/s/52s2dwaVlpBZZgnUDeYEqQ)
++ [Mysql面试题：慢 SQL 一直慢和偶尔慢，处理思路有什么不同？ 偶尔慢的 SQL 你觉得可能是什么原因？](https://mp.weixin.qq.com/s/Gn5tTC60SeZxmxW2XSbQwQ)
++ [别只懂CRUD了：一次1200万数据全表扫描，让我读懂了MySQL优化器](https://mp.weixin.qq.com/s/tqvju_8HDAFKdiLJ0kAPew)
++ [面试题库：MySQL 为什么使用 B+ 树而不使用红黑树？](https://mp.weixin.qq.com/s/fJzFiJ8GanT1MHFpgOtPiQ)
 
 #### 存储引擎
 
@@ -574,6 +577,7 @@
 + [面试官：MySQL 为什么要是使用 MVCC？原理是什么？](https://mp.weixin.qq.com/s/oFEMx0WAOI2L0vThitMBSg)
 + [深入分析MySQL MVCC机制](https://mp.weixin.qq.com/s/ZWTGsAsnr4osiVRiFamgtQ)
 + [面试官问我MVCC是什么，我用"时光机"讲明白了](https://mp.weixin.qq.com/s/m3u2cikr8a01rXdukWQj-Q)
++ [面试官：讲讲MVCC原理？RR隔离级别如何避免幻读？事务隔离 / MVCC / 锁机制，从底层原理到秒杀实战](https://mp.weixin.qq.com/s/EQJVW5BBIoNsS0dw4HQpUw)
 
 #### 锁
 
@@ -769,6 +773,7 @@
 + [mysql索引数据结构](https://mp.weixin.qq.com/s/t2n_n5SoVecRLpfJ9bFt9A)
 + [索引明明建好，SQL却全表扫描！线上隐式类型转换导致索引失效，慢SQL悄无声息拖垮数据库](https://mp.weixin.qq.com/s/e1G-6OZClNfAvLEBmjlkAQ)
 + [Mysql索引执行计划](https://mp.weixin.qq.com/s/2hd8ekeTDHZ5GgYCKFdVOQ)
++ [下单接口卡10秒，一个索引引发的生产事故](https://mp.weixin.qq.com/s/8Ko0hqOmcZa0AArnqm-LwQ)
 
 ### PostgreSQL
 
@@ -1079,6 +1084,9 @@
 + [Redis集群模式下确保Key在同一Slot的实现方法](https://mp.weixin.qq.com/s/WM7m1ioSi-RiLa-PAkE8dA)
 + [阿里面试官：Redis一致性答"延时双删"的直接挂，这才是生产级答案](https://mp.weixin.qq.com/s/fagL1-veH7EEza98drpjGA)
 + [Redis持久化——RDB vs AOF，生产环境到底该怎么选？](https://mp.weixin.qq.com/s/UTqqHhls5B6jlrfNBAYW8A)
++ [Redis 里最常见的三个坑：雪崩、击穿、穿透](https://mp.weixin.qq.com/s/h-GS5DH356SZxWeUpfjOQg)
++ [Redis的持久化机制-java面试实战（4）](https://mp.weixin.qq.com/s/MpEcEkXUIrptpqE4kRENTQ)
++ [Redis 怎么淘汰过期 key？](https://mp.weixin.qq.com/s/f_LV67rgNMBhuPyxT1Nq0w)
 
 #### 原理
 

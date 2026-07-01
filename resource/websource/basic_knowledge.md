@@ -431,7 +431,9 @@
 + [线上CPU飙到100%？这套排查方法论建议收藏，关键时刻能救命](https://mp.weixin.qq.com/s/yn3osOsQMTUBtMReGwa1bQ)
 + [面试官问我线上CPU 100%，我查了半天发现是它的问题](https://mp.weixin.qq.com/s/TCmPyWNzWouWFPuCIzOFqg)
 + [半夜CPU飙到100%，我用4步锁定元凶](https://mp.weixin.qq.com/s/_aa5PJLqg69o14pVaR8d7Q)
++ [Java面试高频场景：CPU飙到100%，这样排查就对了](https://mp.weixin.qq.com/s/jzpt5j-bmkR7WkYREdrDvA)
 + [搞懂 CPU 缓存系统的底层逻辑，才算真正吃透高性能系统调优](https://mp.weixin.qq.com/s/-oUdJDln7fR5tqBM4b_C7A)
++ [从单核到多核：CPU为什么不能再只靠提频变快](https://mp.weixin.qq.com/s/1bwTGzacQ1CsXkLGx5WK4A)
 
 ### 并发
 
@@ -485,6 +487,7 @@
 + [GPU 指令格式 [上]](https://mp.weixin.qq.com/s/TLKdh-v-dVzpuDdW9uD_9w)
 + [GPU性能的第一性原理](https://mp.weixin.qq.com/s/NF0vhAkYXhz5uiGcPL5QSw)
 + [GPU 应该怎么选择？写给 AI 工程师的 GPU 选型指南](https://my.oschina.net/IDP/blog/19206657)
++ [彻底搞懂GPU Memory Pool：核心原理、分层实现与软硬件落地条件](https://mp.weixin.qq.com/s/aJrzISmfDcodxcLm4QiHFg)
 
 ## 网络基础
 

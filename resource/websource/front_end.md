@@ -494,3 +494,4 @@
 + [在 JS 中为什么要少用 class ？](https://mp.weixin.qq.com/s/fRhR8a9KVQWqjXCsimrLNg)
 + [为什么大厂代码里到处都是箭头函数？原因太真实了](https://mp.weixin.qq.com/s/aCYuS7x-85igpsOeS-suyA)
 + [99%的前端只会用 Proxy，却不知道 Reflect 的真正价值](https://mp.weixin.qq.com/s/-7ErfgOkTOIs5M_rot71JA)
++ [JavaScript中的三个点“...”，90%的人只会用，不懂原理！](https://mp.weixin.qq.com/s/AWsb32_Ab5T4UBRchK1YWw)

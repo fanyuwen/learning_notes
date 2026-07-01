@@ -42,6 +42,7 @@
 + [ES性能调优实战指南](https://mp.weixin.qq.com/s/z6i1AHv9lm0eKN1PRYCL5A)
 + [千万级数据入库ES卡死？全套生产写入优化方案，让你的ES吞吐量翻倍](https://mp.weixin.qq.com/s/CIkQLnIbQKdq6ZoZdUds9A)
 + [你的 Elasticsearch 集群，缺一双眼睛](https://mp.weixin.qq.com/s/zahKxp-duep6sQMVr9uWog)
++ [一篇文章搞懂 ElasticSearch 核心知识](https://mp.weixin.qq.com/s/JrmfHn0k5CppjAAM6zfjHw)
 
 ## solr
 

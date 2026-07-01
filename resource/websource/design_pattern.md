@@ -49,6 +49,7 @@
 + [百度面试官：你项目中同时写了 “策略模式”+ “工厂模式”，搭配在一起用的好处是？我：大家都这么用的...](https://mp.weixin.qq.com/s/XadguM8Gbn4fv8-032cp3g)
 + [面试官问设计模式时，他在考察什么？](https://mp.weixin.qq.com/s/elswFZquOSliMe-zneYXJg)
 + [一文搞懂行为型设计模式三巨头：策略、观察者、责任链，附 Spring + MQ 源码实战](https://mp.weixin.qq.com/s/QFN3UyEjFgm38qr4BTqofw)
++ [策略模式+工厂模式重构指南](https://mp.weixin.qq.com/s/LXaEFgQFFqG9L5l-UgeWrA)
 
 ## 原则
 

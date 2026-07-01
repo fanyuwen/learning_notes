@@ -171,6 +171,7 @@
 + [干了 11 年前端，我越来越觉得技术不是最重要的](https://mp.weixin.qq.com/s/m70rJNDdOwo6s9R7fFcKmA)
 + [AI时代的程序员焦虑](https://mp.weixin.qq.com/s/cqeK-cuJFKpJ-2Y0hrtN_Q)
 + [半年没写过一行代码了](https://mp.weixin.qq.com/s/_1QbgnNp5r6sYklOYUbpUQ)
++ [我只是一个普通程序员，但我想成为架构师](https://mp.weixin.qq.com/s/dc9jnTlFNJ1TtZZe7ZMsYg)
 
 # 个人成长
 
@@ -259,6 +260,7 @@
 + [架构师必备：四大核心产出物与四大核心能力](https://mp.weixin.qq.com/s/FsVFcGNkIQ0Stm5hE7vh6A)
 + [技术负责人正在消失？真正被淘汰的是这类 CTO](https://mp.weixin.qq.com/s/inWPdUpKpOZCVXx7w4a-jw)
 + [任何领域一通百通的核心能力](https://mp.weixin.qq.com/s/Glarqa_q_xtsjIDEidkWMQ)
++ [给独立开发者的一张从 $0 到月入万刀的真实路线图](https://mp.weixin.qq.com/s/WMx91jjaBAVYKyDg3_x2iQ)
 
 ## 视频
 
@@ -368,6 +370,7 @@
 + [电脑不在身边也能派活？WorkBuddy微信远程指挥的10个场景，太实用了](https://mp.weixin.qq.com/s/_-Jiz4W8HjjoxrhjjbPn7g)
 + [用这组快捷键，你的Windows操作速度提升3倍](https://mp.weixin.qq.com/s/XU6JC4zjj1t_5Q_DrJUcmg)
 + [10个电脑常用的快捷键，提升电脑操作能力](https://mp.weixin.qq.com/s/r0lE_TLgRhnxZ9CBJBl7Aw)
++ [微信电脑版隐藏的 9 个神技巧，90% 的人只用了 10% 的功能！](https://mp.weixin.qq.com/s/K38wgQnybbBP0GcSJAN5Qw)
 
 ## 开源资源
 

@@ -54,6 +54,7 @@
 + [吃透MQ三大难题：消息不丢、不重、不乱序！大厂生产级落地方案](https://mp.weixin.qq.com/s/0FyOmmbWQy2nZUZcPwHxaQ)
 + [消息队列选型：Kafka、RocketMQ、RabbitMQ，我们最后选了哪个，为什么？](https://mp.weixin.qq.com/s/ZtaysWEvIQli62Dami5-JA)
 + [从 RocketMQ 换到 Kafka 之前，你必须搞定的 6 个技术痛点](https://mp.weixin.qq.com/s/IXRork84dHd7NcQeo4kqrg)
++ [面试官问我死信队列是什么，我用"退货仓"讲明白了](https://mp.weixin.qq.com/s/3a6XWPrjX2GCyyuQj_RL0A)
 
 # KAFKA
 

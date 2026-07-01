@@ -114,6 +114,7 @@
 + [多个方案都合理时如何判断先做什么](https://mp.weixin.qq.com/s/DOqVBl6nJpXCXqng0Ah8ag)
 + [订单冷热拆分架构设计](https://mp.weixin.qq.com/s/lR2--gfZZmHc8JenE-AZmw)
 + [【架构设计】MVC、MVP、MVVM](https://mp.weixin.qq.com/s/Thg8DLlzCfeoffD97AL0iA)
++ [为什么很多公司的系统架构，最后都会变成“没人敢动”？](https://mp.weixin.qq.com/s/QL6GTBvMEZSAo_f0tG-L6w)
 
 ### DDD
 
@@ -253,6 +254,7 @@
 + [微服务接口超时与重试策略设计](https://mp.weixin.qq.com/s/He2e9epkXpOyQ_yA8aXaHQ)
 + [微服务链路追踪底层揭秘：TraceId到底是怎么“跨服务串起来的”？](https://mp.weixin.qq.com/s/xUJDHJiEfeDYvq5OtiNBDg)
 + [微服务网关别只盯着Spring Cloud Gateway！Apache APISIX才是企业级流量治理的硬核选择](https://mp.weixin.qq.com/s/ZQAuKJs4Xg00jJWoTL6ihw)
++ [为什么我们没有用微服务，反而选了模块化单体](https://mp.weixin.qq.com/s/7V2CRZiK94vWPtVw8u2QcA)
 
 # 分布式
 
@@ -901,6 +903,7 @@
 + [面试官问“订单拆单与合单”，我把简历上的“电商项目”划掉了...](https://mp.weixin.qq.com/s/o0S05fpfwUaEBi--9ArL7Q)
 + [面试官：设计一个评论盖楼系统，你能答到第几层？](https://mp.weixin.qq.com/s/jDA8X5J1vAKJJbNqU77u1Q)
 + [面试官：明星离婚，千万粉丝秒级通知，你怎么做？](https://mp.weixin.qq.com/s/vf0rM1NuTXEZeafH7mxu1g)
++ [面试官：说说滑块验证码是怎么实现的？我懵了…](https://mp.weixin.qq.com/s/nGuxPKPn4OQFGUW4jUeJVg)
 
 ## 代码相关
 

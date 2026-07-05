@@ -147,6 +147,7 @@
 + [Java 枚举 Enum 完全指南：比常量更优雅的选择](https://mp.weixin.qq.com/s/eLMYMUoJUaOsUhdldo1nTA)
 + [面试官问我Java枚举和常量类有什么区别，我说了3点，他点点头](https://mp.weixin.qq.com/s/5K9aVIPFjQ2SkArhEDO8UA)
 + [如何理解 Java 的枚举？](https://mp.weixin.qq.com/s/F_MUVF5NVzM1WsuLNMuKRQ)
++ [Java 枚举，比常量更优雅](https://mp.weixin.qq.com/s/oz2YxpzxHVBxhizOzXUTMw)
 
 ### 注解
 
@@ -926,6 +927,7 @@
 + [面试官：什么是 Java 反射机制？为什么反射慢？](https://mp.weixin.qq.com/s/qjUQcFESSFls8jM-MIVVbA)
 + [Java反射性能优化：26倍吞吐量提升，从瓶颈到极致的实战手册](https://mp.weixin.qq.com/s/tOdmf_RhUPa24LJ6pAd8tA)
 + [9.1 Class 与反射入门](https://mp.weixin.qq.com/s/6rjNuc-lFX--TpKcEqdnNw)
++ [Java开发：颠覆静态编码！Java反射，开发者必懂的底层黑科技](https://mp.weixin.qq.com/s/TTJTZit5ZunuSfRm2iz3nA)
 
 ### 并发/多线程
 
@@ -1104,6 +1106,8 @@
 + [Java守护线程：三句话讲清楚Daemon Thread](https://mp.weixin.qq.com/s/akFCEKEwmvO21pUzlWfPbw)
 + [代码无报错、日志无异常，异步任务凭空消失！线程池默认拒绝策略丢弃任务，线上数据缺失故障复盘](https://mp.weixin.qq.com/s/t28_hG7nP9oorDjIgJJmug)
 + [虚拟线程落地实战：从原理到生产级最佳实践](https://mp.weixin.qq.com/s/zky5yUK6kMnpvf5jt2Vj6g)
++ [Java开发：彻底搞懂Java线程，并发编程从此不懵](https://mp.weixin.qq.com/s/O3z4magCbx22uavT4DyVmA)
++ [Object.wait/notify/notifyAll 的作用、原理与使用方式](https://mp.weixin.qq.com/s/xAc51QpDyZc9I73utTMlew)
 
 #### CAS
 
@@ -1207,6 +1211,7 @@
 + [JVM 中都有哪些线程池：实现原理、如何使用与注意事项](https://mp.weixin.qq.com/s/oxtGdLHii1hCcEPGd9sxCQ)
 + [线程池核心参数与执行流程](https://mp.weixin.qq.com/s/g2TBtiz0XJ2HCjOKNSpOGQ)
 + [这么香的线程池，你用过吗](https://mp.weixin.qq.com/s/onaUmevqZldLbbw6jE1VNA)
++ [Java线程池：隔离与拒绝](https://mp.weixin.qq.com/s/AcQnkOfBBsBNSjsV34cHjQ)
 
 #### 锁
 
@@ -1322,6 +1327,9 @@
 + [Java并发编程进阶：彻底理解 AQS 底层原理](https://mp.weixin.qq.com/s/LJ4PpCanTAvo6x8GFUqr1A)
 + [Java线程死锁详解(5大死锁及解决方案)](https://mp.weixin.qq.com/s/4Y2E1wiQ0CTQZxk9J2Useg)
 + [synchronized 底层原理：Monitor、对象头、Mark Word 与锁升级](https://mp.weixin.qq.com/s/juGoIBkLM6lB7cesHAVEDA)
++ [JMM 进阶：彻底理解 synchronized 实现原理](https://mp.weixin.qq.com/s/PC7X2wOl15wXPE7Dx4TtBQ)
++ [从“能不锁就不重锁”到“竞争激烈再升级”（一文讲透synchronized锁升级机制）](https://mp.weixin.qq.com/s/APorXv6_2ioDHQ1X9pc4Sw)
++ [JVM 对象模型与 synchronized 实现原理：从对象头到锁升级](https://mp.weixin.qq.com/s/BmVCIljbh6J1jWjCsced4A)
 
 #### volatile
 
@@ -1450,6 +1458,7 @@
 + [JVM JIT 即时编译：原理、分层编译与优化机制](https://mp.weixin.qq.com/s/GlkqkwyNPrsDiKRwRcPtfQ)
 + [JVM 进阶实战：从调优到面试的制胜指南](https://mp.weixin.qq.com/s/w7zp_BYN0ykhym01-4I4OQ)
 + [JVM 字节码、栈帧与方法调用机制：从指令到分派](https://mp.weixin.qq.com/s/mS-Pvc1MwcRKQTps4ri4Bg)
++ [JVM 中的 Safepoint、Safe Region 与 Stop-The-World 机制](https://mp.weixin.qq.com/s/CE3Cj_s3kW4raP6LV-8mFg)
 
 ### 命令
 
@@ -1540,6 +1549,7 @@
 + [什么是内存泄漏？什么是内存溢出？](https://mp.weixin.qq.com/s/3fogv1zel9E-0n0fwAhuqA)
 + [JVM 运行时内存区域与对象创建流程：从线程私有到对象落地](https://mp.weixin.qq.com/s/fGHtNf3qK8z8c02e3tmWrw)
 + [堆外内存：DirectBuffer与Unsafe的正确姿势](https://mp.weixin.qq.com/s/rPFwwIOgBvgY1A3RsD5-5g)
++ [JVM 如何实现可见性：原理与实现方式](https://mp.weixin.qq.com/s/WeJdbKlr3LhoGoayLTQWag)
 
 ### 类加载
 
@@ -1574,6 +1584,7 @@
 + [类加载器与双亲委派：从加载class到初始化](https://mp.weixin.qq.com/s/IZChOHphPDY5zzIes2_cFw)
 + [类的加载_理论篇](https://mp.weixin.qq.com/s/0s_W2Q139Y7CPP6JYnkBDg)
 + [JVM的类加载机制-java面试实战（1）](https://mp.weixin.qq.com/s/MQ43q4Rg0yJ9FppmgOraGg)
++ [ClassLoader深度解剖：双亲委派、Tomcat类隔离、SPI与模块化](https://mp.weixin.qq.com/s/Qo3DiwsTKLpH32UG4GCafQ)
 
 ### GC
 
@@ -1590,10 +1601,8 @@
 + [Minor GC、Young GC、Major GC、Old GC、Full GC、Mixed GC傻傻分不清楚？](https://mp.weixin.qq.com/s/PPNzrgykvSUKr-xfYVf7kw)
 + [线上问题排查(4)--Java频繁Full GC](https://mp.weixin.qq.com/s/a9LUZz8KWxlblrkD9lgkiw)
 + [Java 面试题 --JVM 大厂篇之深入探讨 Serial GC 的应用场景](https://mp.weixin.qq.com/s/TfKESnO7pLLcVJYE8nJrDg)
-+ [Java 面试题 --JVM 大厂篇之 Java 新神器 ZGC：颠覆你的垃圾回收认知！](https://mp.weixin.qq.com/s/dPINwSxp_mz5vCjjDPhNrQ)
 + [Java GC：垃圾回收的自动化艺术](https://mp.weixin.qq.com/s/fCYXCjHsMkfSbG33P0fuQg)
 + [jvm----垃圾回收](https://mp.weixin.qq.com/s/fc4OcfPrlrwv1wTugzsN9A)
-+ [面试官：说下CMS垃圾收集器的缺点](https://mp.weixin.qq.com/s/QdWaEvlxJ4vcMaMOmtywmA)
 + [【2025版JVM面试题】3、京东二面：说下垃圾收集器CMS&G1的设计原理](https://mp.weixin.qq.com/s/-Ln0cr_LxrX8dZzeaU_12g)
 + [面试官：说说常见的垃圾收集算法](https://mp.weixin.qq.com/s/H_FOYWVBhh7pIsxALj5wTA)
 + [一起了解早期使用的各种垃圾收集器](https://mp.weixin.qq.com/s/hoHQuqT8mwzTbDxLygXOzA)
@@ -1601,11 +1610,9 @@
 + [面试官：说说GC Roots 有哪些](https://mp.weixin.qq.com/s/NfofH4yjQsdseQzSvXGN5g)
 + [【2025版JVM面试题】35、三色标记算法了解吗？三色标记优点？标记过程？产生的问题？](https://mp.weixin.qq.com/s/r54OMaoUVmSJNBwk6cF0cA)
 + [揭秘Java垃圾回收：内存管理的幕后英雄](https://mp.weixin.qq.com/s/xMvAZwThB3T8fJi38HZv5g)
-+ [ZGC调优全解析：从核心原理到百万级流量生产实践，将GC停顿从5秒优化到200ms](https://mp.weixin.qq.com/s/WYUg1aoFSm4taEFo3UC8CA)
 + [深入解析 JVM 垃圾回收算法](https://mp.weixin.qq.com/s/0-Jcmg2TUL1SF7cx8f71BA)
 + [深入解析CMS垃圾回收器：与并行回收器的本质差异及适用场景](https://mp.weixin.qq.com/s/oifzeSLwxUS9xsadQ1b0jg)
 + [不懂看GC日志，怎么排查内存问题？](https://mp.weixin.qq.com/s/zDyGq-A4qH0ZAJkyJzRb8A)
-+ [深入解析 ZGC：基于 G1 的革新性优化](https://mp.weixin.qq.com/s/iVi5ssDQO7osyDEGNZC1rw)
 + [Java垃圾回收机制，学Java不得不知道的内容，面试必备知识](https://mp.weixin.qq.com/s/8TsccCWesTIFs21ojSyjSg)
 + [快速入门-JVM垃圾收集](https://mp.weixin.qq.com/s/8znHns4qvWpKo2zeyJpkLg)
 + [Full GC 频率优化实战](https://my.oschina.net/vivotech/blog/18231016)
@@ -1631,7 +1638,6 @@
 + [如何定位堆外内存泄漏?](https://mp.weixin.qq.com/s/zMGNb8KsxLCbmRmS7gyy7A)
 + [0.3ms！JDK 25的Shenandoah分代GC，把Java性能卷上了天](https://mp.weixin.qq.com/s/gYlvtMgg4Rs8ELAkdKb-_Q)
 + [GC 很努力了，剩下的 40% 内存，得你自己动手](https://mp.weixin.qq.com/s/efey-MNUa6tqrui5OMHldg)
-+ [Java G1 GC吞吐量暴涨内幕：像高速公路ETC通道一样减少等待，吞吐量提升20%](https://mp.weixin.qq.com/s/J_7DnCwYlUUmqqgd3uWc4w)
 + [JVM GC 日志分析 + 常见 GC 场景 + 实战参数调优](https://mp.weixin.qq.com/s/jUWmXx0mAJHAJMXqoErMvw)
 + [面试官问：GC耗时10毫秒，为什么系统却卡顿了10秒？](https://mp.weixin.qq.com/s/iczH-2fabroYnuI14qk67w)
 + [一次 Full GC 频繁的排查经历：排查了12小时，就因为一个Map没设上限](https://mp.weixin.qq.com/s/-kyFzr-6MbEyzKb_lEVUjg)
@@ -1639,24 +1645,47 @@
 + [面试官：YoungGC 和 FullGC 的触发条件是什么？](https://mp.weixin.qq.com/s/Vk8ZP-6owL6xHQCDvF5zZg)
 + [下单就GC：我们如何把G1的STW从1.2s干到150ms](https://mp.weixin.qq.com/s/nJ1RlE8dWuZJyowOKjZqvQ)
 + [ZGC 和 CMS 和 G1 的区别对比：从线上卡顿到亚毫秒级低延迟，我踩过的坑和选型指南](https://mp.weixin.qq.com/s/z3hbp9D42l_Tfa8Qlo8FTg)
-+ [千万别乱改G1的Region大小！我差点搞出线上事故](https://mp.weixin.qq.com/s/DuvuS1dLra0O74RW4_hjNg)
-+ [订单系统凌晨OOM，排查过程实录：我是这样用G1替换CMS的](https://mp.weixin.qq.com/s/Dr1NSeZByvFvZ14aRevqcw)
 + [JVM的“卡顿”真相：STW不是bug，而是你还没懂它](https://mp.weixin.qq.com/s/HQnY9BxvxmMzCapWtRuznw)
-+ [JVM 垃圾回收器全景与G1深度解析](https://mp.weixin.qq.com/s/bAefOqKrEiTZjKtb0bQYUw)
 + [GC调优：从“与我无关”到“生死攸关”的认知升级](https://mp.weixin.qq.com/s/3Ckf_46iXMEWX_cAFeNKTA)
 + [为什么需要 GC：电商仓库管理员](https://mp.weixin.qq.com/s/RtQ-fsyWtERd-6xXOrox_w)
 + [每小时Full GC一次，调了7天JVM参数终于稳了](https://mp.weixin.qq.com/s/0tGtswfw-LzDCjKovEED9w)
 + [JVM虚拟机-垃圾收集器](https://mp.weixin.qq.com/s/1Yvvao6jnh1HHAi3kUZKDg)
-+ [G1 调优别先改参数，先看日志](https://mp.weixin.qq.com/s/YShUrqx-4MCZ8_PZY8unxQ)
-+ [面试官问我CMS原理，我用"老年代快递站"讲明白了](https://mp.weixin.qq.com/s/NZN2eGDOPbgup9fL24AwLg)
 + [CMS、G1、ZGC 垃圾回收器对比与选型](https://mp.weixin.qq.com/s/y-JY3-juSHwilfVmxvz2EA)
-+ [G1 垃圾回收器原理与实现方式](https://mp.weixin.qq.com/s/PZNFH52TRQPSKteLR6n9TA)
 + [JVM 垃圾回收中的 Minor GC、Major GC、Full GC 是什么](https://mp.weixin.qq.com/s/wm_qn9LCMqGOLibX8lrEqg)
 + [JVM 垃圾回收中的 GC Roots 是什么](https://mp.weixin.qq.com/s/-kPNyCl-LRIKQasy4KVLCw)
 + [JVM 垃圾回收中的分代假说是什么](https://mp.weixin.qq.com/s/oVOvvAAmf9_EXVS_n6E6RQ)
 + [JVM 垃圾回收中的可达性分析是什么](https://mp.weixin.qq.com/s/ahzopr_NushilNCqAKUImQ)
 + [CMS 垃圾回收器原理与实现方式](https://mp.weixin.qq.com/s/c39JLrfDnIZ63sADXdBuzg)
++ [JVM 垃圾回收算法与分代回收机制](https://mp.weixin.qq.com/s/BBXPlYTtN2-k4dBNdWXBmQ)
++ [分代模型别硬背：对象为什么会一步步进老年代](https://mp.weixin.qq.com/s/EgT0eZx3f3T3dZEdb3nc_A)
++ [三种 GC 回收算法：仓库清理打法](https://mp.weixin.qq.com/s/7be6RDCBh1e47tsPWCzGfw)
++ [GC 怎么判断垃圾：两种仓库盘点法](https://mp.weixin.qq.com/s/AeHbLj5-RgDFPdqgwWIAXQ)
+
+#### CMS
+
++ [面试官：说下CMS垃圾收集器的缺点](https://mp.weixin.qq.com/s/QdWaEvlxJ4vcMaMOmtywmA)
++ [面试官问我CMS原理，我用"老年代快递站"讲明白了](https://mp.weixin.qq.com/s/NZN2eGDOPbgup9fL24AwLg)
++ [CMS 为什么退役：三大硬伤不只是八股题](https://mp.weixin.qq.com/s/1z1KNfYattZBwwiNsP2amw)
+
+#### G1
+
++ [G1 调优别先改参数，先看日志](https://mp.weixin.qq.com/s/YShUrqx-4MCZ8_PZY8unxQ)
++ [G1 垃圾回收器原理与实现方式](https://mp.weixin.qq.com/s/PZNFH52TRQPSKteLR6n9TA)
++ [G1 为什么默认：Region 分区治理的底层逻辑](https://mp.weixin.qq.com/s/-95soLTJvhqVEH4qA7cVKg)
++ [Java G1 GC吞吐量暴涨内幕：像高速公路ETC通道一样减少等待，吞吐量提升20%](https://mp.weixin.qq.com/s/J_7DnCwYlUUmqqgd3uWc4w)
++ [千万别乱改G1的Region大小！我差点搞出线上事故](https://mp.weixin.qq.com/s/DuvuS1dLra0O74RW4_hjNg)
++ [订单系统凌晨OOM，排查过程实录：我是这样用G1替换CMS的](https://mp.weixin.qq.com/s/Dr1NSeZByvFvZ14aRevqcw)
++ [JVM 垃圾回收器全景与G1深度解析](https://mp.weixin.qq.com/s/bAefOqKrEiTZjKtb0bQYUw)
++ [G1垃圾回收器4期- JVM默认初始化参数](https://mp.weixin.qq.com/s/jZXGgv_yOK51L6xjR3PkNw)
++ [G1 Mixed GC：它怎么知道先清哪个 Region](https://mp.weixin.qq.com/s/lJ7s0XJwy7zupydWheawbQ)
+
+#### ZGC
+
 + [ZGC 垃圾回收器原理与实现方式](https://mp.weixin.qq.com/s/sx_btjih6MMEOYoZfRsJag)
++ [ZGC调优全解析：从核心原理到百万级流量生产实践，将GC停顿从5秒优化到200ms](https://mp.weixin.qq.com/s/WYUg1aoFSm4taEFo3UC8CA)
++ [Java 面试题 --JVM 大厂篇之 Java 新神器 ZGC：颠覆你的垃圾回收认知！](https://mp.weixin.qq.com/s/dPINwSxp_mz5vCjjDPhNrQ)
++ [深入解析 ZGC：基于 G1 的革新性优化](https://mp.weixin.qq.com/s/iVi5ssDQO7osyDEGNZC1rw)
++ [ZGC 极致低延迟：一边搬仓一边发货](https://mp.weixin.qq.com/s/FyWnzu9NkKzqd3r1kxdZ3g)
 
 # 核心库
 
@@ -1922,6 +1951,8 @@
 + [新同事问：为什么 HashMap 不能一边遍历一边删除？一下子把我问懵了！](https://mp.weixin.qq.com/s/3bfigqI2jXH2qRF89wViMg)
 + [把 HashMap 的源码读一遍:你脑子里那张「数组 + 链表」的图,JDK 8 已经改了三处](https://mp.weixin.qq.com/s/EwaWF1sQNsihk_oIkErGiA)
 + [线上OOM一次排查实录，1个HashMap吃掉2GB内存](https://mp.weixin.qq.com/s/kBwfQHS-s7YPeK6Wx3mS9w)
++ [HashMap 核心原理：散列表、红黑树与 put 流程详解](https://mp.weixin.qq.com/s/eOkr8S6a64xakqXuln4dZg)
++ [HashMap 核心机制十问：put、get、哈希碰撞、扩容、红黑树、负载因子](https://mp.weixin.qq.com/s/q418l3xBaJ7vcSdghmB99g)
 
 ### Optional
 
@@ -2132,6 +2163,7 @@
 + [【Java集合讲透·Day02】死磕 ConcurrentHashMap：JDK7 分段锁 vs JDK8 无锁化革命，一文打尽底层玄机](https://mp.weixin.qq.com/s/fnP_1oG9XjdQuqYy0ixvEw)
 + [不锁整张表，线程怎么安全？（一文讲透ConcurrentHashMap）](https://mp.weixin.qq.com/s/xgWz90Mv15fl9LZeZR0DzQ)
 + [面试官问我ConcurrentHashMap，我用"停车场"讲明白了](https://mp.weixin.qq.com/s/623qUXBAtSGTRIFENGGkeA)
++ [ConcurrentHashMap 原理：分段锁到 CAS 加 synchronized](https://mp.weixin.qq.com/s/pCJ2h2FQVq273uJyucNTVg)
 
 ### 其它
 
@@ -2471,6 +2503,7 @@
 + [Java面试高频题：Dubbo调用是同步还是异步？终于讲透了](https://mp.weixin.qq.com/s/bE3BbQ-ybDa09K0QTd_ing)
 + [Dubbo 默认重试 2 次，我的数据库里多了好几条重复数据](https://mp.weixin.qq.com/s/vk37rcvOjXmckg37UrV4Pw)
 + [面试题：调用一个服务显示 "No provider" 了，说说你的排查思路？](https://mp.weixin.qq.com/s/ITa3QdNri3uYULhHuiXCbg)
++ [阿里面试真题：Dubbo服务降级、失败重试如何设计？](https://mp.weixin.qq.com/s/18zIO0ntTRSa3lEarJiH_g)
 
 ## eureka
 
@@ -2733,6 +2766,7 @@
 + [MyBatis缓存机制](https://mp.weixin.qq.com/s/_nQOvAz3P5aYJqqXsV-5vg)
 + [MyBatis 分页实现原理](https://mp.weixin.qq.com/s/Lbt1HYRomO78-ZoCcS3BqA)
 + [MyBatis 中 @MapKey 的真正作用，一篇文章彻底讲透](https://mp.weixin.qq.com/s/KKLrDvgzaD4qXOSPFPMF8w)
++ [多年开发经验总结：MyBatis 多表查询，看这一篇就够了](https://mp.weixin.qq.com/s/GUITNgIaUfBx-Oadvm1HxA)
 
 ### plus
 
@@ -2784,6 +2818,7 @@
 + [MyBatis Plus 封神玩法：这12个骚操作让开发效率直接起飞！](https://mp.weixin.qq.com/s/CoHtu4nEDsn5x3zT3TUKWw)
 + [@TableLogic 的隐藏坑：为什么很多公司干脆不用逻辑删除？](https://mp.weixin.qq.com/s/F5TwWmN-syrxoC9kz9wpfw)
 + [MyBatis-Plus用了这么久，这些坑我替你踩过了](https://mp.weixin.qq.com/s/NHtebBixRAQ7c2EzZjyMNQ)
++ [saveBatch 骗了多少人？一行配置让批量插入提速10倍](https://mp.weixin.qq.com/s/ksJ5p3DIx82C9td17Ry5fQ)
 
 ## nacos
 
@@ -3006,6 +3041,7 @@
 
 ### 核心基础概念
 
++ [Spring 框架全景概述](https://mp.weixin.qq.com/s/-9KdA5yiHRmNuyqWkj250Q)
 + [Java 开发必读，谈谈对 Spring IOC 与 AOP 的理解](https://my.oschina.net/u/4526289/blog/11207347)
 + [为什么大厂都在用Spring？5分钟带你看透它的设计精髓！](https://mp.weixin.qq.com/s/Q7OlNsetA3OQaHZCROpZeg)
 + [Spring源码破壁：从框架使用者到架构设计者的认知跃迁](https://mp.weixin.qq.com/s/saIZiZGTl7hfKY4bJm0BUA)
@@ -3214,6 +3250,7 @@
 + [第八篇・Spring 5 源码深度拆解：Spring 资源加载与 Environment 环境体系](https://mp.weixin.qq.com/s/ZNtAaSdjukVbiTkdopBZhw)
 + [循环依赖解析：三级缓存是怎么解决问题的？](https://mp.weixin.qq.com/s/c1sI9ztdb_ZrbpMLqoBYhg)
 + [Spring循环依赖与三级缓存：从原理到实战，彻底搞懂不踩坑](https://mp.weixin.qq.com/s/fUCcdMbgJeG-QMDjzYReIA)
++ [spring源码解读](https://mp.weixin.qq.com/s/uIzrojV8GrSkv0LQr7NfNw)
 
 ### 新版本新特性
 
@@ -3410,6 +3447,7 @@
 + [Java开发指南 | Spring数据Mapper层（超多丰富案例，建议收藏！）](https://mp.weixin.qq.com/s/57WsHSRUyDvGVwCmzfjpGQ)
 + [Spring事务什么时候会失效](https://mp.weixin.qq.com/s/g9uHWqDFDqJXPYlAUpGQfA)
 + [代码删Key无报错，缓存永远删不掉！RedisTemplate默认JDK序列化带前缀乱码，线上缓存操作失效故障复盘](https://mp.weixin.qq.com/s/BvR3NxRTJJoT8QGcmLFvWw)
++ [一个 REQUIRES_NEW，把数据库连接池打爆了](https://mp.weixin.qq.com/s/YJxdKn4R824MYlnEiFdSng)
 
 #### BATCH
 
@@ -3485,6 +3523,8 @@
 + [@Transactional 为什么会失效？从底层原理到实战边界](https://mp.weixin.qq.com/s/r5AOXrAEXML6XD_4D9l5RA)
 + [用了8年@Transactional，这个坑文档里真没明说](https://mp.weixin.qq.com/s/aT6W-7k-TdDQYrJcLYb48Q)
 + [一个 @Async，把 @Transactional 的事务边界打穿了](https://mp.weixin.qq.com/s/PNUw-NhGkpcwisWyFFDrxg)
++ [十万个why：方法明明加了 synchronized，为什么加上 Spring 事务之后又线程不安全了？](https://mp.weixin.qq.com/s/N_OX2B3mElCeSDX34vQaRw)
++ [@Transactional 失效的 7 种场景：第 5 种最难排查](https://mp.weixin.qq.com/s/JssOrQ9vv8X-nrBWKLCdSA)
 
 ### Log
 
@@ -3610,6 +3650,7 @@
 + [静态代理与动态代理，Spring AOP底层精髓全解析](https://mp.weixin.qq.com/s/wo8Ym2qft6j1_8mScIIy_A)
 + [AOP零侵入实现全局接口日志收集](https://mp.weixin.qq.com/s/bx5PDrj_Xy3ydgV2YTfiyA)
 + [源码拆解：AOP代理对象完整创建流程](https://mp.weixin.qq.com/s/Q4YE5Q7VcgVfXAtQVpCxVQ)
++ [Java AOP 开发全攻略：从入门到精通](https://mp.weixin.qq.com/s/s82ukw7ZwLUrx6vLFN2suQ)
 
 ### 配置打包部署
 
@@ -4735,6 +4776,8 @@
 + [Controller接口设计的4种高级方法](https://mp.weixin.qq.com/s/ryyOoD3v24lcj2tYofjNgQ)
 + [Java开发：Spring Boot Validation 参数校验最全实战](https://mp.weixin.qq.com/s/2Pmc_lKQJ-hiA6h0LNYcIg)
 + [Spring Boot HTTP请求日志完整指南：从入门到生产级](https://mp.weixin.qq.com/s/CRbWuFiCKEsdZR1dea2VFw)
++ [Spring Boot 内嵌 Tomcat，是进步还是退步？](https://mp.weixin.qq.com/s/DLAtOvT07zok-jOLSoU0MA)
++ [Spring Boot 认证架构深度实践：Access Token + Refresh Token 从单体到分布式演进](https://mp.weixin.qq.com/s/I9chQX-VORtJhr3kTF6lEw)
 
 ##### 文件上传下载
 
@@ -4904,6 +4947,8 @@
 + [高流量REST API优化实战，Spring Boot集成Redis一次解决击穿、穿透、雪崩三大坑](https://mp.weixin.qq.com/s/wjzgCsCEYjur6YtZw8JmxA)
 + [2.4.2 Spring Boot 缓存实战：从 Caffeine 到 Redis，再到多级缓存，一份代码全搞定](https://mp.weixin.qq.com/s/V132sQ03r1Pcsy0gi9BMgA)
 + [2.2.2 源码级拆解 Spring Boot 数据源自动配置：Hikari 为何是默认首选？](https://mp.weixin.qq.com/s/Q-9ba132wXeTtM6JUyRn2w)
++ [SpringBoot 消息幂等性设计：防重复消费](https://mp.weixin.qq.com/s/iy-oHv8u5hZp4-QQ6LihHA)
++ [2.3.3 Spring Boot MyBatis 自动配置源码解析：从 @Conditional 到动态代理的全链路](https://mp.weixin.qq.com/s/YfpcVXmDQR7uStc9TsnZVg)
 
 ##### TRANSACTION
 
@@ -5062,6 +5107,7 @@
 + [SpringBoot中3种应用事件处理机制](https://mp.weixin.qq.com/s/HpRNbU2ANxNeUErIlqDRtQ)
 + [告别紧耦合！用 @EventListener 打造灵活的 Spring Boot 应用](https://mp.weixin.qq.com/s/5G-IbT9ZbauKYcfy63ZyGQ)
 + [《Spring Boot里用事件解耦：@EventListener 与 @TransactionalEventListener 怎么选》](https://mp.weixin.qq.com/s/npdrCJjIde_wJdEZNp1bdA)
++ [Spring Boot 事件机制](https://mp.weixin.qq.com/s/NPe7Xb6gTeOUFLq1isl33A)
 
 #### CACHE
 
@@ -6201,3 +6247,6 @@
 + [【Java并发编程讲透·Day03】面试造火箭，生产真救火，高并发限流方案你了解多少？](https://mp.weixin.qq.com/s/pJXcDa8ySK8g9fBNtdLxXA)
 + [Java+AI 第14课异常处理 try/except/finally](https://mp.weixin.qq.com/s/TtZoPiuos3KcPMNlsxsy0g)
 + [函数式接口是什么？四大核心接口详解（AI 辅助学习 Java 8）](https://mp.weixin.qq.com/s/feGD187hT2vqMMHOnxCSHw)
++ [Java开发必知必会的MySQL核心知识点(二)-索引探秘：让你的查询快如闪电](https://mp.weixin.qq.com/s/KMFzQlckis_Dg2S8toUH_g)
++ [日志与全链路追踪：从 MDC 到 SkyWalking，一套组合拳搞定线上排查](https://mp.weixin.qq.com/s/mH7v7oM3OXC7iPzz4hAcXA)
++ [Java安全避坑指南：10类高频漏洞与实战解决方案](https://mp.weixin.qq.com/s/BATVetjNvjDNVwqeIP3SCw)

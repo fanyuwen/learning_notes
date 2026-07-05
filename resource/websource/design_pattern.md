@@ -50,6 +50,8 @@
 + [面试官问设计模式时，他在考察什么？](https://mp.weixin.qq.com/s/elswFZquOSliMe-zneYXJg)
 + [一文搞懂行为型设计模式三巨头：策略、观察者、责任链，附 Spring + MQ 源码实战](https://mp.weixin.qq.com/s/QFN3UyEjFgm38qr4BTqofw)
 + [策略模式+工厂模式重构指南](https://mp.weixin.qq.com/s/LXaEFgQFFqG9L5l-UgeWrA)
++ [「架构杂记」设计模式的本质——“找到变化，封装变化”](https://mp.weixin.qq.com/s/oD70wjPWzikEQjBtR6XUJQ)
++ [23种设计模式速记](https://mp.weixin.qq.com/s/htdrDjpmeW9e7m7Jv4EKCw)
 
 ## 原则
 
@@ -99,6 +101,7 @@
 + [简单工厂模式](https://mp.weixin.qq.com/s/_AkPckJKS-KBB0ZFM-pdqQ)
 + [什么是工厂模式？工厂模式有哪些类型？如何使用它们？](https://mp.weixin.qq.com/s/JPu0_bGsUERfVYMb8qX3dQ)
 + [工厂模式：打造灵活高效的对象创建工厂](https://mp.weixin.qq.com/s/kfs8wCDe_56GaPwRe_fA8g)
++ [工厂模式详解：简单工厂、工厂方法与抽象工厂](https://mp.weixin.qq.com/s/xaJnYankqJYeD1TWzRx-_w)
 
 ## 构造者模式
 

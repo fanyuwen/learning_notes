@@ -529,6 +529,8 @@
 + [Mysql面试题：慢 SQL 一直慢和偶尔慢，处理思路有什么不同？ 偶尔慢的 SQL 你觉得可能是什么原因？](https://mp.weixin.qq.com/s/Gn5tTC60SeZxmxW2XSbQwQ)
 + [别只懂CRUD了：一次1200万数据全表扫描，让我读懂了MySQL优化器](https://mp.weixin.qq.com/s/tqvju_8HDAFKdiLJ0kAPew)
 + [面试题库：MySQL 为什么使用 B+ 树而不使用红黑树？](https://mp.weixin.qq.com/s/fJzFiJ8GanT1MHFpgOtPiQ)
++ [mysql深分页问题同行回答出花来了！不会你还不知道吧！](https://mp.weixin.qq.com/s/rhCuj_Z8N3-E2E-Ljt05Qg)
++ [MySQL 整体架构：连接管理、SQL 解析、优化器与存储引擎的分层协作](https://mp.weixin.qq.com/s/qGd9k5rAMjqZ_liUPUCtwg)
 
 #### 存储引擎
 
@@ -550,6 +552,8 @@
 + [一条 INSERT 背后的秘密：揭开 InnoDB 记录结构的神秘面纱。](https://mp.weixin.qq.com/s/LUA65F1aanDZM4prllH-7Q)
 + [InnoDB的智慧设计：刷redo log到磁盘和直接刷脏页到磁盘的区别](https://mp.weixin.qq.com/s/1wCNBt56KEJv89rwghJy-Q)
 + [面试官问我MySQL主键怎么选的——我直接把InnoDB的选秀规则抖出来了](https://mp.weixin.qq.com/s/6bbmoOa8h6ADVZweyls9GA)
++ [随笔闲聊｜吃透 InnoDB 事务：定义、适用场景、存在意义、四大隔离级别一次性讲透](https://mp.weixin.qq.com/s/gaEz4Cb1EqjrfsPxxth0DQ)
++ [InnoDB 存储结构：表空间、数据页、行格式与磁盘组织](https://mp.weixin.qq.com/s/TQ12XOJcRWCPKv9UrD3gQw)
 
 #### MVCC
 
@@ -578,6 +582,8 @@
 + [深入分析MySQL MVCC机制](https://mp.weixin.qq.com/s/ZWTGsAsnr4osiVRiFamgtQ)
 + [面试官问我MVCC是什么，我用"时光机"讲明白了](https://mp.weixin.qq.com/s/m3u2cikr8a01rXdukWQj-Q)
 + [面试官：讲讲MVCC原理？RR隔离级别如何避免幻读？事务隔离 / MVCC / 锁机制，从底层原理到秒杀实战](https://mp.weixin.qq.com/s/EQJVW5BBIoNsS0dw4HQpUw)
++ [MySQL之InnoDB MVCC多版本并发控制](https://mp.weixin.qq.com/s/roipdtKrQ15BV8v_HqCXMA)
++ [MVCC多版本并发控制机制](https://mp.weixin.qq.com/s/9BTUy-OpCTikZIBOuoUsow)
 
 #### 锁
 
@@ -636,6 +642,7 @@
 + [深入解析 InnoDB 三大锁机制：表锁、行锁、意向锁](https://mp.weixin.qq.com/s/OgMCr3ZU5J3ZKTleNmU_Ng)
 + [InnoDB 行锁失效的 5 个常见场景，一张图全搞定](https://mp.weixin.qq.com/s/LElU1N1KQSZTavVQvyDNVw)
 + [面试题库：MySQL 间隙锁（Gap Lock）是什么？](https://mp.weixin.qq.com/s/QJ_hAo4VE933jQc-5nMRkA)
++ [MySQL锁机制超详细入门指南（表锁、行锁、间隙锁、元数据锁，含实操案例）](https://mp.weixin.qq.com/s/jqjN394pWpGqv6zfTcW2WA)
 
 #### 事务
 
@@ -774,6 +781,7 @@
 + [索引明明建好，SQL却全表扫描！线上隐式类型转换导致索引失效，慢SQL悄无声息拖垮数据库](https://mp.weixin.qq.com/s/e1G-6OZClNfAvLEBmjlkAQ)
 + [Mysql索引执行计划](https://mp.weixin.qq.com/s/2hd8ekeTDHZ5GgYCKFdVOQ)
 + [下单接口卡10秒，一个索引引发的生产事故](https://mp.weixin.qq.com/s/8Ko0hqOmcZa0AArnqm-LwQ)
++ [Mysql索引B+树讲解](https://mp.weixin.qq.com/s/XC6waBGh1PMN8eEW5jUc2w)
 
 ### PostgreSQL
 
@@ -1087,6 +1095,9 @@
 + [Redis 里最常见的三个坑：雪崩、击穿、穿透](https://mp.weixin.qq.com/s/h-GS5DH356SZxWeUpfjOQg)
 + [Redis的持久化机制-java面试实战（4）](https://mp.weixin.qq.com/s/MpEcEkXUIrptpqE4kRENTQ)
 + [Redis 怎么淘汰过期 key？](https://mp.weixin.qq.com/s/f_LV67rgNMBhuPyxT1Nq0w)
++ [Redis 核心原理](https://mp.weixin.qq.com/s/PY2EXRXFk3V8SPmMbcR48A)
++ [一文讲透 Redis Cluster：槽位、分片、MOVED、故障转移全解析](https://mp.weixin.qq.com/s/0Y0nf21PG0C71QBGRkfMbw)
++ [Redis 入门到进阶：数据类型、跳表、线程模型、Lua 脚本](https://mp.weixin.qq.com/s/30BtulPTaCIwV_5WYQo2Zg)
 
 #### 原理
 
@@ -1154,6 +1165,7 @@
 + [Redis 过期键删除策略及应用场景详解](https://mp.weixin.qq.com/s/TytZ9qyjpC7aCcSNF8aX3A)
 + [面试官：ZSet 的底层实现是什么？（修订版）](https://mp.weixin.qq.com/s/blyK0b2VKXYZfxA07pkhAw)
 + [Redis 深度解析：从底层原理到实战调优](https://mp.weixin.qq.com/s/di41RRvln94eN2G5tOqcpQ)
++ [redis底层数据结构](https://mp.weixin.qq.com/s/LhFTJU9ch_mHOyw9g4plsw)
 
 #### 分布式锁
 

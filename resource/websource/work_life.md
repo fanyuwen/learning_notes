@@ -172,6 +172,7 @@
 + [AI时代的程序员焦虑](https://mp.weixin.qq.com/s/cqeK-cuJFKpJ-2Y0hrtN_Q)
 + [半年没写过一行代码了](https://mp.weixin.qq.com/s/_1QbgnNp5r6sYklOYUbpUQ)
 + [我只是一个普通程序员，但我想成为架构师](https://mp.weixin.qq.com/s/dc9jnTlFNJ1TtZZe7ZMsYg)
++ [程序员除了写代码还能做什么？](https://mp.weixin.qq.com/s/0zNEjLq1BmS-98-NdJpzhQ)
 
 # 个人成长
 
@@ -446,6 +447,7 @@
 + [看了我的IDEA使用技巧，同事也开始悄悄模仿了...](https://mp.weixin.qq.com/s/gzld_RX7_7XPb0YEImw6PQ)
 + [IDEA调试技巧不只是打断点](https://mp.weixin.qq.com/s/0c4lqbSl5Hv7lmnBEnMtZg)
 + [IDEA Git 操作避坑指南](https://mp.weixin.qq.com/s/OptROETKDnohdBsQYbXoxg)
++ [还在手动搭Maven多模块？这款IDEA插件让我效率提升10倍（真实体验）](https://mp.weixin.qq.com/s/LHPygFUI05A8tPtr836Utw)
 
 ## MAC_PRO相关
 

@@ -115,6 +115,7 @@
 + [订单冷热拆分架构设计](https://mp.weixin.qq.com/s/lR2--gfZZmHc8JenE-AZmw)
 + [【架构设计】MVC、MVP、MVVM](https://mp.weixin.qq.com/s/Thg8DLlzCfeoffD97AL0iA)
 + [为什么很多公司的系统架构，最后都会变成“没人敢动”？](https://mp.weixin.qq.com/s/QL6GTBvMEZSAo_f0tG-L6w)
++ [我的系统架构设计三原则](https://mp.weixin.qq.com/s/w2gDhVhF_acHJmj2gGECzQ)
 
 ### DDD
 
@@ -501,6 +502,7 @@
 + [别再只会重试接口！分布式系统防重复的终极答案：幂等性设计实战指南](https://mp.weixin.qq.com/s/O9XpHEB15U3LOlGOhkm0UQ)
 + [十万个why：明明接口幂等就能防重复提交，为什么还要加分布式锁？](https://mp.weixin.qq.com/s/fvVoz4_4fEDrxiRmL-OcOA)
 + [线上灵异问题：用户没多点按钮，却频繁重复下单！复盘一次生产幂等失效故障全过程](https://mp.weixin.qq.com/s/bsXjcEQ0IYlvG0RcvJbXIg)
++ [美团二面，面试官问我支付防重，我说"先查后写"，他叹了口气合上了简历](https://mp.weixin.qq.com/s/ASs3_-clPUiQi89Zs5Wiaw)
 
 ### 负载&限流
 
@@ -575,6 +577,7 @@
 + [面试:当支付回调遇到超时关单如何处理？](https://mp.weixin.qq.com/s/IZp8OIdlMe-g9C1BXClM8Q)
 + [订单超时关闭的3种实现方案：从定时任务到延迟队列，如何选？](https://mp.weixin.qq.com/s/w3uwJWcwffcKeOo_kgM2oA)
 + [订单30分钟未支付自动关闭？别急着上MQ，小心把系统搞崩](https://mp.weixin.qq.com/s/2UK9-yPaVKGWvYL9knD9qw)
++ [美团面试官问我：千万订单超时怎么自动取消？我说定时任务，他沉默了](https://mp.weixin.qq.com/s/LZ7wNojVYQxPgUJZr2ya_Q)
 
 ### 重试
 
@@ -834,6 +837,7 @@
 + [领域事件：让上下文之间解耦通信](https://mp.weixin.qq.com/s/XjeJXlYgp3NPw5qOmGwvCw)
 + [Java开发：Java后端双层权限体系，接口权限与数据权限核心设计与生产实现详解](https://mp.weixin.qq.com/s/pWCZJIYFvnW1y-w-w1sazA)
 + [单节点扛10万QPS、毫秒级响应！自研RPC框架的核心设计思路全公开](https://mp.weixin.qq.com/s/NUgdzX7Ux5s9v-d540UQ3g)
++ [事务里调用远程接口，为什么线上最容易卡死？](https://mp.weixin.qq.com/s/CPsDqWrfsoJKwNWbcR6foQ)
 
 # 测试相关
 
@@ -911,6 +915,8 @@
 + [面试官：明星离婚，千万粉丝秒级通知，你怎么做？](https://mp.weixin.qq.com/s/vf0rM1NuTXEZeafH7mxu1g)
 + [面试官：说说滑块验证码是怎么实现的？我懵了…](https://mp.weixin.qq.com/s/nGuxPKPn4OQFGUW4jUeJVg)
 + [日均5千万请求的系统如何设计部署方案](https://mp.weixin.qq.com/s/W0mJp5wcqA8CXIsTSMmQig)
++ [聚合根设计：保护业务不变性的最后防线](https://mp.weixin.qq.com/s/h4ZRfOUp4VtzHkyVBcSJ7g)
++ [电商算价中心架构：基于 Aviator 规则引擎的促销计算体系](https://mp.weixin.qq.com/s/hIFDnBeI5TtLs5srkFpE1w)
 
 ## 代码相关
 

@@ -106,6 +106,7 @@
 + [别再收藏 AI 教程了，真正厉害的人已经开始搭工作流了](https://mp.weixin.qq.com/s/jgehpVPQoUkGykXMft3b-g)
 + [一文带你搞懂 AI Agent：Agent、Skill、插件、MCP……这些词到底有啥区别？](https://mp.weixin.qq.com/s/rJ5kSBHBtf2fqNZopXCcBQ)
 + [AI 工程师路线图：从入门到架构师的完整路径|干货](https://mp.weixin.qq.com/s/RfBwNgMRnNNkZPsJCjN5-Q)
++ [AI Coding与单元测试的协同进化：从验证到驱动](https://tech.meituan.com/2025/12/05/AI-Coding-Unit-Testing.html)
 
 ### agent
 

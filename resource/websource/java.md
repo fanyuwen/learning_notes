@@ -1108,6 +1108,7 @@
 + [虚拟线程落地实战：从原理到生产级最佳实践](https://mp.weixin.qq.com/s/zky5yUK6kMnpvf5jt2Vj6g)
 + [Java开发：彻底搞懂Java线程，并发编程从此不懵](https://mp.weixin.qq.com/s/O3z4magCbx22uavT4DyVmA)
 + [Object.wait/notify/notifyAll 的作用、原理与使用方式](https://mp.weixin.qq.com/s/xAc51QpDyZc9I73utTMlew)
++ [基本功 | 一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html)
 
 #### CAS
 

@@ -360,6 +360,7 @@
 + [从 JDK 21 升到 25 代码全红？复盘 Java 史上最难产的 API](https://mp.weixin.qq.com/s/p-xjEhmgi4lEJkKX0u8Y7Q)
 + [JVM 如何实现虚拟线程：原理、使用方式与注意事项](https://mp.weixin.qq.com/s/hCqNj0yA-PjK72T2t6997g)
 + [Java8常用语法全解析，通俗易懂直接上手](https://mp.weixin.qq.com/s/GvUzK67p9_KS6NnJ0OzbVQ)
++ [JDK高版本特性总结与ZGC实践](https://tech.meituan.com/2025/06/20/JDK17-ZGC.html)
 
 ## 高级用法
 

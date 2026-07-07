@@ -721,6 +721,7 @@
 ## 存储
 
 + [美团大规模 KV 存储挑战与架构实践](https://my.oschina.net/meituantech/blog/11047456)
++ [美团大规模KV存储挑战与架构实践](https://tech.meituan.com/2024/03/15/KV-Squirrel-Cellar.html)
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/SfSOBo4m492mY8HeLbxIjw)
 
 # 开发相关

@@ -780,6 +780,7 @@
 + [【Nginx】 访问的url不知道具体走的哪个location块，那是你没搞懂它的优先级](https://mp.weixin.qq.com/s/01E0We3GElr9jiDh0XYrWQ)
 + [你的upstream还没加keepalive？等着凌晨被叫醒吧](https://mp.weixin.qq.com/s/7kvLCLP_jnx7oevHhiqwkw)
 + [高并发场景下，Nginx如何做限流？](https://mp.weixin.qq.com/s/EFd0W0Yum1U16r82TvOwtw)
++ [十万个why：Nginx 已经能做负载均衡，为什么还需要服务注册发现？](https://mp.weixin.qq.com/s/vxGDuUd-3lHe2Hhbui9-3A)
 
 ### wireshark
 

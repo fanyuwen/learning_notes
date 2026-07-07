@@ -238,6 +238,7 @@
 + [面试官问我接口和抽象类的区别，我用"合同"讲明白了](https://mp.weixin.qq.com/s/TFRbtaeq5Mx0_0DDNEkJng)
 + [如何理解Java 的接口设计](https://mp.weixin.qq.com/s/WyQM7TovJLZIv6ONO6raIQ)
 + [Java 面向对象三大特性：封装、继承、多态一文全通](https://mp.weixin.qq.com/s/IjCo3E3SRebypH3odmIklg)
++ [看不懂面向对象？这篇讲得明明白白](https://mp.weixin.qq.com/s/HDo13zALtUONBgmh4Lsjiw)
 
 ## 新语言特性
 
@@ -1110,6 +1111,7 @@
 + [Java开发：彻底搞懂Java线程，并发编程从此不懵](https://mp.weixin.qq.com/s/O3z4magCbx22uavT4DyVmA)
 + [Object.wait/notify/notifyAll 的作用、原理与使用方式](https://mp.weixin.qq.com/s/xAc51QpDyZc9I73utTMlew)
 + [基本功 | 一文讲清多线程和多线程同步](https://tech.meituan.com/2024/07/19/multi-threading-and-multi-thread-synchronization.html)
++ [Java 并发同步工具类详解](https://mp.weixin.qq.com/s/jCnKPjs9VHrxmhI5865D2g)
 
 #### CAS
 
@@ -1587,6 +1589,7 @@
 + [类的加载_理论篇](https://mp.weixin.qq.com/s/0s_W2Q139Y7CPP6JYnkBDg)
 + [JVM的类加载机制-java面试实战（1）](https://mp.weixin.qq.com/s/MQ43q4Rg0yJ9FppmgOraGg)
 + [ClassLoader深度解剖：双亲委派、Tomcat类隔离、SPI与模块化](https://mp.weixin.qq.com/s/Qo3DiwsTKLpH32UG4GCafQ)
++ [面试官：满足什么条件时，一个 Java 类会被卸载？](https://mp.weixin.qq.com/s/3Rbr_MBDRRtbwcBW1i4JlA)
 
 ### GC
 
@@ -1859,6 +1862,7 @@
 + [Java 开发 > 日期转换还在 Date、LocalDateTime、String、Long 来回试？4 种类型互转一次记牢](https://mp.weixin.qq.com/s/0-PwGmfNZ4ft0g2SPDiR-g)
 + [别再用 Date 了！Java 时间处理终极指南：Date vs LocalDateTime 全面对比](https://mp.weixin.qq.com/s/rxzvQxY529yWL9nUMeMGsw)
 + [Java日期格式化，别一不留神就埋下一个巨坑](https://mp.weixin.qq.com/s/xvO7SSPqjaa2sDZD39l7mQ)
++ [新来的CTO：禁止在项目中使用 Date 类，发现立即走人！！！](https://mp.weixin.qq.com/s/weC5zTZEBqM9nxeuHsK7Bg)
 
 ### Collection/Map
 
@@ -1894,6 +1898,7 @@
 + [为什么现在更推荐ArrayDeque而不是Stack？（一文讲透Java ArrayDeque）](https://mp.weixin.qq.com/s/qum5P2w29dFuqial24kz3w)
 + [一个比想象中强大的工具类（一文讲透Java Collections工具类）](https://mp.weixin.qq.com/s/CjziYp1fitci-lxKYKp0uw)
 + [LinkedList插删真的快？（一文讲透Java的LinkedList）](https://mp.weixin.qq.com/s/QzwcG9hSwNe4JdGI6weV3g)
++ [删除堆顶后，它还干了啥？（一问讲透Java PriorityQueue）](https://mp.weixin.qq.com/s/wBLeYVl8cB7p48WEq2y55w)
 
 #### map
 
@@ -2051,6 +2056,7 @@
 + [CompletableFuture 用不好，接口反而更慢](https://mp.weixin.qq.com/s/Lsu5b6VCJNz47OGRWU3zUA)
 + [电商下单性能翻倍：CompletableFuture 异步编排实战](https://mp.weixin.qq.com/s/QwzcnMf6ldDHNz4-ep09eA)
 + [异步任务编排架构实战：从 CompletableFuture 到 DAG 工作流引擎](https://mp.weixin.qq.com/s/KvMIzgTUDSJF-Yl0VKOtSw)
++ [Java Future 与 CompletableFuture 实战指南：从异步结果到任务编排](https://mp.weixin.qq.com/s/jOMJtwvChRK6vKS_o3AlHg)
 
 ### ThreadPool
 
@@ -2357,6 +2363,7 @@
 + [Maven 依赖冲突如何快速定位？阿里工程师都在用的7招绝学，90%的人都不知道！](https://mp.weixin.qq.com/s/i2MmMoxsV810HDm0BinunA)
 + [Maven Central 开始限流，每个 Java 开发者都该花两分钟看一眼](https://mp.weixin.qq.com/s/UF5-1NotowRW3ABeLCzoNQ)
 + [过度设计的代价：从 Maven 版本幻觉到工程上的简单原则](https://mp.weixin.qq.com/s/4nsPoEb9lrY2Nxag3EtLrw)
++ [Maven 4 要来了：15 年后，Java 构建工具迎来“彻底重构”](https://mp.weixin.qq.com/s/sL1Q96eoqf9iYOebCx_uTQ)
 
 # 功能
 
@@ -2506,6 +2513,7 @@
 + [Dubbo 默认重试 2 次，我的数据库里多了好几条重复数据](https://mp.weixin.qq.com/s/vk37rcvOjXmckg37UrV4Pw)
 + [面试题：调用一个服务显示 "No provider" 了，说说你的排查思路？](https://mp.weixin.qq.com/s/ITa3QdNri3uYULhHuiXCbg)
 + [阿里面试真题：Dubbo服务降级、失败重试如何设计？](https://mp.weixin.qq.com/s/18zIO0ntTRSa3lEarJiH_g)
++ [为什么Dubbo能自动发现死服务？90%的程序员只知其一不知其二](https://mp.weixin.qq.com/s/olpUCLbM6OauvFiVMe2xEw)
 
 ## eureka
 
@@ -4780,6 +4788,8 @@
 + [Spring Boot HTTP请求日志完整指南：从入门到生产级](https://mp.weixin.qq.com/s/CRbWuFiCKEsdZR1dea2VFw)
 + [Spring Boot 内嵌 Tomcat，是进步还是退步？](https://mp.weixin.qq.com/s/DLAtOvT07zok-jOLSoU0MA)
 + [Spring Boot 认证架构深度实践：Access Token + Refresh Token 从单体到分布式演进](https://mp.weixin.qq.com/s/I9chQX-VORtJhr3kTF6lEw)
++ [别再用Map传Spring Boot接口参数了](https://mp.weixin.qq.com/s/OBIXO7dpiGpzpSrFaiPa_A)
++ [不用 AOP！Spring 零侵入参数自填充，代码优雅度拉满！](https://mp.weixin.qq.com/s/wOuHK0h14fBTcntSq4J9Cg)
 
 ##### 文件上传下载
 
@@ -5291,6 +5301,7 @@
 + [写了 10 年代码才顿悟：Spring Boot + 装饰器模式，才是优雅扩展的终极解法](https://mp.weixin.qq.com/s/wJYKMSRtFrYaMCs3Ppi2wg)
 + [SpringBoot+策略模式，大大加强系统接口扩展能力](https://mp.weixin.qq.com/s/3tImA0DmJlrmyH-49tTX0Q)
 + [别再满屏写 new 了！这四个设计模式，才是初级与高级开发的硬分水岭](https://mp.weixin.qq.com/s/U4_yu6SLXmfAwH6dli5YsQ)
++ [真实案例！吃透这 8 种设计模式，Spring Boot 开发更得心应手](https://mp.weixin.qq.com/s/y_ON4tI60Bd-0NkVWa9foQ)
 
 #### message
 
@@ -5625,6 +5636,7 @@
 + [SpringBoot 服务注册与发现：Nacos/Consul/Eureka](https://mp.weixin.qq.com/s/3hU07PKfzvd9_e-AmH6VBg)
 + [Spring Boot + Yauaa，请求客户端信息（设备、操作系统、浏览器）超精准解析](https://mp.weixin.qq.com/s/hPgk2geh5hAqWp-6qdpxEA)
 + [Kafka消息老是重复消费？三层架构搞定！Spring Boot+重试+DLQ+幂等实战](https://mp.weixin.qq.com/s/77YS7E9fgbcdmXpL31MOyg)
++ [生产级！Spring Boot + Webhook 自动回调系统设计及实现](https://mp.weixin.qq.com/s/jg86LksqXmq4lQZJnc8Oig)
 
 ##### excel
 

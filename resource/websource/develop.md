@@ -918,6 +918,7 @@
 + [日均5千万请求的系统如何设计部署方案](https://mp.weixin.qq.com/s/W0mJp5wcqA8CXIsTSMmQig)
 + [聚合根设计：保护业务不变性的最后防线](https://mp.weixin.qq.com/s/h4ZRfOUp4VtzHkyVBcSJ7g)
 + [电商算价中心架构：基于 Aviator 规则引擎的促销计算体系](https://mp.weixin.qq.com/s/hIFDnBeI5TtLs5srkFpE1w)
++ [字节二面：面试官让我设计评论盖楼系统，我说「递归查数据库就行」，他反手把我挂了](https://mp.weixin.qq.com/s/hrTvb5XdWVzveIQS86ox9Q)
 
 ## 代码相关
 

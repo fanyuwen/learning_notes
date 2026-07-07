@@ -367,6 +367,7 @@
 + [2026 年了还在用老命令？这 5 个终端神器让你效率翻倍](https://mp.weixin.qq.com/s/abSv0djhVhGf-7po6Xtekg)
 + [笔记软件这么多，大佬们都用过哪些？](https://mp.weixin.qq.com/s/JJlvW1ycSz99qY-Ocw_JbQ)
 + [C盘红了！](https://mp.weixin.qq.com/s/l1byCk6io0mcui0hffLTrA)
++ [C盘飘红不用急！教你如何正确扩容C盘](https://mp.weixin.qq.com/s/EyKL5p7KsblQyyA0rILD0w)
 + [10个Windows操作，职场新人早学早省事](https://mp.weixin.qq.com/s/6g68N5_rILCndMJYXUyyUQ)
 + [电脑不在身边也能派活？WorkBuddy微信远程指挥的10个场景，太实用了](https://mp.weixin.qq.com/s/_-Jiz4W8HjjoxrhjjbPn7g)
 + [用这组快捷键，你的Windows操作速度提升3倍](https://mp.weixin.qq.com/s/XU6JC4zjj1t_5Q_DrJUcmg)
@@ -448,6 +449,7 @@
 + [IDEA调试技巧不只是打断点](https://mp.weixin.qq.com/s/0c4lqbSl5Hv7lmnBEnMtZg)
 + [IDEA Git 操作避坑指南](https://mp.weixin.qq.com/s/OptROETKDnohdBsQYbXoxg)
 + [还在手动搭Maven多模块？这款IDEA插件让我效率提升10倍（真实体验）](https://mp.weixin.qq.com/s/LHPygFUI05A8tPtr836Utw)
++ [Claude Agent 进入 IntelliJ IDEA 公测，Java 开发方式真的要变了](https://mp.weixin.qq.com/s/X0hgTIfKtoabkB5eSOc7wA)
 
 ## MAC_PRO相关
 
@@ -682,6 +684,7 @@
 + [《软件设计的哲学》：复杂性的本质与模块化设计](https://mp.weixin.qq.com/s/gXhOwvKH5t6BxsxcoqUS2w)
 + [为什么你的代码总是越写越乱？ 读《整洁架构之道》](https://mp.weixin.qq.com/s/r62IjzyGf51k8tqgqLq72g)
 + [从书架上挑选了10本好书，每一本都值得反复阅读](https://mp.weixin.qq.com/s/KVMZduS_5cj-i-dK-sJFiw?click_id=331900574)
++ [技术书籍推荐](https://mp.weixin.qq.com/s/i51q_Ek-q_DS8-p2CWasIA)
 
 ### 生活
 

@@ -107,6 +107,9 @@
 + [一文带你搞懂 AI Agent：Agent、Skill、插件、MCP……这些词到底有啥区别？](https://mp.weixin.qq.com/s/rJ5kSBHBtf2fqNZopXCcBQ)
 + [AI 工程师路线图：从入门到架构师的完整路径|干货](https://mp.weixin.qq.com/s/RfBwNgMRnNNkZPsJCjN5-Q)
 + [AI Coding与单元测试的协同进化：从验证到驱动](https://tech.meituan.com/2025/12/05/AI-Coding-Unit-Testing.html)
++ [技术 Leader：“你根本不会用 Codex 和 Claude Code，也不懂 Vibe Coding！”，我：“用你教我？”](https://mp.weixin.qq.com/s/fBYjZhcn_cEGTLs9l-wGLA)
++ [免费！Claude Code + Pencil：UI 自动生成，Design / Code双向转换](https://mp.weixin.qq.com/s/awTS3F2eqFvaTl2aKa0HwQ)
++ [不会写代码的高管用Claude Code两天上线新程序，工程师接手后发现：一个Bug，让AI一天烧掉一个月服务器费！](https://mp.weixin.qq.com/s/3ojJ-7NFI5U1-qoVMNu2ig)
 
 ### agent
 
@@ -121,6 +124,7 @@
 + [AI Agent 场景下，万级 JSON 字段的性能挑战与优化实践](https://my.oschina.net/selectdb/blog/19658249)
 + [Agent 面试拷打（三）：MCP、Function、Skill，面试官最爱让你区分的三件套](https://mp.weixin.qq.com/s/rLOdUYNyajccR5kACbZ8Kg)
 + [阿里HR面被问：“说下怎么设计一个招聘Agent”？”我愣了一下，从概念、核心模块和坑都娓娓道来，这波应该稳了](https://mp.weixin.qq.com/s/V3mHmXefr9haFySGa3__8g)
++ [美团二面：Agent、Tools、Workflow 这三个的概念和区别介绍一下？我：没接触过...](https://mp.weixin.qq.com/s/EdF_pyb_Ci7BFGXQbRsRoA)
 
 ### RAG
 

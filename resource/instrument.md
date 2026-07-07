@@ -199,7 +199,7 @@
 + 图形库 [gtk](https://www.gtk.org/)
 + c/c++构建工具 [cmake](https://cmake.org/) [meson](https://mesonbuild.com/) [ninja](https://ninja-build.org/)
 + 包管理工具 [conan](https://conan.io/) [msys2](https://www.msys2.org/)
-+ c/c++学习资源 [c/cpp英文文档](https://en.cppreference.com/) [c/cpp中文文档](https://zh.cppreference.com/) [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) [isocpp](https://isocpp.org/)
++ c/c++学习资源 [c/cpp英文文档](https://en.cppreference.com/) [c/cpp中文文档](https://zh.cppreference.com/) [CppCoreGuidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) [isocpp](https://isocpp.org/) [cppcon](https://cppcon.org/)
 + c/c++依赖库 [boost](https://www.boost.org/)
 + c/c++测试库 [googletest](https://google.github.io/googletest/)
 

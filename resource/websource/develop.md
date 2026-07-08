@@ -328,6 +328,7 @@
 + [SkyWalking、Pinpoint、Jaeger——分布式链路追踪怎么选？](https://mp.weixin.qq.com/s/kbyC0hhvx6pe-rMPV8h4ow)
 + [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
 + [分布式 API 设计 下：REST](https://my.oschina.net/xiandafu/blog/18612369)
++ [别再死磕微服务调用了！高手都在用 Event-Driven Architecture 解耦分布式系统！](https://mp.weixin.qq.com/s/vJj6YfI0f0jXJG384eaDeA)
 
 ## 分布式锁
 
@@ -1000,6 +1001,7 @@
 + [解析JSON的这 6 种方案，真香！](https://mp.weixin.qq.com/s/dEwq74Adlv9OyhWweVeaMA)
 + [四大JSON框架对比：选对工具，开发更轻松](https://mp.weixin.qq.com/s/QG6elQKgBp_mY2jTapzaoQ)
 + [理解 JSON：数据结构与访问基础指南](https://mp.weixin.qq.com/s/2p3kr2GC-vfdH-moEx6HqQ)
++ [第4篇：结构化输出与 JSON 解析](https://mp.weixin.qq.com/s/OQNfZuQi-_B0Pt4oXBEmQg)
 
 ### 正则表达式
 
@@ -1107,6 +1109,7 @@
 + [10+个冷门却超实用的Git命令，一学就能用~](https://mp.weixin.qq.com/s/QpENWOtNnbHidEkqwPlryw)
 + [Git 的时代要结束了吗？Google JJ 给出的答案令人意外……](https://mp.weixin.qq.com/s/7Lbdo62drsY9b-K-Q2IdPg)
 + [面试官：Git 如何撤回已 Push 的代码？问倒一大片。。。](https://mp.weixin.qq.com/s/NBKjNrY3Wa-a6-hoq9mhnQ)
++ [面试官：Git 如何撤回已 Push 的代码？问倒一大片。。。](https://mp.weixin.qq.com/s/W9JhURFEDSTGB5aH19g44g)
 
 ### 编程范式
 

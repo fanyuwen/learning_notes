@@ -373,6 +373,7 @@
 + [用这组快捷键，你的Windows操作速度提升3倍](https://mp.weixin.qq.com/s/XU6JC4zjj1t_5Q_DrJUcmg)
 + [10个电脑常用的快捷键，提升电脑操作能力](https://mp.weixin.qq.com/s/r0lE_TLgRhnxZ9CBJBl7Aw)
 + [微信电脑版隐藏的 9 个神技巧，90% 的人只用了 10% 的功能！](https://mp.weixin.qq.com/s/K38wgQnybbBP0GcSJAN5Qw)
++ [记住这4条PowerShell命令，瞬间解决Windows最烦人的问题](https://mp.weixin.qq.com/s/wpFRYyeQYoCjIlyHOe_ABg)
 
 ## 开源资源
 

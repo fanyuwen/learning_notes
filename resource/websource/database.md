@@ -181,6 +181,7 @@
 + [面试官：如果要存ip地址，用什么数据类型比较好](https://mp.weixin.qq.com/s/RLfmkamiqaGz6JMHchELSw)
 + [字节二面：线上DELETE忘加WHERE，拿什么救命？](https://mp.weixin.qq.com/s/PUeAMzZNiR6CwyYn1u5I8w)
 + [一文讲透 Redis 与 MySQL 双写一致性：延迟双删、MQ、Canal 全解析](https://mp.weixin.qq.com/s/sVq6UVH5X_9DHxD_-iAY6Q)
++ [干掉线上90%数据库卡顿！大事务+大表终极优化指南](https://mp.weixin.qq.com/s/ZQlYzWVOM0xeC0CSbeNpQw)
 
 ### 读写分离&分库分表
 
@@ -669,6 +670,7 @@
 + [MySQL默认数据库隔离级别为什么是RR？而互联网大厂为什么把它修改为RC？](https://mp.weixin.qq.com/s/m3qnGrTb8l_caXUJMnp5Ig)
 + [MySQL 事务详解](https://mp.weixin.qq.com/s/JpAl5KLcO-a0L2Awtw7DeQ)
 + [架构必知：MySQL事务原理](https://mp.weixin.qq.com/s/q6C6Yhv_uIv3Xk-23UryYw)
++ [MySQL 事务隔离级别，以及什么是脏读、不可重复读、幻读](https://mp.weixin.qq.com/s/ubzKau7EQxm77hFJAHNQHw)
 
 #### 索引
 

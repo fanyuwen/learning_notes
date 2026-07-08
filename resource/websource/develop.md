@@ -326,6 +326,8 @@
 + [分布式ID生成方案详解](https://mp.weixin.qq.com/s/JGd2WPEdpgxKzw4BoXGEzw)
 + [分布式哈希算法（简述）](https://mp.weixin.qq.com/s/zjZajV0aqEXYx7Fs5lsv9Q)
 + [SkyWalking、Pinpoint、Jaeger——分布式链路追踪怎么选？](https://mp.weixin.qq.com/s/kbyC0hhvx6pe-rMPV8h4ow)
++ [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
++ [分布式 API 设计 下：REST](https://my.oschina.net/xiandafu/blog/18612369)
 
 ## 分布式锁
 

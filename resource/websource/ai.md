@@ -126,6 +126,10 @@
 + [阿里HR面被问：“说下怎么设计一个招聘Agent”？”我愣了一下，从概念、核心模块和坑都娓娓道来，这波应该稳了](https://mp.weixin.qq.com/s/V3mHmXefr9haFySGa3__8g)
 + [美团二面：Agent、Tools、Workflow 这三个的概念和区别介绍一下？我：没接触过...](https://mp.weixin.qq.com/s/EdF_pyb_Ci7BFGXQbRsRoA)
 
+### Claude Code
+
++ [Claude Code 藏在系统提示词里的 “暗门”](https://www.oschina.net/news/470656)
+
 ### RAG
 
 + [字节面试官：什么是 RAG？为什么需要 RAG？](https://mp.weixin.qq.com/s/Gl0JKmtwXuIt6SiyOz8K4w)

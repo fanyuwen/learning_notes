@@ -686,6 +686,10 @@
 + [从书架上挑选了10本好书，每一本都值得反复阅读](https://mp.weixin.qq.com/s/KVMZduS_5cj-i-dK-sJFiw?click_id=331900574)
 + [技术书籍推荐](https://mp.weixin.qq.com/s/i51q_Ek-q_DS8-p2CWasIA)
 
+#### 资源网站
+
++ [美团技术](https://tech.meituan.com/)
+
 ### 生活
 
 + [我不打算买房，无锡公积金还有什么用？](https://mp.weixin.qq.com/s/g2tXzKEWYJxRZzL_vxV4QA)

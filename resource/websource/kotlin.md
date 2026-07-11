@@ -79,6 +79,7 @@
 + [当 Jetpack Compose 遇上跨端原生渲染：Kuikly Compose DSL 的探索之路｜社区分享](https://mp.weixin.qq.com/s/0DE8AQjJzvydl1PBUkhMMg)
 + [如何在 Kotlin 项目中优雅地使用 Spring Data JPA｜官方博客](https://mp.weixin.qq.com/s/yRPeZsFUJIzDlaAlKONigw)
 + [协程这样理解比较容易懂](https://mp.weixin.qq.com/s/EK1ZtaH88KeyAt2UjOM0Ew)
++ [一文吃透 Kotlin 集合操作符](https://mp.weixin.qq.com/s/26JVhWtLsog1kDfMrVs4Iw)
 
 ## 技术月报
 

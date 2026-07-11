@@ -532,6 +532,7 @@
 + [面试题库：MySQL 为什么使用 B+ 树而不使用红黑树？](https://mp.weixin.qq.com/s/fJzFiJ8GanT1MHFpgOtPiQ)
 + [mysql深分页问题同行回答出花来了！不会你还不知道吧！](https://mp.weixin.qq.com/s/rhCuj_Z8N3-E2E-Ljt05Qg)
 + [MySQL 整体架构：连接管理、SQL 解析、优化器与存储引擎的分层协作](https://mp.weixin.qq.com/s/qGd9k5rAMjqZ_liUPUCtwg)
++ [PreparedStatement 为什么能防 SQL 注入？这次彻底讲明白](https://mp.weixin.qq.com/s/vVhn2RdwJcb_8uzXMPZzTQ)
 
 #### 存储引擎
 
@@ -555,6 +556,8 @@
 + [面试官问我MySQL主键怎么选的——我直接把InnoDB的选秀规则抖出来了](https://mp.weixin.qq.com/s/6bbmoOa8h6ADVZweyls9GA)
 + [随笔闲聊｜吃透 InnoDB 事务：定义、适用场景、存在意义、四大隔离级别一次性讲透](https://mp.weixin.qq.com/s/gaEz4Cb1EqjrfsPxxth0DQ)
 + [InnoDB 存储结构：表空间、数据页、行格式与磁盘组织](https://mp.weixin.qq.com/s/TQ12XOJcRWCPKv9UrD3gQw)
++ [一文搞懂InnoDB存储引擎的工作原理](https://mp.weixin.qq.com/s/r9Mdr8AvyRyFtQSmXi1Pzw)
++ [聚簇索引与二级索引：InnoDB 的索引组织方式](https://mp.weixin.qq.com/s/iHvJhBacMCQ3MhPiHaO4Pw)
 
 #### MVCC
 
@@ -585,6 +588,7 @@
 + [面试官：讲讲MVCC原理？RR隔离级别如何避免幻读？事务隔离 / MVCC / 锁机制，从底层原理到秒杀实战](https://mp.weixin.qq.com/s/EQJVW5BBIoNsS0dw4HQpUw)
 + [MySQL之InnoDB MVCC多版本并发控制](https://mp.weixin.qq.com/s/roipdtKrQ15BV8v_HqCXMA)
 + [MVCC多版本并发控制机制](https://mp.weixin.qq.com/s/9BTUy-OpCTikZIBOuoUsow)
++ [Undo Log 深入：版本链构建、事务回滚与 MVCC 的完整实现](https://mp.weixin.qq.com/s/VRyyHkNJRrxHcEuXy7L0Hw)
 
 #### 锁
 
@@ -784,6 +788,7 @@
 + [Mysql索引执行计划](https://mp.weixin.qq.com/s/2hd8ekeTDHZ5GgYCKFdVOQ)
 + [下单接口卡10秒，一个索引引发的生产事故](https://mp.weixin.qq.com/s/8Ko0hqOmcZa0AArnqm-LwQ)
 + [Mysql索引B+树讲解](https://mp.weixin.qq.com/s/XC6waBGh1PMN8eEW5jUc2w)
++ [联合索引、覆盖索引与索引下推：高效利用索引的进阶策略](https://mp.weixin.qq.com/s/fibhwdgqHudGltBI72ICUQ)
 
 ### PostgreSQL
 
@@ -1100,6 +1105,7 @@
 + [Redis 核心原理](https://mp.weixin.qq.com/s/PY2EXRXFk3V8SPmMbcR48A)
 + [一文讲透 Redis Cluster：槽位、分片、MOVED、故障转移全解析](https://mp.weixin.qq.com/s/0Y0nf21PG0C71QBGRkfMbw)
 + [Redis 入门到进阶：数据类型、跳表、线程模型、Lua 脚本](https://mp.weixin.qq.com/s/30BtulPTaCIwV_5WYQo2Zg)
++ [阿里P8灵魂拷问：100万QPS秒杀限流，Redis为什么是自杀式方案？](https://mp.weixin.qq.com/s/v55ZgWi7eEj6-cAoc0xUVw)
 
 #### 原理
 

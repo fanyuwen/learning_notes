@@ -374,6 +374,7 @@
 + [10个电脑常用的快捷键，提升电脑操作能力](https://mp.weixin.qq.com/s/r0lE_TLgRhnxZ9CBJBl7Aw)
 + [微信电脑版隐藏的 9 个神技巧，90% 的人只用了 10% 的功能！](https://mp.weixin.qq.com/s/K38wgQnybbBP0GcSJAN5Qw)
 + [记住这4条PowerShell命令，瞬间解决Windows最烦人的问题](https://mp.weixin.qq.com/s/wpFRYyeQYoCjIlyHOe_ABg)
++ [C盘又满了？这个 3.2 万星开源神器，一键揪出几十GB重复文件](https://mp.weixin.qq.com/s/D-bTh5wHSkYpzptJ1n72fw)
 
 ## 开源资源
 
@@ -570,6 +571,8 @@
 + [Transformer传奇作者加入OpenAI！谷歌27亿美元也没留住](https://mp.weixin.qq.com/s/66qw0XAtyLM5JcZs1piVmQ)
 + [可以说一个比较小众的冷知识吗？](https://mp.weixin.qq.com/s/DJ33VmmTSNrjHjm1ktc2Qg)
 + [Linux一口气删掉近4000行代码！活了40年的苹果协议，最终竟被AI“送走”了……](https://mp.weixin.qq.com/s/tpf-8FQm3m3MkQWeMDhuag)
++ [Flint 创始人/Warp 一号工程师 Michelle Lim：代码要写，脏活也要抢](https://mp.weixin.qq.com/s/sBpZyhqGCoytAJA3ifsomA)
++ [互联网巨头决定抛弃Git......](https://mp.weixin.qq.com/s/uzpsknNTKn54XFLl3_0eVg)
 
 ## 创业
 

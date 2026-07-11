@@ -341,6 +341,7 @@
 + [WebSocket，退！退！退！2026 年实时通信的“平替”方案真香](https://mp.weixin.qq.com/s/TB2S5sa-FwqgbvJjjd52Iw)
 + [放弃Websocket，使用 SSE 仅用几行代码就能搞定这些功能](https://mp.weixin.qq.com/s/XLjZC_jGkIWp1zEht_EmJA)
 + [SSE vs WebSocket：流式输出场景，该选谁？一篇讲透差异与选型](https://mp.weixin.qq.com/s/JVTm0dPoRy2AgoYMBbtY1w)
++ [还在使用WebSocket实现实时消息推送吗？](https://mp.weixin.qq.com/s/Y1sahU5uxu4mXr7xY2CAUw)
 
 # sse
 

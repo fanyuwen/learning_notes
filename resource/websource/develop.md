@@ -116,6 +116,8 @@
 + [【架构设计】MVC、MVP、MVVM](https://mp.weixin.qq.com/s/Thg8DLlzCfeoffD97AL0iA)
 + [为什么很多公司的系统架构，最后都会变成“没人敢动”？](https://mp.weixin.qq.com/s/QL6GTBvMEZSAo_f0tG-L6w)
 + [我的系统架构设计三原则](https://mp.weixin.qq.com/s/w2gDhVhF_acHJmj2gGECzQ)
++ [为什么业务架构（BA）是企业架构(EA)体系顶层核心模块？](https://mp.weixin.qq.com/s/AhZmTth0vrLNfIk34RH6Cw)
++ [业务架构到底有什么用？](https://mp.weixin.qq.com/s/Xvu7hT4IH8D3BBY2PrTbnA)
 
 ### DDD
 
@@ -170,6 +172,7 @@
 + [想给面试官吹DDD吗？项目像搭积木一样运行：领域驱动设计（DDD）让复杂业务变简单](https://mp.weixin.qq.com/s/JCRvoLZ2hM6NCG0o6j8Inw)
 + [复杂度直降70%：我用DDD+CQRS重构了系统，整体开发效率提升6倍！！](https://mp.weixin.qq.com/s/rMnGCHxIBBxfKvNEYrV6UA)
 + [巧妙地封装 DDD 值对象](https://mp.weixin.qq.com/s/4t_6jZhzzr8_PphYiugRtw)
++ [DDD 落地总结：我见过的 10 种错误用法](https://mp.weixin.qq.com/s/1gTICuuSPhmpcn5e2H50lw)
 
 ## 微服务
 
@@ -329,6 +332,8 @@
 + [分布式 API 设计 上](https://my.oschina.net/xiandafu/blog/16537219)
 + [分布式 API 设计 下：REST](https://my.oschina.net/xiandafu/blog/18612369)
 + [别再死磕微服务调用了！高手都在用 Event-Driven Architecture 解耦分布式系统！](https://mp.weixin.qq.com/s/vJj6YfI0f0jXJG384eaDeA)
++ [SparkID：新一代唯一ID生成器, 小巧、可排序、还超快，解决UUID/nanoid所有痛点](https://mp.weixin.qq.com/s/Y0faH7h0W8mtrYhSA7lfSw)
++ [面试官问我分布式ID怎么生成，我说用雪花算法，他连问了三层深挖](https://mp.weixin.qq.com/s/39HtDR7Bez0DpiLvagkPpQ)
 
 ## 分布式锁
 
@@ -842,6 +847,8 @@
 + [Java开发：Java后端双层权限体系，接口权限与数据权限核心设计与生产实现详解](https://mp.weixin.qq.com/s/pWCZJIYFvnW1y-w-w1sazA)
 + [单节点扛10万QPS、毫秒级响应！自研RPC框架的核心设计思路全公开](https://mp.weixin.qq.com/s/NUgdzX7Ux5s9v-d540UQ3g)
 + [事务里调用远程接口，为什么线上最容易卡死？](https://mp.weixin.qq.com/s/CPsDqWrfsoJKwNWbcR6foQ)
++ [退款接口并发冲突，我用了3层防护才解决](https://mp.weixin.qq.com/s/nJP4f9sEbZIt6tmRC5wtXw)
++ [内存池与对象池：何时选择，如何从零实现？](https://mp.weixin.qq.com/s/8ptGVQJHmc_kNZtE7zbpyA)
 
 # 测试相关
 
@@ -922,6 +929,8 @@
 + [聚合根设计：保护业务不变性的最后防线](https://mp.weixin.qq.com/s/h4ZRfOUp4VtzHkyVBcSJ7g)
 + [电商算价中心架构：基于 Aviator 规则引擎的促销计算体系](https://mp.weixin.qq.com/s/hIFDnBeI5TtLs5srkFpE1w)
 + [字节二面：面试官让我设计评论盖楼系统，我说「递归查数据库就行」，他反手把我挂了](https://mp.weixin.qq.com/s/hrTvb5XdWVzveIQS86ox9Q)
++ [详解跨境支付「收银台」设计，轻松聚合全球上千种支付方式！！！](https://mp.weixin.qq.com/s/QwJStwidbx9qOVyDEmXdcg)
++ [精讲第三方支付管理系统设计](https://mp.weixin.qq.com/s/-8ac5Tg4s577tW9xme16Gg)
 
 ## 代码相关
 

@@ -125,6 +125,7 @@
 + [适配器模式：让不兼容的接口协同工作](https://mp.weixin.qq.com/s/Ab1W1wbGY0URbO92FXvQYQ)
 + [适配器模式的设计哲学](https://mp.weixin.qq.com/s/QWz9-NuFQbJMzc3JsekzSQ)
 + [模式组合应用-适配器模式](https://mp.weixin.qq.com/s/yMxu_uOi-BvWQoDnI8bntA)
++ [适配器模式：你代码里的"万能转换头"，不会用就亏大了！](https://mp.weixin.qq.com/s/nC6RZp6JO9zJgfKy44TQYw)
 
 ## 策略模式
 

@@ -39,6 +39,7 @@
 + [db-scheduler](https://github.com/kagkarlsson/db-scheduler)
 + [solon-ai](https://github.com/opensolon/solon-ai)
 + [javamelody](https://github.com/javamelody/javamelody)
++ [smart-socket](https://github.com/smartboot/smart-socket)
 + 学习资源
   + [toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)
   + [30-seconds-of-java](https://github.com/iluwatar/30-seconds-of-java)

@@ -29,7 +29,7 @@
 + JVM项目管理工具 [gradle](https://gradle.org) [maven](https://maven.apache.org/) [bazel](https://bazel.build/)
 
 ### JVM_LIBRARY
-+ java 工具库 [jodd](https://jodd.org/)
++ java 工具库 [jodd](https://jodd.org/) [smartboot](https://smartboot.tech/)
 + java http库 [Apache HttpComponents](https://hc.apache.org/index.html) [okhttp](https://square.github.io/okhttp/)
 + jvm web框架 [javalin](https://javalin.io/)
 + java AST库 [javaparser](https://javaparser.org/) [spoon](https://spoon.gforge.inria.fr/)
@@ -207,6 +207,7 @@
 + web应用框架 [actix web](https://actix.rs/)
 + 运行时组件 [tokio](https://tokio.rs/)
 + 开发资源网站 [tweedegolf](https://tweedegolf.nl/en)
++ 游戏引擎 [bevy](https://bevy.org/)
 
 ### AI
 

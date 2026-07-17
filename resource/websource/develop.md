@@ -637,6 +637,7 @@
 + [亿级流量下缓存一致性的终极方案：Canal + MQ + 本地缓存](https://mp.weixin.qq.com/s/olJFOOF9Z2HpNnTDy0CGrg)
 + [缓存方案怎么选：本地缓存、Redis、多级缓存，不同场景不同答案](https://mp.weixin.qq.com/s/4Oetc919FeDZ5rQP_qok7g)
 + [试背了 100 遍的"击穿穿透雪崩"，生产里到底怎么防](https://mp.weixin.qq.com/s/SQ9f806fVPFFowyqBOCeNg)
++ [多级缓存一致性工程实践：从 Caffeine + Redis 到 MQ/CDC 闭环治理的生产级落地指南](https://mp.weixin.qq.com/s/Wj7j7foD3kzP7cIlsspoxw)
 
 ## 优化
 
@@ -931,6 +932,7 @@
 + [字节二面：面试官让我设计评论盖楼系统，我说「递归查数据库就行」，他反手把我挂了](https://mp.weixin.qq.com/s/hrTvb5XdWVzveIQS86ox9Q)
 + [详解跨境支付「收银台」设计，轻松聚合全球上千种支付方式！！！](https://mp.weixin.qq.com/s/QwJStwidbx9qOVyDEmXdcg)
 + [精讲第三方支付管理系统设计](https://mp.weixin.qq.com/s/-8ac5Tg4s577tW9xme16Gg)
++ [碰一下支付：拆解 NFC 整套支付底层逻辑！](https://mp.weixin.qq.com/s/jum0eyOBbPBmIrw5vTaWZg)
 
 ## 代码相关
 

@@ -572,6 +572,7 @@
 + [以太网为什么叫“以太网”？](https://mp.weixin.qq.com/s/NGkB7FOiM8RTZTjewZUOoQ)
 + [深度解析SD-WAN工作原理，从架构到转发，一文吃透技术核心！](https://mp.weixin.qq.com/s/WhTH92HFl4psMjDz6wP3uA)
 + [腾讯一面：路由器与交换机的区别是什么？我：咋还问网络相关的...](https://mp.weixin.qq.com/s/INZ76V3MpDosgpi8mWYuLw)
++ [终于有人把交换机5类端口讲清楚了！电口、光口、Console、管理口、PoE一次搞懂](https://mp.weixin.qq.com/s/NM7LM7hqSlY18GJwqxwRJQ)
 
 ### DNS
 

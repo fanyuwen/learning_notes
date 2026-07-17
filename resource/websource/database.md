@@ -182,6 +182,7 @@
 + [字节二面：线上DELETE忘加WHERE，拿什么救命？](https://mp.weixin.qq.com/s/PUeAMzZNiR6CwyYn1u5I8w)
 + [一文讲透 Redis 与 MySQL 双写一致性：延迟双删、MQ、Canal 全解析](https://mp.weixin.qq.com/s/sVq6UVH5X_9DHxD_-iAY6Q)
 + [干掉线上90%数据库卡顿！大事务+大表终极优化指南](https://mp.weixin.qq.com/s/ZQlYzWVOM0xeC0CSbeNpQw)
++ [一次建连500ms？池化技术让你快100倍](https://mp.weixin.qq.com/s/DQL-WMfXr55Fg8FwovyWfg)
 
 ### 读写分离&分库分表
 

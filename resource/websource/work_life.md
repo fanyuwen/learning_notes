@@ -466,6 +466,7 @@
 + [MacBook真的能用5年以上吗？我用到第3年，说点更真实的情况](https://mp.weixin.qq.com/s/O_mEQT_dYNuzJqcVl2Ljdw)
 + [用了一年的 MacBook，电池健康仍 100%？踩过坑，才知道这有多夸张](https://mp.weixin.qq.com/s/ENSNS5dAiBcPDkR95raGYQ)
 + [数据不出本机：M5 MacBook 本地大模型部署全流程](https://mp.weixin.qq.com/s/HXR_07Md5U7Sx1z-cDFcXg)
++ [免费的Mac清理工具，终于有个能打的了](https://mp.weixin.qq.com/s/SPVakr30yKH3HVqqq1AZBw)
 
 ## NAS
 

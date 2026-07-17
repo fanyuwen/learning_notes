@@ -638,6 +638,7 @@
 + [缓存方案怎么选：本地缓存、Redis、多级缓存，不同场景不同答案](https://mp.weixin.qq.com/s/4Oetc919FeDZ5rQP_qok7g)
 + [试背了 100 遍的"击穿穿透雪崩"，生产里到底怎么防](https://mp.weixin.qq.com/s/SQ9f806fVPFFowyqBOCeNg)
 + [多级缓存一致性工程实践：从 Caffeine + Redis 到 MQ/CDC 闭环治理的生产级落地指南](https://mp.weixin.qq.com/s/Wj7j7foD3kzP7cIlsspoxw)
++ [缓存击穿、穿透、雪崩一次讲透：附 Redis hotkey 实战](https://mp.weixin.qq.com/s/4FRF-3lJ2CMAqWYFeOAEjg)
 
 ## 优化
 
@@ -850,6 +851,7 @@
 + [事务里调用远程接口，为什么线上最容易卡死？](https://mp.weixin.qq.com/s/CPsDqWrfsoJKwNWbcR6foQ)
 + [退款接口并发冲突，我用了3层防护才解决](https://mp.weixin.qq.com/s/nJP4f9sEbZIt6tmRC5wtXw)
 + [内存池与对象池：何时选择，如何从零实现？](https://mp.weixin.qq.com/s/8ptGVQJHmc_kNZtE7zbpyA)
++ [如何设计一个低延迟的实时数据处理系统？](https://mp.weixin.qq.com/s/XerfTV9Eh2M5DuHJItz_0Q)
 
 # 测试相关
 
@@ -933,6 +935,7 @@
 + [详解跨境支付「收银台」设计，轻松聚合全球上千种支付方式！！！](https://mp.weixin.qq.com/s/QwJStwidbx9qOVyDEmXdcg)
 + [精讲第三方支付管理系统设计](https://mp.weixin.qq.com/s/-8ac5Tg4s577tW9xme16Gg)
 + [碰一下支付：拆解 NFC 整套支付底层逻辑！](https://mp.weixin.qq.com/s/jum0eyOBbPBmIrw5vTaWZg)
++ [美团一面真题：设计一个预约系统，时间粒度怎么切？](https://mp.weixin.qq.com/s/NUKmJHAF3LYO4IdW2kS5JQ)
 
 ## 代码相关
 

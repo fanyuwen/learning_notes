@@ -262,6 +262,7 @@
 + [技术负责人正在消失？真正被淘汰的是这类 CTO](https://mp.weixin.qq.com/s/inWPdUpKpOZCVXx7w4a-jw)
 + [任何领域一通百通的核心能力](https://mp.weixin.qq.com/s/Glarqa_q_xtsjIDEidkWMQ)
 + [给独立开发者的一张从 $0 到月入万刀的真实路线图](https://mp.weixin.qq.com/s/WMx91jjaBAVYKyDg3_x2iQ)
++ [为什么我会主动给一个年轻程序员加薪、晋升？](https://mp.weixin.qq.com/s/6w4qdVwKB2i9mjqBe94Egg)
 
 ## 视频
 

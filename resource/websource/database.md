@@ -129,6 +129,7 @@
 + [美团问烂了：假如SQL中join了10张表，如何优化性能？](https://mp.weixin.qq.com/s/1B_pslPq_auZUJk_QoIa4Q)
 + [面试官：SQL执行慢，你的第一步是什么？90%的人答错了](https://mp.weixin.qq.com/s/Xjd-jpnJiLECVtkCRB6KSw)
 + [慢 SQL 优化实战！7 个实战优化技巧让查询性能提升 100 倍](https://mp.weixin.qq.com/s/MfopDTTNMReyUbcneTP11g)
++ [排序、分组与分页查询的索引优化](https://mp.weixin.qq.com/s/RVzpp1RUocsMQA19f2Ig-g)
 
 # 本地数据库
 

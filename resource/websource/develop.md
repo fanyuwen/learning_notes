@@ -511,6 +511,7 @@
 + [十万个why：明明接口幂等就能防重复提交，为什么还要加分布式锁？](https://mp.weixin.qq.com/s/fvVoz4_4fEDrxiRmL-OcOA)
 + [线上灵异问题：用户没多点按钮，却频繁重复下单！复盘一次生产幂等失效故障全过程](https://mp.weixin.qq.com/s/bsXjcEQ0IYlvG0RcvJbXIg)
 + [美团二面，面试官问我支付防重，我说"先查后写"，他叹了口气合上了简历](https://mp.weixin.qq.com/s/ASs3_-clPUiQi89Zs5Wiaw)
++ [架构实战：彻底吃透防重复提交！接口防重设计方案](https://mp.weixin.qq.com/s/kdmkT94Hh0sQ3Pi2Tuytrw)
 
 ### 负载&限流
 
@@ -639,6 +640,7 @@
 + [试背了 100 遍的"击穿穿透雪崩"，生产里到底怎么防](https://mp.weixin.qq.com/s/SQ9f806fVPFFowyqBOCeNg)
 + [多级缓存一致性工程实践：从 Caffeine + Redis 到 MQ/CDC 闭环治理的生产级落地指南](https://mp.weixin.qq.com/s/Wj7j7foD3kzP7cIlsspoxw)
 + [缓存击穿、穿透、雪崩一次讲透：附 Redis hotkey 实战](https://mp.weixin.qq.com/s/4FRF-3lJ2CMAqWYFeOAEjg)
++ [拾分架构师 05：缓存不是万能药，Redis 也会把数据库打穿](https://mp.weixin.qq.com/s/NQfECFfaxTT6e8sslxFmQw)
 
 ## 优化
 

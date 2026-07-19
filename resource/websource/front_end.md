@@ -453,6 +453,7 @@
 + [下载 5GB 文件导致浏览器崩溃？教你用 Fetch 流式直写硬盘，内存 0 消耗！](https://mp.weixin.qq.com/s/ZgISvFrCePOj9uC6wewEBQ)
 + [Proxy 捕获器参数详解：看懂 receiver，你就超过80%的开发者](https://mp.weixin.qq.com/s/Vbk2wMhGvmQkHoWbOHmw8A)
 + [面试必问：JavaScript Proxy 最大的两个坑，90%的人答不全！](https://mp.weixin.qq.com/s/HB13WzbobwXpPCDIqgewjg)
++ [大文件上传与断点续传解决方案](https://mp.weixin.qq.com/s/dBHryIhJO2hr9rFkH8Rc_Q)
 
 # 杂谈
 

@@ -118,6 +118,7 @@
 + [我的系统架构设计三原则](https://mp.weixin.qq.com/s/w2gDhVhF_acHJmj2gGECzQ)
 + [为什么业务架构（BA）是企业架构(EA)体系顶层核心模块？](https://mp.weixin.qq.com/s/AhZmTth0vrLNfIk34RH6Cw)
 + [业务架构到底有什么用？](https://mp.weixin.qq.com/s/Xvu7hT4IH8D3BBY2PrTbnA)
++ [如何画架构图实战：以智能客服系统为例画技术（系统）架构](https://mp.weixin.qq.com/s/RvpmYZ-cYDsFkbVa2tOnAw)
 
 ### DDD
 
@@ -173,6 +174,7 @@
 + [复杂度直降70%：我用DDD+CQRS重构了系统，整体开发效率提升6倍！！](https://mp.weixin.qq.com/s/rMnGCHxIBBxfKvNEYrV6UA)
 + [巧妙地封装 DDD 值对象](https://mp.weixin.qq.com/s/4t_6jZhzzr8_PphYiugRtw)
 + [DDD 落地总结：我见过的 10 种错误用法](https://mp.weixin.qq.com/s/1gTICuuSPhmpcn5e2H50lw)
++ [14-DDD：实战第一步：一个优选门店案例，讲透 DDD 战略设计怎么落地](https://mp.weixin.qq.com/s/j27yHlv1f73Pd2ljAYaWtg)
 
 ## 微服务
 
@@ -334,6 +336,7 @@
 + [别再死磕微服务调用了！高手都在用 Event-Driven Architecture 解耦分布式系统！](https://mp.weixin.qq.com/s/vJj6YfI0f0jXJG384eaDeA)
 + [SparkID：新一代唯一ID生成器, 小巧、可排序、还超快，解决UUID/nanoid所有痛点](https://mp.weixin.qq.com/s/Y0faH7h0W8mtrYhSA7lfSw)
 + [面试官问我分布式ID怎么生成，我说用雪花算法，他连问了三层深挖](https://mp.weixin.qq.com/s/39HtDR7Bez0DpiLvagkPpQ)
++ [分布式唯一序列号：万亿级订单不重复的奥秘](https://mp.weixin.qq.com/s/UQzKE3zJGQjDEJ5yxrPjFQ)
 
 ## 分布式锁
 

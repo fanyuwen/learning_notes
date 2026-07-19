@@ -678,6 +678,7 @@
 + [MySQL 事务详解](https://mp.weixin.qq.com/s/JpAl5KLcO-a0L2Awtw7DeQ)
 + [架构必知：MySQL事务原理](https://mp.weixin.qq.com/s/q6C6Yhv_uIv3Xk-23UryYw)
 + [MySQL 事务隔离级别，以及什么是脏读、不可重复读、幻读](https://mp.weixin.qq.com/s/ubzKau7EQxm77hFJAHNQHw)
++ [MySQL InnoDB 事务实现原理](https://mp.weixin.qq.com/s/naBossr54u6uzXFAMrGRRQ)
 
 #### 索引
 

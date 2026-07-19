@@ -875,6 +875,7 @@
 + [Java 函数式接口指南：Comparator、Predicate、Function 实战讲解](https://mp.weixin.qq.com/s/EPNU5gBtj6NPgj5XY6U1ng)
 + [Java 入门核心：Object、String 与 Collection 常用方法详解](https://mp.weixin.qq.com/s/wy9sx_qVJeEUhz4syyr7gQ)
 + [Java 面试：集合类有哪些？List、Set、Map 怎么答才不乱？](https://mp.weixin.qq.com/s/wofOoQfkwCX4acI2iy_CPA)
++ [货币字段用Double还是BigDecimal？精度、性能双重考虑](https://mp.weixin.qq.com/s/y-thexG-5VEwSv-HuzMuvQ)
 
 ### 序列化
 
@@ -3044,6 +3045,7 @@
 + [Netty ByteBuf与内存管理深度解析：从池化到零拷贝](https://mp.weixin.qq.com/s/t-_hEd37I5lsjkYd_vmagw)
 + [Netty采用io_uring后，2倍CPU核数的线程配置也许不再合理](https://mp.weixin.qq.com/s/ytFcrMCINeGWJ1YtBpsHvw)
 + [Netty内存管理深度解析：从ByteBuf到内存池的设计本质](https://mp.weixin.qq.com/s/Doeih6LthBzBw7GaxQc6_A)
++ [面试官：为什么 Netty 适合做网络编程？](https://mp.weixin.qq.com/s/z-oYtb9pn6xrto2NpbFuRg)
 
 ## okhttp
 
@@ -3402,6 +3404,7 @@
 + [BeanPostProcessor扩展点，Spring最强钩子接口实战](https://mp.weixin.qq.com/s/YKHpFATvBAcBD8qIK_Ap-Q)
 + [手写一个mini版Spring：Bean的初始化增强，BeanPostProcessor 与 InitializingBean](https://mp.weixin.qq.com/s/lpFIa84XqS6yLuBlSAu8Gg)
 + [Bean五大作用域详解，单例原型并发踩坑复盘](https://mp.weixin.qq.com/s/BI6BJHQ9wEpTxSXC18_-Zw)
++ [面试官：BeanFactory 和 FactroyBean 的关系？](https://mp.weixin.qq.com/s/zqHFd0giS7KsYdtEV7fYZQ)
 
 ### 新版本新特性
 
@@ -4969,6 +4972,8 @@
 + [Spring Boot 开发 > Filter、Interceptor、AOP 到底用哪个？一文讲清楚](https://mp.weixin.qq.com/s/wbu53JVAPM0L9Hnwdkb9ow)
 + [Spring Boot 拦截器](https://mp.weixin.qq.com/s/JaOKqXFO-KoRFZ3PelMMlg)
 + [接口优化！Spring Boot 构建弹性高可用API接口5大核心技术](https://mp.weixin.qq.com/s/EgOAn3m5btb9jWoH8lQj_w)
++ [优雅！Spring Boot 灰度发布5种玩法，直接上手就能用](https://mp.weixin.qq.com/s/AdTjsMGi2fa2I_I_0ctilg)
++ [只需一行代码！用 JSONata 操作任意复杂的JSON数据](https://mp.weixin.qq.com/s/UXP0iyB5lm3udbHk0-WjYg)
 
 ##### 文件上传下载
 
@@ -5145,6 +5150,7 @@
 + [性能优化！Spring Boot 一个注解搞定批量处理](https://mp.weixin.qq.com/s/tq4ncmxDUQBZJXNwc8-yXg)
 + [数据实时同步！Spring Boot + Redis 绝佳方案发布/订阅模式](https://mp.weixin.qq.com/s/QgOZp3xZj3vi-56mPGMfBw)
 + [告别字符串拼接 SQL：Spring Boot + jOOQ 类型安全数据库操作实战](https://mp.weixin.qq.com/s/dKvXk2JA3ad0IVoF56KW7g)
++ [Spring Boot 全新 @RedisListener 注解，优雅监听消息](https://mp.weixin.qq.com/s/UlxUmETJDQZSDL7dYB5Hdg)
 
 ##### TRANSACTION
 
@@ -5830,6 +5836,7 @@
 + [Spring Boot + Yauaa，请求客户端信息（设备、操作系统、浏览器）超精准解析](https://mp.weixin.qq.com/s/hPgk2geh5hAqWp-6qdpxEA)
 + [Kafka消息老是重复消费？三层架构搞定！Spring Boot+重试+DLQ+幂等实战](https://mp.weixin.qq.com/s/77YS7E9fgbcdmXpL31MOyg)
 + [生产级！Spring Boot + Webhook 自动回调系统设计及实现](https://mp.weixin.qq.com/s/jg86LksqXmq4lQZJnc8Oig)
++ [SpringBoot 实现电子文件签字+合同系统！](https://mp.weixin.qq.com/s/ZOc9ip43S-75EsSt0bQwmw)
 
 ##### excel
 
@@ -6158,6 +6165,7 @@
 
 + [完全解析GraalVM-多语言混合开发](https://mp.weixin.qq.com/s/4W9q7bV6eHm98leYet_abg)
 + [Java 原生化的未来 Graal AOT 编译器](https://mp.weixin.qq.com/s/DZuYvYwQXCSNgNbP9Hgtxw)
++ [从 400M 到 28M！用 JMOD + jlink 榨干 Java 镜像](https://mp.weixin.qq.com/s/Au6vexNIMJfxdM_UfQOQ1w)
 
 ## android
 
@@ -6465,3 +6473,5 @@
 + [[Java多线程][锁进阶] 第23课：小项目——读写分离缓存](https://mp.weixin.qq.com/s/DZ3SCbEdCO9sRPcZaTPGbg)
 + [开了Leyden AOT的Java，性能能追上Go吗？](https://mp.weixin.qq.com/s/l9l-8A88dfiWf1yp5B3IRA)
 + [权限认证框架选型：Spring Security、Sa-Token 与 Apache Shiro](https://mp.weixin.qq.com/s/Bg-_UyQrpv9MAbaHx_yN8Q)
++ [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/AI6eCXKUo0VjNIoJrBBYEw)
++ [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-V3UcIUnTvQDRDgSDpbrA)

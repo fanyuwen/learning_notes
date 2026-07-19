@@ -535,6 +535,7 @@
 + [mysql深分页问题同行回答出花来了！不会你还不知道吧！](https://mp.weixin.qq.com/s/rhCuj_Z8N3-E2E-Ljt05Qg)
 + [MySQL 整体架构：连接管理、SQL 解析、优化器与存储引擎的分层协作](https://mp.weixin.qq.com/s/qGd9k5rAMjqZ_liUPUCtwg)
 + [PreparedStatement 为什么能防 SQL 注入？这次彻底讲明白](https://mp.weixin.qq.com/s/vVhn2RdwJcb_8uzXMPZzTQ)
++ [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/lF6_pTeT3ybiGs36HzhLRQ)
 
 #### 存储引擎
 
@@ -1108,6 +1109,7 @@
 + [一文讲透 Redis Cluster：槽位、分片、MOVED、故障转移全解析](https://mp.weixin.qq.com/s/0Y0nf21PG0C71QBGRkfMbw)
 + [Redis 入门到进阶：数据类型、跳表、线程模型、Lua 脚本](https://mp.weixin.qq.com/s/30BtulPTaCIwV_5WYQo2Zg)
 + [阿里P8灵魂拷问：100万QPS秒杀限流，Redis为什么是自杀式方案？](https://mp.weixin.qq.com/s/v55ZgWi7eEj6-cAoc0xUVw)
++ [别再把 Redis 当缓存了！10 个高级玩法，很多人只会用前2个](https://mp.weixin.qq.com/s/ZdGtKd7qYoS5jRK4wuE02g)
 
 #### 原理
 

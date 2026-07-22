@@ -65,7 +65,7 @@
 + 可观测 [micrometer](https://micrometer.io/) [beszel](https://beszel.dev/)
 + AI
   + 应用开发和编排 [agentsflex](https://agentsflex.com/)
-  + 开发 <font style='color:red'>*</font>[langchain](https://www.langchain.com/) [langchain4j](https://docs.langchain4j.dev/)
+  + 开发 <font style='color:red'>*</font>[langchain](https://www.langchain.com/) [langchain4j](https://docs.langchain4j.dev/) [agentscope](https://java.agentscope.io/)
 
 ### JVM_FRAMEWORK
 + 云原生后端开发框架 [quarkus](https://quarkus.io/) [micronaut](https://micronaut.io/) [helidon](https://helidon.io/) [dropwizard](https://www.dropwizard.io/)

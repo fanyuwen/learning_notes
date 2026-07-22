@@ -111,6 +111,7 @@
 + [免费！Claude Code + Pencil：UI 自动生成，Design / Code双向转换](https://mp.weixin.qq.com/s/awTS3F2eqFvaTl2aKa0HwQ)
 + [不会写代码的高管用Claude Code两天上线新程序，工程师接手后发现：一个Bug，让AI一天烧掉一个月服务器费！](https://mp.weixin.qq.com/s/3ojJ-7NFI5U1-qoVMNu2ig)
 + [开源AI神器！CodeGraph 一键看懂整个项目，大型项目必备！](https://mp.weixin.qq.com/s/9lyJ5ZzwjQ2b0KnBUvqRfg)
++ [AgentScope Java 2.0 正式发布：内置生产级 Harness，助力智能体迈向分布式企业场景](https://my.oschina.net/u/3874284/blog/19723341)
 
 ### agent
 

@@ -6172,6 +6172,7 @@
 + [Google 开源神级库！Tink：三行代码搞定全场景加密](https://mp.weixin.qq.com/s/nMD97WOjXXTmg2S9KS1o6w)
 + [比 Drools 更轻：新一代高性能 Java 规则引擎](https://mp.weixin.qq.com/s/ulSCPZuiwuVQTTymfJsfIQ)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/AI6eCXKUo0VjNIoJrBBYEw)
++ [Feat 为什么能这么快？答案藏在 2000 行代码里](https://my.oschina.net/u/2385344/blog/19724122)
 
 # 其它环境
 

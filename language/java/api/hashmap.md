@@ -22,5 +22,5 @@ jdk类库中已经提供了`Map.Entry`的简单封装,是`java.util.AbstractMap.
 不为`null`则替换原来`oldValue`,最后返回该`newValue`,其它情况方法返回`null`
 ### `compute`方法(1.8新增的api)
 函数原型: `V compute(K key, BiFunction<? super K, ? super V, ? extends V> remappingFunction)`
-从函数原型看似乎是根`computeIfPresent`方法一样,但是区别是,无论是否存在该`key`,或者说对应的`oldValue`是否为`null`,都会去调用`remappingFunction`,只是如果`map`不存在该`key`,调用的第二个参数是`null`
+从函数原型看似乎是跟`computeIfPresent`方法一样,但是区别是,无论是否存在该`key`,或者说对应的`oldValue`是否为`null`,都会去调用`remappingFunction`,只是如果`map`不存在该`key`,调用的第二个参数是`null`
 如果方法的返回值`newValue`为`null`,则会将该`key`从`map`中删除掉(如果存在的话),否则新增该`key`和`newValue`(不存在或者`oldValue`为`null`的情况),更新该`key`的`value`为`newValue`,最后返回该`newValue`

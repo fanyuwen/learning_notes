@@ -262,6 +262,7 @@
 + [微服务链路追踪底层揭秘：TraceId到底是怎么“跨服务串起来的”？](https://mp.weixin.qq.com/s/xUJDHJiEfeDYvq5OtiNBDg)
 + [微服务网关别只盯着Spring Cloud Gateway！Apache APISIX才是企业级流量治理的硬核选择](https://mp.weixin.qq.com/s/ZQAuKJs4Xg00jJWoTL6ihw)
 + [为什么我们没有用微服务，反而选了模块化单体](https://mp.weixin.qq.com/s/7V2CRZiK94vWPtVw8u2QcA)
++ [微服务退潮，单体回温：AI 时代，Java 后端需要一场 "瘦身革命"](https://my.oschina.net/u/2385344/blog/19727454)
 
 # 分布式
 

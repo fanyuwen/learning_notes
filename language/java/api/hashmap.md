@@ -86,7 +86,7 @@ public static void main(String[] args) {
     map.replace("1", 1, 2);
 }
 ```
-### ``
+### `replaceAll`方法(1.8+新增的api)
 + 函数原型: `void replaceAll(BiFunction<? super K, ? super V, ? extends V> function)`
 > 就算该函数返回`null`,也不会删除该`key`,而是将该`key`的值设置为`null`
 

@@ -75,7 +75,7 @@ public static void main(String[] args) {
 }
 ```
 + 函数原型: `boolean replace(K key, V oldValue, V newValue)`
-> 该方法非常适合cas循环判断更新,但是hashMap感觉最好不要这么做,本身不是线程安全的
+> 该方法非常适合用`ConcurrentHashMap`进行类似cas循环判断更新,但是hashMap感觉最好不要这么做,本身不是线程安全的
 
 对`map`里指定的key进行替换,必须要对应的旧值等于参数中的`oldValue`才会将参数中的`newValue`替换旧值,并返回`true`,否则返回`false`
 ```java

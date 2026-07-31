@@ -1,3 +1,4 @@
+### 自定义实现
 ```java
 import java.util.Objects;
 
@@ -139,4 +140,43 @@ public final class CustomMap<K, V> {
         return sb.append("}").toString();
     }
 }
+```
+
+### 单例对象互相引用并初始化
+两个单例对象之间需要互相引用,互相的引用也是需要引用对应的单例实例,目前的实现如下:
+```java
+    final class SingleObjA {
+        static final SingleObjA objA = new SingleObjA();
+
+        private final SingleObjB objB;
+
+        private SingleObjA() {
+            objB = SingleObjB.register(this);
+        }
+
+    }
+
+    final class SingleObjB {
+        //目前看来无法申明为final常量
+        static SingleObjB objB;
+
+        private final SingleObjA objA;
+
+        static {
+            //这是为了保证先访问SingleObjB实例的情况,需要确保初始化的顺序,因为实际并不使用,所以只是简单的忽略
+            SingleObjA ignore = SingleObjA.objA;
+        }
+
+        private static SingleObjB register(SingleObjA a) {
+            //这里需要判断一下,防止重复赋值
+            if (objB != null) {
+                return objB;
+            }
+            return SingleObjB.objB = new SingleObjB(a);
+        }
+
+        private SingleObjB(SingleObjA objA) {
+            this.objA = objA;
+        }
+    }
 ```

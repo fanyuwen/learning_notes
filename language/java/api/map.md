@@ -100,3 +100,15 @@ public static void main(String[] args) {
     map.replaceAll((k, v) -> v + 1);
 }
 ```
+### `remove`方法
++ 函数原型 `boolean remove(Object key, Object value)`
+从`map`中删除指定的`key`,需要满足`key`对应的原来的`oldValue`等于参数`value`,才能进行删除,并且返回`true`,否则返回`false`
+```java
+public static void main(String[] args) {
+    Map<String, Integer> map = new HashMap<>();
+    //先往map中放置一个键值对
+    map.put("1", 1);
+    //再用remove方法进行指定的删除,因为key和value都能匹配,所以删除是成功的,执行完remove方法,当前map为空(empty)
+    map.remove("1", 1);
+}
+```

@@ -375,6 +375,7 @@
 + [JDK高版本特性总结与ZGC实践](https://tech.meituan.com/2025/06/20/JDK17-ZGC.html)
 + [从 Java 8 直接跳到 Java 25，一次就够了](https://mp.weixin.qq.com/s/BkmFrxASl9kgvk4SxuqMvQ)
 + [JDK 28 核心源码级解析：AQS 活锁修复、C2 冷方法内联与 G1 并发安全](https://mp.weixin.qq.com/s/uWYZS6WC6asMxSbFkS4Bqg)
++ [JDK 27 把默认 GC 改了：代码一行没动，你的 Java 服务升级后也可能变慢](https://mp.weixin.qq.com/s/EmV2ktcIS7KKSKnEmOTQIw)
 
 ## 高级用法
 
@@ -2425,6 +2426,7 @@
 + [揭秘Java SPI机制：JDBC驱动加载背后的神奇力量，90%程序员都不知道的隐藏缺陷！](https://mp.weixin.qq.com/s/7MBJJGZQDw6lE6hEiYf3-g)
 + [Java SPI实现开闭原则](https://mp.weixin.qq.com/s/LLTa017SC8zXFZjAFZy1oA)
 + [面试官：什么是 SPI，和 API 有啥区别？](https://mp.weixin.qq.com/s/DYlmjvt895xOpdnBjEiSQA)
++ [手写 ServiceRegistry，让 Java SPI 好用十倍](https://mp.weixin.qq.com/s/SLTWAvOuxRlGSqAHlmZXKw)
 
 ## Agent
 
@@ -2474,6 +2476,7 @@
 + [Maven Central 开始限流，每个 Java 开发者都该花两分钟看一眼](https://mp.weixin.qq.com/s/UF5-1NotowRW3ABeLCzoNQ)
 + [过度设计的代价：从 Maven 版本幻觉到工程上的简单原则](https://mp.weixin.qq.com/s/4nsPoEb9lrY2Nxag3EtLrw)
 + [Maven 4 要来了：15 年后，Java 构建工具迎来“彻底重构”](https://mp.weixin.qq.com/s/sL1Q96eoqf9iYOebCx_uTQ)
++ [再见Maven！官方推出全新一代Java项目构建工具，性能提升2~10倍](https://mp.weixin.qq.com/s/46a05TLGJR1aP9rs_3L3iQ)
 
 # 功能
 
@@ -2901,6 +2904,7 @@
 + [干了六年后端，我用一篇文章讲透 MyBatis 从调用到 SQL 执行全过程](https://mp.weixin.qq.com/s/iTHC3g3yzD1tnIIr9woNCQ)
 + [一篇文章掌握一个技能：MyBatis 从入门到精通与高频面试题精讲](https://mp.weixin.qq.com/s/pr22bHssmqHY0KwLNEdqGw)
 + [面试自测 | Mybatis 全解析（建议收藏！防止sql注入）](https://mp.weixin.qq.com/s/LNvL94cs3ZQKliL8T_BLEg)
++ [13秒插入30万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/r5KL4MF0JO9LXIrMD8UPNQ)
 
 ### plus
 
@@ -3902,6 +3906,11 @@
 + [第16篇：全链路流式架构](https://mp.weixin.qq.com/s/4c9M5MLatUm0CxXExP-drA)
 + [几行代码给项目集成AI功能，Spring AI 2.0太香了！](https://mp.weixin.qq.com/s/9ISb0NXERg5DPavhQPcuGQ)
 + [太强了！把 Claude Code 的自动记忆机制搬进了 Spring AI](https://mp.weixin.qq.com/s/jxp0YoNdHlcNWXMUsPWUmg)
++ [告别单体 Agent！用 Spring AI 玩转多智能体分层编排实战](https://mp.weixin.qq.com/s/kW4St93_9aiPaY_6jsRsOA)
+
+#### 大模型
+
++ [无需额外服务！用DJL在Java中直接跑本地大模型](https://mp.weixin.qq.com/s/OspPIDCovlmNaTPQJYWczQ)
 
 ### cloud
 
@@ -4102,6 +4111,7 @@
 + [别让 Service 变成史山！5 招教你写出高级感代码](https://mp.weixin.qq.com/s/sIUM_cO3dEbkdORm2cFeIA)
 + [Spring Boot 扩展点](https://mp.weixin.qq.com/s/O6FHOWvF7UDkAhxpq53d5Q)
 + [Spring Boot「约定优于配置」理解](https://mp.weixin.qq.com/s/c179cVXCJheipk8xmQJ5yg)
++ [写 Java 服务，不一定非要 Spring Boot](https://mp.weixin.qq.com/s/vVrepB5Q6o8wDyiXXMykcw)
 
 ##### 高阶
 
@@ -4986,6 +4996,8 @@
 + [接口优化！Spring Boot 构建弹性高可用API接口5大核心技术](https://mp.weixin.qq.com/s/EgOAn3m5btb9jWoH8lQj_w)
 + [优雅！Spring Boot 灰度发布5种玩法，直接上手就能用](https://mp.weixin.qq.com/s/AdTjsMGi2fa2I_I_0ctilg)
 + [只需一行代码！用 JSONata 操作任意复杂的JSON数据](https://mp.weixin.qq.com/s/UXP0iyB5lm3udbHk0-WjYg)
++ [Spring Boot 4.0官宣：弃用 Undertow](https://mp.weixin.qq.com/s/C6D0byxRkY7CZzAIDM_jPw)
++ [全新方案！Spring Boot 动态控制字段输出](https://mp.weixin.qq.com/s/Kw2GBOj9AU08KFD3QCrZpA)
 
 ##### 文件上传下载
 
@@ -5627,6 +5639,12 @@
 + [springboot自动配置类读取原理](https://mp.weixin.qq.com/s/Dz1p6VzxepMOKreAIe1AEQ)
 + [Spring Boot 使用 @ConfigurationProperties和Records优化配置](https://mp.weixin.qq.com/s/lwgpDf8Ut2ouz_pT_r_hdQ)
 + [别再拆分 YML 了！一行注解，优雅解决 Spring Boot 自定义对象绑定](https://mp.weixin.qq.com/s/y1k0f3y2bcU_DXDzqs5iFQ)
++ [不重启！Spring Boot 运行时修改 application.yml 配置实时生效](https://mp.weixin.qq.com/s/x3fZe-WSCLTA2aXeXepiAA)
++ [还在堆 application.yml？Spring Boot 配置该升级了](https://mp.weixin.qq.com/s/VgEsX_gBVpsDspZxBgnrJQ)
++ [无需重启！Spring Boot 配置类动态刷新，只需二步](https://mp.weixin.qq.com/s/L54dYBiCVbXbpZl-G-NYBQ)
++ [面试官：SpringBoot 在打包部署的时候打包成 jar 和 war 有什么不同?](https://mp.weixin.qq.com/s/jXuj0IQeixkns2sZS-bx7A)
++ [面试官：SpringBoot在打包部署的时候打包成jar和war有什么不同?](https://mp.weixin.qq.com/s/NGAWi8PRglP0cyaFYUAObg)
++ [面试官：SpringBoot 在打包部署的时候打包成 jar 和 war 有什么不同?](https://mp.weixin.qq.com/s/xn3-yKTNB16HY3LJA4BwDw)
 
 #### 集成三方
 
@@ -5851,6 +5869,10 @@
 + [Kafka消息老是重复消费？三层架构搞定！Spring Boot+重试+DLQ+幂等实战](https://mp.weixin.qq.com/s/77YS7E9fgbcdmXpL31MOyg)
 + [生产级！Spring Boot + Webhook 自动回调系统设计及实现](https://mp.weixin.qq.com/s/jg86LksqXmq4lQZJnc8Oig)
 + [SpringBoot 实现电子文件签字+合同系统！](https://mp.weixin.qq.com/s/ZOc9ip43S-75EsSt0bQwmw)
++ [SpringBoot+OnlyOffice：优雅实现在线 Word 编辑、转化、保存等功能](https://mp.weixin.qq.com/s/_A43ZXe5P0MsVyJv5KveWw)
++ [SpringBoot+OnlyOffice：优雅实现在线 Word 编辑、转化、保存等功能](https://mp.weixin.qq.com/s/XZiLCATGTSbIrdrsXntzhQ)
++ [SpringBoot + FFmpeg + ZLMediaKit 实现本地视频推流](https://mp.weixin.qq.com/s/0pukfXLKpTHl_Ywa9wV-8Q)
++ [SpringBoot + FFmpeg + ZLMediaKit 实现本地视频推流](https://mp.weixin.qq.com/s/Hy6sui2xyZRBqhJ4TlJZDA)
 
 ##### excel
 
@@ -6490,3 +6512,4 @@
 + [权限认证框架选型：Spring Security、Sa-Token 与 Apache Shiro](https://mp.weixin.qq.com/s/Bg-_UyQrpv9MAbaHx_yN8Q)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/AI6eCXKUo0VjNIoJrBBYEw)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-V3UcIUnTvQDRDgSDpbrA)
++ [Java HTTP 请求极简方案：代码直接少一半](https://mp.weixin.qq.com/s/Up1KC9kBktzga7wSuAQF3A)

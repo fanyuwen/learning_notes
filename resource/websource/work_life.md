@@ -173,6 +173,7 @@
 + [半年没写过一行代码了](https://mp.weixin.qq.com/s/_1QbgnNp5r6sYklOYUbpUQ)
 + [我只是一个普通程序员，但我想成为架构师](https://mp.weixin.qq.com/s/dc9jnTlFNJ1TtZZe7ZMsYg)
 + [程序员除了写代码还能做什么？](https://mp.weixin.qq.com/s/0zNEjLq1BmS-98-NdJpzhQ)
++ [把技术团队带废的 5 个臭毛病！](https://mp.weixin.qq.com/s/xhYe5rmZEGnx2dehVQHj4Q)
 
 # 个人成长
 
@@ -453,6 +454,7 @@
 + [IDEA Git 操作避坑指南](https://mp.weixin.qq.com/s/OptROETKDnohdBsQYbXoxg)
 + [还在手动搭Maven多模块？这款IDEA插件让我效率提升10倍（真实体验）](https://mp.weixin.qq.com/s/LHPygFUI05A8tPtr836Utw)
 + [Claude Agent 进入 IntelliJ IDEA 公测，Java 开发方式真的要变了](https://mp.weixin.qq.com/s/X0hgTIfKtoabkB5eSOc7wA)
++ [Jetbrains 里最好用的 AI Coding 插件，强烈推荐！！](https://mp.weixin.qq.com/s/6pPWwL2A7yiu_zILWCyo-w)
 
 ## MAC_PRO相关
 

@@ -218,6 +218,7 @@
 + [分库分表核心原理以及分片策略](https://mp.weixin.qq.com/s/OykDi7V-mrXB4chqlU4SVg)
 + [订单数据库拆分实战：热库冷库方案，我们是这样做的](https://mp.weixin.qq.com/s/hnnzPzgPW1pg9DmlhfSv4w)
 + [分区表实战 + 大表分表优化（千万级日志/订单表）](https://mp.weixin.qq.com/s/E93kxRUtRoZM0e9TbHs2cg)
++ [得物二面：分库分表后，怎么进行分页查询？我被问懵了...](https://mp.weixin.qq.com/s/NX2ivqpZ5a8R7IAlWt0r5A)
 
 ## 原理解析
 
@@ -536,6 +537,8 @@
 + [MySQL 整体架构：连接管理、SQL 解析、优化器与存储引擎的分层协作](https://mp.weixin.qq.com/s/qGd9k5rAMjqZ_liUPUCtwg)
 + [PreparedStatement 为什么能防 SQL 注入？这次彻底讲明白](https://mp.weixin.qq.com/s/vVhn2RdwJcb_8uzXMPZzTQ)
 + [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/lF6_pTeT3ybiGs36HzhLRQ)
++ [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/3XOwac_qvr3U1Ekxjzm-hA)
++ [面试官：分表后，全局 ID 如何生成？](https://mp.weixin.qq.com/s/dFRCyh34rCiMaatk7cC4Gw)
 
 #### 存储引擎
 

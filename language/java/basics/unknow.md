@@ -117,13 +117,14 @@
   任何实现了`java.lang.AutoCloseable`实现close方法(`java.io.Closeable`也继承了这个接口),这个也是可以适用适配器模式场地的地方,因为很多老的应用资源并没有实现这个接口
   在try后面声明的多个资源,close方法的调用顺序与它们声明的顺序相反
   ```java
-     void tryWithResources(
-         Resource r1 = Resource();
-         Resource r2 = Resource();
-         Resource r3 = Resource();
-     ){
-         r3.close();
-         r2.close();
-         r1.close();
+     void tryWithResources(){
+        try(Resource r1 = Resource();
+             Resource r2 = Resource();
+            Resource r3 = Resource();){
+        
+            r3.close();
+            r2.close();
+            r1.close();
+        }
      }
   ```

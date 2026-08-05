@@ -86,7 +86,7 @@ if语句和?:语句的主要区别在于后者有一个值(?:整体是一个表�
 三目(条件)运算符的空指针问题(与java基本类型和包装类型拆装箱问题)
 
 ```java
-    import java.util.HashMap;
+import java.util.HashMap;
 
 public class ConditionExpressionProblem {
     //第一种情况
@@ -100,7 +100,7 @@ public class ConditionExpressionProblem {
         Integer result = (flag ? a * b : c);
     }
 
-    //第二种情况(java 8以下会报错,java 8及以后的版本不会报错,详情见javase 8的语言规范(将条件表达式分成了3中表达式))
+    //第二种情况(java 8以下会报错,java 8及以后的版本不会报错,详情见javase 8的语言规范(将条件表达式分成了3种表达式))
     void conditionExpressionNull_2() {
         Map<String, Boolean> map = new HashMap<>();
         //这里也会报NPE异常

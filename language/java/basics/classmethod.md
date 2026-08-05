@@ -245,6 +245,53 @@ java编译器会在编译阶段出于一些辅助功能的实现而会在类的�
         static void numBox(int i){}
     }
 ```
+```java
+//包装类型之间的重载
+class OverloadForPrimitive {
+
+    static void main() {
+        //当只传递基本类型值(字面量)的时候默认调用基本类型参数的重载方法
+        a(1);
+        //只有显示指定参数类型为包装类型才会调用包装类型参数的方法
+        Integer a = 1;
+        a(a);
+        //即使是直接存在对应的包装类型,也还是先按照先寻找最直接适配的基本类型方法参数,byte->short->int->long(按顺序匹配)
+        //这里参数1是int类型,因为存在可以兼容的long基本类型参数,所以忽略了对应的包装类型,选择long类型参数的方法
+        b(1);
+        //char类型比较特殊,虽然它其实是整数,但是其它的整数类型无法直接自动兼容以它为参数的重载方法,哪怕是取值范围比它小的类型,下面的代码会报错
+        byte c = 1;
+        c(c);
+        //但是char类型的参数可以兼容取值范围比它大的参数的方法,依然按照最近原则适配
+        char c = 1;
+        d(c);
+    }
+
+    static void a(int a){
+        //...
+    }
+
+    static void a(Integer a){
+        //...
+    }
+    
+    static void b(long b){
+        
+    }
+
+    static void b(Integer b){
+
+    }
+
+    static void c(char c){
+        //...
+    }
+
+    static void d(int a){
+        //...
+    }
+    
+}
+```
 
 ## 函数式接口(lambda表达式)(**jdk1.8**)
 

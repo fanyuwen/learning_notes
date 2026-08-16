@@ -1114,6 +1114,7 @@
 + [Redis 入门到进阶：数据类型、跳表、线程模型、Lua 脚本](https://mp.weixin.qq.com/s/30BtulPTaCIwV_5WYQo2Zg)
 + [阿里P8灵魂拷问：100万QPS秒杀限流，Redis为什么是自杀式方案？](https://mp.weixin.qq.com/s/v55ZgWi7eEj6-cAoc0xUVw)
 + [别再把 Redis 当缓存了！10 个高级玩法，很多人只会用前2个](https://mp.weixin.qq.com/s/ZdGtKd7qYoS5jRK4wuE02g)
++ [Redis 面试八股文（三）：高可用（主从复制、哨兵、Cluster）](https://mp.weixin.qq.com/s/6SnxJAFWt9ejoghR7Xn9dw)
 
 #### 原理
 

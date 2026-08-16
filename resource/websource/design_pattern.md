@@ -68,6 +68,7 @@
 + [设计模式七大原则-迪米特法则](https://mp.weixin.qq.com/s/YUoKnQQNvIYsIzacaXlkgA)
 + [行为型设计模式：对象协作的舞蹈家（中）](https://mp.weixin.qq.com/s/xl6BLPHGUFL15ZwLRHWYcQ)
 + [面试官：设计模式的 7 大基本原则有哪些？](https://mp.weixin.qq.com/s/dRIoqZLeiIlaWmceDOjK3Q)
++ [[Java设计模式] 第 3 课：单一职责 SRP 与开闭原则 OCP —— 设计原则的基石](https://mp.weixin.qq.com/s/5NJUgB4wHE-LG4RvuSASJw)
 
 ## 单例模式
 
@@ -225,3 +226,7 @@
 ## 中介者模式
 
 + [实战设计模式之中介者模式](https://mp.weixin.qq.com/s/b2wFN26tq6nVF8pgkSbdPA)
+
+## 享元模式
+
++ [设计模式 12 · 享元模式](https://mp.weixin.qq.com/s/6t3kOzLM9wA1q2de9BOv6A)

@@ -693,6 +693,7 @@
 + [为什么你的代码总是越写越乱？ 读《整洁架构之道》](https://mp.weixin.qq.com/s/r62IjzyGf51k8tqgqLq72g)
 + [从书架上挑选了10本好书，每一本都值得反复阅读](https://mp.weixin.qq.com/s/KVMZduS_5cj-i-dK-sJFiw?click_id=331900574)
 + [技术书籍推荐](https://mp.weixin.qq.com/s/i51q_Ek-q_DS8-p2CWasIA)
++ [8本AI书读完你会有不同的脑子](https://mp.weixin.qq.com/s/ZdmlIYwIZGAlnYdMq3tBFg)
 
 #### 资源网站
 

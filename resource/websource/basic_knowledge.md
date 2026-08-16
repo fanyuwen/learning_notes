@@ -26,6 +26,7 @@
 + [进程栈和线程栈傻傻分不清楚](https://mp.weixin.qq.com/s/XAitgkmiPBCa5pYonmOWRg)
 + [从while(1)到多任务：操作系统进程调度其实很简单](https://mp.weixin.qq.com/s/0TblnpiIbUs5YltVEMiQXw)
 + [计算机栈的工作原理](https://mp.weixin.qq.com/s/y0SL1ZerFmLao_EcUrjhaw)
++ [懵了！面试官问我：什么是 IO 密集，什么是 CPU 密集？](https://mp.weixin.qq.com/s/hFBFCi1-YDBWBjJfCUHWjA)
 
 ## 文件系统
 

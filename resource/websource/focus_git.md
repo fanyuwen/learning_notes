@@ -6,6 +6,10 @@
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 + [vnote](https://github.com/vnotex/vnote)
 
+# AI
+
++ [ai-agent-book](https://github.com/bojieli/ai-agent-book)
+
 # data
 
 + [leveldb](https://github.com/google/leveldb)

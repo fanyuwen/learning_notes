@@ -119,6 +119,7 @@
 + [为什么业务架构（BA）是企业架构(EA)体系顶层核心模块？](https://mp.weixin.qq.com/s/AhZmTth0vrLNfIk34RH6Cw)
 + [业务架构到底有什么用？](https://mp.weixin.qq.com/s/Xvu7hT4IH8D3BBY2PrTbnA)
 + [如何画架构图实战：以智能客服系统为例画技术（系统）架构](https://mp.weixin.qq.com/s/RvpmYZ-cYDsFkbVa2tOnAw)
++ [面试官：什么是异地多活？](https://mp.weixin.qq.com/s/gPAXvsqdRhR76ZJScagY4A)
 
 ### DDD
 
@@ -263,6 +264,7 @@
 + [微服务网关别只盯着Spring Cloud Gateway！Apache APISIX才是企业级流量治理的硬核选择](https://mp.weixin.qq.com/s/ZQAuKJs4Xg00jJWoTL6ihw)
 + [为什么我们没有用微服务，反而选了模块化单体](https://mp.weixin.qq.com/s/7V2CRZiK94vWPtVw8u2QcA)
 + [微服务退潮，单体回温：AI 时代，Java 后端需要一场 "瘦身革命"](https://my.oschina.net/u/2385344/blog/19727454)
++ [面试官：微服务中，什么是服务降级？](https://mp.weixin.qq.com/s/xIgWxas7ACyvw-WydZ1OKw)
 
 # 分布式
 

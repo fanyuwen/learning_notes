@@ -3837,6 +3837,7 @@
 + [Spring监听器（ApplicationEvent）：比MQ更轻的异步神器！](https://mp.weixin.qq.com/s/gfPsH2QbyZz4Qs2IUw6MGQ)
 + [一个很多人忽略的 Spring 功能：轻松实现异步解耦，比 MQ 还轻](https://mp.weixin.qq.com/s/mz5HQ1xVe08xD-n8h6hyjw)
 + [Spring Event 用了三年，同事一句话把我问懵了](https://mp.weixin.qq.com/s/Fwx62ljVBmMjllMJToSbrQ)
++ [Spring Event 别瞎用！被它坑的绩效都没了！](https://mp.weixin.qq.com/s/6VWzwvu8-ezXnBTJHMj4Pg)
 
 ### AOP
 
@@ -4348,6 +4349,9 @@
 + [Java开发：Spring Boot 全局异常处理最佳实践](https://mp.weixin.qq.com/s/rtcnm32UnqIjdIh3-d4sqA)
 + [超越 @Value！Spring Boot 最早期无痛注入属性的 2 种方案](https://mp.weixin.qq.com/s/VAUzKzqHMXV73DnM7Tnz7A)
 + [你还记得 @Lookup 吗？手写高阶版来了](https://mp.weixin.qq.com/s/fRr1fa0u9uEDjEZdjs9kCQ)
++ [别再写 if-else 和工厂了！Spring Boot 零侵入动态路由高级实现](https://mp.weixin.qq.com/s/c2ARvDDwNfe6-FR5zXEEiA)
++ [性能分析！Spring Boot 启动慢？一招揪出所有耗时](https://mp.weixin.qq.com/s/09ufPFd5bqboc3OtorSqMw)
++ [Spring Boot 全新扩展点！太好用了](https://mp.weixin.qq.com/s/7rQ5-aJCyto0Q8A2Atr2Kw)
 
 ##### 原理
 
@@ -5060,6 +5064,11 @@
 + [Spring Boot 4.0官宣：弃用 Undertow](https://mp.weixin.qq.com/s/C6D0byxRkY7CZzAIDM_jPw)
 + [全新方案！Spring Boot 动态控制字段输出](https://mp.weixin.qq.com/s/Kw2GBOj9AU08KFD3QCrZpA)
 + [Spring Boot 接口幂等实战：重复提交、Redis Lua、唯一索引与消息重复消费一次讲透](https://mp.weixin.qq.com/s/CNX3rdp9wt6afuA8SdPf1w)
++ [别再写 try-catch 了！Spring Boot 优雅实现接口降级](https://mp.weixin.qq.com/s/zYbPjdudB26GhXQPfZizbA)
++ [别再造轮子了！你要的 Spring Boot 接口幂等它都封好了](https://mp.weixin.qq.com/s/fLeh9MIKtSs_v8KPtZkvOg)
++ [接口改了字段怎么办？Spring Boot 一次兼容所有版本](https://mp.weixin.qq.com/s/ZObGR5Nahvo8pC3_P7gZ1g)
++ [Spring MVC 藏了一座宝库！这些请求数据你可能从没用过](https://mp.weixin.qq.com/s/Atg_dIjIeW8A9Bta6XdhGg)
++ [Spring Boot 字段加密2种实现方案](https://mp.weixin.qq.com/s/OU5GTk1N6jOkTV-k38JOZQ)
 
 ##### 文件上传下载
 

@@ -330,6 +330,7 @@
 + [后端工程师必备的 10 个 CLI 工具：把终端变成真正的“控制舱”](https://mp.weixin.qq.com/s/1b0cr7--nsyljfuB9o2IMA)
 + [Linux 系统误将 chmod 权限改成 了 000，如何恢复?](https://mp.weixin.qq.com/s/swBSxMFLuC4OlCyoxHk06A)
 + [线上服务器CPU飙到100%，我用了这4个命令10分钟定位问题](https://mp.weixin.qq.com/s/Yk9zN1njr1QAiBdbz4MRVQ)
++ [领导：发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/2Crii4CKOajisAJMLlgrjw)
 
 ### 发行版信息
 
@@ -784,6 +785,7 @@
 + [你的upstream还没加keepalive？等着凌晨被叫醒吧](https://mp.weixin.qq.com/s/7kvLCLP_jnx7oevHhiqwkw)
 + [高并发场景下，Nginx如何做限流？](https://mp.weixin.qq.com/s/EFd0W0Yum1U16r82TvOwtw)
 + [十万个why：Nginx 已经能做负载均衡，为什么还需要服务注册发现？](https://mp.weixin.qq.com/s/vxGDuUd-3lHe2Hhbui9-3A)
++ [终于找到一个好用的 Nginx 日志分析工具了](https://mp.weixin.qq.com/s/iwsFy1RIZsnXRgvRYKmu0w)
 
 ### wireshark
 

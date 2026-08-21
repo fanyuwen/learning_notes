@@ -102,3 +102,5 @@
 + [reqwest](https://github.com/seanmonstar/reqwest)
 + [axum](https://github.com/tokio-rs/axum)
 + [reqwest](https://github.com/seanmonstar/reqwest)
++ 学习资源
+  + [rust-course](https://github.com/sunface/rust-course)

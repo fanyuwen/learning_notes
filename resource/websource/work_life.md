@@ -174,6 +174,7 @@
 + [我只是一个普通程序员，但我想成为架构师](https://mp.weixin.qq.com/s/dc9jnTlFNJ1TtZZe7ZMsYg)
 + [程序员除了写代码还能做什么？](https://mp.weixin.qq.com/s/0zNEjLq1BmS-98-NdJpzhQ)
 + [把技术团队带废的 5 个臭毛病！](https://mp.weixin.qq.com/s/xhYe5rmZEGnx2dehVQHj4Q)
++ [会多门编程语言的你，最推荐哪3-5门语言？](https://mp.weixin.qq.com/s/sMUelwYq_HUQLvzTH28XVA)
 
 # 个人成长
 

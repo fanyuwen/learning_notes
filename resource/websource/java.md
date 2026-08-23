@@ -3115,6 +3115,7 @@
 + [Netty采用io_uring后，2倍CPU核数的线程配置也许不再合理](https://mp.weixin.qq.com/s/ytFcrMCINeGWJ1YtBpsHvw)
 + [Netty内存管理深度解析：从ByteBuf到内存池的设计本质](https://mp.weixin.qq.com/s/Doeih6LthBzBw7GaxQc6_A)
 + [面试官：为什么 Netty 适合做网络编程？](https://mp.weixin.qq.com/s/z-oYtb9pn6xrto2NpbFuRg)
++ [面试官：Netty 如何解决 TCP 粘包、拆包的问题？](https://mp.weixin.qq.com/s/jkbaQoKp-jZawdhAvGhDXg)
 
 ## okhttp
 
@@ -5071,6 +5072,8 @@
 + [Spring Boot 字段加密2种实现方案](https://mp.weixin.qq.com/s/OU5GTk1N6jOkTV-k38JOZQ)
 + [大文件/高并发/跨平台？Java 通过8种方法写入文件，满足各种场景](https://mp.weixin.qq.com/s/gC5CJHaTL3VhwErLL_LwgA)
 + [高性能！Spring Boot 全新API接口权限控制](https://mp.weixin.qq.com/s/DpvWOJNPNzOcH2E-pgEb3Q)
++ [复杂Json难处理？Spring Boot + JsonPath 一个注解搞定](https://mp.weixin.qq.com/s/MJ229boCD0F7dRHxHn25Kg)
++ [为什么 SpringBoot 一直坚持用 Jackson 作为默认序列化库 ?](https://mp.weixin.qq.com/s/FuBylmbUk5Va1kC4_WBcGw)
 
 ##### 文件上传下载
 
@@ -5948,6 +5951,7 @@
 + [SpringBoot+OnlyOffice：优雅实现在线 Word 编辑、转化、保存等功能](https://mp.weixin.qq.com/s/XZiLCATGTSbIrdrsXntzhQ)
 + [SpringBoot + FFmpeg + ZLMediaKit 实现本地视频推流](https://mp.weixin.qq.com/s/0pukfXLKpTHl_Ywa9wV-8Q)
 + [SpringBoot + FFmpeg + ZLMediaKit 实现本地视频推流](https://mp.weixin.qq.com/s/Hy6sui2xyZRBqhJ4TlJZDA)
++ [PDFBox！一个强大的开源 PDF 处理库](https://mp.weixin.qq.com/s/BYBrBsX4JljvFGHBToP-5w)
 
 ##### excel
 
@@ -6271,6 +6275,7 @@
 + [比 Drools 更轻：新一代高性能 Java 规则引擎](https://mp.weixin.qq.com/s/ulSCPZuiwuVQTTymfJsfIQ)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/AI6eCXKUo0VjNIoJrBBYEw)
 + [Feat 为什么能这么快？答案藏在 2000 行代码里](https://my.oschina.net/u/2385344/blog/19724122)
++ [让SpringBoot不需要Controller、Service、DAO、Mapper，卧槽！这款工具绝了！](https://mp.weixin.qq.com/s/5WM_gsNtjQfEZ8k1KcTVFg)
 
 # 其它环境
 

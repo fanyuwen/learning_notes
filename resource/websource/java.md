@@ -5069,6 +5069,8 @@
 + [接口改了字段怎么办？Spring Boot 一次兼容所有版本](https://mp.weixin.qq.com/s/ZObGR5Nahvo8pC3_P7gZ1g)
 + [Spring MVC 藏了一座宝库！这些请求数据你可能从没用过](https://mp.weixin.qq.com/s/Atg_dIjIeW8A9Bta6XdhGg)
 + [Spring Boot 字段加密2种实现方案](https://mp.weixin.qq.com/s/OU5GTk1N6jOkTV-k38JOZQ)
++ [大文件/高并发/跨平台？Java 通过8种方法写入文件，满足各种场景](https://mp.weixin.qq.com/s/gC5CJHaTL3VhwErLL_LwgA)
++ [高性能！Spring Boot 全新API接口权限控制](https://mp.weixin.qq.com/s/DpvWOJNPNzOcH2E-pgEb3Q)
 
 ##### 文件上传下载
 
@@ -5270,6 +5272,7 @@
 + [别再只会加事务了：用 Java 从 0 构建高并发抢票系统，彻底吃透死锁与隔离级别](https://mp.weixin.qq.com/s/SzKM_R2KuHNbBgFqJqm4Jg)
 + [高级开发！@Transactional 致命的10个错误，最后一个很要命](https://mp.weixin.qq.com/s/YOgy-XYq_obRQ5owxNTUig)
 + [@Transactional 搞不定的三种场景：异步、自调用、动态回滚，换编程式事务怎么填坑](https://mp.weixin.qq.com/s/iddjaUcu1aivyYGI8QWPrg)
++ [Spring Boot 事务优化：5 种写法，性能差距惊人](https://mp.weixin.qq.com/s/3dDhdILx2RQy6PDjheFomA)
 
 ##### BIG DATA
 
@@ -5462,6 +5465,7 @@
 + [new 的对象也能被 Spring 注入？AspectJ LTW 打破限制！](https://mp.weixin.qq.com/s/ZZe_Dmb-0Okrrqb8SWEciQ)
 + [碾压传统 AOP！Spring Boot 权限控制新方案，优雅又高效](https://mp.weixin.qq.com/s/JQk36ckHrQoOlsMCFTGycA)
 + [Spring通知：前置/后置/环绕/异常一网打尽](https://mp.weixin.qq.com/s/AYLYOQvRrZ0isBAJFFrUtA)
++ [没有AOP！Spring Boot 3 零侵入路由读写分离新方案](https://mp.weixin.qq.com/s/Le-XTplUzQM0zLJuVzjwcg)
 
 #### SPI
 

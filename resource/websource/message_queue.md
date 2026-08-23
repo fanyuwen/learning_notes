@@ -166,6 +166,7 @@
 + [蚂蚁一面：为什么选Kafka？别的MQ不行吗？](https://mp.weixin.qq.com/s/APV1WD2SxOyDFGN4Q2Gmsg)
 + [Kafka 分布式理论与大厂设计](https://mp.weixin.qq.com/s/xa2NwnZuUN3ofQqVDYccLQ)
 + [kafka 源码与OS底层](https://mp.weixin.qq.com/s/F4hS-XhrnWeLriBntCxCiQ)
++ [十万个why：Kafka offset 明明提交成功了，为什么重启后还是重复消费了几万条数据？](https://mp.weixin.qq.com/s/cj9nHPEXlK7AotJS_CoqGg)
 
 # ROCKETMQ
 

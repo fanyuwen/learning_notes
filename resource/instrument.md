@@ -210,7 +210,7 @@
 + web应用框架 [actix web](https://actix.rs/)
 + 运行时组件 [tokio](https://tokio.rs/)
 + 开发资源网站 [tweedegolf](https://tweedegolf.nl/en)
-+ 游戏引擎 [bevy](https://bevy.org/)
++ 游戏引擎 [bevy](https://bevy.org/) [fyrox](https://fyrox.rs/)
 
 ### AI
 

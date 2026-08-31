@@ -4353,6 +4353,7 @@
 + [别再写 if-else 和工厂了！Spring Boot 零侵入动态路由高级实现](https://mp.weixin.qq.com/s/c2ARvDDwNfe6-FR5zXEEiA)
 + [性能分析！Spring Boot 启动慢？一招揪出所有耗时](https://mp.weixin.qq.com/s/09ufPFd5bqboc3OtorSqMw)
 + [Spring Boot 全新扩展点！太好用了](https://mp.weixin.qq.com/s/7rQ5-aJCyto0Q8A2Atr2Kw)
++ [性能优化！Spring Boot 深度优化反射与动态代理的策略](https://mp.weixin.qq.com/s/0kXaxuzrdtrCrPE1eI1BTg)
 
 ##### 原理
 
@@ -5074,6 +5075,8 @@
 + [高性能！Spring Boot 全新API接口权限控制](https://mp.weixin.qq.com/s/DpvWOJNPNzOcH2E-pgEb3Q)
 + [复杂Json难处理？Spring Boot + JsonPath 一个注解搞定](https://mp.weixin.qq.com/s/MJ229boCD0F7dRHxHn25Kg)
 + [为什么 SpringBoot 一直坚持用 Jackson 作为默认序列化库 ?](https://mp.weixin.qq.com/s/FuBylmbUk5Va1kC4_WBcGw)
++ [Spring Boot 新增 InetAddressFilter，解决SSRF 安全漏洞](https://mp.weixin.qq.com/s/UgSm_pSHA024E6ByZdWV3w)
++ [开源！零代码实现，SSE实时通信](https://mp.weixin.qq.com/s/dE3EF5v3kCJCmh23hvxieg)
 
 ##### 文件上传下载
 
@@ -5252,6 +5255,7 @@
 + [数据实时同步！Spring Boot + Redis 绝佳方案发布/订阅模式](https://mp.weixin.qq.com/s/QgOZp3xZj3vi-56mPGMfBw)
 + [告别字符串拼接 SQL：Spring Boot + jOOQ 类型安全数据库操作实战](https://mp.weixin.qq.com/s/dKvXk2JA3ad0IVoF56KW7g)
 + [Spring Boot 全新 @RedisListener 注解，优雅监听消息](https://mp.weixin.qq.com/s/UlxUmETJDQZSDL7dYB5Hdg)
++ [性能提升！Spring Boot 又一性能优化点：延迟获取数据库连接](https://mp.weixin.qq.com/s/hkuFdGBvRMhsbkmOeuUB2g)
 
 ##### TRANSACTION
 
@@ -5469,6 +5473,7 @@
 + [碾压传统 AOP！Spring Boot 权限控制新方案，优雅又高效](https://mp.weixin.qq.com/s/JQk36ckHrQoOlsMCFTGycA)
 + [Spring通知：前置/后置/环绕/异常一网打尽](https://mp.weixin.qq.com/s/AYLYOQvRrZ0isBAJFFrUtA)
 + [没有AOP！Spring Boot 3 零侵入路由读写分离新方案](https://mp.weixin.qq.com/s/Le-XTplUzQM0zLJuVzjwcg)
++ [性能优化！Spring AOP + SpEL实现缓存动态管理（支持TTL/动态刷新）](https://mp.weixin.qq.com/s/DvCJXgEzpcd3YoxmW4wg9A)
 
 #### SPI
 

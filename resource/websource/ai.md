@@ -113,6 +113,7 @@
 + [开源AI神器！CodeGraph 一键看懂整个项目，大型项目必备！](https://mp.weixin.qq.com/s/9lyJ5ZzwjQ2b0KnBUvqRfg)
 + [AgentScope Java 2.0 正式发布：内置生产级 Harness，助力智能体迈向分布式企业场景](https://my.oschina.net/u/3874284/blog/19723341)
 + [MCP 协议将发布史上最大更新：不再有会话，不再有握手](https://www.oschina.net/news/475822)
++ [既然AI这么强，为什么还需要程序员交付代码？](https://mp.weixin.qq.com/s/8b5itX5dfkGMYNvN-7cwVg)
 
 ### agent
 

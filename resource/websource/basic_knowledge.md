@@ -332,6 +332,7 @@
 + [Linux 系统误将 chmod 权限改成 了 000，如何恢复?](https://mp.weixin.qq.com/s/swBSxMFLuC4OlCyoxHk06A)
 + [线上服务器CPU飙到100%，我用了这4个命令10分钟定位问题](https://mp.weixin.qq.com/s/Yk9zN1njr1QAiBdbz4MRVQ)
 + [领导：发现谁用 kill -9 关闭程序就开除！](https://mp.weixin.qq.com/s/2Crii4CKOajisAJMLlgrjw)
++ [面试官：你掌握哪些 Linux 常用命令？](https://mp.weixin.qq.com/s/AC2LR_N4BiFWDlIOU8jdog)
 
 ### 发行版信息
 

@@ -860,6 +860,7 @@
 + [退款接口并发冲突，我用了3层防护才解决](https://mp.weixin.qq.com/s/nJP4f9sEbZIt6tmRC5wtXw)
 + [内存池与对象池：何时选择，如何从零实现？](https://mp.weixin.qq.com/s/8ptGVQJHmc_kNZtE7zbpyA)
 + [如何设计一个低延迟的实时数据处理系统？](https://mp.weixin.qq.com/s/XerfTV9Eh2M5DuHJItz_0Q)
++ [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/Vae4Y7Mhr2urQMxoiEkgmw)
 
 # 测试相关
 
@@ -944,6 +945,7 @@
 + [精讲第三方支付管理系统设计](https://mp.weixin.qq.com/s/-8ac5Tg4s577tW9xme16Gg)
 + [碰一下支付：拆解 NFC 整套支付底层逻辑！](https://mp.weixin.qq.com/s/jum0eyOBbPBmIrw5vTaWZg)
 + [美团一面真题：设计一个预约系统，时间粒度怎么切？](https://mp.weixin.qq.com/s/NUKmJHAF3LYO4IdW2kS5JQ)
++ [每天骑的共享单车是什么通信原理，有人了解过吗？](https://mp.weixin.qq.com/s/nly5tQ0iaHgLXLiZJiYOPw)
 
 ## 代码相关
 

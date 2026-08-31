@@ -175,6 +175,9 @@
 + [程序员除了写代码还能做什么？](https://mp.weixin.qq.com/s/0zNEjLq1BmS-98-NdJpzhQ)
 + [把技术团队带废的 5 个臭毛病！](https://mp.weixin.qq.com/s/xhYe5rmZEGnx2dehVQHj4Q)
 + [会多门编程语言的你，最推荐哪3-5门语言？](https://mp.weixin.qq.com/s/sMUelwYq_HUQLvzTH28XVA)
++ [“宁愿失业，也不再用AI写一行代码！”用了18个月AI后，20年老兵宣布停用：要重获手搓代码的快乐](https://mp.weixin.qq.com/s/3XoeG2KpMNyAY6QxjETz7Q)
++ [大龄程序员归宿是什么？现在行情好烂，35+Java程序员找个一万左右的工作，还能找到吗？](https://mp.weixin.qq.com/s/1crP-2bdhM8Fa7fKDcYFGQ)
++ [明明是工作经验越久越吃香，为什么程序员却不是？](https://mp.weixin.qq.com/s/mw6AsQuG7zcN3WBmRbvKxg)
 
 # 个人成长
 

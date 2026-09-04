@@ -164,6 +164,7 @@
 + [Rust中的泛型Generics](https://mp.weixin.qq.com/s/lWUs_8Vc6BId_S6RKraMWA)
 + [Rust 特征系统：强大能力与清晰代码的平衡艺术](https://mp.weixin.qq.com/s/XVakAW7cUsHWGJjffAs7Fg)
 + [探索Rust第二个最复杂的特性](https://mp.weixin.qq.com/s/sTe3dG1ppmuNtVKvSc7AAQ)
++ [告别OOM！大文件流式IO最优解决方案](https://mp.weixin.qq.com/s/-gCCAzagLBxEidwA9wmPIw)
 
 # 框架
 

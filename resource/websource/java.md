@@ -888,6 +888,7 @@
 + [货币字段用Double还是BigDecimal？精度、性能双重考虑](https://mp.weixin.qq.com/s/y-thexG-5VEwSv-HuzMuvQ)
 + [Java源码如何变成机器指令（一文讲透JVM全景与运行链路）](https://mp.weixin.qq.com/s/Ha0xrHL173CNMjp4HzKHSA)
 + [一个方法被调用时，栈里发生了什么？（一文讲透JVM 栈帧与方法调用）](https://mp.weixin.qq.com/s/jGDYcTio3zBluMgaQSUG8A)
++ [以为 User::getId 是单例？把 lambda 当缓存 key，我踩了个大坑](https://mp.weixin.qq.com/s/7Emavmh-b5hOL6YKqitJ2w)
 
 ### 序列化
 
@@ -1170,6 +1171,7 @@
 + [[Java多线程][调优与排查] 第74课：性能测试方法](https://mp.weixin.qq.com/s/vlE3VgLD4wheQ2ZWHVjLFA)
 + [[Java多线程][综合案例] 第77课：线程安全的本地缓存](https://mp.weixin.qq.com/s/rkG3AAtW0HnEH7z2qy5pbA)
 + [并发编程三大坑：可见性、原子性、有序性——用JMM模型一次性讲透](https://mp.weixin.qq.com/s/kmY4UIXy5Sxu9o0f1fHENg)
++ [Java 并发编程实战：从线程池到 AQS，把并发核心一次讲透](https://mp.weixin.qq.com/s/gUKCqd_DcY76Jmkh8bXfEw)
 
 #### CAS
 
@@ -1566,6 +1568,7 @@
 + [加一个JVM参数，让系统可用率从95%提高到99.995%](https://mp.weixin.qq.com/s/xMJ_2bkOUQvrb7GzGIyhmA)
 + [JVM 系列(七)：实战掌握五大JDK工具，线上问题不再慌！](https://mp.weixin.qq.com/s/Ny0M6Qcxgz6IEI9DapQGzg)
 + [死锁产生条件与诊断：jps、jstack、VisualVM](https://mp.weixin.qq.com/s/n2fOf85CO32L2uL2dTvGoA)
++ [Java只配了-Xmx4g，进程为什么吃掉8GB？](https://mp.weixin.qq.com/s/pxbWJjOlre3ej9J_wjiVcA)
 
 ### 内存
 
@@ -1790,6 +1793,7 @@
 + [G1垃圾回收器4期- JVM默认初始化参数](https://mp.weixin.qq.com/s/jZXGgv_yOK51L6xjR3PkNw)
 + [G1 Mixed GC：它怎么知道先清哪个 Region](https://mp.weixin.qq.com/s/lJ7s0XJwy7zupydWheawbQ)
 + [MaxGCPauseMillis 不是承诺：G1 停顿目标背后的预算博弈](https://mp.weixin.qq.com/s/wFtlDFlxqDCdT-1wtP0MHw)
++ [G1深入理解系列-Mixed GC 不是把 Old 清空](https://mp.weixin.qq.com/s/goO3g1oQBKKiYGor_eWNlA)
 
 #### ZGC
 
@@ -1798,6 +1802,7 @@
 + [Java 面试题 --JVM 大厂篇之 Java 新神器 ZGC：颠覆你的垃圾回收认知！](https://mp.weixin.qq.com/s/dPINwSxp_mz5vCjjDPhNrQ)
 + [深入解析 ZGC：基于 G1 的革新性优化](https://mp.weixin.qq.com/s/iVi5ssDQO7osyDEGNZC1rw)
 + [ZGC 极致低延迟：一边搬仓一边发货](https://mp.weixin.qq.com/s/FyWnzu9NkKzqd3r1kxdZ3g)
++ [如何把GC时间控制得非常短？（一文讲透JVM ZGC）](https://mp.weixin.qq.com/s/ncLc1zh7Q_4wIsYVXxmxVQ)
 
 # 核心库
 
@@ -1870,6 +1875,7 @@
 + [[Java多线程] 第14课：ThreadLocal——线程专属变量](https://mp.weixin.qq.com/s/T8Q2mPDkMIKQbuaDq9j0cQ)
 + [线程隔离了，信息还会串？（一文讲透Java ThreadLocal 的数据隔离、生命周期与线程复用风险）](https://mp.weixin.qq.com/s/V-d1nFtOMgdSMIZULADTiA)
 + [ThreadLocal 父子线程值传递](https://mp.weixin.qq.com/s/wT2xL_0QlsGHPbVNp6Vd-Q)
++ [面试高频题：ThreadLocal 是 private static final，全局唯一，每个线程持有独立的副本。这句话到底什么意思？](https://mp.weixin.qq.com/s/Jn4tL2zhwq0-lH25FK9Y2g)
 
 ## math库
 
@@ -2394,6 +2400,7 @@
 + [[Java多线程][并发工具] 第42课：CountDownLatch——倒计时等待](https://mp.weixin.qq.com/s/MkFm4EQUG313UbFfh2W2yw)
 + [[Java多线程][并发工具] 第43课：CyclicBarrier——栅栏同步](https://mp.weixin.qq.com/s/cegE1EmptCz5L-G-49TiZA)
 + [[Java多线程][异步编程] 第50课：CompletionService——批量任务按完成顺序取结果](https://mp.weixin.qq.com/s/iqbmjrZCl8XCxUPR6tcRxA)
++ [CountDownLatch、CyclicBarrier、Semaphore 区别：一张对比表分清三个同步工具](https://mp.weixin.qq.com/s/3Kw9GzWd9hu8iMyIRDjaig)
 
 ## IO/NIO
 
@@ -2541,6 +2548,10 @@
 + [实战：基于Spring ai mcp使用JAVA语言编写MCP server服务端代码](https://mp.weixin.qq.com/s/Zf8Nu3Bjw3520Rq0VgCQ0w)
 
 # 第三方库
+
+## agrona
+
++ [性能超JDK队列20倍！Agrona的OneToOneRingBuffer 无锁环形缓冲深度拆解](https://mp.weixin.qq.com/s/JLvDZfT9cV1x3tdrWtX3Mg)
 
 ## akka
 
@@ -2757,6 +2768,7 @@
 + [Java JSON Jackson Introduction](https://studytrails.com/2016/09/10/java-jackson-introduction/)
 + [Jackson, JSON Java Processor Tutorials](https://www.logicbig.com/tutorials/misc/jackson.html)
 + [Jackson 序列化：@JsonIgnore / @JsonProperty / @JsonFormat / @JsonInclude / @JsonUnwrapped 一次讲清楚](https://mp.weixin.qq.com/s/w9rDrWMWgSg8Vd4rmdJ8GA)
++ [Jackson 数据脱敏：一个 @Sensitive 注解搞定敏感字段打码](https://mp.weixin.qq.com/s/1UiKgqmJ5quiOFoujEWtMA)
 
 ### fastjson
 
@@ -2799,6 +2811,7 @@
 + [程序员注意！为什么你还在用“烂日志”？结构化日志才是生产环境的救命稻草](https://mp.weixin.qq.com/s/wH1TsB2ugmAsbVqSziot7Q)
 + [一文讲清：Logback、Log4j2、SLF4J——Java日志框架怎么选？](https://mp.weixin.qq.com/s/217QQQ3I6XkdKYeMCNnexA)
 + [Logback 1.5.x：从底层架构到生产落地，兼谈 Log4j2 选型本质，重新理解Java日志体系](https://mp.weixin.qq.com/s/7i9QeaA-LQUxq6T861PGSQ)
++ [Java SLF4J 实战指南：从日志门面到 Logback、MDC 和链路追踪](https://mp.weixin.qq.com/s/dineYh6-8mULl53kpTOSOA)
 
 ## lombok
 
@@ -4096,6 +4109,7 @@
 + [Spring Cloud Gateway 路由存数据库，改配置不用重启](https://mp.weixin.qq.com/s/HWqQDtCoxnebApWOgkUj1w)
 + [SpringClond微服务架构篇 三 、网关gateway篇](https://mp.weixin.qq.com/s/uvjf8pBP7_27bBtPH_PUpw)
 + [API 网关怎么选？Spring Cloud Gateway、Nginx、Envoy、Kong 全面对比](https://mp.weixin.qq.com/s/IvB3PPctku4RtKd8q7gDQQ)
++ [高并发场景下，网关如何支撑百万级并发？](https://mp.weixin.qq.com/s/qDKUdOZSYQloLhEhupD-Iw)
 
 #### AI
 
@@ -5077,6 +5091,7 @@
 + [为什么 SpringBoot 一直坚持用 Jackson 作为默认序列化库 ?](https://mp.weixin.qq.com/s/FuBylmbUk5Va1kC4_WBcGw)
 + [Spring Boot 新增 InetAddressFilter，解决SSRF 安全漏洞](https://mp.weixin.qq.com/s/UgSm_pSHA024E6ByZdWV3w)
 + [开源！零代码实现，SSE实时通信](https://mp.weixin.qq.com/s/dE3EF5v3kCJCmh23hvxieg)
++ [Spring Boot 4 防重复提交：一个注解实现接口幂等](https://mp.weixin.qq.com/s/T5xLb0zH3zw_OR1X_q0bRA)
 
 ##### 文件上传下载
 
@@ -6281,6 +6296,7 @@
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/AI6eCXKUo0VjNIoJrBBYEw)
 + [Feat 为什么能这么快？答案藏在 2000 行代码里](https://my.oschina.net/u/2385344/blog/19724122)
 + [让SpringBoot不需要Controller、Service、DAO、Mapper，卧槽！这款工具绝了！](https://mp.weixin.qq.com/s/5WM_gsNtjQfEZ8k1KcTVFg)
++ [NATS：比消息队列更简单，比 RPC 更灵活的分布式消息系统](https://mp.weixin.qq.com/s/9x9Ued4z2N-t8VkUNuBmfQ)
 
 # 其它环境
 

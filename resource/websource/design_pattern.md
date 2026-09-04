@@ -222,6 +222,7 @@
 ## 备忘录模式
 
 + [实战设计模式之备忘录模式](https://mp.weixin.qq.com/s/G7Yy2IXzoIdwDCfy05QZdQ)
++ [设计模式之十八：备忘录模式](https://mp.weixin.qq.com/s/xw9z1_2O3-hFqSRQa7eiEw)
 
 ## 中介者模式
 

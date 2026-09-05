@@ -633,6 +633,7 @@
 + [Lambda 表达式从 0 到 1：告别匿名内部类（AI 辅助学习实战）](https://mp.weixin.qq.com/s/ueczjXwVEd_ikT8wFbeVyw)
 + [Java Lambda 原理拆解：动态生成类与调用流程](https://mp.weixin.qq.com/s/stUbw9thrV24qxlfIgwzww)
 + [Java Lambda 表达式与函数式编程](https://mp.weixin.qq.com/s/0SGlwVycv0v5I3AkpD_Erw)
++ [别在for循环里查数据库了！这才是Java处理大数据的优雅姿势](https://mp.weixin.qq.com/s/K-6_75AA9y_edaRDtTRmjg)
 
 ## 代码质量
 
@@ -1416,6 +1417,8 @@
 + [[Java多线程][底层原理] 第65课：小项目——手写简化版锁](https://mp.weixin.qq.com/s/tL3PCCEChP9zQyTj4_-djA)
 + [[Java多线程][调优与排查] 第73课：锁优化策略](https://mp.weixin.qq.com/s/XrtMObXeMhUHBzKPBDsePg)
 + [[Java多线程][综合实战] 第76课：分布式锁实现](https://mp.weixin.qq.com/s/zhRl3JJhZ6wULEdzCwvbqg)
++ [synchronized 原理：从对象头、锁升级到 ObjectMonitor](https://mp.weixin.qq.com/s/Vl8AatTEOSPqJnFdqF8i2g)
++ [AQS 是什么？Java 并发框架的地基，一篇讲透 state、CLH 队列与模板方法](https://mp.weixin.qq.com/s/fbgIicj--IN0Ozt9Tt-VnQ)
 
 #### volatile
 
@@ -1558,6 +1561,8 @@
 + [堆、栈、方法区，到底各装什么？（一文讲透JVM运行时数据区）](https://mp.weixin.qq.com/s/1iBPePdnkqRZkqkWdxbWyA)
 + [对象只有5字节，字段为何占24字节？（一文讲透JVM HotSpot 对象内存布局）](https://mp.weixin.qq.com/s/D4R6eVRYGfnOhQKtfrKPXw)
 + [没有业务引用的对象，什么时候才能被回收？（一文讲透JVM 对象存活判定与可达性分析）](https://mp.weixin.qq.com/s/rMHiXgxESmjJxCsbmR-6Qg)
++ [强弱引用并存，对象听谁的？（一文讲透JVM 强、软、弱、虚引用与 ReferenceQueue）](https://mp.weixin.qq.com/s/8SVL5KIud2JAJlVDJSWm6w)
++ [90%的Java面试栽在JVM调优，只因没搞懂排查链路](https://mp.weixin.qq.com/s/27mDx0o-_24HomZD8wS_uA)
 
 ### 命令
 
@@ -1965,6 +1970,7 @@
 + [Collectors 全家桶：toList/joining/groupingBy（AI 辅助学习 Java 8）](https://mp.weixin.qq.com/s/5Ts9Kf-U45BdBskJfivF1w)
 + [90%开发者只会用groupingBy？partitioningBy才是二分类场景的“正解”](https://mp.weixin.qq.com/s/WRXkNMgpTdSBvxc-1YnMGQ)
 + [Java 程序员必看：掌握 Stream API，你的代码量直接砍半](https://mp.weixin.qq.com/s/dBxa4ujmzKvm-QxFaVYmrg)
++ [Java Stream + Lambda 实战：从入门到性能对比](https://mp.weixin.qq.com/s/f6uqvTpERvu71oClewG4aA)
 
 ### Date/time
 
@@ -2091,6 +2097,7 @@
 + [HashMap 核心机制十问：put、get、哈希碰撞、扩容、红黑树、负载因子](https://mp.weixin.qq.com/s/q418l3xBaJ7vcSdghmB99g)
 + [Java 面试：HashMap 底层原理怎么答才不乱？](https://mp.weixin.qq.com/s/E4OmKhps1xXB3yTEvS8pPA)
 + [Java 开发 > 用了十年 HashMap，还不知道 LinkedHashMap 和 TreeMap 啥时候用？](https://mp.weixin.qq.com/s/-g2wxt_VEB6n-rwhX7vTew)
++ [HashMap 一篇讲透：从数组、链表、红黑树到扩容以及退化，面试再也不怕被追问](https://mp.weixin.qq.com/s/Z2nBEO9SMpnGvP7omVMn3A)
 
 ### Optional
 
@@ -2208,6 +2215,7 @@
 + [异步链路里的故障处理（一文讲透 CompletableFuture 的异常、超时与取消传播）](https://mp.weixin.qq.com/s/ou8899J31CiPOQiVT4flZA)
 + [CompletableFuture 完全手册：从提交任务到组合编排一次讲透](https://mp.weixin.qq.com/s/gHpYYKRX2ofJb4JSFRcNhA)
 + [CompletableFuture异步编排实战：从链式调用到异常处理的最佳实践](https://mp.weixin.qq.com/s/KTHigsJwCv0ueuCE6h2l8g)
++ [Java 面试：CompletableFuture 适合解决什么问题？](https://mp.weixin.qq.com/s/CPETtSEBKm9sOGfxLs8jxQ)
 
 ### ThreadPool
 
@@ -2631,6 +2639,7 @@
 + [Redis+Caffeine 太强了！](https://mp.weixin.qq.com/s/raui7VrKIN-TCzo_OO4f1Q)
 + [Guava Cache和Caffeine，哪个更好？](https://mp.weixin.qq.com/s/UQXvxfIiW7TJOKgxEa-GDQ)
 + [Caffeine缓存库：Java性能最强本地缓存的革命，超越Guava和Ehcache](https://mp.weixin.qq.com/s/ShxCthMBz9MEcSbyd9Sseg)
++ [碾压 Guava！Java 本地缓存 Caffeine 完整实战](https://mp.weixin.qq.com/s/4TB-Ur2--uOw65F9Po4F2Q)
 
 ## consul
 
@@ -2662,6 +2671,8 @@
 + [Disruptor高性能内存队列的使用场景及快速筛选](https://mp.weixin.qq.com/s/NEVD5IMR6kuP0s05UV_8uQ)
 + [Disruptor3 vs Disruptor4 完整区别、API 变更、迁移方案、适用场景](https://mp.weixin.qq.com/s/5QX4KtJ9KwRNtAVKTanX8g)
 + [Disruptor：高性能本地内存队列](https://mp.weixin.qq.com/s/LTbskbuM6dbOVdVj39D2Dg)
++ [从外汇交易所火遍全行业：单线程吞吐量破千万，Disruptor凭什么成为Java低延迟并发的标配？](https://mp.weixin.qq.com/s/8KWmNSN5CfmeoBJ9a4zEtA)
++ [Disruptor环形队列为什么比BlockingQueue快？零拷贝+伪共享+缓存行填充](https://mp.weixin.qq.com/s/aeW1p9vRbaUcPFclp3n9vQ)
 
 ## dubbo
 
@@ -2762,6 +2773,7 @@
 + [Fastjson为啥老出事？3分钟讲透反序列化漏洞](https://mp.weixin.qq.com/s/g_uCYVTvdTnBBGcnQ9dvGw)
 + [从 JSON 字符串到 Java 对象：Fastjson 1.2.83 全程解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695791)
 + [Java 中 JSON 字段不固定怎么搞序列化？用好这两个注解就够了！](https://mp.weixin.qq.com/s/RG8Ayo8cxWPjPAi6K-TJgw)
++ [轻量级 Java JSON 库推荐：jquick-json 序列化/反序列化 + 变量替换 + 字节码优化全解析](https://mp.weixin.qq.com/s/LjqrGOvPZGEfFLJm2tHJdA)
 
 ### jackson
 
@@ -2840,6 +2852,7 @@
 + [别再手写映射代码了！这个工具让性能飙升 30 倍，还不踩坑](https://mp.weixin.qq.com/s/zZECnhWGpAz5QrTK3S6LdQ)
 + [告别繁琐的 DTO 转换：MapStruct 实战与精髓解析](https://mp.weixin.qq.com/s/SitVya1a3kRstBakEKsTgg)
 + [对象相互转换：别再让 BeanUtils 拖慢你的系统，我选MapStruct](https://mp.weixin.qq.com/s/TV3xg7h-Oc6X-VLXIHXsbw)
++ [MapStruct 比 BeanUtils 快 10 倍？DTO 转换的正确姿势](https://mp.weixin.qq.com/s/XBqzc3eAQIJiKMQyVwzUBQ)
 
 ## mybatis
 
@@ -3706,6 +3719,7 @@
 + [Spring Batch 处理大数据集 异步+虚拟线程，性能提升90倍](https://mp.weixin.qq.com/s/V2BaB8hXj4iEEUi2oCB1nQ)
 + [SpringBoot 批处理任务：Spring Batch 入门](https://mp.weixin.qq.com/s/VuoOxaQY4StNW4hhLUPbIg)
 + [自从用了 Spring Batch，效率飙升 500%！](https://mp.weixin.qq.com/s/SlGbnvKPtfyNvZP2ELSnug)
++ [Spring Batch 入门到实战：从定时循环到可恢复的批处理系统](https://mp.weixin.qq.com/s/BMrfKXqvrggKGtZfc9A41A)
 
 #### TRANSACTION
 
@@ -5092,6 +5106,7 @@
 + [Spring Boot 新增 InetAddressFilter，解决SSRF 安全漏洞](https://mp.weixin.qq.com/s/UgSm_pSHA024E6ByZdWV3w)
 + [开源！零代码实现，SSE实时通信](https://mp.weixin.qq.com/s/dE3EF5v3kCJCmh23hvxieg)
 + [Spring Boot 4 防重复提交：一个注解实现接口幂等](https://mp.weixin.qq.com/s/T5xLb0zH3zw_OR1X_q0bRA)
++ [统一返回对象设计：AjaxResult 与 R 的取舍](https://mp.weixin.qq.com/s/XMHBqysTJm_r8strxVYReQ)
 
 ##### 文件上传下载
 
@@ -6019,6 +6034,7 @@
 + [零侵入！轻量 RestClient 动态增强组件](https://mp.weixin.qq.com/s/t6X_LuMbQ17xyCyHm7txmQ)
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/WXRhDXVPBpiOCeTYsizGlw)
 + [基于SpringBoot自动配置原理：写个自定义Starter](https://mp.weixin.qq.com/s/HGjmzQucE9iqkSb17GMIJQ)
++ [Spring Boot 插件化最佳实践](https://mp.weixin.qq.com/s/YskwfHlKdGd8DMKcunPItg)
 
 #### 原理&源码
 
@@ -6297,6 +6313,8 @@
 + [Feat 为什么能这么快？答案藏在 2000 行代码里](https://my.oschina.net/u/2385344/blog/19724122)
 + [让SpringBoot不需要Controller、Service、DAO、Mapper，卧槽！这款工具绝了！](https://mp.weixin.qq.com/s/5WM_gsNtjQfEZ8k1KcTVFg)
 + [NATS：比消息队列更简单，比 RPC 更灵活的分布式消息系统](https://mp.weixin.qq.com/s/9x9Ued4z2N-t8VkUNuBmfQ)
++ [Java 拦截器一定要靠动态代理吗？Feat 给出了另一种答案](https://mp.weixin.qq.com/s/gbNkHLw3DfYRVeYx3tzXtQ)
++ [PF4J：轻量级Java 插件化架构实现方案](https://mp.weixin.qq.com/s/7Tl-_DkpU6ExYzHjvTrtqQ)
 
 # 其它环境
 

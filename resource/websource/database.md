@@ -796,6 +796,7 @@
 + [下单接口卡10秒，一个索引引发的生产事故](https://mp.weixin.qq.com/s/8Ko0hqOmcZa0AArnqm-LwQ)
 + [Mysql索引B+树讲解](https://mp.weixin.qq.com/s/XC6waBGh1PMN8eEW5jUc2w)
 + [联合索引、覆盖索引与索引下推：高效利用索引的进阶策略](https://mp.weixin.qq.com/s/fibhwdgqHudGltBI72ICUQ)
++ [彻底搞懂MySQL索引：B+树、回表、覆盖索引、联合索引](https://mp.weixin.qq.com/s/T8-2kfXqLWGNmZ0zfgYBrA)
 
 ### PostgreSQL
 

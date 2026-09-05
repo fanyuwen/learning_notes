@@ -454,6 +454,7 @@
 + [Proxy 捕获器参数详解：看懂 receiver，你就超过80%的开发者](https://mp.weixin.qq.com/s/Vbk2wMhGvmQkHoWbOHmw8A)
 + [面试必问：JavaScript Proxy 最大的两个坑，90%的人答不全！](https://mp.weixin.qq.com/s/HB13WzbobwXpPCDIqgewjg)
 + [大文件上传与断点续传解决方案](https://mp.weixin.qq.com/s/dBHryIhJO2hr9rFkH8Rc_Q)
++ [异常与统一封装架构：规范统一返回值、全局异常与参数校验](https://mp.weixin.qq.com/s/F-rICQfVH2sMEiF3anefMQ)
 
 # 杂谈
 

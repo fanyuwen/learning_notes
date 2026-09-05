@@ -184,6 +184,7 @@
 + [一文讲透 Redis 与 MySQL 双写一致性：延迟双删、MQ、Canal 全解析](https://mp.weixin.qq.com/s/sVq6UVH5X_9DHxD_-iAY6Q)
 + [干掉线上90%数据库卡顿！大事务+大表终极优化指南](https://mp.weixin.qq.com/s/ZQlYzWVOM0xeC0CSbeNpQw)
 + [一次建连500ms？池化技术让你快100倍](https://mp.weixin.qq.com/s/DQL-WMfXr55Fg8FwovyWfg)
++ [Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透](https://mp.weixin.qq.com/s/lQnT8cSxt4fz0D7aNXJoUg)
 
 ### 读写分离&分库分表
 
@@ -539,6 +540,9 @@
 + [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/lF6_pTeT3ybiGs36HzhLRQ)
 + [用雪花 id 和 uuid 做 MySQL 主键，被领导怼了](https://mp.weixin.qq.com/s/3XOwac_qvr3U1Ekxjzm-hA)
 + [面试官：分表后，全局 ID 如何生成？](https://mp.weixin.qq.com/s/dFRCyh34rCiMaatk7cC4Gw)
++ [面试官常问的 MySQL 底层原理，用一条 UPDATE 串起来](https://mp.weixin.qq.com/s/0VZ_oRHpBrDgZTTD-dm9ag)
++ [MySQL EXPLAIN 执行计划全字段详解](https://mp.weixin.qq.com/s/NlTXzXmxZk01S_qRFggoJw)
++ [MySQL 慢查询优化实战：从 EXPLAIN 到索引设计](https://mp.weixin.qq.com/s/7avupGuOpDIZR3qId8b1XQ)
 
 #### 存储引擎
 
@@ -564,6 +568,7 @@
 + [InnoDB 存储结构：表空间、数据页、行格式与磁盘组织](https://mp.weixin.qq.com/s/TQ12XOJcRWCPKv9UrD3gQw)
 + [一文搞懂InnoDB存储引擎的工作原理](https://mp.weixin.qq.com/s/r9Mdr8AvyRyFtQSmXi1Pzw)
 + [聚簇索引与二级索引：InnoDB 的索引组织方式](https://mp.weixin.qq.com/s/iHvJhBacMCQ3MhPiHaO4Pw)
++ [一张表落到磁盘后，到底被拆成了什么？（一文讲透InnoDB 存储层级、数据页与行格式）](https://mp.weixin.qq.com/s/S1SA_GrPwXnvY9_mrDVdAQ)
 
 #### MVCC
 
@@ -1353,6 +1358,7 @@
 + [百度网盘基于 Flink 的实时计算实践](https://my.oschina.net/u/4939618/blog/18690345)
 + [【大数据技术实战】流式计算 Flink~生产错误实战解析](https://mp.weixin.qq.com/s/Crf7sbfaLeyXn9HrslCqpQ)
 + [实时数据同步！Flink CDC 实现 MySQL 到 ES 毫秒级同步](https://mp.weixin.qq.com/s/M9wGY5Ef-FTEaFD4tAQisg)
++ [Flink基础算子看着简单，隐藏的坑你踩过几个？](https://mp.weixin.qq.com/s/HevX6CaVFRZpmV1-I8N3FQ)
 
 ## spark
 

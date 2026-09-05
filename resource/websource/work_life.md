@@ -459,6 +459,7 @@
 + [还在手动搭Maven多模块？这款IDEA插件让我效率提升10倍（真实体验）](https://mp.weixin.qq.com/s/LHPygFUI05A8tPtr836Utw)
 + [Claude Agent 进入 IntelliJ IDEA 公测，Java 开发方式真的要变了](https://mp.weixin.qq.com/s/X0hgTIfKtoabkB5eSOc7wA)
 + [Jetbrains 里最好用的 AI Coding 插件，强烈推荐！！](https://mp.weixin.qq.com/s/6pPWwL2A7yiu_zILWCyo-w)
++ [IntelliJ IDEA 高效插件清单：10 个让 Java 开发飞起来的工具](https://mp.weixin.qq.com/s/ukJIFR_mR4rcRXRE2Sfgaw)
 
 ## MAC_PRO相关
 

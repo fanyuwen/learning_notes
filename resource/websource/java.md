@@ -380,6 +380,9 @@
 + [JDK 28 核心源码级解析：AQS 活锁修复、C2 冷方法内联与 G1 并发安全](https://mp.weixin.qq.com/s/uWYZS6WC6asMxSbFkS4Bqg)
 + [JDK 27 把默认 GC 改了：代码一行没动，你的 Java 服务升级后也可能变慢](https://mp.weixin.qq.com/s/EmV2ktcIS7KKSKnEmOTQIw)
 + [[Java多线程][异步编程] 第55课：Java 21虚拟线程入门](https://mp.weixin.qq.com/s/izOfvAlcNpMov043lXzWag)
++ [JNI 早该换了：用 Project Panama 的 FFM API，纯 Java 调 C 库，快 3 倍还更安全](https://mp.weixin.qq.com/s/pA87YmcPepY-l4h9kbbk1Q)
++ [JDK 28字段必须先初始化](https://mp.weixin.qq.com/s/3X1zWZ6xdKGL6osVs4ZIHg)
++ [JVM 虚拟线程：从挂载、卸载到后端落地](https://mp.weixin.qq.com/s/GYhYlSQ-SVb-Vb6WSdC4Jw)
 
 ## 高级用法
 
@@ -492,6 +495,7 @@
 + [Java 设计模式--适配器模式](https://mp.weixin.qq.com/s/bqw7BNoLWNQCfVilJUrjGA)
 + [Java 设计模式--备忘录模式](https://mp.weixin.qq.com/s/JYjEiT90k5csKU8JWo-iPQ)
 + [Java 设计模式——观察者模式](https://mp.weixin.qq.com/s/dfOBJAfyS0-ZNViv6CZkXQ)
++ [[Java设计模式] 第 13 课：外观模式 Facade —— 前台](https://mp.weixin.qq.com/s/MeKRP47nMLZG4Ai2cipmuw)
 + [京东面试：你这项目，就 2-3 个 if-else 分支, 也要用策略模式？你觉得合理吗？](https://mp.weixin.qq.com/s/oQsh2SWqmbGE0Oj6TzJfvw)
 + [面试官：什么是观察者模式？应用场景有哪些？](https://mp.weixin.qq.com/s/YOd5A_bQWUqlp4RW-V8upA)
 + [别学23种了！Java项目中最常用的6个设计模式，附案例](https://mp.weixin.qq.com/s/801OPrV8Wv4D0R0i9v22AA)
@@ -890,6 +894,7 @@
 + [Java源码如何变成机器指令（一文讲透JVM全景与运行链路）](https://mp.weixin.qq.com/s/Ha0xrHL173CNMjp4HzKHSA)
 + [一个方法被调用时，栈里发生了什么？（一文讲透JVM 栈帧与方法调用）](https://mp.weixin.qq.com/s/jGDYcTio3zBluMgaQSUG8A)
 + [以为 User::getId 是单例？把 lambda 当缓存 key，我踩了个大坑](https://mp.weixin.qq.com/s/7Emavmh-b5hOL6YKqitJ2w)
++ [[每日一题]String、StringBuilder、StringBuffer 有什么区别？](https://mp.weixin.qq.com/s/uhDkcksYkrV0S8AKQXs2IQ)
 
 ### 序列化
 
@@ -1173,6 +1178,7 @@
 + [[Java多线程][综合案例] 第77课：线程安全的本地缓存](https://mp.weixin.qq.com/s/rkG3AAtW0HnEH7z2qy5pbA)
 + [并发编程三大坑：可见性、原子性、有序性——用JMM模型一次性讲透](https://mp.weixin.qq.com/s/kmY4UIXy5Sxu9o0f1fHENg)
 + [Java 并发编程实战：从线程池到 AQS，把并发核心一次讲透](https://mp.weixin.qq.com/s/gUKCqd_DcY76Jmkh8bXfEw)
++ [wait() 和 sleep() 区别：一道题看出并发基本功，七个维度讲清楚](https://mp.weixin.qq.com/s/8b2_Nat2r8I8576JlfNEzQ)
 
 #### CAS
 
@@ -1285,6 +1291,8 @@
 + [[Java多线程][线程池] 第32课：线程池工作流程——任务怎么进来？](https://mp.weixin.qq.com/s/4HQ6ZZN7YSJ-oxzeR-SyMg)
 + [[Java多线程][线程池] 第34课：Executors——四种预置线程池](https://mp.weixin.qq.com/s/BQVzeMMo6s0wM5teGSwPJA)
 + [Java 面试：线程池 7 个核心参数怎么理解？](https://mp.weixin.qq.com/s/Pt9DmWDtriklaHbdxnKY2A)
++ [[Java多线程][设计模式] 第69课：线程池模式](https://mp.weixin.qq.com/s/oFcCGjDbm0ZKiXAVfbL5Yw)
++ [线程池队列满了会怎样？从拒绝策略看懂 ThreadPoolExecutor 的扩容顺序](https://mp.weixin.qq.com/s/DzBfVkWw3faI2GYX5mIwCg)
 
 #### 锁
 
@@ -1419,6 +1427,8 @@
 + [[Java多线程][综合实战] 第76课：分布式锁实现](https://mp.weixin.qq.com/s/zhRl3JJhZ6wULEdzCwvbqg)
 + [synchronized 原理：从对象头、锁升级到 ObjectMonitor](https://mp.weixin.qq.com/s/Vl8AatTEOSPqJnFdqF8i2g)
 + [AQS 是什么？Java 并发框架的地基，一篇讲透 state、CLH 队列与模板方法](https://mp.weixin.qq.com/s/fbgIicj--IN0Ozt9Tt-VnQ)
++ [死锁的四个必要条件与排查全流程：从理论到实战一篇讲透](https://mp.weixin.qq.com/s/JaDt6qdPqgGvGTxBjXc5AA)
++ [[每日一题]synchronized 的底层原理是什么？](https://mp.weixin.qq.com/s/LjM8oG3zRYLWGASkpQdfIQ)
 
 #### volatile
 
@@ -1454,6 +1464,7 @@
 + [五分钟背一个面试题：Java 的 volatile 关键字](https://mp.weixin.qq.com/s/bGoRXuEQ3GSzX6IkuDZ2cA)
 + [JMM 进阶：彻底理解 volatile 实现原理](https://mp.weixin.qq.com/s/PKtk5UYPCYUBImNsrmaTUA)
 + [[Java多线程][锁进阶]第17课：volatile——禁止指令重排](https://mp.weixin.qq.com/s/lcQSb2U6HZI-o3yQN6LdPw)
++ [7. 多线程(5) ---volatile关键字](https://mp.weixin.qq.com/s/ahjLqBVlRAp4Zk1F6j21oQ)
 
 ## 源码
 
@@ -1563,6 +1574,9 @@
 + [没有业务引用的对象，什么时候才能被回收？（一文讲透JVM 对象存活判定与可达性分析）](https://mp.weixin.qq.com/s/rMHiXgxESmjJxCsbmR-6Qg)
 + [强弱引用并存，对象听谁的？（一文讲透JVM 强、软、弱、虚引用与 ReferenceQueue）](https://mp.weixin.qq.com/s/8SVL5KIud2JAJlVDJSWm6w)
 + [90%的Java面试栽在JVM调优，只因没搞懂排查链路](https://mp.weixin.qq.com/s/27mDx0o-_24HomZD8wS_uA)
++ [线上JVM怎么调？（一文讲透JVM调优）](https://mp.weixin.qq.com/s/dQyTc4ZZKCfn8VKzTHGE3w)
++ [JVM 内存结构一张图画清：堆、栈、元空间到底怎么分？](https://mp.weixin.qq.com/s/MkgKklDOeSeHtvuDRkOaWg)
++ [JVM规范第 2章：从 class 文件到运行时数据区](https://mp.weixin.qq.com/s/OP07J3tDXYc8Y_JrFj9Z3g)
 
 ### 命令
 
@@ -1574,6 +1588,8 @@
 + [JVM 系列(七)：实战掌握五大JDK工具，线上问题不再慌！](https://mp.weixin.qq.com/s/Ny0M6Qcxgz6IEI9DapQGzg)
 + [死锁产生条件与诊断：jps、jstack、VisualVM](https://mp.weixin.qq.com/s/n2fOf85CO32L2uL2dTvGoA)
 + [Java只配了-Xmx4g，进程为什么吃掉8GB？](https://mp.weixin.qq.com/s/pxbWJjOlre3ej9J_wjiVcA)
++ [-Xms到底要不要等于-Xmx？生产环境别再照抄](https://mp.weixin.qq.com/s/1XZWksiEX_vtm8zGtl0PUw)
++ [JVM参数详解基础篇](https://mp.weixin.qq.com/s/YYDpGLgwbRLB9nzYCdj6zw)
 
 ### 内存
 
@@ -1660,6 +1676,8 @@
 + [服务器内存泄漏排查：5步揪出OOM真凶](https://mp.weixin.qq.com/s/zMsY2SOBI1gT8VGLnMSX7g)
 + [Java 对象一定分配在堆上吗？（一文讲透JVM 逃逸分析与标量替换）](https://mp.weixin.qq.com/s/FSYCH94l7UKKKbBhcNPQFQ)
 + [[Java多线程][底层原理] 第59课：Java内存模型（JMM）图解](https://mp.weixin.qq.com/s/tbR_5XWUy9KXyy-BWLM54Q)
++ [一个对象从 new 到 Eden 的路](https://mp.weixin.qq.com/s/e5A92z2-TbnkGaw08aVm0A)
++ [线上OOM排查实录：从MAT dump分析到JVM参数调优的完整链路](https://mp.weixin.qq.com/s/WntD1W8tVbDRS5njnZ-tEA)
 
 ### 类加载
 
@@ -1700,6 +1718,7 @@
 + [JVM 类加载机制：从加载流程到双亲委派](https://mp.weixin.qq.com/s/uDST4mP9jUOyyj69vSZiVg)
 + [JVM 和类加载机制：为什么 .class 能真正跑起来](https://mp.weixin.qq.com/s/M65ORmGcdzPZgZuB-FnDGA)
 + [[Java多线程][底层原理] 第64课：类加载与线程安全](https://mp.weixin.qq.com/s/cknXrwfG7T4B1uRNA6uOrg)
++ [Java类加载器ClassLoader全解析：双亲委派、打破委派与热部署](https://mp.weixin.qq.com/s/-7SeSDxWK4pPsQy6z0Rtmg)
 
 ### GC
 
@@ -1799,6 +1818,7 @@
 + [G1 Mixed GC：它怎么知道先清哪个 Region](https://mp.weixin.qq.com/s/lJ7s0XJwy7zupydWheawbQ)
 + [MaxGCPauseMillis 不是承诺：G1 停顿目标背后的预算博弈](https://mp.weixin.qq.com/s/wFtlDFlxqDCdT-1wtP0MHw)
 + [G1深入理解系列-Mixed GC 不是把 Old 清空](https://mp.weixin.qq.com/s/goO3g1oQBKKiYGor_eWNlA)
++ [G1深入理解系列-Young GC 不只是清 Eden](https://mp.weixin.qq.com/s/lbrgpDq_TGSf8kw5iJUp2Q)
 
 #### ZGC
 
@@ -1881,6 +1901,8 @@
 + [线程隔离了，信息还会串？（一文讲透Java ThreadLocal 的数据隔离、生命周期与线程复用风险）](https://mp.weixin.qq.com/s/V-d1nFtOMgdSMIZULADTiA)
 + [ThreadLocal 父子线程值传递](https://mp.weixin.qq.com/s/wT2xL_0QlsGHPbVNp6Vd-Q)
 + [面试高频题：ThreadLocal 是 private static final，全局唯一，每个线程持有独立的副本。这句话到底什么意思？](https://mp.weixin.qq.com/s/Jn4tL2zhwq0-lH25FK9Y2g)
++ [【Java并发编程讲透·Day06】ThreadLocal 一文讲透：底层原理、内存泄漏、线程池坑点与最佳实践](https://mp.weixin.qq.com/s/NlynO6SZcrfp-E8SG9_Iuw)
++ [Spring Boot 中 ThreadLocal 请求上下文的完整生命周期](https://mp.weixin.qq.com/s/P0CRFSsv7UlLcGVw7ZEbNA)
 
 ## math库
 
@@ -2098,6 +2120,7 @@
 + [Java 面试：HashMap 底层原理怎么答才不乱？](https://mp.weixin.qq.com/s/E4OmKhps1xXB3yTEvS8pPA)
 + [Java 开发 > 用了十年 HashMap，还不知道 LinkedHashMap 和 TreeMap 啥时候用？](https://mp.weixin.qq.com/s/-g2wxt_VEB6n-rwhX7vTew)
 + [HashMap 一篇讲透：从数组、链表、红黑树到扩容以及退化，面试再也不怕被追问](https://mp.weixin.qq.com/s/Z2nBEO9SMpnGvP7omVMn3A)
++ [HashMap并发死循环：一次CPU 100%事故的完整复盘](https://mp.weixin.qq.com/s/0UCifoFlc9Z8ULxpSHtTpg)
 
 ### Optional
 
@@ -2306,6 +2329,7 @@
 + [ReentrantLock源码大揭秘：你真的会使用ReentrantLock吗?](https://mp.weixin.qq.com/s/FZkZsOS6G3z-gd7cw_BZ6A)
 + [面试必问：Java 锁升级的完整过程，从偏向锁到重量级锁一次讲透](https://mp.weixin.qq.com/s/Y7n_pmkEp1yUYrLiOY7xUQ)
 + [[Java多线程][锁进阶] 第21课：StampedLock——乐观读](https://mp.weixin.qq.com/s/RTSz4v4Xc-MpfcHyV14PTA)
++ [并发 06 · Lock 家族](https://mp.weixin.qq.com/s/Uja06r4vZ0vfI2kLu3zdLA)
 
 ### ConcurrentHashMap
 
@@ -2335,6 +2359,8 @@
 + [Java 面试：ConcurrentHashMap 为什么线程安全？](https://mp.weixin.qq.com/s/GGF_O7zrPfCKInTEPIS70g)
 + [Java并发编程进阶：ConcurrentHashMap底层原理深度拆解](https://mp.weixin.qq.com/s/9zfsD6FAHFgHM9ZCSifWZg)
 + [[Java多线程][并发集合] 第36课：ConcurrentHashMap——分段锁原理](https://mp.weixin.qq.com/s/dJwhUi8HYZepa0Hy9CmswA)
++ [ConcurrentHashMap 线程安全实现原理 （JDK 7 vs JDK 8）](https://mp.weixin.qq.com/s/d2lCyI8LXZuBUolhLxbs8Q)
++ [ConcurrentHashMap size () 实现原理  ConcurrentHashMap 的 size() 方法：Java 7 vs Java 8 实现剖析](https://mp.weixin.qq.com/s/i-te_G5DzEjoA1X87GK_IA)
 
 ### 其它
 
@@ -2728,6 +2754,7 @@
 + [Guava的Splitter：字符串分割竟然可以这么强大！](https://mp.weixin.qq.com/s/CG1XMys7xQI0Y43F_OSw8Q)
 + [别再重复造轮子了！Google Guava 这套 Java 工具库让你效率翻倍](https://mp.weixin.qq.com/s/mAyj_Rwoov_O7dcfAG4CQA)
 + [告别嵌套Map，Multimap优雅处理一对多数据](https://mp.weixin.qq.com/s/0YUSqD7JRYNu3dP2f9uwig)
++ [Guava 不止有 Lists 和 Maps：Cache、EventBus、Multimap 实战](https://mp.weixin.qq.com/s/AHCEkeyBuXbDvp924P41zg)
 
 ## hystrix
 
@@ -2774,6 +2801,7 @@
 + [从 JSON 字符串到 Java 对象：Fastjson 1.2.83 全程解析｜得物技术](https://my.oschina.net/u/5783135/blog/18695791)
 + [Java 中 JSON 字段不固定怎么搞序列化？用好这两个注解就够了！](https://mp.weixin.qq.com/s/RG8Ayo8cxWPjPAi6K-TJgw)
 + [轻量级 Java JSON 库推荐：jquick-json 序列化/反序列化 + 变量替换 + 字节码优化全解析](https://mp.weixin.qq.com/s/LjqrGOvPZGEfFLJm2tHJdA)
++ [Apache Fory JSON或许可以替代FastJson](https://mp.weixin.qq.com/s/e0vekct5VcXPjSR3xQVrIg)
 
 ### jackson
 
@@ -2853,6 +2881,7 @@
 + [告别繁琐的 DTO 转换：MapStruct 实战与精髓解析](https://mp.weixin.qq.com/s/SitVya1a3kRstBakEKsTgg)
 + [对象相互转换：别再让 BeanUtils 拖慢你的系统，我选MapStruct](https://mp.weixin.qq.com/s/TV3xg7h-Oc6X-VLXIHXsbw)
 + [MapStruct 比 BeanUtils 快 10 倍？DTO 转换的正确姿势](https://mp.weixin.qq.com/s/XBqzc3eAQIJiKMQyVwzUBQ)
++ [干掉BeanUtils！MapStruct完整版教程：原理、注解、自定义转换、性能、避坑](https://mp.weixin.qq.com/s/h2-lo0yJW6JwrvwrXDPJvA)
 
 ## mybatis
 
@@ -2986,6 +3015,9 @@
 + [一篇文章掌握一个技能：MyBatis 从入门到精通与高频面试题精讲](https://mp.weixin.qq.com/s/pr22bHssmqHY0KwLNEdqGw)
 + [面试自测 | Mybatis 全解析（建议收藏！防止sql注入）](https://mp.weixin.qq.com/s/LNvL94cs3ZQKliL8T_BLEg)
 + [13秒插入30万条数据，这才是批量插入正确的姿势！](https://mp.weixin.qq.com/s/r5KL4MF0JO9LXIrMD8UPNQ)
++ [Java开发：别再硬写类型转换！MyBatis自定义TypeHandler优雅适配复杂字段](https://mp.weixin.qq.com/s/7SJIqLJageqFuux0SpPlQg)
++ [MyBatis #{} 与 ${} 区别详解：SQL 注入防护与动态 SQL 拼接底层原理](https://mp.weixin.qq.com/s/bGIU5CCQmC0tUJTKYfJwhA)
++ [MyBatis 缓存从入门到精通（一级缓存）](https://mp.weixin.qq.com/s/0WRfdfjvGqdrD6wK1Fm1Ow)
 
 ### plus
 
@@ -3046,6 +3078,7 @@
 + [过来人真心话：别再手写 XML 了，MyBatis-Plus 才是后端摸鱼神器](https://mp.weixin.qq.com/s/Aiff5eeNQh_hJkhp5MT_aA)
 + [MyBatis-Plus必知必会：告别低效CRUD，高效开发持久层](https://mp.weixin.qq.com/s/j8__DcSTyVmtUZMbwgxuWA)
 + [MyBatis、MyBatis-Plus、通用 Mapper：一张图说清三者的血缘关系](https://mp.weixin.qq.com/s/ccM9i1nizR7OgErB-96OaA)
++ [MybatisPlus 枚举映射实战指南](https://mp.weixin.qq.com/s/tvLZbsnxrxqec8nXEO1TQQ)
 
 ## nacos
 
@@ -3177,6 +3210,7 @@
 ## quartz
 
 + [Quartz 推荐文档](https://mp.weixin.qq.com/s/kBtfLfwFX8pJY02NH-YW9A)
++ [基于Quartz的定时任务管理实现方案](https://mp.weixin.qq.com/s/cK5CbO4Uiwmsw11AyYa6Lw)
 
 ## reactor
 
@@ -3258,6 +3292,7 @@
 + [Sentinel Java 客户端限流原理解析｜得物技术](https://my.oschina.net/u/5783135/blog/19207953)
 + [Sentinel Java客户端限流原理解析｜得物技术](https://mp.weixin.qq.com/s/lqgzjj2l1phpR45nApALdw)
 + [SpringBoot 服务熔断与降级：Sentinel 实战](https://mp.weixin.qq.com/s/nBoRz83FfFl8tIoC6yFxAQ)
++ [Sentinel 限流原理详解：从 Slot Chain 到熔断降级一次讲透](https://mp.weixin.qq.com/s/KGKiY3zFqnvHBxojIcHWgA)
 
 ## shardingsphere
 
@@ -3378,6 +3413,9 @@
 + [IoC 与 DI 核心概念](https://mp.weixin.qq.com/s/g8t3sAV0bJECviPeL1_7Gg)
 + [@Component单例类时间固定不刷新问题说明](https://mp.weixin.qq.com/s/89cydp24BUe-cuIRMrjr2Q)
 + [Spring Bean生命周期，我只答了"创建→初始化→销毁"](https://mp.weixin.qq.com/s/jowArF4Z2fGx-rRl8JmwDw)
++ [[每日一题]Spring Bean 有哪些作用域？](https://mp.weixin.qq.com/s/gj9qIJ5eDtUYs8L4usOuTg)
++ [面试官问 Spring 是如何解决循环依赖的？ 大多数人只答对了一半](https://mp.weixin.qq.com/s/nDAKTsOGEl_H3JBEZHKGWA)
++ [14手写spring——实现 @Autowired 与 @Value](https://mp.weixin.qq.com/s/BCo2oe6NpFSLl3FCHzmJqg)
 
 #### 配置
 
@@ -3386,6 +3424,7 @@
 + [深入理解注解驱动配置与 XML 配置的融合与区别](https://my.oschina.net/u/4526289/blog/9870022)
 + [利用观察者模式实现动态刷新Bean中的配置](https://mp.weixin.qq.com/s/vzsTzWDPA6W149FXs5oEGQ)
 + [application.yml 配置详解与常见错误排查指南](https://mp.weixin.qq.com/s/yQn_f52S0e8FWT0pw_Oyjg)
++ [05手写spring——从手动注册到 XML 配置，容器开始读懂配置文件](https://mp.weixin.qq.com/s/2JVDCZuH0VMV5i5VdaKoiA)
 
 #### 工具
 
@@ -3504,6 +3543,8 @@
 + [手写一个mini版Spring：Bean的初始化增强，BeanPostProcessor 与 InitializingBean](https://mp.weixin.qq.com/s/lpFIa84XqS6yLuBlSAu8Gg)
 + [Bean五大作用域详解，单例原型并发踩坑复盘](https://mp.weixin.qq.com/s/BI6BJHQ9wEpTxSXC18_-Zw)
 + [面试官：BeanFactory 和 FactroyBean 的关系？](https://mp.weixin.qq.com/s/zqHFd0giS7KsYdtEV7fYZQ)
++ [13手写spring——组件扫描与属性占位符](https://mp.weixin.qq.com/s/te9i8YnTGsa8MtwN3O2H_A)
++ [Spring 3级缓存](https://mp.weixin.qq.com/s/FsNNQeMmFNAT1Uda0-lFug)
 
 ### 新版本新特性
 
@@ -3612,6 +3653,7 @@
 + [@Valid+@Validated参数校验，分组校验实战](https://mp.weixin.qq.com/s/uCCLjlSK5qT6Zcw2Ic4K5w)
 + [SpringMVC 九大核心组件](https://mp.weixin.qq.com/s/rAC71qbVh76k_AkmovWC4g)
 + [Spring MVC 藏了一座宝库！这些请求数据你可能从没用过](https://mp.weixin.qq.com/s/Atg_dIjIeW8A9Bta6XdhGg)
++ [Spring MVC 请求处理流程，一个请求从进入到返回的完整旅程](https://mp.weixin.qq.com/s/umhA1mmpDVCse8_ySA7eRA)
 
 #### reactor
 
@@ -3720,6 +3762,7 @@
 + [SpringBoot 批处理任务：Spring Batch 入门](https://mp.weixin.qq.com/s/VuoOxaQY4StNW4hhLUPbIg)
 + [自从用了 Spring Batch，效率飙升 500%！](https://mp.weixin.qq.com/s/SlGbnvKPtfyNvZP2ELSnug)
 + [Spring Batch 入门到实战：从定时循环到可恢复的批处理系统](https://mp.weixin.qq.com/s/BMrfKXqvrggKGtZfc9A41A)
++ [还在用多线程跑批？Spring Batch 分区并行，速度直接起飞](https://mp.weixin.qq.com/s/AbNCpiLKK2lET2pTWCrYTw)
 
 #### TRANSACTION
 
@@ -4203,6 +4246,7 @@
 + [Spring Boot 扩展点](https://mp.weixin.qq.com/s/O6FHOWvF7UDkAhxpq53d5Q)
 + [Spring Boot「约定优于配置」理解](https://mp.weixin.qq.com/s/c179cVXCJheipk8xmQJ5yg)
 + [写 Java 服务，不一定非要 Spring Boot](https://mp.weixin.qq.com/s/vVrepB5Q6o8wDyiXXMykcw)
++ [一文搞定 Spring Boot 条件注解（原理剖析+案例应用+分类讲解），清晰明了！](https://mp.weixin.qq.com/s/Ro4ALSaNuLFrEeHWh8UYwA)
 
 ##### 高阶
 
@@ -5107,6 +5151,7 @@
 + [开源！零代码实现，SSE实时通信](https://mp.weixin.qq.com/s/dE3EF5v3kCJCmh23hvxieg)
 + [Spring Boot 4 防重复提交：一个注解实现接口幂等](https://mp.weixin.qq.com/s/T5xLb0zH3zw_OR1X_q0bRA)
 + [统一返回对象设计：AjaxResult 与 R 的取舍](https://mp.weixin.qq.com/s/XMHBqysTJm_r8strxVYReQ)
++ [前端转后端 最容易漏掉的一层防护——Spring Boot 限流实战](https://mp.weixin.qq.com/s/ehpewV9O1xm7114L7c8ENQ)
 
 ##### 文件上传下载
 
@@ -5286,6 +5331,7 @@
 + [告别字符串拼接 SQL：Spring Boot + jOOQ 类型安全数据库操作实战](https://mp.weixin.qq.com/s/dKvXk2JA3ad0IVoF56KW7g)
 + [Spring Boot 全新 @RedisListener 注解，优雅监听消息](https://mp.weixin.qq.com/s/UlxUmETJDQZSDL7dYB5Hdg)
 + [性能提升！Spring Boot 又一性能优化点：延迟获取数据库连接](https://mp.weixin.qq.com/s/hkuFdGBvRMhsbkmOeuUB2g)
++ [从零到千万级：Spring Boot + SSE 企业级实时推送完整指南](https://mp.weixin.qq.com/s/B1r-8018dJ-ifyngVdPbmw)
 
 ##### TRANSACTION
 
@@ -5451,6 +5497,7 @@
 + [《Spring Boot里用事件解耦：@EventListener 与 @TransactionalEventListener 怎么选》](https://mp.weixin.qq.com/s/npdrCJjIde_wJdEZNp1bdA)
 + [Spring Boot 事件机制](https://mp.weixin.qq.com/s/NPe7Xb6gTeOUFLq1isl33A)
 + [Java开发：不止@EventListener！Spring Boot事件机制深度解析，吃透业务解耦核心技巧](https://mp.weixin.qq.com/s/S1w14OJtK6ZC9jZcR2JWmQ)
++ [SpringBoot 事件发布机制：原理篇](https://mp.weixin.qq.com/s/ZfQqyYHhvfJR7C8byZ7tGQ)
 
 #### CACHE
 
@@ -5758,6 +5805,7 @@
 + [面试官：SpringBoot 在打包部署的时候打包成 jar 和 war 有什么不同?](https://mp.weixin.qq.com/s/jXuj0IQeixkns2sZS-bx7A)
 + [面试官：SpringBoot在打包部署的时候打包成jar和war有什么不同?](https://mp.weixin.qq.com/s/NGAWi8PRglP0cyaFYUAObg)
 + [面试官：SpringBoot 在打包部署的时候打包成 jar 和 war 有什么不同?](https://mp.weixin.qq.com/s/xn3-yKTNB16HY3LJA4BwDw)
++ [Spring Boot 打包方式全攻略：不是只有 jar 和 war，7 种姿势你选哪个？](https://mp.weixin.qq.com/s/Ek7EEVTOKkHJ4TpxcP_V3w)
 
 #### 集成三方
 
@@ -5987,6 +6035,8 @@
 + [SpringBoot + FFmpeg + ZLMediaKit 实现本地视频推流](https://mp.weixin.qq.com/s/0pukfXLKpTHl_Ywa9wV-8Q)
 + [SpringBoot + FFmpeg + ZLMediaKit 实现本地视频推流](https://mp.weixin.qq.com/s/Hy6sui2xyZRBqhJ4TlJZDA)
 + [PDFBox！一个强大的开源 PDF 处理库](https://mp.weixin.qq.com/s/BYBrBsX4JljvFGHBToP-5w)
++ [Spring Boot 集成 ShardingSphere-Encrypt 实现字段级实时脱敏](https://mp.weixin.qq.com/s/CjUUAcnFJ9jYF-M0TnV4bQ)
++ [Spring Boot 集成 Caffeine 构建本地缓存架构：多级缓存策略、一致性保障与性能压测](https://mp.weixin.qq.com/s/gJsG3ISjUeDjE5CRRgetpg)
 
 ##### excel
 
@@ -5998,6 +6048,7 @@
 + [轻量高效实现Excel至Java对象映射，支持各种复杂Excel](https://mp.weixin.qq.com/s/matnD85NQvREbTA2cqUT8g)
 + [Spring Boot + Luckysheet 实现Excel多人在线实时办公](https://mp.weixin.qq.com/s/xze_GaicpZDv-D5sdClm0A)
 + [告别 OOM！开源流式读取超大 Excel，内存占用低到离谱](https://mp.weixin.qq.com/s/_aaQKWtXut8X6UJ0fvRqwA)
++ [Spring Boot 企业级开发，EasyExcel 导入的完整落地，校验精确到第几行什么字段，错了不让入库](https://mp.weixin.qq.com/s/Qb9h7isYbKyp7TNuvZaMIQ)
 
 #### test
 
@@ -6315,6 +6366,7 @@
 + [NATS：比消息队列更简单，比 RPC 更灵活的分布式消息系统](https://mp.weixin.qq.com/s/9x9Ued4z2N-t8VkUNuBmfQ)
 + [Java 拦截器一定要靠动态代理吗？Feat 给出了另一种答案](https://mp.weixin.qq.com/s/gbNkHLw3DfYRVeYx3tzXtQ)
 + [PF4J：轻量级Java 插件化架构实现方案](https://mp.weixin.qq.com/s/7Tl-_DkpU6ExYzHjvTrtqQ)
++ [还在手写递归？这款Java树工具类一次搞定：构树、查父链、找兄弟，真香！](https://mp.weixin.qq.com/s/iTDSv9RR3WspEXIhO7QtdQ)
 
 # 其它环境
 
@@ -6633,3 +6685,6 @@
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/AI6eCXKUo0VjNIoJrBBYEw)
 + [使用 Shadcn UI 构建 Java 桌面应用](https://mp.weixin.qq.com/s/u-V3UcIUnTvQDRDgSDpbrA)
 + [Java HTTP 请求极简方案：代码直接少一半](https://mp.weixin.qq.com/s/Up1KC9kBktzga7wSuAQF3A)
++ [轻量安全分布式 ID 神器 Nano ID，全面替代 UUID 的工业级开源方案](https://mp.weixin.qq.com/s/IYSYaAJdVwbqTVQXkx4JJQ)
++ [Java面试合集·第7弹：90%的人栽在慢SQL，只会说"加个索引"却读不懂EXPLAIN](https://mp.weixin.qq.com/s/VBAa8JmncpWvs3YUIBGIMw)
++ [Java面试合集·第3弹：90%的人栽在中间件，Kafka与Netty只停留在用过](https://mp.weixin.qq.com/s/o3sK-ZYQrnXuL031xXpIEg)

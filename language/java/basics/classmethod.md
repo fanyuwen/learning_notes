@@ -60,6 +60,7 @@
 > 定义一个类去同时实现这两个接口,会报错
 > <p style="color:red">(clashes with foo,attempting to use incompatible return type)</p> 两个实现方法冲突  
 > 目前想到的解决办法是实现方法返回的类型是它们的共同子类型
+> 相同的问题也存在于类继承种,父类定义的方法的返回值和子类定义的同名方法的返回值不兼容,也会报错
 
 ```java
 interface A {

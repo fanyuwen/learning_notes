@@ -112,7 +112,7 @@ interface F<T> {
 interface G<T> {
     T fun();
 }
-//下面的代码会编译报错
+//下面的代码会编译报错(换成类也是一样的)
 interface H extends F<String>, G<Integer> {
     @Override
     default String fun() {

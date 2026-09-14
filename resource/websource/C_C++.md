@@ -19,6 +19,7 @@
 + [函数反汇编及基础破解实验](https://mp.weixin.qq.com/s/IYNhHSk5jjj2eASUKuyOUw)
 + [搜索 C++ 引擎回归能力建设：从自测到工程化准出｜得物技术](https://my.oschina.net/u/5783135/blog/19209730)
 + [吃透池化技术：内存池与对象池，高性能服务的底层基石](https://mp.weixin.qq.com/s/TPCLqra1TPmiAwAYBlnO4Q)
++ [为什么 mmap 节省拷贝，却不一定更快？](https://mp.weixin.qq.com/s/xl50xnKp2NjSKdqa2LAYmQ)
 
 ## 工具
 

@@ -213,6 +213,7 @@
 + 开发资源网站 [tweedegolf](https://tweedegolf.nl/en)
 + 游戏引擎 [bevy](https://bevy.org/) [fyrox](https://fyrox.rs/)
 + 数据处理 [polars](https://pola.rs/)
++ 消息处理 [iggy](https://iggy.apache.org/)
 + [rust基金会](https://rustfoundation.org/)
 
 ### AI

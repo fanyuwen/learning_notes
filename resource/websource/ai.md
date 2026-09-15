@@ -114,6 +114,7 @@
 + [AgentScope Java 2.0 正式发布：内置生产级 Harness，助力智能体迈向分布式企业场景](https://my.oschina.net/u/3874284/blog/19723341)
 + [MCP 协议将发布史上最大更新：不再有会话，不再有握手](https://www.oschina.net/news/475822)
 + [既然AI这么强，为什么还需要程序员交付代码？](https://mp.weixin.qq.com/s/8b5itX5dfkGMYNvN-7cwVg)
++ [Simon Willison 重新拥抱 MCP：无状态协议如何改变游戏规则](https://www.oschina.net/news/488038/stateless-mcp)
 
 ### agent
 
@@ -129,6 +130,7 @@
 + [Agent 面试拷打（三）：MCP、Function、Skill，面试官最爱让你区分的三件套](https://mp.weixin.qq.com/s/rLOdUYNyajccR5kACbZ8Kg)
 + [阿里HR面被问：“说下怎么设计一个招聘Agent”？”我愣了一下，从概念、核心模块和坑都娓娓道来，这波应该稳了](https://mp.weixin.qq.com/s/V3mHmXefr9haFySGa3__8g)
 + [美团二面：Agent、Tools、Workflow 这三个的概念和区别介绍一下？我：没接触过...](https://mp.weixin.qq.com/s/EdF_pyb_Ci7BFGXQbRsRoA)
++ [Coding Agent 不需要 VM：如何把 Agent、文件系统和代码执行拆出虚拟机](https://my.oschina.net/u/9489775/blog/19733363)
 
 ### Claude Code
 

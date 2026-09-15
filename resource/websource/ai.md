@@ -131,6 +131,8 @@
 + [阿里HR面被问：“说下怎么设计一个招聘Agent”？”我愣了一下，从概念、核心模块和坑都娓娓道来，这波应该稳了](https://mp.weixin.qq.com/s/V3mHmXefr9haFySGa3__8g)
 + [美团二面：Agent、Tools、Workflow 这三个的概念和区别介绍一下？我：没接触过...](https://mp.weixin.qq.com/s/EdF_pyb_Ci7BFGXQbRsRoA)
 + [Coding Agent 不需要 VM：如何把 Agent、文件系统和代码执行拆出虚拟机](https://my.oschina.net/u/9489775/blog/19733363)
++ [AI Agent 时代，需要的不是更多数据，而是一个语义层](https://my.oschina.net/u/3874284/blog/19756123)
++ [从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考](https://my.oschina.net/u/3874284/blog/19756187)
 
 ### Claude Code
 

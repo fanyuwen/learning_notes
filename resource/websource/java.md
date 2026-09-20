@@ -2121,6 +2121,7 @@
 + [Java 开发 > 用了十年 HashMap，还不知道 LinkedHashMap 和 TreeMap 啥时候用？](https://mp.weixin.qq.com/s/-g2wxt_VEB6n-rwhX7vTew)
 + [HashMap 一篇讲透：从数组、链表、红黑树到扩容以及退化，面试再也不怕被追问](https://mp.weixin.qq.com/s/Z2nBEO9SMpnGvP7omVMn3A)
 + [HashMap并发死循环：一次CPU 100%事故的完整复盘](https://mp.weixin.qq.com/s/0UCifoFlc9Z8ULxpSHtTpg)
++ [为什么阿里不推荐使用 keySet() 遍历 HashMap？](https://mp.weixin.qq.com/s/fWfdWPFgY5x5793JayK6Yw)
 
 ### Optional
 
@@ -5332,6 +5333,8 @@
 + [Spring Boot 全新 @RedisListener 注解，优雅监听消息](https://mp.weixin.qq.com/s/UlxUmETJDQZSDL7dYB5Hdg)
 + [性能提升！Spring Boot 又一性能优化点：延迟获取数据库连接](https://mp.weixin.qq.com/s/hkuFdGBvRMhsbkmOeuUB2g)
 + [从零到千万级：Spring Boot + SSE 企业级实时推送完整指南](https://mp.weixin.qq.com/s/B1r-8018dJ-ifyngVdPbmw)
++ [零侵入！Spring Boot 代理数据源详细记录SQL执行过程](https://mp.weixin.qq.com/s/rg1Jqm41ADTozMFyVgD2Pg)
++ [Spring Boot + Keyset 搞定海量数据分页查询](https://mp.weixin.qq.com/s/QPxhv8nl6lzXKJUovQPEyQ)
 
 ##### TRANSACTION
 
@@ -5684,6 +5687,7 @@
 + [SpringBoot+策略模式，大大加强系统接口扩展能力](https://mp.weixin.qq.com/s/3tImA0DmJlrmyH-49tTX0Q)
 + [别再满屏写 new 了！这四个设计模式，才是初级与高级开发的硬分水岭](https://mp.weixin.qq.com/s/U4_yu6SLXmfAwH6dli5YsQ)
 + [真实案例！吃透这 8 种设计模式，Spring Boot 开发更得心应手](https://mp.weixin.qq.com/s/y_ON4tI60Bd-0NkVWa9foQ)
++ [SpringBoot 项目基于责任链模式实现复杂接口的解耦和动态编排](https://mp.weixin.qq.com/s/gN1xOp37wXkDk3MN2nfOPQ)
 
 #### message
 
@@ -6037,6 +6041,9 @@
 + [PDFBox！一个强大的开源 PDF 处理库](https://mp.weixin.qq.com/s/BYBrBsX4JljvFGHBToP-5w)
 + [Spring Boot 集成 ShardingSphere-Encrypt 实现字段级实时脱敏](https://mp.weixin.qq.com/s/CjUUAcnFJ9jYF-M0TnV4bQ)
 + [Spring Boot 集成 Caffeine 构建本地缓存架构：多级缓存策略、一致性保障与性能压测](https://mp.weixin.qq.com/s/gJsG3ISjUeDjE5CRRgetpg)
++ [告别自增 ID！Spring Boot 全面拥抱 UUIDv7](https://mp.weixin.qq.com/s/tFJSckj0mIWP4a1Eh6MvvA)
++ [比Jackson性能高11倍！高性能，零依赖 JSON 脱敏库](https://mp.weixin.qq.com/s/7u-8muaaMmB-sAvvpMMvrA)
++ [抛弃 Jackson？Spring Boot + Fory 性能提升 3倍+](https://mp.weixin.qq.com/s/JLZTLgmZi5CK0AOnp14y5A)
 
 ##### excel
 
@@ -6049,6 +6056,7 @@
 + [Spring Boot + Luckysheet 实现Excel多人在线实时办公](https://mp.weixin.qq.com/s/xze_GaicpZDv-D5sdClm0A)
 + [告别 OOM！开源流式读取超大 Excel，内存占用低到离谱](https://mp.weixin.qq.com/s/_aaQKWtXut8X6UJ0fvRqwA)
 + [Spring Boot 企业级开发，EasyExcel 导入的完整落地，校验精确到第几行什么字段，错了不让入库](https://mp.weixin.qq.com/s/Qb9h7isYbKyp7TNuvZaMIQ)
++ [Fesod：下一代高性能 Java Excel 读写库](https://mp.weixin.qq.com/s/dFuPGCTXUdM0449XHCpUHQ)
 
 #### test
 
@@ -6059,6 +6067,7 @@
 + [深入Spring整合Mockito：上下文污染以及解决方案](https://mp.weixin.qq.com/s/lKavMYIqB51gyXhc51DVxQ)
 + [SpringBoot2和3单元测试指南：针对Dao层、Service层和Controller层的单元测试](https://mp.weixin.qq.com/s/oAX0737QD-eiS63JBGIZnQ)
 + [大佬都在用！模拟实现SpringBoot接口服务](https://mp.weixin.qq.com/s/MpzYd9fiesXRqBSPZOwIag)
++ [还在手写测试数据？Java开源库，一行代码全生成](https://mp.weixin.qq.com/s/9N97GtjC7ifRrOyMGWFi3w)
 
 #### 自定义实现
 
@@ -6086,6 +6095,7 @@
 + [如何搭建漂亮的 SpringBoot 脚手架？](https://mp.weixin.qq.com/s/WXRhDXVPBpiOCeTYsizGlw)
 + [基于SpringBoot自动配置原理：写个自定义Starter](https://mp.weixin.qq.com/s/HGjmzQucE9iqkSb17GMIJQ)
 + [Spring Boot 插件化最佳实践](https://mp.weixin.qq.com/s/YskwfHlKdGd8DMKcunPItg)
++ [7个Service，40行重复代码？别硬抄了，DRY原则这样用才不累](https://mp.weixin.qq.com/s/8BkiQnCPgkPmpmUh3UqgpA)
 
 #### 原理&源码
 

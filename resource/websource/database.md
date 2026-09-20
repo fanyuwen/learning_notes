@@ -185,6 +185,7 @@
 + [干掉线上90%数据库卡顿！大事务+大表终极优化指南](https://mp.weixin.qq.com/s/ZQlYzWVOM0xeC0CSbeNpQw)
 + [一次建连500ms？池化技术让你快100倍](https://mp.weixin.qq.com/s/DQL-WMfXr55Fg8FwovyWfg)
 + [Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透](https://mp.weixin.qq.com/s/lQnT8cSxt4fz0D7aNXJoUg)
++ [阿里终面：10亿数据如何快速插入MySQL？](https://mp.weixin.qq.com/s/6qNmZSW4Cl4N_TsUyyiHUg)
 
 ### 读写分离&分库分表
 
@@ -243,6 +244,7 @@
 + [死锁是否可以彻底避免?](https://mp.weixin.qq.com/s/hXEKuKgcHGZVMurOZe7Znw)
 + [面试官：你知道哪些分页方式？说出四种~](https://mp.weixin.qq.com/s/Mme6KlMaPhDbz9wIddeNaA)
 + [面试高频 | MiniDB 项目中实现了 MVCC 和死锁检测，解释一下什么是 MVCC？它是如何解决读写冲突的？](https://mp.weixin.qq.com/s/MfHD8M3dxkXDn4J9Jm28hQ)
++ [同事使用 insert into select 迁移数据，开开心心上线，上线后被公司开除！](https://mp.weixin.qq.com/s/NJNO0U9tSR09PCVibPTmsw)
 
 ## 关系型数据库
 

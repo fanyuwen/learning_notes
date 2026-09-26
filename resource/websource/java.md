@@ -2731,6 +2731,10 @@
 + [阿里面试真题：Dubbo服务降级、失败重试如何设计？](https://mp.weixin.qq.com/s/18zIO0ntTRSa3lEarJiH_g)
 + [为什么Dubbo能自动发现死服务？90%的程序员只知其一不知其二](https://mp.weixin.qq.com/s/olpUCLbM6OauvFiVMe2xEw)
 
+## eclipse collections
+
++ [Eclipse Collections 深度解析](https://mp.weixin.qq.com/s/H0BoG2ErYFJ720bbdvowvw)
+
 ## eureka
 
 + [Eureka 详解](https://mp.weixin.qq.com/s/PCVW3U_k9zYxoSWpBFh_0g)
@@ -3176,6 +3180,7 @@
 + [Netty内存管理深度解析：从ByteBuf到内存池的设计本质](https://mp.weixin.qq.com/s/Doeih6LthBzBw7GaxQc6_A)
 + [面试官：为什么 Netty 适合做网络编程？](https://mp.weixin.qq.com/s/z-oYtb9pn6xrto2NpbFuRg)
 + [面试官：Netty 如何解决 TCP 粘包、拆包的问题？](https://mp.weixin.qq.com/s/jkbaQoKp-jZawdhAvGhDXg)
++ [吊打 ThreadLocal，谈谈FastThreadLocal为啥能这么快？](https://mp.weixin.qq.com/s/kmnwUWuyCD-dyoecNlDeeA)
 
 ## okhttp
 
@@ -3764,6 +3769,7 @@
 + [自从用了 Spring Batch，效率飙升 500%！](https://mp.weixin.qq.com/s/SlGbnvKPtfyNvZP2ELSnug)
 + [Spring Batch 入门到实战：从定时循环到可恢复的批处理系统](https://mp.weixin.qq.com/s/BMrfKXqvrggKGtZfc9A41A)
 + [还在用多线程跑批？Spring Batch 分区并行，速度直接起飞](https://mp.weixin.qq.com/s/AbNCpiLKK2lET2pTWCrYTw)
++ [别再手写 Excel 导入了！Spring Batch 一套流程搞定](https://mp.weixin.qq.com/s/UqMRZnKTO32toeEn_KDnZw)
 
 #### TRANSACTION
 
@@ -5153,6 +5159,9 @@
 + [Spring Boot 4 防重复提交：一个注解实现接口幂等](https://mp.weixin.qq.com/s/T5xLb0zH3zw_OR1X_q0bRA)
 + [统一返回对象设计：AjaxResult 与 R 的取舍](https://mp.weixin.qq.com/s/XMHBqysTJm_r8strxVYReQ)
 + [前端转后端 最容易漏掉的一层防护——Spring Boot 限流实战](https://mp.weixin.qq.com/s/ehpewV9O1xm7114L7c8ENQ)
++ [一个 @ConvertJson 注解！Spring Boot 从URL自动转换JSON](https://mp.weixin.qq.com/s/pAhgRuFhkTKjgviwQV7FjQ)
++ [API接口变慢了？8个关键点揪出性能瓶颈](https://mp.weixin.qq.com/s/_4MvjTISl4KIyx4rS5lMZA)
++ [高级开发！Spring Boot 注解@DynamicValid动态数据校验](https://mp.weixin.qq.com/s/yOlglFZ3O-swMNr3zG87ug)
 
 ##### 文件上传下载
 
@@ -5554,6 +5563,7 @@
 + [Spring通知：前置/后置/环绕/异常一网打尽](https://mp.weixin.qq.com/s/AYLYOQvRrZ0isBAJFFrUtA)
 + [没有AOP！Spring Boot 3 零侵入路由读写分离新方案](https://mp.weixin.qq.com/s/Le-XTplUzQM0zLJuVzjwcg)
 + [性能优化！Spring AOP + SpEL实现缓存动态管理（支持TTL/动态刷新）](https://mp.weixin.qq.com/s/DvCJXgEzpcd3YoxmW4wg9A)
++ [没有AOP！Spring Boot 多租户最简单实现方式](https://mp.weixin.qq.com/s/4DBgE77gldDpWKqMga8Bjw)
 
 #### SPI
 
@@ -6698,3 +6708,4 @@
 + [轻量安全分布式 ID 神器 Nano ID，全面替代 UUID 的工业级开源方案](https://mp.weixin.qq.com/s/IYSYaAJdVwbqTVQXkx4JJQ)
 + [Java面试合集·第7弹：90%的人栽在慢SQL，只会说"加个索引"却读不懂EXPLAIN](https://mp.weixin.qq.com/s/VBAa8JmncpWvs3YUIBGIMw)
 + [Java面试合集·第3弹：90%的人栽在中间件，Kafka与Netty只停留在用过](https://mp.weixin.qq.com/s/o3sK-ZYQrnXuL031xXpIEg)
++ [Java AI框架选型指南](https://mp.weixin.qq.com/s/-00LHNERmYFrV1sXrsrKsw)

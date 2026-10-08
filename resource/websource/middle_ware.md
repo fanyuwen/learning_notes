@@ -44,6 +44,7 @@
 # juicefs
 
 + [分布式文件系统，开源！](https://mp.weixin.qq.com/s/6lkPwNm92wHdtJYDPwAWoQ)
++ [JuiceFS 企业版 5.4：从千亿文件到百万客户端](https://www.oschina.net/news/502786/juicefs-enterprise-edition-v5-4)
 
 # FS(文件系统)
 

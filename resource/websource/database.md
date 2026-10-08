@@ -804,6 +804,7 @@
 + [Mysql索引B+树讲解](https://mp.weixin.qq.com/s/XC6waBGh1PMN8eEW5jUc2w)
 + [联合索引、覆盖索引与索引下推：高效利用索引的进阶策略](https://mp.weixin.qq.com/s/fibhwdgqHudGltBI72ICUQ)
 + [彻底搞懂MySQL索引：B+树、回表、覆盖索引、联合索引](https://mp.weixin.qq.com/s/T8-2kfXqLWGNmZ0zfgYBrA)
++ [MySQL 索引优化实战：explain 怎么看，索引为什么突然失效](https://mp.weixin.qq.com/s/7GBuml1OOOOr3BB38A_XMg)
 
 ### PostgreSQL
 
@@ -1192,6 +1193,7 @@
 + [面试官：ZSet 的底层实现是什么？（修订版）](https://mp.weixin.qq.com/s/blyK0b2VKXYZfxA07pkhAw)
 + [Redis 深度解析：从底层原理到实战调优](https://mp.weixin.qq.com/s/di41RRvln94eN2G5tOqcpQ)
 + [redis底层数据结构](https://mp.weixin.qq.com/s/LhFTJU9ch_mHOyw9g4plsw)
++ [Redis 面试系列（二）：持久化原理全解析，RDB、AOF、混合持久化一次讲透](https://mp.weixin.qq.com/s/NLRTZid0_ibDbna3uQT20Q)
 
 #### 分布式锁
 

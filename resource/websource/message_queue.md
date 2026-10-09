@@ -56,6 +56,7 @@
 + [从 RocketMQ 换到 Kafka 之前，你必须搞定的 6 个技术痛点](https://mp.weixin.qq.com/s/IXRork84dHd7NcQeo4kqrg)
 + [面试官问我死信队列是什么，我用"退货仓"讲明白了](https://mp.weixin.qq.com/s/3a6XWPrjX2GCyyuQj_RL0A)
 + [消息队列三大坑：消息丢失、重复消费、消息积压，一篇文章全搞定](https://mp.weixin.qq.com/s/_hFtPS7AQb2laMuwsd1MBQ)
++ [Java面试合集·第19弹：消息丢了、顺序乱了怎么办？Kafka vs RabbitMQ 一次讲清](https://mp.weixin.qq.com/s/Cfmf8xevRjhRufL4Uy9kJg)
 
 # KAFKA
 
@@ -223,6 +224,7 @@
 + [Apache RocketMQ 5.5.0 开源 LiteTopic：百万级 AI 会话专属通道](https://my.oschina.net/u/6179068/blog/19684510)
 + [RocketMQ 消息不丢失不重复：从生产到消费的全链路剖析](https://mp.weixin.qq.com/s/OAdyIQjjWS1PIZVtzXiESw)
 + [RocketMQ启动脚本里藏了套JVM调优模板？抄完老年代直接降了30%](https://mp.weixin.qq.com/s/YyHRDWGlHMvjUg6D6bfdlg)
++ [RocketMQ 生产实践：从消息生命周期到可靠性闭环](https://mp.weixin.qq.com/s/AnBtjh8FaD6Zcxr6i_ub_Q)
 
 # RABBITMQ
 

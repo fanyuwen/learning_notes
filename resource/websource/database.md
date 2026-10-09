@@ -186,6 +186,7 @@
 + [一次建连500ms？池化技术让你快100倍](https://mp.weixin.qq.com/s/DQL-WMfXr55Fg8FwovyWfg)
 + [Redis 和 MySQL 如何保证数据一致性？先更新数据库还是先删缓存，延迟双删、MQ、Canal 一次讲透](https://mp.weixin.qq.com/s/lQnT8cSxt4fz0D7aNXJoUg)
 + [阿里终面：10亿数据如何快速插入MySQL？](https://mp.weixin.qq.com/s/6qNmZSW4Cl4N_TsUyyiHUg)
++ [第56篇：千万级数据分页查询优化——延迟关联 + 游标 + 滚动查询](https://mp.weixin.qq.com/s/qdg9gejjjQYdtjVT7y9IUQ)
 
 ### 读写分离&分库分表
 
@@ -545,6 +546,8 @@
 + [面试官常问的 MySQL 底层原理，用一条 UPDATE 串起来](https://mp.weixin.qq.com/s/0VZ_oRHpBrDgZTTD-dm9ag)
 + [MySQL EXPLAIN 执行计划全字段详解](https://mp.weixin.qq.com/s/NlTXzXmxZk01S_qRFggoJw)
 + [MySQL 慢查询优化实战：从 EXPLAIN 到索引设计](https://mp.weixin.qq.com/s/7avupGuOpDIZR3qId8b1XQ)
++ [【JAVA高级面试题】MySQL CPU / IO 飙升：定位 + 排查 + 解决方案](https://mp.weixin.qq.com/s/uNFvo5mjTSjsFnHSzlMbkQ)
++ [数据库实战：解决千万级数据卡顿！MySQL大表LIMIT深分页终极优化实战](https://mp.weixin.qq.com/s/LaQyK5i_YDDgmYx7xIuMUQ)
 
 #### 存储引擎
 
@@ -1125,6 +1128,8 @@
 + [阿里P8灵魂拷问：100万QPS秒杀限流，Redis为什么是自杀式方案？](https://mp.weixin.qq.com/s/v55ZgWi7eEj6-cAoc0xUVw)
 + [别再把 Redis 当缓存了！10 个高级玩法，很多人只会用前2个](https://mp.weixin.qq.com/s/ZdGtKd7qYoS5jRK4wuE02g)
 + [Redis 面试八股文（三）：高可用（主从复制、哨兵、Cluster）](https://mp.weixin.qq.com/s/6SnxJAFWt9ejoghR7Xn9dw)
++ [Redis性能优化12招，单线程也能飞](https://mp.weixin.qq.com/s/9S1HFowyv_SxyBjbH_udCg)
++ [Redis事务与Lua脚本，原子操作一次讲透](https://mp.weixin.qq.com/s/JKcbPss9WHtay0boUkIcog)
 
 #### 原理
 
@@ -1230,6 +1235,7 @@
 + [一文讲透 Redis 分布式锁：从 setnx 到 RedLock（含踩坑）](https://mp.weixin.qq.com/s/kxmxm3OdDviL8q2uRfaQ7g)
 + [美团面试官：用Redis实现分布式锁？你写的SetNX在线上就是个定时炸弹](https://mp.weixin.qq.com/s/DMYcJt5WcCPW8Fe3FhVPFA)
 + [一起拆解分布式锁：从单机并发到 Redis 分布式锁，库存超卖、限流难题一次性根治](https://mp.weixin.qq.com/s/0VkfZsFekz2coJcrjY3EhQ)
++ [Redis 分布式锁：SETNX 的坑，和 Redisson 看门狗到底在干嘛](https://mp.weixin.qq.com/s/7Zf9WcjIIl8yflQLiAU3CQ)
 
 #### 缓存
 

@@ -28,6 +28,7 @@
 + [计算机栈的工作原理](https://mp.weixin.qq.com/s/y0SL1ZerFmLao_EcUrjhaw)
 + [懵了！面试官问我：什么是 IO 密集，什么是 CPU 密集？](https://mp.weixin.qq.com/s/hFBFCi1-YDBWBjJfCUHWjA)
 + [懵了！面试官问我：什么是 IO 密集，什么是 CPU 密集？](https://mp.weixin.qq.com/s/hFBFCi1-YDBWBjJfCUHWjA)
++ [操作系统结构：内核、用户态与内核态，一文搞懂](https://mp.weixin.qq.com/s/U0gN4YadMROl5ZqOjj-nVQ)
 
 ## 文件系统
 
@@ -214,6 +215,7 @@
 + [一文吃透Linux I/O缓冲机制：原理、类型与应用](https://mp.weixin.qq.com/s/ENrhmnQSNq8g8qC8UBwvPg)
 + [Linux下文本及字符串处理与格式化输出](https://mp.weixin.qq.com/s/vuAiW5yGt_2TEZqFcWgF6A)
 + [Linux中断栈的实现机制：从内核源码角度拆解](https://mp.weixin.qq.com/s/fGlRWDPnpiutAE6-YMmcWw)
++ [文件：硬链接和软链接到底有什么区别？](https://mp.weixin.qq.com/s/3eSkgW0CMgetDz_hP7QmJg)
 
 ### 网络
 

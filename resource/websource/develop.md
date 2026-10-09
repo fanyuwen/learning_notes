@@ -340,6 +340,7 @@
 + [SparkID：新一代唯一ID生成器, 小巧、可排序、还超快，解决UUID/nanoid所有痛点](https://mp.weixin.qq.com/s/Y0faH7h0W8mtrYhSA7lfSw)
 + [面试官问我分布式ID怎么生成，我说用雪花算法，他连问了三层深挖](https://mp.weixin.qq.com/s/39HtDR7Bez0DpiLvagkPpQ)
 + [分布式唯一序列号：万亿级订单不重复的奥秘](https://mp.weixin.qq.com/s/UQzKE3zJGQjDEJ5yxrPjFQ)
++ [第62篇：分布式ID生成策略——雪花算法、Leaf、Redis自增（时钟回拨处理）](https://mp.weixin.qq.com/s/_IzNAOTP29-MY5NkkyZeIw)
 
 ## 分布式锁
 
@@ -518,6 +519,7 @@
 + [线上灵异问题：用户没多点按钮，却频繁重复下单！复盘一次生产幂等失效故障全过程](https://mp.weixin.qq.com/s/bsXjcEQ0IYlvG0RcvJbXIg)
 + [美团二面，面试官问我支付防重，我说"先查后写"，他叹了口气合上了简历](https://mp.weixin.qq.com/s/ASs3_-clPUiQi89Zs5Wiaw)
 + [架构实战：彻底吃透防重复提交！接口防重设计方案](https://mp.weixin.qq.com/s/kdmkT94Hh0sQ3Pi2Tuytrw)
++ [微服务幂等性终极实战：根治重复下单、重复扣款、重复回调、消息重复消费（全网最全方案）](https://mp.weixin.qq.com/s/7D6HYgJ87a0wArPD2I-QxQ)
 
 ### 负载&限流
 

@@ -86,3 +86,15 @@ static Unsafe getUnsafe() throws NoSuchFieldException, IllegalAccessException{
     unsafe.getObject(array, arrayBaseOffset + 2L * arrayIndexScale);
     unsafe.getObject(array, arrayBaseOffset + 2L << shift);
 ```
+## 关于从第三方库中的源码汲取的知识
+偶然看`caffeine`缓存库的源码中看到它使用了`jctool`的队列`MpscGrowableArrayQueue`源码,基本上是把源码拷贝到当前库中,有一个关于`unsafe`使用的技巧,它把`producerIndex`和`consumerIndex`的下标获取递增的逻辑为每步+2,然后再使用`unsafe`的api获取数组数据时,再指定的移位偏移量-1
+```java
+  //这里的REF_ARRAY_BASE就是通过`unsafe.arrayBaseOffset`获取的数组基础偏移地址值
+  //REF_ELEMENT_SHIFT是根据`unsafe.arrayIndexScale`获取的数组元素的相对偏移地址值,这里因为知道常规的值为8或者4,所以直接转换为
+  //位运算移位的偏移值,`8`对应`3`,`4`对应`2`,所以x << 3 等同于 x * 8, x << 2 等同于 x * 4
+  //所以当x都是偶数的时候,以z = x / 2,所以 x << 2 等同于 z * 2 << 2 (z << 1 << 2) 等同于 z << 3 , x << 1 等同于 z * 2 << 1 (z << 1 << 1) 等同于 z << 2,刚好就和下面的代码对上
+  //当x = 0, 2, 4, 6, 8, 10的时候,对应的z = 0, 1, 2, 3, 4, 5,是实际的数组下标值
+  private static long modifiedCalcElementOffset(long index, long mask) {
+     return REF_ARRAY_BASE + ((index & mask) << (REF_ELEMENT_SHIFT - 1));
+  }
+```

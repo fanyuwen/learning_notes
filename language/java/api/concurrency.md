@@ -18,4 +18,4 @@
 ![alt 线程状态转换](../api/pic/thread_status.png)
 ### 从第三方库源码学到的知识
 阅读`caffeine`库里有一个`StripedBuffer`类里的doc文档里说参考了jdk1.8的`java.util.concurrent.atomic.Striped64`类,这个类是`DoubleAccumulator`、`DoubleAdder`、`LongAccumulator`、`LongAdder`的基类,其实在jdk1.8版本的`ConcurrentHashMap`里关于size统计数量的逻辑也是照搬该类的实现(`addCount`方法里),核心逻辑是在高并发的场景下进行计数时,会又有一个base值,在CAS失败的时候,会创建一个可扩容的数组(大小基本是2的次幂),数组元素对象存储值,根据每个线程的probe值,取余计算出对应的下标,获取到对应的对象,将值累加到该对象里,计算总和时就是base值+循环求数组所有元素对象的值的和
->> 这里有一个区别`ConcurrentHashMap`里会先尝试累加base值,失败的情况下才会去构建那个数组,但是`Striped64`会先判断是否已经建立了数组(也就是只要有一次CAS累加base值失败的情况),有则直接根据当前线程计算数组索引下标累加
+> 这里有一个区别`ConcurrentHashMap`里会先尝试累加base值,失败的情况下才会去构建那个数组,但是`Striped64`会先判断是否已经建立了数组(也就是只要有一次CAS累加base值失败的情况),有则直接根据当前线程计算数组索引下标累加

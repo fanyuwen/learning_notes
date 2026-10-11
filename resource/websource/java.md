@@ -2845,6 +2845,7 @@
 + [原生 JDBC 性能差到想哭？阿里 Druid 才是正确答案](https://mp.weixin.qq.com/s/rXhW-kn-vT3-ZISUwRrDQA)
 + [做了 6 年 Java 开发，我为什么劝新人一定要学 JDBC](https://mp.weixin.qq.com/s/G31e95bLmLxSwiuXQgX6AQ)
 + [写 JDBC 总在复制粘贴？一个工具类帮你省一半代码](https://mp.weixin.qq.com/s/Lm-bUGYQSy6AJoMrHVN8-A)
++ [海量数据导出频繁 OOM？JDBC 流式查询：彻底解决 JVM 内存溢出痛点](https://mp.weixin.qq.com/s/cX1VjhUoRRiSayBUVk_zYQ)
 
 ## json
 

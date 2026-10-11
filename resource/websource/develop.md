@@ -562,6 +562,7 @@
 + [面试官：高并发场景下，一个好的熔断策略该怎么设计？](https://mp.weixin.qq.com/s/aH9kP_KqCd9I1wKBrcmbow)
 + [高并发系统三板斧：限流、熔断、降级实战落地](https://mp.weixin.qq.com/s/gRG_zPWjgtkparDqqp17PQ)
 + [常见的限流算法](https://mp.weixin.qq.com/s/Xx60L649hBHMe8gMVI65Jw)
++ [接口被刷爆怎么办？四大限流算法与分布式限流全解析](https://mp.weixin.qq.com/s/Uuomd7MKougsJ9vMlU3vrQ)
 
 ### 大文件IO
 

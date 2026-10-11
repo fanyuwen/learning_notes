@@ -1130,6 +1130,7 @@
 + [Redis 面试八股文（三）：高可用（主从复制、哨兵、Cluster）](https://mp.weixin.qq.com/s/6SnxJAFWt9ejoghR7Xn9dw)
 + [Redis性能优化12招，单线程也能飞](https://mp.weixin.qq.com/s/9S1HFowyv_SxyBjbH_udCg)
 + [Redis事务与Lua脚本，原子操作一次讲透](https://mp.weixin.qq.com/s/JKcbPss9WHtay0boUkIcog)
++ [Redis 实战面试题：消息队列、事务、Lua、Pipeline 与分布式锁，一篇讲透](https://mp.weixin.qq.com/s/qvWmvpIXOlT3tgfK1y5QiA)
 
 #### 原理
 

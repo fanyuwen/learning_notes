@@ -44,6 +44,7 @@
 + [你的 Elasticsearch 集群，缺一双眼睛](https://mp.weixin.qq.com/s/zahKxp-duep6sQMVr9uWog)
 + [一篇文章搞懂 ElasticSearch 核心知识](https://mp.weixin.qq.com/s/JrmfHn0k5CppjAAM6zfjHw)
 + [换掉ES！Redis官方搜索引擎来了，性能炸裂！](https://mp.weixin.qq.com/s/QUoIGMKkGhWwGM6tVNrTXQ)
++ [吊打面试官！Elasticsearch 面试万字长文：倒排索引、集群、写入、查询、分词、深度分页、索引优化，看完直接拿 Offer！](https://mp.weixin.qq.com/s/4K_8IJ8DFwPbO8Dwz_OSJg)
 
 ## solr
 

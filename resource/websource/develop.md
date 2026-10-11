@@ -520,6 +520,7 @@
 + [美团二面，面试官问我支付防重，我说"先查后写"，他叹了口气合上了简历](https://mp.weixin.qq.com/s/ASs3_-clPUiQi89Zs5Wiaw)
 + [架构实战：彻底吃透防重复提交！接口防重设计方案](https://mp.weixin.qq.com/s/kdmkT94Hh0sQ3Pi2Tuytrw)
 + [微服务幂等性终极实战：根治重复下单、重复扣款、重复回调、消息重复消费（全网最全方案）](https://mp.weixin.qq.com/s/7D6HYgJ87a0wArPD2I-QxQ)
++ [03｜写操作类服务：重复提交与幂等设计的常见方案及选型](https://mp.weixin.qq.com/s/KQfukyDOVaw70SR5FY_LCA)
 
 ### 负载&限流
 

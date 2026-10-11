@@ -579,6 +579,7 @@
 + [深度解析SD-WAN工作原理，从架构到转发，一文吃透技术核心！](https://mp.weixin.qq.com/s/WhTH92HFl4psMjDz6wP3uA)
 + [腾讯一面：路由器与交换机的区别是什么？我：咋还问网络相关的...](https://mp.weixin.qq.com/s/INZ76V3MpDosgpi8mWYuLw)
 + [终于有人把交换机5类端口讲清楚了！电口、光口、Console、管理口、PoE一次搞懂](https://mp.weixin.qq.com/s/NM7LM7hqSlY18GJwqxwRJQ)
++ [计算机网络基础：从网络体系结构到数据分层传输，一篇搞懂核心知识](https://mp.weixin.qq.com/s/0k-kjd-I22T1h2qjrzcoOA)
 
 ### DNS
 

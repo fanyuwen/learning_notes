@@ -762,6 +762,7 @@
 + [这10个Bug差点让我被开除，血泪教训](https://mp.weixin.qq.com/s/E5nxKIZ_Lnk-3CdTgqRrOA)
 + [别再堆砌“屎山”了！送你10个Java代码整洁术](https://mp.weixin.qq.com/s/bkugq9qtPWEl_hlNGsNW0g)
 + [写 Java，这 13 个坑你中过几个？](https://mp.weixin.qq.com/s/QxuH_VU1vJDYqvJsaJBsZQ)
++ [先查后插，为什么在高并发下必死？](https://mp.weixin.qq.com/s/2cJS73cfAnqtRGrE3p2gZw)
 
 # 底层
 
@@ -2192,6 +2193,7 @@
 + [90% 初级程序员只会 get()，资深工程师都在用这 6 招 Optional 技巧](https://mp.weixin.qq.com/s/vACGezMDbq7M0n9B29YYtA)
 + [方法别再返回 null 了！Optional的4种高级模式](https://mp.weixin.qq.com/s/7U1zg2fMuaYzwDnLg_iJiw)
 + [Optional 是什么？为什么能消灭 NullPointerException（AI 辅助学习 Java 8）](https://mp.weixin.qq.com/s/VdUD06pOpjmXIOKBbdQwyA)
++ [orElse 和 orElseGet 选错，默认值会被白跑一遍](https://mp.weixin.qq.com/s/-zYyHiU2jsrMA-1zOiMhyQ)
 
 ### Comparator
 
@@ -2863,6 +2865,7 @@
 + [Jackson, JSON Java Processor Tutorials](https://www.logicbig.com/tutorials/misc/jackson.html)
 + [Jackson 序列化：@JsonIgnore / @JsonProperty / @JsonFormat / @JsonInclude / @JsonUnwrapped 一次讲清楚](https://mp.weixin.qq.com/s/w9rDrWMWgSg8Vd4rmdJ8GA)
 + [Jackson 数据脱敏：一个 @Sensitive 注解搞定敏感字段打码](https://mp.weixin.qq.com/s/1UiKgqmJ5quiOFoujEWtMA)
++ [Jackson这6个隐藏注解，JSON序列化再也不用写Converter !](https://mp.weixin.qq.com/s/8_F05jFn3viJkEKGu38VBw)
 
 ### fastjson
 
@@ -3142,6 +3145,10 @@
 + [MyBatis-Plus这7个工具类，我后悔没早发现 ！](https://mp.weixin.qq.com/s/clsixSk2IKWOVJmZ79q28A)
 + [第57篇：批量插入与更新的最佳实践——MyBatis-Plus批处理 + rewriteBatchedStatements + 分批提交实测对比](https://mp.weixin.qq.com/s/rd7v-jknpO6m2GmapdfiTA)
 + [第66篇：乐观锁 vs 悲观锁实战——MyBatis-Plus @Version 用法及ABA问题](https://mp.weixin.qq.com/s/NZh08tUjCy1DXZAv58_kvg)
+
+### Flex
+
++ [MyBatis-Flex 全面拆解：性能反超 MyBatis-Plus 5-10 倍？](https://mp.weixin.qq.com/s/Yd6mdMCiiokriASrspJ59g)
 
 ## nacos
 
@@ -3724,6 +3731,7 @@
 + [Spring MVC 请求处理流程，一个请求从进入到返回的完整旅程](https://mp.weixin.qq.com/s/umhA1mmpDVCse8_ySA7eRA)
 + [Spring MVC 面试核心知识点：从核心组件到 RESTful 接口，一文搞懂 Spring MVC](https://mp.weixin.qq.com/s/PQq7weo-e44rfOeXijAaqw)
 + [Controller 基类封装：BaseController 的模板方法设计](https://mp.weixin.qq.com/s/qUIfxFFm9mAq8GCjk_844Q)
++ [一个 HTTP 请求的 Spring MVC 之旅：九大组件与全链路拆解](https://mp.weixin.qq.com/s/VGEybkCvwS8rSR5MrWayQQ)
 
 #### reactor
 
@@ -5554,6 +5562,7 @@
 + [SpringBoot 异步处理：@Async 与线程池配置](https://mp.weixin.qq.com/s/eL430AoxhK3q7tL61e156A)
 + [SpringBoot 消费者并发控制：线程池配置](https://mp.weixin.qq.com/s/9MKXYXxegOaO_f-9ooCLDA)
 + [SpringBoot 定时任务](https://mp.weixin.qq.com/s/Wdt1aIGmnga1RrWvuno8Aw)
++ [调用成功但数据不落地？深挖 @Async 背后你不知道的陷阱](https://mp.weixin.qq.com/s/k42UaObCTs_HdeiSGF2vIA)
 
 ##### Disruptor
 
@@ -5794,6 +5803,10 @@
 + [Spring Boot 3.3与RSocket完美集成：构建高性能异步消息传递系统](https://mp.weixin.qq.com/s/Fbe6TJ9ddJymqN4FneRYYQ)
 + [Spring Boot 3.3与Spring Integration：构建可扩展的消息驱动架构](https://mp.weixin.qq.com/s/rUTegDv7AGpqjwaTSc9AGA)
 + [Spring Boot + Kafka，实时跟踪长时间运行任务](https://mp.weixin.qq.com/s/ibxkVE2ButhJPtUJ8txJ4A)
+
+#### modulith
+
++ [Spring Boot 集成 Spring Modulith：搭一个能拆微服务的模块化单体](https://mp.weixin.qq.com/s/uVZrFuBMorI9jg-ACPK2eA)
 
 #### 配置打包部署
 
@@ -6192,6 +6205,7 @@
 + [Spring Boot 插件化最佳实践](https://mp.weixin.qq.com/s/YskwfHlKdGd8DMKcunPItg)
 + [7个Service，40行重复代码？别硬抄了，DRY原则这样用才不累](https://mp.weixin.qq.com/s/8BkiQnCPgkPmpmUh3UqgpA)
 + [偷梁换柱--自定义实现Spring中的@Value的处理](https://mp.weixin.qq.com/s/sAtNyapuBKUXkqxoSD_LrA)
++ [实体基类设计：BaseEntity 公共字段抽取与 TreeEntity 树形继承](https://mp.weixin.qq.com/s/ND6iJkW1upjCvO8bnFbjHQ)
 
 #### 原理&源码
 

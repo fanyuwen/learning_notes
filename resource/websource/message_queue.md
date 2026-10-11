@@ -57,6 +57,8 @@
 + [面试官问我死信队列是什么，我用"退货仓"讲明白了](https://mp.weixin.qq.com/s/3a6XWPrjX2GCyyuQj_RL0A)
 + [消息队列三大坑：消息丢失、重复消费、消息积压，一篇文章全搞定](https://mp.weixin.qq.com/s/_hFtPS7AQb2laMuwsd1MBQ)
 + [Java面试合集·第19弹：消息丢了、顺序乱了怎么办？Kafka vs RabbitMQ 一次讲清](https://mp.weixin.qq.com/s/Cfmf8xevRjhRufL4Uy9kJg)
++ [消息积压 500 万，你怎么处理？](https://mp.weixin.qq.com/s/pdrfuoa4to-CZbA8vpDGYQ)
++ [MQ 如何保证消息顺序？同一个 Key，只解决了第一步](https://mp.weixin.qq.com/s/CRG50Cv2WR0tcknqkqeqqQ)
 
 # KAFKA
 

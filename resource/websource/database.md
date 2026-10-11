@@ -574,6 +574,7 @@
 + [一文搞懂InnoDB存储引擎的工作原理](https://mp.weixin.qq.com/s/r9Mdr8AvyRyFtQSmXi1Pzw)
 + [聚簇索引与二级索引：InnoDB 的索引组织方式](https://mp.weixin.qq.com/s/iHvJhBacMCQ3MhPiHaO4Pw)
 + [一张表落到磁盘后，到底被拆成了什么？（一文讲透InnoDB 存储层级、数据页与行格式）](https://mp.weixin.qq.com/s/S1SA_GrPwXnvY9_mrDVdAQ)
++ [Java面试合集·第39弹：面试官问"InnoDB 缓冲池满了怎么办"，别再说"自动清"——聊聊刷脏那点事](https://mp.weixin.qq.com/s/7l4xYuZgvyUWyYTrxvMmlA)
 
 #### MVCC
 

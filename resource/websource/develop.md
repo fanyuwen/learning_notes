@@ -407,6 +407,7 @@
 + [项目如何选择Seata-AT、TCC和Saga等分布式事务解决方案](https://mp.weixin.qq.com/s/cMxfvfhmC8HOAUIC8tZqxw)
 + [《分布式事务的7种方案对比与踩坑记录》](https://mp.weixin.qq.com/s/ReR7l-1dECEtIogsjQWinw)
 + [分布式事务实战：3种方案解决跨库数据一致性问题](https://mp.weixin.qq.com/s/R_0JndWnIDERB61bsMQp6Q)
++ [TCC 的三个阶段是什么？Seata 的 AT 模式又是怎么回事？](https://mp.weixin.qq.com/s/-Up7d20YOM7rQgReGJeygQ)
 
 ## 分布式算法
 
@@ -951,6 +952,7 @@
 + [美团一面真题：设计一个预约系统，时间粒度怎么切？](https://mp.weixin.qq.com/s/NUKmJHAF3LYO4IdW2kS5JQ)
 + [每天骑的共享单车是什么通信原理，有人了解过吗？](https://mp.weixin.qq.com/s/nly5tQ0iaHgLXLiZJiYOPw)
 + [如何设计一个百万用户同时在线的直播系统？](https://mp.weixin.qq.com/s/E5P268mn076AYNm5MJwSZg)
++ [支付系统的对账是怎么做的：以微信账单为例](https://mp.weixin.qq.com/s/v5NtGzY29Dkf085WKBHlKA)
 
 ## 代码相关
 

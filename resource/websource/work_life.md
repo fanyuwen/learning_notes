@@ -179,6 +179,7 @@
 + [大龄程序员归宿是什么？现在行情好烂，35+Java程序员找个一万左右的工作，还能找到吗？](https://mp.weixin.qq.com/s/1crP-2bdhM8Fa7fKDcYFGQ)
 + [明明是工作经验越久越吃香，为什么程序员却不是？](https://mp.weixin.qq.com/s/mw6AsQuG7zcN3WBmRbvKxg)
 + [5个程序员接单平台：均单897元，挣到8000的只有5.8%](https://mp.weixin.qq.com/s/pmh9P9mh0dAjT9xohN4hqA)
++ [代码都被AI写了，那人干什么？（SDD超级干货）](https://mp.weixin.qq.com/s/hl6khFk7p2lVrORRDgRTTw)
 
 # 个人成长
 
@@ -644,6 +645,7 @@
 + [Markdown用法续集，轻松展示地铁路线图](https://mp.weixin.qq.com/s/3RSIYq0jml3CKEIa4m-J-Q)
 + [Markdown公式编辑——常用上下标表示方法](https://mp.weixin.qq.com/s/qbRDzT5nsvJvG2xREOfdsg)
 + [关于Markdown的一点疑问，为什么很多人说markdown比word好用？](https://mp.weixin.qq.com/s/ohHSJdx7zvfeWL8j5I-ZcA)
++ [像记事本一样用的 Markdown 编辑器](https://mp.weixin.qq.com/s/5nmUrl_NDyl4gba3hea8Zg)
 
 ### 学习资源
 

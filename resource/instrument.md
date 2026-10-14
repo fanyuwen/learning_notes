@@ -14,6 +14,7 @@
 + 关系型数据库 [postgresql](https://www.postgresql.org) [monetdb](https://www.monetdb.org/) <font color='red'>*</font>[cratedb](https://cratedb.com/) [spacetimedb](https://spacetimedb.com/)
 + 高性能实时分析数据库 [doris](https://doris.apache.org/) <font style='color:red'>*</font>[tidb](https://www.pingcap.com/tidb/)
 + 数据管理平台 [geode](https://geode.apache.org/)
++ 向量数据库 [milvus](https://milvus.io/)
 
 ### DISTRIBUTED
 + 分布式配置 [apollo](https://www.apolloconfig.com/) [nacos](https://nacos.io/)

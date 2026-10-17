@@ -575,6 +575,7 @@
 + [聚簇索引与二级索引：InnoDB 的索引组织方式](https://mp.weixin.qq.com/s/iHvJhBacMCQ3MhPiHaO4Pw)
 + [一张表落到磁盘后，到底被拆成了什么？（一文讲透InnoDB 存储层级、数据页与行格式）](https://mp.weixin.qq.com/s/S1SA_GrPwXnvY9_mrDVdAQ)
 + [Java面试合集·第39弹：面试官问"InnoDB 缓冲池满了怎么办"，别再说"自动清"——聊聊刷脏那点事](https://mp.weixin.qq.com/s/7l4xYuZgvyUWyYTrxvMmlA)
++ [InnoDB锁机制全景图：锁到底怎么用？什么时候触发？](https://mp.weixin.qq.com/s/G3lgrDl_VYN8otat9zpREQ)
 
 #### MVCC
 
@@ -809,6 +810,7 @@
 + [联合索引、覆盖索引与索引下推：高效利用索引的进阶策略](https://mp.weixin.qq.com/s/fibhwdgqHudGltBI72ICUQ)
 + [彻底搞懂MySQL索引：B+树、回表、覆盖索引、联合索引](https://mp.weixin.qq.com/s/T8-2kfXqLWGNmZ0zfgYBrA)
 + [MySQL 索引优化实战：explain 怎么看，索引为什么突然失效](https://mp.weixin.qq.com/s/7GBuml1OOOOr3BB38A_XMg)
++ [MySQL 索引失效! 跑不出这 8 个场景](https://mp.weixin.qq.com/s/cprJdfrQX8mwYsmhgT4gpw)
 
 ### PostgreSQL
 

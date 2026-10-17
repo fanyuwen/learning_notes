@@ -265,6 +265,7 @@
 + [为什么我们没有用微服务，反而选了模块化单体](https://mp.weixin.qq.com/s/7V2CRZiK94vWPtVw8u2QcA)
 + [微服务退潮，单体回温：AI 时代，Java 后端需要一场 "瘦身革命"](https://my.oschina.net/u/2385344/blog/19727454)
 + [面试官：微服务中，什么是服务降级？](https://mp.weixin.qq.com/s/xIgWxas7ACyvw-WydZ1OKw)
++ [微服务架构落地：Redis 缓存体系架构（上篇）—— 集群架构、多级缓存、热点 Key 治理，支撑高并发商品与库存业务](https://mp.weixin.qq.com/s/9ivLS1Sx4DXmXV4XLlps3w)
 
 # 分布式
 
@@ -341,6 +342,8 @@
 + [面试官问我分布式ID怎么生成，我说用雪花算法，他连问了三层深挖](https://mp.weixin.qq.com/s/39HtDR7Bez0DpiLvagkPpQ)
 + [分布式唯一序列号：万亿级订单不重复的奥秘](https://mp.weixin.qq.com/s/UQzKE3zJGQjDEJ5yxrPjFQ)
 + [第62篇：分布式ID生成策略——雪花算法、Leaf、Redis自增（时钟回拨处理）](https://mp.weixin.qq.com/s/_IzNAOTP29-MY5NkkyZeIw)
++ [分布式超时与重试体系深度落地：别让超时重试引发线上雪崩](https://mp.weixin.qq.com/s/qYUxxbA720MSLzbc23fzwA)
++ [面试难题：分布式 Session 实现难点，这篇就够！](https://mp.weixin.qq.com/s/E5nMD2a3FPo-TIjk2Jz-qQ)
 
 ## 分布式锁
 
@@ -652,6 +655,7 @@
 + [多级缓存一致性工程实践：从 Caffeine + Redis 到 MQ/CDC 闭环治理的生产级落地指南](https://mp.weixin.qq.com/s/Wj7j7foD3kzP7cIlsspoxw)
 + [缓存击穿、穿透、雪崩一次讲透：附 Redis hotkey 实战](https://mp.weixin.qq.com/s/4FRF-3lJ2CMAqWYFeOAEjg)
 + [拾分架构师 05：缓存不是万能药，Redis 也会把数据库打穿](https://mp.weixin.qq.com/s/NQfECFfaxTT6e8sslxFmQw)
++ [缓存与队列：缓存崩了怎么办？一文搞懂 Redis 穿透、击穿、雪崩全套解法](https://mp.weixin.qq.com/s/atM5sG78NOyqm1YJALJHdQ)
 
 ## 优化
 
@@ -867,6 +871,7 @@
 + [如何设计一个低延迟的实时数据处理系统？](https://mp.weixin.qq.com/s/XerfTV9Eh2M5DuHJItz_0Q)
 + [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/Vae4Y7Mhr2urQMxoiEkgmw)
 + [一个字段搞定4种开关状态：位运算在开关状态中的实战](https://mp.weixin.qq.com/s/h-5PWhHH3Fga0UjRjFQnOw)
++ [第70篇：批量消息推送优化——百万级推送如何避免内存爆炸（分片 + 线程池 + 异步）](https://mp.weixin.qq.com/s/dfDkmuLgFb6HIyhOKduPZg)
 
 # 测试相关
 

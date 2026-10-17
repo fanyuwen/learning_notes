@@ -813,6 +813,7 @@
 + [硬件协议篇-一文搞懂“UART协议”](https://mp.weixin.qq.com/s/R_E_29lRlQ31tYSUKKaBKg)
 + [一文详解蓝牙通信技术](https://mp.weixin.qq.com/s/wjR25Yz2GT4k6eVtYoaI7g)
 + [串口通讯模块详解](https://mp.weixin.qq.com/s/fzkBlIPrVKxDm2rMR6E1Yw)
++ [什么是 MQTT？别只知道它是物联网通信协议](https://mp.weixin.qq.com/s/FvlhzoPzJXxu2VmaPgdFHQ)
 
 ## web
 

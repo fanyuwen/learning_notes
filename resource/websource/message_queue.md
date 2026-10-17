@@ -59,6 +59,7 @@
 + [Java面试合集·第19弹：消息丢了、顺序乱了怎么办？Kafka vs RabbitMQ 一次讲清](https://mp.weixin.qq.com/s/Cfmf8xevRjhRufL4Uy9kJg)
 + [消息积压 500 万，你怎么处理？](https://mp.weixin.qq.com/s/pdrfuoa4to-CZbA8vpDGYQ)
 + [MQ 如何保证消息顺序？同一个 Key，只解决了第一步](https://mp.weixin.qq.com/s/CRG50Cv2WR0tcknqkqeqqQ)
++ [消息队列的可靠性：不丢、不重、不乱序到底怎么做到](https://mp.weixin.qq.com/s/fjVhNGpFun6tnQXdkP4OrQ)
 
 # KAFKA
 
@@ -246,6 +247,7 @@
 + [为什么越来越多团队放弃 RabbitMQ，转向 NATS？](https://mp.weixin.qq.com/s/D_9yb5KM-z1beo_mPh9V0g)
 + [RabbitMQ顺序消息实战：保证订单状态机不乱序的完整方案+完整项目源码](https://mp.weixin.qq.com/s/qZmf3H5evfXYSj9-pXYm-w)
 + [RabbitMQ 核心原理：一条消息到底经历了什么？](https://mp.weixin.qq.com/s/ZzBrvMAcFWf0ixlVveDTIQ)
++ [面试重点：消息发出去了，为什么还会丢？RabbitMQ 消息可靠性怎么解决？](https://mp.weixin.qq.com/s/6jUdPTvsVKn2nq5F6lQ1rA)
 
 # PULSAR
 

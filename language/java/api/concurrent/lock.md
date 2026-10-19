@@ -15,5 +15,5 @@
 ### LockSupport与Object.wait/notify,Condition.await/signal的区别
 > 今天也是在看aqs(`AbstractQueuedSynchronizer`)的源码的时候发现的,其实已经就注意了,只是这次在研究共享(share)模式的时候额外注意了一下,`Object.wait/Condition.await`等待
 > 与对应的`Object.notify/Condition.signal`唤醒之间是有严格的先后关系的,可以参考java语言规范里*happen-before*原则,理论上`Object.wait/Condition.await` happen before
-> `Object.notify/Condition.signal`,所以notify或者signal只能唤醒之气wait或者await的线程,而不能唤醒之后的,而`LockSupport`则不一样,他是有一个被称为许可(permit)的条件,我猜测
-> 是一个数字,当调用park系方法是,会相应的加/减许可数,调用unpark系方法时会减/加许可数,当许可数为0时表示线程可以正常运行
+> `Object.notify/Condition.signal`,所以notify或者signal只能唤醒之气wait或者await的线程,而不能唤醒之后的,而`LockSupport`则不一样,他是有一个被称为许可(permit)的条件,是一个整数值,
+> 也代表一种状态,当调用park系方法时,设置该许可为1,调用unpark系方法时会将该许可重新设置为0,当许可数为0时表示线程可以正常运行

@@ -266,6 +266,7 @@
 + [微服务退潮，单体回温：AI 时代，Java 后端需要一场 "瘦身革命"](https://my.oschina.net/u/2385344/blog/19727454)
 + [面试官：微服务中，什么是服务降级？](https://mp.weixin.qq.com/s/xIgWxas7ACyvw-WydZ1OKw)
 + [微服务架构落地：Redis 缓存体系架构（上篇）—— 集群架构、多级缓存、热点 Key 治理，支撑高并发商品与库存业务](https://mp.weixin.qq.com/s/9ivLS1Sx4DXmXV4XLlps3w)
++ [微服务架构落地：消息队列架构设计（中篇）——事务消息、业务幂等，保障单据数据一致性](https://mp.weixin.qq.com/s/mR9XYzUnXQaEn2aW9X5nJA)
 
 # 分布式
 
@@ -872,6 +873,8 @@
 + [告别if-else噩梦：流程编排技术真的太香了！](https://mp.weixin.qq.com/s/Vae4Y7Mhr2urQMxoiEkgmw)
 + [一个字段搞定4种开关状态：位运算在开关状态中的实战](https://mp.weixin.qq.com/s/h-5PWhHH3Fga0UjRjFQnOw)
 + [第70篇：批量消息推送优化——百万级推送如何避免内存爆炸（分片 + 线程池 + 异步）](https://mp.weixin.qq.com/s/dfDkmuLgFb6HIyhOKduPZg)
++ [第63篇：高并发下订单号生成——雪花算法 + 业务标识 + 防重复](https://mp.weixin.qq.com/s/qDY0GvLoEX49iuAJJZ-ODQ)
++ [第58篇：多租户数据隔离方案——字段模式 + 拦截器动态注入](https://mp.weixin.qq.com/s/VzEJc_S0RCjWLRAUKWqVdg)
 
 # 测试相关
 

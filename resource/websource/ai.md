@@ -115,6 +115,7 @@
 + [MCP 协议将发布史上最大更新：不再有会话，不再有握手](https://www.oschina.net/news/475822)
 + [既然AI这么强，为什么还需要程序员交付代码？](https://mp.weixin.qq.com/s/8b5itX5dfkGMYNvN-7cwVg)
 + [Simon Willison 重新拥抱 MCP：无状态协议如何改变游戏规则](https://www.oschina.net/news/488038/stateless-mcp)
++ [AI 原生数据平台：范式演进与技术架构](https://mp.weixin.qq.com/s/DB_WaPwZihKSPAjf5ANerA)
 
 ### agent
 

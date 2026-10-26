@@ -548,6 +548,7 @@
 + [MySQL 慢查询优化实战：从 EXPLAIN 到索引设计](https://mp.weixin.qq.com/s/7avupGuOpDIZR3qId8b1XQ)
 + [【JAVA高级面试题】MySQL CPU / IO 飙升：定位 + 排查 + 解决方案](https://mp.weixin.qq.com/s/uNFvo5mjTSjsFnHSzlMbkQ)
 + [数据库实战：解决千万级数据卡顿！MySQL大表LIMIT深分页终极优化实战](https://mp.weixin.qq.com/s/LaQyK5i_YDDgmYx7xIuMUQ)
++ [阿里终面：10 亿数据如何快速插入 MySQL？](https://mp.weixin.qq.com/s/tbgHz26Lff9ngrorclffow)
 
 #### 存储引擎
 
@@ -694,6 +695,7 @@
 + [架构必知：MySQL事务原理](https://mp.weixin.qq.com/s/q6C6Yhv_uIv3Xk-23UryYw)
 + [MySQL 事务隔离级别，以及什么是脏读、不可重复读、幻读](https://mp.weixin.qq.com/s/ubzKau7EQxm77hFJAHNQHw)
 + [MySQL InnoDB 事务实现原理](https://mp.weixin.qq.com/s/naBossr54u6uzXFAMrGRRQ)
++ [别只背 ACID 四个字母：MySQL 事务的底层实现与血泪教训，一次盘明白](https://mp.weixin.qq.com/s/Uq4rvSgM9FdIDZQUmiWvpw)
 
 #### 索引
 

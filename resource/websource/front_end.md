@@ -347,6 +347,7 @@
 
 + [从 WebSocket 到 SSE，实时通信的轻量化趋势](https://mp.weixin.qq.com/s/ALZkwO4gB1IN0SQO3_s3_Q)
 + [sse+redis渐进式异步数据加载](https://mp.weixin.qq.com/s/ggVC1-UTd6v7Nw3hgNdk5w)
++ [还用WebSocket？这才是实时消息推送的正确姿势！轻量好用](https://mp.weixin.qq.com/s/FWzWAGpRZmkgT9ZZ4Av0WA)
 
 # 工具
 

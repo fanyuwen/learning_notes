@@ -6876,3 +6876,4 @@
 + [Java 定时任务与延时任务，一篇讲透：从单机到分布式调度](https://mp.weixin.qq.com/s/HpA2knqulqO2OUGh6DbYJg)
 + [【JAVA高级面试题】线上接口的 QPS 和 TPS 一般是多少？](https://mp.weixin.qq.com/s/UIekfGx9dqGGsRoRMLcr4Q)
 + [Java面试合集·第47弹：分布式系统主键怎么不重复？雪花算法、号段模式、UUID 怎么选](https://mp.weixin.qq.com/s/XWqmtiiXHFpb3YTF-Bt_CA)
++ [公司刚入职了一名 Java 中级开发，短短 4 行代码居然凑齐了 3 个 bug！我哭了~~](https://mp.weixin.qq.com/s/DnXTSt74AtDJLeUwXJYkXA)

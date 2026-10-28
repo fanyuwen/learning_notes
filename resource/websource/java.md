@@ -1855,6 +1855,7 @@
 + [JVM GC排查实战篇](https://mp.weixin.qq.com/s/WCrdRXRWCWtYzRRyLVMj2A)
 + [复制、标记清除、标记整理，GC 怎样处理存活对象？（一文讲透JVM 垃圾回收算法）](https://mp.weixin.qq.com/s/dg3qETmKI2JGF2FaEeMrDw)
 + [频繁 FullGC 如何优化](https://mp.weixin.qq.com/s/p0d5Z-WbhCNIvAtX7vDsqQ)
++ [Java 为什么需要垃圾回收？GC 到底在回收什么？](https://mp.weixin.qq.com/s/uddMe55yVxB556Q5Fb8G1Q)
 
 #### CMS
 
@@ -3116,6 +3117,7 @@
 + [MyBatis 一条 SQL 是怎么执行的？#{} 和 ${} 差别到底在哪](https://mp.weixin.qq.com/s/66ufQmZbpZkY9PkwPOicZg)
 + [MyBatis 流式查询实战：用 ResultHandler 优雅处理海量数据](https://mp.weixin.qq.com/s/BGF5dEOcByohJilVBMkd3g)
 + [Mybatis 游标查询实战：useCursorFetch + Cursor + fetchSize](https://mp.weixin.qq.com/s/as_My8ABUzzeqYf0-4_i3g)
++ [放弃老旧的Mybatis，强类型替换字符串，这款ORM框架很强！！！](https://mp.weixin.qq.com/s/X6SFQt0ptB0ZkuDDpVpI9g)
 
 ### plus
 
@@ -4165,6 +4167,7 @@
 + [几行代码给项目集成AI功能，Spring AI 2.0太香了！](https://mp.weixin.qq.com/s/9ISb0NXERg5DPavhQPcuGQ)
 + [太强了！把 Claude Code 的自动记忆机制搬进了 Spring AI](https://mp.weixin.qq.com/s/jxp0YoNdHlcNWXMUsPWUmg)
 + [告别单体 Agent！用 Spring AI 玩转多智能体分层编排实战](https://mp.weixin.qq.com/s/kW4St93_9aiPaY_6jsRsOA)
++ [Agent开发：Spring AI Alibaba 基于 Graph 的工作流编排](https://mp.weixin.qq.com/s/4HkMTBQNaccHVdQnghQMCw)
 
 #### 大模型
 
@@ -5304,6 +5307,7 @@
 + [Spring Boot 接口被刷爆后，我用 Redis + Lua 做了一个真正能跑多实例的限流器](https://mp.weixin.qq.com/s/m3UnTMv5HQlv2NM4gzw4gA)
 + [Spring Boot接口幂等性设计的4种方案，别再说不会了！](https://mp.weixin.qq.com/s/xp-Hmjy4DbXC_e5LSnUXow)
 + [Spring Boot 扫码登录每秒轮询一次，我换成 SSE 后，接口终于不再被白白刷了](https://mp.weixin.qq.com/s/cnKEpl3pzXUIzE5MuYNN_w)
++ [JSON太复杂，各种嵌套？Spring Boot 一个注解自动映射，扁平化处理](https://mp.weixin.qq.com/s/x9Op8zpYOvCtgsgqwOmWmg)
 
 ##### 文件上传下载
 
@@ -5657,6 +5661,7 @@
 + [Spring Boot 事件机制](https://mp.weixin.qq.com/s/NPe7Xb6gTeOUFLq1isl33A)
 + [Java开发：不止@EventListener！Spring Boot事件机制深度解析，吃透业务解耦核心技巧](https://mp.weixin.qq.com/s/S1w14OJtK6ZC9jZcR2JWmQ)
 + [SpringBoot 事件发布机制：原理篇](https://mp.weixin.qq.com/s/ZfQqyYHhvfJR7C8byZ7tGQ)
++ [停止轮询！Spring Boot 4种实时推送模式](https://mp.weixin.qq.com/s/jtyTkbKZ9FQPxsR50SkCaQ)
 
 #### CACHE
 
@@ -5684,6 +5689,7 @@
 + [SpringBoot 缓存注解：@Cacheable/@CacheEvict 使用](https://mp.weixin.qq.com/s/DZIkOf9hnVECg5ifNfHavQ)
 + [SpringBoot 缓存穿透/击穿/雪崩解决方案](https://mp.weixin.qq.com/s/Xkv3dBlXTpqGpGDn0wtRBw)
 + [第 12 章 SpringBoot 缓存实战：穿透击穿雪崩、一致性、多级缓存完整治理方案](https://mp.weixin.qq.com/s/9aQ3b7W67C5MzHuhq284nw)
++ [Spring Boot 三大缓存对比：Redis、Caffeine、Ehcache 怎么选？](https://mp.weixin.qq.com/s/OZH9Tg8UHDwVC74aEnRZHw)
 
 #### AOP
 
@@ -5972,6 +5978,7 @@
 + [面试官：SpringBoot在打包部署的时候打包成jar和war有什么不同?](https://mp.weixin.qq.com/s/NGAWi8PRglP0cyaFYUAObg)
 + [面试官：SpringBoot 在打包部署的时候打包成 jar 和 war 有什么不同?](https://mp.weixin.qq.com/s/xn3-yKTNB16HY3LJA4BwDw)
 + [Spring Boot 打包方式全攻略：不是只有 jar 和 war，7 种姿势你选哪个？](https://mp.weixin.qq.com/s/Ek7EEVTOKkHJ4TpxcP_V3w)
++ [部署Spring Boot应用还在用Jar包？2026 Java后端云原生部署的5个新范式](https://mp.weixin.qq.com/s/xQV8kALFLCU1oA4oPqVFoA)
 
 #### 集成三方
 
@@ -6211,6 +6218,8 @@
 + [轻量，动态JSON模板引擎JJTemplate](https://mp.weixin.qq.com/s/bPF_mhjydQ5dSUnrmTHiIw)
 + [Spring Boot 企业级开发，5 万行 Excel 数据导入用户干瞪眼，我用 CompletableFuture 拆成了异步](https://mp.weixin.qq.com/s/gijt7pp1-sr39_HIu8PYdA)
 + [开源！Spring Boot 一个注解自动净化数据](https://mp.weixin.qq.com/s/Jkm-NWVk2mlqFTmLfQJKnQ)
++ [Spring Boot + Keyset 搞定海量数据分页查询](https://mp.weixin.qq.com/s/QPxhv8nl6lzXKJUovQPEyQ)
++ [还在手写类扫描？使用高性能 ClassGraph 替代 Spring Boot 中的低效扫描](https://mp.weixin.qq.com/s/PvPoc79VNhyWiOxDnhK6WQ)
 
 ##### excel
 
@@ -6877,3 +6886,4 @@
 + [【JAVA高级面试题】线上接口的 QPS 和 TPS 一般是多少？](https://mp.weixin.qq.com/s/UIekfGx9dqGGsRoRMLcr4Q)
 + [Java面试合集·第47弹：分布式系统主键怎么不重复？雪花算法、号段模式、UUID 怎么选](https://mp.weixin.qq.com/s/XWqmtiiXHFpb3YTF-Bt_CA)
 + [公司刚入职了一名 Java 中级开发，短短 4 行代码居然凑齐了 3 个 bug！我哭了~~](https://mp.weixin.qq.com/s/DnXTSt74AtDJLeUwXJYkXA)
++ [Java AI框架选型指南](https://mp.weixin.qq.com/s/-00LHNERmYFrV1sXrsrKsw)

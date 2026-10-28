@@ -345,6 +345,7 @@
 + [【系统安全】Linux系列系统OpenSSH出现漏洞（CVE-2024-6387）](https://mp.weixin.qq.com/s/b_kr5OHaFmDod51c8nJ2VQ)
 + [从汇编代码看 Ftrace Hook 的原理](https://mp.weixin.qq.com/s/j8Pmc6ml99tlnADqpLRN9g)
 + [Kprobe 优化实现：指令模拟](https://mp.weixin.qq.com/s/ekQbkRoIV3HjTJemdm2FrA)
++ [Linux 为什么有 /bin 又有 /usr/bin？因为 1971 年一块 1.5MB 的硬盘满了](https://mp.weixin.qq.com/s/Qca9_xgn-JVnhLYnHDF2sQ)
 
 # 计算机基础知识
 

@@ -130,6 +130,7 @@
 + [面试官：SQL执行慢，你的第一步是什么？90%的人答错了](https://mp.weixin.qq.com/s/Xjd-jpnJiLECVtkCRB6KSw)
 + [慢 SQL 优化实战！7 个实战优化技巧让查询性能提升 100 倍](https://mp.weixin.qq.com/s/MfopDTTNMReyUbcneTP11g)
 + [排序、分组与分页查询的索引优化](https://mp.weixin.qq.com/s/RVzpp1RUocsMQA19f2Ig-g)
++ [同事使用insert into select迁移数据，开开心心上线，上线后被公司开除！](https://mp.weixin.qq.com/s/G0ggpWoXGvq1pt6D_SRxGg)
 
 # 本地数据库
 
@@ -549,6 +550,8 @@
 + [【JAVA高级面试题】MySQL CPU / IO 飙升：定位 + 排查 + 解决方案](https://mp.weixin.qq.com/s/uNFvo5mjTSjsFnHSzlMbkQ)
 + [数据库实战：解决千万级数据卡顿！MySQL大表LIMIT深分页终极优化实战](https://mp.weixin.qq.com/s/LaQyK5i_YDDgmYx7xIuMUQ)
 + [阿里终面：10 亿数据如何快速插入 MySQL？](https://mp.weixin.qq.com/s/tbgHz26Lff9ngrorclffow)
++ [MySQL 宣布正式拥抱AI](https://mp.weixin.qq.com/s/rqCnGv_cjndUjqUx3u5IVg)
++ [面试官：线上 MySQL 的自增 id 用尽怎么办？](https://mp.weixin.qq.com/s/QZxcMdUm3_YMZ1Tkbz04TQ)
 
 #### 存储引擎
 
@@ -862,6 +865,7 @@
 
 + [SQLite这么小众的数据库，到底是什么人在用？](https://mp.weixin.qq.com/s/QpXp6EL6PNcrXVedbBDbMw)
 + [sqlite3使用pysqlcipher3平替实现加密！](https://mp.weixin.qq.com/s/iDYAWOBJLuiwHuTwlivW7g)
++ [微信为什么使用SQLite保存聊天记录？](https://mp.weixin.qq.com/s/Dgc4wrFI3aMNPqM2ghNB9w)
 
 ### DuckDB
 

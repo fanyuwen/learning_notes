@@ -180,6 +180,7 @@
 + [明明是工作经验越久越吃香，为什么程序员却不是？](https://mp.weixin.qq.com/s/mw6AsQuG7zcN3WBmRbvKxg)
 + [5个程序员接单平台：均单897元，挣到8000的只有5.8%](https://mp.weixin.qq.com/s/pmh9P9mh0dAjT9xohN4hqA)
 + [代码都被AI写了，那人干什么？（SDD超级干货）](https://mp.weixin.qq.com/s/hl6khFk7p2lVrORRDgRTTw)
++ [长期当程序员会失去什么？](https://mp.weixin.qq.com/s/szvxFI09QRs01VMOqOiRgQ)
 
 # 个人成长
 

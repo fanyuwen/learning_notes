@@ -1140,6 +1140,7 @@
 + [Redis性能优化12招，单线程也能飞](https://mp.weixin.qq.com/s/9S1HFowyv_SxyBjbH_udCg)
 + [Redis事务与Lua脚本，原子操作一次讲透](https://mp.weixin.qq.com/s/JKcbPss9WHtay0boUkIcog)
 + [Redis 实战面试题：消息队列、事务、Lua、Pipeline 与分布式锁，一篇讲透](https://mp.weixin.qq.com/s/qvWmvpIXOlT3tgfK1y5QiA)
++ [Redis 深水区：渐进式 rehash、内存碎片与复制协议，那些一追问就露馅的问题](https://mp.weixin.qq.com/s/h2cf3bqmZ_1IhxxjQOWK-Q)
 
 #### 原理
 

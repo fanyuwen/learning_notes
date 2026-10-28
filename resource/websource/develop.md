@@ -268,6 +268,7 @@
 + [微服务架构落地：Redis 缓存体系架构（上篇）—— 集群架构、多级缓存、热点 Key 治理，支撑高并发商品与库存业务](https://mp.weixin.qq.com/s/9ivLS1Sx4DXmXV4XLlps3w)
 + [微服务架构落地：消息队列架构设计（中篇）——事务消息、业务幂等，保障单据数据一致性](https://mp.weixin.qq.com/s/mR9XYzUnXQaEn2aW9X5nJA)
 + [微服务+多级缓存，性能起飞！](https://mp.weixin.qq.com/s/E_J0zA5lfi6VJqI7fwYJbQ)
++ [注册中心详解：Eureka、ZooKeeper、Nacos 到底有什么区别？](https://mp.weixin.qq.com/s/ihwIHto789d7wCSA2OA0jQ)
 
 # 分布式
 
@@ -346,6 +347,7 @@
 + [第62篇：分布式ID生成策略——雪花算法、Leaf、Redis自增（时钟回拨处理）](https://mp.weixin.qq.com/s/_IzNAOTP29-MY5NkkyZeIw)
 + [分布式超时与重试体系深度落地：别让超时重试引发线上雪崩](https://mp.weixin.qq.com/s/qYUxxbA720MSLzbc23fzwA)
 + [面试难题：分布式 Session 实现难点，这篇就够！](https://mp.weixin.qq.com/s/E5nMD2a3FPo-TIjk2Jz-qQ)
++ [分布式定时任务集群：保证任务只执行一次（面试完整版）](https://mp.weixin.qq.com/s/e8_7VZip28Mih2AVdVefVQ)
 
 ## 分布式锁
 

@@ -924,6 +924,7 @@
 + [Java 面试核心知识点：String 详解](https://mp.weixin.qq.com/s/RlpjKTLRzGPkgjO8TybvcQ)
 + [Java 进阶系列： ArrayList 扩容：new 完容量是 0 还是 10](https://mp.weixin.qq.com/s/Sy3zM_NcV5EYd9wHJQAKqg)
 + [争论不休：金额用Long还是BigDecimal？](https://mp.weixin.qq.com/s/GMyNckw1EwbU3SjkC_dFPQ)
++ [Java的Collections 和 Arrays：这两个工具类 90% 的人只用过一半](https://mp.weixin.qq.com/s/JB4P6xu2lQ9LJdwtdNUJqQ)
 
 ### 序列化
 
@@ -1473,6 +1474,7 @@
 + [synchronized 与 ReentrantLock 区别全解析](https://mp.weixin.qq.com/s/aVmcnweVk5PFm__uh5H5xQ)
 + [从 synchronized 到 ReentrantLock:CAS 和 AQS 到底是啥](https://mp.weixin.qq.com/s/YIhj5Vm2Nvzr1ZiMbLAmwA)
 + [Java 锁怎么选？互斥、读写、自旋与锁优化讲透](https://mp.weixin.qq.com/s/-rnLFpPC6FShMPNs64hMOA)
++ [Java 进阶系列：synchronized 的锁升级](https://mp.weixin.qq.com/s/FpM49Vs_VT9t9HVPz49OBQ)
 
 #### volatile
 
@@ -1628,6 +1630,7 @@
 + [JVM 调优：从性能监控到 GC 问题排查，一文掌握 JVM 调优核心思路](https://mp.weixin.qq.com/s/Dz7X9abiOSqk9fc2XiqpEQ)
 + [JVM 内存管理：从内存区域、对象分配到 OOM，彻底搞懂 JVM 内存](https://mp.weixin.qq.com/s/bIHDOZvjGDy2rqBYFIu6sA)
 + [JVM排查别乱试：6个工具各管什么](https://mp.weixin.qq.com/s/9eAlETU99LUBabyJ892kGQ)
++ [JVM 堆和栈的区别，一张表记住](https://mp.weixin.qq.com/s/SEJz_5q-Ae5RlnWOrRvRsg)
 
 ### 命令
 
@@ -3774,6 +3777,7 @@
 + [Spring MVC 面试核心知识点：从核心组件到 RESTful 接口，一文搞懂 Spring MVC](https://mp.weixin.qq.com/s/PQq7weo-e44rfOeXijAaqw)
 + [Controller 基类封装：BaseController 的模板方法设计](https://mp.weixin.qq.com/s/qUIfxFFm9mAq8GCjk_844Q)
 + [一个 HTTP 请求的 Spring MVC 之旅：九大组件与全链路拆解](https://mp.weixin.qq.com/s/VGEybkCvwS8rSR5MrWayQQ)
++ [Spring 拦截器与过滤器到底先走谁？执行顺序一次说清](https://mp.weixin.qq.com/s/WNUh4vlGQxaVByDXT_sLiw)
 
 #### reactor
 
@@ -4320,6 +4324,7 @@
 + [如何理解Java框架 Spring Boot？](https://mp.weixin.qq.com/s/uR7923yDVaFCpFO_nUkjzw)
 + [Spring Boot 全链路串讲全解析  （面试自测，加深理解）](https://mp.weixin.qq.com/s/ghKzdnQblJiiMJ3Hvp94hg)
 + [Spring Boot 只是装配，不是架构](https://mp.weixin.qq.com/s/0pGR1c1Wg9UVIMzGup8b5A)
++ [面试官：线上服务挂了你怎么第一时间知道？](https://mp.weixin.qq.com/s/SRFZ-oBGEtoEhFIuFnWL2g)
 
 ##### 通用功能
 
@@ -5308,6 +5313,7 @@
 + [Spring Boot接口幂等性设计的4种方案，别再说不会了！](https://mp.weixin.qq.com/s/xp-Hmjy4DbXC_e5LSnUXow)
 + [Spring Boot 扫码登录每秒轮询一次，我换成 SSE 后，接口终于不再被白白刷了](https://mp.weixin.qq.com/s/cnKEpl3pzXUIzE5MuYNN_w)
 + [JSON太复杂，各种嵌套？Spring Boot 一个注解自动映射，扁平化处理](https://mp.weixin.qq.com/s/x9Op8zpYOvCtgsgqwOmWmg)
++ [Filter、Interceptor、AOP 谁先执行？跟着请求走一遍](https://mp.weixin.qq.com/s/RE-GYvj8uYy8xliYGDIG3w)
 
 ##### 文件上传下载
 
@@ -6220,6 +6226,7 @@
 + [开源！Spring Boot 一个注解自动净化数据](https://mp.weixin.qq.com/s/Jkm-NWVk2mlqFTmLfQJKnQ)
 + [Spring Boot + Keyset 搞定海量数据分页查询](https://mp.weixin.qq.com/s/QPxhv8nl6lzXKJUovQPEyQ)
 + [还在手写类扫描？使用高性能 ClassGraph 替代 Spring Boot 中的低效扫描](https://mp.weixin.qq.com/s/PvPoc79VNhyWiOxDnhK6WQ)
++ [第90篇：SpringBoot使用OkHttp/HttpClient连接池管理——默认配置、连接泄漏与生产级调优](https://mp.weixin.qq.com/s/BmVgAguOBZX5ZfS7rHNGZw)
 
 ##### excel
 

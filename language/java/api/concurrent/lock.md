@@ -33,7 +33,11 @@
             LockSupport.park();
         });
         t.start();
-        //这里的睡眠时为了让上面的线程先执行
+        //这里的睡眠时为了让上面的线程先执行并且先阻塞
+        //描述一下如果不加这段睡眠的影响,可能是当前main线程会先执行,调用unpark(给t线程设置一个许可),然后调用countDownLatch.countDown()将countDownLatch的计数减为0,然后t线程运行,在await方法调用的地方因为已经将计数减为0,所以不需要阻塞
+        //直接往下运行,这个时候因为已经有一个许可了,所以park也是消耗掉这个许可直接运行完,整个程序不会阻塞
+        //还有另一种情况,就是当t线程先运行,阻塞在await调用的地方,然后main线程运行,先调用unpark方法唤醒t线程,然后调用countDownLatch.countDown方法,只是在该方法里执行完计数设置为0并调用LockSupport.unpark指定的t线程,此时时间片切换到t线程
+        //从await中恢复(因为显式调用LockSupport.unpark),然后检查计数已经满足直接往下执行,到执行park方法时,因为又设置了一次许可(countDownLatch.countDown方法里的调用),所以也直接消耗许可并不会阻塞,执行完毕
         TimeUnit.MILLISECONDS.sleep(50);
         //注意这里的unpark会意外的唤醒阻塞api里的park调用,也就是会唤醒上面线程里的countDownLatch.await()阻塞调用,但虽然唤醒了,内部是一个循环,还是会检查阻塞条件是否满足,不满足还是会阻塞,但是会消耗掉这次unpark设置的许可
         LockSupport.unpark(t);

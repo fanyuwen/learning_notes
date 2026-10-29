@@ -17,3 +17,26 @@
 > 与对应的`Object.notify/Condition.signal`唤醒之间是有严格的先后关系的,可以参考java语言规范里*happen-before*原则,理论上`Object.wait/Condition.await` happen before
 > `Object.notify/Condition.signal`,所以notify或者signal只能唤醒之气wait或者await的线程,而不能唤醒之后的,而`LockSupport`则不一样,他是有一个被称为许可(permit)的条件,是一个整数值,
 > 也代表一种状态,当调用park系方法时,设置该许可为1并挂起当前线程,调用unpark系方法时会将该许可重新设置为0,当许可数为0时表示线程可以正常运行
+
+关于`LockSupport`的使用遇到的一个问题,对于在java里的代码API调用中阻塞的逻辑大部分都是通过调用`LockSupport`的`park`方法进行阻塞的,所以在自己的代码里尤其是是直接使用`LockSupport`时,需要小心
+因为有可能会影响你使用的其它的并发工具API,下面是一个例子
+```java
+        CountDownLatch countDownLatch = new CountDownLatch(1);
+        Thread t = new Thread(() -> {
+            //这里通过CountDownLatch的wait等待,底层走的时AQS,最终也会调用LockSupport的park
+            try {
+                countDownLatch.await();
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+            //这里再手动调用LockSupport的park方法
+            LockSupport.park();
+        });
+        t.start();
+        //这里的睡眠时为了让上面的线程先执行
+        TimeUnit.MILLISECONDS.sleep(50);
+        //注意这里的unpark会意外的唤醒阻塞api里的park调用,也就是会唤醒上面线程里的countDownLatch.await()阻塞调用,但虽然唤醒了,内部是一个循环,还是会检查阻塞条件是否满足,不满足还是会阻塞,但是会消耗掉这次unpark设置的许可
+        LockSupport.unpark(t);
+        //这里的countDown会修改阻塞条件并调用LockSupport的unpark方法恢复线程执行,所以会再次恢复上面的countDownLatch.await()调用,并且能够执行完,顺利地到达LockSupport的park调用,但此时会一直卡着,因为没有许可设置了
+        countDownLatch.countDown();
+```

@@ -40,3 +40,6 @@
         //这里的countDown会修改阻塞条件并调用LockSupport的unpark方法恢复线程执行,所以会再次恢复上面的countDownLatch.await()调用,并且能够执行完,顺利地到达LockSupport的park调用,但此时会一直卡着,因为没有许可设置了
         countDownLatch.countDown();
 ```
+
+今天还看到java.lang.Thread类的join方法的doc描述,原来它是通过在自身Thread对象上通过调用Object的wait方法进行阻塞,所以它在最后说了建议不要用Thread对象来作为wait或者notify或者notifyAll方法的调用实例,因为线程执行完毕(无论是正常结束还是异常)
+都会调用自身的notify或者notifyAll方法,所以如果你调用了线程对象上的wait或者notify或者notifyAll有可能会意外的唤醒join方法或者被线程执行完的notify意外地唤醒其它地方的wait

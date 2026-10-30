@@ -176,6 +176,7 @@
 + [巧妙地封装 DDD 值对象](https://mp.weixin.qq.com/s/4t_6jZhzzr8_PphYiugRtw)
 + [DDD 落地总结：我见过的 10 种错误用法](https://mp.weixin.qq.com/s/1gTICuuSPhmpcn5e2H50lw)
 + [14-DDD：实战第一步：一个优选门店案例，讲透 DDD 战略设计怎么落地](https://mp.weixin.qq.com/s/j27yHlv1f73Pd2ljAYaWtg)
++ [产品经理要懂的DDD-2：系统上下文与限界上下文](https://mp.weixin.qq.com/s/aBssuAH43pJbzqWqs53LYw)
 
 ## 微服务
 
@@ -269,6 +270,7 @@
 + [微服务架构落地：消息队列架构设计（中篇）——事务消息、业务幂等，保障单据数据一致性](https://mp.weixin.qq.com/s/mR9XYzUnXQaEn2aW9X5nJA)
 + [微服务+多级缓存，性能起飞！](https://mp.weixin.qq.com/s/E_J0zA5lfi6VJqI7fwYJbQ)
 + [注册中心详解：Eureka、ZooKeeper、Nacos 到底有什么区别？](https://mp.weixin.qq.com/s/ihwIHto789d7wCSA2OA0jQ)
++ [微服务架构落地：接口服务架构设计（二）—— 核心能力落地：签名鉴权、重试熔断、限流降级的治理实战](https://mp.weixin.qq.com/s/T9iZxD77uQnTbhev_RXODQ)
 
 # 分布式
 
@@ -415,6 +417,7 @@
 + [《分布式事务的7种方案对比与踩坑记录》](https://mp.weixin.qq.com/s/ReR7l-1dECEtIogsjQWinw)
 + [分布式事务实战：3种方案解决跨库数据一致性问题](https://mp.weixin.qq.com/s/R_0JndWnIDERB61bsMQp6Q)
 + [TCC 的三个阶段是什么？Seata 的 AT 模式又是怎么回事？](https://mp.weixin.qq.com/s/-Up7d20YOM7rQgReGJeygQ)
++ [分布式事务详解：2PC、3PC、TCC、本地消息表、MQ 与 Seata](https://mp.weixin.qq.com/s/ShEP3HyZA92yazN9VLZ77A)
 
 ## 分布式算法
 
@@ -966,6 +969,7 @@
 + [每天骑的共享单车是什么通信原理，有人了解过吗？](https://mp.weixin.qq.com/s/nly5tQ0iaHgLXLiZJiYOPw)
 + [如何设计一个百万用户同时在线的直播系统？](https://mp.weixin.qq.com/s/E5P268mn076AYNm5MJwSZg)
 + [支付系统的对账是怎么做的：以微信账单为例](https://mp.weixin.qq.com/s/v5NtGzY29Dkf085WKBHlKA)
++ [4万字史诗级「支付全链路」方法论串烧，一文读懂支付！！！！！](https://mp.weixin.qq.com/s/m7aus-Ub6VcWJepkiILQJw)
 
 ## 代码相关
 

@@ -116,6 +116,7 @@
 + [既然AI这么强，为什么还需要程序员交付代码？](https://mp.weixin.qq.com/s/8b5itX5dfkGMYNvN-7cwVg)
 + [Simon Willison 重新拥抱 MCP：无状态协议如何改变游戏规则](https://www.oschina.net/news/488038/stateless-mcp)
 + [AI 原生数据平台：范式演进与技术架构](https://mp.weixin.qq.com/s/DB_WaPwZihKSPAjf5ANerA)
++ [AI 技术面试题・LangChain 篇（三）｜从 Prompt、Memory、Agent、LCEL 到 RAG 落地](https://mp.weixin.qq.com/s/dZ43TO5Af96049ySxq46Zw)
 
 ### agent
 

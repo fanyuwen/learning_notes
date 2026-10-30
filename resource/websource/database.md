@@ -552,6 +552,7 @@
 + [阿里终面：10 亿数据如何快速插入 MySQL？](https://mp.weixin.qq.com/s/tbgHz26Lff9ngrorclffow)
 + [MySQL 宣布正式拥抱AI](https://mp.weixin.qq.com/s/rqCnGv_cjndUjqUx3u5IVg)
 + [面试官：线上 MySQL 的自增 id 用尽怎么办？](https://mp.weixin.qq.com/s/QZxcMdUm3_YMZ1Tkbz04TQ)
++ [写了这么多年 SQL，MySQL 这 7 个底层机制你知道几个？](https://mp.weixin.qq.com/s/CkTwt2dnpIbMko6uqRNaHQ)
 
 #### 存储引擎
 
@@ -611,6 +612,7 @@
 + [MySQL之InnoDB MVCC多版本并发控制](https://mp.weixin.qq.com/s/roipdtKrQ15BV8v_HqCXMA)
 + [MVCC多版本并发控制机制](https://mp.weixin.qq.com/s/9BTUy-OpCTikZIBOuoUsow)
 + [Undo Log 深入：版本链构建、事务回滚与 MVCC 的完整实现](https://mp.weixin.qq.com/s/VRyyHkNJRrxHcEuXy7L0Hw)
++ [MVCC 原理分析、MySQL是如何解决幻读的](https://mp.weixin.qq.com/s/mgvw-BHY4Hg9jRkEOe32dA)
 
 #### 锁
 

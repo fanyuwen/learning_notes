@@ -1159,6 +1159,7 @@
 + [Git 的时代要结束了吗？Google JJ 给出的答案令人意外……](https://mp.weixin.qq.com/s/7Lbdo62drsY9b-K-Q2IdPg)
 + [面试官：Git 如何撤回已 Push 的代码？问倒一大片。。。](https://mp.weixin.qq.com/s/NBKjNrY3Wa-a6-hoq9mhnQ)
 + [面试官：Git 如何撤回已 Push 的代码？问倒一大片。。。](https://mp.weixin.qq.com/s/W9JhURFEDSTGB5aH19g44g)
++ [敲下 git add 的那一刻，.git 里多了什么？](https://my.oschina.net/leonsh/blog/19783796)
 
 ### 编程范式
 

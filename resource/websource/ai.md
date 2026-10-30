@@ -117,6 +117,8 @@
 + [Simon Willison 重新拥抱 MCP：无状态协议如何改变游戏规则](https://www.oschina.net/news/488038/stateless-mcp)
 + [AI 原生数据平台：范式演进与技术架构](https://mp.weixin.qq.com/s/DB_WaPwZihKSPAjf5ANerA)
 + [AI 技术面试题・LangChain 篇（三）｜从 Prompt、Memory、Agent、LCEL 到 RAG 落地](https://mp.weixin.qq.com/s/dZ43TO5Af96049ySxq46Zw)
++ [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://my.oschina.net/vivotech/blog/19783730)
++ [AI 写 PRD 只是第一步：产品管理系统真正被需要的 5 个场景](https://my.oschina.net/candou/blog/19761114)
 
 ### agent
 

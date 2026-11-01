@@ -5,6 +5,7 @@
 + [pingora](https://github.com/cloudflare/pingora)
 + [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 + [vnote](https://github.com/vnotex/vnote)
++ [openidea](https://github.com/l0ng-ai/openidea)
 
 # AI
 

@@ -121,6 +121,7 @@
 + [AI 写 PRD 只是第一步：产品管理系统真正被需要的 5 个场景](https://my.oschina.net/candou/blog/19761114)
 + [Jev 实战：为 AI 工作流引入轻量决策层 x10 倍提速｜得物技术](https://my.oschina.net/u/5783135/blog/19783762)
 + [free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai 中转站）](https://www.oschina.net/news/502475)
++ [AI 在软件测试的未来中处于什么位置？（2）](https://my.oschina.net/candou/blog/19782964)
 
 ### agent
 
@@ -143,6 +144,8 @@
 + [Agent 观测与优化开发者摸底报告](https://my.oschina.net/u/3874284/blog/19756639)
 + [别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控](https://www.oschina.net/news/502591)
 + [Agent 时代，搜索工具正在被重新定义：从链接列表到可直接消费的结构化信息](https://www.oschina.net/news/502709)
++ [Anthropic 平台负责人：多 Agent 跑起来之后，还有四个工程难题无法解决](https://www.oschina.net/news/503288/new-problems-for-engineers-to-solve)
++ [多 Agent 架构中的 Subagent 拆分与合并策略](https://my.oschina.net/u/9489775/blog/19783555)
 
 ### Claude Code
 
@@ -213,6 +216,7 @@
 + [Anthropic指控阿里"提取"了Claude的能力，2.5万个账户、2880万次交互](https://mp.weixin.qq.com/s/9pmNJe_LJ36ZJ24CKfHN8w)
 + [Anthropic 提出三个度量指标，想量化 “AI 发展到底有多快”](https://www.oschina.net/news/502569/anthropic-measuring-pace-of-ai-development)
 + [前 OpenAI 研究员发布 Jev 模型，旨在帮助软件做出快速、结构化的决策](https://www.oschina.net/news/502609/typesafe-ai-system-one-models-and-jev)
++ [OpenAI 隔离的 AI agent 通过 CPU 缓存互相通信](https://www.oschina.net/news/503303/openai-securing-our-frontier-model-training-environment)
 
 ## Transformer
 

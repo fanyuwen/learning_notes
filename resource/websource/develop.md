@@ -882,6 +882,7 @@
 + [第63篇：高并发下订单号生成——雪花算法 + 业务标识 + 防重复](https://mp.weixin.qq.com/s/qDY0GvLoEX49iuAJJZ-ODQ)
 + [第58篇：多租户数据隔离方案——字段模式 + 拦截器动态注入](https://mp.weixin.qq.com/s/VzEJc_S0RCjWLRAUKWqVdg)
 + [我司用了 5 年的单点登录方案！从实现到部署实战详解，稳的一批!](https://mp.weixin.qq.com/s/5VtoJDLX4yoQTnZcQKg_7w)
++ [花了三年搭了一套 iPaaS 低代码平台，今天决定把 Demo 开源](https://www.oschina.net/news/503330)
 
 # 测试相关
 

@@ -131,6 +131,8 @@
 + [慢 SQL 优化实战！7 个实战优化技巧让查询性能提升 100 倍](https://mp.weixin.qq.com/s/MfopDTTNMReyUbcneTP11g)
 + [排序、分组与分页查询的索引优化](https://mp.weixin.qq.com/s/RVzpp1RUocsMQA19f2Ig-g)
 + [同事使用insert into select迁移数据，开开心心上线，上线后被公司开除！](https://mp.weixin.qq.com/s/G0ggpWoXGvq1pt6D_SRxGg)
++ [SQL 执行 43 毫秒，客户端为什么等了 5 秒？从计划生成时间找线索](https://my.oschina.net/u/7146854/blog/19778848)
++ [AI 生成的 SQL 已跑通：上线前还要核对哪三件事？](https://my.oschina.net/u/7146854/blog/19778280)
 
 # 本地数据库
 

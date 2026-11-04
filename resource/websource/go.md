@@ -64,6 +64,7 @@
 + [dig、wire、fx 用了一圈，我还是回到了手写依赖注入：因为 Go 根本不需要“魔法”](https://mp.weixin.qq.com/s/6u4UZlRSXRjRaJ2VT6ktRg)
 + [微服务、API、事件驱动全能打：Go 做 Serverless 到底强在哪？](https://mp.weixin.qq.com/s/tutZArg8qPeBFshAlVVt9A)
 + [我们明知道 Rust 更快，却坚持用 Go：直到 p99 把我们脸打肿](https://mp.weixin.qq.com/s/vKVoTMzJvd1YNQBSQr9dIA)
++ [Go 语言重构 Java 项目会提升了多少](https://www.oschina.net/news/503342)
 
 # 库
 

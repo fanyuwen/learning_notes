@@ -140,6 +140,8 @@
 + [AI Agent 时代，需要的不是更多数据，而是一个语义层](https://my.oschina.net/u/3874284/blog/19756123)
 + [从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考](https://my.oschina.net/u/3874284/blog/19756187)
 + [Coding Agent 不需要 VM：如何把 Agent、文件系统和代码执行拆出虚拟机](https://my.oschina.net/u/9489775/blog/19733363)
++ [Agent 观测与优化开发者摸底报告](https://my.oschina.net/u/3874284/blog/19756639)
++ [别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控](https://www.oschina.net/news/502591)
 
 ### Claude Code
 
@@ -208,6 +210,8 @@
 + [16亿Windows用户，一夜冲进Agent时代！](https://mp.weixin.qq.com/s/yrKrZf_mi5R4EHMia0KWFA)
 + [普通人用AI不需要关注Tokens 的消耗](https://mp.weixin.qq.com/s/5JJfs71q3jlF6cekO5W37g)
 + [Anthropic指控阿里"提取"了Claude的能力，2.5万个账户、2880万次交互](https://mp.weixin.qq.com/s/9pmNJe_LJ36ZJ24CKfHN8w)
++ [Anthropic 提出三个度量指标，想量化 “AI 发展到底有多快”](https://www.oschina.net/news/502569/anthropic-measuring-pace-of-ai-development)
++ [前 OpenAI 研究员发布 Jev 模型，旨在帮助软件做出快速、结构化的决策](https://www.oschina.net/news/502609/typesafe-ai-system-one-models-and-jev)
 
 ## Transformer
 

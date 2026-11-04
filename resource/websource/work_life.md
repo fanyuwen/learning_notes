@@ -478,6 +478,7 @@
 + [用了一年的 MacBook，电池健康仍 100%？踩过坑，才知道这有多夸张](https://mp.weixin.qq.com/s/ENSNS5dAiBcPDkR95raGYQ)
 + [数据不出本机：M5 MacBook 本地大模型部署全流程](https://mp.weixin.qq.com/s/HXR_07Md5U7Sx1z-cDFcXg)
 + [免费的Mac清理工具，终于有个能打的了](https://mp.weixin.qq.com/s/SPVakr30yKH3HVqqq1AZBw)
++ [Homebrew 7.0 发布：命令行工具长出了 GUI，Intel Mac 支持开始倒数](https://www.oschina.net/news/502465/homebrew-7-0-0)
 
 ## NAS
 

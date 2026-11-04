@@ -142,6 +142,7 @@
 + [Coding Agent 不需要 VM：如何把 Agent、文件系统和代码执行拆出虚拟机](https://my.oschina.net/u/9489775/blog/19733363)
 + [Agent 观测与优化开发者摸底报告](https://my.oschina.net/u/3874284/blog/19756639)
 + [别再让 Agent 裸连数据库了：如何用 MCP + 语义网关解决 NL2SQL 幻觉与权限失控](https://www.oschina.net/news/502591)
++ [Agent 时代，搜索工具正在被重新定义：从链接列表到可直接消费的结构化信息](https://www.oschina.net/news/502709)
 
 ### Claude Code
 

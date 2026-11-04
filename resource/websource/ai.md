@@ -120,6 +120,7 @@
 + [从知识沉淀到编程范式：AI Coding 项目冷启动落地实践](https://my.oschina.net/vivotech/blog/19783730)
 + [AI 写 PRD 只是第一步：产品管理系统真正被需要的 5 个场景](https://my.oschina.net/candou/blog/19761114)
 + [Jev 实战：为 AI 工作流引入轻量决策层 x10 倍提速｜得物技术](https://my.oschina.net/u/5783135/blog/19783762)
++ [free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai 中转站）](https://www.oschina.net/news/502475)
 
 ### agent
 

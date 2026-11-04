@@ -138,6 +138,7 @@
 + [Coding Agent 不需要 VM：如何把 Agent、文件系统和代码执行拆出虚拟机](https://my.oschina.net/u/9489775/blog/19733363)
 + [AI Agent 时代，需要的不是更多数据，而是一个语义层](https://my.oschina.net/u/3874284/blog/19756123)
 + [从 ReAct 到 Agent Teams：一个工程师视角的 Agent 协作机制思考](https://my.oschina.net/u/3874284/blog/19756187)
++ [Coding Agent 不需要 VM：如何把 Agent、文件系统和代码执行拆出虚拟机](https://my.oschina.net/u/9489775/blog/19733363)
 
 ### Claude Code
 

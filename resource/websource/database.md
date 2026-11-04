@@ -856,6 +856,7 @@
 + [别再死磕MySQL了，AI时代这个数据库更香！](https://mp.weixin.qq.com/s/LwjeQSmAXunFfBVeTqSzvQ)
 + [PostgreSQL核心特性与高并发系统落地实践](https://mp.weixin.qq.com/s/vSQKiQ4ynEaNIKfyOuvTww)
 + [PostgreSQL for Everything？PG 到底能不能替代 Kafka、Elasticsearch、Redis、MongoDB](https://www.oschina.net/news/502019/postgresql-for-everything)
++ [Postgres 不慢，是 EBS 拖后腿](https://www.oschina.net/news/502975/postgres-isn-t-slow-your-storage-is)
 
 ### SQLSERVER
 

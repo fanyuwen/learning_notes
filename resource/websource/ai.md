@@ -122,6 +122,7 @@
 + [Jev 实战：为 AI 工作流引入轻量决策层 x10 倍提速｜得物技术](https://my.oschina.net/u/5783135/blog/19783762)
 + [free ai gateway 免费 ai 网关，企业级内部 AI 中转服务（ai 中转站）](https://www.oschina.net/news/502475)
 + [AI 在软件测试的未来中处于什么位置？（2）](https://my.oschina.net/candou/blog/19782964)
++ [从 Prompter 到 Loop 设计者：成为 10x 开发者的 20 步路线图](https://my.oschina.net/u/9489775/blog/19726230)
 
 ### agent
 
@@ -146,6 +147,8 @@
 + [Agent 时代，搜索工具正在被重新定义：从链接列表到可直接消费的结构化信息](https://www.oschina.net/news/502709)
 + [Anthropic 平台负责人：多 Agent 跑起来之后，还有四个工程难题无法解决](https://www.oschina.net/news/503288/new-problems-for-engineers-to-solve)
 + [多 Agent 架构中的 Subagent 拆分与合并策略](https://my.oschina.net/u/9489775/blog/19783555)
++ [Personal Agent 的终点不该是一个更聪明的命令行](https://my.oschina.net/u/9765709/blog/19774529)
++ [Docker 推出官方 Agent 工具：YAML 定义、任意 MCP、OCI 镜像分发](https://www.oschina.net/news/502889)
 
 ### Claude Code
 
@@ -217,6 +220,7 @@
 + [Anthropic 提出三个度量指标，想量化 “AI 发展到底有多快”](https://www.oschina.net/news/502569/anthropic-measuring-pace-of-ai-development)
 + [前 OpenAI 研究员发布 Jev 模型，旨在帮助软件做出快速、结构化的决策](https://www.oschina.net/news/502609/typesafe-ai-system-one-models-and-jev)
 + [OpenAI 隔离的 AI agent 通过 CPU 缓存互相通信](https://www.oschina.net/news/503303/openai-securing-our-frontier-model-training-environment)
++ [从 Bun 到 Deno，AI 时代的开发工具正在经历什么？](https://my.oschina.net/u/9489775/blog/19776058)
 
 ## Transformer
 

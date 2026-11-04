@@ -181,6 +181,7 @@
 + [5个程序员接单平台：均单897元，挣到8000的只有5.8%](https://mp.weixin.qq.com/s/pmh9P9mh0dAjT9xohN4hqA)
 + [代码都被AI写了，那人干什么？（SDD超级干货）](https://mp.weixin.qq.com/s/hl6khFk7p2lVrORRDgRTTw)
 + [长期当程序员会失去什么？](https://mp.weixin.qq.com/s/szvxFI09QRs01VMOqOiRgQ)
++ [那些劝我别辞职的声音，没有一个能帮我还月供](https://my.oschina.net/u/5079097/blog/19728581)
 
 # 个人成长
 
@@ -384,6 +385,7 @@
 + [微信电脑版隐藏的 9 个神技巧，90% 的人只用了 10% 的功能！](https://mp.weixin.qq.com/s/K38wgQnybbBP0GcSJAN5Qw)
 + [记住这4条PowerShell命令，瞬间解决Windows最烦人的问题](https://mp.weixin.qq.com/s/wpFRYyeQYoCjIlyHOe_ABg)
 + [C盘又满了？这个 3.2 万星开源神器，一键揪出几十GB重复文件](https://mp.weixin.qq.com/s/D-bTh5wHSkYpzptJ1n72fw)
++ [纯 Rust 重写 Word：5 天斩获 6000+ star、完全净室实现](https://www.oschina.net/news/503003)
 
 ## 开源资源
 
@@ -479,6 +481,7 @@
 + [数据不出本机：M5 MacBook 本地大模型部署全流程](https://mp.weixin.qq.com/s/HXR_07Md5U7Sx1z-cDFcXg)
 + [免费的Mac清理工具，终于有个能打的了](https://mp.weixin.qq.com/s/SPVakr30yKH3HVqqq1AZBw)
 + [Homebrew 7.0 发布：命令行工具长出了 GUI，Intel Mac 支持开始倒数](https://www.oschina.net/news/502465/homebrew-7-0-0)
++ [Windows 转 Mac 新手实用技巧：我的软件清单与快捷键配置](https://www.oschina.net/news/503143)
 
 ## NAS
 
@@ -648,6 +651,7 @@
 + [Markdown公式编辑——常用上下标表示方法](https://mp.weixin.qq.com/s/qbRDzT5nsvJvG2xREOfdsg)
 + [关于Markdown的一点疑问，为什么很多人说markdown比word好用？](https://mp.weixin.qq.com/s/ohHSJdx7zvfeWL8j5I-ZcA)
 + [像记事本一样用的 Markdown 编辑器](https://mp.weixin.qq.com/s/5nmUrl_NDyl4gba3hea8Zg)
++ [Markdown 是 AI 编程时代的 “源代码”，应该把它提交到 /src 目录](https://www.oschina.net/news/502915/markdown-in-src)
 
 ### 学习资源
 

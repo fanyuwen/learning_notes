@@ -213,7 +213,7 @@
 + web应用框架 [actix web](https://actix.rs/)
 + gui [iced](https://iced.rs/) [egui](https://www.egui.rs/)
 + 运行时组件 [tokio](https://tokio.rs/)
-+ 开发资源网站 [tweedegolf](https://tweedegolf.nl/en)
++ 开发资源网站 [tweedegolf](https://tweedegolf.nl/en) [rusty-course](https://rusty.course.rs/)
 + 游戏引擎 [bevy](https://bevy.org/) [fyrox](https://fyrox.rs/)
 + 数据处理 [polars](https://pola.rs/)
 + 消息处理 [iggy](https://iggy.apache.org/)
